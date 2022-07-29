@@ -1,0 +1,38 @@
+# Jazz
+
+## Tracks
+
+| Track                                         | Album                                                              | Artists                                                                                       | Liked   |
+|:----------------------------------------------|:-------------------------------------------------------------------|:----------------------------------------------------------------------------------------------|:--------|
+| I Can't Make You Love Me                      | Luck Of The Draw                                                   | Bonnie Raitt                                                                                  | False   |
+| That Man                                      | Deleted Scenes From The Cutting Room Floor                         | Caro Emerald                                                                                  | True    |
+| Come Fly With Me - Remastered 1998            | Come Fly With Me (Remastered)                                      | Frank Sinatra                                                                                 | False   |
+| The Way You Look Tonight                      | Days Of Wine And Roses, Moon River And Other Academy Award Winners | Frank Sinatra                                                                                 | True    |
+| I've Got You Under My Skin - Remastered 1998  | Songs For Swingin' Lovers! (Remastered)                            | Frank Sinatra                                                                                 | False   |
+| Strangers In The Night                        | Strangers In The Night (Expanded Edition)                          | Frank Sinatra                                                                                 | False   |
+| That's Life                                   | That's Life                                                        | Frank Sinatra                                                                                 | False   |
+| Fly Me To The Moon (In Other Words)           | Sinatra/Basie: The Complete Reprise Studio Recordings              | Frank Sinatra, Count Basie                                                                    | True    |
+| Sunny                                         | Francis A. & Edward K.                                             | Frank Sinatra, Duke Ellington                                                                 | False   |
+| Call Me Irresponsible                         | Call Me Irresponsible                                              | [Michael Bublé](../spotify-stats-jbrown1618/artists/michael_bubl_.md)                         | False   |
+| Everything                                    | Call Me Irresponsible                                              | [Michael Bublé](../spotify-stats-jbrown1618/artists/michael_bubl_.md)                         | True    |
+| The Best Is yet to Come                       | Call Me Irresponsible                                              | [Michael Bublé](../spotify-stats-jbrown1618/artists/michael_bubl_.md)                         | False   |
+| Can't Help Falling in Love                    | Come Fly with Me                                                   | [Michael Bublé](../spotify-stats-jbrown1618/artists/michael_bubl_.md)                         | False   |
+| Cry Me a River                                | Crazy Love                                                         | [Michael Bublé](../spotify-stats-jbrown1618/artists/michael_bubl_.md)                         | False   |
+| Haven't Met You Yet                           | Crazy Love                                                         | [Michael Bublé](../spotify-stats-jbrown1618/artists/michael_bubl_.md)                         | True    |
+| Feeling Good                                  | It's Time                                                          | [Michael Bublé](../spotify-stats-jbrown1618/artists/michael_bubl_.md)                         | True    |
+| Home                                          | It's Time                                                          | [Michael Bublé](../spotify-stats-jbrown1618/artists/michael_bubl_.md)                         | True    |
+| Moondance                                     | Michael Bublé                                                      | [Michael Bublé](../spotify-stats-jbrown1618/artists/michael_bubl_.md)                         | True    |
+| The Way You Look Tonight                      | Michael Bublé                                                      | [Michael Bublé](../spotify-stats-jbrown1618/artists/michael_bubl_.md)                         | False   |
+| La vie en rose (feat. Cécile McLorin Salvant) | love (Deluxe Edition)                                              | [Michael Bublé](../spotify-stats-jbrown1618/artists/michael_bubl_.md), Cécile McLorin Salvant | False   |
+| Someday (feat. Meghan Trainor)                | Nobody but Me                                                      | [Michael Bublé](../spotify-stats-jbrown1618/artists/michael_bubl_.md), Meghan Trainor         | False   |
+| L-O-V-E - Remastered                          | Romance                                                            | Nat King Cole                                                                                 | False   |
+| Unforgettable                                 | Unforgettable: With Love                                           | Nat King Cole, Natalie Cole                                                                   | False   |
+| L-O-V-E                                       | Unforgettable: With Love                                           | Natalie Cole                                                                                  | False   |
+| Love Won't Let You Get Away                   | Music Is Better Than Words                                         | [Sara Bareilles](../spotify-stats-jbrown1618/artists/sara_bareilles.md), Seth MacFarlane      | True    |
+| Something In The Air Between Us               | Make Someone Happy                                                 | Sophie Milman                                                                                 | False   |
+| Agua De Beber                                 | Sophie Milman                                                      | Sophie Milman                                                                                 | True    |
+| La Vie En Rose                                | Sophie Milman                                                      | Sophie Milman                                                                                 | True    |
+| Beautiful Love                                | Take Love Easy                                                     | Sophie Milman                                                                                 | False   |
+| I Can't Make You Love Me                      | Take Love Easy                                                     | Sophie Milman                                                                                 | False   |
+| Breakfast on the Morning Tram                 | Breakfast on the Morning Tram                                      | Stacey Kent                                                                                   | True    |
+| Fake Monologue                                | Db in April                                                        | YUNSEOKCHEOL TRIO                                                                             | False   |
