@@ -18,4 +18,4 @@
 | Killing Me                  | Killing Me                        | True    |
 | Crazy Like You (feat. BIBI) | Bare&Rare, Pt. 1                  | True    |
 | Good Night My Princess      | Bare&Rare, Pt. 1                  | False   |
-| Sparkling                   | Bare&Rare, Pt. 1                  | False   |
+| Sparkling                   | Bare&Rare, Pt. 1                  | True    |

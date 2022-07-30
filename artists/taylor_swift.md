@@ -46,7 +46,7 @@
 | cardigan                                                                                                           | folklore                                         | True    |
 | epiphany                                                                                                           | folklore                                         | False   |
 | exile (feat. Bon Iver)                                                                                             | folklore                                         | True    |
-| illicit affairs                                                                                                    | folklore                                         | True    |
+| illicit affairs                                                                                                    | folklore                                         | False   |
 | invisible string                                                                                                   | folklore                                         | True    |
 | mad woman                                                                                                          | folklore                                         | True    |
 | peace                                                                                                              | folklore                                         | True    |

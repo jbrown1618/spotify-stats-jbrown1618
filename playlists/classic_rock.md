@@ -91,11 +91,11 @@
 | Daydream Believer                                      | The Birds, The Bees, & The Monkees                 | The Monkees                              | True    |
 | Paint It, Black                                        | Aftermath                                          | The Rolling Stones                       | True    |
 | (I Can't Get No) Satisfaction - Mono Version           | Out Of Our Heads                                   | The Rolling Stones                       | True    |
-| My Generation - Stereo Version                         | My Generation                                      | The Who                                  | True    |
+| My Generation - Stereo Version                         | My Generation (Stereo Version)                     | The Who                                  | True    |
 | Pinball Wizard                                         | Tommy                                              | The Who                                  | True    |
 | Who Are You                                            | Who Are You                                        | The Who                                  | True    |
-| Baba O'Riley                                           | Who's Next                                         | The Who                                  | True    |
-| Behind Blue Eyes                                       | Who's Next                                         | The Who                                  | True    |
+| Baba O'Riley                                           | Who's Next (Deluxe Edition)                        | The Who                                  | True    |
+| Behind Blue Eyes                                       | Who's Next (Deluxe Edition)                        | The Who                                  | True    |
 | Won't Get Fooled Again - Remix                         | Who's Next (Expanded Edition)                      | The Who                                  | True    |
 | Brown Eyed Girl                                        | Blowin' Your Mind!                                 | Van Morrison                             | True    |
 | Moondance - 2013 Remaster                              | Moondance (Deluxe Edition)                         | Van Morrison                             | True    |

@@ -215,7 +215,7 @@
 | august                                                                            | folklore                                    | [Taylor Swift](../artists/taylor_swift.md)                 | True    |
 | cardigan                                                                          | folklore                                    | [Taylor Swift](../artists/taylor_swift.md)                 | True    |
 | epiphany                                                                          | folklore                                    | [Taylor Swift](../artists/taylor_swift.md)                 | False   |
-| illicit affairs                                                                   | folklore                                    | [Taylor Swift](../artists/taylor_swift.md)                 | True    |
+| illicit affairs                                                                   | folklore                                    | [Taylor Swift](../artists/taylor_swift.md)                 | False   |
 | invisible string                                                                  | folklore                                    | [Taylor Swift](../artists/taylor_swift.md)                 | True    |
 | mad woman                                                                         | folklore                                    | [Taylor Swift](../artists/taylor_swift.md)                 | True    |
 | peace                                                                             | folklore                                    | [Taylor Swift](../artists/taylor_swift.md)                 | True    |

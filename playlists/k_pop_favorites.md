@@ -6,6 +6,7 @@
 |:---------------------------------|:-------------------------------------------------|:---------------------------------------------|:--------|
 | HANN (Alone)                     | HANN (Alone)                                     | [(G)I-DLE](../artists/_g_i_dle.md)           | True    |
 | LATATA                           | I am                                             | [(G)I-DLE](../artists/_g_i_dle.md)           | True    |
+| HANN (Alone in winter)           | I burn                                           | [(G)I-DLE](../artists/_g_i_dle.md)           | True    |
 | Oh my god                        | I trust                                          | [(G)I-DLE](../artists/_g_i_dle.md)           | True    |
 | Uh-Oh                            | Uh-Oh                                            | [(G)I-DLE](../artists/_g_i_dle.md)           | True    |
 | I Am The Best                    | I Am The Best                                    | 2NE1                                         | True    |
@@ -109,6 +110,7 @@
 | Hello Future                     | Hello Future - The 1st Album Repackage           | NCT DREAM                                    | True    |
 | Hot Sauce                        | Hot Sauce - The 1st Album                        | NCT DREAM                                    | True    |
 | BOOM                             | We Boom - The 3rd Mini Album                     | NCT DREAM                                    | True    |
+| SAY NO MORE                      | CLOSER                                           | OH MY GIRL                                   | True    |
 | Dolphin                          | NONSTOP                                          | OH MY GIRL                                   | True    |
 | Doom Du Doom                     | HARMONY : ZERO IN                                | P1Harmony                                    | True    |
 | Daisy                            | WE:TH                                            | PENTAGON                                     | True    |

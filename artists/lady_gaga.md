@@ -12,7 +12,7 @@
 | Telephone                       | The Fame Monster (Deluxe Edition) | True    |
 | Yoü And I                       | Born This Way                     | True    |
 | Til It Happens To You           | Til It Happens To You             | False   |
-| Million Reasons                 | Joanne (Deluxe)                   | True    |
+| Million Reasons                 | Joanne (Deluxe)                   | False   |
 | La Vie En Rose                  | A Star Is Born Soundtrack         | True    |
 | Look What I Found               | A Star Is Born Soundtrack         | True    |
 | Sour Candy (with BLACKPINK)     | Sour Candy (with BLACKPINK)       | True    |
