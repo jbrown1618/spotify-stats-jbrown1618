@@ -1,0 +1,48 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Generate
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  schedule:
+    - cron: '0 0 1/7 * *'
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+
+jobs:
+  checkout:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Setup python'
+        uses: actions/setup-python@v4
+        with: 
+          python-version: '3.9'
+      - name: 'Setup spotify-stats'
+        run: |
+          cd ..
+          git clone git@github.com:jbrown1618/spotify-stats.git
+          cd spotify-stats
+          pip install -r requirements.txt
+      - name: 'Run spotify-stats'
+        run: 'OUTPUT_DIR=../spotify-stats-jbrown1618 python main.py'
+      - name: 'Return to output repo'
+        run: 'cd ../spotify-stats-jbrown1618'
+  
+  commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Commit changes
+        run: |
+          git config --global user.name 'Josh Brown'
+          git config --global user.email 'jbrown1618@github.com'
+          git add README.md
+          git commit -m 'Index Notes'
+          git push
