@@ -38,7 +38,7 @@ jobs:
       - name: 'Commit changes'
         run: |
           ls
-          cd ../spotify-stats-jbrown1618
+          cd ./spotify-stats-jbrown1618
           ls
           git config --global user.name 'Josh Brown'
           git config --global user.email 'jbrown1618@github.com'
