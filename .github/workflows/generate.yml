@@ -37,6 +37,6 @@ jobs:
           cd ../spotify-stats-jbrown1618
           git config --global user.name 'Josh Brown'
           git config --global user.email 'jbrown1618@github.com'
-          git add README.md
+          git add -A
           git commit -m '[Automated] Update with latest data'
           git push
