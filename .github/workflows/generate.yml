@@ -29,17 +29,12 @@ jobs:
         with: 
           python-version: '3.9'
 
-      - name: 'Run spotify-stats'
+      - name: 'Run spotify-stats and commit changes'
         run: |
           cd ./spotify-stats
           pip install -r requirements.txt
           OUTPUT_DIR=../spotify-stats-jbrown1618 python main.py
-
-      - name: 'Commit changes'
-        run: |
-          ls
-          cd ./spotify-stats-jbrown1618
-          ls
+          cd ../spotify-stats-jbrown1618
           git config --global user.name 'Josh Brown'
           git config --global user.email 'jbrown1618@github.com'
           git add README.md
