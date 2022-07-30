@@ -12,34 +12,29 @@ on:
   workflow_dispatch:
 
 
-jobs:
-  checkout:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      
+jobs:      
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: 'Setup python'
-        uses: actions/setup-python@v4
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
         with: 
           python-version: '3.9'
+
       - name: 'Setup spotify-stats'
         run: |
           cd ..
           git clone git@github.com:jbrown1618/spotify-stats.git
           cd spotify-stats
           pip install -r requirements.txt
+
       - name: 'Run spotify-stats'
         run: 'OUTPUT_DIR=../spotify-stats-jbrown1618 python main.py'
+
       - name: 'Return to output repo'
         run: 'cd ../spotify-stats-jbrown1618'
-  
-  commit:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Commit changes
+
+      - name: 'Commit changes'
         run: |
           git config --global user.name 'Josh Brown'
           git config --global user.email 'jbrown1618@github.com'
