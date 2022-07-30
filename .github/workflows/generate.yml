@@ -11,10 +11,14 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-
+    
 jobs:      
   generate:
     runs-on: ubuntu-latest
+    env:
+      OUTPUT_DIR: ../spotify-stats-jbrown1618 python main.py
+      SPOTIPY_CLIENT_ID: ${{ secrets.SPOTIPY_CLIENT_ID }}
+      SPOTIPY_CLIENT_SECRET: ${{ secrets.SPOTIPY_CLIENT_SECRET }}
     steps:
       - uses: actions/checkout@v3
         with:
