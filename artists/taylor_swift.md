@@ -48,7 +48,7 @@
 | exile (feat. Bon Iver)                                                                                             | folklore                                         | True    |
 | illicit affairs                                                                                                    | folklore                                         | False   |
 | invisible string                                                                                                   | folklore                                         | True    |
-| mad woman                                                                                                          | folklore                                         | True    |
+| mad woman                                                                                                          | folklore                                         | False   |
 | peace                                                                                                              | folklore                                         | True    |
 | the 1                                                                                                              | folklore                                         | True    |
 | the last great american dynasty                                                                                    | folklore                                         | True    |

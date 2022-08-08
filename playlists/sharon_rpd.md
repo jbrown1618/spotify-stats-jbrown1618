@@ -22,6 +22,7 @@
 | BAD GIRL (Prod. Czaer)                            | Street Woman Fighter(SWF) Special                | LACHICA, [CHUNG HA](../artists/chung_ha.md)        | False   |
 | FEARLESS                                          | FEARLESS                                         | LE SSERAFIM                                        | True    |
 | LALISA                                            | LALISA                                           | LISA                                               | True    |
+| GAMBLER                                           | One of a Kind                                    | Monsta X                                           | False   |
 | BOSS                                              | NCT 2018 EMPATHY                                 | NCT, NCT U                                         | True    |
 | Queendom                                          | Queendom - The 6th Mini Album                    | [Red Velvet](../artists/red_velvet.md)             | True    |
 | Psycho                                            | ‘The ReVe Festival’ Finale                       | [Red Velvet](../artists/red_velvet.md)             | True    |

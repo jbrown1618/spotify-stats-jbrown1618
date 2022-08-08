@@ -217,7 +217,7 @@
 | epiphany                                                                          | folklore                                    | [Taylor Swift](../artists/taylor_swift.md)                 | False   |
 | illicit affairs                                                                   | folklore                                    | [Taylor Swift](../artists/taylor_swift.md)                 | False   |
 | invisible string                                                                  | folklore                                    | [Taylor Swift](../artists/taylor_swift.md)                 | True    |
-| mad woman                                                                         | folklore                                    | [Taylor Swift](../artists/taylor_swift.md)                 | True    |
+| mad woman                                                                         | folklore                                    | [Taylor Swift](../artists/taylor_swift.md)                 | False   |
 | peace                                                                             | folklore                                    | [Taylor Swift](../artists/taylor_swift.md)                 | True    |
 | the 1                                                                             | folklore                                    | [Taylor Swift](../artists/taylor_swift.md)                 | True    |
 | the last great american dynasty                                                   | folklore                                    | [Taylor Swift](../artists/taylor_swift.md)                 | True    |

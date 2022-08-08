@@ -18,9 +18,11 @@
 | Rookie                    | Rookie - The 4th Mini Album                      | False   |
 | Rookie                    | Rookie - The 4th Mini Album                      | False   |
 | Red Flavor                | The Red Summer - Summer Mini Album               | True    |
+| You Better Know           | The Red Summer - Summer Mini Album               | False   |
 | About Love                | Perfect Velvet - The 2nd Album                   | True    |
 | I Just                    | Perfect Velvet - The 2nd Album                   | False   |
 | Kingdom Come              | Perfect Velvet - The 2nd Album                   | True    |
+| Look                      | Perfect Velvet - The 2nd Album                   | False   |
 | Moonlight Melody          | Perfect Velvet - The 2nd Album                   | True    |
 | Peek-A-Boo                | Perfect Velvet - The 2nd Album                   | True    |
 | Perfect 10                | Perfect Velvet - The 2nd Album                   | True    |
