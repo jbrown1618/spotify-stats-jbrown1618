@@ -1,4 +1,7 @@
 name,album_type,release_date,uri
+The Lady Killer,album,2010-11-09,spotify:album:3MXU6UoWrf4w4bOvjZTlvY
+Desperado (2013 Remaster),album,1973,spotify:album:09WBxbis5Sixt01FVMs8UM
+The Stranger (Legacy Edition),album,1977,spotify:album:1Mhn9VosyjtWn4dMPFlna6
 Step Back,single,2022-01-03,spotify:album:3gwL04bGAX4Kc2D5Wd7NMk
 ELEVEN,single,2021-12-01,spotify:album:1XMYvsHRt52sMi6wittWqI
 STAYDOM,single,2021-04-08,spotify:album:71hjsg660uio3Z8bnbB6fS
@@ -83,7 +86,7 @@ Gangnam Style (강남스타일),single,2012-01-01,spotify:album:0ZjxizLeMyFEjR27
 The Velvet - The 2nd Mini Album,album,2016-03-17,spotify:album:2qgl7dAgslqL1w2l2wQhMA
 The Perfect Red Velvet - The 2nd Album Repackage,album,2018-01-29,spotify:album:0OkJThJls8FO1lutMzMDJ0
 Perfect Velvet - The 2nd Album,album,2017-11-17,spotify:album:0rvrbZvaDX5S9ZBhwOwFfH
-ALONE,album,2012-04-12,spotify:album:5PXVRXQIPAXH0j78MfeDrV
+ALONE,single,2012-04-12,spotify:album:5PXVRXQIPAXH0j78MfeDrV
 Some,single,2014-02-07,spotify:album:2r1oAmMSnUasXigJ2fTwk6
 The Wonder Years - Trilogy,album,2008-09-22,spotify:album:61KwS8kiAywHkZ7gp4asTE
 Why So Lonely,single,2016-07-05,spotify:album:3vCjRsRRGOLp8VCYPLXtDx
@@ -315,7 +318,6 @@ When We Disco,single,2020-08-12,spotify:album:1PllJjUqafNlQ23eBqs511
 FEVER,single,2019-12-01,spotify:album:3pQEo2pmo1vKTkWbSbldBB
 Advice - The 3rd Mini Album,single,2021-05-18,spotify:album:0kNUDDHwjpemplDqSZ72Ct
 Don't Call Me - The 7th Album,album,2021-02-22,spotify:album:6bfcHf3khPey88qjiiw8V3
-We play,single,2021-03-17,spotify:album:4kU6DFVgZKoDYQPZk1OZp9
 Favorite - The 3rd Album Repackage,album,2021-10-25,spotify:album:5LbnQtyHBfJUCigA08llHX
 2021 Winter SMTOWN : SMCU EXPRESS,album,2021-12-27,spotify:album:3dn2in6doTc6zfA0G2UFDZ
 The Renaissance - The 10th Album,album,2021-03-16,spotify:album:3qyzxavqOfixEPDfFCEMlH
@@ -416,7 +418,7 @@ INSANE LOVE,album,2016-06-21,spotify:album:4Yz1WY6PlJepdbnl4m72b8
 Love Theory - SM STATION,single,2022-04-14,spotify:album:2i27IzG4jFQjX7pS5L6TIu
 Darl+ing,single,2022-04-15,spotify:album:0Dl7e3uv3UrVDdZ6saplzH
 Love&Letter repackage album,album,2016-07-04,spotify:album:7mP7AFehQDonPKEQiXvpvB
-Give It To Me,album,2013-06-11,spotify:album:1nErNFyYvHnuCYvfwrMyoz
+Give It To Me (2),album,2013-06-11,spotify:album:1nErNFyYvHnuCYvfwrMyoz
 TOUCH N MOVE,single,2014-07-21,spotify:album:0SeSM1CAqu7QUkive4jCKl
 DICE - The 2nd Mini Album,single,2022-04-11,spotify:album:6tjdh7YCcSKD51C2kQTW9n
 Oh Sorry Ya,single,2022-03-08,spotify:album:4LKKDcLPX4aZXGfnlpFPi7
@@ -518,6 +520,12 @@ WIN-DOW,single,2022-07-20,spotify:album:4dcwVvd7l0sAGBg0pSmKK2
 NewJeans 1st EP 'New Jeans',single,2022-08-01,spotify:album:1HMLpmZAnNyl9pxvOnTovV
 FOREVER 1 - The 7th Album,album,2022-08-05,spotify:album:3CcgnUkTrUaPTt4Ms1MkoP
 SMARTPHONE,single,2022-08-03,spotify:album:0lbUf1aVf8xmveSuspuNW0
+LMLY,single,2021-03-26,spotify:album:09UJf8ZqCuv5NHRZIqTZgh
+Mixtape : Time Out,single,2022-08-01,spotify:album:6Sr3My17NKn1g1zIFclPoS
+I Need The Light,single,2022-08-12,spotify:album:4RAx28on33NHM5FQiFhyvZ
+CIRCUS,single,2022-06-10,spotify:album:4IQHY28D4aHus9lGDlSdPp
+We play,single,2021-03-17,spotify:album:4kU6DFVgZKoDYQPZk1OZp9
+Pieces,single,2021-12-29,spotify:album:3ivhPVStd9RrtczBFwjkMQ
 Youngblood (Deluxe),album,2018-06-15,spotify:album:2D0Hi3Jj6RFnpWDcSa0Otu
 Head In The Clouds II,album,2019-10-11,spotify:album:7bOpX6Ilc9UCFmH9uGyUDy
 19,album,2008-01-28,spotify:album:1ydnyXPdmHrWXqXDgtQCPf
@@ -565,7 +573,6 @@ Romance,album,2019-12-06,spotify:album:3Vsbl0diFGw8HNSjG8ue9m
 Please Me,single,2019-02-15,spotify:album:5a4sJJ3qjn6hqRsvm0Veso
 WAP (feat. Megan Thee Stallion),single,2020-08-07,spotify:album:2ogiazbrNEx0kQHGl5ZBTQ
 Kiss (Deluxe),album,2012-01-01,spotify:album:29blfJv8AddJrjuG3DpE13
-The Lady Killer,album,2010-11-09,spotify:album:3MXU6UoWrf4w4bOvjZTlvY
 Voicenotes,album,2018-05-11,spotify:album:0mZIUXje90JtHxPNzWsJNR
 Nine Track Mind,album,2016-01-29,spotify:album:3kndSWeE2IYOrZEToZrHEV
 Back To Basics,album,2006-08-14,spotify:album:0zRJsgzHZUUdk8Rjk6Segd
@@ -911,7 +918,6 @@ The Ultimate Collection,compilation,2017-02-03,spotify:album:6TcPqftScGmR0aEgIb4
 Paranoid (Remaster),album,1970-09-18,spotify:album:6r7LZXAVueS5DqdrvXJJK7
 Chicago IX: Chicago's Greatest Hits,compilation,1975-11-10,spotify:album:5qWGV0fd7hpdptJYI4G9Dd
 Machine Head,album,1972-03-25,spotify:album:1EK3a0Yctg4d3nGQzE4Uty
-Desperado (2013 Remaster),album,1973,spotify:album:09WBxbis5Sixt01FVMs8UM
 Hotel California (2013 Remaster),album,1976-12-08,spotify:album:2widuo17g5CEC66IbzveRu
 Rumours (Super Deluxe),album,1977-02-04,spotify:album:0BwWUstDMUbgq2NYONRqlu
 Fleetwood Mac,album,1975-07-11,spotify:album:5VIQ3VaAoRKOEpJ0fewdvo
@@ -1312,7 +1318,6 @@ Vivaldi: Four Seasons,album,2008-01-01,spotify:album:4Uc1Cus3I9LjkI2XwtQnfc
 Vivaldi: The Four Seasons.,album,2007-10-01,spotify:album:4YpaKMCcb65yOoee75UUOh
 Closer,single,2016-07-29,spotify:album:0rSLgV8p5FzfnqlEk4GzxE
 Manic,album,2020-01-17,spotify:album:68enXe5XcJdciSDAZr0Alr
-The Stranger (Legacy Edition),album,1977,spotify:album:1Mhn9VosyjtWn4dMPFlna6
 BAEKHYUN,single,2021-01-20,spotify:album:1jV1UooTpZ7c90umcENmOC
 Wings,album,2016-10-10,spotify:album:1vhNGBTFoaSTLbHjPGFIlF
 Shutdown (Feat. Seori),single,2021-12-30,spotify:album:3qGgRGX3KHbwph4AzWVko1

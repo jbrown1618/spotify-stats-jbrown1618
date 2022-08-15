@@ -32,16 +32,16 @@
 | Feuille d'album in E, Op. posth.                                                           | Chopin: Polonaises                                                        | False   |
 | Fugue in A minor                                                                           | Chopin: Polonaises                                                        | False   |
 | Galop Marquis                                                                              | Chopin: Polonaises                                                        | False   |
+| Polonaise No. 1 in C sharp minor, Op. 26 No. 1                                             | Chopin: Polonaises                                                        | False   |
 | Polonaise No. 10 in F Minor, Op. 71 No. 3                                                  | Chopin: Polonaises                                                        | False   |
+| Polonaise No. 2 in E flat minor, Op. 26 No. 2                                              | Chopin: Polonaises                                                        | False   |
+| Polonaise No. 3 in A, Op. 40 No. 1 - "Military"                                            | Chopin: Polonaises                                                        | False   |
+| Polonaise No. 4 in C minor, Op. 40 No. 2                                                   | Chopin: Polonaises                                                        | False   |
 | Polonaise No. 7 in A-Flat Major, Op. 61 "Polonaise-Fantaisie"                              | Chopin: Polonaises                                                        | False   |
-| Polonaise No.1 in C sharp minor, Op.26 No.1                                                | Chopin: Polonaises                                                        | False   |
-| Polonaise No.2 in E flat minor, Op.26 No.2                                                 | Chopin: Polonaises                                                        | False   |
-| Polonaise No.3 in A, Op.40 No.1 - "Military"                                               | Chopin: Polonaises                                                        | False   |
-| Polonaise No.4 in C minor, Op.40 No.2                                                      | Chopin: Polonaises                                                        | False   |
+| Polonaise No. 8 in D minor, Op. 71 No. 1                                                   | Chopin: Polonaises                                                        | False   |
+| Polonaise No. 9 in B flat, Op. 71 No. 2                                                    | Chopin: Polonaises                                                        | False   |
 | Polonaise No.5 in F sharp minor, Op.44                                                     | Chopin: Polonaises                                                        | False   |
 | Polonaise No.6 in A flat, Op.53 -"Heroic"                                                  | Chopin: Polonaises                                                        | False   |
-| Polonaise No.8 in D minor, Op.71 No.1                                                      | Chopin: Polonaises                                                        | False   |
-| Polonaise No.9 in B flat, Op.71 No.2                                                       | Chopin: Polonaises                                                        | False   |
 | Polonaise in A flat, Op. posth.                                                            | Chopin: Polonaises                                                        | False   |
 | Polonaise in B flat minor, "Adieu" Op. posth.                                              | Chopin: Polonaises                                                        | False   |
 | Polonaise in B flat, Op. posth.                                                            | Chopin: Polonaises                                                        | False   |

@@ -25,3 +25,5 @@
 | FREEZE                                      | ODDINARY            | False   |
 | MANIAC                                      | ODDINARY            | True    |
 | Muddy Water (Changbin, Hyunjin, HAN, Felix) | ODDINARY            | True    |
+| CIRCUS                                      | CIRCUS              | True    |
+| Mixtape : Time Out                          | Mixtape : Time Out  | False   |

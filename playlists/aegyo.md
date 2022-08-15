@@ -6,9 +6,9 @@
 |:--------------------------------|:-------------------------------------|:-----------------------------------------------------|:--------|
 | Dreams Come True                | Dreams Come True - SM STATION        | [aespa](../artists/aespa.md)                         | True    |
 | Boy With Luv (feat. Halsey)     | MAP OF THE SOUL : PERSONA            | [BTS](../artists/bts.md), Halsey                     | False   |
-| Not For Sale                    | BORDER : CARNIVAL                    | [ENHYPEN](../artists/enhypen.md)                     | False   |
-| 10 Months                       | BORDER : DAY ONE                     | [ENHYPEN](../artists/enhypen.md)                     | False   |
-| Let Me In (20 CUBE)             | BORDER : DAY ONE                     | [ENHYPEN](../artists/enhypen.md)                     | False   |
+| Not For Sale                    | BORDER : CARNIVAL                    | [ENHYPEN](../artists/enhypen.md)                     | True    |
+| 10 Months                       | BORDER : DAY ONE                     | [ENHYPEN](../artists/enhypen.md)                     | True    |
+| Let Me In (20 CUBE)             | BORDER : DAY ONE                     | [ENHYPEN](../artists/enhypen.md)                     | True    |
 | Polaroid Love                   | DIMENSION : ANSWER                   | [ENHYPEN](../artists/enhypen.md)                     | True    |
 | Gee                             | Oh! - The Second Album               | [Girls' Generation](../artists/girls__generation.md) | True    |
 | ICY                             | IT'z ICY                             | [ITZY](../artists/itzy.md)                           | True    |

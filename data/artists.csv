@@ -1,4 +1,7 @@
 name,uri
+CeeLo Green,spotify:artist:5nLYd9ST4Cnwy6NHaCxbj8
+Eagles,spotify:artist:0ECwFtbIWEVNwjlrfc6xoL
+Billy Joel,spotify:artist:6zFYqv1mOsgBRQbae3JJ9e
 GOT the beat,spotify:artist:6uNxlIP5lzPFf0BHuELOuX
 IVE,spotify:artist:6RHTUrRF63xao58xh9FXYJ
 STAYC,spotify:artist:01XYiBYaoMJcNhPokrg0l0
@@ -192,6 +195,7 @@ John Legend,spotify:artist:5y2Xq6xcjJb2jVM54GHK3t
 Billlie,spotify:artist:2GQxKDojobwBjZMPf7aoh0
 Lee Hyori,spotify:artist:4FjoOJAndC0s9ZJUo6VGc5
 KARD,spotify:artist:2JhAlkmukNvarUpGhTFXUQ
+HUR YOUNG JI,spotify:artist:0FUmt6iMoB9sJpxZuWkOI5
 PIXY,spotify:artist:0CJkEzffVZLgav03xXeC9s
 Cherry Bullet,spotify:artist:3IJCdgkBZbieocLZ4e94GZ
 PURPLE KISS,spotify:artist:62T5PGHWJ9sxP2SJq20IHq
@@ -239,6 +243,8 @@ Bebe Rexha,spotify:artist:64M6ah0SkkRsnPGtGiRAbb
 YEJI & RYUJIN of ITZY,spotify:artist:4TYswX6bKUjM9rbEL7CMBH
 Jackson Wang,spotify:artist:1kfWoWgCugPkyxQP8lkRlY
 NewJeans,spotify:artist:6HvZYsbFfjnjFrWF950C9d
+Lexie Liu,spotify:artist:6fs2or0cKLEM2xohWq8SoX
+Seraphine,spotify:artist:4TqlcgMFDryY96KWcvrhTv
 5 Seconds of Summer,spotify:artist:5Rl15oVamLq7FbSb0NNBNy
 88rising,spotify:artist:1AhjOkOLkbHUfcHDSErXQs
 Stephanie Poetri,spotify:artist:0HS00NN7MAfF59aJnfcxSO
@@ -266,7 +272,6 @@ Cardi B,spotify:artist:4kYSro6naA4h99UJvo89HB
 Anderson .Paak,spotify:artist:3jK9MiCrA42lLAdMGUZpwa
 Silk Sonic,spotify:artist:6PvvGcCY2XtUcSRld1Wilr
 B.o.B,spotify:artist:5ndkK3dpZLKtBklKjxNQwT
-CeeLo Green,spotify:artist:5nLYd9ST4Cnwy6NHaCxbj8
 Calvin Harris,spotify:artist:7CajNmpbOovFoOoasH2HaY
 Rihanna,spotify:artist:5pKCCKE2ajJHZ9KAiaK11H
 Camila Cabello,spotify:artist:4nDoRrQiYLoBzwC5BhVJzF
@@ -410,7 +415,6 @@ Travis Barker,spotify:artist:4exLIFE8sISLr28sqG1qNX
 Rachael Yamagata,spotify:artist:7w0qj2HiAPIeUcoPogvOZ6
 Lauv,spotify:artist:5JZ7CnR6gTvEMKX4g70Amv
 Aslyn,spotify:artist:6seR0G84QQq1NIW844E7Qq
-Billy Joel,spotify:artist:6zFYqv1mOsgBRQbae3JJ9e
 Birdy,spotify:artist:2WX2uTcsvV5OnS0inACecP
 Brandi Carlile,spotify:artist:2sG4zTOLvjKG1PSoOyf5Ej
 Carole King,spotify:artist:319yZVtYM9MBGqmSQnMyY6
@@ -496,7 +500,6 @@ The Black Crowes,spotify:artist:5krkohEVJYw0qoB5VWwxaC
 Black Sabbath,spotify:artist:5M52tdBnJaKSvOpJGz8mfZ
 Chicago,spotify:artist:3iDD7bnsjL9J4fO298r0L0
 Deep Purple,spotify:artist:568ZhdwyaiCyOGJRtNYhWf
-Eagles,spotify:artist:0ECwFtbIWEVNwjlrfc6xoL
 Fleetwood Mac,spotify:artist:08GQAI4eElDnROBrJRGE0X
 Foreigner,spotify:artist:6IRouO5mvvfcyxtPDKMYFN
 Guns N' Roses,spotify:artist:3qm84nBOXUEQ2vnTfUTTFC
@@ -892,7 +895,7 @@ Vestischen Chamber Orchestra,spotify:artist:1m3ycS5catGCiLB0J5eKDG
 Mari Kodama,spotify:artist:0s0wG03kPyu7MXERfcuxim
 Claude Debussy,spotify:artist:1Uff91EOsvd99rtAupatMP
 Martin Jones,spotify:artist:1VzJXXVXsYbEK773GWSoND
-Franz Joseph Haydn,spotify:artist:656RXuyw7CE0dtjdPgjJV6
+Joseph Haydn,spotify:artist:656RXuyw7CE0dtjdPgjJV6
 The Amsterdam String Quartet,spotify:artist:0kbgyaL9g2Eba79p2jiYlN
 Dmitri Shostakovich,spotify:artist:6s1pCNXcbdtQJlsnM1hRIA
 Jerusalem Quartet,spotify:artist:7AnE8Jpu1vxLeXcs6OKYHE

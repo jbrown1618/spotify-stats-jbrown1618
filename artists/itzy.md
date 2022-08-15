@@ -15,8 +15,8 @@
 | SHOOT!                                              | GUESS WHO                                           | True    |
 | Sorry Not Sorry                                     | GUESS WHO                                           | True    |
 | TENNIS (0:0)                                        | GUESS WHO                                           | False   |
-| #Twenty                                             | CRAZY IN LOVE                                       | False   |
-| Gas Me Up                                           | CRAZY IN LOVE                                       | False   |
+| #Twenty                                             | CRAZY IN LOVE                                       | True    |
+| Gas Me Up                                           | CRAZY IN LOVE                                       | True    |
 | LOCO                                                | CRAZY IN LOVE                                       | True    |
 | SWIPE                                               | CRAZY IN LOVE                                       | True    |
 | Sooo LUCKY                                          | CRAZY IN LOVE                                       | False   |

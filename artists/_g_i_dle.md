@@ -13,6 +13,7 @@
 | Oh my god              | I trust      | True    |
 | DUMDi DUMDi            | DUMDi DUMDi  | True    |
 | THE BADDEST            | THE BADDEST  | True    |
+| MORE                   | ALL OUT      | True    |
 | HANN (Alone in winter) | I burn       | True    |
 | HWAA                   | I burn       | True    |
 | MOON                   | I burn       | False   |

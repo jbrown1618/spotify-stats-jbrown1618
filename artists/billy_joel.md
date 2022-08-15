@@ -9,6 +9,7 @@
 | Piano Man                         | Piano Man                     | True    |
 | New York State of Mind            | Turnstiles                    | True    |
 | Just the Way You Are              | The Stranger (Legacy Edition) | True    |
+| Vienna                            | The Stranger (Legacy Edition) | False   |
 | Just the Way You Are              | The Stranger                  | True    |
 | Movin' Out (Anthony's Song)       | The Stranger                  | True    |
 | Only the Good Die Young           | The Stranger                  | True    |
