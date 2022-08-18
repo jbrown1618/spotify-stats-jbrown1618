@@ -1,25 +1,29 @@
+
 # Disney
+
+
+<img src="https://i.scdn.co/image/ab6761610000e5ebc698d53b77db34027b00f853" alt="Disney" width="100" />
 
 ## Tracks
 
 | Track                                                                   | Album                              | Liked   |
 |:------------------------------------------------------------------------|:-----------------------------------|:--------|
-| Be Our Guest - From "Beauty and the Beast"/Soundtrack                   | Beauty and the Beast               | False   |
-| Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version | Beauty and the Beast               | False   |
-| Belle - From "Beauty and the Beast"/Soundtrack Version                  | Beauty and the Beast               | False   |
-| Gaston - From "Beauty and the Beast" / Soundtrack Version               | Beauty and the Beast               | False   |
-| Something There - From "Beauty and the Beast"/Soundtrack Version        | Beauty and the Beast               | False   |
-| A Girl Worth Fighting For                                               | Mulan (Original Soundtrack)        | False   |
-| Honor To Us All                                                         | Mulan (Original Soundtrack)        | False   |
-| I'll Make a Man Out of You                                              | Mulan (Original Soundtrack)        | False   |
-| Reflection                                                              | Mulan (Original Soundtrack)        | False   |
-| A Whole New World                                                       | Aladdin Special Edition            | False   |
-| Arabian Nights                                                          | Aladdin Special Edition            | False   |
-| Friend Like Me                                                          | Aladdin Special Edition            | False   |
-| One Jump Ahead                                                          | Aladdin Special Edition            | False   |
-| Prince Ali                                                              | Aladdin Special Edition            | False   |
-| Kiss the Girl                                                           | The Little Mermaid Special Edition | False   |
-| Les Poissons                                                            | The Little Mermaid Special Edition | False   |
-| Part of Your World                                                      | The Little Mermaid Special Edition | False   |
-| Poor Unfortunate Souls                                                  | The Little Mermaid Special Edition | False   |
-| Under the Sea                                                           | The Little Mermaid Special Edition | False   |
+| Be Our Guest - From "Beauty and the Beast"/Soundtrack                   | Beauty and the Beast               |         |
+| Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version | Beauty and the Beast               |         |
+| Belle - From "Beauty and the Beast"/Soundtrack Version                  | Beauty and the Beast               |         |
+| Gaston - From "Beauty and the Beast" / Soundtrack Version               | Beauty and the Beast               |         |
+| Something There - From "Beauty and the Beast"/Soundtrack Version        | Beauty and the Beast               |         |
+| A Girl Worth Fighting For                                               | Mulan (Original Soundtrack)        |         |
+| Honor To Us All                                                         | Mulan (Original Soundtrack)        |         |
+| I'll Make a Man Out of You                                              | Mulan (Original Soundtrack)        |         |
+| Reflection                                                              | Mulan (Original Soundtrack)        |         |
+| A Whole New World                                                       | Aladdin Special Edition            |         |
+| Arabian Nights                                                          | Aladdin Special Edition            |         |
+| Friend Like Me                                                          | Aladdin Special Edition            |         |
+| One Jump Ahead                                                          | Aladdin Special Edition            |         |
+| Prince Ali                                                              | Aladdin Special Edition            |         |
+| Kiss the Girl                                                           | The Little Mermaid Special Edition |         |
+| Les Poissons                                                            | The Little Mermaid Special Edition |         |
+| Part of Your World                                                      | The Little Mermaid Special Edition |         |
+| Poor Unfortunate Souls                                                  | The Little Mermaid Special Edition |         |
+| Under the Sea                                                           | The Little Mermaid Special Edition |         |

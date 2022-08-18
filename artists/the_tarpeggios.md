@@ -1,24 +1,28 @@
+
 # The Tarpeggios
+
+
+<img src="https://i.scdn.co/image/ab6761610000e5eb4b2621bf3c5f2197ee957582" alt="The Tarpeggios" width="100" />
 
 ## Tracks
 
 | Track                                 | Album                  | Liked   |
 |:--------------------------------------|:-----------------------|:--------|
-| Carolina State of Mind                | Carolina State of Mind | True    |
-| Carolina State of Mind                | Carolina State of Mind | True    |
-| Chariot                               | Carolina State of Mind | False   |
-| Home                                  | Carolina State of Mind | True    |
-| I Knew You Were Trouble               | Carolina State of Mind | True    |
-| Lullabye (Goodnight, My Angel)        | Carolina State of Mind | True    |
-| Settle Down                           | Carolina State of Mind | True    |
-| The Scientist                         | Carolina State of Mind | True    |
-| A Case of You                         | The Teal Album         | True    |
-| Blank Space                           | The Teal Album         | True    |
-| Bottom of the River                   | The Teal Album         | True    |
-| Build Me up Buttercup                 | The Teal Album         | True    |
-| Can't Take My Eyes off You            | The Teal Album         | True    |
-| Candyman                              | The Teal Album         | True    |
-| Chandelier                            | The Teal Album         | False   |
-| Drag Me Down / As Long as You Love Me | The Teal Album         | True    |
-| I See Fire                            | The Teal Album         | True    |
-| G Train                               | G Train                | True    |
+| Carolina State of Mind                | Carolina State of Mind | 💚       |
+| Carolina State of Mind                | Carolina State of Mind | 💚       |
+| Chariot                               | Carolina State of Mind |         |
+| Home                                  | Carolina State of Mind | 💚       |
+| I Knew You Were Trouble               | Carolina State of Mind | 💚       |
+| Lullabye (Goodnight, My Angel)        | Carolina State of Mind | 💚       |
+| Settle Down                           | Carolina State of Mind | 💚       |
+| The Scientist                         | Carolina State of Mind | 💚       |
+| A Case of You                         | The Teal Album         | 💚       |
+| Blank Space                           | The Teal Album         | 💚       |
+| Bottom of the River                   | The Teal Album         | 💚       |
+| Build Me up Buttercup                 | The Teal Album         | 💚       |
+| Can't Take My Eyes off You            | The Teal Album         | 💚       |
+| Candyman                              | The Teal Album         | 💚       |
+| Chandelier                            | The Teal Album         |         |
+| Drag Me Down / As Long as You Love Me | The Teal Album         | 💚       |
+| I See Fire                            | The Teal Album         | 💚       |
+| G Train                               | G Train                | 💚       |

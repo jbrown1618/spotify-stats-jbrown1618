@@ -1,25 +1,29 @@
+
 # (G)I-DLE
+
+
+<img src="https://i.scdn.co/image/ab6761610000e5ebc54e9b09db7f35f5bbb0efd4" alt="(G)I-DLE" width="100" />
 
 ## Tracks
 
 | Track                  | Album        | Liked   |
 |:-----------------------|:-------------|:--------|
-| LATATA                 | I am         | True    |
-| HANN (Alone)           | HANN (Alone) | True    |
-| POP/STARS              | POP/STARS    | True    |
-| Senorita               | I made       | False   |
-| Uh-Oh                  | Uh-Oh        | True    |
-| LION                   | I trust      | False   |
-| Oh my god              | I trust      | True    |
-| DUMDi DUMDi            | DUMDi DUMDi  | True    |
-| THE BADDEST            | THE BADDEST  | True    |
-| MORE                   | ALL OUT      | True    |
-| HANN (Alone in winter) | I burn       | True    |
-| HWAA                   | I burn       | True    |
-| MOON                   | I burn       | False   |
-| ALREADY                | I NEVER DIE  | True    |
-| ESCAPE                 | I NEVER DIE  | True    |
-| MY BAG                 | I NEVER DIE  | True    |
-| Never Stop Me          | I NEVER DIE  | True    |
-| TOMBOY                 | I NEVER DIE  | True    |
-| VILLAIN DIES           | I NEVER DIE  | True    |
+| LATATA                 | I am         | 💚       |
+| HANN (Alone)           | HANN (Alone) | 💚       |
+| POP/STARS              | POP/STARS    | 💚       |
+| Senorita               | I made       |         |
+| Uh-Oh                  | Uh-Oh        | 💚       |
+| LION                   | I trust      |         |
+| Oh my god              | I trust      | 💚       |
+| DUMDi DUMDi            | DUMDi DUMDi  | 💚       |
+| THE BADDEST            | THE BADDEST  | 💚       |
+| MORE                   | ALL OUT      | 💚       |
+| HANN (Alone in winter) | I burn       | 💚       |
+| HWAA                   | I burn       | 💚       |
+| MOON                   | I burn       |         |
+| ALREADY                | I NEVER DIE  | 💚       |
+| ESCAPE                 | I NEVER DIE  | 💚       |
+| MY BAG                 | I NEVER DIE  | 💚       |
+| Never Stop Me          | I NEVER DIE  | 💚       |
+| TOMBOY                 | I NEVER DIE  | 💚       |
+| VILLAIN DIES           | I NEVER DIE  | 💚       |

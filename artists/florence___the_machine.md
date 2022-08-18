@@ -1,22 +1,26 @@
+
 # Florence + The Machine
+
+
+<img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="Florence + The Machine" width="100" />
 
 ## Tracks
 
 | Track                            | Album                            | Liked   |
 |:---------------------------------|:---------------------------------|:--------|
-| Between Two Lungs                | Lungs                            | True    |
-| Dog Days Are Over                | Lungs                            | True    |
-| I'm Not Calling You A Liar       | Lungs                            | True    |
-| Kiss With A Fist                 | Lungs                            | True    |
-| Rabbit Heart (Raise It Up)       | Lungs                            | True    |
-| You've Got The Love              | Lungs                            | True    |
-| Lover To Lover                   | Ceremonials                      | True    |
-| Never Let Me Go                  | Ceremonials                      | True    |
-| No Light, No Light               | Ceremonials                      | True    |
-| Seven Devils                     | Ceremonials                      | True    |
-| Shake It Out                     | Ceremonials                      | True    |
-| What The Water Gave Me           | Ceremonials                      | True    |
-| Delilah                          | How Big, How Blue, How Beautiful | True    |
-| How Big, How Blue, How Beautiful | How Big, How Blue, How Beautiful | True    |
-| What Kind Of Man                 | How Big, How Blue, How Beautiful | False   |
-| Hunger                           | High As Hope                     | False   |
+| Between Two Lungs                | Lungs                            | 💚       |
+| Dog Days Are Over                | Lungs                            | 💚       |
+| I'm Not Calling You A Liar       | Lungs                            | 💚       |
+| Kiss With A Fist                 | Lungs                            | 💚       |
+| Rabbit Heart (Raise It Up)       | Lungs                            | 💚       |
+| You've Got The Love              | Lungs                            | 💚       |
+| Lover To Lover                   | Ceremonials                      | 💚       |
+| Never Let Me Go                  | Ceremonials                      | 💚       |
+| No Light, No Light               | Ceremonials                      | 💚       |
+| Seven Devils                     | Ceremonials                      | 💚       |
+| Shake It Out                     | Ceremonials                      | 💚       |
+| What The Water Gave Me           | Ceremonials                      | 💚       |
+| Delilah                          | How Big, How Blue, How Beautiful | 💚       |
+| How Big, How Blue, How Beautiful | How Big, How Blue, How Beautiful | 💚       |
+| What Kind Of Man                 | How Big, How Blue, How Beautiful |         |
+| Hunger                           | High As Hope                     |         |

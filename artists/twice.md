@@ -1,38 +1,42 @@
+
 # TWICE
+
+
+<img src="https://i.scdn.co/image/ab6761610000e5eb464ef353e1a7c72f67de8158" alt="TWICE" width="100" />
 
 ## Tracks
 
 | Track                             | Album                   | Liked   |
 |:----------------------------------|:------------------------|:--------|
-| Like Ooh-Ahh                      | The Story Begins        | True    |
-| CHEER UP                          | Page Two                | True    |
-| TT                                | Twicecoaster: Lane 1    | True    |
-| Signal                            | SIGNAL                  | True    |
-| Likey                             | Twicetagram             | True    |
-| Heart Shaker                      | Merry & Happy           | True    |
-| What is Love                      | What Is Love            | True    |
-| Dance The Night Away              | Summer Nights           | False   |
-| YES or YES                        | YES or YES              | True    |
-| FANCY                             | FANCY YOU               | False   |
-| FANCY                             | FANCY YOU               | True    |
-| Breakthrough                      | Breakthrough            | True    |
-| Feel Special                      | Feel Special            | False   |
-| LOVE FOOLISH                      | Feel Special            | True    |
-| MORE & MORE                       | MORE & MORE             | True    |
-| HELL IN HEAVEN                    | Eyes Wide Open          | True    |
-| I CAN'T STOP ME                   | Eyes Wide Open          | True    |
-| SAY SOMETHING                     | Eyes Wide Open          | False   |
-| I'LL SHOW YOU                     | ALL OUT                 | True    |
-| CRY FOR ME                        | CRY FOR ME              | True    |
-| Alcohol-Free                      | Taste of Love           | True    |
-| First Time                        | Taste of Love           | True    |
-| Scandal                           | Taste of Love           | False   |
-| Perfect World                     | Perfect World           | True    |
-| The Feels                         | The Feels               | True    |
-| 1, 3, 2 (JEONGYEON, MINA, TZUYU)  | Formula of Love: O+T=<3 | True    |
-| CRUEL                             | Formula of Love: O+T=<3 | True    |
-| F.I.L.A (Fall In Love Again)      | Formula of Love: O+T=<3 | True    |
-| ICON                              | Formula of Love: O+T=<3 | True    |
-| LAST WALTZ                        | Formula of Love: O+T=<3 | True    |
-| PUSH & PULL (JIHYO, SANA, DAHYUN) | Formula of Love: O+T=<3 | False   |
-| SCIENTIST                         | Formula of Love: O+T=<3 | True    |
+| Like Ooh-Ahh                      | The Story Begins        | 💚       |
+| CHEER UP                          | Page Two                | 💚       |
+| TT                                | Twicecoaster: Lane 1    | 💚       |
+| Signal                            | SIGNAL                  | 💚       |
+| Likey                             | Twicetagram             | 💚       |
+| Heart Shaker                      | Merry & Happy           | 💚       |
+| What is Love                      | What Is Love            | 💚       |
+| Dance The Night Away              | Summer Nights           |         |
+| YES or YES                        | YES or YES              | 💚       |
+| FANCY                             | FANCY YOU               |         |
+| FANCY                             | FANCY YOU               | 💚       |
+| Breakthrough                      | Breakthrough            | 💚       |
+| Feel Special                      | Feel Special            |         |
+| LOVE FOOLISH                      | Feel Special            | 💚       |
+| MORE & MORE                       | MORE & MORE             | 💚       |
+| HELL IN HEAVEN                    | Eyes Wide Open          | 💚       |
+| I CAN'T STOP ME                   | Eyes Wide Open          | 💚       |
+| SAY SOMETHING                     | Eyes Wide Open          |         |
+| I'LL SHOW YOU                     | ALL OUT                 | 💚       |
+| CRY FOR ME                        | CRY FOR ME              | 💚       |
+| Alcohol-Free                      | Taste of Love           | 💚       |
+| First Time                        | Taste of Love           | 💚       |
+| Scandal                           | Taste of Love           |         |
+| Perfect World                     | Perfect World           | 💚       |
+| The Feels                         | The Feels               | 💚       |
+| 1, 3, 2 (JEONGYEON, MINA, TZUYU)  | Formula of Love: O+T=<3 | 💚       |
+| CRUEL                             | Formula of Love: O+T=<3 | 💚       |
+| F.I.L.A (Fall In Love Again)      | Formula of Love: O+T=<3 | 💚       |
+| ICON                              | Formula of Love: O+T=<3 | 💚       |
+| LAST WALTZ                        | Formula of Love: O+T=<3 | 💚       |
+| PUSH & PULL (JIHYO, SANA, DAHYUN) | Formula of Love: O+T=<3 |         |
+| SCIENTIST                         | Formula of Love: O+T=<3 | 💚       |

@@ -1,23 +1,27 @@
+
 # ENHYPEN
+
+
+<img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="ENHYPEN" width="100" />
 
 ## Tracks
 
 | Track                         | Album               | Liked   |
 |:------------------------------|:--------------------|:--------|
-| 10 Months                     | BORDER : DAY ONE    | True    |
-| Flicker                       | BORDER : DAY ONE    | False   |
-| Given-Taken                   | BORDER : DAY ONE    | True    |
-| Let Me In (20 CUBE)           | BORDER : DAY ONE    | True    |
-| Drunk-Dazed                   | BORDER : CARNIVAL   | True    |
-| FEVER                         | BORDER : CARNIVAL   | True    |
-| Not For Sale                  | BORDER : CARNIVAL   | True    |
-| Go Big or Go Home             | DIMENSION : DILEMMA | True    |
-| Just A Little Bit             | DIMENSION : DILEMMA | True    |
-| Tamed-Dashed                  | DIMENSION : DILEMMA | True    |
-| Upper Side Dreamin’           | DIMENSION : DILEMMA | True    |
-| Blessed-Cursed                | DIMENSION : ANSWER  | False   |
-| Polaroid Love                 | DIMENSION : ANSWER  | True    |
-| Always                        | Always              | True    |
-| Future Perfect (Pass the MIC) | MANIFESTO : DAY 1   | False   |
-| ParadoXXX Invasion            | MANIFESTO : DAY 1   | True    |
-| I Need The Light              | I Need The Light    | True    |
+| 10 Months                     | BORDER : DAY ONE    | 💚       |
+| Flicker                       | BORDER : DAY ONE    |         |
+| Given-Taken                   | BORDER : DAY ONE    | 💚       |
+| Let Me In (20 CUBE)           | BORDER : DAY ONE    | 💚       |
+| Drunk-Dazed                   | BORDER : CARNIVAL   | 💚       |
+| FEVER                         | BORDER : CARNIVAL   | 💚       |
+| Not For Sale                  | BORDER : CARNIVAL   | 💚       |
+| Go Big or Go Home             | DIMENSION : DILEMMA | 💚       |
+| Just A Little Bit             | DIMENSION : DILEMMA | 💚       |
+| Tamed-Dashed                  | DIMENSION : DILEMMA | 💚       |
+| Upper Side Dreamin’           | DIMENSION : DILEMMA | 💚       |
+| Blessed-Cursed                | DIMENSION : ANSWER  |         |
+| Polaroid Love                 | DIMENSION : ANSWER  | 💚       |
+| Always                        | Always              | 💚       |
+| Future Perfect (Pass the MIC) | MANIFESTO : DAY 1   |         |
+| ParadoXXX Invasion            | MANIFESTO : DAY 1   | 💚       |
+| I Need The Light              | I Need The Light    | 💚       |

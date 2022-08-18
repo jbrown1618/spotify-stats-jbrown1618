@@ -1,29 +1,33 @@
+
 # ITZY
+
+
+<img src="https://i.scdn.co/image/ab6761610000e5ebaa28abbc6d04ccd22c8ae3b5" alt="ITZY" width="100" />
 
 ## Tracks
 
 | Track                                               | Album                                               | Liked   |
 |:----------------------------------------------------|:----------------------------------------------------|:--------|
-| 달라달라 (DALLA DALLA)                                  | IT'z Different                                      | True    |
-| CHERRY                                              | IT'z ICY                                            | False   |
-| ICY                                                 | IT'z ICY                                            | True    |
-| WANNABE                                             | It'z Me                                             | True    |
-| Not Shy                                             | Not Shy                                             | True    |
-| SURF                                                | Not Shy                                             | False   |
-| In the morning                                      | GUESS WHO                                           | True    |
-| KIDDING ME                                          | GUESS WHO                                           | True    |
-| SHOOT!                                              | GUESS WHO                                           | True    |
-| Sorry Not Sorry                                     | GUESS WHO                                           | True    |
-| TENNIS (0:0)                                        | GUESS WHO                                           | False   |
-| #Twenty                                             | CRAZY IN LOVE                                       | True    |
-| Gas Me Up                                           | CRAZY IN LOVE                                       | True    |
-| LOCO                                                | CRAZY IN LOVE                                       | True    |
-| SWIPE                                               | CRAZY IN LOVE                                       | True    |
-| Sooo LUCKY                                          | CRAZY IN LOVE                                       | False   |
-| Weapon (With Newnion, FLOOR) (Prod.Czaer)           | Street Dance Girls Fighter(SGF) Special             | True    |
-| Voltage                                             | Voltage                                             | True    |
-| DOMINO                                              | CHECKMATE                                           | False   |
-| RACER                                               | CHECKMATE                                           | True    |
-| SNEAKERS                                            | CHECKMATE                                           | True    |
-| WHAT I WANT                                         | CHECKMATE                                           | True    |
-| Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) | True    |
+| 달라달라 (DALLA DALLA)                                  | IT'z Different                                      | 💚       |
+| CHERRY                                              | IT'z ICY                                            |         |
+| ICY                                                 | IT'z ICY                                            | 💚       |
+| WANNABE                                             | It'z Me                                             | 💚       |
+| Not Shy                                             | Not Shy                                             | 💚       |
+| SURF                                                | Not Shy                                             |         |
+| In the morning                                      | GUESS WHO                                           | 💚       |
+| KIDDING ME                                          | GUESS WHO                                           | 💚       |
+| SHOOT!                                              | GUESS WHO                                           | 💚       |
+| Sorry Not Sorry                                     | GUESS WHO                                           | 💚       |
+| TENNIS (0:0)                                        | GUESS WHO                                           |         |
+| #Twenty                                             | CRAZY IN LOVE                                       | 💚       |
+| Gas Me Up                                           | CRAZY IN LOVE                                       | 💚       |
+| LOCO                                                | CRAZY IN LOVE                                       | 💚       |
+| SWIPE                                               | CRAZY IN LOVE                                       | 💚       |
+| Sooo LUCKY                                          | CRAZY IN LOVE                                       |         |
+| Weapon (With Newnion, FLOOR) (Prod.Czaer)           | Street Dance Girls Fighter(SGF) Special             | 💚       |
+| Voltage                                             | Voltage                                             | 💚       |
+| DOMINO                                              | CHECKMATE                                           |         |
+| RACER                                               | CHECKMATE                                           | 💚       |
+| SNEAKERS                                            | CHECKMATE                                           | 💚       |
+| WHAT I WANT                                         | CHECKMATE                                           | 💚       |
+| Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) | 💚       |

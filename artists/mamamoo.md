@@ -1,23 +1,27 @@
+
 # MAMAMOO
+
+
+<img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="MAMAMOO" width="100" />
 
 ## Tracks
 
 | Track            | Album            | Liked   |
 |:-----------------|:-----------------|:--------|
-| Mr-Ambiguous     | Hello            | True    |
-| Piano Man        | Piano Man        | True    |
-| AHH OOP!         | Pink Funky       | False   |
-| Um Oh Ah Yeh     | Pink Funky       | False   |
-| I Miss You       | Melting          | False   |
-| You’re the Best  | Melting          | False   |
-| Décalcomanie     | MEMORY           | False   |
-| Yes I Am         | Purple           | False   |
-| Starry Night     | Yellow Flower    | True    |
-| Egotistic        | RED MOON         | True    |
-| Rainy Season     | RED MOON         | True    |
-| Wind flower      | BLUE;S           | False   |
-| gogobebe         | White Wind       | True    |
-| HIP              | reality in BLACK | True    |
-| Dingga           | Dingga           | True    |
-| AYA              | TRAVEL           | True    |
-| Where Are We Now | WAW              | True    |
+| Mr-Ambiguous     | Hello            | 💚       |
+| Piano Man        | Piano Man        | 💚       |
+| AHH OOP!         | Pink Funky       |         |
+| Um Oh Ah Yeh     | Pink Funky       |         |
+| I Miss You       | Melting          |         |
+| You’re the Best  | Melting          |         |
+| Décalcomanie     | MEMORY           |         |
+| Yes I Am         | Purple           |         |
+| Starry Night     | Yellow Flower    | 💚       |
+| Egotistic        | RED MOON         | 💚       |
+| Rainy Season     | RED MOON         | 💚       |
+| Wind flower      | BLUE;S           |         |
+| gogobebe         | White Wind       | 💚       |
+| HIP              | reality in BLACK | 💚       |
+| Dingga           | Dingga           | 💚       |
+| AYA              | TRAVEL           | 💚       |
+| Where Are We Now | WAW              | 💚       |

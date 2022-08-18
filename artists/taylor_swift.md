@@ -1,57 +1,61 @@
+
 # Taylor Swift
+
+
+<img src="https://i.scdn.co/image/ab6761610000e5eb9e3acf1eaf3b8846e836f441" alt="Taylor Swift" width="100" />
 
 ## Tracks
 
 | Track                                                                                                              | Album                                            | Liked   |
 |:-------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------|:--------|
-| Our Song                                                                                                           | Taylor Swift                                     | False   |
-| Forever & Always                                                                                                   | Fearless                                         | False   |
-| Love Story                                                                                                         | Fearless                                         | True    |
-| You Belong With Me                                                                                                 | Fearless                                         | False   |
-| Back To December                                                                                                   | Speak Now                                        | True    |
-| Mean                                                                                                               | Speak Now                                        | False   |
-| All Too Well                                                                                                       | Red (Deluxe Edition)                             | True    |
-| Begin Again                                                                                                        | Red                                              | True    |
-| I Knew You Were Trouble.                                                                                           | Red                                              | True    |
-| Red                                                                                                                | Red                                              | True    |
-| We Are Never Ever Getting Back Together                                                                            | Red                                              | False   |
-| Blank Space                                                                                                        | 1989                                             | True    |
-| Clean                                                                                                              | 1989                                             | True    |
-| I Know Places                                                                                                      | 1989                                             | True    |
-| Out Of The Woods                                                                                                   | 1989                                             | True    |
-| Shake It Off                                                                                                       | 1989                                             | True    |
-| Style                                                                                                              | 1989                                             | True    |
-| Welcome To New York                                                                                                | 1989                                             | True    |
-| Wildest Dreams                                                                                                     | 1989                                             | True    |
-| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | False   |
-| ...Ready For It?                                                                                                   | reputation                                       | True    |
-| Call It What You Want                                                                                              | reputation                                       | True    |
-| Dancing With Our Hands Tied                                                                                        | reputation                                       | True    |
-| Delicate                                                                                                           | reputation                                       | True    |
-| Don’t Blame Me                                                                                                     | reputation                                       | True    |
-| Dress                                                                                                              | reputation                                       | True    |
-| Gorgeous                                                                                                           | reputation                                       | True    |
-| I Did Something Bad                                                                                                | reputation                                       | True    |
-| Look What You Made Me Do                                                                                           | reputation                                       | True    |
-| This Is Why We Can't Have Nice Things                                                                              | reputation                                       | False   |
-| Cornelia Street                                                                                                    | Lover                                            | True    |
-| Cruel Summer                                                                                                       | Lover                                            | True    |
-| Death By A Thousand Cuts                                                                                           | Lover                                            | True    |
-| False God                                                                                                          | Lover                                            | True    |
-| I Think He Knows                                                                                                   | Lover                                            | True    |
-| London Boy                                                                                                         | Lover                                            | True    |
-| Lover                                                                                                              | Lover                                            | True    |
-| Paper Rings                                                                                                        | Lover                                            | True    |
-| august                                                                                                             | folklore                                         | True    |
-| cardigan                                                                                                           | folklore                                         | True    |
-| epiphany                                                                                                           | folklore                                         | False   |
-| exile (feat. Bon Iver)                                                                                             | folklore                                         | True    |
-| illicit affairs                                                                                                    | folklore                                         | False   |
-| invisible string                                                                                                   | folklore                                         | True    |
-| mad woman                                                                                                          | folklore                                         | False   |
-| peace                                                                                                              | folklore                                         | True    |
-| the 1                                                                                                              | folklore                                         | True    |
-| the last great american dynasty                                                                                    | folklore                                         | True    |
-| no body, no crime (feat. HAIM)                                                                                     | evermore                                         | True    |
-| willow                                                                                                             | evermore                                         | True    |
-| Forever & Always (Taylor’s Version)                                                                                | Fearless (Taylor's Version)                      | True    |
+| Our Song                                                                                                           | Taylor Swift                                     |         |
+| Forever & Always                                                                                                   | Fearless                                         |         |
+| Love Story                                                                                                         | Fearless                                         | 💚       |
+| You Belong With Me                                                                                                 | Fearless                                         |         |
+| Back To December                                                                                                   | Speak Now                                        | 💚       |
+| Mean                                                                                                               | Speak Now                                        |         |
+| All Too Well                                                                                                       | Red (Deluxe Edition)                             | 💚       |
+| Begin Again                                                                                                        | Red                                              | 💚       |
+| I Knew You Were Trouble.                                                                                           | Red                                              | 💚       |
+| Red                                                                                                                | Red                                              | 💚       |
+| We Are Never Ever Getting Back Together                                                                            | Red                                              |         |
+| Blank Space                                                                                                        | 1989                                             | 💚       |
+| Clean                                                                                                              | 1989                                             | 💚       |
+| I Know Places                                                                                                      | 1989                                             | 💚       |
+| Out Of The Woods                                                                                                   | 1989                                             | 💚       |
+| Shake It Off                                                                                                       | 1989                                             | 💚       |
+| Style                                                                                                              | 1989                                             | 💚       |
+| Welcome To New York                                                                                                | 1989                                             | 💚       |
+| Wildest Dreams                                                                                                     | 1989                                             | 💚       |
+| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) |         |
+| ...Ready For It?                                                                                                   | reputation                                       | 💚       |
+| Call It What You Want                                                                                              | reputation                                       | 💚       |
+| Dancing With Our Hands Tied                                                                                        | reputation                                       | 💚       |
+| Delicate                                                                                                           | reputation                                       | 💚       |
+| Don’t Blame Me                                                                                                     | reputation                                       | 💚       |
+| Dress                                                                                                              | reputation                                       | 💚       |
+| Gorgeous                                                                                                           | reputation                                       | 💚       |
+| I Did Something Bad                                                                                                | reputation                                       | 💚       |
+| Look What You Made Me Do                                                                                           | reputation                                       | 💚       |
+| This Is Why We Can't Have Nice Things                                                                              | reputation                                       |         |
+| Cornelia Street                                                                                                    | Lover                                            | 💚       |
+| Cruel Summer                                                                                                       | Lover                                            | 💚       |
+| Death By A Thousand Cuts                                                                                           | Lover                                            | 💚       |
+| False God                                                                                                          | Lover                                            | 💚       |
+| I Think He Knows                                                                                                   | Lover                                            | 💚       |
+| London Boy                                                                                                         | Lover                                            | 💚       |
+| Lover                                                                                                              | Lover                                            | 💚       |
+| Paper Rings                                                                                                        | Lover                                            | 💚       |
+| august                                                                                                             | folklore                                         | 💚       |
+| cardigan                                                                                                           | folklore                                         | 💚       |
+| epiphany                                                                                                           | folklore                                         |         |
+| exile (feat. Bon Iver)                                                                                             | folklore                                         | 💚       |
+| illicit affairs                                                                                                    | folklore                                         |         |
+| invisible string                                                                                                   | folklore                                         | 💚       |
+| mad woman                                                                                                          | folklore                                         |         |
+| peace                                                                                                              | folklore                                         | 💚       |
+| the 1                                                                                                              | folklore                                         | 💚       |
+| the last great american dynasty                                                                                    | folklore                                         | 💚       |
+| no body, no crime (feat. HAIM)                                                                                     | evermore                                         | 💚       |
+| willow                                                                                                             | evermore                                         | 💚       |
+| Forever & Always (Taylor’s Version)                                                                                | Fearless (Taylor's Version)                      | 💚       |
