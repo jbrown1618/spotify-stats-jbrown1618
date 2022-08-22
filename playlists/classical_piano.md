@@ -1,7 +1,7 @@
 # Classical Piano
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d000048519f12887ffc64de8ec07abe6dab67616d00004851b5fcd6996bf050f9f9010d3aab67616d00004851fdf2a7d7437db7a75da73167ab67616d0000b273fdf2a7d7437db7a75da73167" alt="Classical Piano" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d0000b2734215d2bfa2e73ae057165347ab67616d0000b2739f12887ffc64de8ec07abe6dab67616d0000b273b5fcd6996bf050f9f9010d3aab67616d0000b273fdf2a7d7437db7a75da73167" alt="Classical Piano" width="100" />
 
 ## Top Artists
 

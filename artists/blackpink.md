@@ -2,7 +2,7 @@
 # BLACKPINK
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb9f73197444a8a6b016f4a546" alt="BLACKPINK" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb7b6160c954c6a5b7d4756608" alt="BLACKPINK" width="100" />
 
 ## Tracks
 
@@ -41,3 +41,4 @@
 | Lovesick Girls                       | THE ALBUM                                 | 💚       |
 | Pretty Savage                        | THE ALBUM                                 | 💚       |
 | You Never Know                       | THE ALBUM                                 | 💚       |
+| Pink Venom                           | Pink Venom                                | 💚       |

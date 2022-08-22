@@ -1,7 +1,7 @@
 # Debussy
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d000048515d026bccbd8a50650e903130ab67616d000048516e7bb273ff9cb1de1e1d4d0aab67616d0000b2735d026bccbd8a50650e903130ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy" width="100" />
+<img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="Debussy" width="100" />
 
 ## Top Artists
 

@@ -25,7 +25,7 @@
 | Out Of The Woods                                                                                                   | 1989                                             | 💚       |
 | Shake It Off                                                                                                       | 1989                                             | 💚       |
 | Style                                                                                                              | 1989                                             | 💚       |
-| Welcome To New York                                                                                                | 1989                                             | 💚       |
+| Welcome To New York                                                                                                | 1989                                             |         |
 | Wildest Dreams                                                                                                     | 1989                                             | 💚       |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) |         |
 | ...Ready For It?                                                                                                   | reputation                                       | 💚       |
@@ -56,6 +56,6 @@
 | peace                                                                                                              | folklore                                         | 💚       |
 | the 1                                                                                                              | folklore                                         | 💚       |
 | the last great american dynasty                                                                                    | folklore                                         | 💚       |
-| no body, no crime (feat. HAIM)                                                                                     | evermore                                         | 💚       |
+| no body, no crime (feat. HAIM)                                                                                     | evermore                                         |         |
 | willow                                                                                                             | evermore                                         | 💚       |
 | Forever & Always (Taylor’s Version)                                                                                | Fearless (Taylor's Version)                      | 💚       |

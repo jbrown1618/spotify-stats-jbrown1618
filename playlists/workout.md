@@ -1,7 +1,7 @@
 # Workout
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d000048519922157daa474131bb3a0fbcab67616d0000b2733ba0e7112f965bfda72b1c5bab67616d0000b273bfd46639322b597331d9ecefab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="Workout" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d0000b2733ba0e7112f965bfda72b1c5bab67616d0000b2739922157daa474131bb3a0fbcab67616d0000b273bfd46639322b597331d9ecefab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="Workout" width="100" />
 
 ## Top Artists
 

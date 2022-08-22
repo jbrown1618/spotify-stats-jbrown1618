@@ -1,7 +1,7 @@
 # Indie/Alternative
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d0000485198d4c378a8c78e84bfcf7743ab67616d0000b27355e0ff4cbb5df5c780a4319bab67616d0000b27392c885317fbe4bfa680109b4ab67616d0000b273df8cadc6c242d4c3cee9011b" alt="Indie/Alternative" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d0000b27355e0ff4cbb5df5c780a4319bab67616d0000b27392c885317fbe4bfa680109b4ab67616d0000b27398d4c378a8c78e84bfcf7743ab67616d0000b273df8cadc6c242d4c3cee9011b" alt="Indie/Alternative" width="100" />
 
 ## Top Artists
 

@@ -1,7 +1,7 @@
 # Vivaldi
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d00004851203bf132896e0a4be9638ddaab67616d00004851377b94c377eac47079799c28ab67616d0000b273203bf132896e0a4be9638ddaab67616d0000b273377b94c377eac47079799c28" alt="Vivaldi" width="100" />
+<img src="https://i.scdn.co/image/ab67616d0000b273203bf132896e0a4be9638dda" alt="Vivaldi" width="100" />
 
 ## Top Artists
 

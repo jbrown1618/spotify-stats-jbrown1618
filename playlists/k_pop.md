@@ -16,9 +16,9 @@
 |                 56 | Red Velvet                  |
 |                 32 | BTS                         |
 |                 31 | TWICE                       |
-|                 23 | Stray Kids                  |
-|                 23 | ITZY                        |
-|                 22 | BLACKPINK                   |
+|                 25 | Stray Kids                  |
+|                 24 | ITZY                        |
+|                 23 | BLACKPINK                   |
 |                 21 | TAEYEON                     |
 |                 20 | IU                          |
 |                 19 | (G)I-DLE                    |
@@ -37,6 +37,7 @@
 |                  7 | Hwa Sa                      |
 |                  7 | SUPER JUNIOR                |
 |                  7 | SUNMI                       |
+|                  7 | NCT DREAM                   |
 |                  7 | WENDY                       |
 |                  6 | NCT 127                     |
 |                  6 | ATEEZ                       |
@@ -44,7 +45,6 @@
 |                  6 | EVERGLOW                    |
 |                  6 | OH MY GIRL                  |
 |                  6 | PENTAGON                    |
-|                  6 | NCT DREAM                   |
 |                  5 | GOT7                        |
 |                  5 | WJSN                        |
 |                  5 | BIBI                        |
@@ -110,6 +110,7 @@
 |                  2 | NINGNING                    |
 |                  2 | IZ*ONE                      |
 |                  2 | iKON                        |
+|                  2 | HEIZE                       |
 |                  2 | Rain                        |
 |                  2 | BoA                         |
 |                  2 | Jay Park                    |
@@ -172,7 +173,6 @@
 |                  1 | The Rose                    |
 |                  1 | 2PM                         |
 |                  1 | MINGYU                      |
-|                  1 | HEIZE                       |
 |                  1 | WOOSUNG                     |
 |                  1 | Bona(WJSN)                  |
 |                  1 | SuperM                      |
@@ -345,6 +345,7 @@
 | Hope Not                                                 | KILL THIS LOVE                                                          | [BLACKPINK](../artists/blackpink.md)                                                                         | 💚       |
 | Kick It                                                  | KILL THIS LOVE                                                          | [BLACKPINK](../artists/blackpink.md)                                                                         |         |
 | Kill This Love                                           | KILL THIS LOVE                                                          | [BLACKPINK](../artists/blackpink.md)                                                                         | 💚       |
+| Pink Venom                                               | Pink Venom                                                              | [BLACKPINK](../artists/blackpink.md)                                                                         | 💚       |
 | BOOMBAYAH                                                | SQUARE ONE                                                              | [BLACKPINK](../artists/blackpink.md)                                                                         | 💚       |
 | WHISTLE                                                  | SQUARE ONE                                                              | [BLACKPINK](../artists/blackpink.md)                                                                         | 💚       |
 | PLAYING WITH FIRE                                        | SQUARE TWO                                                              | [BLACKPINK](../artists/blackpink.md)                                                                         | 💚       |
@@ -516,6 +517,7 @@
 | NANANA                                                   | GOT7                                                                    | GOT7                                                                                                         |         |
 | 딱 좋아(Just right)                                         | Just right                                                              | GOT7                                                                                                         |         |
 | 니가 하면 If You Do                                          | MAD                                                                     | GOT7                                                                                                         |         |
+| Undo                                                     | Undo                                                                    | HEIZE                                                                                                        | 💚       |
 | FOMO                                                     | Guilty Pleasure                                                         | Hwa Sa                                                                                                       |         |
 | I`m a B                                                  | Guilty Pleasure                                                         | Hwa Sa                                                                                                       | 💚       |
 | Maria                                                    | María                                                                   | Hwa Sa                                                                                                       | 💚       |
@@ -549,6 +551,7 @@
 | CHERRY                                                   | IT'z ICY                                                                | [ITZY](../artists/itzy.md)                                                                                   |         |
 | ICY                                                      | IT'z ICY                                                                | [ITZY](../artists/itzy.md)                                                                                   | 💚       |
 | WANNABE                                                  | It'z Me                                                                 | [ITZY](../artists/itzy.md)                                                                                   | 💚       |
+| Louder                                                   | Not Shy                                                                 | [ITZY](../artists/itzy.md)                                                                                   |         |
 | Not Shy                                                  | Not Shy                                                                 | [ITZY](../artists/itzy.md)                                                                                   | 💚       |
 | SURF                                                     | Not Shy                                                                 | [ITZY](../artists/itzy.md)                                                                                   |         |
 | Weapon (With Newnion, FLOOR) (Prod.Czaer)                | Street Dance Girls Fighter(SGF) Special                                 | [ITZY](../artists/itzy.md)                                                                                   | 💚       |
@@ -688,6 +691,7 @@
 | Sticker                                                  | Sticker - The 3rd Album                                                 | NCT 127                                                                                                      | 💚       |
 | Beatbox                                                  | Beatbox - The 2nd Album Repackage                                       | NCT DREAM                                                                                                    | 💚       |
 | Glitch Mode                                              | Glitch Mode - The 2nd Album                                             | NCT DREAM                                                                                                    | 💚       |
+| Saturday Drip                                            | Glitch Mode - The 2nd Album                                             | NCT DREAM                                                                                                    |         |
 | Hello Future                                             | Hello Future - The 1st Album Repackage                                  | NCT DREAM                                                                                                    | 💚       |
 | Hot Sauce                                                | Hot Sauce - The 1st Album                                               | NCT DREAM                                                                                                    | 💚       |
 | Ridin'                                                   | Reload                                                                  | NCT DREAM                                                                                                    |         |
@@ -841,6 +845,7 @@
 | CIRCUS                                                   | CIRCUS                                                                  | [Stray Kids](../artists/stray_kids.md)                                                                       | 💚       |
 | Christmas EveL                                           | Christmas EveL                                                          | [Stray Kids](../artists/stray_kids.md)                                                                       |         |
 | Christmas EveL                                           | Christmas EveL                                                          | [Stray Kids](../artists/stray_kids.md)                                                                       | 💚       |
+| Entrance                                                 | Clé 1 : MIROH                                                           | [Stray Kids](../artists/stray_kids.md)                                                                       |         |
 | MIROH                                                    | Clé 1 : MIROH                                                           | [Stray Kids](../artists/stray_kids.md)                                                                       | 💚       |
 | Side Effects                                             | Clé 2 : Yellow Wood                                                     | [Stray Kids](../artists/stray_kids.md)                                                                       |         |
 | Blueprint                                                | GO LIVE                                                                 | [Stray Kids](../artists/stray_kids.md)                                                                       |         |
@@ -861,6 +866,7 @@
 | MANIAC                                                   | ODDINARY                                                                | [Stray Kids](../artists/stray_kids.md)                                                                       | 💚       |
 | Muddy Water (Changbin, Hyunjin, HAN, Felix)              | ODDINARY                                                                | [Stray Kids](../artists/stray_kids.md)                                                                       | 💚       |
 | Awkward Silence                                          | SKZ2020                                                                 | [Stray Kids](../artists/stray_kids.md)                                                                       |         |
+| Chronosaurus                                             | SKZ2020                                                                 | [Stray Kids](../artists/stray_kids.md)                                                                       |         |
 | Blueberry Eyes (feat. SUGA of BTS)                       | Blueberry Eyes (feat. SUGA of BTS)                                      | SUGA, MAX                                                                                                    | 💚       |
 | Grey Suit                                                | Grey Suit - The 2nd Mini Album                                          | SUHO                                                                                                         |         |
 | You can't sit with us                                    | 1/6                                                                     | SUNMI                                                                                                        | 💚       |

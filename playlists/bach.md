@@ -1,7 +1,7 @@
 # Bach
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d0000485108f25ef15caf048a49a69ee5ab67616d00004851261feb89ee859b598bd34a97ab67616d0000b27308f25ef15caf048a49a69ee5ab67616d0000b273261feb89ee859b598bd34a97" alt="Bach" width="100" />
+<img src="https://i.scdn.co/image/ab67616d0000b273261feb89ee859b598bd34a97" alt="Bach" width="100" />
 
 ## Top Artists
 

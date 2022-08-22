@@ -1,7 +1,7 @@
 # Mozart
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d00004851b9cf4faacfd133cab7c867b8ab67616d00004851fdf2a7d7437db7a75da73167ab67616d0000b273b9cf4faacfd133cab7c867b8ab67616d0000b273fdf2a7d7437db7a75da73167" alt="Mozart" width="100" />
+<img src="https://i.scdn.co/image/ab67616d0000b273fdf2a7d7437db7a75da73167" alt="Mozart" width="100" />
 
 ## Top Artists
 

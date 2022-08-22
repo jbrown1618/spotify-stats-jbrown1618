@@ -12,6 +12,7 @@
 | CHERRY                                              | IT'z ICY                                            |         |
 | ICY                                                 | IT'z ICY                                            | 💚       |
 | WANNABE                                             | It'z Me                                             | 💚       |
+| Louder                                              | Not Shy                                             |         |
 | Not Shy                                             | Not Shy                                             | 💚       |
 | SURF                                                | Not Shy                                             |         |
 | In the morning                                      | GUESS WHO                                           | 💚       |

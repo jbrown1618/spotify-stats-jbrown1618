@@ -1,7 +1,7 @@
 # Singer-Songwriter
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d000048510e402844f1b6be3102d339f2ab67616d0000b2730e402844f1b6be3102d339f2ab67616d0000b2731946747b8692919f98918ec4ab67616d0000b27386a7d1e76303f80a4db38139" alt="Singer-Songwriter" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d0000b2730e402844f1b6be3102d339f2ab67616d0000b2731946747b8692919f98918ec4ab67616d0000b2731d4675d5a0345bb93686e4b6ab67616d0000b27386a7d1e76303f80a4db38139" alt="Singer-Songwriter" width="100" />
 
 ## Top Artists
 
@@ -239,7 +239,7 @@
 | Out Of The Woods                                                                  | 1989                                        | [Taylor Swift](../artists/taylor_swift.md)                 | 💚       |
 | Shake It Off                                                                      | 1989                                        | [Taylor Swift](../artists/taylor_swift.md)                 | 💚       |
 | Style                                                                             | 1989                                        | [Taylor Swift](../artists/taylor_swift.md)                 | 💚       |
-| Welcome To New York                                                               | 1989                                        | [Taylor Swift](../artists/taylor_swift.md)                 | 💚       |
+| Welcome To New York                                                               | 1989                                        | [Taylor Swift](../artists/taylor_swift.md)                 |         |
 | Wildest Dreams                                                                    | 1989                                        | [Taylor Swift](../artists/taylor_swift.md)                 | 💚       |
 | Forever & Always                                                                  | Fearless                                    | [Taylor Swift](../artists/taylor_swift.md)                 |         |
 | Love Story                                                                        | Fearless                                    | [Taylor Swift](../artists/taylor_swift.md)                 | 💚       |
@@ -281,5 +281,5 @@
 | Look What You Made Me Do                                                          | reputation                                  | [Taylor Swift](../artists/taylor_swift.md)                 | 💚       |
 | This Is Why We Can't Have Nice Things                                             | reputation                                  | [Taylor Swift](../artists/taylor_swift.md)                 |         |
 | exile (feat. Bon Iver)                                                            | folklore                                    | [Taylor Swift](../artists/taylor_swift.md), Bon Iver       | 💚       |
-| no body, no crime (feat. HAIM)                                                    | evermore                                    | [Taylor Swift](../artists/taylor_swift.md), HAIM           | 💚       |
+| no body, no crime (feat. HAIM)                                                    | evermore                                    | [Taylor Swift](../artists/taylor_swift.md), HAIM           |         |
 | Used                                                                              | The Widow Knows E.P.                        | Wyvern Lingo                                               | 💚       |

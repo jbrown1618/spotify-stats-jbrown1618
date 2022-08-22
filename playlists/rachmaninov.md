@@ -1,7 +1,7 @@
 # Rachmaninov
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d000048512ab037775757e856d496f2f5ab67616d000048518e6adfe4421d106633abde7bab67616d0000b2732ab037775757e856d496f2f5ab67616d0000b2738e6adfe4421d106633abde7b" alt="Rachmaninov" width="100" />
+<img src="https://i.scdn.co/image/ab67616d0000b2732ab037775757e856d496f2f5" alt="Rachmaninov" width="100" />
 
 ## Top Artists
 

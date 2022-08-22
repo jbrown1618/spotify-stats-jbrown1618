@@ -2,7 +2,7 @@
 # TWICE
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb464ef353e1a7c72f67de8158" alt="TWICE" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5ebd84fd6ae9ccfc6206ea6711e" alt="TWICE" width="100" />
 
 ## Tracks
 

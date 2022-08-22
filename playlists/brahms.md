@@ -1,7 +1,7 @@
 # Brahms
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d0000485117adbf4b1899ea006e880996ab67616d000048517972250a17a316dc7fe9966dab67616d0000b27317adbf4b1899ea006e880996ab67616d0000b2737972250a17a316dc7fe9966d" alt="Brahms" width="100" />
+<img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="Brahms" width="100" />
 
 ## Top Artists
 

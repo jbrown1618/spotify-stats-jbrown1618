@@ -13,7 +13,7 @@
 | Piano Man                         | Piano Man                     | 💚       |
 | New York State of Mind            | Turnstiles                    | 💚       |
 | Just the Way You Are              | The Stranger (Legacy Edition) | 💚       |
-| Vienna                            | The Stranger (Legacy Edition) |         |
+| Vienna                            | The Stranger (Legacy Edition) | 💚       |
 | Just the Way You Are              | The Stranger                  | 💚       |
 | Movin' Out (Anthony's Song)       | The Stranger                  | 💚       |
 | Only the Good Die Young           | The Stranger                  | 💚       |

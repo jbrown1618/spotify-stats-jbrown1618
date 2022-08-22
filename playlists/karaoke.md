@@ -1,7 +1,7 @@
 # Karaoke
 
 
-<img src="https://i.scdn.co/image/ab67616d000048516f50b3400595b123a916e0dc" alt="Karaoke" width="100" />
+<img src="https://i.scdn.co/image/ab67616d0000b2736f50b3400595b123a916e0dc" alt="Karaoke" width="100" />
 
 ## Top Artists
 
@@ -24,6 +24,6 @@
 
 | Track                     | Album                         | Artists                                | Liked   |
 |:--------------------------|:------------------------------|:---------------------------------------|:--------|
-| Vienna                    | The Stranger (Legacy Edition) | [Billy Joel](../artists/billy_joel.md) |         |
+| Vienna                    | The Stranger (Legacy Edition) | [Billy Joel](../artists/billy_joel.md) | 💚       |
 | Old Fashioned             | The Lady Killer               | CeeLo Green                            | 💚       |
 | Desperado - 2013 Remaster | Desperado (2013 Remaster)     | Eagles                                 | 💚       |
