@@ -10,7 +10,7 @@
 |:--------------------------------|:----------------------------------|:--------|
 | Just Dance                      | The Fame                          | 💚       |
 | LoveGame                        | The Fame                          | 💚       |
-| Paparazzi                       | The Fame                          | 💚       |
+| Paparazzi                       | The Fame                          |         |
 | Poker Face                      | The Fame                          | 💚       |
 | Bad Romance                     | The Fame Monster (Deluxe Edition) | 💚       |
 | Telephone                       | The Fame Monster (Deluxe Edition) | 💚       |

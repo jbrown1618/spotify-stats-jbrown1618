@@ -88,7 +88,7 @@
 | The Sound of Silence - Acoustic Version                                      | Wednesday Morning, 3 A.M.                                                                               | Simon & Garfunkel | 💚       |
 | For Once In My Life                                                          | For Once In My Life                                                                                     | Stevie Wonder     | 💚       |
 | Signed, Sealed, Delivered (I'm Yours)                                        | Signed, Sealed And Delivered                                                                            | Stevie Wonder     | 💚       |
-| Isn't She Lovely                                                             | Songs In The Key Of Life                                                                                | Stevie Wonder     | 💚       |
+| Isn't She Lovely                                                             | Songs In The Key Of Life                                                                                | Stevie Wonder     |         |
 | Superstition - Single Version                                                | The Definitive Collection                                                                               | Stevie Wonder     | 💚       |
 | Sugar, Sugar                                                                 | The Very Best Of "The Archies"                                                                          | The Archies       |         |
 | Build Me Up Buttercup - Mono                                                 | The Foundations                                                                                         | The Foundations   |         |

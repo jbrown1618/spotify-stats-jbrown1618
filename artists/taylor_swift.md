@@ -10,7 +10,7 @@
 |:-------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------|:--------|
 | Our Song                                                                                                           | Taylor Swift                                     |         |
 | Forever & Always                                                                                                   | Fearless                                         |         |
-| Love Story                                                                                                         | Fearless                                         | 💚       |
+| Love Story                                                                                                         | Fearless                                         |         |
 | You Belong With Me                                                                                                 | Fearless                                         |         |
 | Back To December                                                                                                   | Speak Now                                        | 💚       |
 | Mean                                                                                                               | Speak Now                                        |         |

@@ -8,11 +8,10 @@
 
 | Track                                       | Album               | Liked   |
 |:--------------------------------------------|:--------------------|:--------|
-| Entrance                                    | Clé 1 : MIROH       |         |
 | MIROH                                       | Clé 1 : MIROH       | 💚       |
 | Side Effects                                | Clé 2 : Yellow Wood |         |
 | Awkward Silence                             | SKZ2020             |         |
-| Chronosaurus                                | SKZ2020             |         |
+| Chronosaurus                                | SKZ2020             | 💚       |
 | Blueprint                                   | GO LIVE             |         |
 | God’s Menu                                  | GO LIVE             |         |
 | God’s Menu                                  | GO LIVE             | 💚       |

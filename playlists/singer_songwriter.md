@@ -242,7 +242,7 @@
 | Welcome To New York                                                               | 1989                                        | [Taylor Swift](../artists/taylor_swift.md)                 |         |
 | Wildest Dreams                                                                    | 1989                                        | [Taylor Swift](../artists/taylor_swift.md)                 | 💚       |
 | Forever & Always                                                                  | Fearless                                    | [Taylor Swift](../artists/taylor_swift.md)                 |         |
-| Love Story                                                                        | Fearless                                    | [Taylor Swift](../artists/taylor_swift.md)                 | 💚       |
+| Love Story                                                                        | Fearless                                    | [Taylor Swift](../artists/taylor_swift.md)                 |         |
 | You Belong With Me                                                                | Fearless                                    | [Taylor Swift](../artists/taylor_swift.md)                 |         |
 | Forever & Always (Taylor’s Version)                                               | Fearless (Taylor's Version)                 | [Taylor Swift](../artists/taylor_swift.md)                 | 💚       |
 | Cornelia Street                                                                   | Lover                                       | [Taylor Swift](../artists/taylor_swift.md)                 | 💚       |

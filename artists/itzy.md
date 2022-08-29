@@ -27,7 +27,7 @@
 | Sooo LUCKY                                          | CRAZY IN LOVE                                       |         |
 | Weapon (With Newnion, FLOOR) (Prod.Czaer)           | Street Dance Girls Fighter(SGF) Special             | 💚       |
 | Voltage                                             | Voltage                                             | 💚       |
-| DOMINO                                              | CHECKMATE                                           |         |
+| DOMINO                                              | CHECKMATE                                           | 💚       |
 | RACER                                               | CHECKMATE                                           | 💚       |
 | SNEAKERS                                            | CHECKMATE                                           | 💚       |
 | WHAT I WANT                                         | CHECKMATE                                           | 💚       |

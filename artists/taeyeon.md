@@ -2,7 +2,7 @@
 # TAEYEON
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5ebfb34de1b9f3b6a073ff33458" alt="TAEYEON" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb916392fe8c66d0c993657b6d" alt="TAEYEON" width="100" />
 
 ## Tracks
 

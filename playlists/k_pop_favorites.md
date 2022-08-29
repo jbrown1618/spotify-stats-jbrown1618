@@ -14,9 +14,9 @@
 |   Number of Tracks | Artist                      |
 |-------------------:|:----------------------------|
 |                 14 | Red Velvet                  |
+|                 11 | BLACKPINK                   |
 |                 11 | IU                          |
-|                 10 | BLACKPINK                   |
-|                  9 | TWICE                       |
+|                 10 | TWICE                       |
 |                  9 | ITZY                        |
 |                  7 | aespa                       |
 |                  6 | ENHYPEN                     |
@@ -68,11 +68,13 @@
 |                  1 | ROSÉ                        |
 |                  1 | HYO                         |
 |                  1 | TEN                         |
+|                  1 | TREASURE                    |
 |                  1 | P1Harmony                   |
 |                  1 | Wonder Girls                |
 |                  1 | G-DRAGON                    |
 |                  1 | SHINee                      |
 |                  1 | JAMIE                       |
+|                  1 | NMIXX                       |
 |                  1 | JENNIE                      |
 |                  1 | PENTAGON                    |
 |                  1 | WayV                        |
@@ -111,6 +113,7 @@
 | Still Life                                | Still Life                                       | BIGBANG                                              | 💚       |
 | As If It's Your Last                      | As If It's Your Last                             | [BLACKPINK](../artists/blackpink.md)                 | 💚       |
 | Kill This Love                            | KILL THIS LOVE                                   | [BLACKPINK](../artists/blackpink.md)                 | 💚       |
+| Pink Venom                                | Pink Venom                                       | [BLACKPINK](../artists/blackpink.md)                 | 💚       |
 | BOOMBAYAH                                 | SQUARE ONE                                       | [BLACKPINK](../artists/blackpink.md)                 | 💚       |
 | WHISTLE                                   | SQUARE ONE                                       | [BLACKPINK](../artists/blackpink.md)                 | 💚       |
 | PLAYING WITH FIRE                         | SQUARE TWO                                       | [BLACKPINK](../artists/blackpink.md)                 | 💚       |
@@ -201,6 +204,7 @@
 | Hello Future                              | Hello Future - The 1st Album Repackage           | NCT DREAM                                            | 💚       |
 | Hot Sauce                                 | Hot Sauce - The 1st Album                        | NCT DREAM                                            | 💚       |
 | BOOM                                      | We Boom - The 3rd Mini Album                     | NCT DREAM                                            | 💚       |
+| O.O                                       | AD MARE                                          | NMIXX                                                | 💚       |
 | SAY NO MORE                               | CLOSER                                           | OH MY GIRL                                           | 💚       |
 | Dolphin                                   | NONSTOP                                          | OH MY GIRL                                           | 💚       |
 | Doom Du Doom                              | HARMONY : ZERO IN                                | P1Harmony                                            | 💚       |
@@ -249,9 +253,11 @@
 | INVU                                      | INVU - The 3rd Album                             | [TAEYEON](../artists/taeyeon.md)                     | 💚       |
 | Rain                                      | Rain - SM STATION                                | [TAEYEON](../artists/taeyeon.md)                     | 💚       |
 | Paint Me Naked                            | Paint Me Naked - SM STATION                      | TEN                                                  | 💚       |
+| DARARI                                    | THE SECOND STEP : CHAPTER ONE                    | TREASURE                                             | 💚       |
 | MIROTIC                                   | MIROTIC - The 4th Album                          | TVXQ!                                                | 💚       |
 | Breakthrough                              | Breakthrough                                     | [TWICE](../artists/twice.md)                         | 💚       |
 | CRY FOR ME                                | CRY FOR ME                                       | [TWICE](../artists/twice.md)                         | 💚       |
+| HELL IN HEAVEN                            | Eyes Wide Open                                   | [TWICE](../artists/twice.md)                         | 💚       |
 | I CAN'T STOP ME                           | Eyes Wide Open                                   | [TWICE](../artists/twice.md)                         | 💚       |
 | FANCY                                     | FANCY YOU                                        | [TWICE](../artists/twice.md)                         |         |
 | CRUEL                                     | Formula of Love: O+T=<3                          | [TWICE](../artists/twice.md)                         | 💚       |

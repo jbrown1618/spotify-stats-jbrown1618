@@ -2,6 +2,7 @@ playlist_uri,track_uri
 spotify:playlist:784bxrrG3W6L0naOkaCL5F,spotify:track:3lVoGZoKXQUElnJbU668Jf
 spotify:playlist:784bxrrG3W6L0naOkaCL5F,spotify:track:2TjnCxxQRYn56Ye8gkUKiW
 spotify:playlist:784bxrrG3W6L0naOkaCL5F,spotify:track:4U45aEWtQhrm8A5mxPaFZ7
+spotify:playlist:784bxrrG3W6L0naOkaCL5F,spotify:track:05HjafWVI238CLw5RDNkas
 spotify:playlist:2WsAAjnlcRAzyPrBDvMYyy,spotify:track:3LCwQoTrdQgHsGJE5gGVqx
 spotify:playlist:2WsAAjnlcRAzyPrBDvMYyy,spotify:track:7n2FZQsaLb7ZRfRPfEeIvr
 spotify:playlist:2WsAAjnlcRAzyPrBDvMYyy,spotify:track:5BXr7hYZQOeRttkeWYTq5S
@@ -293,7 +294,6 @@ spotify:playlist:0Xp2gQ9p4VMgt5HauIfIq7,spotify:track:0P8lbWigAHXPKxUG60xh79
 spotify:playlist:0Xp2gQ9p4VMgt5HauIfIq7,spotify:track:347PJwH4XqRbeaKaIW9sX3
 spotify:playlist:0Xp2gQ9p4VMgt5HauIfIq7,spotify:track:0KDCkxCsEBoSWj5fsyuvWq
 spotify:playlist:0Xp2gQ9p4VMgt5HauIfIq7,spotify:track:5fumVsa0IxAEJvHHu2F2k5
-spotify:playlist:0Xp2gQ9p4VMgt5HauIfIq7,spotify:track:4WCg4g0lMTZxyFC19W0DHF
 spotify:playlist:0Xp2gQ9p4VMgt5HauIfIq7,spotify:track:0BTaaKT4RMbs5M73tOHX5Y
 spotify:playlist:0Xp2gQ9p4VMgt5HauIfIq7,spotify:track:1HYzRuWjmS9LXCkdVHi25K
 spotify:playlist:0Xp2gQ9p4VMgt5HauIfIq7,spotify:track:69WpV0U7OMNFGyq8I63dcC
@@ -808,7 +808,7 @@ spotify:playlist:0Xp2gQ9p4VMgt5HauIfIq7,spotify:track:0skYUMpS0AcbpjcGsAbRGj
 spotify:playlist:0Xp2gQ9p4VMgt5HauIfIq7,spotify:track:58epKNTOOt4RDWObkR9e43
 spotify:playlist:0Xp2gQ9p4VMgt5HauIfIq7,spotify:track:2ohOA4P55RsoU1bOanNGyB
 spotify:playlist:0Xp2gQ9p4VMgt5HauIfIq7,spotify:track:39pv61XfYr9MUwsYkx30aQ
-spotify:playlist:0Xp2gQ9p4VMgt5HauIfIq7,spotify:track:4Ikreq8yMoSmWFVsm2s8KB
+spotify:playlist:0Xp2gQ9p4VMgt5HauIfIq7,spotify:track:2gYj9lubBorOPIVWsTXugG
 spotify:playlist:1ZbxKv1noxwZ4zFgRNEFIo,spotify:track:7HWmJ1wBecOAMNGjC6SmKE
 spotify:playlist:1ZbxKv1noxwZ4zFgRNEFIo,spotify:track:5GKwq4sO5ZHKuWaDmdwMQc
 spotify:playlist:1ZbxKv1noxwZ4zFgRNEFIo,spotify:track:24nK8tW7Pt3Inh2utttuoG
@@ -984,6 +984,10 @@ spotify:playlist:1ZbxKv1noxwZ4zFgRNEFIo,spotify:track:3h7WIL3B6nP3171zl6HWj8
 spotify:playlist:1ZbxKv1noxwZ4zFgRNEFIo,spotify:track:6Upu6yjkdi0DVI8E3IBZEU
 spotify:playlist:1ZbxKv1noxwZ4zFgRNEFIo,spotify:track:2uw2ftfyS4yJLWiTtbxasE
 spotify:playlist:1ZbxKv1noxwZ4zFgRNEFIo,spotify:track:0nwTMzpatarzvLvtwwzdCt
+spotify:playlist:1ZbxKv1noxwZ4zFgRNEFIo,spotify:track:0dcnrLo8s1rhjm8euGjI4n
+spotify:playlist:1ZbxKv1noxwZ4zFgRNEFIo,spotify:track:3lrNsPdn98i6rxO142pLT6
+spotify:playlist:1ZbxKv1noxwZ4zFgRNEFIo,spotify:track:0skYUMpS0AcbpjcGsAbRGj
+spotify:playlist:1ZbxKv1noxwZ4zFgRNEFIo,spotify:track:3KCreWc88InXH3XuL54C5a
 spotify:playlist:1WZ2RqQv2SPX5uzmjWhgSh,spotify:track:2iUXsYOEPhVqEBwsqP70rE
 spotify:playlist:1WZ2RqQv2SPX5uzmjWhgSh,spotify:track:3witRpHWHqArlnt6GTlH2Y
 spotify:playlist:1WZ2RqQv2SPX5uzmjWhgSh,spotify:track:71WAtDcWVYMoCsblD2uQXx

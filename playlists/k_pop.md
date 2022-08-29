@@ -16,7 +16,7 @@
 |                 56 | Red Velvet                  |
 |                 32 | BTS                         |
 |                 31 | TWICE                       |
-|                 25 | Stray Kids                  |
+|                 24 | Stray Kids                  |
 |                 24 | ITZY                        |
 |                 23 | BLACKPINK                   |
 |                 21 | TAEYEON                     |
@@ -56,6 +56,7 @@
 |                  5 | EXID                        |
 |                  5 | TOMORROW X TOGETHER         |
 |                  5 | STAYC                       |
+|                  4 | IVE                         |
 |                  4 | NewJeans                    |
 |                  4 | Solar                       |
 |                  4 | Agust D                     |
@@ -71,7 +72,6 @@
 |                  3 | Steve Aoki                  |
 |                  3 | Crush                       |
 |                  3 | TAEYONG                     |
-|                  3 | IVE                         |
 |                  3 | PURPLE KISS                 |
 |                  3 | Wonstein                    |
 |                  3 | Kep1er                      |
@@ -163,7 +163,6 @@
 |                  1 | Sorn                        |
 |                  1 | Leslie Grace                |
 |                  1 | Nam Joohyuk                 |
-|                  1 | 3YE                         |
 |                  1 | Jessi                       |
 |                  1 | Bebe Rexha                  |
 |                  1 | SUHO                        |
@@ -282,7 +281,6 @@
 | I Am The Best                                            | I Am The Best                                                           | 2NE1                                                                                                         | 💚       |
 | You and I (Park Bom)                                     | To Anyone                                                               | 2NE1                                                                                                         |         |
 | 우리집 My House                                             | No.5                                                                    | 2PM                                                                                                          |         |
-| STALKER                                                  | STALKER                                                                 | 3YE                                                                                                          |         |
 | Hate                                                     | Act. 7                                                                  | 4Minute                                                                                                      | 💚       |
 | Crazy                                                    | Crazy                                                                   | 4Minute                                                                                                      | 💚       |
 | BREATHE                                                  | B:COMPLETE                                                              | AB6IX                                                                                                        | 💚       |
@@ -533,7 +531,7 @@
 | PING PONG                                                | 1+1=1                                                                   | HyunA&DAWN                                                                                                   |         |
 | KILLING ME                                               | NEW KIDS REPACKAGE : THE NEW KIDS                                       | iKON                                                                                                         | 💚       |
 | LOVE SCENARIO                                            | Return                                                                  | iKON                                                                                                         | 💚       |
-| DOMINO                                                   | CHECKMATE                                                               | [ITZY](../artists/itzy.md)                                                                                   |         |
+| DOMINO                                                   | CHECKMATE                                                               | [ITZY](../artists/itzy.md)                                                                                   | 💚       |
 | RACER                                                    | CHECKMATE                                                               | [ITZY](../artists/itzy.md)                                                                                   | 💚       |
 | SNEAKERS                                                 | CHECKMATE                                                               | [ITZY](../artists/itzy.md)                                                                                   | 💚       |
 | WHAT I WANT                                              | CHECKMATE                                                               | [ITZY](../artists/itzy.md)                                                                                   | 💚       |
@@ -577,6 +575,7 @@
 | Friday (feat.Jang Yi-jeong)                              | Modern Times – Epilogue                                                 | [IU](../artists/iu.md), Jang Yi-jeong                                                                        | 💚       |
 | GANADARA (Feat. IU)                                      | GANADARA                                                                | [IU](../artists/iu.md), Jay Park                                                                             | 💚       |
 | eight(Prod.&Feat. SUGA of BTS)                           | eight                                                                   | [IU](../artists/iu.md), SUGA                                                                                 | 💚       |
+| After LIKE                                               | After LIKE                                                              | IVE                                                                                                          | 💚       |
 | ELEVEN                                                   | ELEVEN                                                                  | IVE                                                                                                          | 💚       |
 | LOVE DIVE                                                | LOVE DIVE                                                               | IVE                                                                                                          | 💚       |
 | ROYAL                                                    | LOVE DIVE                                                               | IVE                                                                                                          | 💚       |
@@ -845,7 +844,6 @@
 | CIRCUS                                                   | CIRCUS                                                                  | [Stray Kids](../artists/stray_kids.md)                                                                       | 💚       |
 | Christmas EveL                                           | Christmas EveL                                                          | [Stray Kids](../artists/stray_kids.md)                                                                       |         |
 | Christmas EveL                                           | Christmas EveL                                                          | [Stray Kids](../artists/stray_kids.md)                                                                       | 💚       |
-| Entrance                                                 | Clé 1 : MIROH                                                           | [Stray Kids](../artists/stray_kids.md)                                                                       |         |
 | MIROH                                                    | Clé 1 : MIROH                                                           | [Stray Kids](../artists/stray_kids.md)                                                                       | 💚       |
 | Side Effects                                             | Clé 2 : Yellow Wood                                                     | [Stray Kids](../artists/stray_kids.md)                                                                       |         |
 | Blueprint                                                | GO LIVE                                                                 | [Stray Kids](../artists/stray_kids.md)                                                                       |         |
@@ -866,7 +864,7 @@
 | MANIAC                                                   | ODDINARY                                                                | [Stray Kids](../artists/stray_kids.md)                                                                       | 💚       |
 | Muddy Water (Changbin, Hyunjin, HAN, Felix)              | ODDINARY                                                                | [Stray Kids](../artists/stray_kids.md)                                                                       | 💚       |
 | Awkward Silence                                          | SKZ2020                                                                 | [Stray Kids](../artists/stray_kids.md)                                                                       |         |
-| Chronosaurus                                             | SKZ2020                                                                 | [Stray Kids](../artists/stray_kids.md)                                                                       |         |
+| Chronosaurus                                             | SKZ2020                                                                 | [Stray Kids](../artists/stray_kids.md)                                                                       | 💚       |
 | Blueberry Eyes (feat. SUGA of BTS)                       | Blueberry Eyes (feat. SUGA of BTS)                                      | SUGA, MAX                                                                                                    | 💚       |
 | Grey Suit                                                | Grey Suit - The 2nd Mini Album                                          | SUHO                                                                                                         |         |
 | You can't sit with us                                    | 1/6                                                                     | SUNMI                                                                                                        | 💚       |

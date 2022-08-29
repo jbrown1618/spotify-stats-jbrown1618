@@ -2,6 +2,7 @@ track_uri,artist_uri
 spotify:track:3lVoGZoKXQUElnJbU668Jf,spotify:artist:5nLYd9ST4Cnwy6NHaCxbj8
 spotify:track:2TjnCxxQRYn56Ye8gkUKiW,spotify:artist:0ECwFtbIWEVNwjlrfc6xoL
 spotify:track:4U45aEWtQhrm8A5mxPaFZ7,spotify:artist:6zFYqv1mOsgBRQbae3JJ9e
+spotify:track:05HjafWVI238CLw5RDNkas,spotify:artist:3bcLBxvaI7GsBzGp3WHnwQ
 spotify:track:3LCwQoTrdQgHsGJE5gGVqx,spotify:artist:6uNxlIP5lzPFf0BHuELOuX
 spotify:track:7n2FZQsaLb7ZRfRPfEeIvr,spotify:artist:6RHTUrRF63xao58xh9FXYJ
 spotify:track:5BXr7hYZQOeRttkeWYTq5S,spotify:artist:01XYiBYaoMJcNhPokrg0l0
@@ -318,7 +319,6 @@ spotify:track:347PJwH4XqRbeaKaIW9sX3,spotify:artist:5gUpo0BRmo6EOTbyU3z5Ay
 spotify:track:347PJwH4XqRbeaKaIW9sX3,spotify:artist:7cVZApDoQZpS447nHTsNqu
 spotify:track:0KDCkxCsEBoSWj5fsyuvWq,spotify:artist:3cjEqqelV9zb4BYE3qDQ4O
 spotify:track:5fumVsa0IxAEJvHHu2F2k5,spotify:artist:3cjEqqelV9zb4BYE3qDQ4O
-spotify:track:4WCg4g0lMTZxyFC19W0DHF,spotify:artist:65SWpUO42tdFbEhdfj1ryf
 spotify:track:1HYzRuWjmS9LXCkdVHi25K,spotify:artist:6jV25rzTKQ2zMgrqHha1V5
 spotify:track:1HYzRuWjmS9LXCkdVHi25K,spotify:artist:2FgZrgTMX6Sk0VNcOsEPmm
 spotify:track:69WpV0U7OMNFGyq8I63dcC,spotify:artist:5t5FqBwTcgKTaWmfEbwQY9
@@ -864,7 +864,7 @@ spotify:track:0skYUMpS0AcbpjcGsAbRGj,spotify:artist:41MozSoPIsD1dJM0CLPjZF
 spotify:track:58epKNTOOt4RDWObkR9e43,spotify:artist:2dIgFjalVxs4ThymZ67YCE
 spotify:track:2ohOA4P55RsoU1bOanNGyB,spotify:artist:1gBUSTR3TyDdTVFIaQnc02
 spotify:track:39pv61XfYr9MUwsYkx30aQ,spotify:artist:2KC9Qb60EaY0kW4eH68vr3
-spotify:track:4Ikreq8yMoSmWFVsm2s8KB,spotify:artist:2dIgFjalVxs4ThymZ67YCE
+spotify:track:2gYj9lubBorOPIVWsTXugG,spotify:artist:6RHTUrRF63xao58xh9FXYJ
 spotify:track:2iUXsYOEPhVqEBwsqP70rE,spotify:artist:5Rl15oVamLq7FbSb0NNBNy
 spotify:track:3witRpHWHqArlnt6GTlH2Y,spotify:artist:1AhjOkOLkbHUfcHDSErXQs
 spotify:track:3witRpHWHqArlnt6GTlH2Y,spotify:artist:0HS00NN7MAfF59aJnfcxSO
@@ -1934,7 +1934,6 @@ spotify:track:4c3zZWPPYkvjSV07Cv95oJ,spotify:artist:3gd8FJtBJtkRxdfbTu19U2
 spotify:track:6kuqHs2ijp5D8tj0XokQQo,spotify:artist:3bcLBxvaI7GsBzGp3WHnwQ
 spotify:track:0dGfpnQtf1yw0ktC7yFl8b,spotify:artist:3bcLBxvaI7GsBzGp3WHnwQ
 spotify:track:5p5S50sTbxikUj5PE11bGS,spotify:artist:3bcLBxvaI7GsBzGp3WHnwQ
-spotify:track:05HjafWVI238CLw5RDNkas,spotify:artist:3bcLBxvaI7GsBzGp3WHnwQ
 spotify:track:0l4s9ze0CrQfOiE8jaMs1H,spotify:artist:3bcLBxvaI7GsBzGp3WHnwQ
 spotify:track:1xVBmHH65VMaJP61SmOSUk,spotify:artist:3bcLBxvaI7GsBzGp3WHnwQ
 spotify:track:1J9f8hnL1JpkzQwwDMhhx8,spotify:artist:5uBIsYz9WatgoViLG6pVj2
@@ -7213,7 +7212,5 @@ spotify:track:5qA5DAR5xTjQUGrl0eBbmR,spotify:artist:41MozSoPIsD1dJM0CLPjZF
 spotify:track:1y036saDcJr2878tEqtkxP,spotify:artist:2HXd5pFHJyaQJr5aXfErrE
 spotify:track:2aI2k39nfa3KFsa4JclQzw,spotify:artist:41MozSoPIsD1dJM0CLPjZF
 spotify:track:2WfaOiMkCvy7F5fcp2zZ8L,spotify:artist:2jzc5TC5TVFLXQlBNiIUzE
-spotify:track:0SwM3BwqVhPtvMrvJI2p3r,spotify:artist:1yQ8S4xdGOGbUcpaPR6hCM
-spotify:track:0SwM3BwqVhPtvMrvJI2p3r,spotify:artist:7guDJrEfX3qb6FEbdPA5qi
 spotify:track:5teF3el9gP5j2cf7Dvkbm0,spotify:artist:1yQ8S4xdGOGbUcpaPR6hCM
 spotify:track:5teF3el9gP5j2cf7Dvkbm0,spotify:artist:2Sqr0DXoaYABbjBo9HaMkM
