@@ -10,7 +10,7 @@
 |:-----------------|:-----------------|:--------|
 | Mr-Ambiguous     | Hello            | 💚       |
 | Piano Man        | Piano Man        | 💚       |
-| AHH OOP!         | Pink Funky       |         |
+| AHH OOP!         | Pink Funky       | 💚       |
 | Um Oh Ah Yeh     | Pink Funky       |         |
 | I Miss You       | Melting          |         |
 | You’re the Best  | Melting          |         |

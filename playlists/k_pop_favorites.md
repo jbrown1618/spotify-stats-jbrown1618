@@ -38,6 +38,7 @@
 |                  2 | SUPER JUNIOR                |
 |                  2 | Red Velvet - IRENE & SEULGI |
 |                  2 | IVE                         |
+|                  2 | CLC                         |
 |                  2 | Dreamcatcher                |
 |                  2 | BAEKHYUN                    |
 |                  2 | EVERGLOW                    |
@@ -52,7 +53,6 @@
 |                  1 | KAI                         |
 |                  1 | 4Minute                     |
 |                  1 | R3HAB                       |
-|                  1 | CLC                         |
 |                  1 | SUNMI                       |
 |                  1 | PURPLE KISS                 |
 |                  1 | MINGYU                      |
@@ -65,6 +65,7 @@
 |                  1 | AILEE                       |
 |                  1 | WONWOO                      |
 |                  1 | Loopy                       |
+|                  1 | CHANGMO                     |
 |                  1 | ROSÉ                        |
 |                  1 | HYO                         |
 |                  1 | TEN                         |
@@ -126,11 +127,13 @@
 | Butter                                    | Butter                                           | [BTS](../artists/bts.md)                             | 💚       |
 | DNA                                       | Love Yourself 承 'Her'                            | [BTS](../artists/bts.md)                             | 💚       |
 | Black Swan                                | MAP OF THE SOUL : 7                              | [BTS](../artists/bts.md)                             | 💚       |
+| WINE (Feat.Changmo) (Prod. SUGA)          | WINE                                             | CHANGMO, SURAN                                       | 💚       |
 | Snapping                                  | Flourishing                                      | [CHUNG HA](../artists/chung_ha.md)                   | 💚       |
 | Gotta Go                                  | Gotta Go                                         | [CHUNG HA](../artists/chung_ha.md)                   | 💚       |
 | Bicycle                                   | Querencia                                        | [CHUNG HA](../artists/chung_ha.md)                   | 💚       |
 | Stay Tonight                              | Querencia                                        | [CHUNG HA](../artists/chung_ha.md)                   | 💚       |
 | Dream of You (with R3HAB)                 | Querencia                                        | [CHUNG HA](../artists/chung_ha.md), R3HAB            | 💚       |
+| Devil                                     | Devil                                            | CLC                                                  | 💚       |
 | HELICOPTER                                | HELICOPTER                                       | CLC                                                  | 💚       |
 | Odd Eye                                   | [Dystopia : Road to Utopia]                      | [Dreamcatcher](../artists/dreamcatcher.md)           | 💚       |
 | BEcause                                   | [Summer Holiday]                                 | [Dreamcatcher](../artists/dreamcatcher.md)           | 💚       |
@@ -228,8 +231,8 @@
 | Naughty                                   | Naughty                                          | Red Velvet - IRENE & SEULGI                          | 💚       |
 | Gone                                      | R                                                | ROSÉ                                                 | 💚       |
 | HOME;RUN                                  | ; [Semicolon]                                    | [SEVENTEEN](../artists/seventeen.md)                 | 💚       |
-| Pretty U                                  | FIRST 'LOVE&LETTER'                              | [SEVENTEEN](../artists/seventeen.md)                 | 💚       |
 | Left & Right                              | Heng:garæ                                        | [SEVENTEEN](../artists/seventeen.md)                 | 💚       |
+| Pretty U                                  | SEVENTEEN 1ST ALBUM [FIRST ‘LOVE&LETTER’]        | [SEVENTEEN](../artists/seventeen.md)                 | 💚       |
 | Don't Wanna Cry                           | SEVENTEEN 4th Mini Album ‘Al1’                   | [SEVENTEEN](../artists/seventeen.md)                 | 💚       |
 | Don't Call Me                             | Don't Call Me - The 7th Album                    | SHINee                                               | 💚       |
 | Adrenaline                                | VINCENZO (Original Television Soundtrack) Pt. 3  | Solar                                                | 💚       |
@@ -245,7 +248,6 @@
 | Gashina                                   | SUNMI SPECIAL EDITION [Gashina]                  | SUNMI                                                | 💚       |
 | Devil                                     | DEVIL - SUPER JUNIOR SPECIAL ALBUM               | SUPER JUNIOR                                         | 💚       |
 | Mamacita (아야야)                            | MAMACITA - The 7th Album                         | SUPER JUNIOR                                         | 💚       |
-| WINE (Feat.Changmo) (Prod. SUGA)          | WINE                                             | SURAN                                                | 💚       |
 | 눈,코,입 (Eyes, Nose, Lips)                  | RISE                                             | TAEYANG                                              | 💚       |
 | Can't Control Myself                      | Can't Control Myself                             | [TAEYEON](../artists/taeyeon.md)                     | 💚       |
 | Cold As Hell                              | INVU - The 3rd Album                             | [TAEYEON](../artists/taeyeon.md)                     | 💚       |

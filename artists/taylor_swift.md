@@ -2,7 +2,7 @@
 # Taylor Swift
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb9e3acf1eaf3b8846e836f441" alt="Taylor Swift" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5ebfcf7c334a6e9dcb8555f3663" alt="Taylor Swift" width="100" />
 
 ## Tracks
 

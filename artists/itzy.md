@@ -14,7 +14,7 @@
 | WANNABE                                             | It'z Me                                             | 💚       |
 | Louder                                              | Not Shy                                             |         |
 | Not Shy                                             | Not Shy                                             | 💚       |
-| SURF                                                | Not Shy                                             |         |
+| SURF                                                | Not Shy                                             | 💚       |
 | In the morning                                      | GUESS WHO                                           | 💚       |
 | KIDDING ME                                          | GUESS WHO                                           | 💚       |
 | SHOOT!                                              | GUESS WHO                                           | 💚       |

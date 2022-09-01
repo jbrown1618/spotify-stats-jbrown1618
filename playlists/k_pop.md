@@ -85,6 +85,7 @@
 |                  3 | G-DRAGON                    |
 |                  3 | SEULGI                      |
 |                  3 | KARD                        |
+|                  3 | Billlie                     |
 |                  3 | Punch                       |
 |                  3 | SURAN                       |
 |                  3 | CIX                         |
@@ -114,6 +115,7 @@
 |                  2 | Rain                        |
 |                  2 | BoA                         |
 |                  2 | Jay Park                    |
+|                  2 | CHANGMO                     |
 |                  2 | ROSÉ                        |
 |                  2 | ADORA                       |
 |                  2 | V                           |
@@ -127,7 +129,6 @@
 |                  2 | Loco                        |
 |                  2 | Seori                       |
 |                  2 | JAMIE                       |
-|                  2 | Billlie                     |
 |                  2 | NMIXX                       |
 |                  2 | Halsey                      |
 |                  2 | YUQI                        |
@@ -154,6 +155,7 @@
 |                  1 | Junggigo                    |
 |                  1 | GOT the beat                |
 |                  1 | WONHO                       |
+|                  1 | HOSHI                       |
 |                  1 | CHENLE                      |
 |                  1 | CHANYEOL                    |
 |                  1 | CHEETAH                     |
@@ -200,13 +202,13 @@
 |                  1 | American Song Contest       |
 |                  1 | WINTER                      |
 |                  1 | Loopy                       |
-|                  1 | CHANGMO                     |
 |                  1 | SOYOU                       |
 |                  1 | TEN                         |
 |                  1 | JO YURI                     |
 |                  1 | JENO                        |
 |                  1 | TAN                         |
 |                  1 | DKZ                         |
+|                  1 | george                      |
 |                  1 | BTOB                        |
 |                  1 | RM                          |
 |                  1 | LUNCH                       |
@@ -337,6 +339,7 @@
 | LOSER                                                    | MADE                                                                    | BIGBANG                                                                                                      | 💚       |
 | Still Life                                               | Still Life                                                              | BIGBANG                                                                                                      | 💚       |
 | RING X RING                                              | the Billage of perception : chapter one                                 | Billlie                                                                                                      | 💚       |
+| RING ma Bell (what a wonderful world)                    | the Billage of perception: chapter two                                  | Billlie                                                                                                      | 💚       |
 | GingaMingaYo (the strange world)                         | the collective soul and unconscious: chapter one                        | Billlie                                                                                                      |         |
 | As If It's Your Last                                     | As If It's Your Last                                                    | [BLACKPINK](../artists/blackpink.md)                                                                         | 💚       |
 | Don't Know What To Do                                    | KILL THIS LOVE                                                          | [BLACKPINK](../artists/blackpink.md)                                                                         | 💚       |
@@ -401,6 +404,7 @@
 | The Truth Untold                                         | Love Yourself 結 'Answer'                                                | [BTS](../artists/bts.md), Steve Aoki                                                                         |         |
 | The Truth Untold                                         | Love Yourself 轉 'Tear'                                                  | [BTS](../artists/bts.md), Steve Aoki                                                                         |         |
 | Show Your Heart 너를 보여줘                                   | Meow the secret boy 어서와 (Original Television Soundtrack), Pt.11         | CHAN 찬                                                                                                       | 💚       |
+| WINE (Feat.Changmo) (Prod. SUGA)                         | WINE                                                                    | CHANGMO, SURAN                                                                                               | 💚       |
 | Stay With Me                                             | Guardian (Original Television Soundtrack), Pt. 1                        | CHANYEOL, Punch                                                                                              | 💚       |
 | Love So Sweet                                            | Cherry Rush                                                             | Cherry Bullet                                                                                                | 💚       |
 | Love In Space                                            | Cherry Wish                                                             | Cherry Bullet                                                                                                |         |
@@ -423,7 +427,7 @@
 | Jungle                                                   | HELLO Chapter 3: Hello, Strange Time                                    | CIX                                                                                                          | 💚       |
 | Hello Bitches                                            | Hello Bitches                                                           | CL                                                                                                           | 💚       |
 | BLACK DRESS                                              | BLACK DRESS                                                             | CLC                                                                                                          | 💚       |
-| Hobgoblin                                                | CRYSTYLE                                                                | CLC                                                                                                          |         |
+| Hobgoblin                                                | CRYSTYLE                                                                | CLC                                                                                                          | 💚       |
 | Devil                                                    | Devil                                                                   | CLC                                                                                                          | 💚       |
 | HELICOPTER                                               | HELICOPTER                                                              | CLC                                                                                                          | 💚       |
 | No                                                       | No.1                                                                    | CLC                                                                                                          |         |
@@ -490,8 +494,9 @@
 | CROOKED                                                  | COUP D'ETAT                                                             | G-DRAGON                                                                                                     |         |
 | 삐딱하게 (Crooked)                                           | COUP D'ETAT                                                             | G-DRAGON                                                                                                     | 💚       |
 | 무제(無題) (Untitled, 2014)                                  | KWON JI YONG                                                            | G-DRAGON                                                                                                     | 💚       |
+| Boat                                                     | Boat                                                                    | george                                                                                                       | 💚       |
+| Rough                                                    | GFRIEND 3rd Mini Album 'SNOWFLAKE'                                      | GFRIEND                                                                                                      | 💚       |
 | NAVILLERA                                                | GFRIEND The 1st Album 'LOL'                                             | GFRIEND                                                                                                      |         |
-| Rough                                                    | SNOWFLAKE                                                               | GFRIEND                                                                                                      | 💚       |
 | MAGO                                                     | 回:Walpurgis Night                                                       | GFRIEND                                                                                                      | 💚       |
 | Something                                                | Girl's Day Love Second Album                                            | Girl's Day                                                                                                   | 💚       |
 | Closer                                                   | FOREVER 1 - The 7th Album                                               | [Girls' Generation](../artists/girls__generation.md)                                                         |         |
@@ -516,6 +521,7 @@
 | 딱 좋아(Just right)                                         | Just right                                                              | GOT7                                                                                                         |         |
 | 니가 하면 If You Do                                          | MAD                                                                     | GOT7                                                                                                         |         |
 | Undo                                                     | Undo                                                                    | HEIZE                                                                                                        | 💚       |
+| Spider                                                   | Spider                                                                  | HOSHI                                                                                                        | 💚       |
 | FOMO                                                     | Guilty Pleasure                                                         | Hwa Sa                                                                                                       |         |
 | I`m a B                                                  | Guilty Pleasure                                                         | Hwa Sa                                                                                                       | 💚       |
 | Maria                                                    | María                                                                   | Hwa Sa                                                                                                       | 💚       |
@@ -551,7 +557,7 @@
 | WANNABE                                                  | It'z Me                                                                 | [ITZY](../artists/itzy.md)                                                                                   | 💚       |
 | Louder                                                   | Not Shy                                                                 | [ITZY](../artists/itzy.md)                                                                                   |         |
 | Not Shy                                                  | Not Shy                                                                 | [ITZY](../artists/itzy.md)                                                                                   | 💚       |
-| SURF                                                     | Not Shy                                                                 | [ITZY](../artists/itzy.md)                                                                                   |         |
+| SURF                                                     | Not Shy                                                                 | [ITZY](../artists/itzy.md)                                                                                   | 💚       |
 | Weapon (With Newnion, FLOOR) (Prod.Czaer)                | Street Dance Girls Fighter(SGF) Special                                 | [ITZY](../artists/itzy.md)                                                                                   | 💚       |
 | Voltage                                                  | Voltage                                                                 | [ITZY](../artists/itzy.md)                                                                                   | 💚       |
 | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY)      | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY)                     | [ITZY](../artists/itzy.md), Bebe Rexha, YEJI & RYUJIN of ITZY                                                | 💚       |
@@ -656,7 +662,7 @@
 | I Miss You                                               | Melting                                                                 | [MAMAMOO](../artists/mamamoo.md)                                                                             |         |
 | You’re the Best                                          | Melting                                                                 | [MAMAMOO](../artists/mamamoo.md)                                                                             |         |
 | Piano Man                                                | Piano Man                                                               | [MAMAMOO](../artists/mamamoo.md)                                                                             | 💚       |
-| AHH OOP!                                                 | Pink Funky                                                              | [MAMAMOO](../artists/mamamoo.md)                                                                             |         |
+| AHH OOP!                                                 | Pink Funky                                                              | [MAMAMOO](../artists/mamamoo.md)                                                                             | 💚       |
 | Um Oh Ah Yeh                                             | Pink Funky                                                              | [MAMAMOO](../artists/mamamoo.md)                                                                             |         |
 | Yes I Am                                                 | Purple                                                                  | [MAMAMOO](../artists/mamamoo.md)                                                                             |         |
 | Egotistic                                                | RED MOON                                                                | [MAMAMOO](../artists/mamamoo.md)                                                                             | 💚       |
@@ -809,12 +815,12 @@
 | SELFISH (Feat. SEULGI Of Red Velvet)                     | SELFISH                                                                 | SEULGI, Moon Byul                                                                                            |         |
 | HOME;RUN                                                 | ; [Semicolon]                                                           | [SEVENTEEN](../artists/seventeen.md)                                                                         | 💚       |
 | Darl+ing                                                 | Darl+ing                                                                | [SEVENTEEN](../artists/seventeen.md)                                                                         | 💚       |
-| Pretty U                                                 | FIRST 'LOVE&LETTER'                                                     | [SEVENTEEN](../artists/seventeen.md)                                                                         | 💚       |
 | Fearless                                                 | Heng:garæ                                                               | [SEVENTEEN](../artists/seventeen.md)                                                                         |         |
 | Left & Right                                             | Heng:garæ                                                               | [SEVENTEEN](../artists/seventeen.md)                                                                         | 💚       |
 | VERY NICE                                                | Love&Letter repackage album                                             | [SEVENTEEN](../artists/seventeen.md)                                                                         | 💚       |
+| Pretty U                                                 | SEVENTEEN 1ST ALBUM [FIRST ‘LOVE&LETTER’]                               | [SEVENTEEN](../artists/seventeen.md)                                                                         | 💚       |
 | Adore U                                                  | SEVENTEEN 1st Mini Album ’17 CARAT’                                     | [SEVENTEEN](../artists/seventeen.md)                                                                         |         |
-| CLAP                                                     | SEVENTEEN 2ND ALBUM 'TEEN, AGE'                                         | [SEVENTEEN](../artists/seventeen.md)                                                                         |         |
+| CLAP                                                     | SEVENTEEN 2ND ALBUM 'TEEN, AGE' (2)                                     | [SEVENTEEN](../artists/seventeen.md)                                                                         |         |
 | Darl+ing                                                 | SEVENTEEN 4th Album 'Face the Sun'                                      | [SEVENTEEN](../artists/seventeen.md)                                                                         | 💚       |
 | Domino                                                   | SEVENTEEN 4th Album 'Face the Sun'                                      | [SEVENTEEN](../artists/seventeen.md)                                                                         |         |
 | HOT                                                      | SEVENTEEN 4th Album 'Face the Sun'                                      | [SEVENTEEN](../artists/seventeen.md)                                                                         | 💚       |
@@ -882,9 +888,8 @@
 | 쏘리 쏘리 Sorry, Sorry                                       | 쏘리 쏘리 Sorry, Sorry - The 3rd Album                                      | SUPER JUNIOR                                                                                                 | 💚       |
 | Lo Siento                                                | REPLAY - The 8th Repackage Album                                        | SUPER JUNIOR, Leslie Grace, Play-N-Skillz                                                                    | 💚       |
 | Tiger Inside                                             | Super One -The 1st Album                                                | SuperM                                                                                                       | 💚       |
-| WINE (Feat.Changmo) (Prod. SUGA)                         | WINE                                                                    | SURAN                                                                                                        | 💚       |
 | Into The Abyss                                           | Abyss (Original Television Soundtrack), Pt. 1                           | SURAN, Coogie                                                                                                | 💚       |
-| Love Story                                               | Love Story                                                              | SURAN, Crush                                                                                                 | 💚       |
+| Love Story (Feat. CRUSH)                                 | Love Story                                                              | SURAN, Crush                                                                                                 | 💚       |
 | Starlight                                                | Twenty-Five Twenty-One OST                                              | TAEIL                                                                                                        | 💚       |
 | Advice                                                   | Advice - The 3rd Mini Album                                             | TAEMIN                                                                                                       | 💚       |
 | MOVE                                                     | MOVE - The 2nd Album                                                    | TAEMIN                                                                                                       | 💚       |

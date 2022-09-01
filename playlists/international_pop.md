@@ -49,6 +49,7 @@
 |                  1 | Synne Vo              |
 |                  1 | Blær                  |
 |                  1 | Master KG             |
+|                  1 | 張楚寒                   |
 |                  1 | Angela Chang          |
 |                  1 | Dadju                 |
 |                  1 | Bad Bunny             |
@@ -193,4 +194,5 @@
 | Sofa Silahlane                                                                                      | Sofa Silahlane                                                                                      | Wanitwa Mos, Master KG, Lowsheen, Nkosazana Daughter           |         |
 | Pleasure                                                                                            | Pleasure                                                                                            | WARPs UP                                                       |         |
 | 白月光与朱砂痣                                                                                             | 白月光与朱砂痣                                                                                             | 大籽                                                             | 💚       |
+| Bunny                                                                                               | Bunny                                                                                               | 張楚寒                                                            | 💚       |
 | 醒不来的梦                                                                                               | 醒不来的梦                                                                                               | 拾贰                                                             | 💚       |

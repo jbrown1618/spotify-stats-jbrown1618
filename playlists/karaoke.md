@@ -5,27 +5,31 @@
 
 ## Top Artists
 
-![Bar chart of top 4 artists in Karaoke](../images/playlists/karaoke/artists.png)
+![Bar chart of top 6 artists in Karaoke](../images/playlists/karaoke/artists.png)
 
 
 <details>
 <summary>See all artists</summary>
 
-|   Number of Tracks | Artist       |
-|-------------------:|:-------------|
-|                  1 | Billy Joel   |
-|                  1 | CeeLo Green  |
-|                  1 | Nickel Creek |
-|                  1 | Eagles       |
+|   Number of Tracks | Artist        |
+|-------------------:|:--------------|
+|                  2 | Frank Sinatra |
+|                  1 | Billy Joel    |
+|                  1 | CeeLo Green   |
+|                  1 | Nickel Creek  |
+|                  1 | Count Basie   |
+|                  1 | Eagles        |
 
 </details>
 
 
 ## Tracks
 
-| Track                     | Album                         | Artists                                | Liked   |
-|:--------------------------|:------------------------------|:---------------------------------------|:--------|
-| Vienna                    | The Stranger (Legacy Edition) | [Billy Joel](../artists/billy_joel.md) | 💚       |
-| Old Fashioned             | The Lady Killer               | CeeLo Green                            | 💚       |
-| Desperado - 2013 Remaster | Desperado (2013 Remaster)     | Eagles                                 | 💚       |
-| The Lighthouse's Tale     | Nickel Creek                  | Nickel Creek                           | 💚       |
+| Track                                | Album                                                              | Artists                                | Liked   |
+|:-------------------------------------|:-------------------------------------------------------------------|:---------------------------------------|:--------|
+| Vienna                               | The Stranger (Legacy Edition)                                      | [Billy Joel](../artists/billy_joel.md) | 💚       |
+| Old Fashioned                        | The Lady Killer                                                    | CeeLo Green                            | 💚       |
+| Desperado - 2013 Remaster            | Desperado (2013 Remaster)                                          | Eagles                                 | 💚       |
+| The Way You Look Tonight             | Days Of Wine And Roses, Moon River And Other Academy Award Winners | Frank Sinatra                          | 💚       |
+| Fly Me To The Moon - 2008 Remastered | Nothing But The Best (Remastered)                                  | Frank Sinatra, Count Basie             |         |
+| The Lighthouse's Tale                | Nickel Creek                                                       | Nickel Creek                           | 💚       |
