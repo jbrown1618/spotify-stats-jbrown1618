@@ -8,7 +8,7 @@
 
 | Track                                                                               | Album                              | Liked   |
 |:------------------------------------------------------------------------------------|:-----------------------------------|:--------|
-| Symphony No.9 In D Minor, Op.125 - "Choral" / 4.: "O Freunde nicht diese Töne" -    | Beethoven: 9 Symphonies; Overtures |         |
+| Symphony No. 9 In D Minor, Op. 125 - "Choral" / 4.: "O Freunde nicht diese Töne" -  | Beethoven: 9 Symphonies; Overtures |         |
 | Bizet: Carmen: Hola! Hola! Jose! - Act Three                                        | Carmen                             |         |
 | Bizet: Carmen: Je dis que rien ne m'epouvante - Act Three                           | Carmen                             |         |
 | Bizet: Carmen: Je suis Escamillo, torero de Grenade - Act Three                     | Carmen                             |         |

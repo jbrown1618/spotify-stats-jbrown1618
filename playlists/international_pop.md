@@ -24,10 +24,12 @@
 |                  2 | Luis Fonsi            |
 |                  2 | AKB48                 |
 |                  1 | Lothika               |
+|                  1 | Reol                  |
 |                  1 | הפשוטע                |
 |                  1 | ROSALÍA               |
 |                  1 | Hikaru Utada          |
 |                  1 | Aitana                |
+|                  1 | mothy                 |
 |                  1 | ANNA                  |
 |                  1 | Aya Nakamura          |
 |                  1 | SEKAI NO OWARI        |
@@ -35,6 +37,7 @@
 |                  1 | King Gnu              |
 |                  1 | Eden Hason            |
 |                  1 | Jimbo J               |
+|                  1 | Fujii Kaze            |
 |                  1 | WARPs UP              |
 |                  1 | Harlem Yu             |
 |                  1 | Demi Lovato           |
@@ -94,6 +97,7 @@
 |                  1 | Christine Fan         |
 |                  1 | Rauw Alejandro        |
 |                  1 | Las Ketchup           |
+|                  1 | TFBOYS                |
 |                  1 | Gen Hoshino           |
 |                  1 | Natti Natasha         |
 |                  1 | Full Trunk            |
@@ -147,6 +151,7 @@
 | עושה לי צרות                                                                                        | עושה לי צרות                                                                                        | Eden Hason                                                     |         |
 | 永不失聯的愛                                                                                              | 如果雨之後                                                                                               | Eric Chou                                                      |         |
 | Non mi avete fatto niente                                                                           | Non mi avete fatto niente                                                                           | Ermal Meta, Fabrizio Moro                                      | 💚       |
+| 死ぬのがいいわ                                                                                             | HELP EVER HURT NEVER                                                                                | Fujii Kaze                                                     | 💚       |
 | סתלבט בקיבוץ                                                                                        | ממותה                                                                                               | Full Trunk, Jimbo J                                            |         |
 | Koi                                                                                                 | POP VIRUS                                                                                           | Gen Hoshino                                                    | 💚       |
 | Cara Italia                                                                                         | Cara Italia                                                                                         | Ghali                                                          | 💚       |
@@ -169,6 +174,7 @@
 | Despacito                                                                                           | VIDA                                                                                                | Luis Fonsi, Daddy Yankee                                       | 💚       |
 | Mercy                                                                                               | Mercy                                                                                               | Madame Monsieur                                                | 💚       |
 | 11 PM                                                                                               | 11:11                                                                                               | Maluma                                                         |         |
+| 悪ノ娘                                                                                                 | Evils Theater                                                                                       | mothy                                                          | 💚       |
 | Sin Pijama                                                                                          | Sin Pijama                                                                                          | Natti Natasha, Becky G                                         | 💚       |
 | Toy                                                                                                 | Toy                                                                                                 | Netta                                                          | 💚       |
 | Doobey (From "Gehraiyaan")                                                                          | Doobey (From "Gehraiyaan")                                                                          | OAFF, Savera, Lothika, Kausar Munir                            |         |
@@ -177,6 +183,7 @@
 | Pretender                                                                                           | Traveler                                                                                            | Official HIGE DANdism                                          |         |
 | 你要的愛                                                                                                | 怎樣                                                                                                  | Penny Tai                                                      |         |
 | だいじょばない                                                                                             | LEVEL3                                                                                              | Perfume                                                        | 💚       |
+| No title                                                                                            | No title-                                                                                           | Reol                                                           | 💚       |
 | MALAMENTE - Cap.1: Augurio                                                                          | El Mal Querer                                                                                       | ROSALÍA                                                        | 💚       |
 | Habit                                                                                               | Habit                                                                                               | SEKAI NO OWARI                                                 |         |
 | Pasoori                                                                                             | Pasoori                                                                                             | Shae Gill, Ali Sethi                                           |         |
@@ -189,6 +196,7 @@
 | Papaoutai                                                                                           | Racine Carrée (Standard US Version)                                                                 | Stromae                                                        | 💚       |
 | Lykke te                                                                                            | Lykke te                                                                                            | Synne Vo                                                       |         |
 | W / X / Y                                                                                           | Memories                                                                                            | Tani Yuuki                                                     |         |
+| 青春修炼手册                                                                                              | 青春修炼手册                                                                                              | TFBOYS                                                         |         |
 | ก่อนฤดูฝน                                                                                           | SUN                                                                                                 | THE TOYS                                                       |         |
 | Jai Jai Shivshankar (From "War")                                                                    | Jai Jai Shivshankar (From "War")                                                                    | Vishal Dadlani, Benny Dayal                                    | 💚       |
 | Sofa Silahlane                                                                                      | Sofa Silahlane                                                                                      | Wanitwa Mos, Master KG, Lowsheen, Nkosazana Daughter           |         |

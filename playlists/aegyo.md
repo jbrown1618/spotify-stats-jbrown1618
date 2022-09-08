@@ -1,11 +1,11 @@
 # Aegyo
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d0000b2731544041d0285585cc92c2709ab67616d0000b27318d0ed4f969b376893f9a38fab67616d0000b27335cdd6d3f5815afac043758eab67616d0000b2735b1ee39743c40b88a80b4ccf" alt="Aegyo" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d0000b2731544041d0285585cc92c2709ab67616d0000b27318d0ed4f969b376893f9a38fab67616d0000b27335cdd6d3f5815afac043758eab67616d0000b273714e56679ab196354e2e443e" alt="Aegyo" width="100" />
 
 ## Top Artists
 
-![Bar chart of top 17 artists in Aegyo](../images/playlists/aegyo/artists.png)
+![Bar chart of top 18 artists in Aegyo](../images/playlists/aegyo/artists.png)
 
 
 <details>
@@ -17,16 +17,17 @@
 |                  4 | ENHYPEN             |
 |                  3 | MOMOLAND            |
 |                  3 | Red Velvet          |
-|                  2 | aespa               |
-|                  2 | ITZY                |
 |                  2 | OH MY GIRL          |
 |                  2 | TOMORROW X TOGETHER |
 |                  1 | SEVENTEEN           |
 |                  1 | WJSN                |
+|                  1 | aespa               |
 |                  1 | IZ*ONE              |
 |                  1 | BTS                 |
 |                  1 | Halsey              |
+|                  1 | TFBOYS              |
 |                  1 | Natti Natasha       |
+|                  1 | JOY                 |
 |                  1 | OH MY GIRL BANHANA  |
 |                  1 | Girls' Generation   |
 |                  1 | THE BOYZ            |
@@ -38,7 +39,6 @@
 
 | Track                              | Album                                     | Artists                                              | Liked   |
 |:-----------------------------------|:------------------------------------------|:-----------------------------------------------------|:--------|
-| Dreams Come True                   | Dreams Come True - SM STATION             | [aespa](../artists/aespa.md)                         | 💚       |
 | Life's Too Short (English Version) | Life's Too Short                          | [aespa](../artists/aespa.md)                         | 💚       |
 | Boy With Luv (feat. Halsey)        | MAP OF THE SOUL : PERSONA                 | [BTS](../artists/bts.md), Halsey                     |         |
 | Not For Sale                       | BORDER : CARNIVAL                         | [ENHYPEN](../artists/enhypen.md)                     | 💚       |
@@ -46,9 +46,8 @@
 | Let Me In (20 CUBE)                | BORDER : DAY ONE                          | [ENHYPEN](../artists/enhypen.md)                     | 💚       |
 | Polaroid Love                      | DIMENSION : ANSWER                        | [ENHYPEN](../artists/enhypen.md)                     | 💚       |
 | Gee                                | Oh! - The Second Album                    | [Girls' Generation](../artists/girls__generation.md) | 💚       |
-| ICY                                | IT'z ICY                                  | [ITZY](../artists/itzy.md)                           | 💚       |
-| Not Shy                            | Not Shy                                   | [ITZY](../artists/itzy.md)                           | 💚       |
 | FIESTA                             | BLOOM*IZ                                  | IZ*ONE                                               | 💚       |
+| Hello                              | Hello - Special Album                     | JOY                                                  | 💚       |
 | BAAM                               | Fun to The World                          | MOMOLAND                                             | 💚       |
 | BBoom BBoom                        | GREAT!                                    | MOMOLAND                                             | 💚       |
 | Yummy Yummy Love                   | Yummy Yummy Love                          | MOMOLAND, Natti Natasha                              | 💚       |
@@ -59,6 +58,7 @@
 | Red Flavor                         | The Red Summer - Summer Mini Album        | [Red Velvet](../artists/red_velvet.md)               | 💚       |
 | Umpah Umpah                        | ‘The ReVe Festival’ Day 2                 | [Red Velvet](../artists/red_velvet.md)               | 💚       |
 | Pretty U                           | SEVENTEEN 1ST ALBUM [FIRST ‘LOVE&LETTER’] | [SEVENTEEN](../artists/seventeen.md)                 | 💚       |
+| 青春修炼手册                             | 青春修炼手册                                    | TFBOYS                                               |         |
 | THRILL RIDE                        | THE BOYZ 6TH MINI ALBUM [THRILL-ING]      | THE BOYZ                                             | 💚       |
 | 9 and Three Quarters (Run Away)    | The Dream Chapter: MAGIC                  | TOMORROW X TOGETHER                                  | 💚       |
 | Blue Hour                          | minisode1 : Blue Hour                     | TOMORROW X TOGETHER                                  |         |

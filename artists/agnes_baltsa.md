@@ -8,7 +8,7 @@
 
 | Track                                                                                                         | Album                              | Liked   |
 |:--------------------------------------------------------------------------------------------------------------|:-----------------------------------|:--------|
-| Symphony No.9 In D Minor, Op.125 - "Choral" / 4.: "O Freunde nicht diese Töne" -                              | Beethoven: 9 Symphonies; Overtures |         |
+| Symphony No. 9 In D Minor, Op. 125 - "Choral" / 4.: "O Freunde nicht diese Töne" -                            | Beethoven: 9 Symphonies; Overtures |         |
 | Die Zauberflöte, K.620 / Act 1: Zu Hilfe! Zu Hilfe! (Tamino, Die drei Damen)                                  | Karajan - Mozart                   |         |
 | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Ah! chi mi dice mai" - "Udisti? qualche bella"       | Karajan - Mozart                   |         |
 | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Ah, fuggi il traditor"                               | Karajan - Mozart                   |         |

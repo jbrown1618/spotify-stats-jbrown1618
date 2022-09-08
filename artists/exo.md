@@ -14,6 +14,7 @@
 | Ko Ko Bop    | THE WAR - The 4th Album                 | 💚       |
 | The Eve      | THE WAR - The 4th Album                 | 💚       |
 | Tempo        | DON’T MESS UP MY TEMPO – The 5th Album  | 💚       |
+| Gravity      | LOVE SHOT– The 5th Album Repackage      |         |
 | Love Shot    | LOVE SHOT– The 5th Album Repackage      | 💚       |
 | No matter    | DON'T FIGHT THE FEELING - Special Album |         |
 | Paradise     | DON'T FIGHT THE FEELING - Special Album |         |

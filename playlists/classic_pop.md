@@ -70,7 +70,7 @@
 | Like a Prayer                                                                | Celebration (Bonus Track Version)                                                                       | Madonna           | 💚       |
 | Material Girl                                                                | Celebration (Bonus Track Version)                                                                       | Madonna           |         |
 | Like a Virgin                                                                | Like a Virgin (Reissue)                                                                                 | Madonna           | 💚       |
-| Man in the Mirror - 2012 Remaster                                            | Bad (Remastered)                                                                                        | Michael Jackson   | 💚       |
+| Man in the Mirror - 2012 Remaster                                            | Bad (Remastered)                                                                                        | Michael Jackson   |         |
 | Smooth Criminal - 2012 Remaster                                              | Bad (Remastered)                                                                                        | Michael Jackson   | 💚       |
 | Beat It                                                                      | HIStory - PAST, PRESENT AND FUTURE - BOOK I                                                             | Michael Jackson   | 💚       |
 | Don't Stop 'Til You Get Enough                                               | Off the Wall                                                                                            | Michael Jackson   |         |

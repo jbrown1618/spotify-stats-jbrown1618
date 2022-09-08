@@ -23,6 +23,7 @@
 | eight(Prod.&Feat. SUGA of BTS) | eight                   | 💚       |
 | Celebrity                      | IU 5th Album 'LILAC'    | 💚       |
 | Coin                           | IU 5th Album 'LILAC'    | 💚       |
+| Epilogue                       | IU 5th Album 'LILAC'    |         |
 | LILAC                          | IU 5th Album 'LILAC'    | 💚       |
 | My sea                         | IU 5th Album 'LILAC'    | 💚       |
 | NAKKA (with IU)                | NEXT EPISODE            | 💚       |

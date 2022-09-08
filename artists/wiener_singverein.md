@@ -8,7 +8,7 @@
 
 | Track                                                                                                           | Album                              | Liked   |
 |:----------------------------------------------------------------------------------------------------------------|:-----------------------------------|:--------|
-| Symphony No.9 In D Minor, Op.125 - "Choral" / 4.: "O Freunde nicht diese Töne" -                                | Beethoven: 9 Symphonies; Overtures |         |
+| Symphony No. 9 In D Minor, Op. 125 - "Choral" / 4.: "O Freunde nicht diese Töne" -                              | Beethoven: 9 Symphonies; Overtures |         |
 | Symphony No. 2 in C minor - "Resurrection" / 5th Movement: Etwas bewegter (Solo: "O Glaube")                    | Mahler: Symphony No. 2             |         |
 | Symphony No. 2 in C minor - "Resurrection" / 5th Movement: Langsam. Misterioso (Chorus: "Aufersteh'n")          | Mahler: Symphony No. 2             |         |
 | Symphony No. 2 in C minor - "Resurrection" / 5th Movement: Mit Aufschwung, aber nicht eilen (Duet: "O Schmerz") | Mahler: Symphony No. 2             |         |

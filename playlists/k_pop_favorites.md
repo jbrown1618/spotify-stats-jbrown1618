@@ -20,14 +20,14 @@
 |                  9 | ITZY                        |
 |                  7 | aespa                       |
 |                  6 | ENHYPEN                     |
-|                  6 | Stray Kids                  |
 |                  6 | (G)I-DLE                    |
-|                  5 | LeeHi                       |
 |                  5 | TAEYEON                     |
+|                  5 | Stray Kids                  |
 |                  5 | CHUNG HA                    |
 |                  5 | MAMAMOO                     |
 |                  5 | Girls' Generation           |
 |                  4 | SEVENTEEN                   |
+|                  4 | LeeHi                       |
 |                  4 | BTS                         |
 |                  3 | JEON SOYEON                 |
 |                  3 | EXO                         |
@@ -84,7 +84,6 @@
 |                  1 | Jackson Wang                |
 |                  1 | Girl's Day                  |
 |                  1 | GFRIEND                     |
-|                  1 | B.I                         |
 
 </details>
 
@@ -194,7 +193,6 @@
 | HOLO                                      | HOLO                                             | [LeeHi](../artists/leehi.md)                         | 💚       |
 | ONLY                                      | ONLY                                             | [LeeHi](../artists/leehi.md)                         | 💚       |
 | HOLD MY HAND                              | SEOULITE                                         | [LeeHi](../artists/leehi.md)                         | 💚       |
-| NO ONE                                    | 24℃                                              | [LeeHi](../artists/leehi.md), B.I                    | 💚       |
 | Bittersweet (feat. LeeHi)                 | Bittersweet (feat. LeeHi)                        | [LeeHi](../artists/leehi.md), WONWOO, MINGYU         | 💚       |
 | Why Not?                                  | [12:00]                                          | LOONA                                                | 💚       |
 | Piano Man                                 | Piano Man                                        | [MAMAMOO](../artists/mamamoo.md)                     | 💚       |
@@ -242,9 +240,8 @@
 | CIRCUS                                    | CIRCUS                                           | [Stray Kids](../artists/stray_kids.md)               | 💚       |
 | God’s Menu                                | GO LIVE                                          | [Stray Kids](../artists/stray_kids.md)               |         |
 | Back Door                                 | IN LIFE                                          | [Stray Kids](../artists/stray_kids.md)               |         |
-| Red Lights (Bang Chan, Hyunjin)           | NOEASY                                           | [Stray Kids](../artists/stray_kids.md)               |         |
+| Red Lights (Bang Chan, Hyunjin)           | NOEASY                                           | [Stray Kids](../artists/stray_kids.md)               | 💚       |
 | Thunderous                                | NOEASY                                           | [Stray Kids](../artists/stray_kids.md)               | 💚       |
-| Thunderous                                | NOEASY                                           | [Stray Kids](../artists/stray_kids.md)               |         |
 | Gashina                                   | SUNMI SPECIAL EDITION [Gashina]                  | SUNMI                                                | 💚       |
 | Devil                                     | DEVIL - SUPER JUNIOR SPECIAL ALBUM               | SUPER JUNIOR                                         | 💚       |
 | Mamacita (아야야)                            | MAMACITA - The 7th Album                         | SUPER JUNIOR                                         | 💚       |

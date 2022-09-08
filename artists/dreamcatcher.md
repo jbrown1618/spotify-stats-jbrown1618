@@ -12,6 +12,7 @@
 | PIRI                 | The End of Nightmare                        |         |
 | Deja Vu              | Raid of Dream                               | 💚       |
 | Silent Night         | Raid of Dream                               | 💚       |
+| Black Or White       | 1st Album [Dystopia : The Tree of Language] | 💚       |
 | Jazz Bar             | 1st Album [Dystopia : The Tree of Language] | 💚       |
 | Red Sun              | 1st Album [Dystopia : The Tree of Language] |         |
 | Scream               | 1st Album [Dystopia : The Tree of Language] | 💚       |

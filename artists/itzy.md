@@ -23,11 +23,13 @@
 | #Twenty                                             | CRAZY IN LOVE                                       | 💚       |
 | Gas Me Up                                           | CRAZY IN LOVE                                       | 💚       |
 | LOCO                                                | CRAZY IN LOVE                                       | 💚       |
+| LOCO - English Ver.                                 | CRAZY IN LOVE                                       |         |
 | SWIPE                                               | CRAZY IN LOVE                                       | 💚       |
 | Sooo LUCKY                                          | CRAZY IN LOVE                                       |         |
 | Weapon (With Newnion, FLOOR) (Prod.Czaer)           | Street Dance Girls Fighter(SGF) Special             | 💚       |
 | Voltage                                             | Voltage                                             | 💚       |
 | DOMINO                                              | CHECKMATE                                           | 💚       |
+| Free Fall                                           | CHECKMATE                                           |         |
 | RACER                                               | CHECKMATE                                           | 💚       |
 | SNEAKERS                                            | CHECKMATE                                           | 💚       |
 | WHAT I WANT                                         | CHECKMATE                                           | 💚       |

@@ -16,11 +16,11 @@
 |                 56 | Red Velvet                  |
 |                 32 | BTS                         |
 |                 31 | TWICE                       |
+|                 26 | ITZY                        |
 |                 24 | Stray Kids                  |
-|                 24 | ITZY                        |
 |                 23 | BLACKPINK                   |
 |                 21 | TAEYEON                     |
-|                 20 | IU                          |
+|                 21 | IU                          |
 |                 19 | (G)I-DLE                    |
 |                 17 | ENHYPEN                     |
 |                 17 | MAMAMOO                     |
@@ -29,8 +29,8 @@
 |                 14 | Girls' Generation           |
 |                 13 | aespa                       |
 |                 12 | LeeHi                       |
-|                 11 | Dreamcatcher                |
-|                 10 | EXO                         |
+|                 12 | Dreamcatcher                |
+|                 11 | EXO                         |
 |                  8 | JEON SOYEON                 |
 |                  8 | BAEKHYUN                    |
 |                  8 | NCT U                       |
@@ -45,6 +45,7 @@
 |                  6 | EVERGLOW                    |
 |                  6 | OH MY GIRL                  |
 |                  6 | PENTAGON                    |
+|                  6 | STAYC                       |
 |                  5 | GOT7                        |
 |                  5 | WJSN                        |
 |                  5 | BIBI                        |
@@ -54,8 +55,8 @@
 |                  5 | BIGBANG                     |
 |                  5 | HYO                         |
 |                  5 | EXID                        |
+|                  5 | TAEMIN                      |
 |                  5 | TOMORROW X TOGETHER         |
-|                  5 | STAYC                       |
 |                  4 | IVE                         |
 |                  4 | NewJeans                    |
 |                  4 | Solar                       |
@@ -66,7 +67,7 @@
 |                  4 | f(x)                        |
 |                  4 | SISTAR                      |
 |                  4 | PSY                         |
-|                  4 | TAEMIN                      |
+|                  4 | CIX                         |
 |                  4 | SUGA                        |
 |                  4 | Whee In                     |
 |                  3 | Steve Aoki                  |
@@ -88,7 +89,6 @@
 |                  3 | Billlie                     |
 |                  3 | Punch                       |
 |                  3 | SURAN                       |
-|                  3 | CIX                         |
 |                  3 | Jackson Wang                |
 |                  3 | NAYEON                      |
 |                  3 | J.Y. Park                   |
@@ -194,6 +194,7 @@
 |                  1 | YEJI & RYUJIN of ITZY       |
 |                  1 | EUNHA                       |
 |                  1 | Lee Hyori                   |
+|                  1 | DKB                         |
 |                  1 | dori                        |
 |                  1 | Felix of Stray Kids         |
 |                  1 | Christopher                 |
@@ -422,6 +423,7 @@
 | Demente (feat. Guaynaa)                                  | Querencia                                                               | [CHUNG HA](../artists/chung_ha.md), Guaynaa                                                                  | 💚       |
 | Wow Thing                                                | Wow Thing                                                               | [CHUNG HA](../artists/chung_ha.md), JEON SOYEON, SEULGI, SinB                                                | 💚       |
 | Dream of You (with R3HAB)                                | Querencia                                                               | [CHUNG HA](../artists/chung_ha.md), R3HAB                                                                    | 💚       |
+| 458                                                      | CIX 5th EP Album ‘OK’ Episode 1 : OK Not                                | CIX                                                                                                          | 💚       |
 | Movie Star                                               | HELLO Chapter 1: Hello, Stranger                                        | CIX                                                                                                          |         |
 | What You Wanted                                          | HELLO Chapter 1: Hello, Stranger                                        | CIX                                                                                                          |         |
 | Jungle                                                   | HELLO Chapter 3: Hello, Strange Time                                    | CIX                                                                                                          | 💚       |
@@ -434,8 +436,10 @@
 | For You                                                  | For You                                                                 | Crush, [LeeHi](../artists/leehi.md)                                                                          | 💚       |
 | Rose                                                     | 공감 (Empathy) - The 1st Mini Album                                       | D.O.                                                                                                         | 💚       |
 | Joker                                                    | Joker is Alive                                                          | Dalshabet                                                                                                    |         |
+| Sober                                                    | REBEL                                                                   | DKB                                                                                                          | 💚       |
 | LUPIN                                                    | LUPIN                                                                   | DKZ                                                                                                          | 💚       |
 | 2 O' CLOCK                                               | 2 O' CLOCK                                                              | dori                                                                                                         |         |
+| Black Or White                                           | 1st Album [Dystopia : The Tree of Language]                             | [Dreamcatcher](../artists/dreamcatcher.md)                                                                   | 💚       |
 | Jazz Bar                                                 | 1st Album [Dystopia : The Tree of Language]                             | [Dreamcatcher](../artists/dreamcatcher.md)                                                                   | 💚       |
 | Red Sun                                                  | 1st Album [Dystopia : The Tree of Language]                             | [Dreamcatcher](../artists/dreamcatcher.md)                                                                   |         |
 | Scream                                                   | 1st Album [Dystopia : The Tree of Language]                             | [Dreamcatcher](../artists/dreamcatcher.md)                                                                   | 💚       |
@@ -482,6 +486,7 @@
 | Tempo                                                    | DON’T MESS UP MY TEMPO – The 5th Album                                  | [EXO](../artists/exo.md)                                                                                     | 💚       |
 | Monster                                                  | EX'ACT                                                                  | [EXO](../artists/exo.md)                                                                                     | 💚       |
 | CALL ME BABY                                             | EXODUS - The 2nd Album                                                  | [EXO](../artists/exo.md)                                                                                     | 💚       |
+| Gravity                                                  | LOVE SHOT– The 5th Album Repackage                                      | [EXO](../artists/exo.md)                                                                                     |         |
 | Love Shot                                                | LOVE SHOT– The 5th Album Repackage                                      | [EXO](../artists/exo.md)                                                                                     | 💚       |
 | Ko Ko Bop                                                | THE WAR - The 4th Album                                                 | [EXO](../artists/exo.md)                                                                                     | 💚       |
 | The Eve                                                  | THE WAR - The 4th Album                                                 | [EXO](../artists/exo.md)                                                                                     | 💚       |
@@ -538,12 +543,14 @@
 | KILLING ME                                               | NEW KIDS REPACKAGE : THE NEW KIDS                                       | iKON                                                                                                         | 💚       |
 | LOVE SCENARIO                                            | Return                                                                  | iKON                                                                                                         | 💚       |
 | DOMINO                                                   | CHECKMATE                                                               | [ITZY](../artists/itzy.md)                                                                                   | 💚       |
+| Free Fall                                                | CHECKMATE                                                               | [ITZY](../artists/itzy.md)                                                                                   |         |
 | RACER                                                    | CHECKMATE                                                               | [ITZY](../artists/itzy.md)                                                                                   | 💚       |
 | SNEAKERS                                                 | CHECKMATE                                                               | [ITZY](../artists/itzy.md)                                                                                   | 💚       |
 | WHAT I WANT                                              | CHECKMATE                                                               | [ITZY](../artists/itzy.md)                                                                                   | 💚       |
 | #Twenty                                                  | CRAZY IN LOVE                                                           | [ITZY](../artists/itzy.md)                                                                                   | 💚       |
 | Gas Me Up                                                | CRAZY IN LOVE                                                           | [ITZY](../artists/itzy.md)                                                                                   | 💚       |
 | LOCO                                                     | CRAZY IN LOVE                                                           | [ITZY](../artists/itzy.md)                                                                                   | 💚       |
+| LOCO - English Ver.                                      | CRAZY IN LOVE                                                           | [ITZY](../artists/itzy.md)                                                                                   |         |
 | SWIPE                                                    | CRAZY IN LOVE                                                           | [ITZY](../artists/itzy.md)                                                                                   | 💚       |
 | Sooo LUCKY                                               | CRAZY IN LOVE                                                           | [ITZY](../artists/itzy.md)                                                                                   |         |
 | In the morning                                           | GUESS WHO                                                               | [ITZY](../artists/itzy.md)                                                                                   | 💚       |
@@ -566,6 +573,7 @@
 | Twenty-three                                             | CHAT-SHIRE                                                              | [IU](../artists/iu.md)                                                                                       | 💚       |
 | Celebrity                                                | IU 5th Album 'LILAC'                                                    | [IU](../artists/iu.md)                                                                                       | 💚       |
 | Coin                                                     | IU 5th Album 'LILAC'                                                    | [IU](../artists/iu.md)                                                                                       | 💚       |
+| Epilogue                                                 | IU 5th Album 'LILAC'                                                    | [IU](../artists/iu.md)                                                                                       |         |
 | LILAC                                                    | IU 5th Album 'LILAC'                                                    | [IU](../artists/iu.md)                                                                                       | 💚       |
 | My sea                                                   | IU 5th Album 'LILAC'                                                    | [IU](../artists/iu.md)                                                                                       | 💚       |
 | YOU&I                                                    | Last Fantasy                                                            | [IU](../artists/iu.md)                                                                                       | 💚       |
@@ -846,6 +854,7 @@
 | STEREOTYPE                                               | STEREOTYPE                                                              | STAYC                                                                                                        | 💚       |
 | SO BAD                                                   | Star To A Young Culture                                                 | STAYC                                                                                                        | 💚       |
 | BEAUTIFUL MONSTER                                        | WE NEED LOVE                                                            | STAYC                                                                                                        | 💚       |
+| I LIKE IT                                                | WE NEED LOVE                                                            | STAYC                                                                                                        |         |
 | RUN2U                                                    | YOUNG-LUV.COM                                                           | STAYC                                                                                                        | 💚       |
 | CIRCUS                                                   | CIRCUS                                                                  | [Stray Kids](../artists/stray_kids.md)                                                                       | 💚       |
 | Christmas EveL                                           | Christmas EveL                                                          | [Stray Kids](../artists/stray_kids.md)                                                                       |         |
@@ -860,11 +869,11 @@
 | Back Door                                                | IN LIFE                                                                 | [Stray Kids](../artists/stray_kids.md)                                                                       | 💚       |
 | Mixtape : Time Out                                       | Mixtape : Time Out                                                      | [Stray Kids](../artists/stray_kids.md)                                                                       |         |
 | CHEESE                                                   | NOEASY                                                                  | [Stray Kids](../artists/stray_kids.md)                                                                       | 💚       |
-| Red Lights (Bang Chan, Hyunjin)                          | NOEASY                                                                  | [Stray Kids](../artists/stray_kids.md)                                                                       |         |
+| DOMINO                                                   | NOEASY                                                                  | [Stray Kids](../artists/stray_kids.md)                                                                       |         |
 | Red Lights (Bang Chan, Hyunjin)                          | NOEASY                                                                  | [Stray Kids](../artists/stray_kids.md)                                                                       | 💚       |
+| Silent Cry                                               | NOEASY                                                                  | [Stray Kids](../artists/stray_kids.md)                                                                       |         |
 | Surfin’ (Lee Know, Changbin, Felix)                      | NOEASY                                                                  | [Stray Kids](../artists/stray_kids.md)                                                                       |         |
 | Thunderous                                               | NOEASY                                                                  | [Stray Kids](../artists/stray_kids.md)                                                                       | 💚       |
-| Thunderous                                               | NOEASY                                                                  | [Stray Kids](../artists/stray_kids.md)                                                                       |         |
 | Charmer                                                  | ODDINARY                                                                | [Stray Kids](../artists/stray_kids.md)                                                                       | 💚       |
 | FREEZE                                                   | ODDINARY                                                                | [Stray Kids](../artists/stray_kids.md)                                                                       |         |
 | MANIAC                                                   | ODDINARY                                                                | [Stray Kids](../artists/stray_kids.md)                                                                       | 💚       |
@@ -893,6 +902,7 @@
 | Starlight                                                | Twenty-Five Twenty-One OST                                              | TAEIL                                                                                                        | 💚       |
 | Advice                                                   | Advice - The 3rd Mini Album                                             | TAEMIN                                                                                                       | 💚       |
 | MOVE                                                     | MOVE - The 2nd Album                                                    | TAEMIN                                                                                                       | 💚       |
+| Clockwork                                                | Never Gonna Dance Again : Act 1 - The 3rd Album                         | TAEMIN                                                                                                       |         |
 | Drip Drop                                                | Press It - The 1st Album                                                | TAEMIN                                                                                                       |         |
 | さよならひとり                                                  | さよならひとり                                                                 | TAEMIN                                                                                                       | 💚       |
 | 눈,코,입 (Eyes, Nose, Lips)                                 | RISE                                                                    | TAEYANG                                                                                                      | 💚       |
@@ -1006,7 +1016,7 @@
 | SMARTPHONE                                               | SMARTPHONE                                                              | YENA                                                                                                         |         |
 | Lxxk 2 U                                                 | ˣ‿ˣ (SMiLEY)                                                            | YENA                                                                                                         | 💚       |
 | Snow Dream 2021                                          | 2021 Winter SMTOWN : SMCU EXPRESS                                       | YERI, HAECHAN, CHENLE, JISUNG, NINGNING                                                                      |         |
-| Love Rain                                                | Love Rain                                                               | YUJU                                                                                                         | 💚       |
+| Love Rain (Feat. SURAN)                                  | Love Rain                                                               | YUJU                                                                                                         | 💚       |
 | Play                                                     | [REC.]                                                                  | YUJU                                                                                                         | 💚       |
 | Bonnie & Clyde                                           | A Page                                                                  | YUQI                                                                                                         | 💚       |
 | Giant                                                    | A Page                                                                  | YUQI                                                                                                         |         |

@@ -19,11 +19,11 @@
 | Back Door                                   | IN LIFE             |         |
 | Back Door                                   | IN LIFE             | 💚       |
 | CHEESE                                      | NOEASY              | 💚       |
-| Red Lights (Bang Chan, Hyunjin)             | NOEASY              |         |
+| DOMINO                                      | NOEASY              |         |
 | Red Lights (Bang Chan, Hyunjin)             | NOEASY              | 💚       |
+| Silent Cry                                  | NOEASY              |         |
 | Surfin’ (Lee Know, Changbin, Felix)         | NOEASY              |         |
 | Thunderous                                  | NOEASY              | 💚       |
-| Thunderous                                  | NOEASY              |         |
 | Christmas EveL                              | Christmas EveL      |         |
 | Christmas EveL                              | Christmas EveL      | 💚       |
 | Charmer                                     | ODDINARY            | 💚       |
