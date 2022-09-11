@@ -11,196 +11,198 @@
 <details>
 <summary>See all artists</summary>
 
-|   Number of Tracks | Artist                |
-|-------------------:|:----------------------|
-|                  7 | BABYMETAL             |
-|                  5 | Shakira               |
-|                  4 | Isyana Sarasvati      |
-|                  3 | Hatsune Miku          |
-|                  3 | Official HIGE DANdism |
-|                  3 | Anna Zak              |
-|                  3 | Daði Freyr            |
-|                  2 | Daddy Yankee          |
-|                  2 | Luis Fonsi            |
-|                  2 | AKB48                 |
-|                  1 | Lothika               |
-|                  1 | Reol                  |
-|                  1 | הפשוטע                |
-|                  1 | ROSALÍA               |
-|                  1 | Hikaru Utada          |
-|                  1 | Aitana                |
-|                  1 | mothy                 |
-|                  1 | ANNA                  |
-|                  1 | Aya Nakamura          |
-|                  1 | SEKAI NO OWARI        |
-|                  1 | Freshlyground         |
-|                  1 | King Gnu              |
-|                  1 | Eden Hason            |
-|                  1 | Jimbo J               |
-|                  1 | Fujii Kaze            |
-|                  1 | WARPs UP              |
-|                  1 | Harlem Yu             |
-|                  1 | Demi Lovato           |
-|                  1 | Dua Lipa              |
-|                  1 | Vishal Dadlani        |
-|                  1 | Benny Dayal           |
-|                  1 | Alejandro Sanz        |
-|                  1 | THE TOYS              |
-|                  1 | Lowsheen              |
-|                  1 | Stromae               |
-|                  1 | Eric Chou             |
-|                  1 | Synne Vo              |
-|                  1 | Blær                  |
-|                  1 | Master KG             |
-|                  1 | 張楚寒                   |
-|                  1 | Angela Chang          |
-|                  1 | Dadju                 |
-|                  1 | Bad Bunny             |
-|                  1 | Becky G               |
-|                  1 | Afgan                 |
-|                  1 | Netta                 |
-|                  1 | Ermal Meta            |
-|                  1 | Nkosazana Daughter    |
-|                  1 | David Tao             |
-|                  1 | Christopher           |
-|                  1 | Burna Boy             |
-|                  1 | Snow                  |
-|                  1 | Kawaguchi Yurina      |
-|                  1 | Ghali                 |
-|                  1 | Fabrizio Moro         |
-|                  1 | Shae Gill             |
-|                  1 | Heuss L'enfoiré       |
-|                  1 | Angèle                |
-|                  1 | Ashnikko              |
-|                  1 | Ali Sethi             |
-|                  1 | Ayumi Hamasaki        |
-|                  1 | Ana Guerra            |
-|                  1 | Agam Buhbut           |
-|                  1 | Kausar Munir          |
-|                  1 | Rayi Putra            |
-|                  1 | Savera                |
-|                  1 | 拾贰                    |
-|                  1 | Gradur                |
-|                  1 | Roméo Elvis           |
-|                  1 | OAFF                  |
-|                  1 | Wanitwa Mos           |
-|                  1 | Perfume               |
-|                  1 | Anamanaguchi          |
-|                  1 | Anuel AA              |
-|                  1 | 大籽                    |
-|                  1 | Crowd Lu              |
-|                  1 | Leehom Wang           |
-|                  1 | J Balvin              |
-|                  1 | Madame Monsieur       |
-|                  1 | Kenshi Yonezu         |
-|                  1 | Maluma                |
-|                  1 | Christine Fan         |
-|                  1 | Rauw Alejandro        |
-|                  1 | Las Ketchup           |
-|                  1 | TFBOYS                |
-|                  1 | Gen Hoshino           |
-|                  1 | Natti Natasha         |
-|                  1 | Full Trunk            |
-|                  1 | Static & Ben El       |
-|                  1 | Penny Tai             |
-|                  1 | LiSA                  |
-|                  1 | Soolking              |
-|                  1 | Tainy                 |
-|                  1 | Tani Yuuki            |
-|                  1 | Lu-Ni                 |
-|                  1 | Rendy Pandugo         |
-|                  1 | Ling tosite sigure    |
+|   Number of Tracks | Artist                             | 🔗                                                           |
+|-------------------:|:-----------------------------------|:------------------------------------------------------------|
+|                  7 | BABYMETAL                          | [🔗](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) |
+|                  5 | Shakira                            | [🔗](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) |
+|                  4 | Isyana Sarasvati                   | [🔗](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) |
+|                  3 | Hatsune Miku                       | [🔗](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) |
+|                  3 | Official HIGE DANdism              | [🔗](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) |
+|                  3 | Anna Zak                           | [🔗](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo) |
+|                  3 | Daði Freyr                         | [🔗](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) |
+|                  2 | Daddy Yankee                       | [🔗](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) |
+|                  2 | Luis Fonsi                         | [🔗](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) |
+|                  2 | AKB48                              | [🔗](https://open.spotify.com/artist/01wau5CL3Z1vfJJWkzBkqg) |
+|                  1 | Lothika                            | [🔗](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX) |
+|                  1 | Reol                               | [🔗](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) |
+|                  1 | הפשוטע                             | [🔗](https://open.spotify.com/artist/7m92aMieltH5ZpodCEHfnb) |
+|                  1 | ROSALÍA                            | [🔗](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) |
+|                  1 | Hikaru Utada                       | [🔗](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) |
+|                  1 | Aitana                             | [🔗](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) |
+|                  1 | mothy                              | [🔗](https://open.spotify.com/artist/7LOYTIZlvOwx83g2iBL3eM) |
+|                  1 | ANNA                               | [🔗](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) |
+|                  1 | Aya Nakamura                       | [🔗](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) |
+|                  1 | SEKAI NO OWARI                     | [🔗](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) |
+|                  1 | Freshlyground                      | [🔗](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) |
+|                  1 | King Gnu                           | [🔗](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) |
+|                  1 | Eden Hason                         | [🔗](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) |
+|                  1 | Jimbo J                            | [🔗](https://open.spotify.com/artist/6ltKIf1bortd0DQbpgKdQu) |
+|                  1 | Fujii Kaze                         | [🔗](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) |
+|                  1 | WARPs UP                           | [🔗](https://open.spotify.com/artist/6ZhCKGX2nkK7s8vdUvaocx) |
+|                  1 | Harlem Yu                          | [🔗](https://open.spotify.com/artist/6VbRanWSU3pdDhJnhSfGmY) |
+|                  1 | Demi Lovato                        | [🔗](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) |
+|                  1 | [Dua Lipa](../artists/dua_lipa.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
+|                  1 | Vishal Dadlani                     | [🔗](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) |
+|                  1 | Benny Dayal                        | [🔗](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ) |
+|                  1 | Alejandro Sanz                     | [🔗](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) |
+|                  1 | THE TOYS                           | [🔗](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) |
+|                  1 | Lowsheen                           | [🔗](https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU) |
+|                  1 | Stromae                            | [🔗](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) |
+|                  1 | Eric Chou                          | [🔗](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) |
+|                  1 | Synne Vo                           | [🔗](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) |
+|                  1 | Blær                               | [🔗](https://open.spotify.com/artist/5W6FVpHHiRfqUU4d9FfXWZ) |
+|                  1 | Master KG                          | [🔗](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF) |
+|                  1 | 張楚寒                                | [🔗](https://open.spotify.com/artist/4zzzvh8xX7laDArf8Gt7iw) |
+|                  1 | Angela Chang                       | [🔗](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) |
+|                  1 | Dadju                              | [🔗](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) |
+|                  1 | Bad Bunny                          | [🔗](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) |
+|                  1 | Becky G                            | [🔗](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) |
+|                  1 | Afgan                              | [🔗](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) |
+|                  1 | Netta                              | [🔗](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) |
+|                  1 | Ermal Meta                         | [🔗](https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd) |
+|                  1 | Nkosazana Daughter                 | [🔗](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66) |
+|                  1 | David Tao                          | [🔗](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) |
+|                  1 | Christopher                        | [🔗](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) |
+|                  1 | Burna Boy                          | [🔗](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) |
+|                  1 | Snow                               | [🔗](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) |
+|                  1 | Kawaguchi Yurina                   | [🔗](https://open.spotify.com/artist/3snqW31jInsZwoYRZTaixr) |
+|                  1 | Ghali                              | [🔗](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) |
+|                  1 | Fabrizio Moro                      | [🔗](https://open.spotify.com/artist/3ebOqZZsLCDAkLS6QdI8cc) |
+|                  1 | Shae Gill                          | [🔗](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) |
+|                  1 | Heuss L'enfoiré                    | [🔗](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) |
+|                  1 | Angèle                             | [🔗](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) |
+|                  1 | Ashnikko                           | [🔗](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) |
+|                  1 | Ali Sethi                          | [🔗](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) |
+|                  1 | Ayumi Hamasaki                     | [🔗](https://open.spotify.com/artist/3Mvc8kRgr8LRYYgvFmlZqn) |
+|                  1 | Ana Guerra                         | [🔗](https://open.spotify.com/artist/3MRynBsyLGzv3IQ9Fip6hO) |
+|                  1 | Agam Buhbut                        | [🔗](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) |
+|                  1 | Kausar Munir                       | [🔗](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) |
+|                  1 | Rayi Putra                         | [🔗](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR) |
+|                  1 | Savera                             | [🔗](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb) |
+|                  1 | 拾贰                                 | [🔗](https://open.spotify.com/artist/30YrwNoKzUtyVQsIrwtMdr) |
+|                  1 | Gradur                             | [🔗](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl) |
+|                  1 | Roméo Elvis                        | [🔗](https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv) |
+|                  1 | OAFF                               | [🔗](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR) |
+|                  1 | Wanitwa Mos                        | [🔗](https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF) |
+|                  1 | Perfume                            | [🔗](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) |
+|                  1 | Anamanaguchi                       | [🔗](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL) |
+|                  1 | Anuel AA                           | [🔗](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) |
+|                  1 | 大籽                                 | [🔗](https://open.spotify.com/artist/2NJLAUSe3Ifk9MiHbddRAi) |
+|                  1 | Crowd Lu                           | [🔗](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) |
+|                  1 | Leehom Wang                        | [🔗](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) |
+|                  1 | J Balvin                           | [🔗](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) |
+|                  1 | Madame Monsieur                    | [🔗](https://open.spotify.com/artist/1tQn5gWbo3ee6n2Z52ogY5) |
+|                  1 | Kenshi Yonezu                      | [🔗](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) |
+|                  1 | Maluma                             | [🔗](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) |
+|                  1 | Christine Fan                      | [🔗](https://open.spotify.com/artist/1q7sCl0vg0EcaFdRz0XDGg) |
+|                  1 | Rauw Alejandro                     | [🔗](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) |
+|                  1 | Las Ketchup                        | [🔗](https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe) |
+|                  1 | TFBOYS                             | [🔗](https://open.spotify.com/artist/1dywcVTpMrP7VmQUhngSce) |
+|                  1 | Gen Hoshino                        | [🔗](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) |
+|                  1 | Natti Natasha                      | [🔗](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) |
+|                  1 | Full Trunk                         | [🔗](https://open.spotify.com/artist/1CD5WWtF6AFUq6BTY20I4k) |
+|                  1 | Static & Ben El                    | [🔗](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g) |
+|                  1 | Penny Tai                          | [🔗](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) |
+|                  1 | LiSA                               | [🔗](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) |
+|                  1 | XG                                 | [🔗](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) |
+|                  1 | Soolking                           | [🔗](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) |
+|                  1 | Tainy                              | [🔗](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) |
+|                  1 | Tani Yuuki                         | [🔗](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) |
+|                  1 | Lu-Ni                              | [🔗](https://open.spotify.com/artist/0AythHu8oDXnRGp8qviBPj) |
+|                  1 | Rendy Pandugo                      | [🔗](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) |
+|                  1 | Ling tosite sigure                 | [🔗](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) |
 
 </details>
 
 
 ## Tracks
 
-| Track                                                                                               | Album                                                                                               | Artists                                                        | Liked   |
-|:----------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------|:---------------------------------------------------------------|:--------|
-| בשורות טובות                                                                                        | בשורות טובות                                                                                        | Agam Buhbut, הפשוטע                                            |         |
-| Lo Malo                                                                                             | Lo Malo                                                                                             | Aitana, Ana Guerra                                             | 💚       |
-| 恋するフォーチュンクッキー                                                                                       | 次の足跡 Type A <初回限定盤>                                                                                 | AKB48                                                          | 💚       |
-| 恋をすると馬鹿を見る(Team B)                                                                                  | 翼はいらない<Type A>(通常盤)                                                                                 | AKB48                                                          | 💚       |
-| Tout oublier                                                                                        | Brol                                                                                                | Angèle, Roméo Elvis                                            | 💚       |
-| Bando                                                                                               | Bando                                                                                               | ANNA                                                           |         |
-| לך לישון                                                                                            | לך לישון                                                                                            | Anna Zak                                                       |         |
-| מי זאת                                                                                              | מי זאת                                                                                              | Anna Zak                                                       | 💚       |
-| קוביות                                                                                              | קוביות                                                                                              | Anna Zak, Static & Ben El                                      |         |
-| Daisy 2.0 (feat. Hatsune Miku)                                                                      | Daisy 2.0 (feat. Hatsune Miku)                                                                      | Ashnikko, Hatsune Miku                                         |         |
-| Djadja                                                                                              | Djadja                                                                                              | Aya Nakamura                                                   | 💚       |
-| Boys & Girls                                                                                        | A BEST                                                                                              | Ayumi Hamasaki                                                 |         |
-| Gimme Chocolate!!                                                                                   | BABYMETAL                                                                                           | BABYMETAL                                                      | 💚       |
-| Headbangeeeeerrrrr!!!!!                                                                             | BABYMETAL                                                                                           | BABYMETAL                                                      | 💚       |
-| Kagerou                                                                                             | METAL GALAXY                                                                                        | BABYMETAL                                                      | 💚       |
-| Shanti Shanti Shanti                                                                                | METAL GALAXY                                                                                        | BABYMETAL                                                      | 💚       |
-| Amore                                                                                               | METAL RESISTANCE                                                                                    | BABYMETAL                                                      | 💚       |
-| KARATE                                                                                              | METAL RESISTANCE                                                                                    | BABYMETAL                                                      | 💚       |
-| No Rain, No Rainbow                                                                                 | METAL RESISTANCE                                                                                    | BABYMETAL                                                      |         |
-| JA ARA E                                                                                            | The Lion King: The Gift                                                                             | Burna Boy                                                      | 💚       |
-| 如果的事                                                                                                | 一比一                                                                                                 | Christine Fan, Angela Chang                                    |         |
-| Bad                                                                                                 | Under the Surface                                                                                   | Christopher                                                    | 💚       |
-| 刻在我心底的名字 (Your Name Engraved Herein) - 電影<刻在你心底的名字>主題曲                                              | 刻在我心底的名字 (Your Name Engraved Herein)                                                                | Crowd Lu                                                       |         |
-| Con Calma                                                                                           | Con Calma                                                                                           | Daddy Yankee, Snow                                             | 💚       |
-| 就是愛妳                                                                                                | 太平盛世                                                                                                | David Tao                                                      |         |
-| Gagnamagnið                                                                                         | Söngvakeppnin 2020                                                                                  | Daði Freyr                                                     | 💚       |
-| Think About Things                                                                                  | Think About Things                                                                                  | Daði Freyr                                                     | 💚       |
-| Endurtaka Mig                                                                                       | & Co.                                                                                               | Daði Freyr, Blær                                               | 💚       |
-| Échame La Culpa                                                                                     | Échame La Culpa                                                                                     | Demi Lovato, Luis Fonsi                                        | 💚       |
-| UN DIA (ONE DAY) (Feat. Tainy)                                                                      | UN DIA (ONE DAY) (Feat. Tainy)                                                                      | [Dua Lipa](../artists/dua_lipa.md), J Balvin, Bad Bunny, Tainy | 💚       |
-| עושה לי צרות                                                                                        | עושה לי צרות                                                                                        | Eden Hason                                                     |         |
-| 永不失聯的愛                                                                                              | 如果雨之後                                                                                               | Eric Chou                                                      |         |
-| Non mi avete fatto niente                                                                           | Non mi avete fatto niente                                                                           | Ermal Meta, Fabrizio Moro                                      | 💚       |
-| 死ぬのがいいわ                                                                                             | HELP EVER HURT NEVER                                                                                | Fujii Kaze                                                     | 💚       |
-| סתלבט בקיבוץ                                                                                        | ממותה                                                                                               | Full Trunk, Jimbo J                                            |         |
-| Koi                                                                                                 | POP VIRUS                                                                                           | Gen Hoshino                                                    | 💚       |
-| Cara Italia                                                                                         | Cara Italia                                                                                         | Ghali                                                          | 💚       |
-| Ne reviens pas                                                                                      | Ne reviens pas                                                                                      | Gradur, Heuss L'enfoiré                                        |         |
-| 情非得已                                                                                                | 海嘯                                                                                                  | Harlem Yu                                                      | 💚       |
-| Miku                                                                                                | Miku                                                                                                | Hatsune Miku, Anamanaguchi                                     |         |
-| 砂の惑星 ( + 初音ミク )                                                                                     | BOOTLEG                                                                                             | Hatsune Miku, Kenshi Yonezu                                    |         |
-| PINK BLOOD                                                                                          | PINK BLOOD                                                                                          | Hikaru Utada                                                   |         |
-| Tetap Dalam Jiwa                                                                                    | EXPLORE!                                                                                            | Isyana Sarasvati                                               | 💚       |
-| untuk hati yang terluka.                                                                            | LEXICON                                                                                             | Isyana Sarasvati                                               |         |
-| Heaven                                                                                              | Heaven                                                                                              | Isyana Sarasvati, Afgan, Rendy Pandugo                         |         |
-| Kau Adalah (feat. Rayi Putra)                                                                       | EXPLORE!                                                                                            | Isyana Sarasvati, Rayi Putra                                   |         |
-| Look At Me                                                                                          | Look At Me                                                                                          | Kawaguchi Yurina                                               |         |
-| 白日                                                                                                  | CEREMONY                                                                                            | King Gnu                                                       |         |
-| The Ketchup Song (Aserejé) - Spanglish Version                                                      | Hijas del Tomate                                                                                    | Las Ketchup                                                    |         |
-| 落葉歸根                                                                                                | 改變自己                                                                                                | Leehom Wang                                                    |         |
-| abnormalize                                                                                         | i'mperfect                                                                                          | Ling tosite sigure                                             |         |
-| 炎                                                                                                   | 炎                                                                                                   | LiSA                                                           |         |
-| Leyendas                                                                                            | Farra                                                                                               | Lu-Ni                                                          | 💚       |
-| Despacito                                                                                           | VIDA                                                                                                | Luis Fonsi, Daddy Yankee                                       | 💚       |
-| Mercy                                                                                               | Mercy                                                                                               | Madame Monsieur                                                | 💚       |
-| 11 PM                                                                                               | 11:11                                                                                               | Maluma                                                         |         |
-| 悪ノ娘                                                                                                 | Evils Theater                                                                                       | mothy                                                          | 💚       |
-| Sin Pijama                                                                                          | Sin Pijama                                                                                          | Natti Natasha, Becky G                                         | 💚       |
-| Toy                                                                                                 | Toy                                                                                                 | Netta                                                          | 💚       |
-| Doobey (From "Gehraiyaan")                                                                          | Doobey (From "Gehraiyaan")                                                                          | OAFF, Savera, Lothika, Kausar Munir                            |         |
-| Cry Baby                                                                                            | Editorial                                                                                           | Official HIGE DANdism                                          |         |
-| I Love...                                                                                           | Editorial                                                                                           | Official HIGE DANdism                                          |         |
-| Pretender                                                                                           | Traveler                                                                                            | Official HIGE DANdism                                          |         |
-| 你要的愛                                                                                                | 怎樣                                                                                                  | Penny Tai                                                      |         |
-| だいじょばない                                                                                             | LEVEL3                                                                                              | Perfume                                                        | 💚       |
-| No title                                                                                            | No title-                                                                                           | Reol                                                           | 💚       |
-| MALAMENTE - Cap.1: Augurio                                                                          | El Mal Querer                                                                                       | ROSALÍA                                                        | 💚       |
-| Habit                                                                                               | Habit                                                                                               | SEKAI NO OWARI                                                 |         |
-| Pasoori                                                                                             | Pasoori                                                                                             | Shae Gill, Ali Sethi                                           |         |
-| Me Enamoré                                                                                          | El Dorado                                                                                           | Shakira                                                        | 💚       |
-| La Tortura (feat. Alejandro Sanz)                                                                   | Fijación Oral, Vol. 1                                                                               | Shakira, Alejandro Sanz                                        |         |
-| Me Gusta                                                                                            | Me Gusta                                                                                            | Shakira, Anuel AA                                              |         |
-| Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground) | Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground) | Shakira, Freshlyground                                         | 💚       |
-| Te Felicito                                                                                         | Te Felicito                                                                                         | Shakira, Rauw Alejandro                                        |         |
-| Meleğim                                                                                             | Vintage                                                                                             | Soolking, Dadju                                                |         |
-| Papaoutai                                                                                           | Racine Carrée (Standard US Version)                                                                 | Stromae                                                        | 💚       |
-| Lykke te                                                                                            | Lykke te                                                                                            | Synne Vo                                                       |         |
-| W / X / Y                                                                                           | Memories                                                                                            | Tani Yuuki                                                     |         |
-| 青春修炼手册                                                                                              | 青春修炼手册                                                                                              | TFBOYS                                                         |         |
-| ก่อนฤดูฝน                                                                                           | SUN                                                                                                 | THE TOYS                                                       |         |
-| Jai Jai Shivshankar (From "War")                                                                    | Jai Jai Shivshankar (From "War")                                                                    | Vishal Dadlani, Benny Dayal                                    | 💚       |
-| Sofa Silahlane                                                                                      | Sofa Silahlane                                                                                      | Wanitwa Mos, Master KG, Lowsheen, Nkosazana Daughter           |         |
-| Pleasure                                                                                            | Pleasure                                                                                            | WARPs UP                                                       |         |
-| 白月光与朱砂痣                                                                                             | 白月光与朱砂痣                                                                                             | 大籽                                                             | 💚       |
-| Bunny                                                                                               | Bunny                                                                                               | 張楚寒                                                            | 💚       |
-| 醒不来的梦                                                                                               | 醒不来的梦                                                                                               | 拾贰                                                             | 💚       |
+| Track                                                                                               | Album                                                                                               | Artists                                                        | 💚   | 🔗                                                          |
+|:----------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------|:---------------------------------------------------------------|:----|:-----------------------------------------------------------|
+| בשורות טובות                                                                                        | בשורות טובות                                                                                        | Agam Buhbut, הפשוטע                                            |     | [🔗](https://open.spotify.com/track/5dUG9RrLElsi2sxJAhVUZJ) |
+| Lo Malo                                                                                             | Lo Malo                                                                                             | Aitana, Ana Guerra                                             | 💚   | [🔗](https://open.spotify.com/track/5bhDL4GgUvr5LBrpjqyrte) |
+| 恋するフォーチュンクッキー                                                                                       | 次の足跡 Type A <初回限定盤>                                                                                 | AKB48                                                          |     | [🔗](https://open.spotify.com/track/37yHxMij3cpN8SdO915LUI) |
+| 恋をすると馬鹿を見る(Team B)                                                                                  | 翼はいらない<Type A>(通常盤)                                                                                 | AKB48                                                          |     | [🔗](https://open.spotify.com/track/2RuHq5nNKz3P96bVa6nVIs) |
+| Tout oublier                                                                                        | Brol                                                                                                | Angèle, Roméo Elvis                                            | 💚   | [🔗](https://open.spotify.com/track/06O3hxudc6V0BOuoCFSy71) |
+| Bando                                                                                               | Bando                                                                                               | ANNA                                                           |     | [🔗](https://open.spotify.com/track/0kzGjSRHGVcaWxagzQwAyD) |
+| לך לישון                                                                                            | לך לישון                                                                                            | Anna Zak                                                       |     | [🔗](https://open.spotify.com/track/3fCS3m3uWUgAFm3purs15C) |
+| מי זאת                                                                                              | מי זאת                                                                                              | Anna Zak                                                       | 💚   | [🔗](https://open.spotify.com/track/3iJQ54fGO6CyP374UzvDJu) |
+| קוביות                                                                                              | קוביות                                                                                              | Anna Zak, Static & Ben El                                      |     | [🔗](https://open.spotify.com/track/45PPKTPGhwYYU6fssJsVO5) |
+| Daisy 2.0 (feat. Hatsune Miku)                                                                      | Daisy 2.0 (feat. Hatsune Miku)                                                                      | Ashnikko, Hatsune Miku                                         |     | [🔗](https://open.spotify.com/track/0s8RXkQW9lwGEV6WlG8KDq) |
+| Djadja                                                                                              | Djadja                                                                                              | Aya Nakamura                                                   | 💚   | [🔗](https://open.spotify.com/track/3XfnssSD9HMQ9LhVOJvXTE) |
+| Boys & Girls                                                                                        | A BEST                                                                                              | Ayumi Hamasaki                                                 |     | [🔗](https://open.spotify.com/track/0QcVKhVp9iHGZ1pj04yTbO) |
+| Gimme Chocolate!!                                                                                   | BABYMETAL                                                                                           | BABYMETAL                                                      | 💚   | [🔗](https://open.spotify.com/track/16D5bGymrzpi9ZlnYXB5ql) |
+| Headbangeeeeerrrrr!!!!!                                                                             | BABYMETAL                                                                                           | BABYMETAL                                                      | 💚   | [🔗](https://open.spotify.com/track/7zuuWZo0MyOdG3VHg1Mgml) |
+| Kagerou                                                                                             | METAL GALAXY                                                                                        | BABYMETAL                                                      | 💚   | [🔗](https://open.spotify.com/track/4kNujQGCx2ytNLfYIEIcYP) |
+| Shanti Shanti Shanti                                                                                | METAL GALAXY                                                                                        | BABYMETAL                                                      | 💚   | [🔗](https://open.spotify.com/track/66Pv3a4E0VYKfGJDXsvhk1) |
+| Amore                                                                                               | METAL RESISTANCE                                                                                    | BABYMETAL                                                      | 💚   | [🔗](https://open.spotify.com/track/4KGOgUYx9x7J9LYhtuZNRb) |
+| KARATE                                                                                              | METAL RESISTANCE                                                                                    | BABYMETAL                                                      | 💚   | [🔗](https://open.spotify.com/track/2A4wfplwsIXUUD3UVirWDd) |
+| No Rain, No Rainbow                                                                                 | METAL RESISTANCE                                                                                    | BABYMETAL                                                      |     | [🔗](https://open.spotify.com/track/2D78O7w209mJvXyE5qPAzf) |
+| JA ARA E                                                                                            | The Lion King: The Gift                                                                             | Burna Boy                                                      | 💚   | [🔗](https://open.spotify.com/track/6pdip6qgVJOI5JxqgbAlu6) |
+| 如果的事                                                                                                | 一比一                                                                                                 | Christine Fan, Angela Chang                                    |     | [🔗](https://open.spotify.com/track/47qkmo2smLRBNlbzDEwZHS) |
+| Bad                                                                                                 | Under the Surface                                                                                   | Christopher                                                    | 💚   | [🔗](https://open.spotify.com/track/0HagCJ6aAXp94EPBRBSrug) |
+| 刻在我心底的名字 (Your Name Engraved Herein) - 電影<刻在你心底的名字>主題曲                                              | 刻在我心底的名字 (Your Name Engraved Herein)                                                                | Crowd Lu                                                       |     | [🔗](https://open.spotify.com/track/3OC84eKMxRJ4x0Hcwl9i4i) |
+| Con Calma                                                                                           | Con Calma                                                                                           | Daddy Yankee, Snow                                             | 💚   | [🔗](https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m) |
+| 就是愛妳                                                                                                | 太平盛世                                                                                                | David Tao                                                      |     | [🔗](https://open.spotify.com/track/73eCSQ1DxQbaOnzy8PhKx3) |
+| Gagnamagnið                                                                                         | Söngvakeppnin 2020                                                                                  | Daði Freyr                                                     | 💚   | [🔗](https://open.spotify.com/track/5GU7W29lPxlMrS2PW7ZvQ0) |
+| Think About Things                                                                                  | Think About Things                                                                                  | Daði Freyr                                                     | 💚   | [🔗](https://open.spotify.com/track/2iRniYXjMHKmwXqA2jYXP7) |
+| Endurtaka Mig                                                                                       | & Co.                                                                                               | Daði Freyr, Blær                                               | 💚   | [🔗](https://open.spotify.com/track/1HZoHnORADtuEfe9O4ldQH) |
+| Échame La Culpa                                                                                     | Échame La Culpa                                                                                     | Demi Lovato, Luis Fonsi                                        |     | [🔗](https://open.spotify.com/track/2hl6q70unbviGo3g1R7uFx) |
+| UN DIA (ONE DAY) (Feat. Tainy)                                                                      | UN DIA (ONE DAY) (Feat. Tainy)                                                                      | [Dua Lipa](../artists/dua_lipa.md), J Balvin, Bad Bunny, Tainy | 💚   | [🔗](https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e) |
+| עושה לי צרות                                                                                        | עושה לי צרות                                                                                        | Eden Hason                                                     |     | [🔗](https://open.spotify.com/track/4I9NVCnjIRVriXfNE7VhE0) |
+| 永不失聯的愛                                                                                              | 如果雨之後                                                                                               | Eric Chou                                                      |     | [🔗](https://open.spotify.com/track/46fURCnWErjFdNM2yBJ2c8) |
+| Non mi avete fatto niente                                                                           | Non mi avete fatto niente                                                                           | Ermal Meta, Fabrizio Moro                                      | 💚   | [🔗](https://open.spotify.com/track/1oMYET9xQB8XpxwTt2c5Dz) |
+| 死ぬのがいいわ                                                                                             | HELP EVER HURT NEVER                                                                                | Fujii Kaze                                                     | 💚   | [🔗](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) |
+| סתלבט בקיבוץ                                                                                        | ממותה                                                                                               | Full Trunk, Jimbo J                                            |     | [🔗](https://open.spotify.com/track/2G1o9Mq8KpamOwJPZLuJc7) |
+| Koi                                                                                                 | POP VIRUS                                                                                           | Gen Hoshino                                                    | 💚   | [🔗](https://open.spotify.com/track/4nmjL1mUKOAfAbo9QG9tSE) |
+| Cara Italia                                                                                         | Cara Italia                                                                                         | Ghali                                                          | 💚   | [🔗](https://open.spotify.com/track/3atDsUhlUgDlQQrI0XFh7I) |
+| Ne reviens pas                                                                                      | Ne reviens pas                                                                                      | Gradur, Heuss L'enfoiré                                        |     | [🔗](https://open.spotify.com/track/0kp0ovTvyYUdoexEt7AcoL) |
+| 情非得已                                                                                                | 海嘯                                                                                                  | Harlem Yu                                                      | 💚   | [🔗](https://open.spotify.com/track/4KBegMBVyHsfC7fPOztTzV) |
+| Miku                                                                                                | Miku                                                                                                | Hatsune Miku, Anamanaguchi                                     |     | [🔗](https://open.spotify.com/track/2wxeIeofgy4AHaOhtePamJ) |
+| 砂の惑星 ( + 初音ミク )                                                                                     | BOOTLEG                                                                                             | Hatsune Miku, Kenshi Yonezu                                    |     | [🔗](https://open.spotify.com/track/3aYz5EBaRTWLpsfyUIsQyX) |
+| PINK BLOOD                                                                                          | PINK BLOOD                                                                                          | Hikaru Utada                                                   |     | [🔗](https://open.spotify.com/track/39lq5gU4lPc0rYVaRo0stH) |
+| Tetap Dalam Jiwa                                                                                    | EXPLORE!                                                                                            | Isyana Sarasvati                                               | 💚   | [🔗](https://open.spotify.com/track/1cKm6kQLMhc7N3mHS238fk) |
+| untuk hati yang terluka.                                                                            | LEXICON                                                                                             | Isyana Sarasvati                                               |     | [🔗](https://open.spotify.com/track/28r2ClCmnKAclZZYqE0LTg) |
+| Heaven                                                                                              | Heaven                                                                                              | Isyana Sarasvati, Afgan, Rendy Pandugo                         |     | [🔗](https://open.spotify.com/track/3gBFAvpAVSNohs3ESRMYHi) |
+| Kau Adalah (feat. Rayi Putra)                                                                       | EXPLORE!                                                                                            | Isyana Sarasvati, Rayi Putra                                   |     | [🔗](https://open.spotify.com/track/2WoRw2nWZoj5ty0rOQP4FQ) |
+| Look At Me                                                                                          | Look At Me                                                                                          | Kawaguchi Yurina                                               |     | [🔗](https://open.spotify.com/track/7F38cYOAZBuCjf3YoAmIZn) |
+| 白日                                                                                                  | CEREMONY                                                                                            | King Gnu                                                       |     | [🔗](https://open.spotify.com/track/172fMG26G2OoEzzg0wn26r) |
+| The Ketchup Song (Aserejé) - Spanglish Version                                                      | Hijas del Tomate                                                                                    | Las Ketchup                                                    |     | [🔗](https://open.spotify.com/track/6UEfyhyfhYQsyipxOd95Ie) |
+| 落葉歸根                                                                                                | 改變自己                                                                                                | Leehom Wang                                                    |     | [🔗](https://open.spotify.com/track/6jQxLsqg2ybACXp7sYsvyZ) |
+| abnormalize                                                                                         | i'mperfect                                                                                          | Ling tosite sigure                                             |     | [🔗](https://open.spotify.com/track/00nmZvZRyzQiYe2tAcDDUb) |
+| 炎                                                                                                   | 炎                                                                                                   | LiSA                                                           |     | [🔗](https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn) |
+| Leyendas                                                                                            | Farra                                                                                               | Lu-Ni                                                          | 💚   | [🔗](https://open.spotify.com/track/3RJfNU7BLPmrvutHQzktdN) |
+| Despacito                                                                                           | VIDA                                                                                                | Luis Fonsi, Daddy Yankee                                       | 💚   | [🔗](https://open.spotify.com/track/6habFhsOp2NvshLv26DqMb) |
+| Mercy                                                                                               | Mercy                                                                                               | Madame Monsieur                                                | 💚   | [🔗](https://open.spotify.com/track/29eZ3b1mfZIwOMQMdRFNZ0) |
+| 11 PM                                                                                               | 11:11                                                                                               | Maluma                                                         |     | [🔗](https://open.spotify.com/track/7KbF6AdprOXEEHlsq11Z6d) |
+| 悪ノ娘                                                                                                 | Evils Theater                                                                                       | mothy                                                          | 💚   | [🔗](https://open.spotify.com/track/03XONBRA5fulEuMs7gNQ05) |
+| Sin Pijama                                                                                          | Sin Pijama                                                                                          | Natti Natasha, Becky G                                         | 💚   | [🔗](https://open.spotify.com/track/2ijef6ni2amuunRoKTlgww) |
+| Toy                                                                                                 | Toy                                                                                                 | Netta                                                          | 💚   | [🔗](https://open.spotify.com/track/6n2eIfLj0wOOUkUfNmYzlh) |
+| Doobey (From "Gehraiyaan")                                                                          | Doobey (From "Gehraiyaan")                                                                          | OAFF, Savera, Lothika, Kausar Munir                            |     | [🔗](https://open.spotify.com/track/7MBqVOzb8C3f0FXr2LBLiq) |
+| Cry Baby                                                                                            | Editorial                                                                                           | Official HIGE DANdism                                          |     | [🔗](https://open.spotify.com/track/7nF9c1EmRF3BNAtKDCwUAK) |
+| I Love...                                                                                           | Editorial                                                                                           | Official HIGE DANdism                                          |     | [🔗](https://open.spotify.com/track/2hwcYq85TVuj6GhBBTuWdg) |
+| Pretender                                                                                           | Traveler                                                                                            | Official HIGE DANdism                                          |     | [🔗](https://open.spotify.com/track/15HNdxGKNCIO9pgaY4n7FU) |
+| 你要的愛                                                                                                | 怎樣                                                                                                  | Penny Tai                                                      |     | [🔗](https://open.spotify.com/track/2AwYywTNbeiWqQcLqt8UwP) |
+| だいじょばない                                                                                             | LEVEL3                                                                                              | Perfume                                                        | 💚   | [🔗](https://open.spotify.com/track/24UeVxRQCinBJtTwWT1158) |
+| No title                                                                                            | No title-                                                                                           | Reol                                                           | 💚   | [🔗](https://open.spotify.com/track/5pZVsZ8TOGly1KnYFmZ61B) |
+| MALAMENTE - Cap.1: Augurio                                                                          | El Mal Querer                                                                                       | ROSALÍA                                                        | 💚   | [🔗](https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK) |
+| Habit                                                                                               | Habit                                                                                               | SEKAI NO OWARI                                                 |     | [🔗](https://open.spotify.com/track/2uMNMcjjUz8oNIxjIu20qE) |
+| Pasoori                                                                                             | Pasoori                                                                                             | Shae Gill, Ali Sethi                                           |     | [🔗](https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB) |
+| Me Enamoré                                                                                          | El Dorado                                                                                           | Shakira                                                        | 💚   | [🔗](https://open.spotify.com/track/4qknM1pQz53QOyfDVTjcM9) |
+| La Tortura (feat. Alejandro Sanz)                                                                   | Fijación Oral, Vol. 1                                                                               | Shakira, Alejandro Sanz                                        |     | [🔗](https://open.spotify.com/track/5BSclXJTa9B0iURhUjZo50) |
+| Me Gusta                                                                                            | Me Gusta                                                                                            | Shakira, Anuel AA                                              |     | [🔗](https://open.spotify.com/track/5Xhqh4lwJPtMUTsdBztN1a) |
+| Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground) | Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground) | Shakira, Freshlyground                                         | 💚   | [🔗](https://open.spotify.com/track/2Cd9iWfcOpGDHLz6tVA3G4) |
+| Te Felicito                                                                                         | Te Felicito                                                                                         | Shakira, Rauw Alejandro                                        |     | [🔗](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) |
+| Meleğim                                                                                             | Vintage                                                                                             | Soolking, Dadju                                                |     | [🔗](https://open.spotify.com/track/0BD9boQC7jUTWkAoib4Z0d) |
+| Papaoutai                                                                                           | Racine Carrée (Standard US Version)                                                                 | Stromae                                                        | 💚   | [🔗](https://open.spotify.com/track/1QFw2xxyQtgKjlrMCEqsNj) |
+| Lykke te                                                                                            | Lykke te                                                                                            | Synne Vo                                                       |     | [🔗](https://open.spotify.com/track/4vXBW2z1uXXyMvCkDG6c5Z) |
+| W / X / Y                                                                                           | Memories                                                                                            | Tani Yuuki                                                     |     | [🔗](https://open.spotify.com/track/4IfrM44LofE9bSs6TDZS49) |
+| 青春修炼手册                                                                                              | 青春修炼手册                                                                                              | TFBOYS                                                         |     | [🔗](https://open.spotify.com/track/7FrSronLW3WJJEVMvyRcdX) |
+| ก่อนฤดูฝน                                                                                           | SUN                                                                                                 | THE TOYS                                                       |     | [🔗](https://open.spotify.com/track/5BS4lRz13ztnSaBy8spQ7W) |
+| Jai Jai Shivshankar (From "War")                                                                    | Jai Jai Shivshankar (From "War")                                                                    | Vishal Dadlani, Benny Dayal                                    | 💚   | [🔗](https://open.spotify.com/track/6lfSsCL894Qw15xbt7cSUy) |
+| Sofa Silahlane                                                                                      | Sofa Silahlane                                                                                      | Wanitwa Mos, Master KG, Lowsheen, Nkosazana Daughter           |     | [🔗](https://open.spotify.com/track/67SKXlAbYNG5nAtadBfPm0) |
+| Pleasure                                                                                            | Pleasure                                                                                            | WARPs UP                                                       |     | [🔗](https://open.spotify.com/track/3Ri6VyKJACmFm68wQHrsvv) |
+| Tippy Toes                                                                                          | Tippy Toes                                                                                          | XG                                                             | 💚   | [🔗](https://open.spotify.com/track/1MKmSbQfJpEVnC3XfGywyF) |
+| 白月光与朱砂痣                                                                                             | 白月光与朱砂痣                                                                                             | 大籽                                                             | 💚   | [🔗](https://open.spotify.com/track/74nVCj4vMVemLIs71vXcnP) |
+| Bunny                                                                                               | Bunny                                                                                               | 張楚寒                                                            | 💚   | [🔗](https://open.spotify.com/track/3kmNOWI3VFMUu4H0lY9kwc) |
+| 醒不来的梦                                                                                               | 醒不来的梦                                                                                               | 拾贰                                                             | 💚   | [🔗](https://open.spotify.com/track/5EGJ1vMllT1cYXbpymPdyf) |

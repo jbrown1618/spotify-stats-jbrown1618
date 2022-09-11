@@ -6,39 +6,35 @@
 
 ## Tracks
 
-| Track                                | Album                                     | Liked   |
-|:-------------------------------------|:------------------------------------------|:--------|
-| BOOMBAYAH                            | SQUARE ONE                                | 💚       |
-| WHISTLE                              | SQUARE ONE                                | 💚       |
-| PLAYING WITH FIRE                    | SQUARE TWO                                |         |
-| PLAYING WITH FIRE                    | SQUARE TWO                                | 💚       |
-| STAY                                 | SQUARE TWO                                |         |
-| As If It's Your Last                 | As If It's Your Last                      | 💚       |
-| DDU-DU DDU-DU                        | SQUARE UP                                 | 💚       |
-| DDU-DU DDU-DU                        | SQUARE UP                                 | 💚       |
-| Forever Young                        | SQUARE UP                                 | 💚       |
-| Really                               | SQUARE UP                                 | 💚       |
-| Really                               | SQUARE UP                                 | 💚       |
-| Really                               | SQUARE UP                                 | 💚       |
-| See U Later                          | SQUARE UP                                 | 💚       |
-| See U Later                          | SQUARE UP                                 | 💚       |
-| Kiss and Make Up                     | Dua Lipa (Complete Edition)               | 💚       |
-| BOOMBAYAH - Japanese Version         | BLACKPINK IN YOUR AREA (Japanese Version) |         |
-| PLAYING WITH FIRE - Japanese Version | BLACKPINK IN YOUR AREA (Japanese Version) |         |
-| Don't Know What To Do                | KILL THIS LOVE                            | 💚       |
-| Hope Not                             | KILL THIS LOVE                            | 💚       |
-| Kick It                              | KILL THIS LOVE                            |         |
-| Kill This Love                       | KILL THIS LOVE                            | 💚       |
-| Sour Candy (with BLACKPINK)          | Sour Candy (with BLACKPINK)               | 💚       |
-| Sour Candy (with BLACKPINK)          | Chromatica                                |         |
-| How You Like That                    | How You Like That                         |         |
-| Ice Cream (with Selena Gomez)        | Ice Cream (with Selena Gomez)             |         |
-| Bet You Wanna (feat. Cardi B)        | THE ALBUM                                 |         |
-| Crazy Over You                       | THE ALBUM                                 | 💚       |
-| How You Like That                    | THE ALBUM                                 | 💚       |
-| Ice Cream (with Selena Gomez)        | THE ALBUM                                 | 💚       |
-| Love To Hate Me                      | THE ALBUM                                 | 💚       |
-| Lovesick Girls                       | THE ALBUM                                 | 💚       |
-| Pretty Savage                        | THE ALBUM                                 | 💚       |
-| You Never Know                       | THE ALBUM                                 | 💚       |
-| Pink Venom                           | Pink Venom                                | 💚       |
+| Track                                | Album                                     | 💚   | 🔗                                                          |
+|:-------------------------------------|:------------------------------------------|:----|:-----------------------------------------------------------|
+| BOOMBAYAH                            | SQUARE ONE                                | 💚   | [🔗](https://open.spotify.com/track/3yHQKddM8SVCRnuPSo3HPN) |
+| WHISTLE                              | SQUARE ONE                                | 💚   | [🔗](https://open.spotify.com/track/7HWmJ1wBecOAMNGjC6SmKE) |
+| PLAYING WITH FIRE                    | SQUARE TWO                                |     | [🔗](https://open.spotify.com/track/7qmvLmX9tyaTiBAVNI6YEn) |
+| PLAYING WITH FIRE                    | SQUARE TWO                                | 💚   | [🔗](https://open.spotify.com/track/7e7VjLxO5xJINHvnRytrqi) |
+| STAY                                 | SQUARE TWO                                |     | [🔗](https://open.spotify.com/track/4TWHREp4wv0TmewqR6rgRd) |
+| As If It's Your Last                 | As If It's Your Last                      | 💚   | [🔗](https://open.spotify.com/track/1Zyd6zQnC6XIIzmg3hP7Ot) |
+| DDU-DU DDU-DU                        | SQUARE UP                                 | 💚   | [🔗](https://open.spotify.com/track/7b8YOVV5quZcSKEijDgyWB) |
+| Forever Young                        | SQUARE UP                                 | 💚   | [🔗](https://open.spotify.com/track/2naEVOadudtXHwtZNfjMDM) |
+| Really                               | SQUARE UP                                 |     | [🔗](https://open.spotify.com/track/2r5oD7twaQTsv5KoRS6v16) |
+| Really                               | SQUARE UP                                 | 💚   | [🔗](https://open.spotify.com/track/2URMA0ap6SAI8wFmcY1yta) |
+| See U Later                          | SQUARE UP                                 | 💚   | [🔗](https://open.spotify.com/track/3AyLh4R4D3fQfyqCsTdFf3) |
+| Kiss and Make Up                     | Dua Lipa (Complete Edition)               | 💚   | [🔗](https://open.spotify.com/track/7jr3iPu4O4bTCVwLMbdU2i) |
+| BOOMBAYAH - Japanese Version         | BLACKPINK IN YOUR AREA (Japanese Version) |     | [🔗](https://open.spotify.com/track/5nIjOnMbC0QDMrYFLGx0yV) |
+| PLAYING WITH FIRE - Japanese Version | BLACKPINK IN YOUR AREA (Japanese Version) |     | [🔗](https://open.spotify.com/track/29x3S9kmzTGHswtjSVeUPr) |
+| Don't Know What To Do                | KILL THIS LOVE                            | 💚   | [🔗](https://open.spotify.com/track/0zYqFyhiTj419q56lNsjk0) |
+| Hope Not                             | KILL THIS LOVE                            | 💚   | [🔗](https://open.spotify.com/track/7mW8ar9hy7GSeH4lohyOKs) |
+| Kick It                              | KILL THIS LOVE                            |     | [🔗](https://open.spotify.com/track/6Ks1e4WEUeOGgnTGZ4IMXo) |
+| Kill This Love                       | KILL THIS LOVE                            | 💚   | [🔗](https://open.spotify.com/track/18PergoIrGmRyeYxnaXJN2) |
+| Sour Candy (with BLACKPINK)          | Sour Candy (with BLACKPINK)               | 💚   | [🔗](https://open.spotify.com/track/6R6ZoHTypt5lt68MWbzZXv) |
+| Sour Candy (with BLACKPINK)          | Chromatica                                |     | [🔗](https://open.spotify.com/track/1IWNylpZ477gIVUDpJL66u) |
+| Ice Cream (with Selena Gomez)        | Ice Cream (with Selena Gomez)             |     | [🔗](https://open.spotify.com/track/2J4P46vCFm1rPkNkp9pZWX) |
+| Bet You Wanna (feat. Cardi B)        | THE ALBUM                                 |     | [🔗](https://open.spotify.com/track/7iAgNZdotu40NwtoIWJHFe) |
+| Crazy Over You                       | THE ALBUM                                 | 💚   | [🔗](https://open.spotify.com/track/7qq0EOPW4RRlqdvMBmdd73) |
+| How You Like That                    | THE ALBUM                                 | 💚   | [🔗](https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o) |
+| Ice Cream (with Selena Gomez)        | THE ALBUM                                 | 💚   | [🔗](https://open.spotify.com/track/4JUPEh2DVSXFGExu4Uxevz) |
+| Love To Hate Me                      | THE ALBUM                                 | 💚   | [🔗](https://open.spotify.com/track/7iKDsPfLT0d5mu2htfMKBZ) |
+| Lovesick Girls                       | THE ALBUM                                 | 💚   | [🔗](https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C) |
+| Pretty Savage                        | THE ALBUM                                 | 💚   | [🔗](https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr) |
+| You Never Know                       | THE ALBUM                                 | 💚   | [🔗](https://open.spotify.com/track/39kzWAiVPpycdMpr745oPj) |
+| Pink Venom                           | Pink Venom                                | 💚   | [🔗](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) |

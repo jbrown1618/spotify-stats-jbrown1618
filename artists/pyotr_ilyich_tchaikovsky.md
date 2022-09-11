@@ -6,65 +6,65 @@
 
 ## Tracks
 
-| Track                                                                                                                   | Album                                 | Liked   |
-|:------------------------------------------------------------------------------------------------------------------------|:--------------------------------------|:--------|
-| Tchaikovsky: Swan Lake, Op. 20, Act I: Introduction - No. 1, Scene. Allegro giusto                                      | Tchaikovsky: Swan Lake                |         |
-| Tchaikovsky: Swan Lake, Op. 20, Act I: No. 2, Waltz                                                                     | Tchaikovsky: Swan Lake                |         |
-| Tchaikovsky: Swan Lake, Op. 20, Act I: No. 3, Scene. Allegro moderato                                                   | Tchaikovsky: Swan Lake                |         |
-| Tchaikovsky: Swan Lake, Op. 20, Act I: No. 4, Pas de trois                                                              | Tchaikovsky: Swan Lake                |         |
-| Tchaikovsky: Swan Lake, Op. 20, Act I: No. 5, Pas de deux for Two Merry-Makers                                          | Tchaikovsky: Swan Lake                |         |
-| Tchaikovsky: Swan Lake, Op. 20, Act I: No. 6, Pas d'action. Andantino, quasi moderato - Allegro                         | Tchaikovsky: Swan Lake                |         |
-| Tchaikovsky: Swan Lake, Op. 20, Act I: No. 7, Sujet                                                                     | Tchaikovsky: Swan Lake                |         |
-| Tchaikovsky: Swan Lake, Op. 20, Act I: No. 8, Dance with Goblets                                                        | Tchaikovsky: Swan Lake                |         |
-| Tchaikovsky: Swan Lake, Op. 20, Act I: No. 9, Finale. Andante                                                           | Tchaikovsky: Swan Lake                |         |
-| Tchaikovsky: Swan Lake, Op. 20, Act II: No. 10, Scene. Moderato                                                         | Tchaikovsky: Swan Lake                |         |
-| Tchaikovsky: Swan Lake, Op. 20, Act II: No. 11, Scene. Allegro moderato - Moderato - Allegro vivo                       | Tchaikovsky: Swan Lake                |         |
-| Tchaikovsky: Swan Lake, Op. 20, Act II: No. 12, Scene. Allegro - Moderato assai quasi andante                           | Tchaikovsky: Swan Lake                |         |
-| Tchaikovsky: Swan Lake, Op. 20, Act II: No. 13, Dances of the Swans                                                     | Tchaikovsky: Swan Lake                |         |
-| Tchaikovsky: Swan Lake, Op. 20, Act II: No. 14, Scene. Moderato                                                         | Tchaikovsky: Swan Lake                |         |
-| Tchaikovsky: Swan Lake, Op. 20, Act III, Appendix I: Pas de deux                                                        | Tchaikovsky: Swan Lake                |         |
-| Tchaikovsky: Swan Lake, Op. 20, Act III, Appendix II: No. 20a, Russian Dance                                            | Tchaikovsky: Swan Lake                |         |
-| Tchaikovsky: Swan Lake, Op. 20, Act III: No. 15, Scene. March - Allegro giusto                                          | Tchaikovsky: Swan Lake                |         |
-| Tchaikovsky: Swan Lake, Op. 20, Act III: No. 16, Ballabile. Dance of the Guests and the Dwarfs                          | Tchaikovsky: Swan Lake                |         |
-| Tchaikovsky: Swan Lake, Op. 20, Act III: No. 17, Entrance of the Guests and Waltz                                       | Tchaikovsky: Swan Lake                |         |
-| Tchaikovsky: Swan Lake, Op. 20, Act III: No. 18, Scene. Allegro - Allegro giusto                                        | Tchaikovsky: Swan Lake                |         |
-| Tchaikovsky: Swan Lake, Op. 20, Act III: No. 19, Pas de six                                                             | Tchaikovsky: Swan Lake                |         |
-| Tchaikovsky: Swan Lake, Op. 20, Act III: No. 20, Hungarian Dance "Czárdás"                                              | Tchaikovsky: Swan Lake                |         |
-| Tchaikovsky: Swan Lake, Op. 20, Act III: No. 21, Spanish Dance                                                          | Tchaikovsky: Swan Lake                |         |
-| Tchaikovsky: Swan Lake, Op. 20, Act III: No. 22, Neapolitan Dance                                                       | Tchaikovsky: Swan Lake                |         |
-| Tchaikovsky: Swan Lake, Op. 20, Act III: No. 23, Mazurka                                                                | Tchaikovsky: Swan Lake                |         |
-| Tchaikovsky: Swan Lake, Op. 20, Act III: No. 24, Scene. Allegro - Valse - Allegro vivo                                  | Tchaikovsky: Swan Lake                |         |
-| Tchaikovsky: Swan Lake, Op. 20, Act IV: No. 25, Entr'acte                                                               | Tchaikovsky: Swan Lake                |         |
-| Tchaikovsky: Swan Lake, Op. 20, Act IV: No. 26, Scene. Allegro ma non troppo                                            | Tchaikovsky: Swan Lake                |         |
-| Tchaikovsky: Swan Lake, Op. 20, Act IV: No. 27, Dance of the Little Swans                                               | Tchaikovsky: Swan Lake                |         |
-| Tchaikovsky: Swan Lake, Op. 20, Act IV: No. 28, Scene. Allegro agitato                                                  | Tchaikovsky: Swan Lake                |         |
-| Tchaikovsky: Swan Lake, Op. 20, Act IV: No. 29, Finale                                                                  | Tchaikovsky: Swan Lake                |         |
-| Tchaikovsky: String Quartet No. 1 in D Major, Op. 11: II. Andante cantabile (Version for String Orchestra)              | Mozart: Eine Kleine Nachtmusik etc.   |         |
-| Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 1, Decoration of the Christmas Tree                            | Tchaikovsky: The Nutcracker           |         |
-| Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 2, March                                                       | Tchaikovsky: The Nutcracker           |         |
-| Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 3, Children's Galop and Entry of the Parents                   | Tchaikovsky: The Nutcracker           |         |
-| Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 4, Dancing Scene. Arrival of Drosselmeyer                      | Tchaikovsky: The Nutcracker           |         |
-| Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 5, Scene and Grandfather Dance                                 | Tchaikovsky: The Nutcracker           |         |
-| Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 6, Clara and the Nutcracker                                    | Tchaikovsky: The Nutcracker           |         |
-| Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 7, The Battle                                                  | Tchaikovsky: The Nutcracker           |         |
-| Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 2: No. 8, The Forest of Fir Trees in Winter. Journey Through the Snow | Tchaikovsky: The Nutcracker           |         |
-| Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 2: No. 9, Waltz of the Snowflakes                                     | Tchaikovsky: The Nutcracker           |         |
-| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 10, The Enchanted Palace of Confiturembourg, the Kingdom of Sweets     | Tchaikovsky: The Nutcracker           |         |
-| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 11, Arrival of Clara and the Nutcracker                                | Tchaikovsky: The Nutcracker           |         |
-| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12a, Divertissement. Chocolate, Spanish Dance                          | Tchaikovsky: The Nutcracker           |         |
-| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12b, Divertissement. Coffee, Arabian Dance                             | Tchaikovsky: The Nutcracker           |         |
-| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12c, Divertissement. Tea, Chinese Dance                                | Tchaikovsky: The Nutcracker           |         |
-| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12d, Divertissement. Trepak, Russian Dance                             | Tchaikovsky: The Nutcracker           |         |
-| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12e, Divertissement. Dance of the Reed-Flutes                          | Tchaikovsky: The Nutcracker           |         |
-| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12f, Divertissement. Mother Gigogne and the Clowns                     | Tchaikovsky: The Nutcracker           |         |
-| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 13, Waltz of the Flowers                                               | Tchaikovsky: The Nutcracker           |         |
-| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 14a, Pas de deux. Andante maestoso                                     | Tchaikovsky: The Nutcracker           |         |
-| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 14b, Pas de deux. Variation I "Tarantella"                             | Tchaikovsky: The Nutcracker           |         |
-| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 14c, Pas de deux. Variation II "Dance of the Sugar Plum Fairy"         | Tchaikovsky: The Nutcracker           |         |
-| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 14d, Pas de deux. Coda                                                 | Tchaikovsky: The Nutcracker           |         |
-| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 15, Final Waltz and Apotheosis                                         | Tchaikovsky: The Nutcracker           |         |
-| Tchaikovsky: The Nutcracker, Op. 71: Miniature Overture                                                                 | Tchaikovsky: The Nutcracker           |         |
-| 9 Sacred Pieces, TH 78: No. 1, Cherubic Hymn No. 1                                                                      | Tchaikovsky: Sacred Choral Music      |         |
-| 9 Sacred Pieces, TH 78: No. 2, Cherubic Hymn No. 2                                                                      | Tchaikovsky: Sacred Choral Music      |         |
-| 9 Sacred Pieces, TH 78: No. 3, Cherubic Hymn No. 3                                                                      | Tchaikovsky: Sacred Choral Music      |         |
-| Swan Lake Suite, Op. 20a: II. Waltz                                                                                     | Mussorgsky: Pictures At An Exhibition |         |
+| Track                                                                                                                   | Album                                 | 💚   | 🔗                                                          |
+|:------------------------------------------------------------------------------------------------------------------------|:--------------------------------------|:----|:-----------------------------------------------------------|
+| Tchaikovsky: Swan Lake, Op. 20, Act I: Introduction - No. 1, Scene. Allegro giusto                                      | Tchaikovsky: Swan Lake                |     | [🔗](https://open.spotify.com/track/5tNUaNoIMdJcdHGj25a7gD) |
+| Tchaikovsky: Swan Lake, Op. 20, Act I: No. 2, Waltz                                                                     | Tchaikovsky: Swan Lake                |     | [🔗](https://open.spotify.com/track/7gwqbiFgNU1VddAK2XO5Wr) |
+| Tchaikovsky: Swan Lake, Op. 20, Act I: No. 3, Scene. Allegro moderato                                                   | Tchaikovsky: Swan Lake                |     | [🔗](https://open.spotify.com/track/2pck96k8ppFMeyTONVAFLq) |
+| Tchaikovsky: Swan Lake, Op. 20, Act I: No. 4, Pas de trois                                                              | Tchaikovsky: Swan Lake                |     | [🔗](https://open.spotify.com/track/3lE4dnrzG0FQxg67ZOl9rx) |
+| Tchaikovsky: Swan Lake, Op. 20, Act I: No. 5, Pas de deux for Two Merry-Makers                                          | Tchaikovsky: Swan Lake                |     | [🔗](https://open.spotify.com/track/4c36o7MDZ6iXYedl5DMvO5) |
+| Tchaikovsky: Swan Lake, Op. 20, Act I: No. 6, Pas d'action. Andantino, quasi moderato - Allegro                         | Tchaikovsky: Swan Lake                |     | [🔗](https://open.spotify.com/track/6DlYVW2A5tBGwyrVYQnGsO) |
+| Tchaikovsky: Swan Lake, Op. 20, Act I: No. 7, Sujet                                                                     | Tchaikovsky: Swan Lake                |     | [🔗](https://open.spotify.com/track/5vQefc73LyaFwEPPcVspar) |
+| Tchaikovsky: Swan Lake, Op. 20, Act I: No. 8, Dance with Goblets                                                        | Tchaikovsky: Swan Lake                |     | [🔗](https://open.spotify.com/track/5k4h8TjWUws1995o3eOW0X) |
+| Tchaikovsky: Swan Lake, Op. 20, Act I: No. 9, Finale. Andante                                                           | Tchaikovsky: Swan Lake                |     | [🔗](https://open.spotify.com/track/30zjefBZWdYaliUSutB6xZ) |
+| Tchaikovsky: Swan Lake, Op. 20, Act II: No. 10, Scene. Moderato                                                         | Tchaikovsky: Swan Lake                |     | [🔗](https://open.spotify.com/track/2xizRhme7pYeITbH1NLLGt) |
+| Tchaikovsky: Swan Lake, Op. 20, Act II: No. 11, Scene. Allegro moderato - Moderato - Allegro vivo                       | Tchaikovsky: Swan Lake                |     | [🔗](https://open.spotify.com/track/5ItPxeVnRy31PwbheRAZyw) |
+| Tchaikovsky: Swan Lake, Op. 20, Act II: No. 12, Scene. Allegro - Moderato assai quasi andante                           | Tchaikovsky: Swan Lake                |     | [🔗](https://open.spotify.com/track/4MK0IoF2M5oUMvOrguhyYF) |
+| Tchaikovsky: Swan Lake, Op. 20, Act II: No. 13, Dances of the Swans                                                     | Tchaikovsky: Swan Lake                |     | [🔗](https://open.spotify.com/track/2LETLpcnlbL2d5IbnNYLf8) |
+| Tchaikovsky: Swan Lake, Op. 20, Act II: No. 14, Scene. Moderato                                                         | Tchaikovsky: Swan Lake                |     | [🔗](https://open.spotify.com/track/3NlS13lSrtQAL9Nf7ZNoRW) |
+| Tchaikovsky: Swan Lake, Op. 20, Act III, Appendix I: Pas de deux                                                        | Tchaikovsky: Swan Lake                |     | [🔗](https://open.spotify.com/track/7hh18ES59TNeJnBSVJKtmV) |
+| Tchaikovsky: Swan Lake, Op. 20, Act III, Appendix II: No. 20a, Russian Dance                                            | Tchaikovsky: Swan Lake                |     | [🔗](https://open.spotify.com/track/0H9IxK78CYvsvIWa3fNpdS) |
+| Tchaikovsky: Swan Lake, Op. 20, Act III: No. 15, Scene. March - Allegro giusto                                          | Tchaikovsky: Swan Lake                |     | [🔗](https://open.spotify.com/track/0x8zPL3DG2zfVSUzZQiCKL) |
+| Tchaikovsky: Swan Lake, Op. 20, Act III: No. 16, Ballabile. Dance of the Guests and the Dwarfs                          | Tchaikovsky: Swan Lake                |     | [🔗](https://open.spotify.com/track/6fvore08Y6schFpAtmapXW) |
+| Tchaikovsky: Swan Lake, Op. 20, Act III: No. 17, Entrance of the Guests and Waltz                                       | Tchaikovsky: Swan Lake                |     | [🔗](https://open.spotify.com/track/1RiQJx6VNLVG2SLbyiN6tK) |
+| Tchaikovsky: Swan Lake, Op. 20, Act III: No. 18, Scene. Allegro - Allegro giusto                                        | Tchaikovsky: Swan Lake                |     | [🔗](https://open.spotify.com/track/2YzKk2NMadveUJ5gSMmo5W) |
+| Tchaikovsky: Swan Lake, Op. 20, Act III: No. 19, Pas de six                                                             | Tchaikovsky: Swan Lake                |     | [🔗](https://open.spotify.com/track/5BgU68GB0DoFSxkwuIsLU2) |
+| Tchaikovsky: Swan Lake, Op. 20, Act III: No. 20, Hungarian Dance "Czárdás"                                              | Tchaikovsky: Swan Lake                |     | [🔗](https://open.spotify.com/track/6YbcqXNj8MEclUKVeicLYU) |
+| Tchaikovsky: Swan Lake, Op. 20, Act III: No. 21, Spanish Dance                                                          | Tchaikovsky: Swan Lake                |     | [🔗](https://open.spotify.com/track/3Vulgn0kOld0a561mg7yt4) |
+| Tchaikovsky: Swan Lake, Op. 20, Act III: No. 22, Neapolitan Dance                                                       | Tchaikovsky: Swan Lake                |     | [🔗](https://open.spotify.com/track/4nj7bhtLH0R1xW0mybToZx) |
+| Tchaikovsky: Swan Lake, Op. 20, Act III: No. 23, Mazurka                                                                | Tchaikovsky: Swan Lake                |     | [🔗](https://open.spotify.com/track/2yf6Hbs6YR3o1iEtOxr91R) |
+| Tchaikovsky: Swan Lake, Op. 20, Act III: No. 24, Scene. Allegro - Valse - Allegro vivo                                  | Tchaikovsky: Swan Lake                |     | [🔗](https://open.spotify.com/track/6kmeyBsHTsgvNfng8D3r1d) |
+| Tchaikovsky: Swan Lake, Op. 20, Act IV: No. 25, Entr'acte                                                               | Tchaikovsky: Swan Lake                |     | [🔗](https://open.spotify.com/track/4e1dRJR5QrPOlfjx3jShah) |
+| Tchaikovsky: Swan Lake, Op. 20, Act IV: No. 26, Scene. Allegro ma non troppo                                            | Tchaikovsky: Swan Lake                |     | [🔗](https://open.spotify.com/track/4DhZXyID8nEQmTqWzZ0nC7) |
+| Tchaikovsky: Swan Lake, Op. 20, Act IV: No. 27, Dance of the Little Swans                                               | Tchaikovsky: Swan Lake                |     | [🔗](https://open.spotify.com/track/4Qu4tyMIENrOgUSGGbJhb4) |
+| Tchaikovsky: Swan Lake, Op. 20, Act IV: No. 28, Scene. Allegro agitato                                                  | Tchaikovsky: Swan Lake                |     | [🔗](https://open.spotify.com/track/5jg3xtvH1ZkLO2XtaefaSF) |
+| Tchaikovsky: Swan Lake, Op. 20, Act IV: No. 29, Finale                                                                  | Tchaikovsky: Swan Lake                |     | [🔗](https://open.spotify.com/track/5nYUMQDawD0zfqMtqXq8Ds) |
+| Tchaikovsky: String Quartet No. 1 in D Major, Op. 11: II. Andante cantabile (Version for String Orchestra)              | Mozart: Eine Kleine Nachtmusik etc.   |     | [🔗](https://open.spotify.com/track/5yOAS9wr1ZBBvXARMpnbUt) |
+| Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 1, Decoration of the Christmas Tree                            | Tchaikovsky: The Nutcracker           |     | [🔗](https://open.spotify.com/track/7hVsNjrvtfXZlzxW5vxsAi) |
+| Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 2, March                                                       | Tchaikovsky: The Nutcracker           |     | [🔗](https://open.spotify.com/track/06am46cX3Z6YlSsg0TyVHA) |
+| Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 3, Children's Galop and Entry of the Parents                   | Tchaikovsky: The Nutcracker           |     | [🔗](https://open.spotify.com/track/6yTPBtEggdlBgGEUL94sn1) |
+| Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 4, Dancing Scene. Arrival of Drosselmeyer                      | Tchaikovsky: The Nutcracker           |     | [🔗](https://open.spotify.com/track/2NodH0sMaxRFSWePxkuutP) |
+| Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 5, Scene and Grandfather Dance                                 | Tchaikovsky: The Nutcracker           |     | [🔗](https://open.spotify.com/track/7JUbQkbvdPnNqS8RdcfCtO) |
+| Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 6, Clara and the Nutcracker                                    | Tchaikovsky: The Nutcracker           |     | [🔗](https://open.spotify.com/track/460K7NeHx8ttnZa0Qqh4Vx) |
+| Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 7, The Battle                                                  | Tchaikovsky: The Nutcracker           |     | [🔗](https://open.spotify.com/track/1npEvrkd5GA8djI76r68Ay) |
+| Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 2: No. 8, The Forest of Fir Trees in Winter. Journey Through the Snow | Tchaikovsky: The Nutcracker           |     | [🔗](https://open.spotify.com/track/2bM4iYnqICtB3vAGplnz0d) |
+| Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 2: No. 9, Waltz of the Snowflakes                                     | Tchaikovsky: The Nutcracker           |     | [🔗](https://open.spotify.com/track/5jXB4p8pQu9Ahv10ibU8fG) |
+| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 10, The Enchanted Palace of Confiturembourg, the Kingdom of Sweets     | Tchaikovsky: The Nutcracker           |     | [🔗](https://open.spotify.com/track/7KwH7xYAQ5rFja2GnJLIqD) |
+| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 11, Arrival of Clara and the Nutcracker                                | Tchaikovsky: The Nutcracker           |     | [🔗](https://open.spotify.com/track/3eHV5kXt0OZmrUTrO8wzMX) |
+| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12a, Divertissement. Chocolate, Spanish Dance                          | Tchaikovsky: The Nutcracker           |     | [🔗](https://open.spotify.com/track/0W5hxw5mvLIVZu1QIw7IpP) |
+| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12b, Divertissement. Coffee, Arabian Dance                             | Tchaikovsky: The Nutcracker           |     | [🔗](https://open.spotify.com/track/13rYowrPC2dk2Jhavquy1F) |
+| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12c, Divertissement. Tea, Chinese Dance                                | Tchaikovsky: The Nutcracker           |     | [🔗](https://open.spotify.com/track/7o5DCsdl4eIqusst2pVoKX) |
+| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12d, Divertissement. Trepak, Russian Dance                             | Tchaikovsky: The Nutcracker           |     | [🔗](https://open.spotify.com/track/6kHWawEbq5Vcyp8nSHhGjs) |
+| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12e, Divertissement. Dance of the Reed-Flutes                          | Tchaikovsky: The Nutcracker           |     | [🔗](https://open.spotify.com/track/2FSMEjWvRqmrdZbsqiW8ds) |
+| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12f, Divertissement. Mother Gigogne and the Clowns                     | Tchaikovsky: The Nutcracker           |     | [🔗](https://open.spotify.com/track/4L9KpsmAbyhXOZZkSybfaU) |
+| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 13, Waltz of the Flowers                                               | Tchaikovsky: The Nutcracker           |     | [🔗](https://open.spotify.com/track/0CJuLeZpCdqrqoCMXWZw8k) |
+| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 14a, Pas de deux. Andante maestoso                                     | Tchaikovsky: The Nutcracker           |     | [🔗](https://open.spotify.com/track/2oUX4i8ByoaDrHHz9z5Bga) |
+| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 14b, Pas de deux. Variation I "Tarantella"                             | Tchaikovsky: The Nutcracker           |     | [🔗](https://open.spotify.com/track/0HbpdVxJlwPDRqsY3TmkTQ) |
+| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 14c, Pas de deux. Variation II "Dance of the Sugar Plum Fairy"         | Tchaikovsky: The Nutcracker           |     | [🔗](https://open.spotify.com/track/1oDAFTOXZGSQedBa6hXGhT) |
+| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 14d, Pas de deux. Coda                                                 | Tchaikovsky: The Nutcracker           |     | [🔗](https://open.spotify.com/track/3aBr1vgaFH9QlMIXQBx9f5) |
+| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 15, Final Waltz and Apotheosis                                         | Tchaikovsky: The Nutcracker           |     | [🔗](https://open.spotify.com/track/52JiOOIQ4xwLHEWdEV1aUF) |
+| Tchaikovsky: The Nutcracker, Op. 71: Miniature Overture                                                                 | Tchaikovsky: The Nutcracker           |     | [🔗](https://open.spotify.com/track/11WQasJcGWgh3mvR1UiBcm) |
+| 9 Sacred Pieces, TH 78: No. 1, Cherubic Hymn No. 1                                                                      | Tchaikovsky: Sacred Choral Music      |     | [🔗](https://open.spotify.com/track/7E4KpvGnw4eD55VgmdMdco) |
+| 9 Sacred Pieces, TH 78: No. 2, Cherubic Hymn No. 2                                                                      | Tchaikovsky: Sacred Choral Music      |     | [🔗](https://open.spotify.com/track/1uDDH4TncZQxOCYl9TjHKh) |
+| 9 Sacred Pieces, TH 78: No. 3, Cherubic Hymn No. 3                                                                      | Tchaikovsky: Sacred Choral Music      |     | [🔗](https://open.spotify.com/track/5cuTdpoXIWieDK848fuNDW) |
+| Swan Lake Suite, Op. 20a: II. Waltz                                                                                     | Mussorgsky: Pictures At An Exhibition |     | [🔗](https://open.spotify.com/track/0NOiSayyUFYnLllkTdFa1k) |

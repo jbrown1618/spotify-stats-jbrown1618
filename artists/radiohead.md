@@ -6,15 +6,15 @@
 
 ## Tracks
 
-| Track                    | Album       | Liked   |
-|:-------------------------|:------------|:--------|
-| Creep                    | Pablo Honey | 💚       |
-| Fake Plastic Trees       | The Bends   | 💚       |
-| High And Dry             | The Bends   | 💚       |
-| Street Spirit (Fade Out) | The Bends   | 💚       |
-| Karma Police             | OK Computer | 💚       |
-| No Surprises             | OK Computer | 💚       |
-| Paranoid Android         | OK Computer | 💚       |
-| Pyramid Song             | Amnesiac    | 💚       |
-| Reckoner                 | In Rainbows | 💚       |
-| Weird Fishes/ Arpeggi    | In Rainbows |         |
+| Track                    | Album       | 💚   | 🔗                                                          |
+|:-------------------------|:------------|:----|:-----------------------------------------------------------|
+| Creep                    | Pablo Honey | 💚   | [🔗](https://open.spotify.com/track/6b2oQwSGFkzsMtQruIWm2p) |
+| Fake Plastic Trees       | The Bends   | 💚   | [🔗](https://open.spotify.com/track/045sp2JToyTaaKyXkGejPy) |
+| High And Dry             | The Bends   | 💚   | [🔗](https://open.spotify.com/track/5jafMI8FLibnjkYTZ33m0c) |
+| Street Spirit (Fade Out) | The Bends   | 💚   | [🔗](https://open.spotify.com/track/5gz38AxRkD6Ywxd4fr2pLj) |
+| Karma Police             | OK Computer | 💚   | [🔗](https://open.spotify.com/track/3SVAN3BRByDmHOhKyIDxfC) |
+| No Surprises             | OK Computer | 💚   | [🔗](https://open.spotify.com/track/1bSpwPhAxZwlR2enJJsv7U) |
+| Paranoid Android         | OK Computer | 💚   | [🔗](https://open.spotify.com/track/2nTsKOXIVGDf2iPeVQO2Gm) |
+| Pyramid Song             | Amnesiac    | 💚   | [🔗](https://open.spotify.com/track/3A9vIxzGBjEfqmDK7H9exS) |
+| Reckoner                 | In Rainbows | 💚   | [🔗](https://open.spotify.com/track/56Z7hbyMrndw1naxb6I5Oi) |
+| Weird Fishes/ Arpeggi    | In Rainbows |     | [🔗](https://open.spotify.com/track/4Iyo50UoYhuuYORMLrGDci) |

@@ -6,16 +6,16 @@
 
 ## Tracks
 
-| Track                                        | Album                           | Liked   |
-|:---------------------------------------------|:--------------------------------|:--------|
-| Grenade                                      | Doo-Wops & Hooligans            | 💚       |
-| The Other Side (feat. CeeLo Green and B.o.B) | Doo-Wops & Hooligans            | 💚       |
-| Locked out of Heaven                         | Unorthodox Jukebox              | 💚       |
-| When I Was Your Man                          | Unorthodox Jukebox              | 💚       |
-| Uptown Funk (feat. Bruno Mars)               | Uptown Special                  | 💚       |
-| 24K Magic                                    | 24K Magic                       |         |
-| Finesse                                      | 24K Magic                       | 💚       |
-| That's What I Like                           | 24K Magic                       | 💚       |
-| Finesse - Remix; feat. Cardi B               | Finesse (Remix) [feat. Cardi B] | 💚       |
-| Please Me                                    | Please Me                       | 💚       |
-| Leave The Door Open                          | Leave The Door Open             | 💚       |
+| Track                                        | Album                           | 💚   | 🔗                                                          |
+|:---------------------------------------------|:--------------------------------|:----|:-----------------------------------------------------------|
+| Grenade                                      | Doo-Wops & Hooligans            | 💚   | [🔗](https://open.spotify.com/track/2tJulUYLDKOg9XrtVkMgcJ) |
+| The Other Side (feat. CeeLo Green and B.o.B) | Doo-Wops & Hooligans            | 💚   | [🔗](https://open.spotify.com/track/0HasfWMrNxTjycDy9TkRtA) |
+| Locked out of Heaven                         | Unorthodox Jukebox              | 💚   | [🔗](https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh) |
+| When I Was Your Man                          | Unorthodox Jukebox              | 💚   | [🔗](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) |
+| Uptown Funk (feat. Bruno Mars)               | Uptown Special                  | 💚   | [🔗](https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS) |
+| 24K Magic                                    | 24K Magic                       |     | [🔗](https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P) |
+| Finesse                                      | 24K Magic                       | 💚   | [🔗](https://open.spotify.com/track/5XMkENs3GfeRza8MfVAhjK) |
+| That's What I Like                           | 24K Magic                       | 💚   | [🔗](https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU) |
+| Finesse - Remix; feat. Cardi B               | Finesse (Remix) [feat. Cardi B] | 💚   | [🔗](https://open.spotify.com/track/3Vo4wInECJQuz9BIBMOu8i) |
+| Please Me                                    | Please Me                       | 💚   | [🔗](https://open.spotify.com/track/0PG9fbaaHFHfre2gUVo7AN) |
+| Leave The Door Open                          | Leave The Door Open             | 💚   | [🔗](https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh) |

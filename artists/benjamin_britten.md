@@ -6,24 +6,24 @@
 
 ## Tracks
 
-| Track                                                                  | Album                                  | Liked   |
-|:-----------------------------------------------------------------------|:---------------------------------------|:--------|
-| Brandenburg Concerto No. 1 in F, BWV 1046: 1. (Allegro)                | Bach, J.S.: Brandenburg Concertos etc. |         |
-| Brandenburg Concerto No. 1 in F, BWV 1046: 2. Adagio                   | Bach, J.S.: Brandenburg Concertos etc. |         |
-| Brandenburg Concerto No. 1 in F, BWV 1046: 3. Allegro                  | Bach, J.S.: Brandenburg Concertos etc. |         |
-| Brandenburg Concerto No. 1 in F, BWV 1046: 4. Menuetto: Trio I         | Bach, J.S.: Brandenburg Concertos etc. |         |
-| Brandenburg Concerto No. 1 in F, BWV 1046: 5. Polacca; Trio II         | Bach, J.S.: Brandenburg Concertos etc. |         |
-| Brandenburg Concerto No. 2 in F, BWV 1047: 1. (Allegro)                | Bach, J.S.: Brandenburg Concertos etc. |         |
-| Brandenburg Concerto No. 2 in F, BWV 1047: 2. Andante                  | Bach, J.S.: Brandenburg Concertos etc. |         |
-| Brandenburg Concerto No. 2 in F, BWV 1047: 3. Allegro assai            | Bach, J.S.: Brandenburg Concertos etc. |         |
-| Brandenburg Concerto No. 3 in G, BWV 1048: 1. (Allegro)                | Bach, J.S.: Brandenburg Concertos etc. |         |
-| Brandenburg Concerto No. 3 in G, BWV 1048: 3. Allegro                  | Bach, J.S.: Brandenburg Concertos etc. |         |
-| Brandenburg Concerto No. 4 in G, BWV 1049: 1. Allegro                  | Bach, J.S.: Brandenburg Concertos etc. |         |
-| Brandenburg Concerto No. 4 in G, BWV 1049: 2. Andante                  | Bach, J.S.: Brandenburg Concertos etc. |         |
-| Brandenburg Concerto No. 4 in G, BWV 1049: 3. Presto                   | Bach, J.S.: Brandenburg Concertos etc. |         |
-| Brandenburg Concerto No. 5 in D, BWV 1050: 1. Allegro                  | Bach, J.S.: Brandenburg Concertos etc. |         |
-| Brandenburg Concerto No. 5 in D, BWV 1050: 2. Affetuoso                | Bach, J.S.: Brandenburg Concertos etc. |         |
-| Brandenburg Concerto No. 5 in D, BWV 1050: 3. Allegro                  | Bach, J.S.: Brandenburg Concertos etc. |         |
-| Brandenburg Concerto No. 6 in B flat, BWV 1051: 1. --                  | Bach, J.S.: Brandenburg Concertos etc. |         |
-| Brandenburg Concerto No. 6 in B flat, BWV 1051: 2. Adagio ma non tanto | Bach, J.S.: Brandenburg Concertos etc. |         |
-| Brandenburg Concerto No. 6 in B flat, BWV 1051: 3. Allegro             | Bach, J.S.: Brandenburg Concertos etc. |         |
+| Track                                                                  | Album                                  | 💚   | 🔗                                                          |
+|:-----------------------------------------------------------------------|:---------------------------------------|:----|:-----------------------------------------------------------|
+| Brandenburg Concerto No. 1 in F, BWV 1046: 1. (Allegro)                | Bach, J.S.: Brandenburg Concertos etc. |     | [🔗](https://open.spotify.com/track/0df320Pc1ZK0050luSGVHt) |
+| Brandenburg Concerto No. 1 in F, BWV 1046: 2. Adagio                   | Bach, J.S.: Brandenburg Concertos etc. |     | [🔗](https://open.spotify.com/track/5STqUBrlZ1XUaUfKnWdYaY) |
+| Brandenburg Concerto No. 1 in F, BWV 1046: 3. Allegro                  | Bach, J.S.: Brandenburg Concertos etc. |     | [🔗](https://open.spotify.com/track/4fXffigCHnDRCpkBLLPvG8) |
+| Brandenburg Concerto No. 1 in F, BWV 1046: 4. Menuetto: Trio I         | Bach, J.S.: Brandenburg Concertos etc. |     | [🔗](https://open.spotify.com/track/7C3TyMdnQFiMjCoXclqEMC) |
+| Brandenburg Concerto No. 1 in F, BWV 1046: 5. Polacca; Trio II         | Bach, J.S.: Brandenburg Concertos etc. |     | [🔗](https://open.spotify.com/track/4hD45OqQubjOEKChrtT9eA) |
+| Brandenburg Concerto No. 2 in F, BWV 1047: 1. (Allegro)                | Bach, J.S.: Brandenburg Concertos etc. |     | [🔗](https://open.spotify.com/track/4PXwvtEMVB4Q3LV5H6eW7x) |
+| Brandenburg Concerto No. 2 in F, BWV 1047: 2. Andante                  | Bach, J.S.: Brandenburg Concertos etc. |     | [🔗](https://open.spotify.com/track/4MY5iDvlsITcO9Y3hieoJU) |
+| Brandenburg Concerto No. 2 in F, BWV 1047: 3. Allegro assai            | Bach, J.S.: Brandenburg Concertos etc. |     | [🔗](https://open.spotify.com/track/6VDiESR71MskMr5Hbzk5Z9) |
+| Brandenburg Concerto No. 3 in G, BWV 1048: 1. (Allegro)                | Bach, J.S.: Brandenburg Concertos etc. |     | [🔗](https://open.spotify.com/track/51bqd4W15PIW7nBzvMCuuf) |
+| Brandenburg Concerto No. 3 in G, BWV 1048: 3. Allegro                  | Bach, J.S.: Brandenburg Concertos etc. |     | [🔗](https://open.spotify.com/track/4HuoLeflqbsdeBUDvoD6An) |
+| Brandenburg Concerto No. 4 in G, BWV 1049: 1. Allegro                  | Bach, J.S.: Brandenburg Concertos etc. |     | [🔗](https://open.spotify.com/track/7LxP1l4ddjhoVKqgSeRwZY) |
+| Brandenburg Concerto No. 4 in G, BWV 1049: 2. Andante                  | Bach, J.S.: Brandenburg Concertos etc. |     | [🔗](https://open.spotify.com/track/3ycalZsD0op1GjZ6eDrpbU) |
+| Brandenburg Concerto No. 4 in G, BWV 1049: 3. Presto                   | Bach, J.S.: Brandenburg Concertos etc. |     | [🔗](https://open.spotify.com/track/6PtzKhvAY9xejeJIrwxZGQ) |
+| Brandenburg Concerto No. 5 in D, BWV 1050: 1. Allegro                  | Bach, J.S.: Brandenburg Concertos etc. |     | [🔗](https://open.spotify.com/track/7ImuASnzYk9YHn3isFjZ0j) |
+| Brandenburg Concerto No. 5 in D, BWV 1050: 2. Affetuoso                | Bach, J.S.: Brandenburg Concertos etc. |     | [🔗](https://open.spotify.com/track/4ohJN7ZkuY733krIjdjjp2) |
+| Brandenburg Concerto No. 5 in D, BWV 1050: 3. Allegro                  | Bach, J.S.: Brandenburg Concertos etc. |     | [🔗](https://open.spotify.com/track/5hoRPHTX8zSHCyPIGejvZj) |
+| Brandenburg Concerto No. 6 in B flat, BWV 1051: 1. --                  | Bach, J.S.: Brandenburg Concertos etc. |     | [🔗](https://open.spotify.com/track/05sFtfNGSjuKGld0YiL2ZM) |
+| Brandenburg Concerto No. 6 in B flat, BWV 1051: 2. Adagio ma non tanto | Bach, J.S.: Brandenburg Concertos etc. |     | [🔗](https://open.spotify.com/track/3rgXIZHbW1RW2dqno4QaCv) |
+| Brandenburg Concerto No. 6 in B flat, BWV 1051: 3. Allegro             | Bach, J.S.: Brandenburg Concertos etc. |     | [🔗](https://open.spotify.com/track/1RJzEki8sy95amLpGyqSCT) |

@@ -11,150 +11,150 @@
 <details>
 <summary>See all artists</summary>
 
-|   Number of Tracks | Artist             |
-|-------------------:|:-------------------|
-|                 14 | Beyoncé            |
-|                 10 | Rihanna            |
-|                  9 | Bruno Mars         |
-|                  6 | Jason Derulo       |
-|                  5 | Janelle Monáe      |
-|                  4 | Stevie Wonder      |
-|                  4 | The Temptations    |
-|                  4 | Usher              |
-|                  3 | John Legend        |
-|                  2 | JAY-Z              |
-|                  2 | Daniel Caesar      |
-|                  1 | Lil Jon            |
-|                  1 | Lil Nas X          |
-|                  1 | Ty Dolla $ign      |
-|                  1 | Calvin Harris      |
-|                  1 | André 3000         |
-|                  1 | Blu Cantrell       |
-|                  1 | Commodores         |
-|                  1 | H 3 F              |
-|                  1 | Destiny Rogers     |
-|                  1 | Silk Sonic         |
-|                  1 | Ella Eyre          |
-|                  1 | B.o.B              |
-|                  1 | CeeLo Green        |
-|                  1 | Juicy J            |
-|                  1 | Doja Cat           |
-|                  1 | Gnarls Barkley     |
-|                  1 | Tyga               |
-|                  1 | Lizzo              |
-|                  1 | Cardi B            |
-|                  1 | Jidenna            |
-|                  1 | The Foundations    |
-|                  1 | Anderson .Paak     |
-|                  1 | Ludacris           |
-|                  1 | Jhorrmountain      |
-|                  1 | H.E.R.             |
-|                  1 | Puri               |
-|                  1 | Miguel             |
-|                  1 | Big Boi            |
-|                  1 | Frank Ocean        |
-|                  1 | Corinne Bailey Rae |
-|                  1 | Cassie             |
-|                  1 | Ne-Yo              |
-|                  1 | Mikky Ekko         |
-|                  1 | Destiny's Child    |
-|                  1 | The Weeknd         |
-|                  1 | Pink Sweat$        |
-|                  1 | 2 Chainz           |
-|                  1 | Etta James         |
-|                  1 | Nicki Minaj        |
-|                  1 | Jenevieve          |
-|                  1 | Robin Thicke       |
-|                  1 | Pitbull            |
-|                  1 | Jacob Banks        |
+|   Number of Tracks | Artist                                 | 🔗                                                           |
+|-------------------:|:---------------------------------------|:------------------------------------------------------------|
+|                 14 | [Beyoncé](../artists/beyonc_.md)       | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
+|                 10 | [Rihanna](../artists/rihanna.md)       | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
+|                  9 | [Bruno Mars](../artists/bruno_mars.md) | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
+|                  6 | Jason Derulo                           | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
+|                  5 | Janelle Monáe                          | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
+|                  4 | Stevie Wonder                          | [🔗](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) |
+|                  4 | The Temptations                        | [🔗](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) |
+|                  4 | Usher                                  | [🔗](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) |
+|                  3 | John Legend                            | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
+|                  2 | JAY-Z                                  | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
+|                  2 | Daniel Caesar                          | [🔗](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) |
+|                  1 | Lil Jon                                | [🔗](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) |
+|                  1 | Lil Nas X                              | [🔗](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) |
+|                  1 | Ty Dolla $ign                          | [🔗](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) |
+|                  1 | Calvin Harris                          | [🔗](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) |
+|                  1 | André 3000                             | [🔗](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) |
+|                  1 | Blu Cantrell                           | [🔗](https://open.spotify.com/artist/6vytZ677lz4LzCrUDcDokM) |
+|                  1 | Commodores                             | [🔗](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) |
+|                  1 | H 3 F                                  | [🔗](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3) |
+|                  1 | Destiny Rogers                         | [🔗](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) |
+|                  1 | Silk Sonic                             | [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) |
+|                  1 | Ella Eyre                              | [🔗](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) |
+|                  1 | B.o.B                                  | [🔗](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) |
+|                  1 | CeeLo Green                            | [🔗](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) |
+|                  1 | Juicy J                                | [🔗](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) |
+|                  1 | Doja Cat                               | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
+|                  1 | Gnarls Barkley                         | [🔗](https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH) |
+|                  1 | Tyga                                   | [🔗](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) |
+|                  1 | Lizzo                                  | [🔗](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) |
+|                  1 | Cardi B                                | [🔗](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) |
+|                  1 | Jidenna                                | [🔗](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) |
+|                  1 | The Foundations                        | [🔗](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) |
+|                  1 | Anderson .Paak                         | [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) |
+|                  1 | Ludacris                               | [🔗](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) |
+|                  1 | Jhorrmountain                          | [🔗](https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o) |
+|                  1 | H.E.R.                                 | [🔗](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) |
+|                  1 | Puri                                   | [🔗](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp) |
+|                  1 | Miguel                                 | [🔗](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) |
+|                  1 | Big Boi                                | [🔗](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB) |
+|                  1 | Frank Ocean                            | [🔗](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) |
+|                  1 | Corinne Bailey Rae                     | [🔗](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) |
+|                  1 | Cassie                                 | [🔗](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) |
+|                  1 | Ne-Yo                                  | [🔗](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) |
+|                  1 | Mikky Ekko                             | [🔗](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) |
+|                  1 | Destiny's Child                        | [🔗](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) |
+|                  1 | The Weeknd                             | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
+|                  1 | Pink Sweat$                            | [🔗](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) |
+|                  1 | 2 Chainz                               | [🔗](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) |
+|                  1 | Etta James                             | [🔗](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) |
+|                  1 | Nicki Minaj                            | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
+|                  1 | Jenevieve                              | [🔗](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) |
+|                  1 | Robin Thicke                           | [🔗](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) |
+|                  1 | Pitbull                                | [🔗](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) |
+|                  1 | Jacob Banks                            | [🔗](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) |
 
 </details>
 
 
 ## Tracks
 
-| Track                                          | Album                                                                                                   | Artists                                                            | Liked   |
-|:-----------------------------------------------|:--------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------|:--------|
-| Best Thing I Never Had                         | 4                                                                                                       | [Beyoncé](../artists/beyonc_.md)                                   | 💚       |
-| Countdown                                      | 4                                                                                                       | [Beyoncé](../artists/beyonc_.md)                                   | 💚       |
-| I Was Here                                     | 4                                                                                                       | [Beyoncé](../artists/beyonc_.md)                                   | 💚       |
-| Love On Top                                    | 4                                                                                                       | [Beyoncé](../artists/beyonc_.md)                                   | 💚       |
-| Irreplaceable                                  | B'Day Deluxe Edition                                                                                    | [Beyoncé](../artists/beyonc_.md)                                   |         |
-| Listen (From the Motion Picture "Dreamgirls")  | B'Day Deluxe Edition                                                                                    | [Beyoncé](../artists/beyonc_.md)                                   | 💚       |
-| Ave Maria                                      | I AM...SASHA FIERCE                                                                                     | [Beyoncé](../artists/beyonc_.md)                                   |         |
-| Halo                                           | I AM...SASHA FIERCE                                                                                     | [Beyoncé](../artists/beyonc_.md)                                   | 💚       |
-| If I Were a Boy                                | I AM...SASHA FIERCE                                                                                     | [Beyoncé](../artists/beyonc_.md)                                   | 💚       |
-| Sweet Dreams                                   | I AM...SASHA FIERCE                                                                                     | [Beyoncé](../artists/beyonc_.md)                                   |         |
-| Daddy Lessons                                  | Lemonade                                                                                                | [Beyoncé](../artists/beyonc_.md)                                   | 💚       |
-| Hold Up                                        | Lemonade                                                                                                | [Beyoncé](../artists/beyonc_.md)                                   |         |
-| I'd Rather Go Blind                            | Music From The Motion Picture Cadillac Records                                                          | [Beyoncé](../artists/beyonc_.md)                                   | 💚       |
-| Crazy In Love (feat. Jay-Z)                    | Dangerously In Love                                                                                     | [Beyoncé](../artists/beyonc_.md), JAY-Z                            |         |
-| Hit 'Em Up Style (Oops!)                       | Bittersweet                                                                                             | Blu Cantrell                                                       | 💚       |
-| 24K Magic                                      | 24K Magic                                                                                               | [Bruno Mars](../artists/bruno_mars.md)                             |         |
-| Finesse                                        | 24K Magic                                                                                               | [Bruno Mars](../artists/bruno_mars.md)                             | 💚       |
-| That's What I Like                             | 24K Magic                                                                                               | [Bruno Mars](../artists/bruno_mars.md)                             | 💚       |
-| Grenade                                        | Doo-Wops & Hooligans                                                                                    | [Bruno Mars](../artists/bruno_mars.md)                             | 💚       |
-| Locked out of Heaven                           | Unorthodox Jukebox                                                                                      | [Bruno Mars](../artists/bruno_mars.md)                             | 💚       |
-| When I Was Your Man                            | Unorthodox Jukebox                                                                                      | [Bruno Mars](../artists/bruno_mars.md)                             | 💚       |
-| Leave The Door Open                            | Leave The Door Open                                                                                     | [Bruno Mars](../artists/bruno_mars.md), Anderson .Paak, Silk Sonic | 💚       |
-| Finesse - Remix; feat. Cardi B                 | Finesse (Remix) [feat. Cardi B]                                                                         | [Bruno Mars](../artists/bruno_mars.md), Cardi B                    | 💚       |
-| We Found Love                                  | Talk That Talk                                                                                          | Calvin Harris, [Rihanna](../artists/rihanna.md)                    | 💚       |
-| Me & U                                         | Cassie (U.S. Version)                                                                                   | Cassie                                                             |         |
-| The Other Side (feat. CeeLo Green and B.o.B)   | Doo-Wops & Hooligans                                                                                    | CeeLo Green, [Bruno Mars](../artists/bruno_mars.md), B.o.B         | 💚       |
-| Easy                                           | Commodores                                                                                              | Commodores                                                         | 💚       |
-| Put Your Records On                            | Corinne Bailey Rae                                                                                      | Corinne Bailey Rae                                                 | 💚       |
-| Who Hurt You?                                  | Who Hurt You?                                                                                           | Daniel Caesar                                                      | 💚       |
-| Best Part (feat. H.E.R.)                       | Freudian                                                                                                | Daniel Caesar, H.E.R.                                              | 💚       |
-| Tomboy                                         | Tomboy                                                                                                  | Destiny Rogers                                                     | 💚       |
-| Bootylicious                                   | Survivor                                                                                                | Destiny's Child                                                    |         |
-| Boss Bitch                                     | Boss Bitch                                                                                              | Doja Cat                                                           | 💚       |
-| If I Go                                        | Ella Eyre                                                                                               | Ella Eyre                                                          | 💚       |
-| I'd Rather Go Blind                            | Tell Mama                                                                                               | Etta James                                                         | 💚       |
-| Thinkin Bout You                               | channel ORANGE                                                                                          | Frank Ocean                                                        | 💚       |
-| Crazy                                          | St. Elsewhere                                                                                           | Gnarls Barkley                                                     | 💚       |
-| How Can I                                      | How Can I                                                                                               | H 3 F                                                              | 💚       |
-| Unknown (To You)                               | Village                                                                                                 | Jacob Banks                                                        | 💚       |
-| I Like That                                    | Dirty Computer                                                                                          | Janelle Monáe                                                      | 💚       |
-| Make Me Feel                                   | Dirty Computer                                                                                          | Janelle Monáe                                                      | 💚       |
-| Sincerely, Jane                                | Metropolis: The Chase Suite (Special Edition)                                                           | Janelle Monáe                                                      | 💚       |
-| Tightrope (feat. Big Boi) - Big Boi Vocal Edit | The ArchAndroid                                                                                         | Janelle Monáe, Big Boi                                             | 💚       |
-| Yoga                                           | Yoga                                                                                                    | Janelle Monáe, Jidenna                                             | 💚       |
-| Get Ugly                                       | Everything Is 4                                                                                         | Jason Derulo                                                       | 💚       |
-| Trumpets                                       | Talk Dirty                                                                                              | Jason Derulo                                                       | 💚       |
-| Talk Dirty (feat. 2 Chainz)                    | Talk Dirty                                                                                              | Jason Derulo, 2 Chainz                                             | 💚       |
-| Coño                                           | Coño                                                                                                    | Jason Derulo, Puri, Jhorrmountain                                  | 💚       |
-| Baby Powder                                    | Baby Powder                                                                                             | Jenevieve                                                          | 💚       |
-| All of Me                                      | Love In The Future (Expanded Edition)                                                                   | John Legend                                                        | 💚       |
-| Preach                                         | Preach                                                                                                  | John Legend                                                        |         |
-| Green Light (feat. André 3000)                 | Evolver                                                                                                 | John Legend, André 3000                                            | 💚       |
-| I Don't Mind (feat. Juicy J)                   | I Don't Mind (feat. Juicy J)                                                                            | Juicy J, Usher                                                     | 💚       |
-| MONTERO (Call Me By Your Name)                 | MONTERO (Call Me By Your Name)                                                                          | Lil Nas X                                                          | 💚       |
-| Truth Hurts                                    | Cuz I Love You (Deluxe)                                                                                 | Lizzo                                                              | 💚       |
-| Sure Thing                                     | All I Want Is You                                                                                       | Miguel                                                             | 💚       |
-| So Sick                                        | In My Own Words                                                                                         | Ne-Yo                                                              |         |
-| Swalla (feat. Nicki Minaj & Ty Dolla $ign)     | Swalla (feat. Nicki Minaj & Ty Dolla $ign)                                                              | Nicki Minaj, Jason Derulo, Ty Dolla $ign                           | 💚       |
-| At My Worst                                    | The Prelude                                                                                             | Pink Sweat$                                                        | 💚       |
-| Love On The Brain                              | ANTI (Deluxe)                                                                                           | [Rihanna](../artists/rihanna.md)                                   | 💚       |
-| Disturbia                                      | Good Girl Gone Bad: Reloaded                                                                            | [Rihanna](../artists/rihanna.md)                                   | 💚       |
-| Don't Stop The Music                           | Good Girl Gone Bad: Reloaded                                                                            | [Rihanna](../artists/rihanna.md)                                   | 💚       |
-| S&M                                            | Loud                                                                                                    | [Rihanna](../artists/rihanna.md)                                   | 💚       |
-| Watch n' Learn                                 | Talk That Talk                                                                                          | [Rihanna](../artists/rihanna.md)                                   | 💚       |
-| What Now                                       | Unapologetic                                                                                            | [Rihanna](../artists/rihanna.md)                                   | 💚       |
-| Half Of Me                                     | Unapologetic (Deluxe)                                                                                   | [Rihanna](../artists/rihanna.md)                                   |         |
-| Umbrella                                       | Good Girl Gone Bad: Reloaded                                                                            | [Rihanna](../artists/rihanna.md), JAY-Z                            |         |
-| Stay                                           | Unapologetic                                                                                            | [Rihanna](../artists/rihanna.md), Mikky Ekko                       | 💚       |
-| When I Get You Alone                           | A Beautiful World                                                                                       | Robin Thicke                                                       | 💚       |
-| For Once In My Life                            | For Once In My Life                                                                                     | Stevie Wonder                                                      | 💚       |
-| Signed, Sealed, Delivered (I'm Yours)          | Signed, Sealed And Delivered                                                                            | Stevie Wonder                                                      | 💚       |
-| Isn't She Lovely                               | Songs In The Key Of Life                                                                                | Stevie Wonder                                                      |         |
-| Superstition - Single Version                  | The Definitive Collection                                                                               | Stevie Wonder                                                      | 💚       |
-| Build Me Up Buttercup - Mono                   | The Foundations                                                                                         | The Foundations                                                    |         |
-| Papa Was A Rollin' Stone - Single Version      | 20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s | The Temptations                                                    |         |
-| Ain't Too Proud To Beg                         | Gettin' Ready (Expanded Edition)                                                                        | The Temptations                                                    |         |
-| The Way You Do The Things You Do               | Meet The Temptations                                                                                    | The Temptations                                                    |         |
-| My Girl                                        | The Temptations Sing Smokey                                                                             | The Temptations                                                    | 💚       |
-| Blinding Lights                                | After Hours                                                                                             | The Weeknd                                                         | 💚       |
-| Bubblegum (feat. Tyga)                         | Tattoos (Deluxe Edition)                                                                                | Tyga, Jason Derulo                                                 | 💚       |
-| There Goes My Baby                             | Raymond v Raymond (Expanded Edition)                                                                    | Usher                                                              | 💚       |
-| Yeah! (feat. Lil Jon & Ludacris)               | Confessions (Expanded Edition)                                                                          | Usher, Lil Jon, Ludacris                                           |         |
-| DJ Got Us Fallin' In Love (feat. Pitbull)      | Raymond v Raymond (Expanded Edition)                                                                    | Usher, Pitbull                                                     | 💚       |
+| Track                                          | Album                                                                                                   | Artists                                                            | 💚   | 🔗                                                          |
+|:-----------------------------------------------|:--------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------|:----|:-----------------------------------------------------------|
+| Best Thing I Never Had                         | 4                                                                                                       | [Beyoncé](../artists/beyonc_.md)                                   |     | [🔗](https://open.spotify.com/track/3lBRNqXjPp2j3JMTCXDTNO) |
+| Countdown                                      | 4                                                                                                       | [Beyoncé](../artists/beyonc_.md)                                   | 💚   | [🔗](https://open.spotify.com/track/3axkNosdVQLZiq1HakuGhc) |
+| I Was Here                                     | 4                                                                                                       | [Beyoncé](../artists/beyonc_.md)                                   | 💚   | [🔗](https://open.spotify.com/track/64Tp4KN5U5rtqrasP5a7FH) |
+| Love On Top                                    | 4                                                                                                       | [Beyoncé](../artists/beyonc_.md)                                   | 💚   | [🔗](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) |
+| Irreplaceable                                  | B'Day Deluxe Edition                                                                                    | [Beyoncé](../artists/beyonc_.md)                                   |     | [🔗](https://open.spotify.com/track/6RX5iL93VZ5fKmyvNXvF1r) |
+| Listen (From the Motion Picture "Dreamgirls")  | B'Day Deluxe Edition                                                                                    | [Beyoncé](../artists/beyonc_.md)                                   | 💚   | [🔗](https://open.spotify.com/track/4z7Ja0RNran3XpIvc1PIQz) |
+| Ave Maria                                      | I AM...SASHA FIERCE                                                                                     | [Beyoncé](../artists/beyonc_.md)                                   |     | [🔗](https://open.spotify.com/track/1j9HwUMSkRUeVFRWlHcFsy) |
+| Halo                                           | I AM...SASHA FIERCE                                                                                     | [Beyoncé](../artists/beyonc_.md)                                   | 💚   | [🔗](https://open.spotify.com/track/3ERa3mEeOnrh2Mc47qM6T1) |
+| If I Were a Boy                                | I AM...SASHA FIERCE                                                                                     | [Beyoncé](../artists/beyonc_.md)                                   | 💚   | [🔗](https://open.spotify.com/track/26NX1wPt1TRCH536yocd6i) |
+| Sweet Dreams                                   | I AM...SASHA FIERCE                                                                                     | [Beyoncé](../artists/beyonc_.md)                                   |     | [🔗](https://open.spotify.com/track/1FKxKGONukVFXWVJxAKmlz) |
+| Daddy Lessons                                  | Lemonade                                                                                                | [Beyoncé](../artists/beyonc_.md)                                   | 💚   | [🔗](https://open.spotify.com/track/71OvX5NNLrmz7rpq1ANTQn) |
+| Hold Up                                        | Lemonade                                                                                                | [Beyoncé](../artists/beyonc_.md)                                   |     | [🔗](https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7) |
+| I'd Rather Go Blind                            | Music From The Motion Picture Cadillac Records                                                          | [Beyoncé](../artists/beyonc_.md)                                   | 💚   | [🔗](https://open.spotify.com/track/45eZSR0jA15KPI2HXVSifw) |
+| Crazy In Love (feat. Jay-Z)                    | Dangerously In Love                                                                                     | [Beyoncé](../artists/beyonc_.md), JAY-Z                            |     | [🔗](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) |
+| Hit 'Em Up Style (Oops!)                       | Bittersweet                                                                                             | Blu Cantrell                                                       | 💚   | [🔗](https://open.spotify.com/track/3flAV51ACbtIcEixb0QeZv) |
+| 24K Magic                                      | 24K Magic                                                                                               | [Bruno Mars](../artists/bruno_mars.md)                             |     | [🔗](https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P) |
+| Finesse                                        | 24K Magic                                                                                               | [Bruno Mars](../artists/bruno_mars.md)                             | 💚   | [🔗](https://open.spotify.com/track/5XMkENs3GfeRza8MfVAhjK) |
+| That's What I Like                             | 24K Magic                                                                                               | [Bruno Mars](../artists/bruno_mars.md)                             | 💚   | [🔗](https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU) |
+| Grenade                                        | Doo-Wops & Hooligans                                                                                    | [Bruno Mars](../artists/bruno_mars.md)                             | 💚   | [🔗](https://open.spotify.com/track/2tJulUYLDKOg9XrtVkMgcJ) |
+| Locked out of Heaven                           | Unorthodox Jukebox                                                                                      | [Bruno Mars](../artists/bruno_mars.md)                             | 💚   | [🔗](https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh) |
+| When I Was Your Man                            | Unorthodox Jukebox                                                                                      | [Bruno Mars](../artists/bruno_mars.md)                             | 💚   | [🔗](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) |
+| Leave The Door Open                            | Leave The Door Open                                                                                     | [Bruno Mars](../artists/bruno_mars.md), Anderson .Paak, Silk Sonic | 💚   | [🔗](https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh) |
+| Finesse - Remix; feat. Cardi B                 | Finesse (Remix) [feat. Cardi B]                                                                         | [Bruno Mars](../artists/bruno_mars.md), Cardi B                    | 💚   | [🔗](https://open.spotify.com/track/3Vo4wInECJQuz9BIBMOu8i) |
+| We Found Love                                  | Talk That Talk                                                                                          | Calvin Harris, [Rihanna](../artists/rihanna.md)                    | 💚   | [🔗](https://open.spotify.com/track/0U10zFw4GlBacOy9VDGfGL) |
+| Me & U                                         | Cassie (U.S. Version)                                                                                   | Cassie                                                             |     | [🔗](https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT) |
+| The Other Side (feat. CeeLo Green and B.o.B)   | Doo-Wops & Hooligans                                                                                    | CeeLo Green, [Bruno Mars](../artists/bruno_mars.md), B.o.B         | 💚   | [🔗](https://open.spotify.com/track/0HasfWMrNxTjycDy9TkRtA) |
+| Easy                                           | Commodores                                                                                              | Commodores                                                         | 💚   | [🔗](https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA) |
+| Put Your Records On                            | Corinne Bailey Rae                                                                                      | Corinne Bailey Rae                                                 | 💚   | [🔗](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) |
+| Who Hurt You?                                  | Who Hurt You?                                                                                           | Daniel Caesar                                                      | 💚   | [🔗](https://open.spotify.com/track/23c9gmiiv7RCu7twft0Mym) |
+| Best Part (feat. H.E.R.)                       | Freudian                                                                                                | Daniel Caesar, H.E.R.                                              | 💚   | [🔗](https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux) |
+| Tomboy                                         | Tomboy                                                                                                  | Destiny Rogers                                                     | 💚   | [🔗](https://open.spotify.com/track/5Ti3fqGTfjUsSdylFNy0Ng) |
+| Bootylicious                                   | Survivor                                                                                                | Destiny's Child                                                    |     | [🔗](https://open.spotify.com/track/31CsLSgn0HdZEVC8Bnnmvr) |
+| Boss Bitch                                     | Boss Bitch                                                                                              | Doja Cat                                                           | 💚   | [🔗](https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k) |
+| If I Go                                        | Ella Eyre                                                                                               | Ella Eyre                                                          | 💚   | [🔗](https://open.spotify.com/track/5JO7yGfeJKYjbOXRRdNk64) |
+| I'd Rather Go Blind                            | Tell Mama                                                                                               | Etta James                                                         | 💚   | [🔗](https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL) |
+| Thinkin Bout You                               | channel ORANGE                                                                                          | Frank Ocean                                                        | 💚   | [🔗](https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau) |
+| Crazy                                          | St. Elsewhere                                                                                           | Gnarls Barkley                                                     | 💚   | [🔗](https://open.spotify.com/track/2N5zMZX7YeL1tico8oQxa9) |
+| How Can I                                      | How Can I                                                                                               | H 3 F                                                              | 💚   | [🔗](https://open.spotify.com/track/3Ka0IJwEvxI3ssqbF48SWZ) |
+| Unknown (To You)                               | Village                                                                                                 | Jacob Banks                                                        | 💚   | [🔗](https://open.spotify.com/track/4jDDaKTqcZQWvgubuW6N7l) |
+| I Like That                                    | Dirty Computer                                                                                          | Janelle Monáe                                                      | 💚   | [🔗](https://open.spotify.com/track/2EznBGrlmx9wBeYgyDojsA) |
+| Make Me Feel                                   | Dirty Computer                                                                                          | Janelle Monáe                                                      | 💚   | [🔗](https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH) |
+| Sincerely, Jane                                | Metropolis: The Chase Suite (Special Edition)                                                           | Janelle Monáe                                                      | 💚   | [🔗](https://open.spotify.com/track/06I6iDFVtZDGcRu9BgHraA) |
+| Tightrope (feat. Big Boi) - Big Boi Vocal Edit | The ArchAndroid                                                                                         | Janelle Monáe, Big Boi                                             | 💚   | [🔗](https://open.spotify.com/track/1ljzHUgt2SU2ADkhfa9eBC) |
+| Yoga                                           | Yoga                                                                                                    | Janelle Monáe, Jidenna                                             | 💚   | [🔗](https://open.spotify.com/track/3IJCSQoLF4YzPAKaxq2JLb) |
+| Get Ugly                                       | Everything Is 4                                                                                         | Jason Derulo                                                       | 💚   | [🔗](https://open.spotify.com/track/1dl3vuXJS9anUXE7XnNP75) |
+| Trumpets                                       | Talk Dirty                                                                                              | Jason Derulo                                                       | 💚   | [🔗](https://open.spotify.com/track/5KONnBIQ9LqCxyeSPin26k) |
+| Talk Dirty (feat. 2 Chainz)                    | Talk Dirty                                                                                              | Jason Derulo, 2 Chainz                                             | 💚   | [🔗](https://open.spotify.com/track/6g6A7qNhTfUgOSH7ROOxTD) |
+| Coño                                           | Coño                                                                                                    | Jason Derulo, Puri, Jhorrmountain                                  | 💚   | [🔗](https://open.spotify.com/track/5DV4ZSCqbFv74ui3ZhimXo) |
+| Baby Powder                                    | Baby Powder                                                                                             | Jenevieve                                                          | 💚   | [🔗](https://open.spotify.com/track/7t4ihBlcMdkyUeO6W1DfYH) |
+| All of Me                                      | Love In The Future (Expanded Edition)                                                                   | John Legend                                                        | 💚   | [🔗](https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a) |
+| Preach                                         | Preach                                                                                                  | John Legend                                                        |     | [🔗](https://open.spotify.com/track/2AaF78iCWISMWYog5RnSi5) |
+| Green Light (feat. André 3000)                 | Evolver                                                                                                 | John Legend, André 3000                                            | 💚   | [🔗](https://open.spotify.com/track/72by3Re4C3eVEBXvsUo0zV) |
+| I Don't Mind (feat. Juicy J)                   | I Don't Mind (feat. Juicy J)                                                                            | Juicy J, Usher                                                     | 💚   | [🔗](https://open.spotify.com/track/7aXuop4Qambx5Oi3ynsKQr) |
+| MONTERO (Call Me By Your Name)                 | MONTERO (Call Me By Your Name)                                                                          | Lil Nas X                                                          | 💚   | [🔗](https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd) |
+| Truth Hurts                                    | Cuz I Love You (Deluxe)                                                                                 | Lizzo                                                              | 💚   | [🔗](https://open.spotify.com/track/5qmq61DAAOUaW8AUo8xKhh) |
+| Sure Thing                                     | All I Want Is You                                                                                       | Miguel                                                             | 💚   | [🔗](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) |
+| So Sick                                        | In My Own Words                                                                                         | Ne-Yo                                                              |     | [🔗](https://open.spotify.com/track/6brl7bwOHmGFkNw3MBqssT) |
+| Swalla (feat. Nicki Minaj & Ty Dolla $ign)     | Swalla (feat. Nicki Minaj & Ty Dolla $ign)                                                              | Nicki Minaj, Jason Derulo, Ty Dolla $ign                           | 💚   | [🔗](https://open.spotify.com/track/6kex4EBAj0WHXDKZMEJaaF) |
+| At My Worst                                    | The Prelude                                                                                             | Pink Sweat$                                                        | 💚   | [🔗](https://open.spotify.com/track/0ri0Han4IRJhzvERHOZTMr) |
+| Love On The Brain                              | ANTI (Deluxe)                                                                                           | [Rihanna](../artists/rihanna.md)                                   | 💚   | [🔗](https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp) |
+| Disturbia                                      | Good Girl Gone Bad: Reloaded                                                                            | [Rihanna](../artists/rihanna.md)                                   | 💚   | [🔗](https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc) |
+| Don't Stop The Music                           | Good Girl Gone Bad: Reloaded                                                                            | [Rihanna](../artists/rihanna.md)                                   | 💚   | [🔗](https://open.spotify.com/track/0ByMNEPAPpOR5H69DVrTNy) |
+| S&M                                            | Loud                                                                                                    | [Rihanna](../artists/rihanna.md)                                   | 💚   | [🔗](https://open.spotify.com/track/08Bfk5Y2S5fCxgxk371Eel) |
+| Watch n' Learn                                 | Talk That Talk                                                                                          | [Rihanna](../artists/rihanna.md)                                   | 💚   | [🔗](https://open.spotify.com/track/1ROCX1nquOZ5i05YfGysu0) |
+| What Now                                       | Unapologetic                                                                                            | [Rihanna](../artists/rihanna.md)                                   | 💚   | [🔗](https://open.spotify.com/track/5I6KaV4xAc6ZYyOgEtp6dc) |
+| Half Of Me                                     | Unapologetic (Deluxe)                                                                                   | [Rihanna](../artists/rihanna.md)                                   |     | [🔗](https://open.spotify.com/track/4bXImuY3OhNXhbQbVLFHKp) |
+| Umbrella                                       | Good Girl Gone Bad: Reloaded                                                                            | [Rihanna](../artists/rihanna.md), JAY-Z                            |     | [🔗](https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux) |
+| Stay                                           | Unapologetic                                                                                            | [Rihanna](../artists/rihanna.md), Mikky Ekko                       | 💚   | [🔗](https://open.spotify.com/track/1AoKQqqkNTpmWqW8HKs8oL) |
+| When I Get You Alone                           | A Beautiful World                                                                                       | Robin Thicke                                                       | 💚   | [🔗](https://open.spotify.com/track/1jzWQHcMT8rxvgUjUiqGIH) |
+| For Once In My Life                            | For Once In My Life                                                                                     | Stevie Wonder                                                      |     | [🔗](https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK) |
+| Signed, Sealed, Delivered (I'm Yours)          | Signed, Sealed And Delivered                                                                            | Stevie Wonder                                                      | 💚   | [🔗](https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc) |
+| Isn't She Lovely                               | Songs In The Key Of Life                                                                                | Stevie Wonder                                                      |     | [🔗](https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH) |
+| Superstition - Single Version                  | The Definitive Collection                                                                               | Stevie Wonder                                                      | 💚   | [🔗](https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd) |
+| Build Me Up Buttercup - Mono                   | The Foundations                                                                                         | The Foundations                                                    |     | [🔗](https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC) |
+| Papa Was A Rollin' Stone - Single Version      | 20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s | The Temptations                                                    |     | [🔗](https://open.spotify.com/track/7MiLmLbwNoyf47xQ4TCVYp) |
+| Ain't Too Proud To Beg                         | Gettin' Ready (Expanded Edition)                                                                        | The Temptations                                                    |     | [🔗](https://open.spotify.com/track/4CoGNqLap7UGU5Q3VdKug0) |
+| The Way You Do The Things You Do               | Meet The Temptations                                                                                    | The Temptations                                                    |     | [🔗](https://open.spotify.com/track/3496rr5XSGD6n1Z1OKXovb) |
+| My Girl                                        | The Temptations Sing Smokey                                                                             | The Temptations                                                    | 💚   | [🔗](https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH) |
+| Blinding Lights                                | After Hours                                                                                             | The Weeknd                                                         | 💚   | [🔗](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) |
+| Bubblegum (feat. Tyga)                         | Tattoos (Deluxe Edition)                                                                                | Tyga, Jason Derulo                                                 | 💚   | [🔗](https://open.spotify.com/track/1EujTZPE2yBYbbwu2vWXvr) |
+| There Goes My Baby                             | Raymond v Raymond (Expanded Edition)                                                                    | Usher                                                              | 💚   | [🔗](https://open.spotify.com/track/6IUiqtI8tE49sqGbmtrNd8) |
+| Yeah! (feat. Lil Jon & Ludacris)               | Confessions (Expanded Edition)                                                                          | Usher, Lil Jon, Ludacris                                           |     | [🔗](https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX) |
+| DJ Got Us Fallin' In Love (feat. Pitbull)      | Raymond v Raymond (Expanded Edition)                                                                    | Usher, Pitbull                                                     | 💚   | [🔗](https://open.spotify.com/track/4356Typ82hUiFAynbLYbPn) |
