@@ -19,6 +19,5 @@
 | Million Reasons                 | Joanne (Deluxe)                   |     | [🔗](https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo) |
 | La Vie En Rose                  | A Star Is Born Soundtrack         | 💚   | [🔗](https://open.spotify.com/track/3WKnfkgwrARwElktHSU5Ik) |
 | Look What I Found               | A Star Is Born Soundtrack         | 💚   | [🔗](https://open.spotify.com/track/1l9G7M8gNyQsgOGWZGoQsT) |
-| Sour Candy (with BLACKPINK)     | Sour Candy (with BLACKPINK)       | 💚   | [🔗](https://open.spotify.com/track/6R6ZoHTypt5lt68MWbzZXv) |
 | Rain On Me (with Ariana Grande) | Chromatica                        |     | [🔗](https://open.spotify.com/track/7ju97lgwC2rKQ6wwsf9no9) |
-| Sour Candy (with BLACKPINK)     | Chromatica                        |     | [🔗](https://open.spotify.com/track/1IWNylpZ477gIVUDpJL66u) |
+| Sour Candy (with BLACKPINK)     | Chromatica                        | 💚   | [🔗](https://open.spotify.com/track/1IWNylpZ477gIVUDpJL66u) |

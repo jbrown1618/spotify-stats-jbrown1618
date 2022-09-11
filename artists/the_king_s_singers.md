@@ -17,8 +17,6 @@
 | The Circle of Life             | Circle Of Life                  |     | [🔗](https://open.spotify.com/track/3jzAbk9K5I1n8zlPeptNxD) |
 | Lullabye (Goodnight My Angel)  | The King's Singers Collection   |     | [🔗](https://open.spotify.com/track/32ruFNP2hO8fPpfmRewbwV) |
 | All I Ask of You               | Cappella                        |     | [🔗](https://open.spotify.com/track/5JTRLqApDZKaIwcopt1d9p) |
-| And So It Goes                 | Cappella                        |     | [🔗](https://open.spotify.com/track/6oFO1RXQZTdqXxh0Zw8xwp) |
 | Ave Maria                      | Cappella                        |     | [🔗](https://open.spotify.com/track/6xBGuah2AMT6y5S0HlztUU) |
 | Good Vibrations                | Cappella                        |     | [🔗](https://open.spotify.com/track/14LgsPIZ7xKsfkM50VjxuA) |
-| The Boxer                      | Cappella                        |     | [🔗](https://open.spotify.com/track/14WHMIVLmxzXUXAYrACaxD) |
 | Shenandoah - Arr. Bob Chilcott | Gold                            |     | [🔗](https://open.spotify.com/track/7vhTfs9QoqqPowjORyHnvj) |

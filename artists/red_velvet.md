@@ -19,7 +19,6 @@
 | Lucky Girl                | Russian Roulette - The 3rd Mini Album            | 💚   | [🔗](https://open.spotify.com/track/22v5j98MRwc6p5KgwHvpBZ) |
 | 러시안 룰렛 Russian Roulette   | Russian Roulette - The 3rd Mini Album            | 💚   | [🔗](https://open.spotify.com/track/5HiSc2ZCGn8L3cH3qSwzBT) |
 | Body Talk                 | Rookie - The 4th Mini Album                      | 💚   | [🔗](https://open.spotify.com/track/3CihjB4pu58o2ititZw9Yg) |
-| Rookie                    | Rookie - The 4th Mini Album                      |     | [🔗](https://open.spotify.com/track/5ubfQzhabDSLYyohz2ozaN) |
 | Rookie                    | Rookie - The 4th Mini Album                      |     | [🔗](https://open.spotify.com/track/69xdFGM7SJkbDf77s0gJEl) |
 | Red Flavor                | The Red Summer - Summer Mini Album               | 💚   | [🔗](https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO) |
 | You Better Know           | The Red Summer - Summer Mini Album               |     | [🔗](https://open.spotify.com/track/59fJbRecO16BIw9L1neEug) |
@@ -42,13 +41,10 @@
 | Sunny Side Up!            | ‘The ReVe Festival’ Day 1                        | 💚   | [🔗](https://open.spotify.com/track/5yGTiC0ypN09P4Nl6tE3FY) |
 | Eyes Locked, Hands Locked | ‘The ReVe Festival’ Day 2                        | 💚   | [🔗](https://open.spotify.com/track/4o6LdaI3q5QFjs0sziszsD) |
 | Umpah Umpah               | ‘The ReVe Festival’ Day 2                        | 💚   | [🔗](https://open.spotify.com/track/5qSoW3ewNlhRN3FNZPmVns) |
-| Bing Bing                 | ‘The ReVe Festival’ Finale                       | 💚   | [🔗](https://open.spotify.com/track/0tHkBl71ZHXaFdc0sNGQHz) |
-| Eyes Locked, Hands Locked | ‘The ReVe Festival’ Finale                       |     | [🔗](https://open.spotify.com/track/5vdqSjUj9JZsAHdr02Vygk) |
 | In & Out                  | ‘The ReVe Festival’ Finale                       | 💚   | [🔗](https://open.spotify.com/track/2iYnEfKsAsE86Yb9mS4b3E) |
 | Jumpin'                   | ‘The ReVe Festival’ Finale                       |     | [🔗](https://open.spotify.com/track/3q21kVfUIdkzqYpzBCbojN) |
 | La Rouge - Special Track  | ‘The ReVe Festival’ Finale                       | 💚   | [🔗](https://open.spotify.com/track/1O7qPyMtudzP3APaOT2OTH) |
 | Psycho                    | ‘The ReVe Festival’ Finale                       | 💚   | [🔗](https://open.spotify.com/track/3CYH422oy1cZNoo0GTG1TK) |
-| Sunny Side Up!            | ‘The ReVe Festival’ Finale                       |     | [🔗](https://open.spotify.com/track/782QoB4jJ7hEVJmkYzVrRE) |
 | Zimzalabim                | ‘The ReVe Festival’ Finale                       | 💚   | [🔗](https://open.spotify.com/track/2cvi3IRTibXzmAm4f8P2HP) |
 | Milky Way                 | Our Beloved BoA #4 - SM STATION                  | 💚   | [🔗](https://open.spotify.com/track/2Oj5hRhkJH00VGzjBdQNq3) |
 | Better Be                 | Queendom - The 6th Mini Album                    | 💚   | [🔗](https://open.spotify.com/track/5NIjdxrVUW4GGyLIqXUw9K) |

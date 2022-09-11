@@ -23,7 +23,6 @@
 | Valentine                                             | PTX, Vol. 2                             | 💚   | [🔗](https://open.spotify.com/track/5djjmpqAOlne6d5RSHQmvu) |
 | Radioactive                                           | PTX                                     | 💚   | [🔗](https://open.spotify.com/track/7dJGehjbhJvs3K4fWwYTW1) |
 | Say Something                                         | PTX                                     |     | [🔗](https://open.spotify.com/track/2SrJ0Iw6GobiRGyh2XKZhV) |
-| Somebody That I Used to Know                          | PTX                                     |     | [🔗](https://open.spotify.com/track/1S8uwRgAnR028rfWdm4hhO) |
 | La La Latch (Sam Smith/Disclosure/Naughty Boy Mashup) | PTX, Vol. III                           | 💚   | [🔗](https://open.spotify.com/track/6fOqEAXCwboCO4BdzbZG1K) |
 | Papaoutai (Stromae Cover) (feat. Lindsey Stirling)    | PTX, Vol. III                           | 💚   | [🔗](https://open.spotify.com/track/4LeTorR5FyWgxM3zZI7Qii) |
 | Problem (Ariana Grande Cover)                         | PTX, Vol. III                           | 💚   | [🔗](https://open.spotify.com/track/45h4cCw7ccsRXb0Orle2an) |
@@ -36,15 +35,12 @@
 | Na Na Na                                              | Pentatonix (Deluxe Version)             |     | [🔗](https://open.spotify.com/track/6v08G3CGcoyiODIWZoOxR4) |
 | Dance of the Sugar Plum Fairy                         | That's Christmas To Me (Deluxe Edition) |     | [🔗](https://open.spotify.com/track/0u0TlASkQWH2bGIZRu0HLh) |
 | Let It Go                                             | That's Christmas To Me (Deluxe Edition) |     | [🔗](https://open.spotify.com/track/2G7K3Op9y3HhqrF2TdHP95) |
-| Hallelujah                                            | Hallelujah                              |     | [🔗](https://open.spotify.com/track/0LsRGxeE8zZjzOV5QrR8G2) |
 | Can't Help Falling In Love                            | PTX Vol. IV - Classics                  | 💚   | [🔗](https://open.spotify.com/track/1xKScU3i8ho0OIhNoC5YW9) |
 | Imagine                                               | PTX Vol. IV - Classics                  | 💚   | [🔗](https://open.spotify.com/track/1UaTmLT3nB1sNBfv1hkqU1) |
 | Over The Rainbow                                      | PTX Vol. IV - Classics                  | 💚   | [🔗](https://open.spotify.com/track/7MefjVBQqdV6XRXBlWejTQ) |
 | Hallelujah                                            | A Pentatonix Christmas Deluxe           |     | [🔗](https://open.spotify.com/track/0HZk0QsXPhMNAWNDR3rYE8) |
-| Havana                                                | Havana                                  | 💚   | [🔗](https://open.spotify.com/track/5vLmZ6ya1RGLoLeNwA82hY) |
-| Attention                                             | Attention                               |     | [🔗](https://open.spotify.com/track/6GXSUulN01V3aceEjovzqL) |
 | Attention                                             | PTX Presents: Top Pop, Vol. I           |     | [🔗](https://open.spotify.com/track/5P40YyCrdZRsoj2vTbSyVI) |
 | Finesse                                               | PTX Presents: Top Pop, Vol. I           |     | [🔗](https://open.spotify.com/track/4GfCvy3t1u4lMAFldhB7EF) |
-| Havana                                                | PTX Presents: Top Pop, Vol. I           |     | [🔗](https://open.spotify.com/track/0wkiCJqCtI8keITfZ642jg) |
+| Havana                                                | PTX Presents: Top Pop, Vol. I           | 💚   | [🔗](https://open.spotify.com/track/0wkiCJqCtI8keITfZ642jg) |
 | Sweater Weather                                       | Christmas Is Here!                      |     | [🔗](https://open.spotify.com/track/50YYe94G19kWVyhzdEXxki) |
 | The Sound of Silence                                  | The Sound of Silence                    |     | [🔗](https://open.spotify.com/track/0ZFeVCKCMCXUQ1TKVd2azW) |

@@ -39,5 +39,4 @@
 | Lullaby                      | Legendary Covers, Vol. 1                                            |     | [🔗](https://open.spotify.com/track/6vqc1KcIaO0NmQLaAJApqe) |
 | Over the Rainbow             | Legendary Covers, Vol. 1                                            |     | [🔗](https://open.spotify.com/track/76ko6F6QRmiviFILuF9g6J) |
 | The Prayer                   | Legendary Covers, Vol. 1                                            |     | [🔗](https://open.spotify.com/track/22NQSPn3K3NUzoVe4zbQWU) |
-| The Sound of Silence         | Legendary Covers, Vol. 1                                            |     | [🔗](https://open.spotify.com/track/19ZmmtsRITqrh7aBPdpyNz) |
 | You Raise Me Up - A Cappella | Legendary Covers, Vol. 1                                            |     | [🔗](https://open.spotify.com/track/57EvTXkeuxNPWxQYIdW5AY) |

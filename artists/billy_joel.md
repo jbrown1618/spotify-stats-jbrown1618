@@ -31,4 +31,3 @@
 | And So It Goes                    | Good Vibrations               |     | [🔗](https://open.spotify.com/track/1v8w3Ve0EYhy8cMlRR92QM) |
 | Lullabye (Goodnight, My Angel)    | River Of Dreams               | 💚   | [🔗](https://open.spotify.com/track/4cURHmiuYii52BVbhrGbv0) |
 | The River of Dreams               | River Of Dreams               |     | [🔗](https://open.spotify.com/track/30qVCFYKBtAENjTIBA8FPZ) |
-| And So It Goes                    | Cappella                      |     | [🔗](https://open.spotify.com/track/6oFO1RXQZTdqXxh0Zw8xwp) |

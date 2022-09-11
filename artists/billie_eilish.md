@@ -17,5 +17,4 @@
 | you should see me in a crown | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | 💚   | [🔗](https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d) |
 | everything i wanted          | everything i wanted                      | 💚   | [🔗](https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ) |
 | No Time To Die               | No Time To Die                           | 💚   | [🔗](https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR) |
-| Therefore I Am               | Therefore I Am                           | 💚   | [🔗](https://open.spotify.com/track/54bFM56PmE4YLRnqpW6Tha) |
 | Therefore I Am               | Happier Than Ever                        | 💚   | [🔗](https://open.spotify.com/track/20R4HfKloPKgXDqU7UKk3x) |

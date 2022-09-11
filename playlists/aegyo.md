@@ -1,11 +1,11 @@
 # Aegyo
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d0000b2731544041d0285585cc92c2709ab67616d0000b27318d0ed4f969b376893f9a38fab67616d0000b27335cdd6d3f5815afac043758eab67616d0000b273714e56679ab196354e2e443e" alt="Aegyo" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d0000b2731544041d0285585cc92c2709ab67616d0000b27335cdd6d3f5815afac043758eab67616d0000b2734a6096741dcf413354a59554ab67616d0000b273714e56679ab196354e2e443e" alt="Aegyo" width="100" />
 
 ## Top Artists
 
-![Bar chart of top 18 artists in Aegyo](../images/playlists/aegyo/artists.png)
+![Bar chart of top 16 artists in Aegyo](../images/playlists/aegyo/artists.png)
 
 
 <details>
@@ -23,8 +23,6 @@
 |                  1 | WJSN                                                 | [🔗](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) |
 |                  1 | [aespa](../artists/aespa.md)                         | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 |                  1 | IZ*ONE                                               | [🔗](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) |
-|                  1 | [BTS](../artists/bts.md)                             | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
-|                  1 | Halsey                                               | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
 |                  1 | TFBOYS                                               | [🔗](https://open.spotify.com/artist/1dywcVTpMrP7VmQUhngSce) |
 |                  1 | Natti Natasha                                        | [🔗](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) |
 |                  1 | JOY                                                  | [🔗](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) |
@@ -40,7 +38,6 @@
 | Track                              | Album                                     | Artists                                              | 💚   | 🔗                                                          |
 |:-----------------------------------|:------------------------------------------|:-----------------------------------------------------|:----|:-----------------------------------------------------------|
 | Life's Too Short (English Version) | Life's Too Short                          | [aespa](../artists/aespa.md)                         | 💚   | [🔗](https://open.spotify.com/track/2mgzUVvDpb1zMSB4glLQ6T) |
-| Boy With Luv (feat. Halsey)        | MAP OF THE SOUL : PERSONA                 | [BTS](../artists/bts.md), Halsey                     |     | [🔗](https://open.spotify.com/track/5KawlOMHjWeUjQtnuRs22c) |
 | Not For Sale                       | BORDER : CARNIVAL                         | [ENHYPEN](../artists/enhypen.md)                     | 💚   | [🔗](https://open.spotify.com/track/3dG1jxbfBIZvzyFwAcsmS0) |
 | 10 Months                          | BORDER : DAY ONE                          | [ENHYPEN](../artists/enhypen.md)                     | 💚   | [🔗](https://open.spotify.com/track/3LcFQsZw01tRvjCNLgSmTv) |
 | Let Me In (20 CUBE)                | BORDER : DAY ONE                          | [ENHYPEN](../artists/enhypen.md)                     | 💚   | [🔗](https://open.spotify.com/track/4eOcd47wPU3ixxYw0spREl) |

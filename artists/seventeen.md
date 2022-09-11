@@ -19,7 +19,6 @@
 | Anyone          | SEVENTEEN 8th Mini Album 'Your Choice'    | 💚   | [🔗](https://open.spotify.com/track/12jngD7Hu6if6sIzPkO2k4) |
 | Ready to love   | SEVENTEEN 8th Mini Album 'Your Choice'    | 💚   | [🔗](https://open.spotify.com/track/2FymmKBuog0loCuNXMwQID) |
 | Rock with you   | SEVENTEEN 9th Mini Album 'Attacca'        | 💚   | [🔗](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) |
-| Darl+ing        | Darl+ing                                  |     | [🔗](https://open.spotify.com/track/6vo0dV9t7PCQZKsLFwVwZ5) |
 | Darl+ing        | SEVENTEEN 4th Album 'Face the Sun'        | 💚   | [🔗](https://open.spotify.com/track/2j1Es5qEl4pD8GEe2WsYgP) |
 | Domino          | SEVENTEEN 4th Album 'Face the Sun'        |     | [🔗](https://open.spotify.com/track/1sjObenL1HryPaQOiMDVZ9) |
 | HOT             | SEVENTEEN 4th Album 'Face the Sun'        | 💚   | [🔗](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) |

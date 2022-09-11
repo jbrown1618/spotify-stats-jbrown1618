@@ -23,4 +23,3 @@
 | Love On Top                                   | 4                                              | 💚   | [🔗](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) |
 | Daddy Lessons                                 | Lemonade                                       | 💚   | [🔗](https://open.spotify.com/track/71OvX5NNLrmz7rpq1ANTQn) |
 | Hold Up                                       | Lemonade                                       |     | [🔗](https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7) |
-| Savage Remix (feat. Beyoncé)                  | Savage Remix (feat. Beyoncé)                   |     | [🔗](https://open.spotify.com/track/5v4GgrXPMghOnBBLmveLac) |

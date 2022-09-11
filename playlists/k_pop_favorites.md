@@ -20,15 +20,15 @@
 |                  9 | [ITZY](../artists/itzy.md)                           | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                  7 | [aespa](../artists/aespa.md)                         | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 |                  6 | [ENHYPEN](../artists/enhypen.md)                     | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
+|                  6 | [BTS](../artists/bts.md)                             | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 |                  6 | [(G)I-DLE](../artists/_g_i_dle.md)                   | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 |                  5 | [TAEYEON](../artists/taeyeon.md)                     | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
-|                  5 | [Stray Kids](../artists/stray_kids.md)               | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 |                  5 | [CHUNG HA](../artists/chung_ha.md)                   | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
 |                  5 | [MAMAMOO](../artists/mamamoo.md)                     | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
 |                  5 | [Girls' Generation](../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 |                  4 | [SEVENTEEN](../artists/seventeen.md)                 | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
 |                  4 | [LeeHi](../artists/leehi.md)                         | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
-|                  4 | [BTS](../artists/bts.md)                             | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
+|                  4 | [Stray Kids](../artists/stray_kids.md)               | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 |                  3 | JEON SOYEON                                          | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
 |                  3 | [EXO](../artists/exo.md)                             | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
 |                  3 | NCT DREAM                                            | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
@@ -118,15 +118,17 @@
 | Pink Venom                                | Pink Venom                                       | [BLACKPINK](../artists/blackpink.md)                 | 💚   | [🔗](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) |
 | BOOMBAYAH                                 | SQUARE ONE                                       | [BLACKPINK](../artists/blackpink.md)                 | 💚   | [🔗](https://open.spotify.com/track/3yHQKddM8SVCRnuPSo3HPN) |
 | WHISTLE                                   | SQUARE ONE                                       | [BLACKPINK](../artists/blackpink.md)                 | 💚   | [🔗](https://open.spotify.com/track/7HWmJ1wBecOAMNGjC6SmKE) |
-| PLAYING WITH FIRE                         | SQUARE TWO                                       | [BLACKPINK](../artists/blackpink.md)                 | 💚   | [🔗](https://open.spotify.com/track/7e7VjLxO5xJINHvnRytrqi) |
+| PLAYING WITH FIRE                         | SQUARE TWO                                       | [BLACKPINK](../artists/blackpink.md)                 | 💚   | [🔗](https://open.spotify.com/track/7qmvLmX9tyaTiBAVNI6YEn) |
 | DDU-DU DDU-DU                             | SQUARE UP                                        | [BLACKPINK](../artists/blackpink.md)                 | 💚   | [🔗](https://open.spotify.com/track/7b8YOVV5quZcSKEijDgyWB) |
 | Crazy Over You                            | THE ALBUM                                        | [BLACKPINK](../artists/blackpink.md)                 | 💚   | [🔗](https://open.spotify.com/track/7qq0EOPW4RRlqdvMBmdd73) |
 | How You Like That                         | THE ALBUM                                        | [BLACKPINK](../artists/blackpink.md)                 | 💚   | [🔗](https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o) |
 | Love To Hate Me                           | THE ALBUM                                        | [BLACKPINK](../artists/blackpink.md)                 | 💚   | [🔗](https://open.spotify.com/track/7iKDsPfLT0d5mu2htfMKBZ) |
 | Pretty Savage                             | THE ALBUM                                        | [BLACKPINK](../artists/blackpink.md)                 | 💚   | [🔗](https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr) |
-| Telepathy                                 | BE                                               | [BTS](../artists/bts.md)                             | 💚   | [🔗](https://open.spotify.com/track/2FVpOsjT1iquZ3SpCjZ9Ne) |
+| Telepathy                                 | BE                                               | [BTS](../artists/bts.md)                             | 💚   | [🔗](https://open.spotify.com/track/6Fnvi5QnVkTskSzeRvvQds) |
+| Telepathy                                 | BE                                               | [BTS](../artists/bts.md)                             |     | [🔗](https://open.spotify.com/track/2FVpOsjT1iquZ3SpCjZ9Ne) |
 | Butter                                    | Butter                                           | [BTS](../artists/bts.md)                             | 💚   | [🔗](https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq) |
 | DNA                                       | Love Yourself 承 'Her'                            | [BTS](../artists/bts.md)                             | 💚   | [🔗](https://open.spotify.com/track/5SE57ljOIUJ1ybL9U6CuBH) |
+| DNA                                       | Love Yourself 結 'Answer'                         | [BTS](../artists/bts.md)                             | 💚   | [🔗](https://open.spotify.com/track/2ngmiq1KoYn3x25VOmvd8F) |
 | Black Swan                                | MAP OF THE SOUL : 7                              | [BTS](../artists/bts.md)                             | 💚   | [🔗](https://open.spotify.com/track/3bkkMZEAhx7rTVz1C0itRQ) |
 | WINE (Feat.Changmo) (Prod. SUGA)          | WINE                                             | CHANGMO, SURAN                                       | 💚   | [🔗](https://open.spotify.com/track/3eHkFA3StDR9BU7EVrUFLs) |
 | Snapping                                  | Flourishing                                      | [CHUNG HA](../artists/chung_ha.md)                   | 💚   | [🔗](https://open.spotify.com/track/7JCi89HGiURxFpr6NITY7q) |
@@ -242,8 +244,7 @@
 | SO BAD                                    | Star To A Young Culture                          | [STAYC](../artists/stayc.md)                         | 💚   | [🔗](https://open.spotify.com/track/13KR2yNRDrbKwR3dOKCDl4) |
 | RUN2U                                     | YOUNG-LUV.COM                                    | [STAYC](../artists/stayc.md)                         | 💚   | [🔗](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) |
 | CIRCUS                                    | CIRCUS                                           | [Stray Kids](../artists/stray_kids.md)               | 💚   | [🔗](https://open.spotify.com/track/2uw2ftfyS4yJLWiTtbxasE) |
-| God’s Menu                                | GO LIVE                                          | [Stray Kids](../artists/stray_kids.md)               |     | [🔗](https://open.spotify.com/track/0RzT9tBLcQhofW2TNiHP9B) |
-| Back Door                                 | IN LIFE                                          | [Stray Kids](../artists/stray_kids.md)               |     | [🔗](https://open.spotify.com/track/7I0vl97TYZW86qYdgcD1qu) |
+| Back Door                                 | IN LIFE                                          | [Stray Kids](../artists/stray_kids.md)               | 💚   | [🔗](https://open.spotify.com/track/0XuepwFJUcKN8T5zTqoP0F) |
 | Red Lights (Bang Chan, Hyunjin)           | NOEASY                                           | [Stray Kids](../artists/stray_kids.md)               | 💚   | [🔗](https://open.spotify.com/track/0LatE4S9UtCDwIdGQsFFKL) |
 | Thunderous                                | NOEASY                                           | [Stray Kids](../artists/stray_kids.md)               | 💚   | [🔗](https://open.spotify.com/track/0nwTMzpatarzvLvtwwzdCt) |
 | Gashina                                   | SUNMI SPECIAL EDITION [Gashina]                  | SUNMI                                                | 💚   | [🔗](https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST) |
