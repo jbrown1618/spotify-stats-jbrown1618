@@ -4,21 +4,41 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="Girls' Generation" width="100" />
 
+## Top Albums
+
+|   Number of Tracks | Art                                                                                              | Album                                   |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------|
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273aea29200523b1ee4d5b2c035" alt="" width="50" /> | FOREVER 1 - The 7th Album               |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2739b57e9b31c831fb2137c38e2" alt="" width="50" /> | Oh! - The Second Album                  |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dbe330e884acacdbb1e7987f" alt="" width="50" /> | The Boys                                |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273286903a9b4f8bce214f1dffa" alt="" width="50" /> | Run Devil Run - The 2nd Album Repackage |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27341e9e282e569b2279c2171de" alt="" width="50" /> | Mr. Mr. - The 4th Mini Album            |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737ce0130c09547c733984ba0e" alt="" width="50" /> | Lion Heart - The 5th Album              |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fd1f3849aaaf15112389a725" alt="" width="50" /> | I GOT A BOY - The 4th Album             |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ee58f0e04b175603c1f56668" alt="" width="50" /> | Holiday Night - The 6th Album           |
+
+## Top Record Labels
+
+|   Number of Tracks | Label                               |
+|-------------------:|:------------------------------------|
+|                 13 | SM Entertainment                    |
+|                  1 | Universal Music Group International |
+
 ## Tracks
 
-| Track          | Album                                   | 💚   | 🔗                                                          |
-|:---------------|:----------------------------------------|:----|:-----------------------------------------------------------|
-| Gee            | Oh! - The Second Album                  | 💚   | [🔗](https://open.spotify.com/track/0t7kjpVLgOYITrSfFCoBEA) |
-| Genie          | Oh! - The Second Album                  | 💚   | [🔗](https://open.spotify.com/track/6kN3vvzDiVZP2hiPA0ApMd) |
-| Oh!            | Oh! - The Second Album                  |     | [🔗](https://open.spotify.com/track/6VOG2ROMCklbn6SSg9mA9H) |
-| Run Devil Run  | Run Devil Run - The 2nd Album Repackage | 💚   | [🔗](https://open.spotify.com/track/0U9jNoTJeTxXToakhsb7pV) |
-| The Boys       | The Boys                                | 💚   | [🔗](https://open.spotify.com/track/0Me6SI6hgowLrZAKvtyVOg) |
-| I GOT A BOY    | I GOT A BOY - The 4th Album             | 💚   | [🔗](https://open.spotify.com/track/2WkPfNd237yc0l5KewCDpp) |
-| Mr.Mr.         | Mr. Mr. - The 4th Mini Album            | 💚   | [🔗](https://open.spotify.com/track/3JaMGQXJmtbAhvgl0nBPPN) |
-| Lion Heart     | Lion Heart - The 5th Album              | 💚   | [🔗](https://open.spotify.com/track/405SQUJdQut02dxtuQ0CZ3) |
-| Holiday        | Holiday Night - The 6th Album           |     | [🔗](https://open.spotify.com/track/1Bjy9ZtwMle3uhVgoBgiGN) |
-| Closer         | FOREVER 1 - The 7th Album               |     | [🔗](https://open.spotify.com/track/7JWXQE9QBQ8BAPFKAwnUWP) |
-| FOREVER 1      | FOREVER 1 - The 7th Album               | 💚   | [🔗](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) |
-| Freedom        | FOREVER 1 - The 7th Album               |     | [🔗](https://open.spotify.com/track/4ncRdOnJVY9uSFC74jFJOa) |
-| Villain        | FOREVER 1 - The 7th Album               | 💚   | [🔗](https://open.spotify.com/track/3FuL8QGYM7NWj9YWFCEc5W) |
-| You Better Run | FOREVER 1 - The 7th Album               | 💚   | [🔗](https://open.spotify.com/track/7AKKUOFQjjhFyjzvhtawsM) |
+| Art                                                                                              | Track          | Album                                   | Label                               | 💚   | 🔗                                                          |
+|:-------------------------------------------------------------------------------------------------|:---------------|:----------------------------------------|:------------------------------------|:----|:-----------------------------------------------------------|
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b57e9b31c831fb2137c38e2" alt="" width="50" /> | Gee            | Oh! - The Second Album                  | SM Entertainment                    | 💚   | [🔗](https://open.spotify.com/track/0t7kjpVLgOYITrSfFCoBEA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b57e9b31c831fb2137c38e2" alt="" width="50" /> | Genie          | Oh! - The Second Album                  | SM Entertainment                    | 💚   | [🔗](https://open.spotify.com/track/6kN3vvzDiVZP2hiPA0ApMd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b57e9b31c831fb2137c38e2" alt="" width="50" /> | Oh!            | Oh! - The Second Album                  | SM Entertainment                    |     | [🔗](https://open.spotify.com/track/6VOG2ROMCklbn6SSg9mA9H) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273286903a9b4f8bce214f1dffa" alt="" width="50" /> | Run Devil Run  | Run Devil Run - The 2nd Album Repackage | SM Entertainment                    | 💚   | [🔗](https://open.spotify.com/track/0U9jNoTJeTxXToakhsb7pV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dbe330e884acacdbb1e7987f" alt="" width="50" /> | The Boys       | The Boys                                | Universal Music Group International | 💚   | [🔗](https://open.spotify.com/track/0Me6SI6hgowLrZAKvtyVOg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fd1f3849aaaf15112389a725" alt="" width="50" /> | I GOT A BOY    | I GOT A BOY - The 4th Album             | SM Entertainment                    | 💚   | [🔗](https://open.spotify.com/track/2WkPfNd237yc0l5KewCDpp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27341e9e282e569b2279c2171de" alt="" width="50" /> | Mr.Mr.         | Mr. Mr. - The 4th Mini Album            | SM Entertainment                    | 💚   | [🔗](https://open.spotify.com/track/3JaMGQXJmtbAhvgl0nBPPN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737ce0130c09547c733984ba0e" alt="" width="50" /> | Lion Heart     | Lion Heart - The 5th Album              | SM Entertainment                    | 💚   | [🔗](https://open.spotify.com/track/405SQUJdQut02dxtuQ0CZ3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ee58f0e04b175603c1f56668" alt="" width="50" /> | Holiday        | Holiday Night - The 6th Album           | SM Entertainment                    |     | [🔗](https://open.spotify.com/track/1Bjy9ZtwMle3uhVgoBgiGN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aea29200523b1ee4d5b2c035" alt="" width="50" /> | Closer         | FOREVER 1 - The 7th Album               | SM Entertainment                    |     | [🔗](https://open.spotify.com/track/7JWXQE9QBQ8BAPFKAwnUWP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aea29200523b1ee4d5b2c035" alt="" width="50" /> | FOREVER 1      | FOREVER 1 - The 7th Album               | SM Entertainment                    | 💚   | [🔗](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aea29200523b1ee4d5b2c035" alt="" width="50" /> | Freedom        | FOREVER 1 - The 7th Album               | SM Entertainment                    |     | [🔗](https://open.spotify.com/track/4ncRdOnJVY9uSFC74jFJOa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aea29200523b1ee4d5b2c035" alt="" width="50" /> | Villain        | FOREVER 1 - The 7th Album               | SM Entertainment                    | 💚   | [🔗](https://open.spotify.com/track/3FuL8QGYM7NWj9YWFCEc5W) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aea29200523b1ee4d5b2c035" alt="" width="50" /> | You Better Run | FOREVER 1 - The 7th Album               | SM Entertainment                    | 💚   | [🔗](https://open.spotify.com/track/7AKKUOFQjjhFyjzvhtawsM) |
