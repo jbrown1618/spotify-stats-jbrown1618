@@ -3,13 +3,15 @@
 
 <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="Brahms" width="100" />
 
+32 songs
+
 ## Top Artists
 
 ![Bar chart of top 5 artists in Brahms](../images/playlists/brahms/artists.png)
 
 
 <details>
-<summary>See all artists</summary>
+<summary>See all 5 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                                           | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------|:------------------------------------------------------------|
@@ -28,7 +30,7 @@
 
 
 <details>
-<summary>See all albums</summary>
+<summary>See all 2 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                   | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------|:-----------------------------------------------------------|
@@ -44,7 +46,7 @@
 
 
 <details>
-<summary>See all labels</summary>
+<summary>See all 2 labels</summary>
 
 |   Number of Tracks | Label                    |
 |-------------------:|:-------------------------|

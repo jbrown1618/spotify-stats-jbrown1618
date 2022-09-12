@@ -3,13 +3,15 @@
 
 <img src="https://i.scdn.co/image/ab67616d0000b273fdf2a7d7437db7a75da73167" alt="Mozart" width="100" />
 
+225 songs
+
 ## Top Artists
 
 ![Bar chart of top 30 artists in Mozart](../images/playlists/mozart/artists.png)
 
 
 <details>
-<summary>See all artists</summary>
+<summary>See all 65 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                                                                   | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|:------------------------------------------------------------|
@@ -88,7 +90,7 @@
 
 
 <details>
-<summary>See all albums</summary>
+<summary>See all 5 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                                             | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -107,7 +109,7 @@
 
 
 <details>
-<summary>See all labels</summary>
+<summary>See all 5 labels</summary>
 
 |   Number of Tracks | Label                               |
 |-------------------:|:------------------------------------|

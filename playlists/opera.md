@@ -3,13 +3,15 @@
 
 <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Opera" width="100" />
 
+233 songs
+
 ## Top Artists
 
 ![Bar chart of top 30 artists in Opera](../images/playlists/opera/artists.png)
 
 
 <details>
-<summary>See all artists</summary>
+<summary>See all 85 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                                                           | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|:------------------------------------------------------------|
@@ -108,7 +110,7 @@
 
 
 <details>
-<summary>See all albums</summary>
+<summary>See all 5 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                   | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:------------------------|:-----------------------------------------------------------|
@@ -127,7 +129,7 @@
 
 
 <details>
-<summary>See all labels</summary>
+<summary>See all 5 labels</summary>
 
 |   Number of Tracks | Label                               |
 |-------------------:|:------------------------------------|

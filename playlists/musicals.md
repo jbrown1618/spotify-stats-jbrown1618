@@ -3,13 +3,15 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27311213770e112f78d4075b61fab67616d0000b2732f8d9427fea9dd36a4fb4f1bab67616d0000b27367a1610b21721a06ed7d378eab67616d0000b273d72fb5571087bca0a2fed008" alt="Musicals" width="100" />
 
+109 songs
+
 ## Top Artists
 
 ![Bar chart of top 30 artists in Musicals](../images/playlists/musicals/artists.png)
 
 
 <details>
-<summary>See all artists</summary>
+<summary>See all 57 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                                                                               | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------|:------------------------------------------------------------|
@@ -80,7 +82,7 @@
 
 
 <details>
-<summary>See all albums</summary>
+<summary>See all 7 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                                 | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -101,7 +103,7 @@
 
 
 <details>
-<summary>See all labels</summary>
+<summary>See all 6 labels</summary>
 
 |   Number of Tracks | Label                           |
 |-------------------:|:--------------------------------|

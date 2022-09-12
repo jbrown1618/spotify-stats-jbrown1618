@@ -3,13 +3,15 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27322219b7ba681368a16c219feab67616d0000b27323350feac07f56d8b96f33d5ab67616d0000b27361c83e0a3e42be611729c840ab67616d0000b2736aa9314b7ddfbd8f036ba3ac" alt="Classic Pop" width="100" />
 
+55 songs
+
 ## Top Artists
 
 ![Bar chart of top 24 artists in Classic Pop](../images/playlists/classic_pop/artists.png)
 
 
 <details>
-<summary>See all artists</summary>
+<summary>See all 24 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist            | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:------------------|:------------------------------------------------------------|
@@ -47,7 +49,7 @@
 
 
 <details>
-<summary>See all albums</summary>
+<summary>See all 47 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                                                                   | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -108,7 +110,7 @@
 
 
 <details>
-<summary>See all labels</summary>
+<summary>See all 26 labels</summary>
 
 |   Number of Tracks | Label                           |
 |-------------------:|:--------------------------------|

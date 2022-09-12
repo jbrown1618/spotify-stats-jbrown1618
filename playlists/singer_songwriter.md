@@ -3,13 +3,15 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2730e402844f1b6be3102d339f2ab67616d0000b2731946747b8692919f98918ec4ab67616d0000b2731d4675d5a0345bb93686e4b6ab67616d0000b27386a7d1e76303f80a4db38139" alt="Singer-Songwriter" width="100" />
 
+230 songs
+
 ## Top Artists
 
 ![Bar chart of top 30 artists in Singer-Songwriter](../images/playlists/singer_songwriter/artists.png)
 
 
 <details>
-<summary>See all artists</summary>
+<summary>See all 32 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                         | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------|:------------------------------------------------------------|
@@ -55,7 +57,7 @@
 
 
 <details>
-<summary>See all albums</summary>
+<summary>See all 81 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                       | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------|:-----------------------------------------------------------|
@@ -150,7 +152,7 @@
 
 
 <details>
-<summary>See all labels</summary>
+<summary>See all 33 labels</summary>
 
 |   Number of Tracks | Label                                                        |
 |-------------------:|:-------------------------------------------------------------|

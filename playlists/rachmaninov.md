@@ -3,13 +3,15 @@
 
 <img src="https://i.scdn.co/image/ab67616d0000b2732ab037775757e856d496f2f5" alt="Rachmaninov" width="100" />
 
+27 songs
+
 ## Top Artists
 
 ![Bar chart of top 5 artists in Rachmaninov](../images/playlists/rachmaninov/artists.png)
 
 
 <details>
-<summary>See all artists</summary>
+<summary>See all 5 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                                               | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------|:------------------------------------------------------------|
@@ -28,7 +30,7 @@
 
 
 <details>
-<summary>See all albums</summary>
+<summary>See all 2 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                      | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------|:-----------------------------------------------------------|
@@ -44,7 +46,7 @@
 
 
 <details>
-<summary>See all labels</summary>
+<summary>See all 2 labels</summary>
 
 |   Number of Tracks | Label                  |
 |-------------------:|:-----------------------|

@@ -3,13 +3,15 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2730b51f8d91f3a21e8426361aeab67616d0000b27384243a01af3c77b56fe01ab1ab67616d0000b2739662c6535fb4bf5767e50f32ab67616d0000b273b11078ee23dcd99e085ac33e" alt="Classic Rock" width="100" />
 
+96 songs
+
 ## Top Artists
 
 ![Bar chart of top 27 artists in Classic Rock](../images/playlists/classic_rock/artists.png)
 
 
 <details>
-<summary>See all artists</summary>
+<summary>See all 27 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                   | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------|:------------------------------------------------------------|
@@ -50,7 +52,7 @@
 
 
 <details>
-<summary>See all albums</summary>
+<summary>See all 65 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                              | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------|:-----------------------------------------------------------|
@@ -129,7 +131,7 @@
 
 
 <details>
-<summary>See all labels</summary>
+<summary>See all 25 labels</summary>
 
 |   Number of Tracks | Label                           |
 |-------------------:|:--------------------------------|

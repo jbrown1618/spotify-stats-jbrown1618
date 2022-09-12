@@ -3,13 +3,15 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2732433cb43f0f2f0f23b7c8b82ab67616d0000b2734ccc03169b086af698178a99ab67616d0000b2735e3e23be9bdc38cb4767be97ab67616d0000b2739922157daa474131bb3a0fbc" alt="International Pop" width="100" />
 
+87 songs
+
 ## Top Artists
 
 ![Bar chart of top 30 artists in International Pop](../images/playlists/international_pop/artists.png)
 
 
 <details>
-<summary>See all artists</summary>
+<summary>See all 98 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                             | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------|:------------------------------------------------------------|
@@ -121,7 +123,7 @@
 
 
 <details>
-<summary>See all albums</summary>
+<summary>See all 81 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                                                               | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -216,7 +218,7 @@
 
 
 <details>
-<summary>See all labels</summary>
+<summary>See all 59 labels</summary>
 
 |   Number of Tracks | Label                                                             |
 |-------------------:|:------------------------------------------------------------------|

@@ -3,13 +3,15 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2734215d2bfa2e73ae057165347ab67616d0000b2738a9c1224da995cb33a8cb3d5ab67616d0000b273b5fcd6996bf050f9f9010d3aab67616d0000b273da673657374e88d973dad080" alt="Chopin" width="100" />
 
+172 songs
+
 ## Top Artists
 
 ![Bar chart of top 7 artists in Chopin](../images/playlists/chopin/artists.png)
 
 
 <details>
-<summary>See all artists</summary>
+<summary>See all 7 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                                 | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------|:------------------------------------------------------------|
@@ -30,7 +32,7 @@
 
 
 <details>
-<summary>See all albums</summary>
+<summary>See all 9 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                                     | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -53,7 +55,7 @@
 
 
 <details>
-<summary>See all labels</summary>
+<summary>See all 5 labels</summary>
 
 |   Number of Tracks | Label                    |
 |-------------------:|:-------------------------|

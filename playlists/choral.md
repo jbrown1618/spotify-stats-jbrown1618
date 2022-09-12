@@ -3,13 +3,15 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2730baa26fb49c09c910a031d24ab67616d0000b2730c8397c0c79c33e6f350ee52ab67616d0000b273397c1f0c407ebd9a318b25faab67616d0000b273609d14b25e86640a2a69c534" alt="Choral" width="100" />
 
+68 songs
+
 ## Top Artists
 
 ![Bar chart of top 30 artists in Choral](../images/playlists/choral/artists.png)
 
 
 <details>
-<summary>See all artists</summary>
+<summary>See all 50 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                                                                   | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|:------------------------------------------------------------|
@@ -73,7 +75,7 @@
 
 
 <details>
-<summary>See all albums</summary>
+<summary>See all 15 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                                                                                | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -102,7 +104,7 @@
 
 
 <details>
-<summary>See all labels</summary>
+<summary>See all 13 labels</summary>
 
 |   Number of Tracks | Label                         |
 |-------------------:|:------------------------------|

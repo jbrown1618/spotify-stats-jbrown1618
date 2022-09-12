@@ -3,13 +3,15 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2731d97ca7376f835055f828139ab67616d0000b27379e8b529ce6c088a8027b2a1ab67616d0000b273b33d46dfa2635a47eebf63b2ab67616d0000b273d8601e15fa1b4351fe1fc6ae" alt="Electronic" width="100" />
 
+11 songs
+
 ## Top Artists
 
 ![Bar chart of top 6 artists in Electronic](../images/playlists/electronic/artists.png)
 
 
 <details>
-<summary>See all artists</summary>
+<summary>See all 6 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist             | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------|:------------------------------------------------------------|
@@ -29,7 +31,7 @@
 
 
 <details>
-<summary>See all albums</summary>
+<summary>See all 7 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                  | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------|:-----------------------------------------------------------|
@@ -50,7 +52,7 @@
 
 
 <details>
-<summary>See all labels</summary>
+<summary>See all 5 labels</summary>
 
 |   Number of Tracks | Label                          |
 |-------------------:|:-------------------------------|

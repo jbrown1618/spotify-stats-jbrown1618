@@ -3,13 +3,15 @@
 
 <img src="https://i.scdn.co/image/ab67616d0000b273c18e2114a3a3ef543635197a" alt="Beethoven" width="100" />
 
+166 songs
+
 ## Top Artists
 
 ![Bar chart of top 11 artists in Beethoven](../images/playlists/beethoven/artists.png)
 
 
 <details>
-<summary>See all artists</summary>
+<summary>See all 11 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                                           | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------|:------------------------------------------------------------|
@@ -34,7 +36,7 @@
 
 
 <details>
-<summary>See all albums</summary>
+<summary>See all 5 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                              | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -53,7 +55,7 @@
 
 
 <details>
-<summary>See all labels</summary>
+<summary>See all 4 labels</summary>
 
 |   Number of Tracks | Label                    |
 |-------------------:|:-------------------------|

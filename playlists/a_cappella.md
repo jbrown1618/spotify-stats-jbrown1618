@@ -3,13 +3,15 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2735d990e8b45c848dc22885f89ab67616d0000b27362f44cdb37183a309fc1032fab67616d0000b27384470dd6235917e2e40e11f0ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="A Cappella" width="100" />
 
+295 songs
+
 ## Top Artists
 
 ![Bar chart of top 30 artists in A Cappella](../images/playlists/a_cappella/artists.png)
 
 
 <details>
-<summary>See all artists</summary>
+<summary>See all 97 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                                   | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------|:------------------------------------------------------------|
@@ -120,7 +122,7 @@
 
 
 <details>
-<summary>See all albums</summary>
+<summary>See top 100 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                               | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -224,13 +226,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736c863f73a8ec70e519fbc808" alt="" width="50" /> | BOCA 2020: Best of College A Cappella                               | [🔗](https://open.spotify.com/album/3c4vODZeeDk38CVmjbUERt) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27375e1cccb63989b4aa6a22cbc" alt="" width="50" /> | BOCA 2006: Best Of College A Cappella                               | [🔗](https://open.spotify.com/album/3AeoTNhXFgBM7CuODGFelQ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273074aa2a16488cba06eade483" alt="" width="50" /> | BOCA 2004: Best Of College A Cappella                               | [🔗](https://open.spotify.com/album/5qrIP0zXoDQUSZ9l1ZaECQ) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273de86cb7d44e765c043a8b596" alt="" width="50" /> | At the Beginning                                                    | [🔗](https://open.spotify.com/album/3uN6J4J6VstQCzzHbKbz6j) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fa70f75821d8ef6496b3ff64" alt="" width="50" /> | Around the World - A Folk Song Collection                           | [🔗](https://open.spotify.com/album/2YLEK2g3iwuhW4vp02XRnn) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273651ea73a1a7f7902ac69ad54" alt="" width="50" /> | Anyone For Mozart, Bach, Handel, Vivaldi?                           | [🔗](https://open.spotify.com/album/4T01tb3Uti8xbdSByxS8DL) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273049016d51d8970dc04dbf78f" alt="" width="50" /> | Against the Grain                                                   | [🔗](https://open.spotify.com/album/27W6ijbmL6QPNrdQGncwDJ) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27360fd5c708d2f5956d46888a9" alt="" width="50" /> | A Swing and a Miss                                                  | [🔗](https://open.spotify.com/album/0qj5ECfme87sP5anevwf81) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ddbbb08d6f7a6ed263fa6afc" alt="" width="50" /> | A Pentatonix Christmas Deluxe                                       | [🔗](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27395369441b4588e4419deb673" alt="" width="50" /> | A Capella Christmas Favourites                                      | [🔗](https://open.spotify.com/album/4PUNlc0snMF3Bqa8NeWLRk) |
 
 </details>
 
@@ -241,7 +236,7 @@
 
 
 <details>
-<summary>See all labels</summary>
+<summary>See all 37 labels</summary>
 
 |   Number of Tracks | Label                                         |
 |-------------------:|:----------------------------------------------|

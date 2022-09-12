@@ -3,13 +3,15 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2734c43a2f36c0aec708ba024d5ab67616d0000b2735d026bccbd8a50650e903130ab67616d0000b27376a42530f861aa187f3ac1c2ab67616d0000b273c385dbfabcec21279dcea0b5" alt="Program Music" width="100" />
 
+41 songs
+
 ## Top Artists
 
 ![Bar chart of top 21 artists in Program Music](../images/playlists/program_music/artists.png)
 
 
 <details>
-<summary>See all artists</summary>
+<summary>See all 21 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                                                       | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------|:------------------------------------------------------------|
@@ -44,7 +46,7 @@
 
 
 <details>
-<summary>See all albums</summary>
+<summary>See all 5 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                                                                         | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -63,7 +65,7 @@
 
 
 <details>
-<summary>See all labels</summary>
+<summary>See all 4 labels</summary>
 
 |   Number of Tracks | Label                               |
 |-------------------:|:------------------------------------|

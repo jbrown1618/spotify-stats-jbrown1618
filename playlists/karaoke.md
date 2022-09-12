@@ -3,13 +3,15 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2732d73b1bb77cee09f0278be04ab67616d0000b2736f50b3400595b123a916e0dcab67616d0000b2739ab215825eb77076b1b4b387ab67616d0000b273ff0dae802acb38075786b58c" alt="Karaoke" width="100" />
 
+8 songs
+
 ## Top Artists
 
 ![Bar chart of top 8 artists in Karaoke](../images/playlists/karaoke/artists.png)
 
 
 <details>
-<summary>See all artists</summary>
+<summary>See all 8 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                 | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:------------------------------------------------------------|
@@ -31,7 +33,7 @@
 
 
 <details>
-<summary>See all albums</summary>
+<summary>See all 8 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                              | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -53,7 +55,7 @@
 
 
 <details>
-<summary>See all labels</summary>
+<summary>See all 7 labels</summary>
 
 |   Number of Tracks | Label                         |
 |-------------------:|:------------------------------|

@@ -3,13 +3,15 @@
 
 <img src="https://i.scdn.co/image/ab67616d0000b273203bf132896e0a4be9638dda" alt="Vivaldi" width="100" />
 
+34 songs
+
 ## Top Artists
 
 ![Bar chart of top 8 artists in Vivaldi](../images/playlists/vivaldi/artists.png)
 
 
 <details>
-<summary>See all artists</summary>
+<summary>See all 8 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                                               | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------|:------------------------------------------------------------|
@@ -31,7 +33,7 @@
 
 
 <details>
-<summary>See all albums</summary>
+<summary>See all 2 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                      | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------|:-----------------------------------------------------------|
@@ -47,7 +49,7 @@
 
 
 <details>
-<summary>See all labels</summary>
+<summary>See all 2 labels</summary>
 
 |   Number of Tracks | Label           |
 |-------------------:|:----------------|

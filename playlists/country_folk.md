@@ -3,13 +3,15 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27324e1589fb3eab8ae8831f388ab67616d0000b2735726e327fd968a6fb5974350ab67616d0000b273724bd326692d222c5906b0b0ab67616d0000b27379c820d2d853c756c3738d39" alt="Country/Folk" width="100" />
 
+33 songs
+
 ## Top Artists
 
 ![Bar chart of top 9 artists in Country/Folk](../images/playlists/country_folk/artists.png)
 
 
 <details>
-<summary>See all artists</summary>
+<summary>See all 9 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist           | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------|:------------------------------------------------------------|
@@ -32,7 +34,7 @@
 
 
 <details>
-<summary>See all albums</summary>
+<summary>See all 19 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                 | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------|:-----------------------------------------------------------|
@@ -65,7 +67,7 @@
 
 
 <details>
-<summary>See all labels</summary>
+<summary>See all 14 labels</summary>
 
 |   Number of Tracks | Label                                    |
 |-------------------:|:-----------------------------------------|

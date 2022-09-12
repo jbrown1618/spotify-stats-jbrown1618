@@ -3,13 +3,15 @@
 
 <img src="https://i.scdn.co/image/ab67616d0000b273261feb89ee859b598bd34a97" alt="Bach" width="100" />
 
+55 songs
+
 ## Top Artists
 
 ![Bar chart of top 4 artists in Bach](../images/playlists/bach/artists.png)
 
 
 <details>
-<summary>See all artists</summary>
+<summary>See all 4 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                                               | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------|:------------------------------------------------------------|
@@ -27,7 +29,7 @@
 
 
 <details>
-<summary>See all albums</summary>
+<summary>See all 2 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                         | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------|:-----------------------------------------------------------|
@@ -43,7 +45,7 @@
 
 
 <details>
-<summary>See all labels</summary>
+<summary>See all 2 labels</summary>
 
 |   Number of Tracks | Label                  |
 |-------------------:|:-----------------------|

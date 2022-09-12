@@ -3,13 +3,15 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2733620c09ca7ca202e676b783bab67616d0000b2733dc87408b73e227ec72eeab3ab67616d0000b2739daaa54cc50b6359ff1dc7a3ab67616d0000b273f0eb5b09e87f24415266d723" alt="Ballet" width="100" />
 
+138 songs
+
 ## Top Artists
 
 ![Bar chart of top 16 artists in Ballet](../images/playlists/ballet/artists.png)
 
 
 <details>
-<summary>See all artists</summary>
+<summary>See all 16 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                                               | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------|:------------------------------------------------------------|
@@ -39,7 +41,7 @@
 
 
 <details>
-<summary>See all albums</summary>
+<summary>See all 6 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                           | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------------------------|:-----------------------------------------------------------|
@@ -59,7 +61,7 @@
 
 
 <details>
-<summary>See all labels</summary>
+<summary>See all 4 labels</summary>
 
 |   Number of Tracks | Label                              |
 |-------------------:|:-----------------------------------|

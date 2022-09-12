@@ -3,13 +3,15 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27345680a4a57c97894490a01c1ab67616d0000b27389992f4d7d4ab94937bf9e23ab67616d0000b273e13de7b8662b085b0885ffefab67616d0000b273ff5429125128b43572dbdccd" alt="R&B" width="100" />
 
+83 songs
+
 ## Top Artists
 
 ![Bar chart of top 30 artists in R&B](../images/playlists/r_b/artists.png)
 
 
 <details>
-<summary>See all artists</summary>
+<summary>See all 54 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                 | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:------------------------------------------------------------|
@@ -77,7 +79,7 @@
 
 
 <details>
-<summary>See all albums</summary>
+<summary>See all 64 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                                                                   | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -155,7 +157,7 @@
 
 
 <details>
-<summary>See all labels</summary>
+<summary>See all 34 labels</summary>
 
 |   Number of Tracks | Label                            |
 |-------------------:|:---------------------------------|

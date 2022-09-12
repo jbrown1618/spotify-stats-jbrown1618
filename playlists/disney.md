@@ -3,13 +3,15 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2732a8b6ce34511614c9373f423ab67616d0000b2732bf585fa65e5608b365f4909ab67616d0000b273597905f8f46dfc60f5a6d11fab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="Disney" width="100" />
 
+50 songs
+
 ## Top Artists
 
 ![Bar chart of top 30 artists in Disney](../images/playlists/disney/artists.png)
 
 
 <details>
-<summary>See all artists</summary>
+<summary>See all 74 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                               | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------|:------------------------------------------------------------|
@@ -97,7 +99,7 @@
 
 
 <details>
-<summary>See all albums</summary>
+<summary>See all 20 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                                            | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -131,7 +133,7 @@
 
 
 <details>
-<summary>See all labels</summary>
+<summary>See all 2 labels</summary>
 
 |   Number of Tracks | Label               |
 |-------------------:|:--------------------|

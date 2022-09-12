@@ -3,13 +3,15 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27362e6288a5887b95176cca29eab67616d0000b2739d650d0d98caf3f54b842a0bab67616d0000b273b64001fa6292caefc7605550ab67616d0000b273ff4ec21d7817138cabcc19bc" alt="K-Pop Favorites" width="100" />
 
+181 songs
+
 ## Top Artists
 
 ![Bar chart of top 30 artists in K-Pop Favorites](../images/playlists/k_pop_favorites/artists.png)
 
 
 <details>
-<summary>See all artists</summary>
+<summary>See all 73 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                               | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------|:------------------------------------------------------------|
@@ -96,7 +98,7 @@
 
 
 <details>
-<summary>See all albums</summary>
+<summary>See top 100 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                            | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------|:-----------------------------------------------------------|
@@ -200,63 +202,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c4763f81c6b01bb32ea3c1d8" alt="" width="50" /> | Je T'aime                                        | [🔗](https://open.spotify.com/album/1RzqZoXe1bf1f48PK20EeH) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27386e407289831b784b58d4c5f" alt="" width="50" /> | It'z Me                                          | [🔗](https://open.spotify.com/album/2gertXS08whDTzBWfmewPO) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733beb8877c3a0cde5be9a139c" alt="" width="50" /> | Ice Cream Cake - The 1st Mini Album              | [🔗](https://open.spotify.com/album/27cBQ5FDqv0xLgiJ7qNpZr) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735a34da2654db7f75cee1d080" alt="" width="50" /> | IT'z ICY                                         | [🔗](https://open.spotify.com/album/2y2Nuvvw5xNDYOunTSsgf1) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730e31e2a3b1516e79fbfe7486" alt="" width="50" /> | IT'z Different                                   | [🔗](https://open.spotify.com/album/0fUJLlrsG1MpTHr3MxPN9C) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273703093f86fd5c8bd79500610" alt="" width="50" /> | IN LIFE                                          | [🔗](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c100bf7d05e3c2b59fa83499" alt="" width="50" /> | I'M LOVIN' AMY                                   | [🔗](https://open.spotify.com/album/3AL0qHWE5sF8SYY273nFXX) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | I trust                                          | [🔗](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | I burn                                           | [🔗](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="" width="50" /> | I am                                             | [🔗](https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | I NEVER DIE                                      | [🔗](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fd1f3849aaaf15112389a725" alt="" width="50" /> | I GOT A BOY - The 4th Album                      | [🔗](https://open.spotify.com/album/3uhihQCm9aSvdJmDXcVrvi) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735c041fe9e3c9de436047d86b" alt="" width="50" /> | I Am The Best                                    | [🔗](https://open.spotify.com/album/7zjLDZzHo2XgvYwpuNwEvK) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739dec4de4b22d56be408ee2fd" alt="" width="50" /> | Hot Sauce - The 1st Album                        | [🔗](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736f29a60db7b4479599fae56d" alt="" width="50" /> | Heng:garæ                                        | [🔗](https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e6d118f2ad157bf0bbfb83cf" alt="" width="50" /> | Hello Future - The 1st Album Repackage           | [🔗](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27366ff63bc084fb412aa2dddd3" alt="" width="50" /> | Hello - Special Album                            | [🔗](https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="" width="50" /> | HOLO                                             | [🔗](https://open.spotify.com/album/5xq9sm0jGMMDu5LifpBBo1) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c5011613476079ff2498bf4a" alt="" width="50" /> | HELICOPTER                                       | [🔗](https://open.spotify.com/album/1uwfxRAhW1hxclCVkzku8d) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273700c67465db0a6d66c3a36d6" alt="" width="50" /> | HARMONY : ZERO IN                                | [🔗](https://open.spotify.com/album/73CTPjApMDvFsycjbbROji) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ace0e90dab0e51a4aec4f50a" alt="" width="50" /> | HANN (Alone)                                     | [🔗](https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731dfb11871aa63ac9010c0619" alt="" width="50" /> | Guilty Pleasure                                  | [🔗](https://open.spotify.com/album/7jke1vYOze3jdyTiWhtFnz) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733de8d21c10a5beed844bba5b" alt="" width="50" /> | Gotta Go                                         | [🔗](https://open.spotify.com/album/7BYCvUqCaeIo2jgOl9iAGr) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c56dcba0b4372e4a2953b973" alt="" width="50" /> | Girl's Day Love Second Album                     | [🔗](https://open.spotify.com/album/6bf0r561nSUanYZ9ej56Me) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730b479d89335fbca7de943443" alt="" width="50" /> | Geekyland                                        | [🔗](https://open.spotify.com/album/7EDCoH5wfSGYdZ7wXCmTF4) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732c214d5de552996f3dd74f17" alt="" width="50" /> | GUESS WHO                                        | [🔗](https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273cd17c315097d81ea0882430c" alt="" width="50" /> | Flourishing                                      | [🔗](https://open.spotify.com/album/1lNM7RF1SVUs66OtLj4MQh) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739e87fd81ab0dfad228f8a004" alt="" width="50" /> | FANCY YOU                                        | [🔗](https://open.spotify.com/album/2qoWlACJtoG0L5owi7Tj0I) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27315a67578922d65121b12073d" alt="" width="50" /> | EX'ACT                                           | [🔗](https://open.spotify.com/album/5Cckx6G2aRR4aZBV6eIYdc) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | ELEVEN                                           | [🔗](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | Dream                                            | [🔗](https://open.spotify.com/album/7ciJtZ2tYXhKsndQ7bf7Vw) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732eafb1407218dca0cb8d91b8" alt="" width="50" /> | Don't Call Me - The 7th Album                    | [🔗](https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732ca65c45697e473a0d9d1711" alt="" width="50" /> | Devil                                            | [🔗](https://open.spotify.com/album/1HpLXN8RRy1lHO3jckCTkN) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fddc804f96cdd6a7de9bcc09" alt="" width="50" /> | DUMB DUMB                                        | [🔗](https://open.spotify.com/album/24sFioeGsPtxa5fD6VzL8b) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731c1ea5bfa5680ac877acdd55" alt="" width="50" /> | DIMENSION : ANSWER                               | [🔗](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273078e3c2e57ae77c82ab4b46c" alt="" width="50" /> | DEVIL - SUPER JUNIOR SPECIAL ALBUM               | [🔗](https://open.spotify.com/album/4YdR3Qy3eZXsLGIXaEAw8o) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735b3685b06e22d32bed46c962" alt="" width="50" /> | DESSERT                                          | [🔗](https://open.spotify.com/album/5brSFD1knAOSM7j6083naD) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738acb7bac073f378d59bf228e" alt="" width="50" /> | Crazy                                            | [🔗](https://open.spotify.com/album/5ooERKclQluBVu00PIH9Xm) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27303dcf797238bdb6908f80c93" alt="" width="50" /> | Can't Control Myself                             | [🔗](https://open.spotify.com/album/2Xgk5KfKKed3D1a5B3gJJ9) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738ae9084b7cfa8281932d9cb9" alt="" width="50" /> | CRY FOR ME                                       | [🔗](https://open.spotify.com/album/2aRAPmBCEdo9pWimsI5l87) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | CRAZY IN LOVE                                    | [🔗](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737700db620a3f0030fcfd078c" alt="" width="50" /> | CLOSER                                           | [🔗](https://open.spotify.com/album/08iyrLkLFP2ByBkqVhBls7) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d784afd710070b5fe22b99bf" alt="" width="50" /> | CIRCUS                                           | [🔗](https://open.spotify.com/album/4IQHY28D4aHus9lGDlSdPp) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | CHECKMATE                                        | [🔗](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ed656680374294d5217193fa" alt="" width="50" /> | Butter                                           | [🔗](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f091c9841ed6033937fdb7e5" alt="" width="50" /> | Breakthrough                                     | [🔗](https://open.spotify.com/album/7LWfEiSeue9BXPbUOH34q6) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a9aa6dda87a29bba84522347" alt="" width="50" /> | Blow                                             | [🔗](https://open.spotify.com/album/2y6aTfBouCa2nRJadWq0WX) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d750d969d227e6506a2c176" alt="" width="50" /> | Bloom                                            | [🔗](https://open.spotify.com/album/4ualu7nMAcmoAqp47YaA95) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736f248f7695eb544a3a1955c5" alt="" width="50" /> | Black Mamba                                      | [🔗](https://open.spotify.com/album/3syEYrKIsgxaZMB5t1dVG7) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734a40f1624faabce03d3eabbb" alt="" width="50" /> | Bittersweet (feat. LeeHi)                        | [🔗](https://open.spotify.com/album/6qVk855QPCh57noNeeHMXQ) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6096741dcf413354a59554" alt="" width="50" /> | BORDER : DAY ONE                                 | [🔗](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | BORDER : CARNIVAL                                | [🔗](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733deb4b0115410a85afe31c29" alt="" width="50" /> | BE                                               | [🔗](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="" width="50" /> | BE                                               | [🔗](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1d785640d9421ec17ea8fe6" alt="" width="50" /> | BBIBBI                                           | [🔗](https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d9ac4a9970da8f98ce2e2b35" alt="" width="50" /> | As If It's Your Last                             | [🔗](https://open.spotify.com/album/6IzQb2kLydYNfzmKXvmndX) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="" width="50" /> | Amusement Park                                   | [🔗](https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738d64ee7e356e13a96062bd0b" alt="" width="50" /> | AD MARE                                          | [🔗](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273aa12f5b5b2ea88f26ab76846" alt="" width="50" /> | ; [Semicolon]                                    | [🔗](https://open.spotify.com/album/1EMYSiKKTSKLZrOC2nTStL) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c32633331e11b4fe108237f8" alt="" width="50" /> | -77.82x-78.29                                    | [🔗](https://open.spotify.com/album/4kMID9cggWEko9mOb1zisI) |
 
 </details>
 
@@ -267,7 +212,7 @@
 
 
 <details>
-<summary>See all labels</summary>
+<summary>See all 52 labels</summary>
 
 |   Number of Tracks | Label                                                                   |
 |-------------------:|:------------------------------------------------------------------------|

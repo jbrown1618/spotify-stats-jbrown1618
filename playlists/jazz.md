@@ -3,13 +3,15 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273068a5559744d17bd5e871740ab67616d0000b273a1113af3a19a41dc8eec534eab67616d0000b273cb81eb3c1238c60f2bbfd3b5ab67616d0000b273ef54c10b95411c51b9ab873b" alt="Jazz" width="100" />
 
+32 songs
+
 ## Top Artists
 
 ![Bar chart of top 15 artists in Jazz](../images/playlists/jazz/artists.png)
 
 
 <details>
-<summary>See all artists</summary>
+<summary>See all 15 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                         | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------|:------------------------------------------------------------|
@@ -38,7 +40,7 @@
 
 
 <details>
-<summary>See all albums</summary>
+<summary>See all 24 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                              | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -76,7 +78,7 @@
 
 
 <details>
-<summary>See all labels</summary>
+<summary>See all 12 labels</summary>
 
 |   Number of Tracks | Label                            |
 |-------------------:|:---------------------------------|

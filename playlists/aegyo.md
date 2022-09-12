@@ -3,13 +3,15 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2731544041d0285585cc92c2709ab67616d0000b27335cdd6d3f5815afac043758eab67616d0000b2734a6096741dcf413354a59554ab67616d0000b273714e56679ab196354e2e443e" alt="Aegyo" width="100" />
 
+33 songs
+
 ## Top Artists
 
 ![Bar chart of top 16 artists in Aegyo](../images/playlists/aegyo/artists.png)
 
 
 <details>
-<summary>See all artists</summary>
+<summary>See all 16 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                               | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------|:------------------------------------------------------------|
@@ -39,7 +41,7 @@
 
 
 <details>
-<summary>See all albums</summary>
+<summary>See all 32 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                     | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:------------------------------------------|:-----------------------------------------------------------|
@@ -85,7 +87,7 @@
 
 
 <details>
-<summary>See all labels</summary>
+<summary>See all 15 labels</summary>
 
 |   Number of Tracks | Label                                              |
 |-------------------:|:---------------------------------------------------|

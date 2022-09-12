@@ -3,13 +3,15 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="Sharon RPD" width="100" />
 
+28 songs
+
 ## Top Artists
 
 ![Bar chart of top 24 artists in Sharon RPD](../images/playlists/sharon_rpd/artists.png)
 
 
 <details>
-<summary>See all artists</summary>
+<summary>See all 24 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                 | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:------------------------------------------------------------|
@@ -47,7 +49,7 @@
 
 
 <details>
-<summary>See all albums</summary>
+<summary>See all 27 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                            | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------|:-----------------------------------------------------------|
@@ -88,7 +90,7 @@
 
 
 <details>
-<summary>See all labels</summary>
+<summary>See all 16 labels</summary>
 
 |   Number of Tracks | Label                               |
 |-------------------:|:------------------------------------|

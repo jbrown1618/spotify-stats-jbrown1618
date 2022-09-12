@@ -3,13 +3,15 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2730b1cfc3df4d9d5d4cbce9208ab67616d0000b27310356a0e81371e6644cb1371ab67616d0000b27329a42ba069a854c9078377b4ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="Hip Hop" width="100" />
 
+20 songs
+
 ## Top Artists
 
 ![Bar chart of top 21 artists in Hip Hop](../images/playlists/hip_hop/artists.png)
 
 
 <details>
-<summary>See all artists</summary>
+<summary>See all 21 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                           | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------|:------------------------------------------------------------|
@@ -44,7 +46,7 @@
 
 
 <details>
-<summary>See all albums</summary>
+<summary>See all 20 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                             | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------|:-----------------------------------------------------------|
@@ -78,7 +80,7 @@
 
 
 <details>
-<summary>See all labels</summary>
+<summary>See all 14 labels</summary>
 
 |   Number of Tracks | Label                           |
 |-------------------:|:--------------------------------|
