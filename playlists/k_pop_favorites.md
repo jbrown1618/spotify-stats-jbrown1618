@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27362e6288a5887b95176cca29eab67616d0000b2739d650d0d98caf3f54b842a0bab67616d0000b273b64001fa6292caefc7605550ab67616d0000b273ff4ec21d7817138cabcc19bc" alt="K-Pop Favorites" width="100" />
 
-181 songs
+179 songs
 
 ## Top Artists
 
@@ -15,7 +15,7 @@
 
 |   Number of Tracks | Art                                                                                              | Artist                                               | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------|:------------------------------------------------------------|
-|                 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb8a8415e72dedaa552259d0c1" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)               | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
+|                 12 | <img src="https://i.scdn.co/image/ab6761610000e5eb8a8415e72dedaa552259d0c1" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)               | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 |                 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b6160c954c6a5b7d4756608" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)                 | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 |                 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | [IU](../artists/iu.md)                               | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 |                 10 | <img src="https://i.scdn.co/image/ab6761610000e5ebd84fd6ae9ccfc6206ea6711e" alt="" width="50" /> | [TWICE](../artists/twice.md)                         | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
@@ -165,7 +165,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734a8b951ff5979dc187340b1d" alt="" width="50" /> | RED MOON                                         | [🔗](https://open.spotify.com/album/6GhELYbXRo1LOqRPOCsQrF) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="" width="50" /> | RBB - The 5th Mini Album                         | [🔗](https://open.spotify.com/album/7rNIvLwIpB2mwOzk20iqIl) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f" alt="" width="50" /> | R                                                | [🔗](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273830de2e836036f181df598d0" alt="" width="50" /> | Queendom - The 6th Mini Album                    | [🔗](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273682ac678746ad21b6b799950" alt="" width="50" /> | Pity Party                                       | [🔗](https://open.spotify.com/album/2yMHiLYBnrMsdUCUL3bFkU) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273797b37e01334a0897825d8b1" alt="" width="50" /> | Pink Venom                                       | [🔗](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737752724657197df65e7c82f9" alt="" width="50" /> | Piano Man                                        | [🔗](https://open.spotify.com/album/1kdURRaOTpDCQqsVIU5CiT) |
@@ -202,6 +201,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c4763f81c6b01bb32ea3c1d8" alt="" width="50" /> | Je T'aime                                        | [🔗](https://open.spotify.com/album/1RzqZoXe1bf1f48PK20EeH) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27386e407289831b784b58d4c5f" alt="" width="50" /> | It'z Me                                          | [🔗](https://open.spotify.com/album/2gertXS08whDTzBWfmewPO) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733beb8877c3a0cde5be9a139c" alt="" width="50" /> | Ice Cream Cake - The 1st Mini Album              | [🔗](https://open.spotify.com/album/27cBQ5FDqv0xLgiJ7qNpZr) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735a34da2654db7f75cee1d080" alt="" width="50" /> | IT'z ICY                                         | [🔗](https://open.spotify.com/album/2y2Nuvvw5xNDYOunTSsgf1) |
 
 </details>
 
@@ -212,11 +212,11 @@
 
 
 <details>
-<summary>See all 52 labels</summary>
+<summary>See all 51 labels</summary>
 
 |   Number of Tracks | Label                                                                   |
 |-------------------:|:------------------------------------------------------------------------|
-|                 51 | SM Entertainment                                                        |
+|                 50 | SM Entertainment                                                        |
 |                 10 | YG Entertainment                                                        |
 |                  8 | Universal Music LLC                                                     |
 |                  8 | Republic Records - TWICE                                                |
@@ -248,7 +248,6 @@
 |                  1 | 드림티 엔터테인먼트                                                              |
 |                  1 | 드림캐쳐컴퍼니                                                                 |
 |                  1 | 더라이브레이블                                                                 |
-|                  1 | avex trax                                                               |
 |                  1 | YUEHUA ENTERTAINMENT KOREA                                              |
 |                  1 | WM Korea                                                                |
 |                  1 | Universal Music Group International                                     |
@@ -407,12 +406,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273b64001fa6292caefc7605550" alt="" width="50" /> | Bad Boy                                   | The Perfect Red Velvet - The 2nd Album Repackage | [Red Velvet](../artists/red_velvet.md)               | SM Entertainment                                                        | 💚   | [🔗](https://open.spotify.com/track/5GKwq4sO5ZHKuWaDmdwMQc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="" width="50" /> | RBB (Really Bad Boy)                      | RBB - The 5th Mini Album                         | [Red Velvet](../artists/red_velvet.md)               | SM Entertainment                                                        | 💚   | [🔗](https://open.spotify.com/track/4xjVP2Vogo0C72o6Nevq0W) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | Psycho                                    | ‘The ReVe Festival’ Finale                       | [Red Velvet](../artists/red_velvet.md)               | SM Entertainment                                                        | 💚   | [🔗](https://open.spotify.com/track/3CYH422oy1cZNoo0GTG1TK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273830de2e836036f181df598d0" alt="" width="50" /> | Queendom                                  | Queendom - The 6th Mini Album                    | [Red Velvet](../artists/red_velvet.md)               | SM Entertainment                                                        | 💚   | [🔗](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c4a282e84a53c1c8acf129a" alt="" width="50" /> | BAMBOLEO                                  | ‘The ReVe Festival 2022 - Feel My Rhythm’        | [Red Velvet](../artists/red_velvet.md)               | SM Entertainment                                                        | 💚   | [🔗](https://open.spotify.com/track/0jXneVxiitQZsbtftH7HHJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c4a282e84a53c1c8acf129a" alt="" width="50" /> | Feel My Rhythm                            | ‘The ReVe Festival 2022 - Feel My Rhythm’        | [Red Velvet](../artists/red_velvet.md)               | SM Entertainment                                                        | 💚   | [🔗](https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c4a282e84a53c1c8acf129a" alt="" width="50" /> | Good, Bad, Ugly                           | ‘The ReVe Festival 2022 - Feel My Rhythm’        | [Red Velvet](../artists/red_velvet.md)               | SM Entertainment                                                        | 💚   | [🔗](https://open.spotify.com/track/1DX08glq6CBGBA0N6uL3JV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c4a282e84a53c1c8acf129a" alt="" width="50" /> | In My Dreams                              | ‘The ReVe Festival 2022 - Feel My Rhythm’        | [Red Velvet](../artists/red_velvet.md)               | SM Entertainment                                                        | 💚   | [🔗](https://open.spotify.com/track/4ubg38wkWizzLsQwLuE6rM) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739d750d969d227e6506a2c176" alt="" width="50" /> | WILDSIDE                                  | Bloom                                            | [Red Velvet](../artists/red_velvet.md)               | avex trax                                                               | 💚   | [🔗](https://open.spotify.com/track/4RmEqYXrb89Mlwzm2p6Wyd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f919108974e4213d86b83805" alt="" width="50" /> | Monster                                   | Monster - The 1st Mini Album                     | Red Velvet - IRENE & SEULGI                          | SM Entertainment                                                        | 💚   | [🔗](https://open.spotify.com/track/6c1QaQHdDhtFMfUkhueuXK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c1bd86a3d68faf09607ffd3" alt="" width="50" /> | Naughty                                   | Naughty                                          | Red Velvet - IRENE & SEULGI                          | SM Entertainment                                                        | 💚   | [🔗](https://open.spotify.com/track/0P8lbWigAHXPKxUG60xh79) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f" alt="" width="50" /> | Gone                                      | R                                                | ROSÉ                                                 | YG Entertainment/Interscope Records                                     | 💚   | [🔗](https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA) |

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273f7da7c0f322b7a1c95190d92" alt="K-Pop" width="100" />
 
-760 songs
+761 songs
 
 ## Top Artists
 
@@ -241,108 +241,108 @@
 <details>
 <summary>See top 100 labels</summary>
 
-|   Number of Tracks | Label                                                                   |
-|-------------------:|:------------------------------------------------------------------------|
-|                176 | SM Entertainment                                                        |
-|                 35 | YG Entertainment                                                        |
-|                 34 | Genie Music Corporation, Stone Music Entertainment                      |
-|                 28 | JYP Entertainment                                                       |
-|                 26 | Republic Records - TWICE                                                |
-|                 22 | Universal Music LLC                                                     |
-|                 22 | Republic Records - Stray Kids                                           |
-|                 17 | BIGHIT MUSIC / HYBE                                                     |
-|                 17 | BIGHIT MUSIC                                                            |
-|                 15 | BELIFT LAB                                                              |
-|                 14 | RBW Inc.                                                                |
-|                 14 | PLEDIS Entertainment                                                    |
-|                 13 | Republic Records - ITZY                                                 |
-|                 12 | YG Entertainment/Interscope Records                                     |
-|                 11 | WM Korea                                                                |
-|                 11 | High Up Entertainment                                                   |
-|                 11 | CUBE ENTERTAINMENT                                                      |
-|                 10 | RBW, Inc                                                                |
-|                  9 | MYSTIC STORY                                                            |
-|                  9 | MNH ENTERTAINMENT                                                       |
-|                  9 | Kakao Entertainment                                                     |
-|                  9 | Cube Entertainment                                                      |
-|                  8 | Warner Records                                                          |
-|                  8 | Starship Entertainment                                                  |
-|                  8 | Genie Music Corporation                                                 |
-|                  8 | FNC ENTERTAINMENT                                                       |
-|                  7 | WM Entertainment                                                        |
-|                  7 | SOURCE MUSIC                                                            |
-|                  7 | EDAM Entertainment                                                      |
-|                  6 | Stone Music Entertainment                                               |
-|                  5 | avex trax                                                               |
-|                  5 | YG Entertainment, distributed through Interscope Records                |
-|                  5 | P NATION                                                                |
-|                  5 | KQ Entertainment                                                        |
-|                  4 | Studio MaumC, Hwa&Dam pictures                                          |
-|                  4 | Riot Games                                                              |
-|                  4 | Republic Records - TXT                                                  |
-|                  4 | PLEDIS ENTERTAINMENT                                                    |
-|                  4 | Dreamcatcher Company                                                    |
-|                  4 | Abyss Company                                                           |
-|                  4 | ADOR                                                                    |
-|                  3 | WM Japan                                                                |
-|                  3 | THE BLACK LABEL/Interscope Records                                      |
-|                  3 | STARSHIP Entertainment                                                  |
-|                  3 | Republic Records – NAYEON (TWICE)                                       |
-|                  3 | PLAY M ENTERTAINMENT CORP.                                              |
-|                  3 | LABEL V                                                                 |
-|                  3 | Imperial Distribution                                                   |
-|                  3 | Fave Entertainment                                                      |
-|                  3 | DSP Media                                                               |
-|                  3 | DREAMCATCHER COMPANY                                                    |
-|                  3 | BlockBerryCreative                                                      |
-|                  2 | 해피페이스 엔터테인먼트                                                            |
-|                  2 | 우조엔터테인먼트                                                                |
-|                  2 | ㈜ 드림캐쳐컴퍼니                                                               |
-|                  2 | Yedang Entertainment                                                    |
-|                  2 | TEAM WANG records/88rising Music/Warner Records                         |
-|                  2 | Sony Music Labels Inc.                                                  |
-|                  2 | ShowPLAY ENTERTAINMENT                                                  |
-|                  2 | STARSHIP ENTERTAINMENT                                                  |
-|                  2 | Million Market,Inc                                                      |
-|                  2 | Genie Music Corporation;Stone Music Entertainment                       |
-|                  2 | FNC인베스트먼트                                                               |
-|                  2 | BANANA CULTURE                                                          |
-|                  1 | 폴라리스엔터테인먼트, BlockBerryCreative                                          |
-|                  1 | 올라트엔터테인먼트, 해피트라이브엔터테인먼트                                                 |
-|                  1 | 에이스토리, 모스트콘텐츠                                                           |
-|                  1 | 스타쉽엔터테인먼트(Starship Entertainment)                                       |
-|                  1 | 브레이브 엔터테인먼트                                                             |
-|                  1 | 뮤직앤뉴, 스튜디오앤뉴                                                            |
-|                  1 | 딩고뮤직, 주식회사 오라                                                           |
-|                  1 | 드림티 엔터테인먼트                                                              |
-|                  1 | 드림캐쳐컴퍼니                                                                 |
-|                  1 | 더라이브레이블                                                                 |
-|                  1 | 내가네트워크                                                                  |
-|                  1 | ㈜ 드림캐쳐 컴퍼니                                                              |
-|                  1 | ㈜ 동요엔터테인먼트                                                              |
-|                  1 | msmedia                                                                 |
-|                  1 | dori                                                                    |
-|                  1 | YUEHUA ENTERTAINMENT KOREA                                              |
-|                  1 | YMC Ent.                                                                |
-|                  1 | XGALX                                                                   |
-|                  1 | Wild Entertainment Group (WILD)                                         |
-|                  1 | Universal Music Group International                                     |
-|                  1 | UME - Global Clearing House                                             |
-|                  1 | Transparent Arts                                                        |
-|                  1 | Think Ent.                                                              |
-|                  1 | TOON STUDIO                                                             |
-|                  1 | Starship Ent.                                                           |
-|                  1 | Silent Records/Universal Republic Records                               |
-|                  1 | SM Entertainment/Capitol Records                                        |
-|                  1 | S2 ENTERTAINMENT INC., AURA Corp.                                       |
-|                  1 | RBW, INC.                                                               |
-|                  1 | RADCOMM                                                                 |
-|                  1 | Parlophone Denmark                                                      |
-|                  1 | OH!BOY PROJECT                                                          |
-|                  1 | OFF THE RECORD Entertainment, SWING Entertainment                       |
-|                  1 | Makeus Entertainment, The Black Label                                   |
-|                  1 | Makeus Entertainment                                                    |
-|                  1 | MYSTIC ENTERTAINMENT, ChoongangICS, SM ENTERTAINMENT, JYP ENTERTAINMENT |
+|   Number of Tracks | Label                                                    |
+|-------------------:|:---------------------------------------------------------|
+|                176 | SM Entertainment                                         |
+|                 35 | YG Entertainment                                         |
+|                 34 | Genie Music Corporation, Stone Music Entertainment       |
+|                 28 | JYP Entertainment                                        |
+|                 26 | Republic Records - TWICE                                 |
+|                 22 | Universal Music LLC                                      |
+|                 22 | Republic Records - Stray Kids                            |
+|                 17 | BIGHIT MUSIC / HYBE                                      |
+|                 17 | BIGHIT MUSIC                                             |
+|                 15 | BELIFT LAB                                               |
+|                 14 | RBW Inc.                                                 |
+|                 14 | PLEDIS Entertainment                                     |
+|                 13 | Republic Records - ITZY                                  |
+|                 12 | YG Entertainment/Interscope Records                      |
+|                 11 | WM Korea                                                 |
+|                 11 | High Up Entertainment                                    |
+|                 11 | CUBE ENTERTAINMENT                                       |
+|                 10 | RBW, Inc                                                 |
+|                  9 | MYSTIC STORY                                             |
+|                  9 | MNH ENTERTAINMENT                                        |
+|                  9 | Kakao Entertainment                                      |
+|                  9 | Cube Entertainment                                       |
+|                  8 | Warner Records                                           |
+|                  8 | Starship Entertainment                                   |
+|                  8 | Genie Music Corporation                                  |
+|                  8 | FNC ENTERTAINMENT                                        |
+|                  7 | WM Entertainment                                         |
+|                  7 | SOURCE MUSIC                                             |
+|                  7 | EDAM Entertainment                                       |
+|                  6 | Stone Music Entertainment                                |
+|                  5 | avex trax                                                |
+|                  5 | YG Entertainment, distributed through Interscope Records |
+|                  5 | P NATION                                                 |
+|                  5 | KQ Entertainment                                         |
+|                  4 | Studio MaumC, Hwa&Dam pictures                           |
+|                  4 | Riot Games                                               |
+|                  4 | Republic Records - TXT                                   |
+|                  4 | PLEDIS ENTERTAINMENT                                     |
+|                  4 | Dreamcatcher Company                                     |
+|                  4 | Abyss Company                                            |
+|                  4 | ADOR                                                     |
+|                  3 | WM Japan                                                 |
+|                  3 | THE BLACK LABEL/Interscope Records                       |
+|                  3 | STARSHIP Entertainment                                   |
+|                  3 | Republic Records – NAYEON (TWICE)                        |
+|                  3 | PLAY M ENTERTAINMENT CORP.                               |
+|                  3 | LABEL V                                                  |
+|                  3 | Imperial Distribution                                    |
+|                  3 | Fave Entertainment                                       |
+|                  3 | DSP Media                                                |
+|                  3 | DREAMCATCHER COMPANY                                     |
+|                  3 | BlockBerryCreative                                       |
+|                  2 | 해피페이스 엔터테인먼트                                             |
+|                  2 | 우조엔터테인먼트                                                 |
+|                  2 | ㈜ 드림캐쳐컴퍼니                                                |
+|                  2 | Yedang Entertainment                                     |
+|                  2 | TEAM WANG records/88rising Music/Warner Records          |
+|                  2 | Sony Music Labels Inc.                                   |
+|                  2 | ShowPLAY ENTERTAINMENT                                   |
+|                  2 | STARSHIP ENTERTAINMENT                                   |
+|                  2 | Million Market,Inc                                       |
+|                  2 | Genie Music Corporation;Stone Music Entertainment        |
+|                  2 | FNC인베스트먼트                                                |
+|                  2 | BANANA CULTURE                                           |
+|                  2 | (주)블렌딩                                                   |
+|                  1 | 폴라리스엔터테인먼트, BlockBerryCreative                           |
+|                  1 | 올라트엔터테인먼트, 해피트라이브엔터테인먼트                                  |
+|                  1 | 에이스토리, 모스트콘텐츠                                            |
+|                  1 | 스타쉽엔터테인먼트(Starship Entertainment)                        |
+|                  1 | 브레이브 엔터테인먼트                                              |
+|                  1 | 뮤직앤뉴, 스튜디오앤뉴                                             |
+|                  1 | 딩고뮤직, 주식회사 오라                                            |
+|                  1 | 드림티 엔터테인먼트                                               |
+|                  1 | 드림캐쳐컴퍼니                                                  |
+|                  1 | 더라이브레이블                                                  |
+|                  1 | 내가네트워크                                                   |
+|                  1 | ㈜ 드림캐쳐 컴퍼니                                               |
+|                  1 | ㈜ 동요엔터테인먼트                                               |
+|                  1 | msmedia                                                  |
+|                  1 | dori                                                     |
+|                  1 | YUEHUA ENTERTAINMENT KOREA                               |
+|                  1 | YMC Ent.                                                 |
+|                  1 | XGALX                                                    |
+|                  1 | Wild Entertainment Group (WILD)                          |
+|                  1 | Universal Music Group International                      |
+|                  1 | UME - Global Clearing House                              |
+|                  1 | Transparent Arts                                         |
+|                  1 | Think Ent.                                               |
+|                  1 | TOON STUDIO                                              |
+|                  1 | Starship Ent.                                            |
+|                  1 | Silent Records/Universal Republic Records                |
+|                  1 | SM Entertainment/Capitol Records                         |
+|                  1 | S2 ENTERTAINMENT INC., AURA Corp.                        |
+|                  1 | RBW, INC.                                                |
+|                  1 | RADCOMM                                                  |
+|                  1 | Parlophone Denmark                                       |
+|                  1 | OH!BOY PROJECT                                           |
+|                  1 | OFF THE RECORD Entertainment, SWING Entertainment        |
+|                  1 | Makeus Entertainment, The Black Label                    |
+|                  1 | Makeus Entertainment                                     |
 
 </details>
 
@@ -720,6 +720,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2732963187314262831fa2baa49" alt="" width="50" /> | MVSK                                                     | FIRST IMPACT                                                            | Kep1er                                                                                                       | Genie Music Corporation, Stone Music Entertainment                      |     | [🔗](https://open.spotify.com/track/0dTEMO9G2uu9Vbu3f8Swto) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732963187314262831fa2baa49" alt="" width="50" /> | WA DA DA                                                 | FIRST IMPACT                                                            | Kep1er                                                                                                       | Genie Music Corporation, Stone Music Entertainment                      | 💚   | [🔗](https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734d1fce6f6b2b64395f7e804e" alt="" width="50" /> | Up!                                                      | DOUBLAST                                                                | Kep1er                                                                                                       | Genie Music Corporation, Stone Music Entertainment                      |     | [🔗](https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734e0beba9fb519b91d5485ef9" alt="" width="50" /> | Maria                                                    | 미녀는 괴로워 Original Motion picture Soundtrack                              | Kim Ah Joong                                                                                                 | (주)블렌딩                                                                  | 💚   | [🔗](https://open.spotify.com/track/1EV9aadh7iTZetS5L7jcu9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="" width="50" /> | With                                                     | Twenty-Five Twenty-One OST                                              | Kim Taeri, Nam Joohyuk, Bona(WJSN), Choi Hyunwook, Lee Joomyung                                              | Studio MaumC, Hwa&Dam pictures                                          | 💚   | [🔗](https://open.spotify.com/track/73ZHqY7Ma03NpKiKs26yQU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6afb253632c318f79697cf2" alt="" width="50" /> | Flower Way (Prod. By ZICO)                               | Jelly box Flower Way SEJEONG                                            | KIMSEJEONG                                                                                                   | JELLYFISH ENTERTAINMENT                                                 |     | [🔗](https://open.spotify.com/track/1dOD5F2hX5TBtKdQlEseR7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d662735fc7d080888bc40b4" alt="" width="50" /> | BAD GIRL (Prod. Czaer)                                   | Street Woman Fighter(SWF) Special                                       | LACHICA, [CHUNG HA](../artists/chung_ha.md)                                                                  | Genie Music Corporation                                                 |     | [🔗](https://open.spotify.com/track/4yCQYX8eKL1XYJmGglSV1A) |
