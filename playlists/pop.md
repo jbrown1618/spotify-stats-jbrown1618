@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2732737be35cc5245eef495be90ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2734f89844c76d620ff098ef5c6" alt="Pop" width="100" />
 
-349 songs
+350 songs
 
 ## Top Artists
 
@@ -267,13 +267,13 @@
 |                  4 | Island Records                                               |
 |                  4 | Atlantic Records UK                                          |
 |                  3 | Universal-Island Records Ltd.                                |
+|                  3 | Parlophone UK                                                |
 |                  3 | Parlophone Records Limited                                   |
 |                  3 | Olivia Rodrigo PS                                            |
 |                  3 | LaFace Records                                               |
 |                  3 | Casablanca Records/Island UK                                 |
 |                  3 | Bad Boy Records                                              |
 |                  2 | Radiculture/Elektra                                          |
-|                  2 | Parlophone UK                                                |
 |                  2 | Nicki Minaj/Cash Money                                       |
 |                  2 | Nice Life/Atlantic                                           |
 |                  2 | Mosley / Interscope                                          |
@@ -498,6 +498,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273ec3d15eab5bd77027abc4b23" alt="" width="50" /> | The Other Side Of Paradise                                                                                         | How To Be A Human Being                                                                             | Glass Animals                                                                                         | Wolf Tone                                                    | 💚   | [🔗](https://open.spotify.com/track/0rRjGruFonCGOt0S5zAJNQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea" alt="" width="50" /> | Heat Waves                                                                                                         | Dreamland (+ Bonus Levels)                                                                          | Glass Animals                                                                                         | Polydor Records                                              |     | [🔗](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273670f4666a378de834285eb33" alt="" width="50" /> | Crazy                                                                                                              | St. Elsewhere                                                                                       | Gnarls Barkley                                                                                        | Downtown Recordings/Atl                                      | 💚   | [🔗](https://open.spotify.com/track/2N5zMZX7YeL1tico8oQxa9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319d85a472f328a6ed9b704cf" alt="" width="50" /> | Feel Good Inc.                                                                                                     | Demon Days                                                                                          | Gorillaz                                                                                              | Parlophone UK                                                |     | [🔗](https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a2a91f99d869c4ca51362ff" alt="" width="50" /> | Somebody That I Used To Know                                                                                       | Aussie Legends                                                                                      | Gotye, [Kimbra](../artists/kimbra.md)                                                                 | UMG Recordings, Inc.                                         | 💚   | [🔗](https://open.spotify.com/track/54ZV2zBKOn1EVDUs7Jvf2F) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27355c38bc34d1fe852f2657c2e" alt="" width="50" /> | I miss you, I’m sorry                                                                                              | minor                                                                                               | Gracie Abrams                                                                                         | Gracie Abrams, under exclusive license to Interscope Records | 💚   | [🔗](https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273af06f5c40adb2bc287c46cc2" alt="" width="50" /> | How Can I                                                                                                          | How Can I                                                                                           | H 3 F                                                                                                 | H 3 F                                                        | 💚   | [🔗](https://open.spotify.com/track/3Ka0IJwEvxI3ssqbF48SWZ) |

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2735d990e8b45c848dc22885f89ab67616d0000b27362f44cdb37183a309fc1032fab67616d0000b27384470dd6235917e2e40e11f0ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="A Cappella" width="100" />
 
-295 songs
+296 songs
 
 ## Top Artists
 
@@ -17,7 +17,7 @@
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------|:------------------------------------------------------------|
 |                 36 | <img src="https://i.scdn.co/image/ab6761610000e5eb2b9297b71a8bf3deef948e32" alt="" width="50" /> | [Pentatonix](../artists/pentatonix.md)                   | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
 |                 32 | <img src="https://i.scdn.co/image/ab6761610000e5eb5c2b393e7d8a0a1bdb64b231" alt="" width="50" /> | [Peter Hollens](../artists/peter_hollens.md)             | [🔗](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) |
-|                 24 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b2621bf3c5f2197ee957582" alt="" width="50" /> | [The Tarpeggios](../artists/the_tarpeggios.md)           | [🔗](https://open.spotify.com/artist/2HXd5pFHJyaQJr5aXfErrE) |
+|                 25 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b2621bf3c5f2197ee957582" alt="" width="50" /> | [The Tarpeggios](../artists/the_tarpeggios.md)           | [🔗](https://open.spotify.com/artist/2HXd5pFHJyaQJr5aXfErrE) |
 |                 20 | <img src="https://i.scdn.co/image/ab6761610000e5eb3a9c5b798300322d4bc698f0" alt="" width="50" /> | [Tar Heel Voices](../artists/tar_heel_voices.md)         | [🔗](https://open.spotify.com/artist/1apO6pJsV1nwuF2K8sEsDo) |
 |                 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebd7125855c1ecfb7680363db7" alt="" width="50" /> | [Ithacappella](../artists/ithacappella.md)               | [🔗](https://open.spotify.com/artist/5bPTIGQvxRNjr6wl9yyAct) |
 |                 12 | <img src="https://i.scdn.co/image/ab6761610000e5eb9874bc44189b9b1a619e2b11" alt="" width="50" /> | [The Swingle Singers](../artists/the_swingle_singers.md) | [🔗](https://open.spotify.com/artist/1ZlFYysRdc6YaUH5FkxPl8) |
@@ -223,9 +223,9 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273480fc6e065aa8b15bd01485d" alt="" width="50" /> | Burn                                                                | [🔗](https://open.spotify.com/album/1fcocQi9SDelG4xiE3d7yQ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273acd107057c2284c39f1c3b27" alt="" width="50" /> | Best of BOCA: The First 20 Years                                    | [🔗](https://open.spotify.com/album/5bcLIouxn2oBiGvf4vvO6u) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733292818e78cd81fa4ba67fd2" alt="" width="50" /> | Before You Go                                                       | [🔗](https://open.spotify.com/album/00x5MddnbpBoWJWtubLhHH) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e443608c9f1cf2fdb6c36d37" alt="" width="50" /> | Before He Cheats                                                    | [🔗](https://open.spotify.com/album/7bndGIMX7IOBjG3J7O0BEQ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736c863f73a8ec70e519fbc808" alt="" width="50" /> | BOCA 2020: Best of College A Cappella                               | [🔗](https://open.spotify.com/album/3c4vODZeeDk38CVmjbUERt) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27375e1cccb63989b4aa6a22cbc" alt="" width="50" /> | BOCA 2006: Best Of College A Cappella                               | [🔗](https://open.spotify.com/album/3AeoTNhXFgBM7CuODGFelQ) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273074aa2a16488cba06eade483" alt="" width="50" /> | BOCA 2004: Best Of College A Cappella                               | [🔗](https://open.spotify.com/album/5qrIP0zXoDQUSZ9l1ZaECQ) |
 
 </details>
 
@@ -244,7 +244,7 @@
 |                 36 | RCA Records Label                             |
 |                 32 | A Cappella Records                            |
 |                 20 | Peter Hollens                                 |
-|                 15 | The Tarpeggios                                |
+|                 16 | The Tarpeggios                                |
 |                 12 | Ithacappella                                  |
 |                 11 | One Voice Productions                         |
 |                  9 | The Unc - Chapel Hill Tarpeggios              |
@@ -518,6 +518,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | Chandelier                                             | The Teal Album                                                      | [The Tarpeggios](../artists/the_tarpeggios.md)                                                                                    | The Unc - Chapel Hill Tarpeggios              |     | [🔗](https://open.spotify.com/track/132bFFrU2GvmvebqUlO2qS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | Drag Me Down / As Long as You Love Me                  | The Teal Album                                                      | [The Tarpeggios](../artists/the_tarpeggios.md)                                                                                    | The Unc - Chapel Hill Tarpeggios              | 💚   | [🔗](https://open.spotify.com/track/3GqtzxfUrdmrApqEMaWggL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | I See Fire                                             | The Teal Album                                                      | [The Tarpeggios](../artists/the_tarpeggios.md)                                                                                    | The Unc - Chapel Hill Tarpeggios              | 💚   | [🔗](https://open.spotify.com/track/4Mp2l1tCHxnm65a6yQ8lph) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e443608c9f1cf2fdb6c36d37" alt="" width="50" /> | Before He Cheats                                       | Before He Cheats                                                    | [The Tarpeggios](../artists/the_tarpeggios.md)                                                                                    | The Tarpeggios                                |     | [🔗](https://open.spotify.com/track/1kRKhFJLbqoXeBUecl8eZa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27362f44cdb37183a309fc1032f" alt="" width="50" /> | G Train                                                | G Train                                                             | [The Tarpeggios](../artists/the_tarpeggios.md)                                                                                    | The Tarpeggios                                | 💚   | [🔗](https://open.spotify.com/track/7IFr6PZwvtqBJEMl55Omvx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27322f75e45afe2febb7d3f4cac" alt="" width="50" /> | Wife You Up                                            | Immaterial                                                          | [The Tarpeggios](../artists/the_tarpeggios.md)                                                                                    | The Tarpeggios                                | 💚   | [🔗](https://open.spotify.com/track/73dGGJmQ9ERvnumjuG5LES) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27322f75e45afe2febb7d3f4cac" alt="" width="50" /> | XS                                                     | Immaterial                                                          | [The Tarpeggios](../artists/the_tarpeggios.md)                                                                                    | The Tarpeggios                                | 💚   | [🔗](https://open.spotify.com/track/3s8C5wAXYgvpmzBhTduJBg) |

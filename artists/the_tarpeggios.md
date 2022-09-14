@@ -14,12 +14,13 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27322f75e45afe2febb7d3f4cac" alt="" width="50" /> | Immaterial             |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27362f44cdb37183a309fc1032f" alt="" width="50" /> | G Train                |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737fda048477919a77dfdc5bc8" alt="" width="50" /> | Carolina State of Mind |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e443608c9f1cf2fdb6c36d37" alt="" width="50" /> | Before He Cheats       |
 
 ## Top Record Labels
 
 |   Number of Tracks | Label                              |
 |-------------------:|:-----------------------------------|
-|                 15 | The Tarpeggios                     |
+|                 16 | The Tarpeggios                     |
 |                  9 | The Unc - Chapel Hill Tarpeggios   |
 |                  1 | Shawn Kuruganti and the Tarpeggios |
 
@@ -44,6 +45,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | Chandelier                            | The Teal Album         | The Unc - Chapel Hill Tarpeggios   |     | [🔗](https://open.spotify.com/track/132bFFrU2GvmvebqUlO2qS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | Drag Me Down / As Long as You Love Me | The Teal Album         | The Unc - Chapel Hill Tarpeggios   | 💚   | [🔗](https://open.spotify.com/track/3GqtzxfUrdmrApqEMaWggL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | I See Fire                            | The Teal Album         | The Unc - Chapel Hill Tarpeggios   | 💚   | [🔗](https://open.spotify.com/track/4Mp2l1tCHxnm65a6yQ8lph) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e443608c9f1cf2fdb6c36d37" alt="" width="50" /> | Before He Cheats                      | Before He Cheats       | The Tarpeggios                     |     | [🔗](https://open.spotify.com/track/1kRKhFJLbqoXeBUecl8eZa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27362f44cdb37183a309fc1032f" alt="" width="50" /> | G Train                               | G Train                | The Tarpeggios                     | 💚   | [🔗](https://open.spotify.com/track/7IFr6PZwvtqBJEMl55Omvx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27322f75e45afe2febb7d3f4cac" alt="" width="50" /> | Wife You Up                           | Immaterial             | The Tarpeggios                     | 💚   | [🔗](https://open.spotify.com/track/73dGGJmQ9ERvnumjuG5LES) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27322f75e45afe2febb7d3f4cac" alt="" width="50" /> | XS                                    | Immaterial             | The Tarpeggios                     | 💚   | [🔗](https://open.spotify.com/track/3s8C5wAXYgvpmzBhTduJBg) |
