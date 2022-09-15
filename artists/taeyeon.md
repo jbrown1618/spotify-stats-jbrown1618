@@ -8,7 +8,7 @@
 
 |   Number of Tracks | Art                                                                                              | Album                                                |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------|
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="" width="50" /> | INVU - The 3rd Album                                 |
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="" width="50" /> | INVU - The 3rd Album                                 |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273e4915763c3c7f7a05cc93885" alt="" width="50" /> | Why - The 2nd Mini Album                             |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2738c7e7f435fdcc70772c5555e" alt="" width="50" /> | My Voice - The 1st Album                             |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f531f18feaf3c28366ad52d4" alt="" width="50" /> | I - The 1st Mini Album                               |
@@ -21,7 +21,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273df0687edfc532a78ab858512" alt="" width="50" /> | Hong Gil Dong OST                                    |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fb49e8c96b502707c691b3a3" alt="" width="50" /> | Happy                                                |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737de8f56a39ec67a091457d04" alt="" width="50" /> | Four Seasons                                         |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27303dcf797238bdb6908f80c93" alt="" width="50" /> | Can't Control Myself                                 |
 
 ## Top Record Labels
 
@@ -50,7 +49,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb49e8c96b502707c691b3a3" alt="" width="50" /> | Happy                | Happy                                                | SM Entertainment | 💚   | [🔗](https://open.spotify.com/track/459mRPsscVLMvVL59gr7EM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27354d483dff87402bfe717f738" alt="" width="50" /> | What Do I Call You   | What Do I Call You - The 4th Mini Album              | SM Entertainment | 💚   | [🔗](https://open.spotify.com/track/3Wu4lFjkhcXxB6WWaX9gtr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f4eaffe012c3fc3b73a61bb2" alt="" width="50" /> | Weekend              | Weekend                                              | SM Entertainment | 💚   | [🔗](https://open.spotify.com/track/6cqH1q7g5GeRVQVMK1Vc7f) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27303dcf797238bdb6908f80c93" alt="" width="50" /> | Can't Control Myself | Can't Control Myself                                 | SM Entertainment | 💚   | [🔗](https://open.spotify.com/track/559f8rcNNZW07wz5Rfxnfh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="" width="50" /> | Can't Control Myself | INVU - The 3rd Album                                 | SM Entertainment | 💚   | [🔗](https://open.spotify.com/track/2TZTpkpnDIKUOfU6riqCfE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="" width="50" /> | Cold As Hell         | INVU - The 3rd Album                                 | SM Entertainment | 💚   | [🔗](https://open.spotify.com/track/7gosH4fL73GpiJBd5GK2rC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="" width="50" /> | Heart                | INVU - The 3rd Album                                 | SM Entertainment | 💚   | [🔗](https://open.spotify.com/track/5wr4JYeZZz4POQao14IDFu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="" width="50" /> | INVU                 | INVU - The 3rd Album                                 | SM Entertainment | 💚   | [🔗](https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV) |

@@ -88,7 +88,7 @@
 |                  1 | <img src="nan" alt="" width="50" />                                                              | Gabriella Flores                     | [🔗](https://open.spotify.com/artist/0IFKI1ya1XM9LGVktNS2cS) |
 |                  1 | <img src="nan" alt="" width="50" />                                                              | Gael Garcia Bernal                   | [🔗](https://open.spotify.com/artist/09oR0uKhqwScsKa2eUK97p) |
 |                  1 | <img src="nan" alt="" width="50" />                                                              | Mary Moder                           | [🔗](https://open.spotify.com/artist/00ud2vhOOcbrUyGGYPSTYh) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d0250f0e453268984494b678" alt="" width="50" /> | James Hong                           | [🔗](https://open.spotify.com/artist/00erTY7OuCOdNTN36srPNN) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27394c1072c43f5c7f98f517067" alt="" width="50" /> | James Hong                           | [🔗](https://open.spotify.com/artist/00erTY7OuCOdNTN36srPNN) |
 
 </details>
 
