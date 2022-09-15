@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2731d97ca7376f835055f828139ab67616d0000b27379e8b529ce6c088a8027b2a1ab67616d0000b273b33d46dfa2635a47eebf63b2ab67616d0000b273d8601e15fa1b4351fe1fc6ae" alt="Electronic" width="100" />
 
-11 songs
+[11 songs](electronic_tracks.md)
 
 ## Top Artists
 
@@ -48,15 +48,16 @@
 
 ## Top Record Labels
 
-![Bar chart of top 5 record labels in Electronic](../images/playlists/electronic/labels.png)
+![Bar chart of top 6 record labels in Electronic](../images/playlists/electronic/labels.png)
 
 
 <details>
-<summary>See all 5 labels</summary>
+<summary>See all 6 labels</summary>
 
 |   Number of Tracks | Label                          |
 |-------------------:|:-------------------------------|
-|                  4 | Daft Life Ltd./ADA France      |
+|                  4 | Daft Life Ltd.                 |
+|                  4 | ADA France                     |
 |                  3 | Lindseystomp Records           |
 |                  2 | Columbia                       |
 |                  1 | SM Entertainment               |
@@ -64,19 +65,3 @@
 
 </details>
 
-
-## Tracks
-
-| Art                                                                                              | Track                                              | Album                  | Artists                                    | Label                          | 💚   | 🔗                                                          |
-|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------|:-----------------------|:-------------------------------------------|:-------------------------------|:----|:-----------------------------------------------------------|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b33d46dfa2635a47eebf63b2" alt="" width="50" /> | Digital Love                                       | Discovery              | Daft Punk                                  | Daft Life Ltd./ADA France      | 💚   | [🔗](https://open.spotify.com/track/2VEZx7NWsZ1D0eJ4uv5Fym) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b33d46dfa2635a47eebf63b2" alt="" width="50" /> | Harder, Better, Faster, Stronger                   | Discovery              | Daft Punk                                  | Daft Life Ltd./ADA France      | 💚   | [🔗](https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b33d46dfa2635a47eebf63b2" alt="" width="50" /> | One More Time                                      | Discovery              | Daft Punk                                  | Daft Life Ltd./ADA France      | 💚   | [🔗](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8601e15fa1b4351fe1fc6ae" alt="" width="50" /> | Technologic                                        | Human After All        | Daft Punk                                  | Daft Life Ltd./ADA France      | 💚   | [🔗](https://open.spotify.com/track/0LSLM0zuWRkEYemF7JcfEE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731d97ca7376f835055f828139" alt="" width="50" /> | Instant Crush (feat. Julian Casablancas)           | Random Access Memories | Daft Punk, Julian Casablancas              | Columbia                       | 💚   | [🔗](https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731d97ca7376f835055f828139" alt="" width="50" /> | Get Lucky (feat. Pharrell Williams & Nile Rodgers) | Random Access Memories | Daft Punk, Pharrell Williams, Nile Rodgers | Columbia                       | 💚   | [🔗](https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735062dabfa4007e1b72981edf" alt="" width="50" /> | Badster                                            | Badster                | HYO                                        | SM Entertainment               |     | [🔗](https://open.spotify.com/track/7sjzOysoro4EunDYC9M6Vx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="" width="50" /> | Crystallize                                        | Lindsey Stirling       | Lindsey Stirling                           | Lindseystomp Records           | 💚   | [🔗](https://open.spotify.com/track/5JFkuKQsPps2ZaZzaLx63d) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="" width="50" /> | Song of the Caged Bird                             | Lindsey Stirling       | Lindsey Stirling                           | Lindseystomp Records           | 💚   | [🔗](https://open.spotify.com/track/1rmCtRmkQXWKRhBi91NX3z) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cdb2461871ded49f97bc41c2" alt="" width="50" /> | Shatter Me Featuring Lzzy Hale                     | Shatter Me             | Lindsey Stirling                           | Lindseystomp Records           | 💚   | [🔗](https://open.spotify.com/track/2K7j4xrQENCi5r3Hii4cVe) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273107a93a6e4700e9ff7e6ca43" alt="" width="50" /> | Underground                                        | Artemis                | Lindsey Stirling                           | BMG Rights Management (US) LLC |     | [🔗](https://open.spotify.com/track/2vcEiEb8cTgyeb0biKChCY) |

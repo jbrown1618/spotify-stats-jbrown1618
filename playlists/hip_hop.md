@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2730b1cfc3df4d9d5d4cbce9208ab67616d0000b27310356a0e81371e6644cb1371ab67616d0000b27329a42ba069a854c9078377b4ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="Hip Hop" width="100" />
 
-20 songs
+[20 songs](hip_hop_tracks.md)
 
 ## Top Artists
 
@@ -76,53 +76,33 @@
 
 ## Top Record Labels
 
-![Bar chart of top 14 record labels in Hip Hop](../images/playlists/hip_hop/labels.png)
+![Bar chart of top 19 record labels in Hip Hop](../images/playlists/hip_hop/labels.png)
 
 
 <details>
-<summary>See all 14 labels</summary>
+<summary>See all 19 labels</summary>
 
 |   Number of Tracks | Label                           |
 |-------------------:|:--------------------------------|
 |                  4 | Aftermath                       |
-|                  3 | Kemosabe Records/RCA Records    |
-|                  2 | Nicki Minaj/Cash Money          |
+|                  3 | RCA Records Label               |
+|                  3 | Kemosabe Records                |
+|                  2 | Nicki Minaj                     |
+|                  2 | Cash Money                      |
+|                  2 | Atlantic Records                |
+|                  1 | Warner Records                  |
 |                  1 | The Orchard                     |
 |                  1 | Roc-A-Fella                     |
+|                  1 | KSR                             |
+|                  1 | Interscope Records              |
+|                  1 | EMPIRE                          |
 |                  1 | Columbia                        |
-|                  1 | Bad Dreams Records / EMPIRE     |
-|                  1 | Bad Boy / Interscope            |
-|                  1 | Atlantic/KSR                    |
-|                  1 | Atlantic Records                |
-|                  1 | Asylum/Warner Records           |
+|                  1 | Bad Dreams Records              |
+|                  1 | Bad Boy Records                 |
+|                  1 | Asylum                          |
 |                  1 | American Recordings Catalog P&D |
 |                  1 | A&M                             |
 |                  1 | 3H                              |
 
 </details>
 
-
-## Tracks
-
-| Art                                                                                              | Track                               | Album                             | Artists                                       | Label                           | 💚   | 🔗                                                          |
-|:-------------------------------------------------------------------------------------------------|:------------------------------------|:----------------------------------|:----------------------------------------------|:--------------------------------|:----|:-----------------------------------------------------------|
-| <img src="https://i.scdn.co/image/ab67616d0000b273e435b4dfdcf5e3c4a25663df" alt="" width="50" /> | Where Is The Love?                  | Elephunk                          | Black Eyed Peas                               | A&M                             | 💚   | [🔗](https://open.spotify.com/track/3CNqo3gYrfexdrtjFmC9he) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730b1cfc3df4d9d5d4cbce9208" alt="" width="50" /> | Hello Good Morning                  | Last Train To Paris               | Diddy - Dirty Money, T.I.                     | Bad Boy / Interscope            | 💚   | [🔗](https://open.spotify.com/track/7yzSijmAyOMBcHrK6Tfsoe) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27382b243023b937fd579a35533" alt="" width="50" /> | Say So                              | Hot Pink                          | Doja Cat                                      | Kemosabe Records/RCA Records    | 💚   | [🔗](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27310356a0e81371e6644cb1371" alt="" width="50" /> | Boss Bitch                          | Boss Bitch                        | Doja Cat                                      | Atlantic Records                | 💚   | [🔗](https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" alt="" width="50" /> | Need to Know                        | Planet Her                        | Doja Cat                                      | Kemosabe Records/RCA Records    | 💚   | [🔗](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273908280d9807127e185b71d56" alt="" width="50" /> | Kiss Me More (feat. SZA)            | Kiss Me More (feat. SZA)          | Doja Cat, SZA                                 | Kemosabe Records/RCA Records    | 💚   | [🔗](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="" width="50" /> | We Made You                         | Relapse: Refill                   | Eminem                                        | Aftermath                       |     | [🔗](https://open.spotify.com/track/4UMTp91LHhvW33ol9ZQH0Q) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27331aafa752187cb0284307200" alt="" width="50" /> | Lose Yourself                       | SHADYXV                           | Eminem                                        | 3H                              | 💚   | [🔗](https://open.spotify.com/track/77Ft1RJngppZlq59B6uP0z) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fc26c1e9b1cc4ecd87e9ddef" alt="" width="50" /> | Sally Walker                        | In My Defense                     | Iggy Azalea                                   | Bad Dreams Records / EMPIRE     | 💚   | [🔗](https://open.spotify.com/track/1bPoQ1zaUWZmiYrckwfulU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f" alt="" width="50" /> | All Of The Lights                   | My Beautiful Dark Twisted Fantasy | Kanye West                                    | Roc-A-Fella                     |     | [🔗](https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1" alt="" width="50" /> | Alright                             | To Pimp A Butterfly               | Kendrick Lamar                                | Aftermath                       |     | [🔗](https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273be82673b5f79d9658ec0a9fd" alt="" width="50" /> | INDUSTRY BABY (feat. Jack Harlow)   | MONTERO                           | Lil Nas X, Jack Harlow                        | Columbia                        |     | [🔗](https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="" width="50" /> | WAP (feat. Megan Thee Stallion)     | WAP (feat. Megan Thee Stallion)   | Megan Thee Stallion, Cardi B                  | Atlantic/KSR                    | 💚   | [🔗](https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27343f15453faa4973061411a79" alt="" width="50" /> | Super Bass                          | Pink Friday                       | Nicki Minaj                                   | Nicki Minaj/Cash Money          | 💚   | [🔗](https://open.spotify.com/track/2jSwKQBouf0brIcxGfA9CZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730f79d1616e3b02368d41f458" alt="" width="50" /> | Anaconda                            | The Pinkprint (Deluxe)            | Nicki Minaj                                   | Nicki Minaj/Cash Money          | 💚   | [🔗](https://open.spotify.com/track/794F99D5BQHS5ZGRXAs7I5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="" width="50" /> | Love The Way You Lie                | Recovery                          | [Rihanna](../artists/rihanna.md), Eminem      | Aftermath                       | 💚   | [🔗](https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27357195dfe8926f713b21d6cac" alt="" width="50" /> | The Monster                         | The Marshall Mathers LP2          | [Rihanna](../artists/rihanna.md), Eminem      | Aftermath                       | 💚   | [🔗](https://open.spotify.com/track/48RrDBpOSSl1aLVCalGl5C) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f82c7e4376cf8267fb396b7d" alt="" width="50" /> | Baby Got Back                       | Mack Daddy                        | Sir Mix-A-Lot                                 | American Recordings Catalog P&D | 💚   | [🔗](https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl) |
-| <img src="https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db" alt="" width="50" /> | No Hands (feat. Roscoe Dash & Wale) | Flockaveli                        | Waka Flocka Flame, Roscoe Dash, Wale          | Asylum/Warner Records           | 💚   | [🔗](https://open.spotify.com/track/03tqyYWC9Um2ZqU0ZN849H) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" alt="" width="50" /> | Get Low                             | Kings Of Crunk                    | Ying Yang Twins, Lil Jon & The East Side Boyz | The Orchard                     | 💚   | [🔗](https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j) |
