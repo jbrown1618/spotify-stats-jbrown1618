@@ -20,13 +20,13 @@
 
 ## Top Record Labels
 
-|   Number of Tracks | Label                                              |
-|-------------------:|:---------------------------------------------------|
-|                  9 | MNH ENTERTAINMENT                                  |
-|                  3 | Genie Music Corporation, Stone Music Entertainment |
-|                  1 | SM Entertainment                                   |
-|                  1 | Parlophone Denmark                                 |
-|                  1 | Genie Music Corporation                            |
+|   Number of Tracks | Label                     |
+|-------------------:|:--------------------------|
+|                  9 | MNH ENTERTAINMENT         |
+|                  4 | Genie Music Corporation   |
+|                  3 | Stone Music Entertainment |
+|                  1 | SM Entertainment          |
+|                  1 | Parlophone Denmark        |
 
 ## Tracks
 

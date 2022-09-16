@@ -19,10 +19,11 @@
 
 ## Top Record Labels
 
-|   Number of Tracks | Label                         |
-|-------------------:|:------------------------------|
-|                 17 | Polydor Records               |
-|                  1 | Silver Cloud/Charlie's Angels |
+|   Number of Tracks | Label            |
+|-------------------:|:-----------------|
+|                 17 | Polydor Records  |
+|                  1 | Silver Cloud     |
+|                  1 | Charlie's Angels |
 
 ## Tracks
 

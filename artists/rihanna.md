@@ -20,12 +20,13 @@
 
 ## Top Record Labels
 
-|   Number of Tracks | Label                |
-|-------------------:|:---------------------|
-|                  9 | Def Jam Recordings   |
-|                  2 | Aftermath            |
-|                  1 | Roc Nation / Rihanna |
-|                  1 | Columbia             |
+|   Number of Tracks | Label              |
+|-------------------:|:-------------------|
+|                  9 | Def Jam Recordings |
+|                  2 | Aftermath          |
+|                  1 | Roc Nation         |
+|                  1 | Rihanna            |
+|                  1 | Columbia           |
 
 ## Tracks
 

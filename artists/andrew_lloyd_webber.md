@@ -18,7 +18,8 @@
 |-------------------:|:--------------------------------|
 |                 21 | Polydor Records                 |
 |                 10 | UMC (Universal Music Catalogue) |
-|                  1 | Sony Classical/Sony Music       |
+|                  1 | Sony Music Labels Inc.          |
+|                  1 | Sony Classical                  |
 
 ## Tracks
 

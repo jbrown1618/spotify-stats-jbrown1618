@@ -24,10 +24,9 @@
 
 |   Number of Tracks | Label               |
 |-------------------:|:--------------------|
+|                  9 | CUBE ENTERTAINMENT  |
 |                  7 | Universal Music LLC |
-|                  6 | Cube Entertainment  |
 |                  3 | Riot Games          |
-|                  3 | CUBE ENTERTAINMENT  |
 
 ## Tracks
 

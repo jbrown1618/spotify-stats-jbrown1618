@@ -15,10 +15,10 @@
 
 ## Top Record Labels
 
-|   Number of Tracks | Label                |
-|-------------------:|:---------------------|
-|                 13 | Warner Records       |
-|                  1 | UMG Recordings, Inc. |
+|   Number of Tracks | Label          |
+|-------------------:|:---------------|
+|                 13 | Warner Records |
+|                  1 | UMG Recordings |
 
 ## Tracks
 

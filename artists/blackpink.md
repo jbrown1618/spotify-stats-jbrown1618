@@ -22,14 +22,13 @@
 
 ## Top Record Labels
 
-|   Number of Tracks | Label                                                         |
-|-------------------:|:--------------------------------------------------------------|
-|                  8 | YG Entertainment/Interscope Records                           |
-|                  8 | YG Entertainment                                              |
-|                  4 | YG Entertainment, distributed through Interscope Records      |
-|                  1 | Warner Records                                                |
-|                  1 | Interscope                                                    |
-|                  1 | 2018 YG Entertainment, distributed through Interscope Records |
+|   Number of Tracks | Label                                  |
+|-------------------:|:---------------------------------------|
+|                 20 | YG Entertainment                       |
+|                  9 | Interscope Records                     |
+|                  5 | distributed through Interscope Records |
+|                  1 | Warner Records                         |
+|                  1 | 2018 YG Entertainment                  |
 
 ## Tracks
 

@@ -15,8 +15,7 @@
 
 |   Number of Tracks | Label     |
 |-------------------:|:----------|
-|                 12 | PentaTone |
-|                  9 | PENTATONE |
+|                 21 | PENTATONE |
 
 ## Tracks
 

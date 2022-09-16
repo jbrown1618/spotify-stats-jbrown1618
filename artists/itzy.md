@@ -26,7 +26,7 @@
 
 |   Number of Tracks | Label                   |
 |-------------------:|:------------------------|
-|                 13 | Republic Records - ITZY |
+|                 13 | Republic Records        |
 |                 10 | JYP Entertainment       |
 |                  1 | Warner Records          |
 |                  1 | WM Japan                |

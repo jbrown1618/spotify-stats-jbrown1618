@@ -24,10 +24,10 @@
 
 ## Top Record Labels
 
-|   Number of Tracks | Label                         |
-|-------------------:|:------------------------------|
-|                 22 | Republic Records - Stray Kids |
-|                  1 | Sony Music Labels Inc.        |
+|   Number of Tracks | Label                  |
+|-------------------:|:-----------------------|
+|                 22 | Republic Records       |
+|                  1 | Sony Music Labels Inc. |
 
 ## Tracks
 

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273f7da7c0f322b7a1c95190d92" alt="K-Pop" width="100" />
 
-[761 songs](k_pop_tracks.md)
+[760 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -17,7 +17,7 @@
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------|:------------------------------------------------------------|
 |                 52 | <img src="https://i.scdn.co/image/ab6761610000e5eb8a8415e72dedaa552259d0c1" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)               | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 |                 31 | <img src="https://i.scdn.co/image/ab6761610000e5ebd84fd6ae9ccfc6206ea6711e" alt="" width="50" /> | [TWICE](../artists/twice.md)                         | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
-|                 30 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)                             | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
+|                 29 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)                             | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 |                 26 | <img src="https://i.scdn.co/image/ab6761610000e5ebaa28abbc6d04ccd22c8ae3b5" alt="" width="50" /> | [ITZY](../artists/itzy.md)                           | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                 23 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b6160c954c6a5b7d4756608" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)                 | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 |                 23 | <img src="https://i.scdn.co/image/ab6761610000e5ebb6501e0b3fcde145838f4724" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md)               | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
@@ -171,7 +171,6 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="" width="50" /> | NCT 2018 EMPATHY                                 | [🔗](https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | MAP OF THE SOUL : PERSONA                        | [🔗](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2738afcb7dd182cffe8d53b781e" alt="" width="50" /> | MAP OF THE SOUL : 7                              | [🔗](https://open.spotify.com/album/6mJZTV8lCqnwftYZa94bXS) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | Love Yourself 結 'Answer'                         | [🔗](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | Love Yourself 承 'Her'                            | [🔗](https://open.spotify.com/album/2FTS6a6DLXMNp8flyA0HGO) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2735fb4a9cfbeb3b7beb337ed02" alt="" width="50" /> | IM NAYEON                                        | [🔗](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | I burn                                           | [🔗](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) |
@@ -220,6 +219,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27338fc902e1d368df7fc0d77a3" alt="" width="50" /> | Melting                                          | [🔗](https://open.spotify.com/album/11hjJntrvmauDoga4Krr0U) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" alt="" width="50" /> | MANIFESTO : DAY 1                                | [🔗](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273fd0d9a33127c1d3f58ba3504" alt="" width="50" /> | MADE                                             | [🔗](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | Love Yourself 結 'Answer'                         | [🔗](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2733fe0e026d4043e5d62c81328" alt="" width="50" /> | LOVE or TAKE                                     | [🔗](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f7da7c0f322b7a1c95190d92" alt="" width="50" /> | LOVE SHOT– The 5th Album Repackage               | [🔗](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093" alt="" width="50" /> | LOVE DIVE                                        | [🔗](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) |
@@ -248,7 +248,7 @@
 |                 52 | YG Entertainment                                  |
 |                 42 | Genie Music Corporation                           |
 |                 40 | Stone Music Entertainment                         |
-|                 34 | BIGHIT MUSIC                                      |
+|                 33 | BIGHIT MUSIC                                      |
 |                 29 | JYP Entertainment                                 |
 |                 25 | RBW Inc.                                          |
 |                 22 | Universal Music LLC                               |
@@ -296,7 +296,7 @@
 |                  2 | TEAM WANG records                                 |
 |                  2 | Sony Music Labels Inc.                            |
 |                  2 | ShowPLAY ENTERTAINMENT                            |
-|                  2 | SWING Entertainment                               |
+|                  2 | SWING ENTERTAINMENT                               |
 |                  2 | Million Market                                    |
 |                  2 | Makeus Entertainment                              |
 |                  2 | Genie Music Corporation;Stone Music Entertainment |

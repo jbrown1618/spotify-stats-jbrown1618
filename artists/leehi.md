@@ -21,13 +21,14 @@
 
 ## Top Record Labels
 
-|   Number of Tracks | Label                                              |
-|-------------------:|:---------------------------------------------------|
-|                  7 | YG Entertainment                                   |
-|                  2 | Genie Music Corporation, Stone Music Entertainment |
-|                  1 | PLEDIS Entertainment                               |
-|                  1 | Genie Music Corporation;Stone Music Entertainment  |
-|                  1 | AOMG                                               |
+|   Number of Tracks | Label                                             |
+|-------------------:|:--------------------------------------------------|
+|                  7 | YG Entertainment                                  |
+|                  2 | Stone Music Entertainment                         |
+|                  2 | Genie Music Corporation                           |
+|                  1 | PLEDIS Entertainment                              |
+|                  1 | Genie Music Corporation;Stone Music Entertainment |
+|                  1 | AOMG                                              |
 
 ## Tracks
 

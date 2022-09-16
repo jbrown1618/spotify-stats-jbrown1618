@@ -1,9 +1,9 @@
 # Singer-Songwriter
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d0000b2730e402844f1b6be3102d339f2ab67616d0000b2731946747b8692919f98918ec4ab67616d0000b2731d4675d5a0345bb93686e4b6ab67616d0000b27386a7d1e76303f80a4db38139" alt="Singer-Songwriter" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d0000b273022b4010e20659300f42c375ab67616d0000b2730e402844f1b6be3102d339f2ab67616d0000b2733378545422c5257483f6230eab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="Singer-Songwriter" width="100" />
 
-[230 songs](singer_songwriter_tracks.md)
+[229 songs](singer_songwriter_tracks.md)
 
 ## Top Artists
 
@@ -27,8 +27,8 @@
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb83c74866e5bc047479cd3413" alt="" width="50" /> | Sammy Rae & The Friends                        | [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970" alt="" width="50" /> | Elton John                                     | [🔗](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb6eff35941dca1f9461944174" alt="" width="50" /> | Elizaveta                                      | [🔗](https://open.spotify.com/artist/2a9bCkqCkLvXM0s3uPvR7M) |
-|                  4 | <img src="https://i.scdn.co/image/9a03437da395d999755edacccc24779a97254b89" alt="" width="50" /> | Aslyn                                          | [🔗](https://open.spotify.com/artist/6seR0G84QQq1NIW844E7Qq) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eba36a9f95d59ab791d5e897e9" alt="" width="50" /> | Regina Spektor                                 | [🔗](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) |
+|                  3 | <img src="https://i.scdn.co/image/9a03437da395d999755edacccc24779a97254b89" alt="" width="50" /> | Aslyn                                          | [🔗](https://open.spotify.com/artist/6seR0G84QQq1NIW844E7Qq) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebce8d5be6690c6964069ab8e0" alt="" width="50" /> | Jason Mraz                                     | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eba5fc004270bdfc9fee7f55f4" alt="" width="50" /> | Jon McLaughlin                                 | [🔗](https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7) |
 |                  2 | <img src="https://i.scdn.co/image/813fde33623cbfd065053789cf1ffb22b55efd4a" alt="" width="50" /> | Carole King                                    | [🔗](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) |
@@ -57,7 +57,7 @@
 
 
 <details>
-<summary>See all 81 albums</summary>
+<summary>See all 80 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                       | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------|:-----------------------------------------------------------|
@@ -110,7 +110,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736fbd5300d0f51be963360367" alt="" width="50" /> | The Widow Knows E.P.                        | [🔗](https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b17d3cdd360973516ade9e6d" alt="" width="50" /> | The Reminder                                | [🔗](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e5e5f24cf490dfc7041eafc3" alt="" width="50" /> | The Nylon Curtain                           | [🔗](https://open.spotify.com/album/50bajZpetfL5T0iRCOR74J) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27386a7d1e76303f80a4db38139" alt="" width="50" /> | The Grand Garden EP Phase 1                 | [🔗](https://open.spotify.com/album/01leyRD2FHWrUvHC4qMN8y) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27369b3dd10eee85bb2652c3b05" alt="" width="50" /> | The Golden Echo                             | [🔗](https://open.spotify.com/album/66hoUkjxM7tVQwu7bZocwP) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273800f95060baebdd6aea0f4b9" alt="" width="50" /> | The Bridge                                  | [🔗](https://open.spotify.com/album/2fRxSC6FtiAkhEDVZr2seH) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273cf31c7be8a9eea69d98c37c4" alt="" width="50" /> | Sides                                       | [🔗](https://open.spotify.com/album/5alIr9JGPvOQwPLphm0beJ) |
@@ -152,7 +151,7 @@
 
 
 <details>
-<summary>See all 36 labels</summary>
+<summary>See all 35 labels</summary>
 
 |   Number of Tracks | Label                                         |
 |-------------------:|:----------------------------------------------|
@@ -190,7 +189,6 @@
 |                  1 | Clean Slate                                   |
 |                  1 | Carrie Manolakos                              |
 |                  1 | Atlantic Records UK                           |
-|                  1 | Aslyn                                         |
 |                  1 | ATO Records                                   |
 
 </details>

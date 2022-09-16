@@ -1,7 +1,7 @@
 # K-Pop Favorites
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d0000b27362e6288a5887b95176cca29eab67616d0000b2739d650d0d98caf3f54b842a0bab67616d0000b273b64001fa6292caefc7605550ab67616d0000b273ff4ec21d7817138cabcc19bc" alt="K-Pop Favorites" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b273714e56679ab196354e2e443eab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738c4a282e84a53c1c8acf129a" alt="K-Pop Favorites" width="100" />
 
 [174 songs](k_pop_favorites_tracks.md)
 
@@ -227,12 +227,12 @@
 |                  6 | BELIFT LAB                             |
 |                  5 | PLEDIS Entertainment                   |
 |                  5 | Kakao Entertainment                    |
-|                  4 | HYBE                                   |
 |                  4 | CUBE ENTERTAINMENT                     |
 |                  4 | BIGHIT MUSIC                           |
 |                  3 | Warner Records                         |
 |                  3 | MNH ENTERTAINMENT                      |
 |                  3 | High Up Entertainment                  |
+|                  3 | HYBE                                   |
 |                  3 | EDAM Entertainment                     |
 |                  2 | distributed through Interscope Records |
 |                  2 | WM Japan                               |

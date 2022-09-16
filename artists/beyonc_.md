@@ -18,12 +18,12 @@
 
 ## Top Record Labels
 
-|   Number of Tracks | Label                           |
-|-------------------:|:--------------------------------|
-|                  6 | Parkwood Entertainment/Columbia |
-|                  5 | Music World Music/Columbia      |
-|                  3 | Columbia                        |
-|                  1 | Interscope                      |
+|   Number of Tracks | Label                  |
+|-------------------:|:-----------------------|
+|                 14 | Columbia               |
+|                  6 | Parkwood Entertainment |
+|                  5 | Music World Music      |
+|                  1 | Interscope Records     |
 
 ## Tracks
 

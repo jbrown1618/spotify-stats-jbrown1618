@@ -23,8 +23,7 @@
 |                103 | Decca Music Group Ltd.   |
 |                 95 | harmonia mundi           |
 |                 42 | Deutsche Grammophon (DG) |
-|                 12 | PentaTone                |
-|                  9 | PENTATONE                |
+|                 21 | PENTATONE                |
 
 ## Tracks
 

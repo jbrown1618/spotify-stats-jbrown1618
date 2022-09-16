@@ -18,12 +18,12 @@
 
 ## Top Record Labels
 
-|   Number of Tracks | Label                            |
-|-------------------:|:---------------------------------|
-|                  8 | Atlantic Records                 |
-|                  1 | Columbia                         |
-|                  1 | Atlantic/KSR                     |
-|                  1 | Aftermath Entertainment/Atlantic |
+|   Number of Tracks | Label                   |
+|-------------------:|:------------------------|
+|                 10 | Atlantic Records        |
+|                  1 | KSR                     |
+|                  1 | Columbia                |
+|                  1 | Aftermath Entertainment |
 
 ## Tracks
 

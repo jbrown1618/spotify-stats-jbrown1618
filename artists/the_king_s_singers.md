@@ -17,13 +17,14 @@
 
 ## Top Record Labels
 
-|   Number of Tracks | Label                     |
-|-------------------:|:--------------------------|
-|                  4 | Warner Classics           |
-|                  3 | Sony Classical/Sony Music |
-|                  2 | Signum Records            |
-|                  2 | RCA Victor                |
-|                  1 | RCA Victor - Munich       |
+|   Number of Tracks | Label                  |
+|-------------------:|:-----------------------|
+|                  4 | Warner Classics        |
+|                  3 | Sony Music Labels Inc. |
+|                  3 | Sony Classical         |
+|                  2 | Signum Records         |
+|                  2 | RCA Victor             |
+|                  1 | RCA Victor - Munich    |
 
 ## Tracks
 

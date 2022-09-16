@@ -17,10 +17,10 @@
 
 ## Top Record Labels
 
-|   Number of Tracks | Label                       |
-|-------------------:|:----------------------------|
-|                  8 | Darkroom/Interscope Records |
-|                  2 | Darkroom                    |
+|   Number of Tracks | Label              |
+|-------------------:|:-------------------|
+|                 10 | Darkroom           |
+|                  8 | Interscope Records |
 
 ## Tracks
 

@@ -20,8 +20,7 @@
 
 |   Number of Tracks | Label                |
 |-------------------:|:---------------------|
-|                  4 | Dreamcatcher Company |
-|                  3 | DREAMCATCHER COMPANY |
+|                  7 | DREAMCATCHER COMPANY |
 |                  2 | ㈜ 드림캐쳐컴퍼니            |
 |                  1 | 해피페이스 엔터테인먼트         |
 |                  1 | 드림캐쳐컴퍼니              |

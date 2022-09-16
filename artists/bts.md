@@ -9,9 +9,9 @@
 |   Number of Tracks | Art                                                                                              | Album                                            |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------|
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | Love Yourself 轉 'Tear'                           |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | Love Yourself 結 'Answer'                         |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | MAP OF THE SOUL : PERSONA                        |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2738afcb7dd182cffe8d53b781e" alt="" width="50" /> | MAP OF THE SOUL : 7                              |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | Love Yourself 結 'Answer'                         |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | Love Yourself 承 'Her'                            |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="" width="50" /> | BE                                               |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="" width="50" /> | The Most Beautiful Moment in Life: Young Forever |
@@ -24,15 +24,14 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273da9c76ed020a7894443a3f97" alt="" width="50" /> | MAP OF THE SOUL : 7 ~ THE JOURNEY ~              |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738f31818d30fdb7f44fd57713" alt="" width="50" /> | Dark & Wild                                      |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ed656680374294d5217193fa" alt="" width="50" /> | Butter                                           |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733deb4b0115410a85afe31c29" alt="" width="50" /> | BE                                               |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27349a0f2ca62742d289da81509" alt="" width="50" /> | 2 Cool 4 Skool                                   |
 
 ## Top Record Labels
 
 |   Number of Tracks | Label               |
 |-------------------:|:--------------------|
-|                 17 | BIGHIT MUSIC        |
-|                 13 | BIGHIT MUSIC / HYBE |
+|                 28 | BIGHIT MUSIC        |
+|                 12 | HYBE                |
 |                  1 | Universal Music LLC |
 |                  1 | Columbia            |
 |                  1 | Capitol Records     |
@@ -56,7 +55,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | Anpanman                                          | Love Yourself 轉 'Tear'                           | BIGHIT MUSIC        | 💚   | [🔗](https://open.spotify.com/track/34OSqW5ULWxmCEMjJ1ZgVW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | FAKE LOVE                                         | Love Yourself 轉 'Tear'                           | BIGHIT MUSIC        | 💚   | [🔗](https://open.spotify.com/track/6m1TWFMeon7ai9XLOzdbiR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | The Truth Untold (feat. Steve Aoki)               | Love Yourself 轉 'Tear'                           | BIGHIT MUSIC        |     | [🔗](https://open.spotify.com/track/7DEKa5Z7Cl8s3Y7imb88OM) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | DNA                                               | Love Yourself 結 'Answer'                         | BIGHIT MUSIC        |     | [🔗](https://open.spotify.com/track/2ngmiq1KoYn3x25VOmvd8F) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | IDOL                                              | Love Yourself 結 'Answer'                         | BIGHIT MUSIC        | 💚   | [🔗](https://open.spotify.com/track/1e8J3XClxZbFmvIHLI8CE4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | MIC Drop (Steve Aoki Remix) - Full Length Edition | Love Yourself 結 'Answer'                         | BIGHIT MUSIC        |     | [🔗](https://open.spotify.com/track/01380RE6UfsPSdiUIwrCoH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | Singularity                                       | Love Yourself 結 'Answer'                         | BIGHIT MUSIC        | 💚   | [🔗](https://open.spotify.com/track/2ApfJvLr7RbhJl6NOVhEu6) |
@@ -72,5 +70,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="" width="50" /> | Dynamite                                          | BE                                               | BIGHIT MUSIC        | 💚   | [🔗](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="" width="50" /> | Life Goes On                                      | BE                                               | BIGHIT MUSIC        | 💚   | [🔗](https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="" width="50" /> | Telepathy                                         | BE                                               | BIGHIT MUSIC        | 💚   | [🔗](https://open.spotify.com/track/6Fnvi5QnVkTskSzeRvvQds) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733deb4b0115410a85afe31c29" alt="" width="50" /> | Telepathy                                         | BE                                               | BIGHIT MUSIC / HYBE |     | [🔗](https://open.spotify.com/track/2FVpOsjT1iquZ3SpCjZ9Ne) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed656680374294d5217193fa" alt="" width="50" /> | Butter                                            | Butter                                           | BIGHIT MUSIC / HYBE | 💚   | [🔗](https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq) |

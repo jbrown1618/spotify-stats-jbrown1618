@@ -23,11 +23,11 @@
 
 ## Top Record Labels
 
-|   Number of Tracks | Label                    |
-|-------------------:|:-------------------------|
-|                 29 | Big Machine Records, LLC |
-|                 21 | Taylor Swift             |
-|                  1 | Universal Music Group    |
+|   Number of Tracks | Label                 |
+|-------------------:|:----------------------|
+|                 29 | Big Machine Records   |
+|                 21 | Taylor Swift          |
+|                  1 | Universal Music Group |
 
 ## Tracks
 

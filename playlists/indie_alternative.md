@@ -1,7 +1,7 @@
 # Indie/Alternative
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d0000b273028c3bb4b81ee71dd73d1596ab67616d0000b27355e0ff4cbb5df5c780a4319bab67616d0000b27392c885317fbe4bfa680109b4ab67616d0000b27398d4c378a8c78e84bfcf7743" alt="Indie/Alternative" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d0000b273028c3bb4b81ee71dd73d1596ab67616d0000b27334e21d0a51baa21dc4091b96ab67616d0000b273d0ec2db731952a7efabc6397ab67616d0000b273df55e326ed144ab4f5cecf95" alt="Indie/Alternative" width="100" />
 
 [168 songs](indie_alternative_tracks.md)
 

@@ -23,8 +23,7 @@
 
 |   Number of Tracks | Label                |
 |-------------------:|:---------------------|
-|                 11 | PLEDIS Entertainment |
-|                  4 | PLEDIS ENTERTAINMENT |
+|                 15 | PLEDIS Entertainment |
 
 ## Tracks
 

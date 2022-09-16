@@ -18,11 +18,12 @@
 
 ## Top Record Labels
 
-|   Number of Tracks | Label                                              |
-|-------------------:|:---------------------------------------------------|
-|                 15 | BELIFT LAB                                         |
-|                  1 | Universal Music LLC                                |
-|                  1 | Genie Music Corporation, Stone Music Entertainment |
+|   Number of Tracks | Label                     |
+|-------------------:|:--------------------------|
+|                 15 | BELIFT LAB                |
+|                  1 | Universal Music LLC       |
+|                  1 | Stone Music Entertainment |
+|                  1 | Genie Music Corporation   |
 
 ## Tracks
 

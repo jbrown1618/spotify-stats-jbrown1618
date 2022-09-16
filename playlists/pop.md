@@ -1,9 +1,9 @@
 # Pop
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d0000b2732737be35cc5245eef495be90ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2734f89844c76d620ff098ef5c6" alt="Pop" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="Pop" width="100" />
 
-[350 songs](pop_tracks.md)
+[351 songs](pop_tracks.md)
 
 ## Top Artists
 
@@ -18,7 +18,7 @@
 |                 51 | <img src="https://i.scdn.co/image/ab6761610000e5ebfcf7c334a6e9dcb8555f3663" alt="" width="50" /> | [Taylor Swift](../artists/taylor_swift.md)     | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 |                 25 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../artists/ariana_grande.md)   | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 |                 13 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../artists/lady_gaga.md)           | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
-|                 11 | <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | [Dua Lipa](../artists/dua_lipa.md)             | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
+|                 12 | <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | [Dua Lipa](../artists/dua_lipa.md)             | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 |                 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb019d6873a01987cbe35888cd" alt="" width="50" /> | [Rihanna](../artists/rihanna.md)               | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 |                 11 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../artists/bruno_mars.md)         | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
 |                 10 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../artists/billie_eilish.md)   | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
@@ -133,6 +133,7 @@
 |                 10 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | folklore                                                                                            | [🔗](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) |
 |                  8 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Lover                                                                                               | [🔗](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) |
 |                  8 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="" width="50" /> | 1989                                                                                                | [🔗](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) |
+|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" alt="" width="50" /> | Future Nostalgia                                                                                    | [🔗](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?                                                            | [🔗](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | My Everything (Deluxe)                                                                              | [🔗](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8" alt="" width="50" /> | thank u, next                                                                                       | [🔗](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) |
@@ -140,7 +141,6 @@
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | The Fame                                                                                            | [🔗](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | Teenage Dream                                                                                       | [🔗](https://open.spotify.com/album/3BoUxfC7YhxNq3TpOfnRif) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | Red                                                                                                 | [🔗](https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273bd26ede1ae69327010d49946" alt="" width="50" /> | Future Nostalgia                                                                                    | [🔗](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2736d4056466fc11f6408be2566" alt="" width="50" /> | 21                                                                                                  | [🔗](https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | 1000 Forms Of Fear (Deluxe Version)                                                                 | [🔗](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Romance                                                                                             | [🔗](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) |
@@ -175,7 +175,6 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a90401b8d27cd6b5f3a46242" alt="" width="50" /> | Lights                                                                                              | [🔗](https://open.spotify.com/album/3duZhvcaoqdNveQYXf9dMV) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4" alt="" width="50" /> | In The Zone                                                                                         | [🔗](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="" width="50" /> | Hozier (Expanded Edition)                                                                           | [🔗](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" alt="" width="50" /> | Future Nostalgia                                                                                    | [🔗](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731764e1a1b94e887206782640" alt="" width="50" /> | Dua Lipa (Complete Edition)                                                                         | [🔗](https://open.spotify.com/album/0obMz8EHnr3dg6NCUK4xWp) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27334ef81d1ff3b4682a4e97f70" alt="" width="50" /> | Dreaming Out Loud                                                                                   | [🔗](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="" width="50" /> | Doo-Wops & Hooligans                                                                                | [🔗](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) |
@@ -229,6 +228,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273120a1366324c2ae1728e17e5" alt="" width="50" /> | The ArchAndroid                                                                                     | [🔗](https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273937af329667311f4b2831616" alt="" width="50" /> | Teenage Dream: The Complete Confection                                                              | [🔗](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732f8c0fd72a80a93f8c53b96c" alt="" width="50" /> | Taylor Swift                                                                                        | [🔗](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27364d58f6e7672baecc8972806" alt="" width="50" /> | Tattoos (Deluxe Edition)                                                                            | [🔗](https://open.spotify.com/album/3wDeTllVvayYsWTHsFNWZQ) |
 
 </details>
 
@@ -249,8 +249,8 @@
 |                 23 | Columbia                                      |
 |                 21 | Taylor Swift                                  |
 |                 21 | Atlantic Records                              |
+|                 18 | Warner Records                                |
 |                 18 | Epic                                          |
-|                 17 | Warner Records                                |
 |                 15 | Republic Records                              |
 |                 14 | Jive                                          |
 |                 13 | Universal Music LLC                           |
@@ -263,7 +263,7 @@
 |                  6 | XL Recordings                                 |
 |                  6 | Island Records                                |
 |                  5 | Beluga Heights                                |
-|                  5 | Bad Boy Records                               |
+|                  5 | Bad Boy                                       |
 |                  4 | Kemosabe Records                              |
 |                  4 | Atlantic Records UK                           |
 |                  3 | Universal-Island Records Ltd.                 |

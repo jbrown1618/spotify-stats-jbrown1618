@@ -18,10 +18,10 @@
 
 ## Top Record Labels
 
-|   Number of Tracks | Label       |
-|-------------------:|:------------|
-|                 10 | 143/Reprise |
-|                  2 | Reprise     |
+|   Number of Tracks | Label   |
+|-------------------:|:--------|
+|                 12 | Reprise |
+|                 10 | 143     |
 
 ## Tracks
 

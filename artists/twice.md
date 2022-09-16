@@ -32,12 +32,12 @@
 
 ## Top Record Labels
 
-|   Number of Tracks | Label                    |
-|-------------------:|:-------------------------|
-|                 26 | Republic Records - TWICE |
-|                  2 | WM Japan                 |
-|                  2 | Imperial Distribution    |
-|                  1 | Riot Games               |
+|   Number of Tracks | Label                 |
+|-------------------:|:----------------------|
+|                 26 | Republic Records      |
+|                  2 | WM Japan              |
+|                  2 | Imperial Distribution |
+|                  1 | Riot Games            |
 
 ## Tracks
 

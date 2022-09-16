@@ -25,13 +25,12 @@
 
 ## Top Record Labels
 
-|   Number of Tracks | Label                                              |
-|-------------------:|:---------------------------------------------------|
-|                  7 | RBW, Inc                                           |
-|                  5 | Stone Music Entertainment                          |
-|                  2 | RBW Inc.                                           |
-|                  2 | Genie Music Corporation, Stone Music Entertainment |
-|                  1 | RADCOMM                                            |
+|   Number of Tracks | Label                     |
+|-------------------:|:--------------------------|
+|                  9 | RBW Inc.                  |
+|                  7 | Stone Music Entertainment |
+|                  2 | Genie Music Corporation   |
+|                  1 | RADCOMM                   |
 
 ## Tracks
 

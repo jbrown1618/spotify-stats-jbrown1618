@@ -24,11 +24,11 @@
 
 ## Top Record Labels
 
-|   Number of Tracks | Label           |
-|-------------------:|:----------------|
-|                 20 | Columbia        |
-|                  2 | Columbia/Legacy |
-|                  1 | RCA Victor      |
+|   Number of Tracks | Label      |
+|-------------------:|:-----------|
+|                 22 | Columbia   |
+|                  2 | Legacy     |
+|                  1 | RCA Victor |
 
 ## Tracks
 

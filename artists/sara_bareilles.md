@@ -22,13 +22,14 @@
 
 ## Top Record Labels
 
-|   Number of Tracks | Label                            |
-|-------------------:|:---------------------------------|
-|                 59 | Epic                             |
-|                  1 | Varsity Vocals                   |
-|                  1 | Fuzzy Door Productions/Universal |
-|                  1 | Atlantic Records                 |
-|                  1 | ATO Records                      |
+|   Number of Tracks | Label                  |
+|-------------------:|:-----------------------|
+|                 59 | Epic                   |
+|                  1 | Varsity Vocals         |
+|                  1 | Universal Music LLC    |
+|                  1 | Fuzzy Door Productions |
+|                  1 | Atlantic Records       |
+|                  1 | ATO Records            |
 
 ## Tracks
 
