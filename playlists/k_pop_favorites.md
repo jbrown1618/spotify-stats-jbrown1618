@@ -164,7 +164,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="" width="50" /> | RBB - The 5th Mini Album                         | [🔗](https://open.spotify.com/album/7rNIvLwIpB2mwOzk20iqIl) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f" alt="" width="50" /> | R                                                | [🔗](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273682ac678746ad21b6b799950" alt="" width="50" /> | Pity Party                                       | [🔗](https://open.spotify.com/album/2yMHiLYBnrMsdUCUL3bFkU) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273797b37e01334a0897825d8b1" alt="" width="50" /> | Pink Venom                                       | [🔗](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737752724657197df65e7c82f9" alt="" width="50" /> | Piano Man                                        | [🔗](https://open.spotify.com/album/1kdURRaOTpDCQqsVIU5CiT) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dad8806d4958b875dd487f6e" alt="" width="50" /> | Paint Me Naked - SM STATION                      | [🔗](https://open.spotify.com/album/4oj5R0SVazc5Eq3WnIC0e6) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736bd4012e2889d22821ab35b0" alt="" width="50" /> | ONLY                                             | [🔗](https://open.spotify.com/album/0uYGAR5pW8P76uOlrOYIMZ) |
@@ -201,6 +200,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273703093f86fd5c8bd79500610" alt="" width="50" /> | IN LIFE                                          | [🔗](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c100bf7d05e3c2b59fa83499" alt="" width="50" /> | I'M LOVIN' AMY                                   | [🔗](https://open.spotify.com/album/3AL0qHWE5sF8SYY273nFXX) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | I trust                                          | [🔗](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | I burn                                           | [🔗](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) |
 
 </details>
 

@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1243 songs](liked_songs_tracks.md)
+[1248 songs](liked_songs_tracks.md)
 
 ## Top Artists
 
@@ -16,9 +16,9 @@
 |                 41 | <img src="https://i.scdn.co/image/ab6761610000e5eb8a8415e72dedaa552259d0c1" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)                         | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 |                 38 | <img src="https://i.scdn.co/image/ab6761610000e5ebfcf7c334a6e9dcb8555f3663" alt="" width="50" /> | [Taylor Swift](../artists/taylor_swift.md)                     | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 |                 26 | <img src="https://i.scdn.co/image/ab6761610000e5ebd84fd6ae9ccfc6206ea6711e" alt="" width="50" /> | [TWICE](../artists/twice.md)                                   | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
+|                 26 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b6160c954c6a5b7d4756608" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)                           | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 |                 22 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" alt="" width="50" /> | [The Beatles](../artists/the_beatles.md)                       | [🔗](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) |
 |                 22 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b2621bf3c5f2197ee957582" alt="" width="50" /> | [The Tarpeggios](../artists/the_tarpeggios.md)                 | [🔗](https://open.spotify.com/artist/2HXd5pFHJyaQJr5aXfErrE) |
-|                 21 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b6160c954c6a5b7d4756608" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)                           | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 |                 20 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | [IU](../artists/iu.md)                                         | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 |                 20 | <img src="https://i.scdn.co/image/ab6761610000e5ebaa28abbc6d04ccd22c8ae3b5" alt="" width="50" /> | [ITZY](../artists/itzy.md)                                     | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                 20 | <img src="https://i.scdn.co/image/ab6761610000e5eb2b9297b71a8bf3deef948e32" alt="" width="50" /> | [Pentatonix](../artists/pentatonix.md)                         | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
@@ -111,7 +111,7 @@
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb64362c8789b72fb00e0a3611" alt="" width="50" /> | ATEEZ                                                          | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebabfac786f093c4da55c99d4e" alt="" width="50" /> | Bebe Rexha                                                     | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebaed3c717bf1753ab928ea88d" alt="" width="50" /> | John Legend                                                    | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
-|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb66a112dd6d15f75057f1794a" alt="" width="50" /> | Wonstein                                                       | [🔗](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) |
+|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb3e5502077e2bb0fe1e3d4df0" alt="" width="50" /> | Wonstein                                                       | [🔗](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) |
 
 </details>
 
@@ -144,6 +144,7 @@
 |                  6 | <img src="https://i.scdn.co/image/ab67616d0000b27334e21d0a51baa21dc4091b96" alt="" width="50" /> | Ceremonials                                      | [🔗](https://open.spotify.com/album/3tFAP5BTa1lwUp7lLJ9FlG) |
 |                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | Carolina State of Mind                           | [🔗](https://open.spotify.com/album/3zKusinRVxdC5s2wOPYBgX) |
 |                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Born To Die                                      | [🔗](https://open.spotify.com/album/4X8hAqIWpQyQks2yRhyqs4) |
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273727228f69350ec541fc8a1ae" alt="" width="50" /> | BORN PINK                                        | [🔗](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) |
 |                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="" width="50" /> | Abbey Road (Remastered)                          | [🔗](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2738c4a282e84a53c1c8acf129a" alt="" width="50" /> | ‘The ReVe Festival 2022 - Feel My Rhythm’        | [🔗](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?         | [🔗](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) |
@@ -225,7 +226,6 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273619b758232a962e9ddf45f97" alt="" width="50" /> | [12:00]                                          | [🔗](https://open.spotify.com/album/3obToaukLcPbCLPPmWFzQi) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734bb9f35da9ff34b1e2314d8e" alt="" width="50" /> | Yours Truly                                      | [🔗](https://open.spotify.com/album/5xSvNPstcxHtR4ap2vvN8A) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="" width="50" /> | Who's Next (Deluxe Edition)                      | [🔗](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2739900b995cd1a81c35c574ab0" alt="" width="50" /> | Who You Are (Platinum Edition)                   | [🔗](https://open.spotify.com/album/3ga4adzUpLaS2LDcoqfs2r) |
 
 </details>
 
@@ -244,10 +244,10 @@
 |                 66 | Epic                                   |
 |                 59 | Columbia                               |
 |                 57 | Republic Records                       |
+|                 47 | YG Entertainment                       |
 |                 47 | Warner Records                         |
 |                 45 | RCA Records Label                      |
-|                 42 | YG Entertainment                       |
-|                 40 | Interscope Records                     |
+|                 45 | Interscope Records                     |
 |                 35 | Universal Music LLC                    |
 |                 26 | Stone Music Entertainment              |
 |                 26 | Genie Music Corporation                |

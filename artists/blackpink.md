@@ -8,6 +8,7 @@
 
 |   Number of Tracks | Art                                                                                              | Album                       |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------|
+|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b273727228f69350ec541fc8a1ae" alt="" width="50" /> | BORN PINK                   |
 |                  7 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | THE ALBUM                   |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2735dcded478bd1a908dbabf05e" alt="" width="50" /> | KILL THIS LOVE              |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2733f6e15b13168587cfc120e52" alt="" width="50" /> | SQUARE UP                   |
@@ -24,8 +25,8 @@
 
 |   Number of Tracks | Label                                  |
 |-------------------:|:---------------------------------------|
-|                 20 | YG Entertainment                       |
-|                  9 | Interscope Records                     |
+|                 28 | YG Entertainment                       |
+|                 17 | Interscope Records                     |
 |                  5 | distributed through Interscope Records |
 |                  1 | Warner Records                         |
 |                  1 | 2018 YG Entertainment                  |
@@ -56,4 +57,12 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | Lovesick Girls                | THE ALBUM                   | YG Entertainment/Interscope Records                           | 💚   | [🔗](https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | Pretty Savage                 | THE ALBUM                   | YG Entertainment/Interscope Records                           | 💚   | [🔗](https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | You Never Know                | THE ALBUM                   | YG Entertainment/Interscope Records                           | 💚   | [🔗](https://open.spotify.com/track/39kzWAiVPpycdMpr745oPj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273797b37e01334a0897825d8b1" alt="" width="50" /> | Pink Venom                    | Pink Venom                  | YG Entertainment/Interscope Records                           | 💚   | [🔗](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273797b37e01334a0897825d8b1" alt="" width="50" /> | Pink Venom                    | Pink Venom                  | YG Entertainment/Interscope Records                           |     | [🔗](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273727228f69350ec541fc8a1ae" alt="" width="50" /> | Hard to Love                  | BORN PINK                   | YG Entertainment/Interscope Records                           | 💚   | [🔗](https://open.spotify.com/track/3MJhPqL2IgGs7gHEB2M35q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273727228f69350ec541fc8a1ae" alt="" width="50" /> | Pink Venom                    | BORN PINK                   | YG Entertainment/Interscope Records                           | 💚   | [🔗](https://open.spotify.com/track/6stcJnJHPO8RrYx5LLz5OP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273727228f69350ec541fc8a1ae" alt="" width="50" /> | Ready For Love                | BORN PINK                   | YG Entertainment/Interscope Records                           |     | [🔗](https://open.spotify.com/track/7Dq4YNgsltQuTmhYz1wJzq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273727228f69350ec541fc8a1ae" alt="" width="50" /> | Shut Down                     | BORN PINK                   | YG Entertainment/Interscope Records                           | 💚   | [🔗](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273727228f69350ec541fc8a1ae" alt="" width="50" /> | Tally                         | BORN PINK                   | YG Entertainment/Interscope Records                           | 💚   | [🔗](https://open.spotify.com/track/0bYVPJvXr8ACmw313cVvhB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273727228f69350ec541fc8a1ae" alt="" width="50" /> | The Happiest Girl             | BORN PINK                   | YG Entertainment/Interscope Records                           |     | [🔗](https://open.spotify.com/track/1XoY4WZrvPIphBaikXGjF8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273727228f69350ec541fc8a1ae" alt="" width="50" /> | Typa Girl                     | BORN PINK                   | YG Entertainment/Interscope Records                           | 💚   | [🔗](https://open.spotify.com/track/0L8LOav65XwLjCLS11gNPD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273727228f69350ec541fc8a1ae" alt="" width="50" /> | Yeah Yeah Yeah                | BORN PINK                   | YG Entertainment/Interscope Records                           | 💚   | [🔗](https://open.spotify.com/track/5TfKoQg9AjmDIWYKFoDqMN) |

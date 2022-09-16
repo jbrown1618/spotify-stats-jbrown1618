@@ -19,7 +19,7 @@
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebc1c077c305eb4b2bcac25fd5" alt="" width="50" /> | Carrie Underwood | [🔗](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb6437a0b8a5cf89ec8cbbfe9b" alt="" width="50" /> | Delta Rae        | [🔗](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb152cf48cf9541c7061570857" alt="" width="50" /> | Johnny Cash      | [🔗](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) |
-|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb63065c48a5e377efda61f229" alt="" width="50" /> | Mumford & Sons   | [🔗](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) |
+|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb87ac264d392a72af95ca9fdb" alt="" width="50" /> | Mumford & Sons   | [🔗](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb173d4b457016fe0727a7e50d" alt="" width="50" /> | The Band Perry   | [🔗](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb43d9d87bba466538f5c40901" alt="" width="50" /> | The Chicks       | [🔗](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae8ba82eaf7e63af515c9f" alt="" width="50" /> | The Civil Wars   | [🔗](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) |

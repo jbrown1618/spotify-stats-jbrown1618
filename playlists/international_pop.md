@@ -85,7 +85,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb639904df84c9ae5e3888ccc2" alt="" width="50" /> | Gradur                             | [🔗](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7e7c664aebb73b97b2664bb7" alt="" width="50" /> | Roméo Elvis                        | [🔗](https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb67cef67ca9a55d9db0ae4fdf" alt="" width="50" /> | OAFF                               | [🔗](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734f95dabfc67540ee3823dad6" alt="" width="50" /> | Wanitwa Mos                        | [🔗](https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6b0f1c7ebcc1202b91379648" alt="" width="50" /> | Wanitwa Mos                        | [🔗](https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc19d6c8224e8b1b94bf565e5" alt="" width="50" /> | Perfume                            | [🔗](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1110b09e6951ea73e79fc55f" alt="" width="50" /> | Anamanaguchi                       | [🔗](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5c589b667f600c299552ee5" alt="" width="50" /> | Anuel AA                           | [🔗](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) |
@@ -230,7 +230,7 @@
 |                  3 | Columbia                                              |
 |                  2 | Universal Music Division Capitol Music France         |
 |                  2 | Samlist                                               |
-|                  2 | Linfair                                               |
+|                  2 | Linfair Records Limited                               |
 |                  2 | KING RECORDS                                          |
 |                  2 | ITModels under exclusive license to D-Music           |
 |                  2 | IRORI Records                                         |
