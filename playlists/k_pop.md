@@ -129,7 +129,7 @@
 
 |   Number of Tracks | Art                                                                                              | Album                                            | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------|:-----------------------------------------------------------|
-|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b273727228f69350ec541fc8a1ae" alt="" width="50" /> | BORN PINK                                        | [🔗](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) |
+|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | BORN PINK                                        | [🔗](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) |
 |                  7 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | THE ALBUM                                        | [🔗](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) |
 |                  7 | <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="" width="50" /> | Perfect Velvet - The 2nd Album                   | [🔗](https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH) |
 |                  7 | <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | Formula of Love: O+T=<3                          | [🔗](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) |
@@ -296,7 +296,7 @@
 |                  2 | TEAM WANG records                                 |
 |                  2 | Sony Music Labels Inc.                            |
 |                  2 | ShowPLAY ENTERTAINMENT                            |
-|                  2 | SWING ENTERTAINMENT                               |
+|                  2 | SWING Entertainment                               |
 |                  2 | Million Market                                    |
 |                  2 | Makeus Entertainment                              |
 |                  2 | Genie Music Corporation;Stone Music Entertainment |

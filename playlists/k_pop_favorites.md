@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b273714e56679ab196354e2e443eab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738c4a282e84a53c1c8acf129a" alt="K-Pop Favorites" width="100" />
 
-[174 songs](k_pop_favorites_tracks.md)
+[176 songs](k_pop_favorites_tracks.md)
 
 ## Top Artists
 
@@ -15,8 +15,8 @@
 
 |   Number of Tracks | Art                                                                                              | Artist                                               | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------|:------------------------------------------------------------|
+|                 13 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b6160c954c6a5b7d4756608" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)                 | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 |                 12 | <img src="https://i.scdn.co/image/ab6761610000e5eb8a8415e72dedaa552259d0c1" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)               | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
-|                 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b6160c954c6a5b7d4756608" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)                 | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 |                 10 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | [IU](../artists/iu.md)                               | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5ebd84fd6ae9ccfc6206ea6711e" alt="" width="50" /> | [TWICE](../artists/twice.md)                         | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5ebaa28abbc6d04ccd22c8ae3b5" alt="" width="50" /> | [ITZY](../artists/itzy.md)                           | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
@@ -107,6 +107,7 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | Savage - The 1st Mini Album                      | [🔗](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Querencia                                        | [🔗](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | IU 5th Album 'LILAC'                             | [🔗](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | BORN PINK                                        | [🔗](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | Windy                                            | [🔗](https://open.spotify.com/album/1lv92CIVZbB2BsHmIx7qJf) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273231a1b74cc820bb632de108c" alt="" width="50" /> | SQUARE ONE                                       | [🔗](https://open.spotify.com/album/0AcFaK32ui9rF2ySEdXrv4) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="" width="50" /> | Palette                                          | [🔗](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) |
@@ -200,7 +201,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273703093f86fd5c8bd79500610" alt="" width="50" /> | IN LIFE                                          | [🔗](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c100bf7d05e3c2b59fa83499" alt="" width="50" /> | I'M LOVIN' AMY                                   | [🔗](https://open.spotify.com/album/3AL0qHWE5sF8SYY273nFXX) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | I trust                                          | [🔗](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | I burn                                           | [🔗](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) |
 
 </details>
 
@@ -216,12 +216,12 @@
 |   Number of Tracks | Label                                  |
 |-------------------:|:---------------------------------------|
 |                 51 | SM Entertainment                       |
-|                 18 | YG Entertainment                       |
+|                 20 | YG Entertainment                       |
 |                 12 | Republic Records                       |
+|                  9 | Interscope Records                     |
 |                  8 | Universal Music LLC                    |
 |                  8 | JYP Entertainment                      |
 |                  7 | RBW Inc.                               |
-|                  7 | Interscope Records                     |
 |                  7 | Genie Music Corporation                |
 |                  6 | Stone Music Entertainment              |
 |                  6 | BELIFT LAB                             |

@@ -98,7 +98,7 @@
 |                  1 | EMPIRE                          |
 |                  1 | Columbia                        |
 |                  1 | Bad Dreams Records              |
-|                  1 | Bad Boy                         |
+|                  1 | Bad Boy Records                 |
 |                  1 | Asylum                          |
 |                  1 | American Recordings Catalog P&D |
 |                  1 | A&M                             |

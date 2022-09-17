@@ -263,7 +263,7 @@
 |                  6 | XL Recordings                                 |
 |                  6 | Island Records                                |
 |                  5 | Beluga Heights                                |
-|                  5 | Bad Boy                                       |
+|                  5 | Bad Boy Records                               |
 |                  4 | Kemosabe Records                              |
 |                  4 | Atlantic Records UK                           |
 |                  3 | Universal-Island Records Ltd.                 |
@@ -274,7 +274,7 @@
 |                  3 | Island UK                                     |
 |                  3 | Fueled By Ramen                               |
 |                  3 | Casablanca Records                            |
-|                  2 | Wondaland Records                             |
+|                  2 | Wondaland                                     |
 |                  2 | Reprise                                       |
 |                  2 | Radiculture                                   |
 |                  2 | Phonogenic                                    |
