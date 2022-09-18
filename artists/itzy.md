@@ -11,7 +11,7 @@
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | CRAZY IN LOVE                                       |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | CHECKMATE                                           |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2732c214d5de552996f3dd74f17" alt="" width="50" /> | GUESS WHO                                           |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | Not Shy                                             |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | Not Shy                                             |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2735a34da2654db7f75cee1d080" alt="" width="50" /> | IT'z ICY                                            |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273aecb87fd2574ad79b05cc024" alt="" width="50" /> | Voltage                                             |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733091980300243c26b0404b76" alt="" width="50" /> | Street Dance Girls Fighter(SGF) Special             |
@@ -26,7 +26,7 @@
 
 |   Number of Tracks | Label                   |
 |-------------------:|:------------------------|
-|                 13 | Republic Records        |
+|                 14 | Republic Records        |
 |                 10 | JYP Entertainment       |
 |                  1 | Warner Records          |
 |                  1 | WM Japan                |
@@ -40,6 +40,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2735a34da2654db7f75cee1d080" alt="" width="50" /> | CHERRY                                              | IT'z ICY                                            | JYP Entertainment       |     | [🔗](https://open.spotify.com/track/3Ef2Sr4U0oehtcozO23yUN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735a34da2654db7f75cee1d080" alt="" width="50" /> | ICY                                                 | IT'z ICY                                            | JYP Entertainment       | 💚   | [🔗](https://open.spotify.com/track/7zFBtYAVURF3bUVqEQ6UUu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27386e407289831b784b58d4c5f" alt="" width="50" /> | WANNABE                                             | It'z Me                                             | JYP Entertainment       | 💚   | [🔗](https://open.spotify.com/track/6tCssnvTUREcperDOUTqvA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | Be In Love                                          | Not Shy                                             | Republic Records - ITZY | 💚   | [🔗](https://open.spotify.com/track/0FGeJSm4Iix7OdvjvENrwx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | Louder                                              | Not Shy                                             | Republic Records - ITZY |     | [🔗](https://open.spotify.com/track/39pv61XfYr9MUwsYkx30aQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fda74ae03a653f5d84010a79" alt="" width="50" /> | Not Shy                                             | Not Shy                                             | JYP Entertainment       | 💚   | [🔗](https://open.spotify.com/track/4ecVWqbtW6phQGpZMAyqIU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | SURF                                                | Not Shy                                             | Republic Records - ITZY | 💚   | [🔗](https://open.spotify.com/track/5rAjh9qDtJalKfwgxNk2vt) |

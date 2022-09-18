@@ -18,7 +18,7 @@
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebc335ac3a535be796643b4eb5" alt="" width="50" /> | BABYMETAL                          | [🔗](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb8136bed5d8a80791bbe9ae23" alt="" width="50" /> | Shakira                            | [🔗](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb50e69bf99b647d12b14cb314" alt="" width="50" /> | Isyana Sarasvati                   | [🔗](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) |
-|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebb277201adff07df432b4b800" alt="" width="50" /> | Hatsune Miku                       | [🔗](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) |
+|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375" alt="" width="50" /> | Hatsune Miku                       | [🔗](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebc6e1280be0bb5a22ff599700" alt="" width="50" /> | Official HIGE DANdism              | [🔗](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb74f0dd71b84ec5b35bef6318" alt="" width="50" /> | Anna Zak                           | [🔗](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb94faa4606299f4f5ccca4e35" alt="" width="50" /> | Daði Freyr                         | [🔗](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) |
@@ -230,7 +230,7 @@
 |                  3 | Columbia                                              |
 |                  2 | Universal Music Division Capitol Music France         |
 |                  2 | Samlist                                               |
-|                  2 | Linfair Records Limited                               |
+|                  2 | Linfair                                               |
 |                  2 | KING RECORDS                                          |
 |                  2 | ITModels under exclusive license to D-Music           |
 |                  2 | IRORI Records                                         |
