@@ -230,7 +230,7 @@
 |                  3 | Columbia                                              |
 |                  2 | Universal Music Division Capitol Music France         |
 |                  2 | Samlist                                               |
-|                  2 | Linfair                                               |
+|                  2 | Linfair Records Limited                               |
 |                  2 | KING RECORDS                                          |
 |                  2 | ITModels under exclusive license to D-Music           |
 |                  2 | IRORI Records                                         |
