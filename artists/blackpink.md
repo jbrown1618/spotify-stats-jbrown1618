@@ -2,7 +2,7 @@
 # BLACKPINK
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb7b6160c954c6a5b7d4756608" alt="BLACKPINK" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="BLACKPINK" width="100" />
 
 ## Top Albums
 
@@ -16,7 +16,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef" alt="" width="50" /> | SQUARE UP                   |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27318a4a215052e9f396864bd73" alt="" width="50" /> | SQUARE TWO                  |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273895cda6254392eb17aae5390" alt="" width="50" /> | SQUARE TWO                  |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273797b37e01334a0897825d8b1" alt="" width="50" /> | Pink Venom                  |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731764e1a1b94e887206782640" alt="" width="50" /> | Dua Lipa (Complete Edition) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | Chromatica                  |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d9ac4a9970da8f98ce2e2b35" alt="" width="50" /> | As If It's Your Last        |
@@ -25,8 +24,8 @@
 
 |   Number of Tracks | Label                                  |
 |-------------------:|:---------------------------------------|
-|                 28 | YG Entertainment                       |
-|                 17 | Interscope Records                     |
+|                 27 | YG Entertainment                       |
+|                 16 | Interscope Records                     |
 |                  5 | distributed through Interscope Records |
 |                  1 | Warner Records                         |
 |                  1 | 2018 YG Entertainment                  |
@@ -57,7 +56,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | Lovesick Girls                | THE ALBUM                   | YG Entertainment/Interscope Records                           | 💚   | [🔗](https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | Pretty Savage                 | THE ALBUM                   | YG Entertainment/Interscope Records                           | 💚   | [🔗](https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | You Never Know                | THE ALBUM                   | YG Entertainment/Interscope Records                           | 💚   | [🔗](https://open.spotify.com/track/39kzWAiVPpycdMpr745oPj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273797b37e01334a0897825d8b1" alt="" width="50" /> | Pink Venom                    | Pink Venom                  | YG Entertainment/Interscope Records                           |     | [🔗](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Hard to Love                  | BORN PINK                   | YG Entertainment/Interscope Records                           | 💚   | [🔗](https://open.spotify.com/track/3MJhPqL2IgGs7gHEB2M35q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Pink Venom                    | BORN PINK                   | YG Entertainment/Interscope Records                           | 💚   | [🔗](https://open.spotify.com/track/6stcJnJHPO8RrYx5LLz5OP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Ready For Love                | BORN PINK                   | YG Entertainment/Interscope Records                           |     | [🔗](https://open.spotify.com/track/7Dq4YNgsltQuTmhYz1wJzq) |

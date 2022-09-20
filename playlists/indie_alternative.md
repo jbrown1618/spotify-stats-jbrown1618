@@ -228,7 +228,7 @@
 |                  3 | Brute                                |
 |                  3 | Beaute                               |
 |                  3 | Atlantic Records                     |
-|                  3 | ATL                                  |
+|                  3 | Atl                                  |
 |                  2 | Spin-Farm Oy                         |
 |                  2 | Saddle Creek                         |
 |                  2 | Phonogenic                           |

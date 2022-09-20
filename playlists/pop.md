@@ -70,7 +70,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb96d66c60658005885d1135ce" alt="" width="50" /> | Daft Punk                                      | [🔗](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ace68c56849548db7f102be" alt="" width="50" /> | DaBaby                                         | [🔗](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebce8d5be6690c6964069ab8e0" alt="" width="50" /> | Jason Mraz                                     | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b6160c954c6a5b7d4756608" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)           | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)           | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb196972172c37d934d9ca8093" alt="" width="50" /> | Twenty One Pilots                              | [🔗](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)                       | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb60c3e9abe7327c0097738f22" alt="" width="50" /> | Sean Paul                                      | [🔗](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) |
@@ -263,7 +263,7 @@
 |                  6 | XL Recordings                                 |
 |                  6 | Island Records                                |
 |                  5 | Beluga Heights                                |
-|                  5 | Bad Boy                                       |
+|                  5 | Bad Boy Records                               |
 |                  4 | Kemosabe Records                              |
 |                  4 | Atlantic Records UK                           |
 |                  3 | Universal-Island Records Ltd.                 |
@@ -274,7 +274,7 @@
 |                  3 | Island UK                                     |
 |                  3 | Fueled By Ramen                               |
 |                  3 | Casablanca Records                            |
-|                  2 | Wondaland                                     |
+|                  2 | Wondaland Records                             |
 |                  2 | Reprise                                       |
 |                  2 | Radiculture                                   |
 |                  2 | Phonogenic                                    |

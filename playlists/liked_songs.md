@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1251 songs](liked_songs_tracks.md)
+[1252 songs](liked_songs_tracks.md)
 
 ## Top Artists
 
@@ -15,7 +15,7 @@
 |                 48 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../artists/sara_bareilles.md)                 | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 |                 40 | <img src="https://i.scdn.co/image/ab6761610000e5eb8a8415e72dedaa552259d0c1" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)                         | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 |                 38 | <img src="https://i.scdn.co/image/ab6761610000e5ebfcf7c334a6e9dcb8555f3663" alt="" width="50" /> | [Taylor Swift](../artists/taylor_swift.md)                     | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
-|                 27 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b6160c954c6a5b7d4756608" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)                           | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
+|                 27 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)                           | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 |                 26 | <img src="https://i.scdn.co/image/ab6761610000e5ebd84fd6ae9ccfc6206ea6711e" alt="" width="50" /> | [TWICE](../artists/twice.md)                                   | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 |                 23 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | [IU](../artists/iu.md)                                         | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 |                 22 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" alt="" width="50" /> | [The Beatles](../artists/the_beatles.md)                       | [🔗](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) |
@@ -256,7 +256,7 @@
 |                 21 | RBW Inc.                               |
 |                 21 | EMI Catalogue                          |
 |                 21 | Big Machine Records                    |
-|                 19 | JYP Entertainment                      |
+|                 20 | JYP Entertainment                      |
 |                 17 | Taylor Swift                           |
 |                 17 | CUBE ENTERTAINMENT                     |
 |                 16 | Universal-Island Records Ltd.          |
@@ -290,7 +290,7 @@
 |                  6 | Legacy                                 |
 |                  6 | FNC ENTERTAINMENT                      |
 |                  6 | EDAM Entertainment                     |
-|                  6 | Bad Boy                                |
+|                  6 | Bad Boy Records                        |
 |                  5 | distributed through Interscope Records |
 |                  5 | UNI                                    |
 |                  5 | Riot Games                             |
@@ -310,9 +310,9 @@
 |                  4 | Elektra                                |
 |                  4 | Daft Life Ltd.                         |
 |                  4 | BlockBerryCreative                     |
+|                  4 | Atl                                    |
 |                  4 | Arista                                 |
 |                  4 | Abyss Company                          |
-|                  4 | ATL                                    |
 |                  4 | ADA France                             |
 |                  4 | A&M                                    |
 |                  3 | avex trax                              |
