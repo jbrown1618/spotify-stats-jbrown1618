@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1252 songs](liked_songs_tracks.md)
+[1253 songs](liked_songs_tracks.md)
 
 ## Top Artists
 
@@ -19,8 +19,8 @@
 |                 26 | <img src="https://i.scdn.co/image/ab6761610000e5ebd84fd6ae9ccfc6206ea6711e" alt="" width="50" /> | [TWICE](../artists/twice.md)                                   | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 |                 23 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | [IU](../artists/iu.md)                                         | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 |                 22 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" alt="" width="50" /> | [The Beatles](../artists/the_beatles.md)                       | [🔗](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) |
+|                 22 | <img src="https://i.scdn.co/image/ab6761610000e5ebaa28abbc6d04ccd22c8ae3b5" alt="" width="50" /> | [ITZY](../artists/itzy.md)                                     | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                 22 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b2621bf3c5f2197ee957582" alt="" width="50" /> | [The Tarpeggios](../artists/the_tarpeggios.md)                 | [🔗](https://open.spotify.com/artist/2HXd5pFHJyaQJr5aXfErrE) |
-|                 21 | <img src="https://i.scdn.co/image/ab6761610000e5ebaa28abbc6d04ccd22c8ae3b5" alt="" width="50" /> | [ITZY](../artists/itzy.md)                                     | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                 20 | <img src="https://i.scdn.co/image/ab6761610000e5eb2b9297b71a8bf3deef948e32" alt="" width="50" /> | [Pentatonix](../artists/pentatonix.md)                         | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
 |                 19 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)                                       | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 |                 18 | <img src="https://i.scdn.co/image/ab6761610000e5eb916392fe8c66d0c993657b6d" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md)                               | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
@@ -290,7 +290,7 @@
 |                  6 | Legacy                                 |
 |                  6 | FNC ENTERTAINMENT                      |
 |                  6 | EDAM Entertainment                     |
-|                  6 | Bad Boy Records                        |
+|                  6 | Bad Boy                                |
 |                  5 | distributed through Interscope Records |
 |                  5 | UNI                                    |
 |                  5 | Riot Games                             |
@@ -301,6 +301,7 @@
 |                  5 | Atlantic Records UK                    |
 |                  5 | 88rising Music                         |
 |                  5 | 143                                    |
+|                  4 | WM Japan                               |
 |                  4 | UMC (Universal Music Catalogue)        |
 |                  4 | Studio MaumC                           |
 |                  4 | P NATION                               |
@@ -316,7 +317,6 @@
 |                  4 | ADA France                             |
 |                  4 | A&M                                    |
 |                  3 | avex trax                              |
-|                  3 | WM Japan                               |
 |                  3 | Universal (MT)                         |
 |                  3 | THE BLACK LABEL                        |
 |                  3 | Steam Powered Giraffe                  |
