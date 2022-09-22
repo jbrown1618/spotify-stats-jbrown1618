@@ -8,7 +8,7 @@
 
 |   Number of Tracks | Art                                                                                              | Album                             |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------|
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Querencia                         |
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Querencia                         |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="" width="50" /> | Bare&Rare, Pt. 1                  |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27388cdde41f2552db78b94e957" alt="" width="50" /> | Wow Thing                         |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d662735fc7d080888bc40b4" alt="" width="50" /> | Street Woman Fighter(SWF) Special |
@@ -22,7 +22,7 @@
 
 |   Number of Tracks | Label                     |
 |-------------------:|:--------------------------|
-|                  9 | MNH ENTERTAINMENT         |
+|                 10 | MNH ENTERTAINMENT         |
 |                  4 | Genie Music Corporation   |
 |                  3 | Stone Music Entertainment |
 |                  1 | SM Entertainment          |
@@ -40,6 +40,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Bicycle                     | Querencia                         | MNH ENTERTAINMENT                                  | 💚   | [🔗](https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Demente (feat. Guaynaa)     | Querencia                         | MNH ENTERTAINMENT                                  | 💚   | [🔗](https://open.spotify.com/track/0NhHFXC06r5kK1rTUuOjxM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Dream of You (with R3HAB)   | Querencia                         | MNH ENTERTAINMENT                                  | 💚   | [🔗](https://open.spotify.com/track/1d8Arh7PushRWWJRs41rSa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Flying on Faith             | Querencia                         | MNH ENTERTAINMENT                                  |     | [🔗](https://open.spotify.com/track/34v3Sm3KEc7DtGPP50jyrl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Masquerade                  | Querencia                         | MNH ENTERTAINMENT                                  | 💚   | [🔗](https://open.spotify.com/track/0AABiBAIYQCMpLI0ODbDDL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Stay Tonight                | Querencia                         | MNH ENTERTAINMENT                                  | 💚   | [🔗](https://open.spotify.com/track/7Cn6R7YB4EjQkfci9DdceG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d662735fc7d080888bc40b4" alt="" width="50" /> | BAD GIRL (Prod. Czaer)      | Street Woman Fighter(SWF) Special | Genie Music Corporation                            |     | [🔗](https://open.spotify.com/track/4yCQYX8eKL1XYJmGglSV1A) |

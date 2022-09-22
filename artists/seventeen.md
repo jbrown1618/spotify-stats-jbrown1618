@@ -9,8 +9,9 @@
 |   Number of Tracks | Art                                                                                              | Album                                     |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:------------------------------------------|
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273decd839dd4fef3faf64c5fd5" alt="" width="50" /> | SEVENTEEN 4th Album 'Face the Sun'        |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2736f29a60db7b4479599fae56d" alt="" width="50" /> | Heng:garæ                                 |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c1a20972c9a083d5cece9ce5" alt="" width="50" /> | SEVENTEEN 8th Mini Album 'Your Choice'    |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2736f29a60db7b4479599fae56d" alt="" width="50" /> | Heng:garæ                                 |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c7bb27d0e4ab6f8cdf61c087" alt="" width="50" /> | SEVENTEEN SPECIAL ALBUM 'DIRECTOR'S CUT’  |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735ac2a400576ac7f35aa7428b" alt="" width="50" /> | SEVENTEEN 9th Mini Album 'Attacca'        |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273005799610338a5b57d865926" alt="" width="50" /> | SEVENTEEN 4th Mini Album ‘Al1’            |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27346a157795d939b7a6868d207" alt="" width="50" /> | SEVENTEEN 2ND ALBUM 'TEEN, AGE' (2)       |
@@ -23,7 +24,7 @@
 
 |   Number of Tracks | Label                |
 |-------------------:|:---------------------|
-|                 15 | PLEDIS Entertainment |
+|                 17 | PLEDIS Entertainment |
 
 ## Tracks
 
@@ -34,7 +35,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273eb366517758754ca13a4adf5" alt="" width="50" /> | VERY NICE       | Love&Letter repackage album               | PLEDIS ENTERTAINMENT | 💚   | [🔗](https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273005799610338a5b57d865926" alt="" width="50" /> | Don't Wanna Cry | SEVENTEEN 4th Mini Album ‘Al1’            | PLEDIS ENTERTAINMENT | 💚   | [🔗](https://open.spotify.com/track/6Upu6yjkdi0DVI8E3IBZEU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27346a157795d939b7a6868d207" alt="" width="50" /> | CLAP            | SEVENTEEN 2ND ALBUM 'TEEN, AGE' (2)       | PLEDIS ENTERTAINMENT |     | [🔗](https://open.spotify.com/track/19t5GSN3XsLB7UOsZD8Fwv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c7bb27d0e4ab6f8cdf61c087" alt="" width="50" /> | THANKS          | SEVENTEEN SPECIAL ALBUM 'DIRECTOR'S CUT’  | PLEDIS ENTERTAINMENT |     | [🔗](https://open.spotify.com/track/7cbZIBLhfD9taMBgEsIhIp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f29a60db7b4479599fae56d" alt="" width="50" /> | Fearless        | Heng:garæ                                 | PLEDIS Entertainment |     | [🔗](https://open.spotify.com/track/1bhuTWST1TYIVdrsEaQDKa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f29a60db7b4479599fae56d" alt="" width="50" /> | Kidult          | Heng:garæ                                 | PLEDIS Entertainment |     | [🔗](https://open.spotify.com/track/1kmmKv3L4kGmoPu8aDFOmk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f29a60db7b4479599fae56d" alt="" width="50" /> | Left & Right    | Heng:garæ                                 | PLEDIS Entertainment | 💚   | [🔗](https://open.spotify.com/track/5QGooKayQPVZMUDc8Qt3Dm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa12f5b5b2ea88f26ab76846" alt="" width="50" /> | HOME;RUN        | ; [Semicolon]                             | PLEDIS Entertainment | 💚   | [🔗](https://open.spotify.com/track/2iW0q5jJJT5HKlIs25AAgv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c1a20972c9a083d5cece9ce5" alt="" width="50" /> | Anyone          | SEVENTEEN 8th Mini Album 'Your Choice'    | PLEDIS Entertainment | 💚   | [🔗](https://open.spotify.com/track/12jngD7Hu6if6sIzPkO2k4) |

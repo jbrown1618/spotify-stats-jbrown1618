@@ -25,7 +25,7 @@
 |   Number of Tracks | Label                                  |
 |-------------------:|:---------------------------------------|
 |                 27 | YG Entertainment                       |
-|                 16 | Interscope Records                     |
+|                 16 | Interscope                             |
 |                  5 | distributed through Interscope Records |
 |                  1 | Warner Records                         |
 |                  1 | 2018 YG Entertainment                  |

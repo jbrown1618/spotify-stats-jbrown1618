@@ -3,15 +3,15 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2731544041d0285585cc92c2709ab67616d0000b27335cdd6d3f5815afac043758eab67616d0000b2733c5bfa54ae5e8312f5e0325aab67616d0000b273714e56679ab196354e2e443e" alt="Aegyo" width="100" />
 
-[33 songs](aegyo_tracks.md)
+[34 songs](aegyo_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 16 artists in Aegyo](../images/playlists/aegyo/artists.png)
+![Bar chart of top 17 artists in Aegyo](../images/playlists/aegyo/artists.png)
 
 
 <details>
-<summary>See all 16 artists</summary>
+<summary>See all 17 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                               | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------|:------------------------------------------------------------|
@@ -24,6 +24,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="" width="50" /> | [SEVENTEEN](../artists/seventeen.md)                 | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8786ccb6031a3266bb15606" alt="" width="50" /> | WJSN                                                 | [🔗](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../artists/aespa.md)                         | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8884036ea777e2afb47ac7a2" alt="" width="50" /> | I.O.I                                                | [🔗](https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba6b0d348c125a072e5284b3e" alt="" width="50" /> | IZ*ONE                                               | [🔗](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2c540efb76ea47414f376af" alt="" width="50" /> | TFBOYS                                               | [🔗](https://open.spotify.com/artist/1dywcVTpMrP7VmQUhngSce) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb34149919c8ccd138a6c02cf8" alt="" width="50" /> | Natti Natasha                                        | [🔗](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) |
@@ -41,13 +42,14 @@
 
 
 <details>
-<summary>See all 32 albums</summary>
+<summary>See all 33 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                     | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:------------------------------------------|:-----------------------------------------------------------|
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6096741dcf413354a59554" alt="" width="50" /> | BORDER : DAY ONE                          | [🔗](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733c5bfa54ae5e8312f5e0325a" alt="" width="50" /> | 青春修炼手册                                    | [🔗](https://open.spotify.com/album/5sJB1R7udfChkgp5VRfY07) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733a7804057d817ff9f68ca85c" alt="" width="50" /> | ‘The ReVe Festival’ Day 2                 | [🔗](https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273266f95f6353cb2b974f67fa7" alt="" width="50" /> | miss me?                                  | [🔗](https://open.spotify.com/album/2YyowuE62RMWFtBSa2EO7r) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738c6cdb00ed42b1d6315f0bc1" alt="" width="50" /> | minisode1 : Blue Hour                     | [🔗](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27352db41e897d3a8dc72929208" alt="" width="50" /> | Yummy Yummy Love                          | [🔗](https://open.spotify.com/album/2r35RHvEtBjgKiONdItRR5) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273140ba24506e300382e08e6ec" alt="" width="50" /> | YES or YES                                | [🔗](https://open.spotify.com/album/25VunQEW0x2W6ALND2Mh4g) |
@@ -68,7 +70,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f0d00e054e9a9cb2e86cdf72" alt="" width="50" /> | Merry & Happy                             | [🔗](https://open.spotify.com/album/0R7pj4tnmcoUulrZGPo6nw) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273eb9bc74e6ced59a2638898b0" alt="" width="50" /> | Life's Too Short                          | [🔗](https://open.spotify.com/album/11lLYKMkFheiV7ObD7WCnx) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27366ff63bc084fb412aa2dddd3" alt="" width="50" /> | Hello - Special Album                     | [🔗](https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b66327ff0474d017472d7b18" alt="" width="50" /> | HAPPY MOMENT                              | [🔗](https://open.spotify.com/album/4nnyYQGOKRU090FK7sfunL) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b66327ff0474d017472d7b18" alt="" width="50" /> | HAPPY MOMENT (1)                          | [🔗](https://open.spotify.com/album/4nnyYQGOKRU090FK7sfunL) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a5bb4ef1ca42f4378d815c7c" alt="" width="50" /> | GREAT!                                    | [🔗](https://open.spotify.com/album/5vt2sEP5J0VNbYXoA7h2k4) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27342b393df3e24a66e5accbf2b" alt="" width="50" /> | Fun to The World                          | [🔗](https://open.spotify.com/album/75dkh8s39e7txjNe9cODH3) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27349b81808fcdaeeb55bef59d1" alt="" width="50" /> | Feel Special                              | [🔗](https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo) |
@@ -95,11 +97,11 @@
 |                  5 | SM Entertainment          |
 |                  4 | BELIFT LAB                |
 |                  3 | WM Entertainment          |
+|                  2 | Stone Music Entertainment |
 |                  2 | MLD ENTERTAINMENT         |
 |                  2 | Kakao Entertainment       |
 |                  1 | Warner Records            |
 |                  1 | WM Taiwan                 |
-|                  1 | Stone Music Entertainment |
 |                  1 | Starship Entertainment    |
 |                  1 | PLEDIS Entertainment      |
 |                  1 | Imperial Distribution     |

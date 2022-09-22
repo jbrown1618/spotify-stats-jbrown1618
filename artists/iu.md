@@ -8,8 +8,8 @@
 
 |   Number of Tracks | Art                                                                                              | Album                   |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:------------------------|
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="" width="50" /> | Palette                 |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | IU 5th Album 'LILAC'    |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="" width="50" /> | Palette                 |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2736a0cfc4171d2a0cb9dc7c9ab" alt="" width="50" /> | CHAT-SHIRE              |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273bf5f4138ebc9ba3fd6f0cde9" alt="" width="50" /> | Last Fantasy            |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c63be04ae902b1da7a54d247" alt="" width="50" /> | eight                   |
@@ -31,7 +31,7 @@
 |-------------------:|:--------------------|
 |                 13 | Kakao Entertainment |
 |                  7 | EDAM Entertainment  |
-|                  4 | Fave Entertainment  |
+|                  5 | Fave Entertainment  |
 |                  1 | YG Entertainment    |
 |                  1 | MORE VISION         |
 
@@ -49,6 +49,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2736a0cfc4171d2a0cb9dc7c9ab" alt="" width="50" /> | Glasses                        | CHAT-SHIRE              | Kakao Entertainment | 💚   | [🔗](https://open.spotify.com/track/4ogMtogPGtC1VwKRNiHymx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736a0cfc4171d2a0cb9dc7c9ab" alt="" width="50" /> | The shower                     | CHAT-SHIRE              | Kakao Entertainment |     | [🔗](https://open.spotify.com/track/6Ig42GJlpNtP77kGIXYZc4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736a0cfc4171d2a0cb9dc7c9ab" alt="" width="50" /> | Twenty-three                   | CHAT-SHIRE              | Kakao Entertainment | 💚   | [🔗](https://open.spotify.com/track/3YkDslZvvMixTwgDId0aYB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="" width="50" /> | Dear Name                      | Palette                 | Fave Entertainment  |     | [🔗](https://open.spotify.com/track/1DP0uwV6tMlCEfR61Mh7ki) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="" width="50" /> | Jam Jam                        | Palette                 | Fave Entertainment  | 💚   | [🔗](https://open.spotify.com/track/3h7WIL3B6nP3171zl6HWj8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="" width="50" /> | Palette (feat. G-DRAGON)       | Palette                 | Fave Entertainment  |     | [🔗](https://open.spotify.com/track/3y7ByLZ05tluscOTRgEJ9Y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="" width="50" /> | Through the Night              | Palette                 | Fave Entertainment  | 💚   | [🔗](https://open.spotify.com/track/3P3UA61WRQqwCXaoFOTENd) |
