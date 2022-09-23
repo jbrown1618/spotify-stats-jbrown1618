@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1254 songs](liked_songs_tracks.md)
+[1258 songs](liked_songs_tracks.md)
 
 ## Top Artists
 
@@ -102,7 +102,7 @@
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA                                                           | [🔗](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b" alt="" width="50" /> | Eminem                                                         | [🔗](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8786ccb6031a3266bb15606" alt="" width="50" /> | WJSN                                                           | [🔗](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) |
-|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb228ae4321f2e45e6ec5a725a" alt="" width="50" /> | Crush                                                          | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
+|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd8dd54e88f09287aa4653b6" alt="" width="50" /> | Crush                                                          | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb271320bcc15789b23aa83a44" alt="" width="50" /> | Erin McCarley                                                  | [🔗](https://open.spotify.com/artist/6Y4bCmUNPDKqc7dHkVvgim) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e2e2c78de847c4d9b12d32f" alt="" width="50" /> | Charlie Puth                                                   | [🔗](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c" alt="" width="50" /> | Amy Winehouse                                                  | [🔗](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) |
@@ -240,17 +240,17 @@
 
 |   Number of Tracks | Label                                  |
 |-------------------:|:---------------------------------------|
-|                136 | SM Entertainment                       |
+|                137 | SM Entertainment                       |
 |                 66 | Epic                                   |
 |                 59 | Columbia                               |
 |                 58 | Republic Records                       |
 |                 49 | YG Entertainment                       |
 |                 46 | Warner Records                         |
-|                 46 | Interscope                             |
+|                 46 | Interscope Records                     |
 |                 44 | RCA Records Label                      |
 |                 35 | Universal Music LLC                    |
-|                 26 | Stone Music Entertainment              |
-|                 26 | Genie Music Corporation                |
+|                 27 | Stone Music Entertainment              |
+|                 27 | Genie Music Corporation                |
 |                 25 | Atlantic Records                       |
 |                 22 | BIGHIT MUSIC                           |
 |                 21 | RBW Inc.                               |
@@ -291,6 +291,7 @@
 |                  6 | FNC ENTERTAINMENT                      |
 |                  6 | EDAM Entertainment                     |
 |                  6 | Bad Boy Records                        |
+|                  6 | 88rising Music                         |
 |                  5 | distributed through Interscope Records |
 |                  5 | UNI                                    |
 |                  5 | Riot Games                             |
@@ -299,7 +300,6 @@
 |                  5 | DREAMCATCHER COMPANY                   |
 |                  5 | Beluga Heights                         |
 |                  5 | Atlantic Records UK                    |
-|                  5 | 88rising Music                         |
 |                  5 | 143                                    |
 |                  4 | WM Japan                               |
 |                  4 | UMC (Universal Music Catalogue)        |
@@ -311,14 +311,14 @@
 |                  4 | Elektra                                |
 |                  4 | Daft Life Ltd.                         |
 |                  4 | BlockBerryCreative                     |
+|                  4 | Atl                                    |
 |                  4 | Arista                                 |
 |                  4 | Abyss Company                          |
-|                  4 | ATL                                    |
 |                  4 | ADA France                             |
 |                  4 | A&M                                    |
 |                  3 | avex trax                              |
 |                  3 | Universal (MT)                         |
-|                  3 | THE BLACK LABEL                        |
+|                  3 | The Black Label                        |
 |                  3 | Steam Powered Giraffe                  |
 |                  3 | Sony Music Entertainment               |
 |                  3 | Sony BMG Music UK                      |

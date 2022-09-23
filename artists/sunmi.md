@@ -25,7 +25,7 @@
 |-------------------:|:---------------------|
 |                  5 | Makeus Entertainment |
 |                  4 | Abyss Company        |
-|                  2 | THE BLACK LABEL      |
+|                  2 | The Black Label      |
 |                  1 | JYP Entertainment    |
 
 ## Tracks

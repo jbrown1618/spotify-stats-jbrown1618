@@ -228,13 +228,13 @@
 |                  3 | Brute                                |
 |                  3 | Beaute                               |
 |                  3 | Atlantic Records                     |
-|                  3 | ATL                                  |
+|                  3 | Atl                                  |
 |                  2 | Spin-Farm Oy                         |
 |                  2 | Saddle Creek                         |
 |                  2 | Phonogenic                           |
 |                  2 | Nuclear Blast Entertainment          |
 |                  2 | Kid Ina Korner                       |
-|                  2 | Interscope                           |
+|                  2 | Interscope Records                   |
 |                  1 | half·alive                           |
 |                  1 | ZAR                                  |
 |                  1 | Wyvern Lingo                         |

@@ -61,7 +61,7 @@
 |-------------------:|:-------------------------|
 |                103 | Decca Music Group Ltd.   |
 |                 42 | Deutsche Grammophon (DG) |
-|                 21 | PentaTone                |
+|                 21 | PENTATONE                |
 
 </details>
 

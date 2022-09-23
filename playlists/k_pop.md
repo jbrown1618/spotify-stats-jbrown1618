@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273f7da7c0f322b7a1c95190d92" alt="K-Pop" width="100" />
 
-[783 songs](k_pop_tracks.md)
+[785 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -73,9 +73,10 @@
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | SISTAR                                               | [🔗](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb70b010582faadbcec8b6774c" alt="" width="50" /> | CIX                                                  | [🔗](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA                                                 | [🔗](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) |
+|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb95f4928ac77d31b53626dab3" alt="" width="50" /> | PIXY                                                 | [🔗](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbb19ac3f264dea7cea4c42b" alt="" width="50" /> | Whee In                                              | [🔗](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb2be8611f6c6e9174031c64df" alt="" width="50" /> | JEON SOMI                                            | [🔗](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) |
-|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb228ae4321f2e45e6ec5a725a" alt="" width="50" /> | Crush                                                | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
+|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd8dd54e88f09287aa4653b6" alt="" width="50" /> | Crush                                                | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebefaf58a8efbde98a931659b7" alt="" width="50" /> | TAEYONG                                              | [🔗](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebea3e3a63d8bc191f631f6e0e" alt="" width="50" /> | PURPLE KISS                                          | [🔗](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb3e5502077e2bb0fe1e3d4df0" alt="" width="50" /> | Wonstein                                             | [🔗](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) |
@@ -96,7 +97,6 @@
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebbb55fc616733b6c09d48481f" alt="" width="50" /> | NAYEON                                               | [🔗](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb9d73d4effa3ecf8c5c25a22f" alt="" width="50" /> | J.Y. Park                                            | [🔗](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebd0701912e6fccf8427bc7361" alt="" width="50" /> | GFRIEND                                              | [🔗](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) |
-|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb95f4928ac77d31b53626dab3" alt="" width="50" /> | PIXY                                                 | [🔗](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf55b31064f94878f3da932c8" alt="" width="50" /> | MAX CHANGMIN                                         | [🔗](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd40fae46480e4202ef69316d" alt="" width="50" /> | YUJU                                                 | [🔗](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc6de192c5941f6605bb9c6ad" alt="" width="50" /> | Weeekly                                              | [🔗](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) |
@@ -113,8 +113,8 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebfe7fc78f16d948f53a607c53" alt="" width="50" /> | NINGNING                                             | [🔗](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eba6b0d348c125a072e5284b3e" alt="" width="50" /> | IZ*ONE                                               | [🔗](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb8eb5e57e526ceb14f06ea203" alt="" width="50" /> | iKON                                                 | [🔗](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7897fb51bf433f4049eed4fb" alt="" width="50" /> | The Rose                                             | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eba109aeabdab7a5a5b3330df4" alt="" width="50" /> | HEIZE                                                | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
-|                  2 | <img src="https://i.scdn.co/image/ab6772690000c46c10d90fee3240f733c26f161f" alt="" width="50" /> | Rain                                                 | [🔗](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) |
 
 </details>
 
@@ -246,13 +246,13 @@
 |                180 | SM Entertainment                                  |
 |                 66 | Republic Records                                  |
 |                 59 | YG Entertainment                                  |
-|                 43 | Genie Music Corporation                           |
-|                 41 | Stone Music Entertainment                         |
+|                 44 | Genie Music Corporation                           |
+|                 42 | Stone Music Entertainment                         |
 |                 33 | BIGHIT MUSIC                                      |
 |                 30 | JYP Entertainment                                 |
 |                 25 | RBW Inc.                                          |
 |                 24 | Universal Music LLC                               |
-|                 23 | Interscope                                        |
+|                 23 | Interscope Records                                |
 |                 23 | CUBE ENTERTAINMENT                                |
 |                 18 | PLEDIS Entertainment                              |
 |                 17 | HYBE                                              |
@@ -275,7 +275,7 @@
 |                  5 | KQ Entertainment                                  |
 |                  5 | 88rising Music                                    |
 |                  4 | WM Japan                                          |
-|                  4 | THE BLACK LABEL                                   |
+|                  4 | The Black Label                                   |
 |                  4 | Studio MaumC                                      |
 |                  4 | Riot Games                                        |
 |                  4 | Hwa&Dam pictures                                  |
@@ -290,7 +290,9 @@
 |                  3 | Imperial Distribution                             |
 |                  3 | DSP Media                                         |
 |                  2 | 해피페이스 엔터테인먼트                                      |
+|                  2 | 해피트라이브엔터테인먼트                                      |
 |                  2 | 우조엔터테인먼트                                          |
+|                  2 | 올라트엔터테인먼트                                         |
 |                  2 | ㈜ 드림캐쳐컴퍼니                                         |
 |                  2 | Yedang Entertainment                              |
 |                  2 | TEAM WANG records                                 |
@@ -305,10 +307,8 @@
 |                  2 | BANANA CULTURE                                    |
 |                  2 | ATISPAUS                                          |
 |                  2 | (주)블렌딩                                            |
-|                  1 | 해피트라이브엔터테인먼트                                      |
 |                  1 | 폴라리스엔터테인먼트                                        |
 |                  1 | 주식회사 오라                                           |
-|                  1 | 올라트엔터테인먼트                                         |
 |                  1 | 에이스토리                                             |
 |                  1 | 스튜디오앤뉴                                            |
 |                  1 | 스타쉽엔터테인먼트(Starship Entertainment)                 |

@@ -218,7 +218,7 @@
 |                 53 | SM Entertainment                       |
 |                 20 | YG Entertainment                       |
 |                 12 | Republic Records                       |
-|                  9 | Interscope                             |
+|                  9 | Interscope Records                     |
 |                  8 | Universal Music LLC                    |
 |                  8 | JYP Entertainment                      |
 |                  7 | RBW Inc.                               |
@@ -237,7 +237,7 @@
 |                  2 | distributed through Interscope Records |
 |                  2 | WM Japan                               |
 |                  2 | WM Entertainment                       |
-|                  2 | THE BLACK LABEL                        |
+|                  2 | The Black Label                        |
 |                  2 | Starship Entertainment                 |
 |                  2 | LABEL V                                |
 |                  2 | Fave Entertainment                     |

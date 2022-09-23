@@ -243,7 +243,7 @@
 
 |   Number of Tracks | Label                                         |
 |-------------------:|:----------------------------------------------|
-|                 30 | Interscope                                    |
+|                 30 | Interscope Records                            |
 |                 29 | Big Machine Records                           |
 |                 26 | RCA Records Label                             |
 |                 23 | Columbia                                      |
@@ -274,7 +274,7 @@
 |                  3 | Island UK                                     |
 |                  3 | Fueled By Ramen                               |
 |                  3 | Casablanca Records                            |
-|                  2 | Wondaland Records                             |
+|                  2 | Wondaland                                     |
 |                  2 | Reprise                                       |
 |                  2 | Radiculture                                   |
 |                  2 | Phonogenic                                    |
