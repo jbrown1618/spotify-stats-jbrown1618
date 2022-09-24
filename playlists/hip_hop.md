@@ -20,7 +20,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb019d6873a01987cbe35888cd" alt="" width="50" /> | [Rihanna](../artists/rihanna.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | Nicki Minaj                      | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb529f2198b3e9e77c0d5a665b" alt="" width="50" /> | SZA                              | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebab6bd6e450cbc7629a9a2381" alt="" width="50" /> | Lil Nas X                        | [🔗](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd66f1e0c883f319443d68c45" alt="" width="50" /> | Lil Nas X                        | [🔗](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3eed54e1eb0fed222434d867" alt="" width="50" /> | Waka Flocka Flame                | [🔗](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0e1f90bdff70c339838dcf90" alt="" width="50" /> | Wale                             | [🔗](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | Iggy Azalea                      | [🔗](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) |
@@ -94,7 +94,7 @@
 |                  1 | The Orchard                     |
 |                  1 | Roc-A-Fella                     |
 |                  1 | KSR                             |
-|                  1 | Interscope Records              |
+|                  1 | Interscope                      |
 |                  1 | EMPIRE                          |
 |                  1 | Columbia                        |
 |                  1 | Bad Dreams Records              |

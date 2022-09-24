@@ -56,7 +56,7 @@
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | Halsey                                         | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebee954a3b5418065c2fe253fb" alt="" width="50" /> | Olivia Rodrigo                                 | [🔗](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb6ec3754d5db2e333b9434c75" alt="" width="50" /> | P!nk                                           | [🔗](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebab6bd6e450cbc7629a9a2381" alt="" width="50" /> | Lil Nas X                                      | [🔗](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd66f1e0c883f319443d68c45" alt="" width="50" /> | Lil Nas X                                      | [🔗](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eba5fc004270bdfc9fee7f55f4" alt="" width="50" /> | Jon McLaughlin                                 | [🔗](https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7) |
 |                  2 | <img src="https://i.scdn.co/image/c56cf0cc89c8ecfec7145cf065ea2006d0706605" alt="" width="50" /> | *NSYNC                                         | [🔗](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | Iggy Azalea                                    | [🔗](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) |
@@ -83,7 +83,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | [Michael Bublé](../artists/michael_bubl_.md)   | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bebfdee4c4cfea3473a51ab" alt="" width="50" /> | Megan Thee Stallion                            | [🔗](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc4902f080d3620b3e6da80c3" alt="" width="50" /> | Lorde                                          | [🔗](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb8136bed5d8a80791bbe9ae23" alt="" width="50" /> | Shakira                                        | [🔗](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb284894d68fe2f80cad555110" alt="" width="50" /> | Shakira                                        | [🔗](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eba5205abffd84341e5bace828" alt="" width="50" /> | Selena Gomez                                   | [🔗](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9236c8060febc7d7fc7ea8c4" alt="" width="50" /> | Rachael Yamagata                               | [🔗](https://open.spotify.com/artist/7w0qj2HiAPIeUcoPogvOZ6) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb529f2198b3e9e77c0d5a665b" alt="" width="50" /> | SZA                                            | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
@@ -243,7 +243,7 @@
 
 |   Number of Tracks | Label                                         |
 |-------------------:|:----------------------------------------------|
-|                 30 | Interscope Records                            |
+|                 30 | Interscope                                    |
 |                 29 | Big Machine Records                           |
 |                 26 | RCA Records Label                             |
 |                 23 | Columbia                                      |
@@ -274,7 +274,7 @@
 |                  3 | Island UK                                     |
 |                  3 | Fueled By Ramen                               |
 |                  3 | Casablanca Records                            |
-|                  2 | Wondaland                                     |
+|                  2 | Wondaland Records                             |
 |                  2 | Reprise                                       |
 |                  2 | Radiculture                                   |
 |                  2 | Phonogenic                                    |

@@ -96,13 +96,13 @@
 |-------------------:|:---------------------------|
 |                  5 | SM Entertainment           |
 |                  4 | YG Entertainment           |
-|                  4 | Interscope Records         |
+|                  4 | Interscope                 |
 |                  4 | BIGHIT MUSIC               |
 |                  3 | Starship Entertainment     |
 |                  3 | Republic Records           |
 |                  2 | High Up Entertainment      |
 |                  2 | BELIFT LAB                 |
-|                  1 | The Black Label            |
+|                  1 | THE BLACK LABEL            |
 |                  1 | SOURCE MUSIC               |
 |                  1 | PLEDIS Entertainment       |
 |                  1 | PLAY M ENTERTAINMENT CORP. |

@@ -16,7 +16,7 @@
 |   Number of Tracks | Art                                                                                              | Artist                             | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------|:------------------------------------------------------------|
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebc335ac3a535be796643b4eb5" alt="" width="50" /> | BABYMETAL                          | [🔗](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) |
-|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb8136bed5d8a80791bbe9ae23" alt="" width="50" /> | Shakira                            | [🔗](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) |
+|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb284894d68fe2f80cad555110" alt="" width="50" /> | Shakira                            | [🔗](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb50e69bf99b647d12b14cb314" alt="" width="50" /> | Isyana Sarasvati                   | [🔗](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375" alt="" width="50" /> | Hatsune Miku                       | [🔗](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebc6e1280be0bb5a22ff599700" alt="" width="50" /> | Official HIGE DANdism              | [🔗](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) |
@@ -94,7 +94,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb44cc73a57e7a317ee89158d4" alt="" width="50" /> | Leehom Wang                        | [🔗](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5d0fc400392250a750a9403e" alt="" width="50" /> | J Balvin                           | [🔗](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb77e7032af4f4ee21badd8fc7" alt="" width="50" /> | Madame Monsieur                    | [🔗](https://open.spotify.com/artist/1tQn5gWbo3ee6n2Z52ogY5) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb248144419d84f33bf00d6863" alt="" width="50" /> | Kenshi Yonezu                      | [🔗](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb486e89dfcbba35327a1ba9b9" alt="" width="50" /> | Kenshi Yonezu                      | [🔗](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb96a9faf8f7ec1da103c63985" alt="" width="50" /> | Maluma                             | [🔗](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9126343e690e70ec5424ddaa" alt="" width="50" /> | Christine Fan                      | [🔗](https://open.spotify.com/artist/1q7sCl0vg0EcaFdRz0XDGg) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb75a6949c1571055dd609f890" alt="" width="50" /> | Rauw Alejandro                     | [🔗](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) |
@@ -230,7 +230,7 @@
 |                  3 | Columbia                                              |
 |                  2 | Universal Music Division Capitol Music France         |
 |                  2 | Samlist                                               |
-|                  2 | Linfair Records Limited                               |
+|                  2 | Linfair                                               |
 |                  2 | KING RECORDS                                          |
 |                  2 | ITModels under exclusive license to D-Music           |
 |                  2 | IRORI Records                                         |
