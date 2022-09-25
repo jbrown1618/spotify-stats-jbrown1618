@@ -3,15 +3,15 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2730f0ee33a816d8268f431ab50ab67616d0000b27317477a7434c66ac5548b6ab7ab67616d0000b273a8507e1652f7aa0ecf288933ab67616d0000b273e4751812fc466db9cc6bd9aa" alt="Check Out Later" width="100" />
 
-[14 songs](check_out_later_tracks.md)
+[15 songs](check_out_later_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 12 artists in Check Out Later](../images/playlists/check_out_later/artists.png)
+![Bar chart of top 13 artists in Check Out Later](../images/playlists/check_out_later/artists.png)
 
 
 <details>
-<summary>See all 12 artists</summary>
+<summary>See all 13 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                 | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:------------------------------------------------------------|
@@ -27,17 +27,18 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7ece2134de8809efcfdc9be7" alt="" width="50" /> | SHINee                                 | [🔗](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb6501e0b3fcde145838f4724" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b93ad49bde5a3655aef95cd" alt="" width="50" /> | miss A                                 | [🔗](https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfa980b99bc5f4d47b4253f82" alt="" width="50" /> | j-hope                                 | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
 
 </details>
 
 
 ## Top Albums
 
-![Bar chart of top 14 albums in Check Out Later](../images/playlists/check_out_later/albums.png)
+![Bar chart of top 15 albums in Check Out Later](../images/playlists/check_out_later/albums.png)
 
 
 <details>
-<summary>See all 14 albums</summary>
+<summary>See all 15 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                    | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------|:-----------------------------------------------------------|
@@ -48,6 +49,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c7bb27d0e4ab6f8cdf61c087" alt="" width="50" /> | SEVENTEEN SPECIAL ALBUM 'DIRECTOR'S CUT’ | [🔗](https://open.spotify.com/album/5QpD7kgp5dpkNFuG6ez2yI) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27321c941a808e99d4ba69ffc01" alt="" width="50" /> | SEOULITE                                 | [🔗](https://open.spotify.com/album/4p27GsqUEbfl83iPtt0IcI) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27348f4704427189fe1957d2871" alt="" width="50" /> | Return                                   | [🔗](https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="" width="50" /> | Jack In The Box                          | [🔗](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a8507e1652f7aa0ecf288933" alt="" width="50" /> | I Love You                               | [🔗](https://open.spotify.com/album/0BePiDVdS09GVoBe30WMAd) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273362abddb1ef89c5dbc738fe6" alt="" width="50" /> | HUSH                                     | [🔗](https://open.spotify.com/album/27FDExxvG3h3XCUcJVlVSY) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273756af7c3a9d2a2c2ff37a11e" alt="" width="50" /> | HEART*IZ                                 | [🔗](https://open.spotify.com/album/548UwoyV9v9fTaoEfzoCBb) |
@@ -61,11 +63,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 9 record labels in Check Out Later](../images/playlists/check_out_later/labels.png)
+![Bar chart of top 10 record labels in Check Out Later](../images/playlists/check_out_later/labels.png)
 
 
 <details>
-<summary>See all 9 labels</summary>
+<summary>See all 10 labels</summary>
 
 |   Number of Tracks | Label                     |
 |-------------------:|:--------------------------|
@@ -78,6 +80,7 @@
 |                  1 | PLEDIS Entertainment      |
 |                  1 | JYP Entertainment         |
 |                  1 | CUBE ENTERTAINMENT        |
+|                  1 | BIGHIT MUSIC              |
 
 </details>
 

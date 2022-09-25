@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273028c3bb4b81ee71dd73d1596ab67616d0000b27334e21d0a51baa21dc4091b96ab67616d0000b273d0ec2db731952a7efabc6397ab67616d0000b273df55e326ed144ab4f5cecf95" alt="Indie/Alternative" width="100" />
 
-[168 songs](indie_alternative_tracks.md)
+[169 songs](indie_alternative_tracks.md)
 
 ## Top Artists
 
@@ -11,7 +11,7 @@
 
 
 <details>
-<summary>See all 71 artists</summary>
+<summary>See all 72 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                                         | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------|:------------------------------------------------------------|
@@ -79,6 +79,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7926088433d79485da5e1734" alt="" width="50" /> | Mabel                                                          | [🔗](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9675860a0330f45981e83436" alt="" width="50" /> | Guy Sigsworth                                                  | [🔗](https://open.spotify.com/artist/0uQWT7X0I9Y7zM7WWexpAj) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0472fb072403737786ac79a" alt="" width="50" /> | Avril Lavigne                                                  | [🔗](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbeb464b0892a8bc039714ce" alt="" width="50" /> | Måneskin                                                       | [🔗](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba9add5f319d70026d4f3b8a1" alt="" width="50" /> | Rixton                                                         | [🔗](https://open.spotify.com/artist/0kkxsdcaWmWU2yWAqclDh4) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba55b91f04d6b3c3c8dd9108b" alt="" width="50" /> | Adra Boo                                                       | [🔗](https://open.spotify.com/artist/0YahlVgicneX5hdN8XyIpp) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb047095c90419cf2a97266f77" alt="" width="50" /> | Nine Inch Nails                                                | [🔗](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) |
@@ -96,7 +97,7 @@
 
 
 <details>
-<summary>See all 92 albums</summary>
+<summary>See all 93 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                      | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------|:-----------------------------------------------------------|
@@ -184,6 +185,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ef54c10b95411c51b9ab873b" alt="" width="50" /> | Deleted Scenes From The Cutting Room Floor | [🔗](https://open.spotify.com/album/1D8grnftAaivpmBkayUgMR) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738a2de91e5b26f31388d4c049" alt="" width="50" /> | Darling                                    | [🔗](https://open.spotify.com/album/7pDkPCnYRapjr8dXcwkNIB) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27345637d4f339bac296ba9d5e7" alt="" width="50" /> | Dark Passion Play                          | [🔗](https://open.spotify.com/album/4oOfQhhbHBfIcIDwuJjwTy) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="" width="50" /> | Chosen                                     | [🔗](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734b20e4a8e06f19bcd51a5406" alt="" width="50" /> | Bombs Away                                 | [🔗](https://open.spotify.com/album/2Yi29VOccHCwktsZNqtxbt) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731a104e8630a97b573201f655" alt="" width="50" /> | Blue Neighbourhood (Deluxe)                | [🔗](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733a2a91f99d869c4ca51362ff" alt="" width="50" /> | Aussie Legends                             | [🔗](https://open.spotify.com/album/3IGRFGa4ErR0CU8aMMrRql) |
@@ -209,7 +211,7 @@
 |                 21 | Warner Records                       |
 |                 18 | Polydor Records                      |
 |                 15 | Universal-Island Records Ltd.        |
-|                 14 | RCA Records Label                    |
+|                 15 | RCA Records Label                    |
 |                 10 | XL Recordings                        |
 |                  8 | Monkey Puzzle Records                |
 |                  7 | Nettwerk Records                     |
@@ -228,7 +230,7 @@
 |                  3 | Brute                                |
 |                  3 | Beaute                               |
 |                  3 | Atlantic Records                     |
-|                  3 | Atl                                  |
+|                  3 | ATL                                  |
 |                  2 | Spin-Farm Oy                         |
 |                  2 | Saddle Creek                         |
 |                  2 | Phonogenic                           |

@@ -1052,6 +1052,7 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.597,0.496,5,-9.441,1,0.077,0.0839,0.0,0.117,0.319,160.05,4,spotify:track:2Q3QRjA8MjzqpFaIkFludb
 0.592,0.699,3,-8.995,1,0.0471,0.655,1.68e-05,0.114,0.506,141.916,4,spotify:track:2QDyYdZyhlP2fp79KZX8Bi
 0.408,0.223,9,-14.943,1,0.0382,0.951,0.689,0.0674,0.354,112.932,4,spotify:track:2QQqUsJ4kZW10aOJjDHB76
+0.938,0.798,1,-3.998,1,0.103,0.00813,7.03e-05,0.146,0.265,99.992,4,spotify:track:2QWEMqQMJR1KDf6hDjJOs6
 0.387,0.00913,4,-33.93,1,0.0574,0.715,0.0,0.488,0.0727,82.043,3,spotify:track:2QYtN5MiVrF7OJFpkJvLrS
 0.622,0.712,5,-7.321,1,0.066,0.0573,0.0,0.13,0.487,140.025,4,spotify:track:2QZ7WLBE8h2y1Y5Fb8RYbH
 0.491,0.566,0,-6.445,0,0.0319,0.00933,0.000226,0.114,0.184,124.091,4,spotify:track:2QcK7U4m9RQpR5eTmVoW5N
@@ -1565,6 +1566,7 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.699,0.907,9,-1.208,0,0.0544,0.0868,0.0,0.115,0.621,115.978,4,spotify:track:3WfaJhCL4p2JbdffJjV6Va
 0.391,0.49,1,-7.536,1,0.0299,0.693,3.82e-06,0.102,0.157,148.246,4,spotify:track:3WgDY81htmhTtSh7VWIl60
 0.0683,0.0254,10,-24.115,1,0.0472,0.988,0.949,0.103,0.0616,73.634,4,spotify:track:3Widrk9yGTZaiZHlSso73E
+0.714,0.8,11,-4.808,0,0.0504,0.127,0.0,0.359,0.589,134.002,4,spotify:track:3Wrjm47oTz2sjIgck11l5e
 0.75,0.586,11,-4.639,0,0.0674,0.0733,0.0,0.347,0.835,139.889,4,spotify:track:3Wu4lFjkhcXxB6WWaX9gtr
 0.341,0.132,2,-22.0,1,0.0478,0.978,0.444,0.335,0.278,82.846,3,spotify:track:3X4RCS6FscX5Qbyn6nxQwt
 0.596,0.194,10,-20.389,1,0.0347,0.97,0.162,0.099,0.746,114.974,4,spotify:track:3X9tJw6z5LowFx339fhTvu
@@ -2050,7 +2052,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.576,0.437,11,-7.461,0,0.0278,0.812,1.51e-06,0.119,0.215,126.975,4,spotify:track:4Wzi8j1QMFE10SDbe2r1VB
 0.657,0.714,6,-5.876,1,0.0338,0.313,4.73e-05,0.075,0.391,90.016,4,spotify:track:4XGet6CWBb9QoZSHGGT0NM
 0.376,0.248,5,-16.528,0,0.0545,0.982,0.893,0.156,0.299,59.67,4,spotify:track:4XHyY3bzqsR7sa2C7RPxVb
-0.783,0.722,2,-4.864,1,0.0357,0.00537,0.00209,0.105,0.306,97.031,4,spotify:track:4XKXphKH76W4zNpkgFS5o2
 0.689,0.771,5,-3.618,1,0.0548,0.00776,0.0,0.521,0.482,157.052,4,spotify:track:4XPXrcpyNr30Km6aPiflJy
 0.818,0.849,9,-4.399,0,0.206,0.0641,0.0,0.0839,0.605,124.954,4,spotify:track:4XbyRgWe6yU4wE6WShdTEs
 0.187,0.133,11,-8.022,1,0.0328,0.731,0.0,0.101,0.292,75.97,3,spotify:track:4Y7ccrzeEvhvCc8IFoxZKd
@@ -3130,6 +3131,7 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.212,0.112,5,-18.982,1,0.0356,0.941,0.893,0.141,0.101,131.568,4,spotify:track:70E993QEzhQSWILEzDliaV
 0.223,0.209,10,-17.515,1,0.0597,0.943,0.0813,0.332,0.149,74.161,4,spotify:track:70EsjD9Fdes92N5i5qqilV
 0.407,0.295,7,-15.302,0,0.0395,0.935,0.941,0.122,0.453,137.377,4,spotify:track:70Fx0AQvJFpUCmJFsAnPil
+0.673,0.75,9,-5.831,1,0.0655,0.0155,5.44e-06,0.348,0.708,105.848,4,spotify:track:70XnKsO3UnIT4FnEwChQXx
 0.354,0.411,0,-6.018,1,0.0344,0.815,1e-06,0.106,0.43,90.831,4,spotify:track:70b5Sq3ePOu3Gqg0hjlOtR
 0.25,0.0152,1,-29.974,0,0.0457,0.985,0.907,0.0732,0.0915,69.795,3,spotify:track:70cbObAWIBqFMDdFQYBRuz
 0.537,0.0179,2,-20.636,1,0.0716,0.874,0.039,0.0694,0.447,112.574,4,spotify:track:70rBuxJQAXaZZCNg19z8b6
@@ -3239,6 +3241,7 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.207,0.348,3,-6.447,1,0.0345,0.886,0.0,0.305,0.223,76.857,4,spotify:track:7FpJ62ZQtyitL40diEH9vf
 0.704,0.92,8,-5.471,0,0.161,0.0435,0.0,0.213,0.564,130.043,4,spotify:track:7FrSronLW3WJJEVMvyRcdX
 0.296,0.0257,4,-22.57,1,0.0387,0.981,0.735,0.0992,0.0861,113.386,3,spotify:track:7Fxa6lAPC2Zem58LOOFgJc
+0.783,0.722,2,-4.864,1,0.0357,0.00537,0.00209,0.105,0.306,97.031,4,spotify:track:7GARzfC1mwhDuk4t9WOACq
 0.618,0.76,6,-4.312,1,0.0596,0.0066,0.0,0.127,0.541,150.0,4,spotify:track:7GbUWl6qLW1gdngbEV2WDJ
 0.611,0.68,10,-5.852,1,0.0665,0.431,0.0,0.346,0.655,125.016,4,spotify:track:7Gi0VBh0IsTbIncQGNJjv3
 0.372,0.539,7,-4.941,1,0.0324,0.605,0.000616,0.177,0.0825,129.808,4,spotify:track:7GlwvJ8iAbCEfZjGq3iwmZ

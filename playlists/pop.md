@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="Pop" width="100" />
 
-[351 songs](pop_tracks.md)
+[352 songs](pop_tracks.md)
 
 ## Top Artists
 
@@ -245,7 +245,7 @@
 |-------------------:|:----------------------------------------------|
 |                 30 | Interscope                                    |
 |                 29 | Big Machine Records                           |
-|                 26 | RCA Records Label                             |
+|                 27 | RCA Records Label                             |
 |                 23 | Columbia                                      |
 |                 21 | Taylor Swift                                  |
 |                 21 | Atlantic Records                              |

@@ -103,7 +103,7 @@
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb758f3c632d4d726f1129d336" alt="" width="50" /> | TOMORROW X TOGETHER                                            | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA                                                           | [🔗](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b" alt="" width="50" /> | Eminem                                                         | [🔗](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) |
-|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd8dd54e88f09287aa4653b6" alt="" width="50" /> | Crush                                                          | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
+|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8e9d1c8642df6f869631fe62" alt="" width="50" /> | Crush                                                          | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb271320bcc15789b23aa83a44" alt="" width="50" /> | Erin McCarley                                                  | [🔗](https://open.spotify.com/artist/6Y4bCmUNPDKqc7dHkVvgim) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e2e2c78de847c4d9b12d32f" alt="" width="50" /> | Charlie Puth                                                   | [🔗](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c" alt="" width="50" /> | Amy Winehouse                                                  | [🔗](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) |
@@ -247,12 +247,12 @@
 |                 51 | YG Entertainment                       |
 |                 46 | Warner Records                         |
 |                 46 | Interscope                             |
-|                 44 | RCA Records Label                      |
+|                 45 | RCA Records Label                      |
 |                 35 | Universal Music LLC                    |
 |                 28 | Stone Music Entertainment              |
 |                 28 | Genie Music Corporation                |
 |                 25 | Atlantic Records                       |
-|                 22 | BIGHIT MUSIC                           |
+|                 23 | BIGHIT MUSIC                           |
 |                 21 | RBW Inc.                               |
 |                 21 | JYP Entertainment                      |
 |                 21 | EMI Catalogue                          |
@@ -268,8 +268,8 @@
 |                 13 | BELIFT LAB                             |
 |                 12 | PLEDIS Entertainment                   |
 |                 12 | Hollywood Records                      |
-|                 12 | Capitol Records                        |
 |                 11 | Starship Entertainment                 |
+|                 11 | Capitol Records                        |
 |                 10 | Jive                                   |
 |                 10 | HYBE                                   |
 |                 10 | Darkroom                               |
@@ -311,9 +311,9 @@
 |                  4 | Elektra                                |
 |                  4 | Daft Life Ltd.                         |
 |                  4 | BlockBerryCreative                     |
-|                  4 | Atl                                    |
 |                  4 | Arista                                 |
 |                  4 | Abyss Company                          |
+|                  4 | ATL                                    |
 |                  4 | ADA France                             |
 |                  4 | A&M                                    |
 |                  3 | avex trax                              |

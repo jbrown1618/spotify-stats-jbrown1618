@@ -196,9 +196,9 @@
 |                  1 | Downtown Recordings     |
 |                  1 | Def Soul                |
 |                  1 | Castle Communications   |
-|                  1 | Atl                     |
 |                  1 | Arista                  |
 |                  1 | Aftermath Entertainment |
+|                  1 | ATL                     |
 
 </details>
 
