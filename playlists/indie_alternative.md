@@ -63,7 +63,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8167bcebaf508dc6c3459b1" alt="" width="50" /> | Maggie Rogers                                                  | [🔗](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb028bd6def01c39f7cdfadc77" alt="" width="50" /> | Anjulie                                                        | [🔗](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb379e885a01898367bfcd0c44" alt="" width="50" /> | Caro Emerald                                                   | [🔗](https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6ecbb5d14d6bfc1c1ca6293c" alt="" width="50" /> | League of Legends                                              | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd96a6a23facfaa2b364b1bdb" alt="" width="50" /> | League of Legends                                              | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5925909bff0f2cf1bf94f949" alt="" width="50" /> | Christopher                                                    | [🔗](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737c467af894eb9648d0f16e82" alt="" width="50" /> | Huxlee                                                         | [🔗](https://open.spotify.com/artist/3yb7HrGPG0WpWgdO4XFwBf) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf89c5a76f9f10f61e4e07081" alt="" width="50" /> | Kim Petras                                                     | [🔗](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) |
@@ -230,13 +230,13 @@
 |                  3 | Brute                                |
 |                  3 | Beaute                               |
 |                  3 | Atlantic Records                     |
-|                  3 | ATL                                  |
+|                  3 | Atl                                  |
 |                  2 | Spin-Farm Oy                         |
 |                  2 | Saddle Creek                         |
 |                  2 | Phonogenic                           |
 |                  2 | Nuclear Blast Entertainment          |
 |                  2 | Kid Ina Korner                       |
-|                  2 | Interscope                           |
+|                  2 | Interscope Records                   |
 |                  1 | half·alive                           |
 |                  1 | ZAR                                  |
 |                  1 | Wyvern Lingo                         |

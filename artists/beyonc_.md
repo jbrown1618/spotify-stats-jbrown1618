@@ -23,7 +23,7 @@
 |                 14 | Columbia               |
 |                  6 | Parkwood Entertainment |
 |                  5 | Music World Music      |
-|                  1 | Interscope             |
+|                  1 | Interscope Records     |
 
 ## Tracks
 

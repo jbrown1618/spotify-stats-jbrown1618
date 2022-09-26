@@ -243,7 +243,7 @@
 
 |   Number of Tracks | Label                                         |
 |-------------------:|:----------------------------------------------|
-|                 30 | Interscope                                    |
+|                 30 | Interscope Records                            |
 |                 29 | Big Machine Records                           |
 |                 27 | RCA Records Label                             |
 |                 23 | Columbia                                      |
@@ -263,7 +263,7 @@
 |                  6 | XL Recordings                                 |
 |                  6 | Island Records                                |
 |                  5 | Beluga Heights                                |
-|                  5 | Bad Boy Records                               |
+|                  5 | Bad Boy                                       |
 |                  4 | Kemosabe Records                              |
 |                  4 | Atlantic Records UK                           |
 |                  3 | Universal-Island Records Ltd.                 |

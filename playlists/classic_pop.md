@@ -3,15 +3,15 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27322219b7ba681368a16c219feab67616d0000b27323350feac07f56d8b96f33d5ab67616d0000b27361c83e0a3e42be611729c840ab67616d0000b2736aa9314b7ddfbd8f036ba3ac" alt="Classic Pop" width="100" />
 
-[55 songs](classic_pop_tracks.md)
+[56 songs](classic_pop_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 24 artists in Classic Pop](../images/playlists/classic_pop/artists.png)
+![Bar chart of top 25 artists in Classic Pop](../images/playlists/classic_pop/artists.png)
 
 
 <details>
-<summary>See all 24 artists</summary>
+<summary>See all 25 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist            | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:------------------|:------------------------------------------------------------|
@@ -37,6 +37,7 @@
 |                  1 | <img src="https://i.scdn.co/image/813fde33623cbfd065053789cf1ffb22b55efd4a" alt="" width="50" /> | Carole King       | [🔗](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) |
 |                  1 | <img src="https://i.scdn.co/image/e9df5954d907411a43487d61c1acae8a04ae0b93" alt="" width="50" /> | Chuck Mangione    | [🔗](https://open.spotify.com/artist/2MMaIlHd8UvDW0mVRAncD6) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1f764c8f69b595efe77e1c45" alt="" width="50" /> | Paul Simon        | [🔗](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) |
+|                  1 | <img src="https://i.scdn.co/image/14925be3ce17d25a95b95ae7491e18fe3adc80b0" alt="" width="50" /> | Mary Wells        | [🔗](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) |
 |                  1 | <img src="https://i.scdn.co/image/1d5a05673975ba0c378cd280344e000b0b865620" alt="" width="50" /> | Bee Gees          | [🔗](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739df742dcaf9b79edad9009d0" alt="" width="50" /> | The Tokens        | [🔗](https://open.spotify.com/artist/1GAJzApRTMmYZ9EjQ91VOy) |
 
@@ -49,7 +50,7 @@
 
 
 <details>
-<summary>See all 47 albums</summary>
+<summary>See all 48 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                                                                   | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -76,6 +77,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dfe4bfe695c4192e547e72c7" alt="" width="50" /> | Ring Of Fire: The Best Of Johnny Cash                                                                   | [🔗](https://open.spotify.com/album/0ucV57dbnqmrGv9d60r6X2) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac" alt="" width="50" /> | Off the Wall                                                                                            | [🔗](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736506e351b719b6f122e60ea2" alt="" width="50" /> | Meet The Temptations                                                                                    | [🔗](https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735b50e493598153b926ded824" alt="" width="50" /> | Mary Wells Sings My Guy                                                                                 | [🔗](https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d03ab2da904d8251a87bbc31" alt="" width="50" /> | Madman Across The Water                                                                                 | [🔗](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27329c1c454ed1b2acfa64dc37f" alt="" width="50" /> | Listen Without Prejudice / MTV Unplugged (Deluxe)                                                       | [🔗](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736b18e58a06aac7763abe319a" alt="" width="50" /> | Like a Virgin (Reissue)                                                                                 | [🔗](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) |
@@ -114,9 +116,9 @@
 
 |   Number of Tracks | Label                           |
 |-------------------:|:--------------------------------|
-|                 12 | MOTOWN                          |
+|                 13 | MOTOWN                          |
 |                 10 | Epic                            |
-|                  7 | UNI                             |
+|                  8 | UNI                             |
 |                  6 | Columbia                        |
 |                  4 | Warner Records                  |
 |                  4 | Legacy                          |

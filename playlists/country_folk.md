@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27324e1589fb3eab8ae8831f388ab67616d0000b2735726e327fd968a6fb5974350ab67616d0000b273724bd326692d222c5906b0b0ab67616d0000b27379c820d2d853c756c3738d39" alt="Country/Folk" width="100" />
 
-[33 songs](country_folk_tracks.md)
+[36 songs](country_folk_tracks.md)
 
 ## Top Artists
 
@@ -17,12 +17,12 @@
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------|:------------------------------------------------------------|
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb78a54dca2a384cc48805b015" alt="" width="50" /> | Nickel Creek     | [🔗](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebc1c077c305eb4b2bcac25fd5" alt="" width="50" /> | Carrie Underwood | [🔗](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) |
+|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb87ac264d392a72af95ca9fdb" alt="" width="50" /> | Mumford & Sons   | [🔗](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb6437a0b8a5cf89ec8cbbfe9b" alt="" width="50" /> | Delta Rae        | [🔗](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb152cf48cf9541c7061570857" alt="" width="50" /> | Johnny Cash      | [🔗](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) |
-|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb87ac264d392a72af95ca9fdb" alt="" width="50" /> | Mumford & Sons   | [🔗](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) |
+|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae8ba82eaf7e63af515c9f" alt="" width="50" /> | The Civil Wars   | [🔗](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb173d4b457016fe0727a7e50d" alt="" width="50" /> | The Band Perry   | [🔗](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb43d9d87bba466538f5c40901" alt="" width="50" /> | The Chicks       | [🔗](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae8ba82eaf7e63af515c9f" alt="" width="50" /> | The Civil Wars   | [🔗](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc78a80d480018ec030aade25" alt="" width="50" /> | Marc Broussard   | [🔗](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) |
 
 </details>
@@ -30,11 +30,11 @@
 
 ## Top Albums
 
-![Bar chart of top 19 albums in Country/Folk](../images/playlists/country_folk/albums.png)
+![Bar chart of top 21 albums in Country/Folk](../images/playlists/country_folk/albums.png)
 
 
 <details>
-<summary>See all 19 albums</summary>
+<summary>See all 21 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                 | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------|:-----------------------------------------------------------|
@@ -45,6 +45,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27303668e3f13559554eca8ccc6" alt="" width="50" /> | Play On                               | [🔗](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27389847614971c417b722c4d97" alt="" width="50" /> | Home                                  | [🔗](https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27324e1589fb3eab8ae8831f388" alt="" width="50" /> | Blown Away                            | [🔗](https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2737ebde0a5bb07f53a99c15224" alt="" width="50" /> | Barton Hollow                         | [🔗](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2735e43df674e251ab16cae8031" alt="" width="50" /> | Barton Hollow                         | [🔗](https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27389ccaf21947f7929189654dc" alt="" width="50" /> | Taking The Long Way                   | [🔗](https://open.spotify.com/album/2NeJdEWras0uSuzLPlJZk5) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273724bd326692d222c5906b0b0" alt="" width="50" /> | Some Hearts                           | [🔗](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) |
@@ -52,6 +53,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27379c820d2d853c756c3738d39" alt="" width="50" /> | Pioneer                               | [🔗](https://open.spotify.com/album/4oXEoK7WVM1lNbmB59IrJ1) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730cf212ffc3719550dfab899d" alt="" width="50" /> | I Walk the Line (Stereo Version)      | [🔗](https://open.spotify.com/album/1kd7QnBNMg5kygoclVuDqZ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737cdb143bd2e9906d39c5eb04" alt="" width="50" /> | Carencro                              | [🔗](https://open.spotify.com/album/15dP7BadtY55t9VvFlVrBA) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e5d3f32e37004060183a5fc5" alt="" width="50" /> | Babel (Deluxe Version)                | [🔗](https://open.spotify.com/album/4Blt0T4LKGdWreILkYZre3) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273257b369b3e255c4ddbea4997" alt="" width="50" /> | Babel                                 | [🔗](https://open.spotify.com/album/4QVDwpWrDPF2vUjlTHfRjr) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734a04593b7c149dc7b725683e" alt="" width="50" /> | At Folsom Prison                      | [🔗](https://open.spotify.com/album/4TJIdlY9hGSSTO1kUs1neh) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736f4f62da3d811b6501a69ffa" alt="" width="50" /> | American IV: The Man Comes Around     | [🔗](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) |
@@ -74,12 +76,12 @@
 |                  6 | Columbia                          |
 |                  5 | Sugar Hill Records                |
 |                  5 | Sire                              |
-|                  4 | Glassnote Entertainment Group LLC |
+|                  5 | Glassnote Entertainment Group LLC |
+|                  4 | sensibility recordings            |
 |                  4 | Arista Nashville                  |
 |                  4 | 19 Recordings Limited             |
 |                  3 | Open Wide                         |
 |                  3 | Big Machine Label Group           |
-|                  2 | Sensibility Recordings            |
 |                  2 | Monument                          |
 |                  2 | Columbia Nashville Legacy         |
 |                  1 | Nonesuch                          |

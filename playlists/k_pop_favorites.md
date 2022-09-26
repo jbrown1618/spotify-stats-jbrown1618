@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b273714e56679ab196354e2e443eab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738c4a282e84a53c1c8acf129a" alt="K-Pop Favorites" width="100" />
 
-[181 songs](k_pop_favorites_tracks.md)
+[186 songs](k_pop_favorites_tracks.md)
 
 ## Top Artists
 
@@ -11,7 +11,7 @@
 
 
 <details>
-<summary>See all 73 artists</summary>
+<summary>See all 77 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                               | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------|:------------------------------------------------------------|
@@ -19,9 +19,9 @@
 |                 13 | <img src="https://i.scdn.co/image/ab6761610000e5eb8a8415e72dedaa552259d0c1" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)               | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 |                 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | [IU](../artists/iu.md)                               | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5ebd84fd6ae9ccfc6206ea6711e" alt="" width="50" /> | [TWICE](../artists/twice.md)                         | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
+|                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb916392fe8c66d0c993657b6d" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md)                     | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5ebaa28abbc6d04ccd22c8ae3b5" alt="" width="50" /> | [ITZY](../artists/itzy.md)                           | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../artists/aespa.md)                         | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
-|                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb916392fe8c66d0c993657b6d" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md)                     | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)                     | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5ebc54e9b09db7f35f5bbb0efd4" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)                   | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | [CHUNG HA](../artists/chung_ha.md)                   | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
@@ -53,9 +53,11 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfbb4dd024df495265bb16c90" alt="" width="50" /> | GOT the beat                                         | [🔗](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebac19ac3b8773baa5791999fb" alt="" width="50" /> | TVXQ!                                                | [🔗](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf0a01c9ca9312dbe5ed6b6d9" alt="" width="50" /> | KAI                                                  | [🔗](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8786ccb6031a3266bb15606" alt="" width="50" /> | WJSN                                                 | [🔗](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) |
 |                  1 | <img src="https://i.scdn.co/image/621c729dd90a6e7a63fc8f0957b2b928834ec5a8" alt="" width="50" /> | 4Minute                                              | [🔗](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb20dfb8f52ef4926a22e552c8" alt="" width="50" /> | R3HAB                                                | [🔗](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a29246fa242d0b9f8de3b31" alt="" width="50" /> | SUNMI                                                | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb64362c8789b72fb00e0a3611" alt="" width="50" /> | ATEEZ                                                | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebea3e3a63d8bc191f631f6e0e" alt="" width="50" /> | PURPLE KISS                                          | [🔗](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2197a2a24be11b8872a9d325" alt="" width="50" /> | MINGYU                                               | [🔗](https://open.spotify.com/artist/5gUpo0BRmo6EOTbyU3z5Ay) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0b4c8d0a415cab50e033129" alt="" width="50" /> | Solar                                                | [🔗](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) |
@@ -63,6 +65,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb80584436e5726afb70cee7f8" alt="" width="50" /> | LOONA                                                | [🔗](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5c237a2e0c881b21c151f2cb" alt="" width="50" /> | WayV-TEN&YANGYANG                                    | [🔗](https://open.spotify.com/artist/4wOAdZOMOVSwrZQxDYrUx3) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | Suzy                                                 | [🔗](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1b015e0ed3c7026676771ca3" alt="" width="50" /> | LE SSERAFIM                                          | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb597a4257d0022e2ac837fa7d" alt="" width="50" /> | BIGBANG                                              | [🔗](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8aec4284aed8bb502a411043" alt="" width="50" /> | AILEE                                                | [🔗](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebca0f902787c28688c85ad273" alt="" width="50" /> | WONWOO                                               | [🔗](https://open.spotify.com/artist/3rHcBT06Vb1XGVUWhDALZt) |
@@ -88,6 +91,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c56dcba0b4372e4a2953b973" alt="" width="50" /> | Girl's Day                                           | [🔗](https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd0701912e6fccf8427bc7361" alt="" width="50" /> | GFRIEND                                              | [🔗](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA                                                 | [🔗](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4cf17974946871ad6546f28e" alt="" width="50" /> | HYOYEON                                              | [🔗](https://open.spotify.com/artist/0B3I6YgdnfXehUCpsO6oB8) |
 
 </details>
 
@@ -129,6 +133,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273619b758232a962e9ddf45f97" alt="" width="50" /> | [12:00]                                          | [🔗](https://open.spotify.com/album/3obToaukLcPbCLPPmWFzQi) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738ea860a3e6904b875629d672" alt="" width="50" /> | YOUNG-LUV.COM                                    | [🔗](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273018ac0665d32b08c76afd4cc" alt="" width="50" /> | Why So Lonely                                    | [🔗](https://open.spotify.com/album/3vCjRsRRGOLp8VCYPLXtDx) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e4915763c3c7f7a05cc93885" alt="" width="50" /> | Why - The 2nd Mini Album                         | [🔗](https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738612b3a74fefaf72ddc92d08" alt="" width="50" /> | White Wind                                       | [🔗](https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e2a4f8bcc74020cd4b01f647" alt="" width="50" /> | What Is Love                                     | [🔗](https://open.spotify.com/album/5o5cJ6yZmcyy4y4hK0J6de) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27309610687bcd1b3dc95d5d436" alt="" width="50" /> | We Boom - The 3rd Mini Album                     | [🔗](https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc) |
@@ -137,6 +142,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273aecb87fd2574ad79b05cc024" alt="" width="50" /> | Voltage                                          | [🔗](https://open.spotify.com/album/3MXVqfk9VG3B757nLlow0D) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27343848859c0cf73d8c660eba5" alt="" width="50" /> | VINCENZO (Original Television Soundtrack) Pt. 3  | [🔗](https://open.spotify.com/album/47ulDGfVUWUcUSWRQCzxr3) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6" alt="" width="50" /> | Uh-Oh                                            | [🔗](https://open.spotify.com/album/3PzrNuMGWGpp8WOfrmpkaU) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27342678cd46d7322e395400930" alt="" width="50" /> | UNNATURAL                                        | [🔗](https://open.spotify.com/album/0uD1Chx5ZsnZM4kS8yK0S8) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27381fb7e4e392f0a99b3947eb6" alt="" width="50" /> | The Velvet - The 2nd Mini Album                  | [🔗](https://open.spotify.com/album/2qgl7dAgslqL1w2l2wQhMA) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738164cd1a2e03b7ca2db9ff5e" alt="" width="50" /> | The Red Summer - Summer Mini Album               | [🔗](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="" width="50" /> | The Red - The 1st Album                          | [🔗](https://open.spotify.com/album/6YL9J0E6PGtYzkhyMxnmXd) |
@@ -144,6 +150,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273557395cc096cb7b22eff310e" alt="" width="50" /> | The Feels                                        | [🔗](https://open.spotify.com/album/6bk3KlQjiXsRmGrzrNcS53) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dbe330e884acacdbb1e7987f" alt="" width="50" /> | The Boys                                         | [🔗](https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273374ed0d3862263ef52df6828" alt="" width="50" /> | Take Over The Moon - The 2nd Mini Album          | [🔗](https://open.spotify.com/album/4ha80ucjDvhmQPLT77yyob) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273be3a0f924ad08d95b4e25d9f" alt="" width="50" /> | TREASURE EPILOGUE : Action To Answer             | [🔗](https://open.spotify.com/album/3TTkDOcSzRQCvGMT7VmmPE) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731cc469da4da1bccfa16867be" alt="" width="50" /> | TRAVEL                                           | [🔗](https://open.spotify.com/album/3xje7wSW2xwQx2GNJ5cfNu) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b787b5b8c27a5dbd360c0f59" alt="" width="50" /> | THE WAR - The 4th Album                          | [🔗](https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27328be5dc3cc0bd6f2482c1d56" alt="" width="50" /> | THE SECOND STEP : CHAPTER ONE                    | [🔗](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) |
@@ -167,6 +174,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734a8b951ff5979dc187340b1d" alt="" width="50" /> | RED MOON                                         | [🔗](https://open.spotify.com/album/6GhELYbXRo1LOqRPOCsQrF) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="" width="50" /> | RBB - The 5th Mini Album                         | [🔗](https://open.spotify.com/album/7rNIvLwIpB2mwOzk20iqIl) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f" alt="" width="50" /> | R                                                | [🔗](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b87c0d76ed9c7b1654b390d0" alt="" width="50" /> | Purpose - The 2nd Album                          | [🔗](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273682ac678746ad21b6b799950" alt="" width="50" /> | Pity Party                                       | [🔗](https://open.spotify.com/album/2yMHiLYBnrMsdUCUL3bFkU) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737752724657197df65e7c82f9" alt="" width="50" /> | Piano Man                                        | [🔗](https://open.spotify.com/album/1kdURRaOTpDCQqsVIU5CiT) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dad8806d4958b875dd487f6e" alt="" width="50" /> | Paint Me Naked - SM STATION                      | [🔗](https://open.spotify.com/album/4oj5R0SVazc5Eq3WnIC0e6) |
@@ -198,10 +206,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735dcded478bd1a908dbabf05e" alt="" width="50" /> | KILL THIS LOVE                                   | [🔗](https://open.spotify.com/album/7viSsSKXrDa95CtUcuc1Iv) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27337ff46852249bdfc938beefa" alt="" width="50" /> | KAI - The 1st Mini Album                         | [🔗](https://open.spotify.com/album/6xpxMAUhk8hiDTa5zT7F86) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c4763f81c6b01bb32ea3c1d8" alt="" width="50" /> | Je T'aime                                        | [🔗](https://open.spotify.com/album/1RzqZoXe1bf1f48PK20EeH) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27386e407289831b784b58d4c5f" alt="" width="50" /> | It'z Me                                          | [🔗](https://open.spotify.com/album/2gertXS08whDTzBWfmewPO) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733beb8877c3a0cde5be9a139c" alt="" width="50" /> | Ice Cream Cake - The 1st Mini Album              | [🔗](https://open.spotify.com/album/27cBQ5FDqv0xLgiJ7qNpZr) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735a34da2654db7f75cee1d080" alt="" width="50" /> | IT'z ICY                                         | [🔗](https://open.spotify.com/album/2y2Nuvvw5xNDYOunTSsgf1) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730e31e2a3b1516e79fbfe7486" alt="" width="50" /> | IT'z Different                                   | [🔗](https://open.spotify.com/album/0fUJLlrsG1MpTHr3MxPN9C) |
 
 </details>
 
@@ -212,14 +216,14 @@
 
 
 <details>
-<summary>See all 46 labels</summary>
+<summary>See all 47 labels</summary>
 
 |   Number of Tracks | Label                                  |
 |-------------------:|:---------------------------------------|
-|                 55 | SM Entertainment                       |
+|                 57 | SM Entertainment                       |
 |                 20 | YG Entertainment                       |
 |                 12 | Republic Records                       |
-|                  9 | Interscope                             |
+|                  9 | Interscope Records                     |
 |                  8 | Universal Music LLC                    |
 |                  8 | JYP Entertainment                      |
 |                  7 | RBW Inc.                               |
@@ -232,6 +236,7 @@
 |                  4 | CUBE ENTERTAINMENT                     |
 |                  4 | BIGHIT MUSIC                           |
 |                  3 | Warner Records                         |
+|                  3 | Starship Entertainment                 |
 |                  3 | MNH ENTERTAINMENT                      |
 |                  3 | High Up Entertainment                  |
 |                  3 | HYBE                                   |
@@ -239,7 +244,7 @@
 |                  2 | WM Japan                               |
 |                  2 | WM Entertainment                       |
 |                  2 | THE BLACK LABEL                        |
-|                  2 | Starship Entertainment                 |
+|                  2 | SOURCE MUSIC                           |
 |                  2 | LABEL V                                |
 |                  2 | Fave Entertainment                     |
 |                  1 | 드림티 엔터테인먼트                             |
@@ -251,10 +256,10 @@
 |                  1 | Transparent Arts                       |
 |                  1 | TEAM WANG records                      |
 |                  1 | Sony Music Labels Inc.                 |
-|                  1 | SOURCE MUSIC                           |
 |                  1 | Million Market                         |
 |                  1 | Makeus Entertainment                   |
 |                  1 | MYSTIC ENTERTAINMENT                   |
+|                  1 | KQ Entertainment                       |
 |                  1 | Imperial Distribution                  |
 |                  1 | FNC ENTERTAINMENT                      |
 |                  1 | DREAMCATCHER COMPANY                   |

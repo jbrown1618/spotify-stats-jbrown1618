@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27345680a4a57c97894490a01c1ab67616d0000b27389992f4d7d4ab94937bf9e23ab67616d0000b273e13de7b8662b085b0885ffefab67616d0000b273ff5429125128b43572dbdccd" alt="R&B" width="100" />
 
-[83 songs](r_b_tracks.md)
+[84 songs](r_b_tracks.md)
 
 ## Top Artists
 
@@ -11,7 +11,7 @@
 
 
 <details>
-<summary>See all 54 artists</summary>
+<summary>See all 55 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                 | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:------------------------------------------------------------|
@@ -55,6 +55,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb02eeb5305fa7bdd9ddca42fc" alt="" width="50" /> | Miguel                                 | [🔗](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f3c0dffb5229c8734ff60b2" alt="" width="50" /> | Big Boi                                | [🔗](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfbc3faec4a370d8393bee7f1" alt="" width="50" /> | Frank Ocean                            | [🔗](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb412e50f52f1fe4d2ae04cd11" alt="" width="50" /> | Jordin Sparks                          | [🔗](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) |
 |                  1 | <img src="https://i.scdn.co/image/914ae1ce7fb065cfb0c89794e5e41c6eca758df3" alt="" width="50" /> | Corinne Bailey Rae                     | [🔗](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f5af779b97c9e52d74d3743" alt="" width="50" /> | Cassie                                 | [🔗](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebca118e3822061f7b7f6bc537" alt="" width="50" /> | Ne-Yo                                  | [🔗](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) |
@@ -79,7 +80,7 @@
 
 
 <details>
-<summary>See all 64 albums</summary>
+<summary>See all 65 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                                                                   | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -122,6 +123,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27394c9217a398f5174757c0c78" alt="" width="50" /> | Love In The Future (Expanded Edition)                                                                   | [🔗](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="" width="50" /> | Loud                                                                                                    | [🔗](https://open.spotify.com/album/6UHhmTLl9T1scRYLmpHcDX) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736f9e6abbd6fa43ac3cdbeee0" alt="" width="50" /> | Leave The Door Open                                                                                     | [🔗](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273260e2444b3431b3b8b559bc3" alt="" width="50" /> | Jordin Sparks                                                                                           | [🔗](https://open.spotify.com/album/6JCNOvp9UeMrFuXwNW0JW6) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273987a1825341694ec9bc62457" alt="" width="50" /> | In My Own Words                                                                                         | [🔗](https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736e62a873c96524a3788a2edf" alt="" width="50" /> | I Don't Mind (feat. Juicy J)                                                                            | [🔗](https://open.spotify.com/album/5BAqg5IJQ7XFKfdoCiOlJw) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273af06f5c40adb2bc287c46cc2" alt="" width="50" /> | How Can I                                                                                               | [🔗](https://open.spotify.com/album/3qEib9B2LiOpc81jRYC4Fi) |
@@ -157,7 +159,7 @@
 
 
 <details>
-<summary>See all 38 labels</summary>
+<summary>See all 39 labels</summary>
 
 |   Number of Tracks | Label                   |
 |-------------------:|:------------------------|
@@ -170,7 +172,7 @@
 |                  5 | UNI                     |
 |                  5 | Music World Music       |
 |                  5 | Beluga Heights          |
-|                  5 | Bad Boy Records         |
+|                  5 | Bad Boy                 |
 |                  3 | LaFace Records          |
 |                  2 | Wondaland Records       |
 |                  2 | Golden Child Recordings |
@@ -196,9 +198,10 @@
 |                  1 | Downtown Recordings     |
 |                  1 | Def Soul                |
 |                  1 | Castle Communications   |
+|                  1 | Atl                     |
 |                  1 | Arista                  |
 |                  1 | Aftermath Entertainment |
-|                  1 | ATL                     |
+|                  1 | 19 Recordings Limited   |
 
 </details>
 
