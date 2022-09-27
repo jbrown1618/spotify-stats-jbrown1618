@@ -164,7 +164,6 @@
 |                  2 | Elektra                           |
 |                  2 | Def Jam Recordings                |
 |                  2 | 19 Recordings Limited             |
-|                  1 | sensibility recordings            |
 |                  1 | Work                              |
 |                  1 | Warner Records                    |
 |                  1 | Vorsicht Musik                    |
@@ -173,6 +172,7 @@
 |                  1 | The Tarpeggios                    |
 |                  1 | Superpop.Co                       |
 |                  1 | Sugar Hill Records                |
+|                  1 | Sensibility Recordings            |
 |                  1 | Rhino                             |
 |                  1 | Radiculture                       |
 |                  1 | Polydor Records                   |

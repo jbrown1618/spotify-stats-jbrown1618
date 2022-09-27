@@ -172,9 +172,9 @@
 |                  5 | UNI                     |
 |                  5 | Music World Music       |
 |                  5 | Beluga Heights          |
-|                  5 | Bad Boy                 |
+|                  5 | Bad Boy Records         |
 |                  3 | LaFace Records          |
-|                  2 | Wondaland Records       |
+|                  2 | Wondaland               |
 |                  2 | Golden Child Recordings |
 |                  2 | G.O.O.D. Music          |
 |                  1 | Virgin Records          |

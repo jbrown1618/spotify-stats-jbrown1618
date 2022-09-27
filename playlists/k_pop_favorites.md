@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b273714e56679ab196354e2e443eab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738c4a282e84a53c1c8acf129a" alt="K-Pop Favorites" width="100" />
 
-[186 songs](k_pop_favorites_tracks.md)
+[185 songs](k_pop_favorites_tracks.md)
 
 ## Top Artists
 
@@ -26,11 +26,11 @@
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5ebc54e9b09db7f35f5bbb0efd4" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)                   | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | [CHUNG HA](../artists/chung_ha.md)                   | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../artists/mamamoo.md)                     | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
-|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="" width="50" /> | [SEVENTEEN](../artists/seventeen.md)                 | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../artists/leehi.md)                         | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)                             | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebb6501e0b3fcde145838f4724" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md)               | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | [Girls' Generation](../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
+|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="" width="50" /> | [SEVENTEEN](../artists/seventeen.md)                 | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb9f0a954baa44dc8108aab230" alt="" width="50" /> | JEON SOYEON                                          | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="" width="50" /> | [EXO](../artists/exo.md)                             | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c8ac3b2d8d886fbf3f0877a" alt="" width="50" /> | NCT DREAM                                            | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
@@ -164,7 +164,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733f6e15b13168587cfc120e52" alt="" width="50" /> | SQUARE UP                                        | [🔗](https://open.spotify.com/album/1HwIUaaEuRsxsIyssqtGLH) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27318a4a215052e9f396864bd73" alt="" width="50" /> | SQUARE TWO                                       | [🔗](https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27362e6288a5887b95176cca29e" alt="" width="50" /> | SOLO                                             | [🔗](https://open.spotify.com/album/7qAJpYeABXN9ZV5wOOX59k) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273005799610338a5b57d865926" alt="" width="50" /> | SEVENTEEN 4th Mini Album ‘Al1’                   | [🔗](https://open.spotify.com/album/2BNimvLLlD89e4Sb7ZVX6I) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273deeee778a591e7032c1bdc80" alt="" width="50" /> | SEVENTEEN 1ST ALBUM [FIRST ‘LOVE&LETTER’]        | [🔗](https://open.spotify.com/album/50BrkBakrLWufmTLjCVBwn) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="" width="50" /> | SEOULITE                                         | [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="" width="50" /> | Russian Roulette - The 3rd Mini Album            | [🔗](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) |
@@ -206,6 +205,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735dcded478bd1a908dbabf05e" alt="" width="50" /> | KILL THIS LOVE                                   | [🔗](https://open.spotify.com/album/7viSsSKXrDa95CtUcuc1Iv) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27337ff46852249bdfc938beefa" alt="" width="50" /> | KAI - The 1st Mini Album                         | [🔗](https://open.spotify.com/album/6xpxMAUhk8hiDTa5zT7F86) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c4763f81c6b01bb32ea3c1d8" alt="" width="50" /> | Je T'aime                                        | [🔗](https://open.spotify.com/album/1RzqZoXe1bf1f48PK20EeH) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27386e407289831b784b58d4c5f" alt="" width="50" /> | It'z Me                                          | [🔗](https://open.spotify.com/album/2gertXS08whDTzBWfmewPO) |
 
 </details>
 
@@ -230,8 +230,8 @@
 |                  7 | Genie Music Corporation                |
 |                  6 | Stone Music Entertainment              |
 |                  6 | BELIFT LAB                             |
-|                  5 | PLEDIS Entertainment                   |
 |                  5 | Kakao Entertainment                    |
+|                  4 | PLEDIS Entertainment                   |
 |                  4 | EDAM Entertainment                     |
 |                  4 | CUBE ENTERTAINMENT                     |
 |                  4 | BIGHIT MUSIC                           |
