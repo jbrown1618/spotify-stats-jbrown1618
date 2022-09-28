@@ -253,7 +253,7 @@
 |                 25 | RBW Inc.                                          |
 |                 25 | CUBE ENTERTAINMENT                                |
 |                 24 | Universal Music LLC                               |
-|                 23 | Interscope Records                                |
+|                 23 | Interscope                                        |
 |                 18 | PLEDIS Entertainment                              |
 |                 17 | HYBE                                              |
 |                 15 | Kakao Entertainment                               |
@@ -299,7 +299,7 @@
 |                  2 | TEAM WANG records                                 |
 |                  2 | Sony Music Labels Inc.                            |
 |                  2 | ShowPLAY ENTERTAINMENT                            |
-|                  2 | SWING ENTERTAINMENT                               |
+|                  2 | SWING Entertainment                               |
 |                  2 | Million Market                                    |
 |                  2 | Genie Music Corporation;Stone Music Entertainment |
 |                  2 | FNC인베스트먼트                                         |

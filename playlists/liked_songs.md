@@ -246,7 +246,7 @@
 |                 59 | Columbia                               |
 |                 51 | YG Entertainment                       |
 |                 46 | Warner Records                         |
-|                 46 | Interscope Records                     |
+|                 46 | Interscope                             |
 |                 43 | RCA Records Label                      |
 |                 35 | Universal Music LLC                    |
 |                 28 | Stone Music Entertainment              |
@@ -291,7 +291,7 @@
 |                  6 | Legacy                                 |
 |                  6 | FNC ENTERTAINMENT                      |
 |                  6 | EDAM Entertainment                     |
-|                  6 | Bad Boy Records                        |
+|                  6 | Bad Boy                                |
 |                  6 | 88rising Music                         |
 |                  5 | distributed through Interscope Records |
 |                  5 | Riot Games                             |
@@ -312,9 +312,9 @@
 |                  4 | Elektra                                |
 |                  4 | Daft Life Ltd.                         |
 |                  4 | BlockBerryCreative                     |
-|                  4 | Atl                                    |
 |                  4 | Arista                                 |
 |                  4 | Abyss Company                          |
+|                  4 | ATL                                    |
 |                  4 | ADA France                             |
 |                  3 | avex trax                              |
 |                  3 | Universal (MT)                         |

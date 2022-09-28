@@ -20,7 +20,7 @@
 
 |   Number of Tracks | Label              |
 |-------------------:|:-------------------|
-|                 11 | Interscope Records |
+|                 11 | Interscope         |
 |                  2 | A Star is Born OST |
 
 ## Tracks

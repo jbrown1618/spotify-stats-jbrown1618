@@ -184,7 +184,7 @@
 |                  1 | Jive                              |
 |                  1 | J Records                         |
 |                  1 | Island Records                    |
-|                  1 | Interscope Records                |
+|                  1 | Interscope                        |
 |                  1 | Hollywood Records                 |
 |                  1 | Glassnote Entertainment Group LLC |
 |                  1 | Geffen                            |
@@ -195,9 +195,9 @@
 |                  1 | Def Soul                          |
 |                  1 | Big Machine Label Group           |
 |                  1 | Atlantic Records                  |
-|                  1 | Atl                               |
 |                  1 | Arista Nashville                  |
 |                  1 | Arista                            |
+|                  1 | ATL                               |
 |                  1 | ATG                               |
 |                  1 | A&M                               |
 

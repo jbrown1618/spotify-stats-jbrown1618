@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b273714e56679ab196354e2e443eab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738c4a282e84a53c1c8acf129a" alt="K-Pop Favorites" width="100" />
 
-[185 songs](k_pop_favorites_tracks.md)
+[186 songs](k_pop_favorites_tracks.md)
 
 ## Top Artists
 
@@ -11,7 +11,7 @@
 
 
 <details>
-<summary>See all 77 artists</summary>
+<summary>See all 78 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                               | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------|:------------------------------------------------------------|
@@ -57,6 +57,7 @@
 |                  1 | <img src="https://i.scdn.co/image/621c729dd90a6e7a63fc8f0957b2b928834ec5a8" alt="" width="50" /> | 4Minute                                              | [🔗](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb20dfb8f52ef4926a22e552c8" alt="" width="50" /> | R3HAB                                                | [🔗](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a29246fa242d0b9f8de3b31" alt="" width="50" /> | SUNMI                                                | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb99b5a1b1b95a279176ded0e1" alt="" width="50" /> | NewJeans                                             | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb64362c8789b72fb00e0a3611" alt="" width="50" /> | ATEEZ                                                | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebea3e3a63d8bc191f631f6e0e" alt="" width="50" /> | PURPLE KISS                                          | [🔗](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2197a2a24be11b8872a9d325" alt="" width="50" /> | MINGYU                                               | [🔗](https://open.spotify.com/artist/5gUpo0BRmo6EOTbyU3z5Ay) |
@@ -180,6 +181,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736bd4012e2889d22821ab35b0" alt="" width="50" /> | ONLY                                             | [🔗](https://open.spotify.com/album/0uYGAR5pW8P76uOlrOYIMZ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fda74ae03a653f5d84010a79" alt="" width="50" /> | Not Shy                                          | [🔗](https://open.spotify.com/album/0aqu2V5ohKHVfWqVFE7Ila) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737a393b04e8ced571618223e8" alt="" width="50" /> | Next Level                                       | [🔗](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" alt="" width="50" /> | NewJeans 1st EP 'New Jeans'                      | [🔗](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736c1bd86a3d68faf09607ffd3" alt="" width="50" /> | Naughty                                          | [🔗](https://open.spotify.com/album/2lkUE2gkw5sX0fGzZZCs0N) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734957fced6061ee536ca618ab" alt="" width="50" /> | NONSTOP                                          | [🔗](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734525dae431a233a077d2395c" alt="" width="50" /> | NCT RESONANCE Pt. 1 - The 2nd Album              | [🔗](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) |
@@ -205,7 +207,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735dcded478bd1a908dbabf05e" alt="" width="50" /> | KILL THIS LOVE                                   | [🔗](https://open.spotify.com/album/7viSsSKXrDa95CtUcuc1Iv) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27337ff46852249bdfc938beefa" alt="" width="50" /> | KAI - The 1st Mini Album                         | [🔗](https://open.spotify.com/album/6xpxMAUhk8hiDTa5zT7F86) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c4763f81c6b01bb32ea3c1d8" alt="" width="50" /> | Je T'aime                                        | [🔗](https://open.spotify.com/album/1RzqZoXe1bf1f48PK20EeH) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27386e407289831b784b58d4c5f" alt="" width="50" /> | It'z Me                                          | [🔗](https://open.spotify.com/album/2gertXS08whDTzBWfmewPO) |
 
 </details>
 
@@ -216,14 +217,14 @@
 
 
 <details>
-<summary>See all 47 labels</summary>
+<summary>See all 48 labels</summary>
 
 |   Number of Tracks | Label                                  |
 |-------------------:|:---------------------------------------|
 |                 57 | SM Entertainment                       |
 |                 20 | YG Entertainment                       |
 |                 12 | Republic Records                       |
-|                  9 | Interscope Records                     |
+|                  9 | Interscope                             |
 |                  8 | Universal Music LLC                    |
 |                  8 | JYP Entertainment                      |
 |                  7 | RBW Inc.                               |
@@ -266,6 +267,7 @@
 |                  1 | ChoongangICS                           |
 |                  1 | Capitol Records (CAP)                  |
 |                  1 | BlockBerryCreative                     |
+|                  1 | ADOR                                   |
 |                  1 | 88rising Music                         |
 
 </details>

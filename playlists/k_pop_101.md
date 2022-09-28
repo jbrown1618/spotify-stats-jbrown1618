@@ -76,7 +76,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d650d0d98caf3f54b842a0b" alt="" width="50" /> | reality in BLACK                          | [🔗](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731e998666727247d231c75cf8" alt="" width="50" /> | [Dystopia : Road to Utopia]               | [🔗](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735137378ed49327e5dec7406f" alt="" width="50" /> | The Chaos Chapter: FIGHT OR ESCAPE        | [🔗](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dbe330e884acacdbb1e7987f" alt="" width="50" /> | The Boys                                  | [🔗](https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273be3a0f924ad08d95b4e25d9f" alt="" width="50" /> | TREASURE EPILOGUE : Action To Answer      | [🔗](https://open.spotify.com/album/3TTkDOcSzRQCvGMT7VmmPE) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | THE ALBUM                                 | [🔗](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | Sticker - The 3rd Album                   | [🔗](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) |
@@ -84,6 +83,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273af2fda9fb591d43c355c2ac3" alt="" width="50" /> | STAYDOM                                   | [🔗](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273deeee778a591e7032c1bdc80" alt="" width="50" /> | SEVENTEEN 1ST ALBUM [FIRST ‘LOVE&LETTER’] | [🔗](https://open.spotify.com/album/50BrkBakrLWufmTLjCVBwn) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e099e697d0068b652fe6814e" alt="" width="50" /> | Positive                                  | [🔗](https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739b57e9b31c831fb2137c38e2" alt="" width="50" /> | Oh! - The Second Album                    | [🔗](https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27338b29effd5af942ca8d7a8b0" alt="" width="50" /> | Odd - The 4th Album                       | [🔗](https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737a393b04e8ced571618223e8" alt="" width="50" /> | Next Level                                | [🔗](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734957fced6061ee536ca618ab" alt="" width="50" /> | NONSTOP                                   | [🔗](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) |
@@ -104,7 +104,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555" alt="" width="50" /> | FEARLESS                                  | [🔗](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739e87fd81ab0dfad228f8a004" alt="" width="50" /> | FANCY YOU                                 | [🔗](https://open.spotify.com/album/2qoWlACJtoG0L5owi7Tj0I) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | ELEVEN                                    | [🔗](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a9aa6dda87a29bba84522347" alt="" width="50" /> | Blow                                      | [🔗](https://open.spotify.com/album/2y6aTfBouCa2nRJadWq0WX) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f706163da20b4afdbd50b669" alt="" width="50" /> | Blow                                      | [🔗](https://open.spotify.com/album/2y6aTfBouCa2nRJadWq0WX) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | BORDER : CARNIVAL                         | [🔗](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1d785640d9421ec17ea8fe6" alt="" width="50" /> | BBIBBI                                    | [🔗](https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27385b44ac6d4a8383ed7e88285" alt="" width="50" /> | AH YEAH                                   | [🔗](https://open.spotify.com/album/54r8xseUAz0c9ORidjAKmZ) |
@@ -119,41 +119,40 @@
 
 
 <details>
-<summary>See all 31 labels</summary>
+<summary>See all 30 labels</summary>
 
-|   Number of Tracks | Label                               |
-|-------------------:|:------------------------------------|
-|                 10 | SM Entertainment                    |
-|                  3 | Stone Music Entertainment           |
-|                  3 | Genie Music Corporation             |
-|                  2 | YG Entertainment                    |
-|                  2 | SOURCE MUSIC                        |
-|                  2 | Republic Records                    |
-|                  2 | JYP Entertainment                   |
-|                  1 | 드림캐쳐컴퍼니                             |
-|                  1 | Yedang Entertainment                |
-|                  1 | Warner Records                      |
-|                  1 | WM Entertainment                    |
-|                  1 | Universal Music LLC                 |
-|                  1 | Universal Music Group International |
-|                  1 | THE BLACK LABEL                     |
-|                  1 | TEAM WANG records                   |
-|                  1 | Starship Entertainment              |
-|                  1 | RBW Inc.                            |
-|                  1 | PLEDIS Entertainment                |
-|                  1 | Makeus Entertainment                |
-|                  1 | Kakao Entertainment                 |
-|                  1 | KQ Entertainment                    |
-|                  1 | Interscope Records                  |
-|                  1 | Imperial Distribution               |
-|                  1 | High Up Entertainment               |
-|                  1 | HYBE                                |
-|                  1 | FNC ENTERTAINMENT                   |
-|                  1 | Capitol Records (CAP)               |
-|                  1 | CUBE ENTERTAINMENT                  |
-|                  1 | BIGHIT MUSIC                        |
-|                  1 | BELIFT LAB                          |
-|                  1 | 88rising Music                      |
+|   Number of Tracks | Label                     |
+|-------------------:|:--------------------------|
+|                 11 | SM Entertainment          |
+|                  3 | Stone Music Entertainment |
+|                  3 | Genie Music Corporation   |
+|                  2 | YG Entertainment          |
+|                  2 | SOURCE MUSIC              |
+|                  2 | Republic Records          |
+|                  2 | JYP Entertainment         |
+|                  1 | 드림캐쳐컴퍼니                   |
+|                  1 | Yedang Entertainment      |
+|                  1 | Warner Records            |
+|                  1 | WM Entertainment          |
+|                  1 | Universal Music LLC       |
+|                  1 | THE BLACK LABEL           |
+|                  1 | TEAM WANG records         |
+|                  1 | Starship Entertainment    |
+|                  1 | RBW Inc.                  |
+|                  1 | PLEDIS Entertainment      |
+|                  1 | Makeus Entertainment      |
+|                  1 | Kakao Entertainment       |
+|                  1 | KQ Entertainment          |
+|                  1 | Interscope                |
+|                  1 | Imperial Distribution     |
+|                  1 | High Up Entertainment     |
+|                  1 | HYBE                      |
+|                  1 | FNC ENTERTAINMENT         |
+|                  1 | Capitol Records (CAP)     |
+|                  1 | CUBE ENTERTAINMENT        |
+|                  1 | BIGHIT MUSIC              |
+|                  1 | BELIFT LAB                |
+|                  1 | 88rising Music            |
 
 </details>
 

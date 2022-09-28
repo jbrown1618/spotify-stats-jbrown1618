@@ -96,7 +96,7 @@
 |-------------------:|:---------------------------|
 |                  5 | SM Entertainment           |
 |                  4 | YG Entertainment           |
-|                  4 | Interscope Records         |
+|                  4 | Interscope                 |
 |                  4 | BIGHIT MUSIC               |
 |                  3 | Starship Entertainment     |
 |                  3 | Republic Records           |
