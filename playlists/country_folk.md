@@ -77,7 +77,7 @@
 |                  5 | Sugar Hill Records                |
 |                  5 | Sire                              |
 |                  5 | Glassnote Entertainment Group LLC |
-|                  4 | Sensibility Recordings            |
+|                  4 | sensibility recordings            |
 |                  4 | Arista Nashville                  |
 |                  4 | 19 Recordings Limited             |
 |                  3 | Open Wide                         |

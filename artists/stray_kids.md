@@ -2,7 +2,7 @@
 # Stray Kids
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5ebb6501e0b3fcde145838f4724" alt="Stray Kids" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="Stray Kids" width="100" />
 
 ## Top Albums
 

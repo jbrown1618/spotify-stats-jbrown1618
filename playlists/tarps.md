@@ -64,7 +64,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6ec3754d5db2e333b9434c75" alt="" width="50" /> | P!nk                                                           | [🔗](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) |
 |                  1 | <img src="https://i.scdn.co/image/21fd9a008e669eeebcc5ddf1e7aaf049eba8a634" alt="" width="50" /> | The Del-Vikings                                                | [🔗](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7356ae4581e46319f99c813a" alt="" width="50" /> | TLC                                                            | [🔗](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe823737b0427546913cbf94d" alt="" width="50" /> | ABBA                                                           | [🔗](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebebc54431629ce2bf02f50156" alt="" width="50" /> | ABBA                                                           | [🔗](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0767e116a2307495e37cd7fb" alt="" width="50" /> | Eagles                                                         | [🔗](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb288ac05481cedc5bddb5b11b" alt="" width="50" /> | Maroon 5                                                       | [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) |
 
@@ -164,6 +164,7 @@
 |                  2 | Elektra                           |
 |                  2 | Def Jam Recordings                |
 |                  2 | 19 Recordings Limited             |
+|                  1 | sensibility recordings            |
 |                  1 | Work                              |
 |                  1 | Warner Records                    |
 |                  1 | Vorsicht Musik                    |
@@ -172,7 +173,6 @@
 |                  1 | The Tarpeggios                    |
 |                  1 | Superpop.Co                       |
 |                  1 | Sugar Hill Records                |
-|                  1 | Sensibility Recordings            |
 |                  1 | Rhino                             |
 |                  1 | Radiculture                       |
 |                  1 | Polydor Records                   |
