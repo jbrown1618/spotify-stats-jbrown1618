@@ -195,9 +195,9 @@
 |                  1 | Def Soul                          |
 |                  1 | Big Machine Label Group           |
 |                  1 | Atlantic Records                  |
+|                  1 | Atl                               |
 |                  1 | Arista Nashville                  |
 |                  1 | Arista                            |
-|                  1 | ATL                               |
 |                  1 | ATG                               |
 |                  1 | A&M                               |
 
