@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b273714e56679ab196354e2e443eab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738c4a282e84a53c1c8acf129a" alt="K-Pop Favorites" width="100" />
 
-[186 songs](k_pop_favorites_tracks.md)
+[187 songs](k_pop_favorites_tracks.md)
 
 ## Top Artists
 
@@ -46,6 +46,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e2e0f17d257a40be0782f35" alt="" width="50" /> | BAEKHYUN                                             | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="" width="50" /> | EVERGLOW                                             | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb9954a1ab45b2404a7bff2a45" alt="" width="50" /> | OH MY GIRL                                           | [🔗](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | PENTAGON                                             | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb57d6dae61ab174bd8f9c462f" alt="" width="50" /> | JOY                                                  | [🔗](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb6ee9f83106240222e4328db4" alt="" width="50" /> | WENDY                                                | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2be8611f6c6e9174031c64df" alt="" width="50" /> | JEON SOMI                                            | [🔗](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) |
@@ -84,7 +85,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9ade2ab9cb48ce06d36aa6f" alt="" width="50" /> | JAMIE                                                | [🔗](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe6eb7c8acc8f75853b0ed9ac" alt="" width="50" /> | NMIXX                                                | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc2c8185fc0902b43e35f671f" alt="" width="50" /> | JENNIE                                               | [🔗](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | PENTAGON                                             | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2cc2d8e2ec34e29f1905e286" alt="" width="50" /> | WayV                                                 | [🔗](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb65dd718aaa2c9b1be0218f76" alt="" width="50" /> | SURAN                                                | [🔗](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb20e1b84fe2767e52c4c828fd" alt="" width="50" /> | 2NE1                                                 | [🔗](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) |
@@ -232,9 +232,9 @@
 |                  6 | Stone Music Entertainment              |
 |                  6 | BELIFT LAB                             |
 |                  5 | Kakao Entertainment                    |
+|                  5 | CUBE ENTERTAINMENT                     |
 |                  4 | PLEDIS Entertainment                   |
 |                  4 | EDAM Entertainment                     |
-|                  4 | CUBE ENTERTAINMENT                     |
 |                  4 | BIGHIT MUSIC                           |
 |                  3 | Warner Records                         |
 |                  3 | Starship Entertainment                 |

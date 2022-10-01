@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273f7da7c0f322b7a1c95190d92" alt="K-Pop" width="100" />
 
-[804 songs](k_pop_tracks.md)
+[806 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -24,7 +24,7 @@
 |                 24 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md)               | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 |                 23 | <img src="https://i.scdn.co/image/ab6761610000e5ebc54e9b09db7f35f5bbb0efd4" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)                   | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 |                 21 | <img src="https://i.scdn.co/image/ab6761610000e5eb916392fe8c66d0c993657b6d" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md)                     | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
-|                 17 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)                     | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
+|                 18 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)                     | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 |                 17 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../artists/mamamoo.md)                     | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
 |                 15 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="" width="50" /> | [SEVENTEEN](../artists/seventeen.md)                 | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
 |                 15 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../artists/leehi.md)                         | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
@@ -34,11 +34,11 @@
 |                 12 | <img src="https://i.scdn.co/image/ab6761610000e5ebbf973f439e9a11dab997893c" alt="" width="50" /> | [Dreamcatcher](../artists/dreamcatcher.md)           | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 |                 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="" width="50" /> | [EXO](../artists/exo.md)                             | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
 |                 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb45b2ff69ae6a3caccb776cfa" alt="" width="50" /> | [STAYC](../artists/stayc.md)                         | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
+|                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e2e0f17d257a40be0782f35" alt="" width="50" /> | BAEKHYUN                                             | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb968ab271c895fb9cc245d6fe" alt="" width="50" /> | Billlie                                              | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb7401998434b12fffd119ae18" alt="" width="50" /> | NCT 127                                              | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb9f0a954baa44dc8108aab230" alt="" width="50" /> | JEON SOYEON                                          | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a29246fa242d0b9f8de3b31" alt="" width="50" /> | SUNMI                                                | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
-|                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e2e0f17d257a40be0782f35" alt="" width="50" /> | BAEKHYUN                                             | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | Hwa Sa                                               | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebaad1353fe0343220b1331768" alt="" width="50" /> | SUPER JUNIOR                                         | [🔗](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | CLC                                                  | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
@@ -256,8 +256,8 @@
 |                 23 | Interscope                                        |
 |                 18 | PLEDIS Entertainment                              |
 |                 17 | HYBE                                              |
+|                 16 | BELIFT LAB                                        |
 |                 15 | Kakao Entertainment                               |
-|                 15 | BELIFT LAB                                        |
 |                 14 | Starship Entertainment                            |
 |                 12 | WM Korea                                          |
 |                 11 | Warner Records                                    |
@@ -294,6 +294,8 @@
 |                  2 | 해피트라이브엔터테인먼트                                      |
 |                  2 | 우조엔터테인먼트                                          |
 |                  2 | 올라트엔터테인먼트                                         |
+|                  2 | 스튜디오앤뉴                                            |
+|                  2 | 뮤직앤뉴                                              |
 |                  2 | ㈜ 드림캐쳐컴퍼니                                         |
 |                  2 | Yedang Entertainment                              |
 |                  2 | TEAM WANG records                                 |
@@ -311,10 +313,8 @@
 |                  1 | 폴라리스엔터테인먼트                                        |
 |                  1 | 주식회사 오라                                           |
 |                  1 | 에이스토리                                             |
-|                  1 | 스튜디오앤뉴                                            |
 |                  1 | 스타쉽엔터테인먼트(Starship Entertainment)                 |
 |                  1 | 브레이브 엔터테인먼트                                       |
-|                  1 | 뮤직앤뉴                                              |
 |                  1 | 모스트콘텐츠                                            |
 |                  1 | 딩고뮤직                                              |
 |                  1 | 드림티 엔터테인먼트                                        |

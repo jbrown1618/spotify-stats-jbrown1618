@@ -44,7 +44,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9200a6d8565766425c9a1e1" alt="" width="50" /> | Lou Bega                                                       | [🔗](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | Van Morrison                                                   | [🔗](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a93e273380982dff84c0d7c" alt="" width="50" /> | Elvis Presley                                                  | [🔗](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737c467af894eb9648d0f16e82" alt="" width="50" /> | Huxlee                                                         | [🔗](https://open.spotify.com/artist/3yb7HrGPG0WpWgdO4XFwBf) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b465068da06b874e24d35bc1" alt="" width="50" /> | Huxlee                                                         | [🔗](https://open.spotify.com/artist/3yb7HrGPG0WpWgdO4XFwBf) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb02dd5c821135e146eb2bfc85" alt="" width="50" /> | Snow Patrol                                                    | [🔗](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9e0ca4a2881766ad646d449d" alt="" width="50" /> | Eagle-Eye Cherry                                               | [🔗](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | JAY-Z                                                          | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
@@ -164,7 +164,6 @@
 |                  2 | Elektra                           |
 |                  2 | Def Jam Recordings                |
 |                  2 | 19 Recordings Limited             |
-|                  1 | sensibility recordings            |
 |                  1 | Work                              |
 |                  1 | Warner Records                    |
 |                  1 | Vorsicht Musik                    |
@@ -173,6 +172,7 @@
 |                  1 | The Tarpeggios                    |
 |                  1 | Superpop.Co                       |
 |                  1 | Sugar Hill Records                |
+|                  1 | Sensibility Recordings            |
 |                  1 | Rhino                             |
 |                  1 | Radiculture                       |
 |                  1 | Polydor Records                   |
@@ -195,9 +195,9 @@
 |                  1 | Def Soul                          |
 |                  1 | Big Machine Label Group           |
 |                  1 | Atlantic Records                  |
-|                  1 | Atl                               |
 |                  1 | Arista Nashville                  |
 |                  1 | Arista                            |
+|                  1 | ATL                               |
 |                  1 | ATG                               |
 |                  1 | A&M                               |
 

@@ -33,7 +33,7 @@
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8457f57bc526c37bd804b924" alt="" width="50" /> | KT Tunstall                                                    | [🔗](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb3fb5214e667e278a20878a6b" alt="" width="50" /> | alt-J                                                          | [🔗](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb1b9743970d802c36233125b3" alt="" width="50" /> | Steam Powered Giraffe                                          | [🔗](https://open.spotify.com/artist/1yqs45BSh7457Flyhmdv7f) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb9516c288651f7db15bad1beb" alt="" width="50" /> | Paramore                                                       | [🔗](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865" alt="" width="50" /> | Paramore                                                       | [🔗](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb920dc1f617550de8388f368e" alt="" width="50" /> | Imagine Dragons                                                | [🔗](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb66b27eccb69756f8eceabc23" alt="" width="50" /> | Glass Animals                                                  | [🔗](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb196972172c37d934d9ca8093" alt="" width="50" /> | Twenty One Pilots                                              | [🔗](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) |
@@ -65,7 +65,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb379e885a01898367bfcd0c44" alt="" width="50" /> | Caro Emerald                                                   | [🔗](https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd96a6a23facfaa2b364b1bdb" alt="" width="50" /> | League of Legends                                              | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5925909bff0f2cf1bf94f949" alt="" width="50" /> | Christopher                                                    | [🔗](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737c467af894eb9648d0f16e82" alt="" width="50" /> | Huxlee                                                         | [🔗](https://open.spotify.com/artist/3yb7HrGPG0WpWgdO4XFwBf) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b465068da06b874e24d35bc1" alt="" width="50" /> | Huxlee                                                         | [🔗](https://open.spotify.com/artist/3yb7HrGPG0WpWgdO4XFwBf) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf89c5a76f9f10f61e4e07081" alt="" width="50" /> | Kim Petras                                                     | [🔗](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb002eedc44fefe085daae10e4" alt="" width="50" /> | Troye Sivan                                                    | [🔗](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb51b0c19e9c39e2a1c7b5dd4e" alt="" width="50" /> | Will Jordan                                                    | [🔗](https://open.spotify.com/artist/3Is3ehDoBlnTKQtCHdEvpd) |
@@ -230,7 +230,7 @@
 |                  3 | Brute                                |
 |                  3 | Beaute                               |
 |                  3 | Atlantic Records                     |
-|                  3 | Atl                                  |
+|                  3 | ATL                                  |
 |                  2 | Spin-Farm Oy                         |
 |                  2 | Saddle Creek                         |
 |                  2 | Phonogenic                           |

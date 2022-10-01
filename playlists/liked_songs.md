@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1268 songs](liked_songs_tracks.md)
+[1270 songs](liked_songs_tracks.md)
 
 ## Top Artists
 
@@ -25,9 +25,9 @@
 |                 18 | <img src="https://i.scdn.co/image/ab6761610000e5eb1723d33e6837b553b2e512c1" alt="" width="50" /> | [Pentatonix](../artists/pentatonix.md)                         | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
 |                 17 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../artists/ariana_grande.md)                   | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 |                 17 | <img src="https://i.scdn.co/image/ab6761610000e5eb916392fe8c66d0c993657b6d" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md)                               | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
+|                 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)                               | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 |                 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebc54e9b09db7f35f5bbb0efd4" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)                             | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 |                 15 | <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | [Billy Joel](../artists/billy_joel.md)                         | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
-|                 15 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)                               | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 |                 15 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md)                         | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 |                 14 | <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | [Florence + The Machine](../artists/florence___the_machine.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
 |                 13 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../artists/aespa.md)                                   | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
@@ -54,6 +54,7 @@
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | Imogen Heap                                                    | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | [Dua Lipa](../artists/dua_lipa.md)                             | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebc335ac3a535be796643b4eb5" alt="" width="50" /> | BABYMETAL                                                      | [🔗](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) |
+|                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e2e0f17d257a40be0782f35" alt="" width="50" /> | BAEKHYUN                                                       | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | Camila Cabello                                                 | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="" width="50" /> | [EXO](../artists/exo.md)                                       | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | Hwa Sa                                                         | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
@@ -61,8 +62,6 @@
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a29246fa242d0b9f8de3b31" alt="" width="50" /> | SUNMI                                                          | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
 |                  6 | <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | The Who                                                        | [🔗](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) |
 |                  6 | <img src="https://i.scdn.co/image/68cfb061951dbd44c95422a54cb70baec0722ca3" alt="" width="50" /> | Joni Mitchell                                                  | [🔗](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) |
-|                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb80584436e5726afb70cee7f8" alt="" width="50" /> | LOONA                                                          | [🔗](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) |
-|                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e2e0f17d257a40be0782f35" alt="" width="50" /> | BAEKHYUN                                                       | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb96d66c60658005885d1135ce" alt="" width="50" /> | Daft Punk                                                      | [🔗](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bd65b0efee10bfa8328c33b" alt="" width="50" /> | NCT U                                                          | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eba2a0b9e3448c1e702de9dc90" alt="" width="50" /> | Michael Jackson                                                | [🔗](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) |
@@ -78,6 +77,7 @@
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410" alt="" width="50" /> | Clean Bandit                                                   | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb727a2ac15afe659be999beba" alt="" width="50" /> | Doja Cat                                                       | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d4b74165ecfadcacf0771ae" alt="" width="50" /> | MOMOLAND                                                       | [🔗](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) |
+|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb80584436e5726afb70cee7f8" alt="" width="50" /> | LOONA                                                          | [🔗](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb865a3301762a8fce048cb469" alt="" width="50" /> | Coldplay                                                       | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc1dc943555dfa1ee2a107e5" alt="" width="50" /> | K/DA                                                           | [🔗](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebd96a6a23facfaa2b364b1bdb" alt="" width="50" /> | League of Legends                                              | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
@@ -262,10 +262,10 @@
 |                 16 | Universal-Island Records Ltd.          |
 |                 16 | Polydor Records                        |
 |                 14 | Rhino                                  |
+|                 14 | BELIFT LAB                             |
 |                 13 | XL Recordings                          |
 |                 13 | The Tarpeggios                         |
 |                 13 | Kakao Entertainment                    |
-|                 13 | BELIFT LAB                             |
 |                 12 | PLEDIS Entertainment                   |
 |                 12 | Hollywood Records                      |
 |                 11 | Starship Entertainment                 |
@@ -275,12 +275,12 @@
 |                 10 | Darkroom                               |
 |                  9 | MYSTIC STORY                           |
 |                  9 | High Up Entertainment                  |
-|                  8 | WM Korea                               |
 |                  8 | The Unc - Chapel Hill Tarpeggios       |
 |                  8 | Syco Music                             |
 |                  8 | Monkey Puzzle Records                  |
 |                  8 | MNH ENTERTAINMENT                      |
 |                  8 | Def Jam Recordings                     |
+|                  7 | WM Korea                               |
 |                  7 | WM Entertainment                       |
 |                  7 | MOTOWN                                 |
 |                  7 | Cooking Vinyl Limited                  |
@@ -291,7 +291,7 @@
 |                  6 | Legacy                                 |
 |                  6 | FNC ENTERTAINMENT                      |
 |                  6 | EDAM Entertainment                     |
-|                  6 | Bad Boy Records                        |
+|                  6 | Bad Boy                                |
 |                  6 | 88rising Music                         |
 |                  5 | distributed through Interscope Records |
 |                  5 | Riot Games                             |
@@ -312,17 +312,17 @@
 |                  4 | Elektra                                |
 |                  4 | Daft Life Ltd.                         |
 |                  4 | BlockBerryCreative                     |
-|                  4 | Atl                                    |
 |                  4 | Arista                                 |
 |                  4 | Abyss Company                          |
+|                  4 | ATL                                    |
 |                  4 | ADA France                             |
-|                  3 | sensibility recordings                 |
 |                  3 | avex trax                              |
 |                  3 | Universal (MT)                         |
 |                  3 | THE BLACK LABEL                        |
 |                  3 | Steam Powered Giraffe                  |
 |                  3 | Sony Music Entertainment               |
 |                  3 | Sony BMG Music UK                      |
+|                  3 | Sensibility Recordings                 |
 |                  3 | Parlophone Records Limited             |
 |                  3 | Open Wide                              |
 |                  3 | Olivia Rodrigo PS                      |

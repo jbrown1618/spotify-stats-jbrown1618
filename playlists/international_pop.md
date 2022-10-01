@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2732433cb43f0f2f0f23b7c8b82ab67616d0000b2734ccc03169b086af698178a99ab67616d0000b2735e3e23be9bdc38cb4767be97ab67616d0000b2739922157daa474131bb3a0fbc" alt="International Pop" width="100" />
 
-[87 songs](international_pop_tracks.md)
+[88 songs](international_pop_tracks.md)
 
 ## Top Artists
 
@@ -11,7 +11,7 @@
 
 
 <details>
-<summary>See all 98 artists</summary>
+<summary>See all 99 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                             | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------|:------------------------------------------------------------|
@@ -45,13 +45,14 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6659b1cb61936bd7bcb229a2" alt="" width="50" /> | Demi Lovato                        | [🔗](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | [Dua Lipa](../artists/dua_lipa.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb76328e37a2c1280ab9adb90c" alt="" width="50" /> | Vishal Dadlani                     | [🔗](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfbe071f5bc42f38d3485a29a" alt="" width="50" /> | YOASOBI                            | [🔗](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbbde5038f6dd11a9bea4cd8" alt="" width="50" /> | Benny Dayal                        | [🔗](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb45b242f20217176f7e83857b" alt="" width="50" /> | Alejandro Sanz                     | [🔗](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb54639c98942f531227fe99be" alt="" width="50" /> | THE TOYS                           | [🔗](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ef6e7e1409a97f6061d1229" alt="" width="50" /> | Lowsheen                           | [🔗](https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5e22bd1057446fccb9fce27c" alt="" width="50" /> | Stromae                            | [🔗](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb02116c5e760ff53c8676a7c" alt="" width="50" /> | Eric Chou                          | [🔗](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb39c6bdc9ac28d4df7df57925" alt="" width="50" /> | Synne Vo                           | [🔗](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb308ae265cf261595dce0edcd" alt="" width="50" /> | Synne Vo                           | [🔗](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) |
 |                  1 | <img src="nan" alt="" width="50" />                                                              | Blær                               | [🔗](https://open.spotify.com/artist/5W6FVpHHiRfqUU4d9FfXWZ) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0a560ffdd6ad1accabec8b63" alt="" width="50" /> | Master KG                          | [🔗](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273709a3fc128e4d453fab4d14e" alt="" width="50" /> | 張楚寒                                | [🔗](https://open.spotify.com/artist/4zzzvh8xX7laDArf8Gt7iw) |
@@ -123,7 +124,7 @@
 
 
 <details>
-<summary>See all 81 albums</summary>
+<summary>See all 82 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                                                               | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -140,6 +141,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734df4e8ec1f66ebb6b63c14c2" alt="" width="50" /> | 海嘯                                                                                                  | [🔗](https://open.spotify.com/album/06yEqpc6KFxUZ5BxE7V7TN) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d7778a0dded534f3b95145e" alt="" width="50" /> | 次の足跡 Type A <初回限定盤>                                                                                 | [🔗](https://open.spotify.com/album/4Mz79lV4qxaywmthkarIf7) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e74d5d14b01d404e1984ece7" alt="" width="50" /> | 改變自己                                                                                                | [🔗](https://open.spotify.com/album/7yjS4CBFK0f9oQsVrcdNNW) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f609c79794752ed7ee0976b5" alt="" width="50" /> | 怪物                                                                                                  | [🔗](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ba16f5c6c4e2d873996a81a7" alt="" width="50" /> | 怎樣                                                                                                  | [🔗](https://open.spotify.com/album/5wBnaUSaYmG7PH39bRIr1H) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731b6057e116a54d99708f77ae" alt="" width="50" /> | 如果雨之後                                                                                               | [🔗](https://open.spotify.com/album/63lCCebNDe20nxyCvFWk8g) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273110af1ee291450d9e86a05a4" alt="" width="50" /> | 太平盛世                                                                                                | [🔗](https://open.spotify.com/album/1XnDRFsNxG12nZPRXNcPkU) |
@@ -218,7 +220,7 @@
 
 
 <details>
-<summary>See all 62 labels</summary>
+<summary>See all 63 labels</summary>
 
 |   Number of Tracks | Label                                                 |
 |-------------------:|:------------------------------------------------------|
@@ -241,6 +243,7 @@
 |                  1 | avex trax                                             |
 |                  1 | a Saban Music Group Joint Venture                     |
 |                  1 | YRF Music                                             |
+|                  1 | YOASOBI                                               |
 |                  1 | XGALX                                                 |
 |                  1 | What The Duck                                         |
 |                  1 | Wanitwa Mos Entertainment                             |

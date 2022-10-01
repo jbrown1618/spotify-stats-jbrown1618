@@ -187,7 +187,7 @@
 |                  1 | Def Soul                             |
 |                  1 | Def Jam Recordings                   |
 |                  1 | Def Jam                              |
-|                  1 | Bad Boy Records                      |
+|                  1 | Bad Boy                              |
 |                  1 | ATG                                  |
 
 </details>
