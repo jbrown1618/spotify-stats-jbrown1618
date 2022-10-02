@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2730f0ee33a816d8268f431ab50ab67616d0000b27317477a7434c66ac5548b6ab7ab67616d0000b273a8507e1652f7aa0ecf288933ab67616d0000b273e4751812fc466db9cc6bd9aa" alt="Check Out Later" width="100" />
 
-[15 songs](check_out_later_tracks.md)
+[16 songs](check_out_later_tracks.md)
 
 ## Top Artists
 
@@ -15,7 +15,7 @@
 
 |   Number of Tracks | Art                                                                                              | Artist                                 | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:------------------------------------------------------------|
-|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb2f2db7e779bd19ea8be917b0" alt="" width="50" /> | EXID                                   | [🔗](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) |
+|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb271110d977700b69d9548993" alt="" width="50" /> | EXID                                   | [🔗](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eba6b0d348c125a072e5284b3e" alt="" width="50" /> | IZ*ONE                                 | [🔗](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="" width="50" /> | [SEVENTEEN](../artists/seventeen.md)   | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../artists/leehi.md)           | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
@@ -34,14 +34,15 @@
 
 ## Top Albums
 
-![Bar chart of top 15 albums in Check Out Later](../images/playlists/check_out_later/albums.png)
+![Bar chart of top 16 albums in Check Out Later](../images/playlists/check_out_later/albums.png)
 
 
 <details>
-<summary>See all 15 albums</summary>
+<summary>See all 16 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                    | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------|:-----------------------------------------------------------|
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733b106b9d8d74dbed814c0176" alt="" width="50" /> | X                                        | [🔗](https://open.spotify.com/album/5DbZBWJtKZnwCKDkMvC45q) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730f439d80abc0a1b40e7cc231" alt="" width="50" /> | Void                                     | [🔗](https://open.spotify.com/album/58njxSTVkyBNIuCpAmmAJc) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27382c1b5cc2b62cae85ef7ffdb" alt="" width="50" /> | Universe – Winter Special Album, 2017    | [🔗](https://open.spotify.com/album/45RVbFvHsy7bsO7CQ2oQ6e) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e4751812fc466db9cc6bd9aa" alt="" width="50" /> | Street                                   | [🔗](https://open.spotify.com/album/2UJZYFwoSUlbMKo73IjQ9R) |
@@ -63,11 +64,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 10 record labels in Check Out Later](../images/playlists/check_out_later/labels.png)
+![Bar chart of top 11 record labels in Check Out Later](../images/playlists/check_out_later/labels.png)
 
 
 <details>
-<summary>See all 10 labels</summary>
+<summary>See all 11 labels</summary>
 
 |   Number of Tracks | Label                     |
 |-------------------:|:--------------------------|
@@ -76,6 +77,7 @@
 |                  2 | SM Entertainment          |
 |                  2 | Genie Music Corporation   |
 |                  1 | Stone Music Entertainment |
+|                  1 | SME Korea Inc.            |
 |                  1 | Republic Records          |
 |                  1 | PLEDIS Entertainment      |
 |                  1 | JYP Entertainment         |
