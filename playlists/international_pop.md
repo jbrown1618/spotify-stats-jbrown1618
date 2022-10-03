@@ -96,13 +96,13 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5d0fc400392250a750a9403e" alt="" width="50" /> | J Balvin                           | [🔗](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb77e7032af4f4ee21badd8fc7" alt="" width="50" /> | Madame Monsieur                    | [🔗](https://open.spotify.com/artist/1tQn5gWbo3ee6n2Z52ogY5) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb486e89dfcbba35327a1ba9b9" alt="" width="50" /> | Kenshi Yonezu                      | [🔗](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb96a9faf8f7ec1da103c63985" alt="" width="50" /> | Maluma                             | [🔗](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4588e958f69a086df6a9f81f" alt="" width="50" /> | Maluma                             | [🔗](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9126343e690e70ec5424ddaa" alt="" width="50" /> | Christine Fan                      | [🔗](https://open.spotify.com/artist/1q7sCl0vg0EcaFdRz0XDGg) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb49475e0c4cc5599629af919e" alt="" width="50" /> | Rauw Alejandro                     | [🔗](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27354dbaa284c53e085523cfec2" alt="" width="50" /> | Las Ketchup                        | [🔗](https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2c540efb76ea47414f376af" alt="" width="50" /> | TFBOYS                             | [🔗](https://open.spotify.com/artist/1dywcVTpMrP7VmQUhngSce) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebdca0f480586f178dab6b5591" alt="" width="50" /> | Gen Hoshino                        | [🔗](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb34149919c8ccd138a6c02cf8" alt="" width="50" /> | Natti Natasha                      | [🔗](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8cc49d3be2bcf2fd491ffc5" alt="" width="50" /> | Natti Natasha                      | [🔗](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6be69d4a6cea90132c24de23" alt="" width="50" /> | Full Trunk                         | [🔗](https://open.spotify.com/artist/1CD5WWtF6AFUq6BTY20I4k) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9b2f6666f0dbb3234080ce43" alt="" width="50" /> | Static & Ben El                    | [🔗](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb51feeef21e4e7bc941bc66bc" alt="" width="50" /> | Penny Tai                          | [🔗](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) |
@@ -232,7 +232,7 @@
 |                  3 | Columbia                                              |
 |                  2 | Universal Music Division Capitol Music France         |
 |                  2 | Samlist                                               |
-|                  2 | Linfair Records Limited                               |
+|                  2 | Linfair                                               |
 |                  2 | KING RECORDS                                          |
 |                  2 | ITModels under exclusive license to D-Music           |
 |                  2 | IRORI Records                                         |

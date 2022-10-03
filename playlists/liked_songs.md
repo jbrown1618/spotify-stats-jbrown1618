@@ -24,15 +24,15 @@
 |                 19 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)                                       | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 |                 18 | <img src="https://i.scdn.co/image/ab6761610000e5eb1723d33e6837b553b2e512c1" alt="" width="50" /> | [Pentatonix](../artists/pentatonix.md)                         | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
 |                 17 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../artists/ariana_grande.md)                   | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
-|                 17 | <img src="https://i.scdn.co/image/ab6761610000e5eb916392fe8c66d0c993657b6d" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md)                               | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 |                 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)                               | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
+|                 16 | <img src="https://i.scdn.co/image/ab6761610000e5eb916392fe8c66d0c993657b6d" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md)                               | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 |                 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebc54e9b09db7f35f5bbb0efd4" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)                             | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 |                 15 | <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | [Billy Joel](../artists/billy_joel.md)                         | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
 |                 15 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md)                         | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 |                 14 | <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | [Florence + The Machine](../artists/florence___the_machine.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
 |                 13 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../artists/aespa.md)                                   | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
+|                 12 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../artists/leehi.md)                                   | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 |                 12 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | [CHUNG HA](../artists/chung_ha.md)                             | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
-|                 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../artists/leehi.md)                                   | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 |                 11 | <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | [Queen](../artists/queen.md)                                   | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
 |                 11 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../artists/mamamoo.md)                               | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
 |                 10 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="" width="50" /> | [SEVENTEEN](../artists/seventeen.md)                           | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
@@ -238,108 +238,108 @@
 <details>
 <summary>See top 100 labels</summary>
 
-|   Number of Tracks | Label                                  |
-|-------------------:|:---------------------------------------|
-|                135 | SM Entertainment                       |
-|                 66 | Epic                                   |
-|                 59 | Republic Records                       |
-|                 59 | Columbia                               |
-|                 51 | YG Entertainment                       |
-|                 46 | Warner Records                         |
-|                 46 | Interscope                             |
-|                 43 | RCA Records Label                      |
-|                 35 | Universal Music LLC                    |
-|                 29 | Stone Music Entertainment              |
-|                 29 | Genie Music Corporation                |
-|                 25 | Atlantic Records                       |
-|                 23 | BIGHIT MUSIC                           |
-|                 21 | RBW Inc.                               |
-|                 21 | JYP Entertainment                      |
-|                 21 | EMI Catalogue                          |
-|                 20 | Big Machine Records                    |
-|                 18 | CUBE ENTERTAINMENT                     |
-|                 17 | Taylor Swift                           |
-|                 16 | Universal-Island Records Ltd.          |
-|                 16 | Polydor Records                        |
-|                 14 | Rhino                                  |
-|                 14 | BELIFT LAB                             |
-|                 13 | XL Recordings                          |
-|                 13 | The Tarpeggios                         |
-|                 13 | Kakao Entertainment                    |
-|                 12 | Starship Entertainment                 |
-|                 12 | PLEDIS Entertainment                   |
-|                 12 | Hollywood Records                      |
-|                 11 | Jive                                   |
-|                 11 | Capitol Records                        |
-|                 10 | HYBE                                   |
-|                 10 | Darkroom                               |
-|                  9 | MYSTIC STORY                           |
-|                  9 | High Up Entertainment                  |
-|                  8 | The Unc - Chapel Hill Tarpeggios       |
-|                  8 | Syco Music                             |
-|                  8 | Monkey Puzzle Records                  |
-|                  8 | MNH ENTERTAINMENT                      |
-|                  8 | Def Jam Recordings                     |
-|                  7 | WM Korea                               |
-|                  7 | WM Entertainment                       |
-|                  7 | MOTOWN                                 |
-|                  7 | Cooking Vinyl Limited                  |
-|                  6 | Virgin Records                         |
-|                  6 | UNI                                    |
-|                  6 | Sire                                   |
-|                  6 | SOURCE MUSIC                           |
-|                  6 | Legacy                                 |
-|                  6 | FNC ENTERTAINMENT                      |
-|                  6 | EDAM Entertainment                     |
-|                  6 | Bad Boy                                |
-|                  6 | 88rising Music                         |
-|                  5 | distributed through Interscope Records |
-|                  5 | Riot Games                             |
-|                  5 | Reprise                                |
-|                  5 | Parkwood Entertainment                 |
-|                  5 | DREAMCATCHER COMPANY                   |
-|                  5 | Beluga Heights                         |
-|                  5 | Atlantic Records UK                    |
-|                  5 | A&M                                    |
-|                  5 | 143                                    |
-|                  4 | WM Japan                               |
-|                  4 | UMC (Universal Music Catalogue)        |
-|                  4 | Studio MaumC                           |
-|                  4 | P NATION                               |
-|                  4 | Hwa&Dam pictures                       |
-|                  4 | Geffen                                 |
-|                  4 | Fueled By Ramen                        |
-|                  4 | Elektra                                |
-|                  4 | Daft Life Ltd.                         |
-|                  4 | BlockBerryCreative                     |
-|                  4 | Atl                                    |
-|                  4 | Arista                                 |
-|                  4 | Abyss Company                          |
-|                  4 | ADA France                             |
-|                  3 | sensibility recordings                 |
-|                  3 | avex trax                              |
-|                  3 | Universal (MT)                         |
-|                  3 | THE BLACK LABEL                        |
-|                  3 | Steam Powered Giraffe                  |
-|                  3 | Sony Music Entertainment               |
-|                  3 | Sony BMG Music UK                      |
-|                  3 | Parlophone Records Limited             |
-|                  3 | Open Wide                              |
-|                  3 | Olivia Rodrigo PS                      |
-|                  3 | Music World Music                      |
-|                  3 | MLD ENTERTAINMENT                      |
-|                  3 | Lindseystomp Records                   |
-|                  3 | Kemosabe Records                       |
-|                  3 | KQ Entertainment                       |
-|                  3 | Island UK                              |
-|                  3 | Island Records                         |
-|                  3 | Imperial Distribution                  |
-|                  3 | Glassnote Entertainment Group LLC      |
-|                  3 | Fave Entertainment                     |
-|                  3 | Casablanca Records                     |
-|                  3 | Canvasback                             |
-|                  3 | Brute                                  |
-|                  3 | Beaute                                 |
+|   Number of Tracks | Label                                             |
+|-------------------:|:--------------------------------------------------|
+|                134 | SM Entertainment                                  |
+|                 66 | Epic                                              |
+|                 59 | Republic Records                                  |
+|                 59 | Columbia                                          |
+|                 51 | YG Entertainment                                  |
+|                 46 | Warner Records                                    |
+|                 46 | Interscope                                        |
+|                 43 | RCA Records Label                                 |
+|                 35 | Universal Music LLC                               |
+|                 29 | Stone Music Entertainment                         |
+|                 29 | Genie Music Corporation                           |
+|                 25 | Atlantic Records                                  |
+|                 23 | BIGHIT MUSIC                                      |
+|                 21 | RBW Inc.                                          |
+|                 21 | JYP Entertainment                                 |
+|                 21 | EMI Catalogue                                     |
+|                 20 | Big Machine Records                               |
+|                 18 | CUBE ENTERTAINMENT                                |
+|                 17 | Taylor Swift                                      |
+|                 16 | Universal-Island Records Ltd.                     |
+|                 16 | Polydor Records                                   |
+|                 14 | Rhino                                             |
+|                 14 | BELIFT LAB                                        |
+|                 13 | XL Recordings                                     |
+|                 13 | The Tarpeggios                                    |
+|                 13 | Kakao Entertainment                               |
+|                 12 | Starship Entertainment                            |
+|                 12 | PLEDIS Entertainment                              |
+|                 12 | Hollywood Records                                 |
+|                 11 | Jive                                              |
+|                 11 | Capitol Records                                   |
+|                 10 | HYBE                                              |
+|                 10 | Darkroom                                          |
+|                  9 | MYSTIC STORY                                      |
+|                  9 | High Up Entertainment                             |
+|                  8 | The Unc - Chapel Hill Tarpeggios                  |
+|                  8 | Syco Music                                        |
+|                  8 | Monkey Puzzle Records                             |
+|                  8 | MNH ENTERTAINMENT                                 |
+|                  8 | Def Jam Recordings                                |
+|                  7 | WM Korea                                          |
+|                  7 | WM Entertainment                                  |
+|                  7 | MOTOWN                                            |
+|                  7 | Cooking Vinyl Limited                             |
+|                  6 | Virgin Records                                    |
+|                  6 | UNI                                               |
+|                  6 | Sire                                              |
+|                  6 | SOURCE MUSIC                                      |
+|                  6 | Legacy                                            |
+|                  6 | FNC ENTERTAINMENT                                 |
+|                  6 | EDAM Entertainment                                |
+|                  6 | Bad Boy                                           |
+|                  6 | 88rising Music                                    |
+|                  5 | distributed through Interscope Records            |
+|                  5 | Riot Games                                        |
+|                  5 | Reprise                                           |
+|                  5 | Parkwood Entertainment                            |
+|                  5 | DREAMCATCHER COMPANY                              |
+|                  5 | Beluga Heights                                    |
+|                  5 | Atlantic Records UK                               |
+|                  5 | A&M                                               |
+|                  5 | 143                                               |
+|                  4 | WM Japan                                          |
+|                  4 | UMC (Universal Music Catalogue)                   |
+|                  4 | Studio MaumC                                      |
+|                  4 | P NATION                                          |
+|                  4 | Hwa&Dam pictures                                  |
+|                  4 | Geffen                                            |
+|                  4 | Fueled By Ramen                                   |
+|                  4 | Elektra                                           |
+|                  4 | Daft Life Ltd.                                    |
+|                  4 | BlockBerryCreative                                |
+|                  4 | Arista                                            |
+|                  4 | Abyss Company                                     |
+|                  4 | ATL                                               |
+|                  4 | ADA France                                        |
+|                  3 | sensibility recordings                            |
+|                  3 | avex trax                                         |
+|                  3 | Universal (MT)                                    |
+|                  3 | THE BLACK LABEL                                   |
+|                  3 | Steam Powered Giraffe                             |
+|                  3 | Sony Music Entertainment                          |
+|                  3 | Sony BMG Music UK                                 |
+|                  3 | Parlophone Records Limited                        |
+|                  3 | Open Wide                                         |
+|                  3 | Olivia Rodrigo PS                                 |
+|                  3 | Music World Music                                 |
+|                  3 | MLD ENTERTAINMENT                                 |
+|                  3 | Lindseystomp Records                              |
+|                  3 | Kemosabe Records                                  |
+|                  3 | KQ Entertainment                                  |
+|                  3 | Island UK                                         |
+|                  3 | Island Records                                    |
+|                  3 | Imperial Distribution                             |
+|                  3 | Glassnote Entertainment Group LLC                 |
+|                  3 | Genie Music Corporation;Stone Music Entertainment |
+|                  3 | Fave Entertainment                                |
+|                  3 | Casablanca Records                                |
+|                  3 | Canvasback                                        |
+|                  3 | Brute                                             |
 
 </details>
 

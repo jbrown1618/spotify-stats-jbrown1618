@@ -78,7 +78,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb9ba4d95b74bacff4d5747f61" alt="" width="50" /> | Hozier                                         | [🔗](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd09edfd2babfc9fd2ba748e" alt="" width="50" /> | Daniel Caesar                                  | [🔗](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5acb3cb0a8b87d3952738b97" alt="" width="50" /> | Fifth Harmony                                  | [🔗](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb79e6ab8e69b0ad78e5307c33" alt="" width="50" /> | Christina Aguilera                             | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | Christina Aguilera                             | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7926088433d79485da5e1734" alt="" width="50" /> | Mabel                                          | [🔗](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | [Michael Bublé](../artists/michael_bubl_.md)   | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bebfdee4c4cfea3473a51ab" alt="" width="50" /> | Megan Thee Stallion                            | [🔗](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) |
@@ -274,7 +274,7 @@
 |                  3 | Island UK                                     |
 |                  3 | Fueled By Ramen                               |
 |                  3 | Casablanca Records                            |
-|                  2 | Wondaland Records                             |
+|                  2 | Wondaland                                     |
 |                  2 | Reprise                                       |
 |                  2 | Radiculture                                   |
 |                  2 | Phonogenic                                    |

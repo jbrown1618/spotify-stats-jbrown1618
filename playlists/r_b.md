@@ -174,7 +174,7 @@
 |                  5 | Beluga Heights          |
 |                  5 | Bad Boy                 |
 |                  3 | LaFace Records          |
-|                  2 | Wondaland Records       |
+|                  2 | Wondaland               |
 |                  2 | Golden Child Recordings |
 |                  2 | G.O.O.D. Music          |
 |                  1 | Virgin Records          |
@@ -198,9 +198,9 @@
 |                  1 | Downtown Recordings     |
 |                  1 | Def Soul                |
 |                  1 | Castle Communications   |
-|                  1 | Atl                     |
 |                  1 | Arista                  |
 |                  1 | Aftermath Entertainment |
+|                  1 | ATL                     |
 |                  1 | 19 Recordings Limited   |
 
 </details>
