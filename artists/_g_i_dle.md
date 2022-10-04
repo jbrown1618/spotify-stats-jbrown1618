@@ -8,7 +8,7 @@
 
 |   Number of Tracks | Art                                                                                              | Album        |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------|
-|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | I NEVER DIE  |
+|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | I NEVER DIE  |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | I burn       |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | I trust      |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="" width="50" /> | I am         |
@@ -24,7 +24,7 @@
 
 |   Number of Tracks | Label               |
 |-------------------:|:--------------------|
-|                 11 | CUBE ENTERTAINMENT  |
+|                 12 | CUBE ENTERTAINMENT  |
 |                  9 | Universal Music LLC |
 |                  3 | Riot Games          |
 
@@ -51,6 +51,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | MOON                   | I burn       | Universal Music LLC |     | [🔗](https://open.spotify.com/track/3uOeutrLztSX6lU0b0et3B) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | ALREADY                | I NEVER DIE  | Cube Entertainment  | 💚   | [🔗](https://open.spotify.com/track/1hQtfLmNABXQMSjjYRXqAX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | ESCAPE                 | I NEVER DIE  | Cube Entertainment  | 💚   | [🔗](https://open.spotify.com/track/4O7tVdjaOQARI1rS6E6CCx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | LIAR                   | I NEVER DIE  | Cube Entertainment  | 💚   | [🔗](https://open.spotify.com/track/4NrmxVJURTgzMH0QKyYy1a) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | MY BAG                 | I NEVER DIE  | Cube Entertainment  | 💚   | [🔗](https://open.spotify.com/track/1t8sqIScEIP0B4bQzBuI2P) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | Never Stop Me          | I NEVER DIE  | Cube Entertainment  | 💚   | [🔗](https://open.spotify.com/track/0ckILmtBH2r5UFOtTf2cN0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | TOMBOY                 | I NEVER DIE  | Cube Entertainment  | 💚   | [🔗](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) |
