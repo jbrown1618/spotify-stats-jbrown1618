@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273f7da7c0f322b7a1c95190d92" alt="K-Pop" width="100" />
 
-[820 songs](k_pop_tracks.md)
+[824 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -43,6 +43,7 @@
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebaad1353fe0343220b1331768" alt="" width="50" /> | SUPER JUNIOR                                         | [🔗](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | CLC                                                  | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bd65b0efee10bfa8328c33b" alt="" width="50" /> | NCT U                                                | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
+|                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb26e3996e1a02077ef320026d" alt="" width="50" /> | SEULGI                                               | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c8ac3b2d8d886fbf3f0877a" alt="" width="50" /> | NCT DREAM                                            | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb6ee9f83106240222e4328db4" alt="" width="50" /> | WENDY                                                | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5ebd90aa536055fe9806b3960e6" alt="" width="50" /> | GOT7                                                 | [🔗](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) |
@@ -94,7 +95,6 @@
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8aec4284aed8bb502a411043" alt="" width="50" /> | AILEE                                                | [🔗](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebcbdbe17cd82fc79d2eab8aea" alt="" width="50" /> | TREASURE                                             | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb30a517d1b703c3eabdac2855" alt="" width="50" /> | Wonder Girls                                         | [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) |
-|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb26e3996e1a02077ef320026d" alt="" width="50" /> | SEULGI                                               | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb0124ae71378c204c4634cd40" alt="" width="50" /> | KARD                                                 | [🔗](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb065608c797a38d142082fc8a" alt="" width="50" /> | Punch                                                | [🔗](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebe6eb7c8acc8f75853b0ed9ac" alt="" width="50" /> | NMIXX                                                | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
@@ -165,6 +165,7 @@
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="" width="50" /> | DIMENSION : DILEMMA                              | [🔗](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273a498cf792773aa474d779dd8" alt="" width="50" /> | D-2                                              | [🔗](https://open.spotify.com/album/0zhGddZ83RpCgnelKWa2qS) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6096741dcf413354a59554" alt="" width="50" /> | BORDER : DAY ONE                                 | [🔗](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 28 Reasons - The 1st Mini Album                  | [🔗](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="" width="50" /> | 1st Album [Dystopia : The Tree of Language]      | [🔗](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2738232e1aaaf4c9ed4b6946ce8" alt="" width="50" /> | the Billage of perception: chapter two           | [🔗](https://open.spotify.com/album/0NuM7kwh6u6fIRjn7Zh7Ss) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="" width="50" /> | Taste of Love                                    | [🔗](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) |
@@ -228,7 +229,6 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734525dae431a233a077d2395c" alt="" width="50" /> | NCT RESONANCE Pt. 1 - The 2nd Album              | [🔗](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731727feddec43c335453b9252" alt="" width="50" /> | NCT #127 Neo Zone - The 2nd Album                | [🔗](https://open.spotify.com/album/5YOvg682zFOleCiSndLnZr) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2738c7e7f435fdcc70772c5555e" alt="" width="50" /> | My Voice - The 1st Album                         | [🔗](https://open.spotify.com/album/6DlCl3hBP1Gwhn0tgitGfN) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27338fc902e1d368df7fc0d77a3" alt="" width="50" /> | Melting                                          | [🔗](https://open.spotify.com/album/11hjJntrvmauDoga4Krr0U) |
 
 </details>
 
@@ -243,7 +243,7 @@
 
 |   Number of Tracks | Label                                             |
 |-------------------:|:--------------------------------------------------|
-|                182 | SM Entertainment                                  |
+|                186 | SM Entertainment                                  |
 |                 70 | Republic Records                                  |
 |                 63 | YG Entertainment                                  |
 |                 46 | Genie Music Corporation                           |

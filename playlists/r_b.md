@@ -172,7 +172,7 @@
 |                  5 | UNI                     |
 |                  5 | Music World Music       |
 |                  5 | Beluga Heights          |
-|                  5 | Bad Boy                 |
+|                  5 | Bad Boy Records         |
 |                  3 | LaFace Records          |
 |                  2 | Wondaland               |
 |                  2 | Golden Child Recordings |
@@ -198,9 +198,9 @@
 |                  1 | Downtown Recordings     |
 |                  1 | Def Soul                |
 |                  1 | Castle Communications   |
-|                  1 | Atl                     |
 |                  1 | Arista                  |
 |                  1 | Aftermath Entertainment |
+|                  1 | ATL                     |
 |                  1 | 19 Recordings Limited   |
 
 </details>

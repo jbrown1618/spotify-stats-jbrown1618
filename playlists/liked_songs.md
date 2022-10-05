@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1278 songs](liked_songs_tracks.md)
+[1282 songs](liked_songs_tracks.md)
 
 ## Top Artists
 
@@ -86,6 +86,7 @@
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb24b5185226d5b7c6aa91db5a" alt="" width="50" /> | PSY                                                            | [🔗](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) |
 |                  5 | <img src="https://i.scdn.co/image/7b2813bb4afb38f0dab9470a514091fc4ef6b1a1" alt="" width="50" /> | Rilo Kiley                                                     | [🔗](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbca2e91d07d2c53e6610570" alt="" width="50" /> | Seori                                                          | [🔗](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) |
+|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb26e3996e1a02077ef320026d" alt="" width="50" /> | SEULGI                                                         | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c8ac3b2d8d886fbf3f0877a" alt="" width="50" /> | NCT DREAM                                                      | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | [Michael Bublé](../artists/michael_bubl_.md)                   | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | Nicki Minaj                                                    | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
@@ -111,7 +112,6 @@
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c" alt="" width="50" /> | Amy Winehouse                                                  | [🔗](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebf7db7c8ede90a019c54590bb" alt="" width="50" /> | Harry Styles                                                   | [🔗](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae8ba82eaf7e63af515c9f" alt="" width="50" /> | The Civil Wars                                                 | [🔗](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) |
-|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb99b5a1b1b95a279176ded0e1" alt="" width="50" /> | NewJeans                                                       | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 
 </details>
 
@@ -172,6 +172,7 @@
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Girls - The 2nd Mini Album                       | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="" width="50" /> | DIMENSION : DILEMMA                              | [🔗](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | CHECKMATE                                        | [🔗](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 28 Reasons - The 1st Mini Album                  | [🔗](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | 1000 Forms Of Fear (Deluxe Version)              | [🔗](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2738232e1aaaf4c9ed4b6946ce8" alt="" width="50" /> | the Billage of perception: chapter two           | [🔗](https://open.spotify.com/album/0NuM7kwh6u6fIRjn7Zh7Ss) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2737bf7ee0ed15bef2699900a6b" alt="" width="50" /> | The Game                                         | [🔗](https://open.spotify.com/album/1h0j80HhdzIMsUGUFiVkqa) |
@@ -225,7 +226,6 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2733a7804057d817ff9f68ca85c" alt="" width="50" /> | ‘The ReVe Festival’ Day 2                        | [🔗](https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="" width="50" /> | ‘The ReVe Festival’ Day 1                        | [🔗](https://open.spotify.com/album/2nLEiP268mSFZHW5dajM4R) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27337392cac38ca8efa2315b04e" alt="" width="50" /> | the collective soul and unconscious: chapter one | [🔗](https://open.spotify.com/album/4ophrgcnwWi1I5nWYImyhw) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8" alt="" width="50" /> | thank u, next                                    | [🔗](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) |
 
 </details>
 
@@ -240,7 +240,7 @@
 
 |   Number of Tracks | Label                                             |
 |-------------------:|:--------------------------------------------------|
-|                134 | SM Entertainment                                  |
+|                138 | SM Entertainment                                  |
 |                 66 | Epic                                              |
 |                 60 | Republic Records                                  |
 |                 59 | Columbia                                          |
@@ -292,7 +292,7 @@
 |                  6 | Genie Music Corporation;Stone Music Entertainment |
 |                  6 | FNC ENTERTAINMENT                                 |
 |                  6 | EDAM Entertainment                                |
-|                  6 | Bad Boy                                           |
+|                  6 | Bad Boy Records                                   |
 |                  6 | 88rising Music                                    |
 |                  5 | distributed through Interscope Records            |
 |                  5 | Riot Games                                        |
@@ -313,9 +313,9 @@
 |                  4 | Elektra                                           |
 |                  4 | Daft Life Ltd.                                    |
 |                  4 | BlockBerryCreative                                |
-|                  4 | Atl                                               |
 |                  4 | Arista                                            |
 |                  4 | Abyss Company                                     |
+|                  4 | ATL                                               |
 |                  4 | ADA France                                        |
 |                  3 | sensibility recordings                            |
 |                  3 | avex trax                                         |

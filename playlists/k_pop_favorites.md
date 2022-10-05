@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b273714e56679ab196354e2e443eab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738c4a282e84a53c1c8acf129a" alt="K-Pop Favorites" width="100" />
 
-[187 songs](k_pop_favorites_tracks.md)
+[188 songs](k_pop_favorites_tracks.md)
 
 ## Top Artists
 
@@ -11,7 +11,7 @@
 
 
 <details>
-<summary>See all 78 artists</summary>
+<summary>See all 79 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                               | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------|:------------------------------------------------------------|
@@ -83,6 +83,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5923c0ca32a3cf3a81b34728" alt="" width="50" /> | G-DRAGON                                             | [🔗](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7ece2134de8809efcfdc9be7" alt="" width="50" /> | SHINee                                               | [🔗](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebdbabadb9f03b5b3d5e0241e5" alt="" width="50" /> | JAMIE                                                | [🔗](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb26e3996e1a02077ef320026d" alt="" width="50" /> | SEULGI                                               | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe6eb7c8acc8f75853b0ed9ac" alt="" width="50" /> | NMIXX                                                | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc2c8185fc0902b43e35f671f" alt="" width="50" /> | JENNIE                                               | [🔗](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2cc2d8e2ec34e29f1905e286" alt="" width="50" /> | WayV                                                 | [🔗](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) |
@@ -221,7 +222,7 @@
 
 |   Number of Tracks | Label                                  |
 |-------------------:|:---------------------------------------|
-|                 56 | SM Entertainment                       |
+|                 57 | SM Entertainment                       |
 |                 20 | YG Entertainment                       |
 |                 13 | Republic Records                       |
 |                  9 | Interscope                             |
