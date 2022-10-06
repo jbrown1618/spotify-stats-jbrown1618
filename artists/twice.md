@@ -9,9 +9,9 @@
 |   Number of Tracks | Art                                                                                              | Album                   |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:------------------------|
 |                  7 | <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | Formula of Love: O+T=<3 |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | BETWEEN 1&2             |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="" width="50" /> | Taste of Love           |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2736570fd05bcff5edcb16e617d" alt="" width="50" /> | Eyes Wide Open          |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | BETWEEN 1&2             |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273140ba24506e300382e08e6ec" alt="" width="50" /> | YES or YES              |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e2a4f8bcc74020cd4b01f647" alt="" width="50" /> | What Is Love            |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736034eda385497f614778f457" alt="" width="50" /> | Twicetagram             |
@@ -35,7 +35,7 @@
 
 |   Number of Tracks | Label                 |
 |-------------------:|:----------------------|
-|                 30 | Republic Records      |
+|                 29 | Republic Records      |
 |                  2 | WM Japan              |
 |                  2 | Imperial Distribution |
 |                  1 | Riot Games            |
@@ -77,5 +77,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | SCIENTIST                         | Formula of Love: O+T=<3 | Republic Records - TWICE | 💚   | [🔗](https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | Basics                            | BETWEEN 1&2             | Republic Records - TWICE | 💚   | [🔗](https://open.spotify.com/track/63mL1DdcSFfxVJ9XGnSRQz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | Brave                             | BETWEEN 1&2             | Republic Records - TWICE |     | [🔗](https://open.spotify.com/track/2peoFPokM6eYAIwLm9IQ8E) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | Queen of Hearts                   | BETWEEN 1&2             | Republic Records - TWICE |     | [🔗](https://open.spotify.com/track/3sOEVB8DirQtZc0qhw8lJc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | Talk that Talk                    | BETWEEN 1&2             | Republic Records - TWICE |     | [🔗](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) |

@@ -28,7 +28,7 @@
 |                 12 | Universal Music LLC                                   |
 |                 10 | Republic Records                                      |
 |                  1 | Silver Cloud                                          |
-|                  1 | Interscope                                            |
+|                  1 | Interscope Records                                    |
 |                  1 | Charlie's Angels                                      |
 |                  1 | Ariana Grande & Justin Bieber "Stuck With U"- Charity |
 

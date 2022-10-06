@@ -225,7 +225,7 @@
 |                 57 | SM Entertainment                       |
 |                 20 | YG Entertainment                       |
 |                 13 | Republic Records                       |
-|                  9 | Interscope                             |
+|                  9 | Interscope Records                     |
 |                  8 | Universal Music LLC                    |
 |                  8 | JYP Entertainment                      |
 |                  7 | RBW Inc.                               |

@@ -236,7 +236,7 @@
 |                  2 | Phonogenic                           |
 |                  2 | Nuclear Blast Entertainment          |
 |                  2 | Kid Ina Korner                       |
-|                  2 | Interscope                           |
+|                  2 | Interscope Records                   |
 |                  1 | half·alive                           |
 |                  1 | ZAR                                  |
 |                  1 | Wyvern Lingo                         |

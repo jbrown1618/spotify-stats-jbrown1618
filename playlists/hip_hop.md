@@ -100,7 +100,7 @@
 |                  1 | Warner Records                  |
 |                  1 | The Orchard                     |
 |                  1 | KSR                             |
-|                  1 | Interscope                      |
+|                  1 | Interscope Records              |
 |                  1 | EMPIRE                          |
 |                  1 | Columbia                        |
 |                  1 | Bad Dreams Records              |

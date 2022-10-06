@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1282 songs](liked_songs_tracks.md)
+[1283 songs](liked_songs_tracks.md)
 
 ## Top Artists
 
@@ -246,7 +246,7 @@
 |                 59 | Columbia                                          |
 |                 51 | YG Entertainment                                  |
 |                 46 | Warner Records                                    |
-|                 46 | Interscope                                        |
+|                 46 | Interscope Records                                |
 |                 43 | RCA Records Label                                 |
 |                 36 | Universal Music LLC                               |
 |                 29 | Stone Music Entertainment                         |

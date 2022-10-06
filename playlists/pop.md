@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="Pop" width="100" />
 
-[352 songs](pop_tracks.md)
+[353 songs](pop_tracks.md)
 
 ## Top Artists
 
@@ -169,7 +169,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273e11a75a2f2ff39cec788a015" alt="" width="50" /> | Speak Now                                                                                           | [🔗](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e" alt="" width="50" /> | Songs About Jane: 10th Anniversary Edition                                                          | [🔗](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27386b0c9728ad3ed338eaeea79" alt="" width="50" /> | Raymond v Raymond (Expanded Edition)                                                                | [🔗](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731d97ca7376f835055f828139" alt="" width="50" /> | Random Access Memories                                                                              | [🔗](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | Random Access Memories                                                                              | [🔗](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" alt="" width="50" /> | Planet Her                                                                                          | [🔗](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="" width="50" /> | No Strings Attached                                                                                 | [🔗](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a90401b8d27cd6b5f3a46242" alt="" width="50" /> | Lights                                                                                              | [🔗](https://open.spotify.com/album/3duZhvcaoqdNveQYXf9dMV) |
@@ -243,7 +243,7 @@
 
 |   Number of Tracks | Label                                         |
 |-------------------:|:----------------------------------------------|
-|                 30 | Interscope                                    |
+|                 30 | Interscope Records                            |
 |                 29 | Big Machine Records                           |
 |                 27 | RCA Records Label                             |
 |                 23 | Columbia                                      |
@@ -274,7 +274,7 @@
 |                  3 | Island UK                                     |
 |                  3 | Fueled By Ramen                               |
 |                  3 | Casablanca Records                            |
-|                  2 | Wondaland                                     |
+|                  2 | Wondaland Records                             |
 |                  2 | Reprise                                       |
 |                  2 | Radiculture                                   |
 |                  2 | Phonogenic                                    |

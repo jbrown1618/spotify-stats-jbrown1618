@@ -181,7 +181,7 @@
 |                  1 | Jive                                 |
 |                  1 | Island Records                       |
 |                  1 | Island Def Jam                       |
-|                  1 | Interscope                           |
+|                  1 | Interscope Records                   |
 |                  1 | EMI Recorded Music Australia Pty Ltd |
 |                  1 | Down Up Down Music                   |
 |                  1 | Def Soul                             |

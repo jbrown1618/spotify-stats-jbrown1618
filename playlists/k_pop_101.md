@@ -138,7 +138,7 @@
 |                  1 | Makeus Entertainment      |
 |                  1 | Kakao Entertainment       |
 |                  1 | KQ Entertainment          |
-|                  1 | Interscope                |
+|                  1 | Interscope Records        |
 |                  1 | Imperial Distribution     |
 |                  1 | High Up Entertainment     |
 |                  1 | HYBE                      |

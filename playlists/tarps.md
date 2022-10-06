@@ -184,7 +184,7 @@
 |                  1 | Jive                              |
 |                  1 | J Records                         |
 |                  1 | Island Records                    |
-|                  1 | Interscope                        |
+|                  1 | Interscope Records                |
 |                  1 | Hollywood Records                 |
 |                  1 | Glassnote Entertainment Group LLC |
 |                  1 | Geffen                            |

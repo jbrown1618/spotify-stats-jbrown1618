@@ -1,7 +1,7 @@
 # Electronic
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d0000b2731d97ca7376f835055f828139ab67616d0000b27379e8b529ce6c088a8027b2a1ab67616d0000b273b33d46dfa2635a47eebf63b2ab67616d0000b273d8601e15fa1b4351fe1fc6ae" alt="Electronic" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d0000b27379e8b529ce6c088a8027b2a1ab67616d0000b2739b9b36b0e22870b9f542d937ab67616d0000b273b33d46dfa2635a47eebf63b2ab67616d0000b273d8601e15fa1b4351fe1fc6ae" alt="Electronic" width="100" />
 
 [11 songs](electronic_tracks.md)
 
@@ -36,7 +36,7 @@
 |   Number of Tracks | Art                                                                                              | Album                  | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------|:-----------------------------------------------------------|
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273b33d46dfa2635a47eebf63b2" alt="" width="50" /> | Discovery              | [🔗](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731d97ca7376f835055f828139" alt="" width="50" /> | Random Access Memories | [🔗](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | Random Access Memories | [🔗](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="" width="50" /> | Lindsey Stirling       | [🔗](https://open.spotify.com/album/3YTWAm90osBvLNWCdF8Nq2) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273cdb2461871ded49f97bc41c2" alt="" width="50" /> | Shatter Me             | [🔗](https://open.spotify.com/album/2spbck4ETZz1aLq5Fi5phC) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d8601e15fa1b4351fe1fc6ae" alt="" width="50" /> | Human After All        | [🔗](https://open.spotify.com/album/1A2GTWGtFfWp7KSQTwWOyo) |

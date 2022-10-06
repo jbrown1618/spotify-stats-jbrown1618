@@ -8,7 +8,7 @@
 
 |   Number of Tracks | Art                                                                                              | Album                     |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------|
-|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | 4 ONLY                    |
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | 4 ONLY                    |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="" width="50" /> | SEOULITE                  |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2730d42834b296097a0136e97d3" alt="" width="50" /> | SEOULITE                  |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273bb0a530fc901e88d1c7a9f4d" alt="" width="50" /> | First Love                |
@@ -25,7 +25,7 @@
 |   Number of Tracks | Label                                             |
 |-------------------:|:--------------------------------------------------|
 |                 11 | YG Entertainment                                  |
-|                  7 | Genie Music Corporation;Stone Music Entertainment |
+|                  6 | Genie Music Corporation;Stone Music Entertainment |
 |                  2 | Stone Music Entertainment                         |
 |                  2 | Genie Music Corporation                           |
 |                  1 | PLEDIS Entertainment                              |
@@ -51,7 +51,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a40f1624faabce03d3eabbb" alt="" width="50" /> | Bittersweet (feat. LeeHi)      | Bittersweet (feat. LeeHi) | PLEDIS Entertainment                               | 💚   | [🔗](https://open.spotify.com/track/347PJwH4XqRbeaKaIW9sX3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736bd4012e2889d22821ab35b0" alt="" width="50" /> | ONLY                           | ONLY                      | Genie Music Corporation, Stone Music Entertainment | 💚   | [🔗](https://open.spotify.com/track/13CvkXwGXruBTv2Rh6JmHR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | Bye                            | 4 ONLY                    | Genie Music Corporation;Stone Music Entertainment  | 💚   | [🔗](https://open.spotify.com/track/6ye2BBTpOipvPNjSPxgmRC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | Darling                        | 4 ONLY                    | Genie Music Corporation;Stone Music Entertainment  |     | [🔗](https://open.spotify.com/track/1Yjht6lUYTjJTsdUL6J9xx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | Intentions                     | 4 ONLY                    | Genie Music Corporation;Stone Music Entertainment  | 💚   | [🔗](https://open.spotify.com/track/7IN84szmayzO68enmVmKYv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | Red Lipstick (feat. Yoonmirae) | 4 ONLY                    | Genie Music Corporation;Stone Music Entertainment  | 💚   | [🔗](https://open.spotify.com/track/7nJc2Oxfn7xRX3eF4hltyl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | Safety Zone                    | 4 ONLY                    | Genie Music Corporation;Stone Music Entertainment  |     | [🔗](https://open.spotify.com/track/4yUrkvM634vJTljUN9gDxV) |
