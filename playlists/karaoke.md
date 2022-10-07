@@ -61,7 +61,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0b549f4ea1ab50fbae9e4a4b" alt="" width="50" /> | Neon Trees                                                     | [🔗](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8f9c3f0a123aecf196868c9c" alt="" width="50" /> | Michael Andrews                                                | [🔗](https://open.spotify.com/artist/0RkqytrwoGyXGvDiZwT6i2) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0767e116a2307495e37cd7fb" alt="" width="50" /> | Eagles                                                         | [🔗](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfcf7c334a6e9dcb8555f3663" alt="" width="50" /> | [Taylor Swift](../artists/taylor_swift.md)                     | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | [Taylor Swift](../artists/taylor_swift.md)                     | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb288ac05481cedc5bddb5b11b" alt="" width="50" /> | Maroon 5                                                       | [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) |
 
 </details>
@@ -181,13 +181,13 @@
 |                  1 | Jive                                 |
 |                  1 | Island Records                       |
 |                  1 | Island Def Jam                       |
-|                  1 | Interscope Records                   |
+|                  1 | Interscope                           |
 |                  1 | EMI Recorded Music Australia Pty Ltd |
 |                  1 | Down Up Down Music                   |
 |                  1 | Def Soul                             |
 |                  1 | Def Jam Recordings                   |
 |                  1 | Def Jam                              |
-|                  1 | Bad Boy Records                      |
+|                  1 | Bad Boy                              |
 |                  1 | ATG                                  |
 
 </details>

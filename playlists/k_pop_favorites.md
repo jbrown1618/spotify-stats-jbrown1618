@@ -40,7 +40,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf55b31064f94878f3da932c8" alt="" width="50" /> | MAX CHANGMIN                                         | [🔗](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebaad1353fe0343220b1331768" alt="" width="50" /> | SUPER JUNIOR                                         | [🔗](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b13da5a8a3dd6e0d53ff764" alt="" width="50" /> | Red Velvet - IRENE & SEULGI                          | [🔗](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eba011333f6f4e7043afef8b19" alt="" width="50" /> | IVE                                                  | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5b1a291b0a6a689091d54d8b" alt="" width="50" /> | IVE                                                  | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | CLC                                                  | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebbf973f439e9a11dab997893c" alt="" width="50" /> | [Dreamcatcher](../artists/dreamcatcher.md)           | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e2e0f17d257a40be0782f35" alt="" width="50" /> | BAEKHYUN                                             | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
@@ -77,7 +77,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2d167f018561742f26a0997" alt="" width="50" /> | ROSÉ                                                 | [🔗](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb515e5754d89e4df8123e3f9f" alt="" width="50" /> | HYO                                                  | [🔗](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0cb523dc06f4780d254cd88a" alt="" width="50" /> | TEN                                                  | [🔗](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebcbdbe17cd82fc79d2eab8aea" alt="" width="50" /> | TREASURE                                             | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfd7fef26820bce07d68bfea6" alt="" width="50" /> | TREASURE                                             | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7af892ba79f611277614a0f2" alt="" width="50" /> | P1Harmony                                            | [🔗](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb30a517d1b703c3eabdac2855" alt="" width="50" /> | Wonder Girls                                         | [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5923c0ca32a3cf3a81b34728" alt="" width="50" /> | G-DRAGON                                             | [🔗](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) |
@@ -225,7 +225,7 @@
 |                 57 | SM Entertainment                       |
 |                 20 | YG Entertainment                       |
 |                 13 | Republic Records                       |
-|                  9 | Interscope Records                     |
+|                  9 | Interscope                             |
 |                  8 | Universal Music LLC                    |
 |                  8 | JYP Entertainment                      |
 |                  7 | RBW Inc.                               |

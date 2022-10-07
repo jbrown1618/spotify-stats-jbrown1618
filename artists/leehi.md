@@ -8,7 +8,7 @@
 
 |   Number of Tracks | Art                                                                                              | Album                     |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------|
-|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | 4 ONLY                    |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | 4 ONLY                    |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="" width="50" /> | SEOULITE                  |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2730d42834b296097a0136e97d3" alt="" width="50" /> | SEOULITE                  |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273bb0a530fc901e88d1c7a9f4d" alt="" width="50" /> | First Love                |
@@ -25,7 +25,7 @@
 |   Number of Tracks | Label                                             |
 |-------------------:|:--------------------------------------------------|
 |                 11 | YG Entertainment                                  |
-|                  6 | Genie Music Corporation;Stone Music Entertainment |
+|                  5 | Genie Music Corporation;Stone Music Entertainment |
 |                  2 | Stone Music Entertainment                         |
 |                  2 | Genie Music Corporation                           |
 |                  1 | PLEDIS Entertainment                              |
@@ -41,7 +41,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="" width="50" /> | BREATHE                        | SEOULITE                  | YG Entertainment                                   | 💚   | [🔗](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="" width="50" /> | FXXK WIT US                    | SEOULITE                  | YG Entertainment                                   |     | [🔗](https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="" width="50" /> | HOLD MY HAND                   | SEOULITE                  | YG Entertainment                                   | 💚   | [🔗](https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27321c941a808e99d4ba69ffc01" alt="" width="50" /> | WORLD TOUR                     | SEOULITE                  | YG Entertainment                                   |     | [🔗](https://open.spotify.com/track/3kXTBit5dnLLq4NYnwjiHn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27321c941a808e99d4ba69ffc01" alt="" width="50" /> | WORLD TOUR                     | SEOULITE                  | YG Entertainment                                   | 💚   | [🔗](https://open.spotify.com/track/3kXTBit5dnLLq4NYnwjiHn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d42834b296097a0136e97d3" alt="" width="50" /> | MISSING U                      | SEOULITE                  | YG Entertainment                                   | 💚   | [🔗](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d42834b296097a0136e97d3" alt="" width="50" /> | MY STAR                        | SEOULITE                  | YG Entertainment                                   |     | [🔗](https://open.spotify.com/track/42Dl2MOplqImwLoIPMv6Me) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1db30cc6d74a08a5e14274" alt="" width="50" /> | NO ONE                         | 24℃                       | YG Entertainment                                   | 💚   | [🔗](https://open.spotify.com/track/0iQ7Nc2YhlyGHeUi4R8Gl6) |
@@ -53,6 +53,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | Bye                            | 4 ONLY                    | Genie Music Corporation;Stone Music Entertainment  | 💚   | [🔗](https://open.spotify.com/track/6ye2BBTpOipvPNjSPxgmRC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | Intentions                     | 4 ONLY                    | Genie Music Corporation;Stone Music Entertainment  | 💚   | [🔗](https://open.spotify.com/track/7IN84szmayzO68enmVmKYv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | Red Lipstick (feat. Yoonmirae) | 4 ONLY                    | Genie Music Corporation;Stone Music Entertainment  | 💚   | [🔗](https://open.spotify.com/track/7nJc2Oxfn7xRX3eF4hltyl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | Safety Zone                    | 4 ONLY                    | Genie Music Corporation;Stone Music Entertainment  |     | [🔗](https://open.spotify.com/track/4yUrkvM634vJTljUN9gDxV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | Savior (feat. B.I)             | 4 ONLY                    | Genie Music Corporation;Stone Music Entertainment  | 💚   | [🔗](https://open.spotify.com/track/0DYvTdqBqW6erA1a7pFzVo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | Waterride                      | 4 ONLY                    | Genie Music Corporation;Stone Music Entertainment  | 💚   | [🔗](https://open.spotify.com/track/7JXNH2xnA23vsGasejVfWr) |

@@ -15,7 +15,7 @@
 
 |   Number of Tracks | Art                                                                                              | Artist                                         | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------|:------------------------------------------------------------|
-|                 51 | <img src="https://i.scdn.co/image/ab6761610000e5ebfcf7c334a6e9dcb8555f3663" alt="" width="50" /> | [Taylor Swift](../artists/taylor_swift.md)     | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
+|                 51 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | [Taylor Swift](../artists/taylor_swift.md)     | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 |                 25 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../artists/ariana_grande.md)   | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 |                 13 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../artists/lady_gaga.md)           | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
 |                 12 | <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | [Dua Lipa](../artists/dua_lipa.md)             | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
@@ -243,7 +243,7 @@
 
 |   Number of Tracks | Label                                         |
 |-------------------:|:----------------------------------------------|
-|                 30 | Interscope Records                            |
+|                 30 | Interscope                                    |
 |                 29 | Big Machine Records                           |
 |                 27 | RCA Records Label                             |
 |                 23 | Columbia                                      |
@@ -263,7 +263,7 @@
 |                  6 | XL Recordings                                 |
 |                  6 | Island Records                                |
 |                  5 | Beluga Heights                                |
-|                  5 | Bad Boy Records                               |
+|                  5 | Bad Boy                                       |
 |                  4 | Kemosabe Records                              |
 |                  4 | Atlantic Records UK                           |
 |                  3 | Universal-Island Records Ltd.                 |

@@ -22,7 +22,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebac19ac3b8773baa5791999fb" alt="" width="50" /> | TVXQ!                                                | [🔗](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebaad1353fe0343220b1331768" alt="" width="50" /> | SUPER JUNIOR                                         | [🔗](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../artists/aespa.md)                         | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba011333f6f4e7043afef8b19" alt="" width="50" /> | IVE                                                  | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5b1a291b0a6a689091d54d8b" alt="" width="50" /> | IVE                                                  | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a29246fa242d0b9f8de3b31" alt="" width="50" /> | SUNMI                                                | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb64362c8789b72fb00e0a3611" alt="" width="50" /> | ATEEZ                                                | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)                     | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
@@ -138,7 +138,7 @@
 |                  1 | Makeus Entertainment      |
 |                  1 | Kakao Entertainment       |
 |                  1 | KQ Entertainment          |
-|                  1 | Interscope Records        |
+|                  1 | Interscope                |
 |                  1 | Imperial Distribution     |
 |                  1 | High Up Entertainment     |
 |                  1 | HYBE                      |

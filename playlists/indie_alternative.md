@@ -66,7 +66,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd96a6a23facfaa2b364b1bdb" alt="" width="50" /> | League of Legends                                              | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5925909bff0f2cf1bf94f949" alt="" width="50" /> | Christopher                                                    | [🔗](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b465068da06b874e24d35bc1" alt="" width="50" /> | Huxlee                                                         | [🔗](https://open.spotify.com/artist/3yb7HrGPG0WpWgdO4XFwBf) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf89c5a76f9f10f61e4e07081" alt="" width="50" /> | Kim Petras                                                     | [🔗](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4427cfe93e6870af2a81fd41" alt="" width="50" /> | Kim Petras                                                     | [🔗](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb002eedc44fefe085daae10e4" alt="" width="50" /> | Troye Sivan                                                    | [🔗](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb51b0c19e9c39e2a1c7b5dd4e" alt="" width="50" /> | Will Jordan                                                    | [🔗](https://open.spotify.com/artist/3Is3ehDoBlnTKQtCHdEvpd) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb61d3f392c4b11e9e54280a9" alt="" width="50" /> | Madison Beer                                                   | [🔗](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) |
@@ -236,7 +236,7 @@
 |                  2 | Phonogenic                           |
 |                  2 | Nuclear Blast Entertainment          |
 |                  2 | Kid Ina Korner                       |
-|                  2 | Interscope Records                   |
+|                  2 | Interscope                           |
 |                  1 | half·alive                           |
 |                  1 | ZAR                                  |
 |                  1 | Wyvern Lingo                         |

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273f7da7c0f322b7a1c95190d92" alt="K-Pop" width="100" />
 
-[825 songs](k_pop_tracks.md)
+[828 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -21,10 +21,10 @@
 |                 29 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)                             | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 |                 28 | <img src="https://i.scdn.co/image/ab6761610000e5ebaa28abbc6d04ccd22c8ae3b5" alt="" width="50" /> | [ITZY](../artists/itzy.md)                           | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                 26 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | [IU](../artists/iu.md)                               | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
-|                 24 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md)               | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
+|                 25 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md)               | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 |                 24 | <img src="https://i.scdn.co/image/ab6761610000e5ebc54e9b09db7f35f5bbb0efd4" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)                   | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 |                 21 | <img src="https://i.scdn.co/image/ab6761610000e5eb916392fe8c66d0c993657b6d" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md)                     | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
-|                 19 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../artists/leehi.md)                         | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
+|                 20 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../artists/leehi.md)                         | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 |                 18 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)                     | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 |                 17 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../artists/mamamoo.md)                     | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
 |                 15 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="" width="50" /> | [SEVENTEEN](../artists/seventeen.md)                 | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
@@ -65,7 +65,7 @@
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb758f3c632d4d726f1129d336" alt="" width="50" /> | TOMORROW X TOGETHER                                  | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebfa980b99bc5f4d47b4253f82" alt="" width="50" /> | j-hope                                               | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb8e9d1c8642df6f869631fe62" alt="" width="50" /> | Crush                                                | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
-|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eba011333f6f4e7043afef8b19" alt="" width="50" /> | IVE                                                  | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
+|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb5b1a291b0a6a689091d54d8b" alt="" width="50" /> | IVE                                                  | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb99b5a1b1b95a279176ded0e1" alt="" width="50" /> | NewJeans                                             | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb7897fb51bf433f4049eed4fb" alt="" width="50" /> | The Rose                                             | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0b4c8d0a415cab50e033129" alt="" width="50" /> | Solar                                                | [🔗](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) |
@@ -93,7 +93,7 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273a435b6276480ed558eece0fd" alt="" width="50" /> | YENA                                                 | [🔗](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb66701ca609176d8fd4a9c4a0" alt="" width="50" /> | NCT                                                  | [🔗](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8aec4284aed8bb502a411043" alt="" width="50" /> | AILEE                                                | [🔗](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) |
-|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebcbdbe17cd82fc79d2eab8aea" alt="" width="50" /> | TREASURE                                             | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
+|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebfd7fef26820bce07d68bfea6" alt="" width="50" /> | TREASURE                                             | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb30a517d1b703c3eabdac2855" alt="" width="50" /> | Wonder Girls                                         | [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb0124ae71378c204c4634cd40" alt="" width="50" /> | KARD                                                 | [🔗](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb065608c797a38d142082fc8a" alt="" width="50" /> | Punch                                                | [🔗](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) |
@@ -182,6 +182,7 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2735fb4a9cfbeb3b7beb337ed02" alt="" width="50" /> | IM NAYEON                                        | [🔗](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | I trust                                          | [🔗](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="" width="50" /> | I am                                             | [🔗](https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273fad8c4176e8df7173479f959" alt="" width="50" /> | GO LIVE                                          | [🔗](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555" alt="" width="50" /> | FEARLESS                                         | [🔗](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2736570fd05bcff5edcb16e617d" alt="" width="50" /> | Eyes Wide Open                                   | [🔗](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273e70b87a4bd471f82768bdcb9" alt="" width="50" /> | DON'T FIGHT THE FEELING - Special Album          | [🔗](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) |
@@ -228,7 +229,6 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734957fced6061ee536ca618ab" alt="" width="50" /> | NONSTOP                                          | [🔗](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734525dae431a233a077d2395c" alt="" width="50" /> | NCT RESONANCE Pt. 1 - The 2nd Album              | [🔗](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731727feddec43c335453b9252" alt="" width="50" /> | NCT #127 Neo Zone - The 2nd Album                | [🔗](https://open.spotify.com/album/5YOvg682zFOleCiSndLnZr) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2738c7e7f435fdcc70772c5555e" alt="" width="50" /> | My Voice - The 1st Album                         | [🔗](https://open.spotify.com/album/6DlCl3hBP1Gwhn0tgitGfN) |
 
 </details>
 
@@ -244,8 +244,8 @@
 |   Number of Tracks | Label                                             |
 |-------------------:|:--------------------------------------------------|
 |                187 | SM Entertainment                                  |
-|                 70 | Republic Records                                  |
-|                 63 | YG Entertainment                                  |
+|                 71 | Republic Records                                  |
+|                 64 | YG Entertainment                                  |
 |                 46 | Genie Music Corporation                           |
 |                 45 | Stone Music Entertainment                         |
 |                 35 | BIGHIT MUSIC                                      |
@@ -253,13 +253,13 @@
 |                 27 | CUBE ENTERTAINMENT                                |
 |                 25 | Universal Music LLC                               |
 |                 25 | RBW Inc.                                          |
-|                 23 | Interscope Records                                |
+|                 23 | Interscope                                        |
 |                 18 | PLEDIS Entertainment                              |
 |                 17 | HYBE                                              |
 |                 16 | BELIFT LAB                                        |
 |                 15 | Kakao Entertainment                               |
 |                 14 | Starship Entertainment                            |
-|                 12 | WM Korea                                          |
+|                 13 | WM Korea                                          |
 |                 11 | Warner Records                                    |
 |                 11 | High Up Entertainment                             |
 |                  9 | MYSTIC STORY                                      |

@@ -17,7 +17,7 @@
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:------------------------------------------------------------|
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)               | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)   | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eba011333f6f4e7043afef8b19" alt="" width="50" /> | IVE                                    | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5b1a291b0a6a689091d54d8b" alt="" width="50" /> | IVE                                    | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)       | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb8a8415e72dedaa552259d0c1" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb45b2ff69ae6a3caccb776cfa" alt="" width="50" /> | [STAYC](../artists/stayc.md)           | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
@@ -96,7 +96,7 @@
 |-------------------:|:---------------------------|
 |                  5 | SM Entertainment           |
 |                  4 | YG Entertainment           |
-|                  4 | Interscope Records         |
+|                  4 | Interscope                 |
 |                  4 | BIGHIT MUSIC               |
 |                  3 | Starship Entertainment     |
 |                  3 | Republic Records           |

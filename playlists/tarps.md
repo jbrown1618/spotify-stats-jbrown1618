@@ -16,7 +16,7 @@
 |   Number of Tracks | Art                                                                                              | Artist                                                         | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------|:------------------------------------------------------------|
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" alt="" width="50" /> | [The Beatles](../artists/the_beatles.md)                       | [🔗](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) |
-|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebfcf7c334a6e9dcb8555f3663" alt="" width="50" /> | [Taylor Swift](../artists/taylor_swift.md)                     | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
+|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | [Taylor Swift](../artists/taylor_swift.md)                     | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb019d6873a01987cbe35888cd" alt="" width="50" /> | [Rihanna](../artists/rihanna.md)                               | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb867008a971fae0f4d913f63a" alt="" width="50" /> | Kanye West                                                     | [🔗](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | Adele                                                          | [🔗](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) |
@@ -164,7 +164,6 @@
 |                  2 | Elektra                           |
 |                  2 | Def Jam Recordings                |
 |                  2 | 19 Recordings Limited             |
-|                  1 | sensibility recordings            |
 |                  1 | Work                              |
 |                  1 | Warner Records                    |
 |                  1 | Vorsicht Musik                    |
@@ -173,6 +172,7 @@
 |                  1 | The Tarpeggios                    |
 |                  1 | Superpop.Co                       |
 |                  1 | Sugar Hill Records                |
+|                  1 | Sensibility Recordings            |
 |                  1 | Rhino                             |
 |                  1 | Radiculture                       |
 |                  1 | Polydor Records                   |
@@ -184,7 +184,7 @@
 |                  1 | Jive                              |
 |                  1 | J Records                         |
 |                  1 | Island Records                    |
-|                  1 | Interscope Records                |
+|                  1 | Interscope                        |
 |                  1 | Hollywood Records                 |
 |                  1 | Glassnote Entertainment Group LLC |
 |                  1 | Geffen                            |

@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1283 songs](liked_songs_tracks.md)
+[1285 songs](liked_songs_tracks.md)
 
 ## Top Artists
 
@@ -14,7 +14,7 @@
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------|:------------------------------------------------------------|
 |                 48 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../artists/sara_bareilles.md)                 | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 |                 39 | <img src="https://i.scdn.co/image/ab6761610000e5eb8a8415e72dedaa552259d0c1" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)                         | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
-|                 37 | <img src="https://i.scdn.co/image/ab6761610000e5ebfcf7c334a6e9dcb8555f3663" alt="" width="50" /> | [Taylor Swift](../artists/taylor_swift.md)                     | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
+|                 37 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | [Taylor Swift](../artists/taylor_swift.md)                     | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 |                 27 | <img src="https://i.scdn.co/image/ab6761610000e5ebd84fd6ae9ccfc6206ea6711e" alt="" width="50" /> | [TWICE](../artists/twice.md)                                   | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 |                 27 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)                           | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 |                 22 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" alt="" width="50" /> | [The Beatles](../artists/the_beatles.md)                       | [🔗](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) |
@@ -25,9 +25,9 @@
 |                 18 | <img src="https://i.scdn.co/image/ab6761610000e5eb1723d33e6837b553b2e512c1" alt="" width="50" /> | [Pentatonix](../artists/pentatonix.md)                         | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
 |                 17 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../artists/ariana_grande.md)                   | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 |                 17 | <img src="https://i.scdn.co/image/ab6761610000e5ebc54e9b09db7f35f5bbb0efd4" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)                             | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
+|                 16 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../artists/leehi.md)                                   | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 |                 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)                               | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 |                 16 | <img src="https://i.scdn.co/image/ab6761610000e5eb916392fe8c66d0c993657b6d" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md)                               | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
-|                 15 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../artists/leehi.md)                                   | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 |                 15 | <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | [Billy Joel](../artists/billy_joel.md)                         | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
 |                 15 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md)                         | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 |                 14 | <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | [Florence + The Machine](../artists/florence___the_machine.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
@@ -94,7 +94,7 @@
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb288ac05481cedc5bddb5b11b" alt="" width="50" /> | Maroon 5                                                       | [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb7401998434b12fffd119ae18" alt="" width="50" /> | NCT 127                                                        | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb8e9d1c8642df6f869631fe62" alt="" width="50" /> | Crush                                                          | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
-|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eba011333f6f4e7043afef8b19" alt="" width="50" /> | IVE                                                            | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
+|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb5b1a291b0a6a689091d54d8b" alt="" width="50" /> | IVE                                                            | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb64362c8789b72fb00e0a3611" alt="" width="50" /> | ATEEZ                                                          | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
 |                  4 | <img src="https://i.scdn.co/image/15b7ee7550ed4472700d573803ff90f2967f84d1" alt="" width="50" /> | A Fine Frenzy                                                  | [🔗](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | Adele                                                          | [🔗](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) |
@@ -244,12 +244,12 @@
 |                 66 | Epic                                              |
 |                 60 | Republic Records                                  |
 |                 59 | Columbia                                          |
-|                 51 | YG Entertainment                                  |
+|                 52 | YG Entertainment                                  |
 |                 46 | Warner Records                                    |
-|                 46 | Interscope Records                                |
+|                 46 | Interscope                                        |
 |                 43 | RCA Records Label                                 |
 |                 36 | Universal Music LLC                               |
-|                 29 | Stone Music Entertainment                         |
+|                 30 | Stone Music Entertainment                         |
 |                 29 | Genie Music Corporation                           |
 |                 25 | Atlantic Records                                  |
 |                 24 | BIGHIT MUSIC                                      |
@@ -292,7 +292,7 @@
 |                  6 | Genie Music Corporation;Stone Music Entertainment |
 |                  6 | FNC ENTERTAINMENT                                 |
 |                  6 | EDAM Entertainment                                |
-|                  6 | Bad Boy Records                                   |
+|                  6 | Bad Boy                                           |
 |                  6 | 88rising Music                                    |
 |                  5 | distributed through Interscope Records            |
 |                  5 | Riot Games                                        |
@@ -317,13 +317,13 @@
 |                  4 | Abyss Company                                     |
 |                  4 | ATL                                               |
 |                  4 | ADA France                                        |
-|                  3 | sensibility recordings                            |
 |                  3 | avex trax                                         |
 |                  3 | Universal (MT)                                    |
 |                  3 | THE BLACK LABEL                                   |
 |                  3 | Steam Powered Giraffe                             |
 |                  3 | Sony Music Entertainment                          |
 |                  3 | Sony BMG Music UK                                 |
+|                  3 | Sensibility Recordings                            |
 |                  3 | Parlophone Records Limited                        |
 |                  3 | Open Wide                                         |
 |                  3 | Olivia Rodrigo PS                                 |
