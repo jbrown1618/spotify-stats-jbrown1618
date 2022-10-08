@@ -63,7 +63,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | B.o.B                                          | [🔗](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | Juicy J                                        | [🔗](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb77bf00f67e21f514dc44c485" alt="" width="50" /> | OneRepublic                                    | [🔗](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb160f38431cb20db8f741beaa" alt="" width="50" /> | Tyga                                           | [🔗](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf91c2e559a5a8233d3b35fb1" alt="" width="50" /> | Tyga                                           | [🔗](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb0d66b3670294bf801847dae2" alt="" width="50" /> | Lizzo                                          | [🔗](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb920dc1f617550de8388f368e" alt="" width="50" /> | Imagine Dragons                                | [🔗](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb66b27eccb69756f8eceabc23" alt="" width="50" /> | Glass Animals                                  | [🔗](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) |
@@ -243,7 +243,7 @@
 
 |   Number of Tracks | Label                                         |
 |-------------------:|:----------------------------------------------|
-|                 30 | Interscope                                    |
+|                 30 | Interscope Records                            |
 |                 29 | Big Machine Records                           |
 |                 27 | RCA Records Label                             |
 |                 23 | Columbia                                      |
@@ -263,7 +263,7 @@
 |                  6 | XL Recordings                                 |
 |                  6 | Island Records                                |
 |                  5 | Beluga Heights                                |
-|                  5 | Bad Boy                                       |
+|                  5 | Bad Boy Records                               |
 |                  4 | Kemosabe Records                              |
 |                  4 | Atlantic Records UK                           |
 |                  3 | Universal-Island Records Ltd.                 |

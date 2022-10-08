@@ -42,7 +42,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | Juicy J                                | [🔗](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb727a2ac15afe659be999beba" alt="" width="50" /> | Doja Cat                               | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 |                  1 | <img src="https://i.scdn.co/image/03e8855382d21e1cbf8172c03001ab8847889f38" alt="" width="50" /> | Gnarls Barkley                         | [🔗](https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb160f38431cb20db8f741beaa" alt="" width="50" /> | Tyga                                   | [🔗](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf91c2e559a5a8233d3b35fb1" alt="" width="50" /> | Tyga                                   | [🔗](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0d66b3670294bf801847dae2" alt="" width="50" /> | Lizzo                                  | [🔗](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8c2332e6c0ed96d144a91b3f" alt="" width="50" /> | Cardi B                                | [🔗](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9f754de994ed3b6e8f01522" alt="" width="50" /> | Jidenna                                | [🔗](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) |
@@ -172,7 +172,7 @@
 |                  5 | UNI                     |
 |                  5 | Music World Music       |
 |                  5 | Beluga Heights          |
-|                  5 | Bad Boy                 |
+|                  5 | Bad Boy Records         |
 |                  3 | LaFace Records          |
 |                  2 | Wondaland Records       |
 |                  2 | Golden Child Recordings |
@@ -198,9 +198,9 @@
 |                  1 | Downtown Recordings     |
 |                  1 | Def Soul                |
 |                  1 | Castle Communications   |
+|                  1 | Atl                     |
 |                  1 | Arista                  |
 |                  1 | Aftermath Entertainment |
-|                  1 | ATL                     |
 |                  1 | 19 Recordings Limited   |
 
 </details>

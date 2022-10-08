@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273f7da7c0f322b7a1c95190d92" alt="K-Pop" width="100" />
 
-[828 songs](k_pop_tracks.md)
+[831 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -19,9 +19,9 @@
 |                 34 | <img src="https://i.scdn.co/image/ab6761610000e5ebd84fd6ae9ccfc6206ea6711e" alt="" width="50" /> | [TWICE](../artists/twice.md)                         | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 |                 30 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)                 | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 |                 29 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)                             | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
+|                 28 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md)               | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 |                 28 | <img src="https://i.scdn.co/image/ab6761610000e5ebaa28abbc6d04ccd22c8ae3b5" alt="" width="50" /> | [ITZY](../artists/itzy.md)                           | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                 26 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | [IU](../artists/iu.md)                               | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
-|                 25 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md)               | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 |                 24 | <img src="https://i.scdn.co/image/ab6761610000e5ebc54e9b09db7f35f5bbb0efd4" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)                   | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 |                 21 | <img src="https://i.scdn.co/image/ab6761610000e5eb916392fe8c66d0c993657b6d" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md)                     | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 |                 20 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../artists/leehi.md)                         | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
@@ -175,6 +175,7 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2739b57e9b31c831fb2137c38e2" alt="" width="50" /> | Oh! - The Second Album                           | [🔗](https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | Not Shy                                          | [🔗](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="" width="50" /> | NCT 2018 EMPATHY                                 | [🔗](https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | MAXIDENT                                         | [🔗](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | MAP OF THE SOUL : PERSONA                        | [🔗](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2738afcb7dd182cffe8d53b781e" alt="" width="50" /> | MAP OF THE SOUL : 7                              | [🔗](https://open.spotify.com/album/6mJZTV8lCqnwftYZa94bXS) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | Love Yourself 承 'Her'                            | [🔗](https://open.spotify.com/album/2FTS6a6DLXMNp8flyA0HGO) |
@@ -228,7 +229,6 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273ea82cfc115275d25d9750ae1" alt="" width="50" /> | No.1                                             | [🔗](https://open.spotify.com/album/6xSUUpa9LBZYwJFMJOr8M6) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734957fced6061ee536ca618ab" alt="" width="50" /> | NONSTOP                                          | [🔗](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734525dae431a233a077d2395c" alt="" width="50" /> | NCT RESONANCE Pt. 1 - The 2nd Album              | [🔗](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731727feddec43c335453b9252" alt="" width="50" /> | NCT #127 Neo Zone - The 2nd Album                | [🔗](https://open.spotify.com/album/5YOvg682zFOleCiSndLnZr) |
 
 </details>
 
@@ -244,7 +244,7 @@
 |   Number of Tracks | Label                                             |
 |-------------------:|:--------------------------------------------------|
 |                187 | SM Entertainment                                  |
-|                 71 | Republic Records                                  |
+|                 74 | Republic Records                                  |
 |                 64 | YG Entertainment                                  |
 |                 46 | Genie Music Corporation                           |
 |                 45 | Stone Music Entertainment                         |
@@ -253,7 +253,7 @@
 |                 27 | CUBE ENTERTAINMENT                                |
 |                 25 | Universal Music LLC                               |
 |                 25 | RBW Inc.                                          |
-|                 23 | Interscope                                        |
+|                 23 | Interscope Records                                |
 |                 18 | PLEDIS Entertainment                              |
 |                 17 | HYBE                                              |
 |                 16 | BELIFT LAB                                        |
@@ -303,7 +303,7 @@
 |                  2 | TEAM WANG records                                 |
 |                  2 | Sony Music Labels Inc.                            |
 |                  2 | ShowPLAY ENTERTAINMENT                            |
-|                  2 | SWING Entertainment                               |
+|                  2 | SWING ENTERTAINMENT                               |
 |                  2 | Million Market                                    |
 |                  2 | FNC인베스트먼트                                         |
 |                  2 | Capitol Records                                   |

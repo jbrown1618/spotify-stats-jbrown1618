@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b273714e56679ab196354e2e443eab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738c4a282e84a53c1c8acf129a" alt="K-Pop Favorites" width="100" />
 
-[188 songs](k_pop_favorites_tracks.md)
+[190 songs](k_pop_favorites_tracks.md)
 
 ## Top Artists
 
@@ -22,10 +22,10 @@
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5ebaa28abbc6d04ccd22c8ae3b5" alt="" width="50" /> | [ITZY](../artists/itzy.md)                           | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb916392fe8c66d0c993657b6d" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md)                     | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../artists/aespa.md)                         | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
+|                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md)               | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)                     | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5ebc54e9b09db7f35f5bbb0efd4" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)                   | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../artists/leehi.md)                         | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
-|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md)               | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | [CHUNG HA](../artists/chung_ha.md)                   | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../artists/mamamoo.md)                     | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)                             | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
@@ -118,6 +118,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | Windy                                            | [🔗](https://open.spotify.com/album/1lv92CIVZbB2BsHmIx7qJf) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273231a1b74cc820bb632de108c" alt="" width="50" /> | SQUARE ONE                                       | [🔗](https://open.spotify.com/album/0AcFaK32ui9rF2ySEdXrv4) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="" width="50" /> | Palette                                          | [🔗](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | ODDINARY                                         | [🔗](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | NOEASY                                           | [🔗](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="" width="50" /> | Like Water - The 1st Mini Album                  | [🔗](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Girls - The 2nd Mini Album                       | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
@@ -178,7 +179,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737752724657197df65e7c82f9" alt="" width="50" /> | Piano Man                                        | [🔗](https://open.spotify.com/album/1kdURRaOTpDCQqsVIU5CiT) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dad8806d4958b875dd487f6e" alt="" width="50" /> | Paint Me Naked - SM STATION                      | [🔗](https://open.spotify.com/album/4oj5R0SVazc5Eq3WnIC0e6) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736bd4012e2889d22821ab35b0" alt="" width="50" /> | ONLY                                             | [🔗](https://open.spotify.com/album/0uYGAR5pW8P76uOlrOYIMZ) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | ODDINARY                                         | [🔗](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fda74ae03a653f5d84010a79" alt="" width="50" /> | Not Shy                                          | [🔗](https://open.spotify.com/album/0aqu2V5ohKHVfWqVFE7Ila) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737a393b04e8ced571618223e8" alt="" width="50" /> | Next Level                                       | [🔗](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" alt="" width="50" /> | NewJeans 1st EP 'New Jeans'                      | [🔗](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) |
@@ -192,6 +192,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a84d6d77bb01c3bd737c47d7" alt="" width="50" /> | María                                            | [🔗](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d1e7f1a6c2b1756c04ac4382" alt="" width="50" /> | MOTH                                             | [🔗](https://open.spotify.com/album/7JdpeV87hczflCV8GXF3yV) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27325ca38eeeb374883d7652ff0" alt="" width="50" /> | MIROTIC - The 4th Album                          | [🔗](https://open.spotify.com/album/51Wmrzs9O87YlKp2vqDwln) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | MAXIDENT                                         | [🔗](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738afcb7dd182cffe8d53b781e" alt="" width="50" /> | MAP OF THE SOUL : 7                              | [🔗](https://open.spotify.com/album/6mJZTV8lCqnwftYZa94bXS) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" alt="" width="50" /> | MANIFESTO : DAY 1                                | [🔗](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dbb82cf845a6d574224a0d33" alt="" width="50" /> | MAMACITA - The 7th Album                         | [🔗](https://open.spotify.com/album/53i190Z2uGOLljuS3DCvz2) |
@@ -203,11 +204,10 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273bf5f4138ebc9ba3fd6f0cde9" alt="" width="50" /> | Last Fantasy                                     | [🔗](https://open.spotify.com/album/149BHv6qAyMgJ483vPi77C) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f7da7c0f322b7a1c95190d92" alt="" width="50" /> | LOVE SHOT– The 5th Album Repackage               | [🔗](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093" alt="" width="50" /> | LOVE DIVE                                        | [🔗](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c9b98fbe7907de44e57b17ae" alt="" width="50" /> | KWON JI YONG                                     | [🔗](https://open.spotify.com/album/2koSNfchdUxqw1rPJO87aH) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732d56768bc14df3b0b3982efd" alt="" width="50" /> | KWON JI YONG                                     | [🔗](https://open.spotify.com/album/2koSNfchdUxqw1rPJO87aH) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735dcded478bd1a908dbabf05e" alt="" width="50" /> | KILL THIS LOVE                                   | [🔗](https://open.spotify.com/album/7viSsSKXrDa95CtUcuc1Iv) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27337ff46852249bdfc938beefa" alt="" width="50" /> | KAI - The 1st Mini Album                         | [🔗](https://open.spotify.com/album/6xpxMAUhk8hiDTa5zT7F86) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c4763f81c6b01bb32ea3c1d8" alt="" width="50" /> | Je T'aime                                        | [🔗](https://open.spotify.com/album/1RzqZoXe1bf1f48PK20EeH) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27386e407289831b784b58d4c5f" alt="" width="50" /> | It'z Me                                          | [🔗](https://open.spotify.com/album/2gertXS08whDTzBWfmewPO) |
 
 </details>
 
@@ -224,8 +224,8 @@
 |-------------------:|:---------------------------------------|
 |                 57 | SM Entertainment                       |
 |                 20 | YG Entertainment                       |
-|                 13 | Republic Records                       |
-|                  9 | Interscope                             |
+|                 15 | Republic Records                       |
+|                  9 | Interscope Records                     |
 |                  8 | Universal Music LLC                    |
 |                  8 | JYP Entertainment                      |
 |                  7 | RBW Inc.                               |

@@ -181,13 +181,13 @@
 |                  1 | Jive                                 |
 |                  1 | Island Records                       |
 |                  1 | Island Def Jam                       |
-|                  1 | Interscope                           |
+|                  1 | Interscope Records                   |
 |                  1 | EMI Recorded Music Australia Pty Ltd |
 |                  1 | Down Up Down Music                   |
 |                  1 | Def Soul                             |
 |                  1 | Def Jam Recordings                   |
 |                  1 | Def Jam                              |
-|                  1 | Bad Boy                              |
+|                  1 | Bad Boy Records                      |
 |                  1 | ATG                                  |
 
 </details>

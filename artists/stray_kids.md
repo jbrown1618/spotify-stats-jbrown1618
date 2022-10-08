@@ -10,6 +10,7 @@
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------|
 |                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | NOEASY              |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | ODDINARY            |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | MAXIDENT            |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273fad8c4176e8df7173479f959" alt="" width="50" /> | GO LIVE             |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2739f560e8c1cda870ef4eadb43" alt="" width="50" /> | SKZ2020             |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273703093f86fd5c8bd79500610" alt="" width="50" /> | IN LIFE             |
@@ -26,7 +27,7 @@
 
 |   Number of Tracks | Label                  |
 |-------------------:|:-----------------------|
-|                 24 | Republic Records       |
+|                 27 | Republic Records       |
 |                  1 | Sony Music Labels Inc. |
 
 ## Tracks
@@ -58,3 +59,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | Muddy Water (Changbin, Hyunjin, HAN, Felix) | ODDINARY            | Republic Records - Stray Kids | 💚   | [🔗](https://open.spotify.com/track/0oHn3CGVerdfLqIrN6CT42) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d784afd710070b5fe22b99bf" alt="" width="50" /> | CIRCUS                                      | CIRCUS              | Sony Music Labels Inc.        | 💚   | [🔗](https://open.spotify.com/track/2uw2ftfyS4yJLWiTtbxasE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273560f17af6665e85575021bae" alt="" width="50" /> | Mixtape : Time Out                          | Mixtape : Time Out  | Republic Records - Stray Kids |     | [🔗](https://open.spotify.com/track/0OCDOcvQvozjsivREMojzx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | 3RACHA (Bang Chan, Changbin, HAN)           | MAXIDENT            | Republic Records - Stray Kids | 💚   | [🔗](https://open.spotify.com/track/6T4o4xEh61CpgM9v4jG5DJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | CASE 143                                    | MAXIDENT            | Republic Records - Stray Kids | 💚   | [🔗](https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | Give Me Your TMI                            | MAXIDENT            | Republic Records - Stray Kids | 💚   | [🔗](https://open.spotify.com/track/7CQhZA3qNDZBoTKWqjD7gR) |
