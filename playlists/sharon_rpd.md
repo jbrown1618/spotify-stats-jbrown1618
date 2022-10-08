@@ -92,21 +92,21 @@
 <details>
 <summary>See all 13 labels</summary>
 
-|   Number of Tracks | Label                      |
-|-------------------:|:---------------------------|
-|                  5 | SM Entertainment           |
-|                  4 | YG Entertainment           |
-|                  4 | Interscope Records         |
-|                  4 | BIGHIT MUSIC               |
-|                  3 | Starship Entertainment     |
-|                  3 | Republic Records           |
-|                  2 | High Up Entertainment      |
-|                  2 | BELIFT LAB                 |
-|                  1 | THE BLACK LABEL            |
-|                  1 | SOURCE MUSIC               |
-|                  1 | PLEDIS Entertainment       |
-|                  1 | PLAY M ENTERTAINMENT CORP. |
-|                  1 | Genie Music Corporation    |
+|   Number of Tracks | Label                                                                 |
+|-------------------:|:----------------------------------------------------------------------|
+|                  5 | [SM Entertainment](../labels/sm_entertainment.md)                     |
+|                  4 | [YG Entertainment](../labels/yg_entertainment.md)                     |
+|                  4 | [Interscope](../labels/interscope.md)                                 |
+|                  4 | [BIGHIT MUSIC](../labels/bighit_music.md)                             |
+|                  3 | [Starship Entertainment](../labels/starship_entertainment.md)         |
+|                  3 | [Republic Records](../labels/republic_records.md)                     |
+|                  2 | [High Up Entertainment](../labels/high_up_entertainment.md)           |
+|                  2 | [BELIFT LAB](../labels/belift_lab.md)                                 |
+|                  1 | [THE BLACK LABEL](../labels/the_black_label.md)                       |
+|                  1 | [SOURCE MUSIC](../labels/source_music.md)                             |
+|                  1 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)             |
+|                  1 | [PLAY M ENTERTAINMENT CORP.](../labels/play_m_entertainment_corp_.md) |
+|                  1 | [Genie Music Corporation](../labels/genie_music_corporation.md)       |
 
 </details>
 

@@ -238,45 +238,45 @@
 <details>
 <summary>See all 37 labels</summary>
 
-|   Number of Tracks | Label                                         |
-|-------------------:|:----------------------------------------------|
-|                 59 | Varsity Vocals                                |
-|                 41 | RCA Records Label                             |
-|                 32 | A Cappella Records                            |
-|                 20 | Peter Hollens                                 |
-|                 16 | The Tarpeggios                                |
-|                 12 | One Voice Productions                         |
-|                 12 | Ithacappella                                  |
-|                  9 | The Unc - Chapel Hill Tarpeggios              |
-|                  9 | Option C Records                              |
-|                  9 | Mosaic Whispers                               |
-|                  8 | Vanderbilt Melodores                          |
-|                  8 | UNC Achordants                                |
-|                  7 | Naked Voice Records                           |
-|                  6 | Tar Heel Voices                               |
-|                  5 | The Loreleis                                  |
-|                  5 | Citizen Queen                                 |
-|                  4 | The Nor'easters                               |
-|                  4 | SwingCD                                       |
-|                  4 | 649668 Records DK2                            |
-|                  3 | The Sound Corporation                         |
-|                  3 | The SoCal VoCals                              |
-|                  3 | Sony Music Labels Inc.                        |
-|                  3 | Sony Classical                                |
-|                  2 | world village                                 |
-|                  2 | Voices Only A Cappella                        |
-|                  2 | The University of Rochester Midnight Ramblers |
-|                  2 | The Clef Hangers                              |
-|                  2 | SoCal VoCals                                  |
-|                  2 | Signum Records                                |
-|                  2 | Second Shift a Cappella                       |
-|                  2 | RCA Victor                                    |
-|                  1 | Warner Classics                               |
-|                  1 | Universal Music Division Decca Records France |
-|                  1 | Sonoton Music                                 |
-|                  1 | Signum OMP                                    |
-|                  1 | RCA Victor - Munich                           |
-|                  1 | Loudr                                         |
+|   Number of Tracks | Label                                                                                                       |
+|-------------------:|:------------------------------------------------------------------------------------------------------------|
+|                 59 | [Varsity Vocals](../labels/varsity_vocals.md)                                                               |
+|                 41 | [RCA Records Label](../labels/rca_records_label.md)                                                         |
+|                 32 | [A Cappella Records](../labels/a_cappella_records.md)                                                       |
+|                 20 | [Peter Hollens](../labels/peter_hollens.md)                                                                 |
+|                 16 | [The Tarpeggios](../labels/the_tarpeggios.md)                                                               |
+|                 12 | [One Voice Productions](../labels/one_voice_productions.md)                                                 |
+|                 12 | [Ithacappella](../labels/ithacappella.md)                                                                   |
+|                  9 | [The Unc - Chapel Hill Tarpeggios](../labels/the_unc___chapel_hill_tarpeggios.md)                           |
+|                  9 | [Option C Records](../labels/option_c_records.md)                                                           |
+|                  9 | [Mosaic Whispers](../labels/mosaic_whispers.md)                                                             |
+|                  8 | [Vanderbilt Melodores](../labels/vanderbilt_melodores.md)                                                   |
+|                  8 | [UNC Achordants](../labels/unc_achordants.md)                                                               |
+|                  7 | [Naked Voice Records](../labels/naked_voice_records.md)                                                     |
+|                  6 | [Tar Heel Voices](../labels/tar_heel_voices.md)                                                             |
+|                  5 | [The Loreleis](../labels/the_loreleis.md)                                                                   |
+|                  5 | [Citizen Queen](../labels/citizen_queen.md)                                                                 |
+|                  4 | [The Nor'easters](../labels/the_nor_easters.md)                                                             |
+|                  4 | [SwingCD](../labels/swingcd.md)                                                                             |
+|                  4 | [649668 Records DK2](../labels/649668_records_dk2.md)                                                       |
+|                  3 | [The Sound Corporation](../labels/the_sound_corporation.md)                                                 |
+|                  3 | [The SoCal VoCals](../labels/the_socal_vocals.md)                                                           |
+|                  3 | [Sony Music Labels Inc.](../labels/sony_music_labels_inc_.md)                                               |
+|                  3 | [Sony Classical](../labels/sony_classical.md)                                                               |
+|                  2 | [world village](../labels/world_village.md)                                                                 |
+|                  2 | [Voices Only A Cappella](../labels/voices_only_a_cappella.md)                                               |
+|                  2 | [The University of Rochester Midnight Ramblers](../labels/the_university_of_rochester_midnight_ramblers.md) |
+|                  2 | [The Clef Hangers](../labels/the_clef_hangers.md)                                                           |
+|                  2 | [SoCal VoCals](../labels/socal_vocals.md)                                                                   |
+|                  2 | [Signum Records](../labels/signum_records.md)                                                               |
+|                  2 | [Second Shift a Cappella](../labels/second_shift_a_cappella.md)                                             |
+|                  2 | [RCA Victor](../labels/rca_victor.md)                                                                       |
+|                  1 | [Warner Classics](../labels/warner_classics.md)                                                             |
+|                  1 | [Universal Music Division Decca Records France](../labels/universal_music_division_decca_records_france.md) |
+|                  1 | [Sonoton Music](../labels/sonoton_music.md)                                                                 |
+|                  1 | [Signum OMP](../labels/signum_omp.md)                                                                       |
+|                  1 | [RCA Victor - Munich](../labels/rca_victor___munich.md)                                                     |
+|                  1 | [Loudr](../labels/loudr.md)                                                                                 |
 
 </details>
 

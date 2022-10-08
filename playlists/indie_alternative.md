@@ -206,71 +206,71 @@
 <details>
 <summary>See all 63 labels</summary>
 
-|   Number of Tracks | Label                                |
-|-------------------:|:-------------------------------------|
-|                 21 | Warner Records                       |
-|                 18 | Polydor Records                      |
-|                 15 | Universal-Island Records Ltd.        |
-|                 15 | RCA Records Label                    |
-|                 10 | XL Recordings                        |
-|                  8 | Monkey Puzzle Records                |
-|                  7 | Nettwerk Records                     |
-|                  5 | Lux Finite Music                     |
-|                  4 | Universal Music LLC                  |
-|                  4 | Sire                                 |
-|                  4 | Fueled By Ramen                      |
-|                  4 | Atlantic Records UK                  |
-|                  4 | ATO Records                          |
-|                  3 | Virgin Records                       |
-|                  3 | Steam Powered Giraffe                |
-|                  3 | Sony BMG Music UK                    |
-|                  3 | Relentless                           |
-|                  3 | Columbia                             |
-|                  3 | Canvasback                           |
-|                  3 | Brute                                |
-|                  3 | Beaute                               |
-|                  3 | Atlantic Records                     |
-|                  3 | Atl                                  |
-|                  2 | Spin-Farm Oy                         |
-|                  2 | Saddle Creek                         |
-|                  2 | Phonogenic                           |
-|                  2 | Nuclear Blast Entertainment          |
-|                  2 | Kid Ina Korner                       |
-|                  2 | Interscope Records                   |
-|                  1 | half·alive                           |
-|                  1 | ZAR                                  |
-|                  1 | Wyvern Lingo                         |
-|                  1 | Wolf Tone                            |
-|                  1 | Verve                                |
-|                  1 | Universal Music Division Polydor     |
-|                  1 | UMGRI Interscope                     |
-|                  1 | UMG Recordings                       |
-|                  1 | TVT Records                          |
-|                  1 | Superpop.Co                          |
-|                  1 | Silent Records                       |
-|                  1 | Roadrunner Records                   |
-|                  1 | Riot Games                           |
-|                  1 | Republic Records                     |
-|                  1 | RCA Victor                           |
-|                  1 | Parlophone Denmark                   |
-|                  1 | Not specified                        |
-|                  1 | Metric Music International           |
-|                  1 | Mercury Records                      |
-|                  1 | Megaphonic                           |
-|                  1 | Maverick                             |
-|                  1 | IAMSOUND                             |
-|                  1 | Hear Music                           |
-|                  1 | Grandmono Records                    |
-|                  1 | Giant Little Man                     |
-|                  1 | Flower Army Records                  |
-|                  1 | Epic                                 |
-|                  1 | EMI Recorded Music Australia Pty Ltd |
-|                  1 | EMI                                  |
-|                  1 | Down Up Down Music                   |
-|                  1 | Decca (UMO)                          |
-|                  1 | Capitol Records                      |
-|                  1 | Big Beat Records                     |
-|                  1 | Arista                               |
+|   Number of Tracks | Label                                                                                     |
+|-------------------:|:------------------------------------------------------------------------------------------|
+|                 21 | [Warner Records](../labels/warner_records.md)                                             |
+|                 18 | [Polydor Records](../labels/polydor_records.md)                                           |
+|                 15 | [Universal-Island Records Ltd.](../labels/universal_island_records_ltd_.md)               |
+|                 15 | [RCA Records Label](../labels/rca_records_label.md)                                       |
+|                 10 | [XL Recordings](../labels/xl_recordings.md)                                               |
+|                  8 | [Monkey Puzzle Records](../labels/monkey_puzzle_records.md)                               |
+|                  7 | [Nettwerk Records](../labels/nettwerk_records.md)                                         |
+|                  5 | [Lux Finite Music](../labels/lux_finite_music.md)                                         |
+|                  4 | [Universal Music LLC](../labels/universal_music_llc.md)                                   |
+|                  4 | [Sire](../labels/sire.md)                                                                 |
+|                  4 | [Fueled By Ramen](../labels/fueled_by_ramen.md)                                           |
+|                  4 | [Atlantic Records UK](../labels/atlantic_records_uk.md)                                   |
+|                  4 | [ATO Records](../labels/ato_records.md)                                                   |
+|                  3 | [Virgin Records](../labels/virgin_records.md)                                             |
+|                  3 | [Steam Powered Giraffe](../labels/steam_powered_giraffe.md)                               |
+|                  3 | [Sony BMG Music UK](../labels/sony_bmg_music_uk.md)                                       |
+|                  3 | [Relentless](../labels/relentless.md)                                                     |
+|                  3 | [Columbia](../labels/columbia.md)                                                         |
+|                  3 | [Canvasback](../labels/canvasback.md)                                                     |
+|                  3 | [Brute](../labels/brute.md)                                                               |
+|                  3 | [Beaute](../labels/beaute.md)                                                             |
+|                  3 | [Atlantic Records](../labels/atlantic_records.md)                                         |
+|                  3 | [Atl](../labels/atl.md)                                                                   |
+|                  2 | [Spin-Farm Oy](../labels/spin_farm_oy.md)                                                 |
+|                  2 | [Saddle Creek](../labels/saddle_creek.md)                                                 |
+|                  2 | [Phonogenic](../labels/phonogenic.md)                                                     |
+|                  2 | [Nuclear Blast Entertainment](../labels/nuclear_blast_entertainment.md)                   |
+|                  2 | [Kid Ina Korner](../labels/kid_ina_korner.md)                                             |
+|                  2 | [Interscope](../labels/interscope.md)                                                     |
+|                  1 | [half·alive](../labels/half_alive.md)                                                     |
+|                  1 | [ZAR](../labels/zar.md)                                                                   |
+|                  1 | [Wyvern Lingo](../labels/wyvern_lingo.md)                                                 |
+|                  1 | [Wolf Tone](../labels/wolf_tone.md)                                                       |
+|                  1 | [Verve](../labels/verve.md)                                                               |
+|                  1 | [Universal Music Division Polydor](../labels/universal_music_division_polydor.md)         |
+|                  1 | [UMGRI Interscope](../labels/umgri_interscope.md)                                         |
+|                  1 | [UMG Recordings](../labels/umg_recordings.md)                                             |
+|                  1 | [TVT Records](../labels/tvt_records.md)                                                   |
+|                  1 | [Superpop.Co](../labels/superpop_co.md)                                                   |
+|                  1 | [Silent Records](../labels/silent_records.md)                                             |
+|                  1 | [Roadrunner Records](../labels/roadrunner_records.md)                                     |
+|                  1 | [Riot Games](../labels/riot_games.md)                                                     |
+|                  1 | [Republic Records](../labels/republic_records.md)                                         |
+|                  1 | [RCA Victor](../labels/rca_victor.md)                                                     |
+|                  1 | [Parlophone Denmark](../labels/parlophone_denmark.md)                                     |
+|                  1 | [Not specified](../labels/not_specified.md)                                               |
+|                  1 | [Metric Music International](../labels/metric_music_international.md)                     |
+|                  1 | [Mercury Records](../labels/mercury_records.md)                                           |
+|                  1 | [Megaphonic](../labels/megaphonic.md)                                                     |
+|                  1 | [Maverick](../labels/maverick.md)                                                         |
+|                  1 | [IAMSOUND](../labels/iamsound.md)                                                         |
+|                  1 | [Hear Music](../labels/hear_music.md)                                                     |
+|                  1 | [Grandmono Records](../labels/grandmono_records.md)                                       |
+|                  1 | [Giant Little Man](../labels/giant_little_man.md)                                         |
+|                  1 | [Flower Army Records](../labels/flower_army_records.md)                                   |
+|                  1 | [Epic](../labels/epic.md)                                                                 |
+|                  1 | [EMI Recorded Music Australia Pty Ltd](../labels/emi_recorded_music_australia_pty_ltd.md) |
+|                  1 | [EMI](../labels/emi.md)                                                                   |
+|                  1 | [Down Up Down Music](../labels/down_up_down_music.md)                                     |
+|                  1 | [Decca (UMO)](../labels/decca__umo_.md)                                                   |
+|                  1 | [Capitol Records](../labels/capitol_records.md)                                           |
+|                  1 | [Big Beat Records](../labels/big_beat_records.md)                                         |
+|                  1 | [Arista](../labels/arista.md)                                                             |
 
 </details>
 

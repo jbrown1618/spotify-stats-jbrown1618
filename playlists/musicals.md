@@ -105,14 +105,14 @@
 <details>
 <summary>See all 6 labels</summary>
 
-|   Number of Tracks | Label                           |
-|-------------------:|:--------------------------------|
-|                 46 | Atlantic Records                |
-|                 26 | Polydor Records                 |
-|                 20 | Verve (Adult Contemporary) MC   |
-|                 10 | UMC (Universal Music Catalogue) |
-|                  6 | Epic                            |
-|                  1 | First Night Records             |
+|   Number of Tracks | Label                                                                           |
+|-------------------:|:--------------------------------------------------------------------------------|
+|                 46 | [Atlantic Records](../labels/atlantic_records.md)                               |
+|                 26 | [Polydor Records](../labels/polydor_records.md)                                 |
+|                 20 | [Verve (Adult Contemporary) MC](../labels/verve__adult_contemporary__mc.md)     |
+|                 10 | [UMC (Universal Music Catalogue)](../labels/umc__universal_music_catalogue_.md) |
+|                  6 | [Epic](../labels/epic.md)                                                       |
+|                  1 | [First Night Records](../labels/first_night_records.md)                         |
 
 </details>
 

@@ -54,14 +54,14 @@
 <details>
 <summary>See all 6 labels</summary>
 
-|   Number of Tracks | Label                          |
-|-------------------:|:-------------------------------|
-|                  4 | Daft Life Ltd.                 |
-|                  4 | ADA France                     |
-|                  3 | Lindseystomp Records           |
-|                  2 | Columbia                       |
-|                  1 | SM Entertainment               |
-|                  1 | BMG Rights Management (US) LLC |
+|   Number of Tracks | Label                                                                         |
+|-------------------:|:------------------------------------------------------------------------------|
+|                  4 | [Daft Life Ltd.](../labels/daft_life_ltd_.md)                                 |
+|                  4 | [ADA France](../labels/ada_france.md)                                         |
+|                  3 | [Lindseystomp Records](../labels/lindseystomp_records.md)                     |
+|                  2 | [Columbia](../labels/columbia.md)                                             |
+|                  1 | [SM Entertainment](../labels/sm_entertainment.md)                             |
+|                  1 | [BMG Rights Management (US) LLC](../labels/bmg_rights_management__us__llc.md) |
 
 </details>
 

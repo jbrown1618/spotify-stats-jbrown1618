@@ -135,10 +135,10 @@
 <details>
 <summary>See all 2 labels</summary>
 
-|   Number of Tracks | Label               |
-|-------------------:|:--------------------|
-|                 49 | Walt Disney Records |
-|                  1 | LML Music           |
+|   Number of Tracks | Label                                                   |
+|-------------------:|:--------------------------------------------------------|
+|                 49 | [Walt Disney Records](../labels/walt_disney_records.md) |
+|                  1 | [LML Music](../labels/lml_music.md)                     |
 
 </details>
 

@@ -67,12 +67,12 @@
 <details>
 <summary>See all 4 labels</summary>
 
-|   Number of Tracks | Label                               |
-|-------------------:|:------------------------------------|
-|                 24 | Deutsche Grammophon (DG)            |
-|                 13 | Lso Live                            |
-|                  3 | Decca Music Group Ltd.              |
-|                  1 | Warner Music Group - X5 Music Group |
+|   Number of Tracks | Label                                                                                   |
+|-------------------:|:----------------------------------------------------------------------------------------|
+|                 24 | [Deutsche Grammophon (DG)](../labels/deutsche_grammophon__dg_.md)                       |
+|                 13 | [Lso Live](../labels/lso_live.md)                                                       |
+|                  3 | [Decca Music Group Ltd.](../labels/decca_music_group_ltd_.md)                           |
+|                  1 | [Warner Music Group - X5 Music Group](../labels/warner_music_group___x5_music_group.md) |
 
 </details>
 

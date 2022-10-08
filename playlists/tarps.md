@@ -149,57 +149,57 @@
 <details>
 <summary>See all 49 labels</summary>
 
-|   Number of Tracks | Label                             |
-|-------------------:|:----------------------------------|
-|                  4 | RCA Records Label                 |
-|                  4 | Columbia                          |
-|                  3 | Universal-Island Records Ltd.     |
-|                  3 | EMI Catalogue                     |
-|                  3 | Big Machine Records               |
-|                  2 | XL Recordings                     |
-|                  2 | UNI                               |
-|                  2 | Roc-A-Fella                       |
-|                  2 | MOTOWN                            |
-|                  2 | LaFace Records                    |
-|                  2 | Elektra                           |
-|                  2 | Def Jam Recordings                |
-|                  2 | 19 Recordings Limited             |
-|                  1 | sensibility recordings            |
-|                  1 | Work                              |
-|                  1 | Warner Records                    |
-|                  1 | Vorsicht Musik                    |
-|                  1 | Universal Music LLC               |
-|                  1 | Uncle Buford Records              |
-|                  1 | The Tarpeggios                    |
-|                  1 | Superpop.Co                       |
-|                  1 | Sugar Hill Records                |
-|                  1 | Rhino                             |
-|                  1 | Radiculture                       |
-|                  1 | Polydor Records                   |
-|                  1 | Polar Music International AB      |
-|                  1 | Parlophone Records Limited        |
-|                  1 | Monkey Puzzle Records             |
-|                  1 | Legacy Recordings                 |
-|                  1 | Legacy                            |
-|                  1 | Jive                              |
-|                  1 | J Records                         |
-|                  1 | Island Records                    |
-|                  1 | Interscope Records                |
-|                  1 | Hollywood Records                 |
-|                  1 | Glassnote Entertainment Group LLC |
-|                  1 | Geffen                            |
-|                  1 | G.O.O.D. Music                    |
-|                  1 | FRANK SINATRA DIGITAL REPRISE     |
-|                  1 | Epic                              |
-|                  1 | Downtown Recordings               |
-|                  1 | Def Soul                          |
-|                  1 | Big Machine Label Group           |
-|                  1 | Atlantic Records                  |
-|                  1 | Atl                               |
-|                  1 | Arista Nashville                  |
-|                  1 | Arista                            |
-|                  1 | ATG                               |
-|                  1 | A&M                               |
+|   Number of Tracks | Label                                                                               |
+|-------------------:|:------------------------------------------------------------------------------------|
+|                  4 | [RCA Records Label](../labels/rca_records_label.md)                                 |
+|                  4 | [Columbia](../labels/columbia.md)                                                   |
+|                  3 | [Universal-Island Records Ltd.](../labels/universal_island_records_ltd_.md)         |
+|                  3 | [EMI Catalogue](../labels/emi_catalogue.md)                                         |
+|                  3 | [Big Machine Records](../labels/big_machine_records.md)                             |
+|                  2 | [XL Recordings](../labels/xl_recordings.md)                                         |
+|                  2 | [UNI](../labels/uni.md)                                                             |
+|                  2 | [Roc-A-Fella](../labels/roc_a_fella.md)                                             |
+|                  2 | [MOTOWN](../labels/motown.md)                                                       |
+|                  2 | [LaFace Records](../labels/laface_records.md)                                       |
+|                  2 | [Elektra](../labels/elektra.md)                                                     |
+|                  2 | [Def Jam Recordings](../labels/def_jam_recordings.md)                               |
+|                  2 | [19 Recordings Limited](../labels/19_recordings_limited.md)                         |
+|                  1 | [Work](../labels/work.md)                                                           |
+|                  1 | [Warner Records](../labels/warner_records.md)                                       |
+|                  1 | [Vorsicht Musik](../labels/vorsicht_musik.md)                                       |
+|                  1 | [Universal Music LLC](../labels/universal_music_llc.md)                             |
+|                  1 | [Uncle Buford Records](../labels/uncle_buford_records.md)                           |
+|                  1 | [The Tarpeggios](../labels/the_tarpeggios.md)                                       |
+|                  1 | [Superpop.Co](../labels/superpop_co.md)                                             |
+|                  1 | [Sugar Hill Records](../labels/sugar_hill_records.md)                               |
+|                  1 | [Sensibility Recordings](../labels/sensibility_recordings.md)                       |
+|                  1 | [Rhino](../labels/rhino.md)                                                         |
+|                  1 | [Radiculture](../labels/radiculture.md)                                             |
+|                  1 | [Polydor Records](../labels/polydor_records.md)                                     |
+|                  1 | [Polar Music International AB](../labels/polar_music_international_ab.md)           |
+|                  1 | [Parlophone Records Limited](../labels/parlophone_records_limited.md)               |
+|                  1 | [Monkey Puzzle Records](../labels/monkey_puzzle_records.md)                         |
+|                  1 | [Legacy Recordings](../labels/legacy_recordings.md)                                 |
+|                  1 | [Legacy](../labels/legacy.md)                                                       |
+|                  1 | [Jive](../labels/jive.md)                                                           |
+|                  1 | [J Records](../labels/j_records.md)                                                 |
+|                  1 | [Island Records](../labels/island_records.md)                                       |
+|                  1 | [Interscope](../labels/interscope.md)                                               |
+|                  1 | [Hollywood Records](../labels/hollywood_records.md)                                 |
+|                  1 | [Glassnote Entertainment Group LLC](../labels/glassnote_entertainment_group_llc.md) |
+|                  1 | [Geffen](../labels/geffen.md)                                                       |
+|                  1 | [G.O.O.D. Music](../labels/g_o_o_d__music.md)                                       |
+|                  1 | [FRANK SINATRA DIGITAL REPRISE](../labels/frank_sinatra_digital_reprise.md)         |
+|                  1 | [Epic](../labels/epic.md)                                                           |
+|                  1 | [Downtown Recordings](../labels/downtown_recordings.md)                             |
+|                  1 | [Def Soul](../labels/def_soul.md)                                                   |
+|                  1 | [Big Machine Label Group](../labels/big_machine_label_group.md)                     |
+|                  1 | [Atlantic Records](../labels/atlantic_records.md)                                   |
+|                  1 | [Atl](../labels/atl.md)                                                             |
+|                  1 | [Arista Nashville](../labels/arista_nashville.md)                                   |
+|                  1 | [Arista](../labels/arista.md)                                                       |
+|                  1 | [ATG](../labels/atg.md)                                                             |
+|                  1 | [A&M](../labels/a_m.md)                                                             |
 
 </details>
 

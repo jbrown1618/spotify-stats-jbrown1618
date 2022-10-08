@@ -64,11 +64,11 @@
 <details>
 <summary>See all 3 labels</summary>
 
-|   Number of Tracks | Label                    |
-|-------------------:|:-------------------------|
-|                151 | harmonia mundi           |
-|                 16 | Deutsche Grammophon (DG) |
-|                 12 | Channel Classics Records |
+|   Number of Tracks | Label                                                             |
+|-------------------:|:------------------------------------------------------------------|
+|                151 | [harmonia mundi](../labels/harmonia_mundi.md)                     |
+|                 16 | [Deutsche Grammophon (DG)](../labels/deutsche_grammophon__dg_.md) |
+|                 12 | [Channel Classics Records](../labels/channel_classics_records.md) |
 
 </details>
 

@@ -80,20 +80,20 @@
 <details>
 <summary>See all 12 labels</summary>
 
-|   Number of Tracks | Label                         |
-|-------------------:|:------------------------------|
-|                 12 | Reprise                       |
-|                 10 | 143                           |
-|                  5 | Linus Entertainment Inc.      |
-|                  5 | FRANK SINATRA DIGITAL REPRISE |
-|                  3 | Capitol Records               |
-|                  2 | Craft Recordings              |
-|                  1 | Universal Music LLC           |
-|                  1 | UME - Global Clearing House   |
-|                  1 | Private Curve                 |
-|                  1 | Parlophone (France)           |
-|                  1 | Grandmono Records             |
-|                  1 | Fuzzy Door Productions        |
+|   Number of Tracks | Label                                                                       |
+|-------------------:|:----------------------------------------------------------------------------|
+|                 12 | [Reprise](../labels/reprise.md)                                             |
+|                 10 | [143](../labels/143.md)                                                     |
+|                  5 | [Linus Entertainment Inc.](../labels/linus_entertainment_inc_.md)           |
+|                  5 | [FRANK SINATRA DIGITAL REPRISE](../labels/frank_sinatra_digital_reprise.md) |
+|                  3 | [Capitol Records](../labels/capitol_records.md)                             |
+|                  2 | [Craft Recordings](../labels/craft_recordings.md)                           |
+|                  1 | [Universal Music LLC](../labels/universal_music_llc.md)                     |
+|                  1 | [UME - Global Clearing House](../labels/ume___global_clearing_house.md)     |
+|                  1 | [Private Curve](../labels/private_curve.md)                                 |
+|                  1 | [Parlophone (France)](../labels/parlophone__france_.md)                     |
+|                  1 | [Grandmono Records](../labels/grandmono_records.md)                         |
+|                  1 | [Fuzzy Door Productions](../labels/fuzzy_door_productions.md)               |
 
 </details>
 

@@ -71,24 +71,24 @@
 <details>
 <summary>See all 16 labels</summary>
 
-|   Number of Tracks | Label                             |
-|-------------------:|:----------------------------------|
-|                  6 | Columbia                          |
-|                  5 | Sugar Hill Records                |
-|                  5 | Sire                              |
-|                  5 | Glassnote Entertainment Group LLC |
-|                  4 | sensibility recordings            |
-|                  4 | Arista Nashville                  |
-|                  4 | 19 Recordings Limited             |
-|                  3 | Open Wide                         |
-|                  3 | Big Machine Label Group           |
-|                  2 | Monument                          |
-|                  2 | Columbia Nashville Legacy         |
-|                  1 | Nonesuch                          |
-|                  1 | Legacy                            |
-|                  1 | Island Records                    |
-|                  1 | Arista                            |
-|                  1 | American Recordings Catalog P&D   |
+|   Number of Tracks | Label                                                                               |
+|-------------------:|:------------------------------------------------------------------------------------|
+|                  6 | [Columbia](../labels/columbia.md)                                                   |
+|                  5 | [Sugar Hill Records](../labels/sugar_hill_records.md)                               |
+|                  5 | [Sire](../labels/sire.md)                                                           |
+|                  5 | [Glassnote Entertainment Group LLC](../labels/glassnote_entertainment_group_llc.md) |
+|                  4 | [Sensibility Recordings](../labels/sensibility_recordings.md)                       |
+|                  4 | [Arista Nashville](../labels/arista_nashville.md)                                   |
+|                  4 | [19 Recordings Limited](../labels/19_recordings_limited.md)                         |
+|                  3 | [Open Wide](../labels/open_wide.md)                                                 |
+|                  3 | [Big Machine Label Group](../labels/big_machine_label_group.md)                     |
+|                  2 | [Monument](../labels/monument.md)                                                   |
+|                  2 | [Columbia Nashville Legacy](../labels/columbia_nashville_legacy.md)                 |
+|                  1 | [Nonesuch](../labels/nonesuch.md)                                                   |
+|                  1 | [Legacy](../labels/legacy.md)                                                       |
+|                  1 | [Island Records](../labels/island_records.md)                                       |
+|                  1 | [Arista](../labels/arista.md)                                                       |
+|                  1 | [American Recordings Catalog P&D](../labels/american_recordings_catalog_p_d.md)     |
 
 </details>
 

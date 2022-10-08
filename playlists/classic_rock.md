@@ -133,31 +133,31 @@
 <details>
 <summary>See all 23 labels</summary>
 
-|   Number of Tracks | Label                           |
-|-------------------:|:--------------------------------|
-|                 30 | EMI Catalogue                   |
-|                 14 | Rhino                           |
-|                 14 | Hollywood Records               |
-|                 13 | Warner Records                  |
-|                  7 | Columbia                        |
-|                  6 | Legacy                          |
-|                  3 | Geffen                          |
-|                  3 | Atlantic Records                |
-|                  3 | A&M                             |
-|                  2 | UMC (Universal Music Catalogue) |
-|                  2 | Polydor Records                 |
-|                  2 | Epic                            |
-|                  2 | Elektra                         |
-|                  2 | Blackened Recordings            |
-|                  2 | ABKCO Music and Records         |
-|                  1 | Volcano                         |
-|                  1 | Sanctuary Records               |
-|                  1 | Rhino Atlantic                  |
-|                  1 | Reprise                         |
-|                  1 | Relapse Records                 |
-|                  1 | Guns N Roses P&D                |
-|                  1 | CAPITOL CATALOG MKT (C92)       |
-|                  1 | American Recordings Catalog P&D |
+|   Number of Tracks | Label                                                                           |
+|-------------------:|:--------------------------------------------------------------------------------|
+|                 30 | [EMI Catalogue](../labels/emi_catalogue.md)                                     |
+|                 14 | [Rhino](../labels/rhino.md)                                                     |
+|                 14 | [Hollywood Records](../labels/hollywood_records.md)                             |
+|                 13 | [Warner Records](../labels/warner_records.md)                                   |
+|                  7 | [Columbia](../labels/columbia.md)                                               |
+|                  6 | [Legacy](../labels/legacy.md)                                                   |
+|                  3 | [Geffen](../labels/geffen.md)                                                   |
+|                  3 | [Atlantic Records](../labels/atlantic_records.md)                               |
+|                  3 | [A&M](../labels/a_m.md)                                                         |
+|                  2 | [UMC (Universal Music Catalogue)](../labels/umc__universal_music_catalogue_.md) |
+|                  2 | [Polydor Records](../labels/polydor_records.md)                                 |
+|                  2 | [Epic](../labels/epic.md)                                                       |
+|                  2 | [Elektra](../labels/elektra.md)                                                 |
+|                  2 | [Blackened Recordings](../labels/blackened_recordings.md)                       |
+|                  2 | [ABKCO Music and Records](../labels/abkco_music_and_records.md)                 |
+|                  1 | [Volcano](../labels/volcano.md)                                                 |
+|                  1 | [Sanctuary Records](../labels/sanctuary_records.md)                             |
+|                  1 | [Rhino Atlantic](../labels/rhino_atlantic.md)                                   |
+|                  1 | [Reprise](../labels/reprise.md)                                                 |
+|                  1 | [Relapse Records](../labels/relapse_records.md)                                 |
+|                  1 | [Guns N Roses P&D](../labels/guns_n_roses_p_d.md)                               |
+|                  1 | [CAPITOL CATALOG MKT (C92)](../labels/capitol_catalog_mkt__c92_.md)             |
+|                  1 | [American Recordings Catalog P&D](../labels/american_recordings_catalog_p_d.md) |
 
 </details>
 

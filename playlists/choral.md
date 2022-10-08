@@ -106,21 +106,21 @@
 <details>
 <summary>See all 13 labels</summary>
 
-|   Number of Tracks | Label                         |
-|-------------------:|:------------------------------|
-|                 22 | Decca Music Group Ltd.        |
-|                 14 | UME - Global Clearing House   |
-|                  8 | SUPRAPHON a.s.                |
-|                  8 | Decca (UMO)                   |
-|                  4 | Warner Classics               |
-|                  3 | Conifer Classics              |
-|                  3 | Carus                         |
-|                  1 | harmonia mundi                |
-|                  1 | Warner Classics International |
-|                  1 | Signum Records                |
-|                  1 | SPEKTRAL                      |
-|                  1 | Delos                         |
-|                  1 | Chanticleer Records           |
+|   Number of Tracks | Label                                                                       |
+|-------------------:|:----------------------------------------------------------------------------|
+|                 22 | [Decca Music Group Ltd.](../labels/decca_music_group_ltd_.md)               |
+|                 14 | [UME - Global Clearing House](../labels/ume___global_clearing_house.md)     |
+|                  8 | [SUPRAPHON a.s.](../labels/supraphon_a_s_.md)                               |
+|                  8 | [Decca (UMO)](../labels/decca__umo_.md)                                     |
+|                  4 | [Warner Classics](../labels/warner_classics.md)                             |
+|                  3 | [Conifer Classics](../labels/conifer_classics.md)                           |
+|                  3 | [Carus](../labels/carus.md)                                                 |
+|                  1 | [harmonia mundi](../labels/harmonia_mundi.md)                               |
+|                  1 | [Warner Classics International](../labels/warner_classics_international.md) |
+|                  1 | [Signum Records](../labels/signum_records.md)                               |
+|                  1 | [SPEKTRAL](../labels/spektral.md)                                           |
+|                  1 | [Delos](../labels/delos.md)                                                 |
+|                  1 | [Chanticleer Records](../labels/chanticleer_records.md)                     |
 
 </details>
 

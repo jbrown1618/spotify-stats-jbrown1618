@@ -153,43 +153,43 @@
 <details>
 <summary>See all 35 labels</summary>
 
-|   Number of Tracks | Label                                         |
-|-------------------:|:----------------------------------------------|
-|                 61 | Epic                                          |
-|                 28 | Big Machine Records                           |
-|                 23 | Columbia                                      |
-|                 21 | Taylor Swift                                  |
-|                 18 | Polydor Records                               |
-|                  9 | Warner Records                                |
-|                  9 | Rhino                                         |
-|                  7 | Virgin Records                                |
-|                  7 | Universal (MT)                                |
-|                  7 | Nettwerk Records                              |
-|                  4 | Universal Music LLC                           |
-|                  4 | Sire                                          |
-|                  4 | RCA Records Label                             |
-|                  4 | Legacy                                        |
-|                  4 | EMI                                           |
-|                  3 | UMC (Universal Music Catalogue)               |
-|                  3 | Sony BMG Music UK                             |
-|                  3 | Capitol Records                               |
-|                  2 | Ode                                           |
-|                  2 | Island Def Jam                                |
-|                  2 | Atlantic Records                              |
-|                  2 | ATG                                           |
-|                  1 | under exclusive license to Interscope Records |
-|                  1 | Wyvern Lingo                                  |
-|                  1 | Work                                          |
-|                  1 | Universal Music Division Polydor              |
-|                  1 | RCA Victor                                    |
-|                  1 | Private Music                                 |
-|                  1 | Gracie Abrams                                 |
-|                  1 | Flower Army Records                           |
-|                  1 | Elektra                                       |
-|                  1 | Clean Slate                                   |
-|                  1 | Carrie Manolakos                              |
-|                  1 | Atlantic Records UK                           |
-|                  1 | ATO Records                                   |
+|   Number of Tracks | Label                                                                                                       |
+|-------------------:|:------------------------------------------------------------------------------------------------------------|
+|                 61 | [Epic](../labels/epic.md)                                                                                   |
+|                 28 | [Big Machine Records](../labels/big_machine_records.md)                                                     |
+|                 23 | [Columbia](../labels/columbia.md)                                                                           |
+|                 21 | [Taylor Swift](../labels/taylor_swift.md)                                                                   |
+|                 18 | [Polydor Records](../labels/polydor_records.md)                                                             |
+|                  9 | [Warner Records](../labels/warner_records.md)                                                               |
+|                  9 | [Rhino](../labels/rhino.md)                                                                                 |
+|                  7 | [Virgin Records](../labels/virgin_records.md)                                                               |
+|                  7 | [Universal (MT)](../labels/universal__mt_.md)                                                               |
+|                  7 | [Nettwerk Records](../labels/nettwerk_records.md)                                                           |
+|                  4 | [Universal Music LLC](../labels/universal_music_llc.md)                                                     |
+|                  4 | [Sire](../labels/sire.md)                                                                                   |
+|                  4 | [RCA Records Label](../labels/rca_records_label.md)                                                         |
+|                  4 | [Legacy](../labels/legacy.md)                                                                               |
+|                  4 | [EMI](../labels/emi.md)                                                                                     |
+|                  3 | [UMC (Universal Music Catalogue)](../labels/umc__universal_music_catalogue_.md)                             |
+|                  3 | [Sony BMG Music UK](../labels/sony_bmg_music_uk.md)                                                         |
+|                  3 | [Capitol Records](../labels/capitol_records.md)                                                             |
+|                  2 | [Ode](../labels/ode.md)                                                                                     |
+|                  2 | [Island Def Jam](../labels/island_def_jam.md)                                                               |
+|                  2 | [Atlantic Records](../labels/atlantic_records.md)                                                           |
+|                  2 | [ATG](../labels/atg.md)                                                                                     |
+|                  1 | [under exclusive license to Interscope Records](../labels/under_exclusive_license_to_interscope_records.md) |
+|                  1 | [Wyvern Lingo](../labels/wyvern_lingo.md)                                                                   |
+|                  1 | [Work](../labels/work.md)                                                                                   |
+|                  1 | [Universal Music Division Polydor](../labels/universal_music_division_polydor.md)                           |
+|                  1 | [RCA Victor](../labels/rca_victor.md)                                                                       |
+|                  1 | [Private Music](../labels/private_music.md)                                                                 |
+|                  1 | [Gracie Abrams](../labels/gracie_abrams.md)                                                                 |
+|                  1 | [Flower Army Records](../labels/flower_army_records.md)                                                     |
+|                  1 | [Elektra](../labels/elektra.md)                                                                             |
+|                  1 | [Clean Slate](../labels/clean_slate.md)                                                                     |
+|                  1 | [Carrie Manolakos](../labels/carrie_manolakos.md)                                                           |
+|                  1 | [Atlantic Records UK](../labels/atlantic_records_uk.md)                                                     |
+|                  1 | [ATO Records](../labels/ato_records.md)                                                                     |
 
 </details>
 

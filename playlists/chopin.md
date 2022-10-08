@@ -57,13 +57,13 @@
 <details>
 <summary>See all 5 labels</summary>
 
-|   Number of Tracks | Label                    |
-|-------------------:|:-------------------------|
-|                102 | Decca Music Group Ltd.   |
-|                 53 | Deutsche Grammophon (DG) |
-|                 15 | The Music Factory        |
-|                  1 | Onyx Classics            |
-|                  1 | DOREMI                   |
+|   Number of Tracks | Label                                                             |
+|-------------------:|:------------------------------------------------------------------|
+|                102 | [Decca Music Group Ltd.](../labels/decca_music_group_ltd_.md)     |
+|                 53 | [Deutsche Grammophon (DG)](../labels/deutsche_grammophon__dg_.md) |
+|                 15 | [The Music Factory](../labels/the_music_factory.md)               |
+|                  1 | [Onyx Classics](../labels/onyx_classics.md)                       |
+|                  1 | [DOREMI](../labels/doremi.md)                                     |
 
 </details>
 

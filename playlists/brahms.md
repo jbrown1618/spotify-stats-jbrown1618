@@ -48,10 +48,10 @@
 <details>
 <summary>See all 2 labels</summary>
 
-|   Number of Tracks | Label                    |
-|-------------------:|:-------------------------|
-|                 16 | Warner Classics UK       |
-|                 16 | Deutsche Grammophon (DG) |
+|   Number of Tracks | Label                                                             |
+|-------------------:|:------------------------------------------------------------------|
+|                 16 | [Warner Classics UK](../labels/warner_classics_uk.md)             |
+|                 16 | [Deutsche Grammophon (DG)](../labels/deutsche_grammophon__dg_.md) |
 
 </details>
 

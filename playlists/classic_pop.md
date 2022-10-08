@@ -114,33 +114,33 @@
 <details>
 <summary>See all 25 labels</summary>
 
-|   Number of Tracks | Label                           |
-|-------------------:|:--------------------------------|
-|                 13 | MOTOWN                          |
-|                 10 | Epic                            |
-|                  8 | UNI                             |
-|                  6 | Columbia                        |
-|                  4 | Warner Records                  |
-|                  4 | Legacy                          |
-|                  3 | UMC (Universal Music Catalogue) |
-|                  3 | EMI                             |
-|                  2 | Rhino                           |
-|                  2 | Columbia Nashville Legacy       |
-|                  1 | Vorsicht Musik                  |
-|                  1 | Sony Music Entertainment        |
-|                  1 | Sony Music CG                   |
-|                  1 | Ron Dante                       |
-|                  1 | Rhino Atlantic                  |
-|                  1 | RCA Records Label               |
-|                  1 | Polydor Records                 |
-|                  1 | Ode                             |
-|                  1 | Legacy Recordings               |
-|                  1 | Elektra                         |
-|                  1 | Castle Communications           |
-|                  1 | Capitol Records                 |
-|                  1 | CAPITOL CATALOG MKT (C92)       |
-|                  1 | Bee Gees Catalog                |
-|                  1 | A&M                             |
+|   Number of Tracks | Label                                                                           |
+|-------------------:|:--------------------------------------------------------------------------------|
+|                 13 | [MOTOWN](../labels/motown.md)                                                   |
+|                 10 | [Epic](../labels/epic.md)                                                       |
+|                  8 | [UNI](../labels/uni.md)                                                         |
+|                  6 | [Columbia](../labels/columbia.md)                                               |
+|                  4 | [Warner Records](../labels/warner_records.md)                                   |
+|                  4 | [Legacy](../labels/legacy.md)                                                   |
+|                  3 | [UMC (Universal Music Catalogue)](../labels/umc__universal_music_catalogue_.md) |
+|                  3 | [EMI](../labels/emi.md)                                                         |
+|                  2 | [Rhino](../labels/rhino.md)                                                     |
+|                  2 | [Columbia Nashville Legacy](../labels/columbia_nashville_legacy.md)             |
+|                  1 | [Vorsicht Musik](../labels/vorsicht_musik.md)                                   |
+|                  1 | [Sony Music Entertainment](../labels/sony_music_entertainment.md)               |
+|                  1 | [Sony Music CG](../labels/sony_music_cg.md)                                     |
+|                  1 | [Ron Dante](../labels/ron_dante.md)                                             |
+|                  1 | [Rhino Atlantic](../labels/rhino_atlantic.md)                                   |
+|                  1 | [RCA Records Label](../labels/rca_records_label.md)                             |
+|                  1 | [Polydor Records](../labels/polydor_records.md)                                 |
+|                  1 | [Ode](../labels/ode.md)                                                         |
+|                  1 | [Legacy Recordings](../labels/legacy_recordings.md)                             |
+|                  1 | [Elektra](../labels/elektra.md)                                                 |
+|                  1 | [Castle Communications](../labels/castle_communications.md)                     |
+|                  1 | [Capitol Records](../labels/capitol_records.md)                                 |
+|                  1 | [CAPITOL CATALOG MKT (C92)](../labels/capitol_catalog_mkt__c92_.md)             |
+|                  1 | [Bee Gees Catalog](../labels/bee_gees_catalog.md)                               |
+|                  1 | [A&M](../labels/a_m.md)                                                         |
 
 </details>
 

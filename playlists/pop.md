@@ -241,108 +241,108 @@
 <details>
 <summary>See top 100 labels</summary>
 
-|   Number of Tracks | Label                                         |
-|-------------------:|:----------------------------------------------|
-|                 30 | Interscope Records                            |
-|                 29 | Big Machine Records                           |
-|                 27 | RCA Records Label                             |
-|                 23 | Columbia                                      |
-|                 21 | Taylor Swift                                  |
-|                 21 | Atlantic Records                              |
-|                 18 | Warner Records                                |
-|                 18 | Epic                                          |
-|                 15 | Republic Records                              |
-|                 14 | Jive                                          |
-|                 13 | Universal Music LLC                           |
-|                 10 | Syco Music                                    |
-|                 10 | Def Jam Recordings                            |
-|                 10 | Darkroom                                      |
-|                  9 | Capitol Records                               |
-|                  8 | Polydor Records                               |
-|                  8 | Monkey Puzzle Records                         |
-|                  6 | XL Recordings                                 |
-|                  6 | Island Records                                |
-|                  5 | Beluga Heights                                |
-|                  5 | Bad Boy Records                               |
-|                  4 | Kemosabe Records                              |
-|                  4 | Atlantic Records UK                           |
-|                  3 | Universal-Island Records Ltd.                 |
-|                  3 | Parlophone UK                                 |
-|                  3 | Parlophone Records Limited                    |
-|                  3 | Olivia Rodrigo PS                             |
-|                  3 | LaFace Records                                |
-|                  3 | Island UK                                     |
-|                  3 | Fueled By Ramen                               |
-|                  3 | Casablanca Records                            |
-|                  2 | Wondaland Records                             |
-|                  2 | Reprise                                       |
-|                  2 | Radiculture                                   |
-|                  2 | Phonogenic                                    |
-|                  2 | Nicki Minaj                                   |
-|                  2 | Nice Life                                     |
-|                  2 | Mosley                                        |
-|                  2 | Lava Music                                    |
-|                  2 | Kid Ina Korner                                |
-|                  2 | KSR                                           |
-|                  2 | Island Def Jam                                |
-|                  2 | Hollywood Records                             |
-|                  2 | Golden Child Recordings                       |
-|                  2 | G.O.O.D. Music                                |
-|                  2 | Elektra (NEK)                                 |
-|                  2 | Elektra                                       |
-|                  2 | Cash Money                                    |
-|                  2 | Artist Partner                                |
-|                  2 | ATG                                           |
-|                  2 | A Star is Born OST                            |
-|                  2 | 143                                           |
-|                  1 | under exclusive license to Interscope Records |
-|                  1 | half·alive                                    |
-|                  1 | ZAR                                           |
-|                  1 | Wolf Tone                                     |
-|                  1 | Warner Bros.                                  |
-|                  1 | VÉRITÉ                                        |
-|                  1 | Universal Music New Zealand Limited           |
-|                  1 | Universal Music Latino                        |
-|                  1 | Universal Music Group                         |
-|                  1 | UMLE                                          |
-|                  1 | UMG Recordings                                |
-|                  1 | Teleport Records                              |
-|                  1 | Stones Throw Records                          |
-|                  1 | Spinnin' Records                              |
-|                  1 | Sony Music UK                                 |
-|                  1 | Silver Cloud                                  |
-|                  1 | Silent Records IGA                            |
-|                  1 | Silent Records                                |
-|                  1 | Shawn Mendes LP4-5 PS                         |
-|                  1 | Selena Gomez PS                               |
-|                  1 | Ron Dante                                     |
-|                  1 | Roc Nation                                    |
-|                  1 | Rihanna                                       |
-|                  1 | Red Zone Entertainment                        |
-|                  1 | RVG                                           |
-|                  1 | RBMG                                          |
-|                  1 | Private Music                                 |
-|                  1 | OWSLA                                         |
-|                  1 | Nu America Music                              |
-|                  1 | NEON16                                        |
-|                  1 | Mockingjay                                    |
-|                  1 | Latium                                        |
-|                  1 | Jonas Brothers Recording                      |
-|                  1 | JVKE                                          |
-|                  1 | JOYFACE Records                               |
-|                  1 | IDJ                                           |
-|                  1 | Hunger Games 3                                |
-|                  1 | H 3 F                                         |
-|                  1 | Gracie Abrams                                 |
-|                  1 | Giant Little Man                              |
-|                  1 | Friends Keep Secrets                          |
-|                  1 | Fez's Finest                                  |
-|                  1 | FSF                                           |
-|                  1 | Epic Amsterdam                                |
-|                  1 | EMPIRE                                        |
-|                  1 | EMI Recorded Music Australia Pty Ltd          |
-|                  1 | Downtown Recordings                           |
-|                  1 | Def Jam                                       |
+|   Number of Tracks | Label                                                                                                       |
+|-------------------:|:------------------------------------------------------------------------------------------------------------|
+|                 30 | [Interscope](../labels/interscope.md)                                                                       |
+|                 29 | [Big Machine Records](../labels/big_machine_records.md)                                                     |
+|                 27 | [RCA Records Label](../labels/rca_records_label.md)                                                         |
+|                 23 | [Columbia](../labels/columbia.md)                                                                           |
+|                 21 | [Taylor Swift](../labels/taylor_swift.md)                                                                   |
+|                 21 | [Atlantic Records](../labels/atlantic_records.md)                                                           |
+|                 18 | [Warner Records](../labels/warner_records.md)                                                               |
+|                 18 | [Epic](../labels/epic.md)                                                                                   |
+|                 15 | [Republic Records](../labels/republic_records.md)                                                           |
+|                 14 | [Jive](../labels/jive.md)                                                                                   |
+|                 13 | [Universal Music LLC](../labels/universal_music_llc.md)                                                     |
+|                 10 | [Syco Music](../labels/syco_music.md)                                                                       |
+|                 10 | [Def Jam Recordings](../labels/def_jam_recordings.md)                                                       |
+|                 10 | [Darkroom](../labels/darkroom.md)                                                                           |
+|                  9 | [Capitol Records](../labels/capitol_records.md)                                                             |
+|                  8 | [Polydor Records](../labels/polydor_records.md)                                                             |
+|                  8 | [Monkey Puzzle Records](../labels/monkey_puzzle_records.md)                                                 |
+|                  6 | [XL Recordings](../labels/xl_recordings.md)                                                                 |
+|                  6 | [Island Records](../labels/island_records.md)                                                               |
+|                  5 | [Beluga Heights](../labels/beluga_heights.md)                                                               |
+|                  5 | [Bad Boy Records](../labels/bad_boy_records.md)                                                             |
+|                  4 | [Kemosabe Records](../labels/kemosabe_records.md)                                                           |
+|                  4 | [Atlantic Records UK](../labels/atlantic_records_uk.md)                                                     |
+|                  3 | [Universal-Island Records Ltd.](../labels/universal_island_records_ltd_.md)                                 |
+|                  3 | [Parlophone UK](../labels/parlophone_uk.md)                                                                 |
+|                  3 | [Parlophone Records Limited](../labels/parlophone_records_limited.md)                                       |
+|                  3 | [Olivia Rodrigo PS](../labels/olivia_rodrigo_ps.md)                                                         |
+|                  3 | [LaFace Records](../labels/laface_records.md)                                                               |
+|                  3 | [Island UK](../labels/island_uk.md)                                                                         |
+|                  3 | [Fueled By Ramen](../labels/fueled_by_ramen.md)                                                             |
+|                  3 | [Casablanca Records](../labels/casablanca_records.md)                                                       |
+|                  2 | [Wondaland](../labels/wondaland.md)                                                                         |
+|                  2 | [Reprise](../labels/reprise.md)                                                                             |
+|                  2 | [Radiculture](../labels/radiculture.md)                                                                     |
+|                  2 | [Phonogenic](../labels/phonogenic.md)                                                                       |
+|                  2 | [Nicki Minaj](../labels/nicki_minaj.md)                                                                     |
+|                  2 | [Nice Life](../labels/nice_life.md)                                                                         |
+|                  2 | [Mosley](../labels/mosley.md)                                                                               |
+|                  2 | [Lava Music](../labels/lava_music.md)                                                                       |
+|                  2 | [Kid Ina Korner](../labels/kid_ina_korner.md)                                                               |
+|                  2 | [KSR](../labels/ksr.md)                                                                                     |
+|                  2 | [Island Def Jam](../labels/island_def_jam.md)                                                               |
+|                  2 | [Hollywood Records](../labels/hollywood_records.md)                                                         |
+|                  2 | [Golden Child Recordings](../labels/golden_child_recordings.md)                                             |
+|                  2 | [G.O.O.D. Music](../labels/g_o_o_d__music.md)                                                               |
+|                  2 | [Elektra (NEK)](../labels/elektra__nek_.md)                                                                 |
+|                  2 | [Elektra](../labels/elektra.md)                                                                             |
+|                  2 | [Cash Money](../labels/cash_money.md)                                                                       |
+|                  2 | [Artist Partner](../labels/artist_partner.md)                                                               |
+|                  2 | [ATG](../labels/atg.md)                                                                                     |
+|                  2 | [A Star is Born OST](../labels/a_star_is_born_ost.md)                                                       |
+|                  2 | [143](../labels/143.md)                                                                                     |
+|                  1 | [under exclusive license to Interscope Records](../labels/under_exclusive_license_to_interscope_records.md) |
+|                  1 | [half·alive](../labels/half_alive.md)                                                                       |
+|                  1 | [ZAR](../labels/zar.md)                                                                                     |
+|                  1 | [Wolf Tone](../labels/wolf_tone.md)                                                                         |
+|                  1 | [Warner Bros.](../labels/warner_bros_.md)                                                                   |
+|                  1 | [VÉRITÉ](../labels/v_rit_.md)                                                                               |
+|                  1 | [Universal Music New Zealand Limited](../labels/universal_music_new_zealand_limited.md)                     |
+|                  1 | [Universal Music Latino](../labels/universal_music_latino.md)                                               |
+|                  1 | [Universal Music Group](../labels/universal_music_group.md)                                                 |
+|                  1 | [UMLE](../labels/umle.md)                                                                                   |
+|                  1 | [UMG Recordings](../labels/umg_recordings.md)                                                               |
+|                  1 | [Teleport Records](../labels/teleport_records.md)                                                           |
+|                  1 | [Stones Throw Records](../labels/stones_throw_records.md)                                                   |
+|                  1 | [Spinnin' Records](../labels/spinnin__records.md)                                                           |
+|                  1 | [Sony Music UK](../labels/sony_music_uk.md)                                                                 |
+|                  1 | [Silver Cloud](../labels/silver_cloud.md)                                                                   |
+|                  1 | [Silent Records IGA](../labels/silent_records_iga.md)                                                       |
+|                  1 | [Silent Records](../labels/silent_records.md)                                                               |
+|                  1 | [Shawn Mendes LP4-5 PS](../labels/shawn_mendes_lp4_5_ps.md)                                                 |
+|                  1 | [Selena Gomez PS](../labels/selena_gomez_ps.md)                                                             |
+|                  1 | [Ron Dante](../labels/ron_dante.md)                                                                         |
+|                  1 | [Roc Nation](../labels/roc_nation.md)                                                                       |
+|                  1 | [Rihanna](../labels/rihanna.md)                                                                             |
+|                  1 | [Red Zone Entertainment](../labels/red_zone_entertainment.md)                                               |
+|                  1 | [RVG](../labels/rvg.md)                                                                                     |
+|                  1 | [RBMG](../labels/rbmg.md)                                                                                   |
+|                  1 | [Private Music](../labels/private_music.md)                                                                 |
+|                  1 | [OWSLA](../labels/owsla.md)                                                                                 |
+|                  1 | [Nu America Music](../labels/nu_america_music.md)                                                           |
+|                  1 | [NEON16](../labels/neon16.md)                                                                               |
+|                  1 | [Mockingjay](../labels/mockingjay.md)                                                                       |
+|                  1 | [Latium](../labels/latium.md)                                                                               |
+|                  1 | [Jonas Brothers Recording](../labels/jonas_brothers_recording.md)                                           |
+|                  1 | [JVKE](../labels/jvke.md)                                                                                   |
+|                  1 | [JOYFACE Records](../labels/joyface_records.md)                                                             |
+|                  1 | [IDJ](../labels/idj.md)                                                                                     |
+|                  1 | [Hunger Games 3](../labels/hunger_games_3.md)                                                               |
+|                  1 | [H 3 F](../labels/h_3_f.md)                                                                                 |
+|                  1 | [Gracie Abrams](../labels/gracie_abrams.md)                                                                 |
+|                  1 | [Giant Little Man](../labels/giant_little_man.md)                                                           |
+|                  1 | [Friends Keep Secrets](../labels/friends_keep_secrets.md)                                                   |
+|                  1 | [Fez's Finest](../labels/fez_s_finest.md)                                                                   |
+|                  1 | [FSF](../labels/fsf.md)                                                                                     |
+|                  1 | [Epic Amsterdam](../labels/epic_amsterdam.md)                                                               |
+|                  1 | [EMPIRE](../labels/empire.md)                                                                               |
+|                  1 | [EMI Recorded Music Australia Pty Ltd](../labels/emi_recorded_music_australia_pty_ltd.md)                   |
+|                  1 | [Downtown Recordings](../labels/downtown_recordings.md)                                                     |
+|                  1 | [Def Jam](../labels/def_jam.md)                                                                             |
 
 </details>
 

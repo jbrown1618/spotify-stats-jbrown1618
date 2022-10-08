@@ -161,47 +161,47 @@
 <details>
 <summary>See all 39 labels</summary>
 
-|   Number of Tracks | Label                   |
-|-------------------:|:------------------------|
-|                 19 | Columbia                |
-|                 12 | Atlantic Records        |
-|                  9 | MOTOWN                  |
-|                  9 | Def Jam Recordings      |
-|                  6 | Parkwood Entertainment  |
-|                  5 | Warner Records          |
-|                  5 | UNI                     |
-|                  5 | Music World Music       |
-|                  5 | Beluga Heights          |
-|                  5 | Bad Boy Records         |
-|                  3 | LaFace Records          |
-|                  2 | Wondaland Records       |
-|                  2 | Golden Child Recordings |
-|                  2 | G.O.O.D. Music          |
-|                  1 | Virgin Records          |
-|                  1 | UMGRI Interscope        |
-|                  1 | Spinnin' Records        |
-|                  1 | Roc Nation              |
-|                  1 | Rihanna                 |
-|                  1 | Republic Records        |
-|                  1 | Red Zone Entertainment  |
-|                  1 | RCA Records Label       |
-|                  1 | Nu America Music        |
-|                  1 | Not specified           |
-|                  1 | Nice Life               |
-|                  1 | Jive                    |
-|                  1 | JOYFACE Records         |
-|                  1 | IDJ                     |
-|                  1 | H 3 F                   |
-|                  1 | Geffen                  |
-|                  1 | Epic                    |
-|                  1 | EMI                     |
-|                  1 | Downtown Recordings     |
-|                  1 | Def Soul                |
-|                  1 | Castle Communications   |
-|                  1 | Atl                     |
-|                  1 | Arista                  |
-|                  1 | Aftermath Entertainment |
-|                  1 | 19 Recordings Limited   |
+|   Number of Tracks | Label                                                           |
+|-------------------:|:----------------------------------------------------------------|
+|                 19 | [Columbia](../labels/columbia.md)                               |
+|                 12 | [Atlantic Records](../labels/atlantic_records.md)               |
+|                  9 | [MOTOWN](../labels/motown.md)                                   |
+|                  9 | [Def Jam Recordings](../labels/def_jam_recordings.md)           |
+|                  6 | [Parkwood Entertainment](../labels/parkwood_entertainment.md)   |
+|                  5 | [Warner Records](../labels/warner_records.md)                   |
+|                  5 | [UNI](../labels/uni.md)                                         |
+|                  5 | [Music World Music](../labels/music_world_music.md)             |
+|                  5 | [Beluga Heights](../labels/beluga_heights.md)                   |
+|                  5 | [Bad Boy Records](../labels/bad_boy_records.md)                 |
+|                  3 | [LaFace Records](../labels/laface_records.md)                   |
+|                  2 | [Wondaland](../labels/wondaland.md)                             |
+|                  2 | [Golden Child Recordings](../labels/golden_child_recordings.md) |
+|                  2 | [G.O.O.D. Music](../labels/g_o_o_d__music.md)                   |
+|                  1 | [Virgin Records](../labels/virgin_records.md)                   |
+|                  1 | [UMGRI Interscope](../labels/umgri_interscope.md)               |
+|                  1 | [Spinnin' Records](../labels/spinnin__records.md)               |
+|                  1 | [Roc Nation](../labels/roc_nation.md)                           |
+|                  1 | [Rihanna](../labels/rihanna.md)                                 |
+|                  1 | [Republic Records](../labels/republic_records.md)               |
+|                  1 | [Red Zone Entertainment](../labels/red_zone_entertainment.md)   |
+|                  1 | [RCA Records Label](../labels/rca_records_label.md)             |
+|                  1 | [Nu America Music](../labels/nu_america_music.md)               |
+|                  1 | [Not specified](../labels/not_specified.md)                     |
+|                  1 | [Nice Life](../labels/nice_life.md)                             |
+|                  1 | [Jive](../labels/jive.md)                                       |
+|                  1 | [JOYFACE Records](../labels/joyface_records.md)                 |
+|                  1 | [IDJ](../labels/idj.md)                                         |
+|                  1 | [H 3 F](../labels/h_3_f.md)                                     |
+|                  1 | [Geffen](../labels/geffen.md)                                   |
+|                  1 | [Epic](../labels/epic.md)                                       |
+|                  1 | [EMI](../labels/emi.md)                                         |
+|                  1 | [Downtown Recordings](../labels/downtown_recordings.md)         |
+|                  1 | [Def Soul](../labels/def_soul.md)                               |
+|                  1 | [Castle Communications](../labels/castle_communications.md)     |
+|                  1 | [Atl](../labels/atl.md)                                         |
+|                  1 | [Arista](../labels/arista.md)                                   |
+|                  1 | [Aftermath Entertainment](../labels/aftermath_entertainment.md) |
+|                  1 | [19 Recordings Limited](../labels/19_recordings_limited.md)     |
 
 </details>
 

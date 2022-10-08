@@ -119,34 +119,34 @@
 <details>
 <summary>See all 26 labels</summary>
 
-|   Number of Tracks | Label                     |
-|-------------------:|:--------------------------|
-|                 12 | SM Entertainment          |
-|                  3 | Stone Music Entertainment |
-|                  3 | Genie Music Corporation   |
-|                  2 | YG Entertainment          |
-|                  2 | SOURCE MUSIC              |
-|                  2 | Republic Records          |
-|                  2 | JYP Entertainment         |
-|                  1 | 드림캐쳐컴퍼니                   |
-|                  1 | WM Entertainment          |
-|                  1 | Universal Music LLC       |
-|                  1 | THE BLACK LABEL           |
-|                  1 | Starship Entertainment    |
-|                  1 | RBW Inc.                  |
-|                  1 | PLEDIS Entertainment      |
-|                  1 | Makeus Entertainment      |
-|                  1 | Kakao Entertainment       |
-|                  1 | KQ Entertainment          |
-|                  1 | Interscope Records        |
-|                  1 | Imperial Distribution     |
-|                  1 | High Up Entertainment     |
-|                  1 | HYBE                      |
-|                  1 | FNC ENTERTAINMENT         |
-|                  1 | Capitol Records (CAP)     |
-|                  1 | CUBE ENTERTAINMENT        |
-|                  1 | BIGHIT MUSIC              |
-|                  1 | BELIFT LAB                |
+|   Number of Tracks | Label                                                               |
+|-------------------:|:--------------------------------------------------------------------|
+|                 12 | [SM Entertainment](../labels/sm_entertainment.md)                   |
+|                  3 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
+|                  3 | [Genie Music Corporation](../labels/genie_music_corporation.md)     |
+|                  2 | [YG Entertainment](../labels/yg_entertainment.md)                   |
+|                  2 | [SOURCE MUSIC](../labels/source_music.md)                           |
+|                  2 | [Republic Records](../labels/republic_records.md)                   |
+|                  2 | [JYP Entertainment](../labels/jyp_entertainment.md)                 |
+|                  1 | [드림캐쳐컴퍼니](../labels/_______.md)                                     |
+|                  1 | [WM Entertainment](../labels/wm_entertainment.md)                   |
+|                  1 | [Universal Music LLC](../labels/universal_music_llc.md)             |
+|                  1 | [THE BLACK LABEL](../labels/the_black_label.md)                     |
+|                  1 | [Starship Entertainment](../labels/starship_entertainment.md)       |
+|                  1 | [RBW Inc.](../labels/rbw_inc_.md)                                   |
+|                  1 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)           |
+|                  1 | [Makeus Entertainment](../labels/makeus_entertainment.md)           |
+|                  1 | [Kakao Entertainment](../labels/kakao_entertainment.md)             |
+|                  1 | [KQ Entertainment](../labels/kq_entertainment.md)                   |
+|                  1 | [Interscope](../labels/interscope.md)                               |
+|                  1 | [Imperial Distribution](../labels/imperial_distribution.md)         |
+|                  1 | [High Up Entertainment](../labels/high_up_entertainment.md)         |
+|                  1 | [HYBE](../labels/hybe.md)                                           |
+|                  1 | [FNC ENTERTAINMENT](../labels/fnc_entertainment.md)                 |
+|                  1 | [Capitol Records (CAP)](../labels/capitol_records__cap_.md)         |
+|                  1 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)               |
+|                  1 | [BIGHIT MUSIC](../labels/bighit_music.md)                           |
+|                  1 | [BELIFT LAB](../labels/belift_lab.md)                               |
 
 </details>
 

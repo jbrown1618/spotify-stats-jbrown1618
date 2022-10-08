@@ -218,59 +218,58 @@
 
 
 <details>
-<summary>See all 49 labels</summary>
+<summary>See all 48 labels</summary>
 
-|   Number of Tracks | Label                                  |
-|-------------------:|:---------------------------------------|
-|                 57 | SM Entertainment                       |
-|                 20 | YG Entertainment                       |
-|                 15 | Republic Records                       |
-|                  9 | Interscope Records                     |
-|                  8 | Universal Music LLC                    |
-|                  8 | JYP Entertainment                      |
-|                  7 | RBW Inc.                               |
-|                  7 | Genie Music Corporation                |
-|                  6 | Stone Music Entertainment              |
-|                  6 | BELIFT LAB                             |
-|                  5 | Kakao Entertainment                    |
-|                  5 | CUBE ENTERTAINMENT                     |
-|                  4 | PLEDIS Entertainment                   |
-|                  4 | EDAM Entertainment                     |
-|                  4 | BIGHIT MUSIC                           |
-|                  3 | Warner Records                         |
-|                  3 | MNH ENTERTAINMENT                      |
-|                  3 | High Up Entertainment                  |
-|                  3 | HYBE                                   |
-|                  2 | distributed through Interscope Records |
-|                  2 | WM Japan                               |
-|                  2 | WM Entertainment                       |
-|                  2 | THE BLACK LABEL                        |
-|                  2 | Starship Entertainment                 |
-|                  2 | SOURCE MUSIC                           |
-|                  2 | LABEL V                                |
-|                  2 | Fave Entertainment                     |
-|                  1 | 드림티 엔터테인먼트                             |
-|                  1 | 드림캐쳐컴퍼니                                |
-|                  1 | 더라이브레이블                                |
-|                  1 | YUEHUA ENTERTAINMENT KOREA             |
-|                  1 | WM Korea                               |
-|                  1 | Universal Music Group International    |
-|                  1 | Transparent Arts                       |
-|                  1 | TEAM WANG records                      |
-|                  1 | Sony Music Labels Inc.                 |
-|                  1 | Million Market                         |
-|                  1 | Makeus Entertainment                   |
-|                  1 | MYSTIC ENTERTAINMENT                   |
-|                  1 | KQ Entertainment                       |
-|                  1 | Imperial Distribution                  |
-|                  1 | FNC ENTERTAINMENT                      |
-|                  1 | DREAMCATCHER COMPANY                   |
-|                  1 | ChoongangICS                           |
-|                  1 | Capitol Records (CAP)                  |
-|                  1 | BlockBerryCreative                     |
-|                  1 | AOMG                                   |
-|                  1 | ADOR                                   |
-|                  1 | 88rising Music                         |
+|   Number of Tracks | Label                                                                                   |
+|-------------------:|:----------------------------------------------------------------------------------------|
+|                 57 | [SM Entertainment](../labels/sm_entertainment.md)                                       |
+|                 20 | [YG Entertainment](../labels/yg_entertainment.md)                                       |
+|                 15 | [Republic Records](../labels/republic_records.md)                                       |
+|                 11 | [Interscope](../labels/interscope.md)                                                   |
+|                  8 | [Universal Music LLC](../labels/universal_music_llc.md)                                 |
+|                  8 | [JYP Entertainment](../labels/jyp_entertainment.md)                                     |
+|                  7 | [RBW Inc.](../labels/rbw_inc_.md)                                                       |
+|                  7 | [Genie Music Corporation](../labels/genie_music_corporation.md)                         |
+|                  6 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                     |
+|                  6 | [BELIFT LAB](../labels/belift_lab.md)                                                   |
+|                  5 | [Kakao Entertainment](../labels/kakao_entertainment.md)                                 |
+|                  5 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                                   |
+|                  4 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)                               |
+|                  4 | [EDAM Entertainment](../labels/edam_entertainment.md)                                   |
+|                  4 | [BIGHIT MUSIC](../labels/bighit_music.md)                                               |
+|                  3 | [Warner Records](../labels/warner_records.md)                                           |
+|                  3 | [MNH ENTERTAINMENT](../labels/mnh_entertainment.md)                                     |
+|                  3 | [High Up Entertainment](../labels/high_up_entertainment.md)                             |
+|                  3 | [HYBE](../labels/hybe.md)                                                               |
+|                  2 | [WM Japan](../labels/wm_japan.md)                                                       |
+|                  2 | [WM Entertainment](../labels/wm_entertainment.md)                                       |
+|                  2 | [THE BLACK LABEL](../labels/the_black_label.md)                                         |
+|                  2 | [Starship Entertainment](../labels/starship_entertainment.md)                           |
+|                  2 | [SOURCE MUSIC](../labels/source_music.md)                                               |
+|                  2 | [LABEL V](../labels/label_v.md)                                                         |
+|                  2 | [Fave Entertainment](../labels/fave_entertainment.md)                                   |
+|                  1 | [드림티 엔터테인먼트](../labels/__________.md)                                                   |
+|                  1 | [드림캐쳐컴퍼니](../labels/_______.md)                                                         |
+|                  1 | [더라이브레이블](../labels/_______.md)                                                         |
+|                  1 | [YUEHUA ENTERTAINMENT KOREA](../labels/yuehua_entertainment_korea.md)                   |
+|                  1 | [WM Korea](../labels/wm_korea.md)                                                       |
+|                  1 | [Universal Music Group International](../labels/universal_music_group_international.md) |
+|                  1 | [Transparent Arts](../labels/transparent_arts.md)                                       |
+|                  1 | [TEAM WANG records](../labels/team_wang_records.md)                                     |
+|                  1 | [Sony Music Labels Inc.](../labels/sony_music_labels_inc_.md)                           |
+|                  1 | [Million Market](../labels/million_market.md)                                           |
+|                  1 | [Makeus Entertainment](../labels/makeus_entertainment.md)                               |
+|                  1 | [MYSTIC ENTERTAINMENT](../labels/mystic_entertainment.md)                               |
+|                  1 | [KQ Entertainment](../labels/kq_entertainment.md)                                       |
+|                  1 | [Imperial Distribution](../labels/imperial_distribution.md)                             |
+|                  1 | [FNC ENTERTAINMENT](../labels/fnc_entertainment.md)                                     |
+|                  1 | [DREAMCATCHER COMPANY](../labels/dreamcatcher_company.md)                               |
+|                  1 | [ChoongangICS](../labels/choongangics.md)                                               |
+|                  1 | [Capitol Records (CAP)](../labels/capitol_records__cap_.md)                             |
+|                  1 | [BlockBerryCreative](../labels/blockberrycreative.md)                                   |
+|                  1 | [AOMG](../labels/aomg.md)                                                               |
+|                  1 | [ADOR](../labels/ador.md)                                                               |
+|                  1 | [88rising Music](../labels/88rising_music.md)                                           |
 
 </details>
 

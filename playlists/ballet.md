@@ -63,12 +63,12 @@
 <details>
 <summary>See all 4 labels</summary>
 
-|   Number of Tracks | Label                              |
-|-------------------:|:-----------------------------------|
-|                 55 | Warner Classics                    |
-|                 39 | Australian Broadcasting Corp (ABC) |
-|                 26 | Deutsche Grammophon (DG)           |
-|                 18 | Mariinsky                          |
+|   Number of Tracks | Label                                                                                 |
+|-------------------:|:--------------------------------------------------------------------------------------|
+|                 55 | [Warner Classics](../labels/warner_classics.md)                                       |
+|                 39 | [Australian Broadcasting Corp (ABC)](../labels/australian_broadcasting_corp__abc_.md) |
+|                 26 | [Deutsche Grammophon (DG)](../labels/deutsche_grammophon__dg_.md)                     |
+|                 18 | [Mariinsky](../labels/mariinsky.md)                                                   |
 
 </details>
 

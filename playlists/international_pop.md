@@ -98,7 +98,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb486e89dfcbba35327a1ba9b9" alt="" width="50" /> | Kenshi Yonezu                      | [🔗](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4588e958f69a086df6a9f81f" alt="" width="50" /> | Maluma                             | [🔗](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9126343e690e70ec5424ddaa" alt="" width="50" /> | Christine Fan                      | [🔗](https://open.spotify.com/artist/1q7sCl0vg0EcaFdRz0XDGg) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb49475e0c4cc5599629af919e" alt="" width="50" /> | Rauw Alejandro                     | [🔗](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebcb9b44626b08827df9be06ab" alt="" width="50" /> | Rauw Alejandro                     | [🔗](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27354dbaa284c53e085523cfec2" alt="" width="50" /> | Las Ketchup                        | [🔗](https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2c540efb76ea47414f376af" alt="" width="50" /> | TFBOYS                             | [🔗](https://open.spotify.com/artist/1dywcVTpMrP7VmQUhngSce) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebdca0f480586f178dab6b5591" alt="" width="50" /> | Gen Hoshino                        | [🔗](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) |
@@ -222,71 +222,71 @@
 <details>
 <summary>See all 63 labels</summary>
 
-|   Number of Tracks | Label                                                 |
-|-------------------:|:------------------------------------------------------|
-|                  7 | Cooking Vinyl Limited                                 |
-|                  5 | Sony Music Latin                                      |
-|                  5 | Sony Music Labels Inc.                                |
-|                  4 | Universal Music LLC                                   |
-|                  4 | Sony Music Entertainment                              |
-|                  3 | Columbia                                              |
-|                  2 | Universal Music Division Capitol Music France         |
-|                  2 | Samlist                                               |
-|                  2 | Linfair                                               |
-|                  2 | KING RECORDS                                          |
-|                  2 | ITModels under exclusive license to D-Music           |
-|                  2 | IRORI Records                                         |
-|                  2 | Gold Typhoon Taiwan                                   |
-|                  2 | Epic                                                  |
-|                  1 | 鲸鱼向海                                                  |
-|                  1 | 一寸光年                                                  |
-|                  1 | avex trax                                             |
-|                  1 | a Saban Music Group Joint Venture                     |
-|                  1 | YRF Music                                             |
-|                  1 | YOASOBI                                               |
-|                  1 | XGALX                                                 |
-|                  1 | What The Duck                                         |
-|                  1 | Wanitwa Mos Entertainment                             |
-|                  1 | WMI Italy                                             |
-|                  1 | WM Taiwan                                             |
-|                  1 | WM Norway                                             |
-|                  1 | Valley Records                                        |
-|                  1 | Universal Music Spain S.L.                            |
-|                  1 | Universal Music Latino                                |
-|                  1 | Universal Music Italia srL.                           |
-|                  1 | Universal Music Distributed Labels                    |
-|                  1 | UMLE - Latino                                         |
-|                  1 | Trinity Optima Production                             |
-|                  1 | Team Ear Music                                        |
-|                  1 | TOY'S FACTORY                                         |
-|                  1 | Speedstar                                             |
-|                  1 | Sony Music Entertainment Indonesia                    |
-|                  1 | Sony Music Entertainment India Pvt. Ltd.              |
-|                  1 | SHAKETOWN MUSIC                                       |
-|                  1 | S.L.                                                  |
-|                  1 | S-Curve Records                                       |
-|                  1 | S&B Entertainment Ventures LLC                        |
-|                  1 | Ríkisútvarpið - Exclusively distributed by Alda Music |
-|                  1 | Rhythm REPUBLIC                                       |
-|                  1 | Rec. 118                                              |
-|                  1 | Polyvinyl Records                                     |
-|                  1 | Play Two                                              |
-|                  1 | Parlophone UK                                         |
-|                  1 | Parlophone Denmark                                    |
-|                  1 | Parkwood Entertainment                                |
-|                  1 | PONY CANYON INC.                                      |
-|                  1 | NaNa Disc                                             |
-|                  1 | NEON16                                                |
-|                  1 | Mobile1 Music                                         |
-|                  1 | Mescal                                                |
-|                  1 | KarenT                                                |
-|                  1 | Homeboy music                                         |
-|                  1 | Giraffe Pakistan                                      |
-|                  1 | Epidemic Sound                                        |
-|                  1 | El Cartel Records (EC3)                               |
-|                  1 | Echame La Culpa PS                                    |
-|                  1 | Angèle VL Records                                     |
-|                  1 | 2022 Z.I. Productions BY PIL LTD                      |
+|   Number of Tracks | Label                                                                                                                       |
+|-------------------:|:----------------------------------------------------------------------------------------------------------------------------|
+|                  7 | [Cooking Vinyl Limited](../labels/cooking_vinyl_limited.md)                                                                 |
+|                  5 | [Sony Music Latin](../labels/sony_music_latin.md)                                                                           |
+|                  5 | [Sony Music Labels Inc.](../labels/sony_music_labels_inc_.md)                                                               |
+|                  4 | [Universal Music LLC](../labels/universal_music_llc.md)                                                                     |
+|                  4 | [Sony Music Entertainment](../labels/sony_music_entertainment.md)                                                           |
+|                  3 | [Columbia](../labels/columbia.md)                                                                                           |
+|                  2 | [Universal Music Division Capitol Music France](../labels/universal_music_division_capitol_music_france.md)                 |
+|                  2 | [Samlist](../labels/samlist.md)                                                                                             |
+|                  2 | [Linfair](../labels/linfair.md)                                                                                             |
+|                  2 | [KING RECORDS](../labels/king_records.md)                                                                                   |
+|                  2 | [ITModels under exclusive license to D-Music](../labels/itmodels_under_exclusive_license_to_d_music.md)                     |
+|                  2 | [IRORI Records](../labels/irori_records.md)                                                                                 |
+|                  2 | [Gold Typhoon Taiwan](../labels/gold_typhoon_taiwan.md)                                                                     |
+|                  2 | [Epic](../labels/epic.md)                                                                                                   |
+|                  1 | [鲸鱼向海](../labels/____.md)                                                                                                   |
+|                  1 | [一寸光年](../labels/____.md)                                                                                                   |
+|                  1 | [avex trax](../labels/avex_trax.md)                                                                                         |
+|                  1 | [a Saban Music Group Joint Venture](../labels/a_saban_music_group_joint_venture.md)                                         |
+|                  1 | [YRF Music](../labels/yrf_music.md)                                                                                         |
+|                  1 | [YOASOBI](../labels/yoasobi.md)                                                                                             |
+|                  1 | [XGALX](../labels/xgalx.md)                                                                                                 |
+|                  1 | [What The Duck](../labels/what_the_duck.md)                                                                                 |
+|                  1 | [Wanitwa Mos Entertainment](../labels/wanitwa_mos_entertainment.md)                                                         |
+|                  1 | [WMI Italy](../labels/wmi_italy.md)                                                                                         |
+|                  1 | [WM Taiwan](../labels/wm_taiwan.md)                                                                                         |
+|                  1 | [WM Norway](../labels/wm_norway.md)                                                                                         |
+|                  1 | [Valley Records](../labels/valley_records.md)                                                                               |
+|                  1 | [Universal Music Spain S.L.](../labels/universal_music_spain_s_l_.md)                                                       |
+|                  1 | [Universal Music Latino](../labels/universal_music_latino.md)                                                               |
+|                  1 | [Universal Music Italia srL.](../labels/universal_music_italia_srl_.md)                                                     |
+|                  1 | [Universal Music Distributed Labels](../labels/universal_music_distributed_labels.md)                                       |
+|                  1 | [UMLE - Latino](../labels/umle___latino.md)                                                                                 |
+|                  1 | [Trinity Optima Production](../labels/trinity_optima_production.md)                                                         |
+|                  1 | [Team Ear Music](../labels/team_ear_music.md)                                                                               |
+|                  1 | [TOY'S FACTORY](../labels/toy_s_factory.md)                                                                                 |
+|                  1 | [Speedstar](../labels/speedstar.md)                                                                                         |
+|                  1 | [Sony Music Entertainment Indonesia](../labels/sony_music_entertainment_indonesia.md)                                       |
+|                  1 | [Sony Music Entertainment India Pvt. Ltd.](../labels/sony_music_entertainment_india_pvt__ltd_.md)                           |
+|                  1 | [SHAKETOWN MUSIC](../labels/shaketown_music.md)                                                                             |
+|                  1 | [S.L.](../labels/s_l_.md)                                                                                                   |
+|                  1 | [S-Curve Records](../labels/s_curve_records.md)                                                                             |
+|                  1 | [S&B Entertainment Ventures LLC](../labels/s_b_entertainment_ventures_llc.md)                                               |
+|                  1 | [Ríkisútvarpið - Exclusively distributed by Alda Music](../labels/r_kis_tvarpi____exclusively_distributed_by_alda_music.md) |
+|                  1 | [Rhythm REPUBLIC](../labels/rhythm_republic.md)                                                                             |
+|                  1 | [Rec. 118](../labels/rec__118.md)                                                                                           |
+|                  1 | [Polyvinyl Records](../labels/polyvinyl_records.md)                                                                         |
+|                  1 | [Play Two](../labels/play_two.md)                                                                                           |
+|                  1 | [Parlophone UK](../labels/parlophone_uk.md)                                                                                 |
+|                  1 | [Parlophone Denmark](../labels/parlophone_denmark.md)                                                                       |
+|                  1 | [Parkwood Entertainment](../labels/parkwood_entertainment.md)                                                               |
+|                  1 | [PONY CANYON INC.](../labels/pony_canyon_inc_.md)                                                                           |
+|                  1 | [NaNa Disc](../labels/nana_disc.md)                                                                                         |
+|                  1 | [NEON16](../labels/neon16.md)                                                                                               |
+|                  1 | [Mobile1 Music](../labels/mobile1_music.md)                                                                                 |
+|                  1 | [Mescal](../labels/mescal.md)                                                                                               |
+|                  1 | [KarenT](../labels/karent.md)                                                                                               |
+|                  1 | [Homeboy music](../labels/homeboy_music.md)                                                                                 |
+|                  1 | [Giraffe Pakistan](../labels/giraffe_pakistan.md)                                                                           |
+|                  1 | [Epidemic Sound](../labels/epidemic_sound.md)                                                                               |
+|                  1 | [El Cartel Records (EC3)](../labels/el_cartel_records__ec3_.md)                                                             |
+|                  1 | [Echame La Culpa PS](../labels/echame_la_culpa_ps.md)                                                                       |
+|                  1 | [Angèle VL Records](../labels/ang_le_vl_records.md)                                                                         |
+|                  1 | [2022 Z.I. Productions BY PIL LTD](../labels/2022_z_i__productions_by_pil_ltd.md)                                           |
 
 </details>
 

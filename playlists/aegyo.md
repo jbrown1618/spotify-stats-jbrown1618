@@ -91,23 +91,23 @@
 <details>
 <summary>See all 15 labels</summary>
 
-|   Number of Tracks | Label                     |
-|-------------------:|:--------------------------|
-|                 11 | Republic Records          |
-|                  5 | SM Entertainment          |
-|                  4 | BELIFT LAB                |
-|                  3 | WM Entertainment          |
-|                  2 | Stone Music Entertainment |
-|                  2 | MLD ENTERTAINMENT         |
-|                  2 | Kakao Entertainment       |
-|                  1 | Warner Records            |
-|                  1 | WM Taiwan                 |
-|                  1 | Starship Entertainment    |
-|                  1 | PLEDIS Entertainment      |
-|                  1 | Imperial Distribution     |
-|                  1 | Genie Music Corporation   |
-|                  1 | DUBLEKICK COMPANY         |
-|                  1 | Cre.ker Entertainment     |
+|   Number of Tracks | Label                                                               |
+|-------------------:|:--------------------------------------------------------------------|
+|                 11 | [Republic Records](../labels/republic_records.md)                   |
+|                  5 | [SM Entertainment](../labels/sm_entertainment.md)                   |
+|                  4 | [BELIFT LAB](../labels/belift_lab.md)                               |
+|                  3 | [WM Entertainment](../labels/wm_entertainment.md)                   |
+|                  2 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
+|                  2 | [MLD ENTERTAINMENT](../labels/mld_entertainment.md)                 |
+|                  2 | [Kakao Entertainment](../labels/kakao_entertainment.md)             |
+|                  1 | [Warner Records](../labels/warner_records.md)                       |
+|                  1 | [WM Taiwan](../labels/wm_taiwan.md)                                 |
+|                  1 | [Starship Entertainment](../labels/starship_entertainment.md)       |
+|                  1 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)           |
+|                  1 | [Imperial Distribution](../labels/imperial_distribution.md)         |
+|                  1 | [Genie Music Corporation](../labels/genie_music_corporation.md)     |
+|                  1 | [DUBLEKICK COMPANY](../labels/dublekick_company.md)                 |
+|                  1 | [Cre.ker Entertainment](../labels/cre_ker_entertainment.md)         |
 
 </details>
 

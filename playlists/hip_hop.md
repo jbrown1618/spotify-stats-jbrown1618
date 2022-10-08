@@ -87,27 +87,27 @@
 <details>
 <summary>See all 19 labels</summary>
 
-|   Number of Tracks | Label                           |
-|-------------------:|:--------------------------------|
-|                  4 | Roc-A-Fella                     |
-|                  4 | Aftermath                       |
-|                  3 | RCA Records Label               |
-|                  3 | Kemosabe Records                |
-|                  2 | Nicki Minaj                     |
-|                  2 | Cash Money                      |
-|                  2 | Atlantic Records                |
-|                  2 | A&M                             |
-|                  1 | Warner Records                  |
-|                  1 | The Orchard                     |
-|                  1 | KSR                             |
-|                  1 | Interscope Records              |
-|                  1 | EMPIRE                          |
-|                  1 | Columbia                        |
-|                  1 | Bad Dreams Records              |
-|                  1 | Bad Boy Records                 |
-|                  1 | Asylum                          |
-|                  1 | American Recordings Catalog P&D |
-|                  1 | 3H                              |
+|   Number of Tracks | Label                                                                           |
+|-------------------:|:--------------------------------------------------------------------------------|
+|                  4 | [Roc-A-Fella](../labels/roc_a_fella.md)                                         |
+|                  4 | [Aftermath](../labels/aftermath.md)                                             |
+|                  3 | [RCA Records Label](../labels/rca_records_label.md)                             |
+|                  3 | [Kemosabe Records](../labels/kemosabe_records.md)                               |
+|                  2 | [Nicki Minaj](../labels/nicki_minaj.md)                                         |
+|                  2 | [Cash Money](../labels/cash_money.md)                                           |
+|                  2 | [Atlantic Records](../labels/atlantic_records.md)                               |
+|                  2 | [A&M](../labels/a_m.md)                                                         |
+|                  1 | [Warner Records](../labels/warner_records.md)                                   |
+|                  1 | [The Orchard](../labels/the_orchard.md)                                         |
+|                  1 | [KSR](../labels/ksr.md)                                                         |
+|                  1 | [Interscope](../labels/interscope.md)                                           |
+|                  1 | [EMPIRE](../labels/empire.md)                                                   |
+|                  1 | [Columbia](../labels/columbia.md)                                               |
+|                  1 | [Bad Dreams Records](../labels/bad_dreams_records.md)                           |
+|                  1 | [Bad Boy Records](../labels/bad_boy_records.md)                                 |
+|                  1 | [Asylum](../labels/asylum.md)                                                   |
+|                  1 | [American Recordings Catalog P&D](../labels/american_recordings_catalog_p_d.md) |
+|                  1 | [3H](../labels/3h.md)                                                           |
 
 </details>
 

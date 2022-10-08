@@ -47,10 +47,10 @@
 <details>
 <summary>See all 2 labels</summary>
 
-|   Number of Tracks | Label                  |
-|-------------------:|:-----------------------|
-|                 20 | Nimbus Records         |
-|                  3 | Decca Music Group Ltd. |
+|   Number of Tracks | Label                                                         |
+|-------------------:|:--------------------------------------------------------------|
+|                 20 | [Nimbus Records](../labels/nimbus_records.md)                 |
+|                  3 | [Decca Music Group Ltd.](../labels/decca_music_group_ltd_.md) |
 
 </details>
 

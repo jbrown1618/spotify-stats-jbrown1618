@@ -131,13 +131,13 @@
 <details>
 <summary>See all 5 labels</summary>
 
-|   Number of Tracks | Label                               |
-|-------------------:|:------------------------------------|
-|                 82 | UME - Global Clearing House         |
-|                 46 | Deutsche Grammophon (DG)            |
-|                 42 | Warner Music Group - X5 Music Group |
-|                 35 | Opera d'Oro                         |
-|                 28 | Decca Music Group Ltd.              |
+|   Number of Tracks | Label                                                                                   |
+|-------------------:|:----------------------------------------------------------------------------------------|
+|                 82 | [UME - Global Clearing House](../labels/ume___global_clearing_house.md)                 |
+|                 46 | [Deutsche Grammophon (DG)](../labels/deutsche_grammophon__dg_.md)                       |
+|                 42 | [Warner Music Group - X5 Music Group](../labels/warner_music_group___x5_music_group.md) |
+|                 35 | [Opera d'Oro](../labels/opera_d_oro.md)                                                 |
+|                 28 | [Decca Music Group Ltd.](../labels/decca_music_group_ltd_.md)                           |
 
 </details>
 

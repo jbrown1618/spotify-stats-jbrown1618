@@ -48,10 +48,10 @@
 <details>
 <summary>See all 2 labels</summary>
 
-|   Number of Tracks | Label                  |
-|-------------------:|:-----------------------|
-|                 24 | Naxos                  |
-|                  3 | Decca Music Group Ltd. |
+|   Number of Tracks | Label                                                         |
+|-------------------:|:--------------------------------------------------------------|
+|                 24 | [Naxos](../labels/naxos.md)                                   |
+|                  3 | [Decca Music Group Ltd.](../labels/decca_music_group_ltd_.md) |
 
 </details>
 

@@ -145,50 +145,50 @@
 <details>
 <summary>See all 42 labels</summary>
 
-|   Number of Tracks | Label                                |
-|-------------------:|:-------------------------------------|
-|                  9 | Columbia                             |
-|                  7 | Epic                                 |
-|                  5 | EMI Catalogue                        |
-|                  3 | XL Recordings                        |
-|                  3 | Warner Records                       |
-|                  3 | MOTOWN                               |
-|                  3 | Atlantic Records                     |
-|                  2 | UNI                                  |
-|                  2 | UMC (Universal Music Catalogue)      |
-|                  2 | Reprise                              |
-|                  2 | Hollywood Records                    |
-|                  2 | FRANK SINATRA DIGITAL REPRISE        |
-|                  2 | Elektra                              |
-|                  2 | 143                                  |
-|                  1 | Virgin Records                       |
-|                  1 | Universal-Island Records Ltd.        |
-|                  1 | UMG Recordings                       |
-|                  1 | Taylor Swift                         |
-|                  1 | Sugar Hill Records                   |
-|                  1 | Steam Powered Giraffe                |
-|                  1 | Rhino                                |
-|                  1 | Radiculture                          |
-|                  1 | RCA Records Label                    |
-|                  1 | RBMG                                 |
-|                  1 | Polydor Records                      |
-|                  1 | Parlophone UK                        |
-|                  1 | Parlophone Records Limited           |
-|                  1 | Parkwood Entertainment               |
-|                  1 | Monkey Puzzle Records                |
-|                  1 | Mercury Records                      |
-|                  1 | Legacy                               |
-|                  1 | Jive                                 |
-|                  1 | Island Records                       |
-|                  1 | Island Def Jam                       |
-|                  1 | Interscope Records                   |
-|                  1 | EMI Recorded Music Australia Pty Ltd |
-|                  1 | Down Up Down Music                   |
-|                  1 | Def Soul                             |
-|                  1 | Def Jam Recordings                   |
-|                  1 | Def Jam                              |
-|                  1 | Bad Boy Records                      |
-|                  1 | ATG                                  |
+|   Number of Tracks | Label                                                                                     |
+|-------------------:|:------------------------------------------------------------------------------------------|
+|                  9 | [Columbia](../labels/columbia.md)                                                         |
+|                  7 | [Epic](../labels/epic.md)                                                                 |
+|                  5 | [EMI Catalogue](../labels/emi_catalogue.md)                                               |
+|                  3 | [XL Recordings](../labels/xl_recordings.md)                                               |
+|                  3 | [Warner Records](../labels/warner_records.md)                                             |
+|                  3 | [MOTOWN](../labels/motown.md)                                                             |
+|                  3 | [Atlantic Records](../labels/atlantic_records.md)                                         |
+|                  2 | [UNI](../labels/uni.md)                                                                   |
+|                  2 | [UMC (Universal Music Catalogue)](../labels/umc__universal_music_catalogue_.md)           |
+|                  2 | [Reprise](../labels/reprise.md)                                                           |
+|                  2 | [Hollywood Records](../labels/hollywood_records.md)                                       |
+|                  2 | [FRANK SINATRA DIGITAL REPRISE](../labels/frank_sinatra_digital_reprise.md)               |
+|                  2 | [Elektra](../labels/elektra.md)                                                           |
+|                  2 | [143](../labels/143.md)                                                                   |
+|                  1 | [Virgin Records](../labels/virgin_records.md)                                             |
+|                  1 | [Universal-Island Records Ltd.](../labels/universal_island_records_ltd_.md)               |
+|                  1 | [UMG Recordings](../labels/umg_recordings.md)                                             |
+|                  1 | [Taylor Swift](../labels/taylor_swift.md)                                                 |
+|                  1 | [Sugar Hill Records](../labels/sugar_hill_records.md)                                     |
+|                  1 | [Steam Powered Giraffe](../labels/steam_powered_giraffe.md)                               |
+|                  1 | [Rhino](../labels/rhino.md)                                                               |
+|                  1 | [Radiculture](../labels/radiculture.md)                                                   |
+|                  1 | [RCA Records Label](../labels/rca_records_label.md)                                       |
+|                  1 | [RBMG](../labels/rbmg.md)                                                                 |
+|                  1 | [Polydor Records](../labels/polydor_records.md)                                           |
+|                  1 | [Parlophone UK](../labels/parlophone_uk.md)                                               |
+|                  1 | [Parlophone Records Limited](../labels/parlophone_records_limited.md)                     |
+|                  1 | [Parkwood Entertainment](../labels/parkwood_entertainment.md)                             |
+|                  1 | [Monkey Puzzle Records](../labels/monkey_puzzle_records.md)                               |
+|                  1 | [Mercury Records](../labels/mercury_records.md)                                           |
+|                  1 | [Legacy](../labels/legacy.md)                                                             |
+|                  1 | [Jive](../labels/jive.md)                                                                 |
+|                  1 | [Island Records](../labels/island_records.md)                                             |
+|                  1 | [Island Def Jam](../labels/island_def_jam.md)                                             |
+|                  1 | [Interscope](../labels/interscope.md)                                                     |
+|                  1 | [EMI Recorded Music Australia Pty Ltd](../labels/emi_recorded_music_australia_pty_ltd.md) |
+|                  1 | [Down Up Down Music](../labels/down_up_down_music.md)                                     |
+|                  1 | [Def Soul](../labels/def_soul.md)                                                         |
+|                  1 | [Def Jam Recordings](../labels/def_jam_recordings.md)                                     |
+|                  1 | [Def Jam](../labels/def_jam.md)                                                           |
+|                  1 | [Bad Boy Records](../labels/bad_boy_records.md)                                           |
+|                  1 | [ATG](../labels/atg.md)                                                                   |
 
 </details>
 

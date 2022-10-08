@@ -51,10 +51,10 @@
 <details>
 <summary>See all 2 labels</summary>
 
-|   Number of Tracks | Label           |
-|-------------------:|:----------------|
-|                 18 | Decca (UMO)     |
-|                 16 | Warner Classics |
+|   Number of Tracks | Label                                           |
+|-------------------:|:------------------------------------------------|
+|                 18 | [Decca (UMO)](../labels/decca__umo_.md)         |
+|                 16 | [Warner Classics](../labels/warner_classics.md) |
 
 </details>
 

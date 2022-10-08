@@ -78,7 +78,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e41f73c8c901c6c33d727786" alt="" width="50" /> | Hanna Schwarz                                                                            | [🔗](https://open.spotify.com/artist/0uzYuEP2MlAJ5FdVIYIalx) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273877b88f28b401581470add7b" alt="" width="50" /> | Christian Schulz                                                                         | [🔗](https://open.spotify.com/artist/0sqQ1nXbUwTWglq8jWopvZ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737e642d5abb467a88d79bc1ec" alt="" width="50" /> | Ilmar Lapinsch                                                                           | [🔗](https://open.spotify.com/artist/0dI3iXIxXjAtMkzZCsOVEg) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738dd4042adcca6717a808428b" alt="" width="50" /> | Ratko Delorko                                                                            | [🔗](https://open.spotify.com/artist/0E1sM06TDvSpGqNQBx8FV0) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737035d110c981d96a16ee5150" alt="" width="50" /> | Ratko Delorko                                                                            | [🔗](https://open.spotify.com/artist/0E1sM06TDvSpGqNQBx8FV0) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273732b6fb281de1f71f1f5f325" alt="" width="50" /> | Gints Berzins                                                                            | [🔗](https://open.spotify.com/artist/0CqCB3JQz4h9k3qk74ihWT) |
 
 </details>
@@ -111,13 +111,13 @@
 <details>
 <summary>See all 5 labels</summary>
 
-|   Number of Tracks | Label                               |
-|-------------------:|:------------------------------------|
-|                181 | UME - Global Clearing House         |
-|                 20 | Warner Music Group - X5 Music Group |
-|                 14 | Warner Classics                     |
-|                  6 | Decca Music Group Ltd.              |
-|                  4 | JPK Musik                           |
+|   Number of Tracks | Label                                                                                   |
+|-------------------:|:----------------------------------------------------------------------------------------|
+|                181 | [UME - Global Clearing House](../labels/ume___global_clearing_house.md)                 |
+|                 20 | [Warner Music Group - X5 Music Group](../labels/warner_music_group___x5_music_group.md) |
+|                 14 | [Warner Classics](../labels/warner_classics.md)                                         |
+|                  6 | [Decca Music Group Ltd.](../labels/decca_music_group_ltd_.md)                           |
+|                  4 | [JPK Musik](../labels/jpk_musik.md)                                                     |
 
 </details>
 
