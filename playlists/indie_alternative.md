@@ -56,7 +56,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb07ccdb9ab1ac27384a990ff9" alt="" width="50" /> | Feist                                                          | [🔗](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc3e907a4fb48f1ad94f5699" alt="" width="50" /> | The Womack Sisters                                             | [🔗](https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s) |
 |                  1 | <img src="https://i.scdn.co/image/2d695c3269ba763e82b0a24789bc59d92834b125" alt="" width="50" /> | Gary Jules                                                     | [🔗](https://open.spotify.com/artist/5oRnbmgqvvq7fVlgk4vcEa) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfab5c5df9849fd0f7cf376ce" alt="" width="50" /> | Young the Giant                                                | [🔗](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb55d7d266173722c1e09968ce" alt="" width="50" /> | Young the Giant                                                | [🔗](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc1dc943555dfa1ee2a107e5" alt="" width="50" /> | K/DA                                                           | [🔗](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd3a1193ab04e0fb2b297e619" alt="" width="50" /> | Conan Gray                                                     | [🔗](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d800f202dd15af03179876b" alt="" width="50" /> | Jess Glynne                                                    | [🔗](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) |
@@ -230,13 +230,13 @@
 |                  3 | [Brute](../labels/brute.md)                                                               |
 |                  3 | [Beaute](../labels/beaute.md)                                                             |
 |                  3 | [Atlantic Records](../labels/atlantic_records.md)                                         |
-|                  3 | [Atl](../labels/atl.md)                                                                   |
+|                  3 | [ATL](../labels/atl.md)                                                                   |
 |                  2 | [Spin-Farm Oy](../labels/spin_farm_oy.md)                                                 |
 |                  2 | [Saddle Creek](../labels/saddle_creek.md)                                                 |
 |                  2 | [Phonogenic](../labels/phonogenic.md)                                                     |
 |                  2 | [Nuclear Blast Entertainment](../labels/nuclear_blast_entertainment.md)                   |
 |                  2 | [Kid Ina Korner](../labels/kid_ina_korner.md)                                             |
-|                  2 | [Interscope](../labels/interscope.md)                                                     |
+|                  2 | [Interscope Records](../labels/interscope_records.md)                                     |
 |                  1 | [half·alive](../labels/half_alive.md)                                                     |
 |                  1 | [ZAR](../labels/zar.md)                                                                   |
 |                  1 | [Wyvern Lingo](../labels/wyvern_lingo.md)                                                 |

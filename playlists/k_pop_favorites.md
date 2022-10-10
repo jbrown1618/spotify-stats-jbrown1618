@@ -121,6 +121,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | ODDINARY                                         | [🔗](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | NOEASY                                           | [🔗](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="" width="50" /> | Like Water - The 1st Mini Album                  | [🔗](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27366ff63bc084fb412aa2dddd3" alt="" width="50" /> | Hello - Special Album                            | [🔗](https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Girls - The 2nd Mini Album                       | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | Formula of Love: O+T=<3                          | [🔗](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734a8e5eaab8b02db02e487c27" alt="" width="50" /> | Devil - The 2nd Mini Album                       | [🔗](https://open.spotify.com/album/6bG2rY8NzT7dIzUNADDNCR) |
@@ -207,7 +208,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732d56768bc14df3b0b3982efd" alt="" width="50" /> | KWON JI YONG                                     | [🔗](https://open.spotify.com/album/2koSNfchdUxqw1rPJO87aH) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735dcded478bd1a908dbabf05e" alt="" width="50" /> | KILL THIS LOVE                                   | [🔗](https://open.spotify.com/album/7viSsSKXrDa95CtUcuc1Iv) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27337ff46852249bdfc938beefa" alt="" width="50" /> | KAI - The 1st Mini Album                         | [🔗](https://open.spotify.com/album/6xpxMAUhk8hiDTa5zT7F86) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c4763f81c6b01bb32ea3c1d8" alt="" width="50" /> | Je T'aime                                        | [🔗](https://open.spotify.com/album/1RzqZoXe1bf1f48PK20EeH) |
 
 </details>
 
@@ -225,7 +225,7 @@
 |                 57 | [SM Entertainment](../labels/sm_entertainment.md)                                       |
 |                 20 | [YG Entertainment](../labels/yg_entertainment.md)                                       |
 |                 15 | [Republic Records](../labels/republic_records.md)                                       |
-|                 11 | [Interscope](../labels/interscope.md)                                                   |
+|                 11 | [Interscope Records](../labels/interscope_records.md)                                   |
 |                  8 | [Universal Music LLC](../labels/universal_music_llc.md)                                 |
 |                  8 | [JYP Entertainment](../labels/jyp_entertainment.md)                                     |
 |                  7 | [RBW Inc.](../labels/rbw_inc_.md)                                                       |

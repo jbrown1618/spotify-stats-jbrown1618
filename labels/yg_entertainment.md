@@ -1,6 +1,6 @@
 # YG Entertainment
 
-65 songs
+66 songs
 
 ## Top Artists
 
@@ -15,7 +15,7 @@
 |                 27 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 |                 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../artists/leehi.md)         | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb597a4257d0022e2ac837fa7d" alt="" width="50" /> | BIGBANG                              | [🔗](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) |
-|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebfd7fef26820bce07d68bfea6" alt="" width="50" /> | TREASURE                             | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
+|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebfd7fef26820bce07d68bfea6" alt="" width="50" /> | TREASURE                             | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8eb5e57e526ceb14f06ea203" alt="" width="50" /> | iKON                                 | [🔗](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb5923c0ca32a3cf3a81b34728" alt="" width="50" /> | G-DRAGON                             | [🔗](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb0c93d86c6a500dee31d63995" alt="" width="50" /> | TAEYANG                              | [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) |
@@ -42,7 +42,7 @@
 
 
 <details>
-<summary>See all 35 albums</summary>
+<summary>See all 36 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                             | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------|:-----------------------------------------------------------|
@@ -62,6 +62,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273bb0a530fc901e88d1c7a9f4d" alt="" width="50" /> | First Love                        | [🔗](https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1db30cc6d74a08a5e14274" alt="" width="50" /> | 24℃                               | [🔗](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736f2d10189a41c7345a5a0337" alt="" width="50" /> | To Anyone                         | [🔗](https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27357fa85a5c9f295d5e5b362e7" alt="" width="50" /> | THE SECOND STEP : CHAPTER TWO     | [🔗](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273bedf5e13937a9527ae87889d" alt="" width="50" /> | Still Life                        | [🔗](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d17ca02a739a9a24933cf805" alt="" width="50" /> | Solar International               | [🔗](https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27318a4a215052e9f396864bd73" alt="" width="50" /> | SQUARE TWO                        | [🔗](https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp) |
@@ -154,3 +155,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2730515ed33f0d7687278754306" alt="" width="50" /> | MMM                                                  | THE FIRST STEP : TREASURE EFFECT  | TREASURE                                           | YG Entertainment                                         |     | [🔗](https://open.spotify.com/track/7DlfhY3YfQKi97j0DXihen) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328be5dc3cc0bd6f2482c1d56" alt="" width="50" /> | DARARI                                               | THE SECOND STEP : CHAPTER ONE     | TREASURE                                           | YG Entertainment                                         | 💚   | [🔗](https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328be5dc3cc0bd6f2482c1d56" alt="" width="50" /> | JIKJIN                                               | THE SECOND STEP : CHAPTER ONE     | TREASURE                                           | YG Entertainment                                         | 💚   | [🔗](https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27357fa85a5c9f295d5e5b362e7" alt="" width="50" /> | HELLO                                                | THE SECOND STEP : CHAPTER TWO     | TREASURE                                           | YG Entertainment                                         | 💚   | [🔗](https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k) |
