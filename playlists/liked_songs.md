@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1290 songs](liked_songs_tracks.md)
+[1296 songs](liked_songs_tracks.md)
 
 ## Top Artists
 
@@ -22,12 +22,12 @@
 |                 21 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | [IU](../artists/iu.md)                                         | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 |                 21 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b2621bf3c5f2197ee957582" alt="" width="50" /> | [The Tarpeggios](../artists/the_tarpeggios.md)                 | [🔗](https://open.spotify.com/artist/2HXd5pFHJyaQJr5aXfErrE) |
 |                 19 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)                                       | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
-|                 18 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md)                         | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
+|                 19 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md)                         | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 |                 18 | <img src="https://i.scdn.co/image/ab6761610000e5eb1723d33e6837b553b2e512c1" alt="" width="50" /> | [Pentatonix](../artists/pentatonix.md)                         | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
 |                 17 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../artists/ariana_grande.md)                   | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
+|                 17 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)                               | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 |                 17 | <img src="https://i.scdn.co/image/ab6761610000e5ebc54e9b09db7f35f5bbb0efd4" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)                             | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 |                 16 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../artists/leehi.md)                                   | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
-|                 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)                               | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 |                 16 | <img src="https://i.scdn.co/image/ab6761610000e5eb916392fe8c66d0c993657b6d" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md)                               | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 |                 15 | <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | [Billy Joel](../artists/billy_joel.md)                         | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
 |                 14 | <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | [Florence + The Machine](../artists/florence___the_machine.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
@@ -52,6 +52,7 @@
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb968ab271c895fb9cc245d6fe" alt="" width="50" /> | Billlie                                                        | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb654972693e0efed3f3f4d090" alt="" width="50" /> | Jason Derulo                                                   | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | Imogen Heap                                                    | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
+|                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a29246fa242d0b9f8de3b31" alt="" width="50" /> | SUNMI                                                          | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | [Dua Lipa](../artists/dua_lipa.md)                             | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebc335ac3a535be796643b4eb5" alt="" width="50" /> | BABYMETAL                                                      | [🔗](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e2e0f17d257a40be0782f35" alt="" width="50" /> | BAEKHYUN                                                       | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
@@ -59,7 +60,6 @@
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="" width="50" /> | [EXO](../artists/exo.md)                                       | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | Hwa Sa                                                         | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5ebaad1353fe0343220b1331768" alt="" width="50" /> | SUPER JUNIOR                                                   | [🔗](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) |
-|                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a29246fa242d0b9f8de3b31" alt="" width="50" /> | SUNMI                                                          | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
 |                  6 | <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | The Who                                                        | [🔗](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) |
 |                  6 | <img src="https://i.scdn.co/image/68cfb061951dbd44c95422a54cb70baec0722ca3" alt="" width="50" /> | Joni Mitchell                                                  | [🔗](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb96d66c60658005885d1135ce" alt="" width="50" /> | Daft Punk                                                      | [🔗](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) |
@@ -75,6 +75,7 @@
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebd7611fd8c016979a9301c19d" alt="" width="50" /> | BIBI                                                           | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | CLC                                                            | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410" alt="" width="50" /> | Clean Bandit                                                   | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
+|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb64362c8789b72fb00e0a3611" alt="" width="50" /> | ATEEZ                                                          | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb727a2ac15afe659be999beba" alt="" width="50" /> | Doja Cat                                                       | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d4b74165ecfadcacf0771ae" alt="" width="50" /> | MOMOLAND                                                       | [🔗](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb80584436e5726afb70cee7f8" alt="" width="50" /> | LOONA                                                          | [🔗](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) |
@@ -95,7 +96,6 @@
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb7401998434b12fffd119ae18" alt="" width="50" /> | NCT 127                                                        | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb8e9d1c8642df6f869631fe62" alt="" width="50" /> | Crush                                                          | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb5b1a291b0a6a689091d54d8b" alt="" width="50" /> | IVE                                                            | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
-|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb64362c8789b72fb00e0a3611" alt="" width="50" /> | ATEEZ                                                          | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb767815f4876969e8f888f0db" alt="" width="50" /> | The Rose                                                       | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
 |                  4 | <img src="https://i.scdn.co/image/15b7ee7550ed4472700d573803ff90f2967f84d1" alt="" width="50" /> | A Fine Frenzy                                                  | [🔗](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | Adele                                                          | [🔗](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) |
@@ -109,9 +109,9 @@
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb758f3c632d4d726f1129d336" alt="" width="50" /> | TOMORROW X TOGETHER                                            | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA                                                           | [🔗](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b" alt="" width="50" /> | Eminem                                                         | [🔗](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) |
+|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebd90aa536055fe9806b3960e6" alt="" width="50" /> | GOT7                                                           | [🔗](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb271320bcc15789b23aa83a44" alt="" width="50" /> | Erin McCarley                                                  | [🔗](https://open.spotify.com/artist/6Y4bCmUNPDKqc7dHkVvgim) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e2e2c78de847c4d9b12d32f" alt="" width="50" /> | Charlie Puth                                                   | [🔗](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) |
-|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c" alt="" width="50" /> | Amy Winehouse                                                  | [🔗](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) |
 
 </details>
 
@@ -154,7 +154,6 @@
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Querencia                                   | [🔗](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | Once Upon Another Time                      | [🔗](https://open.spotify.com/album/1PrqYZJRzGNf8AsSOraxnZ) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | 4 ONLY                                      | [🔗](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | ‘The ReVe Festival’ Finale                  | [🔗](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2738ea860a3e6904b875629d672" alt="" width="50" /> | YOUNG-LUV.COM                               | [🔗](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="" width="50" /> | Twenty-Five Twenty-One OST                  | [🔗](https://open.spotify.com/album/77NPr874WU941XZhjO43dR) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | Thriller                                    | [🔗](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) |
@@ -173,6 +172,8 @@
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | CHECKMATE                                   | [🔗](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 28 Reasons - The 1st Mini Album             | [🔗](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | 1000 Forms Of Fear (Deluxe Version)         | [🔗](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | ‘The ReVe Festival’ Finale                  | [🔗](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="" width="50" /> | ‘The ReVe Festival’ Day 1                   | [🔗](https://open.spotify.com/album/2nLEiP268mSFZHW5dajM4R) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2738232e1aaaf4c9ed4b6946ce8" alt="" width="50" /> | the Billage of perception: chapter two      | [🔗](https://open.spotify.com/album/0NuM7kwh6u6fIRjn7Zh7Ss) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2734c5be128bd1b55bf36041574" alt="" width="50" /> | the Billage of perception : chapter one     | [🔗](https://open.spotify.com/album/1kp4txZsSpDNR4EoDFi2LD) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2737bf7ee0ed15bef2699900a6b" alt="" width="50" /> | The Game                                    | [🔗](https://open.spotify.com/album/1h0j80HhdzIMsUGUFiVkqa) |
@@ -225,7 +226,6 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="" width="50" /> | 1st Album [Dystopia : The Tree of Language] | [🔗](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273e95d9f505f2469cf74727805" alt="" width="50" /> | 容 : FACE                                    | [🔗](https://open.spotify.com/album/6eSFX12WIqUtmGsD8UO3FT) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2733a7804057d817ff9f68ca85c" alt="" width="50" /> | ‘The ReVe Festival’ Day 2                   | [🔗](https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="" width="50" /> | ‘The ReVe Festival’ Day 1                   | [🔗](https://open.spotify.com/album/2nLEiP268mSFZHW5dajM4R) |
 
 </details>
 
@@ -242,27 +242,27 @@
 |-------------------:|:--------------------------------------------------------------------------------------------------------------------|
 |                138 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
 |                 66 | [Epic](../labels/epic.md)                                                                                           |
-|                 63 | [Republic Records](../labels/republic_records.md)                                                                   |
+|                 64 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 59 | [Columbia](../labels/columbia.md)                                                                                   |
 |                 53 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
-|                 51 | [Interscope Records](../labels/interscope_records.md)                                                               |
+|                 51 | [Interscope](../labels/interscope.md)                                                                               |
 |                 46 | [Warner Records](../labels/warner_records.md)                                                                       |
 |                 43 | [RCA Records Label](../labels/rca_records_label.md)                                                                 |
-|                 36 | [Universal Music LLC](../labels/universal_music_llc.md)                                                             |
+|                 37 | [Universal Music LLC](../labels/universal_music_llc.md)                                                             |
 |                 31 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                                                 |
 |                 29 | [Genie Music Corporation](../labels/genie_music_corporation.md)                                                     |
 |                 25 | [Atlantic Records](../labels/atlantic_records.md)                                                                   |
 |                 24 | [BIGHIT MUSIC](../labels/bighit_music.md)                                                                           |
+|                 23 | [JYP Entertainment](../labels/jyp_entertainment.md)                                                                 |
 |                 21 | [RBW Inc.](../labels/rbw_inc_.md)                                                                                   |
-|                 21 | [JYP Entertainment](../labels/jyp_entertainment.md)                                                                 |
 |                 21 | [EMI Catalogue](../labels/emi_catalogue.md)                                                                         |
 |                 20 | [Big Machine Records](../labels/big_machine_records.md)                                                             |
 |                 19 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                                                               |
 |                 17 | [Taylor Swift](../labels/taylor_swift.md)                                                                           |
 |                 16 | [Universal-Island Records Ltd.](../labels/universal_island_records_ltd_.md)                                         |
 |                 16 | [Polydor Records](../labels/polydor_records.md)                                                                     |
+|                 15 | [BELIFT LAB](../labels/belift_lab.md)                                                                               |
 |                 14 | [Rhino](../labels/rhino.md)                                                                                         |
-|                 14 | [BELIFT LAB](../labels/belift_lab.md)                                                                               |
 |                 13 | [XL Recordings](../labels/xl_recordings.md)                                                                         |
 |                 13 | [The Tarpeggios](../labels/the_tarpeggios.md)                                                                       |
 |                 12 | [Starship Entertainment](../labels/starship_entertainment.md)                                                       |
@@ -306,6 +306,7 @@
 |                  4 | [UMC (Universal Music Catalogue)](../labels/umc__universal_music_catalogue_.md)                                     |
 |                  4 | [Studio MaumC](../labels/studio_maumc.md)                                                                           |
 |                  4 | [P NATION](../labels/p_nation.md)                                                                                   |
+|                  4 | [KQ Entertainment](../labels/kq_entertainment.md)                                                                   |
 |                  4 | [Hwa&Dam pictures](../labels/hwa_dam_pictures.md)                                                                   |
 |                  4 | [Geffen](../labels/geffen.md)                                                                                       |
 |                  4 | [Fueled By Ramen](../labels/fueled_by_ramen.md)                                                                     |
@@ -316,13 +317,13 @@
 |                  4 | [Abyss Company](../labels/abyss_company.md)                                                                         |
 |                  4 | [ATL](../labels/atl.md)                                                                                             |
 |                  4 | [ADA France](../labels/ada_france.md)                                                                               |
+|                  3 | [sensibility recordings](../labels/sensibility_recordings.md)                                                       |
 |                  3 | [avex trax](../labels/avex_trax.md)                                                                                 |
 |                  3 | [Universal (MT)](../labels/universal__mt_.md)                                                                       |
 |                  3 | [THE BLACK LABEL](../labels/the_black_label.md)                                                                     |
 |                  3 | [Steam Powered Giraffe](../labels/steam_powered_giraffe.md)                                                         |
 |                  3 | [Sony Music Entertainment](../labels/sony_music_entertainment.md)                                                   |
 |                  3 | [Sony BMG Music UK](../labels/sony_bmg_music_uk.md)                                                                 |
-|                  3 | [Sensibility Recordings](../labels/sensibility_recordings.md)                                                       |
 |                  3 | [Parlophone Records Limited](../labels/parlophone_records_limited.md)                                               |
 |                  3 | [Open Wide](../labels/open_wide.md)                                                                                 |
 |                  3 | [Olivia Rodrigo PS](../labels/olivia_rodrigo_ps.md)                                                                 |
@@ -330,7 +331,6 @@
 |                  3 | [MLD ENTERTAINMENT](../labels/mld_entertainment.md)                                                                 |
 |                  3 | [Lindseystomp Records](../labels/lindseystomp_records.md)                                                           |
 |                  3 | [Kemosabe Records](../labels/kemosabe_records.md)                                                                   |
-|                  3 | [KQ Entertainment](../labels/kq_entertainment.md)                                                                   |
 |                  3 | [Island UK](../labels/island_uk.md)                                                                                 |
 |                  3 | [Island Records](../labels/island_records.md)                                                                       |
 |                  3 | [Imperial Distribution](../labels/imperial_distribution.md)                                                         |

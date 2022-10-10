@@ -236,7 +236,7 @@
 |                  2 | [Phonogenic](../labels/phonogenic.md)                                                     |
 |                  2 | [Nuclear Blast Entertainment](../labels/nuclear_blast_entertainment.md)                   |
 |                  2 | [Kid Ina Korner](../labels/kid_ina_korner.md)                                             |
-|                  2 | [Interscope Records](../labels/interscope_records.md)                                     |
+|                  2 | [Interscope](../labels/interscope.md)                                                     |
 |                  1 | [half·alive](../labels/half_alive.md)                                                     |
 |                  1 | [ZAR](../labels/zar.md)                                                                   |
 |                  1 | [Wyvern Lingo](../labels/wyvern_lingo.md)                                                 |

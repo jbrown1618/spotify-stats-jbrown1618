@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273f7da7c0f322b7a1c95190d92" alt="K-Pop" width="100" />
 
-[834 songs](k_pop_tracks.md)
+[836 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -25,7 +25,7 @@
 |                 24 | <img src="https://i.scdn.co/image/ab6761610000e5ebc54e9b09db7f35f5bbb0efd4" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)                   | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 |                 21 | <img src="https://i.scdn.co/image/ab6761610000e5eb916392fe8c66d0c993657b6d" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md)                     | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 |                 20 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../artists/leehi.md)                         | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
-|                 18 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)                     | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
+|                 20 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)                     | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 |                 17 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../artists/mamamoo.md)                     | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
 |                 15 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="" width="50" /> | [SEVENTEEN](../artists/seventeen.md)                 | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
 |                 15 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | [CHUNG HA](../artists/chung_ha.md)                   | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
@@ -136,7 +136,7 @@
 |                  7 | <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | Formula of Love: O+T=<3                          | [🔗](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) |
 |                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | NOEASY                                           | [🔗](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) |
 |                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="" width="50" /> | INVU - The 3rd Album                             | [🔗](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) |
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | ‘The ReVe Festival’ Finale                       | [🔗](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="" width="50" /> | ‘The ReVe Festival’ Day 1                        | [🔗](https://open.spotify.com/album/2nLEiP268mSFZHW5dajM4R) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2738c4a282e84a53c1c8acf129a" alt="" width="50" /> | ‘The ReVe Festival 2022 - Feel My Rhythm’        | [🔗](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2738ea860a3e6904b875629d672" alt="" width="50" /> | YOUNG-LUV.COM                                    | [🔗](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | Windy                                            | [🔗](https://open.spotify.com/album/1lv92CIVZbB2BsHmIx7qJf) |
@@ -150,7 +150,7 @@
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | CHECKMATE                                        | [🔗](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | 4 ONLY                                           | [🔗](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 28 Reasons - The 1st Mini Album                  | [🔗](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="" width="50" /> | ‘The ReVe Festival’ Day 1                        | [🔗](https://open.spotify.com/album/2nLEiP268mSFZHW5dajM4R) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | ‘The ReVe Festival’ Finale                       | [🔗](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2734c5be128bd1b55bf36041574" alt="" width="50" /> | the Billage of perception : chapter one          | [🔗](https://open.spotify.com/album/1kp4txZsSpDNR4EoDFi2LD) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="" width="50" /> | Twenty-Five Twenty-One OST                       | [🔗](https://open.spotify.com/album/77NPr874WU941XZhjO43dR) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273decd839dd4fef3faf64c5fd5" alt="" width="50" /> | SEVENTEEN 4th Album 'Face the Sun'               | [🔗](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) |
@@ -158,6 +158,7 @@
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="" width="50" /> | Palette                                          | [🔗](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | ODDINARY                                         | [🔗](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" alt="" width="50" /> | NewJeans 1st EP 'New Jeans'                      | [🔗](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" alt="" width="50" /> | MANIFESTO : DAY 1                                | [🔗](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | Love Yourself 轉 'Tear'                           | [🔗](https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2735dcded478bd1a908dbabf05e" alt="" width="50" /> | KILL THIS LOVE                                   | [🔗](https://open.spotify.com/album/7viSsSKXrDa95CtUcuc1Iv) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | I burn                                           | [🔗](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) |
@@ -228,7 +229,6 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a55f6bf87219ecb5505e72e4" alt="" width="50" /> | ONLY LOVERS LEFT                                 | [🔗](https://open.spotify.com/album/1u9nYBB0Qw5jyjkexe9Xk6) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273ea82cfc115275d25d9750ae1" alt="" width="50" /> | No.1                                             | [🔗](https://open.spotify.com/album/6xSUUpa9LBZYwJFMJOr8M6) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734957fced6061ee536ca618ab" alt="" width="50" /> | NONSTOP                                          | [🔗](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734525dae431a233a077d2395c" alt="" width="50" /> | NCT RESONANCE Pt. 1 - The 2nd Album              | [🔗](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) |
 
 </details>
 
@@ -250,13 +250,13 @@
 |                 45 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                                                 |
 |                 35 | [BIGHIT MUSIC](../labels/bighit_music.md)                                                                           |
 |                 31 | [JYP Entertainment](../labels/jyp_entertainment.md)                                                                 |
-|                 29 | [Interscope Records](../labels/interscope_records.md)                                                               |
+|                 29 | [Interscope](../labels/interscope.md)                                                                               |
 |                 27 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                                                               |
 |                 25 | [Universal Music LLC](../labels/universal_music_llc.md)                                                             |
 |                 25 | [RBW Inc.](../labels/rbw_inc_.md)                                                                                   |
 |                 18 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)                                                           |
+|                 18 | [BELIFT LAB](../labels/belift_lab.md)                                                                               |
 |                 17 | [HYBE](../labels/hybe.md)                                                                                           |
-|                 16 | [BELIFT LAB](../labels/belift_lab.md)                                                                               |
 |                 15 | [Kakao Entertainment](../labels/kakao_entertainment.md)                                                             |
 |                 14 | [Starship Entertainment](../labels/starship_entertainment.md)                                                       |
 |                 13 | [WM Korea](../labels/wm_korea.md)                                                                                   |
