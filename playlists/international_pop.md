@@ -232,7 +232,7 @@
 |                  3 | [Columbia](../labels/columbia.md)                                                                                           |
 |                  2 | [Universal Music Division Capitol Music France](../labels/universal_music_division_capitol_music_france.md)                 |
 |                  2 | [Samlist](../labels/samlist.md)                                                                                             |
-|                  2 | [Linfair Records Limited](../labels/linfair_records_limited.md)                                                             |
+|                  2 | [Linfair](../labels/linfair.md)                                                                                             |
 |                  2 | [KING RECORDS](../labels/king_records.md)                                                                                   |
 |                  2 | [ITModels under exclusive license to D-Music](../labels/itmodels_under_exclusive_license_to_d_music.md)                     |
 |                  2 | [IRORI Records](../labels/irori_records.md)                                                                                 |

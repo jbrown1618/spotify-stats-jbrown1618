@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1296 songs](liked_songs_tracks.md)
+[1297 songs](liked_songs_tracks.md)
 
 ## Top Artists
 
@@ -23,9 +23,9 @@
 |                 21 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b2621bf3c5f2197ee957582" alt="" width="50" /> | [The Tarpeggios](../artists/the_tarpeggios.md)                 | [🔗](https://open.spotify.com/artist/2HXd5pFHJyaQJr5aXfErrE) |
 |                 19 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)                                       | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 |                 19 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md)                         | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
+|                 18 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)                               | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 |                 18 | <img src="https://i.scdn.co/image/ab6761610000e5eb1723d33e6837b553b2e512c1" alt="" width="50" /> | [Pentatonix](../artists/pentatonix.md)                         | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
 |                 17 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../artists/ariana_grande.md)                   | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
-|                 17 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)                               | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 |                 17 | <img src="https://i.scdn.co/image/ab6761610000e5ebc54e9b09db7f35f5bbb0efd4" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)                             | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 |                 16 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../artists/leehi.md)                                   | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 |                 16 | <img src="https://i.scdn.co/image/ab6761610000e5eb916392fe8c66d0c993657b6d" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md)                               | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
@@ -196,6 +196,7 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="" width="50" /> | NCT 2018 EMPATHY                            | [🔗](https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | More Adventurous (U.S. Release)             | [🔗](https://open.spotify.com/album/4n36X2GMJ84BKh9D9zMRVI) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | MAXIDENT                                    | [🔗](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" alt="" width="50" /> | MANIFESTO : DAY 1                           | [🔗](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2734280a158a96c9b0274eb7e99" alt="" width="50" /> | Love, Save The Empty                        | [🔗](https://open.spotify.com/album/1tF7625TFqvfzMbappj1pQ) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | Love Yourself 轉 'Tear'                      | [🔗](https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9a3105ad4ffb91ad2e2798" alt="" width="50" /> | Life in Cartoon Motion                      | [🔗](https://open.spotify.com/album/4wKkXYJXQWDa9sndBSx0gI) |
@@ -225,7 +226,6 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2736d4056466fc11f6408be2566" alt="" width="50" /> | 21                                          | [🔗](https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="" width="50" /> | 1st Album [Dystopia : The Tree of Language] | [🔗](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273e95d9f505f2469cf74727805" alt="" width="50" /> | 容 : FACE                                    | [🔗](https://open.spotify.com/album/6eSFX12WIqUtmGsD8UO3FT) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2733a7804057d817ff9f68ca85c" alt="" width="50" /> | ‘The ReVe Festival’ Day 2                   | [🔗](https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc) |
 
 </details>
 
@@ -245,7 +245,7 @@
 |                 64 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 59 | [Columbia](../labels/columbia.md)                                                                                   |
 |                 53 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
-|                 51 | [Interscope](../labels/interscope.md)                                                                               |
+|                 51 | [Interscope Records](../labels/interscope_records.md)                                                               |
 |                 46 | [Warner Records](../labels/warner_records.md)                                                                       |
 |                 43 | [RCA Records Label](../labels/rca_records_label.md)                                                                 |
 |                 37 | [Universal Music LLC](../labels/universal_music_llc.md)                                                             |
@@ -261,7 +261,7 @@
 |                 17 | [Taylor Swift](../labels/taylor_swift.md)                                                                           |
 |                 16 | [Universal-Island Records Ltd.](../labels/universal_island_records_ltd_.md)                                         |
 |                 16 | [Polydor Records](../labels/polydor_records.md)                                                                     |
-|                 15 | [BELIFT LAB](../labels/belift_lab.md)                                                                               |
+|                 16 | [BELIFT LAB](../labels/belift_lab.md)                                                                               |
 |                 14 | [Rhino](../labels/rhino.md)                                                                                         |
 |                 13 | [XL Recordings](../labels/xl_recordings.md)                                                                         |
 |                 13 | [The Tarpeggios](../labels/the_tarpeggios.md)                                                                       |
@@ -292,7 +292,7 @@
 |                  6 | [Genie Music Corporation;Stone Music Entertainment](../labels/genie_music_corporation_stone_music_entertainment.md) |
 |                  6 | [FNC ENTERTAINMENT](../labels/fnc_entertainment.md)                                                                 |
 |                  6 | [EDAM Entertainment](../labels/edam_entertainment.md)                                                               |
-|                  6 | [Bad Boy](../labels/bad_boy.md)                                                                                     |
+|                  6 | [Bad Boy Records](../labels/bad_boy_records.md)                                                                     |
 |                  6 | [88rising Music](../labels/88rising_music.md)                                                                       |
 |                  5 | [Riot Games](../labels/riot_games.md)                                                                               |
 |                  5 | [Reprise](../labels/reprise.md)                                                                                     |
@@ -313,9 +313,9 @@
 |                  4 | [Elektra](../labels/elektra.md)                                                                                     |
 |                  4 | [Daft Life Ltd.](../labels/daft_life_ltd_.md)                                                                       |
 |                  4 | [BlockBerryCreative](../labels/blockberrycreative.md)                                                               |
+|                  4 | [Atl](../labels/atl.md)                                                                                             |
 |                  4 | [Arista](../labels/arista.md)                                                                                       |
 |                  4 | [Abyss Company](../labels/abyss_company.md)                                                                         |
-|                  4 | [ATL](../labels/atl.md)                                                                                             |
 |                  4 | [ADA France](../labels/ada_france.md)                                                                               |
 |                  3 | [sensibility recordings](../labels/sensibility_recordings.md)                                                       |
 |                  3 | [avex trax](../labels/avex_trax.md)                                                                                 |

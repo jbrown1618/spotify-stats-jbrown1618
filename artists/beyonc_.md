@@ -23,7 +23,7 @@
 |                 14 | Columbia               |
 |                  6 | Parkwood Entertainment |
 |                  5 | Music World Music      |
-|                  1 | Interscope             |
+|                  1 | Interscope Records     |
 
 ## Tracks
 
@@ -37,7 +37,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | If I Were a Boy                               | I AM...SASHA FIERCE                            | [Music World Music/Columbia](../labels/columbia.md)      | 💚   | [🔗](https://open.spotify.com/track/26NX1wPt1TRCH536yocd6i) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | Sweet Dreams                                  | I AM...SASHA FIERCE                            | [Music World Music/Columbia](../labels/columbia.md)      |     | [🔗](https://open.spotify.com/track/1FKxKGONukVFXWVJxAKmlz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734e8e488284a2cf00a613c0a1" alt="" width="50" /> | I'd Rather Go Blind                           | Music From The Motion Picture Cadillac Records | [Music World Music/Columbia](../labels/columbia.md)      | 💚   | [🔗](https://open.spotify.com/track/45eZSR0jA15KPI2HXVSifw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="" width="50" /> | Telephone                                     | The Fame Monster (Deluxe Edition)              | [Interscope](../labels/interscope.md)                    | 💚   | [🔗](https://open.spotify.com/track/4TCL0qqKyqsMZml0G3M9IM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="" width="50" /> | Telephone                                     | The Fame Monster (Deluxe Edition)              | [Interscope](../labels/interscope_records.md)            | 💚   | [🔗](https://open.spotify.com/track/4TCL0qqKyqsMZml0G3M9IM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | Best Thing I Never Had                        | 4                                              | [Parkwood Entertainment/Columbia](../labels/columbia.md) |     | [🔗](https://open.spotify.com/track/3lBRNqXjPp2j3JMTCXDTNO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | Countdown                                     | 4                                              | [Parkwood Entertainment/Columbia](../labels/columbia.md) | 💚   | [🔗](https://open.spotify.com/track/3axkNosdVQLZiq1HakuGhc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | I Was Here                                    | 4                                              | [Parkwood Entertainment/Columbia](../labels/columbia.md) | 💚   | [🔗](https://open.spotify.com/track/64Tp4KN5U5rtqrasP5a7FH) |

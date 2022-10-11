@@ -250,7 +250,7 @@
 |                 45 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                                                 |
 |                 35 | [BIGHIT MUSIC](../labels/bighit_music.md)                                                                           |
 |                 31 | [JYP Entertainment](../labels/jyp_entertainment.md)                                                                 |
-|                 29 | [Interscope](../labels/interscope.md)                                                                               |
+|                 29 | [Interscope Records](../labels/interscope_records.md)                                                               |
 |                 27 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                                                               |
 |                 25 | [Universal Music LLC](../labels/universal_music_llc.md)                                                             |
 |                 25 | [RBW Inc.](../labels/rbw_inc_.md)                                                                                   |
