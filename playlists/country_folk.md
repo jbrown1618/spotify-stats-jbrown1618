@@ -77,7 +77,7 @@
 |                  5 | [Sugar Hill Records](../labels/sugar_hill_records.md)                               |
 |                  5 | [Sire](../labels/sire.md)                                                           |
 |                  5 | [Glassnote Entertainment Group LLC](../labels/glassnote_entertainment_group_llc.md) |
-|                  4 | [sensibility recordings](../labels/sensibility_recordings.md)                       |
+|                  4 | [Sensibility Recordings](../labels/sensibility_recordings.md)                       |
 |                  4 | [Arista Nashville](../labels/arista_nashville.md)                                   |
 |                  4 | [19 Recordings Limited](../labels/19_recordings_limited.md)                         |
 |                  3 | [Open Wide](../labels/open_wide.md)                                                 |

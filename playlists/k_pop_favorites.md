@@ -227,7 +227,7 @@
 |                 55 | [SM Entertainment](../labels/sm_entertainment.md)                                       |
 |                 19 | [YG Entertainment](../labels/yg_entertainment.md)                                       |
 |                 13 | [Republic Records](../labels/republic_records.md)                                       |
-|                 10 | [Interscope Records](../labels/interscope_records.md)                                   |
+|                 10 | [Interscope](../labels/interscope.md)                                                   |
 |                  8 | [JYP Entertainment](../labels/jyp_entertainment.md)                                     |
 |                  8 | [BELIFT LAB](../labels/belift_lab.md)                                                   |
 |                  7 | [Universal Music LLC](../labels/universal_music_llc.md)                                 |

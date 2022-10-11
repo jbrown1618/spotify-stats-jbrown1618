@@ -131,9 +131,9 @@
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------|:-----------------------------------------------------------|
 |                  8 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | BORN PINK                                        | [🔗](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) |
 |                  7 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | THE ALBUM                                        | [🔗](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) |
-|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="" width="50" /> | Perfect Velvet - The 2nd Album                   | [🔗](https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH) |
 |                  7 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | I NEVER DIE                                      | [🔗](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) |
 |                  7 | <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | Formula of Love: O+T=<3                          | [🔗](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) |
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="" width="50" /> | Perfect Velvet - The 2nd Album                   | [🔗](https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH) |
 |                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | NOEASY                                           | [🔗](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) |
 |                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="" width="50" /> | INVU - The 3rd Album                             | [🔗](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="" width="50" /> | ‘The ReVe Festival’ Day 1                        | [🔗](https://open.spotify.com/album/2nLEiP268mSFZHW5dajM4R) |
@@ -172,6 +172,7 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="" width="50" /> | Taste of Love                                    | [🔗](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2733f6e15b13168587cfc120e52" alt="" width="50" /> | SQUARE UP                                        | [🔗](https://open.spotify.com/album/1HwIUaaEuRsxsIyssqtGLH) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="" width="50" /> | SEOULITE                                         | [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="" width="50" /> | RBB - The 5th Mini Album                         | [🔗](https://open.spotify.com/album/7rNIvLwIpB2mwOzk20iqIl) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273cab1d5724ddfed3aa8a4fd0f" alt="" width="50" /> | PSY 9th                                          | [🔗](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2739b57e9b31c831fb2137c38e2" alt="" width="50" /> | Oh! - The Second Album                           | [🔗](https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | Not Shy                                          | [🔗](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) |
@@ -223,7 +224,6 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27398af56fe9d35e895582d7a97" alt="" width="50" /> | Redd                                             | [🔗](https://open.spotify.com/album/32pXXle0zoKIFG03iefH2c) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273dd525e34b35a55ca3763e28d" alt="" width="50" /> | Raid of Dream                                    | [🔗](https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734a8b951ff5979dc187340b1d" alt="" width="50" /> | RED MOON                                         | [🔗](https://open.spotify.com/album/6GhELYbXRo1LOqRPOCsQrF) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="" width="50" /> | RBB - The 5th Mini Album                         | [🔗](https://open.spotify.com/album/7rNIvLwIpB2mwOzk20iqIl) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f" alt="" width="50" /> | R                                                | [🔗](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a6ea41f7103f07588c18bbdb" alt="" width="50" /> | Pink Funky                                       | [🔗](https://open.spotify.com/album/5Fy5PyBWqMNK7xvXO9Q32f) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a55f6bf87219ecb5505e72e4" alt="" width="50" /> | ONLY LOVERS LEFT                                 | [🔗](https://open.spotify.com/album/1u9nYBB0Qw5jyjkexe9Xk6) |
@@ -250,7 +250,7 @@
 |                 45 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                                                 |
 |                 35 | [BIGHIT MUSIC](../labels/bighit_music.md)                                                                           |
 |                 31 | [JYP Entertainment](../labels/jyp_entertainment.md)                                                                 |
-|                 29 | [Interscope Records](../labels/interscope_records.md)                                                               |
+|                 29 | [Interscope](../labels/interscope.md)                                                                               |
 |                 27 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                                                               |
 |                 25 | [Universal Music LLC](../labels/universal_music_llc.md)                                                             |
 |                 25 | [RBW Inc.](../labels/rbw_inc_.md)                                                                                   |
