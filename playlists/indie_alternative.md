@@ -41,7 +41,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf01bf904b446e4a043acb867" alt="" width="50" /> | The Script                                                     | [🔗](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb9ba4d95b74bacff4d5747f61" alt="" width="50" /> | Hozier                                                         | [🔗](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb378adae733fc578108e3f534" alt="" width="50" /> | Death Cab for Cutie                                            | [🔗](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb96e43e6e2f4206b3e937334d" alt="" width="50" /> | half•alive                                                     | [🔗](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb78b9bf3dfa09b90ec0aac135" alt="" width="50" /> | half•alive                                                     | [🔗](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb61769824ec381aca10903955" alt="" width="50" /> | Wyvern Lingo                                                   | [🔗](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb85d655f7fd1f599911d45891" alt="" width="50" /> | Thirdstory                                                     | [🔗](https://open.spotify.com/artist/7GJbWH8vhhuW22707B8HsW) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816" alt="" width="50" /> | The Neighbourhood                                              | [🔗](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) |
@@ -230,7 +230,7 @@
 |                  3 | [Brute](../labels/brute.md)                                                               |
 |                  3 | [Beaute](../labels/beaute.md)                                                             |
 |                  3 | [Atlantic Records](../labels/atlantic_records.md)                                         |
-|                  3 | [Atl](../labels/atl.md)                                                                   |
+|                  3 | [ATL](../labels/atl.md)                                                                   |
 |                  2 | [Spin-Farm Oy](../labels/spin_farm_oy.md)                                                 |
 |                  2 | [Saddle Creek](../labels/saddle_creek.md)                                                 |
 |                  2 | [Phonogenic](../labels/phonogenic.md)                                                     |

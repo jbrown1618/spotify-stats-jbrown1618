@@ -292,7 +292,7 @@
 |                  6 | [Genie Music Corporation;Stone Music Entertainment](../labels/genie_music_corporation_stone_music_entertainment.md) |
 |                  6 | [FNC ENTERTAINMENT](../labels/fnc_entertainment.md)                                                                 |
 |                  6 | [EDAM Entertainment](../labels/edam_entertainment.md)                                                               |
-|                  6 | [Bad Boy](../labels/bad_boy.md)                                                                                     |
+|                  6 | [Bad Boy Records](../labels/bad_boy_records.md)                                                                     |
 |                  6 | [88rising Music](../labels/88rising_music.md)                                                                       |
 |                  5 | [Riot Games](../labels/riot_games.md)                                                                               |
 |                  5 | [Reprise](../labels/reprise.md)                                                                                     |
@@ -313,9 +313,9 @@
 |                  4 | [Elektra](../labels/elektra.md)                                                                                     |
 |                  4 | [Daft Life Ltd.](../labels/daft_life_ltd_.md)                                                                       |
 |                  4 | [BlockBerryCreative](../labels/blockberrycreative.md)                                                               |
-|                  4 | [Atl](../labels/atl.md)                                                                                             |
 |                  4 | [Arista](../labels/arista.md)                                                                                       |
 |                  4 | [Abyss Company](../labels/abyss_company.md)                                                                         |
+|                  4 | [ATL](../labels/atl.md)                                                                                             |
 |                  4 | [ADA France](../labels/ada_france.md)                                                                               |
 |                  3 | [avex trax](../labels/avex_trax.md)                                                                                 |
 |                  3 | [Universal (MT)](../labels/universal__mt_.md)                                                                       |

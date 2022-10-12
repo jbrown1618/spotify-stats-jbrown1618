@@ -1,10 +1,10 @@
-# PENTATONE
+# PentaTone
 
 21 songs
 
 ## Top Artists
 
-![Bar chart of top 2 artists under PENTATONE](../images/labels/pentatone/artists.png)
+![Bar chart of top 2 artists under PentaTone](../images/labels/pentatone/artists.png)
 
 
 <details>
@@ -20,7 +20,7 @@
 
 ## Top Albums
 
-![Bar chart of top 2 albums in PENTATONE](../images/labels/pentatone/albums.png)
+![Bar chart of top 2 albums in PentaTone](../images/labels/pentatone/albums.png)
 
 
 <details>
@@ -34,7 +34,7 @@
 </details>
 
 
-## Tracks released under PENTATONE
+## Tracks released under PentaTone
 
 | Art                                                                                              | Track                                                                                                                     | Album                                     | Artists                                                                                              | Label     | 💚   | 🔗                                                          |
 |:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------|:------------------------------------------|:-----------------------------------------------------------------------------------------------------|:----------|:----|:-----------------------------------------------------------|

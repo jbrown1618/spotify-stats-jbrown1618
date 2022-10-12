@@ -88,7 +88,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9236c8060febc7d7fc7ea8c4" alt="" width="50" /> | Rachael Yamagata                               | [🔗](https://open.spotify.com/artist/7w0qj2HiAPIeUcoPogvOZ6) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb529f2198b3e9e77c0d5a665b" alt="" width="50" /> | SZA                                            | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba12641edfc4ffbbdf58f7d15" alt="" width="50" /> | Lil Jon                                        | [🔗](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb96e43e6e2f4206b3e937334d" alt="" width="50" /> | half•alive                                     | [🔗](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb78b9bf3dfa09b90ec0aac135" alt="" width="50" /> | half•alive                                     | [🔗](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a398209a4ef3360dce2dec4" alt="" width="50" /> | Snoop Dogg                                     | [🔗](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb142120beb4014a7f8abd0cf0" alt="" width="50" /> | Jonas Brothers                                 | [🔗](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c44e078944196a8c1eec256" alt="" width="50" /> | Colby O'Donis                                  | [🔗](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) |
@@ -263,7 +263,7 @@
 |                  6 | [XL Recordings](../labels/xl_recordings.md)                                                                 |
 |                  6 | [Island Records](../labels/island_records.md)                                                               |
 |                  5 | [Beluga Heights](../labels/beluga_heights.md)                                                               |
-|                  5 | [Bad Boy](../labels/bad_boy.md)                                                                             |
+|                  5 | [Bad Boy Records](../labels/bad_boy_records.md)                                                             |
 |                  4 | [Kemosabe Records](../labels/kemosabe_records.md)                                                           |
 |                  4 | [Atlantic Records UK](../labels/atlantic_records_uk.md)                                                     |
 |                  3 | [Universal-Island Records Ltd.](../labels/universal_island_records_ltd_.md)                                 |
@@ -274,7 +274,7 @@
 |                  3 | [Island UK](../labels/island_uk.md)                                                                         |
 |                  3 | [Fueled By Ramen](../labels/fueled_by_ramen.md)                                                             |
 |                  3 | [Casablanca Records](../labels/casablanca_records.md)                                                       |
-|                  2 | [Wondaland](../labels/wondaland.md)                                                                         |
+|                  2 | [Wondaland Records](../labels/wondaland_records.md)                                                         |
 |                  2 | [Reprise](../labels/reprise.md)                                                                             |
 |                  2 | [Radiculture](../labels/radiculture.md)                                                                     |
 |                  2 | [Phonogenic](../labels/phonogenic.md)                                                                       |

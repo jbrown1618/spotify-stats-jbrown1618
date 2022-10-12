@@ -187,7 +187,7 @@
 |                  1 | [Def Soul](../labels/def_soul.md)                                                         |
 |                  1 | [Def Jam Recordings](../labels/def_jam_recordings.md)                                     |
 |                  1 | [Def Jam](../labels/def_jam.md)                                                           |
-|                  1 | [Bad Boy](../labels/bad_boy.md)                                                           |
+|                  1 | [Bad Boy Records](../labels/bad_boy_records.md)                                           |
 |                  1 | [ATG](../labels/atg.md)                                                                   |
 
 </details>
