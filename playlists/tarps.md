@@ -164,6 +164,7 @@
 |                  2 | [Elektra](../labels/elektra.md)                                                     |
 |                  2 | [Def Jam Recordings](../labels/def_jam_recordings.md)                               |
 |                  2 | [19 Recordings Limited](../labels/19_recordings_limited.md)                         |
+|                  1 | [sensibility recordings](../labels/sensibility_recordings.md)                       |
 |                  1 | [Work](../labels/work.md)                                                           |
 |                  1 | [Warner Records](../labels/warner_records.md)                                       |
 |                  1 | [Vorsicht Musik](../labels/vorsicht_musik.md)                                       |
@@ -172,7 +173,6 @@
 |                  1 | [The Tarpeggios](../labels/the_tarpeggios.md)                                       |
 |                  1 | [Superpop.Co](../labels/superpop_co.md)                                             |
 |                  1 | [Sugar Hill Records](../labels/sugar_hill_records.md)                               |
-|                  1 | [Sensibility Recordings](../labels/sensibility_recordings.md)                       |
 |                  1 | [Rhino](../labels/rhino.md)                                                         |
 |                  1 | [Radiculture](../labels/radiculture.md)                                             |
 |                  1 | [Polydor Records](../labels/polydor_records.md)                                     |
@@ -184,7 +184,7 @@
 |                  1 | [Jive](../labels/jive.md)                                                           |
 |                  1 | [J Records](../labels/j_records.md)                                                 |
 |                  1 | [Island Records](../labels/island_records.md)                                       |
-|                  1 | [Interscope](../labels/interscope.md)                                               |
+|                  1 | [Interscope Records](../labels/interscope_records.md)                               |
 |                  1 | [Hollywood Records](../labels/hollywood_records.md)                                 |
 |                  1 | [Glassnote Entertainment Group LLC](../labels/glassnote_entertainment_group_llc.md) |
 |                  1 | [Geffen](../labels/geffen.md)                                                       |

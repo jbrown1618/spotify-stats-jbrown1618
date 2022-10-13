@@ -243,7 +243,7 @@
 
 |   Number of Tracks | Label                                                                                                       |
 |-------------------:|:------------------------------------------------------------------------------------------------------------|
-|                 30 | [Interscope](../labels/interscope.md)                                                                       |
+|                 30 | [Interscope Records](../labels/interscope_records.md)                                                       |
 |                 29 | [Big Machine Records](../labels/big_machine_records.md)                                                     |
 |                 27 | [RCA Records Label](../labels/rca_records_label.md)                                                         |
 |                 23 | [Columbia](../labels/columbia.md)                                                                           |

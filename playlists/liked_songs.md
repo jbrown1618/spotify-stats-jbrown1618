@@ -245,7 +245,7 @@
 |                 63 | [Epic](../labels/epic.md)                                                                                           |
 |                 59 | [Columbia](../labels/columbia.md)                                                                                   |
 |                 53 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
-|                 51 | [Interscope](../labels/interscope.md)                                                                               |
+|                 51 | [Interscope Records](../labels/interscope_records.md)                                                               |
 |                 46 | [Warner Records](../labels/warner_records.md)                                                                       |
 |                 43 | [RCA Records Label](../labels/rca_records_label.md)                                                                 |
 |                 37 | [Universal Music LLC](../labels/universal_music_llc.md)                                                             |
@@ -317,13 +317,13 @@
 |                  4 | [Abyss Company](../labels/abyss_company.md)                                                                         |
 |                  4 | [ATL](../labels/atl.md)                                                                                             |
 |                  4 | [ADA France](../labels/ada_france.md)                                                                               |
+|                  3 | [sensibility recordings](../labels/sensibility_recordings.md)                                                       |
 |                  3 | [avex trax](../labels/avex_trax.md)                                                                                 |
 |                  3 | [Universal (MT)](../labels/universal__mt_.md)                                                                       |
 |                  3 | [THE BLACK LABEL](../labels/the_black_label.md)                                                                     |
 |                  3 | [Steam Powered Giraffe](../labels/steam_powered_giraffe.md)                                                         |
 |                  3 | [Sony Music Entertainment](../labels/sony_music_entertainment.md)                                                   |
 |                  3 | [Sony BMG Music UK](../labels/sony_bmg_music_uk.md)                                                                 |
-|                  3 | [Sensibility Recordings](../labels/sensibility_recordings.md)                                                       |
 |                  3 | [Parlophone Records Limited](../labels/parlophone_records_limited.md)                                               |
 |                  3 | [Open Wide](../labels/open_wide.md)                                                                                 |
 |                  3 | [Olivia Rodrigo PS](../labels/olivia_rodrigo_ps.md)                                                                 |

@@ -1,10 +1,10 @@
-# Interscope
+# Interscope Records
 
 59 songs
 
 ## Top Artists
 
-![Bar chart of top 20 artists under Interscope](../images/labels/interscope/artists.png)
+![Bar chart of top 20 artists under Interscope Records](../images/labels/interscope_records/artists.png)
 
 
 <details>
@@ -38,7 +38,7 @@
 
 ## Top Albums
 
-![Bar chart of top 29 albums in Interscope](../images/labels/interscope/albums.png)
+![Bar chart of top 29 albums in Interscope Records](../images/labels/interscope_records/albums.png)
 
 
 <details>
@@ -79,7 +79,7 @@
 </details>
 
 
-## Tracks released under Interscope
+## Tracks released under Interscope Records
 
 | Art                                                                                              | Track                            | Album                                      | Artists                                                                            | Label                                                         | 💚   | 🔗                                                          |
 |:-------------------------------------------------------------------------------------------------|:---------------------------------|:-------------------------------------------|:-----------------------------------------------------------------------------------|:--------------------------------------------------------------|:----|:-----------------------------------------------------------|
