@@ -141,7 +141,7 @@
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | The Fame                                                                                            | [🔗](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | Teenage Dream                                                                                       | [🔗](https://open.spotify.com/album/3BoUxfC7YhxNq3TpOfnRif) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | Red                                                                                                 | [🔗](https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2736d4056466fc11f6408be2566" alt="" width="50" /> | 21                                                                                                  | [🔗](https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2731c88166762f2e18f8f23c6f1" alt="" width="50" /> | 21                                                                                                  | [🔗](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | 1000 Forms Of Fear (Deluxe Version)                                                                 | [🔗](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Romance                                                                                             | [🔗](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605" alt="" width="50" /> | Positions                                                                                           | [🔗](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) |
@@ -243,12 +243,12 @@
 
 |   Number of Tracks | Label                                                                                                       |
 |-------------------:|:------------------------------------------------------------------------------------------------------------|
-|                 30 | [Interscope Records](../labels/interscope_records.md)                                                       |
+|                 30 | [Interscope](../labels/interscope.md)                                                                       |
 |                 29 | [Big Machine Records](../labels/big_machine_records.md)                                                     |
 |                 27 | [RCA Records Label](../labels/rca_records_label.md)                                                         |
-|                 23 | [Columbia](../labels/columbia.md)                                                                           |
 |                 21 | [Taylor Swift](../labels/taylor_swift.md)                                                                   |
 |                 21 | [Atlantic Records](../labels/atlantic_records.md)                                                           |
+|                 19 | [Columbia](../labels/columbia.md)                                                                           |
 |                 18 | [Warner Records](../labels/warner_records.md)                                                               |
 |                 18 | [Epic](../labels/epic.md)                                                                                   |
 |                 15 | [Republic Records](../labels/republic_records.md)                                                           |
@@ -274,7 +274,7 @@
 |                  3 | [Island UK](../labels/island_uk.md)                                                                         |
 |                  3 | [Fueled By Ramen](../labels/fueled_by_ramen.md)                                                             |
 |                  3 | [Casablanca Records](../labels/casablanca_records.md)                                                       |
-|                  2 | [Wondaland Records](../labels/wondaland_records.md)                                                         |
+|                  2 | [Wondaland](../labels/wondaland.md)                                                                         |
 |                  2 | [Reprise](../labels/reprise.md)                                                                             |
 |                  2 | [Radiculture](../labels/radiculture.md)                                                                     |
 |                  2 | [Phonogenic](../labels/phonogenic.md)                                                                       |

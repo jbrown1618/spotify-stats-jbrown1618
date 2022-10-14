@@ -174,7 +174,7 @@
 |                  5 | [Beluga Heights](../labels/beluga_heights.md)                   |
 |                  5 | [Bad Boy Records](../labels/bad_boy_records.md)                 |
 |                  3 | [LaFace Records](../labels/laface_records.md)                   |
-|                  2 | [Wondaland Records](../labels/wondaland_records.md)             |
+|                  2 | [Wondaland](../labels/wondaland.md)                             |
 |                  2 | [Golden Child Recordings](../labels/golden_child_recordings.md) |
 |                  2 | [G.O.O.D. Music](../labels/g_o_o_d__music.md)                   |
 |                  1 | [Virgin Records](../labels/virgin_records.md)                   |
@@ -198,9 +198,9 @@
 |                  1 | [Downtown Recordings](../labels/downtown_recordings.md)         |
 |                  1 | [Def Soul](../labels/def_soul.md)                               |
 |                  1 | [Castle Communications](../labels/castle_communications.md)     |
+|                  1 | [Atl](../labels/atl.md)                                         |
 |                  1 | [Arista](../labels/arista.md)                                   |
 |                  1 | [Aftermath Entertainment](../labels/aftermath_entertainment.md) |
-|                  1 | [ATL](../labels/atl.md)                                         |
 |                  1 | [19 Recordings Limited](../labels/19_recordings_limited.md)     |
 
 </details>

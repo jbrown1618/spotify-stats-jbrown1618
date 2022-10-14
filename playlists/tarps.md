@@ -130,7 +130,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737ebde0a5bb07f53a99c15224" alt="" width="50" /> | Barton Hollow                                                      | [🔗](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736b18d0490878750cd69abf2c" alt="" width="50" /> | Bangerz (Deluxe Version)                                           | [🔗](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738f52f321140e4a76ea720c52" alt="" width="50" /> | Back To Black                                                      | [🔗](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e5d3f32e37004060183a5fc5" alt="" width="50" /> | Babel (Deluxe Version)                                             | [🔗](https://open.spotify.com/album/4Blt0T4LKGdWreILkYZre3) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736e2407383e952808a0602b0d" alt="" width="50" /> | Babel (Deluxe Version)                                             | [🔗](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737ed87984e7f39ba42ee1b50a" alt="" width="50" /> | All I Ever Wanted                                                  | [🔗](https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="" width="50" /> | Abbey Road (Remastered)                                            | [🔗](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="" width="50" /> | A Rush of Blood to the Head                                        | [🔗](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) |
@@ -184,7 +184,7 @@
 |                  1 | [Jive](../labels/jive.md)                                                           |
 |                  1 | [J Records](../labels/j_records.md)                                                 |
 |                  1 | [Island Records](../labels/island_records.md)                                       |
-|                  1 | [Interscope Records](../labels/interscope_records.md)                               |
+|                  1 | [Interscope](../labels/interscope.md)                                               |
 |                  1 | [Hollywood Records](../labels/hollywood_records.md)                                 |
 |                  1 | [Glassnote Entertainment Group LLC](../labels/glassnote_entertainment_group_llc.md) |
 |                  1 | [Geffen](../labels/geffen.md)                                                       |
@@ -195,9 +195,9 @@
 |                  1 | [Def Soul](../labels/def_soul.md)                                                   |
 |                  1 | [Big Machine Label Group](../labels/big_machine_label_group.md)                     |
 |                  1 | [Atlantic Records](../labels/atlantic_records.md)                                   |
+|                  1 | [Atl](../labels/atl.md)                                                             |
 |                  1 | [Arista Nashville](../labels/arista_nashville.md)                                   |
 |                  1 | [Arista](../labels/arista.md)                                                       |
-|                  1 | [ATL](../labels/atl.md)                                                             |
 |                  1 | [ATG](../labels/atg.md)                                                             |
 |                  1 | [A&M](../labels/a_m.md)                                                             |
 

@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1289 songs](liked_songs_tracks.md)
+[1288 songs](liked_songs_tracks.md)
 
 ## Top Artists
 
@@ -221,7 +221,7 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273028c3bb4b81ee71dd73d1596" alt="" width="50" /> | An Awesome Wave                                  | [🔗](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="" width="50" /> | ALL OUT                                          | [🔗](https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | 4                                                | [🔗](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2736d4056466fc11f6408be2566" alt="" width="50" /> | 21                                               | [🔗](https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2731c88166762f2e18f8f23c6f1" alt="" width="50" /> | 21                                               | [🔗](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="" width="50" /> | 1st Album [Dystopia : The Tree of Language]      | [🔗](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273e95d9f505f2469cf74727805" alt="" width="50" /> | 容 : FACE                                         | [🔗](https://open.spotify.com/album/6eSFX12WIqUtmGsD8UO3FT) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2733a7804057d817ff9f68ca85c" alt="" width="50" /> | ‘The ReVe Festival’ Day 2                        | [🔗](https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc) |
@@ -243,9 +243,9 @@
 |                138 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
 |                 64 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 63 | [Epic](../labels/epic.md)                                                                                           |
-|                 59 | [Columbia](../labels/columbia.md)                                                                                   |
+|                 56 | [Columbia](../labels/columbia.md)                                                                                   |
 |                 53 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
-|                 51 | [Interscope Records](../labels/interscope_records.md)                                                               |
+|                 51 | [Interscope](../labels/interscope.md)                                                                               |
 |                 46 | [Warner Records](../labels/warner_records.md)                                                                       |
 |                 43 | [RCA Records Label](../labels/rca_records_label.md)                                                                 |
 |                 37 | [Universal Music LLC](../labels/universal_music_llc.md)                                                             |
@@ -300,7 +300,6 @@
 |                  5 | [DREAMCATCHER COMPANY](../labels/dreamcatcher_company.md)                                                           |
 |                  5 | [Beluga Heights](../labels/beluga_heights.md)                                                                       |
 |                  5 | [Atlantic Records UK](../labels/atlantic_records_uk.md)                                                             |
-|                  5 | [A&M](../labels/a_m.md)                                                                                             |
 |                  5 | [143](../labels/143.md)                                                                                             |
 |                  4 | [WM Japan](../labels/wm_japan.md)                                                                                   |
 |                  4 | [UMC (Universal Music Catalogue)](../labels/umc__universal_music_catalogue_.md)                                     |
@@ -313,10 +312,11 @@
 |                  4 | [Elektra](../labels/elektra.md)                                                                                     |
 |                  4 | [Daft Life Ltd.](../labels/daft_life_ltd_.md)                                                                       |
 |                  4 | [BlockBerryCreative](../labels/blockberrycreative.md)                                                               |
+|                  4 | [Atl](../labels/atl.md)                                                                                             |
 |                  4 | [Arista](../labels/arista.md)                                                                                       |
 |                  4 | [Abyss Company](../labels/abyss_company.md)                                                                         |
-|                  4 | [ATL](../labels/atl.md)                                                                                             |
 |                  4 | [ADA France](../labels/ada_france.md)                                                                               |
+|                  4 | [A&M](../labels/a_m.md)                                                                                             |
 |                  3 | [sensibility recordings](../labels/sensibility_recordings.md)                                                       |
 |                  3 | [avex trax](../labels/avex_trax.md)                                                                                 |
 |                  3 | [Universal (MT)](../labels/universal__mt_.md)                                                                       |
@@ -334,12 +334,12 @@
 |                  3 | [Island UK](../labels/island_uk.md)                                                                                 |
 |                  3 | [Island Records](../labels/island_records.md)                                                                       |
 |                  3 | [Imperial Distribution](../labels/imperial_distribution.md)                                                         |
-|                  3 | [Glassnote Entertainment Group LLC](../labels/glassnote_entertainment_group_llc.md)                                 |
 |                  3 | [Fave Entertainment](../labels/fave_entertainment.md)                                                               |
 |                  3 | [Casablanca Records](../labels/casablanca_records.md)                                                               |
 |                  3 | [Canvasback](../labels/canvasback.md)                                                                               |
 |                  3 | [Brute](../labels/brute.md)                                                                                         |
 |                  3 | [Beaute](../labels/beaute.md)                                                                                       |
+|                  3 | [American Recordings Catalog P&D](../labels/american_recordings_catalog_p_d.md)                                     |
 
 </details>
 

@@ -181,7 +181,7 @@
 |                  1 | [Jive](../labels/jive.md)                                                                 |
 |                  1 | [Island Records](../labels/island_records.md)                                             |
 |                  1 | [Island Def Jam](../labels/island_def_jam.md)                                             |
-|                  1 | [Interscope Records](../labels/interscope_records.md)                                     |
+|                  1 | [Interscope](../labels/interscope.md)                                                     |
 |                  1 | [EMI Recorded Music Australia Pty Ltd](../labels/emi_recorded_music_australia_pty_ltd.md) |
 |                  1 | [Down Up Down Music](../labels/down_up_down_music.md)                                     |
 |                  1 | [Def Soul](../labels/def_soul.md)                                                         |

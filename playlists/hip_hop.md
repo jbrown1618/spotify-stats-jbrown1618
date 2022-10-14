@@ -1,9 +1,9 @@
 # Hip Hop
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d0000b2730b1cfc3df4d9d5d4cbce9208ab67616d0000b27310356a0e81371e6644cb1371ab67616d0000b27329a42ba069a854c9078377b4ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="Hip Hop" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d0000b2730b1cfc3df4d9d5d4cbce9208ab67616d0000b27310356a0e81371e6644cb1371ab67616d0000b273908280d9807127e185b71d56ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="Hip Hop" width="100" />
 
-[24 songs](hip_hop_tracks.md)
+[23 songs](hip_hop_tracks.md)
 
 ## Top Artists
 
@@ -19,7 +19,6 @@
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb727a2ac15afe659be999beba" alt="" width="50" /> | Doja Cat                         | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb867008a971fae0f4d913f63a" alt="" width="50" /> | Kanye West                       | [🔗](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb019d6873a01987cbe35888cd" alt="" width="50" /> | [Rihanna](../artists/rihanna.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebb34222b3d3fa6411434640da" alt="" width="50" /> | Black Eyed Peas                  | [🔗](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | Nicki Minaj                      | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb529f2198b3e9e77c0d5a665b" alt="" width="50" /> | SZA                              | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd66f1e0c883f319443d68c45" alt="" width="50" /> | Lil Nas X                        | [🔗](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) |
@@ -35,6 +34,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | Kendrick Lamar                   | [🔗](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
 |                  1 | <img src="https://i.scdn.co/image/184674b36baa9cc7f0048502e78ce615a35ba08f" alt="" width="50" /> | Diddy - Dirty Money              | [🔗](https://open.spotify.com/artist/2QYEvpsWUOjqaYuxDPTCmV) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebed3a04c76cbc92b97f59c3c0" alt="" width="50" /> | Jack Harlow                      | [🔗](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb34222b3d3fa6411434640da" alt="" width="50" /> | Black Eyed Peas                  | [🔗](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bebfdee4c4cfea3473a51ab" alt="" width="50" /> | Megan Thee Stallion              | [🔗](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb858ab48103cfe3c042bc1515" alt="" width="50" /> | Roscoe Dash                      | [🔗](https://open.spotify.com/artist/0bfX8pF8kuHNCs57Ms4jZb) |
 
@@ -43,11 +43,11 @@
 
 ## Top Albums
 
-![Bar chart of top 24 albums in Hip Hop](../images/playlists/hip_hop/albums.png)
+![Bar chart of top 23 albums in Hip Hop](../images/playlists/hip_hop/albums.png)
 
 
 <details>
-<summary>See all 24 albums</summary>
+<summary>See all 23 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                             | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------|:-----------------------------------------------------------|
@@ -73,7 +73,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="" width="50" /> | Graduation                        | [🔗](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) |
 |                  1 | <img src="https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db" alt="" width="50" /> | Flockaveli                        | [🔗](https://open.spotify.com/album/6MQtWELG7aRX7CkAzQ6nLM) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27329a42ba069a854c9078377b4" alt="" width="50" /> | Elephunk                          | [🔗](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e435b4dfdcf5e3c4a25663df" alt="" width="50" /> | Elephunk                          | [🔗](https://open.spotify.com/album/4wBDclsxFzGnR4kVAAMI7K) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27310356a0e81371e6644cb1371" alt="" width="50" /> | Boss Bitch                        | [🔗](https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc) |
 
 </details>
@@ -96,17 +95,17 @@
 |                  2 | [Nicki Minaj](../labels/nicki_minaj.md)                                         |
 |                  2 | [Cash Money](../labels/cash_money.md)                                           |
 |                  2 | [Atlantic Records](../labels/atlantic_records.md)                               |
-|                  2 | [A&M](../labels/a_m.md)                                                         |
 |                  1 | [Warner Records](../labels/warner_records.md)                                   |
 |                  1 | [The Orchard](../labels/the_orchard.md)                                         |
 |                  1 | [KSR](../labels/ksr.md)                                                         |
-|                  1 | [Interscope Records](../labels/interscope_records.md)                           |
+|                  1 | [Interscope](../labels/interscope.md)                                           |
 |                  1 | [EMPIRE](../labels/empire.md)                                                   |
 |                  1 | [Columbia](../labels/columbia.md)                                               |
 |                  1 | [Bad Dreams Records](../labels/bad_dreams_records.md)                           |
 |                  1 | [Bad Boy Records](../labels/bad_boy_records.md)                                 |
 |                  1 | [Asylum](../labels/asylum.md)                                                   |
 |                  1 | [American Recordings Catalog P&D](../labels/american_recordings_catalog_p_d.md) |
+|                  1 | [A&M](../labels/a_m.md)                                                         |
 |                  1 | [3H](../labels/3h.md)                                                           |
 
 </details>

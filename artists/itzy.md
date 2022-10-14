@@ -22,7 +22,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737cba267dc81d036a71f46a3a" alt="" width="50" /> | CRAZY IN LOVE                                       |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732c960195315acacaaabf1271" alt="" width="50" /> | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733ab556e89033a67954311bb9" alt="" width="50" /> | Blah Blah Blah                                      |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733a3519a856ecde919a54e428" alt="" width="50" /> | Blah Blah Blah                                      |
 
 ## Top Record Labels
 
@@ -30,7 +29,7 @@
 |-------------------:|:------------------------|
 |                 14 | Republic Records        |
 |                 10 | JYP Entertainment       |
-|                  3 | WM Japan                |
+|                  2 | WM Japan                |
 |                  1 | Warner Records          |
 |                  1 | Genie Music Corporation |
 
@@ -66,4 +65,3 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | WHAT I WANT                                         | CHECKMATE                                           | [Republic Records](../labels/republic_records.md)               | 💚   | [🔗](https://open.spotify.com/track/28E5sYRuv2gpZPEdNAwMkE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732c960195315acacaaabf1271" alt="" width="50" /> | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) | [Warner Records](../labels/warner_records.md)                   | 💚   | [🔗](https://open.spotify.com/track/5Av4jZOAbtY8STz7KPsNDB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733ab556e89033a67954311bb9" alt="" width="50" /> | Blah Blah Blah                                      | Blah Blah Blah                                      | WM Japan                                                        | 💚   | [🔗](https://open.spotify.com/track/5wOWpaKW92jhcm8pBOlrdR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733a3519a856ecde919a54e428" alt="" width="50" /> | Blah Blah Blah                                      | Blah Blah Blah                                      | WM Japan                                                        |     | [🔗](https://open.spotify.com/track/3ALt4WplxeikQsVAR8rW4w) |

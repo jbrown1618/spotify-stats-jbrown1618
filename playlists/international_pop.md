@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2732433cb43f0f2f0f23b7c8b82ab67616d0000b2734ccc03169b086af698178a99ab67616d0000b2735e3e23be9bdc38cb4767be97ab67616d0000b2739922157daa474131bb3a0fbc" alt="International Pop" width="100" />
 
-[88 songs](international_pop_tracks.md)
+[89 songs](international_pop_tracks.md)
 
 ## Top Artists
 
@@ -22,11 +22,11 @@
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebc6e1280be0bb5a22ff599700" alt="" width="50" /> | Official HIGE DANdism              | [🔗](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb74f0dd71b84ec5b35bef6318" alt="" width="50" /> | Anna Zak                           | [🔗](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb94faa4606299f4f5ccca4e35" alt="" width="50" /> | Daði Freyr                         | [🔗](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebfb5e65ec97be6208db1dabe2" alt="" width="50" /> | Reol                               | [🔗](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f9b2f828db40b35a81cba49" alt="" width="50" /> | Daddy Yankee                       | [🔗](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebec1cd67f4c17468f335206eb" alt="" width="50" /> | Luis Fonsi                         | [🔗](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebbcc85380093f0f19595d497b" alt="" width="50" /> | AKB48                              | [🔗](https://open.spotify.com/artist/01wau5CL3Z1vfJJWkzBkqg) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba788f491b7f731aa08da9725" alt="" width="50" /> | Lothika                            | [🔗](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfb5e65ec97be6208db1dabe2" alt="" width="50" /> | Reol                               | [🔗](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27373fbad4f0963b52586054816" alt="" width="50" /> | הפשוטע                             | [🔗](https://open.spotify.com/artist/7m92aMieltH5ZpodCEHfnb) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd7bb678bef6d2f26110cae49" alt="" width="50" /> | ROSALÍA                            | [🔗](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd3fe0faaa883ca953266afe9" alt="" width="50" /> | Hikaru Utada                       | [🔗](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) |
@@ -124,7 +124,7 @@
 
 
 <details>
-<summary>See all 82 albums</summary>
+<summary>See all 83 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                                                               | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -153,6 +153,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731bccd0e65da477d7f815e229" alt="" width="50" /> | מי זאת                                                                                              | [🔗](https://open.spotify.com/album/3vAQYVlLZrzs7lrjisl5VC) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ec71813c0c13422d225981da" alt="" width="50" /> | לך לישון                                                                                            | [🔗](https://open.spotify.com/album/6Wh0It79i26j0IWWzm3axe) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739b835b4be5631a28c4725a14" alt="" width="50" /> | בשורות טובות                                                                                        | [🔗](https://open.spotify.com/album/1oBfvjTLPPfUEO4R6FqzRl) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737eb0b6f27578d87476a12667" alt="" width="50" /> | Σ                                                                                                   | [🔗](https://open.spotify.com/album/5MruJPW5X4cal6bpN7llrF) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732413b55cebef0c99396fd854" alt="" width="50" /> | Échame La Culpa                                                                                     | [🔗](https://open.spotify.com/album/2Tt0EzXpempSOIHFXVX42v) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739792873842bcfa921ffceebf" alt="" width="50" /> | i'mperfect                                                                                          | [🔗](https://open.spotify.com/album/04ygc7Z2gcGtt7m8pnVUwf) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273752d2becbb91841a31c556b8" alt="" width="50" /> | Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground) | [🔗](https://open.spotify.com/album/3pzQF7YgU1f66pBayA8uHv) |
@@ -231,6 +232,7 @@
 |                  4 | [Sony Music Entertainment](../labels/sony_music_entertainment.md)                                                           |
 |                  3 | [Columbia](../labels/columbia.md)                                                                                           |
 |                  2 | [Universal Music Division Capitol Music France](../labels/universal_music_division_capitol_music_france.md)                 |
+|                  2 | [TOY'S FACTORY](../labels/toy_s_factory.md)                                                                                 |
 |                  2 | [Samlist](../labels/samlist.md)                                                                                             |
 |                  2 | [Linfair Records Limited](../labels/linfair_records_limited.md)                                                             |
 |                  2 | [KING RECORDS](../labels/king_records.md)                                                                                   |
@@ -258,7 +260,6 @@
 |                  1 | [UMLE - Latino](../labels/umle___latino.md)                                                                                 |
 |                  1 | [Trinity Optima Production](../labels/trinity_optima_production.md)                                                         |
 |                  1 | [Team Ear Music](../labels/team_ear_music.md)                                                                               |
-|                  1 | [TOY'S FACTORY](../labels/toy_s_factory.md)                                                                                 |
 |                  1 | [Speedstar](../labels/speedstar.md)                                                                                         |
 |                  1 | [Sony Music Entertainment Indonesia](../labels/sony_music_entertainment_indonesia.md)                                       |
 |                  1 | [Sony Music Entertainment India Pvt. Ltd.](../labels/sony_music_entertainment_india_pvt__ltd_.md)                           |

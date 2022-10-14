@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273f7da7c0f322b7a1c95190d92" alt="K-Pop" width="100" />
 
-[839 songs](k_pop_tracks.md)
+[838 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -19,8 +19,8 @@
 |                 34 | <img src="https://i.scdn.co/image/ab6761610000e5ebd84fd6ae9ccfc6206ea6711e" alt="" width="50" /> | [TWICE](../artists/twice.md)                         | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 |                 30 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)                 | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 |                 29 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)                             | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
-|                 29 | <img src="https://i.scdn.co/image/ab6761610000e5ebaa28abbc6d04ccd22c8ae3b5" alt="" width="50" /> | [ITZY](../artists/itzy.md)                           | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                 28 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md)               | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
+|                 28 | <img src="https://i.scdn.co/image/ab6761610000e5ebaa28abbc6d04ccd22c8ae3b5" alt="" width="50" /> | [ITZY](../artists/itzy.md)                           | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                 26 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | [IU](../artists/iu.md)                               | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 |                 24 | <img src="https://i.scdn.co/image/ab6761610000e5ebc54e9b09db7f35f5bbb0efd4" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)                   | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 |                 22 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)                     | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
@@ -250,7 +250,7 @@
 |                 45 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                                                 |
 |                 35 | [BIGHIT MUSIC](../labels/bighit_music.md)                                                                           |
 |                 31 | [JYP Entertainment](../labels/jyp_entertainment.md)                                                                 |
-|                 29 | [Interscope Records](../labels/interscope_records.md)                                                               |
+|                 29 | [Interscope](../labels/interscope.md)                                                                               |
 |                 27 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                                                               |
 |                 25 | [Universal Music LLC](../labels/universal_music_llc.md)                                                             |
 |                 25 | [RBW Inc.](../labels/rbw_inc_.md)                                                                                   |
@@ -271,10 +271,10 @@
 |                  7 | [DREAMCATCHER COMPANY](../labels/dreamcatcher_company.md)                                                           |
 |                  6 | [Genie Music Corporation;Stone Music Entertainment](../labels/genie_music_corporation_stone_music_entertainment.md) |
 |                  5 | [avex trax](../labels/avex_trax.md)                                                                                 |
-|                  5 | [WM Japan](../labels/wm_japan.md)                                                                                   |
 |                  5 | [P NATION](../labels/p_nation.md)                                                                                   |
 |                  5 | [KQ Entertainment](../labels/kq_entertainment.md)                                                                   |
 |                  5 | [88rising Music](../labels/88rising_music.md)                                                                       |
+|                  4 | [WM Japan](../labels/wm_japan.md)                                                                                   |
 |                  4 | [THE BLACK LABEL](../labels/the_black_label.md)                                                                     |
 |                  4 | [Studio MaumC](../labels/studio_maumc.md)                                                                           |
 |                  4 | [Riot Games](../labels/riot_games.md)                                                                               |
@@ -303,7 +303,7 @@
 |                  2 | [TEAM WANG records](../labels/team_wang_records.md)                                                                 |
 |                  2 | [Sony Music Labels Inc.](../labels/sony_music_labels_inc_.md)                                                       |
 |                  2 | [ShowPLAY ENTERTAINMENT](../labels/showplay_entertainment.md)                                                       |
-|                  2 | [SWING Entertainment](../labels/swing_entertainment.md)                                                             |
+|                  2 | [SWING ENTERTAINMENT](../labels/swing_entertainment.md)                                                             |
 |                  2 | [Million Market](../labels/million_market.md)                                                                       |
 |                  2 | [FNC인베스트먼트](../labels/fnc______.md)                                                                                 |
 |                  2 | [Capitol Records](../labels/capitol_records.md)                                                                     |
