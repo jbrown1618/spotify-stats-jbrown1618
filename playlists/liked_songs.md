@@ -48,7 +48,7 @@
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5903678d3db18e271e42be0" alt="" width="50" /> | [Lana Del Rey](../artists/lana_del_rey.md)                     | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb9f0a954baa44dc8108aab230" alt="" width="50" /> | JEON SOYEON                                                    | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5ebe8637c96a7aa2917eae3c54d" alt="" width="50" /> | Sia                                                            | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
-|                  8 | <img src="https://i.scdn.co/image/ab6761610000e5ebbf973f439e9a11dab997893c" alt="" width="50" /> | [Dreamcatcher](../artists/dreamcatcher.md)                     | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
+|                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="" width="50" /> | [Dreamcatcher](../artists/dreamcatcher.md)                     | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb968ab271c895fb9cc245d6fe" alt="" width="50" /> | Billlie                                                        | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb654972693e0efed3f3f4d090" alt="" width="50" /> | Jason Derulo                                                   | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | Imogen Heap                                                    | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
@@ -79,11 +79,11 @@
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb727a2ac15afe659be999beba" alt="" width="50" /> | Doja Cat                                                       | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d4b74165ecfadcacf0771ae" alt="" width="50" /> | MOMOLAND                                                       | [🔗](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb80584436e5726afb70cee7f8" alt="" width="50" /> | LOONA                                                          | [🔗](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) |
-|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb865a3301762a8fce048cb469" alt="" width="50" /> | Coldplay                                                       | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
+|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb0947103979e5973bca22fcdd" alt="" width="50" /> | Coldplay                                                       | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc1dc943555dfa1ee2a107e5" alt="" width="50" /> | K/DA                                                           | [🔗](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebd96a6a23facfaa2b364b1bdb" alt="" width="50" /> | League of Legends                                              | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="" width="50" /> | EVERGLOW                                                       | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
-|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb91f0483b42b890cdd4371e47" alt="" width="50" /> | Lindsey Stirling                                               | [🔗](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) |
+|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb6d5b2328e36e54bdbb0a7a96" alt="" width="50" /> | Lindsey Stirling                                               | [🔗](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb24b5185226d5b7c6aa91db5a" alt="" width="50" /> | PSY                                                            | [🔗](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) |
 |                  5 | <img src="https://i.scdn.co/image/7b2813bb4afb38f0dab9470a514091fc4ef6b1a1" alt="" width="50" /> | Rilo Kiley                                                     | [🔗](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbca2e91d07d2c53e6610570" alt="" width="50" /> | Seori                                                          | [🔗](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) |
@@ -312,9 +312,9 @@
 |                  4 | [Elektra](../labels/elektra.md)                                                                                     |
 |                  4 | [Daft Life Ltd.](../labels/daft_life_ltd_.md)                                                                       |
 |                  4 | [BlockBerryCreative](../labels/blockberrycreative.md)                                                               |
-|                  4 | [Atl](../labels/atl.md)                                                                                             |
 |                  4 | [Arista](../labels/arista.md)                                                                                       |
 |                  4 | [Abyss Company](../labels/abyss_company.md)                                                                         |
+|                  4 | [ATL](../labels/atl.md)                                                                                             |
 |                  4 | [ADA France](../labels/ada_france.md)                                                                               |
 |                  4 | [A&M](../labels/a_m.md)                                                                                             |
 |                  3 | [sensibility recordings](../labels/sensibility_recordings.md)                                                       |

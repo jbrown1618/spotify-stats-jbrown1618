@@ -17,7 +17,7 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273c567eb6d2598c7013ed46ca2" alt="" width="50" /> | Tim Foust                                    | [🔗](https://open.spotify.com/artist/2VtwFbDZzIoT9ZD0uR5HHD) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb609be0ee540573fd49d1cdea" alt="" width="50" /> | Tyler Ward                                   | [🔗](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebcefd7abc8e4cfd9680005cab" alt="" width="50" /> | Taylor Davis                                 | [🔗](https://open.spotify.com/artist/480xKab3lUPhBBnCzlzqIu) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb91f0483b42b890cdd4371e47" alt="" width="50" /> | Lindsey Stirling                             | [🔗](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6d5b2328e36e54bdbb0a7a96" alt="" width="50" /> | Lindsey Stirling                             | [🔗](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730c9a85ee07c806072c27392a" alt="" width="50" /> | Hank Green                                   | [🔗](https://open.spotify.com/artist/2SQVGFEgP0UZTZC1re2ECh) |
 
 </details>

@@ -198,9 +198,9 @@
 |                  1 | [Downtown Recordings](../labels/downtown_recordings.md)         |
 |                  1 | [Def Soul](../labels/def_soul.md)                               |
 |                  1 | [Castle Communications](../labels/castle_communications.md)     |
-|                  1 | [Atl](../labels/atl.md)                                         |
 |                  1 | [Arista](../labels/arista.md)                                   |
 |                  1 | [Aftermath Entertainment](../labels/aftermath_entertainment.md) |
+|                  1 | [ATL](../labels/atl.md)                                         |
 |                  1 | [19 Recordings Limited](../labels/19_recordings_limited.md)     |
 
 </details>

@@ -181,7 +181,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27314b31a0ac21c8645919204a8" alt="" width="50" /> | Ne reviens pas                                                                                      | [🔗](https://open.spotify.com/album/0w6UtV9Rd14AqjqcwD3j3l) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d03049930583aecb52977265" alt="" width="50" /> | Miku                                                                                                | [🔗](https://open.spotify.com/album/45jD7ltxM60Arhm5FWF49p) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f6b93cc89e67d749ec3013ee" alt="" width="50" /> | Mercy                                                                                               | [🔗](https://open.spotify.com/album/1uuuqBmA5Xklb3htp7Akke) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27303e1a7fcbea3b074e69db4be" alt="" width="50" /> | Memories                                                                                            | [🔗](https://open.spotify.com/album/4tp4dyeVhcG7kM2jUi3Yj5) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b5900aef5989a39a87bda771" alt="" width="50" /> | Memories                                                                                            | [🔗](https://open.spotify.com/album/4tp4dyeVhcG7kM2jUi3Yj5) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e71aaa885c4df5f0a92eab12" alt="" width="50" /> | Me Gusta                                                                                            | [🔗](https://open.spotify.com/album/4IcQ1ni07PmlOenqwf6MgG) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736a986d5aa5b6567ca683f653" alt="" width="50" /> | Lykke te                                                                                            | [🔗](https://open.spotify.com/album/39ktLXlXx02WGz3mUZTxXS) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737bc73fff9f3787c1d8a23167" alt="" width="50" /> | Look At Me                                                                                          | [🔗](https://open.spotify.com/album/3mp41Up4LNhAVLGxl7BAUR) |
@@ -234,7 +234,7 @@
 |                  2 | [Universal Music Division Capitol Music France](../labels/universal_music_division_capitol_music_france.md)                 |
 |                  2 | [TOY'S FACTORY](../labels/toy_s_factory.md)                                                                                 |
 |                  2 | [Samlist](../labels/samlist.md)                                                                                             |
-|                  2 | [Linfair Records Limited](../labels/linfair_records_limited.md)                                                             |
+|                  2 | [Linfair](../labels/linfair.md)                                                                                             |
 |                  2 | [KING RECORDS](../labels/king_records.md)                                                                                   |
 |                  2 | [ITModels under exclusive license to D-Music](../labels/itmodels_under_exclusive_license_to_d_music.md)                     |
 |                  2 | [IRORI Records](../labels/irori_records.md)                                                                                 |

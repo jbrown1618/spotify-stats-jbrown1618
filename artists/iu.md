@@ -15,7 +15,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c63be04ae902b1da7a54d247" alt="" width="50" /> | eight                   |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27315cf3110f19687b1a24943d1" alt="" width="50" /> | REAL                    |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730d378c4756c4fc34b7d3eeaf" alt="" width="50" /> | Pieces                  |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d66b542a97ff4311e8474354" alt="" width="50" /> | NEXT EPISODE            |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27378b220af8d09275494180523" alt="" width="50" /> | NEXT EPISODE            |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27315b8cef21bf4482d56c15614" alt="" width="50" /> | Modern Times – Epilogue |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="" width="50" /> | Modern Times            |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | Love poem               |
@@ -62,6 +62,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | Epilogue                       | IU 5th Album 'LILAC'    | EDAM Entertainment                                      |     | [🔗](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | LILAC                          | IU 5th Album 'LILAC'    | EDAM Entertainment                                      | 💚   | [🔗](https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | My sea                         | IU 5th Album 'LILAC'    | EDAM Entertainment                                      | 💚   | [🔗](https://open.spotify.com/track/46wDG6evLn2iPoQ0F8CUWk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d66b542a97ff4311e8474354" alt="" width="50" /> | NAKKA (with IU)                | NEXT EPISODE            | [YG Entertainment](../labels/yg_entertainment.md)       | 💚   | [🔗](https://open.spotify.com/track/4t2FIqZJORKZGSKg30SShr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27378b220af8d09275494180523" alt="" width="50" /> | NAKKA (with IU)                | NEXT EPISODE            | [YG Entertainment](../labels/yg_entertainment.md)       | 💚   | [🔗](https://open.spotify.com/track/4t2FIqZJORKZGSKg30SShr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d378c4756c4fc34b7d3eeaf" alt="" width="50" /> | Winter Sleep                   | Pieces                  | EDAM Entertainment                                      | 💚   | [🔗](https://open.spotify.com/track/2y4hHM6c48Qzk0bqh33XfB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c0defcb336a0296eb7d704a" alt="" width="50" /> | GANADARA (Feat. IU)            | GANADARA                | MORE VISION                                             | 💚   | [🔗](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) |

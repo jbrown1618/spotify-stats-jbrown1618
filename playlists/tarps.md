@@ -39,7 +39,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc1c077c305eb4b2bcac25fd5" alt="" width="50" /> | Carrie Underwood                                               | [🔗](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273bb2a0b1810640a0cb50c1a7f" alt="" width="50" /> | Da Vinci's Notebook                                            | [🔗](https://open.spotify.com/artist/4rIDY3ojaWd7Z9ky9SFc1g) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebce8d5be6690c6964069ab8e0" alt="" width="50" /> | Jason Mraz                                                     | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb865a3301762a8fce048cb469" alt="" width="50" /> | Coldplay                                                       | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0947103979e5973bca22fcdd" alt="" width="50" /> | Coldplay                                                       | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc78a80d480018ec030aade25" alt="" width="50" /> | Marc Broussard                                                 | [🔗](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9200a6d8565766425c9a1e1" alt="" width="50" /> | Lou Bega                                                       | [🔗](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | Van Morrison                                                   | [🔗](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) |
@@ -195,9 +195,9 @@
 |                  1 | [Def Soul](../labels/def_soul.md)                                                   |
 |                  1 | [Big Machine Label Group](../labels/big_machine_label_group.md)                     |
 |                  1 | [Atlantic Records](../labels/atlantic_records.md)                                   |
-|                  1 | [Atl](../labels/atl.md)                                                             |
 |                  1 | [Arista Nashville](../labels/arista_nashville.md)                                   |
 |                  1 | [Arista](../labels/arista.md)                                                       |
+|                  1 | [ATL](../labels/atl.md)                                                             |
 |                  1 | [ATG](../labels/atg.md)                                                             |
 |                  1 | [A&M](../labels/a_m.md)                                                             |
 

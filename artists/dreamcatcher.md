@@ -2,7 +2,7 @@
 # Dreamcatcher
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5ebbf973f439e9a11dab997893c" alt="Dreamcatcher" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="Dreamcatcher" width="100" />
 
 ## Top Albums
 
