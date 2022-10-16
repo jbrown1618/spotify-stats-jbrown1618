@@ -1,14 +1,14 @@
 # Universal Music LLC
 
-47 songs
+49 songs
 
 ## Top Artists
 
-![Bar chart of top 24 artists under Universal Music LLC](../images/labels/universal_music_llc/artists.png)
+![Bar chart of top 26 artists under Universal Music LLC](../images/labels/universal_music_llc/artists.png)
 
 
 <details>
-<summary>See all 24 artists</summary>
+<summary>See all 26 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                         | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------|:------------------------------------------------------------|
@@ -24,6 +24,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb28c2dea644b78257ccfb4520" alt="" width="50" /> | Seth MacFarlane                                | [🔗](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb548445341ba5aa2ddcd35c87" alt="" width="50" /> | Fujii Kaze                                     | [🔗](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd7611fd8c016979a9301c19d" alt="" width="50" /> | BIBI                                           | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd46ebd494a30ea88327e9715" alt="" width="50" /> | TRI.BE                                         | [🔗](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | Iggy Azalea                                    | [🔗](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)               | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebaaa9e8d56241a48b8f6422b2" alt="" width="50" /> | Kawaguchi Yurina                               | [🔗](https://open.spotify.com/artist/3snqW31jInsZwoYRZTaixr) |
@@ -33,20 +34,21 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | Jessie J                                       | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc19d6c8224e8b1b94bf565e5" alt="" width="50" /> | Perfume                                        | [🔗](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../artists/sara_bareilles.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb65b7b48eeac1b113c75f2295" alt="" width="50" /> | YB                                             | [🔗](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99713cdd2a68b0db306aad6" alt="" width="50" /> | TAEMIN                                         | [🔗](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733e59f3e73b99ed248ab7bae2" alt="" width="50" /> | Lee Young Ji                                   | [🔗](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b52b798227f8e696f791d58" alt="" width="50" /> | Ellie Goulding                                 | [🔗](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0db36498679f03f30606d45f" alt="" width="50" /> | Ellie Goulding                                 | [🔗](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) |
 
 </details>
 
 
 ## Top Albums
 
-![Bar chart of top 26 albums in Universal Music LLC](../images/labels/universal_music_llc/albums.png)
+![Bar chart of top 28 albums in Universal Music LLC](../images/labels/universal_music_llc/albums.png)
 
 
 <details>
-<summary>See all 26 albums</summary>
+<summary>See all 28 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                   | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------|:-----------------------------------------------------------|
@@ -60,11 +62,13 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2733fe0e026d4043e5d62c81328" alt="" width="50" /> | LOVE or TAKE                                            | [🔗](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273cf122fa2dd2c23dcc79f7c51" alt="" width="50" /> | A Page                                                  | [🔗](https://open.spotify.com/album/7jmRVFWYCVgx2OEC1ZQJH8) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dbd5c6e6e365a3e70832780d" alt="" width="50" /> | さよならひとり                                                 | [🔗](https://open.spotify.com/album/0VOMzswFy3fFsOb1tYs1Wd) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273be123bb6b40736bf093870bd" alt="" width="50" /> | Why Be?                                                 | [🔗](https://open.spotify.com/album/4S5PRo1gVG9BvRnCcdYzdS) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273da0376db6b1c5562ab8f5b29" alt="" width="50" /> | WE:TH                                                   | [🔗](https://open.spotify.com/album/1ASYbBYBwV6Rcfc2ycqmlK) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6" alt="" width="50" /> | Uh-Oh                                                   | [🔗](https://open.spotify.com/album/3PzrNuMGWGpp8WOfrmpkaU) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273913c7a28b9dbce0ec35a7045" alt="" width="50" /> | Music Is Better Than Words                              | [🔗](https://open.spotify.com/album/6VojJdbXviFkMuemAQ2Ivo) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273da9c76ed020a7894443a3f97" alt="" width="50" /> | MAP OF THE SOUL : 7 ~ THE JOURNEY ~                     | [🔗](https://open.spotify.com/album/1nScVw87kRJiT2bg2Kswhp) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737bc73fff9f3787c1d8a23167" alt="" width="50" /> | Look At Me                                              | [🔗](https://open.spotify.com/album/3mp41Up4LNhAVLGxl7BAUR) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27303611decaac95320f5549cec" alt="" width="50" /> | LEVIOSA                                                 | [🔗](https://open.spotify.com/album/6ORQnWLnQLERhWhA3ON2Z5) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27396e164f0c5aac83148bb8f24" alt="" width="50" /> | LEVEL3                                                  | [🔗](https://open.spotify.com/album/2DdXcewGp8Akqutak3yLDg) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733e94f2b2c3303120be19210b" alt="" width="50" /> | Habit                                                   | [🔗](https://open.spotify.com/album/690rpRAbQW5LNPrbP27M9U) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273731953ff97a79644f6eb7b4e" alt="" width="50" /> | HELP EVER HURT NEVER                                    | [🔗](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) |
@@ -129,5 +133,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e94f2b2c3303120be19210b" alt="" width="50" /> | Habit                       | Habit                                                   | SEKAI NO OWARI                                                      | Universal Music LLC              |     | [🔗](https://open.spotify.com/track/2uMNMcjjUz8oNIxjIu20qE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273913c7a28b9dbce0ec35a7045" alt="" width="50" /> | Love Won't Let You Get Away | Music Is Better Than Words                              | Seth MacFarlane, [Sara Bareilles](../artists/sara_bareilles.md)     | Fuzzy Door Productions/Universal | 💚   | [🔗](https://open.spotify.com/track/5xNdKpcKqES50j78ac9woY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dbd5c6e6e365a3e70832780d" alt="" width="50" /> | さよならひとり                     | さよならひとり                                                 | TAEMIN                                                              | Universal Music LLC              | 💚   | [🔗](https://open.spotify.com/track/4ltAvuYuC8PNKAStXiWouZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27303611decaac95320f5549cec" alt="" width="50" /> | KISS                        | LEVIOSA                                                 | TRI.BE                                                              | Universal Music Ltd.             | 💚   | [🔗](https://open.spotify.com/track/7MONmJafc7senaIZE3ulWv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273be123bb6b40736bf093870bd" alt="" width="50" /> | A Flying Butterfly          | Why Be?                                                 | YB                                                                  | Universal Music Ltd.             |     | [🔗](https://open.spotify.com/track/3I71PFicYG614VGl6hqcUK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cf122fa2dd2c23dcc79f7c51" alt="" width="50" /> | Bonnie & Clyde              | A Page                                                  | YUQI                                                                | Universal Music LLC              | 💚   | [🔗](https://open.spotify.com/track/21aIsunB7PfZI0vlIoaJPh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cf122fa2dd2c23dcc79f7c51" alt="" width="50" /> | Giant                       | A Page                                                  | YUQI                                                                | Universal Music LLC              | 💚   | [🔗](https://open.spotify.com/track/3p8low79RQzkixDlIngBTT) |

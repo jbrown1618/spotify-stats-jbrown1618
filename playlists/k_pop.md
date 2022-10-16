@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273f7da7c0f322b7a1c95190d92" alt="K-Pop" width="100" />
 
-[838 songs](k_pop_tracks.md)
+[839 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -252,7 +252,7 @@
 |                 31 | [JYP Entertainment](../labels/jyp_entertainment.md)                                                                 |
 |                 29 | [Interscope](../labels/interscope.md)                                                                               |
 |                 27 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                                                               |
-|                 25 | [Universal Music LLC](../labels/universal_music_llc.md)                                                             |
+|                 26 | [Universal Music LLC](../labels/universal_music_llc.md)                                                             |
 |                 25 | [RBW Inc.](../labels/rbw_inc_.md)                                                                                   |
 |                 20 | [BELIFT LAB](../labels/belift_lab.md)                                                                               |
 |                 18 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)                                                           |

@@ -230,7 +230,7 @@
 |                  3 | [Brute](../labels/brute.md)                                                               |
 |                  3 | [Beaute](../labels/beaute.md)                                                             |
 |                  3 | [Atlantic Records](../labels/atlantic_records.md)                                         |
-|                  3 | [ATL](../labels/atl.md)                                                                   |
+|                  3 | [Atl](../labels/atl.md)                                                                   |
 |                  2 | [Spin-Farm Oy](../labels/spin_farm_oy.md)                                                 |
 |                  2 | [Saddle Creek](../labels/saddle_creek.md)                                                 |
 |                  2 | [Phonogenic](../labels/phonogenic.md)                                                     |
