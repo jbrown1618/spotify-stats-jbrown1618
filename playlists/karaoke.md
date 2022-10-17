@@ -35,7 +35,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | [Dua Lipa](../artists/dua_lipa.md)                             | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb12123322672fbf71bd1e5c94" alt="" width="50" /> | Ella Eyre                                                      | [🔗](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb46416642da7b30327821d26e" alt="" width="50" /> | A Great Big World                                              | [🔗](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bb4e2d7bba236bf79f3c18a" alt="" width="50" /> | Backstreet Boys                                                | [🔗](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb63dc867958993e8458517d2b" alt="" width="50" /> | Backstreet Boys                                                | [🔗](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb019d6873a01987cbe35888cd" alt="" width="50" /> | [Rihanna](../artists/rihanna.md)                               | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 |                  1 | <img src="https://i.scdn.co/image/2d695c3269ba763e82b0a24789bc59d92834b125" alt="" width="50" /> | Gary Jules                                                     | [🔗](https://open.spotify.com/artist/5oRnbmgqvvq7fVlgk4vcEa) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8079989370c50963b60ee7bc" alt="" width="50" /> | CeeLo Green                                                    | [🔗](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) |
@@ -181,13 +181,13 @@
 |                  1 | [Jive](../labels/jive.md)                                                                 |
 |                  1 | [Island Records](../labels/island_records.md)                                             |
 |                  1 | [Island Def Jam](../labels/island_def_jam.md)                                             |
-|                  1 | [Interscope](../labels/interscope.md)                                                     |
+|                  1 | [Interscope Records](../labels/interscope_records.md)                                     |
 |                  1 | [EMI Recorded Music Australia Pty Ltd](../labels/emi_recorded_music_australia_pty_ltd.md) |
 |                  1 | [Down Up Down Music](../labels/down_up_down_music.md)                                     |
 |                  1 | [Def Soul](../labels/def_soul.md)                                                         |
 |                  1 | [Def Jam Recordings](../labels/def_jam_recordings.md)                                     |
 |                  1 | [Def Jam](../labels/def_jam.md)                                                           |
-|                  1 | [Bad Boy Records](../labels/bad_boy_records.md)                                           |
+|                  1 | [Bad Boy](../labels/bad_boy.md)                                                           |
 |                  1 | [ATG](../labels/atg.md)                                                                   |
 
 </details>

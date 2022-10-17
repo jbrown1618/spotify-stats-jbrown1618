@@ -28,7 +28,7 @@
 |                 12 | Universal Music LLC                                   |
 |                 10 | Republic Records                                      |
 |                  1 | Silver Cloud                                          |
-|                  1 | Interscope                                            |
+|                  1 | Interscope Records                                    |
 |                  1 | Charlie's Angels                                      |
 |                  1 | Ariana Grande & Justin Bieber "Stuck With U"- Charity |
 
@@ -57,7 +57,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ca010dcf3863a07611d8b4f" alt="" width="50" /> | boyfriend (with Social House)                                            | boyfriend                                             | [Republic Records](../labels/republic_records.md)     |     | [🔗](https://open.spotify.com/track/0Ryd8975WihbObpp5cPW1t) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c891137d2513ecd496e9152e" alt="" width="50" /> | Don’t Call Me Angel (Charlie’s Angels) (with Miley Cyrus & Lana Del Rey) | Charlie's Angels (Original Motion Picture Soundtrack) | Silver Cloud/Charlie's Angels                         |     | [🔗](https://open.spotify.com/track/6zegtH6XXd2PDPLvy1Y0n2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732babb9dbd8f5146112f1bf86" alt="" width="50" /> | Stuck with U (with Justin Bieber)                                        | Stuck with U                                          | Ariana Grande & Justin Bieber "Stuck With U"- Charity | 💚   | [🔗](https://open.spotify.com/track/4HBZA5flZLE435QTztThqH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | Rain On Me (with Ariana Grande)                                          | Chromatica                                            | [Interscope](../labels/interscope.md)                 |     | [🔗](https://open.spotify.com/track/7ju97lgwC2rKQ6wwsf9no9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | Rain On Me (with Ariana Grande)                                          | Chromatica                                            | [Interscope](../labels/interscope_records.md)         |     | [🔗](https://open.spotify.com/track/7ju97lgwC2rKQ6wwsf9no9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605" alt="" width="50" /> | motive (with Doja Cat)                                                   | Positions                                             | [Republic Records](../labels/republic_records.md)     |     | [🔗](https://open.spotify.com/track/5GkQIP5mWPi4KZLLXeuFTT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605" alt="" width="50" /> | positions                                                                | Positions                                             | [Republic Records](../labels/republic_records.md)     | 💚   | [🔗](https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605" alt="" width="50" /> | pov                                                                      | Positions                                             | [Republic Records](../labels/republic_records.md)     |     | [🔗](https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33) |

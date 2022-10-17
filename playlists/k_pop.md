@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273f7da7c0f322b7a1c95190d92" alt="K-Pop" width="100" />
 
-[839 songs](k_pop_tracks.md)
+[840 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -250,15 +250,15 @@
 |                 45 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                                                 |
 |                 35 | [BIGHIT MUSIC](../labels/bighit_music.md)                                                                           |
 |                 31 | [JYP Entertainment](../labels/jyp_entertainment.md)                                                                 |
-|                 29 | [Interscope](../labels/interscope.md)                                                                               |
+|                 29 | [Interscope Records](../labels/interscope_records.md)                                                               |
 |                 27 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                                                               |
 |                 26 | [Universal Music LLC](../labels/universal_music_llc.md)                                                             |
 |                 25 | [RBW Inc.](../labels/rbw_inc_.md)                                                                                   |
 |                 20 | [BELIFT LAB](../labels/belift_lab.md)                                                                               |
 |                 18 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)                                                           |
 |                 17 | [HYBE](../labels/hybe.md)                                                                                           |
+|                 15 | [Starship Entertainment](../labels/starship_entertainment.md)                                                       |
 |                 15 | [Kakao Entertainment](../labels/kakao_entertainment.md)                                                             |
-|                 14 | [Starship Entertainment](../labels/starship_entertainment.md)                                                       |
 |                 13 | [WM Korea](../labels/wm_korea.md)                                                                                   |
 |                 11 | [Warner Records](../labels/warner_records.md)                                                                       |
 |                 11 | [High Up Entertainment](../labels/high_up_entertainment.md)                                                         |

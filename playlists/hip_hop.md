@@ -98,11 +98,11 @@
 |                  1 | [Warner Records](../labels/warner_records.md)                                   |
 |                  1 | [The Orchard](../labels/the_orchard.md)                                         |
 |                  1 | [KSR](../labels/ksr.md)                                                         |
-|                  1 | [Interscope](../labels/interscope.md)                                           |
+|                  1 | [Interscope Records](../labels/interscope_records.md)                           |
 |                  1 | [EMPIRE](../labels/empire.md)                                                   |
 |                  1 | [Columbia](../labels/columbia.md)                                               |
 |                  1 | [Bad Dreams Records](../labels/bad_dreams_records.md)                           |
-|                  1 | [Bad Boy Records](../labels/bad_boy_records.md)                                 |
+|                  1 | [Bad Boy](../labels/bad_boy.md)                                                 |
 |                  1 | [Asylum](../labels/asylum.md)                                                   |
 |                  1 | [American Recordings Catalog P&D](../labels/american_recordings_catalog_p_d.md) |
 |                  1 | [A&M](../labels/a_m.md)                                                         |

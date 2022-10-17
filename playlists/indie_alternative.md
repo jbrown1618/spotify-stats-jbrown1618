@@ -61,7 +61,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd3a1193ab04e0fb2b297e619" alt="" width="50" /> | Conan Gray                                                     | [🔗](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d800f202dd15af03179876b" alt="" width="50" /> | Jess Glynne                                                    | [🔗](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8167bcebaf508dc6c3459b1" alt="" width="50" /> | Maggie Rogers                                                  | [🔗](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb028bd6def01c39f7cdfadc77" alt="" width="50" /> | Anjulie                                                        | [🔗](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9c2923280237f7d8e381528c" alt="" width="50" /> | Anjulie                                                        | [🔗](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb379e885a01898367bfcd0c44" alt="" width="50" /> | Caro Emerald                                                   | [🔗](https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd96a6a23facfaa2b364b1bdb" alt="" width="50" /> | League of Legends                                              | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5925909bff0f2cf1bf94f949" alt="" width="50" /> | Christopher                                                    | [🔗](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) |
@@ -230,13 +230,13 @@
 |                  3 | [Brute](../labels/brute.md)                                                               |
 |                  3 | [Beaute](../labels/beaute.md)                                                             |
 |                  3 | [Atlantic Records](../labels/atlantic_records.md)                                         |
-|                  3 | [Atl](../labels/atl.md)                                                                   |
+|                  3 | [ATL](../labels/atl.md)                                                                   |
 |                  2 | [Spin-Farm Oy](../labels/spin_farm_oy.md)                                                 |
 |                  2 | [Saddle Creek](../labels/saddle_creek.md)                                                 |
 |                  2 | [Phonogenic](../labels/phonogenic.md)                                                     |
 |                  2 | [Nuclear Blast Entertainment](../labels/nuclear_blast_entertainment.md)                   |
 |                  2 | [Kid Ina Korner](../labels/kid_ina_korner.md)                                             |
-|                  2 | [Interscope](../labels/interscope.md)                                                     |
+|                  2 | [Interscope Records](../labels/interscope_records.md)                                     |
 |                  1 | [half·alive](../labels/half_alive.md)                                                     |
 |                  1 | [ZAR](../labels/zar.md)                                                                   |
 |                  1 | [Wyvern Lingo](../labels/wyvern_lingo.md)                                                 |

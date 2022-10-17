@@ -40,7 +40,7 @@
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb46e7a06fa6dfefaed6a3f0db" alt="" width="50" /> | Shawn Mendes                                   | [🔗](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c" alt="" width="50" /> | Amy Winehouse                                  | [🔗](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebf7db7c8ede90a019c54590bb" alt="" width="50" /> | Harry Styles                                   | [🔗](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) |
-|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bb4e2d7bba236bf79f3c18a" alt="" width="50" /> | Backstreet Boys                                | [🔗](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) |
+|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb63dc867958993e8458517d2b" alt="" width="50" /> | Backstreet Boys                                | [🔗](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb02651b19050d8bf64b18d40a" alt="" width="50" /> | Miley Cyrus                                    | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../artists/sara_bareilles.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb2e42d906f4f9f672359e7379" alt="" width="50" /> | Usher                                          | [🔗](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) |
@@ -243,7 +243,7 @@
 
 |   Number of Tracks | Label                                                                                                       |
 |-------------------:|:------------------------------------------------------------------------------------------------------------|
-|                 30 | [Interscope](../labels/interscope.md)                                                                       |
+|                 30 | [Interscope Records](../labels/interscope_records.md)                                                       |
 |                 29 | [Big Machine Records](../labels/big_machine_records.md)                                                     |
 |                 27 | [RCA Records Label](../labels/rca_records_label.md)                                                         |
 |                 21 | [Taylor Swift](../labels/taylor_swift.md)                                                                   |
@@ -263,7 +263,7 @@
 |                  6 | [XL Recordings](../labels/xl_recordings.md)                                                                 |
 |                  6 | [Island Records](../labels/island_records.md)                                                               |
 |                  5 | [Beluga Heights](../labels/beluga_heights.md)                                                               |
-|                  5 | [Bad Boy Records](../labels/bad_boy_records.md)                                                             |
+|                  5 | [Bad Boy](../labels/bad_boy.md)                                                                             |
 |                  4 | [Kemosabe Records](../labels/kemosabe_records.md)                                                           |
 |                  4 | [Atlantic Records UK](../labels/atlantic_records_uk.md)                                                     |
 |                  3 | [Universal-Island Records Ltd.](../labels/universal_island_records_ltd_.md)                                 |
@@ -274,7 +274,7 @@
 |                  3 | [Island UK](../labels/island_uk.md)                                                                         |
 |                  3 | [Fueled By Ramen](../labels/fueled_by_ramen.md)                                                             |
 |                  3 | [Casablanca Records](../labels/casablanca_records.md)                                                       |
-|                  2 | [Wondaland](../labels/wondaland.md)                                                                         |
+|                  2 | [Wondaland Records](../labels/wondaland_records.md)                                                         |
 |                  2 | [Reprise](../labels/reprise.md)                                                                             |
 |                  2 | [Radiculture](../labels/radiculture.md)                                                                     |
 |                  2 | [Phonogenic](../labels/phonogenic.md)                                                                       |
