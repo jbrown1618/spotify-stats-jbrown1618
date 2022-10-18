@@ -303,7 +303,7 @@
 |                  2 | [TEAM WANG records](../labels/team_wang_records.md)                                                                 |
 |                  2 | [Sony Music Labels Inc.](../labels/sony_music_labels_inc_.md)                                                       |
 |                  2 | [ShowPLAY ENTERTAINMENT](../labels/showplay_entertainment.md)                                                       |
-|                  2 | [SWING ENTERTAINMENT](../labels/swing_entertainment.md)                                                             |
+|                  2 | [SWING Entertainment](../labels/swing_entertainment.md)                                                             |
 |                  2 | [Million Market](../labels/million_market.md)                                                                       |
 |                  2 | [FNC인베스트먼트](../labels/fnc______.md)                                                                                 |
 |                  2 | [Capitol Records](../labels/capitol_records.md)                                                                     |

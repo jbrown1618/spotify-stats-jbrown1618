@@ -195,9 +195,9 @@
 |                  1 | [Def Soul](../labels/def_soul.md)                                                   |
 |                  1 | [Big Machine Label Group](../labels/big_machine_label_group.md)                     |
 |                  1 | [Atlantic Records](../labels/atlantic_records.md)                                   |
+|                  1 | [Atl](../labels/atl.md)                                                             |
 |                  1 | [Arista Nashville](../labels/arista_nashville.md)                                   |
 |                  1 | [Arista](../labels/arista.md)                                                       |
-|                  1 | [ATL](../labels/atl.md)                                                             |
 |                  1 | [ATG](../labels/atg.md)                                                             |
 |                  1 | [A&M](../labels/a_m.md)                                                             |
 

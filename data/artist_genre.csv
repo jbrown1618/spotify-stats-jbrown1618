@@ -85,7 +85,6 @@ spotify:artist:0GM7qgcRCORpGnfcN2tCiB,latin hip hop
 spotify:artist:0GM7qgcRCORpGnfcN2tCiB,latin pop
 spotify:artist:0GM7qgcRCORpGnfcN2tCiB,pop reggaeton
 spotify:artist:0GM7qgcRCORpGnfcN2tCiB,reggaeton
-spotify:artist:0GM7qgcRCORpGnfcN2tCiB,reggaeton flow
 spotify:artist:0GM7qgcRCORpGnfcN2tCiB,trap latino
 spotify:artist:0GgY7hjMoGDsX8ZDe2mwds,francoton
 spotify:artist:0GgY7hjMoGDsX8ZDe2mwds,french hip hop
@@ -721,6 +720,7 @@ spotify:artist:2AQjGvtT0pFYfxR3neFcvz,dance pop
 spotify:artist:2AQjGvtT0pFYfxR3neFcvz,neo mellow
 spotify:artist:2AQjGvtT0pFYfxR3neFcvz,pop
 spotify:artist:2AQjGvtT0pFYfxR3neFcvz,post-teen pop
+spotify:artist:2AQjGvtT0pFYfxR3neFcvz,r&b
 spotify:artist:2AQjGvtT0pFYfxR3neFcvz,uk pop
 spotify:artist:2AQjGvtT0pFYfxR3neFcvz,urban contemporary
 spotify:artist:2AfmfGFbe0A0WsTYm0SDTx,k-pop
@@ -1036,7 +1036,6 @@ spotify:artist:320EPCSEezHt1rtbfwH6Ck,soft rock
 spotify:artist:320EPCSEezHt1rtbfwH6Ck,sunshine pop
 spotify:artist:320TrJub4arztwXRm7kqVO,blues
 spotify:artist:320TrJub4arztwXRm7kqVO,blues rock
-spotify:artist:320TrJub4arztwXRm7kqVO,country rock
 spotify:artist:320TrJub4arztwXRm7kqVO,electric blues
 spotify:artist:320TrJub4arztwXRm7kqVO,folk rock
 spotify:artist:320TrJub4arztwXRm7kqVO,funk
@@ -1196,6 +1195,7 @@ spotify:artist:3Y7RZ31TRPVadSFVy1o8os,rap
 spotify:artist:3Y7RZ31TRPVadSFVy1o8os,urban contemporary
 spotify:artist:3YQKmKGau1PzlVlkL1iodx,modern rock
 spotify:artist:3YQKmKGau1PzlVlkL1iodx,rock
+spotify:artist:3Ybg9gi5V2x6i8OsLc9M7p,show tunes
 spotify:artist:3YwqjMyrRfuixi2pbgTGCE,francoton
 spotify:artist:3YwqjMyrRfuixi2pbgTGCE,french hip hop
 spotify:artist:3YwqjMyrRfuixi2pbgTGCE,pop urbaine
@@ -1366,6 +1366,7 @@ spotify:artist:43wuPaPcZVMJQWLRaPR4Yz,classical performance
 spotify:artist:43wuPaPcZVMJQWLRaPR4Yz,classical piano
 spotify:artist:43wuPaPcZVMJQWLRaPR4Yz,polish classical piano
 spotify:artist:44NX2ffIYHr6D4n7RaZF7A,classic rock
+spotify:artist:44NX2ffIYHr6D4n7RaZF7A,folk
 spotify:artist:44NX2ffIYHr6D4n7RaZF7A,folk rock
 spotify:artist:44NX2ffIYHr6D4n7RaZF7A,mellow gold
 spotify:artist:44NX2ffIYHr6D4n7RaZF7A,rock
@@ -1454,6 +1455,7 @@ spotify:artist:4IAWVxo2fpTBPn6k7GZ3eY,neoclassicism
 spotify:artist:4IBl8k6ZsBagsI5zRjyXH7,classical
 spotify:artist:4IBl8k6ZsBagsI5zRjyXH7,classical performance
 spotify:artist:4IBl8k6ZsBagsI5zRjyXH7,string quartet
+spotify:artist:4KDyYWR7IpxZ7xrdYbKrqY,classic rock
 spotify:artist:4KDyYWR7IpxZ7xrdYbKrqY,country rock
 spotify:artist:4KDyYWR7IpxZ7xrdYbKrqY,electric blues
 spotify:artist:4KDyYWR7IpxZ7xrdYbKrqY,folk
@@ -1546,7 +1548,6 @@ spotify:artist:4cEwEednPwWCdYT7ZhROZe,acoustic pop
 spotify:artist:4cEwEednPwWCdYT7ZhROZe,lafayette indie
 spotify:artist:4cEwEednPwWCdYT7ZhROZe,neo mellow
 spotify:artist:4cgBCGxtlfap2g6jveB7du,indonesian pop
-spotify:artist:4cgBCGxtlfap2g6jveB7du,indonesian pop rock
 spotify:artist:4cgBCGxtlfap2g6jveB7du,malaysian pop
 spotify:artist:4dpARuHxo51G3z768sgnrY,british soul
 spotify:artist:4dpARuHxo51G3z768sgnrY,pop
@@ -1740,7 +1741,6 @@ spotify:artist:5Hc9oDGvStNGmnj44m8sHg,acoustic cover
 spotify:artist:5Hc9oDGvStNGmnj44m8sHg,channel pop
 spotify:artist:5Hc9oDGvStNGmnj44m8sHg,neo mellow
 spotify:artist:5Hc9oDGvStNGmnj44m8sHg,pop rock
-spotify:artist:5Hc9oDGvStNGmnj44m8sHg,post-teen pop
 spotify:artist:5Hc9oDGvStNGmnj44m8sHg,viral pop
 spotify:artist:5I2cYLH1KGi4ezFJ9X7JTI,classical tenor
 spotify:artist:5I2cYLH1KGi4ezFJ9X7JTI,wagnerian singing
@@ -2011,7 +2011,6 @@ spotify:artist:5yG7ZAZafVaAlMTeBybKAL,uk pop
 spotify:artist:5yG7ZAZafVaAlMTeBybKAL,viral rap
 spotify:artist:5yw4tA8D5uG7tT3NaDvq10,social media pop
 spotify:artist:5yxyJsFanEAuwSM5kOuZKc,british orchestra
-spotify:artist:5yxyJsFanEAuwSM5kOuZKc,classical
 spotify:artist:5yxyJsFanEAuwSM5kOuZKc,classical performance
 spotify:artist:5yxyJsFanEAuwSM5kOuZKc,orchestra
 spotify:artist:5zCaQxjl110XTrm4LQ1CxY,classical
@@ -2033,7 +2032,6 @@ spotify:artist:5zzrJD2jXrE9dZ1AklRFcL,scottish singer-songwriter
 spotify:artist:60d24wfXkVzDSfLS6hyCjZ,dance pop
 spotify:artist:60d24wfXkVzDSfLS6hyCjZ,dutch edm
 spotify:artist:60d24wfXkVzDSfLS6hyCjZ,edm
-spotify:artist:60d24wfXkVzDSfLS6hyCjZ,electro house
 spotify:artist:60d24wfXkVzDSfLS6hyCjZ,pop
 spotify:artist:60d24wfXkVzDSfLS6hyCjZ,pop dance
 spotify:artist:60d24wfXkVzDSfLS6hyCjZ,progressive house
@@ -2189,7 +2187,6 @@ spotify:artist:6PkSULcbxFKkxdgrmPGAvn,contemporary vocal jazz
 spotify:artist:6PkSULcbxFKkxdgrmPGAvn,jazz pop
 spotify:artist:6PkSULcbxFKkxdgrmPGAvn,vocal jazz
 spotify:artist:6Q192DXotxtaysaqNPy5yR,british soul
-spotify:artist:6Q192DXotxtaysaqNPy5yR,indie r&b
 spotify:artist:6Q192DXotxtaysaqNPy5yR,neo soul
 spotify:artist:6QRb3jE2lCfMU1iUuVQMaV,movie tunes
 spotify:artist:6QtGlUje9TIkLrgPZrESuk,album rock
@@ -2324,7 +2321,6 @@ spotify:artist:6nVMMEywS5Y4tsHPKx1nIo,k-pop
 spotify:artist:6nVMMEywS5Y4tsHPKx1nIo,k-pop boy group
 spotify:artist:6nWKAdMv1BDq1zHfZzkdbR,k-pop
 spotify:artist:6ncNdxBc8zVWMOF7nJ5Pgy,american classical piano
-spotify:artist:6ncNdxBc8zVWMOF7nJ5Pgy,classical performance
 spotify:artist:6ncNdxBc8zVWMOF7nJ5Pgy,classical piano
 spotify:artist:6nfDaffa50mKtEOwR8g4df,k-pop
 spotify:artist:6nfDaffa50mKtEOwR8g4df,k-pop boy group
@@ -2372,6 +2368,7 @@ spotify:artist:6ueGR6SWhUJfvEhqkvMsVs,atl hip hop
 spotify:artist:6ueGR6SWhUJfvEhqkvMsVs,electropop
 spotify:artist:6ueGR6SWhUJfvEhqkvMsVs,escape room
 spotify:artist:6ueGR6SWhUJfvEhqkvMsVs,neo soul
+spotify:artist:6ueGR6SWhUJfvEhqkvMsVs,r&b
 spotify:artist:6vWDO969PvNqNYHIOW5v0m,dance pop
 spotify:artist:6vWDO969PvNqNYHIOW5v0m,pop
 spotify:artist:6vWDO969PvNqNYHIOW5v0m,r&b
@@ -2394,7 +2391,6 @@ spotify:artist:6z29S0IoiBJpSMP8plyCj7,indy indie
 spotify:artist:6z29S0IoiBJpSMP8plyCj7,neo mellow
 spotify:artist:6z29S0IoiBJpSMP8plyCj7,piano rock
 spotify:artist:6z29S0IoiBJpSMP8plyCj7,pop rock
-spotify:artist:6z29S0IoiBJpSMP8plyCj7,post-teen pop
 spotify:artist:6z29S0IoiBJpSMP8plyCj7,viral pop
 spotify:artist:6zFYqv1mOsgBRQbae3JJ9e,classic rock
 spotify:artist:6zFYqv1mOsgBRQbae3JJ9e,folk rock
@@ -2559,7 +2555,6 @@ spotify:artist:7gOdHgIoIKoe4i9Tta6qdD,pop
 spotify:artist:7gOdHgIoIKoe4i9Tta6qdD,post-teen pop
 spotify:artist:7gOdHgIoIKoe4i9Tta6qdD,uk pop
 spotify:artist:7guDJrEfX3qb6FEbdPA5qi,funk
-spotify:artist:7guDJrEfX3qb6FEbdPA5qi,indie r&b
 spotify:artist:7guDJrEfX3qb6FEbdPA5qi,motown
 spotify:artist:7guDJrEfX3qb6FEbdPA5qi,quiet storm
 spotify:artist:7guDJrEfX3qb6FEbdPA5qi,soul
@@ -2580,6 +2575,7 @@ spotify:artist:7ie36YytMoKtPiL7tUvmoE,russian modern classical
 spotify:artist:7jVv8c5Fj3E9VhNjxT4snq,lgbtq+ hip hop
 spotify:artist:7jVv8c5Fj3E9VhNjxT4snq,pop
 spotify:artist:7k73EtZwoPs516ZxE72KsO,j-pop
+spotify:artist:7k73EtZwoPs516ZxE72KsO,j-poprock
 spotify:artist:7k73EtZwoPs516ZxE72KsO,j-rock
 spotify:artist:7k73EtZwoPs516ZxE72KsO,japanese emo
 spotify:artist:7k73EtZwoPs516ZxE72KsO,visual kei
