@@ -1,6 +1,6 @@
 # RBW Inc.
 
-26 songs
+27 songs
 
 ## Top Artists
 
@@ -12,7 +12,7 @@
 
 |   Number of Tracks | Art                                                                                              | Artist                           | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------|:------------------------------------------------------------|
-|                  9 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../artists/mamamoo.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
+|                 10 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../artists/mamamoo.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | Hwa Sa                           | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebea3e3a63d8bc191f631f6e0e" alt="" width="50" /> | PURPLE KISS                      | [🔗](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0b4c8d0a415cab50e033129" alt="" width="50" /> | Solar                            | [🔗](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) |
@@ -27,11 +27,11 @@
 
 ## Top Albums
 
-![Bar chart of top 22 albums in RBW Inc.](../images/labels/rbw_inc_/albums.png)
+![Bar chart of top 23 albums in RBW Inc.](../images/labels/rbw_inc_/albums.png)
 
 
 <details>
-<summary>See all 22 albums</summary>
+<summary>See all 23 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                  | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------|:-----------------------------------------------------------|
@@ -50,6 +50,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731ecc60c0ad785d457bdc0a36" alt="" width="50" /> | SPIT IT OUT            | [🔗](https://open.spotify.com/album/1pLSlOXtHKPoSoB6ovnIAK) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273294c757e724cc58bbbd29287" alt="" width="50" /> | SELFISH                | [🔗](https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a84d6d77bb01c3bd737c47d7" alt="" width="50" /> | María                  | [🔗](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27322f0e32bfb91476f0ad96656" alt="" width="50" /> | MIC ON                 | [🔗](https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730865f5f5799f2ee1b3c0fcec" alt="" width="50" /> | HIDE & SEEK            | [🔗](https://open.spotify.com/album/1Oh6STLhW6dxRAkvOUBHl8) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730b479d89335fbca7de943443" alt="" width="50" /> | Geekyland              | [🔗](https://open.spotify.com/album/7EDCoH5wfSGYdZ7wXCmTF4) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b4fd0ba98f675df97c5748b1" alt="" width="50" /> | Dingga                 | [🔗](https://open.spotify.com/album/4xzsBcZaK04c8IE5iVyMNK) |
@@ -78,6 +79,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273b4fd0ba98f675df97c5748b1" alt="" width="50" /> | Dingga                               | Dingga                 | [MAMAMOO](../artists/mamamoo.md) | RBW, Inc  | 💚   | [🔗](https://open.spotify.com/track/0bDYceyQd1jnJO4sK47YxU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731cc469da4da1bccfa16867be" alt="" width="50" /> | AYA                                  | TRAVEL                 | [MAMAMOO](../artists/mamamoo.md) | RBW Inc.  | 💚   | [🔗](https://open.spotify.com/track/4BZXVFYCb76Q0Klojq4piV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ae843591bcdace9489c86fb0" alt="" width="50" /> | Where Are We Now                     | WAW                    | [MAMAMOO](../artists/mamamoo.md) | RBW Inc.  | 💚   | [🔗](https://open.spotify.com/track/0cLXk75Pan3mhRlWqHiynh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27322f0e32bfb91476f0ad96656" alt="" width="50" /> | ILLELLA                              | MIC ON                 | [MAMAMOO](../artists/mamamoo.md) | RBW Inc.  | 💚   | [🔗](https://open.spotify.com/track/0oeVHAgY8Q7Mdce5Quj2G4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273294c757e724cc58bbbd29287" alt="" width="50" /> | SELFISH (Feat. SEULGI Of Red Velvet) | SELFISH                | Moon Byul, SEULGI                | RBW, Inc  |     | [🔗](https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273498f71db374f1a18ac831412" alt="" width="50" /> | Shutdown (Feat.Seori)                | Shutdown (Feat. Seori) | Moon Byul, Seori                 | RBW Inc.  | 💚   | [🔗](https://open.spotify.com/track/69790X4RDQIKwcxltIMHvU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733618088cfcd2a966a61937cb" alt="" width="50" /> | LUNATIC                              | 6equence               | Moon Byul                        | RBW Inc.  | 💚   | [🔗](https://open.spotify.com/track/3hicr5nSY0RrKGEy3nYZwU) |

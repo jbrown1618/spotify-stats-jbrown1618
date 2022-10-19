@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b273714e56679ab196354e2e443eab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738c4a282e84a53c1c8acf129a" alt="K-Pop Favorites" width="100" />
 
-[189 songs](k_pop_favorites_tracks.md)
+[190 songs](k_pop_favorites_tracks.md)
 
 ## Top Artists
 
@@ -23,8 +23,8 @@
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../artists/aespa.md)                         | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md)               | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebaa28abbc6d04ccd22c8ae3b5" alt="" width="50" /> | [ITZY](../artists/itzy.md)                           | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
+|                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebc54e9b09db7f35f5bbb0efd4" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)                   | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb916392fe8c66d0c993657b6d" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md)                     | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
-|                  6 | <img src="https://i.scdn.co/image/ab6761610000e5ebc54e9b09db7f35f5bbb0efd4" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)                   | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../artists/leehi.md)                         | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | [CHUNG HA](../artists/chung_ha.md)                   | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../artists/mamamoo.md)                     | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
@@ -162,7 +162,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b787b5b8c27a5dbd360c0f59" alt="" width="50" /> | THE WAR - The 4th Album                          | [🔗](https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27328be5dc3cc0bd6f2482c1d56" alt="" width="50" /> | THE SECOND STEP : CHAPTER ONE                    | [🔗](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731544041d0285585cc92c2709" alt="" width="50" /> | THE BOYZ 6TH MINI ALBUM [THRILL-ING]             | [🔗](https://open.spotify.com/album/0lh0pZ8GjZGrAhzIG4Jn0E) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738131bc2ae77ffa6bfe615bea" alt="" width="50" /> | Still Life                                       | [🔗](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | Still Life                                       | [🔗](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | Sticker - The 3rd Album                          | [🔗](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273cc6f76f75551af499b5cd0cb" alt="" width="50" /> | Step Back                                        | [🔗](https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273bc125f40131dd5869b2ec36c" alt="" width="50" /> | Star To A Young Culture                          | [🔗](https://open.spotify.com/album/4PrRd0lIunUEiiE5rbZklR) |
@@ -234,8 +234,8 @@
 |                  7 | [RBW Inc.](../labels/rbw_inc_.md)                                                       |
 |                  6 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                     |
 |                  6 | [Genie Music Corporation](../labels/genie_music_corporation.md)                         |
+|                  6 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                                   |
 |                  5 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)                               |
-|                  5 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                                   |
 |                  4 | [Kakao Entertainment](../labels/kakao_entertainment.md)                                 |
 |                  4 | [BIGHIT MUSIC](../labels/bighit_music.md)                                               |
 |                  3 | [Warner Records](../labels/warner_records.md)                                           |

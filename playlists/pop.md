@@ -263,7 +263,7 @@
 |                  6 | [XL Recordings](../labels/xl_recordings.md)                                                                 |
 |                  6 | [Island Records](../labels/island_records.md)                                                               |
 |                  5 | [Beluga Heights](../labels/beluga_heights.md)                                                               |
-|                  5 | [Bad Boy Records](../labels/bad_boy_records.md)                                                             |
+|                  5 | [Bad Boy](../labels/bad_boy.md)                                                                             |
 |                  4 | [Kemosabe Records](../labels/kemosabe_records.md)                                                           |
 |                  4 | [Atlantic Records UK](../labels/atlantic_records_uk.md)                                                     |
 |                  3 | [Universal-Island Records Ltd.](../labels/universal_island_records_ltd_.md)                                 |
@@ -274,7 +274,7 @@
 |                  3 | [Island UK](../labels/island_uk.md)                                                                         |
 |                  3 | [Fueled By Ramen](../labels/fueled_by_ramen.md)                                                             |
 |                  3 | [Casablanca Records](../labels/casablanca_records.md)                                                       |
-|                  2 | [Wondaland](../labels/wondaland.md)                                                                         |
+|                  2 | [Wondaland Records](../labels/wondaland_records.md)                                                         |
 |                  2 | [Reprise](../labels/reprise.md)                                                                             |
 |                  2 | [Radiculture](../labels/radiculture.md)                                                                     |
 |                  2 | [Phonogenic](../labels/phonogenic.md)                                                                       |

@@ -18,6 +18,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731cc469da4da1bccfa16867be" alt="" width="50" /> | TRAVEL           |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737709b0a8ba9059fc46fefcb2" alt="" width="50" /> | Purple           |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737752724657197df65e7c82f9" alt="" width="50" /> | Piano Man        |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27322f0e32bfb91476f0ad96656" alt="" width="50" /> | MIC ON           |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273733b6abfa76a28b999feb572" alt="" width="50" /> | MEMORY           |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27367f8236540d6f145e2f0baa1" alt="" width="50" /> | Hello            |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b4fd0ba98f675df97c5748b1" alt="" width="50" /> | Dingga           |
@@ -27,7 +28,7 @@
 
 |   Number of Tracks | Label                     |
 |-------------------:|:--------------------------|
-|                  9 | RBW Inc.                  |
+|                 10 | RBW Inc.                  |
 |                  7 | Stone Music Entertainment |
 |                  2 | Genie Music Corporation   |
 |                  1 | RADCOMM                   |
@@ -53,3 +54,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273b4fd0ba98f675df97c5748b1" alt="" width="50" /> | Dingga           | Dingga           | [RBW, Inc](../labels/rbw_inc_.md)                                                                                                    | 💚   | [🔗](https://open.spotify.com/track/0bDYceyQd1jnJO4sK47YxU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731cc469da4da1bccfa16867be" alt="" width="50" /> | AYA              | TRAVEL           | [RBW Inc.](../labels/rbw_inc_.md)                                                                                                    | 💚   | [🔗](https://open.spotify.com/track/4BZXVFYCb76Q0Klojq4piV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ae843591bcdace9489c86fb0" alt="" width="50" /> | Where Are We Now | WAW              | [RBW Inc.](../labels/rbw_inc_.md)                                                                                                    | 💚   | [🔗](https://open.spotify.com/track/0cLXk75Pan3mhRlWqHiynh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27322f0e32bfb91476f0ad96656" alt="" width="50" /> | ILLELLA          | MIC ON           | [RBW Inc.](../labels/rbw_inc_.md)                                                                                                    | 💚   | [🔗](https://open.spotify.com/track/0oeVHAgY8Q7Mdce5Quj2G4) |

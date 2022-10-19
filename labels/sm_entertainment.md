@@ -1,6 +1,6 @@
 # SM Entertainment
 
-195 songs
+192 songs
 
 ## Top Artists
 
@@ -8,7 +8,7 @@
 
 
 <details>
-<summary>See all 55 artists</summary>
+<summary>See all 54 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                               | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------|:------------------------------------------------------------|
@@ -23,7 +23,6 @@
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bd65b0efee10bfa8328c33b" alt="" width="50" /> | NCT U                                                | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c8ac3b2d8d886fbf3f0877a" alt="" width="50" /> | NCT DREAM                                            | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb26e3996e1a02077ef320026d" alt="" width="50" /> | SEULGI                                               | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
-|                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb57d6dae61ab174bd8f9c462f" alt="" width="50" /> | JOY                                                  | [🔗](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb6ee9f83106240222e4328db4" alt="" width="50" /> | WENDY                                                | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b13da5a8a3dd6e0d53ff764" alt="" width="50" /> | Red Velvet - IRENE & SEULGI                          | [🔗](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb515e5754d89e4df8123e3f9f" alt="" width="50" /> | HYO                                                  | [🔗](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) |
@@ -32,6 +31,7 @@
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99713cdd2a68b0db306aad6" alt="" width="50" /> | TAEMIN                                               | [🔗](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebff36ed787b017a7ff3c40a0e" alt="" width="50" /> | TAEYONG                                              | [🔗](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb66701ca609176d8fd4a9c4a0" alt="" width="50" /> | NCT                                                  | [🔗](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG) |
+|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb57d6dae61ab174bd8f9c462f" alt="" width="50" /> | JOY                                                  | [🔗](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf55b31064f94878f3da932c8" alt="" width="50" /> | MAX CHANGMIN                                         | [🔗](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebac19ac3b8773baa5791999fb" alt="" width="50" /> | TVXQ!                                                | [🔗](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf0a01c9ca9312dbe5ed6b6d9" alt="" width="50" /> | KAI                                                  | [🔗](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) |
@@ -54,7 +54,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebdcd36fcfe83b4b3d50ee3fe0" alt="" width="50" /> | BE'O                                                 | [🔗](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8d69367047a24d20b0323ff7" alt="" width="50" /> | SuperM                                               | [🔗](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4f5651247c44fc2368200e76" alt="" width="50" /> | YERI                                                 | [🔗](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb30f15a01438e13b1217f1bae" alt="" width="50" /> | Paul Kim                                             | [🔗](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | Suzy                                                 | [🔗](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebdbd3a4fca1931c225fdddc81" alt="" width="50" /> | Loopy                                                | [🔗](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0cb523dc06f4780d254cd88a" alt="" width="50" /> | TEN                                                  | [🔗](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) |
@@ -83,7 +82,6 @@
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------|:-----------------------------------------------------------|
 |                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="" width="50" /> | Perfect Velvet - The 2nd Album                     | [🔗](https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH) |
 |                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="" width="50" /> | INVU - The 3rd Album                               | [🔗](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) |
-|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b27366ff63bc084fb412aa2dddd3" alt="" width="50" /> | Hello - Special Album                              | [🔗](https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="" width="50" /> | ‘The ReVe Festival’ Day 1                          | [🔗](https://open.spotify.com/album/2nLEiP268mSFZHW5dajM4R) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2738c4a282e84a53c1c8acf129a" alt="" width="50" /> | ‘The ReVe Festival 2022 - Feel My Rhythm’          | [🔗](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | Savage - The 1st Mini Album                        | [🔗](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) |
@@ -97,6 +95,7 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="" width="50" /> | RBB - The 5th Mini Album                           | [🔗](https://open.spotify.com/album/7rNIvLwIpB2mwOzk20iqIl) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2739b57e9b31c831fb2137c38e2" alt="" width="50" /> | Oh! - The Second Album                             | [🔗](https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="" width="50" /> | NCT 2018 EMPATHY                                   | [🔗](https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27366ff63bc084fb412aa2dddd3" alt="" width="50" /> | Hello - Special Album                              | [🔗](https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273e70b87a4bd471f82768bdcb9" alt="" width="50" /> | DON'T FIGHT THE FEELING - Special Album            | [🔗](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2735e64c5b1565cac58c05f3c0d" alt="" width="50" /> | Bambi - The 3rd Mini Album                         | [🔗](https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2733a7804057d817ff9f68ca85c" alt="" width="50" /> | ‘The ReVe Festival’ Day 2                          | [🔗](https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc) |
@@ -241,11 +240,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27327a007e6c009a38bf2f89277" alt="" width="50" /> | Second (feat. BIBI)         | Second                                             | HYO, BIBI                                                     | SM Entertainment                                                        | 💚   | [🔗](https://open.spotify.com/track/4ghTyKLeMMTZQ85LwRbej0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da5d3cc4b932b0e51723ab01" alt="" width="50" /> | DEEP                        | DEEP - The 1st Mini Album                          | HYO                                                           | SM Entertainment                                                        | 💚   | [🔗](https://open.spotify.com/track/2afNmSvxjRvXw3Fqm9qWfK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da5d3cc4b932b0e51723ab01" alt="" width="50" /> | Stupid                      | DEEP - The 1st Mini Album                          | HYO                                                           | SM Entertainment                                                        |     | [🔗](https://open.spotify.com/track/3ghA3YbRClR38uHjQhOZPo) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27366ff63bc084fb412aa2dddd3" alt="" width="50" /> | Be There For You            | Hello - Special Album                              | JOY                                                           | SM Entertainment                                                        |     | [🔗](https://open.spotify.com/track/2lwOE4xj0tw2Bpjc6wmzUP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27366ff63bc084fb412aa2dddd3" alt="" width="50" /> | Day By Day                  | Hello - Special Album                              | JOY                                                           | SM Entertainment                                                        |     | [🔗](https://open.spotify.com/track/035HmS3BoIvFVe1ho1qxc4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27366ff63bc084fb412aa2dddd3" alt="" width="50" /> | Happy Birthday To You       | Hello - Special Album                              | JOY                                                           | SM Entertainment                                                        |     | [🔗](https://open.spotify.com/track/29Vfu3AZXW3EOxtalAajJ9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27366ff63bc084fb412aa2dddd3" alt="" width="50" /> | Hello                       | Hello - Special Album                              | JOY                                                           | SM Entertainment                                                        | 💚   | [🔗](https://open.spotify.com/track/3cGp1jXxLReLKz7QgVbWZR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27366ff63bc084fb412aa2dddd3" alt="" width="50" /> | If Only                     | Hello - Special Album                              | JOY, Paul Kim                                                 | SM Entertainment                                                        |     | [🔗](https://open.spotify.com/track/6aULghOfvWw67SrLrpgCDG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27366ff63bc084fb412aa2dddd3" alt="" width="50" /> | Je T'aime                   | Hello - Special Album                              | JOY                                                           | SM Entertainment                                                        | 💚   | [🔗](https://open.spotify.com/track/18m3QugKZFaKjoMbe8CyjL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27337ff46852249bdfc938beefa" alt="" width="50" /> | Mmmh                        | KAI - The 1st Mini Album                           | KAI                                                           | SM Entertainment                                                        | 💚   | [🔗](https://open.spotify.com/track/5dntGTbUtmUO239wQ0k3yM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e17d7c9f32167b7b7c8e9f21" alt="" width="50" /> | Peaches                     | Peaches - The 2nd Mini Album                       | KAI                                                           | SM Entertainment                                                        | 💚   | [🔗](https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw) |

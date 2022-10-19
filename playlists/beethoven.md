@@ -61,7 +61,7 @@
 |-------------------:|:------------------------------------------------------------------|
 |                103 | [Decca Music Group Ltd.](../labels/decca_music_group_ltd_.md)     |
 |                 42 | [Deutsche Grammophon (DG)](../labels/deutsche_grammophon__dg_.md) |
-|                 21 | [PentaTone](../labels/pentatone.md)                               |
+|                 21 | [PENTATONE](../labels/pentatone.md)                               |
 
 </details>
 

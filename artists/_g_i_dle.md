@@ -9,6 +9,7 @@
 |   Number of Tracks | Art                                                                                              | Album        |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------|
 |                  7 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | I NEVER DIE  |
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | I love       |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | I burn       |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | I trust      |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="" width="50" /> | I am         |
@@ -24,7 +25,7 @@
 
 |   Number of Tracks | Label               |
 |-------------------:|:--------------------|
-|                 12 | CUBE ENTERTAINMENT  |
+|                 18 | CUBE ENTERTAINMENT  |
 |                  9 | Universal Music LLC |
 |                  3 | Riot Games          |
 
@@ -56,3 +57,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | Never Stop Me          | I NEVER DIE  | [Cube Entertainment](../labels/cube_entertainment.md)   | 💚   | [🔗](https://open.spotify.com/track/0ckILmtBH2r5UFOtTf2cN0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | TOMBOY                 | I NEVER DIE  | [Cube Entertainment](../labels/cube_entertainment.md)   | 💚   | [🔗](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | VILLAIN DIES           | I NEVER DIE  | [Cube Entertainment](../labels/cube_entertainment.md)   | 💚   | [🔗](https://open.spotify.com/track/6adPuBjUw3Zh6wK27d8Rgv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Change                 | I love       | [Cube Entertainment](../labels/cube_entertainment.md)   |     | [🔗](https://open.spotify.com/track/6wXYyw7TBQlJ0qh3RNP8MD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | DARK (X-file)          | I love       | [Cube Entertainment](../labels/cube_entertainment.md)   |     | [🔗](https://open.spotify.com/track/4xc3JpkI8kxLwk1SJafjzh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | LOVE                   | I love       | [Cube Entertainment](../labels/cube_entertainment.md)   | 💚   | [🔗](https://open.spotify.com/track/6dmMXI9tVrDgFmxpjttZmF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Nxde                   | I love       | [Cube Entertainment](../labels/cube_entertainment.md)   | 💚   | [🔗](https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Reset                  | I love       | [Cube Entertainment](../labels/cube_entertainment.md)   |     | [🔗](https://open.spotify.com/track/6b5UB8AvYPTYP5AC99BYjB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Sculpture              | I love       | [Cube Entertainment](../labels/cube_entertainment.md)   | 💚   | [🔗](https://open.spotify.com/track/7f9Nbqm1ds2kxGHioJtdf3) |
