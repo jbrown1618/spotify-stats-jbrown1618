@@ -12,7 +12,7 @@
 
 |   Number of Tracks | Art                                                                                              | Artist      | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:------------|:------------------------------------------------------------|
-|                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb1b015e0ed3c7026676771ca3" alt="" width="50" /> | LE SSERAFIM | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
+|                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebfb6c0b7b6918dca92be0ed75" alt="" width="50" /> | LE SSERAFIM | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebd0701912e6fccf8427bc7361" alt="" width="50" /> | GFRIEND     | [🔗](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd40fae46480e4202ef69316d" alt="" width="50" /> | YUJU        | [🔗](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) |
 

@@ -2,7 +2,7 @@
 # (G)I-DLE
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5ebc54e9b09db7f35f5bbb0efd4" alt="(G)I-DLE" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="(G)I-DLE" width="100" />
 
 ## Top Albums
 

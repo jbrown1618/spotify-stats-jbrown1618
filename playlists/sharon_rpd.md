@@ -30,7 +30,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../artists/aespa.md)           | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8543b9b2b5d153d37c46606d" alt="" width="50" /> | LISA                                   | [🔗](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd86145072666f72cc5e833d8" alt="" width="50" /> | Monsta X                               | [🔗](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1b015e0ed3c7026676771ca3" alt="" width="50" /> | LE SSERAFIM                            | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfb6c0b7b6918dca92be0ed75" alt="" width="50" /> | LE SSERAFIM                            | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb66701ca609176d8fd4a9c4a0" alt="" width="50" /> | NCT                                    | [🔗](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bd65b0efee10bfa8328c33b" alt="" width="50" /> | NCT U                                  | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
@@ -96,7 +96,7 @@
 |-------------------:|:----------------------------------------------------------------------|
 |                  5 | [SM Entertainment](../labels/sm_entertainment.md)                     |
 |                  4 | [YG Entertainment](../labels/yg_entertainment.md)                     |
-|                  4 | [Interscope Records](../labels/interscope_records.md)                 |
+|                  4 | [Interscope](../labels/interscope.md)                                 |
 |                  4 | [BIGHIT MUSIC](../labels/bighit_music.md)                             |
 |                  3 | [Starship Entertainment](../labels/starship_entertainment.md)         |
 |                  3 | [Republic Records](../labels/republic_records.md)                     |
