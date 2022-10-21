@@ -14,13 +14,14 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273afc368ba57bb5ac9b576e122" alt="" width="50" /> | 악몽                                          |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737c0618723e2fca9e617eec34" alt="" width="50" /> | [Summer Holiday]                            |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731e998666727247d231c75cf8" alt="" width="50" /> | [Dystopia : Road to Utopia]                 |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c7d075ac409f015413350f6d" alt="" width="50" /> | [Apocalypse : Follow us]                    |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735497178d3e5f7cd1f88f9be8" alt="" width="50" /> | The End of Nightmare                        |
 
 ## Top Record Labels
 
 |   Number of Tracks | Label                |
 |-------------------:|:---------------------|
-|                  7 | DREAMCATCHER COMPANY |
+|                  8 | DREAMCATCHER COMPANY |
 |                  2 | ㈜ 드림캐쳐컴퍼니            |
 |                  1 | 해피페이스 엔터테인먼트         |
 |                  1 | 드림캐쳐컴퍼니              |
@@ -42,3 +43,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2737c0618723e2fca9e617eec34" alt="" width="50" /> | BEcause              | [Summer Holiday]                            | DREAMCATCHER COMPANY | 💚   | [🔗](https://open.spotify.com/track/3L74uwShK0JqEUZ5Y2JoDW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="" width="50" /> | Locked Inside A Door | [Apocalypse : Save us]                      | DREAMCATCHER COMPANY |     | [🔗](https://open.spotify.com/track/3MIXS3voZb2QFTnjKeYVT6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="" width="50" /> | MAISON               | [Apocalypse : Save us]                      | DREAMCATCHER COMPANY | 💚   | [🔗](https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c7d075ac409f015413350f6d" alt="" width="50" /> | VISION               | [Apocalypse : Follow us]                    | DREAMCATCHER COMPANY | 💚   | [🔗](https://open.spotify.com/track/1nmc8ngLcvccw7Lay5v5SP) |

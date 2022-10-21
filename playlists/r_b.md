@@ -172,9 +172,9 @@
 |                  5 | [UNI](../labels/uni.md)                                         |
 |                  5 | [Music World Music](../labels/music_world_music.md)             |
 |                  5 | [Beluga Heights](../labels/beluga_heights.md)                   |
-|                  5 | [Bad Boy Records](../labels/bad_boy_records.md)                 |
+|                  5 | [Bad Boy](../labels/bad_boy.md)                                 |
 |                  3 | [LaFace Records](../labels/laface_records.md)                   |
-|                  2 | [Wondaland](../labels/wondaland.md)                             |
+|                  2 | [Wondaland Records](../labels/wondaland_records.md)             |
 |                  2 | [Golden Child Recordings](../labels/golden_child_recordings.md) |
 |                  2 | [G.O.O.D. Music](../labels/g_o_o_d__music.md)                   |
 |                  1 | [Virgin Records](../labels/virgin_records.md)                   |
