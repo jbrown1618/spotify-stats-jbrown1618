@@ -164,6 +164,7 @@
 |                  2 | [Elektra](../labels/elektra.md)                                                     |
 |                  2 | [Def Jam Recordings](../labels/def_jam_recordings.md)                               |
 |                  2 | [19 Recordings Limited](../labels/19_recordings_limited.md)                         |
+|                  1 | [sensibility recordings](../labels/sensibility_recordings.md)                       |
 |                  1 | [Work](../labels/work.md)                                                           |
 |                  1 | [Warner Records](../labels/warner_records.md)                                       |
 |                  1 | [Vorsicht Musik](../labels/vorsicht_musik.md)                                       |
@@ -172,7 +173,6 @@
 |                  1 | [The Tarpeggios](../labels/the_tarpeggios.md)                                       |
 |                  1 | [Superpop.Co](../labels/superpop_co.md)                                             |
 |                  1 | [Sugar Hill Records](../labels/sugar_hill_records.md)                               |
-|                  1 | [Sensibility Recordings](../labels/sensibility_recordings.md)                       |
 |                  1 | [Rhino](../labels/rhino.md)                                                         |
 |                  1 | [Radiculture](../labels/radiculture.md)                                             |
 |                  1 | [Polydor Records](../labels/polydor_records.md)                                     |
@@ -195,9 +195,9 @@
 |                  1 | [Def Soul](../labels/def_soul.md)                                                   |
 |                  1 | [Big Machine Label Group](../labels/big_machine_label_group.md)                     |
 |                  1 | [Atlantic Records](../labels/atlantic_records.md)                                   |
+|                  1 | [Atl](../labels/atl.md)                                                             |
 |                  1 | [Arista Nashville](../labels/arista_nashville.md)                                   |
 |                  1 | [Arista](../labels/arista.md)                                                       |
-|                  1 | [ATL](../labels/atl.md)                                                             |
 |                  1 | [ATG](../labels/atg.md)                                                             |
 |                  1 | [A&M](../labels/a_m.md)                                                             |
 

@@ -14,6 +14,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190" alt="" width="50" /> | Lust For Life                                         |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2" alt="" width="50" /> | Young And Beautiful                                   |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a" alt="" width="50" /> | Paradise                                              |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27394e71ca5acea8203c4aa120c" alt="" width="50" /> | Midnights                                             |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a" alt="" width="50" /> | Honeymoon                                             |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c891137d2513ecd496e9152e" alt="" width="50" /> | Charlie's Angels (Original Motion Picture Soundtrack) |
 
@@ -22,6 +23,7 @@
 |   Number of Tracks | Label            |
 |-------------------:|:-----------------|
 |                 17 | Polydor Records  |
+|                  1 | Taylor Swift     |
 |                  1 | Silver Cloud     |
 |                  1 | Charlie's Angels |
 
@@ -47,3 +49,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="" width="50" /> | Fuck it I love you                                                       | Norman Fucking Rockwell!                              | [Polydor Records](../labels/polydor_records.md) |     | [🔗](https://open.spotify.com/track/7MtVPRGtZl6rPjMfLoI3Lh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="" width="50" /> | Norman fucking Rockwell                                                  | Norman Fucking Rockwell!                              | [Polydor Records](../labels/polydor_records.md) |     | [🔗](https://open.spotify.com/track/3RIgHHpnFKj5Rni1shokDj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c891137d2513ecd496e9152e" alt="" width="50" /> | Don’t Call Me Angel (Charlie’s Angels) (with Miley Cyrus & Lana Del Rey) | Charlie's Angels (Original Motion Picture Soundtrack) | Silver Cloud/Charlie's Angels                   |     | [🔗](https://open.spotify.com/track/6zegtH6XXd2PDPLvy1Y0n2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27394e71ca5acea8203c4aa120c" alt="" width="50" /> | Snow On The Beach (feat. Lana Del Rey)                                   | Midnights                                             | [Taylor Swift](../labels/taylor_swift.md)       |     | [🔗](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) |

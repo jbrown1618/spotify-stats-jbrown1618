@@ -274,7 +274,7 @@
 |                  3 | [Island UK](../labels/island_uk.md)                                                                         |
 |                  3 | [Fueled By Ramen](../labels/fueled_by_ramen.md)                                                             |
 |                  3 | [Casablanca Records](../labels/casablanca_records.md)                                                       |
-|                  2 | [Wondaland Records](../labels/wondaland_records.md)                                                         |
+|                  2 | [Wondaland](../labels/wondaland.md)                                                                         |
 |                  2 | [Reprise](../labels/reprise.md)                                                                             |
 |                  2 | [Radiculture](../labels/radiculture.md)                                                                     |
 |                  2 | [Phonogenic](../labels/phonogenic.md)                                                                       |

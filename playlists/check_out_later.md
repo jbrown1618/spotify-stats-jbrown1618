@@ -3,42 +3,45 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27312626c137c7684fe1662a4f3ab67616d0000b2734a90c2921f01f4b0b2e54b32ab67616d0000b2737709b0a8ba9059fc46fefcb2ab67616d0000b273f919108974e4213d86b83805" alt="Check Out Later" width="100" />
 
-[14 songs](check_out_later_tracks.md)
+[27 songs](check_out_later_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 10 artists in Check Out Later](../images/playlists/check_out_later/artists.png)
+![Bar chart of top 12 artists in Check Out Later](../images/playlists/check_out_later/artists.png)
 
 
 <details>
-<summary>See all 10 artists</summary>
+<summary>See all 12 artists</summary>
 
-|   Number of Tracks | Art                                                                                              | Artist                             | 🔗                                                           |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------|:------------------------------------------------------------|
-|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b13da5a8a3dd6e0d53ff764" alt="" width="50" /> | Red Velvet - IRENE & SEULGI        | [🔗](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebfb6c0b7b6918dca92be0ed75" alt="" width="50" /> | LE SSERAFIM                        | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb65b7b48eeac1b113c75f2295" alt="" width="50" /> | YB                                 | [🔗](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4900a06db4e96dd1444300d4" alt="" width="50" /> | ONE OK ROCK                        | [🔗](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27312626c137c7684fe1662a4f3" alt="" width="50" /> | HAEUN                              | [🔗](https://open.spotify.com/artist/5JIuf9fLWCKGSpUDMTolAI) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273849a155d7c0b67638c0a1a8a" alt="" width="50" /> | YooA                               | [🔗](https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb72f8abb4e1d34336c60fd338" alt="" width="50" /> | YUKIKA                             | [🔗](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3a6cd2bfd57fe54535d1fe03" alt="" width="50" /> | DinDin                             | [🔗](https://open.spotify.com/artist/0ugLySQOBIlvWTodx22Wao) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../artists/mamamoo.md)   | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
+|   Number of Tracks | Art                                                                                              | Artist                                     | 🔗                                                           |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------|:------------------------------------------------------------|
+|                 13 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | [Taylor Swift](../artists/taylor_swift.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
+|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)         | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b13da5a8a3dd6e0d53ff764" alt="" width="50" /> | Red Velvet - IRENE & SEULGI                | [🔗](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebfb6c0b7b6918dca92be0ed75" alt="" width="50" /> | LE SSERAFIM                                | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb65b7b48eeac1b113c75f2295" alt="" width="50" /> | YB                                         | [🔗](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4900a06db4e96dd1444300d4" alt="" width="50" /> | ONE OK ROCK                                | [🔗](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27312626c137c7684fe1662a4f3" alt="" width="50" /> | HAEUN                                      | [🔗](https://open.spotify.com/artist/5JIuf9fLWCKGSpUDMTolAI) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273849a155d7c0b67638c0a1a8a" alt="" width="50" /> | YooA                                       | [🔗](https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb72f8abb4e1d34336c60fd338" alt="" width="50" /> | YUKIKA                                     | [🔗](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3a6cd2bfd57fe54535d1fe03" alt="" width="50" /> | DinDin                                     | [🔗](https://open.spotify.com/artist/0ugLySQOBIlvWTodx22Wao) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../artists/mamamoo.md)           | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5903678d3db18e271e42be0" alt="" width="50" /> | [Lana Del Rey](../artists/lana_del_rey.md) | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
 
 </details>
 
 
 ## Top Albums
 
-![Bar chart of top 10 albums in Check Out Later](../images/playlists/check_out_later/albums.png)
+![Bar chart of top 11 albums in Check Out Later](../images/playlists/check_out_later/albums.png)
 
 
 <details>
-<summary>See all 10 albums</summary>
+<summary>See all 11 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                         | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:------------------------------|:-----------------------------------------------------------|
+|                 13 | <img src="https://i.scdn.co/image/ab67616d0000b27394e71ca5acea8203c4aa120c" alt="" width="50" /> | Midnights                     | [🔗](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | I love                        | [🔗](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f919108974e4213d86b83805" alt="" width="50" /> | Monster - The 1st Mini Album  | [🔗](https://open.spotify.com/album/4DFheSBXhfewjz7SSe4Kyc) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="" width="50" /> | ANTIFRAGILE                   | [🔗](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) |
@@ -55,14 +58,15 @@
 
 ## Top Record Labels
 
-![Bar chart of top 11 record labels in Check Out Later](../images/playlists/check_out_later/labels.png)
+![Bar chart of top 12 record labels in Check Out Later](../images/playlists/check_out_later/labels.png)
 
 
 <details>
-<summary>See all 11 labels</summary>
+<summary>See all 12 labels</summary>
 
 |   Number of Tracks | Label                                                     |
 |-------------------:|:----------------------------------------------------------|
+|                 13 | [Taylor Swift](../labels/taylor_swift.md)                 |
 |                  3 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)     |
 |                  2 | [SOURCE MUSIC](../labels/source_music.md)                 |
 |                  2 | [SM Entertainment](../labels/sm_entertainment.md)         |

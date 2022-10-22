@@ -105,7 +105,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27384095737f6056e682666d6f9" alt="" width="50" /> | Tomboy                                                                                                  | [🔗](https://open.spotify.com/album/2uDZBeyyQ7mfwF9mUJeYUG) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="" width="50" /> | The Temptations Sing Smokey                                                                             | [🔗](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="" width="50" /> | The Prelude                                                                                             | [🔗](https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730549ccc9276671a5cae941a9" alt="" width="50" /> | The Foundations                                                                                         | [🔗](https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27363446535ec79837faae61b50" alt="" width="50" /> | The Foundations                                                                                         | [🔗](https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91" alt="" width="50" /> | The Definitive Collection                                                                               | [🔗](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273120a1366324c2ae1728e17e5" alt="" width="50" /> | The ArchAndroid                                                                                         | [🔗](https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737649604d1b27be1c78c466e9" alt="" width="50" /> | Tell Mama                                                                                               | [🔗](https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr) |
@@ -174,7 +174,7 @@
 |                  5 | [Beluga Heights](../labels/beluga_heights.md)                   |
 |                  5 | [Bad Boy](../labels/bad_boy.md)                                 |
 |                  3 | [LaFace Records](../labels/laface_records.md)                   |
-|                  2 | [Wondaland Records](../labels/wondaland_records.md)             |
+|                  2 | [Wondaland](../labels/wondaland.md)                             |
 |                  2 | [Golden Child Recordings](../labels/golden_child_recordings.md) |
 |                  2 | [G.O.O.D. Music](../labels/g_o_o_d__music.md)                   |
 |                  1 | [Virgin Records](../labels/virgin_records.md)                   |
@@ -198,9 +198,9 @@
 |                  1 | [Downtown Recordings](../labels/downtown_recordings.md)         |
 |                  1 | [Def Soul](../labels/def_soul.md)                               |
 |                  1 | [Castle Communications](../labels/castle_communications.md)     |
+|                  1 | [Atl](../labels/atl.md)                                         |
 |                  1 | [Arista](../labels/arista.md)                                   |
 |                  1 | [Aftermath Entertainment](../labels/aftermath_entertainment.md) |
-|                  1 | [ATL](../labels/atl.md)                                         |
 |                  1 | [19 Recordings Limited](../labels/19_recordings_limited.md)     |
 
 </details>

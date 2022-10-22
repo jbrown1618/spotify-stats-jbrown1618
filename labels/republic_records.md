@@ -1,6 +1,6 @@
 # Republic Records
 
-91 songs
+92 songs
 
 ## Top Artists
 
@@ -14,7 +14,7 @@
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------|:------------------------------------------------------------|
 |                 29 | <img src="https://i.scdn.co/image/ab6761610000e5ebd84fd6ae9ccfc6206ea6711e" alt="" width="50" /> | [TWICE](../artists/twice.md)                 | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 |                 28 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md)       | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
-|                 14 | <img src="https://i.scdn.co/image/ab6761610000e5ebaa28abbc6d04ccd22c8ae3b5" alt="" width="50" /> | [ITZY](../artists/itzy.md)                   | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
+|                 15 | <img src="https://i.scdn.co/image/ab6761610000e5ebaa28abbc6d04ccd22c8ae3b5" alt="" width="50" /> | [ITZY](../artists/itzy.md)                   | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                 10 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../artists/ariana_grande.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb758f3c632d4d726f1129d336" alt="" width="50" /> | TOMORROW X TOGETHER                          | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | Jessie J                                     | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
@@ -37,7 +37,7 @@
 
 
 <details>
-<summary>See all 46 albums</summary>
+<summary>See all 47 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                   | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------|:-----------------------------------------------------------|
@@ -86,6 +86,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273cbb25c0de45e6a6ded073802" alt="" width="50" /> | Clé 1 : MIROH                                           | [🔗](https://open.spotify.com/album/3s6RbqkTprnGwKpoUSYL00) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | Christmas EveL                                          | [🔗](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738ae9084b7cfa8281932d9cb9" alt="" width="50" /> | CRY FOR ME                                              | [🔗](https://open.spotify.com/album/2aRAPmBCEdo9pWimsI5l87) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f46afbaf0d7b1d701c7a6b65" alt="" width="50" /> | Boys Like You                                           | [🔗](https://open.spotify.com/album/1KYgerdWcEqB7KbppYtdXU) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="" width="50" /> | After Hours                                             | [🔗](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) |
 
 </details>
@@ -121,6 +122,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | RACER                                        | CHECKMATE                                               | [ITZY](../artists/itzy.md)                                 | Republic Records - ITZY       | 💚   | [🔗](https://open.spotify.com/track/5v15IF9D4nKZbto4US7Ar1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | SNEAKERS                                     | CHECKMATE                                               | [ITZY](../artists/itzy.md)                                 | Republic Records - ITZY       | 💚   | [🔗](https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | WHAT I WANT                                  | CHECKMATE                                               | [ITZY](../artists/itzy.md)                                 | Republic Records - ITZY       | 💚   | [🔗](https://open.spotify.com/track/28E5sYRuv2gpZPEdNAwMkE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f46afbaf0d7b1d701c7a6b65" alt="" width="50" /> | Boys Like You                                | Boys Like You                                           | [ITZY](../artists/itzy.md)                                 | Republic Records - ITZY       | 💚   | [🔗](https://open.spotify.com/track/34y2pV3RGFiCHSP12bNHVk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739900b995cd1a81c35c574ab0" alt="" width="50" /> | Price Tag                                    | Who You Are (Platinum Edition)                          | Jessie J, B.o.B                                            | Lava Music/Republic Records   | 💚   | [🔗](https://open.spotify.com/track/5mvKuE9Lf9ARVXVXA32kK9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739900b995cd1a81c35c574ab0" alt="" width="50" /> | Who You Are                                  | Who You Are (Platinum Edition)                          | Jessie J                                                   | Lava Music/Republic Records   | 💚   | [🔗](https://open.spotify.com/track/65lIGCfW59BxcEJnnIOCq3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6a335d613d151c626895a83" alt="" width="50" /> | Despacito - Remix                            | Despacito Feat. Justin Bieber (Remix)                   | Luis Fonsi, Daddy Yankee, Justin Bieber                    | Republic/UMLE                 | 💚   | [🔗](https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2) |

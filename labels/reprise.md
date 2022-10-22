@@ -14,7 +14,7 @@
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------|:------------------------------------------------------------|
 |                 12 | <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | [Michael Bublé](../artists/michael_bubl_.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6ed8a51172073afa41a30313" alt="" width="50" /> | Cécile McLorin Salvant                       | [🔗](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5c0d8e50e84ebba5a886481a" alt="" width="50" /> | Meghan Trainor                               | [🔗](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd491a8a2be7a5c404432bc8b" alt="" width="50" /> | Meghan Trainor                               | [🔗](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf84fe9e6fbb2aa001d6cbbd9" alt="" width="50" /> | Mastodon                                     | [🔗](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) |
 
 </details>
