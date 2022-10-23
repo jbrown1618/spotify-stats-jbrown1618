@@ -7,7 +7,7 @@
 
 ## Top Artists
 
-![Bar chart of top 8 artists in Vivaldi](../images/playlists/vivaldi/artists.png)
+![Bar chart of top 8 artists](../images/playlists/vivaldi/artists.png)
 
 
 <details>
@@ -29,7 +29,7 @@
 
 ## Top Albums
 
-![Bar chart of top 2 albums in Vivaldi](../images/playlists/vivaldi/albums.png)
+![Bar chart of top 2 albums in](../images/playlists/vivaldi/albums.png)
 
 
 <details>
@@ -45,7 +45,7 @@
 
 ## Top Record Labels
 
-![Bar chart of top 2 record labels in Vivaldi](../images/playlists/vivaldi/labels.png)
+![Bar chart of top 2 record labels](../images/playlists/vivaldi/labels.png)
 
 
 <details>

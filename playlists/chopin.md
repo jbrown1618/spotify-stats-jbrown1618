@@ -7,7 +7,7 @@
 
 ## Top Artists
 
-![Bar chart of top 7 artists in Chopin](../images/playlists/chopin/artists.png)
+![Bar chart of top 7 artists](../images/playlists/chopin/artists.png)
 
 
 <details>
@@ -28,7 +28,7 @@
 
 ## Top Albums
 
-![Bar chart of top 9 albums in Chopin](../images/playlists/chopin/albums.png)
+![Bar chart of top 9 albums in](../images/playlists/chopin/albums.png)
 
 
 <details>
@@ -51,7 +51,7 @@
 
 ## Top Record Labels
 
-![Bar chart of top 5 record labels in Chopin](../images/playlists/chopin/labels.png)
+![Bar chart of top 5 record labels](../images/playlists/chopin/labels.png)
 
 
 <details>

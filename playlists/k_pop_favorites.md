@@ -3,11 +3,11 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b273714e56679ab196354e2e443eab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738c4a282e84a53c1c8acf129a" alt="K-Pop Favorites" width="100" />
 
-[190 songs](k_pop_favorites_tracks.md)
+[189 songs](k_pop_favorites_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 30 artists in K-Pop Favorites](../images/playlists/k_pop_favorites/artists.png)
+![Bar chart of top 30 artists](../images/playlists/k_pop_favorites/artists.png)
 
 
 <details>
@@ -47,7 +47,6 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e2e0f17d257a40be0782f35" alt="" width="50" /> | BAEKHYUN                                             | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="" width="50" /> | EVERGLOW                                             | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb968ab271c895fb9cc245d6fe" alt="" width="50" /> | Billlie                                              | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb9954a1ab45b2404a7bff2a45" alt="" width="50" /> | OH MY GIRL                                           | [🔗](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | PENTAGON                                             | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb57d6dae61ab174bd8f9c462f" alt="" width="50" /> | JOY                                                  | [🔗](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb6ee9f83106240222e4328db4" alt="" width="50" /> | WENDY                                                | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
@@ -87,6 +86,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb26e3996e1a02077ef320026d" alt="" width="50" /> | SEULGI                                               | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe6eb7c8acc8f75853b0ed9ac" alt="" width="50" /> | NMIXX                                                | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc2c8185fc0902b43e35f671f" alt="" width="50" /> | JENNIE                                               | [🔗](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9954a1ab45b2404a7bff2a45" alt="" width="50" /> | OH MY GIRL                                           | [🔗](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2cc2d8e2ec34e29f1905e286" alt="" width="50" /> | WayV                                                 | [🔗](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb65dd718aaa2c9b1be0218f76" alt="" width="50" /> | SURAN                                                | [🔗](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb20e1b84fe2767e52c4c828fd" alt="" width="50" /> | 2NE1                                                 | [🔗](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) |
@@ -102,7 +102,7 @@
 
 ## Top Albums
 
-![Bar chart of top 30 albums in K-Pop Favorites](../images/playlists/k_pop_favorites/albums.png)
+![Bar chart of top 30 albums in](../images/playlists/k_pop_favorites/albums.png)
 
 
 <details>
@@ -112,12 +112,13 @@
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------|:-----------------------------------------------------------|
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="" width="50" /> | INVU - The 3rd Album                             | [🔗](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="" width="50" /> | DIMENSION : DILEMMA                              | [🔗](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2738c4a282e84a53c1c8acf129a" alt="" width="50" /> | ‘The ReVe Festival 2022 - Feel My Rhythm’        | [🔗](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | THE ALBUM                                        | [🔗](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | Savage - The 1st Mini Album                      | [🔗](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Querencia                                        | [🔗](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | IU 5th Album 'LILAC'                             | [🔗](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | BORN PINK                                        | [🔗](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | ‘The ReVe Festival’ Finale                       | [🔗](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2738c4a282e84a53c1c8acf129a" alt="" width="50" /> | ‘The ReVe Festival 2022 - Feel My Rhythm’        | [🔗](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | Windy                                            | [🔗](https://open.spotify.com/album/1lv92CIVZbB2BsHmIx7qJf) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273231a1b74cc820bb632de108c" alt="" width="50" /> | SQUARE ONE                                       | [🔗](https://open.spotify.com/album/0AcFaK32ui9rF2ySEdXrv4) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="" width="50" /> | Palette                                          | [🔗](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) |
@@ -129,8 +130,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734a8e5eaab8b02db02e487c27" alt="" width="50" /> | Devil - The 2nd Mini Album                       | [🔗](https://open.spotify.com/album/6bG2rY8NzT7dIzUNADDNCR) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | BORDER : CARNIVAL                                | [🔗](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c07b020417770f3385448f" alt="" width="50" /> | 回:Walpurgis Night                                | [🔗](https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | ‘The ReVe Festival’ Finale                       | [🔗](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733a7804057d817ff9f68ca85c" alt="" width="50" /> | ‘The ReVe Festival’ Day 2                        | [🔗](https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="" width="50" /> | ‘The ReVe Festival’ Day 1                        | [🔗](https://open.spotify.com/album/2nLEiP268mSFZHW5dajM4R) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738232e1aaaf4c9ed4b6946ce8" alt="" width="50" /> | the Billage of perception: chapter two           | [🔗](https://open.spotify.com/album/0NuM7kwh6u6fIRjn7Zh7Ss) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734c5be128bd1b55bf36041574" alt="" width="50" /> | the Billage of perception : chapter one          | [🔗](https://open.spotify.com/album/1kp4txZsSpDNR4EoDFi2LD) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27329134ca1a4c424b7d98cb0af" alt="" width="50" /> | reminiscence                                     | [🔗](https://open.spotify.com/album/0zH0C0fkzAjhSnGKLOuxwX) |
@@ -187,7 +187,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737a393b04e8ced571618223e8" alt="" width="50" /> | Next Level                                       | [🔗](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" alt="" width="50" /> | NewJeans 1st EP 'New Jeans'                      | [🔗](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736c1bd86a3d68faf09607ffd3" alt="" width="50" /> | Naughty                                          | [🔗](https://open.spotify.com/album/2lkUE2gkw5sX0fGzZZCs0N) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734957fced6061ee536ca618ab" alt="" width="50" /> | NONSTOP                                          | [🔗](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734525dae431a233a077d2395c" alt="" width="50" /> | NCT RESONANCE Pt. 1 - The 2nd Album              | [🔗](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f919108974e4213d86b83805" alt="" width="50" /> | Monster - The 1st Mini Album                     | [🔗](https://open.spotify.com/album/4DFheSBXhfewjz7SSe4Kyc) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="" width="50" /> | Modern Times                                     | [🔗](https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe) |
@@ -210,13 +209,14 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732d56768bc14df3b0b3982efd" alt="" width="50" /> | KWON JI YONG                                     | [🔗](https://open.spotify.com/album/2koSNfchdUxqw1rPJO87aH) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735dcded478bd1a908dbabf05e" alt="" width="50" /> | KILL THIS LOVE                                   | [🔗](https://open.spotify.com/album/7viSsSKXrDa95CtUcuc1Iv) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27337ff46852249bdfc938beefa" alt="" width="50" /> | KAI - The 1st Mini Album                         | [🔗](https://open.spotify.com/album/6xpxMAUhk8hiDTa5zT7F86) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27386e407289831b784b58d4c5f" alt="" width="50" /> | It'z Me                                          | [🔗](https://open.spotify.com/album/2gertXS08whDTzBWfmewPO) |
 
 </details>
 
 
 ## Top Record Labels
 
-![Bar chart of top 30 record labels in K-Pop Favorites](../images/playlists/k_pop_favorites/labels.png)
+![Bar chart of top 30 record labels](../images/playlists/k_pop_favorites/labels.png)
 
 
 <details>
@@ -227,7 +227,7 @@
 |                 55 | [SM Entertainment](../labels/sm_entertainment.md)                                       |
 |                 19 | [YG Entertainment](../labels/yg_entertainment.md)                                       |
 |                 13 | [Republic Records](../labels/republic_records.md)                                       |
-|                 10 | [Interscope Records](../labels/interscope_records.md)                                   |
+|                 10 | [Interscope](../labels/interscope.md)                                                   |
 |                  9 | [BELIFT LAB](../labels/belift_lab.md)                                                   |
 |                  8 | [JYP Entertainment](../labels/jyp_entertainment.md)                                     |
 |                  7 | [Universal Music LLC](../labels/universal_music_llc.md)                                 |
@@ -243,7 +243,6 @@
 |                  3 | [High Up Entertainment](../labels/high_up_entertainment.md)                             |
 |                  3 | [HYBE](../labels/hybe.md)                                                               |
 |                  3 | [EDAM Entertainment](../labels/edam_entertainment.md)                                   |
-|                  2 | [WM Entertainment](../labels/wm_entertainment.md)                                       |
 |                  2 | [THE BLACK LABEL](../labels/the_black_label.md)                                         |
 |                  2 | [Starship Entertainment](../labels/starship_entertainment.md)                           |
 |                  2 | [SOURCE MUSIC](../labels/source_music.md)                                               |
@@ -257,6 +256,7 @@
 |                  1 | [YUEHUA ENTERTAINMENT KOREA](../labels/yuehua_entertainment_korea.md)                   |
 |                  1 | [WM Korea](../labels/wm_korea.md)                                                       |
 |                  1 | [WM Japan](../labels/wm_japan.md)                                                       |
+|                  1 | [WM Entertainment](../labels/wm_entertainment.md)                                       |
 |                  1 | [Universal Music Group International](../labels/universal_music_group_international.md) |
 |                  1 | [Transparent Arts](../labels/transparent_arts.md)                                       |
 |                  1 | [TEAM WANG records](../labels/team_wang_records.md)                                     |

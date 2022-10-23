@@ -7,7 +7,7 @@
 
 ## Top Artists
 
-![Bar chart of top 27 artists in Classic Rock](../images/playlists/classic_rock/artists.png)
+![Bar chart of top 27 artists](../images/playlists/classic_rock/artists.png)
 
 
 <details>
@@ -48,7 +48,7 @@
 
 ## Top Albums
 
-![Bar chart of top 30 albums in Classic Rock](../images/playlists/classic_rock/albums.png)
+![Bar chart of top 30 albums in](../images/playlists/classic_rock/albums.png)
 
 
 <details>
@@ -127,7 +127,7 @@
 
 ## Top Record Labels
 
-![Bar chart of top 23 record labels in Classic Rock](../images/playlists/classic_rock/labels.png)
+![Bar chart of top 23 record labels](../images/playlists/classic_rock/labels.png)
 
 
 <details>

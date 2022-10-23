@@ -7,7 +7,7 @@
 
 ## Top Artists
 
-![Bar chart of top 30 artists in International Pop](../images/playlists/international_pop/artists.png)
+![Bar chart of top 30 artists](../images/playlists/international_pop/artists.png)
 
 
 <details>
@@ -22,7 +22,7 @@
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebc6e1280be0bb5a22ff599700" alt="" width="50" /> | Official HIGE DANdism              | [🔗](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb74f0dd71b84ec5b35bef6318" alt="" width="50" /> | Anna Zak                           | [🔗](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb94faa4606299f4f5ccca4e35" alt="" width="50" /> | Daði Freyr                         | [🔗](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebfb5e65ec97be6208db1dabe2" alt="" width="50" /> | Reol                               | [🔗](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebe33284545d27028ec2f3dacf" alt="" width="50" /> | Reol                               | [🔗](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f9b2f828db40b35a81cba49" alt="" width="50" /> | Daddy Yankee                       | [🔗](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebec1cd67f4c17468f335206eb" alt="" width="50" /> | Luis Fonsi                         | [🔗](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d363b9240b776652114e8d3" alt="" width="50" /> | AKB48                              | [🔗](https://open.spotify.com/artist/01wau5CL3Z1vfJJWkzBkqg) |
@@ -65,7 +65,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4196349398da67ae88d8f47e" alt="" width="50" /> | Ermal Meta                         | [🔗](https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273df7949c0fb4672010aaf9520" alt="" width="50" /> | Nkosazana Daughter                 | [🔗](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737c20fb440980c4f2f24346c5" alt="" width="50" /> | David Tao                          | [🔗](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5925909bff0f2cf1bf94f949" alt="" width="50" /> | Christopher                        | [🔗](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebda5ab23361118f6474d68382" alt="" width="50" /> | Christopher                        | [🔗](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba0e4780f120345edddeaada9" alt="" width="50" /> | Burna Boy                          | [🔗](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) |
 |                  1 | <img src="https://i.scdn.co/image/9d0dec8e40b3e19bb48690caf3d8f9deec7b9ef4" alt="" width="50" /> | Snow                               | [🔗](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebaaa9e8d56241a48b8f6422b2" alt="" width="50" /> | Kawaguchi Yurina                   | [🔗](https://open.spotify.com/artist/3snqW31jInsZwoYRZTaixr) |
@@ -120,7 +120,7 @@
 
 ## Top Albums
 
-![Bar chart of top 30 albums in International Pop](../images/playlists/international_pop/albums.png)
+![Bar chart of top 30 albums in](../images/playlists/international_pop/albums.png)
 
 
 <details>
@@ -217,7 +217,7 @@
 
 ## Top Record Labels
 
-![Bar chart of top 30 record labels in International Pop](../images/playlists/international_pop/labels.png)
+![Bar chart of top 30 record labels](../images/playlists/international_pop/labels.png)
 
 
 <details>

@@ -7,7 +7,7 @@
 
 ## Top Artists
 
-![Bar chart of top 4 artists in Debussy](../images/playlists/debussy/artists.png)
+![Bar chart of top 4 artists](../images/playlists/debussy/artists.png)
 
 
 <details>
@@ -25,7 +25,7 @@
 
 ## Top Albums
 
-![Bar chart of top 2 albums in Debussy](../images/playlists/debussy/albums.png)
+![Bar chart of top 2 albums in](../images/playlists/debussy/albums.png)
 
 
 <details>
@@ -41,7 +41,7 @@
 
 ## Top Record Labels
 
-![Bar chart of top 2 record labels in Debussy](../images/playlists/debussy/labels.png)
+![Bar chart of top 2 record labels](../images/playlists/debussy/labels.png)
 
 
 <details>

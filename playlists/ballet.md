@@ -7,7 +7,7 @@
 
 ## Top Artists
 
-![Bar chart of top 16 artists in Ballet](../images/playlists/ballet/artists.png)
+![Bar chart of top 16 artists](../images/playlists/ballet/artists.png)
 
 
 <details>
@@ -37,7 +37,7 @@
 
 ## Top Albums
 
-![Bar chart of top 6 albums in Ballet](../images/playlists/ballet/albums.png)
+![Bar chart of top 6 albums in](../images/playlists/ballet/albums.png)
 
 
 <details>
@@ -57,7 +57,7 @@
 
 ## Top Record Labels
 
-![Bar chart of top 4 record labels in Ballet](../images/playlists/ballet/labels.png)
+![Bar chart of top 4 record labels](../images/playlists/ballet/labels.png)
 
 
 <details>

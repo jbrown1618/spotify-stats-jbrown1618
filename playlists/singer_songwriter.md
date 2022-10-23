@@ -7,7 +7,7 @@
 
 ## Top Artists
 
-![Bar chart of top 30 artists in Singer-Songwriter](../images/playlists/singer_songwriter/artists.png)
+![Bar chart of top 30 artists](../images/playlists/singer_songwriter/artists.png)
 
 
 <details>
@@ -19,7 +19,7 @@
 |                 49 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | [Taylor Swift](../artists/taylor_swift.md)     | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 |                 22 | <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | [Billy Joel](../artists/billy_joel.md)         | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
 |                 17 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5903678d3db18e271e42be0" alt="" width="50" /> | [Lana Del Rey](../artists/lana_del_rey.md)     | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
-|                  9 | <img src="https://i.scdn.co/image/ab6761610000e5ebd97dd2c03a15670433f6c079" alt="" width="50" /> | [Kimbra](../artists/kimbra.md)                 | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
+|                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb850b002c3920dd8dd27865d4" alt="" width="50" /> | [Kimbra](../artists/kimbra.md)                 | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | Imogen Heap                                    | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
 |                  8 | <img src="https://i.scdn.co/image/68cfb061951dbd44c95422a54cb70baec0722ca3" alt="" width="50" /> | Joni Mitchell                                  | [🔗](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb271320bcc15789b23aa83a44" alt="" width="50" /> | Erin McCarley                                  | [🔗](https://open.spotify.com/artist/6Y4bCmUNPDKqc7dHkVvgim) |
@@ -53,7 +53,7 @@
 
 ## Top Albums
 
-![Bar chart of top 30 albums in Singer-Songwriter](../images/playlists/singer_songwriter/albums.png)
+![Bar chart of top 30 albums in](../images/playlists/singer_songwriter/albums.png)
 
 
 <details>
@@ -147,7 +147,7 @@
 
 ## Top Record Labels
 
-![Bar chart of top 30 record labels in Singer-Songwriter](../images/playlists/singer_songwriter/labels.png)
+![Bar chart of top 30 record labels](../images/playlists/singer_songwriter/labels.png)
 
 
 <details>

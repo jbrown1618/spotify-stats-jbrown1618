@@ -7,7 +7,7 @@
 
 ## Top Artists
 
-![Bar chart of top 11 artists in Beethoven](../images/playlists/beethoven/artists.png)
+![Bar chart of top 11 artists](../images/playlists/beethoven/artists.png)
 
 
 <details>
@@ -32,7 +32,7 @@
 
 ## Top Albums
 
-![Bar chart of top 5 albums in Beethoven](../images/playlists/beethoven/albums.png)
+![Bar chart of top 5 albums in](../images/playlists/beethoven/albums.png)
 
 
 <details>
@@ -51,7 +51,7 @@
 
 ## Top Record Labels
 
-![Bar chart of top 3 record labels in Beethoven](../images/playlists/beethoven/labels.png)
+![Bar chart of top 3 record labels](../images/playlists/beethoven/labels.png)
 
 
 <details>
@@ -61,7 +61,7 @@
 |-------------------:|:------------------------------------------------------------------|
 |                103 | [Decca Music Group Ltd.](../labels/decca_music_group_ltd_.md)     |
 |                 42 | [Deutsche Grammophon (DG)](../labels/deutsche_grammophon__dg_.md) |
-|                 21 | [PentaTone](../labels/pentatone.md)                               |
+|                 21 | [PENTATONE](../labels/pentatone.md)                               |
 
 </details>
 

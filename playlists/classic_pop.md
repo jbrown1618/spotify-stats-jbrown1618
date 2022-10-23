@@ -7,7 +7,7 @@
 
 ## Top Artists
 
-![Bar chart of top 25 artists in Classic Pop](../images/playlists/classic_pop/artists.png)
+![Bar chart of top 25 artists](../images/playlists/classic_pop/artists.png)
 
 
 <details>
@@ -46,7 +46,7 @@
 
 ## Top Albums
 
-![Bar chart of top 30 albums in Classic Pop](../images/playlists/classic_pop/albums.png)
+![Bar chart of top 30 albums in](../images/playlists/classic_pop/albums.png)
 
 
 <details>
@@ -69,7 +69,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27322219b7ba681368a16c219fe" alt="" width="50" /> | The Ultimate Bee Gees                                                                                   | [🔗](https://open.spotify.com/album/5GucSY3249qHDx4v1Hcxry) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="" width="50" /> | The Temptations Sing Smokey                                                                             | [🔗](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701" alt="" width="50" /> | The Nat King Cole Story                                                                                 | [🔗](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27363446535ec79837faae61b50" alt="" width="50" /> | The Foundations                                                                                         | [🔗](https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27357ac0b659552434f455d2313" alt="" width="50" /> | The Foundations                                                                                         | [🔗](https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91" alt="" width="50" /> | The Definitive Collection                                                                               | [🔗](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="" width="50" /> | Tapestry                                                                                                | [🔗](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50" alt="" width="50" /> | Songs In The Key Of Life                                                                                | [🔗](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) |
@@ -108,7 +108,7 @@
 
 ## Top Record Labels
 
-![Bar chart of top 25 record labels in Classic Pop](../images/playlists/classic_pop/labels.png)
+![Bar chart of top 25 record labels](../images/playlists/classic_pop/labels.png)
 
 
 <details>

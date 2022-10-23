@@ -4,7 +4,7 @@
 
 ## Top Artists
 
-![Bar chart of top 2 artists under Ithacappella](../images/labels/ithacappella/artists.png)
+![Bar chart of top 2 artists](../images/labels/ithacappella/artists.png)
 
 
 <details>
@@ -20,7 +20,7 @@
 
 ## Top Albums
 
-![Bar chart of top 4 albums in Ithacappella](../images/labels/ithacappella/albums.png)
+![Bar chart of top 4 albums in](../images/labels/ithacappella/albums.png)
 
 
 <details>
@@ -38,17 +38,17 @@
 
 ## Tracks released under Ithacappella
 
-| Art                                                                                              | Track                                     | Album              | Artists                                                             | Label        | 💚   | 🔗                                                          |
-|:-------------------------------------------------------------------------------------------------|:------------------------------------------|:-------------------|:--------------------------------------------------------------------|:-------------|:----|:-----------------------------------------------------------|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733292818e78cd81fa4ba67fd2" alt="" width="50" /> | Sixteen Tons                              | Before You Go      | [Ithacappella](../artists/ithacappella.md)                          | Ithacappella |     | [🔗](https://open.spotify.com/track/1eBmRgj1SjBwnRYMImzhg5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733c8896f56a068816ef63165b" alt="" width="50" /> | Fireflies                                 | Off the Hook       | [Ithacappella](../artists/ithacappella.md)                          | Ithacappella |     | [🔗](https://open.spotify.com/track/32Z70Jce3icBWnVZrZHt68) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733c8896f56a068816ef63165b" alt="" width="50" /> | Halo                                      | Off the Hook       | [Ithacappella](../artists/ithacappella.md)                          | Ithacappella |     | [🔗](https://open.spotify.com/track/5qlpHkmxJntPok8hKIPcrY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733c8896f56a068816ef63165b" alt="" width="50" /> | Telephone                                 | Off the Hook       | [Ithacappella](../artists/ithacappella.md)                          | Ithacappella |     | [🔗](https://open.spotify.com/track/2Be3QDAcqCqaqZLuO64J87) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733c8896f56a068816ef63165b" alt="" width="50" /> | The Sound of Silence                      | Off the Hook       | [Ithacappella](../artists/ithacappella.md)                          | Ithacappella |     | [🔗](https://open.spotify.com/track/4tptZOGxMiwN7jB3mwY9Uq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bcad2453bb8a140067a4d4e2" alt="" width="50" /> | I Won't Give Up                           | The Party Upstairs | [Ithacappella](../artists/ithacappella.md)                          | Ithacappella |     | [🔗](https://open.spotify.com/track/4fK1ojDf3LYPh4KhNWoQFi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bcad2453bb8a140067a4d4e2" alt="" width="50" /> | Some Nights                               | The Party Upstairs | [Ithacappella](../artists/ithacappella.md)                          | Ithacappella |     | [🔗](https://open.spotify.com/track/5ys1Y4xf0vaKR8HjonRl21) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bcad2453bb8a140067a4d4e2" alt="" width="50" /> | The Man Who Can't Be Moved                | The Party Upstairs | [Ithacappella](../artists/ithacappella.md)                          | Ithacappella |     | [🔗](https://open.spotify.com/track/6wUSJugAinSVEgJu8S50Ou) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bcad2453bb8a140067a4d4e2" alt="" width="50" /> | Too Close (feat. Roxorloops & Blady Kris) | The Party Upstairs | [Ithacappella](../artists/ithacappella.md), Roxorloops & Blady Kris | Ithacappella |     | [🔗](https://open.spotify.com/track/3mTJZn9RT8dd9cOXLq3Kgj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bcad2453bb8a140067a4d4e2" alt="" width="50" /> | We Found Love                             | The Party Upstairs | [Ithacappella](../artists/ithacappella.md)                          | Ithacappella |     | [🔗](https://open.spotify.com/track/4p2CmpzQB1PzgCssyQepPg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27379b679128839141600389209" alt="" width="50" /> | Don't Stop Me Now                         | Stages             | [Ithacappella](../artists/ithacappella.md)                          | Ithacappella |     | [🔗](https://open.spotify.com/track/4DBs9w3PojGatSDbT42vS7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27379b679128839141600389209" alt="" width="50" /> | Say Something                             | Stages             | [Ithacappella](../artists/ithacappella.md)                          | Ithacappella |     | [🔗](https://open.spotify.com/track/03ZafJ5f3rfyF9fSB8JkX8) |
+| Art                                                                                              | Track                                     | Album              | Artists                                                             | Label                           | 💚   | 🔗                                                          |
+|:-------------------------------------------------------------------------------------------------|:------------------------------------------|:-------------------|:--------------------------------------------------------------------|:--------------------------------|:----|:-----------------------------------------------------------|
+| <img src="https://i.scdn.co/image/ab67616d0000b2733292818e78cd81fa4ba67fd2" alt="" width="50" /> | Sixteen Tons                              | Before You Go      | [Ithacappella](../artists/ithacappella.md)                          | [Ithacappella](ithacappella.md) |     | [🔗](https://open.spotify.com/track/1eBmRgj1SjBwnRYMImzhg5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733c8896f56a068816ef63165b" alt="" width="50" /> | Fireflies                                 | Off the Hook       | [Ithacappella](../artists/ithacappella.md)                          | [Ithacappella](ithacappella.md) |     | [🔗](https://open.spotify.com/track/32Z70Jce3icBWnVZrZHt68) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733c8896f56a068816ef63165b" alt="" width="50" /> | Halo                                      | Off the Hook       | [Ithacappella](../artists/ithacappella.md)                          | [Ithacappella](ithacappella.md) |     | [🔗](https://open.spotify.com/track/5qlpHkmxJntPok8hKIPcrY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733c8896f56a068816ef63165b" alt="" width="50" /> | Telephone                                 | Off the Hook       | [Ithacappella](../artists/ithacappella.md)                          | [Ithacappella](ithacappella.md) |     | [🔗](https://open.spotify.com/track/2Be3QDAcqCqaqZLuO64J87) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733c8896f56a068816ef63165b" alt="" width="50" /> | The Sound of Silence                      | Off the Hook       | [Ithacappella](../artists/ithacappella.md)                          | [Ithacappella](ithacappella.md) |     | [🔗](https://open.spotify.com/track/4tptZOGxMiwN7jB3mwY9Uq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bcad2453bb8a140067a4d4e2" alt="" width="50" /> | I Won't Give Up                           | The Party Upstairs | [Ithacappella](../artists/ithacappella.md)                          | [Ithacappella](ithacappella.md) |     | [🔗](https://open.spotify.com/track/4fK1ojDf3LYPh4KhNWoQFi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bcad2453bb8a140067a4d4e2" alt="" width="50" /> | Some Nights                               | The Party Upstairs | [Ithacappella](../artists/ithacappella.md)                          | [Ithacappella](ithacappella.md) |     | [🔗](https://open.spotify.com/track/5ys1Y4xf0vaKR8HjonRl21) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bcad2453bb8a140067a4d4e2" alt="" width="50" /> | The Man Who Can't Be Moved                | The Party Upstairs | [Ithacappella](../artists/ithacappella.md)                          | [Ithacappella](ithacappella.md) |     | [🔗](https://open.spotify.com/track/6wUSJugAinSVEgJu8S50Ou) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bcad2453bb8a140067a4d4e2" alt="" width="50" /> | Too Close (feat. Roxorloops & Blady Kris) | The Party Upstairs | [Ithacappella](../artists/ithacappella.md), Roxorloops & Blady Kris | [Ithacappella](ithacappella.md) |     | [🔗](https://open.spotify.com/track/3mTJZn9RT8dd9cOXLq3Kgj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bcad2453bb8a140067a4d4e2" alt="" width="50" /> | We Found Love                             | The Party Upstairs | [Ithacappella](../artists/ithacappella.md)                          | [Ithacappella](ithacappella.md) |     | [🔗](https://open.spotify.com/track/4p2CmpzQB1PzgCssyQepPg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27379b679128839141600389209" alt="" width="50" /> | Don't Stop Me Now                         | Stages             | [Ithacappella](../artists/ithacappella.md)                          | [Ithacappella](ithacappella.md) |     | [🔗](https://open.spotify.com/track/4DBs9w3PojGatSDbT42vS7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27379b679128839141600389209" alt="" width="50" /> | Say Something                             | Stages             | [Ithacappella](../artists/ithacappella.md)                          | [Ithacappella](ithacappella.md) |     | [🔗](https://open.spotify.com/track/03ZafJ5f3rfyF9fSB8JkX8) |

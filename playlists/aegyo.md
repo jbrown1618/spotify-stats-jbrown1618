@@ -7,7 +7,7 @@
 
 ## Top Artists
 
-![Bar chart of top 17 artists in Aegyo](../images/playlists/aegyo/artists.png)
+![Bar chart of top 17 artists](../images/playlists/aegyo/artists.png)
 
 
 <details>
@@ -38,7 +38,7 @@
 
 ## Top Albums
 
-![Bar chart of top 30 albums in Aegyo](../images/playlists/aegyo/albums.png)
+![Bar chart of top 30 albums in](../images/playlists/aegyo/albums.png)
 
 
 <details>
@@ -85,7 +85,7 @@
 
 ## Top Record Labels
 
-![Bar chart of top 15 record labels in Aegyo](../images/playlists/aegyo/labels.png)
+![Bar chart of top 15 record labels](../images/playlists/aegyo/labels.png)
 
 
 <details>

@@ -7,7 +7,7 @@
 
 ## Top Artists
 
-![Bar chart of top 6 artists in Electronic](../images/playlists/electronic/artists.png)
+![Bar chart of top 6 artists](../images/playlists/electronic/artists.png)
 
 
 <details>
@@ -27,7 +27,7 @@
 
 ## Top Albums
 
-![Bar chart of top 7 albums in Electronic](../images/playlists/electronic/albums.png)
+![Bar chart of top 7 albums in](../images/playlists/electronic/albums.png)
 
 
 <details>
@@ -48,7 +48,7 @@
 
 ## Top Record Labels
 
-![Bar chart of top 6 record labels in Electronic](../images/playlists/electronic/labels.png)
+![Bar chart of top 6 record labels](../images/playlists/electronic/labels.png)
 
 
 <details>

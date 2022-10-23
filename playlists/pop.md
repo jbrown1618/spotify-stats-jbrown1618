@@ -7,7 +7,7 @@
 
 ## Top Artists
 
-![Bar chart of top 30 artists in Pop](../images/playlists/pop/artists.png)
+![Bar chart of top 30 artists](../images/playlists/pop/artists.png)
 
 
 <details>
@@ -102,7 +102,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb676338904deb80cffb568216" alt="" width="50" /> | [Beyoncé](../artists/beyonc_.md)               | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb358577f183465ae7698a53a7" alt="" width="50" /> | Carly Rae Jepsen                               | [🔗](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb41bf7454f88cccfe6677b2c0" alt="" width="50" /> | H 3 F                                          | [🔗](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd97dd2c03a15670433f6c079" alt="" width="50" /> | [Kimbra](../artists/kimbra.md)                 | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb850b002c3920dd8dd27865d4" alt="" width="50" /> | [Kimbra](../artists/kimbra.md)                 | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe32a61d17ecbe732a99d6d92" alt="" width="50" /> | 24kGoldn                                       | [🔗](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9bc0756eb16b241111bbc72b" alt="" width="50" /> | Colbie Caillat                                 | [🔗](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb90a228bbe264818694c54834" alt="" width="50" /> | Ally Brooke                                    | [🔗](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) |
@@ -121,7 +121,7 @@
 
 ## Top Albums
 
-![Bar chart of top 30 albums in Pop](../images/playlists/pop/albums.png)
+![Bar chart of top 30 albums in](../images/playlists/pop/albums.png)
 
 
 <details>
@@ -235,7 +235,7 @@
 
 ## Top Record Labels
 
-![Bar chart of top 30 record labels in Pop](../images/playlists/pop/labels.png)
+![Bar chart of top 30 record labels](../images/playlists/pop/labels.png)
 
 
 <details>
@@ -243,7 +243,7 @@
 
 |   Number of Tracks | Label                                                                                                       |
 |-------------------:|:------------------------------------------------------------------------------------------------------------|
-|                 30 | [Interscope Records](../labels/interscope_records.md)                                                       |
+|                 30 | [Interscope](../labels/interscope.md)                                                                       |
 |                 29 | [Big Machine Records](../labels/big_machine_records.md)                                                     |
 |                 27 | [RCA Records Label](../labels/rca_records_label.md)                                                         |
 |                 21 | [Taylor Swift](../labels/taylor_swift.md)                                                                   |

@@ -7,7 +7,7 @@
 
 ## Top Artists
 
-![Bar chart of top 30 artists in Tarps](../images/playlists/tarps/artists.png)
+![Bar chart of top 30 artists](../images/playlists/tarps/artists.png)
 
 
 <details>
@@ -17,18 +17,17 @@
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------|:------------------------------------------------------------|
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" alt="" width="50" /> | [The Beatles](../artists/the_beatles.md)                       | [🔗](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | [Taylor Swift](../artists/taylor_swift.md)                     | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae8ba82eaf7e63af515c9f" alt="" width="50" /> | The Civil Wars                                                 | [🔗](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb019d6873a01987cbe35888cd" alt="" width="50" /> | [Rihanna](../artists/rihanna.md)                               | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb867008a971fae0f4d913f63a" alt="" width="50" /> | Kanye West                                                     | [🔗](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | Adele                                                          | [🔗](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | [Florence + The Machine](../artists/florence___the_machine.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb173d4b457016fe0727a7e50d" alt="" width="50" /> | The Band Perry                                                 | [🔗](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) |
 |                  1 | <img src="https://i.scdn.co/image/5c8d57d92825466637905f0d4219064cb39333e9" alt="" width="50" /> | André 3000                                                     | [🔗](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) |
 |                  1 | <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | Simon & Garfunkel                                              | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | [Billy Joel](../artists/billy_joel.md)                         | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd97dd2c03a15670433f6c079" alt="" width="50" /> | [Kimbra](../artists/kimbra.md)                                 | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb850b002c3920dd8dd27865d4" alt="" width="50" /> | [Kimbra](../artists/kimbra.md)                                 | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6659b1cb61936bd7bcb229a2" alt="" width="50" /> | Demi Lovato                                                    | [🔗](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c" alt="" width="50" /> | Amy Winehouse                                                  | [🔗](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae8ba82eaf7e63af515c9f" alt="" width="50" /> | The Civil Wars                                                 | [🔗](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) |
 |                  1 | <img src="https://i.scdn.co/image/c56cf0cc89c8ecfec7145cf065ea2006d0706605" alt="" width="50" /> | *NSYNC                                                         | [🔗](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebaed3c717bf1753ab928ea88d" alt="" width="50" /> | John Legend                                                    | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8079989370c50963b60ee7bc" alt="" width="50" /> | CeeLo Green                                                    | [🔗](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) |
@@ -59,6 +58,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb412e50f52f1fe4d2ae04cd11" alt="" width="50" /> | Jordin Sparks                                                  | [🔗](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebca118e3822061f7b7f6bc537" alt="" width="50" /> | Ne-Yo                                                          | [🔗](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb34222b3d3fa6411434640da" alt="" width="50" /> | Black Eyed Peas                                                | [🔗](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | [Florence + The Machine](../artists/florence___the_machine.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
 |                  1 | <img src="https://i.scdn.co/image/14925be3ce17d25a95b95ae7491e18fe3adc80b0" alt="" width="50" /> | Mary Wells                                                     | [🔗](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) |
 |                  1 | <img src="https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411" alt="" width="50" /> | Frank Sinatra                                                  | [🔗](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6ec3754d5db2e333b9434c75" alt="" width="50" /> | P!nk                                                           | [🔗](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) |
@@ -73,15 +73,16 @@
 
 ## Top Albums
 
-![Bar chart of top 30 albums in Tarps](../images/playlists/tarps/albums.png)
+![Bar chart of top 30 albums in](../images/playlists/tarps/albums.png)
 
 
 <details>
-<summary>See all 56 albums</summary>
+<summary>See all 55 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                              | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------|:-----------------------------------------------------------|
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Good Girl Gone Bad: Reloaded                                       | [🔗](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2737ebde0a5bb07f53a99c15224" alt="" width="50" /> | Barton Hollow                                                      | [🔗](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731c88166762f2e18f8f23c6f1" alt="" width="50" /> | 21                                                                 | [🔗](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730f2e51f7121539e221c51161" alt="" width="50" /> | We Sing. We Dance. We Steal Things.                                | [🔗](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Vows (Deluxe Version)                                              | [🔗](https://open.spotify.com/album/6V9rvW05Um5bIHePPfeI8p) |
@@ -120,14 +121,12 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c223c0c9fc255e7019a5296a" alt="" width="50" /> | Come Go With Me: The Best Of The Del-Vikings                       | [🔗](https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27309ec47c2a2173e984d8461e9" alt="" width="50" /> | Chariot - Stripped                                                 | [🔗](https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Ceremonials (Deluxe Edition)                                       | [🔗](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27334e21d0a51baa21dc4091b96" alt="" width="50" /> | Ceremonials                                                        | [🔗](https://open.spotify.com/album/3tFAP5BTa1lwUp7lLJ9FlG) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | Carolina State of Mind                                             | [🔗](https://open.spotify.com/album/3zKusinRVxdC5s2wOPYBgX) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737cdb143bd2e9906d39c5eb04" alt="" width="50" /> | Carencro                                                           | [🔗](https://open.spotify.com/album/15dP7BadtY55t9VvFlVrBA) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | Bridge Over Troubled Water                                         | [🔗](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f96cefb0197694ad440c3314" alt="" width="50" /> | Blue Hawaii                                                        | [🔗](https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="" width="50" /> | Beatrix Runs                                                       | [🔗](https://open.spotify.com/album/7HsPaYQbCYnxosF5WiSlEA) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f5aac98410fb9e64e29827d4" alt="" width="50" /> | Bear Creek                                                         | [🔗](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737ebde0a5bb07f53a99c15224" alt="" width="50" /> | Barton Hollow                                                      | [🔗](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736b18d0490878750cd69abf2c" alt="" width="50" /> | Bangerz (Deluxe Version)                                           | [🔗](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738f52f321140e4a76ea720c52" alt="" width="50" /> | Back To Black                                                      | [🔗](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736e2407383e952808a0602b0d" alt="" width="50" /> | Babel (Deluxe Version)                                             | [🔗](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) |
@@ -143,7 +142,7 @@
 
 ## Top Record Labels
 
-![Bar chart of top 30 record labels in Tarps](../images/playlists/tarps/labels.png)
+![Bar chart of top 30 record labels](../images/playlists/tarps/labels.png)
 
 
 <details>
@@ -153,10 +152,11 @@
 |-------------------:|:------------------------------------------------------------------------------------|
 |                  4 | [RCA Records Label](../labels/rca_records_label.md)                                 |
 |                  4 | [Columbia](../labels/columbia.md)                                                   |
-|                  3 | [Universal-Island Records Ltd.](../labels/universal_island_records_ltd_.md)         |
 |                  3 | [EMI Catalogue](../labels/emi_catalogue.md)                                         |
 |                  3 | [Big Machine Records](../labels/big_machine_records.md)                             |
+|                  2 | [sensibility recordings](../labels/sensibility_recordings.md)                       |
 |                  2 | [XL Recordings](../labels/xl_recordings.md)                                         |
+|                  2 | [Universal-Island Records Ltd.](../labels/universal_island_records_ltd_.md)         |
 |                  2 | [UNI](../labels/uni.md)                                                             |
 |                  2 | [Roc-A-Fella](../labels/roc_a_fella.md)                                             |
 |                  2 | [MOTOWN](../labels/motown.md)                                                       |
@@ -164,7 +164,6 @@
 |                  2 | [Elektra](../labels/elektra.md)                                                     |
 |                  2 | [Def Jam Recordings](../labels/def_jam_recordings.md)                               |
 |                  2 | [19 Recordings Limited](../labels/19_recordings_limited.md)                         |
-|                  1 | [sensibility recordings](../labels/sensibility_recordings.md)                       |
 |                  1 | [Work](../labels/work.md)                                                           |
 |                  1 | [Warner Records](../labels/warner_records.md)                                       |
 |                  1 | [Vorsicht Musik](../labels/vorsicht_musik.md)                                       |
@@ -184,7 +183,7 @@
 |                  1 | [Jive](../labels/jive.md)                                                           |
 |                  1 | [J Records](../labels/j_records.md)                                                 |
 |                  1 | [Island Records](../labels/island_records.md)                                       |
-|                  1 | [Interscope Records](../labels/interscope_records.md)                               |
+|                  1 | [Interscope](../labels/interscope.md)                                               |
 |                  1 | [Hollywood Records](../labels/hollywood_records.md)                                 |
 |                  1 | [Glassnote Entertainment Group LLC](../labels/glassnote_entertainment_group_llc.md) |
 |                  1 | [Geffen](../labels/geffen.md)                                                       |
@@ -195,9 +194,9 @@
 |                  1 | [Def Soul](../labels/def_soul.md)                                                   |
 |                  1 | [Big Machine Label Group](../labels/big_machine_label_group.md)                     |
 |                  1 | [Atlantic Records](../labels/atlantic_records.md)                                   |
-|                  1 | [Atl](../labels/atl.md)                                                             |
 |                  1 | [Arista Nashville](../labels/arista_nashville.md)                                   |
 |                  1 | [Arista](../labels/arista.md)                                                       |
+|                  1 | [ATL](../labels/atl.md)                                                             |
 |                  1 | [ATG](../labels/atg.md)                                                             |
 |                  1 | [A&M](../labels/a_m.md)                                                             |
 

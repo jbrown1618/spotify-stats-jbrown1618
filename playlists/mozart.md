@@ -7,7 +7,7 @@
 
 ## Top Artists
 
-![Bar chart of top 30 artists in Mozart](../images/playlists/mozart/artists.png)
+![Bar chart of top 30 artists](../images/playlists/mozart/artists.png)
 
 
 <details>
@@ -86,7 +86,7 @@
 
 ## Top Albums
 
-![Bar chart of top 5 albums in Mozart](../images/playlists/mozart/albums.png)
+![Bar chart of top 5 albums in](../images/playlists/mozart/albums.png)
 
 
 <details>
@@ -105,7 +105,7 @@
 
 ## Top Record Labels
 
-![Bar chart of top 5 record labels in Mozart](../images/playlists/mozart/labels.png)
+![Bar chart of top 5 record labels](../images/playlists/mozart/labels.png)
 
 
 <details>

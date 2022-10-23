@@ -7,7 +7,7 @@
 
 ## Top Artists
 
-![Bar chart of top 15 artists in String Quartets](../images/playlists/string_quartets/artists.png)
+![Bar chart of top 15 artists](../images/playlists/string_quartets/artists.png)
 
 
 <details>
@@ -36,7 +36,7 @@
 
 ## Top Albums
 
-![Bar chart of top 8 albums in String Quartets](../images/playlists/string_quartets/albums.png)
+![Bar chart of top 8 albums in](../images/playlists/string_quartets/albums.png)
 
 
 <details>
@@ -58,7 +58,7 @@
 
 ## Top Record Labels
 
-![Bar chart of top 3 record labels in String Quartets](../images/playlists/string_quartets/labels.png)
+![Bar chart of top 3 record labels](../images/playlists/string_quartets/labels.png)
 
 
 <details>

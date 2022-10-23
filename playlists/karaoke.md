@@ -3,15 +3,15 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2732d73b1bb77cee09f0278be04ab67616d0000b2736f50b3400595b123a916e0dcab67616d0000b2739ab215825eb77076b1b4b387ab67616d0000b273ff0dae802acb38075786b58c" alt="Karaoke" width="100" />
 
-[63 songs](karaoke_tracks.md)
+[64 songs](karaoke_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 30 artists in Karaoke](../images/playlists/karaoke/artists.png)
+![Bar chart of top 30 artists](../images/playlists/karaoke/artists.png)
 
 
 <details>
-<summary>See all 48 artists</summary>
+<summary>See all 49 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                                         | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------|:------------------------------------------------------------|
@@ -31,8 +31,9 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb676338904deb80cffb568216" alt="" width="50" /> | [Beyoncé](../artists/beyonc_.md)                               | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3ea2c03525939b482f8d3bfd" alt="" width="50" /> | Janelle Monáe                                                  | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb21a213a4fe1a6f9b45d3f7f9" alt="" width="50" /> | Commodores                                                     | [🔗](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd97dd2c03a15670433f6c079" alt="" width="50" /> | [Kimbra](../artists/kimbra.md)                                 | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb850b002c3920dd8dd27865d4" alt="" width="50" /> | [Kimbra](../artists/kimbra.md)                                 | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | [Dua Lipa](../artists/dua_lipa.md)                             | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae8ba82eaf7e63af515c9f" alt="" width="50" /> | The Civil Wars                                                 | [🔗](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb12123322672fbf71bd1e5c94" alt="" width="50" /> | Ella Eyre                                                      | [🔗](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb46416642da7b30327821d26e" alt="" width="50" /> | A Great Big World                                              | [🔗](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb63dc867958993e8458517d2b" alt="" width="50" /> | Backstreet Boys                                                | [🔗](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) |
@@ -69,7 +70,7 @@
 
 ## Top Albums
 
-![Bar chart of top 30 albums in Karaoke](../images/playlists/karaoke/albums.png)
+![Bar chart of top 30 albums in](../images/playlists/karaoke/albums.png)
 
 
 <details>
@@ -81,6 +82,7 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | The Blessed Unrest                                                 | [🔗](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | The Stranger                                                       | [🔗](https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Little Voice                                                       | [🔗](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731c88166762f2e18f8f23c6f1" alt="" width="50" /> | 21                                                                 | [🔗](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730f2e51f7121539e221c51161" alt="" width="50" /> | We Sing. We Dance. We Steal Things.                                | [🔗](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e" alt="" width="50" /> | Viva La Vida or Death and All His Friends                          | [🔗](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="" width="50" /> | Unorthodox Jukebox                                                 | [🔗](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) |
@@ -126,12 +128,11 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="" width="50" /> | Call Me Irresponsible                                              | [🔗](https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | Bridge Over Troubled Water                                         | [🔗](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731a104e8630a97b573201f655" alt="" width="50" /> | Blue Neighbourhood (Deluxe)                                        | [🔗](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737ebde0a5bb07f53a99c15224" alt="" width="50" /> | Barton Hollow                                                      | [🔗](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733a2a91f99d869c4ca51362ff" alt="" width="50" /> | Aussie Legends                                                     | [🔗](https://open.spotify.com/album/3IGRFGa4ErR0CU8aMMrRql) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="" width="50" /> | A Rush of Blood to the Head                                        | [🔗](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27395ca1a6d0a8ec540e876cdf2" alt="" width="50" /> | A Night At The Opera                                               | [🔗](https://open.spotify.com/album/3KCJzwKOdBxDu6TKaFPqM9) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | 4                                                                  | [🔗](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731c88166762f2e18f8f23c6f1" alt="" width="50" /> | 21                                                                 | [🔗](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736d4056466fc11f6408be2566" alt="" width="50" /> | 21                                                                 | [🔗](https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | 1000 Forms Of Fear (Deluxe Version)                                | [🔗](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) |
 
 </details>
@@ -139,15 +140,15 @@
 
 ## Top Record Labels
 
-![Bar chart of top 30 record labels in Karaoke](../images/playlists/karaoke/labels.png)
+![Bar chart of top 30 record labels](../images/playlists/karaoke/labels.png)
 
 
 <details>
-<summary>See all 42 labels</summary>
+<summary>See all 43 labels</summary>
 
 |   Number of Tracks | Label                                                                                     |
 |-------------------:|:------------------------------------------------------------------------------------------|
-|                  9 | [Columbia](../labels/columbia.md)                                                         |
+|                  8 | [Columbia](../labels/columbia.md)                                                         |
 |                  7 | [Epic](../labels/epic.md)                                                                 |
 |                  5 | [EMI Catalogue](../labels/emi_catalogue.md)                                               |
 |                  3 | [XL Recordings](../labels/xl_recordings.md)                                               |
@@ -161,6 +162,7 @@
 |                  2 | [FRANK SINATRA DIGITAL REPRISE](../labels/frank_sinatra_digital_reprise.md)               |
 |                  2 | [Elektra](../labels/elektra.md)                                                           |
 |                  2 | [143](../labels/143.md)                                                                   |
+|                  1 | [sensibility recordings](../labels/sensibility_recordings.md)                             |
 |                  1 | [Virgin Records](../labels/virgin_records.md)                                             |
 |                  1 | [Universal-Island Records Ltd.](../labels/universal_island_records_ltd_.md)               |
 |                  1 | [UMG Recordings](../labels/umg_recordings.md)                                             |
@@ -181,7 +183,7 @@
 |                  1 | [Jive](../labels/jive.md)                                                                 |
 |                  1 | [Island Records](../labels/island_records.md)                                             |
 |                  1 | [Island Def Jam](../labels/island_def_jam.md)                                             |
-|                  1 | [Interscope Records](../labels/interscope_records.md)                                     |
+|                  1 | [Interscope](../labels/interscope.md)                                                     |
 |                  1 | [EMI Recorded Music Australia Pty Ltd](../labels/emi_recorded_music_australia_pty_ltd.md) |
 |                  1 | [Down Up Down Music](../labels/down_up_down_music.md)                                     |
 |                  1 | [Def Soul](../labels/def_soul.md)                                                         |

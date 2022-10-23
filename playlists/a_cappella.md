@@ -7,7 +7,7 @@
 
 ## Top Artists
 
-![Bar chart of top 30 artists in A Cappella](../images/playlists/a_cappella/artists.png)
+![Bar chart of top 30 artists](../images/playlists/a_cappella/artists.png)
 
 
 <details>
@@ -118,7 +118,7 @@
 
 ## Top Albums
 
-![Bar chart of top 30 albums in A Cappella](../images/playlists/a_cappella/albums.png)
+![Bar chart of top 30 albums in](../images/playlists/a_cappella/albums.png)
 
 
 <details>
@@ -232,7 +232,7 @@
 
 ## Top Record Labels
 
-![Bar chart of top 30 record labels in A Cappella](../images/playlists/a_cappella/labels.png)
+![Bar chart of top 30 record labels](../images/playlists/a_cappella/labels.png)
 
 
 <details>

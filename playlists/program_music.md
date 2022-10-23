@@ -7,7 +7,7 @@
 
 ## Top Artists
 
-![Bar chart of top 21 artists in Program Music](../images/playlists/program_music/artists.png)
+![Bar chart of top 21 artists](../images/playlists/program_music/artists.png)
 
 
 <details>
@@ -42,7 +42,7 @@
 
 ## Top Albums
 
-![Bar chart of top 5 albums in Program Music](../images/playlists/program_music/albums.png)
+![Bar chart of top 5 albums in](../images/playlists/program_music/albums.png)
 
 
 <details>
@@ -61,7 +61,7 @@
 
 ## Top Record Labels
 
-![Bar chart of top 4 record labels in Program Music](../images/playlists/program_music/labels.png)
+![Bar chart of top 4 record labels](../images/playlists/program_music/labels.png)
 
 
 <details>

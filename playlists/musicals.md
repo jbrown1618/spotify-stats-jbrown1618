@@ -7,7 +7,7 @@
 
 ## Top Artists
 
-![Bar chart of top 30 artists in Musicals](../images/playlists/musicals/artists.png)
+![Bar chart of top 30 artists](../images/playlists/musicals/artists.png)
 
 
 <details>
@@ -78,7 +78,7 @@
 
 ## Top Albums
 
-![Bar chart of top 7 albums in Musicals](../images/playlists/musicals/albums.png)
+![Bar chart of top 7 albums in](../images/playlists/musicals/albums.png)
 
 
 <details>
@@ -99,7 +99,7 @@
 
 ## Top Record Labels
 
-![Bar chart of top 6 record labels in Musicals](../images/playlists/musicals/labels.png)
+![Bar chart of top 6 record labels](../images/playlists/musicals/labels.png)
 
 
 <details>

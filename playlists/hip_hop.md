@@ -7,7 +7,7 @@
 
 ## Top Artists
 
-![Bar chart of top 22 artists in Hip Hop](../images/playlists/hip_hop/artists.png)
+![Bar chart of top 22 artists](../images/playlists/hip_hop/artists.png)
 
 
 <details>
@@ -43,7 +43,7 @@
 
 ## Top Albums
 
-![Bar chart of top 23 albums in Hip Hop](../images/playlists/hip_hop/albums.png)
+![Bar chart of top 23 albums in](../images/playlists/hip_hop/albums.png)
 
 
 <details>
@@ -80,7 +80,7 @@
 
 ## Top Record Labels
 
-![Bar chart of top 19 record labels in Hip Hop](../images/playlists/hip_hop/labels.png)
+![Bar chart of top 19 record labels](../images/playlists/hip_hop/labels.png)
 
 
 <details>
@@ -98,7 +98,7 @@
 |                  1 | [Warner Records](../labels/warner_records.md)                                   |
 |                  1 | [The Orchard](../labels/the_orchard.md)                                         |
 |                  1 | [KSR](../labels/ksr.md)                                                         |
-|                  1 | [Interscope Records](../labels/interscope_records.md)                           |
+|                  1 | [Interscope](../labels/interscope.md)                                           |
 |                  1 | [EMPIRE](../labels/empire.md)                                                   |
 |                  1 | [Columbia](../labels/columbia.md)                                               |
 |                  1 | [Bad Dreams Records](../labels/bad_dreams_records.md)                           |

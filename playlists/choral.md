@@ -7,7 +7,7 @@
 
 ## Top Artists
 
-![Bar chart of top 30 artists in Choral](../images/playlists/choral/artists.png)
+![Bar chart of top 30 artists](../images/playlists/choral/artists.png)
 
 
 <details>
@@ -71,7 +71,7 @@
 
 ## Top Albums
 
-![Bar chart of top 15 albums in Choral](../images/playlists/choral/albums.png)
+![Bar chart of top 15 albums in](../images/playlists/choral/albums.png)
 
 
 <details>
@@ -100,7 +100,7 @@
 
 ## Top Record Labels
 
-![Bar chart of top 13 record labels in Choral](../images/playlists/choral/labels.png)
+![Bar chart of top 13 record labels](../images/playlists/choral/labels.png)
 
 
 <details>

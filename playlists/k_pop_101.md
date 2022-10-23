@@ -7,7 +7,7 @@
 
 ## Top Artists
 
-![Bar chart of top 30 artists in K-Pop 101](../images/playlists/k_pop_101/artists.png)
+![Bar chart of top 30 artists](../images/playlists/k_pop_101/artists.png)
 
 
 <details>
@@ -60,7 +60,7 @@
 
 ## Top Albums
 
-![Bar chart of top 30 albums in K-Pop 101](../images/playlists/k_pop_101/albums.png)
+![Bar chart of top 30 albums in](../images/playlists/k_pop_101/albums.png)
 
 
 <details>
@@ -113,7 +113,7 @@
 
 ## Top Record Labels
 
-![Bar chart of top 26 record labels in K-Pop 101](../images/playlists/k_pop_101/labels.png)
+![Bar chart of top 26 record labels](../images/playlists/k_pop_101/labels.png)
 
 
 <details>
@@ -138,7 +138,7 @@
 |                  1 | [Makeus Entertainment](../labels/makeus_entertainment.md)           |
 |                  1 | [Kakao Entertainment](../labels/kakao_entertainment.md)             |
 |                  1 | [KQ Entertainment](../labels/kq_entertainment.md)                   |
-|                  1 | [Interscope Records](../labels/interscope_records.md)               |
+|                  1 | [Interscope](../labels/interscope.md)                               |
 |                  1 | [Imperial Distribution](../labels/imperial_distribution.md)         |
 |                  1 | [High Up Entertainment](../labels/high_up_entertainment.md)         |
 |                  1 | [HYBE](../labels/hybe.md)                                           |

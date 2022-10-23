@@ -7,7 +7,7 @@
 
 ## Top Artists
 
-![Bar chart of top 5 artists in Brahms](../images/playlists/brahms/artists.png)
+![Bar chart of top 5 artists](../images/playlists/brahms/artists.png)
 
 
 <details>
@@ -26,7 +26,7 @@
 
 ## Top Albums
 
-![Bar chart of top 2 albums in Brahms](../images/playlists/brahms/albums.png)
+![Bar chart of top 2 albums in](../images/playlists/brahms/albums.png)
 
 
 <details>
@@ -42,7 +42,7 @@
 
 ## Top Record Labels
 
-![Bar chart of top 2 record labels in Brahms](../images/playlists/brahms/labels.png)
+![Bar chart of top 2 record labels](../images/playlists/brahms/labels.png)
 
 
 <details>

@@ -7,7 +7,7 @@
 
 ## Top Artists
 
-![Bar chart of top 5 artists in Rachmaninov](../images/playlists/rachmaninov/artists.png)
+![Bar chart of top 5 artists](../images/playlists/rachmaninov/artists.png)
 
 
 <details>
@@ -26,7 +26,7 @@
 
 ## Top Albums
 
-![Bar chart of top 2 albums in Rachmaninov](../images/playlists/rachmaninov/albums.png)
+![Bar chart of top 2 albums in](../images/playlists/rachmaninov/albums.png)
 
 
 <details>
@@ -42,7 +42,7 @@
 
 ## Top Record Labels
 
-![Bar chart of top 2 record labels in Rachmaninov](../images/playlists/rachmaninov/labels.png)
+![Bar chart of top 2 record labels](../images/playlists/rachmaninov/labels.png)
 
 
 <details>

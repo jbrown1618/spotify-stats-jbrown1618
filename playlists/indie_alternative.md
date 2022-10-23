@@ -1,13 +1,13 @@
 # Indie/Alternative
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d0000b273028c3bb4b81ee71dd73d1596ab67616d0000b27334e21d0a51baa21dc4091b96ab67616d0000b273d0ec2db731952a7efabc6397ab67616d0000b273df55e326ed144ab4f5cecf95" alt="Indie/Alternative" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d0000b273028c3bb4b81ee71dd73d1596ab67616d0000b27392c885317fbe4bfa680109b4ab67616d0000b273d0ec2db731952a7efabc6397ab67616d0000b273df55e326ed144ab4f5cecf95" alt="Indie/Alternative" width="100" />
 
 [169 songs](indie_alternative_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 30 artists in Indie/Alternative](../images/playlists/indie_alternative/artists.png)
+![Bar chart of top 30 artists](../images/playlists/indie_alternative/artists.png)
 
 
 <details>
@@ -17,7 +17,7 @@
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------|:------------------------------------------------------------|
 |                 17 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5903678d3db18e271e42be0" alt="" width="50" /> | [Lana Del Rey](../artists/lana_del_rey.md)                     | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
 |                 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | [Florence + The Machine](../artists/florence___the_machine.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
-|                 14 | <img src="https://i.scdn.co/image/ab6761610000e5ebd97dd2c03a15670433f6c079" alt="" width="50" /> | [Kimbra](../artists/kimbra.md)                                 | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
+|                 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb850b002c3920dd8dd27865d4" alt="" width="50" /> | [Kimbra](../artists/kimbra.md)                                 | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 |                 10 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../artists/radiohead.md)                           | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | Imogen Heap                                                    | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5ebe8637c96a7aa2917eae3c54d" alt="" width="50" /> | Sia                                                            | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
@@ -64,7 +64,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9c2923280237f7d8e381528c" alt="" width="50" /> | Anjulie                                                        | [🔗](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb379e885a01898367bfcd0c44" alt="" width="50" /> | Caro Emerald                                                   | [🔗](https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd96a6a23facfaa2b364b1bdb" alt="" width="50" /> | League of Legends                                              | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5925909bff0f2cf1bf94f949" alt="" width="50" /> | Christopher                                                    | [🔗](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebda5ab23361118f6474d68382" alt="" width="50" /> | Christopher                                                    | [🔗](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b465068da06b874e24d35bc1" alt="" width="50" /> | Huxlee                                                         | [🔗](https://open.spotify.com/artist/3yb7HrGPG0WpWgdO4XFwBf) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4427cfe93e6870af2a81fd41" alt="" width="50" /> | Kim Petras                                                     | [🔗](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb002eedc44fefe085daae10e4" alt="" width="50" /> | Troye Sivan                                                    | [🔗](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) |
@@ -93,7 +93,7 @@
 
 ## Top Albums
 
-![Bar chart of top 30 albums in Indie/Alternative](../images/playlists/indie_alternative/albums.png)
+![Bar chart of top 30 albums in](../images/playlists/indie_alternative/albums.png)
 
 
 <details>
@@ -103,7 +103,7 @@
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------|:-----------------------------------------------------------|
 |                  7 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Vows (Deluxe Version)                      | [🔗](https://open.spotify.com/album/6V9rvW05Um5bIHePPfeI8p) |
 |                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | Lungs                                      | [🔗](https://open.spotify.com/album/2KAK58PimXHF4lSoKO3RxA) |
-|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b27334e21d0a51baa21dc4091b96" alt="" width="50" /> | Ceremonials                                | [🔗](https://open.spotify.com/album/3tFAP5BTa1lwUp7lLJ9FlG) |
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Ceremonials (Deluxe Edition)               | [🔗](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) |
 |                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Born To Die                                | [🔗](https://open.spotify.com/album/4X8hAqIWpQyQks2yRhyqs4) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="" width="50" /> | Primal Heart                               | [🔗](https://open.spotify.com/album/4pj0BkJ7u39i009oqe8V79) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273754b2fddebe7039fdb912837" alt="" width="50" /> | This Is Acting (Deluxe Version)            | [🔗](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) |
@@ -200,7 +200,7 @@
 
 ## Top Record Labels
 
-![Bar chart of top 30 record labels in Indie/Alternative](../images/playlists/indie_alternative/labels.png)
+![Bar chart of top 30 record labels](../images/playlists/indie_alternative/labels.png)
 
 
 <details>
@@ -230,13 +230,13 @@
 |                  3 | [Brute](../labels/brute.md)                                                               |
 |                  3 | [Beaute](../labels/beaute.md)                                                             |
 |                  3 | [Atlantic Records](../labels/atlantic_records.md)                                         |
-|                  3 | [Atl](../labels/atl.md)                                                                   |
+|                  3 | [ATL](../labels/atl.md)                                                                   |
 |                  2 | [Spin-Farm Oy](../labels/spin_farm_oy.md)                                                 |
 |                  2 | [Saddle Creek](../labels/saddle_creek.md)                                                 |
 |                  2 | [Phonogenic](../labels/phonogenic.md)                                                     |
 |                  2 | [Nuclear Blast Entertainment](../labels/nuclear_blast_entertainment.md)                   |
 |                  2 | [Kid Ina Korner](../labels/kid_ina_korner.md)                                             |
-|                  2 | [Interscope Records](../labels/interscope_records.md)                                     |
+|                  2 | [Interscope](../labels/interscope.md)                                                     |
 |                  1 | [half·alive](../labels/half_alive.md)                                                     |
 |                  1 | [ZAR](../labels/zar.md)                                                                   |
 |                  1 | [Wyvern Lingo](../labels/wyvern_lingo.md)                                                 |

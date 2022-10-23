@@ -7,7 +7,7 @@
 
 ## Top Artists
 
-![Bar chart of top 30 artists in Opera](../images/playlists/opera/artists.png)
+![Bar chart of top 30 artists](../images/playlists/opera/artists.png)
 
 
 <details>
@@ -106,7 +106,7 @@
 
 ## Top Albums
 
-![Bar chart of top 5 albums in Opera](../images/playlists/opera/albums.png)
+![Bar chart of top 5 albums in](../images/playlists/opera/albums.png)
 
 
 <details>
@@ -125,7 +125,7 @@
 
 ## Top Record Labels
 
-![Bar chart of top 5 record labels in Opera](../images/playlists/opera/labels.png)
+![Bar chart of top 5 record labels](../images/playlists/opera/labels.png)
 
 
 <details>

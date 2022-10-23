@@ -7,7 +7,7 @@
 
 ## Top Artists
 
-![Bar chart of top 24 artists in Sharon RPD](../images/playlists/sharon_rpd/artists.png)
+![Bar chart of top 24 artists](../images/playlists/sharon_rpd/artists.png)
 
 
 <details>
@@ -45,7 +45,7 @@
 
 ## Top Albums
 
-![Bar chart of top 27 albums in Sharon RPD](../images/playlists/sharon_rpd/albums.png)
+![Bar chart of top 27 albums in](../images/playlists/sharon_rpd/albums.png)
 
 
 <details>
@@ -86,7 +86,7 @@
 
 ## Top Record Labels
 
-![Bar chart of top 13 record labels in Sharon RPD](../images/playlists/sharon_rpd/labels.png)
+![Bar chart of top 13 record labels](../images/playlists/sharon_rpd/labels.png)
 
 
 <details>
@@ -96,7 +96,7 @@
 |-------------------:|:----------------------------------------------------------------------|
 |                  5 | [SM Entertainment](../labels/sm_entertainment.md)                     |
 |                  4 | [YG Entertainment](../labels/yg_entertainment.md)                     |
-|                  4 | [Interscope Records](../labels/interscope_records.md)                 |
+|                  4 | [Interscope](../labels/interscope.md)                                 |
 |                  4 | [BIGHIT MUSIC](../labels/bighit_music.md)                             |
 |                  3 | [Starship Entertainment](../labels/starship_entertainment.md)         |
 |                  3 | [Republic Records](../labels/republic_records.md)                     |
