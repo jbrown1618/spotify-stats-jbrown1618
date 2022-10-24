@@ -42,7 +42,7 @@
 |                  1 | <img src="https://i.scdn.co/image/280739f001dfa6cbd0c865f151b4ebd2270d8cdf" alt="" width="50" /> | David Parry                                                                      | [🔗](https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD) |
 |                  1 | <img src="nan" alt="" width="50" />                                                              | Vestischen Chamber Orchestra                                                     | [🔗](https://open.spotify.com/artist/1m3ycS5catGCiLB0J5eKDG) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737e642d5abb467a88d79bc1ec" alt="" width="50" /> | Ilmar Lapinsch                                                                   | [🔗](https://open.spotify.com/artist/0dI3iXIxXjAtMkzZCsOVEg) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ab2fdac9bebbf79f3397a31f" alt="" width="50" /> | Ratko Delorko                                                                    | [🔗](https://open.spotify.com/artist/0E1sM06TDvSpGqNQBx8FV0) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738dd4042adcca6717a808428b" alt="" width="50" /> | Ratko Delorko                                                                    | [🔗](https://open.spotify.com/artist/0E1sM06TDvSpGqNQBx8FV0) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273732b6fb281de1f71f1f5f325" alt="" width="50" /> | Gints Berzins                                                                    | [🔗](https://open.spotify.com/artist/0CqCB3JQz4h9k3qk74ihWT) |
 
 </details>

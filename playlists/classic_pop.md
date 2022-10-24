@@ -29,7 +29,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f23b93005b02c1503cc5379" alt="" width="50" /> | Cher              | [🔗](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb21a213a4fe1a6f9b45d3f7f9" alt="" width="50" /> | Commodores        | [🔗](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf856b084186b3c281325bab7" alt="" width="50" /> | Gloria Gaynor     | [🔗](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738e313671453cd5533784585d" alt="" width="50" /> | The Foundations   | [🔗](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27357ac0b659552434f455d2313" alt="" width="50" /> | The Foundations   | [🔗](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9200a6d8565766425c9a1e1" alt="" width="50" /> | Lou Bega          | [🔗](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273743ebb11200358b5c050f542" alt="" width="50" /> | Harry Chapin      | [🔗](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) |
 |                  1 | <img src="https://i.scdn.co/image/ab6772690000c46cb8af37ba12c1ad7ebcc63c25" alt="" width="50" /> | Frankie Valli     | [🔗](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) |

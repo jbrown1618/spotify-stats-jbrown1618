@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1307 songs](liked_songs_tracks.md)
+[1308 songs](liked_songs_tracks.md)
 
 ## Top Artists
 
@@ -82,6 +82,7 @@
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb80584436e5726afb70cee7f8" alt="" width="50" /> | LOONA                                                          | [🔗](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb0947103979e5973bca22fcdd" alt="" width="50" /> | Coldplay                                                       | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc1dc943555dfa1ee2a107e5" alt="" width="50" /> | K/DA                                                           | [🔗](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v) |
+|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebfb6c0b7b6918dca92be0ed75" alt="" width="50" /> | LE SSERAFIM                                                    | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebd96a6a23facfaa2b364b1bdb" alt="" width="50" /> | League of Legends                                              | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="" width="50" /> | EVERGLOW                                                       | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebfd7fef26820bce07d68bfea6" alt="" width="50" /> | TREASURE                                                       | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
@@ -98,7 +99,6 @@
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb5b1a291b0a6a689091d54d8b" alt="" width="50" /> | IVE                                                            | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb767815f4876969e8f888f0db" alt="" width="50" /> | The Rose                                                       | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
 |                  4 | <img src="https://i.scdn.co/image/15b7ee7550ed4472700d573803ff90f2967f84d1" alt="" width="50" /> | A Fine Frenzy                                                  | [🔗](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) |
-|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebfb6c0b7b6918dca92be0ed75" alt="" width="50" /> | LE SSERAFIM                                                    | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb597a4257d0022e2ac837fa7d" alt="" width="50" /> | BIGBANG                                                        | [🔗](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eba36a9f95d59ab791d5e897e9" alt="" width="50" /> | Regina Spektor                                                 | [🔗](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb26e3996e1a02077ef320026d" alt="" width="50" /> | SEULGI                                                         | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
@@ -276,13 +276,13 @@
 |                  9 | [High Up Entertainment](../labels/high_up_entertainment.md)                                                         |
 |                  8 | [The Unc - Chapel Hill Tarpeggios](../labels/the_unc___chapel_hill_tarpeggios.md)                                   |
 |                  8 | [Syco Music](../labels/syco_music.md)                                                                               |
+|                  8 | [SOURCE MUSIC](../labels/source_music.md)                                                                           |
 |                  8 | [Monkey Puzzle Records](../labels/monkey_puzzle_records.md)                                                         |
 |                  8 | [MYSTIC STORY](../labels/mystic_story.md)                                                                           |
 |                  8 | [MNH ENTERTAINMENT](../labels/mnh_entertainment.md)                                                                 |
 |                  8 | [Def Jam Recordings](../labels/def_jam_recordings.md)                                                               |
 |                  7 | [WM Korea](../labels/wm_korea.md)                                                                                   |
 |                  7 | [WM Entertainment](../labels/wm_entertainment.md)                                                                   |
-|                  7 | [SOURCE MUSIC](../labels/source_music.md)                                                                           |
 |                  7 | [MOTOWN](../labels/motown.md)                                                                                       |
 |                  7 | [Cooking Vinyl Limited](../labels/cooking_vinyl_limited.md)                                                         |
 |                  6 | [Virgin Records](../labels/virgin_records.md)                                                                       |
