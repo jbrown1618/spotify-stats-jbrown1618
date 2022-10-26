@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273022b4010e20659300f42c375ab67616d0000b2730e402844f1b6be3102d339f2ab67616d0000b2733378545422c5257483f6230eab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="Singer-Songwriter" width="100" />
 
-[229 songs](singer_songwriter_tracks.md)
+[232 songs](singer_songwriter_tracks.md)
 
 ## Top Artists
 
@@ -16,7 +16,7 @@
 |   Number of Tracks | Art                                                                                              | Artist                                         | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------|:------------------------------------------------------------|
 |                 60 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../artists/sara_bareilles.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
-|                 49 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | [Taylor Swift](../artists/taylor_swift.md)     | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
+|                 52 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | [Taylor Swift](../artists/taylor_swift.md)     | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 |                 22 | <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | [Billy Joel](../artists/billy_joel.md)         | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
 |                 17 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5903678d3db18e271e42be0" alt="" width="50" /> | [Lana Del Rey](../artists/lana_del_rey.md)     | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb850b002c3920dd8dd27865d4" alt="" width="50" /> | [Kimbra](../artists/kimbra.md)                 | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
@@ -57,7 +57,7 @@
 
 
 <details>
-<summary>See all 80 albums</summary>
+<summary>See all 81 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                       | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------|:-----------------------------------------------------------|
@@ -84,6 +84,7 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273b4844a368bd9679f1db5a4fb" alt="" width="50" /> | Song to a Seagull                           | [🔗](https://open.spotify.com/album/6rg3WTvmv68Vd6tgR0yS0E) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273119ad2ebc0d33edf847ed8c6" alt="" width="50" /> | One Cell In The Sea                         | [🔗](https://open.spotify.com/album/0Ot7MEgreG2R93aN42M9iK) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="" width="50" /> | Norman Fucking Rockwell!                    | [🔗](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27394e71ca5acea8203c4aa120c" alt="" width="50" /> | Midnights                                   | [🔗](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2730e402844f1b6be3102d339f2" alt="" width="50" /> | Lemon Love                                  | [🔗](https://open.spotify.com/album/5YToJrWwzdA6W2NxxDoteE) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | Fearless                                    | [🔗](https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273e7b8e0abcd5cdc4c8b5a238c" alt="" width="50" /> | Bomb In A Birdcage                          | [🔗](https://open.spotify.com/album/07IV5RxLvAUeZbcPm4zOzn) |
@@ -157,8 +158,8 @@
 |-------------------:|:------------------------------------------------------------------------------------------------------------|
 |                 61 | [Epic](../labels/epic.md)                                                                                   |
 |                 28 | [Big Machine Records](../labels/big_machine_records.md)                                                     |
+|                 24 | [Taylor Swift](../labels/taylor_swift.md)                                                                   |
 |                 23 | [Columbia](../labels/columbia.md)                                                                           |
-|                 21 | [Taylor Swift](../labels/taylor_swift.md)                                                                   |
 |                 18 | [Polydor Records](../labels/polydor_records.md)                                                             |
 |                  9 | [Warner Records](../labels/warner_records.md)                                                               |
 |                  9 | [Rhino](../labels/rhino.md)                                                                                 |

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273028c3bb4b81ee71dd73d1596ab67616d0000b27392c885317fbe4bfa680109b4ab67616d0000b273d0ec2db731952a7efabc6397ab67616d0000b273df55e326ed144ab4f5cecf95" alt="Indie/Alternative" width="100" />
 
-[169 songs](indie_alternative_tracks.md)
+[171 songs](indie_alternative_tracks.md)
 
 ## Top Artists
 
@@ -11,7 +11,7 @@
 
 
 <details>
-<summary>See all 72 artists</summary>
+<summary>See all 74 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                                         | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------|:------------------------------------------------------------|
@@ -42,9 +42,11 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb9ba4d95b74bacff4d5747f61" alt="" width="50" /> | Hozier                                                         | [🔗](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb378adae733fc578108e3f534" alt="" width="50" /> | Death Cab for Cutie                                            | [🔗](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb78b9bf3dfa09b90ec0aac135" alt="" width="50" /> | half•alive                                                     | [🔗](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4900a06db4e96dd1444300d4" alt="" width="50" /> | ONE OK ROCK                                                    | [🔗](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb61769824ec381aca10903955" alt="" width="50" /> | Wyvern Lingo                                                   | [🔗](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb85d655f7fd1f599911d45891" alt="" width="50" /> | Thirdstory                                                     | [🔗](https://open.spotify.com/artist/7GJbWH8vhhuW22707B8HsW) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816" alt="" width="50" /> | The Neighbourhood                                              | [🔗](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9cc950721c840af3679622f3" alt="" width="50" /> | Peter Bjorn and John                                           | [🔗](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) |
 |                  1 | <img src="https://i.scdn.co/image/ab6772690000c46c44408083dac26a782655baf3" alt="" width="50" /> | Alanis Morissette                                              | [🔗](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1d4e4e7e3c5d8fa494fc5f10" alt="" width="50" /> | Lord Huron                                                     | [🔗](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb52ca4fca28b86ca3a7d9846d" alt="" width="50" /> | Destiny Rogers                                                 | [🔗](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) |
@@ -97,7 +99,7 @@
 
 
 <details>
-<summary>See all 93 albums</summary>
+<summary>See all 95 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                      | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------|:-----------------------------------------------------------|
@@ -135,6 +137,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" alt="" width="50" /> | Black Holes and Revelations                | [🔗](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27351729fae66d02122c4951153" alt="" width="50" /> | Young The Giant (Special Edition)          | [🔗](https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2" alt="" width="50" /> | Young And Beautiful                        | [🔗](https://open.spotify.com/album/1D92WOHWUI2AGQCCdplcXL) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739cf4ac84b224a02f34d2e4f6" alt="" width="50" /> | Writer's Block                             | [🔗](https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736668cca4cf49b642d43316e5" alt="" width="50" /> | Whatever We Feel                           | [🔗](https://open.spotify.com/album/5Lg9bnBTPSu0Xg7MRERveZ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27356080feb452fa7ad4ca61d8b" alt="" width="50" /> | Village                                    | [🔗](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735e3e23be9bdc38cb4767be97" alt="" width="50" /> | Under the Surface                          | [🔗](https://open.spotify.com/album/4WvW7Y50LuI1yE1XWxtAVk) |
@@ -191,6 +194,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733a2a91f99d869c4ca51362ff" alt="" width="50" /> | Aussie Legends                             | [🔗](https://open.spotify.com/album/3IGRFGa4ErR0CU8aMMrRql) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27398d4c378a8c78e84bfcf7743" alt="" width="50" /> | Anjulie                                    | [🔗](https://open.spotify.com/album/13ablPhINDfXMbbvgX7eLw) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27301b50e75c5aa46fb8ce0cd32" alt="" width="50" /> | Amnesiac                                   | [🔗](https://open.spotify.com/album/6V9YnBmFjWmXCBaUVRCVXP) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730f94f53a1c9c60d953ffd2f2" alt="" width="50" /> | Ambitions                                  | [🔗](https://open.spotify.com/album/0p1YL9nzIuKTonZH6Gq58i) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730595db077a6e829ba4bd6dea" alt="" width="50" /> | Album One                                  | [🔗](https://open.spotify.com/album/60nJMMPYjHWNjli6APs40v) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="" width="50" /> | ALL OUT                                    | [🔗](https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d5f3de2d6bacdfe22f1f0d52" alt="" width="50" /> | A New Kind Of Love (Demo)                  | [🔗](https://open.spotify.com/album/484SKRaXGq7m9VV0rmSyeb) |
@@ -204,7 +208,7 @@
 
 
 <details>
-<summary>See all 63 labels</summary>
+<summary>See all 64 labels</summary>
 
 |   Number of Tracks | Label                                                                                     |
 |-------------------:|:------------------------------------------------------------------------------------------|
@@ -216,9 +220,9 @@
 |                  8 | [Monkey Puzzle Records](../labels/monkey_puzzle_records.md)                               |
 |                  7 | [Nettwerk Records](../labels/nettwerk_records.md)                                         |
 |                  5 | [Lux Finite Music](../labels/lux_finite_music.md)                                         |
+|                  5 | [Fueled By Ramen](../labels/fueled_by_ramen.md)                                           |
 |                  4 | [Universal Music LLC](../labels/universal_music_llc.md)                                   |
 |                  4 | [Sire](../labels/sire.md)                                                                 |
-|                  4 | [Fueled By Ramen](../labels/fueled_by_ramen.md)                                           |
 |                  4 | [Atlantic Records UK](../labels/atlantic_records_uk.md)                                   |
 |                  4 | [ATO Records](../labels/ato_records.md)                                                   |
 |                  3 | [Virgin Records](../labels/virgin_records.md)                                             |
@@ -243,6 +247,7 @@
 |                  1 | [Wolf Tone](../labels/wolf_tone.md)                                                       |
 |                  1 | [Verve](../labels/verve.md)                                                               |
 |                  1 | [Universal Music Division Polydor](../labels/universal_music_division_polydor.md)         |
+|                  1 | [Universal Music AB](../labels/universal_music_ab.md)                                     |
 |                  1 | [UMGRI Interscope](../labels/umgri_interscope.md)                                         |
 |                  1 | [UMG Recordings](../labels/umg_recordings.md)                                             |
 |                  1 | [TVT Records](../labels/tvt_records.md)                                                   |
