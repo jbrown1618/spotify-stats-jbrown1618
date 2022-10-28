@@ -8,7 +8,7 @@
 
 |   Number of Tracks | Art                                                                                              | Album                                            | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------|:-----------------------------------------------------------|
-|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="" width="50" /> | Perfect Velvet - The 2nd Album                   | [🔗](https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH) |
+|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="" width="50" /> | Perfect Velvet - The 2nd Album                   | [🔗](https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="" width="50" /> | ‘The ReVe Festival’ Day 1                        | [🔗](https://open.spotify.com/album/2nLEiP268mSFZHW5dajM4R) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2738c4a282e84a53c1c8acf129a" alt="" width="50" /> | ‘The ReVe Festival 2022 - Feel My Rhythm’        | [🔗](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273830de2e836036f181df598d0" alt="" width="50" /> | Queendom - The 6th Mini Album                    | [🔗](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) |
@@ -33,7 +33,7 @@
 
 |   Number of Tracks | Label                                             |
 |-------------------:|:--------------------------------------------------|
-|                 48 | [SM Entertainment](../labels/sm_entertainment.md) |
+|                 49 | [SM Entertainment](../labels/sm_entertainment.md) |
 |                  4 | [avex trax](../labels/avex_trax.md)               |
 
 ## Tracks
@@ -55,6 +55,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2738164cd1a2e03b7ca2db9ff5e" alt="" width="50" /> | Red Flavor                | The Red Summer - Summer Mini Album               | [Red Velvet](red_velvet.md)          | [SM Entertainment](../labels/sm_entertainment.md) | 💚   | [🔗](https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738164cd1a2e03b7ca2db9ff5e" alt="" width="50" /> | You Better Know           | The Red Summer - Summer Mini Album               | [Red Velvet](red_velvet.md)          | [SM Entertainment](../labels/sm_entertainment.md) |     | [🔗](https://open.spotify.com/track/59fJbRecO16BIw9L1neEug) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="" width="50" /> | About Love                | Perfect Velvet - The 2nd Album                   | [Red Velvet](red_velvet.md)          | [SM Entertainment](../labels/sm_entertainment.md) |     | [🔗](https://open.spotify.com/track/2aSoUIBolhj734OqGn5ave) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="" width="50" /> | Attaboy                   | Perfect Velvet - The 2nd Album                   | [Red Velvet](red_velvet.md)          | [SM Entertainment](../labels/sm_entertainment.md) |     | [🔗](https://open.spotify.com/track/1ni3URO3waGQI8R6GNZ6sz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="" width="50" /> | I Just                    | Perfect Velvet - The 2nd Album                   | [Red Velvet](red_velvet.md)          | [SM Entertainment](../labels/sm_entertainment.md) |     | [🔗](https://open.spotify.com/track/7BuFMtIknd3ewai0zhKhqb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="" width="50" /> | Kingdom Come              | Perfect Velvet - The 2nd Album                   | [Red Velvet](red_velvet.md)          | [SM Entertainment](../labels/sm_entertainment.md) |     | [🔗](https://open.spotify.com/track/5XJEdVQ5jl3C3dFsV7kCTZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="" width="50" /> | Look                      | Perfect Velvet - The 2nd Album                   | [Red Velvet](red_velvet.md)          | [SM Entertainment](../labels/sm_entertainment.md) |     | [🔗](https://open.spotify.com/track/48Nd8rdc0WVG4rHTd76Mh6) |

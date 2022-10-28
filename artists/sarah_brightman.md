@@ -2,7 +2,7 @@
 # Sarah Brightman
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5ebb4d37c79c7cf3353a8dc6865" alt="Sarah Brightman" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb282329a46c9727e26cf706aa" alt="Sarah Brightman" width="100" />
 
 ## Top Albums
 

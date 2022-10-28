@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1316 songs](liked_songs_tracks.md)
+[1317 songs](liked_songs_tracks.md)
 
 ## Top Artists
 
@@ -74,7 +74,7 @@
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb3ea2c03525939b482f8d3bfd" alt="" width="50" /> | Janelle Monáe                                                  | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc9dcb7e4a97b4552e1224d6" alt="" width="50" /> | Katy Perry                                                     | [🔗](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8786ccb6031a3266bb15606" alt="" width="50" /> | WJSN                                                           | [🔗](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) |
-|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebd7611fd8c016979a9301c19d" alt="" width="50" /> | BIBI                                                           | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
+|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebcfd52bc5c5f55e2ea969dabb" alt="" width="50" /> | BIBI                                                           | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | CLC                                                            | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410" alt="" width="50" /> | Clean Bandit                                                   | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb727a2ac15afe659be999beba" alt="" width="50" /> | Doja Cat                                                       | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
@@ -109,9 +109,9 @@
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | Jackson Wang                                                   | [🔗](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb758f3c632d4d726f1129d336" alt="" width="50" /> | TOMORROW X TOGETHER                                            | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA                                                           | [🔗](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) |
+|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb2be8611f6c6e9174031c64df" alt="" width="50" /> | JEON SOMI                                                      | [🔗](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b" alt="" width="50" /> | Eminem                                                         | [🔗](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebd90aa536055fe9806b3960e6" alt="" width="50" /> | GOT7                                                           | [🔗](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) |
-|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb271320bcc15789b23aa83a44" alt="" width="50" /> | Erin McCarley                                                  | [🔗](https://open.spotify.com/artist/6Y4bCmUNPDKqc7dHkVvgim) |
 
 </details>
 
@@ -245,7 +245,7 @@
 |                 63 | [Epic](../labels/epic.md)                                                                                           |
 |                 55 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
 |                 54 | [Columbia](../labels/columbia.md)                                                                                   |
-|                 51 | [Interscope](../labels/interscope.md)                                                                               |
+|                 52 | [Interscope](../labels/interscope.md)                                                                               |
 |                 46 | [Warner Records](../labels/warner_records.md)                                                                       |
 |                 43 | [RCA Records Label](../labels/rca_records_label.md)                                                                 |
 |                 38 | [Universal Music LLC](../labels/universal_music_llc.md)                                                             |
@@ -305,6 +305,7 @@
 |                  5 | [143](../labels/143.md)                                                                                             |
 |                  4 | [WM Japan](../labels/wm_japan.md)                                                                                   |
 |                  4 | [UMC (Universal Music Catalogue)](../labels/umc__universal_music_catalogue_.md)                                     |
+|                  4 | [THE BLACK LABEL](../labels/the_black_label.md)                                                                     |
 |                  4 | [Studio MaumC](../labels/studio_maumc.md)                                                                           |
 |                  4 | [P NATION](../labels/p_nation.md)                                                                                   |
 |                  4 | [Hwa&Dam pictures](../labels/hwa_dam_pictures.md)                                                                   |
@@ -319,7 +320,6 @@
 |                  4 | [A&M](../labels/a_m.md)                                                                                             |
 |                  3 | [avex trax](../labels/avex_trax.md)                                                                                 |
 |                  3 | [Universal (MT)](../labels/universal__mt_.md)                                                                       |
-|                  3 | [THE BLACK LABEL](../labels/the_black_label.md)                                                                     |
 |                  3 | [Steam Powered Giraffe](../labels/steam_powered_giraffe.md)                                                         |
 |                  3 | [Sony Music Entertainment](../labels/sony_music_entertainment.md)                                                   |
 |                  3 | [Sony BMG Music UK](../labels/sony_bmg_music_uk.md)                                                                 |
