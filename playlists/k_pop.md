@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273f7da7c0f322b7a1c95190d92" alt="K-Pop" width="100" />
 
-[866 songs](k_pop_tracks.md)
+[872 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -70,6 +70,7 @@
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb8e9d1c8642df6f869631fe62" alt="" width="50" /> | Crush                                                | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb5b1a291b0a6a689091d54d8b" alt="" width="50" /> | IVE                                                  | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb99b5a1b1b95a279176ded0e1" alt="" width="50" /> | NewJeans                                             | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273dd8c3b43984ed746176ac0cf" alt="" width="50" /> | PinkFantasy                                          | [🔗](https://open.spotify.com/artist/5syu5kN4a5f4rgMCRGlnZp) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eba6b0d348c125a072e5284b3e" alt="" width="50" /> | IZ*ONE                                               | [🔗](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0b4c8d0a415cab50e033129" alt="" width="50" /> | Solar                                                | [🔗](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebe94c521bbe0604a5fcd4f8bf" alt="" width="50" /> | Agust D                                              | [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) |
@@ -114,7 +115,6 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf0a01c9ca9312dbe5ed6b6d9" alt="" width="50" /> | KAI                                                  | [🔗](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) |
 |                  2 | <img src="https://i.scdn.co/image/621c729dd90a6e7a63fc8f0957b2b928834ec5a8" alt="" width="50" /> | 4Minute                                              | [🔗](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb74700cf88c04af5201df7298" alt="" width="50" /> | AKMU                                                 | [🔗](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | [Dua Lipa](../artists/dua_lipa.md)                   | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 
 </details>
 
@@ -243,7 +243,7 @@
 
 |   Number of Tracks | Label                                                                                                               |
 |-------------------:|:--------------------------------------------------------------------------------------------------------------------|
-|                190 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
+|                191 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
 |                 76 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 66 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
 |                 47 | [Genie Music Corporation](../labels/genie_music_corporation.md)                                                     |
@@ -283,6 +283,7 @@
 |                  4 | [BlockBerryCreative](../labels/blockberrycreative.md)                                                               |
 |                  4 | [Abyss Company](../labels/abyss_company.md)                                                                         |
 |                  4 | [ADOR](../labels/ador.md)                                                                                           |
+|                  3 | [마이돌엔터테인먼트](../labels/_________.md)                                                                                 |
 |                  3 | [SWING ENTERTAINMENT](../labels/swing_entertainment.md)                                                             |
 |                  3 | [Republic Records – NAYEON (TWICE)](../labels/republic_records___nayeon__twice_.md)                                 |
 |                  3 | [PLAY M ENTERTAINMENT CORP.](../labels/play_m_entertainment_corp_.md)                                               |
@@ -342,7 +343,6 @@
 |                  1 | [Silent Records](../labels/silent_records.md)                                                                       |
 |                  1 | [S2 ENTERTAINMENT INC.](../labels/s2_entertainment_inc_.md)                                                         |
 |                  1 | [Rolling Star Ent.](../labels/rolling_star_ent_.md)                                                                 |
-|                  1 | [RADCOMM](../labels/radcomm.md)                                                                                     |
 
 </details>
 

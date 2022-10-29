@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1317 songs](liked_songs_tracks.md)
+[1323 songs](liked_songs_tracks.md)
 
 ## Top Artists
 
@@ -99,6 +99,7 @@
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb5b1a291b0a6a689091d54d8b" alt="" width="50" /> | IVE                                                            | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb767815f4876969e8f888f0db" alt="" width="50" /> | The Rose                                                       | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
 |                  4 | <img src="https://i.scdn.co/image/15b7ee7550ed4472700d573803ff90f2967f84d1" alt="" width="50" /> | A Fine Frenzy                                                  | [🔗](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) |
+|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0b4c8d0a415cab50e033129" alt="" width="50" /> | Solar                                                          | [🔗](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb597a4257d0022e2ac837fa7d" alt="" width="50" /> | BIGBANG                                                        | [🔗](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eba36a9f95d59ab791d5e897e9" alt="" width="50" /> | Regina Spektor                                                 | [🔗](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb26e3996e1a02077ef320026d" alt="" width="50" /> | SEULGI                                                         | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
@@ -111,7 +112,6 @@
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA                                                           | [🔗](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb2be8611f6c6e9174031c64df" alt="" width="50" /> | JEON SOMI                                                      | [🔗](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b" alt="" width="50" /> | Eminem                                                         | [🔗](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) |
-|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebd90aa536055fe9806b3960e6" alt="" width="50" /> | GOT7                                                           | [🔗](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) |
 
 </details>
 
@@ -240,7 +240,7 @@
 
 |   Number of Tracks | Label                                                                                                               |
 |-------------------:|:--------------------------------------------------------------------------------------------------------------------|
-|                139 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
+|                140 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
 |                 67 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 63 | [Epic](../labels/epic.md)                                                                                           |
 |                 55 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
@@ -251,8 +251,8 @@
 |                 38 | [Universal Music LLC](../labels/universal_music_llc.md)                                                             |
 |                 32 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                                                 |
 |                 30 | [Genie Music Corporation](../labels/genie_music_corporation.md)                                                     |
+|                 25 | [RBW Inc.](../labels/rbw_inc_.md)                                                                                   |
 |                 25 | [Atlantic Records](../labels/atlantic_records.md)                                                                   |
-|                 24 | [RBW Inc.](../labels/rbw_inc_.md)                                                                                   |
 |                 24 | [JYP Entertainment](../labels/jyp_entertainment.md)                                                                 |
 |                 24 | [BIGHIT MUSIC](../labels/bighit_music.md)                                                                           |
 |                 23 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                                                               |
