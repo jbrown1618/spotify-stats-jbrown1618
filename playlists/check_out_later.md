@@ -3,15 +3,15 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27312626c137c7684fe1662a4f3ab67616d0000b2732ced1760b648799e697e8e02ab67616d0000b273be123bb6b40736bf093870bdab67616d0000b273f919108974e4213d86b83805" alt="Check Out Later" width="100" />
 
-[26 songs](check_out_later_tracks.md)
+[27 songs](check_out_later_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 14 artists](../images/playlists/check_out_later/artists.png)
+![Bar chart of top 15 artists](../images/playlists/check_out_later/artists.png)
 
 
 <details>
-<summary>See all 14 artists</summary>
+<summary>See all 15 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                     | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------|:------------------------------------------------------------|
@@ -22,6 +22,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)         | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb65b7b48eeac1b113c75f2295" alt="" width="50" /> | YB                                         | [🔗](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4900a06db4e96dd1444300d4" alt="" width="50" /> | ONE OK ROCK                                | [🔗](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebcfd52bc5c5f55e2ea969dabb" alt="" width="50" /> | BIBI                                       | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27312626c137c7684fe1662a4f3" alt="" width="50" /> | HAEUN                                      | [🔗](https://open.spotify.com/artist/5JIuf9fLWCKGSpUDMTolAI) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="" width="50" /> | [EXO](../artists/exo.md)                   | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
 |                  1 | <img src="https://i.scdn.co/image/731f5f71de27c36300d2cf71a7f9cd7f389d0bf7" alt="" width="50" /> | Neutral Milk Hotel                         | [🔗](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) |
@@ -35,11 +36,11 @@
 
 ## Top Albums
 
-![Bar chart of top 14 albums in](../images/playlists/check_out_later/albums.png)
+![Bar chart of top 15 albums in](../images/playlists/check_out_later/albums.png)
 
 
 <details>
-<summary>See all 14 albums</summary>
+<summary>See all 15 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                   | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------|:-----------------------------------------------------------|
@@ -56,6 +57,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733e4b149dd3110f1432bfeca0" alt="" width="50" /> | Niche Syndrome                                          | [🔗](https://open.spotify.com/album/4OKBuE9F8MTCV7nnsBRcsK) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273cc2c84c6c182d0592f97d9da" alt="" width="50" /> | New Heroes - SM STATION                                 | [🔗](https://open.spotify.com/album/2s7wWil73KteQp39KDKq4w) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273589ce9a911c6e65b1f80c558" alt="" width="50" /> | In the Aeroplane Over the Sea                           | [🔗](https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736c94f5c73ef1118837aafea7" alt="" width="50" /> | Animal Farm                                             | [🔗](https://open.spotify.com/album/3Wn89ahl9ccGAxrjIB8Tvt) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a7fcbfdd783b559de31d181b" alt="" width="50" /> | 2009, Year Of Us - The Third Mini Album                 | [🔗](https://open.spotify.com/album/5AH7uBaxp7ojNCvImOeZvC) |
 
 </details>
@@ -63,11 +65,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 10 record labels](../images/playlists/check_out_later/labels.png)
+![Bar chart of top 11 record labels](../images/playlists/check_out_later/labels.png)
 
 
 <details>
-<summary>See all 10 labels</summary>
+<summary>See all 11 labels</summary>
 
 |   Number of Tracks | Label                                                     |
 |-------------------:|:----------------------------------------------------------|
@@ -81,6 +83,7 @@
 |                  1 | [Merge Records](../labels/merge_records.md)               |
 |                  1 | [GH Entertainment](../labels/gh_entertainment.md)         |
 |                  1 | [Aer-born](../labels/aer_born.md)                         |
+|                  1 | [88rising Music](../labels/88rising_music.md)             |
 
 </details>
 

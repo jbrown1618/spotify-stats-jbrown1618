@@ -2,7 +2,7 @@
 # Rihanna
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb019d6873a01987cbe35888cd" alt="Rihanna" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="Rihanna" width="100" />
 
 ## Top Albums
 
