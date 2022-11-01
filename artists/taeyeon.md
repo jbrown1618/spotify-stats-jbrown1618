@@ -18,6 +18,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b87c0d76ed9c7b1654b390d0" alt="" width="50" /> | Purpose - The 2nd Album                              | [🔗](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738da57096b4f09bd7cc6e1954" alt="" width="50" /> | My Voice - The 1st Album (Deluxe Edition)            | [🔗](https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733e55466ef35eedd766b6faaf" alt="" width="50" /> | Hotel del Luna (Original Television Soundtrack) Pt.3 | [🔗](https://open.spotify.com/album/34sSlou2VL7SJklr4JlD1e) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d63a030f28f56c03dd1e2884" alt="" width="50" /> | Hotel del Luna (Original Television Soundtrack) Pt.3 | [🔗](https://open.spotify.com/album/6nddI94g7zC5bbyNzRBO0Y) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273df0687edfc532a78ab858512" alt="" width="50" /> | Hong Gil Dong OST                                    | [🔗](https://open.spotify.com/album/5Efud8Wmo7vBQjSJI1WcJ7) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fb49e8c96b502707c691b3a3" alt="" width="50" /> | Happy                                                | [🔗](https://open.spotify.com/album/1nPB6o7EjGvUORXlnioEPk) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737de8f56a39ec67a091457d04" alt="" width="50" /> | Four Seasons                                         | [🔗](https://open.spotify.com/album/3ublKZHu1qjU9ujf9A4zhH) |
@@ -27,8 +28,8 @@
 |   Number of Tracks | Label                                             |
 |-------------------:|:--------------------------------------------------|
 |                 19 | [SM Entertainment](../labels/sm_entertainment.md) |
+|                  2 | [FNC인베스트먼트](../labels/fnc______.md)               |
 |                  1 | [msmedia](../labels/msmedia.md)                   |
-|                  1 | [FNC인베스트먼트](../labels/fnc______.md)               |
 
 ## Tracks
 
@@ -45,6 +46,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2738da57096b4f09bd7cc6e1954" alt="" width="50" /> | 11:11                | My Voice - The 1st Album (Deluxe Edition)            | [TAEYEON](taeyeon.md)              | [SM Entertainment](../labels/sm_entertainment.md) |     | [🔗](https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737de8f56a39ec67a091457d04" alt="" width="50" /> | Four Seasons         | Four Seasons                                         | [TAEYEON](taeyeon.md)              | [SM Entertainment](../labels/sm_entertainment.md) | 💚   | [🔗](https://open.spotify.com/track/4ytyLpIwUXbdFsNOvgNnmP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e55466ef35eedd766b6faaf" alt="" width="50" /> | 그대라는 시               | Hotel del Luna (Original Television Soundtrack) Pt.3 | [TAEYEON](taeyeon.md)              | FNC인베스트먼트                                         | 💚   | [🔗](https://open.spotify.com/track/049M1ZP4H2B13yB2ax6N7l) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d63a030f28f56c03dd1e2884" alt="" width="50" /> | 그대라는 시               | Hotel del Luna (Original Television Soundtrack) Pt.3 | [TAEYEON](taeyeon.md)              | FNC인베스트먼트                                         |     | [🔗](https://open.spotify.com/track/56Cmy1rCQ35V2Q7groYiHl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b87c0d76ed9c7b1654b390d0" alt="" width="50" /> | Spark                | Purpose - The 2nd Album                              | [TAEYEON](taeyeon.md)              | [SM Entertainment](../labels/sm_entertainment.md) | 💚   | [🔗](https://open.spotify.com/track/49euWwcjQTzVCynY53tvH5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb49e8c96b502707c691b3a3" alt="" width="50" /> | Happy                | Happy                                                | [TAEYEON](taeyeon.md)              | [SM Entertainment](../labels/sm_entertainment.md) | 💚   | [🔗](https://open.spotify.com/track/459mRPsscVLMvVL59gr7EM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27354d483dff87402bfe717f738" alt="" width="50" /> | What Do I Call You   | What Do I Call You - The 4th Mini Album              | [TAEYEON](taeyeon.md)              | [SM Entertainment](../labels/sm_entertainment.md) | 💚   | [🔗](https://open.spotify.com/track/3Wu4lFjkhcXxB6WWaX9gtr) |
