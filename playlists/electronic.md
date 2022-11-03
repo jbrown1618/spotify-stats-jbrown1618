@@ -19,7 +19,7 @@
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb6d5b2328e36e54bdbb0a7a96" alt="" width="50" /> | Lindsey Stirling   | [🔗](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) |
 |                  1 | <img src="https://i.scdn.co/image/6511b1fe261da3b6c6b69ae2aa771cfd307a18ae" alt="" width="50" /> | Nile Rodgers       | [🔗](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb515e5754d89e4df8123e3f9f" alt="" width="50" /> | HYO                | [🔗](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb130c638fee54fc0711448267" alt="" width="50" /> | Pharrell Williams  | [🔗](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebdeeefa8e7621458ef859ab77" alt="" width="50" /> | Pharrell Williams  | [🔗](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) |
 |                  1 | <img src="https://i.scdn.co/image/e7a1396741154b787911a8c6c9ba21a6f5b55a5f" alt="" width="50" /> | Julian Casablancas | [🔗](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) |
 
 </details>
