@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1323 songs](liked_songs_tracks.md)
+[1324 songs](liked_songs_tracks.md)
 
 ## Top Artists
 
@@ -68,6 +68,7 @@
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eba2a0b9e3448c1e702de9dc90" alt="" width="50" /> | Michael Jackson                                                | [🔗](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb9954a1ab45b2404a7bff2a45" alt="" width="50" /> | OH MY GIRL                                                     | [🔗](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | PENTAGON                                                       | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
+|                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c8ac3b2d8d886fbf3f0877a" alt="" width="50" /> | NCT DREAM                                                      | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb6ee9f83106240222e4328db4" alt="" width="50" /> | WENDY                                                          | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb7401998434b12fffd119ae18" alt="" width="50" /> | NCT 127                                                        | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
 |                  5 | <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | Simon & Garfunkel                                              | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
@@ -90,7 +91,6 @@
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb24b5185226d5b7c6aa91db5a" alt="" width="50" /> | PSY                                                            | [🔗](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) |
 |                  5 | <img src="https://i.scdn.co/image/7b2813bb4afb38f0dab9470a514091fc4ef6b1a1" alt="" width="50" /> | Rilo Kiley                                                     | [🔗](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbca2e91d07d2c53e6610570" alt="" width="50" /> | Seori                                                          | [🔗](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) |
-|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c8ac3b2d8d886fbf3f0877a" alt="" width="50" /> | NCT DREAM                                                      | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | [Michael Bublé](../artists/michael_bubl_.md)                   | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | Nicki Minaj                                                    | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebfa980b99bc5f4d47b4253f82" alt="" width="50" /> | j-hope                                                         | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
@@ -240,7 +240,7 @@
 
 |   Number of Tracks | Label                                                                                                               |
 |-------------------:|:--------------------------------------------------------------------------------------------------------------------|
-|                140 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
+|                141 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
 |                 66 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 63 | [Epic](../labels/epic.md)                                                                                           |
 |                 55 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
