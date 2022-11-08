@@ -24,7 +24,7 @@
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb152cf48cf9541c7061570857" alt="" width="50" /> | Johnny Cash       | [🔗](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) |
 |                  3 | <img src="https://i.scdn.co/image/19f768d93f6c80f7d4ca5b906e1c0376a3704389" alt="" width="50" /> | The Jackson 5     | [🔗](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8b74c36ba6c31fc0f58783c" alt="" width="50" /> | George Michael    | [🔗](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb410d394a57e185889a2740ac" alt="" width="50" /> | Nat King Cole     | [🔗](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb9d35b565f6ba9f14628c40eb" alt="" width="50" /> | Nat King Cole     | [🔗](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf12270128127ba170f90097d" alt="" width="50" /> | Aretha Franklin   | [🔗](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f23b93005b02c1503cc5379" alt="" width="50" /> | Cher              | [🔗](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb21a213a4fe1a6f9b45d3f7f9" alt="" width="50" /> | Commodores        | [🔗](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) |
