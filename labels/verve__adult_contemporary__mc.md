@@ -18,7 +18,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2736b59fdeebe247885983d6dcf" alt="" width="50" /> | Judy Kuhn        | [🔗](https://open.spotify.com/artist/7tHd518aPjJYUgyv9bidBz) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f78cfced363cf0e870f0e9ce" alt="" width="50" /> | Michael Maguire  | [🔗](https://open.spotify.com/artist/6QjRwce37TfXfjx81KqQ7N) |
 |                  2 | <img src="nan" alt="" width="50" />                                                              | Robert Billig    | [🔗](https://open.spotify.com/artist/3Ybg9gi5V2x6i8OsLc9M7p) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273505642d91330f9b873c3e576" alt="" width="50" /> | David Bryant     | [🔗](https://open.spotify.com/artist/2yPfp367ZwywK1lbGg00b8) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27354bf67d6993451d2c9eae5e1" alt="" width="50" /> | David Bryant     | [🔗](https://open.spotify.com/artist/2yPfp367ZwywK1lbGg00b8) |
 |                  2 | <img src="nan" alt="" width="50" />                                                              | Randy Graff      | [🔗](https://open.spotify.com/artist/2iRiwwxcJb6fXCxO5jt1cz) |
 |                  1 | <img src="nan" alt="" width="50" />                                                              | Jesse Corti      | [🔗](https://open.spotify.com/artist/53vhGhGRoi9ARM7kr3jrz5) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731a43f0bd7cf9c917edd8398a" alt="" width="50" /> | Donna Vivino     | [🔗](https://open.spotify.com/artist/4IDNKwIch36V0UvtfUQF9k) |
