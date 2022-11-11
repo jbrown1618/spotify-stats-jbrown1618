@@ -1,7 +1,7 @@
 # K-Pop
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273f7da7c0f322b7a1c95190d92" alt="K-Pop" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273dbe6edc2373a90a5200d30d0ab67616d0000b273f7da7c0f322b7a1c95190d92" alt="K-Pop" width="100" />
 
 [875 songs](k_pop_tracks.md)
 

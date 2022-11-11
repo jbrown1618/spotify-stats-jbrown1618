@@ -12,7 +12,7 @@
 
 |   Number of Tracks | Art                                                                                              | Artist                                              | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------------|:------------------------------------------------------------|
-|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fe5f7e6a1292f8cab3c4d5e" alt="" width="50" /> | Tufts Beelzebubs                                    | [🔗](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) |
+|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9452a4d9e815116c87a62bc" alt="" width="50" /> | Tufts Beelzebubs                                    | [🔗](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8c4a9d4a5f8004ad4d0195aa" alt="" width="50" /> | The Nor'easters                                     | [🔗](https://open.spotify.com/artist/1aLfVgwt8eBrpvHcutWmqe) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d31148f43345a656ba8ae76" alt="" width="50" /> | The Dartmouth Aires                                 | [🔗](https://open.spotify.com/artist/71Cez1b1NqsxIn5u8XNiQD) |
 |                  2 | <img src="nan" alt="" width="50" />                                                              | Deke Sharon                                         | [🔗](https://open.spotify.com/artist/6eWNb9yuroBpPcQ4sOkL1e) |

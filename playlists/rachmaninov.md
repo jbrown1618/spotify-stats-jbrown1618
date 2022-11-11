@@ -1,7 +1,7 @@
 # Rachmaninov
 
 
-<img src="https://i.scdn.co/image/ab67616d0000b2732ab037775757e856d496f2f5" alt="Rachmaninov" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d0000b2732ab037775757e856d496f2f5ab67616d0000b27342ac119618ed13998a467625ab67616d0000b27398f5b894f5d7c0409b132b46ab67616d0000b273e1627013d834e4dec094542d" alt="Rachmaninov" width="100" />
 
 [27 songs](rachmaninov_tracks.md)
 
