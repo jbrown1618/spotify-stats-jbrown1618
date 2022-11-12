@@ -1,7 +1,7 @@
 # International Pop
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d0000b2732433cb43f0f2f0f23b7c8b82ab67616d0000b2733a44a5105549a15dd92ed0c3ab67616d0000b2734ccc03169b086af698178a99ab67616d0000b2735e3e23be9bdc38cb4767be97" alt="International Pop" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d0000b2732433cb43f0f2f0f23b7c8b82ab67616d0000b2734ccc03169b086af698178a99ab67616d0000b2735e3e23be9bdc38cb4767be97ab67616d0000b273f01243c3a4151397ad034762" alt="International Pop" width="100" />
 
 [89 songs](international_pop_tracks.md)
 
@@ -78,7 +78,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe1591ab8e13f032428d24111" alt="" width="50" /> | Ali Sethi                          | [🔗](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb53c0d67ccd365de60b367dfb" alt="" width="50" /> | Ayumi Hamasaki                     | [🔗](https://open.spotify.com/artist/3Mvc8kRgr8LRYYgvFmlZqn) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe8b2a45963d5d6e7403699d0" alt="" width="50" /> | Ana Guerra                         | [🔗](https://open.spotify.com/artist/3MRynBsyLGzv3IQ9Fip6hO) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb39d1146d28e8b134df878f28" alt="" width="50" /> | Agam Buhbut                        | [🔗](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb283c3a97aea1c06e2cf1a2c" alt="" width="50" /> | Agam Buhbut                        | [🔗](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736c44926d053b033447e4e710" alt="" width="50" /> | Kausar Munir                       | [🔗](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb840800d188b7b4f76041a867" alt="" width="50" /> | Rayi Putra                         | [🔗](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb873c780bc01ab398f69e63a3" alt="" width="50" /> | Savera                             | [🔗](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb) |
@@ -98,7 +98,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb486e89dfcbba35327a1ba9b9" alt="" width="50" /> | Kenshi Yonezu                      | [🔗](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4588e958f69a086df6a9f81f" alt="" width="50" /> | Maluma                             | [🔗](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9126343e690e70ec5424ddaa" alt="" width="50" /> | Christine Fan                      | [🔗](https://open.spotify.com/artist/1q7sCl0vg0EcaFdRz0XDGg) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebca1c76fc4336772f2b731f6c" alt="" width="50" /> | Rauw Alejandro                     | [🔗](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb923e85a0eefbab49fd8d4920" alt="" width="50" /> | Rauw Alejandro                     | [🔗](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27354dbaa284c53e085523cfec2" alt="" width="50" /> | Las Ketchup                        | [🔗](https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2c540efb76ea47414f376af" alt="" width="50" /> | TFBOYS                             | [🔗](https://open.spotify.com/artist/1dywcVTpMrP7VmQUhngSce) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebdca0f480586f178dab6b5591" alt="" width="50" /> | Gen Hoshino                        | [🔗](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) |

@@ -42,7 +42,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbca2e91d07d2c53e6610570" alt="" width="50" /> | Seori                              | [🔗](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736af55ea23714e14575d05660" alt="" width="50" /> | Stellar                            | [🔗](https://open.spotify.com/artist/1rTwKjYcA7diHAD2c8ZozT) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb70b010582faadbcec8b6774c" alt="" width="50" /> | CIX                                | [🔗](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb26dc93420aeee9876c5d72c1" alt="" width="50" /> | VERIVERY                           | [🔗](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ea98681c90c252e7cde48e8" alt="" width="50" /> | VERIVERY                           | [🔗](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0eff4d3fb92746c29f1edc06" alt="" width="50" /> | Ugly Duck                          | [🔗](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) |
 
 </details>
