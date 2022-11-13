@@ -24,12 +24,12 @@
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb152cf48cf9541c7061570857" alt="" width="50" /> | Johnny Cash       | [🔗](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) |
 |                  3 | <img src="https://i.scdn.co/image/19f768d93f6c80f7d4ca5b906e1c0376a3704389" alt="" width="50" /> | The Jackson 5     | [🔗](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8b74c36ba6c31fc0f58783c" alt="" width="50" /> | George Michael    | [🔗](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb9d35b565f6ba9f14628c40eb" alt="" width="50" /> | Nat King Cole     | [🔗](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb13fcd84a9d5590ddec452429" alt="" width="50" /> | Nat King Cole     | [🔗](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf12270128127ba170f90097d" alt="" width="50" /> | Aretha Franklin   | [🔗](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f23b93005b02c1503cc5379" alt="" width="50" /> | Cher              | [🔗](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb21a213a4fe1a6f9b45d3f7f9" alt="" width="50" /> | Commodores        | [🔗](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf856b084186b3c281325bab7" alt="" width="50" /> | Gloria Gaynor     | [🔗](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27357ac0b659552434f455d2313" alt="" width="50" /> | The Foundations   | [🔗](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a2235c7e50d72aef06b7f66" alt="" width="50" /> | The Foundations   | [🔗](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9200a6d8565766425c9a1e1" alt="" width="50" /> | Lou Bega          | [🔗](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273743ebb11200358b5c050f542" alt="" width="50" /> | Harry Chapin      | [🔗](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) |
 |                  1 | <img src="https://i.scdn.co/image/ab6772690000c46cb8af37ba12c1ad7ebcc63c25" alt="" width="50" /> | Frankie Valli     | [🔗](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) |
