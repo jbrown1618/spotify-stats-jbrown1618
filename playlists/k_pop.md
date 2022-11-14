@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273f7da7c0f322b7a1c95190d92" alt="K-Pop" width="100" />
 
-[875 songs](k_pop_tracks.md)
+[874 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -24,7 +24,7 @@
 |                 29 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)                   | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 |                 26 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | [IU](../artists/iu.md)                               | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 |                 22 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)                     | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
-|                 22 | <img src="https://i.scdn.co/image/ab6761610000e5eb916392fe8c66d0c993657b6d" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md)                     | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
+|                 21 | <img src="https://i.scdn.co/image/ab6761610000e5eb916392fe8c66d0c993657b6d" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md)                     | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 |                 20 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../artists/leehi.md)                         | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 |                 20 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../artists/mamamoo.md)                     | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
 |                 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="" width="50" /> | [SEVENTEEN](../artists/seventeen.md)                 | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
@@ -291,7 +291,6 @@
 |                  3 | [MLD ENTERTAINMENT](../labels/mld_entertainment.md)                                                                 |
 |                  3 | [LABEL V](../labels/label_v.md)                                                                                     |
 |                  3 | [Imperial Distribution](../labels/imperial_distribution.md)                                                         |
-|                  3 | [FNC인베스트먼트](../labels/fnc______.md)                                                                                 |
 |                  3 | [DSP Media](../labels/dsp_media.md)                                                                                 |
 |                  3 | [BANANA CULTURE](../labels/banana_culture.md)                                                                       |
 |                  2 | [해피페이스 엔터테인먼트](../labels/____________.md)                                                                           |
@@ -309,6 +308,7 @@
 |                  2 | [Parlophone Denmark](../labels/parlophone_denmark.md)                                                               |
 |                  2 | [OFF THE RECORD Entertainment](../labels/off_the_record_entertainment.md)                                           |
 |                  2 | [Million Market](../labels/million_market.md)                                                                       |
+|                  2 | [FNC인베스트먼트](../labels/fnc______.md)                                                                                 |
 |                  2 | [Capitol Records](../labels/capitol_records.md)                                                                     |
 |                  2 | [ATISPAUS](../labels/atispaus.md)                                                                                   |
 |                  2 | [(주)블렌딩](../labels/______.md)                                                                                       |
