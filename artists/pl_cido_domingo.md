@@ -4,6 +4,10 @@
 
 <img src="https://i.scdn.co/image/cd7bd083928d11461642bf32df6f5bda813785f9" alt="Plácido Domingo" width="100" />
 
+## Featured on Playlists
+|   Number of Tracks | Art                                                                                              | Playlist                       |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------|
+|                 19 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | [Opera](../playlists/opera.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album   | 🔗                                                          |

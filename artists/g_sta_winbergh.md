@@ -4,6 +4,11 @@
 
 <img src="https://i.scdn.co/image/ab67616d0000b27307fce56f4c634feb8fce7925" alt="Gösta Winbergh" width="100" />
 
+## Featured on Playlists
+|   Number of Tracks | Art                                                                                              | Playlist                         |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------|
+|                 17 | <img src="https://i.scdn.co/image/ab67616d0000b273fdf2a7d7437db7a75da73167" alt="" width="50" /> | [Mozart](../playlists/mozart.md) |
+|                 17 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | [Opera](../playlists/opera.md)   |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album            | 🔗                                                          |

@@ -4,6 +4,10 @@
 
 <img src="https://i.scdn.co/image/48524e78bab6185ab73bca33bf6313070aea05df" alt="John Eliot Gardiner" width="100" />
 
+## Featured on Playlists
+|   Number of Tracks | Art                                                                                                                                                                                                                         | Playlist                                       |
+|-------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------|
+|                 13 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734c43a2f36c0aec708ba024d5ab67616d0000b2735d026bccbd8a50650e903130ab67616d0000b27376a42530f861aa187f3ac1c2ab67616d0000b273c385dbfabcec21279dcea0b5" alt="" width="50" /> | [Program Music](../playlists/program_music.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album                                  | 🔗                                                          |

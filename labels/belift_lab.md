@@ -2,6 +2,9 @@
 
 20 songs
 
+Appears as:
+- BELIFT LAB (20 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 1 artists](../images/labels/belift_lab/artists.png)

@@ -2,6 +2,9 @@
 
 286 songs
 
+Appears as:
+- Decca Music Group Ltd. (286 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 30 artists](../images/labels/decca_music_group_ltd_/artists.png)

@@ -2,6 +2,9 @@
 
 152 songs
 
+Appears as:
+- harmonia mundi (152 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 13 artists](../images/labels/harmonia_mundi/artists.png)

@@ -4,6 +4,10 @@
 
 <img src="https://i.scdn.co/image/ab67616d0000b2731793174d9892a98c3fd2d09b" alt="Gerd Seifert" width="100" />
 
+## Featured on Playlists
+|   Number of Tracks | Art                                                                                              | Playlist                         |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------|
+|                 11 | <img src="https://i.scdn.co/image/ab67616d0000b273fdf2a7d7437db7a75da73167" alt="" width="50" /> | [Mozart](../playlists/mozart.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album            | 🔗                                                          |

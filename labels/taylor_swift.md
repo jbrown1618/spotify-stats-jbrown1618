@@ -2,6 +2,9 @@
 
 33 songs
 
+Appears as:
+- Taylor Swift (33 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 4 artists](../images/labels/taylor_swift/artists.png)

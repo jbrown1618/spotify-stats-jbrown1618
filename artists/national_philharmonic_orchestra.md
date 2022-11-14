@@ -4,6 +4,10 @@
 
 <img src="https://i.scdn.co/image/ab67616d0000b27365f06641e94fca6f46c42269" alt="National Philharmonic Orchestra" width="100" />
 
+## Featured on Playlists
+|   Number of Tracks | Art                                                                                              | Playlist                       |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------|
+|                 42 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | [Opera](../playlists/opera.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album     | 🔗                                                          |

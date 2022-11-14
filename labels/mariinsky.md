@@ -2,6 +2,9 @@
 
 18 songs
 
+Appears as:
+- Mariinsky (18 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 3 artists](../images/labels/mariinsky/artists.png)

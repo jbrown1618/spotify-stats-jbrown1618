@@ -2,6 +2,9 @@
 
 20 songs
 
+Appears as:
+- Nimbus Records (20 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 2 artists](../images/labels/nimbus_records/artists.png)

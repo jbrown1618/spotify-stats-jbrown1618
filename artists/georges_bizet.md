@@ -4,6 +4,10 @@
 
 <img src="https://i.scdn.co/image/4a640bd1a558a58cc4dc3b8effec7747ae55ce17" alt="Georges Bizet" width="100" />
 
+## Featured on Playlists
+|   Number of Tracks | Art                                                                                              | Playlist                       |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------|
+|                 35 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | [Opera](../playlists/opera.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album   | 🔗                                                          |

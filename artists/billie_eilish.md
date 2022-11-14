@@ -4,6 +4,10 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="Billie Eilish" width="100" />
 
+## Featured on Playlists
+|   Number of Tracks | Art                                                                                                                                                                                                                         | Playlist                   |
+|-------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------|
+|                 10 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | [Pop](../playlists/pop.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album                                    | 🔗                                                          |

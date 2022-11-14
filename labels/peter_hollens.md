@@ -2,6 +2,9 @@
 
 20 songs
 
+Appears as:
+- Peter Hollens (20 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 7 artists](../images/labels/peter_hollens/artists.png)

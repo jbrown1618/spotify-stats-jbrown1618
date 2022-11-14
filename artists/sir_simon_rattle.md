@@ -4,6 +4,11 @@
 
 <img src="https://i.scdn.co/image/3460fd826c1cc058c4c4134e6c695e00dcf89fa6" alt="Sir Simon Rattle" width="100" />
 
+## Featured on Playlists
+|   Number of Tracks | Art                                                                                                                                                                                                                         | Playlist                         |
+|-------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------|
+|                 24 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2733620c09ca7ca202e676b783bab67616d0000b2733dc87408b73e227ec72eeab3ab67616d0000b2739daaa54cc50b6359ff1dc7a3ab67616d0000b273f0eb5b09e87f24415266d723" alt="" width="50" /> | [Ballet](../playlists/ballet.md) |
+|                 16 | <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="" width="50" />                                                                                                                            | [Brahms](../playlists/brahms.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album                       | 🔗                                                          |

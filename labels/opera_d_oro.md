@@ -2,6 +2,9 @@
 
 35 songs
 
+Appears as:
+- Opera d'Oro (35 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 14 artists](../images/labels/opera_d_oro/artists.png)

@@ -2,6 +2,11 @@
 
 29 songs
 
+Appears as:
+- RBW Inc. (17 tracks)
+- RBW, Inc (11 tracks)
+- RBW, INC. (1 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 9 artists](../images/labels/rbw_inc_/artists.png)

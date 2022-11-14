@@ -2,6 +2,10 @@
 
 37 songs
 
+Appears as:
+- BIGHIT MUSIC (19 tracks)
+- BIGHIT MUSIC / HYBE (18 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 8 artists](../images/labels/bighit_music/artists.png)

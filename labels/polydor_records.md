@@ -2,6 +2,10 @@
 
 55 songs
 
+Appears as:
+- Polydor Records (54 tracks)
+- Polydor (1 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 30 artists](../images/labels/polydor_records/artists.png)

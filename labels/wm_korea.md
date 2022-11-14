@@ -2,6 +2,9 @@
 
 13 songs
 
+Appears as:
+- WM Korea (13 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 10 artists](../images/labels/wm_korea/artists.png)

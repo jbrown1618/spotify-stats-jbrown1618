@@ -2,6 +2,10 @@
 
 10 songs
 
+Appears as:
+- Syco Music/Epic (9 tracks)
+- Syco Music (1 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 7 artists](../images/labels/syco_music/artists.png)

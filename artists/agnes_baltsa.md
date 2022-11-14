@@ -4,6 +4,12 @@
 
 <img src="https://i.scdn.co/image/ab67616d0000b27322070c61a7616392f04f070f" alt="Agnes Baltsa" width="100" />
 
+## Featured on Playlists
+|   Number of Tracks | Art                                                                                              | Playlist                               |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|
+|                 25 | <img src="https://i.scdn.co/image/ab67616d0000b273fdf2a7d7437db7a75da73167" alt="" width="50" /> | [Mozart](../playlists/mozart.md)       |
+|                 20 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | [Opera](../playlists/opera.md)         |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c18e2114a3a3ef543635197a" alt="" width="50" /> | [Beethoven](../playlists/beethoven.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album                              | 🔗                                                          |

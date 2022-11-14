@@ -2,6 +2,9 @@
 
 13 songs
 
+Appears as:
+- Lso Live (13 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 7 artists](../images/labels/lso_live/artists.png)

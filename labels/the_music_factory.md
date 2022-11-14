@@ -2,6 +2,9 @@
 
 15 songs
 
+Appears as:
+- The Music Factory (15 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 1 artists](../images/labels/the_music_factory/artists.png)

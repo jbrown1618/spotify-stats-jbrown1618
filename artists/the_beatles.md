@@ -4,6 +4,12 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" alt="The Beatles" width="100" />
 
+## Featured on Playlists
+|   Number of Tracks | Art                                                                                                                                                                                                                         | Playlist                                     |
+|-------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------|
+|                 31 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730b51f8d91f3a21e8426361aeab67616d0000b27384243a01af3c77b56fe01ab1ab67616d0000b2739662c6535fb4bf5767e50f32ab67616d0000b273b11078ee23dcd99e085ac33e" alt="" width="50" /> | [Classic Rock](../playlists/classic_rock.md) |
+|                  5 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732d73b1bb77cee09f0278be04ab67616d0000b2736f50b3400595b123a916e0dcab67616d0000b2739ab215825eb77076b1b4b387ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | [Karaoke](../playlists/karaoke.md)           |
+|                  3 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27303668e3f13559554eca8ccc6ab67616d0000b2730eb56329734f9400c1639359ab67616d0000b27314ed51ab46ef0765182bb8a0ab67616d0000b273987a1825341694ec9bc62457" alt="" width="50" /> | [Tarps](../playlists/tarps.md)               |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album                                              | 🔗                                                          |

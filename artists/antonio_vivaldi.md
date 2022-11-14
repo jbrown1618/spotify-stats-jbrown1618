@@ -4,6 +4,10 @@
 
 <img src="https://i.scdn.co/image/9785700bae86f991f78183076861c7342a4bcf90" alt="Antonio Vivaldi" width="100" />
 
+## Featured on Playlists
+|   Number of Tracks | Art                                                                                              | Playlist                           |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------|
+|                 34 | <img src="https://i.scdn.co/image/ab67616d0000b273203bf132896e0a4be9638dda" alt="" width="50" /> | [Vivaldi](../playlists/vivaldi.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album                      | 🔗                                                          |

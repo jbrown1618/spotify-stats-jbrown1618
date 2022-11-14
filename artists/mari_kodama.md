@@ -4,6 +4,10 @@
 
 <img src="https://i.scdn.co/image/da227efdc2e4be12443dcb5fa1ceb257fd1baf6a" alt="Mari Kodama" width="100" />
 
+## Featured on Playlists
+|   Number of Tracks | Art                                                                                              | Playlist                               |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|
+|                 21 | <img src="https://i.scdn.co/image/ab67616d0000b273c18e2114a3a3ef543635197a" alt="" width="50" /> | [Beethoven](../playlists/beethoven.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album                                     | 🔗                                                          |

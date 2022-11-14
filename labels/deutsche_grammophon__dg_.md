@@ -2,6 +2,9 @@
 
 207 songs
 
+Appears as:
+- Deutsche Grammophon (DG) (207 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 30 artists](../images/labels/deutsche_grammophon__dg_/artists.png)

@@ -4,6 +4,10 @@
 
 <img src="https://i.scdn.co/image/a69f13f522d89a79ab52a74e789deae6dbe10f18" alt="Fritz Wunderlich" width="100" />
 
+## Featured on Playlists
+|   Number of Tracks | Art                                                                                              | Playlist                       |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------|
+|                 19 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | [Opera](../playlists/opera.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album                   | 🔗                                                          |

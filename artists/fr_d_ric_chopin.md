@@ -4,6 +4,10 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5ebe55372097569b7b56b439365" alt="Frédéric Chopin" width="100" />
 
+## Featured on Playlists
+|   Number of Tracks | Art                                                                                                                                                                                                                         | Playlist                         |
+|-------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------|
+|                157 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734215d2bfa2e73ae057165347ab67616d0000b2738a9c1224da995cb33a8cb3d5ab67616d0000b273b5fcd6996bf050f9f9010d3aab67616d0000b273da673657374e88d973dad080" alt="" width="50" /> | [Chopin](../playlists/chopin.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album                                                                     | 🔗                                                          |

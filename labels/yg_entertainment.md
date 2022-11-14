@@ -2,6 +2,11 @@
 
 67 songs
 
+Appears as:
+- YG Entertainment (43 tracks)
+- YG Entertainment/Interscope Records (19 tracks)
+- YG Entertainment, distributed through Interscope Records (5 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 20 artists](../images/labels/yg_entertainment/artists.png)

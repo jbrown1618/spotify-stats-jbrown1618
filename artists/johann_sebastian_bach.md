@@ -4,6 +4,11 @@
 
 <img src="https://i.scdn.co/image/a2ec08fe69ecec2748fbc764aede8f1b03ae8f88" alt="Johann Sebastian Bach" width="100" />
 
+## Featured on Playlists
+|   Number of Tracks | Art                                                                                              | Playlist                         |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------|
+|                 55 | <img src="https://i.scdn.co/image/ab67616d0000b273261feb89ee859b598bd34a97" alt="" width="50" /> | [Bach](../playlists/bach.md)     |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fdf2a7d7437db7a75da73167" alt="" width="50" /> | [Mozart](../playlists/mozart.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album                                         | 🔗                                                          |

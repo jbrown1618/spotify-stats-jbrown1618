@@ -2,6 +2,9 @@
 
 90 songs
 
+Appears as:
+- Warner Classics (90 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 25 artists](../images/labels/warner_classics/artists.png)

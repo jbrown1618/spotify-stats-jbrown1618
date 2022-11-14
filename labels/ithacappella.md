@@ -2,6 +2,9 @@
 
 12 songs
 
+Appears as:
+- Ithacappella (12 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 2 artists](../images/labels/ithacappella/artists.png)

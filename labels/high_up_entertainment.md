@@ -2,6 +2,9 @@
 
 11 songs
 
+Appears as:
+- High Up Entertainment (11 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 1 artists](../images/labels/high_up_entertainment/artists.png)

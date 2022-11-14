@@ -4,6 +4,10 @@
 
 <img src="https://i.scdn.co/image/b569f4420a0c5257c26c745a8928cac516dd4144" alt="Maurizio Pollini" width="100" />
 
+## Featured on Playlists
+|   Number of Tracks | Art                                                                                                                                                                                                                         | Playlist                         |
+|-------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------|
+|                 19 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734215d2bfa2e73ae057165347ab67616d0000b2738a9c1224da995cb33a8cb3d5ab67616d0000b273b5fcd6996bf050f9f9010d3aab67616d0000b273da673657374e88d973dad080" alt="" width="50" /> | [Chopin](../playlists/chopin.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album             | 🔗                                                          |

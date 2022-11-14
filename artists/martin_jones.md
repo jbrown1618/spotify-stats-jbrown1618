@@ -4,6 +4,10 @@
 
 <img src="https://i.scdn.co/image/54c4049a6258f1d526aa8b421ac31332add3db98" alt="Martin Jones" width="100" />
 
+## Featured on Playlists
+|   Number of Tracks | Art                                                                                              | Playlist                           |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------|
+|                 20 | <img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="" width="50" /> | [Debussy](../playlists/debussy.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album                                             | 🔗                                                          |

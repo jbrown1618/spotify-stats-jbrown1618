@@ -2,6 +2,9 @@
 
 24 songs
 
+Appears as:
+- Naxos (24 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 2 artists](../images/labels/naxos/artists.png)

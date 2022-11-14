@@ -2,6 +2,9 @@
 
 49 songs
 
+Appears as:
+- Walt Disney Records (49 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 30 artists](../images/labels/walt_disney_records/artists.png)

@@ -2,6 +2,9 @@
 
 16 songs
 
+Appears as:
+- Hollywood Records (16 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 2 artists](../images/labels/hollywood_records/artists.png)

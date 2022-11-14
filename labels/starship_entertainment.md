@@ -2,6 +2,11 @@
 
 15 songs
 
+Appears as:
+- Starship Entertainment (8 tracks)
+- STARSHIP Entertainment (4 tracks)
+- STARSHIP ENTERTAINMENT (3 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 6 artists](../images/labels/starship_entertainment/artists.png)

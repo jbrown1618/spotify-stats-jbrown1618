@@ -4,6 +4,10 @@
 
 <img src="nan" alt="Covent Garden Chorus" width="100" />
 
+## Featured on Playlists
+|   Number of Tracks | Art                                                                                              | Playlist                       |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------|
+|                 18 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | [Opera](../playlists/opera.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album   | 🔗                                                          |

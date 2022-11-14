@@ -4,6 +4,10 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5ebfb0fcd51414e7bbe85e00b6f" alt="Yo-Yo Ma" width="100" />
 
+## Featured on Playlists
+|   Number of Tracks | Art                                                                                              | Playlist                     |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------|
+|                 36 | <img src="https://i.scdn.co/image/ab67616d0000b273261feb89ee859b598bd34a97" alt="" width="50" /> | [Bach](../playlists/bach.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album                                         | 🔗                                                          |

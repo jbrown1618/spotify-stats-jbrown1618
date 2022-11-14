@@ -2,6 +2,9 @@
 
 16 songs
 
+Appears as:
+- The Tarpeggios (16 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 1 artists](../images/labels/the_tarpeggios/artists.png)

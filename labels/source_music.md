@@ -2,6 +2,9 @@
 
 10 songs
 
+Appears as:
+- SOURCE MUSIC (10 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 3 artists](../images/labels/source_music/artists.png)

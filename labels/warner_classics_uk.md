@@ -2,6 +2,9 @@
 
 16 songs
 
+Appears as:
+- Warner Classics UK (16 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 3 artists](../images/labels/warner_classics_uk/artists.png)

@@ -2,6 +2,10 @@
 
 13 songs
 
+Appears as:
+- 143/Reprise (10 tracks)
+- Reprise (3 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 4 artists](../images/labels/reprise/artists.png)

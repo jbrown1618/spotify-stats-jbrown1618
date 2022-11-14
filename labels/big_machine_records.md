@@ -2,6 +2,9 @@
 
 29 songs
 
+Appears as:
+- Big Machine Records, LLC (29 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 1 artists](../images/labels/big_machine_records/artists.png)

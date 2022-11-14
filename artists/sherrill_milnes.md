@@ -4,6 +4,10 @@
 
 <img src="https://i.scdn.co/image/a3a75fba34f08a9626f0f3033df8da501b203413" alt="Sherrill Milnes" width="100" />
 
+## Featured on Playlists
+|   Number of Tracks | Art                                                                                              | Playlist                       |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------|
+|                 32 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | [Opera](../playlists/opera.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album     | 🔗                                                          |

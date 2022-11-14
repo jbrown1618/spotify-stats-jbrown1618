@@ -4,6 +4,10 @@
 
 <img src="https://i.scdn.co/image/0cc51a2abbedf3d71cee680fe47ef093e1ce6953" alt="Zubin Mehta" width="100" />
 
+## Featured on Playlists
+|   Number of Tracks | Art                                                                                              | Playlist                       |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------|
+|                 28 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | [Opera](../playlists/opera.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album             | 🔗                                                          |

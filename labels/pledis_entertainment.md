@@ -2,6 +2,10 @@
 
 19 songs
 
+Appears as:
+- PLEDIS Entertainment (14 tracks)
+- PLEDIS ENTERTAINMENT (5 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 6 artists](../images/labels/pledis_entertainment/artists.png)

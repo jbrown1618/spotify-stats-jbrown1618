@@ -2,6 +2,9 @@
 
 12 songs
 
+Appears as:
+- Channel Classics Records (12 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 2 artists](../images/labels/channel_classics_records/artists.png)

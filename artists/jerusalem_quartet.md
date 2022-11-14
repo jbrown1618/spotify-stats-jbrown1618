@@ -4,6 +4,10 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5ebe9c2dcd7eb7f1247a61c6f07" alt="Jerusalem Quartet" width="100" />
 
+## Featured on Playlists
+|   Number of Tracks | Art                                                                                                                                                                                                                         | Playlist                                           |
+|-------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------|
+|                 80 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731d9ef8e92370053b06f8c9ecab67616d0000b2737368d9506efe9c2d556d9e98ab67616d0000b2737cb0c702a8fd45bfd8358259ab67616d0000b273ff17a9c684ec4757c8c026b0" alt="" width="50" /> | [String Quartets](../playlists/string_quartets.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album                                                  | 🔗                                                          |

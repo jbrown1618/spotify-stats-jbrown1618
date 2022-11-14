@@ -2,6 +2,9 @@
 
 18 songs
 
+Appears as:
+- Universal-Island Records Ltd. (18 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 2 artists](../images/labels/universal_island_records_ltd_/artists.png)

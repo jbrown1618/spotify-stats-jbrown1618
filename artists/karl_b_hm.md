@@ -4,6 +4,10 @@
 
 <img src="https://i.scdn.co/image/08253b9b73e3b9b98487f74f06a456c5ed28273e" alt="Karl Böhm" width="100" />
 
+## Featured on Playlists
+|   Number of Tracks | Art                                                                                              | Playlist                       |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------|
+|                 30 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | [Opera](../playlists/opera.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album                   | 🔗                                                          |

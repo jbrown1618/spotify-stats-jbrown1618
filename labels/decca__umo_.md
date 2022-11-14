@@ -2,6 +2,9 @@
 
 27 songs
 
+Appears as:
+- Decca (UMO) (27 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 9 artists](../images/labels/decca__umo_/artists.png)

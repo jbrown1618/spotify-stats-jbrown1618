@@ -2,6 +2,9 @@
 
 59 songs
 
+Appears as:
+- Varsity Vocals (59 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 30 artists](../images/labels/varsity_vocals/artists.png)

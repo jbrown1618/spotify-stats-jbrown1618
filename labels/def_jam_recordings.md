@@ -2,6 +2,10 @@
 
 10 songs
 
+Appears as:
+- Def Jam Recordings (9 tracks)
+- Friends Keep Secrets/Def Jam Recordings/Interscope Records (1 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 6 artists](../images/labels/def_jam_recordings/artists.png)
@@ -46,7 +50,7 @@
 
 | Art                                                                                              | Track                      | Album                        | Artists                                         | Label                                                                                          | 💚   | 🔗                                                          |
 |:-------------------------------------------------------------------------------------------------|:---------------------------|:-----------------------------|:------------------------------------------------|:-----------------------------------------------------------------------------------------------|:----|:-----------------------------------------------------------|
-| <img src="https://i.scdn.co/image/ab67616d0000b27383b22beb73e2014b20159685" alt="" width="50" /> | Lonely (with benny blanco) | Lonely (with benny blanco)   | Justin Bieber, benny blanco                     | [Interscope](interscope.md), [Def Jam Recordings](def_jam_recordings.md), Friends Keep Secrets | 💚   | [🔗](https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27383b22beb73e2014b20159685" alt="" width="50" /> | Lonely (with benny blanco) | Lonely (with benny blanco)   | Justin Bieber, benny blanco                     | [Interscope](interscope.md), Friends Keep Secrets, [Def Jam Recordings](def_jam_recordings.md) | 💚   | [🔗](https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Disturbia                  | Good Girl Gone Bad: Reloaded | [Rihanna](../artists/rihanna.md)                | [Def Jam Recordings](def_jam_recordings.md)                                                    | 💚   | [🔗](https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Don't Stop The Music       | Good Girl Gone Bad: Reloaded | [Rihanna](../artists/rihanna.md)                | [Def Jam Recordings](def_jam_recordings.md)                                                    |     | [🔗](https://open.spotify.com/track/0ByMNEPAPpOR5H69DVrTNy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Umbrella                   | Good Girl Gone Bad: Reloaded | [Rihanna](../artists/rihanna.md), JAY-Z         | [Def Jam Recordings](def_jam_recordings.md)                                                    |     | [🔗](https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux) |

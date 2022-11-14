@@ -4,6 +4,10 @@
 
 <img src="https://i.scdn.co/image/ef792df3cfed7af201e591c4f86aaa9be10b518d" alt="Alfredo Kraus" width="100" />
 
+## Featured on Playlists
+|   Number of Tracks | Art                                                                                              | Playlist                       |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------|
+|                 37 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | [Opera](../playlists/opera.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album     | 🔗                                                          |

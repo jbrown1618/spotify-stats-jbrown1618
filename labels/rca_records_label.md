@@ -2,6 +2,15 @@
 
 76 songs
 
+Appears as:
+- RCA Records Label (56 tracks)
+- Monkey Puzzle Records/RCA Records (8 tracks)
+- Citizen Queen/RCA Records (5 tracks)
+- Kemosabe Records/RCA Records (4 tracks)
+- BPG/RVG/RCA Records (1 tracks)
+- RCA/Legacy (1 tracks)
+- half·alive/RCA Records (1 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 29 artists](../images/labels/rca_records_label/artists.png)
@@ -116,9 +125,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273908280d9807127e185b71d56" alt="" width="50" /> | Kiss Me More (feat. SZA)                              | Kiss Me More (feat. SZA)                            | Doja Cat, SZA                                            | [Kemosabe Records/RCA Records](kemosabe_records.md)            | 💚   | [🔗](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" alt="" width="50" /> | Need to Know                                          | Planet Her                                          | Doja Cat                                                 | [Kemosabe Records/RCA Records](kemosabe_records.md)            | 💚   | [🔗](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" alt="" width="50" /> | Woman                                                 | Planet Her                                          | Doja Cat                                                 | [Kemosabe Records/RCA Records](kemosabe_records.md)            |     | [🔗](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f96cefb0197694ad440c3314" alt="" width="50" /> | Can't Help Falling in Love                            | Blue Hawaii                                         | Elvis Presley                                            | [Legacy](legacy.md), [RCA Records Label](rca_records_label.md) |     | [🔗](https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27398acfa8c055deedc25e6081d" alt="" width="50" /> | Me, Myself & I                                        | When It's Dark Out                                  | G-Eazy, Bebe Rexha                                       | [BPG/RVG/RCA Records](bpg.md)                                  |     | [🔗](https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f89d2d949f9671982e9e732c" alt="" width="50" /> | still feel.                                           | Now, Not Yet                                        | half•alive                                               | [half·alive/RCA Records](half_alive.md)                        | 💚   | [🔗](https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f96cefb0197694ad440c3314" alt="" width="50" /> | Can't Help Falling in Love                            | Blue Hawaii                                         | Elvis Presley                                            | [RCA Records Label](rca_records_label.md), [Legacy](legacy.md) |     | [🔗](https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27398acfa8c055deedc25e6081d" alt="" width="50" /> | Me, Myself & I                                        | When It's Dark Out                                  | G-Eazy, Bebe Rexha                                       | [BPG/RVG/RCA Records](rvg.md)                                  |     | [🔗](https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f89d2d949f9671982e9e732c" alt="" width="50" /> | still feel.                                           | Now, Not Yet                                        | half•alive                                               | [half·alive/RCA Records](rca_records_label.md)                 | 💚   | [🔗](https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="" width="50" /> | Aha!                                                  | Ellipse                                             | Imogen Heap                                              | [RCA Records Label](rca_records_label.md)                      | 💚   | [🔗](https://open.spotify.com/track/42itRd5WoYb42RSYOloJvD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="" width="50" /> | Earth                                                 | Ellipse                                             | Imogen Heap                                              | [RCA Records Label](rca_records_label.md)                      | 💚   | [🔗](https://open.spotify.com/track/4zXgNwVhtfDrPLjKs52msC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="" width="50" /> | First Train Home                                      | Ellipse                                             | Imogen Heap                                              | [RCA Records Label](rca_records_label.md)                      |     | [🔗](https://open.spotify.com/track/504gJcwsW5n0s3Zj5uAedr) |

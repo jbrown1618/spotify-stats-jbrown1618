@@ -2,6 +2,9 @@
 
 32 songs
 
+Appears as:
+- A Cappella Records (32 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 8 artists](../images/labels/a_cappella_records/artists.png)

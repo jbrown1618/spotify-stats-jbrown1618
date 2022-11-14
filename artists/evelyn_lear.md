@@ -4,6 +4,10 @@
 
 <img src="https://i.scdn.co/image/baaf2c9edf58c6634088872c50ce7cfef6fde47c" alt="Evelyn Lear" width="100" />
 
+## Featured on Playlists
+|   Number of Tracks | Art                                                                                              | Playlist                       |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------|
+|                 14 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | [Opera](../playlists/opera.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album                   | 🔗                                                          |

@@ -2,6 +2,10 @@
 
 47 songs
 
+Appears as:
+- Genie Music Corporation, Stone Music Entertainment (38 tracks)
+- Genie Music Corporation (9 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 30 artists](../images/labels/genie_music_corporation/artists.png)

@@ -4,6 +4,10 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5ebae79cc231c0bde53d5ed1f5b" alt="Orpheus Chamber Orchestra" width="100" />
 
+## Featured on Playlists
+|   Number of Tracks | Art                                                                                              | Playlist                           |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------|
+|                 16 | <img src="https://i.scdn.co/image/ab67616d0000b273203bf132896e0a4be9638dda" alt="" width="50" /> | [Vivaldi](../playlists/vivaldi.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album                      | 🔗                                                          |

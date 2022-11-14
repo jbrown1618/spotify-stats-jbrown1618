@@ -2,6 +2,10 @@
 
 33 songs
 
+Appears as:
+- CUBE ENTERTAINMENT (18 tracks)
+- Cube Entertainment (15 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 8 artists](../images/labels/cube_entertainment/artists.png)

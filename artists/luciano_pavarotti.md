@@ -4,6 +4,10 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5eb7c79a26af7f4b435ec8c6b95" alt="Luciano Pavarotti" width="100" />
 
+## Featured on Playlists
+|   Number of Tracks | Art                                                                                              | Playlist                       |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------|
+|                 17 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | [Opera](../playlists/opera.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album             | 🔗                                                          |

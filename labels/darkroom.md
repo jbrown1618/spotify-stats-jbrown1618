@@ -2,6 +2,10 @@
 
 10 songs
 
+Appears as:
+- Darkroom/Interscope Records (8 tracks)
+- Darkroom (2 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 2 artists](../images/labels/darkroom/artists.png)

@@ -2,6 +2,10 @@
 
 21 songs
 
+Appears as:
+- PentaTone (12 tracks)
+- PENTATONE (9 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 2 artists](../images/labels/pentatone/artists.png)

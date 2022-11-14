@@ -4,6 +4,10 @@
 
 <img src="https://i.scdn.co/image/ce8235bc865ad83163f66364ae3877070a7bb216" alt="Shirley Verrett" width="100" />
 
+## Featured on Playlists
+|   Number of Tracks | Art                                                                                              | Playlist                       |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------|
+|                 18 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | [Opera](../playlists/opera.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album   | 🔗                                                          |

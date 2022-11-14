@@ -2,6 +2,9 @@
 
 63 songs
 
+Appears as:
+- Warner Music Group - X5 Music Group (63 tracks)
+
 ## Top Artists
 
 ![Bar chart of top 30 artists](../images/labels/warner_music_group___x5_music_group/artists.png)
