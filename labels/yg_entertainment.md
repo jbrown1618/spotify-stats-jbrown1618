@@ -1,9 +1,9 @@
 # YG Entertainment
 
-67 songs
+66 songs
 
 Appears as:
-- YG Entertainment (43 tracks)
+- YG Entertainment (42 tracks)
 - YG Entertainment/Interscope Records (19 tracks)
 - YG Entertainment, distributed through Interscope Records (5 tracks)
 
@@ -22,11 +22,11 @@ Appears as:
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5ebfd7fef26820bce07d68bfea6" alt="" width="50" /> | TREASURE                             | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb597a4257d0022e2ac837fa7d" alt="" width="50" /> | BIGBANG                              | [🔗](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8eb5e57e526ceb14f06ea203" alt="" width="50" /> | iKON                                 | [🔗](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) |
-|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb5923c0ca32a3cf3a81b34728" alt="" width="50" /> | G-DRAGON                             | [🔗](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb0c93d86c6a500dee31d63995" alt="" width="50" /> | TAEYANG                              | [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb74700cf88c04af5201df7298" alt="" width="50" /> | AKMU                                 | [🔗](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb8543b9b2b5d153d37c46606d" alt="" width="50" /> | LISA                                 | [🔗](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2d167f018561742f26a0997" alt="" width="50" /> | ROSÉ                                 | [🔗](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5923c0ca32a3cf3a81b34728" alt="" width="50" /> | G-DRAGON                             | [🔗](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc67fe879798c208fcf056dde" alt="" width="50" /> | CL                                   | [🔗](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebbaab1c0bd5243ff2557dd0f2" alt="" width="50" /> | MINO                                 | [🔗](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | [IU](../artists/iu.md)               | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
@@ -47,7 +47,7 @@ Appears as:
 
 
 <details>
-<summary>See all 36 albums</summary>
+<summary>See all 35 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                             | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------|:-----------------------------------------------------------|
@@ -83,7 +83,6 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732d56768bc14df3b0b3982efd" alt="" width="50" /> | KWON JI YONG                      | [🔗](https://open.spotify.com/album/2koSNfchdUxqw1rPJO87aH) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc24150245a8d31c68b58b4" alt="" width="50" /> | Hello Bitches                     | [🔗](https://open.spotify.com/album/0CHOb7kkjkNRCpijTjPEiy) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733dbdbd0023f1e1c08cd5a6c9" alt="" width="50" /> | COUP D'ETAT                       | [🔗](https://open.spotify.com/album/4msI9bSfKohOPFic15aLR4) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d5bcece39bfca0e5db03d57d" alt="" width="50" /> | COUP D'ETAT                       | [🔗](https://open.spotify.com/album/7K8twkW7PyQJKbLVREH3PW) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d9ac4a9970da8f98ce2e2b35" alt="" width="50" /> | As If It's Your Last              | [🔗](https://open.spotify.com/album/6IzQb2kLydYNfzmKXvmndX) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dd2c0e8a5d4b0c1e227e4c7b" alt="" width="50" /> | ALIVE                             | [🔗](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735292f306c4d8210b521cea4d" alt="" width="50" /> | 1,2,3,4                           | [🔗](https://open.spotify.com/album/6yYc7Ag6nVB3HVXzLjF9uz) |
@@ -131,8 +130,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Typa Girl                                            | BORN PINK                         | [BLACKPINK](../artists/blackpink.md)               | [Interscope](interscope.md), [YG Entertainment](yg_entertainment.md) | 💚   | [🔗](https://open.spotify.com/track/0L8LOav65XwLjCLS11gNPD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Yeah Yeah Yeah                                       | BORN PINK                         | [BLACKPINK](../artists/blackpink.md)               | [Interscope](interscope.md), [YG Entertainment](yg_entertainment.md) | 💚   | [🔗](https://open.spotify.com/track/5TfKoQg9AjmDIWYKFoDqMN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc24150245a8d31c68b58b4" alt="" width="50" /> | Hello Bitches                                        | Hello Bitches                     | CL                                                 | [YG Entertainment](yg_entertainment.md)                              | 💚   | [🔗](https://open.spotify.com/track/2PsuktMveOXllYMbAy5dEj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733dbdbd0023f1e1c08cd5a6c9" alt="" width="50" /> | CROOKED                                              | COUP D'ETAT                       | G-DRAGON                                           | [YG Entertainment](yg_entertainment.md)                              |     | [🔗](https://open.spotify.com/track/4EwNWRBWdZ6bgvxRHlZ8OO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5bcece39bfca0e5db03d57d" alt="" width="50" /> | 삐딱하게 (Crooked)                                       | COUP D'ETAT                       | G-DRAGON                                           | [YG Entertainment](yg_entertainment.md)                              | 💚   | [🔗](https://open.spotify.com/track/2r2gvUBwEOiE2IRs24oK9G) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733dbdbd0023f1e1c08cd5a6c9" alt="" width="50" /> | CROOKED                                              | COUP D'ETAT                       | G-DRAGON                                           | [YG Entertainment](yg_entertainment.md)                              | 💚   | [🔗](https://open.spotify.com/track/4EwNWRBWdZ6bgvxRHlZ8OO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d56768bc14df3b0b3982efd" alt="" width="50" /> | 무제(無題) (Untitled, 2014)                              | KWON JI YONG                      | G-DRAGON                                           | [YG Entertainment](yg_entertainment.md)                              | 💚   | [🔗](https://open.spotify.com/track/16BS342F89MDqouSxgLaUK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27348f4704427189fe1957d2871" alt="" width="50" /> | BEAUTIFUL                                            | Return                            | iKON                                               | [YG Entertainment](yg_entertainment.md)                              |     | [🔗](https://open.spotify.com/track/2l526adqDC9nZ9TL4dD80A) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27348f4704427189fe1957d2871" alt="" width="50" /> | LOVE SCENARIO                                        | Return                            | iKON                                               | [YG Entertainment](yg_entertainment.md)                              | 💚   | [🔗](https://open.spotify.com/track/3d3ELsqKlQ7WA0a10Isu3l) |

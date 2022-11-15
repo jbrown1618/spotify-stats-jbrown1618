@@ -1,9 +1,9 @@
 # BIGHIT MUSIC
 
-37 songs
+38 songs
 
 Appears as:
-- BIGHIT MUSIC (19 tracks)
+- BIGHIT MUSIC (20 tracks)
 - BIGHIT MUSIC / HYBE (18 tracks)
 
 ## Top Artists
@@ -16,7 +16,7 @@ Appears as:
 
 |   Number of Tracks | Art                                                                                              | Artist                   | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------|:------------------------------------------------------------|
-|                 28 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
+|                 29 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebe94c521bbe0604a5fcd4f8bf" alt="" width="50" /> | Agust D                  | [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebfa980b99bc5f4d47b4253f82" alt="" width="50" /> | j-hope                   | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7c4240b7951da248f3404e42" alt="" width="50" /> | Steve Aoki               | [🔗](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) |
@@ -30,11 +30,11 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 17 albums in](../images/labels/bighit_music/albums.png)
+![Bar chart of top 18 albums in](../images/labels/bighit_music/albums.png)
 
 
 <details>
-<summary>See all 17 albums</summary>
+<summary>See all 18 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                            | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------|:-----------------------------------------------------------|
@@ -51,6 +51,7 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273aabacdacfb6eceeb819c6ed6" alt="" width="50" /> | Wings                                            | [🔗](https://open.spotify.com/album/17FnTn4P3Bkyf6mbNQDhhy) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="" width="50" /> | Wings                                            | [🔗](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738ac442a54c68aad8f9b93f51" alt="" width="50" /> | The Most Beautiful Moment in Life Pt.2           | [🔗](https://open.spotify.com/album/4frjaGAtuBmm8CPuYPY4oG) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="" width="50" /> | Proof                                            | [🔗](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738f31818d30fdb7f44fd57713" alt="" width="50" /> | Dark & Wild                                      | [🔗](https://open.spotify.com/album/7FxxU3EP37uMsZf8FilkDR) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273819e2d9468a6792735c0ec77" alt="" width="50" /> | Chicken Noodle Soup (feat. Becky G)              | [🔗](https://open.spotify.com/album/76IRLp7YzBVLKsat6Ro9ae) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ed656680374294d5217193fa" alt="" width="50" /> | Butter                                           | [🔗](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) |
@@ -96,6 +97,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="" width="50" /> | Life Goes On                                      | BE                                               | [BTS](../artists/bts.md)             | [BIGHIT MUSIC](bighit_music.md)                  | 💚   | [🔗](https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="" width="50" /> | Telepathy                                         | BE                                               | [BTS](../artists/bts.md)             | [BIGHIT MUSIC](bighit_music.md)                  | 💚   | [🔗](https://open.spotify.com/track/6Fnvi5QnVkTskSzeRvvQds) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed656680374294d5217193fa" alt="" width="50" /> | Butter                                            | Butter                                           | [BTS](../artists/bts.md)             | [HYBE](hybe.md), [BIGHIT MUSIC](bighit_music.md) | 💚   | [🔗](https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="" width="50" /> | Run BTS                                           | Proof                                            | [BTS](../artists/bts.md)             | [BIGHIT MUSIC](bighit_music.md)                  | 💚   | [🔗](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273819e2d9468a6792735c0ec77" alt="" width="50" /> | Chicken Noodle Soup (feat. Becky G)               | Chicken Noodle Soup (feat. Becky G)              | j-hope, Becky G                      | [HYBE](hybe.md), [BIGHIT MUSIC](bighit_music.md) | 💚   | [🔗](https://open.spotify.com/track/6wyr4ReB05D9sJB1Rsmcqo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="" width="50" /> | = (Equal Sign)                                    | Jack In The Box                                  | j-hope                               | [BIGHIT MUSIC](bighit_music.md)                  | 💚   | [🔗](https://open.spotify.com/track/70XnKsO3UnIT4FnEwChQXx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="" width="50" /> | MORE                                              | Jack In The Box                                  | j-hope                               | [BIGHIT MUSIC](bighit_music.md)                  | 💚   | [🔗](https://open.spotify.com/track/7GARzfC1mwhDuk4t9WOACq) |

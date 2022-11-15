@@ -3,22 +3,24 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="Sharon RPD" width="100" />
 
-[28 songs](sharon_rpd_tracks.md)
+[33 songs](sharon_rpd_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 24 artists](../images/playlists/sharon_rpd/artists.png)
+![Bar chart of top 25 artists](../images/playlists/sharon_rpd/artists.png)
 
 
 <details>
-<summary>See all 24 artists</summary>
+<summary>See all 25 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                 | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:------------------------------------------------------------|
+|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)   | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)               | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
-|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)   | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5b1a291b0a6a689091d54d8b" alt="" width="50" /> | IVE                                    | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb99b5a1b1b95a279176ded0e1" alt="" width="50" /> | NewJeans                               | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)       | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebfb6c0b7b6918dca92be0ed75" alt="" width="50" /> | LE SSERAFIM                            | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb8a8415e72dedaa552259d0c1" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb45b2ff69ae6a3caccb776cfa" alt="" width="50" /> | [STAYC](../artists/stayc.md)           | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2be8611f6c6e9174031c64df" alt="" width="50" /> | JEON SOMI                              | [🔗](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) |
@@ -30,7 +32,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../artists/aespa.md)           | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8543b9b2b5d153d37c46606d" alt="" width="50" /> | LISA                                   | [🔗](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd86145072666f72cc5e833d8" alt="" width="50" /> | Monsta X                               | [🔗](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfb6c0b7b6918dca92be0ed75" alt="" width="50" /> | LE SSERAFIM                            | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb66701ca609176d8fd4a9c4a0" alt="" width="50" /> | NCT                                    | [🔗](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bd65b0efee10bfa8328c33b" alt="" width="50" /> | NCT U                                  | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
@@ -45,15 +46,17 @@
 
 ## Top Albums
 
-![Bar chart of top 27 albums in](../images/playlists/sharon_rpd/albums.png)
+![Bar chart of top 30 albums in](../images/playlists/sharon_rpd/albums.png)
 
 
 <details>
-<summary>See all 27 albums</summary>
+<summary>See all 30 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                            | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------|:-----------------------------------------------------------|
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | THE ALBUM                                        | [🔗](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" alt="" width="50" /> | NewJeans 1st EP 'New Jeans'                      | [🔗](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | BORN PINK                                        | [🔗](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | ‘The ReVe Festival’ Finale                       | [🔗](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738ea860a3e6904b875629d672" alt="" width="50" /> | YOUNG-LUV.COM                                    | [🔗](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="" width="50" /> | The Most Beautiful Moment in Life: Young Forever | [🔗](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) |
@@ -80,30 +83,32 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736f248f7695eb544a3a1955c5" alt="" width="50" /> | Black Mamba                                      | [🔗](https://open.spotify.com/album/3syEYrKIsgxaZMB5t1dVG7) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | BORDER : CARNIVAL                                | [🔗](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="" width="50" /> | BE                                               | [🔗](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="" width="50" /> | ANTIFRAGILE                                      | [🔗](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) |
 
 </details>
 
 
 ## Top Record Labels
 
-![Bar chart of top 13 record labels](../images/playlists/sharon_rpd/labels.png)
+![Bar chart of top 14 record labels](../images/playlists/sharon_rpd/labels.png)
 
 
 <details>
-<summary>See all 13 labels</summary>
+<summary>See all 14 labels</summary>
 
 |   Number of Tracks | Label                                                                 |
 |-------------------:|:----------------------------------------------------------------------|
+|                  6 | [YG Entertainment](../labels/yg_entertainment.md)                     |
+|                  6 | [Interscope](../labels/interscope.md)                                 |
 |                  5 | [SM Entertainment](../labels/sm_entertainment.md)                     |
-|                  4 | [YG Entertainment](../labels/yg_entertainment.md)                     |
-|                  4 | [Interscope](../labels/interscope.md)                                 |
 |                  4 | [BIGHIT MUSIC](../labels/bighit_music.md)                             |
 |                  3 | [Starship Entertainment](../labels/starship_entertainment.md)         |
 |                  3 | [Republic Records](../labels/republic_records.md)                     |
+|                  2 | [SOURCE MUSIC](../labels/source_music.md)                             |
 |                  2 | [High Up Entertainment](../labels/high_up_entertainment.md)           |
 |                  2 | [BELIFT LAB](../labels/belift_lab.md)                                 |
+|                  2 | [ADOR](../labels/ador.md)                                             |
 |                  1 | [THE BLACK LABEL](../labels/the_black_label.md)                       |
-|                  1 | [SOURCE MUSIC](../labels/source_music.md)                             |
 |                  1 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)             |
 |                  1 | [PLAY M ENTERTAINMENT CORP.](../labels/play_m_entertainment_corp_.md) |
 |                  1 | [Genie Music Corporation](../labels/genie_music_corporation.md)       |
