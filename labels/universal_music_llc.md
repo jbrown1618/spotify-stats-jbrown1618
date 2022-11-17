@@ -1,9 +1,9 @@
 # Universal Music LLC
 
-50 songs
+51 songs
 
 Appears as:
-- Universal Music LLC (30 tracks)
+- Universal Music LLC (31 tracks)
 - Universal Records (16 tracks)
 - Universal Music Ltd. (2 tracks)
 - Fuzzy Door Productions/Universal (1 tracks)
@@ -11,11 +11,11 @@ Appears as:
 
 ## Top Artists
 
-![Bar chart of top 26 artists](../images/labels/universal_music_llc/artists.png)
+![Bar chart of top 27 artists](../images/labels/universal_music_llc/artists.png)
 
 
 <details>
-<summary>See all 26 artists</summary>
+<summary>See all 27 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                         | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------|:------------------------------------------------------------|
@@ -45,17 +45,18 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99713cdd2a68b0db306aad6" alt="" width="50" /> | TAEMIN                                         | [🔗](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733e59f3e73b99ed248ab7bae2" alt="" width="50" /> | Lee Young Ji                                   | [🔗](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0db36498679f03f30606d45f" alt="" width="50" /> | Ellie Goulding                                 | [🔗](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb45b2ff69ae6a3caccb776cfa" alt="" width="50" /> | [STAYC](../artists/stayc.md)                   | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 
 </details>
 
 
 ## Top Albums
 
-![Bar chart of top 29 albums in](../images/labels/universal_music_llc/albums.png)
+![Bar chart of top 30 albums in](../images/labels/universal_music_llc/albums.png)
 
 
 <details>
-<summary>See all 29 albums</summary>
+<summary>See all 30 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                   | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------|:-----------------------------------------------------------|
@@ -73,6 +74,7 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273be123bb6b40736bf093870bd" alt="" width="50" /> | Why Be?                                                 | [🔗](https://open.spotify.com/album/4S5PRo1gVG9BvRnCcdYzdS) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273da0376db6b1c5562ab8f5b29" alt="" width="50" /> | WE:TH                                                   | [🔗](https://open.spotify.com/album/1ASYbBYBwV6Rcfc2ycqmlK) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6" alt="" width="50" /> | Uh-Oh                                                   | [🔗](https://open.spotify.com/album/3PzrNuMGWGpp8WOfrmpkaU) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d7610ec7724bad4e6c9e499" alt="" width="50" /> | POPPY                                                   | [🔗](https://open.spotify.com/album/2nei1QXcpDotdoMz3IQxr4) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273913c7a28b9dbce0ec35a7045" alt="" width="50" /> | Music Is Better Than Words                              | [🔗](https://open.spotify.com/album/6VojJdbXviFkMuemAQ2Ivo) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273da9c76ed020a7894443a3f97" alt="" width="50" /> | MAP OF THE SOUL : 7 ~ THE JOURNEY ~                     | [🔗](https://open.spotify.com/album/1nScVw87kRJiT2bg2Kswhp) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737bc73fff9f3787c1d8a23167" alt="" width="50" /> | Look At Me                                              | [🔗](https://open.spotify.com/album/3mp41Up4LNhAVLGxl7BAUR) |
@@ -125,7 +127,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="" width="50" /> | Meant                       | Beatrix Runs                                            | Elizaveta                                                           | [Universal Records](universal_music_llc.md)                                                 | 💚   | [🔗](https://open.spotify.com/track/0HEA0fIQiqOCQBcHd8PdXo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="" width="50" /> | Nightflyers                 | Beatrix Runs                                            | Elizaveta                                                           | [Universal Records](universal_music_llc.md)                                                 |     | [🔗](https://open.spotify.com/track/2IJIZnAmBgkbohDRZDIMl5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="" width="50" /> | Odi Et Amo                  | Beatrix Runs                                            | Elizaveta                                                           | [Universal Records](universal_music_llc.md)                                                 | 💚   | [🔗](https://open.spotify.com/track/24wPBY34rV79iESLYdpsRH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="" width="50" /> | Love Me Like You Do         | Fifty Shades Freed (Original Motion Picture Soundtrack) | Ellie Goulding                                                      | [Universal Music LLC](universal_music_llc.md), [Republic Records](republic_records.md), FSF | 💚   | [🔗](https://open.spotify.com/track/0Cy7wt6IlRfBPHXXjmZbcP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="" width="50" /> | Love Me Like You Do         | Fifty Shades Freed (Original Motion Picture Soundtrack) | Ellie Goulding                                                      | [Universal Music LLC](universal_music_llc.md), FSF, [Republic Records](republic_records.md) | 💚   | [🔗](https://open.spotify.com/track/0Cy7wt6IlRfBPHXXjmZbcP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273715d1b4d21f0ca40a8e95840" alt="" width="50" /> | Always                      | Always                                                  | [ENHYPEN](../artists/enhypen.md)                                    | [Universal Music LLC](universal_music_llc.md)                                               | 💚   | [🔗](https://open.spotify.com/track/6bLZ6JV1mAGz4xfS1ZwOMV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273731953ff97a79644f6eb7b4e" alt="" width="50" /> | 死ぬのがいいわ                     | HELP EVER HURT NEVER                                    | Fujii Kaze                                                          | [Universal Music LLC](universal_music_llc.md)                                               | 💚   | [🔗](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | BEAM BEAM                   | Windy                                                   | JEON SOYEON                                                         | [Universal Music LLC](universal_music_llc.md)                                               | 💚   | [🔗](https://open.spotify.com/track/1VjIS4qoyD6JS2rNZQgE00) |
@@ -141,6 +143,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27396e164f0c5aac83148bb8f24" alt="" width="50" /> | だいじょばない                     | LEVEL3                                                  | Perfume                                                             | [Universal Music LLC](universal_music_llc.md)                                               | 💚   | [🔗](https://open.spotify.com/track/24UeVxRQCinBJtTwWT1158) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e94f2b2c3303120be19210b" alt="" width="50" /> | Habit                       | Habit                                                   | SEKAI NO OWARI                                                      | [Universal Music LLC](universal_music_llc.md)                                               |     | [🔗](https://open.spotify.com/track/2uMNMcjjUz8oNIxjIu20qE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273913c7a28b9dbce0ec35a7045" alt="" width="50" /> | Love Won't Let You Get Away | Music Is Better Than Words                              | Seth MacFarlane, [Sara Bareilles](../artists/sara_bareilles.md)     | [Fuzzy Door Productions/Universal](universal_music_llc.md)                                  | 💚   | [🔗](https://open.spotify.com/track/5xNdKpcKqES50j78ac9woY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d7610ec7724bad4e6c9e499" alt="" width="50" /> | POPPY                       | POPPY                                                   | [STAYC](../artists/stayc.md)                                        | [Universal Music LLC](universal_music_llc.md)                                               | 💚   | [🔗](https://open.spotify.com/track/2gpwaAJnSDTevgZa4uyM0H) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dbd5c6e6e365a3e70832780d" alt="" width="50" /> | さよならひとり                     | さよならひとり                                                 | TAEMIN                                                              | [Universal Music LLC](universal_music_llc.md)                                               | 💚   | [🔗](https://open.spotify.com/track/4ltAvuYuC8PNKAStXiWouZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27303611decaac95320f5549cec" alt="" width="50" /> | KISS                        | LEVIOSA                                                 | TRI.BE                                                              | [Universal Music Ltd.](universal_music_llc.md)                                              | 💚   | [🔗](https://open.spotify.com/track/7MONmJafc7senaIZE3ulWv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273be123bb6b40736bf093870bd" alt="" width="50" /> | A Flying Butterfly          | Why Be?                                                 | YB                                                                  | [Universal Music Ltd.](universal_music_llc.md)                                              |     | [🔗](https://open.spotify.com/track/3I71PFicYG614VGl6hqcUK) |

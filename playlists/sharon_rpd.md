@@ -3,15 +3,15 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="Sharon RPD" width="100" />
 
-[33 songs](sharon_rpd_tracks.md)
+[35 songs](sharon_rpd_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 25 artists](../images/playlists/sharon_rpd/artists.png)
+![Bar chart of top 28 artists](../images/playlists/sharon_rpd/artists.png)
 
 
 <details>
-<summary>See all 25 artists</summary>
+<summary>See all 28 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                 | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:------------------------------------------------------------|
@@ -26,14 +26,17 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2be8611f6c6e9174031c64df" alt="" width="50" /> | JEON SOMI                              | [🔗](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="" width="50" /> | [SEVENTEEN](../artists/seventeen.md)   | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd84fd6ae9ccfc6206ea6711e" alt="" width="50" /> | [TWICE](../artists/twice.md)           | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | Chris Brown                            | [🔗](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7c4240b7951da248f3404e42" alt="" width="50" /> | Steve Aoki                             | [🔗](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc6de192c5941f6605bb9c6ad" alt="" width="50" /> | Weeekly                                | [🔗](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfbb4dd024df495265bb16c90" alt="" width="50" /> | GOT the beat                           | [🔗](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../artists/aespa.md)           | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8543b9b2b5d153d37c46606d" alt="" width="50" /> | LISA                                   | [🔗](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | Young Thug                             | [🔗](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd86145072666f72cc5e833d8" alt="" width="50" /> | Monsta X                               | [🔗](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb66701ca609176d8fd4a9c4a0" alt="" width="50" /> | NCT                                    | [🔗](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bd65b0efee10bfa8328c33b" alt="" width="50" /> | NCT U                                  | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0222fa7cba5da5c28ea5d296" alt="" width="50" /> | BTOB                                   | [🔗](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | [CHUNG HA](../artists/chung_ha.md)     | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebaa28abbc6d04ccd22c8ae3b5" alt="" width="50" /> | [ITZY](../artists/itzy.md)             | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
@@ -50,7 +53,7 @@
 
 
 <details>
-<summary>See all 30 albums</summary>
+<summary>See all 32 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                            | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------|:-----------------------------------------------------------|
@@ -63,6 +66,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="" width="50" /> | Taste of Love                                    | [🔗](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d662735fc7d080888bc40b4" alt="" width="50" /> | Street Woman Fighter(SWF) Special                | [🔗](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273cc6f76f75551af499b5cd0cb" alt="" width="50" /> | Step Back                                        | [🔗](https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="" width="50" /> | Slime & B                                        | [🔗](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273af2fda9fb591d43c355c2ac3" alt="" width="50" /> | STAYDOM                                          | [🔗](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27318a4a215052e9f396864bd73" alt="" width="50" /> | SQUARE TWO                                       | [🔗](https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273decd839dd4fef3faf64c5fd5" alt="" width="50" /> | SEVENTEEN 4th Album 'Face the Sun'               | [🔗](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) |
@@ -80,6 +84,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fddc804f96cdd6a7de9bcc09" alt="" width="50" /> | DUMB DUMB                                        | [🔗](https://open.spotify.com/album/24sFioeGsPtxa5fD6VzL8b) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="" width="50" /> | DIMENSION : DILEMMA                              | [🔗](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | CRAZY IN LOVE                                    | [🔗](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27317477a7434c66ac5548b6ab7" alt="" width="50" /> | Brother Act.                                     | [🔗](https://open.spotify.com/album/3oXEVu3gwToJRkE2xAW44a) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736f248f7695eb544a3a1955c5" alt="" width="50" /> | Black Mamba                                      | [🔗](https://open.spotify.com/album/3syEYrKIsgxaZMB5t1dVG7) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | BORDER : CARNIVAL                                | [🔗](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="" width="50" /> | BE                                               | [🔗](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) |
@@ -90,11 +95,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 14 record labels](../images/playlists/sharon_rpd/labels.png)
+![Bar chart of top 18 record labels](../images/playlists/sharon_rpd/labels.png)
 
 
 <details>
-<summary>See all 14 labels</summary>
+<summary>See all 18 labels</summary>
 
 |   Number of Tracks | Label                                                                 |
 |-------------------:|:----------------------------------------------------------------------|
@@ -109,9 +114,13 @@
 |                  2 | [BELIFT LAB](../labels/belift_lab.md)                                 |
 |                  2 | [ADOR](../labels/ador.md)                                             |
 |                  1 | [THE BLACK LABEL](../labels/the_black_label.md)                       |
+|                  1 | [RCA Records Label](../labels/rca_records_label.md)                   |
 |                  1 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)             |
 |                  1 | [PLAY M ENTERTAINMENT CORP.](../labels/play_m_entertainment_corp_.md) |
 |                  1 | [Genie Music Corporation](../labels/genie_music_corporation.md)       |
+|                  1 | [Chris Brown Entertainment](../labels/chris_brown_entertainment.md)   |
+|                  1 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                 |
+|                  1 | [300 Entertainment](../labels/300_entertainment.md)                   |
 
 </details>
 
