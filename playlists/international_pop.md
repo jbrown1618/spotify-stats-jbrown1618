@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2732433cb43f0f2f0f23b7c8b82ab67616d0000b2734ccc03169b086af698178a99ab67616d0000b2735e3e23be9bdc38cb4767be97ab67616d0000b2739922157daa474131bb3a0fbc" alt="International Pop" width="100" />
 
-[89 songs](international_pop_tracks.md)
+[90 songs](international_pop_tracks.md)
 
 ## Top Artists
 
@@ -25,6 +25,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebe33284545d27028ec2f3dacf" alt="" width="50" /> | Reol                               | [🔗](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f9b2f828db40b35a81cba49" alt="" width="50" /> | Daddy Yankee                       | [🔗](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebec1cd67f4c17468f335206eb" alt="" width="50" /> | Luis Fonsi                         | [🔗](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc19d6c8224e8b1b94bf565e5" alt="" width="50" /> | Perfume                            | [🔗](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d363b9240b776652114e8d3" alt="" width="50" /> | AKB48                              | [🔗](https://open.spotify.com/artist/01wau5CL3Z1vfJJWkzBkqg) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba788f491b7f731aa08da9725" alt="" width="50" /> | Lothika                            | [🔗](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27373fbad4f0963b52586054816" alt="" width="50" /> | הפשוטע                             | [🔗](https://open.spotify.com/artist/7m92aMieltH5ZpodCEHfnb) |
@@ -87,7 +88,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7e7c664aebb73b97b2664bb7" alt="" width="50" /> | Roméo Elvis                        | [🔗](https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb67cef67ca9a55d9db0ae4fdf" alt="" width="50" /> | OAFF                               | [🔗](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6b0f1c7ebcc1202b91379648" alt="" width="50" /> | Wanitwa Mos                        | [🔗](https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc19d6c8224e8b1b94bf565e5" alt="" width="50" /> | Perfume                            | [🔗](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1110b09e6951ea73e79fc55f" alt="" width="50" /> | Anamanaguchi                       | [🔗](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfea27ddf11b9df5322a13c84" alt="" width="50" /> | Anuel AA                           | [🔗](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27306ac04c47ed539cf2d42907f" alt="" width="50" /> | 大籽                                 | [🔗](https://open.spotify.com/artist/2NJLAUSe3Ifk9MiHbddRAi) |
@@ -124,7 +124,7 @@
 
 
 <details>
-<summary>See all 83 albums</summary>
+<summary>See all 84 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                                                               | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -193,6 +193,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27356f9cf6a648e96dcaffc1434" alt="" width="50" /> | Heaven                                                                                              | [🔗](https://open.spotify.com/album/3GJjPtV0iPKM3fLPvqdURX) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733e94f2b2c3303120be19210b" alt="" width="50" /> | Habit                                                                                               | [🔗](https://open.spotify.com/album/690rpRAbQW5LNPrbP27M9U) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273731953ff97a79644f6eb7b4e" alt="" width="50" /> | HELP EVER HURT NEVER                                                                                | [🔗](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737aa30221d9dbc1271bae1b05" alt="" width="50" /> | GAME                                                                                                | [🔗](https://open.spotify.com/album/6kzdxF5o6XpDNTLVVdjoMj) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f342e70aacda9d78cfb6ce7a" alt="" width="50" /> | Fijación Oral, Vol. 1                                                                               | [🔗](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273726ac2ca7910c8814a4c78a3" alt="" width="50" /> | Farra                                                                                               | [🔗](https://open.spotify.com/album/1FXVq4BLk6Vl6Kr7TeSoYF) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738d6686937b604899a9347550" alt="" width="50" /> | Evils Theater                                                                                       | [🔗](https://open.spotify.com/album/1UkodLwja64ZFXbehIWnEN) |
@@ -226,9 +227,9 @@
 |   Number of Tracks | Label                                                                                                                       |
 |-------------------:|:----------------------------------------------------------------------------------------------------------------------------|
 |                  7 | [Cooking Vinyl Limited](../labels/cooking_vinyl_limited.md)                                                                 |
+|                  5 | [Universal Music LLC](../labels/universal_music_llc.md)                                                                     |
 |                  5 | [Sony Music Latin](../labels/sony_music_latin.md)                                                                           |
 |                  5 | [Sony Music Labels Inc.](../labels/sony_music_labels_inc_.md)                                                               |
-|                  4 | [Universal Music LLC](../labels/universal_music_llc.md)                                                                     |
 |                  4 | [Sony Music Entertainment](../labels/sony_music_entertainment.md)                                                           |
 |                  3 | [Columbia](../labels/columbia.md)                                                                                           |
 |                  2 | [Universal Music Division Capitol Music France](../labels/universal_music_division_capitol_music_france.md)                 |
