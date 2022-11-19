@@ -35,7 +35,7 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb20e1b84fe2767e52c4c828fd" alt="" width="50" /> | 2NE1                                 | [🔗](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3aee9e462e5a2df9f61f3a17" alt="" width="50" /> | Dok2                                 | [🔗](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1a9503fefacc8deb28389e5" alt="" width="50" /> | G.Soul                               | [🔗](https://open.spotify.com/artist/0fLesFHNsJpalRtqzSYxnd) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd78e662c6dc7be7a9ea8dde5" alt="" width="50" /> | B.I                                  | [🔗](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5de530ae3049a51718458c6" alt="" width="50" /> | B.I                                  | [🔗](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba5205abffd84341e5bace828" alt="" width="50" /> | Selena Gomez                         | [🔗](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) |
 
 </details>

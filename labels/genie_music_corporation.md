@@ -1,10 +1,10 @@
 # Genie Music Corporation
 
-47 songs
+48 songs
 
 Appears as:
 - Genie Music Corporation, Stone Music Entertainment (38 tracks)
-- Genie Music Corporation (9 tracks)
+- Genie Music Corporation (10 tracks)
 
 ## Top Artists
 
@@ -12,7 +12,7 @@ Appears as:
 
 
 <details>
-<summary>See all 44 artists</summary>
+<summary>See all 45 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                             | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------|:------------------------------------------------------------|
@@ -22,6 +22,7 @@ Appears as:
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273a435b6276480ed558eece0fd" alt="" width="50" /> | YENA                               | [🔗](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../artists/leehi.md)       | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a55f6bf87219ecb5505e72e4" alt="" width="50" /> | WOODZ                              | [🔗](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebcfd52bc5c5f55e2ea969dabb" alt="" width="50" /> | BIBI                               | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eba6b0d348c125a072e5284b3e" alt="" width="50" /> | IZ*ONE                             | [🔗](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb767815f4876969e8f888f0db" alt="" width="50" /> | The Rose                           | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../artists/mamamoo.md)   | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
@@ -30,7 +31,6 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb53869e100d817ed043bd3704" alt="" width="50" /> | CHANYEOL                           | [🔗](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8786ccb6031a3266bb15606" alt="" width="50" /> | WJSN                               | [🔗](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6b4ad360bcb93688b77e8d99" alt="" width="50" /> | CHEETAH                            | [🔗](https://open.spotify.com/artist/6ftZYkensUYXNiMM7nFwhE) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebcfd52bc5c5f55e2ea969dabb" alt="" width="50" /> | BIBI                               | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb64362c8789b72fb00e0a3611" alt="" width="50" /> | ATEEZ                              | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)   | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfe7fc78f16d948f53a607c53" alt="" width="50" /> | NINGNING                           | [🔗](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) |
@@ -50,12 +50,13 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbca2e91d07d2c53e6610570" alt="" width="50" /> | Seori                              | [🔗](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebdbabadb9f03b5b3d5e0241e5" alt="" width="50" /> | JAMIE                              | [🔗](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb26e3996e1a02077ef320026d" alt="" width="50" /> | SEULGI                             | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebaa28abbc6d04ccd22c8ae3b5" alt="" width="50" /> | [ITZY](../artists/itzy.md)         | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3e64e13dfb4fc3dc1a873b00" alt="" width="50" /> | [ITZY](../artists/itzy.md)         | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb065608c797a38d142082fc8a" alt="" width="50" /> | Punch                              | [🔗](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736af55ea23714e14575d05660" alt="" width="50" /> | Stellar                            | [🔗](https://open.spotify.com/artist/1rTwKjYcA7diHAD2c8ZozT) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb65dd718aaa2c9b1be0218f76" alt="" width="50" /> | SURAN                              | [🔗](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb70b010582faadbcec8b6774c" alt="" width="50" /> | CIX                                | [🔗](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ea98681c90c252e7cde48e8" alt="" width="50" /> | VERIVERY                           | [🔗](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba7db2eb3d42105c1132e87d9" alt="" width="50" /> | Yoon Mirae                         | [🔗](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) |
 |                  1 | <img src="nan" alt="" width="50" />                                                              | LACHICA                            | [🔗](https://open.spotify.com/artist/0vqjEQRfmE1Sov92UQRJMp) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0eff4d3fb92746c29f1edc06" alt="" width="50" /> | Ugly Duck                          | [🔗](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7cab4360258a831b8dcb3738" alt="" width="50" /> | Coogie                             | [🔗](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) |
@@ -70,7 +71,7 @@ Appears as:
 
 
 <details>
-<summary>See all 42 albums</summary>
+<summary>See all 43 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                                | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -88,6 +89,7 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27345c3e1eaeaed3345abae9616" alt="" width="50" /> | Undo                                                                 | [🔗](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273206f4b14097e0a68bce6b467" alt="" width="50" /> | The Hyena on the Keyboard Pt. 4                                      | [🔗](https://open.spotify.com/album/2fMMk4DD96UcAmSczUQ0kq) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d662735fc7d080888bc40b4" alt="" width="50" /> | Street Woman Fighter(SWF) Special                                    | [🔗](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735c2efa8ce12c99a92b914e20" alt="" width="50" /> | Street Man Fighter Original Vol.3 (Mission by Rank)                  | [🔗](https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733091980300243c26b0404b76" alt="" width="50" /> | Street Dance Girls Fighter(SGF) Special                              | [🔗](https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739902ed3e9f44f5ad65ad808a" alt="" width="50" /> | Sorry                                                                | [🔗](https://open.spotify.com/album/6D48tHXsa6LzoViDIACdkt) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737c10cbde96d84578e7694009" alt="" width="50" /> | School Rapper FINAL                                                  | [🔗](https://open.spotify.com/album/1HlNyrcRkCbpi87jz6rY7y) |
@@ -171,3 +173,4 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273a435b6276480ed558eece0fd" alt="" width="50" /> | Lxxk 2 U                                  | ˣ‿ˣ (SMiLEY)                                                         | YENA                                              | [Stone Music Entertainment](stone_music_entertainment.md), [Genie Music Corporation](genie_music_corporation.md) | 💚   | [🔗](https://open.spotify.com/track/5U7emXCoCl8EOEJUVNbguC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a435b6276480ed558eece0fd" alt="" width="50" /> | SMILEY(Feat. BIBI)                        | ˣ‿ˣ (SMiLEY)                                                         | YENA, BIBI                                        | [Stone Music Entertainment](stone_music_entertainment.md), [Genie Music Corporation](genie_music_corporation.md) |     | [🔗](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d39be786935ba10b5875fa53" alt="" width="50" /> | SMARTPHONE                                | SMARTPHONE                                                           | YENA                                              | [Stone Music Entertainment](stone_music_entertainment.md), [Genie Music Corporation](genie_music_corporation.md) |     | [🔗](https://open.spotify.com/track/3660VWl7PCUsXhZlakn0KY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735c2efa8ce12c99a92b914e20" alt="" width="50" /> | LAW (Prod. Czaer)                         | Street Man Fighter Original Vol.3 (Mission by Rank)                  | Yoon Mirae, BIBI                                  | [Genie Music Corporation](genie_music_corporation.md)                                                            |     | [🔗](https://open.spotify.com/track/0VES0jpNQEdRpD31gYDIMe) |
