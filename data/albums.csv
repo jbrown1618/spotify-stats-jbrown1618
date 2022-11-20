@@ -2,12 +2,12 @@ name,album_type,label,popularity,total_tracks,release_date,uri,image_url
 PTX Vol. IV - Classics,album,RCA Records Label,51,7,2017-04-07,spotify:album:00JpoY0ZaQRXTNJUruibfX,https://i.scdn.co/image/ab67616d0000b2739729d686606e6be27346da30
 Til It Happens To You,single,Interscope,42,1,2015-09-18,spotify:album:00qjYaNSNpQCZHhCpAlH60,https://i.scdn.co/image/ab67616d0000b273969438a8091085c2472a0766
 Taste of Love,single,Republic Records - TWICE,62,6,2021-06-11,spotify:album:00vb6sViDbJLmLLchfbRh4,https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b
-Before You Go,album,Ithacappella,2,12,2008-12-12,spotify:album:00x5MddnbpBoWJWtubLhHH,https://i.scdn.co/image/ab67616d0000b2733292818e78cd81fa4ba67fd2
+Before You Go,album,Ithacappella,1,12,2008-12-12,spotify:album:00x5MddnbpBoWJWtubLhHH,https://i.scdn.co/image/ab67616d0000b2733292818e78cd81fa4ba67fd2
 IU 5th Album 'LILAC',album,EDAM Entertainment,66,10,2021-03-25,spotify:album:01dPJcwyht77brL4JQiR8R,https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff
 The End of Nightmare,single,㈜ 드림캐쳐 컴퍼니,46,6,2019-02-13,spotify:album:02YL02Pjk6moxi5iuYsIPC,https://i.scdn.co/image/ab67616d0000b2735497178d3e5f7cd1f88f9be8
 Let The Road,album,Silent Records/Giant Little Man,68,10,2014-01-01,spotify:album:02ae5i5UAoFrt2peVox9Xd,https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b
 "Dvorak: String Quintet, Op. 97 & String Sextet, Op. 48",album,harmonia mundi,9,8,2018-01-19,spotify:album:02nUFvsdTaekp2QQalnE3N,https://i.scdn.co/image/ab67616d0000b273040c78c4ed7f56a2a3d2a770
-Boat,single,CRAFT AND JUN,41,1,2017-11-17,spotify:album:02uMD7AxTNi2Af2H4DxfPO,https://i.scdn.co/image/ab67616d0000b27376f61c1b07733a668bf4e795
+Boat,single,CRAFT AND JUN,42,1,2017-11-17,spotify:album:02uMD7AxTNi2Af2H4DxfPO,https://i.scdn.co/image/ab67616d0000b27376f61c1b07733a668bf4e795
 Sofa Silahlane,single,Wanitwa Mos Entertainment,45,1,2022-05-13,spotify:album:03FGhGM3Lv2TmbUdpoPPip,https://i.scdn.co/image/ab67616d0000b2734f95dabfc67540ee3823dad6
 HELP EVER HURT NEVER,album,Universal Music LLC,69,11,2020-05-20,spotify:album:03QiFOKDh6xMiSTkOnsmMG,https://i.scdn.co/image/ab67616d0000b273731953ff97a79644f6eb7b4e
 i'M THE TREND,single,Universal Music LLC,38,1,2020-07-07,spotify:album:03TbZLPSRsHWX11umzK4qf,https://i.scdn.co/image/ab67616d0000b27358870b3abb0ff43e5948c912
@@ -45,7 +45,7 @@ Fauré Pavane,single,Warner Music Group - X5 Music Group,12,1,2020-05-30,spotify
 The Works,album,Hollywood Records,46,12,1984-02-27,spotify:album:0FbnXAGmgmWBmNthZSgm43,https://i.scdn.co/image/ab67616d0000b27398a0577da5896bcc66521861
 Chariot - Stripped,album,J Records,53,23,2004-07-26,spotify:album:0Fm4Qx8IVHEEBYPeRzNUGI,https://i.scdn.co/image/ab67616d0000b27309ec47c2a2173e984d8461e9
 Jack In The Box,album,BIGHIT MUSIC,75,10,2022-07-15,spotify:album:0FrC9lzgVhziJenigsrXdl,https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2
-ODDINARY,album,Republic Records - Stray Kids,73,7,2022-03-18,spotify:album:0Gmf4pfe0POEQq2FgGAj2q,https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9
+ODDINARY,album,Republic Records - Stray Kids,74,7,2022-03-18,spotify:album:0Gmf4pfe0POEQq2FgGAj2q,https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9
 SEVENTEEN 1st Mini Album ’17 CARAT’,single,PLEDIS Entertainment,54,5,2015-05-29,spotify:album:0H2K2JrzdvJcxBEPyxC2sl,https://i.scdn.co/image/ab67616d0000b27383edaef854fd4a05016178e9
 Love Story,single,"Million Market,Inc",35,2,2017-11-10,spotify:album:0H9qbHCWJRmKAhERqM5X9G,https://i.scdn.co/image/ab67616d0000b273010bed9776d417a0da12cc9c
 SELFISH,single,"RBW, Inc",37,3,2018-05-23,spotify:album:0HtGtnnnFeWmtvgNFg0dr1,https://i.scdn.co/image/ab67616d0000b273294c757e724cc58bbbd29287
@@ -62,7 +62,7 @@ Our Beloved BoA #4 - SM STATION,single,SM Entertainment,34,2,2020-08-21,spotify:
 DUMDi DUMDi,single,Universal Music LLC,48,1,2020-08-03,spotify:album:0NC6QFvAc9H9r5iov9QwjK,https://i.scdn.co/image/ab67616d0000b2736080e2389dee3e57f00ccc69
 The Very Best of Frankie Valli & The 4 Seasons,compilation,Rhino,62,20,2003-01-14,spotify:album:0NUEQILaBzavnzcMEs4buZ,https://i.scdn.co/image/ab67616d0000b273b96c21e15c091eb98a6c88a4
 Second,single,SM Entertainment,38,1,2021-08-09,spotify:album:0Nck83Sjn5RfHsITpO8GuZ,https://i.scdn.co/image/ab67616d0000b27327a007e6c009a38bf2f89277
-the Billage of perception: chapter two,single,MYSTIC STORY,54,6,2022-08-31,spotify:album:0NuM7kwh6u6fIRjn7Zh7Ss,https://i.scdn.co/image/ab67616d0000b2738232e1aaaf4c9ed4b6946ce8
+the Billage of perception: chapter two,single,MYSTIC STORY,53,6,2022-08-31,spotify:album:0NuM7kwh6u6fIRjn7Zh7Ss,https://i.scdn.co/image/ab67616d0000b2738232e1aaaf4c9ed4b6946ce8
 "Abyss (Original Television Soundtrack), Pt. 1",single,Genie Music Corporation,0,2,2019-05-14,spotify:album:0OLyahO2nuY0qQKoykd7Vy,https://i.scdn.co/image/ab67616d0000b273a38fcfd623020295c4b0dd6f
 The Perfect Red Velvet - The 2nd Album Repackage,album,SM Entertainment,60,12,2018-01-29,spotify:album:0OkJThJls8FO1lutMzMDJ0,https://i.scdn.co/image/ab67616d0000b273b64001fa6292caefc7605550
 One Cell In The Sea,album,Virgin Records,42,15,2007,spotify:album:0Ot7MEgreG2R93aN42M9iK,https://i.scdn.co/image/ab67616d0000b273119ad2ebc0d33edf847ed8c6
@@ -133,7 +133,7 @@ Dua Lipa (Complete Edition),album,Warner Records,65,25,2018-10-19,spotify:album:
 Every night,single,AB Ent.,36,2,2012-10-02,spotify:album:0opK7fhDf6UWIVb4AKEeRo,https://i.scdn.co/image/ab67616d0000b27328bbeb0c155a9c0197876307
 Ambitions,album,Fueled By Ramen,57,14,2017-01-13,spotify:album:0p1YL9nzIuKTonZH6Gq58i,https://i.scdn.co/image/ab67616d0000b2730f94f53a1c9c60d953ffd2f2
 7/27 (Deluxe),album,Syco Music/Epic,69,12,2016-05-27,spotify:album:0pF0oyuPNdOObniB1Ng0kW,https://i.scdn.co/image/ab67616d0000b273d03fa6f4e758282b7920b5c8
-High As Hope,album,EMI,59,10,2018-06-29,spotify:album:0pKZJj9GzcKPCS8r4IaksA,https://i.scdn.co/image/ab67616d0000b273d36d0f06096fa07f18b8e8a2
+High As Hope,album,EMI,60,10,2018-06-29,spotify:album:0pKZJj9GzcKPCS8r4IaksA,https://i.scdn.co/image/ab67616d0000b273d36d0f06096fa07f18b8e8a2
 The Truth About Love,album,RCA Records Label,0,13,2012-09-14,spotify:album:0pqKb2y8h2BWS46HMfmEgD,https://i.scdn.co/image/ab67616d0000b2736096de812d8aa1bd22ab0cf2
 A Swing and a Miss,album,UNC Achordants,0,11,2018-04-26,spotify:album:0qj5ECfme87sP5anevwf81,https://i.scdn.co/image/ab67616d0000b27360fd5c708d2f5956d46888a9
 Closer,single,Disruptor Records/Columbia,72,1,2016-07-29,spotify:album:0rSLgV8p5FzfnqlEk4GzxE,https://i.scdn.co/image/ab67616d0000b273495ce6da9aeb159e94eaa453
@@ -149,7 +149,7 @@ Picture Show,album,Mercury Records,67,11,2012-01-01,spotify:album:0uRFz92JmjwDbZ
 ONLY,single,"Genie Music Corporation, Stone Music Entertainment",0,1,2021-08-27,spotify:album:0uYGAR5pW8P76uOlrOYIMZ,https://i.scdn.co/image/ab67616d0000b2736bd4012e2889d22821ab35b0
 Ring Of Fire: The Best Of Johnny Cash,compilation,Columbia Nashville Legacy,60,12,1963-08-06,spotify:album:0ucV57dbnqmrGv9d60r6X2,https://i.scdn.co/image/ab67616d0000b273dfe4bfe695c4192e547e72c7
 THE SECRET,single,Starship Entertainment,41,7,2016-08-17,spotify:album:0usNbLkckzIo34wUPehZdh,https://i.scdn.co/image/ab67616d0000b273c5d92b755061ede5e5c07544
-PSY 9th,album,P NATION,28,12,2022-04-29,spotify:album:0v4swbfO7N9WyJkUo465C4,https://i.scdn.co/image/ab67616d0000b273cab1d5724ddfed3aa8a4fd0f
+PSY 9th,album,P NATION,27,12,2022-04-29,spotify:album:0v4swbfO7N9WyJkUo465C4,https://i.scdn.co/image/ab67616d0000b273cab1d5724ddfed3aa8a4fd0f
 In the Aeroplane Over the Sea,album,Merge Records,61,11,1998-02-20,spotify:album:0vVekV45lOaVKs6RZQQNob,https://i.scdn.co/image/ab67616d0000b273589ce9a911c6e65b1f80c558
 G Train,single,The Tarpeggios,0,1,2019-11-22,spotify:album:0vmio1Hc8vrU7scyVa6BYK,https://i.scdn.co/image/ab67616d0000b27362f44cdb37183a309fc1032f
 Ne reviens pas,single,Universal Music Division Capitol Music France,44,1,2019-11-21,spotify:album:0w6UtV9Rd14AqjqcwD3j3l,https://i.scdn.co/image/ab67616d0000b27314b31a0ac21c8645919204a8
@@ -202,6 +202,7 @@ Origin of Symmetry,album,Warner Records,49,12,2001,spotify:album:1AP6uGYHdakRgwu
 WE:TH,single,Universal Music LLC,47,5,2020-10-12,spotify:album:1ASYbBYBwV6Rcfc2ycqmlK,https://i.scdn.co/image/ab67616d0000b273da0376db6b1c5562ab8f5b29
 Like Water - The 1st Mini Album,single,SM Entertainment,52,5,2021-04-05,spotify:album:1Ao5vWPO13f4l0ldwxOKL7,https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862
 M,album,Vanderbilt Melodores,0,11,2015-03-30,spotify:album:1B0XzLFo4XYh8QIwPRTdpR,https://i.scdn.co/image/ab67616d0000b27331c35347cbb989e84ccccf8e
+Again,single,BEYOND MUSIC,14,5,2013-10-10,spotify:album:1BZOmY0lS9SsVQNwWqM9nQ,https://i.scdn.co/image/ab67616d0000b273ba2d1a03899ec208eacd5373
 CHECK-IN,single,우조엔터테인먼트,28,6,2021-05-12,spotify:album:1ByTvinHUbdfpRMqxzGCUr,https://i.scdn.co/image/ab67616d0000b273a7b78e5509eed2ac408158a9
 Viva La Vida or Death and All His Friends,album,Parlophone UK,74,10,2008-05-26,spotify:album:1CEODgTmTwLyabvwd7HBty,https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e
 Fanmail,album,Arista/LaFace Records,68,17,1999-02-23,spotify:album:1CvjjpvqVMoyprsf74bpYW,https://i.scdn.co/image/ab67616d0000b27361ffafd5e31a37336531cf95
@@ -211,7 +212,7 @@ Young And Beautiful,single,Polydor Records,71,1,2013-01-01,spotify:album:1D92WOH
 Machine Head,album,Rhino/Warner Records,55,7,1972-03-25,spotify:album:1EK3a0Yctg4d3nGQzE4Uty,https://i.scdn.co/image/ab67616d0000b273bc9b44e950d5440ff65ea926
 ; [Semicolon],single,PLEDIS Entertainment,61,6,2020-10-19,spotify:album:1EMYSiKKTSKLZrOC2nTStL,https://i.scdn.co/image/ab67616d0000b273aa12f5b5b2ea88f26ab76846
 Hunting High and Low,album,Rhino,74,10,1985-06-01,spotify:album:1ER3B6zev5JEAaqhnyyfbf,https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53
-Red,album,"Big Machine Records, LLC",61,16,2012-10-22,spotify:album:1EoDsNmgTLtmwe1BDAVxV5,https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5
+Red,album,"Big Machine Records, LLC",62,16,2012-10-22,spotify:album:1EoDsNmgTLtmwe1BDAVxV5,https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5
 PLAY - The 8th Album,album,SM Entertainment,46,10,2017-11-06,spotify:album:1F7DAPXJpLVKfyZFSFsrCw,https://i.scdn.co/image/ab67616d0000b2734a0cdc709f34348b6d88635d
 Play Game : Holiday,single,PLAY M ENTERTAINMENT CORP.,40,5,2021-08-04,spotify:album:1FDlvA1PdZujiEhbXihIPJ,https://i.scdn.co/image/ab67616d0000b273c412e430ac07b4bf18b424af
 In the Name of Love,single,Epic Amsterdam,67,1,2016-07-29,spotify:album:1FOJ5IXGXe8dl0cXvCU6wK,https://i.scdn.co/image/ab67616d0000b2738c77bcf5f5a227d270d23370
@@ -222,10 +223,10 @@ NewJeans 1st EP 'New Jeans',single,ADOR,81,4,2022-08-01,spotify:album:1HMLpmZAnN
 Karajan - Mozart,compilation,UME - Global Clearing House,21,181,2020-06-16,spotify:album:1HSJhsMIW2EDD4YSSkbc9e,https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8
 School Rapper FINAL,compilation,Genie Music Corporation,31,8,2017-04-01,spotify:album:1HlNyrcRkCbpi87jz6rY7y,https://i.scdn.co/image/ab67616d0000b2737c10cbde96d84578e7694009
 52nd Street,album,Columbia,64,9,1978-10-13,spotify:album:1HmCO8VK98AU6EXPOjGYyI,https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6
-Devil,single,Universal Music LLC,45,1,2019-09-06,spotify:album:1HpLXN8RRy1lHO3jckCTkN,https://i.scdn.co/image/ab67616d0000b2732ca65c45697e473a0d9d1711
+Devil,single,Universal Music LLC,46,1,2019-09-06,spotify:album:1HpLXN8RRy1lHO3jckCTkN,https://i.scdn.co/image/ab67616d0000b2732ca65c45697e473a0d9d1711
 SQUARE UP,single,YG Entertainment,0,4,2018-06-15,spotify:album:1HwIUaaEuRsxsIyssqtGLH,https://i.scdn.co/image/ab67616d0000b2733f6e15b13168587cfc120e52
 CEREMONY,album,Sony Music Labels Inc.,62,12,2020-01-15,spotify:album:1IYJeRjWNruxAKls5cBtqm,https://i.scdn.co/image/ab67616d0000b273a2272c8966971b7b04066241
-[Summer Holiday],single,DREAMCATCHER COMPANY,50,6,2021-07-30,spotify:album:1JOpx5eL6Rb3vRC9epERQD,https://i.scdn.co/image/ab67616d0000b2737c0618723e2fca9e617eec34
+[Summer Holiday],single,DREAMCATCHER COMPANY,51,6,2021-07-30,spotify:album:1JOpx5eL6Rb3vRC9epERQD,https://i.scdn.co/image/ab67616d0000b2737c0618723e2fca9e617eec34
 Paradise,album,Polydor Records,49,8,2012-11-09,spotify:album:1JnjcAIKQ9TSJFVFierTB8,https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a
 Boys Like You,single,Republic Records - ITZY,62,1,2022-10-21,spotify:album:1KYgerdWcEqB7KbppYtdXU,https://i.scdn.co/image/ab67616d0000b273f46afbaf0d7b1d701c7a6b65
 Red (Deluxe Edition),album,"Big Machine Records, LLC",61,22,2012-10-22,spotify:album:1KlU96Hw9nlvqpBPlSqcTV,https://i.scdn.co/image/ab67616d0000b273a7613d346501b828b56a0bc3
@@ -265,7 +266,7 @@ Reload,single,SM Entertainment,56,5,2020-04-29,spotify:album:1V5ilz8ghPl1PZJA1hb
 WOLF,single,"Genie Music Corporation, Stone Music Entertainment",47,5,2019-07-25,spotify:album:1V60S7FEby9fQwh5eVluj8,https://i.scdn.co/image/ab67616d0000b27311d3a0bab62d67dfc7645745
 Heart Attack,single,FNC ENTERTAINMENT,42,6,2015-06-22,spotify:album:1VTC6SmzvyPnWsEuQ0clrb,https://i.scdn.co/image/ab67616d0000b2733bab219d2c91bbfc6fe6fec9
 Oasis,album,Mosaic Whispers,0,9,2018,spotify:album:1VpHqAIW8Pu343GJa0UpRQ,https://i.scdn.co/image/ab67616d0000b27372ab17caf31d0387153ec39b
-Storm Front,album,Columbia,64,10,1989-10-17,spotify:album:1Vw2uoVkLAJFVViJ1QyK1D,https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4
+Storm Front,album,Columbia,65,10,1989-10-17,spotify:album:1Vw2uoVkLAJFVViJ1QyK1D,https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4
 Birdy,album,Atlantic Records UK,63,11,2011-11-04,spotify:album:1WGjSVIw0TVfbp5KrOFiP0,https://i.scdn.co/image/ab67616d0000b273cdebae610076f51e8b7b20f4
 Mr. Mr. - The 4th Mini Album,single,SM Entertainment,47,6,2014-02-24,spotify:album:1WyHAY8OWdfCFWTF0Ufwjj,https://i.scdn.co/image/ab67616d0000b27341e9e282e569b2279c2171de
 ELEVEN,single,STARSHIP Entertainment,67,2,2021-12-01,spotify:album:1XMYvsHRt52sMi6wittWqI,https://i.scdn.co/image/ab67616d0000b273da343b21617aac0c57e332bb
@@ -280,7 +281,7 @@ Mussorgsky: Pictures At An Exhibition,album,Deutsche Grammophon (DG),41,17,2016-
 When it snows(Feat.Heize),single,ShowPLAY ENTERTAINMENT,34,1,2021-12-03,spotify:album:1d2YKQ02RQA97EyrB55ZcK,https://i.scdn.co/image/ab67616d0000b273b866ae204041c820a937a0f5
 Songs and Story: Cinderella,single,Walt Disney Records,41,5,2009-01-01,spotify:album:1d4rBfCtXPqkphzbvjokLa,https://i.scdn.co/image/ab67616d0000b2732a8b6ce34511614c9373f423
 The Girl and the Ghost,single,Lux Finite Music,0,4,2012-09-18,spotify:album:1e1qx3O2gLpmLuVE7OEfxp,https://i.scdn.co/image/ab67616d0000b273583baf9d926658beeb94c754
-BOCA 2021: Best of College A Cappella,compilation,Varsity Vocals,7,18,2021-02-06,spotify:album:1eKkeTIlePsRpKkQre78tT,https://i.scdn.co/image/ab67616d0000b273a271cb19e4bbf852072f0271
+BOCA 2021: Best of College A Cappella,compilation,Varsity Vocals,8,18,2021-02-06,spotify:album:1eKkeTIlePsRpKkQre78tT,https://i.scdn.co/image/ab67616d0000b273a271cb19e4bbf852072f0271
 KAZINO,single,FeelGhoodMusic,54,1,2020-04-29,spotify:album:1f9cws6SZ0iKoHrcmn39ZY,https://i.scdn.co/image/ab67616d0000b273ba84f2821a0c0ff527121229
 House Rules,album,A Cappella Records,0,11,2011-04-26,spotify:album:1fHxE6WZL6ouusBW4h9nE4,https://i.scdn.co/image/ab67616d0000b273707302925a3cb0f9dbcc23f8
 Hello Future - The 1st Album Repackage,album,SM Entertainment,64,13,2021-06-28,spotify:album:1fRqXYwoLDxG3EwP70qnjM,https://i.scdn.co/image/ab67616d0000b273e6d118f2ad157bf0bbfb83cf
@@ -358,7 +359,7 @@ Killing Me,single,MNH ENTERTAINMENT,51,1,2021-11-29,spotify:album:21jf5kUkK5nHYT
 白月光与朱砂痣,single,鲸鱼向海,0,2,2021-01-01,spotify:album:22QqokF4etKGtDv3BrNvXK,https://i.scdn.co/image/ab67616d0000b273f66f9c01e819b80a87af4f2d
 Editorial,album,IRORI Records,54,14,2021-08-18,spotify:album:22nXr9DqkTAp1Y0GT1ialu,https://i.scdn.co/image/ab67616d0000b273bbf9d502f3ce4a15b3c43f7a
 Legendary Folk Songs,album,One Voice Productions,0,14,2018-06-15,spotify:album:22qN0Gw54OwckjTgVGUzVG,https://i.scdn.co/image/ab67616d0000b273fe9bb826b4677ad094f49fa3
-Racine Carrée (Standard US Version),album,Universal Music Distributed Labels,51,14,2013-01-01,spotify:album:22yd3bcffqUO7Pn5nsDaoj,https://i.scdn.co/image/ab67616d0000b273e742841accccf949d7af1b75
+Racine Carrée (Standard US Version),album,Universal Music Distributed Labels,52,14,2013-01-01,spotify:album:22yd3bcffqUO7Pn5nsDaoj,https://i.scdn.co/image/ab67616d0000b273e742841accccf949d7af1b75
 The Execution Of All Things,album,Saddle Creek,0,12,2002-10-01,spotify:album:23EqcK0ZR1ravQaEsGpQyH,https://i.scdn.co/image/ab67616d0000b27315d01f89c4963e1bbb495697
 I AM...SASHA FIERCE,album,Music World Music/Columbia,66,16,2008-11-14,spotify:album:23Y5wdyP5byMFktZf8AcWU,https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef
 24H,single,PLEDIS ENTERTAINMENT,46,1,2020-08-24,spotify:album:24Uj6VdVytaReqt1KJWxfc,https://i.scdn.co/image/ab67616d0000b2735e0415248f47b27441faa0ac
@@ -378,7 +379,7 @@ SIGNAL,single,Republic Records - TWICE,56,6,2017-05-15,spotify:album:28PwDunFAR7
 Return of The Girl,single,"Genie Music Corporation, Stone Music Entertainment",54,5,2021-12-01,spotify:album:28p4jKCNlbLUXaZ24iYLuD,https://i.scdn.co/image/ab67616d0000b2734fcfc7c45bef0c20cc65ec27
 Appetite For Destruction,album,Guns N Roses P&D,72,12,1987-07-21,spotify:album:28yHV3Gdg30AiB8h8em1eW,https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5
 Pieces Of Eight,album,A&M,58,10,1978-01-01,spotify:album:294yFGYq9SBXWR4g6dK63D,https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74
-기기괴괴,single,마이돌엔터테인먼트,24,4,2021-10-31,spotify:album:296fyWl3wGRk4pB7sbaAwx,https://i.scdn.co/image/ab67616d0000b273fca604ab938f3f3319971a61
+기기괴괴,single,마이돌엔터테인먼트,23,4,2021-10-31,spotify:album:296fyWl3wGRk4pB7sbaAwx,https://i.scdn.co/image/ab67616d0000b273fca604ab938f3f3319971a61
 Kiss (Deluxe),album,Silent Records IGA,61,15,2012-01-01,spotify:album:29blfJv8AddJrjuG3DpE13,https://i.scdn.co/image/ab67616d0000b273a111f7769013f1731e9c697c
 The Party Upstairs,album,Ithacappella,3,13,2013-12-13,spotify:album:2AIAKP2FxbYNjmwQgAkqZz,https://i.scdn.co/image/ab67616d0000b273bcad2453bb8a140067a4d4e2
 Thriller,album,Epic,64,9,1982-11-30,spotify:album:2ANVost0y2y52ema1E9xAZ,https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97
@@ -421,7 +422,7 @@ MOVE - The 2nd Album,album,SM Entertainment,54,9,2017-10-16,spotify:album:2Ka8Qp
 Born This Way,album,Interscope,63,14,2011-01-01,spotify:album:2KkMVsxymoNR7hRmBcMttd,https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd
 MAP OF THE SOUL : PERSONA,album,BIGHIT MUSIC,75,7,2019-04-12,spotify:album:2KqlAl1Kl5fZvbFgJ0qFB6,https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f
 Village,album,UMGRI Interscope,56,14,2018-11-02,spotify:album:2KxC2M0bVm5hrK3GgGMuV9,https://i.scdn.co/image/ab67616d0000b27356080feb452fa7ad4ca61d8b
-Sherlock - The 4th Mini Album,album,SM Entertainment,45,7,2012-03-21,spotify:album:2Mfisiv88pNRQNugqrEUHQ,https://i.scdn.co/image/ab67616d0000b27343028ae4eeabf8c854a93cab
+Sherlock - The 4th Mini Album,album,SM Entertainment,46,7,2012-03-21,spotify:album:2Mfisiv88pNRQNugqrEUHQ,https://i.scdn.co/image/ab67616d0000b27343028ae4eeabf8c854a93cab
 "Baby, I'm Jealous (feat. Doja Cat)",single,Warner Records,53,1,2020-10-09,spotify:album:2N367tN1eIXrHNVe86aVy4,https://i.scdn.co/image/ab67616d0000b273d0927ea5b0dde802e65eb9b6
 Sinatra/Basie: The Complete Reprise Studio Recordings,album,FRANK SINATRA DIGITAL REPRISE,61,20,1962-12-10,spotify:album:2NCtCObbmJoJnplsR5mLAl,https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5
 Shake Your Money Maker,album,American Recordings Catalog P&D,64,10,1990-02-13,spotify:album:2NRRQLuW6j3EsoWpIl2MR3,https://i.scdn.co/image/ab67616d0000b273a4d2cb95d3ea17f773db23ee
@@ -441,7 +442,7 @@ Act. 7,single,CUBE ENTERTAINMENT,41,5,2016-02-01,spotify:album:2QGDdrZDuxK7VBmcJ
 Modern Times,album,Kakao Entertainment,45,13,2013-10-08,spotify:album:2QcuXvQBWv1ZKyQtEhLbFe,https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31
 I am WHO,album,Republic Records - Stray Kids,52,7,2018-08-06,spotify:album:2SACeVKmkXeAXHqLDdTU9N,https://i.scdn.co/image/ab67616d0000b27309f2f03627bf9c7b719a35ff
 To Anyone,album,YG Entertainment,50,12,2010-09-09,spotify:album:2SNSGfhfcfBLyQDTXMCPXG,https://i.scdn.co/image/ab67616d0000b2736f2d10189a41c7345a5a0337
-MADE,album,YG Entertainment,64,11,2016-12-13,spotify:album:2SPrl8C8pgSM5gXbAiyJHY,https://i.scdn.co/image/ab67616d0000b273fd0d9a33127c1d3f58ba3504
+MADE,album,YG Entertainment,65,11,2016-12-13,spotify:album:2SPrl8C8pgSM5gXbAiyJHY,https://i.scdn.co/image/ab67616d0000b273fd0d9a33127c1d3f58ba3504
 Db in April,album,Private Curve,12,10,2018-04-24,spotify:album:2SUUafWH8ZchpD7eNBzXJy,https://i.scdn.co/image/ab67616d0000b2734024c75e846d1e13a4c70e0e
 "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",single,DJ Snake Music Productions Limited,64,1,2021-10-22,spotify:album:2TGtXG18s21Q1jnY2TC39M,https://i.scdn.co/image/ab67616d0000b27354d075797911e02360beb3e7
 Échame La Culpa,single,Echame La Culpa PS,50,1,2017-11-17,spotify:album:2Tt0EzXpempSOIHFXVX42v,https://i.scdn.co/image/ab67616d0000b2732413b55cebef0c99396fd854
@@ -508,7 +509,7 @@ KWON JI YONG,single,YG Entertainment,50,5,2017-06-08,spotify:album:2koSNfchdUxqw
 Naughty,single,SM Entertainment,49,1,2020-07-20,spotify:album:2lkUE2gkw5sX0fGzZZCs0N,https://i.scdn.co/image/ab67616d0000b2736c1bd86a3d68faf09607ffd3
 HEAL,album,Transparent Arts,63,10,2022-10-07,spotify:album:2n44vkxj8L01ma7nHfXNJW,https://i.scdn.co/image/ab67616d0000b27339f52888c5940b1b155bdf0e
 ‘The ReVe Festival’ Day 1,single,SM Entertainment,45,6,2019-06-19,spotify:album:2nLEiP268mSFZHW5dajM4R,https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f
-POPPY,single,Universal Music LLC,42,1,2022-11-16,spotify:album:2nei1QXcpDotdoMz3IQxr4,https://i.scdn.co/image/ab67616d0000b2739d7610ec7724bad4e6c9e499
+POPPY,single,Universal Music LLC,48,1,2022-11-16,spotify:album:2nei1QXcpDotdoMz3IQxr4,https://i.scdn.co/image/ab67616d0000b2739d7610ec7724bad4e6c9e499
 Discovery,album,Daft Life Ltd./ADA France,73,14,2001-03-12,spotify:album:2noRn2Aes5aoNVsU6iWThc,https://i.scdn.co/image/ab67616d0000b273b33d46dfa2635a47eebf63b2
 Still Life,single,YG Entertainment,54,1,2022-04-05,spotify:album:2oCAY48bhZvQte0l7apmYC,https://i.scdn.co/image/ab67616d0000b273eb136d1be54b1ef8273c0699
 Make Someone Happy,album,Linus Entertainment Inc.,0,13,2007-01-01,spotify:album:2oGYlZ7vte6lJ1MuwKKCeW,https://i.scdn.co/image/ab67616d0000b273b2ef9d24ed47c5d44d22adb8
@@ -560,7 +561,6 @@ Chopin: Preludes; Sonata No.2,album,Deutsche Grammophon (DG),33,30,2002-01-01,sp
 Eyes Wide Open,album,Republic Records - TWICE,67,13,2020-10-26,spotify:album:33jypnU7WULxPaVrjj4RXH,https://i.scdn.co/image/ab67616d0000b2736570fd05bcff5edcb16e617d
 Evolve,album,Kid Ina Korner / Interscope,82,12,2017-06-23,spotify:album:33pt9HBdGlAbRGBHQgsZsU,https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a
 Faith,album,Epic,65,10,1987-10-30,spotify:album:34K1Kvskt9arWy8E1Gz3Lw,https://i.scdn.co/image/ab67616d0000b273b7a9a6a2bf311630d3fc6956
-Hotel del Luna (Original Television Soundtrack) Pt.3,single,FNC인베스트먼트,8,2,2019-07-21,spotify:album:34sSlou2VL7SJklr4JlD1e,https://i.scdn.co/image/ab67616d0000b2733e55466ef35eedd766b6faaf
 El Mal Querer,album,Columbia,65,11,2018-11-02,spotify:album:355bjCHzRJztCzaG5Za4gq,https://i.scdn.co/image/ab67616d0000b273f4d64a6a6b7e24b6bd9f009f
 Come Go With Me: The Best Of The Del-Vikings,compilation,Geffen,49,16,1997-01-01,spotify:album:35hzrbmJqylZoIRcatUfYx,https://i.scdn.co/image/ab67616d0000b273c223c0c9fc255e7019a5296a
 LUPIN,single,㈜ 동요엔터테인먼트,37,2,2020-03-15,spotify:album:361AnnYEYLl0Z7zF7Xo0Dq,https://i.scdn.co/image/ab67616d0000b27305de9858d5c447c247f6ce21
@@ -632,7 +632,7 @@ Bangerz (Deluxe Version),album,RCA Records Label,73,16,2013-10-04,spotify:album:
 Gettin' Ready (Expanded Edition),album,Motown,56,14,1966,spotify:album:3RE8NUULcBzFvVtCmlI4lb,https://i.scdn.co/image/ab67616d0000b2739f06367f9a07d24fc9c641a9
 Jackie Onassis,single,Nettwerk Records,0,1,2020-06-05,spotify:album:3RaVt6xWjSVMFrMdLqoDrN,https://i.scdn.co/image/ab67616d0000b273ae62cadb0b437ff1c5ea0310
 Finally Woken,album,ATO Records,42,11,2004-03-23,spotify:album:3RkjNfqqlhWyLrRp0ZCARU,https://i.scdn.co/image/ab67616d0000b273cd519fa579f43e384aa891f1
-The Boys,album,Universal Music Group International,53,17,2011-01-01,spotify:album:3RlHApvIdfDGHXNHgzMlCw,https://i.scdn.co/image/ab67616d0000b273dbe330e884acacdbb1e7987f
+The Boys,album,Universal Music Group International,54,17,2011-01-01,spotify:album:3RlHApvIdfDGHXNHgzMlCw,https://i.scdn.co/image/ab67616d0000b273dbe330e884acacdbb1e7987f
 ELEVEN -Japanese version-,single,Sony Music Labels Inc.,49,2,2022-10-19,spotify:album:3T3STfBHgL2LRv4CGlJTAN,https://i.scdn.co/image/ab67616d0000b2732491a35e8c5f8a746f45a8b9
 Metropolis: The Chase Suite (Special Edition),album,Bad Boy Records,30,7,2008-08-12,spotify:album:3T3bJi3cvwR5U7ihwgEwF1,https://i.scdn.co/image/ab67616d0000b273b72cb7bed93d6e2fdf42cffe
 News Of The World,album,Hollywood Records,51,12,1977-10-28,spotify:album:3TKTjR4E3LAMfRsPeRsNhT,https://i.scdn.co/image/ab67616d0000b27346493b86589030cc39ce1bf2
@@ -693,16 +693,16 @@ In My Defense,album,Bad Dreams Records / EMPIRE,52,12,2019-07-19,spotify:album:3
 Nine Track Mind,album,Artist Partner,63,12,2016-01-29,spotify:album:3kndSWeE2IYOrZEToZrHEV,https://i.scdn.co/image/ab67616d0000b2734fe297c018e495a97662e5ac
 Love Synonym #2 : Right for Us,album,BMG Rights Management (US) LLC,47,8,2021-02-26,spotify:album:3lcR6erLOtS2klUZ5sH4Mf,https://i.scdn.co/image/ab67616d0000b2736627e97a1779843e9b66459f
 deja vu,single,Olivia Rodrigo PS,9,1,2021-04-01,spotify:album:3lwHyR4joA1xB7Nun21EP6,https://i.scdn.co/image/ab67616d0000b2735a61e19eaffec620c1899c47
-When I Get Old,single,Parlophone Denmark,55,1,2022-10-20,spotify:album:3mJMHqT2w0HwjQkneNVE14,https://i.scdn.co/image/ab67616d0000b2730258c2353d456519e467584b
+When I Get Old,single,Parlophone Denmark,56,1,2022-10-20,spotify:album:3mJMHqT2w0HwjQkneNVE14,https://i.scdn.co/image/ab67616d0000b2730258c2353d456519e467584b
 I burn,single,Universal Music LLC,58,6,2021-01-11,spotify:album:3ma5amx5s3l1NKoWNHaMYe,https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290
 Stages,album,Ithacappella,0,7,2014-09-21,spotify:album:3mnYoDcAHKx6uA91f7rtAa,https://i.scdn.co/image/ab67616d0000b27379b679128839141600389209
 Look At Me,single,Universal Music LLC,31,1,2022-03-21,spotify:album:3mp41Up4LNhAVLGxl7BAUR,https://i.scdn.co/image/ab67616d0000b2737bc73fff9f3787c1d8a23167
 Finesse (Remix) [feat. Cardi B],single,Atlantic Records,62,1,2017-12-20,spotify:album:3mumK2ar9b4JPhVOZR0V2p,https://i.scdn.co/image/ab67616d0000b27347e522adf030a78615cdea06
 KINGDOM <FINAL : WHO IS THE KING?>,single,"Genie Music Corporation, Stone Music Entertainment",49,6,2021-05-28,spotify:album:3n1NaviPQXfiVQ0TarnAf4,https://i.scdn.co/image/ab67616d0000b273d700b5ddf45596b3793d3963
 Cappella,album,Sony Classical/Sony Music,9,44,2013,spotify:album:3n6JxpdWnHkazMCQxKK5qI,https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e
-The Downward Spiral,album,TVT Records,58,14,1994-03-08,spotify:album:3nJnyDV8fwFpffo0EyHQto,https://i.scdn.co/image/ab67616d0000b273f69bd9abbfeb819840993207
+The Downward Spiral,album,TVT Records,59,14,1994-03-08,spotify:album:3nJnyDV8fwFpffo0EyHQto,https://i.scdn.co/image/ab67616d0000b273f69bd9abbfeb819840993207
 When Night Is Falling,single,"Genie Music Corporation, Stone Music Entertainment",33,2,2021-07-07,spotify:album:3nOIsILeko2meMblKEGYZw,https://i.scdn.co/image/ab67616d0000b27308b6c12c648f704e599cabd9
-DIMENSION : ANSWER,album,BELIFT LAB,69,11,2022-01-10,spotify:album:3nOj9hsnptBEDt9ie2lra5,https://i.scdn.co/image/ab67616d0000b2731c1ea5bfa5680ac877acdd55
+DIMENSION : ANSWER,album,BELIFT LAB,70,11,2022-01-10,spotify:album:3nOj9hsnptBEDt9ie2lra5,https://i.scdn.co/image/ab67616d0000b2731c1ea5bfa5680ac877acdd55
 Baby Powder,single,"JOYFACE Records, LLC",0,1,2020-03-25,spotify:album:3nqQxvxUB95Bi2UBseY1u1,https://i.scdn.co/image/ab67616d0000b27307a560f0504f9de0af5e0a33
 Verities & Balderdash,album,Rhino/Elektra,55,9,1974,spotify:album:3nta4nhqWoWjc6LmHIB0kT,https://i.scdn.co/image/ab67616d0000b273315994fdfb86d9bcb40337ba
 Brother Act.,album,CUBE ENTERTAINMENT,51,12,2017-10-16,spotify:album:3oXEVu3gwToJRkE2xAW44a,https://i.scdn.co/image/ab67616d0000b27317477a7434c66ac5548b6ab7
@@ -731,7 +731,7 @@ Vocal Spectrum V,album,Naked Voice Records,15,11,2017-07-14,spotify:album:3thUTT
 Tick Tock (feat. 24kGoldn),single,Atlantic Records UK,60,1,2020-08-21,spotify:album:3tuAs968COA2vxKjiLvmxr,https://i.scdn.co/image/ab67616d0000b2733ec9036a9f7289e924194bec
 Sweetener,album,Republic Records,77,15,2018-08-17,spotify:album:3tx8gQqWbGwqIGZHqDNrGe,https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394
 Creep Live At (Le)Poisson Rouge,single,Carrie Manolakos,11,1,2012-09-09,spotify:album:3tzHjGnv1WpG78SzgRKFIi,https://i.scdn.co/image/ab67616d0000b273ba49075f7bba31bdadbdf012
-ANTIFRAGILE,single,SOURCE MUSIC,78,5,2022-10-17,spotify:album:3u0ggfmK0vjuHMNdUbtaa9,https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be
+ANTIFRAGILE,single,SOURCE MUSIC,79,5,2022-10-17,spotify:album:3u0ggfmK0vjuHMNdUbtaa9,https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be
 At the Beginning,single,"One Voice Productions, LLC",28,1,2017-06-05,spotify:album:3uN6J4J6VstQCzzHbKbz6j,https://i.scdn.co/image/ab67616d0000b273de86cb7d44e765c043a8b596
 Four Seasons,single,SM Entertainment,48,2,2019-03-24,spotify:album:3ublKZHu1qjU9ujf9A4zhH,https://i.scdn.co/image/ab67616d0000b2737de8f56a39ec67a091457d04
 I GOT A BOY - The 4th Album,album,SM Entertainment,50,10,2013-01-01,spotify:album:3uhihQCm9aSvdJmDXcVrvi,https://i.scdn.co/image/ab67616d0000b273fd1f3849aaaf15112389a725
@@ -741,7 +741,8 @@ A Dotted Line,album,Nonesuch,41,10,2014-03-28,spotify:album:3ujidZyCiCruwocS0bDm
 Why So Lonely,single,JYP Entertainment,47,3,2016-07-05,spotify:album:3vCjRsRRGOLp8VCYPLXtDx,https://i.scdn.co/image/ab67616d0000b273018ac0665d32b08c76afd4cc
 GOT7,single,WM Korea,63,6,2022-05-23,spotify:album:3vIVsuFU7ZKCwKB2Yri8lM,https://i.scdn.co/image/ab67616d0000b27378672dc9ecfb1a2e87501284
 Uptown Special,album,Columbia,71,11,2015-01-12,spotify:album:3vLaOYCNCzngDf8QdBg2V1,https://i.scdn.co/image/ab67616d0000b273e419ccba0baa8bd3f3d7abf2
-The Marshall Mathers LP2,album,Aftermath,66,16,2013-11-05,spotify:album:3vOgbDjgsZBAPwV2M3bNOj,https://i.scdn.co/image/ab67616d0000b27357195dfe8926f713b21d6cac
+The Marshall Mathers LP2,album,Aftermath,67,16,2013-11-05,spotify:album:3vOgbDjgsZBAPwV2M3bNOj,https://i.scdn.co/image/ab67616d0000b27357195dfe8926f713b21d6cac
+SELFISH,single,WM Entertainment,45,4,2022-11-14,spotify:album:3vjPlBK3ASSMLfQwuiHspd,https://i.scdn.co/image/ab67616d0000b273689de2fa15801f97d714522e
 Savage - The 1st Mini Album,single,SM Entertainment,66,6,2021-10-05,spotify:album:3vyyDkvYWC36DwgZCYd3Wu,https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b
 Illuminate (Deluxe),album,Island Records,78,16,2017-04-20,spotify:album:3wBabo4pmzsYjALMSKY7Iq,https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521
 Tattoos (Deluxe Edition),album,Beluga Heights/Warner Records,57,15,2013-09-10,spotify:album:3wDeTllVvayYsWTHsFNWZQ,https://i.scdn.co/image/ab67616d0000b27364d58f6e7672baecc8972806
@@ -785,7 +786,7 @@ A New Kind Of Love (Demo),single,Megaphonic,53,1,2022-04-08,spotify:album:484SKR
 All I Want Is You,album,Jive,75,13,2010-11-26,spotify:album:493HYe7N5pleudEZRyhE7R,https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c
 LOOK,single,PLAY M ENTERTAINMENT CORP.,45,7,2020-04-13,spotify:album:49NKBZDb92AQlMFypkZRTF,https://i.scdn.co/image/ab67616d0000b2733f9deca2f7f10f28b5abcdd0
 Delirium,album,Polydor Records,0,16,2015-11-13,spotify:album:4A43DyDoAVa1Fb8pq6Yejl,https://i.scdn.co/image/ab67616d0000b273570d18beb1f15ef8adfb27a5
-AOA 1st Album ANGEL'S KNOCK (1),album,FNC ENTERTAINMENT,39,10,2017-01-02,spotify:album:4AltTzzJMv0bER1rj3oUln,https://i.scdn.co/image/ab67616d0000b273f9e6dad0846ac30e4a0db23a
+AOA 1st Album ANGEL'S KNOCK (1),album,FNC ENTERTAINMENT,40,10,2017-01-02,spotify:album:4AltTzzJMv0bER1rj3oUln,https://i.scdn.co/image/ab67616d0000b273f9e6dad0846ac30e4a0db23a
 WHEE,single,WM Korea,51,6,2022-01-16,spotify:album:4BLxIwHfv87WeOQ9A4sm9E,https://i.scdn.co/image/ab67616d0000b273974662e5de6399232ea61a8d
 The 2¢ Show,album,Steam Powered Giraffe,44,16,2012-05-23,spotify:album:4DECRyKlhKJgjZLLuvfAI6,https://i.scdn.co/image/ab67616d0000b273a4aa9c49f8fedf1df4f84051
 Monster - The 1st Mini Album,single,SM Entertainment,56,5,2020-07-06,spotify:album:4DFheSBXhfewjz7SSe4Kyc,https://i.scdn.co/image/ab67616d0000b273f919108974e4213d86b83805
@@ -885,7 +886,7 @@ everything i wanted,single,Darkroom/Interscope Records,73,1,2019-11-13,spotify:a
 Graveyard Shift,single,Second Shift a Cappella,0,4,2018-10-28,spotify:album:4i6gztUxx7Iq1tocxEX1pY,https://i.scdn.co/image/ab67616d0000b273458d338af5f8ead5be756346
 Unforgettable: With Love,album,Craft Recordings,56,22,1991-06-11,spotify:album:4ilUfGGQXin7hr1srDDXF0,https://i.scdn.co/image/ab67616d0000b273dfb2b41e8669c38536b7c3b6
 Lucifer - The 2nd Album,album,SM Entertainment,44,13,2010-07-19,spotify:album:4jNPKKJ0NL349RXPx7y9f4,https://i.scdn.co/image/ab67616d0000b27390ad9f6d2ba8838a689999cc
--77.82x-78.29,single,YUEHUA ENTERTAINMENT KOREA,56,4,2020-09-21,spotify:album:4kMID9cggWEko9mOb1zisI,https://i.scdn.co/image/ab67616d0000b273c32633331e11b4fe108237f8
+-77.82x-78.29,single,YUEHUA ENTERTAINMENT KOREA,57,4,2020-09-21,spotify:album:4kMID9cggWEko9mOb1zisI,https://i.scdn.co/image/ab67616d0000b273c32633331e11b4fe108237f8
 We play,single,PLAY M ENTERTAINMENT CORP.,59,5,2021-03-17,spotify:album:4kU6DFVgZKoDYQPZk1OZp9,https://i.scdn.co/image/ab67616d0000b27318a15ed7d84a6c773126b12b
 Songs For Swingin' Lovers! (Remastered),album,Capitol Records,62,15,1956-03,spotify:album:4kca7vXd1Wo5GE2DMafvMc,https://i.scdn.co/image/ab67616d0000b273b9ea1c69fe9efbdc2df85a95
 Wings,single,Genie Music Corporation;Stone Music Entertainment,35,1,2021-02-24,spotify:album:4knaQg3CtzHlA2m99NS7xW,https://i.scdn.co/image/ab67616d0000b2730615bbf0d4382f2cb1716730
@@ -899,12 +900,12 @@ COUP D'ETAT,album,YG Entertainment,52,12,2013-09-05,spotify:album:4msI9bSfKohOPF
 More Adventurous (U.S. Release),album,Brute/Beaute/Warner Records,42,11,2004-07-27,spotify:album:4n36X2GMJ84BKh9D9zMRVI,https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735
 memeM,single,RBW Inc.,46,7,2022-03-29,spotify:album:4nhtnBY8owIQnOsnGQGqW9,https://i.scdn.co/image/ab67616d0000b27346c28fd13126fd9428625411
 HAPPY MOMENT (1),album,Starship Entertainment,36,10,2017-06-07,spotify:album:4nnyYQGOKRU090FK7sfunL,https://i.scdn.co/image/ab67616d0000b273b66327ff0474d017472d7b18
-Dark Passion Play,album,Nuclear Blast Entertainment,43,26,2007,spotify:album:4oOfQhhbHBfIcIDwuJjwTy,https://i.scdn.co/image/ab67616d0000b27345637d4f339bac296ba9d5e7
+Dark Passion Play,album,Nuclear Blast Entertainment,44,26,2007,spotify:album:4oOfQhhbHBfIcIDwuJjwTy,https://i.scdn.co/image/ab67616d0000b27345637d4f339bac296ba9d5e7
 Pioneer,album,"Big Machine Label Group, LLC",51,12,2013-01-01,spotify:album:4oXEoK7WVM1lNbmB59IrJ1,https://i.scdn.co/image/ab67616d0000b27379c820d2d853c756c3738d39
 Paint Me Naked - SM STATION,single,SM Entertainment,48,2,2021-08-10,spotify:album:4oj5R0SVazc5Eq3WnIC0e6,https://i.scdn.co/image/ab67616d0000b273dad8806d4958b875dd487f6e
 the collective soul and unconscious: chapter one,single,MYSTIC STORY,55,5,2022-02-23,spotify:album:4ophrgcnwWi1I5nWYImyhw,https://i.scdn.co/image/ab67616d0000b27337392cac38ca8efa2315b04e
 SEOULITE,single,YG Entertainment,26,5,2016-03-09,spotify:album:4p27GsqUEbfl83iPtt0IcI,https://i.scdn.co/image/ab67616d0000b27321c941a808e99d4ba69ffc01
-& Co.,album,Samlist,25,8,2019-06-12,spotify:album:4pS7NXSZNbvREVxKkOge3I,https://i.scdn.co/image/ab67616d0000b27395605660a166c33bbf6d4a25
+& Co.,album,Samlist,24,8,2019-06-12,spotify:album:4pS7NXSZNbvREVxKkOge3I,https://i.scdn.co/image/ab67616d0000b27395605660a166c33bbf6d4a25
 Primal Heart,album,Warner Records,39,12,2018-04-20,spotify:album:4pj0BkJ7u39i009oqe8V79,https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8
 Boss Bitch,single,Atlantic Records,66,1,2020-01-23,spotify:album:4pmyFpGicLLIgNPc1TQXKc,https://i.scdn.co/image/ab67616d0000b27310356a0e81371e6644cb1371
 SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),single,0207 Def Jam,67,1,2021-09-16,spotify:album:4q4rHdKxyCzxuQrPcdjPyC,https://i.scdn.co/image/ab67616d0000b273e859698c8fe21d42a13ec252
@@ -945,7 +946,7 @@ The Widow Knows E.P.,single,Wyvern Lingo,34,5,2014-08-14,spotify:album:548WnictH
 Tchaikovsky: The Nutcracker,album,Warner Classics,61,24,2010-10-11,spotify:album:54Awn36ryf55PkZyOR4iwQ,https://i.scdn.co/image/ab67616d0000b273f1972145094112a1268035f1
 Street Man Fighter Original Vol.3 (Mission by Rank),single,Genie Music Corporation,68,5,2022-09-06,spotify:album:54UUQN3j32n8TA2OJxTcHP,https://i.scdn.co/image/ab67616d0000b2735c2efa8ce12c99a92b914e20
 "Signed, Sealed And Delivered",album,UNI/MOTOWN,65,12,1970-08-07,spotify:album:54ootLtDyMZFr9obtWQvvO,https://i.scdn.co/image/ab67616d0000b273c5e9e847ca9c0982b4c91d4b
-AH YEAH,album,Yedang Entertainment,50,8,2015-04-14,spotify:album:54r8xseUAz0c9ORidjAKmZ,https://i.scdn.co/image/ab67616d0000b27385b44ac6d4a8383ed7e88285
+AH YEAH,album,Yedang Entertainment,51,8,2015-04-14,spotify:album:54r8xseUAz0c9ORidjAKmZ,https://i.scdn.co/image/ab67616d0000b27385b44ac6d4a8383ed7e88285
 The Lion King: The Gift,album,Parkwood Entertainment/Columbia,63,27,2019-07-19,spotify:album:552zi1M53PQAX5OH4FIdTx,https://i.scdn.co/image/ab67616d0000b2734ccc03169b086af698178a99
 NOEASY,album,Republic Records - Stray Kids,74,14,2021-08-23,spotify:album:558tpdCejjVQNFAumRAeQj,https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc
 Mellon Collie And The Infinite Sadness (Deluxe Edition),album,Virgin Records,73,92,1995,spotify:album:55RhFRyQFihIyGf61MgcfV,https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6
@@ -985,7 +986,7 @@ Francis A. & Edward K.,album,FRANK SINATRA DIGITAL REPRISE,38,8,1968-01,spotify:
 The Ultimate Bee Gees,compilation,Bee Gees Catalog,55,40,2009-11-03,spotify:album:5GucSY3249qHDx4v1Hcxry,https://i.scdn.co/image/ab67616d0000b27322219b7ba681368a16c219fe
 "Jai Jai Shivshankar (From ""War"")",single,YRF Music,47,1,2019-09-21,spotify:album:5GvIKf7yN7gjZfYohbvHmj,https://i.scdn.co/image/ab67616d0000b2738874d42c6591770e15618d13
 Pitch Slapped - EP,single,A Cappella Records,0,5,2011-04-08,spotify:album:5I08qbUSg8f48kenQs7Tg6,https://i.scdn.co/image/ab67616d0000b27381514ee26162b9fed3c39be7
-pporappippam,single,Makeus Entertainment,45,1,2020-06-29,spotify:album:5IKVYCIhY5SyMhj1cYovz3,https://i.scdn.co/image/ab67616d0000b2731cc9a4020b295d45b7255267
+pporappippam,single,Makeus Entertainment,46,1,2020-06-29,spotify:album:5IKVYCIhY5SyMhj1cYovz3,https://i.scdn.co/image/ab67616d0000b2731cc9a4020b295d45b7255267
 Ella Eyre,single,Virgin Records Ltd,30,5,2015-01-12,spotify:album:5J69OYtRXeI9dHDK2R95h5,https://i.scdn.co/image/ab67616d0000b27334da09e702c7f9ca573981e5
 MANIFESTO : DAY 1,single,BELIFT LAB,71,6,2022-07-04,spotify:album:5J8MNLLViH5zqM6VoGErz8,https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa
 Love poem,single,Kakao Entertainment,45,1,2019-11-18,spotify:album:5JadtZ710Yj8RSLNbSvDqo,https://i.scdn.co/image/ab67616d0000b273dcca2fa0944779dcf8e97222
@@ -1050,7 +1051,7 @@ The Album,album,Polar Music International AB,64,10,1977,spotify:album:5fLOHW1UXr
 翼はいらない<Type A>(通常盤),single,KING RECORDS,10,6,2016-06-01,spotify:album:5fTeBDOk2HaA6MwHSspPIx,https://i.scdn.co/image/ab67616d0000b273e7ba5d5ba7ea0f853ba37f24
 Writer's Block,album,Universal Music AB,64,11,2006-01-01,spotify:album:5g4E06cxsFEMFE9hSekAt2,https://i.scdn.co/image/ab67616d0000b2739cf4ac84b224a02f34d2e4f6
 Breakaway,album,RCA Records Label,66,12,2004-01-17,spotify:album:5gDAEao3VxFdbm8vS0koQq,https://i.scdn.co/image/ab67616d0000b27303dadde4d9d305c1c3e0d91c
-Think About Things,single,Samlist,41,1,2020-04-09,spotify:album:5gEUjiNfaVse6oloI0c6Vt,https://i.scdn.co/image/ab67616d0000b273a5c51e96d2583bfb3e45d504
+Think About Things,single,Samlist,40,1,2020-04-09,spotify:album:5gEUjiNfaVse6oloI0c6Vt,https://i.scdn.co/image/ab67616d0000b273a5c51e96d2583bfb3e45d504
 Tidal,album,Clean Slate/Work,57,10,1996-07-23,spotify:album:5gVBXH8MT6zfdRkjp7qT18,https://i.scdn.co/image/ab67616d0000b273b254ca0983d65ede8e3d2f7a
 MINT,single,"Fez's Finest, LLC",43,6,2018-10-19,spotify:album:5hUQgovUfTYN47QGQXF8k2,https://i.scdn.co/image/ab67616d0000b273d3b343b757e4f3275bb2f26a
 LOVE or TAKE,album,Universal Music LLC,42,7,2021-03-15,spotify:album:5iu1d69dqEo9UaKpZDYoIV,https://i.scdn.co/image/ab67616d0000b2733fe0e026d4043e5d62c81328
@@ -1102,16 +1103,16 @@ HOLO,single,"Genie Music Corporation, Stone Music Entertainment",49,1,2020-07-23
 Innuendo,album,Hollywood Records,47,12,1991-02-04,spotify:album:5yAM3CcaXF6DPRJW3oL6Ya,https://i.scdn.co/image/ab67616d0000b27350dcdcb73b5bbff6d3136131
 Drive to the Starry Road,album,Fantagio,54,11,2022-05-16,spotify:album:5yFMVUSwNR0qAtEW78nDj0,https://i.scdn.co/image/ab67616d0000b273c87710889c255d9964477013
 Millennium,album,Jive,73,12,1999-05-18,spotify:album:5ySxm9hxBNss01WCL7GLyQ,https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b
-When It Snows mmm (feat. Wheein),single,WM Korea,17,1,2020-12-23,spotify:album:5z8FBqt7BCXR6MB5fzy7L3,https://i.scdn.co/image/ab67616d0000b27390eea4a1744d67c2de3db575
+When It Snows mmm (feat. Wheein),single,WM Korea,18,1,2020-12-23,spotify:album:5z8FBqt7BCXR6MB5fzy7L3,https://i.scdn.co/image/ab67616d0000b27390eea4a1744d67c2de3db575
 Songs About Jane: 10th Anniversary Edition,album,Interscope Records*,74,29,2002,spotify:album:5zClcGCSWj926AMjvBNSLc,https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e
 Twicecoaster: Lane 1,album,Republic Records - TWICE,58,7,2016-10-24,spotify:album:5zQhaDNbiXHRqd8Y51I4vy,https://i.scdn.co/image/ab67616d0000b273387444ab2fc1f08dfe7915ab
 Summer Magic - Summer Mini Album,album,SM Entertainment,52,7,2018-08-06,spotify:album:5zWa1ZEUBctbKqvwXbFawo,https://i.scdn.co/image/ab67616d0000b2736017bca98dea58ceddea77c1
-LIMITED EDITION ‘1TAN’,single,Think Ent.,38,4,2022-03-10,spotify:album:6037tvwFU3cqeiglPyBoMG,https://i.scdn.co/image/ab67616d0000b273e827c21f833661043f8dd588
+LIMITED EDITION ‘1TAN’,single,Think Ent.,39,4,2022-03-10,spotify:album:6037tvwFU3cqeiglPyBoMG,https://i.scdn.co/image/ab67616d0000b273e827c21f833661043f8dd588
 Mendelssohn: A Midsummer Night's Dream,album,Lso Live,30,13,2017-02-03,spotify:album:60J66evwnrnfH03HgDTrwN,https://i.scdn.co/image/ab67616d0000b273c385dbfabcec21279dcea0b5
 White Wind,single,"RBW, Inc",52,7,2019-03-14,spotify:album:60m09rutmwj5ewOJoFIAVY,https://i.scdn.co/image/ab67616d0000b2738612b3a74fefaf72ddc92d08
 Album One,album,Steam Powered Giraffe,43,11,2009-10-30,spotify:album:60nJMMPYjHWNjli6APs40v,https://i.scdn.co/image/ab67616d0000b2730595db077a6e829ba4bd6dea
 The Wonder Years - Trilogy,album,JYP Entertainment,40,9,2008-09-22,spotify:album:61KwS8kiAywHkZ7gp4asTE,https://i.scdn.co/image/ab67616d0000b2734802244fa0cf6d33eda5e748
-KARD 1st Digital Single ‘Bomb Bomb’,single,DSP Media,45,1,2019-03-27,spotify:album:61X9zu44fHnOjjqIYu05Rc,https://i.scdn.co/image/ab67616d0000b273d19dea795b7319268486fc5b
+KARD 1st Digital Single ‘Bomb Bomb’,single,DSP Media,46,1,2019-03-27,spotify:album:61X9zu44fHnOjjqIYu05Rc,https://i.scdn.co/image/ab67616d0000b273d19dea795b7319268486fc5b
 this is what falling in love feels like,single,JVKE,57,1,2021-09-03,spotify:album:61haUqRaA5Et20JVbArrmU,https://i.scdn.co/image/ab67616d0000b2737bc333ff94bcb174a817e346
 Invitation,single,YMC Ent.,15,6,2012-10-16,spotify:album:61scVtZ044GUBV4rIvOcPQ,https://i.scdn.co/image/ab67616d0000b273feb430a900d634d1cbc987ad
 Kaleidoscope Heart,album,Epic,53,13,2010-09-07,spotify:album:627ukPRwYxyBREHxBq0vGJ,https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6
@@ -1150,7 +1151,7 @@ HORN,album,IST ENTERTAINMENT,46,11,2022-02-14,spotify:album:6GeYzOIumBxJ4iF41J3K
 RED MOON,single,"RBW, Inc",53,6,2018-07-16,spotify:album:6GhELYbXRo1LOqRPOCsQrF,https://i.scdn.co/image/ab67616d0000b2734a8b951ff5979dc187340b1d
 A Class,album,JYP Entertainment,47,13,2011-07-18,spotify:album:6Ii2g2GfqTzkqtSCpsuA2X,https://i.scdn.co/image/ab67616d0000b2730444d21d6cb2fcae0247ff60
 As If It's Your Last,single,YG Entertainment,0,1,2017-06-22,spotify:album:6IzQb2kLydYNfzmKXvmndX,https://i.scdn.co/image/ab67616d0000b273d9ac4a9970da8f98ce2e2b35
-Jordin Sparks,album,19 Recordings,63,16,2007-11-20,spotify:album:6JCNOvp9UeMrFuXwNW0JW6,https://i.scdn.co/image/ab67616d0000b273260e2444b3431b3b8b559bc3
+Jordin Sparks,album,19 Recordings,64,16,2007-11-20,spotify:album:6JCNOvp9UeMrFuXwNW0JW6,https://i.scdn.co/image/ab67616d0000b273260e2444b3431b3b8b559bc3
 Hurts 2B Human,album,RCA Records Label,57,13,2019-04-26,spotify:album:6JKkXVEljQJ1wKbRG5MywC,https://i.scdn.co/image/ab67616d0000b273786cb106c8bb0c15c86a93a0
 Daisy 2.0 (feat. Hatsune Miku),single,Parlophone UK,52,1,2020-12-11,spotify:album:6JZYS7UElSfjyTgFgE1ApG,https://i.scdn.co/image/ab67616d0000b2735064363e1b38af783f93f1a7
 TWIT,single,"RBW, Inc",50,2,2019-02-13,spotify:album:6KL4s0Y6Ijcj0QP1Nm1EVF,https://i.scdn.co/image/ab67616d0000b27346c377827f3ad9fa6b0f64df
@@ -1232,6 +1233,7 @@ Can't Stop This Party,single,ATISPAUS/88rising Music,34,1,2022-03-22,spotify:alb
 Break My Heart Myself (feat. YEJI & RYUJIN of ITZY),single,Warner Records,57,1,2022-07-29,spotify:album:6nHECY2OnWXVmd4QjGhJEm,https://i.scdn.co/image/ab67616d0000b2732c960195315acacaaabf1271
 Sticker - The 3rd Album,album,SM Entertainment,57,11,2021-09-17,spotify:album:6nYbIKGcTmKM5BAlJPPcad,https://i.scdn.co/image/ab67616d0000b27373e21d92fa8c70ce6aba72d0
 BE,album,BIGHIT MUSIC,77,8,2020-11-20,spotify:album:6nYfHQnvkvOTNHnOhDT3sr,https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5
+Hotel del Luna (Original Television Soundtrack) Pt.3,single,FNC인베스트먼트,54,2,2019-07-21,spotify:album:6nddI94g7zC5bbyNzRBO0Y,https://i.scdn.co/image/ab67616d0000b273d63a030f28f56c03dd1e2884
 1988,album,Tar Heel Voices,0,12,2015-05-19,spotify:album:6nktHqHKPt8kT4ozUJvwrs,https://i.scdn.co/image/ab67616d0000b2730719dbaac955fe41fed564ad
 Point Of Know Return (Expanded Edition),album,Epic/Legacy,66,12,1977,spotify:album:6oU298pdPTCQnMx1PYwyUA,https://i.scdn.co/image/ab67616d0000b27359f0f56a7cd13526b5b4204c
 [REC.],single,ADA Korea,44,5,2022-01-18,spotify:album:6ofVW04Q32gN1Hxk50S9Fi,https://i.scdn.co/image/ab67616d0000b273a42bfa2c336bdc2e5c486e49
@@ -1252,7 +1254,7 @@ METAL GALAXY,album,Cooking Vinyl Limited,51,14,2019-10-11,spotify:album:6rxRhft7
 High Stakes Old Maid,album,A Cappella Records,0,12,2016,spotify:album:6sg9WsK06H588Y5VOmwj37,https://i.scdn.co/image/ab67616d0000b273b6506a5b3e8f6bf816cbc118
 Vintage,album,Universal Music Division Capitol Music France,57,20,2020-03-19,spotify:album:6tGI9MGbLjbxyzcxYkMXPJ,https://i.scdn.co/image/ab67616d0000b273b28db1e5c8c53e67c6969c06
 Birthday - SM STATION : NCT LAB,single,SM Entertainment,59,2,2022-10-26,spotify:album:6tcPTRUC3gwmG1iyWyzRzr,https://i.scdn.co/image/ab67616d0000b2733730b0ab6cc8e589b87d26d7
-Christmas Is Here!,album,RCA Records Label,55,12,2018-10-19,spotify:album:6thZNGX8hUVSjUrqJgPB9b,https://i.scdn.co/image/ab67616d0000b273289f002ddb42e30363a0d445
+Christmas Is Here!,album,RCA Records Label,56,12,2018-10-19,spotify:album:6thZNGX8hUVSjUrqJgPB9b,https://i.scdn.co/image/ab67616d0000b273289f002ddb42e30363a0d445
 DICE - The 2nd Mini Album,single,SM Entertainment,44,6,2022-04-11,spotify:album:6tjdh7YCcSKD51C2kQTW9n,https://i.scdn.co/image/ab67616d0000b27306e3965d1fcfc15fca941989
 Unwrapped,album,The Sound Corporation,9,16,2006-09-12,spotify:album:6ua3tHyrfZNh6CpZLzCAuT,https://i.scdn.co/image/ab67616d0000b2731d9d3239217b0c4f75c15562
 The 1st Single '행복(Happiness)',single,SM Entertainment,0,1,2014-08-01,spotify:album:6uhzbGOu7nsKxQthjMKz2N,https://i.scdn.co/image/832d8e8fd86642db546f0f730915dde3b8d7ec0a
@@ -1319,7 +1321,7 @@ Ladies of the Canyon,album,Rhino,1,12,1970-03-01,spotify:album:7JOdtLDLyXJIppDRB
 MOTH,single,Transparent Arts,57,4,2022-05-13,spotify:album:7JdpeV87hczflCV8GXF3yV,https://i.scdn.co/image/ab67616d0000b2733d6f09363c27468820f299ae
 DON'T FIGHT THE FEELING - Special Album,single,SM Entertainment,54,5,2021-06-07,spotify:album:7Jw48lPmYuYftfQv5LmAzI,https://i.scdn.co/image/ab67616d0000b273e70b87a4bd471f82768bdcb9
 Infinity,album,Columbia/Legacy,59,10,1978,spotify:album:7K4Nk5fHkCuzNm5A6mdo2U,https://i.scdn.co/image/ab67616d0000b2731b2a9188ac775e16998eb78d
-Purcell : Anthems & Sacred Songs [Evening Prayer],album,Warner Classics International,15,8,2003-08-29,spotify:album:7K8qhv7euF0xd6DiqoReDK,https://i.scdn.co/image/ab67616d0000b273609d14b25e86640a2a69c534
+Purcell : Anthems & Sacred Songs [Evening Prayer],album,Warner Classics International,14,8,2003-08-29,spotify:album:7K8qhv7euF0xd6DiqoReDK,https://i.scdn.co/image/ab67616d0000b273609d14b25e86640a2a69c534
 Bunny,single,Linfair Records Limited,22,2,2020-11-25,spotify:album:7KJoNDndoJuxoFVl57NaVk,https://i.scdn.co/image/ab67616d0000b273709a3fc128e4d453fab4d14e
 Hands on Me,single,Stone Music Entertainment,34,5,2017-06-07,spotify:album:7KM1Yi5xYv3O6OcKsEeV83,https://i.scdn.co/image/ab67616d0000b273ce3eb674753352bcaa0ec45b
 Brave Enough: Live at the Variety Playhouse,album,Epic,40,13,2013-10-22,spotify:album:7L4ZgnQqEhCEsV9GnMeXtE,https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d

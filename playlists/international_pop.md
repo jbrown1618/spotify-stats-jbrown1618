@@ -113,7 +113,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc26980c202f33cba1a327306" alt="" width="50" /> | Tani Yuuki                         | [🔗](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735a36251d7041e99d024c523a" alt="" width="50" /> | Lu-Ni                              | [🔗](https://open.spotify.com/artist/0AythHu8oDXnRGp8qviBPj) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb3b6587b2046007bc1d18d9c" alt="" width="50" /> | Rendy Pandugo                      | [🔗](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4824ba00a5573be640445655" alt="" width="50" /> | Ling tosite sigure                 | [🔗](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb83fb533deff1773f1c4a2fbd" alt="" width="50" /> | Ling tosite sigure                 | [🔗](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) |
 
 </details>
 

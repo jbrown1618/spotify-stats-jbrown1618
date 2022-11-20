@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1326 songs](liked_songs_tracks.md)
+[1328 songs](liked_songs_tracks.md)
 
 ## Top Artists
 
@@ -42,7 +42,7 @@
 |                 10 | <img src="https://i.scdn.co/image/ab6761610000e5eb45b2ff69ae6a3caccb776cfa" alt="" width="50" /> | [STAYC](../artists/stayc.md)                                   | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 |                 10 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5903678d3db18e271e42be0" alt="" width="50" /> | [Lana Del Rey](../artists/lana_del_rey.md)                     | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb676338904deb80cffb568216" alt="" width="50" /> | [Beyoncé](../artists/beyonc_.md)                               | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
-|                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb850b002c3920dd8dd27865d4" alt="" width="50" /> | [Kimbra](../artists/kimbra.md)                                 | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
+|                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb5e92b1ddbbbc66454d44a2c4" alt="" width="50" /> | [Kimbra](../artists/kimbra.md)                                 | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | [Rihanna](../artists/rihanna.md)                               | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="" width="50" /> | [Dreamcatcher](../artists/dreamcatcher.md)                     | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../artists/radiohead.md)                           | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
@@ -81,6 +81,7 @@
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb80584436e5726afb70cee7f8" alt="" width="50" /> | LOONA                                                          | [🔗](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | Coldplay                                                       | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc1dc943555dfa1ee2a107e5" alt="" width="50" /> | K/DA                                                           | [🔗](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v) |
+|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebfb6c0b7b6918dca92be0ed75" alt="" width="50" /> | LE SSERAFIM                                                    | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebd96a6a23facfaa2b364b1bdb" alt="" width="50" /> | League of Legends                                              | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eba2a0b9e3448c1e702de9dc90" alt="" width="50" /> | Michael Jackson                                                | [🔗](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="" width="50" /> | EVERGLOW                                                       | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
@@ -97,7 +98,6 @@
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb767815f4876969e8f888f0db" alt="" width="50" /> | The Rose                                                       | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
 |                  4 | <img src="https://i.scdn.co/image/15b7ee7550ed4472700d573803ff90f2967f84d1" alt="" width="50" /> | A Fine Frenzy                                                  | [🔗](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0b4c8d0a415cab50e033129" alt="" width="50" /> | Solar                                                          | [🔗](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) |
-|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebfb6c0b7b6918dca92be0ed75" alt="" width="50" /> | LE SSERAFIM                                                    | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb597a4257d0022e2ac837fa7d" alt="" width="50" /> | BIGBANG                                                        | [🔗](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eba36a9f95d59ab791d5e897e9" alt="" width="50" /> | Regina Spektor                                                 | [🔗](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb24b5185226d5b7c6aa91db5a" alt="" width="50" /> | PSY                                                            | [🔗](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) |
@@ -221,11 +221,11 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="" width="50" /> | BE                                          | [🔗](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="" width="50" /> | BABYMETAL                                   | [🔗](https://open.spotify.com/album/6Eepi724OOt38pTaUrZErI) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273028c3bb4b81ee71dd73d1596" alt="" width="50" /> | An Awesome Wave                             | [🔗](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="" width="50" /> | ANTIFRAGILE                                 | [🔗](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="" width="50" /> | ALL OUT                                     | [🔗](https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | 4                                           | [🔗](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 28 Reasons - The 1st Mini Album             | [🔗](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="" width="50" /> | 1st Album [Dystopia : The Tree of Language] | [🔗](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273e95d9f505f2469cf74727805" alt="" width="50" /> | 容 : FACE                                    | [🔗](https://open.spotify.com/album/6eSFX12WIqUtmGsD8UO3FT) |
 
 </details>
 
@@ -277,11 +277,11 @@
 |                  8 | [WM Entertainment](../labels/wm_entertainment.md)                                                                   |
 |                  8 | [The Unc - Chapel Hill Tarpeggios](../labels/the_unc___chapel_hill_tarpeggios.md)                                   |
 |                  8 | [Syco Music](../labels/syco_music.md)                                                                               |
+|                  8 | [SOURCE MUSIC](../labels/source_music.md)                                                                           |
 |                  8 | [Monkey Puzzle Records](../labels/monkey_puzzle_records.md)                                                         |
 |                  8 | [MYSTIC STORY](../labels/mystic_story.md)                                                                           |
 |                  8 | [MNH ENTERTAINMENT](../labels/mnh_entertainment.md)                                                                 |
 |                  7 | [WM Korea](../labels/wm_korea.md)                                                                                   |
-|                  7 | [SOURCE MUSIC](../labels/source_music.md)                                                                           |
 |                  7 | [MOTOWN](../labels/motown.md)                                                                                       |
 |                  7 | [Def Jam Recordings](../labels/def_jam_recordings.md)                                                               |
 |                  7 | [Cooking Vinyl Limited](../labels/cooking_vinyl_limited.md)                                                         |
