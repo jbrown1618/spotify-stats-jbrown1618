@@ -15,7 +15,7 @@
 
 |   Number of Tracks | Art                                                                                              | Artist            | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:------------------|:------------------------------------------------------------|
-|                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eba2a0b9e3448c1e702de9dc90" alt="" width="50" /> | Michael Jackson   | [🔗](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) |
+|                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | Michael Jackson   | [🔗](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970" alt="" width="50" /> | Elton John        | [🔗](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) |
 |                  5 | <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | Simon & Garfunkel | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
 |                  4 | <img src="https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108" alt="" width="50" /> | Stevie Wonder     | [🔗](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) |

@@ -1,9 +1,9 @@
 # RBW Inc.
 
-29 songs
+30 songs
 
 Appears as:
-- RBW Inc. (17 tracks)
+- RBW Inc. (18 tracks)
 - RBW, Inc (11 tracks)
 - RBW, INC. (1 tracks)
 
@@ -19,9 +19,9 @@ Appears as:
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------|:------------------------------------------------------------|
 |                 12 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../artists/mamamoo.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | Hwa Sa                           | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
+|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb2d192f1d830db1eba64854fc" alt="" width="50" /> | Moon Byul                        | [🔗](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebea3e3a63d8bc191f631f6e0e" alt="" width="50" /> | PURPLE KISS                      | [🔗](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0b4c8d0a415cab50e033129" alt="" width="50" /> | Solar                            | [🔗](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) |
-|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb2d192f1d830db1eba64854fc" alt="" width="50" /> | Moon Byul                        | [🔗](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb652b1738f121da382c3ab77b" alt="" width="50" /> | ONEUS                            | [🔗](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbb19ac3f264dea7cea4c42b" alt="" width="50" /> | Whee In                          | [🔗](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbca2e91d07d2c53e6610570" alt="" width="50" /> | Seori                            | [🔗](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) |
@@ -45,6 +45,7 @@ Appears as:
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734a8b951ff5979dc187340b1d" alt="" width="50" /> | RED MOON               | [🔗](https://open.spotify.com/album/6GhELYbXRo1LOqRPOCsQrF) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27322f0e32bfb91476f0ad96656" alt="" width="50" /> | MIC ON                 | [🔗](https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731dfb11871aa63ac9010c0619" alt="" width="50" /> | Guilty Pleasure        | [🔗](https://open.spotify.com/album/7jke1vYOze3jdyTiWhtFnz) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2733618088cfcd2a966a61937cb" alt="" width="50" /> | 6equence               | [🔗](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d650d0d98caf3f54b842a0b" alt="" width="50" /> | reality in BLACK       | [🔗](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27346c28fd13126fd9428625411" alt="" width="50" /> | memeM                  | [🔗](https://open.spotify.com/album/4nhtnBY8owIQnOsnGQGqW9) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736847aa7310791dcd66f16a5e" alt="" width="50" /> | Yellow Flower          | [🔗](https://open.spotify.com/album/4G9qMxS9c4W5PPNdPrTaLn) |
@@ -63,7 +64,6 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b1f57af57a103eb28110c9d8" alt="" width="50" /> | BLUE;S                 | [🔗](https://open.spotify.com/album/59QELOU685J1AMB2paryAx) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732325e0aa6cad94d104ea055e" alt="" width="50" /> | BLOOD MOON             | [🔗](https://open.spotify.com/album/13dNmnWQVodErqAhuOzYTD) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27395e1a12145290ca7d783eb1d" alt="" width="50" /> | BINARY CODE            | [🔗](https://open.spotify.com/album/3MSvgJYx3omhNpSaQUqnu5) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733618088cfcd2a966a61937cb" alt="" width="50" /> | 6equence               | [🔗](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) |
 
 </details>
 
@@ -91,6 +91,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273294c757e724cc58bbbd29287" alt="" width="50" /> | SELFISH (Feat. SEULGI Of Red Velvet) | SELFISH                | Moon Byul, SEULGI                | [RBW, Inc](rbw_inc_.md)  |     | [🔗](https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273498f71db374f1a18ac831412" alt="" width="50" /> | Shutdown (Feat.Seori)                | Shutdown (Feat. Seori) | Moon Byul, Seori                 | [RBW Inc.](rbw_inc_.md)  | 💚   | [🔗](https://open.spotify.com/track/69790X4RDQIKwcxltIMHvU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733618088cfcd2a966a61937cb" alt="" width="50" /> | LUNATIC                              | 6equence               | Moon Byul                        | [RBW Inc.](rbw_inc_.md)  | 💚   | [🔗](https://open.spotify.com/track/3hicr5nSY0RrKGEy3nYZwU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733618088cfcd2a966a61937cb" alt="" width="50" /> | LUNATIC (English Ver.)               | 6equence               | Moon Byul                        | [RBW Inc.](rbw_inc_.md)  |     | [🔗](https://open.spotify.com/track/6iQQ9sg5NSauLU4TzKFOsY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395e1a12145290ca7d783eb1d" alt="" width="50" /> | BLACK MIRROR                         | BINARY CODE            | ONEUS                            | [RBW Inc.](rbw_inc_.md)  | 💚   | [🔗](https://open.spotify.com/track/0KERuWnGiBnoFiMyJCLTcj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732325e0aa6cad94d104ea055e" alt="" width="50" /> | LUNA                                 | BLOOD MOON             | ONEUS                            | [RBW Inc.](rbw_inc_.md)  | 💚   | [🔗](https://open.spotify.com/track/5L2uuQUMiub01LRhTKRCFj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730865f5f5799f2ee1b3c0fcec" alt="" width="50" /> | Zombie                               | HIDE & SEEK            | PURPLE KISS                      | [RBW Inc.](rbw_inc_.md)  |     | [🔗](https://open.spotify.com/track/5zTp64MsWOTdAWWXK7zEPK) |

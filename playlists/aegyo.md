@@ -3,15 +3,15 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2731544041d0285585cc92c2709ab67616d0000b27335cdd6d3f5815afac043758eab67616d0000b2733c5bfa54ae5e8312f5e0325aab67616d0000b273714e56679ab196354e2e443e" alt="Aegyo" width="100" />
 
-[34 songs](aegyo_tracks.md)
+[36 songs](aegyo_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 17 artists](../images/playlists/aegyo/artists.png)
+![Bar chart of top 18 artists](../images/playlists/aegyo/artists.png)
 
 
 <details>
-<summary>See all 17 artists</summary>
+<summary>See all 18 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                               | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------|:------------------------------------------------------------|
@@ -19,6 +19,7 @@
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)                     | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d4b74165ecfadcacf0771ae" alt="" width="50" /> | MOMOLAND                                             | [🔗](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8a8415e72dedaa552259d0c1" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)               | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eba3e483bda08002c2c7bfa7ef" alt="" width="50" /> | WJSN Chocome                                         | [🔗](https://open.spotify.com/artist/5VyqN5hNo0TbYF0ICU77nn) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb9954a1ab45b2404a7bff2a45" alt="" width="50" /> | OH MY GIRL                                           | [🔗](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb758f3c632d4d726f1129d336" alt="" width="50" /> | TOMORROW X TOGETHER                                  | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="" width="50" /> | [SEVENTEEN](../artists/seventeen.md)                 | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
@@ -42,7 +43,7 @@
 
 
 <details>
-<summary>See all 33 albums</summary>
+<summary>See all 35 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                     | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:------------------------------------------|:-----------------------------------------------------------|
@@ -61,6 +62,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273557395cc096cb7b22eff310e" alt="" width="50" /> | The Feels                                 | [🔗](https://open.spotify.com/album/6bk3KlQjiXsRmGrzrNcS53) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736207621becafe079ec6c9185" alt="" width="50" /> | The Dream Chapter: MAGIC                  | [🔗](https://open.spotify.com/album/5KoR6s906nbO21C9ZPdwTv) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731544041d0285585cc92c2709" alt="" width="50" /> | THE BOYZ 6TH MINI ALBUM [THRILL-ING]      | [🔗](https://open.spotify.com/album/0lh0pZ8GjZGrAhzIG4Jn0E) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c564791fd5ae81ca9da399f4" alt="" width="50" /> | Super Yuppers!                            | [🔗](https://open.spotify.com/album/5Sh3VW04we2IqNP7BlBwuM) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736017bca98dea58ceddea77c1" alt="" width="50" /> | Summer Magic - Summer Mini Album          | [🔗](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d07e49e3e5a8e79903713354" alt="" width="50" /> | SIGNAL                                    | [🔗](https://open.spotify.com/album/28PwDunFAR71toOCTYRvkf) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273deeee778a591e7032c1bdc80" alt="" width="50" /> | SEVENTEEN 1ST ALBUM [FIRST ‘LOVE&LETTER’] | [🔗](https://open.spotify.com/album/50BrkBakrLWufmTLjCVBwn) |
@@ -69,6 +71,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734957fced6061ee536ca618ab" alt="" width="50" /> | NONSTOP                                   | [🔗](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f0d00e054e9a9cb2e86cdf72" alt="" width="50" /> | Merry & Happy                             | [🔗](https://open.spotify.com/album/0R7pj4tnmcoUulrZGPo6nw) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273eb9bc74e6ced59a2638898b0" alt="" width="50" /> | Life's Too Short                          | [🔗](https://open.spotify.com/album/11lLYKMkFheiV7ObD7WCnx) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738a30df9ceed62f9c39069c9e" alt="" width="50" /> | Hmph!                                     | [🔗](https://open.spotify.com/album/3oiVOb6e43wsvdV4ClJYm0) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27366ff63bc084fb412aa2dddd3" alt="" width="50" /> | Hello - Special Album                     | [🔗](https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b66327ff0474d017472d7b18" alt="" width="50" /> | HAPPY MOMENT (1)                          | [🔗](https://open.spotify.com/album/4nnyYQGOKRU090FK7sfunL) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a5bb4ef1ca42f4378d815c7c" alt="" width="50" /> | GREAT!                                    | [🔗](https://open.spotify.com/album/5vt2sEP5J0VNbYXoA7h2k4) |
@@ -97,12 +100,12 @@
 |                  5 | [SM Entertainment](../labels/sm_entertainment.md)                   |
 |                  4 | [BELIFT LAB](../labels/belift_lab.md)                               |
 |                  3 | [WM Entertainment](../labels/wm_entertainment.md)                   |
+|                  3 | [Starship Entertainment](../labels/starship_entertainment.md)       |
 |                  2 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
 |                  2 | [MLD ENTERTAINMENT](../labels/mld_entertainment.md)                 |
 |                  2 | [Kakao Entertainment](../labels/kakao_entertainment.md)             |
 |                  1 | [Warner Records](../labels/warner_records.md)                       |
 |                  1 | [WM Taiwan](../labels/wm_taiwan.md)                                 |
-|                  1 | [Starship Entertainment](../labels/starship_entertainment.md)       |
 |                  1 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)           |
 |                  1 | [Imperial Distribution](../labels/imperial_distribution.md)         |
 |                  1 | [Genie Music Corporation](../labels/genie_music_corporation.md)     |
