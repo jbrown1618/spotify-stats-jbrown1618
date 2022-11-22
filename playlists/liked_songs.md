@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1329 songs](liked_songs_tracks.md)
+[1330 songs](liked_songs_tracks.md)
 
 ## Top Artists
 
@@ -248,7 +248,7 @@
 |                 52 | [Interscope](../labels/interscope.md)                                                                               |
 |                 46 | [Warner Records](../labels/warner_records.md)                                                                       |
 |                 42 | [RCA Records Label](../labels/rca_records_label.md)                                                                 |
-|                 40 | [Universal Music LLC](../labels/universal_music_llc.md)                                                             |
+|                 41 | [Universal Music LLC](../labels/universal_music_llc.md)                                                             |
 |                 32 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                                                 |
 |                 29 | [Genie Music Corporation](../labels/genie_music_corporation.md)                                                     |
 |                 25 | [RBW Inc.](../labels/rbw_inc_.md)                                                                                   |

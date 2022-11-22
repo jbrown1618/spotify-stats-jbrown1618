@@ -1,9 +1,9 @@
 # Universal Music LLC
 
-56 songs
+57 songs
 
 Appears as:
-- Universal Music LLC (36 tracks)
+- Universal Music LLC (37 tracks)
 - Universal Records (16 tracks)
 - Universal Music Ltd. (2 tracks)
 - Fuzzy Door Productions/Universal (1 tracks)
@@ -11,11 +11,11 @@ Appears as:
 
 ## Top Artists
 
-![Bar chart of top 27 artists](../images/labels/universal_music_llc/artists.png)
+![Bar chart of top 28 artists](../images/labels/universal_music_llc/artists.png)
 
 
 <details>
-<summary>See all 27 artists</summary>
+<summary>See all 28 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                         | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------|:------------------------------------------------------------|
@@ -37,6 +37,7 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)               | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebaaa9e8d56241a48b8f6422b2" alt="" width="50" /> | Kawaguchi Yurina                               | [🔗](https://open.spotify.com/artist/3snqW31jInsZwoYRZTaixr) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)                       | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb38a96d85b0580670123280e" alt="" width="50" /> | ZUTOMAYO                                       | [🔗](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bb5ab9683125fc416c9dbfb" alt="" width="50" /> | Zedd                                           | [🔗](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0222fa7cba5da5c28ea5d296" alt="" width="50" /> | BTOB                                           | [🔗](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | Jessie J                                       | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
@@ -56,7 +57,7 @@ Appears as:
 
 
 <details>
-<summary>See all 33 albums</summary>
+<summary>See all 34 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                   | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------|:-----------------------------------------------------------|
@@ -70,6 +71,7 @@ Appears as:
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2733fe0e026d4043e5d62c81328" alt="" width="50" /> | LOVE or TAKE                                            | [🔗](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c5011613476079ff2498bf4a" alt="" width="50" /> | HELICOPTER                                              | [🔗](https://open.spotify.com/album/1uwfxRAhW1hxclCVkzku8d) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273cf122fa2dd2c23dcc79f7c51" alt="" width="50" /> | A Page                                                  | [🔗](https://open.spotify.com/album/7jmRVFWYCVgx2OEC1ZQJH8) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ced490e566f828ee9ca8d263" alt="" width="50" /> | 潜潜話                                                     | [🔗](https://open.spotify.com/album/4myzXA54fPm89hpW41YkOS) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dbd5c6e6e365a3e70832780d" alt="" width="50" /> | さよならひとり                                                 | [🔗](https://open.spotify.com/album/0VOMzswFy3fFsOb1tYs1Wd) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27358870b3abb0ff43e5948c912" alt="" width="50" /> | i'M THE TREND                                           | [🔗](https://open.spotify.com/album/03TbZLPSRsHWX11umzK4qf) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273be123bb6b40736bf093870bd" alt="" width="50" /> | Why Be?                                                 | [🔗](https://open.spotify.com/album/4S5PRo1gVG9BvRnCcdYzdS) |
@@ -134,7 +136,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="" width="50" /> | Meant                        | Beatrix Runs                                            | Elizaveta                                                           | [Universal Records](universal_music_llc.md)                                                 | 💚   | [🔗](https://open.spotify.com/track/0HEA0fIQiqOCQBcHd8PdXo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="" width="50" /> | Nightflyers                  | Beatrix Runs                                            | Elizaveta                                                           | [Universal Records](universal_music_llc.md)                                                 |     | [🔗](https://open.spotify.com/track/2IJIZnAmBgkbohDRZDIMl5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="" width="50" /> | Odi Et Amo                   | Beatrix Runs                                            | Elizaveta                                                           | [Universal Records](universal_music_llc.md)                                                 | 💚   | [🔗](https://open.spotify.com/track/24wPBY34rV79iESLYdpsRH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="" width="50" /> | Love Me Like You Do          | Fifty Shades Freed (Original Motion Picture Soundtrack) | Ellie Goulding                                                      | [Universal Music LLC](universal_music_llc.md), FSF, [Republic Records](republic_records.md) | 💚   | [🔗](https://open.spotify.com/track/0Cy7wt6IlRfBPHXXjmZbcP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="" width="50" /> | Love Me Like You Do          | Fifty Shades Freed (Original Motion Picture Soundtrack) | Ellie Goulding                                                      | [Republic Records](republic_records.md), FSF, [Universal Music LLC](universal_music_llc.md) | 💚   | [🔗](https://open.spotify.com/track/0Cy7wt6IlRfBPHXXjmZbcP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273715d1b4d21f0ca40a8e95840" alt="" width="50" /> | Always                       | Always                                                  | [ENHYPEN](../artists/enhypen.md)                                    | [Universal Music LLC](universal_music_llc.md)                                               | 💚   | [🔗](https://open.spotify.com/track/6bLZ6JV1mAGz4xfS1ZwOMV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273731953ff97a79644f6eb7b4e" alt="" width="50" /> | 死ぬのがいいわ                      | HELP EVER HURT NEVER                                    | Fujii Kaze                                                          | [Universal Music LLC](universal_music_llc.md)                                               | 💚   | [🔗](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | BEAM BEAM                    | Windy                                                   | JEON SOYEON                                                         | [Universal Music LLC](universal_music_llc.md)                                               | 💚   | [🔗](https://open.spotify.com/track/1VjIS4qoyD6JS2rNZQgE00) |
@@ -157,3 +159,4 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273be123bb6b40736bf093870bd" alt="" width="50" /> | A Flying Butterfly           | Why Be?                                                 | YB                                                                  | [Universal Music Ltd.](universal_music_llc.md)                                              |     | [🔗](https://open.spotify.com/track/3I71PFicYG614VGl6hqcUK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cf122fa2dd2c23dcc79f7c51" alt="" width="50" /> | Bonnie & Clyde               | A Page                                                  | YUQI                                                                | [Universal Music LLC](universal_music_llc.md)                                               | 💚   | [🔗](https://open.spotify.com/track/21aIsunB7PfZI0vlIoaJPh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cf122fa2dd2c23dcc79f7c51" alt="" width="50" /> | Giant                        | A Page                                                  | YUQI                                                                | [Universal Music LLC](universal_music_llc.md)                                               | 💚   | [🔗](https://open.spotify.com/track/3p8low79RQzkixDlIngBTT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ced490e566f828ee9ca8d263" alt="" width="50" /> | 脳裏上のクラッカー                    | 潜潜話                                                     | ZUTOMAYO                                                            | [Universal Music LLC](universal_music_llc.md)                                               | 💚   | [🔗](https://open.spotify.com/track/3FRU8JI3EK9G7hXSP3P4R8) |

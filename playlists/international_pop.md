@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2732433cb43f0f2f0f23b7c8b82ab67616d0000b2734ccc03169b086af698178a99ab67616d0000b2735e3e23be9bdc38cb4767be97ab67616d0000b2739922157daa474131bb3a0fbc" alt="International Pop" width="100" />
 
-[90 songs](international_pop_tracks.md)
+[91 songs](international_pop_tracks.md)
 
 ## Top Artists
 
@@ -11,7 +11,7 @@
 
 
 <details>
-<summary>See all 99 artists</summary>
+<summary>See all 100 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                             | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------|:------------------------------------------------------------|
@@ -83,6 +83,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736c44926d053b033447e4e710" alt="" width="50" /> | Kausar Munir                       | [🔗](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb840800d188b7b4f76041a867" alt="" width="50" /> | Rayi Putra                         | [🔗](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb873c780bc01ab398f69e63a3" alt="" width="50" /> | Savera                             | [🔗](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb38a96d85b0580670123280e" alt="" width="50" /> | ZUTOMAYO                           | [🔗](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f918bcd506181a2c8f145d8b" alt="" width="50" /> | 拾贰                                 | [🔗](https://open.spotify.com/artist/30YrwNoKzUtyVQsIrwtMdr) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb639904df84c9ae5e3888ccc2" alt="" width="50" /> | Gradur                             | [🔗](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7e7c664aebb73b97b2664bb7" alt="" width="50" /> | Roméo Elvis                        | [🔗](https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv) |
@@ -124,7 +125,7 @@
 
 
 <details>
-<summary>See all 84 albums</summary>
+<summary>See all 85 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                                                               | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -138,6 +139,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e7ba5d5ba7ea0f853ba37f24" alt="" width="50" /> | 翼はいらない<Type A>(通常盤)                                                                                 | [🔗](https://open.spotify.com/album/5fTeBDOk2HaA6MwHSspPIx) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f66f9c01e819b80a87af4f2d" alt="" width="50" /> | 白月光与朱砂痣                                                                                             | [🔗](https://open.spotify.com/album/22QqokF4etKGtDv3BrNvXK) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e0dc47dd1584c66ad4492094" alt="" width="50" /> | 炎                                                                                                   | [🔗](https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ced490e566f828ee9ca8d263" alt="" width="50" /> | 潜潜話                                                                                                 | [🔗](https://open.spotify.com/album/4myzXA54fPm89hpW41YkOS) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734df4e8ec1f66ebb6b63c14c2" alt="" width="50" /> | 海嘯                                                                                                  | [🔗](https://open.spotify.com/album/06yEqpc6KFxUZ5BxE7V7TN) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d7778a0dded534f3b95145e" alt="" width="50" /> | 次の足跡 Type A <初回限定盤>                                                                                 | [🔗](https://open.spotify.com/album/4Mz79lV4qxaywmthkarIf7) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e74d5d14b01d404e1984ece7" alt="" width="50" /> | 改變自己                                                                                                | [🔗](https://open.spotify.com/album/7yjS4CBFK0f9oQsVrcdNNW) |
@@ -227,7 +229,7 @@
 |   Number of Tracks | Label                                                                                                                       |
 |-------------------:|:----------------------------------------------------------------------------------------------------------------------------|
 |                  7 | [Cooking Vinyl Limited](../labels/cooking_vinyl_limited.md)                                                                 |
-|                  5 | [Universal Music LLC](../labels/universal_music_llc.md)                                                                     |
+|                  6 | [Universal Music LLC](../labels/universal_music_llc.md)                                                                     |
 |                  5 | [Sony Music Latin](../labels/sony_music_latin.md)                                                                           |
 |                  5 | [Sony Music Labels Inc.](../labels/sony_music_labels_inc_.md)                                                               |
 |                  4 | [Sony Music Entertainment](../labels/sony_music_entertainment.md)                                                           |
