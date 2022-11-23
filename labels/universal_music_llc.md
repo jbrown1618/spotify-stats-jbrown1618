@@ -1,27 +1,28 @@
 # Universal Music LLC
 
-57 songs
+61 songs
 
 Appears as:
 - Universal Music LLC (37 tracks)
 - Universal Records (16 tracks)
-- Universal Music Ltd. (2 tracks)
+- Universal Music Ltd. (6 tracks)
 - Fuzzy Door Productions/Universal (1 tracks)
 - Republic/Universal/FSF (1 tracks)
 
 ## Top Artists
 
-![Bar chart of top 28 artists](../images/labels/universal_music_llc/artists.png)
+![Bar chart of top 29 artists](../images/labels/universal_music_llc/artists.png)
 
 
 <details>
-<summary>See all 28 artists</summary>
+<summary>See all 29 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                         | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------|:------------------------------------------------------------|
 |                 13 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)             | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 |                 12 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../artists/ariana_grande.md)   | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebadffb99dc62d070da29306ff" alt="" width="50" /> | JEON SOYEON                                    | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
+|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eba3c1fca063ed673aed61c885" alt="" width="50" /> | YOUHA                                          | [🔗](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb6eff35941dca1f9461944174" alt="" width="50" /> | Elizaveta                                      | [🔗](https://open.spotify.com/artist/2a9bCkqCkLvXM0s3uPvR7M) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | CLC                                            | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | PENTAGON                                       | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
@@ -57,7 +58,7 @@ Appears as:
 
 
 <details>
-<summary>See all 34 albums</summary>
+<summary>See all 38 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                   | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------|:-----------------------------------------------------------|
@@ -71,8 +72,10 @@ Appears as:
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2733fe0e026d4043e5d62c81328" alt="" width="50" /> | LOVE or TAKE                                            | [🔗](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c5011613476079ff2498bf4a" alt="" width="50" /> | HELICOPTER                                              | [🔗](https://open.spotify.com/album/1uwfxRAhW1hxclCVkzku8d) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273cf122fa2dd2c23dcc79f7c51" alt="" width="50" /> | A Page                                                  | [🔗](https://open.spotify.com/album/7jmRVFWYCVgx2OEC1ZQJH8) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ead72e8dd961206f05079de7" alt="" width="50" /> | 오늘 조금 취해서 그래                                            | [🔗](https://open.spotify.com/album/6QpIl0FPITcpoJTn5HP4vD) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ced490e566f828ee9ca8d263" alt="" width="50" /> | 潜潜話                                                     | [🔗](https://open.spotify.com/album/4myzXA54fPm89hpW41YkOS) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dbd5c6e6e365a3e70832780d" alt="" width="50" /> | さよならひとり                                                 | [🔗](https://open.spotify.com/album/0VOMzswFy3fFsOb1tYs1Wd) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27357a6f5928952c277c4407f98" alt="" width="50" /> | love you more,                                          | [🔗](https://open.spotify.com/album/3g2OiEeQKfggUe6ViYeLSC) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27358870b3abb0ff43e5948c912" alt="" width="50" /> | i'M THE TREND                                           | [🔗](https://open.spotify.com/album/03TbZLPSRsHWX11umzK4qf) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273be123bb6b40736bf093870bd" alt="" width="50" /> | Why Be?                                                 | [🔗](https://open.spotify.com/album/4S5PRo1gVG9BvRnCcdYzdS) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273da0376db6b1c5562ab8f5b29" alt="" width="50" /> | WE:TH                                                   | [🔗](https://open.spotify.com/album/1ASYbBYBwV6Rcfc2ycqmlK) |
@@ -84,6 +87,7 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27303611decaac95320f5549cec" alt="" width="50" /> | LEVIOSA                                                 | [🔗](https://open.spotify.com/album/6ORQnWLnQLERhWhA3ON2Z5) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27396e164f0c5aac83148bb8f24" alt="" width="50" /> | LEVEL3                                                  | [🔗](https://open.spotify.com/album/2DdXcewGp8Akqutak3yLDg) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734ff1d54536f86d8f9c912efa" alt="" width="50" /> | LATATA (English Ver.)                                   | [🔗](https://open.spotify.com/album/0tM1Pr6hTKBNJEyLSft1Fs) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273bd8c4b8999cdc5af790b91b2" alt="" width="50" /> | ISLAND                                                  | [🔗](https://open.spotify.com/album/252HrrsALUd5ysKCJuRCur) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733e94f2b2c3303120be19210b" alt="" width="50" /> | Habit                                                   | [🔗](https://open.spotify.com/album/690rpRAbQW5LNPrbP27M9U) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273cdfed2bbb2b83cccff253f54" alt="" width="50" /> | HWAA                                                    | [🔗](https://open.spotify.com/album/1M1d5bzsGhY2JOVD2AU29G) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273731953ff97a79644f6eb7b4e" alt="" width="50" /> | HELP EVER HURT NEVER                                    | [🔗](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) |
@@ -93,6 +97,7 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732ca65c45697e473a0d9d1711" alt="" width="50" /> | Devil                                                   | [🔗](https://open.spotify.com/album/1HpLXN8RRy1lHO3jckCTkN) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27333342c57a9b2c4e04c97b3f5" alt="" width="50" /> | Dangerous Woman                                         | [🔗](https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736080e2389dee3e57f00ccc69" alt="" width="50" /> | DUMDi DUMDi                                             | [🔗](https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a27cc2d12832101090ab0363" alt="" width="50" /> | Cherry On Top                                           | [🔗](https://open.spotify.com/album/7sEDri9xLbg6a27CPoD1v2) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273715d1b4d21f0ca40a8e95840" alt="" width="50" /> | Always                                                  | [🔗](https://open.spotify.com/album/0kwAgLzLnzQxaKcdubyaMh) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739cbfec319f493499b31fba46" alt="" width="50" /> | 4U : OUTSIDE                                            | [🔗](https://open.spotify.com/album/6aS3GtElkkgThSwtC9usiA) |
 
@@ -136,7 +141,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="" width="50" /> | Meant                        | Beatrix Runs                                            | Elizaveta                                                           | [Universal Records](universal_music_llc.md)                                                 | 💚   | [🔗](https://open.spotify.com/track/0HEA0fIQiqOCQBcHd8PdXo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="" width="50" /> | Nightflyers                  | Beatrix Runs                                            | Elizaveta                                                           | [Universal Records](universal_music_llc.md)                                                 |     | [🔗](https://open.spotify.com/track/2IJIZnAmBgkbohDRZDIMl5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="" width="50" /> | Odi Et Amo                   | Beatrix Runs                                            | Elizaveta                                                           | [Universal Records](universal_music_llc.md)                                                 | 💚   | [🔗](https://open.spotify.com/track/24wPBY34rV79iESLYdpsRH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="" width="50" /> | Love Me Like You Do          | Fifty Shades Freed (Original Motion Picture Soundtrack) | Ellie Goulding                                                      | [Republic Records](republic_records.md), FSF, [Universal Music LLC](universal_music_llc.md) | 💚   | [🔗](https://open.spotify.com/track/0Cy7wt6IlRfBPHXXjmZbcP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="" width="50" /> | Love Me Like You Do          | Fifty Shades Freed (Original Motion Picture Soundtrack) | Ellie Goulding                                                      | FSF, [Universal Music LLC](universal_music_llc.md), [Republic Records](republic_records.md) | 💚   | [🔗](https://open.spotify.com/track/0Cy7wt6IlRfBPHXXjmZbcP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273715d1b4d21f0ca40a8e95840" alt="" width="50" /> | Always                       | Always                                                  | [ENHYPEN](../artists/enhypen.md)                                    | [Universal Music LLC](universal_music_llc.md)                                               | 💚   | [🔗](https://open.spotify.com/track/6bLZ6JV1mAGz4xfS1ZwOMV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273731953ff97a79644f6eb7b4e" alt="" width="50" /> | 死ぬのがいいわ                      | HELP EVER HURT NEVER                                    | Fujii Kaze                                                          | [Universal Music LLC](universal_music_llc.md)                                               | 💚   | [🔗](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | BEAM BEAM                    | Windy                                                   | JEON SOYEON                                                         | [Universal Music LLC](universal_music_llc.md)                                               | 💚   | [🔗](https://open.spotify.com/track/1VjIS4qoyD6JS2rNZQgE00) |
@@ -157,6 +162,10 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273dbd5c6e6e365a3e70832780d" alt="" width="50" /> | さよならひとり                      | さよならひとり                                                 | TAEMIN                                                              | [Universal Music LLC](universal_music_llc.md)                                               | 💚   | [🔗](https://open.spotify.com/track/4ltAvuYuC8PNKAStXiWouZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27303611decaac95320f5549cec" alt="" width="50" /> | KISS                         | LEVIOSA                                                 | TRI.BE                                                              | [Universal Music Ltd.](universal_music_llc.md)                                              | 💚   | [🔗](https://open.spotify.com/track/7MONmJafc7senaIZE3ulWv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273be123bb6b40736bf093870bd" alt="" width="50" /> | A Flying Butterfly           | Why Be?                                                 | YB                                                                  | [Universal Music Ltd.](universal_music_llc.md)                                              |     | [🔗](https://open.spotify.com/track/3I71PFicYG614VGl6hqcUK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bd8c4b8999cdc5af790b91b2" alt="" width="50" /> | ISLAND                       | ISLAND                                                  | YOUHA                                                               | [Universal Music Ltd.](universal_music_llc.md)                                              |     | [🔗](https://open.spotify.com/track/7imQKCdSF67V65uMplJMy1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ead72e8dd961206f05079de7" alt="" width="50" /> | 오늘 조금 취해서 그래                 | 오늘 조금 취해서 그래                                            | YOUHA                                                               | [Universal Music Ltd.](universal_music_llc.md)                                              |     | [🔗](https://open.spotify.com/track/1pU5SijPp89lNrZHJL0166) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a27cc2d12832101090ab0363" alt="" width="50" /> | Cherry On Top                | Cherry On Top                                           | YOUHA                                                               | [Universal Music Ltd.](universal_music_llc.md)                                              |     | [🔗](https://open.spotify.com/track/6S2vJU8eHt7WpZJE3SWpTa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27357a6f5928952c277c4407f98" alt="" width="50" /> | Last Dance                   | love you more,                                          | YOUHA                                                               | [Universal Music Ltd.](universal_music_llc.md)                                              |     | [🔗](https://open.spotify.com/track/1bOS0JdXxmTWwlUxXX7gRG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cf122fa2dd2c23dcc79f7c51" alt="" width="50" /> | Bonnie & Clyde               | A Page                                                  | YUQI                                                                | [Universal Music LLC](universal_music_llc.md)                                               | 💚   | [🔗](https://open.spotify.com/track/21aIsunB7PfZI0vlIoaJPh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cf122fa2dd2c23dcc79f7c51" alt="" width="50" /> | Giant                        | A Page                                                  | YUQI                                                                | [Universal Music LLC](universal_music_llc.md)                                               | 💚   | [🔗](https://open.spotify.com/track/3p8low79RQzkixDlIngBTT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ced490e566f828ee9ca8d263" alt="" width="50" /> | 脳裏上のクラッカー                    | 潜潜話                                                     | ZUTOMAYO                                                            | [Universal Music LLC](universal_music_llc.md)                                               | 💚   | [🔗](https://open.spotify.com/track/3FRU8JI3EK9G7hXSP3P4R8) |

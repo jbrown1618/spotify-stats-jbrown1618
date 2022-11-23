@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="K-Pop 101" width="100" />
 
-[39 songs](k_pop_101_tracks.md)
+[38 songs](k_pop_101_tracks.md)
 
 ## Top Artists
 
@@ -11,7 +11,7 @@
 
 
 <details>
-<summary>See all 39 artists</summary>
+<summary>See all 38 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                               | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------|:------------------------------------------------------------|
@@ -43,7 +43,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3e64e13dfb4fc3dc1a873b00" alt="" width="50" /> | [ITZY](../artists/itzy.md)                           | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)                   | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6ff45cd874b8d6ded27a4b35" alt="" width="50" /> | NMIXX                                                | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9954a1ab45b2404a7bff2a45" alt="" width="50" /> | OH MY GIRL                                           | [🔗](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8a8415e72dedaa552259d0c1" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)               | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | PENTAGON                                             | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb20e1b84fe2767e52c4c828fd" alt="" width="50" /> | 2NE1                                                 | [🔗](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) |
@@ -64,7 +63,7 @@
 
 
 <details>
-<summary>See all 39 albums</summary>
+<summary>See all 38 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                     | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:------------------------------------------|:-----------------------------------------------------------|
@@ -85,7 +84,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e099e697d0068b652fe6814e" alt="" width="50" /> | Positive                                  | [🔗](https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739b57e9b31c831fb2137c38e2" alt="" width="50" /> | Oh! - The Second Album                    | [🔗](https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737a393b04e8ced571618223e8" alt="" width="50" /> | Next Level                                | [🔗](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734957fced6061ee536ca618ab" alt="" width="50" /> | NONSTOP                                   | [🔗](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27362fad74218294c98e510c1c8" alt="" width="50" /> | MOVE - The 2nd Album                      | [🔗](https://open.spotify.com/album/2Ka8QpE2XUUjL4vOQihkJH) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27325ca38eeeb374883d7652ff0" alt="" width="50" /> | MIROTIC - The 4th Album                   | [🔗](https://open.spotify.com/album/51Wmrzs9O87YlKp2vqDwln) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735c2254d6d7618143e23f7fdb" alt="" width="50" /> | MADE                                      | [🔗](https://open.spotify.com/album/1q8h2HdED1cmgJVo8lEBME) |
@@ -113,11 +111,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 26 record labels](../images/playlists/k_pop_101/labels.png)
+![Bar chart of top 25 record labels](../images/playlists/k_pop_101/labels.png)
 
 
 <details>
-<summary>See all 26 labels</summary>
+<summary>See all 25 labels</summary>
 
 |   Number of Tracks | Label                                                               |
 |-------------------:|:--------------------------------------------------------------------|
@@ -129,7 +127,6 @@
 |                  2 | [Republic Records](../labels/republic_records.md)                   |
 |                  2 | [JYP Entertainment](../labels/jyp_entertainment.md)                 |
 |                  1 | [드림캐쳐컴퍼니](../labels/_______.md)                                     |
-|                  1 | [WM Entertainment](../labels/wm_entertainment.md)                   |
 |                  1 | [Universal Music LLC](../labels/universal_music_llc.md)             |
 |                  1 | [THE BLACK LABEL](../labels/the_black_label.md)                     |
 |                  1 | [Starship Entertainment](../labels/starship_entertainment.md)       |
