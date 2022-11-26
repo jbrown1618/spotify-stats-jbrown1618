@@ -2,7 +2,7 @@
 # Léo Delibes
 
 
-<img src="https://i.scdn.co/image/6cd939c6558cf43a7988fb453c005a01da1d95a0" alt="Léo Delibes" width="100" />
+<img src="https://i.scdn.co/image/c12a6d385c87030706a0f36dd8798deb299c87a4" alt="Léo Delibes" width="100" />
 
 ## Featured on Playlists
 |   Number of Tracks | Art                                                                                                                                                                                                                         | Playlist                         |

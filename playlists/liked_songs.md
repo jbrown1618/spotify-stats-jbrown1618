@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1332 songs](liked_songs_tracks.md)
+[1337 songs](liked_songs_tracks.md)
 
 ## Top Artists
 
@@ -60,11 +60,13 @@
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="" width="50" /> | [EXO](../artists/exo.md)                                       | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | Hwa Sa                                                         | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5ebaad1353fe0343220b1331768" alt="" width="50" /> | SUPER JUNIOR                                                   | [🔗](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) |
+|                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | BIBI                                                           | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | CLC                                                            | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | [Dua Lipa](../artists/dua_lipa.md)                             | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 |                  6 | <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | The Who                                                        | [🔗](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) |
 |                  6 | <img src="https://i.scdn.co/image/68cfb061951dbd44c95422a54cb70baec0722ca3" alt="" width="50" /> | Joni Mitchell                                                  | [🔗](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb96d66c60658005885d1135ce" alt="" width="50" /> | Daft Punk                                                      | [🔗](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) |
+|                  6 | <img src="https://i.scdn.co/image/ab6761610000e5ebfb6c0b7b6918dca92be0ed75" alt="" width="50" /> | LE SSERAFIM                                                    | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bd65b0efee10bfa8328c33b" alt="" width="50" /> | NCT U                                                          | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb9954a1ab45b2404a7bff2a45" alt="" width="50" /> | OH MY GIRL                                                     | [🔗](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | PENTAGON                                                       | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
@@ -81,7 +83,6 @@
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb80584436e5726afb70cee7f8" alt="" width="50" /> | LOONA                                                          | [🔗](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | Coldplay                                                       | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc1dc943555dfa1ee2a107e5" alt="" width="50" /> | K/DA                                                           | [🔗](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v) |
-|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebfb6c0b7b6918dca92be0ed75" alt="" width="50" /> | LE SSERAFIM                                                    | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebd96a6a23facfaa2b364b1bdb" alt="" width="50" /> | League of Legends                                              | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | Michael Jackson                                                | [🔗](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="" width="50" /> | EVERGLOW                                                       | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
@@ -93,7 +94,6 @@
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | Nicki Minaj                                                    | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebfa980b99bc5f4d47b4253f82" alt="" width="50" /> | j-hope                                                         | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb288ac05481cedc5bddb5b11b" alt="" width="50" /> | Maroon 5                                                       | [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) |
-|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | BIBI                                                           | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb5b1a291b0a6a689091d54d8b" alt="" width="50" /> | IVE                                                            | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb767815f4876969e8f888f0db" alt="" width="50" /> | The Rose                                                       | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
 |                  4 | <img src="https://i.scdn.co/image/15b7ee7550ed4472700d573803ff90f2967f84d1" alt="" width="50" /> | A Fine Frenzy                                                  | [🔗](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) |
@@ -207,6 +207,7 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2732c214d5de552996f3dd74f17" alt="" width="50" /> | GUESS WHO                                   | [🔗](https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" alt="" width="50" /> | Future Nostalgia                            | [🔗](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273aea29200523b1ee4d5b2c035" alt="" width="50" /> | FOREVER 1 - The 7th Album                   | [🔗](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555" alt="" width="50" /> | FEARLESS                                    | [🔗](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="" width="50" /> | Ellipse                                     | [🔗](https://open.spotify.com/album/5AYKGPzPBJNHeKehCxMaq0) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273b33d46dfa2635a47eebf63b2" alt="" width="50" /> | Discovery                                   | [🔗](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2735f9393fda71e7df39b34defd" alt="" width="50" /> | Dangerous Woman                             | [🔗](https://open.spotify.com/album/3OZgEywV4krCZ814pTJWr7) |
@@ -225,7 +226,6 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="" width="50" /> | ALL OUT                                     | [🔗](https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | 4                                           | [🔗](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 28 Reasons - The 1st Mini Album             | [🔗](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="" width="50" /> | 1st Album [Dystopia : The Tree of Language] | [🔗](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) |
 
 </details>
 
@@ -249,8 +249,8 @@
 |                 46 | [Warner Records](../labels/warner_records.md)                                                                       |
 |                 42 | [RCA Records Label](../labels/rca_records_label.md)                                                                 |
 |                 41 | [Universal Music LLC](../labels/universal_music_llc.md)                                                             |
-|                 32 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                                                 |
-|                 29 | [Genie Music Corporation](../labels/genie_music_corporation.md)                                                     |
+|                 33 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                                                 |
+|                 32 | [Genie Music Corporation](../labels/genie_music_corporation.md)                                                     |
 |                 25 | [RBW Inc.](../labels/rbw_inc_.md)                                                                                   |
 |                 25 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                                                               |
 |                 25 | [BIGHIT MUSIC](../labels/bighit_music.md)                                                                           |
@@ -273,11 +273,11 @@
 |                 11 | [Capitol Records](../labels/capitol_records.md)                                                                     |
 |                 10 | [HYBE](../labels/hybe.md)                                                                                           |
 |                 10 | [Darkroom](../labels/darkroom.md)                                                                                   |
+|                  9 | [SOURCE MUSIC](../labels/source_music.md)                                                                           |
 |                  9 | [High Up Entertainment](../labels/high_up_entertainment.md)                                                         |
 |                  8 | [WM Entertainment](../labels/wm_entertainment.md)                                                                   |
 |                  8 | [The Unc - Chapel Hill Tarpeggios](../labels/the_unc___chapel_hill_tarpeggios.md)                                   |
 |                  8 | [Syco Music](../labels/syco_music.md)                                                                               |
-|                  8 | [SOURCE MUSIC](../labels/source_music.md)                                                                           |
 |                  8 | [Monkey Puzzle Records](../labels/monkey_puzzle_records.md)                                                         |
 |                  8 | [MYSTIC STORY](../labels/mystic_story.md)                                                                           |
 |                  8 | [MNH ENTERTAINMENT](../labels/mnh_entertainment.md)                                                                 |

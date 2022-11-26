@@ -17,7 +17,7 @@ Appears as:
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------|:------------------------------------------------------------|
 |                 39 | <img src="https://i.scdn.co/image/b5b05560a51b368cca8b3420e4e3536586720aa8" alt="" width="50" /> | [Barry Wordsworth](../artists/barry_wordsworth.md)     | [🔗](https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN) |
 |                 39 | <img src="https://i.scdn.co/image/ab6761610000e5ebb72368972071bd5422a86268" alt="" width="50" /> | [Orchestra Victoria](../artists/orchestra_victoria.md) | [🔗](https://open.spotify.com/artist/1bnC6eJzCumTgAB7tG1118) |
-|                 39 | <img src="https://i.scdn.co/image/6cd939c6558cf43a7988fb453c005a01da1d95a0" alt="" width="50" /> | [Léo Delibes](../artists/l_o_delibes.md)               | [🔗](https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT) |
+|                 39 | <img src="https://i.scdn.co/image/c12a6d385c87030706a0f36dd8798deb299c87a4" alt="" width="50" /> | [Léo Delibes](../artists/l_o_delibes.md)               | [🔗](https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT) |
 
 </details>
 

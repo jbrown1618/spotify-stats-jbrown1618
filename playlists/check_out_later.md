@@ -3,15 +3,15 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27312626c137c7684fe1662a4f3ab67616d0000b2732ced1760b648799e697e8e02ab67616d0000b273be123bb6b40736bf093870bdab67616d0000b273f919108974e4213d86b83805" alt="Check Out Later" width="100" />
 
-[34 songs](check_out_later_tracks.md)
+[35 songs](check_out_later_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 19 artists](../images/playlists/check_out_later/artists.png)
+![Bar chart of top 21 artists](../images/playlists/check_out_later/artists.png)
 
 
 <details>
-<summary>See all 19 artists</summary>
+<summary>See all 21 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                     | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------|:------------------------------------------------------------|
@@ -32,7 +32,9 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7ece2134de8809efcfdc9be7" alt="" width="50" /> | SHINee                                     | [🔗](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb02b3aa55ba238b2ceafb09da" alt="" width="50" /> | Jay Chou                                   | [🔗](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | [CHUNG HA](../artists/chung_ha.md)         | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb065608c797a38d142082fc8a" alt="" width="50" /> | Punch                                      | [🔗](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8a8415e72dedaa552259d0c1" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)     | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2d192f1d830db1eba64854fc" alt="" width="50" /> | Moon Byul                                  | [🔗](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3a6cd2bfd57fe54535d1fe03" alt="" width="50" /> | DinDin                                     | [🔗](https://open.spotify.com/artist/0ugLySQOBIlvWTodx22Wao) |
 
 </details>
@@ -40,11 +42,11 @@
 
 ## Top Albums
 
-![Bar chart of top 23 albums in](../images/playlists/check_out_later/albums.png)
+![Bar chart of top 24 albums in](../images/playlists/check_out_later/albums.png)
 
 
 <details>
-<summary>See all 23 albums</summary>
+<summary>See all 24 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                   | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------|:-----------------------------------------------------------|
@@ -53,6 +55,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="" width="50" /> | Mellon Collie And The Infinite Sadness (Deluxe Edition) | [🔗](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | I love                                                  | [🔗](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ead72e8dd961206f05079de7" alt="" width="50" /> | 오늘 조금 취해서 그래                                            | [🔗](https://open.spotify.com/album/6QpIl0FPITcpoJTn5HP4vD) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ced0ea9d74bb640863b2f61b" alt="" width="50" /> | 안부                                                      | [🔗](https://open.spotify.com/album/1ug4v28RlPr7U6ZsjoKuAJ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27329778e54aa437b78f3520b0e" alt="" width="50" /> | 몽중몽; Dream In A Dream - SM STATION                      | [🔗](https://open.spotify.com/album/0uPf4jcvMQow0FNkIOxHZF) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27357a6f5928952c277c4407f98" alt="" width="50" /> | love you more,                                          | [🔗](https://open.spotify.com/album/3g2OiEeQKfggUe6ViYeLSC) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27312626c137c7684fe1662a4f3" alt="" width="50" /> | Winter Special (feat. DinDin)                           | [🔗](https://open.spotify.com/album/5uHVoQ3iICRMjiWws80QhA) |
@@ -77,11 +80,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 15 record labels](../images/playlists/check_out_later/labels.png)
+![Bar chart of top 16 record labels](../images/playlists/check_out_later/labels.png)
 
 
 <details>
-<summary>See all 15 labels</summary>
+<summary>See all 16 labels</summary>
 
 |   Number of Tracks | Label                                                               |
 |-------------------:|:--------------------------------------------------------------------|
@@ -99,6 +102,7 @@
 |                  1 | [JVR](../labels/jvr.md)                                             |
 |                  1 | [GH Entertainment](../labels/gh_entertainment.md)                   |
 |                  1 | [Feel Ghood Music](../labels/feel_ghood_music.md)                   |
+|                  1 | [BEYOND MUSIC](../labels/beyond_music.md)                           |
 |                  1 | [Aer-born](../labels/aer_born.md)                                   |
 
 </details>
