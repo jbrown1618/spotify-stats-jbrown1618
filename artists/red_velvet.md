@@ -2,7 +2,7 @@
 # Red Velvet
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb8a8415e72dedaa552259d0c1" alt="Red Velvet" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="Red Velvet" width="100" />
 
 ## Featured on Playlists
 |   Number of Tracks | Art                                                                                                                                                                                                                         | Playlist                                           |

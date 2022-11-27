@@ -50,7 +50,7 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb24b5185226d5b7c6aa91db5a" alt="" width="50" /> | PSY                                                              | [🔗](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) |
 |                  1 | <img src="nan" alt="" width="50" />                                                              | Tobias Pfulb                                                     | [🔗](https://open.spotify.com/artist/2GD6gK1wj1cD8TFGe2BpJC) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27322070c61a7616392f04f070f" alt="" width="50" /> | Janet Perry                                                      | [🔗](https://open.spotify.com/artist/1bV3KjOPs1AI3OolJiYogN) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e41f73c8c901c6c33d727786" alt="" width="50" /> | Hanna Schwarz                                                    | [🔗](https://open.spotify.com/artist/0uzYuEP2MlAJ5FdVIYIalx) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731efcaf7e63e92d14912fc2e1" alt="" width="50" /> | Hanna Schwarz                                                    | [🔗](https://open.spotify.com/artist/0uzYuEP2MlAJ5FdVIYIalx) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273877b88f28b401581470add7b" alt="" width="50" /> | Christian Schulz                                                 | [🔗](https://open.spotify.com/artist/0sqQ1nXbUwTWglq8jWopvZ) |
 
 </details>

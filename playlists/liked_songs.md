@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1337 songs](liked_songs_tracks.md)
+[1339 songs](liked_songs_tracks.md)
 
 ## Top Artists
 
@@ -13,9 +13,9 @@
 |   Number of Tracks | Art                                                                                              | Artist                                                         | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------|:------------------------------------------------------------|
 |                 44 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../artists/sara_bareilles.md)                 | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
-|                 40 | <img src="https://i.scdn.co/image/ab6761610000e5eb8a8415e72dedaa552259d0c1" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)                         | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
+|                 40 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)                         | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 |                 34 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | [Taylor Swift](../artists/taylor_swift.md)                     | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
-|                 29 | <img src="https://i.scdn.co/image/ab6761610000e5ebd84fd6ae9ccfc6206ea6711e" alt="" width="50" /> | [TWICE](../artists/twice.md)                                   | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
+|                 30 | <img src="https://i.scdn.co/image/ab6761610000e5ebd84fd6ae9ccfc6206ea6711e" alt="" width="50" /> | [TWICE](../artists/twice.md)                                   | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 |                 27 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)                           | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 |                 23 | <img src="https://i.scdn.co/image/ab6761610000e5eb3e64e13dfb4fc3dc1a873b00" alt="" width="50" /> | [ITZY](../artists/itzy.md)                                     | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                 22 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" alt="" width="50" /> | [The Beatles](../artists/the_beatles.md)                       | [🔗](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) |
@@ -71,7 +71,7 @@
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb9954a1ab45b2404a7bff2a45" alt="" width="50" /> | OH MY GIRL                                                     | [🔗](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | PENTAGON                                                       | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c8ac3b2d8d886fbf3f0877a" alt="" width="50" /> | NCT DREAM                                                      | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
-|                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb6ee9f83106240222e4328db4" alt="" width="50" /> | WENDY                                                          | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
+|                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb59501d4e82c8cb6fc409044d" alt="" width="50" /> | WENDY                                                          | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb7401998434b12fffd119ae18" alt="" width="50" /> | [NCT 127](../artists/nct_127.md)                               | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
 |                  5 | <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | Simon & Garfunkel                                              | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb3ea2c03525939b482f8d3bfd" alt="" width="50" /> | Janelle Monáe                                                  | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
@@ -102,7 +102,7 @@
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebda5ab23361118f6474d68382" alt="" width="50" /> | Christopher                                                    | [🔗](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eba36a9f95d59ab791d5e897e9" alt="" width="50" /> | Regina Spektor                                                 | [🔗](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb24b5185226d5b7c6aa91db5a" alt="" width="50" /> | PSY                                                            | [🔗](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) |
-|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb26e3996e1a02077ef320026d" alt="" width="50" /> | SEULGI                                                         | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
+|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebfe2339c232c5a840fc527402" alt="" width="50" /> | SEULGI                                                         | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb6ff45cd874b8d6ded27a4b35" alt="" width="50" /> | NMIXX                                                          | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e7e6ded87a4e0f65b5afcec" alt="" width="50" /> | Britney Spears                                                 | [🔗](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb271110d977700b69d9548993" alt="" width="50" /> | EXID                                                           | [🔗](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) |
@@ -219,13 +219,13 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="" width="50" /> | Beatrix Runs                                | [🔗](https://open.spotify.com/album/7HsPaYQbCYnxosF5WiSlEA) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6096741dcf413354a59554" alt="" width="50" /> | BORDER : DAY ONE                            | [🔗](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | BORDER : CARNIVAL                           | [🔗](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | BETWEEN 1&2                                 | [🔗](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="" width="50" /> | BE                                          | [🔗](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="" width="50" /> | BABYMETAL                                   | [🔗](https://open.spotify.com/album/6Eepi724OOt38pTaUrZErI) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273028c3bb4b81ee71dd73d1596" alt="" width="50" /> | An Awesome Wave                             | [🔗](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="" width="50" /> | ANTIFRAGILE                                 | [🔗](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="" width="50" /> | ALL OUT                                     | [🔗](https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | 4                                           | [🔗](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 28 Reasons - The 1st Mini Album             | [🔗](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) |
 
 </details>
 
@@ -241,7 +241,7 @@
 |   Number of Tracks | Label                                                                                                               |
 |-------------------:|:--------------------------------------------------------------------------------------------------------------------|
 |                143 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
-|                 68 | [Republic Records](../labels/republic_records.md)                                                                   |
+|                 69 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 61 | [Epic](../labels/epic.md)                                                                                           |
 |                 55 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
 |                 54 | [Columbia](../labels/columbia.md)                                                                                   |

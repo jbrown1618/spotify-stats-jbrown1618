@@ -10,6 +10,7 @@
 |                 26 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273f7da7c0f322b7a1c95190d92" alt="" width="50" /> | [K-Pop](../playlists/k_pop.md)                     |
 |                  9 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b273714e56679ab196354e2e443eab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738c4a282e84a53c1c8acf129a" alt="" width="50" /> | [K-Pop Favorites](../playlists/k_pop_favorites.md) |
 |                  1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | [K-Pop 101](../playlists/k_pop_101.md)             |
+|                  1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27312626c137c7684fe1662a4f3ab67616d0000b2732ced1760b648799e697e8e02ab67616d0000b273be123bb6b40736bf093870bdab67616d0000b273f919108974e4213d86b83805" alt="" width="50" /> | [Check Out Later](../playlists/check_out_later.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album                   | 🔗                                                          |
@@ -28,18 +29,20 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dcca2fa0944779dcf8e97222" alt="" width="50" /> | Love poem               | [🔗](https://open.spotify.com/album/5JadtZ710Yj8RSLNbSvDqo) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1bb22f3ae0fe8b97bda6931" alt="" width="50" /> | Lost and Found          | [🔗](https://open.spotify.com/album/5CqhdN6fFBPN5JcNiU1uyF) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738c0defcb336a0296eb7d704a" alt="" width="50" /> | GANADARA                | [🔗](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d8c952b4b7e3d72267edc537" alt="" width="50" /> | Cat                     | [🔗](https://open.spotify.com/album/3b8iQhtbLD0Vn4EqQzMC3N) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1d785640d9421ec17ea8fe6" alt="" width="50" /> | BBIBBI                  | [🔗](https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f8ac90d6852487a82df1b443" alt="" width="50" /> | A flower bookmark       | [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) |
 
 ## Top Record Labels
 
-|   Number of Tracks | Label                                                   |
-|-------------------:|:--------------------------------------------------------|
-|                 13 | [Kakao Entertainment](../labels/kakao_entertainment.md) |
-|                  7 | [EDAM Entertainment](../labels/edam_entertainment.md)   |
-|                  4 | [Fave Entertainment](../labels/fave_entertainment.md)   |
-|                  1 | [YG Entertainment](../labels/yg_entertainment.md)       |
-|                  1 | [MORE VISION](../labels/more_vision.md)                 |
+|   Number of Tracks | Label                                                         |
+|-------------------:|:--------------------------------------------------------------|
+|                 13 | [Kakao Entertainment](../labels/kakao_entertainment.md)       |
+|                  7 | [EDAM Entertainment](../labels/edam_entertainment.md)         |
+|                  4 | [Fave Entertainment](../labels/fave_entertainment.md)         |
+|                  1 | [YG Entertainment](../labels/yg_entertainment.md)             |
+|                  1 | [MORE VISION](../labels/more_vision.md)                       |
+|                  1 | [MAGIC STRAWBERRY SOUND](../labels/magic_strawberry_sound.md) |
 
 ## Tracks
 
@@ -71,3 +74,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | My sea                         | IU 5th Album 'LILAC'    | [IU](iu.md)                | EDAM Entertainment                                      | 💚   | [🔗](https://open.spotify.com/track/46wDG6evLn2iPoQ0F8CUWk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d378c4756c4fc34b7d3eeaf" alt="" width="50" /> | Winter Sleep                   | Pieces                  | [IU](iu.md)                | EDAM Entertainment                                      | 💚   | [🔗](https://open.spotify.com/track/2y4hHM6c48Qzk0bqh33XfB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c0defcb336a0296eb7d704a" alt="" width="50" /> | GANADARA (Feat. IU)            | GANADARA                | Jay Park, [IU](iu.md)      | MORE VISION                                             | 💚   | [🔗](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8c952b4b7e3d72267edc537" alt="" width="50" /> | Cat (Feat. IU)                 | Cat                     | Sunwoojunga, [IU](iu.md)   | Magic Strawberry Sound                                  |     | [🔗](https://open.spotify.com/track/3LAnd3nxfVjYsNG14xuM7x) |
