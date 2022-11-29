@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1339 songs](liked_songs_tracks.md)
+[1340 songs](liked_songs_tracks.md)
 
 ## Top Artists
 

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273f7da7c0f322b7a1c95190d92" alt="K-Pop" width="100" />
 
-[886 songs](k_pop_tracks.md)
+[887 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -310,6 +310,7 @@
 |                  2 | [Million Market](../labels/million_market.md)                                                                       |
 |                  2 | [JELLYFISH ENTERTAINMENT](../labels/jellyfish_entertainment.md)                                                     |
 |                  2 | [FNC인베스트먼트](../labels/fnc______.md)                                                                                 |
+|                  2 | [FLEX M](../labels/flex_m.md)                                                                                       |
 |                  2 | [Capitol Records](../labels/capitol_records.md)                                                                     |
 |                  2 | [ATISPAUS](../labels/atispaus.md)                                                                                   |
 |                  2 | [(주)블렌딩](../labels/______.md)                                                                                       |
@@ -342,7 +343,6 @@
 |                  1 | [TOON STUDIO](../labels/toon_studio.md)                                                                             |
 |                  1 | [Starship Ent.](../labels/starship_ent_.md)                                                                         |
 |                  1 | [Sony Music Entertainment](../labels/sony_music_entertainment.md)                                                   |
-|                  1 | [Silent Records](../labels/silent_records.md)                                                                       |
 
 </details>
 

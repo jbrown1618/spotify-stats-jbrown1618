@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27312626c137c7684fe1662a4f3ab67616d0000b2732ced1760b648799e697e8e02ab67616d0000b273be123bb6b40736bf093870bdab67616d0000b273f919108974e4213d86b83805" alt="Check Out Later" width="100" />
 
-[38 songs](check_out_later_tracks.md)
+[43 songs](check_out_later_tracks.md)
 
 ## Top Artists
 
@@ -16,6 +16,7 @@
 |   Number of Tracks | Art                                                                                              | Artist                                     | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------|:------------------------------------------------------------|
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | [Taylor Swift](../artists/taylor_swift.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
+|                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)     | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eba3c1fca063ed673aed61c885" alt="" width="50" /> | YOUHA                                      | [🔗](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb859ec6575be3cfe1a86b2cb0" alt="" width="50" /> | Sunwoojunga                                | [🔗](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b13da5a8a3dd6e0d53ff764" alt="" width="50" /> | Red Velvet - IRENE & SEULGI                | [🔗](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) |
@@ -35,7 +36,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb02b3aa55ba238b2ceafb09da" alt="" width="50" /> | Jay Chou                                   | [🔗](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | [CHUNG HA](../artists/chung_ha.md)         | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb065608c797a38d142082fc8a" alt="" width="50" /> | Punch                                      | [🔗](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)     | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2d192f1d830db1eba64854fc" alt="" width="50" /> | Moon Byul                                  | [🔗](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3a6cd2bfd57fe54535d1fe03" alt="" width="50" /> | DinDin                                     | [🔗](https://open.spotify.com/artist/0ugLySQOBIlvWTodx22Wao) |
 
@@ -44,15 +44,16 @@
 
 ## Top Albums
 
-![Bar chart of top 27 albums in](../images/playlists/check_out_later/albums.png)
+![Bar chart of top 28 albums in](../images/playlists/check_out_later/albums.png)
 
 
 <details>
-<summary>See all 27 albums</summary>
+<summary>See all 28 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                             | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:------------------------------------------------------------------|:-----------------------------------------------------------|
 |                  9 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Midnights                                                         | [🔗](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273d2ef237da7f94762997c2083" alt="" width="50" /> | ‘The ReVe Festival 2022 - Birthday’                               | [🔗](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f919108974e4213d86b83805" alt="" width="50" /> | Monster - The 1st Mini Album                                      | [🔗](https://open.spotify.com/album/4DFheSBXhfewjz7SSe4Kyc) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="" width="50" /> | Mellon Collie And The Infinite Sadness (Deluxe Edition)           | [🔗](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | I love                                                            | [🔗](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) |
@@ -93,8 +94,8 @@
 
 |   Number of Tracks | Label                                                               |
 |-------------------:|:--------------------------------------------------------------------|
+|                 12 | [SM Entertainment](../labels/sm_entertainment.md)                   |
 |                  9 | [Taylor Swift](../labels/taylor_swift.md)                           |
-|                  7 | [SM Entertainment](../labels/sm_entertainment.md)                   |
 |                  5 | [Universal Music LLC](../labels/universal_music_llc.md)             |
 |                  2 | [Virgin Records](../labels/virgin_records.md)                       |
 |                  2 | [MAGIC STRAWBERRY SOUND](../labels/magic_strawberry_sound.md)       |
