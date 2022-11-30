@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2732433cb43f0f2f0f23b7c8b82ab67616d0000b2734ccc03169b086af698178a99ab67616d0000b2735e3e23be9bdc38cb4767be97ab67616d0000b2739922157daa474131bb3a0fbc" alt="International Pop" width="100" />
 
-[93 songs](international_pop_tracks.md)
+[94 songs](international_pop_tracks.md)
 
 ## Top Artists
 
@@ -11,7 +11,7 @@
 
 
 <details>
-<summary>See all 100 artists</summary>
+<summary>See top 100 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                             | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------|:------------------------------------------------------------|
@@ -32,6 +32,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27373fbad4f0963b52586054816" alt="" width="50" /> | הפשוטע                             | [🔗](https://open.spotify.com/artist/7m92aMieltH5ZpodCEHfnb) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd7bb678bef6d2f26110cae49" alt="" width="50" /> | ROSALÍA                            | [🔗](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd3fe0faaa883ca953266afe9" alt="" width="50" /> | Hikaru Utada                       | [🔗](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4900a06db4e96dd1444300d4" alt="" width="50" /> | ONE OK ROCK                        | [🔗](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe20d1e9d7eb5b59dd2586997" alt="" width="50" /> | Aitana                             | [🔗](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738d6686937b604899a9347550" alt="" width="50" /> | mothy                              | [🔗](https://open.spotify.com/artist/7LOYTIZlvOwx83g2iBL3eM) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8fd9afcc6a730d21e205a694" alt="" width="50" /> | ANNA                               | [🔗](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) |
@@ -114,7 +115,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc26980c202f33cba1a327306" alt="" width="50" /> | Tani Yuuki                         | [🔗](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735a36251d7041e99d024c523a" alt="" width="50" /> | Lu-Ni                              | [🔗](https://open.spotify.com/artist/0AythHu8oDXnRGp8qviBPj) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb3b6587b2046007bc1d18d9c" alt="" width="50" /> | Rendy Pandugo                      | [🔗](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb83fb533deff1773f1c4a2fbd" alt="" width="50" /> | Ling tosite sigure                 | [🔗](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) |
 
 </details>
 
@@ -125,7 +125,7 @@
 
 
 <details>
-<summary>See all 86 albums</summary>
+<summary>See all 87 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                                                               | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -181,6 +181,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27359c2f8304319dcd03eb4ead7" alt="" width="50" /> | PINK BLOOD                                                                                          | [🔗](https://open.spotify.com/album/4eQs3mcSejRAVTWmaYXNYl) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737c89c4758b84b698f1598821" alt="" width="50" /> | Non mi avete fatto niente                                                                           | [🔗](https://open.spotify.com/album/3Qs5bBmUVXpZBcEkw4uxJ8) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27348cbdef454b5636ee5ebeb34" alt="" width="50" /> | No title-                                                                                           | [🔗](https://open.spotify.com/album/5qPZrSLh2oecfujdUZqgmy) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733e4b149dd3110f1432bfeca0" alt="" width="50" /> | Niche Syndrome                                                                                      | [🔗](https://open.spotify.com/album/4OKBuE9F8MTCV7nnsBRcsK) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27314b31a0ac21c8645919204a8" alt="" width="50" /> | Ne reviens pas                                                                                      | [🔗](https://open.spotify.com/album/0w6UtV9Rd14AqjqcwD3j3l) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d03049930583aecb52977265" alt="" width="50" /> | Miku                                                                                                | [🔗](https://open.spotify.com/album/45jD7ltxM60Arhm5FWF49p) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f6b93cc89e67d749ec3013ee" alt="" width="50" /> | Mercy                                                                                               | [🔗](https://open.spotify.com/album/1uuuqBmA5Xklb3htp7Akke) |
@@ -225,7 +226,7 @@
 
 
 <details>
-<summary>See all 63 labels</summary>
+<summary>See all 64 labels</summary>
 
 |   Number of Tracks | Label                                                                                                                       |
 |-------------------:|:----------------------------------------------------------------------------------------------------------------------------|
@@ -291,6 +292,7 @@
 |                  1 | [El Cartel Records (EC3)](../labels/el_cartel_records__ec3_.md)                                                             |
 |                  1 | [Echame La Culpa PS](../labels/echame_la_culpa_ps.md)                                                                       |
 |                  1 | [Angèle VL Records](../labels/ang_le_vl_records.md)                                                                         |
+|                  1 | [Aer-born](../labels/aer_born.md)                                                                                           |
 |                  1 | [2022 Z.I. Productions BY PIL LTD](../labels/2022_z_i__productions_by_pil_ltd.md)                                           |
 
 </details>
