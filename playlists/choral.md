@@ -69,6 +69,8 @@
 </details>
 
 
+![Comparison of Artist](../images/choral/artists_comparison.png)
+
 ## Top Albums
 
 ![Bar chart of top 15 albums in](../images/playlists/choral/albums.png)
@@ -124,3 +126,96 @@
 
 </details>
 
+
+## Audio Features
+
+| 10 most Danceable tracks                                                 | 10 least Danceable tracks                                               |
+|:-------------------------------------------------------------------------|:------------------------------------------------------------------------|
+| 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est  | Vespers, Op. 37: XIV. "Voskrez iz groba"                                |
+| Requiem In D Minor, K.626: 2. Kyrie                                      | Vespers, Op. 37: IV. "Svete tikhyi"                                     |
+| Requiem in D Minor, K.626: 3a. Sequientia: Dies irae                     | 4 Motets pour un temps de pénitence, FP 97: No. 3, Tenebrae factae sunt |
+| Requiem In D Minor, K.626: 4. Offertorium: Domine Jesu                   | Vespers, Op. 37: V. "Nyne otpushchayeshi"                               |
+| 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores    | Lux Aurumque                                                            |
+| Requiem In D Minor, K.626: 3. Sequentia: Rex tremendae                   | Three Songs Of Faith: Hope Faith Life Love                              |
+| 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea | Requiem In D Minor, K.626: 7. Agnus Dei                                 |
+| Loch Lomond                                                              | Requiem in D Minor, Op.48: 2. Offertorium: Domine Jesu Christe          |
+| Vespers, Op. 37: VIII. "Kvalite imya Gospodne"                           | Vespers, Op. 37: XII. "Slava v vyshnikh Bogu"                           |
+| Scarborough Fair                                                         | Ave Maria (Franz Biebl)                                                 |
+
+| 10 most Energetic tracks                                                | 10 least Energetic tracks                                         |
+|:------------------------------------------------------------------------|:------------------------------------------------------------------|
+| Requiem in D Minor, K.626: 3a. Sequientia: Dies irae                    | Requiem in D Minor, Op.48: 1. Introitus: Requiem aeternam - Kyrie |
+| Vespers, Op. 37: XV. "Vzbrannoy voevode"                                | Hear my prayer, O Lord                                            |
+| Requiem In D Minor, K.626: 5. Sanctus                                   | Vespers, Op. 37: V. "Nyne otpushchayeshi"                         |
+| Requiem In D Minor, K.626: 2. Kyrie                                     | The Seal Lullaby                                                  |
+| Vespers, Op. 37: VIII. "Kvalite imya Gospodne"                          | Miserere mei, Deus                                                |
+| Requiem In D Minor, K.626: 8.Communio: Lux aeterna                      | Requiem in D Minor, Op.48: 7. In paradisum                        |
+| 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est | Requiem In D Minor, K.626: 3. Sequentia: Confutatis               |
+| Requiem In D Minor, K.626: 4. Offertorium: Domine Jesu                  | Vespers, Op. 37: III. "Blazhen muzh"                              |
+| Requiem In D Minor, K.626: 3. Sequentia: Rex tremendae                  | Requiem in D Minor, Op. 48: 4. Pie Jesu                           |
+| 4 Motets pour un temps de pénitence, FP 97: No. 1, Timor et tremor      | Quatre Motets: Ubi Caritas                                        |
+
+| 10 most Speechy tracks                                                   | 10 least Speechy tracks                                |
+|:-------------------------------------------------------------------------|:-------------------------------------------------------|
+| 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea | Scarborough Fair                                       |
+| Greensleeves                                                             | Requiem In D Minor, K.626: 1. Introitus: Requiem       |
+| 4 Motets pour le temps de Noël, FP 152: No. 3, Videntes stellam          | Vespers, Op. 37: III. "Blazhen muzh"                   |
+| Vespers, Op. 37: XII. "Slava v vyshnikh Bogu"                            | Requiem in D Minor, K.626: 3a. Sequientia: Dies irae   |
+| Lux Aurumque                                                             | Requiem In D Minor, K.626: 8.Communio: Lux aeterna     |
+| 9 Sacred Pieces, TH 78: No. 1, Cherubic Hymn No. 1                       | Requiem In D Minor, K.626: 4. Offertorium: Hostias     |
+| Vespers, Op. 37: II. "Blagoslovi dushe moya"                             | Requiem In D Minor, K.626: 3. Sequentia: Rex tremendae |
+| Vespers, Op. 37: XI. "Velichit dusha moya Gospoda"                       | Requiem In D Minor, K.626: 2. Kyrie                    |
+| Requiem In D Minor, K.626: 3. Sequentia: Tuba mirum                      | Requiem In D Minor, K.626: 5. Sanctus                  |
+| Loch Lomond                                                              | Requiem In D Minor, K.626: 4. Offertorium: Domine Jesu |
+
+| 10 most Acoustic tracks                                                 | 10 least Acoustic tracks                                       |
+|:------------------------------------------------------------------------|:---------------------------------------------------------------|
+| Vespers, Op. 37: XV. "Vzbrannoy voevode"                                | Greensleeves                                                   |
+| 4 Motets pour un temps de pénitence, FP 97: No. 2, Vinea mea electa     | Requiem In D Minor, K.626: 3. Sequentia: Rex tremendae         |
+| Vespers, Op. 37: VIII. "Kvalite imya Gospodne"                          | Requiem in D Minor, Op.48: 2. Offertorium: Domine Jesu Christe |
+| 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est | Requiem in D Minor, Op.48: 3. Sanctus                          |
+| Vespers, Op. 37: I. "Priidite, poklonimsya"                             | Loch Lomond                                                    |
+| 4 Motets pour un temps de pénitence, FP 97: No. 1, Timor et tremor      | Danny Boy                                                      |
+| 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores   | Scarborough Fair                                               |
+| 9 Sacred Pieces, TH 78: No. 3, Cherubic Hymn No. 3                      | Requiem in D Minor, K.626: 3a. Sequientia: Dies irae           |
+| 4 Motets pour le temps de Noël, FP 152: No. 3, Videntes stellam         | Requiem In D Minor, K.626: 5. Sanctus                          |
+| Alleluia                                                                | Ave Maria (Franz Biebl)                                        |
+
+| 10 most Instrumental tracks                                       | 10 least Instrumental tracks                                            |
+|:------------------------------------------------------------------|:------------------------------------------------------------------------|
+| Vespers, Op. 37: XIV. "Voskrez iz groba"                          | Miserere                                                                |
+| Vespers, Op. 37: VI. "Bogoroditse Devo"                           | 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores   |
+| Requiem in D Minor, Op.48: 7. In paradisum                        | Requiem In D Minor, K.626: 6. Benedictus                                |
+| Lux Aurumque                                                      | Quatre Motets: Ubi Caritas                                              |
+| Requiem in D Minor, Op.48: 3. Sanctus                             | Requiem In D Minor, K.626: 3. Sequentia: Tuba mirum                     |
+| Requiem In D Minor, K.626: 3. Sequentia: Confutatis               | Requiem In D Minor, K.626: 3. Sequentia: Recordare                      |
+| Requiem in D Minor, Op. 48: 4. Pie Jesu                           | 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est |
+| Requiem in D Minor, Op.48: 1. Introitus: Requiem aeternam - Kyrie | Scarborough Fair                                                        |
+| Requiem In D Minor, K.626: 7. Agnus Dei                           | Loch Lomond                                                             |
+| Vespers, Op. 37: IV. "Svete tikhyi"                               | Danny Boy                                                               |
+
+| 10 most Live tracks                                                   | 10 least Live tracks                               |
+|:----------------------------------------------------------------------|:---------------------------------------------------|
+| Requiem In D Minor, K.626: 3. Sequentia: Recordare                    | Alleluia                                           |
+| Requiem in D Minor, K.626: 3a. Sequientia: Dies irae                  | Vespers, Op. 37: I. "Priidite, poklonimsya"        |
+| Leonardo Dreams Of His Flying Machine                                 | Requiem In D Minor, K.626: 8.Communio: Lux aeterna |
+| 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores | 9 Sacred Pieces, TH 78: No. 3, Cherubic Hymn No. 3 |
+| Sleep                                                                 | Vespers, Op. 37: XII. "Slava v vyshnikh Bogu"      |
+| Three Songs Of Faith: I Will Wade Out                                 | Vespers, Op. 37: II. "Blagoslovi dushe moya"       |
+| Requiem In D Minor, K.626: 4. Offertorium: Hostias                    | Unicornis Captivatur                               |
+| Requiem In D Minor, K.626: 4. Offertorium: Domine Jesu                | 9 Sacred Pieces, TH 78: No. 2, Cherubic Hymn No. 2 |
+| Vespers, Op. 37: XIII. "Dnes spaseniye"                               | Ave María, WAB 6                                   |
+| Danny Boy                                                             | Requiem in D Minor, Op.48: 7. In paradisum         |
+
+| 10 most Happy tracks                                                    | 10 least Happy tracks                                             |
+|:------------------------------------------------------------------------|:------------------------------------------------------------------|
+| Requiem in D Minor, K.626: 3a. Sequientia: Dies irae                    | Ave María, WAB 6                                                  |
+| Requiem In D Minor, K.626: 2. Kyrie                                     | Vespers, Op. 37: IV. "Svete tikhyi"                               |
+| 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est | Requiem in D Minor, Op. 48: 4. Pie Jesu                           |
+| 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores   | Requiem in D Minor, Op.48: 1. Introitus: Requiem aeternam - Kyrie |
+| Scarborough Fair                                                        | Water Night                                                       |
+| Requiem In D Minor, K.626: 3. Sequentia: Rex tremendae                  | Three Songs Of Faith: I Thank You God For Most This Amazing Day   |
+| Requiem In D Minor, K.626: 4. Offertorium: Domine Jesu                  | Sleep                                                             |
+| Requiem In D Minor, K.626: 5. Sanctus                                   | Miserere mei, Deus                                                |
+| Requiem In D Minor, K.626: 6. Benedictus                                | Three Songs Of Faith: Hope Faith Life Love                        |
+| Greensleeves                                                            | Lux Aurumque                                                      |

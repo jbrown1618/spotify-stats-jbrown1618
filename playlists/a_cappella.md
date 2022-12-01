@@ -116,6 +116,8 @@
 </details>
 
 
+![Comparison of Artist](../images/a_cappella/artists_comparison.png)
+
 ## Top Albums
 
 ![Bar chart of top 30 albums in](../images/playlists/a_cappella/albums.png)
@@ -280,3 +282,96 @@
 
 </details>
 
+
+## Audio Features
+
+| 10 most Danceable tracks       | 10 least Danceable tracks   |
+|:-------------------------------|:----------------------------|
+| Uptown Funk                    | Amazing Grace               |
+| Problem                        | Bluebird                    |
+| La Camisa Negra                | The End (Interlude)         |
+| Rather Be (Clean Bandit Cover) | The Water is Wide           |
+| Settle Down                    | Greensleeves                |
+| Sexyback                       | The Music of the Night      |
+| Toxic                          | Arwen's Song                |
+| Finesse                        | Ave Maria                   |
+| bad guy                        | Bring Him Home              |
+| The Fox                        | Gollum's Song               |
+
+| 10 most Energetic tracks   | 10 least Energetic tracks                              |
+|:---------------------------|:-------------------------------------------------------|
+| Smooth Criminal            | All I Ask of You                                       |
+| Misery Business            | Run to You                                             |
+| No Tears Left to Cry       | How Great Thou Art                                     |
+| Don't Stop Me Now          | Woods                                                  |
+| Elastic Heart              | Fly Away - Intro                                       |
+| Russian Roulette           | Lullabye (Goodnight My Angel)                          |
+| Candyman                   | Shenandoah - Arr. Bob Chilcott                         |
+| Valerie                    | You Are My Sunshine                                    |
+| Finesse                    | And So It Goes                                         |
+| Telephone                  | Largo [Harpsichord Concerto No. 5 in F minor BWV 1056] |
+
+| 10 most Speechy tracks        | 10 least Speechy tracks   |
+|:------------------------------|:--------------------------|
+| Hey Momma / Hit the Road Jack | Demons                    |
+| bad guy                       | Loch Lomond               |
+| Hobbit Drinking Medley        | We All Need Saving        |
+| Bang Bang                     | The Sound of Silence      |
+| Uptown Funk                   | Fields of Gold            |
+| Don't Stop Me Now             | The Scientist             |
+| Candyman                      | Machine Gun               |
+| Hamilton Medley               | Chariot                   |
+| I'd Like To                   | Samson                    |
+| Cry Me a River                | We Found Love             |
+
+| 10 most Acoustic tracks                                | 10 least Acoustic tracks   |
+|:-------------------------------------------------------|:---------------------------|
+| Ave Maria                                              | Wrecking Ball              |
+| Lullabye (Goodnight My Angel)                          | Problem                    |
+| Shenandoah - Arr. Bob Chilcott                         | We Are Young               |
+| Amazing Grace                                          | Starships                  |
+| Bring Him Home                                         | Talk Dirty                 |
+| All I Ask of You                                       | Chandelier                 |
+| Lullabye (Goodnight My Angel)                          | Domino                     |
+| Walking in the Air                                     | The Baddest Girl           |
+| Largo [Harpsichord Concerto No. 5 in F minor BWV 1056] | Daft Punk                  |
+| Demons                                                 | I Need Your Love           |
+
+| 10 most Instrumental tracks    | 10 least Instrumental tracks                |
+|:-------------------------------|:--------------------------------------------|
+| Prelude No.1 in C Major        | Work Song                                   |
+| Libertango                     | Hamilton Medley                             |
+| Eine kleine Nachtmusik         | Put Your Records On                         |
+| You Take My Breath Away        | If I Ever Fall In Love (feat. Jason Derulo) |
+| Lullabye (Goodnight My Angel)  | Poor Wayfaring Stranger                     |
+| Dance of the Sugar Plum Fairy  | If I Ain't Got You                          |
+| Here (In Your Arms)            | Sanctify                                    |
+| Falling Slowly                 | The Baddest Girl                            |
+| Shenandoah - Arr. Bob Chilcott | G Train                                     |
+| Ave Maria                      | Viva La Vida                                |
+
+| 10 most Live tracks   | 10 least Live tracks                               |
+|:----------------------|:---------------------------------------------------|
+| Brand New Jones       | Papaoutai (Stromae Cover) (feat. Lindsey Stirling) |
+| XS                    | I Knew You Were Trouble                            |
+| I'd Like To           | Lost in Japan                                      |
+| Sound Of Silence      | Finesse                                            |
+| Smooth                | Russian Roulette                                   |
+| Talk Dirty            | Africa                                             |
+| Starships             | Blank Space                                        |
+| Disturbia             | Bang Bang                                          |
+| Bei Mir Bist Du Schön | Paranoid Android                                   |
+| Havana                | Settle Down                                        |
+
+| 10 most Happy tracks   | 10 least Happy tracks          |
+|:-----------------------|:-------------------------------|
+| Big Yellow Taxi        | The Music of the Night         |
+| I Want You Back        | Ave Maria                      |
+| Attention              | The Sound of Silence           |
+| Finesse                | Arwen's Song                   |
+| Na Na Na               | You Are My Sunshine            |
+| Domino                 | Bring Him Home                 |
+| Smooth                 | Skinny Love                    |
+| The Fox                | You Take My Breath Away        |
+| Toxic                  | Gollum's Song                  |
+| I'd Like To            | Shenandoah - Arr. Bob Chilcott |

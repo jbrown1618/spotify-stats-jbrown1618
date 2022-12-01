@@ -24,6 +24,8 @@
 </details>
 
 
+![Comparison of Artist](../images/rachmaninov/artists_comparison.png)
+
 ## Top Albums
 
 ![Bar chart of top 2 albums in](../images/playlists/rachmaninov/albums.png)
@@ -55,3 +57,96 @@
 
 </details>
 
+
+## Audio Features
+
+| 10 most Danceable tracks                                      | 10 least Danceable tracks                                    |
+|:--------------------------------------------------------------|:-------------------------------------------------------------|
+| 13 Preludes, Op. 32: No. 3 in E Major: Allegro vivace         | 10 Preludes, Op. 23: No. 7 in C Minor: Allegro               |
+| 13 Preludes, Op. 32: No. 8 in A Minor: Vivo                   | 13 Preludes, Op. 32: No. 13 in D-Flat Major: Grave - Allegro |
+| Morceaux de fantaisie, Op. 3: No. 2, Prelude in C-Sharp Minor | 13 Preludes, Op. 32: No. 2 in B-Flat Minor: Allegretto       |
+| 10 Preludes, Op. 23: No. 10 in G-Flat Major: Largo            | 10 Preludes, Op. 23: No. 4 in D Major: Andante cantabile     |
+| 13 Preludes, Op. 32: No. 11 in B Major: Allegretto            | 13 Preludes, Op. 32: No. 5 in G Major: Moderato              |
+| 10 Preludes, Op. 23: No. 5 in G Minor: Alla marcia            | 13 Preludes, Op. 32: No. 7 in F Major: Moderato              |
+| 10 Preludes, Op. 23: No. 6 in E-Flat Major: Andante           | 10 Preludes, Op. 23: No. 2 in B-Flat Major: Maestoso         |
+| 10 Preludes, Op. 23: No. 1 in F-Sharp Minor: Largo            | Piano Concerto No. 2 in C Minor, Op. 18: 2. Adagio sostenuto |
+| 10 Preludes, Op. 23: No. 3 in D Minor: Tempo di minuetto      | 10 Preludes, Op. 23: No. 8 in A-Flat Major: Allegro vivace   |
+| 13 Preludes, Op. 32: No. 1 in C Major: Allegro vivace         | Piano Concerto No. 2 in C Minor, Op. 18: 1. Moderato         |
+
+| 10 most Energetic tracks                                       | 10 least Energetic tracks                                |
+|:---------------------------------------------------------------|:---------------------------------------------------------|
+| 10 Preludes, Op. 23: No. 2 in B-Flat Major: Maestoso           | 10 Preludes, Op. 23: No. 3 in D Minor: Tempo di minuetto |
+| 13 Preludes, Op. 32: No. 3 in E Major: Allegro vivace          | 13 Preludes, Op. 32: No. 10 in B Minor: Lento            |
+| 13 Preludes, Op. 32: No. 1 in C Major: Allegro vivace          | 13 Preludes, Op. 32: No. 2 in B-Flat Minor: Allegretto   |
+| 13 Preludes, Op. 32: No. 8 in A Minor: Vivo                    | 10 Preludes, Op. 23: No. 6 in E-Flat Major: Andante      |
+| 10 Preludes, Op. 23: No. 5 in G Minor: Alla marcia             | 10 Preludes, Op. 23: No. 4 in D Major: Andante cantabile |
+| 10 Preludes, Op. 23: No. 9 in E-Flat Minor: Presto             | 13 Preludes, Op. 32: No. 11 in B Major: Allegretto       |
+| Piano Concerto No. 2 in C Minor, Op. 18: 3. Allegro scherzando | 10 Preludes, Op. 23: No. 1 in F-Sharp Minor: Largo       |
+| 13 Preludes, Op. 32: No. 4 in E Minor: Allegro con brio        | 13 Preludes, Op. 32: No. 7 in F Major: Moderato          |
+| 13 Preludes, Op. 32: No. 13 in D-Flat Major: Grave - Allegro   | 13 Preludes, Op. 32: No. 5 in G Major: Moderato          |
+| 13 Preludes, Op. 32: No. 6 in F Minor: Allegro appassionato    | 10 Preludes, Op. 23: No. 10 in G-Flat Major: Largo       |
+
+| 10 most Speechy tracks                                        | 10 least Speechy tracks                                        |
+|:--------------------------------------------------------------|:---------------------------------------------------------------|
+| 10 Preludes, Op. 23: No. 1 in F-Sharp Minor: Largo            | 13 Preludes, Op. 32: No. 3 in E Major: Allegro vivace          |
+| Morceaux de fantaisie, Op. 3: No. 2, Prelude in C-Sharp Minor | 13 Preludes, Op. 32: No. 2 in B-Flat Minor: Allegretto         |
+| 13 Preludes, Op. 32: No. 11 in B Major: Allegretto            | 10 Preludes, Op. 23: No. 5 in G Minor: Alla marcia             |
+| 13 Preludes, Op. 32: No. 10 in B Minor: Lento                 | 13 Preludes, Op. 32: No. 1 in C Major: Allegro vivace          |
+| 13 Preludes, Op. 32: No. 13 in D-Flat Major: Grave - Allegro  | 10 Preludes, Op. 23: No. 3 in D Minor: Tempo di minuetto       |
+| 10 Preludes, Op. 23: No. 10 in G-Flat Major: Largo            | Piano Concerto No. 2 in C Minor, Op. 18: 3. Allegro scherzando |
+| 13 Preludes, Op. 32: No. 8 in A Minor: Vivo                   | 10 Preludes, Op. 23: No. 6 in E-Flat Major: Andante            |
+| 13 Preludes, Op. 32: No. 4 in E Minor: Allegro con brio       | 10 Preludes, Op. 23: No. 2 in B-Flat Major: Maestoso           |
+| 10 Preludes, Op. 23: No. 8 in A-Flat Major: Allegro vivace    | 10 Preludes, Op. 23: No. 7 in C Minor: Allegro                 |
+| 13 Preludes, Op. 32: No. 12 in G-Sharp Minor: Allegro         | 13 Preludes, Op. 32: No. 6 in F Minor: Allegro appassionato    |
+
+| 10 most Acoustic tracks                                  | 10 least Acoustic tracks                                       |
+|:---------------------------------------------------------|:---------------------------------------------------------------|
+| 10 Preludes, Op. 23: No. 1 in F-Sharp Minor: Largo       | Morceaux de fantaisie, Op. 3: No. 2, Prelude in C-Sharp Minor  |
+| 13 Preludes, Op. 32: No. 10 in B Minor: Lento            | 10 Preludes, Op. 23: No. 8 in A-Flat Major: Allegro vivace     |
+| 10 Preludes, Op. 23: No. 10 in G-Flat Major: Largo       | 13 Preludes, Op. 32: No. 1 in C Major: Allegro vivace          |
+| 13 Preludes, Op. 32: No. 2 in B-Flat Minor: Allegretto   | 13 Preludes, Op. 32: No. 6 in F Minor: Allegro appassionato    |
+| 13 Preludes, Op. 32: No. 5 in G Major: Moderato          | 13 Preludes, Op. 32: No. 13 in D-Flat Major: Grave - Allegro   |
+| 13 Preludes, Op. 32: No. 7 in F Major: Moderato          | 10 Preludes, Op. 23: No. 9 in E-Flat Minor: Presto             |
+| 10 Preludes, Op. 23: No. 3 in D Minor: Tempo di minuetto | Piano Concerto No. 2 in C Minor, Op. 18: 2. Adagio sostenuto   |
+| 10 Preludes, Op. 23: No. 4 in D Major: Andante cantabile | Piano Concerto No. 2 in C Minor, Op. 18: 3. Allegro scherzando |
+| 13 Preludes, Op. 32: No. 11 in B Major: Allegretto       | Piano Concerto No. 2 in C Minor, Op. 18: 1. Moderato           |
+| 13 Preludes, Op. 32: No. 3 in E Major: Allegro vivace    | 10 Preludes, Op. 23: No. 2 in B-Flat Major: Maestoso           |
+
+| 10 most Instrumental tracks                                   | 10 least Instrumental tracks                                 |
+|:--------------------------------------------------------------|:-------------------------------------------------------------|
+| Piano Concerto No. 2 in C Minor, Op. 18: 2. Adagio sostenuto  | 10 Preludes, Op. 23: No. 8 in A-Flat Major: Allegro vivace   |
+| 13 Preludes, Op. 32: No. 5 in G Major: Moderato               | 13 Preludes, Op. 32: No. 8 in A Minor: Vivo                  |
+| 13 Preludes, Op. 32: No. 3 in E Major: Allegro vivace         | 13 Preludes, Op. 32: No. 10 in B Minor: Lento                |
+| 10 Preludes, Op. 23: No. 9 in E-Flat Minor: Presto            | 13 Preludes, Op. 32: No. 6 in F Minor: Allegro appassionato  |
+| 10 Preludes, Op. 23: No. 3 in D Minor: Tempo di minuetto      | 13 Preludes, Op. 32: No. 2 in B-Flat Minor: Allegretto       |
+| 13 Preludes, Op. 32: No. 9 in A Major: Allegro moderato       | 10 Preludes, Op. 23: No. 5 in G Minor: Alla marcia           |
+| Morceaux de fantaisie, Op. 3: No. 2, Prelude in C-Sharp Minor | 13 Preludes, Op. 32: No. 13 in D-Flat Major: Grave - Allegro |
+| 10 Preludes, Op. 23: No. 6 in E-Flat Major: Andante           | 10 Preludes, Op. 23: No. 7 in C Minor: Allegro               |
+| 10 Preludes, Op. 23: No. 4 in D Major: Andante cantabile      | 10 Preludes, Op. 23: No. 2 in B-Flat Major: Maestoso         |
+| 10 Preludes, Op. 23: No. 10 in G-Flat Major: Largo            | 13 Preludes, Op. 32: No. 1 in C Major: Allegro vivace        |
+
+| 10 most Live tracks                                          | 10 least Live tracks                                           |
+|:-------------------------------------------------------------|:---------------------------------------------------------------|
+| 10 Preludes, Op. 23: No. 9 in E-Flat Minor: Presto           | Piano Concerto No. 2 in C Minor, Op. 18: 3. Allegro scherzando |
+| 10 Preludes, Op. 23: No. 5 in G Minor: Alla marcia           | 10 Preludes, Op. 23: No. 10 in G-Flat Major: Largo             |
+| 10 Preludes, Op. 23: No. 2 in B-Flat Major: Maestoso         | 13 Preludes, Op. 32: No. 2 in B-Flat Minor: Allegretto         |
+| 13 Preludes, Op. 32: No. 3 in E Major: Allegro vivace        | 13 Preludes, Op. 32: No. 9 in A Major: Allegro moderato        |
+| 10 Preludes, Op. 23: No. 3 in D Minor: Tempo di minuetto     | 10 Preludes, Op. 23: No. 4 in D Major: Andante cantabile       |
+| 13 Preludes, Op. 32: No. 6 in F Minor: Allegro appassionato  | 13 Preludes, Op. 32: No. 5 in G Major: Moderato                |
+| 13 Preludes, Op. 32: No. 13 in D-Flat Major: Grave - Allegro | Piano Concerto No. 2 in C Minor, Op. 18: 1. Moderato           |
+| 10 Preludes, Op. 23: No. 7 in C Minor: Allegro               | 13 Preludes, Op. 32: No. 8 in A Minor: Vivo                    |
+| 10 Preludes, Op. 23: No. 8 in A-Flat Major: Allegro vivace   | Piano Concerto No. 2 in C Minor, Op. 18: 2. Adagio sostenuto   |
+| 10 Preludes, Op. 23: No. 6 in E-Flat Major: Andante          | 13 Preludes, Op. 32: No. 7 in F Major: Moderato                |
+
+| 10 most Happy tracks                                        | 10 least Happy tracks                                         |
+|:------------------------------------------------------------|:--------------------------------------------------------------|
+| 13 Preludes, Op. 32: No. 3 in E Major: Allegro vivace       | 13 Preludes, Op. 32: No. 5 in G Major: Moderato               |
+| 13 Preludes, Op. 32: No. 8 in A Minor: Vivo                 | 13 Preludes, Op. 32: No. 13 in D-Flat Major: Grave - Allegro  |
+| 10 Preludes, Op. 23: No. 2 in B-Flat Major: Maestoso        | 13 Preludes, Op. 32: No. 2 in B-Flat Minor: Allegretto        |
+| 13 Preludes, Op. 32: No. 6 in F Minor: Allegro appassionato | 10 Preludes, Op. 23: No. 4 in D Major: Andante cantabile      |
+| 10 Preludes, Op. 23: No. 9 in E-Flat Minor: Presto          | Morceaux de fantaisie, Op. 3: No. 2, Prelude in C-Sharp Minor |
+| 13 Preludes, Op. 32: No. 1 in C Major: Allegro vivace       | Piano Concerto No. 2 in C Minor, Op. 18: 1. Moderato          |
+| 10 Preludes, Op. 23: No. 3 in D Minor: Tempo di minuetto    | 10 Preludes, Op. 23: No. 1 in F-Sharp Minor: Largo            |
+| 10 Preludes, Op. 23: No. 5 in G Minor: Alla marcia          | Piano Concerto No. 2 in C Minor, Op. 18: 2. Adagio sostenuto  |
+| 10 Preludes, Op. 23: No. 10 in G-Flat Major: Largo          | 13 Preludes, Op. 32: No. 12 in G-Sharp Minor: Allegro         |
+| 13 Preludes, Op. 32: No. 11 in B Major: Allegretto          | 13 Preludes, Op. 32: No. 10 in B Minor: Lento                 |

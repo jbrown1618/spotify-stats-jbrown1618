@@ -23,6 +23,8 @@
 </details>
 
 
+![Comparison of Artist](../images/debussy/artists_comparison.png)
+
 ## Top Albums
 
 ![Bar chart of top 2 albums in](../images/playlists/debussy/albums.png)
@@ -54,3 +56,96 @@
 
 </details>
 
+
+## Audio Features
+
+| 10 most Danceable tracks                                        | 10 least Danceable tracks                                                      |
+|:----------------------------------------------------------------|:-------------------------------------------------------------------------------|
+| Études, L. 136: II. Pour les Accords                            | Images, Set 1, L. 110: Reflets dans L'eau                                      |
+| Children's Corner, L. 113: III. Golliwogg's Cake-Walk           | Estampes, L. 100: Jardins sous La Pluie                                        |
+| Préludes Book 1, L. 117: IV. Minstrels                          | Children's Corner, L. 113: II. The Snow is Dancing                             |
+| Préludes Book 1, L. 117: I. Des Pas sur La Neige                | Préludes Book 2, L. 123: III. Feux d'Artifice                                  |
+| Préludes Book 2, L. 123: I. General Lavine                      | Masques, L. 105                                                                |
+| Préludes Book 1, L. 117: III. La Cathedrale Engloutie           | La Plus que Lente, L. 121                                                      |
+| La Fille aux Cheveux de Lin, L. 33                              | La Mer, L.109: 2. Play of the Waves (Jeux de vagues)                           |
+| Suite Bergamasque, L. 75: Passepied                             | Children's Corner, L. 113: I. Doctor Gradus ad Parnassum                       |
+| Clair de Lune, L. 32                                            | La Mer, L.109: 3. Dialogue Of The Wind And The Sea                             |
+| Images, Set 2, L. 111: et la Lune descend sur le Temple qui fut | La Mer, L.109: 1. From Dawn Till Noon On The Sea (De l'aube à midi sur la mer) |
+
+| 10 most Energetic tracks                                                       | 10 least Energetic tracks                                       |
+|:-------------------------------------------------------------------------------|:----------------------------------------------------------------|
+| La Mer, L.109: 3. Dialogue Of The Wind And The Sea                             | Études, L. 136: I. Pour les Arpeges Composes                    |
+| La Mer, L.109: 2. Play of the Waves (Jeux de vagues)                           | Préludes Book 2, L. 123: I. General Lavine                      |
+| Préludes Book 1, L. 117: II. Ce qu'a vu Le Vent d'Ouest                        | La Plus que Lente, L. 121                                       |
+| Études, L. 136: II. Pour les Accords                                           | Images, Set 1, L. 110: Reflets dans L'eau                       |
+| La Mer, L.109: 1. From Dawn Till Noon On The Sea (De l'aube à midi sur la mer) | Clair de Lune, L. 32                                            |
+| Children's Corner, L. 113: III. Golliwogg's Cake-Walk                          | Préludes Book 1, L. 117: III. La Cathedrale Engloutie           |
+| Préludes Book 2, L. 123: III. Feux d'Artifice                                  | La Fille aux Cheveux de Lin, L. 33                              |
+| Estampes, L. 100: Jardins sous La Pluie                                        | Préludes Book 2, L. 123: II. Canope                             |
+| Masques, L. 105                                                                | Images, Set 2, L. 111: et la Lune descend sur le Temple qui fut |
+| Children's Corner, L. 113: I. Doctor Gradus ad Parnassum                       | Préludes Book 1, L. 117: I. Des Pas sur La Neige                |
+
+| 10 most Speechy tracks                                          | 10 least Speechy tracks                                  |
+|:----------------------------------------------------------------|:---------------------------------------------------------|
+| Préludes Book 2, L. 123: II. Canope                             | Children's Corner, L. 113: I. Doctor Gradus ad Parnassum |
+| Études, L. 136: II. Pour les Accords                            | La Mer, L.109: 3. Dialogue Of The Wind And The Sea       |
+| Images, Set 2, L. 111: et la Lune descend sur le Temple qui fut | Clair de Lune, L. 32                                     |
+| La Fille aux Cheveux de Lin, L. 33                              | Estampes, L. 100: Jardins sous La Pluie                  |
+| Préludes Book 1, L. 117: I. Des Pas sur La Neige                | Children's Corner, L. 113: II. The Snow is Dancing       |
+| Préludes Book 1, L. 117: III. La Cathedrale Engloutie           | Préludes Book 1, L. 117: II. Ce qu'a vu Le Vent d'Ouest  |
+| Children's Corner, L. 113: III. Golliwogg's Cake-Walk           | Études, L. 136: I. Pour les Arpeges Composes             |
+| La Plus que Lente, L. 121                                       | Masques, L. 105                                          |
+| La Mer, L.109: 2. Play of the Waves (Jeux de vagues)            | Suite Bergamasque, L. 75: Passepied                      |
+| Préludes Book 2, L. 123: I. General Lavine                      | Préludes Book 1, L. 117: IV. Minstrels                   |
+
+| 10 most Acoustic tracks                                  | 10 least Acoustic tracks                                                       |
+|:---------------------------------------------------------|:-------------------------------------------------------------------------------|
+| La Fille aux Cheveux de Lin, L. 33                       | Images, Set 1, L. 110: Reflets dans L'eau                                      |
+| La Plus que Lente, L. 121                                | Préludes Book 1, L. 117: II. Ce qu'a vu Le Vent d'Ouest                        |
+| Études, L. 136: I. Pour les Arpeges Composes             | Préludes Book 2, L. 123: III. Feux d'Artifice                                  |
+| Clair de Lune, L. 32                                     | Préludes Book 2, L. 123: II. Canope                                            |
+| Études, L. 136: II. Pour les Accords                     | Préludes Book 1, L. 117: III. La Cathedrale Engloutie                          |
+| Children's Corner, L. 113: I. Doctor Gradus ad Parnassum | Images, Set 2, L. 111: et la Lune descend sur le Temple qui fut                |
+| Suite Bergamasque, L. 75: Passepied                      | Préludes Book 1, L. 117: I. Des Pas sur La Neige                               |
+| Préludes Book 1, L. 117: IV. Minstrels                   | La Mer, L.109: 2. Play of the Waves (Jeux de vagues)                           |
+| Children's Corner, L. 113: III. Golliwogg's Cake-Walk    | La Mer, L.109: 1. From Dawn Till Noon On The Sea (De l'aube à midi sur la mer) |
+| Children's Corner, L. 113: II. The Snow is Dancing       | La Mer, L.109: 3. Dialogue Of The Wind And The Sea                             |
+
+| 10 most Instrumental tracks                              | 10 least Instrumental tracks                                                   |
+|:---------------------------------------------------------|:-------------------------------------------------------------------------------|
+| Estampes, L. 100: Jardins sous La Pluie                  | Préludes Book 1, L. 117: I. Des Pas sur La Neige                               |
+| Children's Corner, L. 113: I. Doctor Gradus ad Parnassum | Préludes Book 2, L. 123: I. General Lavine                                     |
+| Études, L. 136: I. Pour les Arpeges Composes             | Masques, L. 105                                                                |
+| La Fille aux Cheveux de Lin, L. 33                       | La Mer, L.109: 2. Play of the Waves (Jeux de vagues)                           |
+| Préludes Book 2, L. 123: II. Canope                      | La Mer, L.109: 1. From Dawn Till Noon On The Sea (De l'aube à midi sur la mer) |
+| Children's Corner, L. 113: II. The Snow is Dancing       | La Plus que Lente, L. 121                                                      |
+| Préludes Book 1, L. 117: IV. Minstrels                   | Études, L. 136: II. Pour les Accords                                           |
+| Préludes Book 1, L. 117: III. La Cathedrale Engloutie    | Images, Set 1, L. 110: Reflets dans L'eau                                      |
+| Préludes Book 1, L. 117: II. Ce qu'a vu Le Vent d'Ouest  | Images, Set 2, L. 111: et la Lune descend sur le Temple qui fut                |
+| Clair de Lune, L. 32                                     | Préludes Book 2, L. 123: III. Feux d'Artifice                                  |
+
+| 10 most Live tracks                                                            | 10 least Live tracks                                            |
+|:-------------------------------------------------------------------------------|:----------------------------------------------------------------|
+| Children's Corner, L. 113: III. Golliwogg's Cake-Walk                          | Études, L. 136: I. Pour les Arpeges Composes                    |
+| Préludes Book 2, L. 123: I. General Lavine                                     | Préludes Book 1, L. 117: IV. Minstrels                          |
+| Préludes Book 1, L. 117: II. Ce qu'a vu Le Vent d'Ouest                        | Préludes Book 2, L. 123: III. Feux d'Artifice                   |
+| Images, Set 1, L. 110: Reflets dans L'eau                                      | La Fille aux Cheveux de Lin, L. 33                              |
+| La Mer, L.109: 1. From Dawn Till Noon On The Sea (De l'aube à midi sur la mer) | Préludes Book 1, L. 117: III. La Cathedrale Engloutie           |
+| Estampes, L. 100: Jardins sous La Pluie                                        | Clair de Lune, L. 32                                            |
+| La Mer, L.109: 2. Play of the Waves (Jeux de vagues)                           | Études, L. 136: II. Pour les Accords                            |
+| La Plus que Lente, L. 121                                                      | Images, Set 2, L. 111: et la Lune descend sur le Temple qui fut |
+| Children's Corner, L. 113: I. Doctor Gradus ad Parnassum                       | Préludes Book 1, L. 117: I. Des Pas sur La Neige                |
+| Suite Bergamasque, L. 75: Passepied                                            | Préludes Book 2, L. 123: II. Canope                             |
+
+| 10 most Happy tracks                                     | 10 least Happy tracks                                                          |
+|:---------------------------------------------------------|:-------------------------------------------------------------------------------|
+| Children's Corner, L. 113: III. Golliwogg's Cake-Walk    | Clair de Lune, L. 32                                                           |
+| Préludes Book 2, L. 123: I. General Lavine               | Préludes Book 1, L. 117: III. La Cathedrale Engloutie                          |
+| Préludes Book 1, L. 117: IV. Minstrels                   | Études, L. 136: II. Pour les Accords                                           |
+| Suite Bergamasque, L. 75: Passepied                      | La Mer, L.109: 2. Play of the Waves (Jeux de vagues)                           |
+| La Fille aux Cheveux de Lin, L. 33                       | La Mer, L.109: 1. From Dawn Till Noon On The Sea (De l'aube à midi sur la mer) |
+| Children's Corner, L. 113: II. The Snow is Dancing       | Masques, L. 105                                                                |
+| Préludes Book 1, L. 117: I. Des Pas sur La Neige         | La Mer, L.109: 3. Dialogue Of The Wind And The Sea                             |
+| La Plus que Lente, L. 121                                | Préludes Book 1, L. 117: II. Ce qu'a vu Le Vent d'Ouest                        |
+| Children's Corner, L. 113: I. Doctor Gradus ad Parnassum | Images, Set 1, L. 110: Reflets dans L'eau                                      |
+| Études, L. 136: I. Pour les Arpeges Composes             | Préludes Book 2, L. 123: III. Feux d'Artifice                                  |

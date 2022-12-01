@@ -28,6 +28,8 @@
 </details>
 
 
+![Comparison of Artist](../images/country_folk/artists_comparison.png)
+
 ## Top Albums
 
 ![Bar chart of top 19 albums in](../images/playlists/country_folk/albums.png)
@@ -90,3 +92,96 @@
 
 </details>
 
+
+## Audio Features
+
+| 10 most Danceable tracks                                                     | 10 least Danceable tracks    |
+|:-----------------------------------------------------------------------------|:-----------------------------|
+| Bottom of the River                                                          | Undo It                      |
+| Ring of Fire                                                                 | The Lighthouse's Tale        |
+| Better Dig Two                                                               | When You Come Back Down      |
+| The Fox                                                                      | Timshel                      |
+| Home                                                                         | Not Ready to Make Nice       |
+| Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968 | Barton Hollow                |
+| Dance in the Graveyards                                                      | In The House Of Tom Bombadil |
+| If I Die Young                                                               | Morning Comes                |
+| Cowboy Casanova                                                              | Is There Anyone out There    |
+| I Walk the Line - Stereo Version                                             | Poison & Wine                |
+
+| 10 most Energetic tracks     | 10 least Energetic tracks        |
+|:-----------------------------|:---------------------------------|
+| Run                          | Destination                      |
+| Blown Away                   | Landslide                        |
+| Blown Away                   | Hurt                             |
+| Undo It                      | Travelin' Soldier                |
+| Cowboy Casanova              | Out Of The Woods                 |
+| Home                         | The Lighthouse's Tale            |
+| I Will Wait                  | When You Come Back Down          |
+| Before He Cheats             | Timshel                          |
+| Dance in the Graveyards      | I Walk the Line - Stereo Version |
+| In The House Of Tom Bombadil | Poison & Wine                    |
+
+| 10 most Speechy tracks                                                       | 10 least Speechy tracks   |
+|:-----------------------------------------------------------------------------|:--------------------------|
+| Home                                                                         | Not Ready to Make Nice    |
+| Bottom of the River                                                          | Destination               |
+| Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968 | You Lie                   |
+| Cowboy Casanova                                                              | Poison & Wine             |
+| Undo It                                                                      | Ring of Fire              |
+| Run                                                                          | Landslide                 |
+| Morning Comes                                                                | If I Die Young            |
+| Better Dig Two                                                               | Little Lion Man           |
+| Blown Away                                                                   | Hurt                      |
+| Blown Away                                                                   | Travelin' Soldier         |
+
+| 10 most Acoustic tracks          | 10 least Acoustic tracks                                                     |
+|:---------------------------------|:-----------------------------------------------------------------------------|
+| I Walk the Line - Stereo Version | Blown Away                                                                   |
+| Timshel                          | Blown Away                                                                   |
+| Poison & Wine                    | Dance in the Graveyards                                                      |
+| In The House Of Tom Bombadil     | Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968 |
+| Travelin' Soldier                | Morning Comes                                                                |
+| When You Come Back Down          | The Cave                                                                     |
+| The Lighthouse's Tale            | Cowboy Casanova                                                              |
+| Out Of The Woods                 | Little Lion Man                                                              |
+| Hurt                             | Is There Anyone out There                                                    |
+| Ring of Fire                     | I Will Wait                                                                  |
+
+| 10 most Instrumental tracks                                                  | 10 least Instrumental tracks   |
+|:-----------------------------------------------------------------------------|:-------------------------------|
+| In The House Of Tom Bombadil                                                 | Barton Hollow                  |
+| I Walk the Line - Stereo Version                                             | Undo It                        |
+| Out Of The Woods                                                             | Blown Away                     |
+| I Will Wait                                                                  | Blown Away                     |
+| Run                                                                          | Better Dig Two                 |
+| Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968 | You Lie                        |
+| When You Come Back Down                                                      | Before He Cheats               |
+| Hurt                                                                         | Travelin' Soldier              |
+| Ring of Fire                                                                 | The Lighthouse's Tale          |
+| The Cave                                                                     | Dance in the Graveyards        |
+
+| 10 most Live tracks                                                          | 10 least Live tracks   |
+|:-----------------------------------------------------------------------------|:-----------------------|
+| Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968 | Bottom of the River    |
+| Home                                                                         | Barton Hollow          |
+| Ring of Fire                                                                 | Out Of The Woods       |
+| Is There Anyone out There                                                    | Better Dig Two         |
+| I Will Wait                                                                  | Run                    |
+| If I Die Young                                                               | The Lighthouse's Tale  |
+| In The House Of Tom Bombadil                                                 | The Fox                |
+| Landslide                                                                    | Undo It                |
+| Travelin' Soldier                                                            | Blown Away             |
+| Morning Comes                                                                | Blown Away             |
+
+| 10 most Happy tracks                                                         | 10 least Happy tracks   |
+|:-----------------------------------------------------------------------------|:------------------------|
+| The Fox                                                                      | If I Die Young          |
+| Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968 | The Cave                |
+| Home                                                                         | The Lighthouse's Tale   |
+| Ring of Fire                                                                 | Before He Cheats        |
+| I Walk the Line - Stereo Version                                             | Not Ready to Make Nice  |
+| Bottom of the River                                                          | Morning Comes           |
+| Destination                                                                  | Out Of The Woods        |
+| In The House Of Tom Bombadil                                                 | Poison & Wine           |
+| Undo It                                                                      | Hurt                    |
+| Better Dig Two                                                               | Timshel                 |

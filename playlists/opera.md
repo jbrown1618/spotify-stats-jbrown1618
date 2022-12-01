@@ -104,6 +104,8 @@
 </details>
 
 
+![Comparison of Artist](../images/opera/artists_comparison.png)
+
 ## Top Albums
 
 ![Bar chart of top 5 albums in](../images/playlists/opera/albums.png)
@@ -141,3 +143,96 @@
 
 </details>
 
+
+## Audio Features
+
+| 10 most Danceable tracks                                                                             | 10 least Danceable tracks                                                                                   |
+|:-----------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------|
+| Die Zauberflöte, K. 620 / Zweiter Aufzug: "Da bin ich schon, mein Engel"                             | Bizet: Carmen: Entr'acte - Act Three                                                                        |
+| Die Zauberflöte, K. 620 / Erster Aufzug: "Rüste dich mit Mut und Standhaftigkeit"                    | Turandot / Act 3: Introduzione - Così comanda Turandot                                                      |
+| Die Zauberflöte, K. 620 / Zweiter Aufzug: "Tamino! Dein standhaft männliches Betragen hat gesiegt"   | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Dalla sua pace"                                    |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: "Dunque quello sei tu"                       | Turandot / Act 1: O giovinetto! Grazia, grazia!                                                             |
+| Die Zauberflöte, K. 620 / Zweiter Aufzug: "Tamino! Tamino!"                                          | Die Zauberflöte, K.620 / Act 2: "O Isis und Osiris, welche Wonne!"                                          |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "In questa forma dunque"                     | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: Ah, ti ritrovo ancor (Donna Elvira)                 |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: "Zitto... Lascia ch'io senta... Ottimamente" | Die Zauberflöte, K. 620 / Erster Aufzug: "Ist es denn Wirklichkeit, was ich sah?"                           |
+| Die Zauberflöte, K. 620 / Erster Aufzug: "He da! ... Was da?"                                        | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: Ah! del padre in periglio (Donna Anna, Don Ottavio) |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: Amico, che ti par? (Don Giovanni, Leporello) | Die Zauberflöte, K. 620 / Zweiter Aufzug: "He, Lichter her!"                                                |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Guarda un po' come seppe questa strega"     | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: V'è gente alla finestra (Don Giovanni)              |
+
+| 10 most Energetic tracks                                                                                                         | 10 least Energetic tracks                                                                                                                         |
+|:---------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------|
+| La Bohème, Act II: Presto, sommate quello (Musetta, Mothers, Children, Rodolfo, Marcello, Schaunard, Colline, Mimì, Townspeople) | La Bohème, Act IV: Sono andati?                                                                                                                   |
+| Die Zauberflöte, K. 620 / Zweiter Aufzug: "He, Lichter her!"                                                                     | La Bohème, Act III: Pittore da bottega! Vipera! Rospo! (Musetta, Marcello, Mimì, Rodolfo)                                                         |
+| Bizet: Carmen: A deux cuartos! - - Act Four                                                                                      | La Bohème, Act I: Ehi! Rodolfo! (Schaunard, Colline, Marcello, Rodolfo)                                                                           |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Fin ch'han dal vino"                                                    | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: "In quali eccessi" (K. 540c, Recitative)                                                  |
+| Turandot / Act 1: Non piangere Liù                                                                                               | La Bohème, Act III: Ohé, là, le guardie! (Sweepers, Customs Officer, Voices from the tavern, Voice of Musetta, Milkmaids, Peasant Women, Carters) |
+| Bizet: Carmen: Au secours! Au secours! - Act One                                                                                 | La Bohème, Act I: Non sono in vena. Chi è là! (Rodolfo, Mimi)                                                                                     |
+| Turandot / Act 3: "Diecimile anni al nostro Imperatore...Padre augusto"                                                          | Die Zauberflöte, K. 620 / Zweiter Aufzug: "Morden soll ich?"                                                                                      |
+| Bizet: Carmen: Ou vas-tu? - Act Four                                                                                             | La Bohème, Act IV: Che avvien? (Schaunard, Mimì, Rodolfo, Musetta, Marcello)                                                                      |
+| Bizet: Carmen: Les tringles des sistres tintaient: Danse Bohemienne - Act Two                                                    | Die Zauberflöte, K.620 / Act 2: "Seid uns zum zweiten Mal willkommen"                                                                             |
+| La Bohème, Act IV: Gavotta. Minuetto (Colline, Marcello, Rodolfo, Schaunard)                                                     | La Bohème, Act III: Sa dirmi, scusi (Mimì, Sergeant, Customs Officer)                                                                             |
+
+| 10 most Speechy tracks                                                                   | 10 least Speechy tracks                                                                                     |
+|:-----------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------|
+| Die Zauberflöte, K. 620 / Zweiter Aufzug: "Ihr eingeweihten Diener der Götter Osiris..." | Die Zauberflöte, K. 620 / Zweiter Aufzug: "Die Strahlen der Sonne vertreiben die Nacht"                     |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Leporello, ove sei?"            | La Bohème, Act III: Che! Mimì! Tu qui? (Rodolfo, Marcello, Mimì)                                            |
+| Die Zauberflöte, K. 620 / Zweiter Aufzug: "Tamino, wollen wir nicht speisen?"            | Bizet: Carmen: Entr'acte - Act Two                                                                          |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: "Dunque quello sei tu"           | Turandot / Act 2: "Gravi, enormi ed impotenti"                                                              |
+| Die Zauberflöte, K. 620 / Zweiter Aufzug: "Eine schreckliche Nacht!"                     | Turandot / Act 2: Introduzione (Scene 2)                                                                    |
+| Die Zauberflöte, K. 620 / Zweiter Aufzug: "Mutter!"                                      | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: Ah! del padre in periglio (Donna Anna, Don Ottavio) |
+| Die Zauberflöte, K. 620 / Erster Aufzug: "Rüste dich mit Mut und Standhaftigkeit"        | Die Zauberflöte, K. 620 / Zweiter Aufzug: "He, Lichter her!"                                                |
+| Die Zauberflöte, K. 620 / Zweiter Aufzug: "Tamino, deine Haltung war bisher männlich"    | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: V'è gente alla finestra (Don Giovanni)              |
+| Die Zauberflöte, K. 620 / Zweiter Aufzug: "Tamino! Tamino!"                              | Die Zauberflöte, K. 620 / Erster Aufzug: "Ist es denn Wirklichkeit, was ich sah?"                           |
+| Die Zauberflöte, K. 620 / Erster Aufzug: "Bin ich nicht ein Narr"                        | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: Ah, ti ritrovo ancor (Donna Elvira)                 |
+
+| 10 most Acoustic tracks                                                                     | 10 least Acoustic tracks                                                                             |
+|:--------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------|
+| Bizet: Carmen: Mais nous ne voyons pas la Carmencita! - Act One                             | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: Amico, che ti par? (Don Giovanni, Leporello) |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: Ah, ti ritrovo ancor (Donna Elvira) | Die Zauberflöte, K. 620 / Zweiter Aufzug: "Hier seid ihr beide euch allein überlassen"               |
+| Bizet: Carmen: Parle-moi de ma mere! - Act One                                              | Die Zauberflöte, K. 620 / Zweiter Aufzug: "Ein Mädchen oder Weibchen wünscht Papageno sich"          |
+| Bizet: Carmen: Pres des remparts de Seville: Seguidilla - Act One                           | Die Zauberflöte, K. 620 / Zweiter Aufzug: "Tamino! Dein standhaft männliches Betragen hat gesiegt"   |
+| Bizet: Carmen: Entr'acte - Act Two                                                          | Die Zauberflöte, K. 620 / Zweiter Aufzug: "Tamino! Tamino!"                                          |
+| Bizet: Carmen: L'amour est un oiseau rebelle: Habanera - Act One                            | Die Zauberflöte, K.620 / Act 2: Ein Mädchen oder Weibchen (Papageno)                                 |
+| Bizet: Carmen: Je suis Escamillo, torero de Grenade - Act Three                             | Die Zauberflöte, K. 620 / Erster Aufzug: "Bin ich nicht ein Narr"                                    |
+| Bizet: Carmen: Qui sait de quel demon j'allais etre la proie! - Act One                     | Die Zauberflöte, K. 620 / Zweiter Aufzug: "Morden soll ich?"                                         |
+| Bizet: Carmen: C'est toi! - Act Four                                                        | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Leporello, ove sei?"                        |
+| Die Zauberflöte, K. 620 / Zweiter Aufzug: "O Isis und Osiris"                               | Die Zauberflöte, K. 620 / Erster Aufzug: "Ist es denn Wirklichkeit, was ich sah?"                    |
+
+| 10 most Instrumental tracks                                                                            | 10 least Instrumental tracks                                                                                                                        |
+|:-------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------|
+| Die Zauberflöte, K. 620 / Zweiter Aufzug: Marsch der Priester                                          | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: "Di molte faci il lume"                                                                     |
+| Bizet: Carmen: Entr'acte - Act Two                                                                     | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Chi è là?"                                                                                 |
+| Bizet: Carmen: Prelude - Act One                                                                       | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: "Leporello!"                                                                                |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Fin ch'han dal vino"                          | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Come mai creder deggio"                                                                    |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: Su svegliatevi, da bravi (Don Giovanni, Servi) | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: Non ci stanchiamo (Masetto, Don Giovanni)                                                   |
+| Bizet: Carmen: Entr'acte - Act Three                                                                   | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: "Ah, si segua il suo passo"                                                                 |
+| Die Zauberflöte, K.620: Overture                                                                       | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Leporello, ove sei?"                                                                       |
+| Die Zauberflöte, K. 620: Overture                                                                      | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: Mi par ch'oggi il demonio si diverta (Don Giovanni, Don Ottavio, Donna Anna / Donna Elvira) |
+| Bizet: Carmen: La cloche a sonne - Act One                                                             | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Guarda un po' come seppe questa strega"                                                    |
+| Die Zauberflöte, K.620 / Act 2: O Isis und Osiris (Sarastro, Chor)                                     | Die Zauberflöte, K. 620 / Erster Aufzug: "He da! ... Was da?"                                                                                       |
+
+| 10 most Live tracks                                                                                                                                 | 10 least Live tracks                                                                                                             |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------|
+| La Bohème, Act II: Viva Parpignol! (Children, Marcello, Mimì, Schaunard, Colline, Rodolfo)                                                          | La Bohème, Act II: Presto, sommate quello (Musetta, Mothers, Children, Rodolfo, Marcello, Schaunard, Colline, Mimì, Townspeople) |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: Mi par ch'oggi il demonio si diverta (Don Giovanni, Don Ottavio, Donna Anna / Donna Elvira) | Die Zauberflöte, K.620 / Act 2: Ach, ich fühl's, es ist verschwunden (Pamina)                                                    |
+| Bizet: Carmen: Ou vas-tu? - Act Four                                                                                                                | Die Zauberflöte, K. 620 / Zweiter Aufzug: "Tamino, deine Haltung war bisher männlich"                                            |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Io deggio ad ogni patto"                                                                   | Die Zauberflöte, K. 620 / Erster Aufzug: "Wo bin ich?"                                                                           |
+| Turandot / Act 2: Introduzione (Scene 2)                                                                                                            | Die Zauberflöte, K.620 / Act 2: Der Hölle Rache kocht in meinem Herzen (Königin der Nacht)                                       |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Presto, presto... pria ch'ei venga"                                                        | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: Eccomi a voi! (Donna Elvira, Don Giovanni, Leporello)                    |
+| La Bohème, Act II: Questa è Mimì (Rodolfo, Marcello, Colline, Schaunard, Parpignol, Children, Mothers, Mimì)                                        | La Bohème, Act III: Pittore da bottega! Vipera! Rospo! (Musetta, Marcello, Mimì, Rodolfo)                                        |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: "Ah! pietà, signori miei!"                                                                  | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: Ah! del padre in periglio (Donna Anna, Don Ottavio)                      |
+| Die Zauberflöte, K. 620 / Erster Aufzug: "Schnelle Füße, rascher Mut"                                                                               | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: V'è gente alla finestra (Don Giovanni)                                   |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Ah, fuggi il traditor"                                                                     | Die Zauberflöte, K. 620 / Erster Aufzug: "Ist es denn Wirklichkeit, was ich sah?"                                                |
+
+| 10 most Happy tracks                                                                     | 10 least Happy tracks                                                                                       |
+|:-----------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------|
+| La Bohème, Act I: Legna! Sigari! Bordo! (Rodolfo, Marcello, Colline, Schaunard)          | Die Zauberflöte, K.620 / Act 2: O Isis und Osiris (Sarastro, Chor)                                          |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Giovinette, che fate all'amore" | Turandot / Act 3: "So il tuo nome!"                                                                         |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Povera sventurata!"             | La Bohème, Act IV: Che avvien? (Schaunard, Mimì, Rodolfo, Musetta, Marcello)                                |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Fin ch'han dal vino"            | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: "Crudele? Ah no! mio bene!"                         |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: "Eh via, buffone, non mi seccar" | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: V'è gente alla finestra (Don Giovanni)              |
+| Die Zauberflöte, K.620 / Act 2: Alles fühlt der Liebe Freuden (Monostatos)               | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: Ah, ti ritrovo ancor (Donna Elvira)                 |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Ho capito, signor sì!"          | Die Zauberflöte, K. 620 / Zweiter Aufzug: "He, Lichter her!"                                                |
+| Turandot / Act 2: Introduzione (Scene 2)                                                 | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: Ah! del padre in periglio (Donna Anna, Don Ottavio) |
+| Die Zauberflöte, K. 620 / Zweiter Aufzug: "Alles fühlt der Liebe Freuden"                | Die Zauberflöte, K. 620 / Erster Aufzug: "Wo bin ich?"                                                      |
+| La Bohème, Act II: Caro! (Colline, Rodolfo, Schaunard, Children, Townspeople, Musetta)   | Die Zauberflöte, K. 620 / Erster Aufzug: "Ist es denn Wirklichkeit, was ich sah?"                           |

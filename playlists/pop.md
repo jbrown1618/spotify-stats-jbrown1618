@@ -119,6 +119,8 @@
 </details>
 
 
+![Comparison of Artist](../images/pop/artists_comparison.png)
+
 ## Top Albums
 
 ![Bar chart of top 30 albums in](../images/playlists/pop/albums.png)
@@ -346,3 +348,96 @@
 
 </details>
 
+
+## Audio Features
+
+| 10 most Danceable tracks         | 10 least Danceable tracks   |
+|:---------------------------------|:----------------------------|
+| SexyBack (feat. Timbaland)       | Lover                       |
+| Anaconda                         | epiphany                    |
+| WAP (feat. Megan Thee Stallion)  | lovely (with Khalid)        |
+| Pretty Please                    | We All Need Saving          |
+| Sally Walker                     | Jar of Hearts               |
+| bury a friend                    | Skyfall                     |
+| Coño                             | exile (feat. Bon Iver)      |
+| I Think He Knows                 | La Vie En Rose              |
+| LoveGame                         | Gravity                     |
+| Yeah! (feat. Lil Jon & Ludacris) | Fix You                     |
+
+| 10 most Energetic tracks       | 10 least Energetic tracks   |
+|:-------------------------------|:----------------------------|
+| Larger Than Life               | We All Need Saving          |
+| Boss Bitch                     | Lonely (with benny blanco)  |
+| This Is What You Came For      | Off My Face                 |
+| Bye Bye Bye                    | everything i wanted         |
+| Bad Romance                    | No Time To Die              |
+| Red                            | Your Song                   |
+| Levitating                     | Come Home                   |
+| Green Light (feat. André 3000) | Say Something               |
+| Don't Call Me Up               | xanny                       |
+| Focus                          | when the party's over       |
+
+| 10 most Speechy tracks          | 10 least Speechy tracks             |
+|:--------------------------------|:------------------------------------|
+| Youngblood                      | The Man Who Can't Be Moved          |
+| boyfriend (with Social House)   | Begin Again                         |
+| bad guy                         | Everything                          |
+| WAP (feat. Megan Thee Stallion) | Show Me the Meaning of Being Lonely |
+| Bubblegum (feat. Tyga)          | Chasing Pavements                   |
+| 7 rings                         | Set Fire to the Rain                |
+| bury a friend                   | Old Fashioned                       |
+| Hustle                          | All Too Well                        |
+| Trumpets                        | The Scientist                       |
+| Focus                           | Breakeven                           |
+
+| 10 most Acoustic tracks   | 10 least Acoustic tracks                                                 |
+|:--------------------------|:-------------------------------------------------------------------------|
+| when the party's over     | New Rules                                                                |
+| Take It All               | Valerie (feat. Amy Winehouse) - Version Revisited                        |
+| Come Home                 | Style                                                                    |
+| Stay                      | Yellow                                                                   |
+| Your Song                 | Don’t Call Me Angel (Charlie’s Angels) (with Miley Cyrus & Lana Del Rey) |
+| lovely (with Khalid)      | I Kissed A Girl                                                          |
+| When I Was Your Man       | Blinding Lights                                                          |
+| All of Me                 | Out Of The Woods                                                         |
+| Off My Face               | Coño                                                                     |
+| peace                     | Misery                                                                   |
+
+| 10 most Instrumental tracks              | 10 least Instrumental tracks                   |
+|:-----------------------------------------|:-----------------------------------------------|
+| Abeja                                    | Slow Hands                                     |
+| everything i wanted                      | INDUSTRY BABY (feat. Jack Harlow)              |
+| Instant Crush (feat. Julian Casablancas) | Monster (Shawn Mendes & Justin Bieber)         |
+| you should see me in a crown             | Ride                                           |
+| bury a friend                            | (I Got That) Boom Boom (feat. Ying Yang Twins) |
+| Therefore I Am                           | In My Blood                                    |
+| bad guy                                  | Levitating (feat. DaBaby)                      |
+| This Is What You Came For                | right here                                     |
+| Crazy                                    | illicit affairs                                |
+| Lights - Single Version                  | Big Girls Cry                                  |
+
+| 10 most Live tracks                            | 10 least Live tracks             |
+|:-----------------------------------------------|:---------------------------------|
+| La Vie En Rose                                 | Umbrella                         |
+| Radioactive                                    | SUGA's Interlude                 |
+| What Now                                       | Brave                            |
+| Larger Than Life                               | I Knew You Were Trouble.         |
+| Feel Good Inc.                                 | Yeah! (feat. Lil Jon & Ludacris) |
+| Super Bass                                     | It's Gonna Be Me                 |
+| Good Girls Go Bad (feat. Leighton Meester)     | Uptown Funk (feat. Bruno Mars)   |
+| (I Got That) Boom Boom (feat. Ying Yang Twins) | Oh My God                        |
+| Sour Candy (with BLACKPINK)                    | Finesse                          |
+| In the Name of Love                            | Finesse - Remix; feat. Cardi B   |
+
+| 10 most Happy tracks            | 10 least Happy tracks                                                                                              |
+|:--------------------------------|:-------------------------------------------------------------------------------------------------------------------|
+| There's Nothing Holdin' Me Back | Jar of Hearts                                                                                                      |
+| Sugar, Sugar                    | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" |
+| SexyBack (feat. Timbaland)      | Dress                                                                                                              |
+| Mercy                           | Skyfall                                                                                                            |
+| I'm a Slave 4 U                 | Say Something                                                                                                      |
+| Sucker                          | Yellow Flicker Beat                                                                                                |
+| I Choose You                    | Falling                                                                                                            |
+| Tick Tock (feat. 24kGoldn)      | xanny                                                                                                              |
+| Peacock                         | No Time To Die                                                                                                     |
+| Shake It Off                    | Delicate                                                                                                           |

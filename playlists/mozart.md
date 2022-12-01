@@ -84,6 +84,8 @@
 </details>
 
 
+![Comparison of Artist](../images/mozart/artists_comparison.png)
+
 ## Top Albums
 
 ![Bar chart of top 5 albums in](../images/playlists/mozart/albums.png)
@@ -121,3 +123,96 @@
 
 </details>
 
+
+## Audio Features
+
+| 10 most Danceable tracks                                                                             | 10 least Danceable tracks                                                                                   |
+|:-----------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------|
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: "Dunque quello sei tu"                       | Fauré: Pavane, Op. 50                                                                                       |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "In questa forma dunque"                     | Divertimento No. 15 in B Flat Major, K. 287: IV. Adagio                                                     |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: "Zitto... Lascia ch'io senta... Ottimamente" | Grieg: 2 Elegiac Melodies, Op. 34: No. 2, Last Spring (Orchestral Version)                                  |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: Amico, che ti par? (Don Giovanni, Leporello) | Requiem In D Minor, K.626: 7. Agnus Dei                                                                     |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Guarda un po' come seppe questa strega"     | Horn Concerto No. 4 in E-Flat Major, K. 495: II. Romanza. Andante                                           |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: "Eh via, buffone, non mi seccar"             | Tchaikovsky: String Quartet No. 1 in D Major, Op. 11: II. Andante cantabile (Version for String Orchestra)  |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Leporello, ove sei?"                        | Die Zauberflöte, K.620 / Act 2: "O Isis und Osiris, welche Wonne!"                                          |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Io deggio ad ogni patto"                    | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: Ah, ti ritrovo ancor (Donna Elvira)                 |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Orsù, spicciati presto"                     | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: V'è gente alla finestra (Don Giovanni)              |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Fermati, scellerato!"                       | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: Ah! del padre in periglio (Donna Anna, Don Ottavio) |
+
+| 10 most Energetic tracks                                                                               | 10 least Energetic tracks                                                                        |
+|:-------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------|
+| Requiem in D Minor, K.626: 3a. Sequientia: Dies irae                                                   | Divertimento No. 15 in B-Flat Major, K. 287: 5. Menuetto                                         |
+| Symphony No. 39 in E flat, K.543: 4. Finale (Allegro)                                                  | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: "In quali eccessi" (K. 540c, Recitative) |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Fin ch'han dal vino"                          | Piano Concerto No. 27 in B-Flat Major, K. 595: II. Larghetto                                     |
+| Mass In C, K.317 "Coronation": 3. Credo                                                                | Piano Sonata No. 16 in C Major, K. 545 "Sonata facile": II. Andante                              |
+| Symphony No. 41 In C, K.551 - "Jupiter": 4. Molto allegro                                              | Piano Sonata No. 9 in D Major, K. 311: II. Andante con expressione                               |
+| Mass In C, K.317 "Coronation": 4. Sanctus                                                              | Piano Concerto No. 23 in A Major, K. 488: II. Adagio                                             |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: Su svegliatevi, da bravi (Don Giovanni, Servi) | Piano Sonata No. 16 in C, K.545 "Sonata facile": 2. Andante                                      |
+| Requiem In D Minor, K.626: 5. Sanctus                                                                  | Symphony No. 40 in G Minor, K. 550: II. Andante                                                  |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: "Eh via, buffone, non mi seccar"               | Die Zauberflöte, K.620 / Act 2: "Seid uns zum zweiten Mal willkommen"                            |
+| Requiem In D Minor, K.626: 2. Kyrie                                                                    | Piano Sonata No. 10 in C Major, K. 330: II. Andante cantabile                                    |
+
+| 10 most Speechy tracks                                                                               | 10 least Speechy tracks                                                                                     |
+|:-----------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------|
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Leporello, ove sei?"                        | Requiem In D Minor, K.626: 4. Offertorium: Hostias                                                          |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: "Dunque quello sei tu"                       | Requiem In D Minor, K.626: 3. Sequentia: Rex tremendae                                                      |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Io deggio ad ogni patto"                    | Requiem In D Minor, K.626: 2. Kyrie                                                                         |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Chi è là?"                                  | Requiem In D Minor, K.626: 5. Sanctus                                                                       |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Guarda un po' come seppe questa strega"     | Symphony No. 39 in E flat, K.543: 3. Menuetto (Allegretto)                                                  |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Orsù, spicciati presto"                     | Boccherini: String Quintet in E Major, Op. 13 No. 6, G. 282: III. Minuetto - Trio                           |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: Non ci stanchiamo (Masetto, Don Giovanni)    | Requiem In D Minor, K.626: 4. Offertorium: Domine Jesu                                                      |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Manco male, è partita"                      | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: V'è gente alla finestra (Don Giovanni)              |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Masetto... senti un po'..."                 | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: Ah, ti ritrovo ancor (Donna Elvira)                 |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: "Zitto... Lascia ch'io senta... Ottimamente" | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: Ah! del padre in periglio (Donna Anna, Don Ottavio) |
+
+| 10 most Acoustic tracks                                                                     | 10 least Acoustic tracks                                                                             |
+|:--------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------|
+| Piano Sonata No. 10 in C Major, K. 330: II. Andante cantabile                               | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: V'è gente alla finestra (Don Giovanni)       |
+| Piano Sonata No. 12 in F Major, K. 332: II. Adagio                                          | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: "Ah, si segua il suo passo"                  |
+| Piano Sonata No. 16 in C Major, K. 545 "Sonata facile": II. Andante                         | Serenade In G, K.525 "Eine kleine Nachtmusik": 3. Menuetto (Allegretto)                              |
+| Piano Sonata No. 9 in D Major, K. 311: II. Andante con expressione                          | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: "Deh! vieni alla finestra"                   |
+| Piano Sonata No. 16 in C, K.545 "Sonata facile": 3. Rondo (Allegro)                         | Albinoni: Adagio in G Minor                                                                          |
+| Piano Sonata No. 11 in A Major, K. 331 "Turkish March": III. Alla turca                     | Pachelbel: Canon and Gigue for Three Violins and Continuo in D Major: Canon                          |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: Ah, ti ritrovo ancor (Donna Elvira) | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: Amico, che ti par? (Don Giovanni, Leporello) |
+| Piano Sonata No. 10 in C Major, K. 330: I. Allegro moderato                                 | 3 German Dances K605 - 1986 Remastered Version                                                       |
+| Piano Sonata No. 16 in C, K.545 "Sonata facile": 2. Andante                                 | Die Zauberflöte, K.620 / Act 2: Ein Mädchen oder Weibchen (Papageno)                                 |
+| Piano Sonata No. 11 in A Major, K. 331: 1. Tema (Andante grazioso) con variazioni           | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Leporello, ove sei?"                        |
+
+| 10 most Instrumental tracks                                                       | 10 least Instrumental tracks                                                                                                                        |
+|:----------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------|
+| Divertimento No. 11 in D, K.251 "Nannerl-Septett": Menuetto (Tema con variazioni) | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Ah! chi mi dice mai" - "Udisti? qualche bella"                                             |
+| Piano Sonata No. 16 in C Major, K. 545 "Sonata facile": III. Rondo                | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: "Ah! ah! ah! questa è buona!"                                                               |
+| Horn Concerto No. 2 in E-Flat Major, K. 417: II. Andante                          | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: Mi par ch'oggi il demonio si diverta (Don Giovanni, Don Ottavio, Donna Anna / Donna Elvira) |
+| Horn Concerto No. 1 in D Major, K. 386b (K. 412 & 514): I. (Allegro) K. 412       | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: Ahi, ahi! La testa mia!                                                                     |
+| Piano Sonata No. 16 in C, K.545 "Sonata facile": 1. Allegro                       | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Guarda un po' come seppe questa strega"                                                    |
+| Horn Concerto No. 4 in E-Flat Major, K. 495: II. Romanza. Andante                 | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: Ah, ti ritrovo ancor (Donna Elvira)                                                         |
+| Piano Concerto No. 20 in D Minor, K. 466: I. Allegro                              | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Or sai chi l'onore"                                                                        |
+| Requiem In D Minor, K.626: 3. Sequentia: Confutatis                               | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: V'è gente alla finestra (Don Giovanni)                                                      |
+| Pachelbel: Canon and Gigue for Three Violins and Continuo in D Major: Canon       | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Chi è là?"                                                                                 |
+| Symphony No. 40 In G Minor, K.550: 4. Finale (Allegro assai)                      | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Leporello, ove sei?"                                                                       |
+
+| 10 most Live tracks                                                                                                                                 | 10 least Live tracks                                                                                        |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------|
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: Mi par ch'oggi il demonio si diverta (Don Giovanni, Don Ottavio, Donna Anna / Donna Elvira) | Requiem In D Minor, K.626: 8.Communio: Lux aeterna                                                          |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Io deggio ad ogni patto"                                                                   | Piano Sonata No. 10 in C Major, K. 330: I. Allegro moderato                                                 |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Presto, presto... pria ch'ei venga"                                                        | Violin Concerto No. 5 in A Major, K. 219: I. Allegro aperto                                                 |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: "Ah! pietà, signori miei!"                                                                  | Violin Concerto No. 5 in A Major, K. 219: III. Rondeau (Tempo di minuetto)                                  |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Ah, fuggi il traditor"                                                                     | Divertimento in D, K.334 - Orchestral Version: 2. Thema mit Variationen (Andante)                           |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Guarda un po' come seppe questa strega"                                                    | Piano Sonata No. 16 in C Major, K. 545 "Sonata facile": II. Andante                                         |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: Su svegliatevi, da bravi (Don Giovanni, Servi)                                              | Piano Sonata No. 10 in C Major, K. 330: II. Andante cantabile                                               |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: "Leporello!"                                                                                | Mozart: Serenade No. 13 in G Major, K. 525 "Eine kleine Nachtmusik": I. Allegro                             |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: "Zitto... Lascia ch'io senta... Ottimamente"                                                | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: Ah! del padre in periglio (Donna Anna, Don Ottavio) |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: "Ah! ah! ah! questa è buona!"                                                               | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: V'è gente alla finestra (Don Giovanni)              |
+
+| 10 most Happy tracks                                                                                   | 10 least Happy tracks                                                                                       |
+|:-------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------|
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Giovinette, che fate all'amore"               | Albinoni: Adagio in G Minor                                                                                 |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Povera sventurata!"                           | Die Zauberflöte, K.620 / Act 2: O Isis und Osiris (Sarastro, Chor)                                          |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Fin ch'han dal vino"                          | Requiem In D Minor, K.626: 3. Sequentia: Confutatis                                                         |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: "Eh via, buffone, non mi seccar"               | Grieg: 2 Elegiac Melodies, Op. 34: No. 2, Last Spring (Orchestral Version)                                  |
+| Die Zauberflöte, K.620 / Act 2: Alles fühlt der Liebe Freuden (Monostatos)                             | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: "Crudele? Ah no! mio bene!"                         |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Ho capito, signor sì!"                        | Requiem In D Minor, K.626: 7. Agnus Dei                                                                     |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: "Dunque quello sei tu"                         | Grieg: 2 Elegiac Melodies, Op. 34: No. 1, The Wounded Heart (Orchestral Version)                            |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: Su svegliatevi, da bravi (Don Giovanni, Servi) | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: Ah! del padre in periglio (Donna Anna, Don Ottavio) |
+| Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: "Guarda un po' come seppe questa strega"       | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: V'è gente alla finestra (Don Giovanni)              |
+| Mozart: Eine kleine Nachtmusik, K. 525: IV. Rondo. Allegro                                             | Don Giovanni, ossia Il dissoluto punito, K.527 / Act 1: Ah, ti ritrovo ancor (Donna Elvira)                 |

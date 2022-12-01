@@ -68,6 +68,8 @@
 </details>
 
 
+![Comparison of Artist](../images/karaoke/artists_comparison.png)
+
 ## Top Albums
 
 ![Bar chart of top 30 albums in](../images/playlists/karaoke/albums.png)
@@ -194,3 +196,96 @@
 
 </details>
 
+
+## Audio Features
+
+| 10 most Danceable tracks     | 10 least Danceable tracks   |
+|:-----------------------------|:----------------------------|
+| Somebody That I Used To Know | Something - Remastered 2009 |
+| Sincerely, Jane              | Bohemian Rhapsody           |
+| I Choose You                 | Honeybee                    |
+| Break My Heart               | We All Need Saving          |
+| Rolling in the Deep          | Mad World                   |
+| This Love                    | Piano Man                   |
+| Death By A Thousand Cuts     | Yesterday - Remastered 2009 |
+| Silver Lining                | Poison & Wine               |
+| Disturbia                    | Gravity                     |
+| Grenade                      | Desperado - 2013 Remaster   |
+
+| 10 most Energetic tracks    | 10 least Energetic tracks         |
+|:----------------------------|:----------------------------------|
+| Everybody Talks             | The Way You Look Tonight          |
+| Movin' Out (Anthony's Song) | Off My Face                       |
+| Only the Good Die Young     | Desperado - 2013 Remaster         |
+| This Love                   | Honeybee                          |
+| Disturbia                   | Poison & Wine                     |
+| Sweater Weather             | Yesterday - Remastered 2009       |
+| Home                        | Manhattan                         |
+| Dog Days Are Over           | Golden Slumbers - Remastered 2009 |
+| Chasing The Sun             | Say Something                     |
+| Chandelier                  | Mad World                         |
+
+| 10 most Speechy tracks   | 10 least Speechy tracks                     |
+|:-------------------------|:--------------------------------------------|
+| So Sick                  | Someone Like You                            |
+| Don't Stop Me Now        | Goodbye Yellow Brick Road - Remastered 2014 |
+| Only the Good Die Young  | Golden Slumbers - Remastered 2009           |
+| Home                     | Piano Man                                   |
+| Love On Top              | Chasing Cars                                |
+| Break My Heart           | I Want It That Way                          |
+| Sincerely, Jane          | Machine Gun                                 |
+| Dog Days Are Over        | Everything                                  |
+| Death By A Thousand Cuts | Old Fashioned                               |
+| The Boxer                | The Scientist                               |
+
+| 10 most Acoustic tracks     | 10 least Acoustic tracks        |
+|:----------------------------|:--------------------------------|
+| Mad World                   | Sweater Weather                 |
+| Manhattan                   | Dog Days Are Over               |
+| Desperado - 2013 Remaster   | Machine Gun                     |
+| When I Was Your Man         | Come Together - Remastered 2009 |
+| Off My Face                 | Love Song                       |
+| Someone Like You            | Chandelier                      |
+| Yesterday - Remastered 2009 | Oh! Darling - Remastered 2009   |
+| Honeybee                    | Creep                           |
+| Say Something               | If I Go                         |
+| Gravity                     | Everybody Talks                 |
+
+| 10 most Instrumental tracks                 | 10 least Instrumental tracks   |
+|:--------------------------------------------|:-------------------------------|
+| Come Together - Remastered 2009             | We All Need Saving             |
+| Oh! Darling - Remastered 2009               | Haven't Met You Yet            |
+| Sweater Weather                             | Gravity                        |
+| Golden Slumbers - Remastered 2009           | Only the Good Die Young        |
+| Dog Days Are Over                           | Love Song                      |
+| Goodbye Yellow Brick Road - Remastered 2014 | Vienna                         |
+| Don't Stop Me Now                           | Everybody Talks                |
+| Sincerely, Jane                             | The Way You Look Tonight       |
+| Manhattan                                   | The Lighthouse's Tale          |
+| Mad World                                   | This Love                      |
+
+| 10 most Live tracks       | 10 least Live tracks                 |
+|:--------------------------|:-------------------------------------|
+| Love On Top               | When I Was Your Man                  |
+| Don't Stop Me Now         | Fly Me To The Moon - 2008 Remastered |
+| Home                      | YOUTH                                |
+| I Want You Back           | Vienna                               |
+| Old Fashioned             | Chandelier                           |
+| Break My Heart            | The Lighthouse's Tale                |
+| Death By A Thousand Cuts  | Easy                                 |
+| Everybody Talks           | Movin' Out (Anthony's Song)          |
+| Piano Man                 | Chasing The Sun                      |
+| Desperado - 2013 Remaster | Rolling in the Deep                  |
+
+| 10 most Happy tracks         | 10 least Happy tracks           |
+|:-----------------------------|:--------------------------------|
+| I Choose You                 | Bohemian Rhapsody               |
+| Movin' Out (Anthony's Song)  | Honeybee                        |
+| I Want You Back              | The Scientist                   |
+| This Love                    | Poison & Wine                   |
+| Haven't Met You Yet          | Come Together - Remastered 2009 |
+| Home                         | Desperado - 2013 Remaster       |
+| Only the Good Die Young      | Chasing Cars                    |
+| Everybody Talks              | We All Need Saving              |
+| Disturbia                    | Creep                           |
+| Somebody That I Used To Know | Say Something                   |

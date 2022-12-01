@@ -25,6 +25,8 @@
 </details>
 
 
+![Comparison of Artist](../images/electronic/artists_comparison.png)
+
 ## Top Albums
 
 ![Bar chart of top 7 albums in](../images/playlists/electronic/albums.png)
@@ -65,3 +67,96 @@
 
 </details>
 
+
+## Audio Features
+
+| 10 most Danceable tracks                           | 10 least Danceable tracks                          |
+|:---------------------------------------------------|:---------------------------------------------------|
+| Harder, Better, Faster, Stronger                   | Technologic                                        |
+| Technologic                                        | Get Lucky (feat. Pharrell Williams & Nile Rodgers) |
+| Get Lucky (feat. Pharrell Williams & Nile Rodgers) | Instant Crush (feat. Julian Casablancas)           |
+| Instant Crush (feat. Julian Casablancas)           | Digital Love                                       |
+| Digital Love                                       | One More Time                                      |
+| One More Time                                      | Badster                                            |
+| Badster                                            | Underground                                        |
+| Underground                                        | Shatter Me Featuring Lzzy Hale                     |
+| Shatter Me Featuring Lzzy Hale                     | Song of the Caged Bird                             |
+| Song of the Caged Bird                             | Crystallize                                        |
+
+| 10 most Energetic tracks                           | 10 least Energetic tracks                          |
+|:---------------------------------------------------|:---------------------------------------------------|
+| Shatter Me Featuring Lzzy Hale                     | Badster                                            |
+| Badster                                            | Underground                                        |
+| Underground                                        | Get Lucky (feat. Pharrell Williams & Nile Rodgers) |
+| Get Lucky (feat. Pharrell Williams & Nile Rodgers) | Harder, Better, Faster, Stronger                   |
+| Harder, Better, Faster, Stronger                   | One More Time                                      |
+| One More Time                                      | Digital Love                                       |
+| Digital Love                                       | Song of the Caged Bird                             |
+| Song of the Caged Bird                             | Crystallize                                        |
+| Crystallize                                        | Instant Crush (feat. Julian Casablancas)           |
+| Instant Crush (feat. Julian Casablancas)           | Technologic                                        |
+
+| 10 most Speechy tracks                             | 10 least Speechy tracks                            |
+|:---------------------------------------------------|:---------------------------------------------------|
+| Technologic                                        | Harder, Better, Faster, Stronger                   |
+| Harder, Better, Faster, Stronger                   | One More Time                                      |
+| One More Time                                      | Shatter Me Featuring Lzzy Hale                     |
+| Shatter Me Featuring Lzzy Hale                     | Badster                                            |
+| Badster                                            | Underground                                        |
+| Underground                                        | Get Lucky (feat. Pharrell Williams & Nile Rodgers) |
+| Get Lucky (feat. Pharrell Williams & Nile Rodgers) | Song of the Caged Bird                             |
+| Song of the Caged Bird                             | Digital Love                                       |
+| Digital Love                                       | Crystallize                                        |
+| Crystallize                                        | Instant Crush (feat. Julian Casablancas)           |
+
+| 10 most Acoustic tracks                            | 10 least Acoustic tracks                           |
+|:---------------------------------------------------|:---------------------------------------------------|
+| Digital Love                                       | Harder, Better, Faster, Stronger                   |
+| Harder, Better, Faster, Stronger                   | Instant Crush (feat. Julian Casablancas)           |
+| Instant Crush (feat. Julian Casablancas)           | Get Lucky (feat. Pharrell Williams & Nile Rodgers) |
+| Get Lucky (feat. Pharrell Williams & Nile Rodgers) | Song of the Caged Bird                             |
+| Song of the Caged Bird                             | One More Time                                      |
+| One More Time                                      | Badster                                            |
+| Badster                                            | Underground                                        |
+| Underground                                        | Crystallize                                        |
+| Crystallize                                        | Shatter Me Featuring Lzzy Hale                     |
+| Shatter Me Featuring Lzzy Hale                     | Technologic                                        |
+
+| 10 most Instrumental tracks                        | 10 least Instrumental tracks                       |
+|:---------------------------------------------------|:---------------------------------------------------|
+| Digital Love                                       | Instant Crush (feat. Julian Casablancas)           |
+| Instant Crush (feat. Julian Casablancas)           | Crystallize                                        |
+| Crystallize                                        | Badster                                            |
+| Badster                                            | Underground                                        |
+| Underground                                        | Harder, Better, Faster, Stronger                   |
+| Harder, Better, Faster, Stronger                   | Technologic                                        |
+| Technologic                                        | Song of the Caged Bird                             |
+| Song of the Caged Bird                             | Get Lucky (feat. Pharrell Williams & Nile Rodgers) |
+| Get Lucky (feat. Pharrell Williams & Nile Rodgers) | Shatter Me Featuring Lzzy Hale                     |
+| One More Time                                      | One More Time                                      |
+
+| 10 most Live tracks                                | 10 least Live tracks                               |
+|:---------------------------------------------------|:---------------------------------------------------|
+| Badster                                            | Harder, Better, Faster, Stronger                   |
+| Harder, Better, Faster, Stronger                   | Digital Love                                       |
+| Digital Love                                       | One More Time                                      |
+| One More Time                                      | Shatter Me Featuring Lzzy Hale                     |
+| Shatter Me Featuring Lzzy Hale                     | Song of the Caged Bird                             |
+| Song of the Caged Bird                             | Crystallize                                        |
+| Crystallize                                        | Technologic                                        |
+| Technologic                                        | Instant Crush (feat. Julian Casablancas)           |
+| Instant Crush (feat. Julian Casablancas)           | Get Lucky (feat. Pharrell Williams & Nile Rodgers) |
+| Get Lucky (feat. Pharrell Williams & Nile Rodgers) | Underground                                        |
+
+| 10 most Happy tracks                               | 10 least Happy tracks                    |
+|:---------------------------------------------------|:-----------------------------------------|
+| Get Lucky (feat. Pharrell Williams & Nile Rodgers) | Harder, Better, Faster, Stronger         |
+| Harder, Better, Faster, Stronger                   | Technologic                              |
+| Technologic                                        | Badster                                  |
+| Badster                                            | Digital Love                             |
+| Digital Love                                       | Instant Crush (feat. Julian Casablancas) |
+| Instant Crush (feat. Julian Casablancas)           | Song of the Caged Bird                   |
+| Song of the Caged Bird                             | One More Time                            |
+| One More Time                                      | Shatter Me Featuring Lzzy Hale           |
+| Shatter Me Featuring Lzzy Hale                     | Underground                              |
+| Underground                                        | Crystallize                              |

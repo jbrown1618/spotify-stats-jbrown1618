@@ -26,6 +26,8 @@
 </details>
 
 
+![Comparison of Artist](../images/chopin/artists_comparison.png)
+
 ## Top Albums
 
 ![Bar chart of top 9 albums in](../images/playlists/chopin/albums.png)
@@ -67,3 +69,96 @@
 
 </details>
 
+
+## Audio Features
+
+| 10 most Danceable tracks                                    | 10 least Danceable tracks                                  |
+|:------------------------------------------------------------|:-----------------------------------------------------------|
+| 24 Préludes, Op. 28: No. 20 in C Minor: Largo               | 24 Préludes, Op. 28: No. 8 in F-Sharp Minor: Molto agitato |
+| 24 Préludes, Op. 28: No. 20 in C Minor: Largo               | Nocturne No. 3 In B, Op. 9 No. 3                           |
+| 24 Préludes, Op. 28: No. 10 in C-Sharp Minor: Molto allegro | Etude in F minor, Op. posth. " Méthode des méthodes "      |
+| 24 Préludes, Op. 28: No. 7 in A Major: Andantino            | Nocturne No.4 Op.15-1 F Major                              |
+| 24 Préludes, Op. 28: No. 7 in A Major                       | 24 Préludes, Op. 28: No. 3 in G Major: Vivace              |
+| Feuille d'album in E, Op. posth.                            | 24 Préludes, Op. 28: No. 22 in G Minor                     |
+| Galop Marquis                                               | Piano Sonata No. 2 in B-Flat Minor, Op. 35: IV. Finale     |
+| 24 Préludes, Op. 28: No. 12 in G-Sharp Minor: Presto        | 24 Préludes, Op. 28: No. 23 in F Major                     |
+| Waltz No.11 Op.70-1 G Flat Major                            | 24 Préludes, Op. 28: No. 23 in F Major: Moderato           |
+| 24 Préludes, Op. 28: No. 10 in C-Sharp Minor                | 24 Préludes, Op. 28: No. 13 in F-Sharp Major: Lento        |
+
+| 10 most Energetic tracks                                     | 10 least Energetic tracks                           |
+|:-------------------------------------------------------------|:----------------------------------------------------|
+| 24 Préludes, Op. 28: No. 22 in G Minor                       | Nocturne No.4 Op.15-1 F Major                       |
+| 24 Préludes, Op. 28: No. 14 in E-Flat Minor                  | 24 Préludes, Op. 28: No. 6 in B Minor: Lento assai  |
+| Polonaise No. 6 in A-Flat Major, Op. 53, "Heroic"            | Nocturne No.9 Op.32-1 B Major                       |
+| 24 Préludes, Op. 28: No. 24 in D Minor: Allegro appassionato | Nocturne No.2 Op.9-2 E Flat Major                   |
+| 24 Préludes, Op. 28: No. 22 in G Minor: Molto agitato        | 24 Préludes, Op. 28: No. 2 in A Minor: Lento        |
+| Galop Marquis                                                | Nocturne No.6 Op.15-3 G Minor                       |
+| 24 Préludes, Op. 28: No. 16 in B-Flat Minor                  | 24 Préludes, Op. 28: No. 13 in F-Sharp Major: Lento |
+| 24 Préludes, Op. 28: No. 1 in C Major                        | 24 Préludes, Op. 28: No. 2 in A Minor               |
+| 24 Préludes, Op. 28: No. 18 in F Minor                       | 24 Préludes, Op. 28: No. 7 in A Major: Andantino    |
+| 24 Préludes, Op. 28: No. 24 in D Minor: Allegro appassionato | 24 Préludes, Op. 28: No. 7 in A Major               |
+
+| 10 most Speechy tracks                                          | 10 least Speechy tracks                                      |
+|:----------------------------------------------------------------|:-------------------------------------------------------------|
+| 24 Préludes, Op. 28: No. 20 in C Minor: Largo                   | Nocturne No. 15 In F Minor, Op. 55 No. 1                     |
+| 24 Préludes, Op. 28: No. 20 in C Minor: Largo                   | 24 Préludes, Op. 28: No. 16 in B-Flat Minor                  |
+| 24 Préludes, Op. 28: No. 10 in C-Sharp Minor: Molto allegro     | Berceuse in D-Flat Major, Op. 57                             |
+| 24 Préludes, Op. 28: No. 7 in A Major                           | 24 Préludes, Op. 28: No. 24 in D Minor: Allegro appassionato |
+| 24 Préludes, Op. 28: No. 7 in A Major: Andantino                | 24 Préludes, Op. 28: No. 22 in G Minor                       |
+| 24 Préludes, Op. 28: No. 4 in E Minor: Largo                    | 24 Préludes, Op. 28: No. 8 in F-Sharp Minor                  |
+| 24 Préludes, Op. 28: No. 6 in B Minor: Lento assai              | Polonaise No. 6 in A flat, Op. 53 -"Heroic"                  |
+| 24 Préludes, Op. 28: No. 4 in E Minor                           | 24 Préludes, Op. 28: No. 3 in G Major: Vivace                |
+| Piano Sonata No. 2 in B-Flat Minor, Op. 35: III. Marche funèbre | 24 Préludes, Op. 28: No. 12. in G-Sharp Minor                |
+| Nocturne No.6 Op.15-3 G Minor                                   | 24 Préludes, Op. 28: No. 24 in D Minor: Allegro appassionato |
+
+| 10 most Acoustic tracks                                | 10 least Acoustic tracks                                      |
+|:-------------------------------------------------------|:--------------------------------------------------------------|
+| Nocturne No. 12 In G, Op. 37 No. 2                     | 24 Préludes, Op. 28: No. 9 in E Major: Largo                  |
+| Wiosna, B117 (arr. from Op. 74/2)                      | 24 Préludes, Op. 28: No. 16 in B-Flat Minor: Presto con fuoco |
+| Nocturne No. 11 In G Minor, Op. 37 No. 1               | 24 Préludes, Op. 28: No. 8 in F-Sharp Minor: Molto agitato    |
+| Nocturne No.10 Op.32-2 A Flat Major                    | 24 Préludes, Op. 28: No. 24 in D Minor: Allegro appassionato  |
+| Nocturne No. 10 in A-Flat Major, Op. 32 No. 2          | Polonaise No. 6 in A-Flat Major, Op. 53, "Heroic"             |
+| Nocturne No. 10 In A Flat, Op. 32 No. 2                | 24 Préludes, Op. 28: No. 19 in E-Flat Major                   |
+| Nocturne No. 6 in G Minor, Op. 15 No. 3                | 24 Préludes, Op. 28: No. 22 in G Minor                        |
+| Piano Sonata No. 2 in B-Flat Minor, Op. 35: IV. Finale | 24 Préludes, Op. 28: No. 14 in E-Flat Minor: Allegro          |
+| 24 Préludes, Op. 28: No. 6 in B Minor: Lento assai     | 24 Préludes, Op. 28: No. 24 in D Minor: Allegro appassionato  |
+| Nocturne No. 11 in G minor, Op. 37 No. 1               | 24 Préludes, Op. 28: No. 22 in G Minor: Molto agitato         |
+
+| 10 most Instrumental tracks                                 | 10 least Instrumental tracks                                 |
+|:------------------------------------------------------------|:-------------------------------------------------------------|
+| 24 Préludes, Op. 28: No. 10 in C-Sharp Minor                | Polonaise in G sharp minor, Op. posth.                       |
+| Nocturne No. 8 In D Flat, Op. 27 No. 2 - 2005 Recording     | Waltz No. 19 in A Minor, Op. Posth.                          |
+| 24 Préludes, Op. 28: No. 11 in B Major                      | 24 Préludes, Op. 28: No. 1 in C Major                        |
+| 24 Préludes, Op. 28: No. 7 in A Major: Andantino            | 24 Préludes, Op. 28: No. 24 in D Minor: Allegro appassionato |
+| 24 Préludes, Op. 28: No. 10 in C-Sharp Minor: Molto allegro | 24 Préludes, Op. 28: No. 14 in E-Flat Minor: Allegro         |
+| Nocturne No. 2 In E Flat, Op. 9 No. 2                       | Nocturne No. 19 In E Minor, Op. 72 No. 1                     |
+| Nocturne No.2 Op.9-2 E Flat Major                           | 24 Préludes, Op. 28: No. 7 in A Major                        |
+| Nocturne No. 6 in G Minor, Op. 15 No. 3                     | 24 Préludes, Op. 28: No. 18 in F Minor                       |
+| Nocturne No.6 Op.15-3 G Minor                               | 24 Préludes, Op. 28: No. 5 in D Major: Molto allegro         |
+| 24 Préludes, Op. 28: No. 3 in G Major: Vivace               | Ballade No. 3 In A-Flat Major, Op. 47                        |
+
+| 10 most Live tracks                                           | 10 least Live tracks                             |
+|:--------------------------------------------------------------|:-------------------------------------------------|
+| Polonaise No. 6 in A-Flat Major, Op. 53, "Heroic"             | Nocturne No. 11 In G Minor, Op. 37 No. 1         |
+| 24 Préludes, Op. 28: No. 16 in B-Flat Minor                   | Nocturne No. 15 In F Minor, Op. 55 No. 1         |
+| 24 Préludes, Op. 28: No. 22 in G Minor                        | Nocturne No. 15 in F Minor, Op. 55 No. 1         |
+| Waltz No. 8 in A-Flat Major, Op. 64 No. 3                     | Scherzo No. 1 In B Minor, Op. 20                 |
+| 24 Préludes, Op. 28: No. 16 in B-Flat Minor: Presto con fuoco | Nocturne No.8 Op.27-2 D Flat Major               |
+| Polonaise in B flat, Op. posth.                               | Nocturne No.2 Op.9-2 E Flat Major                |
+| Waltz No. 6 in D-Flat, Op. 64, No. 1 "Minute"                 | Nocturne No.5 Op.15-2 F Sharp Major              |
+| Nocturne No. 1 in B-Flat Minor, Op. 9 No. 1                   | 24 Préludes, Op. 28: No. 7 in A Major: Andantino |
+| Ballade No. 3 in A flat major, Op. 47                         | Nocturne No.6 Op.15-3 G Minor                    |
+| 2 Bourrees, B160b                                             | Ballade No. 2 in F Major, Op. 38                 |
+
+| 10 most Happy tracks                                  | 10 least Happy tracks                                      |
+|:------------------------------------------------------|:-----------------------------------------------------------|
+| Galop Marquis                                         | Nocturne No. 12 In G, Op. 37 No. 2                         |
+| Waltz No. 16 in A flat, Op. posth.                    | Nocturne No. 8 In D Flat, Op. 27 No. 2 - 2005 Recording    |
+| 24 Préludes, Op. 28: No. 11 in B Major: Vivace        | 24 Préludes, Op. 28: No. 8 in F-Sharp Minor: Molto agitato |
+| Fugue in A minor                                      | Ballade No. 4 in F Minor, Op. 52                           |
+| 24 Préludes, Op. 28: No. 22 in G Minor                | Ballade No. 2 in F Major, Op. 38                           |
+| Tarantelle In A Flat, Op. 43                          | Etude in A flat, Op. posth. " Méthode des méthodes "       |
+| 24 Préludes, Op. 28: No. 22 in G Minor: Molto agitato | 24 Préludes, Op. 28: No. 4 in E Minor: Largo               |
+| Prélude No.26 in A Flat, Op.posth.                    | 24 Préludes, Op. 28: No. 9 in E Major                      |
+| 24 Préludes, Op. 28: No. 12. in G-Sharp Minor         | 24 Préludes, Op. 28: No. 9 in E Major: Largo               |
+| Polonaise in A flat, Op. posth.                       | 24 Préludes, Op. 28: No. 7 in A Major: Andantino           |

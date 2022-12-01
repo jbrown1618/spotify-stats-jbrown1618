@@ -119,6 +119,8 @@
 </details>
 
 
+![Comparison of Artist](../images/international_pop/artists_comparison.png)
+
 ## Top Albums
 
 ![Bar chart of top 30 albums in](../images/playlists/international_pop/albums.png)
@@ -297,3 +299,96 @@
 
 </details>
 
+
+## Audio Features
+
+| 10 most Danceable tracks         | 10 least Danceable tracks   |
+|:---------------------------------|:----------------------------|
+| Bando                            | Wherever you are            |
+| Ne reviens pas                   | abnormalize                 |
+| Tippy Toes                       | Headbangeeeeerrrrr!!!!!     |
+| MALAMENTE - Cap.1: Augurio       | Cry Baby                    |
+| מי זאת                           | untuk hati yang terluka.    |
+| Think About Things               | 你要的愛                        |
+| Gagnamagnið                      | No Rain, No Rainbow         |
+| Endurtaka Mig                    | 落葉歸根                        |
+| Sofa Silahlane                   | 永不失聯的愛                      |
+| Jai Jai Shivshankar (From "War") | Amore                       |
+
+| 10 most Energetic tracks   | 10 least Energetic tracks                              |
+|:---------------------------|:-------------------------------------------------------|
+| チョコレイト・ディスコ                | 永不失聯的愛                                                 |
+| Shanti Shanti Shanti       | Sofa Silahlane                                         |
+| Headbangeeeeerrrrr!!!!!    | 醒不来的梦                                                  |
+| Boys & Girls               | Think About Things                                     |
+| Gimme Chocolate!!          | 你要的愛                                                   |
+| だいじょばない                    | untuk hati yang terluka.                               |
+| KARATE                     | Gagnamagnið                                            |
+| 404 not found              | Heaven                                                 |
+| 恋をすると馬鹿を見る(Team B)         | 落葉歸根                                                   |
+| Kagerou                    | 刻在我心底的名字 (Your Name Engraved Herein) - 電影<刻在你心底的名字>主題曲 |
+
+| 10 most Speechy tracks   | 10 least Speechy tracks   |
+|:-------------------------|:--------------------------|
+| Te Felicito              | 永不失聯的愛                    |
+| Bando                    | ก่อนฤดูฝน                 |
+| 11 PM                    | 炎                         |
+| KARATE                   | 醒不来的梦                     |
+| Pleasure                 | 如果的事                      |
+| Leyendas                 | Tetap Dalam Jiwa          |
+| Tout oublier             | 悪ノ娘                       |
+| Shanti Shanti Shanti     | Pretender                 |
+| Djadja                   | 就是愛妳                      |
+| 青春修炼手册                   | 情非得已                      |
+
+| 10 most Acoustic tracks                                | 10 least Acoustic tracks                                                                            |
+|:-------------------------------------------------------|:----------------------------------------------------------------------------------------------------|
+| 刻在我心底的名字 (Your Name Engraved Herein) - 電影<刻在你心底的名字>主題曲 | Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground) |
+| 落葉歸根                                                   | UN DIA (ONE DAY) (Feat. Tainy)                                                                      |
+| untuk hati yang terluka.                               | Koi                                                                                                 |
+| 如果的事                                                   | KARATE                                                                                              |
+| עושה לי צרות                                           | Boys & Girls                                                                                        |
+| 醒不来的梦                                                  | Amore                                                                                               |
+| Heaven                                                 | Gimme Chocolate!!                                                                                   |
+| Tetap Dalam Jiwa                                       | Headbangeeeeerrrrr!!!!!                                                                             |
+| 永不失聯的愛                                                 | Kagerou                                                                                             |
+| סתלבט בקיבוץ                                           | abnormalize                                                                                         |
+
+| 10 most Instrumental tracks   | 10 least Instrumental tracks                           |
+|:------------------------------|:-------------------------------------------------------|
+| だいじょばない                       | 砂の惑星 ( + 初音ミク )                                        |
+| Sofa Silahlane                | Djadja                                                 |
+| Shanti Shanti Shanti          | Cry Baby                                               |
+| בשורות טובות                  | Leyendas                                               |
+| KARATE                        | 刻在我心底的名字 (Your Name Engraved Herein) - 電影<刻在你心底的名字>主題曲 |
+| abnormalize                   | Habit                                                  |
+| Tippy Toes                    | Te Felicito                                            |
+| Headbangeeeeerrrrr!!!!!       | I Love...                                              |
+| JA ARA E                      | Échame La Culpa                                        |
+| Kagerou                       | Pleasure                                               |
+
+| 10 most Live tracks   | 10 least Live tracks   |
+|:----------------------|:-----------------------|
+| Mercy                 | Despacito              |
+| סתלבט בקיבוץ          | Papaoutai              |
+| Kagerou               | No title               |
+| 脳裏上のクラッカー             | Pasoori                |
+| KARATE                | Look At Me             |
+| Cry Baby              | Lo Malo                |
+| Endurtaka Mig         | Con Calma              |
+| Shanti Shanti Shanti  | チョコレイト・ディスコ            |
+| 404 not found         | קוביות                 |
+| Wherever you are      | Sofa Silahlane         |
+
+| 10 most Happy tracks                           | 10 least Happy tracks    |
+|:-----------------------------------------------|:-------------------------|
+| チョコレイト・ディスコ                                    | Papaoutai                |
+| Me Enamoré                                     | 落葉歸根                     |
+| סתלבט בקיבוץ                                   | 醒不来的梦                    |
+| Ne reviens pas                                 | KARATE                   |
+| 恋するフォーチュンクッキー                                  | No Rain, No Rainbow      |
+| 砂の惑星 ( + 初音ミク )                                | untuk hati yang terluka. |
+| Habit                                          | 白月光与朱砂痣                  |
+| No title                                       | 你要的愛                     |
+| Koi                                            | Tetap Dalam Jiwa         |
+| The Ketchup Song (Aserejé) - Spanglish Version | Mercy                    |

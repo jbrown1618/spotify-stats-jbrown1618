@@ -105,6 +105,8 @@
 </details>
 
 
+![Comparison of Artist](../images/k_pop_favorites/artists_comparison.png)
+
 ## Top Albums
 
 ![Bar chart of top 30 albums in](../images/playlists/k_pop_favorites/albums.png)
@@ -285,3 +287,96 @@
 
 </details>
 
+
+## Audio Features
+
+| 10 most Danceable tracks   | 10 least Danceable tracks   |
+|:---------------------------|:----------------------------|
+| Typa Girl                  | HANN (Alone in winter)      |
+| BOOM                       | Just A Little Bit           |
+| The Boys                   | 7월 7일 One Of These Nights   |
+| FEARLESS                   | Sparkling Night             |
+| Phase Me                   | Feel My Rhythm              |
+| DUMB DUMB                  | HOLO                        |
+| In the morning             | Love poem                   |
+| Heart Burn                 | Hello                       |
+| Peek-A-Boo                 | Like Water                  |
+| BBIBBI                     | My sea                      |
+
+| 10 most Energetic tracks              | 10 least Energetic tracks   |
+|:--------------------------------------|:----------------------------|
+| RING X RING                           | Love poem                   |
+| Girls                                 | Dream                       |
+| RING ma Bell (what a wonderful world) | HOLO                        |
+| Heart Shaker                          | 무제(無題) (Untitled, 2014)     |
+| HOME;RUN                              | Butter                      |
+| Feel My Rhythm                        | For You                     |
+| The Boys                              | HANN (Alone in winter)      |
+| Ice Cream Cake                        | My sea                      |
+| Sparkling Night                       | Gone                        |
+| Hype Boy                              | ONLY                        |
+
+| 10 most Speechy tracks   | 10 least Speechy tracks   |
+|:-------------------------|:--------------------------|
+| MANIAC                   | HOLD MY HAND              |
+| BBIBBI                   | RBB (Really Bad Boy)      |
+| Girls                    | HANN (Alone)              |
+| Sparkling Night          | Phase Me                  |
+| Sticker                  | Animal Farm               |
+| Crazy                    | Starlight                 |
+| Back Door                | Je T'aime                 |
+| I GOT A BOY              | HOLO                      |
+| Kill This Love           | Something                 |
+| Thunderous               | Spark                     |
+
+| 10 most Acoustic tracks   | 10 least Acoustic tracks   |
+|:--------------------------|:---------------------------|
+| ONLY                      | Doom Du Doom               |
+| Amusement Park            | Butter                     |
+| HANN (Alone in winter)    | Up & Down                  |
+| When This Rain Stops      | BOOMBAYAH                  |
+| 무제(無題) (Untitled, 2014)   | 달라달라 (DALLA DALLA)         |
+| HOLO                      | LA DI DA                   |
+| 눈,코,입 (Eyes, Nose, Lips)  | RUN2U                      |
+| For You                   | Favorite (Vampire)         |
+| ZOOM                      | Drunk-Dazed                |
+| Love poem                 | Tamed-Dashed               |
+
+| 10 most Instrumental tracks   | 10 least Instrumental tracks     |
+|:------------------------------|:---------------------------------|
+| YEPPI YEPPI                   | Black Swan                       |
+| I Am The Best                 | Hello                            |
+| FEARLESS                      | Bicycle                          |
+| Lion Heart                    | WINE (Feat.Changmo) (Prod. SUGA) |
+| Peek-A-Boo                    | When This Rain Stops             |
+| Kill This Love                | Why So Lonely                    |
+| Why Not?                      | LA DI DA                         |
+| Black Mamba                   | SAY NO MORE                      |
+| Stay Tonight                  | THRILL RIDE                      |
+| Girls                         | Shut Down                        |
+
+| 10 most Live tracks             | 10 least Live tracks        |
+|:--------------------------------|:----------------------------|
+| Piano Man                       | How You Like That           |
+| Sticker                         | Make A Wish (Birthday Song) |
+| Typa Girl                       | I Am The Best               |
+| FANCY                           | Bad Boy                     |
+| Red Lights (Bang Chan, Hyunjin) | Devil                       |
+| Step Back                       | ELEVEN                      |
+| Animal Farm                     | BOOM                        |
+| I GOT A BOY                     | CIRCUS                      |
+| Monster                         | YEPPI YEPPI                 |
+| BOOMBAYAH                       | CASE 143                    |
+
+| 10 most Happy tracks                        | 10 least Happy tracks     |
+|:--------------------------------------------|:--------------------------|
+| Devil                                       | HANN (Alone)              |
+| Lion Heart                                  | Still Life                |
+| 러시안 룰렛 Russian Roulette                     | Cold As Hell              |
+| Left & Right                                | Can't Control Myself      |
+| I`m a B                                     | HOLO                      |
+| The Feels                                   | Favorite (Vampire)        |
+| The Boys                                    | Adrenaline                |
+| Muddy Water (Changbin, Hyunjin, HAN, Felix) | ONLY                      |
+| Pretty U                                    | My sea                    |
+| CALL ME BABY                                | 7월 7일 One Of These Nights |

@@ -33,6 +33,8 @@
 </details>
 
 
+![Comparison of Artist](../images/check_out_later/artists_comparison.png)
+
 ## Top Albums
 
 ![Bar chart of top 15 albums in](../images/playlists/check_out_later/albums.png)
@@ -87,3 +89,96 @@
 
 </details>
 
+
+## Audio Features
+
+| 10 most Danceable tracks   | 10 least Danceable tracks                     |
+|:---------------------------|:----------------------------------------------|
+| Cherry On Top              | 몽중몽; Dream In A Dream                         |
+| Be There (feat. DinDin)    | A Flying Butterfly                            |
+| Queen of Hearts            | ISLAND                                        |
+| Why Don’t You Know         | Reset                                         |
+| Last Dance                 | SILENCE                                       |
+| Mastermind                 | 楓                                             |
+| Wolf                       | King of Carrot Flowers Pt. 1                  |
+| Karma                      | Labyrinth                                     |
+| Maroon                     | Bullet With Butterfly Wings - Remastered 2012 |
+| 몽중몽; Dream In A Dream      | Holland, 1945                                 |
+
+| 10 most Energetic tracks                      | 10 least Energetic tracks    |
+|:----------------------------------------------|:-----------------------------|
+| Why Don’t You Know                            | A Flying Butterfly           |
+| Wolf                                          | SILENCE                      |
+| Holland, 1945                                 | Last Dance                   |
+| ISLAND                                        | Karma                        |
+| Be There (feat. DinDin)                       | Reset                        |
+| 몽중몽; Dream In A Dream                         | King of Carrot Flowers Pt. 1 |
+| Queen of Hearts                               | 楓                            |
+| Bullet With Butterfly Wings - Remastered 2012 | Maroon                       |
+| Cherry On Top                                 | Mastermind                   |
+| A Flying Butterfly                            | Labyrinth                    |
+
+| 10 most Speechy tracks                        | 10 least Speechy tracks      |
+|:----------------------------------------------|:-----------------------------|
+| Be There (feat. DinDin)                       | Labyrinth                    |
+| Mastermind                                    | Cherry On Top                |
+| Why Don’t You Know                            | Last Dance                   |
+| Wolf                                          | A Flying Butterfly           |
+| Queen of Hearts                               | Reset                        |
+| Karma                                         | King of Carrot Flowers Pt. 1 |
+| Holland, 1945                                 | ISLAND                       |
+| Bullet With Butterfly Wings - Remastered 2012 | 몽중몽; Dream In A Dream        |
+| Maroon                                        | SILENCE                      |
+| Labyrinth                                     | 楓                            |
+
+| 10 most Acoustic tracks      | 10 least Acoustic tracks                      |
+|:-----------------------------|:----------------------------------------------|
+| Labyrinth                    | King of Carrot Flowers Pt. 1                  |
+| 楓                            | Wolf                                          |
+| Be There (feat. DinDin)      | Karma                                         |
+| Mastermind                   | Maroon                                        |
+| Why Don’t You Know           | Holland, 1945                                 |
+| ISLAND                       | 몽중몽; Dream In A Dream                         |
+| Last Dance                   | A Flying Butterfly                            |
+| Reset                        | Queen of Hearts                               |
+| Cherry On Top                | SILENCE                                       |
+| King of Carrot Flowers Pt. 1 | Bullet With Butterfly Wings - Remastered 2012 |
+
+| 10 most Instrumental tracks                   | 10 least Instrumental tracks   |
+|:----------------------------------------------|:-------------------------------|
+| King of Carrot Flowers Pt. 1                  | Maroon                         |
+| Bullet With Butterfly Wings - Remastered 2012 | Reset                          |
+| Labyrinth                                     | Karma                          |
+| 몽중몽; Dream In A Dream                         | Be There (feat. DinDin)        |
+| Mastermind                                    | ISLAND                         |
+| Holland, 1945                                 | Why Don’t You Know             |
+| Queen of Hearts                               | A Flying Butterfly             |
+| SILENCE                                       | 楓                              |
+| Cherry On Top                                 | Last Dance                     |
+| Maroon                                        | Wolf                           |
+
+| 10 most Live tracks          | 10 least Live tracks                          |
+|:-----------------------------|:----------------------------------------------|
+| Holland, 1945                | Queen of Hearts                               |
+| Karma                        | Reset                                         |
+| King of Carrot Flowers Pt. 1 | Labyrinth                                     |
+| Why Don’t You Know           | Last Dance                                    |
+| Cherry On Top                | A Flying Butterfly                            |
+| 몽중몽; Dream In A Dream        | Maroon                                        |
+| Wolf                         | SILENCE                                       |
+| ISLAND                       | Be There (feat. DinDin)                       |
+| 楓                            | Mastermind                                    |
+| Queen of Hearts              | Bullet With Butterfly Wings - Remastered 2012 |
+
+| 10 most Happy tracks                          | 10 least Happy tracks        |
+|:----------------------------------------------|:-----------------------------|
+| Queen of Hearts                               | Reset                        |
+| Be There (feat. DinDin)                       | 몽중몽; Dream In A Dream        |
+| Why Don’t You Know                            | King of Carrot Flowers Pt. 1 |
+| Last Dance                                    | ISLAND                       |
+| Cherry On Top                                 | A Flying Butterfly           |
+| Holland, 1945                                 | 楓                            |
+| SILENCE                                       | Mastermind                   |
+| Bullet With Butterfly Wings - Remastered 2012 | Labyrinth                    |
+| Wolf                                          | Karma                        |
+| Reset                                         | Maroon                       |

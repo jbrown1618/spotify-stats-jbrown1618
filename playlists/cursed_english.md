@@ -32,6 +32,8 @@
 </details>
 
 
+![Comparison of Artist](../images/cursed_english/artists_comparison.png)
+
 ## Top Albums
 
 ![Bar chart of top 22 albums in](../images/playlists/cursed_english/albums.png)
@@ -90,3 +92,96 @@
 
 </details>
 
+
+## Audio Features
+
+| 10 most Danceable tracks          | 10 least Danceable tracks              |
+|:----------------------------------|:---------------------------------------|
+| SNEAKERS (English Ver.)           | Bad Boy - English Version, Bonus Track |
+| Do It Like This - English Version | RBB (Really Bad Boy) - English Version |
+| In the morning - English Ver.     | Bewitched - Eng Ver.                   |
+| WANNABE - English Ver.            | DOMINO - English Ver.                  |
+| ICY - English Ver.                | Highway to Heaven - English Version    |
+| DALLA DALLA - English Ver.        | HELICOPTER - English Version           |
+| LATATA - English Ver.             | I CAN'T STOP ME (English Version)      |
+| Oh my god - English Version       | HWAA - English Version                 |
+| Not Shy - English Ver.            | Levanter - English Ver.                |
+| LUNATIC (English Ver.)            | Life's Too Short (English Version)     |
+
+| 10 most Energetic tracks               | 10 least Energetic tracks                     |
+|:---------------------------------------|:----------------------------------------------|
+| LUNATIC (English Ver.)                 | Make A Wish (Birthday Song) - English Version |
+| Bewitched - Eng Ver.                   | Life's Too Short (English Version)            |
+| Not Shy - English Ver.                 | In the morning - English Ver.                 |
+| WANNABE - English Ver.                 | Do It Like This - English Version             |
+| ICY - English Ver.                     | Oh my god - English Version                   |
+| HELICOPTER - English Version           | Regular - English Version                     |
+| I CAN'T STOP ME (English Version)      | Highway to Heaven - English Version           |
+| DOMINO - English Ver.                  | Levanter - English Ver.                       |
+| LOCO - English Ver.                    | Bad Boy - English Version, Bonus Track        |
+| RBB (Really Bad Boy) - English Version | Love Talk - English Version                   |
+
+| 10 most Speechy tracks                        | 10 least Speechy tracks                |
+|:----------------------------------------------|:---------------------------------------|
+| Life's Too Short (English Version)            | MORE & MORE (English Version)          |
+| LATATA - English Ver.                         | SNEAKERS (English Ver.)                |
+| LOCO - English Ver.                           | WANNABE - English Ver.                 |
+| In the morning - English Ver.                 | Levanter - English Ver.                |
+| Make A Wish (Birthday Song) - English Version | Highway to Heaven - English Version    |
+| Bewitched - Eng Ver.                          | Bad Boy - English Version, Bonus Track |
+| ICY - English Ver.                            | DOMINO - English Ver.                  |
+| Do It Like This - English Version             | Oh my god - English Version            |
+| I CAN'T STOP ME (English Version)             | Love Talk - English Version            |
+| Regular - English Version                     | RBB (Really Bad Boy) - English Version |
+
+| 10 most Acoustic tracks                       | 10 least Acoustic tracks               |
+|:----------------------------------------------|:---------------------------------------|
+| Life's Too Short (English Version)            | DOMINO - English Ver.                  |
+| Not Shy - English Ver.                        | Bewitched - Eng Ver.                   |
+| Regular - English Version                     | SNEAKERS (English Ver.)                |
+| Bad Boy - English Version, Bonus Track        | LATATA - English Ver.                  |
+| I CAN'T STOP ME (English Version)             | RBB (Really Bad Boy) - English Version |
+| Love Talk - English Version                   | Levanter - English Ver.                |
+| LUNATIC (English Ver.)                        | LOCO - English Ver.                    |
+| In the morning - English Ver.                 | WANNABE - English Ver.                 |
+| Make A Wish (Birthday Song) - English Version | Highway to Heaven - English Version    |
+| HELICOPTER - English Version                  | DALLA DALLA - English Ver.             |
+
+| 10 most Instrumental tracks            | 10 least Instrumental tracks                  |
+|:---------------------------------------|:----------------------------------------------|
+| Oh my god - English Version            | I CAN'T STOP ME (English Version)             |
+| WANNABE - English Ver.                 | Bad Boy - English Version, Bonus Track        |
+| RBB (Really Bad Boy) - English Version | Love Talk - English Version                   |
+| In the morning - English Ver.          | Do It Like This - English Version             |
+| LOCO - English Ver.                    | Levanter - English Ver.                       |
+| Highway to Heaven - English Version    | Make A Wish (Birthday Song) - English Version |
+| DALLA DALLA - English Ver.             | Bewitched - Eng Ver.                          |
+| Regular - English Version              | LUNATIC (English Ver.)                        |
+| SNEAKERS (English Ver.)                | DOMINO - English Ver.                         |
+| LATATA - English Ver.                  | Life's Too Short (English Version)            |
+
+| 10 most Live tracks               | 10 least Live tracks                          |
+|:----------------------------------|:----------------------------------------------|
+| Levanter - English Ver.           | RBB (Really Bad Boy) - English Version        |
+| I CAN'T STOP ME (English Version) | Do It Like This - English Version             |
+| HELICOPTER - English Version      | LUNATIC (English Ver.)                        |
+| LOCO - English Ver.               | HWAA - English Version                        |
+| DALLA DALLA - English Ver.        | Highway to Heaven - English Version           |
+| LATATA - English Ver.             | DOMINO - English Ver.                         |
+| Regular - English Version         | In the morning - English Ver.                 |
+| Oh my god - English Version       | Bad Boy - English Version, Bonus Track        |
+| ICY - English Ver.                | Make A Wish (Birthday Song) - English Version |
+| WANNABE - English Ver.            | SNEAKERS (English Ver.)                       |
+
+| 10 most Happy tracks                   | 10 least Happy tracks                  |
+|:---------------------------------------|:---------------------------------------|
+| LUNATIC (English Ver.)                 | Life's Too Short (English Version)     |
+| Bad Boy - English Version, Bonus Track | LOCO - English Ver.                    |
+| Regular - English Version              | Oh my god - English Version            |
+| ICY - English Ver.                     | Highway to Heaven - English Version    |
+| I CAN'T STOP ME (English Version)      | Levanter - English Ver.                |
+| In the morning - English Ver.          | Love Talk - English Version            |
+| DALLA DALLA - English Ver.             | Do It Like This - English Version      |
+| DOMINO - English Ver.                  | Bewitched - Eng Ver.                   |
+| WANNABE - English Ver.                 | RBB (Really Bad Boy) - English Version |
+| HELICOPTER - English Version           | HWAA - English Version                 |

@@ -47,6 +47,8 @@
 </details>
 
 
+![Comparison of Artist](../images/sharon_rpd/artists_comparison.png)
+
 ## Top Albums
 
 ![Bar chart of top 30 albums in](../images/playlists/sharon_rpd/albums.png)
@@ -124,3 +126,96 @@
 
 </details>
 
+
+## Audio Features
+
+| 10 most Danceable tracks      | 10 least Danceable tracks                         |
+|:------------------------------|:--------------------------------------------------|
+| ANTIFRAGILE                   | Psycho                                            |
+| FEARLESS                      | Boy With Luv (feat. Halsey)                       |
+| DUMB DUMB                     | Step Back                                         |
+| ELEVEN                        | Missing You                                       |
+| Holiday Party                 | MIC Drop (Steve Aoki Remix) - Full Length Edition |
+| Shut Down                     | Thunderous                                        |
+| Attention                     | FEVER                                             |
+| LALISA                        | Hype Boy                                          |
+| Ice Cream (with Selena Gomez) | Dope                                              |
+| BOSS                          | Black Mamba                                       |
+
+| 10 most Energetic tracks                          | 10 least Energetic tracks     |
+|:--------------------------------------------------|:------------------------------|
+| Hype Boy                                          | Ice Cream (with Selena Gomez) |
+| Black Mamba                                       | Shut Down                     |
+| Alcohol-Free                                      | RUN2U                         |
+| Queendom                                          | Psycho                        |
+| Dope                                              | LALISA                        |
+| LOCO                                              | Attention                     |
+| Boy With Luv (feat. Halsey)                       | FEARLESS                      |
+| GAMBLER                                           | City Girls                    |
+| MIC Drop (Steve Aoki Remix) - Full Length Edition | Pretty Savage                 |
+| Go Big or Go Home                                 | BOSS                          |
+
+| 10 most Speechy tracks                            | 10 least Speechy tracks   |
+|:--------------------------------------------------|:--------------------------|
+| Ice Cream (with Selena Gomez)                     | DUMB DUMB                 |
+| Thunderous                                        | Holiday Party             |
+| Hype Boy                                          | Psycho                    |
+| Dope                                              | LOVE DIVE                 |
+| LOCO                                              | Pretty Savage             |
+| MIC Drop (Steve Aoki Remix) - Full Length Edition | HOT                       |
+| GAMBLER                                           | Shut Down                 |
+| Pink Venom                                        | BOSS                      |
+| FEARLESS                                          | Attention                 |
+| Missing You                                       | ASAP                      |
+
+| 10 most Acoustic tracks     | 10 least Acoustic tracks                          |
+|:----------------------------|:--------------------------------------------------|
+| Missing You                 | Pink Venom                                        |
+| Hype Boy                    | MIC Drop (Steve Aoki Remix) - Full Length Edition |
+| Attention                   | Dynamite                                          |
+| Thunderous                  | LOCO                                              |
+| Psycho                      | Pretty Savage                                     |
+| Queendom                    | Holiday Party                                     |
+| ASAP                        | GAMBLER                                           |
+| Boy With Luv (feat. Halsey) | Shut Down                                         |
+| ANTIFRAGILE                 | LOVE DIVE                                         |
+| BAD GIRL (Prod. Czaer)      | RUN2U                                             |
+
+| 10 most Instrumental tracks   | 10 least Instrumental tracks   |
+|:------------------------------|:-------------------------------|
+| FEARLESS                      | ANTIFRAGILE                    |
+| Black Mamba                   | BAD GIRL (Prod. Czaer)         |
+| LALISA                        | ASAP                           |
+| DUMB DUMB                     | Dynamite                       |
+| Pretty Savage                 | Go Big or Go Home              |
+| Ice Cream (with Selena Gomez) | Queendom                       |
+| LOVE DIVE                     | Pink Venom                     |
+| LOCO                          | ELEVEN                         |
+| RUN2U                         | PLAYING WITH FIRE              |
+| Step Back                     | Shut Down                      |
+
+| 10 most Live tracks   | 10 least Live tracks          |
+|:----------------------|:------------------------------|
+| Step Back             | BOSS                          |
+| Dope                  | Black Mamba                   |
+| LOCO                  | Psycho                        |
+| HOT                   | Attention                     |
+| LOVE DIVE             | Alcohol-Free                  |
+| RUN2U                 | Queendom                      |
+| Hype Boy              | City Girls                    |
+| Go Big or Go Home     | ELEVEN                        |
+| Pink Venom            | Ice Cream (with Selena Gomez) |
+| Thunderous            | Holiday Party                 |
+
+| 10 most Happy tracks          | 10 least Happy tracks   |
+|:------------------------------|:------------------------|
+| Ice Cream (with Selena Gomez) | Missing You             |
+| LALISA                        | FEVER                   |
+| BAD GIRL (Prod. Czaer)        | FEARLESS                |
+| ANTIFRAGILE                   | DUMB DUMB               |
+| Go Big or Go Home             | Holiday Party           |
+| City Girls                    | Psycho                  |
+| Boy With Luv (feat. Halsey)   | RUN2U                   |
+| Thunderous                    | Pretty Savage           |
+| Hype Boy                      | BOSS                    |
+| Dynamite                      | ASAP                    |

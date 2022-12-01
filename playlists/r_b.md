@@ -74,6 +74,8 @@
 </details>
 
 
+![Comparison of Artist](../images/r_b/artists_comparison.png)
+
 ## Top Albums
 
 ![Bar chart of top 30 albums in](../images/playlists/r_b/albums.png)
@@ -205,3 +207,96 @@
 
 </details>
 
+
+## Audio Features
+
+| 10 most Danceable tracks         | 10 least Danceable tracks                     |
+|:---------------------------------|:----------------------------------------------|
+| Coño                             | I'd Rather Go Blind                           |
+| Yeah! (feat. Lil Jon & Ludacris) | So Sick                                       |
+| I Don't Mind (feat. Juicy J)     | Irreplaceable                                 |
+| Make Me Feel                     | Listen (From the Motion Picture "Dreamgirls") |
+| Bubblegum (feat. Tyga)           | All of Me                                     |
+| That's What I Like               | What Now                                      |
+| Bootylicious                     | Half Of Me                                    |
+| Don't Stop The Music             | Unknown (To You)                              |
+| Crazy                            | Ave Maria                                     |
+| 24K Magic                        | I'd Rather Go Blind                           |
+
+| 10 most Energetic tracks                   | 10 least Energetic tracks                 |
+|:-------------------------------------------|:------------------------------------------|
+| Boss Bitch                                 | Make Me Feel                              |
+| Green Light (feat. André 3000)             | Papa Was A Rollin' Stone - Single Version |
+| DJ Got Us Fallin' In Love (feat. Pitbull)  | Ave Maria                                 |
+| Finesse - Remix; feat. Cardi B             | Hold Up                                   |
+| When I Get You Alone                       | Easy                                      |
+| Bootylicious                               | Best Part (feat. H.E.R.)                  |
+| Umbrella                                   | Thinkin Bout You                          |
+| Isn't She Lovely                           | Stay                                      |
+| Sweet Dreams                               | When I Was Your Man                       |
+| Swalla (feat. Nicki Minaj & Ty Dolla $ign) | All of Me                                 |
+
+| 10 most Speechy tracks      | 10 least Speechy tracks                      |
+|:----------------------------|:---------------------------------------------|
+| Hold Up                     | The Way You Do The Things You Do             |
+| Irreplaceable               | I'd Rather Go Blind                          |
+| Bubblegum (feat. Tyga)      | If I Were a Boy                              |
+| So Sick                     | The Other Side (feat. CeeLo Green and B.o.B) |
+| Bootylicious                | Me & U                                       |
+| Trumpets                    | Build Me Up Buttercup                        |
+| Talk Dirty (feat. 2 Chainz) | One Step At a Time                           |
+| Crazy In Love (feat. Jay-Z) | Stay                                         |
+| Boss Bitch                  | Ave Maria                                    |
+| Daddy Lessons               | I'd Rather Go Blind                          |
+
+| 10 most Acoustic tracks   | 10 least Acoustic tracks    |
+|:--------------------------|:----------------------------|
+| Stay                      | That's What I Like          |
+| When I Was Your Man       | S&M                         |
+| All of Me                 | If I Go                     |
+| Unknown (To You)          | Umbrella                    |
+| Best Part (feat. H.E.R.)  | Finesse                     |
+| Ave Maria                 | Watch n' Learn              |
+| At My Worst               | Crazy In Love (feat. Jay-Z) |
+| How Can I                 | Bootylicious                |
+| Hold Up                   | Blinding Lights             |
+| I'd Rather Go Blind       | Coño                        |
+
+| 10 most Instrumental tracks                    | 10 least Instrumental tracks              |
+|:-----------------------------------------------|:------------------------------------------|
+| Crazy                                          | Ain't Too Proud To Beg                    |
+| Papa Was A Rollin' Stone - Single Version      | Umbrella                                  |
+| Coño                                           | DJ Got Us Fallin' In Love (feat. Pitbull) |
+| Superstition - Single Version                  | Locked out of Heaven                      |
+| Tomboy                                         | Me & U                                    |
+| Isn't She Lovely                               | Countdown                                 |
+| I Like That                                    | Finesse - Remix; feat. Cardi B            |
+| Thinkin Bout You                               | All of Me                                 |
+| We Found Love                                  | Halo                                      |
+| Tightrope (feat. Big Boi) - Big Boi Vocal Edit | Hit 'Em Up Style (Oops!)                  |
+
+| 10 most Live tracks              | 10 least Live tracks                      |
+|:---------------------------------|:------------------------------------------|
+| What Now                         | When I Get You Alone                      |
+| Love On Top                      | Don't Stop The Music                      |
+| For Once In My Life              | Baby Powder                               |
+| Hold Up                          | Papa Was A Rollin' Stone - Single Version |
+| MONTERO (Call Me By Your Name)   | Umbrella                                  |
+| Half Of Me                       | Yeah! (feat. Lil Jon & Ludacris)          |
+| The Way You Do The Things You Do | Superstition - Single Version             |
+| If I Were a Boy                  | One Step At a Time                        |
+| Daddy Lessons                    | Finesse                                   |
+| Make Me Feel                     | Finesse - Remix; feat. Cardi B            |
+
+| 10 most Happy tracks                      | 10 least Happy tracks                         |
+|:------------------------------------------|:----------------------------------------------|
+| Finesse                                   | Sincerely, Jane                               |
+| Ain't Too Proud To Beg                    | There Goes My Baby                            |
+| Finesse - Remix; feat. Cardi B            | Grenade                                       |
+| Papa Was A Rollin' Stone - Single Version | I Was Here                                    |
+| Superstition - Single Version             | What Now                                      |
+| Locked out of Heaven                      | Ave Maria                                     |
+| That's What I Like                        | Thinkin Bout You                              |
+| Build Me Up Buttercup                     | Listen (From the Motion Picture "Dreamgirls") |
+| For Once In My Life                       | I Like That                                   |
+| S&M                                       | Stay                                          |

@@ -76,6 +76,8 @@
 </details>
 
 
+![Comparison of Artist](../images/musicals/artists_comparison.png)
+
 ## Top Albums
 
 ![Bar chart of top 7 albums in](../images/playlists/musicals/albums.png)
@@ -116,3 +118,96 @@
 
 </details>
 
+
+## Audio Features
+
+| 10 most Danceable tracks                | 10 least Danceable tracks                                                            |
+|:----------------------------------------|:-------------------------------------------------------------------------------------|
+| Ten Duel Commandments                   | Entr'Acte                                                                            |
+| Washington on Your Side                 | Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture                  |
+| A Winter's Ball                         | Overture                                                                             |
+| Blow Us All Away                        | All I Ask Of You                                                                     |
+| The Adams Administration                | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture |
+| Farmer Refuted                          | One Day More                                                                         |
+| Non-Stop                                | I Dreamed A Dream                                                                    |
+| Yorktown (The World Turned Upside Down) | All I Ask Of You - From 'The Phantom Of The Opera' Motion Picture                    |
+| Say No to This                          | All I Ask Of You - Reprise                                                           |
+| Cabinet Battle #2                       | The Music Of The Night - From 'The Phantom Of The Opera' Motion Picture              |
+
+| 10 most Energetic tracks                                                  | 10 least Energetic tracks                                                            |
+|:--------------------------------------------------------------------------|:-------------------------------------------------------------------------------------|
+| Bad Idea (feat. Jason Mraz)                                               | Come To Me (Fantine's Death)                                                         |
+| Yorktown (The World Turned Upside Down)                                   | Empty Chairs At Empty Tables                                                         |
+| The Schuyler Sisters                                                      | All I Ask Of You - Reprise                                                           |
+| Opening Up                                                                | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture |
+| I Didn't Plan It                                                          | In My Life                                                                           |
+| Guns and Ships                                                            | Bring Him Home                                                                       |
+| Cabinet Battle #1                                                         | Angel Of Music - From 'The Phantom Of The Opera' Motion Picture                      |
+| My Shot                                                                   | Magical Lasso                                                                        |
+| Meet Me Inside                                                            | A Little Fall Of Rain                                                                |
+| The Phantom Of the Opera - From 'The Phantom Of The Opera' Motion Picture | Castle On A Cloud                                                                    |
+
+| 10 most Speechy tracks    | 10 least Speechy tracks                                             |
+|:--------------------------|:--------------------------------------------------------------------|
+| Aaron Burr, Sir           | The Music Of The Night                                              |
+| Prologue                  | I Didn't Plan It                                                    |
+| Ten Duel Commandments     | That Would Be Enough                                                |
+| The World Was Wide Enough | Entr'Acte                                                           |
+| The Adams Administration  | Empty Chairs At Empty Tables                                        |
+| Cabinet Battle #2         | Overture / Work Song                                                |
+| We Know                   | Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture |
+| A Winter's Ball           | Stars                                                               |
+| Your Obedient Servant     | Dear Theodosia                                                      |
+| Right Hand Man            | History Has Its Eyes on You                                         |
+
+| 10 most Acoustic tracks                                         | 10 least Acoustic tracks                                  |
+|:----------------------------------------------------------------|:----------------------------------------------------------|
+| Bring Him Home                                                  | Opening Up                                                |
+| I Dreamed A Dream                                               | I Didn't Plan It                                          |
+| Castle On A Cloud                                               | Cabinet Battle #1                                         |
+| A Heart Full Of Love                                            | Ten Duel Commandments                                     |
+| On My Own                                                       | Cabinet Battle #2                                         |
+| In My Life                                                      | The Phantom Of The Opera                                  |
+| Empty Chairs At Empty Tables                                    | The Reynolds Pamphlet                                     |
+| A Little Fall Of Rain                                           | Bad Idea (feat. Jason Mraz)                               |
+| Angel Of Music - From 'The Phantom Of The Opera' Motion Picture | Overture                                                  |
+| Come To Me (Fantine's Death)                                    | Overture - From 'The Phantom Of The Opera' Motion Picture |
+
+| 10 most Instrumental tracks                                       | 10 least Instrumental tracks   |
+|:------------------------------------------------------------------|:-------------------------------|
+| Entr'Acte                                                         | Non-Stop                       |
+| Overture                                                          | Alexander Hamilton             |
+| All I Ask Of You - Reprise                                        | Cabinet Battle #1              |
+| Overture - From 'The Phantom Of The Opera' Motion Picture         | Satisfied                      |
+| Bring Him Home                                                    | Ten Duel Commandments          |
+| The Phantom Of The Opera                                          | Right Hand Man                 |
+| Wishing You Were Somehow Here Again                               | Say No to This                 |
+| The Point Of No Return                                            | It's Quiet Uptown              |
+| Little Lotte / The Mirror (Angel Of Music)                        | Burn                           |
+| All I Ask Of You - From 'The Phantom Of The Opera' Motion Picture | Everything Changes             |
+
+| 10 most Live tracks                                                     | 10 least Live tracks                                         |
+|:------------------------------------------------------------------------|:-------------------------------------------------------------|
+| Yorktown (The World Turned Upside Down)                                 | Stay Alive - Reprise                                         |
+| I Know Him                                                              | Think Of Me - From 'The Phantom Of The Opera' Motion Picture |
+| Building the Barricade / On My Own - Live                               | It's Quiet Uptown                                            |
+| Stars                                                                   | Opening Up                                                   |
+| The Point Of No Return - From 'The Phantom Of The Opera' Motion Picture | Washington on Your Side                                      |
+| The Room Where It Happens                                               | All I Ask Of You - Reprise                                   |
+| The Story of Tonight                                                    | Dear Theodosia                                               |
+| The Schuyler Sisters                                                    | Bring Him Home                                               |
+| Ten Duel Commandments                                                   | Farmer Refuted                                               |
+| Blow Us All Away                                                        | Your Obedient Servant                                        |
+
+| 10 most Happy tracks        | 10 least Happy tracks                                                                |
+|:----------------------------|:-------------------------------------------------------------------------------------|
+| Schuyler Defeated           | The Point Of No Return                                                               |
+| Ten Duel Commandments       | Why Have You Brought Me Here                                                         |
+| The Schuyler Sisters        | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture |
+| The Adams Administration    | Bring Him Home                                                                       |
+| I Didn't Plan It            | All I Ask Of You - Reprise                                                           |
+| Bad Idea (feat. Jason Mraz) | I Remember / Stranger Than You Dreamt It                                             |
+| Helpless                    | Down Once More / Track Down This Murderer                                            |
+| We Know                     | Little Lotte / The Mirror (Angel Of Music)                                           |
+| A Winter's Ball             | Wandering Child / Bravo, Monsieur                                                    |
+| Blow Us All Away            | Wishing You Were Somehow Here Again                                                  |

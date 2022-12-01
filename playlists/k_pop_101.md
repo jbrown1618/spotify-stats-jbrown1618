@@ -57,6 +57,8 @@
 </details>
 
 
+![Comparison of Artist](../images/k_pop_101/artists_comparison.png)
+
 ## Top Albums
 
 ![Bar chart of top 30 albums in](../images/playlists/k_pop_101/albums.png)
@@ -147,3 +149,96 @@
 
 </details>
 
+
+## Audio Features
+
+| 10 most Danceable tracks   | 10 least Danceable tracks   |
+|:---------------------------|:----------------------------|
+| FEARLESS                   | MAGO                        |
+| BBIBBI                     | FEVER                       |
+| ELEVEN                     | INVU                        |
+| Back Door                  | DNA                         |
+| Next Level                 | Answer                      |
+| I Am The Best              | Odd Eye                     |
+| How You Like That          | Gotta Go                    |
+| WANNABE                    | Sticker                     |
+| Oh my god                  | HOLO                        |
+| HIP                        | O.O                         |
+
+| 10 most Energetic tracks   | 10 least Energetic tracks   |
+|:---------------------------|:----------------------------|
+| 쏘리 쏘리 Sorry, Sorry         | HIP                         |
+| Odd Eye                    | ELEVEN                      |
+| Pretty U                   | MOVE                        |
+| Hot Sauce                  | FEVER                       |
+| WANNABE                    | Love Shot                   |
+| Answer                     | Psycho                      |
+| DUN DUN                    | FEARLESS                    |
+| FANCY                      | BBIBBI                      |
+| LO$ER=LO♡ER                | Amusement Park              |
+| Next Level                 | HOLO                        |
+
+| 10 most Speechy tracks   | 10 least Speechy tracks   |
+|:-------------------------|:--------------------------|
+| BBIBBI                   | Gotta Go                  |
+| O.O                      | MIROTIC                   |
+| Sticker                  | Oh my god                 |
+| Back Door                | LO$ER=LO♡ER               |
+| Next Level               | I Am The Best             |
+| Pretty U                 | MAGO                      |
+| HIP                      | 쏘리 쏘리 Sorry, Sorry        |
+| FEARLESS                 | ASAP                      |
+| Love Shot                | Amusement Park            |
+| Genie                    | HOLO                      |
+
+| 10 most Acoustic tracks   | 10 least Acoustic tracks   |
+|:--------------------------|:---------------------------|
+| Amusement Park            | BANG BANG BANG             |
+| HOLO                      | Pretty U                   |
+| Next Level                | MOVE                       |
+| Shine                     | Hot Sauce                  |
+| Sticker                   | FANCY                      |
+| BBIBBI                    | WANNABE                    |
+| Psycho                    | I Am The Best              |
+| Replay                    | MAGO                       |
+| Back Door                 | Doom Du Doom               |
+| Genie                     | LO$ER=LO♡ER                |
+
+| 10 most Instrumental tracks   | 10 least Instrumental tracks   |
+|:------------------------------|:-------------------------------|
+| I Am The Best                 | ELEVEN                         |
+| FEARLESS                      | Hot Sauce                      |
+| MAGO                          | Odd Eye                        |
+| WANNABE                       | DNA                            |
+| How You Like That             | Shine                          |
+| Doom Du Doom                  | Psycho                         |
+| HIP                           | Answer                         |
+| Next Level                    | ASAP                           |
+| Genie                         | BBIBBI                         |
+| DUN DUN                       | BANG BANG BANG                 |
+
+| 10 most Live tracks   | 10 least Live tracks   |
+|:----------------------|:-----------------------|
+| Sticker               | MOVE                   |
+| Genie                 | Psycho                 |
+| FANCY                 | Pretty U               |
+| Answer                | Doom Du Doom           |
+| BANG BANG BANG        | DNA                    |
+| BBIBBI                | O.O                    |
+| Hot Sauce             | How You Like That      |
+| 쏘리 쏘리 Sorry, Sorry    | Shine                  |
+| Gashina               | I Am The Best          |
+| Odd Eye               | ELEVEN                 |
+
+| 10 most Happy tracks   | 10 least Happy tracks   |
+|:-----------------------|:------------------------|
+| 쏘리 쏘리 Sorry, Sorry     | BANG BANG BANG          |
+| Pretty U               | Gotta Go                |
+| Doom Du Doom           | Psycho                  |
+| HIP                    | INVU                    |
+| BBIBBI                 | How You Like That       |
+| Next Level             | Love Shot               |
+| Shine                  | ASAP                    |
+| FANCY                  | Amusement Park          |
+| Sticker                | O.O                     |
+| Genie                  | HOLO                    |

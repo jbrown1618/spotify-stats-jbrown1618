@@ -116,6 +116,8 @@
 </details>
 
 
+![Comparison of Artist](../images/liked_songs/artists_comparison.png)
+
 ## Top Albums
 
 ![Bar chart of top 30 albums in](../images/playlists/liked_songs/albums.png)
@@ -343,3 +345,96 @@
 
 </details>
 
+
+## Audio Features
+
+| 10 most Danceable tracks        | 10 least Danceable tracks   |
+|:--------------------------------|:----------------------------|
+| SexyBack (feat. Timbaland)      | Fix You                     |
+| Anaconda                        | A Case of You               |
+| #Twenty                         | Nature Boy                  |
+| FACE                            | Lights                      |
+| SNEAKERS                        | You Take My Breath Away     |
+| WAP (feat. Megan Thee Stallion) | Born To Die                 |
+| Billie Jean                     | The End (Interlude)         |
+| Another One Bites The Dust      | Amore                       |
+| Baby Got Back                   | Bridge Over Troubled Water  |
+| Fidelity                        | Pyramid Song                |
+
+| 10 most Energetic tracks   | 10 least Energetic tracks   |
+|:---------------------------|:----------------------------|
+| チョコレイト・ディスコ                | Blackbird - Remastered 2009 |
+| When Doves Cry             | xanny                       |
+| Shanti Shanti Shanti       | when the party's over       |
+| RING X RING                | The Dawntreader             |
+| Rondo of Nightmare         | Used                        |
+| Headbangeeeeerrrrr!!!!!    | Nature Boy                  |
+| Gimme Chocolate!!          | And So It Goes              |
+| Hit That Drum              | Run to You                  |
+| KARATE                     | Mad World                   |
+| だいじょばない                    | Kaleidoscope Heart          |
+
+| 10 most Speechy tracks           | 10 least Speechy tracks   |
+|:---------------------------------|:--------------------------|
+| Youngblood                       | Sweet Night               |
+| I Don't Need You                 | Set Fire to the Rain      |
+| MANIAC                           | I'd Rather Go Blind       |
+| Mambo No. 5 (a Little Bit of...) | Old Fashioned             |
+| Vigilante Shit                   | All Too Well              |
+| Free Fall                        | The Scientist             |
+| WAP (feat. Megan Thee Stallion)  | Breakeven                 |
+| bad guy                          | Satellite Call            |
+| Ice Cream (with Selena Gomez)    | 情非得已                      |
+| Feelin' Like                     | With                      |
+
+| 10 most Acoustic tracks      | 10 least Acoustic tracks   |
+|:-----------------------------|:---------------------------|
+| when the party's over        | Misery                     |
+| Bright Lights and Cityscapes | Oh Sorry Ya                |
+| Mad World                    | Gimme Chocolate!!          |
+| Manhattan                    | Cyberpunk                  |
+| Nature Boy                   | Tamed-Dashed               |
+| The Night We Met             | Mr. Simple                 |
+| I Had a King                 | Poison                     |
+| Sweet Nothing                | Headbangeeeeerrrrr!!!!!    |
+| The Dawntreader              | Kagerou                    |
+| Take It All                  | The Phantom Of The Opera   |
+
+| 10 most Instrumental tracks              | 10 least Instrumental tracks                |
+|:-----------------------------------------|:--------------------------------------------|
+| Digital Love                             | Hello, Sunset                               |
+| だいじょばない                                  | Brown Eyed Girl                             |
+| Street Spirit (Fade Out)                 | California Gurls                            |
+| everything i wanted                      | Something                                   |
+| Instant Crush (feat. Julian Casablancas) | I Love You 3000 II                          |
+| Smooth Criminal - 2012 Remaster          | THRILL RIDE                                 |
+| Pyramid Song                             | Locked out of Heaven                        |
+| Shanti Shanti Shanti                     | If I Ever Fall In Love (feat. Jason Derulo) |
+| You Take My Breath Away                  | Scream                                      |
+| The Night We Met                         | HANN (Alone)                                |
+
+| 10 most Live tracks            | 10 least Live tracks                  |
+|:-------------------------------|:--------------------------------------|
+| Bel Air                        | Ice Cream (with Selena Gomez)         |
+| Thriller                       | Holiday Party                         |
+| XS                             | YEPPI YEPPI                           |
+| Piano Man                      | memeM                                 |
+| You Better Run                 | That That (prod. & feat. SUGA of BTS) |
+| Red Lipstick (feat. Yoonmirae) | Finesse                               |
+| MAKE U DANCE (feat. EUNHA)     | SNEAKERS                              |
+| Sticker                        | CASE 143                              |
+| You Oughta Know                | Finesse - Remix; feat. Cardi B        |
+| 행복 (Happiness)                 | Ain't It Fun                          |
+
+| 10 most Happy tracks            | 10 least Happy tracks   |
+|:--------------------------------|:------------------------|
+| Sour candy                      | Yellow Flicker Beat     |
+| Big Yellow Taxi                 | Falling                 |
+| Like a Virgin                   | Lose Yourself           |
+| There's Nothing Holdin' Me Back | Crystallize             |
+| Devil                           | Once Upon Another Time  |
+| Twenty-three                    | xanny                   |
+| Pepe                            | No Time To Die          |
+| SexyBack (feat. Timbaland)      | Delicate                |
+| Mercy                           | What Sarah Said         |
+| I'm a Slave 4 U                 | You Take My Breath Away |

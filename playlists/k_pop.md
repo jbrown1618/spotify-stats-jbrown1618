@@ -119,6 +119,8 @@
 </details>
 
 
+![Comparison of Artist](../images/k_pop/artists_comparison.png)
+
 ## Top Albums
 
 ![Bar chart of top 30 albums in](../images/playlists/k_pop/albums.png)
@@ -346,3 +348,96 @@
 
 </details>
 
+
+## Audio Features
+
+| 10 most Danceable tracks   | 10 least Danceable tracks   |
+|:---------------------------|:----------------------------|
+| #Twenty                    | Blue Whale - 2016 Version   |
+| FACE                       | CHEESE                      |
+| SNEAKERS                   | Clockwork                   |
+| Idle song                  | Epilogue                    |
+| Jelly                      | Like Water                  |
+| Weather                    | Fine                        |
+| Typa Girl                  | My sea                      |
+| BOOM                       | On The Ground               |
+| Tippy Toes                 | Sweet                       |
+| Mr. Simple                 | U                           |
+
+| 10 most Energetic tracks   | 10 least Energetic tracks                            |
+|:---------------------------|:-----------------------------------------------------|
+| RING X RING                | ONLY                                                 |
+| Misfit                     | 그대라는 시                                               |
+| Hit That Drum              | Flower Way (Prod. By ZICO)                           |
+| MIROH                      | Rain and You                                         |
+| Side Effects               | Singularity                                          |
+| 소방차 Fire Truck             | Boy in time - HUI Solo                               |
+| Chase Me                   | BREATHE                                              |
+| Girls                      | How can I love the heartbreak, you're the one I love |
+| Abracadabra                | Stardust love song                                   |
+| 쏘리 쏘리 Sorry, Sorry         | Winter Sleep                                         |
+
+| 10 most Speechy tracks        | 10 least Speechy tracks                    |
+|:------------------------------|:-------------------------------------------|
+| I Don't Need You              | Gee                                        |
+| Addicted                      | Hope Not                                   |
+| MANIAC                        | Wicked                                     |
+| Freedom                       | Winter Sleep                               |
+| Free Fall                     | Rain and You                               |
+| Ice Cream (with Selena Gomez) | Moonlight Melody                           |
+| Feelin' Like                  | Slightly Tipsy (She is My Type♡ X SANDEUL) |
+| Signal                        | She's In The Rain                          |
+| BBIBBI                        | Sweet Night                                |
+| You Better Run                | With                                       |
+
+| 10 most Acoustic tracks                              | 10 least Acoustic tracks   |
+|:-----------------------------------------------------|:---------------------------|
+| 그대라는 시                                               | Drunk-Dazed                |
+| How can I love the heartbreak, you're the one I love | Adios                      |
+| ONLY                                                 | Attention, please!         |
+| Boy in time - HUI Solo                               | Red Light                  |
+| Run With Me                                          | Oh Sorry Ya                |
+| Goodbye                                              | Cyberpunk                  |
+| Amusement Park                                       | Tamed-Dashed               |
+| U                                                    | Mr. Simple                 |
+| Flower Way (Prod. By ZICO)                           | Easy                       |
+| If                                                   | Poison                     |
+
+| 10 most Instrumental tracks      | 10 least Instrumental tracks   |
+|:---------------------------------|:-------------------------------|
+| Tippy Toes                       | LOVE SCENARIO                  |
+| You and I (Park Bom)             | Hello                          |
+| Adios                            | Telepathy                      |
+| pporappippam                     | Black Swan                     |
+| Badster                          | TFW (That Feeling When)        |
+| YEPPI YEPPI                      | The Red Shoes                  |
+| It′s Raining                     | KIDDING ME                     |
+| So Hot                           | BREATHE                        |
+| GingaMingaYo (the strange world) | Into The Abyss                 |
+| I Am The Best                    | Sorry                          |
+
+| 10 most Live tracks            | 10 least Live tracks                  |
+|:-------------------------------|:--------------------------------------|
+| Heart Attack                   | Up!                                   |
+| Piano Man                      | POP!                                  |
+| You Better Run                 | Ice Cream (with Selena Gomez)         |
+| MAKE U DANCE (feat. EUNHA)     | Holiday Party                         |
+| Red Lipstick (feat. Yoonmirae) | YEPPI YEPPI                           |
+| Sticker                        | memeM                                 |
+| I Like That                    | That That (prod. & feat. SUGA of BTS) |
+| Vibrato                        | SNEAKERS                              |
+| 행복 (Happiness)                 | CASE 143                              |
+| Genie                          | PING PONG                             |
+
+| 10 most Happy tracks   | 10 least Happy tracks     |
+|:-----------------------|:--------------------------|
+| Sour candy             | Sweet Night               |
+| Devil                  | Stardust love song        |
+| Twenty-three           | Lucid Dream               |
+| Pepe                   | U                         |
+| Miniskirt              | My sea                    |
+| So Hot                 | Side Effects              |
+| Twinkle                | Good Night My Princess    |
+| 쏘리 쏘리 Sorry, Sorry     | 7월 7일 One Of These Nights |
+| Some (feat. Lil Boi)   | Grey Suit                 |
+| Give it to me          | The Road                  |

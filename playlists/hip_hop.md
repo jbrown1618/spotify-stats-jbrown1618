@@ -41,6 +41,8 @@
 </details>
 
 
+![Comparison of Artist](../images/hip_hop/artists_comparison.png)
+
 ## Top Albums
 
 ![Bar chart of top 23 albums in](../images/playlists/hip_hop/albums.png)
@@ -110,3 +112,96 @@
 
 </details>
 
+
+## Audio Features
+
+| 10 most Danceable tracks        | 10 least Danceable tracks   |
+|:--------------------------------|:----------------------------|
+| Anaconda                        | Super Bass                  |
+| WAP (feat. Megan Thee Stallion) | Boss Bitch                  |
+| Baby Got Back                   | Lose Yourself               |
+| We Made You                     | Need to Know                |
+| Sally Walker                    | Jesus Walks                 |
+| Where Is The Love?              | Gold Digger                 |
+| Alright                         | Hello Good Morning          |
+| Say So                          | Can't Tell Me Nothing       |
+| The Monster                     | All Of The Lights           |
+| Kiss Me More (feat. SZA)        | Get Low                     |
+
+| 10 most Energetic tracks   | 10 least Energetic tracks           |
+|:---------------------------|:------------------------------------|
+| Boss Bitch                 | INDUSTRY BABY (feat. Jack Harlow)   |
+| Hello Good Morning         | Say So                              |
+| Love The Way You Lie       | Baby Got Back                       |
+| Super Bass                 | Get Low                             |
+| We Made You                | Can't Tell Me Nothing               |
+| The Monster                | Need to Know                        |
+| Jesus Walks                | Anaconda                            |
+| All Of The Lights          | No Hands (feat. Roscoe Dash & Wale) |
+| Alright                    | Sally Walker                        |
+| Lose Yourself              | WAP (feat. Megan Thee Stallion)     |
+
+| 10 most Speechy tracks          | 10 least Speechy tracks             |
+|:--------------------------------|:------------------------------------|
+| WAP (feat. Megan Thee Stallion) | Sally Walker                        |
+| Gold Digger                     | We Made You                         |
+| Jesus Walks                     | All Of The Lights                   |
+| Baby Got Back                   | The Monster                         |
+| Lose Yourself                   | Need to Know                        |
+| Hello Good Morning              | INDUSTRY BABY (feat. Jack Harlow)   |
+| Alright                         | Get Low                             |
+| Love The Way You Lie            | No Hands (feat. Roscoe Dash & Wale) |
+| Boss Bitch                      | Can't Tell Me Nothing               |
+| Super Bass                      | Kiss Me More (feat. SZA)            |
+
+| 10 most Acoustic tracks   | 10 least Acoustic tracks            |
+|:--------------------------|:------------------------------------|
+| Jesus Walks               | The Monster                         |
+| Need to Know              | Get Low                             |
+| Super Bass                | INDUSTRY BABY (feat. Jack Harlow)   |
+| Say So                    | Gold Digger                         |
+| Love The Way You Lie      | WAP (feat. Megan Thee Stallion)     |
+| Kiss Me More (feat. SZA)  | Sally Walker                        |
+| Boss Bitch                | Can't Tell Me Nothing               |
+| Where Is The Love?        | Lose Yourself                       |
+| We Made You               | No Hands (feat. Roscoe Dash & Wale) |
+| All Of The Lights         | Baby Got Back                       |
+
+| 10 most Instrumental tracks   | 10 least Instrumental tracks        |
+|:------------------------------|:------------------------------------|
+| Lose Yourself                 | Jesus Walks                         |
+| Kiss Me More (feat. SZA)      | Where Is The Love?                  |
+| All Of The Lights             | No Hands (feat. Roscoe Dash & Wale) |
+| Anaconda                      | Get Low                             |
+| Super Bass                    | Love The Way You Lie                |
+| Say So                        | Gold Digger                         |
+| We Made You                   | Baby Got Back                       |
+| Boss Bitch                    | Alright                             |
+| Love The Way You Lie          | The Monster                         |
+| The Monster                   | Boss Bitch                          |
+
+| 10 most Live tracks                 | 10 least Live tracks              |
+|:------------------------------------|:----------------------------------|
+| Can't Tell Me Nothing               | Get Low                           |
+| Hello Good Morning                  | The Monster                       |
+| Super Bass                          | Sally Walker                      |
+| Love The Way You Lie                | Need to Know                      |
+| Lose Yourself                       | Say So                            |
+| Jesus Walks                         | Baby Got Back                     |
+| No Hands (feat. Roscoe Dash & Wale) | Alright                           |
+| Anaconda                            | WAP (feat. Megan Thee Stallion)   |
+| Boss Bitch                          | Gold Digger                       |
+| All Of The Lights                   | INDUSTRY BABY (feat. Jack Harlow) |
+
+| 10 most Happy tracks              | 10 least Happy tracks               |
+|:----------------------------------|:------------------------------------|
+| INDUSTRY BABY (feat. Jack Harlow) | Boss Bitch                          |
+| Where Is The Love?                | Hello Good Morning                  |
+| Say So                            | Alright                             |
+| Kiss Me More (feat. SZA)          | No Hands (feat. Roscoe Dash & Wale) |
+| Jesus Walks                       | WAP (feat. Megan Thee Stallion)     |
+| We Made You                       | All Of The Lights                   |
+| Super Bass                        | Need to Know                        |
+| Anaconda                          | Get Low                             |
+| Baby Got Back                     | Can't Tell Me Nothing               |
+| Love The Way You Lie              | Lose Yourself                       |

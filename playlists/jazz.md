@@ -34,6 +34,8 @@
 </details>
 
 
+![Comparison of Artist](../images/jazz/artists_comparison.png)
+
 ## Top Albums
 
 ![Bar chart of top 24 albums in](../images/playlists/jazz/albums.png)
@@ -97,3 +99,96 @@
 
 </details>
 
+
+## Audio Features
+
+| 10 most Danceable tracks            | 10 least Danceable tracks                     |
+|:------------------------------------|:----------------------------------------------|
+| That Man                            | Love Won't Let You Get Away                   |
+| Fake Monologue                      | La Vie En Rose                                |
+| Everything                          | I Can't Make You Love Me                      |
+| Someday (feat. Meghan Trainor)      | La vie en rose (feat. Cécile McLorin Salvant) |
+| Fly Me To The Moon (In Other Words) | Cry Me a River                                |
+| Agua De Beber                       | L-O-V-E - 2000 Remaster                       |
+| The Best Is yet to Come             | Beautiful Love                                |
+| The Way You Look Tonight            | Unforgettable                                 |
+| Call Me Irresponsible               | Strangers In The Night                        |
+| The Way You Look Tonight            | Can't Help Falling in Love                    |
+
+| 10 most Energetic tracks       | 10 least Energetic tracks                     |
+|:-------------------------------|:----------------------------------------------|
+| That Man                       | La vie en rose (feat. Cécile McLorin Salvant) |
+| Agua De Beber                  | Fly Me To The Moon (In Other Words)           |
+| Haven't Met You Yet            | I've Got You Under My Skin - Remastered 1998  |
+| Everything                     | Sunny                                         |
+| Moondance                      | Something In The Air Between Us               |
+| Feeling Good                   | The Way You Look Tonight                      |
+| Someday (feat. Meghan Trainor) | La Vie En Rose                                |
+| Cry Me a River                 | L-O-V-E - 2000 Remaster                       |
+| The Way You Look Tonight       | Fake Monologue                                |
+| Strangers In The Night         | I Can't Make You Love Me                      |
+
+| 10 most Speechy tracks              | 10 least Speechy tracks                       |
+|:------------------------------------|:----------------------------------------------|
+| That Man                            | Home                                          |
+| L-O-V-E - 2000 Remaster             | Strangers In The Night                        |
+| Moondance                           | Something In The Air Between Us               |
+| That's Life                         | La vie en rose (feat. Cécile McLorin Salvant) |
+| The Best Is yet to Come             | Can't Help Falling in Love                    |
+| Fake Monologue                      | Call Me Irresponsible                         |
+| Love Won't Let You Get Away         | Unforgettable                                 |
+| Fly Me To The Moon (In Other Words) | The Way You Look Tonight                      |
+| L-O-V-E                             | I Can't Make You Love Me                      |
+| Agua De Beber                       | Everything                                    |
+
+| 10 most Acoustic tracks            | 10 least Acoustic tracks                     |
+|:-----------------------------------|:---------------------------------------------|
+| I Can't Make You Love Me           | L-O-V-E                                      |
+| Something In The Air Between Us    | Feeling Good                                 |
+| Beautiful Love                     | Sunny                                        |
+| Home                               | Fly Me To The Moon (In Other Words)          |
+| Unforgettable                      | I've Got You Under My Skin - Remastered 1998 |
+| I Can't Make You Love Me           | Everything                                   |
+| Come Fly With Me - Remastered 1998 | The Best Is yet to Come                      |
+| Fake Monologue                     | Agua De Beber                                |
+| Love Won't Let You Get Away        | Someday (feat. Meghan Trainor)               |
+| La Vie En Rose                     | Haven't Met You Yet                          |
+
+| 10 most Instrumental tracks     | 10 least Instrumental tracks                  |
+|:--------------------------------|:----------------------------------------------|
+| Fake Monologue                  | Love Won't Let You Get Away                   |
+| Can't Help Falling in Love      | L-O-V-E                                       |
+| I Can't Make You Love Me        | La vie en rose (feat. Cécile McLorin Salvant) |
+| That Man                        | La Vie En Rose                                |
+| Agua De Beber                   | Someday (feat. Meghan Trainor)                |
+| The Way You Look Tonight        | Sunny                                         |
+| Unforgettable                   | The Way You Look Tonight                      |
+| I Can't Make You Love Me        | L-O-V-E - 2000 Remaster                       |
+| Call Me Irresponsible           | Haven't Met You Yet                           |
+| Something In The Air Between Us | That's Life                                   |
+
+| 10 most Live tracks                | 10 least Live tracks                |
+|:-----------------------------------|:------------------------------------|
+| Moondance                          | Something In The Air Between Us     |
+| Sunny                              | Everything                          |
+| That's Life                        | Can't Help Falling in Love          |
+| The Best Is yet to Come            | That Man                            |
+| The Way You Look Tonight           | Unforgettable                       |
+| I Can't Make You Love Me           | L-O-V-E - 2000 Remaster             |
+| Strangers In The Night             | Agua De Beber                       |
+| Come Fly With Me - Remastered 1998 | Cry Me a River                      |
+| La Vie En Rose                     | Someday (feat. Meghan Trainor)      |
+| The Way You Look Tonight           | Fly Me To The Moon (In Other Words) |
+
+| 10 most Happy tracks                         | 10 least Happy tracks           |
+|:---------------------------------------------|:--------------------------------|
+| Someday (feat. Meghan Trainor)               | Beautiful Love                  |
+| That Man                                     | Love Won't Let You Get Away     |
+| Haven't Met You Yet                          | Sunny                           |
+| L-O-V-E - 2000 Remaster                      | Breakfast on the Morning Tram   |
+| Fake Monologue                               | I Can't Make You Love Me        |
+| Agua De Beber                                | Something In The Air Between Us |
+| That's Life                                  | La Vie En Rose                  |
+| I've Got You Under My Skin - Remastered 1998 | Unforgettable                   |
+| L-O-V-E                                      | I Can't Make You Love Me        |
+| The Way You Look Tonight                     | Can't Help Falling in Love      |

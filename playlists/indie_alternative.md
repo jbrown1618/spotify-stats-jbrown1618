@@ -95,6 +95,8 @@
 </details>
 
 
+![Comparison of Artist](../images/indie_alternative/artists_comparison.png)
+
 ## Top Albums
 
 ![Bar chart of top 30 albums in](../images/playlists/indie_alternative/albums.png)
@@ -284,3 +286,96 @@
 
 </details>
 
+
+## Audio Features
+
+| 10 most Danceable tracks      | 10 least Danceable tracks     |
+|:------------------------------|:------------------------------|
+| Fidelity                      | Does He Love You?             |
+| On the Radio                  | What Kind Of Man              |
+| Somebody That I Used To Know  | Radio                         |
+| Good Intent                   | In the Aeroplane Over the Sea |
+| Dreamer                       | Shades Of Cool                |
+| Rather Be (feat. Jess Glynne) | No Surprises                  |
+| still feel.                   | Paranoid Android              |
+| Tick Tock (feat. 24kGoldn)    | Norman fucking Rockwell       |
+| Believer                      | Born To Die                   |
+| Recovery                      | Pyramid Song                  |
+
+| 10 most Energetic tracks   | 10 least Energetic tracks       |
+|:---------------------------|:--------------------------------|
+| Knights of Cydonia         | Odi Et Amo                      |
+| End Of All Hope            | Dreamer                         |
+| My Happy Ending            | I Will Follow You into the Dark |
+| Everybody Talks            | Norman fucking Rockwell         |
+| Cameo Lover                | Samson                          |
+| Supermassive Black Hole    | Honeybee                        |
+| Like They Do on the TV     | Hide and Seek                   |
+| Misery Business            | Hurt                            |
+| Ain't It Fun               | Used                            |
+| Gimme Sympathy             | Mad World                       |
+
+| 10 most Speechy tracks          | 10 least Speechy tracks    |
+|:--------------------------------|:---------------------------|
+| Cheap Thrills (feat. Sean Paul) | Odi Et Amo                 |
+| G Train                         | What Sarah Said            |
+| Eye of the Needle               | Meant                      |
+| Knights of Cydonia              | The Man Who Can't Be Moved |
+| Stressed Out                    | Reckoner                   |
+| That Man                        | Karma Police               |
+| Like They Do on the TV          | High And Dry               |
+| Believer                        | Come On Closer             |
+| Say My Name                     | Speeding Cars              |
+| Accidntel Deth                  | Breakeven                  |
+
+| 10 most Acoustic tracks         | 10 least Acoustic tracks   |
+|:--------------------------------|:---------------------------|
+| Mad World                       | Everybody Talks            |
+| The Night We Met                | Misery Business            |
+| Norman fucking Rockwell         | Kiss With A Fist           |
+| Meant to Move                   | Maniac                     |
+| Used                            | My Happy Ending            |
+| Icarus                          | Portions for Foxes         |
+| I Will Follow You into the Dark | Knights of Cydonia         |
+| Hide and Seek                   | Nemo                       |
+| Plain Gold Ring                 | End Of All Hope            |
+| Unknown (To You)                | The Phantom Of The Opera   |
+
+| 10 most Instrumental tracks    | 10 least Instrumental tracks     |
+|:-------------------------------|:---------------------------------|
+| A Better Son/Daughter          | Whatever We Feel                 |
+| Weird Fishes/ Arpeggi          | Cameo Lover                      |
+| Street Spirit (Fade Out)       | Automatonic Electronic Harmonics |
+| 1979 - Remastered 2012         | Hide and Seek                    |
+| Coal Miners                    | Two Way Street                   |
+| Pyramid Song                   | You've Got The Love              |
+| Swan Song                      | Black Horse And The Cherry Tree  |
+| The Night We Met               | G Train                          |
+| Mantra for a Struggling Artist | Come On Closer                   |
+| Meant to Move                  | You Oughta Know                  |
+
+| 10 most Live tracks                     | 10 least Live tracks       |
+|:----------------------------------------|:---------------------------|
+| Bel Air                                 | Kiss With A Fist           |
+| Whatever We Feel                        | The Other Side Of Paradise |
+| You Oughta Know                         | Stressed Out               |
+| Radioactive                             | Say My Name                |
+| The Night We Met                        | Icarus                     |
+| Saw It Coming                           | Paranoid Android           |
+| No Light, No Light                      | 1979 - Remastered 2012     |
+| Darling                                 | still feel.                |
+| Off To The Races                        | Seven Devils               |
+| Rockabye (feat. Sean Paul & Anne-Marie) | Ain't It Fun               |
+
+| 10 most Happy tracks            | 10 least Happy tracks            |
+|:--------------------------------|:---------------------------------|
+| 1979 - Remastered 2012          | The Good War                     |
+| Tick Tock (feat. 24kGoldn)      | Hide and Seek                    |
+| Earth                           | Shades Of Cool                   |
+| Come On Closer                  | Hurt                             |
+| Black Horse And The Cherry Tree | How Big, How Blue, How Beautiful |
+| That Man                        | Waltz Me to the Grave            |
+| Good Intent                     | Pyramid Song                     |
+| Flesh & Bone                    | A Better Son/Daughter            |
+| Kick It to Me                   | What Sarah Said                  |
+| Icarus                          | Swan Song                        |

@@ -71,6 +71,8 @@
 </details>
 
 
+![Comparison of Artist](../images/tarps/artists_comparison.png)
+
 ## Top Albums
 
 ![Bar chart of top 30 albums in](../images/playlists/tarps/albums.png)
@@ -202,3 +204,96 @@
 
 </details>
 
+
+## Audio Features
+
+| 10 most Danceable tracks   | 10 least Danceable tracks   |
+|:---------------------------|:----------------------------|
+| Crazy                      | Take It All                 |
+| Where Is The Love?         | Chandelier                  |
+| Dreamer                    | I Thought She Knew          |
+| One Step At a Time         | Something - Remastered 2009 |
+| Settle Down                | Can't Help Falling in Love  |
+| Blank Space                | Yesterday - Remastered 2009 |
+| No Scrubs                  | Poison & Wine               |
+| Rolling in the Deep        | Chariot                     |
+| This Love                  | Desperado - 2013 Remaster   |
+| Disturbia                  | Already Gone                |
+
+| 10 most Energetic tracks         | 10 least Energetic tracks      |
+|:---------------------------------|:-------------------------------|
+| Green Light (feat. André 3000)   | I Thought She Knew             |
+| Already Gone                     | Take It All                    |
+| This Love                        | The Way You Look Tonight       |
+| Jesus Walks                      | Crazy Love                     |
+| Umbrella                         | Desperado - 2013 Remaster      |
+| Cowboy Casanova                  | Dreamer                        |
+| Disturbia                        | Poison & Wine                  |
+| Mambo No. 5 (a Little Bit of...) | Yesterday - Remastered 2009    |
+| Home                             | Lullabye (Goodnight, My Angel) |
+| Gonna Get Over You               | Blackbird - Remastered 2009    |
+
+| 10 most Speechy tracks           | 10 least Speechy tracks    |
+|:---------------------------------|:---------------------------|
+| Mambo No. 5 (a Little Bit of...) | Gonna Get Over You         |
+| Jesus Walks                      | Rolling in the Deep        |
+| So Sick                          | One Step At a Time         |
+| Where Is The Love?               | You Lie                    |
+| Umbrella                         | Poison & Wine              |
+| Home                             | Can't Help Falling in Love |
+| Green Light (feat. André 3000)   | Chasing Cars               |
+| Carolina State of Mind           | Take A Chance On Me        |
+| No Scrubs                        | Old Fashioned              |
+| Crazy Love                       | The Scientist              |
+
+| 10 most Acoustic tracks        | 10 least Acoustic tracks   |
+|:-------------------------------|:---------------------------|
+| Take It All                    | Cowboy Casanova            |
+| Lullabye (Goodnight, My Angel) | No Scrubs                  |
+| Desperado - 2013 Remaster      | Gonna Get Over You         |
+| Can't Help Falling in Love     | Chandelier                 |
+| I Thought She Knew             | Crazy                      |
+| Yesterday - Remastered 2009    | Can't Tell Me Nothing      |
+| Crazy Love                     | I Will Wait                |
+| The Way You Look Tonight       | Umbrella                   |
+| That Wasn't Me                 | I Knew You Were Trouble.   |
+| Poison & Wine                  | Save Tonight               |
+
+| 10 most Instrumental tracks   | 10 least Instrumental tracks     |
+|:------------------------------|:---------------------------------|
+| Crazy                         | Carolina State of Mind           |
+| I Will Wait                   | Mambo No. 5 (a Little Bit of...) |
+| No Scrubs                     | Barton Hollow                    |
+| The Boxer                     | Cowboy Casanova                  |
+| Desperado - 2013 Remaster     | You Lie                          |
+| Can't Help Falling in Love    | The Lighthouse's Tale            |
+| Crazy Love                    | Yesterday - Remastered 2009      |
+| Poison & Wine                 | Jesus Walks                      |
+| Chasing Cars                  | That Wasn't Me                   |
+| Chandelier                    | The Way You Look Tonight         |
+
+| 10 most Live tracks              | 10 least Live tracks        |
+|:---------------------------------|:----------------------------|
+| Can't Tell Me Nothing            | Already Gone                |
+| Home                             | Settle Down                 |
+| Never Let Me Go                  | No Scrubs                   |
+| Chariot                          | Chandelier                  |
+| F**kin' Perfect                  | The Lighthouse's Tale       |
+| Old Fashioned                    | Blackbird - Remastered 2009 |
+| Jesus Walks                      | Rolling in the Deep         |
+| I Will Wait                      | Umbrella                    |
+| Mambo No. 5 (a Little Bit of...) | I Knew You Were Trouble.    |
+| Desperado - 2013 Remaster        | One Step At a Time          |
+
+| 10 most Happy tracks             | 10 least Happy tracks          |
+|:---------------------------------|:-------------------------------|
+| Take A Chance On Me              | Never Let Me Go                |
+| My Guy                           | Dreamer                        |
+| Mambo No. 5 (a Little Bit of...) | That Wasn't Me                 |
+| Where Is The Love?               | Lullabye (Goodnight, My Angel) |
+| This Love                        | The Scientist                  |
+| Home                             | Poison & Wine                  |
+| Mean                             | I Thought She Knew             |
+| Green Light (feat. André 3000)   | Desperado - 2013 Remaster      |
+| Disturbia                        | Chasing Cars                   |
+| Jesus Walks                      | Can't Tell Me Nothing          |

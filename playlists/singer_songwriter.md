@@ -51,6 +51,8 @@
 </details>
 
 
+![Comparison of Artist](../images/singer_songwriter/artists_comparison.png)
+
 ## Top Albums
 
 ![Bar chart of top 30 albums in](../images/playlists/singer_songwriter/albums.png)
@@ -194,3 +196,96 @@
 
 </details>
 
+
+## Audio Features
+
+| 10 most Danceable tracks   | 10 least Danceable tracks       |
+|:---------------------------|:--------------------------------|
+| Fidelity                   | Shadowboxer                     |
+| I Think He Knows           | exile (feat. Bon Iver)          |
+| On the Radio               | She's Always a Woman            |
+| Good Intent                | Creep Live At (Le)Poisson Rouge |
+| Cornelia Street            | Once Upon Another Time          |
+| Paper Rings                | Gravity                         |
+| Clean                      | Stay                            |
+| Dreamer                    | Shades Of Cool                  |
+| Gorgeous                   | Norman fucking Rockwell         |
+| Vigilante Shit             | Born To Die                     |
+
+| 10 most Energetic tracks          | 10 least Energetic tracks                                                         |
+|:----------------------------------|:----------------------------------------------------------------------------------|
+| We Didn't Start the Fire          | Lullabye (Goodnight, My Angel)                                                    |
+| Uptown Girl                       | Sweet Nothing                                                                     |
+| Scenes from an Italian Restaurant | I Had a King                                                                      |
+| Cameo Lover                       | She's Got a Way                                                                   |
+| Red                               | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 |
+| Hello/Goodbye                     | The Dawntreader                                                                   |
+| Bad Idea (feat. Jason Mraz)       | Blue                                                                              |
+| Morningside                       | Used                                                                              |
+| Movin' Out (Anthony's Song)       | And So It Goes                                                                    |
+| The Stranger                      | Kaleidoscope Heart                                                                |
+
+| 10 most Speechy tracks      | 10 least Speechy tracks        |
+|:----------------------------|:-------------------------------|
+| Vigilante Shit              | Meant                          |
+| False God                   | no body, no crime (feat. HAIM) |
+| Dancing With Our Hands Tied | Begin Again                    |
+| willow                      | The Longest Time               |
+| Question...?                | Pitter-Pat                     |
+| Shake It Off                | Whisper                        |
+| I Did Something Bad         | Speeding Cars                  |
+| Only the Good Die Young     | Lemon Love                     |
+| Cruel Summer                | All Too Well                   |
+| ...Ready For It?            | Satellite Call                 |
+
+| 10 most Acoustic tracks                                                           | 10 least Acoustic tracks                |
+|:----------------------------------------------------------------------------------|:----------------------------------------|
+| Blue                                                                              | We Are Never Ever Getting Back Together |
+| Bright Lights and Cityscapes                                                      | I Think He Knows                        |
+| The Pirate of Penance                                                             | Vegas                                   |
+| Manhattan                                                                         | Nightflyers                             |
+| She's Got a Way                                                                   | Many the Miles                          |
+| I Had a King                                                                      | Brave                                   |
+| Norman fucking Rockwell                                                           | I Knew You Were Trouble.                |
+| Sweet Nothing                                                                     | Style                                   |
+| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Now Is The Start                        |
+| The Dawntreader                                                                   | Out Of The Woods                        |
+
+| 10 most Instrumental tracks   | 10 least Instrumental tracks   |
+|:------------------------------|:-------------------------------|
+| Swan Song                     | Odi Et Amo                     |
+| Meant                         | She Used To Be Mine            |
+| Bel Air                       | One Sweet Love                 |
+| Top of the World              | Two Way Street                 |
+| Norman fucking Rockwell       | Cat's in the Cradle            |
+| Now Is The Start              | Only the Good Die Young        |
+| Satellite Call                | Talk It Up                     |
+| Islands                       | We Didn't Start the Fire       |
+| West Coast                    | Almost Lover                   |
+| Shades Of Cool                | Clean                          |
+
+| 10 most Live tracks                                                               | 10 least Live tracks        |
+|:----------------------------------------------------------------------------------|:----------------------------|
+| Bel Air                                                                           | Crocodile Rock              |
+| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Movin' Out (Anthony's Song) |
+| Whatever We Feel                                                                  | King of Anything            |
+| Creep Live At (Le)Poisson Rouge                                                   | My Life                     |
+| Uptown Girl                                                                       | I Feel the Earth Move       |
+| Big Yellow Taxi                                                                   | Chasing The Sun             |
+| Saw It Coming                                                                     | Eden                        |
+| Off To The Races                                                                  | Brave                       |
+| Cherry                                                                            | I Knew You Were Trouble.    |
+| This Is Why We Can't Have Nice Things                                             | Uncharted                   |
+
+| 10 most Happy tracks        | 10 least Happy tracks           |
+|:----------------------------|:--------------------------------|
+| Big Yellow Taxi             | Old Flame                       |
+| Crocodile Rock              | Hide and Seek                   |
+| Mercy                       | Shades Of Cool                  |
+| I Choose You                | Islands                         |
+| Shake It Off                | Dress                           |
+| Earth                       | Creep Live At (Le)Poisson Rouge |
+| Movin' Out (Anthony's Song) | Waltz Me to the Grave           |
+| We Didn't Start the Fire    | Once Upon Another Time          |
+| Blow Away                   | Delicate                        |
+| A Matter of Trust           | Swan Song                       |

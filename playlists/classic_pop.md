@@ -44,6 +44,8 @@
 </details>
 
 
+![Comparison of Artist](../images/classic_pop/artists_comparison.png)
+
 ## Top Albums
 
 ![Bar chart of top 30 albums in](../images/playlists/classic_pop/albums.png)
@@ -144,3 +146,96 @@
 
 </details>
 
+
+## Audio Features
+
+| 10 most Danceable tracks                  | 10 least Danceable tracks         |
+|:------------------------------------------|:----------------------------------|
+| Billie Jean                               | I'll Be There                     |
+| P.Y.T. (Pretty Young Thing)               | Cat's in the Cradle               |
+| Faith - Remastered                        | Isn't She Lovely                  |
+| Don't Stop 'Til You Get Enough            | I Want You Back                   |
+| Smooth Criminal - 2012 Remaster           | The Boxer                         |
+| Wanna Be Startin' Somethin'               | Tiny Dancer                       |
+| Papa Was A Rollin' Stone - Single Version | Unforgettable                     |
+| Man in the Mirror - 2012 Remaster         | The Lion Sleeps Tonight (Wimoweh) |
+| Respect                                   | Nature Boy                        |
+| I Will Survive - Single Version           | Bridge Over Troubled Water        |
+
+| 10 most Energetic tracks        | 10 least Energetic tracks                 |
+|:--------------------------------|:------------------------------------------|
+| Smooth Criminal - 2012 Remaster | Tiny Dancer                               |
+| Believe                         | My Girl                                   |
+| Material Girl                   | Papa Was A Rollin' Stone - Single Version |
+| Cecilia                         | Easy                                      |
+| Wanna Be Startin' Somethin'     | Your Song                                 |
+| Sugar, Sugar                    | The Sound of Silence - Acoustic Version   |
+| Freedom! '90 - Remastered       | Bridge Over Troubled Water                |
+| Like a Prayer                   | I Walk the Line - Stereo Version          |
+| Stayin Alive                    | Unforgettable                             |
+| Isn't She Lovely                | Nature Boy                                |
+
+| 10 most Speechy tracks                                                       | 10 least Speechy tracks                                 |
+|:-----------------------------------------------------------------------------|:--------------------------------------------------------|
+| Mambo No. 5 (a Little Bit of...)                                             | The Sound of Silence - Acoustic Version                 |
+| Faith - Remastered                                                           | Your Song                                               |
+| Don't Stop 'Til You Get Enough                                               | Build Me Up Buttercup                                   |
+| Isn't She Lovely                                                             | Candle In The Wind - Remastered 2014                    |
+| Papa Was A Rollin' Stone - Single Version                                    | Ring of Fire                                            |
+| Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968 | Rocket Man (I Think It's Going To Be A Long, Long Time) |
+| Smooth Criminal - 2012 Remaster                                              | Goodbye Yellow Brick Road - Remastered 2014             |
+| Can't Take My Eyes off You                                                   | Tiny Dancer                                             |
+| Superstition - Single Version                                                | Sugar, Sugar                                            |
+| Thriller                                                                     | I'll Be There                                           |
+
+| 10 most Acoustic tracks                        | 10 least Acoustic tracks        |
+|:-----------------------------------------------|:--------------------------------|
+| Nature Boy                                     | Superstition - Single Version   |
+| I Walk the Line - Stereo Version               | Stayin Alive                    |
+| Unforgettable                                  | Thriller                        |
+| The Sound of Silence - Acoustic Version        | Beat It                         |
+| Your Song                                      | Crocodile Rock                  |
+| Bridge Over Troubled Water                     | Wanna Be Startin' Somethin'     |
+| The Lion Sleeps Tonight (Wimoweh)              | Billie Jean                     |
+| Mrs. Robinson - From "The Graduate" Soundtrack | I Will Survive - Single Version |
+| The Boxer                                      | Faith - Remastered              |
+| I Feel the Earth Move                          | Believe                         |
+
+| 10 most Instrumental tracks               | 10 least Instrumental tracks            |
+|:------------------------------------------|:----------------------------------------|
+| Smooth Criminal - 2012 Remaster           | Mambo No. 5 (a Little Bit of...)        |
+| Wanna Be Startin' Somethin'               | Ain't Too Proud To Beg                  |
+| I Walk the Line - Stereo Version          | For Once In My Life                     |
+| Feels So Good                             | Sugar, Sugar                            |
+| Papa Was A Rollin' Stone - Single Version | Build Me Up Buttercup                   |
+| Don't Stop 'Til You Get Enough            | My Girl                                 |
+| Billie Jean                               | Careless Whisper                        |
+| Nature Boy                                | The Lion Sleeps Tonight (Wimoweh)       |
+| Unforgettable                             | Cat's in the Cradle                     |
+| Stayin Alive                              | The Sound of Silence - Acoustic Version |
+
+| 10 most Live tracks                                                          | 10 least Live tracks                      |
+|:-----------------------------------------------------------------------------|:------------------------------------------|
+| Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968 | Freedom! '90 - Remastered                 |
+| Thriller                                                                     | Crocodile Rock                            |
+| I'll Be There                                                                | Wanna Be Startin' Somethin'               |
+| For Once In My Life                                                          | Respect                                   |
+| I Want You Back                                                              | I Feel the Earth Move                     |
+| The Way You Do The Things You Do                                             | Believe                                   |
+| Ring of Fire                                                                 | Papa Was A Rollin' Stone - Single Version |
+| Isn't She Lovely                                                             | Billie Jean                               |
+| Mambo No. 5 (a Little Bit of...)                                             | Feels So Good                             |
+| Smooth Criminal - 2012 Remaster                                              | Superstition - Single Version             |
+
+| 10 most Happy tracks           | 10 least Happy tracks                                   |
+|:-------------------------------|:--------------------------------------------------------|
+| Material Girl                  | Rocket Man (I Think It's Going To Be A Long, Long Time) |
+| Like a Virgin                  | I'll Be There                                           |
+| Crocodile Rock                 | The Sound of Silence - Acoustic Version                 |
+| Sugar, Sugar                   | Your Song                                               |
+| Respect                        | Tiny Dancer                                             |
+| P.Y.T. (Pretty Young Thing)    | Man in the Mirror - 2012 Remaster                       |
+| Cecilia                        | Bridge Over Troubled Water                              |
+| Stayin Alive                   | Like a Prayer                                           |
+| Don't Stop 'Til You Get Enough | Unforgettable                                           |
+| ABC                            | Nature Boy                                              |

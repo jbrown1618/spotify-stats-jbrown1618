@@ -37,6 +37,8 @@
 </details>
 
 
+![Comparison of Artist](../images/aegyo/artists_comparison.png)
+
 ## Top Albums
 
 ![Bar chart of top 30 albums in](../images/playlists/aegyo/albums.png)
@@ -114,3 +116,96 @@
 
 </details>
 
+
+## Audio Features
+
+| 10 most Danceable tracks   | 10 least Danceable tracks          |
+|:---------------------------|:-----------------------------------|
+| 10 Months                  | 9 and Three Quarters (Run Away)    |
+| Dolphin                    | Super Yuppers!                     |
+| Banana Allergy Monkey      | Signal                             |
+| The Feels                  | Not For Sale                       |
+| Hmph!                      | What is Love                       |
+| BBoom BBoom                | Heart Shaker                       |
+| FIESTA                     | CHEER UP                           |
+| Gee                        | Let Me In (20 CUBE)                |
+| Babyface                   | Life's Too Short (English Version) |
+| Very Very Very             | Hello                              |
+
+| 10 most Energetic tracks   | 10 least Energetic tracks          |
+|:---------------------------|:-----------------------------------|
+| Very Very Very             | Babyface                           |
+| Feel Special               | Life's Too Short (English Version) |
+| Hmph!                      | Let Me In (20 CUBE)                |
+| Dun Dun Dance              | Signal                             |
+| Heart Shaker               | 9 and Three Quarters (Run Away)    |
+| BAAM                       | BBoom BBoom                        |
+| Umpah Umpah                | 10 Months                          |
+| Power Up                   | Dolphin                            |
+| Super Yuppers!             | Polaroid Love                      |
+| Pretty U                   | Not For Sale                       |
+
+| 10 most Speechy tracks             | 10 least Speechy tracks   |
+|:-----------------------------------|:--------------------------|
+| Signal                             | 10 Months                 |
+| Life's Too Short (English Version) | Hello                     |
+| Not For Sale                       | Polaroid Love             |
+| Red Flavor                         | BAAM                      |
+| Let Me In (20 CUBE)                | YES or YES                |
+| Pretty U                           | THRILL RIDE               |
+| 青春修炼手册                             | BBoom BBoom               |
+| Power Up                           | Hmph!                     |
+| CHEER UP                           | Likey                     |
+| Super Yuppers!                     | Gee                       |
+
+| 10 most Acoustic tracks            | 10 least Acoustic tracks        |
+|:-----------------------------------|:--------------------------------|
+| Polaroid Love                      | Babyface                        |
+| Likey                              | 10 Months                       |
+| Hello                              | Feel Special                    |
+| Life's Too Short (English Version) | Umpah Umpah                     |
+| Gee                                | Pretty U                        |
+| Like Ooh-Ahh                       | BBoom BBoom                     |
+| Signal                             | Super Yuppers!                  |
+| Dolphin                            | Blue Hour                       |
+| Dun Dun Dance                      | 9 and Three Quarters (Run Away) |
+| CHEER UP                           | Let Me In (20 CUBE)             |
+
+| 10 most Instrumental tracks   | 10 least Instrumental tracks   |
+|:------------------------------|:-------------------------------|
+| Power Up                      | What is Love                   |
+| BBoom BBoom                   | Polaroid Love                  |
+| BAAM                          | Umpah Umpah                    |
+| Feel Special                  | Banana Allergy Monkey          |
+| Hmph!                         | FIESTA                         |
+| Likey                         | Babyface                       |
+| TT                            | CHEER UP                       |
+| Like Ooh-Ahh                  | Red Flavor                     |
+| YES or YES                    | 青春修炼手册                         |
+| Very Very Very                | THRILL RIDE                    |
+
+| 10 most Live tracks   | 10 least Live tracks   |
+|:----------------------|:-----------------------|
+| Umpah Umpah           | THRILL RIDE            |
+| Yummy Yummy Love      | Let Me In (20 CUBE)    |
+| TT                    | Hmph!                  |
+| Like Ooh-Ahh          | Blue Hour              |
+| Polaroid Love         | BAAM                   |
+| Hello                 | Red Flavor             |
+| FIESTA                | Very Very Very         |
+| Power Up              | The Feels              |
+| Super Yuppers!        | Pretty U               |
+| What is Love          | BBoom BBoom            |
+
+| 10 most Happy tracks   | 10 least Happy tracks              |
+|:-----------------------|:-----------------------------------|
+| Hmph!                  | Dolphin                            |
+| The Feels              | What is Love                       |
+| BAAM                   | 青春修炼手册                             |
+| Power Up               | Not For Sale                       |
+| Pretty U               | Life's Too Short (English Version) |
+| Super Yuppers!         | 9 and Three Quarters (Run Away)    |
+| Heart Shaker           | Red Flavor                         |
+| Umpah Umpah            | CHEER UP                           |
+| BBoom BBoom            | Likey                              |
+| Banana Allergy Monkey  | TT                                 |
