@@ -39,11 +39,11 @@
 
 ## Top Albums
 
-![Bar chart of top 27 albums](../images/genres/neo_mellow/albums.png)
+![Bar chart of top 26 albums](../images/genres/neo_mellow/albums.png)
 
 
 <details>
-<summary>See all 27 albums</summary>
+<summary>See all 26 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                       | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------|:-----------------------------------------------------------|
@@ -57,11 +57,10 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273183730e8038fa632b2c227da" alt="" width="50" /> | Eye To The Telescope                        | [🔗](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273e7b8e0abcd5cdc4c8b5a238c" alt="" width="50" /> | Bomb In A Birdcage                          | [🔗](https://open.spotify.com/album/07IV5RxLvAUeZbcPm4zOzn) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2730f2e51f7121539e221c51161" alt="" width="50" /> | We Sing. We Dance. We Steal Things.         | [🔗](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | The Script                                  | [🔗](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2737ebde0a5bb07f53a99c15224" alt="" width="50" /> | Barton Hollow                               | [🔗](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27326a2f5224465a369f8abbf88" alt="" width="50" /> | lovestrong.                                 | [🔗](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737948eec521c67e76cafe30a0" alt="" width="50" /> | Trading Snakeoil for Wolftickets            | [🔗](https://open.spotify.com/album/1OydCrx4m7fguwcX4stR9z) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | The Script                                  | [🔗](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b526ba531c80ed208cd428ed" alt="" width="50" /> | The Script                                  | [🔗](https://open.spotify.com/album/51Hn2Wiq1jmUfI0BLaUhuF) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732cf1dcc65396176307f23524" alt="" width="50" /> | PINES                                       | [🔗](https://open.spotify.com/album/1876e9QcHkJ3Hgo4NqKXBN) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735da1093d047cc15eb66d27cf" alt="" width="50" /> | OK Now                                      | [🔗](https://open.spotify.com/album/3fKJJQFV6a61fnKYDDj2LU) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739f48d446654c7b8b9b7bc58b" alt="" width="50" /> | Little Love - EP                            | [🔗](https://open.spotify.com/album/2PLM1yTphJeFZg01Xiaumc) |
@@ -88,7 +87,7 @@
 
 |   Number of Tracks | Label                                                         |
 |-------------------:|:--------------------------------------------------------------|
-|                 61 | [Epic](../labels/epic.md)                                     |
+|                 62 | [Epic](../labels/epic.md)                                     |
 |                 10 | [Virgin Records](../labels/virgin_records.md)                 |
 |                  3 | [Relentless](../labels/relentless.md)                         |
 |                  3 | [Atlantic Records](../labels/atlantic_records.md)             |
@@ -138,12 +137,12 @@
 | 10 most Speechy tracks          | 10 least Speechy tracks    |
 |:--------------------------------|:---------------------------|
 | Home                            | Islands                    |
-| Electric Twist                  | Breathe Again              |
-| Opening Up                      | Sweet As Whole             |
-| Kaleidoscope Heart              | Chasing Cars               |
-| Come Round Soon                 | Orpheus                    |
-| Bad Idea (feat. Jason Mraz)     | Machine Gun                |
-| Black Horse And The Cherry Tree | The Man Who Can't Be Moved |
+| Electric Twist                  | The Man Who Can't Be Moved |
+| Opening Up                      | Breathe Again              |
+| Kaleidoscope Heart              | Sweet As Whole             |
+| Come Round Soon                 | Chasing Cars               |
+| Bad Idea (feat. Jason Mraz)     | Orpheus                    |
+| Black Horse And The Cherry Tree | Machine Gun                |
 | Fire                            | Whisper                    |
 | Eden                            | Breakeven                  |
 | Little Black Dress              | Satellite Call             |

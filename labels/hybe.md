@@ -1,9 +1,9 @@
 # HYBE
 
-18 songs
+17 songs
 
 Appears as:
-- BIGHIT MUSIC / HYBE (18 tracks)
+- BIGHIT MUSIC / HYBE (17 tracks)
 
 ## Top Artists
 
@@ -15,7 +15,7 @@ Appears as:
 
 |   Number of Tracks | Art                                                                                              | Artist                   | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------|:------------------------------------------------------------|
-|                 12 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
+|                 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebe94c521bbe0604a5fcd4f8bf" alt="" width="50" /> | Agust D                  | [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb978f96761eb3fa26b91f1fb8" alt="" width="50" /> | Becky G                  | [🔗](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd5994e184740547ea75eed2a" alt="" width="50" /> | RM                       | [🔗](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) |
@@ -27,11 +27,11 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 10 albums](../images/labels/hybe/albums.png)
+![Bar chart of top 9 albums](../images/labels/hybe/albums.png)
 
 
 <details>
-<summary>See all 10 albums</summary>
+<summary>See all 9 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                  | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:-----------------------------------------------------------|
@@ -39,7 +39,6 @@ Appears as:
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2738afcb7dd182cffe8d53b781e" alt="" width="50" /> | MAP OF THE SOUL : 7                    | [🔗](https://open.spotify.com/album/6mJZTV8lCqnwftYZa94bXS) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | Love Yourself 承 'Her'                  | [🔗](https://open.spotify.com/album/2FTS6a6DLXMNp8flyA0HGO) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273bd375b430c3abeceb8b5d8da" alt="" width="50" /> | You Never Walk Alone                   | [🔗](https://open.spotify.com/album/7LF4N7lvyDhrPBuCJ1rplJ) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273aabacdacfb6eceeb819c6ed6" alt="" width="50" /> | Wings                                  | [🔗](https://open.spotify.com/album/17FnTn4P3Bkyf6mbNQDhhy) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738ac442a54c68aad8f9b93f51" alt="" width="50" /> | The Most Beautiful Moment in Life Pt.2 | [🔗](https://open.spotify.com/album/4frjaGAtuBmm8CPuYPY4oG) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738f31818d30fdb7f44fd57713" alt="" width="50" /> | Dark & Wild                            | [🔗](https://open.spotify.com/album/7FxxU3EP37uMsZf8FilkDR) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273819e2d9468a6792735c0ec77" alt="" width="50" /> | Chicken Noodle Soup (feat. Becky G)    | [🔗](https://open.spotify.com/album/76IRLp7YzBVLKsat6Ro9ae) |
@@ -59,8 +58,8 @@ Appears as:
 
 |   Number of Tracks | Genre                                           |
 |-------------------:|:------------------------------------------------|
-|                 13 | [k-pop](../genres/k_pop.md)                     |
-|                 12 | [k-pop boy group](../genres/k_pop_boy_group.md) |
+|                 12 | [k-pop](../genres/k_pop.md)                     |
+|                 11 | [k-pop boy group](../genres/k_pop_boy_group.md) |
 |                  6 | k-rap                                           |
 
 </details>
@@ -78,7 +77,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27349a0f2ca62742d289da81509" alt="" width="50" /> | Like                                | 2 Cool 4 Skool                         | [BTS](../artists/bts.md) | [HYBE](hybe.md), [BIGHIT MUSIC](bighit_music.md) |     | [🔗](https://open.spotify.com/track/1HQHuPpr2s2z3VIBTLtUmv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f31818d30fdb7f44fd57713" alt="" width="50" /> | Danger                              | Dark & Wild                            | [BTS](../artists/bts.md) | [HYBE](hybe.md), [BIGHIT MUSIC](bighit_music.md) |     | [🔗](https://open.spotify.com/track/6njl4FfPUwVmoIR1RKLq05) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738ac442a54c68aad8f9b93f51" alt="" width="50" /> | Butterfly                           | The Most Beautiful Moment in Life Pt.2 | [BTS](../artists/bts.md) | [HYBE](hybe.md), [BIGHIT MUSIC](bighit_music.md) | 💚   | [🔗](https://open.spotify.com/track/6kX452oUUNojKWNNuc1nqx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273aabacdacfb6eceeb819c6ed6" alt="" width="50" /> | Blood Sweat & Tears                 | Wings                                  | [BTS](../artists/bts.md) | [HYBE](hybe.md), [BIGHIT MUSIC](bighit_music.md) |     | [🔗](https://open.spotify.com/track/5RGf8qn1TBWVplLyyKUsuV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bd375b430c3abeceb8b5d8da" alt="" width="50" /> | Spring Day                          | You Never Walk Alone                   | [BTS](../artists/bts.md) | [HYBE](hybe.md), [BIGHIT MUSIC](bighit_music.md) | 💚   | [🔗](https://open.spotify.com/track/0WNGsQ1oAuHzNTk8jivBKW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | DNA                                 | Love Yourself 承 'Her'                  | [BTS](../artists/bts.md) | [HYBE](hybe.md), [BIGHIT MUSIC](bighit_music.md) | 💚   | [🔗](https://open.spotify.com/track/5SE57ljOIUJ1ybL9U6CuBH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | MIC Drop                            | Love Yourself 承 'Her'                  | [BTS](../artists/bts.md) | [HYBE](hybe.md), [BIGHIT MUSIC](bighit_music.md) |     | [🔗](https://open.spotify.com/track/2SYa5Lx1uoCvyDIW4oee9b) |

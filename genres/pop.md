@@ -1,6 +1,6 @@
 # pop
 
-[505 songs](pop_tracks.md)
+[504 songs](pop_tracks.md)
 
 ## Top Artists
 
@@ -18,8 +18,8 @@
 |                 59 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../artists/sara_bareilles.md)                 | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 |                 25 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../artists/ariana_grande.md)                   | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 |                 22 | <img src="https://i.scdn.co/image/ab6761610000e5eb916392fe8c66d0c993657b6d" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md)                               | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
-|                 19 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../artists/leehi.md)                                   | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 |                 19 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5903678d3db18e271e42be0" alt="" width="50" /> | [Lana Del Rey](../artists/lana_del_rey.md)                     | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
+|                 18 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../artists/leehi.md)                                   | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 |                 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | [Florence + The Machine](../artists/florence___the_machine.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
 |                 15 | <img src="https://i.scdn.co/image/ab6761610000e5eb676338904deb80cffb568216" alt="" width="50" /> | [Beyoncé](../artists/beyonc_.md)                               | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 |                 13 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../artists/lady_gaga.md)                           | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
@@ -167,7 +167,7 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Good Girl Gone Bad: Reloaded               | [🔗](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a" alt="" width="50" /> | Fine Line                                  | [🔗](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | Fearless                                   | [🔗](https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2735f9393fda71e7df39b34defd" alt="" width="50" /> | Dangerous Woman                            | [🔗](https://open.spotify.com/album/3OZgEywV4krCZ814pTJWr7) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="" width="50" /> | Dangerous Woman                            | [🔗](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Camila                                     | [🔗](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="" width="50" /> | 24K Magic                                  | [🔗](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be" alt="" width="50" /> | evermore                                   | [🔗](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) |
@@ -179,6 +179,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2730f2e51f7121539e221c51161" alt="" width="50" /> | We Sing. We Dance. We Steal Things.        | [🔗](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="" width="50" /> | Unorthodox Jukebox                         | [🔗](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731f69f49a0d2f6b13a79efe02" alt="" width="50" /> | Unapologetic                               | [🔗](https://open.spotify.com/album/0XJya16l3K1J2dEwY19F8z) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | The Script                                 | [🔗](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="" width="50" /> | The Fame Monster (Deluxe Edition)          | [🔗](https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef" alt="" width="50" /> | Talk That Talk                             | [🔗](https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e" alt="" width="50" /> | Talk Dirty                                 | [🔗](https://open.spotify.com/album/4PeZu0It7qVrTG40t3HM9A) |
@@ -226,7 +227,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27341aa6776dc15fbd71a2b4557" alt="" width="50" /> | Youngblood (Deluxe)                        | [🔗](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2" alt="" width="50" /> | Young And Beautiful                        | [🔗](https://open.spotify.com/album/1D92WOHWUI2AGQCCdplcXL) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731d883d3f10af481faa3c7e04" alt="" width="50" /> | You Don't Know Me                          | [🔗](https://open.spotify.com/album/3gdmWRWWJmkp5uMBXf755B) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="" width="50" /> | Yoga                                       | [🔗](https://open.spotify.com/album/5rzxGeVyCV74SvV5hjLRAU) |
 
 </details>
 
@@ -241,7 +241,7 @@
 
 |   Number of Tracks | Label                                                                                                               |
 |-------------------:|:--------------------------------------------------------------------------------------------------------------------|
-|                 78 | [Epic](../labels/epic.md)                                                                                           |
+|                 79 | [Epic](../labels/epic.md)                                                                                           |
 |                 36 | [Columbia](../labels/columbia.md)                                                                                   |
 |                 32 | [Taylor Swift](../labels/taylor_swift.md)                                                                           |
 |                 31 | [Interscope](../labels/interscope.md)                                                                               |
@@ -254,7 +254,7 @@
 |                 15 | [Universal-Island Records Ltd.](../labels/universal_island_records_ltd_.md)                                         |
 |                 15 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 13 | [Universal Music LLC](../labels/universal_music_llc.md)                                                             |
-|                 11 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
+|                 10 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
 |                 10 | [Syco Music](../labels/syco_music.md)                                                                               |
 |                 10 | [Def Jam Recordings](../labels/def_jam_recordings.md)                                                               |
 |                 10 | [Darkroom](../labels/darkroom.md)                                                                                   |
@@ -353,11 +353,11 @@
 | Anaconda                        | La Vie En Rose              |
 | WAP (feat. Megan Thee Stallion) | Once Upon Another Time      |
 | Billie Jean                     | Gravity                     |
-| Pretty Please                   | Stay                        |
-| bury a friend                   | Shades Of Cool              |
-| 1, 2, 3, 4                      | Norman fucking Rockwell     |
-| Sally Walker                    | Already Gone                |
-| Coño                            | Fix You                     |
+| Pretty Please                   | Shades Of Cool              |
+| 1, 2, 3, 4                      | Stay                        |
+| bury a friend                   | Norman fucking Rockwell     |
+| Sally Walker                    | Fix You                     |
+| Coño                            | Already Gone                |
 | I Think He Knows                | Born To Die                 |
 
 | 10 most Energetic tracks        | 10 least Energetic tracks                                                         |
@@ -375,13 +375,13 @@
 
 | 10 most Speechy tracks          | 10 least Speechy tracks        |
 |:--------------------------------|:-------------------------------|
-| Youngblood                      | The Man Who Can't Be Moved     |
-| boyfriend (with Social House)   | no body, no crime (feat. HAIM) |
-| Hold Up                         | She's In The Rain              |
+| Youngblood                      | Travelin' Soldier              |
+| boyfriend (with Social House)   | She's In The Rain              |
+| Hold Up                         | no body, no crime (feat. HAIM) |
 | Vigilante Shit                  | Begin Again                    |
 | Irreplaceable                   | Chasing Pavements              |
-| WAP (feat. Megan Thee Stallion) | Set Fire to the Rain           |
-| bad guy                         | All Too Well                   |
+| bad guy                         | Set Fire to the Rain           |
+| WAP (feat. Megan Thee Stallion) | All Too Well                   |
 | Bubblegum (feat. Tyga)          | The Scientist                  |
 | 7 rings                         | Breakeven                      |
 | bury a friend                   | Satellite Call                 |

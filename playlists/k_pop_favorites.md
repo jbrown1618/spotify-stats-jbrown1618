@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b273714e56679ab196354e2e443eab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738c4a282e84a53c1c8acf129a" alt="K-Pop Favorites" width="100" />
 
-[197 songs](k_pop_favorites_tracks.md)
+[195 songs](k_pop_favorites_tracks.md)
 
 ## Top Artists
 
@@ -17,7 +17,7 @@
 
 |   Number of Tracks | Art                                                                                              | Artist                                               | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------|:------------------------------------------------------------|
-|                 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)               | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
+|                 12 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)               | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 |                 10 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)                 | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)                     | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | [IU](../artists/iu.md)                               | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
@@ -125,7 +125,6 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | IU 5th Album 'LILAC'                                                    | [🔗](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | BORN PINK                                                               | [🔗](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2738c4a282e84a53c1c8acf129a" alt="" width="50" /> | ‘The ReVe Festival 2022 - Feel My Rhythm’                               | [🔗](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273d2ef237da7f94762997c2083" alt="" width="50" /> | ‘The ReVe Festival 2022 - Birthday’                                     | [🔗](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | Windy                                                                   | [🔗](https://open.spotify.com/album/1lv92CIVZbB2BsHmIx7qJf) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273231a1b74cc820bb632de108c" alt="" width="50" /> | SQUARE ONE                                                              | [🔗](https://open.spotify.com/album/0AcFaK32ui9rF2ySEdXrv4) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="" width="50" /> | Palette                                                                 | [🔗](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) |
@@ -140,6 +139,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c07b020417770f3385448f" alt="" width="50" /> | 回:Walpurgis Night                                                       | [🔗](https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | ‘The ReVe Festival’ Finale                                              | [🔗](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="" width="50" /> | ‘The ReVe Festival’ Day 1                                               | [🔗](https://open.spotify.com/album/2nLEiP268mSFZHW5dajM4R) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d2ef237da7f94762997c2083" alt="" width="50" /> | ‘The ReVe Festival 2022 - Birthday’                                     | [🔗](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738232e1aaaf4c9ed4b6946ce8" alt="" width="50" /> | the Billage of perception: chapter two                                  | [🔗](https://open.spotify.com/album/0NuM7kwh6u6fIRjn7Zh7Ss) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734c5be128bd1b55bf36041574" alt="" width="50" /> | the Billage of perception : chapter one                                 | [🔗](https://open.spotify.com/album/1kp4txZsSpDNR4EoDFi2LD) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27329134ca1a4c424b7d98cb0af" alt="" width="50" /> | reminiscence                                                            | [🔗](https://open.spotify.com/album/0zH0C0fkzAjhSnGKLOuxwX) |
@@ -179,7 +179,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273bc125f40131dd5869b2ec36c" alt="" width="50" /> | Star To A Young Culture                                                 | [🔗](https://open.spotify.com/album/4PrRd0lIunUEiiE5rbZklR) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e33d84e471094fe701f06860" alt="" width="50" /> | SUNMI SPECIAL EDITION [Gashina]                                         | [🔗](https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273af2fda9fb591d43c355c2ac3" alt="" width="50" /> | STAYDOM                                                                 | [🔗](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733f6e15b13168587cfc120e52" alt="" width="50" /> | SQUARE UP                                                               | [🔗](https://open.spotify.com/album/1HwIUaaEuRsxsIyssqtGLH) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef" alt="" width="50" /> | SQUARE UP                                                               | [🔗](https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27362e6288a5887b95176cca29e" alt="" width="50" /> | SOLO                                                                    | [🔗](https://open.spotify.com/album/7qAJpYeABXN9ZV5wOOX59k) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273deeee778a591e7032c1bdc80" alt="" width="50" /> | SEVENTEEN 1ST ALBUM [FIRST ‘LOVE&LETTER’]                               | [🔗](https://open.spotify.com/album/50BrkBakrLWufmTLjCVBwn) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="" width="50" /> | SEOULITE                                                                | [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) |
@@ -192,10 +192,9 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b87c0d76ed9c7b1654b390d0" alt="" width="50" /> | Purpose - The 2nd Album                                                 | [🔗](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273682ac678746ad21b6b799950" alt="" width="50" /> | Pity Party                                                              | [🔗](https://open.spotify.com/album/2yMHiLYBnrMsdUCUL3bFkU) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737752724657197df65e7c82f9" alt="" width="50" /> | Piano Man                                                               | [🔗](https://open.spotify.com/album/1kdURRaOTpDCQqsVIU5CiT) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="" width="50" /> | Perfect Velvet - The 2nd Album                                          | [🔗](https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dad8806d4958b875dd487f6e" alt="" width="50" /> | Paint Me Naked - SM STATION                                             | [🔗](https://open.spotify.com/album/4oj5R0SVazc5Eq3WnIC0e6) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736bd4012e2889d22821ab35b0" alt="" width="50" /> | ONLY                                                                    | [🔗](https://open.spotify.com/album/0uYGAR5pW8P76uOlrOYIMZ) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fda74ae03a653f5d84010a79" alt="" width="50" /> | Not Shy                                                                 | [🔗](https://open.spotify.com/album/0aqu2V5ohKHVfWqVFE7Ila) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | Not Shy                                                                 | [🔗](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737a393b04e8ced571618223e8" alt="" width="50" /> | Next Level                                                              | [🔗](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" alt="" width="50" /> | NewJeans 1st EP 'New Jeans'                                             | [🔗](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736c1bd86a3d68faf09607ffd3" alt="" width="50" /> | Naughty                                                                 | [🔗](https://open.spotify.com/album/2lkUE2gkw5sX0fGzZZCs0N) |
@@ -213,10 +212,11 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" alt="" width="50" /> | MANIFESTO : DAY 1                                                       | [🔗](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dbb82cf845a6d574224a0d33" alt="" width="50" /> | MAMACITA - The 7th Album                                                | [🔗](https://open.spotify.com/album/53i190Z2uGOLljuS3DCvz2) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ebc6d2cf277ea321431e0529" alt="" width="50" /> | Low Low                                                                 | [🔗](https://open.spotify.com/album/58Y92GzXpCV5D6WRNqzOYN) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dcca2fa0944779dcf8e97222" alt="" width="50" /> | Love poem                                                               | [🔗](https://open.spotify.com/album/5JadtZ710Yj8RSLNbSvDqo) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | Love poem                                                               | [🔗](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | Love Yourself 承 'Her'                                                   | [🔗](https://open.spotify.com/album/2FTS6a6DLXMNp8flyA0HGO) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737ce0130c09547c733984ba0e" alt="" width="50" /> | Lion Heart - The 5th Album                                              | [🔗](https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273bf5f4138ebc9ba3fd6f0cde9" alt="" width="50" /> | Last Fantasy                                                            | [🔗](https://open.spotify.com/album/149BHv6qAyMgJ483vPi77C) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f7da7c0f322b7a1c95190d92" alt="" width="50" /> | LOVE SHOT– The 5th Album Repackage                                      | [🔗](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) |
 
 </details>
 
@@ -227,19 +227,19 @@
 
 
 <details>
-<summary>See all 53 labels</summary>
+<summary>See all 54 labels</summary>
 
 |   Number of Tracks | Label                                                                                   |
 |-------------------:|:----------------------------------------------------------------------------------------|
-|                 60 | [SM Entertainment](../labels/sm_entertainment.md)                                       |
-|                 17 | [YG Entertainment](../labels/yg_entertainment.md)                                       |
-|                 15 | [Republic Records](../labels/republic_records.md)                                       |
-|                 10 | [Interscope](../labels/interscope.md)                                                   |
+|                 58 | [SM Entertainment](../labels/sm_entertainment.md)                                       |
+|                 16 | [YG Entertainment](../labels/yg_entertainment.md)                                       |
+|                 16 | [Republic Records](../labels/republic_records.md)                                       |
+|                 11 | [Interscope](../labels/interscope.md)                                                   |
 |                  9 | [BELIFT LAB](../labels/belift_lab.md)                                                   |
 |                  8 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                     |
-|                  8 | [JYP Entertainment](../labels/jyp_entertainment.md)                                     |
 |                  7 | [Universal Music LLC](../labels/universal_music_llc.md)                                 |
 |                  7 | [RBW Inc.](../labels/rbw_inc_.md)                                                       |
+|                  7 | [JYP Entertainment](../labels/jyp_entertainment.md)                                     |
 |                  7 | [Genie Music Corporation](../labels/genie_music_corporation.md)                         |
 |                  6 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                                   |
 |                  4 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)                               |
@@ -284,6 +284,7 @@
 |                  1 | [Abyss Company](../labels/abyss_company.md)                                             |
 |                  1 | [AOMG](../labels/aomg.md)                                                               |
 |                  1 | [ADOR](../labels/ador.md)                                                               |
+|                  1 | [2018 YG Entertainment](../labels/2018_yg_entertainment.md)                             |
 
 </details>
 
@@ -298,8 +299,8 @@
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
-|                165 | [k-pop](../genres/k_pop.md)                       |
-|                 82 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+|                163 | [k-pop](../genres/k_pop.md)                       |
+|                 80 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 |                 44 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
 |                 12 | [pop](../genres/pop.md)                           |
 |                  9 | anime                                             |
@@ -327,14 +328,14 @@
 | In the morning             | HOLO                        |
 | Heart Burn                 | Love poem                   |
 | BBIBBI                     | Hello                       |
-| Peek-A-Boo                 | Like Water                  |
-| ELEVEN                     | My sea                      |
+| ELEVEN                     | Like Water                  |
+| Low Low                    | My sea                      |
 
 | 10 most Energetic tracks              | 10 least Energetic tracks   |
 |:--------------------------------------|:----------------------------|
-| RING X RING                           | Love poem                   |
-| Girls                                 | Dream                       |
-| RING ma Bell (what a wonderful world) | HOLO                        |
+| RING X RING                           | Dream                       |
+| Girls                                 | HOLO                        |
+| RING ma Bell (what a wonderful world) | Love poem                   |
 | Heart Shaker                          | 무제(無題) (Untitled, 2014)     |
 | HOME;RUN                              | Butter                      |
 | Feel My Rhythm                        | For You                     |
@@ -364,23 +365,23 @@
 | When This Rain Stops      | BOOMBAYAH                  |
 | 무제(無題) (Untitled, 2014)   | 달라달라 (DALLA DALLA)         |
 | HOLO                      | LA DI DA                   |
-| 눈,코,입 (Eyes, Nose, Lips)  | RUN2U                      |
-| For You                   | Favorite (Vampire)         |
-| ZOOM                      | Drunk-Dazed                |
-| Love poem                 | Tamed-Dashed               |
+| Love poem                 | RUN2U                      |
+| 눈,코,입 (Eyes, Nose, Lips)  | Favorite (Vampire)         |
+| For You                   | Drunk-Dazed                |
+| ZOOM                      | Tamed-Dashed               |
 
-| 10 most Instrumental tracks   | 10 least Instrumental tracks     |
-|:------------------------------|:---------------------------------|
-| YEPPI YEPPI                   | The Red Shoes                    |
-| I Am The Best                 | Black Swan                       |
-| Lion Heart                    | Hello                            |
-| Peek-A-Boo                    | Monster                          |
-| Kill This Love                | WINE (Feat.Changmo) (Prod. SUGA) |
-| Why Not?                      | Bicycle                          |
-| Black Mamba                   | Love Talk                        |
-| Stay Tonight                  | VILLAIN DIES                     |
-| Girls                         | Why So Lonely                    |
-| MAGO                          | Shut Down                        |
+| 10 most Instrumental tracks   | 10 least Instrumental tracks   |
+|:------------------------------|:-------------------------------|
+| YEPPI YEPPI                   | BEcause                        |
+| I Am The Best                 | Egotistic                      |
+| Lion Heart                    | CASE 143                       |
+| Kill This Love                | ParadoXXX Invasion             |
+| Why Not?                      | Just A Little Bit              |
+| Black Mamba                   | Still Life                     |
+| Stay Tonight                  | Pink Venom                     |
+| Girls                         | Butter                         |
+| MAGO                          | The Red Shoes                  |
+| TANK                          | Shut Down                      |
 
 | 10 most Live tracks             | 10 least Live tracks        |
 |:--------------------------------|:----------------------------|

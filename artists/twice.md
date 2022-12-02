@@ -21,6 +21,7 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="" width="50" /> | Taste of Love                     | [🔗](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2736570fd05bcff5edcb16e617d" alt="" width="50" /> | Eyes Wide Open                    | [🔗](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | BETWEEN 1&2                       | [🔗](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27349b81808fcdaeeb55bef59d1" alt="" width="50" /> | Feel Special                      | [🔗](https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273140ba24506e300382e08e6ec" alt="" width="50" /> | YES or YES                        | [🔗](https://open.spotify.com/album/25VunQEW0x2W6ALND2Mh4g) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e2a4f8bcc74020cd4b01f647" alt="" width="50" /> | What Is Love                      | [🔗](https://open.spotify.com/album/5o5cJ6yZmcyy4y4hK0J6de) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736034eda385497f614778f457" alt="" width="50" /> | Twicetagram                       | [🔗](https://open.spotify.com/album/3hJXmK5gWN9P6jtZL0Lr2y) |
@@ -35,8 +36,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731e2f86e459a48cfb891bd70d" alt="" width="50" /> | MORE & MORE (English Version)     | [🔗](https://open.spotify.com/album/4AXNnQf2SkyY8d4FQaBKo5) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27324869424ae632466b839a8a8" alt="" width="50" /> | MORE & MORE                       | [🔗](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273844a4b52739db3287bd429f8" alt="" width="50" /> | I CAN'T STOP ME (English Version) | [🔗](https://open.spotify.com/album/2KGNQmq4gpzmdaIcAgJdVe) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27349b81808fcdaeeb55bef59d1" alt="" width="50" /> | Feel Special                      | [🔗](https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735f390ece0daec72a5cbe422c" alt="" width="50" /> | Feel Special                      | [🔗](https://open.spotify.com/album/5MmndGNrJgTLd5W7HNmVST) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739e87fd81ab0dfad228f8a004" alt="" width="50" /> | FANCY YOU                         | [🔗](https://open.spotify.com/album/2qoWlACJtoG0L5owi7Tj0I) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738ae9084b7cfa8281932d9cb9" alt="" width="50" /> | CRY FOR ME                        | [🔗](https://open.spotify.com/album/2aRAPmBCEdo9pWimsI5l87) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f091c9841ed6033937fdb7e5" alt="" width="50" /> | Breakthrough                      | [🔗](https://open.spotify.com/album/7LWfEiSeue9BXPbUOH34q6) |
@@ -46,10 +45,10 @@
 
 |   Number of Tracks | Label                                                       |
 |-------------------:|:------------------------------------------------------------|
-|                 31 | [Republic Records](../labels/republic_records.md)           |
+|                 32 | [Republic Records](../labels/republic_records.md)           |
 |                  2 | [WM Japan](../labels/wm_japan.md)                           |
-|                  2 | [Imperial Distribution](../labels/imperial_distribution.md) |
 |                  1 | [Riot Games](../labels/riot_games.md)                       |
+|                  1 | [Imperial Distribution](../labels/imperial_distribution.md) |
 
 ## Genres
 
@@ -72,8 +71,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273140ba24506e300382e08e6ec" alt="" width="50" /> | YES or YES                        | YES or YES                        | [TWICE](twice.md)                                                    | [Republic Records](../labels/republic_records.md) | 💚   | [🔗](https://open.spotify.com/track/26OVhEqFDQH0Ij77QtmGP9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e87fd81ab0dfad228f8a004" alt="" width="50" /> | FANCY                             | FANCY YOU                         | [TWICE](twice.md)                                                    | Imperial Distribution                             | 💚   | [🔗](https://open.spotify.com/track/0W5hTAWn8Tq0Qfhg1XP3YW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f091c9841ed6033937fdb7e5" alt="" width="50" /> | Breakthrough                      | Breakthrough                      | [TWICE](twice.md)                                                    | WM Japan                                          | 💚   | [🔗](https://open.spotify.com/track/5COO2JgOmHIJ2jsXFwflz8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27349b81808fcdaeeb55bef59d1" alt="" width="50" /> | Feel Special                      | Feel Special                      | [TWICE](twice.md)                                                    | [Republic Records](../labels/republic_records.md) |     | [🔗](https://open.spotify.com/track/3Hz3tTQwOdM6XkA0ALB2G9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f390ece0daec72a5cbe422c" alt="" width="50" /> | LOVE FOOLISH                      | Feel Special                      | [TWICE](twice.md)                                                    | Imperial Distribution                             | 💚   | [🔗](https://open.spotify.com/track/5ipJi9h2ghaThn6EUwO3B2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27349b81808fcdaeeb55bef59d1" alt="" width="50" /> | Feel Special                      | Feel Special                      | [TWICE](twice.md)                                                    | [Republic Records](../labels/republic_records.md) | 💚   | [🔗](https://open.spotify.com/track/3Hz3tTQwOdM6XkA0ALB2G9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27349b81808fcdaeeb55bef59d1" alt="" width="50" /> | LOVE FOOLISH                      | Feel Special                      | [TWICE](twice.md)                                                    | [Republic Records](../labels/republic_records.md) | 💚   | [🔗](https://open.spotify.com/track/1MdEg2lk4EakgWnCvFUGEZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27324869424ae632466b839a8a8" alt="" width="50" /> | MORE & MORE                       | MORE & MORE                       | [TWICE](twice.md)                                                    | [Republic Records](../labels/republic_records.md) | 💚   | [🔗](https://open.spotify.com/track/3omvXShuRPM3zbDpWYqf5g) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731e2f86e459a48cfb891bd70d" alt="" width="50" /> | MORE & MORE (English Version)     | MORE & MORE (English Version)     | [TWICE](twice.md)                                                    | [Republic Records](../labels/republic_records.md) |     | [🔗](https://open.spotify.com/track/03wvlNaxFKB9sge4U6vyPE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736570fd05bcff5edcb16e617d" alt="" width="50" /> | HELL IN HEAVEN                    | Eyes Wide Open                    | [TWICE](twice.md)                                                    | [Republic Records](../labels/republic_records.md) | 💚   | [🔗](https://open.spotify.com/track/3KCreWc88InXH3XuL54C5a) |

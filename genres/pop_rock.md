@@ -38,11 +38,11 @@
 
 ## Top Albums
 
-![Bar chart of top 25 albums](../images/genres/pop_rock/albums.png)
+![Bar chart of top 24 albums](../images/genres/pop_rock/albums.png)
 
 
 <details>
-<summary>See all 25 albums</summary>
+<summary>See all 24 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                   | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------|:-----------------------------------------------------------|
@@ -54,10 +54,9 @@
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | Once Upon Another Time                                  | [🔗](https://open.spotify.com/album/1PrqYZJRzGNf8AsSOraxnZ) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273183730e8038fa632b2c227da" alt="" width="50" /> | Eye To The Telescope                                    | [🔗](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2730f2e51f7121539e221c51161" alt="" width="50" /> | We Sing. We Dance. We Steal Things.                     | [🔗](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | The Script                                              | [🔗](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="" width="50" /> | Mellon Collie And The Infinite Sadness (Deluxe Edition) | [🔗](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27326a2f5224465a369f8abbf88" alt="" width="50" /> | lovestrong.                                             | [🔗](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | The Script                                              | [🔗](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b526ba531c80ed208cd428ed" alt="" width="50" /> | The Script                                              | [🔗](https://open.spotify.com/album/51Hn2Wiq1jmUfI0BLaUhuF) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a4d2cb95d3ea17f773db23ee" alt="" width="50" /> | Shake Your Money Maker                                  | [🔗](https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6c0376235e5aa44e59d2c2" alt="" width="50" /> | Picture Show                                            | [🔗](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735da1093d047cc15eb66d27cf" alt="" width="50" /> | OK Now                                                  | [🔗](https://open.spotify.com/album/3fKJJQFV6a61fnKYDDj2LU) |
@@ -85,7 +84,7 @@
 
 |   Number of Tracks | Label                                                                           |
 |-------------------:|:--------------------------------------------------------------------------------|
-|                 61 | [Epic](../labels/epic.md)                                                       |
+|                 62 | [Epic](../labels/epic.md)                                                       |
 |                  5 | [Virgin Records](../labels/virgin_records.md)                                   |
 |                  3 | [Relentless](../labels/relentless.md)                                           |
 |                  3 | [Atlantic Records](../labels/atlantic_records.md)                               |
@@ -138,12 +137,12 @@
 |:----------------------------------------------|:---------------------------|
 | Opening Up                                    | The Light                  |
 | Kaleidoscope Heart                            | Islands                    |
-| Geronimo                                      | Breathe Again              |
-| Come Round Soon                               | Sweet As Whole             |
-| Bad Idea (feat. Jason Mraz)                   | Chasing Cars               |
-| Black Horse And The Cherry Tree               | Orpheus                    |
-| Bullet With Butterfly Wings - Remastered 2012 | Machine Gun                |
-| Everybody Talks                               | The Man Who Can't Be Moved |
+| Geronimo                                      | The Man Who Can't Be Moved |
+| Come Round Soon                               | Breathe Again              |
+| Bad Idea (feat. Jason Mraz)                   | Sweet As Whole             |
+| Black Horse And The Cherry Tree               | Chasing Cars               |
+| Bullet With Butterfly Wings - Remastered 2012 | Orpheus                    |
+| Everybody Talks                               | Machine Gun                |
 | Fire                                          | Breakeven                  |
 | Eden                                          | Satellite Call             |
 

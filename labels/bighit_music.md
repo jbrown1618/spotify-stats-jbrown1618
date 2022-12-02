@@ -3,8 +3,8 @@
 38 songs
 
 Appears as:
-- BIGHIT MUSIC (20 tracks)
-- BIGHIT MUSIC / HYBE (18 tracks)
+- BIGHIT MUSIC (21 tracks)
+- BIGHIT MUSIC / HYBE (17 tracks)
 
 ## Top Artists
 
@@ -30,11 +30,11 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 18 albums](../images/labels/bighit_music/albums.png)
+![Bar chart of top 17 albums](../images/labels/bighit_music/albums.png)
 
 
 <details>
-<summary>See all 18 albums</summary>
+<summary>See all 17 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                            | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------|:-----------------------------------------------------------|
@@ -46,10 +46,9 @@ Appears as:
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | Love Yourself 承 'Her'                            | [🔗](https://open.spotify.com/album/2FTS6a6DLXMNp8flyA0HGO) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="" width="50" /> | Jack In The Box                                  | [🔗](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="" width="50" /> | BE                                               | [🔗](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="" width="50" /> | Wings                                            | [🔗](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="" width="50" /> | The Most Beautiful Moment in Life: Young Forever | [🔗](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273bd375b430c3abeceb8b5d8da" alt="" width="50" /> | You Never Walk Alone                             | [🔗](https://open.spotify.com/album/7LF4N7lvyDhrPBuCJ1rplJ) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273aabacdacfb6eceeb819c6ed6" alt="" width="50" /> | Wings                                            | [🔗](https://open.spotify.com/album/17FnTn4P3Bkyf6mbNQDhhy) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="" width="50" /> | Wings                                            | [🔗](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738ac442a54c68aad8f9b93f51" alt="" width="50" /> | The Most Beautiful Moment in Life Pt.2           | [🔗](https://open.spotify.com/album/4frjaGAtuBmm8CPuYPY4oG) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="" width="50" /> | Proof                                            | [🔗](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738f31818d30fdb7f44fd57713" alt="" width="50" /> | Dark & Wild                                      | [🔗](https://open.spotify.com/album/7FxxU3EP37uMsZf8FilkDR) |
@@ -91,7 +90,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2738ac442a54c68aad8f9b93f51" alt="" width="50" /> | Butterfly                                         | The Most Beautiful Moment in Life Pt.2           | [BTS](../artists/bts.md)             | [HYBE](hybe.md), [BIGHIT MUSIC](bighit_music.md) | 💚   | [🔗](https://open.spotify.com/track/6kX452oUUNojKWNNuc1nqx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="" width="50" /> | Dope                                              | The Most Beautiful Moment in Life: Young Forever | [BTS](../artists/bts.md)             | [BIGHIT MUSIC](bighit_music.md)                  | 💚   | [🔗](https://open.spotify.com/track/4o3Ao6wY5fbJR32fQKabfQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="" width="50" /> | Save Me                                           | The Most Beautiful Moment in Life: Young Forever | [BTS](../artists/bts.md)             | [BIGHIT MUSIC](bighit_music.md)                  |     | [🔗](https://open.spotify.com/track/7bxGcILuAjkZzaveU28ZJS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273aabacdacfb6eceeb819c6ed6" alt="" width="50" /> | Blood Sweat & Tears                               | Wings                                            | [BTS](../artists/bts.md)             | [HYBE](hybe.md), [BIGHIT MUSIC](bighit_music.md) |     | [🔗](https://open.spotify.com/track/5RGf8qn1TBWVplLyyKUsuV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="" width="50" /> | Blood Sweat & Tears                               | Wings                                            | [BTS](../artists/bts.md)             | [BIGHIT MUSIC](bighit_music.md)                  | 💚   | [🔗](https://open.spotify.com/track/2u54HNQamwFuOMLSuhSRom) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="" width="50" /> | Lie                                               | Wings                                            | [BTS](../artists/bts.md)             | [BIGHIT MUSIC](bighit_music.md)                  | 💚   | [🔗](https://open.spotify.com/track/1nWB8isqs2tviWk20G5pow) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bd375b430c3abeceb8b5d8da" alt="" width="50" /> | Spring Day                                        | You Never Walk Alone                             | [BTS](../artists/bts.md)             | [HYBE](hybe.md), [BIGHIT MUSIC](bighit_music.md) | 💚   | [🔗](https://open.spotify.com/track/0WNGsQ1oAuHzNTk8jivBKW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | DNA                                               | Love Yourself 承 'Her'                            | [BTS](../artists/bts.md)             | [HYBE](hybe.md), [BIGHIT MUSIC](bighit_music.md) | 💚   | [🔗](https://open.spotify.com/track/5SE57ljOIUJ1ybL9U6CuBH) |

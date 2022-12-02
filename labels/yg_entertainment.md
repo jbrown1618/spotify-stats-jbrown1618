@@ -1,24 +1,24 @@
 # YG Entertainment
 
-66 songs
+62 songs
 
 Appears as:
-- YG Entertainment (42 tracks)
+- YG Entertainment (38 tracks)
 - YG Entertainment/Interscope Records (19 tracks)
 - YG Entertainment, distributed through Interscope Records (5 tracks)
 
 ## Top Artists
 
-![Bar chart of top 20 artists](../images/labels/yg_entertainment/artists.png)
+![Bar chart of top 19 artists](../images/labels/yg_entertainment/artists.png)
 
 
 <details>
-<summary>See all 20 artists</summary>
+<summary>See all 19 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                               | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------|:------------------------------------------------------------|
-|                 27 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
-|                 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../artists/leehi.md)         | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
+|                 24 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
+|                 10 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../artists/leehi.md)         | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb5045a0e0d423ce29d6b14ebd" alt="" width="50" /> | TREASURE                             | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb597a4257d0022e2ac837fa7d" alt="" width="50" /> | BIGBANG                              | [🔗](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8eb5e57e526ceb14f06ea203" alt="" width="50" /> | iKON                                 | [🔗](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) |
@@ -28,7 +28,6 @@ Appears as:
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2d167f018561742f26a0997" alt="" width="50" /> | ROSÉ                                 | [🔗](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5923c0ca32a3cf3a81b34728" alt="" width="50" /> | G-DRAGON                             | [🔗](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc67fe879798c208fcf056dde" alt="" width="50" /> | CL                                   | [🔗](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebbaab1c0bd5243ff2557dd0f2" alt="" width="50" /> | MINO                                 | [🔗](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | [IU](../artists/iu.md)               | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb24b5185226d5b7c6aa91db5a" alt="" width="50" /> | PSY                                  | [🔗](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc2c8185fc0902b43e35f671f" alt="" width="50" /> | JENNIE                               | [🔗](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) |
@@ -47,7 +46,7 @@ Appears as:
 
 
 <details>
-<summary>See all 35 albums</summary>
+<summary>See all 31 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                             | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------|:-----------------------------------------------------------|
@@ -55,14 +54,14 @@ Appears as:
 |                  7 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | THE ALBUM                         | [🔗](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2735dcded478bd1a908dbabf05e" alt="" width="50" /> | KILL THIS LOVE                    | [🔗](https://open.spotify.com/album/7viSsSKXrDa95CtUcuc1Iv) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27328be5dc3cc0bd6f2482c1d56" alt="" width="50" /> | THE SECOND STEP : CHAPTER ONE     | [🔗](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2733f6e15b13168587cfc120e52" alt="" width="50" /> | SQUARE UP                         | [🔗](https://open.spotify.com/album/1HwIUaaEuRsxsIyssqtGLH) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="" width="50" /> | SEOULITE                          | [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273fd0d9a33127c1d3f58ba3504" alt="" width="50" /> | MADE                              | [🔗](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734bb3b49ff157d01ab9896573" alt="" width="50" /> | THE FIRST STEP : TREASURE EFFECT  | [🔗](https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27318a4a215052e9f396864bd73" alt="" width="50" /> | SQUARE TWO                        | [🔗](https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273231a1b74cc820bb632de108c" alt="" width="50" /> | SQUARE ONE                        | [🔗](https://open.spotify.com/album/0AcFaK32ui9rF2ySEdXrv4) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2730d42834b296097a0136e97d3" alt="" width="50" /> | SEOULITE                          | [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27348f4704427189fe1957d2871" alt="" width="50" /> | Return                            | [🔗](https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f" alt="" width="50" /> | R                                 | [🔗](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273fd0d9a33127c1d3f58ba3504" alt="" width="50" /> | MADE                              | [🔗](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19" alt="" width="50" /> | LALISA                            | [🔗](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273bb0a530fc901e88d1c7a9f4d" alt="" width="50" /> | First Love                        | [🔗](https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1db30cc6d74a08a5e14274" alt="" width="50" /> | 24℃                               | [🔗](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) |
@@ -70,16 +69,12 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27357fa85a5c9f295d5e5b362e7" alt="" width="50" /> | THE SECOND STEP : CHAPTER TWO     | [🔗](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | Still Life                        | [🔗](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d17ca02a739a9a24933cf805" alt="" width="50" /> | Solar International               | [🔗](https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27318a4a215052e9f396864bd73" alt="" width="50" /> | SQUARE TWO                        | [🔗](https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273895cda6254392eb17aae5390" alt="" width="50" /> | SQUARE TWO                        | [🔗](https://open.spotify.com/album/2s27rRgZswwbRJUQXSGTLf) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27362e6288a5887b95176cca29e" alt="" width="50" /> | SOLO                              | [🔗](https://open.spotify.com/album/7qAJpYeABXN9ZV5wOOX59k) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27321c941a808e99d4ba69ffc01" alt="" width="50" /> | SEOULITE                          | [🔗](https://open.spotify.com/album/4p27GsqUEbfl83iPtt0IcI) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d41cdd1f3e033a0ea1642112" alt="" width="50" /> | SAILING                           | [🔗](https://open.spotify.com/album/7C0Ci0alKWwwXPIFYEdVcn) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e1ceb97165340ef92392b948" alt="" width="50" /> | RISE                              | [🔗](https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731c0522b1f119c06409b838dc" alt="" width="50" /> | PSY 7TH ALBUM                     | [🔗](https://open.spotify.com/album/1aHmoh8Iog2xqwVk9A77yc) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27355d0265cc488deebe40d79a6" alt="" width="50" /> | NEXT EPISODE                      | [🔗](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738b94794b8aa12407bf838d7d" alt="" width="50" /> | NEW KIDS REPACKAGE : THE NEW KIDS | [🔗](https://open.spotify.com/album/6RZYa7F18bu7mmeT8qxWqh) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735c2254d6d7618143e23f7fdb" alt="" width="50" /> | MADE                              | [🔗](https://open.spotify.com/album/1q8h2HdED1cmgJVo8lEBME) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732d56768bc14df3b0b3982efd" alt="" width="50" /> | KWON JI YONG                      | [🔗](https://open.spotify.com/album/2koSNfchdUxqw1rPJO87aH) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc24150245a8d31c68b58b4" alt="" width="50" /> | Hello Bitches                     | [🔗](https://open.spotify.com/album/0CHOb7kkjkNRCpijTjPEiy) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733dbdbd0023f1e1c08cd5a6c9" alt="" width="50" /> | COUP D'ETAT                       | [🔗](https://open.spotify.com/album/4msI9bSfKohOPFic15aLR4) |
@@ -100,9 +95,9 @@ Appears as:
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
-|                 64 | [k-pop](../genres/k_pop.md)                       |
-|                 28 | [k-pop girl group](../genres/k_pop_girl_group.md) |
-|                 11 | [pop](../genres/pop.md)                           |
+|                 60 | [k-pop](../genres/k_pop.md)                       |
+|                 25 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+|                 10 | [pop](../genres/pop.md)                           |
 |                  8 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
 |                  3 | k-rap                                             |
 |                  2 | korean r&b                                        |
@@ -121,18 +116,15 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d41cdd1f3e033a0ea1642112" alt="" width="50" /> | How can I love the heartbreak, you're the one I love | SAILING                           | AKMU                                               | [YG Entertainment](yg_entertainment.md)                              | 💚   | [🔗](https://open.spotify.com/track/0hqj5JBnFt1BHEz2UCFwrl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27355d0265cc488deebe40d79a6" alt="" width="50" /> | NAKKA (with IU)                                      | NEXT EPISODE                      | AKMU, [IU](../artists/iu.md)                       | [YG Entertainment](yg_entertainment.md)                              | 💚   | [🔗](https://open.spotify.com/track/4t2FIqZJORKZGSKg30SShr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dd2c0e8a5d4b0c1e227e4c7b" alt="" width="50" /> | Fantastic Baby                                       | ALIVE                             | BIGBANG                                            | [YG Entertainment](yg_entertainment.md)                              |     | [🔗](https://open.spotify.com/track/26eV0R7nbqtlzh316ncU99) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735c2254d6d7618143e23f7fdb" alt="" width="50" /> | BANG BANG BANG                                       | MADE                              | BIGBANG                                            | [YG Entertainment](yg_entertainment.md)                              | 💚   | [🔗](https://open.spotify.com/track/0QIRm9sUkGnezGznkWCqCo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fd0d9a33127c1d3f58ba3504" alt="" width="50" /> | BANG BANG BANG                                       | MADE                              | BIGBANG                                            | [YG Entertainment](yg_entertainment.md)                              | 💚   | [🔗](https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fd0d9a33127c1d3f58ba3504" alt="" width="50" /> | LET'S NOT FALL IN LOVE                               | MADE                              | BIGBANG                                            | [YG Entertainment](yg_entertainment.md)                              | 💚   | [🔗](https://open.spotify.com/track/6UgkB0xM45TR3Zjqm3GQ6T) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fd0d9a33127c1d3f58ba3504" alt="" width="50" /> | LOSER                                                | MADE                              | BIGBANG                                            | [YG Entertainment](yg_entertainment.md)                              | 💚   | [🔗](https://open.spotify.com/track/2vzn8usBcuNL93DnTjEK0z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | Still Life                                           | Still Life                        | BIGBANG                                            | [YG Entertainment](yg_entertainment.md)                              | 💚   | [🔗](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273231a1b74cc820bb632de108c" alt="" width="50" /> | BOOMBAYAH                                            | SQUARE ONE                        | [BLACKPINK](../artists/blackpink.md)               | [YG Entertainment](yg_entertainment.md)                              | 💚   | [🔗](https://open.spotify.com/track/3yHQKddM8SVCRnuPSo3HPN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273231a1b74cc820bb632de108c" alt="" width="50" /> | WHISTLE                                              | SQUARE ONE                        | [BLACKPINK](../artists/blackpink.md)               | [YG Entertainment](yg_entertainment.md)                              | 💚   | [🔗](https://open.spotify.com/track/7HWmJ1wBecOAMNGjC6SmKE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27318a4a215052e9f396864bd73" alt="" width="50" /> | PLAYING WITH FIRE                                    | SQUARE TWO                        | [BLACKPINK](../artists/blackpink.md)               | [YG Entertainment](yg_entertainment.md)                              | 💚   | [🔗](https://open.spotify.com/track/7qmvLmX9tyaTiBAVNI6YEn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273895cda6254392eb17aae5390" alt="" width="50" /> | STAY                                                 | SQUARE TWO                        | [BLACKPINK](../artists/blackpink.md)               | [YG Entertainment](yg_entertainment.md)                              |     | [🔗](https://open.spotify.com/track/4TWHREp4wv0TmewqR6rgRd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27318a4a215052e9f396864bd73" alt="" width="50" /> | STAY                                                 | SQUARE TWO                        | [BLACKPINK](../artists/blackpink.md)               | [YG Entertainment](yg_entertainment.md)                              |     | [🔗](https://open.spotify.com/track/3tP6QKbXvtrxiDI7QwKyUf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d9ac4a9970da8f98ce2e2b35" alt="" width="50" /> | As If It's Your Last                                 | As If It's Your Last              | [BLACKPINK](../artists/blackpink.md)               | [YG Entertainment](yg_entertainment.md)                              | 💚   | [🔗](https://open.spotify.com/track/1Zyd6zQnC6XIIzmg3hP7Ot) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733f6e15b13168587cfc120e52" alt="" width="50" /> | DDU-DU DDU-DU                                        | SQUARE UP                         | [BLACKPINK](../artists/blackpink.md)               | [YG Entertainment](yg_entertainment.md)                              | 💚   | [🔗](https://open.spotify.com/track/7b8YOVV5quZcSKEijDgyWB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733f6e15b13168587cfc120e52" alt="" width="50" /> | Forever Young                                        | SQUARE UP                         | [BLACKPINK](../artists/blackpink.md)               | [YG Entertainment](yg_entertainment.md)                              | 💚   | [🔗](https://open.spotify.com/track/2naEVOadudtXHwtZNfjMDM) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733f6e15b13168587cfc120e52" alt="" width="50" /> | See U Later                                          | SQUARE UP                         | [BLACKPINK](../artists/blackpink.md)               | [YG Entertainment](yg_entertainment.md)                              | 💚   | [🔗](https://open.spotify.com/track/3AyLh4R4D3fQfyqCsTdFf3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735dcded478bd1a908dbabf05e" alt="" width="50" /> | Don't Know What To Do                                | KILL THIS LOVE                    | [BLACKPINK](../artists/blackpink.md)               | [Interscope](interscope.md), [YG Entertainment](yg_entertainment.md) | 💚   | [🔗](https://open.spotify.com/track/0zYqFyhiTj419q56lNsjk0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735dcded478bd1a908dbabf05e" alt="" width="50" /> | Hope Not                                             | KILL THIS LOVE                    | [BLACKPINK](../artists/blackpink.md)               | [Interscope](interscope.md), [YG Entertainment](yg_entertainment.md) | 💚   | [🔗](https://open.spotify.com/track/7mW8ar9hy7GSeH4lohyOKs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735dcded478bd1a908dbabf05e" alt="" width="50" /> | Kick It                                              | KILL THIS LOVE                    | [BLACKPINK](../artists/blackpink.md)               | [Interscope](interscope.md), [YG Entertainment](yg_entertainment.md) |     | [🔗](https://open.spotify.com/track/6Ks1e4WEUeOGgnTGZ4IMXo) |
@@ -165,7 +157,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="" width="50" /> | BREATHE                                              | SEOULITE                          | [LeeHi](../artists/leehi.md)                       | [YG Entertainment](yg_entertainment.md)                              | 💚   | [🔗](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="" width="50" /> | FXXK WIT US                                          | SEOULITE                          | [LeeHi](../artists/leehi.md), Dok2                 | [YG Entertainment](yg_entertainment.md)                              |     | [🔗](https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="" width="50" /> | HOLD MY HAND                                         | SEOULITE                          | [LeeHi](../artists/leehi.md)                       | [YG Entertainment](yg_entertainment.md)                              | 💚   | [🔗](https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27321c941a808e99d4ba69ffc01" alt="" width="50" /> | WORLD TOUR                                           | SEOULITE                          | [LeeHi](../artists/leehi.md), MINO                 | [YG Entertainment](yg_entertainment.md)                              | 💚   | [🔗](https://open.spotify.com/track/3kXTBit5dnLLq4NYnwjiHn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d42834b296097a0136e97d3" alt="" width="50" /> | MISSING U                                            | SEOULITE                          | [LeeHi](../artists/leehi.md)                       | [YG Entertainment](yg_entertainment.md)                              | 💚   | [🔗](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d42834b296097a0136e97d3" alt="" width="50" /> | MY STAR                                              | SEOULITE                          | [LeeHi](../artists/leehi.md)                       | [YG Entertainment](yg_entertainment.md)                              |     | [🔗](https://open.spotify.com/track/42Dl2MOplqImwLoIPMv6Me) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1db30cc6d74a08a5e14274" alt="" width="50" /> | NO ONE                                               | 24℃                               | [LeeHi](../artists/leehi.md), B.I                  | [YG Entertainment](yg_entertainment.md)                              | 💚   | [🔗](https://open.spotify.com/track/0iQ7Nc2YhlyGHeUi4R8Gl6) |

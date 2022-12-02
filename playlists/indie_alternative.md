@@ -103,7 +103,7 @@
 
 
 <details>
-<summary>See all 97 albums</summary>
+<summary>See all 96 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                   | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------|:-----------------------------------------------------------|
@@ -130,6 +130,7 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2732d81f491319b86356eb10c4e" alt="" width="50" /> | Begin to Hope                                           | [🔗](https://open.spotify.com/album/4L4tcx3itXbtx5kuchKhFE) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273028c3bb4b81ee71dd73d1596" alt="" width="50" /> | An Awesome Wave                                         | [🔗](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27337fb0680110fbb107740de5d" alt="" width="50" /> | What Is Love? (Deluxe Edition)                          | [🔗](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | The Script                                              | [🔗](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27315d01f89c4963e1bbb495697" alt="" width="50" /> | The Execution Of All Things                             | [🔗](https://open.spotify.com/album/23EqcK0ZR1ravQaEsGpQyH) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a4aa9c49f8fedf1df4f84051" alt="" width="50" /> | The 2¢ Show                                             | [🔗](https://open.spotify.com/album/4DECRyKlhKJgjZLLuvfAI6) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c985bcc18dd81da80839e5a9" alt="" width="50" /> | Plans                                                   | [🔗](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) |
@@ -144,15 +145,13 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739cf4ac84b224a02f34d2e4f6" alt="" width="50" /> | Writer's Block                                          | [🔗](https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736668cca4cf49b642d43316e5" alt="" width="50" /> | Whatever We Feel                                        | [🔗](https://open.spotify.com/album/5Lg9bnBTPSu0Xg7MRERveZ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27356080feb452fa7ad4ca61d8b" alt="" width="50" /> | Village                                                 | [🔗](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735e3e23be9bdc38cb4767be97" alt="" width="50" /> | Under the Surface                                       | [🔗](https://open.spotify.com/album/4WvW7Y50LuI1yE1XWxtAVk) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27315249cb1ee9b66f0aacfffe8" alt="" width="50" /> | Under the Surface                                       | [🔗](https://open.spotify.com/album/6ISIdF1gCK9X8pn4FaObHE) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27365605f713fce29c2682c9ebe" alt="" width="50" /> | Under The Blacklight (Standard Version)                 | [🔗](https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739c291af4bf0c3071847f2b80" alt="" width="50" /> | Under My Skin                                           | [🔗](https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737948eec521c67e76cafe30a0" alt="" width="50" /> | Trading Snakeoil for Wolftickets                        | [🔗](https://open.spotify.com/album/1OydCrx4m7fguwcX4stR9z) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27384095737f6056e682666d6f9" alt="" width="50" /> | Tomboy                                                  | [🔗](https://open.spotify.com/album/2uDZBeyyQ7mfwF9mUJeYUG) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733ec9036a9f7289e924194bec" alt="" width="50" /> | Tick Tock (feat. 24kGoldn)                              | [🔗](https://open.spotify.com/album/3tuAs968COA2vxKjiLvmxr) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736fbd5300d0f51be963360367" alt="" width="50" /> | The Widow Knows E.P.                                    | [🔗](https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | The Script                                              | [🔗](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b526ba531c80ed208cd428ed" alt="" width="50" /> | The Script                                              | [🔗](https://open.spotify.com/album/51Hn2Wiq1jmUfI0BLaUhuF) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b17d3cdd360973516ade9e6d" alt="" width="50" /> | The Reminder                                            | [🔗](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27369b3dd10eee85bb2652c3b05" alt="" width="50" /> | The Golden Echo                                         | [🔗](https://open.spotify.com/album/66hoUkjxM7tVQwu7bZocwP) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273583baf9d926658beeb94c754" alt="" width="50" /> | The Girl and the Ghost                                  | [🔗](https://open.spotify.com/album/1e1qx3O2gLpmLuVE7OEfxp) |
@@ -247,6 +246,7 @@
 |                  2 | [Nuclear Blast Entertainment](../labels/nuclear_blast_entertainment.md)                   |
 |                  2 | [Kid Ina Korner](../labels/kid_ina_korner.md)                                             |
 |                  2 | [Interscope](../labels/interscope.md)                                                     |
+|                  2 | [Epic](../labels/epic.md)                                                                 |
 |                  1 | [half·alive](../labels/half_alive.md)                                                     |
 |                  1 | [ZAR](../labels/zar.md)                                                                   |
 |                  1 | [Wyvern Lingo](../labels/wyvern_lingo.md)                                                 |
@@ -275,7 +275,6 @@
 |                  1 | [Grandmono Records](../labels/grandmono_records.md)                                       |
 |                  1 | [Giant Little Man](../labels/giant_little_man.md)                                         |
 |                  1 | [Flower Army Records](../labels/flower_army_records.md)                                   |
-|                  1 | [Epic](../labels/epic.md)                                                                 |
 |                  1 | [EMI Recorded Music Australia Pty Ltd](../labels/emi_recorded_music_australia_pty_ltd.md) |
 |                  1 | [EMI](../labels/emi.md)                                                                   |
 |                  1 | [Down Up Down Music](../labels/down_up_down_music.md)                                     |
@@ -418,7 +417,7 @@
 
 | 10 most Energetic tracks   | 10 least Energetic tracks       |
 |:---------------------------|:--------------------------------|
-| Knights of Cydonia         | Odi Et Amo                      |
+| Knights of Cydonia         | Icarus                          |
 | End Of All Hope            | Dreamer                         |
 | My Happy Ending            | I Will Follow You into the Dark |
 | Everybody Talks            | Norman fucking Rockwell         |
@@ -429,18 +428,18 @@
 | Ain't It Fun               | Used                            |
 | Gimme Sympathy             | Mad World                       |
 
-| 10 most Speechy tracks          | 10 least Speechy tracks    |
-|:--------------------------------|:---------------------------|
-| Cheap Thrills (feat. Sean Paul) | Odi Et Amo                 |
-| G Train                         | What Sarah Said            |
-| Eye of the Needle               | Meant                      |
-| Knights of Cydonia              | The Man Who Can't Be Moved |
-| Stressed Out                    | Reckoner                   |
-| That Man                        | Karma Police               |
-| Like They Do on the TV          | High And Dry               |
-| Believer                        | Come On Closer             |
-| Say My Name                     | Speeding Cars              |
-| Accidntel Deth                  | Breakeven                  |
+| 10 most Speechy tracks          | 10 least Speechy tracks   |
+|:--------------------------------|:--------------------------|
+| Cheap Thrills (feat. Sean Paul) | Love                      |
+| G Train                         | Odi Et Amo                |
+| Eye of the Needle               | What Sarah Said           |
+| Knights of Cydonia              | Meant                     |
+| Stressed Out                    | Reckoner                  |
+| That Man                        | Karma Police              |
+| Like They Do on the TV          | High And Dry              |
+| Believer                        | Come On Closer            |
+| Say My Name                     | Speeding Cars             |
+| Accidntel Deth                  | Breakeven                 |
 
 | 10 most Acoustic tracks         | 10 least Acoustic tracks   |
 |:--------------------------------|:---------------------------|
@@ -453,20 +452,20 @@
 | I Will Follow You into the Dark | Knights of Cydonia         |
 | Hide and Seek                   | Nemo                       |
 | Plain Gold Ring                 | End Of All Hope            |
-| Unknown (To You)                | The Phantom Of The Opera   |
+| Fuck it I love you              | The Phantom Of The Opera   |
 
-| 10 most Instrumental tracks    | 10 least Instrumental tracks     |
-|:-------------------------------|:---------------------------------|
-| A Better Son/Daughter          | Whatever We Feel                 |
-| Weird Fishes/ Arpeggi          | Cameo Lover                      |
-| Street Spirit (Fade Out)       | Automatonic Electronic Harmonics |
-| 1979 - Remastered 2012         | Hide and Seek                    |
-| Coal Miners                    | Two Way Street                   |
-| Pyramid Song                   | You've Got The Love              |
-| Swan Song                      | Black Horse And The Cherry Tree  |
-| The Night We Met               | G Train                          |
-| Mantra for a Struggling Artist | Come On Closer                   |
-| Meant to Move                  | You Oughta Know                  |
+| 10 most Instrumental tracks    | 10 least Instrumental tracks   |
+|:-------------------------------|:-------------------------------|
+| A Better Son/Daughter          | Jackie Onassis                 |
+| Weird Fishes/ Arpeggi          | Summertime Sadness             |
+| Street Spirit (Fade Out)       | Missing You                    |
+| 1979 - Remastered 2012         | Wait It Out                    |
+| Coal Miners                    | Whatever We Feel               |
+| Pyramid Song                   | Used                           |
+| Swan Song                      | We Are                         |
+| The Night We Met               | Cameo Lover                    |
+| Mantra for a Struggling Artist | Shake It Out                   |
+| Meant to Move                  | I'm Not Calling You A Liar     |
 
 | 10 most Live tracks                     | 10 least Live tracks       |
 |:----------------------------------------|:---------------------------|

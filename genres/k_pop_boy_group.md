@@ -79,11 +79,13 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="" width="50" /> | NCT 2018 EMPATHY                                   | [🔗](https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | MAP OF THE SOUL : PERSONA                          | [🔗](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2738afcb7dd182cffe8d53b781e" alt="" width="50" /> | MAP OF THE SOUL : 7                                | [🔗](https://open.spotify.com/album/6mJZTV8lCqnwftYZa94bXS) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273fd0d9a33127c1d3f58ba3504" alt="" width="50" /> | MADE                                               | [🔗](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | Love Yourself 結 'Answer'                           | [🔗](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | Love Yourself 承 'Her'                              | [🔗](https://open.spotify.com/album/2FTS6a6DLXMNp8flyA0HGO) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273fad8c4176e8df7173479f959" alt="" width="50" /> | GO LIVE                                            | [🔗](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273e70b87a4bd471f82768bdcb9" alt="" width="50" /> | DON'T FIGHT THE FEELING - Special Album            | [🔗](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="" width="50" /> | BE                                                 | [🔗](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="" width="50" /> | Wings                                              | [🔗](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="" width="50" /> | The Most Beautiful Moment in Life: Young Forever   | [🔗](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2732795c34a8931367a0916de54" alt="" width="50" /> | The 1st Album 'XOXO' (Repackage)                   | [🔗](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27349ae714ee0bf50ca0838ed0f" alt="" width="50" /> | THE WORLD EP.1 : MOVEMENT                          | [🔗](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) |
@@ -93,7 +95,6 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c1a20972c9a083d5cece9ce5" alt="" width="50" /> | SEVENTEEN 8th Mini Album 'Your Choice'             | [🔗](https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27348f4704427189fe1957d2871" alt="" width="50" /> | Return                                             | [🔗](https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731727feddec43c335453b9252" alt="" width="50" /> | NCT #127 Neo Zone - The 2nd Album                  | [🔗](https://open.spotify.com/album/5YOvg682zFOleCiSndLnZr) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273fd0d9a33127c1d3f58ba3504" alt="" width="50" /> | MADE                                               | [🔗](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2733fe0e026d4043e5d62c81328" alt="" width="50" /> | LOVE or TAKE                                       | [🔗](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f7da7c0f322b7a1c95190d92" alt="" width="50" /> | LOVE SHOT– The 5th Album Repackage                 | [🔗](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="" width="50" /> | IN:VITE U                                          | [🔗](https://open.spotify.com/album/5vxZM8rFJiNvjtAThYnwek) |
@@ -107,8 +108,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27313ac5d67675999ba7b9c4f21" alt="" width="50" /> | minisode 2: Thursday's Child                       | [🔗](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733714e924e5570c4d2df97e09" alt="" width="50" /> | ZERO : FEVER Part.3                                | [🔗](https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273bd375b430c3abeceb8b5d8da" alt="" width="50" /> | You Never Walk Alone                               | [🔗](https://open.spotify.com/album/7LF4N7lvyDhrPBuCJ1rplJ) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273aabacdacfb6eceeb819c6ed6" alt="" width="50" /> | Wings                                              | [🔗](https://open.spotify.com/album/17FnTn4P3Bkyf6mbNQDhhy) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="" width="50" /> | Wings                                              | [🔗](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27309610687bcd1b3dc95d5d436" alt="" width="50" /> | We Boom - The 3rd Mini Album                       | [🔗](https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a23b62f52ade294c583d639e" alt="" width="50" /> | WIN-DOW                                            | [🔗](https://open.spotify.com/album/4dcwVvd7l0sAGBg0pSmKK2) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273da0376db6b1c5562ab8f5b29" alt="" width="50" /> | WE:TH                                              | [🔗](https://open.spotify.com/album/1ASYbBYBwV6Rcfc2ycqmlK) |
@@ -159,12 +158,13 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27325ca38eeeb374883d7652ff0" alt="" width="50" /> | MIROTIC - The 4th Album                            | [🔗](https://open.spotify.com/album/51Wmrzs9O87YlKp2vqDwln) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273da9c76ed020a7894443a3f97" alt="" width="50" /> | MAP OF THE SOUL : 7 ~ THE JOURNEY ~                | [🔗](https://open.spotify.com/album/1nScVw87kRJiT2bg2Kswhp) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dbb82cf845a6d574224a0d33" alt="" width="50" /> | MAMACITA - The 7th Album                           | [🔗](https://open.spotify.com/album/53i190Z2uGOLljuS3DCvz2) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735c2254d6d7618143e23f7fdb" alt="" width="50" /> | MADE                                               | [🔗](https://open.spotify.com/album/1q8h2HdED1cmgJVo8lEBME) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27366bcce2a19a9ccfd5d83f2a1" alt="" width="50" /> | MAD                                                | [🔗](https://open.spotify.com/album/3MPrK5Op0AZAql78coCQLA) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27390ad9f6d2ba8838a689999cc" alt="" width="50" /> | Lucifer - The 2nd Album                            | [🔗](https://open.spotify.com/album/4jNPKKJ0NL349RXPx7y9f4) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273eb366517758754ca13a4adf5" alt="" width="50" /> | Love&Letter repackage album                        | [🔗](https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737c4382c3305785dfd04d5d01" alt="" width="50" /> | Liminality - EP.LOVE                               | [🔗](https://open.spotify.com/album/5zh19l4Nbzqd8h9Y7F74do) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27305de9858d5c447c247f6ce21" alt="" width="50" /> | LUPIN                                              | [🔗](https://open.spotify.com/album/361AnnYEYLl0Z7zF7Xo0Dq) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d700b5ddf45596b3793d3963" alt="" width="50" /> | KINGDOM <FINAL : WHO IS THE KING?>                 | [🔗](https://open.spotify.com/album/3n1NaviPQXfiVQ0TarnAf4) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a49014cd80722aa2ac64c87d" alt="" width="50" /> | Just right                                         | [🔗](https://open.spotify.com/album/4159syQKTGC1JSJN4xBScv) |
 
 </details>
 
@@ -184,7 +184,7 @@
 |                 29 | [BIGHIT MUSIC](../labels/bighit_music.md)                           |
 |                 20 | [BELIFT LAB](../labels/belift_lab.md)                               |
 |                 16 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)           |
-|                 12 | [HYBE](../labels/hybe.md)                                           |
+|                 11 | [HYBE](../labels/hybe.md)                                           |
 |                  8 | [YG Entertainment](../labels/yg_entertainment.md)                   |
 |                  7 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
 |                  7 | [KQ Entertainment](../labels/kq_entertainment.md)                   |
@@ -262,21 +262,21 @@
 | KILLING ME                | Attention, please!         |
 | Polaroid Love             | Cyberpunk                  |
 | Still Life                | Tamed-Dashed               |
-| Shine                     | Mr. Simple                 |
-| She's In The Rain         | Easy                       |
+| Shine                     | Easy                       |
+| She's In The Rain         | Mr. Simple                 |
 
-| 10 most Instrumental tracks   | 10 least Instrumental tracks            |
-|:------------------------------|:----------------------------------------|
-| Singularity                   | CLAP                                    |
-| Mr. Simple                    | Ready to love                           |
-| Lemonade                      | Anyone                                  |
-| Ring Ding Dong                | Pretty U                                |
-| Danger                        | Breathe Again                           |
-| Airplane pt.2                 | Love is New Gravity                     |
-| Sour                          | WONDERLAND                              |
-| Doom Du Doom                  | HALA HALA (Hearts Awakened, Live Alive) |
-| Ko Ko Bop                     | Deja Vu                                 |
-| Tamed-Dashed                  | TFW (That Feeling When)                 |
+| 10 most Instrumental tracks   | 10 least Instrumental tracks   |
+|:------------------------------|:-------------------------------|
+| Singularity                   | Darl+ing                       |
+| Mr. Simple                    | Domino                         |
+| Lemonade                      | Left & Right                   |
+| Ring Ding Dong                | Fearless                       |
+| Danger                        | VERY NICE                      |
+| Airplane pt.2                 | CLAP                           |
+| Sour                          | Ready to love                  |
+| Doom Du Doom                  | Anyone                         |
+| Ko Ko Bop                     | Pretty U                       |
+| Tamed-Dashed                  | One In A Billion               |
 
 | 10 most Live tracks             | 10 least Live tracks       |
 |:--------------------------------|:---------------------------|
@@ -293,13 +293,13 @@
 
 | 10 most Happy tracks                        | 10 least Happy tracks                   |
 |:--------------------------------------------|:----------------------------------------|
-| Devil                                       | HALA HALA (Hearts Awakened, Live Alive) |
-| 쏘리 쏘리 Sorry, Sorry                          | Butterfly                               |
+| Devil                                       | Butterfly                               |
+| 쏘리 쏘리 Sorry, Sorry                          | HALA HALA (Hearts Awakened, Live Alive) |
 | Left & Right                                | Hellevator                              |
 | 운명 The Chance of Love                       | Still Life                              |
-| TFW (That Feeling When)                     | The 7th Sense                           |
-| Candy Sugar Pop                             | Anti-Romantic                           |
+| Candy Sugar Pop                             | The 7th Sense                           |
+| TFW (That Feeling When)                     | Anti-Romantic                           |
 | BLACK MIRROR                                | Singularity                             |
 | Muddy Water (Changbin, Hyunjin, HAN, Felix) | Favorite (Vampire)                      |
 | Pretty U                                    | The Truth Untold (feat. Steve Aoki)     |
-| CALL ME BABY                                | Side Effects                            |
+| VERY NICE                                   | Side Effects                            |

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="Pop" width="100" />
 
-[353 songs](pop_tracks.md)
+[351 songs](pop_tracks.md)
 
 ## Top Artists
 
@@ -76,7 +76,6 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb196972172c37d934d9ca8093" alt="" width="50" /> | Twenty One Pilots                              | [🔗](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)                       | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb60c3e9abe7327c0097738f22" alt="" width="50" /> | Sean Paul                                      | [🔗](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf01bf904b446e4a043acb867" alt="" width="50" /> | The Script                                     | [🔗](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb9ba4d95b74bacff4d5747f61" alt="" width="50" /> | Hozier                                         | [🔗](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd09edfd2babfc9fd2ba748e" alt="" width="50" /> | Daniel Caesar                                  | [🔗](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5acb3cb0a8b87d3952738b97" alt="" width="50" /> | Fifth Harmony                                  | [🔗](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) |
@@ -117,6 +116,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb66d17ee8690d2e8d94ee7387" alt="" width="50" /> | Martin Garrix                                  | [🔗](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfec47253dbf18efd8b80c5d8" alt="" width="50" /> | Stellar                                        | [🔗](https://open.spotify.com/artist/5yw4tA8D5uG7tT3NaDvq10) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb46416642da7b30327821d26e" alt="" width="50" /> | A Great Big World                              | [🔗](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b4b7eaaf58759b58626de37" alt="" width="50" /> | Skrillex                                       | [🔗](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) |
 
 </details>
 
@@ -152,7 +152,7 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Good Girl Gone Bad: Reloaded                                                                        | [🔗](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a" alt="" width="50" /> | Fine Line                                                                                           | [🔗](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | Fearless                                                                                            | [🔗](https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2735f9393fda71e7df39b34defd" alt="" width="50" /> | Dangerous Woman                                                                                     | [🔗](https://open.spotify.com/album/3OZgEywV4krCZ814pTJWr7) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="" width="50" /> | Dangerous Woman                                                                                     | [🔗](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Camila                                                                                              | [🔗](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="" width="50" /> | 24K Magic                                                                                           | [🔗](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be" alt="" width="50" /> | evermore                                                                                            | [🔗](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) |
@@ -223,14 +223,14 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c999354430ff7eac3e0d9bc8" alt="" width="50" /> | This Is The End: Original Motion Picture Soundtrack                                                 | [🔗](https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27355ef4cc7e56a02c68c3abc0f" alt="" width="50" /> | The Very Best Of "The Archies"                                                                      | [🔗](https://open.spotify.com/album/7spOTrIPTM8RrMIAhCjLJi) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736096de812d8aa1bd22ab0cf2" alt="" width="50" /> | The Truth About Love                                                                                | [🔗](https://open.spotify.com/album/0pqKb2y8h2BWS46HMfmEgD) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | The Script                                                                                          | [🔗](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b526ba531c80ed208cd428ed" alt="" width="50" /> | The Script                                                                                          | [🔗](https://open.spotify.com/album/51Hn2Wiq1jmUfI0BLaUhuF) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="" width="50" /> | The Prelude                                                                                         | [🔗](https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730f79d1616e3b02368d41f458" alt="" width="50" /> | The Pinkprint (Deluxe)                                                                              | [🔗](https://open.spotify.com/album/5ooCuPIk58IwSo6DRr1JCu) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273120a1366324c2ae1728e17e5" alt="" width="50" /> | The ArchAndroid                                                                                     | [🔗](https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273937af329667311f4b2831616" alt="" width="50" /> | Teenage Dream: The Complete Confection                                                              | [🔗](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732f8c0fd72a80a93f8c53b96c" alt="" width="50" /> | Taylor Swift                                                                                        | [🔗](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27364d58f6e7672baecc8972806" alt="" width="50" /> | Tattoos (Deluxe Edition)                                                                            | [🔗](https://open.spotify.com/album/3wDeTllVvayYsWTHsFNWZQ) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d6522bee68370fa5592301d" alt="" width="50" /> | Swalla (feat. Nicki Minaj & Ty Dolla $ign)                                                          | [🔗](https://open.spotify.com/album/2e5CxfyEwBW115beiwh7Mc) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732babb9dbd8f5146112f1bf86" alt="" width="50" /> | Stuck with U                                                                                        | [🔗](https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi) |
 
 </details>
 
@@ -252,7 +252,7 @@
 |                 21 | [Atlantic Records](../labels/atlantic_records.md)                                                           |
 |                 19 | [Columbia](../labels/columbia.md)                                                                           |
 |                 18 | [Warner Records](../labels/warner_records.md)                                                               |
-|                 18 | [Epic](../labels/epic.md)                                                                                   |
+|                 17 | [Epic](../labels/epic.md)                                                                                   |
 |                 15 | [Republic Records](../labels/republic_records.md)                                                           |
 |                 14 | [Jive](../labels/jive.md)                                                                                   |
 |                 13 | [Universal Music LLC](../labels/universal_music_llc.md)                                                     |
@@ -279,7 +279,6 @@
 |                  2 | [Wondaland](../labels/wondaland.md)                                                                         |
 |                  2 | [Reprise](../labels/reprise.md)                                                                             |
 |                  2 | [Radiculture](../labels/radiculture.md)                                                                     |
-|                  2 | [Phonogenic](../labels/phonogenic.md)                                                                       |
 |                  2 | [Nicki Minaj](../labels/nicki_minaj.md)                                                                     |
 |                  2 | [Nice Life](../labels/nice_life.md)                                                                         |
 |                  2 | [Mosley](../labels/mosley.md)                                                                               |
@@ -345,6 +344,7 @@
 |                  1 | [EMI Recorded Music Australia Pty Ltd](../labels/emi_recorded_music_australia_pty_ltd.md)                   |
 |                  1 | [Downtown Recordings](../labels/downtown_recordings.md)                                                     |
 |                  1 | [Def Jam](../labels/def_jam.md)                                                                             |
+|                  1 | [Decaydance](../labels/decaydance.md)                                                                       |
 
 </details>
 
@@ -359,7 +359,7 @@
 
 |   Number of Tracks | Genre                                           |
 |-------------------:|:------------------------------------------------|
-|                302 | [pop](../genres/pop.md)                         |
+|                300 | [pop](../genres/pop.md)                         |
 |                188 | [dance pop](../genres/dance_pop.md)             |
 |                 62 | [post-teen pop](../genres/post_teen_pop.md)     |
 |                 26 | [electropop](../genres/electropop.md)           |
@@ -370,9 +370,9 @@
 |                 16 | [r&b](../genres/r_b.md)                         |
 |                 15 | pop rap                                         |
 |                 15 | neo soul                                        |
-|                 14 | [pop rock](../genres/pop_rock.md)               |
-|                 13 | [neo mellow](../genres/neo_mellow.md)           |
+|                 12 | [pop rock](../genres/pop_rock.md)               |
 |                 12 | atl hip hop                                     |
+|                 11 | [neo mellow](../genres/neo_mellow.md)           |
 |                 11 | british soul                                    |
 |                 11 | australian pop                                  |
 |                 10 | pop soul                                        |
@@ -431,7 +431,6 @@
 |                  2 | filter house                                    |
 |                  2 | electro                                         |
 |                  2 | colombian pop                                   |
-|                  2 | celtic rock                                     |
 |                  2 | [adult standards](../genres/adult_standards.md) |
 |                  1 | wonky                                           |
 |                  1 | viral rap                                       |
@@ -459,6 +458,7 @@
 |                  1 | italian pop                                     |
 |                  1 | indie soul                                      |
 |                  1 | indie rock italiano                             |
+|                  1 | indie r&b                                       |
 
 </details>
 
@@ -471,12 +471,12 @@
 | Anaconda                         | epiphany                    |
 | WAP (feat. Megan Thee Stallion)  | lovely (with Khalid)        |
 | Pretty Please                    | We All Need Saving          |
-| Sally Walker                     | Jar of Hearts               |
-| bury a friend                    | Skyfall                     |
+| bury a friend                    | Jar of Hearts               |
+| Sally Walker                     | Skyfall                     |
 | Coño                             | exile (feat. Bon Iver)      |
 | I Think He Knows                 | La Vie En Rose              |
-| LoveGame                         | Gravity                     |
-| Yeah! (feat. Lil Jon & Ludacris) | Fix You                     |
+| Yeah! (feat. Lil Jon & Ludacris) | Gravity                     |
+| LoveGame                         | Fix You                     |
 
 | 10 most Energetic tracks       | 10 least Energetic tracks   |
 |:-------------------------------|:----------------------------|
@@ -493,22 +493,22 @@
 
 | 10 most Speechy tracks          | 10 least Speechy tracks             |
 |:--------------------------------|:------------------------------------|
-| Youngblood                      | The Man Who Can't Be Moved          |
-| boyfriend (with Social House)   | Begin Again                         |
-| bad guy                         | Everything                          |
-| WAP (feat. Megan Thee Stallion) | Show Me the Meaning of Being Lonely |
-| Bubblegum (feat. Tyga)          | Chasing Pavements                   |
-| 7 rings                         | Set Fire to the Rain                |
-| bury a friend                   | Old Fashioned                       |
-| Hustle                          | All Too Well                        |
+| Youngblood                      | I Want It That Way                  |
+| boyfriend (with Social House)   | no body, no crime (feat. HAIM)      |
+| bad guy                         | Begin Again                         |
+| WAP (feat. Megan Thee Stallion) | Everything                          |
+| Bubblegum (feat. Tyga)          | Show Me the Meaning of Being Lonely |
+| 7 rings                         | Chasing Pavements                   |
+| bury a friend                   | Set Fire to the Rain                |
+| Hustle                          | Old Fashioned                       |
 | Trumpets                        | The Scientist                       |
-| Focus                           | Breakeven                           |
+| Focus                           | All Too Well                        |
 
 | 10 most Acoustic tracks   | 10 least Acoustic tracks                                                 |
 |:--------------------------|:-------------------------------------------------------------------------|
 | when the party's over     | New Rules                                                                |
-| Take It All               | Valerie (feat. Amy Winehouse) - Version Revisited                        |
-| Come Home                 | Style                                                                    |
+| Take It All               | Style                                                                    |
+| Come Home                 | Valerie (feat. Amy Winehouse) - Version Revisited                        |
 | Stay                      | Yellow                                                                   |
 | Your Song                 | Don’t Call Me Angel (Charlie’s Angels) (with Miley Cyrus & Lana Del Rey) |
 | lovely (with Khalid)      | I Kissed A Girl                                                          |
@@ -517,24 +517,24 @@
 | Off My Face               | Coño                                                                     |
 | peace                     | Misery                                                                   |
 
-| 10 most Instrumental tracks              | 10 least Instrumental tracks                   |
-|:-----------------------------------------|:-----------------------------------------------|
-| Abeja                                    | Slow Hands                                     |
-| everything i wanted                      | INDUSTRY BABY (feat. Jack Harlow)              |
-| Instant Crush (feat. Julian Casablancas) | Monster (Shawn Mendes & Justin Bieber)         |
-| you should see me in a crown             | Ride                                           |
-| bury a friend                            | (I Got That) Boom Boom (feat. Ying Yang Twins) |
-| Therefore I Am                           | In My Blood                                    |
-| bad guy                                  | Levitating (feat. DaBaby)                      |
-| This Is What You Came For                | right here                                     |
-| Crazy                                    | illicit affairs                                |
-| Lights - Single Version                  | Big Girls Cry                                  |
+| 10 most Instrumental tracks              | 10 least Instrumental tracks                                                                        |
+|:-----------------------------------------|:----------------------------------------------------------------------------------------------------|
+| Abeja                                    | Fuck You                                                                                            |
+| everything i wanted                      | right here                                                                                          |
+| Instant Crush (feat. Julian Casablancas) | illicit affairs                                                                                     |
+| you should see me in a crown             | Hallucinate                                                                                         |
+| bury a friend                            | Industry                                                                                            |
+| Therefore I Am                           | Good For You                                                                                        |
+| bad guy                                  | Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground) |
+| This Is What You Came For                | motive (with Doja Cat)                                                                              |
+| Crazy                                    | Tango                                                                                               |
+| Lights - Single Version                  | Big Girls Cry                                                                                       |
 
 | 10 most Live tracks                            | 10 least Live tracks             |
 |:-----------------------------------------------|:---------------------------------|
 | La Vie En Rose                                 | Umbrella                         |
-| Radioactive                                    | SUGA's Interlude                 |
-| What Now                                       | Brave                            |
+| Radioactive                                    | Brave                            |
+| What Now                                       | SUGA's Interlude                 |
 | Larger Than Life                               | I Knew You Were Trouble.         |
 | Feel Good Inc.                                 | Yeah! (feat. Lil Jon & Ludacris) |
 | Super Bass                                     | It's Gonna Be Me                 |
@@ -547,8 +547,8 @@
 |:--------------------------------|:-------------------------------------------------------------------------------------------------------------------|
 | There's Nothing Holdin' Me Back | Jar of Hearts                                                                                                      |
 | Sugar, Sugar                    | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" |
-| SexyBack (feat. Timbaland)      | Dress                                                                                                              |
-| Mercy                           | Skyfall                                                                                                            |
+| Mercy                           | Dress                                                                                                              |
+| SexyBack (feat. Timbaland)      | Skyfall                                                                                                            |
 | I'm a Slave 4 U                 | Say Something                                                                                                      |
 | Sucker                          | Yellow Flicker Beat                                                                                                |
 | I Choose You                    | Falling                                                                                                            |

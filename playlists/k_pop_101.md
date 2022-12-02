@@ -88,7 +88,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737a393b04e8ced571618223e8" alt="" width="50" /> | Next Level                                | [🔗](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27362fad74218294c98e510c1c8" alt="" width="50" /> | MOVE - The 2nd Album                      | [🔗](https://open.spotify.com/album/2Ka8QpE2XUUjL4vOQihkJH) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27325ca38eeeb374883d7652ff0" alt="" width="50" /> | MIROTIC - The 4th Album                   | [🔗](https://open.spotify.com/album/51Wmrzs9O87YlKp2vqDwln) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735c2254d6d7618143e23f7fdb" alt="" width="50" /> | MADE                                      | [🔗](https://open.spotify.com/album/1q8h2HdED1cmgJVo8lEBME) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fd0d9a33127c1d3f58ba3504" alt="" width="50" /> | MADE                                      | [🔗](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | Love Yourself 承 'Her'                     | [🔗](https://open.spotify.com/album/2FTS6a6DLXMNp8flyA0HGO) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f7da7c0f322b7a1c95190d92" alt="" width="50" /> | LOVE SHOT– The 5th Album Repackage        | [🔗](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27386e407289831b784b58d4c5f" alt="" width="50" /> | It'z Me                                   | [🔗](https://open.spotify.com/album/2gertXS08whDTzBWfmewPO) |
@@ -189,8 +189,8 @@
 |:---------------------------|:----------------------------|
 | 쏘리 쏘리 Sorry, Sorry         | HIP                         |
 | Odd Eye                    | ELEVEN                      |
-| Pretty U                   | MOVE                        |
-| Hot Sauce                  | FEVER                       |
+| Pretty U                   | FEVER                       |
+| Hot Sauce                  | MOVE                        |
 | WANNABE                    | Love Shot                   |
 | Answer                     | Psycho                      |
 | DUN DUN                    | FEARLESS                    |
@@ -213,8 +213,8 @@
 
 | 10 most Acoustic tracks   | 10 least Acoustic tracks   |
 |:--------------------------|:---------------------------|
-| Amusement Park            | BANG BANG BANG             |
-| HOLO                      | Pretty U                   |
+| Amusement Park            | Pretty U                   |
+| HOLO                      | BANG BANG BANG             |
 | Next Level                | MOVE                       |
 | Shine                     | Hot Sauce                  |
 | Sticker                   | FANCY                      |
@@ -226,16 +226,16 @@
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| I Am The Best                 | ELEVEN                         |
-| FEARLESS                      | Hot Sauce                      |
-| MAGO                          | Odd Eye                        |
-| WANNABE                       | DNA                            |
-| How You Like That             | Shine                          |
-| Doom Du Doom                  | Psycho                         |
-| HIP                           | Answer                         |
-| Next Level                    | ASAP                           |
-| Genie                         | BBIBBI                         |
-| DUN DUN                       | BANG BANG BANG                 |
+| I Am The Best                 | Answer                         |
+| FEARLESS                      | BANG BANG BANG                 |
+| MAGO                          | HOLO                           |
+| WANNABE                       | MIROTIC                        |
+| How You Like That             | BBIBBI                         |
+| Doom Du Doom                  | ASAP                           |
+| HIP                           | DNA                            |
+| Next Level                    | Hot Sauce                      |
+| Genie                         | ELEVEN                         |
+| DUN DUN                       | FEVER                          |
 
 | 10 most Live tracks   | 10 least Live tracks   |
 |:----------------------|:-----------------------|
