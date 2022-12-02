@@ -1,9 +1,9 @@
 # JYP Entertainment
 
-30 songs
+26 songs
 
 Appears as:
-- JYP Entertainment (29 tracks)
+- JYP Entertainment (25 tracks)
 - MYSTIC ENTERTAINMENT, ChoongangICS, SM ENTERTAINMENT, JYP ENTERTAINMENT (1 tracks)
 
 ## Top Artists
@@ -16,8 +16,8 @@ Appears as:
 
 |   Number of Tracks | Art                                                                                              | Artist                     | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------|:------------------------------------------------------------|
-|                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../artists/itzy.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebd90aa536055fe9806b3960e6" alt="" width="50" /> | GOT7                       | [🔗](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) |
+|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../artists/itzy.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb6ff45cd874b8d6ded27a4b35" alt="" width="50" /> | NMIXX                      | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb30a517d1b703c3eabdac2855" alt="" width="50" /> | Wonder Girls               | [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb909ae20e6815f0b43dd86bb6" alt="" width="50" /> | J.Y. Park                  | [🔗](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B) |
@@ -36,15 +36,14 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 23 albums](../images/labels/jyp_entertainment/albums.png)
+![Bar chart of top 22 albums](../images/labels/jyp_entertainment/albums.png)
 
 
 <details>
-<summary>See all 23 albums</summary>
+<summary>See all 22 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                      | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------|:-----------------------------------------------------------|
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2732c214d5de552996f3dd74f17" alt="" width="50" /> | GUESS WHO                  | [🔗](https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273d27c6b111cc35cae9bee87d6" alt="" width="50" /> | It's Raining               | [🔗](https://open.spotify.com/album/3oZ0ClkVrQS6pqb2VCCbhZ) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2735a34da2654db7f75cee1d080" alt="" width="50" /> | IT'z ICY                   | [🔗](https://open.spotify.com/album/2y2Nuvvw5xNDYOunTSsgf1) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c8caa659d37a00d34cbd6359" alt="" width="50" /> | ENTWURF                    | [🔗](https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6) |
@@ -81,8 +80,8 @@ Appears as:
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
-|                 17 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 |                 17 | [k-pop](../genres/k_pop.md)                       |
+|                 13 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 |                  6 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
 |                  5 | classic k-pop                                     |
 |                  1 | korean pop                                        |
@@ -104,10 +103,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2735a34da2654db7f75cee1d080" alt="" width="50" /> | CHERRY                                    | IT'z ICY                   | [ITZY](../artists/itzy.md) | [JYP Entertainment](jyp_entertainment.md)                                                                              |     | [🔗](https://open.spotify.com/track/3Ef2Sr4U0oehtcozO23yUN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735a34da2654db7f75cee1d080" alt="" width="50" /> | ICY                                       | IT'z ICY                   | [ITZY](../artists/itzy.md) | [JYP Entertainment](jyp_entertainment.md)                                                                              | 💚   | [🔗](https://open.spotify.com/track/7zFBtYAVURF3bUVqEQ6UUu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27386e407289831b784b58d4c5f" alt="" width="50" /> | WANNABE                                   | It'z Me                    | [ITZY](../artists/itzy.md) | [JYP Entertainment](jyp_entertainment.md)                                                                              | 💚   | [🔗](https://open.spotify.com/track/6tCssnvTUREcperDOUTqvA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732c214d5de552996f3dd74f17" alt="" width="50" /> | In the morning                            | GUESS WHO                  | [ITZY](../artists/itzy.md) | [JYP Entertainment](jyp_entertainment.md)                                                                              | 💚   | [🔗](https://open.spotify.com/track/2QdH0rKlV3d9Y6lWzcnlBH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732c214d5de552996f3dd74f17" alt="" width="50" /> | KIDDING ME                                | GUESS WHO                  | [ITZY](../artists/itzy.md) | [JYP Entertainment](jyp_entertainment.md)                                                                              | 💚   | [🔗](https://open.spotify.com/track/3aGqHdZJusdhT3ZzfLRnO7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732c214d5de552996f3dd74f17" alt="" width="50" /> | SHOOT!                                    | GUESS WHO                  | [ITZY](../artists/itzy.md) | [JYP Entertainment](jyp_entertainment.md)                                                                              | 💚   | [🔗](https://open.spotify.com/track/11RRkvXd7FvwxLWvtuBIR1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732c214d5de552996f3dd74f17" alt="" width="50" /> | TENNIS (0:0)                              | GUESS WHO                  | [ITZY](../artists/itzy.md) | [JYP Entertainment](jyp_entertainment.md)                                                                              |     | [🔗](https://open.spotify.com/track/1e8PJyZMP4Kx2lGbb7t4ng) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736ca0444983448696f2e2fd71" alt="" width="50" /> | 어머님이 누구니 (Who's your mama?) (Feat. Jessi) | 24/34                      | J.Y. Park                  | [JYP Entertainment](jyp_entertainment.md)                                                                              |     | [🔗](https://open.spotify.com/track/7Hjmz2XTMCuFvKBSfvrtC5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27375ce3676994c95a025aeefac" alt="" width="50" /> | FEVER                                     | FEVER                      | J.Y. Park, SUPERBEE, BIBI  | [JYP Entertainment](jyp_entertainment.md)                                                                              | 💚   | [🔗](https://open.spotify.com/track/0x9Vpw90j9fDb669IydnHL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731a984930c218438701634e11" alt="" width="50" /> | When We Disco (Duet with SUNMI)           | When We Disco              | J.Y. Park, SUNMI           | [JYP Entertainment](jyp_entertainment.md)                                                                              | 💚   | [🔗](https://open.spotify.com/track/6t9nnPyEZfjcn1aLJ4l9AK) |

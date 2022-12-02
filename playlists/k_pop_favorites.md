@@ -232,15 +232,15 @@
 |   Number of Tracks | Label                                                                                   |
 |-------------------:|:----------------------------------------------------------------------------------------|
 |                 58 | [SM Entertainment](../labels/sm_entertainment.md)                                       |
+|                 17 | [Republic Records](../labels/republic_records.md)                                       |
 |                 16 | [YG Entertainment](../labels/yg_entertainment.md)                                       |
-|                 16 | [Republic Records](../labels/republic_records.md)                                       |
 |                 11 | [Interscope](../labels/interscope.md)                                                   |
 |                  9 | [BELIFT LAB](../labels/belift_lab.md)                                                   |
 |                  8 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                     |
 |                  7 | [Universal Music LLC](../labels/universal_music_llc.md)                                 |
 |                  7 | [RBW Inc.](../labels/rbw_inc_.md)                                                       |
-|                  7 | [JYP Entertainment](../labels/jyp_entertainment.md)                                     |
 |                  7 | [Genie Music Corporation](../labels/genie_music_corporation.md)                         |
+|                  6 | [JYP Entertainment](../labels/jyp_entertainment.md)                                     |
 |                  6 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                                   |
 |                  4 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)                               |
 |                  4 | [Kakao Entertainment](../labels/kakao_entertainment.md)                                 |
@@ -340,9 +340,9 @@
 | HOME;RUN                              | Butter                      |
 | Feel My Rhythm                        | For You                     |
 | The Boys                              | HANN (Alone in winter)      |
-| Hype Boy                              | My sea                      |
-| Sparkling Night                       | Gone                        |
-| Ice Cream Cake                        | ONLY                        |
+| Ice Cream Cake                        | My sea                      |
+| Hype Boy                              | Gone                        |
+| Sparkling Night                       | ONLY                        |
 
 | 10 most Speechy tracks   | 10 least Speechy tracks   |
 |:-------------------------|:--------------------------|
@@ -378,10 +378,10 @@
 | Kill This Love                | ParadoXXX Invasion             |
 | Why Not?                      | Just A Little Bit              |
 | Black Mamba                   | Still Life                     |
-| Stay Tonight                  | Pink Venom                     |
-| Girls                         | Butter                         |
-| MAGO                          | The Red Shoes                  |
-| TANK                          | Shut Down                      |
+| In the morning                | Pink Venom                     |
+| Stay Tonight                  | Butter                         |
+| Girls                         | The Red Shoes                  |
+| MAGO                          | Shut Down                      |
 
 | 10 most Live tracks             | 10 least Live tracks        |
 |:--------------------------------|:----------------------------|

@@ -153,6 +153,7 @@
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | Teenage Dream                              | [🔗](https://open.spotify.com/album/3BoUxfC7YhxNq3TpOfnRif) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | Red                                        | [🔗](https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | I AM...SASHA FIERCE                        | [🔗](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="" width="50" /> | Dangerous Woman                            | [🔗](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | 4                                          | [🔗](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | 21                                         | [🔗](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | 1000 Forms Of Fear (Deluxe Version)        | [🔗](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) |
@@ -167,7 +168,6 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Good Girl Gone Bad: Reloaded               | [🔗](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a" alt="" width="50" /> | Fine Line                                  | [🔗](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | Fearless                                   | [🔗](https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="" width="50" /> | Dangerous Woman                            | [🔗](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Camila                                     | [🔗](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="" width="50" /> | 24K Magic                                  | [🔗](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be" alt="" width="50" /> | evermore                                   | [🔗](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) |
@@ -354,10 +354,10 @@
 | WAP (feat. Megan Thee Stallion) | Once Upon Another Time      |
 | Billie Jean                     | Gravity                     |
 | Pretty Please                   | Shades Of Cool              |
-| 1, 2, 3, 4                      | Stay                        |
-| bury a friend                   | Norman fucking Rockwell     |
-| Sally Walker                    | Fix You                     |
-| Coño                            | Already Gone                |
+| bury a friend                   | Stay                        |
+| 1, 2, 3, 4                      | Norman fucking Rockwell     |
+| Sally Walker                    | Already Gone                |
+| Coño                            | Fix You                     |
 | I Think He Knows                | Born To Die                 |
 
 | 10 most Energetic tracks        | 10 least Energetic tracks                                                         |
@@ -376,12 +376,12 @@
 | 10 most Speechy tracks          | 10 least Speechy tracks        |
 |:--------------------------------|:-------------------------------|
 | Youngblood                      | Travelin' Soldier              |
-| boyfriend (with Social House)   | She's In The Rain              |
-| Hold Up                         | no body, no crime (feat. HAIM) |
+| boyfriend (with Social House)   | no body, no crime (feat. HAIM) |
+| Hold Up                         | She's In The Rain              |
 | Vigilante Shit                  | Begin Again                    |
 | Irreplaceable                   | Chasing Pavements              |
-| bad guy                         | Set Fire to the Rain           |
-| WAP (feat. Megan Thee Stallion) | All Too Well                   |
+| WAP (feat. Megan Thee Stallion) | Set Fire to the Rain           |
+| bad guy                         | All Too Well                   |
 | Bubblegum (feat. Tyga)          | The Scientist                  |
 | 7 rings                         | Breakeven                      |
 | bury a friend                   | Satellite Call                 |
@@ -399,18 +399,18 @@
 | Come Home                                                                         | Coño                                                                     |
 | Stay                                                                              | Misery                                                                   |
 
-| 10 most Instrumental tracks     | 10 least Instrumental tracks   |
-|:--------------------------------|:-------------------------------|
-| everything i wanted             | That's What I Like             |
-| Labyrinth                       | Grenade                        |
-| Smooth Criminal - 2012 Remaster | Jar of Hearts                  |
-| Swan Song                       | TiK ToK                        |
-| Wanna Be Startin' Somethin'     | React                          |
-| you should see me in a crown    | Hunger                         |
-| bury a friend                   | She's In The Rain              |
-| Therefore I Am                  | Delilah                        |
-| bad guy                         | What Kind Of Man               |
-| This Is What You Came For       | Say You're Sorry               |
+| 10 most Instrumental tracks     | 10 least Instrumental tracks            |
+|:--------------------------------|:----------------------------------------|
+| everything i wanted             | Rockabye (feat. Sean Paul & Anne-Marie) |
+| Labyrinth                       | Cold As Hell                            |
+| Smooth Criminal - 2012 Remaster | What Do I Call You                      |
+| Swan Song                       | Happy                                   |
+| Wanna Be Startin' Somethin'     | Spark                                   |
+| you should see me in a crown    | Four Seasons                            |
+| bury a friend                   | 그대라는 시                                  |
+| Therefore I Am                  | 11:11                                   |
+| bad guy                         | If                                      |
+| This Is What You Came For       | Say You're Sorry                        |
 
 | 10 most Live tracks                                                               | 10 least Live tracks             |
 |:----------------------------------------------------------------------------------|:---------------------------------|
@@ -435,5 +435,5 @@
 | P.Y.T. (Pretty Young Thing)     | xanny                            |
 | 1, 2, 3, 4                      | No Time To Die                   |
 | Sucker                          | Delicate                         |
-| Don't Stop 'Til You Get Enough  | Swan Song                        |
-| I Choose You                    | Maroon                           |
+| I Choose You                    | Swan Song                        |
+| Don't Stop 'Til You Get Enough  | Maroon                           |

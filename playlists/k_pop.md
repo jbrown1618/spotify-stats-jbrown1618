@@ -149,6 +149,7 @@
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="" width="50" /> | Like Water - The 1st Mini Album                     | [🔗](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | IU 5th Album 'LILAC'                                | [🔗](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | I love                                              | [🔗](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="" width="50" /> | GUESS WHO                                           | [🔗](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273aea29200523b1ee4d5b2c035" alt="" width="50" /> | FOREVER 1 - The 7th Album                           | [🔗](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="" width="50" /> | DIMENSION : DILEMMA                                 | [🔗](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | CHECKMATE                                           | [🔗](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) |
@@ -171,7 +172,6 @@
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2735dcded478bd1a908dbabf05e" alt="" width="50" /> | KILL THIS LOVE                                      | [🔗](https://open.spotify.com/album/7viSsSKXrDa95CtUcuc1Iv) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | I burn                                              | [🔗](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Girls - The 2nd Mini Album                          | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2732c214d5de552996f3dd74f17" alt="" width="50" /> | GUESS WHO                                           | [🔗](https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273a498cf792773aa474d779dd8" alt="" width="50" /> | D-2                                                 | [🔗](https://open.spotify.com/album/0zhGddZ83RpCgnelKWa2qS) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6096741dcf413354a59554" alt="" width="50" /> | BORDER : DAY ONE                                    | [🔗](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | BORDER : CARNIVAL                                   | [🔗](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) |
@@ -246,16 +246,16 @@
 |   Number of Tracks | Label                                                                                                               |
 |-------------------:|:--------------------------------------------------------------------------------------------------------------------|
 |                199 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
-|                 84 | [Republic Records](../labels/republic_records.md)                                                                   |
+|                 88 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 61 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
 |                 50 | [Genie Music Corporation](../labels/genie_music_corporation.md)                                                     |
 |                 46 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                                                 |
 |                 36 | [BIGHIT MUSIC](../labels/bighit_music.md)                                                                           |
 |                 32 | [Interscope](../labels/interscope.md)                                                                               |
 |                 32 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                                                               |
-|                 30 | [JYP Entertainment](../labels/jyp_entertainment.md)                                                                 |
 |                 28 | [Universal Music LLC](../labels/universal_music_llc.md)                                                             |
 |                 28 | [RBW Inc.](../labels/rbw_inc_.md)                                                                                   |
+|                 26 | [JYP Entertainment](../labels/jyp_entertainment.md)                                                                 |
 |                 20 | [BELIFT LAB](../labels/belift_lab.md)                                                                               |
 |                 19 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)                                                           |
 |                 16 | [HYBE](../labels/hybe.md)                                                                                           |
@@ -404,8 +404,8 @@
 | SNEAKERS                   | Clockwork                   |
 | Idle song                  | Epilogue                    |
 | Jelly                      | Like Water                  |
-| Weather                    | Fine                        |
-| Typa Girl                  | My sea                      |
+| Typa Girl                  | Fine                        |
+| Weather                    | My sea                      |
 | BOOM                       | On The Ground               |
 | Tippy Toes                 | Sweet                       |
 | Mr. Simple                 | U                           |
@@ -413,8 +413,8 @@
 | 10 most Energetic tracks   | 10 least Energetic tracks                            |
 |:---------------------------|:-----------------------------------------------------|
 | RING X RING                | ONLY                                                 |
-| Hit That Drum              | 그대라는 시                                               |
-| Misfit                     | Flower Way (Prod. By ZICO)                           |
+| Misfit                     | 그대라는 시                                               |
+| Hit That Drum              | Flower Way (Prod. By ZICO)                           |
 | MIROH                      | Rain and You                                         |
 | Side Effects               | Singularity                                          |
 | 소방차 Fire Truck             | Boy in time - HUI Solo                               |
@@ -425,14 +425,14 @@
 
 | 10 most Speechy tracks        | 10 least Speechy tracks                    |
 |:------------------------------|:-------------------------------------------|
-| I Don't Need You              | Gee                                        |
-| Addicted                      | Hope Not                                   |
-| MANIAC                        | Winter Sleep                               |
-| Freedom                       | Wicked                                     |
+| I Don't Need You              | Hope Not                                   |
+| Addicted                      | Gee                                        |
+| MANIAC                        | Wicked                                     |
+| Freedom                       | Winter Sleep                               |
 | Free Fall                     | Rain and You                               |
 | Ice Cream (with Selena Gomez) | Moonlight Melody                           |
-| Feelin' Like                  | Slightly Tipsy (She is My Type♡ X SANDEUL) |
-| Signal                        | She's In The Rain                          |
+| Feelin' Like                  | She's In The Rain                          |
+| Signal                        | Slightly Tipsy (She is My Type♡ X SANDEUL) |
 | BBIBBI                        | Sweet Night                                |
 | You Better Run                | With                                       |
 
@@ -445,21 +445,21 @@
 | Run With Me                                          | Oh Sorry Ya                |
 | Goodbye                                              | Cyberpunk                  |
 | Amusement Park                                       | Tamed-Dashed               |
-| U                                                    | Easy                       |
-| Flower Way (Prod. By ZICO)                           | Mr. Simple                 |
+| U                                                    | Mr. Simple                 |
+| Flower Way (Prod. By ZICO)                           | Easy                       |
 | If                                                   | Poison                     |
 
 | 10 most Instrumental tracks      | 10 least Instrumental tracks   |
 |:---------------------------------|:-------------------------------|
-| Tippy Toes                       | Hello                          |
-| You and I (Park Bom)             | BREATHE                        |
-| Adios                            | Black Swan                     |
-| pporappippam                     | TFW (That Feeling When)        |
-| Badster                          | The Red Shoes                  |
-| YEPPI YEPPI                      | KIDDING ME                     |
-| It′s Raining                     | DOMINO                         |
-| So Hot                           | Into The Abyss                 |
-| GingaMingaYo (the strange world) | Stay Gold                      |
+| Tippy Toes                       | BANG BANG BANG                 |
+| You and I (Park Bom)             | Not For Sale                   |
+| Adios                            | LOVE SCENARIO                  |
+| pporappippam                     | Hello                          |
+| Badster                          | FIESTA                         |
+| YEPPI YEPPI                      | Black Swan                     |
+| It′s Raining                     | TFW (That Feeling When)        |
+| So Hot                           | The Red Shoes                  |
+| GingaMingaYo (the strange world) | Go Big or Go Home              |
 | I Am The Best                    | Sorry                          |
 
 | 10 most Live tracks            | 10 least Live tracks                  |
@@ -477,13 +477,13 @@
 
 | 10 most Happy tracks   | 10 least Happy tracks     |
 |:-----------------------|:--------------------------|
-| Sour candy             | Stardust love song        |
-| Devil                  | Sweet Night               |
-| Twenty-three           | Lucid Dream               |
+| Sour candy             | Sweet Night               |
+| Twenty-three           | Stardust love song        |
+| Devil                  | Lucid Dream               |
 | Pepe                   | U                         |
 | Miniskirt              | My sea                    |
 | So Hot                 | Side Effects              |
-| 쏘리 쏘리 Sorry, Sorry     | Good Night My Princess    |
-| Twinkle                | 7월 7일 One Of These Nights |
-| Lion Heart             | Grey Suit                 |
-| Give it to me          | The Road                  |
+| Twinkle                | Good Night My Princess    |
+| 쏘리 쏘리 Sorry, Sorry     | 7월 7일 One Of These Nights |
+| Some (feat. Lil Boi)   | Grey Suit                 |
+| Lion Heart             | The Road                  |

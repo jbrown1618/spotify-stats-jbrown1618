@@ -127,11 +127,12 @@
 
 
 <details>
-<summary>See all 87 albums</summary>
+<summary>See all 86 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                                                               | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------|:-----------------------------------------------------------|
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="" width="50" /> | METAL RESISTANCE                                                                                    | [🔗](https://open.spotify.com/album/2vIRdYffs93ca7L0Eh4mTm) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27315249cb1ee9b66f0aacfffe8" alt="" width="50" /> | Under the Surface                                                                                   | [🔗](https://open.spotify.com/album/6ISIdF1gCK9X8pn4FaObHE) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2732bb4e77f30c614c2a7b67b9d" alt="" width="50" /> | METAL GALAXY                                                                                        | [🔗](https://open.spotify.com/album/6rxRhft7JZtXavzHP2g2el) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273bbf9d502f3ce4a15b3c43f7a" alt="" width="50" /> | Editorial                                                                                           | [🔗](https://open.spotify.com/album/22nXr9DqkTAp1Y0GT1ialu) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273714fc63956d45e97196c7af7" alt="" width="50" /> | EXPLORE!                                                                                            | [🔗](https://open.spotify.com/album/6TXaOwBLoyJrD6vem7L8Ba) |
@@ -163,8 +164,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273752d2becbb91841a31c556b8" alt="" width="50" /> | Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground) | [🔗](https://open.spotify.com/album/3pzQF7YgU1f66pBayA8uHv) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b28db1e5c8c53e67c6969c06" alt="" width="50" /> | Vintage                                                                                             | [🔗](https://open.spotify.com/album/6tGI9MGbLjbxyzcxYkMXPJ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ef0d4234e1a645740f77d59c" alt="" width="50" /> | VIDA                                                                                                | [🔗](https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735e3e23be9bdc38cb4767be97" alt="" width="50" /> | Under the Surface                                                                                   | [🔗](https://open.spotify.com/album/4WvW7Y50LuI1yE1XWxtAVk) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27315249cb1ee9b66f0aacfffe8" alt="" width="50" /> | Under the Surface                                                                                   | [🔗](https://open.spotify.com/album/6ISIdF1gCK9X8pn4FaObHE) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273312bd86cc2db22fde885ee73" alt="" width="50" /> | UN DIA (ONE DAY) (Feat. Tainy)                                                                      | [🔗](https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739c4ba827e585fabd3cfd90f2" alt="" width="50" /> | Traveler                                                                                            | [🔗](https://open.spotify.com/album/17gzvH2FPpVhpuqalLFi9j) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fc1e6aac4f02c6864d7a5f90" alt="" width="50" /> | Toy                                                                                                 | [🔗](https://open.spotify.com/album/21YEfZ84TzdjNvOWEdwjeF) |
@@ -431,11 +430,11 @@
 |:---------------------------|:-------------------------------------------------------|
 | チョコレイト・ディスコ                | 永不失聯的愛                                                 |
 | Shanti Shanti Shanti       | Sofa Silahlane                                         |
-| Headbangeeeeerrrrr!!!!!    | 醒不来的梦                                                  |
+| Gimme Chocolate!!          | 醒不来的梦                                                  |
 | Boys & Girls               | Think About Things                                     |
-| Gimme Chocolate!!          | 你要的愛                                                   |
-| KARATE                     | untuk hati yang terluka.                               |
-| だいじょばない                    | Gagnamagnið                                            |
+| Headbangeeeeerrrrr!!!!!    | 你要的愛                                                   |
+| だいじょばない                    | untuk hati yang terluka.                               |
+| KARATE                     | Gagnamagnið                                            |
 | 404 not found              | Heaven                                                 |
 | 恋をすると馬鹿を見る(Team B)         | 落葉歸根                                                   |
 | Kagerou                    | 刻在我心底的名字 (Your Name Engraved Herein) - 電影<刻在你心底的名字>主題曲 |
@@ -468,16 +467,16 @@
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks                           |
 |:------------------------------|:-------------------------------------------------------|
-| だいじょばない                       | לך לישון                                               |
-| Sofa Silahlane                | 砂の惑星 ( + 初音ミク )                                        |
+| だいじょばない                       | 砂の惑星 ( + 初音ミク )                                        |
+| Sofa Silahlane                | Djadja                                                 |
 | Shanti Shanti Shanti          | Cry Baby                                               |
-| בשורות טובות                  | Pleasure                                               |
-| KARATE                        | Leyendas                                               |
-| abnormalize                   | 刻在我心底的名字 (Your Name Engraved Herein) - 電影<刻在你心底的名字>主題曲 |
-| Tippy Toes                    | Habit                                                  |
-| Headbangeeeeerrrrr!!!!!       | Te Felicito                                            |
-| JA ARA E                      | I Love...                                              |
-| Kagerou                       | Djadja                                                 |
+| בשורות טובות                  | Leyendas                                               |
+| KARATE                        | 刻在我心底的名字 (Your Name Engraved Herein) - 電影<刻在你心底的名字>主題曲 |
+| abnormalize                   | Habit                                                  |
+| Tippy Toes                    | Te Felicito                                            |
+| Headbangeeeeerrrrr!!!!!       | I Love...                                              |
+| JA ARA E                      | Échame La Culpa                                        |
+| Kagerou                       | Pleasure                                               |
 
 | 10 most Live tracks   | 10 least Live tracks   |
 |:----------------------|:-----------------------|
@@ -492,15 +491,15 @@
 | 404 not found         | קוביות                 |
 | Wherever you are      | Sofa Silahlane         |
 
-| 10 most Happy tracks   | 10 least Happy tracks    |
-|:-----------------------|:-------------------------|
-| チョコレイト・ディスコ            | Papaoutai                |
-| Me Enamoré             | 落葉歸根                     |
-| סתלבט בקיבוץ           | 醒不来的梦                    |
-| Ne reviens pas         | KARATE                   |
-| 恋するフォーチュンクッキー          | untuk hati yang terluka. |
-| 砂の惑星 ( + 初音ミク )        | No Rain, No Rainbow      |
-| Habit                  | 白月光与朱砂痣                  |
-| No title               | 你要的愛                     |
-| Koi                    | Tetap Dalam Jiwa         |
-| だいじょばない                | Mercy                    |
+| 10 most Happy tracks                           | 10 least Happy tracks    |
+|:-----------------------------------------------|:-------------------------|
+| チョコレイト・ディスコ                                    | Papaoutai                |
+| Me Enamoré                                     | 落葉歸根                     |
+| סתלבט בקיבוץ                                   | 醒不来的梦                    |
+| Ne reviens pas                                 | KARATE                   |
+| 恋するフォーチュンクッキー                                  | No Rain, No Rainbow      |
+| 砂の惑星 ( + 初音ミク )                                | untuk hati yang terluka. |
+| Habit                                          | 白月光与朱砂痣                  |
+| No title                                       | 你要的愛                     |
+| Koi                                            | Tetap Dalam Jiwa         |
+| The Ketchup Song (Aserejé) - Spanglish Version | Mercy                    |

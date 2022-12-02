@@ -102,6 +102,7 @@
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2738ea860a3e6904b875629d672" alt="" width="50" /> | YOUNG-LUV.COM                               | [🔗](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | Savage - The 1st Mini Album                 | [🔗](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273830de2e836036f181df598d0" alt="" width="50" /> | Queendom - The 6th Mini Album               | [🔗](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="" width="50" /> | GUESS WHO                                   | [🔗](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273aea29200523b1ee4d5b2c035" alt="" width="50" /> | FOREVER 1 - The 7th Album                   | [🔗](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | ‘The ReVe Festival’ Finale                  | [🔗](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273d2ef237da7f94762997c2083" alt="" width="50" /> | ‘The ReVe Festival 2022 - Birthday’         | [🔗](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) |
@@ -115,7 +116,6 @@
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | I trust                                     | [🔗](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | I burn                                      | [🔗](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Girls - The 2nd Mini Album                  | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2732c214d5de552996f3dd74f17" alt="" width="50" /> | GUESS WHO                                   | [🔗](https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="" width="50" /> | 1st Album [Dystopia : The Tree of Language] | [🔗](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="" width="50" /> | Taste of Love                               | [🔗](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2736017bca98dea58ceddea77c1" alt="" width="50" /> | Summer Magic - Summer Mini Album            | [🔗](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) |
@@ -204,14 +204,14 @@
 |   Number of Tracks | Label                                                                                                               |
 |-------------------:|:--------------------------------------------------------------------------------------------------------------------|
 |                 80 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
-|                 58 | [Republic Records](../labels/republic_records.md)                                                                   |
+|                 62 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 25 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
 |                 25 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                                                               |
 |                 23 | [Interscope](../labels/interscope.md)                                                                               |
 |                 18 | [Universal Music LLC](../labels/universal_music_llc.md)                                                             |
-|                 17 | [JYP Entertainment](../labels/jyp_entertainment.md)                                                                 |
 |                 15 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                                                 |
 |                 14 | [Starship Entertainment](../labels/starship_entertainment.md)                                                       |
+|                 13 | [JYP Entertainment](../labels/jyp_entertainment.md)                                                                 |
 |                 12 | [RBW Inc.](../labels/rbw_inc_.md)                                                                                   |
 |                 12 | [Genie Music Corporation](../labels/genie_music_corporation.md)                                                     |
 |                 11 | [High Up Entertainment](../labels/high_up_entertainment.md)                                                         |
@@ -296,8 +296,8 @@
 | Secret                     | You Never Know              |
 | Oh!                        | STAY                        |
 | Mr.Mr.                     | HANN (Alone in winter)      |
-| Panorama                   | Hope Not                    |
-| Very Very Very             | The Happiest Girl           |
+| Very Very Very             | Hope Not                    |
+| Panorama                   | The Happiest Girl           |
 
 | 10 most Speechy tracks        | 10 least Speechy tracks   |
 |:------------------------------|:--------------------------|
@@ -346,8 +346,8 @@
 | I Like That           | Red Light                     |
 | Vibrato               | BLACK DRESS                   |
 | 행복 (Happiness)        | DARK (X-file)                 |
-| Genie                 | Ice Cream (with Selena Gomez) |
-| LP                    | YEPPI YEPPI                   |
+| LP                    | Ice Cream (with Selena Gomez) |
+| Genie                 | YEPPI YEPPI                   |
 | STEREOTYPE            | SNEAKERS (English Ver.)       |
 | 5th Season (SSFWL)    | SNEAKERS                      |
 
@@ -357,8 +357,8 @@
 | Miniskirt               | 4 Walls                   |
 | So Hot                  | MORE                      |
 | Twinkle                 | POSE                      |
-| Lion Heart              | LION                      |
-| Give it to me           | In My Dreams              |
+| Give it to me           | LION                      |
+| Lion Heart              | In My Dreams              |
 | 러시안 룰렛 Russian Roulette | Hope Not                  |
 | Nobody                  | Body Talk                 |
 | Really                  | Lucid Dream               |

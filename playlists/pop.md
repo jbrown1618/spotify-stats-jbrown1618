@@ -143,6 +143,7 @@
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | The Fame                                                                                            | [🔗](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | Teenage Dream                                                                                       | [🔗](https://open.spotify.com/album/3BoUxfC7YhxNq3TpOfnRif) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | Red                                                                                                 | [🔗](https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="" width="50" /> | Dangerous Woman                                                                                     | [🔗](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | 21                                                                                                  | [🔗](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | 1000 Forms Of Fear (Deluxe Version)                                                                 | [🔗](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Romance                                                                                             | [🔗](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) |
@@ -152,7 +153,6 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Good Girl Gone Bad: Reloaded                                                                        | [🔗](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a" alt="" width="50" /> | Fine Line                                                                                           | [🔗](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | Fearless                                                                                            | [🔗](https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="" width="50" /> | Dangerous Woman                                                                                     | [🔗](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Camila                                                                                              | [🔗](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="" width="50" /> | 24K Magic                                                                                           | [🔗](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be" alt="" width="50" /> | evermore                                                                                            | [🔗](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) |
@@ -507,8 +507,8 @@
 | 10 most Acoustic tracks   | 10 least Acoustic tracks                                                 |
 |:--------------------------|:-------------------------------------------------------------------------|
 | when the party's over     | New Rules                                                                |
-| Take It All               | Style                                                                    |
-| Come Home                 | Valerie (feat. Amy Winehouse) - Version Revisited                        |
+| Take It All               | Valerie (feat. Amy Winehouse) - Version Revisited                        |
+| Come Home                 | Style                                                                    |
 | Stay                      | Yellow                                                                   |
 | Your Song                 | Don’t Call Me Angel (Charlie’s Angels) (with Miley Cyrus & Lana Del Rey) |
 | lovely (with Khalid)      | I Kissed A Girl                                                          |
@@ -517,24 +517,24 @@
 | Off My Face               | Coño                                                                     |
 | peace                     | Misery                                                                   |
 
-| 10 most Instrumental tracks              | 10 least Instrumental tracks                                                                        |
-|:-----------------------------------------|:----------------------------------------------------------------------------------------------------|
-| Abeja                                    | Fuck You                                                                                            |
-| everything i wanted                      | right here                                                                                          |
-| Instant Crush (feat. Julian Casablancas) | illicit affairs                                                                                     |
-| you should see me in a crown             | Hallucinate                                                                                         |
-| bury a friend                            | Industry                                                                                            |
-| Therefore I Am                           | Good For You                                                                                        |
-| bad guy                                  | Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground) |
-| This Is What You Came For                | motive (with Doja Cat)                                                                              |
-| Crazy                                    | Tango                                                                                               |
-| Lights - Single Version                  | Big Girls Cry                                                                                       |
+| 10 most Instrumental tracks              | 10 least Instrumental tracks                |
+|:-----------------------------------------|:--------------------------------------------|
+| Abeja                                    | King of Anything                            |
+| everything i wanted                      | pov                                         |
+| Instant Crush (feat. Julian Casablancas) | Break My Heart Myself (feat. Travis Barker) |
+| you should see me in a crown             | Off My Face                                 |
+| bury a friend                            | no body, no crime (feat. HAIM)              |
+| Therefore I Am                           | Ashes                                       |
+| bad guy                                  | Oh My God                                   |
+| This Is What You Came For                | Bad At Love                                 |
+| Crazy                                    | Show Me the Meaning of Being Lonely         |
+| Lights - Single Version                  | Back To December                            |
 
 | 10 most Live tracks                            | 10 least Live tracks             |
 |:-----------------------------------------------|:---------------------------------|
 | La Vie En Rose                                 | Umbrella                         |
-| Radioactive                                    | Brave                            |
-| What Now                                       | SUGA's Interlude                 |
+| Radioactive                                    | SUGA's Interlude                 |
+| What Now                                       | Brave                            |
 | Larger Than Life                               | I Knew You Were Trouble.         |
 | Feel Good Inc.                                 | Yeah! (feat. Lil Jon & Ludacris) |
 | Super Bass                                     | It's Gonna Be Me                 |
