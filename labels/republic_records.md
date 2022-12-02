@@ -1,11 +1,11 @@
 # Republic Records
 
-104 songs
+107 songs
 
 Appears as:
 - Republic Records - TWICE (31 tracks)
 - Republic Records - Stray Kids (30 tracks)
-- Republic Records - ITZY (21 tracks)
+- Republic Records - ITZY (24 tracks)
 - Republic Records (12 tracks)
 - Republic Records - TXT (6 tracks)
 - Lava Music/Republic Records (2 tracks)
@@ -24,7 +24,7 @@ Appears as:
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------|:------------------------------------------------------------|
 |                 31 | <img src="https://i.scdn.co/image/ab6761610000e5ebd84fd6ae9ccfc6206ea6711e" alt="" width="50" /> | [TWICE](../artists/twice.md)                 | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 |                 30 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md)       | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
-|                 21 | <img src="https://i.scdn.co/image/ab6761610000e5eb3e64e13dfb4fc3dc1a873b00" alt="" width="50" /> | [ITZY](../artists/itzy.md)                   | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
+|                 24 | <img src="https://i.scdn.co/image/ab6761610000e5eb3e64e13dfb4fc3dc1a873b00" alt="" width="50" /> | [ITZY](../artists/itzy.md)                   | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                 10 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../artists/ariana_grande.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb758f3c632d4d726f1129d336" alt="" width="50" /> | TOMORROW X TOGETHER                          | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | Jessie J                                     | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
@@ -47,7 +47,7 @@ Appears as:
 
 
 <details>
-<summary>See all 53 albums</summary>
+<summary>See all 54 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                   | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------|:-----------------------------------------------------------|
@@ -65,6 +65,7 @@ Appears as:
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | Not Shy                                                 | [🔗](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273fad8c4176e8df7173479f959" alt="" width="50" /> | GO LIVE                                                 | [🔗](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2736570fd05bcff5edcb16e617d" alt="" width="50" /> | Eyes Wide Open                                          | [🔗](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | CHESHIRE                                                | [🔗](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | BETWEEN 1&2                                             | [🔗](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2739900b995cd1a81c35c574ab0" alt="" width="50" /> | Who You Are (Platinum Edition)                          | [🔗](https://open.spotify.com/album/3ga4adzUpLaS2LDcoqfs2r) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394" alt="" width="50" /> | Sweetener                                               | [🔗](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) |
@@ -145,6 +146,9 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | SNEAKERS (English Ver.)                      | CHECKMATE                                               | [ITZY](../artists/itzy.md)                                 | [Republic Records](republic_records.md)                                                     |     | [🔗](https://open.spotify.com/track/4DM60RC0fVoHbVRtl4Fjdp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | WHAT I WANT                                  | CHECKMATE                                               | [ITZY](../artists/itzy.md)                                 | [Republic Records](republic_records.md)                                                     | 💚   | [🔗](https://open.spotify.com/track/28E5sYRuv2gpZPEdNAwMkE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f46afbaf0d7b1d701c7a6b65" alt="" width="50" /> | Boys Like You                                | Boys Like You                                           | [ITZY](../artists/itzy.md)                                 | [Republic Records](republic_records.md)                                                     |     | [🔗](https://open.spotify.com/track/34y2pV3RGFiCHSP12bNHVk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | Cheshire                                     | CHESHIRE                                                | [ITZY](../artists/itzy.md)                                 | [Republic Records](republic_records.md)                                                     | 💚   | [🔗](https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | Freaky                                       | CHESHIRE                                                | [ITZY](../artists/itzy.md)                                 | [Republic Records](republic_records.md)                                                     |     | [🔗](https://open.spotify.com/track/6VgVT2ZxtssMdzrbfW1R0d) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | Snowy                                        | CHESHIRE                                                | [ITZY](../artists/itzy.md)                                 | [Republic Records](republic_records.md)                                                     | 💚   | [🔗](https://open.spotify.com/track/1i0NAz5emJMbRWSkADMsL7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739900b995cd1a81c35c574ab0" alt="" width="50" /> | Price Tag                                    | Who You Are (Platinum Edition)                          | Jessie J, B.o.B                                            | [Lava Music/Republic Records](republic_records.md)                                          | 💚   | [🔗](https://open.spotify.com/track/5mvKuE9Lf9ARVXVXA32kK9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739900b995cd1a81c35c574ab0" alt="" width="50" /> | Who You Are                                  | Who You Are (Platinum Edition)                          | Jessie J                                                   | [Lava Music/Republic Records](republic_records.md)                                          | 💚   | [🔗](https://open.spotify.com/track/65lIGCfW59BxcEJnnIOCq3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6a335d613d151c626895a83" alt="" width="50" /> | Despacito - Remix                            | Despacito Feat. Justin Bieber (Remix)                   | Luis Fonsi, Daddy Yankee, Justin Bieber                    | [Republic/UMLE](republic_records.md)                                                        | 💚   | [🔗](https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2) |

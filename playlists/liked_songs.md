@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1354 songs](liked_songs_tracks.md)
+[1357 songs](liked_songs_tracks.md)
 
 ## Top Artists
 
@@ -17,7 +17,7 @@
 |                 37 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | [Taylor Swift](../artists/taylor_swift.md)                     | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 |                 30 | <img src="https://i.scdn.co/image/ab6761610000e5ebd84fd6ae9ccfc6206ea6711e" alt="" width="50" /> | [TWICE](../artists/twice.md)                                   | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 |                 27 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)                           | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
-|                 23 | <img src="https://i.scdn.co/image/ab6761610000e5eb3e64e13dfb4fc3dc1a873b00" alt="" width="50" /> | [ITZY](../artists/itzy.md)                                     | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
+|                 25 | <img src="https://i.scdn.co/image/ab6761610000e5eb3e64e13dfb4fc3dc1a873b00" alt="" width="50" /> | [ITZY](../artists/itzy.md)                                     | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                 22 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" alt="" width="50" /> | [The Beatles](../artists/the_beatles.md)                       | [🔗](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) |
 |                 22 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | [IU](../artists/iu.md)                                         | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 |                 22 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)                             | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
@@ -86,7 +86,7 @@
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d998e7541724c918777b8ca" alt="" width="50" /> | League of Legends                                              | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | Michael Jackson                                                | [🔗](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="" width="50" /> | EVERGLOW                                                       | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
-|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebfd7fef26820bce07d68bfea6" alt="" width="50" /> | TREASURE                                                       | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
+|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb5045a0e0d423ce29d6b14ebd" alt="" width="50" /> | TREASURE                                                       | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb6d5b2328e36e54bdbb0a7a96" alt="" width="50" /> | Lindsey Stirling                                               | [🔗](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) |
 |                  5 | <img src="https://i.scdn.co/image/7b2813bb4afb38f0dab9470a514091fc4ef6b1a1" alt="" width="50" /> | Rilo Kiley                                                     | [🔗](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbca2e91d07d2c53e6610570" alt="" width="50" /> | Seori                                                          | [🔗](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) |
@@ -243,7 +243,7 @@
 |   Number of Tracks | Label                                                                                                               |
 |-------------------:|:--------------------------------------------------------------------------------------------------------------------|
 |                148 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
-|                 69 | [Republic Records](../labels/republic_records.md)                                                                   |
+|                 71 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 61 | [Epic](../labels/epic.md)                                                                                           |
 |                 55 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
 |                 54 | [Columbia](../labels/columbia.md)                                                                                   |
@@ -286,6 +286,7 @@
 |                  8 | [88rising Music](../labels/88rising_music.md)                                                                       |
 |                  7 | [WM Korea](../labels/wm_korea.md)                                                                                   |
 |                  7 | [MOTOWN](../labels/motown.md)                                                                                       |
+|                  7 | [FNC ENTERTAINMENT](../labels/fnc_entertainment.md)                                                                 |
 |                  7 | [Def Jam Recordings](../labels/def_jam_recordings.md)                                                               |
 |                  7 | [Cooking Vinyl Limited](../labels/cooking_vinyl_limited.md)                                                         |
 |                  6 | [Virgin Records](../labels/virgin_records.md)                                                                       |
@@ -294,7 +295,6 @@
 |                  6 | [Legacy](../labels/legacy.md)                                                                                       |
 |                  6 | [KQ Entertainment](../labels/kq_entertainment.md)                                                                   |
 |                  6 | [Genie Music Corporation;Stone Music Entertainment](../labels/genie_music_corporation_stone_music_entertainment.md) |
-|                  6 | [FNC ENTERTAINMENT](../labels/fnc_entertainment.md)                                                                 |
 |                  6 | [EDAM Entertainment](../labels/edam_entertainment.md)                                                               |
 |                  6 | [DREAMCATCHER COMPANY](../labels/dreamcatcher_company.md)                                                           |
 |                  6 | [Bad Boy](../labels/bad_boy.md)                                                                                     |
@@ -354,11 +354,11 @@
 | Anaconda                        | A Case of You               |
 | #Twenty                         | Nature Boy                  |
 | FACE                            | Lights                      |
-| SNEAKERS                        | You Take My Breath Away     |
-| WAP (feat. Megan Thee Stallion) | Born To Die                 |
+| WAP (feat. Megan Thee Stallion) | You Take My Breath Away     |
+| SNEAKERS                        | Born To Die                 |
 | Billie Jean                     | The End (Interlude)         |
-| Another One Bites The Dust      | Amore                       |
-| Baby Got Back                   | Bridge Over Troubled Water  |
+| Baby Got Back                   | Amore                       |
+| Another One Bites The Dust      | Bridge Over Troubled Water  |
 | Fidelity                        | Pyramid Song                |
 
 | 10 most Energetic tracks   | 10 least Energetic tracks   |
@@ -366,13 +366,13 @@
 | チョコレイト・ディスコ                | Blackbird - Remastered 2009 |
 | When Doves Cry             | xanny                       |
 | Shanti Shanti Shanti       | when the party's over       |
-| RING X RING                | The Dawntreader             |
-| Rondo of Nightmare         | Used                        |
-| Headbangeeeeerrrrr!!!!!    | Nature Boy                  |
-| Gimme Chocolate!!          | And So It Goes              |
+| Rondo of Nightmare         | The Dawntreader             |
+| RING X RING                | Used                        |
+| Gimme Chocolate!!          | Nature Boy                  |
+| Headbangeeeeerrrrr!!!!!    | And So It Goes              |
 | Hit That Drum              | Run to You                  |
-| KARATE                     | Mad World                   |
-| だいじょばない                    | Kaleidoscope Heart          |
+| だいじょばない                    | Mad World                   |
+| KARATE                     | Kaleidoscope Heart          |
 
 | 10 most Speechy tracks           | 10 least Speechy tracks   |
 |:---------------------------------|:--------------------------|
@@ -380,8 +380,8 @@
 | I Don't Need You                 | Set Fire to the Rain      |
 | MANIAC                           | I'd Rather Go Blind       |
 | Mambo No. 5 (a Little Bit of...) | Old Fashioned             |
-| Vigilante Shit                   | All Too Well              |
-| Free Fall                        | The Scientist             |
+| Vigilante Shit                   | The Scientist             |
+| Free Fall                        | All Too Well              |
 | WAP (feat. Megan Thee Stallion)  | Breakeven                 |
 | bad guy                          | Satellite Call            |
 | Ice Cream (with Selena Gomez)    | 情非得已                      |
@@ -402,16 +402,16 @@
 
 | 10 most Instrumental tracks              | 10 least Instrumental tracks                |
 |:-----------------------------------------|:--------------------------------------------|
-| Digital Love                             | Hello, Sunset                               |
-| だいじょばない                                  | Brown Eyed Girl                             |
-| Street Spirit (Fade Out)                 | California Gurls                            |
-| everything i wanted                      | Something                                   |
-| Instant Crush (feat. Julian Casablancas) | I Love You 3000 II                          |
-| Smooth Criminal - 2012 Remaster          | THRILL RIDE                                 |
-| Pyramid Song                             | Locked out of Heaven                        |
-| Shanti Shanti Shanti                     | If I Ever Fall In Love (feat. Jason Derulo) |
-| You Take My Breath Away                  | Scream                                      |
-| The Night We Met                         | HANN (Alone)                                |
+| Digital Love                             | Brown Eyed Girl                             |
+| だいじょばない                                  | California Gurls                            |
+| Street Spirit (Fade Out)                 | Something                                   |
+| everything i wanted                      | I Love You 3000 II                          |
+| Instant Crush (feat. Julian Casablancas) | THRILL RIDE                                 |
+| Smooth Criminal - 2012 Remaster          | Locked out of Heaven                        |
+| Pyramid Song                             | If I Ever Fall In Love (feat. Jason Derulo) |
+| Shanti Shanti Shanti                     | Scream                                      |
+| You Take My Breath Away                  | SAY NO MORE                                 |
+| The Night We Met                         | Old Fashioned                               |
 
 | 10 most Live tracks            | 10 least Live tracks                  |
 |:-------------------------------|:--------------------------------------|
@@ -420,8 +420,8 @@
 | XS                             | YEPPI YEPPI                           |
 | Piano Man                      | memeM                                 |
 | You Better Run                 | That That (prod. & feat. SUGA of BTS) |
-| Red Lipstick (feat. Yoonmirae) | Finesse                               |
-| MAKE U DANCE (feat. EUNHA)     | SNEAKERS                              |
+| MAKE U DANCE (feat. EUNHA)     | Finesse                               |
+| Red Lipstick (feat. Yoonmirae) | SNEAKERS                              |
 | Sticker                        | CASE 143                              |
 | You Oughta Know                | Finesse - Remix; feat. Cardi B        |
 | 행복 (Happiness)                 | Ain't It Fun                          |
@@ -432,9 +432,9 @@
 | Big Yellow Taxi                 | Falling                 |
 | Like a Virgin                   | Lose Yourself           |
 | There's Nothing Holdin' Me Back | Crystallize             |
-| Devil                           | Once Upon Another Time  |
-| Twenty-three                    | xanny                   |
+| Twenty-three                    | Once Upon Another Time  |
+| Devil                           | xanny                   |
 | Pepe                            | No Time To Die          |
 | SexyBack (feat. Timbaland)      | Delicate                |
 | Mercy                           | What Sarah Said         |
-| I'm a Slave 4 U                 | You Take My Breath Away |
+| Miniskirt                       | You Take My Breath Away |

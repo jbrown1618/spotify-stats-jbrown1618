@@ -3,21 +3,22 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27312626c137c7684fe1662a4f3ab67616d0000b2732ced1760b648799e697e8e02ab67616d0000b273ac815bdd584468a7aa0216e1ab67616d0000b273be123bb6b40736bf093870bd" alt="Check Out Later" width="100" />
 
-[19 songs](check_out_later_tracks.md)
+[21 songs](check_out_later_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 14 artists](../images/playlists/check_out_later/artists.png)
+![Bar chart of top 15 artists](../images/playlists/check_out_later/artists.png)
 
 
 <details>
-<summary>See all 14 artists</summary>
+<summary>See all 15 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                     | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------|:------------------------------------------------------------|
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | [Taylor Swift](../artists/taylor_swift.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eba3c1fca063ed673aed61c885" alt="" width="50" /> | YOUHA                                      | [🔗](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) |
 |                  2 | <img src="https://i.scdn.co/image/731f5f71de27c36300d2cf71a7f9cd7f389d0bf7" alt="" width="50" /> | Neutral Milk Hotel                         | [🔗](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb3e64e13dfb4fc3dc1a873b00" alt="" width="50" /> | [ITZY](../artists/itzy.md)                 | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb65b7b48eeac1b113c75f2295" alt="" width="50" /> | YB                                         | [🔗](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2c56b558b75841a77d7ea09" alt="" width="50" /> | Nucksal                                    | [🔗](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5b1a291b0a6a689091d54d8b" alt="" width="50" /> | IVE                                        | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
@@ -37,16 +38,17 @@
 
 ## Top Albums
 
-![Bar chart of top 15 albums in](../images/playlists/check_out_later/albums.png)
+![Bar chart of top 16 albums in](../images/playlists/check_out_later/albums.png)
 
 
 <details>
-<summary>See all 15 albums</summary>
+<summary>See all 16 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                   | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------|:-----------------------------------------------------------|
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Midnights                                               | [🔗](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273589ce9a911c6e65b1f80c558" alt="" width="50" /> | In the Aeroplane Over the Sea                           | [🔗](https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | CHESHIRE                                                | [🔗](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27329778e54aa437b78f3520b0e" alt="" width="50" /> | 몽중몽; Dream In A Dream - SM STATION                      | [🔗](https://open.spotify.com/album/0uPf4jcvMQow0FNkIOxHZF) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27357a6f5928952c277c4407f98" alt="" width="50" /> | love you more,                                          | [🔗](https://open.spotify.com/album/3g2OiEeQKfggUe6ViYeLSC) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27312626c137c7684fe1662a4f3" alt="" width="50" /> | Winter Special (feat. DinDin)                           | [🔗](https://open.spotify.com/album/5uHVoQ3iICRMjiWws80QhA) |
@@ -66,17 +68,18 @@
 
 ## Top Record Labels
 
-![Bar chart of top 12 record labels](../images/playlists/check_out_later/labels.png)
+![Bar chart of top 13 record labels](../images/playlists/check_out_later/labels.png)
 
 
 <details>
-<summary>See all 12 labels</summary>
+<summary>See all 13 labels</summary>
 
 |   Number of Tracks | Label                                                               |
 |-------------------:|:--------------------------------------------------------------------|
 |                  4 | [Universal Music LLC](../labels/universal_music_llc.md)             |
 |                  4 | [Taylor Swift](../labels/taylor_swift.md)                           |
 |                  2 | [SM Entertainment](../labels/sm_entertainment.md)                   |
+|                  2 | [Republic Records](../labels/republic_records.md)                   |
 |                  2 | [Merge Records](../labels/merge_records.md)                         |
 |                  1 | [Virgin Records](../labels/virgin_records.md)                       |
 |                  1 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
@@ -94,68 +97,68 @@
 
 | 10 most Danceable tracks   | 10 least Danceable tracks                     |
 |:---------------------------|:----------------------------------------------|
-| Cherry On Top              | 몽중몽; Dream In A Dream                         |
-| Be There (feat. DinDin)    | A Flying Butterfly                            |
-| Queen of Hearts            | ISLAND                                        |
-| Why Don’t You Know         | Reset                                         |
-| Last Dance                 | SILENCE                                       |
-| Mastermind                 | 楓                                             |
-| Wolf                       | King of Carrot Flowers Pt. 1                  |
-| Karma                      | Labyrinth                                     |
-| Maroon                     | Bullet With Butterfly Wings - Remastered 2012 |
-| 몽중몽; Dream In A Dream      | Holland, 1945                                 |
+| Freaky                     | 몽중몽; Dream In A Dream                         |
+| Cherry On Top              | A Flying Butterfly                            |
+| Be There (feat. DinDin)    | ISLAND                                        |
+| Queen of Hearts            | Reset                                         |
+| Snowy                      | SILENCE                                       |
+| Why Don’t You Know         | 楓                                             |
+| Last Dance                 | King of Carrot Flowers Pt. 1                  |
+| Mastermind                 | Labyrinth                                     |
+| Wolf                       | Bullet With Butterfly Wings - Remastered 2012 |
+| Karma                      | Holland, 1945                                 |
 
 | 10 most Energetic tracks                      | 10 least Energetic tracks    |
 |:----------------------------------------------|:-----------------------------|
-| Why Don’t You Know                            | A Flying Butterfly           |
-| Wolf                                          | SILENCE                      |
+| Why Don’t You Know                            | SILENCE                      |
+| Wolf                                          | Freaky                       |
 | Holland, 1945                                 | Last Dance                   |
-| ISLAND                                        | Karma                        |
-| Be There (feat. DinDin)                       | Reset                        |
-| 몽중몽; Dream In A Dream                         | King of Carrot Flowers Pt. 1 |
-| Queen of Hearts                               | 楓                            |
-| Bullet With Butterfly Wings - Remastered 2012 | Maroon                       |
-| Cherry On Top                                 | Mastermind                   |
-| A Flying Butterfly                            | Labyrinth                    |
+| Snowy                                         | Karma                        |
+| ISLAND                                        | Reset                        |
+| Be There (feat. DinDin)                       | King of Carrot Flowers Pt. 1 |
+| 몽중몽; Dream In A Dream                         | 楓                            |
+| Queen of Hearts                               | Maroon                       |
+| Bullet With Butterfly Wings - Remastered 2012 | Mastermind                   |
+| Cherry On Top                                 | Labyrinth                    |
 
 | 10 most Speechy tracks                        | 10 least Speechy tracks      |
 |:----------------------------------------------|:-----------------------------|
-| Be There (feat. DinDin)                       | Labyrinth                    |
-| Mastermind                                    | Cherry On Top                |
-| Why Don’t You Know                            | Last Dance                   |
+| Be There (feat. DinDin)                       | Cherry On Top                |
+| Mastermind                                    | Last Dance                   |
+| Why Don’t You Know                            | Snowy                        |
 | Wolf                                          | A Flying Butterfly           |
-| Queen of Hearts                               | Reset                        |
-| Karma                                         | King of Carrot Flowers Pt. 1 |
-| Holland, 1945                                 | ISLAND                       |
-| Bullet With Butterfly Wings - Remastered 2012 | 몽중몽; Dream In A Dream        |
-| Maroon                                        | SILENCE                      |
-| Labyrinth                                     | 楓                            |
+| Freaky                                        | Reset                        |
+| Queen of Hearts                               | King of Carrot Flowers Pt. 1 |
+| Karma                                         | ISLAND                       |
+| Holland, 1945                                 | 몽중몽; Dream In A Dream        |
+| Bullet With Butterfly Wings - Remastered 2012 | SILENCE                      |
+| Maroon                                        | 楓                            |
 
-| 10 most Acoustic tracks      | 10 least Acoustic tracks                      |
-|:-----------------------------|:----------------------------------------------|
-| Labyrinth                    | King of Carrot Flowers Pt. 1                  |
-| 楓                            | Wolf                                          |
-| Be There (feat. DinDin)      | Karma                                         |
-| Mastermind                   | Maroon                                        |
-| Why Don’t You Know           | Holland, 1945                                 |
-| ISLAND                       | 몽중몽; Dream In A Dream                         |
-| Last Dance                   | A Flying Butterfly                            |
-| Reset                        | Queen of Hearts                               |
-| Cherry On Top                | SILENCE                                       |
-| King of Carrot Flowers Pt. 1 | Bullet With Butterfly Wings - Remastered 2012 |
+| 10 most Acoustic tracks   | 10 least Acoustic tracks                      |
+|:--------------------------|:----------------------------------------------|
+| Labyrinth                 | King of Carrot Flowers Pt. 1                  |
+| 楓                         | Wolf                                          |
+| Be There (feat. DinDin)   | Karma                                         |
+| Mastermind                | Maroon                                        |
+| Freaky                    | Holland, 1945                                 |
+| Why Don’t You Know        | 몽중몽; Dream In A Dream                         |
+| ISLAND                    | A Flying Butterfly                            |
+| Last Dance                | Queen of Hearts                               |
+| Reset                     | SILENCE                                       |
+| Cherry On Top             | Bullet With Butterfly Wings - Remastered 2012 |
 
 | 10 most Instrumental tracks                   | 10 least Instrumental tracks   |
 |:----------------------------------------------|:-------------------------------|
-| King of Carrot Flowers Pt. 1                  | Maroon                         |
-| Bullet With Butterfly Wings - Remastered 2012 | Reset                          |
-| Labyrinth                                     | Karma                          |
-| 몽중몽; Dream In A Dream                         | Be There (feat. DinDin)        |
-| Mastermind                                    | ISLAND                         |
-| Holland, 1945                                 | Why Don’t You Know             |
-| Queen of Hearts                               | A Flying Butterfly             |
-| SILENCE                                       | 楓                              |
-| Cherry On Top                                 | Last Dance                     |
-| Maroon                                        | Wolf                           |
+| King of Carrot Flowers Pt. 1                  | Freaky                         |
+| Bullet With Butterfly Wings - Remastered 2012 | Last Dance                     |
+| Labyrinth                                     | 楓                              |
+| 몽중몽; Dream In A Dream                         | Wolf                           |
+| Mastermind                                    | Why Don’t You Know             |
+| Holland, 1945                                 | ISLAND                         |
+| Queen of Hearts                               | Be There (feat. DinDin)        |
+| SILENCE                                       | Reset                          |
+| Cherry On Top                                 | Karma                          |
+| Maroon                                        | Snowy                          |
 
 | 10 most Live tracks          | 10 least Live tracks                          |
 |:-----------------------------|:----------------------------------------------|
@@ -165,20 +168,20 @@
 | Why Don’t You Know           | Last Dance                                    |
 | Cherry On Top                | A Flying Butterfly                            |
 | 몽중몽; Dream In A Dream        | Maroon                                        |
-| Wolf                         | SILENCE                                       |
-| ISLAND                       | Be There (feat. DinDin)                       |
-| 楓                            | Mastermind                                    |
-| Queen of Hearts              | Bullet With Butterfly Wings - Remastered 2012 |
+| Snowy                        | SILENCE                                       |
+| Wolf                         | Be There (feat. DinDin)                       |
+| Freaky                       | Mastermind                                    |
+| ISLAND                       | Bullet With Butterfly Wings - Remastered 2012 |
 
 | 10 most Happy tracks                          | 10 least Happy tracks        |
 |:----------------------------------------------|:-----------------------------|
-| Queen of Hearts                               | Reset                        |
-| Be There (feat. DinDin)                       | 몽중몽; Dream In A Dream        |
-| Why Don’t You Know                            | King of Carrot Flowers Pt. 1 |
-| Last Dance                                    | ISLAND                       |
-| Cherry On Top                                 | A Flying Butterfly           |
-| Holland, 1945                                 | 楓                            |
-| SILENCE                                       | Mastermind                   |
-| Bullet With Butterfly Wings - Remastered 2012 | Labyrinth                    |
-| Wolf                                          | Karma                        |
-| Reset                                         | Maroon                       |
+| Snowy                                         | Reset                        |
+| Queen of Hearts                               | 몽중몽; Dream In A Dream        |
+| Be There (feat. DinDin)                       | King of Carrot Flowers Pt. 1 |
+| Freaky                                        | ISLAND                       |
+| Why Don’t You Know                            | A Flying Butterfly           |
+| Last Dance                                    | 楓                            |
+| Cherry On Top                                 | Mastermind                   |
+| SILENCE                                       | Labyrinth                    |
+| Holland, 1945                                 | Karma                        |
+| Bullet With Butterfly Wings - Remastered 2012 | Maroon                       |

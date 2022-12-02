@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b273714e56679ab196354e2e443eab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738c4a282e84a53c1c8acf129a" alt="K-Pop Favorites" width="100" />
 
-[199 songs](k_pop_favorites_tracks.md)
+[200 songs](k_pop_favorites_tracks.md)
 
 ## Top Artists
 
@@ -19,11 +19,11 @@
 |                 12 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)                 | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)                     | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | [IU](../artists/iu.md)                               | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
-|                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb916392fe8c66d0c993657b6d" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md)                     | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
+|                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb3e64e13dfb4fc3dc1a873b00" alt="" width="50" /> | [ITZY](../artists/itzy.md)                           | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebd84fd6ae9ccfc6206ea6711e" alt="" width="50" /> | [TWICE](../artists/twice.md)                         | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../artists/aespa.md)                         | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
+|                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb916392fe8c66d0c993657b6d" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md)                     | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md)               | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
-|                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb3e64e13dfb4fc3dc1a873b00" alt="" width="50" /> | [ITZY](../artists/itzy.md)                           | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)                   | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../artists/leehi.md)                         | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | [CHUNG HA](../artists/chung_ha.md)                   | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
@@ -79,7 +79,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a80abb55f089d80528d24fc" alt="" width="50" /> | CHANGMO                                              | [🔗](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2d167f018561742f26a0997" alt="" width="50" /> | ROSÉ                                                 | [🔗](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb515e5754d89e4df8123e3f9f" alt="" width="50" /> | HYO                                                  | [🔗](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfd7fef26820bce07d68bfea6" alt="" width="50" /> | TREASURE                                             | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5045a0e0d423ce29d6b14ebd" alt="" width="50" /> | TREASURE                                             | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7af892ba79f611277614a0f2" alt="" width="50" /> | P1Harmony                                            | [🔗](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb30a517d1b703c3eabdac2855" alt="" width="50" /> | Wonder Girls                                         | [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5923c0ca32a3cf3a81b34728" alt="" width="50" /> | G-DRAGON                                             | [🔗](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) |
@@ -136,6 +136,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27366ff63bc084fb412aa2dddd3" alt="" width="50" /> | Hello - Special Album                                                   | [🔗](https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Girls - The 2nd Mini Album                                              | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734a8e5eaab8b02db02e487c27" alt="" width="50" /> | Devil - The 2nd Mini Album                                              | [🔗](https://open.spotify.com/album/6bG2rY8NzT7dIzUNADDNCR) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | CHESHIRE                                                                | [🔗](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | BORDER : CARNIVAL                                                       | [🔗](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c07b020417770f3385448f" alt="" width="50" /> | 回:Walpurgis Night                                                       | [🔗](https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="" width="50" /> | ‘The ReVe Festival’ Day 1                                               | [🔗](https://open.spotify.com/album/2nLEiP268mSFZHW5dajM4R) |
@@ -152,7 +153,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e4915763c3c7f7a05cc93885" alt="" width="50" /> | Why - The 2nd Mini Album                                                | [🔗](https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738612b3a74fefaf72ddc92d08" alt="" width="50" /> | White Wind                                                              | [🔗](https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e2a4f8bcc74020cd4b01f647" alt="" width="50" /> | What Is Love                                                            | [🔗](https://open.spotify.com/album/5o5cJ6yZmcyy4y4hK0J6de) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27354d483dff87402bfe717f738" alt="" width="50" /> | What Do I Call You - The 4th Mini Album                                 | [🔗](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27309610687bcd1b3dc95d5d436" alt="" width="50" /> | We Boom - The 3rd Mini Album                                            | [🔗](https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732c0252c4e4a988f024e4d262" alt="" width="50" /> | WINE                                                                    | [🔗](https://open.spotify.com/album/26adxLsliyYcCfVTF6xA75) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273da0376db6b1c5562ab8f5b29" alt="" width="50" /> | WE:TH                                                                   | [🔗](https://open.spotify.com/album/1ASYbBYBwV6Rcfc2ycqmlK) |
@@ -207,7 +207,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="" width="50" /> | Modern Times                                                            | [🔗](https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f0d00e054e9a9cb2e86cdf72" alt="" width="50" /> | Merry & Happy                                                           | [🔗](https://open.spotify.com/album/0R7pj4tnmcoUulrZGPo6nw) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a84d6d77bb01c3bd737c47d7" alt="" width="50" /> | María                                                                   | [🔗](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733d6f09363c27468820f299ae" alt="" width="50" /> | MOTH                                                                    | [🔗](https://open.spotify.com/album/7JdpeV87hczflCV8GXF3yV) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a93c207b94cbb802b1efefa1" alt="" width="50" /> | MOTH                                                                    | [🔗](https://open.spotify.com/album/7JdpeV87hczflCV8GXF3yV) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27325ca38eeeb374883d7652ff0" alt="" width="50" /> | MIROTIC - The 4th Album                                                 | [🔗](https://open.spotify.com/album/51Wmrzs9O87YlKp2vqDwln) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | MAXIDENT                                                                | [🔗](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738afcb7dd182cffe8d53b781e" alt="" width="50" /> | MAP OF THE SOUL : 7                                                     | [🔗](https://open.spotify.com/album/6mJZTV8lCqnwftYZa94bXS) |
@@ -231,9 +231,9 @@
 
 |   Number of Tracks | Label                                                                                   |
 |-------------------:|:----------------------------------------------------------------------------------------|
-|                 62 | [SM Entertainment](../labels/sm_entertainment.md)                                       |
+|                 61 | [SM Entertainment](../labels/sm_entertainment.md)                                       |
 |                 19 | [YG Entertainment](../labels/yg_entertainment.md)                                       |
-|                 13 | [Republic Records](../labels/republic_records.md)                                       |
+|                 15 | [Republic Records](../labels/republic_records.md)                                       |
 |                 10 | [Interscope](../labels/interscope.md)                                                   |
 |                  9 | [BELIFT LAB](../labels/belift_lab.md)                                                   |
 |                  8 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                     |
@@ -313,8 +313,8 @@
 | Feel My Rhythm                        | For You                     |
 | The Boys                              | HANN (Alone in winter)      |
 | Ice Cream Cake                        | My sea                      |
-| Sparkling Night                       | Gone                        |
-| Hype Boy                              | ONLY                        |
+| Hype Boy                              | Gone                        |
+| Sparkling Night                       | ONLY                        |
 
 | 10 most Speechy tracks   | 10 least Speechy tracks   |
 |:-------------------------|:--------------------------|
@@ -324,8 +324,8 @@
 | Sparkling Night          | Phase Me                  |
 | Sticker                  | Animal Farm               |
 | Crazy                    | Starlight                 |
-| Back Door                | Je T'aime                 |
-| I GOT A BOY              | HOLO                      |
+| I GOT A BOY              | Je T'aime                 |
+| Back Door                | HOLO                      |
 | Kill This Love           | Something                 |
 | Thunderous               | Spark                     |
 
@@ -344,15 +344,15 @@
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks     |
 |:------------------------------|:---------------------------------|
-| YEPPI YEPPI                   | Black Swan                       |
-| I Am The Best                 | Hello                            |
-| FEARLESS                      | Bicycle                          |
-| Lion Heart                    | WINE (Feat.Changmo) (Prod. SUGA) |
-| Peek-A-Boo                    | When This Rain Stops             |
-| Kill This Love                | Why So Lonely                    |
-| Why Not?                      | LA DI DA                         |
-| Black Mamba                   | SAY NO MORE                      |
-| Stay Tonight                  | THRILL RIDE                      |
+| YEPPI YEPPI                   | Hello                            |
+| I Am The Best                 | Bicycle                          |
+| FEARLESS                      | WINE (Feat.Changmo) (Prod. SUGA) |
+| Lion Heart                    | Upper Side Dreamin’              |
+| Peek-A-Boo                    | Why So Lonely                    |
+| Kill This Love                | When This Rain Stops             |
+| Why Not?                      | SAY NO MORE                      |
+| Black Mamba                   | THRILL RIDE                      |
+| Stay Tonight                  | Something                        |
 | Girls                         | Shut Down                        |
 
 | 10 most Live tracks             | 10 least Live tracks        |
