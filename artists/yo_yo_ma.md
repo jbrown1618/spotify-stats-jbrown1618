@@ -20,6 +20,12 @@
 |-------------------:|:----------------------------------------------|
 |                 36 | [Sony Classical](../labels/sony_classical.md) |
 
+## Genres
+
+- chamber ensemble
+- classical cello
+- classical performance
+
 ## Tracks
 
 | Art                                                                                              | Track                                                           | Album                                         | Artists                                                                    | Label                                         | 💚   | 🔗                                                          |

@@ -24,6 +24,13 @@
 |                 24 | [Naxos](../labels/naxos.md)                                   |
 |                 18 | [Decca Music Group Ltd.](../labels/decca_music_group_ltd_.md) |
 
+## Genres
+
+- [classical](../genres/classical.md)
+- [post-romantic era](../genres/post_romantic_era.md)
+- [russian romanticism](../genres/russian_romanticism.md)
+- [ukrainian classical](../genres/ukrainian_classical.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                                                          | Album                                      | Artists                                                                                                                                                                | Label                                                         | 💚   | 🔗                                                          |

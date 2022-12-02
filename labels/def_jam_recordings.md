@@ -28,7 +28,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 6 albums in](../images/labels/def_jam_recordings/albums.png)
+![Bar chart of top 6 albums](../images/labels/def_jam_recordings/albums.png)
 
 
 <details>
@@ -42,6 +42,25 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="" width="50" /> | Unapologetic (Deluxe)        | [🔗](https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="" width="50" /> | Loud                         | [🔗](https://open.spotify.com/album/6UHhmTLl9T1scRYLmpHcDX) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27383b22beb73e2014b20159685" alt="" width="50" /> | Lonely (with benny blanco)   | [🔗](https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 5 genres](../images/labels/def_jam_recordings/genres.png)
+
+
+<details>
+<summary>See all 5 genres</summary>
+
+|   Number of Tracks | Genre                               |
+|-------------------:|:------------------------------------|
+|                 10 | [pop](../genres/pop.md)             |
+|                  9 | urban contemporary                  |
+|                  9 | [dance pop](../genres/dance_pop.md) |
+|                  9 | barbadian pop                       |
+|                  1 | canadian pop                        |
 
 </details>
 

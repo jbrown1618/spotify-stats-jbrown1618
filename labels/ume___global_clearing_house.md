@@ -58,7 +58,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 3 albums in](../images/labels/ume___global_clearing_house/albums.png)
+![Bar chart of top 3 albums](../images/labels/ume___global_clearing_house/albums.png)
 
 
 <details>
@@ -69,6 +69,27 @@ Appears as:
 |                181 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | Karajan - Mozart   | [🔗](https://open.spotify.com/album/1HSJhsMIW2EDD4YSSkbc9e) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27341efd39c828bd0dacb762997" alt="" width="50" /> | Tik Tock Hits 2020 | [🔗](https://open.spotify.com/album/4Da9F5PAFILkjmNmm81NZ3) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733f03db3f454ff7b2c3b4fe62" alt="" width="50" /> | Romance            | [🔗](https://open.spotify.com/album/5MuNxtOyex8o77Qdjaqeng) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 7 genres](../images/labels/ume___global_clearing_house/genres.png)
+
+
+<details>
+<summary>See all 7 genres</summary>
+
+|   Number of Tracks | Genre                                           |
+|-------------------:|:------------------------------------------------|
+|                181 | [classical era](../genres/classical_era.md)     |
+|                181 | [classical](../genres/classical.md)             |
+|                  1 | vocal jazz                                      |
+|                  1 | korean old school hip hop                       |
+|                  1 | k-rap                                           |
+|                  1 | [k-pop](../genres/k_pop.md)                     |
+|                  1 | [adult standards](../genres/adult_standards.md) |
 
 </details>
 

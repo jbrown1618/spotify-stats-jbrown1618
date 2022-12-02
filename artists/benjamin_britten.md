@@ -20,6 +20,12 @@
 |-------------------:|:--------------------------------------------------------------|
 |                 19 | [Decca Music Group Ltd.](../labels/decca_music_group_ltd_.md) |
 
+## Genres
+
+- british modern classical
+- [classical](../genres/classical.md)
+- [neoclassicism](../genres/neoclassicism.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                  | Album                                  | Artists                                                                                                                                               | Label                                                         | 💚   | 🔗                                                          |

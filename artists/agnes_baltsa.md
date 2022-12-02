@@ -24,6 +24,12 @@
 |                 25 | [UME - Global Clearing House](../labels/ume___global_clearing_house.md) |
 |                  1 | [Deutsche Grammophon (DG)](../labels/deutsche_grammophon__dg_.md)       |
 
+## Genres
+
+- classical mezzo-soprano
+- classical performance
+- opera
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                                                         | Album                              | Artists                                                                                                                                                                                                                                                                                                                                                                                                                                        | Label                                                                   | 💚   | 🔗                                                          |

@@ -31,6 +31,11 @@
 |                 13 | [SM Entertainment](../labels/sm_entertainment.md)                                       |
 |                  1 | [Universal Music Group International](../labels/universal_music_group_international.md) |
 
+## Genres
+
+- [k-pop](../genres/k_pop.md)
+- [k-pop girl group](../genres/k_pop_girl_group.md)
+
 ## Tracks
 
 | Art                                                                                              | Track          | Album                                   | Artists                                   | Label                                             | 💚   | 🔗                                                          |

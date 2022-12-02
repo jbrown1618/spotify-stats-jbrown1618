@@ -9,6 +9,8 @@
 
 ![Bar chart of top 22 artists](../images/playlists/hip_hop/artists.png)
 
+![Comparison of Artist](../images/playlists/hip_hop/artists_comparison.png)
+
 
 <details>
 <summary>See all 22 artists</summary>
@@ -41,11 +43,9 @@
 </details>
 
 
-![Comparison of Artist](../images/hip_hop/artists_comparison.png)
-
 ## Top Albums
 
-![Bar chart of top 23 albums in](../images/playlists/hip_hop/albums.png)
+![Bar chart of top 23 albums](../images/playlists/hip_hop/albums.png)
 
 
 <details>
@@ -109,6 +109,44 @@
 |                  1 | [American Recordings Catalog P&D](../labels/american_recordings_catalog_p_d.md) |
 |                  1 | [A&M](../labels/a_m.md)                                                         |
 |                  1 | [3H](../labels/3h.md)                                                           |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 24 genres](../images/playlists/hip_hop/genres.png)
+
+
+<details>
+<summary>See all 24 genres</summary>
+
+|   Number of Tracks | Genre                                       |
+|-------------------:|:--------------------------------------------|
+|                 16 | rap                                         |
+|                 10 | [pop](../genres/pop.md)                     |
+|                  9 | [dance pop](../genres/dance_pop.md)         |
+|                  7 | hip hop                                     |
+|                  4 | pop rap                                     |
+|                  4 | hip pop                                     |
+|                  4 | detroit hip hop                             |
+|                  4 | chicago rap                                 |
+|                  3 | gangster rap                                |
+|                  2 | trap                                        |
+|                  2 | southern hip hop                            |
+|                  2 | queens hip hop                              |
+|                  2 | dirty south rap                             |
+|                  2 | atl hip hop                                 |
+|                  1 | west coast rap                              |
+|                  1 | viral rap                                   |
+|                  1 | [post-teen pop](../genres/post_teen_pop.md) |
+|                  1 | old school hip hop                          |
+|                  1 | old school atlanta hip hop                  |
+|                  1 | lgbtq+ hip hop                              |
+|                  1 | crunk                                       |
+|                  1 | conscious hip hop                           |
+|                  1 | australian hip hop                          |
+|                  1 | atlanta bass                                |
 
 </details>
 

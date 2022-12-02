@@ -41,6 +41,15 @@
 |                  1 | [Atlantic Records](../labels/atlantic_records.md)             |
 |                  1 | [ATO Records](../labels/ato_records.md)                       |
 
+## Genres
+
+- [acoustic pop](../genres/acoustic_pop.md)
+- [hollywood](../genres/hollywood.md)
+- [lilith](../genres/lilith.md)
+- [neo mellow](../genres/neo_mellow.md)
+- [pop](../genres/pop.md)
+- [pop rock](../genres/pop_rock.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                             | Album                                       | Artists                                                                                                    | Label                                                                | 💚   | 🔗                                                          |

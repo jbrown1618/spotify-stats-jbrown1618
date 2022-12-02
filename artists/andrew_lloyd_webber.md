@@ -26,6 +26,12 @@
 |                  1 | [Sony Music Labels Inc.](../labels/sony_music_labels_inc_.md)                   |
 |                  1 | [Sony Classical](../labels/sony_classical.md)                                   |
 
+## Genres
+
+- [broadway](../genres/broadway.md)
+- [show tunes](../genres/show_tunes.md)
+- west end
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                                | Album                                                         | Artists                                                                                                                                                                                                                                                                                                                      | Label                                                                                                        | 💚   | 🔗                                                          |

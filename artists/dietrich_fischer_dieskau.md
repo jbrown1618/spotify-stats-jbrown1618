@@ -20,6 +20,15 @@
 |-------------------:|:------------------------------------------------------------------|
 |                 19 | [Deutsche Grammophon (DG)](../labels/deutsche_grammophon__dg_.md) |
 
+## Genres
+
+- art song
+- choral
+- [classical](../genres/classical.md)
+- classical baritone
+- classical performance
+- opera
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                                              | Album                   | Artists                                                                                                                                                                                                                                                                                                                | Label                                                             | 💚   | 🔗                                                          |

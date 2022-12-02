@@ -9,6 +9,8 @@
 
 ![Bar chart of top 30 artists](../images/playlists/disney/artists.png)
 
+![Comparison of Artist](../images/playlists/disney/artists_comparison.png)
+
 
 <details>
 <summary>See all 74 artists</summary>
@@ -39,7 +41,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273e877bfdf40423678eda4be4a" alt="" width="50" /> | Richard White                        | [🔗](https://open.spotify.com/artist/0jWqALm6pl5CHj5N0eO68G) |
 |                  2 | <img src="nan" alt="" width="50" />                                                              | Ernie Sabella                        | [🔗](https://open.spotify.com/artist/0RH6EMxqfzCEB7QCSKQ4xr) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27327028def34ab4b09f54f76d4" alt="" width="50" /> | Nathan Lane                          | [🔗](https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273ce38706e9a44f5ba4f48b49b" alt="" width="50" /> | David Ogden Stiers                   | [🔗](https://open.spotify.com/artist/0N0dbr5s2y20PAo2cDAeVP) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2737e167cbf34879564304ed076" alt="" width="50" /> | David Ogden Stiers                   | [🔗](https://open.spotify.com/artist/0N0dbr5s2y20PAo2cDAeVP) |
 |                  1 | <img src="https://i.scdn.co/image/ab6772690000c46c4165ef3e7669f249706b8999" alt="" width="50" /> | Sally Dworsky                        | [🔗](https://open.spotify.com/artist/7vK6xoR5zT4DypEu0blUku) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732fa17f03805db6002c7715b3" alt="" width="50" /> | Verna Felton                         | [🔗](https://open.spotify.com/artist/7aU90hxXexP47nEeMee6xM) |
 |                  1 | <img src="nan" alt="" width="50" />                                                              | Billy Bletcher                       | [🔗](https://open.spotify.com/artist/7MCVs8C2nykvXVyTyrUoVd) |
@@ -93,11 +95,9 @@
 </details>
 
 
-![Comparison of Artist](../images/disney/artists_comparison.png)
-
 ## Top Albums
 
-![Bar chart of top 20 albums in](../images/playlists/disney/albums.png)
+![Bar chart of top 20 albums](../images/playlists/disney/albums.png)
 
 
 <details>
@@ -141,6 +141,50 @@
 |-------------------:|:--------------------------------------------------------|
 |                 49 | [Walt Disney Records](../labels/walt_disney_records.md) |
 |                  1 | [LML Music](../labels/lml_music.md)                     |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 30 genres](../images/playlists/disney/genres.png)
+
+
+<details>
+<summary>See all 30 genres</summary>
+
+|   Number of Tracks | Genre                                               |
+|-------------------:|:----------------------------------------------------|
+|                 35 | movie tunes                                         |
+|                 22 | [hollywood](../genres/hollywood.md)                 |
+|                 21 | disney                                              |
+|                 16 | [show tunes](../genres/show_tunes.md)               |
+|                  5 | tagalog worship                                     |
+|                  2 | [post-teen pop](../genres/post_teen_pop.md)         |
+|                  2 | [dance pop](../genres/dance_pop.md)                 |
+|                  2 | comedy                                              |
+|                  2 | [adult standards](../genres/adult_standards.md)     |
+|                  1 | vocal jazz                                          |
+|                  1 | swing                                               |
+|                  1 | soul                                                |
+|                  1 | [singer-songwriter](../genres/singer_songwriter.md) |
+|                  1 | roots rock                                          |
+|                  1 | piano blues                                         |
+|                  1 | new orleans blues                                   |
+|                  1 | lounge                                              |
+|                  1 | louisiana blues                                     |
+|                  1 | jump blues                                          |
+|                  1 | jazz blues                                          |
+|                  1 | funk                                                |
+|                  1 | folk rock                                           |
+|                  1 | folk                                                |
+|                  1 | electric blues                                      |
+|                  1 | country rock                                        |
+|                  1 | classic uk pop                                      |
+|                  1 | bubblegum pop                                       |
+|                  1 | [broadway](../genres/broadway.md)                   |
+|                  1 | blues rock                                          |
+|                  1 | blues                                               |
 
 </details>
 

@@ -6,6 +6,8 @@
 
 ![Bar chart of top 30 artists](../images/playlists/liked_songs/artists.png)
 
+![Comparison of Artist](../images/playlists/liked_songs/artists_comparison.png)
+
 
 <details>
 <summary>See top 100 artists</summary>
@@ -17,7 +19,7 @@
 |                 37 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | [Taylor Swift](../artists/taylor_swift.md)                     | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 |                 30 | <img src="https://i.scdn.co/image/ab6761610000e5ebd84fd6ae9ccfc6206ea6711e" alt="" width="50" /> | [TWICE](../artists/twice.md)                                   | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 |                 27 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)                           | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
-|                 25 | <img src="https://i.scdn.co/image/ab6761610000e5eb3e64e13dfb4fc3dc1a873b00" alt="" width="50" /> | [ITZY](../artists/itzy.md)                                     | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
+|                 25 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../artists/itzy.md)                                     | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                 22 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" alt="" width="50" /> | [The Beatles](../artists/the_beatles.md)                       | [🔗](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) |
 |                 22 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | [IU](../artists/iu.md)                                         | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 |                 22 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)                             | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
@@ -116,11 +118,9 @@
 </details>
 
 
-![Comparison of Artist](../images/liked_songs/artists_comparison.png)
-
 ## Top Albums
 
-![Bar chart of top 30 albums in](../images/playlists/liked_songs/albums.png)
+![Bar chart of top 30 albums](../images/playlists/liked_songs/albums.png)
 
 
 <details>
@@ -342,6 +342,120 @@
 |                  3 | [Canvasback](../labels/canvasback.md)                                                                               |
 |                  3 | [Brute](../labels/brute.md)                                                                                         |
 |                  3 | [Beaute](../labels/beaute.md)                                                                                       |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 30 genres](../images/playlists/liked_songs/genres.png)
+
+
+<details>
+<summary>See top 100 genres</summary>
+
+|   Number of Tracks | Genre                                               |
+|-------------------:|:----------------------------------------------------|
+|                576 | [k-pop](../genres/k_pop.md)                         |
+|                362 | [pop](../genres/pop.md)                             |
+|                286 | [k-pop girl group](../genres/k_pop_girl_group.md)   |
+|                160 | [dance pop](../genres/dance_pop.md)                 |
+|                149 | [k-pop boy group](../genres/k_pop_boy_group.md)     |
+|                 99 | [rock](../genres/rock.md)                           |
+|                 78 | [classic rock](../genres/classic_rock.md)           |
+|                 60 | [lilith](../genres/lilith.md)                       |
+|                 58 | [neo mellow](../genres/neo_mellow.md)               |
+|                 57 | [acoustic pop](../genres/acoustic_pop.md)           |
+|                 55 | [pop rock](../genres/pop_rock.md)                   |
+|                 51 | [post-teen pop](../genres/post_teen_pop.md)         |
+|                 44 | [hollywood](../genres/hollywood.md)                 |
+|                 42 | [mellow gold](../genres/mellow_gold.md)             |
+|                 32 | [soft rock](../genres/soft_rock.md)                 |
+|                 32 | [electropop](../genres/electropop.md)               |
+|                 30 | british invasion                                    |
+|                 30 | [art pop](../genres/art_pop.md)                     |
+|                 29 | [singer-songwriter](../genres/singer_songwriter.md) |
+|                 28 | psychedelic rock                                    |
+|                 26 | [r&b](../genres/r_b.md)                             |
+|                 25 | piano rock                                          |
+|                 23 | korean pop                                          |
+|                 23 | beatlesque                                          |
+|                 22 | merseybeat                                          |
+|                 22 | korean r&b                                          |
+|                 20 | indie pop                                           |
+|                 19 | modern rock                                         |
+|                 19 | edm                                                 |
+|                 19 | anime                                               |
+|                 19 | album rock                                          |
+|                 18 | permanent wave                                      |
+|                 18 | hard rock                                           |
+|                 18 | folk rock                                           |
+|                 18 | art rock                                            |
+|                 18 | [a cappella](../genres/a_cappella.md)               |
+|                 16 | [adult standards](../genres/adult_standards.md)     |
+|                 15 | urban contemporary                                  |
+|                 15 | uk pop                                              |
+|                 15 | pop rap                                             |
+|                 15 | k-rap                                               |
+|                 14 | uk alternative pop                                  |
+|                 14 | soul                                                |
+|                 14 | neo soul                                            |
+|                 14 | metropopolis                                        |
+|                 14 | melancholia                                         |
+|                 14 | folk                                                |
+|                 14 | baroque pop                                         |
+|                 13 | glam rock                                           |
+|                 13 | canadian pop                                        |
+|                 12 | rap                                                 |
+|                 12 | australian pop                                      |
+|                 12 | atl hip hop                                         |
+|                 11 | nz pop                                              |
+|                 11 | korean ost                                          |
+|                 11 | indie rock                                          |
+|                 10 | alternative rock                                    |
+|                  9 | oxford indie                                        |
+|                  8 | tropical house                                      |
+|                  8 | lounge                                              |
+|                  8 | latin pop                                           |
+|                  8 | korean city pop                                     |
+|                  8 | hip hop                                             |
+|                  8 | etherpop                                            |
+|                  8 | blues rock                                          |
+|                  8 | bergen indie                                        |
+|                  8 | australian dance                                    |
+|                  7 | viral pop                                           |
+|                  7 | pop dance                                           |
+|                  7 | kawaii metal                                        |
+|                  7 | j-pop                                               |
+|                  7 | j-metal                                             |
+|                  7 | indie r&b                                           |
+|                  7 | idol rock                                           |
+|                  7 | escape room                                         |
+|                  7 | country dawn                                        |
+|                  7 | country                                             |
+|                  7 | comic metal                                         |
+|                  7 | canadian singer-songwriter                          |
+|                  7 | british soul                                        |
+|                  7 | boy band                                            |
+|                  7 | barbadian pop                                       |
+|                  7 | alternative r&b                                     |
+|                  6 | stomp and holler                                    |
+|                  6 | pop soul                                            |
+|                  6 | motown                                              |
+|                  6 | modern alternative rock                             |
+|                  6 | la indie                                            |
+|                  6 | hip pop                                             |
+|                  6 | filter house                                        |
+|                  6 | electro                                             |
+|                  5 | vocal jazz                                          |
+|                  5 | uk funky                                            |
+|                  5 | uk dance                                            |
+|                  5 | jazz pop                                            |
+|                  5 | funk                                                |
+|                  5 | anti-folk                                           |
+|                  5 | afrofuturism                                        |
+|                  4 | yacht rock                                          |
+|                  4 | new wave pop                                        |
 
 </details>
 

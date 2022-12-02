@@ -30,7 +30,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 18 albums in](../images/labels/cube_entertainment/albums.png)
+![Bar chart of top 18 albums](../images/labels/cube_entertainment/albums.png)
 
 
 <details>
@@ -56,6 +56,24 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27317477a7434c66ac5548b6ab7" alt="" width="50" /> | Brother Act.     | [🔗](https://open.spotify.com/album/3oXEVu3gwToJRkE2xAW44a) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273467ea7cec7cd993340bc80be" alt="" width="50" /> | BLACK DRESS      | [🔗](https://open.spotify.com/album/3I3c4rkP6v5LtjMrgbD6d0) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27385155038f6eb09e2212d7094" alt="" width="50" /> | Act. 7           | [🔗](https://open.spotify.com/album/2QGDdrZDuxK7VBmcJZxi1B) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 4 genres](../images/labels/cube_entertainment/genres.png)
+
+
+<details>
+<summary>See all 4 genres</summary>
+
+|   Number of Tracks | Genre                                             |
+|-------------------:|:--------------------------------------------------|
+|                 33 | [k-pop](../genres/k_pop.md)                       |
+|                 25 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+|                  5 | korean city pop                                   |
+|                  5 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
 
 </details>
 

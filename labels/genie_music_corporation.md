@@ -53,7 +53,7 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbca2e91d07d2c53e6610570" alt="" width="50" /> | Seori                                  | [🔗](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebdbabadb9f03b5b3d5e0241e5" alt="" width="50" /> | JAMIE                                  | [🔗](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfe2339c232c5a840fc527402" alt="" width="50" /> | SEULGI                                 | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3e64e13dfb4fc3dc1a873b00" alt="" width="50" /> | [ITZY](../artists/itzy.md)             | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../artists/itzy.md)             | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb065608c797a38d142082fc8a" alt="" width="50" /> | Punch                                  | [🔗](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736af55ea23714e14575d05660" alt="" width="50" /> | Stellar                                | [🔗](https://open.spotify.com/artist/1rTwKjYcA7diHAD2c8ZozT) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb65dd718aaa2c9b1be0218f76" alt="" width="50" /> | SURAN                                  | [🔗](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) |
@@ -70,7 +70,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 30 albums in](../images/labels/genie_music_corporation/albums.png)
+![Bar chart of top 30 albums](../images/labels/genie_music_corporation/albums.png)
 
 
 <details>
@@ -122,6 +122,30 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735ecba6eed6a9e14a7e9534b2" alt="" width="50" /> | BLOOM*IZ                                                             | [🔗](https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a38fcfd623020295c4b0dd6f" alt="" width="50" /> | Abyss (Original Television Soundtrack), Pt. 1                        | [🔗](https://open.spotify.com/album/0OLyahO2nuY0qQKoykd7Vy) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a61cd4953f0b2314bff431e2" alt="" width="50" /> | <Queendom2> FINAL                                                    | [🔗](https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 10 genres](../images/labels/genie_music_corporation/genres.png)
+
+
+<details>
+<summary>See all 10 genres</summary>
+
+|   Number of Tracks | Genre                                             |
+|-------------------:|:--------------------------------------------------|
+|                 42 | [k-pop](../genres/k_pop.md)                       |
+|                 12 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+|                  9 | korean r&b                                        |
+|                  6 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
+|                  5 | [pop](../genres/pop.md)                           |
+|                  3 | korean pop                                        |
+|                  3 | korean ost                                        |
+|                  2 | k-rap                                             |
+|                  1 | classic k-pop                                     |
+|                  1 | anime                                             |
 
 </details>
 

@@ -38,6 +38,10 @@
 |                 29 | [Big Machine Records](../labels/big_machine_records.md)     |
 |                  1 | [Universal Music Group](../labels/universal_music_group.md) |
 
+## Genres
+
+- [pop](../genres/pop.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                                                              | Album                                            | Artists                                                          | Label                                                        | 💚   | 🔗                                                          |

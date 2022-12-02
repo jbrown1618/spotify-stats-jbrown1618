@@ -34,7 +34,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 7 albums in](../images/labels/harmonia_mundi/albums.png)
+![Bar chart of top 7 albums](../images/labels/harmonia_mundi/albums.png)
 
 
 <details>
@@ -49,6 +49,32 @@ Appears as:
 |                  8 | <img src="https://i.scdn.co/image/ab67616d0000b273040c78c4ed7f56a2a3d2a770" alt="" width="50" /> | Dvorak: String Quintet, Op. 97 & String Sextet, Op. 48 | [🔗](https://open.spotify.com/album/02nUFvsdTaekp2QQalnE3N) |
 |                  8 | <img src="https://i.scdn.co/image/ab67616d0000b2737cb0c702a8fd45bfd8358259" alt="" width="50" /> | Debussy & Ravel: String Quartets                       | [🔗](https://open.spotify.com/album/77Eg2dHidrefgsS3GZ88nK) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ddf2fb18947ce57d0005f626" alt="" width="50" /> | Bruckner: Mass in E Minor & Motets                     | [🔗](https://open.spotify.com/album/13eAUvw0Ga3BBFsf6oxF46) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 12 genres](../images/labels/harmonia_mundi/genres.png)
+
+
+<details>
+<summary>See all 12 genres</summary>
+
+|   Number of Tracks | Genre                                                             |
+|-------------------:|:------------------------------------------------------------------|
+|                152 | [classical](../genres/classical.md)                               |
+|                106 | [classical era](../genres/classical_era.md)                       |
+|                 95 | [german romanticism](../genres/german_romanticism.md)             |
+|                 95 | [early romantic era](../genres/early_romantic_era.md)             |
+|                 29 | [russian modern classical](../genres/russian_modern_classical.md) |
+|                 29 | compositional ambient                                             |
+|                  9 | [late romantic era](../genres/late_romantic_era.md)               |
+|                  8 | [post-romantic era](../genres/post_romantic_era.md)               |
+|                  8 | impressionism                                                     |
+|                  8 | czech classical                                                   |
+|                  4 | [neoclassicism](../genres/neoclassicism.md)                       |
+|                  4 | [early modern classical](../genres/early_modern_classical.md)     |
 
 </details>
 

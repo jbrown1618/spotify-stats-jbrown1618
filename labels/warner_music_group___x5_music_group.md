@@ -53,7 +53,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 3 albums in](../images/labels/warner_music_group___x5_music_group/albums.png)
+![Bar chart of top 3 albums](../images/labels/warner_music_group___x5_music_group/albums.png)
 
 
 <details>
@@ -64,6 +64,25 @@ Appears as:
 |                 42 | <img src="https://i.scdn.co/image/ab67616d0000b2734ef4b094282cfe59c8252409" alt="" width="50" /> | La Bohème           | [🔗](https://open.spotify.com/album/4FqWqqnsUS8gKpLEYnuICl) |
 |                 20 | <img src="https://i.scdn.co/image/ab67616d0000b273a78d6aa51909744b78778902" alt="" width="50" /> | Mozart Piano Pieces | [🔗](https://open.spotify.com/album/3AYEvo7R1gY4O5xJuMwy3U) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27376a42530f861aa187f3ac1c2" alt="" width="50" /> | Fauré Pavane        | [🔗](https://open.spotify.com/album/0FaQ2LW8NNG3YXYJXFikJF) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 5 genres](../images/labels/warner_music_group___x5_music_group/genres.png)
+
+
+<details>
+<summary>See all 5 genres</summary>
+
+|   Number of Tracks | Genre                                                   |
+|-------------------:|:--------------------------------------------------------|
+|                 63 | [classical](../genres/classical.md)                     |
+|                 43 | [post-romantic era](../genres/post_romantic_era.md)     |
+|                 42 | [italian romanticism](../genres/italian_romanticism.md) |
+|                 42 | [italian opera](../genres/italian_opera.md)             |
+|                 20 | [classical era](../genres/classical_era.md)             |
 
 </details>
 

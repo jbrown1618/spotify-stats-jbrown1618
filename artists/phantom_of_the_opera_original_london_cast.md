@@ -20,6 +20,10 @@
 |-------------------:|:------------------------------------------------|
 |                 21 | [Polydor Records](../labels/polydor_records.md) |
 
+## Genres
+
+- west end
+
 ## Tracks
 
 | Art                                                                                              | Track                                      | Album                    | Artists                                                                                                                                                                                                                                                                                                                      | Label                                           | 💚   | 🔗                                                          |

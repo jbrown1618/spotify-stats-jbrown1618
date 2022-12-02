@@ -2,7 +2,7 @@
 # ITZY
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb3e64e13dfb4fc3dc1a873b00" alt="ITZY" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="ITZY" width="100" />
 
 ## Featured on Playlists
 |   Number of Tracks | Art                                                                                                                                                                                                                         | Playlist                                           |
@@ -45,6 +45,10 @@
 |                  2 | [WM Japan](../labels/wm_japan.md)                               |
 |                  1 | [Warner Records](../labels/warner_records.md)                   |
 |                  1 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
+
+## Genres
+
+- [k-pop girl group](../genres/k_pop_girl_group.md)
 
 ## Tracks
 

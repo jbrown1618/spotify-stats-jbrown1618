@@ -24,7 +24,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 1 albums in](../images/labels/mariinsky/albums.png)
+![Bar chart of top 1 albums](../images/labels/mariinsky/albums.png)
 
 
 <details>
@@ -33,6 +33,24 @@ Appears as:
 |   Number of Tracks | Art                                                                                              | Album                                | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------|:-----------------------------------------------------------|
 |                 18 | <img src="https://i.scdn.co/image/ab67616d0000b2736d425516ed4317947a4f48af" alt="" width="50" /> | Stravinsky: Petrushka, Jeu de cartes | [🔗](https://open.spotify.com/album/19fQbFNjlfXgBAFqftKzWA) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 4 genres](../images/labels/mariinsky/genres.png)
+
+
+<details>
+<summary>See all 4 genres</summary>
+
+|   Number of Tracks | Genre                                                             |
+|-------------------:|:------------------------------------------------------------------|
+|                 18 | [russian modern classical](../genres/russian_modern_classical.md) |
+|                 18 | [neoclassicism](../genres/neoclassicism.md)                       |
+|                 18 | [early modern classical](../genres/early_modern_classical.md)     |
+|                 18 | [classical](../genres/classical.md)                               |
 
 </details>
 

@@ -22,7 +22,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 5 albums in](../images/labels/high_up_entertainment/albums.png)
+![Bar chart of top 5 albums](../images/labels/high_up_entertainment/albums.png)
 
 
 <details>
@@ -35,6 +35,22 @@ Appears as:
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273af2fda9fb591d43c355c2ac3" alt="" width="50" /> | STAYDOM                 | [🔗](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273bc125f40131dd5869b2ec36c" alt="" width="50" /> | Star To A Young Culture | [🔗](https://open.spotify.com/album/4PrRd0lIunUEiiE5rbZklR) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735c1dca4c993850471d5d8f14" alt="" width="50" /> | STEREOTYPE              | [🔗](https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 2 genres](../images/labels/high_up_entertainment/genres.png)
+
+
+<details>
+<summary>See all 2 genres</summary>
+
+|   Number of Tracks | Genre                                             |
+|-------------------:|:--------------------------------------------------|
+|                 11 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+|                 11 | [k-pop](../genres/k_pop.md)                       |
 
 </details>
 

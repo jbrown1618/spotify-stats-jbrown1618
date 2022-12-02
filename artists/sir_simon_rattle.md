@@ -23,6 +23,12 @@
 |                 24 | [Warner Classics](../labels/warner_classics.md)       |
 |                 16 | [Warner Classics UK](../labels/warner_classics_uk.md) |
 
+## Genres
+
+- choral
+- classical performance
+- orchestral performance
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                                                                   | Album                       | Artists                                                                                                                                                         | Label                                                 | 💚   | 🔗                                                          |

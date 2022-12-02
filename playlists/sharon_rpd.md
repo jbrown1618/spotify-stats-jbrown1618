@@ -9,6 +9,8 @@
 
 ![Bar chart of top 28 artists](../images/playlists/sharon_rpd/artists.png)
 
+![Comparison of Artist](../images/playlists/sharon_rpd/artists_comparison.png)
+
 
 <details>
 <summary>See all 28 artists</summary>
@@ -39,7 +41,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0222fa7cba5da5c28ea5d296" alt="" width="50" /> | BTOB                                   | [🔗](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | [CHUNG HA](../artists/chung_ha.md)     | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3e64e13dfb4fc3dc1a873b00" alt="" width="50" /> | [ITZY](../artists/itzy.md)             | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../artists/itzy.md)             | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | Halsey                                 | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
 |                  1 | <img src="nan" alt="" width="50" />                                                              | LACHICA                                | [🔗](https://open.spotify.com/artist/0vqjEQRfmE1Sov92UQRJMp) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba5205abffd84341e5bace828" alt="" width="50" /> | Selena Gomez                           | [🔗](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) |
@@ -47,11 +49,9 @@
 </details>
 
 
-![Comparison of Artist](../images/sharon_rpd/artists_comparison.png)
-
 ## Top Albums
 
-![Bar chart of top 30 albums in](../images/playlists/sharon_rpd/albums.png)
+![Bar chart of top 30 albums](../images/playlists/sharon_rpd/albums.png)
 
 
 <details>
@@ -123,6 +123,27 @@
 |                  1 | [Chris Brown Entertainment](../labels/chris_brown_entertainment.md)   |
 |                  1 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                 |
 |                  1 | [300 Entertainment](../labels/300_entertainment.md)                   |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 7 genres](../images/playlists/sharon_rpd/genres.png)
+
+
+<details>
+<summary>See all 7 genres</summary>
+
+|   Number of Tracks | Genre                                             |
+|-------------------:|:--------------------------------------------------|
+|                 25 | [k-pop](../genres/k_pop.md)                       |
+|                 16 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+|                 11 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
+|                  2 | [pop](../genres/pop.md)                           |
+|                  2 | anime                                             |
+|                  1 | [r&b](../genres/r_b.md)                           |
+|                  1 | [dance pop](../genres/dance_pop.md)               |
 
 </details>
 

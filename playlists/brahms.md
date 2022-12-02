@@ -9,6 +9,8 @@
 
 ![Bar chart of top 5 artists](../images/playlists/brahms/artists.png)
 
+![Comparison of Artist](../images/playlists/brahms/artists_comparison.png)
+
 
 <details>
 <summary>See all 5 artists</summary>
@@ -24,11 +26,9 @@
 </details>
 
 
-![Comparison of Artist](../images/brahms/artists_comparison.png)
-
 ## Top Albums
 
-![Bar chart of top 2 albums in](../images/playlists/brahms/albums.png)
+![Bar chart of top 2 albums](../images/playlists/brahms/albums.png)
 
 
 <details>
@@ -54,6 +54,23 @@
 |-------------------:|:------------------------------------------------------------------|
 |                 16 | [Warner Classics UK](../labels/warner_classics_uk.md)             |
 |                 16 | [Deutsche Grammophon (DG)](../labels/deutsche_grammophon__dg_.md) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 3 genres](../images/playlists/brahms/genres.png)
+
+
+<details>
+<summary>See all 3 genres</summary>
+
+|   Number of Tracks | Genre                                                 |
+|-------------------:|:------------------------------------------------------|
+|                 32 | [late romantic era](../genres/late_romantic_era.md)   |
+|                 32 | [german romanticism](../genres/german_romanticism.md) |
+|                 32 | [classical](../genres/classical.md)                   |
 
 </details>
 

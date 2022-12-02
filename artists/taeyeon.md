@@ -36,6 +36,11 @@
 |                  1 | [msmedia](../labels/msmedia.md)                   |
 |                  1 | [FNC인베스트먼트](../labels/fnc______.md)               |
 
+## Genres
+
+- [k-pop](../genres/k_pop.md)
+- [pop](../genres/pop.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                | Album                                                | Artists                            | Label                                             | 💚   | 🔗                                                          |

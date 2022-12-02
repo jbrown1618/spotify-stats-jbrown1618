@@ -22,7 +22,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 5 albums in](../images/labels/the_tarpeggios/albums.png)
+![Bar chart of top 5 albums](../images/labels/the_tarpeggios/albums.png)
 
 
 <details>
@@ -35,6 +35,20 @@ Appears as:
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27322f75e45afe2febb7d3f4cac" alt="" width="50" /> | Immaterial             | [🔗](https://open.spotify.com/album/5YgtPHMCi4dGtL6JarEGkI) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27362f44cdb37183a309fc1032f" alt="" width="50" /> | G Train                | [🔗](https://open.spotify.com/album/0vmio1Hc8vrU7scyVa6BYK) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e443608c9f1cf2fdb6c36d37" alt="" width="50" /> | Before He Cheats       | [🔗](https://open.spotify.com/album/7bndGIMX7IOBjG3J7O0BEQ) |
+
+</details>
+
+
+## Genres
+
+
+
+
+<details>
+<summary>See all 0 genres</summary>
+
+| Number of Tracks   | Genre   |
+|--------------------|---------|
 
 </details>
 

@@ -30,7 +30,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 2 albums in](../images/labels/one_voice_productions/albums.png)
+![Bar chart of top 2 albums](../images/labels/one_voice_productions/albums.png)
 
 
 <details>
@@ -40,6 +40,21 @@ Appears as:
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------|:-----------------------------------------------------------|
 |                 11 | <img src="https://i.scdn.co/image/ab67616d0000b273fe9bb826b4677ad094f49fa3" alt="" width="50" /> | Legendary Folk Songs | [🔗](https://open.spotify.com/album/22qN0Gw54OwckjTgVGUzVG) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273de86cb7d44e765c043a8b596" alt="" width="50" /> | At the Beginning     | [🔗](https://open.spotify.com/album/3uN6J4J6VstQCzzHbKbz6j) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 1 genres](../images/labels/one_voice_productions/genres.png)
+
+
+<details>
+<summary>See all 1 genres</summary>
+
+|   Number of Tracks | Genre   |
+|-------------------:|:--------|
+|                 12 | fantasy |
 
 </details>
 

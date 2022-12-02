@@ -20,6 +20,11 @@
 |-------------------:|:------------------------------------------------------------------|
 |                 19 | [Deutsche Grammophon (DG)](../labels/deutsche_grammophon__dg_.md) |
 
+## Genres
+
+- classical tenor
+- opera
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                                          | Album                   | Artists                                                                                                                                                                                                                                                                                                                   | Label                                                             | 💚   | 🔗                                                          |

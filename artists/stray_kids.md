@@ -41,6 +41,11 @@
 |                  1 | [Sony Music Labels Inc.](../labels/sony_music_labels_inc_.md)   |
 |                  1 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
 
+## Genres
+
+- [k-pop](../genres/k_pop.md)
+- [k-pop boy group](../genres/k_pop_boy_group.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                                       | Album                                          | Artists                     | Label                                                           | 💚   | 🔗                                                          |

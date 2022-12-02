@@ -30,6 +30,13 @@
 |                 42 | [Deutsche Grammophon (DG)](../labels/deutsche_grammophon__dg_.md) |
 |                 21 | [PENTATONE](../labels/pentatone.md)                               |
 
+## Genres
+
+- [classical](../genres/classical.md)
+- [classical era](../genres/classical_era.md)
+- [early romantic era](../genres/early_romantic_era.md)
+- [german romanticism](../genres/german_romanticism.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                                                                           | Album                                                              | Artists                                                                                                                                                                                                                                                                                                         | Label                                                             | 💚   | 🔗                                                          |

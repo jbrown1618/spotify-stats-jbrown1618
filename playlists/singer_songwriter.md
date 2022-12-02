@@ -9,6 +9,8 @@
 
 ![Bar chart of top 30 artists](../images/playlists/singer_songwriter/artists.png)
 
+![Comparison of Artist](../images/playlists/singer_songwriter/artists_comparison.png)
+
 
 <details>
 <summary>See all 32 artists</summary>
@@ -51,11 +53,9 @@
 </details>
 
 
-![Comparison of Artist](../images/singer_songwriter/artists_comparison.png)
-
 ## Top Albums
 
-![Bar chart of top 30 albums in](../images/playlists/singer_songwriter/albums.png)
+![Bar chart of top 30 albums](../images/playlists/singer_songwriter/albums.png)
 
 
 <details>
@@ -193,6 +193,71 @@
 |                  1 | [Carrie Manolakos](../labels/carrie_manolakos.md)                                                           |
 |                  1 | [Atlantic Records UK](../labels/atlantic_records_uk.md)                                                     |
 |                  1 | [ATO Records](../labels/ato_records.md)                                                                     |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 30 genres](../images/playlists/singer_songwriter/genres.png)
+
+
+<details>
+<summary>See all 51 genres</summary>
+
+|   Number of Tracks | Genre                                               |
+|-------------------:|:----------------------------------------------------|
+|                137 | [pop](../genres/pop.md)                             |
+|                 82 | [acoustic pop](../genres/acoustic_pop.md)           |
+|                 80 | [lilith](../genres/lilith.md)                       |
+|                 72 | [neo mellow](../genres/neo_mellow.md)               |
+|                 63 | [pop rock](../genres/pop_rock.md)                   |
+|                 59 | [hollywood](../genres/hollywood.md)                 |
+|                 35 | [singer-songwriter](../genres/singer_songwriter.md) |
+|                 35 | piano rock                                          |
+|                 31 | [mellow gold](../genres/mellow_gold.md)             |
+|                 25 | [soft rock](../genres/soft_rock.md)                 |
+|                 25 | [classic rock](../genres/classic_rock.md)           |
+|                 24 | [rock](../genres/rock.md)                           |
+|                 22 | indie pop                                           |
+|                 18 | [art pop](../genres/art_pop.md)                     |
+|                 12 | folk                                                |
+|                 11 | folk rock                                           |
+|                  9 | nz pop                                              |
+|                  9 | [electropop](../genres/electropop.md)               |
+|                  9 | bergen indie                                        |
+|                  8 | nyc pop                                             |
+|                  8 | metropopolis                                        |
+|                  8 | indie r&b                                           |
+|                  8 | etherpop                                            |
+|                  8 | canadian singer-songwriter                          |
+|                  6 | glam rock                                           |
+|                  5 | deep indie singer-songwriter                        |
+|                  3 | viral pop                                           |
+|                  3 | neo soul                                            |
+|                  2 | indy indie                                          |
+|                  2 | indiecoustica                                       |
+|                  2 | chamber pop                                         |
+|                  2 | brill building pop                                  |
+|                  2 | [adult standards](../genres/adult_standards.md)     |
+|                  1 | urban contemporary                                  |
+|                  1 | uk pop                                              |
+|                  1 | [r&b](../genres/r_b.md)                             |
+|                  1 | pop soul                                            |
+|                  1 | permanent wave                                      |
+|                  1 | new americana                                       |
+|                  1 | modern folk rock                                    |
+|                  1 | irish pop                                           |
+|                  1 | indie soul                                          |
+|                  1 | funk                                                |
+|                  1 | europop                                             |
+|                  1 | dark pop                                            |
+|                  1 | [dance pop](../genres/dance_pop.md)                 |
+|                  1 | country rock                                        |
+|                  1 | canadian pop                                        |
+|                  1 | canadian indie                                      |
+|                  1 | british soul                                        |
+|                  1 | alt z                                               |
 
 </details>
 

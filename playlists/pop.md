@@ -9,6 +9,8 @@
 
 ![Bar chart of top 30 artists](../images/playlists/pop/artists.png)
 
+![Comparison of Artist](../images/playlists/pop/artists_comparison.png)
+
 
 <details>
 <summary>See top 100 artists</summary>
@@ -119,11 +121,9 @@
 </details>
 
 
-![Comparison of Artist](../images/pop/artists_comparison.png)
-
 ## Top Albums
 
-![Bar chart of top 30 albums in](../images/playlists/pop/albums.png)
+![Bar chart of top 30 albums](../images/playlists/pop/albums.png)
 
 
 <details>
@@ -345,6 +345,120 @@
 |                  1 | [EMI Recorded Music Australia Pty Ltd](../labels/emi_recorded_music_australia_pty_ltd.md)                   |
 |                  1 | [Downtown Recordings](../labels/downtown_recordings.md)                                                     |
 |                  1 | [Def Jam](../labels/def_jam.md)                                                                             |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 30 genres](../images/playlists/pop/genres.png)
+
+
+<details>
+<summary>See top 100 genres</summary>
+
+|   Number of Tracks | Genre                                           |
+|-------------------:|:------------------------------------------------|
+|                302 | [pop](../genres/pop.md)                         |
+|                188 | [dance pop](../genres/dance_pop.md)             |
+|                 62 | [post-teen pop](../genres/post_teen_pop.md)     |
+|                 26 | [electropop](../genres/electropop.md)           |
+|                 25 | uk pop                                          |
+|                 25 | edm                                             |
+|                 25 | [art pop](../genres/art_pop.md)                 |
+|                 20 | urban contemporary                              |
+|                 16 | [r&b](../genres/r_b.md)                         |
+|                 15 | pop rap                                         |
+|                 15 | neo soul                                        |
+|                 14 | [pop rock](../genres/pop_rock.md)               |
+|                 13 | [neo mellow](../genres/neo_mellow.md)           |
+|                 12 | atl hip hop                                     |
+|                 11 | british soul                                    |
+|                 11 | australian pop                                  |
+|                 10 | pop soul                                        |
+|                 10 | canadian pop                                    |
+|                 10 | barbadian pop                                   |
+|                 10 | [acoustic pop](../genres/acoustic_pop.md)       |
+|                  9 | viral pop                                       |
+|                  9 | pop dance                                       |
+|                  8 | uk dance                                        |
+|                  8 | tropical house                                  |
+|                  8 | metropopolis                                    |
+|                  8 | boy band                                        |
+|                  8 | australian dance                                |
+|                  8 | alternative r&b                                 |
+|                  7 | rap                                             |
+|                  7 | modern rock                                     |
+|                  7 | indietronica                                    |
+|                  7 | escape room                                     |
+|                  5 | uk funky                                        |
+|                  5 | [rock](../genres/rock.md)                       |
+|                  5 | piano rock                                      |
+|                  5 | permanent wave                                  |
+|                  5 | [lilith](../genres/lilith.md)                   |
+|                  5 | contemporary r&b                                |
+|                  5 | afrofuturism                                    |
+|                  4 | talent show                                     |
+|                  4 | south carolina hip hop                          |
+|                  4 | indie poptimism                                 |
+|                  4 | [hollywood](../genres/hollywood.md)             |
+|                  4 | hip pop                                         |
+|                  4 | girl group                                      |
+|                  4 | europop                                         |
+|                  4 | electro house                                   |
+|                  3 | progressive house                               |
+|                  3 | nz pop                                          |
+|                  3 | modern alternative rock                         |
+|                  3 | lgbtq+ hip hop                                  |
+|                  3 | latin pop                                       |
+|                  3 | indie pop                                       |
+|                  3 | house                                           |
+|                  3 | hip hop                                         |
+|                  3 | etherpop                                        |
+|                  3 | chill r&b                                       |
+|                  3 | canadian contemporary r&b                       |
+|                  3 | alt z                                           |
+|                  2 | trap queen                                      |
+|                  2 | shiver pop                                      |
+|                  2 | queens hip hop                                  |
+|                  2 | minnesota hip hop                               |
+|                  2 | lounge                                          |
+|                  2 | jazz pop                                        |
+|                  2 | irish singer-songwriter                         |
+|                  2 | indy indie                                      |
+|                  2 | indiecoustica                                   |
+|                  2 | gauze pop                                       |
+|                  2 | filter house                                    |
+|                  2 | electro                                         |
+|                  2 | colombian pop                                   |
+|                  2 | celtic rock                                     |
+|                  2 | [adult standards](../genres/adult_standards.md) |
+|                  1 | wonky                                           |
+|                  1 | viral rap                                       |
+|                  1 | vapor twitch                                    |
+|                  1 | vapor soul                                      |
+|                  1 | vapor pop                                       |
+|                  1 | trap latino                                     |
+|                  1 | trap                                            |
+|                  1 | thai indie pop                                  |
+|                  1 | synth funk                                      |
+|                  1 | southern hip hop                                |
+|                  1 | social media pop                                |
+|                  1 | reggaeton colombiano                            |
+|                  1 | reggaeton                                       |
+|                  1 | puerto rican pop                                |
+|                  1 | pop punk                                        |
+|                  1 | pittsburgh rap                                  |
+|                  1 | ohio hip hop                                    |
+|                  1 | oakland hip hop                                 |
+|                  1 | nyc pop                                         |
+|                  1 | neon pop punk                                   |
+|                  1 | modern indie pop                                |
+|                  1 | lafayette indie                                 |
+|                  1 | la indie                                        |
+|                  1 | italian pop                                     |
+|                  1 | indie soul                                      |
+|                  1 | indie rock italiano                             |
 
 </details>
 

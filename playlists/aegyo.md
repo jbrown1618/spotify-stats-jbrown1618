@@ -9,6 +9,8 @@
 
 ![Bar chart of top 18 artists](../images/playlists/aegyo/artists.png)
 
+![Comparison of Artist](../images/playlists/aegyo/artists_comparison.png)
+
 
 <details>
 <summary>See all 18 artists</summary>
@@ -37,11 +39,9 @@
 </details>
 
 
-![Comparison of Artist](../images/aegyo/artists_comparison.png)
-
 ## Top Albums
 
-![Bar chart of top 30 albums in](../images/playlists/aegyo/albums.png)
+![Bar chart of top 30 albums](../images/playlists/aegyo/albums.png)
 
 
 <details>
@@ -113,6 +113,28 @@
 |                  1 | [Genie Music Corporation](../labels/genie_music_corporation.md)     |
 |                  1 | [DUBLEKICK COMPANY](../labels/dublekick_company.md)                 |
 |                  1 | [Cre.ker Entertainment](../labels/cre_ker_entertainment.md)         |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 8 genres](../images/playlists/aegyo/genres.png)
+
+
+<details>
+<summary>See all 8 genres</summary>
+
+|   Number of Tracks | Genre                                             |
+|-------------------:|:--------------------------------------------------|
+|                 27 | [k-pop](../genres/k_pop.md)                       |
+|                 26 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+|                  8 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
+|                  4 | anime                                             |
+|                  1 | mandopop                                          |
+|                  1 | mainland chinese pop                              |
+|                  1 | k-pop reality show                                |
+|                  1 | chinese idol pop                                  |
 
 </details>
 

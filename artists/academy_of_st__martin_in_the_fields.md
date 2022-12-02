@@ -23,6 +23,12 @@
 |                 14 | [Warner Classics](../labels/warner_classics.md)               |
 |                  7 | [Decca Music Group Ltd.](../labels/decca_music_group_ltd_.md) |
 
+## Genres
+
+- british orchestra
+- chamber orchestra
+- classical performance
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                                                      | Album                               | Artists                                                                                                                                                                                                            | Label                                                         | 💚   | 🔗                                                          |

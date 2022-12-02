@@ -9,6 +9,8 @@
 
 ![Bar chart of top 9 artists](../images/playlists/country_folk/artists.png)
 
+![Comparison of Artist](../images/playlists/country_folk/artists_comparison.png)
+
 
 <details>
 <summary>See all 9 artists</summary>
@@ -28,11 +30,9 @@
 </details>
 
 
-![Comparison of Artist](../images/country_folk/artists_comparison.png)
-
 ## Top Albums
 
-![Bar chart of top 19 albums in](../images/playlists/country_folk/albums.png)
+![Bar chart of top 19 albums](../images/playlists/country_folk/albums.png)
 
 
 <details>
@@ -89,6 +89,42 @@
 |                  1 | [Island Records](../labels/island_records.md)                                       |
 |                  1 | [Arista](../labels/arista.md)                                                       |
 |                  1 | [American Recordings Catalog P&D](../labels/american_recordings_catalog_p_d.md)     |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 22 genres](../images/playlists/country_folk/genres.png)
+
+
+<details>
+<summary>See all 22 genres</summary>
+
+|   Number of Tracks | Genre                                     |
+|-------------------:|:------------------------------------------|
+|                 11 | country dawn                              |
+|                 11 | country                                   |
+|                  8 | [pop](../genres/pop.md)                   |
+|                  8 | indie folk                                |
+|                  8 | contemporary country                      |
+|                  6 | stomp and holler                          |
+|                  6 | progressive bluegrass                     |
+|                  6 | mandolin                                  |
+|                  6 | instrumental bluegrass                    |
+|                  6 | bluegrass                                 |
+|                  5 | oklahoma country                          |
+|                  5 | folk-pop                                  |
+|                  4 | uk americana                              |
+|                  4 | outlaw country                            |
+|                  4 | modern folk rock                          |
+|                  4 | arkansas country                          |
+|                  3 | [neo mellow](../genres/neo_mellow.md)     |
+|                  3 | modern country rock                       |
+|                  3 | country road                              |
+|                  3 | [acoustic pop](../genres/acoustic_pop.md) |
+|                  2 | new americana                             |
+|                  1 | lafayette indie                           |
 
 </details>
 

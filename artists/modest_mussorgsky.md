@@ -20,6 +20,11 @@
 |-------------------:|:------------------------------------------------------------------|
 |                 16 | [Deutsche Grammophon (DG)](../labels/deutsche_grammophon__dg_.md) |
 
+## Genres
+
+- [late romantic era](../genres/late_romantic_era.md)
+- [russian romanticism](../genres/russian_romanticism.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                           | Album                                 | Artists                                                                                                                             | Label                                                             | 💚   | 🔗                                                          |

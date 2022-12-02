@@ -22,7 +22,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 1 albums in](../images/labels/the_music_factory/albums.png)
+![Bar chart of top 1 albums](../images/labels/the_music_factory/albums.png)
 
 
 <details>
@@ -31,6 +31,21 @@ Appears as:
 |   Number of Tracks | Art                                                                                              | Album                                 | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------|:-----------------------------------------------------------|
 |                 15 | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="" width="50" /> | Frederic Chopin - Waltzes & Nocturnes | [🔗](https://open.spotify.com/album/3USjXpMk5Pga22AZua7vNT) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 1 genres](../images/labels/the_music_factory/genres.png)
+
+
+<details>
+<summary>See all 1 genres</summary>
+
+|   Number of Tracks | Genre                  |
+|-------------------:|:-----------------------|
+|                 15 | german classical piano |
 
 </details>
 

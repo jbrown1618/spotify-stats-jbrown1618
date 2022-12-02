@@ -28,7 +28,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 14 albums in](../images/labels/pledis_entertainment/albums.png)
+![Bar chart of top 14 albums](../images/labels/pledis_entertainment/albums.png)
 
 
 <details>
@@ -50,6 +50,23 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734a40f1624faabce03d3eabbb" alt="" width="50" /> | Bittersweet (feat. LeeHi)                 | [🔗](https://open.spotify.com/album/6qVk855QPCh57noNeeHMXQ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273aa12f5b5b2ea88f26ab76846" alt="" width="50" /> | ; [Semicolon]                             | [🔗](https://open.spotify.com/album/1EMYSiKKTSKLZrOC2nTStL) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735e0415248f47b27441faa0ac" alt="" width="50" /> | 24H                                       | [🔗](https://open.spotify.com/album/24Uj6VdVytaReqt1KJWxfc) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 3 genres](../images/labels/pledis_entertainment/genres.png)
+
+
+<details>
+<summary>See all 3 genres</summary>
+
+|   Number of Tracks | Genre                                             |
+|-------------------:|:--------------------------------------------------|
+|                 18 | [k-pop](../genres/k_pop.md)                       |
+|                 16 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
+|                  1 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 
 </details>
 

@@ -28,6 +28,12 @@
 |                 11 | [Interscope](../labels/interscope.md)                 |
 |                  2 | [A Star is Born OST](../labels/a_star_is_born_ost.md) |
 
+## Genres
+
+- [art pop](../genres/art_pop.md)
+- [dance pop](../genres/dance_pop.md)
+- [pop](../genres/pop.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                           | Album                             | Artists                                                      | Label                                 | 💚   | 🔗                                                          |

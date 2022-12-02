@@ -24,7 +24,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 2 albums in](../images/labels/pentatone/albums.png)
+![Bar chart of top 2 albums](../images/labels/pentatone/albums.png)
 
 
 <details>
@@ -34,6 +34,24 @@ Appears as:
 |-------------------:|:-------------------------------------------------------------------------------------------------|:------------------------------------------|:-----------------------------------------------------------|
 |                 12 | <img src="https://i.scdn.co/image/ab67616d0000b2732266fb9b5484a5dc280e5bff" alt="" width="50" /> | Beethoven: Piano Sonatas Nos. 1-3         | [🔗](https://open.spotify.com/album/5CjMjZJnjdHHgwAVkqrvXq) |
 |                  9 | <img src="https://i.scdn.co/image/ab67616d0000b2730b9ae3f056fa16819bc9dd48" alt="" width="50" /> | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | [🔗](https://open.spotify.com/album/478l1JdqbqDzcmmgrqw2zu) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 4 genres](../images/labels/pentatone/genres.png)
+
+
+<details>
+<summary>See all 4 genres</summary>
+
+|   Number of Tracks | Genre                                                 |
+|-------------------:|:------------------------------------------------------|
+|                 21 | [german romanticism](../genres/german_romanticism.md) |
+|                 21 | [early romantic era](../genres/early_romantic_era.md) |
+|                 21 | [classical era](../genres/classical_era.md)           |
+|                 21 | [classical](../genres/classical.md)                   |
 
 </details>
 

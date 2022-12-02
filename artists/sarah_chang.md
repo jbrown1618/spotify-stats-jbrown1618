@@ -20,6 +20,11 @@
 |-------------------:|:------------------------------------------------|
 |                 16 | [Warner Classics](../labels/warner_classics.md) |
 
+## Genres
+
+- classical performance
+- violin
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                                                              | Album                      | Artists                                                                                                                         | Label                                           | 💚   | 🔗                                                          |

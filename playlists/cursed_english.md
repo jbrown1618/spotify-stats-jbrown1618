@@ -9,13 +9,15 @@
 
 ![Bar chart of top 13 artists](../images/playlists/cursed_english/artists.png)
 
+![Comparison of Artist](../images/playlists/cursed_english/artists_comparison.png)
+
 
 <details>
 <summary>See all 13 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                 | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:------------------------------------------------------------|
-|                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb3e64e13dfb4fc3dc1a873b00" alt="" width="50" /> | [ITZY](../artists/itzy.md)             | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
+|                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../artists/itzy.md)             | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)     | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd84fd6ae9ccfc6206ea6711e" alt="" width="50" /> | [TWICE](../artists/twice.md)           | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7401998434b12fffd119ae18" alt="" width="50" /> | [NCT 127](../artists/nct_127.md)       | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
@@ -32,11 +34,9 @@
 </details>
 
 
-![Comparison of Artist](../images/cursed_english/artists_comparison.png)
-
 ## Top Albums
 
-![Bar chart of top 22 albums in](../images/playlists/cursed_english/albums.png)
+![Bar chart of top 22 albums](../images/playlists/cursed_english/albums.png)
 
 
 <details>
@@ -89,6 +89,25 @@
 |                  1 | [RBW Inc.](../labels/rbw_inc_.md)                       |
 |                  1 | [LABEL V](../labels/label_v.md)                         |
 |                  1 | [ADA Korea](../labels/ada_korea.md)                     |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 5 genres](../images/playlists/cursed_english/genres.png)
+
+
+<details>
+<summary>See all 5 genres</summary>
+
+|   Number of Tracks | Genre                                             |
+|-------------------:|:--------------------------------------------------|
+|                 17 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+|                 17 | [k-pop](../genres/k_pop.md)                       |
+|                  6 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
+|                  1 | korean city pop                                   |
+|                  1 | chinese idol pop                                  |
 
 </details>
 

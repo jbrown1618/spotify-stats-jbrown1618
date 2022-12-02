@@ -30,6 +30,12 @@
 |                  1 | [Onyx Classics](../labels/onyx_classics.md)                       |
 |                  1 | [DOREMI](../labels/doremi.md)                                     |
 
+## Genres
+
+- [classical](../genres/classical.md)
+- [early romantic era](../genres/early_romantic_era.md)
+- [polish classical](../genres/polish_classical.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                                      | Album                                                                     | Artists                                                                            | Label                                                             | 💚   | 🔗                                                          |

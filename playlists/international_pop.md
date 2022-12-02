@@ -9,6 +9,8 @@
 
 ![Bar chart of top 30 artists](../images/playlists/international_pop/artists.png)
 
+![Comparison of Artist](../images/playlists/international_pop/artists_comparison.png)
+
 
 <details>
 <summary>See top 100 artists</summary>
@@ -119,11 +121,9 @@
 </details>
 
 
-![Comparison of Artist](../images/international_pop/artists_comparison.png)
-
 ## Top Albums
 
-![Bar chart of top 30 albums in](../images/playlists/international_pop/albums.png)
+![Bar chart of top 30 albums](../images/playlists/international_pop/albums.png)
 
 
 <details>
@@ -296,6 +296,118 @@
 |                  1 | [Angèle VL Records](../labels/ang_le_vl_records.md)                                                                         |
 |                  1 | [Aer-born](../labels/aer_born.md)                                                                                           |
 |                  1 | [2022 Z.I. Productions BY PIL LTD](../labels/2022_z_i__productions_by_pil_ltd.md)                                           |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 30 genres](../images/playlists/international_pop/genres.png)
+
+
+<details>
+<summary>See all 98 genres</summary>
+
+|   Number of Tracks | Genre                                 |
+|-------------------:|:--------------------------------------|
+|                 17 | j-pop                                 |
+|                  9 | latin pop                             |
+|                  8 | mandopop                              |
+|                  7 | kawaii metal                          |
+|                  7 | j-metal                               |
+|                  7 | idol rock                             |
+|                  7 | [dance pop](../genres/dance_pop.md)   |
+|                  7 | comic metal                           |
+|                  7 | anime                                 |
+|                  6 | anime rock                            |
+|                  5 | taiwan pop                            |
+|                  5 | colombian pop                         |
+|                  4 | reggaeton                             |
+|                  4 | japanese electropop                   |
+|                  4 | j-pop girl group                      |
+|                  4 | j-idol                                |
+|                  4 | israeli pop                           |
+|                  4 | indonesian r&b                        |
+|                  4 | indonesian pop                        |
+|                  4 | indonesian indie                      |
+|                  3 | taiwan singer-songwriter              |
+|                  3 | sunnlensk tonlist                     |
+|                  3 | pop urbaine                           |
+|                  3 | japanese teen pop                     |
+|                  3 | icelandic pop                         |
+|                  3 | francoton                             |
+|                  3 | danish pop                            |
+|                  3 | bitpop                                |
+|                  2 | trap latino                           |
+|                  2 | shibuya-kei                           |
+|                  2 | reggaeton colombiano                  |
+|                  2 | rap tunisien                          |
+|                  2 | puerto rican pop                      |
+|                  2 | [pop](../genres/pop.md)               |
+|                  2 | modern bollywood                      |
+|                  2 | japanese singer-songwriter            |
+|                  2 | japanese emo                          |
+|                  2 | j-rock                                |
+|                  2 | italian hip hop                       |
+|                  2 | israeli mediterranean                 |
+|                  2 | french hip hop                        |
+|                  2 | eurovision                            |
+|                  2 | desi pop                              |
+|                  2 | classic j-pop                         |
+|                  2 | chinese indie                         |
+|                  2 | chinese idol pop                      |
+|                  2 | c-pop                                 |
+|                  2 | belgian pop                           |
+|                  2 | 48g                                   |
+|                  1 | vocaloid                              |
+|                  1 | visual kei                            |
+|                  1 | variete francaise                     |
+|                  1 | thai pop                              |
+|                  1 | taiwan indie                          |
+|                  1 | spanish pop                           |
+|                  1 | south african pop                     |
+|                  1 | rap latina                            |
+|                  1 | rap francais                          |
+|                  1 | rap algerien                          |
+|                  1 | r&b en espanol                        |
+|                  1 | nouvelle chanson francaise            |
+|                  1 | norwegian pop                         |
+|                  1 | norwegian indie                       |
+|                  1 | nintendocore                          |
+|                  1 | nigerian pop                          |
+|                  1 | nigerian hip hop                      |
+|                  1 | milan indie                           |
+|                  1 | malaysian mandopop                    |
+|                  1 | mainland chinese pop                  |
+|                  1 | latin viral pop                       |
+|                  1 | latin talent show                     |
+|                  1 | latin hip hop                         |
+|                  1 | jewish pop                            |
+|                  1 | japanese post-hardcore                |
+|                  1 | japanese math rock                    |
+|                  1 | j-poprock                             |
+|                  1 | j-pixie                               |
+|                  1 | j-acoustic                            |
+|                  1 | italian pop                           |
+|                  1 | italian adult pop                     |
+|                  1 | israeli rock                          |
+|                  1 | indie game soundtrack                 |
+|                  1 | indian indie                          |
+|                  1 | g-house                               |
+|                  1 | french pop                            |
+|                  1 | filmi                                 |
+|                  1 | eurobeat                              |
+|                  1 | escape room                           |
+|                  1 | [electropop](../genres/electropop.md) |
+|                  1 | desi hip hop                          |
+|                  1 | dancehall                             |
+|                  1 | classic mandopop                      |
+|                  1 | chiptune                              |
+|                  1 | chinese viral pop                     |
+|                  1 | chinese r&b                           |
+|                  1 | basshall                              |
+|                  1 | afro soul                             |
+|                  1 | afro dancehall                        |
 
 </details>
 

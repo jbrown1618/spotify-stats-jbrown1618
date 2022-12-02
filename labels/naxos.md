@@ -23,7 +23,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 1 albums in](../images/labels/naxos/albums.png)
+![Bar chart of top 1 albums](../images/labels/naxos/albums.png)
 
 
 <details>
@@ -32,6 +32,24 @@ Appears as:
 |   Number of Tracks | Art                                                                                              | Album                                      | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------|:-----------------------------------------------------------|
 |                 24 | <img src="https://i.scdn.co/image/ab67616d0000b2732d2154810a4e4472b4cc199e" alt="" width="50" /> | Rachmaninov: Preludes for Piano (Complete) | [🔗](https://open.spotify.com/album/1vlnwUAidj7bEmRhsq4zTv) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 4 genres](../images/labels/naxos/genres.png)
+
+
+<details>
+<summary>See all 4 genres</summary>
+
+|   Number of Tracks | Genre                                                   |
+|-------------------:|:--------------------------------------------------------|
+|                 24 | [ukrainian classical](../genres/ukrainian_classical.md) |
+|                 24 | [russian romanticism](../genres/russian_romanticism.md) |
+|                 24 | [post-romantic era](../genres/post_romantic_era.md)     |
+|                 24 | [classical](../genres/classical.md)                     |
 
 </details>
 

@@ -21,6 +21,11 @@
 |-------------------:|:------------------------------------|
 |                 21 | [PENTATONE](../labels/pentatone.md) |
 
+## Genres
+
+- classical piano
+- japanese classical performance
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                                                                     | Album                                     | Artists                                                                        | Label                               | 💚   | 🔗                                                          |

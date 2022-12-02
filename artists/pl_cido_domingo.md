@@ -20,6 +20,12 @@
 |-------------------:|:----------------------------------------|
 |                 19 | [Opera d'Oro](../labels/opera_d_oro.md) |
 
+## Genres
+
+- classical tenor
+- opera
+- operatic pop
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                   | Album   | Artists                                                                                                                                                                                                                                                            | Label                                   | 💚   | 🔗                                                          |

@@ -22,6 +22,13 @@
 |                 18 | [Decca (UMO)](../labels/decca__umo_.md)         |
 |                 16 | [Warner Classics](../labels/warner_classics.md) |
 
+## Genres
+
+- [baroque](../genres/baroque.md)
+- [classical](../genres/classical.md)
+- [early music](../genres/early_music.md)
+- italian baroque
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                                                               | Album                      | Artists                                                                                                                                                                           | Label                                           | 💚   | 🔗                                                          |

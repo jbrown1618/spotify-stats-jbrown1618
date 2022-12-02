@@ -30,7 +30,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 16 albums in](../images/labels/starship_entertainment/albums.png)
+![Bar chart of top 16 albums](../images/labels/starship_entertainment/albums.png)
 
 
 <details>
@@ -54,6 +54,24 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273498aac8e9100e59a99b03460" alt="" width="50" /> | CRAVITY 1ST ALBUM PART 2 [LIBERTY : IN OUR COSMOS] | [🔗](https://open.spotify.com/album/0fQl58pOwJpkTfVUZudzpY) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27387f53da5fb4ab1171766b2d5" alt="" width="50" /> | After LIKE                                         | [🔗](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d8a007b9e0ba32eee1651227" alt="" width="50" /> | ALONE                                              | [🔗](https://open.spotify.com/album/5PXVRXQIPAXH0j78MfeDrV) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 4 genres](../images/labels/starship_entertainment/genres.png)
+
+
+<details>
+<summary>See all 4 genres</summary>
+
+|   Number of Tracks | Genre                                             |
+|-------------------:|:--------------------------------------------------|
+|                 14 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+|                 11 | [k-pop](../genres/k_pop.md)                       |
+|                  1 | korean r&b                                        |
+|                  1 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
 
 </details>
 

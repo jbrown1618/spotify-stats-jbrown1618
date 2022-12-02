@@ -9,6 +9,8 @@
 
 ![Bar chart of top 30 artists](../images/playlists/tarps/artists.png)
 
+![Comparison of Artist](../images/playlists/tarps/artists_comparison.png)
+
 
 <details>
 <summary>See all 52 artists</summary>
@@ -71,11 +73,9 @@
 </details>
 
 
-![Comparison of Artist](../images/tarps/artists_comparison.png)
-
 ## Top Albums
 
-![Bar chart of top 30 albums in](../images/playlists/tarps/albums.png)
+![Bar chart of top 30 albums](../images/playlists/tarps/albums.png)
 
 
 <details>
@@ -201,6 +201,110 @@
 |                  1 | [ATL](../labels/atl.md)                                                             |
 |                  1 | [ATG](../labels/atg.md)                                                             |
 |                  1 | [A&M](../labels/a_m.md)                                                             |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 30 genres](../images/playlists/tarps/genres.png)
+
+
+<details>
+<summary>See all 90 genres</summary>
+
+|   Number of Tracks | Genre                                               |
+|-------------------:|:----------------------------------------------------|
+|                 22 | [pop](../genres/pop.md)                             |
+|                 12 | [dance pop](../genres/dance_pop.md)                 |
+|                  9 | [neo mellow](../genres/neo_mellow.md)               |
+|                  7 | [rock](../genres/rock.md)                           |
+|                  7 | [classic rock](../genres/classic_rock.md)           |
+|                  6 | urban contemporary                                  |
+|                  6 | [acoustic pop](../genres/acoustic_pop.md)           |
+|                  5 | [post-teen pop](../genres/post_teen_pop.md)         |
+|                  5 | [pop rock](../genres/pop_rock.md)                   |
+|                  4 | [mellow gold](../genres/mellow_gold.md)             |
+|                  3 | stomp and holler                                    |
+|                  3 | [soft rock](../genres/soft_rock.md)                 |
+|                  3 | [singer-songwriter](../genres/singer_songwriter.md) |
+|                  3 | [r&b](../genres/r_b.md)                             |
+|                  3 | psychedelic rock                                    |
+|                  3 | pop soul                                            |
+|                  3 | new americana                                       |
+|                  3 | neo soul                                            |
+|                  3 | merseybeat                                          |
+|                  3 | indie folk                                          |
+|                  3 | folk rock                                           |
+|                  3 | folk                                                |
+|                  3 | british soul                                        |
+|                  3 | british invasion                                    |
+|                  3 | brill building pop                                  |
+|                  3 | beatlesque                                          |
+|                  3 | atl hip hop                                         |
+|                  2 | uk pop                                              |
+|                  2 | soul                                                |
+|                  2 | rockabilly                                          |
+|                  2 | rock-and-roll                                       |
+|                  2 | rap                                                 |
+|                  2 | permanent wave                                      |
+|                  2 | motown                                              |
+|                  2 | modern folk rock                                    |
+|                  2 | [lilith](../genres/lilith.md)                       |
+|                  2 | country dawn                                        |
+|                  2 | country                                             |
+|                  2 | contemporary country                                |
+|                  2 | classic soul                                        |
+|                  2 | chicago rap                                         |
+|                  2 | barbadian pop                                       |
+|                  1 | yacht rock                                          |
+|                  1 | uk americana                                        |
+|                  1 | uk alternative pop                                  |
+|                  1 | talent show                                         |
+|                  1 | swedish pop                                         |
+|                  1 | roots rock                                          |
+|                  1 | rhythm and blues                                    |
+|                  1 | progressive bluegrass                               |
+|                  1 | pop rap                                             |
+|                  1 | piano rock                                          |
+|                  1 | oklahoma country                                    |
+|                  1 | nz pop                                              |
+|                  1 | modern country rock                                 |
+|                  1 | memphis soul                                        |
+|                  1 | melancholia                                         |
+|                  1 | mandolin                                            |
+|                  1 | lounge                                              |
+|                  1 | latin pop                                           |
+|                  1 | lafayette indie                                     |
+|                  1 | irish rock                                          |
+|                  1 | instrumental bluegrass                              |
+|                  1 | indie pop                                           |
+|                  1 | [hollywood](../genres/hollywood.md)                 |
+|                  1 | hip pop                                             |
+|                  1 | hip hop                                             |
+|                  1 | heartland rock                                      |
+|                  1 | girl group                                          |
+|                  1 | funk                                                |
+|                  1 | europop                                             |
+|                  1 | [electropop](../genres/electropop.md)               |
+|                  1 | easy listening                                      |
+|                  1 | doo-wop                                             |
+|                  1 | deep indie singer-songwriter                        |
+|                  1 | country rock                                        |
+|                  1 | country road                                        |
+|                  1 | contemporary r&b                                    |
+|                  1 | comic                                               |
+|                  1 | boy band                                            |
+|                  1 | bluegrass                                           |
+|                  1 | bergen indie                                        |
+|                  1 | baroque pop                                         |
+|                  1 | barbershop                                          |
+|                  1 | australian pop                                      |
+|                  1 | australian dance                                    |
+|                  1 | antiviral pop                                       |
+|                  1 | album rock                                          |
+|                  1 | [adult standards](../genres/adult_standards.md)     |
+|                  1 | [a cappella](../genres/a_cappella.md)               |
 
 </details>
 

@@ -20,6 +20,13 @@
 |-------------------:|:--------------------------------------------------------------|
 |                 15 | [Decca Music Group Ltd.](../labels/decca_music_group_ltd_.md) |
 
+## Genres
+
+- chamber choir
+- choral
+- orthodox chant
+- russian choir
+
 ## Tracks
 
 | Art                                                                                              | Track                                                 | Album                                  | Artists                                                                                                                                                                | Label                                                         | 💚   | 🔗                                                          |

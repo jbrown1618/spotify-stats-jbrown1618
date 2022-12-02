@@ -20,6 +20,12 @@
 |-------------------:|:--------------------------------------------------|
 |                 33 | [Atlantic Records](../labels/atlantic_records.md) |
 
+## Genres
+
+- [broadway](../genres/broadway.md)
+- [hollywood](../genres/hollywood.md)
+- [show tunes](../genres/show_tunes.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                                     | Album                                       | Artists                                                                                                                                                                                                                                                                                                                                  | Label                                             | 💚   | 🔗                                                          |

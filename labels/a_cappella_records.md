@@ -29,7 +29,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 11 albums in](../images/labels/a_cappella_records/albums.png)
+![Bar chart of top 11 albums](../images/labels/a_cappella_records/albums.png)
 
 
 <details>
@@ -48,6 +48,22 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b6506a5b3e8f6bf816cbc118" alt="" width="50" /> | High Stakes Old Maid   | [🔗](https://open.spotify.com/album/6sg9WsK06H588Y5VOmwj37) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734c29cb8d443b45f43e78e9f5" alt="" width="50" /> | Encore                 | [🔗](https://open.spotify.com/album/1AN2Vv5PecNjJEmzys8Gru) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b412efc7cf36157f45463837" alt="" width="50" /> | Disturbia              | [🔗](https://open.spotify.com/album/3ypmasyBX16BmWt52owYaN) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 2 genres](../images/labels/a_cappella_records/genres.png)
+
+
+<details>
+<summary>See all 2 genres</summary>
+
+|   Number of Tracks | Genre                                                 |
+|-------------------:|:------------------------------------------------------|
+|                 30 | [a cappella](../genres/a_cappella.md)                 |
+|                 29 | [college a cappella](../genres/college_a_cappella.md) |
 
 </details>
 

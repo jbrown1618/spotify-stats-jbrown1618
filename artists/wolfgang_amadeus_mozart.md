@@ -35,6 +35,11 @@
 |                  5 | [Warner Classics](../labels/warner_classics.md)                                         |
 |                  4 | [JPK Musik](../labels/jpk_musik.md)                                                     |
 
+## Genres
+
+- [classical](../genres/classical.md)
+- [classical era](../genres/classical_era.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                                                                                               | Album                                                                             | Artists                                                                                                                                                                                                                                                                                                                                                                                                                                        | Label                                                                                   | 💚   | 🔗                                                          |

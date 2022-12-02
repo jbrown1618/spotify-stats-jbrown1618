@@ -22,7 +22,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 6 albums in](../images/labels/belift_lab/albums.png)
+![Bar chart of top 6 albums](../images/labels/belift_lab/albums.png)
 
 
 <details>
@@ -36,6 +36,22 @@ Appears as:
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | BORDER : CARNIVAL   | [🔗](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731c1ea5bfa5680ac877acdd55" alt="" width="50" /> | DIMENSION : ANSWER  | [🔗](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fc8b0918267ea555921863e8" alt="" width="50" /> | One In A Billion    | [🔗](https://open.spotify.com/album/19Jm8Jk0zQYs6zMaxhYJFd) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 2 genres](../images/labels/belift_lab/genres.png)
+
+
+<details>
+<summary>See all 2 genres</summary>
+
+|   Number of Tracks | Genre                                           |
+|-------------------:|:------------------------------------------------|
+|                 20 | [k-pop boy group](../genres/k_pop_boy_group.md) |
+|                 20 | anime                                           |
 
 </details>
 

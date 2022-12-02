@@ -29,6 +29,12 @@
 |                  3 | [Carus](../labels/carus.md)                                       |
 |                  1 | [Deutsche Grammophon (DG)](../labels/deutsche_grammophon__dg_.md) |
 
+## Genres
+
+- [classical](../genres/classical.md)
+- [late romantic era](../genres/late_romantic_era.md)
+- [russian romanticism](../genres/russian_romanticism.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                                                                   | Album                                 | Artists                                                                                                                                                                                 | Label                                                             | 💚   | 🔗                                                          |

@@ -53,7 +53,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 19 albums in](../images/labels/polydor_records/albums.png)
+![Bar chart of top 19 albums](../images/labels/polydor_records/albums.png)
 
 
 <details>
@@ -80,6 +80,58 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea" alt="" width="50" /> | Dreamland (+ Bonus Levels)                                             | [🔗](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273570d18beb1f15ef8adfb27a5" alt="" width="50" /> | Delirium                                                               | [🔗](https://open.spotify.com/album/4A43DyDoAVa1Fb8pq6Yejl) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a6479db910d22f5aa4546af1" alt="" width="50" /> | 20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor | [🔗](https://open.spotify.com/album/2BU2SNYoIPtZvGEJckdIhx) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 30 genres](../images/labels/polydor_records/genres.png)
+
+
+<details>
+<summary>See all 38 genres</summary>
+
+|   Number of Tracks | Genre                                       |
+|-------------------:|:--------------------------------------------|
+|                 24 | [show tunes](../genres/show_tunes.md)       |
+|                 24 | [pop](../genres/pop.md)                     |
+|                 22 | [broadway](../genres/broadway.md)           |
+|                 21 | west end                                    |
+|                 17 | [art pop](../genres/art_pop.md)             |
+|                  7 | [dance pop](../genres/dance_pop.md)         |
+|                  6 | edm                                         |
+|                  5 | uk pop                                      |
+|                  5 | [post-teen pop](../genres/post_teen_pop.md) |
+|                  5 | indietronica                                |
+|                  5 | [hollywood](../genres/hollywood.md)         |
+|                  4 | metropopolis                                |
+|                  4 | [electropop](../genres/electropop.md)       |
+|                  2 | tropical house                              |
+|                  2 | [rock](../genres/rock.md)                   |
+|                  2 | psychedelic rock                            |
+|                  2 | pop dance                                   |
+|                  2 | [mellow gold](../genres/mellow_gold.md)     |
+|                  2 | hard rock                                   |
+|                  2 | [classic rock](../genres/classic_rock.md)   |
+|                  2 | british invasion                            |
+|                  2 | blues rock                                  |
+|                  2 | art rock                                    |
+|                  2 | album rock                                  |
+|                  1 | uk dance                                    |
+|                  1 | shiver pop                                  |
+|                  1 | [pop rock](../genres/pop_rock.md)           |
+|                  1 | pop rap                                     |
+|                  1 | permanent wave                              |
+|                  1 | neo soul                                    |
+|                  1 | [neo mellow](../genres/neo_mellow.md)       |
+|                  1 | irish rock                                  |
+|                  1 | house                                       |
+|                  1 | gauze pop                                   |
+|                  1 | europop                                     |
+|                  1 | electro house                               |
+|                  1 | disco                                       |
+|                  1 | british soul                                |
 
 </details>
 

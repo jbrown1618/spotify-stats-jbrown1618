@@ -21,6 +21,10 @@
 |-------------------:|:------------------------------------------------------------------------|
 |                 17 | [UME - Global Clearing House](../labels/ume___global_clearing_house.md) |
 
+## Genres
+
+- classical tenor
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                                                                                               | Album            | Artists                                                                                                                                                                                                                                                                                                                                                                                                                                        | Label                                                                   | 💚   | 🔗                                                          |

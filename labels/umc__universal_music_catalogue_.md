@@ -30,7 +30,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 5 albums in](../images/labels/umc__universal_music_catalogue_/albums.png)
+![Bar chart of top 5 albums](../images/labels/umc__universal_music_catalogue_/albums.png)
 
 
 <details>
@@ -43,6 +43,36 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27374ecb94bc3e5d851a39a0334" alt="" width="50" /> | Tommy                                                         | [🔗](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" alt="" width="50" /> | Elton John                                                    | [🔗](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf" alt="" width="50" /> | 1 (Remastered)                                                | [🔗](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 16 genres](../images/labels/umc__universal_music_catalogue_/genres.png)
+
+
+<details>
+<summary>See all 16 genres</summary>
+
+|   Number of Tracks | Genre                                     |
+|-------------------:|:------------------------------------------|
+|                 10 | west end                                  |
+|                 10 | [show tunes](../genres/show_tunes.md)     |
+|                 10 | [broadway](../genres/broadway.md)         |
+|                  4 | [mellow gold](../genres/mellow_gold.md)   |
+|                  3 | piano rock                                |
+|                  3 | glam rock                                 |
+|                  2 | [rock](../genres/rock.md)                 |
+|                  2 | psychedelic rock                          |
+|                  2 | [classic rock](../genres/classic_rock.md) |
+|                  2 | british invasion                          |
+|                  1 | merseybeat                                |
+|                  1 | hard rock                                 |
+|                  1 | blues rock                                |
+|                  1 | beatlesque                                |
+|                  1 | art rock                                  |
+|                  1 | album rock                                |
 
 </details>
 

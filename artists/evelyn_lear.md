@@ -20,6 +20,10 @@
 |-------------------:|:------------------------------------------------------------------|
 |                 14 | [Deutsche Grammophon (DG)](../labels/deutsche_grammophon__dg_.md) |
 
+## Genres
+
+- classical soprano
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                                          | Album                   | Artists                                                                                                                                                                                                                                                                                                                | Label                                                             | 💚   | 🔗                                                          |

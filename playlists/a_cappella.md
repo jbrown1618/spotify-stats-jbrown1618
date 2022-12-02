@@ -9,6 +9,8 @@
 
 ![Bar chart of top 30 artists](../images/playlists/a_cappella/artists.png)
 
+![Comparison of Artist](../images/playlists/a_cappella/artists_comparison.png)
+
 
 <details>
 <summary>See all 97 artists</summary>
@@ -116,11 +118,9 @@
 </details>
 
 
-![Comparison of Artist](../images/a_cappella/artists_comparison.png)
-
 ## Top Albums
 
-![Bar chart of top 30 albums in](../images/playlists/a_cappella/albums.png)
+![Bar chart of top 30 albums](../images/playlists/a_cappella/albums.png)
 
 
 <details>
@@ -279,6 +279,56 @@
 |                  1 | [Signum OMP](../labels/signum_omp.md)                                                                       |
 |                  1 | [RCA Victor - Munich](../labels/rca_victor___munich.md)                                                     |
 |                  1 | [Loudr](../labels/loudr.md)                                                                                 |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 30 genres](../images/playlists/a_cappella/genres.png)
+
+
+<details>
+<summary>See all 36 genres</summary>
+
+|   Number of Tracks | Genre                                                 |
+|-------------------:|:------------------------------------------------------|
+|                189 | [a cappella](../genres/a_cappella.md)                 |
+|                119 | [college a cappella](../genres/college_a_cappella.md) |
+|                 32 | fantasy                                               |
+|                 11 | french jazz                                           |
+|                  8 | lds youth                                             |
+|                  7 | barbershop                                            |
+|                  5 | [post-teen pop](../genres/post_teen_pop.md)           |
+|                  4 | puirt-a-beul                                          |
+|                  3 | vocal ensemble                                        |
+|                  3 | polyphony                                             |
+|                  3 | choral                                                |
+|                  3 | cambridge choir                                       |
+|                  3 | british choir                                         |
+|                  2 | [soft rock](../genres/soft_rock.md)                   |
+|                  2 | [singer-songwriter](../genres/singer_songwriter.md)   |
+|                  2 | [rock](../genres/rock.md)                             |
+|                  2 | [mellow gold](../genres/mellow_gold.md)               |
+|                  2 | [classic rock](../genres/classic_rock.md)             |
+|                  2 | christian a cappella                                  |
+|                  1 | west end                                              |
+|                  1 | sunshine pop                                          |
+|                  1 | sleep                                                 |
+|                  1 | [show tunes](../genres/show_tunes.md)                 |
+|                  1 | roots rock                                            |
+|                  1 | renaissance                                           |
+|                  1 | piano rock                                            |
+|                  1 | permanent wave                                        |
+|                  1 | indie r&b                                             |
+|                  1 | franco-flemish school                                 |
+|                  1 | folk rock                                             |
+|                  1 | folk                                                  |
+|                  1 | [early music](../genres/early_music.md)               |
+|                  1 | [classical](../genres/classical.md)                   |
+|                  1 | [broadway](../genres/broadway.md)                     |
+|                  1 | brill building pop                                    |
+|                  1 | baroque pop                                           |
 
 </details>
 

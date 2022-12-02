@@ -9,6 +9,8 @@
 
 ![Bar chart of top 30 artists](../images/playlists/musicals/artists.png)
 
+![Comparison of Artist](../images/playlists/musicals/artists_comparison.png)
+
 
 <details>
 <summary>See all 57 artists</summary>
@@ -76,11 +78,9 @@
 </details>
 
 
-![Comparison of Artist](../images/musicals/artists_comparison.png)
-
 ## Top Albums
 
-![Bar chart of top 7 albums in](../images/playlists/musicals/albums.png)
+![Bar chart of top 7 albums](../images/playlists/musicals/albums.png)
 
 
 <details>
@@ -115,6 +115,32 @@
 |                 10 | [UMC (Universal Music Catalogue)](../labels/umc__universal_music_catalogue_.md) |
 |                  6 | [Epic](../labels/epic.md)                                                       |
 |                  1 | [First Night Records](../labels/first_night_records.md)                         |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 12 genres](../images/playlists/musicals/genres.png)
+
+
+<details>
+<summary>See all 12 genres</summary>
+
+|   Number of Tracks | Genre                                     |
+|-------------------:|:------------------------------------------|
+|                 89 | [show tunes](../genres/show_tunes.md)     |
+|                 61 | [hollywood](../genres/hollywood.md)       |
+|                 52 | [broadway](../genres/broadway.md)         |
+|                 37 | west end                                  |
+|                 10 | vocal jazz                                |
+|                  7 | [pop](../genres/pop.md)                   |
+|                  6 | [pop rock](../genres/pop_rock.md)         |
+|                  6 | [neo mellow](../genres/neo_mellow.md)     |
+|                  6 | [lilith](../genres/lilith.md)             |
+|                  6 | [acoustic pop](../genres/acoustic_pop.md) |
+|                  2 | movie tunes                               |
+|                  2 | alternative hip hop                       |
 
 </details>
 

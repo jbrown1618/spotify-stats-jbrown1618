@@ -9,6 +9,8 @@
 
 ![Bar chart of top 30 artists](../images/playlists/opera/artists.png)
 
+![Comparison of Artist](../images/playlists/opera/artists_comparison.png)
+
 
 <details>
 <summary>See all 85 artists</summary>
@@ -104,11 +106,9 @@
 </details>
 
 
-![Comparison of Artist](../images/opera/artists_comparison.png)
-
 ## Top Albums
 
-![Bar chart of top 5 albums in](../images/playlists/opera/albums.png)
+![Bar chart of top 5 albums](../images/playlists/opera/albums.png)
 
 
 <details>
@@ -140,6 +140,28 @@
 |                 42 | [Warner Music Group - X5 Music Group](../labels/warner_music_group___x5_music_group.md) |
 |                 35 | [Opera d'Oro](../labels/opera_d_oro.md)                                                 |
 |                 28 | [Decca Music Group Ltd.](../labels/decca_music_group_ltd_.md)                           |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 8 genres](../images/playlists/opera/genres.png)
+
+
+<details>
+<summary>See all 8 genres</summary>
+
+|   Number of Tracks | Genre                                                   |
+|-------------------:|:--------------------------------------------------------|
+|                233 | [classical](../genres/classical.md)                     |
+|                128 | [classical era](../genres/classical_era.md)             |
+|                 70 | [post-romantic era](../genres/post_romantic_era.md)     |
+|                 70 | [italian romanticism](../genres/italian_romanticism.md) |
+|                 70 | [italian opera](../genres/italian_opera.md)             |
+|                 35 | [late romantic era](../genres/late_romantic_era.md)     |
+|                 35 | [french romanticism](../genres/french_romanticism.md)   |
+|                 35 | [french opera](../genres/french_opera.md)               |
 
 </details>
 

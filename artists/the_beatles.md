@@ -35,6 +35,15 @@
 |                 30 | [EMI Catalogue](../labels/emi_catalogue.md)                                     |
 |                  1 | [UMC (Universal Music Catalogue)](../labels/umc__universal_music_catalogue_.md) |
 
+## Genres
+
+- beatlesque
+- british invasion
+- [classic rock](../genres/classic_rock.md)
+- merseybeat
+- psychedelic rock
+- [rock](../genres/rock.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                                                  | Album                                              | Artists                       | Label                                                                           | 💚   | 🔗                                                          |

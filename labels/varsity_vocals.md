@@ -77,7 +77,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 15 albums in](../images/labels/varsity_vocals/albums.png)
+![Bar chart of top 15 albums](../images/labels/varsity_vocals/albums.png)
 
 
 <details>
@@ -100,6 +100,24 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736c863f73a8ec70e519fbc808" alt="" width="50" /> | BOCA 2020: Best of College A Cappella | [🔗](https://open.spotify.com/album/3c4vODZeeDk38CVmjbUERt) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27375e1cccb63989b4aa6a22cbc" alt="" width="50" /> | BOCA 2006: Best Of College A Cappella | [🔗](https://open.spotify.com/album/3AeoTNhXFgBM7CuODGFelQ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273074aa2a16488cba06eade483" alt="" width="50" /> | BOCA 2004: Best Of College A Cappella | [🔗](https://open.spotify.com/album/5qrIP0zXoDQUSZ9l1ZaECQ) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 4 genres](../images/labels/varsity_vocals/genres.png)
+
+
+<details>
+<summary>See all 4 genres</summary>
+
+|   Number of Tracks | Genre                                                 |
+|-------------------:|:------------------------------------------------------|
+|                 40 | [a cappella](../genres/a_cappella.md)                 |
+|                 36 | [college a cappella](../genres/college_a_cappella.md) |
+|                  2 | christian a cappella                                  |
+|                  1 | lds youth                                             |
 
 </details>
 

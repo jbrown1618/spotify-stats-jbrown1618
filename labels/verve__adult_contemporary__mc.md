@@ -33,7 +33,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 1 albums in](../images/labels/verve__adult_contemporary__mc/albums.png)
+![Bar chart of top 1 albums](../images/labels/verve__adult_contemporary__mc/albums.png)
 
 
 <details>
@@ -42,6 +42,25 @@ Appears as:
 |   Number of Tracks | Art                                                                                              | Album                                             | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------|:-----------------------------------------------------------|
 |                 20 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | Les Misérables (Original Broadway Cast Recording) | [🔗](https://open.spotify.com/album/3jbKDx0zB1QoJQTw8i1AvD) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 5 genres](../images/labels/verve__adult_contemporary__mc/genres.png)
+
+
+<details>
+<summary>See all 5 genres</summary>
+
+|   Number of Tracks | Genre                                 |
+|-------------------:|:--------------------------------------|
+|                 11 | [show tunes](../genres/show_tunes.md) |
+|                  9 | [hollywood](../genres/hollywood.md)   |
+|                  5 | west end                              |
+|                  4 | [broadway](../genres/broadway.md)     |
+|                  2 | movie tunes                           |
 
 </details>
 

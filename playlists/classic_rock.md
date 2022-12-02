@@ -9,6 +9,8 @@
 
 ![Bar chart of top 27 artists](../images/playlists/classic_rock/artists.png)
 
+![Comparison of Artist](../images/playlists/classic_rock/artists_comparison.png)
+
 
 <details>
 <summary>See all 27 artists</summary>
@@ -46,11 +48,9 @@
 </details>
 
 
-![Comparison of Artist](../images/classic_rock/artists_comparison.png)
-
 ## Top Albums
 
-![Bar chart of top 30 albums in](../images/playlists/classic_rock/albums.png)
+![Bar chart of top 30 albums](../images/playlists/classic_rock/albums.png)
 
 
 <details>
@@ -160,6 +160,71 @@
 |                  1 | [Guns N Roses P&D](../labels/guns_n_roses_p_d.md)                               |
 |                  1 | [CAPITOL CATALOG MKT (C92)](../labels/capitol_catalog_mkt__c92_.md)             |
 |                  1 | [American Recordings Catalog P&D](../labels/american_recordings_catalog_p_d.md) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 30 genres](../images/playlists/classic_rock/genres.png)
+
+
+<details>
+<summary>See all 51 genres</summary>
+
+|   Number of Tracks | Genre                                               |
+|-------------------:|:----------------------------------------------------|
+|                 92 | [rock](../genres/rock.md)                           |
+|                 85 | [classic rock](../genres/classic_rock.md)           |
+|                 39 | british invasion                                    |
+|                 37 | psychedelic rock                                    |
+|                 34 | album rock                                          |
+|                 33 | beatlesque                                          |
+|                 32 | hard rock                                           |
+|                 31 | merseybeat                                          |
+|                 25 | [soft rock](../genres/soft_rock.md)                 |
+|                 23 | [mellow gold](../genres/mellow_gold.md)             |
+|                 14 | glam rock                                           |
+|                 10 | art rock                                            |
+|                  9 | yacht rock                                          |
+|                  9 | [singer-songwriter](../genres/singer_songwriter.md) |
+|                  9 | folk rock                                           |
+|                  9 | blues rock                                          |
+|                  8 | metal                                               |
+|                  5 | heartland rock                                      |
+|                  5 | country rock                                        |
+|                  4 | symphonic rock                                      |
+|                  4 | progressive rock                                    |
+|                  3 | roots rock                                          |
+|                  3 | folk                                                |
+|                  2 | uk doom metal                                       |
+|                  2 | thrash metal                                        |
+|                  2 | synth funk                                          |
+|                  2 | sunshine pop                                        |
+|                  2 | stoner rock                                         |
+|                  2 | stoner metal                                        |
+|                  2 | sludge metal                                        |
+|                  2 | progressive sludge                                  |
+|                  2 | progressive groove metal                            |
+|                  2 | old school thrash                                   |
+|                  2 | nu metal                                            |
+|                  2 | minneapolis sound                                   |
+|                  2 | funk rock                                           |
+|                  2 | funk                                                |
+|                  2 | bubblegum pop                                       |
+|                  2 | brill building pop                                  |
+|                  2 | birmingham metal                                    |
+|                  2 | atlanta metal                                       |
+|                  2 | alternative metal                                   |
+|                  1 | southern rock                                       |
+|                  1 | sophisti-pop                                        |
+|                  1 | [pop rock](../genres/pop_rock.md)                   |
+|                  1 | permanent wave                                      |
+|                  1 | nwobhm                                              |
+|                  1 | jam band                                            |
+|                  1 | glam metal                                          |
+|                  1 | australian rock                                     |
+|                  1 | [adult standards](../genres/adult_standards.md)     |
 
 </details>
 

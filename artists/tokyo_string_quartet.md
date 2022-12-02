@@ -20,6 +20,12 @@
 |-------------------:|:----------------------------------------------|
 |                 71 | [harmonia mundi](../labels/harmonia_mundi.md) |
 
+## Genres
+
+- classical performance
+- japanese classical performance
+- string quartet
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                                                                 | Album                               | Artists                                                                                          | Label                                         | 💚   | 🔗                                                          |

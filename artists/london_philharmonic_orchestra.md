@@ -23,6 +23,11 @@
 |                 28 | [Decca Music Group Ltd.](../labels/decca_music_group_ltd_.md)                           |
 |                  1 | [Warner Music Group - X5 Music Group](../labels/warner_music_group___x5_music_group.md) |
 
+## Genres
+
+- british orchestra
+- orchestra
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                   | Album             | Artists                                                                                                                                                                                                                                                                                                              | Label                                                                                   | 💚   | 🔗                                                          |

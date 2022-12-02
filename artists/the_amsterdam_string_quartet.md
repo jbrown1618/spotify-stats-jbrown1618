@@ -20,6 +20,10 @@
 |-------------------:|:------------------------------------------------------------------|
 |                 12 | [Channel Classics Records](../labels/channel_classics_records.md) |
 
+## Genres
+
+- string quartet
+
 ## Tracks
 
 | Art                                                                                              | Track                                                               | Album                  | Artists                                                                                          | Label                                                             | 💚   | 🔗                                                          |

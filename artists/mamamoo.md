@@ -40,6 +40,11 @@
 |                  2 | [Genie Music Corporation](../labels/genie_music_corporation.md)     |
 |                  1 | [RADCOMM](../labels/radcomm.md)                                     |
 
+## Genres
+
+- [k-pop](../genres/k_pop.md)
+- [k-pop girl group](../genres/k_pop_girl_group.md)
+
 ## Tracks
 
 | Art                                                                                              | Track            | Album            | Artists               | Label                                                                                                                                | 💚   | 🔗                                                          |

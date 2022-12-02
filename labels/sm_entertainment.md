@@ -77,7 +77,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 30 albums in](../images/labels/sm_entertainment/albums.png)
+![Bar chart of top 30 albums](../images/labels/sm_entertainment/albums.png)
 
 
 <details>
@@ -185,6 +185,25 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="" width="50" /> | Forgive Me - The 3rd Mini Album                    | [🔗](https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27325adc6ae87e26bc7e556af71" alt="" width="50" /> | Favorite - The 3rd Album Repackage                 | [🔗](https://open.spotify.com/album/5LbnQtyHBfJUCigA08llHX) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735a58accf4805f4097859eeac" alt="" width="50" /> | Electric Shock - The 2nd Mini Album                | [🔗](https://open.spotify.com/album/7LVMjDwcyhVhDTHddKPjIs) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 5 genres](../images/labels/sm_entertainment/genres.png)
+
+
+<details>
+<summary>See all 5 genres</summary>
+
+|   Number of Tracks | Genre                                             |
+|-------------------:|:--------------------------------------------------|
+|                196 | [k-pop](../genres/k_pop.md)                       |
+|                 80 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+|                 53 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
+|                 20 | [pop](../genres/pop.md)                           |
+|                  7 | korean pop                                        |
 
 </details>
 
@@ -359,8 +378,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a0cdc709f34348b6d88635d" alt="" width="50" /> | Black Suit                                    | PLAY - The 8th Album                               | SUPER JUNIOR                                                  | [SM Entertainment](sm_entertainment.md)                                                                                | 💚   | [🔗](https://open.spotify.com/track/0cCm1PbOd6nqAPDdA3PRfs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27364a3178b264477550c4bcdb6" alt="" width="50" /> | Lo Siento                                     | REPLAY - The 8th Repackage Album                   | SUPER JUNIOR, Leslie Grace, Play-N-Skillz                     | [SM Entertainment](sm_entertainment.md)                                                                                | 💚   | [🔗](https://open.spotify.com/track/2VVqxQhALecXvaArlZSVXr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27396678b0a030238837547c6ff" alt="" width="50" /> | House Party                                   | The Renaissance - The 10th Album                   | SUPER JUNIOR                                                  | [SM Entertainment](sm_entertainment.md)                                                                                |     | [🔗](https://open.spotify.com/track/0awQIOFGtg18LCJ0WhFf8s) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273724a0cb04dbc89d9dd6ee06d" alt="" width="50" /> | Tiger Inside                                  | Super One -The 1st Album                           | SuperM                                                        | [SM Entertainment](sm_entertainment.md), [Capitol Records](capitol_records.md)                                         | 💚   | [🔗](https://open.spotify.com/track/1ADlTU9mFc3oDdD9Vla2Yw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | Dream                                         | Dream                                              | Suzy, BAEKHYUN                                                | ChoongangICS, [SM Entertainment](sm_entertainment.md), MYSTIC ENTERTAINMENT, [JYP Entertainment](jyp_entertainment.md) | 💚   | [🔗](https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273724a0cb04dbc89d9dd6ee06d" alt="" width="50" /> | Tiger Inside                                  | Super One -The 1st Album                           | SuperM                                                        | [Capitol Records](capitol_records.md), [SM Entertainment](sm_entertainment.md)                                         | 💚   | [🔗](https://open.spotify.com/track/1ADlTU9mFc3oDdD9Vla2Yw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | Dream                                         | Dream                                              | Suzy, BAEKHYUN                                                | [SM Entertainment](sm_entertainment.md), [JYP Entertainment](jyp_entertainment.md), ChoongangICS, MYSTIC ENTERTAINMENT | 💚   | [🔗](https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273586377cdbf841e6f03da3e0c" alt="" width="50" /> | Drip Drop                                     | Press It - The 1st Album                           | TAEMIN                                                        | [SM Entertainment](sm_entertainment.md)                                                                                |     | [🔗](https://open.spotify.com/track/7EYDRfuloB4kG28ECZkPZB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27362fad74218294c98e510c1c8" alt="" width="50" /> | MOVE                                          | MOVE - The 2nd Album                               | TAEMIN                                                        | [SM Entertainment](sm_entertainment.md)                                                                                | 💚   | [🔗](https://open.spotify.com/track/1cgBWgoL6520lR2QZDzdGN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739756c6519e249c1c7c060e60" alt="" width="50" /> | Clockwork                                     | Never Gonna Dance Again : Act 1 - The 3rd Album    | TAEMIN                                                        | [SM Entertainment](sm_entertainment.md)                                                                                |     | [🔗](https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J) |

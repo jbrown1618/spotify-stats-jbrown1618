@@ -9,6 +9,8 @@
 
 ![Bar chart of top 30 artists](../images/playlists/karaoke/artists.png)
 
+![Comparison of Artist](../images/playlists/karaoke/artists_comparison.png)
+
 
 <details>
 <summary>See all 49 artists</summary>
@@ -68,11 +70,9 @@
 </details>
 
 
-![Comparison of Artist](../images/karaoke/artists_comparison.png)
-
 ## Top Albums
 
-![Bar chart of top 30 albums in](../images/playlists/karaoke/albums.png)
+![Bar chart of top 30 albums](../images/playlists/karaoke/albums.png)
 
 
 <details>
@@ -193,6 +193,105 @@
 |                  1 | [Def Jam](../labels/def_jam.md)                                                           |
 |                  1 | [Bad Boy](../labels/bad_boy.md)                                                           |
 |                  1 | [ATG](../labels/atg.md)                                                                   |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 30 genres](../images/playlists/karaoke/genres.png)
+
+
+<details>
+<summary>See all 85 genres</summary>
+
+|   Number of Tracks | Genre                                               |
+|-------------------:|:----------------------------------------------------|
+|                 26 | [pop](../genres/pop.md)                             |
+|                 16 | [rock](../genres/rock.md)                           |
+|                 14 | [classic rock](../genres/classic_rock.md)           |
+|                 13 | [neo mellow](../genres/neo_mellow.md)               |
+|                 11 | [pop rock](../genres/pop_rock.md)                   |
+|                 10 | [mellow gold](../genres/mellow_gold.md)             |
+|                 10 | [dance pop](../genres/dance_pop.md)                 |
+|                 10 | [acoustic pop](../genres/acoustic_pop.md)           |
+|                  8 | piano rock                                          |
+|                  7 | [soft rock](../genres/soft_rock.md)                 |
+|                  7 | [lilith](../genres/lilith.md)                       |
+|                  6 | [singer-songwriter](../genres/singer_songwriter.md) |
+|                  6 | [hollywood](../genres/hollywood.md)                 |
+|                  5 | psychedelic rock                                    |
+|                  5 | merseybeat                                          |
+|                  5 | british invasion                                    |
+|                  5 | beatlesque                                          |
+|                  5 | [adult standards](../genres/adult_standards.md)     |
+|                  4 | uk pop                                              |
+|                  4 | permanent wave                                      |
+|                  4 | lounge                                              |
+|                  4 | glam rock                                           |
+|                  3 | soul                                                |
+|                  3 | folk rock                                           |
+|                  3 | canadian pop                                        |
+|                  3 | australian pop                                      |
+|                  2 | viral pop                                           |
+|                  2 | urban contemporary                                  |
+|                  2 | [r&b](../genres/r_b.md)                             |
+|                  2 | [post-teen pop](../genres/post_teen_pop.md)         |
+|                  2 | pop soul                                            |
+|                  2 | motown                                              |
+|                  2 | modern rock                                         |
+|                  2 | modern alternative rock                             |
+|                  2 | melancholia                                         |
+|                  2 | jazz pop                                            |
+|                  2 | indie folk                                          |
+|                  2 | funk                                                |
+|                  2 | folk                                                |
+|                  2 | easy listening                                      |
+|                  2 | british soul                                        |
+|                  2 | atl hip hop                                         |
+|                  1 | yacht rock                                          |
+|                  1 | uk alternative pop                                  |
+|                  1 | tropical house                                      |
+|                  1 | stomp and holler                                    |
+|                  1 | steampunk                                           |
+|                  1 | shimmer pop                                         |
+|                  1 | roots rock                                          |
+|                  1 | quiet storm                                         |
+|                  1 | progressive bluegrass                               |
+|                  1 | oxford indie                                        |
+|                  1 | new americana                                       |
+|                  1 | neo soul                                            |
+|                  1 | memphis soul                                        |
+|                  1 | mandolin                                            |
+|                  1 | lafayette indie                                     |
+|                  1 | la indie                                            |
+|                  1 | irish singer-songwriter                             |
+|                  1 | irish rock                                          |
+|                  1 | instrumental bluegrass                              |
+|                  1 | indy indie                                          |
+|                  1 | indiecoustica                                       |
+|                  1 | indie rock                                          |
+|                  1 | indie poptimism                                     |
+|                  1 | indie pop                                           |
+|                  1 | heartland rock                                      |
+|                  1 | escape room                                         |
+|                  1 | [electropop](../genres/electropop.md)               |
+|                  1 | disco                                               |
+|                  1 | country rock                                        |
+|                  1 | comic                                               |
+|                  1 | classic soul                                        |
+|                  1 | brill building pop                                  |
+|                  1 | boy band                                            |
+|                  1 | bluegrass                                           |
+|                  1 | baroque pop                                         |
+|                  1 | barbadian pop                                       |
+|                  1 | australian dance                                    |
+|                  1 | art rock                                            |
+|                  1 | anti-folk                                           |
+|                  1 | alternative rock                                    |
+|                  1 | alternative r&b                                     |
+|                  1 | album rock                                          |
+|                  1 | afrofuturism                                        |
 
 </details>
 

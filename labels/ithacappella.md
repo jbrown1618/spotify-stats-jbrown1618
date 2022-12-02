@@ -23,7 +23,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 4 albums in](../images/labels/ithacappella/albums.png)
+![Bar chart of top 4 albums](../images/labels/ithacappella/albums.png)
 
 
 <details>
@@ -35,6 +35,22 @@ Appears as:
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2733c8896f56a068816ef63165b" alt="" width="50" /> | Off the Hook       | [🔗](https://open.spotify.com/album/1wfYTTpHsGxvIjDwsPLAAC) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27379b679128839141600389209" alt="" width="50" /> | Stages             | [🔗](https://open.spotify.com/album/3mnYoDcAHKx6uA91f7rtAa) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733292818e78cd81fa4ba67fd2" alt="" width="50" /> | Before You Go      | [🔗](https://open.spotify.com/album/00x5MddnbpBoWJWtubLhHH) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 2 genres](../images/labels/ithacappella/genres.png)
+
+
+<details>
+<summary>See all 2 genres</summary>
+
+|   Number of Tracks | Genre                                                 |
+|-------------------:|:------------------------------------------------------|
+|                 12 | [college a cappella](../genres/college_a_cappella.md) |
+|                 12 | [a cappella](../genres/a_cappella.md)                 |
 
 </details>
 

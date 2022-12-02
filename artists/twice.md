@@ -51,6 +51,11 @@
 |                  2 | [Imperial Distribution](../labels/imperial_distribution.md) |
 |                  1 | [Riot Games](../labels/riot_games.md)                       |
 
+## Genres
+
+- [k-pop](../genres/k_pop.md)
+- [k-pop girl group](../genres/k_pop_girl_group.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                             | Album                             | Artists                                                              | Label                                             | 💚   | 🔗                                                          |

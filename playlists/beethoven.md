@@ -9,6 +9,8 @@
 
 ![Bar chart of top 11 artists](../images/playlists/beethoven/artists.png)
 
+![Comparison of Artist](../images/playlists/beethoven/artists_comparison.png)
+
 
 <details>
 <summary>See all 11 artists</summary>
@@ -30,11 +32,9 @@
 </details>
 
 
-![Comparison of Artist](../images/beethoven/artists_comparison.png)
-
 ## Top Albums
 
-![Bar chart of top 5 albums in](../images/playlists/beethoven/albums.png)
+![Bar chart of top 5 albums](../images/playlists/beethoven/albums.png)
 
 
 <details>
@@ -64,6 +64,24 @@
 |                103 | [Decca Music Group Ltd.](../labels/decca_music_group_ltd_.md)     |
 |                 42 | [Deutsche Grammophon (DG)](../labels/deutsche_grammophon__dg_.md) |
 |                 21 | [PENTATONE](../labels/pentatone.md)                               |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 4 genres](../images/playlists/beethoven/genres.png)
+
+
+<details>
+<summary>See all 4 genres</summary>
+
+|   Number of Tracks | Genre                                                 |
+|-------------------:|:------------------------------------------------------|
+|                166 | [german romanticism](../genres/german_romanticism.md) |
+|                166 | [early romantic era](../genres/early_romantic_era.md) |
+|                166 | [classical era](../genres/classical_era.md)           |
+|                166 | [classical](../genres/classical.md)                   |
 
 </details>
 

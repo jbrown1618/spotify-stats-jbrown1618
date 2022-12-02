@@ -21,6 +21,12 @@
 |-------------------:|:------------------------------------------------------------------|
 |                 16 | [Deutsche Grammophon (DG)](../labels/deutsche_grammophon__dg_.md) |
 
+## Genres
+
+- [classical](../genres/classical.md)
+- classical performance
+- string quartet
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                                                                       | Album                                   | Artists                                                                                                   | Label                                                             | 💚   | 🔗                                                          |

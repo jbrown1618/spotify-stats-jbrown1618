@@ -9,6 +9,8 @@
 
 ![Bar chart of top 25 artists](../images/playlists/classic_pop/artists.png)
 
+![Comparison of Artist](../images/playlists/classic_pop/artists_comparison.png)
+
 
 <details>
 <summary>See all 25 artists</summary>
@@ -44,11 +46,9 @@
 </details>
 
 
-![Comparison of Artist](../images/classic_pop/artists_comparison.png)
-
 ## Top Albums
 
-![Bar chart of top 30 albums in](../images/playlists/classic_pop/albums.png)
+![Bar chart of top 30 albums](../images/playlists/classic_pop/albums.png)
 
 
 <details>
@@ -143,6 +143,61 @@
 |                  1 | [CAPITOL CATALOG MKT (C92)](../labels/capitol_catalog_mkt__c92_.md)             |
 |                  1 | [Bee Gees Catalog](../labels/bee_gees_catalog.md)                               |
 |                  1 | [A&M](../labels/a_m.md)                                                         |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 30 genres](../images/playlists/classic_pop/genres.png)
+
+
+<details>
+<summary>See all 41 genres</summary>
+
+|   Number of Tracks | Genre                                               |
+|-------------------:|:----------------------------------------------------|
+|                 23 | soul                                                |
+|                 17 | [mellow gold](../genres/mellow_gold.md)             |
+|                 12 | [pop](../genres/pop.md)                             |
+|                 12 | motown                                              |
+|                 10 | brill building pop                                  |
+|                  9 | funk                                                |
+|                  9 | [adult standards](../genres/adult_standards.md)     |
+|                  8 | [r&b](../genres/r_b.md)                             |
+|                  8 | folk rock                                           |
+|                  8 | folk                                                |
+|                  8 | [classic rock](../genres/classic_rock.md)           |
+|                  7 | [rock](../genres/rock.md)                           |
+|                  7 | [dance pop](../genres/dance_pop.md)                 |
+|                  6 | [soft rock](../genres/soft_rock.md)                 |
+|                  6 | piano rock                                          |
+|                  6 | glam rock                                           |
+|                  6 | classic soul                                        |
+|                  5 | quiet storm                                         |
+|                  5 | memphis soul                                        |
+|                  5 | melancholia                                         |
+|                  4 | new wave pop                                        |
+|                  4 | disco                                               |
+|                  3 | [singer-songwriter](../genres/singer_songwriter.md) |
+|                  3 | outlaw country                                      |
+|                  3 | bubblegum pop                                       |
+|                  3 | arkansas country                                    |
+|                  2 | vocal jazz                                          |
+|                  1 | sunshine pop                                        |
+|                  1 | southern soul                                       |
+|                  1 | smooth jazz                                         |
+|                  1 | roots rock                                          |
+|                  1 | rock-and-roll                                       |
+|                  1 | permanent wave                                      |
+|                  1 | latin pop                                           |
+|                  1 | jazz trumpet                                        |
+|                  1 | jazz blues                                          |
+|                  1 | indie r&b                                           |
+|                  1 | [hollywood](../genres/hollywood.md)                 |
+|                  1 | doo-wop                                             |
+|                  1 | country rock                                        |
+|                  1 | classic canadian rock                               |
 
 </details>
 

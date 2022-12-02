@@ -24,6 +24,10 @@
 |                 18 | [UME - Global Clearing House](../labels/ume___global_clearing_house.md) |
 |                  1 | [Deutsche Grammophon (DG)](../labels/deutsche_grammophon__dg_.md)       |
 
+## Genres
+
+- austrian choir
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                               | Album                              | Artists                                                                                                                                                                                                                                                                                                                             | Label                                                                   | 💚   | 🔗                                                          |

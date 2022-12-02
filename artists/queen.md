@@ -28,6 +28,12 @@
 |-------------------:|:----------------------------------------------------|
 |                 14 | [Hollywood Records](../labels/hollywood_records.md) |
 
+## Genres
+
+- [classic rock](../genres/classic_rock.md)
+- glam rock
+- [rock](../genres/rock.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                          | Album                | Artists           | Label                                               | 💚   | 🔗                                                          |

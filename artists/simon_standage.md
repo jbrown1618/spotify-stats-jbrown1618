@@ -20,6 +20,13 @@
 |-------------------:|:----------------------------------------|
 |                 18 | [Decca (UMO)](../labels/decca__umo_.md) |
 
+## Genres
+
+- baroque violin
+- classical performance
+- historically informed performance
+- violin
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                                                               | Album                 | Artists                                                                                                                                                                           | Label                                   | 💚   | 🔗                                                          |

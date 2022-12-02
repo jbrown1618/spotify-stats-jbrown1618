@@ -20,6 +20,11 @@
 |-------------------:|:--------------------------------------------------------------|
 |                 19 | [Decca Music Group Ltd.](../labels/decca_music_group_ltd_.md) |
 
+## Genres
+
+- british orchestra
+- chamber orchestra
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                  | Album                                  | Artists                                                                                                                                               | Label                                                         | 💚   | 🔗                                                          |

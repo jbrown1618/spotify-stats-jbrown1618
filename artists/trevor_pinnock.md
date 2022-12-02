@@ -20,6 +20,13 @@
 |-------------------:|:----------------------------------------|
 |                 18 | [Decca (UMO)](../labels/decca__umo_.md) |
 
+## Genres
+
+- classical performance
+- harpsichord
+- historically informed performance
+- orchestral performance
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                                                               | Album                 | Artists                                                                                                                                                                           | Label                                   | 💚   | 🔗                                                          |

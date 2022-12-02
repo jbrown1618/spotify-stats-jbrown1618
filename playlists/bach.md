@@ -9,6 +9,8 @@
 
 ![Bar chart of top 4 artists](../images/playlists/bach/artists.png)
 
+![Comparison of Artist](../images/playlists/bach/artists_comparison.png)
+
 
 <details>
 <summary>See all 4 artists</summary>
@@ -23,11 +25,9 @@
 </details>
 
 
-![Comparison of Artist](../images/bach/artists_comparison.png)
-
 ## Top Albums
 
-![Bar chart of top 2 albums in](../images/playlists/bach/albums.png)
+![Bar chart of top 2 albums](../images/playlists/bach/albums.png)
 
 
 <details>
@@ -53,6 +53,24 @@
 |-------------------:|:--------------------------------------------------------------|
 |                 36 | [Sony Classical](../labels/sony_classical.md)                 |
 |                 19 | [Decca Music Group Ltd.](../labels/decca_music_group_ltd_.md) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 4 genres](../images/playlists/bach/genres.png)
+
+
+<details>
+<summary>See all 4 genres</summary>
+
+|   Number of Tracks | Genre                                         |
+|-------------------:|:----------------------------------------------|
+|                 55 | [german baroque](../genres/german_baroque.md) |
+|                 55 | [early music](../genres/early_music.md)       |
+|                 55 | [classical](../genres/classical.md)           |
+|                 55 | [baroque](../genres/baroque.md)               |
 
 </details>
 

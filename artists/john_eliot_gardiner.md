@@ -20,6 +20,12 @@
 |-------------------:|:----------------------------------|
 |                 13 | [Lso Live](../labels/lso_live.md) |
 
+## Genres
+
+- choral
+- classical performance
+- orchestral performance
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                                                                          | Album                                  | Artists                                                                                                                                                                                                                        | Label                             | 💚   | 🔗                                                          |

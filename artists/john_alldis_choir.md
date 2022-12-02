@@ -20,6 +20,12 @@
 |-------------------:|:--------------------------------------------------------------|
 |                 19 | [Decca Music Group Ltd.](../labels/decca_music_group_ltd_.md) |
 
+## Genres
+
+- british choir
+- opera
+- opera chorus
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                   | Album             | Artists                                                                                                                                                                                                                                                                                                              | Label                                                         | 💚   | 🔗                                                          |

@@ -31,6 +31,11 @@
 |                  1 | [Columbia](../labels/columbia.md)                               |
 |                  1 | [Aftermath Entertainment](../labels/aftermath_entertainment.md) |
 
+## Genres
+
+- [dance pop](../genres/dance_pop.md)
+- [pop](../genres/pop.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                                        | Album                           | Artists                                                 | Label                                                             | 💚   | 🔗                                                          |

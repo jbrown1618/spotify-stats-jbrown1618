@@ -35,7 +35,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 1 albums in](../images/labels/opera_d_oro/albums.png)
+![Bar chart of top 1 albums](../images/labels/opera_d_oro/albums.png)
 
 
 <details>
@@ -44,6 +44,24 @@ Appears as:
 |   Number of Tracks | Art                                                                                              | Album   | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------|:-----------------------------------------------------------|
 |                 35 | <img src="https://i.scdn.co/image/ab67616d0000b273102354829a7a93f4535b947a" alt="" width="50" /> | Carmen  | [🔗](https://open.spotify.com/album/7v178habOq2br0SjMG1KF5) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 4 genres](../images/labels/opera_d_oro/genres.png)
+
+
+<details>
+<summary>See all 4 genres</summary>
+
+|   Number of Tracks | Genre                                                 |
+|-------------------:|:------------------------------------------------------|
+|                 35 | [late romantic era](../genres/late_romantic_era.md)   |
+|                 35 | [french romanticism](../genres/french_romanticism.md) |
+|                 35 | [french opera](../genres/french_opera.md)             |
+|                 35 | [classical](../genres/classical.md)                   |
 
 </details>
 

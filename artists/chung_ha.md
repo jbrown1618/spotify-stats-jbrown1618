@@ -38,6 +38,10 @@
 |                  2 | [Parlophone Denmark](../labels/parlophone_denmark.md)               |
 |                  1 | [SM Entertainment](../labels/sm_entertainment.md)                   |
 
+## Genres
+
+- [k-pop](../genres/k_pop.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                       | Album                             | Artists                                            | Label                                                                                                                                | 💚   | 🔗                                                          |

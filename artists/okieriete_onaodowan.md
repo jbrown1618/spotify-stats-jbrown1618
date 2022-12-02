@@ -20,6 +20,10 @@
 |-------------------:|:--------------------------------------------------|
 |                 12 | [Atlantic Records](../labels/atlantic_records.md) |
 
+## Genres
+
+- [show tunes](../genres/show_tunes.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                          | Album                                       | Artists                                                                                                                                                                                                                                                                                                                                  | Label                                             | 💚   | 🔗                                                          |

@@ -29,7 +29,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 2 albums in](../images/labels/sony_classical/albums.png)
+![Bar chart of top 2 albums](../images/labels/sony_classical/albums.png)
 
 
 <details>
@@ -39,6 +39,32 @@ Appears as:
 |-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------|:-----------------------------------------------------------|
 |                 36 | <img src="https://i.scdn.co/image/ab67616d0000b273261feb89ee859b598bd34a97" alt="" width="50" /> | Bach: Unaccompanied Cello Suites (Remastered) | [🔗](https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="" width="50" /> | Cappella                                      | [🔗](https://open.spotify.com/album/3n6JxpdWnHkazMCQxKK5qI) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 12 genres](../images/labels/sony_classical/genres.png)
+
+
+<details>
+<summary>See all 12 genres</summary>
+
+|   Number of Tracks | Genre                                         |
+|-------------------:|:----------------------------------------------|
+|                 37 | [early music](../genres/early_music.md)       |
+|                 37 | [classical](../genres/classical.md)           |
+|                 36 | [german baroque](../genres/german_baroque.md) |
+|                 36 | [baroque](../genres/baroque.md)               |
+|                  1 | west end                                      |
+|                  1 | sunshine pop                                  |
+|                  1 | [show tunes](../genres/show_tunes.md)         |
+|                  1 | renaissance                                   |
+|                  1 | franco-flemish school                         |
+|                  1 | [broadway](../genres/broadway.md)             |
+|                  1 | brill building pop                            |
+|                  1 | baroque pop                                   |
 
 </details>
 

@@ -9,6 +9,8 @@
 
 ![Bar chart of top 30 artists](../images/playlists/choral/artists.png)
 
+![Comparison of Artist](../images/playlists/choral/artists_comparison.png)
+
 
 <details>
 <summary>See all 50 artists</summary>
@@ -69,11 +71,9 @@
 </details>
 
 
-![Comparison of Artist](../images/choral/artists_comparison.png)
-
 ## Top Albums
 
-![Bar chart of top 15 albums in](../images/playlists/choral/albums.png)
+![Bar chart of top 15 albums](../images/playlists/choral/albums.png)
 
 
 <details>
@@ -123,6 +123,47 @@
 |                  1 | [SPEKTRAL](../labels/spektral.md)                                           |
 |                  1 | [Delos](../labels/delos.md)                                                 |
 |                  1 | [Chanticleer Records](../labels/chanticleer_records.md)                     |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 27 genres](../images/playlists/choral/genres.png)
+
+
+<details>
+<summary>See all 27 genres</summary>
+
+|   Number of Tracks | Genre                                                   |
+|-------------------:|:--------------------------------------------------------|
+|                 51 | [classical](../genres/classical.md)                     |
+|                 22 | [post-romantic era](../genres/post_romantic_era.md)     |
+|                 18 | [russian romanticism](../genres/russian_romanticism.md) |
+|                 15 | [ukrainian classical](../genres/ukrainian_classical.md) |
+|                 14 | [classical era](../genres/classical_era.md)             |
+|                 13 | choral                                                  |
+|                  9 | 21st century classical                                  |
+|                  8 | [neoclassicism](../genres/neoclassicism.md)             |
+|                  8 | contemporary choir                                      |
+|                  8 | american 21st century classical                         |
+|                  5 | polyphony                                               |
+|                  4 | vocal ensemble                                          |
+|                  4 | puirt-a-beul                                            |
+|                  4 | [late romantic era](../genres/late_romantic_era.md)     |
+|                  4 | [early music](../genres/early_music.md)                 |
+|                  4 | cambridge choir                                         |
+|                  4 | british choir                                           |
+|                  4 | [a cappella](../genres/a_cappella.md)                   |
+|                  2 | italian renaissance                                     |
+|                  2 | english baroque                                         |
+|                  2 | [baroque](../genres/baroque.md)                         |
+|                  1 | nordic contemporary classical                           |
+|                  1 | early music choir                                       |
+|                  1 | classical organ                                         |
+|                  1 | american modern classical                               |
+|                  1 | american early music                                    |
+|                  1 | american choir                                          |
 
 </details>
 

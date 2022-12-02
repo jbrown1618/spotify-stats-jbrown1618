@@ -24,7 +24,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 1 albums in](../images/labels/australian_broadcasting_corp__abc_/albums.png)
+![Bar chart of top 1 albums](../images/labels/australian_broadcasting_corp__abc_/albums.png)
 
 
 <details>
@@ -33,6 +33,24 @@ Appears as:
 |   Number of Tracks | Art                                                                                              | Album    | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------|:-----------------------------------------------------------|
 |                 39 | <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="" width="50" /> | Coppélia | [🔗](https://open.spotify.com/album/7jKT8NC2XfAs9RFKsrGz2p) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 4 genres](../images/labels/australian_broadcasting_corp__abc_/genres.png)
+
+
+<details>
+<summary>See all 4 genres</summary>
+
+|   Number of Tracks | Genre                                                 |
+|-------------------:|:------------------------------------------------------|
+|                 39 | [late romantic era](../genres/late_romantic_era.md)   |
+|                 39 | [french romanticism](../genres/french_romanticism.md) |
+|                 39 | [french opera](../genres/french_opera.md)             |
+|                 39 | [classical](../genres/classical.md)                   |
 
 </details>
 

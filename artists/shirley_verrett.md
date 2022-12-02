@@ -20,6 +20,11 @@
 |-------------------:|:----------------------------------------|
 |                 18 | [Opera d'Oro](../labels/opera_d_oro.md) |
 
+## Genres
+
+- classical mezzo-soprano
+- opera
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                         | Album   | Artists                                                                                                                                                                                                                                                            | Label                                   | 💚   | 🔗                                                          |

@@ -24,6 +24,10 @@
 |-------------------:|:----------------------------------------------|
 |                 80 | [harmonia mundi](../labels/harmonia_mundi.md) |
 
+## Genres
+
+- string quartet
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                                                     | Album                                                  | Artists                                                                                          | Label                                         | 💚   | 🔗                                                          |

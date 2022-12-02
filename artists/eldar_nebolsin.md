@@ -20,6 +20,10 @@
 |-------------------:|:----------------------------|
 |                 24 | [Naxos](../labels/naxos.md) |
 
+## Genres
+
+- classical piano
+
 ## Tracks
 
 | Art                                                                                              | Track                                                         | Album                                      | Artists                                                                            | Label                       | 💚   | 🔗                                                          |

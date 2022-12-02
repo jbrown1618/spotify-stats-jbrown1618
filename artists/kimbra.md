@@ -28,6 +28,12 @@
 |                 13 | [Warner Records](../labels/warner_records.md) |
 |                  1 | [UMG Recordings](../labels/umg_recordings.md) |
 
+## Genres
+
+- bergen indie
+- [electropop](../genres/electropop.md)
+- nz pop
+
 ## Tracks
 
 | Art                                                                                              | Track                        | Album                 | Artists                    | Label                                         | 💚   | 🔗                                                          |

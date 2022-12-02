@@ -20,6 +20,13 @@
 |-------------------:|:------------------------------------------------|
 |                 16 | [Warner Classics](../labels/warner_classics.md) |
 
+## Genres
+
+- american orchestra
+- chamber orchestra
+- classical organ
+- classical performance
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                                                              | Album                      | Artists                                                                                                                         | Label                                           | 💚   | 🔗                                                          |

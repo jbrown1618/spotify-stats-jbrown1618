@@ -23,6 +23,13 @@
 |                 21 | [Deutsche Grammophon (DG)](../labels/deutsche_grammophon__dg_.md) |
 |                 18 | [Mariinsky](../labels/mariinsky.md)                               |
 
+## Genres
+
+- [classical](../genres/classical.md)
+- [early modern classical](../genres/early_modern_classical.md)
+- [neoclassicism](../genres/neoclassicism.md)
+- [russian modern classical](../genres/russian_modern_classical.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                                                                                                        | Album                                                           | Artists                                                                                                                                     | Label                                                             | 💚   | 🔗                                                          |

@@ -9,6 +9,8 @@
 
 ![Bar chart of top 6 artists](../images/playlists/electronic/artists.png)
 
+![Comparison of Artist](../images/playlists/electronic/artists_comparison.png)
+
 
 <details>
 <summary>See all 6 artists</summary>
@@ -25,11 +27,9 @@
 </details>
 
 
-![Comparison of Artist](../images/electronic/artists_comparison.png)
-
 ## Top Albums
 
-![Bar chart of top 7 albums in](../images/playlists/electronic/albums.png)
+![Bar chart of top 7 albums](../images/playlists/electronic/albums.png)
 
 
 <details>
@@ -64,6 +64,25 @@
 |                  2 | [Columbia](../labels/columbia.md)                                             |
 |                  1 | [SM Entertainment](../labels/sm_entertainment.md)                             |
 |                  1 | [BMG Rights Management (US) LLC](../labels/bmg_rights_management__us__llc.md) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 5 genres](../images/playlists/electronic/genres.png)
+
+
+<details>
+<summary>See all 5 genres</summary>
+
+|   Number of Tracks | Genre                       |
+|-------------------:|:----------------------------|
+|                  6 | filter house                |
+|                  6 | electro                     |
+|                  4 | pop violin                  |
+|                  4 | bow pop                     |
+|                  1 | [k-pop](../genres/k_pop.md) |
 
 </details>
 

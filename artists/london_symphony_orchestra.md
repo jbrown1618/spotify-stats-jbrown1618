@@ -26,6 +26,12 @@
 |                 12 | [Lso Live](../labels/lso_live.md)                             |
 |                  3 | [Decca Music Group Ltd.](../labels/decca_music_group_ltd_.md) |
 
+## Genres
+
+- british orchestra
+- classical performance
+- orchestra
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                                                                          | Album                                  | Artists                                                                                                                                                                                                                        | Label                                                         | 💚   | 🔗                                                          |

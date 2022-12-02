@@ -20,6 +20,10 @@
 |-------------------:|:----------------------------------------------|
 |                 20 | [Nimbus Records](../labels/nimbus_records.md) |
 
+## Genres
+
+- british classical piano
+
 ## Tracks
 
 | Art                                                                                              | Track                                                           | Album                                             | Artists                                                              | Label                                         | 💚   | 🔗                                                          |

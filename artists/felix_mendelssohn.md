@@ -23,6 +23,12 @@
 |                 13 | [Lso Live](../labels/lso_live.md)               |
 |                  1 | [Warner Classics](../labels/warner_classics.md) |
 
+## Genres
+
+- [classical](../genres/classical.md)
+- [early romantic era](../genres/early_romantic_era.md)
+- [german romanticism](../genres/german_romanticism.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                                                                          | Album                                  | Artists                                                                                                                                                                                                                        | Label                                           | 💚   | 🔗                                                          |

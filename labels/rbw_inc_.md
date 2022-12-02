@@ -32,7 +32,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 24 albums in](../images/labels/rbw_inc_/albums.png)
+![Bar chart of top 24 albums](../images/labels/rbw_inc_/albums.png)
 
 
 <details>
@@ -64,6 +64,25 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b1f57af57a103eb28110c9d8" alt="" width="50" /> | BLUE;S                 | [🔗](https://open.spotify.com/album/59QELOU685J1AMB2paryAx) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732325e0aa6cad94d104ea055e" alt="" width="50" /> | BLOOD MOON             | [🔗](https://open.spotify.com/album/13dNmnWQVodErqAhuOzYTD) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27395e1a12145290ca7d783eb1d" alt="" width="50" /> | BINARY CODE            | [🔗](https://open.spotify.com/album/3MSvgJYx3omhNpSaQUqnu5) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 5 genres](../images/labels/rbw_inc_/genres.png)
+
+
+<details>
+<summary>See all 5 genres</summary>
+
+|   Number of Tracks | Genre                                             |
+|-------------------:|:--------------------------------------------------|
+|                 30 | [k-pop](../genres/k_pop.md)                       |
+|                 12 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+|                  4 | korean mask singer                                |
+|                  2 | korean ost                                        |
+|                  2 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
 
 </details>
 

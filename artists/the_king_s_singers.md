@@ -31,6 +31,16 @@
 |                  2 | [RCA Victor](../labels/rca_victor.md)                         |
 |                  1 | [RCA Victor - Munich](../labels/rca_victor___munich.md)       |
 
+## Genres
+
+- [a cappella](../genres/a_cappella.md)
+- british choir
+- cambridge choir
+- choral
+- polyphony
+- puirt-a-beul
+- vocal ensemble
+
 ## Tracks
 
 | Art                                                                                              | Track                          | Album                           | Artists                                                                                    | Label                                                                                                        | 💚   | 🔗                                                          |

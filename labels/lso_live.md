@@ -28,7 +28,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 1 albums in](../images/labels/lso_live/albums.png)
+![Bar chart of top 1 albums](../images/labels/lso_live/albums.png)
 
 
 <details>
@@ -37,6 +37,23 @@ Appears as:
 |   Number of Tracks | Art                                                                                              | Album                                  | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:-----------------------------------------------------------|
 |                 13 | <img src="https://i.scdn.co/image/ab67616d0000b273c385dbfabcec21279dcea0b5" alt="" width="50" /> | Mendelssohn: A Midsummer Night's Dream | [🔗](https://open.spotify.com/album/60J66evwnrnfH03HgDTrwN) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 3 genres](../images/labels/lso_live/genres.png)
+
+
+<details>
+<summary>See all 3 genres</summary>
+
+|   Number of Tracks | Genre                                                 |
+|-------------------:|:------------------------------------------------------|
+|                 13 | [german romanticism](../genres/german_romanticism.md) |
+|                 13 | [early romantic era](../genres/early_romantic_era.md) |
+|                 13 | [classical](../genres/classical.md)                   |
 
 </details>
 

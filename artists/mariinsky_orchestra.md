@@ -20,6 +20,11 @@
 |-------------------:|:------------------------------------|
 |                 18 | [Mariinsky](../labels/mariinsky.md) |
 
+## Genres
+
+- orchestra
+- russian orchestra
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                                     | Album                                | Artists                                                                                                                   | Label                               | 💚   | 🔗                                                          |

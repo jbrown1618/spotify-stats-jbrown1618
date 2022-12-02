@@ -25,6 +25,12 @@
 |-------------------:|:--------------------------------------------------------------|
 |                205 | [Decca Music Group Ltd.](../labels/decca_music_group_ltd_.md) |
 
+## Genres
+
+- [classical](../genres/classical.md)
+- classical performance
+- russian classical piano
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                                                               | Album                                                              | Artists                                                                                      | Label                                                         | 💚   | 🔗                                                          |

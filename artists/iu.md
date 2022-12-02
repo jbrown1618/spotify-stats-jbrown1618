@@ -43,6 +43,10 @@
 |                  1 | [MORE VISION](../labels/more_vision.md)                       |
 |                  1 | [MAGIC STRAWBERRY SOUND](../labels/magic_strawberry_sound.md) |
 
+## Genres
+
+- [k-pop](../genres/k_pop.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                          | Album                   | Artists                    | Label                                                   | 💚   | 🔗                                                          |

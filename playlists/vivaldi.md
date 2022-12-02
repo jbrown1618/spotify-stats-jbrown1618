@@ -9,6 +9,8 @@
 
 ![Bar chart of top 8 artists](../images/playlists/vivaldi/artists.png)
 
+![Comparison of Artist](../images/playlists/vivaldi/artists_comparison.png)
+
 
 <details>
 <summary>See all 8 artists</summary>
@@ -27,11 +29,9 @@
 </details>
 
 
-![Comparison of Artist](../images/vivaldi/artists_comparison.png)
-
 ## Top Albums
 
-![Bar chart of top 2 albums in](../images/playlists/vivaldi/albums.png)
+![Bar chart of top 2 albums](../images/playlists/vivaldi/albums.png)
 
 
 <details>
@@ -57,6 +57,24 @@
 |-------------------:|:------------------------------------------------|
 |                 18 | [Decca (UMO)](../labels/decca__umo_.md)         |
 |                 16 | [Warner Classics](../labels/warner_classics.md) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 4 genres](../images/playlists/vivaldi/genres.png)
+
+
+<details>
+<summary>See all 4 genres</summary>
+
+|   Number of Tracks | Genre                                   |
+|-------------------:|:----------------------------------------|
+|                 34 | italian baroque                         |
+|                 34 | [early music](../genres/early_music.md) |
+|                 34 | [classical](../genres/classical.md)     |
+|                 34 | [baroque](../genres/baroque.md)         |
 
 </details>
 

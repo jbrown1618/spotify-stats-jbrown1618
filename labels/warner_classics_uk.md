@@ -24,7 +24,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 1 albums in](../images/labels/warner_classics_uk/albums.png)
+![Bar chart of top 1 albums](../images/labels/warner_classics_uk/albums.png)
 
 
 <details>
@@ -33,6 +33,23 @@ Appears as:
 |   Number of Tracks | Art                                                                                              | Album                  | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------|:-----------------------------------------------------------|
 |                 16 | <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="" width="50" /> | Brahms: The Symphonies | [🔗](https://open.spotify.com/album/2dL2qDsg6teV1cueLxCRa1) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 3 genres](../images/labels/warner_classics_uk/genres.png)
+
+
+<details>
+<summary>See all 3 genres</summary>
+
+|   Number of Tracks | Genre                                                 |
+|-------------------:|:------------------------------------------------------|
+|                 16 | [late romantic era](../genres/late_romantic_era.md)   |
+|                 16 | [german romanticism](../genres/german_romanticism.md) |
+|                 16 | [classical](../genres/classical.md)                   |
 
 </details>
 

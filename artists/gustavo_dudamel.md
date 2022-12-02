@@ -20,6 +20,11 @@
 |-------------------:|:------------------------------------------------------------------|
 |                 17 | [Deutsche Grammophon (DG)](../labels/deutsche_grammophon__dg_.md) |
 
+## Genres
+
+- classical performance
+- orchestral performance
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                           | Album                                 | Artists                                                                                                                                           | Label                                                             | 💚   | 🔗                                                          |

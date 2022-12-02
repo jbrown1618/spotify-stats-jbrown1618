@@ -28,7 +28,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 5 albums in](../images/labels/peter_hollens/albums.png)
+![Bar chart of top 5 albums](../images/labels/peter_hollens/albums.png)
 
 
 <details>
@@ -41,6 +41,21 @@ Appears as:
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27354f5c25dc365c6e1e1921047" alt="" width="50" /> | Covers, Vol. III                                                    | [🔗](https://open.spotify.com/album/69zZ6utXSbC6dr6tdBsvNz) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732787a9e5a9a46d8d566209c8" alt="" width="50" /> | The Sound of Silence                                                | [🔗](https://open.spotify.com/album/2csjrZ6lbV7wWvVTsEi7u0) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733d0f26eb9219f5670aa84bda" alt="" width="50" /> | Peter Hollens                                                       | [🔗](https://open.spotify.com/album/5kB9QXjsPtcUwvlj4w0dZV) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 1 genres](../images/labels/peter_hollens/genres.png)
+
+
+<details>
+<summary>See all 1 genres</summary>
+
+|   Number of Tracks | Genre   |
+|-------------------:|:--------|
+|                 20 | fantasy |
 
 </details>
 

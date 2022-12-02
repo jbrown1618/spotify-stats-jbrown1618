@@ -30,7 +30,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 3 albums in](../images/labels/decca__umo_/albums.png)
+![Bar chart of top 3 albums](../images/labels/decca__umo_/albums.png)
 
 
 <details>
@@ -41,6 +41,34 @@ Appears as:
 |                 18 | <img src="https://i.scdn.co/image/ab67616d0000b273203bf132896e0a4be9638dda" alt="" width="50" /> | Vivaldi: Four Seasons | [🔗](https://open.spotify.com/album/4Uc1Cus3I9LjkI2XwtQnfc) |
 |                  8 | <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="" width="50" /> | Light & Gold          | [🔗](https://open.spotify.com/album/2hnquPCPDsr3Srk64rdeVS) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734b20e4a8e06f19bcd51a5406" alt="" width="50" /> | Bombs Away            | [🔗](https://open.spotify.com/album/2Yi29VOccHCwktsZNqtxbt) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 14 genres](../images/labels/decca__umo_/genres.png)
+
+
+<details>
+<summary>See all 14 genres</summary>
+
+|   Number of Tracks | Genre                                   |
+|-------------------:|:----------------------------------------|
+|                 18 | italian baroque                         |
+|                 18 | [early music](../genres/early_music.md) |
+|                 18 | [classical](../genres/classical.md)     |
+|                 18 | [baroque](../genres/baroque.md)         |
+|                  8 | contemporary choir                      |
+|                  8 | choral                                  |
+|                  8 | american 21st century classical         |
+|                  8 | 21st century classical                  |
+|                  1 | [pop rock](../genres/pop_rock.md)       |
+|                  1 | [pop](../genres/pop.md)                 |
+|                  1 | folk-pop                                |
+|                  1 | [dance pop](../genres/dance_pop.md)     |
+|                  1 | australian pop                          |
+|                  1 | australian indie                        |
 
 </details>
 

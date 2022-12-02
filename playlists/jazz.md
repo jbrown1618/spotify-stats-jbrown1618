@@ -9,6 +9,8 @@
 
 ![Bar chart of top 15 artists](../images/playlists/jazz/artists.png)
 
+![Comparison of Artist](../images/playlists/jazz/artists_comparison.png)
+
 
 <details>
 <summary>See all 15 artists</summary>
@@ -34,11 +36,9 @@
 </details>
 
 
-![Comparison of Artist](../images/jazz/artists_comparison.png)
-
 ## Top Albums
 
-![Bar chart of top 24 albums in](../images/playlists/jazz/albums.png)
+![Bar chart of top 24 albums](../images/playlists/jazz/albums.png)
 
 
 <details>
@@ -96,6 +96,42 @@
 |                  1 | [Parlophone (France)](../labels/parlophone__france_.md)                     |
 |                  1 | [Grandmono Records](../labels/grandmono_records.md)                         |
 |                  1 | [Fuzzy Door Productions](../labels/fuzzy_door_productions.md)               |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 22 genres](../images/playlists/jazz/genres.png)
+
+
+<details>
+<summary>See all 22 genres</summary>
+
+|   Number of Tracks | Genre                                               |
+|-------------------:|:----------------------------------------------------|
+|                 29 | [adult standards](../genres/adult_standards.md)     |
+|                 27 | lounge                                              |
+|                 12 | jazz pop                                            |
+|                 12 | canadian pop                                        |
+|                  9 | vocal jazz                                          |
+|                  7 | easy listening                                      |
+|                  6 | contemporary vocal jazz                             |
+|                  3 | [mellow gold](../genres/mellow_gold.md)             |
+|                  2 | quiet storm                                         |
+|                  1 | [soft rock](../genres/soft_rock.md)                 |
+|                  1 | [singer-songwriter](../genres/singer_songwriter.md) |
+|                  1 | roots rock                                          |
+|                  1 | nu jazz                                             |
+|                  1 | [lilith](../genres/lilith.md)                       |
+|                  1 | korean jazz                                         |
+|                  1 | folk rock                                           |
+|                  1 | folk                                                |
+|                  1 | electro swing                                       |
+|                  1 | electric blues                                      |
+|                  1 | dutch pop                                           |
+|                  1 | country rock                                        |
+|                  1 | [classic rock](../genres/classic_rock.md)           |
 
 </details>
 

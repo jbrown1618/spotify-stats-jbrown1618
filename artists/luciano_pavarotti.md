@@ -20,6 +20,13 @@
 |-------------------:|:--------------------------------------------------------------|
 |                 17 | [Decca Music Group Ltd.](../labels/decca_music_group_ltd_.md) |
 
+## Genres
+
+- canzone napoletana
+- classical tenor
+- italian tenor
+- opera
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                | Album             | Artists                                                                                                                                                                                                                                                                                                              | Label                                                         | 💚   | 🔗                                                          |

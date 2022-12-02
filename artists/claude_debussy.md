@@ -26,6 +26,12 @@
 |                  4 | [harmonia mundi](../labels/harmonia_mundi.md)                 |
 |                  3 | [Decca Music Group Ltd.](../labels/decca_music_group_ltd_.md) |
 
+## Genres
+
+- [classical](../genres/classical.md)
+- impressionism
+- [post-romantic era](../genres/post_romantic_era.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                          | Album                                                                                                         | Artists                                                                                | Label                                                         | 💚   | 🔗                                                          |

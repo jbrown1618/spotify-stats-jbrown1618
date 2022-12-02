@@ -29,6 +29,11 @@
 |-------------------:|:--------------------------------------------------|
 |                 12 | [SM Entertainment](../labels/sm_entertainment.md) |
 
+## Genres
+
+- [k-pop](../genres/k_pop.md)
+- [k-pop boy group](../genres/k_pop_boy_group.md)
+
 ## Tracks
 
 | Art                                                                                              | Track        | Album                                   | Artists       | Label                                             | 💚   | 🔗                                                          |

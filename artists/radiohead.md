@@ -25,6 +25,15 @@
 |-------------------:|:--------------------------------------------|
 |                 10 | [XL Recordings](../labels/xl_recordings.md) |
 
+## Genres
+
+- alternative rock
+- art rock
+- melancholia
+- oxford indie
+- permanent wave
+- [rock](../genres/rock.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                    | Album       | Artists                   | Label                                       | 💚   | 🔗                                                          |

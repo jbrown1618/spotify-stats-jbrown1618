@@ -30,6 +30,12 @@
 |                  1 | [Sony Music UK](../labels/sony_music_uk.md)                   |
 |                  1 | [NEON16](../labels/neon16.md)                                 |
 
+## Genres
+
+- [dance pop](../genres/dance_pop.md)
+- [pop](../genres/pop.md)
+- uk pop
+
 ## Tracks
 
 | Art                                                                                              | Track                          | Album                          | Artists                                             | Label                                         | 💚   | 🔗                                                          |

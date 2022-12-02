@@ -9,6 +9,8 @@
 
 ![Bar chart of top 30 artists](../images/playlists/mozart/artists.png)
 
+![Comparison of Artist](../images/playlists/mozart/artists_comparison.png)
+
 
 <details>
 <summary>See all 65 artists</summary>
@@ -84,11 +86,9 @@
 </details>
 
 
-![Comparison of Artist](../images/mozart/artists_comparison.png)
-
 ## Top Albums
 
-![Bar chart of top 5 albums in](../images/playlists/mozart/albums.png)
+![Bar chart of top 5 albums](../images/playlists/mozart/albums.png)
 
 
 <details>
@@ -120,6 +120,31 @@
 |                 14 | [Warner Classics](../labels/warner_classics.md)                                         |
 |                  6 | [Decca Music Group Ltd.](../labels/decca_music_group_ltd_.md)                           |
 |                  4 | [JPK Musik](../labels/jpk_musik.md)                                                     |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 11 genres](../images/playlists/mozart/genres.png)
+
+
+<details>
+<summary>See all 11 genres</summary>
+
+|   Number of Tracks | Genre                                                   |
+|-------------------:|:--------------------------------------------------------|
+|                224 | [classical](../genres/classical.md)                     |
+|                217 | [classical era](../genres/classical_era.md)             |
+|                  3 | [late romantic era](../genres/late_romantic_era.md)     |
+|                  2 | norwegian classical                                     |
+|                  2 | [german baroque](../genres/german_baroque.md)           |
+|                  2 | [early music](../genres/early_music.md)                 |
+|                  2 | [baroque](../genres/baroque.md)                         |
+|                  1 | [russian romanticism](../genres/russian_romanticism.md) |
+|                  1 | [post-romantic era](../genres/post_romantic_era.md)     |
+|                  1 | [german romanticism](../genres/german_romanticism.md)   |
+|                  1 | [early romantic era](../genres/early_romantic_era.md)   |
 
 </details>
 

@@ -61,7 +61,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 12 albums in](../images/labels/decca_music_group_ltd_/albums.png)
+![Bar chart of top 12 albums](../images/labels/decca_music_group_ltd_/albums.png)
 
 
 <details>
@@ -81,6 +81,34 @@ Appears as:
 |                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273fdf2a7d7437db7a75da73167" alt="" width="50" /> | Mozart: The Piano Sonatas                                                                                     | [🔗](https://open.spotify.com/album/1qM2Z3rhkJLQIXnAQpIUdY) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2738e6adfe4421d106633abde7b" alt="" width="50" /> | Rachmaninov: Piano Concerto No.2                                                                              | [🔗](https://open.spotify.com/album/5lVqgXqdoIH3W1wUM2hzPx) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="" width="50" /> | Debussy: La Mer; Jeux; Prélude à l'après-midi d'un faune; Le Martyre de Saint Sébastien (Symphonic Fragments) | [🔗](https://open.spotify.com/album/5egJ0o1mVH2liUfecDWYqk) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 14 genres](../images/labels/decca_music_group_ltd_/genres.png)
+
+
+<details>
+<summary>See all 14 genres</summary>
+
+|   Number of Tracks | Genre                                                   |
+|-------------------:|:--------------------------------------------------------|
+|                286 | [classical](../genres/classical.md)                     |
+|                205 | [early romantic era](../genres/early_romantic_era.md)   |
+|                109 | [classical era](../genres/classical_era.md)             |
+|                103 | [german romanticism](../genres/german_romanticism.md)   |
+|                102 | [polish classical](../genres/polish_classical.md)       |
+|                 56 | [post-romantic era](../genres/post_romantic_era.md)     |
+|                 28 | [italian romanticism](../genres/italian_romanticism.md) |
+|                 28 | [italian opera](../genres/italian_opera.md)             |
+|                 19 | [german baroque](../genres/german_baroque.md)           |
+|                 19 | [early music](../genres/early_music.md)                 |
+|                 19 | [baroque](../genres/baroque.md)                         |
+|                 18 | [ukrainian classical](../genres/ukrainian_classical.md) |
+|                 18 | [russian romanticism](../genres/russian_romanticism.md) |
+|                  3 | impressionism                                           |
 
 </details>
 

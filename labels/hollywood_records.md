@@ -23,7 +23,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 10 albums in](../images/labels/hollywood_records/albums.png)
+![Bar chart of top 10 albums](../images/labels/hollywood_records/albums.png)
 
 
 <details>
@@ -41,6 +41,26 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27350dcdcb73b5bbff6d3136131" alt="" width="50" /> | Innuendo             | [🔗](https://open.spotify.com/album/5yAM3CcaXF6DPRJW3oL6Ya) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273aadb13ae608f6af20528409b" alt="" width="50" /> | Demi                 | [🔗](https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ed164cf1c10f028e8f528784" alt="" width="50" /> | Confident            | [🔗](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 6 genres](../images/labels/hollywood_records/genres.png)
+
+
+<details>
+<summary>See all 6 genres</summary>
+
+|   Number of Tracks | Genre                                       |
+|-------------------:|:--------------------------------------------|
+|                 14 | [rock](../genres/rock.md)                   |
+|                 14 | glam rock                                   |
+|                 14 | [classic rock](../genres/classic_rock.md)   |
+|                  2 | [post-teen pop](../genres/post_teen_pop.md) |
+|                  2 | [pop](../genres/pop.md)                     |
+|                  2 | [dance pop](../genres/dance_pop.md)         |
 
 </details>
 

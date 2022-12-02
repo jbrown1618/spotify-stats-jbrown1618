@@ -9,6 +9,8 @@
 
 ![Bar chart of top 30 artists](../images/playlists/r_b/artists.png)
 
+![Comparison of Artist](../images/playlists/r_b/artists_comparison.png)
+
 
 <details>
 <summary>See all 55 artists</summary>
@@ -74,11 +76,9 @@
 </details>
 
 
-![Comparison of Artist](../images/r_b/artists_comparison.png)
-
 ## Top Albums
 
-![Bar chart of top 30 albums in](../images/playlists/r_b/albums.png)
+![Bar chart of top 30 albums](../images/playlists/r_b/albums.png)
 
 
 <details>
@@ -204,6 +204,71 @@
 |                  1 | [Aftermath Entertainment](../labels/aftermath_entertainment.md) |
 |                  1 | [ATL](../labels/atl.md)                                         |
 |                  1 | [19 Recordings Limited](../labels/19_recordings_limited.md)     |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 30 genres](../images/playlists/r_b/genres.png)
+
+
+<details>
+<summary>See all 51 genres</summary>
+
+|   Number of Tracks | Genre                                           |
+|-------------------:|:------------------------------------------------|
+|                 63 | [pop](../genres/pop.md)                         |
+|                 51 | [dance pop](../genres/dance_pop.md)             |
+|                 34 | [r&b](../genres/r_b.md)                         |
+|                 24 | urban contemporary                              |
+|                 12 | soul                                            |
+|                 12 | neo soul                                        |
+|                 10 | barbadian pop                                   |
+|                 10 | atl hip hop                                     |
+|                  9 | funk                                            |
+|                  8 | [post-teen pop](../genres/post_teen_pop.md)     |
+|                  8 | motown                                          |
+|                  6 | pop rap                                         |
+|                  6 | escape room                                     |
+|                  6 | edm                                             |
+|                  6 | alternative r&b                                 |
+|                  6 | [adult standards](../genres/adult_standards.md) |
+|                  5 | quiet storm                                     |
+|                  5 | [electropop](../genres/electropop.md)           |
+|                  5 | contemporary r&b                                |
+|                  5 | brill building pop                              |
+|                  5 | afrofuturism                                    |
+|                  4 | south carolina hip hop                          |
+|                  4 | pop soul                                        |
+|                  4 | memphis soul                                    |
+|                  4 | hip pop                                         |
+|                  4 | classic soul                                    |
+|                  3 | canadian contemporary r&b                       |
+|                  2 | [neo mellow](../genres/neo_mellow.md)           |
+|                  2 | lgbtq+ hip hop                                  |
+|                  2 | hip hop                                         |
+|                  2 | chill r&b                                       |
+|                  1 | vocal jazz                                      |
+|                  1 | uk pop                                          |
+|                  1 | uk contemporary r&b                             |
+|                  1 | tropical house                                  |
+|                  1 | trap queen                                      |
+|                  1 | torch song                                      |
+|                  1 | thai indie pop                                  |
+|                  1 | soul blues                                      |
+|                  1 | [soft rock](../genres/soft_rock.md)             |
+|                  1 | rock-and-roll                                   |
+|                  1 | minnesota hip hop                               |
+|                  1 | [mellow gold](../genres/mellow_gold.md)         |
+|                  1 | jazz blues                                      |
+|                  1 | indie r&b                                       |
+|                  1 | girl group                                      |
+|                  1 | disco                                           |
+|                  1 | canadian pop                                    |
+|                  1 | bubblegum pop                                   |
+|                  1 | british soul                                    |
+|                  1 | bedroom soul                                    |
 
 </details>
 

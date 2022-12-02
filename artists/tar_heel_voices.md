@@ -25,6 +25,11 @@
 |                 14 | [A Cappella Records](../labels/a_cappella_records.md) |
 |                  6 | [Tar Heel Voices](../labels/tar_heel_voices.md)       |
 
+## Genres
+
+- [a cappella](../genres/a_cappella.md)
+- [college a cappella](../genres/college_a_cappella.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                      | Album              | Artists                               | Label                                                 | 💚   | 🔗                                                          |

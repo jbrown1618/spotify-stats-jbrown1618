@@ -22,7 +22,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 7 albums in](../images/labels/big_machine_records/albums.png)
+![Bar chart of top 7 albums](../images/labels/big_machine_records/albums.png)
 
 
 <details>
@@ -37,6 +37,21 @@ Appears as:
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273e11a75a2f2ff39cec788a015" alt="" width="50" /> | Speak Now            | [🔗](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732f8c0fd72a80a93f8c53b96c" alt="" width="50" /> | Taylor Swift         | [🔗](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a7613d346501b828b56a0bc3" alt="" width="50" /> | Red (Deluxe Edition) | [🔗](https://open.spotify.com/album/1KlU96Hw9nlvqpBPlSqcTV) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 1 genres](../images/labels/big_machine_records/genres.png)
+
+
+<details>
+<summary>See all 1 genres</summary>
+
+|   Number of Tracks | Genre                   |
+|-------------------:|:------------------------|
+|                 29 | [pop](../genres/pop.md) |
 
 </details>
 

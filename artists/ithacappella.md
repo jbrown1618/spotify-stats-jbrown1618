@@ -25,6 +25,11 @@
 |                 12 | [Ithacappella](../labels/ithacappella.md)             |
 |                  4 | [649668 Records DK2](../labels/649668_records_dk2.md) |
 
+## Genres
+
+- [a cappella](../genres/a_cappella.md)
+- [college a cappella](../genres/college_a_cappella.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                                     | Album              | Artists                                                  | Label                                     | 💚   | 🔗                                                          |

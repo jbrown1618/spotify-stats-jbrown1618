@@ -23,7 +23,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 5 albums in](../images/labels/universal_island_records_ltd_/albums.png)
+![Bar chart of top 5 albums](../images/labels/universal_island_records_ltd_/albums.png)
 
 
 <details>
@@ -36,6 +36,25 @@ Appears as:
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | How Big, How Blue, How Beautiful | [🔗](https://open.spotify.com/album/2btszoya78vyT8fwelmVnz) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2738f52f321140e4a76ea720c52" alt="" width="50" /> | Back To Black                    | [🔗](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27376ffb5b5ab045d22c81235c1" alt="" width="50" /> | Back To Black (Deluxe Edition)   | [🔗](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 5 genres](../images/labels/universal_island_records_ltd_/genres.png)
+
+
+<details>
+<summary>See all 5 genres</summary>
+
+|   Number of Tracks | Genre                   |
+|-------------------:|:------------------------|
+|                 15 | uk alternative pop      |
+|                 15 | [pop](../genres/pop.md) |
+|                 15 | baroque pop             |
+|                  3 | neo soul                |
+|                  3 | british soul            |
 
 </details>
 

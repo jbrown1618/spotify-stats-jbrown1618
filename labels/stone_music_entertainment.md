@@ -54,7 +54,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 30 albums in](../images/labels/stone_music_entertainment/albums.png)
+![Bar chart of top 30 albums](../images/labels/stone_music_entertainment/albums.png)
 
 
 <details>
@@ -104,6 +104,30 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734d1fce6f6b2b64395f7e804e" alt="" width="50" /> | DOUBLAST                                                                | [🔗](https://open.spotify.com/album/0yMosWzriw3613d26x7MQK) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ab36ff6234cbb75990aab601" alt="" width="50" /> | CIX 5th EP Album ‘OK’ Episode 1 : OK Not                                | [🔗](https://open.spotify.com/album/0awixD0tmDTgB6JWfQxwO0) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735ecba6eed6a9e14a7e9534b2" alt="" width="50" /> | BLOOM*IZ                                                                | [🔗](https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 10 genres](../images/labels/stone_music_entertainment/genres.png)
+
+
+<details>
+<summary>See all 10 genres</summary>
+
+|   Number of Tracks | Genre                                             |
+|-------------------:|:--------------------------------------------------|
+|                 44 | [k-pop](../genres/k_pop.md)                       |
+|                 15 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+|                  7 | [pop](../genres/pop.md)                           |
+|                  7 | korean r&b                                        |
+|                  7 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
+|                  2 | korean pop                                        |
+|                  2 | korean ost                                        |
+|                  1 | k-rap                                             |
+|                  1 | k-pop reality show                                |
+|                  1 | anime                                             |
 
 </details>
 

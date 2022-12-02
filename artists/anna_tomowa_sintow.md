@@ -22,6 +22,10 @@
 |-------------------:|:------------------------------------------------------------------------|
 |                 28 | [UME - Global Clearing House](../labels/ume___global_clearing_house.md) |
 
+## Genres
+
+- classical soprano
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                                                                                               | Album            | Artists                                                                                                                                                                                                                                                                                                                                                                                                                                        | Label                                                                   | 💚   | 🔗                                                          |

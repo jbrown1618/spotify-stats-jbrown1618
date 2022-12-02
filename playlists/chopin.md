@@ -9,6 +9,8 @@
 
 ![Bar chart of top 7 artists](../images/playlists/chopin/artists.png)
 
+![Comparison of Artist](../images/playlists/chopin/artists_comparison.png)
+
 
 <details>
 <summary>See all 7 artists</summary>
@@ -26,11 +28,9 @@
 </details>
 
 
-![Comparison of Artist](../images/chopin/artists_comparison.png)
-
 ## Top Albums
 
-![Bar chart of top 9 albums in](../images/playlists/chopin/albums.png)
+![Bar chart of top 9 albums](../images/playlists/chopin/albums.png)
 
 
 <details>
@@ -66,6 +66,24 @@
 |                 15 | [The Music Factory](../labels/the_music_factory.md)               |
 |                  1 | [Onyx Classics](../labels/onyx_classics.md)                       |
 |                  1 | [DOREMI](../labels/doremi.md)                                     |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 4 genres](../images/playlists/chopin/genres.png)
+
+
+<details>
+<summary>See all 4 genres</summary>
+
+|   Number of Tracks | Genre                                                 |
+|-------------------:|:------------------------------------------------------|
+|                157 | [polish classical](../genres/polish_classical.md)     |
+|                157 | [early romantic era](../genres/early_romantic_era.md) |
+|                157 | [classical](../genres/classical.md)                   |
+|                 15 | german classical piano                                |
 
 </details>
 

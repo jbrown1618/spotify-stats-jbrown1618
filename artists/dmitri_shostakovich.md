@@ -20,6 +20,12 @@
 |-------------------:|:----------------------------------------------|
 |                 29 | [harmonia mundi](../labels/harmonia_mundi.md) |
 
+## Genres
+
+- [classical](../genres/classical.md)
+- compositional ambient
+- [russian modern classical](../genres/russian_modern_classical.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                     | Album                                                 | Artists                                                                                  | Label                                         | 💚   | 🔗                                                          |

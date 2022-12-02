@@ -20,6 +20,15 @@
 |-------------------:|:----------------------------------------|
 |                 18 | [Decca (UMO)](../labels/decca__umo_.md) |
 
+## Genres
+
+- baroque ensemble
+- british choir
+- british orchestra
+- choral
+- classical performance
+- historically informed performance
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                                                               | Album                 | Artists                                                                                                                                                                           | Label                                   | 💚   | 🔗                                                          |

@@ -69,7 +69,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 10 albums in](../images/labels/deutsche_grammophon__dg_/albums.png)
+![Bar chart of top 10 albums](../images/labels/deutsche_grammophon__dg_/albums.png)
 
 
 <details>
@@ -87,6 +87,32 @@ Appears as:
 |                  7 | <img src="https://i.scdn.co/image/ab67616d0000b2733620c09ca7ca202e676b783b" alt="" width="50" /> | Stravinsky: The Firebird (Ballet Suite)                         | [🔗](https://open.spotify.com/album/2q1xMRl4AcA7rI8GfGnmvD) |
 |                  7 | <img src="https://i.scdn.co/image/ab67616d0000b2734c43a2f36c0aec708ba024d5" alt="" width="50" /> | Holst: The Planets                                              | [🔗](https://open.spotify.com/album/4v0Xyz0LVToUsSTGdsvKSK) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2734a7a2e0cab8f2db75a1c3f55" alt="" width="50" /> | Chopin: Ballades; Barcarolle; Fantaisie                         | [🔗](https://open.spotify.com/album/5c9v5oU43Oo22MSG8EKFp2) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 12 genres](../images/labels/deutsche_grammophon__dg_/genres.png)
+
+
+<details>
+<summary>See all 12 genres</summary>
+
+|   Number of Tracks | Genre                                                             |
+|-------------------:|:------------------------------------------------------------------|
+|                191 | [classical](../genres/classical.md)                               |
+|                 95 | [early romantic era](../genres/early_romantic_era.md)             |
+|                 88 | [classical era](../genres/classical_era.md)                       |
+|                 58 | [german romanticism](../genres/german_romanticism.md)             |
+|                 53 | [polish classical](../genres/polish_classical.md)                 |
+|                 33 | [late romantic era](../genres/late_romantic_era.md)               |
+|                 26 | [neoclassicism](../genres/neoclassicism.md)                       |
+|                 26 | [early modern classical](../genres/early_modern_classical.md)     |
+|                 21 | [russian modern classical](../genres/russian_modern_classical.md) |
+|                 17 | [russian romanticism](../genres/russian_romanticism.md)           |
+|                  7 | [post-romantic era](../genres/post_romantic_era.md)               |
+|                  7 | british modern classical                                          |
 
 </details>
 

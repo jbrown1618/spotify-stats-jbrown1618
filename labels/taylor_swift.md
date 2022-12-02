@@ -25,7 +25,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 5 albums in](../images/labels/taylor_swift/albums.png)
+![Bar chart of top 5 albums](../images/labels/taylor_swift/albums.png)
 
 
 <details>
@@ -38,6 +38,21 @@ Appears as:
 |                  8 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Lover                       | [🔗](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be" alt="" width="50" /> | evermore                    | [🔗](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a48964b5d9a3d6968ae3e0de" alt="" width="50" /> | Fearless (Taylor's Version) | [🔗](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 1 genres](../images/labels/taylor_swift/genres.png)
+
+
+<details>
+<summary>See all 1 genres</summary>
+
+|   Number of Tracks | Genre                   |
+|-------------------:|:------------------------|
+|                 32 | [pop](../genres/pop.md) |
 
 </details>
 

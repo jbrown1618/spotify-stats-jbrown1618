@@ -31,6 +31,10 @@
 |                  8 | [SM Entertainment](../labels/sm_entertainment.md) |
 |                  5 | [Warner Records](../labels/warner_records.md)     |
 
+## Genres
+
+- [k-pop girl group](../genres/k_pop_girl_group.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                              | Album                         | Artists           | Label                                             | 💚   | 🔗                                                          |

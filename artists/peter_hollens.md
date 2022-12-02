@@ -27,6 +27,10 @@
 |                 20 | [Peter Hollens](../labels/peter_hollens.md)                 |
 |                 12 | [One Voice Productions](../labels/one_voice_productions.md) |
 
+## Genres
+
+- fantasy
+
 ## Tracks
 
 | Art                                                                                              | Track                        | Album                                                               | Artists                                                         | Label                                                            | 💚   | 🔗                                                          |

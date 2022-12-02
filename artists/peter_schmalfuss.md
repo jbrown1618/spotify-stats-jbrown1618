@@ -20,6 +20,10 @@
 |-------------------:|:----------------------------------------------------|
 |                 15 | [The Music Factory](../labels/the_music_factory.md) |
 
+## Genres
+
+- german classical piano
+
 ## Tracks
 
 | Art                                                                                              | Track                                                   | Album                                 | Artists                                 | Label                                               | 💚   | 🔗                                                          |

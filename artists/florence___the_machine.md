@@ -26,6 +26,12 @@
 |                 15 | [Universal-Island Records Ltd.](../labels/universal_island_records_ltd_.md) |
 |                  1 | [EMI](../labels/emi.md)                                                     |
 
+## Genres
+
+- baroque pop
+- [pop](../genres/pop.md)
+- uk alternative pop
+
 ## Tracks
 
 | Art                                                                                              | Track                            | Album                            | Artists                                             | Label                                                                       | 💚   | 🔗                                                          |

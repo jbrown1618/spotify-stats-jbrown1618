@@ -29,6 +29,12 @@
 |                181 | [UME - Global Clearing House](../labels/ume___global_clearing_house.md) |
 |                 68 | [Deutsche Grammophon (DG)](../labels/deutsche_grammophon__dg_.md)       |
 
+## Genres
+
+- [classical](../genres/classical.md)
+- classical performance
+- orchestral performance
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                                                                                                        | Album                                                           | Artists                                                                                                                                                                                                                                                                                                                                                                                                                                        | Label                                                                   | 💚   | 🔗                                                          |

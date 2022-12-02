@@ -20,6 +20,11 @@
 |-------------------:|:------------------------------------------------------------------|
 |                 12 | [Channel Classics Records](../labels/channel_classics_records.md) |
 
+## Genres
+
+- [classical](../genres/classical.md)
+- [classical era](../genres/classical_era.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                                                               | Album                  | Artists                                                                                          | Label                                                             | 💚   | 🔗                                                          |

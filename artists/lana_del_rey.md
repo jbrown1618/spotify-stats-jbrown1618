@@ -33,6 +33,11 @@
 |                  1 | [Silver Cloud](../labels/silver_cloud.md)         |
 |                  1 | [Charlie's Angels](../labels/charlie_s_angels.md) |
 
+## Genres
+
+- [art pop](../genres/art_pop.md)
+- [pop](../genres/pop.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                    | Album                                                 | Artists                                                                         | Label                                           | 💚   | 🔗                                                          |

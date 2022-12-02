@@ -9,6 +9,8 @@
 
 ![Bar chart of top 15 artists](../images/playlists/check_out_later/artists.png)
 
+![Comparison of Artist](../images/playlists/check_out_later/artists_comparison.png)
+
 
 <details>
 <summary>See all 15 artists</summary>
@@ -18,7 +20,7 @@
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | [Taylor Swift](../artists/taylor_swift.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eba3c1fca063ed673aed61c885" alt="" width="50" /> | YOUHA                                      | [🔗](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) |
 |                  2 | <img src="https://i.scdn.co/image/731f5f71de27c36300d2cf71a7f9cd7f389d0bf7" alt="" width="50" /> | Neutral Milk Hotel                         | [🔗](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb3e64e13dfb4fc3dc1a873b00" alt="" width="50" /> | [ITZY](../artists/itzy.md)                 | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../artists/itzy.md)                 | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb65b7b48eeac1b113c75f2295" alt="" width="50" /> | YB                                         | [🔗](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2c56b558b75841a77d7ea09" alt="" width="50" /> | Nucksal                                    | [🔗](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5b1a291b0a6a689091d54d8b" alt="" width="50" /> | IVE                                        | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
@@ -34,11 +36,9 @@
 </details>
 
 
-![Comparison of Artist](../images/check_out_later/artists_comparison.png)
-
 ## Top Albums
 
-![Bar chart of top 16 albums in](../images/playlists/check_out_later/albums.png)
+![Bar chart of top 16 albums](../images/playlists/check_out_later/albums.png)
 
 
 <details>
@@ -89,6 +89,43 @@
 |                  1 | [JVR](../labels/jvr.md)                                             |
 |                  1 | [GH Entertainment](../labels/gh_entertainment.md)                   |
 |                  1 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)               |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 23 genres](../images/playlists/check_out_later/genres.png)
+
+
+<details>
+<summary>See all 23 genres</summary>
+
+|   Number of Tracks | Genre                                             |
+|-------------------:|:--------------------------------------------------|
+|                  7 | [k-pop](../genres/k_pop.md)                       |
+|                  4 | [pop](../genres/pop.md)                           |
+|                  4 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+|                  3 | k-indie                                           |
+|                  3 | alternative rock                                  |
+|                  2 | lo-fi                                             |
+|                  2 | korean indie rock                                 |
+|                  2 | indie rock                                        |
+|                  2 | indie pop                                         |
+|                  2 | elephant 6                                        |
+|                  2 | chamber pop                                       |
+|                  2 | anti-folk                                         |
+|                  1 | zhongguo feng                                     |
+|                  1 | taiwan pop                                        |
+|                  1 | spacegrunge                                       |
+|                  1 | [rock](../genres/rock.md)                         |
+|                  1 | [pop rock](../genres/pop_rock.md)                 |
+|                  1 | permanent wave                                    |
+|                  1 | mandopop                                          |
+|                  1 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
+|                  1 | grunge                                            |
+|                  1 | c-pop                                             |
+|                  1 | alternative metal                                 |
 
 </details>
 

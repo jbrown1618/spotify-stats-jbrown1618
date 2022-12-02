@@ -9,6 +9,8 @@
 
 ![Bar chart of top 4 artists](../images/playlists/debussy/artists.png)
 
+![Comparison of Artist](../images/playlists/debussy/artists_comparison.png)
+
 
 <details>
 <summary>See all 4 artists</summary>
@@ -23,11 +25,9 @@
 </details>
 
 
-![Comparison of Artist](../images/debussy/artists_comparison.png)
-
 ## Top Albums
 
-![Bar chart of top 2 albums in](../images/playlists/debussy/albums.png)
+![Bar chart of top 2 albums](../images/playlists/debussy/albums.png)
 
 
 <details>
@@ -53,6 +53,23 @@
 |-------------------:|:--------------------------------------------------------------|
 |                 20 | [Nimbus Records](../labels/nimbus_records.md)                 |
 |                  3 | [Decca Music Group Ltd.](../labels/decca_music_group_ltd_.md) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 3 genres](../images/playlists/debussy/genres.png)
+
+
+<details>
+<summary>See all 3 genres</summary>
+
+|   Number of Tracks | Genre                                               |
+|-------------------:|:----------------------------------------------------|
+|                 23 | [post-romantic era](../genres/post_romantic_era.md) |
+|                 23 | impressionism                                       |
+|                 23 | [classical](../genres/classical.md)                 |
 
 </details>
 

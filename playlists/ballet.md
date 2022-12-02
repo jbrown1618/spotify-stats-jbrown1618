@@ -9,6 +9,8 @@
 
 ![Bar chart of top 16 artists](../images/playlists/ballet/artists.png)
 
+![Comparison of Artist](../images/playlists/ballet/artists_comparison.png)
+
 
 <details>
 <summary>See all 16 artists</summary>
@@ -35,11 +37,9 @@
 </details>
 
 
-![Comparison of Artist](../images/ballet/artists_comparison.png)
-
 ## Top Albums
 
-![Bar chart of top 6 albums in](../images/playlists/ballet/albums.png)
+![Bar chart of top 6 albums](../images/playlists/ballet/albums.png)
 
 
 <details>
@@ -71,6 +71,28 @@
 |                 39 | [Australian Broadcasting Corp (ABC)](../labels/australian_broadcasting_corp__abc_.md) |
 |                 26 | [Deutsche Grammophon (DG)](../labels/deutsche_grammophon__dg_.md)                     |
 |                 18 | [Mariinsky](../labels/mariinsky.md)                                                   |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 8 genres](../images/playlists/ballet/genres.png)
+
+
+<details>
+<summary>See all 8 genres</summary>
+
+|   Number of Tracks | Genre                                                             |
+|-------------------:|:------------------------------------------------------------------|
+|                138 | [classical](../genres/classical.md)                               |
+|                 94 | [late romantic era](../genres/late_romantic_era.md)               |
+|                 55 | [russian romanticism](../genres/russian_romanticism.md)           |
+|                 44 | [neoclassicism](../genres/neoclassicism.md)                       |
+|                 44 | [early modern classical](../genres/early_modern_classical.md)     |
+|                 39 | [russian modern classical](../genres/russian_modern_classical.md) |
+|                 39 | [french romanticism](../genres/french_romanticism.md)             |
+|                 39 | [french opera](../genres/french_opera.md)                         |
 
 </details>
 

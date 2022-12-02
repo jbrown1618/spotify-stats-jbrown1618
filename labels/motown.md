@@ -27,7 +27,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 13 albums in](../images/labels/motown/albums.png)
+![Bar chart of top 13 albums](../images/labels/motown/albums.png)
 
 
 <details>
@@ -48,6 +48,31 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27340eea368f4fb5f5ee6dcd9a8" alt="" width="50" /> | Commodores                                                                                              | [🔗](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731c9f79fbe073eb95007ed48f" alt="" width="50" /> | ABC                                                                                                     | [🔗](https://open.spotify.com/album/3btVhknqDeGAEd1Qj7lL57) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dabb260cf41a2fbb2c842787" alt="" width="50" /> | 20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s | [🔗](https://open.spotify.com/album/2kzUxFepw1uLjbgqV537eP) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 11 genres](../images/labels/motown/genres.png)
+
+
+<details>
+<summary>See all 11 genres</summary>
+
+|   Number of Tracks | Genre                                           |
+|-------------------:|:------------------------------------------------|
+|                 13 | soul                                            |
+|                 12 | motown                                          |
+|                  9 | funk                                            |
+|                  5 | quiet storm                                     |
+|                  5 | classic soul                                    |
+|                  5 | brill building pop                              |
+|                  5 | [adult standards](../genres/adult_standards.md) |
+|                  4 | memphis soul                                    |
+|                  1 | [soft rock](../genres/soft_rock.md)             |
+|                  1 | [mellow gold](../genres/mellow_gold.md)         |
+|                  1 | disco                                           |
 
 </details>
 

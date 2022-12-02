@@ -9,6 +9,8 @@
 
 ![Bar chart of top 5 artists](../images/playlists/rachmaninov/artists.png)
 
+![Comparison of Artist](../images/playlists/rachmaninov/artists_comparison.png)
+
 
 <details>
 <summary>See all 5 artists</summary>
@@ -24,11 +26,9 @@
 </details>
 
 
-![Comparison of Artist](../images/rachmaninov/artists_comparison.png)
-
 ## Top Albums
 
-![Bar chart of top 2 albums in](../images/playlists/rachmaninov/albums.png)
+![Bar chart of top 2 albums](../images/playlists/rachmaninov/albums.png)
 
 
 <details>
@@ -54,6 +54,24 @@
 |-------------------:|:--------------------------------------------------------------|
 |                 24 | [Naxos](../labels/naxos.md)                                   |
 |                  3 | [Decca Music Group Ltd.](../labels/decca_music_group_ltd_.md) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 4 genres](../images/playlists/rachmaninov/genres.png)
+
+
+<details>
+<summary>See all 4 genres</summary>
+
+|   Number of Tracks | Genre                                                   |
+|-------------------:|:--------------------------------------------------------|
+|                 27 | [ukrainian classical](../genres/ukrainian_classical.md) |
+|                 27 | [russian romanticism](../genres/russian_romanticism.md) |
+|                 27 | [post-romantic era](../genres/post_romantic_era.md)     |
+|                 27 | [classical](../genres/classical.md)                     |
 
 </details>
 

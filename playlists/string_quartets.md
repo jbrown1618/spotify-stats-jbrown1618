@@ -9,6 +9,8 @@
 
 ![Bar chart of top 15 artists](../images/playlists/string_quartets/artists.png)
 
+![Comparison of Artist](../images/playlists/string_quartets/artists_comparison.png)
+
 
 <details>
 <summary>See all 15 artists</summary>
@@ -34,11 +36,9 @@
 </details>
 
 
-![Comparison of Artist](../images/string_quartets/artists_comparison.png)
-
 ## Top Albums
 
-![Bar chart of top 8 albums in](../images/playlists/string_quartets/albums.png)
+![Bar chart of top 8 albums](../images/playlists/string_quartets/albums.png)
 
 
 <details>
@@ -71,6 +71,32 @@
 |                151 | [harmonia mundi](../labels/harmonia_mundi.md)                     |
 |                 16 | [Deutsche Grammophon (DG)](../labels/deutsche_grammophon__dg_.md) |
 |                 12 | [Channel Classics Records](../labels/channel_classics_records.md) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 12 genres](../images/playlists/string_quartets/genres.png)
+
+
+<details>
+<summary>See all 12 genres</summary>
+
+|   Number of Tracks | Genre                                                             |
+|-------------------:|:------------------------------------------------------------------|
+|                179 | [classical](../genres/classical.md)                               |
+|                118 | [classical era](../genres/classical_era.md)                       |
+|                111 | [german romanticism](../genres/german_romanticism.md)             |
+|                 95 | [early romantic era](../genres/early_romantic_era.md)             |
+|                 29 | [russian modern classical](../genres/russian_modern_classical.md) |
+|                 29 | compositional ambient                                             |
+|                 24 | [late romantic era](../genres/late_romantic_era.md)               |
+|                  8 | [post-romantic era](../genres/post_romantic_era.md)               |
+|                  8 | impressionism                                                     |
+|                  8 | czech classical                                                   |
+|                  4 | [neoclassicism](../genres/neoclassicism.md)                       |
+|                  4 | [early modern classical](../genres/early_modern_classical.md)     |
 
 </details>
 

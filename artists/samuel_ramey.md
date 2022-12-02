@@ -21,6 +21,12 @@
 |-------------------:|:------------------------------------------------------------------------|
 |                 35 | [UME - Global Clearing House](../labels/ume___global_clearing_house.md) |
 
+## Genres
+
+- classical bass
+- classical performance
+- opera
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                                                                                               | Album            | Artists                                                                                                                                                                                                                                                                                                                                                                                                                                        | Label                                                                   | 💚   | 🔗                                                          |

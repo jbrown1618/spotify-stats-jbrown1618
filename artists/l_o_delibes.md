@@ -20,6 +20,13 @@
 |-------------------:|:--------------------------------------------------------------------------------------|
 |                 39 | [Australian Broadcasting Corp (ABC)](../labels/australian_broadcasting_corp__abc_.md) |
 
+## Genres
+
+- [classical](../genres/classical.md)
+- [french opera](../genres/french_opera.md)
+- [french romanticism](../genres/french_romanticism.md)
+- [late romantic era](../genres/late_romantic_era.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                                              | Album    | Artists                                                                                                             | Label                                                                                 | 💚   | 🔗                                                          |

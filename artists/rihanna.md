@@ -36,6 +36,13 @@
 |                  1 | [Rihanna](../labels/rihanna.md)                       |
 |                  1 | [Columbia](../labels/columbia.md)                     |
 
+## Genres
+
+- barbadian pop
+- [dance pop](../genres/dance_pop.md)
+- [pop](../genres/pop.md)
+- urban contemporary
+
 ## Tracks
 
 | Art                                                                                              | Track                     | Album                        | Artists                              | Label                                                 | 💚   | 🔗                                                          |

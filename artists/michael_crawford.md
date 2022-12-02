@@ -20,6 +20,11 @@
 |-------------------:|:------------------------------------------------|
 |                 11 | [Polydor Records](../labels/polydor_records.md) |
 
+## Genres
+
+- operatic pop
+- [show tunes](../genres/show_tunes.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                                      | Album                    | Artists                                                                                                                                                                                                                                                                                                                      | Label                                           | 💚   | 🔗                                                          |

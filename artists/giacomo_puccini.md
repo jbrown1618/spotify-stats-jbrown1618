@@ -22,6 +22,13 @@
 |                 42 | [Warner Music Group - X5 Music Group](../labels/warner_music_group___x5_music_group.md) |
 |                 28 | [Decca Music Group Ltd.](../labels/decca_music_group_ltd_.md)                           |
 
+## Genres
+
+- [classical](../genres/classical.md)
+- [italian opera](../genres/italian_opera.md)
+- [italian romanticism](../genres/italian_romanticism.md)
+- [post-romantic era](../genres/post_romantic_era.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                                                                                             | Album             | Artists                                                                                                                                                                                                                                                                                                                                                                                                               | Label                                                                                   | 💚   | 🔗                                                          |

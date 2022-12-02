@@ -9,6 +9,8 @@
 
 ![Bar chart of top 30 artists](../images/playlists/indie_alternative/artists.png)
 
+![Comparison of Artist](../images/playlists/indie_alternative/artists_comparison.png)
+
 
 <details>
 <summary>See all 76 artists</summary>
@@ -95,11 +97,9 @@
 </details>
 
 
-![Comparison of Artist](../images/indie_alternative/artists_comparison.png)
-
 ## Top Albums
 
-![Bar chart of top 30 albums in](../images/playlists/indie_alternative/albums.png)
+![Bar chart of top 30 albums](../images/playlists/indie_alternative/albums.png)
 
 
 <details>
@@ -283,6 +283,120 @@
 |                  1 | [Capitol Records](../labels/capitol_records.md)                                           |
 |                  1 | [Big Beat Records](../labels/big_beat_records.md)                                         |
 |                  1 | [Arista](../labels/arista.md)                                                             |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 30 genres](../images/playlists/indie_alternative/genres.png)
+
+
+<details>
+<summary>See top 100 genres</summary>
+
+|   Number of Tracks | Genre                                               |
+|-------------------:|:----------------------------------------------------|
+|                 57 | [pop](../genres/pop.md)                             |
+|                 24 | indie pop                                           |
+|                 22 | [rock](../genres/rock.md)                           |
+|                 19 | modern rock                                         |
+|                 18 | [dance pop](../genres/dance_pop.md)                 |
+|                 17 | [lilith](../genres/lilith.md)                       |
+|                 17 | baroque pop                                         |
+|                 17 | [art pop](../genres/art_pop.md)                     |
+|                 16 | uk alternative pop                                  |
+|                 15 | permanent wave                                      |
+|                 15 | [electropop](../genres/electropop.md)               |
+|                 14 | indie rock                                          |
+|                 13 | nz pop                                              |
+|                 13 | bergen indie                                        |
+|                 13 | alternative rock                                    |
+|                 11 | australian pop                                      |
+|                 10 | [pop rock](../genres/pop_rock.md)                   |
+|                 10 | oxford indie                                        |
+|                 10 | metropopolis                                        |
+|                 10 | melancholia                                         |
+|                 10 | art rock                                            |
+|                  9 | etherpop                                            |
+|                  8 | nyc pop                                             |
+|                  8 | australian dance                                    |
+|                  7 | [post-teen pop](../genres/post_teen_pop.md)         |
+|                  7 | anti-folk                                           |
+|                  6 | [neo mellow](../genres/neo_mellow.md)               |
+|                  6 | la indie                                            |
+|                  5 | uk funky                                            |
+|                  5 | uk dance                                            |
+|                  5 | tropical house                                      |
+|                  5 | pop dance                                           |
+|                  5 | edm                                                 |
+|                  5 | deep indie singer-songwriter                        |
+|                  4 | symphonic metal                                     |
+|                  4 | power metal                                         |
+|                  4 | piano rock                                          |
+|                  4 | opera metal                                         |
+|                  4 | modern alternative rock                             |
+|                  4 | gothic symphonic metal                              |
+|                  4 | gothic metal                                        |
+|                  4 | finnish power metal                                 |
+|                  4 | finnish metal                                       |
+|                  4 | canadian pop                                        |
+|                  3 | stomp and holler                                    |
+|                  3 | steampunk                                           |
+|                  3 | scottish singer-songwriter                          |
+|                  3 | comic                                               |
+|                  3 | candy pop                                           |
+|                  3 | [acoustic pop](../genres/acoustic_pop.md)           |
+|                  2 | washington indie                                    |
+|                  2 | [singer-songwriter](../genres/singer_songwriter.md) |
+|                  2 | shiver pop                                          |
+|                  2 | pop punk                                            |
+|                  2 | pop emo                                             |
+|                  2 | pixie                                               |
+|                  2 | irish singer-songwriter                             |
+|                  2 | indietronica                                        |
+|                  2 | gauze pop                                           |
+|                  2 | chamber pop                                         |
+|                  2 | celtic rock                                         |
+|                  2 | canadian indie                                      |
+|                  2 | alternative metal                                   |
+|                  1 | visual kei                                          |
+|                  1 | viral pop                                           |
+|                  1 | uk contemporary r&b                                 |
+|                  1 | swedish synthpop                                    |
+|                  1 | swedish pop                                         |
+|                  1 | swedish indie pop                                   |
+|                  1 | swedish electropop                                  |
+|                  1 | swedish alternative rock                            |
+|                  1 | spacegrunge                                         |
+|                  1 | shimmer pop                                         |
+|                  1 | nu metal                                            |
+|                  1 | nu jazz                                             |
+|                  1 | new rave                                            |
+|                  1 | neo-synthpop                                        |
+|                  1 | neo soul                                            |
+|                  1 | lo-fi                                               |
+|                  1 | [k-pop girl group](../genres/k_pop_girl_group.md)   |
+|                  1 | japanese emo                                        |
+|                  1 | j-rock                                              |
+|                  1 | j-poprock                                           |
+|                  1 | j-pop                                               |
+|                  1 | italian pop                                         |
+|                  1 | irish pop                                           |
+|                  1 | industrial rock                                     |
+|                  1 | industrial metal                                    |
+|                  1 | industrial                                          |
+|                  1 | indie rock italiano                                 |
+|                  1 | indie poptimism                                     |
+|                  1 | indie folk                                          |
+|                  1 | grunge                                              |
+|                  1 | folk-pop                                            |
+|                  1 | elephant 6                                          |
+|                  1 | electronic rock                                     |
+|                  1 | electro swing                                       |
+|                  1 | dutch pop                                           |
+|                  1 | downtempo                                           |
+|                  1 | danish pop                                          |
 
 </details>
 

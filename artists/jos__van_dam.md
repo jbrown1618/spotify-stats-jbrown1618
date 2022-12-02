@@ -26,6 +26,12 @@
 |                  5 | [Opera d'Oro](../labels/opera_d_oro.md)                                 |
 |                  1 | [Deutsche Grammophon (DG)](../labels/deutsche_grammophon__dg_.md)       |
 
+## Genres
+
+- classical bass
+- classical performance
+- opera
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                               | Album                              | Artists                                                                                                                                                                                                                                                                                                                             | Label                                                                   | 💚   | 🔗                                                          |

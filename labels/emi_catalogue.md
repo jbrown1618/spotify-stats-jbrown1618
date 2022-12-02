@@ -22,7 +22,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 12 albums in](../images/labels/emi_catalogue/albums.png)
+![Bar chart of top 12 albums](../images/labels/emi_catalogue/albums.png)
 
 
 <details>
@@ -42,6 +42,26 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dbeec63ad914c973e75c24df" alt="" width="50" /> | Please Please Me (Remastered)                      | [🔗](https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="" width="50" /> | Help! (Remastered)                                 | [🔗](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd" alt="" width="50" /> | A Hard Day's Night (Remastered)                    | [🔗](https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 6 genres](../images/labels/emi_catalogue/genres.png)
+
+
+<details>
+<summary>See all 6 genres</summary>
+
+|   Number of Tracks | Genre                                     |
+|-------------------:|:------------------------------------------|
+|                 30 | [rock](../genres/rock.md)                 |
+|                 30 | psychedelic rock                          |
+|                 30 | merseybeat                                |
+|                 30 | [classic rock](../genres/classic_rock.md) |
+|                 30 | british invasion                          |
+|                 30 | beatlesque                                |
 
 </details>
 

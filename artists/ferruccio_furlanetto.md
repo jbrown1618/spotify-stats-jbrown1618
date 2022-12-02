@@ -21,6 +21,11 @@
 |-------------------:|:------------------------------------------------------------------------|
 |                 24 | [UME - Global Clearing House](../labels/ume___global_clearing_house.md) |
 
+## Genres
+
+- classical baritone
+- italian bass
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                                                         | Album            | Artists                                                                                                                                                                                                                                                                                                                                                                                                                                        | Label                                                                   | 💚   | 🔗                                                          |

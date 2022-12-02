@@ -28,7 +28,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 9 albums in](../images/labels/jive/albums.png)
+![Bar chart of top 9 albums](../images/labels/jive/albums.png)
 
 
 <details>
@@ -45,6 +45,27 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e1a4e01cb7a1ecff468bbead" alt="" width="50" /> | Britney (Digital Deluxe Version)               | [🔗](https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c" alt="" width="50" /> | All I Want Is You                              | [🔗](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738e49866860c25afffe2f1a02" alt="" width="50" /> | ...Baby One More Time (Digital Deluxe Version) | [🔗](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 7 genres](../images/labels/jive/genres.png)
+
+
+<details>
+<summary>See all 7 genres</summary>
+
+|   Number of Tracks | Genre                                       |
+|-------------------:|:--------------------------------------------|
+|                 15 | [dance pop](../genres/dance_pop.md)         |
+|                 10 | [post-teen pop](../genres/post_teen_pop.md) |
+|                  9 | [pop](../genres/pop.md)                     |
+|                  6 | boy band                                    |
+|                  1 | urban contemporary                          |
+|                  1 | [r&b](../genres/r_b.md)                     |
+|                  1 | hip hop                                     |
 
 </details>
 

@@ -9,6 +9,8 @@
 
 ![Bar chart of top 30 artists](../images/playlists/k_pop/artists.png)
 
+![Comparison of Artist](../images/playlists/k_pop/artists_comparison.png)
+
 
 <details>
 <summary>See top 100 artists</summary>
@@ -17,7 +19,7 @@
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------|:------------------------------------------------------------|
 |                 56 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)               | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 |                 34 | <img src="https://i.scdn.co/image/ab6761610000e5ebd84fd6ae9ccfc6206ea6711e" alt="" width="50" /> | [TWICE](../artists/twice.md)                         | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
-|                 32 | <img src="https://i.scdn.co/image/ab6761610000e5eb3e64e13dfb4fc3dc1a873b00" alt="" width="50" /> | [ITZY](../artists/itzy.md)                           | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
+|                 32 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../artists/itzy.md)                           | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                 30 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)                 | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 |                 30 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)                             | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 |                 30 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md)               | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
@@ -119,11 +121,9 @@
 </details>
 
 
-![Comparison of Artist](../images/k_pop/artists_comparison.png)
-
 ## Top Albums
 
-![Bar chart of top 30 albums in](../images/playlists/k_pop/albums.png)
+![Bar chart of top 30 albums](../images/playlists/k_pop/albums.png)
 
 
 <details>
@@ -345,6 +345,52 @@
 |                  1 | [Think Ent.](../labels/think_ent_.md)                                                                               |
 |                  1 | [TOON STUDIO](../labels/toon_studio.md)                                                                             |
 |                  1 | [Starship Ent.](../labels/starship_ent_.md)                                                                         |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 30 genres](../images/playlists/k_pop/genres.png)
+
+
+<details>
+<summary>See all 32 genres</summary>
+
+|   Number of Tracks | Genre                                             |
+|-------------------:|:--------------------------------------------------|
+|                754 | [k-pop](../genres/k_pop.md)                       |
+|                358 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+|                207 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
+|                 58 | [pop](../genres/pop.md)                           |
+|                 27 | korean pop                                        |
+|                 23 | korean r&b                                        |
+|                 22 | anime                                             |
+|                 20 | k-rap                                             |
+|                 12 | korean ost                                        |
+|                  9 | korean city pop                                   |
+|                  9 | [dance pop](../genres/dance_pop.md)               |
+|                  6 | korean old school hip hop                         |
+|                  6 | classic k-pop                                     |
+|                  4 | korean mask singer                                |
+|                  2 | uk pop                                            |
+|                  2 | [post-teen pop](../genres/post_teen_pop.md)       |
+|                  2 | k-indie                                           |
+|                  2 | j-division                                        |
+|                  2 | edm                                               |
+|                  2 | chinese idol pop                                  |
+|                  1 | viral pop                                         |
+|                  1 | pop rap                                           |
+|                  1 | pop dance                                         |
+|                  1 | korean indie rock                                 |
+|                  1 | k-rock                                            |
+|                  1 | j-pop                                             |
+|                  1 | indie poptimism                                   |
+|                  1 | etherpop                                          |
+|                  1 | [electropop](../genres/electropop.md)             |
+|                  1 | electronic trap                                   |
+|                  1 | danish pop                                        |
+|                  1 | [art pop](../genres/art_pop.md)                   |
 
 </details>
 

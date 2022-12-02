@@ -30,6 +30,10 @@
 |-------------------:|:----------------------------------------------------|
 |                 36 | [RCA Records Label](../labels/rca_records_label.md) |
 
+## Genres
+
+- [a cappella](../genres/a_cappella.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                                                 | Album                                   | Artists                                       | Label                                               | 💚   | 🔗                                                          |

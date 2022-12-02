@@ -9,6 +9,8 @@
 
 ![Bar chart of top 30 artists](../images/playlists/k_pop_101/artists.png)
 
+![Comparison of Artist](../images/playlists/k_pop_101/artists_comparison.png)
+
 
 <details>
 <summary>See all 38 artists</summary>
@@ -40,7 +42,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7ece2134de8809efcfdc9be7" alt="" width="50" /> | SHINee                                               | [🔗](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md)               | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | [CHUNG HA](../artists/chung_ha.md)                   | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3e64e13dfb4fc3dc1a873b00" alt="" width="50" /> | [ITZY](../artists/itzy.md)                           | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../artists/itzy.md)                           | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)                   | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6ff45cd874b8d6ded27a4b35" alt="" width="50" /> | NMIXX                                                | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)               | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
@@ -57,11 +59,9 @@
 </details>
 
 
-![Comparison of Artist](../images/k_pop_101/artists_comparison.png)
-
 ## Top Albums
 
-![Bar chart of top 30 albums in](../images/playlists/k_pop_101/albums.png)
+![Bar chart of top 30 albums](../images/playlists/k_pop_101/albums.png)
 
 
 <details>
@@ -146,6 +146,26 @@
 |                  1 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)               |
 |                  1 | [BIGHIT MUSIC](../labels/bighit_music.md)                           |
 |                  1 | [BELIFT LAB](../labels/belift_lab.md)                               |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 6 genres](../images/playlists/k_pop_101/genres.png)
+
+
+<details>
+<summary>See all 6 genres</summary>
+
+|   Number of Tracks | Genre                                             |
+|-------------------:|:--------------------------------------------------|
+|                 33 | [k-pop](../genres/k_pop.md)                       |
+|                 15 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+|                 15 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
+|                  2 | [pop](../genres/pop.md)                           |
+|                  1 | [dance pop](../genres/dance_pop.md)               |
+|                  1 | anime                                             |
 
 </details>
 

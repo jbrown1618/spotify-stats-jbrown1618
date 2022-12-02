@@ -36,7 +36,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 9 albums in](../images/labels/sony_music_labels_inc_/albums.png)
+![Bar chart of top 9 albums](../images/labels/sony_music_labels_inc_/albums.png)
 
 
 <details>
@@ -53,6 +53,43 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d784afd710070b5fe22b99bf" alt="" width="50" /> | CIRCUS                    | [🔗](https://open.spotify.com/album/4IQHY28D4aHus9lGDlSdPp) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a2272c8966971b7b04066241" alt="" width="50" /> | CEREMONY                  | [🔗](https://open.spotify.com/album/1IYJeRjWNruxAKls5cBtqm) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f038f68827e437530b3a80a8" alt="" width="50" /> | BOOTLEG                   | [🔗](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 23 genres](../images/labels/sony_music_labels_inc_/genres.png)
+
+
+<details>
+<summary>See all 23 genres</summary>
+
+|   Number of Tracks | Genre                                             |
+|-------------------:|:--------------------------------------------------|
+|                  4 | j-pop                                             |
+|                  3 | anime                                             |
+|                  1 | west end                                          |
+|                  1 | sunshine pop                                      |
+|                  1 | [show tunes](../genres/show_tunes.md)             |
+|                  1 | renaissance                                       |
+|                  1 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+|                  1 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
+|                  1 | [k-pop](../genres/k_pop.md)                       |
+|                  1 | japanese singer-songwriter                        |
+|                  1 | japanese post-hardcore                            |
+|                  1 | japanese math rock                                |
+|                  1 | japanese emo                                      |
+|                  1 | j-rock                                            |
+|                  1 | j-pixie                                           |
+|                  1 | franco-flemish school                             |
+|                  1 | [early music](../genres/early_music.md)           |
+|                  1 | [classical](../genres/classical.md)               |
+|                  1 | classic j-pop                                     |
+|                  1 | [broadway](../genres/broadway.md)                 |
+|                  1 | brill building pop                                |
+|                  1 | baroque pop                                       |
+|                  1 | anime rock                                        |
 
 </details>
 

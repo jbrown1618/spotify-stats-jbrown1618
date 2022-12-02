@@ -20,6 +20,10 @@
 |-------------------:|:------------------------------------------------|
 |                 11 | [Polydor Records](../labels/polydor_records.md) |
 
+## Genres
+
+- german show tunes
+
 ## Tracks
 
 | Art                                                                                              | Track                                      | Album                    | Artists                                                                                                                                                                                                                                                                                                                      | Label                                           | 💚   | 🔗                                                          |

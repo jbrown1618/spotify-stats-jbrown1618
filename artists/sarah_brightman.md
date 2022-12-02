@@ -20,6 +20,10 @@
 |-------------------:|:------------------------------------------------|
 |                 14 | [Polydor Records](../labels/polydor_records.md) |
 
+## Genres
+
+- operatic pop
+
 ## Tracks
 
 | Art                                                                                              | Track                                      | Album                    | Artists                                                                                                                                                                                                                                                                                                                      | Label                                           | 💚   | 🔗                                                          |

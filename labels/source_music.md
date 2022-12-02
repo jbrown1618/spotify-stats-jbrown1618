@@ -24,7 +24,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 6 albums in](../images/labels/source_music/albums.png)
+![Bar chart of top 6 albums](../images/labels/source_music/albums.png)
 
 
 <details>
@@ -38,6 +38,23 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f8155fafa8e6f4d332f2e907" alt="" width="50" /> | Love Rain                          | [🔗](https://open.spotify.com/album/40fAbWLsPvL0nUuiDCwxHu) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27393f063bd7b14993d5ffb9287" alt="" width="50" /> | GFRIEND The 1st Album 'LOL'        | [🔗](https://open.spotify.com/album/0PlSM2Hml1cFANnzYu6RCg) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fc5b3a4f6c07140daa455a61" alt="" width="50" /> | GFRIEND 3rd Mini Album 'SNOWFLAKE' | [🔗](https://open.spotify.com/album/0COnSwFb5qOhABUyWNw6Kp) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 3 genres](../images/labels/source_music/genres.png)
+
+
+<details>
+<summary>See all 3 genres</summary>
+
+|   Number of Tracks | Genre                                             |
+|-------------------:|:--------------------------------------------------|
+|                  4 | [k-pop](../genres/k_pop.md)                       |
+|                  3 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+|                  1 | korean ost                                        |
 
 </details>
 

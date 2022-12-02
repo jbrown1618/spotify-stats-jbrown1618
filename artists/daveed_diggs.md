@@ -20,6 +20,10 @@
 |-------------------:|:--------------------------------------------------|
 |                 13 | [Atlantic Records](../labels/atlantic_records.md) |
 
+## Genres
+
+- alternative hip hop
+
 ## Tracks
 
 | Art                                                                                              | Track                          | Album                                       | Artists                                                                                                                                                                                                                                                                                                                                  | Label                                             | 💚   | 🔗                                                          |

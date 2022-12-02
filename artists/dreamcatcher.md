@@ -33,6 +33,11 @@
 |                  1 | [드림캐쳐컴퍼니](../labels/_______.md)                           |
 |                  1 | [㈜ 드림캐쳐 컴퍼니](../labels/__________.md)                     |
 
+## Genres
+
+- [k-pop](../genres/k_pop.md)
+- [k-pop girl group](../genres/k_pop_girl_group.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                | Album                                       | Artists                         | Label                | 💚   | 🔗                                                          |

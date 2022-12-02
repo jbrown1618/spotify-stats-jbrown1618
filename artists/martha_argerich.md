@@ -22,6 +22,12 @@
 |                 30 | [Deutsche Grammophon (DG)](../labels/deutsche_grammophon__dg_.md) |
 |                  1 | [DOREMI](../labels/doremi.md)                                     |
 
+## Genres
+
+- classical performance
+- classical piano
+- latin american classical piano
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                         | Album                         | Artists                                                                      | Label                                                             | 💚   | 🔗                                                          |

@@ -9,6 +9,8 @@
 
 ![Bar chart of top 21 artists](../images/playlists/program_music/artists.png)
 
+![Comparison of Artist](../images/playlists/program_music/artists_comparison.png)
+
 
 <details>
 <summary>See all 21 artists</summary>
@@ -40,11 +42,9 @@
 </details>
 
 
-![Comparison of Artist](../images/program_music/artists_comparison.png)
-
 ## Top Albums
 
-![Bar chart of top 5 albums in](../images/playlists/program_music/albums.png)
+![Bar chart of top 5 albums](../images/playlists/program_music/albums.png)
 
 
 <details>
@@ -75,6 +75,28 @@
 |                 13 | [Lso Live](../labels/lso_live.md)                                                       |
 |                  3 | [Decca Music Group Ltd.](../labels/decca_music_group_ltd_.md)                           |
 |                  1 | [Warner Music Group - X5 Music Group](../labels/warner_music_group___x5_music_group.md) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 8 genres](../images/playlists/program_music/genres.png)
+
+
+<details>
+<summary>See all 8 genres</summary>
+
+|   Number of Tracks | Genre                                                   |
+|-------------------:|:--------------------------------------------------------|
+|                 25 | [classical](../genres/classical.md)                     |
+|                 17 | [russian romanticism](../genres/russian_romanticism.md) |
+|                 17 | [late romantic era](../genres/late_romantic_era.md)     |
+|                 13 | [german romanticism](../genres/german_romanticism.md)   |
+|                 13 | [early romantic era](../genres/early_romantic_era.md)   |
+|                 11 | [post-romantic era](../genres/post_romantic_era.md)     |
+|                  7 | british modern classical                                |
+|                  3 | impressionism                                           |
 
 </details>
 

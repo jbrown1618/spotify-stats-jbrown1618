@@ -20,6 +20,10 @@
 |-------------------:|:----------------------------------------------------------------------------------------|
 |                 20 | [Warner Music Group - X5 Music Group](../labels/warner_music_group___x5_music_group.md) |
 
+## Genres
+
+- classical bass
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                                                                            | Album     | Artists                                                                                                                                                                                                                                                                                                                                                                                                               | Label                                                                                   | 💚   | 🔗                                                          |

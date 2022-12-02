@@ -29,6 +29,11 @@
 |                 11 | [High Up Entertainment](../labels/high_up_entertainment.md) |
 |                  1 | [Universal Music LLC](../labels/universal_music_llc.md)     |
 
+## Genres
+
+- [k-pop](../genres/k_pop.md)
+- [k-pop girl group](../genres/k_pop_girl_group.md)
+
 ## Tracks
 
 | Art                                                                                              | Track             | Album                   | Artists           | Label                                                       | 💚   | 🔗                                                          |

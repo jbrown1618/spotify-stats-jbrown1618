@@ -37,6 +37,11 @@
 |                  1 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)                                                           |
 |                  1 | [AOMG](../labels/aomg.md)                                                                                           |
 
+## Genres
+
+- [k-pop](../genres/k_pop.md)
+- [pop](../genres/pop.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                          | Album                     | Artists                           | Label                                                                                                                                | 💚   | 🔗                                                          |

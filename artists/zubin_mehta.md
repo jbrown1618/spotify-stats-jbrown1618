@@ -20,6 +20,11 @@
 |-------------------:|:--------------------------------------------------------------|
 |                 28 | [Decca Music Group Ltd.](../labels/decca_music_group_ltd_.md) |
 
+## Genres
+
+- classical performance
+- orchestral performance
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                   | Album             | Artists                                                                                                                                                                                                                                                                                                              | Label                                                         | 💚   | 🔗                                                          |

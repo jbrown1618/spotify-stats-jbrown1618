@@ -20,6 +20,12 @@
 |-------------------:|:------------------------------------|
 |                 18 | [Mariinsky](../labels/mariinsky.md) |
 
+## Genres
+
+- [classical](../genres/classical.md)
+- classical performance
+- orchestral performance
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                                     | Album                                | Artists                                                                                                                   | Label                               | 💚   | 🔗                                                          |

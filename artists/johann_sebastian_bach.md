@@ -25,6 +25,13 @@
 |                 19 | [Decca Music Group Ltd.](../labels/decca_music_group_ltd_.md) |
 |                  1 | [Warner Classics](../labels/warner_classics.md)               |
 
+## Genres
+
+- [baroque](../genres/baroque.md)
+- [classical](../genres/classical.md)
+- [early music](../genres/early_music.md)
+- [german baroque](../genres/german_baroque.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                  | Album                                         | Artists                                                                                                                                                                           | Label                                                         | 💚   | 🔗                                                          |

@@ -34,6 +34,11 @@
 |                  1 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
 |                  1 | [Genie Music Corporation](../labels/genie_music_corporation.md)     |
 
+## Genres
+
+- anime
+- [k-pop boy group](../genres/k_pop_boy_group.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                         | Album               | Artists               | Label                                                                                                                                | 💚   | 🔗                                                          |

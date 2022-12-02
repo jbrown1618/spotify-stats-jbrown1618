@@ -23,7 +23,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 1 albums in](../images/labels/nimbus_records/albums.png)
+![Bar chart of top 1 albums](../images/labels/nimbus_records/albums.png)
 
 
 <details>
@@ -32,6 +32,23 @@ Appears as:
 |   Number of Tracks | Art                                                                                              | Album                                             | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------|:-----------------------------------------------------------|
 |                 20 | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="" width="50" /> | Debussy: Clair De Lune and Other Piano Favourites | [🔗](https://open.spotify.com/album/4O5tv6jrLH80bmll46xEEe) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 3 genres](../images/labels/nimbus_records/genres.png)
+
+
+<details>
+<summary>See all 3 genres</summary>
+
+|   Number of Tracks | Genre                                               |
+|-------------------:|:----------------------------------------------------|
+|                 20 | [post-romantic era](../genres/post_romantic_era.md) |
+|                 20 | impressionism                                       |
+|                 20 | [classical](../genres/classical.md)                 |
 
 </details>
 

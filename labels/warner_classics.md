@@ -46,7 +46,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 6 albums in](../images/labels/warner_classics/albums.png)
+![Bar chart of top 6 albums](../images/labels/warner_classics/albums.png)
 
 
 <details>
@@ -60,6 +60,40 @@ Appears as:
 |                 14 | <img src="https://i.scdn.co/image/ab67616d0000b27350f0e9f3fe510cfe42f5f2d9" alt="" width="50" /> | Mozart: Eine Kleine Nachtmusik etc.       | [🔗](https://open.spotify.com/album/5YCuibCDJrkVcS3UOAYqr9) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273efbc193171a2f99fe94911c6" alt="" width="50" /> | Folk Songs Of The British Isles           | [🔗](https://open.spotify.com/album/7eFKaVzp6K60oBnB2kTjwV) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fa70f75821d8ef6496b3ff64" alt="" width="50" /> | Around the World - A Folk Song Collection | [🔗](https://open.spotify.com/album/2YLEK2g3iwuhW4vp02XRnn) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 20 genres](../images/labels/warner_classics/genres.png)
+
+
+<details>
+<summary>See all 20 genres</summary>
+
+|   Number of Tracks | Genre                                                   |
+|-------------------:|:--------------------------------------------------------|
+|                 84 | [classical](../genres/classical.md)                     |
+|                 58 | [late romantic era](../genres/late_romantic_era.md)     |
+|                 56 | [russian romanticism](../genres/russian_romanticism.md) |
+|                 18 | [early music](../genres/early_music.md)                 |
+|                 18 | [baroque](../genres/baroque.md)                         |
+|                 16 | italian baroque                                         |
+|                  6 | [classical era](../genres/classical_era.md)             |
+|                  5 | puirt-a-beul                                            |
+|                  4 | vocal ensemble                                          |
+|                  4 | polyphony                                               |
+|                  4 | choral                                                  |
+|                  4 | cambridge choir                                         |
+|                  4 | british choir                                           |
+|                  4 | [a cappella](../genres/a_cappella.md)                   |
+|                  2 | norwegian classical                                     |
+|                  2 | [german baroque](../genres/german_baroque.md)           |
+|                  1 | sleep                                                   |
+|                  1 | [post-romantic era](../genres/post_romantic_era.md)     |
+|                  1 | [german romanticism](../genres/german_romanticism.md)   |
+|                  1 | [early romantic era](../genres/early_romantic_era.md)   |
 
 </details>
 

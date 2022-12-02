@@ -31,7 +31,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 11 albums in](../images/labels/wm_korea/albums.png)
+![Bar chart of top 11 albums](../images/labels/wm_korea/albums.png)
 
 
 <details>
@@ -50,6 +50,26 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27378672dc9ecfb1a2e87501284" alt="" width="50" /> | GOT7                                 | [🔗](https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273addef7fad07f17acdf7d6b98" alt="" width="50" /> | B:COMPLETE                           | [🔗](https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ffd2d252ce504dac86a25efc" alt="" width="50" /> | ?depacse ohw                         | [🔗](https://open.spotify.com/album/0srUbfZOMUBwUitQGQeUca) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 6 genres](../images/labels/wm_korea/genres.png)
+
+
+<details>
+<summary>See all 6 genres</summary>
+
+|   Number of Tracks | Genre                                             |
+|-------------------:|:--------------------------------------------------|
+|                 11 | [k-pop](../genres/k_pop.md)                       |
+|                  3 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
+|                  2 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+|                  1 | korean r&b                                        |
+|                  1 | korean ost                                        |
+|                  1 | k-rap                                             |
 
 </details>
 

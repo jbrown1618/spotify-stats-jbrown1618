@@ -20,6 +20,10 @@
 |-------------------:|:----------------------------------------|
 |                 10 | [Opera d'Oro](../labels/opera_d_oro.md) |
 
+## Genres
+
+- classical soprano
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                       | Album   | Artists                                                                                                                                                                                                                                                            | Label                                   | 💚   | 🔗                                                          |

@@ -36,6 +36,11 @@
 |                  1 | [Charlie's Angels](../labels/charlie_s_angels.md)                                                                           |
 |                  1 | [Ariana Grande & Justin Bieber "Stuck With U"- Charity](../labels/ariana_grande___justin_bieber__stuck_with_u___charity.md) |
 
+## Genres
+
+- [dance pop](../genres/dance_pop.md)
+- [pop](../genres/pop.md)
+
 ## Tracks
 
 | Art                                                                                              | Track                                                                    | Album                                                 | Artists                                                                         | Label                                                 | 💚   | 🔗                                                          |

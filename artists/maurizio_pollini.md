@@ -20,6 +20,12 @@
 |-------------------:|:------------------------------------------------------------------|
 |                 19 | [Deutsche Grammophon (DG)](../labels/deutsche_grammophon__dg_.md) |
 
+## Genres
+
+- classical performance
+- classical piano
+- italian classical piano
+
 ## Tracks
 
 | Art                                                                                              | Track                                                          | Album             | Artists                                                                        | Label                                                             | 💚   | 🔗                                                          |

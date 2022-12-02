@@ -35,7 +35,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 13 albums in](../images/labels/capitol_records/albums.png)
+![Bar chart of top 13 albums](../images/labels/capitol_records/albums.png)
 
 
 <details>
@@ -56,6 +56,44 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1113af3a19a41dc8eec534e" alt="" width="50" /> | Luck Of The Draw                        | [🔗](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d658a02ba8931985bdc4e0da" alt="" width="50" /> | Heard It In A Past Life                 | [🔗](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="" width="50" /> | Come Fly With Me (Remastered)           | [🔗](https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE) |
+
+</details>
+
+
+## Genres
+
+![Bar chart of top 24 genres](../images/labels/capitol_records/genres.png)
+
+
+<details>
+<summary>See all 24 genres</summary>
+
+|   Number of Tracks | Genre                                               |
+|-------------------:|:----------------------------------------------------|
+|                 10 | [pop](../genres/pop.md)                             |
+|                  9 | [dance pop](../genres/dance_pop.md)                 |
+|                  3 | [adult standards](../genres/adult_standards.md)     |
+|                  3 | [acoustic pop](../genres/acoustic_pop.md)           |
+|                  2 | lounge                                              |
+|                  2 | indie poptimism                                     |
+|                  2 | etherpop                                            |
+|                  2 | [electropop](../genres/electropop.md)               |
+|                  2 | easy listening                                      |
+|                  1 | vocal jazz                                          |
+|                  1 | [soft rock](../genres/soft_rock.md)                 |
+|                  1 | [singer-songwriter](../genres/singer_songwriter.md) |
+|                  1 | roots rock                                          |
+|                  1 | [post-teen pop](../genres/post_teen_pop.md)         |
+|                  1 | [mellow gold](../genres/mellow_gold.md)             |
+|                  1 | [lilith](../genres/lilith.md)                       |
+|                  1 | [k-pop](../genres/k_pop.md)                         |
+|                  1 | indie pop                                           |
+|                  1 | folk rock                                           |
+|                  1 | folk                                                |
+|                  1 | electric blues                                      |
+|                  1 | country rock                                        |
+|                  1 | [classic rock](../genres/classic_rock.md)           |
+|                  1 | boy band                                            |
 
 </details>
 
@@ -81,4 +119,4 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273937af329667311f4b2831616" alt="" width="50" /> | Wide Awake                                   | Teenage Dream: The Complete Confection  | Katy Perry                             | [Capitol Records](capitol_records.md)                                          | 💚   | [🔗](https://open.spotify.com/track/5JLv62qFIS1DR3zGEcApRt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d658a02ba8931985bdc4e0da" alt="" width="50" /> | Light On                                     | Heard It In A Past Life                 | Maggie Rogers                          | [Capitol Records](capitol_records.md)                                          | 💚   | [🔗](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701" alt="" width="50" /> | Nature Boy                                   | The Nat King Cole Story                 | Nat King Cole                          | [Capitol Records](capitol_records.md)                                          | 💚   | [🔗](https://open.spotify.com/track/2WMyu5IYgxEuCd6xgFgJrl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273724a0cb04dbc89d9dd6ee06d" alt="" width="50" /> | Tiger Inside                                 | Super One -The 1st Album                | SuperM                                 | [SM Entertainment](sm_entertainment.md), [Capitol Records](capitol_records.md) | 💚   | [🔗](https://open.spotify.com/track/1ADlTU9mFc3oDdD9Vla2Yw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273724a0cb04dbc89d9dd6ee06d" alt="" width="50" /> | Tiger Inside                                 | Super One -The 1st Album                | SuperM                                 | [Capitol Records](capitol_records.md), [SM Entertainment](sm_entertainment.md) | 💚   | [🔗](https://open.spotify.com/track/1ADlTU9mFc3oDdD9Vla2Yw) |

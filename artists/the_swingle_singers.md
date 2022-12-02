@@ -30,6 +30,11 @@
 |                  1 | [Sonoton Music](../labels/sonoton_music.md)                 |
 |                  1 | [Signum OMP](../labels/signum_omp.md)                       |
 
+## Genres
+
+- [a cappella](../genres/a_cappella.md)
+- french jazz
+
 ## Tracks
 
 | Art                                                                                              | Track                          | Album                                     | Artists                                                                   | Label                                           | 💚   | 🔗                                                          |
