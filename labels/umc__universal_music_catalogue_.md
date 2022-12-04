@@ -55,24 +55,24 @@ Appears as:
 <details>
 <summary>See all 16 genres</summary>
 
-|   Number of Tracks | Genre                                     |
-|-------------------:|:------------------------------------------|
-|                 10 | west end                                  |
-|                 10 | [show tunes](../genres/show_tunes.md)     |
-|                 10 | [broadway](../genres/broadway.md)         |
-|                  4 | [mellow gold](../genres/mellow_gold.md)   |
-|                  3 | piano rock                                |
-|                  3 | glam rock                                 |
-|                  2 | [rock](../genres/rock.md)                 |
-|                  2 | psychedelic rock                          |
-|                  2 | [classic rock](../genres/classic_rock.md) |
-|                  2 | british invasion                          |
-|                  1 | merseybeat                                |
-|                  1 | hard rock                                 |
-|                  1 | blues rock                                |
-|                  1 | beatlesque                                |
-|                  1 | art rock                                  |
-|                  1 | album rock                                |
+|   Number of Tracks | Genre                                             |
+|-------------------:|:--------------------------------------------------|
+|                 10 | west end                                          |
+|                 10 | [show tunes](../genres/show_tunes.md)             |
+|                 10 | [broadway](../genres/broadway.md)                 |
+|                  4 | [mellow gold](../genres/mellow_gold.md)           |
+|                  3 | piano rock                                        |
+|                  3 | glam rock                                         |
+|                  2 | [rock](../genres/rock.md)                         |
+|                  2 | [psychedelic rock](../genres/psychedelic_rock.md) |
+|                  2 | [classic rock](../genres/classic_rock.md)         |
+|                  2 | british invasion                                  |
+|                  1 | merseybeat                                        |
+|                  1 | hard rock                                         |
+|                  1 | blues rock                                        |
+|                  1 | beatlesque                                        |
+|                  1 | art rock                                          |
+|                  1 | album rock                                        |
 
 </details>
 

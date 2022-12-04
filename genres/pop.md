@@ -1,6 +1,6 @@
 # pop
 
-[504 songs](pop_tracks.md)
+[509 songs](pop_tracks.md)
 
 ## Top Artists
 
@@ -22,7 +22,7 @@
 |                 18 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../artists/leehi.md)                                   | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 |                 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | [Florence + The Machine](../artists/florence___the_machine.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
 |                 15 | <img src="https://i.scdn.co/image/ab6761610000e5eb676338904deb80cffb568216" alt="" width="50" /> | [Beyoncé](../artists/beyonc_.md)                               | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
-|                 13 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../artists/lady_gaga.md)                           | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
+|                 14 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../artists/lady_gaga.md)                           | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
 |                 11 | <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | [Dua Lipa](../artists/dua_lipa.md)                             | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 |                 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | [Rihanna](../artists/rihanna.md)                               | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 |                 11 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../artists/bruno_mars.md)                         | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
@@ -40,6 +40,7 @@
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410" alt="" width="50" /> | Clean Bandit                                                   | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb767815f4876969e8f888f0db" alt="" width="50" /> | The Rose                                                       | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | Coldplay                                                       | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
+|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb576cb43281160e345f728b71" alt="" width="50" /> | Charli XCX                                                     | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | Nicki Minaj                                                    | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb0db36498679f03f30606d45f" alt="" width="50" /> | Ellie Goulding                                                 | [🔗](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb288ac05481cedc5bddb5b11b" alt="" width="50" /> | Maroon 5                                                       | [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) |
@@ -78,6 +79,8 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb60c3e9abe7327c0097738f22" alt="" width="50" /> | Sean Paul                                                      | [🔗](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb118cd1f3261f08d957105996" alt="" width="50" /> | Kelly Clarkson                                                 | [🔗](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf01bf904b446e4a043acb867" alt="" width="50" /> | The Script                                                     | [🔗](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb9df0f924a5e609c8da143cd5" alt="" width="50" /> | A. G. Cook                                                     | [🔗](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd6442ba68c144b0c84b207a4" alt="" width="50" /> | Rina Sawayama                                                  | [🔗](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb9ba4d95b74bacff4d5747f61" alt="" width="50" /> | Hozier                                                         | [🔗](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd09edfd2babfc9fd2ba748e" alt="" width="50" /> | Daniel Caesar                                                  | [🔗](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5acb3cb0a8b87d3952738b97" alt="" width="50" /> | Fifth Harmony                                                  | [🔗](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) |
@@ -111,9 +114,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6772690000c46ca3ebb27ba9a55044f32af6e1" alt="" width="50" /> | Silk Sonic                                                     | [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb31072db9da0311ecfabe96bf" alt="" width="50" /> | Khalid                                                         | [🔗](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf271138f95fbe8188d909d50" alt="" width="50" /> | Kesha                                                          | [🔗](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb15a85a7957cac2c370e713ab" alt="" width="50" /> | Kid Ink                                                        | [🔗](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3c02f4fb4cc9187c488afd50" alt="" width="50" /> | The Chainsmokers                                               | [🔗](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb66d17ee8690d2e8d94ee7387" alt="" width="50" /> | Martin Garrix                                                  | [🔗](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) |
 
 </details>
 
@@ -205,6 +205,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27354c6edd554935d73e159e199" alt="" width="50" /> | Circus (Deluxe Version)                    | [🔗](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | Chromatica                                 | [🔗](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273efc2fc4cdaeb04524eb10c15" alt="" width="50" /> | Celebration (Bonus Track Version)          | [🔗](https://open.spotify.com/album/4GU7z3q6fg90MWrkTacYYG) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="" width="50" /> | CRASH                                      | [🔗](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | Bad (Remastered)                           | [🔗](https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273026e88f624dfb96f2e1ef10b" alt="" width="50" /> | B'Day Deluxe Edition                       | [🔗](https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342" alt="" width="50" /> | A Star Is Born Soundtrack                  | [🔗](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) |
@@ -226,7 +227,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737941a79c3108cedb1667b68d" alt="" width="50" /> | bandaids                                   | [🔗](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27341aa6776dc15fbd71a2b4557" alt="" width="50" /> | Youngblood (Deluxe)                        | [🔗](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2" alt="" width="50" /> | Young And Beautiful                        | [🔗](https://open.spotify.com/album/1D92WOHWUI2AGQCCdplcXL) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731d883d3f10af481faa3c7e04" alt="" width="50" /> | You Don't Know Me                          | [🔗](https://open.spotify.com/album/3gdmWRWWJmkp5uMBXf755B) |
 
 </details>
 
@@ -244,13 +244,13 @@
 |                 79 | [Epic](../labels/epic.md)                                                                                           |
 |                 36 | [Columbia](../labels/columbia.md)                                                                                   |
 |                 32 | [Taylor Swift](../labels/taylor_swift.md)                                                                           |
-|                 31 | [Interscope](../labels/interscope.md)                                                                               |
+|                 32 | [Interscope](../labels/interscope.md)                                                                               |
 |                 29 | [Big Machine Records](../labels/big_machine_records.md)                                                             |
 |                 26 | [RCA Records Label](../labels/rca_records_label.md)                                                                 |
 |                 24 | [Polydor Records](../labels/polydor_records.md)                                                                     |
 |                 23 | [Warner Records](../labels/warner_records.md)                                                                       |
+|                 22 | [Atlantic Records](../labels/atlantic_records.md)                                                                   |
 |                 20 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
-|                 19 | [Atlantic Records](../labels/atlantic_records.md)                                                                   |
 |                 15 | [Universal-Island Records Ltd.](../labels/universal_island_records_ltd_.md)                                         |
 |                 15 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 13 | [Universal Music LLC](../labels/universal_music_llc.md)                                                             |
@@ -264,13 +264,13 @@
 |                  7 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                                                 |
 |                  6 | [XL Recordings](../labels/xl_recordings.md)                                                                         |
 |                  6 | [Parkwood Entertainment](../labels/parkwood_entertainment.md)                                                       |
+|                  6 | [Atlantic Records UK](../labels/atlantic_records_uk.md)                                                             |
 |                  5 | [Music World Music](../labels/music_world_music.md)                                                                 |
 |                  5 | [Island Records](../labels/island_records.md)                                                                       |
 |                  5 | [Genie Music Corporation;Stone Music Entertainment](../labels/genie_music_corporation_stone_music_entertainment.md) |
 |                  5 | [Genie Music Corporation](../labels/genie_music_corporation.md)                                                     |
 |                  5 | [Beluga Heights](../labels/beluga_heights.md)                                                                       |
 |                  5 | [Bad Boy](../labels/bad_boy.md)                                                                                     |
-|                  5 | [Atlantic Records UK](../labels/atlantic_records_uk.md)                                                             |
 |                  4 | [LaFace Records](../labels/laface_records.md)                                                                       |
 |                  4 | [Kemosabe Records](../labels/kemosabe_records.md)                                                                   |
 |                  4 | [19 Recordings Limited](../labels/19_recordings_limited.md)                                                         |
@@ -353,25 +353,25 @@
 | Anaconda                        | La Vie En Rose              |
 | WAP (feat. Megan Thee Stallion) | Once Upon Another Time      |
 | Billie Jean                     | Gravity                     |
-| Pretty Please                   | Shades Of Cool              |
-| bury a friend                   | Stay                        |
-| 1, 2, 3, 4                      | Norman fucking Rockwell     |
-| Sally Walker                    | Already Gone                |
+| Pretty Please                   | Stay                        |
+| bury a friend                   | Shades Of Cool              |
+| Sally Walker                    | Norman fucking Rockwell     |
+| 1, 2, 3, 4                      | Already Gone                |
 | Coño                            | Fix You                     |
 | I Think He Knows                | Born To Die                 |
 
-| 10 most Energetic tracks        | 10 least Energetic tracks                                                         |
-|:--------------------------------|:----------------------------------------------------------------------------------|
-| Smooth Criminal - 2012 Remaster | Your Song                                                                         |
-| Boss Bitch                      | Bright Lights and Cityscapes                                                      |
-| Red Lipstick (feat. Yoonmirae)  | Manhattan                                                                         |
-| Stress                          | Sweet Nothing                                                                     |
-| My Happy Ending                 | Come Home                                                                         |
-| This Is What You Came For       | xanny                                                                             |
-| Bad Romance                     | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 |
-| Believe                         | when the party's over                                                             |
-| Red                             | In My Life                                                                        |
-| Bad Idea (feat. Jason Mraz)     | Kaleidoscope Heart                                                                |
+| 10 most Energetic tracks          | 10 least Energetic tracks                                                         |
+|:----------------------------------|:----------------------------------------------------------------------------------|
+| Smooth Criminal - 2012 Remaster   | Your Song                                                                         |
+| Boss Bitch                        | Bright Lights and Cityscapes                                                      |
+| Beg For You (feat. Rina Sawayama) | Manhattan                                                                         |
+| Red Lipstick (feat. Yoonmirae)    | Sweet Nothing                                                                     |
+| Stress                            | Come Home                                                                         |
+| My Happy Ending                   | xanny                                                                             |
+| This Is What You Came For         | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 |
+| Bad Romance                       | when the party's over                                                             |
+| Believe                           | In My Life                                                                        |
+| Red                               | Kaleidoscope Heart                                                                |
 
 | 10 most Speechy tracks          | 10 least Speechy tracks        |
 |:--------------------------------|:-------------------------------|
@@ -399,18 +399,18 @@
 | Come Home                                                                         | Coño                                                                     |
 | Stay                                                                              | Misery                                                                   |
 
-| 10 most Instrumental tracks     | 10 least Instrumental tracks            |
-|:--------------------------------|:----------------------------------------|
-| everything i wanted             | Rockabye (feat. Sean Paul & Anne-Marie) |
-| Labyrinth                       | Cold As Hell                            |
-| Smooth Criminal - 2012 Remaster | What Do I Call You                      |
-| Swan Song                       | Happy                                   |
-| Wanna Be Startin' Somethin'     | Spark                                   |
-| you should see me in a crown    | Four Seasons                            |
-| bury a friend                   | 그대라는 시                                  |
-| Therefore I Am                  | 11:11                                   |
-| bad guy                         | If                                      |
-| This Is What You Came For       | Say You're Sorry                        |
+| 10 most Instrumental tracks     | 10 least Instrumental tracks    |
+|:--------------------------------|:--------------------------------|
+| everything i wanted             | Closer                          |
+| Labyrinth                       | Paparazzi                       |
+| Smooth Criminal - 2012 Remaster | Til It Happens To You           |
+| Swan Song                       | Rain On Me (with Ariana Grande) |
+| Wanna Be Startin' Somethin'     | La Vie En Rose                  |
+| you should see me in a crown    | Yoü And I                       |
+| bury a friend                   | Million Reasons                 |
+| Therefore I Am                  | Before He Cheats                |
+| bad guy                         | Blown Away                      |
+| This Is What You Came For       | Say You're Sorry                |
 
 | 10 most Live tracks                                                               | 10 least Live tracks             |
 |:----------------------------------------------------------------------------------|:---------------------------------|

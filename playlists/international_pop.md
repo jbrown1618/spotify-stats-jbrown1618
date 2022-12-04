@@ -305,7 +305,7 @@
 
 
 <details>
-<summary>See all 98 genres</summary>
+<summary>See all 97 genres</summary>
 
 |   Number of Tracks | Genre                                 |
 |-------------------:|:--------------------------------------|
@@ -384,7 +384,6 @@
 |                  1 | jewish pop                            |
 |                  1 | japanese post-hardcore                |
 |                  1 | japanese math rock                    |
-|                  1 | j-poprock                             |
 |                  1 | j-pixie                               |
 |                  1 | j-acoustic                            |
 |                  1 | italian pop                           |

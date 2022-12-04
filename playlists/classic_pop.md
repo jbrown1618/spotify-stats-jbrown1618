@@ -153,7 +153,7 @@
 
 
 <details>
-<summary>See all 41 genres</summary>
+<summary>See all 40 genres</summary>
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
@@ -183,7 +183,6 @@
 |                  3 | outlaw country                                      |
 |                  3 | bubblegum pop                                       |
 |                  3 | arkansas country                                    |
-|                  2 | vocal jazz                                          |
 |                  1 | sunshine pop                                        |
 |                  1 | southern soul                                       |
 |                  1 | smooth jazz                                         |

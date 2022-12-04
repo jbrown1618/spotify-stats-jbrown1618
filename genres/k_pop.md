@@ -1,6 +1,6 @@
 # k-pop
 
-[781 songs](k_pop_tracks.md)
+[782 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -38,11 +38,11 @@
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | CLC                                                  | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb64362c8789b72fb00e0a3611" alt="" width="50" /> | ATEEZ                                                | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bd65b0efee10bfa8328c33b" alt="" width="50" /> | NCT U                                                | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
+|                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb758f3c632d4d726f1129d336" alt="" width="50" /> | TOMORROW X TOGETHER                                  | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebaad1353fe0343220b1331768" alt="" width="50" /> | SUPER JUNIOR                                         | [🔗](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a29246fa242d0b9f8de3b31" alt="" width="50" /> | SUNMI                                                | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebfe2339c232c5a840fc527402" alt="" width="50" /> | SEULGI                                               | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c8ac3b2d8d886fbf3f0877a" alt="" width="50" /> | NCT DREAM                                            | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
-|                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb758f3c632d4d726f1129d336" alt="" width="50" /> | TOMORROW X TOGETHER                                  | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb59501d4e82c8cb6fc409044d" alt="" width="50" /> | WENDY                                                | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | Hwa Sa                                               | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5ebd90aa536055fe9806b3960e6" alt="" width="50" /> | GOT7                                                 | [🔗](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) |
@@ -242,7 +242,7 @@
 |   Number of Tracks | Label                                                                                                               |
 |-------------------:|:--------------------------------------------------------------------------------------------------------------------|
 |                196 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
-|                 68 | [Republic Records](../labels/republic_records.md)                                                                   |
+|                 69 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 60 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
 |                 44 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                                                 |
 |                 42 | [Genie Music Corporation](../labels/genie_music_corporation.md)                                                     |
@@ -352,8 +352,8 @@
 | FACE                                  | Boy in time - HUI Solo      |
 | Idle song                             | HWAA                        |
 | Jelly                                 | CHEESE                      |
-| Typa Girl                             | Clockwork                   |
-| Weather                               | Epilogue                    |
+| Weather                               | Clockwork                   |
+| Typa Girl                             | Epilogue                    |
 | BOOM                                  | Like Water                  |
 | Mr. Simple                            | Fine                        |
 | That That (prod. & feat. SUGA of BTS) | My sea                      |
@@ -363,8 +363,8 @@
 | 10 most Energetic tracks   | 10 least Energetic tracks                            |
 |:---------------------------|:-----------------------------------------------------|
 | RING X RING                | Goodbye                                              |
-| Hit That Drum              | Through the Night                                    |
-| Misfit                     | ONLY                                                 |
+| Misfit                     | Through the Night                                    |
+| Hit That Drum              | ONLY                                                 |
 | MIROH                      | 그대라는 시                                               |
 | Side Effects               | Flower Way (Prod. By ZICO)                           |
 | 소방차 Fire Truck             | Singularity                                          |
@@ -376,15 +376,15 @@
 | 10 most Speechy tracks        | 10 least Speechy tracks                    |
 |:------------------------------|:-------------------------------------------|
 | Addicted                      | LOVE FOOL                                  |
-| MANIAC                        | NANANA                                     |
-| Freedom                       | YOUNG LUV                                  |
+| MANIAC                        | YOUNG LUV                                  |
+| Freedom                       | NANANA                                     |
 | Ice Cream (with Selena Gomez) | Hope Not                                   |
 | Feelin' Like                  | Gee                                        |
-| Signal                        | Wicked                                     |
-| BBIBBI                        | Winter Sleep                               |
+| Signal                        | Winter Sleep                               |
+| BBIBBI                        | Wicked                                     |
 | You Better Run                | Moonlight Melody                           |
-| Be Natural                    | She's In The Rain                          |
-| Tap Tap                       | Slightly Tipsy (She is My Type♡ X SANDEUL) |
+| Be Natural                    | Slightly Tipsy (She is My Type♡ X SANDEUL) |
+| Tap Tap                       | She's In The Rain                          |
 
 | 10 most Acoustic tracks                              | 10 least Acoustic tracks   |
 |:-----------------------------------------------------|:---------------------------|
@@ -431,9 +431,9 @@
 | Devil                  | Yours                     |
 | Twenty-three           | ONLY                      |
 | Pepe                   | U                         |
-| Miniskirt              | My sea                    |
-| So Hot                 | Side Effects              |
-| Twinkle                | Good Night My Princess    |
-| 쏘리 쏘리 Sorry, Sorry     | 7월 7일 One Of These Nights |
-| Some (feat. Lil Boi)   | Grey Suit                 |
-| Lion Heart             | The Road                  |
+| So Hot                 | My sea                    |
+| Miniskirt              | Side Effects              |
+| 쏘리 쏘리 Sorry, Sorry     | Good Night My Princess    |
+| Twinkle                | 7월 7일 One Of These Nights |
+| Lion Heart             | Grey Suit                 |
+| Some (feat. Lil Boi)   | The Road                  |

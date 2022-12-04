@@ -229,7 +229,7 @@
 |                  3 | [soft rock](../genres/soft_rock.md)                 |
 |                  3 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  3 | [r&b](../genres/r_b.md)                             |
-|                  3 | psychedelic rock                                    |
+|                  3 | [psychedelic rock](../genres/psychedelic_rock.md)   |
 |                  3 | pop soul                                            |
 |                  3 | new americana                                       |
 |                  3 | neo soul                                            |

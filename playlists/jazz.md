@@ -114,7 +114,7 @@
 |                 27 | lounge                                              |
 |                 12 | jazz pop                                            |
 |                 12 | canadian pop                                        |
-|                  9 | vocal jazz                                          |
+|                  8 | vocal jazz                                          |
 |                  7 | easy listening                                      |
 |                  6 | contemporary vocal jazz                             |
 |                  3 | [mellow gold](../genres/mellow_gold.md)             |

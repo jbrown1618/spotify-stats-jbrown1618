@@ -1,6 +1,6 @@
 # k-pop boy group
 
-[215 songs](k_pop_boy_group_tracks.md)
+[216 songs](k_pop_boy_group_tracks.md)
 
 ## Top Artists
 
@@ -22,9 +22,9 @@
 |                 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb7401998434b12fffd119ae18" alt="" width="50" /> | [NCT 127](../artists/nct_127.md)       | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb64362c8789b72fb00e0a3611" alt="" width="50" /> | ATEEZ                                  | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bd65b0efee10bfa8328c33b" alt="" width="50" /> | NCT U                                  | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
+|                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb758f3c632d4d726f1129d336" alt="" width="50" /> | TOMORROW X TOGETHER                    | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebaad1353fe0343220b1331768" alt="" width="50" /> | SUPER JUNIOR                           | [🔗](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c8ac3b2d8d886fbf3f0877a" alt="" width="50" /> | NCT DREAM                              | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
-|                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb758f3c632d4d726f1129d336" alt="" width="50" /> | TOMORROW X TOGETHER                    | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5ebd90aa536055fe9806b3960e6" alt="" width="50" /> | GOT7                                   | [🔗](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb7ece2134de8809efcfdc9be7" alt="" width="50" /> | SHINee                                 | [🔗](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | PENTAGON                               | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
@@ -180,7 +180,7 @@
 |   Number of Tracks | Label                                                               |
 |-------------------:|:--------------------------------------------------------------------|
 |                 53 | [SM Entertainment](../labels/sm_entertainment.md)                   |
-|                 36 | [Republic Records](../labels/republic_records.md)                   |
+|                 37 | [Republic Records](../labels/republic_records.md)                   |
 |                 29 | [BIGHIT MUSIC](../labels/bighit_music.md)                           |
 |                 20 | [BELIFT LAB](../labels/belift_lab.md)                               |
 |                 16 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)           |
@@ -236,8 +236,8 @@
 | WONDERLAND                 | Anti-Romantic                       |
 | District 9                 | Butter                              |
 | One In A Billion           | The Truth Untold (feat. Steve Aoki) |
-| Pirate King                | Singularity                         |
-| CHEESE                     | Boy in time - HUI Solo              |
+| CHEESE                     | Singularity                         |
+| Pirate King                | Boy in time - HUI Solo              |
 
 | 10 most Speechy tracks            | 10 least Speechy tracks   |
 |:----------------------------------|:--------------------------|
@@ -262,25 +262,25 @@
 | KILLING ME                | Attention, please!         |
 | Polaroid Love             | Cyberpunk                  |
 | Still Life                | Tamed-Dashed               |
-| Shine                     | Easy                       |
-| She's In The Rain         | Mr. Simple                 |
+| Shine                     | Mr. Simple                 |
+| She's In The Rain         | Easy                       |
 
-| 10 most Instrumental tracks   | 10 least Instrumental tracks   |
-|:------------------------------|:-------------------------------|
-| Singularity                   | Darl+ing                       |
-| Mr. Simple                    | Domino                         |
-| Lemonade                      | Left & Right                   |
-| Ring Ding Dong                | Fearless                       |
-| Danger                        | VERY NICE                      |
-| Airplane pt.2                 | CLAP                           |
-| Sour                          | Ready to love                  |
-| Doom Du Doom                  | Anyone                         |
-| Ko Ko Bop                     | Pretty U                       |
-| Tamed-Dashed                  | One In A Billion               |
+| 10 most Instrumental tracks   | 10 least Instrumental tracks                 |
+|:------------------------------|:---------------------------------------------|
+| Singularity                   | Anyone                                       |
+| Mr. Simple                    | Pretty U                                     |
+| Lemonade                      | Blue Hour                                    |
+| Ring Ding Dong                | 9 and Three Quarters (Run Away)              |
+| Danger                        | LO$ER=LO♡ER                                  |
+| Airplane pt.2                 | Opening Sequence                             |
+| Sour                          | Anti-Romantic                                |
+| Doom Du Doom                  | Frost                                        |
+| Ko Ko Bop                     | 0X1=LOVESONG (I Know I Love You) feat. Seori |
+| Tamed-Dashed                  | One In A Billion                             |
 
 | 10 most Live tracks             | 10 least Live tracks       |
 |:--------------------------------|:---------------------------|
-| Sticker                         | Baby Don’t Stop            |
+| Sticker                         | Lo Siento                  |
 | Red Lights (Bang Chan, Hyunjin) | View                       |
 | Blessed-Cursed                  | Universe (Let's Play Ball) |
 | Growl                           | Saturday Drip              |
@@ -297,9 +297,9 @@
 | 쏘리 쏘리 Sorry, Sorry                          | HALA HALA (Hearts Awakened, Live Alive) |
 | Left & Right                                | Hellevator                              |
 | 운명 The Chance of Love                       | Still Life                              |
-| Candy Sugar Pop                             | The 7th Sense                           |
-| TFW (That Feeling When)                     | Anti-Romantic                           |
+| TFW (That Feeling When)                     | The 7th Sense                           |
+| Candy Sugar Pop                             | Anti-Romantic                           |
 | BLACK MIRROR                                | Singularity                             |
 | Muddy Water (Changbin, Hyunjin, HAN, Felix) | Favorite (Vampire)                      |
 | Pretty U                                    | The Truth Untold (feat. Steve Aoki)     |
-| VERY NICE                                   | Side Effects                            |
+| CALL ME BABY                                | Side Effects                            |

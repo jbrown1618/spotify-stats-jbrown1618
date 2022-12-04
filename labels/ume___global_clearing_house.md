@@ -75,17 +75,16 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 7 genres](../images/labels/ume___global_clearing_house/genres.png)
+![Bar chart of top 6 genres](../images/labels/ume___global_clearing_house/genres.png)
 
 
 <details>
-<summary>See all 7 genres</summary>
+<summary>See all 6 genres</summary>
 
 |   Number of Tracks | Genre                                           |
 |-------------------:|:------------------------------------------------|
 |                181 | [classical era](../genres/classical_era.md)     |
 |                181 | [classical](../genres/classical.md)             |
-|                  1 | vocal jazz                                      |
 |                  1 | korean old school hip hop                       |
 |                  1 | k-rap                                           |
 |                  1 | [k-pop](../genres/k_pop.md)                     |

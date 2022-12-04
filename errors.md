@@ -2,7 +2,10 @@
 
 ## Duplicate tracks
 
-None
+| Track                                                           |   Track Popularity | Release Date   | Artists                                                                  | Album                                                                |   Album Popularity | Playlists                                                                                                                                             | Label                                           | 💚   |
+|:----------------------------------------------------------------|-------------------:|:---------------|:-------------------------------------------------------------------------|:---------------------------------------------------------------------|-------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------|:----|
+| Blow [🔗](https://open.spotify.com/track/0QPPJN3d42PINVAyBPZTC3) |                 61 | 2022-03-31     | Jackson Wang [🔗](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | Blow [🔗](https://open.spotify.com/album/2y6aTfBouCa2nRJadWq0WX)      |                 50 | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | TEAM WANG records/88rising Music/Warner Records | 💚   |
+| Blow [🔗](https://open.spotify.com/track/53WD6QvMGh7wXQVP0U8Rnr) |                 61 | 2022-09-09     | Jackson Wang [🔗](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | MAGIC MAN [🔗](https://open.spotify.com/album/2VZ4og2ZbwyTQ3X1rbgCe1) |                 62 | Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy)                                                                              | TEAM WANG records/88rising Music/Warner Records |     |
 
 ## Duplicate albums
 

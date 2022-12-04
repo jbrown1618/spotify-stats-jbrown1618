@@ -3,17 +3,17 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2736017bca98dea58ceddea77c1ab67616d0000b273a0df2d59f0ae9426cba3eb36ab67616d0000b273cd723e6efb66f6ef28fac28eab67616d0000b273eb9bc74e6ced59a2638898b0" alt="Cursed English" width="100" />
 
-[25 songs](cursed_english_tracks.md)
+[26 songs](cursed_english_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 13 artists](../images/playlists/cursed_english/artists.png)
+![Bar chart of top 14 artists](../images/playlists/cursed_english/artists.png)
 
 ![Comparison of Artist](../images/playlists/cursed_english/artists_comparison.png)
 
 
 <details>
-<summary>See all 13 artists</summary>
+<summary>See all 14 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                 | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:------------------------------------------------------------|
@@ -29,6 +29,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7af892ba79f611277614a0f2" alt="" width="50" /> | P1Harmony                              | [🔗](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2cc2d8e2ec34e29f1905e286" alt="" width="50" /> | WayV                                   | [🔗](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2d192f1d830db1eba64854fc" alt="" width="50" /> | Moon Byul                              | [🔗](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb758f3c632d4d726f1129d336" alt="" width="50" /> | TOMORROW X TOGETHER                    | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb95f4928ac77d31b53626dab3" alt="" width="50" /> | PIXY                                   | [🔗](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) |
 
 </details>
@@ -36,11 +37,11 @@
 
 ## Top Albums
 
-![Bar chart of top 22 albums](../images/playlists/cursed_english/albums.png)
+![Bar chart of top 23 albums](../images/playlists/cursed_english/albums.png)
 
 
 <details>
-<summary>See all 22 albums</summary>
+<summary>See all 23 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                      | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------|:-----------------------------------------------------------|
@@ -63,6 +64,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="" width="50" /> | Fairyforest : Temptation                   | [🔗](https://open.spotify.com/album/3999VmQrZOafu4NjYkc0rj) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27353c86f1143b52f1f01f677e0" alt="" width="50" /> | Do It Like This (English Version)          | [🔗](https://open.spotify.com/album/4L12vI7rtyBFmYOWZYtOi6) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | Christmas EveL                             | [🔗](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b84603bfcc9665f8353982fd" alt="" width="50" /> | Cat & Dog (English Version)                | [🔗](https://open.spotify.com/album/4uJ120PsfiWOC7aV5FqGkU) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | CRAZY IN LOVE                              | [🔗](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | CHECKMATE                                  | [🔗](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733618088cfcd2a966a61937cb" alt="" width="50" /> | 6equence                                   | [🔗](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) |
@@ -80,7 +82,7 @@
 
 |   Number of Tracks | Label                                                   |
 |-------------------:|:--------------------------------------------------------|
-|                 11 | [Republic Records](../labels/republic_records.md)       |
+|                 12 | [Republic Records](../labels/republic_records.md)       |
 |                  5 | [SM Entertainment](../labels/sm_entertainment.md)       |
 |                  4 | [Universal Music LLC](../labels/universal_music_llc.md) |
 |                  1 | [해피트라이브엔터테인먼트](../labels/____________.md)               |
@@ -103,9 +105,9 @@
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
+|                 18 | [k-pop](../genres/k_pop.md)                       |
 |                 17 | [k-pop girl group](../genres/k_pop_girl_group.md) |
-|                 17 | [k-pop](../genres/k_pop.md)                       |
-|                  6 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
+|                  7 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
 |                  1 | korean city pop                                   |
 |                  1 | chinese idol pop                                  |
 
@@ -117,28 +119,28 @@
 | 10 most Danceable tracks          | 10 least Danceable tracks              |
 |:----------------------------------|:---------------------------------------|
 | SNEAKERS (English Ver.)           | Bad Boy - English Version, Bonus Track |
-| Do It Like This - English Version | RBB (Really Bad Boy) - English Version |
-| In the morning - English Ver.     | Bewitched - Eng Ver.                   |
-| WANNABE - English Ver.            | DOMINO - English Ver.                  |
-| ICY - English Ver.                | Highway to Heaven - English Version    |
-| DALLA DALLA - English Ver.        | HELICOPTER - English Version           |
-| LATATA - English Ver.             | I CAN'T STOP ME (English Version)      |
-| Oh my god - English Version       | HWAA - English Version                 |
-| Not Shy - English Ver.            | Levanter - English Ver.                |
-| LUNATIC (English Ver.)            | Life's Too Short (English Version)     |
+| Cat & Dog (English Version)       | RBB (Really Bad Boy) - English Version |
+| Do It Like This - English Version | Bewitched - Eng Ver.                   |
+| In the morning - English Ver.     | DOMINO - English Ver.                  |
+| WANNABE - English Ver.            | Highway to Heaven - English Version    |
+| ICY - English Ver.                | HELICOPTER - English Version           |
+| DALLA DALLA - English Ver.        | I CAN'T STOP ME (English Version)      |
+| LATATA - English Ver.             | HWAA - English Version                 |
+| Oh my god - English Version       | Levanter - English Ver.                |
+| Not Shy - English Ver.            | Life's Too Short (English Version)     |
 
-| 10 most Energetic tracks               | 10 least Energetic tracks                     |
-|:---------------------------------------|:----------------------------------------------|
-| LUNATIC (English Ver.)                 | Make A Wish (Birthday Song) - English Version |
-| Bewitched - Eng Ver.                   | Life's Too Short (English Version)            |
-| Not Shy - English Ver.                 | In the morning - English Ver.                 |
-| WANNABE - English Ver.                 | Do It Like This - English Version             |
-| ICY - English Ver.                     | Oh my god - English Version                   |
-| HELICOPTER - English Version           | Regular - English Version                     |
-| I CAN'T STOP ME (English Version)      | Highway to Heaven - English Version           |
-| DOMINO - English Ver.                  | Levanter - English Ver.                       |
-| LOCO - English Ver.                    | Bad Boy - English Version, Bonus Track        |
-| RBB (Really Bad Boy) - English Version | Love Talk - English Version                   |
+| 10 most Energetic tracks               | 10 least Energetic tracks              |
+|:---------------------------------------|:---------------------------------------|
+| LUNATIC (English Ver.)                 | Cat & Dog (English Version)            |
+| Bewitched - Eng Ver.                   | Life's Too Short (English Version)     |
+| Not Shy - English Ver.                 | In the morning - English Ver.          |
+| WANNABE - English Ver.                 | Do It Like This - English Version      |
+| ICY - English Ver.                     | Oh my god - English Version            |
+| HELICOPTER - English Version           | Regular - English Version              |
+| I CAN'T STOP ME (English Version)      | Highway to Heaven - English Version    |
+| DOMINO - English Ver.                  | Levanter - English Ver.                |
+| LOCO - English Ver.                    | Bad Boy - English Version, Bonus Track |
+| RBB (Really Bad Boy) - English Version | Love Talk - English Version            |
 
 | 10 most Speechy tracks                        | 10 least Speechy tracks                |
 |:----------------------------------------------|:---------------------------------------|
@@ -150,8 +152,8 @@
 | Bewitched - Eng Ver.                          | Bad Boy - English Version, Bonus Track |
 | ICY - English Ver.                            | DOMINO - English Ver.                  |
 | Do It Like This - English Version             | Oh my god - English Version            |
-| I CAN'T STOP ME (English Version)             | Love Talk - English Version            |
-| Regular - English Version                     | RBB (Really Bad Boy) - English Version |
+| Cat & Dog (English Version)                   | Love Talk - English Version            |
+| I CAN'T STOP ME (English Version)             | RBB (Really Bad Boy) - English Version |
 
 | 10 most Acoustic tracks                       | 10 least Acoustic tracks               |
 |:----------------------------------------------|:---------------------------------------|
@@ -164,26 +166,26 @@
 | LUNATIC (English Ver.)                        | LOCO - English Ver.                    |
 | In the morning - English Ver.                 | WANNABE - English Ver.                 |
 | Make A Wish (Birthday Song) - English Version | Highway to Heaven - English Version    |
-| HELICOPTER - English Version                  | DALLA DALLA - English Ver.             |
+| Cat & Dog (English Version)                   | DALLA DALLA - English Ver.             |
 
 | 10 most Instrumental tracks            | 10 least Instrumental tracks                  |
 |:---------------------------------------|:----------------------------------------------|
-| Oh my god - English Version            | I CAN'T STOP ME (English Version)             |
-| WANNABE - English Ver.                 | Bad Boy - English Version, Bonus Track        |
-| RBB (Really Bad Boy) - English Version | Love Talk - English Version                   |
-| In the morning - English Ver.          | Do It Like This - English Version             |
+| Oh my god - English Version            | Bad Boy - English Version, Bonus Track        |
+| WANNABE - English Ver.                 | I CAN'T STOP ME (English Version)             |
+| RBB (Really Bad Boy) - English Version | Do It Like This - English Version             |
+| In the morning - English Ver.          | Make A Wish (Birthday Song) - English Version |
 | LOCO - English Ver.                    | Levanter - English Ver.                       |
-| Highway to Heaven - English Version    | Make A Wish (Birthday Song) - English Version |
-| DALLA DALLA - English Ver.             | Bewitched - Eng Ver.                          |
-| Regular - English Version              | LUNATIC (English Ver.)                        |
-| SNEAKERS (English Ver.)                | DOMINO - English Ver.                         |
-| LATATA - English Ver.                  | Life's Too Short (English Version)            |
+| Highway to Heaven - English Version    | Bewitched - Eng Ver.                          |
+| DALLA DALLA - English Ver.             | LUNATIC (English Ver.)                        |
+| Cat & Dog (English Version)            | DOMINO - English Ver.                         |
+| Regular - English Version              | Life's Too Short (English Version)            |
+| SNEAKERS (English Ver.)                | Love Talk - English Version                   |
 
 | 10 most Live tracks               | 10 least Live tracks                          |
 |:----------------------------------|:----------------------------------------------|
 | Levanter - English Ver.           | RBB (Really Bad Boy) - English Version        |
-| I CAN'T STOP ME (English Version) | Do It Like This - English Version             |
-| HELICOPTER - English Version      | LUNATIC (English Ver.)                        |
+| I CAN'T STOP ME (English Version) | LUNATIC (English Ver.)                        |
+| HELICOPTER - English Version      | Do It Like This - English Version             |
 | LOCO - English Ver.               | HWAA - English Version                        |
 | DALLA DALLA - English Ver.        | Highway to Heaven - English Version           |
 | LATATA - English Ver.             | DOMINO - English Ver.                         |
@@ -194,13 +196,13 @@
 
 | 10 most Happy tracks                   | 10 least Happy tracks                  |
 |:---------------------------------------|:---------------------------------------|
-| LUNATIC (English Ver.)                 | Life's Too Short (English Version)     |
-| Bad Boy - English Version, Bonus Track | LOCO - English Ver.                    |
-| Regular - English Version              | Oh my god - English Version            |
-| ICY - English Ver.                     | Highway to Heaven - English Version    |
-| I CAN'T STOP ME (English Version)      | Levanter - English Ver.                |
-| In the morning - English Ver.          | Love Talk - English Version            |
-| DALLA DALLA - English Ver.             | Do It Like This - English Version      |
-| DOMINO - English Ver.                  | Bewitched - Eng Ver.                   |
+| LUNATIC (English Ver.)                 | LOCO - English Ver.                    |
+| Bad Boy - English Version, Bonus Track | Oh my god - English Version            |
+| Regular - English Version              | Highway to Heaven - English Version    |
+| ICY - English Ver.                     | Levanter - English Ver.                |
+| I CAN'T STOP ME (English Version)      | Love Talk - English Version            |
+| In the morning - English Ver.          | Do It Like This - English Version      |
+| DALLA DALLA - English Ver.             | Bewitched - Eng Ver.                   |
+| DOMINO - English Ver.                  | Cat & Dog (English Version)            |
 | WANNABE - English Ver.                 | RBB (Really Bad Boy) - English Version |
 | HELICOPTER - English Version           | HWAA - English Version                 |

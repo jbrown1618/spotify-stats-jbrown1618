@@ -54,14 +54,14 @@ Appears as:
 <details>
 <summary>See all 6 genres</summary>
 
-|   Number of Tracks | Genre                                     |
-|-------------------:|:------------------------------------------|
-|                 30 | [rock](../genres/rock.md)                 |
-|                 30 | psychedelic rock                          |
-|                 30 | merseybeat                                |
-|                 30 | [classic rock](../genres/classic_rock.md) |
-|                 30 | british invasion                          |
-|                 30 | beatlesque                                |
+|   Number of Tracks | Genre                                             |
+|-------------------:|:--------------------------------------------------|
+|                 30 | [rock](../genres/rock.md)                         |
+|                 30 | [psychedelic rock](../genres/psychedelic_rock.md) |
+|                 30 | merseybeat                                        |
+|                 30 | [classic rock](../genres/classic_rock.md)         |
+|                 30 | british invasion                                  |
+|                 30 | beatlesque                                        |
 
 </details>
 

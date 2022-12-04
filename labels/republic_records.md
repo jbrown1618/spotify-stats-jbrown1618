@@ -1,13 +1,13 @@
 # Republic Records
 
-114 songs
+115 songs
 
 Appears as:
 - Republic Records - TWICE (32 tracks)
 - Republic Records - ITZY (30 tracks)
 - Republic Records - Stray Kids (30 tracks)
 - Republic Records (12 tracks)
-- Republic Records - TXT (6 tracks)
+- Republic Records - TXT (7 tracks)
 - Lava Music/Republic Records (2 tracks)
 - Republic/UMLE (1 tracks)
 - Republic/Universal/FSF (1 tracks)
@@ -26,7 +26,7 @@ Appears as:
 |                 30 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md)       | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 |                 30 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../artists/itzy.md)                   | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                 10 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../artists/ariana_grande.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
-|                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb758f3c632d4d726f1129d336" alt="" width="50" /> | TOMORROW X TOGETHER                          | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
+|                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb758f3c632d4d726f1129d336" alt="" width="50" /> | TOMORROW X TOGETHER                          | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | Jessie J                                     | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | B.o.B                                        | [🔗](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb727a2ac15afe659be999beba" alt="" width="50" /> | Doja Cat                                     | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
@@ -47,7 +47,7 @@ Appears as:
 
 
 <details>
-<summary>See all 54 albums</summary>
+<summary>See all 55 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                   | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------|:-----------------------------------------------------------|
@@ -102,6 +102,7 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a6a335d613d151c626895a83" alt="" width="50" /> | Despacito Feat. Justin Bieber (Remix)                   | [🔗](https://open.spotify.com/album/3Gq2Dme9nesdgoqNNlcN8O) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273869bb5c720b743357fd402bd" alt="" width="50" /> | Clé 2 : Yellow Wood                                     | [🔗](https://open.spotify.com/album/7a3luOh8mK0q8YsRkNUjrU) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273cbb25c0de45e6a6ded073802" alt="" width="50" /> | Clé 1 : MIROH                                           | [🔗](https://open.spotify.com/album/3s6RbqkTprnGwKpoUSYL00) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b84603bfcc9665f8353982fd" alt="" width="50" /> | Cat & Dog (English Version)                             | [🔗](https://open.spotify.com/album/4uJ120PsfiWOC7aV5FqGkU) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738ae9084b7cfa8281932d9cb9" alt="" width="50" /> | CRY FOR ME                                              | [🔗](https://open.spotify.com/album/2aRAPmBCEdo9pWimsI5l87) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f46afbaf0d7b1d701c7a6b65" alt="" width="50" /> | Boys Like You                                           | [🔗](https://open.spotify.com/album/1KYgerdWcEqB7KbppYtdXU) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="" width="50" /> | After Hours                                             | [🔗](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) |
@@ -119,9 +120,9 @@ Appears as:
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
-|                 68 | [k-pop](../genres/k_pop.md)                       |
+|                 69 | [k-pop](../genres/k_pop.md)                       |
 |                 62 | [k-pop girl group](../genres/k_pop_girl_group.md) |
-|                 36 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
+|                 37 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
 |                 15 | [pop](../genres/pop.md)                           |
 |                 13 | [dance pop](../genres/dance_pop.md)               |
 |                  3 | [post-teen pop](../genres/post_teen_pop.md)       |
@@ -186,9 +187,9 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | Cheshire                                     | CHESHIRE                                                | [ITZY](../artists/itzy.md)                                 | [Republic Records](republic_records.md)                                                     | 💚   | [🔗](https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | Freaky                                       | CHESHIRE                                                | [ITZY](../artists/itzy.md)                                 | [Republic Records](republic_records.md)                                                     |     | [🔗](https://open.spotify.com/track/6VgVT2ZxtssMdzrbfW1R0d) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | Snowy                                        | CHESHIRE                                                | [ITZY](../artists/itzy.md)                                 | [Republic Records](republic_records.md)                                                     | 💚   | [🔗](https://open.spotify.com/track/1i0NAz5emJMbRWSkADMsL7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739900b995cd1a81c35c574ab0" alt="" width="50" /> | Price Tag                                    | Who You Are (Platinum Edition)                          | Jessie J, B.o.B                                            | [Lava Music/Republic Records](republic_records.md)                                          | 💚   | [🔗](https://open.spotify.com/track/5mvKuE9Lf9ARVXVXA32kK9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739900b995cd1a81c35c574ab0" alt="" width="50" /> | Who You Are                                  | Who You Are (Platinum Edition)                          | Jessie J                                                   | [Lava Music/Republic Records](republic_records.md)                                          | 💚   | [🔗](https://open.spotify.com/track/65lIGCfW59BxcEJnnIOCq3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a6a335d613d151c626895a83" alt="" width="50" /> | Despacito - Remix                            | Despacito Feat. Justin Bieber (Remix)                   | Luis Fonsi, Daddy Yankee, Justin Bieber                    | [Republic/UMLE](umle.md)                                                                    | 💚   | [🔗](https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739900b995cd1a81c35c574ab0" alt="" width="50" /> | Price Tag                                    | Who You Are (Platinum Edition)                          | Jessie J, B.o.B                                            | [Lava Music/Republic Records](lava_music.md)                                                | 💚   | [🔗](https://open.spotify.com/track/5mvKuE9Lf9ARVXVXA32kK9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739900b995cd1a81c35c574ab0" alt="" width="50" /> | Who You Are                                  | Who You Are (Platinum Edition)                          | Jessie J                                                   | [Lava Music/Republic Records](lava_music.md)                                                | 💚   | [🔗](https://open.spotify.com/track/65lIGCfW59BxcEJnnIOCq3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a6a335d613d151c626895a83" alt="" width="50" /> | Despacito - Remix                            | Despacito Feat. Justin Bieber (Remix)                   | Luis Fonsi, Daddy Yankee, Justin Bieber                    | [Republic/UMLE](republic_records.md)                                                        | 💚   | [🔗](https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b97341ef9657dd8f4ab794dc" alt="" width="50" /> | Hellevator                                   | Mixtape                                                 | [Stray Kids](../artists/stray_kids.md)                     | [Republic Records](republic_records.md)                                                     |     | [🔗](https://open.spotify.com/track/7mKXEaBVWuV0dMqN0gaCBm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f6ace3e8860779591c193414" alt="" width="50" /> | District 9                                   | I am NOT                                                | [Stray Kids](../artists/stray_kids.md)                     | [Republic Records](republic_records.md)                                                     |     | [🔗](https://open.spotify.com/track/4A0ZTqmb6131trEdQl2dBW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27309f2f03627bf9c7b719a35ff" alt="" width="50" /> | Awkward Silence                              | I am WHO                                                | [Stray Kids](../artists/stray_kids.md)                     | [Republic Records](republic_records.md)                                                     | 💚   | [🔗](https://open.spotify.com/track/6qOPM7GV2Yv10hAgFEn6oN) |
@@ -220,6 +221,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | Give Me Your TMI                             | MAXIDENT                                                | [Stray Kids](../artists/stray_kids.md)                     | [Republic Records](republic_records.md)                                                     | 💚   | [🔗](https://open.spotify.com/track/7CQhZA3qNDZBoTKWqjD7gR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | SUPER BOARD                                  | MAXIDENT                                                | [Stray Kids](../artists/stray_kids.md)                     | [Republic Records](republic_records.md)                                                     | 💚   | [🔗](https://open.spotify.com/track/078fJxqEUz0LvbHSM6AoXJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="" width="50" /> | Blinding Lights                              | After Hours                                             | The Weeknd                                                 | [Republic Records](republic_records.md)                                                     | 💚   | [🔗](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b84603bfcc9665f8353982fd" alt="" width="50" /> | Cat & Dog (English Version)                  | Cat & Dog (English Version)                             | TOMORROW X TOGETHER                                        | [Republic Records](republic_records.md)                                                     |     | [🔗](https://open.spotify.com/track/0wzlQwQ17rpVVqgdaFNA7Q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c6cdb00ed42b1d6315f0bc1" alt="" width="50" /> | Blue Hour                                    | minisode1 : Blue Hour                                   | TOMORROW X TOGETHER                                        | [Republic Records](republic_records.md)                                                     |     | [🔗](https://open.spotify.com/track/3ObPkJQAgjAhTwYvDhPrAW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | 0X1=LOVESONG (I Know I Love You) feat. Seori | The Chaos Chapter: FREEZE                               | TOMORROW X TOGETHER                                        | [Republic Records](republic_records.md)                                                     | 💚   | [🔗](https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | Anti-Romantic                                | The Chaos Chapter: FREEZE                               | TOMORROW X TOGETHER                                        | [Republic Records](republic_records.md)                                                     | 💚   | [🔗](https://open.spotify.com/track/44tTqUi3xi7E28QLzHVdUA) |

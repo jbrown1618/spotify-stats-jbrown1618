@@ -3,17 +3,17 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="Sharon RPD" width="100" />
 
-[35 songs](sharon_rpd_tracks.md)
+[36 songs](sharon_rpd_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 28 artists](../images/playlists/sharon_rpd/artists.png)
+![Bar chart of top 29 artists](../images/playlists/sharon_rpd/artists.png)
 
 ![Comparison of Artist](../images/playlists/sharon_rpd/artists_comparison.png)
 
 
 <details>
-<summary>See all 28 artists</summary>
+<summary>See all 29 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                 | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:------------------------------------------------------------|
@@ -43,6 +43,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | [CHUNG HA](../artists/chung_ha.md)     | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../artists/itzy.md)             | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | Halsey                                 | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | Jackson Wang                           | [🔗](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) |
 |                  1 | <img src="nan" alt="" width="50" />                                                              | LACHICA                                | [🔗](https://open.spotify.com/artist/0vqjEQRfmE1Sov92UQRJMp) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba5205abffd84341e5bace828" alt="" width="50" /> | Selena Gomez                           | [🔗](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) |
 
@@ -55,7 +56,7 @@
 
 
 <details>
-<summary>See all 32 albums</summary>
+<summary>See all 33 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                            | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------|:-----------------------------------------------------------|
@@ -78,6 +79,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | NOEASY                                           | [🔗](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="" width="50" /> | NCT 2018 EMPATHY                                 | [🔗](https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | MAP OF THE SOUL : PERSONA                        | [🔗](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="" width="50" /> | MAGIC MAN                                        | [🔗](https://open.spotify.com/album/2VZ4og2ZbwyTQ3X1rbgCe1) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | Love Yourself 結 'Answer'                         | [🔗](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093" alt="" width="50" /> | LOVE DIVE                                        | [🔗](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19" alt="" width="50" /> | LALISA                                           | [🔗](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) |
@@ -97,11 +99,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 18 record labels](../images/playlists/sharon_rpd/labels.png)
+![Bar chart of top 21 record labels](../images/playlists/sharon_rpd/labels.png)
 
 
 <details>
-<summary>See all 18 labels</summary>
+<summary>See all 21 labels</summary>
 
 |   Number of Tracks | Label                                                                 |
 |-------------------:|:----------------------------------------------------------------------|
@@ -115,13 +117,16 @@
 |                  2 | [High Up Entertainment](../labels/high_up_entertainment.md)           |
 |                  2 | [BELIFT LAB](../labels/belift_lab.md)                                 |
 |                  2 | [ADOR](../labels/ador.md)                                             |
+|                  1 | [Warner Records](../labels/warner_records.md)                         |
 |                  1 | [THE BLACK LABEL](../labels/the_black_label.md)                       |
+|                  1 | [TEAM WANG records](../labels/team_wang_records.md)                   |
 |                  1 | [RCA Records Label](../labels/rca_records_label.md)                   |
 |                  1 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)             |
 |                  1 | [PLAY M ENTERTAINMENT CORP.](../labels/play_m_entertainment_corp_.md) |
 |                  1 | [Genie Music Corporation](../labels/genie_music_corporation.md)       |
 |                  1 | [Chris Brown Entertainment](../labels/chris_brown_entertainment.md)   |
 |                  1 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                 |
+|                  1 | [88rising Music](../labels/88rising_music.md)                         |
 |                  1 | [300 Entertainment](../labels/300_entertainment.md)                   |
 
 </details>
@@ -152,29 +157,29 @@
 
 | 10 most Danceable tracks      | 10 least Danceable tracks                         |
 |:------------------------------|:--------------------------------------------------|
-| ANTIFRAGILE                   | Psycho                                            |
-| FEARLESS                      | Boy With Luv (feat. Halsey)                       |
-| DUMB DUMB                     | Step Back                                         |
-| ELEVEN                        | Missing You                                       |
-| Holiday Party                 | MIC Drop (Steve Aoki Remix) - Full Length Edition |
-| Shut Down                     | Thunderous                                        |
-| Attention                     | FEVER                                             |
-| LALISA                        | Hype Boy                                          |
-| Ice Cream (with Selena Gomez) | Dope                                              |
+| ANTIFRAGILE                   | Boy With Luv (feat. Halsey)                       |
+| FEARLESS                      | Step Back                                         |
+| DUMB DUMB                     | Missing You                                       |
+| ELEVEN                        | MIC Drop (Steve Aoki Remix) - Full Length Edition |
+| Holiday Party                 | Thunderous                                        |
+| Shut Down                     | FEVER                                             |
+| Attention                     | Hype Boy                                          |
+| LALISA                        | Dope                                              |
+| Ice Cream (with Selena Gomez) | Blow                                              |
 | BOSS                          | Black Mamba                                       |
 
-| 10 most Energetic tracks                          | 10 least Energetic tracks     |
-|:--------------------------------------------------|:------------------------------|
-| Hype Boy                                          | Ice Cream (with Selena Gomez) |
-| Black Mamba                                       | Shut Down                     |
-| Alcohol-Free                                      | RUN2U                         |
-| Queendom                                          | Psycho                        |
-| Dope                                              | LALISA                        |
-| LOCO                                              | Attention                     |
-| Boy With Luv (feat. Halsey)                       | FEARLESS                      |
-| GAMBLER                                           | City Girls                    |
-| MIC Drop (Steve Aoki Remix) - Full Length Edition | Pretty Savage                 |
-| Go Big or Go Home                                 | BOSS                          |
+| 10 most Energetic tracks                          | 10 least Energetic tracks   |
+|:--------------------------------------------------|:----------------------------|
+| Hype Boy                                          | Shut Down                   |
+| Black Mamba                                       | RUN2U                       |
+| Alcohol-Free                                      | Psycho                      |
+| Queendom                                          | LALISA                      |
+| Dope                                              | Attention                   |
+| LOCO                                              | FEARLESS                    |
+| Boy With Luv (feat. Halsey)                       | City Girls                  |
+| GAMBLER                                           | Blow                        |
+| MIC Drop (Steve Aoki Remix) - Full Length Edition | Pretty Savage               |
+| Go Big or Go Home                                 | BOSS                        |
 
 | 10 most Speechy tracks                            | 10 least Speechy tracks   |
 |:--------------------------------------------------|:--------------------------|
@@ -191,13 +196,13 @@
 
 | 10 most Acoustic tracks     | 10 least Acoustic tracks                          |
 |:----------------------------|:--------------------------------------------------|
-| Missing You                 | Pink Venom                                        |
-| Hype Boy                    | MIC Drop (Steve Aoki Remix) - Full Length Edition |
-| Attention                   | Dynamite                                          |
-| Thunderous                  | LOCO                                              |
-| Psycho                      | Pretty Savage                                     |
-| Queendom                    | Holiday Party                                     |
-| ASAP                        | GAMBLER                                           |
+| Missing You                 | MIC Drop (Steve Aoki Remix) - Full Length Edition |
+| Hype Boy                    | Dynamite                                          |
+| Attention                   | LOCO                                              |
+| Thunderous                  | Pretty Savage                                     |
+| Psycho                      | Holiday Party                                     |
+| Queendom                    | GAMBLER                                           |
+| ASAP                        | Blow                                              |
 | Boy With Luv (feat. Halsey) | Shut Down                                         |
 | ANTIFRAGILE                 | LOVE DIVE                                         |
 | BAD GIRL (Prod. Czaer)      | RUN2U                                             |
@@ -217,10 +222,10 @@
 
 | 10 most Live tracks   | 10 least Live tracks          |
 |:----------------------|:------------------------------|
-| Step Back             | BOSS                          |
-| Dope                  | Black Mamba                   |
-| LOCO                  | Psycho                        |
-| HOT                   | Attention                     |
+| Step Back             | Black Mamba                   |
+| Dope                  | Psycho                        |
+| LOCO                  | Attention                     |
+| HOT                   | Blow                          |
 | LOVE DIVE             | Alcohol-Free                  |
 | RUN2U                 | Queendom                      |
 | Hype Boy              | City Girls                    |
@@ -235,8 +240,8 @@
 | BAD GIRL (Prod. Czaer)        | FEARLESS                |
 | ANTIFRAGILE                   | DUMB DUMB               |
 | Go Big or Go Home             | Holiday Party           |
-| City Girls                    | Psycho                  |
-| Boy With Luv (feat. Halsey)   | RUN2U                   |
-| Thunderous                    | Pretty Savage           |
-| Hype Boy                      | BOSS                    |
-| Dynamite                      | ASAP                    |
+| Blow                          | Psycho                  |
+| City Girls                    | RUN2U                   |
+| Boy With Luv (feat. Halsey)   | Pretty Savage           |
+| Thunderous                    | BOSS                    |
+| Hype Boy                      | ASAP                    |

@@ -92,46 +92,46 @@ Appears as:
 <details>
 <summary>See all 38 genres</summary>
 
-|   Number of Tracks | Genre                                       |
-|-------------------:|:--------------------------------------------|
-|                 24 | [show tunes](../genres/show_tunes.md)       |
-|                 24 | [pop](../genres/pop.md)                     |
-|                 22 | [broadway](../genres/broadway.md)           |
-|                 21 | west end                                    |
-|                 17 | [art pop](../genres/art_pop.md)             |
-|                  7 | [dance pop](../genres/dance_pop.md)         |
-|                  6 | edm                                         |
-|                  5 | uk pop                                      |
-|                  5 | [post-teen pop](../genres/post_teen_pop.md) |
-|                  5 | indietronica                                |
-|                  5 | [hollywood](../genres/hollywood.md)         |
-|                  4 | metropopolis                                |
-|                  4 | [electropop](../genres/electropop.md)       |
-|                  2 | tropical house                              |
-|                  2 | [rock](../genres/rock.md)                   |
-|                  2 | psychedelic rock                            |
-|                  2 | pop dance                                   |
-|                  2 | [mellow gold](../genres/mellow_gold.md)     |
-|                  2 | hard rock                                   |
-|                  2 | [classic rock](../genres/classic_rock.md)   |
-|                  2 | british invasion                            |
-|                  2 | blues rock                                  |
-|                  2 | art rock                                    |
-|                  2 | album rock                                  |
-|                  1 | uk dance                                    |
-|                  1 | shiver pop                                  |
-|                  1 | [pop rock](../genres/pop_rock.md)           |
-|                  1 | pop rap                                     |
-|                  1 | permanent wave                              |
-|                  1 | neo soul                                    |
-|                  1 | [neo mellow](../genres/neo_mellow.md)       |
-|                  1 | irish rock                                  |
-|                  1 | house                                       |
-|                  1 | gauze pop                                   |
-|                  1 | europop                                     |
-|                  1 | electro house                               |
-|                  1 | disco                                       |
-|                  1 | british soul                                |
+|   Number of Tracks | Genre                                             |
+|-------------------:|:--------------------------------------------------|
+|                 24 | [show tunes](../genres/show_tunes.md)             |
+|                 24 | [pop](../genres/pop.md)                           |
+|                 22 | [broadway](../genres/broadway.md)                 |
+|                 21 | west end                                          |
+|                 17 | [art pop](../genres/art_pop.md)                   |
+|                  7 | [dance pop](../genres/dance_pop.md)               |
+|                  6 | edm                                               |
+|                  5 | uk pop                                            |
+|                  5 | [post-teen pop](../genres/post_teen_pop.md)       |
+|                  5 | indietronica                                      |
+|                  5 | [hollywood](../genres/hollywood.md)               |
+|                  4 | metropopolis                                      |
+|                  4 | [electropop](../genres/electropop.md)             |
+|                  2 | tropical house                                    |
+|                  2 | [rock](../genres/rock.md)                         |
+|                  2 | [psychedelic rock](../genres/psychedelic_rock.md) |
+|                  2 | pop dance                                         |
+|                  2 | [mellow gold](../genres/mellow_gold.md)           |
+|                  2 | hard rock                                         |
+|                  2 | [classic rock](../genres/classic_rock.md)         |
+|                  2 | british invasion                                  |
+|                  2 | blues rock                                        |
+|                  2 | art rock                                          |
+|                  2 | album rock                                        |
+|                  1 | uk dance                                          |
+|                  1 | shiver pop                                        |
+|                  1 | [pop rock](../genres/pop_rock.md)                 |
+|                  1 | pop rap                                           |
+|                  1 | permanent wave                                    |
+|                  1 | neo soul                                          |
+|                  1 | [neo mellow](../genres/neo_mellow.md)             |
+|                  1 | irish rock                                        |
+|                  1 | house                                             |
+|                  1 | gauze pop                                         |
+|                  1 | europop                                           |
+|                  1 | electro house                                     |
+|                  1 | disco                                             |
+|                  1 | british soul                                      |
 
 </details>
 

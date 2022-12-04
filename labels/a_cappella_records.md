@@ -62,7 +62,7 @@ Appears as:
 
 |   Number of Tracks | Genre                                                 |
 |-------------------:|:------------------------------------------------------|
-|                 30 | [a cappella](../genres/a_cappella.md)                 |
+|                 32 | [a cappella](../genres/a_cappella.md)                 |
 |                 29 | [college a cappella](../genres/college_a_cappella.md) |
 
 </details>
