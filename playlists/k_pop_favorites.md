@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b273714e56679ab196354e2e443eab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738c4a282e84a53c1c8acf129a" alt="K-Pop Favorites" width="100" />
 
-[196 songs](k_pop_favorites_tracks.md)
+[195 songs](k_pop_favorites_tracks.md)
 
 ## Top Artists
 
@@ -13,7 +13,7 @@
 
 
 <details>
-<summary>See all 86 artists</summary>
+<summary>See all 85 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                               | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------|:------------------------------------------------------------|
@@ -26,7 +26,7 @@
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../artists/aespa.md)                         | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb916392fe8c66d0c993657b6d" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md)                     | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md)               | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
-|                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)                   | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
+|                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)                   | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../artists/leehi.md)                         | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)                             | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | [CHUNG HA](../artists/chung_ha.md)                   | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
@@ -60,7 +60,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf0a01c9ca9312dbe5ed6b6d9" alt="" width="50" /> | KAI                                                  | [🔗](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) |
 |                  1 | <img src="https://i.scdn.co/image/621c729dd90a6e7a63fc8f0957b2b928834ec5a8" alt="" width="50" /> | 4Minute                                              | [🔗](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb20dfb8f52ef4926a22e552c8" alt="" width="50" /> | R3HAB                                                | [🔗](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8e9d1c8642df6f869631fe62" alt="" width="50" /> | Crush                                                | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | BIBI                                                 | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | CLC                                                  | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb99b5a1b1b95a279176ded0e1" alt="" width="50" /> | NewJeans                                             | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
@@ -227,19 +226,19 @@
 
 
 <details>
-<summary>See all 54 labels</summary>
+<summary>See all 53 labels</summary>
 
 |   Number of Tracks | Label                                                                                   |
 |-------------------:|:----------------------------------------------------------------------------------------|
 |                 58 | [SM Entertainment](../labels/sm_entertainment.md)                                       |
+|                 17 | [YG Entertainment](../labels/yg_entertainment.md)                                       |
 |                 17 | [Republic Records](../labels/republic_records.md)                                       |
-|                 16 | [YG Entertainment](../labels/yg_entertainment.md)                                       |
 |                 11 | [Interscope](../labels/interscope.md)                                                   |
 |                  9 | [BELIFT LAB](../labels/belift_lab.md)                                                   |
 |                  8 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                     |
-|                  7 | [Universal Music LLC](../labels/universal_music_llc.md)                                 |
 |                  7 | [RBW Inc.](../labels/rbw_inc_.md)                                                       |
 |                  7 | [Genie Music Corporation](../labels/genie_music_corporation.md)                         |
+|                  6 | [Universal Music LLC](../labels/universal_music_llc.md)                                 |
 |                  6 | [JYP Entertainment](../labels/jyp_entertainment.md)                                     |
 |                  6 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                                   |
 |                  5 | [BIGHIT MUSIC](../labels/bighit_music.md)                                               |
@@ -282,7 +281,6 @@
 |                  1 | [Capitol Records (CAP)](../labels/capitol_records__cap_.md)                             |
 |                  1 | [BlockBerryCreative](../labels/blockberrycreative.md)                                   |
 |                  1 | [Abyss Company](../labels/abyss_company.md)                                             |
-|                  1 | [AOMG](../labels/aomg.md)                                                               |
 |                  1 | [ADOR](../labels/ador.md)                                                               |
 |                  1 | [2018 YG Entertainment](../labels/2018_yg_entertainment.md)                             |
 
@@ -299,8 +297,8 @@
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
-|                164 | [k-pop](../genres/k_pop.md)                       |
-|                 80 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+|                163 | [k-pop](../genres/k_pop.md)                       |
+|                 79 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 |                 45 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
 |                 12 | [pop](../genres/pop.md)                           |
 |                  9 | anime                                             |
@@ -320,40 +318,40 @@
 
 | 10 most Danceable tracks   | 10 least Danceable tracks   |
 |:---------------------------|:----------------------------|
-| Typa Girl                  | HANN (Alone in winter)      |
+| Typa Girl                  | LA DI DA                    |
 | BOOM                       | Just A Little Bit           |
-| The Boys                   | 7월 7일 One Of These Nights   |
-| Phase Me                   | Sparkling Night             |
-| DUMB DUMB                  | Feel My Rhythm              |
-| In the morning             | HOLO                        |
-| Heart Burn                 | Love poem                   |
-| BBIBBI                     | Hello                       |
-| ELEVEN                     | Like Water                  |
-| Low Low                    | My sea                      |
+| 1, 2, 3, 4                 | 7월 7일 One Of These Nights   |
+| The Boys                   | Sparkling Night             |
+| Phase Me                   | Feel My Rhythm              |
+| DUMB DUMB                  | HOLO                        |
+| In the morning             | Love poem                   |
+| Heart Burn                 | Hello                       |
+| BBIBBI                     | Like Water                  |
+| ELEVEN                     | My sea                      |
 
 | 10 most Energetic tracks              | 10 least Energetic tracks   |
 |:--------------------------------------|:----------------------------|
-| RING X RING                           | Dream                       |
-| Girls                                 | HOLO                        |
-| RING ma Bell (what a wonderful world) | Love poem                   |
-| Heart Shaker                          | 무제(無題) (Untitled, 2014)     |
-| HOME;RUN                              | Butter                      |
-| Feel My Rhythm                        | For You                     |
-| The Boys                              | HANN (Alone in winter)      |
+| RING X RING                           | 눈,코,입 (Eyes, Nose, Lips)    |
+| Girls                                 | 7월 7일 One Of These Nights   |
+| RING ma Bell (what a wonderful world) | Dream                       |
+| Heart Shaker                          | HOLO                        |
+| HOME;RUN                              | Love poem                   |
+| Feel My Rhythm                        | 무제(無題) (Untitled, 2014)     |
+| The Boys                              | Butter                      |
 | Ice Cream Cake                        | My sea                      |
-| Hype Boy                              | Gone                        |
-| Sparkling Night                       | ONLY                        |
+| Sparkling Night                       | Gone                        |
+| Hype Boy                              | ONLY                        |
 
 | 10 most Speechy tracks   | 10 least Speechy tracks   |
 |:-------------------------|:--------------------------|
-| MANIAC                   | RBB (Really Bad Boy)      |
-| BBIBBI                   | HOLD MY HAND              |
+| MANIAC                   | HOLD MY HAND              |
+| BBIBBI                   | RBB (Really Bad Boy)      |
 | Girls                    | HANN (Alone)              |
 | Sparkling Night          | Phase Me                  |
 | Sticker                  | Animal Farm               |
 | Crazy                    | Starlight                 |
-| I GOT A BOY              | HOLO                      |
-| Back Door                | Je T'aime                 |
+| I GOT A BOY              | Je T'aime                 |
+| Back Door                | HOLO                      |
 | Kill This Love           | Something                 |
 | Thunderous               | Spark                     |
 
@@ -361,26 +359,26 @@
 |:--------------------------|:---------------------------|
 | ONLY                      | Doom Du Doom               |
 | Amusement Park            | Butter                     |
-| HANN (Alone in winter)    | Up & Down                  |
-| When This Rain Stops      | BOOMBAYAH                  |
-| 무제(無題) (Untitled, 2014)   | 달라달라 (DALLA DALLA)         |
-| HOLO                      | LA DI DA                   |
-| Love poem                 | RUN2U                      |
-| 눈,코,입 (Eyes, Nose, Lips)  | Favorite (Vampire)         |
-| For You                   | Drunk-Dazed                |
-| ZOOM                      | Tamed-Dashed               |
+| When This Rain Stops      | Up & Down                  |
+| 무제(無題) (Untitled, 2014)   | BOOMBAYAH                  |
+| HOLO                      | 달라달라 (DALLA DALLA)         |
+| Love poem                 | LA DI DA                   |
+| 눈,코,입 (Eyes, Nose, Lips)  | RUN2U                      |
+| ZOOM                      | Favorite (Vampire)         |
+| Like Water                | Drunk-Dazed                |
+| Je T'aime                 | Tamed-Dashed               |
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| YEPPI YEPPI                   | BOOM                           |
-| I Am The Best                 | Why So Lonely                  |
-| Lion Heart                    | Upper Side Dreamin’            |
-| Kill This Love                | SAY NO MORE                    |
-| Why Not?                      | THRILL RIDE                    |
-| Black Mamba                   | Something                      |
-| In the morning                | Deja Vu                        |
-| Stay Tonight                  | When This Rain Stops           |
-| Girls                         | LA DI DA                       |
+| YEPPI YEPPI                   | DDU-DU DDU-DU                  |
+| I Am The Best                 | BBIBBI                         |
+| Lion Heart                    | Paint Me Naked                 |
+| Kill This Love                | dlwlrma                        |
+| Why Not?                      | MIROTIC                        |
+| Black Mamba                   | HOLO                           |
+| In the morning                | Spark                          |
+| Stay Tonight                  | My sea                         |
+| Girls                         | Don't Call Me                  |
 | MAGO                          | Shut Down                      |
 
 | 10 most Live tracks             | 10 least Live tracks        |
@@ -401,10 +399,10 @@
 | Devil                                       | HANN (Alone)              |
 | Lion Heart                                  | Still Life                |
 | 러시안 룰렛 Russian Roulette                     | Cold As Hell              |
-| Left & Right                                | Can't Control Myself      |
-| I`m a B                                     | HOLO                      |
-| The Feels                                   | Favorite (Vampire)        |
-| The Boys                                    | Adrenaline                |
-| Muddy Water (Changbin, Hyunjin, HAN, Felix) | ONLY                      |
-| Pretty U                                    | My sea                    |
-| CALL ME BABY                                | 7월 7일 One Of These Nights |
+| 1, 2, 3, 4                                  | Can't Control Myself      |
+| Left & Right                                | HOLO                      |
+| I`m a B                                     | Favorite (Vampire)        |
+| The Feels                                   | Adrenaline                |
+| The Boys                                    | ONLY                      |
+| Muddy Water (Changbin, Hyunjin, HAN, Felix) | My sea                    |
+| Pretty U                                    | 7월 7일 One Of These Nights |

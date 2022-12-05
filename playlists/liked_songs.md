@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1354 songs](liked_songs_tracks.md)
+[1353 songs](liked_songs_tracks.md)
 
 ## Top Artists
 
@@ -250,7 +250,7 @@
 |                 51 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
 |                 46 | [Warner Records](../labels/warner_records.md)                                                                       |
 |                 42 | [RCA Records Label](../labels/rca_records_label.md)                                                                 |
-|                 40 | [Universal Music LLC](../labels/universal_music_llc.md)                                                             |
+|                 39 | [Universal Music LLC](../labels/universal_music_llc.md)                                                             |
 |                 33 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                                                 |
 |                 33 | [Genie Music Corporation](../labels/genie_music_corporation.md)                                                     |
 |                 26 | [BIGHIT MUSIC](../labels/bighit_music.md)                                                                           |
@@ -356,10 +356,10 @@
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
-|                575 | [k-pop](../genres/k_pop.md)                         |
+|                574 | [k-pop](../genres/k_pop.md)                         |
 |                360 | [pop](../genres/pop.md)                             |
 |                285 | [k-pop girl group](../genres/k_pop_girl_group.md)   |
-|                159 | [dance pop](../genres/dance_pop.md)                 |
+|                158 | [dance pop](../genres/dance_pop.md)                 |
 |                150 | [k-pop boy group](../genres/k_pop_boy_group.md)     |
 |                 99 | [rock](../genres/rock.md)                           |
 |                 78 | [classic rock](../genres/classic_rock.md)           |
@@ -415,6 +415,7 @@
 |                 10 | alternative rock                                    |
 |                  9 | oxford indie                                        |
 |                  9 | anti-folk                                           |
+|                  8 | viral pop                                           |
 |                  8 | tropical house                                      |
 |                  8 | lounge                                              |
 |                  8 | latin pop                                           |
@@ -424,7 +425,6 @@
 |                  8 | blues rock                                          |
 |                  8 | bergen indie                                        |
 |                  8 | australian dance                                    |
-|                  7 | viral pop                                           |
 |                  7 | pop dance                                           |
 |                  7 | kawaii metal                                        |
 |                  7 | j-pop                                               |
@@ -482,8 +482,8 @@
 | Shanti Shanti Shanti       | when the party's over       |
 | RING X RING                | The Dawntreader             |
 | Rondo of Nightmare         | Used                        |
-| Headbangeeeeerrrrr!!!!!    | Nature Boy                  |
-| Gimme Chocolate!!          | And So It Goes              |
+| Gimme Chocolate!!          | Nature Boy                  |
+| Headbangeeeeerrrrr!!!!!    | And So It Goes              |
 | Hit That Drum              | Run to You                  |
 | KARATE                     | Mad World                   |
 | だいじょばない                    | Kaleidoscope Heart          |
@@ -503,28 +503,28 @@
 
 | 10 most Acoustic tracks      | 10 least Acoustic tracks   |
 |:-----------------------------|:---------------------------|
-| when the party's over        | Misery                     |
-| Bright Lights and Cityscapes | Oh Sorry Ya                |
+| when the party's over        | Oh Sorry Ya                |
+| Bright Lights and Cityscapes | Misery                     |
 | Mad World                    | Gimme Chocolate!!          |
 | Manhattan                    | Cyberpunk                  |
 | Nature Boy                   | Tamed-Dashed               |
 | The Night We Met             | Mr. Simple                 |
 | I Had a King                 | Poison                     |
 | Sweet Nothing                | Headbangeeeeerrrrr!!!!!    |
-| The Dawntreader              | Kagerou                    |
-| Take It All                  | The Phantom Of The Opera   |
+| Take It All                  | Kagerou                    |
+| The Dawntreader              | The Phantom Of The Opera   |
 
 | 10 most Instrumental tracks              | 10 least Instrumental tracks                |
 |:-----------------------------------------|:--------------------------------------------|
-| Digital Love                             | Brown Eyed Girl                             |
-| だいじょばない                                  | California Gurls                            |
-| Street Spirit (Fade Out)                 | Something                                   |
-| everything i wanted                      | I Love You 3000 II                          |
-| Instant Crush (feat. Julian Casablancas) | THRILL RIDE                                 |
-| Smooth Criminal - 2012 Remaster          | Locked out of Heaven                        |
-| Pyramid Song                             | If I Ever Fall In Love (feat. Jason Derulo) |
-| Shanti Shanti Shanti                     | Scream                                      |
-| You Take My Breath Away                  | SAY NO MORE                                 |
+| Digital Love                             | California Gurls                            |
+| だいじょばない                                  | Something                                   |
+| Street Spirit (Fade Out)                 | I Love You 3000 II                          |
+| everything i wanted                      | THRILL RIDE                                 |
+| Instant Crush (feat. Julian Casablancas) | Locked out of Heaven                        |
+| Smooth Criminal - 2012 Remaster          | If I Ever Fall In Love (feat. Jason Derulo) |
+| Pyramid Song                             | Scream                                      |
+| Shanti Shanti Shanti                     | SAY NO MORE                                 |
+| You Take My Breath Away                  | Now (feat. Hwa Sa)                          |
 | The Night We Met                         | Old Fashioned                               |
 
 | 10 most Live tracks            | 10 least Live tracks                  |
@@ -534,8 +534,8 @@
 | XS                             | YEPPI YEPPI                           |
 | Piano Man                      | memeM                                 |
 | You Better Run                 | That That (prod. & feat. SUGA of BTS) |
-| MAKE U DANCE (feat. EUNHA)     | Finesse                               |
-| Red Lipstick (feat. Yoonmirae) | SNEAKERS                              |
+| Red Lipstick (feat. Yoonmirae) | Finesse                               |
+| MAKE U DANCE (feat. EUNHA)     | SNEAKERS                              |
 | Sticker                        | CASE 143                              |
 | You Oughta Know                | Finesse - Remix; feat. Cardi B        |
 | 행복 (Happiness)                 | Ain't It Fun                          |
@@ -543,12 +543,12 @@
 | 10 most Happy tracks            | 10 least Happy tracks   |
 |:--------------------------------|:------------------------|
 | Sour candy                      | Yellow Flicker Beat     |
-| Big Yellow Taxi                 | Falling                 |
-| Like a Virgin                   | Lose Yourself           |
+| Like a Virgin                   | Falling                 |
+| Big Yellow Taxi                 | Lose Yourself           |
 | There's Nothing Holdin' Me Back | Crystallize             |
-| Devil                           | Once Upon Another Time  |
-| Twenty-three                    | xanny                   |
+| Twenty-three                    | Once Upon Another Time  |
+| Devil                           | xanny                   |
 | Pepe                            | No Time To Die          |
-| SexyBack (feat. Timbaland)      | Delicate                |
-| Mercy                           | What Sarah Said         |
-| I'm a Slave 4 U                 | You Take My Breath Away |
+| Mercy                           | Delicate                |
+| SexyBack (feat. Timbaland)      | What Sarah Said         |
+| チョコレイト・ディスコ                     | You Take My Breath Away |

@@ -210,7 +210,7 @@
 |                137 | [pop](../genres/pop.md)                             |
 |                 82 | [acoustic pop](../genres/acoustic_pop.md)           |
 |                 80 | [lilith](../genres/lilith.md)                       |
-|                 72 | [neo mellow](../genres/neo_mellow.md)               |
+|                 71 | [neo mellow](../genres/neo_mellow.md)               |
 |                 63 | [pop rock](../genres/pop_rock.md)                   |
 |                 59 | [hollywood](../genres/hollywood.md)                 |
 |                 35 | [singer-songwriter](../genres/singer_songwriter.md) |

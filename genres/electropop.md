@@ -1,16 +1,16 @@
 # electropop
 
-[46 songs](electropop_tracks.md)
+[45 songs](electropop_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 23 artists](../images/genres/electropop/artists.png)
+![Bar chart of top 22 artists](../images/genres/electropop/artists.png)
 
 ![Comparison of Artist](../images/genres/electropop/artists_comparison.png)
 
 
 <details>
-<summary>See all 23 artists</summary>
+<summary>See all 22 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                       | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------|:------------------------------------------------------------|
@@ -21,7 +21,6 @@
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | Halsey                                       | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb576cb43281160e345f728b71" alt="" width="50" /> | Charli XCX                                   | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd6442ba68c144b0c84b207a4" alt="" width="50" /> | Rina Sawayama                                | [🔗](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb358577f183465ae7698a53a7" alt="" width="50" /> | Carly Rae Jepsen                             | [🔗](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375" alt="" width="50" /> | Hatsune Miku                                 | [🔗](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb31072db9da0311ecfabe96bf" alt="" width="50" /> | Khalid                                       | [🔗](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3c02f4fb4cc9187c488afd50" alt="" width="50" /> | The Chainsmokers                             | [🔗](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) |
@@ -42,11 +41,11 @@
 
 ## Top Albums
 
-![Bar chart of top 29 albums](../images/genres/electropop/albums.png)
+![Bar chart of top 28 albums](../images/genres/electropop/albums.png)
 
 
 <details>
-<summary>See all 29 albums</summary>
+<summary>See all 28 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                                      | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -70,7 +69,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7" alt="" width="50" /> | No Time To Die                                                             | [🔗](https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b72cb7bed93d6e2fdf42cffe" alt="" width="50" /> | Metropolis: The Chase Suite (Special Edition)                              | [🔗](https://open.spotify.com/album/3T3bJi3cvwR5U7ihwgEwF1) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737636e1c9e67eaafc9f49aefd" alt="" width="50" /> | Manic                                                                      | [🔗](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a111f7769013f1731e9c697c" alt="" width="50" /> | Kiss (Deluxe)                                                              | [🔗](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="" width="50" /> | Happier Than Ever                                                          | [🔗](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="" width="50" /> | Fifty Shades Freed (Original Motion Picture Soundtrack)                    | [🔗](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27370d7aa769af19e7e2c2e107b" alt="" width="50" /> | Fantasies                                                                  | [🔗](https://open.spotify.com/album/3Oj8FdHcV6kAiOVWfkqRaA) |
@@ -85,11 +83,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 23 record labels](../images/genres/electropop/labels.png)
+![Bar chart of top 22 record labels](../images/genres/electropop/labels.png)
 
 
 <details>
-<summary>See all 23 labels</summary>
+<summary>See all 22 labels</summary>
 
 |   Number of Tracks | Label                                                                 |
 |-------------------:|:----------------------------------------------------------------------|
@@ -104,7 +102,6 @@
 |                  1 | [VÉRITÉ](../labels/v_rit_.md)                                         |
 |                  1 | [Universal Music LLC](../labels/universal_music_llc.md)               |
 |                  1 | [Teleport Records](../labels/teleport_records.md)                     |
-|                  1 | [Silent Records IGA](../labels/silent_records_iga.md)                 |
 |                  1 | [Republic Records](../labels/republic_records.md)                     |
 |                  1 | [RCA Records Label](../labels/rca_records_label.md)                   |
 |                  1 | [Parlophone UK](../labels/parlophone_uk.md)                           |
@@ -129,11 +126,11 @@
 | Make Me Feel                      | I Like That                 |
 | Good Intent                       | Old Flame                   |
 | Beg For You (feat. Rina Sawayama) | Gimme Sympathy              |
-| Call Me Maybe                     | Like They Do on the TV      |
-| Daisy 2.0 (feat. Hatsune Miku)    | Waltz Me to the Grave       |
-| Recovery                          | No Time To Die              |
-| Good Ones                         | when the party's over       |
-| Settle Down                       | lovely (with Khalid)        |
+| Daisy 2.0 (feat. Hatsune Miku)    | Like They Do on the TV      |
+| Recovery                          | Waltz Me to the Grave       |
+| Good Ones                         | No Time To Die              |
+| Settle Down                       | when the party's over       |
+| Slow Grenade                      | lovely (with Khalid)        |
 
 | 10 most Energetic tracks          | 10 least Energetic tracks   |
 |:----------------------------------|:----------------------------|
@@ -163,14 +160,14 @@
 
 | 10 most Acoustic tracks      | 10 least Acoustic tracks                       |
 |:-----------------------------|:-----------------------------------------------|
-| when the party's over        | Something In The Way You Move                  |
-| Your Song                    | I Like That                                    |
-| lovely (with Khalid)         | Tightrope (feat. Big Boi) - Big Boi Vocal Edit |
-| No Time To Die               | Lights - Single Version                        |
-| everything i wanted          | The Good War                                   |
-| Plain Gold Ring              | Yoga                                           |
-| ocean eyes                   | Lightyears                                     |
-| xanny                        | Call Me Maybe                                  |
+| when the party's over        | Bad At Love                                    |
+| Your Song                    | Something In The Way You Move                  |
+| lovely (with Khalid)         | I Like That                                    |
+| No Time To Die               | Tightrope (feat. Big Boi) - Big Boi Vocal Edit |
+| everything i wanted          | Lights - Single Version                        |
+| Plain Gold Ring              | The Good War                                   |
+| ocean eyes                   | Yoga                                           |
+| xanny                        | Lightyears                                     |
 | bury a friend                | Gimme Sympathy                                 |
 | you should see me in a crown | Recovery                                       |
 
@@ -194,8 +191,8 @@
 | xanny                                          | Good Ones                                                                  |
 | Daisy 2.0 (feat. Hatsune Miku)                 | Settle Down                                                                |
 | Tightrope (feat. Big Boi) - Big Boi Vocal Edit | Lightyears                                                                 |
-| Somebody Else                                  | Say My Name                                                                |
-| Yoga                                           | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] |
+| Yoga                                           | Say My Name                                                                |
+| Somebody Else                                  | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] |
 | Good Intent                                    | Therefore I Am                                                             |
 | Waltz Me to the Grave                          | River                                                                      |
 | Top of the World                               | SUGA's Interlude                                                           |
@@ -211,4 +208,4 @@
 | Cameo Lover                                                                | The Good War            |
 | Therefore I Am                                                             | Waltz Me to the Grave   |
 | Closer                                                                     | xanny                   |
-| Call Me Maybe                                                              | No Time To Die          |
+| Like They Do on the TV                                                     | No Time To Die          |

@@ -203,7 +203,7 @@
 
 
 <details>
-<summary>See all 85 genres</summary>
+<summary>See all 84 genres</summary>
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
@@ -229,11 +229,11 @@
 |                  4 | permanent wave                                      |
 |                  4 | lounge                                              |
 |                  4 | glam rock                                           |
+|                  3 | viral pop                                           |
 |                  3 | soul                                                |
 |                  3 | folk rock                                           |
 |                  3 | canadian pop                                        |
 |                  3 | australian pop                                      |
-|                  2 | viral pop                                           |
 |                  2 | urban contemporary                                  |
 |                  2 | [r&b](../genres/r_b.md)                             |
 |                  2 | [post-teen pop](../genres/post_teen_pop.md)         |
@@ -271,7 +271,6 @@
 |                  1 | indy indie                                          |
 |                  1 | indiecoustica                                       |
 |                  1 | indie rock                                          |
-|                  1 | indie poptimism                                     |
 |                  1 | indie pop                                           |
 |                  1 | heartland rock                                      |
 |                  1 | escape room                                         |
