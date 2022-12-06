@@ -308,11 +308,10 @@
 |                 15 | permanent wave                                      |
 |                 15 | [electropop](../genres/electropop.md)               |
 |                 14 | indie rock                                          |
-|                 14 | alternative rock                                    |
 |                 13 | nz pop                                              |
 |                 13 | bergen indie                                        |
+|                 13 | alternative rock                                    |
 |                 11 | australian pop                                      |
-|                 11 | anti-folk                                           |
 |                 10 | [pop rock](../genres/pop_rock.md)                   |
 |                 10 | oxford indie                                        |
 |                 10 | metropopolis                                        |
@@ -322,6 +321,7 @@
 |                  8 | nyc pop                                             |
 |                  8 | australian dance                                    |
 |                  7 | [post-teen pop](../genres/post_teen_pop.md)         |
+|                  7 | anti-folk                                           |
 |                  6 | [neo mellow](../genres/neo_mellow.md)               |
 |                  6 | la indie                                            |
 |                  5 | uk funky                                            |
@@ -359,7 +359,6 @@
 |                  2 | celtic rock                                         |
 |                  2 | canadian indie                                      |
 |                  2 | alternative metal                                   |
-|                  2 | alternative dance                                   |
 |                  1 | visual kei                                          |
 |                  1 | viral pop                                           |
 |                  1 | uk contemporary r&b                                 |
@@ -386,6 +385,7 @@
 |                  1 | industrial metal                                    |
 |                  1 | industrial                                          |
 |                  1 | indie rock italiano                                 |
+|                  1 | indie poptimism                                     |
 |                  1 | indie folk                                          |
 |                  1 | grunge                                              |
 |                  1 | folk-pop                                            |

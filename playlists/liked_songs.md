@@ -356,7 +356,7 @@
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
-|                574 | [k-pop](../genres/k_pop.md)                         |
+|                577 | [k-pop](../genres/k_pop.md)                         |
 |                360 | [pop](../genres/pop.md)                             |
 |                285 | [k-pop girl group](../genres/k_pop_girl_group.md)   |
 |                158 | [dance pop](../genres/dance_pop.md)                 |
@@ -414,7 +414,6 @@
 |                 11 | indie rock                                          |
 |                 10 | alternative rock                                    |
 |                  9 | oxford indie                                        |
-|                  9 | anti-folk                                           |
 |                  8 | viral pop                                           |
 |                  8 | tropical house                                      |
 |                  8 | lounge                                              |
@@ -452,6 +451,7 @@
 |                  5 | uk dance                                            |
 |                  5 | jazz pop                                            |
 |                  5 | funk                                                |
+|                  5 | anti-folk                                           |
 |                  5 | afrofuturism                                        |
 |                  4 | yacht rock                                          |
 |                  4 | vocal jazz                                          |

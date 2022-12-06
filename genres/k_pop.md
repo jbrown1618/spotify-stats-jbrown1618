@@ -1,6 +1,6 @@
 # k-pop
 
-[782 songs](k_pop_tracks.md)
+[786 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -74,6 +74,7 @@
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | SISTAR                                               | [🔗](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb6ff45cd874b8d6ded27a4b35" alt="" width="50" /> | NMIXX                                                | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb70b010582faadbcec8b6774c" alt="" width="50" /> | CIX                                                  | [🔗](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) |
+|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | Jackson Wang                                         | [🔗](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb2d192f1d830db1eba64854fc" alt="" width="50" /> | Moon Byul                                            | [🔗](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb2be8611f6c6e9174031c64df" alt="" width="50" /> | JEON SOMI                                            | [🔗](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebff36ed787b017a7ff3c40a0e" alt="" width="50" /> | TAEYONG                                              | [🔗](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) |
@@ -113,7 +114,6 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7243217f4767a4d9bf879a6e" alt="" width="50" /> | Cherry Bullet                                        | [🔗](https://open.spotify.com/artist/3IJCdgkBZbieocLZ4e94GZ) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb07e5355b736b50bccbb0b651" alt="" width="50" /> | BLITZERS                                             | [🔗](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb652b1738f121da382c3ab77b" alt="" width="50" /> | ONEUS                                                | [🔗](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a3c86e0043d9883ee392bda" alt="" width="50" /> | Apink                                                | [🔗](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) |
 
 </details>
 
@@ -263,11 +263,13 @@
 |                  9 | [FNC ENTERTAINMENT](../labels/fnc_entertainment.md)                                                                 |
 |                  8 | [WM Entertainment](../labels/wm_entertainment.md)                                                                   |
 |                  8 | [DREAMCATCHER COMPANY](../labels/dreamcatcher_company.md)                                                           |
+|                  8 | [88rising Music](../labels/88rising_music.md)                                                                       |
 |                  7 | [KQ Entertainment](../labels/kq_entertainment.md)                                                                   |
 |                  7 | [EDAM Entertainment](../labels/edam_entertainment.md)                                                               |
 |                  6 | [Genie Music Corporation;Stone Music Entertainment](../labels/genie_music_corporation_stone_music_entertainment.md) |
 |                  5 | [avex trax](../labels/avex_trax.md)                                                                                 |
 |                  5 | [P NATION](../labels/p_nation.md)                                                                                   |
+|                  4 | [Warner Records](../labels/warner_records.md)                                                                       |
 |                  4 | [THE BLACK LABEL](../labels/the_black_label.md)                                                                     |
 |                  4 | [SOURCE MUSIC](../labels/source_music.md)                                                                           |
 |                  4 | [LABEL V](../labels/label_v.md)                                                                                     |
@@ -275,10 +277,10 @@
 |                  4 | [BlockBerryCreative](../labels/blockberrycreative.md)                                                               |
 |                  4 | [Abyss Company](../labels/abyss_company.md)                                                                         |
 |                  4 | [ADOR](../labels/ador.md)                                                                                           |
-|                  4 | [88rising Music](../labels/88rising_music.md)                                                                       |
 |                  4 | [2018 YG Entertainment](../labels/2018_yg_entertainment.md)                                                         |
 |                  3 | [해피트라이브엔터테인먼트](../labels/____________.md)                                                                           |
 |                  3 | [올라트엔터테인먼트](../labels/_________.md)                                                                                 |
+|                  3 | [TEAM WANG records](../labels/team_wang_records.md)                                                                 |
 |                  3 | [SWING ENTERTAINMENT](../labels/swing_entertainment.md)                                                             |
 |                  3 | [PLAY M ENTERTAINMENT CORP.](../labels/play_m_entertainment_corp_.md)                                               |
 |                  3 | [Makeus Entertainment](../labels/makeus_entertainment.md)                                                           |
@@ -339,8 +341,6 @@
 |                  1 | [Dream T Entertainment](../labels/dream_t_entertainment.md)                                                         |
 |                  1 | [DUBLEKICK COMPANY](../labels/dublekick_company.md)                                                                 |
 |                  1 | [DCTOM](../labels/dctom.md)                                                                                         |
-|                  1 | [Cre.ker Entertainment](../labels/cre_ker_entertainment.md)                                                         |
-|                  1 | [Corp](../labels/corp.md)                                                                                           |
 
 </details>
 
@@ -383,8 +383,8 @@
 | Signal                        | Winter Sleep                               |
 | BBIBBI                        | Wicked                                     |
 | You Better Run                | Moonlight Melody                           |
-| Be Natural                    | Slightly Tipsy (She is My Type♡ X SANDEUL) |
-| Tap Tap                       | She's In The Rain                          |
+| Be Natural                    | She's In The Rain                          |
+| Tap Tap                       | Slightly Tipsy (She is My Type♡ X SANDEUL) |
 
 | 10 most Acoustic tracks                              | 10 least Acoustic tracks   |
 |:-----------------------------------------------------|:---------------------------|
@@ -396,21 +396,21 @@
 | Amusement Park                                       | Red Light                  |
 | U                                                    | Oh Sorry Ya                |
 | Flower Way (Prod. By ZICO)                           | Cyberpunk                  |
-| If                                                   | Easy                       |
-| Winter Sleep                                         | Mr. Simple                 |
+| If                                                   | Mr. Simple                 |
+| Winter Sleep                                         | Easy                       |
 
 | 10 most Instrumental tracks      | 10 least Instrumental tracks   |
 |:---------------------------------|:-------------------------------|
-| You and I (Park Bom)             | Kick Back                      |
-| Adios                            | Is this bad b****** number?    |
-| pporappippam                     | Idle song                      |
-| Badster                          | ZOO                            |
-| So Hot                           | Monster                        |
-| GingaMingaYo (the strange world) | Love Theory                    |
-| I Am The Best                    | Jungle                         |
-| Power Up                         | 458                            |
-| BBoom BBoom                      | Movie Star                     |
-| In My Dreams                     | Mr-Ambiguous                   |
+| You and I (Park Bom)             | ZOO                            |
+| Adios                            | Monster                        |
+| pporappippam                     | Love Theory                    |
+| Badster                          | Blow                           |
+| So Hot                           | Wow Thing                      |
+| GingaMingaYo (the strange world) | LMLY                           |
+| I Am The Best                    | Blow                           |
+| Power Up                         | Jungle                         |
+| BBoom BBoom                      | 458                            |
+| In My Dreams                     | Yes I Am                       |
 
 | 10 most Live tracks            | 10 least Live tracks                  |
 |:-------------------------------|:--------------------------------------|
@@ -422,18 +422,18 @@
 | I Like That                    | Holiday Party                         |
 | Vibrato                        | memeM                                 |
 | 행복 (Happiness)                 | That That (prod. & feat. SUGA of BTS) |
-| Genie                          | CASE 143                              |
-| LP                             | PING PONG                             |
+| LP                             | CASE 143                              |
+| Genie                          | PING PONG                             |
 
 | 10 most Happy tracks   | 10 least Happy tracks     |
 |:-----------------------|:--------------------------|
 | Sour candy             | Body Talk                 |
-| Devil                  | Yours                     |
-| Twenty-three           | ONLY                      |
+| Twenty-three           | Yours                     |
+| Devil                  | ONLY                      |
 | Pepe                   | U                         |
 | So Hot                 | My sea                    |
 | Miniskirt              | Side Effects              |
 | 쏘리 쏘리 Sorry, Sorry     | Good Night My Princess    |
 | Twinkle                | 7월 7일 One Of These Nights |
-| Lion Heart             | Grey Suit                 |
-| Some (feat. Lil Boi)   | The Road                  |
+| Some (feat. Lil Boi)   | Grey Suit                 |
+| Give it to me          | The Road                  |

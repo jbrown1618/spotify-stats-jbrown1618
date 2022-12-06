@@ -243,7 +243,6 @@
 |                  2 | modern alternative rock                             |
 |                  2 | melancholia                                         |
 |                  2 | jazz pop                                            |
-|                  2 | indie folk                                          |
 |                  2 | funk                                                |
 |                  2 | folk                                                |
 |                  2 | easy listening                                      |
@@ -271,6 +270,7 @@
 |                  1 | indy indie                                          |
 |                  1 | indiecoustica                                       |
 |                  1 | indie rock                                          |
+|                  1 | indie poptimism                                     |
 |                  1 | indie pop                                           |
 |                  1 | heartland rock                                      |
 |                  1 | escape room                                         |
