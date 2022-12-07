@@ -1,16 +1,16 @@
 # adult standards
 
-[44 songs](adult_standards_tracks.md)
+[45 songs](adult_standards_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 24 artists](../images/genres/adult_standards/artists.png)
+![Bar chart of top 25 artists](../images/genres/adult_standards/artists.png)
 
 ![Comparison of Artist](../images/genres/adult_standards/artists_comparison.png)
 
 
 <details>
-<summary>See all 24 artists</summary>
+<summary>See all 25 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                         | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------|:------------------------------------------------------------|
@@ -22,6 +22,7 @@
 |                  2 | <img src="https://i.scdn.co/image/a3201f2fbdfa1bfd894e509bd3fbf3faf7da0a00" alt="" width="50" /> | Natalie Cole                                   | [🔗](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) |
 |                  2 | <img src="https://i.scdn.co/image/813fde33623cbfd065053789cf1ffb22b55efd4a" alt="" width="50" /> | Carole King                                    | [🔗](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) |
 |                  2 | <img src="https://i.scdn.co/image/4f5e6383a803df41153fd871f6d0d0af7b9f08a0" alt="" width="50" /> | Count Basie                                    | [🔗](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../artists/sara_bareilles.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb28c2dea644b78257ccfb4520" alt="" width="50" /> | Seth MacFarlane                                | [🔗](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb21a213a4fe1a6f9b45d3f7f9" alt="" width="50" /> | Commodores                                     | [🔗](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6ed8a51172073afa41a30313" alt="" width="50" /> | Cécile McLorin Salvant                         | [🔗](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) |
@@ -34,8 +35,8 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc698d53b77db34027b00f853" alt="" width="50" /> | [Disney](../artists/disney.md)                 | [🔗](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb158e511237e045874689da71" alt="" width="50" /> | Chicago                                        | [🔗](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) |
 |                  1 | <img src="https://i.scdn.co/image/ab6772690000c46cb8af37ba12c1ad7ebcc63c25" alt="" width="50" /> | Frankie Valli                                  | [🔗](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../artists/sara_bareilles.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732b51c93627409f4bca132d96" alt="" width="50" /> | Phil Harris                                    | [🔗](https://open.spotify.com/artist/2ISMfPtVzHc9jDDVPUEHDa) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebbff8f793182b64915a442965" alt="" width="50" /> | Straight No Chaser                             | [🔗](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb058531dfd9746a96ad85265f" alt="" width="50" /> | Etta James                                     | [🔗](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb522329e6e2d2a595f8a4cd5e" alt="" width="50" /> | Stacey Kent                                    | [🔗](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) |
 
@@ -47,7 +48,7 @@
 
 
 <details>
-<summary>See all 35 albums</summary>
+<summary>See all 36 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                              | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -61,6 +62,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="" width="50" /> | Crazy Love                                                         | [🔗](https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735f3f20826d44c30a017fd68e" alt="" width="50" /> | love (Deluxe Edition)                                              | [🔗](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fdd261528e3590ac36bb85f0" alt="" width="50" /> | Unforgettable                                                      | [🔗](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735aee27e178932423c0b7b941" alt="" width="50" /> | Under the Influence (Ultimate Edition)                             | [🔗](https://open.spotify.com/album/2jeIoe6RbirPCprvXQnqqn) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b96c21e15c091eb98a6c88a4" alt="" width="50" /> | The Very Best of Frankie Valli & The 4 Seasons                     | [🔗](https://open.spotify.com/album/0NUEQILaBzavnzcMEs4buZ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701" alt="" width="50" /> | The Nat King Cole Story                                            | [🔗](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d897c1143b832479966b407d" alt="" width="50" /> | The Jungle Book                                                    | [🔗](https://open.spotify.com/album/7zdZNXoapFcOW663zgLdOE) |
@@ -92,11 +94,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 19 record labels](../images/genres/adult_standards/labels.png)
+![Bar chart of top 20 record labels](../images/genres/adult_standards/labels.png)
 
 
 <details>
-<summary>See all 19 labels</summary>
+<summary>See all 20 labels</summary>
 
 |   Number of Tracks | Label                                                                       |
 |-------------------:|:----------------------------------------------------------------------------|
@@ -119,6 +121,7 @@
 |                  1 | [Geffen](../labels/geffen.md)                                               |
 |                  1 | [Fuzzy Door Productions](../labels/fuzzy_door_productions.md)               |
 |                  1 | [CAPITOL CATALOG MKT (C92)](../labels/capitol_catalog_mkt__c92_.md)         |
+|                  1 | [Atlantic Records](../labels/atlantic_records.md)                           |
 
 </details>
 
@@ -135,34 +138,34 @@
 | Someday (feat. Meghan Trainor)         | Unforgettable                                 |
 | Fly Me To The Moon (In Other Words)    | Unforgettable                                 |
 | Agua De Beber                          | Strangers In The Night                        |
-| The Best Is yet to Come                | Can't Help Falling in Love                    |
-| The Way You Look Tonight               | Nature Boy                                    |
+| I Want You Back (feat. Sara Bareilles) | Can't Help Falling in Love                    |
+| The Best Is yet to Come                | Nature Boy                                    |
 
-| 10 most Energetic tracks              | 10 least Energetic tracks                    |
-|:--------------------------------------|:---------------------------------------------|
-| 25 or 6 to 4                          | Fly Me To The Moon (In Other Words)          |
-| Isn't She Lovely                      | I've Got You Under My Skin - Remastered 1998 |
-| Can't Take My Eyes off You            | Sunny                                        |
-| Agua De Beber                         | Something In The Air Between Us              |
-| Haven't Met You Yet                   | The Way You Look Tonight                     |
-| Everything                            | La Vie En Rose                               |
-| Superstition - Single Version         | L-O-V-E - 2000 Remaster                      |
-| Moondance                             | Unforgettable                                |
-| Signed, Sealed, Delivered (I'm Yours) | So Far Away                                  |
-| I Feel the Earth Move                 | Nature Boy                                   |
+| 10 most Energetic tracks               | 10 least Energetic tracks                    |
+|:---------------------------------------|:---------------------------------------------|
+| 25 or 6 to 4                           | Fly Me To The Moon (In Other Words)          |
+| Isn't She Lovely                       | I've Got You Under My Skin - Remastered 1998 |
+| Can't Take My Eyes off You             | Sunny                                        |
+| Agua De Beber                          | Something In The Air Between Us              |
+| Haven't Met You Yet                    | The Way You Look Tonight                     |
+| Everything                             | La Vie En Rose                               |
+| Superstition - Single Version          | L-O-V-E - 2000 Remaster                      |
+| Moondance                              | Unforgettable                                |
+| Signed, Sealed, Delivered (I'm Yours)  | So Far Away                                  |
+| I Want You Back (feat. Sara Bareilles) | Nature Boy                                   |
 
 | 10 most Speechy tracks                 | 10 least Speechy tracks                       |
 |:---------------------------------------|:----------------------------------------------|
+| I Want You Back (feat. Sara Bareilles) | Strangers In The Night                        |
 | I Wan'na Be Like You (The Monkey Song) | Something In The Air Between Us               |
-| L-O-V-E - 2000 Remaster                | Strangers In The Night                        |
-| Isn't She Lovely                       | La vie en rose (feat. Cécile McLorin Salvant) |
-| Can't Take My Eyes off You             | Can't Help Falling in Love                    |
-| Moondance                              | Call Me Irresponsible                         |
-| That's Life                            | The Way You Look Tonight                      |
-| Superstition - Single Version          | Unforgettable                                 |
-| The Best Is yet to Come                | I Can't Make You Love Me                      |
-| Fly Me To The Moon - 2008 Remastered   | Everything                                    |
-| Love Won't Let You Get Away            | I'd Rather Go Blind                           |
+| L-O-V-E - 2000 Remaster                | La vie en rose (feat. Cécile McLorin Salvant) |
+| Isn't She Lovely                       | Can't Help Falling in Love                    |
+| Can't Take My Eyes off You             | Call Me Irresponsible                         |
+| Moondance                              | The Way You Look Tonight                      |
+| That's Life                            | Unforgettable                                 |
+| Superstition - Single Version          | I Can't Make You Love Me                      |
+| The Best Is yet to Come                | Everything                                    |
+| Fly Me To The Moon - 2008 Remastered   | I'd Rather Go Blind                           |
 
 | 10 most Acoustic tracks            | 10 least Acoustic tracks              |
 |:-----------------------------------|:--------------------------------------|
@@ -179,15 +182,15 @@
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks                  |
 |:------------------------------|:----------------------------------------------|
-| 25 or 6 to 4                  | La vie en rose (feat. Cécile McLorin Salvant) |
-| Nature Boy                    | The Best Is yet to Come                       |
-| Unforgettable                 | Moondance                                     |
-| Can't Help Falling in Love    | Haven't Met You Yet                           |
-| Superstition - Single Version | Signed, Sealed, Delivered (I'm Yours)         |
-| Isn't She Lovely              | For Once In My Life                           |
-| I Can't Make You Love Me      | L-O-V-E                                       |
-| Agua De Beber                 | L-O-V-E - 2000 Remaster                       |
-| I Feel the Earth Move         | Love Won't Let You Get Away                   |
+| 25 or 6 to 4                  | I Want You Back (feat. Sara Bareilles)        |
+| Nature Boy                    | La vie en rose (feat. Cécile McLorin Salvant) |
+| Unforgettable                 | For Once In My Life                           |
+| Can't Help Falling in Love    | The Best Is yet to Come                       |
+| Superstition - Single Version | Moondance                                     |
+| Isn't She Lovely              | L-O-V-E - 2000 Remaster                       |
+| I Can't Make You Love Me      | Haven't Met You Yet                           |
+| Agua De Beber                 | L-O-V-E                                       |
+| I Feel the Earth Move         | La Vie En Rose                                |
 | The Way You Look Tonight      | The Way You Look Tonight                      |
 
 | 10 most Live tracks                    | 10 least Live tracks                |

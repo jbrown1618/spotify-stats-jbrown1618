@@ -22,6 +22,7 @@
 
 ## Genres
 
+- [classical](../genres/classical.md)
 - classical performance
 - orchestral performance
 

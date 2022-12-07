@@ -356,10 +356,10 @@
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
-|                577 | [k-pop](../genres/k_pop.md)                         |
+|                574 | [k-pop](../genres/k_pop.md)                         |
 |                360 | [pop](../genres/pop.md)                             |
 |                285 | [k-pop girl group](../genres/k_pop_girl_group.md)   |
-|                158 | [dance pop](../genres/dance_pop.md)                 |
+|                159 | [dance pop](../genres/dance_pop.md)                 |
 |                150 | [k-pop boy group](../genres/k_pop_boy_group.md)     |
 |                 99 | [rock](../genres/rock.md)                           |
 |                 78 | [classic rock](../genres/classic_rock.md)           |
@@ -370,12 +370,12 @@
 |                 51 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                 44 | [hollywood](../genres/hollywood.md)                 |
 |                 42 | [mellow gold](../genres/mellow_gold.md)             |
+|                 33 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                 32 | [soft rock](../genres/soft_rock.md)                 |
 |                 32 | [electropop](../genres/electropop.md)               |
 |                 30 | [psychedelic rock](../genres/psychedelic_rock.md)   |
 |                 30 | british invasion                                    |
 |                 30 | [art pop](../genres/art_pop.md)                     |
-|                 29 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                 26 | [r&b](../genres/r_b.md)                             |
 |                 25 | piano rock                                          |
 |                 23 | korean pop                                          |
@@ -392,7 +392,7 @@
 |                 18 | folk rock                                           |
 |                 18 | art rock                                            |
 |                 18 | [a cappella](../genres/a_cappella.md)               |
-|                 16 | [adult standards](../genres/adult_standards.md)     |
+|                 17 | [adult standards](../genres/adult_standards.md)     |
 |                 15 | urban contemporary                                  |
 |                 15 | uk pop                                              |
 |                 15 | pop rap                                             |
@@ -428,7 +428,6 @@
 |                  7 | kawaii metal                                        |
 |                  7 | j-pop                                               |
 |                  7 | j-metal                                             |
-|                  7 | indie r&b                                           |
 |                  7 | idol rock                                           |
 |                  7 | escape room                                         |
 |                  7 | country dawn                                        |
@@ -456,6 +455,7 @@
 |                  4 | yacht rock                                          |
 |                  4 | vocal jazz                                          |
 |                  4 | new wave pop                                        |
+|                  4 | korean old school hip hop                           |
 
 </details>
 

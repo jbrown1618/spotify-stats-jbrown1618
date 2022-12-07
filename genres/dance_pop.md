@@ -1,6 +1,6 @@
 # dance pop
 
-[240 songs](dance_pop_tracks.md)
+[241 songs](dance_pop_tracks.md)
 
 ## Top Artists
 
@@ -43,6 +43,7 @@
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e2e2c78de847c4d9b12d32f" alt="" width="50" /> | Charlie Puth                                 | [🔗](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb6659b1cb61936bd7bcb229a2" alt="" width="50" /> | Demi Lovato                                  | [🔗](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) |
 |                  3 | <img src="https://i.scdn.co/image/c56cf0cc89c8ecfec7145cf065ea2006d0706605" alt="" width="50" /> | *NSYNC                                       | [🔗](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) |
+|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebabe53b210d382c4c450d7709" alt="" width="50" /> | MIKA                                         | [🔗](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8c2332e6c0ed96d144a91b3f" alt="" width="50" /> | Cardi B                                      | [🔗](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson                                  | [🔗](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | Jessie J                                     | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
@@ -50,7 +51,6 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | Iggy Azalea                                  | [🔗](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | B.o.B                                        | [🔗](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | Juicy J                                      | [🔗](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb0d66b3670294bf801847dae2" alt="" width="50" /> | Lizzo                                        | [🔗](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | Young Thug                                   | [🔗](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ace68c56849548db7f102be" alt="" width="50" /> | DaBaby                                       | [🔗](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)         | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
@@ -141,6 +141,7 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605" alt="" width="50" /> | Positions                                                                                           | [🔗](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="" width="50" /> | No Strings Attached                                                                                 | [🔗](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" alt="" width="50" /> | Millennium                                                                                          | [🔗](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9a3105ad4ffb91ad2e2798" alt="" width="50" /> | Life in Cartoon Motion                                                                              | [🔗](https://open.spotify.com/album/4wKkXYJXQWDa9sndBSx0gI) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Good Girl Gone Bad: Reloaded                                                                        | [🔗](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Camila                                                                                              | [🔗](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="" width="50" /> | 24K Magic                                                                                           | [🔗](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) |
@@ -226,7 +227,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27329c1c454ed1b2acfa64dc37f" alt="" width="50" /> | Listen Without Prejudice / MTV Unplugged (Deluxe)                                                   | [🔗](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736b18e58a06aac7763abe319a" alt="" width="50" /> | Like a Virgin (Reissue)                                                                             | [🔗](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="" width="50" /> | Let The Road                                                                                        | [🔗](https://open.spotify.com/album/02ae5i5UAoFrt2peVox9Xd) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736f9e6abbd6fa43ac3cdbeee0" alt="" width="50" /> | Leave The Door Open                                                                                 | [🔗](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) |
 
 </details>
 
@@ -237,14 +237,14 @@
 
 
 <details>
-<summary>See all 76 labels</summary>
+<summary>See all 77 labels</summary>
 
 |   Number of Tracks | Label                                                                                                                       |
 |-------------------:|:----------------------------------------------------------------------------------------------------------------------------|
 |                 27 | [RCA Records Label](../labels/rca_records_label.md)                                                                         |
 |                 22 | [Warner Records](../labels/warner_records.md)                                                                               |
-|                 20 | [Atlantic Records](../labels/atlantic_records.md)                                                                           |
 |                 19 | [Columbia](../labels/columbia.md)                                                                                           |
+|                 18 | [Atlantic Records](../labels/atlantic_records.md)                                                                           |
 |                 15 | [Jive](../labels/jive.md)                                                                                                   |
 |                 13 | [Universal Music LLC](../labels/universal_music_llc.md)                                                                     |
 |                 13 | [Republic Records](../labels/republic_records.md)                                                                           |
@@ -262,11 +262,12 @@
 |                  5 | [Atlantic Records UK](../labels/atlantic_records_uk.md)                                                                     |
 |                  4 | [Sony Music Latin](../labels/sony_music_latin.md)                                                                           |
 |                  4 | [Kemosabe Records](../labels/kemosabe_records.md)                                                                           |
+|                  3 | [Island UK](../labels/island_uk.md)                                                                                         |
 |                  3 | [Island Records](../labels/island_records.md)                                                                               |
+|                  3 | [Casablanca Records](../labels/casablanca_records.md)                                                                       |
 |                  2 | [Walt Disney Records](../labels/walt_disney_records.md)                                                                     |
 |                  2 | [Sony Music Entertainment](../labels/sony_music_entertainment.md)                                                           |
 |                  2 | [Nicki Minaj](../labels/nicki_minaj.md)                                                                                     |
-|                  2 | [Nice Life](../labels/nice_life.md)                                                                                         |
 |                  2 | [Lava Music](../labels/lava_music.md)                                                                                       |
 |                  2 | [KSR](../labels/ksr.md)                                                                                                     |
 |                  2 | [Hollywood Records](../labels/hollywood_records.md)                                                                         |
@@ -331,8 +332,8 @@
 | Pretty Please                    | Half Of Me                                            |
 | Sally Walker                     | Ave Maria                                             |
 | Coño                             | Jar of Hearts                                         |
-| LoveGame                         | I'd Rather Go Blind                                   |
-| Yeah! (feat. Lil Jon & Ludacris) | I See the Light - From "Tangled" / Soundtrack Version |
+| Yeah! (feat. Lil Jon & Ludacris) | I'd Rather Go Blind                                   |
+| LoveGame                         | I See the Light - From "Tangled" / Soundtrack Version |
 | Faith - Remastered               | La Vie En Rose                                        |
 | Worth It (feat. Kid Ink)         | Already Gone                                          |
 
@@ -381,12 +382,12 @@
 | You and I (Park Bom)                                     | Sally Walker                                                   |
 | Lights - Single Version                                  | Stone Cold                                                     |
 | Toxic                                                    | Heart Attack                                                   |
-| Candyman                                                 | Truth Hurts                                                    |
-| Coño                                                     | About Damn Time                                                |
-| I Am The Best                                            | Swalla (feat. Nicki Minaj & Ty Dolla $ign)                     |
-| SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) | Talk Dirty (feat. 2 Chainz)                                    |
-| Woman                                                    | Trumpets                                                       |
-| Like a Virgin                                            | When Will My Life Begin? - From "Tangled" / Soundtrack Version |
+| Candyman                                                 | Happy Ending                                                   |
+| Grace Kelly                                              | Swalla (feat. Nicki Minaj & Ty Dolla $ign)                     |
+| Coño                                                     | Talk Dirty (feat. 2 Chainz)                                    |
+| I Am The Best                                            | Trumpets                                                       |
+| SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) | Bubblegum (feat. Tyga)                                         |
+| Woman                                                    | When Will My Life Begin? - From "Tangled" / Soundtrack Version |
 
 | 10 most Live tracks                            | 10 least Live tracks             |
 |:-----------------------------------------------|:---------------------------------|

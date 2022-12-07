@@ -308,9 +308,9 @@
 |                 15 | permanent wave                                      |
 |                 15 | [electropop](../genres/electropop.md)               |
 |                 14 | indie rock                                          |
+|                 14 | alternative rock                                    |
 |                 13 | nz pop                                              |
 |                 13 | bergen indie                                        |
-|                 13 | alternative rock                                    |
 |                 11 | australian pop                                      |
 |                 10 | [pop rock](../genres/pop_rock.md)                   |
 |                 10 | oxford indie                                        |
@@ -322,6 +322,7 @@
 |                  8 | australian dance                                    |
 |                  7 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                  7 | anti-folk                                           |
+|                  6 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  6 | [neo mellow](../genres/neo_mellow.md)               |
 |                  6 | la indie                                            |
 |                  5 | uk funky                                            |
@@ -347,7 +348,6 @@
 |                  3 | candy pop                                           |
 |                  3 | [acoustic pop](../genres/acoustic_pop.md)           |
 |                  2 | washington indie                                    |
-|                  2 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  2 | shiver pop                                          |
 |                  2 | pop punk                                            |
 |                  2 | pop emo                                             |
@@ -391,11 +391,11 @@
 |                  1 | folk-pop                                            |
 |                  1 | elephant 6                                          |
 |                  1 | electronic rock                                     |
-|                  1 | electro swing                                       |
 |                  1 | dutch pop                                           |
 |                  1 | downtempo                                           |
 |                  1 | danish pop                                          |
 |                  1 | cyberpunk                                           |
+|                  1 | canadian singer-songwriter                          |
 
 </details>
 

@@ -102,11 +102,11 @@
 
 ## Genres
 
-![Bar chart of top 22 genres](../images/playlists/jazz/genres.png)
+![Bar chart of top 21 genres](../images/playlists/jazz/genres.png)
 
 
 <details>
-<summary>See all 22 genres</summary>
+<summary>See all 21 genres</summary>
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
@@ -127,7 +127,6 @@
 |                  1 | korean jazz                                         |
 |                  1 | folk rock                                           |
 |                  1 | folk                                                |
-|                  1 | electro swing                                       |
 |                  1 | electric blues                                      |
 |                  1 | dutch pop                                           |
 |                  1 | country rock                                        |

@@ -3,17 +3,17 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27312626c137c7684fe1662a4f3ab67616d0000b2732ced1760b648799e697e8e02ab67616d0000b273ac815bdd584468a7aa0216e1ab67616d0000b273be123bb6b40736bf093870bd" alt="Check Out Later" width="100" />
 
-[27 songs](check_out_later_tracks.md)
+[28 songs](check_out_later_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 22 artists](../images/playlists/check_out_later/artists.png)
+![Bar chart of top 23 artists](../images/playlists/check_out_later/artists.png)
 
 ![Comparison of Artist](../images/playlists/check_out_later/artists_comparison.png)
 
 
 <details>
-<summary>See all 22 artists</summary>
+<summary>See all 23 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                     | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------|:------------------------------------------------------------|
@@ -28,6 +28,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2c56b558b75841a77d7ea09" alt="" width="50" /> | Nucksal                                    | [🔗](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5b1a291b0a6a689091d54d8b" alt="" width="50" /> | IVE                                        | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27312626c137c7684fe1662a4f3" alt="" width="50" /> | HAEUN                                      | [🔗](https://open.spotify.com/artist/5JIuf9fLWCKGSpUDMTolAI) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../artists/radiohead.md)       | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1a7d0845c3b7e2f130264957" alt="" width="50" /> | The Smashing Pumpkins                      | [🔗](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="" width="50" /> | [EXO](../artists/exo.md)                   | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb805669a8af3067839e92d762" alt="" width="50" /> | TEN                                        | [🔗](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) |
@@ -45,11 +46,11 @@
 
 ## Top Albums
 
-![Bar chart of top 21 albums](../images/playlists/check_out_later/albums.png)
+![Bar chart of top 22 albums](../images/playlists/check_out_later/albums.png)
 
 
 <details>
-<summary>See all 21 albums</summary>
+<summary>See all 22 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                                      | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -64,6 +65,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732795c34a8931367a0916de54" alt="" width="50" /> | The 1st Album 'XOXO' (Repackage)                                           | [🔗](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732ced1760b648799e697e8e02" alt="" width="50" /> | Taxidriver OST Part.1                                                      | [🔗](https://open.spotify.com/album/3PNXlS9tggXmCm1hrlHDcQ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="" width="50" /> | Mellon Collie And The Infinite Sadness (Deluxe Edition)                    | [🔗](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="" width="50" /> | In Rainbows                                                                | [🔗](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273bd8c4b8999cdc5af790b91b2" alt="" width="50" /> | ISLAND                                                                     | [🔗](https://open.spotify.com/album/252HrrsALUd5ysKCJuRCur) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | I love                                                                     | [🔗](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731e8798f25a1997f0679b2382" alt="" width="50" /> | Hot In It                                                                  | [🔗](https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q) |
@@ -80,11 +82,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 17 record labels](../images/playlists/check_out_later/labels.png)
+![Bar chart of top 18 record labels](../images/playlists/check_out_later/labels.png)
 
 
 <details>
-<summary>See all 17 labels</summary>
+<summary>See all 18 labels</summary>
 
 |   Number of Tracks | Label                                                               |
 |-------------------:|:--------------------------------------------------------------------|
@@ -94,6 +96,7 @@
 |                  2 | [SM Entertainment](../labels/sm_entertainment.md)                   |
 |                  2 | [Republic Records](../labels/republic_records.md)                   |
 |                  2 | [Merge Records](../labels/merge_records.md)                         |
+|                  1 | [XL Recordings](../labels/xl_recordings.md)                         |
 |                  1 | [Virgin Records](../labels/virgin_records.md)                       |
 |                  1 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
 |                  1 | [Sony Music Labels Inc.](../labels/sony_music_labels_inc_.md)       |
@@ -115,7 +118,7 @@
 
 
 <details>
-<summary>See all 43 genres</summary>
+<summary>See all 46 genres</summary>
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
@@ -124,13 +127,15 @@
 |                  5 | [dance pop](../genres/dance_pop.md)               |
 |                  5 | [art pop](../genres/art_pop.md)                   |
 |                  4 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+|                  4 | alternative rock                                  |
 |                  3 | uk pop                                            |
 |                  3 | [post-teen pop](../genres/post_teen_pop.md)       |
 |                  3 | metropopolis                                      |
 |                  3 | k-indie                                           |
 |                  3 | [electropop](../genres/electropop.md)             |
 |                  3 | candy pop                                         |
-|                  3 | alternative rock                                  |
+|                  2 | [rock](../genres/rock.md)                         |
+|                  2 | permanent wave                                    |
 |                  2 | lo-fi                                             |
 |                  2 | korean indie rock                                 |
 |                  2 | indie rock                                        |
@@ -144,11 +149,11 @@
 |                  1 | taiwan pop                                        |
 |                  1 | spacegrunge                                       |
 |                  1 | slap house                                        |
-|                  1 | [rock](../genres/rock.md)                         |
 |                  1 | proto-hyperpop                                    |
 |                  1 | [pop rock](../genres/pop_rock.md)                 |
 |                  1 | pop dance                                         |
-|                  1 | permanent wave                                    |
+|                  1 | oxford indie                                      |
+|                  1 | melancholia                                       |
 |                  1 | mandopop                                          |
 |                  1 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
 |                  1 | hyperpop                                          |
@@ -161,6 +166,7 @@
 |                  1 | c-pop                                             |
 |                  1 | brostep                                           |
 |                  1 | big room                                          |
+|                  1 | art rock                                          |
 |                  1 | alternative metal                                 |
 
 </details>
@@ -170,7 +176,7 @@
 
 | 10 most Danceable tracks                                                   | 10 least Danceable tracks                     |
 |:---------------------------------------------------------------------------|:----------------------------------------------|
-| Freaky                                                                     | 911 - Charli XCX & A. G. Cook Remix           |
+| Freaky                                                                     | 15 Step                                       |
 | Beg For You (feat. Rina Sawayama)                                          | A Flying Butterfly                            |
 | Cherry On Top                                                              | ISLAND                                        |
 | Be There (feat. DinDin)                                                    | Reset                                         |
@@ -187,12 +193,12 @@
 | Why Don’t You Know                  | Last Dance                   |
 | Wolf                                | Karma                        |
 | Holland, 1945                       | Reset                        |
-| Hot In It                           | King of Carrot Flowers Pt. 1 |
-| Snowy                               | 楓                            |
-| ISLAND                              | Show Me What                 |
-| 911 - Charli XCX & A. G. Cook Remix | Maroon                       |
-| Be There (feat. DinDin)             | Mastermind                   |
-| 몽중몽; Dream In A Dream               | Labyrinth                    |
+| 15 Step                             | King of Carrot Flowers Pt. 1 |
+| Hot In It                           | 楓                            |
+| Snowy                               | Show Me What                 |
+| ISLAND                              | Maroon                       |
+| 911 - Charli XCX & A. G. Cook Remix | Mastermind                   |
+| Be There (feat. DinDin)             | Labyrinth                    |
 
 | 10 most Speechy tracks   | 10 least Speechy tracks      |
 |:-------------------------|:-----------------------------|
@@ -209,9 +215,9 @@
 
 | 10 most Acoustic tracks                                                    | 10 least Acoustic tracks                      |
 |:---------------------------------------------------------------------------|:----------------------------------------------|
-| Labyrinth                                                                  | Karma                                         |
-| 楓                                                                          | Good Ones                                     |
-| Be There (feat. DinDin)                                                    | Maroon                                        |
+| Labyrinth                                                                  | Good Ones                                     |
+| 楓                                                                          | Maroon                                        |
+| Be There (feat. DinDin)                                                    | 15 Step                                       |
 | Mastermind                                                                 | Holland, 1945                                 |
 | Show Me What                                                               | 몽중몽; Dream In A Dream                         |
 | Freaky                                                                     | A Flying Butterfly                            |
@@ -225,18 +231,18 @@
 | King of Carrot Flowers Pt. 1                                               | Freaky                         |
 | Bullet With Butterfly Wings - Remastered 2012                              | Last Dance                     |
 | Labyrinth                                                                  | Wolf                           |
-| 몽중몽; Dream In A Dream                                                      | A Flying Butterfly             |
-| Mastermind                                                                 | Why Don’t You Know             |
-| Holland, 1945                                                              | ISLAND                         |
-| Queen of Hearts                                                            | Be There (feat. DinDin)        |
-| Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] | Reset                          |
-| 911 - Charli XCX & A. G. Cook Remix                                        | Karma                          |
-| SILENCE                                                                    | Snowy                          |
+| 15 Step                                                                    | A Flying Butterfly             |
+| 몽중몽; Dream In A Dream                                                      | Why Don’t You Know             |
+| Mastermind                                                                 | ISLAND                         |
+| Holland, 1945                                                              | Be There (feat. DinDin)        |
+| Queen of Hearts                                                            | Reset                          |
+| Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] | Karma                          |
+| 911 - Charli XCX & A. G. Cook Remix                                        | Snowy                          |
 
 | 10 most Live tracks                 | 10 least Live tracks                                                       |
 |:------------------------------------|:---------------------------------------------------------------------------|
-| Holland, 1945                       | A Flying Butterfly                                                         |
-| Karma                               | Maroon                                                                     |
+| Holland, 1945                       | Maroon                                                                     |
+| Karma                               | 15 Step                                                                    |
 | King of Carrot Flowers Pt. 1        | Show Me What                                                               |
 | Why Don’t You Know                  | SILENCE                                                                    |
 | 911 - Charli XCX & A. G. Cook Remix | Be There (feat. DinDin)                                                    |
@@ -248,13 +254,13 @@
 
 | 10 most Happy tracks                                                       | 10 least Happy tracks               |
 |:---------------------------------------------------------------------------|:------------------------------------|
-| Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] | 몽중몽; Dream In A Dream               |
-| Snowy                                                                      | 911 - Charli XCX & A. G. Cook Remix |
-| Good Ones                                                                  | King of Carrot Flowers Pt. 1        |
-| Queen of Hearts                                                            | ISLAND                              |
-| Be There (feat. DinDin)                                                    | A Flying Butterfly                  |
-| Hot In It                                                                  | 楓                                   |
-| Freaky                                                                     | Mastermind                          |
-| Why Don’t You Know                                                         | Labyrinth                           |
-| Show Me What                                                               | Karma                               |
-| Last Dance                                                                 | Maroon                              |
+| 15 Step                                                                    | 몽중몽; Dream In A Dream               |
+| Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] | 911 - Charli XCX & A. G. Cook Remix |
+| Snowy                                                                      | King of Carrot Flowers Pt. 1        |
+| Good Ones                                                                  | ISLAND                              |
+| Queen of Hearts                                                            | A Flying Butterfly                  |
+| Be There (feat. DinDin)                                                    | 楓                                   |
+| Hot In It                                                                  | Mastermind                          |
+| Freaky                                                                     | Labyrinth                           |
+| Why Don’t You Know                                                         | Karma                               |
+| Show Me What                                                               | Maroon                              |

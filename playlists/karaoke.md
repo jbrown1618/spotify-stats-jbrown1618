@@ -203,7 +203,7 @@
 
 
 <details>
-<summary>See all 84 genres</summary>
+<summary>See all 85 genres</summary>
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
@@ -243,6 +243,7 @@
 |                  2 | modern alternative rock                             |
 |                  2 | melancholia                                         |
 |                  2 | jazz pop                                            |
+|                  2 | indie folk                                          |
 |                  2 | funk                                                |
 |                  2 | folk                                                |
 |                  2 | easy listening                                      |

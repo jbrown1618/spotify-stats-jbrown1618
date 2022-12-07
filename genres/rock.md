@@ -1,6 +1,6 @@
 # rock
 
-[149 songs](rock_tracks.md)
+[150 songs](rock_tracks.md)
 
 ## Top Artists
 
@@ -17,7 +17,7 @@
 |                 31 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" alt="" width="50" /> | [The Beatles](../artists/the_beatles.md)               | [🔗](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) |
 |                 23 | <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | [Billy Joel](../artists/billy_joel.md)                 | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
 |                 14 | <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | [Queen](../artists/queen.md)                           | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
-|                 10 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../artists/radiohead.md)                   | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
+|                 11 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../artists/radiohead.md)                   | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
 |                  6 | <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | The Who                                                | [🔗](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb249d55f2d68a44637905c57e" alt="" width="50" /> | Fleetwood Mac                                          | [🔗](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) |
 |                  5 | <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | Simon & Garfunkel                                      | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
@@ -61,7 +61,7 @@
 
 
 <details>
-<summary>See all 97 albums</summary>
+<summary>See all 98 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                   | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------|:-----------------------------------------------------------|
@@ -142,6 +142,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb" alt="" width="50" /> | Led Zeppelin III (Remaster)                             | [🔗](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27350dcdcb73b5bbff6d3136131" alt="" width="50" /> | Innuendo                                                | [🔗](https://open.spotify.com/album/5yAM3CcaXF6DPRJW3oL6Ya) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731b2a9188ac775e16998eb78d" alt="" width="50" /> | Infinity                                                | [🔗](https://open.spotify.com/album/7K4Nk5fHkCuzNm5A6mdo2U) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="" width="50" /> | In Rainbows                                             | [🔗](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734637341b9f507521afa9a778" alt="" width="50" /> | Hotel California (2013 Remaster)                        | [🔗](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="" width="50" /> | Help! (Remastered)                                      | [🔗](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27309880a7b8636c5a0615dc0c8" alt="" width="50" /> | Graceland (25th Anniversary Deluxe Edition)             | [🔗](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) |
@@ -180,8 +181,8 @@
 |                 30 | [EMI Catalogue](../labels/emi_catalogue.md)                                     |
 |                 15 | [Warner Records](../labels/warner_records.md)                                   |
 |                 14 | [Hollywood Records](../labels/hollywood_records.md)                             |
+|                 11 | [XL Recordings](../labels/xl_recordings.md)                                     |
 |                 11 | [Rhino](../labels/rhino.md)                                                     |
-|                 10 | [XL Recordings](../labels/xl_recordings.md)                                     |
 |                 10 | [Legacy](../labels/legacy.md)                                                   |
 |                  4 | [Epic](../labels/epic.md)                                                       |
 |                  3 | [Geffen](../labels/geffen.md)                                                   |
@@ -223,8 +224,8 @@
 | I Want To Break Free       | The Trooper - 2015 Remaster           |
 | Dreams - 2004 Remaster     | Across The Universe - Remastered 2009 |
 | Eye of the Tiger           | No Surprises                          |
-| You Can Call Me Al         | Fat Bottomed Girls                    |
-| Believer                   | Paranoid Android                      |
+| Believer                   | Fat Bottomed Girls                    |
+| You Can Call Me Al         | Paranoid Android                      |
 | 1979 - Remastered 2012     | Desperado - 2013 Remaster             |
 | Get Back - Remastered 2009 | Lights                                |
 | Cecilia                    | Bridge Over Troubled Water            |
@@ -239,8 +240,8 @@
 | Uptown Girl                       | Golden Slumbers - Remastered 2009 |
 | Go Your Own Way - 2004 Remaster   | She's Got a Way                   |
 | Blood and Thunder                 | Blackbird - Remastered 2009       |
-| Any Way You Want It               | And So It Goes                    |
-| Immigrant Song - Remaster         | The Boxer                         |
+| Immigrant Song - Remaster         | And So It Goes                    |
+| Any Way You Want It               | The Boxer                         |
 | Scenes from an Italian Restaurant | And So It Goes                    |
 
 | 10 most Speechy tracks                      | 10 least Speechy tracks            |
@@ -271,16 +272,16 @@
 
 | 10 most Instrumental tracks                   | 10 least Instrumental tracks         |
 |:----------------------------------------------|:-------------------------------------|
-| Bullet With Butterfly Wings - Remastered 2012 | We Will Rock You                     |
-| Weird Fishes/ Arpeggi                         | The Longest Time                     |
-| Blood and Thunder                             | Uptown Girl                          |
-| Street Spirit (Fade Out)                      | We Didn't Start the Fire             |
-| 1979 - Remastered 2012                        | Don't Ask Me Why                     |
-| Smoke on the Water                            | Brown Eyed Girl                      |
-| Pyramid Song                                  | Ride                                 |
-| Come Together - Remastered 2009               | Everybody Talks                      |
-| Won't Get Fooled Again - Remix                | A Hard Day's Night - Remastered 2009 |
-| I Want You (She's So Heavy) - Remastered 2009 | Cold as Ice                          |
+| Bullet With Butterfly Wings - Remastered 2012 | Believer                             |
+| Weird Fishes/ Arpeggi                         | We Didn't Start the Fire             |
+| Blood and Thunder                             | And So It Goes                       |
+| Street Spirit (Fade Out)                      | Only the Good Die Young              |
+| 1979 - Remastered 2012                        | Crazy Little Thing Called Love       |
+| Smoke on the Water                            | A Hard Day's Night - Remastered 2009 |
+| Pyramid Song                                  | All My Loving - Remastered 2009      |
+| 15 Step                                       | Let It Be - Remastered 2009          |
+| Come Together - Remastered 2009               | Yellow Submarine - Remastered 2009   |
+| Won't Get Fooled Again - Remix                | Cold as Ice                          |
 
 | 10 most Live tracks                | 10 least Live tracks                          |
 |:-----------------------------------|:----------------------------------------------|

@@ -1,22 +1,23 @@
 # singer-songwriter
 
-[51 songs](singer_songwriter_tracks.md)
+[55 songs](singer_songwriter_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 16 artists](../images/genres/singer_songwriter/artists.png)
+![Bar chart of top 17 artists](../images/genres/singer_songwriter/artists.png)
 
 ![Comparison of Artist](../images/genres/singer_songwriter/artists_comparison.png)
 
 
 <details>
-<summary>See all 16 artists</summary>
+<summary>See all 17 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                                 | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------|:------------------------------------------------------------|
 |                 23 | <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | [Billy Joel](../artists/billy_joel.md)                 | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
 |                  8 | <img src="https://i.scdn.co/image/68cfb061951dbd44c95422a54cb70baec0722ca3" alt="" width="50" /> | Joni Mitchell                                          | [🔗](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | Van Morrison                                           | [🔗](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) |
+|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eba36a9f95d59ab791d5e897e9" alt="" width="50" /> | Regina Spektor                                         | [🔗](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4536d632bb182e3f82baaaf" alt="" width="50" /> | [The King's Singers](../artists/the_king_s_singers.md) | [🔗](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebbdef7f178c9cf2e8d50cb9b9" alt="" width="50" /> | The Monkees                                            | [🔗](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) |
 |                  2 | <img src="https://i.scdn.co/image/813fde33623cbfd065053789cf1ffb22b55efd4a" alt="" width="50" /> | Carole King                                            | [🔗](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) |
@@ -39,13 +40,14 @@
 
 
 <details>
-<summary>See all 35 albums</summary>
+<summary>See all 37 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                          | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------|:-----------------------------------------------------------|
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | The Stranger                                                   | [🔗](https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273b4844a368bd9679f1db5a4fb" alt="" width="50" /> | Song to a Seagull                                              | [🔗](https://open.spotify.com/album/6rg3WTvmv68Vd6tgR0yS0E) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273e9f77be85457110ebf304da7" alt="" width="50" /> | Blue                                                           | [🔗](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2732d81f491319b86356eb10c4e" alt="" width="50" /> | Begin to Hope                                                  | [🔗](https://open.spotify.com/album/4L4tcx3itXbtx5kuchKhFE) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="" width="50" /> | The Stranger (Legacy Edition)                                  | [🔗](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="" width="50" /> | Tapestry                                                       | [🔗](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="" width="50" /> | Storm Front                                                    | [🔗](https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D) |
@@ -73,6 +75,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734637341b9f507521afa9a778" alt="" width="50" /> | Hotel California (2013 Remaster)                               | [🔗](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27309880a7b8636c5a0615dc0c8" alt="" width="50" /> | Graceland (25th Anniversary Deluxe Edition)                    | [🔗](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27322d5199692d318c28d6c7d9b" alt="" width="50" /> | Glass Houses                                                   | [🔗](https://open.spotify.com/album/5sztejERqpktXEdemlUvU5) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738c8d5428b693308705e7caca" alt="" width="50" /> | Far                                                            | [🔗](https://open.spotify.com/album/5t0lQDPLF22wmWCtSZkIVv) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732d73b1bb77cee09f0278be04" alt="" width="50" /> | Desperado (2013 Remaster)                                      | [🔗](https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273909f0333c8c1a821a7eea703" alt="" width="50" /> | Court and Spark                                                | [🔗](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273431daec5815fd0255437b43b" alt="" width="50" /> | Cold Spring Harbor                                             | [🔗](https://open.spotify.com/album/274rMlKrr22086ohmwAJZA) |
@@ -84,17 +87,18 @@
 
 ## Top Record Labels
 
-![Bar chart of top 16 record labels](../images/genres/singer_songwriter/labels.png)
+![Bar chart of top 17 record labels](../images/genres/singer_songwriter/labels.png)
 
 
 <details>
-<summary>See all 16 labels</summary>
+<summary>See all 17 labels</summary>
 
 |   Number of Tracks | Label                                                                             |
 |-------------------:|:----------------------------------------------------------------------------------|
 |                 23 | [Columbia](../labels/columbia.md)                                                 |
 |                 14 | [Rhino](../labels/rhino.md)                                                       |
 |                  5 | [Legacy](../labels/legacy.md)                                                     |
+|                  4 | [Sire](../labels/sire.md)                                                         |
 |                  3 | [Elektra](../labels/elektra.md)                                                   |
 |                  2 | [Warner Records](../labels/warner_records.md)                                     |
 |                  2 | [RCA Victor](../labels/rca_victor.md)                                             |
@@ -114,18 +118,18 @@
 
 ## Audio Features
 
-| 10 most Danceable tracks    | 10 least Danceable tracks         |
-|:----------------------------|:----------------------------------|
-| You Can Call Me Al          | And So It Goes                    |
-| My Life                     | The Pirate of Penance             |
-| A Matter of Trust           | Scenes from an Italian Restaurant |
-| We Didn't Start the Fire    | Captain Jack                      |
-| I Feel the Earth Move       | And So It Goes                    |
-| Uptown Girl                 | The Boxer                         |
-| Down in New Orleans         | Piano Man                         |
-| A Case of You               | Shadowboxer                       |
-| Don't Ask Me Why            | She's Always a Woman              |
-| Movin' Out (Anthony's Song) | Desperado - 2013 Remaster         |
+| 10 most Danceable tracks   | 10 least Danceable tracks         |
+|:---------------------------|:----------------------------------|
+| Fidelity                   | And So It Goes                    |
+| On the Radio               | The Pirate of Penance             |
+| You Can Call Me Al         | Scenes from an Italian Restaurant |
+| My Life                    | Captain Jack                      |
+| A Matter of Trust          | The Boxer                         |
+| We Didn't Start the Fire   | And So It Goes                    |
+| I Feel the Earth Move      | Piano Man                         |
+| Uptown Girl                | Shadowboxer                       |
+| Down in New Orleans        | She's Always a Woman              |
+| A Case of You              | Desperado - 2013 Remaster         |
 
 | 10 most Energetic tracks          | 10 least Energetic tracks      |
 |:----------------------------------|:-------------------------------|
@@ -166,24 +170,24 @@
 | The Boxer                      | Pressure                         |
 | And So It Goes                 | Hotel California - 2013 Remaster |
 
-| 10 most Instrumental tracks       | 10 least Instrumental tracks   |
-|:----------------------------------|:-------------------------------|
-| 25 or 6 to 4                      | Lullabye (Goodnight, My Angel) |
-| I Had a King                      | A Case of You                  |
-| You Can Call Me Al                | Free Man in Paris              |
-| Blue                              | Shadowboxer                    |
-| I Feel the Earth Move             | Cat's in the Cradle            |
-| My Life                           | Don't Ask Me Why               |
-| Pressure                          | Uptown Girl                    |
-| Down in New Orleans               | We Didn't Start the Fire       |
-| Scenes from an Italian Restaurant | And So It Goes                 |
-| Hotel California - 2013 Remaster  | Big Yellow Taxi                |
+| 10 most Instrumental tracks   | 10 least Instrumental tracks   |
+|:------------------------------|:-------------------------------|
+| 25 or 6 to 4                  | Uptown Girl                    |
+| I Had a King                  | The Longest Time               |
+| You Can Call Me Al            | Free Man in Paris              |
+| Blue                          | Big Yellow Taxi                |
+| I Feel the Earth Move         | Cat's in the Cradle            |
+| My Life                       | We Didn't Start the Fire       |
+| Pressure                      | Don't Ask Me Why               |
+| On the Radio                  | Shadowboxer                    |
+| Eet                           | Lullabye (Goodnight, My Angel) |
+| Down in New Orleans           | A Case of You                  |
 
 | 10 most Live tracks       | 10 least Live tracks             |
 |:--------------------------|:---------------------------------|
-| You Oughta Know           | You Can Call Me Al               |
-| Uptown Girl               | Vienna                           |
-| Big Yellow Taxi           | So Far Away                      |
+| You Oughta Know           | Vienna                           |
+| Uptown Girl               | So Far Away                      |
+| Big Yellow Taxi           | On the Radio                     |
 | Brown Eyed Girl           | Free Man in Paris                |
 | Captain Jack              | The River of Dreams              |
 | We Didn't Start the Fire  | The Boxer                        |
@@ -194,13 +198,13 @@
 
 | 10 most Happy tracks           | 10 least Happy tracks          |
 |:-------------------------------|:-------------------------------|
-| Big Yellow Taxi                | The Dawntreader                |
-| I'm a Believer - 2006 Remaster | Shadowboxer                    |
-| Brown Eyed Girl                | The Stranger                   |
-| Movin' Out (Anthony's Song)    | Lullabye (Goodnight, My Angel) |
-| We Didn't Start the Fire       | She's Got a Way                |
-| A Matter of Trust              | New York State of Mind         |
-| Don't Ask Me Why               | Desperado - 2013 Remaster      |
+| Big Yellow Taxi                | The Stranger                   |
+| I'm a Believer - 2006 Remaster | Lullabye (Goodnight, My Angel) |
+| Brown Eyed Girl                | She's Got a Way                |
+| Movin' Out (Anthony's Song)    | New York State of Mind         |
+| We Didn't Start the Fire       | Samson                         |
+| A Matter of Trust              | Desperado - 2013 Remaster      |
+| Don't Ask Me Why               | Eet                            |
 | Pressure                       | The Pirate of Penance          |
 | You Can Call Me Al             | I Had a King                   |
 | My Life                        | I Can't Make You Love Me       |

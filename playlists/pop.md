@@ -360,7 +360,7 @@
 |   Number of Tracks | Genre                                           |
 |-------------------:|:------------------------------------------------|
 |                300 | [pop](../genres/pop.md)                         |
-|                187 | [dance pop](../genres/dance_pop.md)             |
+|                188 | [dance pop](../genres/dance_pop.md)             |
 |                 62 | [post-teen pop](../genres/post_teen_pop.md)     |
 |                 25 | uk pop                                          |
 |                 25 | [electropop](../genres/electropop.md)           |
@@ -386,11 +386,11 @@
 |                  8 | metropopolis                                    |
 |                  8 | boy band                                        |
 |                  8 | australian dance                                |
+|                  8 | alternative r&b                                 |
 |                  7 | rap                                             |
 |                  7 | modern rock                                     |
 |                  7 | indietronica                                    |
 |                  7 | escape room                                     |
-|                  7 | alternative r&b                                 |
 |                  5 | uk funky                                        |
 |                  5 | [rock](../genres/rock.md)                       |
 |                  5 | piano rock                                      |
