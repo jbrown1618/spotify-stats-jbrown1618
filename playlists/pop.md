@@ -360,10 +360,10 @@
 |   Number of Tracks | Genre                                           |
 |-------------------:|:------------------------------------------------|
 |                300 | [pop](../genres/pop.md)                         |
-|                188 | [dance pop](../genres/dance_pop.md)             |
-|                 62 | [post-teen pop](../genres/post_teen_pop.md)     |
+|                190 | [dance pop](../genres/dance_pop.md)             |
+|                 54 | [post-teen pop](../genres/post_teen_pop.md)     |
+|                 27 | [electropop](../genres/electropop.md)           |
 |                 25 | uk pop                                          |
-|                 25 | [electropop](../genres/electropop.md)           |
 |                 25 | edm                                             |
 |                 25 | [art pop](../genres/art_pop.md)                 |
 |                 20 | urban contemporary                              |
@@ -375,11 +375,11 @@
 |                 11 | [neo mellow](../genres/neo_mellow.md)           |
 |                 11 | british soul                                    |
 |                 11 | australian pop                                  |
-|                 10 | viral pop                                       |
 |                 10 | pop soul                                        |
 |                 10 | canadian pop                                    |
 |                 10 | barbadian pop                                   |
 |                 10 | [acoustic pop](../genres/acoustic_pop.md)       |
+|                  9 | viral pop                                       |
 |                  9 | pop dance                                       |
 |                  8 | uk dance                                        |
 |                  8 | tropical house                                  |
@@ -403,6 +403,7 @@
 |                  4 | indie poptimism                                 |
 |                  4 | [hollywood](../genres/hollywood.md)             |
 |                  4 | hip pop                                         |
+|                  4 | hip hop                                         |
 |                  4 | girl group                                      |
 |                  4 | europop                                         |
 |                  4 | electro house                                   |
@@ -413,7 +414,6 @@
 |                  3 | latin pop                                       |
 |                  3 | indie pop                                       |
 |                  3 | house                                           |
-|                  3 | hip hop                                         |
 |                  3 | etherpop                                        |
 |                  3 | chill r&b                                       |
 |                  3 | canadian contemporary r&b                       |

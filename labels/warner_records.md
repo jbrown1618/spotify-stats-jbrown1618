@@ -1,9 +1,9 @@
 # Warner Records
 
-67 songs
+68 songs
 
 Appears as:
-- Warner Records (44 tracks)
+- Warner Records (45 tracks)
 - Rhino/Warner Records (9 tracks)
 - Beluga Heights/Warner Records (5 tracks)
 - Brute/Beaute/Warner Records (3 tracks)
@@ -26,9 +26,9 @@ Appears as:
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb249d55f2d68a44637905c57e" alt="" width="50" /> | Fleetwood Mac                        | [🔗](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../artists/aespa.md)         | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | Jackson Wang                         | [🔗](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) |
+|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | Muse                                 | [🔗](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb654972693e0efed3f3f4d090" alt="" width="50" /> | Jason Derulo                         | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
 |                  4 | <img src="https://i.scdn.co/image/7b2813bb4afb38f0dab9470a514091fc4ef6b1a1" alt="" width="50" /> | Rilo Kiley                           | [🔗](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) |
-|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | Muse                                 | [🔗](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb034a19a2d576c696b5be94a5" alt="" width="50" /> | Madonna                              | [🔗](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebabfac786f093c4da55c99d4e" alt="" width="50" /> | Bebe Rexha                           | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebeaca358712b3fe4ed9814640" alt="" width="50" /> | Prince                               | [🔗](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) |
@@ -72,6 +72,7 @@ Appears as:
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Girls - The 2nd Mini Album                          | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="" width="50" /> | Rumours (Super Deluxe)                              | [🔗](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | More Adventurous (U.S. Release)                     | [🔗](https://open.spotify.com/album/4n36X2GMJ84BKh9D9zMRVI) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="" width="50" /> | The 2nd Law                                         | [🔗](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e" alt="" width="50" /> | Talk Dirty                                          | [🔗](https://open.spotify.com/album/4PeZu0It7qVrTG40t3HM9A) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273d52bfb90ee8dfeda8378b99b" alt="" width="50" /> | Purple Rain                                         | [🔗](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734fb043195e8d07e72edc7226" alt="" width="50" /> | Fleetwood Mac                                       | [🔗](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) |
@@ -82,7 +83,6 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737a2a55eaab314c41d8f6e512" alt="" width="50" /> | Tusk (2015 Remaster)                                | [🔗](https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27343f594be3179178ce058786f" alt="" width="50" /> | The Ultimate Collection                             | [🔗](https://open.spotify.com/album/6TcPqftScGmR0aEgIb43Vv) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27369b3dd10eee85bb2652c3b05" alt="" width="50" /> | The Golden Echo                                     | [🔗](https://open.spotify.com/album/66hoUkjxM7tVQwu7bZocwP) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="" width="50" /> | The 2nd Law                                         | [🔗](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27364d58f6e7672baecc8972806" alt="" width="50" /> | Tattoos (Deluxe Edition)                            | [🔗](https://open.spotify.com/album/3wDeTllVvayYsWTHsFNWZQ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d6522bee68370fa5592301d" alt="" width="50" /> | Swalla (feat. Nicki Minaj & Ty Dolla $ign)          | [🔗](https://open.spotify.com/album/2e5CxfyEwBW115beiwh7Mc) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27389fba37a3d30c462059917bd" alt="" width="50" /> | Physical (feat. Hwa Sa)                             | [🔗](https://open.spotify.com/album/6apIJi4hf7U6cBOFwIqq1b) |
@@ -120,7 +120,7 @@ Appears as:
 |-------------------:|:----------------------------------------------------|
 |                 23 | [pop](../genres/pop.md)                             |
 |                 22 | [dance pop](../genres/dance_pop.md)                 |
-|                 15 | [rock](../genres/rock.md)                           |
+|                 16 | [rock](../genres/rock.md)                           |
 |                 13 | nz pop                                              |
 |                 13 | [electropop](../genres/electropop.md)               |
 |                 13 | bergen indie                                        |
@@ -132,9 +132,9 @@ Appears as:
 |                  8 | edm                                                 |
 |                  6 | yacht rock                                          |
 |                  6 | pop rap                                             |
+|                  5 | permanent wave                                      |
+|                  5 | modern rock                                         |
 |                  5 | [k-pop girl group](../genres/k_pop_girl_group.md)   |
-|                  4 | permanent wave                                      |
-|                  4 | modern rock                                         |
 |                  4 | [lilith](../genres/lilith.md)                       |
 |                  4 | la indie                                            |
 |                  4 | indie rock                                          |
@@ -230,6 +230,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273a9e6856251d6c4b13167924a" alt="" width="50" /> | Feeling Good                                        | Origin of Symmetry                                  | Muse                                                                     | [Warner Records](warner_records.md)                                     | 💚   | [🔗](https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" alt="" width="50" /> | Knights of Cydonia                                  | Black Holes and Revelations                         | Muse                                                                     | [Warner Records](warner_records.md)                                     |     | [🔗](https://open.spotify.com/track/7ouMYWpwJ422jRcDASZB7P) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" alt="" width="50" /> | Supermassive Black Hole                             | Black Holes and Revelations                         | Muse                                                                     | [Warner Records](warner_records.md)                                     | 💚   | [🔗](https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="" width="50" /> | Animals                                             | The 2nd Law                                         | Muse                                                                     | [Warner Records](warner_records.md)                                     |     | [🔗](https://open.spotify.com/track/2raJLzvNRvipP8cJuchk6U) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="" width="50" /> | Madness                                             | The 2nd Law                                         | Muse                                                                     | [Warner Records](warner_records.md)                                     | 💚   | [🔗](https://open.spotify.com/track/0c4IEciLCDdXEhhKxj4ThA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d52bfb90ee8dfeda8378b99b" alt="" width="50" /> | Purple Rain                                         | Purple Rain                                         | Prince                                                                   | [Rhino](rhino.md), [Warner Records](warner_records.md)                  |     | [🔗](https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d52bfb90ee8dfeda8378b99b" alt="" width="50" /> | When Doves Cry                                      | Purple Rain                                         | Prince                                                                   | [Rhino](rhino.md), [Warner Records](warner_records.md)                  | 💚   | [🔗](https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA) |
@@ -239,4 +240,4 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27365605f713fce29c2682c9ebe" alt="" width="50" /> | Silver Lining                                       | Under The Blacklight (Standard Version)             | Rilo Kiley                                                               | [Warner Records](warner_records.md)                                     | 💚   | [🔗](https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f22514855a9a8356664340fb" alt="" width="50" /> | Moondance - 2013 Remaster                           | Moondance (Deluxe Edition)                          | Van Morrison                                                             | [Warner Records](warner_records.md)                                     | 💚   | [🔗](https://open.spotify.com/track/683b4ikwa62JevCjwrmfg6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27369bb57791f9859f2695391f7" alt="" width="50" /> | Crazy Love - 2013 Remaster                          | Moondance (Expanded Edition)                        | Van Morrison                                                             | [Warner Records](warner_records.md)                                     |     | [🔗](https://open.spotify.com/track/2hjAc6x8EoSLhGxRNg8KEw) |
-| <img src="https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db" alt="" width="50" /> | No Hands (feat. Roscoe Dash & Wale)                 | Flockaveli                                          | Waka Flocka Flame, Roscoe Dash, Wale                                     | [Asylum/Warner Records](warner_records.md)                              | 💚   | [🔗](https://open.spotify.com/track/03tqyYWC9Um2ZqU0ZN849H) |
+| <img src="https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db" alt="" width="50" /> | No Hands (feat. Roscoe Dash & Wale)                 | Flockaveli                                          | Waka Flocka Flame, Roscoe Dash, Wale                                     | [Asylum/Warner Records](asylum.md)                                      | 💚   | [🔗](https://open.spotify.com/track/03tqyYWC9Um2ZqU0ZN849H) |

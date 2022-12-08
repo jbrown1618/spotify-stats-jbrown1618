@@ -38,7 +38,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f5af779b97c9e52d74d3743" alt="" width="50" /> | Cassie                                         | [🔗](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf75e64532704bd6acf0b4e76" alt="" width="50" /> | Destiny's Child                                | [🔗](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb02582bb3fa9d68f44a247f39" alt="" width="50" /> | Robin Thicke                                   | [🔗](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2dc40ac263ef07c16a95af4e" alt="" width="50" /> | Pitbull                                        | [🔗](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfc9d2abc85b6f4bef77f80ea" alt="" width="50" /> | Pitbull                                        | [🔗](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7356ae4581e46319f99c813a" alt="" width="50" /> | TLC                                            | [🔗](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) |
 
 </details>

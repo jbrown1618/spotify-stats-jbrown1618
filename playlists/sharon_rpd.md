@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="Sharon RPD" width="100" />
 
-[36 songs](sharon_rpd_tracks.md)
+[37 songs](sharon_rpd_tracks.md)
 
 ## Top Artists
 
@@ -18,7 +18,7 @@
 |   Number of Tracks | Art                                                                                              | Artist                                 | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:------------------------------------------------------------|
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)   | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
-|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)               | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
+|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)               | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5b1a291b0a6a689091d54d8b" alt="" width="50" /> | IVE                                    | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb99b5a1b1b95a279176ded0e1" alt="" width="50" /> | NewJeans                               | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)       | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
@@ -56,7 +56,7 @@
 
 
 <details>
-<summary>See all 33 albums</summary>
+<summary>See all 34 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                            | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------|:-----------------------------------------------------------|
@@ -74,6 +74,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27318a4a215052e9f396864bd73" alt="" width="50" /> | SQUARE TWO                                       | [🔗](https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273decd839dd4fef3faf64c5fd5" alt="" width="50" /> | SEVENTEEN 4th Album 'Face the Sun'               | [🔗](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273830de2e836036f181df598d0" alt="" width="50" /> | Queendom - The 6th Mini Album                    | [🔗](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="" width="50" /> | Proof                                            | [🔗](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c412e430ac07b4bf18b424af" alt="" width="50" /> | Play Game : Holiday                              | [🔗](https://open.spotify.com/album/1FDlvA1PdZujiEhbXihIPJ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27303b313cdf98d61d141645f11" alt="" width="50" /> | One of a Kind                                    | [🔗](https://open.spotify.com/album/2Zuovdo5g1RhfbHniwZ8yI) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | NOEASY                                           | [🔗](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) |
@@ -110,7 +111,7 @@
 |                  6 | [YG Entertainment](../labels/yg_entertainment.md)                     |
 |                  6 | [Interscope](../labels/interscope.md)                                 |
 |                  5 | [SM Entertainment](../labels/sm_entertainment.md)                     |
-|                  4 | [BIGHIT MUSIC](../labels/bighit_music.md)                             |
+|                  5 | [BIGHIT MUSIC](../labels/bighit_music.md)                             |
 |                  3 | [Starship Entertainment](../labels/starship_entertainment.md)         |
 |                  3 | [Republic Records](../labels/republic_records.md)                     |
 |                  2 | [SOURCE MUSIC](../labels/source_music.md)                             |
@@ -142,9 +143,9 @@
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
-|                 25 | [k-pop](../genres/k_pop.md)                       |
+|                 26 | [k-pop](../genres/k_pop.md)                       |
 |                 16 | [k-pop girl group](../genres/k_pop_girl_group.md) |
-|                 11 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
+|                 12 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
 |                  2 | [pop](../genres/pop.md)                           |
 |                  2 | anime                                             |
 |                  1 | [r&b](../genres/r_b.md)                           |
@@ -189,10 +190,10 @@
 | Dope                                              | LOVE DIVE                 |
 | LOCO                                              | Pretty Savage             |
 | MIC Drop (Steve Aoki Remix) - Full Length Edition | HOT                       |
-| GAMBLER                                           | Shut Down                 |
-| Pink Venom                                        | BOSS                      |
-| FEARLESS                                          | Attention                 |
-| Missing You                                       | ASAP                      |
+| Run BTS                                           | Shut Down                 |
+| GAMBLER                                           | BOSS                      |
+| Pink Venom                                        | Attention                 |
+| FEARLESS                                          | ASAP                      |
 
 | 10 most Acoustic tracks     | 10 least Acoustic tracks                          |
 |:----------------------------|:--------------------------------------------------|
@@ -209,10 +210,10 @@
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| FEARLESS                      | ANTIFRAGILE                    |
-| Black Mamba                   | BAD GIRL (Prod. Czaer)         |
-| LALISA                        | ASAP                           |
-| DUMB DUMB                     | Dynamite                       |
+| FEARLESS                      | BAD GIRL (Prod. Czaer)         |
+| Black Mamba                   | ASAP                           |
+| LALISA                        | Dynamite                       |
+| DUMB DUMB                     | Run BTS                        |
 | Pretty Savage                 | Go Big or Go Home              |
 | Ice Cream (with Selena Gomez) | Queendom                       |
 | LOVE DIVE                     | Pink Venom                     |
@@ -222,14 +223,14 @@
 
 | 10 most Live tracks   | 10 least Live tracks          |
 |:----------------------|:------------------------------|
-| Step Back             | Black Mamba                   |
-| Dope                  | Psycho                        |
-| LOCO                  | Attention                     |
-| HOT                   | Blow                          |
-| LOVE DIVE             | Alcohol-Free                  |
-| RUN2U                 | Queendom                      |
-| Hype Boy              | City Girls                    |
-| Go Big or Go Home     | ELEVEN                        |
+| Step Back             | Psycho                        |
+| Dope                  | Attention                     |
+| LOCO                  | Blow                          |
+| HOT                   | Alcohol-Free                  |
+| LOVE DIVE             | Queendom                      |
+| RUN2U                 | City Girls                    |
+| Hype Boy              | ELEVEN                        |
+| Go Big or Go Home     | Run BTS                       |
 | Pink Venom            | Ice Cream (with Selena Gomez) |
 | Thunderous            | Holiday Party                 |
 

@@ -234,7 +234,6 @@
 |                  3 | new americana                                       |
 |                  3 | neo soul                                            |
 |                  3 | merseybeat                                          |
-|                  3 | indie folk                                          |
 |                  3 | folk rock                                           |
 |                  3 | folk                                                |
 |                  3 | british soul                                        |
@@ -251,6 +250,7 @@
 |                  2 | motown                                              |
 |                  2 | modern folk rock                                    |
 |                  2 | [lilith](../genres/lilith.md)                       |
+|                  2 | indie folk                                          |
 |                  2 | country dawn                                        |
 |                  2 | country                                             |
 |                  2 | contemporary country                                |

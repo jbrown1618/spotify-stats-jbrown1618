@@ -229,21 +229,20 @@
 |                  4 | permanent wave                                      |
 |                  4 | lounge                                              |
 |                  4 | glam rock                                           |
-|                  3 | viral pop                                           |
 |                  3 | soul                                                |
+|                  3 | motown                                              |
 |                  3 | folk rock                                           |
 |                  3 | canadian pop                                        |
 |                  3 | australian pop                                      |
+|                  2 | viral pop                                           |
 |                  2 | urban contemporary                                  |
 |                  2 | [r&b](../genres/r_b.md)                             |
 |                  2 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                  2 | pop soul                                            |
-|                  2 | motown                                              |
 |                  2 | modern rock                                         |
 |                  2 | modern alternative rock                             |
 |                  2 | melancholia                                         |
 |                  2 | jazz pop                                            |
-|                  2 | indie folk                                          |
 |                  2 | funk                                                |
 |                  2 | folk                                                |
 |                  2 | easy listening                                      |
@@ -273,6 +272,7 @@
 |                  1 | indie rock                                          |
 |                  1 | indie poptimism                                     |
 |                  1 | indie pop                                           |
+|                  1 | indie folk                                          |
 |                  1 | heartland rock                                      |
 |                  1 | escape room                                         |
 |                  1 | [electropop](../genres/electropop.md)               |

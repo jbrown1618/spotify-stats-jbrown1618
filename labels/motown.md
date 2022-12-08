@@ -63,7 +63,7 @@ Appears as:
 |   Number of Tracks | Genre                                           |
 |-------------------:|:------------------------------------------------|
 |                 13 | soul                                            |
-|                 12 | motown                                          |
+|                 13 | motown                                          |
 |                  9 | funk                                            |
 |                  5 | quiet storm                                     |
 |                  5 | classic soul                                    |

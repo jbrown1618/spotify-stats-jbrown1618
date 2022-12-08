@@ -68,7 +68,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba080432b00135cc19627114d" alt="" width="50" /> | Afgan                              | [🔗](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f501d26b76d8b561608a795" alt="" width="50" /> | Netta                              | [🔗](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4196349398da67ae88d8f47e" alt="" width="50" /> | Ermal Meta                         | [🔗](https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273df7949c0fb4672010aaf9520" alt="" width="50" /> | Nkosazana Daughter                 | [🔗](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebafe6cb3d20fd0ea86be1822a" alt="" width="50" /> | Nkosazana Daughter                 | [🔗](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737c20fb440980c4f2f24346c5" alt="" width="50" /> | David Tao                          | [🔗](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba0e4780f120345edddeaada9" alt="" width="50" /> | Burna Boy                          | [🔗](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) |
 |                  1 | <img src="https://i.scdn.co/image/9d0dec8e40b3e19bb48690caf3d8f9deec7b9ef4" alt="" width="50" /> | Snow                               | [🔗](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) |
@@ -335,6 +335,7 @@
 |                  3 | japanese teen pop                     |
 |                  3 | icelandic pop                         |
 |                  3 | francoton                             |
+|                  3 | c-pop                                 |
 |                  3 | bitpop                                |
 |                  2 | trap latino                           |
 |                  2 | shibuya-kei                           |
@@ -355,7 +356,6 @@
 |                  2 | classic j-pop                         |
 |                  2 | chinese indie                         |
 |                  2 | chinese idol pop                      |
-|                  2 | c-pop                                 |
 |                  2 | belgian pop                           |
 |                  2 | 48g                                   |
 |                  1 | vocaloid                              |

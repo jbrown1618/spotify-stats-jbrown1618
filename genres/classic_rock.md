@@ -1,16 +1,16 @@
 # classic rock
 
-[120 songs](classic_rock_tracks.md)
+[121 songs](classic_rock_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 26 artists](../images/genres/classic_rock/artists.png)
+![Bar chart of top 27 artists](../images/genres/classic_rock/artists.png)
 
 ![Comparison of Artist](../images/genres/classic_rock/artists_comparison.png)
 
 
 <details>
-<summary>See all 26 artists</summary>
+<summary>See all 27 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                                 | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------|:------------------------------------------------------------|
@@ -33,6 +33,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb1f764c8f69b595efe77e1c45" alt="" width="50" /> | Paul Simon                                             | [🔗](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd3cb15a8570cce5a63af63d8" alt="" width="50" /> | The Rolling Stones                                     | [🔗](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb0767e116a2307495e37cd7fb" alt="" width="50" /> | Eagles                                                 | [🔗](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) |
+|                  1 | <img src="https://i.scdn.co/image/ad5dbe5032b439728af9e711e8c0922a3aebcdbb" alt="" width="50" /> | Peter Gabriel                                          | [🔗](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb624ddceb90bdf808ed4e2e35" alt="" width="50" /> | Steve Miller Band                                      | [🔗](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb338d6964565206f741d5ad1" alt="" width="50" /> | Foreigner                                              | [🔗](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1202580c944efb0b9c14dfd0" alt="" width="50" /> | The Black Crowes                                       | [🔗](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) |
@@ -49,7 +50,7 @@
 
 
 <details>
-<summary>See all 77 albums</summary>
+<summary>See all 78 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                              | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------|:-----------------------------------------------------------|
@@ -102,6 +103,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27359f0f56a7cd13526b5b4204c" alt="" width="50" /> | Point Of Know Return (Expanded Edition)            | [🔗](https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dbeec63ad914c973e75c24df" alt="" width="50" /> | Please Please Me (Remastered)                      | [🔗](https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" alt="" width="50" /> | Pieces Of Eight                                    | [🔗](https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fe28f2179e0529ae0520f3bd" alt="" width="50" /> | Peter Gabriel 1: Car (Remastered Version)          | [🔗](https://open.spotify.com/album/4jd6oC0It60c1J3GpXCv6M) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d5fccf9ce08b6a1e7d12a222" alt="" width="50" /> | Paranoid (Remaster)                                | [🔗](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="" width="50" /> | Out Of Our Heads                                   | [🔗](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9" alt="" width="50" /> | My Generation (Stereo Version)                     | [🔗](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) |
@@ -136,11 +138,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 21 record labels](../images/genres/classic_rock/labels.png)
+![Bar chart of top 22 record labels](../images/genres/classic_rock/labels.png)
 
 
 <details>
-<summary>See all 21 labels</summary>
+<summary>See all 22 labels</summary>
 
 |   Number of Tracks | Label                                                                           |
 |-------------------:|:--------------------------------------------------------------------------------|
@@ -162,6 +164,7 @@
 |                  2 | [ABKCO Music and Records](../labels/abkco_music_and_records.md)                 |
 |                  2 | [A&M](../labels/a_m.md)                                                         |
 |                  1 | [Rhino Atlantic](../labels/rhino_atlantic.md)                                   |
+|                  1 | [Real World Productions](../labels/real_world_productions.md)                   |
 |                  1 | [Capitol Records](../labels/capitol_records.md)                                 |
 |                  1 | [CAPITOL CATALOG MKT (C92)](../labels/capitol_catalog_mkt__c92_.md)             |
 |                  1 | [American Recordings Catalog P&D](../labels/american_recordings_catalog_p_d.md) |
@@ -173,7 +176,7 @@
 
 | 10 most Danceable tracks   | 10 least Danceable tracks             |
 |:---------------------------|:--------------------------------------|
-| Another One Bites The Dust | Yesterday - Remastered 2009           |
+| Another One Bites The Dust | Iron Man                              |
 | I Want To Break Free       | Because - Remastered 2009             |
 | Dreams - 2004 Remaster     | Come Sail Away                        |
 | You Can Call Me Al         | Dream On                              |

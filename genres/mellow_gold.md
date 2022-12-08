@@ -1,16 +1,16 @@
 # mellow gold
 
-[69 songs](mellow_gold_tracks.md)
+[70 songs](mellow_gold_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 23 artists](../images/genres/mellow_gold/artists.png)
+![Bar chart of top 24 artists](../images/genres/mellow_gold/artists.png)
 
 ![Comparison of Artist](../images/genres/mellow_gold/artists_comparison.png)
 
 
 <details>
-<summary>See all 23 artists</summary>
+<summary>See all 24 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                                 | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------|:------------------------------------------------------------|
@@ -29,6 +29,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb1f764c8f69b595efe77e1c45" alt="" width="50" /> | Paul Simon                                             | [🔗](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb0767e116a2307495e37cd7fb" alt="" width="50" /> | Eagles                                                 | [🔗](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb13fcd84a9d5590ddec452429" alt="" width="50" /> | Nat King Cole                                          | [🔗](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) |
+|                  1 | <img src="https://i.scdn.co/image/ad5dbe5032b439728af9e711e8c0922a3aebcdbb" alt="" width="50" /> | Peter Gabriel                                          | [🔗](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb21a213a4fe1a6f9b45d3f7f9" alt="" width="50" /> | Commodores                                             | [🔗](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb624ddceb90bdf808ed4e2e35" alt="" width="50" /> | Steve Miller Band                                      | [🔗](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb338d6964565206f741d5ad1" alt="" width="50" /> | Foreigner                                              | [🔗](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) |
@@ -46,7 +47,7 @@
 
 
 <details>
-<summary>See all 52 albums</summary>
+<summary>See all 53 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                          | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------|:-----------------------------------------------------------|
@@ -79,6 +80,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27376448e93fcf0b2298744ba97" alt="" width="50" /> | The Birds, The Bees, & The Monkees             | [🔗](https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27359f0f56a7cd13526b5b4204c" alt="" width="50" /> | Point Of Know Return (Expanded Edition)        | [🔗](https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" alt="" width="50" /> | Pieces Of Eight                                | [🔗](https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fe28f2179e0529ae0520f3bd" alt="" width="50" /> | Peter Gabriel 1: Car (Remastered Version)      | [🔗](https://open.spotify.com/album/4jd6oC0It60c1J3GpXCv6M) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9" alt="" width="50" /> | My Generation (Stereo Version)                 | [🔗](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273360a1ae790aa71a0aac4983e" alt="" width="50" /> | More of The Monkees (Deluxe Edition)           | [🔗](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27369bb57791f9859f2695391f7" alt="" width="50" /> | Moondance (Expanded Edition)                   | [🔗](https://open.spotify.com/album/6yNYC35npMBHbxG0Vle83O) |
@@ -108,11 +110,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 20 record labels](../images/genres/mellow_gold/labels.png)
+![Bar chart of top 21 record labels](../images/genres/mellow_gold/labels.png)
 
 
 <details>
-<summary>See all 20 labels</summary>
+<summary>See all 21 labels</summary>
 
 |   Number of Tracks | Label                                                                           |
 |-------------------:|:--------------------------------------------------------------------------------|
@@ -132,6 +134,7 @@
 |                  2 | [Craft Recordings](../labels/craft_recordings.md)                               |
 |                  2 | [A&M](../labels/a_m.md)                                                         |
 |                  1 | [Rhino Atlantic](../labels/rhino_atlantic.md)                                   |
+|                  1 | [Real World Productions](../labels/real_world_productions.md)                   |
 |                  1 | [MOTOWN](../labels/motown.md)                                                   |
 |                  1 | [Capitol Records](../labels/capitol_records.md)                                 |
 |                  1 | [CAPITOL CATALOG MKT (C92)](../labels/capitol_catalog_mkt__c92_.md)             |
@@ -196,15 +199,15 @@
 
 | 10 most Instrumental tracks                 | 10 least Instrumental tracks            |
 |:--------------------------------------------|:----------------------------------------|
-| Won't Get Fooled Again - Remix              | The Longest Time                        |
-| Baba O'Riley                                | Don't Stop Believin'                    |
-| 25 or 6 to 4                                | Uptown Girl                             |
-| Stayin Alive                                | Daydream Believer                       |
-| My Generation - Stereo Version              | Pinball Wizard                          |
-| Lights                                      | And So It Goes                          |
-| You Can Call Me Al                          | The Sound of Silence - Acoustic Version |
+| Won't Get Fooled Again - Remix              | Pinball Wizard                          |
+| Baba O'Riley                                | The Sound of Silence - Acoustic Version |
+| 25 or 6 to 4                                | Cat's in the Cradle                     |
+| Stayin Alive                                | The Longest Time                        |
+| My Generation - Stereo Version              | Don't Ask Me Why                        |
+| Lights                                      | Only the Good Die Young                 |
+| You Can Call Me Al                          | Uptown Girl                             |
 | Who Are You                                 | We Didn't Start the Fire                |
-| I Feel the Earth Move                       | Don't Ask Me Why                        |
+| I Feel the Earth Move                       | And So It Goes                          |
 | Goodbye Yellow Brick Road - Remastered 2014 | Cold as Ice                             |
 
 | 10 most Live tracks      | 10 least Live tracks             |
@@ -213,12 +216,12 @@
 | Don't Stop Believin'     | Who Are You                      |
 | Carry on Wayward Son     | The Boxer                        |
 | Brown Eyed Girl          | Easy                             |
-| Captain Jack             | Crocodile Rock                   |
-| We Didn't Start the Fire | Movin' Out (Anthony's Song)      |
+| Captain Jack             | Movin' Out (Anthony's Song)      |
+| We Didn't Start the Fire | Crocodile Rock                   |
 | Lights                   | Won't Get Fooled Again - Remix   |
 | New York State of Mind   | Hotel California - 2013 Remaster |
-| Piano Man                | My Life                          |
-| A Matter of Trust        | I Feel the Earth Move            |
+| Solsbury Hill            | My Life                          |
+| Piano Man                | I Feel the Earth Move            |
 
 | 10 most Happy tracks           | 10 least Happy tracks          |
 |:-------------------------------|:-------------------------------|

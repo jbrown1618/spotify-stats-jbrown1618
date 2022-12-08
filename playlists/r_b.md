@@ -70,7 +70,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | Nicki Minaj                            | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7791e2d61372a3c61bfbed85" alt="" width="50" /> | Jenevieve                              | [🔗](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb02582bb3fa9d68f44a247f39" alt="" width="50" /> | Robin Thicke                           | [🔗](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2dc40ac263ef07c16a95af4e" alt="" width="50" /> | Pitbull                                | [🔗](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfc9d2abc85b6f4bef77f80ea" alt="" width="50" /> | Pitbull                                | [🔗](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebedb1ff4a690386ca7bee7007" alt="" width="50" /> | Jacob Banks                            | [🔗](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) |
 
 </details>
@@ -219,16 +219,16 @@
 |   Number of Tracks | Genre                                           |
 |-------------------:|:------------------------------------------------|
 |                 63 | [pop](../genres/pop.md)                         |
-|                 51 | [dance pop](../genres/dance_pop.md)             |
+|                 52 | [dance pop](../genres/dance_pop.md)             |
 |                 34 | [r&b](../genres/r_b.md)                         |
 |                 24 | urban contemporary                              |
 |                 12 | soul                                            |
 |                 12 | neo soul                                        |
 |                 10 | barbadian pop                                   |
 |                 10 | atl hip hop                                     |
+|                  9 | motown                                          |
 |                  9 | funk                                            |
 |                  8 | [post-teen pop](../genres/post_teen_pop.md)     |
-|                  8 | motown                                          |
 |                  6 | pop rap                                         |
 |                  6 | escape room                                     |
 |                  6 | edm                                             |

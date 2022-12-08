@@ -3,20 +3,21 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273068a5559744d17bd5e871740ab67616d0000b273a1113af3a19a41dc8eec534eab67616d0000b273cb81eb3c1238c60f2bbfd3b5ab67616d0000b273ef54c10b95411c51b9ab873b" alt="Jazz" width="100" />
 
-[32 songs](jazz_tracks.md)
+[52 songs](jazz_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 15 artists](../images/playlists/jazz/artists.png)
+![Bar chart of top 16 artists](../images/playlists/jazz/artists.png)
 
 ![Comparison of Artist](../images/playlists/jazz/artists_comparison.png)
 
 
 <details>
-<summary>See all 15 artists</summary>
+<summary>See all 16 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                         | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------|:------------------------------------------------------------|
+|                 20 | <img src="https://i.scdn.co/image/ab6772690000c46c153adede0a024fd3679af738" alt="" width="50" /> | [David Benoit](../artists/david_benoit.md)     | [🔗](https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu) |
 |                 12 | <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | [Michael Bublé](../artists/michael_bubl_.md)   | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
 |                  7 | <img src="https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411" alt="" width="50" /> | Frank Sinatra                                  | [🔗](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) |
 |                  5 | <img src="https://i.scdn.co/image/b4e726a3aadce109069811c4381279daf20c03d8" alt="" width="50" /> | Sophie Milman                                  | [🔗](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) |
@@ -38,14 +39,16 @@
 
 ## Top Albums
 
-![Bar chart of top 24 albums](../images/playlists/jazz/albums.png)
+![Bar chart of top 26 albums](../images/playlists/jazz/albums.png)
 
 
 <details>
-<summary>See all 24 albums</summary>
+<summary>See all 26 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                              | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------|:-----------------------------------------------------------|
+|                 10 | <img src="https://i.scdn.co/image/ab67616d0000b2731c4b46aeb1f53dcffa9b0d96" alt="" width="50" /> | Inner Motion                                                       | [🔗](https://open.spotify.com/album/6azX9ZDZzVLjpQy6ytifne) |
+|                 10 | <img src="https://i.scdn.co/image/ab67616d0000b2737d0ee28b2184f96650755916" alt="" width="50" /> | Freedom At Midnight                                                | [🔗](https://open.spotify.com/album/404TYwH2T33GbA9LdIT9fR) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="" width="50" /> | Call Me Irresponsible                                              | [🔗](https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273dfb2b41e8669c38536b7c3b6" alt="" width="50" /> | Unforgettable: With Love                                           | [🔗](https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273d404febd467623a6f893b177" alt="" width="50" /> | Take Love Easy                                                     | [🔗](https://open.spotify.com/album/0a7Ut6OPSs8SvPDhFXL4ar) |
@@ -76,14 +79,15 @@
 
 ## Top Record Labels
 
-![Bar chart of top 12 record labels](../images/playlists/jazz/labels.png)
+![Bar chart of top 13 record labels](../images/playlists/jazz/labels.png)
 
 
 <details>
-<summary>See all 12 labels</summary>
+<summary>See all 13 labels</summary>
 
 |   Number of Tracks | Label                                                                       |
 |-------------------:|:----------------------------------------------------------------------------|
+|                 20 | [GRP](../labels/grp.md)                                                     |
 |                 12 | [Reprise](../labels/reprise.md)                                             |
 |                 10 | [143](../labels/143.md)                                                     |
 |                  5 | [Linus Entertainment Inc.](../labels/linus_entertainment_inc_.md)           |
@@ -102,16 +106,17 @@
 
 ## Genres
 
-![Bar chart of top 21 genres](../images/playlists/jazz/genres.png)
+![Bar chart of top 22 genres](../images/playlists/jazz/genres.png)
 
 
 <details>
-<summary>See all 21 genres</summary>
+<summary>See all 22 genres</summary>
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
 |                 29 | [adult standards](../genres/adult_standards.md)     |
 |                 27 | lounge                                              |
+|                 20 | smooth jazz                                         |
 |                 12 | jazz pop                                            |
 |                 12 | canadian pop                                        |
 |                  8 | vocal jazz                                          |
@@ -137,93 +142,93 @@
 
 ## Audio Features
 
-| 10 most Danceable tracks            | 10 least Danceable tracks                     |
-|:------------------------------------|:----------------------------------------------|
-| That Man                            | Love Won't Let You Get Away                   |
-| Fake Monologue                      | La Vie En Rose                                |
-| Everything                          | I Can't Make You Love Me                      |
-| Someday (feat. Meghan Trainor)      | La vie en rose (feat. Cécile McLorin Salvant) |
-| Fly Me To The Moon (In Other Words) | Cry Me a River                                |
-| Agua De Beber                       | L-O-V-E - 2000 Remaster                       |
-| The Best Is yet to Come             | Beautiful Love                                |
-| The Way You Look Tonight            | Unforgettable                                 |
-| Call Me Irresponsible               | Strangers In The Night                        |
-| The Way You Look Tonight            | Can't Help Falling in Love                    |
+| 10 most Danceable tracks            | 10 least Danceable tracks   |
+|:------------------------------------|:----------------------------|
+| Freedom At Midnight                 | Beautiful Love              |
+| That Man                            | Del Sasser                  |
+| Houston                             | Deep Light                  |
+| Fake Monologue                      | The Last Goodbye            |
+| Passion Walk                        | Pieces Of Time              |
+| The Man With The Panama Hat         | Kei's Song                  |
+| Everything                          | Unforgettable               |
+| Someday (feat. Meghan Trainor)      | Strangers In The Night      |
+| Fly Me To The Moon (In Other Words) | Can't Help Falling in Love  |
+| Every Corner Of The World           | A Last Request              |
 
-| 10 most Energetic tracks       | 10 least Energetic tracks                     |
-|:-------------------------------|:----------------------------------------------|
-| That Man                       | La vie en rose (feat. Cécile McLorin Salvant) |
-| Agua De Beber                  | Fly Me To The Moon (In Other Words)           |
-| Haven't Met You Yet            | I've Got You Under My Skin - Remastered 1998  |
-| Everything                     | Sunny                                         |
-| Moondance                      | Something In The Air Between Us               |
-| Feeling Good                   | The Way You Look Tonight                      |
-| Someday (feat. Meghan Trainor) | La Vie En Rose                                |
-| Cry Me a River                 | L-O-V-E - 2000 Remaster                       |
-| The Way You Look Tonight       | Fake Monologue                                |
-| Strangers In The Night         | I Can't Make You Love Me                      |
+| 10 most Energetic tracks         | 10 least Energetic tracks   |
+|:---------------------------------|:----------------------------|
+| That Man                         | The Way You Look Tonight    |
+| Agua De Beber                    | La Vie En Rose              |
+| Haven't Met You Yet              | 6-String Poet               |
+| Everything                       | Kei's Song                  |
+| El Camino Real                   | L-O-V-E - 2000 Remaster     |
+| South East Quarter               | Fake Monologue              |
+| Moondance                        | Deep Light                  |
+| M.W.A. (Musicians With Attitude) | I Can't Make You Love Me    |
+| Freedom At Midnight              | The Last Goodbye            |
+| Feeling Good                     | Pieces Of Time              |
 
 | 10 most Speechy tracks              | 10 least Speechy tracks                       |
 |:------------------------------------|:----------------------------------------------|
-| That Man                            | Home                                          |
+| That Man                            | Coconut Roads                                 |
 | L-O-V-E - 2000 Remaster             | Strangers In The Night                        |
 | Moondance                           | Something In The Air Between Us               |
 | That's Life                         | La vie en rose (feat. Cécile McLorin Salvant) |
 | The Best Is yet to Come             | Can't Help Falling in Love                    |
 | Fake Monologue                      | Call Me Irresponsible                         |
 | Love Won't Let You Get Away         | Unforgettable                                 |
-| Fly Me To The Moon (In Other Words) | The Way You Look Tonight                      |
-| L-O-V-E                             | I Can't Make You Love Me                      |
-| Agua De Beber                       | Everything                                    |
+| M.W.A. (Musicians With Attitude)    | The Way You Look Tonight                      |
+| Fly Me To The Moon (In Other Words) | I Can't Make You Love Me                      |
+| L-O-V-E                             | Everything                                    |
 
-| 10 most Acoustic tracks            | 10 least Acoustic tracks                     |
-|:-----------------------------------|:---------------------------------------------|
-| I Can't Make You Love Me           | L-O-V-E                                      |
-| Something In The Air Between Us    | Feeling Good                                 |
-| Beautiful Love                     | Sunny                                        |
-| Home                               | Fly Me To The Moon (In Other Words)          |
-| Unforgettable                      | I've Got You Under My Skin - Remastered 1998 |
-| I Can't Make You Love Me           | Everything                                   |
-| Come Fly With Me - Remastered 1998 | The Best Is yet to Come                      |
-| Fake Monologue                     | Agua De Beber                                |
-| Love Won't Let You Get Away        | Someday (feat. Meghan Trainor)               |
-| La Vie En Rose                     | Haven't Met You Yet                          |
+| 10 most Acoustic tracks            | 10 least Acoustic tracks         |
+|:-----------------------------------|:---------------------------------|
+| I Can't Make You Love Me           | M.W.A. (Musicians With Attitude) |
+| The Last Goodbye                   | Someday (feat. Meghan Trainor)   |
+| Something In The Air Between Us    | Houston                          |
+| Beautiful Love                     | Along The Milky Way              |
+| Home                               | Haven't Met You Yet              |
+| Pieces Of Time                     | Coconut Roads                    |
+| Unforgettable                      | The Man With The Panama Hat      |
+| Deep Light                         | El Camino Real                   |
+| I Can't Make You Love Me           | Freedom At Midnight              |
+| Come Fly With Me - Remastered 1998 | Del Sasser                       |
 
-| 10 most Instrumental tracks     | 10 least Instrumental tracks                  |
-|:--------------------------------|:----------------------------------------------|
-| Fake Monologue                  | Love Won't Let You Get Away                   |
-| Can't Help Falling in Love      | L-O-V-E                                       |
-| I Can't Make You Love Me        | La vie en rose (feat. Cécile McLorin Salvant) |
-| That Man                        | La Vie En Rose                                |
-| Agua De Beber                   | Someday (feat. Meghan Trainor)                |
-| The Way You Look Tonight        | Sunny                                         |
-| Unforgettable                   | The Way You Look Tonight                      |
-| I Can't Make You Love Me        | L-O-V-E - 2000 Remaster                       |
-| Call Me Irresponsible           | Haven't Met You Yet                           |
-| Something In The Air Between Us | That's Life                                   |
+| 10 most Instrumental tracks      | 10 least Instrumental tracks                  |
+|:---------------------------------|:----------------------------------------------|
+| Deep Light                       | La Vie En Rose                                |
+| Freedom At Midnight              | La vie en rose (feat. Cécile McLorin Salvant) |
+| Fake Monologue                   | That's Life                                   |
+| The Last Goodbye                 | L-O-V-E                                       |
+| 6-String Poet                    | Love Won't Let You Get Away                   |
+| M.W.A. (Musicians With Attitude) | Come Fly With Me - Remastered 1998            |
+| A Last Request                   | Moondance                                     |
+| Houston                          | Strangers In The Night                        |
+| South East Quarter               | Fly Me To The Moon (In Other Words)           |
+| Coconut Roads                    | Sunny                                         |
 
-| 10 most Live tracks                | 10 least Live tracks                |
-|:-----------------------------------|:------------------------------------|
-| Moondance                          | Something In The Air Between Us     |
-| Sunny                              | Everything                          |
-| That's Life                        | Can't Help Falling in Love          |
-| The Best Is yet to Come            | That Man                            |
-| The Way You Look Tonight           | Unforgettable                       |
-| I Can't Make You Love Me           | L-O-V-E - 2000 Remaster             |
-| Strangers In The Night             | Agua De Beber                       |
-| Come Fly With Me - Remastered 1998 | Cry Me a River                      |
-| La Vie En Rose                     | Someday (feat. Meghan Trainor)      |
-| The Way You Look Tonight           | Fly Me To The Moon (In Other Words) |
+| 10 most Live tracks              | 10 least Live tracks                |
+|:---------------------------------|:------------------------------------|
+| Moondance                        | Cry Me a River                      |
+| Sunny                            | Someday (feat. Meghan Trainor)      |
+| That's Life                      | El Camino Real                      |
+| The Best Is yet to Come          | Along The Milky Way                 |
+| South East Quarter               | Fly Me To The Moon (In Other Words) |
+| The Way You Look Tonight         | Passion Walk                        |
+| I Can't Make You Love Me         | The Man With The Panama Hat         |
+| M.W.A. (Musicians With Attitude) | Every Corner Of The World           |
+| Houston                          | Coconut Roads                       |
+| Strangers In The Night           | Freedom At Midnight                 |
 
-| 10 most Happy tracks                         | 10 least Happy tracks           |
-|:---------------------------------------------|:--------------------------------|
-| Someday (feat. Meghan Trainor)               | Beautiful Love                  |
-| That Man                                     | Love Won't Let You Get Away     |
-| Haven't Met You Yet                          | Sunny                           |
-| L-O-V-E - 2000 Remaster                      | Breakfast on the Morning Tram   |
-| Fake Monologue                               | I Can't Make You Love Me        |
-| Agua De Beber                                | Something In The Air Between Us |
-| That's Life                                  | La Vie En Rose                  |
-| I've Got You Under My Skin - Remastered 1998 | Unforgettable                   |
-| L-O-V-E                                      | I Can't Make You Love Me        |
-| The Way You Look Tonight                     | Can't Help Falling in Love      |
+| 10 most Happy tracks           | 10 least Happy tracks           |
+|:-------------------------------|:--------------------------------|
+| Someday (feat. Meghan Trainor) | Something In The Air Between Us |
+| That Man                       | La Vie En Rose                  |
+| Haven't Met You Yet            | 6-String Poet                   |
+| Freedom At Midnight            | A Last Request                  |
+| L-O-V-E - 2000 Remaster        | Unforgettable                   |
+| The Man With The Panama Hat    | I Can't Make You Love Me        |
+| Fake Monologue                 | Can't Help Falling in Love      |
+| Agua De Beber                  | Pieces Of Time                  |
+| Del Sasser                     | The Last Goodbye                |
+| Passion Walk                   | Deep Light                      |

@@ -1,9 +1,9 @@
 # Taylor Swift
 
-32 songs
+33 songs
 
 Appears as:
-- Taylor Swift (32 tracks)
+- Taylor Swift (33 tracks)
 
 ## Top Artists
 
@@ -15,7 +15,7 @@ Appears as:
 
 |   Number of Tracks | Art                                                                                              | Artist                                     | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------|:------------------------------------------------------------|
-|                 32 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | [Taylor Swift](../artists/taylor_swift.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
+|                 33 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | [Taylor Swift](../artists/taylor_swift.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba688abfbbed1037befa47232" alt="" width="50" /> | HAIM                                       | [🔗](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb67be065df01f37a3880216be" alt="" width="50" /> | Bon Iver                                   | [🔗](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5903678d3db18e271e42be0" alt="" width="50" /> | [Lana Del Rey](../artists/lana_del_rey.md) | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
@@ -36,7 +36,7 @@ Appears as:
 |                 11 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Midnights                   | [🔗](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) |
 |                 10 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | folklore                    | [🔗](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) |
 |                  8 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Lover                       | [🔗](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be" alt="" width="50" /> | evermore                    | [🔗](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be" alt="" width="50" /> | evermore                    | [🔗](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a48964b5d9a3d6968ae3e0de" alt="" width="50" /> | Fearless (Taylor's Version) | [🔗](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) |
 
 </details>
@@ -52,7 +52,7 @@ Appears as:
 
 |   Number of Tracks | Genre                   |
 |-------------------:|:------------------------|
-|                 32 | [pop](../genres/pop.md) |
+|                 33 | [pop](../genres/pop.md) |
 
 </details>
 
@@ -80,6 +80,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | the 1                                  | folklore                    | [Taylor Swift](../artists/taylor_swift.md)                                             | [Taylor Swift](taylor_swift.md) | 💚   | [🔗](https://open.spotify.com/track/0Jlcvv8IykzHaSmj49uNW8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | the last great american dynasty        | folklore                    | [Taylor Swift](../artists/taylor_swift.md)                                             | [Taylor Swift](taylor_swift.md) | 💚   | [🔗](https://open.spotify.com/track/2Eeur20xVqfUoM3Q7EFPFt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be" alt="" width="50" /> | no body, no crime (feat. HAIM)         | evermore                    | [Taylor Swift](../artists/taylor_swift.md), HAIM                                       | [Taylor Swift](taylor_swift.md) |     | [🔗](https://open.spotify.com/track/3RaT22zZsxVYxxKR7TAaYF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be" alt="" width="50" /> | tolerate it                            | evermore                    | [Taylor Swift](../artists/taylor_swift.md)                                             | [Taylor Swift](taylor_swift.md) |     | [🔗](https://open.spotify.com/track/0PurA4JVJ8YQgSVopY8fn6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be" alt="" width="50" /> | willow                                 | evermore                    | [Taylor Swift](../artists/taylor_swift.md)                                             | [Taylor Swift](taylor_swift.md) | 💚   | [🔗](https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a48964b5d9a3d6968ae3e0de" alt="" width="50" /> | Forever & Always (Taylor’s Version)    | Fearless (Taylor's Version) | [Taylor Swift](../artists/taylor_swift.md)                                             | [Taylor Swift](taylor_swift.md) |     | [🔗](https://open.spotify.com/track/1msEuwSBneBKpVCZQcFTsU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Anti-Hero                              | Midnights                   | [Taylor Swift](../artists/taylor_swift.md)                                             | [Taylor Swift](taylor_swift.md) | 💚   | [🔗](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) |

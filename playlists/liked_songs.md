@@ -357,9 +357,9 @@
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
 |                574 | [k-pop](../genres/k_pop.md)                         |
-|                360 | [pop](../genres/pop.md)                             |
+|                361 | [pop](../genres/pop.md)                             |
 |                285 | [k-pop girl group](../genres/k_pop_girl_group.md)   |
-|                159 | [dance pop](../genres/dance_pop.md)                 |
+|                161 | [dance pop](../genres/dance_pop.md)                 |
 |                150 | [k-pop boy group](../genres/k_pop_boy_group.md)     |
 |                 99 | [rock](../genres/rock.md)                           |
 |                 78 | [classic rock](../genres/classic_rock.md)           |
@@ -367,7 +367,7 @@
 |                 58 | [neo mellow](../genres/neo_mellow.md)               |
 |                 57 | [acoustic pop](../genres/acoustic_pop.md)           |
 |                 55 | [pop rock](../genres/pop_rock.md)                   |
-|                 51 | [post-teen pop](../genres/post_teen_pop.md)         |
+|                 47 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                 44 | [hollywood](../genres/hollywood.md)                 |
 |                 42 | [mellow gold](../genres/mellow_gold.md)             |
 |                 33 | [singer-songwriter](../genres/singer_songwriter.md) |
@@ -414,7 +414,7 @@
 |                 11 | indie rock                                          |
 |                 10 | alternative rock                                    |
 |                  9 | oxford indie                                        |
-|                  8 | viral pop                                           |
+|                  9 | anti-folk                                           |
 |                  8 | tropical house                                      |
 |                  8 | lounge                                              |
 |                  8 | latin pop                                           |
@@ -424,7 +424,9 @@
 |                  8 | blues rock                                          |
 |                  8 | bergen indie                                        |
 |                  8 | australian dance                                    |
+|                  7 | viral pop                                           |
 |                  7 | pop dance                                           |
+|                  7 | motown                                              |
 |                  7 | kawaii metal                                        |
 |                  7 | j-pop                                               |
 |                  7 | j-metal                                             |
@@ -440,7 +442,6 @@
 |                  7 | alternative r&b                                     |
 |                  6 | stomp and holler                                    |
 |                  6 | pop soul                                            |
-|                  6 | motown                                              |
 |                  6 | modern alternative rock                             |
 |                  6 | la indie                                            |
 |                  6 | hip pop                                             |
@@ -450,7 +451,6 @@
 |                  5 | uk dance                                            |
 |                  5 | jazz pop                                            |
 |                  5 | funk                                                |
-|                  5 | anti-folk                                           |
 |                  5 | afrofuturism                                        |
 |                  4 | yacht rock                                          |
 |                  4 | vocal jazz                                          |
