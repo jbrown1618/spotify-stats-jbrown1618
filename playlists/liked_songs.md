@@ -357,9 +357,9 @@
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
 |                574 | [k-pop](../genres/k_pop.md)                         |
-|                361 | [pop](../genres/pop.md)                             |
+|                360 | [pop](../genres/pop.md)                             |
 |                285 | [k-pop girl group](../genres/k_pop_girl_group.md)   |
-|                161 | [dance pop](../genres/dance_pop.md)                 |
+|                159 | [dance pop](../genres/dance_pop.md)                 |
 |                150 | [k-pop boy group](../genres/k_pop_boy_group.md)     |
 |                 99 | [rock](../genres/rock.md)                           |
 |                 78 | [classic rock](../genres/classic_rock.md)           |
@@ -367,15 +367,15 @@
 |                 58 | [neo mellow](../genres/neo_mellow.md)               |
 |                 57 | [acoustic pop](../genres/acoustic_pop.md)           |
 |                 55 | [pop rock](../genres/pop_rock.md)                   |
-|                 47 | [post-teen pop](../genres/post_teen_pop.md)         |
+|                 51 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                 44 | [hollywood](../genres/hollywood.md)                 |
 |                 42 | [mellow gold](../genres/mellow_gold.md)             |
-|                 33 | [singer-songwriter](../genres/singer_songwriter.md) |
+|                 33 | [electropop](../genres/electropop.md)               |
 |                 32 | [soft rock](../genres/soft_rock.md)                 |
-|                 32 | [electropop](../genres/electropop.md)               |
 |                 30 | [psychedelic rock](../genres/psychedelic_rock.md)   |
 |                 30 | british invasion                                    |
 |                 30 | [art pop](../genres/art_pop.md)                     |
+|                 29 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                 26 | [r&b](../genres/r_b.md)                             |
 |                 25 | piano rock                                          |
 |                 23 | korean pop                                          |
@@ -426,10 +426,10 @@
 |                  8 | australian dance                                    |
 |                  7 | viral pop                                           |
 |                  7 | pop dance                                           |
-|                  7 | motown                                              |
 |                  7 | kawaii metal                                        |
 |                  7 | j-pop                                               |
 |                  7 | j-metal                                             |
+|                  7 | indie r&b                                           |
 |                  7 | idol rock                                           |
 |                  7 | escape room                                         |
 |                  7 | country dawn                                        |
@@ -442,20 +442,20 @@
 |                  7 | alternative r&b                                     |
 |                  6 | stomp and holler                                    |
 |                  6 | pop soul                                            |
+|                  6 | motown                                              |
 |                  6 | modern alternative rock                             |
 |                  6 | la indie                                            |
 |                  6 | hip pop                                             |
+|                  6 | funk                                                |
 |                  6 | filter house                                        |
 |                  6 | electro                                             |
 |                  5 | uk funky                                            |
 |                  5 | uk dance                                            |
 |                  5 | jazz pop                                            |
-|                  5 | funk                                                |
 |                  5 | afrofuturism                                        |
 |                  4 | yacht rock                                          |
 |                  4 | vocal jazz                                          |
 |                  4 | new wave pop                                        |
-|                  4 | korean old school hip hop                           |
 
 </details>
 

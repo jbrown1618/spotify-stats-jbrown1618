@@ -63,8 +63,8 @@ Appears as:
 |   Number of Tracks | Genre                                           |
 |-------------------:|:------------------------------------------------|
 |                 13 | soul                                            |
-|                 13 | motown                                          |
-|                  9 | funk                                            |
+|                 12 | motown                                          |
+|                 10 | funk                                            |
 |                  5 | quiet storm                                     |
 |                  5 | classic soul                                    |
 |                  5 | brill building pop                              |

@@ -289,7 +289,7 @@
 
 
 <details>
-<summary>See all 35 genres</summary>
+<summary>See all 36 genres</summary>
 
 |   Number of Tracks | Genre                                                 |
 |-------------------:|:------------------------------------------------------|
@@ -320,6 +320,7 @@
 |                  1 | renaissance                                           |
 |                  1 | piano rock                                            |
 |                  1 | permanent wave                                        |
+|                  1 | indie r&b                                             |
 |                  1 | franco-flemish school                                 |
 |                  1 | folk rock                                             |
 |                  1 | folk                                                  |

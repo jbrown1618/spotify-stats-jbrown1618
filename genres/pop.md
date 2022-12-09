@@ -1,6 +1,6 @@
 # pop
 
-[511 songs](pop_tracks.md)
+[510 songs](pop_tracks.md)
 
 ## Top Artists
 
@@ -65,7 +65,6 @@
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb43d9d87bba466538f5c40901" alt="" width="50" /> | The Chicks                                                     | [🔗](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebee954a3b5418065c2fe253fb" alt="" width="50" /> | Olivia Rodrigo                                                 | [🔗](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd66f1e0c883f319443d68c45" alt="" width="50" /> | Lil Nas X                                                      | [🔗](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb8e9d1c8642df6f869631fe62" alt="" width="50" /> | Crush                                                          | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e2e2c78de847c4d9b12d32f" alt="" width="50" /> | Charlie Puth                                                   | [🔗](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | Iggy Azalea                                                    | [🔗](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | B.o.B                                                          | [🔗](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) |
@@ -108,6 +107,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375" alt="" width="50" /> | Hatsune Miku                                                   | [🔗](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe32a61d17ecbe732a99d6d92" alt="" width="50" /> | 24kGoldn                                                       | [🔗](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9bc0756eb16b241111bbc72b" alt="" width="50" /> | Colbie Caillat                                                 | [🔗](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8e9d1c8642df6f869631fe62" alt="" width="50" /> | Crush                                                          | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bda4d7a1c3b8159f28f9d08" alt="" width="50" /> | Sheppard                                                       | [🔗](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1fd54eb6e30d0bc8f633621e" alt="" width="50" /> | Machine Gun Kelly                                              | [🔗](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c" alt="" width="50" /> | Amy Winehouse                                                  | [🔗](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) |
@@ -300,7 +300,6 @@
 |                  2 | [Arista](../labels/arista.md)                                                                                       |
 |                  2 | [ATG](../labels/atg.md)                                                                                             |
 |                  2 | [A Star is Born OST](../labels/a_star_is_born_ost.md)                                                               |
-|                  1 | [피네이션](../labels/____.md)                                                                                           |
 |                  1 | [under exclusive license to Interscope Records](../labels/under_exclusive_license_to_interscope_records.md)         |
 |                  1 | [msmedia](../labels/msmedia.md)                                                                                     |
 |                  1 | [Warner Bros.](../labels/warner_bros_.md)                                                                           |
@@ -341,6 +340,7 @@
 |                  1 | [Disruptor Records](../labels/disruptor_records.md)                                                                 |
 |                  1 | [Def Soul](../labels/def_soul.md)                                                                                   |
 |                  1 | [Def Jam](../labels/def_jam.md)                                                                                     |
+|                  1 | [Decca (UMO)](../labels/decca__umo_.md)                                                                             |
 
 </details>
 
@@ -353,8 +353,8 @@
 | Anaconda                        | La Vie En Rose              |
 | WAP (feat. Megan Thee Stallion) | Once Upon Another Time      |
 | Billie Jean                     | Gravity                     |
-| Pretty Please                   | Stay                        |
-| bury a friend                   | Shades Of Cool              |
+| Pretty Please                   | Shades Of Cool              |
+| bury a friend                   | Stay                        |
 | Sally Walker                    | Norman fucking Rockwell     |
 | 1, 2, 3, 4                      | Already Gone                |
 | Coño                            | Fix You                     |
@@ -376,13 +376,13 @@
 | 10 most Speechy tracks          | 10 least Speechy tracks        |
 |:--------------------------------|:-------------------------------|
 | Youngblood                      | Travelin' Soldier              |
-| boyfriend (with Social House)   | no body, no crime (feat. HAIM) |
-| Hold Up                         | She's In The Rain              |
+| boyfriend (with Social House)   | She's In The Rain              |
+| Hold Up                         | no body, no crime (feat. HAIM) |
 | Vigilante Shit                  | Begin Again                    |
 | Irreplaceable                   | Chasing Pavements              |
 | WAP (feat. Megan Thee Stallion) | Set Fire to the Rain           |
-| bad guy                         | All Too Well                   |
-| Bubblegum (feat. Tyga)          | The Scientist                  |
+| bad guy                         | The Scientist                  |
+| Bubblegum (feat. Tyga)          | All Too Well                   |
 | 7 rings                         | Breakeven                      |
 | bury a friend                   | Satellite Call                 |
 
@@ -401,15 +401,15 @@
 
 | 10 most Instrumental tracks     | 10 least Instrumental tracks    |
 |:--------------------------------|:--------------------------------|
-| everything i wanted             | Closer                          |
-| Labyrinth                       | Paparazzi                       |
-| Smooth Criminal - 2012 Remaster | Til It Happens To You           |
-| Swan Song                       | Rain On Me (with Ariana Grande) |
-| Wanna Be Startin' Somethin'     | La Vie En Rose                  |
-| you should see me in a crown    | Yoü And I                       |
-| bury a friend                   | Million Reasons                 |
-| Therefore I Am                  | Before He Cheats                |
-| bad guy                         | Blown Away                      |
+| everything i wanted             | Summertime Sadness              |
+| Labyrinth                       | Eye of the Needle               |
+| Smooth Criminal - 2012 Remaster | In the Name of Love             |
+| Swan Song                       | Sucker                          |
+| Wanna Be Startin' Somethin'     | Cry for Me                      |
+| you should see me in a crown    | Living Proof                    |
+| bury a friend                   | Please Me                       |
+| Therefore I Am                  | WAP (feat. Megan Thee Stallion) |
+| bad guy                         | F**kin' Perfect                 |
 | This Is What You Came For       | Say You're Sorry                |
 
 | 10 most Live tracks                                                               | 10 least Live tracks             |

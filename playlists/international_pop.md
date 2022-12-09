@@ -335,7 +335,6 @@
 |                  3 | japanese teen pop                     |
 |                  3 | icelandic pop                         |
 |                  3 | francoton                             |
-|                  3 | c-pop                                 |
 |                  3 | bitpop                                |
 |                  2 | trap latino                           |
 |                  2 | shibuya-kei                           |
@@ -356,6 +355,7 @@
 |                  2 | classic j-pop                         |
 |                  2 | chinese indie                         |
 |                  2 | chinese idol pop                      |
+|                  2 | c-pop                                 |
 |                  2 | belgian pop                           |
 |                  2 | 48g                                   |
 |                  1 | vocaloid                              |

@@ -137,9 +137,9 @@
 |                224 | [classical](../genres/classical.md)                     |
 |                217 | [classical era](../genres/classical_era.md)             |
 |                  3 | [late romantic era](../genres/late_romantic_era.md)     |
-|                  3 | [early music](../genres/early_music.md)                 |
 |                  2 | norwegian classical                                     |
 |                  2 | [german baroque](../genres/german_baroque.md)           |
+|                  2 | [early music](../genres/early_music.md)                 |
 |                  2 | [baroque](../genres/baroque.md)                         |
 |                  1 | [russian romanticism](../genres/russian_romanticism.md) |
 |                  1 | [post-romantic era](../genres/post_romantic_era.md)     |

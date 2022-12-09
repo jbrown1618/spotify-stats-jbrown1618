@@ -138,7 +138,7 @@
 
 
 <details>
-<summary>See all 58 genres</summary>
+<summary>See all 59 genres</summary>
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
@@ -180,6 +180,7 @@
 |                  1 | [pop rock](../genres/pop_rock.md)                 |
 |                  1 | pop dance                                         |
 |                  1 | oxford indie                                      |
+|                  1 | new wave pop                                      |
 |                  1 | new wave                                          |
 |                  1 | modern rock                                       |
 |                  1 | [mellow gold](../genres/mellow_gold.md)           |

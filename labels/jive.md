@@ -60,9 +60,9 @@ Appears as:
 |   Number of Tracks | Genre                                       |
 |-------------------:|:--------------------------------------------|
 |                 15 | [dance pop](../genres/dance_pop.md)         |
+|                 10 | [post-teen pop](../genres/post_teen_pop.md) |
 |                  9 | [pop](../genres/pop.md)                     |
 |                  6 | boy band                                    |
-|                  3 | [post-teen pop](../genres/post_teen_pop.md) |
 |                  1 | urban contemporary                          |
 |                  1 | [r&b](../genres/r_b.md)                     |
 |                  1 | hip hop                                     |

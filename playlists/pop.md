@@ -360,9 +360,9 @@
 |   Number of Tracks | Genre                                           |
 |-------------------:|:------------------------------------------------|
 |                300 | [pop](../genres/pop.md)                         |
-|                190 | [dance pop](../genres/dance_pop.md)             |
-|                 54 | [post-teen pop](../genres/post_teen_pop.md)     |
-|                 27 | [electropop](../genres/electropop.md)           |
+|                188 | [dance pop](../genres/dance_pop.md)             |
+|                 62 | [post-teen pop](../genres/post_teen_pop.md)     |
+|                 28 | [electropop](../genres/electropop.md)           |
 |                 25 | uk pop                                          |
 |                 25 | edm                                             |
 |                 25 | [art pop](../genres/art_pop.md)                 |
