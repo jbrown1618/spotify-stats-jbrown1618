@@ -214,7 +214,7 @@
 
 
 <details>
-<summary>See all 51 genres</summary>
+<summary>See all 50 genres</summary>
 
 |   Number of Tracks | Genre                                           |
 |-------------------:|:------------------------------------------------|
@@ -237,7 +237,6 @@
 |                  5 | quiet storm                                     |
 |                  5 | [electropop](../genres/electropop.md)           |
 |                  5 | contemporary r&b                                |
-|                  5 | brill building pop                              |
 |                  5 | afrofuturism                                    |
 |                  4 | south carolina hip hop                          |
 |                  4 | pop soul                                        |

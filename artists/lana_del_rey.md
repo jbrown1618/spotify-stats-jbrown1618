@@ -2,7 +2,7 @@
 # Lana Del Rey
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5ebc5903678d3db18e271e42be0" alt="Lana Del Rey" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="Lana Del Rey" width="100" />
 
 ## Featured on Playlists
 |   Number of Tracks | Art                                                                                                                                                                                                                         | Playlist                                               |

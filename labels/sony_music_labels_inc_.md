@@ -59,11 +59,11 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 23 genres](../images/labels/sony_music_labels_inc_/genres.png)
+![Bar chart of top 22 genres](../images/labels/sony_music_labels_inc_/genres.png)
 
 
 <details>
-<summary>See all 23 genres</summary>
+<summary>See all 22 genres</summary>
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
@@ -87,7 +87,6 @@ Appears as:
 |                  1 | [classical](../genres/classical.md)               |
 |                  1 | classic j-pop                                     |
 |                  1 | [broadway](../genres/broadway.md)                 |
-|                  1 | brill building pop                                |
 |                  1 | baroque pop                                       |
 |                  1 | anime rock                                        |
 

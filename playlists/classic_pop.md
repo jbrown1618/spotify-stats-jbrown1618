@@ -161,8 +161,7 @@
 |                 17 | [mellow gold](../genres/mellow_gold.md)             |
 |                 12 | [pop](../genres/pop.md)                             |
 |                 12 | motown                                              |
-|                 10 | funk                                                |
-|                 10 | brill building pop                                  |
+|                  9 | funk                                                |
 |                  9 | [adult standards](../genres/adult_standards.md)     |
 |                  8 | [r&b](../genres/r_b.md)                             |
 |                  8 | folk rock                                           |
@@ -178,9 +177,9 @@
 |                  5 | memphis soul                                        |
 |                  5 | melancholia                                         |
 |                  4 | new wave pop                                        |
-|                  4 | disco                                               |
 |                  3 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  3 | outlaw country                                      |
+|                  3 | disco                                               |
 |                  3 | bubblegum pop                                       |
 |                  3 | arkansas country                                    |
 |                  1 | sunshine pop                                        |
@@ -197,6 +196,7 @@
 |                  1 | doo-wop                                             |
 |                  1 | country rock                                        |
 |                  1 | classic canadian rock                               |
+|                  1 | brill building pop                                  |
 
 </details>
 

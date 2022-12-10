@@ -211,7 +211,7 @@
 
 
 <details>
-<summary>See all 90 genres</summary>
+<summary>See all 89 genres</summary>
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
@@ -238,7 +238,6 @@
 |                  3 | folk                                                |
 |                  3 | british soul                                        |
 |                  3 | british invasion                                    |
-|                  3 | brill building pop                                  |
 |                  3 | beatlesque                                          |
 |                  3 | atl hip hop                                         |
 |                  2 | uk pop                                              |
@@ -251,7 +250,6 @@
 |                  2 | modern folk rock                                    |
 |                  2 | [lilith](../genres/lilith.md)                       |
 |                  2 | indie folk                                          |
-|                  2 | funk                                                |
 |                  2 | country dawn                                        |
 |                  2 | country                                             |
 |                  2 | contemporary country                                |
@@ -285,6 +283,7 @@
 |                  1 | hip hop                                             |
 |                  1 | heartland rock                                      |
 |                  1 | girl group                                          |
+|                  1 | funk                                                |
 |                  1 | europop                                             |
 |                  1 | [electropop](../genres/electropop.md)               |
 |                  1 | easy listening                                      |

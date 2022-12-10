@@ -77,7 +77,7 @@ Appears as:
 |                 84 | [classical](../genres/classical.md)                     |
 |                 58 | [late romantic era](../genres/late_romantic_era.md)     |
 |                 56 | [russian romanticism](../genres/russian_romanticism.md) |
-|                 18 | [early music](../genres/early_music.md)                 |
+|                 19 | [early music](../genres/early_music.md)                 |
 |                 18 | [baroque](../genres/baroque.md)                         |
 |                 16 | italian baroque                                         |
 |                  6 | [classical era](../genres/classical_era.md)             |

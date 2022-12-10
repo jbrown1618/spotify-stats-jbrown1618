@@ -170,7 +170,7 @@
 
 
 <details>
-<summary>See all 51 genres</summary>
+<summary>See all 50 genres</summary>
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
@@ -212,7 +212,6 @@
 |                  2 | funk rock                                           |
 |                  2 | funk                                                |
 |                  2 | bubblegum pop                                       |
-|                  2 | brill building pop                                  |
 |                  2 | birmingham metal                                    |
 |                  2 | atlanta metal                                       |
 |                  2 | alternative metal                                   |

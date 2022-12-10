@@ -17,7 +17,7 @@
 
 |   Number of Tracks | Art                                                                                              | Artist                                                         | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------|:------------------------------------------------------------|
-|                 17 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5903678d3db18e271e42be0" alt="" width="50" /> | [Lana Del Rey](../artists/lana_del_rey.md)                     | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
+|                 17 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | [Lana Del Rey](../artists/lana_del_rey.md)                     | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
 |                 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | [Florence + The Machine](../artists/florence___the_machine.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
 |                 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb5e92b1ddbbbc66454d44a2c4" alt="" width="50" /> | [Kimbra](../artists/kimbra.md)                                 | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 |                 10 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../artists/radiohead.md)                           | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
@@ -300,8 +300,8 @@
 |                 24 | indie pop                                           |
 |                 22 | [rock](../genres/rock.md)                           |
 |                 19 | modern rock                                         |
+|                 18 | [lilith](../genres/lilith.md)                       |
 |                 18 | [dance pop](../genres/dance_pop.md)                 |
-|                 17 | [lilith](../genres/lilith.md)                       |
 |                 17 | baroque pop                                         |
 |                 17 | [art pop](../genres/art_pop.md)                     |
 |                 16 | uk alternative pop                                  |
@@ -322,6 +322,7 @@
 |                  8 | nyc pop                                             |
 |                  8 | australian dance                                    |
 |                  7 | [post-teen pop](../genres/post_teen_pop.md)         |
+|                  6 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  6 | [neo mellow](../genres/neo_mellow.md)               |
 |                  6 | la indie                                            |
 |                  5 | uk funky                                            |
@@ -347,7 +348,6 @@
 |                  3 | candy pop                                           |
 |                  3 | [acoustic pop](../genres/acoustic_pop.md)           |
 |                  2 | washington indie                                    |
-|                  2 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  2 | shiver pop                                          |
 |                  2 | pop punk                                            |
 |                  2 | pop emo                                             |

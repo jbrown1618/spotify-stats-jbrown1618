@@ -375,11 +375,11 @@
 |                 11 | [neo mellow](../genres/neo_mellow.md)           |
 |                 11 | british soul                                    |
 |                 11 | australian pop                                  |
+|                 10 | viral pop                                       |
 |                 10 | pop soul                                        |
 |                 10 | canadian pop                                    |
 |                 10 | barbadian pop                                   |
 |                 10 | [acoustic pop](../genres/acoustic_pop.md)       |
-|                  9 | viral pop                                       |
 |                  9 | pop dance                                       |
 |                  8 | uk dance                                        |
 |                  8 | tropical house                                  |

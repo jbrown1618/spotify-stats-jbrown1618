@@ -45,11 +45,11 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 12 genres](../images/labels/sony_classical/genres.png)
+![Bar chart of top 11 genres](../images/labels/sony_classical/genres.png)
 
 
 <details>
-<summary>See all 12 genres</summary>
+<summary>See all 11 genres</summary>
 
 |   Number of Tracks | Genre                                         |
 |-------------------:|:----------------------------------------------|
@@ -63,7 +63,6 @@ Appears as:
 |                  1 | renaissance                                   |
 |                  1 | franco-flemish school                         |
 |                  1 | [broadway](../genres/broadway.md)             |
-|                  1 | brill building pop                            |
 |                  1 | baroque pop                                   |
 
 </details>
