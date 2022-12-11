@@ -226,15 +226,15 @@
 |                 12 | neo soul                                        |
 |                 10 | barbadian pop                                   |
 |                 10 | atl hip hop                                     |
-|                  9 | funk                                            |
+|                  9 | motown                                          |
 |                  8 | [post-teen pop](../genres/post_teen_pop.md)     |
-|                  8 | motown                                          |
 |                  6 | pop rap                                         |
 |                  6 | escape room                                     |
 |                  6 | edm                                             |
 |                  6 | alternative r&b                                 |
 |                  6 | [adult standards](../genres/adult_standards.md) |
 |                  5 | quiet storm                                     |
+|                  5 | funk                                            |
 |                  5 | [electropop](../genres/electropop.md)           |
 |                  5 | contemporary r&b                                |
 |                  5 | afrofuturism                                    |

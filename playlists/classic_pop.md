@@ -159,9 +159,8 @@
 |-------------------:|:----------------------------------------------------|
 |                 23 | soul                                                |
 |                 17 | [mellow gold](../genres/mellow_gold.md)             |
+|                 13 | motown                                              |
 |                 12 | [pop](../genres/pop.md)                             |
-|                 12 | motown                                              |
-|                  9 | funk                                                |
 |                  9 | [adult standards](../genres/adult_standards.md)     |
 |                  8 | [r&b](../genres/r_b.md)                             |
 |                  8 | folk rock                                           |
@@ -176,10 +175,11 @@
 |                  5 | quiet storm                                         |
 |                  5 | memphis soul                                        |
 |                  5 | melancholia                                         |
+|                  5 | funk                                                |
 |                  4 | new wave pop                                        |
+|                  4 | disco                                               |
 |                  3 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  3 | outlaw country                                      |
-|                  3 | disco                                               |
 |                  3 | bubblegum pop                                       |
 |                  3 | arkansas country                                    |
 |                  1 | sunshine pop                                        |

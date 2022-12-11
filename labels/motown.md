@@ -63,9 +63,9 @@ Appears as:
 |   Number of Tracks | Genre                                           |
 |-------------------:|:------------------------------------------------|
 |                 13 | soul                                            |
-|                 12 | motown                                          |
-|                  9 | funk                                            |
+|                 13 | motown                                          |
 |                  5 | quiet storm                                     |
+|                  5 | funk                                            |
 |                  5 | classic soul                                    |
 |                  5 | [adult standards](../genres/adult_standards.md) |
 |                  4 | memphis soul                                    |

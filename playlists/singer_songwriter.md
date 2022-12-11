@@ -203,7 +203,7 @@
 
 
 <details>
-<summary>See all 52 genres</summary>
+<summary>See all 51 genres</summary>
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
@@ -213,7 +213,7 @@
 |                 71 | [neo mellow](../genres/neo_mellow.md)               |
 |                 63 | [pop rock](../genres/pop_rock.md)                   |
 |                 59 | [hollywood](../genres/hollywood.md)                 |
-|                 39 | [singer-songwriter](../genres/singer_songwriter.md) |
+|                 35 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                 35 | piano rock                                          |
 |                 31 | [mellow gold](../genres/mellow_gold.md)             |
 |                 25 | [soft rock](../genres/soft_rock.md)                 |
@@ -233,7 +233,6 @@
 |                  8 | canadian singer-songwriter                          |
 |                  6 | glam rock                                           |
 |                  5 | deep indie singer-songwriter                        |
-|                  4 | anti-folk                                           |
 |                  3 | viral pop                                           |
 |                  3 | neo soul                                            |
 |                  2 | indy indie                                          |

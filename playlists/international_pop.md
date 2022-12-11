@@ -106,7 +106,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27354dbaa284c53e085523cfec2" alt="" width="50" /> | Las Ketchup                        | [🔗](https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2c540efb76ea47414f376af" alt="" width="50" /> | TFBOYS                             | [🔗](https://open.spotify.com/artist/1dywcVTpMrP7VmQUhngSce) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebdca0f480586f178dab6b5591" alt="" width="50" /> | Gen Hoshino                        | [🔗](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb35107e005c18812f56b3dc0" alt="" width="50" /> | Natti Natasha                      | [🔗](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb41fe5fc9b99c0fe9f8725d38" alt="" width="50" /> | Natti Natasha                      | [🔗](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6be69d4a6cea90132c24de23" alt="" width="50" /> | Full Trunk                         | [🔗](https://open.spotify.com/artist/1CD5WWtF6AFUq6BTY20I4k) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9b2f6666f0dbb3234080ce43" alt="" width="50" /> | Static & Ben El                    | [🔗](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb51feeef21e4e7bc941bc66bc" alt="" width="50" /> | Penny Tai                          | [🔗](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) |
@@ -305,7 +305,7 @@
 
 
 <details>
-<summary>See all 97 genres</summary>
+<summary>See all 96 genres</summary>
 
 |   Number of Tracks | Genre                                 |
 |-------------------:|:--------------------------------------|
@@ -336,7 +336,6 @@
 |                  3 | icelandic pop                         |
 |                  3 | francoton                             |
 |                  3 | bitpop                                |
-|                  2 | trap latino                           |
 |                  2 | shibuya-kei                           |
 |                  2 | reggaeton colombiano                  |
 |                  2 | rap tunisien                          |

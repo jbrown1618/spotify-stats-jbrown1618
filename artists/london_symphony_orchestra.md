@@ -29,6 +29,7 @@
 ## Genres
 
 - british orchestra
+- [classical](../genres/classical.md)
 - classical performance
 - orchestra
 

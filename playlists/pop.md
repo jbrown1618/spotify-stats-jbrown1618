@@ -362,7 +362,7 @@
 |                300 | [pop](../genres/pop.md)                         |
 |                188 | [dance pop](../genres/dance_pop.md)             |
 |                 62 | [post-teen pop](../genres/post_teen_pop.md)     |
-|                 28 | [electropop](../genres/electropop.md)           |
+|                 27 | [electropop](../genres/electropop.md)           |
 |                 25 | uk pop                                          |
 |                 25 | edm                                             |
 |                 25 | [art pop](../genres/art_pop.md)                 |
@@ -375,11 +375,11 @@
 |                 11 | [neo mellow](../genres/neo_mellow.md)           |
 |                 11 | british soul                                    |
 |                 11 | australian pop                                  |
-|                 10 | viral pop                                       |
 |                 10 | pop soul                                        |
 |                 10 | canadian pop                                    |
 |                 10 | barbadian pop                                   |
 |                 10 | [acoustic pop](../genres/acoustic_pop.md)       |
+|                  9 | viral pop                                       |
 |                  9 | pop dance                                       |
 |                  8 | uk dance                                        |
 |                  8 | tropical house                                  |
@@ -437,7 +437,6 @@
 |                  1 | vapor twitch                                    |
 |                  1 | vapor soul                                      |
 |                  1 | vapor pop                                       |
-|                  1 | trap latino                                     |
 |                  1 | trap                                            |
 |                  1 | thai indie pop                                  |
 |                  1 | synth funk                                      |
@@ -459,6 +458,7 @@
 |                  1 | indie soul                                      |
 |                  1 | indie rock italiano                             |
 |                  1 | indie r&b                                       |
+|                  1 | indie psych-pop                                 |
 
 </details>
 
