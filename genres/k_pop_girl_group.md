@@ -1,6 +1,6 @@
 # k-pop girl group
 
-[379 songs](k_pop_girl_group_tracks.md)
+[380 songs](k_pop_girl_group_tracks.md)
 
 ## Top Artists
 
@@ -10,7 +10,7 @@
 
 
 <details>
-<summary>See all 62 artists</summary>
+<summary>See all 63 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                               | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------|:------------------------------------------------------------|
@@ -41,7 +41,7 @@
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eba6b0d348c125a072e5284b3e" alt="" width="50" /> | IZ*ONE                                               | [🔗](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0cc2045ff4e90d12df91cc3" alt="" width="50" /> | f(x)                                                 | [🔗](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | SISTAR                                               | [🔗](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) |
-|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb6ff45cd874b8d6ded27a4b35" alt="" width="50" /> | NMIXX                                                | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
+|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb3202449ae19d68607e3f1530" alt="" width="50" /> | NMIXX                                                | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb30a517d1b703c3eabdac2855" alt="" width="50" /> | Wonder Girls                                         | [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebb61d3f392c4b11e9e54280a9" alt="" width="50" /> | Madison Beer                                         | [🔗](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebd0701912e6fccf8427bc7361" alt="" width="50" /> | GFRIEND                                              | [🔗](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) |
@@ -54,6 +54,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebb00e3506ebd41e147f26a6d5" alt="" width="50" /> | Jaira Burns                                          | [🔗](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27373d59cc449e4592026c3997a" alt="" width="50" /> | Brave Girls                                          | [🔗](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe58d09c327ba2681abd0533c" alt="" width="50" /> | Wolftyla                                             | [🔗](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb05b57a10802bacfdfb26afa0" alt="" width="50" /> | KARA                                                 | [🔗](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9426413cf033b2e0eedfeff6" alt="" width="50" /> | Girls' Generation-TTS                                | [🔗](https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9ec01c462c51ab9c67572abe" alt="" width="50" /> | Lexie Liu                                            | [🔗](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebff36ed787b017a7ff3c40a0e" alt="" width="50" /> | TAEYONG                                              | [🔗](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) |
@@ -199,7 +200,7 @@
 
 
 <details>
-<summary>See all 64 labels</summary>
+<summary>See all 65 labels</summary>
 
 |   Number of Tracks | Label                                                                                                               |
 |-------------------:|:--------------------------------------------------------------------------------------------------------------------|
@@ -243,6 +244,7 @@
 |                  1 | [드림티 엔터테인먼트](../labels/__________.md)                                                                               |
 |                  1 | [드림캐쳐컴퍼니](../labels/_______.md)                                                                                     |
 |                  1 | [내가네트워크](../labels/______.md)                                                                                       |
+|                  1 | [㈜RBW](../labels/_rbw.md)                                                                                           |
 |                  1 | [㈜ 드림캐쳐 컴퍼니](../labels/__________.md)                                                                               |
 |                  1 | [YUEHUA ENTERTAINMENT KOREA](../labels/yuehua_entertainment_korea.md)                                               |
 |                  1 | [Universal Music Group International](../labels/universal_music_group_international.md)                             |
@@ -296,8 +298,8 @@
 | Secret                     | You Never Know              |
 | Oh!                        | STAY                        |
 | Mr.Mr.                     | HANN (Alone in winter)      |
-| Very Very Very             | Hope Not                    |
-| Panorama                   | The Happiest Girl           |
+| Panorama                   | Hope Not                    |
+| Very Very Very             | The Happiest Girl           |
 
 | 10 most Speechy tracks        | 10 least Speechy tracks   |
 |:------------------------------|:--------------------------|
@@ -320,22 +322,22 @@
 | Hurt                      | 달라달라 (DALLA DALLA)         |
 | Jazz Bar                  | LA DI DA                   |
 | ZOOM                      | DALLA DALLA - English Ver. |
-| Wind flower               | RUN2U                      |
-| Starry Night              | Adios                      |
+| Starry Night              | RUN2U                      |
+| Wind flower               | Adios                      |
 | Moonlight Melody          | Red Light                  |
 | The Happiest Girl         | Poison                     |
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| You and I (Park Bom)          | Red Flavor                     |
-| Adios                         | You Better Know                |
-| YEPPI YEPPI                   | Umpah Umpah                    |
-| So Hot                        | Be Natural                     |
-| I Am The Best                 | #Cookie Jar                    |
-| Power Up                      | Rookie                         |
-| BBoom BBoom                   | 247                            |
-| In My Dreams                  | WILDSIDE                       |
-| BAAM                          | Marionette                     |
+| You and I (Park Bom)          | Bad Boy                        |
+| Adios                         | Red Flavor                     |
+| YEPPI YEPPI                   | You Better Know                |
+| So Hot                        | Umpah Umpah                    |
+| I Am The Best                 | Be Natural                     |
+| Power Up                      | #Cookie Jar                    |
+| BBoom BBoom                   | Rookie                         |
+| In My Dreams                  | 247                            |
+| BAAM                          | WILDSIDE                       |
 | Star                          | Queendom                       |
 
 | 10 most Live tracks   | 10 least Live tracks          |
@@ -354,8 +356,8 @@
 | 10 most Happy tracks    | 10 least Happy tracks     |
 |:------------------------|:--------------------------|
 | Pepe                    | HWAA                      |
-| Miniskirt               | 4 Walls                   |
-| So Hot                  | MORE                      |
+| So Hot                  | 4 Walls                   |
+| Miniskirt               | MORE                      |
 | Twinkle                 | POSE                      |
 | Give it to me           | LION                      |
 | Lion Heart              | In My Dreams              |

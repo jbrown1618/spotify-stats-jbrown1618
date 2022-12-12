@@ -72,6 +72,7 @@ Appears as:
 |-------------------:|:----------------------------------------------------|
 |                 10 | [pop](../genres/pop.md)                             |
 |                  9 | [dance pop](../genres/dance_pop.md)                 |
+|                  7 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                  3 | [adult standards](../genres/adult_standards.md)     |
 |                  3 | [acoustic pop](../genres/acoustic_pop.md)           |
 |                  2 | lounge                                              |
@@ -82,7 +83,6 @@ Appears as:
 |                  1 | [soft rock](../genres/soft_rock.md)                 |
 |                  1 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  1 | roots rock                                          |
-|                  1 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                  1 | [mellow gold](../genres/mellow_gold.md)             |
 |                  1 | [lilith](../genres/lilith.md)                       |
 |                  1 | [k-pop](../genres/k_pop.md)                         |

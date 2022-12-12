@@ -104,7 +104,7 @@
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eba36a9f95d59ab791d5e897e9" alt="" width="50" /> | Regina Spektor                                                 | [🔗](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb24b5185226d5b7c6aa91db5a" alt="" width="50" /> | PSY                                                            | [🔗](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebfe2339c232c5a840fc527402" alt="" width="50" /> | SEULGI                                                         | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
-|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb6ff45cd874b8d6ded27a4b35" alt="" width="50" /> | NMIXX                                                          | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
+|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb3202449ae19d68607e3f1530" alt="" width="50" /> | NMIXX                                                          | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e7e6ded87a4e0f65b5afcec" alt="" width="50" /> | Britney Spears                                                 | [🔗](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb271110d977700b69d9548993" alt="" width="50" /> | EXID                                                           | [🔗](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | Justin Bieber                                                  | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
@@ -366,8 +366,8 @@
 |                 60 | [lilith](../genres/lilith.md)                       |
 |                 58 | [neo mellow](../genres/neo_mellow.md)               |
 |                 57 | [acoustic pop](../genres/acoustic_pop.md)           |
+|                 56 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                 55 | [pop rock](../genres/pop_rock.md)                   |
-|                 51 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                 44 | [hollywood](../genres/hollywood.md)                 |
 |                 42 | [mellow gold](../genres/mellow_gold.md)             |
 |                 32 | [soft rock](../genres/soft_rock.md)                 |
@@ -414,8 +414,9 @@
 |                 11 | indie rock                                          |
 |                 10 | alternative rock                                    |
 |                  9 | oxford indie                                        |
+|                  9 | lounge                                              |
+|                  9 | anti-folk                                           |
 |                  8 | tropical house                                      |
-|                  8 | lounge                                              |
 |                  8 | latin pop                                           |
 |                  8 | korean city pop                                     |
 |                  8 | hip hop                                             |
@@ -425,11 +426,9 @@
 |                  8 | australian dance                                    |
 |                  7 | viral pop                                           |
 |                  7 | pop dance                                           |
-|                  7 | motown                                              |
 |                  7 | kawaii metal                                        |
 |                  7 | j-pop                                               |
 |                  7 | j-metal                                             |
-|                  7 | indie r&b                                           |
 |                  7 | idol rock                                           |
 |                  7 | escape room                                         |
 |                  7 | country dawn                                        |
@@ -442,6 +441,7 @@
 |                  7 | alternative r&b                                     |
 |                  6 | stomp and holler                                    |
 |                  6 | pop soul                                            |
+|                  6 | motown                                              |
 |                  6 | modern alternative rock                             |
 |                  6 | la indie                                            |
 |                  6 | hip pop                                             |
@@ -450,12 +450,12 @@
 |                  5 | uk funky                                            |
 |                  5 | uk dance                                            |
 |                  5 | jazz pop                                            |
-|                  5 | anti-folk                                           |
 |                  5 | afrofuturism                                        |
 |                  4 | yacht rock                                          |
 |                  4 | vocal jazz                                          |
 |                  4 | new wave pop                                        |
 |                  4 | korean old school hip hop                           |
+|                  4 | japanese electropop                                 |
 
 </details>
 
@@ -468,11 +468,11 @@
 | Anaconda                        | A Case of You               |
 | #Twenty                         | Nature Boy                  |
 | FACE                            | Lights                      |
-| SNEAKERS                        | You Take My Breath Away     |
-| WAP (feat. Megan Thee Stallion) | Born To Die                 |
+| WAP (feat. Megan Thee Stallion) | You Take My Breath Away     |
+| SNEAKERS                        | Born To Die                 |
 | Billie Jean                     | The End (Interlude)         |
-| Baby Got Back                   | Amore                       |
-| Another One Bites The Dust      | Bridge Over Troubled Water  |
+| Another One Bites The Dust      | Amore                       |
+| Baby Got Back                   | Bridge Over Troubled Water  |
 | Fidelity                        | Pyramid Song                |
 
 | 10 most Energetic tracks   | 10 least Energetic tracks   |
@@ -480,10 +480,10 @@
 | チョコレイト・ディスコ                | Blackbird - Remastered 2009 |
 | When Doves Cry             | xanny                       |
 | Shanti Shanti Shanti       | when the party's over       |
-| RING X RING                | The Dawntreader             |
-| Rondo of Nightmare         | Used                        |
-| Gimme Chocolate!!          | Nature Boy                  |
-| Headbangeeeeerrrrr!!!!!    | And So It Goes              |
+| Rondo of Nightmare         | The Dawntreader             |
+| RING X RING                | Used                        |
+| Headbangeeeeerrrrr!!!!!    | Nature Boy                  |
+| Gimme Chocolate!!          | And So It Goes              |
 | Hit That Drum              | Run to You                  |
 | KARATE                     | Mad World                   |
 | だいじょばない                    | Kaleidoscope Heart          |
@@ -497,14 +497,14 @@
 | Vigilante Shit                   | The Scientist             |
 | Free Fall                        | All Too Well              |
 | WAP (feat. Megan Thee Stallion)  | Breakeven                 |
-| bad guy                          | 情非得已                      |
-| Ice Cream (with Selena Gomez)    | Satellite Call            |
+| bad guy                          | Satellite Call            |
+| Ice Cream (with Selena Gomez)    | 情非得已                      |
 | Feelin' Like                     | With                      |
 
 | 10 most Acoustic tracks      | 10 least Acoustic tracks   |
 |:-----------------------------|:---------------------------|
-| when the party's over        | Oh Sorry Ya                |
-| Bright Lights and Cityscapes | Misery                     |
+| when the party's over        | Misery                     |
+| Bright Lights and Cityscapes | Oh Sorry Ya                |
 | Mad World                    | Gimme Chocolate!!          |
 | Manhattan                    | Cyberpunk                  |
 | Nature Boy                   | Tamed-Dashed               |
@@ -514,18 +514,18 @@
 | Take It All                  | Kagerou                    |
 | The Dawntreader              | The Phantom Of The Opera   |
 
-| 10 most Instrumental tracks              | 10 least Instrumental tracks                |
-|:-----------------------------------------|:--------------------------------------------|
-| Digital Love                             | California Gurls                            |
-| だいじょばない                                  | Something                                   |
-| Street Spirit (Fade Out)                 | I Love You 3000 II                          |
-| everything i wanted                      | THRILL RIDE                                 |
-| Instant Crush (feat. Julian Casablancas) | Locked out of Heaven                        |
-| Smooth Criminal - 2012 Remaster          | If I Ever Fall In Love (feat. Jason Derulo) |
-| Pyramid Song                             | Scream                                      |
-| Shanti Shanti Shanti                     | SAY NO MORE                                 |
-| You Take My Breath Away                  | Now (feat. Hwa Sa)                          |
-| The Night We Met                         | Old Fashioned                               |
+| 10 most Instrumental tracks              | 10 least Instrumental tracks   |
+|:-----------------------------------------|:-------------------------------|
+| Digital Love                             | Impurities                     |
+| だいじょばない                                  | You Never Know                 |
+| Street Spirit (Fade Out)                 | LAST WALTZ                     |
+| everything i wanted                      | imagine                        |
+| Instant Crush (feat. Julian Casablancas) | Nonstop                        |
+| Smooth Criminal - 2012 Remaster          | Not Alone                      |
+| Pyramid Song                             | Back Down                      |
+| Shanti Shanti Shanti                     | I CAN'T STOP ME                |
+| You Take My Breath Away                  | Blue Flame                     |
+| The Night We Met                         | Blessed-Cursed                 |
 
 | 10 most Live tracks            | 10 least Live tracks                  |
 |:-------------------------------|:--------------------------------------|
@@ -534,8 +534,8 @@
 | XS                             | YEPPI YEPPI                           |
 | Piano Man                      | memeM                                 |
 | You Better Run                 | That That (prod. & feat. SUGA of BTS) |
-| Red Lipstick (feat. Yoonmirae) | Finesse                               |
-| MAKE U DANCE (feat. EUNHA)     | SNEAKERS                              |
+| MAKE U DANCE (feat. EUNHA)     | Finesse                               |
+| Red Lipstick (feat. Yoonmirae) | SNEAKERS                              |
 | Sticker                        | CASE 143                              |
 | You Oughta Know                | Finesse - Remix; feat. Cardi B        |
 | 행복 (Happiness)                 | Ain't It Fun                          |
@@ -543,12 +543,12 @@
 | 10 most Happy tracks            | 10 least Happy tracks   |
 |:--------------------------------|:------------------------|
 | Sour candy                      | Yellow Flicker Beat     |
-| Like a Virgin                   | Falling                 |
-| Big Yellow Taxi                 | Lose Yourself           |
+| Big Yellow Taxi                 | Falling                 |
+| Like a Virgin                   | Lose Yourself           |
 | There's Nothing Holdin' Me Back | Crystallize             |
 | Twenty-three                    | Once Upon Another Time  |
 | Devil                           | xanny                   |
 | Pepe                            | No Time To Die          |
-| Mercy                           | Delicate                |
-| SexyBack (feat. Timbaland)      | What Sarah Said         |
-| チョコレイト・ディスコ                     | You Take My Breath Away |
+| SexyBack (feat. Timbaland)      | Delicate                |
+| Mercy                           | What Sarah Said         |
+| Miniskirt                       | You Take My Breath Away |

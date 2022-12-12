@@ -153,14 +153,14 @@
 
 
 <details>
-<summary>See all 40 genres</summary>
+<summary>See all 39 genres</summary>
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
 |                 23 | soul                                                |
 |                 17 | [mellow gold](../genres/mellow_gold.md)             |
-|                 13 | motown                                              |
 |                 12 | [pop](../genres/pop.md)                             |
+|                 12 | motown                                              |
 |                  9 | [adult standards](../genres/adult_standards.md)     |
 |                  8 | [r&b](../genres/r_b.md)                             |
 |                  8 | folk rock                                           |
@@ -191,7 +191,6 @@
 |                  1 | latin pop                                           |
 |                  1 | jazz trumpet                                        |
 |                  1 | jazz blues                                          |
-|                  1 | indie r&b                                           |
 |                  1 | [hollywood](../genres/hollywood.md)                 |
 |                  1 | doo-wop                                             |
 |                  1 | country rock                                        |

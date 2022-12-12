@@ -1,6 +1,6 @@
 # k-pop
 
-[782 songs](k_pop_tracks.md)
+[783 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -72,7 +72,7 @@
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0cc2045ff4e90d12df91cc3" alt="" width="50" /> | f(x)                                                 | [🔗](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb7af892ba79f611277614a0f2" alt="" width="50" /> | P1Harmony                                            | [🔗](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | SISTAR                                               | [🔗](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) |
-|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb6ff45cd874b8d6ded27a4b35" alt="" width="50" /> | NMIXX                                                | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
+|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb3202449ae19d68607e3f1530" alt="" width="50" /> | NMIXX                                                | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb70b010582faadbcec8b6774c" alt="" width="50" /> | CIX                                                  | [🔗](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb2d192f1d830db1eba64854fc" alt="" width="50" /> | Moon Byul                                            | [🔗](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb2be8611f6c6e9174031c64df" alt="" width="50" /> | JEON SOMI                                            | [🔗](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) |
@@ -310,6 +310,7 @@
 |                  1 | [드림캐쳐컴퍼니](../labels/_______.md)                                                                                     |
 |                  1 | [더라이브레이블](../labels/_______.md)                                                                                     |
 |                  1 | [내가네트워크](../labels/______.md)                                                                                       |
+|                  1 | [㈜RBW](../labels/_rbw.md)                                                                                           |
 |                  1 | [㈜ 드림캐쳐 컴퍼니](../labels/__________.md)                                                                               |
 |                  1 | [㈜ 동요엔터테인먼트](../labels/__________.md)                                                                               |
 |                  1 | [msmedia](../labels/msmedia.md)                                                                                     |
@@ -340,7 +341,6 @@
 |                  1 | [DUBLEKICK COMPANY](../labels/dublekick_company.md)                                                                 |
 |                  1 | [DCTOM](../labels/dctom.md)                                                                                         |
 |                  1 | [Cre.ker Entertainment](../labels/cre_ker_entertainment.md)                                                         |
-|                  1 | [Corp](../labels/corp.md)                                                                                           |
 
 </details>
 
@@ -352,12 +352,12 @@
 | FACE                                  | Boy in time - HUI Solo      |
 | Idle song                             | HWAA                        |
 | Jelly                                 | CHEESE                      |
-| Weather                               | Clockwork                   |
-| Typa Girl                             | Epilogue                    |
+| Typa Girl                             | Clockwork                   |
+| Weather                               | Epilogue                    |
 | BOOM                                  | Like Water                  |
 | Mr. Simple                            | Fine                        |
-| That That (prod. & feat. SUGA of BTS) | My sea                      |
-| 1, 2, 3, 4                            | On The Ground               |
+| 1, 2, 3, 4                            | My sea                      |
+| That That (prod. & feat. SUGA of BTS) | On The Ground               |
 | Is this bad b****** number?           | U                           |
 
 | 10 most Energetic tracks   | 10 least Energetic tracks                            |
@@ -376,15 +376,15 @@
 | 10 most Speechy tracks        | 10 least Speechy tracks                    |
 |:------------------------------|:-------------------------------------------|
 | Addicted                      | LOVE FOOL                                  |
-| MANIAC                        | YOUNG LUV                                  |
-| Freedom                       | NANANA                                     |
+| MANIAC                        | NANANA                                     |
+| Freedom                       | YOUNG LUV                                  |
 | Ice Cream (with Selena Gomez) | Hope Not                                   |
 | Feelin' Like                  | Gee                                        |
 | Signal                        | Winter Sleep                               |
 | BBIBBI                        | Wicked                                     |
 | You Better Run                | Moonlight Melody                           |
-| Be Natural                    | Slightly Tipsy (She is My Type♡ X SANDEUL) |
-| Tap Tap                       | She's In The Rain                          |
+| Be Natural                    | She's In The Rain                          |
+| Tap Tap                       | Slightly Tipsy (She is My Type♡ X SANDEUL) |
 
 | 10 most Acoustic tracks                              | 10 least Acoustic tracks   |
 |:-----------------------------------------------------|:---------------------------|
@@ -401,16 +401,16 @@
 
 | 10 most Instrumental tracks      | 10 least Instrumental tracks   |
 |:---------------------------------|:-------------------------------|
-| You and I (Park Bom)             | Kick Back                      |
-| Adios                            | Is this bad b****** number?    |
-| pporappippam                     | Idle song                      |
-| Badster                          | ZOO                            |
-| So Hot                           | Monster                        |
-| GingaMingaYo (the strange world) | Love Theory                    |
-| I Am The Best                    | Jungle                         |
-| Power Up                         | 458                            |
-| BBoom BBoom                      | Movie Star                     |
-| In My Dreams                     | Mr-Ambiguous                   |
+| You and I (Park Bom)             | Is this bad b****** number?    |
+| Adios                            | Idle song                      |
+| pporappippam                     | Kick Back                      |
+| Badster                          | Monster                        |
+| So Hot                           | ZOO                            |
+| GingaMingaYo (the strange world) | Jungle                         |
+| I Am The Best                    | 458                            |
+| Power Up                         | Movie Star                     |
+| BBoom BBoom                      | What You Wanted                |
+| In My Dreams                     | Starry Night                   |
 
 | 10 most Live tracks            | 10 least Live tracks                  |
 |:-------------------------------|:--------------------------------------|
@@ -431,8 +431,8 @@
 | Devil                  | Yours                     |
 | Twenty-three           | ONLY                      |
 | Pepe                   | U                         |
-| So Hot                 | My sea                    |
-| Miniskirt              | Side Effects              |
+| Miniskirt              | My sea                    |
+| So Hot                 | Side Effects              |
 | 쏘리 쏘리 Sorry, Sorry     | Good Night My Princess    |
 | Twinkle                | 7월 7일 One Of These Nights |
 | Lion Heart             | Grey Suit                 |

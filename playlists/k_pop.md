@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273f7da7c0f322b7a1c95190d92" alt="K-Pop" width="100" />
 
-[901 songs](k_pop_tracks.md)
+[902 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -83,7 +83,7 @@
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0cc2045ff4e90d12df91cc3" alt="" width="50" /> | f(x)                                                 | [🔗](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | SISTAR                                               | [🔗](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbca2e91d07d2c53e6610570" alt="" width="50" /> | Seori                                                | [🔗](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) |
-|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb6ff45cd874b8d6ded27a4b35" alt="" width="50" /> | NMIXX                                                | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
+|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb3202449ae19d68607e3f1530" alt="" width="50" /> | NMIXX                                                | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb70b010582faadbcec8b6774c" alt="" width="50" /> | CIX                                                  | [🔗](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA                                                 | [🔗](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb95f4928ac77d31b53626dab3" alt="" width="50" /> | PIXY                                                 | [🔗](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) |
@@ -331,6 +331,7 @@
 |                  1 | [드림캐쳐컴퍼니](../labels/_______.md)                                                                                     |
 |                  1 | [더라이브레이블](../labels/_______.md)                                                                                     |
 |                  1 | [내가네트워크](../labels/______.md)                                                                                       |
+|                  1 | [㈜RBW](../labels/_rbw.md)                                                                                           |
 |                  1 | [㈜ 드림캐쳐 컴퍼니](../labels/__________.md)                                                                               |
 |                  1 | [㈜ 동요엔터테인먼트](../labels/__________.md)                                                                               |
 |                  1 | [msmedia](../labels/msmedia.md)                                                                                     |
@@ -344,7 +345,6 @@
 |                  1 | [Universal Music Group International](../labels/universal_music_group_international.md)                             |
 |                  1 | [UME - Global Clearing House](../labels/ume___global_clearing_house.md)                                             |
 |                  1 | [Think Ent.](../labels/think_ent_.md)                                                                               |
-|                  1 | [TOON STUDIO](../labels/toon_studio.md)                                                                             |
 
 </details>
 
@@ -359,8 +359,8 @@
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
-|                753 | [k-pop](../genres/k_pop.md)                       |
-|                358 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+|                754 | [k-pop](../genres/k_pop.md)                       |
+|                359 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 |                207 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
 |                 57 | [pop](../genres/pop.md)                           |
 |                 27 | korean pop                                        |
@@ -404,11 +404,11 @@
 | SNEAKERS                   | Clockwork                   |
 | Idle song                  | Epilogue                    |
 | Jelly                      | Like Water                  |
-| Typa Girl                  | Fine                        |
-| Weather                    | My sea                      |
+| Weather                    | Fine                        |
+| Typa Girl                  | My sea                      |
 | BOOM                       | On The Ground               |
-| Tippy Toes                 | Sweet                       |
-| Mr. Simple                 | U                           |
+| Mr. Simple                 | Sweet                       |
+| Tippy Toes                 | U                           |
 
 | 10 most Energetic tracks   | 10 least Energetic tracks                            |
 |:---------------------------|:-----------------------------------------------------|
@@ -431,8 +431,8 @@
 | Freedom                       | Winter Sleep                               |
 | Free Fall                     | Rain and You                               |
 | Ice Cream (with Selena Gomez) | Moonlight Melody                           |
-| Feelin' Like                  | She's In The Rain                          |
-| Signal                        | Slightly Tipsy (She is My Type♡ X SANDEUL) |
+| Feelin' Like                  | Slightly Tipsy (She is My Type♡ X SANDEUL) |
+| Signal                        | She's In The Rain                          |
 | BBIBBI                        | Sweet Night                                |
 | You Better Run                | With                                       |
 
@@ -445,22 +445,22 @@
 | Run With Me                                          | Oh Sorry Ya                |
 | Goodbye                                              | Cyberpunk                  |
 | Amusement Park                                       | Tamed-Dashed               |
-| U                                                    | Mr. Simple                 |
-| Flower Way (Prod. By ZICO)                           | Easy                       |
+| U                                                    | Easy                       |
+| Flower Way (Prod. By ZICO)                           | Mr. Simple                 |
 | If                                                   | Poison                     |
 
 | 10 most Instrumental tracks      | 10 least Instrumental tracks   |
 |:---------------------------------|:-------------------------------|
-| Tippy Toes                       | BANG BANG BANG                 |
-| You and I (Park Bom)             | Not For Sale                   |
-| Adios                            | LOVE SCENARIO                  |
-| pporappippam                     | Hello                          |
-| Badster                          | FIESTA                         |
-| YEPPI YEPPI                      | Black Swan                     |
-| It′s Raining                     | TFW (That Feeling When)        |
-| So Hot                           | The Red Shoes                  |
-| GingaMingaYo (the strange world) | Go Big or Go Home              |
-| I Am The Best                    | Sorry                          |
+| Tippy Toes                       | AURA                           |
+| You and I (Park Bom)             | BLACK DRESS                    |
+| Adios                            | ANTIFRAGILE                    |
+| pporappippam                     | Bing Bing                      |
+| Badster                          | Let Me In (20 CUBE)            |
+| YEPPI YEPPI                      | Jazz Bar                       |
+| It′s Raining                     | L.I.E                          |
+| So Hot                           | BBIBBI                         |
+| GingaMingaYo (the strange world) | Rollin'                        |
+| I Am The Best                    | 우리집 My House                   |
 
 | 10 most Live tracks            | 10 least Live tracks                  |
 |:-------------------------------|:--------------------------------------|
@@ -473,7 +473,7 @@
 | I Like That                    | That That (prod. & feat. SUGA of BTS) |
 | Vibrato                        | SNEAKERS                              |
 | 행복 (Happiness)                 | CASE 143                              |
-| Genie                          | PING PONG                             |
+| LP                             | PING PONG                             |
 
 | 10 most Happy tracks   | 10 least Happy tracks     |
 |:-----------------------|:--------------------------|
@@ -481,9 +481,9 @@
 | Twenty-three           | Stardust love song        |
 | Devil                  | Lucid Dream               |
 | Pepe                   | U                         |
-| Miniskirt              | My sea                    |
-| So Hot                 | Side Effects              |
+| So Hot                 | My sea                    |
+| Miniskirt              | Side Effects              |
 | Twinkle                | Good Night My Princess    |
 | 쏘리 쏘리 Sorry, Sorry     | 7월 7일 One Of These Nights |
-| Some (feat. Lil Boi)   | Grey Suit                 |
-| Lion Heart             | The Road                  |
+| Lion Heart             | Grey Suit                 |
+| Give it to me          | The Road                  |

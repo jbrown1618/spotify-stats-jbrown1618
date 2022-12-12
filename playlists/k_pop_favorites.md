@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b273714e56679ab196354e2e443eab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738c4a282e84a53c1c8acf129a" alt="K-Pop Favorites" width="100" />
 
-[195 songs](k_pop_favorites_tracks.md)
+[196 songs](k_pop_favorites_tracks.md)
 
 ## Top Artists
 
@@ -13,7 +13,7 @@
 
 
 <details>
-<summary>See all 85 artists</summary>
+<summary>See all 86 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                               | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------|:------------------------------------------------------------|
@@ -70,6 +70,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebca6daabeb614243f96b2829f" alt="" width="50" /> | WOOSUNG                                              | [🔗](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb80584436e5726afb70cee7f8" alt="" width="50" /> | LOONA                                                | [🔗](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5c237a2e0c881b21c151f2cb" alt="" width="50" /> | WayV-TEN&YANGYANG                                    | [🔗](https://open.spotify.com/artist/4wOAdZOMOVSwrZQxDYrUx3) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3e7fed46f355254f001ac543" alt="" width="50" /> | BoA                                                  | [🔗](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | Suzy                                                 | [🔗](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfb6c0b7b6918dca92be0ed75" alt="" width="50" /> | LE SSERAFIM                                          | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb597a4257d0022e2ac837fa7d" alt="" width="50" /> | BIGBANG                                              | [🔗](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) |
@@ -89,7 +90,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebdbabadb9f03b5b3d5e0241e5" alt="" width="50" /> | JAMIE                                                | [🔗](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfe2339c232c5a840fc527402" alt="" width="50" /> | SEULGI                                               | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb065608c797a38d142082fc8a" alt="" width="50" /> | Punch                                                | [🔗](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6ff45cd874b8d6ded27a4b35" alt="" width="50" /> | NMIXX                                                | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3202449ae19d68607e3f1530" alt="" width="50" /> | NMIXX                                                | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc2c8185fc0902b43e35f671f" alt="" width="50" /> | JENNIE                                               | [🔗](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9954a1ab45b2404a7bff2a45" alt="" width="50" /> | OH MY GIRL                                           | [🔗](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb27132091d63ed72c5f8da310" alt="" width="50" /> | TAEIL                                                | [🔗](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) |
@@ -230,7 +231,7 @@
 
 |   Number of Tracks | Label                                                                                   |
 |-------------------:|:----------------------------------------------------------------------------------------|
-|                 58 | [SM Entertainment](../labels/sm_entertainment.md)                                       |
+|                 59 | [SM Entertainment](../labels/sm_entertainment.md)                                       |
 |                 17 | [YG Entertainment](../labels/yg_entertainment.md)                                       |
 |                 17 | [Republic Records](../labels/republic_records.md)                                       |
 |                 11 | [Interscope](../labels/interscope.md)                                                   |
@@ -297,7 +298,7 @@
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
-|                163 | [k-pop](../genres/k_pop.md)                       |
+|                164 | [k-pop](../genres/k_pop.md)                       |
 |                 79 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 |                 45 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
 |                 12 | [pop](../genres/pop.md)                           |
@@ -338,9 +339,9 @@
 | HOME;RUN                              | Love poem                   |
 | Feel My Rhythm                        | 무제(無題) (Untitled, 2014)     |
 | The Boys                              | Butter                      |
-| Ice Cream Cake                        | My sea                      |
+| Hype Boy                              | My sea                      |
 | Sparkling Night                       | Gone                        |
-| Hype Boy                              | ONLY                        |
+| Ice Cream Cake                        | ONLY                        |
 
 | 10 most Speechy tracks   | 10 least Speechy tracks   |
 |:-------------------------|:--------------------------|
@@ -370,9 +371,9 @@
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| YEPPI YEPPI                   | DDU-DU DDU-DU                  |
-| I Am The Best                 | BBIBBI                         |
-| Lion Heart                    | Paint Me Naked                 |
+| YEPPI YEPPI                   | BBIBBI                         |
+| I Am The Best                 | Paint Me Naked                 |
+| Lion Heart                    | Forgive Me                     |
 | Kill This Love                | dlwlrma                        |
 | Why Not?                      | MIROTIC                        |
 | Black Mamba                   | HOLO                           |

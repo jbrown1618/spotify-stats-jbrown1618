@@ -230,7 +230,6 @@
 |                  4 | lounge                                              |
 |                  4 | glam rock                                           |
 |                  3 | soul                                                |
-|                  3 | motown                                              |
 |                  3 | folk rock                                           |
 |                  3 | canadian pop                                        |
 |                  3 | australian pop                                      |
@@ -239,6 +238,7 @@
 |                  2 | [r&b](../genres/r_b.md)                             |
 |                  2 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                  2 | pop soul                                            |
+|                  2 | motown                                              |
 |                  2 | modern rock                                         |
 |                  2 | modern alternative rock                             |
 |                  2 | melancholia                                         |

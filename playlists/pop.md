@@ -361,7 +361,7 @@
 |-------------------:|:------------------------------------------------|
 |                300 | [pop](../genres/pop.md)                         |
 |                188 | [dance pop](../genres/dance_pop.md)             |
-|                 62 | [post-teen pop](../genres/post_teen_pop.md)     |
+|                 69 | [post-teen pop](../genres/post_teen_pop.md)     |
 |                 27 | [electropop](../genres/electropop.md)           |
 |                 25 | uk pop                                          |
 |                 25 | edm                                             |
@@ -437,6 +437,7 @@
 |                  1 | vapor twitch                                    |
 |                  1 | vapor soul                                      |
 |                  1 | vapor pop                                       |
+|                  1 | urbano latino                                   |
 |                  1 | trap                                            |
 |                  1 | thai indie pop                                  |
 |                  1 | synth funk                                      |
@@ -458,7 +459,6 @@
 |                  1 | indie soul                                      |
 |                  1 | indie rock italiano                             |
 |                  1 | indie r&b                                       |
-|                  1 | indie psych-pop                                 |
 
 </details>
 

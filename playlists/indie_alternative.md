@@ -65,7 +65,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd3a1193ab04e0fb2b297e619" alt="" width="50" /> | Conan Gray                                                     | [🔗](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d800f202dd15af03179876b" alt="" width="50" /> | Jess Glynne                                                    | [🔗](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8167bcebaf508dc6c3459b1" alt="" width="50" /> | Maggie Rogers                                                  | [🔗](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9c2923280237f7d8e381528c" alt="" width="50" /> | Anjulie                                                        | [🔗](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb36c6d31f2ba27e1431a0e6f1" alt="" width="50" /> | Anjulie                                                        | [🔗](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb379e885a01898367bfcd0c44" alt="" width="50" /> | Caro Emerald                                                   | [🔗](https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d998e7541724c918777b8ca" alt="" width="50" /> | League of Legends                                              | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1a7d0845c3b7e2f130264957" alt="" width="50" /> | The Smashing Pumpkins                                          | [🔗](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) |
@@ -312,6 +312,7 @@
 |                 13 | nz pop                                              |
 |                 13 | bergen indie                                        |
 |                 11 | australian pop                                      |
+|                 11 | anti-folk                                           |
 |                 10 | [pop rock](../genres/pop_rock.md)                   |
 |                 10 | oxford indie                                        |
 |                 10 | metropopolis                                        |
@@ -321,7 +322,6 @@
 |                  8 | nyc pop                                             |
 |                  8 | australian dance                                    |
 |                  7 | [post-teen pop](../genres/post_teen_pop.md)         |
-|                  7 | anti-folk                                           |
 |                  6 | [neo mellow](../genres/neo_mellow.md)               |
 |                  6 | la indie                                            |
 |                  5 | uk funky                                            |

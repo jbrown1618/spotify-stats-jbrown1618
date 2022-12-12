@@ -115,7 +115,7 @@
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
 |                 29 | [adult standards](../genres/adult_standards.md)     |
-|                 27 | lounge                                              |
+|                 28 | lounge                                              |
 |                 20 | smooth jazz                                         |
 |                 12 | jazz pop                                            |
 |                 12 | canadian pop                                        |
