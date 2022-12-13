@@ -25,6 +25,7 @@
 
 ## Genres
 
+- choral
 - classical performance
 - orchestral performance
 

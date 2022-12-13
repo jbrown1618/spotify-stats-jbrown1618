@@ -322,6 +322,7 @@
 |                  8 | nyc pop                                             |
 |                  8 | australian dance                                    |
 |                  7 | [post-teen pop](../genres/post_teen_pop.md)         |
+|                  6 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  6 | [neo mellow](../genres/neo_mellow.md)               |
 |                  6 | la indie                                            |
 |                  5 | uk funky                                            |
@@ -347,7 +348,6 @@
 |                  3 | candy pop                                           |
 |                  3 | [acoustic pop](../genres/acoustic_pop.md)           |
 |                  2 | washington indie                                    |
-|                  2 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  2 | shiver pop                                          |
 |                  2 | pop punk                                            |
 |                  2 | pop emo                                             |

@@ -213,7 +213,7 @@
 |                 72 | [neo mellow](../genres/neo_mellow.md)               |
 |                 63 | [pop rock](../genres/pop_rock.md)                   |
 |                 59 | [hollywood](../genres/hollywood.md)                 |
-|                 35 | [singer-songwriter](../genres/singer_songwriter.md) |
+|                 39 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                 35 | piano rock                                          |
 |                 31 | [mellow gold](../genres/mellow_gold.md)             |
 |                 25 | [soft rock](../genres/soft_rock.md)                 |

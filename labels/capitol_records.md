@@ -72,7 +72,6 @@ Appears as:
 |-------------------:|:----------------------------------------------------|
 |                 10 | [pop](../genres/pop.md)                             |
 |                  9 | [dance pop](../genres/dance_pop.md)                 |
-|                  7 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                  3 | [adult standards](../genres/adult_standards.md)     |
 |                  3 | [acoustic pop](../genres/acoustic_pop.md)           |
 |                  2 | lounge                                              |
@@ -83,6 +82,7 @@ Appears as:
 |                  1 | [soft rock](../genres/soft_rock.md)                 |
 |                  1 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  1 | roots rock                                          |
+|                  1 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                  1 | [mellow gold](../genres/mellow_gold.md)             |
 |                  1 | [lilith](../genres/lilith.md)                       |
 |                  1 | [k-pop](../genres/k_pop.md)                         |
@@ -118,4 +118,4 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273937af329667311f4b2831616" alt="" width="50" /> | Wide Awake                                   | Teenage Dream: The Complete Confection  | Katy Perry                             | [Capitol Records](capitol_records.md)                                          | 💚   | [🔗](https://open.spotify.com/track/5JLv62qFIS1DR3zGEcApRt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d658a02ba8931985bdc4e0da" alt="" width="50" /> | Light On                                     | Heard It In A Past Life                 | Maggie Rogers                          | [Capitol Records](capitol_records.md)                                          | 💚   | [🔗](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701" alt="" width="50" /> | Nature Boy                                   | The Nat King Cole Story                 | Nat King Cole                          | [Capitol Records](capitol_records.md)                                          | 💚   | [🔗](https://open.spotify.com/track/2WMyu5IYgxEuCd6xgFgJrl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273724a0cb04dbc89d9dd6ee06d" alt="" width="50" /> | Tiger Inside                                 | Super One -The 1st Album                | SuperM                                 | [SM Entertainment](sm_entertainment.md), [Capitol Records](capitol_records.md) | 💚   | [🔗](https://open.spotify.com/track/1ADlTU9mFc3oDdD9Vla2Yw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273724a0cb04dbc89d9dd6ee06d" alt="" width="50" /> | Tiger Inside                                 | Super One -The 1st Album                | SuperM                                 | [Capitol Records](capitol_records.md), [SM Entertainment](sm_entertainment.md) | 💚   | [🔗](https://open.spotify.com/track/1ADlTU9mFc3oDdD9Vla2Yw) |
