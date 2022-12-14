@@ -359,7 +359,7 @@
 |                574 | [k-pop](../genres/k_pop.md)                         |
 |                360 | [pop](../genres/pop.md)                             |
 |                285 | [k-pop girl group](../genres/k_pop_girl_group.md)   |
-|                161 | [dance pop](../genres/dance_pop.md)                 |
+|                159 | [dance pop](../genres/dance_pop.md)                 |
 |                150 | [k-pop boy group](../genres/k_pop_boy_group.md)     |
 |                 99 | [rock](../genres/rock.md)                           |
 |                 78 | [classic rock](../genres/classic_rock.md)           |
@@ -416,7 +416,6 @@
 |                  9 | oxford indie                                        |
 |                  9 | lounge                                              |
 |                  9 | anti-folk                                           |
-|                  8 | viral pop                                           |
 |                  8 | tropical house                                      |
 |                  8 | latin pop                                           |
 |                  8 | korean city pop                                     |
@@ -425,6 +424,7 @@
 |                  8 | blues rock                                          |
 |                  8 | bergen indie                                        |
 |                  8 | australian dance                                    |
+|                  7 | viral pop                                           |
 |                  7 | pop dance                                           |
 |                  7 | kawaii metal                                        |
 |                  7 | j-pop                                               |
