@@ -33,7 +33,6 @@
 
 ## Genres
 
-- [a cappella](../genres/a_cappella.md)
 - british choir
 - cambridge choir
 - choral

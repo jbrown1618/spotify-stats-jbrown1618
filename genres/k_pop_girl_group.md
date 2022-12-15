@@ -1,6 +1,6 @@
 # k-pop girl group
 
-[380 songs](k_pop_girl_group_tracks.md)
+[381 songs](k_pop_girl_group_tracks.md)
 
 ## Top Artists
 
@@ -14,14 +14,14 @@
 
 |   Number of Tracks | Art                                                                                              | Artist                                               | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------|:------------------------------------------------------------|
-|                 58 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)               | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
+|                 59 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)               | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 |                 37 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../artists/itzy.md)                           | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                 36 | <img src="https://i.scdn.co/image/ab6761610000e5ebd84fd6ae9ccfc6206ea6711e" alt="" width="50" /> | [TWICE](../artists/twice.md)                         | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 |                 34 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)                   | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 |                 28 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)                 | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 |                 20 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../artists/mamamoo.md)                     | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
+|                 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../artists/aespa.md)                         | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 |                 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | [Girls' Generation](../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
-|                 13 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../artists/aespa.md)                         | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 |                 13 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="" width="50" /> | [Dreamcatcher](../artists/dreamcatcher.md)           | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 |                 12 | <img src="https://i.scdn.co/image/ab6761610000e5eb45b2ff69ae6a3caccb776cfa" alt="" width="50" /> | [STAYC](../artists/stayc.md)                         | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | CLC                                                  | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
@@ -204,7 +204,7 @@
 
 |   Number of Tracks | Label                                                                                                               |
 |-------------------:|:--------------------------------------------------------------------------------------------------------------------|
-|                 80 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
+|                 81 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
 |                 62 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 25 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
 |                 25 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                                                               |
@@ -284,8 +284,8 @@
 | Scandal                    | You Better Run                     |
 | Louder                     | 7월 7일 One Of These Nights          |
 | Nobody                     | Feel My Rhythm                     |
-| So Hot                     | Where Are We Now                   |
-| Pepe                       | O.O                                |
+| Pepe                       | Where Are We Now                   |
+| So Hot                     | O.O                                |
 | The Boys                   | HWAA                               |
 
 | 10 most Energetic tracks   | 10 least Energetic tracks   |
@@ -303,15 +303,15 @@
 
 | 10 most Speechy tracks        | 10 least Speechy tracks   |
 |:------------------------------|:--------------------------|
-| Addicted                      | HANN (Alone)              |
+| Addicted                      | Beautiful Christmas       |
 | Freedom                       | Tally                     |
 | Free Fall                     | ESCAPE                    |
 | Ice Cream (with Selena Gomez) | Something                 |
 | Signal                        | In My Dreams              |
 | You Better Run                | LOVE FOOL                 |
 | Girls                         | YOUNG LUV                 |
-| Be Natural                    | Gee                       |
-| Love So Sweet                 | Hope Not                  |
+| Be Natural                    | Hope Not                  |
+| Love So Sweet                 | Gee                       |
 | O.O                           | Moonlight Melody          |
 
 | 10 most Acoustic tracks   | 10 least Acoustic tracks   |
@@ -334,11 +334,11 @@
 | YEPPI YEPPI                   | You Better Know                |
 | So Hot                        | Umpah Umpah                    |
 | I Am The Best                 | Be Natural                     |
-| Power Up                      | #Cookie Jar                    |
-| BBoom BBoom                   | Rookie                         |
-| In My Dreams                  | 247                            |
-| BAAM                          | WILDSIDE                       |
-| Star                          | Queendom                       |
+| Power Up                      | Beautiful Christmas            |
+| BBoom BBoom                   | #Cookie Jar                    |
+| In My Dreams                  | Rookie                         |
+| BAAM                          | 247                            |
+| Star                          | I'll Make You Cry              |
 
 | 10 most Live tracks   | 10 least Live tracks          |
 |:----------------------|:------------------------------|
@@ -356,11 +356,11 @@
 | 10 most Happy tracks    | 10 least Happy tracks     |
 |:------------------------|:--------------------------|
 | Pepe                    | HWAA                      |
-| So Hot                  | 4 Walls                   |
-| Miniskirt               | MORE                      |
+| Miniskirt               | 4 Walls                   |
+| So Hot                  | MORE                      |
 | Twinkle                 | POSE                      |
-| Give it to me           | LION                      |
-| Lion Heart              | In My Dreams              |
+| Lion Heart              | LION                      |
+| Give it to me           | In My Dreams              |
 | 러시안 룰렛 Russian Roulette | Hope Not                  |
 | Nobody                  | Body Talk                 |
 | Really                  | Lucid Dream               |

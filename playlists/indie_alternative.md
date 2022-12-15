@@ -312,7 +312,6 @@
 |                 13 | nz pop                                              |
 |                 13 | bergen indie                                        |
 |                 11 | australian pop                                      |
-|                 11 | anti-folk                                           |
 |                 10 | [pop rock](../genres/pop_rock.md)                   |
 |                 10 | oxford indie                                        |
 |                 10 | metropopolis                                        |
@@ -321,7 +320,7 @@
 |                  9 | etherpop                                            |
 |                  8 | nyc pop                                             |
 |                  8 | australian dance                                    |
-|                  7 | [post-teen pop](../genres/post_teen_pop.md)         |
+|                  7 | anti-folk                                           |
 |                  6 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  6 | [neo mellow](../genres/neo_mellow.md)               |
 |                  6 | la indie                                            |
@@ -349,6 +348,7 @@
 |                  3 | [acoustic pop](../genres/acoustic_pop.md)           |
 |                  2 | washington indie                                    |
 |                  2 | shiver pop                                          |
+|                  2 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                  2 | pop punk                                            |
 |                  2 | pop emo                                             |
 |                  2 | pixie                                               |

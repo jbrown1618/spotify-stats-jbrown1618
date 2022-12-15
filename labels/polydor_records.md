@@ -102,7 +102,6 @@ Appears as:
 |                  7 | [dance pop](../genres/dance_pop.md)               |
 |                  6 | edm                                               |
 |                  5 | uk pop                                            |
-|                  5 | [post-teen pop](../genres/post_teen_pop.md)       |
 |                  5 | indietronica                                      |
 |                  5 | [hollywood](../genres/hollywood.md)               |
 |                  4 | metropopolis                                      |
@@ -120,6 +119,7 @@ Appears as:
 |                  2 | album rock                                        |
 |                  1 | uk dance                                          |
 |                  1 | shiver pop                                        |
+|                  1 | [post-teen pop](../genres/post_teen_pop.md)       |
 |                  1 | [pop rock](../genres/pop_rock.md)                 |
 |                  1 | pop rap                                           |
 |                  1 | permanent wave                                    |

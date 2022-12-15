@@ -1,6 +1,6 @@
 # a cappella
 
-[204 songs](a_cappella_tracks.md)
+[197 songs](a_cappella_tracks.md)
 
 ## Top Artists
 
@@ -10,7 +10,7 @@
 
 
 <details>
-<summary>See all 59 artists</summary>
+<summary>See all 58 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                                   | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------|:------------------------------------------------------------|
@@ -23,7 +23,6 @@
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb8c4a9d4a5f8004ad4d0195aa" alt="" width="50" /> | The Nor'easters                                          | [🔗](https://open.spotify.com/artist/1aLfVgwt8eBrpvHcutWmqe) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb28d2d9a97a89d4721c2917b2" alt="" width="50" /> | UNC Achordants                                           | [🔗](https://open.spotify.com/artist/1TzZMeOCs4TMYtzgohPMAr) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5ebca516d559d106ed3854fc71b" alt="" width="50" /> | Mosaic Whispers                                          | [🔗](https://open.spotify.com/artist/0fP33MCfVUaPivyFYLZtoh) |
-|                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4536d632bb182e3f82baaaf" alt="" width="50" /> | [The King's Singers](../artists/the_king_s_singers.md)   | [🔗](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb78999d4b6fb0847081e2f479" alt="" width="50" /> | SoCal VoCals                                             | [🔗](https://open.spotify.com/artist/5L30XpwHG77eWCZtelTns9) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb616fc063b23c40fc8a91d885" alt="" width="50" /> | Pitch Slapped                                            | [🔗](https://open.spotify.com/artist/7EH7jldX62OIsU1yU1SWE7) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb935384f680f653b00bc04c26" alt="" width="50" /> | Voices in Your Head                                      | [🔗](https://open.spotify.com/artist/44v8JgDySt9tkgfV3AWxBJ) |
@@ -82,7 +81,7 @@
 
 
 <details>
-<summary>See all 85 albums</summary>
+<summary>See all 81 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                        | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------|:-----------------------------------------------------------|
@@ -100,7 +99,6 @@
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27338407526ecab26f59f44f999" alt="" width="50" /> | Pentatonix (Deluxe Version)                  | [🔗](https://open.spotify.com/album/6qf9tE8pNRW0kX1Cucrixr) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2733c8896f56a068816ef63165b" alt="" width="50" /> | Off the Hook                                 | [🔗](https://open.spotify.com/album/1wfYTTpHsGxvIjDwsPLAAC) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273481636675e5711587db9061d" alt="" width="50" /> | Greene St.                                   | [🔗](https://open.spotify.com/album/3qJMqi0VzTFGSDTTMUI5n7) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273efbc193171a2f99fe94911c6" alt="" width="50" /> | Folk Songs Of The British Isles              | [🔗](https://open.spotify.com/album/7eFKaVzp6K60oBnB2kTjwV) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27328c918d531af48c523963142" alt="" width="50" /> | Ferris Wheels                                | [🔗](https://open.spotify.com/album/5ASqFPQZT7iJ3Txsly4JIC) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27334ceeb441ebadc373617e460" alt="" width="50" /> | Breakdown!                                   | [🔗](https://open.spotify.com/album/7u7dNsbxjcxVoffJELqtCV) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2737b67b0ad83e8adff4608e918" alt="" width="50" /> | BOCA 2014: Best Of College A Cappella        | [🔗](https://open.spotify.com/album/7rZoAMtoZ8s5mLIlUTWgVT) |
@@ -144,7 +142,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736390fb1ebb92fb38e7c99aaf" alt="" width="50" /> | The Reading Room Sessions (Fall 2017)        | [🔗](https://open.spotify.com/album/4xbXu4kEwTS8NOTX6aRwkg) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a244382317586a8decdf240c" alt="" width="50" /> | The Mallard                                  | [🔗](https://open.spotify.com/album/2IV5LQ4DzCjAIVwYZMHYgo) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27314ed51ab46ef0765182bb8a0" alt="" width="50" /> | The Life and Times of Mike Fanning           | [🔗](https://open.spotify.com/album/7FNdaE5nvtVmhPlc9wjQrx) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273913e83f2c069080c25b54c9a" alt="" width="50" /> | The King's Singers Collection                | [🔗](https://open.spotify.com/album/2dvmTkGLdYcm6jnrsdQZlj) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273db17fec53a7c243f7809a328" alt="" width="50" /> | Storming The Castle                          | [🔗](https://open.spotify.com/album/1wjibXmmViZMNA1HsMo7f6) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738b1bdafdc4fd1983a8a8a198" alt="" width="50" /> | Spotlight on Bach                            | [🔗](https://open.spotify.com/album/3qHHoQNFqZptsQE9Y3esLh) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a6917e8b1af58ff8168434a7" alt="" width="50" /> | Rain Check                                   | [🔗](https://open.spotify.com/album/6xuVrseH6zVGlcMojwowxn) |
@@ -153,13 +150,11 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27308006689b908d5d25c188b10" alt="" width="50" /> | ICCA 2016: The Extended Cuts                 | [🔗](https://open.spotify.com/album/07xYpylAQHOJoHStqUpKwp) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273707302925a3cb0f9dbcc23f8" alt="" width="50" /> | House Rules                                  | [🔗](https://open.spotify.com/album/1fHxE6WZL6ouusBW4h9nE4) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b6506a5b3e8f6bf816cbc118" alt="" width="50" /> | High Stakes Old Maid                         | [🔗](https://open.spotify.com/album/6sg9WsK06H588Y5VOmwj37) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733d35ee785862f82a5ada29b6" alt="" width="50" /> | Gold                                         | [🔗](https://open.spotify.com/album/3OF5H5176VONmVik8EvJC6) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b4505054d968aab0b77e5646" alt="" width="50" /> | Fixate                                       | [🔗](https://open.spotify.com/album/2wDs6jkrCEPBJLnLLFWt7J) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d287779de0a37b217bc2f7e8" alt="" width="50" /> | Equilibrium                                  | [🔗](https://open.spotify.com/album/6BeTGjWVDQLQhdSM5MBziy) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734c29cb8d443b45f43e78e9f5" alt="" width="50" /> | Encore                                       | [🔗](https://open.spotify.com/album/1AN2Vv5PecNjJEmzys8Gru) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b412efc7cf36157f45463837" alt="" width="50" /> | Disturbia                                    | [🔗](https://open.spotify.com/album/3ypmasyBX16BmWt52owYaN) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d19c9f2ae59824a13812de12" alt="" width="50" /> | Defrosted                                    | [🔗](https://open.spotify.com/album/3DLNakCGffrhPaaj9rfepk) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273720cef48a476da39b3bd2a4e" alt="" width="50" /> | Circle Of Life                               | [🔗](https://open.spotify.com/album/3W9Uo4nvI281sjlEIrR6z6) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273289f002ddb42e30363a0d445" alt="" width="50" /> | Christmas Is Here!                           | [🔗](https://open.spotify.com/album/6thZNGX8hUVSjUrqJgPB9b) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273480fc6e065aa8b15bd01485d" alt="" width="50" /> | Burn                                         | [🔗](https://open.spotify.com/album/1fcocQi9SDelG4xiE3d7yQ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273acd107057c2284c39f1c3b27" alt="" width="50" /> | Best of BOCA: The First 20 Years             | [🔗](https://open.spotify.com/album/5bcLIouxn2oBiGvf4vvO6u) |
@@ -177,11 +172,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 28 record labels](../images/genres/a_cappella/labels.png)
+![Bar chart of top 25 record labels](../images/genres/a_cappella/labels.png)
 
 
 <details>
-<summary>See all 28 labels</summary>
+<summary>See all 25 labels</summary>
 
 |   Number of Tracks | Label                                                                                                       |
 |-------------------:|:------------------------------------------------------------------------------------------------------------|
@@ -195,7 +190,6 @@
 |                  6 | [Tar Heel Voices](../labels/tar_heel_voices.md)                                                             |
 |                  6 | [Naked Voice Records](../labels/naked_voice_records.md)                                                     |
 |                  5 | [The Loreleis](../labels/the_loreleis.md)                                                                   |
-|                  4 | [Warner Classics](../labels/warner_classics.md)                                                             |
 |                  4 | [The Nor'easters](../labels/the_nor_easters.md)                                                             |
 |                  4 | [SwingCD](../labels/swingcd.md)                                                                             |
 |                  4 | [649668 Records DK2](../labels/649668_records_dk2.md)                                                       |
@@ -206,11 +200,9 @@
 |                  2 | [The University of Rochester Midnight Ramblers](../labels/the_university_of_rochester_midnight_ramblers.md) |
 |                  2 | [The Clef Hangers](../labels/the_clef_hangers.md)                                                           |
 |                  2 | [SoCal VoCals](../labels/socal_vocals.md)                                                                   |
-|                  2 | [Signum Records](../labels/signum_records.md)                                                               |
 |                  1 | [Uncle Buford Records](../labels/uncle_buford_records.md)                                                   |
 |                  1 | [Sonoton Music](../labels/sonoton_music.md)                                                                 |
 |                  1 | [Signum OMP](../labels/signum_omp.md)                                                                       |
-|                  1 | [RCA Victor - Munich](../labels/rca_victor___munich.md)                                                     |
 |                  1 | [Loudr](../labels/loudr.md)                                                                                 |
 |                  1 | [Atlantic Records](../labels/atlantic_records.md)                                                           |
 
@@ -219,70 +211,70 @@
 
 ## Audio Features
 
-| 10 most Danceable tracks       | 10 least Danceable tracks      |
-|:-------------------------------|:-------------------------------|
-| Uptown Funk                    | Wait It Out                    |
-| Problem                        | Walking in the Air             |
-| La Camisa Negra                | Falling Slowly                 |
-| Rather Be (Clean Bandit Cover) | We Found Love                  |
-| Toxic                          | Lullabye (Goodnight My Angel)  |
-| Finesse                        | Shenandoah - Arr. Bob Chilcott |
-| Telephone                      | Bluebird                       |
-| Can't Sleep Love (feat. Tink)  | The Music of the Night         |
-| Can't Sleep Love               | Greensleeves                   |
-| Havana                         | Bring Him Home                 |
+| 10 most Danceable tracks       | 10 least Danceable tracks   |
+|:-------------------------------|:----------------------------|
+| Uptown Funk                    | The Sound of Silence        |
+| Problem                        | The Man Who Can't Be Moved  |
+| La Camisa Negra                | Gravity                     |
+| Rather Be (Clean Bandit Cover) | Wait It Out                 |
+| Toxic                          | Walking in the Air          |
+| Finesse                        | Falling Slowly              |
+| Telephone                      | We Found Love               |
+| Can't Sleep Love (feat. Tink)  | Bluebird                    |
+| Can't Sleep Love               | The Music of the Night      |
+| Havana                         | Bring Him Home              |
 
-| 10 most Energetic tracks   | 10 least Energetic tracks      |
-|:---------------------------|:-------------------------------|
-| Misery Business            | River                          |
-| Don't Stop Me Now          | Amazing Grace                  |
-| Elastic Heart              | Greensleeves                   |
-| Russian Roulette           | Run to You                     |
-| Finesse                    | Woods                          |
-| Telephone                  | Scarborough Fair               |
-| Finesse - Remix            | Lullabye (Goodnight My Angel)  |
-| My Happy Ending            | Shenandoah - Arr. Bob Chilcott |
-| Bang Bang                  | Danny Boy                      |
-| Don't Stop Believin'       | Loch Lomond                    |
+| 10 most Energetic tracks   | 10 least Energetic tracks     |
+|:---------------------------|:------------------------------|
+| Misery Business            | Santa Baby                    |
+| Don't Stop Me Now          | The Sound of Silence          |
+| Elastic Heart              | The Music of the Night        |
+| Russian Roulette           | Bring Him Home                |
+| Finesse                    | Lullabye (Goodnight My Angel) |
+| Telephone                  | Walking in the Air            |
+| Finesse - Remix            | River                         |
+| My Happy Ending            | Amazing Grace                 |
+| Bang Bang                  | Run to You                    |
+| Don't Stop Believin'       | Woods                         |
 
 | 10 most Speechy tracks                    | 10 least Speechy tracks   |
 |:------------------------------------------|:--------------------------|
 | Hey Momma / Hit the Road Jack             | Falling Slowly            |
-| Uptown Funk                               | Good Vibrations           |
-| Bang Bang                                 | Cough Syrup               |
+| Uptown Funk                               | Cough Syrup               |
+| Bang Bang                                 | Good Vibrations           |
 | Don't Stop Me Now                         | Latch                     |
 | I'd Like To                               | Demons                    |
-| Cry Me a River                            | We All Need Saving        |
-| Movin' On                                 | The Sound of Silence      |
+| Cry Me a River                            | The Sound of Silence      |
+| Movin' On                                 | We All Need Saving        |
 | Waka Waka (This Time for Africa)          | Machine Gun               |
 | Attention                                 | Samson                    |
 | Too Close (feat. Roxorloops & Blady Kris) | We Found Love             |
 
-| 10 most Acoustic tracks        | 10 least Acoustic tracks      |
-|:-------------------------------|:------------------------------|
-| Lullabye (Goodnight My Angel)  | Hey Momma / Hit the Road Jack |
-| Shenandoah - Arr. Bob Chilcott | Wrecking Ball                 |
-| Amazing Grace                  | Problem                       |
-| Bring Him Home                 | We Are Young                  |
-| Lullabye (Goodnight My Angel)  | Starships                     |
-| Walking in the Air             | Talk Dirty                    |
-| Greensleeves                   | Domino                        |
-| Bluebird                       | The Baddest Girl              |
-| Demons                         | Daft Punk                     |
-| Prelude No.1 in C Major        | I Need Your Love              |
+| 10 most Acoustic tracks       | 10 least Acoustic tracks      |
+|:------------------------------|:------------------------------|
+| Lullabye (Goodnight My Angel) | Hey Momma / Hit the Road Jack |
+| Amazing Grace                 | Wrecking Ball                 |
+| Bring Him Home                | Problem                       |
+| Walking in the Air            | We Are Young                  |
+| Prelude No.1 in C Major       | Starships                     |
+| Demons                        | Talk Dirty                    |
+| Bluebird                      | Domino                        |
+| The Music of the Night        | The Baddest Girl              |
+| I Wanna Be Like You           | Daft Punk                     |
+| Good Vibrations               | I Need Your Love              |
 
-| 10 most Instrumental tracks    | 10 least Instrumental tracks   |
-|:-------------------------------|:-------------------------------|
-| Prelude No.1 in C Major        | Little Lion Man                |
-| Libertango                     | We All Need Saving             |
-| Eine kleine Nachtmusik         | Sincerely Jane                 |
-| Lullabye (Goodnight My Angel)  | Honeybee                       |
-| Dance of the Sugar Plum Fairy  | Radioactive Love               |
-| Here (In Your Arms)            | Apologize                      |
-| Falling Slowly                 | She Used to Be Mine            |
-| Greensleeves                   | Bird Set Free                  |
-| Shenandoah - Arr. Bob Chilcott | La Camisa Negra                |
-| Home                           | Title of the Song              |
+| 10 most Instrumental tracks   | 10 least Instrumental tracks   |
+|:------------------------------|:-------------------------------|
+| Prelude No.1 in C Major       | Pure Imagination               |
+| Libertango                    | Sincerely Jane                 |
+| Eine kleine Nachtmusik        | Movin' On                      |
+| Dance of the Sugar Plum Fairy | Stay                           |
+| Here (In Your Arms)           | Work Song                      |
+| Falling Slowly                | Carry On Wayward Son           |
+| Home                          | Smooth                         |
+| God Only Knows                | Little Lion Man                |
+| Walking in the Air            | We All Need Saving             |
+| Break Free                    | Chandelier                     |
 
 | 10 most Live tracks     | 10 least Live tracks                               |
 |:------------------------|:---------------------------------------------------|
@@ -297,15 +289,15 @@
 | Let It Go               | Bang Bang                                          |
 | Supermassive Black Hole | Paranoid Android                                   |
 
-| 10 most Happy tracks    | 10 least Happy tracks          |
-|:------------------------|:-------------------------------|
-| Big Yellow Taxi         | We Found Love                  |
-| I Want You Back         | Say Something                  |
-| Attention               | Danny Boy                      |
-| Finesse                 | Lullabye (Goodnight My Angel)  |
-| Na Na Na                | Lullabye (Goodnight My Angel)  |
-| Domino                  | Loch Lomond                    |
-| Smooth                  | The Music of the Night         |
-| Toxic                   | The Sound of Silence           |
-| I'd Like To             | Bring Him Home                 |
-| Supermassive Black Hole | Shenandoah - Arr. Bob Chilcott |
+| 10 most Happy tracks    | 10 least Happy tracks         |
+|:------------------------|:------------------------------|
+| Big Yellow Taxi         | Latch                         |
+| I Want You Back         | She Used to Be Mine           |
+| Attention               | Walking in the Air            |
+| Finesse                 | Gravity                       |
+| Na Na Na                | We Found Love                 |
+| Domino                  | Say Something                 |
+| Smooth                  | Lullabye (Goodnight My Angel) |
+| Toxic                   | The Music of the Night        |
+| I'd Like To             | The Sound of Silence          |
+| Supermassive Black Hole | Bring Him Home                |

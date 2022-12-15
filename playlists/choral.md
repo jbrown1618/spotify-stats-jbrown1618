@@ -129,11 +129,11 @@
 
 ## Genres
 
-![Bar chart of top 27 genres](../images/playlists/choral/genres.png)
+![Bar chart of top 26 genres](../images/playlists/choral/genres.png)
 
 
 <details>
-<summary>See all 27 genres</summary>
+<summary>See all 26 genres</summary>
 
 |   Number of Tracks | Genre                                                   |
 |-------------------:|:--------------------------------------------------------|
@@ -154,7 +154,6 @@
 |                  4 | [early music](../genres/early_music.md)                 |
 |                  4 | cambridge choir                                         |
 |                  4 | british choir                                           |
-|                  4 | [a cappella](../genres/a_cappella.md)                   |
 |                  2 | italian renaissance                                     |
 |                  2 | english baroque                                         |
 |                  2 | [baroque](../genres/baroque.md)                         |
