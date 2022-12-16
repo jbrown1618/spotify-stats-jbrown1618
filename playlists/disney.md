@@ -147,108 +147,107 @@
 
 ## Genres
 
-![Bar chart of top 30 genres](../images/playlists/disney/genres.png)
+![Bar chart of top 29 genres](../images/playlists/disney/genres.png)
 
 
 <details>
-<summary>See all 30 genres</summary>
+<summary>See all 29 genres</summary>
 
-|   Number of Tracks | Genre                                               |
-|-------------------:|:----------------------------------------------------|
-|                 35 | movie tunes                                         |
-|                 22 | [hollywood](../genres/hollywood.md)                 |
-|                 21 | disney                                              |
-|                 16 | [show tunes](../genres/show_tunes.md)               |
-|                  5 | tagalog worship                                     |
-|                  2 | [post-teen pop](../genres/post_teen_pop.md)         |
-|                  2 | [dance pop](../genres/dance_pop.md)                 |
-|                  2 | comedy                                              |
-|                  2 | [adult standards](../genres/adult_standards.md)     |
-|                  1 | vocal jazz                                          |
-|                  1 | swing                                               |
-|                  1 | soul                                                |
-|                  1 | [singer-songwriter](../genres/singer_songwriter.md) |
-|                  1 | roots rock                                          |
-|                  1 | piano blues                                         |
-|                  1 | new orleans blues                                   |
-|                  1 | lounge                                              |
-|                  1 | louisiana blues                                     |
-|                  1 | jump blues                                          |
-|                  1 | jazz blues                                          |
-|                  1 | funk                                                |
-|                  1 | folk rock                                           |
-|                  1 | folk                                                |
-|                  1 | electric blues                                      |
-|                  1 | country rock                                        |
-|                  1 | classic uk pop                                      |
-|                  1 | bubblegum pop                                       |
-|                  1 | [broadway](../genres/broadway.md)                   |
-|                  1 | blues rock                                          |
-|                  1 | blues                                               |
+|   Number of Tracks | Genre                                           |
+|-------------------:|:------------------------------------------------|
+|                 35 | movie tunes                                     |
+|                 22 | [hollywood](../genres/hollywood.md)             |
+|                 21 | disney                                          |
+|                 16 | [show tunes](../genres/show_tunes.md)           |
+|                  5 | tagalog worship                                 |
+|                  2 | [post-teen pop](../genres/post_teen_pop.md)     |
+|                  2 | [dance pop](../genres/dance_pop.md)             |
+|                  2 | comedy                                          |
+|                  2 | [adult standards](../genres/adult_standards.md) |
+|                  1 | vocal jazz                                      |
+|                  1 | swing                                           |
+|                  1 | soul                                            |
+|                  1 | roots rock                                      |
+|                  1 | piano blues                                     |
+|                  1 | new orleans blues                               |
+|                  1 | lounge                                          |
+|                  1 | louisiana blues                                 |
+|                  1 | jump blues                                      |
+|                  1 | jazz blues                                      |
+|                  1 | funk                                            |
+|                  1 | folk rock                                       |
+|                  1 | folk                                            |
+|                  1 | electric blues                                  |
+|                  1 | country rock                                    |
+|                  1 | classic uk pop                                  |
+|                  1 | bubblegum pop                                   |
+|                  1 | [broadway](../genres/broadway.md)               |
+|                  1 | blues rock                                      |
+|                  1 | blues                                           |
 
 </details>
 
 
 ## Audio Features
 
-| 10 most Danceable tracks                                               | 10 least Danceable tracks                                                         |
-|:-----------------------------------------------------------------------|:----------------------------------------------------------------------------------|
-| The Bare Necessities                                                   | A Whole New World                                                                 |
-| I Wan'na Be Like You (The Monkey Song)                                 | I See the Light - From "Tangled" / Soundtrack Version                             |
-| Love Is an Open Door - From "Frozen"/Soundtrack Version                | Part of Your World                                                                |
-| Be Prepared - From "The Lion King" / Soundtrack Version                | Colors of the Wind - From "Pocahontas" / Soundtrack Version                       |
-| Down in New Orleans                                                    | A Dream Is a Wish Your Heart Makes                                                |
-| I Just Can't Wait to Be King - From "The Lion King"/Soundtrack Version | Reflection                                                                        |
-| When Will My Life Begin? - From "Tangled" / Soundtrack Version         | Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version           |
-| I'll Make a Man Out of You                                             | An Unusual Prince / Once Upon A Dream - From "Sleeping Beauty"/Soundtrack Version |
-| Kiss the Girl                                                          | Heaven's Light/Hellfire                                                           |
-| Gaston - From "Beauty and the Beast" / Soundtrack Version              | God Help the Outcasts                                                             |
+| 10 most Danceable tracks                                       | 10 least Danceable tracks                                                         |
+|:---------------------------------------------------------------|:----------------------------------------------------------------------------------|
+| The Bare Necessities                                           | A Whole New World                                                                 |
+| I Wan'na Be Like You (The Monkey Song)                         | I See the Light - From "Tangled" / Soundtrack Version                             |
+| Love Is an Open Door - From "Frozen"/Soundtrack Version        | Part of Your World                                                                |
+| Be Prepared - From "The Lion King" / Soundtrack Version        | Colors of the Wind - From "Pocahontas" / Soundtrack Version                       |
+| Down in New Orleans                                            | A Dream Is a Wish Your Heart Makes                                                |
+| I Just Can't Wait to Be King - From "The Lion King" Soundtrack | Reflection                                                                        |
+| When Will My Life Begin? - From "Tangled" / Soundtrack Version | Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version           |
+| I'll Make a Man Out of You                                     | An Unusual Prince / Once Upon A Dream - From "Sleeping Beauty"/Soundtrack Version |
+| Kiss the Girl                                                  | Heaven's Light/Hellfire                                                           |
+| Gaston - From "Beauty and the Beast" / Soundtrack Version      | God Help the Outcasts                                                             |
 
-| 10 most Energetic tracks                                               | 10 least Energetic tracks                                                 |
-|:-----------------------------------------------------------------------|:--------------------------------------------------------------------------|
-| Down in New Orleans                                                    | A Dream Is a Wish Your Heart Makes                                        |
-| Love Is an Open Door - From "Frozen"/Soundtrack Version                | Colors of the Wind - From "Pocahontas" / Soundtrack Version               |
-| Friends on the Other Side                                              | Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version   |
-| Gaston - From "Beauty and the Beast" / Soundtrack Version              | Heaven's Light/Hellfire                                                   |
-| Bibbidi-Bobbidi-Boo - From "Cinderella"                                | Part of Your World                                                        |
-| I Just Can't Wait to Be King - From "The Lion King"/Soundtrack Version | I See the Light - From "Tangled" / Soundtrack Version                     |
-| Let It Go - From "Frozen"/Soundtrack Version                           | Can You Feel the Love Tonight - From "The Lion King" / Soundtrack Version |
-| Friend Like Me                                                         | Do You Want to Build a Snowman? - From "Frozen"/Soundtrack Version        |
-| Under the Sea                                                          | God Help the Outcasts                                                     |
-| Prince Ali                                                             | Remember Me (Lullaby)                                                     |
+| 10 most Energetic tracks                                       | 10 least Energetic tracks                                                 |
+|:---------------------------------------------------------------|:--------------------------------------------------------------------------|
+| Down in New Orleans                                            | A Dream Is a Wish Your Heart Makes                                        |
+| Love Is an Open Door - From "Frozen"/Soundtrack Version        | Colors of the Wind - From "Pocahontas" / Soundtrack Version               |
+| Friends on the Other Side                                      | Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version   |
+| Gaston - From "Beauty and the Beast" / Soundtrack Version      | Heaven's Light/Hellfire                                                   |
+| Bibbidi-Bobbidi-Boo - From "Cinderella" Soundtrack             | Part of Your World                                                        |
+| I Just Can't Wait to Be King - From "The Lion King" Soundtrack | I See the Light - From "Tangled" / Soundtrack Version                     |
+| Let It Go - From "Frozen"/Soundtrack Version                   | Can You Feel the Love Tonight - From "The Lion King" / Soundtrack Version |
+| Friend Like Me                                                 | Do You Want to Build a Snowman? - From "Frozen"/Soundtrack Version        |
+| Under the Sea                                                  | God Help the Outcasts                                                     |
+| Prince Ali                                                     | Remember Me (Lullaby)                                                     |
 
 | 10 most Speechy tracks                                       | 10 least Speechy tracks                                                           |
 |:-------------------------------------------------------------|:----------------------------------------------------------------------------------|
 | Who's Afraid of the Big, Bad Wolf - From "Three Little Pigs" | Reflection                                                                        |
 | Les Poissons                                                 | Something There - From "Beauty and the Beast"/Soundtrack Version                  |
-| Be Our Guest - From "Beauty and the Beast"/Soundtrack        | A Whole New World                                                                 |
+| Be Our Guest - From "Beauty And The Beast" Soundtrack        | A Whole New World                                                                 |
 | Mother Knows Best - From "Tangled"/Soundtrack Version        | An Unusual Prince / Once Upon A Dream - From "Sleeping Beauty"/Soundtrack Version |
 | Under the Sea                                                | Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version           |
 | Friend Like Me                                               | For the First Time in Forever - From "Frozen"/Soundtrack Version                  |
 | Gaston - From "Beauty and the Beast" / Soundtrack Version    | I'll Make a Man Out of You                                                        |
-| Hakuna Matata - From "The Lion King"/Soundtrack              | When Will My Life Begin? - From "Tangled" / Soundtrack Version                    |
+| Hakuna Matata - From "The Lion King" Soundtrack              | When Will My Life Begin? - From "Tangled" / Soundtrack Version                    |
 | One Jump Ahead                                               | Let It Go - From "Frozen"/Soundtrack Version                                      |
 | Belle - From "Beauty and the Beast"/Soundtrack Version       | I See the Light - From "Tangled" / Soundtrack Version                             |
 
-| 10 most Acoustic tracks                                                           | 10 least Acoustic tracks                                               |
-|:----------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
-| Cruella De Vil - From "101 Dalmatians"/Soundtrack Version                         | A Girl Worth Fighting For                                              |
-| An Unusual Prince / Once Upon A Dream - From "Sleeping Beauty"/Soundtrack Version | Let It Go - From "Frozen"/Soundtrack Version                           |
-| A Dream Is a Wish Your Heart Makes                                                | Honor To Us All                                                        |
-| Bibbidi-Bobbidi-Boo - From "Cinderella"                                           | One Jump Ahead                                                         |
-| Who's Afraid of the Big, Bad Wolf - From "Three Little Pigs"                      | I Just Can't Wait to Be King - From "The Lion King"/Soundtrack Version |
-| Colors of the Wind - From "Pocahontas" / Soundtrack Version                       | Be Prepared - From "The Lion King" / Soundtrack Version                |
-| God Help the Outcasts                                                             | Love Is an Open Door - From "Frozen"/Soundtrack Version                |
-| Remember Me (Lullaby)                                                             | I'll Make a Man Out of You                                             |
-| Part of Your World                                                                | When Will My Life Begin? - From "Tangled" / Soundtrack Version         |
-| Just Around the Riverbend - From "Pocahontas" / Soundtrack Version                | Circle of Life - From "The Lion King"/ Soundtrack                      |
+| 10 most Acoustic tracks                                                           | 10 least Acoustic tracks                                       |
+|:----------------------------------------------------------------------------------|:---------------------------------------------------------------|
+| Cruella De Vil - From "101 Dalmatians"/Soundtrack Version                         | A Girl Worth Fighting For                                      |
+| An Unusual Prince / Once Upon A Dream - From "Sleeping Beauty"/Soundtrack Version | Let It Go - From "Frozen"/Soundtrack Version                   |
+| A Dream Is a Wish Your Heart Makes                                                | Honor To Us All                                                |
+| Bibbidi-Bobbidi-Boo - From "Cinderella" Soundtrack                                | One Jump Ahead                                                 |
+| Who's Afraid of the Big, Bad Wolf - From "Three Little Pigs"                      | I Just Can't Wait to Be King - From "The Lion King" Soundtrack |
+| Colors of the Wind - From "Pocahontas" / Soundtrack Version                       | Be Prepared - From "The Lion King" / Soundtrack Version        |
+| God Help the Outcasts                                                             | Love Is an Open Door - From "Frozen"/Soundtrack Version        |
+| Remember Me (Lullaby)                                                             | I'll Make a Man Out of You                                     |
+| Part of Your World                                                                | When Will My Life Begin? - From "Tangled" / Soundtrack Version |
+| Just Around the Riverbend - From "Pocahontas" / Soundtrack Version                | Circle of Life - From "The Lion King" Soundtrack               |
 
 | 10 most Instrumental tracks                                                       | 10 least Instrumental tracks                                              |
 |:----------------------------------------------------------------------------------|:--------------------------------------------------------------------------|
 | Cruella De Vil - From "101 Dalmatians"/Soundtrack Version                         | Kiss the Girl                                                             |
 | Reflection                                                                        | Can You Feel the Love Tonight - From "The Lion King" / Soundtrack Version |
 | An Unusual Prince / Once Upon A Dream - From "Sleeping Beauty"/Soundtrack Version | One Jump Ahead                                                            |
-| Who's Afraid of the Big, Bad Wolf - From "Three Little Pigs"                      | Be Our Guest - From "Beauty and the Beast"/Soundtrack                     |
+| Who's Afraid of the Big, Bad Wolf - From "Three Little Pigs"                      | Be Our Guest - From "Beauty And The Beast" Soundtrack                     |
 | Colors of the Wind - From "Pocahontas" / Soundtrack Version                       | I See the Light - From "Tangled" / Soundtrack Version                     |
 | Reflection                                                                        | How Far I'll Go                                                           |
 | Into the Unknown                                                                  | Under the Sea                                                             |
@@ -261,23 +260,23 @@
 | One Jump Ahead                                                            | Who's Afraid of the Big, Bad Wolf - From "Three Little Pigs"   |
 | Reflection                                                                | When Will My Life Begin? - From "Tangled" / Soundtrack Version |
 | Friend Like Me                                                            | Cruella De Vil - From "101 Dalmatians"/Soundtrack Version      |
-| Can You Feel the Love Tonight - From "The Lion King" / Soundtrack Version | Be Our Guest - From "Beauty and the Beast"/Soundtrack          |
+| Can You Feel the Love Tonight - From "The Lion King" / Soundtrack Version | Be Our Guest - From "Beauty And The Beast" Soundtrack          |
 | Friends on the Other Side                                                 | Out There                                                      |
 | Poor Unfortunate Souls                                                    | I'll Make a Man Out of You                                     |
 | Reflection                                                                | God Help the Outcasts                                          |
 | Love Is an Open Door - From "Frozen"/Soundtrack Version                   | I See the Light - From "Tangled" / Soundtrack Version          |
-| Circle of Life - From "The Lion King"/ Soundtrack                         | Heaven's Light/Hellfire                                        |
+| Circle of Life - From "The Lion King" Soundtrack                          | Heaven's Light/Hellfire                                        |
 | Part of Your World                                                        | Mother Knows Best - From "Tangled"/Soundtrack Version          |
 
-| 10 most Happy tracks                                                   | 10 least Happy tracks                                                   |
-|:-----------------------------------------------------------------------|:------------------------------------------------------------------------|
-| I Just Can't Wait to Be King - From "The Lion King"/Soundtrack Version | Out There                                                               |
-| Bibbidi-Bobbidi-Boo - From "Cinderella"                                | Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version |
-| A Girl Worth Fighting For                                              | I See the Light - From "Tangled" / Soundtrack Version                   |
-| Under the Sea                                                          | Do You Want to Build a Snowman? - From "Frozen"/Soundtrack Version      |
-| I Wan'na Be Like You (The Monkey Song)                                 | A Dream Is a Wish Your Heart Makes                                      |
-| Hakuna Matata - From "The Lion King"/Soundtrack                        | God Help the Outcasts                                                   |
-| Kiss the Girl                                                          | A Whole New World                                                       |
-| Down in New Orleans                                                    | Heaven's Light/Hellfire                                                 |
-| One Jump Ahead                                                         | How Far I'll Go                                                         |
-| Les Poissons                                                           | Reflection                                                              |
+| 10 most Happy tracks                                           | 10 least Happy tracks                                                   |
+|:---------------------------------------------------------------|:------------------------------------------------------------------------|
+| I Just Can't Wait to Be King - From "The Lion King" Soundtrack | Out There                                                               |
+| Bibbidi-Bobbidi-Boo - From "Cinderella" Soundtrack             | Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version |
+| A Girl Worth Fighting For                                      | I See the Light - From "Tangled" / Soundtrack Version                   |
+| Under the Sea                                                  | Do You Want to Build a Snowman? - From "Frozen"/Soundtrack Version      |
+| I Wan'na Be Like You (The Monkey Song)                         | A Dream Is a Wish Your Heart Makes                                      |
+| Hakuna Matata - From "The Lion King" Soundtrack                | God Help the Outcasts                                                   |
+| Kiss the Girl                                                  | A Whole New World                                                       |
+| Down in New Orleans                                            | Heaven's Light/Hellfire                                                 |
+| One Jump Ahead                                                 | How Far I'll Go                                                         |
+| Les Poissons                                                   | Reflection                                                              |

@@ -370,13 +370,13 @@
 |                 44 | [hollywood](../genres/hollywood.md)                 |
 |                 42 | [mellow gold](../genres/mellow_gold.md)             |
 |                 36 | [post-teen pop](../genres/post_teen_pop.md)         |
-|                 33 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                 32 | [soft rock](../genres/soft_rock.md)                 |
 |                 32 | [electropop](../genres/electropop.md)               |
 |                 30 | [psychedelic rock](../genres/psychedelic_rock.md)   |
 |                 30 | british invasion                                    |
 |                 30 | [art pop](../genres/art_pop.md)                     |
 |                 26 | [r&b](../genres/r_b.md)                             |
+|                 25 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                 25 | piano rock                                          |
 |                 23 | korean pop                                          |
 |                 23 | beatlesque                                          |
@@ -398,7 +398,6 @@
 |                 15 | pop rap                                             |
 |                 15 | k-rap                                               |
 |                 14 | uk alternative pop                                  |
-|                 14 | soul                                                |
 |                 14 | neo soul                                            |
 |                 14 | metropopolis                                        |
 |                 14 | melancholia                                         |
@@ -406,6 +405,7 @@
 |                 14 | baroque pop                                         |
 |                 13 | glam rock                                           |
 |                 13 | canadian pop                                        |
+|                 12 | soul                                                |
 |                 12 | rap                                                 |
 |                 12 | australian pop                                      |
 |                 12 | atl hip hop                                         |
@@ -415,6 +415,7 @@
 |                 10 | alternative rock                                    |
 |                  9 | oxford indie                                        |
 |                  9 | lounge                                              |
+|                  9 | anti-folk                                           |
 |                  8 | tropical house                                      |
 |                  8 | latin pop                                           |
 |                  8 | korean city pop                                     |
@@ -423,7 +424,7 @@
 |                  8 | blues rock                                          |
 |                  8 | bergen indie                                        |
 |                  8 | australian dance                                    |
-|                  7 | viral pop                                           |
+|                  7 | [viral pop](../genres/viral_pop.md)                 |
 |                  7 | pop dance                                           |
 |                  7 | kawaii metal                                        |
 |                  7 | j-pop                                               |
@@ -449,7 +450,6 @@
 |                  5 | uk funky                                            |
 |                  5 | uk dance                                            |
 |                  5 | jazz pop                                            |
-|                  5 | anti-folk                                           |
 |                  5 | afrofuturism                                        |
 |                  4 | yacht rock                                          |
 |                  4 | vocal jazz                                          |

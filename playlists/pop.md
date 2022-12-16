@@ -379,7 +379,7 @@
 |                 10 | canadian pop                                    |
 |                 10 | barbadian pop                                   |
 |                 10 | [acoustic pop](../genres/acoustic_pop.md)       |
-|                  9 | viral pop                                       |
+|                  9 | [viral pop](../genres/viral_pop.md)             |
 |                  9 | pop dance                                       |
 |                  8 | uk dance                                        |
 |                  8 | tropical house                                  |

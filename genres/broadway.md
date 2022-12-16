@@ -183,7 +183,7 @@
 | 10 most Happy tracks                            | 10 least Happy tracks                                                                |
 |:------------------------------------------------|:-------------------------------------------------------------------------------------|
 | The Adams Administration                        | Overture                                                                             |
-| Hakuna Matata - From "The Lion King"/Soundtrack | The Point Of No Return                                                               |
+| Hakuna Matata - From "The Lion King" Soundtrack | The Point Of No Return                                                               |
 | A Winter's Ball                                 | Why Have You Brought Me Here                                                         |
 | Blow Us All Away                                | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture |
 | Your Obedient Servant                           | All I Ask Of You - Reprise                                                           |

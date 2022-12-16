@@ -128,44 +128,43 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 30 genres](../images/labels/walt_disney_records/genres.png)
+![Bar chart of top 29 genres](../images/labels/walt_disney_records/genres.png)
 
 
 <details>
-<summary>See all 30 genres</summary>
+<summary>See all 29 genres</summary>
 
-|   Number of Tracks | Genre                                               |
-|-------------------:|:----------------------------------------------------|
-|                 34 | movie tunes                                         |
-|                 21 | [hollywood](../genres/hollywood.md)                 |
-|                 21 | disney                                              |
-|                 15 | [show tunes](../genres/show_tunes.md)               |
-|                  4 | tagalog worship                                     |
-|                  2 | [post-teen pop](../genres/post_teen_pop.md)         |
-|                  2 | [dance pop](../genres/dance_pop.md)                 |
-|                  2 | comedy                                              |
-|                  2 | [adult standards](../genres/adult_standards.md)     |
-|                  1 | vocal jazz                                          |
-|                  1 | swing                                               |
-|                  1 | soul                                                |
-|                  1 | [singer-songwriter](../genres/singer_songwriter.md) |
-|                  1 | roots rock                                          |
-|                  1 | piano blues                                         |
-|                  1 | new orleans blues                                   |
-|                  1 | lounge                                              |
-|                  1 | louisiana blues                                     |
-|                  1 | jump blues                                          |
-|                  1 | jazz blues                                          |
-|                  1 | funk                                                |
-|                  1 | folk rock                                           |
-|                  1 | folk                                                |
-|                  1 | electric blues                                      |
-|                  1 | country rock                                        |
-|                  1 | classic uk pop                                      |
-|                  1 | bubblegum pop                                       |
-|                  1 | [broadway](../genres/broadway.md)                   |
-|                  1 | blues rock                                          |
-|                  1 | blues                                               |
+|   Number of Tracks | Genre                                           |
+|-------------------:|:------------------------------------------------|
+|                 34 | movie tunes                                     |
+|                 21 | [hollywood](../genres/hollywood.md)             |
+|                 21 | disney                                          |
+|                 15 | [show tunes](../genres/show_tunes.md)           |
+|                  4 | tagalog worship                                 |
+|                  2 | [post-teen pop](../genres/post_teen_pop.md)     |
+|                  2 | [dance pop](../genres/dance_pop.md)             |
+|                  2 | comedy                                          |
+|                  2 | [adult standards](../genres/adult_standards.md) |
+|                  1 | vocal jazz                                      |
+|                  1 | swing                                           |
+|                  1 | soul                                            |
+|                  1 | roots rock                                      |
+|                  1 | piano blues                                     |
+|                  1 | new orleans blues                               |
+|                  1 | lounge                                          |
+|                  1 | louisiana blues                                 |
+|                  1 | jump blues                                      |
+|                  1 | jazz blues                                      |
+|                  1 | funk                                            |
+|                  1 | folk rock                                       |
+|                  1 | folk                                            |
+|                  1 | electric blues                                  |
+|                  1 | country rock                                    |
+|                  1 | classic uk pop                                  |
+|                  1 | bubblegum pop                                   |
+|                  1 | [broadway](../genres/broadway.md)               |
+|                  1 | blues rock                                      |
+|                  1 | blues                                           |
 
 </details>
 
@@ -174,13 +173,13 @@ Appears as:
 
 | Art                                                                                              | Track                                                                             | Album                                                                            | Artists                                                                                                       | Label                                         | 💚   | 🔗                                                          |
 |:-------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------|:----------------------------------------------|:----|:-----------------------------------------------------------|
-| <img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="" width="50" /> | Be Our Guest - From "Beauty and the Beast"/Soundtrack                             | Beauty and the Beast                                                             | Angela Lansbury, Jerry Orbach, Chorus - Beauty And the Beast, [Disney](../artists/disney.md)                  | [Walt Disney Records](walt_disney_records.md) |     | [🔗](https://open.spotify.com/track/6btdYzQ8eZFBrOlUKVHuz0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="" width="50" /> | Be Our Guest - From "Beauty And The Beast" Soundtrack                             | Beauty and the Beast                                                             | Angela Lansbury, Jerry Orbach, Chorus - Beauty And the Beast, [Disney](../artists/disney.md)                  | [Walt Disney Records](walt_disney_records.md) |     | [🔗](https://open.spotify.com/track/6btdYzQ8eZFBrOlUKVHuz0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="" width="50" /> | Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version           | Beauty and the Beast                                                             | Angela Lansbury, [Disney](../artists/disney.md)                                                               | [Walt Disney Records](walt_disney_records.md) |     | [🔗](https://open.spotify.com/track/2rJFFUEl1LURkV0b0OARXx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733505183cc0e24d2f7560174a" alt="" width="50" /> | How Far I'll Go                                                                   | Moana (Original Motion Picture Soundtrack/Deluxe Edition)                        | Auli'i Cravalho                                                                                               | [Walt Disney Records](walt_disney_records.md) |     | [🔗](https://open.spotify.com/track/6mb6lVLNrcUgLnEN8QnDJd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739734b880ec5742822e49db80" alt="" width="50" /> | Cruella De Vil - From "101 Dalmatians"/Soundtrack Version                         | 101 Dalmatians                                                                   | Bill Lee                                                                                                      | [Walt Disney Records](walt_disney_records.md) |     | [🔗](https://open.spotify.com/track/2tkIIkF3CPqsmYhsncNEGN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a4b92dcf7a5c51cc4f7424c" alt="" width="50" /> | One Jump Ahead                                                                    | Aladdin Special Edition                                                          | Brad Kane, [Disney](../artists/disney.md)                                                                     | [Walt Disney Records](walt_disney_records.md) |     | [🔗](https://open.spotify.com/track/69ZNzwrCGP6h5ewkJQWWaT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a4b92dcf7a5c51cc4f7424c" alt="" width="50" /> | Arabian Nights                                                                    | Aladdin Special Edition                                                          | Bruce Adler, [Disney](../artists/disney.md)                                                                   | [Walt Disney Records](walt_disney_records.md) |     | [🔗](https://open.spotify.com/track/31vVcYpecILSQ02PIGdqYi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | Circle of Life - From "The Lion King"/ Soundtrack                                 | The Lion King                                                                    | Carmen Twillie, Lebo M.                                                                                       | [Walt Disney Records](walt_disney_records.md) |     | [🔗](https://open.spotify.com/track/0HU5JnVaKNTWf6GykV9Zn8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | Circle of Life - From "The Lion King" Soundtrack                                  | The Lion King                                                                    | Carmen Twillie, Lebo M.                                                                                       | [Walt Disney Records](walt_disney_records.md) |     | [🔗](https://open.spotify.com/track/0HU5JnVaKNTWf6GykV9Zn8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a45790b93f47d427a2aefa9d" alt="" width="50" /> | The Bells of Notre Dame                                                           | The Hunchback Of Notre Dame (Original Motion Picture Soundtrack)                 | David Ogden Stiers, Tony Jay, Paul Kandel, Chorus - The Hunchback Of Notre Dame                               | [Walt Disney Records](walt_disney_records.md) |     | [🔗](https://open.spotify.com/track/47Wo2LeGbzdZTdEFNRZXV0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="" width="50" /> | Mother Knows Best - From "Tangled"/Soundtrack Version                             | Tangled                                                                          | Donna Murphy                                                                                                  | [Walt Disney Records](walt_disney_records.md) |     | [🔗](https://open.spotify.com/track/1lOSxJNCLvWm2bYaTcTSmK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc" alt="" width="50" /> | I'll Make a Man Out of You                                                        | Mulan (Original Soundtrack)                                                      | Donny Osmond, Chorus - Mulan, [Disney](../artists/disney.md)                                                  | [Walt Disney Records](walt_disney_records.md) |     | [🔗](https://open.spotify.com/track/28UMEtwyUUy5u0UWOVHwiI) |
@@ -190,7 +189,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="" width="50" /> | Let It Go - From "Frozen"/Soundtrack Version                                      | Frozen (Original Motion Picture Soundtrack / Deluxe Edition)                     | Idina Menzel                                                                                                  | [Walt Disney Records](walt_disney_records.md) |     | [🔗](https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736ff59d18c018a2845758deed" alt="" width="50" /> | Into the Unknown                                                                  | Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)                     | Idina Menzel, AURORA                                                                                          | [Walt Disney Records](walt_disney_records.md) |     | [🔗](https://open.spotify.com/track/3Z0oQ8r78OUaHvGPiDBR3W) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736b4d7353d778b84853751cda" alt="" width="50" /> | A Dream Is a Wish Your Heart Makes                                                | Cinderella Special Edition (Original Motion Picture Soundtrack/Japanese Version) | Ilene Woods, Mice Chorus                                                                                      | [Walt Disney Records](walt_disney_records.md) |     | [🔗](https://open.spotify.com/track/6PiTsEEiNYU9a9xXowi9i5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | I Just Can't Wait to Be King - From "The Lion King"/Soundtrack Version            | The Lion King                                                                    | Jason Weaver, Rowan Atkinson, Laura Williams                                                                  | [Walt Disney Records](walt_disney_records.md) |     | [🔗](https://open.spotify.com/track/0qxtQ8rf3W1nId3D2r0xH4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | I Just Can't Wait to Be King - From "The Lion King" Soundtrack                    | The Lion King                                                                    | Jason Weaver, Rowan Atkinson, Laura Williams                                                                  | [Walt Disney Records](walt_disney_records.md) |     | [🔗](https://open.spotify.com/track/0qxtQ8rf3W1nId3D2r0xH4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | Be Prepared - From "The Lion King" / Soundtrack Version                           | The Lion King                                                                    | Jeremy Irons, Whoopi Goldberg, Cheech Marin, Jim Cummings                                                     | [Walt Disney Records](walt_disney_records.md) |     | [🔗](https://open.spotify.com/track/34nxgXFCPzDphUJGuRsn10) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="" width="50" /> | Part of Your World                                                                | The Little Mermaid Special Edition                                               | Jodi Benson, [Disney](../artists/disney.md)                                                                   | [Walt Disney Records](walt_disney_records.md) |     | [🔗](https://open.spotify.com/track/7tUSJY4nsDBJTjd1UXKRsT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | Can You Feel the Love Tonight - From "The Lion King" / Soundtrack Version         | The Lion King                                                                    | Joseph Williams, Sally Dworsky, Nathan Lane, Ernie Sabella, Kristle Edwards                                   | [Walt Disney Records](walt_disney_records.md) |     | [🔗](https://open.spotify.com/track/5E8yddtSG3sH4hw2SfwcgW) |
@@ -208,7 +207,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="" width="50" /> | I See the Light - From "Tangled" / Soundtrack Version                             | Tangled                                                                          | Mandy Moore, Zachary Levi                                                                                     | [Walt Disney Records](walt_disney_records.md) |     | [🔗](https://open.spotify.com/track/6klpXs2uAjagnZMFkt4qkl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="" width="50" /> | When Will My Life Begin? - From "Tangled" / Soundtrack Version                    | Tangled                                                                          | Mandy Moore                                                                                                   | [Walt Disney Records](walt_disney_records.md) |     | [🔗](https://open.spotify.com/track/03xWMkKEbeO4SnylA53ipj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739a1b229fe1a132abf9599362" alt="" width="50" /> | An Unusual Prince / Once Upon A Dream - From "Sleeping Beauty"/Soundtrack Version | Sleeping Beauty                                                                  | Mary Costa, Bill Shirley, Chorus - Sleeping Beauty                                                            | [Walt Disney Records](walt_disney_records.md) |     | [🔗](https://open.spotify.com/track/5WKxcFnCO244tMnVElhFuk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | Hakuna Matata - From "The Lion King"/Soundtrack                                   | The Lion King                                                                    | Nathan Lane, Ernie Sabella, Jason Weaver, Joseph Williams                                                     | [Walt Disney Records](walt_disney_records.md) |     | [🔗](https://open.spotify.com/track/5k3U0OGYBccHdKJJu3HrUN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | Hakuna Matata - From "The Lion King" Soundtrack                                   | The Lion King                                                                    | Nathan Lane, Ernie Sabella, Jason Weaver, Joseph Williams                                                     | [Walt Disney Records](walt_disney_records.md) |     | [🔗](https://open.spotify.com/track/5k3U0OGYBccHdKJJu3HrUN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="" width="50" /> | Poor Unfortunate Souls                                                            | The Little Mermaid Special Edition                                               | Pat Carroll, [Disney](../artists/disney.md)                                                                   | [Walt Disney Records](walt_disney_records.md) |     | [🔗](https://open.spotify.com/track/7zsw78LtXUD7JfEwH64HK2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d897c1143b832479966b407d" alt="" width="50" /> | The Bare Necessities                                                              | The Jungle Book                                                                  | Phil Harris, Bruce Reitherman                                                                                 | [Walt Disney Records](walt_disney_records.md) |     | [🔗](https://open.spotify.com/track/7h5crXBSY5SSpXRIlklv74) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea64ccdfa35a32dddeaec8fc" alt="" width="50" /> | Who's Afraid of the Big, Bad Wolf - From "Three Little Pigs"                      | Disney's Greatest Vol. 3                                                         | Pinto Colvig, Mary Moder, Dorothy Compton, Billy Bletcher                                                     | [Walt Disney Records](walt_disney_records.md) |     | [🔗](https://open.spotify.com/track/4K1kR94TrMRoznMHBFaa3C) |
@@ -222,4 +221,4 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="" width="50" /> | Under the Sea                                                                     | The Little Mermaid Special Edition                                               | Samuel E. Wright, [Disney](../artists/disney.md)                                                              | [Walt Disney Records](walt_disney_records.md) |     | [🔗](https://open.spotify.com/track/6oYkwjI1TKP9D0Y9II1GT7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a45790b93f47d427a2aefa9d" alt="" width="50" /> | Heaven's Light/Hellfire                                                           | The Hunchback Of Notre Dame (Original Motion Picture Soundtrack)                 | Tony Jay, Tom Hulce, Chorus - The Hunchback Of Notre Dame                                                     | [Walt Disney Records](walt_disney_records.md) |     | [🔗](https://open.spotify.com/track/4rp9YObc6Q5xc6X1S8c7m9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a45790b93f47d427a2aefa9d" alt="" width="50" /> | Out There                                                                         | The Hunchback Of Notre Dame (Original Motion Picture Soundtrack)                 | Tony Jay, Tom Hulce                                                                                           | [Walt Disney Records](walt_disney_records.md) |     | [🔗](https://open.spotify.com/track/7cX2nwvVfWW3bfScg2f15K) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732a8b6ce34511614c9373f423" alt="" width="50" /> | Bibbidi-Bobbidi-Boo - From "Cinderella"                                           | Songs and Story: Cinderella                                                      | Verna Felton                                                                                                  | [Walt Disney Records](walt_disney_records.md) |     | [🔗](https://open.spotify.com/track/23Ypb2SLgeY2OQxfXHPKLN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732a8b6ce34511614c9373f423" alt="" width="50" /> | Bibbidi-Bobbidi-Boo - From "Cinderella" Soundtrack                                | Songs and Story: Cinderella                                                      | Verna Felton                                                                                                  | [Walt Disney Records](walt_disney_records.md) |     | [🔗](https://open.spotify.com/track/23Ypb2SLgeY2OQxfXHPKLN) |

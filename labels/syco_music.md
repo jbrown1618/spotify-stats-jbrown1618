@@ -62,7 +62,7 @@ Appears as:
 |                  9 | [post-teen pop](../genres/post_teen_pop.md) |
 |                  3 | talent show                                 |
 |                  3 | girl group                                  |
-|                  1 | viral pop                                   |
+|                  1 | [viral pop](../genres/viral_pop.md)         |
 |                  1 | uk pop                                      |
 |                  1 | canadian pop                                |
 

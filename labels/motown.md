@@ -62,8 +62,8 @@ Appears as:
 
 |   Number of Tracks | Genre                                           |
 |-------------------:|:------------------------------------------------|
-|                 13 | soul                                            |
 |                 12 | motown                                          |
+|                 10 | soul                                            |
 |                  8 | [adult standards](../genres/adult_standards.md) |
 |                  5 | quiet storm                                     |
 |                  5 | funk                                            |

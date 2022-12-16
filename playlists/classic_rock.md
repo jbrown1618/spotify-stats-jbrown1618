@@ -187,7 +187,6 @@
 |                 14 | glam rock                                           |
 |                 10 | art rock                                            |
 |                  9 | yacht rock                                          |
-|                  9 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  9 | folk rock                                           |
 |                  9 | blues rock                                          |
 |                  8 | metal                                               |
@@ -195,6 +194,7 @@
 |                  5 | country rock                                        |
 |                  4 | symphonic rock                                      |
 |                  4 | progressive rock                                    |
+|                  3 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  3 | roots rock                                          |
 |                  3 | folk                                                |
 |                  2 | uk doom metal                                       |

@@ -308,10 +308,11 @@
 |                 15 | permanent wave                                      |
 |                 15 | [electropop](../genres/electropop.md)               |
 |                 14 | indie rock                                          |
-|                 14 | alternative rock                                    |
 |                 13 | nz pop                                              |
 |                 13 | bergen indie                                        |
+|                 13 | alternative rock                                    |
 |                 11 | australian pop                                      |
+|                 11 | anti-folk                                           |
 |                 10 | [pop rock](../genres/pop_rock.md)                   |
 |                 10 | oxford indie                                        |
 |                 10 | metropopolis                                        |
@@ -320,8 +321,6 @@
 |                  9 | etherpop                                            |
 |                  8 | nyc pop                                             |
 |                  8 | australian dance                                    |
-|                  7 | anti-folk                                           |
-|                  6 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  6 | [neo mellow](../genres/neo_mellow.md)               |
 |                  6 | la indie                                            |
 |                  5 | uk funky                                            |
@@ -360,7 +359,7 @@
 |                  2 | canadian indie                                      |
 |                  2 | alternative metal                                   |
 |                  1 | visual kei                                          |
-|                  1 | viral pop                                           |
+|                  1 | [viral pop](../genres/viral_pop.md)                 |
 |                  1 | uk contemporary r&b                                 |
 |                  1 | swedish synthpop                                    |
 |                  1 | swedish pop                                         |
@@ -368,6 +367,7 @@
 |                  1 | swedish electropop                                  |
 |                  1 | swedish alternative rock                            |
 |                  1 | spacegrunge                                         |
+|                  1 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  1 | shimmer pop                                         |
 |                  1 | nu metal                                            |
 |                  1 | nu jazz                                             |

@@ -208,7 +208,7 @@
 |:------------------------------------------------------------------------|:-------------------------------------------------------------|
 | Yorktown (The World Turned Upside Down)                                 | Stay Alive - Reprise                                         |
 | I Know Him                                                              | Think Of Me - From 'The Phantom Of The Opera' Motion Picture |
-| Reflection                                                              | Be Our Guest - From "Beauty and the Beast"/Soundtrack        |
+| Reflection                                                              | Be Our Guest - From "Beauty And The Beast" Soundtrack        |
 | Stars                                                                   | It's Quiet Uptown                                            |
 | The Point Of No Return - From 'The Phantom Of The Opera' Motion Picture | Washington on Your Side                                      |
 | The Room Where It Happens                                               | All I Ask Of You - Reprise                                   |
@@ -226,6 +226,6 @@
 | The Schuyler Sisters                            | All I Ask Of You - Reprise                                                           |
 | The Adams Administration                        | I Remember / Stranger Than You Dreamt It                                             |
 | Helpless                                        | Down Once More / Track Down This Murderer                                            |
-| Hakuna Matata - From "The Lion King"/Soundtrack | Little Lotte / The Mirror (Angel Of Music)                                           |
+| Hakuna Matata - From "The Lion King" Soundtrack | Little Lotte / The Mirror (Angel Of Music)                                           |
 | Kiss the Girl                                   | Wandering Child / Bravo, Monsieur                                                    |
 | We Know                                         | Wishing You Were Somehow Here Again                                                  |
