@@ -48,7 +48,7 @@
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9996e5d7c5b769b2b26ff1a" alt="" width="50" /> | SUPER JUNIOR                                         | [🔗](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | CLC                                                  | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bd65b0efee10bfa8328c33b" alt="" width="50" /> | NCT U                                                | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
-|                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c8ac3b2d8d886fbf3f0877a" alt="" width="50" /> | NCT DREAM                                            | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
+|                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebd809a98eed8a673be5ed0576" alt="" width="50" /> | NCT DREAM                                            | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb758f3c632d4d726f1129d336" alt="" width="50" /> | TOMORROW X TOGETHER                                  | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb59501d4e82c8cb6fc409044d" alt="" width="50" /> | WENDY                                                | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5ebd90aa536055fe9806b3960e6" alt="" width="50" /> | GOT7                                                 | [🔗](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) |
@@ -113,7 +113,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf55b31064f94878f3da932c8" alt="" width="50" /> | MAX CHANGMIN                                         | [🔗](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd40fae46480e4202ef69316d" alt="" width="50" /> | YUJU                                                 | [🔗](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc6de192c5941f6605bb9c6ad" alt="" width="50" /> | Weeekly                                              | [🔗](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebddc165dd1ffb46a1ad6e6037" alt="" width="50" /> | MARK                                                 | [🔗](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb64cfd9127e28c0e04ab38bf7" alt="" width="50" /> | MARK                                                 | [🔗](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a55f6bf87219ecb5505e72e4" alt="" width="50" /> | WOODZ                                                | [🔗](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb0c93d86c6a500dee31d63995" alt="" width="50" /> | TAEYANG                                              | [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebac19ac3b8773baa5791999fb" alt="" width="50" /> | TVXQ!                                                | [🔗](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) |
@@ -188,6 +188,7 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f919108974e4213d86b83805" alt="" width="50" /> | Monster - The 1st Mini Album                        | [🔗](https://open.spotify.com/album/4DFheSBXhfewjz7SSe4Kyc) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | MAP OF THE SOUL : PERSONA                           | [🔗](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2738afcb7dd182cffe8d53b781e" alt="" width="50" /> | MAP OF THE SOUL : 7                                 | [🔗](https://open.spotify.com/album/6mJZTV8lCqnwftYZa94bXS) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="" width="50" /> | MAGIC MAN                                           | [🔗](https://open.spotify.com/album/2VZ4og2ZbwyTQ3X1rbgCe1) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273fd0d9a33127c1d3f58ba3504" alt="" width="50" /> | MADE                                                | [🔗](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | Love Yourself 承 'Her'                               | [🔗](https://open.spotify.com/album/2FTS6a6DLXMNp8flyA0HGO) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="" width="50" /> | Jack In The Box                                     | [🔗](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) |
@@ -230,7 +231,6 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27318a4a215052e9f396864bd73" alt="" width="50" /> | SQUARE TWO                                          | [🔗](https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273231a1b74cc820bb632de108c" alt="" width="50" /> | SQUARE ONE                                          | [🔗](https://open.spotify.com/album/0AcFaK32ui9rF2ySEdXrv4) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2739f560e8c1cda870ef4eadb43" alt="" width="50" /> | SKZ2020                                             | [🔗](https://open.spotify.com/album/6QIWJVJPPgAA5c4aIb1zCA) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c1a20972c9a083d5cece9ce5" alt="" width="50" /> | SEVENTEEN 8th Mini Album 'Your Choice'              | [🔗](https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc) |
 
 </details>
 
@@ -258,8 +258,8 @@
 |                 26 | [JYP Entertainment](../labels/jyp_entertainment.md)                                                                 |
 |                 20 | [BELIFT LAB](../labels/belift_lab.md)                                                                               |
 |                 19 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)                                                           |
+|                 16 | [Starship Entertainment](../labels/starship_entertainment.md)                                                       |
 |                 16 | [HYBE](../labels/hybe.md)                                                                                           |
-|                 15 | [Starship Entertainment](../labels/starship_entertainment.md)                                                       |
 |                 15 | [Kakao Entertainment](../labels/kakao_entertainment.md)                                                             |
 |                 13 | [WM Korea](../labels/wm_korea.md)                                                                                   |
 |                 12 | [Warner Records](../labels/warner_records.md)                                                                       |
@@ -322,7 +322,6 @@
 |                  1 | [폴라리스엔터테인먼트](../labels/__________.md)                                                                               |
 |                  1 | [주식회사 오라](../labels/_______.md)                                                                                     |
 |                  1 | [에이스토리](../labels/_____.md)                                                                                         |
-|                  1 | [스타쉽엔터테인먼트(Starship Entertainment)](../labels/__________starship_entertainment_.md)                                 |
 |                  1 | [브레이브 엔터테인먼트](../labels/___________.md)                                                                             |
 |                  1 | [모스트콘텐츠](../labels/______.md)                                                                                       |
 |                  1 | [딩고뮤직](../labels/____.md)                                                                                           |
@@ -345,6 +344,7 @@
 |                  1 | [Universal Music Group International](../labels/universal_music_group_international.md)                             |
 |                  1 | [UME - Global Clearing House](../labels/ume___global_clearing_house.md)                                             |
 |                  1 | [Think Ent.](../labels/think_ent_.md)                                                                               |
+|                  1 | [TOON STUDIO](../labels/toon_studio.md)                                                                             |
 
 </details>
 
@@ -379,7 +379,7 @@
 |                  2 | j-division                                        |
 |                  2 | edm                                               |
 |                  2 | chinese idol pop                                  |
-|                  1 | [viral pop](../genres/viral_pop.md)               |
+|                  1 | viral pop                                         |
 |                  1 | pop rap                                           |
 |                  1 | pop dance                                         |
 |                  1 | korean indie rock                                 |
@@ -404,11 +404,11 @@
 | SNEAKERS                   | Clockwork                   |
 | Idle song                  | Epilogue                    |
 | Jelly                      | Like Water                  |
-| Weather                    | Fine                        |
-| Typa Girl                  | My sea                      |
+| Typa Girl                  | Fine                        |
+| Weather                    | My sea                      |
 | BOOM                       | On The Ground               |
-| Tippy Toes                 | Sweet                       |
-| Mr. Simple                 | U                           |
+| Mr. Simple                 | Sweet                       |
+| Tippy Toes                 | U                           |
 
 | 10 most Energetic tracks   | 10 least Energetic tracks                            |
 |:---------------------------|:-----------------------------------------------------|
@@ -425,8 +425,8 @@
 
 | 10 most Speechy tracks        | 10 least Speechy tracks                    |
 |:------------------------------|:-------------------------------------------|
-| I Don't Need You              | Hope Not                                   |
-| Addicted                      | Gee                                        |
+| I Don't Need You              | Gee                                        |
+| Addicted                      | Hope Not                                   |
 | MANIAC                        | Wicked                                     |
 | Freedom                       | Winter Sleep                               |
 | Free Fall                     | Rain and You                               |
@@ -451,16 +451,16 @@
 
 | 10 most Instrumental tracks      | 10 least Instrumental tracks   |
 |:---------------------------------|:-------------------------------|
-| Tippy Toes                       | DOMINO                         |
-| You and I (Park Bom)             | BANG BANG BANG                 |
-| Adios                            | Not For Sale                   |
-| pporappippam                     | LOVE SCENARIO                  |
-| Badster                          | Hello                          |
-| YEPPI YEPPI                      | The shower                     |
-| It′s Raining                     | Black Swan                     |
-| So Hot                           | TFW (That Feeling When)        |
-| GingaMingaYo (the strange world) | The Red Shoes                  |
-| I Am The Best                    | Sorry                          |
+| Tippy Toes                       | Pantomime                      |
+| You and I (Park Bom)             | AURA                           |
+| Adios                            | BLACK DRESS                    |
+| pporappippam                     | ANTIFRAGILE                    |
+| Badster                          | Bing Bing                      |
+| YEPPI YEPPI                      | Let Me In (20 CUBE)            |
+| It′s Raining                     | Jazz Bar                       |
+| So Hot                           | L.I.E                          |
+| GingaMingaYo (the strange world) | BBIBBI                         |
+| I Am The Best                    | 우리집 My House                   |
 
 | 10 most Live tracks            | 10 least Live tracks                  |
 |:-------------------------------|:--------------------------------------|
@@ -477,13 +477,13 @@
 
 | 10 most Happy tracks   | 10 least Happy tracks     |
 |:-----------------------|:--------------------------|
-| Sour candy             | Sweet Night               |
-| Devil                  | Stardust love song        |
+| Sour candy             | Stardust love song        |
+| Devil                  | Sweet Night               |
 | Twenty-three           | Lucid Dream               |
 | Pepe                   | U                         |
-| Miniskirt              | My sea                    |
-| So Hot                 | Side Effects              |
-| 쏘리 쏘리 Sorry, Sorry     | Good Night My Princess    |
-| Twinkle                | 7월 7일 One Of These Nights |
+| So Hot                 | My sea                    |
+| Miniskirt              | Side Effects              |
+| Twinkle                | Good Night My Princess    |
+| 쏘리 쏘리 Sorry, Sorry     | 7월 7일 One Of These Nights |
 | Give it to me          | Grey Suit                 |
-| Lion Heart             | The Road                  |
+| Some (feat. Lil Boi)   | The Road                  |

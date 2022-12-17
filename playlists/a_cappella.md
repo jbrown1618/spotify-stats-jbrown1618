@@ -55,7 +55,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273583e74176372c85d698af382" alt="" width="50" /> | The Virginia Sil'hooettes                                | [🔗](https://open.spotify.com/artist/0LKgClZwZKGhM5BkCzjfMX) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27354cb8621ada914cc67f69a41" alt="" width="50" /> | Awaken A Cappella                                        | [🔗](https://open.spotify.com/artist/7zjm9GiXJPq0z3bKETWl1N) |
 |                  1 | <img src="nan" alt="" width="50" />                                                              | Shams Ahmed                                              | [🔗](https://open.spotify.com/artist/7rIkgg1ozqQIezA7c8Khf4) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb750fdb08befee29cec675964" alt="" width="50" /> | Pitches & Notes                                          | [🔗](https://open.spotify.com/artist/7l6eX8dYXjmQnfF04Sr4Vh) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc42cfb7142fafbbc60fa4491" alt="" width="50" /> | Pitches & Notes                                          | [🔗](https://open.spotify.com/artist/7l6eX8dYXjmQnfF04Sr4Vh) |
 |                  1 | <img src="nan" alt="" width="50" />                                                              | Delia Darney                                             | [🔗](https://open.spotify.com/artist/7ikvHdyyUnB92bHTgFcctU) |
 |                  1 | <img src="nan" alt="" width="50" />                                                              | Florida State University All-Night Yahtzee               | [🔗](https://open.spotify.com/artist/7hpsmZ7DZukPPg1dR2wqAy) |
 |                  1 | <img src="nan" alt="" width="50" />                                                              | University of Wisconsin-Madison Fundamentally Sound      | [🔗](https://open.spotify.com/artist/7f7ezoLEjOp1K0qDSosU80) |
@@ -289,13 +289,12 @@
 
 
 <details>
-<summary>See all 35 genres</summary>
+<summary>See all 34 genres</summary>
 
 |   Number of Tracks | Genre                                                 |
 |-------------------:|:------------------------------------------------------|
-|                197 | [a cappella](../genres/a_cappella.md)                 |
+|                200 | [a cappella](../genres/a_cappella.md)                 |
 |                119 | [college a cappella](../genres/college_a_cappella.md) |
-|                 32 | [viral pop](../genres/viral_pop.md)                   |
 |                 32 | fantasy                                               |
 |                 11 | french jazz                                           |
 |                  8 | lds youth                                             |

@@ -1,6 +1,6 @@
 # dance pop
 
-[241 songs](dance_pop_tracks.md)
+[240 songs](dance_pop_tracks.md)
 
 ## Top Artists
 
@@ -70,7 +70,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7eb7f6371aad8e67e01f0a03" alt="" width="50" /> | SZA                                          | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba12641edfc4ffbbdf58f7d15" alt="" width="50" /> | Lil Jon                                      | [🔗](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a398209a4ef3360dce2dec4" alt="" width="50" /> | Snoop Dogg                                   | [🔗](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb142120beb4014a7f8abd0cf0" alt="" width="50" /> | Jonas Brothers                               | [🔗](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb00e1d52d9f1363c6f2c1bcd0" alt="" width="50" /> | Jonas Brothers                               | [🔗](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c44e078944196a8c1eec256" alt="" width="50" /> | Colby O'Donis                                | [🔗](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9dde4a54073dbd58fb91c7d" alt="" width="50" /> | Ty Dolla $ign                                | [🔗](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | Hwa Sa                                       | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
@@ -83,7 +83,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb358577f183465ae7698a53a7" alt="" width="50" /> | Carly Rae Jepsen                             | [🔗](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375" alt="" width="50" /> | Hatsune Miku                                 | [🔗](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe32a61d17ecbe732a99d6d92" alt="" width="50" /> | 24kGoldn                                     | [🔗](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bda4d7a1c3b8159f28f9d08" alt="" width="50" /> | Sheppard                                     | [🔗](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c" alt="" width="50" /> | Amy Winehouse                                | [🔗](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) |
 |                  1 | <img src="https://i.scdn.co/image/ab6772690000c46ca3ebb27ba9a55044f32af6e1" alt="" width="50" /> | Silk Sonic                                   | [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf271138f95fbe8188d909d50" alt="" width="50" /> | Kesha                                        | [🔗](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) |
@@ -114,6 +113,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb08cd53940cbf5813ee5fe565" alt="" width="50" /> | Little Mix                                   | [🔗](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebaa2d9bd207a62adc3edf6631" alt="" width="50" /> | Florida Georgia Line                         | [🔗](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb49637fe719fddb8e90896f41" alt="" width="50" /> | Jhorrmountain                                | [🔗](https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o) |
+|                  1 | <img src="nan" alt="" width="50" />                                                              | Zachary Levi                                 | [🔗](https://open.spotify.com/artist/3XSyTI9ct70ZheMESAv2st) |
 
 </details>
 
@@ -237,7 +237,7 @@
 
 
 <details>
-<summary>See all 77 labels</summary>
+<summary>See all 76 labels</summary>
 
 |   Number of Tracks | Label                                                                                                                       |
 |-------------------:|:----------------------------------------------------------------------------------------------------------------------------|
@@ -301,7 +301,6 @@
 |                  1 | [EMI Recorded Music Australia Pty Ltd](../labels/emi_recorded_music_australia_pty_ltd.md)                                   |
 |                  1 | [Disruptor Records](../labels/disruptor_records.md)                                                                         |
 |                  1 | [Def Soul](../labels/def_soul.md)                                                                                           |
-|                  1 | [Decca (UMO)](../labels/decca__umo_.md)                                                                                     |
 |                  1 | [Decaydance](../labels/decaydance.md)                                                                                       |
 |                  1 | [DJ Snake Music Productions Limited](../labels/dj_snake_music_productions_limited.md)                                       |
 |                  1 | [Colour Vision Records](../labels/colour_vision_records.md)                                                                 |
@@ -332,8 +331,8 @@
 | Pretty Please                    | Half Of Me                                            |
 | Sally Walker                     | Ave Maria                                             |
 | Coño                             | Jar of Hearts                                         |
-| Yeah! (feat. Lil Jon & Ludacris) | I'd Rather Go Blind                                   |
-| LoveGame                         | I See the Light - From "Tangled" / Soundtrack Version |
+| LoveGame                         | I'd Rather Go Blind                                   |
+| Yeah! (feat. Lil Jon & Ludacris) | I See the Light - From "Tangled" / Soundtrack Version |
 | Faith - Remastered               | La Vie En Rose                                        |
 | Worth It (feat. Kid Ink)         | Already Gone                                          |
 

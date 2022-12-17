@@ -200,7 +200,7 @@
 
 
 <details>
-<summary>See all 65 labels</summary>
+<summary>See all 64 labels</summary>
 
 |   Number of Tracks | Label                                                                                                               |
 |-------------------:|:--------------------------------------------------------------------------------------------------------------------|
@@ -211,7 +211,7 @@
 |                 23 | [Interscope](../labels/interscope.md)                                                                               |
 |                 18 | [Universal Music LLC](../labels/universal_music_llc.md)                                                             |
 |                 15 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                                                 |
-|                 14 | [Starship Entertainment](../labels/starship_entertainment.md)                                                       |
+|                 15 | [Starship Entertainment](../labels/starship_entertainment.md)                                                       |
 |                 13 | [JYP Entertainment](../labels/jyp_entertainment.md)                                                                 |
 |                 12 | [RBW Inc.](../labels/rbw_inc_.md)                                                                                   |
 |                 12 | [Genie Music Corporation](../labels/genie_music_corporation.md)                                                     |
@@ -240,7 +240,6 @@
 |                  2 | [OFF THE RECORD Entertainment](../labels/off_the_record_entertainment.md)                                           |
 |                  2 | [Kakao Entertainment](../labels/kakao_entertainment.md)                                                             |
 |                  1 | [폴라리스엔터테인먼트](../labels/__________.md)                                                                               |
-|                  1 | [스타쉽엔터테인먼트(Starship Entertainment)](../labels/__________starship_entertainment_.md)                                 |
 |                  1 | [드림티 엔터테인먼트](../labels/__________.md)                                                                               |
 |                  1 | [드림캐쳐컴퍼니](../labels/_______.md)                                                                                     |
 |                  1 | [내가네트워크](../labels/______.md)                                                                                       |

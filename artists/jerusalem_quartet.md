@@ -26,6 +26,7 @@
 
 ## Genres
 
+- classical performance
 - string quartet
 
 ## Tracks

@@ -35,7 +35,7 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273170e79548d280867ef12742b" alt="" width="50" /> | Les Misérables Cast                                                                                  | [🔗](https://open.spotify.com/artist/71wy5iisVKXLZgoPxdFi8A) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf856b084186b3c281325bab7" alt="" width="50" /> | Gloria Gaynor                                                                                        | [🔗](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27356896680295a2000b46609f4" alt="" width="50" /> | Aaron Tveit                                                                                          | [🔗](https://open.spotify.com/artist/68h2f0WXn4zEctSgNYozXx) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273edb49ad7b719f766ec02476b" alt="" width="50" /> | Amanda Seyfried                                                                                      | [🔗](https://open.spotify.com/artist/5RZjpmuD14JKXvB8Ry1G1u) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27354900b60ad3ceff554807176" alt="" width="50" /> | Amanda Seyfried                                                                                      | [🔗](https://open.spotify.com/artist/5RZjpmuD14JKXvB8Ry1G1u) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe8017b7995ab05155d671520" alt="" width="50" /> | RAYE                                                                                                 | [🔗](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5af53f295e6c42529fbd0873" alt="" width="50" /> | Lauv                                                                                                 | [🔗](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) |
 |                  1 | <img src="nan" alt="" width="50" />                                                              | John Aron                                                                                            | [🔗](https://open.spotify.com/artist/5Hco9oOhEcTrU0hzzIkoF7) |
@@ -102,6 +102,7 @@ Appears as:
 |                  7 | [dance pop](../genres/dance_pop.md)               |
 |                  6 | edm                                               |
 |                  5 | uk pop                                            |
+|                  5 | [post-teen pop](../genres/post_teen_pop.md)       |
 |                  5 | indietronica                                      |
 |                  5 | [hollywood](../genres/hollywood.md)               |
 |                  4 | metropopolis                                      |
@@ -119,7 +120,6 @@ Appears as:
 |                  2 | album rock                                        |
 |                  1 | uk dance                                          |
 |                  1 | shiver pop                                        |
-|                  1 | [post-teen pop](../genres/post_teen_pop.md)       |
 |                  1 | [pop rock](../genres/pop_rock.md)                 |
 |                  1 | pop rap                                           |
 |                  1 | permanent wave                                    |

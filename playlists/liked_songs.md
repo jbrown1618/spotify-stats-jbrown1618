@@ -72,7 +72,7 @@
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bd65b0efee10bfa8328c33b" alt="" width="50" /> | NCT U                                                          | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb9954a1ab45b2404a7bff2a45" alt="" width="50" /> | OH MY GIRL                                                     | [🔗](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | PENTAGON                                                       | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
-|                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c8ac3b2d8d886fbf3f0877a" alt="" width="50" /> | NCT DREAM                                                      | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
+|                  6 | <img src="https://i.scdn.co/image/ab6761610000e5ebd809a98eed8a673be5ed0576" alt="" width="50" /> | NCT DREAM                                                      | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb59501d4e82c8cb6fc409044d" alt="" width="50" /> | WENDY                                                          | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb7401998434b12fffd119ae18" alt="" width="50" /> | [NCT 127](../artists/nct_127.md)                               | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
 |                  5 | <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | Simon & Garfunkel                                              | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
@@ -204,6 +204,7 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="" width="50" /> | NCT 2018 EMPATHY                            | [🔗](https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | More Adventurous (U.S. Release)             | [🔗](https://open.spotify.com/album/4n36X2GMJ84BKh9D9zMRVI) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" alt="" width="50" /> | MANIFESTO : DAY 1                           | [🔗](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="" width="50" /> | MAGIC MAN                                   | [🔗](https://open.spotify.com/album/2VZ4og2ZbwyTQ3X1rbgCe1) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273fd0d9a33127c1d3f58ba3504" alt="" width="50" /> | MADE                                        | [🔗](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2734280a158a96c9b0274eb7e99" alt="" width="50" /> | Love, Save The Empty                        | [🔗](https://open.spotify.com/album/1tF7625TFqvfzMbappj1pQ) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | Love Yourself 轉 'Tear'                      | [🔗](https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O) |
@@ -227,7 +228,6 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | BETWEEN 1&2                                 | [🔗](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="" width="50" /> | BE                                          | [🔗](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="" width="50" /> | BABYMETAL                                   | [🔗](https://open.spotify.com/album/6Eepi724OOt38pTaUrZErI) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273028c3bb4b81ee71dd73d1596" alt="" width="50" /> | An Awesome Wave                             | [🔗](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) |
 
 </details>
 
@@ -359,7 +359,7 @@
 |                576 | [k-pop](../genres/k_pop.md)                         |
 |                360 | [pop](../genres/pop.md)                             |
 |                286 | [k-pop girl group](../genres/k_pop_girl_group.md)   |
-|                159 | [dance pop](../genres/dance_pop.md)                 |
+|                158 | [dance pop](../genres/dance_pop.md)                 |
 |                150 | [k-pop boy group](../genres/k_pop_boy_group.md)     |
 |                 99 | [rock](../genres/rock.md)                           |
 |                 78 | [classic rock](../genres/classic_rock.md)           |
@@ -367,23 +367,23 @@
 |                 58 | [neo mellow](../genres/neo_mellow.md)               |
 |                 57 | [acoustic pop](../genres/acoustic_pop.md)           |
 |                 55 | [pop rock](../genres/pop_rock.md)                   |
+|                 51 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                 44 | [hollywood](../genres/hollywood.md)                 |
 |                 42 | [mellow gold](../genres/mellow_gold.md)             |
-|                 36 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                 32 | [soft rock](../genres/soft_rock.md)                 |
 |                 32 | [electropop](../genres/electropop.md)               |
 |                 30 | [psychedelic rock](../genres/psychedelic_rock.md)   |
 |                 30 | british invasion                                    |
 |                 30 | [art pop](../genres/art_pop.md)                     |
+|                 29 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                 26 | [r&b](../genres/r_b.md)                             |
-|                 25 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                 25 | piano rock                                          |
 |                 23 | korean pop                                          |
 |                 23 | beatlesque                                          |
 |                 22 | merseybeat                                          |
 |                 22 | korean r&b                                          |
-|                 20 | indie pop                                           |
 |                 19 | modern rock                                         |
+|                 19 | indie pop                                           |
 |                 19 | edm                                                 |
 |                 19 | anime                                               |
 |                 19 | album rock                                          |
@@ -393,9 +393,9 @@
 |                 18 | folk rock                                           |
 |                 18 | art rock                                            |
 |                 18 | [a cappella](../genres/a_cappella.md)               |
+|                 16 | pop rap                                             |
 |                 15 | urban contemporary                                  |
 |                 15 | uk pop                                              |
-|                 15 | pop rap                                             |
 |                 15 | k-rap                                               |
 |                 14 | uk alternative pop                                  |
 |                 14 | neo soul                                            |
@@ -416,6 +416,7 @@
 |                  9 | oxford indie                                        |
 |                  9 | lounge                                              |
 |                  9 | anti-folk                                           |
+|                  8 | viral pop                                           |
 |                  8 | tropical house                                      |
 |                  8 | latin pop                                           |
 |                  8 | korean city pop                                     |
@@ -424,7 +425,6 @@
 |                  8 | blues rock                                          |
 |                  8 | bergen indie                                        |
 |                  8 | australian dance                                    |
-|                  7 | [viral pop](../genres/viral_pop.md)                 |
 |                  7 | pop dance                                           |
 |                  7 | kawaii metal                                        |
 |                  7 | j-pop                                               |
@@ -480,13 +480,13 @@
 | チョコレイト・ディスコ                | Blackbird - Remastered 2009 |
 | When Doves Cry             | xanny                       |
 | Shanti Shanti Shanti       | when the party's over       |
-| RING X RING                | The Dawntreader             |
-| Rondo of Nightmare         | Used                        |
+| Rondo of Nightmare         | The Dawntreader             |
+| RING X RING                | Used                        |
 | Headbangeeeeerrrrr!!!!!    | Nature Boy                  |
 | Gimme Chocolate!!          | And So It Goes              |
 | Hit That Drum              | Run to You                  |
-| だいじょばない                    | Mad World                   |
-| KARATE                     | Kaleidoscope Heart          |
+| KARATE                     | Mad World                   |
+| だいじょばない                    | Kaleidoscope Heart          |
 
 | 10 most Speechy tracks           | 10 least Speechy tracks   |
 |:---------------------------------|:--------------------------|
@@ -496,36 +496,36 @@
 | Mambo No. 5 (a Little Bit of...) | Old Fashioned             |
 | Vigilante Shit                   | The Scientist             |
 | Free Fall                        | All Too Well              |
-| WAP (feat. Megan Thee Stallion)  | Breakeven                 |
-| bad guy                          | 情非得已                      |
-| Ice Cream (with Selena Gomez)    | Satellite Call            |
+| bad guy                          | Breakeven                 |
+| WAP (feat. Megan Thee Stallion)  | Satellite Call            |
+| Ice Cream (with Selena Gomez)    | 情非得已                      |
 | Feelin' Like                     | With                      |
 
 | 10 most Acoustic tracks      | 10 least Acoustic tracks   |
 |:-----------------------------|:---------------------------|
-| when the party's over        | Oh Sorry Ya                |
-| Bright Lights and Cityscapes | Misery                     |
+| when the party's over        | Misery                     |
+| Bright Lights and Cityscapes | Oh Sorry Ya                |
 | Mad World                    | Gimme Chocolate!!          |
 | Manhattan                    | Cyberpunk                  |
 | Nature Boy                   | Tamed-Dashed               |
 | The Night We Met             | Mr. Simple                 |
 | I Had a King                 | Poison                     |
 | Sweet Nothing                | Headbangeeeeerrrrr!!!!!    |
-| Take It All                  | Kagerou                    |
-| The Dawntreader              | The Phantom Of The Opera   |
+| The Dawntreader              | Kagerou                    |
+| Take It All                  | The Phantom Of The Opera   |
 
-| 10 most Instrumental tracks              | 10 least Instrumental tracks                |
-|:-----------------------------------------|:--------------------------------------------|
-| Digital Love                             | Brown Eyed Girl                             |
-| だいじょばない                                  | California Gurls                            |
-| Street Spirit (Fade Out)                 | Something                                   |
-| everything i wanted                      | I Love You 3000 II                          |
-| Instant Crush (feat. Julian Casablancas) | THRILL RIDE                                 |
-| Smooth Criminal - 2012 Remaster          | Locked out of Heaven                        |
-| Pyramid Song                             | If I Ever Fall In Love (feat. Jason Derulo) |
-| Shanti Shanti Shanti                     | Scream                                      |
-| You Take My Breath Away                  | SAY NO MORE                                 |
-| The Night We Met                         | Old Fashioned                               |
+| 10 most Instrumental tracks              | 10 least Instrumental tracks   |
+|:-----------------------------------------|:-------------------------------|
+| Digital Love                             | When I Get Old                 |
+| だいじょばない                                  | You Never Know                 |
+| Street Spirit (Fade Out)                 | LAST WALTZ                     |
+| everything i wanted                      | imagine                        |
+| Instant Crush (feat. Julian Casablancas) | Make Me Feel                   |
+| Smooth Criminal - 2012 Remaster          | Impurities                     |
+| Pyramid Song                             | Nonstop                        |
+| Shanti Shanti Shanti                     | I CAN'T STOP ME                |
+| You Take My Breath Away                  | Blue Flame                     |
+| The Night We Met                         | Djadja                         |
 
 | 10 most Live tracks            | 10 least Live tracks                  |
 |:-------------------------------|:--------------------------------------|
@@ -534,8 +534,8 @@
 | XS                             | YEPPI YEPPI                           |
 | Piano Man                      | memeM                                 |
 | You Better Run                 | That That (prod. & feat. SUGA of BTS) |
-| MAKE U DANCE (feat. EUNHA)     | Finesse                               |
-| Red Lipstick (feat. Yoonmirae) | SNEAKERS                              |
+| Red Lipstick (feat. Yoonmirae) | Finesse                               |
+| MAKE U DANCE (feat. EUNHA)     | SNEAKERS                              |
 | Sticker                        | CASE 143                              |
 | You Oughta Know                | Finesse - Remix; feat. Cardi B        |
 | 행복 (Happiness)                 | Ain't It Fun                          |
@@ -543,12 +543,12 @@
 | 10 most Happy tracks            | 10 least Happy tracks   |
 |:--------------------------------|:------------------------|
 | Sour candy                      | Yellow Flicker Beat     |
-| Big Yellow Taxi                 | Falling                 |
-| Like a Virgin                   | Lose Yourself           |
+| Like a Virgin                   | Falling                 |
+| Big Yellow Taxi                 | Lose Yourself           |
 | There's Nothing Holdin' Me Back | Crystallize             |
-| Devil                           | Once Upon Another Time  |
-| Twenty-three                    | xanny                   |
+| Twenty-three                    | Once Upon Another Time  |
+| Devil                           | xanny                   |
 | Pepe                            | No Time To Die          |
-| SexyBack (feat. Timbaland)      | Delicate                |
-| Mercy                           | What Sarah Said         |
-| チョコレイト・ディスコ                     | You Take My Breath Away |
+| Mercy                           | Delicate                |
+| SexyBack (feat. Timbaland)      | What Sarah Said         |
+| I'm a Slave 4 U                 | You Take My Breath Away |

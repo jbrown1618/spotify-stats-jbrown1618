@@ -297,20 +297,20 @@
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
 |                 57 | [pop](../genres/pop.md)                             |
-|                 24 | indie pop                                           |
+|                 23 | indie pop                                           |
 |                 22 | [rock](../genres/rock.md)                           |
 |                 19 | modern rock                                         |
-|                 18 | [dance pop](../genres/dance_pop.md)                 |
 |                 17 | [lilith](../genres/lilith.md)                       |
+|                 17 | [dance pop](../genres/dance_pop.md)                 |
 |                 17 | baroque pop                                         |
 |                 17 | [art pop](../genres/art_pop.md)                     |
 |                 16 | uk alternative pop                                  |
 |                 15 | permanent wave                                      |
 |                 15 | [electropop](../genres/electropop.md)               |
 |                 14 | indie rock                                          |
+|                 14 | alternative rock                                    |
 |                 13 | nz pop                                              |
 |                 13 | bergen indie                                        |
-|                 13 | alternative rock                                    |
 |                 11 | australian pop                                      |
 |                 11 | anti-folk                                           |
 |                 10 | [pop rock](../genres/pop_rock.md)                   |
@@ -321,6 +321,7 @@
 |                  9 | etherpop                                            |
 |                  8 | nyc pop                                             |
 |                  8 | australian dance                                    |
+|                  7 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                  6 | [neo mellow](../genres/neo_mellow.md)               |
 |                  6 | la indie                                            |
 |                  5 | uk funky                                            |
@@ -346,8 +347,8 @@
 |                  3 | candy pop                                           |
 |                  3 | [acoustic pop](../genres/acoustic_pop.md)           |
 |                  2 | washington indie                                    |
+|                  2 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  2 | shiver pop                                          |
-|                  2 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                  2 | pop punk                                            |
 |                  2 | pop emo                                             |
 |                  2 | pixie                                               |
@@ -359,7 +360,7 @@
 |                  2 | canadian indie                                      |
 |                  2 | alternative metal                                   |
 |                  1 | visual kei                                          |
-|                  1 | [viral pop](../genres/viral_pop.md)                 |
+|                  1 | viral pop                                           |
 |                  1 | uk contemporary r&b                                 |
 |                  1 | swedish synthpop                                    |
 |                  1 | swedish pop                                         |
@@ -367,13 +368,11 @@
 |                  1 | swedish electropop                                  |
 |                  1 | swedish alternative rock                            |
 |                  1 | spacegrunge                                         |
-|                  1 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  1 | shimmer pop                                         |
 |                  1 | nu metal                                            |
 |                  1 | nu jazz                                             |
 |                  1 | new rave                                            |
 |                  1 | neo-synthpop                                        |
-|                  1 | neo soul                                            |
 |                  1 | lo-fi                                               |
 |                  1 | [k-pop girl group](../genres/k_pop_girl_group.md)   |
 |                  1 | japanese emo                                        |
@@ -396,6 +395,7 @@
 |                  1 | danish pop                                          |
 |                  1 | cyberpunk                                           |
 |                  1 | canadian singer-songwriter                          |
+|                  1 | canadian rock                                       |
 
 </details>
 

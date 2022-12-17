@@ -35,7 +35,7 @@
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | [Girls' Generation](../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="" width="50" /> | [SEVENTEEN](../artists/seventeen.md)                 | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebadffb99dc62d070da29306ff" alt="" width="50" /> | JEON SOYEON                                          | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
-|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c8ac3b2d8d886fbf3f0877a" alt="" width="50" /> | NCT DREAM                                            | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
+|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebd809a98eed8a673be5ed0576" alt="" width="50" /> | NCT DREAM                                            | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb45b2ff69ae6a3caccb776cfa" alt="" width="50" /> | [STAYC](../artists/stayc.md)                         | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7401998434b12fffd119ae18" alt="" width="50" /> | [NCT 127](../artists/nct_127.md)                     | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | Hwa Sa                                               | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
@@ -213,10 +213,10 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738afcb7dd182cffe8d53b781e" alt="" width="50" /> | MAP OF THE SOUL : 7                                                     | [🔗](https://open.spotify.com/album/6mJZTV8lCqnwftYZa94bXS) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" alt="" width="50" /> | MANIFESTO : DAY 1                                                       | [🔗](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dbb82cf845a6d574224a0d33" alt="" width="50" /> | MAMACITA - The 7th Album                                                | [🔗](https://open.spotify.com/album/53i190Z2uGOLljuS3DCvz2) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="" width="50" /> | MAGIC MAN                                                               | [🔗](https://open.spotify.com/album/2VZ4og2ZbwyTQ3X1rbgCe1) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ebc6d2cf277ea321431e0529" alt="" width="50" /> | Low Low                                                                 | [🔗](https://open.spotify.com/album/58Y92GzXpCV5D6WRNqzOYN) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | Love poem                                                               | [🔗](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | Love Yourself 承 'Her'                                                   | [🔗](https://open.spotify.com/album/2FTS6a6DLXMNp8flyA0HGO) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737ce0130c09547c733984ba0e" alt="" width="50" /> | Lion Heart - The 5th Album                                              | [🔗](https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB) |
 
 </details>
 
@@ -332,16 +332,16 @@
 
 | 10 most Energetic tracks              | 10 least Energetic tracks   |
 |:--------------------------------------|:----------------------------|
-| RING X RING                           | 눈,코,입 (Eyes, Nose, Lips)    |
+| RING X RING                           | BOOM                        |
 | Girls                                 | 7월 7일 One Of These Nights   |
 | RING ma Bell (what a wonderful world) | Dream                       |
 | Heart Shaker                          | HOLO                        |
 | HOME;RUN                              | Love poem                   |
 | Feel My Rhythm                        | 무제(無題) (Untitled, 2014)     |
 | The Boys                              | Butter                      |
-| Ice Cream Cake                        | My sea                      |
-| Sparkling Night                       | Gone                        |
-| Hype Boy                              | ONLY                        |
+| Hype Boy                              | My sea                      |
+| Ice Cream Cake                        | Gone                        |
+| Sparkling Night                       | ONLY                        |
 
 | 10 most Speechy tracks   | 10 least Speechy tracks   |
 |:-------------------------|:--------------------------|
@@ -351,8 +351,8 @@
 | Sparkling Night          | Phase Me                  |
 | Sticker                  | Animal Farm               |
 | Crazy                    | Starlight                 |
-| I GOT A BOY              | Je T'aime                 |
 | Back Door                | HOLO                      |
+| I GOT A BOY              | Je T'aime                 |
 | Kill This Love           | Something                 |
 | Thunderous               | Spark                     |
 
@@ -369,18 +369,18 @@
 | Like Water                | Drunk-Dazed                |
 | Je T'aime                 | Tamed-Dashed               |
 
-| 10 most Instrumental tracks   | 10 least Instrumental tracks   |
-|:------------------------------|:-------------------------------|
-| YEPPI YEPPI                   | BBIBBI                         |
-| I Am The Best                 | Paint Me Naked                 |
-| Lion Heart                    | Forgive Me                     |
-| Kill This Love                | dlwlrma                        |
-| Why Not?                      | MIROTIC                        |
-| Black Mamba                   | HOLO                           |
-| In the morning                | Spark                          |
-| Stay Tonight                  | My sea                         |
-| Girls                         | Don't Call Me                  |
-| MAGO                          | Shut Down                      |
+| 10 most Instrumental tracks   | 10 least Instrumental tracks     |
+|:------------------------------|:---------------------------------|
+| YEPPI YEPPI                   | Black Swan                       |
+| I Am The Best                 | Hello                            |
+| Lion Heart                    | Monster                          |
+| Kill This Love                | WINE (Feat.Changmo) (Prod. SUGA) |
+| Why Not?                      | Bicycle                          |
+| Black Mamba                   | Love Talk                        |
+| In the morning                | VILLAIN DIES                     |
+| Stay Tonight                  | Why So Lonely                    |
+| Girls                         | SAY NO MORE                      |
+| MAGO                          | Shut Down                        |
 
 | 10 most Live tracks             | 10 least Live tracks        |
 |:--------------------------------|:----------------------------|

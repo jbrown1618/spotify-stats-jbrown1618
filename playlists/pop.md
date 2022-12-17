@@ -91,7 +91,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba12641edfc4ffbbdf58f7d15" alt="" width="50" /> | Lil Jon                                        | [🔗](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb78b9bf3dfa09b90ec0aac135" alt="" width="50" /> | half•alive                                     | [🔗](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a398209a4ef3360dce2dec4" alt="" width="50" /> | Snoop Dogg                                     | [🔗](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb142120beb4014a7f8abd0cf0" alt="" width="50" /> | Jonas Brothers                                 | [🔗](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb00e1d52d9f1363c6f2c1bcd0" alt="" width="50" /> | Jonas Brothers                                 | [🔗](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c44e078944196a8c1eec256" alt="" width="50" /> | Colby O'Donis                                  | [🔗](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9dde4a54073dbd58fb91c7d" alt="" width="50" /> | Ty Dolla $ign                                  | [🔗](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | Hwa Sa                                         | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
@@ -361,7 +361,7 @@
 |-------------------:|:------------------------------------------------|
 |                300 | [pop](../genres/pop.md)                         |
 |                188 | [dance pop](../genres/dance_pop.md)             |
-|                 42 | [post-teen pop](../genres/post_teen_pop.md)     |
+|                 62 | [post-teen pop](../genres/post_teen_pop.md)     |
 |                 27 | [electropop](../genres/electropop.md)           |
 |                 25 | uk pop                                          |
 |                 25 | edm                                             |
@@ -375,11 +375,11 @@
 |                 11 | [neo mellow](../genres/neo_mellow.md)           |
 |                 11 | british soul                                    |
 |                 11 | australian pop                                  |
+|                 10 | viral pop                                       |
 |                 10 | pop soul                                        |
 |                 10 | canadian pop                                    |
 |                 10 | barbadian pop                                   |
 |                 10 | [acoustic pop](../genres/acoustic_pop.md)       |
-|                  9 | [viral pop](../genres/viral_pop.md)             |
 |                  9 | pop dance                                       |
 |                  8 | uk dance                                        |
 |                  8 | tropical house                                  |
@@ -412,7 +412,6 @@
 |                  3 | modern alternative rock                         |
 |                  3 | lgbtq+ hip hop                                  |
 |                  3 | latin pop                                       |
-|                  3 | indie pop                                       |
 |                  3 | house                                           |
 |                  3 | etherpop                                        |
 |                  3 | chill r&b                                       |
@@ -427,6 +426,7 @@
 |                  2 | irish singer-songwriter                         |
 |                  2 | indy indie                                      |
 |                  2 | indiecoustica                                   |
+|                  2 | indie pop                                       |
 |                  2 | gauze pop                                       |
 |                  2 | filter house                                    |
 |                  2 | electro                                         |

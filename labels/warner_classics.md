@@ -66,11 +66,11 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 19 genres](../images/labels/warner_classics/genres.png)
+![Bar chart of top 20 genres](../images/labels/warner_classics/genres.png)
 
 
 <details>
-<summary>See all 19 genres</summary>
+<summary>See all 20 genres</summary>
 
 |   Number of Tracks | Genre                                                   |
 |-------------------:|:--------------------------------------------------------|
@@ -87,6 +87,7 @@ Appears as:
 |                  4 | choral                                                  |
 |                  4 | cambridge choir                                         |
 |                  4 | british choir                                           |
+|                  4 | [a cappella](../genres/a_cappella.md)                   |
 |                  2 | norwegian classical                                     |
 |                  2 | [german baroque](../genres/german_baroque.md)           |
 |                  1 | sleep                                                   |

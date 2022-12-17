@@ -177,8 +177,8 @@
 | Queendom                                          | LALISA                      |
 | Dope                                              | Attention                   |
 | LOCO                                              | FEARLESS                    |
-| Boy With Luv (feat. Halsey)                       | City Girls                  |
-| GAMBLER                                           | Blow                        |
+| Boy With Luv (feat. Halsey)                       | Blow                        |
+| GAMBLER                                           | City Girls                  |
 | MIC Drop (Steve Aoki Remix) - Full Length Edition | Pretty Savage               |
 | Go Big or Go Home                                 | BOSS                        |
 
@@ -186,8 +186,8 @@
 |:--------------------------------------------------|:--------------------------|
 | Ice Cream (with Selena Gomez)                     | DUMB DUMB                 |
 | Thunderous                                        | Holiday Party             |
-| Hype Boy                                          | Psycho                    |
-| Dope                                              | LOVE DIVE                 |
+| Dope                                              | Psycho                    |
+| Hype Boy                                          | LOVE DIVE                 |
 | LOCO                                              | Pretty Savage             |
 | MIC Drop (Steve Aoki Remix) - Full Length Edition | HOT                       |
 | Run BTS                                           | Shut Down                 |
@@ -210,7 +210,7 @@
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| FEARLESS                      | BAD GIRL (Prod. Czaer)         |
+| FEARLESS                      | Blow                           |
 | Black Mamba                   | ASAP                           |
 | LALISA                        | Dynamite                       |
 | DUMB DUMB                     | Run BTS                        |

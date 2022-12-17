@@ -42,7 +42,7 @@
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9996e5d7c5b769b2b26ff1a" alt="" width="50" /> | SUPER JUNIOR                                         | [🔗](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a29246fa242d0b9f8de3b31" alt="" width="50" /> | SUNMI                                                | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebfe2339c232c5a840fc527402" alt="" width="50" /> | SEULGI                                               | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
-|                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c8ac3b2d8d886fbf3f0877a" alt="" width="50" /> | NCT DREAM                                            | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
+|                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebd809a98eed8a673be5ed0576" alt="" width="50" /> | NCT DREAM                                            | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb59501d4e82c8cb6fc409044d" alt="" width="50" /> | WENDY                                                | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | Hwa Sa                                               | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5ebd90aa536055fe9806b3960e6" alt="" width="50" /> | GOT7                                                 | [🔗](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) |
@@ -254,9 +254,9 @@
 |                 18 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)                                                           |
 |                 17 | [JYP Entertainment](../labels/jyp_entertainment.md)                                                                 |
 |                 15 | [Kakao Entertainment](../labels/kakao_entertainment.md)                                                             |
+|                 12 | [Starship Entertainment](../labels/starship_entertainment.md)                                                       |
 |                 12 | [HYBE](../labels/hybe.md)                                                                                           |
 |                 11 | [WM Korea](../labels/wm_korea.md)                                                                                   |
-|                 11 | [Starship Entertainment](../labels/starship_entertainment.md)                                                       |
 |                 11 | [High Up Entertainment](../labels/high_up_entertainment.md)                                                         |
 |                  9 | [MYSTIC STORY](../labels/mystic_story.md)                                                                           |
 |                  9 | [MNH ENTERTAINMENT](../labels/mnh_entertainment.md)                                                                 |
@@ -303,7 +303,6 @@
 |                  1 | [피네이션](../labels/____.md)                                                                                           |
 |                  1 | [폴라리스엔터테인먼트](../labels/__________.md)                                                                               |
 |                  1 | [에이스토리](../labels/_____.md)                                                                                         |
-|                  1 | [스타쉽엔터테인먼트(Starship Entertainment)](../labels/__________starship_entertainment_.md)                                 |
 |                  1 | [브레이브 엔터테인먼트](../labels/___________.md)                                                                             |
 |                  1 | [모스트콘텐츠](../labels/______.md)                                                                                       |
 |                  1 | [드림티 엔터테인먼트](../labels/__________.md)                                                                               |
@@ -341,6 +340,7 @@
 |                  1 | [DUBLEKICK COMPANY](../labels/dublekick_company.md)                                                                 |
 |                  1 | [DCTOM](../labels/dctom.md)                                                                                         |
 |                  1 | [Cre.ker Entertainment](../labels/cre_ker_entertainment.md)                                                         |
+|                  1 | [Corp](../labels/corp.md)                                                                                           |
 
 </details>
 
