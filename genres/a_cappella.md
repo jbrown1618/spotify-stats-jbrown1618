@@ -1,6 +1,6 @@
 # a cappella
 
-[204 songs](a_cappella_tracks.md)
+[205 songs](a_cappella_tracks.md)
 
 ## Top Artists
 
@@ -10,7 +10,7 @@
 
 
 <details>
-<summary>See all 59 artists</summary>
+<summary>See all 60 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                                   | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------|:------------------------------------------------------------|
@@ -60,6 +60,7 @@
 |                  1 | <img src="nan" alt="" width="50" />                                                              | Gabe Hendifar                                            | [🔗](https://open.spotify.com/artist/3YIBM4yvZHT4lRQa14eHQh) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf3504a2a1d55d7defa6cb2bc" alt="" width="50" /> | Hullabahoos                                              | [🔗](https://open.spotify.com/artist/3S1DEHnGNfWmamdZEyLs8I) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfdafe8faacce33ba647bb2ca" alt="" width="50" /> | Eight Beat Measure                                       | [🔗](https://open.spotify.com/artist/3My1YRLewqqDXME2OkBpdZ) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf96beef384557563963fb7ef" alt="" width="50" /> | The Vassar Devils                                        | [🔗](https://open.spotify.com/artist/31EncJhuSBcAIsZGA3G1GK) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737d920cc55d75078e9dbcc809" alt="" width="50" /> | Elizabeth Wright                                         | [🔗](https://open.spotify.com/artist/2tQ7EzEpu1KFpseMdHGSzL) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd55a2b176b231382b54f5e33" alt="" width="50" /> | Penn Masala                                              | [🔗](https://open.spotify.com/artist/2MhJb1ljKttJewuYZTpXxr) |
 |                  1 | <img src="nan" alt="" width="50" />                                                              | Beejul Khatri                                            | [🔗](https://open.spotify.com/artist/24SlCPf92d5VTzhI0ztENn) |
@@ -112,6 +113,7 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273759fbdcd40288d874a398749" alt="" width="50" /> | RISE                                         | [🔗](https://open.spotify.com/album/6V8819n4bdv7dA5mFdCIAo) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2739729d686606e6be27346da30" alt="" width="50" /> | PTX Vol. IV - Classics                       | [🔗](https://open.spotify.com/album/00JpoY0ZaQRXTNJUruibfX) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273a064dc21b8c8ebedfe4ea833" alt="" width="50" /> | PTX Presents: Top Pop, Vol. I                | [🔗](https://open.spotify.com/album/2viOlnLfhPLDgx7hvBqLwW) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2735f80e04f0ea87267cc80ec46" alt="" width="50" /> | BOCA 2018: Best of College A Cappella        | [🔗](https://open.spotify.com/album/4F7k4viXqEAIlrB5rbAPbF) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="" width="50" /> | BOCA 2013: Best of College A Cappella        | [🔗](https://open.spotify.com/album/6Pqey2mc4EWSfYNH3bifbO) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="" width="50" /> | BOCA 2012: Best Of College A Cappella        | [🔗](https://open.spotify.com/album/26eCHp86K2xLQj0B7Cr8he) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273da81ceb610e54852e16f0e82" alt="" width="50" /> | BOCA 2011: Best Of College A Cappella        | [🔗](https://open.spotify.com/album/27d96rqnXRtmrGBGHJzPBh) |
@@ -129,7 +131,6 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2735a1783df13795d2db2599c7e" alt="" width="50" /> | I Used to Live Alone                         | [🔗](https://open.spotify.com/album/0AmRRsaQVm5noeAB6LF8yA) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27356231fb2f9b79b8ef4e4dcdd" alt="" width="50" /> | Déjà Blue                                    | [🔗](https://open.spotify.com/album/1mZNLR8qY6GhhrnCmtEAv3) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a391a593f88024c5cea36b9c" alt="" width="50" /> | Behind Bars                                  | [🔗](https://open.spotify.com/album/40g8iY5VB5sTJ31943mAzQ) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2735f80e04f0ea87267cc80ec46" alt="" width="50" /> | BOCA 2018: Best of College A Cappella        | [🔗](https://open.spotify.com/album/4F7k4viXqEAIlrB5rbAPbF) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2732c9bde1126c992a7140f4976" alt="" width="50" /> | BOCA 2016: Best Of College A Cappella        | [🔗](https://open.spotify.com/album/2AOr4esohQurJGXklhRH1a) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731bf130ee9a90bd5cce66e40e" alt="" width="50" /> | Almost 8:08                                  | [🔗](https://open.spotify.com/album/1gbG9XfNmlfNGEnOTH0f6N) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273ee681b6eddc77fd366693a84" alt="" width="50" /> | A Kick & A Wallop                            | [🔗](https://open.spotify.com/album/5wnXtRvlemaPLxZFTpWtix) |
@@ -185,7 +186,7 @@
 
 |   Number of Tracks | Label                                                                                                       |
 |-------------------:|:------------------------------------------------------------------------------------------------------------|
-|                 43 | [Varsity Vocals](../labels/varsity_vocals.md)                                                               |
+|                 44 | [Varsity Vocals](../labels/varsity_vocals.md)                                                               |
 |                 36 | [RCA Records Label](../labels/rca_records_label.md)                                                         |
 |                 32 | [A Cappella Records](../labels/a_cappella_records.md)                                                       |
 |                 12 | [Ithacappella](../labels/ithacappella.md)                                                                   |
@@ -242,14 +243,14 @@
 | Telephone                  | Scarborough Fair               |
 | Finesse - Remix            | Lullabye (Goodnight My Angel)  |
 | My Happy Ending            | Shenandoah - Arr. Bob Chilcott |
-| Bang Bang                  | Danny Boy                      |
-| Don't Stop Believin'       | Loch Lomond                    |
+| Don't Stop Believin'       | Danny Boy                      |
+| Bang Bang                  | Loch Lomond                    |
 
 | 10 most Speechy tracks                    | 10 least Speechy tracks   |
 |:------------------------------------------|:--------------------------|
 | Hey Momma / Hit the Road Jack             | Falling Slowly            |
-| Uptown Funk                               | Good Vibrations           |
-| Bang Bang                                 | Cough Syrup               |
+| Uptown Funk                               | Cough Syrup               |
+| Bang Bang                                 | Good Vibrations           |
 | Don't Stop Me Now                         | Latch                     |
 | I'd Like To                               | Demons                    |
 | Cry Me a River                            | We All Need Saving        |
@@ -273,16 +274,16 @@
 
 | 10 most Instrumental tracks    | 10 least Instrumental tracks   |
 |:-------------------------------|:-------------------------------|
-| Prelude No.1 in C Major        | Little Lion Man                |
+| Prelude No.1 in C Major        | Finesse - Remix                |
 | Libertango                     | We All Need Saving             |
-| Eine kleine Nachtmusik         | Sincerely Jane                 |
-| Lullabye (Goodnight My Angel)  | Honeybee                       |
-| Dance of the Sugar Plum Fairy  | Radioactive Love               |
-| Here (In Your Arms)            | Apologize                      |
-| Falling Slowly                 | She Used to Be Mine            |
-| Greensleeves                   | Bird Set Free                  |
-| Shenandoah - Arr. Bob Chilcott | La Camisa Negra                |
-| Home                           | Title of the Song              |
+| Eine kleine Nachtmusik         | Pure Imagination               |
+| Lullabye (Goodnight My Angel)  | Movin' On                      |
+| Dance of the Sugar Plum Fairy  | Stay                           |
+| Here (In Your Arms)            | Work Song                      |
+| Falling Slowly                 | Carry On Wayward Son           |
+| Greensleeves                   | Smooth                         |
+| Shenandoah - Arr. Bob Chilcott | Little Lion Man                |
+| Home                           | You And I                      |
 
 | 10 most Live tracks     | 10 least Live tracks                               |
 |:------------------------|:---------------------------------------------------|

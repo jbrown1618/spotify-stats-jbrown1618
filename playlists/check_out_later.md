@@ -142,7 +142,7 @@
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
-|                 10 | [pop](../genres/pop.md)                           |
+|                  9 | [pop](../genres/pop.md)                           |
 |                  7 | [k-pop](../genres/k_pop.md)                       |
 |                  5 | [dance pop](../genres/dance_pop.md)               |
 |                  5 | [art pop](../genres/art_pop.md)                   |

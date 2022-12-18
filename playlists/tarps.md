@@ -222,8 +222,8 @@
 |                  7 | [classic rock](../genres/classic_rock.md)           |
 |                  6 | urban contemporary                                  |
 |                  6 | [acoustic pop](../genres/acoustic_pop.md)           |
-|                  5 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                  5 | [pop rock](../genres/pop_rock.md)                   |
+|                  4 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                  4 | [mellow gold](../genres/mellow_gold.md)             |
 |                  3 | stomp and holler                                    |
 |                  3 | [soft rock](../genres/soft_rock.md)                 |

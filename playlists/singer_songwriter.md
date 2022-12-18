@@ -234,7 +234,7 @@
 |                  5 | deep indie singer-songwriter                        |
 |                  4 | anti-folk                                           |
 |                  3 | viral pop                                           |
-|                  2 | neo soul                                            |
+|                  3 | neo soul                                            |
 |                  2 | indy indie                                          |
 |                  2 | indiecoustica                                       |
 |                  2 | chamber pop                                         |

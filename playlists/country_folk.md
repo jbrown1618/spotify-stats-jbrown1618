@@ -105,7 +105,6 @@
 |-------------------:|:------------------------------------------|
 |                 11 | country dawn                              |
 |                 11 | country                                   |
-|                  8 | [pop](../genres/pop.md)                   |
 |                  8 | indie folk                                |
 |                  8 | contemporary country                      |
 |                  6 | stomp and holler                          |
@@ -113,6 +112,7 @@
 |                  6 | mandolin                                  |
 |                  6 | instrumental bluegrass                    |
 |                  6 | bluegrass                                 |
+|                  5 | [pop](../genres/pop.md)                   |
 |                  5 | oklahoma country                          |
 |                  5 | folk-pop                                  |
 |                  4 | uk americana                              |

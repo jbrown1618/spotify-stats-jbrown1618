@@ -293,7 +293,7 @@
 
 |   Number of Tracks | Genre                                                 |
 |-------------------:|:------------------------------------------------------|
-|                200 | [a cappella](../genres/a_cappella.md)                 |
+|                201 | [a cappella](../genres/a_cappella.md)                 |
 |                119 | [college a cappella](../genres/college_a_cappella.md) |
 |                 32 | fantasy                                               |
 |                 11 | french jazz                                           |

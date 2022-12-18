@@ -229,10 +229,10 @@
 |                  4 | permanent wave                                      |
 |                  4 | lounge                                              |
 |                  4 | glam rock                                           |
-|                  3 | viral pop                                           |
 |                  3 | folk rock                                           |
 |                  3 | canadian pop                                        |
 |                  3 | australian pop                                      |
+|                  2 | viral pop                                           |
 |                  2 | urban contemporary                                  |
 |                  2 | soul                                                |
 |                  2 | [r&b](../genres/r_b.md)                             |

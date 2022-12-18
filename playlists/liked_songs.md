@@ -357,7 +357,7 @@
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
 |                576 | [k-pop](../genres/k_pop.md)                         |
-|                360 | [pop](../genres/pop.md)                             |
+|                344 | [pop](../genres/pop.md)                             |
 |                286 | [k-pop girl group](../genres/k_pop_girl_group.md)   |
 |                158 | [dance pop](../genres/dance_pop.md)                 |
 |                150 | [k-pop boy group](../genres/k_pop_boy_group.md)     |
@@ -367,9 +367,9 @@
 |                 58 | [neo mellow](../genres/neo_mellow.md)               |
 |                 57 | [acoustic pop](../genres/acoustic_pop.md)           |
 |                 55 | [pop rock](../genres/pop_rock.md)                   |
-|                 51 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                 44 | [hollywood](../genres/hollywood.md)                 |
 |                 42 | [mellow gold](../genres/mellow_gold.md)             |
+|                 36 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                 32 | [soft rock](../genres/soft_rock.md)                 |
 |                 32 | [electropop](../genres/electropop.md)               |
 |                 30 | [psychedelic rock](../genres/psychedelic_rock.md)   |
@@ -393,9 +393,9 @@
 |                 18 | folk rock                                           |
 |                 18 | art rock                                            |
 |                 18 | [a cappella](../genres/a_cappella.md)               |
-|                 16 | pop rap                                             |
 |                 15 | urban contemporary                                  |
 |                 15 | uk pop                                              |
+|                 15 | pop rap                                             |
 |                 15 | k-rap                                               |
 |                 14 | uk alternative pop                                  |
 |                 14 | neo soul                                            |
@@ -416,7 +416,6 @@
 |                  9 | oxford indie                                        |
 |                  9 | lounge                                              |
 |                  9 | anti-folk                                           |
-|                  8 | viral pop                                           |
 |                  8 | tropical house                                      |
 |                  8 | latin pop                                           |
 |                  8 | korean city pop                                     |
@@ -425,6 +424,7 @@
 |                  8 | blues rock                                          |
 |                  8 | bergen indie                                        |
 |                  8 | australian dance                                    |
+|                  7 | viral pop                                           |
 |                  7 | pop dance                                           |
 |                  7 | kawaii metal                                        |
 |                  7 | j-pop                                               |

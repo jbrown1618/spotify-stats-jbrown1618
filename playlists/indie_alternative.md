@@ -85,7 +85,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7926088433d79485da5e1734" alt="" width="50" /> | Mabel                                                          | [🔗](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9675860a0330f45981e83436" alt="" width="50" /> | Guy Sigsworth                                                  | [🔗](https://open.spotify.com/artist/0uQWT7X0I9Y7zM7WWexpAj) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb581efa688945cbb092df1726" alt="" width="50" /> | Avril Lavigne                                                  | [🔗](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebae9d3f8db5842d33786cab87" alt="" width="50" /> | Måneskin                                                       | [🔗](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfa2217e1f2c327db51ec0932" alt="" width="50" /> | Måneskin                                                       | [🔗](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba9add5f319d70026d4f3b8a1" alt="" width="50" /> | Rixton                                                         | [🔗](https://open.spotify.com/artist/0kkxsdcaWmWU2yWAqclDh4) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba55b91f04d6b3c3c8dd9108b" alt="" width="50" /> | Adra Boo                                                       | [🔗](https://open.spotify.com/artist/0YahlVgicneX5hdN8XyIpp) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb047095c90419cf2a97266f77" alt="" width="50" /> | Nine Inch Nails                                                | [🔗](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) |
@@ -321,7 +321,6 @@
 |                  9 | etherpop                                            |
 |                  8 | nyc pop                                             |
 |                  8 | australian dance                                    |
-|                  7 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                  6 | [neo mellow](../genres/neo_mellow.md)               |
 |                  6 | la indie                                            |
 |                  5 | uk funky                                            |
@@ -349,6 +348,7 @@
 |                  2 | washington indie                                    |
 |                  2 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  2 | shiver pop                                          |
+|                  2 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                  2 | pop punk                                            |
 |                  2 | pop emo                                             |
 |                  2 | pixie                                               |
@@ -373,6 +373,7 @@
 |                  1 | nu jazz                                             |
 |                  1 | new rave                                            |
 |                  1 | neo-synthpop                                        |
+|                  1 | neo soul                                            |
 |                  1 | lo-fi                                               |
 |                  1 | [k-pop girl group](../genres/k_pop_girl_group.md)   |
 |                  1 | japanese emo                                        |
@@ -395,7 +396,6 @@
 |                  1 | danish pop                                          |
 |                  1 | cyberpunk                                           |
 |                  1 | canadian singer-songwriter                          |
-|                  1 | canadian rock                                       |
 
 </details>
 
