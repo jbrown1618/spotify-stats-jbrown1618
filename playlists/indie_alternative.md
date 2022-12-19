@@ -297,7 +297,7 @@
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
 |                 57 | [pop](../genres/pop.md)                             |
-|                 23 | indie pop                                           |
+|                 24 | indie pop                                           |
 |                 22 | [rock](../genres/rock.md)                           |
 |                 19 | modern rock                                         |
 |                 17 | [lilith](../genres/lilith.md)                       |
@@ -346,7 +346,6 @@
 |                  3 | candy pop                                           |
 |                  3 | [acoustic pop](../genres/acoustic_pop.md)           |
 |                  2 | washington indie                                    |
-|                  2 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  2 | shiver pop                                          |
 |                  2 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                  2 | pop punk                                            |
@@ -368,12 +367,12 @@
 |                  1 | swedish electropop                                  |
 |                  1 | swedish alternative rock                            |
 |                  1 | spacegrunge                                         |
+|                  1 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  1 | shimmer pop                                         |
 |                  1 | nu metal                                            |
 |                  1 | nu jazz                                             |
 |                  1 | new rave                                            |
 |                  1 | neo-synthpop                                        |
-|                  1 | neo soul                                            |
 |                  1 | lo-fi                                               |
 |                  1 | [k-pop girl group](../genres/k_pop_girl_group.md)   |
 |                  1 | japanese emo                                        |
@@ -396,6 +395,7 @@
 |                  1 | danish pop                                          |
 |                  1 | cyberpunk                                           |
 |                  1 | canadian singer-songwriter                          |
+|                  1 | canadian rock                                       |
 
 </details>
 

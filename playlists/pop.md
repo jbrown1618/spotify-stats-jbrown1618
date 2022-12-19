@@ -412,6 +412,7 @@
 |                  3 | modern alternative rock                         |
 |                  3 | lgbtq+ hip hop                                  |
 |                  3 | latin pop                                       |
+|                  3 | indie pop                                       |
 |                  3 | house                                           |
 |                  3 | etherpop                                        |
 |                  3 | chill r&b                                       |
@@ -426,7 +427,6 @@
 |                  2 | irish singer-songwriter                         |
 |                  2 | indy indie                                      |
 |                  2 | indiecoustica                                   |
-|                  2 | indie pop                                       |
 |                  2 | gauze pop                                       |
 |                  2 | filter house                                    |
 |                  2 | electro                                         |

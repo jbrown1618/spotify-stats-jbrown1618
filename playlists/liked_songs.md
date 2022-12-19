@@ -375,15 +375,15 @@
 |                 30 | [psychedelic rock](../genres/psychedelic_rock.md)   |
 |                 30 | british invasion                                    |
 |                 30 | [art pop](../genres/art_pop.md)                     |
-|                 29 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                 26 | [r&b](../genres/r_b.md)                             |
+|                 25 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                 25 | piano rock                                          |
 |                 23 | korean pop                                          |
 |                 23 | beatlesque                                          |
 |                 22 | merseybeat                                          |
 |                 22 | korean r&b                                          |
+|                 20 | indie pop                                           |
 |                 19 | modern rock                                         |
-|                 19 | indie pop                                           |
 |                 19 | edm                                                 |
 |                 19 | anime                                               |
 |                 19 | album rock                                          |
