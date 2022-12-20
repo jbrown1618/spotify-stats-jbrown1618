@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1357 songs](liked_songs_tracks.md)
+[1358 songs](liked_songs_tracks.md)
 
 ## Top Artists
 
@@ -98,6 +98,7 @@
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebfa980b99bc5f4d47b4253f82" alt="" width="50" /> | j-hope                                                         | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb288ac05481cedc5bddb5b11b" alt="" width="50" /> | Maroon 5                                                       | [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb5b1a291b0a6a689091d54d8b" alt="" width="50" /> | IVE                                                            | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
+|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb99b5a1b1b95a279176ded0e1" alt="" width="50" /> | NewJeans                                                       | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb767815f4876969e8f888f0db" alt="" width="50" /> | The Rose                                                       | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
 |                  4 | <img src="https://i.scdn.co/image/15b7ee7550ed4472700d573803ff90f2967f84d1" alt="" width="50" /> | A Fine Frenzy                                                  | [🔗](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0b4c8d0a415cab50e033129" alt="" width="50" /> | Solar                                                          | [🔗](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) |
@@ -113,7 +114,6 @@
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA                                                           | [🔗](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb2be8611f6c6e9174031c64df" alt="" width="50" /> | JEON SOMI                                                      | [🔗](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b" alt="" width="50" /> | Eminem                                                         | [🔗](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) |
-|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebd90aa536055fe9806b3960e6" alt="" width="50" /> | GOT7                                                           | [🔗](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) |
 
 </details>
 
@@ -317,6 +317,7 @@
 |                  4 | [Arista](../labels/arista.md)                                                                                       |
 |                  4 | [Abyss Company](../labels/abyss_company.md)                                                                         |
 |                  4 | [ATL](../labels/atl.md)                                                                                             |
+|                  4 | [ADOR](../labels/ador.md)                                                                                           |
 |                  4 | [ADA France](../labels/ada_france.md)                                                                               |
 |                  4 | [A&M](../labels/a_m.md)                                                                                             |
 |                  4 | [2018 YG Entertainment](../labels/2018_yg_entertainment.md)                                                         |
@@ -341,7 +342,6 @@
 |                  3 | [Fave Entertainment](../labels/fave_entertainment.md)                                                               |
 |                  3 | [Casablanca Records](../labels/casablanca_records.md)                                                               |
 |                  3 | [Canvasback](../labels/canvasback.md)                                                                               |
-|                  3 | [Brute](../labels/brute.md)                                                                                         |
 
 </details>
 
@@ -356,16 +356,16 @@
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
-|                576 | [k-pop](../genres/k_pop.md)                         |
+|                577 | [k-pop](../genres/k_pop.md)                         |
 |                344 | [pop](../genres/pop.md)                             |
-|                286 | [k-pop girl group](../genres/k_pop_girl_group.md)   |
+|                287 | [k-pop girl group](../genres/k_pop_girl_group.md)   |
 |                158 | [dance pop](../genres/dance_pop.md)                 |
 |                150 | [k-pop boy group](../genres/k_pop_boy_group.md)     |
 |                 99 | [rock](../genres/rock.md)                           |
 |                 78 | [classic rock](../genres/classic_rock.md)           |
 |                 60 | [lilith](../genres/lilith.md)                       |
 |                 58 | [neo mellow](../genres/neo_mellow.md)               |
-|                 57 | [acoustic pop](../genres/acoustic_pop.md)           |
+|                 56 | [acoustic pop](../genres/acoustic_pop.md)           |
 |                 55 | [pop rock](../genres/pop_rock.md)                   |
 |                 44 | [hollywood](../genres/hollywood.md)                 |
 |                 42 | [mellow gold](../genres/mellow_gold.md)             |
@@ -375,15 +375,15 @@
 |                 30 | [psychedelic rock](../genres/psychedelic_rock.md)   |
 |                 30 | british invasion                                    |
 |                 30 | [art pop](../genres/art_pop.md)                     |
+|                 29 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                 26 | [r&b](../genres/r_b.md)                             |
-|                 25 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                 25 | piano rock                                          |
 |                 23 | korean pop                                          |
 |                 23 | beatlesque                                          |
 |                 22 | merseybeat                                          |
 |                 22 | korean r&b                                          |
-|                 20 | indie pop                                           |
 |                 19 | modern rock                                         |
+|                 19 | indie pop                                           |
 |                 19 | edm                                                 |
 |                 19 | anime                                               |
 |                 19 | album rock                                          |
@@ -471,8 +471,8 @@
 | SNEAKERS                        | You Take My Breath Away     |
 | WAP (feat. Megan Thee Stallion) | Born To Die                 |
 | Billie Jean                     | The End (Interlude)         |
-| Another One Bites The Dust      | Amore                       |
-| Baby Got Back                   | Bridge Over Troubled Water  |
+| Baby Got Back                   | Amore                       |
+| Another One Bites The Dust      | Bridge Over Troubled Water  |
 | Fidelity                        | Pyramid Song                |
 
 | 10 most Energetic tracks   | 10 least Energetic tracks   |
@@ -496,8 +496,8 @@
 | Mambo No. 5 (a Little Bit of...) | Old Fashioned             |
 | Vigilante Shit                   | The Scientist             |
 | Free Fall                        | All Too Well              |
-| bad guy                          | Breakeven                 |
-| WAP (feat. Megan Thee Stallion)  | Satellite Call            |
+| WAP (feat. Megan Thee Stallion)  | Breakeven                 |
+| bad guy                          | Satellite Call            |
 | Ice Cream (with Selena Gomez)    | 情非得已                      |
 | Feelin' Like                     | With                      |
 
@@ -516,15 +516,15 @@
 
 | 10 most Instrumental tracks              | 10 least Instrumental tracks   |
 |:-----------------------------------------|:-------------------------------|
-| Digital Love                             | When I Get Old                 |
-| だいじょばない                                  | You Never Know                 |
-| Street Spirit (Fade Out)                 | LAST WALTZ                     |
-| everything i wanted                      | imagine                        |
-| Instant Crush (feat. Julian Casablancas) | Make Me Feel                   |
-| Smooth Criminal - 2012 Remaster          | Impurities                     |
-| Pyramid Song                             | Nonstop                        |
-| Shanti Shanti Shanti                     | I CAN'T STOP ME                |
-| You Take My Breath Away                  | Blue Flame                     |
+| Digital Love                             | HANN (Alone)                   |
+| だいじょばない                                  | When I Get Old                 |
+| Street Spirit (Fade Out)                 | You Never Know                 |
+| everything i wanted                      | LAST WALTZ                     |
+| Instant Crush (feat. Julian Casablancas) | imagine                        |
+| Smooth Criminal - 2012 Remaster          | Make Me Feel                   |
+| Pyramid Song                             | Impurities                     |
+| Shanti Shanti Shanti                     | Nonstop                        |
+| You Take My Breath Away                  | I CAN'T STOP ME                |
 | The Night We Met                         | Djadja                         |
 
 | 10 most Live tracks            | 10 least Live tracks                  |
@@ -543,12 +543,12 @@
 | 10 most Happy tracks            | 10 least Happy tracks   |
 |:--------------------------------|:------------------------|
 | Sour candy                      | Yellow Flicker Beat     |
-| Like a Virgin                   | Falling                 |
-| Big Yellow Taxi                 | Lose Yourself           |
+| Big Yellow Taxi                 | Falling                 |
+| Like a Virgin                   | Lose Yourself           |
 | There's Nothing Holdin' Me Back | Crystallize             |
 | Twenty-three                    | Once Upon Another Time  |
 | Devil                           | xanny                   |
 | Pepe                            | No Time To Die          |
-| Mercy                           | Delicate                |
-| SexyBack (feat. Timbaland)      | What Sarah Said         |
-| I'm a Slave 4 U                 | You Take My Breath Away |
+| SexyBack (feat. Timbaland)      | Delicate                |
+| Mercy                           | What Sarah Said         |
+| チョコレイト・ディスコ                     | You Take My Breath Away |

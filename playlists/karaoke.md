@@ -218,9 +218,9 @@
 |                  8 | piano rock                                          |
 |                  7 | [soft rock](../genres/soft_rock.md)                 |
 |                  7 | [lilith](../genres/lilith.md)                       |
+|                  6 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  6 | [hollywood](../genres/hollywood.md)                 |
 |                  6 | [adult standards](../genres/adult_standards.md)     |
-|                  5 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  5 | [psychedelic rock](../genres/psychedelic_rock.md)   |
 |                  5 | merseybeat                                          |
 |                  5 | british invasion                                    |

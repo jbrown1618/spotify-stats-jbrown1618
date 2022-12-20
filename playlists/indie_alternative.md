@@ -344,8 +344,8 @@
 |                  3 | scottish singer-songwriter                          |
 |                  3 | comic                                               |
 |                  3 | candy pop                                           |
-|                  3 | [acoustic pop](../genres/acoustic_pop.md)           |
 |                  2 | washington indie                                    |
+|                  2 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  2 | shiver pop                                          |
 |                  2 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                  2 | pop punk                                            |
@@ -367,7 +367,6 @@
 |                  1 | swedish electropop                                  |
 |                  1 | swedish alternative rock                            |
 |                  1 | spacegrunge                                         |
-|                  1 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  1 | shimmer pop                                         |
 |                  1 | nu metal                                            |
 |                  1 | nu jazz                                             |
@@ -396,6 +395,7 @@
 |                  1 | cyberpunk                                           |
 |                  1 | canadian singer-songwriter                          |
 |                  1 | canadian rock                                       |
+|                  1 | bedroom pop                                         |
 
 </details>
 

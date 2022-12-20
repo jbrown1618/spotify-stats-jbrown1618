@@ -1,6 +1,6 @@
 # k-pop girl group
 
-[381 songs](k_pop_girl_group_tracks.md)
+[382 songs](k_pop_girl_group_tracks.md)
 
 ## Top Artists
 
@@ -31,12 +31,12 @@
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb9954a1ab45b2404a7bff2a45" alt="" width="50" /> | OH MY GIRL                                           | [🔗](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb271110d977700b69d9548993" alt="" width="50" /> | EXID                                                 | [🔗](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb5b1a291b0a6a689091d54d8b" alt="" width="50" /> | IVE                                                  | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
+|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb99b5a1b1b95a279176ded0e1" alt="" width="50" /> | NewJeans                                             | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d4b74165ecfadcacf0771ae" alt="" width="50" /> | MOMOLAND                                             | [🔗](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b27336adcea4e93245f1fec547df" alt="" width="50" /> | AOA                                                  | [🔗](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc1dc943555dfa1ee2a107e5" alt="" width="50" /> | K/DA                                                 | [🔗](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d998e7541724c918777b8ca" alt="" width="50" /> | League of Legends                                    | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb95f4928ac77d31b53626dab3" alt="" width="50" /> | PIXY                                                 | [🔗](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) |
-|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb99b5a1b1b95a279176ded0e1" alt="" width="50" /> | NewJeans                                             | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273dd8c3b43984ed746176ac0cf" alt="" width="50" /> | PinkFantasy                                          | [🔗](https://open.spotify.com/artist/5syu5kN4a5f4rgMCRGlnZp) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eba6b0d348c125a072e5284b3e" alt="" width="50" /> | IZ*ONE                                               | [🔗](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0cc2045ff4e90d12df91cc3" alt="" width="50" /> | f(x)                                                 | [🔗](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) |
@@ -221,10 +221,10 @@
 |                  6 | [FNC ENTERTAINMENT](../labels/fnc_entertainment.md)                                                                 |
 |                  5 | [Warner Records](../labels/warner_records.md)                                                                       |
 |                  5 | [Riot Games](../labels/riot_games.md)                                                                               |
+|                  5 | [ADOR](../labels/ador.md)                                                                                           |
 |                  4 | [avex trax](../labels/avex_trax.md)                                                                                 |
 |                  4 | [WM Japan](../labels/wm_japan.md)                                                                                   |
 |                  4 | [BlockBerryCreative](../labels/blockberrycreative.md)                                                               |
-|                  4 | [ADOR](../labels/ador.md)                                                                                           |
 |                  4 | [2018 YG Entertainment](../labels/2018_yg_entertainment.md)                                                         |
 |                  3 | [해피트라이브엔터테인먼트](../labels/____________.md)                                                                           |
 |                  3 | [올라트엔터테인먼트](../labels/_________.md)                                                                                 |
@@ -321,22 +321,22 @@
 | Hurt                      | 달라달라 (DALLA DALLA)         |
 | Jazz Bar                  | LA DI DA                   |
 | ZOOM                      | DALLA DALLA - English Ver. |
-| Starry Night              | RUN2U                      |
-| Wind flower               | Adios                      |
+| Wind flower               | RUN2U                      |
+| Starry Night              | Adios                      |
 | Moonlight Melody          | Red Light                  |
 | The Happiest Girl         | Poison                     |
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| You and I (Park Bom)          | Bad Boy                        |
-| Adios                         | Red Flavor                     |
-| YEPPI YEPPI                   | You Better Know                |
-| So Hot                        | Umpah Umpah                    |
-| I Am The Best                 | Be Natural                     |
-| Power Up                      | Beautiful Christmas            |
-| BBoom BBoom                   | #Cookie Jar                    |
-| In My Dreams                  | Rookie                         |
-| BAAM                          | 247                            |
+| You and I (Park Bom)          | Ice Cream Cake                 |
+| Adios                         | Bad Boy                        |
+| YEPPI YEPPI                   | Red Flavor                     |
+| So Hot                        | You Better Know                |
+| I Am The Best                 | Umpah Umpah                    |
+| Power Up                      | Be Natural                     |
+| BBoom BBoom                   | Beautiful Christmas            |
+| In My Dreams                  | #Cookie Jar                    |
+| BAAM                          | Rookie                         |
 | Star                          | I'll Make You Cry              |
 
 | 10 most Live tracks   | 10 least Live tracks          |
@@ -347,20 +347,20 @@
 | I Like That           | Red Light                     |
 | Vibrato               | BLACK DRESS                   |
 | 행복 (Happiness)        | DARK (X-file)                 |
-| LP                    | Ice Cream (with Selena Gomez) |
-| Genie                 | YEPPI YEPPI                   |
+| Genie                 | Ice Cream (with Selena Gomez) |
+| LP                    | YEPPI YEPPI                   |
 | STEREOTYPE            | SNEAKERS (English Ver.)       |
 | 5th Season (SSFWL)    | SNEAKERS                      |
 
 | 10 most Happy tracks    | 10 least Happy tracks     |
 |:------------------------|:--------------------------|
-| Pepe                    | HWAA                      |
-| Miniskirt               | 4 Walls                   |
-| So Hot                  | MORE                      |
-| Twinkle                 | POSE                      |
-| Lion Heart              | LION                      |
-| Give it to me           | In My Dreams              |
-| 러시안 룰렛 Russian Roulette | Hope Not                  |
+| Pepe                    | 4 Walls                   |
+| Miniskirt               | MORE                      |
+| So Hot                  | POSE                      |
+| Twinkle                 | LION                      |
+| Give it to me           | Ditto                     |
+| Lion Heart              | Hope Not                  |
+| 러시안 룰렛 Russian Roulette | In My Dreams              |
 | Nobody                  | Body Talk                 |
 | Really                  | Lucid Dream               |
 | Devil                   | 7월 7일 One Of These Nights |

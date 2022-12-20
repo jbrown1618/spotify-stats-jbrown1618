@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273f7da7c0f322b7a1c95190d92" alt="K-Pop" width="100" />
 
-[906 songs](k_pop_tracks.md)
+[907 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -62,6 +62,7 @@
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb271110d977700b69d9548993" alt="" width="50" /> | EXID                                                 | [🔗](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | PENTAGON                                             | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99713cdd2a68b0db306aad6" alt="" width="50" /> | TAEMIN                                               | [🔗](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) |
+|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb99b5a1b1b95a279176ded0e1" alt="" width="50" /> | NewJeans                                             | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb767815f4876969e8f888f0db" alt="" width="50" /> | The Rose                                             | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d4b74165ecfadcacf0771ae" alt="" width="50" /> | MOMOLAND                                             | [🔗](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b27336adcea4e93245f1fec547df" alt="" width="50" /> | AOA                                                  | [🔗](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) |
@@ -72,7 +73,6 @@
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b13da5a8a3dd6e0d53ff764" alt="" width="50" /> | Red Velvet - IRENE & SEULGI                          | [🔗](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb8e9d1c8642df6f869631fe62" alt="" width="50" /> | Crush                                                | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb5b1a291b0a6a689091d54d8b" alt="" width="50" /> | IVE                                                  | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
-|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb99b5a1b1b95a279176ded0e1" alt="" width="50" /> | NewJeans                                             | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273dd8c3b43984ed746176ac0cf" alt="" width="50" /> | PinkFantasy                                          | [🔗](https://open.spotify.com/artist/5syu5kN4a5f4rgMCRGlnZp) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eba6b0d348c125a072e5284b3e" alt="" width="50" /> | IZ*ONE                                               | [🔗](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0b4c8d0a415cab50e033129" alt="" width="50" /> | Solar                                                | [🔗](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) |
@@ -276,6 +276,7 @@
 |                  6 | [Genie Music Corporation;Stone Music Entertainment](../labels/genie_music_corporation_stone_music_entertainment.md) |
 |                  5 | [avex trax](../labels/avex_trax.md)                                                                                 |
 |                  5 | [P NATION](../labels/p_nation.md)                                                                                   |
+|                  5 | [ADOR](../labels/ador.md)                                                                                           |
 |                  4 | [WM Japan](../labels/wm_japan.md)                                                                                   |
 |                  4 | [THE BLACK LABEL](../labels/the_black_label.md)                                                                     |
 |                  4 | [Studio MaumC](../labels/studio_maumc.md)                                                                           |
@@ -284,7 +285,6 @@
 |                  4 | [Fave Entertainment](../labels/fave_entertainment.md)                                                               |
 |                  4 | [BlockBerryCreative](../labels/blockberrycreative.md)                                                               |
 |                  4 | [Abyss Company](../labels/abyss_company.md)                                                                         |
-|                  4 | [ADOR](../labels/ador.md)                                                                                           |
 |                  4 | [2018 YG Entertainment](../labels/2018_yg_entertainment.md)                                                         |
 |                  3 | [마이돌엔터테인먼트](../labels/_________.md)                                                                                 |
 |                  3 | [TEAM WANG records](../labels/team_wang_records.md)                                                                 |
@@ -359,8 +359,8 @@
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
-|                756 | [k-pop](../genres/k_pop.md)                       |
-|                360 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+|                757 | [k-pop](../genres/k_pop.md)                       |
+|                361 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 |                207 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
 |                 52 | [pop](../genres/pop.md)                           |
 |                 27 | korean pop                                        |
@@ -405,8 +405,8 @@
 | SNEAKERS                   | Clockwork                   |
 | Idle song                  | Epilogue                    |
 | Jelly                      | Like Water                  |
-| Typa Girl                  | Fine                        |
-| Weather                    | My sea                      |
+| Weather                    | Fine                        |
+| Typa Girl                  | My sea                      |
 | BOOM                       | On The Ground               |
 | Mr. Simple                 | Sweet                       |
 | Tippy Toes                 | U                           |
@@ -452,16 +452,16 @@
 
 | 10 most Instrumental tracks      | 10 least Instrumental tracks   |
 |:---------------------------------|:-------------------------------|
-| Tippy Toes                       | Pantomime                      |
-| You and I (Park Bom)             | AURA                           |
-| Adios                            | BLACK DRESS                    |
-| pporappippam                     | ANTIFRAGILE                    |
-| Badster                          | Bing Bing                      |
-| YEPPI YEPPI                      | Let Me In (20 CUBE)            |
-| It′s Raining                     | Jazz Bar                       |
-| So Hot                           | L.I.E                          |
-| GingaMingaYo (the strange world) | BBIBBI                         |
-| I Am The Best                    | 우리집 My House                   |
+| Tippy Toes                       | AURA                           |
+| You and I (Park Bom)             | BLACK DRESS                    |
+| Adios                            | ANTIFRAGILE                    |
+| pporappippam                     | Bing Bing                      |
+| Badster                          | Let Me In (20 CUBE)            |
+| YEPPI YEPPI                      | Jazz Bar                       |
+| It′s Raining                     | L.I.E                          |
+| So Hot                           | BBIBBI                         |
+| GingaMingaYo (the strange world) | Rollin'                        |
+| I Am The Best                    | DDD                            |
 
 | 10 most Live tracks            | 10 least Live tracks                  |
 |:-------------------------------|:--------------------------------------|
@@ -478,13 +478,13 @@
 
 | 10 most Happy tracks   | 10 least Happy tracks     |
 |:-----------------------|:--------------------------|
-| Sour candy             | Stardust love song        |
-| Devil                  | Sweet Night               |
-| Twenty-three           | Lucid Dream               |
+| Sour candy             | Sweet Night               |
+| Twenty-three           | Stardust love song        |
+| Devil                  | Lucid Dream               |
 | Pepe                   | U                         |
-| So Hot                 | My sea                    |
-| Miniskirt              | Side Effects              |
-| Twinkle                | Good Night My Princess    |
-| 쏘리 쏘리 Sorry, Sorry     | 7월 7일 One Of These Nights |
-| Give it to me          | Grey Suit                 |
-| Some (feat. Lil Boi)   | The Road                  |
+| Miniskirt              | My sea                    |
+| So Hot                 | Side Effects              |
+| 쏘리 쏘리 Sorry, Sorry     | Good Night My Princess    |
+| Twinkle                | 7월 7일 One Of These Nights |
+| Some (feat. Lil Boi)   | Grey Suit                 |
+| Lion Heart             | The Road                  |
