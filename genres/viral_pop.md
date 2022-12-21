@@ -1,16 +1,16 @@
 # viral pop
 
-[43 songs](viral_pop_tracks.md)
+[44 songs](viral_pop_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 22 artists](../images/genres/viral_pop/artists.png)
+![Bar chart of top 24 artists](../images/genres/viral_pop/artists.png)
 
 ![Comparison of Artist](../images/genres/viral_pop/artists_comparison.png)
 
 
 <details>
-<summary>See all 22 artists</summary>
+<summary>See all 24 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                       | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------|:------------------------------------------------------------|
@@ -22,6 +22,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e2e2c78de847c4d9b12d32f" alt="" width="50" /> | Charlie Puth                                 | [🔗](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb10264b6242b96013b393e9ba" alt="" width="50" /> | Anna Gilbert                                 | [🔗](https://open.spotify.com/artist/77ajzV8In7jP3U2OYT1Yy7) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2131a1dabfa3b1f2f4fb4b81" alt="" width="50" /> | The Hound + The Fox                          | [🔗](https://open.spotify.com/artist/6KxrjoB8dMcRC295reb2Us) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb46416642da7b30327821d26e" alt="" width="50" /> | A Great Big World                            | [🔗](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe6929e51ab4408868a13cbd8" alt="" width="50" /> | The Swingles                                 | [🔗](https://open.spotify.com/artist/5QvPTVBx6OlrUuPwC8W3uU) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb609be0ee540573fd49d1cdea" alt="" width="50" /> | Tyler Ward                                   | [🔗](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1d8a4653fd6d0725521725bb" alt="" width="50" /> | James Smith                                  | [🔗](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) |
@@ -33,6 +34,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb472ce72dbc3c845b6e6324b0" alt="" width="50" /> | Home Free                                    | [🔗](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9b3a3f827bf30c0d1f10198c" alt="" width="50" /> | David Archuleta                              | [🔗](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | Justin Bieber                                | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | Christina Aguilera                           | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb354a84cfb27458618bca3ecb" alt="" width="50" /> | MAX                                          | [🔗](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA                                         | [🔗](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba5205abffd84341e5bace828" alt="" width="50" /> | Selena Gomez                                 | [🔗](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) |
@@ -41,11 +43,11 @@
 
 ## Top Albums
 
-![Bar chart of top 18 albums](../images/genres/viral_pop/albums.png)
+![Bar chart of top 19 albums](../images/genres/viral_pop/albums.png)
 
 
 <details>
-<summary>See all 18 albums</summary>
+<summary>See all 19 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                               | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -62,6 +64,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734fe297c018e495a97662e5ac" alt="" width="50" /> | Nine Track Mind                                                     | [🔗](https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27312e57573cbc551c187a96107" alt="" width="50" /> | Monster                                                             | [🔗](https://open.spotify.com/album/3yVVL2EYLp8g7gT08VvYKy) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739f48d446654c7b8b9b7bc58b" alt="" width="50" /> | Little Love - EP                                                    | [🔗](https://open.spotify.com/album/2PLM1yTphJeFZg01Xiaumc) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273554488d0c51967b1654d8ce5" alt="" width="50" /> | Is There Anybody Out There?                                         | [🔗](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27327c371084dee1b83e614798d" alt="" width="50" /> | Indiana                                                             | [🔗](https://open.spotify.com/album/2UpO4j1Zpptiwk3wbUIWmU) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521" alt="" width="50" /> | Illuminate (Deluxe)                                                 | [🔗](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739660ae57836f713884d86cbb" alt="" width="50" /> | Blueberry Eyes (feat. SUGA of BTS)                                  | [🔗](https://open.spotify.com/album/2dEJHnsuxIij7YeBbt0sVm) |
@@ -85,11 +88,11 @@
 |                 12 | [One Voice Productions](../labels/one_voice_productions.md)                               |
 |                  3 | [Island Records](../labels/island_records.md)                                             |
 |                  2 | [Island Def Jam](../labels/island_def_jam.md)                                             |
+|                  2 | [Epic](../labels/epic.md)                                                                 |
 |                  2 | [Artist Partner](../labels/artist_partner.md)                                             |
 |                  1 | [Syco Music](../labels/syco_music.md)                                                     |
 |                  1 | [Sony Music Entertainment](../labels/sony_music_entertainment.md)                         |
 |                  1 | [Shawn Mendes LP4-5 PS](../labels/shawn_mendes_lp4_5_ps.md)                               |
-|                  1 | [Epic](../labels/epic.md)                                                                 |
 |                  1 | [EMI Recorded Music Australia Pty Ltd](../labels/emi_recorded_music_australia_pty_ltd.md) |
 |                  1 | [EMI](../labels/emi.md)                                                                   |
 |                  1 | [Colour Vision Records](../labels/colour_vision_records.md)                               |
@@ -114,13 +117,13 @@
 
 | 10 most Energetic tracks                   | 10 least Energetic tracks   |
 |:-------------------------------------------|:----------------------------|
-| Industry                                   | Gollum's Song               |
-| There's Nothing Holdin' Me Back            | Loch Lomond                 |
-| Hobbit Drinking Medley                     | Just The Way You Are        |
-| YOUTH                                      | Les Miserables Medley       |
-| In My Blood                                | Mad World                   |
-| The Fox                                    | Greensleeves                |
-| At the Beginning                           | Danny Boy                   |
+| Industry                                   | Loch Lomond                 |
+| There's Nothing Holdin' Me Back            | Just The Way You Are        |
+| Hobbit Drinking Medley                     | Les Miserables Medley       |
+| YOUTH                                      | Mad World                   |
+| In My Blood                                | Greensleeves                |
+| The Fox                                    | Danny Boy                   |
+| At the Beginning                           | Say Something               |
 | Attention                                  | Amazing Grace               |
 | Blueberry Eyes (feat. SUGA of BTS)         | The Water is Wide           |
 | We Don't Talk Anymore (feat. Selena Gomez) | Edge of Night               |
@@ -141,8 +144,8 @@
 | 10 most Acoustic tracks   | 10 least Acoustic tracks               |
 |:--------------------------|:---------------------------------------|
 | Les Miserables Medley     | The Parting Glass                      |
-| Mad World                 | Blueberry Eyes (feat. SUGA of BTS)     |
-| Edge of Night             | Industry                               |
+| Edge of Night             | Blueberry Eyes (feat. SUGA of BTS)     |
+| Mad World                 | Industry                               |
 | The Sound of Silence      | Into The West                          |
 | Shenandoah                | There's Nothing Holdin' Me Back        |
 | Lullaby                   | Attention                              |
@@ -153,24 +156,24 @@
 
 | 10 most Instrumental tracks        | 10 least Instrumental tracks   |
 |:-----------------------------------|:-------------------------------|
-| Shenandoah                         | YOUTH                          |
-| At the Beginning                   | Hamilton Medley                |
-| Gollum's Song                      | Phantom of the Opera Medley    |
-| Blueberry Eyes (feat. SUGA of BTS) | Les Miserables Medley          |
-| Just The Way You Are               | The Sound of Silence           |
-| Misty Mountains                    | Over the Rainbow               |
-| Edge of Night                      | Lullaby                        |
-| Song of the Lonely Mountain        | You Raise Me Up - A Cappella   |
-| Arwen's Song                       | Industry                       |
+| Shenandoah                         | In My Blood                    |
+| At the Beginning                   | YOUTH                          |
+| Gollum's Song                      | Hamilton Medley                |
+| Blueberry Eyes (feat. SUGA of BTS) | Phantom of the Opera Medley    |
+| Just The Way You Are               | Les Miserables Medley          |
+| Misty Mountains                    | The Sound of Silence           |
+| Edge of Night                      | Over the Rainbow               |
+| Song of the Lonely Mountain        | Lullaby                        |
+| Arwen's Song                       | You Raise Me Up - A Cappella   |
 | Attention                          | Poor Wayfaring Stranger        |
 
 | 10 most Live tracks                        | 10 least Live tracks                   |
 |:-------------------------------------------|:---------------------------------------|
-| The Fox                                    | Loch Lomond                            |
+| The Fox                                    | The Prayer                             |
 | Hobbit Drinking Medley                     | Misty Mountains                        |
-| I See Fire                                 | The Prayer                             |
-| Phantom of the Opera Medley                | Amazing Grace                          |
-| The Sound of Silence                       | Hamilton Medley                        |
+| I See Fire                                 | Amazing Grace                          |
+| Phantom of the Opera Medley                | Hamilton Medley                        |
+| The Sound of Silence                       | Say Something                          |
 | Edge of Night                              | Señorita                               |
 | We Don't Talk Anymore (feat. Selena Gomez) | Monster (Shawn Mendes & Justin Bieber) |
 | The Water is Wide                          | Scarborough Fair                       |
@@ -179,13 +182,13 @@
 
 | 10 most Happy tracks                   | 10 least Happy tracks        |
 |:---------------------------------------|:-----------------------------|
-| There's Nothing Holdin' Me Back        | Misty Mountains              |
-| The Fox                                | Imagine                      |
-| Hobbit Drinking Medley                 | You Raise Me Up - A Cappella |
-| Attention                              | Edge of Night                |
-| Señorita                               | We All Need Saving           |
-| YOUTH                                  | Loch Lomond                  |
-| Monster (Shawn Mendes & Justin Bieber) | Les Miserables Medley        |
+| There's Nothing Holdin' Me Back        | Imagine                      |
+| The Fox                                | You Raise Me Up - A Cappella |
+| Hobbit Drinking Medley                 | Edge of Night                |
+| Attention                              | We All Need Saving           |
+| Señorita                               | Loch Lomond                  |
+| YOUTH                                  | Les Miserables Medley        |
+| Monster (Shawn Mendes & Justin Bieber) | Say Something                |
 | In My Blood                            | Into The West                |
 | Over the Rainbow                       | Arwen's Song                 |
 | The Water is Wide                      | Gollum's Song                |

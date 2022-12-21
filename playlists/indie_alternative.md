@@ -135,7 +135,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a4aa9c49f8fedf1df4f84051" alt="" width="50" /> | The 2¢ Show                                             | [🔗](https://open.spotify.com/album/4DECRyKlhKJgjZLLuvfAI6) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c985bcc18dd81da80839e5a9" alt="" width="50" /> | Plans                                                   | [🔗](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190" alt="" width="50" /> | Lust For Life                                           | [🔗](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27334733f87148c2fbe0176abdb" alt="" width="50" /> | In Rainbows                                             | [🔗](https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="" width="50" /> | In Rainbows                                             | [🔗](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="" width="50" /> | Hozier (Expanded Edition)                               | [🔗](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273fc452e32475d74850c7eec51" alt="" width="50" /> | Century Child                                           | [🔗](https://open.spotify.com/album/4FFDudC4xBVF6MYJUynRsN) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273de03bfc2991fd5bcfde65ba3" alt="" width="50" /> | Blurryface                                              | [🔗](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) |
@@ -344,6 +344,7 @@
 |                  3 | scottish singer-songwriter                          |
 |                  3 | comic                                               |
 |                  3 | candy pop                                           |
+|                  3 | [acoustic pop](../genres/acoustic_pop.md)           |
 |                  2 | washington indie                                    |
 |                  2 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  2 | shiver pop                                          |
@@ -359,7 +360,7 @@
 |                  2 | canadian indie                                      |
 |                  2 | alternative metal                                   |
 |                  1 | visual kei                                          |
-|                  1 | viral pop                                           |
+|                  1 | [viral pop](../genres/viral_pop.md)                 |
 |                  1 | uk contemporary r&b                                 |
 |                  1 | swedish synthpop                                    |
 |                  1 | swedish pop                                         |
@@ -395,7 +396,6 @@
 |                  1 | cyberpunk                                           |
 |                  1 | canadian singer-songwriter                          |
 |                  1 | canadian rock                                       |
-|                  1 | bedroom pop                                         |
 
 </details>
 
@@ -410,10 +410,10 @@
 | Good Intent                   | In the Aeroplane Over the Sea |
 | Dreamer                       | Shades Of Cool                |
 | Rather Be (feat. Jess Glynne) | No Surprises                  |
-| still feel.                   | Paranoid Android              |
-| Tick Tock (feat. 24kGoldn)    | Norman fucking Rockwell       |
+| Tick Tock (feat. 24kGoldn)    | Paranoid Android              |
+| still feel.                   | Norman fucking Rockwell       |
 | Believer                      | Born To Die                   |
-| Recovery                      | Pyramid Song                  |
+| 1979 - Remastered 2012        | Pyramid Song                  |
 
 | 10 most Energetic tracks   | 10 least Energetic tracks       |
 |:---------------------------|:--------------------------------|
@@ -454,18 +454,18 @@
 | Plain Gold Ring                 | End Of All Hope            |
 | Fuck it I love you              | The Phantom Of The Opera   |
 
-| 10 most Instrumental tracks    | 10 least Instrumental tracks   |
-|:-------------------------------|:-------------------------------|
-| A Better Son/Daughter          | Jackie Onassis                 |
-| Weird Fishes/ Arpeggi          | Summertime Sadness             |
-| Street Spirit (Fade Out)       | Missing You                    |
-| 1979 - Remastered 2012         | Wait It Out                    |
-| Coal Miners                    | Whatever We Feel               |
-| Pyramid Song                   | Used                           |
-| Swan Song                      | We Are                         |
-| The Night We Met               | Cameo Lover                    |
-| Mantra for a Struggling Artist | Shake It Out                   |
-| Meant to Move                  | I'm Not Calling You A Liar     |
+| 10 most Instrumental tracks    | 10 least Instrumental tracks     |
+|:-------------------------------|:---------------------------------|
+| A Better Son/Daughter          | Cameo Lover                      |
+| Weird Fishes/ Arpeggi          | Hide and Seek                    |
+| Street Spirit (Fade Out)       | Two Way Street                   |
+| 1979 - Remastered 2012         | You Oughta Know                  |
+| Coal Miners                    | Black Horse And The Cherry Tree  |
+| Pyramid Song                   | G Train                          |
+| Swan Song                      | Come On Closer                   |
+| The Night We Met               | Automatonic Electronic Harmonics |
+| Mantra for a Struggling Artist | Breakeven                        |
+| Meant to Move                  | You've Got The Love              |
 
 | 10 most Live tracks                     | 10 least Live tracks       |
 |:----------------------------------------|:---------------------------|

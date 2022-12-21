@@ -209,7 +209,7 @@
 |-------------------:|:----------------------------------------------------|
 |                137 | [pop](../genres/pop.md)                             |
 |                 82 | [acoustic pop](../genres/acoustic_pop.md)           |
-|                 79 | [lilith](../genres/lilith.md)                       |
+|                 80 | [lilith](../genres/lilith.md)                       |
 |                 71 | [neo mellow](../genres/neo_mellow.md)               |
 |                 63 | [pop rock](../genres/pop_rock.md)                   |
 |                 59 | [hollywood](../genres/hollywood.md)                 |
@@ -219,7 +219,7 @@
 |                 25 | [soft rock](../genres/soft_rock.md)                 |
 |                 25 | [classic rock](../genres/classic_rock.md)           |
 |                 24 | [rock](../genres/rock.md)                           |
-|                 21 | indie pop                                           |
+|                 22 | indie pop                                           |
 |                 18 | [art pop](../genres/art_pop.md)                     |
 |                 12 | folk                                                |
 |                 11 | folk rock                                           |
@@ -233,7 +233,7 @@
 |                  6 | glam rock                                           |
 |                  5 | deep indie singer-songwriter                        |
 |                  4 | anti-folk                                           |
-|                  3 | viral pop                                           |
+|                  3 | [viral pop](../genres/viral_pop.md)                 |
 |                  2 | neo soul                                            |
 |                  2 | indy indie                                          |
 |                  2 | indiecoustica                                       |

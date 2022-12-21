@@ -57,8 +57,8 @@ Appears as:
 |-------------------:|:--------------------------------------------|
 |                 10 | [neo mellow](../genres/neo_mellow.md)       |
 |                 10 | [lilith](../genres/lilith.md)               |
+|                 10 | [acoustic pop](../genres/acoustic_pop.md)   |
 |                  7 | indie pop                                   |
-|                  7 | [acoustic pop](../genres/acoustic_pop.md)   |
 |                  5 | [pop rock](../genres/pop_rock.md)           |
 |                  3 | scottish singer-songwriter                  |
 |                  2 | spacegrunge                                 |

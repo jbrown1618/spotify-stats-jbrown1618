@@ -62,7 +62,7 @@
 
 
 <details>
-<summary>See all 99 albums</summary>
+<summary>See all 98 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                   | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------|:-----------------------------------------------------------|
@@ -76,6 +76,7 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273adb1732fa8d44b8eb2f6c0bf" alt="" width="50" /> | OK Computer                                             | [🔗](https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273692d9189b2bd75525893f0c1" alt="" width="50" /> | Magical Mystery Tour (Remastered)                       | [🔗](https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1" alt="" width="50" /> | Let It Be (Remastered)                                  | [🔗](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="" width="50" /> | In Rainbows                                             | [🔗](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | Bridge Over Troubled Water                              | [🔗](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="" width="50" /> | Who's Next (Deluxe Edition)                             | [🔗](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="" width="50" /> | The Stranger (Legacy Edition)                           | [🔗](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) |
@@ -89,7 +90,6 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="" width="50" /> | Mellon Collie And The Infinite Sadness (Deluxe Edition) | [🔗](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="" width="50" /> | Led Zeppelin IV (Deluxe Edition)                        | [🔗](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2735e5bfba76defb59b3acf6c47" alt="" width="50" /> | Jazz                                                    | [🔗](https://open.spotify.com/album/5X3rA8To5GDOeIWdQyMEcE) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27334733f87148c2fbe0176abdb" alt="" width="50" /> | In Rainbows                                             | [🔗](https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="" width="50" /> | Good Vibrations                                         | [🔗](https://open.spotify.com/album/10IUKCLZPs9onPwXfQVxfv) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734fb043195e8d07e72edc7226" alt="" width="50" /> | Fleetwood Mac                                           | [🔗](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273de03bfc2991fd5bcfde65ba3" alt="" width="50" /> | Blurryface                                              | [🔗](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) |
@@ -144,7 +144,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb" alt="" width="50" /> | Led Zeppelin III (Remaster)                             | [🔗](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27350dcdcb73b5bbff6d3136131" alt="" width="50" /> | Innuendo                                                | [🔗](https://open.spotify.com/album/5yAM3CcaXF6DPRJW3oL6Ya) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731b2a9188ac775e16998eb78d" alt="" width="50" /> | Infinity                                                | [🔗](https://open.spotify.com/album/7K4Nk5fHkCuzNm5A6mdo2U) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="" width="50" /> | In Rainbows                                             | [🔗](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734637341b9f507521afa9a778" alt="" width="50" /> | Hotel California (2013 Remaster)                        | [🔗](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="" width="50" /> | Help! (Remastered)                                      | [🔗](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27309880a7b8636c5a0615dc0c8" alt="" width="50" /> | Graceland (25th Anniversary Deluxe Edition)             | [🔗](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) |

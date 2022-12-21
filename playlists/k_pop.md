@@ -379,7 +379,7 @@
 |                  2 | j-division                                        |
 |                  2 | edm                                               |
 |                  2 | chinese idol pop                                  |
-|                  1 | viral pop                                         |
+|                  1 | [viral pop](../genres/viral_pop.md)               |
 |                  1 | pop rap                                           |
 |                  1 | pop dance                                         |
 |                  1 | korean indie rock                                 |

@@ -16,9 +16,8 @@
 |-------------------:|:-------------------------------------------------------------------------------------------------|:------------|:-----------------------------------------------------------|
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27322ca59e5c2d806439d5f08a2" alt="" width="50" /> | The Bends   | [🔗](https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273adb1732fa8d44b8eb2f6c0bf" alt="" width="50" /> | OK Computer | [🔗](https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27334733f87148c2fbe0176abdb" alt="" width="50" /> | In Rainbows | [🔗](https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="" width="50" /> | In Rainbows | [🔗](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732f85b65d3ac4d3d7f806ca11" alt="" width="50" /> | Pablo Honey | [🔗](https://open.spotify.com/album/6400dnyeDyD2mIFHfkwHXN) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="" width="50" /> | In Rainbows | [🔗](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27301b50e75c5aa46fb8ce0cd32" alt="" width="50" /> | Amnesiac    | [🔗](https://open.spotify.com/album/6V9YnBmFjWmXCBaUVRCVXP) |
 
 ## Top Record Labels
@@ -49,5 +48,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273adb1732fa8d44b8eb2f6c0bf" alt="" width="50" /> | Paranoid Android         | OK Computer | [Radiohead](radiohead.md) | [XL Recordings](../labels/xl_recordings.md) | 💚   | [🔗](https://open.spotify.com/track/2nTsKOXIVGDf2iPeVQO2Gm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27301b50e75c5aa46fb8ce0cd32" alt="" width="50" /> | Pyramid Song             | Amnesiac    | [Radiohead](radiohead.md) | [XL Recordings](../labels/xl_recordings.md) | 💚   | [🔗](https://open.spotify.com/track/3A9vIxzGBjEfqmDK7H9exS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="" width="50" /> | 15 Step                  | In Rainbows | [Radiohead](radiohead.md) | [XL Recordings](../labels/xl_recordings.md) |     | [🔗](https://open.spotify.com/track/4oXg7xT4ksBxHTx8PcmSXw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27334733f87148c2fbe0176abdb" alt="" width="50" /> | Reckoner                 | In Rainbows | [Radiohead](radiohead.md) | [XL Recordings](../labels/xl_recordings.md) | 💚   | [🔗](https://open.spotify.com/track/56Z7hbyMrndw1naxb6I5Oi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27334733f87148c2fbe0176abdb" alt="" width="50" /> | Weird Fishes/ Arpeggi    | In Rainbows | [Radiohead](radiohead.md) | [XL Recordings](../labels/xl_recordings.md) |     | [🔗](https://open.spotify.com/track/4Iyo50UoYhuuYORMLrGDci) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="" width="50" /> | Reckoner                 | In Rainbows | [Radiohead](radiohead.md) | [XL Recordings](../labels/xl_recordings.md) | 💚   | [🔗](https://open.spotify.com/track/02ppMPbg1OtEdHgoPqoqju) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="" width="50" /> | Weird Fishes/ Arpeggi    | In Rainbows | [Radiohead](radiohead.md) | [XL Recordings](../labels/xl_recordings.md) |     | [🔗](https://open.spotify.com/track/4wajJ1o7jWIg62YqpkHC7S) |

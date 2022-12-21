@@ -103,8 +103,8 @@ Appears as:
 |                  6 | edm                                               |
 |                  5 | uk pop                                            |
 |                  5 | indietronica                                      |
+|                  5 | [hollywood](../genres/hollywood.md)               |
 |                  4 | metropopolis                                      |
-|                  4 | [hollywood](../genres/hollywood.md)               |
 |                  4 | [electropop](../genres/electropop.md)             |
 |                  2 | tropical house                                    |
 |                  2 | [rock](../genres/rock.md)                         |
