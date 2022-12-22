@@ -361,9 +361,9 @@
 |-------------------:|:------------------------------------------------|
 |                290 | [pop](../genres/pop.md)                         |
 |                188 | [dance pop](../genres/dance_pop.md)             |
-|                 42 | [post-teen pop](../genres/post_teen_pop.md)     |
+|                 47 | [post-teen pop](../genres/post_teen_pop.md)     |
+|                 27 | [electropop](../genres/electropop.md)           |
 |                 25 | uk pop                                          |
-|                 25 | [electropop](../genres/electropop.md)           |
 |                 25 | edm                                             |
 |                 25 | [art pop](../genres/art_pop.md)                 |
 |                 20 | urban contemporary                              |
@@ -375,11 +375,11 @@
 |                 11 | [neo mellow](../genres/neo_mellow.md)           |
 |                 11 | british soul                                    |
 |                 11 | australian pop                                  |
-|                 10 | [viral pop](../genres/viral_pop.md)             |
 |                 10 | pop soul                                        |
 |                 10 | canadian pop                                    |
 |                 10 | barbadian pop                                   |
 |                 10 | [acoustic pop](../genres/acoustic_pop.md)       |
+|                  9 | viral pop                                       |
 |                  9 | pop dance                                       |
 |                  8 | uk dance                                        |
 |                  8 | tropical house                                  |
@@ -395,15 +395,14 @@
 |                  5 | [rock](../genres/rock.md)                       |
 |                  5 | piano rock                                      |
 |                  5 | permanent wave                                  |
-|                  5 | [lilith](../genres/lilith.md)                   |
 |                  5 | contemporary r&b                                |
 |                  5 | afrofuturism                                    |
 |                  4 | talent show                                     |
 |                  4 | south carolina hip hop                          |
+|                  4 | [lilith](../genres/lilith.md)                   |
 |                  4 | indie poptimism                                 |
 |                  4 | [hollywood](../genres/hollywood.md)             |
 |                  4 | hip pop                                         |
-|                  4 | hip hop                                         |
 |                  4 | girl group                                      |
 |                  4 | europop                                         |
 |                  4 | electro house                                   |
@@ -412,8 +411,8 @@
 |                  3 | modern alternative rock                         |
 |                  3 | lgbtq+ hip hop                                  |
 |                  3 | latin pop                                       |
-|                  3 | indie pop                                       |
 |                  3 | house                                           |
+|                  3 | hip hop                                         |
 |                  3 | etherpop                                        |
 |                  3 | chill r&b                                       |
 |                  3 | canadian contemporary r&b                       |
@@ -427,6 +426,7 @@
 |                  2 | irish singer-songwriter                         |
 |                  2 | indy indie                                      |
 |                  2 | indiecoustica                                   |
+|                  2 | indie pop                                       |
 |                  2 | gauze pop                                       |
 |                  2 | filter house                                    |
 |                  2 | electro                                         |

@@ -30,7 +30,6 @@
 ## Genres
 
 - fantasy
-- [viral pop](../genres/viral_pop.md)
 
 ## Tracks
 

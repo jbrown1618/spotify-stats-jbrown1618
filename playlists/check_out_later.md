@@ -3,25 +3,27 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27312626c137c7684fe1662a4f3ab67616d0000b2732ced1760b648799e697e8e02ab67616d0000b273ac815bdd584468a7aa0216e1ab67616d0000b273be123bb6b40736bf093870bd" alt="Check Out Later" width="100" />
 
-[37 songs](check_out_later_tracks.md)
+[62 songs](check_out_later_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 29 artists](../images/playlists/check_out_later/artists.png)
+![Bar chart of top 30 artists](../images/playlists/check_out_later/artists.png)
 
 ![Comparison of Artist](../images/playlists/check_out_later/artists_comparison.png)
 
 
 <details>
-<summary>See all 29 artists</summary>
+<summary>See all 32 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                     | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------|:------------------------------------------------------------|
+|                 25 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md)     | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb576cb43281160e345f728b71" alt="" width="50" /> | Charli XCX                                 | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | [Taylor Swift](../artists/taylor_swift.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 |                  3 | <img src="https://i.scdn.co/image/b6f7dc3c16f95e6df120af205d4007f518b01e0e" alt="" width="50" /> | The Dave Brubeck Quartet                   | [🔗](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb9df0f924a5e609c8da143cd5" alt="" width="50" /> | A. G. Cook                                 | [🔗](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eba3c1fca063ed673aed61c885" alt="" width="50" /> | YOUHA                                      | [🔗](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) |
+|                  2 | <img src="nan" alt="" width="50" />                                                              | Bang Chan                                  | [🔗](https://open.spotify.com/artist/4qy7HANJDOZRObts4Z0KSV) |
 |                  2 | <img src="https://i.scdn.co/image/731f5f71de27c36300d2cf71a7f9cd7f389d0bf7" alt="" width="50" /> | Neutral Milk Hotel                         | [🔗](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd6442ba68c144b0c84b207a4" alt="" width="50" /> | Rina Sawayama                              | [🔗](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../artists/itzy.md)                 | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
@@ -30,6 +32,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ad5dbe5032b439728af9e711e8c0922a3aebcdbb" alt="" width="50" /> | Peter Gabriel                              | [🔗](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2c56b558b75841a77d7ea09" alt="" width="50" /> | Nucksal                                    | [🔗](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5b1a291b0a6a689091d54d8b" alt="" width="50" /> | IVE                                        | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
+|                  1 | <img src="nan" alt="" width="50" />                                                              | Changbin                                   | [🔗](https://open.spotify.com/artist/5OTVNUu0UHn6ddPyEAi419) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27312626c137c7684fe1662a4f3" alt="" width="50" /> | HAEUN                                      | [🔗](https://open.spotify.com/artist/5JIuf9fLWCKGSpUDMTolAI) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../artists/radiohead.md)       | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
 |                  1 | <img src="https://i.scdn.co/image/6e6382aacddd7daad02fe915b77644798884c9e5" alt="" width="50" /> | Randy Waldman                              | [🔗](https://open.spotify.com/artist/4DoFQoqKcSPw8CSzyh7trt) |
@@ -56,10 +59,11 @@
 
 
 <details>
-<summary>See all 30 albums</summary>
+<summary>See all 31 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                                      | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------|:-----------------------------------------------------------|
+|                 25 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | SKZ-REPLAY                                                                 | [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Midnights                                                                  | [🔗](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27300ace5d3c5bffc123ef1eb51" alt="" width="50" /> | Time Out                                                                   | [🔗](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273589ce9a911c6e65b1f80c558" alt="" width="50" /> | In the Aeroplane Over the Sea                                              | [🔗](https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob) |
@@ -104,13 +108,13 @@
 
 |   Number of Tracks | Label                                                               |
 |-------------------:|:--------------------------------------------------------------------|
+|                 27 | [Republic Records](../labels/republic_records.md)                   |
 |                  5 | [Taylor Swift](../labels/taylor_swift.md)                           |
 |                  4 | [Universal Music LLC](../labels/universal_music_llc.md)             |
 |                  3 | [Legacy](../labels/legacy.md)                                       |
 |                  3 | [Columbia](../labels/columbia.md)                                   |
 |                  3 | [Atlantic Records](../labels/atlantic_records.md)                   |
 |                  2 | [SM Entertainment](../labels/sm_entertainment.md)                   |
-|                  2 | [Republic Records](../labels/republic_records.md)                   |
 |                  2 | [Merge Records](../labels/merge_records.md)                         |
 |                  2 | [GRP](../labels/grp.md)                                             |
 |                  1 | [XL Recordings](../labels/xl_recordings.md)                         |
@@ -142,8 +146,9 @@
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
+|                 32 | [k-pop](../genres/k_pop.md)                       |
+|                 26 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
 |                  9 | [pop](../genres/pop.md)                           |
-|                  7 | [k-pop](../genres/k_pop.md)                       |
 |                  5 | [dance pop](../genres/dance_pop.md)               |
 |                  5 | [art pop](../genres/art_pop.md)                   |
 |                  4 | [rock](../genres/rock.md)                         |
@@ -186,7 +191,6 @@
 |                  1 | [mellow gold](../genres/mellow_gold.md)           |
 |                  1 | melancholia                                       |
 |                  1 | mandopop                                          |
-|                  1 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
 |                  1 | hyperpop                                          |
 |                  1 | house                                             |
 |                  1 | grunge                                            |
@@ -207,93 +211,93 @@
 
 ## Audio Features
 
-| 10 most Danceable tracks          | 10 least Danceable tracks                     |
-|:----------------------------------|:----------------------------------------------|
-| Freaky                            | Reset                                         |
-| 5/4                               | SILENCE                                       |
-| Beg For You (feat. Rina Sawayama) | 楓                                             |
-| Cherry On Top                     | Take Five                                     |
-| Be There (feat. DinDin)           | Animals                                       |
-| Freedom At Midnight               | King of Carrot Flowers Pt. 1                  |
-| Queen of Hearts                   | Labyrinth                                     |
-| Snowy                             | Bullet With Butterfly Wings - Remastered 2012 |
-| Good Ones                         | tolerate it                                   |
-| Show Me What                      | Holland, 1945                                 |
+| 10 most Danceable tracks                            | 10 least Danceable tracks                     |
+|:----------------------------------------------------|:----------------------------------------------|
+| RUN (HAN)                                           | 楓                                             |
+| FAM (Korean Ver.)                                   | Deep end (Felix)                              |
+| Maknae On Top (I.N)                                 | Take Five                                     |
+| Freaky                                              | Animals                                       |
+| Alien (HAN)                                         | #LoveSTAY                                     |
+| 5/4                                                 | King of Carrot Flowers Pt. 1                  |
+| Up All Night (Bang Chan, Changbin, Felix, Seungmin) | Labyrinth                                     |
+| Beg For You (feat. Rina Sawayama)                   | Bullet With Butterfly Wings - Remastered 2012 |
+| Close (HAN)                                         | tolerate it                                   |
+| Cherry On Top                                       | Holland, 1945                                 |
 
-| 10 most Energetic tracks            | 10 least Energetic tracks   |
-|:------------------------------------|:----------------------------|
-| Beg For You (feat. Rina Sawayama)   | Every Step Of The Way       |
-| Why Don’t You Know                  | Unsquare Dance              |
-| 5/4                                 | 楓                           |
-| Wolf                                | Show Me What                |
-| Holland, 1945                       | Blue Rondo à la Turk        |
-| 15 Step                             | Maroon                      |
-| Hot In It                           | tolerate it                 |
-| Snowy                               | Mastermind                  |
-| ISLAND                              | Labyrinth                   |
-| 911 - Charli XCX & A. G. Cook Remix | Take Five                   |
+| 10 most Energetic tracks                            | 10 least Energetic tracks   |
+|:----------------------------------------------------|:----------------------------|
+| Beg For You (feat. Rina Sawayama)                   | Show Me What                |
+| Why Don’t You Know                                  | Blue Rondo à la Turk        |
+| 5/4                                                 | Maroon                      |
+| Wolf                                                | tolerate it                 |
+| Holland, 1945                                       | Mastermind                  |
+| Love Untold (Hyunjin)                               | Labyrinth                   |
+| Up All Night (Bang Chan, Changbin, Felix, Seungmin) | Take Five                   |
+| 15 Step                                             | miss you (Hyunjin)          |
+| ZONE (Bang Chan, Changbin, HAN)                     | Deep end (Felix)            |
+| Hot In It                                           | i hate to admit (Bang Chan) |
 
-| 10 most Speechy tracks   | 10 least Speechy tracks      |
-|:-------------------------|:-----------------------------|
-| Show Me What             | Freedom At Midnight          |
-| Be There (feat. DinDin)  | King of Carrot Flowers Pt. 1 |
-| Hot In It                | ISLAND                       |
-| Mastermind               | Every Step Of The Way        |
-| Why Don’t You Know       | 몽중몽; Dream In A Dream        |
-| Wolf                     | SILENCE                      |
-| Freaky                   | Animals                      |
-| Unsquare Dance           | Solsbury Hill                |
-| Queen of Hearts          | Good Ones                    |
-| Karma                    | 楓                            |
+| 10 most Speechy tracks   | 10 least Speechy tracks        |
+|:-------------------------|:-------------------------------|
+| I GOT IT (HAN)           | ISLAND                         |
+| DOODLE (Changbin)        | Stars and Raindrops (Seungmin) |
+| Show Me What             | Every Step Of The Way          |
+| RUN (HAN)                | 몽중몽; Dream In A Dream          |
+| Be There (feat. DinDin)  | SILENCE                        |
+| Hot In It                | Drive (Bang Chan, Lee Know)    |
+| Mastermind               | Animals                        |
+| Alien (HAN)              | Solsbury Hill                  |
+| Why Don’t You Know       | Good Ones                      |
+| Wolf                     | 楓                              |
 
-| 10 most Acoustic tracks   | 10 least Acoustic tracks                      |
-|:--------------------------|:----------------------------------------------|
-| tolerate it               | Maroon                                        |
-| Blue Rondo à la Turk      | 15 Step                                       |
-| Labyrinth                 | Holland, 1945                                 |
-| 楓                         | 몽중몽; Dream In A Dream                         |
-| Be There (feat. DinDin)   | A Flying Butterfly                            |
-| Mastermind                | Queen of Hearts                               |
-| Take Five                 | Animals                                       |
-| Show Me What              | Hot In It                                     |
-| Solsbury Hill             | SILENCE                                       |
-| Freaky                    | Bullet With Butterfly Wings - Remastered 2012 |
+| 10 most Acoustic tracks     | 10 least Acoustic tracks                      |
+|:----------------------------|:----------------------------------------------|
+| Deep end (Felix)            | 15 Step                                       |
+| tolerate it                 | Holland, 1945                                 |
+| Blue Rondo à la Turk        | 몽중몽; Dream In A Dream                         |
+| miss you (Hyunjin)          | A Flying Butterfly                            |
+| Because (Changbin, Felix)   | Queen of Hearts                               |
+| i hate to admit (Bang Chan) | ZONE (Bang Chan, Changbin, HAN)               |
+| Labyrinth                   | Animals                                       |
+| 楓                           | Hot In It                                     |
+| RUN (HAN)                   | SILENCE                                       |
+| Be There (feat. DinDin)     | Bullet With Butterfly Wings - Remastered 2012 |
 
 | 10 most Instrumental tracks                   | 10 least Instrumental tracks   |
 |:----------------------------------------------|:-------------------------------|
-| Freedom At Midnight                           | Freaky                         |
-| King of Carrot Flowers Pt. 1                  | Wolf                           |
-| Unsquare Dance                                | 楓                              |
-| Bullet With Butterfly Wings - Remastered 2012 | A Flying Butterfly             |
-| Animals                                       | Why Don’t You Know             |
-| Every Step Of The Way                         | ISLAND                         |
-| Labyrinth                                     | Be There (feat. DinDin)        |
-| Blue Rondo à la Turk                          | Reset                          |
-| 15 Step                                       | Karma                          |
+| Freedom At Midnight                           | RUN (HAN)                      |
+| King of Carrot Flowers Pt. 1                  | I GOT IT (HAN)                 |
+| Unsquare Dance                                | #LoveSTAY                      |
+| Bullet With Butterfly Wings - Remastered 2012 | Alien (HAN)                    |
+| Animals                                       | Close (HAN)                    |
+| Every Step Of The Way                         | Deep end (Felix)               |
+| Labyrinth                                     | Why Don’t You Know             |
+| Blue Rondo à la Turk                          | A Flying Butterfly             |
+| 15 Step                                       | 楓                              |
 | 몽중몽; Dream In A Dream                         | Snowy                          |
 
 | 10 most Live tracks                 | 10 least Live tracks                                                       |
 |:------------------------------------|:---------------------------------------------------------------------------|
-| Animals                             | Be There (feat. DinDin)                                                    |
-| Holland, 1945                       | Mastermind                                                                 |
-| Karma                               | Good Ones                                                                  |
-| King of Carrot Flowers Pt. 1        | tolerate it                                                                |
-| Why Don’t You Know                  | 5/4                                                                        |
-| 911 - Charli XCX & A. G. Cook Remix | Take Five                                                                  |
-| Cherry On Top                       | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] |
-| Solsbury Hill                       | Bullet With Butterfly Wings - Remastered 2012                              |
-| 몽중몽; Dream In A Dream               | Hot In It                                                                  |
-| Snowy                               | Freedom At Midnight                                                        |
+| Animals                             | 5/4                                                                        |
+| Holland, 1945                       | Take Five                                                                  |
+| Karma                               | FAM (Korean Ver.)                                                          |
+| King of Carrot Flowers Pt. 1        | I GOT IT (HAN)                                                             |
+| Why Don’t You Know                  | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] |
+| 911 - Charli XCX & A. G. Cook Remix | Up All Night (Bang Chan, Changbin, Felix, Seungmin)                        |
+| HaPpY (HAN)                         | Bullet With Butterfly Wings - Remastered 2012                              |
+| Because (Changbin, Felix)           | Hot In It                                                                  |
+| Cherry On Top                       | Maknae On Top (I.N)                                                        |
+| Solsbury Hill                       | Freedom At Midnight                                                        |
 
-| 10 most Happy tracks                                                       | 10 least Happy tracks        |
-|:---------------------------------------------------------------------------|:-----------------------------|
-| 15 Step                                                                    | King of Carrot Flowers Pt. 1 |
-| Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] | Every Step Of The Way        |
-| Snowy                                                                      | ISLAND                       |
-| 5/4                                                                        | A Flying Butterfly           |
-| Good Ones                                                                  | tolerate it                  |
-| Queen of Hearts                                                            | 楓                            |
-| Freedom At Midnight                                                        | Mastermind                   |
-| Be There (feat. DinDin)                                                    | Labyrinth                    |
-| Hot In It                                                                  | Karma                        |
-| Freaky                                                                     | Maroon                       |
+| 10 most Happy tracks                                                       | 10 least Happy tracks           |
+|:---------------------------------------------------------------------------|:--------------------------------|
+| Up All Night (Bang Chan, Changbin, Felix, Seungmin)                        | Limbo (Lee Know)                |
+| Maknae On Top (I.N)                                                        | Deep end (Felix)                |
+| 15 Step                                                                    | tolerate it                     |
+| Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] | ZONE (Bang Chan, Changbin, HAN) |
+| I GOT IT (HAN)                                                             | 楓                               |
+| Hug Me (I.N)                                                               | Alien (HAN)                     |
+| Snowy                                                                      | Mastermind                      |
+| 5/4                                                                        | Labyrinth                       |
+| Good Ones                                                                  | Karma                           |
+| Queen of Hearts                                                            | Maroon                          |

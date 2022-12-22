@@ -47,16 +47,15 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 2 genres](../images/labels/peter_hollens/genres.png)
+![Bar chart of top 1 genres](../images/labels/peter_hollens/genres.png)
 
 
 <details>
-<summary>See all 2 genres</summary>
+<summary>See all 1 genres</summary>
 
-|   Number of Tracks | Genre                               |
-|-------------------:|:------------------------------------|
-|                 20 | [viral pop](../genres/viral_pop.md) |
-|                 20 | fantasy                             |
+|   Number of Tracks | Genre   |
+|-------------------:|:--------|
+|                 20 | fantasy |
 
 </details>
 

@@ -297,11 +297,10 @@
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
 |                 57 | [pop](../genres/pop.md)                             |
-|                 24 | indie pop                                           |
+|                 23 | indie pop                                           |
 |                 22 | [rock](../genres/rock.md)                           |
 |                 19 | modern rock                                         |
-|                 17 | [lilith](../genres/lilith.md)                       |
-|                 17 | [dance pop](../genres/dance_pop.md)                 |
+|                 18 | [dance pop](../genres/dance_pop.md)                 |
 |                 17 | baroque pop                                         |
 |                 17 | [art pop](../genres/art_pop.md)                     |
 |                 16 | uk alternative pop                                  |
@@ -310,9 +309,9 @@
 |                 14 | indie rock                                          |
 |                 14 | alternative rock                                    |
 |                 13 | nz pop                                              |
+|                 13 | [lilith](../genres/lilith.md)                       |
 |                 13 | bergen indie                                        |
 |                 11 | australian pop                                      |
-|                 11 | anti-folk                                           |
 |                 10 | [pop rock](../genres/pop_rock.md)                   |
 |                 10 | oxford indie                                        |
 |                 10 | metropopolis                                        |
@@ -321,6 +320,8 @@
 |                  9 | etherpop                                            |
 |                  8 | nyc pop                                             |
 |                  8 | australian dance                                    |
+|                  7 | [post-teen pop](../genres/post_teen_pop.md)         |
+|                  7 | anti-folk                                           |
 |                  6 | [neo mellow](../genres/neo_mellow.md)               |
 |                  6 | la indie                                            |
 |                  5 | uk funky                                            |
@@ -348,7 +349,6 @@
 |                  2 | washington indie                                    |
 |                  2 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  2 | shiver pop                                          |
-|                  2 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                  2 | pop punk                                            |
 |                  2 | pop emo                                             |
 |                  2 | pixie                                               |
@@ -360,7 +360,7 @@
 |                  2 | canadian indie                                      |
 |                  2 | alternative metal                                   |
 |                  1 | visual kei                                          |
-|                  1 | [viral pop](../genres/viral_pop.md)                 |
+|                  1 | viral pop                                           |
 |                  1 | uk contemporary r&b                                 |
 |                  1 | swedish synthpop                                    |
 |                  1 | swedish pop                                         |
