@@ -211,13 +211,13 @@
 
 
 <details>
-<summary>See all 89 genres</summary>
+<summary>See all 88 genres</summary>
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
 |                 22 | [pop](../genres/pop.md)                             |
 |                 12 | [dance pop](../genres/dance_pop.md)                 |
-|                  9 | [neo mellow](../genres/neo_mellow.md)               |
+|                  8 | [neo mellow](../genres/neo_mellow.md)               |
 |                  7 | [rock](../genres/rock.md)                           |
 |                  7 | [classic rock](../genres/classic_rock.md)           |
 |                  6 | urban contemporary                                  |
@@ -289,7 +289,6 @@
 |                  1 | easy listening                                      |
 |                  1 | doo-wop                                             |
 |                  1 | deep indie singer-songwriter                        |
-|                  1 | country rock                                        |
 |                  1 | country road                                        |
 |                  1 | contemporary r&b                                    |
 |                  1 | comic                                               |

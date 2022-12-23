@@ -46,15 +46,16 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 1 genres](../images/labels/one_voice_productions/genres.png)
+![Bar chart of top 2 genres](../images/labels/one_voice_productions/genres.png)
 
 
 <details>
-<summary>See all 1 genres</summary>
+<summary>See all 2 genres</summary>
 
-|   Number of Tracks | Genre   |
-|-------------------:|:--------|
-|                 12 | fantasy |
+|   Number of Tracks | Genre                               |
+|-------------------:|:------------------------------------|
+|                 12 | [viral pop](../genres/viral_pop.md) |
+|                 12 | fantasy                             |
 
 </details>
 

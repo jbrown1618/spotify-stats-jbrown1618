@@ -1,6 +1,6 @@
 # k-pop boy group
 
-[241 songs](k_pop_boy_group_tracks.md)
+[238 songs](k_pop_boy_group_tracks.md)
 
 ## Top Artists
 
@@ -14,7 +14,7 @@
 
 |   Number of Tracks | Art                                                                                              | Artist                                 | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:------------------------------------------------------------|
-|                 57 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
+|                 54 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 |                 30 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)               | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 |                 22 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)       | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 |                 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="" width="50" /> | [SEVENTEEN](../artists/seventeen.md)   | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
@@ -67,7 +67,7 @@
 
 |   Number of Tracks | Art                                                                                              | Album                                              | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------|:-----------------------------------------------------------|
-|                 25 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | SKZ-REPLAY                                         | [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) |
+|                 22 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | SKZ-REPLAY                                         | [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) |
 |                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | NOEASY                                             | [🔗](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="" width="50" /> | DIMENSION : DILEMMA                                | [🔗](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273decd839dd4fef3faf64c5fd5" alt="" width="50" /> | SEVENTEEN 4th Album 'Face the Sun'                 | [🔗](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) |
@@ -181,7 +181,7 @@
 
 |   Number of Tracks | Label                                                               |
 |-------------------:|:--------------------------------------------------------------------|
-|                 62 | [Republic Records](../labels/republic_records.md)                   |
+|                 59 | [Republic Records](../labels/republic_records.md)                   |
 |                 53 | [SM Entertainment](../labels/sm_entertainment.md)                   |
 |                 29 | [BIGHIT MUSIC](../labels/bighit_music.md)                           |
 |                 20 | [BELIFT LAB](../labels/belift_lab.md)                               |
@@ -219,14 +219,14 @@
 |:---------------------------|:----------------------------|
 | RUN (HAN)                  | Butterfly                   |
 | BOOM                       | Tap Tap                     |
-| FAM (Korean Ver.)          | Side Effects                |
-| Mr. Simple                 | Just A Little Bit           |
-| HEYDAY (Prod. Czaer)       | #LoveSTAY                   |
+| Mr. Simple                 | Side Effects                |
+| HEYDAY (Prod. Czaer)       | Just A Little Bit           |
 | Any                        | Runaway                     |
-| Christmas EveL             | Sparkling Night             |
-| Love is New Gravity        | Sorry                       |
-| 10 Months                  | Boy in time - HUI Solo      |
-| Feelin' Like               | CHEESE                      |
+| Christmas EveL             | #LoveSTAY                   |
+| Love is New Gravity        | Sparkling Night             |
+| 10 Months                  | Sorry                       |
+| Feelin' Like               | Boy in time - HUI Solo      |
+| Beatbox                    | CHEESE                      |
 
 | 10 most Energetic tracks   | 10 least Energetic tracks           |
 |:---------------------------|:------------------------------------|
@@ -267,18 +267,18 @@
 | Back 2 U (AM 01:27)         | Easy                       |
 | Sorry                       | Mr. Simple                 |
 
-| 10 most Instrumental tracks   | 10 least Instrumental tracks            |
-|:------------------------------|:----------------------------------------|
-| Singularity                   | Breathe Again                           |
-| Mr. Simple                    | Love is New Gravity                     |
-| Lemonade                      | WONDERLAND                              |
-| Ring Ding Dong                | HALA HALA (Hearts Awakened, Live Alive) |
-| Danger                        | Deja Vu                                 |
-| Airplane pt.2                 | Answer                                  |
-| Sour                          | Guerrilla                               |
-| Doom Du Doom                  | Devil                                   |
-| Ko Ko Bop                     | Lo Siento                               |
-| Tamed-Dashed                  | Go Big or Go Home                       |
+| 10 most Instrumental tracks   | 10 least Instrumental tracks                 |
+|:------------------------------|:---------------------------------------------|
+| Singularity                   | 0X1=LOVESONG (I Know I Love You) feat. Seori |
+| Mr. Simple                    | Breathe Again                                |
+| Lemonade                      | Love is New Gravity                          |
+| Ring Ding Dong                | WONDERLAND                                   |
+| Danger                        | HALA HALA (Hearts Awakened, Live Alive)      |
+| Airplane pt.2                 | Deja Vu                                      |
+| Sour                          | Answer                                       |
+| Doom Du Doom                  | Guerrilla                                    |
+| Ko Ko Bop                     | Devil                                        |
+| Tamed-Dashed                  | Upper Side Dreamin’                          |
 
 | 10 most Live tracks             | 10 least Live tracks       |
 |:--------------------------------|:---------------------------|

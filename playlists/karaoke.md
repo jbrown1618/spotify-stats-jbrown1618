@@ -203,7 +203,7 @@
 
 
 <details>
-<summary>See all 84 genres</summary>
+<summary>See all 83 genres</summary>
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
@@ -229,10 +229,10 @@
 |                  4 | permanent wave                                      |
 |                  4 | lounge                                              |
 |                  4 | glam rock                                           |
+|                  3 | [viral pop](../genres/viral_pop.md)                 |
 |                  3 | folk rock                                           |
 |                  3 | canadian pop                                        |
 |                  3 | australian pop                                      |
-|                  2 | viral pop                                           |
 |                  2 | urban contemporary                                  |
 |                  2 | soul                                                |
 |                  2 | [r&b](../genres/r_b.md)                             |
@@ -277,7 +277,6 @@
 |                  1 | escape room                                         |
 |                  1 | [electropop](../genres/electropop.md)               |
 |                  1 | disco                                               |
-|                  1 | country rock                                        |
 |                  1 | comic                                               |
 |                  1 | classic soul                                        |
 |                  1 | boy band                                            |

@@ -1,6 +1,6 @@
 # hollywood
 
-[137 songs](hollywood_tracks.md)
+[136 songs](hollywood_tracks.md)
 
 ## Top Artists
 
@@ -34,7 +34,6 @@
 |                  3 | <img src="https://i.scdn.co/image/2f27b88be41ed8e21e7db0cf192385c14736f8a0" alt="" width="50" /> | Eddie Redmayne                                                                         | [🔗](https://open.spotify.com/artist/4EJP6Qhk6l18LumCcpEfLw) |
 |                  3 | <img src="https://i.scdn.co/image/4696b636f6be50265a1226814629eea4ed48a8e6" alt="" width="50" /> | Kristen Bell                                                                           | [🔗](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI) |
 |                  2 | <img src="nan" alt="" width="50" />                                                              | Samuel E. Wright                                                                       | [🔗](https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb0011a003b54943e02654e1f4" alt="" width="50" /> | Samantha Barks                                                                         | [🔗](https://open.spotify.com/artist/4gOl5m9dY7IGAipqpul7GZ) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb65c99d6d784dc2cabd2a5492" alt="" width="50" /> | Mandy Moore                                                                            | [🔗](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a6d80e2ed079cf1183ade19a" alt="" width="50" /> | Angela Lansbury                                                                        | [🔗](https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27350a8f03cc6bd438ca8d306db" alt="" width="50" /> | Students                                                                               | [🔗](https://open.spotify.com/artist/7oaoEBdRqHXfoiGYa55Atp) |
@@ -56,6 +55,7 @@
 |                  1 | <img src="nan" alt="" width="50" />                                                              | Donna Murphy                                                                           | [🔗](https://open.spotify.com/artist/5BuTOT6mPoNZ5EmaPheBI9) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebce8d5be6690c6964069ab8e0" alt="" width="50" /> | Jason Mraz                                                                             | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb583a4cf451be21040cfaa0a4" alt="" width="50" /> | Jodi Benson                                                                            | [🔗](https://open.spotify.com/artist/4mmMtabvFCKA6HfmVmitNH) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0011a003b54943e02654e1f4" alt="" width="50" /> | Samantha Barks                                                                         | [🔗](https://open.spotify.com/artist/4gOl5m9dY7IGAipqpul7GZ) |
 |                  1 | <img src="nan" alt="" width="50" />                                                              | Chorus - Mulan                                                                         | [🔗](https://open.spotify.com/artist/4KpdqBDU2C5gB3vhdojuqA) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8c7085cb6bc26d51b510656c" alt="" width="50" /> | Jasmine Cephas-Jones                                                                   | [🔗](https://open.spotify.com/artist/4H3e5t5utgPvj6Nsuda5QF) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebbf591218adebbf576d52e665" alt="" width="50" /> | Santino Fontana                                                                        | [🔗](https://open.spotify.com/artist/47NluEnhJda2gsnjuvcoob) |
@@ -96,7 +96,7 @@
 |                  9 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | Les Misérables (Original Broadway Cast Recording)                     | [🔗](https://open.spotify.com/album/3jbKDx0zB1QoJQTw8i1AvD) |
 |                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="" width="50" /> | What's Inside: Songs from Waitress                                    | [🔗](https://open.spotify.com/album/1s6codM2ZAB008t9GTyaEk) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | Once Upon Another Time                                                | [🔗](https://open.spotify.com/album/1PrqYZJRzGNf8AsSOraxnZ) |
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="" width="50" /> | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) | [🔗](https://open.spotify.com/album/0I6Bl1dVB1hQsSoQF6KuTg) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="" width="50" /> | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) | [🔗](https://open.spotify.com/album/0I6Bl1dVB1hQsSoQF6KuTg) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="" width="50" /> | Frozen (Original Motion Picture Soundtrack / Deluxe Edition)          | [🔗](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="" width="50" /> | The Little Mermaid Special Edition                                    | [🔗](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="" width="50" /> | Tangled                                                               | [🔗](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) |
@@ -128,7 +128,7 @@
 |                 41 | [Atlantic Records](../labels/atlantic_records.md)                           |
 |                 21 | [Walt Disney Records](../labels/walt_disney_records.md)                     |
 |                  9 | [Verve (Adult Contemporary) MC](../labels/verve__adult_contemporary__mc.md) |
-|                  5 | [Polydor Records](../labels/polydor_records.md)                             |
+|                  4 | [Polydor Records](../labels/polydor_records.md)                             |
 |                  1 | [Warner Records](../labels/warner_records.md)                               |
 |                  1 | [LML Music](../labels/lml_music.md)                                         |
 
@@ -152,7 +152,7 @@
 
 | 10 most Energetic tracks                | 10 least Energetic tracks                                                         |
 |:----------------------------------------|:----------------------------------------------------------------------------------|
-| Believe                                 | On My Own                                                                         |
+| Believe                                 | Do You Want to Build a Snowman? - From "Frozen"/Soundtrack Version                |
 | Bad Idea (feat. Jason Mraz)             | Best of Wives and Best of Women                                                   |
 | Yorktown (The World Turned Upside Down) | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 |
 | Morningside                             | In My Life                                                                        |
@@ -191,15 +191,15 @@
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| Satellite Call                | Ten Duel Commandments          |
-| Islands                       | Right Hand Man                 |
-| Armor                         | My Shot                        |
-| Bring Him Home                | Aaron Burr, Sir                |
-| Reflection                    | Meet Me Inside                 |
-| Breathe Again                 | The World Was Wide Enough      |
-| Miss Simone                   | Washington on Your Side        |
-| The Light                     | The Room Where It Happens      |
-| No Such Thing                 | A Winter's Ball                |
+| Satellite Call                | Stay Alive - Reprise           |
+| Islands                       | Ten Duel Commandments          |
+| Armor                         | Right Hand Man                 |
+| Bring Him Home                | My Shot                        |
+| Reflection                    | Aaron Burr, Sir                |
+| Breathe Again                 | Meet Me Inside                 |
+| Miss Simone                   | The World Was Wide Enough      |
+| The Light                     | Washington on Your Side        |
+| No Such Thing                 | The Room Where It Happens      |
 | Fire                          | Say You're Sorry               |
 
 | 10 most Live tracks                                                               | 10 least Live tracks                                  |

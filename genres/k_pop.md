@@ -1,6 +1,6 @@
 # k-pop
 
-[811 songs](k_pop_tracks.md)
+[808 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -15,7 +15,7 @@
 |   Number of Tracks | Art                                                                                              | Artist                                               | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------|:------------------------------------------------------------|
 |                 59 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)               | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
-|                 57 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md)               | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
+|                 54 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md)               | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 |                 35 | <img src="https://i.scdn.co/image/ab6761610000e5ebd84fd6ae9ccfc6206ea6711e" alt="" width="50" /> | [TWICE](../artists/twice.md)                         | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 |                 31 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)                   | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 |                 30 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)                             | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
@@ -127,7 +127,7 @@
 
 |   Number of Tracks | Art                                                                                              | Album                                               | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------------|:-----------------------------------------------------------|
-|                 25 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | SKZ-REPLAY                                          | [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) |
+|                 22 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | SKZ-REPLAY                                          | [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) |
 |                  8 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | BORN PINK                                           | [🔗](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) |
 |                  7 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | THE ALBUM                                           | [🔗](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) |
 |                  7 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | I NEVER DIE                                         | [🔗](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) |
@@ -242,7 +242,7 @@
 |   Number of Tracks | Label                                                                                                               |
 |-------------------:|:--------------------------------------------------------------------------------------------------------------------|
 |                198 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
-|                 94 | [Republic Records](../labels/republic_records.md)                                                                   |
+|                 91 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 60 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
 |                 44 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                                                 |
 |                 42 | [Genie Music Corporation](../labels/genie_music_corporation.md)                                                     |
@@ -353,18 +353,18 @@
 | Idle song                             | HWAA                        |
 | RUN (HAN)                             | CHEESE                      |
 | Jelly                                 | Clockwork                   |
-| Typa Girl                             | Epilogue                    |
-| Weather                               | Like Water                  |
-| FAM (Korean Ver.)                     | Fine                        |
-| BOOM                                  | My sea                      |
-| Mr. Simple                            | On The Ground               |
+| Weather                               | Epilogue                    |
+| Typa Girl                             | Like Water                  |
+| BOOM                                  | Fine                        |
+| Mr. Simple                            | My sea                      |
+| 1, 2, 3, 4                            | On The Ground               |
 | That That (prod. & feat. SUGA of BTS) | U                           |
 
 | 10 most Energetic tracks   | 10 least Energetic tracks                            |
 |:---------------------------|:-----------------------------------------------------|
 | RING X RING                | 그대라는 시                                               |
-| Misfit                     | Flower Way (Prod. By ZICO)                           |
-| Hit That Drum              | Singularity                                          |
+| Hit That Drum              | Flower Way (Prod. By ZICO)                           |
+| Misfit                     | Singularity                                          |
 | MIROH                      | Boy in time - HUI Solo                               |
 | Side Effects               | BREATHE                                              |
 | 소방차 Fire Truck             | How can I love the heartbreak, you're the one I love |
@@ -378,8 +378,8 @@
 | Addicted                      | LOVE FOOL                                  |
 | MANIAC                        | YOUNG LUV                                  |
 | Freedom                       | NANANA                                     |
-| Ice Cream (with Selena Gomez) | Gee                                        |
 | I GOT IT (HAN)                | Hope Not                                   |
+| Ice Cream (with Selena Gomez) | Gee                                        |
 | Feelin' Like                  | Wicked                                     |
 | DOODLE (Changbin)             | Winter Sleep                               |
 | Signal                        | Moonlight Melody                           |
@@ -399,18 +399,18 @@
 | Flower Way (Prod. By ZICO)                           | Easy                       |
 | If                                                   | Mr. Simple                 |
 
-| 10 most Instrumental tracks      | 10 least Instrumental tracks   |
-|:---------------------------------|:-------------------------------|
-| You and I (Park Bom)             | Hype Boy                       |
-| Adios                            | If                             |
-| pporappippam                     | 11:11                          |
-| Badster                          | 그대라는 시                         |
-| So Hot                           | Four Seasons                   |
-| GingaMingaYo (the strange world) | Spark                          |
-| I Am The Best                    | Happy                          |
-| Power Up                         | What Do I Call You             |
-| BBoom BBoom                      | Cold As Hell                   |
-| In My Dreams                     | LOVE                           |
+| 10 most Instrumental tracks      | 10 least Instrumental tracks                  |
+|:---------------------------------|:----------------------------------------------|
+| You and I (Park Bom)             | Closer                                        |
+| Adios                            | I GOT A BOY                                   |
+| pporappippam                     | Make A Wish (Birthday Song) - English Version |
+| Badster                          | Love Talk                                     |
+| So Hot                           | Love Talk - English Version                   |
+| GingaMingaYo (the strange world) | Kick Back                                     |
+| I Am The Best                    | ZOO                                           |
+| Power Up                         | Love Theory                                   |
+| BBoom BBoom                      | Wow Thing                                     |
+| In My Dreams                     | Um Oh Ah Yeh                                  |
 
 | 10 most Live tracks            | 10 least Live tracks                  |
 |:-------------------------------|:--------------------------------------|
@@ -422,8 +422,8 @@
 | I Like That                    | Holiday Party                         |
 | Vibrato                        | memeM                                 |
 | 행복 (Happiness)                 | That That (prod. & feat. SUGA of BTS) |
-| Genie                          | CASE 143                              |
-| LP                             | PING PONG                             |
+| LP                             | CASE 143                              |
+| Genie                          | PING PONG                             |
 
 | 10 most Happy tracks   | 10 least Happy tracks           |
 |:-----------------------|:--------------------------------|

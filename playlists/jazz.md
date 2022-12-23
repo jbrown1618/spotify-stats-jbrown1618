@@ -3,24 +3,25 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273068a5559744d17bd5e871740ab67616d0000b273a1113af3a19a41dc8eec534eab67616d0000b273cb81eb3c1238c60f2bbfd3b5ab67616d0000b273ef54c10b95411c51b9ab873b" alt="Jazz" width="100" />
 
-[52 songs](jazz_tracks.md)
+[56 songs](jazz_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 16 artists](../images/playlists/jazz/artists.png)
+![Bar chart of top 18 artists](../images/playlists/jazz/artists.png)
 
 ![Comparison of Artist](../images/playlists/jazz/artists_comparison.png)
 
 
 <details>
-<summary>See all 16 artists</summary>
+<summary>See all 18 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                         | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------|:------------------------------------------------------------|
-|                 20 | <img src="https://i.scdn.co/image/ab6772690000c46c153adede0a024fd3679af738" alt="" width="50" /> | [David Benoit](../artists/david_benoit.md)     | [🔗](https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu) |
+|                 21 | <img src="https://i.scdn.co/image/ab6772690000c46c153adede0a024fd3679af738" alt="" width="50" /> | [David Benoit](../artists/david_benoit.md)     | [🔗](https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu) |
 |                 12 | <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | [Michael Bublé](../artists/michael_bubl_.md)   | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
 |                  7 | <img src="https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411" alt="" width="50" /> | Frank Sinatra                                  | [🔗](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) |
 |                  5 | <img src="https://i.scdn.co/image/b4e726a3aadce109069811c4381279daf20c03d8" alt="" width="50" /> | Sophie Milman                                  | [🔗](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) |
+|                  3 | <img src="https://i.scdn.co/image/b6f7dc3c16f95e6df120af205d4007f518b01e0e" alt="" width="50" /> | The Dave Brubeck Quartet                       | [🔗](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb13fcd84a9d5590ddec452429" alt="" width="50" /> | Nat King Cole                                  | [🔗](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) |
 |                  2 | <img src="https://i.scdn.co/image/a3201f2fbdfa1bfd894e509bd3fbf3faf7da0a00" alt="" width="50" /> | Natalie Cole                                   | [🔗](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb28c2dea644b78257ccfb4520" alt="" width="50" /> | Seth MacFarlane                                | [🔗](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) |
@@ -28,6 +29,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf13fc3f245be672aa60a24af" alt="" width="50" /> | Meghan Trainor                                 | [🔗](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe86f788af4e127154da1257f" alt="" width="50" /> | Bonnie Raitt                                   | [🔗](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) |
 |                  1 | <img src="https://i.scdn.co/image/1e24691a352233bbe989a311d921f17e7892a87e" alt="" width="50" /> | Duke Ellington                                 | [🔗](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) |
+|                  1 | <img src="https://i.scdn.co/image/6e6382aacddd7daad02fe915b77644798884c9e5" alt="" width="50" /> | Randy Waldman                                  | [🔗](https://open.spotify.com/artist/4DoFQoqKcSPw8CSzyh7trt) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb379e885a01898367bfcd0c44" alt="" width="50" /> | Caro Emerald                                   | [🔗](https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm) |
 |                  1 | <img src="https://i.scdn.co/image/4f5e6383a803df41153fd871f6d0d0af7b9f08a0" alt="" width="50" /> | Count Basie                                    | [🔗](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../artists/sara_bareilles.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
@@ -39,11 +41,11 @@
 
 ## Top Albums
 
-![Bar chart of top 26 albums](../images/playlists/jazz/albums.png)
+![Bar chart of top 29 albums](../images/playlists/jazz/albums.png)
 
 
 <details>
-<summary>See all 26 albums</summary>
+<summary>See all 29 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                              | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -51,12 +53,14 @@
 |                 10 | <img src="https://i.scdn.co/image/ab67616d0000b2737d0ee28b2184f96650755916" alt="" width="50" /> | Freedom At Midnight                                                | [🔗](https://open.spotify.com/album/404TYwH2T33GbA9LdIT9fR) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="" width="50" /> | Call Me Irresponsible                                              | [🔗](https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273dfb2b41e8669c38536b7c3b6" alt="" width="50" /> | Unforgettable: With Love                                           | [🔗](https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27300ace5d3c5bffc123ef1eb51" alt="" width="50" /> | Time Out                                                           | [🔗](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273d404febd467623a6f893b177" alt="" width="50" /> | Take Love Easy                                                     | [🔗](https://open.spotify.com/album/0a7Ut6OPSs8SvPDhFXL4ar) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273d2d2df3486c5c45d238b2e25" alt="" width="50" /> | Sophie Milman                                                      | [🔗](https://open.spotify.com/album/2g5alWoreAp8i1Jjz2XHr4) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273b732a522a686bb304a5d3fdf" alt="" width="50" /> | Michael Bublé                                                      | [🔗](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="" width="50" /> | It's Time                                                          | [🔗](https://open.spotify.com/album/457fktVFXVwjQTl9wOLlfg) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="" width="50" /> | Crazy Love                                                         | [🔗](https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735f3f20826d44c30a017fd68e" alt="" width="50" /> | love (Deluxe Edition)                                              | [🔗](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737ea560d522ef653c268d79c9" alt="" width="50" /> | Time Further Out                                                   | [🔗](https://open.spotify.com/album/0eMXd1VtCXCkuGWn9JjRDT) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735c21d73934bb9760a2f791a2" alt="" width="50" /> | That's Life                                                        | [🔗](https://open.spotify.com/album/3gNsjaUsu9cRckgUFx5NsY) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27350bb7ca1fe7e98df87ce41d9" alt="" width="50" /> | Strangers In The Night (Expanded Edition)                          | [🔗](https://open.spotify.com/album/1kyb5tomEXcA106V57puFW) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b9ea1c69fe9efbdc2df85a95" alt="" width="50" /> | Songs For Swingin' Lovers! (Remastered)                            | [🔗](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) |
@@ -67,6 +71,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b2ef9d24ed47c5d44d22adb8" alt="" width="50" /> | Make Someone Happy                                                 | [🔗](https://open.spotify.com/album/2oGYlZ7vte6lJ1MuwKKCeW) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1113af3a19a41dc8eec534e" alt="" width="50" /> | Luck Of The Draw                                                   | [🔗](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730c981ab72e00803faf1bbcae" alt="" width="50" /> | Francis A. & Edward K.                                             | [🔗](https://open.spotify.com/album/5GFkm37IrMR9a4rc6JABkw) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733f67419e4e296d96256cc3f5" alt="" width="50" /> | Every Step Of The Way                                              | [🔗](https://open.spotify.com/album/50HH21YU6PDn8XZXYGxWkg) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ef54c10b95411c51b9ab873b" alt="" width="50" /> | Deleted Scenes From The Cutting Room Floor                         | [🔗](https://open.spotify.com/album/1D8grnftAaivpmBkayUgMR) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734024c75e846d1e13a4c70e0e" alt="" width="50" /> | Db in April                                                        | [🔗](https://open.spotify.com/album/2SUUafWH8ZchpD7eNBzXJy) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | Days Of Wine And Roses, Moon River And Other Academy Award Winners | [🔗](https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80) |
@@ -79,19 +84,21 @@
 
 ## Top Record Labels
 
-![Bar chart of top 13 record labels](../images/playlists/jazz/labels.png)
+![Bar chart of top 15 record labels](../images/playlists/jazz/labels.png)
 
 
 <details>
-<summary>See all 13 labels</summary>
+<summary>See all 15 labels</summary>
 
 |   Number of Tracks | Label                                                                       |
 |-------------------:|:----------------------------------------------------------------------------|
-|                 20 | [GRP](../labels/grp.md)                                                     |
+|                 21 | [GRP](../labels/grp.md)                                                     |
 |                 12 | [Reprise](../labels/reprise.md)                                             |
 |                 10 | [143](../labels/143.md)                                                     |
 |                  5 | [Linus Entertainment Inc.](../labels/linus_entertainment_inc_.md)           |
 |                  5 | [FRANK SINATRA DIGITAL REPRISE](../labels/frank_sinatra_digital_reprise.md) |
+|                  3 | [Legacy](../labels/legacy.md)                                               |
+|                  3 | [Columbia](../labels/columbia.md)                                           |
 |                  3 | [Capitol Records](../labels/capitol_records.md)                             |
 |                  2 | [Craft Recordings](../labels/craft_recordings.md)                           |
 |                  1 | [Universal Music LLC](../labels/universal_music_llc.md)                     |
@@ -106,23 +113,26 @@
 
 ## Genres
 
-![Bar chart of top 22 genres](../images/playlists/jazz/genres.png)
+![Bar chart of top 25 genres](../images/playlists/jazz/genres.png)
 
 
 <details>
-<summary>See all 22 genres</summary>
+<summary>See all 25 genres</summary>
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
 |                 29 | [adult standards](../genres/adult_standards.md)     |
 |                 28 | lounge                                              |
-|                 20 | smooth jazz                                         |
+|                 21 | smooth jazz                                         |
 |                 12 | jazz pop                                            |
 |                 12 | canadian pop                                        |
 |                  8 | vocal jazz                                          |
 |                  7 | easy listening                                      |
 |                  6 | contemporary vocal jazz                             |
 |                  3 | [mellow gold](../genres/mellow_gold.md)             |
+|                  3 | jazz quartet                                        |
+|                  3 | jazz                                                |
+|                  3 | bebop                                               |
 |                  2 | quiet storm                                         |
 |                  1 | [soft rock](../genres/soft_rock.md)                 |
 |                  1 | [singer-songwriter](../genres/singer_songwriter.md) |
@@ -153,7 +163,7 @@
 | Everything                          | Unforgettable               |
 | Someday (feat. Meghan Trainor)      | Strangers In The Night      |
 | Fly Me To The Moon (In Other Words) | Can't Help Falling in Love  |
-| Every Corner Of The World           | A Last Request              |
+| Agua De Beber                       | A Last Request              |
 
 | 10 most Energetic tracks         | 10 least Energetic tracks   |
 |:---------------------------------|:----------------------------|
@@ -171,47 +181,47 @@
 | 10 most Speechy tracks              | 10 least Speechy tracks                       |
 |:------------------------------------|:----------------------------------------------|
 | That Man                            | Coconut Roads                                 |
+| Unsquare Dance                      | Something In The Air Between Us               |
 | L-O-V-E - 2000 Remaster             | Strangers In The Night                        |
-| Moondance                           | Something In The Air Between Us               |
-| That's Life                         | La vie en rose (feat. Cécile McLorin Salvant) |
-| The Best Is yet to Come             | Can't Help Falling in Love                    |
-| Fake Monologue                      | Call Me Irresponsible                         |
-| Love Won't Let You Get Away         | Unforgettable                                 |
-| M.W.A. (Musicians With Attitude)    | The Way You Look Tonight                      |
-| Fly Me To The Moon (In Other Words) | I Can't Make You Love Me                      |
-| L-O-V-E                             | Everything                                    |
+| Moondance                           | La vie en rose (feat. Cécile McLorin Salvant) |
+| That's Life                         | Can't Help Falling in Love                    |
+| The Best Is yet to Come             | Call Me Irresponsible                         |
+| Fake Monologue                      | Unforgettable                                 |
+| Love Won't Let You Get Away         | The Way You Look Tonight                      |
+| M.W.A. (Musicians With Attitude)    | I Can't Make You Love Me                      |
+| Fly Me To The Moon (In Other Words) | Everything                                    |
 
-| 10 most Acoustic tracks            | 10 least Acoustic tracks         |
-|:-----------------------------------|:---------------------------------|
-| I Can't Make You Love Me           | M.W.A. (Musicians With Attitude) |
-| The Last Goodbye                   | Someday (feat. Meghan Trainor)   |
-| Something In The Air Between Us    | Houston                          |
-| Beautiful Love                     | Along The Milky Way              |
-| Home                               | Haven't Met You Yet              |
-| Pieces Of Time                     | Coconut Roads                    |
-| Unforgettable                      | The Man With The Panama Hat      |
-| Deep Light                         | El Camino Real                   |
-| I Can't Make You Love Me           | Freedom At Midnight              |
-| Come Fly With Me - Remastered 1998 | Del Sasser                       |
+| 10 most Acoustic tracks         | 10 least Acoustic tracks    |
+|:--------------------------------|:----------------------------|
+| I Can't Make You Love Me        | Houston                     |
+| The Last Goodbye                | Along The Milky Way         |
+| Something In The Air Between Us | Haven't Met You Yet         |
+| Beautiful Love                  | Coconut Roads               |
+| Home                            | Every Step Of The Way       |
+| Pieces Of Time                  | The Man With The Panama Hat |
+| Blue Rondo à la Turk            | El Camino Real              |
+| Unforgettable                   | Freedom At Midnight         |
+| Deep Light                      | Unsquare Dance              |
+| I Can't Make You Love Me        | Del Sasser                  |
 
 | 10 most Instrumental tracks      | 10 least Instrumental tracks                  |
 |:---------------------------------|:----------------------------------------------|
-| Deep Light                       | La Vie En Rose                                |
-| Freedom At Midnight              | La vie en rose (feat. Cécile McLorin Salvant) |
-| Fake Monologue                   | That's Life                                   |
-| The Last Goodbye                 | L-O-V-E                                       |
-| 6-String Poet                    | Love Won't Let You Get Away                   |
-| M.W.A. (Musicians With Attitude) | Come Fly With Me - Remastered 1998            |
-| A Last Request                   | Moondance                                     |
-| Houston                          | Strangers In The Night                        |
-| South East Quarter               | Fly Me To The Moon (In Other Words)           |
-| Coconut Roads                    | Sunny                                         |
+| Deep Light                       | The Way You Look Tonight                      |
+| Freedom At Midnight              | Someday (feat. Meghan Trainor)                |
+| Fake Monologue                   | L-O-V-E                                       |
+| The Last Goodbye                 | La Vie En Rose                                |
+| Unsquare Dance                   | La vie en rose (feat. Cécile McLorin Salvant) |
+| 6-String Poet                    | Fly Me To The Moon (In Other Words)           |
+| M.W.A. (Musicians With Attitude) | L-O-V-E - 2000 Remaster                       |
+| A Last Request                   | Love Won't Let You Get Away                   |
+| Houston                          | Sunny                                         |
+| Every Step Of The Way            | Come Fly With Me - Remastered 1998            |
 
 | 10 most Live tracks              | 10 least Live tracks                |
 |:---------------------------------|:------------------------------------|
-| Moondance                        | Cry Me a River                      |
-| Sunny                            | Someday (feat. Meghan Trainor)      |
-| That's Life                      | El Camino Real                      |
+| Moondance                        | Someday (feat. Meghan Trainor)      |
+| Sunny                            | El Camino Real                      |
+| That's Life                      | Take Five                           |
 | The Best Is yet to Come          | Along The Milky Way                 |
 | South East Quarter               | Fly Me To The Moon (In Other Words) |
 | The Way You Look Tonight         | Passion Walk                        |

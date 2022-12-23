@@ -59,11 +59,11 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 22 genres](../images/labels/sony_music_labels_inc_/genres.png)
+![Bar chart of top 23 genres](../images/labels/sony_music_labels_inc_/genres.png)
 
 
 <details>
-<summary>See all 22 genres</summary>
+<summary>See all 23 genres</summary>
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
@@ -81,6 +81,7 @@ Appears as:
 |                  1 | japanese math rock                                |
 |                  1 | japanese emo                                      |
 |                  1 | j-rock                                            |
+|                  1 | j-poprock                                         |
 |                  1 | j-pixie                                           |
 |                  1 | franco-flemish school                             |
 |                  1 | [early music](../genres/early_music.md)           |
@@ -97,11 +98,11 @@ Appears as:
 
 | Art                                                                                              | Track            | Album                     | Artists                                                                                                          | Label                                                                                    | 💚   | 🔗                                                          |
 |:-------------------------------------------------------------------------------------------------|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|:----|:-----------------------------------------------------------|
-| <img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="" width="50" /> | All I Ask of You | Cappella                  | [Andrew Lloyd Webber](../artists/andrew_lloyd_webber.md), [The King's Singers](../artists/the_king_s_singers.md) | [Sony Music Labels Inc.](sony_music_labels_inc_.md), [Sony Classical](sony_classical.md) |     | [🔗](https://open.spotify.com/track/5JTRLqApDZKaIwcopt1d9p) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="" width="50" /> | Good Vibrations  | Cappella                  | Brian Wilson, Mike Love, [The King's Singers](../artists/the_king_s_singers.md)                                  | [Sony Music Labels Inc.](sony_music_labels_inc_.md), [Sony Classical](sony_classical.md) |     | [🔗](https://open.spotify.com/track/14LgsPIZ7xKsfkM50VjxuA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="" width="50" /> | All I Ask of You | Cappella                  | [Andrew Lloyd Webber](../artists/andrew_lloyd_webber.md), [The King's Singers](../artists/the_king_s_singers.md) | [Sony Classical](sony_classical.md), [Sony Music Labels Inc.](sony_music_labels_inc_.md) |     | [🔗](https://open.spotify.com/track/5JTRLqApDZKaIwcopt1d9p) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="" width="50" /> | Good Vibrations  | Cappella                  | Brian Wilson, Mike Love, [The King's Singers](../artists/the_king_s_singers.md)                                  | [Sony Classical](sony_classical.md), [Sony Music Labels Inc.](sony_music_labels_inc_.md) |     | [🔗](https://open.spotify.com/track/14LgsPIZ7xKsfkM50VjxuA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359c2f8304319dcd03eb4ead7" alt="" width="50" /> | PINK BLOOD       | PINK BLOOD                | Hikaru Utada                                                                                                     | [Sony Music Labels Inc.](sony_music_labels_inc_.md)                                      |     | [🔗](https://open.spotify.com/track/39lq5gU4lPc0rYVaRo0stH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732491a35e8c5f8a746f45a8b9" alt="" width="50" /> | Queen of Hearts  | ELEVEN -Japanese version- | IVE                                                                                                              | [Sony Music Labels Inc.](sony_music_labels_inc_.md)                                      |     | [🔗](https://open.spotify.com/track/4tG2c8LP7J0EsfQ8gKLm7q) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="" width="50" /> | Ave Maria        | Cappella                  | Josquin des Prez, [The King's Singers](../artists/the_king_s_singers.md)                                         | [Sony Music Labels Inc.](sony_music_labels_inc_.md), [Sony Classical](sony_classical.md) |     | [🔗](https://open.spotify.com/track/6xBGuah2AMT6y5S0HlztUU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="" width="50" /> | Ave Maria        | Cappella                  | Josquin des Prez, [The King's Singers](../artists/the_king_s_singers.md)                                         | [Sony Classical](sony_classical.md), [Sony Music Labels Inc.](sony_music_labels_inc_.md) |     | [🔗](https://open.spotify.com/track/6xBGuah2AMT6y5S0HlztUU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f038f68827e437530b3a80a8" alt="" width="50" /> | 砂の惑星 ( + 初音ミク )  | BOOTLEG                   | Kenshi Yonezu, Hatsune Miku                                                                                      | [Sony Music Labels Inc.](sony_music_labels_inc_.md)                                      |     | [🔗](https://open.spotify.com/track/3aYz5EBaRTWLpsfyUIsQyX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a2272c8966971b7b04066241" alt="" width="50" /> | 白日               | CEREMONY                  | King Gnu                                                                                                         | [Sony Music Labels Inc.](sony_music_labels_inc_.md)                                      |     | [🔗](https://open.spotify.com/track/172fMG26G2OoEzzg0wn26r) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739792873842bcfa921ffceebf" alt="" width="50" /> | abnormalize      | i'mperfect                | Ling tosite sigure                                                                                               | [Sony Music Labels Inc.](sony_music_labels_inc_.md)                                      |     | [🔗](https://open.spotify.com/track/00nmZvZRyzQiYe2tAcDDUb) |

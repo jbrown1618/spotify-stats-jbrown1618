@@ -297,7 +297,7 @@
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
 |                 57 | [pop](../genres/pop.md)                             |
-|                 23 | indie pop                                           |
+|                 24 | indie pop                                           |
 |                 22 | [rock](../genres/rock.md)                           |
 |                 19 | modern rock                                         |
 |                 18 | [dance pop](../genres/dance_pop.md)                 |
@@ -360,7 +360,7 @@
 |                  2 | canadian indie                                      |
 |                  2 | alternative metal                                   |
 |                  1 | visual kei                                          |
-|                  1 | viral pop                                           |
+|                  1 | [viral pop](../genres/viral_pop.md)                 |
 |                  1 | uk contemporary r&b                                 |
 |                  1 | swedish synthpop                                    |
 |                  1 | swedish pop                                         |
@@ -377,6 +377,7 @@
 |                  1 | [k-pop girl group](../genres/k_pop_girl_group.md)   |
 |                  1 | japanese emo                                        |
 |                  1 | j-rock                                              |
+|                  1 | j-poprock                                           |
 |                  1 | j-pop                                               |
 |                  1 | italian pop                                         |
 |                  1 | irish pop                                           |
@@ -395,7 +396,6 @@
 |                  1 | danish pop                                          |
 |                  1 | cyberpunk                                           |
 |                  1 | canadian singer-songwriter                          |
-|                  1 | canadian rock                                       |
 
 </details>
 

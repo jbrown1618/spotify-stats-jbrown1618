@@ -1,16 +1,16 @@
 # soft rock
 
-[60 songs](soft_rock_tracks.md)
+[58 songs](soft_rock_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 23 artists](../images/genres/soft_rock/artists.png)
+![Bar chart of top 22 artists](../images/genres/soft_rock/artists.png)
 
 ![Comparison of Artist](../images/genres/soft_rock/artists_comparison.png)
 
 
 <details>
-<summary>See all 23 artists</summary>
+<summary>See all 22 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                                 | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------|:------------------------------------------------------------|
@@ -20,7 +20,6 @@
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebe848dfb35ea4969099662dfd" alt="" width="50" /> | Journey                                                | [🔗](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4536d632bb182e3f82baaaf" alt="" width="50" /> | [The King's Singers](../artists/the_king_s_singers.md) | [🔗](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebfef3008e708e59efaa5667ed" alt="" width="50" /> | Styx                                                   | [🔗](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebbdef7f178c9cf2e8d50cb9b9" alt="" width="50" /> | The Monkees                                            | [🔗](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) |
 |                  2 | <img src="https://i.scdn.co/image/813fde33623cbfd065053789cf1ffb22b55efd4a" alt="" width="50" /> | Carole King                                            | [🔗](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebe924bdfec5ce73220c15cd25" alt="" width="50" /> | Kansas                                                 | [🔗](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb1f764c8f69b595efe77e1c45" alt="" width="50" /> | Paul Simon                                             | [🔗](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) |
@@ -46,7 +45,7 @@
 
 
 <details>
-<summary>See all 45 albums</summary>
+<summary>See all 43 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                          | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------|:-----------------------------------------------------------|
@@ -71,13 +70,11 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27388f0f719259b0dec23a7c367" alt="" width="50" /> | The Grand Illusion                             | [🔗](https://open.spotify.com/album/6MFIBPVrZjHjP0pPkVF3IU) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738f09dd4d56cde1a2cda18604" alt="" width="50" /> | The Essential Van Morrison                     | [🔗](https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273800f95060baebdd6aea0f4b9" alt="" width="50" /> | The Bridge                                     | [🔗](https://open.spotify.com/album/2fRxSC6FtiAkhEDVZr2seH) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27376448e93fcf0b2298744ba97" alt="" width="50" /> | The Birds, The Bees, & The Monkees             | [🔗](https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273653b110d9560eb1656f4c583" alt="" width="50" /> | Ten Summoner's Tales                           | [🔗](https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f4a2ccbe20d6d52f16816812" alt="" width="50" /> | Rocky IV                                       | [🔗](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27359f0f56a7cd13526b5b4204c" alt="" width="50" /> | Point Of Know Return (Expanded Edition)        | [🔗](https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" alt="" width="50" /> | Pieces Of Eight                                | [🔗](https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fe28f2179e0529ae0520f3bd" alt="" width="50" /> | Peter Gabriel 1: Car (Remastered Version)      | [🔗](https://open.spotify.com/album/4jd6oC0It60c1J3GpXCv6M) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273360a1ae790aa71a0aac4983e" alt="" width="50" /> | More of The Monkees (Deluxe Edition)           | [🔗](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27369bb57791f9859f2695391f7" alt="" width="50" /> | Moondance (Expanded Edition)                   | [🔗](https://open.spotify.com/album/6yNYC35npMBHbxG0Vle83O) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f22514855a9a8356664340fb" alt="" width="50" /> | Moondance (Deluxe Edition)                     | [🔗](https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1113af3a19a41dc8eec534e" alt="" width="50" /> | Luck Of The Draw                               | [🔗](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) |
@@ -110,7 +107,7 @@
 |   Number of Tracks | Label                                                               |
 |-------------------:|:--------------------------------------------------------------------|
 |                 26 | [Columbia](../labels/columbia.md)                                   |
-|                 12 | [Rhino](../labels/rhino.md)                                         |
+|                 10 | [Rhino](../labels/rhino.md)                                         |
 |                 10 | [Legacy](../labels/legacy.md)                                       |
 |                  8 | [Warner Records](../labels/warner_records.md)                       |
 |                  4 | [Epic](../labels/epic.md)                                           |
@@ -163,8 +160,8 @@
 | Only the Good Die Young           | Rhiannon                         |
 | Scenes from an Italian Restaurant | Solsbury Hill                    |
 | Big Shot                          | Dust in the Wind                 |
-| Crazy Love - 2013 Remaster        | Piano Man                        |
-| The Stranger                      | Dreams - 2004 Remaster           |
+| Crazy Love - 2013 Remaster        | Dreams - 2004 Remaster           |
+| The Stranger                      | Piano Man                        |
 | Crazy Love                        | Cold as Ice                      |
 | Can't Take My Eyes off You        | Hotel California - 2013 Remaster |
 | The River of Dreams               | A Matter of Trust                |
@@ -186,15 +183,15 @@
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| Rhiannon                      | We Didn't Start the Fire       |
-| 25 or 6 to 4                  | Vienna                         |
-| Sara - 2015 Remaster          | The Longest Time               |
+| Rhiannon                      | Don't Stop Believin'           |
+| 25 or 6 to 4                  | Cat's in the Cradle            |
+| Sara - 2015 Remaster          | We Didn't Start the Fire       |
 | Fields Of Gold                | Uptown Girl                    |
-| Stayin Alive                  | Don't Ask Me Why               |
-| Lights                        | Cat's in the Cradle            |
-| You Can Call Me Al            | Daydream Believer              |
-| Dreams - 2004 Remaster        | Brown Eyed Girl                |
-| I Feel the Earth Move         | Don't Stop Believin'           |
+| Stayin Alive                  | The Longest Time               |
+| Lights                        | Vienna                         |
+| You Can Call Me Al            | And So It Goes                 |
+| Dreams - 2004 Remaster        | Lullabye (Goodnight, My Angel) |
+| I Feel the Earth Move         | Only the Good Die Young        |
 | My Life                       | Cold as Ice                    |
 
 | 10 most Live tracks      | 10 least Live tracks             |
@@ -212,13 +209,13 @@
 
 | 10 most Happy tracks            | 10 least Happy tracks          |
 |:--------------------------------|:-------------------------------|
-| I'm a Believer - 2006 Remaster  | Fields Of Gold                 |
-| Stayin Alive                    | Vienna                         |
-| Brown Eyed Girl                 | And So It Goes                 |
+| Stayin Alive                    | Fields Of Gold                 |
+| Brown Eyed Girl                 | Vienna                         |
+| We Didn't Start the Fire        | And So It Goes                 |
 | Movin' Out (Anthony's Song)     | The Stranger                   |
-| We Didn't Start the Fire        | Lullabye (Goodnight, My Angel) |
-| A Matter of Trust               | She's Got a Way                |
-| Take on Me                      | New York State of Mind         |
-| Don't Ask Me Why                | Desperado - 2013 Remaster      |
-| Pressure                        | Come Sail Away                 |
-| Go Your Own Way - 2004 Remaster | I Can't Make You Love Me       |
+| A Matter of Trust               | Lullabye (Goodnight, My Angel) |
+| Take on Me                      | She's Got a Way                |
+| Don't Ask Me Why                | New York State of Mind         |
+| Pressure                        | Desperado - 2013 Remaster      |
+| Go Your Own Way - 2004 Remaster | Come Sail Away                 |
+| You Can Call Me Al              | I Can't Make You Love Me       |

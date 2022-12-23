@@ -305,7 +305,7 @@
 
 
 <details>
-<summary>See all 97 genres</summary>
+<summary>See all 98 genres</summary>
 
 |   Number of Tracks | Genre                                 |
 |-------------------:|:--------------------------------------|
@@ -334,6 +334,7 @@
 |                  3 | sunnlensk tonlist                     |
 |                  3 | pop urbaine                           |
 |                  3 | japanese teen pop                     |
+|                  3 | j-poprock                             |
 |                  3 | icelandic pop                         |
 |                  3 | francoton                             |
 |                  3 | bitpop                                |

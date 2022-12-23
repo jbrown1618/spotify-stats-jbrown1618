@@ -375,11 +375,11 @@
 |                 11 | [neo mellow](../genres/neo_mellow.md)           |
 |                 11 | british soul                                    |
 |                 11 | australian pop                                  |
+|                 10 | [viral pop](../genres/viral_pop.md)             |
 |                 10 | pop soul                                        |
 |                 10 | canadian pop                                    |
 |                 10 | barbadian pop                                   |
 |                 10 | [acoustic pop](../genres/acoustic_pop.md)       |
-|                  9 | viral pop                                       |
 |                  9 | pop dance                                       |
 |                  8 | uk dance                                        |
 |                  8 | tropical house                                  |
@@ -411,6 +411,7 @@
 |                  3 | modern alternative rock                         |
 |                  3 | lgbtq+ hip hop                                  |
 |                  3 | latin pop                                       |
+|                  3 | indie pop                                       |
 |                  3 | house                                           |
 |                  3 | hip hop                                         |
 |                  3 | etherpop                                        |
@@ -426,7 +427,6 @@
 |                  2 | irish singer-songwriter                         |
 |                  2 | indy indie                                      |
 |                  2 | indiecoustica                                   |
-|                  2 | indie pop                                       |
 |                  2 | gauze pop                                       |
 |                  2 | filter house                                    |
 |                  2 | electro                                         |

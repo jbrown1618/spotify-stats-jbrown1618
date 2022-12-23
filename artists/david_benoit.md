@@ -5,10 +5,9 @@
 <img src="https://i.scdn.co/image/ab6772690000c46c153adede0a024fd3679af738" alt="David Benoit" width="100" />
 
 ## Featured on Playlists
-|   Number of Tracks | Art                                                                                                                                                                                                                         | Playlist                                           |
-|-------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------|
-|                 20 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273068a5559744d17bd5e871740ab67616d0000b273a1113af3a19a41dc8eec534eab67616d0000b273cb81eb3c1238c60f2bbfd3b5ab67616d0000b273ef54c10b95411c51b9ab873b" alt="" width="50" /> | [Jazz](../playlists/jazz.md)                       |
-|                  2 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27312626c137c7684fe1662a4f3ab67616d0000b2732ced1760b648799e697e8e02ab67616d0000b273ac815bdd584468a7aa0216e1ab67616d0000b273be123bb6b40736bf093870bd" alt="" width="50" /> | [Check Out Later](../playlists/check_out_later.md) |
+|   Number of Tracks | Art                                                                                                                                                                                                                         | Playlist                     |
+|-------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------|
+|                 21 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273068a5559744d17bd5e871740ab67616d0000b273a1113af3a19a41dc8eec534eab67616d0000b273cb81eb3c1238c60f2bbfd3b5ab67616d0000b273ef54c10b95411c51b9ab873b" alt="" width="50" /> | [Jazz](../playlists/jazz.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album                 | 🔗                                                          |

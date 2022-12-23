@@ -130,7 +130,7 @@
 |   Number of Tracks | Genre                                     |
 |-------------------:|:------------------------------------------|
 |                 89 | [show tunes](../genres/show_tunes.md)     |
-|                 61 | [hollywood](../genres/hollywood.md)       |
+|                 60 | [hollywood](../genres/hollywood.md)       |
 |                 52 | [broadway](../genres/broadway.md)         |
 |                 37 | west end                                  |
 |                 10 | vocal jazz                                |
