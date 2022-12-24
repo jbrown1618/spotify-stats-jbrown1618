@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273022b4010e20659300f42c375ab67616d0000b2730e402844f1b6be3102d339f2ab67616d0000b2733378545422c5257483f6230eab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="Singer-Songwriter" width="100" />
 
-[236 songs](singer_songwriter_tracks.md)
+[238 songs](singer_songwriter_tracks.md)
 
 ## Top Artists
 
@@ -18,7 +18,7 @@
 |   Number of Tracks | Art                                                                                              | Artist                                         | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------|:------------------------------------------------------------|
 |                 60 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../artists/sara_bareilles.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
-|                 56 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | [Taylor Swift](../artists/taylor_swift.md)     | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
+|                 58 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | [Taylor Swift](../artists/taylor_swift.md)     | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 |                 22 | <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | [Billy Joel](../artists/billy_joel.md)         | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
 |                 18 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | [Lana Del Rey](../artists/lana_del_rey.md)     | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb5e92b1ddbbbc66454d44a2c4" alt="" width="50" /> | [Kimbra](../artists/kimbra.md)                 | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
@@ -69,10 +69,10 @@
 |                 10 | <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | reputation                                  | [🔗](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) |
 |                 10 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | folklore                                    | [🔗](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) |
 |                 10 | <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | Amidst the Chaos (Bonus Version)            | [🔗](https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm) |
+|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Midnights                                   | [🔗](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) |
 |                  8 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Lover                                       | [🔗](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) |
 |                  8 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="" width="50" /> | 1989                                        | [🔗](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) |
 |                  7 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Vows (Deluxe Version)                       | [🔗](https://open.spotify.com/album/6V9rvW05Um5bIHePPfeI8p) |
-|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Midnights                                   | [🔗](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) |
 |                  7 | <img src="https://i.scdn.co/image/ab67616d0000b2734280a158a96c9b0274eb7e99" alt="" width="50" /> | Love, Save The Empty                        | [🔗](https://open.spotify.com/album/1tF7625TFqvfzMbappj1pQ) |
 |                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="" width="50" /> | What's Inside: Songs from Waitress          | [🔗](https://open.spotify.com/album/1s6codM2ZAB008t9GTyaEk) |
 |                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Born To Die                                 | [🔗](https://open.spotify.com/album/4X8hAqIWpQyQks2yRhyqs4) |
@@ -82,6 +82,7 @@
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | Red                                         | [🔗](https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="" width="50" /> | Ellipse                                     | [🔗](https://open.spotify.com/album/5AYKGPzPBJNHeKehCxMaq0) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="" width="50" /> | Beatrix Runs                                | [🔗](https://open.spotify.com/album/7HsPaYQbCYnxosF5WiSlEA) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be" alt="" width="50" /> | evermore                                    | [🔗](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="" width="50" /> | Ultraviolence (Deluxe)                      | [🔗](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273866872ba52cf201fc33995cc" alt="" width="50" /> | Speak for Yourself                          | [🔗](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273b4844a368bd9679f1db5a4fb" alt="" width="50" /> | Song to a Seagull                           | [🔗](https://open.spotify.com/album/6rg3WTvmv68Vd6tgR0yS0E) |
@@ -92,7 +93,6 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273e7b8e0abcd5cdc4c8b5a238c" alt="" width="50" /> | Bomb In A Birdcage                          | [🔗](https://open.spotify.com/album/07IV5RxLvAUeZbcPm4zOzn) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273e9f77be85457110ebf304da7" alt="" width="50" /> | Blue                                        | [🔗](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2732d81f491319b86356eb10c4e" alt="" width="50" /> | Begin to Hope                               | [🔗](https://open.spotify.com/album/4L4tcx3itXbtx5kuchKhFE) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be" alt="" width="50" /> | evermore                                    | [🔗](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2730f2e51f7121539e221c51161" alt="" width="50" /> | We Sing. We Dance. We Steal Things.         | [🔗](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="" width="50" /> | The Stranger (Legacy Edition)               | [🔗](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="" width="50" /> | Tapestry                                    | [🔗](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) |
@@ -159,7 +159,7 @@
 |   Number of Tracks | Label                                                                                                       |
 |-------------------:|:------------------------------------------------------------------------------------------------------------|
 |                 61 | [Epic](../labels/epic.md)                                                                                   |
-|                 28 | [Taylor Swift](../labels/taylor_swift.md)                                                                   |
+|                 30 | [Taylor Swift](../labels/taylor_swift.md)                                                                   |
 |                 28 | [Big Machine Records](../labels/big_machine_records.md)                                                     |
 |                 23 | [Columbia](../labels/columbia.md)                                                                           |
 |                 18 | [Polydor Records](../labels/polydor_records.md)                                                             |
@@ -207,7 +207,7 @@
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
-|                137 | [pop](../genres/pop.md)                             |
+|                139 | [pop](../genres/pop.md)                             |
 |                 82 | [acoustic pop](../genres/acoustic_pop.md)           |
 |                 79 | [lilith](../genres/lilith.md)                       |
 |                 71 | [neo mellow](../genres/neo_mellow.md)               |
@@ -232,7 +232,7 @@
 |                  8 | canadian singer-songwriter                          |
 |                  6 | glam rock                                           |
 |                  5 | deep indie singer-songwriter                        |
-|                  3 | [viral pop](../genres/viral_pop.md)                 |
+|                  3 | viral pop                                           |
 |                  2 | neo soul                                            |
 |                  2 | indy indie                                          |
 |                  2 | indiecoustica                                       |
@@ -309,23 +309,23 @@
 | The Pirate of Penance                                                             | Vegas                                   |
 | Manhattan                                                                         | Nightflyers                             |
 | She's Got a Way                                                                   | Many the Miles                          |
-| I Had a King                                                                      | Brave                                   |
-| Norman fucking Rockwell                                                           | I Knew You Were Trouble.                |
+| Norman fucking Rockwell                                                           | Brave                                   |
+| I Had a King                                                                      | I Knew You Were Trouble.                |
 | Sweet Nothing                                                                     | Style                                   |
 | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Now Is The Start                        |
 | The Dawntreader                                                                   | Out Of The Woods                        |
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| Swan Song                     | Odi Et Amo                     |
-| Meant                         | She Used To Be Mine            |
-| Bel Air                       | One Sweet Love                 |
-| Top of the World              | Two Way Street                 |
-| Norman fucking Rockwell       | Cat's in the Cradle            |
-| Now Is The Start              | Only the Good Die Young        |
-| Satellite Call                | Talk It Up                     |
-| Islands                       | We Didn't Start the Fire       |
-| West Coast                    | Almost Lover                   |
+| Swan Song                     | She Used To Be Mine            |
+| Meant                         | One Sweet Love                 |
+| Bel Air                       | Two Way Street                 |
+| Top of the World              | Cat's in the Cradle            |
+| Norman fucking Rockwell       | Only the Good Die Young        |
+| Now Is The Start              | Talk It Up                     |
+| Satellite Call                | We Didn't Start the Fire       |
+| Islands                       | Almost Lover                   |
+| West Coast                    | Little Black Dress             |
 | Shades Of Cool                | Clean                          |
 
 | 10 most Live tracks                                                               | 10 least Live tracks        |
@@ -336,10 +336,10 @@
 | Creep Live At (Le)Poisson Rouge                                                   | My Life                     |
 | Uptown Girl                                                                       | I Feel the Earth Move       |
 | Big Yellow Taxi                                                                   | Chasing The Sun             |
-| Saw It Coming                                                                     | Eden                        |
-| Off To The Races                                                                  | Brave                       |
-| Cherry                                                                            | I Knew You Were Trouble.    |
-| This Is Why We Can't Have Nice Things                                             | Uncharted                   |
+| Karma                                                                             | Eden                        |
+| Saw It Coming                                                                     | Brave                       |
+| Off To The Races                                                                  | I Knew You Were Trouble.    |
+| Cherry                                                                            | Uncharted                   |
 
 | 10 most Happy tracks        | 10 least Happy tracks           |
 |:----------------------------|:--------------------------------|

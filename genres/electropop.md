@@ -1,6 +1,6 @@
 # electropop
 
-[47 songs](electropop_tracks.md)
+[46 songs](electropop_tracks.md)
 
 ## Top Artists
 
@@ -19,8 +19,7 @@
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb3ea2c03525939b482f8d3bfd" alt="" width="50" /> | Janelle Monáe                                | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb0db36498679f03f30606d45f" alt="" width="50" /> | Ellie Goulding                               | [🔗](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | Halsey                                       | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
-|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb576cb43281160e345f728b71" alt="" width="50" /> | Charli XCX                                   | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd6442ba68c144b0c84b207a4" alt="" width="50" /> | Rina Sawayama                                | [🔗](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb576cb43281160e345f728b71" alt="" width="50" /> | Charli XCX                                   | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb358577f183465ae7698a53a7" alt="" width="50" /> | Carly Rae Jepsen                             | [🔗](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375" alt="" width="50" /> | Hatsune Miku                                 | [🔗](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb31072db9da0311ecfabe96bf" alt="" width="50" /> | Khalid                                       | [🔗](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) |
@@ -35,6 +34,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc48ae32aff5303453105b2d3" alt="" width="50" /> | Cobra Starship                               | [🔗](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba8b955d42229e4cbd03d4cd8" alt="" width="50" /> | VERNON                                       | [🔗](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb740bae2676885855f3e5b05a" alt="" width="50" /> | Tove Styrke                                  | [🔗](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd6442ba68c144b0c84b207a4" alt="" width="50" /> | Rina Sawayama                                | [🔗](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0812e8d85a4cc98cbc3bf2c" alt="" width="50" /> | Metric                                       | [🔗](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e9c5c07c1244a637929678c" alt="" width="50" /> | VÉRITÉ                                       | [🔗](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba8bcfb642ea4803e36b73b0a" alt="" width="50" /> | Bishop Briggs                                | [🔗](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) |
@@ -57,7 +57,6 @@
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="" width="50" /> | Primal Heart                                                               | [🔗](https://open.spotify.com/album/4pj0BkJ7u39i009oqe8V79) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a90401b8d27cd6b5f3a46242" alt="" width="50" /> | Lights                                                                     | [🔗](https://open.spotify.com/album/3duZhvcaoqdNveQYXf9dMV) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2730a60fb0deda858270cca82ee" alt="" width="50" /> | Dirty Computer                                                             | [🔗](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="" width="50" /> | CRASH                                                                      | [🔗](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c" alt="" width="50" /> | lovely (with Khalid)                                                       | [🔗](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730f7ad6d8d829906c17cae210" alt="" width="50" /> | hopeless fountain kingdom (Deluxe)                                         | [🔗](https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f2248cf6dad1d6c062587249" alt="" width="50" /> | everything i wanted                                                        | [🔗](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) |
@@ -81,6 +80,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735064363e1b38af783f93f1a7" alt="" width="50" /> | Daisy 2.0 (feat. Hatsune Miku)                                             | [🔗](https://open.spotify.com/album/6JZYS7UElSfjyTgFgE1ApG) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273495ce6da9aeb159e94eaa453" alt="" width="50" /> | Closer                                                                     | [🔗](https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738cae5034066af45cdfbc4266" alt="" width="50" /> | Church Of Scars                                                            | [🔗](https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="" width="50" /> | CRASH                                                                      | [🔗](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b0ed835957dbf3c63184a3bc" alt="" width="50" /> | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] | [🔗](https://open.spotify.com/album/6snPKZGUbpydW2XJu9ievq) |
 
 </details>
@@ -103,7 +103,6 @@
 |                  4 | [Bad Boy](../labels/bad_boy.md)                                       |
 |                  2 | [Wondaland](../labels/wondaland.md)                                   |
 |                  2 | [Capitol Records](../labels/capitol_records.md)                       |
-|                  2 | [Atlantic Records](../labels/atlantic_records.md)                     |
 |                  1 | [VÉRITÉ](../labels/v_rit_.md)                                         |
 |                  1 | [Universal Music LLC](../labels/universal_music_llc.md)               |
 |                  1 | [Teleport Records](../labels/teleport_records.md)                     |
@@ -120,6 +119,7 @@
 |                  1 | [Decaydance](../labels/decaydance.md)                                 |
 |                  1 | [Columbia](../labels/columbia.md)                                     |
 |                  1 | [Atlantic Records UK](../labels/atlantic_records_uk.md)               |
+|                  1 | [Atlantic Records](../labels/atlantic_records.md)                     |
 |                  1 | [Astralwerks (ASW)](../labels/astralwerks__asw_.md)                   |
 
 </details>
@@ -127,31 +127,31 @@
 
 ## Audio Features
 
-| 10 most Danceable tracks          | 10 least Danceable tracks   |
-|:----------------------------------|:----------------------------|
-| bury a friend                     | Plain Gold Ring             |
-| Therefore I Am                    | Love Me Like You Do         |
-| Make Me Feel                      | I Like That                 |
-| Good Intent                       | Old Flame                   |
-| Beg For You (feat. Rina Sawayama) | Gimme Sympathy              |
-| Call Me Maybe                     | Like They Do on the TV      |
-| Daisy 2.0 (feat. Hatsune Miku)    | Waltz Me to the Grave       |
-| Recovery                          | No Time To Die              |
-| Good Ones                         | when the party's over       |
-| Settle Down                       | lovely (with Khalid)        |
+| 10 most Danceable tracks       | 10 least Danceable tracks   |
+|:-------------------------------|:----------------------------|
+| bury a friend                  | Plain Gold Ring             |
+| Therefore I Am                 | Love Me Like You Do         |
+| Make Me Feel                   | I Like That                 |
+| Good Intent                    | Old Flame                   |
+| Call Me Maybe                  | Gimme Sympathy              |
+| Daisy 2.0 (feat. Hatsune Miku) | Like They Do on the TV      |
+| Recovery                       | Waltz Me to the Grave       |
+| Good Ones                      | No Time To Die              |
+| Settle Down                    | when the party's over       |
+| Slow Grenade                   | lovely (with Khalid)        |
 
 | 10 most Energetic tracks                   | 10 least Energetic tracks   |
 |:-------------------------------------------|:----------------------------|
-| Beg For You (feat. Rina Sawayama)          | bury a friend               |
-| Cameo Lover                                | Therefore I Am              |
-| Like They Do on the TV                     | ocean eyes                  |
-| Gimme Sympathy                             | Waltz Me to the Grave       |
-| Good Girls Go Bad (feat. Leighton Meester) | lovely (with Khalid)        |
-| Something In The Way You Move              | everything i wanted         |
-| Recovery                                   | No Time To Die              |
-| Lights - Single Version                    | Your Song                   |
-| Top of the World                           | xanny                       |
-| Bad At Love                                | when the party's over       |
+| Cameo Lover                                | bury a friend               |
+| Like They Do on the TV                     | Therefore I Am              |
+| Gimme Sympathy                             | ocean eyes                  |
+| Good Girls Go Bad (feat. Leighton Meester) | Waltz Me to the Grave       |
+| Something In The Way You Move              | lovely (with Khalid)        |
+| Recovery                                   | everything i wanted         |
+| Lights - Single Version                    | No Time To Die              |
+| Top of the World                           | Your Song                   |
+| Bad At Love                                | xanny                       |
+| SUGA's Interlude                           | when the party's over       |
 
 | 10 most Speechy tracks       | 10 least Speechy tracks   |
 |:-----------------------------|:--------------------------|
@@ -184,13 +184,13 @@
 | everything i wanted           | Good Girls Go Bad (feat. Leighton Meester) |
 | you should see me in a crown  | The Good War                               |
 | bury a friend                 | Cameo Lover                                |
-| Therefore I Am                | Two Way Street                             |
-| bad guy                       | Closer                                     |
+| Therefore I Am                | Closer                                     |
+| bad guy                       | Daisy 2.0 (feat. Hatsune Miku)             |
 | Like They Do on the TV        | lovely (with Khalid)                       |
 | Top of the World              | Say My Name                                |
 | Lights - Single Version       | SUGA's Interlude                           |
 | ocean eyes                    | Bad At Love                                |
-| Lightyears                    | Daisy 2.0 (feat. Hatsune Miku)             |
+| Lightyears                    | Two Way Street                             |
 
 | 10 most Live tracks                            | 10 least Live tracks                                                       |
 |:-----------------------------------------------|:---------------------------------------------------------------------------|

@@ -38,7 +38,7 @@
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273b838bcfbf3765b65e4c0e311" alt="" width="50" /> | Trinity Boys Choir                                                               | [🔗](https://open.spotify.com/artist/23EzhBs30RXxidoFWTytAR) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273d95ec2c843569269aa707ea3" alt="" width="50" /> | Wandsworth School Boys Choir                                                     | [🔗](https://open.spotify.com/artist/3Al8lu5X4j3QY40s4OIawp) |
 |                  3 | <img src="https://i.scdn.co/image/1ee006f7c1e5c709d47edafa467504fb12d84de6" alt="" width="50" /> | Renato Capecchi                                                                  | [🔗](https://open.spotify.com/artist/16LkUonMXYtr6O6b1Cru9d) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273b45d52ffe8b2add8a28a9570" alt="" width="50" /> | Sabin Markov                                                                     | [🔗](https://open.spotify.com/artist/6hXKUW4SdmIRr6f9SOXD7N) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27396a4d9bd867a6b57e1e96f88" alt="" width="50" /> | Sabin Markov                                                                     | [🔗](https://open.spotify.com/artist/6hXKUW4SdmIRr6f9SOXD7N) |
 |                  1 | <img src="https://i.scdn.co/image/bc050466b5332b694ffc206d1832eabab6e95adb" alt="" width="50" /> | Italo Tajo                                                                       | [🔗](https://open.spotify.com/artist/7vqx8IiSqPIFjFBzstDQmn) |
 
 </details>

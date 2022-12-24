@@ -1,6 +1,6 @@
 # k-pop boy group
 
-[238 songs](k_pop_boy_group_tracks.md)
+[237 songs](k_pop_boy_group_tracks.md)
 
 ## Top Artists
 
@@ -18,8 +18,8 @@
 |                 30 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)               | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 |                 22 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)       | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 |                 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="" width="50" /> | [SEVENTEEN](../artists/seventeen.md)   | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
-|                 12 | <img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="" width="50" /> | [EXO](../artists/exo.md)               | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
 |                 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb7401998434b12fffd119ae18" alt="" width="50" /> | [NCT 127](../artists/nct_127.md)       | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
+|                 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="" width="50" /> | [EXO](../artists/exo.md)               | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb64362c8789b72fb00e0a3611" alt="" width="50" /> | ATEEZ                                  | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bd65b0efee10bfa8328c33b" alt="" width="50" /> | NCT U                                  | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb758f3c632d4d726f1129d336" alt="" width="50" /> | TOMORROW X TOGETHER                    | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
@@ -90,7 +90,6 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="" width="50" /> | BE                                                 | [🔗](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="" width="50" /> | Wings                                              | [🔗](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="" width="50" /> | The Most Beautiful Moment in Life: Young Forever   | [🔗](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2732795c34a8931367a0916de54" alt="" width="50" /> | The 1st Album 'XOXO' (Repackage)                   | [🔗](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27349ae714ee0bf50ca0838ed0f" alt="" width="50" /> | THE WORLD EP.1 : MOVEMENT                          | [🔗](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273b787b5b8c27a5dbd360c0f59" alt="" width="50" /> | THE WAR - The 4th Album                            | [🔗](https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | Sticker - The 3rd Album                            | [🔗](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) |
@@ -121,6 +120,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738ac442a54c68aad8f9b93f51" alt="" width="50" /> | The Most Beautiful Moment in Life Pt.2             | [🔗](https://open.spotify.com/album/4frjaGAtuBmm8CPuYPY4oG) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736207621becafe079ec6c9185" alt="" width="50" /> | The Dream Chapter: MAGIC                           | [🔗](https://open.spotify.com/album/5KoR6s906nbO21C9ZPdwTv) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735137378ed49327e5dec7406f" alt="" width="50" /> | The Chaos Chapter: FIGHT OR ESCAPE                 | [🔗](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732795c34a8931367a0916de54" alt="" width="50" /> | The 1st Album 'XOXO' (Repackage)                   | [🔗](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273be3a0f924ad08d95b4e25d9f" alt="" width="50" /> | TREASURE EPILOGUE : Action To Answer               | [🔗](https://open.spotify.com/album/3TTkDOcSzRQCvGMT7VmmPE) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f93e83e47994599d8fe1ea2b" alt="" width="50" /> | TREASURE EP.FIN: All To Action                     | [🔗](https://open.spotify.com/album/4HGhzqQEY1X6WWZw6MhjlO) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27316b78257b6dd69d27a2b20de" alt="" width="50" /> | TREASURE EP.2: Zero To One                         | [🔗](https://open.spotify.com/album/2PQ8cQ8WzAJJkWYT2Ydmhw) |
@@ -182,7 +182,7 @@
 |   Number of Tracks | Label                                                               |
 |-------------------:|:--------------------------------------------------------------------|
 |                 59 | [Republic Records](../labels/republic_records.md)                   |
-|                 53 | [SM Entertainment](../labels/sm_entertainment.md)                   |
+|                 52 | [SM Entertainment](../labels/sm_entertainment.md)                   |
 |                 29 | [BIGHIT MUSIC](../labels/bighit_music.md)                           |
 |                 20 | [BELIFT LAB](../labels/belift_lab.md)                               |
 |                 16 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)           |
@@ -238,8 +238,8 @@
 | WONDERLAND                 | Singularity                         |
 | District 9                 | Boy in time - HUI Solo              |
 | One In A Billion           | miss you (Hyunjin)                  |
-| CHEESE                     | Deep end (Felix)                    |
-| Pirate King                | i hate to admit (Bang Chan)         |
+| Pirate King                | Deep end (Felix)                    |
+| CHEESE                     | i hate to admit (Bang Chan)         |
 
 | 10 most Speechy tracks            | 10 least Speechy tracks        |
 |:----------------------------------|:-------------------------------|
@@ -267,18 +267,18 @@
 | Back 2 U (AM 01:27)         | Easy                       |
 | Sorry                       | Mr. Simple                 |
 
-| 10 most Instrumental tracks   | 10 least Instrumental tracks                 |
-|:------------------------------|:---------------------------------------------|
-| Singularity                   | 0X1=LOVESONG (I Know I Love You) feat. Seori |
-| Mr. Simple                    | Breathe Again                                |
-| Lemonade                      | Love is New Gravity                          |
-| Ring Ding Dong                | WONDERLAND                                   |
-| Danger                        | HALA HALA (Hearts Awakened, Live Alive)      |
-| Airplane pt.2                 | Deja Vu                                      |
-| Sour                          | Answer                                       |
-| Doom Du Doom                  | Guerrilla                                    |
-| Ko Ko Bop                     | Devil                                        |
-| Tamed-Dashed                  | Upper Side Dreamin’                          |
+| 10 most Instrumental tracks   | 10 least Instrumental tracks      |
+|:------------------------------|:----------------------------------|
+| Singularity                   | Back Down                         |
+| Mr. Simple                    | Do It Like This - English Version |
+| Lemonade                      | You Calling My Name               |
+| Ring Ding Dong                | Do It Like This                   |
+| Danger                        | Always                            |
+| Airplane pt.2                 | I Need The Light                  |
+| Sour                          | One In A Billion                  |
+| Doom Du Doom                  | Blessed-Cursed                    |
+| Ko Ko Bop                     | Polaroid Love                     |
+| Tamed-Dashed                  | Candy Sugar Pop                   |
 
 | 10 most Live tracks             | 10 least Live tracks       |
 |:--------------------------------|:---------------------------|

@@ -70,7 +70,7 @@ Appears as:
 
 
 <details>
-<summary>See all 32 genres</summary>
+<summary>See all 33 genres</summary>
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
@@ -105,6 +105,7 @@ Appears as:
 |                  1 | new wave pop                                        |
 |                  1 | new wave                                            |
 |                  1 | new romantic                                        |
+|                  1 | disco                                               |
 |                  1 | blues rock                                          |
 
 </details>

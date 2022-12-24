@@ -1,6 +1,6 @@
 # k-pop girl group
 
-[382 songs](k_pop_girl_group_tracks.md)
+[381 songs](k_pop_girl_group_tracks.md)
 
 ## Top Artists
 
@@ -30,13 +30,13 @@
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="" width="50" /> | EVERGLOW                                             | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb9954a1ab45b2404a7bff2a45" alt="" width="50" /> | OH MY GIRL                                           | [🔗](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb271110d977700b69d9548993" alt="" width="50" /> | EXID                                                 | [🔗](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) |
-|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb5b1a291b0a6a689091d54d8b" alt="" width="50" /> | IVE                                                  | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebfe8fbd794e1c35f9c0514541" alt="" width="50" /> | NewJeans                                             | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d4b74165ecfadcacf0771ae" alt="" width="50" /> | MOMOLAND                                             | [🔗](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b27336adcea4e93245f1fec547df" alt="" width="50" /> | AOA                                                  | [🔗](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc1dc943555dfa1ee2a107e5" alt="" width="50" /> | K/DA                                                 | [🔗](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d998e7541724c918777b8ca" alt="" width="50" /> | League of Legends                                    | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb95f4928ac77d31b53626dab3" alt="" width="50" /> | PIXY                                                 | [🔗](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) |
+|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb5b1a291b0a6a689091d54d8b" alt="" width="50" /> | IVE                                                  | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273dd8c3b43984ed746176ac0cf" alt="" width="50" /> | PinkFantasy                                          | [🔗](https://open.spotify.com/artist/5syu5kN4a5f4rgMCRGlnZp) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eba6b0d348c125a072e5284b3e" alt="" width="50" /> | IZ*ONE                                               | [🔗](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0cc2045ff4e90d12df91cc3" alt="" width="50" /> | f(x)                                                 | [🔗](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) |
@@ -200,7 +200,7 @@
 
 
 <details>
-<summary>See all 64 labels</summary>
+<summary>See all 63 labels</summary>
 
 |   Number of Tracks | Label                                                                                                               |
 |-------------------:|:--------------------------------------------------------------------------------------------------------------------|
@@ -240,14 +240,12 @@
 |                  2 | [OFF THE RECORD Entertainment](../labels/off_the_record_entertainment.md)                                           |
 |                  2 | [Kakao Entertainment](../labels/kakao_entertainment.md)                                                             |
 |                  1 | [폴라리스엔터테인먼트](../labels/__________.md)                                                                               |
-|                  1 | [드림티 엔터테인먼트](../labels/__________.md)                                                                               |
 |                  1 | [드림캐쳐컴퍼니](../labels/_______.md)                                                                                     |
 |                  1 | [내가네트워크](../labels/______.md)                                                                                       |
 |                  1 | [㈜RBW](../labels/_rbw.md)                                                                                           |
 |                  1 | [㈜ 드림캐쳐 컴퍼니](../labels/__________.md)                                                                               |
 |                  1 | [YUEHUA ENTERTAINMENT KOREA](../labels/yuehua_entertainment_korea.md)                                               |
 |                  1 | [Universal Music Group International](../labels/universal_music_group_international.md)                             |
-|                  1 | [Sony Music Labels Inc.](../labels/sony_music_labels_inc_.md)                                                       |
 |                  1 | [RADCOMM](../labels/radcomm.md)                                                                                     |
 |                  1 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)                                                           |
 |                  1 | [PLAY M ENTERTAINMENT CORP.](../labels/play_m_entertainment_corp_.md)                                               |
@@ -258,6 +256,7 @@
 |                  1 | [IOK COMPANY](../labels/iok_company.md)                                                                             |
 |                  1 | [HAPPYTRIBE ENTERTAINMENT](../labels/happytribe_entertainment.md)                                                   |
 |                  1 | [Genie Music Corporation;Stone Music Entertainment](../labels/genie_music_corporation_stone_music_entertainment.md) |
+|                  1 | [GU Music](../labels/gu_music.md)                                                                                   |
 |                  1 | [FNC W](../labels/fnc_w.md)                                                                                         |
 |                  1 | [DUBLEKICK COMPANY](../labels/dublekick_company.md)                                                                 |
 |                  1 | [Columbia](../labels/columbia.md)                                                                                   |
@@ -321,8 +320,8 @@
 | Hurt                      | 달라달라 (DALLA DALLA)         |
 | Jazz Bar                  | LA DI DA                   |
 | ZOOM                      | DALLA DALLA - English Ver. |
-| Wind flower               | RUN2U                      |
-| Starry Night              | Adios                      |
+| Starry Night              | RUN2U                      |
+| Wind flower               | Adios                      |
 | Moonlight Melody          | Red Light                  |
 | The Happiest Girl         | Poison                     |
 
@@ -347,16 +346,16 @@
 | I Like That           | Red Light                     |
 | Vibrato               | BLACK DRESS                   |
 | 행복 (Happiness)        | DARK (X-file)                 |
-| Genie                 | Ice Cream (with Selena Gomez) |
-| LP                    | YEPPI YEPPI                   |
+| LP                    | Ice Cream (with Selena Gomez) |
+| Genie                 | YEPPI YEPPI                   |
 | STEREOTYPE            | SNEAKERS (English Ver.)       |
 | 5th Season (SSFWL)    | SNEAKERS                      |
 
 | 10 most Happy tracks    | 10 least Happy tracks     |
 |:------------------------|:--------------------------|
 | Pepe                    | 4 Walls                   |
-| Miniskirt               | MORE                      |
-| So Hot                  | POSE                      |
+| So Hot                  | MORE                      |
+| Miniskirt               | POSE                      |
 | Twinkle                 | LION                      |
 | Give it to me           | Ditto                     |
 | Lion Heart              | Hope Not                  |

@@ -1,6 +1,6 @@
 # dance pop
 
-[241 songs](dance_pop_tracks.md)
+[239 songs](dance_pop_tracks.md)
 
 ## Top Artists
 
@@ -16,7 +16,7 @@
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------|:------------------------------------------------------------|
 |                 25 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../artists/ariana_grande.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 |                 15 | <img src="https://i.scdn.co/image/ab6761610000e5eb676338904deb80cffb568216" alt="" width="50" /> | [Beyoncé](../artists/beyonc_.md)             | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
-|                 14 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../artists/lady_gaga.md)         | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
+|                 13 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../artists/lady_gaga.md)         | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
 |                 11 | <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | [Dua Lipa](../artists/dua_lipa.md)           | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 |                 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | [Rihanna](../artists/rihanna.md)             | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 |                 11 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../artists/bruno_mars.md)       | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
@@ -29,7 +29,6 @@
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb654972693e0efed3f3f4d090" alt="" width="50" /> | Jason Derulo                                 | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410" alt="" width="50" /> | Clean Bandit                                 | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebabfac786f093c4da55c99d4e" alt="" width="50" /> | Bebe Rexha                                   | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
-|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb576cb43281160e345f728b71" alt="" width="50" /> | Charli XCX                                   | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | Nicki Minaj                                  | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb0db36498679f03f30606d45f" alt="" width="50" /> | Ellie Goulding                               | [🔗](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb46e7a06fa6dfefaed6a3f0db" alt="" width="50" /> | Shawn Mendes                                 | [🔗](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) |
@@ -47,6 +46,7 @@
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8c2332e6c0ed96d144a91b3f" alt="" width="50" /> | Cardi B                                      | [🔗](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson                                  | [🔗](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | Jessie J                                     | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
+|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb576cb43281160e345f728b71" alt="" width="50" /> | Charli XCX                                   | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8b74c36ba6c31fc0f58783c" alt="" width="50" /> | George Michael                               | [🔗](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | Iggy Azalea                                  | [🔗](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | B.o.B                                        | [🔗](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) |
@@ -57,9 +57,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | JAY-Z                                        | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb60c3e9abe7327c0097738f22" alt="" width="50" /> | Sean Paul                                    | [🔗](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb118cd1f3261f08d957105996" alt="" width="50" /> | Kelly Clarkson                               | [🔗](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb9df0f924a5e609c8da143cd5" alt="" width="50" /> | A. G. Cook                                   | [🔗](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb65c99d6d784dc2cabd2a5492" alt="" width="50" /> | Mandy Moore                                  | [🔗](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd6442ba68c144b0c84b207a4" alt="" width="50" /> | Rina Sawayama                                | [🔗](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | Justin Bieber                                | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5acb3cb0a8b87d3952738b97" alt="" width="50" /> | Fifth Harmony                                | [🔗](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb20e1b84fe2767e52c4c828fd" alt="" width="50" /> | 2NE1                                         | [🔗](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) |
@@ -114,6 +112,8 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb08cd53940cbf5813ee5fe565" alt="" width="50" /> | Little Mix                                   | [🔗](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebaa2d9bd207a62adc3edf6631" alt="" width="50" /> | Florida Georgia Line                         | [🔗](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb49637fe719fddb8e90896f41" alt="" width="50" /> | Jhorrmountain                                | [🔗](https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o) |
+|                  1 | <img src="nan" alt="" width="50" />                                                              | Zachary Levi                                 | [🔗](https://open.spotify.com/artist/3XSyTI9ct70ZheMESAv2st) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb002eedc44fefe085daae10e4" alt="" width="50" /> | Troye Sivan                                  | [🔗](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) |
 
 </details>
 
@@ -165,7 +165,6 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27354c6edd554935d73e159e199" alt="" width="50" /> | Circus (Deluxe Version)                                                                             | [🔗](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | Chromatica                                                                                          | [🔗](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273efc2fc4cdaeb04524eb10c15" alt="" width="50" /> | Celebration (Bonus Track Version)                                                                   | [🔗](https://open.spotify.com/album/4GU7z3q6fg90MWrkTacYYG) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="" width="50" /> | CRASH                                                                                               | [🔗](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273026e88f624dfb96f2e1ef10b" alt="" width="50" /> | B'Day Deluxe Edition                                                                                | [🔗](https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342" alt="" width="50" /> | A Star Is Born Soundtrack                                                                           | [🔗](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27326a2f5224465a369f8abbf88" alt="" width="50" /> | lovestrong.                                                                                         | [🔗](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) |
@@ -227,6 +226,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27329c1c454ed1b2acfa64dc37f" alt="" width="50" /> | Listen Without Prejudice / MTV Unplugged (Deluxe)                                                   | [🔗](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736b18e58a06aac7763abe319a" alt="" width="50" /> | Like a Virgin (Reissue)                                                                             | [🔗](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="" width="50" /> | Let The Road                                                                                        | [🔗](https://open.spotify.com/album/02ae5i5UAoFrt2peVox9Xd) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736f9e6abbd6fa43ac3cdbeee0" alt="" width="50" /> | Leave The Door Open                                                                                 | [🔗](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) |
 
 </details>
 
@@ -244,12 +244,12 @@
 |                 27 | [RCA Records Label](../labels/rca_records_label.md)                                                                         |
 |                 22 | [Warner Records](../labels/warner_records.md)                                                                               |
 |                 19 | [Columbia](../labels/columbia.md)                                                                                           |
-|                 18 | [Atlantic Records](../labels/atlantic_records.md)                                                                           |
+|                 17 | [Atlantic Records](../labels/atlantic_records.md)                                                                           |
 |                 15 | [Jive](../labels/jive.md)                                                                                                   |
 |                 13 | [Universal Music LLC](../labels/universal_music_llc.md)                                                                     |
 |                 13 | [Republic Records](../labels/republic_records.md)                                                                           |
 |                 13 | [Epic](../labels/epic.md)                                                                                                   |
-|                 12 | [Interscope](../labels/interscope.md)                                                                                       |
+|                 11 | [Interscope](../labels/interscope.md)                                                                                       |
 |                 10 | [Syco Music](../labels/syco_music.md)                                                                                       |
 |                  9 | [Def Jam Recordings](../labels/def_jam_recordings.md)                                                                       |
 |                  9 | [Capitol Records](../labels/capitol_records.md)                                                                             |
@@ -337,18 +337,18 @@
 | Faith - Remastered               | La Vie En Rose                                        |
 | Worth It (feat. Kid Ink)         | Already Gone                                          |
 
-| 10 most Energetic tracks          | 10 least Energetic tracks                             |
-|:----------------------------------|:------------------------------------------------------|
-| Larger Than Life                  | Monster (Shawn Mendes & Justin Bieber)                |
-| Boss Bitch                        | Jar of Hearts                                         |
-| Beg For You (feat. Rina Sawayama) | 7 rings                                               |
-| My Happy Ending                   | Stay                                                  |
-| This Is What You Came For         | Consequences                                          |
-| Bye Bye Bye                       | When I Was Your Man                                   |
-| Bad Romance                       | I Thought She Knew                                    |
-| Believe                           | My Everything                                         |
-| Levitating                        | Your Song                                             |
-| Material Girl                     | I See the Light - From "Tangled" / Soundtrack Version |
+| 10 most Energetic tracks   | 10 least Energetic tracks                             |
+|:---------------------------|:------------------------------------------------------|
+| Larger Than Life           | Monster (Shawn Mendes & Justin Bieber)                |
+| Boss Bitch                 | Jar of Hearts                                         |
+| My Happy Ending            | 7 rings                                               |
+| This Is What You Came For  | Stay                                                  |
+| Bye Bye Bye                | Consequences                                          |
+| Bad Romance                | When I Was Your Man                                   |
+| Believe                    | I Thought She Knew                                    |
+| Levitating                 | My Everything                                         |
+| Material Girl              | Your Song                                             |
+| Don't Call Me Up           | I See the Light - From "Tangled" / Soundtrack Version |
 
 | 10 most Speechy tracks          | 10 least Speechy tracks             |
 |:--------------------------------|:------------------------------------|
@@ -365,7 +365,7 @@
 
 | 10 most Acoustic tracks                               | 10 least Acoustic tracks                                                 |
 |:------------------------------------------------------|:-------------------------------------------------------------------------|
-| Stay                                                  | Bad Romance                                                              |
+| Stay                                                  | Dark Horse                                                               |
 | Your Song                                             | Watch n' Learn                                                           |
 | When I Was Your Man                                   | New Rules                                                                |
 | I Thought She Knew                                    | Valerie (feat. Amy Winehouse) - Version Revisited                        |

@@ -289,13 +289,12 @@
 
 
 <details>
-<summary>See all 35 genres</summary>
+<summary>See all 34 genres</summary>
 
 |   Number of Tracks | Genre                                                 |
 |-------------------:|:------------------------------------------------------|
-|                198 | [a cappella](../genres/a_cappella.md)                 |
+|                197 | [a cappella](../genres/a_cappella.md)                 |
 |                119 | [college a cappella](../genres/college_a_cappella.md) |
-|                 32 | [viral pop](../genres/viral_pop.md)                   |
 |                 32 | fantasy                                               |
 |                 11 | french jazz                                           |
 |                  8 | lds youth                                             |

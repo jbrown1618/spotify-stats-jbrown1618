@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2738cab1c75d2271af37c3e2db9ab67616d0000b273d3f431dc2bee60eac129a8baab67616d0000b273e9cd59d664f597061a513038ab67616d0000b273ed10325dc317f32df83990b9" alt="Recent Releases" width="100" />
 
-[51 songs](recent_releases_tracks.md)
+[53 songs](recent_releases_tracks.md)
 
 ## Top Artists
 
@@ -17,7 +17,7 @@
 
 |   Number of Tracks | Art                                                                                              | Artist                                 | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:------------------------------------------------------------|
-|                  8 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
+|                 10 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)   | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)       | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
@@ -52,8 +52,8 @@
 |   Number of Tracks | Art                                                                                              | Album                                  | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:-----------------------------------------------------------|
 |                  7 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | BORN PINK                              | [🔗](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) |
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | SKZ-REPLAY                             | [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273d2ef237da7f94762997c2083" alt="" width="50" /> | ‘The ReVe Festival 2022 - Birthday’    | [🔗](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | SKZ-REPLAY                             | [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | I love                                 | [🔗](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | MAXIDENT                               | [🔗](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" alt="" width="50" /> | MANIFESTO : DAY 1                      | [🔗](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) |
@@ -88,8 +88,8 @@
 
 |   Number of Tracks | Label                                                         |
 |-------------------:|:--------------------------------------------------------------|
+|                 11 | [Republic Records](../labels/republic_records.md)             |
 |                 10 | [SM Entertainment](../labels/sm_entertainment.md)             |
-|                  9 | [Republic Records](../labels/republic_records.md)             |
 |                  8 | [YG Entertainment](../labels/yg_entertainment.md)             |
 |                  7 | [Interscope](../labels/interscope.md)                         |
 |                  5 | [Warner Records](../labels/warner_records.md)                 |
@@ -118,9 +118,9 @@
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
-|                 35 | [k-pop](../genres/k_pop.md)                       |
+|                 37 | [k-pop](../genres/k_pop.md)                       |
 |                 25 | [k-pop girl group](../genres/k_pop_girl_group.md) |
-|                 13 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
+|                 15 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
 |                  4 | anime                                             |
 
 </details>
@@ -130,29 +130,29 @@
 
 | 10 most Danceable tracks   | 10 least Danceable tracks   |
 |:---------------------------|:----------------------------|
-| Typa Girl                  | No Celestial                |
-| ANTIFRAGILE                | Hug Me (I.N)                |
-| 1,2,3 Eoi!                 | Crown                       |
-| LOVE                       | 2 Baddies                   |
-| Maknae On Top (I.N)        | Hype Boy                    |
-| Shut Down                  | Come Alive                  |
-| On A Ride                  | Cruel                       |
-| Ditto                      | Girls                       |
-| CASE 143                   | Dead Man Runnin’            |
-| Attention                  | Blow                        |
+| Typa Girl                  | Hug Me (I.N)                |
+| ANTIFRAGILE                | Crown                       |
+| 1,2,3 Eoi!                 | 2 Baddies                   |
+| LOVE                       | Hype Boy                    |
+| Maknae On Top (I.N)        | Come Alive                  |
+| Shut Down                  | Cruel                       |
+| On A Ride                  | Girls                       |
+| Ditto                      | Dead Man Runnin’            |
+| CASE 143                   | Blow                        |
+| Attention                  | i hate to admit (Bang Chan) |
 
 | 10 most Energetic tracks              | 10 least Energetic tracks   |
 |:--------------------------------------|:----------------------------|
-| Girls                                 | Sculpture                   |
-| One In A Billion                      | Hug Me (I.N)                |
-| RING ma Bell (what a wonderful world) | Typa Girl                   |
-| Hype Boy                              | Maknae On Top (I.N)         |
-| After LIKE                            | Blow                        |
-| 2 Baddies                             | Yeah Yeah Yeah              |
-| Nxde                                  | Crown                       |
-| Future Perfect (Pass the MIC)         | HELLO                       |
-| Forgive Me                            | Cruel                       |
-| CASE 143                              | The Happiest Girl           |
+| Girls                                 | Typa Girl                   |
+| One In A Billion                      | Maknae On Top (I.N)         |
+| RING ma Bell (what a wonderful world) | Blow                        |
+| Hype Boy                              | Yeah Yeah Yeah              |
+| After LIKE                            | Crown                       |
+| 2 Baddies                             | HELLO                       |
+| Nxde                                  | Cruel                       |
+| Future Perfect (Pass the MIC)         | The Happiest Girl           |
+| Forgive Me                            | miss you (Hyunjin)          |
+| CASE 143                              | i hate to admit (Bang Chan) |
 
 | 10 most Speechy tracks            | 10 least Speechy tracks        |
 |:----------------------------------|:-------------------------------|
@@ -167,18 +167,18 @@
 | 1,2,3 Eoi!                        | Tally                          |
 | Pink Venom                        | Cruel                          |
 
-| 10 most Acoustic tracks   | 10 least Acoustic tracks              |
-|:--------------------------|:--------------------------------------|
-| ZOOM                      | RING ma Bell (what a wonderful world) |
-| The Happiest Girl         | Pink Venom                            |
-| Crown                     | No Celestial                          |
-| Hug Me (I.N)              | Tally                                 |
-| Cheshire                  | Hard to Love                          |
-| BYE BYE                   | Yeah Yeah Yeah                        |
-| Maknae On Top (I.N)       | Blow                                  |
-| Hype Boy                  | Shut Down                             |
-| Attention                 | Come Alive                            |
-| Impurities                | Cruel                                 |
+| 10 most Acoustic tracks     | 10 least Acoustic tracks              |
+|:----------------------------|:--------------------------------------|
+| miss you (Hyunjin)          | RING ma Bell (what a wonderful world) |
+| i hate to admit (Bang Chan) | Pink Venom                            |
+| ZOOM                        | No Celestial                          |
+| The Happiest Girl           | Tally                                 |
+| Crown                       | Hard to Love                          |
+| Hug Me (I.N)                | Yeah Yeah Yeah                        |
+| Cheshire                    | Blow                                  |
+| BYE BYE                     | Shut Down                             |
+| Maknae On Top (I.N)         | Come Alive                            |
+| Hype Boy                    | Cruel                                 |
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
@@ -190,7 +190,7 @@
 | Maknae On Top (I.N)           | Ditto                          |
 | Come Alive                    | Beautiful Christmas            |
 | Illusion                      | TFW (That Feeling When)        |
-| 1,2,3 Eoi!                    | Sculpture                      |
+| 1,2,3 Eoi!                    | ParadoXXX Invasion             |
 | Nxde                          | Shut Down                      |
 
 | 10 most Live tracks            | 10 least Live tracks                                |
@@ -208,13 +208,13 @@
 
 | 10 most Happy tracks                                | 10 least Happy tracks   |
 |:----------------------------------------------------|:------------------------|
-| Up All Night (Bang Chan, Changbin, Felix, Seungmin) | 28 Reasons              |
-| TFW (That Feeling When)                             | Impurities              |
-| Maknae On Top (I.N)                                 | One In A Billion        |
-| Give Me Your TMI                                    | Tally                   |
-| ANTIFRAGILE                                         | LOVE                    |
-| ZOOM                                                | Crown                   |
+| Up All Night (Bang Chan, Changbin, Felix, Seungmin) | Impurities              |
+| TFW (That Feeling When)                             | One In A Billion        |
+| Maknae On Top (I.N)                                 | Tally                   |
+| Give Me Your TMI                                    | LOVE                    |
+| ANTIFRAGILE                                         | Crown                   |
 | Blow                                                | Change                  |
+| ZOOM                                                | miss you (Hyunjin)      |
 | 1,2,3 Eoi!                                          | Dead Man Runnin’        |
-| Hug Me (I.N)                                        | Sculpture               |
-| Scent of you                                        | Ditto                   |
+| Snowy                                               | Sculpture               |
+| Hug Me (I.N)                                        | Ditto                   |

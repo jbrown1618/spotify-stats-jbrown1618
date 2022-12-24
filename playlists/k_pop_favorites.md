@@ -258,7 +258,6 @@
 |                  2 | [KQ Entertainment](../labels/kq_entertainment.md)                                       |
 |                  2 | [Fave Entertainment](../labels/fave_entertainment.md)                                   |
 |                  2 | [88rising Music](../labels/88rising_music.md)                                           |
-|                  1 | [드림티 엔터테인먼트](../labels/__________.md)                                                   |
 |                  1 | [드림캐쳐컴퍼니](../labels/_______.md)                                                         |
 |                  1 | [더라이브레이블](../labels/_______.md)                                                         |
 |                  1 | [YUEHUA ENTERTAINMENT KOREA](../labels/yuehua_entertainment_korea.md)                   |
@@ -275,6 +274,7 @@
 |                  1 | [MYSTIC ENTERTAINMENT](../labels/mystic_entertainment.md)                               |
 |                  1 | [Imperial Distribution](../labels/imperial_distribution.md)                             |
 |                  1 | [Hwa&Dam pictures](../labels/hwa_dam_pictures.md)                                       |
+|                  1 | [GU Music](../labels/gu_music.md)                                                       |
 |                  1 | [FNC ENTERTAINMENT](../labels/fnc_entertainment.md)                                     |
 |                  1 | [DREAMCATCHER COMPANY](../labels/dreamcatcher_company.md)                               |
 |                  1 | [Cre.ker Entertainment](../labels/cre_ker_entertainment.md)                             |

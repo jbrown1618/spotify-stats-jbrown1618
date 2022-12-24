@@ -1,6 +1,6 @@
 # k-pop
 
-[808 songs](k_pop_tracks.md)
+[807 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -28,9 +28,9 @@
 |                 15 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | [CHUNG HA](../artists/chung_ha.md)                   | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
 |                 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | [Girls' Generation](../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 |                 13 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="" width="50" /> | [Dreamcatcher](../artists/dreamcatcher.md)           | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
-|                 12 | <img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="" width="50" /> | [EXO](../artists/exo.md)                             | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
 |                 12 | <img src="https://i.scdn.co/image/ab6761610000e5eb45b2ff69ae6a3caccb776cfa" alt="" width="50" /> | [STAYC](../artists/stayc.md)                         | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 |                 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb7401998434b12fffd119ae18" alt="" width="50" /> | [NCT 127](../artists/nct_127.md)                     | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
+|                 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="" width="50" /> | [EXO](../artists/exo.md)                             | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5ebadffb99dc62d070da29306ff" alt="" width="50" /> | JEON SOYEON                                          | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e2e0f17d257a40be0782f35" alt="" width="50" /> | BAEKHYUN                                             | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb968ab271c895fb9cc245d6fe" alt="" width="50" /> | Billlie                                              | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
@@ -204,7 +204,6 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c76a0146e4c1804f22cab995" alt="" width="50" /> | WE NEED LOVE                                        | [🔗](https://open.spotify.com/album/04EniWu488MF6louRYafKJ) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2738164cd1a2e03b7ca2db9ff5e" alt="" width="50" /> | The Red Summer - Summer Mini Album                  | [🔗](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="" width="50" /> | The Most Beautiful Moment in Life: Young Forever    | [🔗](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2732795c34a8931367a0916de54" alt="" width="50" /> | The 1st Album 'XOXO' (Repackage)                    | [🔗](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27349ae714ee0bf50ca0838ed0f" alt="" width="50" /> | THE WORLD EP.1 : MOVEMENT                           | [🔗](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273b787b5b8c27a5dbd360c0f59" alt="" width="50" /> | THE WAR - The 4th Album                             | [🔗](https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734bb3b49ff157d01ab9896573" alt="" width="50" /> | THE FIRST STEP : TREASURE EFFECT                    | [🔗](https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL) |
@@ -227,6 +226,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a6ea41f7103f07588c18bbdb" alt="" width="50" /> | Pink Funky                                          | [🔗](https://open.spotify.com/album/5Fy5PyBWqMNK7xvXO9Q32f) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27348a03c11c71a265006e1b9e3" alt="" width="50" /> | One-reeler / Act IV                                 | [🔗](https://open.spotify.com/album/3gfl9D7cMW3K87YiMbqsWK) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a55f6bf87219ecb5505e72e4" alt="" width="50" /> | ONLY LOVERS LEFT                                    | [🔗](https://open.spotify.com/album/1u9nYBB0Qw5jyjkexe9Xk6) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273ea82cfc115275d25d9750ae1" alt="" width="50" /> | No.1                                                | [🔗](https://open.spotify.com/album/6xSUUpa9LBZYwJFMJOr8M6) |
 
 </details>
 
@@ -241,7 +241,7 @@
 
 |   Number of Tracks | Label                                                                                                               |
 |-------------------:|:--------------------------------------------------------------------------------------------------------------------|
-|                198 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
+|                197 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
 |                 91 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 60 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
 |                 44 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                                                 |
@@ -305,7 +305,6 @@
 |                  1 | [에이스토리](../labels/_____.md)                                                                                         |
 |                  1 | [브레이브 엔터테인먼트](../labels/___________.md)                                                                             |
 |                  1 | [모스트콘텐츠](../labels/______.md)                                                                                       |
-|                  1 | [드림티 엔터테인먼트](../labels/__________.md)                                                                               |
 |                  1 | [드림캐쳐컴퍼니](../labels/_______.md)                                                                                     |
 |                  1 | [더라이브레이블](../labels/_______.md)                                                                                     |
 |                  1 | [내가네트워크](../labels/______.md)                                                                                       |
@@ -332,6 +331,7 @@
 |                  1 | [JS MUSIC](../labels/js_music.md)                                                                                   |
 |                  1 | [IST ENTERTAINMENT](../labels/ist_entertainment.md)                                                                 |
 |                  1 | [HAPPYTRIBE ENTERTAINMENT](../labels/happytribe_entertainment.md)                                                   |
+|                  1 | [GU Music](../labels/gu_music.md)                                                                                   |
 |                  1 | [FeelGhoodMusic](../labels/feelghoodmusic.md)                                                                       |
 |                  1 | [Feel Ghood Music](../labels/feel_ghood_music.md)                                                                   |
 |                  1 | [Fantagio](../labels/fantagio.md)                                                                                   |
@@ -363,8 +363,8 @@
 | 10 most Energetic tracks   | 10 least Energetic tracks                            |
 |:---------------------------|:-----------------------------------------------------|
 | RING X RING                | 그대라는 시                                               |
-| Hit That Drum              | Flower Way (Prod. By ZICO)                           |
-| Misfit                     | Singularity                                          |
+| Misfit                     | Flower Way (Prod. By ZICO)                           |
+| Hit That Drum              | Singularity                                          |
 | MIROH                      | Boy in time - HUI Solo                               |
 | Side Effects               | BREATHE                                              |
 | 소방차 Fire Truck             | How can I love the heartbreak, you're the one I love |
@@ -378,13 +378,13 @@
 | Addicted                      | LOVE FOOL                                  |
 | MANIAC                        | YOUNG LUV                                  |
 | Freedom                       | NANANA                                     |
-| I GOT IT (HAN)                | Hope Not                                   |
-| Ice Cream (with Selena Gomez) | Gee                                        |
-| Feelin' Like                  | Wicked                                     |
-| DOODLE (Changbin)             | Winter Sleep                               |
+| Ice Cream (with Selena Gomez) | Hope Not                                   |
+| I GOT IT (HAN)                | Gee                                        |
+| Feelin' Like                  | Winter Sleep                               |
+| DOODLE (Changbin)             | Wicked                                     |
 | Signal                        | Moonlight Melody                           |
-| BBIBBI                        | She's In The Rain                          |
-| You Better Run                | Slightly Tipsy (She is My Type♡ X SANDEUL) |
+| BBIBBI                        | Slightly Tipsy (She is My Type♡ X SANDEUL) |
+| You Better Run                | She's In The Rain                          |
 
 | 10 most Acoustic tracks                              | 10 least Acoustic tracks   |
 |:-----------------------------------------------------|:---------------------------|
@@ -410,7 +410,7 @@
 | I Am The Best                    | ZOO                                           |
 | Power Up                         | Love Theory                                   |
 | BBoom BBoom                      | Wow Thing                                     |
-| In My Dreams                     | Um Oh Ah Yeh                                  |
+| In My Dreams                     | AHH OOP!                                      |
 
 | 10 most Live tracks            | 10 least Live tracks                  |
 |:-------------------------------|:--------------------------------------|

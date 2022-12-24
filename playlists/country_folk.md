@@ -95,11 +95,11 @@
 
 ## Genres
 
-![Bar chart of top 22 genres](../images/playlists/country_folk/genres.png)
+![Bar chart of top 21 genres](../images/playlists/country_folk/genres.png)
 
 
 <details>
-<summary>See all 22 genres</summary>
+<summary>See all 21 genres</summary>
 
 |   Number of Tracks | Genre                                     |
 |-------------------:|:------------------------------------------|
@@ -112,7 +112,6 @@
 |                  6 | mandolin                                  |
 |                  6 | instrumental bluegrass                    |
 |                  6 | bluegrass                                 |
-|                  5 | [pop](../genres/pop.md)                   |
 |                  5 | oklahoma country                          |
 |                  5 | folk-pop                                  |
 |                  4 | uk americana                              |

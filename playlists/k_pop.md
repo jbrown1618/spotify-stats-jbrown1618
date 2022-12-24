@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273f7da7c0f322b7a1c95190d92" alt="K-Pop" width="100" />
 
-[914 songs](k_pop_tracks.md)
+[917 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -18,7 +18,7 @@
 |   Number of Tracks | Art                                                                                              | Artist                                               | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------|:------------------------------------------------------------|
 |                 57 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)               | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
-|                 37 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md)               | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
+|                 39 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md)               | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 |                 34 | <img src="https://i.scdn.co/image/ab6761610000e5ebd84fd6ae9ccfc6206ea6711e" alt="" width="50" /> | [TWICE](../artists/twice.md)                         | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 |                 32 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../artists/itzy.md)                           | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                 30 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)                 | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
@@ -131,9 +131,9 @@
 
 |   Number of Tracks | Art                                                                                              | Album                                               | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------------|:-----------------------------------------------------------|
+|                  9 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | SKZ-REPLAY                                          | [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) |
 |                  8 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | BORN PINK                                           | [🔗](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) |
 |                  7 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | THE ALBUM                                           | [🔗](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) |
-|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | SKZ-REPLAY                                          | [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) |
 |                  7 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | I NEVER DIE                                         | [🔗](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) |
 |                  7 | <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | Formula of Love: O+T=<3                             | [🔗](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) |
 |                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="" width="50" /> | Perfect Velvet - The 2nd Album                      | [🔗](https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH) |
@@ -246,14 +246,14 @@
 |   Number of Tracks | Label                                                                                                               |
 |-------------------:|:--------------------------------------------------------------------------------------------------------------------|
 |                201 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
-|                 95 | [Republic Records](../labels/republic_records.md)                                                                   |
+|                 97 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 61 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
 |                 50 | [Genie Music Corporation](../labels/genie_music_corporation.md)                                                     |
 |                 46 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                                                 |
 |                 36 | [BIGHIT MUSIC](../labels/bighit_music.md)                                                                           |
 |                 32 | [Interscope](../labels/interscope.md)                                                                               |
 |                 32 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                                                               |
-|                 28 | [Universal Music LLC](../labels/universal_music_llc.md)                                                             |
+|                 29 | [Universal Music LLC](../labels/universal_music_llc.md)                                                             |
 |                 28 | [RBW Inc.](../labels/rbw_inc_.md)                                                                                   |
 |                 26 | [JYP Entertainment](../labels/jyp_entertainment.md)                                                                 |
 |                 20 | [BELIFT LAB](../labels/belift_lab.md)                                                                               |
@@ -326,7 +326,6 @@
 |                  1 | [모스트콘텐츠](../labels/______.md)                                                                                       |
 |                  1 | [딩고뮤직](../labels/____.md)                                                                                           |
 |                  1 | [디컴퍼니](../labels/____.md)                                                                                           |
-|                  1 | [드림티 엔터테인먼트](../labels/__________.md)                                                                               |
 |                  1 | [드림캐쳐컴퍼니](../labels/_______.md)                                                                                     |
 |                  1 | [더라이브레이블](../labels/_______.md)                                                                                     |
 |                  1 | [내가네트워크](../labels/______.md)                                                                                       |
@@ -345,6 +344,7 @@
 |                  1 | [UME - Global Clearing House](../labels/ume___global_clearing_house.md)                                             |
 |                  1 | [Think Ent.](../labels/think_ent_.md)                                                                               |
 |                  1 | [TOON STUDIO](../labels/toon_studio.md)                                                                             |
+|                  1 | [Starship Ent.](../labels/starship_ent_.md)                                                                         |
 
 </details>
 
@@ -359,9 +359,9 @@
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
-|                764 | [k-pop](../genres/k_pop.md)                       |
+|                767 | [k-pop](../genres/k_pop.md)                       |
 |                361 | [k-pop girl group](../genres/k_pop_girl_group.md) |
-|                214 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
+|                216 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
 |                 52 | [pop](../genres/pop.md)                           |
 |                 27 | korean pop                                        |
 |                 23 | korean r&b                                        |
@@ -373,13 +373,13 @@
 |                  6 | korean old school hip hop                         |
 |                  6 | classic k-pop                                     |
 |                  4 | korean mask singer                                |
+|                  3 | k-indie                                           |
 |                  2 | uk pop                                            |
 |                  2 | [post-teen pop](../genres/post_teen_pop.md)       |
-|                  2 | k-indie                                           |
 |                  2 | j-division                                        |
 |                  2 | edm                                               |
 |                  2 | chinese idol pop                                  |
-|                  1 | [viral pop](../genres/viral_pop.md)               |
+|                  1 | viral pop                                         |
 |                  1 | pop rap                                           |
 |                  1 | pop dance                                         |
 |                  1 | korean indie rock                                 |
@@ -405,31 +405,31 @@
 | SNEAKERS                   | Clockwork                   |
 | Idle song                  | Epilogue                    |
 | Jelly                      | Like Water                  |
-| Weather                    | Fine                        |
-| Typa Girl                  | My sea                      |
+| Typa Girl                  | Fine                        |
+| Weather                    | My sea                      |
 | BOOM                       | On The Ground               |
-| Tippy Toes                 | Sweet                       |
-| Mr. Simple                 | U                           |
+| Mr. Simple                 | Sweet                       |
+| Tippy Toes                 | U                           |
 
 | 10 most Energetic tracks   | 10 least Energetic tracks                            |
 |:---------------------------|:-----------------------------------------------------|
-| RING X RING                | ONLY                                                 |
-| Hit That Drum              | 그대라는 시                                               |
-| Misfit                     | Flower Way (Prod. By ZICO)                           |
-| MIROH                      | Rain and You                                         |
-| Side Effects               | Singularity                                          |
-| 소방차 Fire Truck             | Boy in time - HUI Solo                               |
-| Chase Me                   | BREATHE                                              |
-| Girls                      | How can I love the heartbreak, you're the one I love |
-| Abracadabra                | Stardust love song                                   |
-| 쏘리 쏘리 Sorry, Sorry         | Winter Sleep                                         |
+| RING X RING                | Flower Way (Prod. By ZICO)                           |
+| Misfit                     | Rain and You                                         |
+| Hit That Drum              | Singularity                                          |
+| MIROH                      | Boy in time - HUI Solo                               |
+| Side Effects               | BREATHE                                              |
+| 소방차 Fire Truck             | How can I love the heartbreak, you're the one I love |
+| Chase Me                   | Stardust love song                                   |
+| Girls                      | Winter Sleep                                         |
+| Abracadabra                | miss you (Hyunjin)                                   |
+| 쏘리 쏘리 Sorry, Sorry         | i hate to admit (Bang Chan)                          |
 
 | 10 most Speechy tracks        | 10 least Speechy tracks                    |
 |:------------------------------|:-------------------------------------------|
 | I Don't Need You              | Gee                                        |
 | Addicted                      | Hope Not                                   |
-| MANIAC                        | Winter Sleep                               |
-| Freedom                       | Wicked                                     |
+| MANIAC                        | Wicked                                     |
+| Freedom                       | Winter Sleep                               |
 | Free Fall                     | Rain and You                               |
 | Ice Cream (with Selena Gomez) | Moonlight Melody                           |
 | Feelin' Like                  | Slightly Tipsy (She is My Type♡ X SANDEUL) |
@@ -468,13 +468,13 @@
 | Heart Attack                   | Up!                                   |
 | Piano Man                      | POP!                                  |
 | You Better Run                 | Ice Cream (with Selena Gomez)         |
-| MAKE U DANCE (feat. EUNHA)     | Holiday Party                         |
-| Red Lipstick (feat. Yoonmirae) | YEPPI YEPPI                           |
+| Red Lipstick (feat. Yoonmirae) | Holiday Party                         |
+| MAKE U DANCE (feat. EUNHA)     | YEPPI YEPPI                           |
 | Sticker                        | memeM                                 |
 | I Like That                    | That That (prod. & feat. SUGA of BTS) |
 | Vibrato                        | SNEAKERS                              |
 | 행복 (Happiness)                 | CASE 143                              |
-| Genie                          | PING PONG                             |
+| LP                             | PING PONG                             |
 
 | 10 most Happy tracks   | 10 least Happy tracks     |
 |:-----------------------|:--------------------------|
@@ -482,8 +482,8 @@
 | Devil                  | Stardust love song        |
 | Twenty-three           | Lucid Dream               |
 | Pepe                   | U                         |
-| So Hot                 | My sea                    |
-| Miniskirt              | Side Effects              |
+| Miniskirt              | My sea                    |
+| So Hot                 | Side Effects              |
 | 쏘리 쏘리 Sorry, Sorry     | Good Night My Princess    |
 | Twinkle                | 7월 7일 One Of These Nights |
 | Give it to me          | Grey Suit                 |
