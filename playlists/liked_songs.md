@@ -357,7 +357,7 @@
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
 |                585 | [k-pop](../genres/k_pop.md)                         |
-|                347 | [pop](../genres/pop.md)                             |
+|                362 | [pop](../genres/pop.md)                             |
 |                286 | [k-pop girl group](../genres/k_pop_girl_group.md)   |
 |                159 | [dance pop](../genres/dance_pop.md)                 |
 |                158 | [k-pop boy group](../genres/k_pop_boy_group.md)     |
@@ -370,13 +370,14 @@
 |                 44 | [hollywood](../genres/hollywood.md)                 |
 |                 42 | [mellow gold](../genres/mellow_gold.md)             |
 |                 41 | [post-teen pop](../genres/post_teen_pop.md)         |
+|                 33 | [folk rock](../genres/folk_rock.md)                 |
 |                 32 | [electropop](../genres/electropop.md)               |
 |                 31 | [soft rock](../genres/soft_rock.md)                 |
 |                 30 | [psychedelic rock](../genres/psychedelic_rock.md)   |
 |                 30 | british invasion                                    |
 |                 30 | [art pop](../genres/art_pop.md)                     |
-|                 29 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                 26 | [r&b](../genres/r_b.md)                             |
+|                 25 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                 25 | piano rock                                          |
 |                 23 | korean pop                                          |
 |                 23 | beatlesque                                          |
@@ -390,12 +391,11 @@
 |                 19 | [adult standards](../genres/adult_standards.md)     |
 |                 18 | permanent wave                                      |
 |                 18 | hard rock                                           |
-|                 18 | folk rock                                           |
 |                 18 | art rock                                            |
 |                 18 | [a cappella](../genres/a_cappella.md)               |
+|                 16 | pop rap                                             |
 |                 15 | urban contemporary                                  |
 |                 15 | uk pop                                              |
-|                 15 | pop rap                                             |
 |                 15 | k-rap                                               |
 |                 14 | uk alternative pop                                  |
 |                 14 | neo soul                                            |
@@ -415,6 +415,7 @@
 |                 10 | alternative rock                                    |
 |                  9 | oxford indie                                        |
 |                  9 | lounge                                              |
+|                  8 | viral pop                                           |
 |                  8 | tropical house                                      |
 |                  8 | latin pop                                           |
 |                  8 | korean city pop                                     |
@@ -423,7 +424,6 @@
 |                  8 | blues rock                                          |
 |                  8 | bergen indie                                        |
 |                  8 | australian dance                                    |
-|                  7 | viral pop                                           |
 |                  7 | pop dance                                           |
 |                  7 | kawaii metal                                        |
 |                  7 | j-pop                                               |

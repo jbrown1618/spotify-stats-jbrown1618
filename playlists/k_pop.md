@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273f7da7c0f322b7a1c95190d92" alt="K-Pop" width="100" />
 
-[917 songs](k_pop_tracks.md)
+[918 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -25,8 +25,8 @@
 |                 30 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)                             | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 |                 30 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)                   | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 |                 27 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | [IU](../artists/iu.md)                               | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
+|                 23 | <img src="https://i.scdn.co/image/ab6761610000e5eb916392fe8c66d0c993657b6d" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md)                     | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 |                 22 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)                     | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
-|                 22 | <img src="https://i.scdn.co/image/ab6761610000e5eb916392fe8c66d0c993657b6d" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md)                     | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 |                 20 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../artists/mamamoo.md)                     | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
 |                 19 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../artists/leehi.md)                         | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 |                 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="" width="50" /> | [SEVENTEEN](../artists/seventeen.md)                 | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
@@ -245,7 +245,7 @@
 
 |   Number of Tracks | Label                                                                                                               |
 |-------------------:|:--------------------------------------------------------------------------------------------------------------------|
-|                201 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
+|                202 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
 |                 97 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 61 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
 |                 50 | [Genie Music Corporation](../labels/genie_music_corporation.md)                                                     |
@@ -355,14 +355,14 @@
 
 
 <details>
-<summary>See all 33 genres</summary>
+<summary>See all 32 genres</summary>
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
-|                767 | [k-pop](../genres/k_pop.md)                       |
+|                768 | [k-pop](../genres/k_pop.md)                       |
 |                361 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 |                216 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
-|                 52 | [pop](../genres/pop.md)                           |
+|                 58 | [pop](../genres/pop.md)                           |
 |                 27 | korean pop                                        |
 |                 23 | korean r&b                                        |
 |                 22 | anime                                             |
@@ -390,7 +390,6 @@
 |                  1 | [electropop](../genres/electropop.md)             |
 |                  1 | electronic trap                                   |
 |                  1 | danish pop                                        |
-|                  1 | chill r&b                                         |
 |                  1 | [art pop](../genres/art_pop.md)                   |
 
 </details>
@@ -405,17 +404,17 @@
 | SNEAKERS                   | Clockwork                   |
 | Idle song                  | Epilogue                    |
 | Jelly                      | Like Water                  |
-| Typa Girl                  | Fine                        |
-| Weather                    | My sea                      |
+| Weather                    | Fine                        |
+| Typa Girl                  | My sea                      |
 | BOOM                       | On The Ground               |
-| Mr. Simple                 | Sweet                       |
-| Tippy Toes                 | U                           |
+| Tippy Toes                 | Sweet                       |
+| Mr. Simple                 | U                           |
 
 | 10 most Energetic tracks   | 10 least Energetic tracks                            |
 |:---------------------------|:-----------------------------------------------------|
 | RING X RING                | Flower Way (Prod. By ZICO)                           |
-| Misfit                     | Rain and You                                         |
-| Hit That Drum              | Singularity                                          |
+| Hit That Drum              | Rain and You                                         |
+| Misfit                     | Singularity                                          |
 | MIROH                      | Boy in time - HUI Solo                               |
 | Side Effects               | BREATHE                                              |
 | 소방차 Fire Truck             | How can I love the heartbreak, you're the one I love |
@@ -432,8 +431,8 @@
 | Freedom                       | Winter Sleep                               |
 | Free Fall                     | Rain and You                               |
 | Ice Cream (with Selena Gomez) | Moonlight Melody                           |
-| Feelin' Like                  | Slightly Tipsy (She is My Type♡ X SANDEUL) |
-| Signal                        | She's In The Rain                          |
+| Feelin' Like                  | She's In The Rain                          |
+| Signal                        | Slightly Tipsy (She is My Type♡ X SANDEUL) |
 | BBIBBI                        | Sweet Night                                |
 | You Better Run                | With                                       |
 
@@ -441,40 +440,40 @@
 |:-----------------------------------------------------|:---------------------------|
 | 그대라는 시                                               | Drunk-Dazed                |
 | How can I love the heartbreak, you're the one I love | Adios                      |
-| ONLY                                                 | Attention, please!         |
-| Boy in time - HUI Solo                               | Red Light                  |
-| Run With Me                                          | Oh Sorry Ya                |
-| Goodbye                                              | Cyberpunk                  |
-| Amusement Park                                       | Tamed-Dashed               |
-| U                                                    | Mr. Simple                 |
-| Flower Way (Prod. By ZICO)                           | Easy                       |
-| If                                                   | Poison                     |
+| The Magic of Christmas Time                          | Attention, please!         |
+| ONLY                                                 | Red Light                  |
+| Boy in time - HUI Solo                               | Oh Sorry Ya                |
+| Run With Me                                          | Cyberpunk                  |
+| Goodbye                                              | Tamed-Dashed               |
+| Amusement Park                                       | Mr. Simple                 |
+| U                                                    | Easy                       |
+| Flower Way (Prod. By ZICO)                           | Poison                     |
 
 | 10 most Instrumental tracks      | 10 least Instrumental tracks   |
 |:---------------------------------|:-------------------------------|
-| Tippy Toes                       | BLACK DRESS                    |
-| You and I (Park Bom)             | ANTIFRAGILE                    |
-| Adios                            | Bing Bing                      |
-| pporappippam                     | Let Me In (20 CUBE)            |
-| Badster                          | Jazz Bar                       |
-| YEPPI YEPPI                      | L.I.E                          |
-| It′s Raining                     | BBIBBI                         |
-| So Hot                           | Rollin'                        |
-| GingaMingaYo (the strange world) | You can't sit with us          |
-| I Am The Best                    | 우리집 My House                   |
+| Tippy Toes                       | LOVE SCENARIO                  |
+| You and I (Park Bom)             | Stay Gold                      |
+| Adios                            | Hello                          |
+| pporappippam                     | BREATHE                        |
+| Badster                          | Black Swan                     |
+| YEPPI YEPPI                      | TFW (That Feeling When)        |
+| It′s Raining                     | The Red Shoes                  |
+| So Hot                           | DOMINO                         |
+| GingaMingaYo (the strange world) | Into The Abyss                 |
+| I Am The Best                    | Sorry                          |
 
 | 10 most Live tracks            | 10 least Live tracks                  |
 |:-------------------------------|:--------------------------------------|
 | Heart Attack                   | Up!                                   |
 | Piano Man                      | POP!                                  |
 | You Better Run                 | Ice Cream (with Selena Gomez)         |
-| Red Lipstick (feat. Yoonmirae) | Holiday Party                         |
-| MAKE U DANCE (feat. EUNHA)     | YEPPI YEPPI                           |
+| MAKE U DANCE (feat. EUNHA)     | Holiday Party                         |
+| Red Lipstick (feat. Yoonmirae) | YEPPI YEPPI                           |
 | Sticker                        | memeM                                 |
 | I Like That                    | That That (prod. & feat. SUGA of BTS) |
 | Vibrato                        | SNEAKERS                              |
 | 행복 (Happiness)                 | CASE 143                              |
-| LP                             | PING PONG                             |
+| Genie                          | PING PONG                             |
 
 | 10 most Happy tracks   | 10 least Happy tracks     |
 |:-----------------------|:--------------------------|
@@ -486,5 +485,5 @@
 | So Hot                 | Side Effects              |
 | 쏘리 쏘리 Sorry, Sorry     | Good Night My Princess    |
 | Twinkle                | 7월 7일 One Of These Nights |
-| Give it to me          | Grey Suit                 |
+| Some (feat. Lil Boi)   | Grey Suit                 |
 | Lion Heart             | The Road                  |

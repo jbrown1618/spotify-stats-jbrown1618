@@ -3,17 +3,17 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27312626c137c7684fe1662a4f3ab67616d0000b2732ced1760b648799e697e8e02ab67616d0000b273ac815bdd584468a7aa0216e1ab67616d0000b273be123bb6b40736bf093870bd" alt="Check Out Later" width="100" />
 
-[35 songs](check_out_later_tracks.md)
+[37 songs](check_out_later_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 22 artists](../images/playlists/check_out_later/artists.png)
+![Bar chart of top 24 artists](../images/playlists/check_out_later/artists.png)
 
 ![Comparison of Artist](../images/playlists/check_out_later/artists_comparison.png)
 
 
 <details>
-<summary>See all 22 artists</summary>
+<summary>See all 24 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                     | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------|:------------------------------------------------------------|
@@ -24,10 +24,12 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb576cb43281160e345f728b71" alt="" width="50" /> | Charli XCX                                 | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb65b7b48eeac1b113c75f2295" alt="" width="50" /> | YB                                         | [🔗](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) |
 |                  1 | <img src="https://i.scdn.co/image/ad5dbe5032b439728af9e711e8c0922a3aebcdbb" alt="" width="50" /> | Peter Gabriel                              | [🔗](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9426413cf033b2e0eedfeff6" alt="" width="50" /> | Girls' Generation-TTS                      | [🔗](https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2c56b558b75841a77d7ea09" alt="" width="50" /> | Nucksal                                    | [🔗](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27312626c137c7684fe1662a4f3" alt="" width="50" /> | HAEUN                                      | [🔗](https://open.spotify.com/artist/5JIuf9fLWCKGSpUDMTolAI) |
 |                  1 | <img src="nan" alt="" width="50" />                                                              | Bang Chan                                  | [🔗](https://open.spotify.com/artist/4qy7HANJDOZRObts4Z0KSV) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../artists/radiohead.md)       | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb01f3907376fc687c8caba2b4" alt="" width="50" /> | FIFTY FIFTY                                | [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1a7d0845c3b7e2f130264957" alt="" width="50" /> | The Smashing Pumpkins                      | [🔗](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb805669a8af3067839e92d762" alt="" width="50" /> | TEN                                        | [🔗](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb66337ec430a5bd3d1cfe74f5" alt="" width="50" /> | Gorillaz                                   | [🔗](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) |
@@ -45,11 +47,11 @@
 
 ## Top Albums
 
-![Bar chart of top 20 albums](../images/playlists/check_out_later/albums.png)
+![Bar chart of top 22 albums](../images/playlists/check_out_later/albums.png)
 
 
 <details>
-<summary>See all 20 albums</summary>
+<summary>See all 22 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                   | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------|:-----------------------------------------------------------|
@@ -62,6 +64,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273be123bb6b40736bf093870bd" alt="" width="50" /> | Why Be?                                                 | [🔗](https://open.spotify.com/album/4S5PRo1gVG9BvRnCcdYzdS) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="" width="50" /> | The 2nd Law                                             | [🔗](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732ced1760b648799e697e8e02" alt="" width="50" /> | Taxidriver OST Part.1                                   | [🔗](https://open.spotify.com/album/3PNXlS9tggXmCm1hrlHDcQ) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732074f657709a0cc10c3c34ab" alt="" width="50" /> | THE FIFTY                                               | [🔗](https://open.spotify.com/album/5Khk4qZMCH9iMJWBzzdbNP) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fe28f2179e0529ae0520f3bd" alt="" width="50" /> | Peter Gabriel 1: Car (Remastered Version)               | [🔗](https://open.spotify.com/album/4jd6oC0It60c1J3GpXCv6M) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="" width="50" /> | Mellon Collie And The Infinite Sadness (Deluxe Edition) | [🔗](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="" width="50" /> | In Rainbows                                             | [🔗](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) |
@@ -73,30 +76,31 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="" width="50" /> | CRASH                                                   | [🔗](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735f4269ee2c76394d8f3d1309" alt="" width="50" /> | 7G                                                      | [🔗](https://open.spotify.com/album/16NHNs15w1bpkFiBOUgDaB) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27352667a927da106f60947413a" alt="" width="50" /> | 11月的蕭邦                                                  | [🔗](https://open.spotify.com/album/6rRydp9XlVoLfTtA3qpWcn) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c492874e96f19148018e759e" alt="" width="50" /> | 'Twinkle' Mini Album                                    | [🔗](https://open.spotify.com/album/0kRgg9fqMgIrzzzYNJrYuT) |
 
 </details>
 
 
 ## Top Record Labels
 
-![Bar chart of top 18 record labels](../images/playlists/check_out_later/labels.png)
+![Bar chart of top 19 record labels](../images/playlists/check_out_later/labels.png)
 
 
 <details>
-<summary>See all 18 labels</summary>
+<summary>See all 19 labels</summary>
 
 |   Number of Tracks | Label                                                               |
 |-------------------:|:--------------------------------------------------------------------|
 |                 13 | [Republic Records](../labels/republic_records.md)                   |
 |                  3 | [Universal Music LLC](../labels/universal_music_llc.md)             |
 |                  3 | [Taylor Swift](../labels/taylor_swift.md)                           |
+|                  2 | [SM Entertainment](../labels/sm_entertainment.md)                   |
 |                  2 | [Merge Records](../labels/merge_records.md)                         |
 |                  2 | [Atlantic Records](../labels/atlantic_records.md)                   |
 |                  1 | [XL Recordings](../labels/xl_recordings.md)                         |
 |                  1 | [Warner Records](../labels/warner_records.md)                       |
 |                  1 | [Virgin Records](../labels/virgin_records.md)                       |
 |                  1 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
-|                  1 | [SM Entertainment](../labels/sm_entertainment.md)                   |
 |                  1 | [SBS Contents Hub Co.](../labels/sbs_contents_hub_co_.md)           |
 |                  1 | [Real World Productions](../labels/real_world_productions.md)       |
 |                  1 | [Parlophone UK](../labels/parlophone_uk.md)                         |
@@ -105,6 +109,7 @@
 |                  1 | [JVR](../labels/jvr.md)                                             |
 |                  1 | [GH Entertainment](../labels/gh_entertainment.md)                   |
 |                  1 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)               |
+|                  1 | [ATTRAKT](../labels/attrakt.md)                                     |
 
 </details>
 
@@ -119,14 +124,15 @@
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
-|                 18 | [k-pop](../genres/k_pop.md)                       |
+|                 19 | [k-pop](../genres/k_pop.md)                       |
 |                 13 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
+|                  5 | [pop](../genres/pop.md)                           |
 |                  4 | [rock](../genres/rock.md)                         |
-|                  4 | [pop](../genres/pop.md)                           |
 |                  4 | permanent wave                                    |
 |                  4 | alternative rock                                  |
 |                  2 | lo-fi                                             |
 |                  2 | korean indie rock                                 |
+|                  2 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 |                  2 | k-indie                                           |
 |                  2 | indie rock                                        |
 |                  2 | indie pop                                         |
@@ -157,7 +163,6 @@
 |                  1 | [mellow gold](../genres/mellow_gold.md)           |
 |                  1 | melancholia                                       |
 |                  1 | mandopop                                          |
-|                  1 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 |                  1 | hyperpop                                          |
 |                  1 | house                                             |
 |                  1 | grunge                                            |
@@ -183,28 +188,28 @@
 | 10 most Danceable tracks   | 10 least Danceable tracks                     |
 |:---------------------------|:----------------------------------------------|
 | RUN (HAN)                  | SILENCE                                       |
-| Alien (HAN)                | Limbo (Lee Know)                              |
-| 5/4                        | 楓                                             |
-| Close (HAN)                | Deep end (Felix)                              |
-| Be There (feat. DinDin)    | Animals                                       |
-| Streetlight (Changbin)     | #LoveSTAY                                     |
-| DOODLE (Changbin)          | King of Carrot Flowers Pt. 1                  |
-| Good Ones                  | Labyrinth                                     |
-| Show Me What               | Bullet With Butterfly Wings - Remastered 2012 |
-| Hot In It                  | Holland, 1945                                 |
+| Twinkle                    | Limbo (Lee Know)                              |
+| Alien (HAN)                | 楓                                             |
+| 5/4                        | Deep end (Felix)                              |
+| Close (HAN)                | Animals                                       |
+| Be There (feat. DinDin)    | #LoveSTAY                                     |
+| Streetlight (Changbin)     | King of Carrot Flowers Pt. 1                  |
+| DOODLE (Changbin)          | Labyrinth                                     |
+| Good Ones                  | Bullet With Butterfly Wings - Remastered 2012 |
+| Show Me What               | Holland, 1945                                 |
 
 | 10 most Energetic tracks        | 10 least Energetic tracks    |
 |:--------------------------------|:-----------------------------|
 | Why Don’t You Know              | #LoveSTAY                    |
 | 5/4                             | Limbo (Lee Know)             |
 | Holland, 1945                   | King of Carrot Flowers Pt. 1 |
-| 15 Step                         | ice.cream (Hyunjin)          |
-| ZONE (Bang Chan, Changbin, HAN) | 楓                            |
-| Hot In It                       | Show Me What                 |
-| ISLAND                          | Maroon                       |
-| Streetlight (Changbin)          | Mastermind                   |
-| Animals                         | Labyrinth                    |
-| I GOT IT (HAN)                  | Deep end (Felix)             |
+| Twinkle                         | ice.cream (Hyunjin)          |
+| 15 Step                         | 楓                            |
+| ZONE (Bang Chan, Changbin, HAN) | Show Me What                 |
+| Hot In It                       | Maroon                       |
+| ISLAND                          | Mastermind                   |
+| Streetlight (Changbin)          | Labyrinth                    |
+| Animals                         | Deep end (Felix)             |
 
 | 10 most Speechy tracks   | 10 least Speechy tracks      |
 |:-------------------------|:-----------------------------|
@@ -230,20 +235,20 @@
 | ice.cream (Hyunjin)       | Animals                                       |
 | Limbo (Lee Know)          | Hot In It                                     |
 | Show Me What              | SILENCE                                       |
-| Streetlight (Changbin)    | Bullet With Butterfly Wings - Remastered 2012 |
+| Higher                    | Bullet With Butterfly Wings - Remastered 2012 |
 
 | 10 most Instrumental tracks                   | 10 least Instrumental tracks    |
 |:----------------------------------------------|:--------------------------------|
-| King of Carrot Flowers Pt. 1                  | Deep end (Felix)                |
-| Bullet With Butterfly Wings - Remastered 2012 | ISLAND                          |
-| Animals                                       | #LoveSTAY                       |
-| Labyrinth                                     | I GOT IT (HAN)                  |
-| 15 Step                                       | RUN (HAN)                       |
-| 몽중몽; Dream In A Dream                         | ZONE (Bang Chan, Changbin, HAN) |
-| Mastermind                                    | Be There (feat. DinDin)         |
+| King of Carrot Flowers Pt. 1                  | ISLAND                          |
+| Bullet With Butterfly Wings - Remastered 2012 | #LoveSTAY                       |
+| Animals                                       | I GOT IT (HAN)                  |
+| Labyrinth                                     | RUN (HAN)                       |
+| 15 Step                                       | ZONE (Bang Chan, Changbin, HAN) |
+| 몽중몽; Dream In A Dream                         | Be There (feat. DinDin)         |
+| Mastermind                                    | Higher                          |
 | Solsbury Hill                                 | Reset                           |
 | 5/4                                           | DOODLE (Changbin)               |
-| Holland, 1945                                 | ice.cream (Hyunjin)             |
+| Holland, 1945                                 | Twinkle                         |
 
 | 10 most Live tracks          | 10 least Live tracks                          |
 |:-----------------------------|:----------------------------------------------|
@@ -253,20 +258,20 @@
 | Why Don’t You Know           | Be There (feat. DinDin)                       |
 | HaPpY (HAN)                  | Mastermind                                    |
 | Solsbury Hill                | Good Ones                                     |
-| 몽중몽; Dream In A Dream        | 5/4                                           |
-| Close (HAN)                  | I GOT IT (HAN)                                |
-| Streetlight (Changbin)       | Bullet With Butterfly Wings - Remastered 2012 |
-| Wish You Back (HAN)          | Hot In It                                     |
+| Twinkle                      | 5/4                                           |
+| 몽중몽; Dream In A Dream        | I GOT IT (HAN)                                |
+| Close (HAN)                  | Bullet With Butterfly Wings - Remastered 2012 |
+| Higher                       | Hot In It                                     |
 
 | 10 most Happy tracks    | 10 least Happy tracks           |
 |:------------------------|:--------------------------------|
-| 15 Step                 | Wish You Back (HAN)             |
-| I GOT IT (HAN)          | A Flying Butterfly              |
-| 5/4                     | Limbo (Lee Know)                |
-| Good Ones               | Deep end (Felix)                |
-| RUN (HAN)               | ZONE (Bang Chan, Changbin, HAN) |
-| Be There (feat. DinDin) | 楓                               |
-| Hot In It               | Alien (HAN)                     |
-| DOODLE (Changbin)       | Mastermind                      |
-| Why Don’t You Know      | Labyrinth                       |
-| Animals                 | Maroon                          |
+| Twinkle                 | Wish You Back (HAN)             |
+| 15 Step                 | A Flying Butterfly              |
+| I GOT IT (HAN)          | Limbo (Lee Know)                |
+| 5/4                     | Deep end (Felix)                |
+| Good Ones               | ZONE (Bang Chan, Changbin, HAN) |
+| RUN (HAN)               | 楓                               |
+| Be There (feat. DinDin) | Alien (HAN)                     |
+| Hot In It               | Mastermind                      |
+| DOODLE (Changbin)       | Labyrinth                       |
+| Why Don’t You Know      | Maroon                          |

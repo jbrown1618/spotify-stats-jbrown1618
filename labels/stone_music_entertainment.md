@@ -120,9 +120,9 @@ Appears as:
 |-------------------:|:--------------------------------------------------|
 |                 44 | [k-pop](../genres/k_pop.md)                       |
 |                 15 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+|                  7 | [pop](../genres/pop.md)                           |
 |                  7 | korean r&b                                        |
 |                  7 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
-|                  3 | [pop](../genres/pop.md)                           |
 |                  2 | korean pop                                        |
 |                  2 | korean ost                                        |
 |                  1 | k-rap                                             |

@@ -305,7 +305,7 @@
 
 
 <details>
-<summary>See all 97 genres</summary>
+<summary>See all 96 genres</summary>
 
 |   Number of Tracks | Genre                                 |
 |-------------------:|:--------------------------------------|
@@ -371,7 +371,6 @@
 |                  1 | r&b en espanol                        |
 |                  1 | nouvelle chanson francaise            |
 |                  1 | norwegian pop                         |
-|                  1 | norwegian indie                       |
 |                  1 | nintendocore                          |
 |                  1 | nigerian pop                          |
 |                  1 | nigerian hip hop                      |

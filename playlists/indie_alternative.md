@@ -352,7 +352,6 @@
 |                  3 | comic                                               |
 |                  3 | [acoustic pop](../genres/acoustic_pop.md)           |
 |                  2 | washington indie                                    |
-|                  2 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  2 | shiver pop                                          |
 |                  2 | pop punk                                            |
 |                  2 | pop emo                                             |
@@ -374,6 +373,7 @@
 |                  1 | swedish electropop                                  |
 |                  1 | swedish alternative rock                            |
 |                  1 | spacegrunge                                         |
+|                  1 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  1 | shimmer pop                                         |
 |                  1 | nu metal                                            |
 |                  1 | nu jazz                                             |

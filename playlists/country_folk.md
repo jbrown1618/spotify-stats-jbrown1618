@@ -95,16 +95,17 @@
 
 ## Genres
 
-![Bar chart of top 21 genres](../images/playlists/country_folk/genres.png)
+![Bar chart of top 22 genres](../images/playlists/country_folk/genres.png)
 
 
 <details>
-<summary>See all 21 genres</summary>
+<summary>See all 22 genres</summary>
 
 |   Number of Tracks | Genre                                     |
 |-------------------:|:------------------------------------------|
 |                 11 | country dawn                              |
 |                 11 | country                                   |
+|                  8 | [pop](../genres/pop.md)                   |
 |                  8 | indie folk                                |
 |                  8 | contemporary country                      |
 |                  6 | stomp and holler                          |

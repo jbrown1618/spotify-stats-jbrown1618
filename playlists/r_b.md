@@ -218,7 +218,7 @@
 
 |   Number of Tracks | Genre                                           |
 |-------------------:|:------------------------------------------------|
-|                 58 | [pop](../genres/pop.md)                         |
+|                 63 | [pop](../genres/pop.md)                         |
 |                 51 | [dance pop](../genres/dance_pop.md)             |
 |                 34 | [r&b](../genres/r_b.md)                         |
 |                 24 | urban contemporary                              |

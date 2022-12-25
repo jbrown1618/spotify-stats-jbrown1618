@@ -140,7 +140,7 @@
 |                  1 | nu jazz                                             |
 |                  1 | [lilith](../genres/lilith.md)                       |
 |                  1 | korean jazz                                         |
-|                  1 | folk rock                                           |
+|                  1 | [folk rock](../genres/folk_rock.md)                 |
 |                  1 | folk                                                |
 |                  1 | electric blues                                      |
 |                  1 | dutch pop                                           |

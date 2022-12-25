@@ -140,7 +140,7 @@ Appears as:
 |                 12 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 |                  9 | korean r&b                                        |
 |                  6 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
-|                  3 | [pop](../genres/pop.md)                           |
+|                  5 | [pop](../genres/pop.md)                           |
 |                  3 | korean pop                                        |
 |                  3 | korean ost                                        |
 |                  2 | k-rap                                             |

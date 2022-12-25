@@ -1,6 +1,6 @@
 # k-pop
 
-[807 songs](k_pop_tracks.md)
+[808 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -21,7 +21,7 @@
 |                 30 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)                             | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 |                 28 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)                 | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 |                 26 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | [IU](../artists/iu.md)                               | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
-|                 22 | <img src="https://i.scdn.co/image/ab6761610000e5eb916392fe8c66d0c993657b6d" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md)                     | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
+|                 23 | <img src="https://i.scdn.co/image/ab6761610000e5eb916392fe8c66d0c993657b6d" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md)                     | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 |                 20 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../artists/mamamoo.md)                     | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
 |                 18 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../artists/leehi.md)                         | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 |                 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="" width="50" /> | [SEVENTEEN](../artists/seventeen.md)                 | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
@@ -241,7 +241,7 @@
 
 |   Number of Tracks | Label                                                                                                               |
 |-------------------:|:--------------------------------------------------------------------------------------------------------------------|
-|                197 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
+|                198 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
 |                 91 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 60 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
 |                 44 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                                                 |
@@ -353,12 +353,12 @@
 | Idle song                             | HWAA                        |
 | RUN (HAN)                             | CHEESE                      |
 | Jelly                                 | Clockwork                   |
-| Weather                               | Epilogue                    |
-| Typa Girl                             | Like Water                  |
+| Typa Girl                             | Epilogue                    |
+| Weather                               | Like Water                  |
 | BOOM                                  | Fine                        |
 | Mr. Simple                            | My sea                      |
-| 1, 2, 3, 4                            | On The Ground               |
-| That That (prod. & feat. SUGA of BTS) | U                           |
+| That That (prod. & feat. SUGA of BTS) | On The Ground               |
+| 1, 2, 3, 4                            | U                           |
 
 | 10 most Energetic tracks   | 10 least Energetic tracks                            |
 |:---------------------------|:-----------------------------------------------------|
@@ -375,11 +375,11 @@
 
 | 10 most Speechy tracks        | 10 least Speechy tracks                    |
 |:------------------------------|:-------------------------------------------|
-| Addicted                      | LOVE FOOL                                  |
+| Addicted                      | NANANA                                     |
 | MANIAC                        | YOUNG LUV                                  |
-| Freedom                       | NANANA                                     |
-| Ice Cream (with Selena Gomez) | Hope Not                                   |
+| Freedom                       | The Magic of Christmas Time                |
 | I GOT IT (HAN)                | Gee                                        |
+| Ice Cream (with Selena Gomez) | Hope Not                                   |
 | Feelin' Like                  | Winter Sleep                               |
 | DOODLE (Changbin)             | Wicked                                     |
 | Signal                        | Moonlight Melody                           |
@@ -390,14 +390,14 @@
 |:-----------------------------------------------------|:---------------------------|
 | 그대라는 시                                               | Danger                     |
 | How can I love the heartbreak, you're the one I love | RUN2U                      |
-| ONLY                                                 | Favorite (Vampire)         |
-| Deep end (Felix)                                     | Cherry Bomb                |
-| Boy in time - HUI Solo                               | Adios                      |
-| Goodbye                                              | Red Light                  |
-| Amusement Park                                       | Oh Sorry Ya                |
-| U                                                    | Cyberpunk                  |
-| Flower Way (Prod. By ZICO)                           | Easy                       |
-| If                                                   | Mr. Simple                 |
+| The Magic of Christmas Time                          | Favorite (Vampire)         |
+| ONLY                                                 | Cherry Bomb                |
+| Deep end (Felix)                                     | Adios                      |
+| Boy in time - HUI Solo                               | Red Light                  |
+| Goodbye                                              | Oh Sorry Ya                |
+| Amusement Park                                       | Cyberpunk                  |
+| U                                                    | Easy                       |
+| Flower Way (Prod. By ZICO)                           | Mr. Simple                 |
 
 | 10 most Instrumental tracks      | 10 least Instrumental tracks                  |
 |:---------------------------------|:----------------------------------------------|
@@ -435,5 +435,5 @@
 | So Hot                 | Side Effects                    |
 | 쏘리 쏘리 Sorry, Sorry     | Good Night My Princess          |
 | Twinkle                | 7월 7일 One Of These Nights       |
-| Give it to me          | Grey Suit                       |
-| Some (feat. Lil Boi)   | The Road                        |
+| Lion Heart             | Grey Suit                       |
+| Give it to me          | The Road                        |
