@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b273714e56679ab196354e2e443eab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738c4a282e84a53c1c8acf129a" alt="K-Pop Favorites" width="100" />
 
-[197 songs](k_pop_favorites_tracks.md)
+[198 songs](k_pop_favorites_tracks.md)
 
 ## Top Artists
 
@@ -44,6 +44,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b13da5a8a3dd6e0d53ff764" alt="" width="50" /> | Red Velvet - IRENE & SEULGI                          | [🔗](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5b1a291b0a6a689091d54d8b" alt="" width="50" /> | IVE                                                  | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a29246fa242d0b9f8de3b31" alt="" width="50" /> | SUNMI                                                | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebfe8fbd794e1c35f9c0514541" alt="" width="50" /> | NewJeans                                             | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb64362c8789b72fb00e0a3611" alt="" width="50" /> | ATEEZ                                                | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="" width="50" /> | [Dreamcatcher](../artists/dreamcatcher.md)           | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e2e0f17d257a40be0782f35" alt="" width="50" /> | BAEKHYUN                                             | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
@@ -63,7 +64,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb20dfb8f52ef4926a22e552c8" alt="" width="50" /> | R3HAB                                                | [🔗](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | BIBI                                                 | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | CLC                                                  | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfe8fbd794e1c35f9c0514541" alt="" width="50" /> | NewJeans                                             | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebea3e3a63d8bc191f631f6e0e" alt="" width="50" /> | PURPLE KISS                                          | [🔗](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2197a2a24be11b8872a9d325" alt="" width="50" /> | MINGYU                                               | [🔗](https://open.spotify.com/artist/5gUpo0BRmo6EOTbyU3z5Ay) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba109aeabdab7a5a5b3330df4" alt="" width="50" /> | HEIZE                                                | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
@@ -83,7 +83,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2d167f018561742f26a0997" alt="" width="50" /> | ROSÉ                                                 | [🔗](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb515e5754d89e4df8123e3f9f" alt="" width="50" /> | HYO                                                  | [🔗](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5045a0e0d423ce29d6b14ebd" alt="" width="50" /> | TREASURE                                             | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7af892ba79f611277614a0f2" alt="" width="50" /> | P1Harmony                                            | [🔗](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb74f9c3e4ad2e130f8f338858" alt="" width="50" /> | P1Harmony                                            | [🔗](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb30a517d1b703c3eabdac2855" alt="" width="50" /> | Wonder Girls                                         | [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5923c0ca32a3cf3a81b34728" alt="" width="50" /> | G-DRAGON                                             | [🔗](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7ece2134de8809efcfdc9be7" alt="" width="50" /> | SHINee                                               | [🔗](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) |
@@ -232,16 +232,16 @@
 |   Number of Tracks | Label                                                                                   |
 |-------------------:|:----------------------------------------------------------------------------------------|
 |                 60 | [SM Entertainment](../labels/sm_entertainment.md)                                       |
+|                 18 | [Republic Records](../labels/republic_records.md)                                       |
 |                 17 | [YG Entertainment](../labels/yg_entertainment.md)                                       |
-|                 17 | [Republic Records](../labels/republic_records.md)                                       |
 |                 11 | [Interscope](../labels/interscope.md)                                                   |
 |                  9 | [BELIFT LAB](../labels/belift_lab.md)                                                   |
 |                  8 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                     |
 |                  7 | [RBW Inc.](../labels/rbw_inc_.md)                                                       |
 |                  7 | [Genie Music Corporation](../labels/genie_music_corporation.md)                         |
 |                  6 | [Universal Music LLC](../labels/universal_music_llc.md)                                 |
-|                  6 | [JYP Entertainment](../labels/jyp_entertainment.md)                                     |
 |                  6 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                                   |
+|                  5 | [JYP Entertainment](../labels/jyp_entertainment.md)                                     |
 |                  5 | [BIGHIT MUSIC](../labels/bighit_music.md)                                               |
 |                  4 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)                               |
 |                  4 | [Kakao Entertainment](../labels/kakao_entertainment.md)                                 |
@@ -257,6 +257,7 @@
 |                  2 | [LABEL V](../labels/label_v.md)                                                         |
 |                  2 | [KQ Entertainment](../labels/kq_entertainment.md)                                       |
 |                  2 | [Fave Entertainment](../labels/fave_entertainment.md)                                   |
+|                  2 | [ADOR](../labels/ador.md)                                                               |
 |                  2 | [88rising Music](../labels/88rising_music.md)                                           |
 |                  1 | [드림캐쳐컴퍼니](../labels/_______.md)                                                         |
 |                  1 | [더라이브레이블](../labels/_______.md)                                                         |
@@ -282,7 +283,6 @@
 |                  1 | [Capitol Records (CAP)](../labels/capitol_records__cap_.md)                             |
 |                  1 | [BlockBerryCreative](../labels/blockberrycreative.md)                                   |
 |                  1 | [Abyss Company](../labels/abyss_company.md)                                             |
-|                  1 | [ADOR](../labels/ador.md)                                                               |
 |                  1 | [2018 YG Entertainment](../labels/2018_yg_entertainment.md)                             |
 
 </details>
@@ -298,8 +298,8 @@
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
-|                165 | [k-pop](../genres/k_pop.md)                       |
-|                 79 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+|                166 | [k-pop](../genres/k_pop.md)                       |
+|                 80 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 |                 45 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
 |                 12 | [pop](../genres/pop.md)                           |
 |                  9 | anime                                             |
@@ -332,7 +332,7 @@
 
 | 10 most Energetic tracks              | 10 least Energetic tracks   |
 |:--------------------------------------|:----------------------------|
-| RING X RING                           | BOOM                        |
+| RING X RING                           | 눈,코,입 (Eyes, Nose, Lips)    |
 | Girls                                 | 7월 7일 One Of These Nights   |
 | RING ma Bell (what a wonderful world) | Dream                       |
 | Heart Shaker                          | HOLO                        |
@@ -379,7 +379,7 @@
 | Black Mamba                   | Love Talk                        |
 | In the morning                | VILLAIN DIES                     |
 | Stay Tonight                  | Why So Lonely                    |
-| Girls                         | SAY NO MORE                      |
+| Girls                         | Ditto                            |
 | MAGO                          | Shut Down                        |
 
 | 10 most Live tracks             | 10 least Live tracks        |
@@ -397,11 +397,11 @@
 
 | 10 most Happy tracks                        | 10 least Happy tracks     |
 |:--------------------------------------------|:--------------------------|
-| Devil                                       | HANN (Alone)              |
-| Lion Heart                                  | Still Life                |
-| 러시안 룰렛 Russian Roulette                     | Cold As Hell              |
-| 1, 2, 3, 4                                  | Can't Control Myself      |
-| Left & Right                                | HOLO                      |
+| Devil                                       | Still Life                |
+| Lion Heart                                  | Cold As Hell              |
+| 러시안 룰렛 Russian Roulette                     | Can't Control Myself      |
+| 1, 2, 3, 4                                  | HOLO                      |
+| Left & Right                                | Ditto                     |
 | I`m a B                                     | Favorite (Vampire)        |
 | The Feels                                   | Adrenaline                |
 | The Boys                                    | ONLY                      |

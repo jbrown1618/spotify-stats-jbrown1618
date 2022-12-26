@@ -27,7 +27,7 @@
 |                  1 | <img src="https://i.scdn.co/image/a97382fc1e98c5a755daf70d7a9355f673811707" alt="" width="50" /> | Vinson Cole                                                      | [🔗](https://open.spotify.com/artist/2j6cP3f3TxyHzcKdWYSm6h) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27322070c61a7616392f04f070f" alt="" width="50" /> | [Agnes Baltsa](../artists/agnes_baltsa.md)                       | [🔗](https://open.spotify.com/artist/2amF56vDuTTbZJQsqUgbuC) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27322070c61a7616392f04f070f" alt="" width="50" /> | Janet Perry                                                      | [🔗](https://open.spotify.com/artist/1bV3KjOPs1AI3OolJiYogN) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ad42862ef7e02b09abe20699" alt="" width="50" /> | Helmut Froschauer                                                | [🔗](https://open.spotify.com/artist/172Encqfd2ZhWAleNg1gbO) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734863f571634ed66bcdbfa327" alt="" width="50" /> | Helmut Froschauer                                                | [🔗](https://open.spotify.com/artist/172Encqfd2ZhWAleNg1gbO) |
 
 </details>
 

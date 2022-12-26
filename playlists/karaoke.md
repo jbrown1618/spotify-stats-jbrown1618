@@ -218,7 +218,6 @@
 |                  8 | piano rock                                          |
 |                  7 | [soft rock](../genres/soft_rock.md)                 |
 |                  7 | [lilith](../genres/lilith.md)                       |
-|                  7 | [folk rock](../genres/folk_rock.md)                 |
 |                  6 | [hollywood](../genres/hollywood.md)                 |
 |                  6 | [adult standards](../genres/adult_standards.md)     |
 |                  5 | [singer-songwriter](../genres/singer_songwriter.md) |
@@ -230,7 +229,8 @@
 |                  4 | permanent wave                                      |
 |                  4 | lounge                                              |
 |                  4 | glam rock                                           |
-|                  3 | viral pop                                           |
+|                  3 | [viral pop](../genres/viral_pop.md)                 |
+|                  3 | folk rock                                           |
 |                  3 | canadian pop                                        |
 |                  3 | australian pop                                      |
 |                  2 | urban contemporary                                  |

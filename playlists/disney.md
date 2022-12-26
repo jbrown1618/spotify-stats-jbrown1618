@@ -175,7 +175,7 @@
 |                  1 | jump blues                                      |
 |                  1 | jazz blues                                      |
 |                  1 | funk                                            |
-|                  1 | [folk rock](../genres/folk_rock.md)             |
+|                  1 | folk rock                                       |
 |                  1 | folk                                            |
 |                  1 | country rock                                    |
 |                  1 | classic uk pop                                  |

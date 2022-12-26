@@ -1,6 +1,6 @@
 # k-pop girl group
 
-[381 songs](k_pop_girl_group_tracks.md)
+[383 songs](k_pop_girl_group_tracks.md)
 
 ## Top Artists
 
@@ -15,7 +15,7 @@
 |   Number of Tracks | Art                                                                                              | Artist                                               | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------|:------------------------------------------------------------|
 |                 59 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)               | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
-|                 37 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../artists/itzy.md)                           | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
+|                 39 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../artists/itzy.md)                           | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                 36 | <img src="https://i.scdn.co/image/ab6761610000e5ebd84fd6ae9ccfc6206ea6711e" alt="" width="50" /> | [TWICE](../artists/twice.md)                         | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 |                 34 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)                   | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 |                 28 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)                 | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
@@ -149,6 +149,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27322f0e32bfb91476f0ad96656" alt="" width="50" /> | MIC ON                                      | [🔗](https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093" alt="" width="50" /> | LOVE DIVE                                   | [🔗](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2733beb8877c3a0cde5be9a139c" alt="" width="50" /> | Ice Cream Cake - The 1st Mini Album         | [🔗](https://open.spotify.com/album/27cBQ5FDqv0xLgiJ7qNpZr) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273fc620c06721e90a534cc5dab" alt="" width="50" /> | IT'z ME                                     | [🔗](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2735a34da2654db7f75cee1d080" alt="" width="50" /> | IT'z ICY                                    | [🔗](https://open.spotify.com/album/2y2Nuvvw5xNDYOunTSsgf1) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c5011613476079ff2498bf4a" alt="" width="50" /> | HELICOPTER                                  | [🔗](https://open.spotify.com/album/1uwfxRAhW1hxclCVkzku8d) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27349b81808fcdaeeb55bef59d1" alt="" width="50" /> | Feel Special                                | [🔗](https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo) |
@@ -189,7 +190,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736f2d10189a41c7345a5a0337" alt="" width="50" /> | To Anyone                                   | [🔗](https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734802244fa0cf6d33eda5e748" alt="" width="50" /> | The Wonder Years - Trilogy                  | [🔗](https://open.spotify.com/album/61KwS8kiAywHkZ7gp4asTE) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27381fb7e4e392f0a99b3947eb6" alt="" width="50" /> | The Velvet - The 2nd Mini Album             | [🔗](https://open.spotify.com/album/2qgl7dAgslqL1w2l2wQhMA) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ce17f432c79c5e45ce88688f" alt="" width="50" /> | The Story Begins                            | [🔗](https://open.spotify.com/album/72WWZVAx6GtSbEeGESwDLo) |
 
 </details>
 
@@ -205,7 +205,7 @@
 |   Number of Tracks | Label                                                                                                               |
 |-------------------:|:--------------------------------------------------------------------------------------------------------------------|
 |                 81 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
-|                 62 | [Republic Records](../labels/republic_records.md)                                                                   |
+|                 64 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 25 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
 |                 25 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                                                               |
 |                 23 | [Interscope](../labels/interscope.md)                                                                               |
@@ -277,14 +277,14 @@
 |:---------------------------|:-----------------------------------|
 | #Twenty                    | HANN (Alone in winter)             |
 | SNEAKERS                   | Life's Too Short (English Version) |
-| SNEAKERS (English Ver.)    | Addicted                           |
-| Typa Girl                  | Poison                             |
-| Scandal                    | You Better Run                     |
-| Louder                     | 7월 7일 One Of These Nights          |
-| Nobody                     | Feel My Rhythm                     |
-| Pepe                       | Where Are We Now                   |
+| 24HRS                      | Addicted                           |
+| SNEAKERS (English Ver.)    | Poison                             |
+| Typa Girl                  | You Better Run                     |
+| Scandal                    | 7월 7일 One Of These Nights          |
+| Louder                     | Feel My Rhythm                     |
+| Nobody                     | Where Are We Now                   |
 | So Hot                     | O.O                                |
-| The Boys                   | HWAA                               |
+| Pepe                       | HWAA                               |
 
 | 10 most Energetic tracks   | 10 least Energetic tracks   |
 |:---------------------------|:----------------------------|
@@ -327,16 +327,16 @@
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| You and I (Park Bom)          | Ice Cream Cake                 |
-| Adios                         | Bad Boy                        |
-| YEPPI YEPPI                   | Red Flavor                     |
-| So Hot                        | You Better Know                |
-| I Am The Best                 | Umpah Umpah                    |
-| Power Up                      | Be Natural                     |
-| BBoom BBoom                   | Beautiful Christmas            |
-| In My Dreams                  | #Cookie Jar                    |
-| BAAM                          | Rookie                         |
-| Star                          | I'll Make You Cry              |
+| You and I (Park Bom)          | Be Natural                     |
+| Adios                         | Beautiful Christmas            |
+| YEPPI YEPPI                   | #Cookie Jar                    |
+| So Hot                        | Rookie                         |
+| I Am The Best                 | Bewitched                      |
+| Power Up                      | WILDSIDE                       |
+| BBoom BBoom                   | Marionette                     |
+| In My Dreams                  | Bewitched - Eng Ver.           |
+| BAAM                          | Villain                        |
+| Star                          | HANN (Alone in winter)         |
 
 | 10 most Live tracks   | 10 least Live tracks          |
 |:----------------------|:------------------------------|

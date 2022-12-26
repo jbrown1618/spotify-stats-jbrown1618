@@ -2,7 +2,10 @@
 
 ## Duplicate tracks
 
-None
+| Track                                                              |   Track Popularity | Release Date   | Artists                                                          | Album                                                              |   Album Popularity | Playlists                                                                                                                                             | Label                   | 💚   |
+|:-------------------------------------------------------------------|-------------------:|:---------------|:-----------------------------------------------------------------|:-------------------------------------------------------------------|-------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------|:----|
+| WANNABE [🔗](https://open.spotify.com/track/4pspYVQGFHLPEFgQPD1J7e) |                 74 | 2020-03-09     | ITZY [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | IT'z ME [🔗](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) |                 63 | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Republic Records - ITZY | 💚   |
+| WANNABE [🔗](https://open.spotify.com/track/6tCssnvTUREcperDOUTqvA) |                  2 | 2020-03-09     | ITZY [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | It'z Me [🔗](https://open.spotify.com/album/2gertXS08whDTzBWfmewPO) |                  0 | K-Pop 101 [🔗](https://open.spotify.com/playlist/1NlCn9vDmQDBF54JyVC2MC)                                                                               | JYP Entertainment       |     |
 
 ## Duplicate albums
 

@@ -1,6 +1,6 @@
 # k-pop
 
-[808 songs](k_pop_tracks.md)
+[809 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -70,7 +70,7 @@
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eba6b0d348c125a072e5284b3e" alt="" width="50" /> | IZ*ONE                                               | [🔗](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0b4c8d0a415cab50e033129" alt="" width="50" /> | Solar                                                | [🔗](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0cc2045ff4e90d12df91cc3" alt="" width="50" /> | f(x)                                                 | [🔗](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) |
-|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb7af892ba79f611277614a0f2" alt="" width="50" /> | P1Harmony                                            | [🔗](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) |
+|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb74f9c3e4ad2e130f8f338858" alt="" width="50" /> | P1Harmony                                            | [🔗](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | SISTAR                                               | [🔗](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb3202449ae19d68607e3f1530" alt="" width="50" /> | NMIXX                                                | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb70b010582faadbcec8b6774c" alt="" width="50" /> | CIX                                                  | [🔗](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) |
@@ -363,8 +363,8 @@
 | 10 most Energetic tracks   | 10 least Energetic tracks                            |
 |:---------------------------|:-----------------------------------------------------|
 | RING X RING                | 그대라는 시                                               |
-| Misfit                     | Flower Way (Prod. By ZICO)                           |
-| Hit That Drum              | Singularity                                          |
+| Hit That Drum              | Flower Way (Prod. By ZICO)                           |
+| Misfit                     | Singularity                                          |
 | MIROH                      | Boy in time - HUI Solo                               |
 | Side Effects               | BREATHE                                              |
 | 소방차 Fire Truck             | How can I love the heartbreak, you're the one I love |
@@ -375,16 +375,16 @@
 
 | 10 most Speechy tracks        | 10 least Speechy tracks                    |
 |:------------------------------|:-------------------------------------------|
-| Addicted                      | NANANA                                     |
-| MANIAC                        | YOUNG LUV                                  |
-| Freedom                       | The Magic of Christmas Time                |
-| I GOT IT (HAN)                | Gee                                        |
-| Ice Cream (with Selena Gomez) | Hope Not                                   |
+| Addicted                      | YOUNG LUV                                  |
+| MANIAC                        | NANANA                                     |
+| Freedom                       | Gee                                        |
+| I GOT IT (HAN)                | Hope Not                                   |
+| Ice Cream (with Selena Gomez) | The Magic of Christmas Time                |
 | Feelin' Like                  | Winter Sleep                               |
 | DOODLE (Changbin)             | Wicked                                     |
 | Signal                        | Moonlight Melody                           |
-| BBIBBI                        | Slightly Tipsy (She is My Type♡ X SANDEUL) |
-| You Better Run                | She's In The Rain                          |
+| BBIBBI                        | She's In The Rain                          |
+| You Better Run                | Slightly Tipsy (She is My Type♡ X SANDEUL) |
 
 | 10 most Acoustic tracks                              | 10 least Acoustic tracks   |
 |:-----------------------------------------------------|:---------------------------|
@@ -401,16 +401,16 @@
 
 | 10 most Instrumental tracks      | 10 least Instrumental tracks                  |
 |:---------------------------------|:----------------------------------------------|
-| You and I (Park Bom)             | Closer                                        |
-| Adios                            | I GOT A BOY                                   |
+| You and I (Park Bom)             | I GOT A BOY                                   |
+| Adios                            | Misfit                                        |
 | pporappippam                     | Make A Wish (Birthday Song) - English Version |
 | Badster                          | Love Talk                                     |
 | So Hot                           | Love Talk - English Version                   |
 | GingaMingaYo (the strange world) | Kick Back                                     |
 | I Am The Best                    | ZOO                                           |
 | Power Up                         | Love Theory                                   |
-| BBoom BBoom                      | Wow Thing                                     |
-| In My Dreams                     | AHH OOP!                                      |
+| BBoom BBoom                      | Is this bad b****** number?                   |
+| In My Dreams                     | ILLELLA                                       |
 
 | 10 most Live tracks            | 10 least Live tracks                  |
 |:-------------------------------|:--------------------------------------|
@@ -422,8 +422,8 @@
 | I Like That                    | Holiday Party                         |
 | Vibrato                        | memeM                                 |
 | 행복 (Happiness)                 | That That (prod. & feat. SUGA of BTS) |
-| LP                             | CASE 143                              |
-| Genie                          | PING PONG                             |
+| Genie                          | CASE 143                              |
+| LP                             | PING PONG                             |
 
 | 10 most Happy tracks   | 10 least Happy tracks           |
 |:-----------------------|:--------------------------------|

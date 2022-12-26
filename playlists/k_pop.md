@@ -100,7 +100,7 @@
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb983cc89d77c523e7bf9c03f6" alt="" width="50" /> | YENA                                                 | [🔗](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb66701ca609176d8fd4a9c4a0" alt="" width="50" /> | NCT                                                  | [🔗](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8aec4284aed8bb502a411043" alt="" width="50" /> | AILEE                                                | [🔗](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) |
-|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb7af892ba79f611277614a0f2" alt="" width="50" /> | P1Harmony                                            | [🔗](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) |
+|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb74f9c3e4ad2e130f8f338858" alt="" width="50" /> | P1Harmony                                            | [🔗](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb30a517d1b703c3eabdac2855" alt="" width="50" /> | Wonder Girls                                         | [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb5923c0ca32a3cf3a81b34728" alt="" width="50" /> | G-DRAGON                                             | [🔗](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb0124ae71378c204c4634cd40" alt="" width="50" /> | KARD                                                 | [🔗](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) |
@@ -246,7 +246,7 @@
 |   Number of Tracks | Label                                                                                                               |
 |-------------------:|:--------------------------------------------------------------------------------------------------------------------|
 |                202 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
-|                 97 | [Republic Records](../labels/republic_records.md)                                                                   |
+|                 98 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 61 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
 |                 50 | [Genie Music Corporation](../labels/genie_music_corporation.md)                                                     |
 |                 46 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                                                 |
@@ -255,7 +255,7 @@
 |                 32 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                                                               |
 |                 29 | [Universal Music LLC](../labels/universal_music_llc.md)                                                             |
 |                 28 | [RBW Inc.](../labels/rbw_inc_.md)                                                                                   |
-|                 26 | [JYP Entertainment](../labels/jyp_entertainment.md)                                                                 |
+|                 25 | [JYP Entertainment](../labels/jyp_entertainment.md)                                                                 |
 |                 20 | [BELIFT LAB](../labels/belift_lab.md)                                                                               |
 |                 19 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)                                                           |
 |                 16 | [Starship Entertainment](../labels/starship_entertainment.md)                                                       |
@@ -379,7 +379,7 @@
 |                  2 | j-division                                        |
 |                  2 | edm                                               |
 |                  2 | chinese idol pop                                  |
-|                  1 | viral pop                                         |
+|                  1 | [viral pop](../genres/viral_pop.md)               |
 |                  1 | pop rap                                           |
 |                  1 | pop dance                                         |
 |                  1 | korean indie rock                                 |
@@ -404,8 +404,8 @@
 | SNEAKERS                   | Clockwork                   |
 | Idle song                  | Epilogue                    |
 | Jelly                      | Like Water                  |
-| Weather                    | Fine                        |
-| Typa Girl                  | My sea                      |
+| Typa Girl                  | Fine                        |
+| Weather                    | My sea                      |
 | BOOM                       | On The Ground               |
 | Tippy Toes                 | Sweet                       |
 | Mr. Simple                 | U                           |
@@ -413,8 +413,8 @@
 | 10 most Energetic tracks   | 10 least Energetic tracks                            |
 |:---------------------------|:-----------------------------------------------------|
 | RING X RING                | Flower Way (Prod. By ZICO)                           |
-| Hit That Drum              | Rain and You                                         |
-| Misfit                     | Singularity                                          |
+| Misfit                     | Rain and You                                         |
+| Hit That Drum              | Singularity                                          |
 | MIROH                      | Boy in time - HUI Solo                               |
 | Side Effects               | BREATHE                                              |
 | 소방차 Fire Truck             | How can I love the heartbreak, you're the one I love |
@@ -425,10 +425,10 @@
 
 | 10 most Speechy tracks        | 10 least Speechy tracks                    |
 |:------------------------------|:-------------------------------------------|
-| I Don't Need You              | Gee                                        |
+| I Don't Need You              | The Magic of Christmas Time                |
 | Addicted                      | Hope Not                                   |
-| MANIAC                        | Wicked                                     |
-| Freedom                       | Winter Sleep                               |
+| MANIAC                        | Winter Sleep                               |
+| Freedom                       | Wicked                                     |
 | Free Fall                     | Rain and You                               |
 | Ice Cream (with Selena Gomez) | Moonlight Melody                           |
 | Feelin' Like                  | She's In The Rain                          |
@@ -467,8 +467,8 @@
 | Heart Attack                   | Up!                                   |
 | Piano Man                      | POP!                                  |
 | You Better Run                 | Ice Cream (with Selena Gomez)         |
-| MAKE U DANCE (feat. EUNHA)     | Holiday Party                         |
-| Red Lipstick (feat. Yoonmirae) | YEPPI YEPPI                           |
+| Red Lipstick (feat. Yoonmirae) | Holiday Party                         |
+| MAKE U DANCE (feat. EUNHA)     | YEPPI YEPPI                           |
 | Sticker                        | memeM                                 |
 | I Like That                    | That That (prod. & feat. SUGA of BTS) |
 | Vibrato                        | SNEAKERS                              |
@@ -478,12 +478,12 @@
 | 10 most Happy tracks   | 10 least Happy tracks     |
 |:-----------------------|:--------------------------|
 | Sour candy             | Sweet Night               |
-| Devil                  | Stardust love song        |
-| Twenty-three           | Lucid Dream               |
+| Twenty-three           | Stardust love song        |
+| Devil                  | Lucid Dream               |
 | Pepe                   | U                         |
 | Miniskirt              | My sea                    |
 | So Hot                 | Side Effects              |
 | 쏘리 쏘리 Sorry, Sorry     | Good Night My Princess    |
 | Twinkle                | 7월 7일 One Of These Nights |
 | Some (feat. Lil Boi)   | Grey Suit                 |
-| Lion Heart             | The Road                  |
+| Give it to me          | The Road                  |

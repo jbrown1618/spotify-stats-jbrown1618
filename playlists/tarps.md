@@ -225,7 +225,6 @@
 |                  5 | [pop rock](../genres/pop_rock.md)                   |
 |                  4 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                  4 | [mellow gold](../genres/mellow_gold.md)             |
-|                  4 | [folk rock](../genres/folk_rock.md)                 |
 |                  3 | stomp and holler                                    |
 |                  3 | [soft rock](../genres/soft_rock.md)                 |
 |                  3 | [r&b](../genres/r_b.md)                             |
@@ -235,6 +234,7 @@
 |                  3 | neo soul                                            |
 |                  3 | merseybeat                                          |
 |                  3 | indie folk                                          |
+|                  3 | folk rock                                           |
 |                  3 | folk                                                |
 |                  3 | british soul                                        |
 |                  3 | british invasion                                    |

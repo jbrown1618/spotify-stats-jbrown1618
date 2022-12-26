@@ -243,7 +243,7 @@
 |   Number of Tracks | Label                                                                                                               |
 |-------------------:|:--------------------------------------------------------------------------------------------------------------------|
 |                149 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
-|                 85 | [Republic Records](../labels/republic_records.md)                                                                   |
+|                 86 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 62 | [Epic](../labels/epic.md)                                                                                           |
 |                 55 | [Interscope](../labels/interscope.md)                                                                               |
 |                 54 | [Columbia](../labels/columbia.md)                                                                                   |
@@ -260,8 +260,8 @@
 |                 21 | [EMI Catalogue](../labels/emi_catalogue.md)                                                                         |
 |                 20 | [Taylor Swift](../labels/taylor_swift.md)                                                                           |
 |                 19 | [Big Machine Records](../labels/big_machine_records.md)                                                             |
-|                 18 | [JYP Entertainment](../labels/jyp_entertainment.md)                                                                 |
 |                 18 | [BELIFT LAB](../labels/belift_lab.md)                                                                               |
+|                 17 | [JYP Entertainment](../labels/jyp_entertainment.md)                                                                 |
 |                 16 | [Universal-Island Records Ltd.](../labels/universal_island_records_ltd_.md)                                         |
 |                 16 | [Polydor Records](../labels/polydor_records.md)                                                                     |
 |                 14 | [Rhino](../labels/rhino.md)                                                                                         |
@@ -366,11 +366,10 @@
 |                 60 | [lilith](../genres/lilith.md)                       |
 |                 58 | [neo mellow](../genres/neo_mellow.md)               |
 |                 57 | [acoustic pop](../genres/acoustic_pop.md)           |
-|                 55 | [pop rock](../genres/pop_rock.md)                   |
+|                 56 | [pop rock](../genres/pop_rock.md)                   |
 |                 44 | [hollywood](../genres/hollywood.md)                 |
 |                 42 | [mellow gold](../genres/mellow_gold.md)             |
 |                 41 | [post-teen pop](../genres/post_teen_pop.md)         |
-|                 33 | [folk rock](../genres/folk_rock.md)                 |
 |                 32 | [electropop](../genres/electropop.md)               |
 |                 31 | [soft rock](../genres/soft_rock.md)                 |
 |                 30 | [psychedelic rock](../genres/psychedelic_rock.md)   |
@@ -383,14 +382,15 @@
 |                 23 | beatlesque                                          |
 |                 22 | merseybeat                                          |
 |                 22 | korean r&b                                          |
+|                 20 | indie pop                                           |
 |                 20 | anime                                               |
 |                 19 | modern rock                                         |
-|                 19 | indie pop                                           |
 |                 19 | edm                                                 |
 |                 19 | album rock                                          |
 |                 19 | [adult standards](../genres/adult_standards.md)     |
 |                 18 | permanent wave                                      |
 |                 18 | hard rock                                           |
+|                 18 | folk rock                                           |
 |                 18 | art rock                                            |
 |                 18 | [a cappella](../genres/a_cappella.md)               |
 |                 16 | pop rap                                             |
@@ -415,7 +415,7 @@
 |                 10 | alternative rock                                    |
 |                  9 | oxford indie                                        |
 |                  9 | lounge                                              |
-|                  8 | viral pop                                           |
+|                  8 | [viral pop](../genres/viral_pop.md)                 |
 |                  8 | tropical house                                      |
 |                  8 | latin pop                                           |
 |                  8 | korean city pop                                     |
@@ -485,8 +485,8 @@
 | Headbangeeeeerrrrr!!!!!    | Nature Boy                  |
 | Gimme Chocolate!!          | And So It Goes              |
 | Hit That Drum              | Run to You                  |
-| KARATE                     | Mad World                   |
-| だいじょばない                    | Kaleidoscope Heart          |
+| だいじょばない                    | Mad World                   |
+| KARATE                     | Kaleidoscope Heart          |
 
 | 10 most Speechy tracks           | 10 least Speechy tracks   |
 |:---------------------------------|:--------------------------|
@@ -534,8 +534,8 @@
 | XS                             | YEPPI YEPPI                           |
 | Piano Man                      | memeM                                 |
 | You Better Run                 | That That (prod. & feat. SUGA of BTS) |
-| Red Lipstick (feat. Yoonmirae) | Finesse                               |
-| MAKE U DANCE (feat. EUNHA)     | SNEAKERS                              |
+| MAKE U DANCE (feat. EUNHA)     | Finesse                               |
+| Red Lipstick (feat. Yoonmirae) | SNEAKERS                              |
 | Sticker                        | CASE 143                              |
 | You Oughta Know                | Finesse - Remix; feat. Cardi B        |
 | 행복 (Happiness)                 | Ain't It Fun                          |

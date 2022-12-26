@@ -37,7 +37,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="" width="50" /> | [EXO](../artists/exo.md)                             | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="" width="50" /> | EVERGLOW                                             | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)                             | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7af892ba79f611277614a0f2" alt="" width="50" /> | P1Harmony                                            | [🔗](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb74f9c3e4ad2e130f8f338858" alt="" width="50" /> | P1Harmony                                            | [🔗](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | [IU](../artists/iu.md)                               | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7ece2134de8809efcfdc9be7" alt="" width="50" /> | SHINee                                               | [🔗](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md)               | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
@@ -187,8 +187,8 @@
 
 | 10 most Energetic tracks   | 10 least Energetic tracks   |
 |:---------------------------|:----------------------------|
-| 쏘리 쏘리 Sorry, Sorry         | HIP                         |
-| Odd Eye                    | ELEVEN                      |
+| 쏘리 쏘리 Sorry, Sorry         | ELEVEN                      |
+| Odd Eye                    | HIP                         |
 | Pretty U                   | FEVER                       |
 | Hot Sauce                  | MOVE                        |
 | WANNABE                    | Love Shot                   |
@@ -226,15 +226,15 @@
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| I Am The Best                 | Answer                         |
-| FEARLESS                      | BANG BANG BANG                 |
-| MAGO                          | HOLO                           |
-| WANNABE                       | MIROTIC                        |
-| How You Like That             | BBIBBI                         |
-| Doom Du Doom                  | ASAP                           |
-| HIP                           | DNA                            |
-| Next Level                    | Hot Sauce                      |
-| Genie                         | ELEVEN                         |
+| I Am The Best                 | BANG BANG BANG                 |
+| FEARLESS                      | HOLO                           |
+| MAGO                          | MIROTIC                        |
+| WANNABE                       | BBIBBI                         |
+| How You Like That             | ASAP                           |
+| Doom Du Doom                  | DNA                            |
+| HIP                           | Hot Sauce                      |
+| Next Level                    | ELEVEN                         |
+| Genie                         | Shine                          |
 | DUN DUN                       | FEVER                          |
 
 | 10 most Live tracks   | 10 least Live tracks   |
@@ -244,11 +244,11 @@
 | FANCY                 | Pretty U               |
 | Answer                | Doom Du Doom           |
 | BANG BANG BANG        | DNA                    |
-| BBIBBI                | O.O                    |
-| Hot Sauce             | How You Like That      |
+| BBIBBI                | How You Like That      |
+| Hot Sauce             | O.O                    |
 | 쏘리 쏘리 Sorry, Sorry    | Shine                  |
-| Gashina               | I Am The Best          |
-| Odd Eye               | ELEVEN                 |
+| Odd Eye               | I Am The Best          |
+| Gashina               | ELEVEN                 |
 
 | 10 most Happy tracks   | 10 least Happy tracks   |
 |:-----------------------|:------------------------|
@@ -260,5 +260,5 @@
 | Next Level             | Love Shot               |
 | Shine                  | ASAP                    |
 | FANCY                  | Amusement Park          |
-| Sticker                | O.O                     |
-| Genie                  | HOLO                    |
+| Genie                  | O.O                     |
+| Sticker                | HOLO                    |

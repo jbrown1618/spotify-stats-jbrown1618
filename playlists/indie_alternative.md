@@ -302,7 +302,7 @@
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
 |                 58 | [pop](../genres/pop.md)                             |
-|                 23 | indie pop                                           |
+|                 24 | indie pop                                           |
 |                 22 | [rock](../genres/rock.md)                           |
 |                 19 | modern rock                                         |
 |                 19 | [dance pop](../genres/dance_pop.md)                 |
@@ -364,7 +364,7 @@
 |                  2 | canadian indie                                      |
 |                  2 | alternative metal                                   |
 |                  1 | visual kei                                          |
-|                  1 | viral pop                                           |
+|                  1 | [viral pop](../genres/viral_pop.md)                 |
 |                  1 | uk pop                                              |
 |                  1 | uk contemporary r&b                                 |
 |                  1 | swedish synthpop                                    |

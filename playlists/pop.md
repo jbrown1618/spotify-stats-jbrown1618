@@ -362,8 +362,8 @@
 |                300 | [pop](../genres/pop.md)                         |
 |                188 | [dance pop](../genres/dance_pop.md)             |
 |                 47 | [post-teen pop](../genres/post_teen_pop.md)     |
-|                 27 | [electropop](../genres/electropop.md)           |
 |                 25 | uk pop                                          |
+|                 25 | [electropop](../genres/electropop.md)           |
 |                 25 | edm                                             |
 |                 25 | [art pop](../genres/art_pop.md)                 |
 |                 20 | urban contemporary                              |
@@ -375,7 +375,7 @@
 |                 11 | [neo mellow](../genres/neo_mellow.md)           |
 |                 11 | british soul                                    |
 |                 11 | australian pop                                  |
-|                 10 | viral pop                                       |
+|                 10 | [viral pop](../genres/viral_pop.md)             |
 |                 10 | pop soul                                        |
 |                 10 | canadian pop                                    |
 |                 10 | barbadian pop                                   |
@@ -412,6 +412,7 @@
 |                  3 | modern alternative rock                         |
 |                  3 | lgbtq+ hip hop                                  |
 |                  3 | latin pop                                       |
+|                  3 | indie pop                                       |
 |                  3 | house                                           |
 |                  3 | etherpop                                        |
 |                  3 | chill r&b                                       |
@@ -426,7 +427,6 @@
 |                  2 | irish singer-songwriter                         |
 |                  2 | indy indie                                      |
 |                  2 | indiecoustica                                   |
-|                  2 | indie pop                                       |
 |                  2 | gauze pop                                       |
 |                  2 | filter house                                    |
 |                  2 | electro                                         |
