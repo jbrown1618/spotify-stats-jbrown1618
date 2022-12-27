@@ -12,13 +12,12 @@
 |                  4 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2738cab1c75d2271af37c3e2db9ab67616d0000b273d3f431dc2bee60eac129a8baab67616d0000b273e9cd59d664f597061a513038ab67616d0000b273ed10325dc317f32df83990b9" alt="" width="50" /> | [Recent Releases](../playlists/recent_releases.md) |
 |                  3 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2736017bca98dea58ceddea77c1ab67616d0000b273a0df2d59f0ae9426cba3eb36ab67616d0000b273cd723e6efb66f6ef28fac28eab67616d0000b273eb9bc74e6ced59a2638898b0" alt="" width="50" /> | [Cursed English](../playlists/cursed_english.md)   |
 |                  1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | [K-Pop 101](../playlists/k_pop_101.md)             |
-|                  1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27312626c137c7684fe1662a4f3ab67616d0000b2732ced1760b648799e697e8e02ab67616d0000b273ac815bdd584468a7aa0216e1ab67616d0000b273be123bb6b40736bf093870bd" alt="" width="50" /> | [Check Out Later](../playlists/check_out_later.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album                 | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------|:-----------------------------------------------------------|
 |                  7 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | I NEVER DIE           | [🔗](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) |
-|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | I love                | [🔗](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | I love                | [🔗](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | I trust               | [🔗](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | I burn                | [🔗](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="" width="50" /> | I am                  | [🔗](https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22) |
@@ -37,7 +36,7 @@
 
 |   Number of Tracks | Label                                                   |
 |-------------------:|:--------------------------------------------------------|
-|                 18 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)   |
+|                 17 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)   |
 |                 13 | [Universal Music LLC](../labels/universal_music_llc.md) |
 |                  3 | [Riot Games](../labels/riot_games.md)                   |
 
@@ -79,7 +78,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | DARK (X-file)               | I love                | [(G)I-DLE](_g_i_dle.md)                                                                           | [Cube Entertainment](../labels/cube_entertainment.md)   | 💚   | [🔗](https://open.spotify.com/track/4xc3JpkI8kxLwk1SJafjzh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | LOVE                        | I love                | [(G)I-DLE](_g_i_dle.md)                                                                           | [Cube Entertainment](../labels/cube_entertainment.md)   | 💚   | [🔗](https://open.spotify.com/track/6dmMXI9tVrDgFmxpjttZmF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Nxde                        | I love                | [(G)I-DLE](_g_i_dle.md)                                                                           | [Cube Entertainment](../labels/cube_entertainment.md)   | 💚   | [🔗](https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Reset                       | I love                | [(G)I-DLE](_g_i_dle.md)                                                                           | [Cube Entertainment](../labels/cube_entertainment.md)   |     | [🔗](https://open.spotify.com/track/6b5UB8AvYPTYP5AC99BYjB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Sculpture                   | I love                | [(G)I-DLE](_g_i_dle.md)                                                                           | [Cube Entertainment](../labels/cube_entertainment.md)   | 💚   | [🔗](https://open.spotify.com/track/7f9Nbqm1ds2kxGHioJtdf3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d1241debb8543af8322a7d6a" alt="" width="50" /> | POP/STARS                   | POP/STARS             | K/DA, Madison Beer, [(G)I-DLE](_g_i_dle.md), Jaira Burns, League of Legends                       | Riot Games                                              | 💚   | [🔗](https://open.spotify.com/track/5sbooPcNgIE22DwO0VNGUJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737158ec602fe6e8165cae6091" alt="" width="50" /> | THE BADDEST                 | THE BADDEST           | K/DA, [(G)I-DLE](_g_i_dle.md), Wolftyla, Bea Miller, League of Legends                            | Riot Games                                              | 💚   | [🔗](https://open.spotify.com/track/2V4Fx72svQRxrFvNT1eq5f) |

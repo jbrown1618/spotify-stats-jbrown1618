@@ -39,13 +39,14 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731ff5d88a4453ce83682ab209" alt="" width="50" /> | Our Beloved BoA #4 - SM STATION                  | [🔗](https://open.spotify.com/album/0MYodAzFX64jToQpE5jWNW) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d3f431dc2bee60eac129a8ba" alt="" width="50" /> | Beautiful Christmas                              | [🔗](https://open.spotify.com/album/1oniugll0x2gZ3l7o4z9iG) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27372ee4e2e933836a66e5869b6" alt="" width="50" /> | Be Natural - The 2nd Single                      | [🔗](https://open.spotify.com/album/4OeQ9nilS4Sy3efzt0hVFi) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | 2022 Winter SMTOWN : SMCU PALACE                 | [🔗](https://open.spotify.com/album/1HwnXJfZx8N8qDfzwUbxcw) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739acd884a943f3630236a5ca3" alt="" width="50" /> | #Cookie Jar                                      | [🔗](https://open.spotify.com/album/4W6K0DP1YlZ48JlvdKCkZh) |
 
 ## Top Record Labels
 
 |   Number of Tracks | Label                                             |
 |-------------------:|:--------------------------------------------------|
-|                 55 | [SM Entertainment](../labels/sm_entertainment.md) |
+|                 56 | [SM Entertainment](../labels/sm_entertainment.md) |
 |                  4 | [avex trax](../labels/avex_trax.md)               |
 
 ## Genres
@@ -115,4 +116,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d2ef237da7f94762997c2083" alt="" width="50" /> | Birthday                               | ‘The ReVe Festival 2022 - Birthday’              | [Red Velvet](red_velvet.md)                    | [SM Entertainment](../labels/sm_entertainment.md) | 💚   | [🔗](https://open.spotify.com/track/4LJgBT9yo0beHlaBesCFEv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d2ef237da7f94762997c2083" alt="" width="50" /> | On A Ride                              | ‘The ReVe Festival 2022 - Birthday’              | [Red Velvet](red_velvet.md)                    | [SM Entertainment](../labels/sm_entertainment.md) | 💚   | [🔗](https://open.spotify.com/track/1hYQUY06GbO7YR8QeO7Qdk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d2ef237da7f94762997c2083" alt="" width="50" /> | ZOOM                                   | ‘The ReVe Festival 2022 - Birthday’              | [Red Velvet](red_velvet.md)                    | [SM Entertainment](../labels/sm_entertainment.md) | 💚   | [🔗](https://open.spotify.com/track/18OjYSOz2ryc2vLmAeG2de) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d3f431dc2bee60eac129a8ba" alt="" width="50" /> | Beautiful Christmas                    | Beautiful Christmas                              | [Red Velvet](red_velvet.md), [aespa](aespa.md) | [SM Entertainment](../labels/sm_entertainment.md) | 💚   | [🔗](https://open.spotify.com/track/3k7FTBQkstaBcYHamx9jqe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d3f431dc2bee60eac129a8ba" alt="" width="50" /> | Beautiful Christmas                    | Beautiful Christmas                              | [Red Velvet](red_velvet.md), [aespa](aespa.md) | [SM Entertainment](../labels/sm_entertainment.md) |     | [🔗](https://open.spotify.com/track/3k7FTBQkstaBcYHamx9jqe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Beautiful Christmas                    | 2022 Winter SMTOWN : SMCU PALACE                 | [Red Velvet](red_velvet.md), [aespa](aespa.md) | [SM Entertainment](../labels/sm_entertainment.md) | 💚   | [🔗](https://open.spotify.com/track/1MsWVb6YW3AknP1EAZaKOQ) |

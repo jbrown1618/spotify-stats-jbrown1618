@@ -1,16 +1,16 @@
 # soft rock
 
-[58 songs](soft_rock_tracks.md)
+[57 songs](soft_rock_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 22 artists](../images/genres/soft_rock/artists.png)
+![Bar chart of top 21 artists](../images/genres/soft_rock/artists.png)
 
 ![Comparison of Artist](../images/genres/soft_rock/artists_comparison.png)
 
 
 <details>
-<summary>See all 22 artists</summary>
+<summary>See all 21 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                                 | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------|:------------------------------------------------------------|
@@ -24,7 +24,6 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebe924bdfec5ce73220c15cd25" alt="" width="50" /> | Kansas                                                 | [🔗](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb1f764c8f69b595efe77e1c45" alt="" width="50" /> | Paul Simon                                             | [🔗](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb0767e116a2307495e37cd7fb" alt="" width="50" /> | Eagles                                                 | [🔗](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) |
-|                  1 | <img src="https://i.scdn.co/image/ad5dbe5032b439728af9e711e8c0922a3aebcdbb" alt="" width="50" /> | Peter Gabriel                                          | [🔗](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb21a213a4fe1a6f9b45d3f7f9" alt="" width="50" /> | Commodores                                             | [🔗](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb624ddceb90bdf808ed4e2e35" alt="" width="50" /> | Steve Miller Band                                      | [🔗](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb338d6964565206f741d5ad1" alt="" width="50" /> | Foreigner                                              | [🔗](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) |
@@ -45,7 +44,7 @@
 
 
 <details>
-<summary>See all 43 albums</summary>
+<summary>See all 42 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                          | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------|:-----------------------------------------------------------|
@@ -74,7 +73,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f4a2ccbe20d6d52f16816812" alt="" width="50" /> | Rocky IV                                       | [🔗](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27359f0f56a7cd13526b5b4204c" alt="" width="50" /> | Point Of Know Return (Expanded Edition)        | [🔗](https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" alt="" width="50" /> | Pieces Of Eight                                | [🔗](https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fe28f2179e0529ae0520f3bd" alt="" width="50" /> | Peter Gabriel 1: Car (Remastered Version)      | [🔗](https://open.spotify.com/album/4jd6oC0It60c1J3GpXCv6M) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27369bb57791f9859f2695391f7" alt="" width="50" /> | Moondance (Expanded Edition)                   | [🔗](https://open.spotify.com/album/6yNYC35npMBHbxG0Vle83O) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f22514855a9a8356664340fb" alt="" width="50" /> | Moondance (Deluxe Edition)                     | [🔗](https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1113af3a19a41dc8eec534e" alt="" width="50" /> | Luck Of The Draw                               | [🔗](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) |
@@ -98,11 +96,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 17 record labels](../images/genres/soft_rock/labels.png)
+![Bar chart of top 16 record labels](../images/genres/soft_rock/labels.png)
 
 
 <details>
-<summary>See all 17 labels</summary>
+<summary>See all 16 labels</summary>
 
 |   Number of Tracks | Label                                                               |
 |-------------------:|:--------------------------------------------------------------------|
@@ -118,7 +116,6 @@
 |                  2 | [Legacy Recordings](../labels/legacy_recordings.md)                 |
 |                  1 | [Volcano](../labels/volcano.md)                                     |
 |                  1 | [Rhino Atlantic](../labels/rhino_atlantic.md)                       |
-|                  1 | [Real World Productions](../labels/real_world_productions.md)       |
 |                  1 | [MOTOWN](../labels/motown.md)                                       |
 |                  1 | [Capitol Records](../labels/capitol_records.md)                     |
 |                  1 | [CAPITOL CATALOG MKT (C92)](../labels/capitol_catalog_mkt__c92_.md) |
@@ -157,11 +154,11 @@
 
 | 10 most Speechy tracks            | 10 least Speechy tracks          |
 |:----------------------------------|:---------------------------------|
-| Only the Good Die Young           | Rhiannon                         |
-| Scenes from an Italian Restaurant | Solsbury Hill                    |
+| Only the Good Die Young           | Sara - 2015 Remaster             |
+| Scenes from an Italian Restaurant | Rhiannon                         |
 | Big Shot                          | Dust in the Wind                 |
-| Crazy Love - 2013 Remaster        | Dreams - 2004 Remaster           |
-| The Stranger                      | Piano Man                        |
+| Crazy Love - 2013 Remaster        | Piano Man                        |
+| The Stranger                      | Dreams - 2004 Remaster           |
 | Crazy Love                        | Cold as Ice                      |
 | Can't Take My Eyes off You        | Hotel California - 2013 Remaster |
 | The River of Dreams               | A Matter of Trust                |
@@ -183,15 +180,15 @@
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| Rhiannon                      | Don't Stop Believin'           |
-| 25 or 6 to 4                  | Cat's in the Cradle            |
-| Sara - 2015 Remaster          | We Didn't Start the Fire       |
-| Fields Of Gold                | Uptown Girl                    |
-| Stayin Alive                  | The Longest Time               |
-| Lights                        | Vienna                         |
-| You Can Call Me Al            | And So It Goes                 |
-| Dreams - 2004 Remaster        | Lullabye (Goodnight, My Angel) |
-| I Feel the Earth Move         | Only the Good Die Young        |
+| Rhiannon                      | Lullabye (Goodnight, My Angel) |
+| 25 or 6 to 4                  | We Didn't Start the Fire       |
+| Sara - 2015 Remaster          | Vienna                         |
+| Fields Of Gold                | The Longest Time               |
+| Stayin Alive                  | Uptown Girl                    |
+| Lights                        | Don't Ask Me Why               |
+| You Can Call Me Al            | Cat's in the Cradle            |
+| Dreams - 2004 Remaster        | Brown Eyed Girl                |
+| I Feel the Earth Move         | Don't Stop Believin'           |
 | My Life                       | Cold as Ice                    |
 
 | 10 most Live tracks      | 10 least Live tracks             |
@@ -204,15 +201,15 @@
 | We Didn't Start the Fire | Movin' Out (Anthony's Song)      |
 | Lights                   | Hotel California - 2013 Remaster |
 | New York State of Mind   | My Life                          |
-| Solsbury Hill            | I Feel the Earth Move            |
-| Piano Man                | The Chain - 2004 Remaster        |
+| Piano Man                | I Feel the Earth Move            |
+| A Matter of Trust        | The Chain - 2004 Remaster        |
 
 | 10 most Happy tracks            | 10 least Happy tracks          |
 |:--------------------------------|:-------------------------------|
 | Stayin Alive                    | Fields Of Gold                 |
 | Brown Eyed Girl                 | Vienna                         |
-| We Didn't Start the Fire        | And So It Goes                 |
-| Movin' Out (Anthony's Song)     | The Stranger                   |
+| Movin' Out (Anthony's Song)     | And So It Goes                 |
+| We Didn't Start the Fire        | The Stranger                   |
 | A Matter of Trust               | Lullabye (Goodnight, My Angel) |
 | Take on Me                      | She's Got a Way                |
 | Don't Ask Me Why                | New York State of Mind         |

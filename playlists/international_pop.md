@@ -305,7 +305,7 @@
 
 
 <details>
-<summary>See all 96 genres</summary>
+<summary>See all 95 genres</summary>
 
 |   Number of Tracks | Genre                                 |
 |-------------------:|:--------------------------------------|
@@ -396,7 +396,6 @@
 |                  1 | eurobeat                              |
 |                  1 | escape room                           |
 |                  1 | [electropop](../genres/electropop.md) |
-|                  1 | desi hip hop                          |
 |                  1 | dancehall                             |
 |                  1 | classic mandopop                      |
 |                  1 | chiptune                              |

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273028c3bb4b81ee71dd73d1596ab67616d0000b27392c885317fbe4bfa680109b4ab67616d0000b273d0ec2db731952a7efabc6397ab67616d0000b273df55e326ed144ab4f5cecf95" alt="Indie/Alternative" width="100" />
 
-[174 songs](indie_alternative_tracks.md)
+[177 songs](indie_alternative_tracks.md)
 
 ## Top Artists
 
@@ -13,7 +13,7 @@
 
 
 <details>
-<summary>See all 80 artists</summary>
+<summary>See all 81 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                                         | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------|:------------------------------------------------------------|
@@ -28,10 +28,10 @@
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410" alt="" width="50" /> | Clean Bandit                                                   | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb5f772eb53e18d4c2d7ffe744" alt="" width="50" /> | Andrew Joslyn                                                  | [🔗](https://open.spotify.com/artist/5dSCgfYs71v0zjg2AwUq9n) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb6eff35941dca1f9461944174" alt="" width="50" /> | Elizaveta                                                      | [🔗](https://open.spotify.com/artist/2a9bCkqCkLvXM0s3uPvR7M) |
+|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | Muse                                                           | [🔗](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) |
 |                  4 | <img src="https://i.scdn.co/image/da5f4b11c665b4d17c7ed24eb23949c046208dcd" alt="" width="50" /> | Jem                                                            | [🔗](https://open.spotify.com/artist/4v4xuH9VypORYabMnhPLt1) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eba36a9f95d59ab791d5e897e9" alt="" width="50" /> | Regina Spektor                                                 | [🔗](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ed29d6d48829666efc8f609" alt="" width="50" /> | Nightwish                                                      | [🔗](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) |
-|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | Muse                                                           | [🔗](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8457f57bc526c37bd804b924" alt="" width="50" /> | KT Tunstall                                                    | [🔗](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb3fb5214e667e278a20878a6b" alt="" width="50" /> | alt-J                                                          | [🔗](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb1b9743970d802c36233125b3" alt="" width="50" /> | Steam Powered Giraffe                                          | [🔗](https://open.spotify.com/artist/1yqs45BSh7457Flyhmdv7f) |
@@ -42,6 +42,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb60c3e9abe7327c0097738f22" alt="" width="50" /> | Sean Paul                                                      | [🔗](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf01bf904b446e4a043acb867" alt="" width="50" /> | The Script                                                     | [🔗](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb9ba4d95b74bacff4d5747f61" alt="" width="50" /> | Hozier                                                         | [🔗](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb576cb43281160e345f728b71" alt="" width="50" /> | Charli XCX                                                     | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb378adae733fc578108e3f534" alt="" width="50" /> | Death Cab for Cutie                                            | [🔗](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb78b9bf3dfa09b90ec0aac135" alt="" width="50" /> | half•alive                                                     | [🔗](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4900a06db4e96dd1444300d4" alt="" width="50" /> | ONE OK ROCK                                                    | [🔗](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) |
@@ -81,8 +82,8 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb740bae2676885855f3e5b05a" alt="" width="50" /> | Tove Styrke                                                    | [🔗](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd6442ba68c144b0c84b207a4" alt="" width="50" /> | Rina Sawayama                                                  | [🔗](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) |
 |                  1 | <img src="https://i.scdn.co/image/713664fded8bdd28ed84f4b2054815af92999b9c" alt="" width="50" /> | Gotye                                                          | [🔗](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb576cb43281160e345f728b71" alt="" width="50" /> | Charli XCX                                                     | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0f625b6df41bdd56196351bf" alt="" width="50" /> | Anne-Marie                                                     | [🔗](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb65b7b48eeac1b113c75f2295" alt="" width="50" /> | YB                                                             | [🔗](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0812e8d85a4cc98cbc3bf2c" alt="" width="50" /> | Metric                                                         | [🔗](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba63a2b0ceb57eb509d67c90f" alt="" width="50" /> | Zara Larsson                                                   | [🔗](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb90b6980f0ddd2a5c3d6a400f" alt="" width="50" /> | Lerin Herzer                                                   | [🔗](https://open.spotify.com/artist/1O3tPNfosJcQQNI6wmR5Xt) |
@@ -107,7 +108,7 @@
 
 
 <details>
-<summary>See all 97 albums</summary>
+<summary>See all 99 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                                      | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -137,6 +138,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | The Script                                                                 | [🔗](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27315d01f89c4963e1bbb495697" alt="" width="50" /> | The Execution Of All Things                                                | [🔗](https://open.spotify.com/album/23EqcK0ZR1ravQaEsGpQyH) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a4aa9c49f8fedf1df4f84051" alt="" width="50" /> | The 2¢ Show                                                                | [🔗](https://open.spotify.com/album/4DECRyKlhKJgjZLLuvfAI6) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="" width="50" /> | The 2nd Law                                                                | [🔗](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c985bcc18dd81da80839e5a9" alt="" width="50" /> | Plans                                                                      | [🔗](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190" alt="" width="50" /> | Lust For Life                                                              | [🔗](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="" width="50" /> | In Rainbows                                                                | [🔗](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) |
@@ -160,7 +162,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27369b3dd10eee85bb2652c3b05" alt="" width="50" /> | The Golden Echo                                                            | [🔗](https://open.spotify.com/album/66hoUkjxM7tVQwu7bZocwP) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273583baf9d926658beeb94c754" alt="" width="50" /> | The Girl and the Ghost                                                     | [🔗](https://open.spotify.com/album/1e1qx3O2gLpmLuVE7OEfxp) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f69bd9abbfeb819840993207" alt="" width="50" /> | The Downward Spiral                                                        | [🔗](https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="" width="50" /> | The 2nd Law                                                                | [🔗](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732ced1760b648799e697e8e02" alt="" width="50" /> | Taxidriver OST Part.1                                                      | [🔗](https://open.spotify.com/album/3PNXlS9tggXmCm1hrlHDcQ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730d0837e34a3fcc57de9fc93d" alt="" width="50" /> | Sway                                                                       | [🔗](https://open.spotify.com/album/3fSRbKgYW6kcR1ZFMaaNV4) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273465828f135d5dc4e627963a9" alt="" width="50" /> | SuperRock (All Folked Up)                                                  | [🔗](https://open.spotify.com/album/4PEc1CBBlhpGzswmWjLyFK) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d2efe43d5b7ebc7cb60ca81" alt="" width="50" /> | Strange Trails                                                             | [🔗](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) |
@@ -198,6 +200,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738a2de91e5b26f31388d4c049" alt="" width="50" /> | Darling                                                                    | [🔗](https://open.spotify.com/album/7pDkPCnYRapjr8dXcwkNIB) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27345637d4f339bac296ba9d5e7" alt="" width="50" /> | Dark Passion Play                                                          | [🔗](https://open.spotify.com/album/4oOfQhhbHBfIcIDwuJjwTy) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="" width="50" /> | Chosen                                                                     | [🔗](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="" width="50" /> | CRASH                                                                      | [🔗](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734b20e4a8e06f19bcd51a5406" alt="" width="50" /> | Bombs Away                                                                 | [🔗](https://open.spotify.com/album/2Yi29VOccHCwktsZNqtxbt) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731a104e8630a97b573201f655" alt="" width="50" /> | Blue Neighbourhood (Deluxe)                                                | [🔗](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b0ed835957dbf3c63184a3bc" alt="" width="50" /> | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] | [🔗](https://open.spotify.com/album/6snPKZGUbpydW2XJu9ievq) |
@@ -218,11 +221,11 @@
 
 
 <details>
-<summary>See all 65 labels</summary>
+<summary>See all 67 labels</summary>
 
 |   Number of Tracks | Label                                                                                     |
 |-------------------:|:------------------------------------------------------------------------------------------|
-|                 21 | [Warner Records](../labels/warner_records.md)                                             |
+|                 22 | [Warner Records](../labels/warner_records.md)                                             |
 |                 18 | [Polydor Records](../labels/polydor_records.md)                                           |
 |                 15 | [Universal-Island Records Ltd.](../labels/universal_island_records_ltd_.md)               |
 |                 15 | [RCA Records Label](../labels/rca_records_label.md)                                       |
@@ -235,6 +238,7 @@
 |                  4 | [Virgin Records](../labels/virgin_records.md)                                             |
 |                  4 | [Universal Music LLC](../labels/universal_music_llc.md)                                   |
 |                  4 | [Sire](../labels/sire.md)                                                                 |
+|                  4 | [Atlantic Records](../labels/atlantic_records.md)                                         |
 |                  4 | [ATO Records](../labels/ato_records.md)                                                   |
 |                  3 | [Steam Powered Giraffe](../labels/steam_powered_giraffe.md)                               |
 |                  3 | [Sony BMG Music UK](../labels/sony_bmg_music_uk.md)                                       |
@@ -243,7 +247,6 @@
 |                  3 | [Canvasback](../labels/canvasback.md)                                                     |
 |                  3 | [Brute](../labels/brute.md)                                                               |
 |                  3 | [Beaute](../labels/beaute.md)                                                             |
-|                  3 | [Atlantic Records](../labels/atlantic_records.md)                                         |
 |                  3 | [ATL](../labels/atl.md)                                                                   |
 |                  2 | [Spin-Farm Oy](../labels/spin_farm_oy.md)                                                 |
 |                  2 | [Saddle Creek](../labels/saddle_creek.md)                                                 |
@@ -264,12 +267,14 @@
 |                  1 | [TVT Records](../labels/tvt_records.md)                                                   |
 |                  1 | [Superpop.Co](../labels/superpop_co.md)                                                   |
 |                  1 | [Silent Records](../labels/silent_records.md)                                             |
+|                  1 | [SBS Contents Hub Co.](../labels/sbs_contents_hub_co_.md)                                 |
 |                  1 | [Roadrunner Records](../labels/roadrunner_records.md)                                     |
 |                  1 | [Riot Games](../labels/riot_games.md)                                                     |
 |                  1 | [Republic Records](../labels/republic_records.md)                                         |
 |                  1 | [RCA Victor](../labels/rca_victor.md)                                                     |
 |                  1 | [Parlophone Denmark](../labels/parlophone_denmark.md)                                     |
 |                  1 | [Not specified](../labels/not_specified.md)                                               |
+|                  1 | [Music Recipe](../labels/music_recipe.md)                                                 |
 |                  1 | [Metric Music International](../labels/metric_music_international.md)                     |
 |                  1 | [Merge Records](../labels/merge_records.md)                                               |
 |                  1 | [Mercury Records](../labels/mercury_records.md)                                           |
@@ -301,29 +306,29 @@
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
-|                 58 | [pop](../genres/pop.md)                             |
-|                 24 | indie pop                                           |
-|                 22 | [rock](../genres/rock.md)                           |
-|                 19 | modern rock                                         |
+|                 59 | [pop](../genres/pop.md)                             |
+|                 23 | [rock](../genres/rock.md)                           |
+|                 23 | indie pop                                           |
+|                 20 | modern rock                                         |
 |                 19 | [dance pop](../genres/dance_pop.md)                 |
-|                 18 | [art pop](../genres/art_pop.md)                     |
+|                 19 | [art pop](../genres/art_pop.md)                     |
 |                 17 | [lilith](../genres/lilith.md)                       |
+|                 17 | [electropop](../genres/electropop.md)               |
 |                 17 | baroque pop                                         |
 |                 16 | uk alternative pop                                  |
-|                 16 | [electropop](../genres/electropop.md)               |
-|                 15 | permanent wave                                      |
+|                 16 | permanent wave                                      |
 |                 14 | indie rock                                          |
 |                 14 | alternative rock                                    |
 |                 13 | nz pop                                              |
 |                 13 | bergen indie                                        |
-|                 11 | metropopolis                                        |
+|                 12 | metropopolis                                        |
 |                 11 | australian pop                                      |
 |                 10 | [pop rock](../genres/pop_rock.md)                   |
 |                 10 | oxford indie                                        |
 |                 10 | melancholia                                         |
 |                 10 | art rock                                            |
+|                  9 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                  9 | etherpop                                            |
-|                  8 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                  8 | nyc pop                                             |
 |                  8 | australian dance                                    |
 |                  7 | anti-folk                                           |
@@ -335,6 +340,7 @@
 |                  5 | pop dance                                           |
 |                  5 | edm                                                 |
 |                  5 | deep indie singer-songwriter                        |
+|                  5 | candy pop                                           |
 |                  4 | symphonic metal                                     |
 |                  4 | power metal                                         |
 |                  4 | piano rock                                          |
@@ -344,7 +350,6 @@
 |                  4 | gothic metal                                        |
 |                  4 | finnish power metal                                 |
 |                  4 | finnish metal                                       |
-|                  4 | candy pop                                           |
 |                  4 | canadian pop                                        |
 |                  3 | stomp and holler                                    |
 |                  3 | steampunk                                           |
@@ -352,6 +357,8 @@
 |                  3 | comic                                               |
 |                  3 | [acoustic pop](../genres/acoustic_pop.md)           |
 |                  2 | washington indie                                    |
+|                  2 | uk pop                                              |
+|                  2 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  2 | shiver pop                                          |
 |                  2 | pop punk                                            |
 |                  2 | pop emo                                             |
@@ -364,8 +371,7 @@
 |                  2 | canadian indie                                      |
 |                  2 | alternative metal                                   |
 |                  1 | visual kei                                          |
-|                  1 | [viral pop](../genres/viral_pop.md)                 |
-|                  1 | uk pop                                              |
+|                  1 | viral pop                                           |
 |                  1 | uk contemporary r&b                                 |
 |                  1 | swedish synthpop                                    |
 |                  1 | swedish pop                                         |
@@ -373,13 +379,13 @@
 |                  1 | swedish electropop                                  |
 |                  1 | swedish alternative rock                            |
 |                  1 | spacegrunge                                         |
-|                  1 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  1 | shimmer pop                                         |
 |                  1 | nu metal                                            |
 |                  1 | nu jazz                                             |
 |                  1 | new rave                                            |
 |                  1 | neo-synthpop                                        |
 |                  1 | lo-fi                                               |
+|                  1 | korean indie rock                                   |
 |                  1 | [k-pop girl group](../genres/k_pop_girl_group.md)   |
 |                  1 | japanese emo                                        |
 |                  1 | j-rock                                              |
@@ -400,7 +406,6 @@
 |                  1 | downtempo                                           |
 |                  1 | danish pop                                          |
 |                  1 | cyberpunk                                           |
-|                  1 | canadian singer-songwriter                          |
 
 </details>
 
@@ -422,7 +427,7 @@
 
 | 10 most Energetic tracks   | 10 least Energetic tracks       |
 |:---------------------------|:--------------------------------|
-| Knights of Cydonia         | Icarus                          |
+| Knights of Cydonia         | Odi Et Amo                      |
 | End Of All Hope            | Dreamer                         |
 | My Happy Ending            | I Will Follow You into the Dark |
 | Everybody Talks            | Norman fucking Rockwell         |
@@ -448,8 +453,8 @@
 
 | 10 most Acoustic tracks         | 10 least Acoustic tracks   |
 |:--------------------------------|:---------------------------|
-| Mad World                       | Everybody Talks            |
-| The Night We Met                | Misery Business            |
+| Mad World                       | Misery Business            |
+| The Night We Met                | SILENCE                    |
 | Norman fucking Rockwell         | Kiss With A Fist           |
 | Meant to Move                   | Maniac                     |
 | Used                            | My Happy Ending            |
@@ -457,33 +462,33 @@
 | I Will Follow You into the Dark | Knights of Cydonia         |
 | Hide and Seek                   | Nemo                       |
 | Plain Gold Ring                 | End Of All Hope            |
-| Fuck it I love you              | The Phantom Of The Opera   |
+| Unknown (To You)                | The Phantom Of The Opera   |
 
 | 10 most Instrumental tracks    | 10 least Instrumental tracks     |
 |:-------------------------------|:---------------------------------|
 | A Better Son/Daughter          | Cameo Lover                      |
-| Weird Fishes/ Arpeggi          | Hide and Seek                    |
-| Street Spirit (Fade Out)       | Two Way Street                   |
-| 1979 - Remastered 2012         | You Oughta Know                  |
-| Coal Miners                    | Black Horse And The Cherry Tree  |
-| Pyramid Song                   | G Train                          |
-| Swan Song                      | Come On Closer                   |
-| The Night We Met               | Automatonic Electronic Harmonics |
-| Mantra for a Struggling Artist | Breakeven                        |
-| Meant to Move                  | You've Got The Love              |
+| Animals                        | Hide and Seek                    |
+| Weird Fishes/ Arpeggi          | Two Way Street                   |
+| Street Spirit (Fade Out)       | You Oughta Know                  |
+| 1979 - Remastered 2012         | Black Horse And The Cherry Tree  |
+| Coal Miners                    | G Train                          |
+| Pyramid Song                   | Come On Closer                   |
+| Swan Song                      | Automatonic Electronic Harmonics |
+| The Night We Met               | Breakeven                        |
+| Mantra for a Struggling Artist | You've Got The Love              |
 
-| 10 most Live tracks                     | 10 least Live tracks                                                       |
-|:----------------------------------------|:---------------------------------------------------------------------------|
-| Bel Air                                 | The Other Side Of Paradise                                                 |
-| Whatever We Feel                        | Stressed Out                                                               |
-| You Oughta Know                         | Say My Name                                                                |
-| Radioactive                             | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] |
-| The Night We Met                        | Icarus                                                                     |
-| Saw It Coming                           | Paranoid Android                                                           |
-| No Light, No Light                      | 1979 - Remastered 2012                                                     |
-| Darling                                 | still feel.                                                                |
-| Off To The Races                        | Seven Devils                                                               |
-| Rockabye (feat. Sean Paul & Anne-Marie) | Ain't It Fun                                                               |
+| 10 most Live tracks   | 10 least Live tracks                                                       |
+|:----------------------|:---------------------------------------------------------------------------|
+| Bel Air               | The Other Side Of Paradise                                                 |
+| Whatever We Feel      | Stressed Out                                                               |
+| You Oughta Know       | Say My Name                                                                |
+| Animals               | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] |
+| Radioactive           | Icarus                                                                     |
+| The Night We Met      | Paranoid Android                                                           |
+| Saw It Coming         | 1979 - Remastered 2012                                                     |
+| No Light, No Light    | still feel.                                                                |
+| Darling               | Seven Devils                                                               |
+| Off To The Races      | Ain't It Fun                                                               |
 
 | 10 most Happy tracks                                                       | 10 least Happy tracks            |
 |:---------------------------------------------------------------------------|:---------------------------------|

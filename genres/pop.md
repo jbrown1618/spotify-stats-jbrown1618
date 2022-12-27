@@ -1,6 +1,6 @@
 # pop
 
-[509 songs](pop_tracks.md)
+[505 songs](pop_tracks.md)
 
 ## Top Artists
 
@@ -14,7 +14,7 @@
 
 |   Number of Tracks | Art                                                                                              | Artist                                                         | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------|:------------------------------------------------------------|
-|                 63 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | [Taylor Swift](../artists/taylor_swift.md)                     | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
+|                 60 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | [Taylor Swift](../artists/taylor_swift.md)                     | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 |                 59 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../artists/sara_bareilles.md)                 | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 |                 25 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../artists/ariana_grande.md)                   | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 |                 23 | <img src="https://i.scdn.co/image/ab6761610000e5eb916392fe8c66d0c993657b6d" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md)                               | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
@@ -130,10 +130,10 @@
 |                 13 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | Kaleidoscope Heart                         | [🔗](https://open.spotify.com/album/627ukPRwYxyBREHxBq0vGJ) |
 |                 12 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | The Blessed Unrest                         | [🔗](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) |
 |                 12 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Little Voice                               | [🔗](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) |
-|                 11 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Midnights                                  | [🔗](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) |
 |                 10 | <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | reputation                                 | [🔗](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) |
 |                 10 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | folklore                                   | [🔗](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) |
 |                 10 | <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | Amidst the Chaos (Bonus Version)           | [🔗](https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm) |
+|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Midnights                                  | [🔗](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) |
 |                  8 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Lover                                      | [🔗](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) |
 |                  8 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="" width="50" /> | 1989                                       | [🔗](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) |
 |                  7 | <img src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" alt="" width="50" /> | Future Nostalgia                           | [🔗](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) |
@@ -210,7 +210,6 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342" alt="" width="50" /> | A Star Is Born Soundtrack                  | [🔗](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="" width="50" /> | A Rush of Blood to the Head                | [🔗](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1db30cc6d74a08a5e14274" alt="" width="50" /> | 24℃                                        | [🔗](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737bc333ff94bcb174a817e346" alt="" width="50" /> | this is what falling in love feels like    | [🔗](https://open.spotify.com/album/61haUqRaA5Et20JVbArrmU) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27355c38bc34d1fe852f2657c2e" alt="" width="50" /> | minor                                      | [🔗](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27326a2f5224465a369f8abbf88" alt="" width="50" /> | lovestrong.                                | [🔗](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c" alt="" width="50" /> | lovely (with Khalid)                       | [🔗](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK) |
@@ -227,6 +226,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27341aa6776dc15fbd71a2b4557" alt="" width="50" /> | Youngblood (Deluxe)                        | [🔗](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2" alt="" width="50" /> | Young And Beautiful                        | [🔗](https://open.spotify.com/album/1D92WOHWUI2AGQCCdplcXL) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731d883d3f10af481faa3c7e04" alt="" width="50" /> | You Don't Know Me                          | [🔗](https://open.spotify.com/album/3gdmWRWWJmkp5uMBXf755B) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="" width="50" /> | Yoga                                       | [🔗](https://open.spotify.com/album/5rzxGeVyCV74SvV5hjLRAU) |
 
 </details>
 
@@ -243,8 +243,8 @@
 |-------------------:|:--------------------------------------------------------------------------------------------------------------------|
 |                 79 | [Epic](../labels/epic.md)                                                                                           |
 |                 36 | [Columbia](../labels/columbia.md)                                                                                   |
-|                 33 | [Taylor Swift](../labels/taylor_swift.md)                                                                           |
 |                 31 | [Interscope](../labels/interscope.md)                                                                               |
+|                 30 | [Taylor Swift](../labels/taylor_swift.md)                                                                           |
 |                 29 | [Big Machine Records](../labels/big_machine_records.md)                                                             |
 |                 26 | [RCA Records Label](../labels/rca_records_label.md)                                                                 |
 |                 24 | [Polydor Records](../labels/polydor_records.md)                                                                     |
@@ -325,7 +325,6 @@
 |                  1 | [Mockingjay](../labels/mockingjay.md)                                                                               |
 |                  1 | [MORE VISION](../labels/more_vision.md)                                                                             |
 |                  1 | [Jonas Brothers Recording](../labels/jonas_brothers_recording.md)                                                   |
-|                  1 | [JVKE](../labels/jvke.md)                                                                                           |
 |                  1 | [IDJ](../labels/idj.md)                                                                                             |
 |                  1 | [Hunger Games 3](../labels/hunger_games_3.md)                                                                       |
 |                  1 | [Gracie Abrams](../labels/gracie_abrams.md)                                                                         |
@@ -341,6 +340,7 @@
 |                  1 | [Def Soul](../labels/def_soul.md)                                                                                   |
 |                  1 | [Def Jam](../labels/def_jam.md)                                                                                     |
 |                  1 | [Decca (UMO)](../labels/decca__umo_.md)                                                                             |
+|                  1 | [DJ Snake Music Productions Limited](../labels/dj_snake_music_productions_limited.md)                               |
 
 </details>
 
@@ -353,11 +353,11 @@
 | Anaconda                        | La Vie En Rose              |
 | WAP (feat. Megan Thee Stallion) | Once Upon Another Time      |
 | Billie Jean                     | Gravity                     |
-| Pretty Please                   | Shades Of Cool              |
-| bury a friend                   | Stay                        |
-| Sally Walker                    | Norman fucking Rockwell     |
-| 1, 2, 3, 4                      | Already Gone                |
-| Coño                            | Fix You                     |
+| Pretty Please                   | Stay                        |
+| Sally Walker                    | Shades Of Cool              |
+| 1, 2, 3, 4                      | Norman fucking Rockwell     |
+| bury a friend                   | Fix You                     |
+| Coño                            | Already Gone                |
 | I Think He Knows                | Born To Die                 |
 
 | 10 most Energetic tracks        | 10 least Energetic tracks                                                         |
@@ -376,13 +376,13 @@
 | 10 most Speechy tracks          | 10 least Speechy tracks        |
 |:--------------------------------|:-------------------------------|
 | Youngblood                      | Travelin' Soldier              |
-| boyfriend (with Social House)   | She's In The Rain              |
-| Hold Up                         | no body, no crime (feat. HAIM) |
+| boyfriend (with Social House)   | no body, no crime (feat. HAIM) |
+| Hold Up                         | She's In The Rain              |
 | Vigilante Shit                  | Begin Again                    |
 | Irreplaceable                   | Chasing Pavements              |
-| WAP (feat. Megan Thee Stallion) | Set Fire to the Rain           |
-| bad guy                         | The Scientist                  |
-| Bubblegum (feat. Tyga)          | All Too Well                   |
+| bad guy                         | Set Fire to the Rain           |
+| WAP (feat. Megan Thee Stallion) | All Too Well                   |
+| Bubblegum (feat. Tyga)          | The Scientist                  |
 | 7 rings                         | Breakeven                      |
 | bury a friend                   | Satellite Call                 |
 
@@ -401,16 +401,16 @@
 
 | 10 most Instrumental tracks     | 10 least Instrumental tracks    |
 |:--------------------------------|:--------------------------------|
-| everything i wanted             | Big Girls Cry                   |
-| Labyrinth                       | Eye of the Needle               |
-| Smooth Criminal - 2012 Remaster | In the Name of Love             |
-| Swan Song                       | Sucker                          |
-| Wanna Be Startin' Somethin'     | Cry for Me                      |
-| you should see me in a crown    | Please Me                       |
-| bury a friend                   | WAP (feat. Megan Thee Stallion) |
-| Therefore I Am                  | F**kin' Perfect                 |
-| bad guy                         | Living Proof                    |
-| This Is What You Came For       | Say You're Sorry                |
+| everything i wanted             | Summertime Sadness              |
+| Smooth Criminal - 2012 Remaster | Lonely (with benny blanco)      |
+| Swan Song                       | Off My Face                     |
+| Wanna Be Startin' Somethin'     | Boss Bitch                      |
+| you should see me in a crown    | Truth Hurts                     |
+| bury a friend                   | Need to Know                    |
+| Therefore I Am                  | Womanizer                       |
+| bad guy                         | Please Me                       |
+| This Is What You Came For       | WAP (feat. Megan Thee Stallion) |
+| Bel Air                         | Say You're Sorry                |
 
 | 10 most Live tracks                                                               | 10 least Live tracks             |
 |:----------------------------------------------------------------------------------|:---------------------------------|
@@ -427,13 +427,13 @@
 
 | 10 most Happy tracks            | 10 least Happy tracks            |
 |:--------------------------------|:---------------------------------|
-| Material Girl                   | How Big, How Blue, How Beautiful |
-| Like a Virgin                   | Skyfall                          |
-| There's Nothing Holdin' Me Back | Yellow Flicker Beat              |
-| SexyBack (feat. Timbaland)      | Falling                          |
-| I'm a Slave 4 U                 | Once Upon Another Time           |
-| P.Y.T. (Pretty Young Thing)     | xanny                            |
-| 1, 2, 3, 4                      | No Time To Die                   |
-| Sucker                          | Delicate                         |
+| Material Girl                   | Dress                            |
+| Like a Virgin                   | How Big, How Blue, How Beautiful |
+| There's Nothing Holdin' Me Back | Skyfall                          |
+| SexyBack (feat. Timbaland)      | Yellow Flicker Beat              |
+| I'm a Slave 4 U                 | Falling                          |
+| P.Y.T. (Pretty Young Thing)     | Once Upon Another Time           |
+| 1, 2, 3, 4                      | xanny                            |
+| Sucker                          | No Time To Die                   |
+| I Choose You                    | Delicate                         |
 | Don't Stop 'Til You Get Enough  | Swan Song                        |
-| I Choose You                    | Maroon                           |

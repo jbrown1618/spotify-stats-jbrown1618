@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="Pop" width="100" />
 
-[351 songs](pop_tracks.md)
+[354 songs](pop_tracks.md)
 
 ## Top Artists
 
@@ -77,6 +77,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)                       | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb60c3e9abe7327c0097738f22" alt="" width="50" /> | Sean Paul                                      | [🔗](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb9ba4d95b74bacff4d5747f61" alt="" width="50" /> | Hozier                                         | [🔗](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb576cb43281160e345f728b71" alt="" width="50" /> | Charli XCX                                     | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd09edfd2babfc9fd2ba748e" alt="" width="50" /> | Daniel Caesar                                  | [🔗](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5acb3cb0a8b87d3952738b97" alt="" width="50" /> | Fifth Harmony                                  | [🔗](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | Christina Aguilera                             | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
@@ -116,7 +117,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb66d17ee8690d2e8d94ee7387" alt="" width="50" /> | Martin Garrix                                  | [🔗](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfec47253dbf18efd8b80c5d8" alt="" width="50" /> | Stellar                                        | [🔗](https://open.spotify.com/artist/5yw4tA8D5uG7tT3NaDvq10) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb46416642da7b30327821d26e" alt="" width="50" /> | A Great Big World                              | [🔗](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b4b7eaaf58759b58626de37" alt="" width="50" /> | Skrillex                                       | [🔗](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) |
 
 </details>
 
@@ -248,8 +248,8 @@
 |                 30 | [Interscope](../labels/interscope.md)                                                                       |
 |                 29 | [Big Machine Records](../labels/big_machine_records.md)                                                     |
 |                 27 | [RCA Records Label](../labels/rca_records_label.md)                                                         |
+|                 23 | [Atlantic Records](../labels/atlantic_records.md)                                                           |
 |                 21 | [Taylor Swift](../labels/taylor_swift.md)                                                                   |
-|                 21 | [Atlantic Records](../labels/atlantic_records.md)                                                           |
 |                 19 | [Columbia](../labels/columbia.md)                                                                           |
 |                 18 | [Warner Records](../labels/warner_records.md)                                                               |
 |                 17 | [Epic](../labels/epic.md)                                                                                   |
@@ -323,6 +323,7 @@
 |                  1 | [RVG](../labels/rvg.md)                                                                                     |
 |                  1 | [RBMG](../labels/rbmg.md)                                                                                   |
 |                  1 | [Private Music](../labels/private_music.md)                                                                 |
+|                  1 | [PC Music](../labels/pc_music.md)                                                                           |
 |                  1 | [OWSLA](../labels/owsla.md)                                                                                 |
 |                  1 | [Nu America Music](../labels/nu_america_music.md)                                                           |
 |                  1 | [NEON16](../labels/neon16.md)                                                                               |
@@ -344,7 +345,6 @@
 |                  1 | [EMI Recorded Music Australia Pty Ltd](../labels/emi_recorded_music_australia_pty_ltd.md)                   |
 |                  1 | [Downtown Recordings](../labels/downtown_recordings.md)                                                     |
 |                  1 | [Def Jam](../labels/def_jam.md)                                                                             |
-|                  1 | [Decaydance](../labels/decaydance.md)                                                                       |
 
 </details>
 
@@ -359,13 +359,13 @@
 
 |   Number of Tracks | Genre                                           |
 |-------------------:|:------------------------------------------------|
-|                300 | [pop](../genres/pop.md)                         |
-|                188 | [dance pop](../genres/dance_pop.md)             |
-|                 47 | [post-teen pop](../genres/post_teen_pop.md)     |
-|                 25 | uk pop                                          |
-|                 25 | [electropop](../genres/electropop.md)           |
-|                 25 | edm                                             |
-|                 25 | [art pop](../genres/art_pop.md)                 |
+|                301 | [pop](../genres/pop.md)                         |
+|                192 | [dance pop](../genres/dance_pop.md)             |
+|                 48 | [post-teen pop](../genres/post_teen_pop.md)     |
+|                 27 | [art pop](../genres/art_pop.md)                 |
+|                 26 | uk pop                                          |
+|                 26 | [electropop](../genres/electropop.md)           |
+|                 26 | edm                                             |
 |                 20 | urban contemporary                              |
 |                 16 | [r&b](../genres/r_b.md)                         |
 |                 15 | pop rap                                         |
@@ -375,22 +375,22 @@
 |                 11 | [neo mellow](../genres/neo_mellow.md)           |
 |                 11 | british soul                                    |
 |                 11 | australian pop                                  |
-|                 10 | [viral pop](../genres/viral_pop.md)             |
+|                 10 | viral pop                                       |
 |                 10 | pop soul                                        |
+|                 10 | pop dance                                       |
 |                 10 | canadian pop                                    |
 |                 10 | barbadian pop                                   |
 |                 10 | [acoustic pop](../genres/acoustic_pop.md)       |
-|                  9 | pop dance                                       |
+|                  9 | tropical house                                  |
+|                  9 | metropopolis                                    |
 |                  8 | uk dance                                        |
-|                  8 | tropical house                                  |
-|                  8 | metropopolis                                    |
+|                  8 | escape room                                     |
 |                  8 | boy band                                        |
 |                  8 | australian dance                                |
 |                  8 | alternative r&b                                 |
 |                  7 | rap                                             |
 |                  7 | modern rock                                     |
 |                  7 | indietronica                                    |
-|                  7 | escape room                                     |
 |                  5 | uk funky                                        |
 |                  5 | [rock](../genres/rock.md)                       |
 |                  5 | piano rock                                      |
@@ -401,6 +401,7 @@
 |                  4 | south carolina hip hop                          |
 |                  4 | [lilith](../genres/lilith.md)                   |
 |                  4 | indie poptimism                                 |
+|                  4 | house                                           |
 |                  4 | [hollywood](../genres/hollywood.md)             |
 |                  4 | hip pop                                         |
 |                  4 | hip hop                                         |
@@ -412,8 +413,6 @@
 |                  3 | modern alternative rock                         |
 |                  3 | lgbtq+ hip hop                                  |
 |                  3 | latin pop                                       |
-|                  3 | indie pop                                       |
-|                  3 | house                                           |
 |                  3 | etherpop                                        |
 |                  3 | chill r&b                                       |
 |                  3 | canadian contemporary r&b                       |
@@ -427,9 +426,11 @@
 |                  2 | irish singer-songwriter                         |
 |                  2 | indy indie                                      |
 |                  2 | indiecoustica                                   |
+|                  2 | indie pop                                       |
 |                  2 | gauze pop                                       |
 |                  2 | filter house                                    |
 |                  2 | electro                                         |
+|                  2 | dutch edm                                       |
 |                  2 | colombian pop                                   |
 |                  2 | [adult standards](../genres/adult_standards.md) |
 |                  1 | wonky                                           |
@@ -439,13 +440,16 @@
 |                  1 | vapor pop                                       |
 |                  1 | urbano latino                                   |
 |                  1 | trap                                            |
+|                  1 | trance                                          |
 |                  1 | thai indie pop                                  |
 |                  1 | synth funk                                      |
 |                  1 | southern hip hop                                |
 |                  1 | social media pop                                |
+|                  1 | slap house                                      |
 |                  1 | reggaeton colombiano                            |
 |                  1 | reggaeton                                       |
 |                  1 | puerto rican pop                                |
+|                  1 | proto-hyperpop                                  |
 |                  1 | pop punk                                        |
 |                  1 | pittsburgh rap                                  |
 |                  1 | ohio hip hop                                    |
@@ -455,10 +459,6 @@
 |                  1 | modern indie pop                                |
 |                  1 | lafayette indie                                 |
 |                  1 | la indie                                        |
-|                  1 | italian pop                                     |
-|                  1 | indie soul                                      |
-|                  1 | indie rock italiano                             |
-|                  1 | indie r&b                                       |
 
 </details>
 
@@ -471,12 +471,12 @@
 | Anaconda                         | epiphany                    |
 | WAP (feat. Megan Thee Stallion)  | lovely (with Khalid)        |
 | Pretty Please                    | We All Need Saving          |
-| bury a friend                    | Jar of Hearts               |
-| Sally Walker                     | Skyfall                     |
+| Sally Walker                     | Jar of Hearts               |
+| bury a friend                    | Skyfall                     |
 | Coño                             | exile (feat. Bon Iver)      |
 | I Think He Knows                 | La Vie En Rose              |
-| Yeah! (feat. Lil Jon & Ludacris) | Gravity                     |
-| LoveGame                         | Fix You                     |
+| LoveGame                         | Gravity                     |
+| Yeah! (feat. Lil Jon & Ludacris) | Fix You                     |
 
 | 10 most Energetic tracks       | 10 least Energetic tracks   |
 |:-------------------------------|:----------------------------|
@@ -501,8 +501,8 @@
 | 7 rings                         | Chasing Pavements                   |
 | bury a friend                   | Set Fire to the Rain                |
 | Hustle                          | Old Fashioned                       |
-| Trumpets                        | The Scientist                       |
-| Focus                           | All Too Well                        |
+| Show Me What                    | The Scientist                       |
+| Trumpets                        | All Too Well                        |
 
 | 10 most Acoustic tracks   | 10 least Acoustic tracks                                                 |
 |:--------------------------|:-------------------------------------------------------------------------|
@@ -517,24 +517,24 @@
 | Off My Face               | Coño                                                                     |
 | peace                     | Misery                                                                   |
 
-| 10 most Instrumental tracks              | 10 least Instrumental tracks                |
-|:-----------------------------------------|:--------------------------------------------|
-| Abeja                                    | King of Anything                            |
-| everything i wanted                      | pov                                         |
-| Instant Crush (feat. Julian Casablancas) | Break My Heart Myself (feat. Travis Barker) |
-| you should see me in a crown             | Off My Face                                 |
-| bury a friend                            | no body, no crime (feat. HAIM)              |
-| Therefore I Am                           | Ashes                                       |
-| bad guy                                  | Oh My God                                   |
-| This Is What You Came For                | Bad At Love                                 |
-| Crazy                                    | Show Me the Meaning of Being Lonely         |
-| Lights - Single Version                  | Back To December                            |
+| 10 most Instrumental tracks              | 10 least Instrumental tracks                   |
+|:-----------------------------------------|:-----------------------------------------------|
+| Abeja                                    | Slow Hands                                     |
+| everything i wanted                      | INDUSTRY BABY (feat. Jack Harlow)              |
+| Instant Crush (feat. Julian Casablancas) | Monster (Shawn Mendes & Justin Bieber)         |
+| you should see me in a crown             | Ride                                           |
+| bury a friend                            | (I Got That) Boom Boom (feat. Ying Yang Twins) |
+| Therefore I Am                           | In My Blood                                    |
+| bad guy                                  | Levitating (feat. DaBaby)                      |
+| This Is What You Came For                | right here                                     |
+| Crazy                                    | illicit affairs                                |
+| Lights - Single Version                  | Big Girls Cry                                  |
 
 | 10 most Live tracks                            | 10 least Live tracks             |
 |:-----------------------------------------------|:---------------------------------|
-| La Vie En Rose                                 | Umbrella                         |
-| Radioactive                                    | SUGA's Interlude                 |
-| What Now                                       | Brave                            |
+| La Vie En Rose                                 | SUGA's Interlude                 |
+| Radioactive                                    | Brave                            |
+| What Now                                       | Hot In It                        |
 | Larger Than Life                               | I Knew You Were Trouble.         |
 | Feel Good Inc.                                 | Yeah! (feat. Lil Jon & Ludacris) |
 | Super Bass                                     | It's Gonna Be Me                 |

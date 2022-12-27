@@ -1,10 +1,10 @@
 # CUBE ENTERTAINMENT
 
-33 songs
+32 songs
 
 Appears as:
 - CUBE ENTERTAINMENT (18 tracks)
-- Cube Entertainment (15 tracks)
+- Cube Entertainment (14 tracks)
 
 ## Top Artists
 
@@ -16,7 +16,7 @@ Appears as:
 
 |   Number of Tracks | Art                                                                                              | Artist                             | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------|:------------------------------------------------------------|
-|                 18 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
+|                 17 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | CLC                                | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | PENTAGON                           | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
 |                  2 | <img src="https://i.scdn.co/image/621c729dd90a6e7a63fc8f0957b2b928834ec5a8" alt="" width="50" /> | 4Minute                            | [🔗](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) |
@@ -39,7 +39,7 @@ Appears as:
 |   Number of Tracks | Art                                                                                              | Album            | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------|:-----------------------------------------------------------|
 |                  7 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | I NEVER DIE      | [🔗](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) |
-|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | I love           | [🔗](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | I love           | [🔗](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="" width="50" /> | I am             | [🔗](https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273ea82cfc115275d25d9750ae1" alt="" width="50" /> | No.1             | [🔗](https://open.spotify.com/album/6xSUUpa9LBZYwJFMJOr8M6) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="" width="50" /> | IN:VITE U        | [🔗](https://open.spotify.com/album/5vxZM8rFJiNvjtAThYnwek) |
@@ -70,8 +70,8 @@ Appears as:
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
-|                 33 | [k-pop](../genres/k_pop.md)                       |
-|                 25 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+|                 32 | [k-pop](../genres/k_pop.md)                       |
+|                 24 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 |                  5 | korean city pop                                   |
 |                  5 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
 
@@ -98,7 +98,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | DARK (X-file)   | I love           | [(G)I-DLE](../artists/_g_i_dle.md) | [Cube Entertainment](cube_entertainment.md) | 💚   | [🔗](https://open.spotify.com/track/4xc3JpkI8kxLwk1SJafjzh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | LOVE            | I love           | [(G)I-DLE](../artists/_g_i_dle.md) | [Cube Entertainment](cube_entertainment.md) | 💚   | [🔗](https://open.spotify.com/track/6dmMXI9tVrDgFmxpjttZmF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Nxde            | I love           | [(G)I-DLE](../artists/_g_i_dle.md) | [Cube Entertainment](cube_entertainment.md) | 💚   | [🔗](https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Reset           | I love           | [(G)I-DLE](../artists/_g_i_dle.md) | [Cube Entertainment](cube_entertainment.md) |     | [🔗](https://open.spotify.com/track/6b5UB8AvYPTYP5AC99BYjB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Sculpture       | I love           | [(G)I-DLE](../artists/_g_i_dle.md) | [Cube Entertainment](cube_entertainment.md) | 💚   | [🔗](https://open.spotify.com/track/7f9Nbqm1ds2kxGHioJtdf3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738acb7bac073f378d59bf228e" alt="" width="50" /> | Crazy           | Crazy            | 4Minute                            | [CUBE ENTERTAINMENT](cube_entertainment.md) | 💚   | [🔗](https://open.spotify.com/track/5DZdCgnX9xAj59X6X7cQBs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27385155038f6eb09e2212d7094" alt="" width="50" /> | Hate            | Act. 7           | 4Minute                            | [CUBE ENTERTAINMENT](cube_entertainment.md) | 💚   | [🔗](https://open.spotify.com/track/3Hd6zm1J4bVeu4VXwaDQL3) |

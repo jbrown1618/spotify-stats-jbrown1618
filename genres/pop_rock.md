@@ -1,6 +1,6 @@
 # pop rock
 
-[82 songs](pop_rock_tracks.md)
+[81 songs](pop_rock_tracks.md)
 
 ## Top Artists
 
@@ -18,7 +18,6 @@
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8457f57bc526c37bd804b924" alt="" width="50" /> | KT Tunstall                                    | [🔗](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebce8d5be6690c6964069ab8e0" alt="" width="50" /> | Jason Mraz                                     | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eba5fc004270bdfc9fee7f55f4" alt="" width="50" /> | Jon McLaughlin                                 | [🔗](https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb1a7d0845c3b7e2f130264957" alt="" width="50" /> | The Smashing Pumpkins                          | [🔗](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf01bf904b446e4a043acb867" alt="" width="50" /> | The Script                                     | [🔗](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9bbbc124c9f0f75af892d97d" alt="" width="50" /> | Christina Perri                                | [🔗](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) |
 |                  1 | <img src="https://i.scdn.co/image/ab6772690000c46c44408083dac26a782655baf3" alt="" width="50" /> | Alanis Morissette                              | [🔗](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) |
@@ -28,6 +27,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1202580c944efb0b9c14dfd0" alt="" width="50" /> | The Black Crowes                               | [🔗](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1687995a9c0172c195049cb1" alt="" width="50" /> | Gavin DeGraw                                   | [🔗](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7ef3783488fcf0dab0708970" alt="" width="50" /> | Fitz and The Tantrums                          | [🔗](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1a7d0845c3b7e2f130264957" alt="" width="50" /> | The Smashing Pumpkins                          | [🔗](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb02dd5c821135e146eb2bfc85" alt="" width="50" /> | Snow Patrol                                    | [🔗](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9e0ca4a2881766ad646d449d" alt="" width="50" /> | Eagle-Eye Cherry                               | [🔗](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0168ba8148c07c2cdeb7d067" alt="" width="50" /> | a-ha                                           | [🔗](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) |
@@ -56,11 +56,11 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273183730e8038fa632b2c227da" alt="" width="50" /> | Eye To The Telescope                                    | [🔗](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2730f2e51f7121539e221c51161" alt="" width="50" /> | We Sing. We Dance. We Steal Things.                     | [🔗](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | The Script                                              | [🔗](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="" width="50" /> | Mellon Collie And The Infinite Sadness (Deluxe Edition) | [🔗](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27326a2f5224465a369f8abbf88" alt="" width="50" /> | lovestrong.                                             | [🔗](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a4d2cb95d3ea17f773db23ee" alt="" width="50" /> | Shake Your Money Maker                                  | [🔗](https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6c0376235e5aa44e59d2c2" alt="" width="50" /> | Picture Show                                            | [🔗](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735da1093d047cc15eb66d27cf" alt="" width="50" /> | OK Now                                                  | [🔗](https://open.spotify.com/album/3fKJJQFV6a61fnKYDDj2LU) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="" width="50" /> | Mellon Collie And The Infinite Sadness (Deluxe Edition) | [🔗](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="" width="50" /> | Let The Road                                            | [🔗](https://open.spotify.com/album/02ae5i5UAoFrt2peVox9Xd) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27392c885317fbe4bfa680109b4" alt="" width="50" /> | Jagged Little Pill                                      | [🔗](https://open.spotify.com/album/09AwlP99cHfKVNKv4FC8VW) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273554488d0c51967b1654d8ce5" alt="" width="50" /> | Is There Anybody Out There?                             | [🔗](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) |
@@ -87,7 +87,7 @@
 |   Number of Tracks | Label                                                                           |
 |-------------------:|:--------------------------------------------------------------------------------|
 |                 62 | [Epic](../labels/epic.md)                                                       |
-|                  5 | [Virgin Records](../labels/virgin_records.md)                                   |
+|                  4 | [Virgin Records](../labels/virgin_records.md)                                   |
 |                  3 | [Relentless](../labels/relentless.md)                                           |
 |                  3 | [Atlantic Records](../labels/atlantic_records.md)                               |
 |                  2 | [Phonogenic](../labels/phonogenic.md)                                           |
@@ -136,57 +136,57 @@
 | You Oughta Know             | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 |
 | Industry                    | Kaleidoscope Heart                                                                |
 
-| 10 most Speechy tracks                        | 10 least Speechy tracks    |
-|:----------------------------------------------|:---------------------------|
-| Opening Up                                    | The Light                  |
-| Kaleidoscope Heart                            | Islands                    |
-| Geronimo                                      | The Man Who Can't Be Moved |
-| Come Round Soon                               | Breathe Again              |
-| Bad Idea (feat. Jason Mraz)                   | Sweet As Whole             |
-| Black Horse And The Cherry Tree               | Chasing Cars               |
-| Bullet With Butterfly Wings - Remastered 2012 | Orpheus                    |
-| Everybody Talks                               | Machine Gun                |
-| Fire                                          | Breakeven                  |
-| Eden                                          | Satellite Call             |
+| 10 most Speechy tracks          | 10 least Speechy tracks    |
+|:--------------------------------|:---------------------------|
+| Opening Up                      | The Light                  |
+| Kaleidoscope Heart              | Islands                    |
+| Geronimo                        | The Man Who Can't Be Moved |
+| Come Round Soon                 | Breathe Again              |
+| Bad Idea (feat. Jason Mraz)     | Sweet As Whole             |
+| Black Horse And The Cherry Tree | Chasing Cars               |
+| Everybody Talks                 | Orpheus                    |
+| Fire                            | Machine Gun                |
+| Eden                            | Breakeven                  |
+| You Oughta Know                 | Satellite Call             |
 
-| 10 most Acoustic tracks                                                           | 10 least Acoustic tracks                      |
-|:----------------------------------------------------------------------------------|:----------------------------------------------|
-| Bright Lights and Cityscapes                                                      | 1979 - Remastered 2012                        |
-| Manhattan                                                                         | Vegas                                         |
-| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Many the Miles                                |
-| Bluebird                                                                          | HandClap                                      |
-| What's Inside                                                                     | Brave                                         |
-| Once Upon Another Time                                                            | Me And My Broken Heart                        |
-| Miss Simone                                                                       | Everybody Talks                               |
-| Say Something                                                                     | Hard To Handle                                |
-| Gravity                                                                           | Save Tonight                                  |
-| Someone Who Loves Me                                                              | Bullet With Butterfly Wings - Remastered 2012 |
+| 10 most Acoustic tracks                                                           | 10 least Acoustic tracks    |
+|:----------------------------------------------------------------------------------|:----------------------------|
+| Bright Lights and Cityscapes                                                      | Bad Idea (feat. Jason Mraz) |
+| Manhattan                                                                         | 1979 - Remastered 2012      |
+| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Vegas                       |
+| Bluebird                                                                          | Many the Miles              |
+| What's Inside                                                                     | HandClap                    |
+| Once Upon Another Time                                                            | Brave                       |
+| Miss Simone                                                                       | Me And My Broken Heart      |
+| Say Something                                                                     | Everybody Talks             |
+| Gravity                                                                           | Hard To Handle              |
+| Someone Who Loves Me                                                              | Save Tonight                |
 
-| 10 most Instrumental tracks                   | 10 least Instrumental tracks    |
-|:----------------------------------------------|:--------------------------------|
-| Bullet With Butterfly Wings - Remastered 2012 | Once Upon Another Time          |
-| 1979 - Remastered 2012                        | Everything Changes              |
-| Satellite Call                                | Lucky                           |
-| Islands                                       | I'm Yours                       |
-| Armor                                         | Black Horse And The Cherry Tree |
-| Breathe Again                                 | Sweet As Whole                  |
-| Miss Simone                                   | Gravity                         |
-| The Light                                     | Love Song                       |
-| Hard To Handle                                | Love On the Rocks               |
-| No Such Thing                                 | Say You're Sorry                |
+| 10 most Instrumental tracks   | 10 least Instrumental tracks    |
+|:------------------------------|:--------------------------------|
+| 1979 - Remastered 2012        | Once Upon Another Time          |
+| Satellite Call                | Everything Changes              |
+| Islands                       | Lucky                           |
+| Armor                         | I'm Yours                       |
+| Breathe Again                 | Black Horse And The Cherry Tree |
+| Miss Simone                   | Sweet As Whole                  |
+| The Light                     | Gravity                         |
+| Hard To Handle                | Love Song                       |
+| No Such Thing                 | Love On the Rocks               |
+| Fire                          | Say You're Sorry                |
 
-| 10 most Live tracks                                                               | 10 least Live tracks                          |
-|:----------------------------------------------------------------------------------|:----------------------------------------------|
-| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Little Black Dress                            |
-| You Oughta Know                                                                   | Islands                                       |
-| Chariot                                                                           | The Light                                     |
-| Fire                                                                              | King of Anything                              |
-| Black Horse And The Cherry Tree                                                   | 1979 - Remastered 2012                        |
-| Everybody Talks                                                                   | Chasing The Sun                               |
-| Hard To Handle                                                                    | Bullet With Butterfly Wings - Remastered 2012 |
-| Let The Rain                                                                      | Eden                                          |
-| Not Alone                                                                         | Brave                                         |
-| If I Can't Have You                                                               | Uncharted                                     |
+| 10 most Live tracks                                                               | 10 least Live tracks   |
+|:----------------------------------------------------------------------------------|:-----------------------|
+| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Cassiopeia             |
+| You Oughta Know                                                                   | Little Black Dress     |
+| Chariot                                                                           | Islands                |
+| Fire                                                                              | The Light              |
+| Black Horse And The Cherry Tree                                                   | King of Anything       |
+| Everybody Talks                                                                   | 1979 - Remastered 2012 |
+| Hard To Handle                                                                    | Chasing The Sun        |
+| Let The Rain                                                                      | Eden                   |
+| Not Alone                                                                         | Brave                  |
+| If I Can't Have You                                                               | Uncharted              |
 
 | 10 most Happy tracks            | 10 least Happy tracks                                                             |
 |:--------------------------------|:----------------------------------------------------------------------------------|

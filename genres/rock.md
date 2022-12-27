@@ -1,6 +1,6 @@
 # rock
 
-[152 songs](rock_tracks.md)
+[149 songs](rock_tracks.md)
 
 ## Top Artists
 
@@ -10,14 +10,14 @@
 
 
 <details>
-<summary>See all 39 artists</summary>
+<summary>See all 38 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                                 | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------|:------------------------------------------------------------|
 |                 31 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" alt="" width="50" /> | [The Beatles](../artists/the_beatles.md)               | [🔗](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) |
 |                 23 | <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | [Billy Joel](../artists/billy_joel.md)                 | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
 |                 14 | <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | [Queen](../artists/queen.md)                           | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
-|                 11 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../artists/radiohead.md)                   | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
+|                 10 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../artists/radiohead.md)                   | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
 |                  6 | <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | The Who                                                | [🔗](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb249d55f2d68a44637905c57e" alt="" width="50" /> | Fleetwood Mac                                          | [🔗](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) |
 |                  5 | <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | Simon & Garfunkel                                      | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
@@ -30,7 +30,6 @@
 |                  2 | <img src="https://i.scdn.co/image/5931700f9515dd6587230130beb615e0549e47dc" alt="" width="50" /> | Black Sabbath                                          | [🔗](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb920dc1f617550de8388f368e" alt="" width="50" /> | Imagine Dragons                                        | [🔗](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebfef3008e708e59efaa5667ed" alt="" width="50" /> | Styx                                                   | [🔗](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb1a7d0845c3b7e2f130264957" alt="" width="50" /> | The Smashing Pumpkins                                  | [🔗](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb196972172c37d934d9ca8093" alt="" width="50" /> | Twenty One Pilots                                      | [🔗](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebbdef7f178c9cf2e8d50cb9b9" alt="" width="50" /> | The Monkees                                            | [🔗](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) |
 |                  2 | <img src="https://i.scdn.co/image/813fde33623cbfd065053789cf1ffb22b55efd4a" alt="" width="50" /> | Carole King                                            | [🔗](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) |
@@ -40,7 +39,6 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd3cb15a8570cce5a63af63d8" alt="" width="50" /> | The Rolling Stones                                     | [🔗](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf84fe9e6fbb2aa001d6cbbd9" alt="" width="50" /> | Mastodon                                               | [🔗](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb0767e116a2307495e37cd7fb" alt="" width="50" /> | Eagles                                                 | [🔗](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) |
-|                  1 | <img src="https://i.scdn.co/image/ad5dbe5032b439728af9e711e8c0922a3aebcdbb" alt="" width="50" /> | Peter Gabriel                                          | [🔗](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc4c77549095c86acb4e77b37" alt="" width="50" /> | AC/DC                                                  | [🔗](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc52c8e309e46aa8430a0fa0" alt="" width="50" /> | Iron Maiden                                            | [🔗](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb624ddceb90bdf808ed4e2e35" alt="" width="50" /> | Steve Miller Band                                      | [🔗](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) |
@@ -49,6 +47,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb23a7b4c49d285729a974d6dd" alt="" width="50" /> | Deep Purple                                            | [🔗](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb55d7d266173722c1e09968ce" alt="" width="50" /> | Young the Giant                                        | [🔗](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7ef3783488fcf0dab0708970" alt="" width="50" /> | Fitz and The Tantrums                                  | [🔗](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1a7d0845c3b7e2f130264957" alt="" width="50" /> | The Smashing Pumpkins                                  | [🔗](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb50defaf9fc059a1efc541f4c" alt="" width="50" /> | Guns N' Roses                                          | [🔗](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) |
 |                  1 | <img src="https://i.scdn.co/image/da30acd2c9d0f32f5f5a2d69f32c2d30335466b5" alt="" width="50" /> | Survivor                                               | [🔗](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb047095c90419cf2a97266f77" alt="" width="50" /> | Nine Inch Nails                                        | [🔗](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) |
@@ -62,7 +61,7 @@
 
 
 <details>
-<summary>See all 98 albums</summary>
+<summary>See all 97 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                   | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------|:-----------------------------------------------------------|
@@ -76,7 +75,6 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273adb1732fa8d44b8eb2f6c0bf" alt="" width="50" /> | OK Computer                                             | [🔗](https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273692d9189b2bd75525893f0c1" alt="" width="50" /> | Magical Mystery Tour (Remastered)                       | [🔗](https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1" alt="" width="50" /> | Let It Be (Remastered)                                  | [🔗](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="" width="50" /> | In Rainbows                                             | [🔗](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | Bridge Over Troubled Water                              | [🔗](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="" width="50" /> | Who's Next (Deluxe Edition)                             | [🔗](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="" width="50" /> | The Stranger (Legacy Edition)                           | [🔗](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) |
@@ -87,9 +85,9 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | Piano Man                                               | [🔗](https://open.spotify.com/album/77ErLrVvYETIlQJHAwhfIH) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27346493b86589030cc39ce1bf2" alt="" width="50" /> | News Of The World                                       | [🔗](https://open.spotify.com/album/3TKTjR4E3LAMfRsPeRsNhT) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273af07dc851962508661bbcfce" alt="" width="50" /> | Metallica                                               | [🔗](https://open.spotify.com/album/6QdCohkHKNTVoaSx1ZzitH) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="" width="50" /> | Mellon Collie And The Infinite Sadness (Deluxe Edition) | [🔗](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="" width="50" /> | Led Zeppelin IV (Deluxe Edition)                        | [🔗](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2735e5bfba76defb59b3acf6c47" alt="" width="50" /> | Jazz                                                    | [🔗](https://open.spotify.com/album/5X3rA8To5GDOeIWdQyMEcE) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="" width="50" /> | In Rainbows                                             | [🔗](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="" width="50" /> | Good Vibrations                                         | [🔗](https://open.spotify.com/album/10IUKCLZPs9onPwXfQVxfv) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734fb043195e8d07e72edc7226" alt="" width="50" /> | Fleetwood Mac                                           | [🔗](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273de03bfc2991fd5bcfde65ba3" alt="" width="50" /> | Blurryface                                              | [🔗](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) |
@@ -127,7 +125,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" alt="" width="50" /> | Pieces Of Eight                                         | [🔗](https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273291b0e8f1a74c2bc9f9d3110" alt="" width="50" /> | Piece of Mind (2015 - Remaster)                         | [🔗](https://open.spotify.com/album/6iVSpex7UohpwPOYZEYmvm) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6c0376235e5aa44e59d2c2" alt="" width="50" /> | Picture Show                                            | [🔗](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fe28f2179e0529ae0520f3bd" alt="" width="50" /> | Peter Gabriel 1: Car (Remastered Version)               | [🔗](https://open.spotify.com/album/4jd6oC0It60c1J3GpXCv6M) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d5fccf9ce08b6a1e7d12a222" alt="" width="50" /> | Paranoid (Remaster)                                     | [🔗](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732f85b65d3ac4d3d7f806ca11" alt="" width="50" /> | Pablo Honey                                             | [🔗](https://open.spotify.com/album/6400dnyeDyD2mIFHfkwHXN) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="" width="50" /> | Out Of Our Heads                                        | [🔗](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) |
@@ -138,6 +135,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273360a1ae790aa71a0aac4983e" alt="" width="50" /> | More of The Monkees (Deluxe Edition)                    | [🔗](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27369bb57791f9859f2695391f7" alt="" width="50" /> | Moondance (Expanded Edition)                            | [🔗](https://open.spotify.com/album/6yNYC35npMBHbxG0Vle83O) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f22514855a9a8356664340fb" alt="" width="50" /> | Moondance (Deluxe Edition)                              | [🔗](https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="" width="50" /> | Mellon Collie And The Infinite Sadness (Deluxe Edition) | [🔗](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273bc9b44e950d5440ff65ea926" alt="" width="50" /> | Machine Head                                            | [🔗](https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27300388d66c87c2c0033849bfd" alt="" width="50" /> | Leviathan                                               | [🔗](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731be40e44db112e123e5e8b51" alt="" width="50" /> | Leftoverture (Expanded Edition)                         | [🔗](https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR) |
@@ -174,7 +172,7 @@
 
 
 <details>
-<summary>See all 36 labels</summary>
+<summary>See all 35 labels</summary>
 
 |   Number of Tracks | Label                                                                           |
 |-------------------:|:--------------------------------------------------------------------------------|
@@ -182,13 +180,12 @@
 |                 30 | [EMI Catalogue](../labels/emi_catalogue.md)                                     |
 |                 16 | [Warner Records](../labels/warner_records.md)                                   |
 |                 14 | [Hollywood Records](../labels/hollywood_records.md)                             |
-|                 11 | [XL Recordings](../labels/xl_recordings.md)                                     |
 |                 11 | [Rhino](../labels/rhino.md)                                                     |
+|                 10 | [XL Recordings](../labels/xl_recordings.md)                                     |
 |                 10 | [Legacy](../labels/legacy.md)                                                   |
 |                  4 | [Epic](../labels/epic.md)                                                       |
 |                  3 | [Geffen](../labels/geffen.md)                                                   |
 |                  3 | [Atlantic Records](../labels/atlantic_records.md)                               |
-|                  2 | [Virgin Records](../labels/virgin_records.md)                                   |
 |                  2 | [UMC (Universal Music Catalogue)](../labels/umc__universal_music_catalogue_.md) |
 |                  2 | [RCA Victor](../labels/rca_victor.md)                                           |
 |                  2 | [Polydor Records](../labels/polydor_records.md)                                 |
@@ -202,13 +199,13 @@
 |                  2 | [ABKCO Music and Records](../labels/abkco_music_and_records.md)                 |
 |                  2 | [A&M](../labels/a_m.md)                                                         |
 |                  1 | [Volcano](../labels/volcano.md)                                                 |
+|                  1 | [Virgin Records](../labels/virgin_records.md)                                   |
 |                  1 | [TVT Records](../labels/tvt_records.md)                                         |
 |                  1 | [Sanctuary Records](../labels/sanctuary_records.md)                             |
 |                  1 | [Roadrunner Records](../labels/roadrunner_records.md)                           |
 |                  1 | [Rhino Atlantic](../labels/rhino_atlantic.md)                                   |
 |                  1 | [Reprise](../labels/reprise.md)                                                 |
 |                  1 | [Relapse Records](../labels/relapse_records.md)                                 |
-|                  1 | [Real World Productions](../labels/real_world_productions.md)                   |
 |                  1 | [Mercury Records](../labels/mercury_records.md)                                 |
 |                  1 | [Guns N Roses P&D](../labels/guns_n_roses_p_d.md)                               |
 |                  1 | [Elektra (NEK)](../labels/elektra__nek_.md)                                     |
@@ -226,8 +223,8 @@
 | I Want To Break Free       | The Trooper - 2015 Remaster           |
 | Dreams - 2004 Remaster     | Across The Universe - Remastered 2009 |
 | Eye of the Tiger           | No Surprises                          |
-| You Can Call Me Al         | Fat Bottomed Girls                    |
-| Believer                   | Paranoid Android                      |
+| Believer                   | Fat Bottomed Girls                    |
+| You Can Call Me Al         | Paranoid Android                      |
 | 1979 - Remastered 2012     | Desperado - 2013 Remaster             |
 | Get Back - Remastered 2009 | Lights                                |
 | Cecilia                    | Bridge Over Troubled Water            |
@@ -242,8 +239,8 @@
 | Uptown Girl                       | Golden Slumbers - Remastered 2009 |
 | Go Your Own Way - 2004 Remaster   | She's Got a Way                   |
 | Blood and Thunder                 | Blackbird - Remastered 2009       |
-| Immigrant Song - Remaster         | And So It Goes                    |
-| Any Way You Want It               | The Boxer                         |
+| Any Way You Want It               | And So It Goes                    |
+| Immigrant Song - Remaster         | The Boxer                         |
 | Scenes from an Italian Restaurant | And So It Goes                    |
 
 | 10 most Speechy tracks                      | 10 least Speechy tracks            |
@@ -259,44 +256,44 @@
 | Big Shot                                    | High And Dry                       |
 | Crazy Love - 2013 Remaster                  | Octopus's Garden - Remastered 2009 |
 
-| 10 most Acoustic tracks         | 10 least Acoustic tracks                      |
-|:--------------------------------|:----------------------------------------------|
-| She's Got a Way                 | Carry on Wayward Son                          |
-| Lullabye (Goodnight, My Angel)  | Everybody Talks                               |
-| Desperado - 2013 Remaster       | Hard To Handle                                |
-| And So It Goes                  | Any Way You Want It                           |
-| Eleanor Rigby - Remastered 2009 | Enter Sandman                                 |
-| The Boxer                       | Knights of Cydonia                            |
-| And So It Goes                  | Bullet With Butterfly Wings - Remastered 2012 |
-| So Far Away                     | Paranoid - 2012 - Remaster                    |
-| Landslide                       | Blood and Thunder                             |
-| Yesterday - Remastered 2009     | The Motherload                                |
+| 10 most Acoustic tracks         | 10 least Acoustic tracks   |
+|:--------------------------------|:---------------------------|
+| She's Got a Way                 | Iron Man                   |
+| Lullabye (Goodnight, My Angel)  | Carry on Wayward Son       |
+| Desperado - 2013 Remaster       | Everybody Talks            |
+| And So It Goes                  | Hard To Handle             |
+| Eleanor Rigby - Remastered 2009 | Any Way You Want It        |
+| The Boxer                       | Enter Sandman              |
+| And So It Goes                  | Knights of Cydonia         |
+| So Far Away                     | Paranoid - 2012 - Remaster |
+| Landslide                       | Blood and Thunder          |
+| Yesterday - Remastered 2009     | The Motherload             |
 
 | 10 most Instrumental tracks                   | 10 least Instrumental tracks         |
 |:----------------------------------------------|:-------------------------------------|
-| Bullet With Butterfly Wings - Remastered 2012 | Believer                             |
-| Animals                                       | We Didn't Start the Fire             |
-| Weird Fishes/ Arpeggi                         | And So It Goes                       |
-| Blood and Thunder                             | Only the Good Die Young              |
-| Street Spirit (Fade Out)                      | Crazy Little Thing Called Love       |
-| 1979 - Remastered 2012                        | A Hard Day's Night - Remastered 2009 |
-| Smoke on the Water                            | All My Loving - Remastered 2009      |
-| Pyramid Song                                  | Let It Be - Remastered 2009          |
-| 15 Step                                       | Yellow Submarine - Remastered 2009   |
-| Come Together - Remastered 2009               | Cold as Ice                          |
+| Animals                                       | All My Loving - Remastered 2009      |
+| Weird Fishes/ Arpeggi                         | A Hard Day's Night - Remastered 2009 |
+| Blood and Thunder                             | Save Me                              |
+| Street Spirit (Fade Out)                      | Only the Good Die Young              |
+| 1979 - Remastered 2012                        | And So It Goes                       |
+| Smoke on the Water                            | We Didn't Start the Fire             |
+| Pyramid Song                                  | Pinball Wizard                       |
+| Come Together - Remastered 2009               | Brown Eyed Girl                      |
+| Won't Get Fooled Again - Remix                | Believer                             |
+| I Want You (She's So Heavy) - Remastered 2009 | Cold as Ice                          |
 
-| 10 most Live tracks                | 10 least Live tracks                          |
-|:-----------------------------------|:----------------------------------------------|
-| Animals                            | Blackbird - Remastered 2009                   |
-| Radioactive                        | My Life                                       |
-| Revolution 1 - Remastered 2009     | Paranoid Android                              |
-| Get Back - Remastered 2009         | Smoke on the Water                            |
-| Uptown Girl                        | I Feel the Earth Move                         |
-| I Am The Walrus - Remastered 2009  | 1979 - Remastered 2012                        |
-| Don't Stop Me Now                  | Bullet With Butterfly Wings - Remastered 2012 |
-| Don't Stop Believin'               | The Chain - 2004 Remaster                     |
-| Carry on Wayward Son               | Iron Man                                      |
-| Yellow Submarine - Remastered 2009 | Blood and Thunder                             |
+| 10 most Live tracks                | 10 least Live tracks             |
+|:-----------------------------------|:---------------------------------|
+| Animals                            | Hotel California - 2013 Remaster |
+| Radioactive                        | Blackbird - Remastered 2009      |
+| Revolution 1 - Remastered 2009     | My Life                          |
+| Get Back - Remastered 2009         | Paranoid Android                 |
+| Uptown Girl                        | Smoke on the Water               |
+| I Am The Walrus - Remastered 2009  | I Feel the Earth Move            |
+| Don't Stop Me Now                  | 1979 - Remastered 2012           |
+| Don't Stop Believin'               | The Chain - 2004 Remaster        |
+| Carry on Wayward Son               | Iron Man                         |
+| Yellow Submarine - Remastered 2009 | Blood and Thunder                |
 
 | 10 most Happy tracks                         | 10 least Happy tracks     |
 |:---------------------------------------------|:--------------------------|

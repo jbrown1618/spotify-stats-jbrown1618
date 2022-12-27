@@ -111,7 +111,7 @@ Appears as:
 |                  4 | [classic rock](../genres/classic_rock.md)           |
 |                  3 | latin pop                                           |
 |                  3 | colombian pop                                       |
-|                  2 | [viral pop](../genres/viral_pop.md)                 |
+|                  2 | viral pop                                           |
 |                  2 | talent show                                         |
 |                  2 | symphonic rock                                      |
 |                  2 | [singer-songwriter](../genres/singer_songwriter.md) |

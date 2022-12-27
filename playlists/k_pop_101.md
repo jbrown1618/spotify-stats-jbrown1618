@@ -91,7 +91,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fd0d9a33127c1d3f58ba3504" alt="" width="50" /> | MADE                                      | [🔗](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | Love Yourself 承 'Her'                     | [🔗](https://open.spotify.com/album/2FTS6a6DLXMNp8flyA0HGO) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f7da7c0f322b7a1c95190d92" alt="" width="50" /> | LOVE SHOT– The 5th Album Repackage        | [🔗](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27386e407289831b784b58d4c5f" alt="" width="50" /> | It'z Me                                   | [🔗](https://open.spotify.com/album/2gertXS08whDTzBWfmewPO) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fc620c06721e90a534cc5dab" alt="" width="50" /> | IT'z ME                                   | [🔗](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="" width="50" /> | INVU - The 3rd Album                      | [🔗](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273703093f86fd5c8bd79500610" alt="" width="50" /> | IN LIFE                                   | [🔗](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | I trust                                   | [🔗](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) |
@@ -123,11 +123,10 @@
 |-------------------:|:--------------------------------------------------------------------|
 |                 12 | [SM Entertainment](../labels/sm_entertainment.md)                   |
 |                  3 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
+|                  3 | [Republic Records](../labels/republic_records.md)                   |
 |                  3 | [Genie Music Corporation](../labels/genie_music_corporation.md)     |
 |                  2 | [YG Entertainment](../labels/yg_entertainment.md)                   |
 |                  2 | [SOURCE MUSIC](../labels/source_music.md)                           |
-|                  2 | [Republic Records](../labels/republic_records.md)                   |
-|                  2 | [JYP Entertainment](../labels/jyp_entertainment.md)                 |
 |                  1 | [드림캐쳐컴퍼니](../labels/_______.md)                                     |
 |                  1 | [Universal Music LLC](../labels/universal_music_llc.md)             |
 |                  1 | [THE BLACK LABEL](../labels/the_black_label.md)                     |
@@ -137,6 +136,7 @@
 |                  1 | [Makeus Entertainment](../labels/makeus_entertainment.md)           |
 |                  1 | [Kakao Entertainment](../labels/kakao_entertainment.md)             |
 |                  1 | [KQ Entertainment](../labels/kq_entertainment.md)                   |
+|                  1 | [JYP Entertainment](../labels/jyp_entertainment.md)                 |
 |                  1 | [Interscope](../labels/interscope.md)                               |
 |                  1 | [Imperial Distribution](../labels/imperial_distribution.md)         |
 |                  1 | [High Up Entertainment](../labels/high_up_entertainment.md)         |
@@ -187,8 +187,8 @@
 
 | 10 most Energetic tracks   | 10 least Energetic tracks   |
 |:---------------------------|:----------------------------|
-| 쏘리 쏘리 Sorry, Sorry         | ELEVEN                      |
-| Odd Eye                    | HIP                         |
+| 쏘리 쏘리 Sorry, Sorry         | HIP                         |
+| Odd Eye                    | ELEVEN                      |
 | Pretty U                   | FEVER                       |
 | Hot Sauce                  | MOVE                        |
 | WANNABE                    | Love Shot                   |
@@ -226,15 +226,15 @@
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| I Am The Best                 | BANG BANG BANG                 |
-| FEARLESS                      | HOLO                           |
-| MAGO                          | MIROTIC                        |
-| WANNABE                       | BBIBBI                         |
-| How You Like That             | ASAP                           |
-| Doom Du Doom                  | DNA                            |
-| HIP                           | Hot Sauce                      |
-| Next Level                    | ELEVEN                         |
-| Genie                         | Shine                          |
+| I Am The Best                 | Answer                         |
+| FEARLESS                      | BANG BANG BANG                 |
+| MAGO                          | HOLO                           |
+| WANNABE                       | MIROTIC                        |
+| How You Like That             | BBIBBI                         |
+| Doom Du Doom                  | ASAP                           |
+| HIP                           | DNA                            |
+| Next Level                    | Hot Sauce                      |
+| Genie                         | ELEVEN                         |
 | DUN DUN                       | FEVER                          |
 
 | 10 most Live tracks   | 10 least Live tracks   |
@@ -244,11 +244,11 @@
 | FANCY                 | Pretty U               |
 | Answer                | Doom Du Doom           |
 | BANG BANG BANG        | DNA                    |
-| BBIBBI                | How You Like That      |
-| Hot Sauce             | O.O                    |
+| BBIBBI                | O.O                    |
+| Hot Sauce             | How You Like That      |
 | 쏘리 쏘리 Sorry, Sorry    | Shine                  |
-| Odd Eye               | I Am The Best          |
-| Gashina               | ELEVEN                 |
+| Gashina               | I Am The Best          |
+| Odd Eye               | ELEVEN                 |
 
 | 10 most Happy tracks   | 10 least Happy tracks   |
 |:-----------------------|:------------------------|

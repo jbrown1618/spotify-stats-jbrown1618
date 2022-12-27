@@ -1,6 +1,6 @@
 # k-pop boy group
 
-[237 songs](k_pop_boy_group_tracks.md)
+[228 songs](k_pop_boy_group_tracks.md)
 
 ## Top Artists
 
@@ -14,7 +14,7 @@
 
 |   Number of Tracks | Art                                                                                              | Artist                                 | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:------------------------------------------------------------|
-|                 54 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
+|                 45 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 |                 30 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)               | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 |                 22 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)       | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 |                 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="" width="50" /> | [SEVENTEEN](../artists/seventeen.md)   | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
@@ -35,7 +35,6 @@
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb66701ca609176d8fd4a9c4a0" alt="" width="50" /> | NCT                                    | [🔗](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7c4240b7951da248f3404e42" alt="" width="50" /> | Steve Aoki                             | [🔗](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebac19ac3b8773baa5791999fb" alt="" width="50" /> | TVXQ!                                  | [🔗](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) |
-|                  2 | <img src="nan" alt="" width="50" />                                                              | Bang Chan                              | [🔗](https://open.spotify.com/artist/4qy7HANJDOZRObts4Z0KSV) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb07e5355b736b50bccbb0b651" alt="" width="50" /> | BLITZERS                               | [🔗](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb652b1738f121da382c3ab77b" alt="" width="50" /> | ONEUS                                  | [🔗](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb0222fa7cba5da5c28ea5d296" alt="" width="50" /> | BTOB                                   | [🔗](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) |
@@ -45,6 +44,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb125d29add59b1d82aa236423" alt="" width="50" /> | 2PM                                    | [🔗](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) |
 |                  1 | <img src="nan" alt="" width="50" />                                                              | Changbin                               | [🔗](https://open.spotify.com/artist/5OTVNUu0UHn6ddPyEAi419) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe069abe9362512bec11f5e13" alt="" width="50" /> | AB6IX                                  | [🔗](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) |
+|                  1 | <img src="nan" alt="" width="50" />                                                              | Bang Chan                              | [🔗](https://open.spotify.com/artist/4qy7HANJDOZRObts4Z0KSV) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6034058cfde0084f922bb284" alt="" width="50" /> | ASTRO                                  | [🔗](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd86145072666f72cc5e833d8" alt="" width="50" /> | Monsta X                               | [🔗](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273beda75335e465aef64b524ef" alt="" width="50" /> | DKB                                    | [🔗](https://open.spotify.com/artist/4DoedGw38ubJdAT1edFsIx) |
@@ -67,7 +67,7 @@
 
 |   Number of Tracks | Art                                                                                              | Album                                              | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------|:-----------------------------------------------------------|
-|                 22 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | SKZ-REPLAY                                         | [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) |
+|                 13 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | SKZ-REPLAY                                         | [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) |
 |                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | NOEASY                                             | [🔗](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="" width="50" /> | DIMENSION : DILEMMA                                | [🔗](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273decd839dd4fef3faf64c5fd5" alt="" width="50" /> | SEVENTEEN 4th Album 'Face the Sun'                 | [🔗](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) |
@@ -181,8 +181,8 @@
 
 |   Number of Tracks | Label                                                               |
 |-------------------:|:--------------------------------------------------------------------|
-|                 59 | [Republic Records](../labels/republic_records.md)                   |
 |                 52 | [SM Entertainment](../labels/sm_entertainment.md)                   |
+|                 50 | [Republic Records](../labels/republic_records.md)                   |
 |                 29 | [BIGHIT MUSIC](../labels/bighit_music.md)                           |
 |                 20 | [BELIFT LAB](../labels/belift_lab.md)                               |
 |                 16 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)           |
@@ -217,12 +217,12 @@
 
 | 10 most Danceable tracks   | 10 least Danceable tracks   |
 |:---------------------------|:----------------------------|
-| RUN (HAN)                  | Butterfly                   |
-| BOOM                       | Tap Tap                     |
-| Mr. Simple                 | Side Effects                |
-| HEYDAY (Prod. Czaer)       | Just A Little Bit           |
-| Any                        | Runaway                     |
-| Christmas EveL             | #LoveSTAY                   |
+| RUN (HAN)                  | Let Me In (20 CUBE)         |
+| BOOM                       | Butterfly                   |
+| Mr. Simple                 | Tap Tap                     |
+| HEYDAY (Prod. Czaer)       | Side Effects                |
+| Any                        | Just A Little Bit           |
+| Christmas EveL             | Runaway                     |
 | Love is New Gravity        | Sparkling Night             |
 | 10 Months                  | Sorry                       |
 | Feelin' Like               | Boy in time - HUI Solo      |
@@ -230,7 +230,7 @@
 
 | 10 most Energetic tracks   | 10 least Energetic tracks           |
 |:---------------------------|:------------------------------------|
-| Misfit                     | ice.cream (Hyunjin)                 |
+| Misfit                     | BOOM                                |
 | MIROH                      | The 7th Sense                       |
 | Side Effects               | Anti-Romantic                       |
 | 소방차 Fire Truck             | Butter                              |
@@ -246,13 +246,13 @@
 | MANIAC                            | Airplane pt.2                  |
 | I GOT IT (HAN)                    | Sorry                          |
 | Feelin' Like                      | The Eve                        |
-| DOODLE (Changbin)                 | Lie                            |
-| Tap Tap                           | Stars and Raindrops (Seungmin) |
-| 3RACHA (Bang Chan, Changbin, HAN) | Don't Wanna Cry                |
-| Sparkling Night                   | Drive (Bang Chan, Lee Know)    |
-| Cherry Bomb                       | LOVE SCENARIO                  |
-| Sticker                           | NANANA                         |
-| Back Door                         | She's In The Rain              |
+| Tap Tap                           | Lie                            |
+| 3RACHA (Bang Chan, Changbin, HAN) | Stars and Raindrops (Seungmin) |
+| Sparkling Night                   | Don't Wanna Cry                |
+| Cherry Bomb                       | Drive (Bang Chan, Lee Know)    |
+| Sticker                           | LOVE SCENARIO                  |
+| Back Door                         | NANANA                         |
+| Outsider                          | She's In The Rain              |
 
 | 10 most Acoustic tracks     | 10 least Acoustic tracks   |
 |:----------------------------|:---------------------------|
@@ -267,18 +267,18 @@
 | Back 2 U (AM 01:27)         | Easy                       |
 | Sorry                       | Mr. Simple                 |
 
-| 10 most Instrumental tracks   | 10 least Instrumental tracks      |
-|:------------------------------|:----------------------------------|
-| Singularity                   | Back Down                         |
-| Mr. Simple                    | Do It Like This - English Version |
-| Lemonade                      | You Calling My Name               |
-| Ring Ding Dong                | Do It Like This                   |
-| Danger                        | Always                            |
-| Airplane pt.2                 | I Need The Light                  |
-| Sour                          | One In A Billion                  |
-| Doom Du Doom                  | Blessed-Cursed                    |
-| Ko Ko Bop                     | Polaroid Love                     |
-| Tamed-Dashed                  | Candy Sugar Pop                   |
+| 10 most Instrumental tracks   | 10 least Instrumental tracks                 |
+|:------------------------------|:---------------------------------------------|
+| Singularity                   | LO$ER=LO♡ER                                  |
+| Mr. Simple                    | Opening Sequence                             |
+| Lemonade                      | Anti-Romantic                                |
+| Ring Ding Dong                | Frost                                        |
+| Danger                        | 0X1=LOVESONG (I Know I Love You) feat. Seori |
+| Airplane pt.2                 | Breathe Again                                |
+| Sour                          | Love is New Gravity                          |
+| Doom Du Doom                  | WONDERLAND                                   |
+| Ko Ko Bop                     | HALA HALA (Hearts Awakened, Live Alive)      |
+| Tamed-Dashed                  | ParadoXXX Invasion                           |
 
 | 10 most Live tracks             | 10 least Live tracks       |
 |:--------------------------------|:---------------------------|
@@ -295,13 +295,13 @@
 
 | 10 most Happy tracks                                | 10 least Happy tracks               |
 |:----------------------------------------------------|:------------------------------------|
-| Devil                                               | Deep end (Felix)                    |
-| 쏘리 쏘리 Sorry, Sorry                                  | Still Life                          |
-| Left & Right                                        | The 7th Sense                       |
-| Up All Night (Bang Chan, Changbin, Felix, Seungmin) | Anti-Romantic                       |
-| 운명 The Chance of Love                               | Singularity                         |
-| Candy Sugar Pop                                     | Favorite (Vampire)                  |
-| TFW (That Feeling When)                             | The Truth Untold (feat. Steve Aoki) |
-| BLACK MIRROR                                        | ZONE (Bang Chan, Changbin, HAN)     |
-| Muddy Water (Changbin, Hyunjin, HAN, Felix)         | Alien (HAN)                         |
+| Devil                                               | Hellevator                          |
+| 쏘리 쏘리 Sorry, Sorry                                  | Limbo (Lee Know)                    |
+| Left & Right                                        | Deep end (Felix)                    |
+| Up All Night (Bang Chan, Changbin, Felix, Seungmin) | Still Life                          |
+| 운명 The Chance of Love                               | The 7th Sense                       |
+| TFW (That Feeling When)                             | Anti-Romantic                       |
+| Candy Sugar Pop                                     | Singularity                         |
+| BLACK MIRROR                                        | Favorite (Vampire)                  |
+| Muddy Water (Changbin, Hyunjin, HAN, Felix)         | The Truth Untold (feat. Steve Aoki) |
 | Pretty U                                            | Side Effects                        |

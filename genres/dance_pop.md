@@ -1,6 +1,6 @@
 # dance pop
 
-[239 songs](dance_pop_tracks.md)
+[240 songs](dance_pop_tracks.md)
 
 ## Top Artists
 
@@ -51,6 +51,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | Iggy Azalea                                  | [🔗](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | B.o.B                                        | [🔗](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | Juicy J                                      | [🔗](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb0d66b3670294bf801847dae2" alt="" width="50" /> | Lizzo                                        | [🔗](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | Young Thug                                   | [🔗](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ace68c56849548db7f102be" alt="" width="50" /> | DaBaby                                       | [🔗](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)         | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
@@ -81,7 +82,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb358577f183465ae7698a53a7" alt="" width="50" /> | Carly Rae Jepsen                             | [🔗](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375" alt="" width="50" /> | Hatsune Miku                                 | [🔗](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe32a61d17ecbe732a99d6d92" alt="" width="50" /> | 24kGoldn                                     | [🔗](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bda4d7a1c3b8159f28f9d08" alt="" width="50" /> | Sheppard                                     | [🔗](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c" alt="" width="50" /> | Amy Winehouse                                | [🔗](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) |
 |                  1 | <img src="https://i.scdn.co/image/ab6772690000c46ca3ebb27ba9a55044f32af6e1" alt="" width="50" /> | Silk Sonic                                   | [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf271138f95fbe8188d909d50" alt="" width="50" /> | Kesha                                        | [🔗](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) |
@@ -244,7 +244,7 @@
 |                 27 | [RCA Records Label](../labels/rca_records_label.md)                                                                         |
 |                 22 | [Warner Records](../labels/warner_records.md)                                                                               |
 |                 19 | [Columbia](../labels/columbia.md)                                                                                           |
-|                 17 | [Atlantic Records](../labels/atlantic_records.md)                                                                           |
+|                 19 | [Atlantic Records](../labels/atlantic_records.md)                                                                           |
 |                 15 | [Jive](../labels/jive.md)                                                                                                   |
 |                 13 | [Universal Music LLC](../labels/universal_music_llc.md)                                                                     |
 |                 13 | [Republic Records](../labels/republic_records.md)                                                                           |
@@ -268,6 +268,7 @@
 |                  2 | [Walt Disney Records](../labels/walt_disney_records.md)                                                                     |
 |                  2 | [Sony Music Entertainment](../labels/sony_music_entertainment.md)                                                           |
 |                  2 | [Nicki Minaj](../labels/nicki_minaj.md)                                                                                     |
+|                  2 | [Nice Life](../labels/nice_life.md)                                                                                         |
 |                  2 | [Lava Music](../labels/lava_music.md)                                                                                       |
 |                  2 | [KSR](../labels/ksr.md)                                                                                                     |
 |                  2 | [Hollywood Records](../labels/hollywood_records.md)                                                                         |
@@ -301,7 +302,6 @@
 |                  1 | [EMI Recorded Music Australia Pty Ltd](../labels/emi_recorded_music_australia_pty_ltd.md)                                   |
 |                  1 | [Disruptor Records](../labels/disruptor_records.md)                                                                         |
 |                  1 | [Def Soul](../labels/def_soul.md)                                                                                           |
-|                  1 | [Decca (UMO)](../labels/decca__umo_.md)                                                                                     |
 |                  1 | [Decaydance](../labels/decaydance.md)                                                                                       |
 |                  1 | [DJ Snake Music Productions Limited](../labels/dj_snake_music_productions_limited.md)                                       |
 |                  1 | [Colour Vision Records](../labels/colour_vision_records.md)                                                                 |
@@ -365,7 +365,7 @@
 
 | 10 most Acoustic tracks                               | 10 least Acoustic tracks                                                 |
 |:------------------------------------------------------|:-------------------------------------------------------------------------|
-| Stay                                                  | Dark Horse                                                               |
+| Stay                                                  | Bad Romance                                                              |
 | Your Song                                             | Watch n' Learn                                                           |
 | When I Was Your Man                                   | New Rules                                                                |
 | I Thought She Knew                                    | Valerie (feat. Amy Winehouse) - Version Revisited                        |
@@ -378,15 +378,15 @@
 
 | 10 most Instrumental tracks                              | 10 least Instrumental tracks                                   |
 |:---------------------------------------------------------|:---------------------------------------------------------------|
-| This Is What You Came For                                | YOUTH                                                          |
-| You and I (Park Bom)                                     | Sally Walker                                                   |
-| Lights - Single Version                                  | Stone Cold                                                     |
-| Toxic                                                    | Heart Attack                                                   |
-| Candyman                                                 | Happy Ending                                                   |
-| Grace Kelly                                              | Swalla (feat. Nicki Minaj & Ty Dolla $ign)                     |
-| Coño                                                     | Talk Dirty (feat. 2 Chainz)                                    |
-| I Am The Best                                            | Trumpets                                                       |
-| SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) | Bubblegum (feat. Tyga)                                         |
+| This Is What You Came For                                | Sally Walker                                                   |
+| You and I (Park Bom)                                     | Stone Cold                                                     |
+| Lights - Single Version                                  | Heart Attack                                                   |
+| Toxic                                                    | Truth Hurts                                                    |
+| Candyman                                                 | About Damn Time                                                |
+| Grace Kelly                                              | Happy Ending                                                   |
+| Coño                                                     | Swalla (feat. Nicki Minaj & Ty Dolla $ign)                     |
+| I Am The Best                                            | Talk Dirty (feat. 2 Chainz)                                    |
+| SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) | Trumpets                                                       |
 | Woman                                                    | When Will My Life Begin? - From "Tangled" / Soundtrack Version |
 
 | 10 most Live tracks                            | 10 least Live tracks             |
