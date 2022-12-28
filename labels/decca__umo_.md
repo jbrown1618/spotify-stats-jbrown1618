@@ -47,11 +47,11 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 13 genres](../images/labels/decca__umo_/genres.png)
+![Bar chart of top 14 genres](../images/labels/decca__umo_/genres.png)
 
 
 <details>
-<summary>See all 13 genres</summary>
+<summary>See all 14 genres</summary>
 
 |   Number of Tracks | Genre                                   |
 |-------------------:|:----------------------------------------|
@@ -66,6 +66,7 @@ Appears as:
 |                  1 | [pop rock](../genres/pop_rock.md)       |
 |                  1 | [pop](../genres/pop.md)                 |
 |                  1 | folk-pop                                |
+|                  1 | [dance pop](../genres/dance_pop.md)     |
 |                  1 | australian pop                          |
 |                  1 | australian indie                        |
 

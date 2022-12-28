@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1381 songs](liked_songs_tracks.md)
+[1382 songs](liked_songs_tracks.md)
 
 ## Top Artists
 
@@ -27,7 +27,7 @@
 |                 22 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)                             | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 |                 21 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b2621bf3c5f2197ee957582" alt="" width="50" /> | [The Tarpeggios](../artists/the_tarpeggios.md)                 | [🔗](https://open.spotify.com/artist/2HXd5pFHJyaQJr5aXfErrE) |
 |                 20 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)                               | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
-|                 17 | <img src="https://i.scdn.co/image/ab6761610000e5eb916392fe8c66d0c993657b6d" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md)                               | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
+|                 18 | <img src="https://i.scdn.co/image/ab6761610000e5eb916392fe8c66d0c993657b6d" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md)                               | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 |                 17 | <img src="https://i.scdn.co/image/ab6761610000e5eb1723d33e6837b553b2e512c1" alt="" width="50" /> | [Pentatonix](../artists/pentatonix.md)                         | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
 |                 16 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../artists/leehi.md)                                   | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 |                 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../artists/ariana_grande.md)                   | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
@@ -242,7 +242,7 @@
 
 |   Number of Tracks | Label                                                                                                               |
 |-------------------:|:--------------------------------------------------------------------------------------------------------------------|
-|                151 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
+|                152 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
 |                 89 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 62 | [Epic](../labels/epic.md)                                                                                           |
 |                 55 | [Interscope](../labels/interscope.md)                                                                               |
@@ -356,11 +356,11 @@
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
-|                594 | [k-pop](../genres/k_pop.md)                         |
-|                363 | [pop](../genres/pop.md)                             |
+|                595 | [k-pop](../genres/k_pop.md)                         |
+|                344 | [pop](../genres/pop.md)                             |
 |                287 | [k-pop girl group](../genres/k_pop_girl_group.md)   |
 |                162 | [k-pop boy group](../genres/k_pop_boy_group.md)     |
-|                161 | [dance pop](../genres/dance_pop.md)                 |
+|                162 | [dance pop](../genres/dance_pop.md)                 |
 |                100 | [rock](../genres/rock.md)                           |
 |                 78 | [classic rock](../genres/classic_rock.md)           |
 |                 60 | [lilith](../genres/lilith.md)                       |
@@ -375,8 +375,8 @@
 |                 31 | [soft rock](../genres/soft_rock.md)                 |
 |                 30 | [psychedelic rock](../genres/psychedelic_rock.md)   |
 |                 30 | british invasion                                    |
-|                 29 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                 26 | [r&b](../genres/r_b.md)                             |
+|                 25 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                 25 | piano rock                                          |
 |                 24 | korean pop                                          |
 |                 23 | beatlesque                                          |
@@ -394,15 +394,15 @@
 |                 18 | art rock                                            |
 |                 18 | [a cappella](../genres/a_cappella.md)               |
 |                 16 | uk pop                                              |
-|                 16 | pop rap                                             |
 |                 15 | urban contemporary                                  |
+|                 15 | pop rap                                             |
 |                 15 | metropopolis                                        |
 |                 15 | k-rap                                               |
 |                 14 | uk alternative pop                                  |
-|                 14 | neo soul                                            |
 |                 14 | melancholia                                         |
 |                 14 | folk                                                |
 |                 14 | baroque pop                                         |
+|                 13 | neo soul                                            |
 |                 13 | glam rock                                           |
 |                 13 | canadian pop                                        |
 |                 12 | soul                                                |
@@ -415,7 +415,6 @@
 |                 10 | alternative rock                                    |
 |                  9 | oxford indie                                        |
 |                  9 | lounge                                              |
-|                  8 | viral pop                                           |
 |                  8 | tropical house                                      |
 |                  8 | latin pop                                           |
 |                  8 | korean city pop                                     |
@@ -425,7 +424,9 @@
 |                  8 | blues rock                                          |
 |                  8 | bergen indie                                        |
 |                  8 | australian dance                                    |
+|                  7 | viral pop                                           |
 |                  7 | pop dance                                           |
+|                  7 | motown                                              |
 |                  7 | kawaii metal                                        |
 |                  7 | j-pop                                               |
 |                  7 | j-metal                                             |
@@ -440,7 +441,6 @@
 |                  7 | alternative r&b                                     |
 |                  6 | stomp and holler                                    |
 |                  6 | pop soul                                            |
-|                  6 | motown                                              |
 |                  6 | modern alternative rock                             |
 |                  6 | la indie                                            |
 |                  6 | hip pop                                             |
@@ -468,12 +468,12 @@
 | Anaconda                        | A Case of You               |
 | #Twenty                         | Nature Boy                  |
 | FACE                            | Lights                      |
-| WAP (feat. Megan Thee Stallion) | You Take My Breath Away     |
-| SNEAKERS                        | Born To Die                 |
+| SNEAKERS                        | You Take My Breath Away     |
+| WAP (feat. Megan Thee Stallion) | Born To Die                 |
 | Billie Jean                     | The End (Interlude)         |
 | RUN (HAN)                       | Amore                       |
-| Another One Bites The Dust      | Bridge Over Troubled Water  |
-| Baby Got Back                   | Pyramid Song                |
+| Baby Got Back                   | Bridge Over Troubled Water  |
+| Another One Bites The Dust      | Pyramid Song                |
 
 | 10 most Energetic tracks   | 10 least Energetic tracks   |
 |:---------------------------|:----------------------------|
@@ -482,11 +482,11 @@
 | Shanti Shanti Shanti       | when the party's over       |
 | RING X RING                | The Dawntreader             |
 | Rondo of Nightmare         | Used                        |
-| Gimme Chocolate!!          | Nature Boy                  |
-| Headbangeeeeerrrrr!!!!!    | And So It Goes              |
+| Headbangeeeeerrrrr!!!!!    | Nature Boy                  |
+| Gimme Chocolate!!          | And So It Goes              |
 | Hit That Drum              | Run to You                  |
-| KARATE                     | Mad World                   |
-| だいじょばない                    | Kaleidoscope Heart          |
+| だいじょばない                    | Mad World                   |
+| KARATE                     | Kaleidoscope Heart          |
 
 | 10 most Speechy tracks           | 10 least Speechy tracks   |
 |:---------------------------------|:--------------------------|
@@ -494,8 +494,8 @@
 | I Don't Need You                 | Set Fire to the Rain      |
 | MANIAC                           | I'd Rather Go Blind       |
 | Mambo No. 5 (a Little Bit of...) | Old Fashioned             |
-| Vigilante Shit                   | All Too Well              |
-| Free Fall                        | The Scientist             |
+| Vigilante Shit                   | The Scientist             |
+| Free Fall                        | All Too Well              |
 | WAP (feat. Megan Thee Stallion)  | Breakeven                 |
 | bad guy                          | 情非得已                      |
 | I GOT IT (HAN)                   | Satellite Call            |
@@ -511,21 +511,21 @@
 | The Night We Met             | Mr. Simple                 |
 | I Had a King                 | Poison                     |
 | Sweet Nothing                | Headbangeeeeerrrrr!!!!!    |
-| The Dawntreader              | Kagerou                    |
-| Take It All                  | The Phantom Of The Opera   |
+| Take It All                  | Kagerou                    |
+| The Dawntreader              | The Phantom Of The Opera   |
 
-| 10 most Instrumental tracks              | 10 least Instrumental tracks                |
-|:-----------------------------------------|:--------------------------------------------|
-| Digital Love                             | Hello, Sunset                               |
-| だいじょばない                                  | Brown Eyed Girl                             |
-| Animals                                  | California Gurls                            |
-| Street Spirit (Fade Out)                 | Something                                   |
-| everything i wanted                      | I Love You 3000 II                          |
-| Instant Crush (feat. Julian Casablancas) | THRILL RIDE                                 |
-| Smooth Criminal - 2012 Remaster          | Locked out of Heaven                        |
-| Pyramid Song                             | If I Ever Fall In Love (feat. Jason Derulo) |
-| Shanti Shanti Shanti                     | Scream                                      |
-| You Take My Breath Away                  | POP!                                        |
+| 10 most Instrumental tracks              | 10 least Instrumental tracks   |
+|:-----------------------------------------|:-------------------------------|
+| Digital Love                             | Be Natural                     |
+| だいじょばない                                  | Cry for Me                     |
+| Animals                                  | Alone                          |
+| Street Spirit (Fade Out)                 | Voices                         |
+| everything i wanted                      | Deja Vu                        |
+| Instant Crush (feat. Julian Casablancas) | Hello, Sunset                  |
+| Smooth Criminal - 2012 Remaster          | Brown Eyed Girl                |
+| Pyramid Song                             | California Gurls               |
+| Shanti Shanti Shanti                     | Something                      |
+| You Take My Breath Away                  | First Time                     |
 
 | 10 most Live tracks            | 10 least Live tracks                  |
 |:-------------------------------|:--------------------------------------|
@@ -534,8 +534,8 @@
 | XS                             | YEPPI YEPPI                           |
 | Piano Man                      | memeM                                 |
 | You Better Run                 | That That (prod. & feat. SUGA of BTS) |
-| MAKE U DANCE (feat. EUNHA)     | Finesse                               |
-| Red Lipstick (feat. Yoonmirae) | SNEAKERS                              |
+| Red Lipstick (feat. Yoonmirae) | Finesse                               |
+| MAKE U DANCE (feat. EUNHA)     | SNEAKERS                              |
 | Sticker                        | CASE 143                              |
 | You Oughta Know                | Finesse - Remix; feat. Cardi B        |
 | 행복 (Happiness)                 | Ain't It Fun                          |
@@ -551,4 +551,4 @@
 | Pepe                            | No Time To Die          |
 | Mercy                           | Delicate                |
 | SexyBack (feat. Timbaland)      | What Sarah Said         |
-| Miniskirt                       | You Take My Breath Away |
+| I'm a Slave 4 U                 | You Take My Breath Away |

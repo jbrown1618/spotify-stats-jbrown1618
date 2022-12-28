@@ -213,8 +213,8 @@
 |                 71 | [neo mellow](../genres/neo_mellow.md)               |
 |                 63 | [pop rock](../genres/pop_rock.md)                   |
 |                 59 | [hollywood](../genres/hollywood.md)                 |
-|                 35 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                 35 | piano rock                                          |
+|                 34 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                 31 | [mellow gold](../genres/mellow_gold.md)             |
 |                 25 | [soft rock](../genres/soft_rock.md)                 |
 |                 25 | [classic rock](../genres/classic_rock.md)           |
@@ -233,7 +233,6 @@
 |                  6 | glam rock                                           |
 |                  5 | deep indie singer-songwriter                        |
 |                  3 | viral pop                                           |
-|                  2 | neo soul                                            |
 |                  2 | indy indie                                          |
 |                  2 | indiecoustica                                       |
 |                  2 | chamber pop                                         |
@@ -245,6 +244,7 @@
 |                  1 | pop soul                                            |
 |                  1 | permanent wave                                      |
 |                  1 | new americana                                       |
+|                  1 | neo soul                                            |
 |                  1 | modern folk rock                                    |
 |                  1 | irish pop                                           |
 |                  1 | indie soul                                          |

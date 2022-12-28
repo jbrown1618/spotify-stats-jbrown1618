@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b273714e56679ab196354e2e443eab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738c4a282e84a53c1c8acf129a" alt="K-Pop Favorites" width="100" />
 
-[198 songs](k_pop_favorites_tracks.md)
+[199 songs](k_pop_favorites_tracks.md)
 
 ## Top Artists
 
@@ -34,10 +34,10 @@
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="" width="50" /> | [EXO](../artists/exo.md)                             | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | [Girls' Generation](../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="" width="50" /> | [SEVENTEEN](../artists/seventeen.md)                 | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
+|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb7401998434b12fffd119ae18" alt="" width="50" /> | [NCT 127](../artists/nct_127.md)                     | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebadffb99dc62d070da29306ff" alt="" width="50" /> | JEON SOYEON                                          | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebd809a98eed8a673be5ed0576" alt="" width="50" /> | NCT DREAM                                            | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb45b2ff69ae6a3caccb776cfa" alt="" width="50" /> | [STAYC](../artists/stayc.md)                         | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7401998434b12fffd119ae18" alt="" width="50" /> | [NCT 127](../artists/nct_127.md)                     | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | Hwa Sa                                               | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf55b31064f94878f3da932c8" alt="" width="50" /> | MAX CHANGMIN                                         | [🔗](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9996e5d7c5b769b2b26ff1a" alt="" width="50" /> | SUPER JUNIOR                                         | [🔗](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) |
@@ -214,9 +214,9 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" alt="" width="50" /> | MANIFESTO : DAY 1                                                       | [🔗](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dbb82cf845a6d574224a0d33" alt="" width="50" /> | MAMACITA - The 7th Album                                                | [🔗](https://open.spotify.com/album/53i190Z2uGOLljuS3DCvz2) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="" width="50" /> | MAGIC MAN                                                               | [🔗](https://open.spotify.com/album/2VZ4og2ZbwyTQ3X1rbgCe1) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735f3ae8db55f4507baf0ef0dd" alt="" width="50" /> | Lowlife Princess: Noir                                                  | [🔗](https://open.spotify.com/album/0AwCgoJKJUOgLp1imhnxuH) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ebc6d2cf277ea321431e0529" alt="" width="50" /> | Low Low                                                                 | [🔗](https://open.spotify.com/album/58Y92GzXpCV5D6WRNqzOYN) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | Love poem                                                               | [🔗](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | Love Yourself 承 'Her'                                                   | [🔗](https://open.spotify.com/album/2FTS6a6DLXMNp8flyA0HGO) |
 
 </details>
 
@@ -227,11 +227,11 @@
 
 
 <details>
-<summary>See all 53 labels</summary>
+<summary>See all 54 labels</summary>
 
 |   Number of Tracks | Label                                                                                   |
 |-------------------:|:----------------------------------------------------------------------------------------|
-|                 60 | [SM Entertainment](../labels/sm_entertainment.md)                                       |
+|                 61 | [SM Entertainment](../labels/sm_entertainment.md)                                       |
 |                 18 | [Republic Records](../labels/republic_records.md)                                       |
 |                 17 | [YG Entertainment](../labels/yg_entertainment.md)                                       |
 |                 11 | [Interscope](../labels/interscope.md)                                                   |
@@ -276,6 +276,7 @@
 |                  1 | [Imperial Distribution](../labels/imperial_distribution.md)                             |
 |                  1 | [Hwa&Dam pictures](../labels/hwa_dam_pictures.md)                                       |
 |                  1 | [GU Music](../labels/gu_music.md)                                                       |
+|                  1 | [Feel Ghood Music](../labels/feel_ghood_music.md)                                       |
 |                  1 | [FNC ENTERTAINMENT](../labels/fnc_entertainment.md)                                     |
 |                  1 | [DREAMCATCHER COMPANY](../labels/dreamcatcher_company.md)                               |
 |                  1 | [Cre.ker Entertainment](../labels/cre_ker_entertainment.md)                             |
@@ -298,9 +299,9 @@
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
-|                166 | [k-pop](../genres/k_pop.md)                       |
+|                167 | [k-pop](../genres/k_pop.md)                       |
 |                 80 | [k-pop girl group](../genres/k_pop_girl_group.md) |
-|                 45 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
+|                 46 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
 |                 12 | [pop](../genres/pop.md)                           |
 |                  9 | anime                                             |
 |                  6 | korean pop                                        |
@@ -332,29 +333,29 @@
 
 | 10 most Energetic tracks              | 10 least Energetic tracks   |
 |:--------------------------------------|:----------------------------|
-| RING X RING                           | 눈,코,입 (Eyes, Nose, Lips)    |
+| RING X RING                           | BOOM                        |
 | Girls                                 | 7월 7일 One Of These Nights   |
 | RING ma Bell (what a wonderful world) | Dream                       |
 | Heart Shaker                          | HOLO                        |
 | HOME;RUN                              | Love poem                   |
 | Feel My Rhythm                        | 무제(無題) (Untitled, 2014)     |
 | The Boys                              | Butter                      |
-| Hype Boy                              | My sea                      |
+| Sparkling Night                       | My sea                      |
 | Ice Cream Cake                        | Gone                        |
-| Sparkling Night                       | ONLY                        |
+| Hype Boy                              | ONLY                        |
 
 | 10 most Speechy tracks   | 10 least Speechy tracks   |
 |:-------------------------|:--------------------------|
-| MANIAC                   | HOLD MY HAND              |
-| BBIBBI                   | RBB (Really Bad Boy)      |
-| Girls                    | HANN (Alone)              |
-| Sparkling Night          | Phase Me                  |
-| Sticker                  | Animal Farm               |
+| MANIAC                   | RBB (Really Bad Boy)      |
+| BBIBBI                   | HOLD MY HAND              |
+| Girls                    | Animal Farm               |
+| Sparkling Night          | HANN (Alone)              |
+| Sticker                  | Phase Me                  |
 | Crazy                    | Starlight                 |
-| Back Door                | HOLO                      |
 | I GOT A BOY              | Je T'aime                 |
-| Kill This Love           | Something                 |
-| Thunderous               | Spark                     |
+| Back Door                | HOLO                      |
+| 2 Baddies                | Something                 |
+| Kill This Love           | Spark                     |
 
 | 10 most Acoustic tracks   | 10 least Acoustic tracks   |
 |:--------------------------|:---------------------------|
@@ -377,9 +378,9 @@
 | Kill This Love                | WINE (Feat.Changmo) (Prod. SUGA) |
 | Why Not?                      | Bicycle                          |
 | Black Mamba                   | Love Talk                        |
-| In the morning                | VILLAIN DIES                     |
-| Stay Tonight                  | Why So Lonely                    |
-| Girls                         | Ditto                            |
+| In the morning                | Why So Lonely                    |
+| Stay Tonight                  | Ditto                            |
+| Girls                         | VILLAIN DIES                     |
 | MAGO                          | Shut Down                        |
 
 | 10 most Live tracks             | 10 least Live tracks        |

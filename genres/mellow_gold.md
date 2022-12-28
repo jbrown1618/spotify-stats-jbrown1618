@@ -1,16 +1,16 @@
 # mellow gold
 
-[69 songs](mellow_gold_tracks.md)
+[67 songs](mellow_gold_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 23 artists](../images/genres/mellow_gold/artists.png)
+![Bar chart of top 21 artists](../images/genres/mellow_gold/artists.png)
 
 ![Comparison of Artist](../images/genres/mellow_gold/artists_comparison.png)
 
 
 <details>
-<summary>See all 23 artists</summary>
+<summary>See all 21 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                                 | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------|:------------------------------------------------------------|
@@ -20,7 +20,6 @@
 |                  5 | <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | Simon & Garfunkel                                      | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | Van Morrison                                           | [🔗](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebe848dfb35ea4969099662dfd" alt="" width="50" /> | Journey                                                | [🔗](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) |
-|                  2 | <img src="https://i.scdn.co/image/a3201f2fbdfa1bfd894e509bd3fbf3faf7da0a00" alt="" width="50" /> | Natalie Cole                                           | [🔗](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4536d632bb182e3f82baaaf" alt="" width="50" /> | [The King's Singers](../artists/the_king_s_singers.md) | [🔗](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebfef3008e708e59efaa5667ed" alt="" width="50" /> | Styx                                                   | [🔗](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebbdef7f178c9cf2e8d50cb9b9" alt="" width="50" /> | The Monkees                                            | [🔗](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) |
@@ -28,7 +27,6 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebe924bdfec5ce73220c15cd25" alt="" width="50" /> | Kansas                                                 | [🔗](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb1f764c8f69b595efe77e1c45" alt="" width="50" /> | Paul Simon                                             | [🔗](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb0767e116a2307495e37cd7fb" alt="" width="50" /> | Eagles                                                 | [🔗](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb13fcd84a9d5590ddec452429" alt="" width="50" /> | Nat King Cole                                          | [🔗](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb21a213a4fe1a6f9b45d3f7f9" alt="" width="50" /> | Commodores                                             | [🔗](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb624ddceb90bdf808ed4e2e35" alt="" width="50" /> | Steve Miller Band                                      | [🔗](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb338d6964565206f741d5ad1" alt="" width="50" /> | Foreigner                                              | [🔗](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) |
@@ -46,14 +44,13 @@
 
 
 <details>
-<summary>See all 52 albums</summary>
+<summary>See all 51 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                          | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------|:-----------------------------------------------------------|
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | The Stranger                                   | [🔗](https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | Bridge Over Troubled Water                     | [🔗](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="" width="50" /> | Who's Next (Deluxe Edition)                    | [🔗](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273dfb2b41e8669c38536b7c3b6" alt="" width="50" /> | Unforgettable: With Love                       | [🔗](https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="" width="50" /> | The Stranger (Legacy Edition)                  | [🔗](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="" width="50" /> | Tapestry                                       | [🔗](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="" width="50" /> | Storm Front                                    | [🔗](https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D) |
@@ -108,11 +105,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 20 record labels](../images/genres/mellow_gold/labels.png)
+![Bar chart of top 19 record labels](../images/genres/mellow_gold/labels.png)
 
 
 <details>
-<summary>See all 20 labels</summary>
+<summary>See all 19 labels</summary>
 
 |   Number of Tracks | Label                                                                           |
 |-------------------:|:--------------------------------------------------------------------------------|
@@ -129,7 +126,6 @@
 |                  2 | [Polydor Records](../labels/polydor_records.md)                                 |
 |                  2 | [Ode](../labels/ode.md)                                                         |
 |                  2 | [Legacy Recordings](../labels/legacy_recordings.md)                             |
-|                  2 | [Craft Recordings](../labels/craft_recordings.md)                               |
 |                  2 | [A&M](../labels/a_m.md)                                                         |
 |                  1 | [Rhino Atlantic](../labels/rhino_atlantic.md)                                   |
 |                  1 | [MOTOWN](../labels/motown.md)                                                   |
@@ -144,13 +140,13 @@
 
 | 10 most Danceable tracks       | 10 least Danceable tracks   |
 |:-------------------------------|:----------------------------|
-| You Can Call Me Al             | Captain Jack                |
-| Cecilia                        | The Boxer                   |
-| My Life                        | And So It Goes              |
-| A Matter of Trust              | Piano Man                   |
-| We Didn't Start the Fire       | Come Sail Away              |
-| I Feel the Earth Move          | She's Always a Woman        |
-| Stayin Alive                   | Unforgettable               |
+| You Can Call Me Al             | Behind Blue Eyes            |
+| Cecilia                        | Captain Jack                |
+| My Life                        | The Boxer                   |
+| A Matter of Trust              | And So It Goes              |
+| We Didn't Start the Fire       | Piano Man                   |
+| I Feel the Earth Move          | Come Sail Away              |
+| Stayin Alive                   | She's Always a Woman        |
 | Won't Get Fooled Again - Remix | Desperado - 2013 Remaster   |
 | Uptown Girl                    | Lights                      |
 | Don't Ask Me Why               | Bridge Over Troubled Water  |
@@ -170,9 +166,9 @@
 
 | 10 most Speechy tracks            | 10 least Speechy tracks                                 |
 |:----------------------------------|:--------------------------------------------------------|
-| Only the Good Die Young           | Rocket Man (I Think It's Going To Be A Long, Long Time) |
-| Scenes from an Italian Restaurant | Dust in the Wind                                        |
-| Big Shot                          | Unforgettable                                           |
+| Only the Good Die Young           | Candle In The Wind - Remastered 2014                    |
+| Scenes from an Italian Restaurant | Rocket Man (I Think It's Going To Be A Long, Long Time) |
+| Big Shot                          | Dust in the Wind                                        |
 | Crazy Love - 2013 Remaster        | Goodbye Yellow Brick Road - Remastered 2014             |
 | The Stranger                      | Tiny Dancer                                             |
 | Crazy Love                        | Piano Man                                               |
@@ -190,21 +186,21 @@
 | The Boxer                      | Pinball Wizard                   |
 | And So It Goes                 | Renegade                         |
 | So Far Away                    | Pressure                         |
-| Unforgettable                  | Hotel California - 2013 Remaster |
-| Crazy Love                     | Carry on Wayward Son             |
-| I Can't Make You Love Me       | Any Way You Want It              |
+| Crazy Love                     | Hotel California - 2013 Remaster |
+| I Can't Make You Love Me       | Carry on Wayward Son             |
+| Crazy Love - 2013 Remaster     | Any Way You Want It              |
 
 | 10 most Instrumental tracks                 | 10 least Instrumental tracks            |
 |:--------------------------------------------|:----------------------------------------|
-| Won't Get Fooled Again - Remix              | The Longest Time                        |
-| Baba O'Riley                                | Don't Stop Believin'                    |
-| 25 or 6 to 4                                | Uptown Girl                             |
-| Stayin Alive                                | Daydream Believer                       |
-| My Generation - Stereo Version              | Pinball Wizard                          |
-| Lights                                      | And So It Goes                          |
-| You Can Call Me Al                          | The Sound of Silence - Acoustic Version |
+| Won't Get Fooled Again - Remix              | Pinball Wizard                          |
+| Baba O'Riley                                | The Sound of Silence - Acoustic Version |
+| 25 or 6 to 4                                | Cat's in the Cradle                     |
+| Stayin Alive                                | The Longest Time                        |
+| My Generation - Stereo Version              | Don't Ask Me Why                        |
+| Lights                                      | Only the Good Die Young                 |
+| You Can Call Me Al                          | Uptown Girl                             |
 | Who Are You                                 | We Didn't Start the Fire                |
-| I Feel the Earth Move                       | Don't Ask Me Why                        |
+| I Feel the Earth Move                       | And So It Goes                          |
 | Goodbye Yellow Brick Road - Remastered 2014 | Cold as Ice                             |
 
 | 10 most Live tracks      | 10 least Live tracks             |
@@ -213,8 +209,8 @@
 | Don't Stop Believin'     | Who Are You                      |
 | Carry on Wayward Son     | The Boxer                        |
 | Brown Eyed Girl          | Easy                             |
-| Captain Jack             | Crocodile Rock                   |
-| We Didn't Start the Fire | Movin' Out (Anthony's Song)      |
+| Captain Jack             | Movin' Out (Anthony's Song)      |
+| We Didn't Start the Fire | Crocodile Rock                   |
 | Lights                   | Won't Get Fooled Again - Remix   |
 | New York State of Mind   | Hotel California - 2013 Remaster |
 | Piano Man                | My Life                          |
@@ -222,13 +218,13 @@
 
 | 10 most Happy tracks           | 10 least Happy tracks          |
 |:-------------------------------|:-------------------------------|
-| Crocodile Rock                 | And So It Goes                 |
-| I'm a Believer - 2006 Remaster | The Stranger                   |
-| Cecilia                        | Lullabye (Goodnight, My Angel) |
-| Stayin Alive                   | She's Got a Way                |
-| Brown Eyed Girl                | New York State of Mind         |
-| We Didn't Start the Fire       | Desperado - 2013 Remaster      |
-| Movin' Out (Anthony's Song)    | Baba O'Riley                   |
-| A Matter of Trust              | Unforgettable                  |
+| Crocodile Rock                 | Bridge Over Troubled Water     |
+| I'm a Believer - 2006 Remaster | And So It Goes                 |
+| Cecilia                        | The Stranger                   |
+| Stayin Alive                   | Lullabye (Goodnight, My Angel) |
+| Brown Eyed Girl                | She's Got a Way                |
+| We Didn't Start the Fire       | New York State of Mind         |
+| Movin' Out (Anthony's Song)    | Desperado - 2013 Remaster      |
+| A Matter of Trust              | Baba O'Riley                   |
 | Don't Ask Me Why               | Come Sail Away                 |
 | Pressure                       | I Can't Make You Love Me       |

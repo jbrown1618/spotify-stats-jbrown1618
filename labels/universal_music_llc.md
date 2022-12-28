@@ -1,11 +1,11 @@
 # Universal Music LLC
 
-60 songs
+59 songs
 
 Appears as:
 - Universal Music LLC (37 tracks)
 - Universal Records (16 tracks)
-- Universal Music Ltd. (5 tracks)
+- Universal Music Ltd. (4 tracks)
 - Fuzzy Door Productions/Universal (1 tracks)
 - Republic/Universal/FSF (1 tracks)
 
@@ -22,9 +22,9 @@ Appears as:
 |                 13 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)             | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 |                 12 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../artists/ariana_grande.md)   | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebadffb99dc62d070da29306ff" alt="" width="50" /> | JEON SOYEON                                    | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
-|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eba3c1fca063ed673aed61c885" alt="" width="50" /> | YOUHA                                          | [🔗](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb6eff35941dca1f9461944174" alt="" width="50" /> | Elizaveta                                      | [🔗](https://open.spotify.com/artist/2a9bCkqCkLvXM0s3uPvR7M) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | CLC                                            | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
+|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eba3c1fca063ed673aed61c885" alt="" width="50" /> | YOUHA                                          | [🔗](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | PENTAGON                                       | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc19d6c8224e8b1b94bf565e5" alt="" width="50" /> | Perfume                                        | [🔗](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd12e935bbdee7c383001f8c4" alt="" width="50" /> | YUQI                                           | [🔗](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) |
@@ -57,7 +57,7 @@ Appears as:
 
 
 <details>
-<summary>See all 35 albums</summary>
+<summary>See all 34 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                   | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------|:-----------------------------------------------------------|
@@ -72,7 +72,6 @@ Appears as:
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2733fe0e026d4043e5d62c81328" alt="" width="50" /> | LOVE or TAKE                                            | [🔗](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c5011613476079ff2498bf4a" alt="" width="50" /> | HELICOPTER                                              | [🔗](https://open.spotify.com/album/1uwfxRAhW1hxclCVkzku8d) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273cf122fa2dd2c23dcc79f7c51" alt="" width="50" /> | A Page                                                  | [🔗](https://open.spotify.com/album/7jmRVFWYCVgx2OEC1ZQJH8) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ead72e8dd961206f05079de7" alt="" width="50" /> | 오늘 조금 취해서 그래                                            | [🔗](https://open.spotify.com/album/6QpIl0FPITcpoJTn5HP4vD) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ced490e566f828ee9ca8d263" alt="" width="50" /> | 潜潜話                                                     | [🔗](https://open.spotify.com/album/4myzXA54fPm89hpW41YkOS) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dbd5c6e6e365a3e70832780d" alt="" width="50" /> | さよならひとり                                                 | [🔗](https://open.spotify.com/album/0VOMzswFy3fFsOb1tYs1Wd) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27358870b3abb0ff43e5948c912" alt="" width="50" /> | i'M THE TREND                                           | [🔗](https://open.spotify.com/album/03TbZLPSRsHWX11umzK4qf) |
@@ -110,15 +109,15 @@ Appears as:
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
-|                 33 | [k-pop](../genres/k_pop.md)                       |
+|                 32 | [k-pop](../genres/k_pop.md)                       |
 |                 18 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 |                 13 | [pop](../genres/pop.md)                           |
 |                 13 | [dance pop](../genres/dance_pop.md)               |
 |                  6 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
-|                  4 | k-indie                                           |
 |                  4 | j-pop                                             |
 |                  4 | deep indie singer-songwriter                      |
 |                  3 | korean city pop                                   |
+|                  3 | k-indie                                           |
 |                  2 | shibuya-kei                                       |
 |                  2 | japanese electropop                               |
 |                  2 | j-pop girl group                                  |
@@ -196,7 +195,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d7610ec7724bad4e6c9e499" alt="" width="50" /> | POPPY                        | POPPY                                                   | [STAYC](../artists/stayc.md)                                        | [Universal Music LLC](universal_music_llc.md)                                               | 💚   | [🔗](https://open.spotify.com/track/2gpwaAJnSDTevgZa4uyM0H) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dbd5c6e6e365a3e70832780d" alt="" width="50" /> | さよならひとり                      | さよならひとり                                                 | TAEMIN                                                              | [Universal Music LLC](universal_music_llc.md)                                               |     | [🔗](https://open.spotify.com/track/4ltAvuYuC8PNKAStXiWouZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27303611decaac95320f5549cec" alt="" width="50" /> | KISS                         | LEVIOSA                                                 | TRI.BE                                                              | [Universal Music Ltd.](universal_music_llc.md)                                              | 💚   | [🔗](https://open.spotify.com/track/7MONmJafc7senaIZE3ulWv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ead72e8dd961206f05079de7" alt="" width="50" /> | 오늘 조금 취해서 그래                 | 오늘 조금 취해서 그래                                            | YOUHA                                                               | [Universal Music Ltd.](universal_music_llc.md)                                              |     | [🔗](https://open.spotify.com/track/1pU5SijPp89lNrZHJL0166) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a27cc2d12832101090ab0363" alt="" width="50" /> | Cherry On Top                | Cherry On Top                                           | YOUHA                                                               | [Universal Music Ltd.](universal_music_llc.md)                                              | 💚   | [🔗](https://open.spotify.com/track/6S2vJU8eHt7WpZJE3SWpTa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27357a6f5928952c277c4407f98" alt="" width="50" /> | Last Dance                   | love you more,                                          | YOUHA                                                               | [Universal Music Ltd.](universal_music_llc.md)                                              | 💚   | [🔗](https://open.spotify.com/track/1bOS0JdXxmTWwlUxXX7gRG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27357a6f5928952c277c4407f98" alt="" width="50" /> | NUMB                         | love you more,                                          | YOUHA                                                               | [Universal Music Ltd.](universal_music_llc.md)                                              | 💚   | [🔗](https://open.spotify.com/track/1yyyzZSKxNskVQqTCCE0pz) |

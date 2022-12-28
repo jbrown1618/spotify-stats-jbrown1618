@@ -1,6 +1,6 @@
 # k-pop girl group
 
-[381 songs](k_pop_girl_group_tracks.md)
+[380 songs](k_pop_girl_group_tracks.md)
 
 ## Top Artists
 
@@ -14,13 +14,13 @@
 
 |   Number of Tracks | Art                                                                                              | Artist                                               | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------|:------------------------------------------------------------|
-|                 60 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)               | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
+|                 59 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)               | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 |                 37 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../artists/itzy.md)                           | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                 36 | <img src="https://i.scdn.co/image/ab6761610000e5ebd84fd6ae9ccfc6206ea6711e" alt="" width="50" /> | [TWICE](../artists/twice.md)                         | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 |                 33 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)                   | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 |                 28 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)                 | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 |                 20 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../artists/mamamoo.md)                     | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
-|                 15 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../artists/aespa.md)                         | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
+|                 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../artists/aespa.md)                         | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 |                 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | [Girls' Generation](../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 |                 13 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="" width="50" /> | [Dreamcatcher](../artists/dreamcatcher.md)           | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 |                 12 | <img src="https://i.scdn.co/image/ab6761610000e5eb45b2ff69ae6a3caccb776cfa" alt="" width="50" /> | [STAYC](../artists/stayc.md)                         | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
@@ -204,7 +204,7 @@
 
 |   Number of Tracks | Label                                                                                                               |
 |-------------------:|:--------------------------------------------------------------------------------------------------------------------|
-|                 82 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
+|                 81 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
 |                 63 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 25 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
 |                 24 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                                                               |
@@ -296,8 +296,8 @@
 | Secret                     | You Never Know              |
 | Oh!                        | STAY                        |
 | Mr.Mr.                     | HANN (Alone in winter)      |
-| Very Very Very             | Hope Not                    |
-| Panorama                   | The Happiest Girl           |
+| Panorama                   | Hope Not                    |
+| Very Very Very             | The Happiest Girl           |
 
 | 10 most Speechy tracks        | 10 least Speechy tracks   |
 |:------------------------------|:--------------------------|
@@ -308,8 +308,8 @@
 | Signal                        | In My Dreams              |
 | You Better Run                | LOVE FOOL                 |
 | Girls                         | YOUNG LUV                 |
-| Be Natural                    | Gee                       |
-| Love So Sweet                 | Hope Not                  |
+| Be Natural                    | Hope Not                  |
+| Love So Sweet                 | Gee                       |
 | O.O                           | Moonlight Melody          |
 
 | 10 most Acoustic tracks   | 10 least Acoustic tracks   |
@@ -327,16 +327,16 @@
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| You and I (Park Bom)          | Um Oh Ah Yeh                   |
-| Adios                         | ILLELLA                        |
-| YEPPI YEPPI                   | Starry Night                   |
-| So Hot                        | Piano Man                      |
-| I Am The Best                 | Wind flower                    |
-| Power Up                      | You’re the Best                |
-| BBoom BBoom                   | I Miss You                     |
-| In My Dreams                  | Yes I Am                       |
-| BAAM                          | Mr-Ambiguous                   |
-| Star                          | Beautiful Christmas            |
+| You and I (Park Bom)          | Umpah Umpah                    |
+| Adios                         | Be Natural                     |
+| YEPPI YEPPI                   | #Cookie Jar                    |
+| So Hot                        | Rookie                         |
+| I Am The Best                 | Bewitched - Eng Ver.           |
+| Power Up                      | WILDSIDE                       |
+| BBoom BBoom                   | Marionette                     |
+| In My Dreams                  | Villain                        |
+| BAAM                          | SO BAD                         |
+| Star                          | HANN (Alone in winter)         |
 
 | 10 most Live tracks   | 10 least Live tracks          |
 |:----------------------|:------------------------------|
@@ -346,20 +346,20 @@
 | I Like That           | Red Light                     |
 | Vibrato               | BLACK DRESS                   |
 | 행복 (Happiness)        | DARK (X-file)                 |
-| LP                    | Ice Cream (with Selena Gomez) |
-| Genie                 | YEPPI YEPPI                   |
+| Genie                 | Ice Cream (with Selena Gomez) |
+| LP                    | YEPPI YEPPI                   |
 | STEREOTYPE            | SNEAKERS (English Ver.)       |
 | 5th Season (SSFWL)    | SNEAKERS                      |
 
 | 10 most Happy tracks    | 10 least Happy tracks     |
 |:------------------------|:--------------------------|
 | Pepe                    | 4 Walls                   |
-| So Hot                  | MORE                      |
-| Miniskirt               | POSE                      |
+| Miniskirt               | MORE                      |
+| So Hot                  | POSE                      |
 | Twinkle                 | LION                      |
-| Lion Heart              | Ditto                     |
-| Give it to me           | In My Dreams              |
-| 러시안 룰렛 Russian Roulette | Hope Not                  |
+| Give it to me           | Ditto                     |
+| Lion Heart              | Hope Not                  |
+| 러시안 룰렛 Russian Roulette | In My Dreams              |
 | Nobody                  | Body Talk                 |
 | Really                  | Lucid Dream               |
 | Devil                   | 7월 7일 One Of These Nights |

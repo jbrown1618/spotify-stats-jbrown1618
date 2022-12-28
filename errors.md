@@ -2,10 +2,7 @@
 
 ## Duplicate tracks
 
-| Track                                                                          |   Track Popularity | Release Date   | Artists                                                                                                                                      | Album                                                                                       |   Album Popularity | Playlists                                                                     | Label            | 💚   |
-|:-------------------------------------------------------------------------------|-------------------:|:---------------|:---------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|-------------------:|:------------------------------------------------------------------------------|:-----------------|:----|
-| Beautiful Christmas [🔗](https://open.spotify.com/track/1MsWVb6YW3AknP1EAZaKOQ) |                  0 | 2022-12-26     | Red Velvet [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM),<br>aespa [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | 2022 Winter SMTOWN : SMCU PALACE [🔗](https://open.spotify.com/album/1HwnXJfZx8N8qDfzwUbxcw) |                  0 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7)           | SM Entertainment | 💚   |
-| Beautiful Christmas [🔗](https://open.spotify.com/track/3k7FTBQkstaBcYHamx9jqe) |                 66 | 2022-12-14     | Red Velvet [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM),<br>aespa [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | Beautiful Christmas [🔗](https://open.spotify.com/album/1oniugll0x2gZ3l7o4z9iG)              |                 55 | Recent Releases [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | SM Entertainment |     |
+None
 
 ## Duplicate albums
 

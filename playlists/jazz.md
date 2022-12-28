@@ -129,7 +129,6 @@
 |                  8 | vocal jazz                                          |
 |                  7 | easy listening                                      |
 |                  6 | contemporary vocal jazz                             |
-|                  3 | [mellow gold](../genres/mellow_gold.md)             |
 |                  3 | jazz quartet                                        |
 |                  3 | jazz                                                |
 |                  3 | bebop                                               |
@@ -138,6 +137,7 @@
 |                  1 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  1 | roots rock                                          |
 |                  1 | nu jazz                                             |
+|                  1 | [mellow gold](../genres/mellow_gold.md)             |
 |                  1 | [lilith](../genres/lilith.md)                       |
 |                  1 | korean jazz                                         |
 |                  1 | folk rock                                           |

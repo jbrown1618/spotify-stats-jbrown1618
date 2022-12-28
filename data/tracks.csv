@@ -1,7 +1,6 @@
 name,popularity,explicit,duration_ms,uri,album_uri
 Waltz No.10 Op.69-2 B Minor,1,False,208000,spotify:track:0004INO1s16Z8VSdewvTak,spotify:album:3USjXpMk5Pga22AZua7vNT
 "Piano Sonata No. 12 in F Major, K. 332: II. Adagio",0,False,380665,spotify:track:004a5pvn9FmiF9jTujKiJp,spotify:album:3AYEvo7R1gY4O5xJuMwy3U
-Where You Are,0,False,266440,spotify:track:00TUa5TlTVJXDvjq3TNK5v,spotify:album:1HwnXJfZx8N8qDfzwUbxcw
 abnormalize,50,False,216666,spotify:track:00nmZvZRyzQiYe2tAcDDUb,spotify:album:04ygc7Z2gcGtt7m8pnVUwf
 We Found Love,0,False,226650,spotify:track:00pw67OZKJyzydY9N2Orui,spotify:album:6Pqey2mc4EWSfYNH3bifbO
 "Concerto for Violin and Strings in F Major, Op. 8, No. 3, RV 293 ""L'autunno"": II. Adagio molto (Ubriachi dormienti)",10,False,150000,spotify:track:00rr9bcpswlDp38RmgNWws,spotify:album:4Uc1Cus3I9LjkI2XwtQnfc
@@ -520,7 +519,6 @@ Hurricane,58,False,143551,spotify:track:16sNPUamj4vnA7uQLozRpU,spotify:album:1kC
 白日,67,False,276373,spotify:track:172fMG26G2OoEzzg0wn26r,spotify:album:1IYJeRjWNruxAKls5cBtqm
 "La Bohème, Act II: Aranci, datteri! (Hawkers, Townspeople, Schaunard, Colline, Rodolfo, Mimì, Marcello)",2,False,168240,spotify:track:17MfUBDYisxb0ne8F6LGyZ,spotify:album:4FqWqqnsUS8gKpLEYnuICl
 "String Quartet No. 16 in F Major, Op. 135: IV. Grave ma non troppo tratto - Allegro",2,False,416253,spotify:track:17gcQZt0jMDbuEyOFaSyBI,spotify:album:4JhUG1lr4xztAcqyA0Jm3a
-Good To Be Alive,0,False,202360,spotify:track:17o3AVR4saREMNmMYfD5h9,spotify:album:1HwnXJfZx8N8qDfzwUbxcw
 Valerie,0,False,213702,spotify:track:18OOiO2QFVNYwixjqj1jks,spotify:album:6Pqey2mc4EWSfYNH3bifbO
 ZOOM,66,False,184186,spotify:track:18OjYSOz2ryc2vLmAeG2de,spotify:album:58OR7UoaJkJzqeQGClHzh1
 Kill This Love,1,False,189052,spotify:track:18PergoIrGmRyeYxnaXJN2,spotify:album:7viSsSKXrDa95CtUcuc1Iv
@@ -858,7 +856,6 @@ Blank Space,75,False,231826,spotify:track:1p80LdxRV74UKvL8gnD7ky,spotify:album:2
 "Die Zauberflöte, K. 620 / Zweiter Aufzug: ""He, Lichter her!""",0,False,13000,spotify:track:1pDMF9szJB8q0h1OZ8JSlP,spotify:album:45QGB3unppoM0c5CoRobJK
 "4 Motets pour un temps de pénitence, FP 97: No. 3, Tenebrae factae sunt",1,False,228722,spotify:track:1pEgzXriotJRGrgrmE2eHR,spotify:album:6czmOzWnyfS71jDpRxZDam
 Turandot / Act 1: Non piangere Liù,31,False,303200,spotify:track:1pTjPvw4Bru6c23MVLlL8x,spotify:album:4MgEjX6gD7TJcgr47E4RTZ
-오늘 조금 취해서 그래,46,False,165545,spotify:track:1pU5SijPp89lNrZHJL0166,spotify:album:6QpIl0FPITcpoJTn5HP4vD
 We All Need Saving,0,False,221439,spotify:track:1pmXBVP9jTuMscTa5S9TOP,spotify:album:3qJMqi0VzTFGSDTTMUI5n7
 All Too Well,61,False,327893,spotify:track:1q3RiD1tIWUpGsNFADMlvl,spotify:album:1KlU96Hw9nlvqpBPlSqcTV
 Coppélia / Tableau 1: No. 8 Final,0,False,291813,spotify:track:1q6d29hcZizG37UPMVIS1U,spotify:album:7jKT8NC2XfAs9RFKsrGz2p
@@ -1568,7 +1565,6 @@ Oh My God,81,False,225148,spotify:track:3Kkjo3cT83cw09VJyrLNwX,spotify:album:21j
 Work Bitch,69,True,247960,spotify:track:3KliPMvk1EvFZu9cvkj8p1,spotify:album:5rlB2HPoNHg2m1wmmh0TRv
 Marionette,47,False,228653,spotify:track:3KvMgB5V1FvQTCvvHz5aiO,spotify:album:4ualu7nMAcmoAqp47YaA95
 "Piano Sonata No. 1 in F Minor, Op. 2, No. 1: I. Allegro",3,False,235106,spotify:track:3L3B58di5ewulHGTfnh59h,spotify:album:5CjMjZJnjdHHgwAVkqrvXq
-Why Don’t You Know,45,False,198420,spotify:track:3L6OalQDbdCS0Tg1kFccYn,spotify:album:7KM1Yi5xYv3O6OcKsEeV83
 BEcause,58,False,191946,spotify:track:3L74uwShK0JqEUZ5Y2JoDW,spotify:album:1JOpx5eL6Rb3vRC9epERQD
 "La Bohème, Act IV: O Mimì, tu più non torni (Rodolfo, Marcello)",1,False,176426,spotify:track:3L8kkGKJzRyFRlf2VG0XFZ,spotify:album:4FqWqqnsUS8gKpLEYnuICl
 Cat (Feat. IU),42,False,192605,spotify:track:3LAnd3nxfVjYsNG14xuM7x,spotify:album:3b8iQhtbLD0Vn4EqQzMC3N
@@ -1749,7 +1745,6 @@ Hit 'Em Up Style (Oops!),43,False,250493,spotify:track:3flAV51ACbtIcEixb0QeZv,sp
 "Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: ""In quali eccessi"" (K. 540c, Recitative)",0,False,145973,spotify:track:3ftEJhbZwwP4A0r2KKjp4X,spotify:album:1HSJhsMIW2EDD4YSSkbc9e
 A New Kind Of Love - Demo,64,False,259071,spotify:track:3fuyYaLhZ2RoP9eWpvfP1H,spotify:album:484SKRaXGq7m9VV0rmSyeb
 24H,58,False,188986,spotify:track:3gAR6cBifLqbW8kOrMqZPr,spotify:album:24Uj6VdVytaReqt1KJWxfc
-Animal Farm,66,False,203945,spotify:track:3gAXVQOR0h7Ks71lsr5MFZ,spotify:album:3Wn89ahl9ccGAxrjIB8Tvt
 Heaven,52,False,218506,spotify:track:3gBFAvpAVSNohs3ESRMYHi,spotify:album:3GJjPtV0iPKM3fLPvqdURX
 Now Is The Start,32,False,286429,spotify:track:3gEyA6UtRSk1058sev61D6,spotify:album:1876e9QcHkJ3Hgo4NqKXBN
 RUN2U,71,False,213426,spotify:track:3gFcGnU4kTdMYLXDjH1TK8,spotify:album:2xPdgNkM4yIQmP7axJ1T1o
@@ -1787,7 +1782,6 @@ Adore You,84,False,207133,spotify:track:3jjujdWJ72nww5eGnfs2E7,spotify:album:7xV
 "Morceaux de fantaisie, Op. 3: No. 2, Prelude in C-Sharp Minor",0,False,264746,spotify:track:3jyko3okSMjZbIGdElSQN5,spotify:album:1vlnwUAidj7bEmRhsq4zTv
 The Circle of Life,14,False,264666,spotify:track:3jzAbk9K5I1n8zlPeptNxD,spotify:album:3W9Uo4nvI281sjlEIrR6z6
 "Vivaldi: The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 ""Spring"": III. Allegro",13,False,265426,spotify:track:3k6tQABkAsr1Mq7eDRJwk1,spotify:album:4YpaKMCcb65yOoee75UUOh
-Beautiful Christmas,66,False,209800,spotify:track:3k7FTBQkstaBcYHamx9jqe,spotify:album:1oniugll0x2gZ3l7o4z9iG
 "Cello Suite No. 6 in D Major, BWV 1012: II. Allemande",31,False,421973,spotify:track:3kCQjHGEzgy9JOqr6fgxDv,spotify:album:2OpnKgmVYPEN2GldgBponI
 チョコレイト・ディスコ,37,False,226213,spotify:track:3kFEX1OTRaZ5WfX3X42BQP,spotify:album:6kzdxF5o6XpDNTLVVdjoMj
 I Will Follow You into the Dark,65,False,189186,spotify:track:3kZC0ZmFWrEHdUCmUqlvgZ,spotify:album:1NFGnxmeIEBakre4DvLaJq
@@ -2239,7 +2233,7 @@ Already Gone,56,False,281560,spotify:track:4fq2YUONcgrCJ2SPndSeKC,spotify:album:
 ANTIFRAGILE,89,False,184444,spotify:track:4fsQ0K37TOXa3hEQfjEic1,spotify:album:3u0ggfmK0vjuHMNdUbtaa9
 "String Quartet in G Minor, Op. 20, No. 3: III. Poco Adagio",5,False,463360,spotify:track:4fslTfB5Sk50kC4YfFcor0,spotify:album:1rNGG2I3AKJy9FWqUiitkc
 Coppélia / Tableau 1: No. 6 Thème slave varié,0,False,453160,spotify:track:4fyXVlaZ0k834i95iZs04H,spotify:album:7jKT8NC2XfAs9RFKsrGz2p
-The Cure,0,False,220026,spotify:track:4fzm0dCKiZm6T1yWIkPUiO,spotify:album:1HwnXJfZx8N8qDfzwUbxcw
+Animal Farm,56,False,203945,spotify:track:4g6ZT8vgKNq4iyEbezr3yI,spotify:album:0AwCgoJKJUOgLp1imhnxuH
 BLACK DRESS,53,False,193609,spotify:track:4g73tmQQc6pSfe4NMXKrZD,spotify:album:3I3c4rkP6v5LtjMrgbD6d0
 "13 Preludes, Op. 32: No. 7 in F Major: Moderato",0,False,151480,spotify:track:4g9sNU83qPH85xNoFAZqED,spotify:album:1vlnwUAidj7bEmRhsq4zTv
 Pictures at an Exhibition (Orch. Ravel): I. Gnomus,33,False,132480,spotify:track:4gKrD45pSLOwGndDsmtisn,spotify:album:1b2aoeaYZZBWmJoavOQhnd
@@ -2959,7 +2953,6 @@ God Only Knows,2,False,353985,spotify:track:6CrOQIE1PpRdh12PvmUt3c,spotify:album
 Why Have You Brought Me Here,34,False,191373,spotify:track:6DGALltLYPxUv3zmWLGT4x,spotify:album:36bEg6FTBaZGLg9ngJZIU6
 "Die Zauberflöte, K.620 / Act 1: ""O zittre nicht, mein lieber Sohn""",1,False,315733,spotify:track:6DT54QnrQN2kHlWCf6KroH,spotify:album:1HSJhsMIW2EDD4YSSkbc9e
 Little Lotte / The Mirror (Angel Of Music),41,False,168840,spotify:track:6DUe3XqMPk2OMsT3QQfcVE,spotify:album:36bEg6FTBaZGLg9ngJZIU6
-Higher,60,False,209333,spotify:track:6DXWAohpXqYHKQ4zTvpPG0,spotify:album:5Khk4qZMCH9iMJWBzzdbNP
 "Piano Sonata No. 27 in E minor, Op. 90: 1. Mit Lebhaftigkeit und durchaus mit Empfindung und Ausdruck",2,False,355666,spotify:track:6DY6DT8yFhYMLzawndbTLn,spotify:album:7xbsSOswKgms1fUFuwKArz
 "Piano Sonata No. 7 in D, Op. 10 No. 3: 4. Rondo (Allegro)",2,False,222400,spotify:track:6Dhas016rdWQd49cGPeeor,spotify:album:7xbsSOswKgms1fUFuwKArz
 Nocturne No.5 Op.15-2 F Sharp Major,0,False,201000,spotify:track:6DixyBlby49gNxQhq11WyB,spotify:album:3USjXpMk5Pga22AZua7vNT
@@ -3672,7 +3665,6 @@ Problem,75,False,193920,spotify:track:7vS3Y0IKjde7Xg85LWIEdP,spotify:album:6EVYT
 Shenandoah - Arr. Bob Chilcott,19,False,193293,spotify:track:7vhTfs9QoqqPowjORyHnvj,spotify:album:3OF5H5176VONmVik8EvJC6
 "La Bohème, Act IV: Che avvien? (Schaunard, Mimì, Rodolfo, Musetta, Marcello)",1,False,237306,spotify:track:7vi7H0oPWtiLRHHnsKUAoF,spotify:album:4FqWqqnsUS8gKpLEYnuICl
 Cold as Ice,68,False,200213,spotify:track:7vidktgNZFQylTgH1GEnMs,spotify:album:1OU7zJvUfgxxPHgkTClt1M
-Happier,0,False,162533,spotify:track:7vqXomPPC8z6VexoO6hWEY,spotify:album:1HwnXJfZx8N8qDfzwUbxcw
 Bizet: Carmen: La fleur que tu m'avais jetee: Flower Song - Act Two,9,False,271666,spotify:track:7w16XXQ1P1DxgFO99u4Y3S,spotify:album:7v178habOq2br0SjMG1KF5
 Bicycle,59,False,179156,spotify:track:7wDVvxMUdW5MtJUqFtuXUz,spotify:album:1p2OBhqq0d1N8awjHV9xA3
 "String Quartet No. 15 in A minor, Op. 132: I. Assai sostenuto - Allegro",3,False,556840,spotify:track:7wEpfZjWkbmhx7OtzL3CKn,spotify:album:4JhUG1lr4xztAcqyA0Jm3a
