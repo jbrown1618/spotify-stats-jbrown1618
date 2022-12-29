@@ -23,6 +23,7 @@
 ## Genres
 
 - chamber choir
+- choral
 - orthodox chant
 - russian choir
 

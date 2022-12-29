@@ -368,8 +368,8 @@
 |                 57 | [acoustic pop](../genres/acoustic_pop.md)           |
 |                 56 | [pop rock](../genres/pop_rock.md)                   |
 |                 44 | [hollywood](../genres/hollywood.md)                 |
-|                 42 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                 42 | [mellow gold](../genres/mellow_gold.md)             |
+|                 41 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                 33 | [electropop](../genres/electropop.md)               |
 |                 32 | [art pop](../genres/art_pop.md)                     |
 |                 31 | [soft rock](../genres/soft_rock.md)                 |
@@ -418,7 +418,6 @@
 |                  8 | tropical house                                      |
 |                  8 | latin pop                                           |
 |                  8 | korean city pop                                     |
-|                  8 | hip hop                                             |
 |                  8 | etherpop                                            |
 |                  8 | escape room                                         |
 |                  8 | blues rock                                          |
@@ -426,11 +425,11 @@
 |                  8 | australian dance                                    |
 |                  7 | viral pop                                           |
 |                  7 | pop dance                                           |
-|                  7 | motown                                              |
 |                  7 | kawaii metal                                        |
 |                  7 | j-pop                                               |
 |                  7 | j-metal                                             |
 |                  7 | idol rock                                           |
+|                  7 | hip hop                                             |
 |                  7 | country dawn                                        |
 |                  7 | country                                             |
 |                  7 | comic metal                                         |
@@ -441,6 +440,7 @@
 |                  7 | alternative r&b                                     |
 |                  6 | stomp and holler                                    |
 |                  6 | pop soul                                            |
+|                  6 | motown                                              |
 |                  6 | modern alternative rock                             |
 |                  6 | la indie                                            |
 |                  6 | hip pop                                             |

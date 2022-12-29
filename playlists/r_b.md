@@ -226,14 +226,13 @@
 |                 12 | neo soul                                        |
 |                 10 | barbadian pop                                   |
 |                 10 | atl hip hop                                     |
-|                  9 | motown                                          |
 |                  8 | [post-teen pop](../genres/post_teen_pop.md)     |
+|                  8 | motown                                          |
 |                  6 | pop rap                                         |
 |                  6 | escape room                                     |
 |                  6 | edm                                             |
 |                  6 | alternative r&b                                 |
 |                  6 | [adult standards](../genres/adult_standards.md) |
-|                  5 | quiet storm                                     |
 |                  5 | funk                                            |
 |                  5 | [electropop](../genres/electropop.md)           |
 |                  5 | contemporary r&b                                |
@@ -246,7 +245,6 @@
 |                  3 | canadian contemporary r&b                       |
 |                  2 | [neo mellow](../genres/neo_mellow.md)           |
 |                  2 | lgbtq+ hip hop                                  |
-|                  2 | hip hop                                         |
 |                  2 | chill r&b                                       |
 |                  1 | vocal jazz                                      |
 |                  1 | uk pop                                          |
@@ -258,10 +256,12 @@
 |                  1 | soul blues                                      |
 |                  1 | [soft rock](../genres/soft_rock.md)             |
 |                  1 | rock-and-roll                                   |
+|                  1 | quiet storm                                     |
 |                  1 | minnesota hip hop                               |
 |                  1 | [mellow gold](../genres/mellow_gold.md)         |
 |                  1 | jazz blues                                      |
 |                  1 | indie r&b                                       |
+|                  1 | hip hop                                         |
 |                  1 | girl group                                      |
 |                  1 | disco                                           |
 |                  1 | canadian pop                                    |

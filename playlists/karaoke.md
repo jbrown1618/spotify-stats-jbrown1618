@@ -229,7 +229,6 @@
 |                  4 | permanent wave                                      |
 |                  4 | lounge                                              |
 |                  4 | glam rock                                           |
-|                  3 | motown                                              |
 |                  3 | folk rock                                           |
 |                  3 | canadian pop                                        |
 |                  3 | australian pop                                      |
@@ -237,8 +236,8 @@
 |                  2 | urban contemporary                                  |
 |                  2 | soul                                                |
 |                  2 | [r&b](../genres/r_b.md)                             |
-|                  2 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                  2 | pop soul                                            |
+|                  2 | motown                                              |
 |                  2 | modern rock                                         |
 |                  2 | modern alternative rock                             |
 |                  2 | melancholia                                         |
@@ -258,6 +257,7 @@
 |                  1 | roots rock                                          |
 |                  1 | quiet storm                                         |
 |                  1 | progressive bluegrass                               |
+|                  1 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                  1 | oxford indie                                        |
 |                  1 | new americana                                       |
 |                  1 | neo soul                                            |
