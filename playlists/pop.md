@@ -404,6 +404,7 @@
 |                  4 | house                                           |
 |                  4 | [hollywood](../genres/hollywood.md)             |
 |                  4 | hip pop                                         |
+|                  4 | hip hop                                         |
 |                  4 | girl group                                      |
 |                  4 | europop                                         |
 |                  4 | electro house                                   |
@@ -412,7 +413,6 @@
 |                  3 | modern alternative rock                         |
 |                  3 | lgbtq+ hip hop                                  |
 |                  3 | latin pop                                       |
-|                  3 | hip hop                                         |
 |                  3 | etherpop                                        |
 |                  3 | chill r&b                                       |
 |                  3 | canadian contemporary r&b                       |
