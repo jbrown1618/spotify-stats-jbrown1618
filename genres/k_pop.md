@@ -1,6 +1,6 @@
 # k-pop
 
-[800 songs](k_pop_tracks.md)
+[799 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -245,7 +245,7 @@
 |                 82 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 60 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
 |                 43 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                                                 |
-|                 42 | [Genie Music Corporation](../labels/genie_music_corporation.md)                                                     |
+|                 41 | [Genie Music Corporation](../labels/genie_music_corporation.md)                                                     |
 |                 33 | [BIGHIT MUSIC](../labels/bighit_music.md)                                                                           |
 |                 32 | [Universal Music LLC](../labels/universal_music_llc.md)                                                             |
 |                 32 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                                                               |
@@ -353,8 +353,8 @@
 | Idle song                             | HWAA                        |
 | RUN (HAN)                             | CHEESE                      |
 | Jelly                                 | Clockwork                   |
-| Weather                               | Epilogue                    |
-| Typa Girl                             | Like Water                  |
+| Typa Girl                             | Epilogue                    |
+| Weather                               | Like Water                  |
 | BOOM                                  | Fine                        |
 | Mr. Simple                            | My sea                      |
 | That That (prod. & feat. SUGA of BTS) | On The Ground               |
@@ -363,8 +363,8 @@
 | 10 most Energetic tracks   | 10 least Energetic tracks                            |
 |:---------------------------|:-----------------------------------------------------|
 | RING X RING                | 그대라는 시                                               |
-| Misfit                     | Flower Way (Prod. By ZICO)                           |
-| Hit That Drum              | Singularity                                          |
+| Hit That Drum              | Flower Way (Prod. By ZICO)                           |
+| Misfit                     | Singularity                                          |
 | MIROH                      | Boy in time - HUI Solo                               |
 | Side Effects               | BREATHE                                              |
 | 소방차 Fire Truck             | How can I love the heartbreak, you're the one I love |
@@ -375,13 +375,13 @@
 
 | 10 most Speechy tracks        | 10 least Speechy tracks                    |
 |:------------------------------|:-------------------------------------------|
-| Addicted                      | NANANA                                     |
-| MANIAC                        | YOUNG LUV                                  |
-| Freedom                       | The Magic of Christmas Time                |
-| I GOT IT (HAN)                | Hope Not                                   |
-| Ice Cream (with Selena Gomez) | Gee                                        |
-| Feelin' Like                  | Winter Sleep                               |
-| Signal                        | Wicked                                     |
+| Addicted                      | YOUNG LUV                                  |
+| MANIAC                        | NANANA                                     |
+| Freedom                       | Hope Not                                   |
+| Ice Cream (with Selena Gomez) | The Magic of Christmas Time                |
+| I GOT IT (HAN)                | Gee                                        |
+| Feelin' Like                  | Wicked                                     |
+| Signal                        | Winter Sleep                               |
 | BBIBBI                        | Moonlight Melody                           |
 | You Better Run                | She's In The Rain                          |
 | Be Natural                    | Slightly Tipsy (She is My Type♡ X SANDEUL) |
@@ -401,15 +401,15 @@
 
 | 10 most Instrumental tracks      | 10 least Instrumental tracks   |
 |:---------------------------------|:-------------------------------|
-| You and I (Park Bom)             | Love Talk - English Version    |
-| Adios                            | Kick Back                      |
-| pporappippam                     | ZOO                            |
-| Badster                          | Love Theory                    |
-| So Hot                           | Wow Thing                      |
-| GingaMingaYo (the strange world) | Dead Man Runnin’               |
+| You and I (Park Bom)             | Kick Back                      |
+| Adios                            | ZOO                            |
+| pporappippam                     | Love Theory                    |
+| Badster                          | Wow Thing                      |
+| So Hot                           | Dead Man Runnin’               |
+| GingaMingaYo (the strange world) | Bad Boy, Sad Girl              |
 | I Am The Best                    | Is this bad b****** number?    |
 | Power Up                         | Idle song                      |
-| BBoom BBoom                      | Bad Boy, Sad Girl              |
+| BBoom BBoom                      | Flower Way (Prod. By ZICO)     |
 | In My Dreams                     | I Miss You                     |
 
 | 10 most Live tracks            | 10 least Live tracks                  |
@@ -433,7 +433,7 @@
 | Pepe                   | Time After Time           |
 | So Hot                 | My sea                    |
 | Miniskirt              | Side Effects              |
-| Twinkle                | Good Night My Princess    |
-| 쏘리 쏘리 Sorry, Sorry     | 7월 7일 One Of These Nights |
-| Give it to me          | Grey Suit                 |
-| Some (feat. Lil Boi)   | The Road                  |
+| 쏘리 쏘리 Sorry, Sorry     | Good Night My Princess    |
+| Twinkle                | 7월 7일 One Of These Nights |
+| Some (feat. Lil Boi)   | Grey Suit                 |
+| Give it to me          | The Road                  |

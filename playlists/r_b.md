@@ -243,8 +243,8 @@
 |                  4 | hip pop                                         |
 |                  4 | classic soul                                    |
 |                  3 | canadian contemporary r&b                       |
+|                  2 | [neo mellow](../genres/neo_mellow.md)           |
 |                  2 | lgbtq+ hip hop                                  |
-|                  2 | hip hop                                         |
 |                  2 | chill r&b                                       |
 |                  1 | vocal jazz                                      |
 |                  1 | uk pop                                          |
@@ -257,11 +257,11 @@
 |                  1 | [soft rock](../genres/soft_rock.md)             |
 |                  1 | rock-and-roll                                   |
 |                  1 | quiet storm                                     |
-|                  1 | [neo mellow](../genres/neo_mellow.md)           |
 |                  1 | minnesota hip hop                               |
 |                  1 | [mellow gold](../genres/mellow_gold.md)         |
 |                  1 | jazz blues                                      |
 |                  1 | indie r&b                                       |
+|                  1 | hip hop                                         |
 |                  1 | girl group                                      |
 |                  1 | disco                                           |
 |                  1 | canadian pop                                    |

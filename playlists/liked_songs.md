@@ -363,10 +363,10 @@
 |                162 | [dance pop](../genres/dance_pop.md)                 |
 |                100 | [rock](../genres/rock.md)                           |
 |                 78 | [classic rock](../genres/classic_rock.md)           |
-|                 59 | [lilith](../genres/lilith.md)                       |
+|                 60 | [lilith](../genres/lilith.md)                       |
 |                 58 | [neo mellow](../genres/neo_mellow.md)               |
 |                 57 | [acoustic pop](../genres/acoustic_pop.md)           |
-|                 56 | [pop rock](../genres/pop_rock.md)                   |
+|                 55 | [pop rock](../genres/pop_rock.md)                   |
 |                 44 | [hollywood](../genres/hollywood.md)                 |
 |                 42 | [mellow gold](../genres/mellow_gold.md)             |
 |                 41 | [post-teen pop](../genres/post_teen_pop.md)         |
@@ -375,8 +375,8 @@
 |                 31 | [soft rock](../genres/soft_rock.md)                 |
 |                 30 | [psychedelic rock](../genres/psychedelic_rock.md)   |
 |                 30 | british invasion                                    |
-|                 29 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                 26 | [r&b](../genres/r_b.md)                             |
+|                 25 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                 25 | piano rock                                          |
 |                 24 | korean pop                                          |
 |                 23 | beatlesque                                          |
@@ -394,8 +394,8 @@
 |                 18 | art rock                                            |
 |                 18 | [a cappella](../genres/a_cappella.md)               |
 |                 16 | uk pop                                              |
-|                 16 | pop rap                                             |
 |                 15 | urban contemporary                                  |
+|                 15 | pop rap                                             |
 |                 15 | metropopolis                                        |
 |                 15 | k-rap                                               |
 |                 14 | uk alternative pop                                  |
@@ -418,7 +418,6 @@
 |                  8 | tropical house                                      |
 |                  8 | latin pop                                           |
 |                  8 | korean city pop                                     |
-|                  8 | hip hop                                             |
 |                  8 | etherpop                                            |
 |                  8 | escape room                                         |
 |                  8 | blues rock                                          |
@@ -430,6 +429,7 @@
 |                  7 | j-pop                                               |
 |                  7 | j-metal                                             |
 |                  7 | idol rock                                           |
+|                  7 | hip hop                                             |
 |                  7 | country dawn                                        |
 |                  7 | country                                             |
 |                  7 | comic metal                                         |

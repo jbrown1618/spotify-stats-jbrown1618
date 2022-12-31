@@ -51,11 +51,11 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 6 genres](../images/labels/jive/genres.png)
+![Bar chart of top 5 genres](../images/labels/jive/genres.png)
 
 
 <details>
-<summary>See all 6 genres</summary>
+<summary>See all 5 genres</summary>
 
 |   Number of Tracks | Genre                               |
 |-------------------:|:------------------------------------|
@@ -64,7 +64,6 @@ Appears as:
 |                  6 | boy band                            |
 |                  1 | urban contemporary                  |
 |                  1 | [r&b](../genres/r_b.md)             |
-|                  1 | hip hop                             |
 
 </details>
 

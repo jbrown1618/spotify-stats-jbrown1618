@@ -305,7 +305,7 @@
 
 
 <details>
-<summary>See all 95 genres</summary>
+<summary>See all 96 genres</summary>
 
 |   Number of Tracks | Genre                                 |
 |-------------------:|:--------------------------------------|
@@ -353,7 +353,6 @@
 |                  2 | desi pop                              |
 |                  2 | danish pop                            |
 |                  2 | classic j-pop                         |
-|                  2 | chinese indie                         |
 |                  2 | chinese idol pop                      |
 |                  2 | c-pop                                 |
 |                  2 | belgian pop                           |
@@ -371,6 +370,7 @@
 |                  1 | r&b en espanol                        |
 |                  1 | nouvelle chanson francaise            |
 |                  1 | norwegian pop                         |
+|                  1 | norwegian indie                       |
 |                  1 | nintendocore                          |
 |                  1 | nigerian pop                          |
 |                  1 | nigerian hip hop                      |
@@ -401,6 +401,7 @@
 |                  1 | chiptune                              |
 |                  1 | chinese viral pop                     |
 |                  1 | chinese r&b                           |
+|                  1 | chinese indie                         |
 |                  1 | basshall                              |
 |                  1 | afro soul                             |
 |                  1 | afro dancehall                        |

@@ -312,15 +312,15 @@
 |                 20 | modern rock                                         |
 |                 20 | [dance pop](../genres/dance_pop.md)                 |
 |                 19 | [art pop](../genres/art_pop.md)                     |
+|                 17 | [lilith](../genres/lilith.md)                       |
 |                 17 | [electropop](../genres/electropop.md)               |
 |                 17 | baroque pop                                         |
 |                 16 | uk alternative pop                                  |
 |                 16 | permanent wave                                      |
 |                 14 | indie rock                                          |
-|                 14 | alternative rock                                    |
 |                 13 | nz pop                                              |
-|                 13 | [lilith](../genres/lilith.md)                       |
 |                 13 | bergen indie                                        |
+|                 13 | alternative rock                                    |
 |                 12 | metropopolis                                        |
 |                 11 | australian pop                                      |
 |                 10 | [pop rock](../genres/pop_rock.md)                   |
@@ -358,7 +358,6 @@
 |                  3 | [acoustic pop](../genres/acoustic_pop.md)           |
 |                  2 | washington indie                                    |
 |                  2 | uk pop                                              |
-|                  2 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  2 | shiver pop                                          |
 |                  2 | pop punk                                            |
 |                  2 | pop emo                                             |
@@ -379,6 +378,7 @@
 |                  1 | swedish electropop                                  |
 |                  1 | swedish alternative rock                            |
 |                  1 | spacegrunge                                         |
+|                  1 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  1 | shimmer pop                                         |
 |                  1 | nu metal                                            |
 |                  1 | nu jazz                                             |
