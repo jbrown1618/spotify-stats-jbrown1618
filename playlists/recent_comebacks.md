@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2738cab1c75d2271af37c3e2db9ab67616d0000b273d2ef237da7f94762997c2083ab67616d0000b273e9cd59d664f597061a513038ab67616d0000b273ed10325dc317f32df83990b9" alt="Recent Comebacks" width="100" />
 
-[61 songs](recent_comebacks_tracks.md)
+[62 songs](recent_comebacks_tracks.md)
 
 ## Top Artists
 
@@ -13,7 +13,7 @@
 
 
 <details>
-<summary>See all 35 artists</summary>
+<summary>See all 36 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                 | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:------------------------------------------------------------|
@@ -36,6 +36,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | BIBI                                   | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebff36ed787b017a7ff3c40a0e" alt="" width="50" /> | TAEYONG                                | [🔗](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5b1a291b0a6a689091d54d8b" alt="" width="50" /> | IVE                                    | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb64362c8789b72fb00e0a3611" alt="" width="50" /> | ATEEZ                                  | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfe7fc78f16d948f53a607c53" alt="" width="50" /> | NINGNING                               | [🔗](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) |
 |                  1 | <img src="nan" alt="" width="50" />                                                              | Changbin                               | [🔗](https://open.spotify.com/artist/5OTVNUu0UHn6ddPyEAi419) |
 |                  1 | <img src="nan" alt="" width="50" />                                                              | Bang Chan                              | [🔗](https://open.spotify.com/artist/4qy7HANJDOZRObts4Z0KSV) |
@@ -58,11 +59,11 @@
 
 ## Top Albums
 
-![Bar chart of top 24 albums](../images/playlists/recent_comebacks/albums.png)
+![Bar chart of top 25 albums](../images/playlists/recent_comebacks/albums.png)
 
 
 <details>
-<summary>See all 24 albums</summary>
+<summary>See all 25 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                  | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:-----------------------------------------------------------|
@@ -81,6 +82,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | CHESHIRE                               | [🔗](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738232e1aaaf4c9ed4b6946ce8" alt="" width="50" /> | the Billage of perception: chapter two | [🔗](https://open.spotify.com/album/0NuM7kwh6u6fIRjn7Zh7Ss) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27357fa85a5c9f295d5e5b362e7" alt="" width="50" /> | THE SECOND STEP : CHAPTER TWO          | [🔗](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc5762a75c18b494803705c" alt="" width="50" /> | SPIN OFF : FROM THE WITNESS            | [🔗](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fc8b0918267ea555921863e8" alt="" width="50" /> | One In A Billion                       | [🔗](https://open.spotify.com/album/19Jm8Jk0zQYs6zMaxhYJFd) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27322f0e32bfb91476f0ad96656" alt="" width="50" /> | MIC ON                                 | [🔗](https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735f3ae8db55f4507baf0ef0dd" alt="" width="50" /> | Lowlife Princess: Noir                 | [🔗](https://open.spotify.com/album/0AwCgoJKJUOgLp1imhnxuH) |
@@ -96,11 +98,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 17 record labels](../images/playlists/recent_comebacks/labels.png)
+![Bar chart of top 18 record labels](../images/playlists/recent_comebacks/labels.png)
 
 
 <details>
-<summary>See all 17 labels</summary>
+<summary>See all 18 labels</summary>
 
 |   Number of Tracks | Label                                                         |
 |-------------------:|:--------------------------------------------------------------|
@@ -119,6 +121,7 @@
 |                  1 | [Sony Music Labels Inc.](../labels/sony_music_labels_inc_.md) |
 |                  1 | [RBW Inc.](../labels/rbw_inc_.md)                             |
 |                  1 | [MYSTIC STORY](../labels/mystic_story.md)                     |
+|                  1 | [KQ Entertainment](../labels/kq_entertainment.md)             |
 |                  1 | [HYBE LABELS JAPAN](../labels/hybe_labels_japan.md)           |
 |                  1 | [Feel Ghood Music](../labels/feel_ghood_music.md)             |
 
@@ -135,9 +138,9 @@
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
-|                 44 | [k-pop](../genres/k_pop.md)                       |
+|                 45 | [k-pop](../genres/k_pop.md)                       |
 |                 25 | [k-pop girl group](../genres/k_pop_girl_group.md) |
-|                 18 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
+|                 19 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
 |                  4 | anime                                             |
 |                  1 | korean r&b                                        |
 
@@ -148,15 +151,15 @@
 
 | 10 most Danceable tracks   | 10 least Danceable tracks   |
 |:---------------------------|:----------------------------|
-| RUN (HAN)                  | 2 Baddies                   |
-| Typa Girl                  | Hype Boy                    |
-| ANTIFRAGILE                | Come Alive                  |
-| 1,2,3 Eoi!                 | Cruel                       |
-| LOVE                       | Girls                       |
-| Maknae On Top (I.N)        | Dead Man Runnin’            |
-| Shut Down                  | Blow                        |
-| On A Ride                  | i hate to admit (Bang Chan) |
-| Ditto                      | Deep end (Felix)            |
+| RUN (HAN)                  | Hype Boy                    |
+| Typa Girl                  | Come Alive                  |
+| ANTIFRAGILE                | Cruel                       |
+| 1,2,3 Eoi!                 | Girls                       |
+| LOVE                       | Dead Man Runnin’            |
+| Maknae On Top (I.N)        | Blow                        |
+| Shut Down                  | i hate to admit (Bang Chan) |
+| On A Ride                  | Deep end (Felix)            |
+| Ditto                      | HALAZIA                     |
 | CASE 143                   | Time After Time             |
 
 | 10 most Energetic tracks              | 10 least Energetic tracks   |
@@ -178,8 +181,8 @@
 | Girls                             | TFW (That Feeling When)        |
 | 3RACHA (Bang Chan, Changbin, HAN) | Yeah Yeah Yeah                 |
 | Future Perfect (Pass the MIC)     | Come Alive                     |
-| 2 Baddies                         | Stars and Raindrops (Seungmin) |
-| Hot & Cold                        | The Happiest Girl              |
+| Hot & Cold                        | Stars and Raindrops (Seungmin) |
+| 2 Baddies                         | The Happiest Girl              |
 | RUN (HAN)                         | Animal Farm                    |
 | Hype Boy                          | Beautiful Christmas            |
 | CASE 143                          | Tally                          |
@@ -187,29 +190,29 @@
 
 | 10 most Acoustic tracks     | 10 least Acoustic tracks   |
 |:----------------------------|:---------------------------|
-| Deep end (Felix)            | Animal Farm                |
-| miss you (Hyunjin)          | Pink Venom                 |
-| i hate to admit (Bang Chan) | No Celestial               |
-| RUN (HAN)                   | Tally                      |
-| ZOOM                        | Hard to Love               |
-| The Happiest Girl           | Yeah Yeah Yeah             |
-| Crown                       | Blow                       |
-| Hug Me (I.N)                | Shut Down                  |
-| Cheshire                    | Come Alive                 |
-| BYE BYE                     | Cruel                      |
+| Deep end (Felix)            | Pink Venom                 |
+| miss you (Hyunjin)          | No Celestial               |
+| i hate to admit (Bang Chan) | Tally                      |
+| RUN (HAN)                   | Hard to Love               |
+| ZOOM                        | Yeah Yeah Yeah             |
+| The Happiest Girl           | Blow                       |
+| Crown                       | Shut Down                  |
+| Hug Me (I.N)                | Come Alive                 |
+| Cheshire                    | Cruel                      |
+| BYE BYE                     | HALAZIA                    |
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
 | Girls                         | ANTIFRAGILE                    |
-| Crown                         | I GOT IT (HAN)                 |
-| Hot & Cold                    | Forgive Me                     |
-| Priority                      | BYE BYE                        |
-| Cruel                         | Birthday                       |
-| ZOOM                          | Ditto                          |
-| On A Ride                     | TFW (That Feeling When)        |
-| Maknae On Top (I.N)           | Sculpture                      |
-| Come Alive                    | ParadoXXX Invasion             |
-| Illusion                      | Shut Down                      |
+| HALAZIA                       | I GOT IT (HAN)                 |
+| Crown                         | Forgive Me                     |
+| Hot & Cold                    | BYE BYE                        |
+| Priority                      | Birthday                       |
+| Cruel                         | Ditto                          |
+| ZOOM                          | TFW (That Feeling When)        |
+| On A Ride                     | Sculpture                      |
+| Maknae On Top (I.N)           | ParadoXXX Invasion             |
+| Come Alive                    | Shut Down                      |
 
 | 10 most Live tracks   | 10 least Live tracks                                |
 |:----------------------|:----------------------------------------------------|
@@ -231,8 +234,8 @@
 | Maknae On Top (I.N)                                 | Crown                   |
 | Hot & Cold                                          | Change                  |
 | Give Me Your TMI                                    | miss you (Hyunjin)      |
-| I GOT IT (HAN)                                      | Dead Man Runnin’        |
-| ANTIFRAGILE                                         | Sculpture               |
+| ANTIFRAGILE                                         | Dead Man Runnin’        |
+| I GOT IT (HAN)                                      | Sculpture               |
 | ZOOM                                                | Deep end (Felix)        |
 | Blow                                                | Ditto                   |
 | 1,2,3 Eoi!                                          | Time After Time         |

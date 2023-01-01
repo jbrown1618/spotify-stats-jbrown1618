@@ -1,6 +1,6 @@
 # k-pop boy group
 
-[228 songs](k_pop_boy_group_tracks.md)
+[229 songs](k_pop_boy_group_tracks.md)
 
 ## Top Artists
 
@@ -20,7 +20,7 @@
 |                 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="" width="50" /> | [SEVENTEEN](../artists/seventeen.md)   | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
 |                 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb7401998434b12fffd119ae18" alt="" width="50" /> | [NCT 127](../artists/nct_127.md)       | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
 |                 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="" width="50" /> | [EXO](../artists/exo.md)               | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
-|                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb64362c8789b72fb00e0a3611" alt="" width="50" /> | ATEEZ                                  | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
+|                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb64362c8789b72fb00e0a3611" alt="" width="50" /> | ATEEZ                                  | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bd65b0efee10bfa8328c33b" alt="" width="50" /> | NCT U                                  | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb758f3c632d4d726f1129d336" alt="" width="50" /> | TOMORROW X TOGETHER                    | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9996e5d7c5b769b2b26ff1a" alt="" width="50" /> | SUPER JUNIOR                           | [🔗](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) |
@@ -47,7 +47,7 @@
 |                  1 | <img src="nan" alt="" width="50" />                                                              | Bang Chan                              | [🔗](https://open.spotify.com/artist/4qy7HANJDOZRObts4Z0KSV) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6034058cfde0084f922bb284" alt="" width="50" /> | ASTRO                                  | [🔗](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd86145072666f72cc5e833d8" alt="" width="50" /> | Monsta X                               | [🔗](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273beda75335e465aef64b524ef" alt="" width="50" /> | DKB                                    | [🔗](https://open.spotify.com/artist/4DoedGw38ubJdAT1edFsIx) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734b539c36c6dd01dada408f93" alt="" width="50" /> | DKB                                    | [🔗](https://open.spotify.com/artist/4DoedGw38ubJdAT1edFsIx) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebaccf8c8763bf2fa909677c71" alt="" width="50" /> | DKZ                                    | [🔗](https://open.spotify.com/artist/31eyTcfjAke5hFX3az3nRE) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27323bd8b27aeb3ad6d4f4339c4" alt="" width="50" /> | Wanna One                              | [🔗](https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | Halsey                                 | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
@@ -131,6 +131,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d64e2f339a0a9ea967b308e" alt="" width="50" /> | Step Out of Clé (English Ver.)                     | [🔗](https://open.spotify.com/album/2BBeNPEEevRiYISKYEnGvc) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739902ed3e9f44f5ad65ad808a" alt="" width="50" /> | Sorry                                              | [🔗](https://open.spotify.com/album/6D48tHXsa6LzoViDIACdkt) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27343028ae4eeabf8c854a93cab" alt="" width="50" /> | Sherlock - The 4th Mini Album                      | [🔗](https://open.spotify.com/album/2Mfisiv88pNRQNugqrEUHQ) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc5762a75c18b494803705c" alt="" width="50" /> | SPIN OFF : FROM THE WITNESS                        | [🔗](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735ac2a400576ac7f35aa7428b" alt="" width="50" /> | SEVENTEEN 9th Mini Album 'Attacca'                 | [🔗](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273005799610338a5b57d865926" alt="" width="50" /> | SEVENTEEN 4th Mini Album ‘Al1’                     | [🔗](https://open.spotify.com/album/2BNimvLLlD89e4Sb7ZVX6I) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27346a157795d939b7a6868d207" alt="" width="50" /> | SEVENTEEN 2ND ALBUM 'TEEN, AGE' (2)                | [🔗](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) |
@@ -166,7 +167,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273eb366517758754ca13a4adf5" alt="" width="50" /> | Love&Letter repackage album                        | [🔗](https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737c4382c3305785dfd04d5d01" alt="" width="50" /> | Liminality - EP.LOVE                               | [🔗](https://open.spotify.com/album/5zh19l4Nbzqd8h9Y7F74do) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27305de9858d5c447c247f6ce21" alt="" width="50" /> | LUPIN                                              | [🔗](https://open.spotify.com/album/361AnnYEYLl0Z7zF7Xo0Dq) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d700b5ddf45596b3793d3963" alt="" width="50" /> | KINGDOM <FINAL : WHO IS THE KING?>                 | [🔗](https://open.spotify.com/album/3n1NaviPQXfiVQ0TarnAf4) |
 
 </details>
 
@@ -188,8 +188,8 @@
 |                 16 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)           |
 |                 11 | [HYBE](../labels/hybe.md)                                           |
 |                  8 | [YG Entertainment](../labels/yg_entertainment.md)                   |
+|                  8 | [KQ Entertainment](../labels/kq_entertainment.md)                   |
 |                  7 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
-|                  7 | [KQ Entertainment](../labels/kq_entertainment.md)                   |
 |                  6 | [Universal Music LLC](../labels/universal_music_llc.md)             |
 |                  6 | [JYP Entertainment](../labels/jyp_entertainment.md)                 |
 |                  6 | [Genie Music Corporation](../labels/genie_music_corporation.md)     |
@@ -217,7 +217,7 @@
 
 | 10 most Danceable tracks   | 10 least Danceable tracks   |
 |:---------------------------|:----------------------------|
-| RUN (HAN)                  | Let Me In (20 CUBE)         |
+| RUN (HAN)                  | HALAZIA                     |
 | BOOM                       | Butterfly                   |
 | Mr. Simple                 | Tap Tap                     |
 | HEYDAY (Prod. Czaer)       | Side Effects                |
@@ -256,29 +256,29 @@
 
 | 10 most Acoustic tracks     | 10 least Acoustic tracks   |
 |:----------------------------|:---------------------------|
-| Deep end (Felix)            | LO$ER=LO♡ER                |
-| Boy in time - HUI Solo      | Danger                     |
-| miss you (Hyunjin)          | Favorite (Vampire)         |
-| Because (Changbin, Felix)   | Cherry Bomb                |
-| i hate to admit (Bang Chan) | Drunk-Dazed                |
+| Deep end (Felix)            | Danger                     |
+| Boy in time - HUI Solo      | Favorite (Vampire)         |
+| miss you (Hyunjin)          | Cherry Bomb                |
+| Because (Changbin, Felix)   | Drunk-Dazed                |
+| i hate to admit (Bang Chan) | HALAZIA                    |
 | RUN (HAN)                   | Attention, please!         |
 | Missing You                 | Cyberpunk                  |
 | Singularity                 | Tamed-Dashed               |
-| Back 2 U (AM 01:27)         | Easy                       |
-| Sorry                       | Mr. Simple                 |
+| Back 2 U (AM 01:27)         | Mr. Simple                 |
+| Sorry                       | Easy                       |
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks                 |
 |:------------------------------|:---------------------------------------------|
 | Singularity                   | LO$ER=LO♡ER                                  |
 | Mr. Simple                    | Opening Sequence                             |
-| Lemonade                      | Anti-Romantic                                |
-| Ring Ding Dong                | Frost                                        |
-| Danger                        | 0X1=LOVESONG (I Know I Love You) feat. Seori |
-| Airplane pt.2                 | Breathe Again                                |
-| Sour                          | Love is New Gravity                          |
-| Doom Du Doom                  | WONDERLAND                                   |
-| Ko Ko Bop                     | HALA HALA (Hearts Awakened, Live Alive)      |
-| Tamed-Dashed                  | ParadoXXX Invasion                           |
+| HALAZIA                       | Anti-Romantic                                |
+| Lemonade                      | Frost                                        |
+| Ring Ding Dong                | 0X1=LOVESONG (I Know I Love You) feat. Seori |
+| Danger                        | Breathe Again                                |
+| Airplane pt.2                 | Love is New Gravity                          |
+| Sour                          | WONDERLAND                                   |
+| Doom Du Doom                  | HALA HALA (Hearts Awakened, Live Alive)      |
+| Ko Ko Bop                     | TFW (That Feeling When)                      |
 
 | 10 most Live tracks             | 10 least Live tracks       |
 |:--------------------------------|:---------------------------|

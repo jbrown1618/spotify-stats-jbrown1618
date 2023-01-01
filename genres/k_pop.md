@@ -1,6 +1,6 @@
 # k-pop
 
-[799 songs](k_pop_tracks.md)
+[801 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -23,7 +23,7 @@
 |                 26 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | [IU](../artists/iu.md)                               | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 |                 24 | <img src="https://i.scdn.co/image/ab6761610000e5eb916392fe8c66d0c993657b6d" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md)                     | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 |                 20 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../artists/mamamoo.md)                     | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
-|                 18 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../artists/leehi.md)                         | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
+|                 19 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../artists/leehi.md)                         | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 |                 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="" width="50" /> | [SEVENTEEN](../artists/seventeen.md)                 | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
 |                 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | [CHUNG HA](../artists/chung_ha.md)                   | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
 |                 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | [Girls' Generation](../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
@@ -32,11 +32,11 @@
 |                 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb7401998434b12fffd119ae18" alt="" width="50" /> | [NCT 127](../artists/nct_127.md)                     | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
 |                 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="" width="50" /> | [EXO](../artists/exo.md)                             | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5ebadffb99dc62d070da29306ff" alt="" width="50" /> | JEON SOYEON                                          | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
+|                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb64362c8789b72fb00e0a3611" alt="" width="50" /> | ATEEZ                                                | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e2e0f17d257a40be0782f35" alt="" width="50" /> | BAEKHYUN                                             | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb968ab271c895fb9cc245d6fe" alt="" width="50" /> | Billlie                                              | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | BIBI                                                 | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | CLC                                                  | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
-|                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb64362c8789b72fb00e0a3611" alt="" width="50" /> | ATEEZ                                                | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bd65b0efee10bfa8328c33b" alt="" width="50" /> | NCT U                                                | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5ebfe2339c232c5a840fc527402" alt="" width="50" /> | SEULGI                                               | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb758f3c632d4d726f1129d336" alt="" width="50" /> | TOMORROW X TOGETHER                                  | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
@@ -251,7 +251,7 @@
 |                 32 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                                                               |
 |                 31 | [Interscope](../labels/interscope.md)                                                                               |
 |                 30 | [RBW Inc.](../labels/rbw_inc_.md)                                                                                   |
-|                 18 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)                                                           |
+|                 19 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)                                                           |
 |                 17 | [JYP Entertainment](../labels/jyp_entertainment.md)                                                                 |
 |                 15 | [Kakao Entertainment](../labels/kakao_entertainment.md)                                                             |
 |                 12 | [Starship Entertainment](../labels/starship_entertainment.md)                                                       |
@@ -262,8 +262,8 @@
 |                  9 | [MNH ENTERTAINMENT](../labels/mnh_entertainment.md)                                                                 |
 |                  9 | [FNC ENTERTAINMENT](../labels/fnc_entertainment.md)                                                                 |
 |                  8 | [WM Entertainment](../labels/wm_entertainment.md)                                                                   |
+|                  8 | [KQ Entertainment](../labels/kq_entertainment.md)                                                                   |
 |                  8 | [DREAMCATCHER COMPANY](../labels/dreamcatcher_company.md)                                                           |
-|                  7 | [KQ Entertainment](../labels/kq_entertainment.md)                                                                   |
 |                  7 | [EDAM Entertainment](../labels/edam_entertainment.md)                                                               |
 |                  6 | [Genie Music Corporation;Stone Music Entertainment](../labels/genie_music_corporation_stone_music_entertainment.md) |
 |                  5 | [avex trax](../labels/avex_trax.md)                                                                                 |
@@ -353,8 +353,8 @@
 | Idle song                             | HWAA                        |
 | RUN (HAN)                             | CHEESE                      |
 | Jelly                                 | Clockwork                   |
-| Typa Girl                             | Epilogue                    |
-| Weather                               | Like Water                  |
+| Weather                               | Epilogue                    |
+| Typa Girl                             | Like Water                  |
 | BOOM                                  | Fine                        |
 | Mr. Simple                            | My sea                      |
 | That That (prod. & feat. SUGA of BTS) | On The Ground               |
@@ -363,8 +363,8 @@
 | 10 most Energetic tracks   | 10 least Energetic tracks                            |
 |:---------------------------|:-----------------------------------------------------|
 | RING X RING                | 그대라는 시                                               |
-| Hit That Drum              | Flower Way (Prod. By ZICO)                           |
-| Misfit                     | Singularity                                          |
+| Misfit                     | Flower Way (Prod. By ZICO)                           |
+| Hit That Drum              | Singularity                                          |
 | MIROH                      | Boy in time - HUI Solo                               |
 | Side Effects               | BREATHE                                              |
 | 소방차 Fire Truck             | How can I love the heartbreak, you're the one I love |
@@ -375,42 +375,42 @@
 
 | 10 most Speechy tracks        | 10 least Speechy tracks                    |
 |:------------------------------|:-------------------------------------------|
-| Addicted                      | YOUNG LUV                                  |
-| MANIAC                        | NANANA                                     |
-| Freedom                       | Hope Not                                   |
-| Ice Cream (with Selena Gomez) | The Magic of Christmas Time                |
-| I GOT IT (HAN)                | Gee                                        |
-| Feelin' Like                  | Wicked                                     |
-| Signal                        | Winter Sleep                               |
+| Addicted                      | NANANA                                     |
+| MANIAC                        | YOUNG LUV                                  |
+| Freedom                       | The Magic of Christmas Time                |
+| I GOT IT (HAN)                | Hope Not                                   |
+| Ice Cream (with Selena Gomez) | Gee                                        |
+| Feelin' Like                  | Winter Sleep                               |
+| Signal                        | Wicked                                     |
 | BBIBBI                        | Moonlight Melody                           |
 | You Better Run                | She's In The Rain                          |
 | Be Natural                    | Slightly Tipsy (She is My Type♡ X SANDEUL) |
 
 | 10 most Acoustic tracks                              | 10 least Acoustic tracks   |
 |:-----------------------------------------------------|:---------------------------|
-| 그대라는 시                                               | Danger                     |
-| How can I love the heartbreak, you're the one I love | RUN2U                      |
-| The Magic of Christmas Time                          | Favorite (Vampire)         |
-| ONLY                                                 | Cherry Bomb                |
+| 그대라는 시                                               | RUN2U                      |
+| How can I love the heartbreak, you're the one I love | Favorite (Vampire)         |
+| The Magic of Christmas Time                          | Cherry Bomb                |
+| ONLY                                                 | HALAZIA                    |
 | Deep end (Felix)                                     | Adios                      |
 | Boy in time - HUI Solo                               | Red Light                  |
 | Goodbye                                              | Oh Sorry Ya                |
 | Amusement Park                                       | Cyberpunk                  |
-| U                                                    | Mr. Simple                 |
-| Flower Way (Prod. By ZICO)                           | Easy                       |
+| U                                                    | Easy                       |
+| Flower Way (Prod. By ZICO)                           | Mr. Simple                 |
 
 | 10 most Instrumental tracks      | 10 least Instrumental tracks   |
 |:---------------------------------|:-------------------------------|
-| You and I (Park Bom)             | Kick Back                      |
-| Adios                            | ZOO                            |
-| pporappippam                     | Love Theory                    |
-| Badster                          | Wow Thing                      |
-| So Hot                           | Dead Man Runnin’               |
-| GingaMingaYo (the strange world) | Bad Boy, Sad Girl              |
+| You and I (Park Bom)             | Love Talk - English Version    |
+| Adios                            | Kick Back                      |
+| pporappippam                     | ZOO                            |
+| Badster                          | Love Theory                    |
+| So Hot                           | Wow Thing                      |
+| GingaMingaYo (the strange world) | Dead Man Runnin’               |
 | I Am The Best                    | Is this bad b****** number?    |
 | Power Up                         | Idle song                      |
-| BBoom BBoom                      | Flower Way (Prod. By ZICO)     |
-| In My Dreams                     | I Miss You                     |
+| BBoom BBoom                      | Bad Boy, Sad Girl              |
+| In My Dreams                     | Yes I Am                       |
 
 | 10 most Live tracks            | 10 least Live tracks                  |
 |:-------------------------------|:--------------------------------------|
@@ -431,9 +431,9 @@
 | Twenty-three           | ONLY                      |
 | Devil                  | U                         |
 | Pepe                   | Time After Time           |
-| So Hot                 | My sea                    |
-| Miniskirt              | Side Effects              |
-| 쏘리 쏘리 Sorry, Sorry     | Good Night My Princess    |
-| Twinkle                | 7월 7일 One Of These Nights |
-| Some (feat. Lil Boi)   | Grey Suit                 |
-| Give it to me          | The Road                  |
+| Miniskirt              | My sea                    |
+| So Hot                 | Side Effects              |
+| Twinkle                | Good Night My Princess    |
+| 쏘리 쏘리 Sorry, Sorry     | 7월 7일 One Of These Nights |
+| Give it to me          | Grey Suit                 |
+| Lion Heart             | The Road                  |

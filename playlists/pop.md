@@ -432,6 +432,7 @@
 |                  2 | electro                                         |
 |                  2 | dutch edm                                       |
 |                  2 | colombian pop                                   |
+|                  2 | alternative hip hop                             |
 |                  2 | [adult standards](../genres/adult_standards.md) |
 |                  1 | wonky                                           |
 |                  1 | viral rap                                       |
@@ -458,7 +459,6 @@
 |                  1 | neon pop punk                                   |
 |                  1 | modern indie pop                                |
 |                  1 | lafayette indie                                 |
-|                  1 | la indie                                        |
 
 </details>
 

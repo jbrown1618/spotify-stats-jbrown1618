@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1382 songs](liked_songs_tracks.md)
+[1383 songs](liked_songs_tracks.md)
 
 ## Top Artists
 
@@ -51,12 +51,12 @@
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../artists/lady_gaga.md)                           | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5ebadffb99dc62d070da29306ff" alt="" width="50" /> | JEON SOYEON                                                    | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | BIBI                                                           | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
+|                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb64362c8789b72fb00e0a3611" alt="" width="50" /> | ATEEZ                                                          | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5ebe8637c96a7aa2917eae3c54d" alt="" width="50" /> | Sia                                                            | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb968ab271c895fb9cc245d6fe" alt="" width="50" /> | Billlie                                                        | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb654972693e0efed3f3f4d090" alt="" width="50" /> | Jason Derulo                                                   | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | Imogen Heap                                                    | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a29246fa242d0b9f8de3b31" alt="" width="50" /> | SUNMI                                                          | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
-|                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb64362c8789b72fb00e0a3611" alt="" width="50" /> | ATEEZ                                                          | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a669de19d4381073d85701a" alt="" width="50" /> | BABYMETAL                                                      | [🔗](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e2e0f17d257a40be0782f35" alt="" width="50" /> | BAEKHYUN                                                       | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | Camila Cabello                                                 | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
@@ -286,6 +286,7 @@
 |                  8 | [MNH ENTERTAINMENT](../labels/mnh_entertainment.md)                                                                 |
 |                  7 | [WM Korea](../labels/wm_korea.md)                                                                                   |
 |                  7 | [MOTOWN](../labels/motown.md)                                                                                       |
+|                  7 | [KQ Entertainment](../labels/kq_entertainment.md)                                                                   |
 |                  7 | [FNC ENTERTAINMENT](../labels/fnc_entertainment.md)                                                                 |
 |                  7 | [Def Jam Recordings](../labels/def_jam_recordings.md)                                                               |
 |                  7 | [Cooking Vinyl Limited](../labels/cooking_vinyl_limited.md)                                                         |
@@ -293,7 +294,6 @@
 |                  6 | [UNI](../labels/uni.md)                                                                                             |
 |                  6 | [Sire](../labels/sire.md)                                                                                           |
 |                  6 | [Legacy](../labels/legacy.md)                                                                                       |
-|                  6 | [KQ Entertainment](../labels/kq_entertainment.md)                                                                   |
 |                  6 | [Genie Music Corporation;Stone Music Entertainment](../labels/genie_music_corporation_stone_music_entertainment.md) |
 |                  6 | [EDAM Entertainment](../labels/edam_entertainment.md)                                                               |
 |                  6 | [DREAMCATCHER COMPANY](../labels/dreamcatcher_company.md)                                                           |
@@ -356,10 +356,10 @@
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
-|                595 | [k-pop](../genres/k_pop.md)                         |
+|                597 | [k-pop](../genres/k_pop.md)                         |
 |                344 | [pop](../genres/pop.md)                             |
 |                287 | [k-pop girl group](../genres/k_pop_girl_group.md)   |
-|                162 | [k-pop boy group](../genres/k_pop_boy_group.md)     |
+|                163 | [k-pop boy group](../genres/k_pop_boy_group.md)     |
 |                162 | [dance pop](../genres/dance_pop.md)                 |
 |                100 | [rock](../genres/rock.md)                           |
 |                 78 | [classic rock](../genres/classic_rock.md)           |
@@ -394,8 +394,8 @@
 |                 18 | art rock                                            |
 |                 18 | [a cappella](../genres/a_cappella.md)               |
 |                 16 | uk pop                                              |
+|                 16 | pop rap                                             |
 |                 15 | urban contemporary                                  |
-|                 15 | pop rap                                             |
 |                 15 | metropopolis                                        |
 |                 15 | k-rap                                               |
 |                 14 | uk alternative pop                                  |
@@ -412,9 +412,9 @@
 |                 11 | nz pop                                              |
 |                 11 | korean ost                                          |
 |                 11 | indie rock                                          |
-|                 10 | lounge                                              |
 |                 10 | alternative rock                                    |
 |                  9 | oxford indie                                        |
+|                  9 | lounge                                              |
 |                  8 | tropical house                                      |
 |                  8 | latin pop                                           |
 |                  8 | korean city pop                                     |
@@ -496,15 +496,15 @@
 | Mambo No. 5 (a Little Bit of...) | Old Fashioned             |
 | Vigilante Shit                   | The Scientist             |
 | Free Fall                        | All Too Well              |
-| WAP (feat. Megan Thee Stallion)  | Breakeven                 |
-| bad guy                          | 情非得已                      |
+| bad guy                          | Breakeven                 |
+| WAP (feat. Megan Thee Stallion)  | 情非得已                      |
 | I GOT IT (HAN)                   | Satellite Call            |
 | Ice Cream (with Selena Gomez)    | With                      |
 
 | 10 most Acoustic tracks      | 10 least Acoustic tracks   |
 |:-----------------------------|:---------------------------|
-| when the party's over        | Oh Sorry Ya                |
-| Bright Lights and Cityscapes | Misery                     |
+| when the party's over        | Misery                     |
+| Bright Lights and Cityscapes | Oh Sorry Ya                |
 | Mad World                    | Gimme Chocolate!!          |
 | Manhattan                    | Cyberpunk                  |
 | Nature Boy                   | Tamed-Dashed               |
@@ -514,18 +514,18 @@
 | Take It All                  | Kagerou                    |
 | The Dawntreader              | The Phantom Of The Opera   |
 
-| 10 most Instrumental tracks              | 10 least Instrumental tracks   |
-|:-----------------------------------------|:-------------------------------|
-| Digital Love                             | Be Natural                     |
-| だいじょばない                                  | Cry for Me                     |
-| Animals                                  | Alone                          |
-| Street Spirit (Fade Out)                 | Voices                         |
-| everything i wanted                      | Deja Vu                        |
-| Instant Crush (feat. Julian Casablancas) | Hello, Sunset                  |
-| Smooth Criminal - 2012 Remaster          | Brown Eyed Girl                |
-| Pyramid Song                             | California Gurls               |
-| Shanti Shanti Shanti                     | Something                      |
-| You Take My Breath Away                  | First Time                     |
+| 10 most Instrumental tracks              | 10 least Instrumental tracks                |
+|:-----------------------------------------|:--------------------------------------------|
+| Digital Love                             | Deja Vu                                     |
+| だいじょばない                                  | Hello, Sunset                               |
+| Animals                                  | Brown Eyed Girl                             |
+| Street Spirit (Fade Out)                 | California Gurls                            |
+| everything i wanted                      | Something                                   |
+| Instant Crush (feat. Julian Casablancas) | I Love You 3000 II                          |
+| Smooth Criminal - 2012 Remaster          | THRILL RIDE                                 |
+| Pyramid Song                             | Locked out of Heaven                        |
+| Shanti Shanti Shanti                     | If I Ever Fall In Love (feat. Jason Derulo) |
+| You Take My Breath Away                  | Old Fashioned                               |
 
 | 10 most Live tracks            | 10 least Live tracks                  |
 |:-------------------------------|:--------------------------------------|
