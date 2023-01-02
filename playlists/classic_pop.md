@@ -161,7 +161,7 @@
 |                 17 | [mellow gold](../genres/mellow_gold.md)             |
 |                 12 | motown                                              |
 |                 12 | [adult standards](../genres/adult_standards.md)     |
-|                  9 | folk rock                                           |
+|                  9 | [folk rock](../genres/folk_rock.md)                 |
 |                  8 | [r&b](../genres/r_b.md)                             |
 |                  8 | [pop](../genres/pop.md)                             |
 |                  8 | folk                                                |
@@ -172,6 +172,7 @@
 |                  6 | piano rock                                          |
 |                  6 | glam rock                                           |
 |                  6 | classic soul                                        |
+|                  5 | quiet storm                                         |
 |                  5 | memphis soul                                        |
 |                  5 | melancholia                                         |
 |                  5 | funk                                                |
@@ -186,7 +187,6 @@
 |                  1 | smooth jazz                                         |
 |                  1 | roots rock                                          |
 |                  1 | rock-and-roll                                       |
-|                  1 | quiet storm                                         |
 |                  1 | permanent wave                                      |
 |                  1 | latin pop                                           |
 |                  1 | jazz trumpet                                        |

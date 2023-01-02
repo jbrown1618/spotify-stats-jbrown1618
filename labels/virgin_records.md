@@ -47,30 +47,28 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 16 genres](../images/labels/virgin_records/genres.png)
+![Bar chart of top 14 genres](../images/labels/virgin_records/genres.png)
 
 
 <details>
-<summary>See all 16 genres</summary>
+<summary>See all 14 genres</summary>
 
-|   Number of Tracks | Genre                                       |
-|-------------------:|:--------------------------------------------|
-|                 10 | [neo mellow](../genres/neo_mellow.md)       |
-|                 10 | [lilith](../genres/lilith.md)               |
-|                 10 | [acoustic pop](../genres/acoustic_pop.md)   |
-|                  7 | indie pop                                   |
-|                  4 | [pop rock](../genres/pop_rock.md)           |
-|                  3 | scottish singer-songwriter                  |
-|                  1 | uk pop                                      |
-|                  1 | tropical house                              |
-|                  1 | spacegrunge                                 |
-|                  1 | [rock](../genres/rock.md)                   |
-|                  1 | [post-teen pop](../genres/post_teen_pop.md) |
-|                  1 | permanent wave                              |
-|                  1 | grunge                                      |
-|                  1 | [dance pop](../genres/dance_pop.md)         |
-|                  1 | alternative rock                            |
-|                  1 | alternative metal                           |
+|   Number of Tracks | Genre                                     |
+|-------------------:|:------------------------------------------|
+|                 10 | [neo mellow](../genres/neo_mellow.md)     |
+|                 10 | [lilith](../genres/lilith.md)             |
+|                 10 | [acoustic pop](../genres/acoustic_pop.md) |
+|                  4 | [pop rock](../genres/pop_rock.md)         |
+|                  3 | scottish singer-songwriter                |
+|                  1 | uk pop                                    |
+|                  1 | tropical house                            |
+|                  1 | spacegrunge                               |
+|                  1 | [rock](../genres/rock.md)                 |
+|                  1 | permanent wave                            |
+|                  1 | grunge                                    |
+|                  1 | [dance pop](../genres/dance_pop.md)       |
+|                  1 | alternative rock                          |
+|                  1 | alternative metal                         |
 
 </details>
 

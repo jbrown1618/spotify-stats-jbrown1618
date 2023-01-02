@@ -65,11 +65,11 @@ Appears as:
 |                 12 | motown                                          |
 |                 10 | soul                                            |
 |                  8 | [adult standards](../genres/adult_standards.md) |
+|                  5 | quiet storm                                     |
 |                  5 | funk                                            |
 |                  5 | classic soul                                    |
 |                  4 | memphis soul                                    |
 |                  1 | [soft rock](../genres/soft_rock.md)             |
-|                  1 | quiet storm                                     |
 |                  1 | [mellow gold](../genres/mellow_gold.md)         |
 |                  1 | disco                                           |
 
