@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b273714e56679ab196354e2e443eab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738c4a282e84a53c1c8acf129a" alt="K-Pop Favorites" width="100" />
 
-[202 songs](k_pop_favorites_tracks.md)
+[201 songs](k_pop_favorites_tracks.md)
 
 ## Top Artists
 
@@ -45,7 +45,6 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b13da5a8a3dd6e0d53ff764" alt="" width="50" /> | Red Velvet - IRENE & SEULGI                          | [🔗](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5b1a291b0a6a689091d54d8b" alt="" width="50" /> | IVE                                                  | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a29246fa242d0b9f8de3b31" alt="" width="50" /> | SUNMI                                                | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebfe8fbd794e1c35f9c0514541" alt="" width="50" /> | NewJeans                                             | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5d87e2a10ba3b2f8bb2c5270" alt="" width="50" /> | ATEEZ                                                | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="" width="50" /> | [Dreamcatcher](../artists/dreamcatcher.md)           | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e2e0f17d257a40be0782f35" alt="" width="50" /> | BAEKHYUN                                             | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
@@ -65,6 +64,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb20dfb8f52ef4926a22e552c8" alt="" width="50" /> | R3HAB                                                | [🔗](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | BIBI                                                 | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | CLC                                                  | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfe8fbd794e1c35f9c0514541" alt="" width="50" /> | NewJeans                                             | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebea3e3a63d8bc191f631f6e0e" alt="" width="50" /> | PURPLE KISS                                          | [🔗](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2197a2a24be11b8872a9d325" alt="" width="50" /> | MINGYU                                               | [🔗](https://open.spotify.com/artist/5gUpo0BRmo6EOTbyU3z5Ay) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba109aeabdab7a5a5b3330df4" alt="" width="50" /> | HEIZE                                                | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
@@ -257,7 +257,6 @@
 |                  2 | [LABEL V](../labels/label_v.md)                                                         |
 |                  2 | [KQ Entertainment](../labels/kq_entertainment.md)                                       |
 |                  2 | [Fave Entertainment](../labels/fave_entertainment.md)                                   |
-|                  2 | [ADOR](../labels/ador.md)                                                               |
 |                  2 | [88rising Music](../labels/88rising_music.md)                                           |
 |                  1 | [드림캐쳐컴퍼니](../labels/_______.md)                                                         |
 |                  1 | [더라이브레이블](../labels/_______.md)                                                         |
@@ -284,6 +283,7 @@
 |                  1 | [Capitol Records (CAP)](../labels/capitol_records__cap_.md)                             |
 |                  1 | [BlockBerryCreative](../labels/blockberrycreative.md)                                   |
 |                  1 | [Abyss Company](../labels/abyss_company.md)                                             |
+|                  1 | [ADOR](../labels/ador.md)                                                               |
 |                  1 | [2018 YG Entertainment](../labels/2018_yg_entertainment.md)                             |
 
 </details>
@@ -299,8 +299,8 @@
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
-|                168 | [k-pop](../genres/k_pop.md)                       |
-|                 80 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+|                167 | [k-pop](../genres/k_pop.md)                       |
+|                 79 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 |                 46 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
 |                 12 | [pop](../genres/pop.md)                           |
 |                  9 | anime                                             |
@@ -340,8 +340,8 @@
 | HOME;RUN                              | Love poem                   |
 | Feel My Rhythm                        | 무제(無題) (Untitled, 2014)     |
 | The Boys                              | Butter                      |
-| Sparkling Night                       | My sea                      |
-| Ice Cream Cake                        | Gone                        |
+| Ice Cream Cake                        | My sea                      |
+| Sparkling Night                       | Gone                        |
 | Hype Boy                              | ONLY                        |
 
 | 10 most Speechy tracks   | 10 least Speechy tracks   |
@@ -372,15 +372,15 @@
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| YEPPI YEPPI                   | Forgive Me                     |
-| I Am The Best                 | Something                      |
-| FEARLESS                      | dlwlrma                        |
-| Lion Heart                    | MIROTIC                        |
-| Kill This Love                | HOLO                           |
-| Why Not?                      | Spark                          |
-| Black Mamba                   | My sea                         |
-| In the morning                | Don't Call Me                  |
-| Stay Tonight                  | Deja Vu                        |
+| YEPPI YEPPI                   | Paint Me Naked                 |
+| I Am The Best                 | Deja Vu                        |
+| FEARLESS                      | Forgive Me                     |
+| Lion Heart                    | dlwlrma                        |
+| Kill This Love                | MIROTIC                        |
+| Why Not?                      | HOLO                           |
+| Black Mamba                   | Spark                          |
+| In the morning                | My sea                         |
+| Stay Tonight                  | Don't Call Me                  |
 | Girls                         | Shut Down                      |
 
 | 10 most Live tracks             | 10 least Live tracks        |
@@ -398,11 +398,11 @@
 
 | 10 most Happy tracks                        | 10 least Happy tracks     |
 |:--------------------------------------------|:--------------------------|
-| Devil                                       | Still Life                |
-| Lion Heart                                  | Cold As Hell              |
-| 러시안 룰렛 Russian Roulette                     | Can't Control Myself      |
-| 1, 2, 3, 4                                  | HOLO                      |
-| Left & Right                                | Ditto                     |
+| Devil                                       | HANN (Alone)              |
+| Lion Heart                                  | Still Life                |
+| 러시안 룰렛 Russian Roulette                     | Cold As Hell              |
+| 1, 2, 3, 4                                  | Can't Control Myself      |
+| Left & Right                                | HOLO                      |
 | I`m a B                                     | Favorite (Vampire)        |
 | The Feels                                   | Adrenaline                |
 | The Boys                                    | ONLY                      |

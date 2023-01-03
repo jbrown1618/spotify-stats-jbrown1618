@@ -310,7 +310,7 @@
 |                 23 | [rock](../genres/rock.md)                           |
 |                 23 | indie pop                                           |
 |                 20 | modern rock                                         |
-|                 19 | [dance pop](../genres/dance_pop.md)                 |
+|                 20 | [dance pop](../genres/dance_pop.md)                 |
 |                 19 | [art pop](../genres/art_pop.md)                     |
 |                 17 | [electropop](../genres/electropop.md)               |
 |                 17 | baroque pop                                         |
@@ -370,7 +370,6 @@
 |                  2 | celtic rock                                         |
 |                  2 | canadian indie                                      |
 |                  2 | alternative metal                                   |
-|                  2 | alternative dance                                   |
 |                  1 | visual kei                                          |
 |                  1 | viral pop                                           |
 |                  1 | uk contemporary r&b                                 |
@@ -406,6 +405,7 @@
 |                  1 | dutch pop                                           |
 |                  1 | downtempo                                           |
 |                  1 | danish pop                                          |
+|                  1 | cyberpunk                                           |
 
 </details>
 

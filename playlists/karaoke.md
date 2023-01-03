@@ -230,13 +230,13 @@
 |                  4 | permanent wave                                      |
 |                  4 | lounge                                              |
 |                  4 | glam rock                                           |
+|                  3 | motown                                              |
 |                  3 | canadian pop                                        |
 |                  3 | australian pop                                      |
 |                  2 | viral pop                                           |
 |                  2 | urban contemporary                                  |
 |                  2 | soul                                                |
 |                  2 | pop soul                                            |
-|                  2 | motown                                              |
 |                  2 | modern rock                                         |
 |                  2 | modern alternative rock                             |
 |                  2 | melancholia                                         |

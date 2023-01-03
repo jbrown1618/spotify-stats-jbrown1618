@@ -1,16 +1,16 @@
 # pop rock
 
-[81 songs](pop_rock_tracks.md)
+[80 songs](pop_rock_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 20 artists](../images/genres/pop_rock/artists.png)
+![Bar chart of top 19 artists](../images/genres/pop_rock/artists.png)
 
 ![Comparison of Artist](../images/genres/pop_rock/artists_comparison.png)
 
 
 <details>
-<summary>See all 20 artists</summary>
+<summary>See all 19 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                         | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------|:------------------------------------------------------------|
@@ -30,7 +30,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1a7d0845c3b7e2f130264957" alt="" width="50" /> | The Smashing Pumpkins                          | [🔗](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb02dd5c821135e146eb2bfc85" alt="" width="50" /> | Snow Patrol                                    | [🔗](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9e0ca4a2881766ad646d449d" alt="" width="50" /> | Eagle-Eye Cherry                               | [🔗](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0168ba8148c07c2cdeb7d067" alt="" width="50" /> | a-ha                                           | [🔗](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | Christina Aguilera                             | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba9add5f319d70026d4f3b8a1" alt="" width="50" /> | Rixton                                         | [🔗](https://open.spotify.com/artist/0kkxsdcaWmWU2yWAqclDh4) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0b549f4ea1ab50fbae9e4a4b" alt="" width="50" /> | Neon Trees                                     | [🔗](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) |
@@ -39,11 +38,11 @@
 
 ## Top Albums
 
-![Bar chart of top 25 albums](../images/genres/pop_rock/albums.png)
+![Bar chart of top 24 albums](../images/genres/pop_rock/albums.png)
 
 
 <details>
-<summary>See all 25 albums</summary>
+<summary>See all 24 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                   | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------|:-----------------------------------------------------------|
@@ -65,7 +64,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27392c885317fbe4bfa680109b4" alt="" width="50" /> | Jagged Little Pill                                      | [🔗](https://open.spotify.com/album/09AwlP99cHfKVNKv4FC8VW) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273554488d0c51967b1654d8ce5" alt="" width="50" /> | Is There Anybody Out There?                             | [🔗](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27327c371084dee1b83e614798d" alt="" width="50" /> | Indiana                                                 | [🔗](https://open.spotify.com/album/2UpO4j1Zpptiwk3wbUIWmU) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53" alt="" width="50" /> | Hunting High and Low                                    | [🔗](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734d991176cbf36bd168e00a0a" alt="" width="50" /> | Fitz and The Tantrums (Deluxe Edition)                  | [🔗](https://open.spotify.com/album/4eoIRaV8z8v2LaXQSWy2LC) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f" alt="" width="50" /> | Eyes Open                                               | [🔗](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273aacc6949864aa4c1073d3060" alt="" width="50" /> | Desireless                                              | [🔗](https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO) |
@@ -78,11 +76,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 18 record labels](../images/genres/pop_rock/labels.png)
+![Bar chart of top 17 record labels](../images/genres/pop_rock/labels.png)
 
 
 <details>
-<summary>See all 18 labels</summary>
+<summary>See all 17 labels</summary>
 
 |   Number of Tracks | Label                                                                           |
 |-------------------:|:--------------------------------------------------------------------------------|
@@ -95,7 +93,6 @@
 |                  2 | [ATG](../labels/atg.md)                                                         |
 |                  1 | [Work](../labels/work.md)                                                       |
 |                  1 | [Silent Records](../labels/silent_records.md)                                   |
-|                  1 | [Rhino](../labels/rhino.md)                                                     |
 |                  1 | [Polydor Records](../labels/polydor_records.md)                                 |
 |                  1 | [Mercury Records](../labels/mercury_records.md)                                 |
 |                  1 | [Maverick](../labels/maverick.md)                                               |
@@ -126,15 +123,15 @@
 | 10 most Energetic tracks    | 10 least Energetic tracks                                                         |
 |:----------------------------|:----------------------------------------------------------------------------------|
 | Everybody Talks             | Basket Case                                                                       |
-| Take on Me                  | We All Need Saving                                                                |
-| Bad Idea (feat. Jason Mraz) | What's Inside                                                                     |
-| Morningside                 | Once Upon Another Time                                                            |
-| Let The Rain                | Bluebird                                                                          |
-| Fairytale                   | Bright Lights and Cityscapes                                                      |
-| Brave                       | Manhattan                                                                         |
-| HandClap                    | Say Something                                                                     |
-| You Oughta Know             | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 |
-| Industry                    | Kaleidoscope Heart                                                                |
+| Bad Idea (feat. Jason Mraz) | We All Need Saving                                                                |
+| Morningside                 | What's Inside                                                                     |
+| Let The Rain                | Once Upon Another Time                                                            |
+| Fairytale                   | Bluebird                                                                          |
+| Brave                       | Bright Lights and Cityscapes                                                      |
+| HandClap                    | Manhattan                                                                         |
+| You Oughta Know             | Say Something                                                                     |
+| Industry                    | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 |
+| Come Round Soon             | Kaleidoscope Heart                                                                |
 
 | 10 most Speechy tracks          | 10 least Speechy tracks    |
 |:--------------------------------|:---------------------------|
@@ -194,9 +191,9 @@
 | Hard To Handle                  | What's Inside                                                                     |
 | I Choose You                    | Bluebird                                                                          |
 | Black Horse And The Cherry Tree | Chasing Cars                                                                      |
-| Take on Me                      | We All Need Saving                                                                |
-| Say You're Sorry                | Everything Changes                                                                |
-| King of Anything                | Jar of Hearts                                                                     |
-| Lie To Me                       | Islands                                                                           |
-| Bad Idea (feat. Jason Mraz)     | Say Something                                                                     |
-| I Didn't Plan It                | Once Upon Another Time                                                            |
+| Say You're Sorry                | We All Need Saving                                                                |
+| King of Anything                | Everything Changes                                                                |
+| Lie To Me                       | Jar of Hearts                                                                     |
+| Bad Idea (feat. Jason Mraz)     | Islands                                                                           |
+| I Didn't Plan It                | Say Something                                                                     |
+| Morningside                     | Once Upon Another Time                                                            |

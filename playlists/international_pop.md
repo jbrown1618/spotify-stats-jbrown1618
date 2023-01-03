@@ -21,7 +21,7 @@
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb284894d68fe2f80cad555110" alt="" width="50" /> | Shakira                            | [🔗](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb50e69bf99b647d12b14cb314" alt="" width="50" /> | Isyana Sarasvati                   | [🔗](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375" alt="" width="50" /> | Hatsune Miku                       | [🔗](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) |
-|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebc6e1280be0bb5a22ff599700" alt="" width="50" /> | OFFICIAL HIGE DANDISM              | [🔗](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) |
+|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb5b435ca1c4b22290103513c0" alt="" width="50" /> | OFFICIAL HIGE DANDISM              | [🔗](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb1893a2479e486ff3cfb41f02" alt="" width="50" /> | Anna Zak                           | [🔗](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb94faa4606299f4f5ccca4e35" alt="" width="50" /> | Daði Freyr                         | [🔗](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebe33284545d27028ec2f3dacf" alt="" width="50" /> | Reol                               | [🔗](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) |
@@ -305,7 +305,7 @@
 
 
 <details>
-<summary>See all 95 genres</summary>
+<summary>See all 94 genres</summary>
 
 |   Number of Tracks | Genre                                 |
 |-------------------:|:--------------------------------------|
@@ -328,7 +328,6 @@
 |                  4 | israeli pop                           |
 |                  4 | indonesian r&b                        |
 |                  4 | indonesian pop                        |
-|                  4 | indonesian indie                      |
 |                  3 | urbano latino                         |
 |                  3 | taiwan singer-songwriter              |
 |                  3 | sunnlensk tonlist                     |

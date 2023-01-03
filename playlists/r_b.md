@@ -226,7 +226,7 @@
 |                 12 | neo soul                                        |
 |                 10 | barbadian pop                                   |
 |                 10 | atl hip hop                                     |
-|                  8 | motown                                          |
+|                  9 | motown                                          |
 |                  7 | [post-teen pop](../genres/post_teen_pop.md)     |
 |                  6 | pop rap                                         |
 |                  6 | escape room                                     |
@@ -245,6 +245,7 @@
 |                  4 | classic soul                                    |
 |                  3 | canadian contemporary r&b                       |
 |                  2 | lgbtq+ hip hop                                  |
+|                  2 | hip hop                                         |
 |                  2 | chill r&b                                       |
 |                  1 | vocal jazz                                      |
 |                  1 | uk pop                                          |
@@ -261,7 +262,6 @@
 |                  1 | [mellow gold](../genres/mellow_gold.md)         |
 |                  1 | jazz blues                                      |
 |                  1 | indie r&b                                       |
-|                  1 | hip hop                                         |
 |                  1 | girl group                                      |
 |                  1 | disco                                           |
 |                  1 | canadian pop                                    |

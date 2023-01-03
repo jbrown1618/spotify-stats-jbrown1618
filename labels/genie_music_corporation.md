@@ -136,7 +136,7 @@ Appears as:
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
-|                 41 | [k-pop](../genres/k_pop.md)                       |
+|                 42 | [k-pop](../genres/k_pop.md)                       |
 |                 12 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 |                  9 | korean r&b                                        |
 |                  6 | [k-pop boy group](../genres/k_pop_boy_group.md)   |

@@ -359,7 +359,7 @@
 
 |   Number of Tracks | Genre                                           |
 |-------------------:|:------------------------------------------------|
-|                294 | [pop](../genres/pop.md)                         |
+|                291 | [pop](../genres/pop.md)                         |
 |                192 | [dance pop](../genres/dance_pop.md)             |
 |                 47 | [post-teen pop](../genres/post_teen_pop.md)     |
 |                 28 | [electropop](../genres/electropop.md)           |
@@ -368,7 +368,7 @@
 |                 26 | edm                                             |
 |                 20 | urban contemporary                              |
 |                 15 | pop rap                                         |
-|                 14 | neo soul                                        |
+|                 15 | neo soul                                        |
 |                 12 | [pop rock](../genres/pop_rock.md)               |
 |                 12 | atl hip hop                                     |
 |                 11 | [r&b](../genres/r_b.md)                         |
@@ -404,6 +404,7 @@
 |                  4 | house                                           |
 |                  4 | [hollywood](../genres/hollywood.md)             |
 |                  4 | hip pop                                         |
+|                  4 | hip hop                                         |
 |                  4 | girl group                                      |
 |                  4 | europop                                         |
 |                  4 | electro house                                   |
@@ -412,7 +413,6 @@
 |                  3 | modern alternative rock                         |
 |                  3 | lgbtq+ hip hop                                  |
 |                  3 | latin pop                                       |
-|                  3 | hip hop                                         |
 |                  3 | etherpop                                        |
 |                  3 | chill r&b                                       |
 |                  3 | canadian contemporary r&b                       |
