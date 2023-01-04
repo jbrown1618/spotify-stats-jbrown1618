@@ -1,16 +1,16 @@
 # electropop
 
-[46 songs](electropop_tracks.md)
+[47 songs](electropop_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 25 artists](../images/genres/electropop/artists.png)
+![Bar chart of top 26 artists](../images/genres/electropop/artists.png)
 
 ![Comparison of Artist](../images/genres/electropop/artists_comparison.png)
 
 
 <details>
-<summary>See all 25 artists</summary>
+<summary>See all 26 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                       | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------|:------------------------------------------------------------|
@@ -26,6 +26,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3c02f4fb4cc9187c488afd50" alt="" width="50" /> | The Chainsmokers                             | [🔗](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5af53f295e6c42529fbd0873" alt="" width="50" /> | Lauv                                         | [🔗](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9f754de994ed3b6e8f01522" alt="" width="50" /> | Jidenna                                      | [🔗](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd06f948216f34ea0298aef43" alt="" width="50" /> | Caroline Polachek                            | [🔗](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) |
 |                  1 | <img src="https://i.scdn.co/image/145b7b08e7f1de22d033e957c0888a5f9e0c99e6" alt="" width="50" /> | Leighton Meester                             | [🔗](https://open.spotify.com/artist/481VlDdXZAIRxnHyywNbXn) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8f4d36b43fa094d32a167f1e" alt="" width="50" /> | Ashnikko                                     | [🔗](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)                     | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
@@ -48,7 +49,7 @@
 
 
 <details>
-<summary>See all 30 albums</summary>
+<summary>See all 31 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                                      | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -81,6 +82,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273495ce6da9aeb159e94eaa453" alt="" width="50" /> | Closer                                                                     | [🔗](https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738cae5034066af45cdfbc4266" alt="" width="50" /> | Church Of Scars                                                            | [🔗](https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="" width="50" /> | CRASH                                                                      | [🔗](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731bf7d80f4a7bf4ed02da9fad" alt="" width="50" /> | Billions                                                                   | [🔗](https://open.spotify.com/album/4DpAPqdJ1jVhoWZrxWLRH5) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b0ed835957dbf3c63184a3bc" alt="" width="50" /> | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] | [🔗](https://open.spotify.com/album/6snPKZGUbpydW2XJu9ievq) |
 
 </details>
@@ -88,11 +90,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 25 record labels](../images/genres/electropop/labels.png)
+![Bar chart of top 26 record labels](../images/genres/electropop/labels.png)
 
 
 <details>
-<summary>See all 25 labels</summary>
+<summary>See all 26 labels</summary>
 
 |   Number of Tracks | Label                                                                 |
 |-------------------:|:----------------------------------------------------------------------|
@@ -109,6 +111,7 @@
 |                  1 | [Silent Records IGA](../labels/silent_records_iga.md)                 |
 |                  1 | [Republic Records](../labels/republic_records.md)                     |
 |                  1 | [RCA Records Label](../labels/rca_records_label.md)                   |
+|                  1 | [Perpetual Novice](../labels/perpetual_novice.md)                     |
 |                  1 | [Parlophone UK](../labels/parlophone_uk.md)                           |
 |                  1 | [Metric Music International](../labels/metric_music_international.md) |
 |                  1 | [Island Records](../labels/island_records.md)                         |
@@ -184,26 +187,26 @@
 | everything i wanted           | Good Girls Go Bad (feat. Leighton Meester) |
 | you should see me in a crown  | The Good War                               |
 | bury a friend                 | Cameo Lover                                |
-| Therefore I Am                | Closer                                     |
-| bad guy                       | Daisy 2.0 (feat. Hatsune Miku)             |
+| Therefore I Am                | Two Way Street                             |
+| bad guy                       | Closer                                     |
 | Like They Do on the TV        | lovely (with Khalid)                       |
 | Top of the World              | Say My Name                                |
 | Lights - Single Version       | SUGA's Interlude                           |
 | ocean eyes                    | Bad At Love                                |
-| Lightyears                    | Two Way Street                             |
+| Lightyears                    | Daisy 2.0 (feat. Hatsune Miku)             |
 
 | 10 most Live tracks                            | 10 least Live tracks                                                       |
 |:-----------------------------------------------|:---------------------------------------------------------------------------|
 | Good Girls Go Bad (feat. Leighton Meester)     | The Good War                                                               |
-| Make Me Feel                                   | No Time To Die                                                             |
-| Old Flame                                      | Good Ones                                                                  |
-| xanny                                          | Settle Down                                                                |
-| Daisy 2.0 (feat. Hatsune Miku)                 | Lightyears                                                                 |
-| Tightrope (feat. Big Boi) - Big Boi Vocal Edit | Say My Name                                                                |
-| Yoga                                           | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] |
+| Billions                                       | No Time To Die                                                             |
+| Make Me Feel                                   | Good Ones                                                                  |
+| Old Flame                                      | Settle Down                                                                |
+| xanny                                          | Lightyears                                                                 |
+| Daisy 2.0 (feat. Hatsune Miku)                 | Say My Name                                                                |
+| Tightrope (feat. Big Boi) - Big Boi Vocal Edit | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] |
 | Somebody Else                                  | Therefore I Am                                                             |
-| Good Intent                                    | River                                                                      |
-| Waltz Me to the Grave                          | SUGA's Interlude                                                           |
+| Yoga                                           | River                                                                      |
+| Good Intent                                    | SUGA's Interlude                                                           |
 
 | 10 most Happy tracks                                                       | 10 least Happy tracks   |
 |:---------------------------------------------------------------------------|:------------------------|

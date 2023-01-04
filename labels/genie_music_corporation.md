@@ -1,9 +1,9 @@
 # Genie Music Corporation
 
-50 songs
+52 songs
 
 Appears as:
-- Genie Music Corporation, Stone Music Entertainment (38 tracks)
+- Genie Music Corporation, Stone Music Entertainment (40 tracks)
 - Genie Music Corporation (12 tracks)
 
 ## Top Artists
@@ -17,6 +17,7 @@ Appears as:
 |   Number of Tracks | Art                                                                                              | Artist                                 | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:------------------------------------------------------------|
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="" width="50" /> | EVERGLOW                               | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
+|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb767815f4876969e8f888f0db" alt="" width="50" /> | The Rose                               | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | [CHUNG HA](../artists/chung_ha.md)     | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb86fd15cae5905acd12864029" alt="" width="50" /> | Kep1er                                 | [🔗](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb983cc89d77c523e7bf9c03f6" alt="" width="50" /> | YENA                                   | [🔗](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) |
@@ -24,7 +25,6 @@ Appears as:
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb63a4eedf0e775d0a2e19f5df" alt="" width="50" /> | WOODZ                                  | [🔗](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | BIBI                                   | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eba6b0d348c125a072e5284b3e" alt="" width="50" /> | IZ*ONE                                 | [🔗](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb767815f4876969e8f888f0db" alt="" width="50" /> | The Rose                               | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../artists/mamamoo.md)       | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | Hwa Sa                                 | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb64cfd9127e28c0e04ab38bf7" alt="" width="50" /> | MARK                                   | [🔗](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) |
@@ -74,7 +74,7 @@ Appears as:
 
 
 <details>
-<summary>See all 44 albums</summary>
+<summary>See all 46 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                                | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -88,6 +88,7 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734b378770cd6b77e86f8a6288" alt="" width="50" /> | Worldwide                                                            | [🔗](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27308b6c12c648f704e599cabd9" alt="" width="50" /> | When Night Is Falling                                                | [🔗](https://open.spotify.com/album/3nOIsILeko2meMblKEGYZw) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27311d3a0bab62d67dfc7645745" alt="" width="50" /> | WOLF                                                                 | [🔗](https://open.spotify.com/album/1V60S7FEby9fQwh5eVluj8) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730f439d80abc0a1b40e7cc231" alt="" width="50" /> | Void                                                                 | [🔗](https://open.spotify.com/album/58njxSTVkyBNIuCpAmmAJc) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736aa25194fc6d46aa2b9b703a" alt="" width="50" /> | Vibrato                                                              | [🔗](https://open.spotify.com/album/0S1VyZliuHBfMhMCd7kr95) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27343848859c0cf73d8c660eba5" alt="" width="50" /> | VINCENZO (Original Television Soundtrack) Pt. 3                      | [🔗](https://open.spotify.com/album/47ulDGfVUWUcUSWRQCzxr3) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27345c3e1eaeaed3345abae9616" alt="" width="50" /> | Undo                                                                 | [🔗](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) |
@@ -116,6 +117,7 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273351ac6effa17d7780a306d24" alt="" width="50" /> | GLASSY                                                               | [🔗](https://open.spotify.com/album/2WCMmZ8vXBnkVp97PzLeoA) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273cd17c315097d81ea0882430c" alt="" width="50" /> | Flourishing                                                          | [🔗](https://open.spotify.com/album/1lNM7RF1SVUs66OtLj4MQh) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b068508a55c13c676bf74d6b" alt="" width="50" /> | FACE ME                                                              | [🔗](https://open.spotify.com/album/4i3Q8eTqefwISi3WltwzAW) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738ae58b007d9c05f8e7cfdb81" alt="" width="50" /> | Dawn                                                                 | [🔗](https://open.spotify.com/album/0YZ0m6Z8xUurgzV9lXvflS) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734d1fce6f6b2b64395f7e804e" alt="" width="50" /> | DOUBLAST                                                             | [🔗](https://open.spotify.com/album/0yMosWzriw3613d26x7MQK) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739e0863f52c51d1c38a145d5a" alt="" width="50" /> | COLOR*IZ                                                             | [🔗](https://open.spotify.com/album/5Fl13rfH2DRRTo6OV4ecJY) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ab36ff6234cbb75990aab601" alt="" width="50" /> | CIX 5th EP Album ‘OK’ Episode 1 : OK Not                             | [🔗](https://open.spotify.com/album/0awixD0tmDTgB6JWfQxwO0) |
@@ -136,10 +138,10 @@ Appears as:
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
-|                 42 | [k-pop](../genres/k_pop.md)                       |
+|                 44 | [k-pop](../genres/k_pop.md)                       |
 |                 12 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 |                  9 | korean r&b                                        |
-|                  6 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
+|                  8 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
 |                  3 | [pop](../genres/pop.md)                           |
 |                  3 | korean pop                                        |
 |                  3 | korean ost                                        |
@@ -191,6 +193,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27390831ba9ed4aa3b89fd6b81c" alt="" width="50" /> | HEYDAY (Prod. Czaer)                      | Street Man Fighter Original Vol.4 (Crew Songs)                       | [Stray Kids](../artists/stray_kids.md)            | [Genie Music Corporation](genie_music_corporation.md)                                                            | 💚   | [🔗](https://open.spotify.com/track/35sE2Ehvd1GzBzAIC0zFIu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a38fcfd623020295c4b0dd6f" alt="" width="50" /> | Into The Abyss                            | Abyss (Original Television Soundtrack), Pt. 1                        | SURAN, Coogie                                     | [Genie Music Corporation](genie_music_corporation.md)                                                            | 💚   | [🔗](https://open.spotify.com/track/3aBbunGtgB2Ng5rIG7QtCj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739902ed3e9f44f5ad65ad808a" alt="" width="50" /> | Sorry                                     | Sorry                                                                | The Rose                                          | [Genie Music Corporation](genie_music_corporation.md), [Stone Music Entertainment](stone_music_entertainment.md) | 💚   | [🔗](https://open.spotify.com/track/7zmrZMinkTMJ2kZgM9Kqgp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730f439d80abc0a1b40e7cc231" alt="" width="50" /> | BABY                                      | Void                                                                 | The Rose                                          | [Genie Music Corporation](genie_music_corporation.md), [Stone Music Entertainment](stone_music_entertainment.md) | 💚   | [🔗](https://open.spotify.com/track/2xzCH9be8QS7WTuboq1s3n) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738ae58b007d9c05f8e7cfdb81" alt="" width="50" /> | She′s In The Rain                         | Dawn                                                                 | The Rose                                          | [Genie Music Corporation](genie_music_corporation.md), [Stone Music Entertainment](stone_music_entertainment.md) |     | [🔗](https://open.spotify.com/track/2I0LNCqlQpAPJlwOEWaefE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f6458e54f8d2fd64f54ea3f" alt="" width="50" /> | RED                                       | RED                                                                  | The Rose                                          | [Genie Music Corporation](genie_music_corporation.md), [Stone Music Entertainment](stone_music_entertainment.md) | 💚   | [🔗](https://open.spotify.com/track/1JsBcVdlKZJmDPJWu4wJPC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b068508a55c13c676bf74d6b" alt="" width="50" /> | PHOTO                                     | FACE ME                                                              | VERIVERY                                          | [Genie Music Corporation](genie_music_corporation.md), [Stone Music Entertainment](stone_music_entertainment.md) | 💚   | [🔗](https://open.spotify.com/track/0GG5yUUUwoyV7I4qx54mmC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d5c8b45ab7a204c4de48605" alt="" width="50" /> | ONCE AGAIN                                | Our Blues, Pt. 10 (Original Television Soundtrack)                   | WINTER, NINGNING                                  | [Genie Music Corporation](genie_music_corporation.md), [Stone Music Entertainment](stone_music_entertainment.md) |     | [🔗](https://open.spotify.com/track/5vsjD4VbQzkUUlvwFOhppn) |

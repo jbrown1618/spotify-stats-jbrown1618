@@ -1,9 +1,9 @@
 # Universal Music LLC
 
-59 songs
+60 songs
 
 Appears as:
-- Universal Music LLC (37 tracks)
+- Universal Music LLC (38 tracks)
 - Universal Records (16 tracks)
 - Universal Music Ltd. (4 tracks)
 - Fuzzy Door Productions/Universal (1 tracks)
@@ -26,12 +26,12 @@ Appears as:
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | CLC                                            | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eba3c1fca063ed673aed61c885" alt="" width="50" /> | YOUHA                                          | [🔗](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | PENTAGON                                       | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb548445341ba5aa2ddcd35c87" alt="" width="50" /> | Fujii Kaze                                     | [🔗](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc19d6c8224e8b1b94bf565e5" alt="" width="50" /> | Perfume                                        | [🔗](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd12e935bbdee7c383001f8c4" alt="" width="50" /> | YUQI                                           | [🔗](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | Nicki Minaj                                    | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3bdc84aa8946d4d06fe2e144" alt="" width="50" /> | SEKAI NO OWARI                                 | [🔗](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb28c2dea644b78257ccfb4520" alt="" width="50" /> | Seth MacFarlane                                | [🔗](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb548445341ba5aa2ddcd35c87" alt="" width="50" /> | Fujii Kaze                                     | [🔗](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | BIBI                                           | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd46ebd494a30ea88327e9715" alt="" width="50" /> | TRI.BE                                         | [🔗](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | Iggy Azalea                                    | [🔗](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) |
@@ -57,7 +57,7 @@ Appears as:
 
 
 <details>
-<summary>See all 34 albums</summary>
+<summary>See all 35 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                   | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------|:-----------------------------------------------------------|
@@ -75,6 +75,7 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ced490e566f828ee9ca8d263" alt="" width="50" /> | 潜潜話                                                     | [🔗](https://open.spotify.com/album/4myzXA54fPm89hpW41YkOS) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dbd5c6e6e365a3e70832780d" alt="" width="50" /> | さよならひとり                                                 | [🔗](https://open.spotify.com/album/0VOMzswFy3fFsOb1tYs1Wd) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27358870b3abb0ff43e5948c912" alt="" width="50" /> | i'M THE TREND                                           | [🔗](https://open.spotify.com/album/03TbZLPSRsHWX11umzK4qf) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27346bd7813234a9637feeae7a0" alt="" width="50" /> | grace                                                   | [🔗](https://open.spotify.com/album/0i6jJH5oVQh0KL8INSSPpu) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273da0376db6b1c5562ab8f5b29" alt="" width="50" /> | WE:TH                                                   | [🔗](https://open.spotify.com/album/1ASYbBYBwV6Rcfc2ycqmlK) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6" alt="" width="50" /> | Uh-Oh                                                   | [🔗](https://open.spotify.com/album/3PzrNuMGWGpp8WOfrmpkaU) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d7610ec7724bad4e6c9e499" alt="" width="50" /> | POPPY                                                   | [🔗](https://open.spotify.com/album/2nei1QXcpDotdoMz3IQxr4) |
@@ -119,6 +120,7 @@ Appears as:
 |                  3 | korean city pop                                   |
 |                  3 | k-indie                                           |
 |                  2 | shibuya-kei                                       |
+|                  2 | japanese teen pop                                 |
 |                  2 | japanese electropop                               |
 |                  2 | j-pop girl group                                  |
 |                  2 | j-idol                                            |
@@ -129,7 +131,6 @@ Appears as:
 |                  1 | pop rap                                           |
 |                  1 | metropopolis                                      |
 |                  1 | lounge                                            |
-|                  1 | japanese teen pop                                 |
 |                  1 | indietronica                                      |
 |                  1 | [electropop](../genres/electropop.md)             |
 |                  1 | edm                                               |
@@ -175,9 +176,10 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="" width="50" /> | Meant                        | Beatrix Runs                                            | Elizaveta                                                           | [Universal Records](universal_music_llc.md)                                                 | 💚   | [🔗](https://open.spotify.com/track/0HEA0fIQiqOCQBcHd8PdXo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="" width="50" /> | Nightflyers                  | Beatrix Runs                                            | Elizaveta                                                           | [Universal Records](universal_music_llc.md)                                                 |     | [🔗](https://open.spotify.com/track/2IJIZnAmBgkbohDRZDIMl5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="" width="50" /> | Odi Et Amo                   | Beatrix Runs                                            | Elizaveta                                                           | [Universal Records](universal_music_llc.md)                                                 | 💚   | [🔗](https://open.spotify.com/track/24wPBY34rV79iESLYdpsRH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="" width="50" /> | Love Me Like You Do          | Fifty Shades Freed (Original Motion Picture Soundtrack) | Ellie Goulding                                                      | [Republic Records](republic_records.md), [Universal Music LLC](universal_music_llc.md), FSF | 💚   | [🔗](https://open.spotify.com/track/0Cy7wt6IlRfBPHXXjmZbcP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="" width="50" /> | Love Me Like You Do          | Fifty Shades Freed (Original Motion Picture Soundtrack) | Ellie Goulding                                                      | FSF, [Universal Music LLC](universal_music_llc.md), [Republic Records](republic_records.md) | 💚   | [🔗](https://open.spotify.com/track/0Cy7wt6IlRfBPHXXjmZbcP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273715d1b4d21f0ca40a8e95840" alt="" width="50" /> | Always                       | Always                                                  | [ENHYPEN](../artists/enhypen.md)                                    | [Universal Music LLC](universal_music_llc.md)                                               | 💚   | [🔗](https://open.spotify.com/track/6bLZ6JV1mAGz4xfS1ZwOMV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273731953ff97a79644f6eb7b4e" alt="" width="50" /> | 死ぬのがいいわ                      | HELP EVER HURT NEVER                                    | Fujii Kaze                                                          | [Universal Music LLC](universal_music_llc.md)                                               | 💚   | [🔗](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27346bd7813234a9637feeae7a0" alt="" width="50" /> | grace                        | grace                                                   | Fujii Kaze                                                          | [Universal Music LLC](universal_music_llc.md)                                               |     | [🔗](https://open.spotify.com/track/7tnYsRepXLaNhqj4xtcWP2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | BEAM BEAM                    | Windy                                                   | JEON SOYEON                                                         | [Universal Music LLC](universal_music_llc.md)                                               | 💚   | [🔗](https://open.spotify.com/track/1VjIS4qoyD6JS2rNZQgE00) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | Is this bad b****** number?  | Windy                                                   | JEON SOYEON, BIBI, Lee Young Ji                                     | [Universal Music LLC](universal_music_llc.md)                                               | 💚   | [🔗](https://open.spotify.com/track/5xTy9p0IXI8lRaU6iLGikC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | Psycho                       | Windy                                                   | JEON SOYEON                                                         | [Universal Music LLC](universal_music_llc.md)                                               | 💚   | [🔗](https://open.spotify.com/track/57LioO1gSll1wvPDAjiET3) |
@@ -191,7 +193,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2737aa30221d9dbc1271bae1b05" alt="" width="50" /> | チョコレイト・ディスコ                  | GAME                                                    | Perfume                                                             | [Universal Music LLC](universal_music_llc.md)                                               | 💚   | [🔗](https://open.spotify.com/track/3kFEX1OTRaZ5WfX3X42BQP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27396e164f0c5aac83148bb8f24" alt="" width="50" /> | だいじょばない                      | LEVEL3                                                  | Perfume                                                             | [Universal Music LLC](universal_music_llc.md)                                               | 💚   | [🔗](https://open.spotify.com/track/24UeVxRQCinBJtTwWT1158) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e94f2b2c3303120be19210b" alt="" width="50" /> | Habit                        | Habit                                                   | SEKAI NO OWARI                                                      | [Universal Music LLC](universal_music_llc.md)                                               |     | [🔗](https://open.spotify.com/track/2uMNMcjjUz8oNIxjIu20qE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273913c7a28b9dbce0ec35a7045" alt="" width="50" /> | Love Won't Let You Get Away  | Music Is Better Than Words                              | Seth MacFarlane, [Sara Bareilles](../artists/sara_bareilles.md)     | [Fuzzy Door Productions/Universal](universal_music_llc.md)                                  | 💚   | [🔗](https://open.spotify.com/track/5xNdKpcKqES50j78ac9woY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273913c7a28b9dbce0ec35a7045" alt="" width="50" /> | Love Won't Let You Get Away  | Music Is Better Than Words                              | Seth MacFarlane, [Sara Bareilles](../artists/sara_bareilles.md)     | [Fuzzy Door Productions/Universal](fuzzy_door_productions.md)                               | 💚   | [🔗](https://open.spotify.com/track/5xNdKpcKqES50j78ac9woY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d7610ec7724bad4e6c9e499" alt="" width="50" /> | POPPY                        | POPPY                                                   | [STAYC](../artists/stayc.md)                                        | [Universal Music LLC](universal_music_llc.md)                                               | 💚   | [🔗](https://open.spotify.com/track/2gpwaAJnSDTevgZa4uyM0H) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dbd5c6e6e365a3e70832780d" alt="" width="50" /> | さよならひとり                      | さよならひとり                                                 | TAEMIN                                                              | [Universal Music LLC](universal_music_llc.md)                                               |     | [🔗](https://open.spotify.com/track/4ltAvuYuC8PNKAStXiWouZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27303611decaac95320f5549cec" alt="" width="50" /> | KISS                         | LEVIOSA                                                 | TRI.BE                                                              | [Universal Music Ltd.](universal_music_llc.md)                                              | 💚   | [🔗](https://open.spotify.com/track/7MONmJafc7senaIZE3ulWv) |

@@ -1,6 +1,6 @@
 # RCA Records Label
 
-77 songs
+78 songs
 
 Appears as:
 - RCA Records Label (56 tracks)
@@ -10,6 +10,7 @@ Appears as:
 - BPG/RVG/RCA Records (1 tracks)
 - Chris Brown Entertainment/300 Entertainment/RCA Records (1 tracks)
 - RCA/Legacy (1 tracks)
+- Top Dawg Entertainment/RCA Records (1 tracks)
 - half·alive/RCA Records (1 tracks)
 
 ## Top Artists
@@ -28,10 +29,10 @@ Appears as:
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | Imogen Heap                            | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb727a2ac15afe659be999beba" alt="" width="50" /> | Doja Cat                               | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bbad89a61061304ec842588" alt="" width="50" /> | P!nk                                   | [🔗](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7eb7f6371aad8e67e01f0a03" alt="" width="50" /> | SZA                                    | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb02651b19050d8bf64b18d40a" alt="" width="50" /> | Miley Cyrus                            | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb118cd1f3261f08d957105996" alt="" width="50" /> | Kelly Clarkson                         | [🔗](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb6d5b2328e36e54bdbb0a7a96" alt="" width="50" /> | Lindsey Stirling                       | [🔗](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7eb7f6371aad8e67e01f0a03" alt="" width="50" /> | SZA                                    | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb78b9bf3dfa09b90ec0aac135" alt="" width="50" /> | half•alive                             | [🔗](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | Chris Brown                            | [🔗](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c" alt="" width="50" /> | Amy Winehouse                          | [🔗](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) |
@@ -63,7 +64,7 @@ Appears as:
 
 
 <details>
-<summary>See all 42 albums</summary>
+<summary>See all 43 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                               | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------------|:-----------------------------------------------------------|
@@ -90,6 +91,7 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="" width="50" /> | Slime & B                                           | [🔗](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732bba357383c6f9dbb5112392" alt="" width="50" /> | Slide Away                                          | [🔗](https://open.spotify.com/album/0SHGFAL8WZUvpWb5iLPp6E) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27348c7740526dec326d08b28d8" alt="" width="50" /> | Señorita                                            | [🔗](https://open.spotify.com/album/40wlfdkpATRjUMtrlt6BFb) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="" width="50" /> | SOS                                                 | [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f89d2d949f9671982e9e732c" alt="" width="50" /> | Now, Not Yet                                        | [🔗](https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a0dbab021f379ba34283a4ed" alt="" width="50" /> | No Tears Left to Cry                                | [🔗](https://open.spotify.com/album/2f47uqbseyM4AGSCiIQaw2) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739c5f8c31793f6cf28146004b" alt="" width="50" /> | Never Enough                                        | [🔗](https://open.spotify.com/album/0c9cgQqbVL9QVvwbA6faAB) |
@@ -125,14 +127,14 @@ Appears as:
 |-------------------:|:--------------------------------------------|
 |                 36 | [a cappella](../genres/a_cappella.md)       |
 |                 27 | [dance pop](../genres/dance_pop.md)         |
-|                 24 | [pop](../genres/pop.md)                     |
+|                 25 | [pop](../genres/pop.md)                     |
 |                 11 | [post-teen pop](../genres/post_teen_pop.md) |
 |                  8 | australian pop                              |
 |                  8 | australian dance                            |
 |                  4 | metropopolis                                |
 |                  4 | etherpop                                    |
+|                  3 | [r&b](../genres/r_b.md)                     |
 |                  2 | talent show                                 |
-|                  2 | [r&b](../genres/r_b.md)                     |
 |                  1 | urban contemporary                          |
 |                  1 | swedish synthpop                            |
 |                  1 | swedish pop                                 |
@@ -166,7 +168,7 @@ Appears as:
 |:-------------------------------------------------------------------------------------------------|:------------------------------------------------------|:----------------------------------------------------|:---------------------------------------------------------|:--------------------------------------------------------------------------------|:----|:-----------------------------------------------------------|
 | <img src="https://i.scdn.co/image/ab67616d0000b273c999354430ff7eac3e0d9bc8" alt="" width="50" /> | Everybody (Backstreet's Back) - Radio Edit            | This Is The End: Original Motion Picture Soundtrack | Backstreet Boys                                          | [RCA Records Label](rca_records_label.md)                                       |     | [🔗](https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733c9f7b8faf039c7607d12255" alt="" width="50" /> | Work Bitch                                            | Britney Jean (Deluxe Version)                       | Britney Spears                                           | [RCA Records Label](rca_records_label.md)                                       |     | [🔗](https://open.spotify.com/track/3KliPMvk1EvFZu9cvkj8p1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="" width="50" /> | City Girls                                            | Slime & B                                           | Chris Brown, Young Thug                                  | [Chris Brown Entertainment/300 Entertainment/RCA Records](rca_records_label.md) |     | [🔗](https://open.spotify.com/track/1rJUbH0v2E8t1GY4OAUTeC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="" width="50" /> | City Girls                                            | Slime & B                                           | Chris Brown, Young Thug                                  | [Chris Brown Entertainment/300 Entertainment/RCA Records](300_entertainment.md) |     | [🔗](https://open.spotify.com/track/1rJUbH0v2E8t1GY4OAUTeC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d74f4550a6e409bf51652db7" alt="" width="50" /> | Candyman                                              | Back To Basics                                      | Christina Aguilera                                       | [RCA Records Label](rca_records_label.md)                                       | 💚   | [🔗](https://open.spotify.com/track/5lUTzPuiloBHm1qEaJcJfF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a0dbab021f379ba34283a4ed" alt="" width="50" /> | No Tears Left to Cry                                  | No Tears Left to Cry                                | Citizen Queen                                            | [Citizen Queen/RCA Records](rca_records_label.md)                               |     | [🔗](https://open.spotify.com/track/6SgkZROgo3xuatvg1zU8AZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731dd365a8240e6a0c0294f764" alt="" width="50" /> | Lost in Japan                                         | Lost in Japan                                       | Citizen Queen                                            | [Citizen Queen/RCA Records](rca_records_label.md)                               |     | [🔗](https://open.spotify.com/track/14ruMnm89Giao1vbFs7Bux) |
@@ -179,7 +181,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" alt="" width="50" /> | Woman                                                 | Planet Her                                          | Doja Cat                                                 | [Kemosabe Records/RCA Records](kemosabe_records.md)                             |     | [🔗](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f96cefb0197694ad440c3314" alt="" width="50" /> | Can't Help Falling in Love                            | Blue Hawaii                                         | Elvis Presley                                            | [RCA Records Label](rca_records_label.md), [Legacy](legacy.md)                  |     | [🔗](https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27398acfa8c055deedc25e6081d" alt="" width="50" /> | Me, Myself & I                                        | When It's Dark Out                                  | G-Eazy, Bebe Rexha                                       | [BPG/RVG/RCA Records](rvg.md)                                                   |     | [🔗](https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f89d2d949f9671982e9e732c" alt="" width="50" /> | still feel.                                           | Now, Not Yet                                        | half•alive                                               | [half·alive/RCA Records](rca_records_label.md)                                  | 💚   | [🔗](https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f89d2d949f9671982e9e732c" alt="" width="50" /> | still feel.                                           | Now, Not Yet                                        | half•alive                                               | [half·alive/RCA Records](half_alive.md)                                         | 💚   | [🔗](https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="" width="50" /> | Aha!                                                  | Ellipse                                             | Imogen Heap                                              | [RCA Records Label](rca_records_label.md)                                       | 💚   | [🔗](https://open.spotify.com/track/42itRd5WoYb42RSYOloJvD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="" width="50" /> | Earth                                                 | Ellipse                                             | Imogen Heap                                              | [RCA Records Label](rca_records_label.md)                                       | 💚   | [🔗](https://open.spotify.com/track/4zXgNwVhtfDrPLjKs52msC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="" width="50" /> | First Train Home                                      | Ellipse                                             | Imogen Heap                                              | [RCA Records Label](rca_records_label.md)                                       |     | [🔗](https://open.spotify.com/track/504gJcwsW5n0s3Zj5uAedr) |
@@ -238,6 +240,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273754b2fddebe7039fdb912837" alt="" width="50" /> | Bird Set Free                                         | This Is Acting (Deluxe Version)                     | Sia                                                      | [Monkey Puzzle Records/RCA Records](rca_records_label.md)                       | 💚   | [🔗](https://open.spotify.com/track/6MowG7MRVgPfGlCMsXKMJ2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273754b2fddebe7039fdb912837" alt="" width="50" /> | Cheap Thrills                                         | This Is Acting (Deluxe Version)                     | Sia                                                      | [Monkey Puzzle Records/RCA Records](rca_records_label.md)                       | 💚   | [🔗](https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273754b2fddebe7039fdb912837" alt="" width="50" /> | Cheap Thrills (feat. Sean Paul)                       | This Is Acting (Deluxe Version)                     | Sia, Sean Paul                                           | [Monkey Puzzle Records/RCA Records](rca_records_label.md)                       | 💚   | [🔗](https://open.spotify.com/track/2ONIJ40u0Attbm3miIIpNO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="" width="50" /> | Shirt                                                 | SOS                                                 | SZA                                                      | [Top Dawg Entertainment/RCA Records](top_dawg_entertainment.md)                 |     | [🔗](https://open.spotify.com/track/2wSTnntOPRi7aQneobFtU4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739df742dcaf9b79edad9009d0" alt="" width="50" /> | The Lion Sleeps Tonight (Wimoweh)                     | Wimoweh!!! - The Best Of The Tokens                 | The Tokens                                               | [RCA Records Label](rca_records_label.md)                                       |     | [🔗](https://open.spotify.com/track/2F4FNcz68howQWD4zaGJSi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d0837e34a3fcc57de9fc93d" alt="" width="50" /> | Say My Name                                           | Sway                                                | Tove Styrke                                              | [RCA Records Label](rca_records_label.md)                                       | 💚   | [🔗](https://open.spotify.com/track/2XDJzMW1MUWeAIQoMOJeUj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736e62a873c96524a3788a2edf" alt="" width="50" /> | I Don't Mind (feat. Juicy J)                          | I Don't Mind (feat. Juicy J)                        | Usher, Juicy J                                           | [RCA Records Label](rca_records_label.md)                                       | 💚   | [🔗](https://open.spotify.com/track/7aXuop4Qambx5Oi3ynsKQr) |

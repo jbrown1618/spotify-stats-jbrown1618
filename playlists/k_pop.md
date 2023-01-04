@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273f7da7c0f322b7a1c95190d92" alt="K-Pop" width="100" />
 
-[930 songs](k_pop_tracks.md)
+[932 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -53,6 +53,7 @@
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb758f3c632d4d726f1129d336" alt="" width="50" /> | TOMORROW X TOGETHER                                  | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5ebd90aa536055fe9806b3960e6" alt="" width="50" /> | GOT7                                                 | [🔗](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8786ccb6031a3266bb15606" alt="" width="50" /> | WJSN                                                 | [🔗](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) |
+|                  6 | <img src="https://i.scdn.co/image/ab6761610000e5ebfe8fbd794e1c35f9c0514541" alt="" width="50" /> | NewJeans                                             | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb80584436e5726afb70cee7f8" alt="" width="50" /> | LOONA                                                | [🔗](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5ebfb6c0b7b6918dca92be0ed75" alt="" width="50" /> | LE SSERAFIM                                          | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="" width="50" /> | EVERGLOW                                             | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
@@ -73,7 +74,6 @@
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb8e9d1c8642df6f869631fe62" alt="" width="50" /> | Crush                                                | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebff36ed787b017a7ff3c40a0e" alt="" width="50" /> | TAEYONG                                              | [🔗](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb5b1a291b0a6a689091d54d8b" alt="" width="50" /> | IVE                                                  | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
-|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebfe8fbd794e1c35f9c0514541" alt="" width="50" /> | NewJeans                                             | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273dd8c3b43984ed746176ac0cf" alt="" width="50" /> | PinkFantasy                                          | [🔗](https://open.spotify.com/artist/5syu5kN4a5f4rgMCRGlnZp) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eba6b0d348c125a072e5284b3e" alt="" width="50" /> | IZ*ONE                                               | [🔗](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0b4c8d0a415cab50e033129" alt="" width="50" /> | Solar                                                | [🔗](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) |
@@ -248,7 +248,7 @@
 |                206 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
 |                102 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 61 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
-|                 50 | [Genie Music Corporation](../labels/genie_music_corporation.md)                                                     |
+|                 52 | [Genie Music Corporation](../labels/genie_music_corporation.md)                                                     |
 |                 46 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                                                 |
 |                 36 | [BIGHIT MUSIC](../labels/bighit_music.md)                                                                           |
 |                 32 | [Interscope](../labels/interscope.md)                                                                               |
@@ -274,6 +274,7 @@
 |                  8 | [88rising Music](../labels/88rising_music.md)                                                                       |
 |                  7 | [EDAM Entertainment](../labels/edam_entertainment.md)                                                               |
 |                  6 | [Genie Music Corporation;Stone Music Entertainment](../labels/genie_music_corporation_stone_music_entertainment.md) |
+|                  6 | [ADOR](../labels/ador.md)                                                                                           |
 |                  5 | [avex trax](../labels/avex_trax.md)                                                                                 |
 |                  5 | [P NATION](../labels/p_nation.md)                                                                                   |
 |                  4 | [WM Japan](../labels/wm_japan.md)                                                                                   |
@@ -284,7 +285,6 @@
 |                  4 | [Fave Entertainment](../labels/fave_entertainment.md)                                                               |
 |                  4 | [BlockBerryCreative](../labels/blockberrycreative.md)                                                               |
 |                  4 | [Abyss Company](../labels/abyss_company.md)                                                                         |
-|                  4 | [ADOR](../labels/ador.md)                                                                                           |
 |                  4 | [2018 YG Entertainment](../labels/2018_yg_entertainment.md)                                                         |
 |                  3 | [마이돌엔터테인먼트](../labels/_________.md)                                                                                 |
 |                  3 | [TEAM WANG records](../labels/team_wang_records.md)                                                                 |
@@ -359,8 +359,8 @@
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
-|                779 | [k-pop](../genres/k_pop.md)                       |
-|                360 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+|                781 | [k-pop](../genres/k_pop.md)                       |
+|                362 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 |                221 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
 |                 53 | [pop](../genres/pop.md)                           |
 |                 28 | korean pop                                        |
@@ -405,16 +405,16 @@
 | Idle song                  | Epilogue                    |
 | RUN (HAN)                  | Like Water                  |
 | Jelly                      | Fine                        |
-| Weather                    | My sea                      |
-| Typa Girl                  | On The Ground               |
+| Typa Girl                  | My sea                      |
+| Weather                    | On The Ground               |
 | BOOM                       | Sweet                       |
-| Mr. Simple                 | U                           |
+| Tippy Toes                 | U                           |
 
 | 10 most Energetic tracks   | 10 least Energetic tracks                            |
 |:---------------------------|:-----------------------------------------------------|
 | RING X RING                | Rain and You                                         |
-| Misfit                     | Singularity                                          |
-| Hit That Drum              | Boy in time - HUI Solo                               |
+| Hit That Drum              | Singularity                                          |
+| Misfit                     | Boy in time - HUI Solo                               |
 | MIROH                      | BREATHE                                              |
 | Side Effects               | How can I love the heartbreak, you're the one I love |
 | 소방차 Fire Truck             | Stardust love song                                   |
@@ -430,9 +430,9 @@
 | MANIAC                        | Wicked                                     |
 | Freedom                       | Winter Sleep                               |
 | Free Fall                     | Rain and You                               |
-| I GOT IT (HAN)                | Moonlight Melody                           |
-| Ice Cream (with Selena Gomez) | She's In The Rain                          |
-| Feelin' Like                  | Slightly Tipsy (She is My Type♡ X SANDEUL) |
+| Ice Cream (with Selena Gomez) | Moonlight Melody                           |
+| I GOT IT (HAN)                | Slightly Tipsy (She is My Type♡ X SANDEUL) |
+| Feelin' Like                  | She′s In The Rain                          |
 | Signal                        | Sweet Night                                |
 | BBIBBI                        | With                                       |
 
@@ -445,8 +445,8 @@
 | Deep end (Felix)                                     | Oh Sorry Ya                |
 | Boy in time - HUI Solo                               | Cyberpunk                  |
 | Run With Me                                          | Tamed-Dashed               |
-| Goodbye                                              | Mr. Simple                 |
-| Amusement Park                                       | Easy                       |
+| Goodbye                                              | Easy                       |
+| Amusement Park                                       | Mr. Simple                 |
 | U                                                    | Poison                     |
 
 | 10 most Instrumental tracks      | 10 least Instrumental tracks   |
@@ -460,7 +460,7 @@
 | It′s Raining                     | Jazz Bar                       |
 | So Hot                           | L.I.E                          |
 | GingaMingaYo (the strange world) | I GOT IT (HAN)                 |
-| I Am The Best                    | 우리집 My House                   |
+| I Am The Best                    | DDD                            |
 
 | 10 most Live tracks            | 10 least Live tracks                  |
 |:-------------------------------|:--------------------------------------|
@@ -477,13 +477,13 @@
 
 | 10 most Happy tracks   | 10 least Happy tracks     |
 |:-----------------------|:--------------------------|
-| Sour candy             | Sweet Night               |
+| Sour candy             | Stardust love song        |
 | Devil                  | Lucid Dream               |
 | Twenty-three           | U                         |
 | Pepe                   | Time After Time           |
-| Miniskirt              | My sea                    |
-| So Hot                 | Side Effects              |
-| 쏘리 쏘리 Sorry, Sorry     | Good Night My Princess    |
-| Twinkle                | 7월 7일 One Of These Nights |
-| Lion Heart             | Grey Suit                 |
-| Give it to me          | The Road                  |
+| So Hot                 | My sea                    |
+| Miniskirt              | Side Effects              |
+| Twinkle                | Good Night My Princess    |
+| 쏘리 쏘리 Sorry, Sorry     | 7월 7일 One Of These Nights |
+| Give it to me          | Grey Suit                 |
+| Lion Heart             | The Road                  |

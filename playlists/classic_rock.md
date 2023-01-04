@@ -182,7 +182,7 @@
 |                 33 | beatlesque                                          |
 |                 32 | hard rock                                           |
 |                 31 | merseybeat                                          |
-|                 23 | [soft rock](../genres/soft_rock.md)                 |
+|                 25 | [soft rock](../genres/soft_rock.md)                 |
 |                 23 | [mellow gold](../genres/mellow_gold.md)             |
 |                 14 | glam rock                                           |
 |                 10 | art rock                                            |

@@ -310,7 +310,7 @@
 |                 23 | [rock](../genres/rock.md)                           |
 |                 23 | indie pop                                           |
 |                 20 | modern rock                                         |
-|                 20 | [dance pop](../genres/dance_pop.md)                 |
+|                 19 | [dance pop](../genres/dance_pop.md)                 |
 |                 19 | [art pop](../genres/art_pop.md)                     |
 |                 17 | [electropop](../genres/electropop.md)               |
 |                 17 | baroque pop                                         |

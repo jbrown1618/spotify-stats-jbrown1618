@@ -1,6 +1,6 @@
 # k-pop boy group
 
-[229 songs](k_pop_boy_group_tracks.md)
+[230 songs](k_pop_boy_group_tracks.md)
 
 ## Top Artists
 
@@ -14,7 +14,7 @@
 
 |   Number of Tracks | Art                                                                                              | Artist                                 | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:------------------------------------------------------------|
-|                 45 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
+|                 46 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 |                 30 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)               | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 |                 22 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)       | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 |                 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="" width="50" /> | [SEVENTEEN](../artists/seventeen.md)   | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
@@ -69,9 +69,9 @@
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------|:-----------------------------------------------------------|
 |                 13 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | SKZ-REPLAY                                         | [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) |
 |                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | NOEASY                                             | [🔗](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | ODDINARY                                           | [🔗](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="" width="50" /> | DIMENSION : DILEMMA                                | [🔗](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273decd839dd4fef3faf64c5fd5" alt="" width="50" /> | SEVENTEEN 4th Album 'Face the Sun'                 | [🔗](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | ODDINARY                                           | [🔗](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | MAXIDENT                                           | [🔗](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" alt="" width="50" /> | MANIFESTO : DAY 1                                  | [🔗](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | Love Yourself 轉 'Tear'                             | [🔗](https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O) |
@@ -182,17 +182,17 @@
 |   Number of Tracks | Label                                                               |
 |-------------------:|:--------------------------------------------------------------------|
 |                 52 | [SM Entertainment](../labels/sm_entertainment.md)                   |
-|                 50 | [Republic Records](../labels/republic_records.md)                   |
+|                 51 | [Republic Records](../labels/republic_records.md)                   |
 |                 29 | [BIGHIT MUSIC](../labels/bighit_music.md)                           |
 |                 20 | [BELIFT LAB](../labels/belift_lab.md)                               |
 |                 16 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)           |
 |                 11 | [HYBE](../labels/hybe.md)                                           |
 |                  8 | [YG Entertainment](../labels/yg_entertainment.md)                   |
 |                  8 | [KQ Entertainment](../labels/kq_entertainment.md)                   |
+|                  8 | [Genie Music Corporation](../labels/genie_music_corporation.md)     |
 |                  7 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
 |                  6 | [Universal Music LLC](../labels/universal_music_llc.md)             |
 |                  6 | [JYP Entertainment](../labels/jyp_entertainment.md)                 |
-|                  6 | [Genie Music Corporation](../labels/genie_music_corporation.md)     |
 |                  5 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)               |
 |                  3 | [WM Korea](../labels/wm_korea.md)                                   |
 |                  3 | [FNC ENTERTAINMENT](../labels/fnc_entertainment.md)                 |
@@ -246,13 +246,13 @@
 | MANIAC                            | Airplane pt.2                  |
 | I GOT IT (HAN)                    | Sorry                          |
 | Feelin' Like                      | The Eve                        |
-| Tap Tap                           | Lie                            |
-| 3RACHA (Bang Chan, Changbin, HAN) | Stars and Raindrops (Seungmin) |
-| Sparkling Night                   | Don't Wanna Cry                |
-| Cherry Bomb                       | Drive (Bang Chan, Lee Know)    |
-| Sticker                           | LOVE SCENARIO                  |
-| Back Door                         | NANANA                         |
-| Outsider                          | She's In The Rain              |
+| VENOM                             | Lie                            |
+| Tap Tap                           | Stars and Raindrops (Seungmin) |
+| 3RACHA (Bang Chan, Changbin, HAN) | Don't Wanna Cry                |
+| Sparkling Night                   | Drive (Bang Chan, Lee Know)    |
+| Cherry Bomb                       | LOVE SCENARIO                  |
+| Sticker                           | NANANA                         |
+| Back Door                         | She′s In The Rain              |
 
 | 10 most Acoustic tracks     | 10 least Acoustic tracks   |
 |:----------------------------|:---------------------------|
@@ -264,8 +264,8 @@
 | RUN (HAN)                   | Attention, please!         |
 | Missing You                 | Cyberpunk                  |
 | Singularity                 | Tamed-Dashed               |
-| Back 2 U (AM 01:27)         | Mr. Simple                 |
-| Sorry                       | Easy                       |
+| Back 2 U (AM 01:27)         | Easy                       |
+| Sorry                       | Mr. Simple                 |
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks                 |
 |:------------------------------|:---------------------------------------------|
@@ -278,7 +278,7 @@
 | Airplane pt.2                 | Love is New Gravity                          |
 | Sour                          | WONDERLAND                                   |
 | Doom Du Doom                  | HALA HALA (Hearts Awakened, Live Alive)      |
-| Ko Ko Bop                     | TFW (That Feeling When)                      |
+| Ko Ko Bop                     | ParadoXXX Invasion                           |
 
 | 10 most Live tracks             | 10 least Live tracks       |
 |:--------------------------------|:---------------------------|

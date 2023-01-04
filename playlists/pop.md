@@ -426,7 +426,6 @@
 |                  2 | irish singer-songwriter                         |
 |                  2 | indy indie                                      |
 |                  2 | indiecoustica                                   |
-|                  2 | indie pop                                       |
 |                  2 | gauze pop                                       |
 |                  2 | filter house                                    |
 |                  2 | electro                                         |
@@ -459,6 +458,7 @@
 |                  1 | modern indie pop                                |
 |                  1 | lafayette indie                                 |
 |                  1 | la indie                                        |
+|                  1 | italian pop                                     |
 
 </details>
 

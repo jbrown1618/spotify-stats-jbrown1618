@@ -1,6 +1,6 @@
 # k-pop girl group
 
-[379 songs](k_pop_girl_group_tracks.md)
+[382 songs](k_pop_girl_group_tracks.md)
 
 ## Top Artists
 
@@ -26,6 +26,7 @@
 |                 12 | <img src="https://i.scdn.co/image/ab6761610000e5eb45b2ff69ae6a3caccb776cfa" alt="" width="50" /> | [STAYC](../artists/stayc.md)                         | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | CLC                                                  | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8786ccb6031a3266bb15606" alt="" width="50" /> | WJSN                                                 | [🔗](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) |
+|                  6 | <img src="https://i.scdn.co/image/ab6761610000e5ebfe8fbd794e1c35f9c0514541" alt="" width="50" /> | NewJeans                                             | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb80584436e5726afb70cee7f8" alt="" width="50" /> | LOONA                                                | [🔗](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="" width="50" /> | EVERGLOW                                             | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb9954a1ab45b2404a7bff2a45" alt="" width="50" /> | OH MY GIRL                                           | [🔗](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) |
@@ -34,12 +35,11 @@
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b27336adcea4e93245f1fec547df" alt="" width="50" /> | AOA                                                  | [🔗](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc1dc943555dfa1ee2a107e5" alt="" width="50" /> | K/DA                                                 | [🔗](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d998e7541724c918777b8ca" alt="" width="50" /> | League of Legends                                    | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
+|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0cc2045ff4e90d12df91cc3" alt="" width="50" /> | f(x)                                                 | [🔗](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb95f4928ac77d31b53626dab3" alt="" width="50" /> | PIXY                                                 | [🔗](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb5b1a291b0a6a689091d54d8b" alt="" width="50" /> | IVE                                                  | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
-|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebfe8fbd794e1c35f9c0514541" alt="" width="50" /> | NewJeans                                             | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273dd8c3b43984ed746176ac0cf" alt="" width="50" /> | PinkFantasy                                          | [🔗](https://open.spotify.com/artist/5syu5kN4a5f4rgMCRGlnZp) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eba6b0d348c125a072e5284b3e" alt="" width="50" /> | IZ*ONE                                               | [🔗](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) |
-|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0cc2045ff4e90d12df91cc3" alt="" width="50" /> | f(x)                                                 | [🔗](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | SISTAR                                               | [🔗](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb3202449ae19d68607e3f1530" alt="" width="50" /> | NMIXX                                                | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb30a517d1b703c3eabdac2855" alt="" width="50" /> | Wonder Girls                                         | [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) |
@@ -144,6 +144,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a6ea41f7103f07588c18bbdb" alt="" width="50" /> | Pink Funky                                  | [🔗](https://open.spotify.com/album/5Fy5PyBWqMNK7xvXO9Q32f) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27348a03c11c71a265006e1b9e3" alt="" width="50" /> | One-reeler / Act IV                         | [🔗](https://open.spotify.com/album/3gfl9D7cMW3K87YiMbqsWK) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273ea82cfc115275d25d9750ae1" alt="" width="50" /> | No.1                                        | [🔗](https://open.spotify.com/album/6xSUUpa9LBZYwJFMJOr8M6) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01" alt="" width="50" /> | NewJeans 'OMG'                              | [🔗](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734957fced6061ee536ca618ab" alt="" width="50" /> | NONSTOP                                     | [🔗](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27338fc902e1d368df7fc0d77a3" alt="" width="50" /> | Melting                                     | [🔗](https://open.spotify.com/album/11hjJntrvmauDoga4Krr0U) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27322f0e32bfb91476f0ad96656" alt="" width="50" /> | MIC ON                                      | [🔗](https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ) |
@@ -189,7 +190,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736f2d10189a41c7345a5a0337" alt="" width="50" /> | To Anyone                                   | [🔗](https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734802244fa0cf6d33eda5e748" alt="" width="50" /> | The Wonder Years - Trilogy                  | [🔗](https://open.spotify.com/album/61KwS8kiAywHkZ7gp4asTE) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27381fb7e4e392f0a99b3947eb6" alt="" width="50" /> | The Velvet - The 2nd Mini Album             | [🔗](https://open.spotify.com/album/2qgl7dAgslqL1w2l2wQhMA) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ce17f432c79c5e45ce88688f" alt="" width="50" /> | The Story Begins                            | [🔗](https://open.spotify.com/album/72WWZVAx6GtSbEeGESwDLo) |
 
 </details>
 
@@ -204,7 +204,7 @@
 
 |   Number of Tracks | Label                                                                                                               |
 |-------------------:|:--------------------------------------------------------------------------------------------------------------------|
-|                 81 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
+|                 82 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
 |                 63 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 25 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
 |                 24 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                                                               |
@@ -219,12 +219,12 @@
 |                  8 | [DREAMCATCHER COMPANY](../labels/dreamcatcher_company.md)                                                           |
 |                  7 | [WM Entertainment](../labels/wm_entertainment.md)                                                                   |
 |                  6 | [FNC ENTERTAINMENT](../labels/fnc_entertainment.md)                                                                 |
+|                  6 | [ADOR](../labels/ador.md)                                                                                           |
 |                  5 | [Warner Records](../labels/warner_records.md)                                                                       |
 |                  5 | [Riot Games](../labels/riot_games.md)                                                                               |
 |                  4 | [avex trax](../labels/avex_trax.md)                                                                                 |
 |                  4 | [WM Japan](../labels/wm_japan.md)                                                                                   |
 |                  4 | [BlockBerryCreative](../labels/blockberrycreative.md)                                                               |
-|                  4 | [ADOR](../labels/ador.md)                                                                                           |
 |                  4 | [2018 YG Entertainment](../labels/2018_yg_entertainment.md)                                                         |
 |                  3 | [해피트라이브엔터테인먼트](../labels/____________.md)                                                                           |
 |                  3 | [올라트엔터테인먼트](../labels/_________.md)                                                                                 |
@@ -308,8 +308,8 @@
 | Signal                        | In My Dreams              |
 | You Better Run                | LOVE FOOL                 |
 | Girls                         | YOUNG LUV                 |
-| Be Natural                    | Hope Not                  |
-| Love So Sweet                 | Gee                       |
+| Be Natural                    | Gee                       |
+| Love So Sweet                 | Hope Not                  |
 | O.O                           | Moonlight Melody          |
 
 | 10 most Acoustic tracks   | 10 least Acoustic tracks   |
@@ -320,23 +320,23 @@
 | Hurt                      | 달라달라 (DALLA DALLA)         |
 | Jazz Bar                  | LA DI DA                   |
 | ZOOM                      | DALLA DALLA - English Ver. |
-| Wind flower               | RUN2U                      |
-| Starry Night              | Adios                      |
+| Starry Night              | RUN2U                      |
+| Wind flower               | Adios                      |
 | Moonlight Melody          | Red Light                  |
 | The Happiest Girl         | Poison                     |
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| You and I (Park Bom)          | Umpah Umpah                    |
-| Adios                         | Be Natural                     |
-| YEPPI YEPPI                   | #Cookie Jar                    |
-| So Hot                        | Rookie                         |
-| I Am The Best                 | Bewitched - Eng Ver.           |
-| Power Up                      | WILDSIDE                       |
-| BBoom BBoom                   | Marionette                     |
-| In My Dreams                  | Villain                        |
-| BAAM                          | SO BAD                         |
-| Star                          | HANN (Alone in winter)         |
+| You and I (Park Bom)          | Ice Cream Cake                 |
+| Adios                         | Bad Boy                        |
+| YEPPI YEPPI                   | Red Flavor                     |
+| So Hot                        | You Better Know                |
+| I Am The Best                 | Umpah Umpah                    |
+| Power Up                      | Be Natural                     |
+| BBoom BBoom                   | #Cookie Jar                    |
+| In My Dreams                  | Rookie                         |
+| BAAM                          | 247                            |
+| Star                          | I'll Make You Cry              |
 
 | 10 most Live tracks   | 10 least Live tracks          |
 |:----------------------|:------------------------------|
@@ -353,13 +353,13 @@
 
 | 10 most Happy tracks    | 10 least Happy tracks     |
 |:------------------------|:--------------------------|
-| Pepe                    | HWAA                      |
-| So Hot                  | 4 Walls                   |
+| Pepe                    | 4 Walls                   |
 | Miniskirt               | MORE                      |
-| Twinkle                 | POSE                      |
-| Lion Heart              | LION                      |
-| Give it to me           | Hope Not                  |
-| 러시안 룰렛 Russian Roulette | In My Dreams              |
+| So Hot                  | POSE                      |
+| Twinkle                 | LION                      |
+| Give it to me           | Ditto                     |
+| Lion Heart              | In My Dreams              |
+| 러시안 룰렛 Russian Roulette | Hope Not                  |
 | Nobody                  | Body Talk                 |
 | Really                  | Lucid Dream               |
 | Devil                   | 7월 7일 One Of These Nights |

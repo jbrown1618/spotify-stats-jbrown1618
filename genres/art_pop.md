@@ -1,16 +1,16 @@
 # art pop
 
-[46 songs](art_pop_tracks.md)
+[47 songs](art_pop_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 15 artists](../images/genres/art_pop/artists.png)
+![Bar chart of top 16 artists](../images/genres/art_pop/artists.png)
 
 ![Comparison of Artist](../images/genres/art_pop/artists_comparison.png)
 
 
 <details>
-<summary>See all 15 artists</summary>
+<summary>See all 16 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                       | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------|:------------------------------------------------------------|
@@ -24,6 +24,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb676338904deb80cffb568216" alt="" width="50" /> | [Beyoncé](../artists/beyonc_.md)             | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb31072db9da0311ecfabe96bf" alt="" width="50" /> | Khalid                                       | [🔗](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../artists/ariana_grande.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd06f948216f34ea0298aef43" alt="" width="50" /> | Caroline Polachek                            | [🔗](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)         | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf178cbda9bd9a389581ff021" alt="" width="50" /> | Fiona Apple                                  | [🔗](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba8b955d42229e4cbd03d4cd8" alt="" width="50" /> | VERNON                                       | [🔗](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) |
@@ -34,11 +35,11 @@
 
 ## Top Albums
 
-![Bar chart of top 26 albums](../images/genres/art_pop/albums.png)
+![Bar chart of top 27 albums](../images/genres/art_pop/albums.png)
 
 
 <details>
-<summary>See all 26 albums</summary>
+<summary>See all 27 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                                      | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -66,6 +67,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="" width="50" /> | Happier Than Ever                                                          | [🔗](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="" width="50" /> | CRASH                                                                      | [🔗](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd" alt="" width="50" /> | Born This Way                                                              | [🔗](https://open.spotify.com/album/2KkMVsxymoNR7hRmBcMttd) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731bf7d80f4a7bf4ed02da9fad" alt="" width="50" /> | Billions                                                                   | [🔗](https://open.spotify.com/album/4DpAPqdJ1jVhoWZrxWLRH5) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b0ed835957dbf3c63184a3bc" alt="" width="50" /> | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] | [🔗](https://open.spotify.com/album/6snPKZGUbpydW2XJu9ievq) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735f4269ee2c76394d8f3d1309" alt="" width="50" /> | 7G                                                                         | [🔗](https://open.spotify.com/album/16NHNs15w1bpkFiBOUgDaB) |
 
@@ -74,11 +76,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 12 record labels](../images/genres/art_pop/labels.png)
+![Bar chart of top 13 record labels](../images/genres/art_pop/labels.png)
 
 
 <details>
-<summary>See all 12 labels</summary>
+<summary>See all 13 labels</summary>
 
 |   Number of Tracks | Label                                                                                   |
 |-------------------:|:----------------------------------------------------------------------------------------|
@@ -88,6 +90,7 @@
 |                  2 | [A Star is Born OST](../labels/a_star_is_born_ost.md)                                   |
 |                  1 | [Work](../labels/work.md)                                                               |
 |                  1 | [Universal Music New Zealand Limited](../labels/universal_music_new_zealand_limited.md) |
+|                  1 | [Perpetual Novice](../labels/perpetual_novice.md)                                       |
 |                  1 | [PC Music](../labels/pc_music.md)                                                       |
 |                  1 | [Mockingjay](../labels/mockingjay.md)                                                   |
 |                  1 | [Hunger Games 3](../labels/hunger_games_3.md)                                           |
@@ -137,7 +140,7 @@
 | everything i wanted          | Bel Air                   |
 | when the party's over        | Swan Song                 |
 | Therefore I Am               | Good Ones                 |
-| Radio                        | Love                      |
+| Billions                     | Love                      |
 
 | 10 most Acoustic tracks   | 10 least Acoustic tracks        |
 |:--------------------------|:--------------------------------|
@@ -152,18 +155,18 @@
 | Video Games               | Telephone                       |
 | La Vie En Rose            | Bad Romance                     |
 
-| 10 most Instrumental tracks   | 10 least Instrumental tracks   |
-|:------------------------------|:-------------------------------|
-| everything i wanted           | Yoü And I                      |
-| Swan Song                     | Til It Happens To You          |
-| you should see me in a crown  | Summertime Sadness             |
-| bury a friend                 | Paparazzi                      |
-| Therefore I Am                | Shadowboxer                    |
-| bad guy                       | Dark Paradise                  |
-| Bel Air                       | Show Me What                   |
-| Norman fucking Rockwell       | lovely (with Khalid)           |
-| ocean eyes                    | Royals                         |
-| West Coast                    | Million Reasons                |
+| 10 most Instrumental tracks   | 10 least Instrumental tracks    |
+|:------------------------------|:--------------------------------|
+| everything i wanted           | Show Me What                    |
+| Swan Song                     | Summertime Sadness              |
+| you should see me in a crown  | La Vie En Rose                  |
+| bury a friend                 | Rain On Me (with Ariana Grande) |
+| Therefore I Am                | Dark Paradise                   |
+| bad guy                       | lovely (with Khalid)            |
+| Bel Air                       | Til It Happens To You           |
+| Norman fucking Rockwell       | Paparazzi                       |
+| ocean eyes                    | Royals                          |
+| West Coast                    | Shadowboxer                     |
 
 | 10 most Live tracks             | 10 least Live tracks                                                       |
 |:--------------------------------|:---------------------------------------------------------------------------|
@@ -172,11 +175,11 @@
 | Sour Candy (with BLACKPINK)     | Video Games                                                                |
 | Off To The Races                | Radio                                                                      |
 | Cherry                          | Bad Romance                                                                |
-| Rain On Me (with Ariana Grande) | ocean eyes                                                                 |
-| LoveGame                        | No Time To Die                                                             |
-| xanny                           | Good Ones                                                                  |
-| Swan Song                       | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] |
-| Shades Of Cool                  | Therefore I Am                                                             |
+| Billions                        | ocean eyes                                                                 |
+| Rain On Me (with Ariana Grande) | No Time To Die                                                             |
+| LoveGame                        | Good Ones                                                                  |
+| xanny                           | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] |
+| Swan Song                       | Therefore I Am                                                             |
 
 | 10 most Happy tracks                                                       | 10 least Happy tracks   |
 |:---------------------------------------------------------------------------|:------------------------|
