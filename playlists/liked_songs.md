@@ -98,7 +98,7 @@
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebfa980b99bc5f4d47b4253f82" alt="" width="50" /> | j-hope                                                         | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb288ac05481cedc5bddb5b11b" alt="" width="50" /> | Maroon 5                                                       | [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb5b1a291b0a6a689091d54d8b" alt="" width="50" /> | IVE                                                            | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
-|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebfe8fbd794e1c35f9c0514541" alt="" width="50" /> | NewJeans                                                       | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
+|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb6199c3c2f414880e2b9077a9" alt="" width="50" /> | NewJeans                                                       | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb767815f4876969e8f888f0db" alt="" width="50" /> | The Rose                                                       | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
 |                  4 | <img src="https://i.scdn.co/image/15b7ee7550ed4472700d573803ff90f2967f84d1" alt="" width="50" /> | A Fine Frenzy                                                  | [🔗](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0b4c8d0a415cab50e033129" alt="" width="50" /> | Solar                                                          | [🔗](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) |
@@ -372,8 +372,8 @@
 |                 40 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                 33 | [folk rock](../genres/folk_rock.md)                 |
 |                 33 | [electropop](../genres/electropop.md)               |
-|                 32 | [soft rock](../genres/soft_rock.md)                 |
 |                 32 | [art pop](../genres/art_pop.md)                     |
+|                 31 | [soft rock](../genres/soft_rock.md)                 |
 |                 30 | [psychedelic rock](../genres/psychedelic_rock.md)   |
 |                 30 | british invasion                                    |
 |                 29 | [singer-songwriter](../genres/singer_songwriter.md) |
@@ -397,12 +397,12 @@
 |                 15 | urban contemporary                                  |
 |                 15 | metropopolis                                        |
 |                 15 | k-rap                                               |
+|                 15 | indie pop                                           |
 |                 14 | uk alternative pop                                  |
-|                 14 | neo soul                                            |
 |                 14 | melancholia                                         |
-|                 14 | indie pop                                           |
 |                 14 | folk                                                |
 |                 14 | baroque pop                                         |
+|                 13 | neo soul                                            |
 |                 13 | glam rock                                           |
 |                 13 | canadian pop                                        |
 |                 12 | soul                                                |
@@ -412,9 +412,9 @@
 |                 11 | nz pop                                              |
 |                 11 | korean ost                                          |
 |                 11 | indie rock                                          |
+|                 10 | lounge                                              |
 |                 10 | alternative rock                                    |
 |                  9 | oxford indie                                        |
-|                  9 | lounge                                              |
 |                  8 | tropical house                                      |
 |                  8 | latin pop                                           |
 |                  8 | korean city pop                                     |

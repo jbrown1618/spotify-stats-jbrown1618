@@ -370,6 +370,7 @@
 |                  2 | celtic rock                                         |
 |                  2 | canadian indie                                      |
 |                  2 | alternative metal                                   |
+|                  2 | alternative dance                                   |
 |                  1 | visual kei                                          |
 |                  1 | viral pop                                           |
 |                  1 | uk contemporary r&b                                 |
@@ -405,7 +406,6 @@
 |                  1 | dutch pop                                           |
 |                  1 | downtempo                                           |
 |                  1 | danish pop                                          |
-|                  1 | cyberpunk                                           |
 
 </details>
 

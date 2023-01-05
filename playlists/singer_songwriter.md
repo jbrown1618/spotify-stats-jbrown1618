@@ -221,7 +221,7 @@
 |                 25 | [classic rock](../genres/classic_rock.md)           |
 |                 24 | [rock](../genres/rock.md)                           |
 |                 18 | [art pop](../genres/art_pop.md)                     |
-|                 14 | indie pop                                           |
+|                 15 | indie pop                                           |
 |                 12 | folk                                                |
 |                  9 | nz pop                                              |
 |                  9 | [electropop](../genres/electropop.md)               |
@@ -233,7 +233,6 @@
 |                  6 | glam rock                                           |
 |                  5 | deep indie singer-songwriter                        |
 |                  3 | viral pop                                           |
-|                  2 | neo soul                                            |
 |                  2 | indy indie                                          |
 |                  2 | indiecoustica                                       |
 |                  2 | chamber pop                                         |
@@ -245,6 +244,7 @@
 |                  1 | pop soul                                            |
 |                  1 | permanent wave                                      |
 |                  1 | new americana                                       |
+|                  1 | neo soul                                            |
 |                  1 | modern folk rock                                    |
 |                  1 | irish pop                                           |
 |                  1 | indie soul                                          |
