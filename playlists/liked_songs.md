@@ -356,16 +356,16 @@
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
-|                592 | [k-pop](../genres/k_pop.md)                         |
+|                591 | [k-pop](../genres/k_pop.md)                         |
 |                346 | [pop](../genres/pop.md)                             |
 |                287 | [k-pop girl group](../genres/k_pop_girl_group.md)   |
 |                162 | [dance pop](../genres/dance_pop.md)                 |
 |                158 | [k-pop boy group](../genres/k_pop_boy_group.md)     |
 |                100 | [rock](../genres/rock.md)                           |
 |                 78 | [classic rock](../genres/classic_rock.md)           |
-|                 60 | [lilith](../genres/lilith.md)                       |
+|                 59 | [lilith](../genres/lilith.md)                       |
 |                 58 | [neo mellow](../genres/neo_mellow.md)               |
-|                 57 | [acoustic pop](../genres/acoustic_pop.md)           |
+|                 56 | [acoustic pop](../genres/acoustic_pop.md)           |
 |                 55 | [pop rock](../genres/pop_rock.md)                   |
 |                 44 | [hollywood](../genres/hollywood.md)                 |
 |                 42 | [mellow gold](../genres/mellow_gold.md)             |
@@ -383,6 +383,7 @@
 |                 22 | merseybeat                                          |
 |                 22 | korean r&b                                          |
 |                 21 | [r&b](../genres/r_b.md)                             |
+|                 21 | pop rap                                             |
 |                 20 | modern rock                                         |
 |                 20 | anime                                               |
 |                 19 | permanent wave                                      |
@@ -394,15 +395,14 @@
 |                 18 | [a cappella](../genres/a_cappella.md)               |
 |                 17 | indie pop                                           |
 |                 16 | uk pop                                              |
-|                 16 | pop rap                                             |
 |                 15 | urban contemporary                                  |
+|                 15 | neo soul                                            |
 |                 15 | metropopolis                                        |
 |                 15 | k-rap                                               |
 |                 14 | uk alternative pop                                  |
 |                 14 | melancholia                                         |
 |                 14 | folk                                                |
 |                 14 | baroque pop                                         |
-|                 13 | neo soul                                            |
 |                 13 | glam rock                                           |
 |                 13 | canadian pop                                        |
 |                 12 | soul                                                |
@@ -412,9 +412,9 @@
 |                 11 | nz pop                                              |
 |                 11 | korean ost                                          |
 |                 11 | indie rock                                          |
-|                 10 | lounge                                              |
 |                 10 | alternative rock                                    |
 |                  9 | oxford indie                                        |
+|                  9 | lounge                                              |
 |                  9 | escape room                                         |
 |                  8 | tropical house                                      |
 |                  8 | latin pop                                           |

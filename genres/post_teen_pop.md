@@ -1,6 +1,6 @@
 # post-teen pop
 
-[55 songs](post_teen_pop_tracks.md)
+[60 songs](post_teen_pop_tracks.md)
 
 ## Top Artists
 
@@ -10,13 +10,14 @@
 
 
 <details>
-<summary>See all 59 artists</summary>
+<summary>See all 60 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                       | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------|:------------------------------------------------------------|
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | Camila Cabello                               | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb654972693e0efed3f3f4d090" alt="" width="50" /> | Jason Derulo                                 | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410" alt="" width="50" /> | Clean Bandit                                 | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
+|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb586b55e89ac8b2b492f5490c" alt="" width="50" /> | Citizen Queen                                | [🔗](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebabfac786f093c4da55c99d4e" alt="" width="50" /> | Bebe Rexha                                   | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb6659b1cb61936bd7bcb229a2" alt="" width="50" /> | Demi Lovato                                  | [🔗](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | Jessie J                                     | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
@@ -82,7 +83,7 @@
 
 
 <details>
-<summary>See all 48 albums</summary>
+<summary>See all 53 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                                      | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -93,6 +94,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e" alt="" width="50" /> | Talk Dirty                                                                 | [🔗](https://open.spotify.com/album/4PeZu0It7qVrTG40t3HM9A) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Romance                                                                    | [🔗](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27326a2f5224465a369f8abbf88" alt="" width="50" /> | lovestrong.                                                                | [🔗](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fec526f773b919f6ec2e1127" alt="" width="50" /> | bad guy                                                                    | [🔗](https://open.spotify.com/album/1phloQZ7zGTlsfQVUBiTbK) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27341aa6776dc15fbd71a2b4557" alt="" width="50" /> | Youngblood (Deluxe)                                                        | [🔗](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739c291af4bf0c3071847f2b80" alt="" width="50" /> | Under My Skin                                                              | [🔗](https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733ec9036a9f7289e924194bec" alt="" width="50" /> | Tick Tock (feat. 24kGoldn)                                                 | [🔗](https://open.spotify.com/album/3tuAs968COA2vxKjiLvmxr) |
@@ -100,13 +102,17 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d6522bee68370fa5592301d" alt="" width="50" /> | Swalla (feat. Nicki Minaj & Ty Dolla $ign)                                 | [🔗](https://open.spotify.com/album/2e5CxfyEwBW115beiwh7Mc) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27367eda217860e86c43481a5cb" alt="" width="50" /> | Solo (feat. Demi Lovato)                                                   | [🔗](https://open.spotify.com/album/1q7a5wZeti0neU2jDn8Dz3) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732bba357383c6f9dbb5112392" alt="" width="50" /> | Slide Away                                                                 | [🔗](https://open.spotify.com/album/0SHGFAL8WZUvpWb5iLPp6E) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27348c7740526dec326d08b28d8" alt="" width="50" /> | Señorita                                                                   | [🔗](https://open.spotify.com/album/40wlfdkpATRjUMtrlt6BFb) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b3d3d1ba43e085f5ab80e56a" alt="" width="50" /> | Salute (Expanded Edition)                                                  | [🔗](https://open.spotify.com/album/4cH9WxyfNWlfR257RitWBt) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e6f5ed9a9059f686965ba90a" alt="" width="50" /> | Revival (Deluxe)                                                           | [🔗](https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735bdd9e580fdda5e676a25e6a" alt="" width="50" /> | Reflection (Deluxe)                                                        | [🔗](https://open.spotify.com/album/0zAsh6hObeNmFgFPrUiFcP) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27306b7221a0ecc0dd36f4f8f18" alt="" width="50" /> | React                                                                      | [🔗](https://open.spotify.com/album/0Dg7mV6QrpSw8b3o45bNkq) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a0dbab021f379ba34283a4ed" alt="" width="50" /> | No Tears Left to Cry                                                       | [🔗](https://open.spotify.com/album/2f47uqbseyM4AGSCiIQaw2) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e2a93f34e3c52c12f2a5578f" alt="" width="50" /> | New Eyes                                                                   | [🔗](https://open.spotify.com/album/4a6DxkhmMvvEdPXxm4ergN) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739c5f8c31793f6cf28146004b" alt="" width="50" /> | Never Enough                                                               | [🔗](https://open.spotify.com/album/0c9cgQqbVL9QVvwbA6faAB) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | My Everything (Deluxe)                                                     | [🔗](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734f89844c76d620ff098ef5c6" alt="" width="50" /> | Low Key (feat. Tyga)                                                       | [🔗](https://open.spotify.com/album/5Wba3IvT61Jz2kZDVKbrxH) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731dd365a8240e6a0c0294f764" alt="" width="50" /> | Lost in Japan                                                              | [🔗](https://open.spotify.com/album/1Zs8K8co0WkLKaQ4NxduR5) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="" width="50" /> | Let The Road                                                               | [🔗](https://open.spotify.com/album/02ae5i5UAoFrt2peVox9Xd) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a111f7769013f1731e9c697c" alt="" width="50" /> | Kiss (Deluxe)                                                              | [🔗](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273260e2444b3431b3b8b559bc3" alt="" width="50" /> | Jordin Sparks                                                              | [🔗](https://open.spotify.com/album/6JCNOvp9UeMrFuXwNW0JW6) |
@@ -144,14 +150,15 @@
 
 
 <details>
-<summary>See all 34 labels</summary>
+<summary>See all 35 labels</summary>
 
 |   Number of Tracks | Label                                                             |
 |-------------------:|:------------------------------------------------------------------|
+|                 11 | [RCA Records Label](../labels/rca_records_label.md)               |
 |                  9 | [Syco Music](../labels/syco_music.md)                             |
 |                  8 | [Warner Records](../labels/warner_records.md)                     |
 |                  8 | [Epic](../labels/epic.md)                                         |
-|                  6 | [RCA Records Label](../labels/rca_records_label.md)               |
+|                  5 | [Citizen Queen](../labels/citizen_queen.md)                       |
 |                  5 | [Beluga Heights](../labels/beluga_heights.md)                     |
 |                  5 | [Atlantic Records UK](../labels/atlantic_records_uk.md)           |
 |                  4 | [Atlantic Records](../labels/atlantic_records.md)                 |
@@ -190,86 +197,86 @@
 
 | 10 most Danceable tracks                            | 10 least Danceable tracks                             |
 |:----------------------------------------------------|:------------------------------------------------------|
-| Sally Walker                                        | Who You Are                                           |
-| Coño                                                | Slide Away                                            |
-| Worth It (feat. Kid Ink)                            | Wrecking Ball                                         |
-| Bubblegum (feat. Tyga)                              | Heart Attack                                          |
-| Sucker                                              | Consequences                                          |
-| Rather Be (feat. Jess Glynne)                       | Stone Cold                                            |
-| Low Key (feat. Tyga)                                | My Happy Ending                                       |
-| Call Me Maybe                                       | Jar of Hearts                                         |
-| Tick Tock (feat. 24kGoldn)                          | I See the Light - From "Tangled" / Soundtrack Version |
-| Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) | Already Gone                                          |
+| Sally Walker                                        | Slide Away                                            |
+| Coño                                                | Heart Attack                                          |
+| Worth It (feat. Kid Ink)                            | Lost in Japan                                         |
+| Bubblegum (feat. Tyga)                              | Consequences                                          |
+| Sucker                                              | Stone Cold                                            |
+| Rather Be (feat. Jess Glynne)                       | My Happy Ending                                       |
+| Low Key (feat. Tyga)                                | Jar of Hearts                                         |
+| Call Me Maybe                                       | I See the Light - From "Tangled" / Soundtrack Version |
+| Tick Tock (feat. 24kGoldn)                          | Already Gone                                          |
+| Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) | Never Enough                                          |
 
 | 10 most Energetic tracks                            | 10 least Energetic tracks                                                                                          |
 |:----------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------|
-| My Happy Ending                                     | Sally Walker                                                                                                       |
-| Don't Call Me Up                                    | My Oh My (feat. DaBaby)                                                                                            |
-| Good Girls Go Bad (feat. Leighton Meester)          | Stone Cold                                                                                                         |
-| Already Gone                                        | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" |
-| Baby, I'm Jealous (feat. Doja Cat)                  | Slow Hands                                                                                                         |
-| Break My Heart Myself (feat. Travis Barker)         | Wrecking Ball                                                                                                      |
-| Youngblood                                          | When Will My Life Begin? - From "Tangled" / Soundtrack Version                                                     |
-| That's My Girl                                      | Jar of Hearts                                                                                                      |
-| Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) | Consequences                                                                                                       |
-| TiK ToK                                             | I See the Light - From "Tangled" / Soundtrack Version                                                              |
+| My Happy Ending                                     | Stone Cold                                                                                                         |
+| No Tears Left to Cry                                | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" |
+| Don't Call Me Up                                    | Slow Hands                                                                                                         |
+| Good Girls Go Bad (feat. Leighton Meester)          | Wrecking Ball                                                                                                      |
+| Already Gone                                        | When Will My Life Begin? - From "Tangled" / Soundtrack Version                                                     |
+| Baby, I'm Jealous (feat. Doja Cat)                  | Never Enough                                                                                                       |
+| Break My Heart Myself (feat. Travis Barker)         | Jar of Hearts                                                                                                      |
+| Youngblood                                          | bad guy                                                                                                            |
+| That's My Girl                                      | Consequences                                                                                                       |
+| Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) | I See the Light - From "Tangled" / Soundtrack Version                                                              |
 
 | 10 most Speechy tracks      | 10 least Speechy tracks                                        |
 |:----------------------------|:---------------------------------------------------------------|
 | Youngblood                  | Who You Are                                                    |
-| Bubblegum (feat. Tyga)      | Slide Away                                                     |
-| Trumpets                    | When Will My Life Begin? - From "Tangled" / Soundtrack Version |
-| Talk Dirty (feat. 2 Chainz) | Jar of Hearts                                                  |
-| Candyman                    | Because of You                                                 |
-| Price Tag                   | I See the Light - From "Tangled" / Soundtrack Version          |
-| Coño                        | Havana (feat. Young Thug)                                      |
-| Don't Call Me Up            | My Oh My (feat. DaBaby)                                        |
-| TiK ToK                     | Good Ones                                                      |
-| That's My Girl              | One Step At a Time                                             |
+| bad guy                     | Slide Away                                                     |
+| Bubblegum (feat. Tyga)      | When Will My Life Begin? - From "Tangled" / Soundtrack Version |
+| Trumpets                    | Jar of Hearts                                                  |
+| Talk Dirty (feat. 2 Chainz) | Because of You                                                 |
+| Candyman                    | I See the Light - From "Tangled" / Soundtrack Version          |
+| Price Tag                   | Havana (feat. Young Thug)                                      |
+| Coño                        | My Oh My (feat. DaBaby)                                        |
+| Don't Call Me Up            | Good Ones                                                      |
+| TiK ToK                     | One Step At a Time                                             |
 
 | 10 most Acoustic tracks                               | 10 least Acoustic tracks                   |
 |:------------------------------------------------------|:-------------------------------------------|
 | Consequences                                          | My Oh My (feat. DaBaby)                    |
 | I See the Light - From "Tangled" / Soundtrack Version | Sally Walker                               |
 | Jar of Hearts                                         | Youngblood                                 |
-| Trumpets                                              | Candyman                                   |
-| Stone Cold                                            | Good Girls Go Bad (feat. Leighton Meester) |
-| Blueberry Eyes (feat. SUGA of BTS)                    | Call Me Maybe                              |
-| Wrecking Ball                                         | Slow Hands                                 |
-| Rockabye (feat. Sean Paul & Anne-Marie)               | Me And My Broken Heart                     |
-| Low Key (feat. Tyga)                                  | My Happy Ending                            |
-| Tick Tock (feat. 24kGoldn)                            | Coño                                       |
+| No Tears Left to Cry                                  | Candyman                                   |
+| Señorita                                              | Good Girls Go Bad (feat. Leighton Meester) |
+| Trumpets                                              | Call Me Maybe                              |
+| Stone Cold                                            | Slow Hands                                 |
+| Blueberry Eyes (feat. SUGA of BTS)                    | Me And My Broken Heart                     |
+| Wrecking Ball                                         | My Happy Ending                            |
+| Rockabye (feat. Sean Paul & Anne-Marie)               | Coño                                       |
 
 | 10 most Instrumental tracks                                                                                        | 10 least Instrumental tracks                                   |
 |:-------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------|
-| Candyman                                                                                                           | Living Proof                                                   |
-| Coño                                                                                                               | Consequences                                                   |
-| Blueberry Eyes (feat. SUGA of BTS)                                                                                 | Heart Attack                                                   |
-| Never Be the Same                                                                                                  | Youngblood                                                     |
-| Solo (feat. Demi Lovato)                                                                                           | Wrecking Ball                                                  |
-| Havana (feat. Young Thug)                                                                                          | Me And My Broken Heart                                         |
-| That's My Girl                                                                                                     | Salute                                                         |
-| Symphony (feat. Zara Larsson)                                                                                      | Sally Walker                                                   |
-| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | Stone Cold                                                     |
+| Candyman                                                                                                           | Good Girls Go Bad (feat. Leighton Meester)                     |
+| Coño                                                                                                               | Trumpets                                                       |
+| Blueberry Eyes (feat. SUGA of BTS)                                                                                 | Me And My Broken Heart                                         |
+| Never Be the Same                                                                                                  | Salute                                                         |
+| Solo (feat. Demi Lovato)                                                                                           | Sally Walker                                                   |
+| Havana (feat. Young Thug)                                                                                          | Stone Cold                                                     |
+| That's My Girl                                                                                                     | Heart Attack                                                   |
+| Symphony (feat. Zara Larsson)                                                                                      | Swalla (feat. Nicki Minaj & Ty Dolla $ign)                     |
+| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | Talk Dirty (feat. 2 Chainz)                                    |
 | My Oh My (feat. DaBaby)                                                                                            | When Will My Life Begin? - From "Tangled" / Soundtrack Version |
 
 | 10 most Live tracks                                                                                                | 10 least Live tracks                                                       |
 |:-------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------|
-| Good Girls Go Bad (feat. Leighton Meester)                                                                         | Good Ones                                                                  |
-| Rockabye (feat. Sean Paul & Anne-Marie)                                                                            | Break My Heart Myself (feat. Travis Barker)                                |
-| Bang Bang                                                                                                          | Don't Call Me Up                                                           |
-| My Happy Ending                                                                                                    | Already Gone                                                               |
-| That's My Girl                                                                                                     | I See the Light - From "Tangled" / Soundtrack Version                      |
-| Living Proof                                                                                                       | Good For You                                                               |
-| Solo (feat. Demi Lovato)                                                                                           | Meant to Be (feat. Florida Georgia Line)                                   |
-| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] |
-| Baby, I'm Jealous (feat. Doja Cat)                                                                                 | Slow Hands                                                                 |
-| Talk Dirty (feat. 2 Chainz)                                                                                        | One Step At a Time                                                         |
+| Good Girls Go Bad (feat. Leighton Meester)                                                                         | Break My Heart Myself (feat. Travis Barker)                                |
+| Rockabye (feat. Sean Paul & Anne-Marie)                                                                            | Don't Call Me Up                                                           |
+| Bang Bang                                                                                                          | Already Gone                                                               |
+| My Happy Ending                                                                                                    | I See the Light - From "Tangled" / Soundtrack Version                      |
+| That's My Girl                                                                                                     | Good For You                                                               |
+| Living Proof                                                                                                       | Meant to Be (feat. Florida Georgia Line)                                   |
+| Solo (feat. Demi Lovato)                                                                                           | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] |
+| Señorita                                                                                                           | Slow Hands                                                                 |
+| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | Lost in Japan                                                              |
+| Baby, I'm Jealous (feat. Doja Cat)                                                                                 | One Step At a Time                                                         |
 
 | 10 most Happy tracks                                                       | 10 least Happy tracks                                                                                              |
 |:---------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------|
-| Sucker                                                                     | Slide Away                                                                                                         |
-| Tick Tock (feat. 24kGoldn)                                                 | Never Be the Same                                                                                                  |
+| Sucker                                                                     | Never Be the Same                                                                                                  |
+| Tick Tock (feat. 24kGoldn)                                                 | Never Enough                                                                                                       |
 | Slow Hands                                                                 | Don't Call Me Up                                                                                                   |
 | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] | Who You Are                                                                                                        |
 | Rockabye (feat. Sean Paul & Anne-Marie)                                    | Good For You                                                                                                       |

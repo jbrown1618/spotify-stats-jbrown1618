@@ -367,8 +367,8 @@
 |                 26 | uk pop                                          |
 |                 26 | edm                                             |
 |                 20 | urban contemporary                              |
-|                 15 | pop rap                                         |
-|                 14 | neo soul                                        |
+|                 20 | pop rap                                         |
+|                 17 | neo soul                                        |
 |                 12 | [pop rock](../genres/pop_rock.md)               |
 |                 12 | atl hip hop                                     |
 |                 11 | [r&b](../genres/r_b.md)                         |
@@ -432,6 +432,7 @@
 |                  2 | electro                                         |
 |                  2 | dutch edm                                       |
 |                  2 | colombian pop                                   |
+|                  2 | alternative hip hop                             |
 |                  2 | [adult standards](../genres/adult_standards.md) |
 |                  1 | wonky                                           |
 |                  1 | viral rap                                       |
@@ -458,7 +459,6 @@
 |                  1 | neon pop punk                                   |
 |                  1 | modern indie pop                                |
 |                  1 | lafayette indie                                 |
-|                  1 | la indie                                        |
 
 </details>
 

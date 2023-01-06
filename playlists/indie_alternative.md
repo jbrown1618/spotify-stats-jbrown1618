@@ -316,12 +316,12 @@
 |                 20 | [dance pop](../genres/dance_pop.md)                 |
 |                 20 | [art pop](../genres/art_pop.md)                     |
 |                 18 | [electropop](../genres/electropop.md)               |
-|                 17 | [lilith](../genres/lilith.md)                       |
 |                 17 | baroque pop                                         |
 |                 16 | uk alternative pop                                  |
 |                 16 | permanent wave                                      |
 |                 14 | indie rock                                          |
 |                 13 | nz pop                                              |
+|                 13 | [lilith](../genres/lilith.md)                       |
 |                 13 | bergen indie                                        |
 |                 13 | alternative rock                                    |
 |                 12 | metropopolis                                        |
@@ -340,6 +340,7 @@
 |                  5 | uk funky                                            |
 |                  5 | uk dance                                            |
 |                  5 | tropical house                                      |
+|                  5 | pop rap                                             |
 |                  5 | pop dance                                           |
 |                  5 | edm                                                 |
 |                  5 | deep indie singer-songwriter                        |
@@ -359,7 +360,6 @@
 |                  3 | scottish singer-songwriter                          |
 |                  3 | indietronica                                        |
 |                  3 | comic                                               |
-|                  3 | [acoustic pop](../genres/acoustic_pop.md)           |
 |                  2 | washington indie                                    |
 |                  2 | uk pop                                              |
 |                  2 | [singer-songwriter](../genres/singer_songwriter.md) |
@@ -393,7 +393,6 @@
 |                  1 | [k-pop girl group](../genres/k_pop_girl_group.md)   |
 |                  1 | japanese emo                                        |
 |                  1 | j-rock                                              |
-|                  1 | j-poprock                                           |
 |                  1 | j-pop                                               |
 |                  1 | italian pop                                         |
 |                  1 | irish pop                                           |
@@ -409,6 +408,7 @@
 |                  1 | elephant 6                                          |
 |                  1 | electronic rock                                     |
 |                  1 | dutch pop                                           |
+|                  1 | downtempo                                           |
 
 </details>
 

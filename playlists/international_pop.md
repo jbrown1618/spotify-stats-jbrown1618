@@ -305,7 +305,7 @@
 
 
 <details>
-<summary>See all 96 genres</summary>
+<summary>See all 94 genres</summary>
 
 |   Number of Tracks | Genre                                 |
 |-------------------:|:--------------------------------------|
@@ -328,13 +328,11 @@
 |                  4 | israeli pop                           |
 |                  4 | indonesian r&b                        |
 |                  4 | indonesian pop                        |
-|                  4 | indonesian indie                      |
 |                  3 | urbano latino                         |
 |                  3 | taiwan singer-songwriter              |
 |                  3 | sunnlensk tonlist                     |
 |                  3 | pop urbaine                           |
 |                  3 | japanese teen pop                     |
-|                  3 | j-poprock                             |
 |                  3 | icelandic pop                         |
 |                  3 | francoton                             |
 |                  3 | c-pop                                 |

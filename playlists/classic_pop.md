@@ -177,9 +177,9 @@
 |                  5 | melancholia                                         |
 |                  5 | funk                                                |
 |                  4 | new wave pop                                        |
+|                  4 | disco                                               |
 |                  3 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  3 | outlaw country                                      |
-|                  3 | disco                                               |
 |                  3 | bubblegum pop                                       |
 |                  3 | arkansas country                                    |
 |                  1 | sunshine pop                                        |

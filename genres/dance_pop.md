@@ -82,6 +82,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb358577f183465ae7698a53a7" alt="" width="50" /> | Carly Rae Jepsen                             | [🔗](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375" alt="" width="50" /> | Hatsune Miku                                 | [🔗](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe32a61d17ecbe732a99d6d92" alt="" width="50" /> | 24kGoldn                                     | [🔗](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bda4d7a1c3b8159f28f9d08" alt="" width="50" /> | Sheppard                                     | [🔗](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c" alt="" width="50" /> | Amy Winehouse                                | [🔗](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) |
 |                  1 | <img src="https://i.scdn.co/image/ab6772690000c46ca3ebb27ba9a55044f32af6e1" alt="" width="50" /> | Silk Sonic                                   | [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf271138f95fbe8188d909d50" alt="" width="50" /> | Kesha                                        | [🔗](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) |
@@ -105,7 +106,6 @@
 |                  1 | <img src="nan" alt="" width="50" />                                                              | YEJI & RYUJIN of ITZY                        | [🔗](https://open.spotify.com/artist/4TYswX6bKUjM9rbEL7CMBH) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d800f202dd15af03179876b" alt="" width="50" /> | Jess Glynne                                  | [🔗](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb866f2a7fc5dffca7c22e5b7b" alt="" width="50" /> | Jax Jones                                    | [🔗](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd06f948216f34ea0298aef43" alt="" width="50" /> | Caroline Polachek                            | [🔗](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) |
 |                  1 | <img src="https://i.scdn.co/image/145b7b08e7f1de22d033e957c0888a5f9e0c99e6" alt="" width="50" /> | Leighton Meester                             | [🔗](https://open.spotify.com/artist/481VlDdXZAIRxnHyywNbXn) |
 |                  1 | <img src="https://i.scdn.co/image/8a522c7faa13cf4321ca6bea075fd97f75f40cfe" alt="" width="50" /> | Ying Yang Twins                              | [🔗](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496" alt="" width="50" /> | Anderson .Paak                               | [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) |
@@ -291,7 +291,6 @@
 |                  1 | [Selena Gomez PS](../labels/selena_gomez_ps.md)                                                                             |
 |                  1 | [Roc Nation](../labels/roc_nation.md)                                                                                       |
 |                  1 | [Rihanna](../labels/rihanna.md)                                                                                             |
-|                  1 | [Perpetual Novice](../labels/perpetual_novice.md)                                                                           |
 |                  1 | [Parlophone UK](../labels/parlophone_uk.md)                                                                                 |
 |                  1 | [Nu America Music](../labels/nu_america_music.md)                                                                           |
 |                  1 | [Jonas Brothers Recording](../labels/jonas_brothers_recording.md)                                                           |
@@ -303,6 +302,7 @@
 |                  1 | [EMI Recorded Music Australia Pty Ltd](../labels/emi_recorded_music_australia_pty_ltd.md)                                   |
 |                  1 | [Disruptor Records](../labels/disruptor_records.md)                                                                         |
 |                  1 | [Def Soul](../labels/def_soul.md)                                                                                           |
+|                  1 | [Decca (UMO)](../labels/decca__umo_.md)                                                                                     |
 |                  1 | [Decaydance](../labels/decaydance.md)                                                                                       |
 |                  1 | [DJ Snake Music Productions Limited](../labels/dj_snake_music_productions_limited.md)                                       |
 |                  1 | [Colour Vision Records](../labels/colour_vision_records.md)                                                                 |
@@ -366,7 +366,7 @@
 
 | 10 most Acoustic tracks                               | 10 least Acoustic tracks                                                 |
 |:------------------------------------------------------|:-------------------------------------------------------------------------|
-| Stay                                                  | Dark Horse                                                               |
+| Stay                                                  | Bad Romance                                                              |
 | Your Song                                             | Watch n' Learn                                                           |
 | When I Was Your Man                                   | New Rules                                                                |
 | I Thought She Knew                                    | Valerie (feat. Amy Winehouse) - Version Revisited                        |
@@ -408,8 +408,8 @@
 | Material Girl                   | In the Name of Love                                                                                                |
 | Like a Virgin                   | Million Reasons                                                                                                    |
 | There's Nothing Holdin' Me Back | Youngblood                                                                                                         |
-| Mercy                           | Til It Happens To You                                                                                              |
-| SexyBack (feat. Timbaland)      | Because of You                                                                                                     |
+| SexyBack (feat. Timbaland)      | Til It Happens To You                                                                                              |
+| Mercy                           | Because of You                                                                                                     |
 | I'm a Slave 4 U                 | Stay                                                                                                               |
 | Sucker                          | One Last Time                                                                                                      |
 | Me Enamoré                      | Big Girls Cry                                                                                                      |

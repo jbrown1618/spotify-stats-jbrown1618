@@ -1,16 +1,16 @@
 # lilith
 
-[93 songs](lilith_tracks.md)
+[89 songs](lilith_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 11 artists](../images/genres/lilith/artists.png)
+![Bar chart of top 10 artists](../images/genres/lilith/artists.png)
 
 ![Comparison of Artist](../images/genres/lilith/artists_comparison.png)
 
 
 <details>
-<summary>See all 11 artists</summary>
+<summary>See all 10 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                         | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------|:------------------------------------------------------------|
@@ -18,7 +18,6 @@
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb271320bcc15789b23aa83a44" alt="" width="50" /> | Erin McCarley                                  | [🔗](https://open.spotify.com/artist/6Y4bCmUNPDKqc7dHkVvgim) |
 |                  7 | <img src="https://i.scdn.co/image/15b7ee7550ed4472700d573803ff90f2967f84d1" alt="" width="50" /> | A Fine Frenzy                                  | [🔗](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) |
 |                  6 | <img src="https://i.scdn.co/image/7b2813bb4afb38f0dab9470a514091fc4ef6b1a1" alt="" width="50" /> | Rilo Kiley                                     | [🔗](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) |
-|                  4 | <img src="https://i.scdn.co/image/da5f4b11c665b4d17c7ed24eb23949c046208dcd" alt="" width="50" /> | Jem                                            | [🔗](https://open.spotify.com/artist/4v4xuH9VypORYabMnhPLt1) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eba36a9f95d59ab791d5e897e9" alt="" width="50" /> | Regina Spektor                                 | [🔗](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8457f57bc526c37bd804b924" alt="" width="50" /> | KT Tunstall                                    | [🔗](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebce8d5be6690c6964069ab8e0" alt="" width="50" /> | Jason Mraz                                     | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
@@ -30,11 +29,11 @@
 
 ## Top Albums
 
-![Bar chart of top 21 albums](../images/genres/lilith/albums.png)
+![Bar chart of top 20 albums](../images/genres/lilith/albums.png)
 
 
 <details>
-<summary>See all 21 albums</summary>
+<summary>See all 20 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                       | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------|:-----------------------------------------------------------|
@@ -45,7 +44,6 @@
 |                  7 | <img src="https://i.scdn.co/image/ab67616d0000b2734280a158a96c9b0274eb7e99" alt="" width="50" /> | Love, Save The Empty                        | [🔗](https://open.spotify.com/album/1tF7625TFqvfzMbappj1pQ) |
 |                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="" width="50" /> | What's Inside: Songs from Waitress          | [🔗](https://open.spotify.com/album/1s6codM2ZAB008t9GTyaEk) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | Once Upon Another Time                      | [🔗](https://open.spotify.com/album/1PrqYZJRzGNf8AsSOraxnZ) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273cd519fa579f43e384aa891f1" alt="" width="50" /> | Finally Woken                               | [🔗](https://open.spotify.com/album/3RkjNfqqlhWyLrRp0ZCARU) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273119ad2ebc0d33edf847ed8c6" alt="" width="50" /> | One Cell In The Sea                         | [🔗](https://open.spotify.com/album/0Ot7MEgreG2R93aN42M9iK) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | More Adventurous (U.S. Release)             | [🔗](https://open.spotify.com/album/4n36X2GMJ84BKh9D9zMRVI) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273183730e8038fa632b2c227da" alt="" width="50" /> | Eye To The Telescope                        | [🔗](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) |
@@ -65,11 +63,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 14 record labels](../images/genres/lilith/labels.png)
+![Bar chart of top 13 record labels](../images/genres/lilith/labels.png)
 
 
 <details>
-<summary>See all 14 labels</summary>
+<summary>See all 13 labels</summary>
 
 |   Number of Tracks | Label                                           |
 |-------------------:|:------------------------------------------------|
@@ -78,7 +76,6 @@
 |                  7 | [Universal (MT)](../labels/universal__mt_.md)   |
 |                  4 | [Warner Records](../labels/warner_records.md)   |
 |                  4 | [Sire](../labels/sire.md)                       |
-|                  4 | [ATO Records](../labels/ato_records.md)         |
 |                  3 | [Relentless](../labels/relentless.md)           |
 |                  3 | [Brute](../labels/brute.md)                     |
 |                  3 | [Beaute](../labels/beaute.md)                   |
@@ -103,8 +100,8 @@
 | Black Horse And The Cherry Tree | Does He Love You?            |
 | Blow Away                       | Shadowboxer                  |
 | I Choose You                    | Once Upon Another Time       |
-| They                            | Gravity                      |
-| Silver Lining                   | Stay                         |
+| Silver Lining                   | Gravity                      |
+| I Didn't Plan It                | Stay                         |
 
 | 10 most Energetic tracks    | 10 least Energetic tracks                                                         |
 |:----------------------------|:----------------------------------------------------------------------------------|
@@ -121,24 +118,24 @@
 
 | 10 most Speechy tracks          | 10 least Speechy tracks   |
 |:--------------------------------|:--------------------------|
-| Electric Twist                  | Islands                   |
-| Accidntel Deth                  | Stay Now                  |
-| Opening Up                      | Breathe Again             |
-| Kaleidoscope Heart              | Sweet As Whole            |
-| Come Round Soon                 | Orpheus                   |
-| Bad Idea (feat. Jason Mraz)     | Machine Gun               |
-| Black Horse And The Cherry Tree | Pitter-Pat                |
-| Fire                            | Whisper                   |
-| Eden                            | Come On Closer            |
+| Electric Twist                  | The Light                 |
+| Accidntel Deth                  | Silver Lining             |
+| Opening Up                      | Islands                   |
+| Kaleidoscope Heart              | Breathe Again             |
+| Come Round Soon                 | Sweet As Whole            |
+| Bad Idea (feat. Jason Mraz)     | Orpheus                   |
+| Black Horse And The Cherry Tree | Machine Gun               |
+| Fire                            | Pitter-Pat                |
+| Eden                            | Whisper                   |
 | Little Black Dress              | Satellite Call            |
 
 | 10 most Acoustic tracks                                                           | 10 least Acoustic tracks    |
 |:----------------------------------------------------------------------------------|:----------------------------|
-| Bright Lights and Cityscapes                                                      | Wicked Love                 |
-| Manhattan                                                                         | Bad Idea (feat. Jason Mraz) |
-| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Come On Closer              |
-| Almost Lover                                                                      | Vegas                       |
-| Bluebird                                                                          | Missing You                 |
+| Bright Lights and Cityscapes                                                      | Love Song                   |
+| Manhattan                                                                         | Gonna Get Over You          |
+| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Wicked Love                 |
+| Almost Lover                                                                      | Bad Idea (feat. Jason Mraz) |
+| Bluebird                                                                          | Vegas                       |
 | What's Inside                                                                     | Many the Miles              |
 | Once Upon Another Time                                                            | The Execution Of All Things |
 | Samson                                                                            | Brave                       |
@@ -147,15 +144,15 @@
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| A Better Son/Daughter         | Gravity                        |
-| The Execution Of All Things   | Opening Up                     |
-| Now Is The Start              | Bad Idea (feat. Jason Mraz)    |
-| Satellite Call                | Everything Changes             |
-| Islands                       | If I Can't Have You            |
-| Armor                         | Little Black Dress             |
-| Portions for Foxes            | Hercules                       |
-| Breathe Again                 | Once Upon Another Time         |
-| Miss Simone                   | Sweet As Whole                 |
+| A Better Son/Daughter         | Opening Up                     |
+| The Execution Of All Things   | Bad Idea (feat. Jason Mraz)    |
+| Now Is The Start              | Everything Changes             |
+| Satellite Call                | If I Can't Have You            |
+| Islands                       | Little Black Dress             |
+| Armor                         | Hercules                       |
+| Portions for Foxes            | Once Upon Another Time         |
+| Breathe Again                 | Sweet As Whole                 |
+| Miss Simone                   | Gravity                        |
 | The Light                     | Say You're Sorry               |
 
 | 10 most Live tracks                                                               | 10 least Live tracks        |
@@ -173,13 +170,13 @@
 
 | 10 most Happy tracks            | 10 least Happy tracks                                                             |
 |:--------------------------------|:----------------------------------------------------------------------------------|
-| I Choose You                    | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 |
-| Come On Closer                  | Almost Lover                                                                      |
-| Black Horse And The Cherry Tree | What's Inside                                                                     |
-| Blow Away                       | Bluebird                                                                          |
-| Electric Twist                  | I Can't Make You Love Me                                                          |
-| Say You're Sorry                | Missing You                                                                       |
-| King of Anything                | Everything Changes                                                                |
-| Lie To Me                       | Islands                                                                           |
+| I Choose You                    | She Used To Be Mine                                                               |
+| Black Horse And The Cherry Tree | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 |
+| Blow Away                       | Almost Lover                                                                      |
+| Electric Twist                  | What's Inside                                                                     |
+| Say You're Sorry                | Bluebird                                                                          |
+| King of Anything                | I Can't Make You Love Me                                                          |
+| Lie To Me                       | Everything Changes                                                                |
+| I Didn't Plan It                | Islands                                                                           |
 | Bad Idea (feat. Jason Mraz)     | Once Upon Another Time                                                            |
-| I Didn't Plan It                | A Better Son/Daughter                                                             |
+| Morningside                     | A Better Son/Daughter                                                             |
