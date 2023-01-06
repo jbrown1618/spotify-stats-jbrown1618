@@ -61,7 +61,6 @@
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d4b74165ecfadcacf0771ae" alt="" width="50" /> | MOMOLAND                                             | [🔗](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b27336adcea4e93245f1fec547df" alt="" width="50" /> | AOA                                                  | [🔗](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb597a4257d0022e2ac837fa7d" alt="" width="50" /> | BIGBANG                                              | [🔗](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) |
-|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0cc2045ff4e90d12df91cc3" alt="" width="50" /> | f(x)                                                 | [🔗](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb515e5754d89e4df8123e3f9f" alt="" width="50" /> | HYO                                                  | [🔗](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbca2e91d07d2c53e6610570" alt="" width="50" /> | Seori                                                | [🔗](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebfa980b99bc5f4d47b4253f82" alt="" width="50" /> | j-hope                                               | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
@@ -71,6 +70,7 @@
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eba6b0d348c125a072e5284b3e" alt="" width="50" /> | IZ*ONE                                               | [🔗](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0b4c8d0a415cab50e033129" alt="" width="50" /> | Solar                                                | [🔗](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb3e7fed46f355254f001ac543" alt="" width="50" /> | BoA                                                  | [🔗](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) |
+|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0cc2045ff4e90d12df91cc3" alt="" width="50" /> | f(x)                                                 | [🔗](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb74f9c3e4ad2e130f8f338858" alt="" width="50" /> | P1Harmony                                            | [🔗](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | SISTAR                                               | [🔗](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb3202449ae19d68607e3f1530" alt="" width="50" /> | NMIXX                                                | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
@@ -214,7 +214,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | Sticker - The 3rd Album                             | [🔗](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273af2fda9fb591d43c355c2ac3" alt="" width="50" /> | STAYDOM                                             | [🔗](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27318a4a215052e9f396864bd73" alt="" width="50" /> | SQUARE TWO                                          | [🔗](https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273231a1b74cc820bb632de108c" alt="" width="50" /> | SQUARE ONE                                          | [🔗](https://open.spotify.com/album/0AcFaK32ui9rF2ySEdXrv4) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273ff4ec21d7817138cabcc19bc" alt="" width="50" /> | SQUARE ONE                                          | [🔗](https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2739f560e8c1cda870ef4eadb43" alt="" width="50" /> | SKZ2020                                             | [🔗](https://open.spotify.com/album/6QIWJVJPPgAA5c4aIb1zCA) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c1a20972c9a083d5cece9ce5" alt="" width="50" /> | SEVENTEEN 8th Mini Album 'Your Choice'              | [🔗](https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2730d42834b296097a0136e97d3" alt="" width="50" /> | SEOULITE                                            | [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) |
@@ -241,7 +241,7 @@
 
 |   Number of Tracks | Label                                                                                                               |
 |-------------------:|:--------------------------------------------------------------------------------------------------------------------|
-|                201 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
+|                200 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
 |                 83 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 60 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
 |                 44 | [Genie Music Corporation](../labels/genie_music_corporation.md)                                                     |
@@ -299,6 +299,7 @@
 |                  2 | [Imperial Distribution](../labels/imperial_distribution.md)                                                         |
 |                  2 | [Feel Ghood Music](../labels/feel_ghood_music.md)                                                                   |
 |                  2 | [FNC인베스트먼트](../labels/fnc______.md)                                                                                 |
+|                  2 | [Cre.ker Entertainment](../labels/cre_ker_entertainment.md)                                                         |
 |                  2 | [ATISPAUS](../labels/atispaus.md)                                                                                   |
 |                  2 | [ADA Korea](../labels/ada_korea.md)                                                                                 |
 |                  1 | [피네이션](../labels/____.md)                                                                                           |
@@ -339,7 +340,6 @@
 |                  1 | [FLEX M](../labels/flex_m.md)                                                                                       |
 |                  1 | [DUBLEKICK COMPANY](../labels/dublekick_company.md)                                                                 |
 |                  1 | [DCTOM](../labels/dctom.md)                                                                                         |
-|                  1 | [Cre.ker Entertainment](../labels/cre_ker_entertainment.md)                                                         |
 |                  1 | [Columbia](../labels/columbia.md)                                                                                   |
 
 </details>
@@ -353,12 +353,12 @@
 | Idle song                             | HWAA                        |
 | RUN (HAN)                             | CHEESE                      |
 | Jelly                                 | Clockwork                   |
-| Weather                               | Epilogue                    |
-| Typa Girl                             | Like Water                  |
+| Typa Girl                             | Epilogue                    |
+| Weather                               | Like Water                  |
 | BOOM                                  | Fine                        |
 | Mr. Simple                            | My sea                      |
-| That That (prod. & feat. SUGA of BTS) | On The Ground               |
-| 1, 2, 3, 4                            | U                           |
+| 1, 2, 3, 4                            | On The Ground               |
+| That That (prod. & feat. SUGA of BTS) | U                           |
 
 | 10 most Energetic tracks   | 10 least Energetic tracks                            |
 |:---------------------------|:-----------------------------------------------------|
@@ -377,14 +377,14 @@
 |:------------------------------|:-------------------------------------------|
 | Addicted                      | YOUNG LUV                                  |
 | MANIAC                        | NANANA                                     |
-| Freedom                       | Hope Not                                   |
-| Ice Cream (with Selena Gomez) | Gee                                        |
+| Freedom                       | Gee                                        |
+| Ice Cream (with Selena Gomez) | Hope Not                                   |
 | I GOT IT (HAN)                | The Magic of Christmas Time                |
 | Feelin' Like                  | Winter Sleep                               |
 | VENOM                         | Wicked                                     |
 | Signal                        | Moonlight Melody                           |
-| BBIBBI                        | She′s In The Rain                          |
-| You Better Run                | Slightly Tipsy (She is My Type♡ X SANDEUL) |
+| BBIBBI                        | Slightly Tipsy (She is My Type♡ X SANDEUL) |
+| You Better Run                | She′s In The Rain                          |
 
 | 10 most Acoustic tracks                              | 10 least Acoustic tracks   |
 |:-----------------------------------------------------|:---------------------------|
@@ -401,16 +401,16 @@
 
 | 10 most Instrumental tracks      | 10 least Instrumental tracks   |
 |:---------------------------------|:-------------------------------|
-| You and I (Park Bom)             | Sorry                          |
-| Adios                            | BABY                           |
-| pporappippam                     | Pepe                           |
+| You and I (Park Bom)             | BANG BANG BANG                 |
+| Adios                            | Pepe                           |
+| pporappippam                     | Hobgoblin                      |
 | Badster                          | Is this bad b****** number?    |
 | So Hot                           | Idle song                      |
-| GingaMingaYo (the strange world) | She′s In The Rain              |
+| GingaMingaYo (the strange world) | GANADARA (Feat. IU)            |
 | I Am The Best                    | Monster                        |
-| Power Up                         | RED                            |
+| Power Up                         | MOMMAE                         |
 | BBoom BBoom                      | Jungle                         |
-| In My Dreams                     | LUCIFER                        |
+| In My Dreams                     | Give it to me                  |
 
 | 10 most Live tracks            | 10 least Live tracks                  |
 |:-------------------------------|:--------------------------------------|
@@ -422,8 +422,8 @@
 | I Like That                    | Holiday Party                         |
 | Vibrato                        | memeM                                 |
 | 행복 (Happiness)                 | That That (prod. & feat. SUGA of BTS) |
-| LP                             | CASE 143                              |
-| Genie                          | PING PONG                             |
+| Genie                          | CASE 143                              |
+| LP                             | PING PONG                             |
 
 | 10 most Happy tracks   | 10 least Happy tracks     |
 |:-----------------------|:--------------------------|
@@ -431,9 +431,9 @@
 | Devil                  | ONLY                      |
 | Twenty-three           | U                         |
 | Pepe                   | Time After Time           |
-| Miniskirt              | My sea                    |
-| So Hot                 | Side Effects              |
+| So Hot                 | My sea                    |
+| Miniskirt              | Side Effects              |
 | 쏘리 쏘리 Sorry, Sorry     | Good Night My Princess    |
 | Twinkle                | 7월 7일 One Of These Nights |
-| Lion Heart             | Grey Suit                 |
-| Some (feat. Lil Boi)   | The Road                  |
+| Some (feat. Lil Boi)   | Grey Suit                 |
+| Lion Heart             | The Road                  |

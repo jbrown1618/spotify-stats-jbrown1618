@@ -1,16 +1,16 @@
 # r&b
 
-[41 songs](r_b_tracks.md)
+[40 songs](r_b_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 24 artists](../images/genres/r_b/artists.png)
+![Bar chart of top 23 artists](../images/genres/r_b/artists.png)
 
 ![Comparison of Artist](../images/genres/r_b/artists_comparison.png)
 
 
 <details>
-<summary>See all 24 artists</summary>
+<summary>See all 23 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                         | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------|:------------------------------------------------------------|
@@ -19,7 +19,6 @@
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb2e42d906f4f9f672359e7379" alt="" width="50" /> | Usher                                          | [🔗](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebaed3c717bf1753ab928ea88d" alt="" width="50" /> | John Legend                                    | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd09edfd2babfc9fd2ba748e" alt="" width="50" /> | Daniel Caesar                                  | [🔗](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7eb7f6371aad8e67e01f0a03" alt="" width="50" /> | SZA                                            | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba12641edfc4ffbbdf58f7d15" alt="" width="50" /> | Lil Jon                                        | [🔗](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | Chris Brown                                    | [🔗](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) |
 |                  1 | <img src="https://i.scdn.co/image/5c8d57d92825466637905f0d4219064cb39333e9" alt="" width="50" /> | André 3000                                     | [🔗](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) |
@@ -43,11 +42,11 @@
 
 ## Top Albums
 
-![Bar chart of top 28 albums](../images/genres/r_b/albums.png)
+![Bar chart of top 27 albums](../images/genres/r_b/albums.png)
 
 
 <details>
-<summary>See all 28 albums</summary>
+<summary>See all 27 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                          | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------|:-----------------------------------------------------------|
@@ -62,7 +61,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="" width="50" /> | Survivor                                       | [🔗](https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="" width="50" /> | Slime & B                                      | [🔗](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273cf31c7be8a9eea69d98c37c4" alt="" width="50" /> | Sides                                          | [🔗](https://open.spotify.com/album/5alIr9JGPvOQwPLphm0beJ) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="" width="50" /> | SOS                                            | [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c8245ce2a727675a0a232b2f" alt="" width="50" /> | Preach                                         | [🔗](https://open.spotify.com/album/32r4o1R9a1lK5DoVXGEC7E) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac" alt="" width="50" /> | Off the Wall                                   | [🔗](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734e8e488284a2cf00a613c0a1" alt="" width="50" /> | Music From The Motion Picture Cadillac Records | [🔗](https://open.spotify.com/album/4b2zuwf7CPesdiTg1kFDjU) |
@@ -85,11 +83,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 18 record labels](../images/genres/r_b/labels.png)
+![Bar chart of top 17 record labels](../images/genres/r_b/labels.png)
 
 
 <details>
-<summary>See all 18 labels</summary>
+<summary>See all 17 labels</summary>
 
 |   Number of Tracks | Label                                                               |
 |-------------------:|:--------------------------------------------------------------------|
@@ -98,12 +96,11 @@
 |                  6 | [Parkwood Entertainment](../labels/parkwood_entertainment.md)       |
 |                  5 | [Music World Music](../labels/music_world_music.md)                 |
 |                  4 | [LaFace Records](../labels/laface_records.md)                       |
-|                  3 | [RCA Records Label](../labels/rca_records_label.md)                 |
+|                  2 | [RCA Records Label](../labels/rca_records_label.md)                 |
 |                  2 | [Legacy](../labels/legacy.md)                                       |
 |                  2 | [Golden Child Recordings](../labels/golden_child_recordings.md)     |
 |                  2 | [G.O.O.D. Music](../labels/g_o_o_d__music.md)                       |
 |                  2 | [Arista](../labels/arista.md)                                       |
-|                  1 | [Top Dawg Entertainment](../labels/top_dawg_entertainment.md)       |
 |                  1 | [Nu America Music](../labels/nu_america_music.md)                   |
 |                  1 | [Jive](../labels/jive.md)                                           |
 |                  1 | [Chris Brown Entertainment](../labels/chris_brown_entertainment.md) |
@@ -125,10 +122,10 @@
 | Don't Stop 'Til You Get Enough    | Halo                                          |
 | I Don't Mind (feat. Juicy J)      | Teach You - Acoustic                          |
 | Smooth Criminal - 2012 Remaster   | Irreplaceable                                 |
-| Shirt                             | Listen (From the Motion Picture "Dreamgirls") |
-| Wanna Be Startin' Somethin'       | All of Me                                     |
-| Bootylicious                      | Ave Maria                                     |
-| Man in the Mirror - 2012 Remaster | I'd Rather Go Blind                           |
+| Wanna Be Startin' Somethin'       | Listen (From the Motion Picture "Dreamgirls") |
+| Bootylicious                      | All of Me                                     |
+| Man in the Mirror - 2012 Remaster | Ave Maria                                     |
+| Me & U                            | I'd Rather Go Blind                           |
 
 | 10 most Energetic tracks                  | 10 least Energetic tracks    |
 |:------------------------------------------|:-----------------------------|
@@ -169,18 +166,18 @@
 | Listen (From the Motion Picture "Dreamgirls") | Crazy In Love (feat. Jay-Z)      |
 | Me & U                                        | Bootylicious                     |
 
-| 10 most Instrumental tracks     | 10 least Instrumental tracks              |
-|:--------------------------------|:------------------------------------------|
-| Smooth Criminal - 2012 Remaster | Teach You - Acoustic                      |
-| Wanna Be Startin' Somethin'     | There Goes My Baby                        |
-| Don't Stop 'Til You Get Enough  | DJ Got Us Fallin' In Love (feat. Pitbull) |
-| Billie Jean                     | Best Part (feat. H.E.R.)                  |
-| Shirt                           | When I Get You Alone                      |
-| No Scrubs                       | City Girls                                |
-| P.Y.T. (Pretty Young Thing)     | Preach                                    |
-| Sure Thing                      | All of Me                                 |
-| Thriller                        | Green Light (feat. André 3000)            |
-| Who Hurt You?                   | Me & U                                    |
+| 10 most Instrumental tracks       | 10 least Instrumental tracks              |
+|:----------------------------------|:------------------------------------------|
+| Smooth Criminal - 2012 Remaster   | There Goes My Baby                        |
+| Wanna Be Startin' Somethin'       | Teach You - Acoustic                      |
+| Don't Stop 'Til You Get Enough    | DJ Got Us Fallin' In Love (feat. Pitbull) |
+| Billie Jean                       | Hit 'Em Up Style (Oops!)                  |
+| No Scrubs                         | Bootylicious                              |
+| P.Y.T. (Pretty Young Thing)       | Best Part (feat. H.E.R.)                  |
+| Sure Thing                        | Green Light (feat. André 3000)            |
+| Thriller                          | When I Get You Alone                      |
+| Who Hurt You?                     | City Girls                                |
+| Man in the Mirror - 2012 Remaster | Me & U                                    |
 
 | 10 most Live tracks             | 10 least Live tracks             |
 |:--------------------------------|:---------------------------------|

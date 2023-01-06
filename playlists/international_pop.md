@@ -79,7 +79,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9e7b8ff766bcc9adb5a6273e" alt="" width="50" /> | Heuss L'enfoiré                    | [🔗](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc367faa0cbc1af23a289fb1a" alt="" width="50" /> | Angèle                             | [🔗](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8f4d36b43fa094d32a167f1e" alt="" width="50" /> | Ashnikko                           | [🔗](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe1591ab8e13f032428d24111" alt="" width="50" /> | Ali Sethi                          | [🔗](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba89b57750203c624eed1e837" alt="" width="50" /> | Ali Sethi                          | [🔗](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb53c0d67ccd365de60b367dfb" alt="" width="50" /> | Ayumi Hamasaki                     | [🔗](https://open.spotify.com/artist/3Mvc8kRgr8LRYYgvFmlZqn) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe8b2a45963d5d6e7403699d0" alt="" width="50" /> | Ana Guerra                         | [🔗](https://open.spotify.com/artist/3MRynBsyLGzv3IQ9Fip6hO) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb283c3a97aea1c06e2cf1a2c" alt="" width="50" /> | Agam Buhbut                        | [🔗](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) |
@@ -305,7 +305,7 @@
 
 
 <details>
-<summary>See all 95 genres</summary>
+<summary>See all 96 genres</summary>
 
 |   Number of Tracks | Genre                                 |
 |-------------------:|:--------------------------------------|
@@ -334,6 +334,7 @@
 |                  3 | sunnlensk tonlist                     |
 |                  3 | pop urbaine                           |
 |                  3 | japanese teen pop                     |
+|                  3 | j-poprock                             |
 |                  3 | icelandic pop                         |
 |                  3 | francoton                             |
 |                  3 | c-pop                                 |

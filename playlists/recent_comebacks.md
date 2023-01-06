@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2738cab1c75d2271af37c3e2db9ab67616d0000b273d2ef237da7f94762997c2083ab67616d0000b273e9cd59d664f597061a513038ab67616d0000b273ed10325dc317f32df83990b9" alt="Recent Comebacks" width="100" />
 
-[61 songs](recent_comebacks_tracks.md)
+[62 songs](recent_comebacks_tracks.md)
 
 ## Top Artists
 
@@ -17,13 +17,13 @@
 
 |   Number of Tracks | Art                                                                                              | Artist                                 | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:------------------------------------------------------------|
-|                 12 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
+|                 11 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)   | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
+|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../artists/aespa.md)           | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb6199c3c2f414880e2b9077a9" alt="" width="50" /> | NewJeans                               | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)       | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)     | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
-|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../artists/aespa.md)           | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebfb6c0b7b6918dca92be0ed75" alt="" width="50" /> | LE SSERAFIM                            | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebfe2339c232c5a840fc527402" alt="" width="50" /> | SEULGI                                 | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | Jackson Wang                           | [🔗](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) |
@@ -51,11 +51,11 @@
 
 ## Top Albums
 
-![Bar chart of top 27 albums](../images/playlists/recent_comebacks/albums.png)
+![Bar chart of top 26 albums](../images/playlists/recent_comebacks/albums.png)
 
 
 <details>
-<summary>See all 27 albums</summary>
+<summary>See all 26 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                          | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------|:-----------------------------------------------------------|
@@ -63,6 +63,7 @@
 |                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | BORN PINK                                      | [🔗](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273d2ef237da7f94762997c2083" alt="" width="50" /> | ‘The ReVe Festival 2022 - Birthday’            | [🔗](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | I love                                         | [🔗](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Girls - The 2nd Mini Album                     | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" alt="" width="50" /> | MANIFESTO : DAY 1                              | [🔗](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="" width="50" /> | MAGIC MAN                                      | [🔗](https://open.spotify.com/album/2VZ4og2ZbwyTQ3X1rbgCe1) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="" width="50" /> | ANTIFRAGILE                                    | [🔗](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) |
@@ -72,7 +73,6 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01" alt="" width="50" /> | NewJeans 'OMG'                                 | [🔗](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | MAXIDENT                                       | [🔗](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2735f3ae8db55f4507baf0ef0dd" alt="" width="50" /> | Lowlife Princess: Noir                         | [🔗](https://open.spotify.com/album/0AwCgoJKJUOgLp1imhnxuH) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Girls - The 2nd Mini Album                     | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | CHESHIRE                                       | [🔗](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738232e1aaaf4c9ed4b6946ce8" alt="" width="50" /> | the Billage of perception: chapter two         | [🔗](https://open.spotify.com/album/0NuM7kwh6u6fIRjn7Zh7Ss) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27345c3e1eaeaed3345abae9616" alt="" width="50" /> | Undo                                           | [🔗](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) |
@@ -82,7 +82,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fc8b0918267ea555921863e8" alt="" width="50" /> | One In A Billion                               | [🔗](https://open.spotify.com/album/19Jm8Jk0zQYs6zMaxhYJFd) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="" width="50" /> | Forgive Me - The 3rd Mini Album                | [🔗](https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738cab1c75d2271af37c3e2db9" alt="" width="50" /> | First Howling : ME                             | [🔗](https://open.spotify.com/album/3jqV1FFra3A2179rdtiNdo) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d784afd710070b5fe22b99bf" alt="" width="50" /> | CIRCUS                                         | [🔗](https://open.spotify.com/album/4IQHY28D4aHus9lGDlSdPp) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733730b0ab6cc8e589b87d26d7" alt="" width="50" /> | Birthday - SM STATION : NCT LAB                | [🔗](https://open.spotify.com/album/6tcPTRUC3gwmG1iyWyzRzr) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27387f53da5fb4ab1171766b2d5" alt="" width="50" /> | After LIKE                                     | [🔗](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="" width="50" /> | 2 Baddies - The 4th Album                      | [🔗](https://open.spotify.com/album/6p80QT3z7kOHpYdnsItQTQ) |
@@ -92,19 +91,19 @@
 
 ## Top Record Labels
 
-![Bar chart of top 19 record labels](../images/playlists/recent_comebacks/labels.png)
+![Bar chart of top 18 record labels](../images/playlists/recent_comebacks/labels.png)
 
 
 <details>
-<summary>See all 19 labels</summary>
+<summary>See all 18 labels</summary>
 
 |   Number of Tracks | Label                                                               |
 |-------------------:|:--------------------------------------------------------------------|
 |                 13 | [SM Entertainment](../labels/sm_entertainment.md)                   |
 |                 12 | [Republic Records](../labels/republic_records.md)                   |
 |                  7 | [YG Entertainment](../labels/yg_entertainment.md)                   |
+|                  7 | [Warner Records](../labels/warner_records.md)                       |
 |                  6 | [Interscope](../labels/interscope.md)                               |
-|                  5 | [Warner Records](../labels/warner_records.md)                       |
 |                  5 | [88rising Music](../labels/88rising_music.md)                       |
 |                  4 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)               |
 |                  4 | [BELIFT LAB](../labels/belift_lab.md)                               |
@@ -115,7 +114,6 @@
 |                  2 | [Feel Ghood Music](../labels/feel_ghood_music.md)                   |
 |                  1 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
 |                  1 | [Starship Entertainment](../labels/starship_entertainment.md)       |
-|                  1 | [Sony Music Labels Inc.](../labels/sony_music_labels_inc_.md)       |
 |                  1 | [MYSTIC STORY](../labels/mystic_story.md)                           |
 |                  1 | [KQ Entertainment](../labels/kq_entertainment.md)                   |
 |                  1 | [HYBE LABELS JAPAN](../labels/hybe_labels_japan.md)                 |
@@ -133,9 +131,9 @@
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
-|                 45 | [k-pop](../genres/k_pop.md)                       |
-|                 24 | [k-pop girl group](../genres/k_pop_girl_group.md) |
-|                 18 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
+|                 44 | [k-pop](../genres/k_pop.md)                       |
+|                 26 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+|                 17 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
 |                  4 | anime                                             |
 |                  3 | korean r&b                                        |
 |                  1 | korean pop                                        |
@@ -147,12 +145,12 @@
 
 | 10 most Danceable tracks   | 10 least Danceable tracks   |
 |:---------------------------|:----------------------------|
-| RUN (HAN)                  | Cruel                       |
-| Typa Girl                  | Girls                       |
-| HEYDAY (Prod. Czaer)       | Dead Man Runnin’            |
-| ANTIFRAGILE                | Birthday                    |
-| LOVE                       | Blow                        |
-| Maknae On Top (I.N)        | i hate to admit (Bang Chan) |
+| RUN (HAN)                  | Girls                       |
+| Typa Girl                  | Dead Man Runnin’            |
+| HEYDAY (Prod. Czaer)       | Birthday                    |
+| ANTIFRAGILE                | Blow                        |
+| LOVE                       | i hate to admit (Bang Chan) |
+| Maknae On Top (I.N)        | Life's Too Short            |
 | Shut Down                  | Deep end (Felix)            |
 | On A Ride                  | HALAZIA                     |
 | Ditto                      | BIBI Vengeance              |
@@ -193,34 +191,34 @@
 | ZOOM                        | Yeah Yeah Yeah             |
 | The Happiest Girl           | Blow                       |
 | Crown                       | Shut Down                  |
-| Hug Me (I.N)                | Come Alive                 |
-| OMG                         | Cruel                      |
-| Cheshire                    | HALAZIA                    |
+| Life's Too Short            | Come Alive                 |
+| Hug Me (I.N)                | Cruel                      |
+| OMG                         | HALAZIA                    |
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| Girls                         | RUN (HAN)                      |
-| HALAZIA                       | ANTIFRAGILE                    |
-| Crown                         | I GOT IT (HAN)                 |
-| BIBI Vengeance                | Forgive Me                     |
-| Priority                      | BYE BYE                        |
-| Cruel                         | Birthday                       |
-| ZOOM                          | Sculpture                      |
-| On A Ride                     | Deep end (Felix)               |
-| Maknae On Top (I.N)           | ParadoXXX Invasion             |
-| Come Alive                    | Shut Down                      |
+| Lingo                         | RUN (HAN)                      |
+| Girls                         | ANTIFRAGILE                    |
+| HALAZIA                       | I GOT IT (HAN)                 |
+| Crown                         | Forgive Me                     |
+| BIBI Vengeance                | BYE BYE                        |
+| Priority                      | Birthday                       |
+| Cruel                         | Sculpture                      |
+| ZOOM                          | Deep end (Felix)               |
+| On A Ride                     | ParadoXXX Invasion             |
+| Maknae On Top (I.N)           | Shut Down                      |
 
 | 10 most Live tracks   | 10 least Live tracks                                |
 |:----------------------|:----------------------------------------------------|
-| Typa Girl             | BIBI Vengeance                                      |
-| Animal Farm           | Yeah Yeah Yeah                                      |
-| Forgive Me            | Come Alive                                          |
-| Nxde                  | Up All Night (Bang Chan, Changbin, Felix, Seungmin) |
-| BYE BYE               | Birthday                                            |
-| Cheshire              | Maknae On Top (I.N)                                 |
-| Time After Time       | Scent of you                                        |
-| ParadoXXX Invasion    | HEYDAY (Prod. Czaer)                                |
-| Beautiful Christmas   | CIRCUS                                              |
+| Typa Girl             | I GOT IT (HAN)                                      |
+| Animal Farm           | BIBI Vengeance                                      |
+| Forgive Me            | Yeah Yeah Yeah                                      |
+| Nxde                  | Come Alive                                          |
+| BYE BYE               | Up All Night (Bang Chan, Changbin, Felix, Seungmin) |
+| Cheshire              | Birthday                                            |
+| Time After Time       | Maknae On Top (I.N)                                 |
+| ParadoXXX Invasion    | Scent of you                                        |
+| Beautiful Christmas   | HEYDAY (Prod. Czaer)                                |
 | Illusion              | CASE 143                                            |
 
 | 10 most Happy tracks                                | 10 least Happy tracks   |
@@ -228,10 +226,10 @@
 | Up All Night (Bang Chan, Changbin, Felix, Seungmin) | LOVE                    |
 | TFW (That Feeling When)                             | Priority                |
 | Maknae On Top (I.N)                                 | Crown                   |
-| Give Me Your TMI                                    | Change                  |
-| ANTIFRAGILE                                         | miss you (Hyunjin)      |
+| ANTIFRAGILE                                         | Change                  |
+| Give Me Your TMI                                    | miss you (Hyunjin)      |
 | I GOT IT (HAN)                                      | Dead Man Runnin’        |
 | ZOOM                                                | Sculpture               |
 | Blow                                                | Deep end (Felix)        |
 | Hug Me (I.N)                                        | Ditto                   |
-| Scent of you                                        | Time After Time         |
+| Snowy                                               | Time After Time         |

@@ -1,6 +1,6 @@
 # k-pop boy group
 
-[230 songs](k_pop_boy_group_tracks.md)
+[231 songs](k_pop_boy_group_tracks.md)
 
 ## Top Artists
 
@@ -39,6 +39,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb652b1738f121da382c3ab77b" alt="" width="50" /> | ONEUS                                  | [🔗](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb0222fa7cba5da5c28ea5d296" alt="" width="50" /> | BTOB                                   | [🔗](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ea98681c90c252e7cde48e8" alt="" width="50" /> | VERIVERY                               | [🔗](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb8b1752dc8c0f2dce9abc2dbc" alt="" width="50" /> | THE BOYZ                               | [🔗](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba60ea8fce338724271ae273e" alt="" width="50" /> | Play-N-Skillz                          | [🔗](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebbde67f9fdaf3531de31caad2" alt="" width="50" /> | Leslie Grace                           | [🔗](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb125d29add59b1d82aa236423" alt="" width="50" /> | 2PM                                    | [🔗](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) |
@@ -53,7 +54,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | Halsey                                 | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb080109ba641204f8c80d2b5e" alt="" width="50" /> | Beast                                  | [🔗](https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb474fcd69ed9914043b30afde" alt="" width="50" /> | KINGDOM                                | [🔗](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8b1752dc8c0f2dce9abc2dbc" alt="" width="50" /> | THE BOYZ                               | [🔗](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) |
 
 </details>
 
@@ -126,6 +126,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27316b78257b6dd69d27a2b20de" alt="" width="50" /> | TREASURE EP.2: Zero To One                         | [🔗](https://open.spotify.com/album/2PQ8cQ8WzAJJkWYT2Ydmhw) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273676c5cfc0c0f7ba0039adbba" alt="" width="50" /> | TREASURE EP.1: All to Zero                         | [🔗](https://open.spotify.com/album/4ayTucmOGwLd0WrJddrUwx) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731544041d0285585cc92c2709" alt="" width="50" /> | THE BOYZ 6TH MINI ALBUM [THRILL-ING]               | [🔗](https://open.spotify.com/album/0lh0pZ8GjZGrAhzIG4Jn0E) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732fd0233f39f381edbb84c26b" alt="" width="50" /> | THE BOYZ 5th MINI ALBUM [CHASE]                    | [🔗](https://open.spotify.com/album/6HwY3FwprtqsmMuoLnXWhT) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27390831ba9ed4aa3b89fd6b81c" alt="" width="50" /> | Street Man Fighter Original Vol.4 (Crew Songs)     | [🔗](https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | Still Life                                         | [🔗](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d64e2f339a0a9ea967b308e" alt="" width="50" /> | Step Out of Clé (English Ver.)                     | [🔗](https://open.spotify.com/album/2BBeNPEEevRiYISKYEnGvc) |
@@ -166,7 +167,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27390ad9f6d2ba8838a689999cc" alt="" width="50" /> | Lucifer - The 2nd Album                            | [🔗](https://open.spotify.com/album/4jNPKKJ0NL349RXPx7y9f4) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273eb366517758754ca13a4adf5" alt="" width="50" /> | Love&Letter repackage album                        | [🔗](https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737c4382c3305785dfd04d5d01" alt="" width="50" /> | Liminality - EP.LOVE                               | [🔗](https://open.spotify.com/album/5zh19l4Nbzqd8h9Y7F74do) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27305de9858d5c447c247f6ce21" alt="" width="50" /> | LUPIN                                              | [🔗](https://open.spotify.com/album/361AnnYEYLl0Z7zF7Xo0Dq) |
 
 </details>
 
@@ -198,6 +198,7 @@
 |                  3 | [FNC ENTERTAINMENT](../labels/fnc_entertainment.md)                 |
 |                  2 | [우조엔터테인먼트](../labels/________.md)                                   |
 |                  2 | [RBW Inc.](../labels/rbw_inc_.md)                                   |
+|                  2 | [Cre.ker Entertainment](../labels/cre_ker_entertainment.md)         |
 |                  1 | [브레이브 엔터테인먼트](../labels/___________.md)                             |
 |                  1 | [㈜ 동요엔터테인먼트](../labels/__________.md)                               |
 |                  1 | [Transparent Arts](../labels/transparent_arts.md)                   |
@@ -206,7 +207,6 @@
 |                  1 | [JELLYFISH ENTERTAINMENT](../labels/jellyfish_entertainment.md)     |
 |                  1 | [Imperial Distribution](../labels/imperial_distribution.md)         |
 |                  1 | [Fantagio](../labels/fantagio.md)                                   |
-|                  1 | [Cre.ker Entertainment](../labels/cre_ker_entertainment.md)         |
 |                  1 | [CJ E&M MUSIC](../labels/cj_e_m_music.md)                           |
 |                  1 | [ADA Korea](../labels/ada_korea.md)                                 |
 
@@ -238,8 +238,8 @@
 | WONDERLAND                 | Singularity                         |
 | District 9                 | Boy in time - HUI Solo              |
 | One In A Billion           | miss you (Hyunjin)                  |
-| Pirate King                | Deep end (Felix)                    |
-| CHEESE                     | i hate to admit (Bang Chan)         |
+| CHEESE                     | Deep end (Felix)                    |
+| Pirate King                | i hate to admit (Bang Chan)         |
 
 | 10 most Speechy tracks            | 10 least Speechy tracks        |
 |:----------------------------------|:-------------------------------|
@@ -264,8 +264,8 @@
 | RUN (HAN)                   | Attention, please!         |
 | Missing You                 | Cyberpunk                  |
 | Singularity                 | Tamed-Dashed               |
-| Back 2 U (AM 01:27)         | Easy                       |
-| Sorry                       | Mr. Simple                 |
+| Back 2 U (AM 01:27)         | Mr. Simple                 |
+| Sorry                       | Easy                       |
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks                 |
 |:------------------------------|:---------------------------------------------|
@@ -278,7 +278,7 @@
 | Airplane pt.2                 | Love is New Gravity                          |
 | Sour                          | WONDERLAND                                   |
 | Doom Du Doom                  | HALA HALA (Hearts Awakened, Live Alive)      |
-| Ko Ko Bop                     | ParadoXXX Invasion                           |
+| Ko Ko Bop                     | TFW (That Feeling When)                      |
 
 | 10 most Live tracks             | 10 least Live tracks       |
 |:--------------------------------|:---------------------------|

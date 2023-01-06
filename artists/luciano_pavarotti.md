@@ -26,7 +26,6 @@
 - classical tenor
 - italian tenor
 - opera
-- operatic pop
 
 ## Tracks
 

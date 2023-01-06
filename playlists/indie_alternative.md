@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273028c3bb4b81ee71dd73d1596ab67616d0000b27392c885317fbe4bfa680109b4ab67616d0000b273d0ec2db731952a7efabc6397ab67616d0000b273df55e326ed144ab4f5cecf95" alt="Indie/Alternative" width="100" />
 
-[177 songs](indie_alternative_tracks.md)
+[179 songs](indie_alternative_tracks.md)
 
 ## Top Artists
 
@@ -13,7 +13,7 @@
 
 
 <details>
-<summary>See all 81 artists</summary>
+<summary>See all 82 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                                         | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------|:------------------------------------------------------------|
@@ -38,6 +38,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865" alt="" width="50" /> | Paramore                                                       | [🔗](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb920dc1f617550de8388f368e" alt="" width="50" /> | Imagine Dragons                                                | [🔗](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb66b27eccb69756f8eceabc23" alt="" width="50" /> | Glass Animals                                                  | [🔗](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8167bcebaf508dc6c3459b1" alt="" width="50" /> | Maggie Rogers                                                  | [🔗](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb196972172c37d934d9ca8093" alt="" width="50" /> | Twenty One Pilots                                              | [🔗](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb60c3e9abe7327c0097738f22" alt="" width="50" /> | Sean Paul                                                      | [🔗](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf01bf904b446e4a043acb867" alt="" width="50" /> | The Script                                                     | [🔗](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) |
@@ -65,7 +66,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc1dc943555dfa1ee2a107e5" alt="" width="50" /> | K/DA                                                           | [🔗](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd3a1193ab04e0fb2b297e619" alt="" width="50" /> | Conan Gray                                                     | [🔗](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d800f202dd15af03179876b" alt="" width="50" /> | Jess Glynne                                                    | [🔗](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8167bcebaf508dc6c3459b1" alt="" width="50" /> | Maggie Rogers                                                  | [🔗](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd06f948216f34ea0298aef43" alt="" width="50" /> | Caroline Polachek                                              | [🔗](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb36c6d31f2ba27e1431a0e6f1" alt="" width="50" /> | Anjulie                                                        | [🔗](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb379e885a01898367bfcd0c44" alt="" width="50" /> | Caro Emerald                                                   | [🔗](https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d998e7541724c918777b8ca" alt="" width="50" /> | League of Legends                                              | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
@@ -108,7 +109,7 @@
 
 
 <details>
-<summary>See all 99 albums</summary>
+<summary>See top 100 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                                      | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -164,6 +165,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f69bd9abbfeb819840993207" alt="" width="50" /> | The Downward Spiral                                                        | [🔗](https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732ced1760b648799e697e8e02" alt="" width="50" /> | Taxidriver OST Part.1                                                      | [🔗](https://open.spotify.com/album/3PNXlS9tggXmCm1hrlHDcQ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730d0837e34a3fcc57de9fc93d" alt="" width="50" /> | Sway                                                                       | [🔗](https://open.spotify.com/album/3fSRbKgYW6kcR1ZFMaaNV4) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730fdfb62956211c999c39a5a3" alt="" width="50" /> | Surrender                                                                  | [🔗](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273465828f135d5dc4e627963a9" alt="" width="50" /> | SuperRock (All Folked Up)                                                  | [🔗](https://open.spotify.com/album/4PEc1CBBlhpGzswmWjLyFK) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d2efe43d5b7ebc7cb60ca81" alt="" width="50" /> | Strange Trails                                                             | [🔗](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27367eda217860e86c43481a5cb" alt="" width="50" /> | Solo (feat. Demi Lovato)                                                   | [🔗](https://open.spotify.com/album/1q7a5wZeti0neU2jDn8Dz3) |
@@ -203,6 +205,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="" width="50" /> | CRASH                                                                      | [🔗](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734b20e4a8e06f19bcd51a5406" alt="" width="50" /> | Bombs Away                                                                 | [🔗](https://open.spotify.com/album/2Yi29VOccHCwktsZNqtxbt) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731a104e8630a97b573201f655" alt="" width="50" /> | Blue Neighbourhood (Deluxe)                                                | [🔗](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731bf7d80f4a7bf4ed02da9fad" alt="" width="50" /> | Billions                                                                   | [🔗](https://open.spotify.com/album/4DpAPqdJ1jVhoWZrxWLRH5) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b0ed835957dbf3c63184a3bc" alt="" width="50" /> | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] | [🔗](https://open.spotify.com/album/6snPKZGUbpydW2XJu9ievq) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733a2a91f99d869c4ca51362ff" alt="" width="50" /> | Aussie Legends                                                             | [🔗](https://open.spotify.com/album/3IGRFGa4ErR0CU8aMMrRql) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27398d4c378a8c78e84bfcf7743" alt="" width="50" /> | Anjulie                                                                    | [🔗](https://open.spotify.com/album/13ablPhINDfXMbbvgX7eLw) |
@@ -210,7 +213,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730f94f53a1c9c60d953ffd2f2" alt="" width="50" /> | Ambitions                                                                  | [🔗](https://open.spotify.com/album/0p1YL9nzIuKTonZH6Gq58i) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730595db077a6e829ba4bd6dea" alt="" width="50" /> | Album One                                                                  | [🔗](https://open.spotify.com/album/60nJMMPYjHWNjli6APs40v) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="" width="50" /> | ALL OUT                                                                    | [🔗](https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d5f3de2d6bacdfe22f1f0d52" alt="" width="50" /> | A New Kind Of Love (Demo)                                                  | [🔗](https://open.spotify.com/album/484SKRaXGq7m9VV0rmSyeb) |
 
 </details>
 
@@ -221,7 +223,7 @@
 
 
 <details>
-<summary>See all 67 labels</summary>
+<summary>See all 68 labels</summary>
 
 |   Number of Tracks | Label                                                                                     |
 |-------------------:|:------------------------------------------------------------------------------------------|
@@ -255,6 +257,7 @@
 |                  2 | [Kid Ina Korner](../labels/kid_ina_korner.md)                                             |
 |                  2 | [Interscope](../labels/interscope.md)                                                     |
 |                  2 | [Epic](../labels/epic.md)                                                                 |
+|                  2 | [Capitol Records](../labels/capitol_records.md)                                           |
 |                  1 | [half·alive](../labels/half_alive.md)                                                     |
 |                  1 | [ZAR](../labels/zar.md)                                                                   |
 |                  1 | [Wyvern Lingo](../labels/wyvern_lingo.md)                                                 |
@@ -272,6 +275,7 @@
 |                  1 | [Riot Games](../labels/riot_games.md)                                                     |
 |                  1 | [Republic Records](../labels/republic_records.md)                                         |
 |                  1 | [RCA Victor](../labels/rca_victor.md)                                                     |
+|                  1 | [Perpetual Novice](../labels/perpetual_novice.md)                                         |
 |                  1 | [Parlophone Denmark](../labels/parlophone_denmark.md)                                     |
 |                  1 | [Not specified](../labels/not_specified.md)                                               |
 |                  1 | [Music Recipe](../labels/music_recipe.md)                                                 |
@@ -289,7 +293,6 @@
 |                  1 | [EMI](../labels/emi.md)                                                                   |
 |                  1 | [Down Up Down Music](../labels/down_up_down_music.md)                                     |
 |                  1 | [Decca (UMO)](../labels/decca__umo_.md)                                                   |
-|                  1 | [Capitol Records](../labels/capitol_records.md)                                           |
 |                  1 | [Big Beat Records](../labels/big_beat_records.md)                                         |
 |                  1 | [Arista](../labels/arista.md)                                                             |
 
@@ -306,19 +309,19 @@
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
-|                 59 | [pop](../genres/pop.md)                             |
+|                 61 | [pop](../genres/pop.md)                             |
+|                 25 | indie pop                                           |
 |                 23 | [rock](../genres/rock.md)                           |
-|                 23 | indie pop                                           |
 |                 20 | modern rock                                         |
-|                 19 | [dance pop](../genres/dance_pop.md)                 |
-|                 19 | [art pop](../genres/art_pop.md)                     |
-|                 17 | [electropop](../genres/electropop.md)               |
+|                 20 | [dance pop](../genres/dance_pop.md)                 |
+|                 20 | [art pop](../genres/art_pop.md)                     |
+|                 18 | [electropop](../genres/electropop.md)               |
+|                 17 | [lilith](../genres/lilith.md)                       |
 |                 17 | baroque pop                                         |
 |                 16 | uk alternative pop                                  |
 |                 16 | permanent wave                                      |
 |                 14 | indie rock                                          |
 |                 13 | nz pop                                              |
-|                 13 | [lilith](../genres/lilith.md)                       |
 |                 13 | bergen indie                                        |
 |                 13 | alternative rock                                    |
 |                 12 | metropopolis                                        |
@@ -354,6 +357,7 @@
 |                  3 | stomp and holler                                    |
 |                  3 | steampunk                                           |
 |                  3 | scottish singer-songwriter                          |
+|                  3 | indietronica                                        |
 |                  3 | comic                                               |
 |                  3 | [acoustic pop](../genres/acoustic_pop.md)           |
 |                  2 | washington indie                                    |
@@ -364,7 +368,6 @@
 |                  2 | pop emo                                             |
 |                  2 | pixie                                               |
 |                  2 | irish singer-songwriter                             |
-|                  2 | indietronica                                        |
 |                  2 | gauze pop                                           |
 |                  2 | chamber pop                                         |
 |                  2 | celtic rock                                         |
@@ -390,6 +393,7 @@
 |                  1 | [k-pop girl group](../genres/k_pop_girl_group.md)   |
 |                  1 | japanese emo                                        |
 |                  1 | j-rock                                              |
+|                  1 | j-poprock                                           |
 |                  1 | j-pop                                               |
 |                  1 | italian pop                                         |
 |                  1 | irish pop                                           |
@@ -401,11 +405,10 @@
 |                  1 | indie folk                                          |
 |                  1 | grunge                                              |
 |                  1 | folk-pop                                            |
+|                  1 | escape room                                         |
 |                  1 | elephant 6                                          |
 |                  1 | electronic rock                                     |
 |                  1 | dutch pop                                           |
-|                  1 | downtempo                                           |
-|                  1 | danish pop                                          |
 
 </details>
 
@@ -414,20 +417,20 @@
 
 | 10 most Danceable tracks      | 10 least Danceable tracks     |
 |:------------------------------|:------------------------------|
-| Fidelity                      | Does He Love You?             |
-| On the Radio                  | What Kind Of Man              |
-| Somebody That I Used To Know  | Radio                         |
-| Good Intent                   | In the Aeroplane Over the Sea |
+| Fidelity                      | What Kind Of Man              |
+| On the Radio                  | Radio                         |
+| Somebody That I Used To Know  | In the Aeroplane Over the Sea |
+| Good Intent                   | That's Where I Am             |
 | Dreamer                       | Shades Of Cool                |
 | Rather Be (feat. Jess Glynne) | No Surprises                  |
 | Tick Tock (feat. 24kGoldn)    | Paranoid Android              |
 | still feel.                   | Norman fucking Rockwell       |
 | Believer                      | Born To Die                   |
-| 1979 - Remastered 2012        | Pyramid Song                  |
+| Recovery                      | Pyramid Song                  |
 
 | 10 most Energetic tracks   | 10 least Energetic tracks       |
 |:---------------------------|:--------------------------------|
-| Knights of Cydonia         | Odi Et Amo                      |
+| Knights of Cydonia         | Icarus                          |
 | End Of All Hope            | Dreamer                         |
 | My Happy Ending            | I Will Follow You into the Dark |
 | Everybody Talks            | Norman fucking Rockwell         |
@@ -464,18 +467,18 @@
 | Plain Gold Ring                 | End Of All Hope            |
 | Unknown (To You)                | The Phantom Of The Opera   |
 
-| 10 most Instrumental tracks    | 10 least Instrumental tracks     |
-|:-------------------------------|:---------------------------------|
-| A Better Son/Daughter          | Cameo Lover                      |
-| Animals                        | Hide and Seek                    |
-| Weird Fishes/ Arpeggi          | Two Way Street                   |
-| Street Spirit (Fade Out)       | You Oughta Know                  |
-| 1979 - Remastered 2012         | Black Horse And The Cherry Tree  |
-| Coal Miners                    | G Train                          |
-| Pyramid Song                   | Come On Closer                   |
-| Swan Song                      | Automatonic Electronic Harmonics |
-| The Night We Met               | Breakeven                        |
-| Mantra for a Struggling Artist | You've Got The Love              |
+| 10 most Instrumental tracks    | 10 least Instrumental tracks   |
+|:-------------------------------|:-------------------------------|
+| A Better Son/Daughter          | Boom                           |
+| Animals                        | Say My Name                    |
+| Weird Fishes/ Arpeggi          | What Kind Of Man               |
+| Street Spirit (Fade Out)       | Everybody Talks                |
+| 1979 - Remastered 2012         | Dark Paradise                  |
+| Coal Miners                    | Flesh & Bone                   |
+| Pyramid Song                   | The Good War                   |
+| Swan Song                      | VILLAIN                        |
+| The Night We Met               | The Man Who Can't Be Moved     |
+| Mantra for a Struggling Artist | I'm Not Calling You A Liar     |
 
 | 10 most Live tracks   | 10 least Live tracks                                                       |
 |:----------------------|:---------------------------------------------------------------------------|

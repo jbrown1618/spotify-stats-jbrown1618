@@ -1,6 +1,6 @@
 # pop
 
-[481 songs](pop_tracks.md)
+[480 songs](pop_tracks.md)
 
 ## Top Artists
 
@@ -57,7 +57,6 @@
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson                                                    | [🔗](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | Jessie J                                                       | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebee954a3b5418065c2fe253fb" alt="" width="50" /> | Olivia Rodrigo                                                 | [🔗](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7eb7f6371aad8e67e01f0a03" alt="" width="50" /> | SZA                                                            | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd66f1e0c883f319443d68c45" alt="" width="50" /> | Lil Nas X                                                      | [🔗](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e2e2c78de847c4d9b12d32f" alt="" width="50" /> | Charlie Puth                                                   | [🔗](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | Iggy Azalea                                                    | [🔗](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) |
@@ -82,6 +81,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA                                                           | [🔗](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9ce6b84393575f91c4f4634" alt="" width="50" /> | B.I                                                            | [🔗](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eba5205abffd84341e5bace828" alt="" width="50" /> | Selena Gomez                                                   | [🔗](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7eb7f6371aad8e67e01f0a03" alt="" width="50" /> | SZA                                                            | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a398209a4ef3360dce2dec4" alt="" width="50" /> | Snoop Dogg                                                     | [🔗](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb00e1d52d9f1363c6f2c1bcd0" alt="" width="50" /> | Jonas Brothers                                                 | [🔗](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c44e078944196a8c1eec256" alt="" width="50" /> | Colby O'Donis                                                  | [🔗](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) |
@@ -246,7 +246,7 @@
 |                 30 | [Taylor Swift](../labels/taylor_swift.md)                                                                           |
 |                 30 | [Interscope](../labels/interscope.md)                                                                               |
 |                 29 | [Big Machine Records](../labels/big_machine_records.md)                                                             |
-|                 25 | [RCA Records Label](../labels/rca_records_label.md)                                                                 |
+|                 24 | [RCA Records Label](../labels/rca_records_label.md)                                                                 |
 |                 24 | [Polydor Records](../labels/polydor_records.md)                                                                     |
 |                 21 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
 |                 20 | [Atlantic Records](../labels/atlantic_records.md)                                                                   |
@@ -298,7 +298,6 @@
 |                  1 | [VÉRITÉ](../labels/v_rit_.md)                                                                                       |
 |                  1 | [Universal Music New Zealand Limited](../labels/universal_music_new_zealand_limited.md)                             |
 |                  1 | [Universal Music Group](../labels/universal_music_group.md)                                                         |
-|                  1 | [Top Dawg Entertainment](../labels/top_dawg_entertainment.md)                                                       |
 |                  1 | [Teleport Records](../labels/teleport_records.md)                                                                   |
 |                  1 | [Spinnin' Records](../labels/spinnin__records.md)                                                                   |
 |                  1 | [Sony Music UK](../labels/sony_music_uk.md)                                                                         |
@@ -341,6 +340,7 @@
 |                  1 | [Bad Dreams Records](../labels/bad_dreams_records.md)                                                               |
 |                  1 | [BPG](../labels/bpg.md)                                                                                             |
 |                  1 | [Astralwerks (ASW)](../labels/astralwerks__asw_.md)                                                                 |
+|                  1 | [Arista](../labels/arista.md)                                                                                       |
 
 </details>
 
@@ -353,9 +353,9 @@
 | Anaconda                        | Once Upon Another Time      |
 | WAP (feat. Megan Thee Stallion) | Gravity                     |
 | Billie Jean                     | That's Where I Am           |
-| Pretty Please                   | Shades Of Cool              |
-| Sally Walker                    | Stay                        |
-| 1, 2, 3, 4                      | Norman fucking Rockwell     |
+| Pretty Please                   | Stay                        |
+| 1, 2, 3, 4                      | Shades Of Cool              |
+| Sally Walker                    | Norman fucking Rockwell     |
 | bury a friend                   | Fix You                     |
 | Coño                            | Already Gone                |
 | I Think He Knows                | Born To Die                 |
@@ -380,8 +380,8 @@
 | Hold Up                         | no body, no crime (feat. HAIM) |
 | Vigilante Shit                  | Begin Again                    |
 | Irreplaceable                   | Chasing Pavements              |
-| WAP (feat. Megan Thee Stallion) | Set Fire to the Rain           |
-| bad guy                         | All Too Well                   |
+| bad guy                         | Set Fire to the Rain           |
+| WAP (feat. Megan Thee Stallion) | All Too Well                   |
 | Bubblegum (feat. Tyga)          | The Scientist                  |
 | 7 rings                         | Breakeven                      |
 | bury a friend                   | Satellite Call                 |

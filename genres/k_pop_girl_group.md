@@ -1,6 +1,6 @@
 # k-pop girl group
 
-[382 songs](k_pop_girl_group_tracks.md)
+[381 songs](k_pop_girl_group_tracks.md)
 
 ## Top Artists
 
@@ -35,11 +35,11 @@
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b27336adcea4e93245f1fec547df" alt="" width="50" /> | AOA                                                  | [🔗](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc1dc943555dfa1ee2a107e5" alt="" width="50" /> | K/DA                                                 | [🔗](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d998e7541724c918777b8ca" alt="" width="50" /> | League of Legends                                    | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
-|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0cc2045ff4e90d12df91cc3" alt="" width="50" /> | f(x)                                                 | [🔗](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb95f4928ac77d31b53626dab3" alt="" width="50" /> | PIXY                                                 | [🔗](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb5b1a291b0a6a689091d54d8b" alt="" width="50" /> | IVE                                                  | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273dd8c3b43984ed746176ac0cf" alt="" width="50" /> | PinkFantasy                                          | [🔗](https://open.spotify.com/artist/5syu5kN4a5f4rgMCRGlnZp) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eba6b0d348c125a072e5284b3e" alt="" width="50" /> | IZ*ONE                                               | [🔗](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) |
+|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0cc2045ff4e90d12df91cc3" alt="" width="50" /> | f(x)                                                 | [🔗](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | SISTAR                                               | [🔗](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb3202449ae19d68607e3f1530" alt="" width="50" /> | NMIXX                                                | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb30a517d1b703c3eabdac2855" alt="" width="50" /> | Wonder Girls                                         | [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) |
@@ -136,7 +136,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2735fe0013ebb4022adc0f042be" alt="" width="50" /> | Summer Special [Flip That]                  | [🔗](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273af2fda9fb591d43c355c2ac3" alt="" width="50" /> | STAYDOM                                     | [🔗](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27318a4a215052e9f396864bd73" alt="" width="50" /> | SQUARE TWO                                  | [🔗](https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273231a1b74cc820bb632de108c" alt="" width="50" /> | SQUARE ONE                                  | [🔗](https://open.spotify.com/album/0AcFaK32ui9rF2ySEdXrv4) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273ff4ec21d7817138cabcc19bc" alt="" width="50" /> | SQUARE ONE                                  | [🔗](https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a38af5bbda76202e9d9eb8fd" alt="" width="50" /> | Rookie - The 4th Mini Album                 | [🔗](https://open.spotify.com/album/5Bg49LEfyoZzKpQsEwRCtI) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734fcfc7c45bef0c20cc65ec27" alt="" width="50" /> | Return of The Girl                          | [🔗](https://open.spotify.com/album/28p4jKCNlbLUXaZ24iYLuD) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273dd525e34b35a55ca3763e28d" alt="" width="50" /> | Raid of Dream                               | [🔗](https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs) |
@@ -204,7 +204,7 @@
 
 |   Number of Tracks | Label                                                                                                               |
 |-------------------:|:--------------------------------------------------------------------------------------------------------------------|
-|                 82 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
+|                 81 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
 |                 63 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 25 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
 |                 24 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                                                               |
@@ -296,8 +296,8 @@
 | Secret                     | You Never Know              |
 | Oh!                        | STAY                        |
 | Mr.Mr.                     | HANN (Alone in winter)      |
-| Panorama                   | Hope Not                    |
-| Very Very Very             | The Happiest Girl           |
+| Very Very Very             | Hope Not                    |
+| Panorama                   | The Happiest Girl           |
 
 | 10 most Speechy tracks        | 10 least Speechy tracks   |
 |:------------------------------|:--------------------------|
@@ -308,8 +308,8 @@
 | Signal                        | In My Dreams              |
 | You Better Run                | LOVE FOOL                 |
 | Girls                         | YOUNG LUV                 |
-| Be Natural                    | Gee                       |
-| Love So Sweet                 | Hope Not                  |
+| Be Natural                    | Hope Not                  |
+| Love So Sweet                 | Gee                       |
 | O.O                           | Moonlight Melody          |
 
 | 10 most Acoustic tracks   | 10 least Acoustic tracks   |
@@ -320,22 +320,22 @@
 | Hurt                      | 달라달라 (DALLA DALLA)         |
 | Jazz Bar                  | LA DI DA                   |
 | ZOOM                      | DALLA DALLA - English Ver. |
-| Starry Night              | RUN2U                      |
-| Wind flower               | Adios                      |
+| Wind flower               | RUN2U                      |
+| Starry Night              | Adios                      |
 | Moonlight Melody          | Red Light                  |
 | The Happiest Girl         | Poison                     |
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| You and I (Park Bom)          | Ice Cream Cake                 |
-| Adios                         | Bad Boy                        |
-| YEPPI YEPPI                   | Red Flavor                     |
-| So Hot                        | You Better Know                |
-| I Am The Best                 | Umpah Umpah                    |
-| Power Up                      | Be Natural                     |
-| BBoom BBoom                   | #Cookie Jar                    |
-| In My Dreams                  | Rookie                         |
-| BAAM                          | 247                            |
+| You and I (Park Bom)          | Bad Boy                        |
+| Adios                         | Red Flavor                     |
+| YEPPI YEPPI                   | You Better Know                |
+| So Hot                        | Umpah Umpah                    |
+| I Am The Best                 | Be Natural                     |
+| Power Up                      | #Cookie Jar                    |
+| BBoom BBoom                   | Rookie                         |
+| In My Dreams                  | 247                            |
+| BAAM                          | WILDSIDE                       |
 | Star                          | I'll Make You Cry              |
 
 | 10 most Live tracks   | 10 least Live tracks          |

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="Sharon RPD" width="100" />
 
-[37 songs](sharon_rpd_tracks.md)
+[39 songs](sharon_rpd_tracks.md)
 
 ## Top Artists
 
@@ -17,8 +17,9 @@
 
 |   Number of Tracks | Art                                                                                              | Artist                                 | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:------------------------------------------------------------|
-|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)   | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
+|                  6 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)   | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)               | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../artists/aespa.md)           | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5b1a291b0a6a689091d54d8b" alt="" width="50" /> | IVE                                    | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb6199c3c2f414880e2b9077a9" alt="" width="50" /> | NewJeans                               | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)       | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
@@ -32,7 +33,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7c4240b7951da248f3404e42" alt="" width="50" /> | Steve Aoki                             | [🔗](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc6de192c5941f6605bb9c6ad" alt="" width="50" /> | Weeekly                                | [🔗](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfbb4dd024df495265bb16c90" alt="" width="50" /> | GOT the beat                           | [🔗](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../artists/aespa.md)           | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8543b9b2b5d153d37c46606d" alt="" width="50" /> | LISA                                   | [🔗](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | Young Thug                             | [🔗](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd86145072666f72cc5e833d8" alt="" width="50" /> | Monsta X                               | [🔗](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) |
@@ -56,7 +56,7 @@
 
 
 <details>
-<summary>See all 34 albums</summary>
+<summary>See all 36 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                            | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------|:-----------------------------------------------------------|
@@ -72,6 +72,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="" width="50" /> | Slime & B                                        | [🔗](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273af2fda9fb591d43c355c2ac3" alt="" width="50" /> | STAYDOM                                          | [🔗](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27318a4a215052e9f396864bd73" alt="" width="50" /> | SQUARE TWO                                       | [🔗](https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ff4ec21d7817138cabcc19bc" alt="" width="50" /> | SQUARE ONE                                       | [🔗](https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273decd839dd4fef3faf64c5fd5" alt="" width="50" /> | SEVENTEEN 4th Album 'Face the Sun'               | [🔗](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273830de2e836036f181df598d0" alt="" width="50" /> | Queendom - The 6th Mini Album                    | [🔗](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="" width="50" /> | Proof                                            | [🔗](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) |
@@ -84,6 +85,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | Love Yourself 結 'Answer'                         | [🔗](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093" alt="" width="50" /> | LOVE DIVE                                        | [🔗](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19" alt="" width="50" /> | LALISA                                           | [🔗](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Girls - The 2nd Mini Album                       | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555" alt="" width="50" /> | FEARLESS                                         | [🔗](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | ELEVEN                                           | [🔗](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fddc804f96cdd6a7de9bcc09" alt="" width="50" /> | DUMB DUMB                                        | [🔗](https://open.spotify.com/album/24sFioeGsPtxa5fD6VzL8b) |
@@ -108,17 +110,17 @@
 
 |   Number of Tracks | Label                                                                 |
 |-------------------:|:----------------------------------------------------------------------|
-|                  6 | [YG Entertainment](../labels/yg_entertainment.md)                     |
+|                  7 | [YG Entertainment](../labels/yg_entertainment.md)                     |
 |                  6 | [Interscope](../labels/interscope.md)                                 |
 |                  5 | [SM Entertainment](../labels/sm_entertainment.md)                     |
 |                  5 | [BIGHIT MUSIC](../labels/bighit_music.md)                             |
 |                  3 | [Starship Entertainment](../labels/starship_entertainment.md)         |
 |                  3 | [Republic Records](../labels/republic_records.md)                     |
+|                  2 | [Warner Records](../labels/warner_records.md)                         |
 |                  2 | [SOURCE MUSIC](../labels/source_music.md)                             |
 |                  2 | [High Up Entertainment](../labels/high_up_entertainment.md)           |
 |                  2 | [BELIFT LAB](../labels/belift_lab.md)                                 |
 |                  2 | [ADOR](../labels/ador.md)                                             |
-|                  1 | [Warner Records](../labels/warner_records.md)                         |
 |                  1 | [THE BLACK LABEL](../labels/the_black_label.md)                       |
 |                  1 | [TEAM WANG records](../labels/team_wang_records.md)                   |
 |                  1 | [RCA Records Label](../labels/rca_records_label.md)                   |
@@ -143,8 +145,8 @@
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
-|                 26 | [k-pop](../genres/k_pop.md)                       |
-|                 16 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+|                 27 | [k-pop](../genres/k_pop.md)                       |
+|                 18 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 |                 12 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
 |                  2 | anime                                             |
 |                  1 | [r&b](../genres/r_b.md)                           |
@@ -164,10 +166,10 @@
 | ELEVEN                        | MIC Drop (Steve Aoki Remix) - Full Length Edition |
 | Holiday Party                 | Thunderous                                        |
 | Shut Down                     | FEVER                                             |
-| Attention                     | Hype Boy                                          |
-| LALISA                        | Dope                                              |
-| Ice Cream (with Selena Gomez) | Blow                                              |
-| BOSS                          | Black Mamba                                       |
+| WHISTLE                       | Hype Boy                                          |
+| Attention                     | Dope                                              |
+| LALISA                        | Blow                                              |
+| Ice Cream (with Selena Gomez) | Black Mamba                                       |
 
 | 10 most Energetic tracks                          | 10 least Energetic tracks   |
 |:--------------------------------------------------|:----------------------------|
@@ -184,8 +186,8 @@
 
 | 10 most Speechy tracks                            | 10 least Speechy tracks   |
 |:--------------------------------------------------|:--------------------------|
-| Ice Cream (with Selena Gomez)                     | DUMB DUMB                 |
-| Thunderous                                        | Holiday Party             |
+| Ice Cream (with Selena Gomez)                     | Holiday Party             |
+| Thunderous                                        | Illusion                  |
 | Dope                                              | Psycho                    |
 | Hype Boy                                          | LOVE DIVE                 |
 | LOCO                                              | Pretty Savage             |
@@ -195,31 +197,31 @@
 | Pink Venom                                        | Attention                 |
 | FEARLESS                                          | ASAP                      |
 
-| 10 most Acoustic tracks     | 10 least Acoustic tracks                          |
-|:----------------------------|:--------------------------------------------------|
-| Missing You                 | MIC Drop (Steve Aoki Remix) - Full Length Edition |
-| Hype Boy                    | Dynamite                                          |
-| Attention                   | LOCO                                              |
-| Thunderous                  | Pretty Savage                                     |
-| Psycho                      | Holiday Party                                     |
-| Queendom                    | GAMBLER                                           |
-| ASAP                        | Blow                                              |
-| Boy With Luv (feat. Halsey) | Shut Down                                         |
-| ANTIFRAGILE                 | LOVE DIVE                                         |
-| BAD GIRL (Prod. Czaer)      | RUN2U                                             |
+| 10 most Acoustic tracks     | 10 least Acoustic tracks   |
+|:----------------------------|:---------------------------|
+| Missing You                 | Dynamite                   |
+| Hype Boy                    | LOCO                       |
+| Attention                   | Pretty Savage              |
+| Thunderous                  | Holiday Party              |
+| Psycho                      | WHISTLE                    |
+| Queendom                    | GAMBLER                    |
+| ASAP                        | Blow                       |
+| Boy With Luv (feat. Halsey) | Shut Down                  |
+| ANTIFRAGILE                 | LOVE DIVE                  |
+| BAD GIRL (Prod. Czaer)      | RUN2U                      |
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| FEARLESS                      | Blow                           |
-| Black Mamba                   | ASAP                           |
-| LALISA                        | Dynamite                       |
-| DUMB DUMB                     | Run BTS                        |
-| Pretty Savage                 | Go Big or Go Home              |
+| FEARLESS                      | ASAP                           |
+| Black Mamba                   | Dynamite                       |
+| LALISA                        | Run BTS                        |
+| DUMB DUMB                     | Go Big or Go Home              |
+| Pretty Savage                 | WHISTLE                        |
 | Ice Cream (with Selena Gomez) | Queendom                       |
 | LOVE DIVE                     | Pink Venom                     |
 | LOCO                          | ELEVEN                         |
-| RUN2U                         | PLAYING WITH FIRE              |
-| Step Back                     | Shut Down                      |
+| Illusion                      | PLAYING WITH FIRE              |
+| RUN2U                         | Shut Down                      |
 
 | 10 most Live tracks   | 10 least Live tracks          |
 |:----------------------|:------------------------------|
@@ -228,11 +230,11 @@
 | LOCO                  | Blow                          |
 | HOT                   | Alcohol-Free                  |
 | LOVE DIVE             | Queendom                      |
-| RUN2U                 | City Girls                    |
-| Hype Boy              | ELEVEN                        |
-| Go Big or Go Home     | Run BTS                       |
-| Pink Venom            | Ice Cream (with Selena Gomez) |
-| Thunderous            | Holiday Party                 |
+| Illusion              | City Girls                    |
+| RUN2U                 | ELEVEN                        |
+| Hype Boy              | Run BTS                       |
+| Go Big or Go Home     | Ice Cream (with Selena Gomez) |
+| Pink Venom            | Holiday Party                 |
 
 | 10 most Happy tracks          | 10 least Happy tracks   |
 |:------------------------------|:------------------------|
