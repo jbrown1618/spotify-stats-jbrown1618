@@ -37,6 +37,7 @@ jobs:
         run: |
           cd ./spotify-stats
           pip install -r requirements.txt
+          echo '${{ secrets.SPOTIPY_CACHE }}' > .cache
           OUTPUT_DIR=../spotify-stats-jbrown1618 python main.py
           cd ../spotify-stats-jbrown1618
           git config --global user.name 'Josh Brown'
