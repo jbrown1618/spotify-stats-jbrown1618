@@ -1,6 +1,6 @@
 # dance pop
 
-[241 songs](dance_pop_tracks.md)
+[242 songs](dance_pop_tracks.md)
 
 ## Top Artists
 
@@ -20,7 +20,7 @@
 |                 11 | <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | [Dua Lipa](../artists/dua_lipa.md)           | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 |                 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | [Rihanna](../artists/rihanna.md)             | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 |                 11 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../artists/bruno_mars.md)       | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
-|                  8 | <img src="https://i.scdn.co/image/ab6761610000e5ebe8637c96a7aa2917eae3c54d" alt="" width="50" /> | Sia                                          | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
+|                  8 | <img src="https://i.scdn.co/image/ab6761610000e5ebec40474426f4401a4203dc9f" alt="" width="50" /> | Sia                                          | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e7e6ded87a4e0f65b5afcec" alt="" width="50" /> | Britney Spears                               | [🔗](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc9dcb7e4a97b4552e1224d6" alt="" width="50" /> | Katy Perry                                   | [🔗](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb727a2ac15afe659be999beba" alt="" width="50" /> | Doja Cat                                     | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
@@ -33,7 +33,7 @@
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb0db36498679f03f30606d45f" alt="" width="50" /> | Ellie Goulding                               | [🔗](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb46e7a06fa6dfefaed6a3f0db" alt="" width="50" /> | Shawn Mendes                                 | [🔗](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb63dc867958993e8458517d2b" alt="" width="50" /> | Backstreet Boys                              | [🔗](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) |
-|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb02651b19050d8bf64b18d40a" alt="" width="50" /> | Miley Cyrus                                  | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
+|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb5079bcf778c2d286de10e676" alt="" width="50" /> | Miley Cyrus                                  | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | Halsey                                       | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb2e42d906f4f9f672359e7379" alt="" width="50" /> | Usher                                        | [🔗](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bbad89a61061304ec842588" alt="" width="50" /> | P!nk                                         | [🔗](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) |
@@ -106,6 +106,7 @@
 |                  1 | <img src="nan" alt="" width="50" />                                                              | YEJI & RYUJIN of ITZY                        | [🔗](https://open.spotify.com/artist/4TYswX6bKUjM9rbEL7CMBH) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d800f202dd15af03179876b" alt="" width="50" /> | Jess Glynne                                  | [🔗](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb866f2a7fc5dffca7c22e5b7b" alt="" width="50" /> | Jax Jones                                    | [🔗](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd06f948216f34ea0298aef43" alt="" width="50" /> | Caroline Polachek                            | [🔗](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) |
 |                  1 | <img src="https://i.scdn.co/image/145b7b08e7f1de22d033e957c0888a5f9e0c99e6" alt="" width="50" /> | Leighton Meester                             | [🔗](https://open.spotify.com/artist/481VlDdXZAIRxnHyywNbXn) |
 |                  1 | <img src="https://i.scdn.co/image/8a522c7faa13cf4321ca6bea075fd97f75f40cfe" alt="" width="50" /> | Ying Yang Twins                              | [🔗](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496" alt="" width="50" /> | Anderson .Paak                               | [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) |
@@ -113,7 +114,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb08cd53940cbf5813ee5fe565" alt="" width="50" /> | Little Mix                                   | [🔗](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebaa2d9bd207a62adc3edf6631" alt="" width="50" /> | Florida Georgia Line                         | [🔗](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb49637fe719fddb8e90896f41" alt="" width="50" /> | Jhorrmountain                                | [🔗](https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o) |
-|                  1 | <img src="nan" alt="" width="50" />                                                              | Zachary Levi                                 | [🔗](https://open.spotify.com/artist/3XSyTI9ct70ZheMESAv2st) |
 
 </details>
 
@@ -237,7 +237,7 @@
 
 
 <details>
-<summary>See all 78 labels</summary>
+<summary>See all 79 labels</summary>
 
 |   Number of Tracks | Label                                                                                                                       |
 |-------------------:|:----------------------------------------------------------------------------------------------------------------------------|
@@ -291,6 +291,7 @@
 |                  1 | [Selena Gomez PS](../labels/selena_gomez_ps.md)                                                                             |
 |                  1 | [Roc Nation](../labels/roc_nation.md)                                                                                       |
 |                  1 | [Rihanna](../labels/rihanna.md)                                                                                             |
+|                  1 | [Perpetual Novice](../labels/perpetual_novice.md)                                                                           |
 |                  1 | [Parlophone UK](../labels/parlophone_uk.md)                                                                                 |
 |                  1 | [Nu America Music](../labels/nu_america_music.md)                                                                           |
 |                  1 | [Jonas Brothers Recording](../labels/jonas_brothers_recording.md)                                                           |
@@ -408,8 +409,8 @@
 | Material Girl                   | In the Name of Love                                                                                                |
 | Like a Virgin                   | Million Reasons                                                                                                    |
 | There's Nothing Holdin' Me Back | Youngblood                                                                                                         |
-| SexyBack (feat. Timbaland)      | Til It Happens To You                                                                                              |
-| Mercy                           | Because of You                                                                                                     |
+| Mercy                           | Til It Happens To You                                                                                              |
+| SexyBack (feat. Timbaland)      | Because of You                                                                                                     |
 | I'm a Slave 4 U                 | Stay                                                                                                               |
 | Sucker                          | One Last Time                                                                                                      |
 | Me Enamoré                      | Big Girls Cry                                                                                                      |

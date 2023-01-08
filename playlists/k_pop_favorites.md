@@ -13,7 +13,7 @@
 
 
 <details>
-<summary>See all 86 artists</summary>
+<summary>See all 85 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                               | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------|:------------------------------------------------------------|
@@ -52,6 +52,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="" width="50" /> | EVERGLOW                                             | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf1d6a7c024d667150db85c85" alt="" width="50" /> | TEN                                                  | [🔗](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb968ab271c895fb9cc245d6fe" alt="" width="50" /> | Billlie                                              | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb3202449ae19d68607e3f1530" alt="" width="50" /> | NMIXX                                                | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | PENTAGON                                             | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99713cdd2a68b0db306aad6" alt="" width="50" /> | TAEMIN                                               | [🔗](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8166baa6c8c9a5d1dbc41b5" alt="" width="50" /> | JOY                                                  | [🔗](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) |
@@ -91,13 +92,11 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebdbabadb9f03b5b3d5e0241e5" alt="" width="50" /> | JAMIE                                                | [🔗](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfe2339c232c5a840fc527402" alt="" width="50" /> | SEULGI                                               | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb065608c797a38d142082fc8a" alt="" width="50" /> | Punch                                                | [🔗](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3202449ae19d68607e3f1530" alt="" width="50" /> | NMIXX                                                | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc2c8185fc0902b43e35f671f" alt="" width="50" /> | JENNIE                                               | [🔗](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9954a1ab45b2404a7bff2a45" alt="" width="50" /> | OH MY GIRL                                           | [🔗](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb27132091d63ed72c5f8da310" alt="" width="50" /> | TAEIL                                                | [🔗](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb69d86a4744d275ed5259e743" alt="" width="50" /> | WayV                                                 | [🔗](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb65dd718aaa2c9b1be0218f76" alt="" width="50" /> | SURAN                                                | [🔗](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb20e1b84fe2767e52c4c828fd" alt="" width="50" /> | 2NE1                                                 | [🔗](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | Jackson Wang                                         | [🔗](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739e03d61c4f569348f1bedacd" alt="" width="50" /> | Girl's Day                                           | [🔗](https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd0701912e6fccf8427bc7361" alt="" width="50" /> | GFRIEND                                              | [🔗](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) |
@@ -138,6 +137,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | CHESHIRE                                                                | [🔗](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | BORDER : CARNIVAL                                                       | [🔗](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="" width="50" /> | ANTIFRAGILE                                                             | [🔗](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2738d64ee7e356e13a96062bd0b" alt="" width="50" /> | AD MARE                                                                 | [🔗](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c07b020417770f3385448f" alt="" width="50" /> | 回:Walpurgis Night                                                       | [🔗](https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | ‘The ReVe Festival’ Finale                                              | [🔗](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="" width="50" /> | ‘The ReVe Festival’ Day 1                                               | [🔗](https://open.spotify.com/album/2nLEiP268mSFZHW5dajM4R) |
@@ -197,7 +197,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273682ac678746ad21b6b799950" alt="" width="50" /> | Pity Party                                                              | [🔗](https://open.spotify.com/album/2yMHiLYBnrMsdUCUL3bFkU) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737752724657197df65e7c82f9" alt="" width="50" /> | Piano Man                                                               | [🔗](https://open.spotify.com/album/1kdURRaOTpDCQqsVIU5CiT) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dad8806d4958b875dd487f6e" alt="" width="50" /> | Paint Me Naked - SM STATION                                             | [🔗](https://open.spotify.com/album/4oj5R0SVazc5Eq3WnIC0e6) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736bd4012e2889d22821ab35b0" alt="" width="50" /> | ONLY                                                                    | [🔗](https://open.spotify.com/album/0uYGAR5pW8P76uOlrOYIMZ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | Not Shy                                                                 | [🔗](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737a393b04e8ced571618223e8" alt="" width="50" /> | Next Level                                                              | [🔗](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" alt="" width="50" /> | NewJeans 1st EP 'New Jeans'                                             | [🔗](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) |
@@ -229,73 +228,73 @@
 <details>
 <summary>See all 54 labels</summary>
 
-|   Number of Tracks | Label                                                                                   |
-|-------------------:|:----------------------------------------------------------------------------------------|
-|                 60 | [SM Entertainment](../labels/sm_entertainment.md)                                       |
-|                 18 | [Republic Records](../labels/republic_records.md)                                       |
-|                 17 | [YG Entertainment](../labels/yg_entertainment.md)                                       |
-|                 11 | [Interscope](../labels/interscope.md)                                                   |
-|                  9 | [BELIFT LAB](../labels/belift_lab.md)                                                   |
-|                  8 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                     |
-|                  7 | [RBW Inc.](../labels/rbw_inc_.md)                                                       |
-|                  7 | [Genie Music Corporation](../labels/genie_music_corporation.md)                         |
-|                  6 | [Universal Music LLC](../labels/universal_music_llc.md)                                 |
-|                  6 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                                   |
-|                  5 | [SOURCE MUSIC](../labels/source_music.md)                                               |
-|                  5 | [JYP Entertainment](../labels/jyp_entertainment.md)                                     |
-|                  5 | [BIGHIT MUSIC](../labels/bighit_music.md)                                               |
-|                  4 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)                               |
-|                  4 | [Kakao Entertainment](../labels/kakao_entertainment.md)                                 |
-|                  3 | [Warner Records](../labels/warner_records.md)                                           |
-|                  3 | [MNH ENTERTAINMENT](../labels/mnh_entertainment.md)                                     |
-|                  3 | [High Up Entertainment](../labels/high_up_entertainment.md)                             |
-|                  3 | [HYBE](../labels/hybe.md)                                                               |
-|                  3 | [EDAM Entertainment](../labels/edam_entertainment.md)                                   |
-|                  2 | [THE BLACK LABEL](../labels/the_black_label.md)                                         |
-|                  2 | [Starship Entertainment](../labels/starship_entertainment.md)                           |
-|                  2 | [MYSTIC STORY](../labels/mystic_story.md)                                               |
-|                  2 | [LABEL V](../labels/label_v.md)                                                         |
-|                  2 | [KQ Entertainment](../labels/kq_entertainment.md)                                       |
-|                  2 | [Fave Entertainment](../labels/fave_entertainment.md)                                   |
-|                  2 | [ADOR](../labels/ador.md)                                                               |
-|                  2 | [88rising Music](../labels/88rising_music.md)                                           |
-|                  1 | [드림캐쳐컴퍼니](../labels/_______.md)                                                         |
-|                  1 | [더라이브레이블](../labels/_______.md)                                                         |
-|                  1 | [YUEHUA ENTERTAINMENT KOREA](../labels/yuehua_entertainment_korea.md)                   |
-|                  1 | [WM Korea](../labels/wm_korea.md)                                                       |
-|                  1 | [WM Japan](../labels/wm_japan.md)                                                       |
-|                  1 | [WM Entertainment](../labels/wm_entertainment.md)                                       |
-|                  1 | [Universal Music Group International](../labels/universal_music_group_international.md) |
-|                  1 | [Transparent Arts](../labels/transparent_arts.md)                                       |
-|                  1 | [TEAM WANG records](../labels/team_wang_records.md)                                     |
-|                  1 | [Studio MaumC](../labels/studio_maumc.md)                                               |
-|                  1 | [Sony Music Labels Inc.](../labels/sony_music_labels_inc_.md)                           |
-|                  1 | [Million Market](../labels/million_market.md)                                           |
-|                  1 | [Makeus Entertainment](../labels/makeus_entertainment.md)                               |
-|                  1 | [MYSTIC ENTERTAINMENT](../labels/mystic_entertainment.md)                               |
-|                  1 | [Imperial Distribution](../labels/imperial_distribution.md)                             |
-|                  1 | [Hwa&Dam pictures](../labels/hwa_dam_pictures.md)                                       |
-|                  1 | [GU Music](../labels/gu_music.md)                                                       |
-|                  1 | [Feel Ghood Music](../labels/feel_ghood_music.md)                                       |
-|                  1 | [FNC ENTERTAINMENT](../labels/fnc_entertainment.md)                                     |
-|                  1 | [DREAMCATCHER COMPANY](../labels/dreamcatcher_company.md)                               |
-|                  1 | [Cre.ker Entertainment](../labels/cre_ker_entertainment.md)                             |
-|                  1 | [ChoongangICS](../labels/choongangics.md)                                               |
-|                  1 | [Capitol Records (CAP)](../labels/capitol_records__cap_.md)                             |
-|                  1 | [BlockBerryCreative](../labels/blockberrycreative.md)                                   |
-|                  1 | [Abyss Company](../labels/abyss_company.md)                                             |
-|                  1 | [2018 YG Entertainment](../labels/2018_yg_entertainment.md)                             |
+|   Number of Tracks | Label                                                                                                               |
+|-------------------:|:--------------------------------------------------------------------------------------------------------------------|
+|                 60 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
+|                 18 | [Republic Records](../labels/republic_records.md)                                                                   |
+|                 17 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
+|                 11 | [Interscope](../labels/interscope.md)                                                                               |
+|                  9 | [BELIFT LAB](../labels/belift_lab.md)                                                                               |
+|                  7 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                                                 |
+|                  7 | [RBW Inc.](../labels/rbw_inc_.md)                                                                                   |
+|                  6 | [Universal Music LLC](../labels/universal_music_llc.md)                                                             |
+|                  6 | [JYP Entertainment](../labels/jyp_entertainment.md)                                                                 |
+|                  6 | [Genie Music Corporation](../labels/genie_music_corporation.md)                                                     |
+|                  6 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                                                               |
+|                  5 | [SOURCE MUSIC](../labels/source_music.md)                                                                           |
+|                  5 | [BIGHIT MUSIC](../labels/bighit_music.md)                                                                           |
+|                  4 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)                                                           |
+|                  4 | [Kakao Entertainment](../labels/kakao_entertainment.md)                                                             |
+|                  3 | [Warner Records](../labels/warner_records.md)                                                                       |
+|                  3 | [MNH ENTERTAINMENT](../labels/mnh_entertainment.md)                                                                 |
+|                  3 | [High Up Entertainment](../labels/high_up_entertainment.md)                                                         |
+|                  3 | [HYBE](../labels/hybe.md)                                                                                           |
+|                  3 | [EDAM Entertainment](../labels/edam_entertainment.md)                                                               |
+|                  2 | [THE BLACK LABEL](../labels/the_black_label.md)                                                                     |
+|                  2 | [Starship Entertainment](../labels/starship_entertainment.md)                                                       |
+|                  2 | [MYSTIC STORY](../labels/mystic_story.md)                                                                           |
+|                  2 | [LABEL V](../labels/label_v.md)                                                                                     |
+|                  2 | [KQ Entertainment](../labels/kq_entertainment.md)                                                                   |
+|                  2 | [Fave Entertainment](../labels/fave_entertainment.md)                                                               |
+|                  2 | [ADOR](../labels/ador.md)                                                                                           |
+|                  2 | [88rising Music](../labels/88rising_music.md)                                                                       |
+|                  1 | [드림캐쳐컴퍼니](../labels/_______.md)                                                                                     |
+|                  1 | [더라이브레이블](../labels/_______.md)                                                                                     |
+|                  1 | [YUEHUA ENTERTAINMENT KOREA](../labels/yuehua_entertainment_korea.md)                                               |
+|                  1 | [WM Korea](../labels/wm_korea.md)                                                                                   |
+|                  1 | [WM Japan](../labels/wm_japan.md)                                                                                   |
+|                  1 | [WM Entertainment](../labels/wm_entertainment.md)                                                                   |
+|                  1 | [Universal Music Group International](../labels/universal_music_group_international.md)                             |
+|                  1 | [Transparent Arts](../labels/transparent_arts.md)                                                                   |
+|                  1 | [TEAM WANG records](../labels/team_wang_records.md)                                                                 |
+|                  1 | [Studio MaumC](../labels/studio_maumc.md)                                                                           |
+|                  1 | [Sony Music Labels Inc.](../labels/sony_music_labels_inc_.md)                                                       |
+|                  1 | [Million Market](../labels/million_market.md)                                                                       |
+|                  1 | [Makeus Entertainment](../labels/makeus_entertainment.md)                                                           |
+|                  1 | [MYSTIC ENTERTAINMENT](../labels/mystic_entertainment.md)                                                           |
+|                  1 | [Imperial Distribution](../labels/imperial_distribution.md)                                                         |
+|                  1 | [Hwa&Dam pictures](../labels/hwa_dam_pictures.md)                                                                   |
+|                  1 | [Genie Music Corporation;Stone Music Entertainment](../labels/genie_music_corporation_stone_music_entertainment.md) |
+|                  1 | [GU Music](../labels/gu_music.md)                                                                                   |
+|                  1 | [Feel Ghood Music](../labels/feel_ghood_music.md)                                                                   |
+|                  1 | [FNC ENTERTAINMENT](../labels/fnc_entertainment.md)                                                                 |
+|                  1 | [DREAMCATCHER COMPANY](../labels/dreamcatcher_company.md)                                                           |
+|                  1 | [Cre.ker Entertainment](../labels/cre_ker_entertainment.md)                                                         |
+|                  1 | [ChoongangICS](../labels/choongangics.md)                                                                           |
+|                  1 | [BlockBerryCreative](../labels/blockberrycreative.md)                                                               |
+|                  1 | [Abyss Company](../labels/abyss_company.md)                                                                         |
+|                  1 | [2018 YG Entertainment](../labels/2018_yg_entertainment.md)                                                         |
 
 </details>
 
 
 ## Genres
 
-![Bar chart of top 13 genres](../images/playlists/k_pop_favorites/genres.png)
+![Bar chart of top 12 genres](../images/playlists/k_pop_favorites/genres.png)
 
 
 <details>
-<summary>See all 13 genres</summary>
+<summary>See all 12 genres</summary>
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
@@ -310,7 +309,6 @@
 |                  1 | korean ost                                        |
 |                  1 | korean city pop                                   |
 |                  1 | k-rap                                             |
-|                  1 | [dance pop](../genres/dance_pop.md)               |
 |                  1 | chinese idol pop                                  |
 
 </details>
@@ -320,20 +318,20 @@
 
 | 10 most Danceable tracks   | 10 least Danceable tracks   |
 |:---------------------------|:----------------------------|
-| RUN (HAN)                  | LA DI DA                    |
-| Typa Girl                  | Just A Little Bit           |
-| BOOM                       | 7월 7일 One Of These Nights   |
-| 1, 2, 3, 4                 | Sparkling Night             |
-| ANTIFRAGILE                | Feel My Rhythm              |
-| The Boys                   | HOLO                        |
-| FEARLESS                   | Love poem                   |
-| Phase Me                   | Hello                       |
+| RUN (HAN)                  | Just A Little Bit           |
+| Typa Girl                  | 7월 7일 One Of These Nights   |
+| BOOM                       | Sparkling Night             |
+| 1, 2, 3, 4                 | Feel My Rhythm              |
+| ANTIFRAGILE                | HOLO                        |
+| The Boys                   | Love poem                   |
+| FEARLESS                   | Hello                       |
+| Phase Me                   | O.O                         |
 | DUMB DUMB                  | Like Water                  |
 | In the morning             | My sea                      |
 
 | 10 most Energetic tracks              | 10 least Energetic tracks   |
 |:--------------------------------------|:----------------------------|
-| RING X RING                           | BOOM                        |
+| RING X RING                           | 눈,코,입 (Eyes, Nose, Lips)    |
 | Girls                                 | 7월 7일 One Of These Nights   |
 | RING ma Bell (what a wonderful world) | Dream                       |
 | Heart Shaker                          | HOLO                        |
@@ -341,8 +339,8 @@
 | Feel My Rhythm                        | 무제(無題) (Untitled, 2014)     |
 | The Boys                              | Butter                      |
 | Hype Boy                              | My sea                      |
-| Sparkling Night                       | Gone                        |
-| Ice Cream Cake                        | ONLY                        |
+| Ice Cream Cake                        | Gone                        |
+| Sparkling Night                       | ONLY                        |
 
 | 10 most Speechy tracks   | 10 least Speechy tracks   |
 |:-------------------------|:--------------------------|
@@ -350,12 +348,12 @@
 | BBIBBI                   | RBB (Really Bad Boy)      |
 | Girls                    | Animal Farm               |
 | Sparkling Night          | HANN (Alone)              |
-| Sticker                  | Phase Me                  |
-| Crazy                    | Starlight                 |
+| O.O                      | Phase Me                  |
+| Sticker                  | Starlight                 |
+| Crazy                    | HOLO                      |
 | I GOT A BOY              | Je T'aime                 |
-| Back Door                | HOLO                      |
-| 2 Baddies                | Something                 |
-| RUN (HAN)                | Spark                     |
+| Back Door                | Something                 |
+| 2 Baddies                | Spark                     |
 
 | 10 most Acoustic tracks   | 10 least Acoustic tracks   |
 |:--------------------------|:---------------------------|
@@ -373,21 +371,21 @@
 | 10 most Instrumental tracks   | 10 least Instrumental tracks     |
 |:------------------------------|:---------------------------------|
 | YEPPI YEPPI                   | Hello                            |
-| I Am The Best                 | VILLAIN DIES                     |
-| FEARLESS                      | WINE (Feat.Changmo) (Prod. SUGA) |
-| Lion Heart                    | Bicycle                          |
-| Kill This Love                | Why So Lonely                    |
-| Why Not?                      | CALL ME BABY                     |
-| Black Mamba                   | SAY NO MORE                      |
-| In the morning                | THRILL RIDE                      |
-| Stay Tonight                  | Something                        |
-| Girls                         | Shut Down                        |
+| FEARLESS                      | VILLAIN DIES                     |
+| Lion Heart                    | WINE (Feat.Changmo) (Prod. SUGA) |
+| Kill This Love                | ONLY                             |
+| Why Not?                      | Bicycle                          |
+| Black Mamba                   | CALL ME BABY                     |
+| In the morning                | Why So Lonely                    |
+| Stay Tonight                  | WHISTLE                          |
+| Girls                         | SAY NO MORE                      |
+| MAGO                          | Shut Down                        |
 
 | 10 most Live tracks             | 10 least Live tracks        |
 |:--------------------------------|:----------------------------|
 | Piano Man                       | How You Like That           |
-| Sticker                         | Make A Wish (Birthday Song) |
-| Typa Girl                       | I Am The Best               |
+| Sticker                         | O.O                         |
+| Typa Girl                       | Make A Wish (Birthday Song) |
 | FANCY                           | Bad Boy                     |
 | Red Lights (Bang Chan, Hyunjin) | Devil                       |
 | Step Back                       | ELEVEN                      |

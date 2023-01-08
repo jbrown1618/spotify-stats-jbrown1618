@@ -1,6 +1,6 @@
 # k-pop girl group
 
-[381 songs](k_pop_girl_group_tracks.md)
+[382 songs](k_pop_girl_group_tracks.md)
 
 ## Top Artists
 
@@ -14,7 +14,7 @@
 
 |   Number of Tracks | Art                                                                                              | Artist                                               | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------|:------------------------------------------------------------|
-|                 59 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)               | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
+|                 60 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)               | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 |                 37 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../artists/itzy.md)                           | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                 36 | <img src="https://i.scdn.co/image/ab6761610000e5ebd84fd6ae9ccfc6206ea6711e" alt="" width="50" /> | [TWICE](../artists/twice.md)                         | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 |                 33 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)                   | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
@@ -133,6 +133,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273619b758232a962e9ddf45f97" alt="" width="50" /> | [12:00]                                     | [🔗](https://open.spotify.com/album/3obToaukLcPbCLPPmWFzQi) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c76a0146e4c1804f22cab995" alt="" width="50" /> | WE NEED LOVE                                | [🔗](https://open.spotify.com/album/04EniWu488MF6louRYafKJ) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2738164cd1a2e03b7ca2db9ff5e" alt="" width="50" /> | The Red Summer - Summer Mini Album          | [🔗](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="" width="50" /> | The Red - The 1st Album                     | [🔗](https://open.spotify.com/album/6YL9J0E6PGtYzkhyMxnmXd) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2735fe0013ebb4022adc0f042be" alt="" width="50" /> | Summer Special [Flip That]                  | [🔗](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273af2fda9fb591d43c355c2ac3" alt="" width="50" /> | STAYDOM                                     | [🔗](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27318a4a215052e9f396864bd73" alt="" width="50" /> | SQUARE TWO                                  | [🔗](https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp) |
@@ -189,7 +190,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273387444ab2fc1f08dfe7915ab" alt="" width="50" /> | Twicecoaster: Lane 1                        | [🔗](https://open.spotify.com/album/5zQhaDNbiXHRqd8Y51I4vy) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736f2d10189a41c7345a5a0337" alt="" width="50" /> | To Anyone                                   | [🔗](https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734802244fa0cf6d33eda5e748" alt="" width="50" /> | The Wonder Years - Trilogy                  | [🔗](https://open.spotify.com/album/61KwS8kiAywHkZ7gp4asTE) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27381fb7e4e392f0a99b3947eb6" alt="" width="50" /> | The Velvet - The 2nd Mini Album             | [🔗](https://open.spotify.com/album/2qgl7dAgslqL1w2l2wQhMA) |
 
 </details>
 
@@ -204,7 +204,7 @@
 
 |   Number of Tracks | Label                                                                                                               |
 |-------------------:|:--------------------------------------------------------------------------------------------------------------------|
-|                 81 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
+|                 82 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
 |                 63 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 25 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
 |                 24 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                                                               |
@@ -320,23 +320,23 @@
 | Hurt                      | 달라달라 (DALLA DALLA)         |
 | Jazz Bar                  | LA DI DA                   |
 | ZOOM                      | DALLA DALLA - English Ver. |
-| Wind flower               | RUN2U                      |
-| Starry Night              | Adios                      |
+| Starry Night              | RUN2U                      |
+| Wind flower               | Adios                      |
 | Moonlight Melody          | Red Light                  |
 | The Happiest Girl         | Poison                     |
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| You and I (Park Bom)          | Bad Boy                        |
-| Adios                         | Red Flavor                     |
-| YEPPI YEPPI                   | You Better Know                |
-| So Hot                        | Umpah Umpah                    |
-| I Am The Best                 | Be Natural                     |
-| Power Up                      | #Cookie Jar                    |
-| BBoom BBoom                   | Rookie                         |
-| In My Dreams                  | 247                            |
-| BAAM                          | WILDSIDE                       |
-| Star                          | I'll Make You Cry              |
+| You and I (Park Bom)          | Be Natural                     |
+| Adios                         | Bewitched                      |
+| YEPPI YEPPI                   | Oh Boy                         |
+| So Hot                        | #Cookie Jar                    |
+| I Am The Best                 | Rookie                         |
+| Power Up                      | Bewitched - Eng Ver.           |
+| BBoom BBoom                   | WILDSIDE                       |
+| In My Dreams                  | Marionette                     |
+| BAAM                          | Villain                        |
+| Star                          | HANN (Alone in winter)         |
 
 | 10 most Live tracks   | 10 least Live tracks          |
 |:----------------------|:------------------------------|
@@ -354,12 +354,12 @@
 | 10 most Happy tracks    | 10 least Happy tracks     |
 |:------------------------|:--------------------------|
 | Pepe                    | 4 Walls                   |
-| Miniskirt               | MORE                      |
-| So Hot                  | POSE                      |
+| So Hot                  | MORE                      |
+| Miniskirt               | POSE                      |
 | Twinkle                 | LION                      |
 | Give it to me           | Ditto                     |
-| Lion Heart              | In My Dreams              |
-| 러시안 룰렛 Russian Roulette | Hope Not                  |
+| Lion Heart              | Hope Not                  |
+| 러시안 룰렛 Russian Roulette | In My Dreams              |
 | Nobody                  | Body Talk                 |
 | Really                  | Lucid Dream               |
 | Devil                   | 7월 7일 One Of These Nights |

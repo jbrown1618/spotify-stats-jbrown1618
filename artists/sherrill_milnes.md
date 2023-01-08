@@ -23,7 +23,6 @@
 ## Genres
 
 - classical baritone
-- classical performance
 - opera
 
 ## Tracks

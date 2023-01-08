@@ -22,7 +22,7 @@
 |                 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb5e92b1ddbbbc66454d44a2c4" alt="" width="50" /> | [Kimbra](../artists/kimbra.md)                                 | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 |                 10 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../artists/radiohead.md)                           | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | Imogen Heap                                                    | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
-|                  8 | <img src="https://i.scdn.co/image/ab6761610000e5ebe8637c96a7aa2917eae3c54d" alt="" width="50" /> | Sia                                                            | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
+|                  8 | <img src="https://i.scdn.co/image/ab6761610000e5ebec40474426f4401a4203dc9f" alt="" width="50" /> | Sia                                                            | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb83c74866e5bc047479cd3413" alt="" width="50" /> | Sammy Rae & The Friends                                        | [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) |
 |                  6 | <img src="https://i.scdn.co/image/7b2813bb4afb38f0dab9470a514091fc4ef6b1a1" alt="" width="50" /> | Rilo Kiley                                                     | [🔗](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410" alt="" width="50" /> | Clean Bandit                                                   | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
@@ -312,16 +312,16 @@
 |                 61 | [pop](../genres/pop.md)                             |
 |                 25 | indie pop                                           |
 |                 23 | [rock](../genres/rock.md)                           |
+|                 21 | [dance pop](../genres/dance_pop.md)                 |
 |                 20 | modern rock                                         |
-|                 20 | [dance pop](../genres/dance_pop.md)                 |
 |                 20 | [art pop](../genres/art_pop.md)                     |
 |                 18 | [electropop](../genres/electropop.md)               |
+|                 17 | [lilith](../genres/lilith.md)                       |
 |                 17 | baroque pop                                         |
 |                 16 | uk alternative pop                                  |
 |                 16 | permanent wave                                      |
 |                 14 | indie rock                                          |
 |                 13 | nz pop                                              |
-|                 13 | [lilith](../genres/lilith.md)                       |
 |                 13 | bergen indie                                        |
 |                 13 | alternative rock                                    |
 |                 12 | metropopolis                                        |
