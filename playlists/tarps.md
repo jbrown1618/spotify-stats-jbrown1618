@@ -185,7 +185,7 @@
 |                  1 | [Jive](../labels/jive.md)                                                           |
 |                  1 | [J Records](../labels/j_records.md)                                                 |
 |                  1 | [Island Records](../labels/island_records.md)                                       |
-|                  1 | [Interscope](../labels/interscope.md)                                               |
+|                  1 | [Interscope Records](../labels/interscope_records.md)                               |
 |                  1 | [Hollywood Records](../labels/hollywood_records.md)                                 |
 |                  1 | [Glassnote Entertainment Group LLC](../labels/glassnote_entertainment_group_llc.md) |
 |                  1 | [Geffen](../labels/geffen.md)                                                       |
@@ -225,7 +225,6 @@
 |                  5 | [pop rock](../genres/pop_rock.md)                   |
 |                  4 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                  4 | [mellow gold](../genres/mellow_gold.md)             |
-|                  4 | [folk rock](../genres/folk_rock.md)                 |
 |                  3 | stomp and holler                                    |
 |                  3 | [soft rock](../genres/soft_rock.md)                 |
 |                  3 | [singer-songwriter](../genres/singer_songwriter.md) |
@@ -236,6 +235,7 @@
 |                  3 | neo soul                                            |
 |                  3 | merseybeat                                          |
 |                  3 | indie folk                                          |
+|                  3 | folk rock                                           |
 |                  3 | folk                                                |
 |                  3 | british soul                                        |
 |                  3 | british invasion                                    |

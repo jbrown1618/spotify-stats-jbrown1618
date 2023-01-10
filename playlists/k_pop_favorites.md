@@ -233,7 +233,7 @@
 |                 60 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
 |                 18 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 17 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
-|                 11 | [Interscope](../labels/interscope.md)                                                                               |
+|                 11 | [Interscope Records](../labels/interscope_records.md)                                                               |
 |                  9 | [BELIFT LAB](../labels/belift_lab.md)                                                                               |
 |                  7 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                                                 |
 |                  7 | [RBW Inc.](../labels/rbw_inc_.md)                                                                                   |

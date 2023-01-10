@@ -1,16 +1,16 @@
 # r&b
 
-[40 songs](r_b_tracks.md)
+[42 songs](r_b_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 23 artists](../images/genres/r_b/artists.png)
+![Bar chart of top 26 artists](../images/genres/r_b/artists.png)
 
 ![Comparison of Artist](../images/genres/r_b/artists_comparison.png)
 
 
 <details>
-<summary>See all 23 artists</summary>
+<summary>See all 26 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                         | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------|:------------------------------------------------------------|
@@ -26,6 +26,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb53b6a3853b5347271dcef5d" alt="" width="50" /> | Emily King                                     | [🔗](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | Juicy J                                        | [🔗](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | Young Thug                                     | [🔗](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0219b6643b1ec449b0951bfe" alt="" width="50" /> | Giveon                                         | [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | JAY-Z                                          | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
 |                  1 | <img src="https://i.scdn.co/image/adcc1cb654e89f2e404688ae0d1bbc942ce02e5d" alt="" width="50" /> | Ludacris                                       | [🔗](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b05445e212ac49d9ed4c310" alt="" width="50" /> | H.E.R.                                         | [🔗](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) |
@@ -35,18 +36,20 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f5af779b97c9e52d74d3743" alt="" width="50" /> | Cassie                                         | [🔗](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf75e64532704bd6acf0b4e76" alt="" width="50" /> | Destiny's Child                                | [🔗](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb02582bb3fa9d68f44a247f39" alt="" width="50" /> | Robin Thicke                                   | [🔗](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb22b2d4713c50ae25a7201429" alt="" width="50" /> | DaniLeigh                                      | [🔗](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfc9d2abc85b6f4bef77f80ea" alt="" width="50" /> | Pitbull                                        | [🔗](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7356ae4581e46319f99c813a" alt="" width="50" /> | TLC                                            | [🔗](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe818f7ca0d47f038a9aa246a" alt="" width="50" /> | G-Eazy                                         | [🔗](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) |
 
 </details>
 
 ## Top Albums
 
-![Bar chart of top 27 albums](../images/genres/r_b/albums.png)
+![Bar chart of top 29 albums](../images/genres/r_b/albums.png)
 
 
 <details>
-<summary>See all 27 albums</summary>
+<summary>See all 29 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                          | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------|:-----------------------------------------------------------|
@@ -58,6 +61,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | Bad (Remastered)                               | [🔗](https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273026e88f624dfb96f2e1ef10b" alt="" width="50" /> | B'Day Deluxe Edition                           | [🔗](https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c70176fa51326491ecc5f79e" alt="" width="50" /> | Who Hurt You?                                  | [🔗](https://open.spotify.com/album/15M9pZ8gsdoN67yLjyQ039) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27318ff322fcdd47c9400872da6" alt="" width="50" /> | TAKE TIME                                      | [🔗](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="" width="50" /> | Survivor                                       | [🔗](https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="" width="50" /> | Slime & B                                      | [🔗](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273cf31c7be8a9eea69d98c37c4" alt="" width="50" /> | Sides                                          | [🔗](https://open.spotify.com/album/5alIr9JGPvOQwPLphm0beJ) |
@@ -72,6 +76,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27361ffafd5e31a37336531cf95" alt="" width="50" /> | Fanmail                                        | [🔗](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d70bbffa859a9f9ca6f10496" alt="" width="50" /> | Evolver                                        | [🔗](https://open.spotify.com/album/11sKu4dBGvmEZTuVw9EC9A) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="" width="50" /> | Dangerously In Love                            | [🔗](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739351691c007cad99d70d9f3f" alt="" width="50" /> | Cravin                                         | [🔗](https://open.spotify.com/album/6c66PBJdg7EWPcFUvLyFFu) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273365b3fb800c19f7ff72602da" alt="" width="50" /> | Confessions (Expanded Edition)                 | [🔗](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f4c4ee507c2558262869f415" alt="" width="50" /> | Cassie (U.S. Version)                          | [🔗](https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27384a1d313a00f16b5a29ff46c" alt="" width="50" /> | Bittersweet                                    | [🔗](https://open.spotify.com/album/3UviDOQkc4WbXkNi6DIBZu) |
@@ -83,16 +88,16 @@
 
 ## Top Record Labels
 
-![Bar chart of top 17 record labels](../images/genres/r_b/labels.png)
+![Bar chart of top 19 record labels](../images/genres/r_b/labels.png)
 
 
 <details>
-<summary>See all 17 labels</summary>
+<summary>See all 19 labels</summary>
 
 |   Number of Tracks | Label                                                               |
 |-------------------:|:--------------------------------------------------------------------|
 |                 18 | [Columbia](../labels/columbia.md)                                   |
-|                  8 | [Epic](../labels/epic.md)                                           |
+|                  9 | [Epic](../labels/epic.md)                                           |
 |                  6 | [Parkwood Entertainment](../labels/parkwood_entertainment.md)       |
 |                  5 | [Music World Music](../labels/music_world_music.md)                 |
 |                  4 | [LaFace Records](../labels/laface_records.md)                       |
@@ -102,7 +107,9 @@
 |                  2 | [G.O.O.D. Music](../labels/g_o_o_d__music.md)                       |
 |                  2 | [Arista](../labels/arista.md)                                       |
 |                  1 | [Nu America Music](../labels/nu_america_music.md)                   |
+|                  1 | [Not So Fast](../labels/not_so_fast.md)                             |
 |                  1 | [Jive](../labels/jive.md)                                           |
+|                  1 | [Def Jam Recordings](../labels/def_jam_recordings.md)               |
 |                  1 | [Chris Brown Entertainment](../labels/chris_brown_entertainment.md) |
 |                  1 | [Bad Boy](../labels/bad_boy.md)                                     |
 |                  1 | [ATO Records](../labels/ato_records.md)                             |
@@ -116,21 +123,21 @@
 
 | 10 most Danceable tracks          | 10 least Danceable tracks                     |
 |:----------------------------------|:----------------------------------------------|
-| Billie Jean                       | Best Part (feat. H.E.R.)                      |
-| P.Y.T. (Pretty Young Thing)       | Hold Up                                       |
+| Billie Jean                       | Hold Up                                       |
+| P.Y.T. (Pretty Young Thing)       | Halo                                          |
 | Yeah! (feat. Lil Jon & Ludacris)  | Preach                                        |
-| Don't Stop 'Til You Get Enough    | Halo                                          |
-| I Don't Mind (feat. Juicy J)      | Teach You - Acoustic                          |
+| Don't Stop 'Til You Get Enough    | Teach You - Acoustic                          |
+| I Don't Mind (feat. Juicy J)      | Heartbreak Anniversary                        |
 | Smooth Criminal - 2012 Remaster   | Irreplaceable                                 |
 | Wanna Be Startin' Somethin'       | Listen (From the Motion Picture "Dreamgirls") |
 | Bootylicious                      | All of Me                                     |
-| Man in the Mirror - 2012 Remaster | Ave Maria                                     |
-| Me & U                            | I'd Rather Go Blind                           |
+| Cravin (feat. G-Eazy)             | Ave Maria                                     |
+| Man in the Mirror - 2012 Remaster | I'd Rather Go Blind                           |
 
 | 10 most Energetic tracks                  | 10 least Energetic tracks    |
 |:------------------------------------------|:-----------------------------|
-| Smooth Criminal - 2012 Remaster           | Daddy Lessons                |
-| Green Light (feat. André 3000)            | Who Hurt You?                |
+| Smooth Criminal - 2012 Remaster           | Who Hurt You?                |
+| Green Light (feat. André 3000)            | Heartbreak Anniversary       |
 | Wanna Be Startin' Somethin'               | I Don't Mind (feat. Juicy J) |
 | DJ Got Us Fallin' In Love (feat. Pitbull) | Billie Jean                  |
 | When I Get You Alone                      | Me & U                       |
@@ -145,13 +152,13 @@
 | Hold Up                          | Man in the Mirror - 2012 Remaster |
 | Irreplaceable                    | Best Part (feat. H.E.R.)          |
 | Bootylicious                     | I Was Here                        |
-| Crazy In Love (feat. Jay-Z)      | Best Thing I Never Had            |
-| Daddy Lessons                    | All of Me                         |
-| I Don't Mind (feat. Juicy J)     | I'd Rather Go Blind               |
-| Countdown                        | If I Were a Boy                   |
-| Green Light (feat. André 3000)   | Me & U                            |
-| Yeah! (feat. Lil Jon & Ludacris) | One Step At a Time                |
-| Sweet Dreams                     | Ave Maria                         |
+| Cravin (feat. G-Eazy)            | Best Thing I Never Had            |
+| Crazy In Love (feat. Jay-Z)      | All of Me                         |
+| Daddy Lessons                    | I'd Rather Go Blind               |
+| I Don't Mind (feat. Juicy J)     | If I Were a Boy                   |
+| Countdown                        | Me & U                            |
+| Green Light (feat. André 3000)   | One Step At a Time                |
+| Yeah! (feat. Lil Jon & Ludacris) | Ave Maria                         |
 
 | 10 most Acoustic tracks                       | 10 least Acoustic tracks         |
 |:----------------------------------------------|:---------------------------------|
@@ -161,23 +168,23 @@
 | Ave Maria                                     | Sure Thing                       |
 | Hold Up                                       | Wanna Be Startin' Somethin'      |
 | Who Hurt You?                                 | No Scrubs                        |
-| Man in the Mirror - 2012 Remaster             | Yeah! (feat. Lil Jon & Ludacris) |
-| I Was Here                                    | Billie Jean                      |
-| Listen (From the Motion Picture "Dreamgirls") | Crazy In Love (feat. Jay-Z)      |
-| Me & U                                        | Bootylicious                     |
+| Heartbreak Anniversary                        | Yeah! (feat. Lil Jon & Ludacris) |
+| Man in the Mirror - 2012 Remaster             | Billie Jean                      |
+| I Was Here                                    | Crazy In Love (feat. Jay-Z)      |
+| Listen (From the Motion Picture "Dreamgirls") | Bootylicious                     |
 
-| 10 most Instrumental tracks       | 10 least Instrumental tracks              |
-|:----------------------------------|:------------------------------------------|
-| Smooth Criminal - 2012 Remaster   | There Goes My Baby                        |
-| Wanna Be Startin' Somethin'       | Teach You - Acoustic                      |
-| Don't Stop 'Til You Get Enough    | DJ Got Us Fallin' In Love (feat. Pitbull) |
-| Billie Jean                       | Hit 'Em Up Style (Oops!)                  |
-| No Scrubs                         | Bootylicious                              |
-| P.Y.T. (Pretty Young Thing)       | Best Part (feat. H.E.R.)                  |
-| Sure Thing                        | Green Light (feat. André 3000)            |
-| Thriller                          | When I Get You Alone                      |
-| Who Hurt You?                     | City Girls                                |
-| Man in the Mirror - 2012 Remaster | Me & U                                    |
+| 10 most Instrumental tracks       | 10 least Instrumental tracks     |
+|:----------------------------------|:---------------------------------|
+| Smooth Criminal - 2012 Remaster   | Yeah! (feat. Lil Jon & Ludacris) |
+| Wanna Be Startin' Somethin'       | There Goes My Baby               |
+| Don't Stop 'Til You Get Enough    | Best Part (feat. H.E.R.)         |
+| Billie Jean                       | When I Get You Alone             |
+| No Scrubs                         | City Girls                       |
+| P.Y.T. (Pretty Young Thing)       | Preach                           |
+| Sure Thing                        | All of Me                        |
+| Thriller                          | Green Light (feat. André 3000)   |
+| Who Hurt You?                     | Bootylicious                     |
+| Man in the Mirror - 2012 Remaster | Me & U                           |
 
 | 10 most Live tracks             | 10 least Live tracks             |
 |:--------------------------------|:---------------------------------|
@@ -187,10 +194,10 @@
 | If I Were a Boy                 | Wanna Be Startin' Somethin'      |
 | Daddy Lessons                   | Halo                             |
 | Smooth Criminal - 2012 Remaster | City Girls                       |
-| Hit 'Em Up Style (Oops!)        | When I Get You Alone             |
-| Countdown                       | Billie Jean                      |
-| Green Light (feat. André 3000)  | Yeah! (feat. Lil Jon & Ludacris) |
-| Sure Thing                      | One Step At a Time               |
+| Heartbreak Anniversary          | When I Get You Alone             |
+| Hit 'Em Up Style (Oops!)        | Billie Jean                      |
+| Countdown                       | Yeah! (feat. Lil Jon & Ludacris) |
+| Green Light (feat. André 3000)  | One Step At a Time               |
 
 | 10 most Happy tracks           | 10 least Happy tracks                         |
 |:-------------------------------|:----------------------------------------------|

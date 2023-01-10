@@ -25,7 +25,7 @@
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb1893a2479e486ff3cfb41f02" alt="" width="50" /> | Anna Zak                           | [🔗](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb94faa4606299f4f5ccca4e35" alt="" width="50" /> | Daði Freyr                         | [🔗](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebe33284545d27028ec2f3dacf" alt="" width="50" /> | Reol                               | [🔗](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f9b2f828db40b35a81cba49" alt="" width="50" /> | Daddy Yankee                       | [🔗](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb302f3eba0a1b9364a1c63204" alt="" width="50" /> | Daddy Yankee                       | [🔗](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebec1cd67f4c17468f335206eb" alt="" width="50" /> | Luis Fonsi                         | [🔗](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebda5ab23361118f6474d68382" alt="" width="50" /> | Christopher                        | [🔗](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc19d6c8224e8b1b94bf565e5" alt="" width="50" /> | Perfume                            | [🔗](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) |
@@ -305,7 +305,7 @@
 
 
 <details>
-<summary>See all 94 genres</summary>
+<summary>See all 96 genres</summary>
 
 |   Number of Tracks | Genre                                 |
 |-------------------:|:--------------------------------------|
@@ -328,6 +328,7 @@
 |                  4 | israeli pop                           |
 |                  4 | indonesian r&b                        |
 |                  4 | indonesian pop                        |
+|                  4 | indonesian indie                      |
 |                  3 | urbano latino                         |
 |                  3 | taiwan singer-songwriter              |
 |                  3 | sunnlensk tonlist                     |
@@ -370,6 +371,7 @@
 |                  1 | r&b en espanol                        |
 |                  1 | nouvelle chanson francaise            |
 |                  1 | norwegian pop                         |
+|                  1 | norwegian indie                       |
 |                  1 | nintendocore                          |
 |                  1 | nigerian pop                          |
 |                  1 | nigerian hip hop                      |

@@ -103,7 +103,7 @@
 |                 12 | [Republic Records](../labels/republic_records.md)                   |
 |                  7 | [YG Entertainment](../labels/yg_entertainment.md)                   |
 |                  7 | [Warner Records](../labels/warner_records.md)                       |
-|                  6 | [Interscope](../labels/interscope.md)                               |
+|                  6 | [Interscope Records](../labels/interscope_records.md)               |
 |                  5 | [88rising Music](../labels/88rising_music.md)                       |
 |                  4 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)               |
 |                  4 | [BELIFT LAB](../labels/belift_lab.md)                               |

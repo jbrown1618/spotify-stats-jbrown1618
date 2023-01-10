@@ -1,6 +1,6 @@
 # dance pop
 
-[242 songs](dance_pop_tracks.md)
+[243 songs](dance_pop_tracks.md)
 
 ## Top Artists
 
@@ -20,10 +20,10 @@
 |                 11 | <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | [Dua Lipa](../artists/dua_lipa.md)           | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 |                 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | [Rihanna](../artists/rihanna.md)             | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 |                 11 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../artists/bruno_mars.md)       | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
+|                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb727a2ac15afe659be999beba" alt="" width="50" /> | Doja Cat                                     | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5ebec40474426f4401a4203dc9f" alt="" width="50" /> | Sia                                          | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e7e6ded87a4e0f65b5afcec" alt="" width="50" /> | Britney Spears                               | [🔗](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc9dcb7e4a97b4552e1224d6" alt="" width="50" /> | Katy Perry                                   | [🔗](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) |
-|                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb727a2ac15afe659be999beba" alt="" width="50" /> | Doja Cat                                     | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | Camila Cabello                               | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb284894d68fe2f80cad555110" alt="" width="50" /> | Shakira                                      | [🔗](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb654972693e0efed3f3f4d090" alt="" width="50" /> | Jason Derulo                                 | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
@@ -32,7 +32,7 @@
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | Nicki Minaj                                  | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb0db36498679f03f30606d45f" alt="" width="50" /> | Ellie Goulding                               | [🔗](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb46e7a06fa6dfefaed6a3f0db" alt="" width="50" /> | Shawn Mendes                                 | [🔗](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) |
-|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb63dc867958993e8458517d2b" alt="" width="50" /> | Backstreet Boys                              | [🔗](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) |
+|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb20f403024d10bdf47bc00194" alt="" width="50" /> | Backstreet Boys                              | [🔗](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb5079bcf778c2d286de10e676" alt="" width="50" /> | Miley Cyrus                                  | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | Halsey                                       | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb2e42d906f4f9f672359e7379" alt="" width="50" /> | Usher                                        | [🔗](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) |
@@ -139,6 +139,7 @@
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | 1000 Forms Of Fear (Deluxe Version)                                                                 | [🔗](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Romance                                                                                             | [🔗](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605" alt="" width="50" /> | Positions                                                                                           | [🔗](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" alt="" width="50" /> | Planet Her                                                                                          | [🔗](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="" width="50" /> | No Strings Attached                                                                                 | [🔗](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" alt="" width="50" /> | Millennium                                                                                          | [🔗](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9a3105ad4ffb91ad2e2798" alt="" width="50" /> | Life in Cartoon Motion                                                                              | [🔗](https://open.spotify.com/album/4wKkXYJXQWDa9sndBSx0gI) |
@@ -156,7 +157,6 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e" alt="" width="50" /> | Talk Dirty                                                                                          | [🔗](https://open.spotify.com/album/4PeZu0It7qVrTG40t3HM9A) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394" alt="" width="50" /> | Sweetener                                                                                           | [🔗](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27386b0c9728ad3ed338eaeea79" alt="" width="50" /> | Raymond v Raymond (Expanded Edition)                                                                | [🔗](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" alt="" width="50" /> | Planet Her                                                                                          | [🔗](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a90401b8d27cd6b5f3a46242" alt="" width="50" /> | Lights                                                                                              | [🔗](https://open.spotify.com/album/3duZhvcaoqdNveQYXf9dMV) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="" width="50" /> | Lemonade                                                                                            | [🔗](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4" alt="" width="50" /> | In The Zone                                                                                         | [🔗](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) |
@@ -241,7 +241,7 @@
 
 |   Number of Tracks | Label                                                                                                                       |
 |-------------------:|:----------------------------------------------------------------------------------------------------------------------------|
-|                 27 | [RCA Records Label](../labels/rca_records_label.md)                                                                         |
+|                 28 | [RCA Records Label](../labels/rca_records_label.md)                                                                         |
 |                 22 | [Warner Records](../labels/warner_records.md)                                                                               |
 |                 19 | [Columbia](../labels/columbia.md)                                                                                           |
 |                 19 | [Atlantic Records](../labels/atlantic_records.md)                                                                           |
@@ -249,7 +249,7 @@
 |                 13 | [Universal Music LLC](../labels/universal_music_llc.md)                                                                     |
 |                 13 | [Republic Records](../labels/republic_records.md)                                                                           |
 |                 13 | [Epic](../labels/epic.md)                                                                                                   |
-|                 11 | [Interscope](../labels/interscope.md)                                                                                       |
+|                 11 | [Interscope Records](../labels/interscope_records.md)                                                                       |
 |                 10 | [Syco Music](../labels/syco_music.md)                                                                                       |
 |                  9 | [Def Jam Recordings](../labels/def_jam_recordings.md)                                                                       |
 |                  9 | [Capitol Records](../labels/capitol_records.md)                                                                             |
@@ -258,10 +258,10 @@
 |                  6 | [Parkwood Entertainment](../labels/parkwood_entertainment.md)                                                               |
 |                  5 | [Music World Music](../labels/music_world_music.md)                                                                         |
 |                  5 | [LaFace Records](../labels/laface_records.md)                                                                               |
+|                  5 | [Kemosabe Records](../labels/kemosabe_records.md)                                                                           |
 |                  5 | [Beluga Heights](../labels/beluga_heights.md)                                                                               |
 |                  5 | [Atlantic Records UK](../labels/atlantic_records_uk.md)                                                                     |
 |                  4 | [Sony Music Latin](../labels/sony_music_latin.md)                                                                           |
-|                  4 | [Kemosabe Records](../labels/kemosabe_records.md)                                                                           |
 |                  3 | [Island UK](../labels/island_uk.md)                                                                                         |
 |                  3 | [Island Records](../labels/island_records.md)                                                                               |
 |                  3 | [Casablanca Records](../labels/casablanca_records.md)                                                                       |
@@ -380,15 +380,15 @@
 
 | 10 most Instrumental tracks                              | 10 least Instrumental tracks                                   |
 |:---------------------------------------------------------|:---------------------------------------------------------------|
-| This Is What You Came For                                | Sally Walker                                                   |
-| You and I (Park Bom)                                     | Stone Cold                                                     |
-| Lights - Single Version                                  | Heart Attack                                                   |
-| Toxic                                                    | Truth Hurts                                                    |
-| Candyman                                                 | About Damn Time                                                |
-| Grace Kelly                                              | Happy Ending                                                   |
-| Coño                                                     | Swalla (feat. Nicki Minaj & Ty Dolla $ign)                     |
-| I Am The Best                                            | Talk Dirty (feat. 2 Chainz)                                    |
-| SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) | Trumpets                                                       |
+| This Is What You Came For                                | Heart Attack                                                   |
+| You and I (Park Bom)                                     | Truth Hurts                                                    |
+| Lights - Single Version                                  | About Damn Time                                                |
+| Toxic                                                    | Happy Ending                                                   |
+| Candyman                                                 | Swalla (feat. Nicki Minaj & Ty Dolla $ign)                     |
+| Grace Kelly                                              | Talk Dirty (feat. 2 Chainz)                                    |
+| Coño                                                     | Trumpets                                                       |
+| I Am The Best                                            | Bubblegum (feat. Tyga)                                         |
+| SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) | Kiss and Make Up                                               |
 | Woman                                                    | When Will My Life Begin? - From "Tangled" / Soundtrack Version |
 
 | 10 most Live tracks                            | 10 least Live tracks             |
@@ -409,8 +409,8 @@
 | Material Girl                   | In the Name of Love                                                                                                |
 | Like a Virgin                   | Million Reasons                                                                                                    |
 | There's Nothing Holdin' Me Back | Youngblood                                                                                                         |
-| Mercy                           | Til It Happens To You                                                                                              |
-| SexyBack (feat. Timbaland)      | Because of You                                                                                                     |
+| SexyBack (feat. Timbaland)      | Til It Happens To You                                                                                              |
+| Mercy                           | Because of You                                                                                                     |
 | I'm a Slave 4 U                 | Stay                                                                                                               |
 | Sucker                          | One Last Time                                                                                                      |
 | Me Enamoré                      | Big Girls Cry                                                                                                      |

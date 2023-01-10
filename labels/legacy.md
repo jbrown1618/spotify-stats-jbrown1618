@@ -72,15 +72,15 @@ Appears as:
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
 |                 10 | [soft rock](../genres/soft_rock.md)                 |
-|                 10 | [rock](../genres/rock.md)                           |
 |                  9 | [mellow gold](../genres/mellow_gold.md)             |
 |                  9 | [classic rock](../genres/classic_rock.md)           |
+|                  8 | [rock](../genres/rock.md)                           |
 |                  5 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  5 | hard rock                                           |
-|                  5 | [folk rock](../genres/folk_rock.md)                 |
 |                  5 | album rock                                          |
 |                  3 | jazz quartet                                        |
 |                  3 | jazz                                                |
+|                  3 | folk rock                                           |
 |                  3 | folk                                                |
 |                  3 | bebop                                               |
 |                  2 | symphonic rock                                      |
@@ -110,7 +110,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="" width="50" /> | Vienna                                                                       | The Stranger (Legacy Edition)           | [Billy Joel](../artists/billy_joel.md) | [Columbia](columbia.md), [Legacy](legacy.md)                   | 💚   | [🔗](https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="" width="50" /> | I Feel the Earth Move                                                        | Tapestry                                | Carole King                            | Ode, [Epic](epic.md), [Legacy](legacy.md)                      |     | [🔗](https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="" width="50" /> | So Far Away                                                                  | Tapestry                                | Carole King                            | Ode, [Epic](epic.md), [Legacy](legacy.md)                      |     | [🔗](https://open.spotify.com/track/4HHge4zAyIw3pkrtFzmwCl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f96cefb0197694ad440c3314" alt="" width="50" /> | Can't Help Falling in Love                                                   | Blue Hawaii                             | Elvis Presley                          | [RCA Records Label](rca_records_label.md), [Legacy](legacy.md) |     | [🔗](https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f96cefb0197694ad440c3314" alt="" width="50" /> | Can't Help Falling in Love                                                   | Blue Hawaii                             | Elvis Presley                          | [Legacy](legacy.md), [RCA Records Label](rca_records_label.md) |     | [🔗](https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a04593b7c149dc7b725683e" alt="" width="50" /> | Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968 | At Folsom Prison                        | Johnny Cash                            | [Columbia](columbia.md), [Legacy](legacy.md)                   |     | [🔗](https://open.spotify.com/track/2fDHuS1PTkHBbCWWZF1ph9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731b2a9188ac775e16998eb78d" alt="" width="50" /> | Lights                                                                       | Infinity                                | Journey                                | [Columbia](columbia.md), [Legacy](legacy.md)                   | 💚   | [🔗](https://open.spotify.com/track/7EHmKkyAr6MZv5Y2FdZbXw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737e8045e318486885fe243817" alt="" width="50" /> | Any Way You Want It                                                          | Departure                               | Journey                                | [Columbia](columbia.md), [Legacy](legacy.md)                   |     | [🔗](https://open.spotify.com/track/71SvEDmsOwIWw1IozsZoMA) |

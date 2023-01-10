@@ -40,7 +40,7 @@
 |                  3 | <img src="nan" alt="" width="50" />                                                              | Janet Devenish                                                                                       | [🔗](https://open.spotify.com/artist/7Ev9dg2zamUgQsRUp9DdRl) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebb464513265be8765dddc19bb" alt="" width="50" /> | Frances Ruffelle                                                                                     | [🔗](https://open.spotify.com/artist/5uSeMCBhe3DiROdFrwaXkw) |
 |                  3 | <img src="nan" alt="" width="50" />                                                              | Terrence Mann                                                                                        | [🔗](https://open.spotify.com/artist/5uBIsYz9WatgoViLG6pVj2) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273ebeba683d4b477ef2748c3bd" alt="" width="50" /> | David Firth                                                                                          | [🔗](https://open.spotify.com/artist/4kjJU6zIfQi87yTWJMxJNw) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273d64bc71c5b3f176aed9763fb" alt="" width="50" /> | David Firth                                                                                          | [🔗](https://open.spotify.com/artist/4kjJU6zIfQi87yTWJMxJNw) |
 |                  3 | <img src="https://i.scdn.co/image/2f27b88be41ed8e21e7db0cf192385c14736f8a0" alt="" width="50" /> | Eddie Redmayne                                                                                       | [🔗](https://open.spotify.com/artist/4EJP6Qhk6l18LumCcpEfLw) |
 |                  3 | <img src="nan" alt="" width="50" />                                                              | John Savident                                                                                        | [🔗](https://open.spotify.com/artist/2V0W4YzPCESOh86ss7D2QE) |
 |                  3 | <img src="nan" alt="" width="50" />                                                              | Mary Millar                                                                                          | [🔗](https://open.spotify.com/artist/1SBvpcra5uod7N0rxJxa3J) |
@@ -129,7 +129,7 @@
 
 |   Number of Tracks | Genre                                     |
 |-------------------:|:------------------------------------------|
-|                 89 | [show tunes](../genres/show_tunes.md)     |
+|                 91 | [show tunes](../genres/show_tunes.md)     |
 |                 60 | [hollywood](../genres/hollywood.md)       |
 |                 52 | [broadway](../genres/broadway.md)         |
 |                 37 | west end                                  |

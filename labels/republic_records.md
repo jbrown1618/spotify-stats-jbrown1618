@@ -1,24 +1,24 @@
 # Republic Records
 
-130 songs
+132 songs
 
 Appears as:
 - Republic Records - Stray Kids (44 tracks)
 - Republic Records - TWICE (32 tracks)
 - Republic Records - ITZY (31 tracks)
-- Republic Records (12 tracks)
-- Republic Records - TXT (7 tracks)
+- Republic Records (13 tracks)
+- Republic Records - TXT (8 tracks)
 - Lava Music/Republic Records (2 tracks)
 - Republic/UMLE (1 tracks)
 - Republic/Universal/FSF (1 tracks)
 
 ## Top Artists
 
-![Bar chart of top 17 artists](../images/labels/republic_records/artists.png)
+![Bar chart of top 18 artists](../images/labels/republic_records/artists.png)
 
 
 <details>
-<summary>See all 17 artists</summary>
+<summary>See all 18 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                       | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------|:------------------------------------------------------------|
@@ -26,16 +26,17 @@ Appears as:
 |                 32 | <img src="https://i.scdn.co/image/ab6761610000e5ebd84fd6ae9ccfc6206ea6711e" alt="" width="50" /> | [TWICE](../artists/twice.md)                 | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 |                 31 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../artists/itzy.md)                   | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                 10 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../artists/ariana_grande.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
-|                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb758f3c632d4d726f1129d336" alt="" width="50" /> | TOMORROW X TOGETHER                          | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
+|                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb758f3c632d4d726f1129d336" alt="" width="50" /> | TOMORROW X TOGETHER                          | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | Jessie J                                     | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | B.o.B                                        | [🔗](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb727a2ac15afe659be999beba" alt="" width="50" /> | Doja Cat                                     | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb589ffbfcd3d3c9daeaffc36c" alt="" width="50" /> | Social House                                 | [🔗](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl) |
 |                  1 | <img src="nan" alt="" width="50" />                                                              | Changbin                                     | [🔗](https://open.spotify.com/artist/5OTVNUu0UHn6ddPyEAi419) |
 |                  1 | <img src="nan" alt="" width="50" />                                                              | Bang Chan                                    | [🔗](https://open.spotify.com/artist/4qy7HANJDOZRObts4Z0KSV) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f9b2f828db40b35a81cba49" alt="" width="50" /> | Daddy Yankee                                 | [🔗](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb302f3eba0a1b9364a1c63204" alt="" width="50" /> | Daddy Yankee                                 | [🔗](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebec1cd67f4c17468f335206eb" alt="" width="50" /> | Luis Fonsi                                   | [🔗](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd3a1193ab04e0fb2b297e619" alt="" width="50" /> | Conan Gray                                   | [🔗](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb894ef9fa437b0389c5567cc" alt="" width="50" /> | Post Malone                                  | [🔗](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | Justin Bieber                                | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb5f9e28219c169fd4b9e8379" alt="" width="50" /> | The Weeknd                                   | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0db36498679f03f30606d45f" alt="" width="50" /> | Ellie Goulding                               | [🔗](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) |
@@ -49,7 +50,7 @@ Appears as:
 
 
 <details>
-<summary>See all 57 albums</summary>
+<summary>See all 59 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                   | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------|:-----------------------------------------------------------|
@@ -86,11 +87,13 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273387444ab2fc1f08dfe7915ab" alt="" width="50" /> | Twicecoaster: Lane 1                                    | [🔗](https://open.spotify.com/album/5zQhaDNbiXHRqd8Y51I4vy) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ce17f432c79c5e45ce88688f" alt="" width="50" /> | The Story Begins                                        | [🔗](https://open.spotify.com/album/72WWZVAx6GtSbEeGESwDLo) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273557395cc096cb7b22eff310e" alt="" width="50" /> | The Feels                                               | [🔗](https://open.spotify.com/album/6bk3KlQjiXsRmGrzrNcS53) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b85b1b3fae4244c686929af5" alt="" width="50" /> | The Dream Chapter: ETERNITY                             | [🔗](https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735137378ed49327e5dec7406f" alt="" width="50" /> | The Chaos Chapter: FIGHT OR ESCAPE                      | [🔗](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27340d7efd2594a2b6bda60ea18" alt="" width="50" /> | Summer Nights                                           | [🔗](https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d64e2f339a0a9ea967b308e" alt="" width="50" /> | Step Out of Clé (English Ver.)                          | [🔗](https://open.spotify.com/album/2BBeNPEEevRiYISKYEnGvc) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d07e49e3e5a8e79903713354" alt="" width="50" /> | SIGNAL                                                  | [🔗](https://open.spotify.com/album/28PwDunFAR71toOCTYRvkf) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739e9e3a1adcc32090690fd0b6" alt="" width="50" /> | Page Two                                                | [🔗](https://open.spotify.com/album/6q2oUEqL9uzVXHCeKoA8JV) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb" alt="" width="50" /> | Motley Crew                                             | [🔗](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273560f17af6665e85575021bae" alt="" width="50" /> | Mixtape : Time Out                                      | [🔗](https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b97341ef9657dd8f4ab794dc" alt="" width="50" /> | Mixtape                                                 | [🔗](https://open.spotify.com/album/1kTzTL0iOIE2IAGw83yY4O) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f0d00e054e9a9cb2e86cdf72" alt="" width="50" /> | Merry & Happy                                           | [🔗](https://open.spotify.com/album/0R7pj4tnmcoUulrZGPo6nw) |
@@ -116,28 +119,31 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 17 genres](../images/labels/republic_records/genres.png)
+![Bar chart of top 20 genres](../images/labels/republic_records/genres.png)
 
 
 <details>
-<summary>See all 17 genres</summary>
+<summary>See all 20 genres</summary>
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
-|                 83 | [k-pop](../genres/k_pop.md)                       |
+|                 84 | [k-pop](../genres/k_pop.md)                       |
 |                 63 | [k-pop girl group](../genres/k_pop_girl_group.md) |
-|                 51 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
+|                 52 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
 |                 15 | [pop](../genres/pop.md)                           |
 |                 13 | [dance pop](../genres/dance_pop.md)               |
 |                  2 | [post-teen pop](../genres/post_teen_pop.md)       |
 |                  2 | pop rap                                           |
 |                  1 | uk pop                                            |
+|                  1 | rap                                               |
 |                  1 | puerto rican pop                                  |
 |                  1 | metropopolis                                      |
+|                  1 | melodic rap                                       |
 |                  1 | latin pop                                         |
 |                  1 | indietronica                                      |
 |                  1 | [electropop](../genres/electropop.md)             |
 |                  1 | edm                                               |
+|                  1 | dfw rap                                           |
 |                  1 | canadian pop                                      |
 |                  1 | canadian contemporary r&b                         |
 |                  1 | bedroom pop                                       |
@@ -160,7 +166,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605" alt="" width="50" /> | positions                                           | Positions                                               | [Ariana Grande](../artists/ariana_grande.md)                | [Republic Records](republic_records.md)                                                     | 💚   | [🔗](https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605" alt="" width="50" /> | pov                                                 | Positions                                               | [Ariana Grande](../artists/ariana_grande.md)                | [Republic Records](republic_records.md)                                                     |     | [🔗](https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27388e3cda6d29b2552d4d6bc43" alt="" width="50" /> | Maniac                                              | Kid Krow                                                | Conan Gray                                                  | [Republic Records](republic_records.md)                                                     | 💚   | [🔗](https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="" width="50" /> | Love Me Like You Do                                 | Fifty Shades Freed (Original Motion Picture Soundtrack) | Ellie Goulding                                              | [Republic Records](republic_records.md), FSF, [Universal Music LLC](universal_music_llc.md) | 💚   | [🔗](https://open.spotify.com/track/0Cy7wt6IlRfBPHXXjmZbcP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="" width="50" /> | Love Me Like You Do                                 | Fifty Shades Freed (Original Motion Picture Soundtrack) | Ellie Goulding                                              | FSF, [Republic Records](republic_records.md), [Universal Music LLC](universal_music_llc.md) | 💚   | [🔗](https://open.spotify.com/track/0Cy7wt6IlRfBPHXXjmZbcP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc620c06721e90a534cc5dab" alt="" width="50" /> | WANNABE                                             | IT'z ME                                                 | [ITZY](../artists/itzy.md)                                  | [Republic Records](republic_records.md)                                                     | 💚   | [🔗](https://open.spotify.com/track/4pspYVQGFHLPEFgQPD1J7e) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | Be In Love                                          | Not Shy                                                 | [ITZY](../artists/itzy.md)                                  | [Republic Records](republic_records.md)                                                     | 💚   | [🔗](https://open.spotify.com/track/0FGeJSm4Iix7OdvjvENrwx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | Louder                                              | Not Shy                                                 | [ITZY](../artists/itzy.md)                                  | [Republic Records](republic_records.md)                                                     |     | [🔗](https://open.spotify.com/track/39pv61XfYr9MUwsYkx30aQ) |
@@ -195,6 +201,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2739900b995cd1a81c35c574ab0" alt="" width="50" /> | Price Tag                                           | Who You Are (Platinum Edition)                          | Jessie J, B.o.B                                             | [Lava Music/Republic Records](republic_records.md)                                          | 💚   | [🔗](https://open.spotify.com/track/5mvKuE9Lf9ARVXVXA32kK9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739900b995cd1a81c35c574ab0" alt="" width="50" /> | Who You Are                                         | Who You Are (Platinum Edition)                          | Jessie J                                                    | [Lava Music/Republic Records](republic_records.md)                                          | 💚   | [🔗](https://open.spotify.com/track/65lIGCfW59BxcEJnnIOCq3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6a335d613d151c626895a83" alt="" width="50" /> | Despacito - Remix                                   | Despacito Feat. Justin Bieber (Remix)                   | Luis Fonsi, Daddy Yankee, Justin Bieber                     | [Republic/UMLE](republic_records.md)                                                        | 💚   | [🔗](https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb" alt="" width="50" /> | Motley Crew                                         | Motley Crew                                             | Post Malone                                                 | [Republic Records](republic_records.md)                                                     |     | [🔗](https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b97341ef9657dd8f4ab794dc" alt="" width="50" /> | Hellevator                                          | Mixtape                                                 | [Stray Kids](../artists/stray_kids.md)                      | [Republic Records](republic_records.md)                                                     |     | [🔗](https://open.spotify.com/track/7mKXEaBVWuV0dMqN0gaCBm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f6ace3e8860779591c193414" alt="" width="50" /> | District 9                                          | I am NOT                                                | [Stray Kids](../artists/stray_kids.md)                      | [Republic Records](republic_records.md)                                                     |     | [🔗](https://open.spotify.com/track/4A0ZTqmb6131trEdQl2dBW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27309f2f03627bf9c7b719a35ff" alt="" width="50" /> | Awkward Silence                                     | I am WHO                                                | [Stray Kids](../artists/stray_kids.md)                      | [Republic Records](republic_records.md)                                                     |     | [🔗](https://open.spotify.com/track/6qOPM7GV2Yv10hAgFEn6oN) |
@@ -241,6 +248,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | miss you (Hyunjin)                                  | SKZ-REPLAY                                              | [Stray Kids](../artists/stray_kids.md)                      | [Republic Records](republic_records.md)                                                     | 💚   | [🔗](https://open.spotify.com/track/1BwFLLe233S6HR1ravS3yi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="" width="50" /> | Blinding Lights                                     | After Hours                                             | The Weeknd                                                  | [Republic Records](republic_records.md)                                                     | 💚   | [🔗](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b84603bfcc9665f8353982fd" alt="" width="50" /> | Cat & Dog (English Version)                         | Cat & Dog (English Version)                             | TOMORROW X TOGETHER                                         | [Republic Records](republic_records.md)                                                     |     | [🔗](https://open.spotify.com/track/0wzlQwQ17rpVVqgdaFNA7Q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b85b1b3fae4244c686929af5" alt="" width="50" /> | Fairy of Shampoo                                    | The Dream Chapter: ETERNITY                             | TOMORROW X TOGETHER                                         | [Republic Records](republic_records.md)                                                     |     | [🔗](https://open.spotify.com/track/5JXpZcc3CeQaC6vAF1iaV5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c6cdb00ed42b1d6315f0bc1" alt="" width="50" /> | Blue Hour                                           | minisode1 : Blue Hour                                   | TOMORROW X TOGETHER                                         | [Republic Records](republic_records.md)                                                     |     | [🔗](https://open.spotify.com/track/3ObPkJQAgjAhTwYvDhPrAW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | 0X1=LOVESONG (I Know I Love You) feat. Seori        | The Chaos Chapter: FREEZE                               | TOMORROW X TOGETHER                                         | [Republic Records](republic_records.md)                                                     | 💚   | [🔗](https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | Anti-Romantic                                       | The Chaos Chapter: FREEZE                               | TOMORROW X TOGETHER                                         | [Republic Records](republic_records.md)                                                     | 💚   | [🔗](https://open.spotify.com/track/44tTqUi3xi7E28QLzHVdUA) |

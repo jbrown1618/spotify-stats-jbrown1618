@@ -100,7 +100,7 @@
 |                  1 | [Warner Records](../labels/warner_records.md)                                   |
 |                  1 | [The Orchard](../labels/the_orchard.md)                                         |
 |                  1 | [KSR](../labels/ksr.md)                                                         |
-|                  1 | [Interscope](../labels/interscope.md)                                           |
+|                  1 | [Interscope Records](../labels/interscope_records.md)                           |
 |                  1 | [EMPIRE](../labels/empire.md)                                                   |
 |                  1 | [Columbia](../labels/columbia.md)                                               |
 |                  1 | [Bad Dreams Records](../labels/bad_dreams_records.md)                           |
@@ -127,7 +127,7 @@
 |                 10 | [pop](../genres/pop.md)                     |
 |                  9 | [dance pop](../genres/dance_pop.md)         |
 |                  7 | hip hop                                     |
-|                  5 | pop rap                                     |
+|                  4 | pop rap                                     |
 |                  4 | hip pop                                     |
 |                  4 | detroit hip hop                             |
 |                  4 | chicago rap                                 |

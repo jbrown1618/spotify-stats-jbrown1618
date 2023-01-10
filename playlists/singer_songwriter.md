@@ -203,7 +203,7 @@
 
 
 <details>
-<summary>See all 50 genres</summary>
+<summary>See all 51 genres</summary>
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
@@ -215,14 +215,14 @@
 |                 59 | [hollywood](../genres/hollywood.md)                 |
 |                 35 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                 35 | piano rock                                          |
-|                 33 | [folk rock](../genres/folk_rock.md)                 |
 |                 31 | [mellow gold](../genres/mellow_gold.md)             |
 |                 25 | [soft rock](../genres/soft_rock.md)                 |
 |                 25 | [classic rock](../genres/classic_rock.md)           |
-|                 24 | [rock](../genres/rock.md)                           |
+|                 22 | [rock](../genres/rock.md)                           |
 |                 18 | [art pop](../genres/art_pop.md)                     |
-|                 14 | indie pop                                           |
+|                 15 | indie pop                                           |
 |                 12 | folk                                                |
+|                 11 | folk rock                                           |
 |                  9 | nz pop                                              |
 |                  9 | [electropop](../genres/electropop.md)               |
 |                  9 | bergen indie                                        |
@@ -256,6 +256,7 @@
 |                  1 | canadian pop                                        |
 |                  1 | canadian indie                                      |
 |                  1 | british soul                                        |
+|                  1 | alternative r&b                                     |
 |                  1 | alt z                                               |
 
 </details>

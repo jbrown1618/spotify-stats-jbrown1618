@@ -1,6 +1,6 @@
 # k-pop
 
-[806 songs](k_pop_tracks.md)
+[810 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -14,7 +14,7 @@
 
 |   Number of Tracks | Art                                                                                              | Artist                                               | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------|:------------------------------------------------------------|
-|                 60 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)               | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
+|                 62 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)               | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 |                 46 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md)               | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 |                 35 | <img src="https://i.scdn.co/image/ab6761610000e5ebd84fd6ae9ccfc6206ea6711e" alt="" width="50" /> | [TWICE](../artists/twice.md)                         | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 |                 30 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)                             | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
@@ -35,11 +35,11 @@
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb5d87e2a10ba3b2f8bb2c5270" alt="" width="50" /> | ATEEZ                                                | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e2e0f17d257a40be0782f35" alt="" width="50" /> | BAEKHYUN                                             | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb968ab271c895fb9cc245d6fe" alt="" width="50" /> | Billlie                                              | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
+|                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb758f3c632d4d726f1129d336" alt="" width="50" /> | TOMORROW X TOGETHER                                  | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | BIBI                                                 | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | CLC                                                  | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bd65b0efee10bfa8328c33b" alt="" width="50" /> | NCT U                                                | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5ebfe2339c232c5a840fc527402" alt="" width="50" /> | SEULGI                                               | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
-|                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb758f3c632d4d726f1129d336" alt="" width="50" /> | TOMORROW X TOGETHER                                  | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb59501d4e82c8cb6fc409044d" alt="" width="50" /> | WENDY                                                | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9996e5d7c5b769b2b26ff1a" alt="" width="50" /> | SUPER JUNIOR                                         | [🔗](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a29246fa242d0b9f8de3b31" alt="" width="50" /> | SUNMI                                                | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
@@ -105,6 +105,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb74700cf88c04af5201df7298" alt="" width="50" /> | AKMU                                                 | [🔗](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebca6daabeb614243f96b2829f" alt="" width="50" /> | WOOSUNG                                              | [🔗](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb8543b9b2b5d153d37c46606d" alt="" width="50" /> | LISA                                                 | [🔗](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebe069abe9362512bec11f5e13" alt="" width="50" /> | AB6IX                                                | [🔗](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb86ea393b9e590523e822ea13" alt="" width="50" /> | YooA                                                 | [🔗](https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebb43ce1ac488d15bb7ee5153b" alt="" width="50" /> | Jay Park                                             | [🔗](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a80abb55f089d80528d24fc" alt="" width="50" /> | CHANGMO                                              | [🔗](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) |
@@ -113,7 +114,6 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7243217f4767a4d9bf879a6e" alt="" width="50" /> | Cherry Bullet                                        | [🔗](https://open.spotify.com/artist/3IJCdgkBZbieocLZ4e94GZ) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb07e5355b736b50bccbb0b651" alt="" width="50" /> | BLITZERS                                             | [🔗](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebde86b23f43ae56fff22a0ac9" alt="" width="50" /> | JENO                                                 | [🔗](https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb652b1738f121da382c3ab77b" alt="" width="50" /> | ONEUS                                                | [🔗](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) |
 
 </details>
 
@@ -151,6 +151,7 @@
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | ‘The ReVe Festival’ Finale                          | [🔗](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273d2ef237da7f94762997c2083" alt="" width="50" /> | ‘The ReVe Festival 2022 - Birthday’                 | [🔗](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2734c5be128bd1b55bf36041574" alt="" width="50" /> | the Billage of perception : chapter one             | [🔗](https://open.spotify.com/album/1kp4txZsSpDNR4EoDFi2LD) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2736017bca98dea58ceddea77c1" alt="" width="50" /> | Summer Magic - Summer Mini Album                    | [🔗](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef" alt="" width="50" /> | SQUARE UP                                           | [🔗](https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273decd839dd4fef3faf64c5fd5" alt="" width="50" /> | SEVENTEEN 4th Album 'Face the Sun'                  | [🔗](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="" width="50" /> | Russian Roulette - The 3rd Mini Album               | [🔗](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) |
@@ -165,10 +166,10 @@
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | 2022 Winter SMTOWN : SMCU PALACE                    | [🔗](https://open.spotify.com/album/1HwnXJfZx8N8qDfzwUbxcw) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="" width="50" /> | 1st Album [Dystopia : The Tree of Language]         | [🔗](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2738232e1aaaf4c9ed4b6946ce8" alt="" width="50" /> | the Billage of perception: chapter two              | [🔗](https://open.spotify.com/album/0NuM7kwh6u6fIRjn7Zh7Ss) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="" width="50" /> | The Red - The 1st Album                             | [🔗](https://open.spotify.com/album/6YL9J0E6PGtYzkhyMxnmXd) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | The Chaos Chapter: FREEZE                           | [🔗](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="" width="50" /> | Taste of Love                                       | [🔗](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27328be5dc3cc0bd6f2482c1d56" alt="" width="50" /> | THE SECOND STEP : CHAPTER ONE                       | [🔗](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2736017bca98dea58ceddea77c1" alt="" width="50" /> | Summer Magic - Summer Mini Album                    | [🔗](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="" width="50" /> | SEOULITE                                            | [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273cab1d5724ddfed3aa8a4fd0f" alt="" width="50" /> | PSY 9th                                             | [🔗](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2739b57e9b31c831fb2137c38e2" alt="" width="50" /> | Oh! - The Second Album                              | [🔗](https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E) |
@@ -205,7 +206,6 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273e4915763c3c7f7a05cc93885" alt="" width="50" /> | Why - The 2nd Mini Album                            | [🔗](https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c76a0146e4c1804f22cab995" alt="" width="50" /> | WE NEED LOVE                                        | [🔗](https://open.spotify.com/album/04EniWu488MF6louRYafKJ) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2738164cd1a2e03b7ca2db9ff5e" alt="" width="50" /> | The Red Summer - Summer Mini Album                  | [🔗](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="" width="50" /> | The Red - The 1st Album                             | [🔗](https://open.spotify.com/album/6YL9J0E6PGtYzkhyMxnmXd) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="" width="50" /> | The Most Beautiful Moment in Life: Young Forever    | [🔗](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27349ae714ee0bf50ca0838ed0f" alt="" width="50" /> | THE WORLD EP.1 : MOVEMENT                           | [🔗](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273b787b5b8c27a5dbd360c0f59" alt="" width="50" /> | THE WAR - The 4th Album                             | [🔗](https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn) |
@@ -241,22 +241,22 @@
 
 |   Number of Tracks | Label                                                                                                               |
 |-------------------:|:--------------------------------------------------------------------------------------------------------------------|
-|                201 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
-|                 83 | [Republic Records](../labels/republic_records.md)                                                                   |
+|                203 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
+|                 84 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 60 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
 |                 43 | [Genie Music Corporation](../labels/genie_music_corporation.md)                                                     |
 |                 42 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                                                 |
 |                 33 | [BIGHIT MUSIC](../labels/bighit_music.md)                                                                           |
 |                 32 | [Universal Music LLC](../labels/universal_music_llc.md)                                                             |
 |                 32 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                                                               |
-|                 31 | [Interscope](../labels/interscope.md)                                                                               |
+|                 31 | [Interscope Records](../labels/interscope_records.md)                                                               |
 |                 30 | [RBW Inc.](../labels/rbw_inc_.md)                                                                                   |
 |                 18 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)                                                           |
 |                 17 | [JYP Entertainment](../labels/jyp_entertainment.md)                                                                 |
 |                 15 | [Kakao Entertainment](../labels/kakao_entertainment.md)                                                             |
+|                 12 | [WM Korea](../labels/wm_korea.md)                                                                                   |
 |                 12 | [Starship Entertainment](../labels/starship_entertainment.md)                                                       |
 |                 12 | [HYBE](../labels/hybe.md)                                                                                           |
-|                 11 | [WM Korea](../labels/wm_korea.md)                                                                                   |
 |                 11 | [High Up Entertainment](../labels/high_up_entertainment.md)                                                         |
 |                  9 | [MYSTIC STORY](../labels/mystic_story.md)                                                                           |
 |                  9 | [MNH ENTERTAINMENT](../labels/mnh_entertainment.md)                                                                 |
@@ -353,12 +353,12 @@
 | Idle song                             | CHEESE                      |
 | RUN (HAN)                             | MY LOVE                     |
 | Jelly                                 | Clockwork                   |
-| Typa Girl                             | Epilogue                    |
-| Weather                               | Like Water                  |
+| Weather                               | Epilogue                    |
+| Typa Girl                             | Like Water                  |
 | BOOM                                  | Fine                        |
 | Mr. Simple                            | My sea                      |
-| 1, 2, 3, 4                            | On The Ground               |
-| That That (prod. & feat. SUGA of BTS) | U                           |
+| That That (prod. & feat. SUGA of BTS) | On The Ground               |
+| 1, 2, 3, 4                            | U                           |
 
 | 10 most Energetic tracks   | 10 least Energetic tracks                            |
 |:---------------------------|:-----------------------------------------------------|
@@ -375,16 +375,16 @@
 
 | 10 most Speechy tracks        | 10 least Speechy tracks                    |
 |:------------------------------|:-------------------------------------------|
-| Addicted                      | YOUNG LUV                                  |
-| MANIAC                        | NANANA                                     |
-| Freedom                       | Hope Not                                   |
-| I GOT IT (HAN)                | Gee                                        |
-| Ice Cream (with Selena Gomez) | The Magic of Christmas Time                |
+| Addicted                      | NANANA                                     |
+| MANIAC                        | YOUNG LUV                                  |
+| Freedom                       | Gee                                        |
+| Ice Cream (with Selena Gomez) | Hope Not                                   |
+| I GOT IT (HAN)                | The Magic of Christmas Time                |
 | Feelin' Like                  | Winter Sleep                               |
 | VENOM                         | Wicked                                     |
 | Signal                        | Moonlight Melody                           |
-| BBIBBI                        | She′s In The Rain                          |
-| You Better Run                | Slightly Tipsy (She is My Type♡ X SANDEUL) |
+| BBIBBI                        | Slightly Tipsy (She is My Type♡ X SANDEUL) |
+| You Better Run                | She′s In The Rain                          |
 
 | 10 most Acoustic tracks                              | 10 least Acoustic tracks   |
 |:-----------------------------------------------------|:---------------------------|
@@ -409,8 +409,8 @@
 | GingaMingaYo (the strange world) | Is this bad b****** number?    |
 | I Am The Best                    | Idle song                      |
 | Power Up                         | Wow Thing                      |
-| BBoom BBoom                      | Monster                        |
-| In My Dreams                     | I Miss You                     |
+| Fairy of Shampoo                 | Monster                        |
+| BBoom BBoom                      | I Miss You                     |
 
 | 10 most Live tracks            | 10 least Live tracks                  |
 |:-------------------------------|:--------------------------------------|
@@ -422,8 +422,8 @@
 | I Like That                    | Holiday Party                         |
 | Vibrato                        | memeM                                 |
 | 행복 (Happiness)                 | That That (prod. & feat. SUGA of BTS) |
-| LP                             | CASE 143                              |
-| Genie                          | PING PONG                             |
+| Genie                          | CASE 143                              |
+| LP                             | PING PONG                             |
 
 | 10 most Happy tracks   | 10 least Happy tracks     |
 |:-----------------------|:--------------------------|
@@ -433,7 +433,7 @@
 | Pepe                   | Time After Time           |
 | Miniskirt              | My sea                    |
 | So Hot                 | Side Effects              |
-| Twinkle                | Good Night My Princess    |
-| 쏘리 쏘리 Sorry, Sorry     | 7월 7일 One Of These Nights |
-| Some (feat. Lil Boi)   | Grey Suit                 |
-| Lion Heart             | The Road                  |
+| 쏘리 쏘리 Sorry, Sorry     | Good Night My Princess    |
+| Twinkle                | 7월 7일 One Of These Nights |
+| Give it to me          | Grey Suit                 |
+| Some (feat. Lil Boi)   | The Road                  |

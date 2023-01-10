@@ -84,7 +84,7 @@
 
 |   Number of Tracks | Label                                                                                   |
 |-------------------:|:----------------------------------------------------------------------------------------|
-|                 19 | [Interscope](../labels/interscope.md)                                                   |
+|                 19 | [Interscope Records](../labels/interscope_records.md)                                   |
 |                 17 | [Polydor Records](../labels/polydor_records.md)                                         |
 |                 10 | [Darkroom](../labels/darkroom.md)                                                       |
 |                  2 | [A Star is Born OST](../labels/a_star_is_born_ost.md)                                   |

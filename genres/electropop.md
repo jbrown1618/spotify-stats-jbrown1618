@@ -100,7 +100,7 @@
 |-------------------:|:----------------------------------------------------------------------|
 |                 13 | [Warner Records](../labels/warner_records.md)                         |
 |                 10 | [Darkroom](../labels/darkroom.md)                                     |
-|                  8 | [Interscope](../labels/interscope.md)                                 |
+|                  8 | [Interscope Records](../labels/interscope_records.md)                 |
 |                  4 | [Polydor Records](../labels/polydor_records.md)                       |
 |                  4 | [Bad Boy](../labels/bad_boy.md)                                       |
 |                  2 | [Wondaland](../labels/wondaland.md)                                   |

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27345680a4a57c97894490a01c1ab67616d0000b27389992f4d7d4ab94937bf9e23ab67616d0000b273e13de7b8662b085b0885ffefab67616d0000b273ff5429125128b43572dbdccd" alt="R&B" width="100" />
 
-[84 songs](r_b_tracks.md)
+[86 songs](r_b_tracks.md)
 
 ## Top Artists
 
@@ -13,7 +13,7 @@
 
 
 <details>
-<summary>See all 55 artists</summary>
+<summary>See all 57 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                 | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:------------------------------------------------------------|
@@ -26,8 +26,10 @@
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb3f0f76df1047720f2e57fc35" alt="" width="50" /> | The Temptations                        | [🔗](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb2e42d906f4f9f672359e7379" alt="" width="50" /> | Usher                                  | [🔗](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebaed3c717bf1753ab928ea88d" alt="" width="50" /> | John Legend                            | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb727a2ac15afe659be999beba" alt="" width="50" /> | Doja Cat                               | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | JAY-Z                                  | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd09edfd2babfc9fd2ba748e" alt="" width="50" /> | Daniel Caesar                          | [🔗](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebb5f9e28219c169fd4b9e8379" alt="" width="50" /> | The Weeknd                             | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba12641edfc4ffbbdf58f7d15" alt="" width="50" /> | Lil Jon                                | [🔗](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd66f1e0c883f319443d68c45" alt="" width="50" /> | Lil Nas X                              | [🔗](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9dde4a54073dbd58fb91c7d" alt="" width="50" /> | Ty Dolla $ign                          | [🔗](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) |
@@ -42,13 +44,14 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | B.o.B                                  | [🔗](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8079989370c50963b60ee7bc" alt="" width="50" /> | CeeLo Green                            | [🔗](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | Juicy J                                | [🔗](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb727a2ac15afe659be999beba" alt="" width="50" /> | Doja Cat                               | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 |                  1 | <img src="https://i.scdn.co/image/03e8855382d21e1cbf8172c03001ab8847889f38" alt="" width="50" /> | Gnarls Barkley                         | [🔗](https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf91c2e559a5a8233d3b35fb1" alt="" width="50" /> | Tyga                                   | [🔗](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0d66b3670294bf801847dae2" alt="" width="50" /> | Lizzo                                  | [🔗](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8c2332e6c0ed96d144a91b3f" alt="" width="50" /> | Cardi B                                | [🔗](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9f754de994ed3b6e8f01522" alt="" width="50" /> | Jidenna                                | [🔗](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a528fcb316c5b58d6be0511" alt="" width="50" /> | 6LACK                                  | [🔗](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a2235c7e50d72aef06b7f66" alt="" width="50" /> | The Foundations                        | [🔗](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebbda00a72a1f7e4f93c071614" alt="" width="50" /> | QUIN                                   | [🔗](https://open.spotify.com/artist/3sHS70DMNgPxRqx2fUNrRA) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496" alt="" width="50" /> | Anderson .Paak                         | [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) |
 |                  1 | <img src="https://i.scdn.co/image/adcc1cb654e89f2e404688ae0d1bbc942ce02e5d" alt="" width="50" /> | Ludacris                               | [🔗](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb49637fe719fddb8e90896f41" alt="" width="50" /> | Jhorrmountain                          | [🔗](https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o) |
@@ -63,7 +66,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebca118e3822061f7b7f6bc537" alt="" width="50" /> | Ne-Yo                                  | [🔗](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb81d954dd35145481964ddd6c" alt="" width="50" /> | Mikky Ekko                             | [🔗](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf75e64532704bd6acf0b4e76" alt="" width="50" /> | Destiny's Child                        | [🔗](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb5f9e28219c169fd4b9e8379" alt="" width="50" /> | The Weeknd                             | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2822fcd3337b030199b3861a" alt="" width="50" /> | Pink Sweat$                            | [🔗](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf556662d187b9191c421be1c" alt="" width="50" /> | 2 Chainz                               | [🔗](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb058531dfd9746a96ad85265f" alt="" width="50" /> | Etta James                             | [🔗](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) |
@@ -82,7 +84,7 @@
 
 
 <details>
-<summary>See all 65 albums</summary>
+<summary>See all 67 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                                                                   | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -118,6 +120,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50" alt="" width="50" /> | Songs In The Key Of Life                                                                                | [🔗](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c5e9e847ca9c0982b4c91d4b" alt="" width="50" /> | Signed, Sealed And Delivered                                                                            | [🔗](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c8245ce2a727675a0a232b2f" alt="" width="50" /> | Preach                                                                                                  | [🔗](https://open.spotify.com/album/32r4o1R9a1lK5DoVXGEC7E) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" alt="" width="50" /> | Planet Her                                                                                              | [🔗](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734e8e488284a2cf00a613c0a1" alt="" width="50" /> | Music From The Motion Picture Cadillac Records                                                          | [🔗](https://open.spotify.com/album/4b2zuwf7CPesdiTg1kFDjU) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b72cb7bed93d6e2fdf42cffe" alt="" width="50" /> | Metropolis: The Chase Suite (Special Edition)                                                           | [🔗](https://open.spotify.com/album/3T3bJi3cvwR5U7ihwgEwF1) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736506e351b719b6f122e60ea2" alt="" width="50" /> | Meet The Temptations                                                                                    | [🔗](https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt) |
@@ -125,6 +128,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27394c9217a398f5174757c0c78" alt="" width="50" /> | Love In The Future (Expanded Edition)                                                                   | [🔗](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="" width="50" /> | Loud                                                                                                    | [🔗](https://open.spotify.com/album/6UHhmTLl9T1scRYLmpHcDX) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736f9e6abbd6fa43ac3cdbeee0" alt="" width="50" /> | Leave The Door Open                                                                                     | [🔗](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736564f1d8386a6993b4d5d759" alt="" width="50" /> | LUCID                                                                                                   | [🔗](https://open.spotify.com/album/5qQhQ1rmPjqQgv8RmfaQU3) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273260e2444b3431b3b8b559bc3" alt="" width="50" /> | Jordin Sparks                                                                                           | [🔗](https://open.spotify.com/album/6JCNOvp9UeMrFuXwNW0JW6) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273987a1825341694ec9bc62457" alt="" width="50" /> | In My Own Words                                                                                         | [🔗](https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736e62a873c96524a3788a2edf" alt="" width="50" /> | I Don't Mind (feat. Juicy J)                                                                            | [🔗](https://open.spotify.com/album/5BAqg5IJQ7XFKfdoCiOlJw) |
@@ -161,7 +165,7 @@
 
 
 <details>
-<summary>See all 39 labels</summary>
+<summary>See all 42 labels</summary>
 
 |   Number of Tracks | Label                                                           |
 |-------------------:|:----------------------------------------------------------------|
@@ -177,6 +181,7 @@
 |                  5 | [Bad Boy](../labels/bad_boy.md)                                 |
 |                  3 | [LaFace Records](../labels/laface_records.md)                   |
 |                  2 | [Wondaland](../labels/wondaland.md)                             |
+|                  2 | [RCA Records Label](../labels/rca_records_label.md)             |
 |                  2 | [Golden Child Recordings](../labels/golden_child_recordings.md) |
 |                  2 | [G.O.O.D. Music](../labels/g_o_o_d__music.md)                   |
 |                  1 | [Virgin Records](../labels/virgin_records.md)                   |
@@ -186,15 +191,17 @@
 |                  1 | [Rihanna](../labels/rihanna.md)                                 |
 |                  1 | [Republic Records](../labels/republic_records.md)               |
 |                  1 | [Red Zone Entertainment](../labels/red_zone_entertainment.md)   |
-|                  1 | [RCA Records Label](../labels/rca_records_label.md)             |
 |                  1 | [Nu America Music](../labels/nu_america_music.md)               |
 |                  1 | [Not specified](../labels/not_specified.md)                     |
 |                  1 | [Nice Life](../labels/nice_life.md)                             |
+|                  1 | [Kemosabe Records](../labels/kemosabe_records.md)               |
 |                  1 | [Jive](../labels/jive.md)                                       |
 |                  1 | [JOYFACE Records](../labels/joyface_records.md)                 |
+|                  1 | [Interscope Records](../labels/interscope_records.md)           |
 |                  1 | [IDJ](../labels/idj.md)                                         |
 |                  1 | [H 3 F](../labels/h_3_f.md)                                     |
 |                  1 | [Geffen](../labels/geffen.md)                                   |
+|                  1 | [Fantasy Soul](../labels/fantasy_soul.md)                       |
 |                  1 | [Epic](../labels/epic.md)                                       |
 |                  1 | [EMI](../labels/emi.md)                                         |
 |                  1 | [Downtown Recordings](../labels/downtown_recordings.md)         |
@@ -218,15 +225,15 @@
 
 |   Number of Tracks | Genre                                           |
 |-------------------:|:------------------------------------------------|
-|                 58 | [pop](../genres/pop.md)                         |
-|                 52 | [dance pop](../genres/dance_pop.md)             |
+|                 63 | [pop](../genres/pop.md)                         |
+|                 53 | [dance pop](../genres/dance_pop.md)             |
 |                 29 | [r&b](../genres/r_b.md)                         |
 |                 24 | urban contemporary                              |
 |                 12 | soul                                            |
 |                 12 | neo soul                                        |
 |                 10 | barbadian pop                                   |
 |                 10 | atl hip hop                                     |
-|                  8 | motown                                          |
+|                  9 | motown                                          |
 |                  7 | [post-teen pop](../genres/post_teen_pop.md)     |
 |                  6 | pop rap                                         |
 |                  6 | escape room                                     |
@@ -245,6 +252,7 @@
 |                  4 | classic soul                                    |
 |                  3 | canadian contemporary r&b                       |
 |                  2 | lgbtq+ hip hop                                  |
+|                  2 | indie r&b                                       |
 |                  2 | hip hop                                         |
 |                  2 | chill r&b                                       |
 |                  1 | vocal jazz                                      |
@@ -261,7 +269,6 @@
 |                  1 | minnesota hip hop                               |
 |                  1 | [mellow gold](../genres/mellow_gold.md)         |
 |                  1 | jazz blues                                      |
-|                  1 | indie r&b                                       |
 |                  1 | girl group                                      |
 |                  1 | disco                                           |
 |                  1 | canadian pop                                    |
@@ -285,7 +292,7 @@
 | Bootylicious                     | Half Of Me                                    |
 | Don't Stop The Music             | Unknown (To You)                              |
 | Crazy                            | Ave Maria                                     |
-| 24K Magic                        | I'd Rather Go Blind                           |
+| You Right                        | I'd Rather Go Blind                           |
 
 | 10 most Energetic tracks                   | 10 least Energetic tracks                 |
 |:-------------------------------------------|:------------------------------------------|
@@ -313,31 +320,31 @@
 | Boss Bitch                  | Ave Maria                                    |
 | Daddy Lessons               | I'd Rather Go Blind                          |
 
-| 10 most Acoustic tracks   | 10 least Acoustic tracks    |
-|:--------------------------|:----------------------------|
-| Stay                      | That's What I Like          |
-| When I Was Your Man       | S&M                         |
-| All of Me                 | If I Go                     |
-| Unknown (To You)          | Umbrella                    |
-| Best Part (feat. H.E.R.)  | Finesse                     |
-| Ave Maria                 | Watch n' Learn              |
-| At My Worst               | Crazy In Love (feat. Jay-Z) |
-| How Can I                 | Bootylicious                |
-| Hold Up                   | Blinding Lights             |
-| I'd Rather Go Blind       | Coño                        |
+| 10 most Acoustic tracks         | 10 least Acoustic tracks    |
+|:--------------------------------|:----------------------------|
+| Stay                            | That's What I Like          |
+| When I Was Your Man             | S&M                         |
+| All of Me                       | If I Go                     |
+| Unknown (To You)                | Umbrella                    |
+| Best Part (feat. H.E.R.)        | Finesse                     |
+| Ave Maria                       | Watch n' Learn              |
+| At My Worst                     | Crazy In Love (feat. Jay-Z) |
+| Mushroom Chocolate (with 6LACK) | Bootylicious                |
+| How Can I                       | Blinding Lights             |
+| Hold Up                         | Coño                        |
 
-| 10 most Instrumental tracks                    | 10 least Instrumental tracks              |
-|:-----------------------------------------------|:------------------------------------------|
-| Crazy                                          | Ain't Too Proud To Beg                    |
-| Papa Was A Rollin' Stone - Single Version      | Umbrella                                  |
-| Coño                                           | DJ Got Us Fallin' In Love (feat. Pitbull) |
-| Superstition - Single Version                  | Locked out of Heaven                      |
-| Tomboy                                         | Me & U                                    |
-| Isn't She Lovely                               | Countdown                                 |
-| I Like That                                    | Finesse - Remix; feat. Cardi B            |
-| Thinkin Bout You                               | All of Me                                 |
-| We Found Love                                  | Halo                                      |
-| Tightrope (feat. Big Boi) - Big Boi Vocal Edit | Hit 'Em Up Style (Oops!)                  |
+| 10 most Instrumental tracks               | 10 least Instrumental tracks          |
+|:------------------------------------------|:--------------------------------------|
+| Crazy                                     | Trumpets                              |
+| Papa Was A Rollin' Stone - Single Version | Halo                                  |
+| Coño                                      | 24K Magic                             |
+| Superstition - Single Version             | Bootylicious                          |
+| Tomboy                                    | Grenade                               |
+| Isn't She Lovely                          | Signed, Sealed, Delivered (I'm Yours) |
+| I Like That                               | Disturbia                             |
+| You Right                                 | Build Me Up Buttercup                 |
+| Thinkin Bout You                          | Daddy Lessons                         |
+| We Found Love                             | Hit 'Em Up Style (Oops!)              |
 
 | 10 most Live tracks              | 10 least Live tracks                      |
 |:---------------------------------|:------------------------------------------|
@@ -354,7 +361,7 @@
 
 | 10 most Happy tracks                      | 10 least Happy tracks                         |
 |:------------------------------------------|:----------------------------------------------|
-| Finesse                                   | Sincerely, Jane                               |
+| Finesse                                   | Unknown (To You)                              |
 | Ain't Too Proud To Beg                    | There Goes My Baby                            |
 | Finesse - Remix; feat. Cardi B            | Grenade                                       |
 | Papa Was A Rollin' Stone - Single Version | I Was Here                                    |

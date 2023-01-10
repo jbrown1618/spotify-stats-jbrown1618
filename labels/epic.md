@@ -1,6 +1,6 @@
 # Epic
 
-88 songs
+89 songs
 
 Appears as:
 - Epic (70 tracks)
@@ -8,15 +8,16 @@ Appears as:
 - Epic/Legacy (4 tracks)
 - Epic/Phonogenic (2 tracks)
 - Ode/Epic/Legacy (2 tracks)
+- Epic/Not So Fast (1 tracks)
 - Wondaland Records/Epic (1 tracks)
 
 ## Top Artists
 
-![Bar chart of top 21 artists](../images/labels/epic/artists.png)
+![Bar chart of top 22 artists](../images/labels/epic/artists.png)
 
 
 <details>
-<summary>See all 21 artists</summary>
+<summary>See all 22 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                         | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------|:------------------------------------------------------------|
@@ -38,6 +39,7 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | Young Thug                                     | [🔗](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ace68c56849548db7f102be" alt="" width="50" /> | DaBaby                                         | [🔗](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebce8d5be6690c6964069ab8e0" alt="" width="50" /> | Jason Mraz                                     | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0219b6643b1ec449b0951bfe" alt="" width="50" /> | Giveon                                         | [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9f754de994ed3b6e8f01522" alt="" width="50" /> | Jidenna                                        | [🔗](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | Christina Aguilera                             | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8b74c36ba6c31fc0f58783c" alt="" width="50" /> | George Michael                                 | [🔗](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) |
@@ -47,11 +49,11 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 26 albums](../images/labels/epic/albums.png)
+![Bar chart of top 27 albums](../images/labels/epic/albums.png)
 
 
 <details>
-<summary>See all 26 albums</summary>
+<summary>See all 27 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                                                               | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -69,6 +71,7 @@ Appears as:
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | Bad (Remastered)                                                                                    | [🔗](https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="" width="50" /> | Yoga                                                                                                | [🔗](https://open.spotify.com/album/5rzxGeVyCV74SvV5hjLRAU) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273752d2becbb91841a31c556b8" alt="" width="50" /> | Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground) | [🔗](https://open.spotify.com/album/3pzQF7YgU1f66pBayA8uHv) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27318ff322fcdd47c9400872da6" alt="" width="50" /> | TAKE TIME                                                                                           | [🔗](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735bdd9e580fdda5e676a25e6a" alt="" width="50" /> | Reflection (Deluxe)                                                                                 | [🔗](https://open.spotify.com/album/0zAsh6hObeNmFgFPrUiFcP) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27359f0f56a7cd13526b5b4204c" alt="" width="50" /> | Point Of Know Return (Expanded Edition)                                                             | [🔗](https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27327ddd747545c0d0cfe7595fa" alt="" width="50" /> | Oral Fixation, Vol. 2 (Expanded Edition)                                                            | [🔗](https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU) |
@@ -95,18 +98,17 @@ Appears as:
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
-|                 79 | [pop](../genres/pop.md)                             |
+|                 80 | [pop](../genres/pop.md)                             |
 |                 62 | [pop rock](../genres/pop_rock.md)                   |
 |                 62 | [neo mellow](../genres/neo_mellow.md)               |
 |                 59 | [lilith](../genres/lilith.md)                       |
 |                 59 | [hollywood](../genres/hollywood.md)                 |
 |                 59 | [acoustic pop](../genres/acoustic_pop.md)           |
 |                 13 | [dance pop](../genres/dance_pop.md)                 |
+|                  9 | [r&b](../genres/r_b.md)                             |
 |                  8 | soul                                                |
-|                  8 | [r&b](../genres/r_b.md)                             |
 |                  8 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                  4 | [soft rock](../genres/soft_rock.md)                 |
-|                  4 | [rock](../genres/rock.md)                           |
 |                  4 | [mellow gold](../genres/mellow_gold.md)             |
 |                  4 | [classic rock](../genres/classic_rock.md)           |
 |                  3 | latin pop                                           |
@@ -114,11 +116,12 @@ Appears as:
 |                  2 | talent show                                         |
 |                  2 | symphonic rock                                      |
 |                  2 | [singer-songwriter](../genres/singer_songwriter.md) |
+|                  2 | [rock](../genres/rock.md)                           |
 |                  2 | progressive rock                                    |
 |                  2 | heartland rock                                      |
 |                  2 | hard rock                                           |
 |                  2 | girl group                                          |
-|                  2 | [folk rock](../genres/folk_rock.md)                 |
+|                  2 | folk rock                                           |
 |                  2 | folk                                                |
 |                  2 | celtic rock                                         |
 |                  2 | brill building pop                                  |
@@ -144,17 +147,18 @@ Appears as:
 | Art                                                                                              | Track                                                                                               | Album                                                                                               | Artists                                                    | Label                                        | 💚   | 🔗                                                          |
 |:-------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------|:-----------------------------------------------------------|:---------------------------------------------|:----|:-----------------------------------------------------------|
 | <img src="https://i.scdn.co/image/ab67616d0000b273554488d0c51967b1654d8ce5" alt="" width="50" /> | Say Something                                                                                       | Is There Anybody Out There?                                                                         | A Great Big World, Christina Aguilera                      | [Epic](epic.md)                              | 💚   | [🔗](https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Consequences                                                                                        | Camila                                                                                              | Camila Cabello                                             | [Epic](epic.md), [Syco Music](syco_music.md) | 💚   | [🔗](https://open.spotify.com/track/7sTtHHrD0zDpmzQzH3zegz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Havana (feat. Young Thug)                                                                           | Camila                                                                                              | Camila Cabello, Young Thug                                 | [Epic](epic.md), [Syco Music](syco_music.md) | 💚   | [🔗](https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Never Be the Same                                                                                   | Camila                                                                                              | Camila Cabello                                             | [Epic](epic.md), [Syco Music](syco_music.md) | 💚   | [🔗](https://open.spotify.com/track/4eWQlBRaTjPPUlzacqEeoQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c4f298e7cbedb77f8e030ff0" alt="" width="50" /> | Cry for Me                                                                                          | Cry for Me                                                                                          | Camila Cabello                                             | [Epic](epic.md), [Syco Music](syco_music.md) | 💚   | [🔗](https://open.spotify.com/track/40nPimvmG05WYS7983bawZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Living Proof                                                                                        | Romance                                                                                             | Camila Cabello                                             | [Epic](epic.md), [Syco Music](syco_music.md) |     | [🔗](https://open.spotify.com/track/4jFD7byoPdGkEdjHLMduR9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | My Oh My (feat. DaBaby)                                                                             | Romance                                                                                             | Camila Cabello, DaBaby                                     | [Epic](epic.md), [Syco Music](syco_music.md) | 💚   | [🔗](https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Consequences                                                                                        | Camila                                                                                              | Camila Cabello                                             | [Syco Music](syco_music.md), [Epic](epic.md) | 💚   | [🔗](https://open.spotify.com/track/7sTtHHrD0zDpmzQzH3zegz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Havana (feat. Young Thug)                                                                           | Camila                                                                                              | Camila Cabello, Young Thug                                 | [Syco Music](syco_music.md), [Epic](epic.md) | 💚   | [🔗](https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Never Be the Same                                                                                   | Camila                                                                                              | Camila Cabello                                             | [Syco Music](syco_music.md), [Epic](epic.md) | 💚   | [🔗](https://open.spotify.com/track/4eWQlBRaTjPPUlzacqEeoQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c4f298e7cbedb77f8e030ff0" alt="" width="50" /> | Cry for Me                                                                                          | Cry for Me                                                                                          | Camila Cabello                                             | [Syco Music](syco_music.md), [Epic](epic.md) | 💚   | [🔗](https://open.spotify.com/track/40nPimvmG05WYS7983bawZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Living Proof                                                                                        | Romance                                                                                             | Camila Cabello                                             | [Syco Music](syco_music.md), [Epic](epic.md) |     | [🔗](https://open.spotify.com/track/4jFD7byoPdGkEdjHLMduR9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | My Oh My (feat. DaBaby)                                                                             | Romance                                                                                             | Camila Cabello, DaBaby                                     | [Syco Music](syco_music.md), [Epic](epic.md) | 💚   | [🔗](https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="" width="50" /> | I Feel the Earth Move                                                                               | Tapestry                                                                                            | Carole King                                                | Ode, [Epic](epic.md), [Legacy](legacy.md)    |     | [🔗](https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="" width="50" /> | So Far Away                                                                                         | Tapestry                                                                                            | Carole King                                                | Ode, [Epic](epic.md), [Legacy](legacy.md)    |     | [🔗](https://open.spotify.com/track/4HHge4zAyIw3pkrtFzmwCl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735bdd9e580fdda5e676a25e6a" alt="" width="50" /> | Worth It (feat. Kid Ink)                                                                            | Reflection (Deluxe)                                                                                 | Fifth Harmony, Kid Ink                                     | [Epic](epic.md), [Syco Music](syco_music.md) | 💚   | [🔗](https://open.spotify.com/track/41Fflg7qHiVOD6dEPvsCzO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d03fa6f4e758282b7920b5c8" alt="" width="50" /> | That's My Girl                                                                                      | 7/27 (Deluxe)                                                                                       | Fifth Harmony                                              | [Epic](epic.md), [Syco Music](syco_music.md) |     | [🔗](https://open.spotify.com/track/2ACOWPLUe4A4KuQ5ioD2od) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735bdd9e580fdda5e676a25e6a" alt="" width="50" /> | Worth It (feat. Kid Ink)                                                                            | Reflection (Deluxe)                                                                                 | Fifth Harmony, Kid Ink                                     | [Syco Music](syco_music.md), [Epic](epic.md) | 💚   | [🔗](https://open.spotify.com/track/41Fflg7qHiVOD6dEPvsCzO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d03fa6f4e758282b7920b5c8" alt="" width="50" /> | That's My Girl                                                                                      | 7/27 (Deluxe)                                                                                       | Fifth Harmony                                              | [Syco Music](syco_music.md), [Epic](epic.md) |     | [🔗](https://open.spotify.com/track/2ACOWPLUe4A4KuQ5ioD2od) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b7a9a6a2bf311630d3fc6956" alt="" width="50" /> | Faith - Remastered                                                                                  | Faith                                                                                               | George Michael                                             | [Epic](epic.md)                              | 💚   | [🔗](https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27318ff322fcdd47c9400872da6" alt="" width="50" /> | Heartbreak Anniversary                                                                              | TAKE TIME                                                                                           | Giveon                                                     | [Epic/Not So Fast](epic.md)                  |     | [🔗](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="" width="50" /> | Yoga                                                                                                | Yoga                                                                                                | Janelle Monáe, Jidenna                                     | [Wondaland Records/Epic](wondaland.md)       | 💚   | [🔗](https://open.spotify.com/track/3IJCSQoLF4YzPAKaxq2JLb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731be40e44db112e123e5e8b51" alt="" width="50" /> | Carry on Wayward Son                                                                                | Leftoverture (Expanded Edition)                                                                     | Kansas                                                     | [Epic](epic.md), [Legacy](legacy.md)         |     | [🔗](https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f0f56a7cd13526b5b4204c" alt="" width="50" /> | Dust in the Wind                                                                                    | Point Of Know Return (Expanded Edition)                                                             | Kansas                                                     | [Epic](epic.md), [Legacy](legacy.md)         | 💚   | [🔗](https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI) |
@@ -228,6 +232,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273f342e70aacda9d78cfb6ce7a" alt="" width="50" /> | La Tortura (feat. Alejandro Sanz)                                                                   | Fijación Oral, Vol. 1                                                                               | Shakira, Alejandro Sanz                                    | [Epic](epic.md)                              |     | [🔗](https://open.spotify.com/track/5BSclXJTa9B0iURhUjZo50) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27327ddd747545c0d0cfe7595fa" alt="" width="50" /> | Hips Don't Lie (feat. Wyclef Jean)                                                                  | Oral Fixation, Vol. 2 (Expanded Edition)                                                            | Shakira, Wyclef Jean                                       | [Epic](epic.md)                              | 💚   | [🔗](https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273752d2becbb91841a31c556b8" alt="" width="50" /> | Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground) | Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground) | Shakira, Freshlyground                                     | [Epic](epic.md)                              | 💚   | [🔗](https://open.spotify.com/track/2Cd9iWfcOpGDHLz6tVA3G4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Señorita                                                                                            | Romance                                                                                             | Shawn Mendes, Camila Cabello                               | [Epic](epic.md), [Syco Music](syco_music.md) | 💚   | [🔗](https://open.spotify.com/track/3BVgrFWuH01GmCUy9Y2EE8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Señorita                                                                                            | Romance                                                                                             | Shawn Mendes, Camila Cabello                               | [Syco Music](syco_music.md), [Epic](epic.md) | 💚   | [🔗](https://open.spotify.com/track/3BVgrFWuH01GmCUy9Y2EE8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | Breakeven                                                                                           | The Script                                                                                          | The Script                                                 | [Epic/Phonogenic](epic.md)                   | 💚   | [🔗](https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | The Man Who Can't Be Moved                                                                          | The Script                                                                                          | The Script                                                 | [Epic/Phonogenic](epic.md)                   | 💚   | [🔗](https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf) |

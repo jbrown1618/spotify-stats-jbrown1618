@@ -1,6 +1,6 @@
 # k-pop boy group
 
-[231 songs](k_pop_boy_group_tracks.md)
+[233 songs](k_pop_boy_group_tracks.md)
 
 ## Top Artists
 
@@ -21,8 +21,8 @@
 |                 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb7401998434b12fffd119ae18" alt="" width="50" /> | [NCT 127](../artists/nct_127.md)       | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
 |                 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="" width="50" /> | [EXO](../artists/exo.md)               | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb5d87e2a10ba3b2f8bb2c5270" alt="" width="50" /> | ATEEZ                                  | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
+|                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb758f3c632d4d726f1129d336" alt="" width="50" /> | TOMORROW X TOGETHER                    | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bd65b0efee10bfa8328c33b" alt="" width="50" /> | NCT U                                  | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
-|                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb758f3c632d4d726f1129d336" alt="" width="50" /> | TOMORROW X TOGETHER                    | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9996e5d7c5b769b2b26ff1a" alt="" width="50" /> | SUPER JUNIOR                           | [🔗](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebd809a98eed8a673be5ed0576" alt="" width="50" /> | NCT DREAM                              | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5ebd90aa536055fe9806b3960e6" alt="" width="50" /> | GOT7                                   | [🔗](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) |
@@ -35,6 +35,7 @@
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb66701ca609176d8fd4a9c4a0" alt="" width="50" /> | NCT                                    | [🔗](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7c4240b7951da248f3404e42" alt="" width="50" /> | Steve Aoki                             | [🔗](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebac19ac3b8773baa5791999fb" alt="" width="50" /> | TVXQ!                                  | [🔗](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebe069abe9362512bec11f5e13" alt="" width="50" /> | AB6IX                                  | [🔗](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb07e5355b736b50bccbb0b651" alt="" width="50" /> | BLITZERS                               | [🔗](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb652b1738f121da382c3ab77b" alt="" width="50" /> | ONEUS                                  | [🔗](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb0222fa7cba5da5c28ea5d296" alt="" width="50" /> | BTOB                                   | [🔗](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) |
@@ -44,7 +45,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebbde67f9fdaf3531de31caad2" alt="" width="50" /> | Leslie Grace                           | [🔗](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb125d29add59b1d82aa236423" alt="" width="50" /> | 2PM                                    | [🔗](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) |
 |                  1 | <img src="nan" alt="" width="50" />                                                              | Changbin                               | [🔗](https://open.spotify.com/artist/5OTVNUu0UHn6ddPyEAi419) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe069abe9362512bec11f5e13" alt="" width="50" /> | AB6IX                                  | [🔗](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) |
 |                  1 | <img src="nan" alt="" width="50" />                                                              | Bang Chan                              | [🔗](https://open.spotify.com/artist/4qy7HANJDOZRObts4Z0KSV) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6034058cfde0084f922bb284" alt="" width="50" /> | ASTRO                                  | [🔗](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd86145072666f72cc5e833d8" alt="" width="50" /> | Monsta X                               | [🔗](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) |
@@ -119,6 +119,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27396678b0a030238837547c6ff" alt="" width="50" /> | The Renaissance - The 10th Album                   | [🔗](https://open.spotify.com/album/3qyzxavqOfixEPDfFCEMlH) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738ac442a54c68aad8f9b93f51" alt="" width="50" /> | The Most Beautiful Moment in Life Pt.2             | [🔗](https://open.spotify.com/album/4frjaGAtuBmm8CPuYPY4oG) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736207621becafe079ec6c9185" alt="" width="50" /> | The Dream Chapter: MAGIC                           | [🔗](https://open.spotify.com/album/5KoR6s906nbO21C9ZPdwTv) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b85b1b3fae4244c686929af5" alt="" width="50" /> | The Dream Chapter: ETERNITY                        | [🔗](https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735137378ed49327e5dec7406f" alt="" width="50" /> | The Chaos Chapter: FIGHT OR ESCAPE                 | [🔗](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732795c34a8931367a0916de54" alt="" width="50" /> | The 1st Album 'XOXO' (Repackage)                   | [🔗](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273be3a0f924ad08d95b4e25d9f" alt="" width="50" /> | TREASURE EPILOGUE : Action To Answer               | [🔗](https://open.spotify.com/album/3TTkDOcSzRQCvGMT7VmmPE) |
@@ -127,6 +128,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273676c5cfc0c0f7ba0039adbba" alt="" width="50" /> | TREASURE EP.1: All to Zero                         | [🔗](https://open.spotify.com/album/4ayTucmOGwLd0WrJddrUwx) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731544041d0285585cc92c2709" alt="" width="50" /> | THE BOYZ 6TH MINI ALBUM [THRILL-ING]               | [🔗](https://open.spotify.com/album/0lh0pZ8GjZGrAhzIG4Jn0E) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732fd0233f39f381edbb84c26b" alt="" width="50" /> | THE BOYZ 5th MINI ALBUM [CHASE]                    | [🔗](https://open.spotify.com/album/6HwY3FwprtqsmMuoLnXWhT) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731f5de98907a7f969ea7c28db" alt="" width="50" /> | TAKE A CHANCE                                      | [🔗](https://open.spotify.com/album/1QDAlRAOgIMPBQpMQ4LZ0E) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27390831ba9ed4aa3b89fd6b81c" alt="" width="50" /> | Street Man Fighter Original Vol.4 (Crew Songs)     | [🔗](https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | Still Life                                         | [🔗](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d64e2f339a0a9ea967b308e" alt="" width="50" /> | Step Out of Clé (English Ver.)                     | [🔗](https://open.spotify.com/album/2BBeNPEEevRiYISKYEnGvc) |
@@ -165,8 +167,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dbb82cf845a6d574224a0d33" alt="" width="50" /> | MAMACITA - The 7th Album                           | [🔗](https://open.spotify.com/album/53i190Z2uGOLljuS3DCvz2) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27366bcce2a19a9ccfd5d83f2a1" alt="" width="50" /> | MAD                                                | [🔗](https://open.spotify.com/album/3MPrK5Op0AZAql78coCQLA) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27390ad9f6d2ba8838a689999cc" alt="" width="50" /> | Lucifer - The 2nd Album                            | [🔗](https://open.spotify.com/album/4jNPKKJ0NL349RXPx7y9f4) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273eb366517758754ca13a4adf5" alt="" width="50" /> | Love&Letter repackage album                        | [🔗](https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737c4382c3305785dfd04d5d01" alt="" width="50" /> | Liminality - EP.LOVE                               | [🔗](https://open.spotify.com/album/5zh19l4Nbzqd8h9Y7F74do) |
 
 </details>
 
@@ -182,7 +182,7 @@
 |   Number of Tracks | Label                                                               |
 |-------------------:|:--------------------------------------------------------------------|
 |                 52 | [SM Entertainment](../labels/sm_entertainment.md)                   |
-|                 51 | [Republic Records](../labels/republic_records.md)                   |
+|                 52 | [Republic Records](../labels/republic_records.md)                   |
 |                 29 | [BIGHIT MUSIC](../labels/bighit_music.md)                           |
 |                 20 | [BELIFT LAB](../labels/belift_lab.md)                               |
 |                 16 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)           |
@@ -194,7 +194,7 @@
 |                  6 | [Universal Music LLC](../labels/universal_music_llc.md)             |
 |                  6 | [JYP Entertainment](../labels/jyp_entertainment.md)                 |
 |                  5 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)               |
-|                  3 | [WM Korea](../labels/wm_korea.md)                                   |
+|                  4 | [WM Korea](../labels/wm_korea.md)                                   |
 |                  3 | [FNC ENTERTAINMENT](../labels/fnc_entertainment.md)                 |
 |                  2 | [우조엔터테인먼트](../labels/________.md)                                   |
 |                  2 | [RBW Inc.](../labels/rbw_inc_.md)                                   |
@@ -222,8 +222,8 @@
 | Mr. Simple                 | Tap Tap                     |
 | HEYDAY (Prod. Czaer)       | Side Effects                |
 | Any                        | Just A Little Bit           |
-| Christmas EveL             | Runaway                     |
-| Love is New Gravity        | Sparkling Night             |
+| Love is New Gravity        | Runaway                     |
+| Christmas EveL             | Sparkling Night             |
 | 10 Months                  | Sorry                       |
 | Feelin' Like               | Boy in time - HUI Solo      |
 | Beatbox                    | CHEESE                      |
@@ -269,6 +269,7 @@
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks                 |
 |:------------------------------|:---------------------------------------------|
+| Fairy of Shampoo              | 9 and Three Quarters (Run Away)              |
 | Singularity                   | LO$ER=LO♡ER                                  |
 | Mr. Simple                    | Opening Sequence                             |
 | HALAZIA                       | Anti-Romantic                                |
@@ -277,8 +278,7 @@
 | Danger                        | Breathe Again                                |
 | Airplane pt.2                 | Love is New Gravity                          |
 | Sour                          | WONDERLAND                                   |
-| Doom Du Doom                  | HALA HALA (Hearts Awakened, Live Alive)      |
-| Ko Ko Bop                     | TFW (That Feeling When)                      |
+| Doom Du Doom                  | SHOUT OUT                                    |
 
 | 10 most Live tracks             | 10 least Live tracks       |
 |:--------------------------------|:---------------------------|
@@ -300,8 +300,8 @@
 | Left & Right                                        | Deep end (Felix)                    |
 | Up All Night (Bang Chan, Changbin, Felix, Seungmin) | Still Life                          |
 | 운명 The Chance of Love                               | The 7th Sense                       |
-| TFW (That Feeling When)                             | Anti-Romantic                       |
-| Candy Sugar Pop                                     | Singularity                         |
+| Candy Sugar Pop                                     | Anti-Romantic                       |
+| TFW (That Feeling When)                             | Singularity                         |
 | BLACK MIRROR                                        | Favorite (Vampire)                  |
 | Muddy Water (Changbin, Hyunjin, HAN, Felix)         | The Truth Untold (feat. Steve Aoki) |
 | Pretty U                                            | Side Effects                        |

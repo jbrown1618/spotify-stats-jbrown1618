@@ -155,7 +155,7 @@
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
-|                 34 | movie tunes                                         |
+|                 35 | movie tunes                                         |
 |                 22 | [hollywood](../genres/hollywood.md)                 |
 |                 21 | disney                                              |
 |                 16 | [show tunes](../genres/show_tunes.md)               |
@@ -176,7 +176,7 @@
 |                  1 | jump blues                                          |
 |                  1 | jazz blues                                          |
 |                  1 | funk                                                |
-|                  1 | [folk rock](../genres/folk_rock.md)                 |
+|                  1 | folk rock                                           |
 |                  1 | folk                                                |
 |                  1 | country rock                                        |
 |                  1 | classic uk pop                                      |

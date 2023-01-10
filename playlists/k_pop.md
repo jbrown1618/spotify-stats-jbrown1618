@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273f7da7c0f322b7a1c95190d92" alt="K-Pop" width="100" />
 
-[935 songs](k_pop_tracks.md)
+[936 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -251,7 +251,7 @@
 |                 51 | [Genie Music Corporation](../labels/genie_music_corporation.md)                                                     |
 |                 45 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                                                 |
 |                 36 | [BIGHIT MUSIC](../labels/bighit_music.md)                                                                           |
-|                 32 | [Interscope](../labels/interscope.md)                                                                               |
+|                 32 | [Interscope Records](../labels/interscope_records.md)                                                               |
 |                 32 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                                                               |
 |                 31 | [Universal Music LLC](../labels/universal_music_llc.md)                                                             |
 |                 28 | [RBW Inc.](../labels/rbw_inc_.md)                                                                                   |
@@ -261,7 +261,7 @@
 |                 16 | [Starship Entertainment](../labels/starship_entertainment.md)                                                       |
 |                 16 | [HYBE](../labels/hybe.md)                                                                                           |
 |                 15 | [Kakao Entertainment](../labels/kakao_entertainment.md)                                                             |
-|                 13 | [WM Korea](../labels/wm_korea.md)                                                                                   |
+|                 14 | [WM Korea](../labels/wm_korea.md)                                                                                   |
 |                 12 | [Warner Records](../labels/warner_records.md)                                                                       |
 |                 11 | [High Up Entertainment](../labels/high_up_entertainment.md)                                                         |
 |                 10 | [SOURCE MUSIC](../labels/source_music.md)                                                                           |
@@ -359,9 +359,9 @@
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
-|                783 | [k-pop](../genres/k_pop.md)                       |
+|                784 | [k-pop](../genres/k_pop.md)                       |
 |                363 | [k-pop girl group](../genres/k_pop_girl_group.md) |
-|                222 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
+|                223 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
 |                 54 | [pop](../genres/pop.md)                           |
 |                 28 | korean pop                                        |
 |                 23 | korean r&b                                        |
@@ -413,8 +413,8 @@
 | 10 most Energetic tracks   | 10 least Energetic tracks                            |
 |:---------------------------|:-----------------------------------------------------|
 | RING X RING                | Rain and You                                         |
-| Misfit                     | Singularity                                          |
-| Hit That Drum              | Boy in time - HUI Solo                               |
+| Hit That Drum              | Singularity                                          |
+| Misfit                     | Boy in time - HUI Solo                               |
 | MIROH                      | BREATHE                                              |
 | Side Effects               | How can I love the heartbreak, you're the one I love |
 | 소방차 Fire Truck             | Stardust love song                                   |
@@ -430,8 +430,8 @@
 | MANIAC                        | Winter Sleep                               |
 | Freedom                       | Wicked                                     |
 | Free Fall                     | Rain and You                               |
-| I GOT IT (HAN)                | Moonlight Melody                           |
-| Ice Cream (with Selena Gomez) | She′s In The Rain                          |
+| Ice Cream (with Selena Gomez) | Moonlight Melody                           |
+| I GOT IT (HAN)                | She′s In The Rain                          |
 | Feelin' Like                  | Slightly Tipsy (She is My Type♡ X SANDEUL) |
 | Signal                        | Sweet Night                                |
 | BBIBBI                        | With                                       |
@@ -451,15 +451,15 @@
 
 | 10 most Instrumental tracks      | 10 least Instrumental tracks   |
 |:---------------------------------|:-------------------------------|
-| Tippy Toes                       | Not For Sale                   |
-| You and I (Park Bom)             | Into The Abyss                 |
-| Adios                            | LOVE SCENARIO                  |
-| pporappippam                     | Hello                          |
-| Badster                          | The shower                     |
-| YEPPI YEPPI                      | Black Swan                     |
-| It′s Raining                     | TFW (That Feeling When)        |
-| So Hot                           | The Red Shoes                  |
-| GingaMingaYo (the strange world) | FIESTA                         |
+| Tippy Toes                       | BANG BANG BANG                 |
+| You and I (Park Bom)             | FIESTA                         |
+| Adios                            | Not For Sale                   |
+| pporappippam                     | LOVE SCENARIO                  |
+| Badster                          | Hello                          |
+| YEPPI YEPPI                      | The shower                     |
+| It′s Raining                     | Black Swan                     |
+| So Hot                           | TFW (That Feeling When)        |
+| GingaMingaYo (the strange world) | The Red Shoes                  |
 | I Am The Best                    | Sorry                          |
 
 | 10 most Live tracks            | 10 least Live tracks                  |
@@ -467,8 +467,8 @@
 | Heart Attack                   | Up!                                   |
 | Piano Man                      | POP!                                  |
 | You Better Run                 | Ice Cream (with Selena Gomez)         |
-| Red Lipstick (feat. Yoonmirae) | Holiday Party                         |
-| MAKE U DANCE (feat. EUNHA)     | YEPPI YEPPI                           |
+| MAKE U DANCE (feat. EUNHA)     | Holiday Party                         |
+| Red Lipstick (feat. Yoonmirae) | YEPPI YEPPI                           |
 | Sticker                        | memeM                                 |
 | I Like That                    | That That (prod. & feat. SUGA of BTS) |
 | Vibrato                        | SNEAKERS                              |
@@ -478,12 +478,12 @@
 | 10 most Happy tracks   | 10 least Happy tracks     |
 |:-----------------------|:--------------------------|
 | Sour candy             | Stardust love song        |
-| Twenty-three           | Lucid Dream               |
-| Devil                  | U                         |
+| Devil                  | Lucid Dream               |
+| Twenty-three           | U                         |
 | Pepe                   | Time After Time           |
 | Miniskirt              | My sea                    |
 | So Hot                 | Side Effects              |
-| Twinkle                | Good Night My Princess    |
-| 쏘리 쏘리 Sorry, Sorry     | 7월 7일 One Of These Nights |
-| Give it to me          | Grey Suit                 |
+| 쏘리 쏘리 Sorry, Sorry     | Good Night My Princess    |
+| Twinkle                | 7월 7일 One Of These Nights |
+| Some (feat. Lil Boi)   | Grey Suit                 |
 | Lion Heart             | The Road                  |

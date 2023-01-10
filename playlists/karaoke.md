@@ -38,7 +38,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae8ba82eaf7e63af515c9f" alt="" width="50" /> | The Civil Wars                                                 | [🔗](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb12123322672fbf71bd1e5c94" alt="" width="50" /> | Ella Eyre                                                      | [🔗](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb46416642da7b30327821d26e" alt="" width="50" /> | A Great Big World                                              | [🔗](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb63dc867958993e8458517d2b" alt="" width="50" /> | Backstreet Boys                                                | [🔗](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb20f403024d10bdf47bc00194" alt="" width="50" /> | Backstreet Boys                                                | [🔗](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | [Rihanna](../artists/rihanna.md)                               | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 |                  1 | <img src="https://i.scdn.co/image/2d695c3269ba763e82b0a24789bc59d92834b125" alt="" width="50" /> | Gary Jules                                                     | [🔗](https://open.spotify.com/artist/5oRnbmgqvvq7fVlgk4vcEa) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8079989370c50963b60ee7bc" alt="" width="50" /> | CeeLo Green                                                    | [🔗](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) |
@@ -185,7 +185,7 @@
 |                  1 | [Jive](../labels/jive.md)                                                                 |
 |                  1 | [Island Records](../labels/island_records.md)                                             |
 |                  1 | [Island Def Jam](../labels/island_def_jam.md)                                             |
-|                  1 | [Interscope](../labels/interscope.md)                                                     |
+|                  1 | [Interscope Records](../labels/interscope_records.md)                                     |
 |                  1 | [EMI Recorded Music Australia Pty Ltd](../labels/emi_recorded_music_australia_pty_ltd.md) |
 |                  1 | [Down Up Down Music](../labels/down_up_down_music.md)                                     |
 |                  1 | [Def Soul](../labels/def_soul.md)                                                         |
@@ -218,7 +218,6 @@
 |                  8 | piano rock                                          |
 |                  7 | [soft rock](../genres/soft_rock.md)                 |
 |                  7 | [lilith](../genres/lilith.md)                       |
-|                  7 | [folk rock](../genres/folk_rock.md)                 |
 |                  6 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  6 | [hollywood](../genres/hollywood.md)                 |
 |                  6 | [adult standards](../genres/adult_standards.md)     |
@@ -230,13 +229,14 @@
 |                  4 | permanent wave                                      |
 |                  4 | lounge                                              |
 |                  4 | glam rock                                           |
+|                  3 | motown                                              |
+|                  3 | folk rock                                           |
 |                  3 | canadian pop                                        |
 |                  3 | australian pop                                      |
 |                  2 | viral pop                                           |
 |                  2 | urban contemporary                                  |
 |                  2 | soul                                                |
 |                  2 | pop soul                                            |
-|                  2 | motown                                              |
 |                  2 | modern rock                                         |
 |                  2 | modern alternative rock                             |
 |                  2 | melancholia                                         |

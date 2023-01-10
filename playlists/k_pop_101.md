@@ -137,7 +137,7 @@
 |                  1 | [Kakao Entertainment](../labels/kakao_entertainment.md)             |
 |                  1 | [KQ Entertainment](../labels/kq_entertainment.md)                   |
 |                  1 | [JYP Entertainment](../labels/jyp_entertainment.md)                 |
-|                  1 | [Interscope](../labels/interscope.md)                               |
+|                  1 | [Interscope Records](../labels/interscope_records.md)               |
 |                  1 | [Imperial Distribution](../labels/imperial_distribution.md)         |
 |                  1 | [High Up Entertainment](../labels/high_up_entertainment.md)         |
 |                  1 | [HYBE](../labels/hybe.md)                                           |

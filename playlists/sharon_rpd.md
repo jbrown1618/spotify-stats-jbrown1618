@@ -111,7 +111,7 @@
 |   Number of Tracks | Label                                                                 |
 |-------------------:|:----------------------------------------------------------------------|
 |                  7 | [YG Entertainment](../labels/yg_entertainment.md)                     |
-|                  6 | [Interscope](../labels/interscope.md)                                 |
+|                  6 | [Interscope Records](../labels/interscope_records.md)                 |
 |                  5 | [SM Entertainment](../labels/sm_entertainment.md)                     |
 |                  5 | [BIGHIT MUSIC](../labels/bighit_music.md)                             |
 |                  3 | [Starship Entertainment](../labels/starship_entertainment.md)         |

@@ -56,7 +56,7 @@ Appears as:
 
 |   Number of Tracks | Genre                                 |
 |-------------------:|:--------------------------------------|
-|                 11 | [show tunes](../genres/show_tunes.md) |
+|                 13 | [show tunes](../genres/show_tunes.md) |
 |                  9 | [hollywood](../genres/hollywood.md)   |
 |                  5 | west end                              |
 |                  4 | [broadway](../genres/broadway.md)     |

@@ -255,7 +255,7 @@
 |                  2 | [Phonogenic](../labels/phonogenic.md)                                                     |
 |                  2 | [Nuclear Blast Entertainment](../labels/nuclear_blast_entertainment.md)                   |
 |                  2 | [Kid Ina Korner](../labels/kid_ina_korner.md)                                             |
-|                  2 | [Interscope](../labels/interscope.md)                                                     |
+|                  2 | [Interscope Records](../labels/interscope_records.md)                                     |
 |                  2 | [Epic](../labels/epic.md)                                                                 |
 |                  2 | [Capitol Records](../labels/capitol_records.md)                                           |
 |                  1 | [half·alive](../labels/half_alive.md)                                                     |
@@ -340,7 +340,6 @@
 |                  5 | uk funky                                            |
 |                  5 | uk dance                                            |
 |                  5 | tropical house                                      |
-|                  5 | pop rap                                             |
 |                  5 | pop dance                                           |
 |                  5 | edm                                                 |
 |                  5 | deep indie singer-songwriter                        |
@@ -409,6 +408,7 @@
 |                  1 | electronic rock                                     |
 |                  1 | dutch pop                                           |
 |                  1 | downtempo                                           |
+|                  1 | danish pop                                          |
 
 </details>
 
