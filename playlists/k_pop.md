@@ -355,7 +355,7 @@
 
 
 <details>
-<summary>See all 32 genres</summary>
+<summary>See all 33 genres</summary>
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
@@ -390,6 +390,7 @@
 |                  1 | [electropop](../genres/electropop.md)             |
 |                  1 | electronic trap                                   |
 |                  1 | danish pop                                        |
+|                  1 | chill r&b                                         |
 |                  1 | [art pop](../genres/art_pop.md)                   |
 
 </details>

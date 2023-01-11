@@ -1,6 +1,6 @@
 # k-pop girl group
 
-[384 songs](k_pop_girl_group_tracks.md)
+[385 songs](k_pop_girl_group_tracks.md)
 
 ## Top Artists
 
@@ -14,7 +14,7 @@
 
 |   Number of Tracks | Art                                                                                              | Artist                                               | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------|:------------------------------------------------------------|
-|                 62 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)               | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
+|                 63 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)               | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 |                 37 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../artists/itzy.md)                           | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                 36 | <img src="https://i.scdn.co/image/ab6761610000e5ebd84fd6ae9ccfc6206ea6711e" alt="" width="50" /> | [TWICE](../artists/twice.md)                         | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 |                 33 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)                   | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
@@ -121,6 +121,7 @@
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="" width="50" /> | 1st Album [Dystopia : The Tree of Language] | [🔗](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="" width="50" /> | The Red - The 1st Album                     | [🔗](https://open.spotify.com/album/6YL9J0E6PGtYzkhyMxnmXd) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="" width="50" /> | Taste of Love                               | [🔗](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273a38af5bbda76202e9d9eb8fd" alt="" width="50" /> | Rookie - The 4th Mini Album                 | [🔗](https://open.spotify.com/album/5Bg49LEfyoZzKpQsEwRCtI) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2739b57e9b31c831fb2137c38e2" alt="" width="50" /> | Oh! - The Second Album                      | [🔗](https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="" width="50" /> | I am                                        | [🔗](https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="" width="50" /> | Fairyforest : Temptation                    | [🔗](https://open.spotify.com/album/3999VmQrZOafu4NjYkc0rj) |
@@ -138,7 +139,6 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273af2fda9fb591d43c355c2ac3" alt="" width="50" /> | STAYDOM                                     | [🔗](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27318a4a215052e9f396864bd73" alt="" width="50" /> | SQUARE TWO                                  | [🔗](https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273ff4ec21d7817138cabcc19bc" alt="" width="50" /> | SQUARE ONE                                  | [🔗](https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a38af5bbda76202e9d9eb8fd" alt="" width="50" /> | Rookie - The 4th Mini Album                 | [🔗](https://open.spotify.com/album/5Bg49LEfyoZzKpQsEwRCtI) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734fcfc7c45bef0c20cc65ec27" alt="" width="50" /> | Return of The Girl                          | [🔗](https://open.spotify.com/album/28p4jKCNlbLUXaZ24iYLuD) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273dd525e34b35a55ca3763e28d" alt="" width="50" /> | Raid of Dream                               | [🔗](https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734a8b951ff5979dc187340b1d" alt="" width="50" /> | RED MOON                                    | [🔗](https://open.spotify.com/album/6GhELYbXRo1LOqRPOCsQrF) |
@@ -204,7 +204,7 @@
 
 |   Number of Tracks | Label                                                                                                               |
 |-------------------:|:--------------------------------------------------------------------------------------------------------------------|
-|                 84 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
+|                 85 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
 |                 63 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 25 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
 |                 24 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                                                               |
@@ -320,23 +320,23 @@
 | Hurt                      | 달라달라 (DALLA DALLA)         |
 | Jazz Bar                  | LA DI DA                   |
 | ZOOM                      | DALLA DALLA - English Ver. |
-| Starry Night              | RUN2U                      |
-| Wind flower               | Adios                      |
+| Wind flower               | RUN2U                      |
+| Starry Night              | Adios                      |
 | Moonlight Melody          | Red Light                  |
 | The Happiest Girl         | Poison                     |
 
-| 10 most Instrumental tracks   | 10 least Instrumental tracks   |
-|:------------------------------|:-------------------------------|
-| You and I (Park Bom)          | Red Flavor                     |
-| Adios                         | You Better Know                |
-| YEPPI YEPPI                   | Umpah Umpah                    |
-| So Hot                        | Be Natural                     |
-| I Am The Best                 | Oh Boy                         |
-| Power Up                      | #Cookie Jar                    |
-| BBoom BBoom                   | Rookie                         |
-| In My Dreams                  | 247                            |
-| BAAM                          | WILDSIDE                       |
-| Star                          | Good, Bad, Ugly                |
+| 10 most Instrumental tracks   | 10 least Instrumental tracks           |
+|:------------------------------|:---------------------------------------|
+| You and I (Park Bom)          | You Better Know                        |
+| Adios                         | Umpah Umpah                            |
+| YEPPI YEPPI                   | Be Natural                             |
+| So Hot                        | SO BAD                                 |
+| I Am The Best                 | Oh Boy                                 |
+| Power Up                      | #Cookie Jar                            |
+| BBoom BBoom                   | WILDSIDE                               |
+| In My Dreams                  | Marionette                             |
+| BAAM                          | Bad Boy - English Version, Bonus Track |
+| Star                          | Good, Bad, Ugly                        |
 
 | 10 most Live tracks   | 10 least Live tracks          |
 |:----------------------|:------------------------------|
@@ -354,11 +354,11 @@
 | 10 most Happy tracks    | 10 least Happy tracks     |
 |:------------------------|:--------------------------|
 | Pepe                    | 4 Walls                   |
-| Miniskirt               | MORE                      |
-| So Hot                  | POSE                      |
+| So Hot                  | MORE                      |
+| Miniskirt               | POSE                      |
 | Twinkle                 | LION                      |
-| Lion Heart              | Ditto                     |
-| Give it to me           | Hope Not                  |
+| Give it to me           | Ditto                     |
+| Lion Heart              | Hope Not                  |
 | 러시안 룰렛 Russian Roulette | In My Dreams              |
 | Nobody                  | Body Talk                 |
 | Really                  | Lucid Dream               |

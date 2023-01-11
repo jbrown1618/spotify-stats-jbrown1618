@@ -203,7 +203,7 @@
 
 
 <details>
-<summary>See all 51 genres</summary>
+<summary>See all 50 genres</summary>
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
@@ -211,7 +211,7 @@
 |                 82 | [acoustic pop](../genres/acoustic_pop.md)           |
 |                 79 | [lilith](../genres/lilith.md)                       |
 |                 71 | [neo mellow](../genres/neo_mellow.md)               |
-|                 63 | [pop rock](../genres/pop_rock.md)                   |
+|                 61 | [pop rock](../genres/pop_rock.md)                   |
 |                 59 | [hollywood](../genres/hollywood.md)                 |
 |                 35 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                 35 | piano rock                                          |
@@ -233,6 +233,7 @@
 |                  6 | glam rock                                           |
 |                  5 | deep indie singer-songwriter                        |
 |                  3 | viral pop                                           |
+|                  2 | neo soul                                            |
 |                  2 | indy indie                                          |
 |                  2 | indiecoustica                                       |
 |                  2 | chamber pop                                         |
@@ -244,7 +245,6 @@
 |                  1 | pop soul                                            |
 |                  1 | permanent wave                                      |
 |                  1 | new americana                                       |
-|                  1 | neo soul                                            |
 |                  1 | modern folk rock                                    |
 |                  1 | irish pop                                           |
 |                  1 | indie soul                                          |
@@ -256,7 +256,6 @@
 |                  1 | canadian pop                                        |
 |                  1 | canadian indie                                      |
 |                  1 | british soul                                        |
-|                  1 | alternative r&b                                     |
 |                  1 | alt z                                               |
 
 </details>

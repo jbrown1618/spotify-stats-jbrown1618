@@ -128,15 +128,15 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 29 genres](../images/labels/walt_disney_records/genres.png)
+![Bar chart of top 28 genres](../images/labels/walt_disney_records/genres.png)
 
 
 <details>
-<summary>See all 29 genres</summary>
+<summary>See all 28 genres</summary>
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
-|                 34 | movie tunes                                         |
+|                 33 | movie tunes                                         |
 |                 21 | [hollywood](../genres/hollywood.md)                 |
 |                 21 | disney                                              |
 |                 15 | [show tunes](../genres/show_tunes.md)               |
@@ -158,7 +158,6 @@ Appears as:
 |                  1 | jazz blues                                          |
 |                  1 | funk                                                |
 |                  1 | folk rock                                           |
-|                  1 | folk                                                |
 |                  1 | country rock                                        |
 |                  1 | classic uk pop                                      |
 |                  1 | bubblegum pop                                       |

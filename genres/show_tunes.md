@@ -1,6 +1,6 @@
 # show tunes
 
-[108 songs](show_tunes_tracks.md)
+[106 songs](show_tunes_tracks.md)
 
 ## Top Artists
 
@@ -10,7 +10,7 @@
 
 
 <details>
-<summary>See all 69 artists</summary>
+<summary>See all 68 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                                                                               | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------|:------------------------------------------------------------|
@@ -46,7 +46,6 @@
 |                  2 | <img src="nan" alt="" width="50" />                                                              | Samuel E. Wright                                                                                     | [🔗](https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb8c7085cb6bc26d51b510656c" alt="" width="50" /> | Jasmine Cephas-Jones                                                                                 | [🔗](https://open.spotify.com/artist/4H3e5t5utgPvj6Nsuda5QF) |
 |                  2 | <img src="https://i.scdn.co/image/2f27b88be41ed8e21e7db0cf192385c14736f8a0" alt="" width="50" /> | Eddie Redmayne                                                                                       | [🔗](https://open.spotify.com/artist/4EJP6Qhk6l18LumCcpEfLw) |
-|                  2 | <img src="nan" alt="" width="50" />                                                              | Robert Billig                                                                                        | [🔗](https://open.spotify.com/artist/3Ybg9gi5V2x6i8OsLc9M7p) |
 |                  2 | <img src="nan" alt="" width="50" />                                                              | Patrick Wilson                                                                                       | [🔗](https://open.spotify.com/artist/0z5nxdz5osD8FsmaUDmfC0) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a6d80e2ed079cf1183ade19a" alt="" width="50" /> | Angela Lansbury                                                                                      | [🔗](https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27350a8f03cc6bd438ca8d306db" alt="" width="50" /> | Students                                                                                             | [🔗](https://open.spotify.com/artist/7oaoEBdRqHXfoiGYa55Atp) |
@@ -98,7 +97,7 @@
 |-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------|:-----------------------------------------------------------|
 |                 44 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | Hamilton (Original Broadway Cast Recording)                           | [🔗](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) |
 |                 21 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | The Phantom Of The Opera                                              | [🔗](https://open.spotify.com/album/36bEg6FTBaZGLg9ngJZIU6) |
-|                 13 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | Les Misérables (Original Broadway Cast Recording)                     | [🔗](https://open.spotify.com/album/3jbKDx0zB1QoJQTw8i1AvD) |
+|                 11 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | Les Misérables (Original Broadway Cast Recording)                     | [🔗](https://open.spotify.com/album/3jbKDx0zB1QoJQTw8i1AvD) |
 |                 10 | <img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="" width="50" /> | The Phantom Of The Opera (Original Motion Picture Soundtrack)         | [🔗](https://open.spotify.com/album/1zwEN9cLtWg39zFJnj8brt) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="" width="50" /> | The Little Mermaid Special Edition                                    | [🔗](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc" alt="" width="50" /> | Mulan (Original Soundtrack)                                           | [🔗](https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC) |
@@ -129,7 +128,7 @@
 |                 44 | [Atlantic Records](../labels/atlantic_records.md)                               |
 |                 24 | [Polydor Records](../labels/polydor_records.md)                                 |
 |                 15 | [Walt Disney Records](../labels/walt_disney_records.md)                         |
-|                 13 | [Verve (Adult Contemporary) MC](../labels/verve__adult_contemporary__mc.md)     |
+|                 11 | [Verve (Adult Contemporary) MC](../labels/verve__adult_contemporary__mc.md)     |
 |                 10 | [UMC (Universal Music Catalogue)](../labels/umc__universal_music_catalogue_.md) |
 |                  1 | [Sony Music Labels Inc.](../labels/sony_music_labels_inc_.md)                   |
 |                  1 | [Sony Classical](../labels/sony_classical.md)                                   |
@@ -194,15 +193,15 @@
 
 | 10 most Instrumental tracks                               | 10 least Instrumental tracks              |
 |:----------------------------------------------------------|:------------------------------------------|
-| Entr'Acte                                                 | The Schuyler Sisters                      |
-| Overture                                                  | It's Quiet Uptown                         |
-| All I Ask Of You - Reprise                                | Satisfied                                 |
-| Overture - From 'The Phantom Of The Opera' Motion Picture | You'll Be Back                            |
-| Bring Him Home                                            | I Know Him                                |
-| The Phantom Of The Opera                                  | What Comes Next?                          |
-| Reflection                                                | Farmer Refuted                            |
-| Wishing You Were Somehow Here Again                       | Who Lives, Who Dies, Who Tells Your Story |
-| The Point Of No Return                                    | The Reynolds Pamphlet                     |
+| Entr'Acte                                                 | It's Quiet Uptown                         |
+| Overture                                                  | Satisfied                                 |
+| All I Ask Of You - Reprise                                | You'll Be Back                            |
+| Overture - From 'The Phantom Of The Opera' Motion Picture | I Know Him                                |
+| Bring Him Home                                            | What Comes Next?                          |
+| The Phantom Of The Opera                                  | Farmer Refuted                            |
+| Reflection                                                | Who Lives, Who Dies, Who Tells Your Story |
+| Wishing You Were Somehow Here Again                       | The Reynolds Pamphlet                     |
+| The Point Of No Return                                    | Yorktown (The World Turned Upside Down)   |
 | Little Lotte / The Mirror (Angel Of Music)                | Kiss the Girl                             |
 
 | 10 most Live tracks                                                     | 10 least Live tracks                                         |

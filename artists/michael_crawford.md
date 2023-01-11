@@ -23,7 +23,6 @@
 ## Genres
 
 - operatic pop
-- [show tunes](../genres/show_tunes.md)
 
 ## Tracks
 

@@ -90,7 +90,7 @@ Appears as:
 
 
 <details>
-<summary>See all 37 genres</summary>
+<summary>See all 38 genres</summary>
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
@@ -123,6 +123,7 @@ Appears as:
 |                  1 | [pop rock](../genres/pop_rock.md)                 |
 |                  1 | pop rap                                           |
 |                  1 | permanent wave                                    |
+|                  1 | neo soul                                          |
 |                  1 | [neo mellow](../genres/neo_mellow.md)             |
 |                  1 | irish rock                                        |
 |                  1 | house                                             |

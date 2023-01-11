@@ -147,15 +147,15 @@
 
 ## Genres
 
-![Bar chart of top 29 genres](../images/playlists/disney/genres.png)
+![Bar chart of top 28 genres](../images/playlists/disney/genres.png)
 
 
 <details>
-<summary>See all 29 genres</summary>
+<summary>See all 28 genres</summary>
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
-|                 35 | movie tunes                                         |
+|                 34 | movie tunes                                         |
 |                 22 | [hollywood](../genres/hollywood.md)                 |
 |                 21 | disney                                              |
 |                 16 | [show tunes](../genres/show_tunes.md)               |
@@ -177,7 +177,6 @@
 |                  1 | jazz blues                                          |
 |                  1 | funk                                                |
 |                  1 | folk rock                                           |
-|                  1 | folk                                                |
 |                  1 | country rock                                        |
 |                  1 | classic uk pop                                      |
 |                  1 | bubblegum pop                                       |

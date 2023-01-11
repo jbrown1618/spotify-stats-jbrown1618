@@ -221,7 +221,7 @@
 
 
 <details>
-<summary>See all 50 genres</summary>
+<summary>See all 49 genres</summary>
 
 |   Number of Tracks | Genre                                           |
 |-------------------:|:------------------------------------------------|
@@ -233,7 +233,7 @@
 |                 12 | neo soul                                        |
 |                 10 | barbadian pop                                   |
 |                 10 | atl hip hop                                     |
-|                  9 | motown                                          |
+|                  8 | motown                                          |
 |                  7 | [post-teen pop](../genres/post_teen_pop.md)     |
 |                  6 | pop rap                                         |
 |                  6 | escape room                                     |
@@ -264,7 +264,6 @@
 |                  1 | thai indie pop                                  |
 |                  1 | soul blues                                      |
 |                  1 | [soft rock](../genres/soft_rock.md)             |
-|                  1 | rock-and-roll                                   |
 |                  1 | [neo mellow](../genres/neo_mellow.md)           |
 |                  1 | minnesota hip hop                               |
 |                  1 | [mellow gold](../genres/mellow_gold.md)         |

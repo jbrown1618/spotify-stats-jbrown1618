@@ -1,6 +1,6 @@
 # post-teen pop
 
-[55 songs](post_teen_pop_tracks.md)
+[53 songs](post_teen_pop_tracks.md)
 
 ## Top Artists
 
@@ -10,7 +10,7 @@
 
 
 <details>
-<summary>See all 59 artists</summary>
+<summary>See all 58 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                       | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------|:------------------------------------------------------------|
@@ -20,7 +20,6 @@
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebabfac786f093c4da55c99d4e" alt="" width="50" /> | Bebe Rexha                                   | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb6659b1cb61936bd7bcb229a2" alt="" width="50" /> | Demi Lovato                                  | [🔗](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | Jessie J                                     | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5079bcf778c2d286de10e676" alt="" width="50" /> | Miley Cyrus                                  | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf91c2e559a5a8233d3b35fb1" alt="" width="50" /> | Tyga                                         | [🔗](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb118cd1f3261f08d957105996" alt="" width="50" /> | Kelly Clarkson                               | [🔗](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb65c99d6d784dc2cabd2a5492" alt="" width="50" /> | Mandy Moore                                  | [🔗](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) |
@@ -82,7 +81,7 @@
 
 
 <details>
-<summary>See all 48 albums</summary>
+<summary>See all 46 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                                      | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -99,7 +98,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27364d58f6e7672baecc8972806" alt="" width="50" /> | Tattoos (Deluxe Edition)                                                   | [🔗](https://open.spotify.com/album/3wDeTllVvayYsWTHsFNWZQ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d6522bee68370fa5592301d" alt="" width="50" /> | Swalla (feat. Nicki Minaj & Ty Dolla $ign)                                 | [🔗](https://open.spotify.com/album/2e5CxfyEwBW115beiwh7Mc) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27367eda217860e86c43481a5cb" alt="" width="50" /> | Solo (feat. Demi Lovato)                                                   | [🔗](https://open.spotify.com/album/1q7a5wZeti0neU2jDn8Dz3) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732bba357383c6f9dbb5112392" alt="" width="50" /> | Slide Away                                                                 | [🔗](https://open.spotify.com/album/0SHGFAL8WZUvpWb5iLPp6E) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b3d3d1ba43e085f5ab80e56a" alt="" width="50" /> | Salute (Expanded Edition)                                                  | [🔗](https://open.spotify.com/album/4cH9WxyfNWlfR257RitWBt) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e6f5ed9a9059f686965ba90a" alt="" width="50" /> | Revival (Deluxe)                                                           | [🔗](https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735bdd9e580fdda5e676a25e6a" alt="" width="50" /> | Reflection (Deluxe)                                                        | [🔗](https://open.spotify.com/album/0zAsh6hObeNmFgFPrUiFcP) |
@@ -128,7 +126,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739660ae57836f713884d86cbb" alt="" width="50" /> | Blueberry Eyes (feat. SUGA of BTS)                                         | [🔗](https://open.spotify.com/album/2dEJHnsuxIij7YeBbt0sVm) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="" width="50" /> | Better Mistakes                                                            | [🔗](https://open.spotify.com/album/0ypVp54cO3kexiJNu33wYp) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b0ed835957dbf3c63184a3bc" alt="" width="50" /> | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] | [🔗](https://open.spotify.com/album/6snPKZGUbpydW2XJu9ievq) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736b18d0490878750cd69abf2c" alt="" width="50" /> | Bangerz (Deluxe Version)                                                   | [🔗](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d74f4550a6e409bf51652db7" alt="" width="50" /> | Back To Basics                                                             | [🔗](https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d0927ea5b0dde802e65eb9b6" alt="" width="50" /> | Baby, I'm Jealous (feat. Doja Cat)                                         | [🔗](https://open.spotify.com/album/2N367tN1eIXrHNVe86aVy4) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737a6339d6ddfd579f77559b3c" alt="" width="50" /> | Animal (Expanded Edition)                                                  | [🔗](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) |
@@ -151,9 +148,9 @@
 |                  9 | [Syco Music](../labels/syco_music.md)                             |
 |                  8 | [Warner Records](../labels/warner_records.md)                     |
 |                  8 | [Epic](../labels/epic.md)                                         |
-|                  6 | [RCA Records Label](../labels/rca_records_label.md)               |
 |                  5 | [Beluga Heights](../labels/beluga_heights.md)                     |
 |                  5 | [Atlantic Records UK](../labels/atlantic_records_uk.md)           |
+|                  4 | [RCA Records Label](../labels/rca_records_label.md)               |
 |                  4 | [Atlantic Records](../labels/atlantic_records.md)                 |
 |                  2 | [Walt Disney Records](../labels/walt_disney_records.md)           |
 |                  2 | [Republic Records](../labels/republic_records.md)                 |
@@ -190,9 +187,9 @@
 
 | 10 most Danceable tracks                            | 10 least Danceable tracks                             |
 |:----------------------------------------------------|:------------------------------------------------------|
-| Sally Walker                                        | Who You Are                                           |
-| Coño                                                | Slide Away                                            |
-| Worth It (feat. Kid Ink)                            | Wrecking Ball                                         |
+| Sally Walker                                        | Because of You                                        |
+| Coño                                                | Me And My Broken Heart                                |
+| Worth It (feat. Kid Ink)                            | Who You Are                                           |
 | Bubblegum (feat. Tyga)                              | Heart Attack                                          |
 | Sucker                                              | Consequences                                          |
 | Rather Be (feat. Jess Glynne)                       | Stone Cold                                            |
@@ -203,12 +200,12 @@
 
 | 10 most Energetic tracks                            | 10 least Energetic tracks                                                                                          |
 |:----------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------|
-| My Happy Ending                                     | Sally Walker                                                                                                       |
-| Don't Call Me Up                                    | My Oh My (feat. DaBaby)                                                                                            |
-| Good Girls Go Bad (feat. Leighton Meester)          | Stone Cold                                                                                                         |
-| Already Gone                                        | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" |
-| Baby, I'm Jealous (feat. Doja Cat)                  | Slow Hands                                                                                                         |
-| Break My Heart Myself (feat. Travis Barker)         | Wrecking Ball                                                                                                      |
+| My Happy Ending                                     | Living Proof                                                                                                       |
+| Don't Call Me Up                                    | Sally Walker                                                                                                       |
+| Good Girls Go Bad (feat. Leighton Meester)          | My Oh My (feat. DaBaby)                                                                                            |
+| Already Gone                                        | Stone Cold                                                                                                         |
+| Baby, I'm Jealous (feat. Doja Cat)                  | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" |
+| Break My Heart Myself (feat. Travis Barker)         | Slow Hands                                                                                                         |
 | Youngblood                                          | When Will My Life Begin? - From "Tangled" / Soundtrack Version                                                     |
 | That's My Girl                                      | Jar of Hearts                                                                                                      |
 | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) | Consequences                                                                                                       |
@@ -216,8 +213,8 @@
 
 | 10 most Speechy tracks      | 10 least Speechy tracks                                        |
 |:----------------------------|:---------------------------------------------------------------|
-| Youngblood                  | Who You Are                                                    |
-| Bubblegum (feat. Tyga)      | Slide Away                                                     |
+| Youngblood                  | Tick Tock (feat. 24kGoldn)                                     |
+| Bubblegum (feat. Tyga)      | Who You Are                                                    |
 | Trumpets                    | When Will My Life Begin? - From "Tangled" / Soundtrack Version |
 | Talk Dirty (feat. 2 Chainz) | Jar of Hearts                                                  |
 | Candyman                    | Because of You                                                 |
@@ -235,22 +232,22 @@
 | Trumpets                                              | Candyman                                   |
 | Stone Cold                                            | Good Girls Go Bad (feat. Leighton Meester) |
 | Blueberry Eyes (feat. SUGA of BTS)                    | Call Me Maybe                              |
-| Wrecking Ball                                         | Slow Hands                                 |
-| Rockabye (feat. Sean Paul & Anne-Marie)               | Me And My Broken Heart                     |
-| Low Key (feat. Tyga)                                  | My Happy Ending                            |
-| Tick Tock (feat. 24kGoldn)                            | Coño                                       |
+| Rockabye (feat. Sean Paul & Anne-Marie)               | Slow Hands                                 |
+| Low Key (feat. Tyga)                                  | Me And My Broken Heart                     |
+| Tick Tock (feat. 24kGoldn)                            | My Happy Ending                            |
+| Break My Heart Myself (feat. Travis Barker)           | Coño                                       |
 
 | 10 most Instrumental tracks                                                                                        | 10 least Instrumental tracks                                   |
 |:-------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------|
-| Candyman                                                                                                           | Living Proof                                                   |
-| Coño                                                                                                               | Consequences                                                   |
-| Blueberry Eyes (feat. SUGA of BTS)                                                                                 | Heart Attack                                                   |
-| Never Be the Same                                                                                                  | Youngblood                                                     |
-| Solo (feat. Demi Lovato)                                                                                           | Wrecking Ball                                                  |
-| Havana (feat. Young Thug)                                                                                          | Me And My Broken Heart                                         |
-| That's My Girl                                                                                                     | Salute                                                         |
-| Symphony (feat. Zara Larsson)                                                                                      | Sally Walker                                                   |
-| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | Stone Cold                                                     |
+| Candyman                                                                                                           | Break My Heart Myself (feat. Travis Barker)                    |
+| Coño                                                                                                               | Baby, I'm Jealous (feat. Doja Cat)                             |
+| Blueberry Eyes (feat. SUGA of BTS)                                                                                 | Slow Hands                                                     |
+| Never Be the Same                                                                                                  | Sucker                                                         |
+| Solo (feat. Demi Lovato)                                                                                           | Cry for Me                                                     |
+| Havana (feat. Young Thug)                                                                                          | Living Proof                                                   |
+| That's My Girl                                                                                                     | Good Girls Go Bad (feat. Leighton Meester)                     |
+| Symphony (feat. Zara Larsson)                                                                                      | Me And My Broken Heart                                         |
+| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | Salute                                                         |
 | My Oh My (feat. DaBaby)                                                                                            | When Will My Life Begin? - From "Tangled" / Soundtrack Version |
 
 | 10 most Live tracks                                                                                                | 10 least Live tracks                                                       |
@@ -268,7 +265,7 @@
 
 | 10 most Happy tracks                                                       | 10 least Happy tracks                                                                                              |
 |:---------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------|
-| Sucker                                                                     | Slide Away                                                                                                         |
+| Sucker                                                                     | Already Gone                                                                                                       |
 | Tick Tock (feat. 24kGoldn)                                                 | Never Be the Same                                                                                                  |
 | Slow Hands                                                                 | Don't Call Me Up                                                                                                   |
 | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] | Who You Are                                                                                                        |

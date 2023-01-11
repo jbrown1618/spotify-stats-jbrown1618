@@ -153,13 +153,13 @@
 
 
 <details>
-<summary>See all 39 genres</summary>
+<summary>See all 38 genres</summary>
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
 |                 20 | soul                                                |
 |                 17 | [mellow gold](../genres/mellow_gold.md)             |
-|                 13 | motown                                              |
+|                 12 | motown                                              |
 |                 12 | [adult standards](../genres/adult_standards.md)     |
 |                  9 | folk rock                                           |
 |                  8 | [r&b](../genres/r_b.md)                             |
@@ -177,16 +177,15 @@
 |                  5 | melancholia                                         |
 |                  5 | funk                                                |
 |                  4 | new wave pop                                        |
-|                  4 | disco                                               |
 |                  3 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  3 | outlaw country                                      |
+|                  3 | disco                                               |
 |                  3 | bubblegum pop                                       |
 |                  3 | arkansas country                                    |
 |                  1 | sunshine pop                                        |
 |                  1 | southern soul                                       |
 |                  1 | smooth jazz                                         |
 |                  1 | roots rock                                          |
-|                  1 | rock-and-roll                                       |
 |                  1 | permanent wave                                      |
 |                  1 | latin pop                                           |
 |                  1 | jazz trumpet                                        |

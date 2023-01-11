@@ -361,21 +361,21 @@
 |-------------------:|:------------------------------------------------|
 |                297 | [pop](../genres/pop.md)                         |
 |                193 | [dance pop](../genres/dance_pop.md)             |
-|                 47 | [post-teen pop](../genres/post_teen_pop.md)     |
+|                 45 | [post-teen pop](../genres/post_teen_pop.md)     |
 |                 28 | [electropop](../genres/electropop.md)           |
 |                 27 | [art pop](../genres/art_pop.md)                 |
 |                 26 | uk pop                                          |
 |                 26 | edm                                             |
 |                 20 | urban contemporary                              |
-|                 17 | neo soul                                        |
+|                 18 | neo soul                                        |
 |                 15 | pop rap                                         |
-|                 12 | [pop rock](../genres/pop_rock.md)               |
 |                 12 | atl hip hop                                     |
 |                 11 | [r&b](../genres/r_b.md)                         |
 |                 11 | [neo mellow](../genres/neo_mellow.md)           |
 |                 11 | british soul                                    |
 |                 11 | australian pop                                  |
 |                 10 | pop soul                                        |
+|                 10 | [pop rock](../genres/pop_rock.md)               |
 |                 10 | pop dance                                       |
 |                 10 | canadian pop                                    |
 |                 10 | barbadian pop                                   |

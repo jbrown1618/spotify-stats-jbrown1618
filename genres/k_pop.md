@@ -1,6 +1,6 @@
 # k-pop
 
-[810 songs](k_pop_tracks.md)
+[811 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -14,7 +14,7 @@
 
 |   Number of Tracks | Art                                                                                              | Artist                                               | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------|:------------------------------------------------------------|
-|                 62 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)               | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
+|                 63 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)               | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 |                 46 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md)               | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 |                 35 | <img src="https://i.scdn.co/image/ab6761610000e5ebd84fd6ae9ccfc6206ea6711e" alt="" width="50" /> | [TWICE](../artists/twice.md)                         | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 |                 30 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)                             | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
@@ -171,6 +171,7 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="" width="50" /> | Taste of Love                                       | [🔗](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27328be5dc3cc0bd6f2482c1d56" alt="" width="50" /> | THE SECOND STEP : CHAPTER ONE                       | [🔗](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="" width="50" /> | SEOULITE                                            | [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273a38af5bbda76202e9d9eb8fd" alt="" width="50" /> | Rookie - The 4th Mini Album                         | [🔗](https://open.spotify.com/album/5Bg49LEfyoZzKpQsEwRCtI) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273cab1d5724ddfed3aa8a4fd0f" alt="" width="50" /> | PSY 9th                                             | [🔗](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2739b57e9b31c831fb2137c38e2" alt="" width="50" /> | Oh! - The Second Album                              | [🔗](https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2734525dae431a233a077d2395c" alt="" width="50" /> | NCT RESONANCE Pt. 1 - The 2nd Album                 | [🔗](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) |
@@ -219,7 +220,6 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2739f560e8c1cda870ef4eadb43" alt="" width="50" /> | SKZ2020                                             | [🔗](https://open.spotify.com/album/6QIWJVJPPgAA5c4aIb1zCA) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c1a20972c9a083d5cece9ce5" alt="" width="50" /> | SEVENTEEN 8th Mini Album 'Your Choice'              | [🔗](https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2730d42834b296097a0136e97d3" alt="" width="50" /> | SEOULITE                                            | [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a38af5bbda76202e9d9eb8fd" alt="" width="50" /> | Rookie - The 4th Mini Album                         | [🔗](https://open.spotify.com/album/5Bg49LEfyoZzKpQsEwRCtI) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734fcfc7c45bef0c20cc65ec27" alt="" width="50" /> | Return of The Girl                                  | [🔗](https://open.spotify.com/album/28p4jKCNlbLUXaZ24iYLuD) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27348f4704427189fe1957d2871" alt="" width="50" /> | Return                                              | [🔗](https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27398af56fe9d35e895582d7a97" alt="" width="50" /> | Redd                                                | [🔗](https://open.spotify.com/album/32pXXle0zoKIFG03iefH2c) |
@@ -241,7 +241,7 @@
 
 |   Number of Tracks | Label                                                                                                               |
 |-------------------:|:--------------------------------------------------------------------------------------------------------------------|
-|                203 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
+|                204 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
 |                 84 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 60 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
 |                 43 | [Genie Music Corporation](../labels/genie_music_corporation.md)                                                     |
@@ -375,16 +375,16 @@
 
 | 10 most Speechy tracks        | 10 least Speechy tracks                    |
 |:------------------------------|:-------------------------------------------|
-| Addicted                      | NANANA                                     |
-| MANIAC                        | YOUNG LUV                                  |
+| Addicted                      | YOUNG LUV                                  |
+| MANIAC                        | NANANA                                     |
 | Freedom                       | Gee                                        |
 | Ice Cream (with Selena Gomez) | Hope Not                                   |
 | I GOT IT (HAN)                | The Magic of Christmas Time                |
-| Feelin' Like                  | Winter Sleep                               |
-| VENOM                         | Wicked                                     |
+| Feelin' Like                  | Wicked                                     |
+| VENOM                         | Winter Sleep                               |
 | Signal                        | Moonlight Melody                           |
-| BBIBBI                        | Slightly Tipsy (She is My Type♡ X SANDEUL) |
-| You Better Run                | She′s In The Rain                          |
+| BBIBBI                        | She′s In The Rain                          |
+| You Better Run                | Slightly Tipsy (She is My Type♡ X SANDEUL) |
 
 | 10 most Acoustic tracks                              | 10 least Acoustic tracks   |
 |:-----------------------------------------------------|:---------------------------|
@@ -406,10 +406,10 @@
 | pporappippam                     | Kick Back                      |
 | Badster                          | ZOO                            |
 | So Hot                           | Love Theory                    |
-| GingaMingaYo (the strange world) | Is this bad b****** number?    |
-| I Am The Best                    | Idle song                      |
-| Power Up                         | Wow Thing                      |
-| Fairy of Shampoo                 | Monster                        |
+| GingaMingaYo (the strange world) | Wow Thing                      |
+| I Am The Best                    | Is this bad b****** number?    |
+| Power Up                         | Idle song                      |
+| Fairy of Shampoo                 | Dead Man Runnin’               |
 | BBoom BBoom                      | I Miss You                     |
 
 | 10 most Live tracks            | 10 least Live tracks                  |
@@ -431,9 +431,9 @@
 | Twenty-three           | ONLY                      |
 | Devil                  | U                         |
 | Pepe                   | Time After Time           |
-| Miniskirt              | My sea                    |
-| So Hot                 | Side Effects              |
-| 쏘리 쏘리 Sorry, Sorry     | Good Night My Princess    |
-| Twinkle                | 7월 7일 One Of These Nights |
+| So Hot                 | My sea                    |
+| Miniskirt              | Side Effects              |
+| Twinkle                | Good Night My Princess    |
+| 쏘리 쏘리 Sorry, Sorry     | 7월 7일 One Of These Nights |
 | Give it to me          | Grey Suit                 |
-| Some (feat. Lil Boi)   | The Road                  |
+| Lion Heart             | The Road                  |

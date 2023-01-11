@@ -1,23 +1,22 @@
 # pop rock
 
-[81 songs](pop_rock_tracks.md)
+[79 songs](pop_rock_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 20 artists](../images/genres/pop_rock/artists.png)
+![Bar chart of top 19 artists](../images/genres/pop_rock/artists.png)
 
 ![Comparison of Artist](../images/genres/pop_rock/artists_comparison.png)
 
 
 <details>
-<summary>See all 20 artists</summary>
+<summary>See all 19 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                         | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------|:------------------------------------------------------------|
 |                 59 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../artists/sara_bareilles.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8457f57bc526c37bd804b924" alt="" width="50" /> | KT Tunstall                                    | [🔗](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebce8d5be6690c6964069ab8e0" alt="" width="50" /> | Jason Mraz                                     | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eba5fc004270bdfc9fee7f55f4" alt="" width="50" /> | Jon McLaughlin                                 | [🔗](https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf01bf904b446e4a043acb867" alt="" width="50" /> | The Script                                     | [🔗](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9bbbc124c9f0f75af892d97d" alt="" width="50" /> | Christina Perri                                | [🔗](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) |
 |                  1 | <img src="https://i.scdn.co/image/ab6772690000c46c44408083dac26a782655baf3" alt="" width="50" /> | Alanis Morissette                              | [🔗](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) |
@@ -39,11 +38,11 @@
 
 ## Top Albums
 
-![Bar chart of top 25 albums](../images/genres/pop_rock/albums.png)
+![Bar chart of top 23 albums](../images/genres/pop_rock/albums.png)
 
 
 <details>
-<summary>See all 25 albums</summary>
+<summary>See all 23 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                   | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------|:-----------------------------------------------------------|
@@ -59,12 +58,10 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27326a2f5224465a369f8abbf88" alt="" width="50" /> | lovestrong.                                             | [🔗](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a4d2cb95d3ea17f773db23ee" alt="" width="50" /> | Shake Your Money Maker                                  | [🔗](https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6c0376235e5aa44e59d2c2" alt="" width="50" /> | Picture Show                                            | [🔗](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735da1093d047cc15eb66d27cf" alt="" width="50" /> | OK Now                                                  | [🔗](https://open.spotify.com/album/3fKJJQFV6a61fnKYDDj2LU) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="" width="50" /> | Mellon Collie And The Infinite Sadness (Deluxe Edition) | [🔗](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="" width="50" /> | Let The Road                                            | [🔗](https://open.spotify.com/album/02ae5i5UAoFrt2peVox9Xd) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27392c885317fbe4bfa680109b4" alt="" width="50" /> | Jagged Little Pill                                      | [🔗](https://open.spotify.com/album/09AwlP99cHfKVNKv4FC8VW) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273554488d0c51967b1654d8ce5" alt="" width="50" /> | Is There Anybody Out There?                             | [🔗](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27327c371084dee1b83e614798d" alt="" width="50" /> | Indiana                                                 | [🔗](https://open.spotify.com/album/2UpO4j1Zpptiwk3wbUIWmU) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53" alt="" width="50" /> | Hunting High and Low                                    | [🔗](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734d991176cbf36bd168e00a0a" alt="" width="50" /> | Fitz and The Tantrums (Deluxe Edition)                  | [🔗](https://open.spotify.com/album/4eoIRaV8z8v2LaXQSWy2LC) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f" alt="" width="50" /> | Eyes Open                                               | [🔗](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) |
@@ -78,11 +75,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 18 record labels](../images/genres/pop_rock/labels.png)
+![Bar chart of top 17 record labels](../images/genres/pop_rock/labels.png)
 
 
 <details>
-<summary>See all 18 labels</summary>
+<summary>See all 17 labels</summary>
 
 |   Number of Tracks | Label                                                                           |
 |-------------------:|:--------------------------------------------------------------------------------|
@@ -91,7 +88,6 @@
 |                  3 | [Relentless](../labels/relentless.md)                                           |
 |                  3 | [Atlantic Records](../labels/atlantic_records.md)                               |
 |                  2 | [Phonogenic](../labels/phonogenic.md)                                           |
-|                  2 | [Island Def Jam](../labels/island_def_jam.md)                                   |
 |                  2 | [ATG](../labels/atg.md)                                                         |
 |                  1 | [Work](../labels/work.md)                                                       |
 |                  1 | [Silent Records](../labels/silent_records.md)                                   |
@@ -125,8 +121,8 @@
 
 | 10 most Energetic tracks    | 10 least Energetic tracks                                                         |
 |:----------------------------|:----------------------------------------------------------------------------------|
-| Everybody Talks             | Basket Case                                                                       |
-| Take on Me                  | We All Need Saving                                                                |
+| Everybody Talks             | Gravity                                                                           |
+| Take on Me                  | Basket Case                                                                       |
 | Bad Idea (feat. Jason Mraz) | What's Inside                                                                     |
 | Morningside                 | Once Upon Another Time                                                            |
 | Let The Rain                | Bluebird                                                                          |
@@ -134,7 +130,7 @@
 | Brave                       | Manhattan                                                                         |
 | HandClap                    | Say Something                                                                     |
 | You Oughta Know             | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 |
-| Industry                    | Kaleidoscope Heart                                                                |
+| Come Round Soon             | Kaleidoscope Heart                                                                |
 
 | 10 most Speechy tracks          | 10 least Speechy tracks    |
 |:--------------------------------|:---------------------------|
@@ -162,18 +158,18 @@
 | Gravity                                                                           | Hard To Handle              |
 | Someone Who Loves Me                                                              | Save Tonight                |
 
-| 10 most Instrumental tracks   | 10 least Instrumental tracks    |
-|:------------------------------|:--------------------------------|
-| 1979 - Remastered 2012        | Once Upon Another Time          |
-| Satellite Call                | Everything Changes              |
-| Islands                       | Lucky                           |
-| Armor                         | I'm Yours                       |
-| Breathe Again                 | Black Horse And The Cherry Tree |
-| Miss Simone                   | Sweet As Whole                  |
-| The Light                     | Gravity                         |
-| Hard To Handle                | Love Song                       |
-| No Such Thing                 | Love On the Rocks               |
-| Fire                          | Say You're Sorry                |
+| 10 most Instrumental tracks   | 10 least Instrumental tracks   |
+|:------------------------------|:-------------------------------|
+| 1979 - Remastered 2012        | Chariot                        |
+| Satellite Call                | You Oughta Know                |
+| Islands                       | Bottle It Up                   |
+| Armor                         | Jar of Hearts                  |
+| Breathe Again                 | Lucky                          |
+| Miss Simone                   | Sweet As Whole                 |
+| The Light                     | Gravity                        |
+| Hard To Handle                | Love Song                      |
+| No Such Thing                 | Love On the Rocks              |
+| Fire                          | Say You're Sorry               |
 
 | 10 most Live tracks                                                               | 10 least Live tracks   |
 |:----------------------------------------------------------------------------------|:-----------------------|
@@ -190,13 +186,13 @@
 
 | 10 most Happy tracks            | 10 least Happy tracks                                                             |
 |:--------------------------------|:----------------------------------------------------------------------------------|
-| 1979 - Remastered 2012          | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 |
-| Hard To Handle                  | What's Inside                                                                     |
-| I Choose You                    | Bluebird                                                                          |
-| Black Horse And The Cherry Tree | Chasing Cars                                                                      |
-| Take on Me                      | We All Need Saving                                                                |
+| 1979 - Remastered 2012          | She Used To Be Mine                                                               |
+| Hard To Handle                  | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 |
+| I Choose You                    | What's Inside                                                                     |
+| Black Horse And The Cherry Tree | Bluebird                                                                          |
+| Take on Me                      | Chasing Cars                                                                      |
 | Say You're Sorry                | Everything Changes                                                                |
 | King of Anything                | Jar of Hearts                                                                     |
 | Lie To Me                       | Islands                                                                           |
-| Bad Idea (feat. Jason Mraz)     | Say Something                                                                     |
-| I Didn't Plan It                | Once Upon Another Time                                                            |
+| I Didn't Plan It                | Say Something                                                                     |
+| Bad Idea (feat. Jason Mraz)     | Once Upon Another Time                                                            |
