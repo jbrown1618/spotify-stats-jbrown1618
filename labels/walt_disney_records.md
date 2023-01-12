@@ -157,7 +157,7 @@ Appears as:
 |                  1 | jump blues                                          |
 |                  1 | jazz blues                                          |
 |                  1 | funk                                                |
-|                  1 | folk rock                                           |
+|                  1 | [folk rock](../genres/folk_rock.md)                 |
 |                  1 | country rock                                        |
 |                  1 | classic uk pop                                      |
 |                  1 | bubblegum pop                                       |

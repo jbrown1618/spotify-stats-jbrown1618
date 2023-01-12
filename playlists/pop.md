@@ -360,7 +360,7 @@
 |   Number of Tracks | Genre                                           |
 |-------------------:|:------------------------------------------------|
 |                297 | [pop](../genres/pop.md)                         |
-|                193 | [dance pop](../genres/dance_pop.md)             |
+|                191 | [dance pop](../genres/dance_pop.md)             |
 |                 45 | [post-teen pop](../genres/post_teen_pop.md)     |
 |                 28 | [electropop](../genres/electropop.md)           |
 |                 27 | [art pop](../genres/art_pop.md)                 |
@@ -426,7 +426,6 @@
 |                  2 | irish singer-songwriter                         |
 |                  2 | indy indie                                      |
 |                  2 | indiecoustica                                   |
-|                  2 | indie pop                                       |
 |                  2 | gauze pop                                       |
 |                  2 | filter house                                    |
 |                  2 | electro                                         |
@@ -459,6 +458,7 @@
 |                  1 | neon pop punk                                   |
 |                  1 | modern indie pop                                |
 |                  1 | lafayette indie                                 |
+|                  1 | la indie                                        |
 
 </details>
 

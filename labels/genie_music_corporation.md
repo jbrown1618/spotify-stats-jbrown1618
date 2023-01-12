@@ -1,10 +1,10 @@
 # Genie Music Corporation
 
-51 songs
+52 songs
 
 Appears as:
 - Genie Music Corporation, Stone Music Entertainment (39 tracks)
-- Genie Music Corporation (12 tracks)
+- Genie Music Corporation (13 tracks)
 
 ## Top Artists
 
@@ -12,7 +12,7 @@ Appears as:
 
 
 <details>
-<summary>See all 48 artists</summary>
+<summary>See all 50 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                 | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:------------------------------------------------------------|
@@ -24,6 +24,7 @@ Appears as:
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb63a4eedf0e775d0a2e19f5df" alt="" width="50" /> | WOODZ                                  | [🔗](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | BIBI                                   | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eba6b0d348c125a072e5284b3e" alt="" width="50" /> | IZ*ONE                                 | [🔗](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eba109aeabdab7a5a5b3330df4" alt="" width="50" /> | HEIZE                                  | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../artists/mamamoo.md)       | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../artists/leehi.md)           | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | Hwa Sa                                 | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
@@ -35,7 +36,6 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)       | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfe7fc78f16d948f53a607c53" alt="" width="50" /> | NINGNING                               | [🔗](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3e5502077e2bb0fe1e3d4df0" alt="" width="50" /> | Wonstein                               | [🔗](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba109aeabdab7a5a5b3330df4" alt="" width="50" /> | HEIZE                                  | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0b4c8d0a415cab50e033129" alt="" width="50" /> | Solar                                  | [🔗](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebca6daabeb614243f96b2829f" alt="" width="50" /> | WOOSUNG                                | [🔗](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) |
 |                  1 | <img src="nan" alt="" width="50" />                                                              | Jeon Ji Woo                            | [🔗](https://open.spotify.com/artist/5A0sx2B7umJPdXgpfghJDJ) |
@@ -46,6 +46,7 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1940460d10e18c6db8366f7" alt="" width="50" /> | Lee Hyori                              | [🔗](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9e0e85b4436ec7aade9673ca" alt="" width="50" /> | WINTER                                 | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a80abb55f089d80528d24fc" alt="" width="50" /> | CHANGMO                                | [🔗](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f5769fc671ca8199168d3fb" alt="" width="50" /> | DEAN                                   | [🔗](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27381fac23cac9699f84a8151a0" alt="" width="50" /> | HOMIES                                 | [🔗](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb85a17814670b67c707f7bf08" alt="" width="50" /> | JO YURI                                | [🔗](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb29971b8d9d19fef176338e4a" alt="" width="50" /> | Loco                                   | [🔗](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) |
@@ -61,6 +62,7 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ea98681c90c252e7cde48e8" alt="" width="50" /> | VERIVERY                               | [🔗](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1787f6596afa03df2d44af87" alt="" width="50" /> | Yoon Mirae                             | [🔗](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) |
 |                  1 | <img src="nan" alt="" width="50" />                                                              | LACHICA                                | [🔗](https://open.spotify.com/artist/0vqjEQRfmE1Sov92UQRJMp) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a0c7eeb314e52270af39920d" alt="" width="50" /> | dj friz                                | [🔗](https://open.spotify.com/artist/0js3wKXyi7RL11sfOykRt1) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0eff4d3fb92746c29f1edc06" alt="" width="50" /> | Ugly Duck                              | [🔗](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7cab4360258a831b8dcb3738" alt="" width="50" /> | Coogie                                 | [🔗](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4cf17974946871ad6546f28e" alt="" width="50" /> | HYOYEON                                | [🔗](https://open.spotify.com/artist/0B3I6YgdnfXehUCpsO6oB8) |
@@ -74,7 +76,7 @@ Appears as:
 
 
 <details>
-<summary>See all 45 albums</summary>
+<summary>See all 46 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                                | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -121,6 +123,7 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739e0863f52c51d1c38a145d5a" alt="" width="50" /> | COLOR*IZ                                                             | [🔗](https://open.spotify.com/album/5Fl13rfH2DRRTo6OV4ecJY) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ab36ff6234cbb75990aab601" alt="" width="50" /> | CIX 5th EP Album ‘OK’ Episode 1 : OK Not                             | [🔗](https://open.spotify.com/album/0awixD0tmDTgB6JWfQxwO0) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735ecba6eed6a9e14a7e9534b2" alt="" width="50" /> | BLOOM*IZ                                                             | [🔗](https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737f22ff3c2da84dfc06101e23" alt="" width="50" /> | And July                                                             | [🔗](https://open.spotify.com/album/3xUWeFeLn6m3NXKr0FlT3E) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a38fcfd623020295c4b0dd6f" alt="" width="50" /> | Abyss (Original Television Soundtrack), Pt. 1                        | [🔗](https://open.spotify.com/album/0OLyahO2nuY0qQKoykd7Vy) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a61cd4953f0b2314bff431e2" alt="" width="50" /> | <Queendom2> FINAL                                                    | [🔗](https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm) |
 
@@ -137,11 +140,11 @@ Appears as:
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
-|                 43 | [k-pop](../genres/k_pop.md)                       |
+|                 44 | [k-pop](../genres/k_pop.md)                       |
 |                 12 | [k-pop girl group](../genres/k_pop_girl_group.md) |
-|                  9 | korean r&b                                        |
+|                 10 | korean r&b                                        |
 |                  8 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
-|                  3 | korean pop                                        |
+|                  4 | korean pop                                        |
 |                  3 | korean ost                                        |
 |                  2 | [pop](../genres/pop.md)                           |
 |                  2 | k-rap                                             |
@@ -167,6 +170,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b191ce6dc0fbfd68bbb67b8" alt="" width="50" /> | FIRST                                     | Last Melody                                                          | EVERGLOW                                          | [Stone Music Entertainment](stone_music_entertainment.md), [Genie Music Corporation](genie_music_corporation.md) |     | [🔗](https://open.spotify.com/track/021L6LlBBtr34BmFRHd9Ic) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734fcfc7c45bef0c20cc65ec27" alt="" width="50" /> | Don’t Speak                               | Return of The Girl                                                   | EVERGLOW                                          | [Stone Music Entertainment](stone_music_entertainment.md), [Genie Music Corporation](genie_music_corporation.md) | 💚   | [🔗](https://open.spotify.com/track/4rTXasoYr4RICJeGRk5cnD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734fcfc7c45bef0c20cc65ec27" alt="" width="50" /> | Pirate                                    | Return of The Girl                                                   | EVERGLOW                                          | [Stone Music Entertainment](stone_music_entertainment.md), [Genie Music Corporation](genie_music_corporation.md) | 💚   | [🔗](https://open.spotify.com/track/0Vu5tjvXZX3qtzRiezxLi1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737f22ff3c2da84dfc06101e23" alt="" width="50" /> | And July                                  | And July                                                             | HEIZE, DEAN, dj friz                              | [Genie Music Corporation](genie_music_corporation.md)                                                            |     | [🔗](https://open.spotify.com/track/0Yz3F0UGDibDe8uU69zmjn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27345c3e1eaeaed3345abae9616" alt="" width="50" /> | Undo                                      | Undo                                                                 | HEIZE                                             | [Stone Music Entertainment](stone_music_entertainment.md), [Genie Music Corporation](genie_music_corporation.md) | 💚   | [🔗](https://open.spotify.com/track/6z1pJ3KUmQagUpMVqL62sa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733091980300243c26b0404b76" alt="" width="50" /> | Weapon (With Newnion, FLOOR) (Prod.Czaer) | Street Dance Girls Fighter(SGF) Special                              | [ITZY](../artists/itzy.md)                        | [Genie Music Corporation](genie_music_corporation.md)                                                            | 💚   | [🔗](https://open.spotify.com/track/6poVmpGU3y3jj1Z9xbbbH4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e0863f52c51d1c38a145d5a" alt="" width="50" /> | La Vie en Rose                            | COLOR*IZ                                                             | IZ*ONE                                            | [Genie Music Corporation](genie_music_corporation.md)                                                            |     | [🔗](https://open.spotify.com/track/3WfaJhCL4p2JbdffJjV6Va) |

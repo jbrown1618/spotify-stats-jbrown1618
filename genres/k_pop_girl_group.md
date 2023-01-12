@@ -1,6 +1,6 @@
 # k-pop girl group
 
-[385 songs](k_pop_girl_group_tracks.md)
+[386 songs](k_pop_girl_group_tracks.md)
 
 ## Top Artists
 
@@ -35,12 +35,12 @@
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b27336adcea4e93245f1fec547df" alt="" width="50" /> | AOA                                                  | [🔗](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc1dc943555dfa1ee2a107e5" alt="" width="50" /> | K/DA                                                 | [🔗](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d998e7541724c918777b8ca" alt="" width="50" /> | League of Legends                                    | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | SISTAR                                               | [🔗](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb95f4928ac77d31b53626dab3" alt="" width="50" /> | PIXY                                                 | [🔗](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb5b1a291b0a6a689091d54d8b" alt="" width="50" /> | IVE                                                  | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273dd8c3b43984ed746176ac0cf" alt="" width="50" /> | PinkFantasy                                          | [🔗](https://open.spotify.com/artist/5syu5kN4a5f4rgMCRGlnZp) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eba6b0d348c125a072e5284b3e" alt="" width="50" /> | IZ*ONE                                               | [🔗](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0cc2045ff4e90d12df91cc3" alt="" width="50" /> | f(x)                                                 | [🔗](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | SISTAR                                               | [🔗](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb3202449ae19d68607e3f1530" alt="" width="50" /> | NMIXX                                                | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb30a517d1b703c3eabdac2855" alt="" width="50" /> | Wonder Girls                                         | [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebb61d3f392c4b11e9e54280a9" alt="" width="50" /> | Madison Beer                                         | [🔗](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) |
@@ -152,6 +152,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093" alt="" width="50" /> | LOVE DIVE                                   | [🔗](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2733beb8877c3a0cde5be9a139c" alt="" width="50" /> | Ice Cream Cake - The 1st Mini Album         | [🔗](https://open.spotify.com/album/27cBQ5FDqv0xLgiJ7qNpZr) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2735a34da2654db7f75cee1d080" alt="" width="50" /> | IT'z ICY                                    | [🔗](https://open.spotify.com/album/2y2Nuvvw5xNDYOunTSsgf1) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734be0f7bf49f6b31c3dfc42ae" alt="" width="50" /> | INSANE LOVE                                 | [🔗](https://open.spotify.com/album/4Yz1WY6PlJepdbnl4m72b8) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c5011613476079ff2498bf4a" alt="" width="50" /> | HELICOPTER                                  | [🔗](https://open.spotify.com/album/1uwfxRAhW1hxclCVkzku8d) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27349b81808fcdaeeb55bef59d1" alt="" width="50" /> | Feel Special                                | [🔗](https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c8caa659d37a00d34cbd6359" alt="" width="50" /> | ENTWURF                                     | [🔗](https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6) |
@@ -189,7 +190,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736034eda385497f614778f457" alt="" width="50" /> | Twicetagram                                 | [🔗](https://open.spotify.com/album/3hJXmK5gWN9P6jtZL0Lr2y) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273387444ab2fc1f08dfe7915ab" alt="" width="50" /> | Twicecoaster: Lane 1                        | [🔗](https://open.spotify.com/album/5zQhaDNbiXHRqd8Y51I4vy) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736f2d10189a41c7345a5a0337" alt="" width="50" /> | To Anyone                                   | [🔗](https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734802244fa0cf6d33eda5e748" alt="" width="50" /> | The Wonder Years - Trilogy                  | [🔗](https://open.spotify.com/album/61KwS8kiAywHkZ7gp4asTE) |
 
 </details>
 
@@ -210,8 +210,8 @@
 |                 24 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                                                               |
 |                 23 | [Interscope Records](../labels/interscope_records.md)                                                               |
 |                 18 | [Universal Music LLC](../labels/universal_music_llc.md)                                                             |
+|                 16 | [Starship Entertainment](../labels/starship_entertainment.md)                                                       |
 |                 15 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                                                 |
-|                 15 | [Starship Entertainment](../labels/starship_entertainment.md)                                                       |
 |                 12 | [RBW Inc.](../labels/rbw_inc_.md)                                                                                   |
 |                 12 | [JYP Entertainment](../labels/jyp_entertainment.md)                                                                 |
 |                 12 | [Genie Music Corporation](../labels/genie_music_corporation.md)                                                     |
@@ -320,23 +320,23 @@
 | Hurt                      | 달라달라 (DALLA DALLA)         |
 | Jazz Bar                  | LA DI DA                   |
 | ZOOM                      | DALLA DALLA - English Ver. |
-| Wind flower               | RUN2U                      |
-| Starry Night              | Adios                      |
+| Starry Night              | RUN2U                      |
+| Wind flower               | Adios                      |
 | Moonlight Melody          | Red Light                  |
 | The Happiest Girl         | Poison                     |
 
-| 10 most Instrumental tracks   | 10 least Instrumental tracks           |
-|:------------------------------|:---------------------------------------|
-| You and I (Park Bom)          | You Better Know                        |
-| Adios                         | Umpah Umpah                            |
-| YEPPI YEPPI                   | Be Natural                             |
-| So Hot                        | SO BAD                                 |
-| I Am The Best                 | Oh Boy                                 |
-| Power Up                      | #Cookie Jar                            |
-| BBoom BBoom                   | WILDSIDE                               |
-| In My Dreams                  | Marionette                             |
-| BAAM                          | Bad Boy - English Version, Bonus Track |
-| Star                          | Good, Bad, Ugly                        |
+| 10 most Instrumental tracks   | 10 least Instrumental tracks   |
+|:------------------------------|:-------------------------------|
+| You and I (Park Bom)          | Red Flavor                     |
+| Adios                         | You Better Know                |
+| YEPPI YEPPI                   | Umpah Umpah                    |
+| So Hot                        | Be Natural                     |
+| I Am The Best                 | Oh Boy                         |
+| Power Up                      | #Cookie Jar                    |
+| BBoom BBoom                   | WILDSIDE                       |
+| In My Dreams                  | Marionette                     |
+| BAAM                          | 247                            |
+| Star                          | Good, Bad, Ugly                |
 
 | 10 most Live tracks   | 10 least Live tracks          |
 |:----------------------|:------------------------------|
@@ -346,19 +346,19 @@
 | I Like That           | Red Light                     |
 | Vibrato               | BLACK DRESS                   |
 | 행복 (Happiness)        | DARK (X-file)                 |
-| Genie                 | Ice Cream (with Selena Gomez) |
-| LP                    | YEPPI YEPPI                   |
+| LP                    | Ice Cream (with Selena Gomez) |
+| Genie                 | YEPPI YEPPI                   |
 | STEREOTYPE            | SNEAKERS (English Ver.)       |
 | 5th Season (SSFWL)    | SNEAKERS                      |
 
 | 10 most Happy tracks    | 10 least Happy tracks     |
 |:------------------------|:--------------------------|
 | Pepe                    | 4 Walls                   |
-| So Hot                  | MORE                      |
-| Miniskirt               | POSE                      |
+| Miniskirt               | MORE                      |
+| So Hot                  | POSE                      |
 | Twinkle                 | LION                      |
-| Give it to me           | Ditto                     |
-| Lion Heart              | Hope Not                  |
+| Lion Heart              | Ditto                     |
+| Give it to me           | Hope Not                  |
 | 러시안 룰렛 Russian Roulette | In My Dreams              |
 | Nobody                  | Body Talk                 |
 | Really                  | Lucid Dream               |

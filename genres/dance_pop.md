@@ -1,6 +1,6 @@
 # dance pop
 
-[242 songs](dance_pop_tracks.md)
+[240 songs](dance_pop_tracks.md)
 
 ## Top Artists
 
@@ -51,7 +51,6 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | Iggy Azalea                                  | [🔗](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | B.o.B                                        | [🔗](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | Juicy J                                      | [🔗](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb0d66b3670294bf801847dae2" alt="" width="50" /> | Lizzo                                        | [🔗](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | Young Thug                                   | [🔗](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ace68c56849548db7f102be" alt="" width="50" /> | DaBaby                                       | [🔗](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)         | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
@@ -114,6 +113,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebaa2d9bd207a62adc3edf6631" alt="" width="50" /> | Florida Georgia Line                         | [🔗](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb49637fe719fddb8e90896f41" alt="" width="50" /> | Jhorrmountain                                | [🔗](https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o) |
 |                  1 | <img src="nan" alt="" width="50" />                                                              | Zachary Levi                                 | [🔗](https://open.spotify.com/artist/3XSyTI9ct70ZheMESAv2st) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb002eedc44fefe085daae10e4" alt="" width="50" /> | Troye Sivan                                  | [🔗](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) |
 
 </details>
 
@@ -237,14 +237,14 @@
 
 
 <details>
-<summary>See all 78 labels</summary>
+<summary>See all 77 labels</summary>
 
 |   Number of Tracks | Label                                                                                                                       |
 |-------------------:|:----------------------------------------------------------------------------------------------------------------------------|
 |                 28 | [RCA Records Label](../labels/rca_records_label.md)                                                                         |
 |                 22 | [Warner Records](../labels/warner_records.md)                                                                               |
 |                 19 | [Columbia](../labels/columbia.md)                                                                                           |
-|                 19 | [Atlantic Records](../labels/atlantic_records.md)                                                                           |
+|                 17 | [Atlantic Records](../labels/atlantic_records.md)                                                                           |
 |                 15 | [Jive](../labels/jive.md)                                                                                                   |
 |                 13 | [Universal Music LLC](../labels/universal_music_llc.md)                                                                     |
 |                 13 | [Republic Records](../labels/republic_records.md)                                                                           |
@@ -268,7 +268,6 @@
 |                  2 | [Walt Disney Records](../labels/walt_disney_records.md)                                                                     |
 |                  2 | [Sony Music Entertainment](../labels/sony_music_entertainment.md)                                                           |
 |                  2 | [Nicki Minaj](../labels/nicki_minaj.md)                                                                                     |
-|                  2 | [Nice Life](../labels/nice_life.md)                                                                                         |
 |                  2 | [Lava Music](../labels/lava_music.md)                                                                                       |
 |                  2 | [KSR](../labels/ksr.md)                                                                                                     |
 |                  2 | [Hollywood Records](../labels/hollywood_records.md)                                                                         |
@@ -333,8 +332,8 @@
 | Pretty Please                    | Half Of Me                                            |
 | Sally Walker                     | Ave Maria                                             |
 | Coño                             | Jar of Hearts                                         |
-| LoveGame                         | I'd Rather Go Blind                                   |
-| Yeah! (feat. Lil Jon & Ludacris) | I See the Light - From "Tangled" / Soundtrack Version |
+| Yeah! (feat. Lil Jon & Ludacris) | I'd Rather Go Blind                                   |
+| LoveGame                         | I See the Light - From "Tangled" / Soundtrack Version |
 | Faith - Remastered               | La Vie En Rose                                        |
 | Worth It (feat. Kid Ink)         | Already Gone                                          |
 
@@ -366,7 +365,7 @@
 
 | 10 most Acoustic tracks                               | 10 least Acoustic tracks                                                 |
 |:------------------------------------------------------|:-------------------------------------------------------------------------|
-| Stay                                                  | Bad Romance                                                              |
+| Stay                                                  | Dark Horse                                                               |
 | Your Song                                             | Watch n' Learn                                                           |
 | When I Was Your Man                                   | New Rules                                                                |
 | I Thought She Knew                                    | Valerie (feat. Amy Winehouse) - Version Revisited                        |
@@ -379,15 +378,15 @@
 
 | 10 most Instrumental tracks                              | 10 least Instrumental tracks                                   |
 |:---------------------------------------------------------|:---------------------------------------------------------------|
-| This Is What You Came For                                | Heart Attack                                                   |
-| You and I (Park Bom)                                     | Truth Hurts                                                    |
-| Lights - Single Version                                  | About Damn Time                                                |
-| Toxic                                                    | Happy Ending                                                   |
-| Candyman                                                 | Swalla (feat. Nicki Minaj & Ty Dolla $ign)                     |
-| Grace Kelly                                              | Talk Dirty (feat. 2 Chainz)                                    |
-| Coño                                                     | Trumpets                                                       |
-| I Am The Best                                            | Bubblegum (feat. Tyga)                                         |
-| SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) | Kiss and Make Up                                               |
+| This Is What You Came For                                | Stone Cold                                                     |
+| You and I (Park Bom)                                     | Heart Attack                                                   |
+| Lights - Single Version                                  | Happy Ending                                                   |
+| Toxic                                                    | Swalla (feat. Nicki Minaj & Ty Dolla $ign)                     |
+| Candyman                                                 | Talk Dirty (feat. 2 Chainz)                                    |
+| Grace Kelly                                              | Trumpets                                                       |
+| Coño                                                     | Bubblegum (feat. Tyga)                                         |
+| I Am The Best                                            | Kiss and Make Up                                               |
+| SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) | Levitating (feat. DaBaby)                                      |
 | Woman                                                    | When Will My Life Begin? - From "Tangled" / Soundtrack Version |
 
 | 10 most Live tracks                            | 10 least Live tracks             |

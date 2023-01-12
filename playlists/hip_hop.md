@@ -127,7 +127,7 @@
 |                 10 | [pop](../genres/pop.md)                     |
 |                  9 | [dance pop](../genres/dance_pop.md)         |
 |                  7 | hip hop                                     |
-|                  4 | pop rap                                     |
+|                  5 | pop rap                                     |
 |                  4 | hip pop                                     |
 |                  4 | detroit hip hop                             |
 |                  4 | chicago rap                                 |

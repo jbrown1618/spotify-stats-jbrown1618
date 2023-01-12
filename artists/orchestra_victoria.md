@@ -22,7 +22,6 @@
 
 ## Genres
 
-- ballet class
 
 ## Tracks
 
