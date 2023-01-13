@@ -1,7 +1,7 @@
 # Classic Rock
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d0000b2730b51f8d91f3a21e8426361aeab67616d0000b27384243a01af3c77b56fe01ab1ab67616d0000b2739662c6535fb4bf5767e50f32ab67616d0000b273b11078ee23dcd99e085ac33e" alt="Classic Rock" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d0000b2730b51f8d91f3a21e8426361aeab67616d0000b273608a63ad5b18e99da94a3f73ab67616d0000b27384243a01af3c77b56fe01ab1ab67616d0000b2738cffbbb7fe8645a486a85ea9" alt="Classic Rock" width="100" />
 
 [96 songs](classic_rock_tracks.md)
 
@@ -188,7 +188,7 @@
 |                 10 | art rock                                            |
 |                  9 | yacht rock                                          |
 |                  9 | [singer-songwriter](../genres/singer_songwriter.md) |
-|                  9 | [folk rock](../genres/folk_rock.md)                 |
+|                  9 | folk rock                                           |
 |                  9 | blues rock                                          |
 |                  8 | metal                                               |
 |                  5 | heartland rock                                      |

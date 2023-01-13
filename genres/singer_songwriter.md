@@ -1,16 +1,16 @@
 # singer-songwriter
 
-[51 songs](singer_songwriter_tracks.md)
+[52 songs](singer_songwriter_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 16 artists](../images/genres/singer_songwriter/artists.png)
+![Bar chart of top 17 artists](../images/genres/singer_songwriter/artists.png)
 
 ![Comparison of Artist](../images/genres/singer_songwriter/artists_comparison.png)
 
 
 <details>
-<summary>See all 16 artists</summary>
+<summary>See all 17 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                                 | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------|:------------------------------------------------------------|
@@ -30,6 +30,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb158e511237e045874689da71" alt="" width="50" /> | Chicago                                                | [🔗](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf178cbda9bd9a389581ff021" alt="" width="50" /> | Fiona Apple                                            | [🔗](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfed5626c008ba961a81dd218" alt="" width="50" /> | Dr. John                                               | [🔗](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ec0ed4b4cd16649c0ded8a7" alt="" width="50" /> | Brandi Carlile                                         | [🔗](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) |
 
 </details>
 
@@ -39,7 +40,7 @@
 
 
 <details>
-<summary>See all 35 albums</summary>
+<summary>See all 36 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                          | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------|:-----------------------------------------------------------|
@@ -78,6 +79,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273431daec5815fd0255437b43b" alt="" width="50" /> | Cold Spring Harbor                                             | [🔗](https://open.spotify.com/album/274rMlKrr22086ohmwAJZA) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730ac413b28547dbc45412a3ce" alt="" width="50" /> | Chicago IX: Chicago's Greatest Hits                            | [🔗](https://open.spotify.com/album/5qWGV0fd7hpdptJYI4G9Dd) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733f29a976eea00141514ab936" alt="" width="50" /> | Blowin' Your Mind!                                             | [🔗](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f5aac98410fb9e64e29827d4" alt="" width="50" /> | Bear Creek                                                     | [🔗](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) |
 
 </details>
 
@@ -92,7 +94,7 @@
 
 |   Number of Tracks | Label                                                                             |
 |-------------------:|:----------------------------------------------------------------------------------|
-|                 23 | [Columbia](../labels/columbia.md)                                                 |
+|                 24 | [Columbia](../labels/columbia.md)                                                 |
 |                 14 | [Rhino](../labels/rhino.md)                                                       |
 |                  5 | [Legacy](../labels/legacy.md)                                                     |
 |                  3 | [Elektra](../labels/elektra.md)                                                   |
@@ -120,8 +122,8 @@
 | My Life                     | The Pirate of Penance             |
 | A Matter of Trust           | Scenes from an Italian Restaurant |
 | We Didn't Start the Fire    | Captain Jack                      |
-| I Feel the Earth Move       | And So It Goes                    |
-| Uptown Girl                 | The Boxer                         |
+| I Feel the Earth Move       | The Boxer                         |
+| Uptown Girl                 | And So It Goes                    |
 | Down in New Orleans         | Piano Man                         |
 | A Case of You               | Shadowboxer                       |
 | Don't Ask Me Why            | She's Always a Woman              |
@@ -168,16 +170,16 @@
 
 | 10 most Instrumental tracks       | 10 least Instrumental tracks   |
 |:----------------------------------|:-------------------------------|
-| 25 or 6 to 4                      | Lullabye (Goodnight, My Angel) |
-| I Had a King                      | A Case of You                  |
-| You Can Call Me Al                | Free Man in Paris              |
-| Blue                              | Shadowboxer                    |
-| I Feel the Earth Move             | Cat's in the Cradle            |
-| My Life                           | Don't Ask Me Why               |
-| Pressure                          | Uptown Girl                    |
-| Down in New Orleans               | We Didn't Start the Fire       |
-| Scenes from an Italian Restaurant | And So It Goes                 |
-| Hotel California - 2013 Remaster  | Big Yellow Taxi                |
+| 25 or 6 to 4                      | Daydream Believer              |
+| I Had a King                      | Lullabye (Goodnight, My Angel) |
+| You Can Call Me Al                | A Case of You                  |
+| Blue                              | Free Man in Paris              |
+| I Feel the Earth Move             | Big Yellow Taxi                |
+| My Life                           | Shadowboxer                    |
+| Pressure                          | Cat's in the Cradle            |
+| Down in New Orleans               | And So It Goes                 |
+| Scenes from an Italian Restaurant | Don't Ask Me Why               |
+| Hotel California - 2013 Remaster  | That Wasn't Me                 |
 
 | 10 most Live tracks       | 10 least Live tracks             |
 |:--------------------------|:---------------------------------|

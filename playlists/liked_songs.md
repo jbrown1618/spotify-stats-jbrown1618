@@ -359,19 +359,18 @@
 |                593 | [k-pop](../genres/k_pop.md)                         |
 |                350 | [pop](../genres/pop.md)                             |
 |                288 | [k-pop girl group](../genres/k_pop_girl_group.md)   |
-|                161 | [dance pop](../genres/dance_pop.md)                 |
+|                162 | [dance pop](../genres/dance_pop.md)                 |
 |                159 | [k-pop boy group](../genres/k_pop_boy_group.md)     |
 |                100 | [rock](../genres/rock.md)                           |
 |                 78 | [classic rock](../genres/classic_rock.md)           |
-|                 60 | [lilith](../genres/lilith.md)                       |
+|                 61 | [lilith](../genres/lilith.md)                       |
 |                 58 | [neo mellow](../genres/neo_mellow.md)               |
 |                 56 | [acoustic pop](../genres/acoustic_pop.md)           |
 |                 55 | [pop rock](../genres/pop_rock.md)                   |
 |                 44 | [hollywood](../genres/hollywood.md)                 |
 |                 42 | [mellow gold](../genres/mellow_gold.md)             |
 |                 39 | [post-teen pop](../genres/post_teen_pop.md)         |
-|                 34 | [electropop](../genres/electropop.md)               |
-|                 33 | [folk rock](../genres/folk_rock.md)                 |
+|                 35 | [electropop](../genres/electropop.md)               |
 |                 33 | [art pop](../genres/art_pop.md)                     |
 |                 32 | [soft rock](../genres/soft_rock.md)                 |
 |                 30 | [psychedelic rock](../genres/psychedelic_rock.md)   |
@@ -390,16 +389,17 @@
 |                 19 | album rock                                          |
 |                 19 | [adult standards](../genres/adult_standards.md)     |
 |                 18 | hard rock                                           |
+|                 18 | folk rock                                           |
 |                 18 | art rock                                            |
 |                 18 | [a cappella](../genres/a_cappella.md)               |
 |                 16 | uk pop                                              |
-|                 16 | pop rap                                             |
-|                 16 | neo soul                                            |
 |                 16 | indie pop                                           |
 |                 15 | urban contemporary                                  |
+|                 15 | pop rap                                             |
 |                 15 | metropopolis                                        |
 |                 15 | k-rap                                               |
 |                 14 | uk alternative pop                                  |
+|                 14 | neo soul                                            |
 |                 14 | melancholia                                         |
 |                 14 | folk                                                |
 |                 14 | baroque pop                                         |
@@ -426,6 +426,7 @@
 |                  8 | australian dance                                    |
 |                  7 | viral pop                                           |
 |                  7 | pop dance                                           |
+|                  7 | motown                                              |
 |                  7 | kawaii metal                                        |
 |                  7 | j-pop                                               |
 |                  7 | j-metal                                             |
@@ -440,7 +441,6 @@
 |                  7 | alternative r&b                                     |
 |                  6 | stomp and holler                                    |
 |                  6 | pop soul                                            |
-|                  6 | motown                                              |
 |                  6 | modern alternative rock                             |
 |                  6 | la indie                                            |
 |                  6 | hip pop                                             |

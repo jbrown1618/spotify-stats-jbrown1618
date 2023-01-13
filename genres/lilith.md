@@ -1,16 +1,16 @@
 # lilith
 
-[93 songs](lilith_tracks.md)
+[94 songs](lilith_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 11 artists](../images/genres/lilith/artists.png)
+![Bar chart of top 12 artists](../images/genres/lilith/artists.png)
 
 ![Comparison of Artist](../images/genres/lilith/artists_comparison.png)
 
 
 <details>
-<summary>See all 11 artists</summary>
+<summary>See all 12 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                         | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------|:------------------------------------------------------------|
@@ -21,6 +21,7 @@
 |                  4 | <img src="https://i.scdn.co/image/da5f4b11c665b4d17c7ed24eb23949c046208dcd" alt="" width="50" /> | Jem                                            | [🔗](https://open.spotify.com/artist/4v4xuH9VypORYabMnhPLt1) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eba36a9f95d59ab791d5e897e9" alt="" width="50" /> | Regina Spektor                                 | [🔗](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8457f57bc526c37bd804b924" alt="" width="50" /> | KT Tunstall                                    | [🔗](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) |
+|                  1 | <img src="https://i.scdn.co/image/ab6772690000c46c44408083dac26a782655baf3" alt="" width="50" /> | Alanis Morissette                              | [🔗](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebce8d5be6690c6964069ab8e0" alt="" width="50" /> | Jason Mraz                                     | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe86f788af4e127154da1257f" alt="" width="50" /> | Bonnie Raitt                                   | [🔗](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf178cbda9bd9a389581ff021" alt="" width="50" /> | Fiona Apple                                    | [🔗](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) |
@@ -30,11 +31,11 @@
 
 ## Top Albums
 
-![Bar chart of top 21 albums](../images/genres/lilith/albums.png)
+![Bar chart of top 22 albums](../images/genres/lilith/albums.png)
 
 
 <details>
-<summary>See all 21 albums</summary>
+<summary>See all 22 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                       | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------|:-----------------------------------------------------------|
@@ -56,6 +57,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b254ca0983d65ede8e3d2f7a" alt="" width="50" /> | Tidal                                       | [🔗](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732cf1dcc65396176307f23524" alt="" width="50" /> | PINES                                       | [🔗](https://open.spotify.com/album/1876e9QcHkJ3Hgo4NqKXBN) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1113af3a19a41dc8eec534e" alt="" width="50" /> | Luck Of The Draw                            | [🔗](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27392c885317fbe4bfa680109b4" alt="" width="50" /> | Jagged Little Pill                          | [🔗](https://open.spotify.com/album/09AwlP99cHfKVNKv4FC8VW) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738c8d5428b693308705e7caca" alt="" width="50" /> | Far                                         | [🔗](https://open.spotify.com/album/5t0lQDPLF22wmWCtSZkIVv) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="" width="50" /> | Brave Enough: Live at the Variety Playhouse | [🔗](https://open.spotify.com/album/7L4ZgnQqEhCEsV9GnMeXtE) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f5aac98410fb9e64e29827d4" alt="" width="50" /> | Bear Creek                                  | [🔗](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) |
@@ -65,11 +67,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 14 record labels](../images/genres/lilith/labels.png)
+![Bar chart of top 15 record labels](../images/genres/lilith/labels.png)
 
 
 <details>
-<summary>See all 14 labels</summary>
+<summary>See all 15 labels</summary>
 
 |   Number of Tracks | Label                                           |
 |-------------------:|:------------------------------------------------|
@@ -84,6 +86,7 @@
 |                  3 | [Beaute](../labels/beaute.md)                   |
 |                  2 | [Saddle Creek](../labels/saddle_creek.md)       |
 |                  1 | [Work](../labels/work.md)                       |
+|                  1 | [Maverick](../labels/maverick.md)               |
 |                  1 | [Columbia](../labels/columbia.md)               |
 |                  1 | [Clean Slate](../labels/clean_slate.md)         |
 |                  1 | [Capitol Records](../labels/capitol_records.md) |
@@ -130,7 +133,7 @@
 | Black Horse And The Cherry Tree | Pitter-Pat                |
 | Fire                            | Whisper                   |
 | Eden                            | Come On Closer            |
-| Little Black Dress              | Satellite Call            |
+| You Oughta Know                 | Satellite Call            |
 
 | 10 most Acoustic tracks                                                           | 10 least Acoustic tracks    |
 |:----------------------------------------------------------------------------------|:----------------------------|
@@ -147,7 +150,7 @@
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| A Better Son/Daughter         | Gravity                        |
+| A Better Son/Daughter         | She Used To Be Mine            |
 | The Execution Of All Things   | Opening Up                     |
 | Now Is The Start              | Bad Idea (feat. Jason Mraz)    |
 | Satellite Call                | Everything Changes             |
@@ -161,15 +164,15 @@
 | 10 most Live tracks                                                               | 10 least Live tracks        |
 |:----------------------------------------------------------------------------------|:----------------------------|
 | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Blow Away                   |
-| Ashes And Wine                                                                    | Islands                     |
-| Fire                                                                              | On the Radio                |
-| Black Horse And The Cherry Tree                                                   | The Light                   |
-| Let The Rain                                                                      | The Execution Of All Things |
-| It's Not That Easy                                                                | King of Anything            |
-| Pitter-Pat                                                                        | Chasing The Sun             |
-| SleepWalking                                                                      | Eden                        |
-| Not Alone                                                                         | Brave                       |
-| If I Can't Have You                                                               | Uncharted                   |
+| You Oughta Know                                                                   | Islands                     |
+| Ashes And Wine                                                                    | On the Radio                |
+| Fire                                                                              | The Light                   |
+| Black Horse And The Cherry Tree                                                   | The Execution Of All Things |
+| Let The Rain                                                                      | King of Anything            |
+| It's Not That Easy                                                                | Chasing The Sun             |
+| Pitter-Pat                                                                        | Eden                        |
+| SleepWalking                                                                      | Brave                       |
+| Not Alone                                                                         | Uncharted                   |
 
 | 10 most Happy tracks            | 10 least Happy tracks                                                             |
 |:--------------------------------|:----------------------------------------------------------------------------------|
@@ -181,5 +184,5 @@
 | Say You're Sorry                | Missing You                                                                       |
 | King of Anything                | Everything Changes                                                                |
 | Lie To Me                       | Islands                                                                           |
-| Bad Idea (feat. Jason Mraz)     | Once Upon Another Time                                                            |
-| I Didn't Plan It                | A Better Son/Daughter                                                             |
+| I Didn't Plan It                | Once Upon Another Time                                                            |
+| Bad Idea (feat. Jason Mraz)     | A Better Son/Daughter                                                             |

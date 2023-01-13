@@ -159,9 +159,9 @@
 |-------------------:|:----------------------------------------------------|
 |                 20 | soul                                                |
 |                 17 | [mellow gold](../genres/mellow_gold.md)             |
-|                 12 | motown                                              |
+|                 13 | motown                                              |
 |                 12 | [adult standards](../genres/adult_standards.md)     |
-|                  9 | [folk rock](../genres/folk_rock.md)                 |
+|                  9 | folk rock                                           |
 |                  8 | [r&b](../genres/r_b.md)                             |
 |                  8 | [pop](../genres/pop.md)                             |
 |                  8 | folk                                                |

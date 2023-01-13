@@ -1,16 +1,16 @@
 # neo mellow
 
-[85 songs](neo_mellow_tracks.md)
+[86 songs](neo_mellow_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 18 artists](../images/genres/neo_mellow/artists.png)
+![Bar chart of top 19 artists](../images/genres/neo_mellow/artists.png)
 
 ![Comparison of Artist](../images/genres/neo_mellow/artists_comparison.png)
 
 
 <details>
-<summary>See all 18 artists</summary>
+<summary>See all 19 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                         | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------|:------------------------------------------------------------|
@@ -29,6 +29,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1d8a4653fd6d0725521725bb" alt="" width="50" /> | James Smith                                    | [🔗](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc78a80d480018ec030aade25" alt="" width="50" /> | Marc Broussard                                 | [🔗](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb02dd5c821135e146eb2bfc85" alt="" width="50" /> | Snow Patrol                                    | [🔗](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ec0ed4b4cd16649c0ded8a7" alt="" width="50" /> | Brandi Carlile                                 | [🔗](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) |
 |                  1 | <img src="https://i.scdn.co/image/914ae1ce7fb065cfb0c89794e5e41c6eca758df3" alt="" width="50" /> | Corinne Bailey Rae                             | [🔗](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | Christina Aguilera                             | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8f9c3f0a123aecf196868c9c" alt="" width="50" /> | Michael Andrews                                | [🔗](https://open.spotify.com/artist/0RkqytrwoGyXGvDiZwT6i2) |
@@ -37,11 +38,11 @@
 
 ## Top Albums
 
-![Bar chart of top 24 albums](../images/genres/neo_mellow/albums.png)
+![Bar chart of top 25 albums](../images/genres/neo_mellow/albums.png)
 
 
 <details>
-<summary>See all 24 albums</summary>
+<summary>See all 25 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                       | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------|:-----------------------------------------------------------|
@@ -69,17 +70,18 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27309ec47c2a2173e984d8461e9" alt="" width="50" /> | Chariot - Stripped                          | [🔗](https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737cdb143bd2e9906d39c5eb04" alt="" width="50" /> | Carencro                                    | [🔗](https://open.spotify.com/album/15dP7BadtY55t9VvFlVrBA) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="" width="50" /> | Brave Enough: Live at the Variety Playhouse | [🔗](https://open.spotify.com/album/7L4ZgnQqEhCEsV9GnMeXtE) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f5aac98410fb9e64e29827d4" alt="" width="50" /> | Bear Creek                                  | [🔗](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) |
 
 </details>
 
 
 ## Top Record Labels
 
-![Bar chart of top 13 record labels](../images/genres/neo_mellow/labels.png)
+![Bar chart of top 14 record labels](../images/genres/neo_mellow/labels.png)
 
 
 <details>
-<summary>See all 13 labels</summary>
+<summary>See all 14 labels</summary>
 
 |   Number of Tracks | Label                                                         |
 |-------------------:|:--------------------------------------------------------------|
@@ -96,6 +98,7 @@
 |                  1 | [J Records](../labels/j_records.md)                           |
 |                  1 | [Island Records](../labels/island_records.md)                 |
 |                  1 | [Down Up Down Music](../labels/down_up_down_music.md)         |
+|                  1 | [Columbia](../labels/columbia.md)                             |
 
 </details>
 
@@ -123,8 +126,8 @@
 | Fairytale                   | Poison & Wine                                                                     |
 | Brave                       | Bright Lights and Cityscapes                                                      |
 | Industry                    | Manhattan                                                                         |
-| Come Round Soon             | Say Something                                                                     |
-| Love On the Rocks           | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 |
+| Love On the Rocks           | Say Something                                                                     |
+| Come Round Soon             | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 |
 | One Sweet Love              | Mad World                                                                         |
 | Home                        | Kaleidoscope Heart                                                                |
 
@@ -154,18 +157,18 @@
 | Once Upon Another Time                                                            | Brave                       |
 | Miss Simone                                                                       | Now Is The Start            |
 
-| 10 most Instrumental tracks   | 10 least Instrumental tracks    |
-|:------------------------------|:--------------------------------|
-| Now Is The Start              | I'm Yours                       |
-| Satellite Call                | Everything Changes              |
-| Islands                       | Once Upon Another Time          |
-| Armor                         | Black Horse And The Cherry Tree |
-| Breathe Again                 | Other Side Of The World         |
-| Miss Simone                   | Suddenly I See                  |
-| The Light                     | Sweet As Whole                  |
-| No Such Thing                 | Gravity                         |
-| Whisper                       | Love Song                       |
-| Fire                          | Say You're Sorry                |
+| 10 most Instrumental tracks   | 10 least Instrumental tracks   |
+|:------------------------------|:-------------------------------|
+| Now Is The Start              | Jar of Hearts                  |
+| Satellite Call                | Chariot                        |
+| Islands                       | She Used To Be Mine            |
+| Armor                         | Opening Up                     |
+| Breathe Again                 | Bad Idea (feat. Jason Mraz)    |
+| Miss Simone                   | Everything Changes             |
+| The Light                     | If I Can't Have You            |
+| No Such Thing                 | Little Black Dress             |
+| Whisper                       | Hercules                       |
+| Fire                          | Say You're Sorry               |
 
 | 10 most Live tracks                                                               | 10 least Live tracks   |
 |:----------------------------------------------------------------------------------|:-----------------------|
@@ -188,7 +191,7 @@
 | Electric Twist                  | Chasing Cars            |
 | Say You're Sorry                | We All Need Saving      |
 | King of Anything                | Everything Changes      |
-| Lie To Me                       | Jar of Hearts           |
-| Home                            | Islands                 |
+| Home                            | Jar of Hearts           |
+| Lie To Me                       | Islands                 |
 | Bad Idea (feat. Jason Mraz)     | Say Something           |
 | I Didn't Plan It                | Once Upon Another Time  |

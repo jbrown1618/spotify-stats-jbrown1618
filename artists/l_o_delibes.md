@@ -23,8 +23,8 @@
 ## Genres
 
 - [classical](../genres/classical.md)
-- [french opera](../genres/french_opera.md)
-- [french romanticism](../genres/french_romanticism.md)
+- french opera
+- french romanticism
 - [late romantic era](../genres/late_romantic_era.md)
 
 ## Tracks

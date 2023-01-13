@@ -329,6 +329,7 @@
 |                  4 | indonesian r&b                        |
 |                  4 | indonesian pop                        |
 |                  4 | indonesian indie                      |
+|                  4 | c-pop                                 |
 |                  3 | urbano latino                         |
 |                  3 | taiwan singer-songwriter              |
 |                  3 | sunnlensk tonlist                     |
@@ -337,7 +338,6 @@
 |                  3 | j-poprock                             |
 |                  3 | icelandic pop                         |
 |                  3 | francoton                             |
-|                  3 | c-pop                                 |
 |                  3 | bitpop                                |
 |                  2 | shibuya-kei                           |
 |                  2 | reggaeton colombiano                  |

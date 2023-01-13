@@ -91,8 +91,8 @@
 |                 44 | [neoclassicism](../genres/neoclassicism.md)                       |
 |                 44 | [early modern classical](../genres/early_modern_classical.md)     |
 |                 39 | [russian modern classical](../genres/russian_modern_classical.md) |
-|                 39 | [french romanticism](../genres/french_romanticism.md)             |
-|                 39 | [french opera](../genres/french_opera.md)                         |
+|                 39 | french romanticism                                                |
+|                 39 | french opera                                                      |
 
 </details>
 

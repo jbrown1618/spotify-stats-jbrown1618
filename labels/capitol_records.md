@@ -88,7 +88,7 @@ Appears as:
 |                  1 | [mellow gold](../genres/mellow_gold.md)             |
 |                  1 | [lilith](../genres/lilith.md)                       |
 |                  1 | [k-pop](../genres/k_pop.md)                         |
-|                  1 | [folk rock](../genres/folk_rock.md)                 |
+|                  1 | folk rock                                           |
 |                  1 | folk                                                |
 |                  1 | electric blues                                      |
 |                  1 | country rock                                        |
@@ -120,4 +120,4 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d658a02ba8931985bdc4e0da" alt="" width="50" /> | Light On                                     | Heard It In A Past Life                 | Maggie Rogers                          | [Capitol Records](capitol_records.md)                                          | 💚   | [🔗](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730fdfb62956211c999c39a5a3" alt="" width="50" /> | That's Where I Am                            | Surrender                               | Maggie Rogers                          | [Capitol Records](capitol_records.md)                                          | 💚   | [🔗](https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701" alt="" width="50" /> | Nature Boy                                   | The Nat King Cole Story                 | Nat King Cole                          | [Capitol Records](capitol_records.md)                                          | 💚   | [🔗](https://open.spotify.com/track/2WMyu5IYgxEuCd6xgFgJrl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273724a0cb04dbc89d9dd6ee06d" alt="" width="50" /> | Tiger Inside                                 | Super One -The 1st Album                | SuperM                                 | [Capitol Records](capitol_records.md), [SM Entertainment](sm_entertainment.md) | 💚   | [🔗](https://open.spotify.com/track/1ADlTU9mFc3oDdD9Vla2Yw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273724a0cb04dbc89d9dd6ee06d" alt="" width="50" /> | Tiger Inside                                 | Super One -The 1st Album                | SuperM                                 | [SM Entertainment](sm_entertainment.md), [Capitol Records](capitol_records.md) | 💚   | [🔗](https://open.spotify.com/track/1ADlTU9mFc3oDdD9Vla2Yw) |

@@ -45,12 +45,12 @@ Appears as:
 <details>
 <summary>See all 4 genres</summary>
 
-|   Number of Tracks | Genre                                                 |
-|-------------------:|:------------------------------------------------------|
-|                 39 | [late romantic era](../genres/late_romantic_era.md)   |
-|                 39 | [french romanticism](../genres/french_romanticism.md) |
-|                 39 | [french opera](../genres/french_opera.md)             |
-|                 39 | [classical](../genres/classical.md)                   |
+|   Number of Tracks | Genre                                               |
+|-------------------:|:----------------------------------------------------|
+|                 39 | [late romantic era](../genres/late_romantic_era.md) |
+|                 39 | french romanticism                                  |
+|                 39 | french opera                                        |
+|                 39 | [classical](../genres/classical.md)                 |
 
 </details>
 

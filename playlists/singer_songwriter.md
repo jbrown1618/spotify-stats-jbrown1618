@@ -40,7 +40,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9bc0756eb16b241111bbc72b" alt="" width="50" /> | Colbie Caillat                                 | [🔗](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb07ccdb9ab1ac27384a990ff9" alt="" width="50" /> | Feist                                          | [🔗](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1d8a4653fd6d0725521725bb" alt="" width="50" /> | James Smith                                    | [🔗](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb465e5c53b8387313f81218b3" alt="" width="50" /> | Gracie Abrams                                  | [🔗](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb416bd8a66bfcbc545c2009ac" alt="" width="50" /> | Gracie Abrams                                  | [🔗](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba688abfbbed1037befa47232" alt="" width="50" /> | HAIM                                           | [🔗](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb67be065df01f37a3880216be" alt="" width="50" /> | Bon Iver                                       | [🔗](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273743ebb11200358b5c050f542" alt="" width="50" /> | Harry Chapin                                   | [🔗](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) |
@@ -203,19 +203,18 @@
 
 
 <details>
-<summary>See all 50 genres</summary>
+<summary>See all 51 genres</summary>
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
 |                139 | [pop](../genres/pop.md)                             |
 |                 82 | [acoustic pop](../genres/acoustic_pop.md)           |
 |                 79 | [lilith](../genres/lilith.md)                       |
-|                 71 | [neo mellow](../genres/neo_mellow.md)               |
+|                 72 | [neo mellow](../genres/neo_mellow.md)               |
 |                 61 | [pop rock](../genres/pop_rock.md)                   |
 |                 59 | [hollywood](../genres/hollywood.md)                 |
-|                 35 | [singer-songwriter](../genres/singer_songwriter.md) |
+|                 36 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                 35 | piano rock                                          |
-|                 33 | [folk rock](../genres/folk_rock.md)                 |
 |                 31 | [mellow gold](../genres/mellow_gold.md)             |
 |                 25 | [soft rock](../genres/soft_rock.md)                 |
 |                 25 | [classic rock](../genres/classic_rock.md)           |
@@ -223,6 +222,7 @@
 |                 18 | [art pop](../genres/art_pop.md)                     |
 |                 14 | indie pop                                           |
 |                 12 | folk                                                |
+|                 11 | folk rock                                           |
 |                  9 | nz pop                                              |
 |                  9 | [electropop](../genres/electropop.md)               |
 |                  9 | bergen indie                                        |
@@ -256,6 +256,7 @@
 |                  1 | canadian pop                                        |
 |                  1 | canadian indie                                      |
 |                  1 | british soul                                        |
+|                  1 | alternative r&b                                     |
 |                  1 | alt z                                               |
 
 </details>
