@@ -32,7 +32,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb338d6964565206f741d5ad1" alt="" width="50" /> | Foreigner                                              | [🔗](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe86f788af4e127154da1257f" alt="" width="50" /> | Bonnie Raitt                                           | [🔗](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273743ebb11200358b5c050f542" alt="" width="50" /> | Harry Chapin                                           | [🔗](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb158e511237e045874689da71" alt="" width="50" /> | Chicago                                                | [🔗](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebbab088e2157b02848dfcbc1e" alt="" width="50" /> | Chicago                                                | [🔗](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) |
 |                  1 | <img src="https://i.scdn.co/image/ab6772690000c46cb8af37ba12c1ad7ebcc63c25" alt="" width="50" /> | Frankie Valli                                          | [🔗](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) |
 |                  1 | <img src="https://i.scdn.co/image/1d5a05673975ba0c378cd280344e000b0b865620" alt="" width="50" /> | Bee Gees                                               | [🔗](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) |
 

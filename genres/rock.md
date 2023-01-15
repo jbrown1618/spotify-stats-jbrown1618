@@ -1,6 +1,6 @@
 # rock
 
-[147 songs](rock_tracks.md)
+[149 songs](rock_tracks.md)
 
 ## Top Artists
 
@@ -10,7 +10,7 @@
 
 
 <details>
-<summary>See all 37 artists</summary>
+<summary>See all 38 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                                 | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------|:------------------------------------------------------------|
@@ -32,6 +32,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebfef3008e708e59efaa5667ed" alt="" width="50" /> | Styx                                                   | [🔗](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb196972172c37d934d9ca8093" alt="" width="50" /> | Twenty One Pilots                                      | [🔗](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebbdef7f178c9cf2e8d50cb9b9" alt="" width="50" /> | The Monkees                                            | [🔗](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) |
+|                  2 | <img src="https://i.scdn.co/image/813fde33623cbfd065053789cf1ffb22b55efd4a" alt="" width="50" /> | Carole King                                            | [🔗](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44" alt="" width="50" /> | Metallica                                              | [🔗](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebe924bdfec5ce73220c15cd25" alt="" width="50" /> | Kansas                                                 | [🔗](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb1f764c8f69b595efe77e1c45" alt="" width="50" /> | Paul Simon                                             | [🔗](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) |
@@ -60,7 +61,7 @@
 
 
 <details>
-<summary>See all 96 albums</summary>
+<summary>See all 97 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                   | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------|:-----------------------------------------------------------|
@@ -78,6 +79,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="" width="50" /> | Who's Next (Deluxe Edition)                             | [🔗](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="" width="50" /> | The Stranger (Legacy Edition)                           | [🔗](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="" width="50" /> | The 2nd Law                                             | [🔗](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="" width="50" /> | Tapestry                                                | [🔗](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="" width="50" /> | Storm Front                                             | [🔗](https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="" width="50" /> | River Of Dreams                                         | [🔗](https://open.spotify.com/album/4HPnwQJAEvTY910q4RNeOu) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | Piano Man                                               | [🔗](https://open.spotify.com/album/77ErLrVvYETIlQJHAwhfIH) |
@@ -170,7 +172,7 @@
 
 
 <details>
-<summary>See all 34 labels</summary>
+<summary>See all 35 labels</summary>
 
 |   Number of Tracks | Label                                                                           |
 |-------------------:|:--------------------------------------------------------------------------------|
@@ -180,17 +182,18 @@
 |                 14 | [Hollywood Records](../labels/hollywood_records.md)                             |
 |                 11 | [Rhino](../labels/rhino.md)                                                     |
 |                 10 | [XL Recordings](../labels/xl_recordings.md)                                     |
-|                  8 | [Legacy](../labels/legacy.md)                                                   |
+|                 10 | [Legacy](../labels/legacy.md)                                                   |
+|                  4 | [Epic](../labels/epic.md)                                                       |
 |                  3 | [Geffen](../labels/geffen.md)                                                   |
 |                  3 | [Atlantic Records](../labels/atlantic_records.md)                               |
 |                  2 | [UMC (Universal Music Catalogue)](../labels/umc__universal_music_catalogue_.md) |
 |                  2 | [RCA Victor](../labels/rca_victor.md)                                           |
 |                  2 | [Polydor Records](../labels/polydor_records.md)                                 |
+|                  2 | [Ode](../labels/ode.md)                                                         |
 |                  2 | [Legacy Recordings](../labels/legacy_recordings.md)                             |
 |                  2 | [Kid Ina Korner](../labels/kid_ina_korner.md)                                   |
 |                  2 | [Interscope Records](../labels/interscope_records.md)                           |
 |                  2 | [Fueled By Ramen](../labels/fueled_by_ramen.md)                                 |
-|                  2 | [Epic](../labels/epic.md)                                                       |
 |                  2 | [Elektra](../labels/elektra.md)                                                 |
 |                  2 | [Blackened Recordings](../labels/blackened_recordings.md)                       |
 |                  2 | [ABKCO Music and Records](../labels/abkco_music_and_records.md)                 |
@@ -229,7 +232,7 @@
 
 | 10 most Energetic tracks          | 10 least Energetic tracks         |
 |:----------------------------------|:----------------------------------|
-| The Motherload                    | Yesterday - Remastered 2009       |
+| The Motherload                    | So Far Away                       |
 | We Didn't Start the Fire          | Landslide                         |
 | Knights of Cydonia                | Hurt                              |
 | Sweet Child O' Mine               | Lullabye (Goodnight, My Angel)    |
@@ -262,31 +265,31 @@
 | Eleanor Rigby - Remastered 2009 | Any Way You Want It        |
 | The Boxer                       | Enter Sandman              |
 | And So It Goes                  | Knights of Cydonia         |
-| Landslide                       | Paranoid - 2012 - Remaster |
-| Yesterday - Remastered 2009     | Blood and Thunder          |
-| Crazy Love                      | The Motherload             |
+| So Far Away                     | Paranoid - 2012 - Remaster |
+| Landslide                       | Blood and Thunder          |
+| Yesterday - Remastered 2009     | The Motherload             |
 
-| 10 most Instrumental tracks                   | 10 least Instrumental tracks            |
-|:----------------------------------------------|:----------------------------------------|
-| Animals                                       | The Sound of Silence - Acoustic Version |
-| Weird Fishes/ Arpeggi                         | Believer                                |
-| Blood and Thunder                             | Only the Good Die Young                 |
-| Street Spirit (Fade Out)                      | Yesterday - Remastered 2009             |
-| 1979 - Remastered 2012                        | A Hard Day's Night - Remastered 2009    |
-| Smoke on the Water                            | All My Loving - Remastered 2009         |
-| Pyramid Song                                  | Yellow Submarine - Remastered 2009      |
-| Come Together - Remastered 2009               | We Will Rock You                        |
-| Won't Get Fooled Again - Remix                | And So It Goes                          |
-| I Want You (She's So Heavy) - Remastered 2009 | Cold as Ice                             |
+| 10 most Instrumental tracks                   | 10 least Instrumental tracks         |
+|:----------------------------------------------|:-------------------------------------|
+| Animals                                       | All My Loving - Remastered 2009      |
+| Weird Fishes/ Arpeggi                         | A Hard Day's Night - Remastered 2009 |
+| Blood and Thunder                             | Save Me                              |
+| Street Spirit (Fade Out)                      | Only the Good Die Young              |
+| 1979 - Remastered 2012                        | And So It Goes                       |
+| Smoke on the Water                            | We Didn't Start the Fire             |
+| Pyramid Song                                  | Pinball Wizard                       |
+| Come Together - Remastered 2009               | Brown Eyed Girl                      |
+| Won't Get Fooled Again - Remix                | Believer                             |
+| I Want You (She's So Heavy) - Remastered 2009 | Cold as Ice                          |
 
 | 10 most Live tracks                | 10 least Live tracks             |
 |:-----------------------------------|:---------------------------------|
-| Animals                            | Won't Get Fooled Again - Remix   |
-| Radioactive                        | Hotel California - 2013 Remaster |
-| Revolution 1 - Remastered 2009     | Blackbird - Remastered 2009      |
-| Get Back - Remastered 2009         | My Life                          |
-| Uptown Girl                        | Paranoid Android                 |
-| I Am The Walrus - Remastered 2009  | Smoke on the Water               |
+| Animals                            | Hotel California - 2013 Remaster |
+| Radioactive                        | Blackbird - Remastered 2009      |
+| Revolution 1 - Remastered 2009     | My Life                          |
+| Get Back - Remastered 2009         | Paranoid Android                 |
+| Uptown Girl                        | Smoke on the Water               |
+| I Am The Walrus - Remastered 2009  | I Feel the Earth Move            |
 | Don't Stop Me Now                  | 1979 - Remastered 2012           |
 | Don't Stop Believin'               | The Chain - 2004 Remaster        |
 | Carry on Wayward Son               | Iron Man                         |

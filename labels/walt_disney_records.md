@@ -36,7 +36,7 @@ Appears as:
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a22b3c7eefefd14e57cc068b" alt="" width="50" /> | Brad Kane                            | [🔗](https://open.spotify.com/artist/3dAzSJ9lQnJSq5Z0OgDBep) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb65c99d6d784dc2cabd2a5492" alt="" width="50" /> | Mandy Moore                          | [🔗](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2732b51c93627409f4bca132d96" alt="" width="50" /> | Phil Harris                          | [🔗](https://open.spotify.com/artist/2ISMfPtVzHc9jDDVPUEHDa) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273e877bfdf40423678eda4be4a" alt="" width="50" /> | Richard White                        | [🔗](https://open.spotify.com/artist/0jWqALm6pl5CHj5N0eO68G) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273d0c7dc63c51d6b24862592e9" alt="" width="50" /> | Richard White                        | [🔗](https://open.spotify.com/artist/0jWqALm6pl5CHj5N0eO68G) |
 |                  2 | <img src="nan" alt="" width="50" />                                                              | Ernie Sabella                        | [🔗](https://open.spotify.com/artist/0RH6EMxqfzCEB7QCSKQ4xr) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27327028def34ab4b09f54f76d4" alt="" width="50" /> | Nathan Lane                          | [🔗](https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2737e167cbf34879564304ed076" alt="" width="50" /> | David Ogden Stiers                   | [🔗](https://open.spotify.com/artist/0N0dbr5s2y20PAo2cDAeVP) |
@@ -128,17 +128,16 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 28 genres](../images/labels/walt_disney_records/genres.png)
+![Bar chart of top 27 genres](../images/labels/walt_disney_records/genres.png)
 
 
 <details>
-<summary>See all 28 genres</summary>
+<summary>See all 27 genres</summary>
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
-|                 33 | movie tunes                                         |
+|                 37 | [movie tunes](../genres/movie_tunes.md)             |
 |                 21 | [hollywood](../genres/hollywood.md)                 |
-|                 21 | disney                                              |
 |                 15 | [show tunes](../genres/show_tunes.md)               |
 |                  4 | tagalog worship                                     |
 |                  2 | [post-teen pop](../genres/post_teen_pop.md)         |

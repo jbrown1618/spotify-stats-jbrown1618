@@ -373,7 +373,7 @@
 |                  6 | korean old school hip hop                         |
 |                  6 | classic k-pop                                     |
 |                  5 | k-indie                                           |
-|                  4 | korean mask singer                                |
+|                  4 | korean talent show                                |
 |                  2 | uk pop                                            |
 |                  2 | [post-teen pop](../genres/post_teen_pop.md)       |
 |                  2 | korean indie rock                                 |

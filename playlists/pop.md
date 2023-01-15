@@ -43,7 +43,7 @@
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c" alt="" width="50" /> | Amy Winehouse                                  | [🔗](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebf7db7c8ede90a019c54590bb" alt="" width="50" /> | Harry Styles                                   | [🔗](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb20f403024d10bdf47bc00194" alt="" width="50" /> | Backstreet Boys                                | [🔗](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) |
-|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb5079bcf778c2d286de10e676" alt="" width="50" /> | Miley Cyrus                                    | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
+|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb7e8110a92ec2252f0821f8b8" alt="" width="50" /> | Miley Cyrus                                    | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../artists/sara_bareilles.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb2e42d906f4f9f672359e7379" alt="" width="50" /> | Usher                                          | [🔗](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb578905d5539cff25568dc097" alt="" width="50" /> | Calvin Harris                                  | [🔗](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) |
@@ -359,19 +359,19 @@
 
 |   Number of Tracks | Genre                                           |
 |-------------------:|:------------------------------------------------|
-|                297 | [pop](../genres/pop.md)                         |
-|                192 | [dance pop](../genres/dance_pop.md)             |
+|                300 | [pop](../genres/pop.md)                         |
+|                185 | [dance pop](../genres/dance_pop.md)             |
 |                 45 | [post-teen pop](../genres/post_teen_pop.md)     |
-|                 29 | [electropop](../genres/electropop.md)           |
+|                 28 | [electropop](../genres/electropop.md)           |
 |                 27 | [art pop](../genres/art_pop.md)                 |
 |                 26 | uk pop                                          |
 |                 26 | edm                                             |
 |                 20 | urban contemporary                              |
-|                 15 | pop rap                                         |
-|                 15 | neo soul                                        |
+|                 20 | pop rap                                         |
+|                 14 | neo soul                                        |
+|                 12 | [neo mellow](../genres/neo_mellow.md)           |
 |                 12 | atl hip hop                                     |
 |                 11 | [r&b](../genres/r_b.md)                         |
-|                 11 | [neo mellow](../genres/neo_mellow.md)           |
 |                 11 | british soul                                    |
 |                 11 | australian pop                                  |
 |                 10 | pop soul                                        |
@@ -426,6 +426,7 @@
 |                  2 | irish singer-songwriter                         |
 |                  2 | indy indie                                      |
 |                  2 | indiecoustica                                   |
+|                  2 | indie pop                                       |
 |                  2 | gauze pop                                       |
 |                  2 | filter house                                    |
 |                  2 | electro                                         |
@@ -458,7 +459,6 @@
 |                  1 | neon pop punk                                   |
 |                  1 | modern indie pop                                |
 |                  1 | lafayette indie                                 |
-|                  1 | la indie                                        |
 
 </details>
 

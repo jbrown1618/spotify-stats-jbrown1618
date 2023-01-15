@@ -111,7 +111,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9b2f6666f0dbb3234080ce43" alt="" width="50" /> | Static & Ben El                    | [🔗](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb51feeef21e4e7bc941bc66bc" alt="" width="50" /> | Penny Tai                          | [🔗](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd30f119ef77a0252e17207cf" alt="" width="50" /> | LiSA                               | [🔗](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb310871deb44f9b6cac93d867" alt="" width="50" /> | XG                                 | [🔗](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5c60f36c3be72e2745911ff9" alt="" width="50" /> | XG                                 | [🔗](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba0be3f7b3047d01434e03dae" alt="" width="50" /> | Soolking                           | [🔗](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb72453ad016b059b06fd52569" alt="" width="50" /> | Tainy                              | [🔗](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc26980c202f33cba1a327306" alt="" width="50" /> | Tani Yuuki                         | [🔗](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) |
@@ -305,7 +305,7 @@
 
 
 <details>
-<summary>See all 97 genres</summary>
+<summary>See all 95 genres</summary>
 
 |   Number of Tracks | Genre                                 |
 |-------------------:|:--------------------------------------|
@@ -329,7 +329,6 @@
 |                  4 | indonesian r&b                        |
 |                  4 | indonesian pop                        |
 |                  4 | indonesian indie                      |
-|                  4 | c-pop                                 |
 |                  3 | urbano latino                         |
 |                  3 | taiwan singer-songwriter              |
 |                  3 | sunnlensk tonlist                     |
@@ -338,6 +337,7 @@
 |                  3 | j-poprock                             |
 |                  3 | icelandic pop                         |
 |                  3 | francoton                             |
+|                  3 | c-pop                                 |
 |                  3 | bitpop                                |
 |                  2 | shibuya-kei                           |
 |                  2 | reggaeton colombiano                  |
@@ -351,7 +351,6 @@
 |                  2 | italian hip hop                       |
 |                  2 | israeli mediterranean                 |
 |                  2 | french hip hop                        |
-|                  2 | eurovision                            |
 |                  2 | desi pop                              |
 |                  2 | danish pop                            |
 |                  2 | classic j-pop                         |
@@ -372,7 +371,6 @@
 |                  1 | r&b en espanol                        |
 |                  1 | nouvelle chanson francaise            |
 |                  1 | norwegian pop                         |
-|                  1 | norwegian indie                       |
 |                  1 | nintendocore                          |
 |                  1 | nigerian pop                          |
 |                  1 | nigerian hip hop                      |

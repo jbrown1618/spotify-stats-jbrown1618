@@ -305,7 +305,7 @@
 |                  9 | anime                                             |
 |                  6 | korean pop                                        |
 |                  5 | korean r&b                                        |
-|                  2 | korean mask singer                                |
+|                  2 | korean talent show                                |
 |                  1 | korean ost                                        |
 |                  1 | korean city pop                                   |
 |                  1 | k-rap                                             |

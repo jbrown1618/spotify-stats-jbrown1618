@@ -86,7 +86,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0f625b6df41bdd56196351bf" alt="" width="50" /> | Anne-Marie                                                     | [🔗](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb65b7b48eeac1b113c75f2295" alt="" width="50" /> | YB                                                             | [🔗](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0812e8d85a4cc98cbc3bf2c" alt="" width="50" /> | Metric                                                         | [🔗](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba63a2b0ceb57eb509d67c90f" alt="" width="50" /> | Zara Larsson                                                   | [🔗](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0f623ae3b66b6a1277c235ae" alt="" width="50" /> | Zara Larsson                                                   | [🔗](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb90b6980f0ddd2a5c3d6a400f" alt="" width="50" /> | Lerin Herzer                                                   | [🔗](https://open.spotify.com/artist/1O3tPNfosJcQQNI6wmR5Xt) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7926088433d79485da5e1734" alt="" width="50" /> | Mabel                                                          | [🔗](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9675860a0330f45981e83436" alt="" width="50" /> | Guy Sigsworth                                                  | [🔗](https://open.spotify.com/artist/0uQWT7X0I9Y7zM7WWexpAj) |
@@ -313,7 +313,6 @@
 |                 25 | indie pop                                           |
 |                 23 | [rock](../genres/rock.md)                           |
 |                 20 | modern rock                                         |
-|                 20 | [dance pop](../genres/dance_pop.md)                 |
 |                 20 | [art pop](../genres/art_pop.md)                     |
 |                 18 | [lilith](../genres/lilith.md)                       |
 |                 18 | [electropop](../genres/electropop.md)               |
@@ -325,6 +324,7 @@
 |                 13 | bergen indie                                        |
 |                 13 | alternative rock                                    |
 |                 12 | metropopolis                                        |
+|                 12 | [dance pop](../genres/dance_pop.md)                 |
 |                 11 | australian pop                                      |
 |                 10 | [pop rock](../genres/pop_rock.md)                   |
 |                 10 | oxford indie                                        |
@@ -340,6 +340,7 @@
 |                  5 | uk funky                                            |
 |                  5 | uk dance                                            |
 |                  5 | tropical house                                      |
+|                  5 | pop rap                                             |
 |                  5 | pop dance                                           |
 |                  5 | edm                                                 |
 |                  5 | deep indie singer-songwriter                        |
@@ -408,7 +409,6 @@
 |                  1 | elephant 6                                          |
 |                  1 | electronic rock                                     |
 |                  1 | dutch pop                                           |
-|                  1 | downtempo                                           |
 
 </details>
 

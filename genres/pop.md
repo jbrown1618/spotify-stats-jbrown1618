@@ -1,6 +1,6 @@
 # pop
 
-[490 songs](pop_tracks.md)
+[493 songs](pop_tracks.md)
 
 ## Top Artists
 
@@ -45,7 +45,7 @@
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb288ac05481cedc5bddb5b11b" alt="" width="50" /> | Maroon 5                                                       | [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb46e7a06fa6dfefaed6a3f0db" alt="" width="50" /> | Shawn Mendes                                                   | [🔗](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebf7db7c8ede90a019c54590bb" alt="" width="50" /> | Harry Styles                                                   | [🔗](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) |
-|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb5079bcf778c2d286de10e676" alt="" width="50" /> | Miley Cyrus                                                    | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
+|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb7e8110a92ec2252f0821f8b8" alt="" width="50" /> | Miley Cyrus                                                    | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | Halsey                                                         | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb2e42d906f4f9f672359e7379" alt="" width="50" /> | Usher                                                          | [🔗](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bbad89a61061304ec842588" alt="" width="50" /> | P!nk                                                           | [🔗](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) |
@@ -53,6 +53,7 @@
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb578905d5539cff25568dc097" alt="" width="50" /> | Calvin Harris                                                  | [🔗](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb6659b1cb61936bd7bcb229a2" alt="" width="50" /> | Demi Lovato                                                    | [🔗](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebaed3c717bf1753ab928ea88d" alt="" width="50" /> | John Legend                                                    | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
+|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebabe53b210d382c4c450d7709" alt="" width="50" /> | MIKA                                                           | [🔗](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebce8d5be6690c6964069ab8e0" alt="" width="50" /> | Jason Mraz                                                     | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8c2332e6c0ed96d144a91b3f" alt="" width="50" /> | Cardi B                                                        | [🔗](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson                                                    | [🔗](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) |
@@ -113,7 +114,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8079989370c50963b60ee7bc" alt="" width="50" /> | CeeLo Green                                                    | [🔗](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9fbf7133dfc04d4cd44ccd36" alt="" width="50" /> | ZAYN                                                           | [🔗](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ec030557b0529c01639529b" alt="" width="50" /> | Timbaland                                                      | [🔗](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb589ffbfcd3d3c9daeaffc36c" alt="" width="50" /> | Social House                                                   | [🔗](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl) |
 
 </details>
 
@@ -165,6 +165,7 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" alt="" width="50" /> | Planet Her                                                     | [🔗](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="" width="50" /> | Norman Fucking Rockwell!                                       | [🔗](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2738c7e7f435fdcc70772c5555e" alt="" width="50" /> | My Voice - The 1st Album                                       | [🔗](https://open.spotify.com/album/6DlCl3hBP1Gwhn0tgitGfN) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9a3105ad4ffb91ad2e2798" alt="" width="50" /> | Life in Cartoon Motion                                         | [🔗](https://open.spotify.com/album/4wKkXYJXQWDa9sndBSx0gI) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | How Big, How Blue, How Beautiful                               | [🔗](https://open.spotify.com/album/2btszoya78vyT8fwelmVnz) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Good Girl Gone Bad: Reloaded                                   | [🔗](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a" alt="" width="50" /> | Fine Line                                                      | [🔗](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) |
@@ -226,7 +227,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651" alt="" width="50" /> | X&Y                                                            | [🔗](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734b378770cd6b77e86f8a6288" alt="" width="50" /> | Worldwide                                                      | [🔗](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c70176fa51326491ecc5f79e" alt="" width="50" /> | Who Hurt You?                                                  | [🔗](https://open.spotify.com/album/15M9pZ8gsdoN67yLjyQ039) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27398acfa8c055deedc25e6081d" alt="" width="50" /> | When It's Dark Out                                             | [🔗](https://open.spotify.com/album/09Q3WwGYsQe5ognkvVkmCu) |
 
 </details>
 
@@ -275,6 +275,8 @@
 |                  3 | [Parlophone UK](../labels/parlophone_uk.md)                                                                         |
 |                  3 | [Parlophone Records Limited](../labels/parlophone_records_limited.md)                                               |
 |                  3 | [Olivia Rodrigo PS](../labels/olivia_rodrigo_ps.md)                                                                 |
+|                  3 | [Island UK](../labels/island_uk.md)                                                                                 |
+|                  3 | [Casablanca Records](../labels/casablanca_records.md)                                                               |
 |                  2 | [Wondaland](../labels/wondaland.md)                                                                                 |
 |                  2 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                                                 |
 |                  2 | [RBMG](../labels/rbmg.md)                                                                                           |
@@ -339,8 +341,6 @@
 |                  1 | [Capitol Records (US1A)](../labels/capitol_records__us1a_.md)                                                       |
 |                  1 | [Capitol Records (CAP)](../labels/capitol_records__cap_.md)                                                         |
 |                  1 | [CJ E&M MUSIC](../labels/cj_e_m_music.md)                                                                           |
-|                  1 | [Big Beat Records](../labels/big_beat_records.md)                                                                   |
-|                  1 | [Bad Dreams Records](../labels/bad_dreams_records.md)                                                               |
 
 </details>
 
@@ -353,10 +353,10 @@
 | Anaconda                        | Once Upon Another Time      |
 | WAP (feat. Megan Thee Stallion) | Gravity                     |
 | Billie Jean                     | That's Where I Am           |
-| Pretty Please                   | Stay                        |
-| bury a friend                   | Shades Of Cool              |
+| Pretty Please                   | Shades Of Cool              |
+| Sally Walker                    | Stay                        |
 | 1, 2, 3, 4                      | Norman fucking Rockwell     |
-| Sally Walker                    | Already Gone                |
+| bury a friend                   | Already Gone                |
 | Coño                            | Fix You                     |
 | I Think He Knows                | Born To Die                 |
 
@@ -381,8 +381,8 @@
 | Vigilante Shit                  | Begin Again                    |
 | Irreplaceable                   | Chasing Pavements              |
 | WAP (feat. Megan Thee Stallion) | Set Fire to the Rain           |
-| bad guy                         | The Scientist                  |
-| Bubblegum (feat. Tyga)          | All Too Well                   |
+| bad guy                         | All Too Well                   |
+| Bubblegum (feat. Tyga)          | The Scientist                  |
 | 7 rings                         | Breakeven                      |
 | bury a friend                   | Satellite Call                 |
 

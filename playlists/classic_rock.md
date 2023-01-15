@@ -41,7 +41,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1202580c944efb0b9c14dfd0" alt="" width="50" /> | The Black Crowes                         | [🔗](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb23a7b4c49d285729a974d6dd" alt="" width="50" /> | Deep Purple                              | [🔗](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb50defaf9fc059a1efc541f4c" alt="" width="50" /> | Guns N' Roses                            | [🔗](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb158e511237e045874689da71" alt="" width="50" /> | Chicago                                  | [🔗](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebbab088e2157b02848dfcbc1e" alt="" width="50" /> | Chicago                                  | [🔗](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) |
 |                  1 | <img src="https://i.scdn.co/image/da30acd2c9d0f32f5f5a2d69f32c2d30335466b5" alt="" width="50" /> | Survivor                                 | [🔗](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9fdb4dab484a9f12e347c216" alt="" width="50" /> | Sting                                    | [🔗](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) |
 
@@ -192,11 +192,11 @@
 |                  9 | blues rock                                          |
 |                  8 | metal                                               |
 |                  5 | heartland rock                                      |
+|                  5 | country rock                                        |
 |                  4 | symphonic rock                                      |
 |                  4 | progressive rock                                    |
 |                  3 | roots rock                                          |
 |                  3 | folk                                                |
-|                  3 | country rock                                        |
 |                  2 | uk doom metal                                       |
 |                  2 | thrash metal                                        |
 |                  2 | synth funk                                          |

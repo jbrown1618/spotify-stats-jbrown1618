@@ -1,20 +1,21 @@
 # neo mellow
 
-[86 songs](neo_mellow_tracks.md)
+[95 songs](neo_mellow_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 19 artists](../images/genres/neo_mellow/artists.png)
+![Bar chart of top 22 artists](../images/genres/neo_mellow/artists.png)
 
 ![Comparison of Artist](../images/genres/neo_mellow/artists_comparison.png)
 
 
 <details>
-<summary>See all 19 artists</summary>
+<summary>See all 22 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                         | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------|:------------------------------------------------------------|
 |                 59 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../artists/sara_bareilles.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
+|                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb271320bcc15789b23aa83a44" alt="" width="50" /> | Erin McCarley                                  | [🔗](https://open.spotify.com/artist/6Y4bCmUNPDKqc7dHkVvgim) |
 |                  7 | <img src="https://i.scdn.co/image/15b7ee7550ed4472700d573803ff90f2967f84d1" alt="" width="50" /> | A Fine Frenzy                                  | [🔗](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8457f57bc526c37bd804b924" alt="" width="50" /> | KT Tunstall                                    | [🔗](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebce8d5be6690c6964069ab8e0" alt="" width="50" /> | Jason Mraz                                     | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
@@ -30,19 +31,21 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc78a80d480018ec030aade25" alt="" width="50" /> | Marc Broussard                                 | [🔗](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb02dd5c821135e146eb2bfc85" alt="" width="50" /> | Snow Patrol                                    | [🔗](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ec0ed4b4cd16649c0ded8a7" alt="" width="50" /> | Brandi Carlile                                 | [🔗](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb009ef60c0a99410630cc40c7" alt="" width="50" /> | Jordin Sparks                                  | [🔗](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) |
 |                  1 | <img src="https://i.scdn.co/image/914ae1ce7fb065cfb0c89794e5e41c6eca758df3" alt="" width="50" /> | Corinne Bailey Rae                             | [🔗](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | Christina Aguilera                             | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb80c7323d8b64397c278f86df" alt="" width="50" /> | Niall Horan                                    | [🔗](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8f9c3f0a123aecf196868c9c" alt="" width="50" /> | Michael Andrews                                | [🔗](https://open.spotify.com/artist/0RkqytrwoGyXGvDiZwT6i2) |
 
 </details>
 
 ## Top Albums
 
-![Bar chart of top 25 albums](../images/genres/neo_mellow/albums.png)
+![Bar chart of top 28 albums](../images/genres/neo_mellow/albums.png)
 
 
 <details>
-<summary>See all 25 albums</summary>
+<summary>See all 28 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                       | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------|:-----------------------------------------------------------|
@@ -50,6 +53,7 @@
 |                 12 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | The Blessed Unrest                          | [🔗](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) |
 |                 12 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Little Voice                                | [🔗](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) |
 |                 10 | <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | Amidst the Chaos (Bonus Version)            | [🔗](https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm) |
+|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b2734280a158a96c9b0274eb7e99" alt="" width="50" /> | Love, Save The Empty                        | [🔗](https://open.spotify.com/album/1tF7625TFqvfzMbappj1pQ) |
 |                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="" width="50" /> | What's Inside: Songs from Waitress          | [🔗](https://open.spotify.com/album/1s6codM2ZAB008t9GTyaEk) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | Once Upon Another Time                      | [🔗](https://open.spotify.com/album/1PrqYZJRzGNf8AsSOraxnZ) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273119ad2ebc0d33edf847ed8c6" alt="" width="50" /> | One Cell In The Sea                         | [🔗](https://open.spotify.com/album/0Ot7MEgreG2R93aN42M9iK) |
@@ -63,8 +67,10 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732cf1dcc65396176307f23524" alt="" width="50" /> | PINES                                       | [🔗](https://open.spotify.com/album/1876e9QcHkJ3Hgo4NqKXBN) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735da1093d047cc15eb66d27cf" alt="" width="50" /> | OK Now                                      | [🔗](https://open.spotify.com/album/3fKJJQFV6a61fnKYDDj2LU) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739f48d446654c7b8b9b7bc58b" alt="" width="50" /> | Little Love - EP                            | [🔗](https://open.spotify.com/album/2PLM1yTphJeFZg01Xiaumc) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273260e2444b3431b3b8b559bc3" alt="" width="50" /> | Jordin Sparks                               | [🔗](https://open.spotify.com/album/6JCNOvp9UeMrFuXwNW0JW6) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273554488d0c51967b1654d8ce5" alt="" width="50" /> | Is There Anybody Out There?                 | [🔗](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27327c371084dee1b83e614798d" alt="" width="50" /> | Indiana                                     | [🔗](https://open.spotify.com/album/2UpO4j1Zpptiwk3wbUIWmU) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735bac234d5511248b248caf36" alt="" width="50" /> | Flicker (Deluxe)                            | [🔗](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f" alt="" width="50" /> | Eyes Open                                   | [🔗](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731ec9b096319afbcc2dca6879" alt="" width="50" /> | Corinne Bailey Rae                          | [🔗](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27309ec47c2a2173e984d8461e9" alt="" width="50" /> | Chariot - Stripped                          | [🔗](https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI) |
@@ -77,16 +83,17 @@
 
 ## Top Record Labels
 
-![Bar chart of top 14 record labels](../images/genres/neo_mellow/labels.png)
+![Bar chart of top 17 record labels](../images/genres/neo_mellow/labels.png)
 
 
 <details>
-<summary>See all 14 labels</summary>
+<summary>See all 17 labels</summary>
 
 |   Number of Tracks | Label                                                         |
 |-------------------:|:--------------------------------------------------------------|
 |                 62 | [Epic](../labels/epic.md)                                     |
 |                 10 | [Virgin Records](../labels/virgin_records.md)                 |
+|                  7 | [Universal (MT)](../labels/universal__mt_.md)                 |
 |                  3 | [Relentless](../labels/relentless.md)                         |
 |                  3 | [Atlantic Records](../labels/atlantic_records.md)             |
 |                  2 | [sensibility recordings](../labels/sensibility_recordings.md) |
@@ -99,6 +106,8 @@
 |                  1 | [Island Records](../labels/island_records.md)                 |
 |                  1 | [Down Up Down Music](../labels/down_up_down_music.md)         |
 |                  1 | [Columbia](../labels/columbia.md)                             |
+|                  1 | [Capitol Records (US1A)](../labels/capitol_records__us1a_.md) |
+|                  1 | [19 Recordings Limited](../labels/19_recordings_limited.md)   |
 
 </details>
 
@@ -110,48 +119,48 @@
 | Little Black Dress              | Mad World                    |
 | Eden                            | Bright Lights and Cityscapes |
 | Electric Twist                  | Bluebird                     |
-| Black Horse And The Cherry Tree | Come Round Soon              |
-| Blow Away                       | City                         |
-| Put Your Records On             | Poison & Wine                |
-| I Choose You                    | Chariot                      |
-| I'm Yours                       | Once Upon Another Time       |
-| I Didn't Plan It                | Gravity                      |
-| Let The Rain                    | Stay                         |
+| One Step At a Time              | Come Round Soon              |
+| Black Horse And The Cherry Tree | City                         |
+| Blow Away                       | Poison & Wine                |
+| Put Your Records On             | Chariot                      |
+| Slow Hands                      | Once Upon Another Time       |
+| I Choose You                    | Gravity                      |
+| I'm Yours                       | Stay                         |
 
 | 10 most Energetic tracks    | 10 least Energetic tracks                                                         |
 |:----------------------------|:----------------------------------------------------------------------------------|
-| Bad Idea (feat. Jason Mraz) | Just The Way You Are                                                              |
-| Morningside                 | Once Upon Another Time                                                            |
-| Let The Rain                | Bluebird                                                                          |
-| Fairytale                   | Poison & Wine                                                                     |
-| Brave                       | Bright Lights and Cityscapes                                                      |
-| Industry                    | Manhattan                                                                         |
-| Love On the Rocks           | Say Something                                                                     |
-| Come Round Soon             | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 |
-| One Sweet Love              | Mad World                                                                         |
-| Home                        | Kaleidoscope Heart                                                                |
+| Hello/Goodbye               | Just The Way You Are                                                              |
+| Bad Idea (feat. Jason Mraz) | Once Upon Another Time                                                            |
+| Morningside                 | Bluebird                                                                          |
+| SleepWalking                | Poison & Wine                                                                     |
+| Let The Rain                | Bright Lights and Cityscapes                                                      |
+| Love, Save The Empty        | Manhattan                                                                         |
+| Bobble Head                 | Say Something                                                                     |
+| Fairytale                   | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 |
+| Brave                       | Mad World                                                                         |
+| Industry                    | Kaleidoscope Heart                                                                |
 
 | 10 most Speechy tracks          | 10 least Speechy tracks    |
 |:--------------------------------|:---------------------------|
-| Home                            | Islands                    |
-| Electric Twist                  | The Man Who Can't Be Moved |
-| Opening Up                      | Breathe Again              |
-| Kaleidoscope Heart              | Sweet As Whole             |
-| Come Round Soon                 | Chasing Cars               |
-| Bad Idea (feat. Jason Mraz)     | Orpheus                    |
-| Black Horse And The Cherry Tree | Machine Gun                |
+| Home                            | The Man Who Can't Be Moved |
+| Electric Twist                  | Breathe Again              |
+| Opening Up                      | Sweet As Whole             |
+| Kaleidoscope Heart              | Chasing Cars               |
+| Come Round Soon                 | Orpheus                    |
+| Bad Idea (feat. Jason Mraz)     | Machine Gun                |
+| Black Horse And The Cherry Tree | Pitter-Pat                 |
 | Fire                            | Whisper                    |
 | Eden                            | Breakeven                  |
 | Little Black Dress              | Satellite Call             |
 
 | 10 most Acoustic tracks                                                           | 10 least Acoustic tracks    |
 |:----------------------------------------------------------------------------------|:----------------------------|
-| Bright Lights and Cityscapes                                                      | Say You're Sorry            |
-| Mad World                                                                         | Let The Rain                |
-| Manhattan                                                                         | Love Song                   |
-| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Gonna Get Over You          |
-| Almost Lover                                                                      | Wicked Love                 |
-| Bluebird                                                                          | Bad Idea (feat. Jason Mraz) |
+| Bright Lights and Cityscapes                                                      | It's Not That Easy          |
+| Mad World                                                                         | Love Song                   |
+| Manhattan                                                                         | Gonna Get Over You          |
+| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Wicked Love                 |
+| Almost Lover                                                                      | Bad Idea (feat. Jason Mraz) |
+| Bluebird                                                                          | Slow Hands                  |
 | What's Inside                                                                     | Vegas                       |
 | Just The Way You Are                                                              | Many the Miles              |
 | Once Upon Another Time                                                            | Brave                       |
@@ -159,29 +168,29 @@
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| Now Is The Start              | Jar of Hearts                  |
-| Satellite Call                | Chariot                        |
-| Islands                       | She Used To Be Mine            |
-| Armor                         | Opening Up                     |
-| Breathe Again                 | Bad Idea (feat. Jason Mraz)    |
-| Miss Simone                   | Everything Changes             |
-| The Light                     | If I Can't Have You            |
-| No Such Thing                 | Little Black Dress             |
-| Whisper                       | Hercules                       |
+| Now Is The Start              | Lucky                          |
+| Satellite Call                | Jar of Hearts                  |
+| Islands                       | Chariot                        |
+| Armor                         | She Used To Be Mine            |
+| Breathe Again                 | Opening Up                     |
+| Miss Simone                   | Bad Idea (feat. Jason Mraz)    |
+| The Light                     | Everything Changes             |
+| No Such Thing                 | If I Can't Have You            |
+| Whisper                       | Little Black Dress             |
 | Fire                          | Say You're Sorry               |
 
 | 10 most Live tracks                                                               | 10 least Live tracks   |
 |:----------------------------------------------------------------------------------|:-----------------------|
-| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Little Black Dress     |
-| Home                                                                              | Whisper                |
-| Ashes And Wine                                                                    | Blow Away              |
-| Chariot                                                                           | Islands                |
-| Fire                                                                              | The Light              |
-| Black Horse And The Cherry Tree                                                   | King of Anything       |
-| Let The Rain                                                                      | Chasing The Sun        |
-| Not Alone                                                                         | Eden                   |
-| If I Can't Have You                                                               | Brave                  |
-| Once Upon Another Time                                                            | Uncharted              |
+| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Blow Away              |
+| Home                                                                              | Islands                |
+| Ashes And Wine                                                                    | The Light              |
+| Chariot                                                                           | King of Anything       |
+| Fire                                                                              | Slow Hands             |
+| Black Horse And The Cherry Tree                                                   | Chasing The Sun        |
+| Let The Rain                                                                      | Eden                   |
+| It's Not That Easy                                                                | Brave                  |
+| Pitter-Pat                                                                        | One Step At a Time     |
+| SleepWalking                                                                      | Uncharted              |
 
 | 10 most Happy tracks            | 10 least Happy tracks   |
 |:--------------------------------|:------------------------|
@@ -189,9 +198,9 @@
 | Black Horse And The Cherry Tree | What's Inside           |
 | Blow Away                       | Bluebird                |
 | Electric Twist                  | Chasing Cars            |
-| Say You're Sorry                | We All Need Saving      |
-| King of Anything                | Everything Changes      |
-| Home                            | Jar of Hearts           |
+| Slow Hands                      | We All Need Saving      |
+| Say You're Sorry                | Everything Changes      |
+| King of Anything                | Jar of Hearts           |
 | Lie To Me                       | Islands                 |
-| Bad Idea (feat. Jason Mraz)     | Say Something           |
+| Home                            | Say Something           |
 | I Didn't Plan It                | Once Upon Another Time  |

@@ -25,7 +25,7 @@ Appears as:
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb0767e116a2307495e37cd7fb" alt="" width="50" /> | Eagles        | [🔗](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb23a7b4c49d285729a974d6dd" alt="" width="50" /> | Deep Purple   | [🔗](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273743ebb11200358b5c050f542" alt="" width="50" /> | Harry Chapin  | [🔗](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb158e511237e045874689da71" alt="" width="50" /> | Chicago       | [🔗](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebbab088e2157b02848dfcbc1e" alt="" width="50" /> | Chicago       | [🔗](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) |
 |                  1 | <img src="https://i.scdn.co/image/ab6772690000c46cb8af37ba12c1ad7ebcc63c25" alt="" width="50" /> | Frankie Valli | [🔗](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0168ba8148c07c2cdeb7d067" alt="" width="50" /> | a-ha          | [🔗](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) |
 
@@ -70,7 +70,7 @@ Appears as:
 
 
 <details>
-<summary>See all 33 genres</summary>
+<summary>See all 34 genres</summary>
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
@@ -81,13 +81,14 @@ Appears as:
 |                 11 | [rock](../genres/rock.md)                           |
 |                 10 | album rock                                          |
 |                  9 | folk                                                |
+|                  8 | indie r&b                                           |
 |                  8 | canadian singer-songwriter                          |
 |                  7 | yacht rock                                          |
 |                  7 | [mellow gold](../genres/mellow_gold.md)             |
+|                  5 | country rock                                        |
 |                  3 | [psychedelic rock](../genres/psychedelic_rock.md)   |
 |                  3 | metal                                               |
 |                  3 | hard rock                                           |
-|                  3 | country rock                                        |
 |                  3 | bubblegum pop                                       |
 |                  2 | uk doom metal                                       |
 |                  2 | synth funk                                          |

@@ -203,14 +203,14 @@
 
 
 <details>
-<summary>See all 51 genres</summary>
+<summary>See all 52 genres</summary>
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
 |                139 | [pop](../genres/pop.md)                             |
 |                 82 | [acoustic pop](../genres/acoustic_pop.md)           |
+|                 79 | [neo mellow](../genres/neo_mellow.md)               |
 |                 79 | [lilith](../genres/lilith.md)                       |
-|                 72 | [neo mellow](../genres/neo_mellow.md)               |
 |                 61 | [pop rock](../genres/pop_rock.md)                   |
 |                 59 | [hollywood](../genres/hollywood.md)                 |
 |                 36 | [singer-songwriter](../genres/singer_songwriter.md) |
@@ -218,9 +218,9 @@
 |                 31 | [mellow gold](../genres/mellow_gold.md)             |
 |                 25 | [soft rock](../genres/soft_rock.md)                 |
 |                 25 | [classic rock](../genres/classic_rock.md)           |
-|                 22 | [rock](../genres/rock.md)                           |
+|                 24 | [rock](../genres/rock.md)                           |
 |                 18 | [art pop](../genres/art_pop.md)                     |
-|                 14 | indie pop                                           |
+|                 15 | indie pop                                           |
 |                 12 | folk                                                |
 |                 11 | folk rock                                           |
 |                  9 | nz pop                                              |
@@ -228,12 +228,12 @@
 |                  9 | bergen indie                                        |
 |                  8 | nyc pop                                             |
 |                  8 | metropopolis                                        |
+|                  8 | indie r&b                                           |
 |                  8 | etherpop                                            |
 |                  8 | canadian singer-songwriter                          |
 |                  6 | glam rock                                           |
 |                  5 | deep indie singer-songwriter                        |
 |                  3 | viral pop                                           |
-|                  2 | neo soul                                            |
 |                  2 | indy indie                                          |
 |                  2 | indiecoustica                                       |
 |                  2 | chamber pop                                         |
@@ -245,6 +245,7 @@
 |                  1 | pop soul                                            |
 |                  1 | permanent wave                                      |
 |                  1 | new americana                                       |
+|                  1 | neo soul                                            |
 |                  1 | modern folk rock                                    |
 |                  1 | irish pop                                           |
 |                  1 | indie soul                                          |

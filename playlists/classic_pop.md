@@ -153,7 +153,7 @@
 
 
 <details>
-<summary>See all 38 genres</summary>
+<summary>See all 39 genres</summary>
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
@@ -166,9 +166,9 @@
 |                  8 | [pop](../genres/pop.md)                             |
 |                  8 | folk                                                |
 |                  8 | [classic rock](../genres/classic_rock.md)           |
+|                  7 | [rock](../genres/rock.md)                           |
 |                  7 | [dance pop](../genres/dance_pop.md)                 |
 |                  6 | [soft rock](../genres/soft_rock.md)                 |
-|                  6 | [rock](../genres/rock.md)                           |
 |                  6 | piano rock                                          |
 |                  6 | glam rock                                           |
 |                  6 | classic soul                                        |
@@ -186,6 +186,7 @@
 |                  1 | southern soul                                       |
 |                  1 | smooth jazz                                         |
 |                  1 | roots rock                                          |
+|                  1 | rock-and-roll                                       |
 |                  1 | permanent wave                                      |
 |                  1 | latin pop                                           |
 |                  1 | jazz trumpet                                        |

@@ -33,7 +33,7 @@
 |                  1 | <img src="https://i.scdn.co/image/c56cf0cc89c8ecfec7145cf065ea2006d0706605" alt="" width="50" /> | *NSYNC                                                         | [🔗](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebaed3c717bf1753ab928ea88d" alt="" width="50" /> | John Legend                                                    | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8079989370c50963b60ee7bc" alt="" width="50" /> | CeeLo Green                                                    | [🔗](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5079bcf778c2d286de10e676" alt="" width="50" /> | Miley Cyrus                                                    | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7e8110a92ec2252f0821f8b8" alt="" width="50" /> | Miley Cyrus                                                    | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebec40474426f4401a4203dc9f" alt="" width="50" /> | Sia                                                            | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
 |                  1 | <img src="https://i.scdn.co/image/03e8855382d21e1cbf8172c03001ab8847889f38" alt="" width="50" /> | Gnarls Barkley                                                 | [🔗](https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1687995a9c0172c195049cb1" alt="" width="50" /> | Gavin DeGraw                                                   | [🔗](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) |
@@ -211,13 +211,13 @@
 
 
 <details>
-<summary>See all 88 genres</summary>
+<summary>See all 89 genres</summary>
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
 |                 21 | [pop](../genres/pop.md)                             |
-|                 12 | [dance pop](../genres/dance_pop.md)                 |
-|                  8 | [neo mellow](../genres/neo_mellow.md)               |
+|                 11 | [dance pop](../genres/dance_pop.md)                 |
+|                  9 | [neo mellow](../genres/neo_mellow.md)               |
 |                  7 | [rock](../genres/rock.md)                           |
 |                  7 | [classic rock](../genres/classic_rock.md)           |
 |                  6 | urban contemporary                                  |
@@ -289,6 +289,7 @@
 |                  1 | easy listening                                      |
 |                  1 | doo-wop                                             |
 |                  1 | deep indie singer-songwriter                        |
+|                  1 | country rock                                        |
 |                  1 | country road                                        |
 |                  1 | contemporary r&b                                    |
 |                  1 | comic                                               |

@@ -203,7 +203,7 @@
 
 
 <details>
-<summary>See all 82 genres</summary>
+<summary>See all 83 genres</summary>
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
@@ -213,8 +213,8 @@
 |                 13 | [neo mellow](../genres/neo_mellow.md)               |
 |                 10 | [pop rock](../genres/pop_rock.md)                   |
 |                 10 | [mellow gold](../genres/mellow_gold.md)             |
-|                 10 | [dance pop](../genres/dance_pop.md)                 |
 |                 10 | [acoustic pop](../genres/acoustic_pop.md)           |
+|                  9 | [dance pop](../genres/dance_pop.md)                 |
 |                  8 | piano rock                                          |
 |                  7 | [soft rock](../genres/soft_rock.md)                 |
 |                  7 | [lilith](../genres/lilith.md)                       |
@@ -276,6 +276,7 @@
 |                  1 | escape room                                         |
 |                  1 | [electropop](../genres/electropop.md)               |
 |                  1 | disco                                               |
+|                  1 | country rock                                        |
 |                  1 | comic                                               |
 |                  1 | classic soul                                        |
 |                  1 | boy band                                            |

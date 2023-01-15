@@ -221,12 +221,12 @@
 
 
 <details>
-<summary>See all 49 genres</summary>
+<summary>See all 50 genres</summary>
 
 |   Number of Tracks | Genre                                           |
 |-------------------:|:------------------------------------------------|
 |                 63 | [pop](../genres/pop.md)                         |
-|                 52 | [dance pop](../genres/dance_pop.md)             |
+|                 53 | [dance pop](../genres/dance_pop.md)             |
 |                 29 | [r&b](../genres/r_b.md)                         |
 |                 24 | urban contemporary                              |
 |                 12 | soul                                            |
@@ -251,6 +251,7 @@
 |                  4 | hip pop                                         |
 |                  4 | classic soul                                    |
 |                  3 | canadian contemporary r&b                       |
+|                  2 | [neo mellow](../genres/neo_mellow.md)           |
 |                  2 | lgbtq+ hip hop                                  |
 |                  2 | indie r&b                                       |
 |                  2 | hip hop                                         |
@@ -264,7 +265,7 @@
 |                  1 | thai indie pop                                  |
 |                  1 | soul blues                                      |
 |                  1 | [soft rock](../genres/soft_rock.md)             |
-|                  1 | [neo mellow](../genres/neo_mellow.md)           |
+|                  1 | rock-and-roll                                   |
 |                  1 | minnesota hip hop                               |
 |                  1 | [mellow gold](../genres/mellow_gold.md)         |
 |                  1 | jazz blues                                      |

@@ -139,7 +139,7 @@
 |                  6 | [neo mellow](../genres/neo_mellow.md)     |
 |                  6 | [lilith](../genres/lilith.md)             |
 |                  6 | [acoustic pop](../genres/acoustic_pop.md) |
-|                  2 | movie tunes                               |
+|                  2 | [movie tunes](../genres/movie_tunes.md)   |
 |                  2 | alternative hip hop                       |
 
 </details>

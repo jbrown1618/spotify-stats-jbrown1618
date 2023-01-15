@@ -1,50 +1,48 @@
 # russian romanticism
 
-[118 songs](russian_romanticism_tracks.md)
+[117 songs](russian_romanticism_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 21 artists](../images/genres/russian_romanticism/artists.png)
+![Bar chart of top 19 artists](../images/genres/russian_romanticism/artists.png)
 
 ![Comparison of Artist](../images/genres/russian_romanticism/artists_comparison.png)
 
 
 <details>
-<summary>See all 21 artists</summary>
+<summary>See all 19 artists</summary>
 
-|   Number of Tracks | Art                                                                                              | Artist                                                                                   | 🔗                                                           |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|:------------------------------------------------------------|
-|                 60 | <img src="https://i.scdn.co/image/9a7c31f43e22a95f6d3c57baf4f87a3a9d2b93e0" alt="" width="50" /> | [Pyotr Ilyich Tchaikovsky](../artists/pyotr_ilyich_tchaikovsky.md)                       | [🔗](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA) |
-|                 42 | <img src="https://i.scdn.co/image/463e3c5c3e814761532f554913cf2af456bcba59" alt="" width="50" /> | [Sergei Rachmaninoff](../artists/sergei_rachmaninoff.md)                                 | [🔗](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51) |
-|                 34 | <img src="https://i.scdn.co/image/ab6761610000e5ebf113c063e071771545263b9a" alt="" width="50" /> | [London Symphony Orchestra](../artists/london_symphony_orchestra.md)                     | [🔗](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) |
-|                 31 | <img src="https://i.scdn.co/image/8680bc690ee5747b08f6a9a7566f000cce6e220b" alt="" width="50" /> | [André Previn](../artists/andr__previn.md)                                               | [🔗](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) |
-|                 24 | <img src="https://i.scdn.co/image/ab6761610000e5eb92e0a1e423bd8590dcd43bda" alt="" width="50" /> | [Berliner Philharmoniker](../artists/berliner_philharmoniker.md)                         | [🔗](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z) |
-|                 24 | <img src="https://i.scdn.co/image/3460fd826c1cc058c4c4134e6c695e00dcf89fa6" alt="" width="50" /> | [Sir Simon Rattle](../artists/sir_simon_rattle.md)                                       | [🔗](https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp) |
-|                 24 | <img src="https://i.scdn.co/image/1b640748181bdba8cc37a0a6ee5148c27b374d4e" alt="" width="50" /> | [Eldar Nebolsin](../artists/eldar_nebolsin.md)                                           | [🔗](https://open.spotify.com/artist/45ts2AJTWlzJ9JrQlCGxpX) |
-|                 17 | <img src="https://i.scdn.co/image/1442f5564217baa0dfa8480928596416885f1c4d" alt="" width="50" /> | [Gustavo Dudamel](../artists/gustavo_dudamel.md)                                         | [🔗](https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY) |
-|                 17 | <img src="https://i.scdn.co/image/ab6761610000e5eb4bb5eb0860d831455fab32b6" alt="" width="50" /> | [Wiener Philharmoniker](../artists/wiener_philharmoniker.md)                             | [🔗](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ) |
-|                 16 | <img src="https://i.scdn.co/image/20b923e03dd0fb8cd20fb93559b9ed9a0e7aefbc" alt="" width="50" /> | [Modest Mussorgsky](../artists/modest_mussorgsky.md)                                     | [🔗](https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl) |
-|                 15 | <img src="https://i.scdn.co/image/ab67616d0000b273a62efdba9c8e430d12e3d0fe" alt="" width="50" /> | [Nikolai Korniev](../artists/nikolai_korniev.md)                                         | [🔗](https://open.spotify.com/artist/70hS9SnJefkZo2QJwS2VXi) |
-|                 15 | <img src="https://i.scdn.co/image/f946eebb053703449d3e862c18ae531ad0bee47d" alt="" width="50" /> | [St.Petersburg Chamber Choir](../artists/st_petersburg_chamber_choir.md)                 | [🔗](https://open.spotify.com/artist/46WjEugfIF0rKOewvFiby2) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2734edf9a255990288ccb93490f" alt="" width="50" /> | NDR Chor                                                                                 | [🔗](https://open.spotify.com/artist/7hMAA1N5j1Ynb49NIWO7HV) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2738e6adfe4421d106633abde7b" alt="" width="50" /> | Michael Francis                                                                          | [🔗](https://open.spotify.com/artist/4znpeZQkiPbcXtHlRbfTqF) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273b89db7f8cbf0611c23dc9ce4" alt="" width="50" /> | Philipp Ahmann                                                                           | [🔗](https://open.spotify.com/artist/309coOGhdzqXdIRwJH1xUo) |
-|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fcfc4662d94dad49e635eaf" alt="" width="50" /> | Valentina Lisitsa                                                                        | [🔗](https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8b13e554131116bf311f242" alt="" width="50" /> | [Academy of St. Martin in the Fields](../artists/academy_of_st__martin_in_the_fields.md) | [🔗](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF) |
-|                  1 | <img src="https://i.scdn.co/image/addf4464734979a85ef71a61c421f23a6bc143ae" alt="" width="50" /> | [Sir Neville Marriner](../artists/sir_neville_marriner.md)                               | [🔗](https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d516176f7ccedbc5add27d63" alt="" width="50" /> | Vladimir Mostovoy                                                                        | [🔗](https://open.spotify.com/artist/4BTanscTBWJOSpvceZSVSi) |
-|                  1 | <img src="https://i.scdn.co/image/094b89c0a53eaa52cb0f19d2bcd23a9fc84c1b82" alt="" width="50" /> | Olga Borodina                                                                            | [🔗](https://open.spotify.com/artist/47XbXbNzwqcWStfsjzFlKb) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb68a5073a017fac8434535e8a" alt="" width="50" /> | Libera                                                                                   | [🔗](https://open.spotify.com/artist/235C4ktJ2aGIyqaBlXyg7e) |
+|   Number of Tracks | Art                                                                                              | Artist                                                                   | 🔗                                                           |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------|:------------------------------------------------------------|
+|                 59 | <img src="https://i.scdn.co/image/9a7c31f43e22a95f6d3c57baf4f87a3a9d2b93e0" alt="" width="50" /> | [Pyotr Ilyich Tchaikovsky](../artists/pyotr_ilyich_tchaikovsky.md)       | [🔗](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA) |
+|                 42 | <img src="https://i.scdn.co/image/463e3c5c3e814761532f554913cf2af456bcba59" alt="" width="50" /> | [Sergei Rachmaninoff](../artists/sergei_rachmaninoff.md)                 | [🔗](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51) |
+|                 34 | <img src="https://i.scdn.co/image/ab6761610000e5ebf113c063e071771545263b9a" alt="" width="50" /> | [London Symphony Orchestra](../artists/london_symphony_orchestra.md)     | [🔗](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) |
+|                 31 | <img src="https://i.scdn.co/image/8680bc690ee5747b08f6a9a7566f000cce6e220b" alt="" width="50" /> | [André Previn](../artists/andr__previn.md)                               | [🔗](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) |
+|                 24 | <img src="https://i.scdn.co/image/ab6761610000e5eb92e0a1e423bd8590dcd43bda" alt="" width="50" /> | [Berliner Philharmoniker](../artists/berliner_philharmoniker.md)         | [🔗](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z) |
+|                 24 | <img src="https://i.scdn.co/image/3460fd826c1cc058c4c4134e6c695e00dcf89fa6" alt="" width="50" /> | [Sir Simon Rattle](../artists/sir_simon_rattle.md)                       | [🔗](https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp) |
+|                 24 | <img src="https://i.scdn.co/image/1b640748181bdba8cc37a0a6ee5148c27b374d4e" alt="" width="50" /> | [Eldar Nebolsin](../artists/eldar_nebolsin.md)                           | [🔗](https://open.spotify.com/artist/45ts2AJTWlzJ9JrQlCGxpX) |
+|                 17 | <img src="https://i.scdn.co/image/1442f5564217baa0dfa8480928596416885f1c4d" alt="" width="50" /> | [Gustavo Dudamel](../artists/gustavo_dudamel.md)                         | [🔗](https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY) |
+|                 17 | <img src="https://i.scdn.co/image/ab6761610000e5eb4bb5eb0860d831455fab32b6" alt="" width="50" /> | [Wiener Philharmoniker](../artists/wiener_philharmoniker.md)             | [🔗](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ) |
+|                 16 | <img src="https://i.scdn.co/image/20b923e03dd0fb8cd20fb93559b9ed9a0e7aefbc" alt="" width="50" /> | [Modest Mussorgsky](../artists/modest_mussorgsky.md)                     | [🔗](https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl) |
+|                 15 | <img src="https://i.scdn.co/image/ab67616d0000b273a62efdba9c8e430d12e3d0fe" alt="" width="50" /> | [Nikolai Korniev](../artists/nikolai_korniev.md)                         | [🔗](https://open.spotify.com/artist/70hS9SnJefkZo2QJwS2VXi) |
+|                 15 | <img src="https://i.scdn.co/image/f946eebb053703449d3e862c18ae531ad0bee47d" alt="" width="50" /> | [St.Petersburg Chamber Choir](../artists/st_petersburg_chamber_choir.md) | [🔗](https://open.spotify.com/artist/46WjEugfIF0rKOewvFiby2) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2734edf9a255990288ccb93490f" alt="" width="50" /> | NDR Chor                                                                 | [🔗](https://open.spotify.com/artist/7hMAA1N5j1Ynb49NIWO7HV) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2738e6adfe4421d106633abde7b" alt="" width="50" /> | Michael Francis                                                          | [🔗](https://open.spotify.com/artist/4znpeZQkiPbcXtHlRbfTqF) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273b89db7f8cbf0611c23dc9ce4" alt="" width="50" /> | Philipp Ahmann                                                           | [🔗](https://open.spotify.com/artist/309coOGhdzqXdIRwJH1xUo) |
+|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fcfc4662d94dad49e635eaf" alt="" width="50" /> | Valentina Lisitsa                                                        | [🔗](https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d516176f7ccedbc5add27d63" alt="" width="50" /> | Vladimir Mostovoy                                                        | [🔗](https://open.spotify.com/artist/4BTanscTBWJOSpvceZSVSi) |
+|                  1 | <img src="https://i.scdn.co/image/094b89c0a53eaa52cb0f19d2bcd23a9fc84c1b82" alt="" width="50" /> | Olga Borodina                                                            | [🔗](https://open.spotify.com/artist/47XbXbNzwqcWStfsjzFlKb) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb68a5073a017fac8434535e8a" alt="" width="50" /> | Libera                                                                   | [🔗](https://open.spotify.com/artist/235C4ktJ2aGIyqaBlXyg7e) |
 
 </details>
 
 ## Top Albums
 
-![Bar chart of top 8 albums](../images/genres/russian_romanticism/albums.png)
+![Bar chart of top 7 albums](../images/genres/russian_romanticism/albums.png)
 
 
 <details>
-<summary>See all 8 albums</summary>
+<summary>See all 7 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                      | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------|:-----------------------------------------------------------|
@@ -55,7 +53,6 @@
 |                 15 | <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="" width="50" /> | Rachmaninov: Vespers - All Night Vigil     | [🔗](https://open.spotify.com/album/7hqotgNjEJt09XiggaMI1v) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273e3e10be41297c622a0ec2e0d" alt="" width="50" /> | Tchaikovsky: Sacred Choral Music           | [🔗](https://open.spotify.com/album/4udN7bCLaa8zCnaIvoxzOB) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2738e6adfe4421d106633abde7b" alt="" width="50" /> | Rachmaninov: Piano Concerto No.2           | [🔗](https://open.spotify.com/album/5lVqgXqdoIH3W1wUM2hzPx) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27350f0e9f3fe510cfe42f5f2d9" alt="" width="50" /> | Mozart: Eine Kleine Nachtmusik etc.        | [🔗](https://open.spotify.com/album/5YCuibCDJrkVcS3UOAYqr9) |
 
 </details>
 
@@ -70,7 +67,7 @@
 
 |   Number of Tracks | Label                                                             |
 |-------------------:|:------------------------------------------------------------------|
-|                 56 | [Warner Classics](../labels/warner_classics.md)                   |
+|                 55 | [Warner Classics](../labels/warner_classics.md)                   |
 |                 24 | [Naxos](../labels/naxos.md)                                       |
 |                 18 | [Decca Music Group Ltd.](../labels/decca_music_group_ltd_.md)     |
 |                 17 | [Deutsche Grammophon (DG)](../labels/deutsche_grammophon__dg_.md) |
@@ -83,15 +80,15 @@
 
 | 10 most Danceable tracks                                                                       | 10 least Danceable tracks                                                                                           |
 |:-----------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------|
-| Pictures at an Exhibition (Orch. Ravel): V. Ballet of the Unhatched Chicks                     | Vespers, Op. 37: VI. "Bogoroditse Devo"                                                                             |
-| Pictures at an Exhibition (Orch. Ravel): Promenade III                                         | Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 10, The Enchanted Palace of Confiturembourg, the Kingdom of Sweets |
-| Tchaikovsky: Swan Lake, Op. 20, Act I: No. 8, Dance with Goblets                               | Vespers, Op. 37: II. "Blagoslovi dushe moya"                                                                        |
-| Pictures at an Exhibition (Orch. Ravel): VII. The Market at Limoges                            | Vespers, Op. 37: XIV. "Voskrez iz groba"                                                                            |
-| Tchaikovsky: Swan Lake, Op. 20, Act IV: No. 26, Scene. Allegro ma non troppo                   | Vespers, Op. 37: IV. "Svete tikhyi"                                                                                 |
-| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12e, Divertissement. Dance of the Reed-Flutes | Tchaikovsky: Swan Lake, Op. 20, Act II: No. 14, Scene. Moderato                                                     |
-| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12c, Divertissement. Tea, Chinese Dance       | Vespers, Op. 37: V. "Nyne otpushchayeshi"                                                                           |
-| Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 2, March                              | Pictures at an Exhibition (Orch. Ravel): II. The Old Castle                                                         |
-| 13 Preludes, Op. 32: No. 3 in E Major: Allegro vivace                                          | Tchaikovsky: String Quartet No. 1 in D Major, Op. 11: II. Andante cantabile (Version for String Orchestra)          |
+| Pictures at an Exhibition (Orch. Ravel): V. Ballet of the Unhatched Chicks                     | Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12b, Divertissement. Coffee, Arabian Dance                         |
+| Pictures at an Exhibition (Orch. Ravel): Promenade III                                         | Vespers, Op. 37: VI. "Bogoroditse Devo"                                                                             |
+| Tchaikovsky: Swan Lake, Op. 20, Act I: No. 8, Dance with Goblets                               | Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 10, The Enchanted Palace of Confiturembourg, the Kingdom of Sweets |
+| Pictures at an Exhibition (Orch. Ravel): VII. The Market at Limoges                            | Vespers, Op. 37: II. "Blagoslovi dushe moya"                                                                        |
+| Tchaikovsky: Swan Lake, Op. 20, Act IV: No. 26, Scene. Allegro ma non troppo                   | Vespers, Op. 37: XIV. "Voskrez iz groba"                                                                            |
+| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12e, Divertissement. Dance of the Reed-Flutes | Vespers, Op. 37: IV. "Svete tikhyi"                                                                                 |
+| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12c, Divertissement. Tea, Chinese Dance       | Tchaikovsky: Swan Lake, Op. 20, Act II: No. 14, Scene. Moderato                                                     |
+| Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 2, March                              | Vespers, Op. 37: V. "Nyne otpushchayeshi"                                                                           |
+| 13 Preludes, Op. 32: No. 3 in E Major: Allegro vivace                                          | Pictures at an Exhibition (Orch. Ravel): II. The Old Castle                                                         |
 | 13 Preludes, Op. 32: No. 8 in A Minor: Vivo                                                    | Vespers, Op. 37: XII. "Slava v vyshnikh Bogu"                                                                       |
 
 | 10 most Energetic tracks                                                                            | 10 least Energetic tracks                                                                   |
@@ -144,7 +141,7 @@
 | Pictures at an Exhibition (Orch. Ravel): VIIIb. Cum mortuis in lingua mortua        | Pictures at an Exhibition (Orch. Ravel): VIIIa. Catacombae (Sepulchrum Romanum)                       |
 | Pictures at an Exhibition (Orch. Ravel): VII. The Market at Limoges                 | 9 Sacred Pieces, TH 78: No. 3, Cherubic Hymn No. 3                                                    |
 | Piano Concerto No. 2 in C Minor, Op. 18: 2. Adagio sostenuto                        | 9 Sacred Pieces, TH 78: No. 2, Cherubic Hymn No. 2                                                    |
-| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 15, Final Waltz and Apotheosis     | 9 Sacred Pieces, TH 78: No. 1, Cherubic Hymn No. 1                                                    |
+| 13 Preludes, Op. 32: No. 5 in G Major: Moderato                                     | 9 Sacred Pieces, TH 78: No. 1, Cherubic Hymn No. 1                                                    |
 
 | 10 most Live tracks                                                                                   | 10 least Live tracks                                         |
 |:------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------|

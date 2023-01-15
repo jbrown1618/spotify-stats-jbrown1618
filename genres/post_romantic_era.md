@@ -1,6 +1,6 @@
 # post-romantic era
 
-[89 songs](post_romantic_era_tracks.md)
+[88 songs](post_romantic_era_tracks.md)
 
 ## Top Artists
 
@@ -20,11 +20,11 @@
 |                 20 | <img src="https://i.scdn.co/image/54c4049a6258f1d526aa8b421ac31332add3db98" alt="" width="50" /> | [Martin Jones](../artists/martin_jones.md)                                               | [🔗](https://open.spotify.com/artist/1VzJXXVXsYbEK773GWSoND) |
 |                 15 | <img src="https://i.scdn.co/image/ab67616d0000b273a62efdba9c8e430d12e3d0fe" alt="" width="50" /> | [Nikolai Korniev](../artists/nikolai_korniev.md)                                         | [🔗](https://open.spotify.com/artist/70hS9SnJefkZo2QJwS2VXi) |
 |                 15 | <img src="https://i.scdn.co/image/f946eebb053703449d3e862c18ae531ad0bee47d" alt="" width="50" /> | [St.Petersburg Chamber Choir](../artists/st_petersburg_chamber_choir.md)                 | [🔗](https://open.spotify.com/artist/46WjEugfIF0rKOewvFiby2) |
-|                  9 | <img src="https://i.scdn.co/image/965d539c15af1d86ec4875f05ec21d32414c3e64" alt="" width="50" /> | Gabriel Fauré                                                                            | [🔗](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9c2dcd7eb7f1247a61c6f07" alt="" width="50" /> | [Jerusalem Quartet](../artists/jerusalem_quartet.md)                                     | [🔗](https://open.spotify.com/artist/7AnE8Jpu1vxLeXcs6OKYHE) |
-|                  8 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8b13e554131116bf311f242" alt="" width="50" /> | [Academy of St. Martin in the Fields](../artists/academy_of_st__martin_in_the_fields.md) | [🔗](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF) |
-|                  8 | <img src="https://i.scdn.co/image/addf4464734979a85ef71a61c421f23a6bc143ae" alt="" width="50" /> | [Sir Neville Marriner](../artists/sir_neville_marriner.md)                               | [🔗](https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9) |
+|                  8 | <img src="https://i.scdn.co/image/965d539c15af1d86ec4875f05ec21d32414c3e64" alt="" width="50" /> | Gabriel Fauré                                                                            | [🔗](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO) |
+|                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8b13e554131116bf311f242" alt="" width="50" /> | [Academy of St. Martin in the Fields](../artists/academy_of_st__martin_in_the_fields.md) | [🔗](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb92e0a1e423bd8590dcd43bda" alt="" width="50" /> | [Berliner Philharmoniker](../artists/berliner_philharmoniker.md)                         | [🔗](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z) |
+|                  7 | <img src="https://i.scdn.co/image/addf4464734979a85ef71a61c421f23a6bc143ae" alt="" width="50" /> | [Sir Neville Marriner](../artists/sir_neville_marriner.md)                               | [🔗](https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebf67fde1740e91a88445d5bdd" alt="" width="50" /> | [Herbert von Karajan](../artists/herbert_von_karajan.md)                                 | [🔗](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) |
 |                  7 | <img src="https://i.scdn.co/image/ef09684355a52775e8ff4c9fc2d9fc35714e264a" alt="" width="50" /> | Gustav Holst                                                                             | [🔗](https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ) |
 |                  7 | <img src="https://i.scdn.co/image/ab67616d0000b2737a50d536fbc99037cc0a4e0e" alt="" width="50" /> | John Birch                                                                               | [🔗](https://open.spotify.com/artist/2TFBoJYsuvMuPMOlwXWbaE) |
@@ -47,11 +47,11 @@
 
 ## Top Albums
 
-![Bar chart of top 10 albums](../images/genres/post_romantic_era/albums.png)
+![Bar chart of top 9 albums](../images/genres/post_romantic_era/albums.png)
 
 
 <details>
-<summary>See all 10 albums</summary>
+<summary>See all 9 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                                                                         | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -63,7 +63,6 @@
 |                  7 | <img src="https://i.scdn.co/image/ab67616d0000b2735f71322acbf611462ffc03d5" alt="" width="50" /> | Fauré: Requiem; Pavane                                                                                        | [🔗](https://open.spotify.com/album/0mhVHXJrGE5WUA58CJLf29) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2738e6adfe4421d106633abde7b" alt="" width="50" /> | Rachmaninov: Piano Concerto No.2                                                                              | [🔗](https://open.spotify.com/album/5lVqgXqdoIH3W1wUM2hzPx) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="" width="50" /> | Debussy: La Mer; Jeux; Prélude à l'après-midi d'un faune; Le Martyre de Saint Sébastien (Symphonic Fragments) | [🔗](https://open.spotify.com/album/5egJ0o1mVH2liUfecDWYqk) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27350f0e9f3fe510cfe42f5f2d9" alt="" width="50" /> | Mozart: Eine Kleine Nachtmusik etc.                                                                           | [🔗](https://open.spotify.com/album/5YCuibCDJrkVcS3UOAYqr9) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27376a42530f861aa187f3ac1c2" alt="" width="50" /> | Fauré Pavane                                                                                                  | [🔗](https://open.spotify.com/album/0FaQ2LW8NNG3YXYJXFikJF) |
 
 </details>
@@ -71,11 +70,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 7 record labels](../images/genres/post_romantic_era/labels.png)
+![Bar chart of top 6 record labels](../images/genres/post_romantic_era/labels.png)
 
 
 <details>
-<summary>See all 7 labels</summary>
+<summary>See all 6 labels</summary>
 
 |   Number of Tracks | Label                                                                                   |
 |-------------------:|:----------------------------------------------------------------------------------------|
@@ -85,7 +84,6 @@
 |                  8 | [harmonia mundi](../labels/harmonia_mundi.md)                                           |
 |                  7 | [Deutsche Grammophon (DG)](../labels/deutsche_grammophon__dg_.md)                       |
 |                  1 | [Warner Music Group - X5 Music Group](../labels/warner_music_group___x5_music_group.md) |
-|                  1 | [Warner Classics](../labels/warner_classics.md)                                         |
 
 </details>
 
@@ -94,9 +92,9 @@
 
 | 10 most Danceable tracks                                        | 10 least Danceable tracks                                                      |
 |:----------------------------------------------------------------|:-------------------------------------------------------------------------------|
-| Études, L. 136: II. Pour les Accords                            | Vespers, Op. 37: IV. "Svete tikhyi"                                            |
-| 13 Preludes, Op. 32: No. 3 in E Major: Allegro vivace           | La Mer, L.109: 3. Dialogue Of The Wind And The Sea                             |
-| 13 Preludes, Op. 32: No. 8 in A Minor: Vivo                     | Fauré: Pavane, Op. 50                                                          |
+| Études, L. 136: II. Pour les Accords                            | Vespers, Op. 37: XIV. "Voskrez iz groba"                                       |
+| 13 Preludes, Op. 32: No. 3 in E Major: Allegro vivace           | Vespers, Op. 37: IV. "Svete tikhyi"                                            |
+| 13 Preludes, Op. 32: No. 8 in A Minor: Vivo                     | La Mer, L.109: 3. Dialogue Of The Wind And The Sea                             |
 | Morceaux de fantaisie, Op. 3: No. 2, Prelude in C-Sharp Minor   | The Planets, Op. 32: 2. Venus, the Bringer of Peace                            |
 | 10 Preludes, Op. 23: No. 10 in G-Flat Major: Largo              | Vespers, Op. 37: V. "Nyne otpushchayeshi"                                      |
 | 13 Preludes, Op. 32: No. 11 in B Major: Allegretto              | Requiem in D Minor, Op.48: 2. Offertorium: Domine Jesu Christe                 |
@@ -133,16 +131,16 @@
 
 | 10 most Acoustic tracks                                | 10 least Acoustic tracks                                                       |
 |:-------------------------------------------------------|:-------------------------------------------------------------------------------|
-| La Fille aux Cheveux de Lin, L. 33                     | The Planets, Op. 32: 5. Saturn, the Bringer of Old Age                         |
-| 10 Preludes, Op. 23: No. 1 in F-Sharp Minor: Largo     | Quatuor en Fa Majeur, M. 35: II. Assez vif, très rythmé                        |
+| Vespers, Op. 37: XV. "Vzbrannoy voevode"               | The Planets, Op. 32: 5. Saturn, the Bringer of Old Age                         |
+| 13 Preludes, Op. 32: No. 2 in B-Flat Minor: Allegretto | Quatuor en Fa Majeur, M. 35: II. Assez vif, très rythmé                        |
 | Vespers, Op. 37: I. "Priidite, poklonimsya"            | String Quartet in G Minor, Op. 10: II. Assez vif et bien rythmé                |
-| Vespers, Op. 37: XV. "Vzbrannoy voevode"               | The Planets, Op. 32: 4. Jupiter, the Bringer of Jollity                        |
-| 10 Preludes, Op. 23: No. 10 in G-Flat Major: Largo     | Quatuor en Fa Majeur, M. 35: III. Très lent                                    |
-| 13 Preludes, Op. 32: No. 7 in F Major: Moderato        | The Planets, Op. 32: 7. Neptune, the Mystic                                    |
-| Vespers, Op. 37: VIII. "Kvalite imya Gospodne"         | La Mer, L.109: 1. From Dawn Till Noon On The Sea (De l'aube à midi sur la mer) |
-| 13 Preludes, Op. 32: No. 2 in B-Flat Minor: Allegretto | The Planets, Op. 32: 6. Uranus, the Magician                                   |
-| La Plus que Lente, L. 121                              | La Mer, L.109: 3. Dialogue Of The Wind And The Sea                             |
-| 13 Preludes, Op. 32: No. 5 in G Major: Moderato        | The Planets, Op. 32: 1. Mars, the Bringer of War                               |
+| 13 Preludes, Op. 32: No. 7 in F Major: Moderato        | The Planets, Op. 32: 4. Jupiter, the Bringer of Jollity                        |
+| 10 Preludes, Op. 23: No. 1 in F-Sharp Minor: Largo     | Quatuor en Fa Majeur, M. 35: III. Très lent                                    |
+| 13 Preludes, Op. 32: No. 10 in B Minor: Lento          | The Planets, Op. 32: 7. Neptune, the Mystic                                    |
+| 13 Preludes, Op. 32: No. 5 in G Major: Moderato        | La Mer, L.109: 1. From Dawn Till Noon On The Sea (De l'aube à midi sur la mer) |
+| La Plus que Lente, L. 121                              | The Planets, Op. 32: 6. Uranus, the Magician                                   |
+| La Fille aux Cheveux de Lin, L. 33                     | La Mer, L.109: 3. Dialogue Of The Wind And The Sea                             |
+| 10 Preludes, Op. 23: No. 10 in G-Flat Major: Largo     | The Planets, Op. 32: 1. Mars, the Bringer of War                               |
 
 | 10 most Instrumental tracks                                  | 10 least Instrumental tracks                            |
 |:-------------------------------------------------------------|:--------------------------------------------------------|
@@ -151,8 +149,8 @@
 | Requiem in D Minor, Op.48: 7. In paradisum                   | Vespers, Op. 37: X. "Voskreseniye Khristovo videvshe"   |
 | Requiem in D Minor, Op.48: 3. Sanctus                        | Préludes Book 2, L. 123: III. Feux d'Artifice           |
 | Estampes, L. 100: Jardins sous La Pluie                      | Quatuor en Fa Majeur, M. 35: III. Très lent             |
-| Études, L. 136: I. Pour les Arpeges Composes                 | Vespers, Op. 37: IX. "Blagosloven esi, Gospodi"         |
-| Children's Corner, L. 113: I. Doctor Gradus ad Parnassum     | Vespers, Op. 37: VIII. "Kvalite imya Gospodne"          |
+| Children's Corner, L. 113: I. Doctor Gradus ad Parnassum     | Vespers, Op. 37: IX. "Blagosloven esi, Gospodi"         |
+| Études, L. 136: I. Pour les Arpeges Composes                 | Vespers, Op. 37: VIII. "Kvalite imya Gospodne"          |
 | La Fille aux Cheveux de Lin, L. 33                           | Quatuor en Fa Majeur, M. 35: II. Assez vif, très rythmé |
 | Piano Concerto No. 2 in C Minor, Op. 18: 2. Adagio sostenuto | Vespers, Op. 37: XV. "Vzbrannoy voevode"                |
 | 13 Preludes, Op. 32: No. 5 in G Major: Moderato              | Vespers, Op. 37: II. "Blagoslovi dushe moya"            |

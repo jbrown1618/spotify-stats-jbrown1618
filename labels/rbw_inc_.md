@@ -80,7 +80,7 @@ Appears as:
 |-------------------:|:--------------------------------------------------|
 |                 30 | [k-pop](../genres/k_pop.md)                       |
 |                 12 | [k-pop girl group](../genres/k_pop_girl_group.md) |
-|                  4 | korean mask singer                                |
+|                  4 | korean talent show                                |
 |                  2 | korean ost                                        |
 |                  2 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
 

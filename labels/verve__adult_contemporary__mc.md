@@ -54,13 +54,13 @@ Appears as:
 <details>
 <summary>See all 5 genres</summary>
 
-|   Number of Tracks | Genre                                 |
-|-------------------:|:--------------------------------------|
-|                 11 | [show tunes](../genres/show_tunes.md) |
-|                  9 | [hollywood](../genres/hollywood.md)   |
-|                  5 | west end                              |
-|                  4 | [broadway](../genres/broadway.md)     |
-|                  2 | movie tunes                           |
+|   Number of Tracks | Genre                                   |
+|-------------------:|:----------------------------------------|
+|                 11 | [show tunes](../genres/show_tunes.md)   |
+|                  9 | [hollywood](../genres/hollywood.md)     |
+|                  5 | west end                                |
+|                  4 | [broadway](../genres/broadway.md)       |
+|                  2 | [movie tunes](../genres/movie_tunes.md) |
 
 </details>
 
