@@ -27,7 +27,7 @@
 |                 22 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)                             | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 |                 21 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b2621bf3c5f2197ee957582" alt="" width="50" /> | [The Tarpeggios](../artists/the_tarpeggios.md)                 | [🔗](https://open.spotify.com/artist/2HXd5pFHJyaQJr5aXfErrE) |
 |                 20 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)                               | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
-|                 18 | <img src="https://i.scdn.co/image/ab6761610000e5eb916392fe8c66d0c993657b6d" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md)                               | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
+|                 18 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md)                               | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 |                 17 | <img src="https://i.scdn.co/image/ab6761610000e5eb1723d33e6837b553b2e512c1" alt="" width="50" /> | [Pentatonix](../artists/pentatonix.md)                         | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
 |                 16 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../artists/leehi.md)                                   | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 |                 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../artists/ariana_grande.md)                   | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
@@ -61,7 +61,7 @@
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e2e0f17d257a40be0782f35" alt="" width="50" /> | BAEKHYUN                                                       | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | Camila Cabello                                                 | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="" width="50" /> | [EXO](../artists/exo.md)                                       | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
-|                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb59501d4e82c8cb6fc409044d" alt="" width="50" /> | WENDY                                                          | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
+|                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebc65d144f4f352b3cba7b13ea" alt="" width="50" /> | WENDY                                                          | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | Hwa Sa                                                         | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9996e5d7c5b769b2b26ff1a" alt="" width="50" /> | SUPER JUNIOR                                                   | [🔗](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | CLC                                                            | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
@@ -105,7 +105,7 @@
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb597a4257d0022e2ac837fa7d" alt="" width="50" /> | BIGBANG                                                        | [🔗](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eba36a9f95d59ab791d5e897e9" alt="" width="50" /> | Regina Spektor                                                 | [🔗](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb24b5185226d5b7c6aa91db5a" alt="" width="50" /> | PSY                                                            | [🔗](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) |
-|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebfe2339c232c5a840fc527402" alt="" width="50" /> | SEULGI                                                         | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
+|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebde8ad216e0ff7a76573c835e" alt="" width="50" /> | SEULGI                                                         | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb3202449ae19d68607e3f1530" alt="" width="50" /> | NMIXX                                                          | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e7e6ded87a4e0f65b5afcec" alt="" width="50" /> | Britney Spears                                                 | [🔗](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb271110d977700b69d9548993" alt="" width="50" /> | EXID                                                           | [🔗](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) |
@@ -159,6 +159,7 @@
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | Once Upon Another Time                      | [🔗](https://open.spotify.com/album/1PrqYZJRzGNf8AsSOraxnZ) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Lover                                       | [🔗](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | I love                                      | [🔗](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Girls - The 2nd Mini Album                  | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="" width="50" /> | DIMENSION : DILEMMA                         | [🔗](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | CHECKMATE                                   | [🔗](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | ‘The ReVe Festival’ Finale                  | [🔗](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) |
@@ -176,7 +177,6 @@
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="" width="50" /> | Like Water - The 1st Mini Album             | [🔗](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | IU 5th Album 'LILAC'                        | [🔗](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273fc82939fb76760e640d7edca" alt="" width="50" /> | Homeward                                    | [🔗](https://open.spotify.com/album/2FiDSelqVoi7VQfpmaMRJK) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Girls - The 2nd Mini Album                  | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="" width="50" /> | GUESS WHO                                   | [🔗](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | CRAZY IN LOVE                               | [🔗](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | 1000 Forms Of Fear (Deluxe Version)         | [🔗](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) |
@@ -359,19 +359,19 @@
 |                594 | [k-pop](../genres/k_pop.md)                         |
 |                353 | [pop](../genres/pop.md)                             |
 |                289 | [k-pop girl group](../genres/k_pop_girl_group.md)   |
+|                164 | [dance pop](../genres/dance_pop.md)                 |
 |                159 | [k-pop boy group](../genres/k_pop_boy_group.md)     |
-|                155 | [dance pop](../genres/dance_pop.md)                 |
 |                100 | [rock](../genres/rock.md)                           |
 |                 78 | [classic rock](../genres/classic_rock.md)           |
-|                 62 | [neo mellow](../genres/neo_mellow.md)               |
+|                 61 | [neo mellow](../genres/neo_mellow.md)               |
 |                 61 | [lilith](../genres/lilith.md)                       |
 |                 56 | [acoustic pop](../genres/acoustic_pop.md)           |
 |                 55 | [pop rock](../genres/pop_rock.md)                   |
 |                 44 | [hollywood](../genres/hollywood.md)                 |
 |                 42 | [mellow gold](../genres/mellow_gold.md)             |
 |                 39 | [post-teen pop](../genres/post_teen_pop.md)         |
-|                 34 | [electropop](../genres/electropop.md)               |
-|                 33 | [art pop](../genres/art_pop.md)                     |
+|                 35 | [electropop](../genres/electropop.md)               |
+|                 34 | [art pop](../genres/art_pop.md)                     |
 |                 32 | [soft rock](../genres/soft_rock.md)                 |
 |                 30 | [psychedelic rock](../genres/psychedelic_rock.md)   |
 |                 30 | british invasion                                    |
@@ -393,16 +393,16 @@
 |                 18 | folk rock                                           |
 |                 18 | art rock                                            |
 |                 18 | [a cappella](../genres/a_cappella.md)               |
-|                 17 | indie pop                                           |
 |                 16 | uk pop                                              |
+|                 16 | indie pop                                           |
 |                 15 | urban contemporary                                  |
+|                 15 | neo soul                                            |
 |                 15 | metropopolis                                        |
 |                 15 | k-rap                                               |
 |                 14 | uk alternative pop                                  |
 |                 14 | melancholia                                         |
 |                 14 | folk                                                |
 |                 14 | baroque pop                                         |
-|                 13 | neo soul                                            |
 |                 13 | glam rock                                           |
 |                 13 | canadian pop                                        |
 |                 12 | soul                                                |
@@ -420,7 +420,6 @@
 |                  8 | latin pop                                           |
 |                  8 | korean city pop                                     |
 |                  8 | indie r&b                                           |
-|                  8 | hip hop                                             |
 |                  8 | etherpop                                            |
 |                  8 | blues rock                                          |
 |                  8 | bergen indie                                        |
@@ -432,6 +431,7 @@
 |                  7 | j-pop                                               |
 |                  7 | j-metal                                             |
 |                  7 | idol rock                                           |
+|                  7 | hip hop                                             |
 |                  7 | country dawn                                        |
 |                  7 | country                                             |
 |                  7 | comic metal                                         |
@@ -494,8 +494,8 @@
 | I Don't Need You                 | Set Fire to the Rain      |
 | MANIAC                           | I'd Rather Go Blind       |
 | Mambo No. 5 (a Little Bit of...) | Old Fashioned             |
-| Vigilante Shit                   | The Scientist             |
-| Free Fall                        | All Too Well              |
+| Vigilante Shit                   | All Too Well              |
+| Free Fall                        | The Scientist             |
 | WAP (feat. Megan Thee Stallion)  | Breakeven                 |
 | bad guy                          | 情非得已                      |
 | Ice Cream (with Selena Gomez)    | Satellite Call            |

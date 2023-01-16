@@ -1,16 +1,16 @@
 # art pop
 
-[47 songs](art_pop_tracks.md)
+[48 songs](art_pop_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 16 artists](../images/genres/art_pop/artists.png)
+![Bar chart of top 17 artists](../images/genres/art_pop/artists.png)
 
 ![Comparison of Artist](../images/genres/art_pop/artists_comparison.png)
 
 
 <details>
-<summary>See all 16 artists</summary>
+<summary>See all 17 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                       | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------|:------------------------------------------------------------|
@@ -29,17 +29,18 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf178cbda9bd9a389581ff021" alt="" width="50" /> | Fiona Apple                                  | [🔗](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba8b955d42229e4cbd03d4cd8" alt="" width="50" /> | VERNON                                       | [🔗](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd6442ba68c144b0c84b207a4" alt="" width="50" /> | Rina Sawayama                                | [🔗](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e9c5c07c1244a637929678c" alt="" width="50" /> | VÉRITÉ                                       | [🔗](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1271f542dad4241c87250fe5" alt="" width="50" /> | Cecile Believe                               | [🔗](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) |
 
 </details>
 
 ## Top Albums
 
-![Bar chart of top 27 albums](../images/genres/art_pop/albums.png)
+![Bar chart of top 28 albums](../images/genres/art_pop/albums.png)
 
 
 <details>
-<summary>See all 27 albums</summary>
+<summary>See all 28 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                                      | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -59,6 +60,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27374b226f1b53ca4902dedce2a" alt="" width="50" /> | Yellow Flicker Beat (From The Hunger Games: Mockingjay Part 1)             | [🔗](https://open.spotify.com/album/7sg5iqMiDrM2aJqLAmv83V) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273969438a8091085c2472a0766" alt="" width="50" /> | Til It Happens To You                                                      | [🔗](https://open.spotify.com/album/00qjYaNSNpQCZHhCpAlH60) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b254ca0983d65ede8e3d2f7a" alt="" width="50" /> | Tidal                                                                      | [🔗](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ce94afb9aa5d73f00852a45b" alt="" width="50" /> | Somebody Else                                                              | [🔗](https://open.spotify.com/album/3Q4yhhyFA2cpZq2FGOgMwU) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98" alt="" width="50" /> | Pure Heroine                                                               | [🔗](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a" alt="" width="50" /> | Paradise                                                                   | [🔗](https://open.spotify.com/album/1JnjcAIKQ9TSJFVFierTB8) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7" alt="" width="50" /> | No Time To Die                                                             | [🔗](https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad) |
@@ -76,11 +78,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 13 record labels](../images/genres/art_pop/labels.png)
+![Bar chart of top 14 record labels](../images/genres/art_pop/labels.png)
 
 
 <details>
-<summary>See all 13 labels</summary>
+<summary>See all 14 labels</summary>
 
 |   Number of Tracks | Label                                                                                   |
 |-------------------:|:----------------------------------------------------------------------------------------|
@@ -89,6 +91,7 @@
 |                 10 | [Darkroom](../labels/darkroom.md)                                                       |
 |                  2 | [A Star is Born OST](../labels/a_star_is_born_ost.md)                                   |
 |                  1 | [Work](../labels/work.md)                                                               |
+|                  1 | [VÉRITÉ](../labels/v_rit_.md)                                                           |
 |                  1 | [Universal Music New Zealand Limited](../labels/universal_music_new_zealand_limited.md) |
 |                  1 | [Perpetual Novice](../labels/perpetual_novice.md)                                       |
 |                  1 | [PC Music](../labels/pc_music.md)                                                       |
@@ -157,16 +160,16 @@
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks    |
 |:------------------------------|:--------------------------------|
-| everything i wanted           | Show Me What                    |
-| Swan Song                     | Summertime Sadness              |
-| you should see me in a crown  | La Vie En Rose                  |
-| bury a friend                 | Rain On Me (with Ariana Grande) |
-| Therefore I Am                | Dark Paradise                   |
-| bad guy                       | lovely (with Khalid)            |
-| Bel Air                       | Til It Happens To You           |
-| Norman fucking Rockwell       | Paparazzi                       |
-| ocean eyes                    | Royals                          |
-| West Coast                    | Shadowboxer                     |
+| everything i wanted           | Dark Paradise                   |
+| Swan Song                     | Paparazzi                       |
+| you should see me in a crown  | lovely (with Khalid)            |
+| bury a friend                 | Shadowboxer                     |
+| Therefore I Am                | Million Reasons                 |
+| bad guy                       | Yoü And I                       |
+| Bel Air                       | La Vie En Rose                  |
+| Norman fucking Rockwell       | Rain On Me (with Ariana Grande) |
+| ocean eyes                    | Til It Happens To You           |
+| West Coast                    | Show Me What                    |
 
 | 10 most Live tracks             | 10 least Live tracks                                                       |
 |:--------------------------------|:---------------------------------------------------------------------------|

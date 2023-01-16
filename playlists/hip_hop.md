@@ -115,11 +115,11 @@
 
 ## Genres
 
-![Bar chart of top 25 genres](../images/playlists/hip_hop/genres.png)
+![Bar chart of top 24 genres](../images/playlists/hip_hop/genres.png)
 
 
 <details>
-<summary>See all 25 genres</summary>
+<summary>See all 24 genres</summary>
 
 |   Number of Tracks | Genre                                       |
 |-------------------:|:--------------------------------------------|
@@ -138,7 +138,6 @@
 |                  2 | dirty south rap                             |
 |                  2 | atl hip hop                                 |
 |                  1 | west coast rap                              |
-|                  1 | viral rap                                   |
 |                  1 | [post-teen pop](../genres/post_teen_pop.md) |
 |                  1 | old school hip hop                          |
 |                  1 | old school atlanta hip hop                  |

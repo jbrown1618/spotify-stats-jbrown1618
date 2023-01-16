@@ -149,8 +149,8 @@
 | The Feels                  | Not For Sale                       |
 | Hmph!                      | What is Love                       |
 | BBoom BBoom                | Heart Shaker                       |
-| FIESTA                     | CHEER UP                           |
-| Gee                        | Let Me In (20 CUBE)                |
+| Gee                        | CHEER UP                           |
+| FIESTA                     | Let Me In (20 CUBE)                |
 | Babyface                   | Life's Too Short (English Version) |
 | Very Very Very             | Hello                              |
 
@@ -195,16 +195,16 @@
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| Power Up                      | What is Love                   |
-| BBoom BBoom                   | Polaroid Love                  |
-| BAAM                          | Umpah Umpah                    |
-| Feel Special                  | Banana Allergy Monkey          |
-| Hmph!                         | FIESTA                         |
-| Likey                         | Babyface                       |
-| TT                            | CHEER UP                       |
-| Like Ooh-Ahh                  | Red Flavor                     |
-| YES or YES                    | 青春修炼手册                         |
-| Very Very Very                | THRILL RIDE                    |
+| Power Up                      | Let Me In (20 CUBE)            |
+| BBoom BBoom                   | Yummy Yummy Love               |
+| BAAM                          | Heart Shaker                   |
+| Feel Special                  | Dun Dun Dance                  |
+| Hmph!                         | What is Love                   |
+| Likey                         | Polaroid Love                  |
+| TT                            | Umpah Umpah                    |
+| Like Ooh-Ahh                  | Banana Allergy Monkey          |
+| YES or YES                    | FIESTA                         |
+| Very Very Very                | Super Yuppers!                 |
 
 | 10 most Live tracks   | 10 least Live tracks   |
 |:----------------------|:-----------------------|

@@ -2,7 +2,7 @@
 # Sarah Brightman
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb282329a46c9727e26cf706aa" alt="Sarah Brightman" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5ebcb29216b4a21ea8912db6502" alt="Sarah Brightman" width="100" />
 
 ## Featured on Playlists
 |   Number of Tracks | Art                                                                                                                                                                                                                         | Playlist                             |

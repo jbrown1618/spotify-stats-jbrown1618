@@ -1,6 +1,6 @@
 # k-pop girl group
 
-[386 songs](k_pop_girl_group_tracks.md)
+[387 songs](k_pop_girl_group_tracks.md)
 
 ## Top Artists
 
@@ -20,7 +20,7 @@
 |                 33 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)                   | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 |                 28 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)                 | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 |                 20 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../artists/mamamoo.md)                     | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
-|                 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../artists/aespa.md)                         | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
+|                 15 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../artists/aespa.md)                         | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 |                 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | [Girls' Generation](../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 |                 13 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="" width="50" /> | [Dreamcatcher](../artists/dreamcatcher.md)           | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 |                 12 | <img src="https://i.scdn.co/image/ab6761610000e5eb45b2ff69ae6a3caccb776cfa" alt="" width="50" /> | [STAYC](../artists/stayc.md)                         | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
@@ -67,7 +67,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb344cdb83dbe47a8df01f3a52" alt="" width="50" /> | Bekuh Boom                                           | [🔗](https://open.spotify.com/artist/260LldmHBR0r2wtWtjzNxL) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec598a7b9f52817fdd5634f" alt="" width="50" /> | fromis_9                                             | [🔗](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736af55ea23714e14575d05660" alt="" width="50" /> | Stellar                                              | [🔗](https://open.spotify.com/artist/1rTwKjYcA7diHAD2c8ZozT) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc6de66e3b6928e0ecf3f9b0c" alt="" width="50" /> | Bea Miller                                           | [🔗](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebdaaf5f75751b6379c108993c" alt="" width="50" /> | Bea Miller                                           | [🔗](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f21b8314d7ea1cc899b96a71" alt="" width="50" /> | ALICE                                                | [🔗](https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5) |
 |                  1 | <img src="https://i.scdn.co/image/cd8af1e4b3bcab50bc4457ea1d4bd21bb51654dc" alt="" width="50" /> | T-ARA                                                | [🔗](https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb41fe5fc9b99c0fe9f8725d38" alt="" width="50" /> | Natti Natasha                                        | [🔗](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) |
@@ -103,6 +103,7 @@
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | Savage - The 1st Mini Album                 | [🔗](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273830de2e836036f181df598d0" alt="" width="50" /> | Queendom - The 6th Mini Album               | [🔗](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | I love                                      | [🔗](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Girls - The 2nd Mini Album                  | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="" width="50" /> | GUESS WHO                                   | [🔗](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273aea29200523b1ee4d5b2c035" alt="" width="50" /> | FOREVER 1 - The 7th Album                   | [🔗](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | ‘The ReVe Festival’ Finale                  | [🔗](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) |
@@ -117,7 +118,6 @@
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2735dcded478bd1a908dbabf05e" alt="" width="50" /> | KILL THIS LOVE                              | [🔗](https://open.spotify.com/album/7viSsSKXrDa95CtUcuc1Iv) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | I trust                                     | [🔗](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | I burn                                      | [🔗](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Girls - The 2nd Mini Album                  | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="" width="50" /> | 1st Album [Dystopia : The Tree of Language] | [🔗](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="" width="50" /> | The Red - The 1st Album                     | [🔗](https://open.spotify.com/album/6YL9J0E6PGtYzkhyMxnmXd) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="" width="50" /> | Taste of Love                               | [🔗](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) |
@@ -218,9 +218,9 @@
 |                 11 | [High Up Entertainment](../labels/high_up_entertainment.md)                                                         |
 |                  8 | [DREAMCATCHER COMPANY](../labels/dreamcatcher_company.md)                                                           |
 |                  7 | [WM Entertainment](../labels/wm_entertainment.md)                                                                   |
+|                  6 | [Warner Records](../labels/warner_records.md)                                                                       |
 |                  6 | [FNC ENTERTAINMENT](../labels/fnc_entertainment.md)                                                                 |
 |                  6 | [ADOR](../labels/ador.md)                                                                                           |
-|                  5 | [Warner Records](../labels/warner_records.md)                                                                       |
 |                  5 | [Riot Games](../labels/riot_games.md)                                                                               |
 |                  4 | [avex trax](../labels/avex_trax.md)                                                                                 |
 |                  4 | [WM Japan](../labels/wm_japan.md)                                                                                   |
@@ -275,7 +275,7 @@
 
 | 10 most Danceable tracks   | 10 least Danceable tracks          |
 |:---------------------------|:-----------------------------------|
-| #Twenty                    | HANN (Alone in winter)             |
+| #Twenty                    | Life's Too Short (English Version) |
 | SNEAKERS                   | Life's Too Short (English Version) |
 | SNEAKERS (English Ver.)    | Addicted                           |
 | Typa Girl                  | Poison                             |
@@ -283,8 +283,8 @@
 | Time Slip                  | 7월 7일 One Of These Nights          |
 | Louder                     | Feel My Rhythm                     |
 | Nobody                     | Where Are We Now                   |
-| So Hot                     | O.O                                |
-| Pepe                       | HWAA                               |
+| Pepe                       | O.O                                |
+| So Hot                     | HWAA                               |
 
 | 10 most Energetic tracks   | 10 least Energetic tracks   |
 |:---------------------------|:----------------------------|
@@ -308,8 +308,8 @@
 | Signal                        | In My Dreams              |
 | You Better Run                | LOVE FOOL                 |
 | Girls                         | YOUNG LUV                 |
-| Be Natural                    | Gee                       |
-| Love So Sweet                 | Hope Not                  |
+| Be Natural                    | Hope Not                  |
+| Love So Sweet                 | Gee                       |
 | O.O                           | Moonlight Melody          |
 
 | 10 most Acoustic tracks   | 10 least Acoustic tracks   |
@@ -320,23 +320,23 @@
 | Hurt                      | 달라달라 (DALLA DALLA)         |
 | Jazz Bar                  | LA DI DA                   |
 | ZOOM                      | DALLA DALLA - English Ver. |
-| Starry Night              | RUN2U                      |
-| Wind flower               | Adios                      |
+| Wind flower               | RUN2U                      |
+| Starry Night              | Adios                      |
 | Moonlight Melody          | Red Light                  |
 | The Happiest Girl         | Poison                     |
 
-| 10 most Instrumental tracks   | 10 least Instrumental tracks   |
-|:------------------------------|:-------------------------------|
-| You and I (Park Bom)          | Red Flavor                     |
-| Adios                         | You Better Know                |
-| YEPPI YEPPI                   | Umpah Umpah                    |
-| So Hot                        | Be Natural                     |
-| I Am The Best                 | Oh Boy                         |
-| Power Up                      | #Cookie Jar                    |
-| BBoom BBoom                   | WILDSIDE                       |
-| In My Dreams                  | Marionette                     |
-| BAAM                          | 247                            |
-| Star                          | Good, Bad, Ugly                |
+| 10 most Instrumental tracks   | 10 least Instrumental tracks           |
+|:------------------------------|:---------------------------------------|
+| You and I (Park Bom)          | Bewitched                              |
+| Adios                         | Bewitched - Eng Ver.                   |
+| YEPPI YEPPI                   | Oh Boy                                 |
+| So Hot                        | #Cookie Jar                            |
+| I Am The Best                 | WILDSIDE                               |
+| Power Up                      | Marionette                             |
+| BBoom BBoom                   | Villain                                |
+| In My Dreams                  | SO BAD                                 |
+| BAAM                          | Bad Boy - English Version, Bonus Track |
+| Star                          | HANN (Alone in winter)                 |
 
 | 10 most Live tracks   | 10 least Live tracks          |
 |:----------------------|:------------------------------|
@@ -346,8 +346,8 @@
 | I Like That           | Red Light                     |
 | Vibrato               | BLACK DRESS                   |
 | 행복 (Happiness)        | DARK (X-file)                 |
-| LP                    | Ice Cream (with Selena Gomez) |
-| Genie                 | YEPPI YEPPI                   |
+| Genie                 | Ice Cream (with Selena Gomez) |
+| LP                    | YEPPI YEPPI                   |
 | STEREOTYPE            | SNEAKERS (English Ver.)       |
 | 5th Season (SSFWL)    | SNEAKERS                      |
 
@@ -357,8 +357,8 @@
 | Miniskirt               | MORE                      |
 | So Hot                  | POSE                      |
 | Twinkle                 | LION                      |
-| Lion Heart              | Ditto                     |
-| Give it to me           | Hope Not                  |
+| Give it to me           | Ditto                     |
+| Lion Heart              | Hope Not                  |
 | 러시안 룰렛 Russian Roulette | In My Dreams              |
 | Nobody                  | Body Talk                 |
 | Really                  | Lucid Dream               |

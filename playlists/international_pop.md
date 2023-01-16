@@ -305,7 +305,7 @@
 
 
 <details>
-<summary>See all 95 genres</summary>
+<summary>See all 94 genres</summary>
 
 |   Number of Tracks | Genre                                 |
 |-------------------:|:--------------------------------------|
@@ -328,7 +328,6 @@
 |                  4 | israeli pop                           |
 |                  4 | indonesian r&b                        |
 |                  4 | indonesian pop                        |
-|                  4 | indonesian indie                      |
 |                  3 | urbano latino                         |
 |                  3 | taiwan singer-songwriter              |
 |                  3 | sunnlensk tonlist                     |

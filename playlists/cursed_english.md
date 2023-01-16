@@ -1,7 +1,7 @@
 # Cursed English
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d0000b2736017bca98dea58ceddea77c1ab67616d0000b273a0df2d59f0ae9426cba3eb36ab67616d0000b273cd723e6efb66f6ef28fac28eab67616d0000b273eb9bc74e6ced59a2638898b0" alt="Cursed English" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d0000b2732270d3bd1d13133edf0be836ab67616d0000b2736017bca98dea58ceddea77c1ab67616d0000b273a0df2d59f0ae9426cba3eb36ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="Cursed English" width="100" />
 
 [26 songs](cursed_english_tracks.md)
 
@@ -53,7 +53,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ff666e3a12273d4d1380e9f0" alt="" width="50" /> | NCT #127 Regular-Irregular - The 1st Album | [🔗](https://open.spotify.com/album/4oU5Tp952fPL7z2Bax4JmU) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731e2f86e459a48cfb891bd70d" alt="" width="50" /> | MORE & MORE (English Version)              | [🔗](https://open.spotify.com/album/4AXNnQf2SkyY8d4FQaBKo5) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734b766593db7dbd908a97cea7" alt="" width="50" /> | Love Talk (English Version)                | [🔗](https://open.spotify.com/album/60A7gFYvWmaDULmxUWSjyS) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273eb9bc74e6ced59a2638898b0" alt="" width="50" /> | Life's Too Short                           | [🔗](https://open.spotify.com/album/11lLYKMkFheiV7ObD7WCnx) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734ff1d54536f86d8f9c912efa" alt="" width="50" /> | LATATA (English Ver.)                      | [🔗](https://open.spotify.com/album/0tM1Pr6hTKBNJEyLSft1Fs) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273212e7fb3309718d9d4132095" alt="" width="50" /> | In the morning (English Ver.)              | [🔗](https://open.spotify.com/album/1VbG3CJlf1cSVDibgiM3GM) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | I trust                                    | [🔗](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) |
@@ -61,6 +60,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732159a29c68303b4b0076b741" alt="" width="50" /> | Highway to Heaven (English Version)        | [🔗](https://open.spotify.com/album/4et1GgNRTOx3xpK81Z0iOn) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273cdfed2bbb2b83cccff253f54" alt="" width="50" /> | HWAA                                       | [🔗](https://open.spotify.com/album/1M1d5bzsGhY2JOVD2AU29G) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c5011613476079ff2498bf4a" alt="" width="50" /> | HELICOPTER                                 | [🔗](https://open.spotify.com/album/1uwfxRAhW1hxclCVkzku8d) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Girls - The 2nd Mini Album                 | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="" width="50" /> | Fairyforest : Temptation                   | [🔗](https://open.spotify.com/album/3999VmQrZOafu4NjYkc0rj) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27353c86f1143b52f1f01f677e0" alt="" width="50" /> | Do It Like This (English Version)          | [🔗](https://open.spotify.com/album/4L12vI7rtyBFmYOWZYtOi6) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | Christmas EveL                             | [🔗](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) |
