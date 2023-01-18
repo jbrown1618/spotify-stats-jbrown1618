@@ -46,7 +46,7 @@
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb7e8110a92ec2252f0821f8b8" alt="" width="50" /> | Miley Cyrus                                    | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../artists/sara_bareilles.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb2e42d906f4f9f672359e7379" alt="" width="50" /> | Usher                                          | [🔗](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) |
-|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb578905d5539cff25568dc097" alt="" width="50" /> | Calvin Harris                                  | [🔗](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) |
+|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb37bff6aa1d42bede9048750f" alt="" width="50" /> | Calvin Harris                                  | [🔗](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e2e2c78de847c4d9b12d32f" alt="" width="50" /> | Charlie Puth                                   | [🔗](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb6659b1cb61936bd7bcb229a2" alt="" width="50" /> | Demi Lovato                                    | [🔗](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebaed3c717bf1753ab928ea88d" alt="" width="50" /> | John Legend                                    | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
@@ -360,9 +360,9 @@
 |   Number of Tracks | Genre                                           |
 |-------------------:|:------------------------------------------------|
 |                300 | [pop](../genres/pop.md)                         |
-|                194 | [dance pop](../genres/dance_pop.md)             |
+|                193 | [dance pop](../genres/dance_pop.md)             |
 |                 45 | [post-teen pop](../genres/post_teen_pop.md)     |
-|                 29 | [electropop](../genres/electropop.md)           |
+|                 28 | [electropop](../genres/electropop.md)           |
 |                 28 | [art pop](../genres/art_pop.md)                 |
 |                 26 | uk pop                                          |
 |                 26 | edm                                             |

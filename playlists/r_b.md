@@ -33,7 +33,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba12641edfc4ffbbdf58f7d15" alt="" width="50" /> | Lil Jon                                | [🔗](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd66f1e0c883f319443d68c45" alt="" width="50" /> | Lil Nas X                              | [🔗](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9dde4a54073dbd58fb91c7d" alt="" width="50" /> | Ty Dolla $ign                          | [🔗](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb578905d5539cff25568dc097" alt="" width="50" /> | Calvin Harris                          | [🔗](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb37bff6aa1d42bede9048750f" alt="" width="50" /> | Calvin Harris                          | [🔗](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) |
 |                  1 | <img src="https://i.scdn.co/image/5c8d57d92825466637905f0d4219064cb39333e9" alt="" width="50" /> | André 3000                             | [🔗](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) |
 |                  1 | <img src="https://i.scdn.co/image/7667470f669c70a15108051995051fc2cf9e126a" alt="" width="50" /> | Blu Cantrell                           | [🔗](https://open.spotify.com/artist/6vytZ677lz4LzCrUDcDokM) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb21a213a4fe1a6f9b45d3f7f9" alt="" width="50" /> | Commodores                             | [🔗](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) |
@@ -221,7 +221,7 @@
 
 
 <details>
-<summary>See all 50 genres</summary>
+<summary>See all 49 genres</summary>
 
 |   Number of Tracks | Genre                                           |
 |-------------------:|:------------------------------------------------|
@@ -263,7 +263,6 @@
 |                  1 | thai indie pop                                  |
 |                  1 | soul blues                                      |
 |                  1 | [soft rock](../genres/soft_rock.md)             |
-|                  1 | rock-and-roll                                   |
 |                  1 | [neo mellow](../genres/neo_mellow.md)           |
 |                  1 | minnesota hip hop                               |
 |                  1 | [mellow gold](../genres/mellow_gold.md)         |

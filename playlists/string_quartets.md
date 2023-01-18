@@ -77,11 +77,11 @@
 
 ## Genres
 
-![Bar chart of top 11 genres](../images/playlists/string_quartets/genres.png)
+![Bar chart of top 12 genres](../images/playlists/string_quartets/genres.png)
 
 
 <details>
-<summary>See all 11 genres</summary>
+<summary>See all 12 genres</summary>
 
 |   Number of Tracks | Genre                                                             |
 |-------------------:|:------------------------------------------------------------------|
@@ -96,6 +96,7 @@
 |                  8 | impressionism                                                     |
 |                  8 | czech classical                                                   |
 |                  4 | [neoclassicism](../genres/neoclassicism.md)                       |
+|                  4 | [early modern classical](../genres/early_modern_classical.md)     |
 
 </details>
 

@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1386 songs](liked_songs_tracks.md)
+[1405 songs](liked_songs_tracks.md)
 
 ## Top Artists
 
@@ -14,7 +14,7 @@
 
 |   Number of Tracks | Art                                                                                              | Artist                                                         | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------|:------------------------------------------------------------|
-|                 45 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)                         | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
+|                 47 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)                         | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 |                 44 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../artists/sara_bareilles.md)                 | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 |                 39 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | [Taylor Swift](../artists/taylor_swift.md)                     | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 |                 31 | <img src="https://i.scdn.co/image/ab6761610000e5ebd84fd6ae9ccfc6206ea6711e" alt="" width="50" /> | [TWICE](../artists/twice.md)                                   | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
@@ -55,6 +55,8 @@
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5ebec40474426f4401a4203dc9f" alt="" width="50" /> | Sia                                                            | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb968ab271c895fb9cc245d6fe" alt="" width="50" /> | Billlie                                                        | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb654972693e0efed3f3f4d090" alt="" width="50" /> | Jason Derulo                                                   | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
+|                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb7401998434b12fffd119ae18" alt="" width="50" /> | [NCT 127](../artists/nct_127.md)                               | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
+|                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | Hwa Sa                                                         | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | Imogen Heap                                                    | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a29246fa242d0b9f8de3b31" alt="" width="50" /> | SUNMI                                                          | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a669de19d4381073d85701a" alt="" width="50" /> | BABYMETAL                                                      | [🔗](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) |
@@ -62,7 +64,7 @@
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | Camila Cabello                                                 | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="" width="50" /> | [EXO](../artists/exo.md)                                       | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebc65d144f4f352b3cba7b13ea" alt="" width="50" /> | WENDY                                                          | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
-|                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | Hwa Sa                                                         | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
+|                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb03fd839c09fe375026192645" alt="" width="50" /> | GOT the beat                                                   | [🔗](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9996e5d7c5b769b2b26ff1a" alt="" width="50" /> | SUPER JUNIOR                                                   | [🔗](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | CLC                                                            | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | [Dua Lipa](../artists/dua_lipa.md)                             | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
@@ -75,13 +77,13 @@
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb9954a1ab45b2404a7bff2a45" alt="" width="50" /> | OH MY GIRL                                                     | [🔗](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | PENTAGON                                                       | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5ebd809a98eed8a673be5ed0576" alt="" width="50" /> | NCT DREAM                                                      | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
-|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb7401998434b12fffd119ae18" alt="" width="50" /> | [NCT 127](../artists/nct_127.md)                               | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
 |                  5 | <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | Simon & Garfunkel                                              | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb3ea2c03525939b482f8d3bfd" alt="" width="50" /> | Janelle Monáe                                                  | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc9dcb7e4a97b4552e1224d6" alt="" width="50" /> | Katy Perry                                                     | [🔗](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8786ccb6031a3266bb15606" alt="" width="50" /> | WJSN                                                           | [🔗](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410" alt="" width="50" /> | Clean Bandit                                                   | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb6199c3c2f414880e2b9077a9" alt="" width="50" /> | NewJeans                                                       | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
+|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eba109aeabdab7a5a5b3330df4" alt="" width="50" /> | HEIZE                                                          | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d4b74165ecfadcacf0771ae" alt="" width="50" /> | MOMOLAND                                                       | [🔗](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb80584436e5726afb70cee7f8" alt="" width="50" /> | LOONA                                                          | [🔗](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | Coldplay                                                       | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
@@ -96,6 +98,7 @@
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | Jackson Wang                                                   | [🔗](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | [Michael Bublé](../artists/michael_bubl_.md)                   | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | Nicki Minaj                                                    | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
+|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb63329d77582c519154674fd7" alt="" width="50" /> | TOMORROW X TOGETHER                                            | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebfa980b99bc5f4d47b4253f82" alt="" width="50" /> | j-hope                                                         | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb288ac05481cedc5bddb5b11b" alt="" width="50" /> | Maroon 5                                                       | [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb5b1a291b0a6a689091d54d8b" alt="" width="50" /> | IVE                                                            | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
@@ -111,9 +114,6 @@
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb271110d977700b69d9548993" alt="" width="50" /> | EXID                                                           | [🔗](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | Justin Bieber                                                  | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | Muse                                                           | [🔗](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) |
-|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb63329d77582c519154674fd7" alt="" width="50" /> | TOMORROW X TOGETHER                                            | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
-|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA                                                           | [🔗](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) |
-|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb2be8611f6c6e9174031c64df" alt="" width="50" /> | JEON SOMI                                                      | [🔗](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) |
 
 </details>
 
@@ -153,6 +153,7 @@
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | Windy                                       | [🔗](https://open.spotify.com/album/1lv92CIVZbB2BsHmIx7qJf) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?    | [🔗](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2" alt="" width="50" /> | The Beatles (Remastered)                    | [🔗](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="" width="50" /> | Stamp On It - The 1st Mini Album            | [🔗](https://open.spotify.com/album/2Gxd1fr4RFHVNx6IxGr9I7) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | Savage - The 1st Mini Album                 | [🔗](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Querencia                                   | [🔗](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273830de2e836036f181df598d0" alt="" width="50" /> | Queendom - The 6th Mini Album               | [🔗](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) |
@@ -184,12 +185,14 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2738232e1aaaf4c9ed4b6946ce8" alt="" width="50" /> | the Billage of perception: chapter two      | [🔗](https://open.spotify.com/album/0NuM7kwh6u6fIRjn7Zh7Ss) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2734c5be128bd1b55bf36041574" alt="" width="50" /> | the Billage of perception : chapter one     | [🔗](https://open.spotify.com/album/1kp4txZsSpDNR4EoDFi2LD) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | Thriller                                    | [🔗](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="" width="50" /> | The Red - The 1st Album                     | [🔗](https://open.spotify.com/album/6YL9J0E6PGtYzkhyMxnmXd) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2737bf7ee0ed15bef2699900a6b" alt="" width="50" /> | The Game                                    | [🔗](https://open.spotify.com/album/1h0j80HhdzIMsUGUFiVkqa) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | The Fame                                    | [🔗](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27322ca59e5c2d806439d5f08a2" alt="" width="50" /> | The Bends                                   | [🔗](https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | Teenage Dream                               | [🔗](https://open.spotify.com/album/3BoUxfC7YhxNq3TpOfnRif) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="" width="50" /> | Taste of Love                               | [🔗](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27328be5dc3cc0bd6f2482c1d56" alt="" width="50" /> | THE SECOND STEP : CHAPTER ONE               | [🔗](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2736017bca98dea58ceddea77c1" alt="" width="50" /> | Summer Magic - Summer Mini Album            | [🔗](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273866872ba52cf201fc33995cc" alt="" width="50" /> | Speak for Yourself                          | [🔗](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="" width="50" /> | Palette                                     | [🔗](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="" width="50" /> | PTX, Vol. 2                                 | [🔗](https://open.spotify.com/album/12dPqNFIdjiVFSHvtsDmzJ) |
@@ -225,9 +228,6 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2732d81f491319b86356eb10c4e" alt="" width="50" /> | Begin to Hope                               | [🔗](https://open.spotify.com/album/4L4tcx3itXbtx5kuchKhFE) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="" width="50" /> | Beatrix Runs                                | [🔗](https://open.spotify.com/album/7HsPaYQbCYnxosF5WiSlEA) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6096741dcf413354a59554" alt="" width="50" /> | BORDER : DAY ONE                            | [🔗](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | BORDER : CARNIVAL                           | [🔗](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | BETWEEN 1&2                                 | [🔗](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="" width="50" /> | BE                                          | [🔗](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) |
 
 </details>
 
@@ -242,21 +242,21 @@
 
 |   Number of Tracks | Label                                                                                                               |
 |-------------------:|:--------------------------------------------------------------------------------------------------------------------|
-|                153 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
-|                 84 | [Republic Records](../labels/republic_records.md)                                                                   |
+|                162 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
+|                 85 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 62 | [Epic](../labels/epic.md)                                                                                           |
-|                 56 | [Interscope Records](../labels/interscope_records.md)                                                               |
+|                 57 | [Interscope Records](../labels/interscope_records.md)                                                               |
 |                 54 | [Columbia](../labels/columbia.md)                                                                                   |
 |                 51 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
 |                 48 | [Warner Records](../labels/warner_records.md)                                                                       |
 |                 43 | [RCA Records Label](../labels/rca_records_label.md)                                                                 |
 |                 42 | [Universal Music LLC](../labels/universal_music_llc.md)                                                             |
-|                 33 | [Genie Music Corporation](../labels/genie_music_corporation.md)                                                     |
-|                 32 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                                                 |
+|                 36 | [Genie Music Corporation](../labels/genie_music_corporation.md)                                                     |
+|                 35 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                                                 |
 |                 28 | [BIGHIT MUSIC](../labels/bighit_music.md)                                                                           |
 |                 26 | [Atlantic Records](../labels/atlantic_records.md)                                                                   |
+|                 25 | [RBW Inc.](../labels/rbw_inc_.md)                                                                                   |
 |                 25 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                                                               |
-|                 24 | [RBW Inc.](../labels/rbw_inc_.md)                                                                                   |
 |                 21 | [EMI Catalogue](../labels/emi_catalogue.md)                                                                         |
 |                 20 | [Taylor Swift](../labels/taylor_swift.md)                                                                           |
 |                 19 | [Big Machine Records](../labels/big_machine_records.md)                                                             |
@@ -266,9 +266,9 @@
 |                 16 | [Polydor Records](../labels/polydor_records.md)                                                                     |
 |                 14 | [Rhino](../labels/rhino.md)                                                                                         |
 |                 13 | [The Tarpeggios](../labels/the_tarpeggios.md)                                                                       |
+|                 13 | [Starship Entertainment](../labels/starship_entertainment.md)                                                       |
 |                 13 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)                                                           |
 |                 12 | [XL Recordings](../labels/xl_recordings.md)                                                                         |
-|                 12 | [Starship Entertainment](../labels/starship_entertainment.md)                                                       |
 |                 12 | [Kakao Entertainment](../labels/kakao_entertainment.md)                                                             |
 |                 12 | [Hollywood Records](../labels/hollywood_records.md)                                                                 |
 |                 12 | [Capitol Records](../labels/capitol_records.md)                                                                     |
@@ -356,31 +356,32 @@
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
-|                594 | [k-pop](../genres/k_pop.md)                         |
+|                611 | [k-pop](../genres/k_pop.md)                         |
 |                353 | [pop](../genres/pop.md)                             |
-|                289 | [k-pop girl group](../genres/k_pop_girl_group.md)   |
-|                164 | [dance pop](../genres/dance_pop.md)                 |
-|                159 | [k-pop boy group](../genres/k_pop_boy_group.md)     |
+|                292 | [k-pop girl group](../genres/k_pop_girl_group.md)   |
+|                162 | [k-pop boy group](../genres/k_pop_boy_group.md)     |
+|                162 | [dance pop](../genres/dance_pop.md)                 |
 |                100 | [rock](../genres/rock.md)                           |
 |                 78 | [classic rock](../genres/classic_rock.md)           |
 |                 61 | [neo mellow](../genres/neo_mellow.md)               |
-|                 61 | [lilith](../genres/lilith.md)                       |
+|                 60 | [lilith](../genres/lilith.md)                       |
 |                 56 | [acoustic pop](../genres/acoustic_pop.md)           |
 |                 55 | [pop rock](../genres/pop_rock.md)                   |
 |                 44 | [hollywood](../genres/hollywood.md)                 |
 |                 42 | [mellow gold](../genres/mellow_gold.md)             |
 |                 39 | [post-teen pop](../genres/post_teen_pop.md)         |
-|                 35 | [electropop](../genres/electropop.md)               |
+|                 34 | [electropop](../genres/electropop.md)               |
 |                 34 | [art pop](../genres/art_pop.md)                     |
+|                 33 | [folk rock](../genres/folk_rock.md)                 |
 |                 32 | [soft rock](../genres/soft_rock.md)                 |
 |                 30 | [psychedelic rock](../genres/psychedelic_rock.md)   |
 |                 30 | british invasion                                    |
 |                 29 | [singer-songwriter](../genres/singer_songwriter.md) |
+|                 28 | korean pop                                          |
+|                 27 | korean r&b                                          |
 |                 25 | piano rock                                          |
-|                 24 | korean pop                                          |
 |                 23 | beatlesque                                          |
 |                 22 | merseybeat                                          |
-|                 22 | korean r&b                                          |
 |                 21 | [r&b](../genres/r_b.md)                             |
 |                 20 | pop rap                                             |
 |                 20 | modern rock                                         |
@@ -390,15 +391,14 @@
 |                 19 | album rock                                          |
 |                 19 | [adult standards](../genres/adult_standards.md)     |
 |                 18 | hard rock                                           |
-|                 18 | folk rock                                           |
 |                 18 | art rock                                            |
 |                 18 | [a cappella](../genres/a_cappella.md)               |
 |                 16 | uk pop                                              |
+|                 16 | k-rap                                               |
 |                 16 | indie pop                                           |
 |                 15 | urban contemporary                                  |
 |                 15 | neo soul                                            |
 |                 15 | metropopolis                                        |
-|                 15 | k-rap                                               |
 |                 14 | uk alternative pop                                  |
 |                 14 | melancholia                                         |
 |                 14 | folk                                                |
@@ -468,8 +468,8 @@
 | Anaconda                        | A Case of You               |
 | #Twenty                         | Nature Boy                  |
 | FACE                            | Lights                      |
-| SNEAKERS                        | You Take My Breath Away     |
-| WAP (feat. Megan Thee Stallion) | Born To Die                 |
+| WAP (feat. Megan Thee Stallion) | You Take My Breath Away     |
+| SNEAKERS                        | Born To Die                 |
 | Billie Jean                     | The End (Interlude)         |
 | RUN (HAN)                       | Amore                       |
 | Baby Got Back                   | Bridge Over Troubled Water  |
@@ -482,8 +482,8 @@
 | Shanti Shanti Shanti       | when the party's over       |
 | RING X RING                | The Dawntreader             |
 | Rondo of Nightmare         | Used                        |
-| Headbangeeeeerrrrr!!!!!    | Nature Boy                  |
-| Gimme Chocolate!!          | And So It Goes              |
+| Gimme Chocolate!!          | Nature Boy                  |
+| Headbangeeeeerrrrr!!!!!    | And So It Goes              |
 | Hit That Drum              | Run to You                  |
 | KARATE                     | Mad World                   |
 | だいじょばない                    | Kaleidoscope Heart          |
@@ -494,8 +494,8 @@
 | I Don't Need You                 | Set Fire to the Rain      |
 | MANIAC                           | I'd Rather Go Blind       |
 | Mambo No. 5 (a Little Bit of...) | Old Fashioned             |
-| Vigilante Shit                   | All Too Well              |
-| Free Fall                        | The Scientist             |
+| Vigilante Shit                   | The Scientist             |
+| Free Fall                        | All Too Well              |
 | WAP (feat. Megan Thee Stallion)  | Breakeven                 |
 | bad guy                          | 情非得已                      |
 | Ice Cream (with Selena Gomez)    | Satellite Call            |
@@ -503,8 +503,8 @@
 
 | 10 most Acoustic tracks      | 10 least Acoustic tracks   |
 |:-----------------------------|:---------------------------|
-| when the party's over        | Misery                     |
-| Bright Lights and Cityscapes | Oh Sorry Ya                |
+| when the party's over        | Oh Sorry Ya                |
+| Bright Lights and Cityscapes | Misery                     |
 | Mad World                    | Gimme Chocolate!!          |
 | Manhattan                    | Cyberpunk                  |
 | Nature Boy                   | Tamed-Dashed               |
@@ -514,18 +514,18 @@
 | The Dawntreader              | Kagerou                    |
 | Take It All                  | The Phantom Of The Opera   |
 
-| 10 most Instrumental tracks              | 10 least Instrumental tracks               |
-|:-----------------------------------------|:-------------------------------------------|
-| Digital Love                             | imagine                                    |
-| だいじょばない                                  | When I Get Old                             |
-| Animals                                  | Make Me Feel                               |
-| Street Spirit (Fade Out)                 | There's Nothing Holdin' Me Back            |
-| everything i wanted                      | Love To Hate Me                            |
-| Instant Crush (feat. Julian Casablancas) | I CAN'T STOP ME                            |
-| Smooth Criminal - 2012 Remaster          | Blue Flame                                 |
-| Pyramid Song                             | Nonstop                                    |
-| Shanti Shanti Shanti                     | We Don't Talk Anymore (feat. Selena Gomez) |
-| You Take My Breath Away                  | First Time                                 |
+| 10 most Instrumental tracks              | 10 least Instrumental tracks                |
+|:-----------------------------------------|:--------------------------------------------|
+| Digital Love                             | Hello, Sunset                               |
+| だいじょばない                                  | Brown Eyed Girl                             |
+| Animals                                  | California Gurls                            |
+| Street Spirit (Fade Out)                 | Something                                   |
+| everything i wanted                      | I Love You 3000 II                          |
+| Instant Crush (feat. Julian Casablancas) | THRILL RIDE                                 |
+| Smooth Criminal - 2012 Remaster          | Locked out of Heaven                        |
+| Pyramid Song                             | If I Ever Fall In Love (feat. Jason Derulo) |
+| Shanti Shanti Shanti                     | Scream                                      |
+| You Take My Breath Away                  | Bunny                                       |
 
 | 10 most Live tracks            | 10 least Live tracks                  |
 |:-------------------------------|:--------------------------------------|
@@ -543,12 +543,12 @@
 | 10 most Happy tracks            | 10 least Happy tracks   |
 |:--------------------------------|:------------------------|
 | Sour candy                      | Yellow Flicker Beat     |
-| Like a Virgin                   | Falling                 |
-| Big Yellow Taxi                 | Lose Yourself           |
+| Big Yellow Taxi                 | Falling                 |
+| Like a Virgin                   | Lose Yourself           |
 | There's Nothing Holdin' Me Back | Crystallize             |
 | Twenty-three                    | Once Upon Another Time  |
 | Devil                           | xanny                   |
 | Pepe                            | No Time To Die          |
-| SexyBack (feat. Timbaland)      | Delicate                |
-| Mercy                           | What Sarah Said         |
-| Miniskirt                       | You Take My Breath Away |
+| Mercy                           | Delicate                |
+| SexyBack (feat. Timbaland)      | What Sarah Said         |
+| チョコレイト・ディスコ                     | You Take My Breath Away |

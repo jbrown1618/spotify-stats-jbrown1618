@@ -1,10 +1,10 @@
 # Genie Music Corporation
 
-52 songs
+56 songs
 
 Appears as:
-- Genie Music Corporation, Stone Music Entertainment (39 tracks)
-- Genie Music Corporation (13 tracks)
+- Genie Music Corporation, Stone Music Entertainment (41 tracks)
+- Genie Music Corporation (15 tracks)
 
 ## Top Artists
 
@@ -12,19 +12,19 @@ Appears as:
 
 
 <details>
-<summary>See all 50 artists</summary>
+<summary>See all 51 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                 | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:------------------------------------------------------------|
+|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eba109aeabdab7a5a5b3330df4" alt="" width="50" /> | HEIZE                                  | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="" width="50" /> | EVERGLOW                               | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb767815f4876969e8f888f0db" alt="" width="50" /> | The Rose                               | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
+|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb983cc89d77c523e7bf9c03f6" alt="" width="50" /> | YENA                                   | [🔗](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | [CHUNG HA](../artists/chung_ha.md)     | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb86fd15cae5905acd12864029" alt="" width="50" /> | Kep1er                                 | [🔗](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) |
-|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb983cc89d77c523e7bf9c03f6" alt="" width="50" /> | YENA                                   | [🔗](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb63a4eedf0e775d0a2e19f5df" alt="" width="50" /> | WOODZ                                  | [🔗](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | BIBI                                   | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eba6b0d348c125a072e5284b3e" alt="" width="50" /> | IZ*ONE                                 | [🔗](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eba109aeabdab7a5a5b3330df4" alt="" width="50" /> | HEIZE                                  | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../artists/mamamoo.md)       | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../artists/leehi.md)           | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | Hwa Sa                                 | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
@@ -37,6 +37,7 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfe7fc78f16d948f53a607c53" alt="" width="50" /> | NINGNING                               | [🔗](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3e5502077e2bb0fe1e3d4df0" alt="" width="50" /> | Wonstein                               | [🔗](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0b4c8d0a415cab50e033129" alt="" width="50" /> | Solar                                  | [🔗](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebad9d5fda1f59672d31163ad5" alt="" width="50" /> | BE'O                                   | [🔗](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebca6daabeb614243f96b2829f" alt="" width="50" /> | WOOSUNG                                | [🔗](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) |
 |                  1 | <img src="nan" alt="" width="50" />                                                              | Jeon Ji Woo                            | [🔗](https://open.spotify.com/artist/5A0sx2B7umJPdXgpfghJDJ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733552f9c353bdab8b03b7c8a7" alt="" width="50" /> | Jang Ye Eun                            | [🔗](https://open.spotify.com/artist/4hMhbcPHd2nsZFhY1TNp8Y) |
@@ -76,7 +77,7 @@ Appears as:
 
 
 <details>
-<summary>See all 46 albums</summary>
+<summary>See all 50 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                                | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -106,17 +107,21 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f662dabc03dbb3a127255b32" alt="" width="50" /> | PLAY                                                                 | [🔗](https://open.spotify.com/album/7tzaUrzvzQGfqvzsYzSODr) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732d5c8b45ab7a204c4de48605" alt="" width="50" /> | Our Blues, Pt. 10 (Original Television Soundtrack)                   | [🔗](https://open.spotify.com/album/0mP330aRyX4P4ZjarRKnXO) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273aa0046f64f34c168d3acb760" alt="" width="50" /> | MONOCHROME                                                           | [🔗](https://open.spotify.com/album/7Bhg7EOxBASEzLV3U6DnjK) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f259431ac3c0458143ce0d53" alt="" width="50" /> | Lyricist                                                             | [🔗](https://open.spotify.com/album/6igUyuDlRCyjoTtPXui6bT) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c3cc49220a7dd0bda6e55bb9" alt="" width="50" /> | Love War                                                             | [🔗](https://open.spotify.com/album/3gWIe0cTPYqrI8xIYHjten) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738b191ce6dc0fbfd68bbb67b8" alt="" width="50" /> | Last Melody                                                          | [🔗](https://open.spotify.com/album/4ZDUTnUO9CDFmwdCUCQ6dG) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d700b5ddf45596b3793d3963" alt="" width="50" /> | KINGDOM <FINAL : WHO IS THE KING?>                                   | [🔗](https://open.spotify.com/album/3n1NaviPQXfiVQ0TarnAf4) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e5245e31f1351c75654b5e92" alt="" width="50" /> | I Need The Light                                                     | [🔗](https://open.spotify.com/album/4RAx28on33NHM5FQiFhyvZ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27391c1f72f6be65bf4cb27b4a4" alt="" width="50" /> | HUSH                                                                 | [🔗](https://open.spotify.com/album/7cGql7l8oRpjGmeDspBMZ2) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273cd99a47e4804c82e3812e901" alt="" width="50" /> | HOSPITAL PLAYLIST Season2 (Original Television Soundtrack), Pt. 1    | [🔗](https://open.spotify.com/album/2pJhtrlZZvxFi818EMvKAY) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="" width="50" /> | HOLO                                                                 | [🔗](https://open.spotify.com/album/5xq9sm0jGMMDu5LifpBBo1) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273168258bceeef84be1d0c9301" alt="" width="50" /> | HAPPEN                                                               | [🔗](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730f5c597bba60a1e0c5364baa" alt="" width="50" /> | Guardian (Original Television Soundtrack), Pt. 1                     | [🔗](https://open.spotify.com/album/6Pr1DaOWfT6hEewhZMRyqg) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733de8d21c10a5beed844bba5b" alt="" width="50" /> | Gotta Go                                                             | [🔗](https://open.spotify.com/album/7BYCvUqCaeIo2jgOl9iAGr) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732ff96e13b6b6d30712317a89" alt="" width="50" /> | GOOD GIRL Episode 3                                                  | [🔗](https://open.spotify.com/album/2iY5eEAH23aCB9JGCNZO5k) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273351ac6effa17d7780a306d24" alt="" width="50" /> | GLASSY                                                               | [🔗](https://open.spotify.com/album/2WCMmZ8vXBnkVp97PzLeoA) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273cd17c315097d81ea0882430c" alt="" width="50" /> | Flourishing                                                          | [🔗](https://open.spotify.com/album/1lNM7RF1SVUs66OtLj4MQh) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733d56b95f88f4743d79aa62f4" alt="" width="50" /> | First Sight                                                          | [🔗](https://open.spotify.com/album/5M9f9Tze7sspUDrIAjdCgV) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b068508a55c13c676bf74d6b" alt="" width="50" /> | FACE ME                                                              | [🔗](https://open.spotify.com/album/4i3Q8eTqefwISi3WltwzAW) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738ae58b007d9c05f8e7cfdb81" alt="" width="50" /> | Dawn                                                                 | [🔗](https://open.spotify.com/album/0YZ0m6Z8xUurgzV9lXvflS) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734d1fce6f6b2b64395f7e804e" alt="" width="50" /> | DOUBLAST                                                             | [🔗](https://open.spotify.com/album/0yMosWzriw3613d26x7MQK) |
@@ -140,11 +145,11 @@ Appears as:
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
-|                 44 | [k-pop](../genres/k_pop.md)                       |
+|                 48 | [k-pop](../genres/k_pop.md)                       |
+|                 13 | korean r&b                                        |
 |                 12 | [k-pop girl group](../genres/k_pop_girl_group.md) |
-|                 10 | korean r&b                                        |
 |                  8 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
-|                  4 | korean pop                                        |
+|                  7 | korean pop                                        |
 |                  3 | korean ost                                        |
 |                  2 | [pop](../genres/pop.md)                           |
 |                  2 | k-rap                                             |
@@ -170,7 +175,10 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b191ce6dc0fbfd68bbb67b8" alt="" width="50" /> | FIRST                                     | Last Melody                                                          | EVERGLOW                                          | [Stone Music Entertainment](stone_music_entertainment.md), [Genie Music Corporation](genie_music_corporation.md) |     | [🔗](https://open.spotify.com/track/021L6LlBBtr34BmFRHd9Ic) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734fcfc7c45bef0c20cc65ec27" alt="" width="50" /> | Don’t Speak                               | Return of The Girl                                                   | EVERGLOW                                          | [Stone Music Entertainment](stone_music_entertainment.md), [Genie Music Corporation](genie_music_corporation.md) | 💚   | [🔗](https://open.spotify.com/track/4rTXasoYr4RICJeGRk5cnD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734fcfc7c45bef0c20cc65ec27" alt="" width="50" /> | Pirate                                    | Return of The Girl                                                   | EVERGLOW                                          | [Stone Music Entertainment](stone_music_entertainment.md), [Genie Music Corporation](genie_music_corporation.md) | 💚   | [🔗](https://open.spotify.com/track/0Vu5tjvXZX3qtzRiezxLi1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737f22ff3c2da84dfc06101e23" alt="" width="50" /> | And July                                  | And July                                                             | HEIZE, DEAN, dj friz                              | [Genie Music Corporation](genie_music_corporation.md)                                                            |     | [🔗](https://open.spotify.com/track/0Yz3F0UGDibDe8uU69zmjn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737f22ff3c2da84dfc06101e23" alt="" width="50" /> | And July                                  | And July                                                             | HEIZE, DEAN, dj friz                              | [Genie Music Corporation](genie_music_corporation.md)                                                            | 💚   | [🔗](https://open.spotify.com/track/0Yz3F0UGDibDe8uU69zmjn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733d56b95f88f4743d79aa62f4" alt="" width="50" /> | First Sight                               | First Sight                                                          | HEIZE                                             | [Genie Music Corporation](genie_music_corporation.md)                                                            |     | [🔗](https://open.spotify.com/track/2g76vE59gdow7ynPQdzuaw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f259431ac3c0458143ce0d53" alt="" width="50" /> | Lyricist                                  | Lyricist                                                             | HEIZE                                             | [Genie Music Corporation](genie_music_corporation.md)                                                            |     | [🔗](https://open.spotify.com/track/1eEHOnrNLP46aGKLb1LtMI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273168258bceeef84be1d0c9301" alt="" width="50" /> | HAPPEN                                    | HAPPEN                                                               | HEIZE                                             | [Stone Music Entertainment](stone_music_entertainment.md), [Genie Music Corporation](genie_music_corporation.md) | 💚   | [🔗](https://open.spotify.com/track/1MtCOuTy3B6fU72LQPvg16) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27345c3e1eaeaed3345abae9616" alt="" width="50" /> | Undo                                      | Undo                                                                 | HEIZE                                             | [Stone Music Entertainment](stone_music_entertainment.md), [Genie Music Corporation](genie_music_corporation.md) | 💚   | [🔗](https://open.spotify.com/track/6z1pJ3KUmQagUpMVqL62sa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733091980300243c26b0404b76" alt="" width="50" /> | Weapon (With Newnion, FLOOR) (Prod.Czaer) | Street Dance Girls Fighter(SGF) Special                              | [ITZY](../artists/itzy.md)                        | [Genie Music Corporation](genie_music_corporation.md)                                                            | 💚   | [🔗](https://open.spotify.com/track/6poVmpGU3y3jj1Z9xbbbH4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e0863f52c51d1c38a145d5a" alt="" width="50" /> | La Vie en Rose                            | COLOR*IZ                                                             | IZ*ONE                                            | [Genie Music Corporation](genie_music_corporation.md)                                                            |     | [🔗](https://open.spotify.com/track/3WfaJhCL4p2JbdffJjV6Va) |
@@ -208,5 +216,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273a435b6276480ed558eece0fd" alt="" width="50" /> | Lxxk 2 U                                  | ˣ‿ˣ (SMiLEY)                                                         | YENA                                              | [Stone Music Entertainment](stone_music_entertainment.md), [Genie Music Corporation](genie_music_corporation.md) | 💚   | [🔗](https://open.spotify.com/track/5U7emXCoCl8EOEJUVNbguC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a435b6276480ed558eece0fd" alt="" width="50" /> | SMILEY(Feat. BIBI)                        | ˣ‿ˣ (SMiLEY)                                                         | YENA, BIBI                                        | [Stone Music Entertainment](stone_music_entertainment.md), [Genie Music Corporation](genie_music_corporation.md) | 💚   | [🔗](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d39be786935ba10b5875fa53" alt="" width="50" /> | SMARTPHONE                                | SMARTPHONE                                                           | YENA                                              | [Stone Music Entertainment](stone_music_entertainment.md), [Genie Music Corporation](genie_music_corporation.md) |     | [🔗](https://open.spotify.com/track/3660VWl7PCUsXhZlakn0KY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c3cc49220a7dd0bda6e55bb9" alt="" width="50" /> | Love War (Feat. BE'O)                     | Love War                                                             | YENA, BE'O                                        | [Stone Music Entertainment](stone_music_entertainment.md), [Genie Music Corporation](genie_music_corporation.md) | 💚   | [🔗](https://open.spotify.com/track/1UjN1QVbHnzJiqjkqzWmZK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735c2efa8ce12c99a92b914e20" alt="" width="50" /> | LAW (Prod. Czaer)                         | Street Man Fighter Original Vol.3 (Mission by Rank)                  | Yoon Mirae, BIBI                                  | [Genie Music Corporation](genie_music_corporation.md)                                                            | 💚   | [🔗](https://open.spotify.com/track/0VES0jpNQEdRpD31gYDIMe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735c2efa8ce12c99a92b914e20" alt="" width="50" /> | New thing (Prod. ZICO) (Feat. Homies)     | Street Man Fighter Original Vol.3 (Mission by Rank)                  | ZICO, HOMIES                                      | [Genie Music Corporation](genie_music_corporation.md)                                                            | 💚   | [🔗](https://open.spotify.com/track/5mdWIwsJAzR97ShGkt8gcR) |

@@ -313,10 +313,10 @@
 |                 25 | indie pop                                           |
 |                 23 | [rock](../genres/rock.md)                           |
 |                 20 | modern rock                                         |
-|                 20 | [dance pop](../genres/dance_pop.md)                 |
 |                 20 | [art pop](../genres/art_pop.md)                     |
-|                 18 | [lilith](../genres/lilith.md)                       |
+|                 19 | [dance pop](../genres/dance_pop.md)                 |
 |                 18 | [electropop](../genres/electropop.md)               |
+|                 17 | [lilith](../genres/lilith.md)                       |
 |                 17 | baroque pop                                         |
 |                 16 | uk alternative pop                                  |
 |                 16 | permanent wave                                      |

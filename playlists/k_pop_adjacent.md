@@ -3,17 +3,17 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27318ff322fcdd47c9400872da6ab67616d0000b27363e0ddbb488d0eeec0e738fcab67616d0000b27384095737f6056e682666d6f9ab67616d0000b273f2bf9685109a09bdc176fb43" alt="K-Pop-Adjacent" width="100" />
 
-[14 songs](k_pop_adjacent_tracks.md)
+[15 songs](k_pop_adjacent_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 20 artists](../images/playlists/k_pop_adjacent/artists.png)
+![Bar chart of top 21 artists](../images/playlists/k_pop_adjacent/artists.png)
 
 ![Comparison of Artist](../images/playlists/k_pop_adjacent/artists_comparison.png)
 
 
 <details>
-<summary>See all 20 artists</summary>
+<summary>See all 21 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist            | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:------------------|:------------------------------------------------------------|
@@ -34,6 +34,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2e55922ed7b80e66863f3345" alt="" width="50" /> | ABIR              | [🔗](https://open.spotify.com/artist/3QUOtWgmuxFyae4C0Q0thd) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb61d3f392c4b11e9e54280a9" alt="" width="50" /> | Madison Beer      | [🔗](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb894ef9fa437b0389c5567cc" alt="" width="50" /> | Post Malone       | [🔗](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2822fcd3337b030199b3861a" alt="" width="50" /> | Pink Sweat$       | [🔗](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba8bcfb642ea4803e36b73b0a" alt="" width="50" /> | Bishop Briggs     | [🔗](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb22b2d4713c50ae25a7201429" alt="" width="50" /> | DaniLeigh         | [🔗](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe818f7ca0d47f038a9aa246a" alt="" width="50" /> | G-Eazy            | [🔗](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) |
@@ -43,15 +44,16 @@
 
 ## Top Albums
 
-![Bar chart of top 14 albums](../images/playlists/k_pop_adjacent/albums.png)
+![Bar chart of top 15 albums](../images/playlists/k_pop_adjacent/albums.png)
 
 
 <details>
-<summary>See all 14 albums</summary>
+<summary>See all 15 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album            | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------|:-----------------------------------------------------------|
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27384095737f6056e682666d6f9" alt="" width="50" /> | Tomboy           | [🔗](https://open.spotify.com/album/2uDZBeyyQ7mfwF9mUJeYUG) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="" width="50" /> | The Prelude      | [🔗](https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27318ff322fcdd47c9400872da6" alt="" width="50" /> | TAKE TIME        | [🔗](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="" width="50" /> | Slime & B        | [🔗](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="" width="50" /> | Purpose (Deluxe) | [🔗](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) |
@@ -71,11 +73,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 19 record labels](../images/playlists/k_pop_adjacent/labels.png)
+![Bar chart of top 20 record labels](../images/playlists/k_pop_adjacent/labels.png)
 
 
 <details>
-<summary>See all 19 labels</summary>
+<summary>See all 20 labels</summary>
 
 |   Number of Tracks | Label                                                               |
 |-------------------:|:--------------------------------------------------------------------|
@@ -97,6 +99,7 @@
 |                  1 | [Def Jam Recordings](../labels/def_jam_recordings.md)               |
 |                  1 | [Columbia](../labels/columbia.md)                                   |
 |                  1 | [Chris Brown Entertainment](../labels/chris_brown_entertainment.md) |
+|                  1 | [Atlantic Records](../labels/atlantic_records.md)                   |
 |                  1 | [300 Entertainment](../labels/300_entertainment.md)                 |
 
 </details>
@@ -104,15 +107,15 @@
 
 ## Genres
 
-![Bar chart of top 19 genres](../images/playlists/k_pop_adjacent/genres.png)
+![Bar chart of top 21 genres](../images/playlists/k_pop_adjacent/genres.png)
 
 
 <details>
-<summary>See all 19 genres</summary>
+<summary>See all 21 genres</summary>
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
-|                  7 | [pop](../genres/pop.md)                           |
+|                  8 | [pop](../genres/pop.md)                           |
 |                  3 | [r&b](../genres/r_b.md)                           |
 |                  3 | [dance pop](../genres/dance_pop.md)               |
 |                  2 | rap                                               |
@@ -131,6 +134,8 @@
 |                  1 | [electropop](../genres/electropop.md)             |
 |                  1 | edm                                               |
 |                  1 | dfw rap                                           |
+|                  1 | chill r&b                                         |
+|                  1 | bedroom soul                                      |
 
 </details>
 
@@ -141,89 +146,89 @@
 |:--------------------------------------------|:--------------------------------------------|
 | MALAMENTE - Cap.1: Augurio                  | Break My Heart Myself (feat. Travis Barker) |
 | Cravin (feat. G-Eazy)                       | River                                       |
-| Motley Crew                                 | Mushroom Chocolate (with 6LACK)             |
-| City Girls                                  | Cry for Me                                  |
-| Break My Heart Myself (feat. Travis Barker) | VILLAIN                                     |
-| River                                       | Tomboy                                      |
-| Mushroom Chocolate (with 6LACK)             | Tango                                       |
-| Cry for Me                                  | Off My Face                                 |
-| VILLAIN                                     | Heartbreak Anniversary                      |
-| Tomboy                                      | I'll Show You                               |
+| At My Worst                                 | Mushroom Chocolate (with 6LACK)             |
+| Motley Crew                                 | Cry for Me                                  |
+| City Girls                                  | VILLAIN                                     |
+| Break My Heart Myself (feat. Travis Barker) | Tomboy                                      |
+| River                                       | Tango                                       |
+| Mushroom Chocolate (with 6LACK)             | Off My Face                                 |
+| Cry for Me                                  | Heartbreak Anniversary                      |
+| VILLAIN                                     | I'll Show You                               |
 
 | 10 most Energetic tracks                    | 10 least Energetic tracks       |
 |:--------------------------------------------|:--------------------------------|
-| Break My Heart Myself (feat. Travis Barker) | Motley Crew                     |
-| Cry for Me                                  | I'll Show You                   |
-| Tomboy                                      | City Girls                      |
-| VILLAIN                                     | Mushroom Chocolate (with 6LACK) |
-| Motley Crew                                 | Cravin (feat. G-Eazy)           |
-| I'll Show You                               | Tango                           |
-| City Girls                                  | MALAMENTE - Cap.1: Augurio      |
-| Mushroom Chocolate (with 6LACK)             | River                           |
-| Cravin (feat. G-Eazy)                       | Heartbreak Anniversary          |
+| Break My Heart Myself (feat. Travis Barker) | I'll Show You                   |
+| Cry for Me                                  | City Girls                      |
+| Tomboy                                      | Mushroom Chocolate (with 6LACK) |
+| VILLAIN                                     | Cravin (feat. G-Eazy)           |
+| Motley Crew                                 | Tango                           |
+| I'll Show You                               | MALAMENTE - Cap.1: Augurio      |
+| City Girls                                  | River                           |
+| Mushroom Chocolate (with 6LACK)             | Heartbreak Anniversary          |
+| Cravin (feat. G-Eazy)                       | At My Worst                     |
 | Tango                                       | Off My Face                     |
 
 | 10 most Speechy tracks                      | 10 least Speechy tracks                     |
 |:--------------------------------------------|:--------------------------------------------|
-| Cravin (feat. G-Eazy)                       | MALAMENTE - Cap.1: Augurio                  |
-| Tango                                       | Heartbreak Anniversary                      |
-| I'll Show You                               | Motley Crew                                 |
-| Cry for Me                                  | Break My Heart Myself (feat. Travis Barker) |
-| MALAMENTE - Cap.1: Augurio                  | City Girls                                  |
-| Heartbreak Anniversary                      | River                                       |
-| Motley Crew                                 | Mushroom Chocolate (with 6LACK)             |
-| Break My Heart Myself (feat. Travis Barker) | Tomboy                                      |
-| City Girls                                  | VILLAIN                                     |
+| Cravin (feat. G-Eazy)                       | Heartbreak Anniversary                      |
+| Tango                                       | Motley Crew                                 |
+| I'll Show You                               | Break My Heart Myself (feat. Travis Barker) |
+| Cry for Me                                  | City Girls                                  |
+| MALAMENTE - Cap.1: Augurio                  | River                                       |
+| Heartbreak Anniversary                      | Mushroom Chocolate (with 6LACK)             |
+| Motley Crew                                 | Tomboy                                      |
+| Break My Heart Myself (feat. Travis Barker) | VILLAIN                                     |
+| City Girls                                  | At My Worst                                 |
 | River                                       | Off My Face                                 |
 
 | 10 most Acoustic tracks                     | 10 least Acoustic tracks                    |
 |:--------------------------------------------|:--------------------------------------------|
 | Off My Face                                 | Tomboy                                      |
-| Mushroom Chocolate (with 6LACK)             | Break My Heart Myself (feat. Travis Barker) |
-| MALAMENTE - Cap.1: Augurio                  | River                                       |
-| Heartbreak Anniversary                      | Tango                                       |
-| Tomboy                                      | Cravin (feat. G-Eazy)                       |
-| Break My Heart Myself (feat. Travis Barker) | Motley Crew                                 |
-| River                                       | I'll Show You                               |
-| Tango                                       | Cry for Me                                  |
-| Cravin (feat. G-Eazy)                       | City Girls                                  |
-| Motley Crew                                 | VILLAIN                                     |
+| At My Worst                                 | Break My Heart Myself (feat. Travis Barker) |
+| Mushroom Chocolate (with 6LACK)             | River                                       |
+| MALAMENTE - Cap.1: Augurio                  | Tango                                       |
+| Heartbreak Anniversary                      | Cravin (feat. G-Eazy)                       |
+| Tomboy                                      | Motley Crew                                 |
+| Break My Heart Myself (feat. Travis Barker) | I'll Show You                               |
+| River                                       | Cry for Me                                  |
+| Tango                                       | City Girls                                  |
+| Cravin (feat. G-Eazy)                       | VILLAIN                                     |
 
-| 10 most Instrumental tracks                 | 10 least Instrumental tracks                |
-|:--------------------------------------------|:--------------------------------------------|
-| MALAMENTE - Cap.1: Augurio                  | Motley Crew                                 |
-| Tomboy                                      | River                                       |
-| I'll Show You                               | Heartbreak Anniversary                      |
-| Mushroom Chocolate (with 6LACK)             | Cravin (feat. G-Eazy)                       |
-| Motley Crew                                 | VILLAIN                                     |
-| River                                       | City Girls                                  |
-| Heartbreak Anniversary                      | Cry for Me                                  |
-| Tango                                       | Break My Heart Myself (feat. Travis Barker) |
-| Off My Face                                 | Off My Face                                 |
-| Break My Heart Myself (feat. Travis Barker) | Tango                                       |
-
-| 10 most Live tracks             | 10 least Live tracks                        |
+| 10 most Instrumental tracks     | 10 least Instrumental tracks                |
 |:--------------------------------|:--------------------------------------------|
-| Heartbreak Anniversary          | Cravin (feat. G-Eazy)                       |
-| I'll Show You                   | Tango                                       |
-| Cry for Me                      | Off My Face                                 |
-| Tomboy                          | Motley Crew                                 |
-| Cravin (feat. G-Eazy)           | VILLAIN                                     |
-| Tango                           | Mushroom Chocolate (with 6LACK)             |
-| Off My Face                     | Break My Heart Myself (feat. Travis Barker) |
-| Motley Crew                     | MALAMENTE - Cap.1: Augurio                  |
-| VILLAIN                         | River                                       |
-| Mushroom Chocolate (with 6LACK) | City Girls                                  |
+| MALAMENTE - Cap.1: Augurio      | River                                       |
+| Tomboy                          | Heartbreak Anniversary                      |
+| I'll Show You                   | Cravin (feat. G-Eazy)                       |
+| Mushroom Chocolate (with 6LACK) | VILLAIN                                     |
+| Motley Crew                     | City Girls                                  |
+| River                           | Cry for Me                                  |
+| Heartbreak Anniversary          | Break My Heart Myself (feat. Travis Barker) |
+| At My Worst                     | Off My Face                                 |
+| Tango                           | Tango                                       |
+| Off My Face                     | At My Worst                                 |
+
+| 10 most Live tracks    | 10 least Live tracks                        |
+|:-----------------------|:--------------------------------------------|
+| Heartbreak Anniversary | Cravin (feat. G-Eazy)                       |
+| I'll Show You          | Tango                                       |
+| Cry for Me             | Off My Face                                 |
+| At My Worst            | Motley Crew                                 |
+| Tomboy                 | VILLAIN                                     |
+| Cravin (feat. G-Eazy)  | Mushroom Chocolate (with 6LACK)             |
+| Tango                  | Break My Heart Myself (feat. Travis Barker) |
+| Off My Face            | MALAMENTE - Cap.1: Augurio                  |
+| Motley Crew            | River                                       |
+| VILLAIN                | City Girls                                  |
 
 | 10 most Happy tracks                        | 10 least Happy tracks                       |
 |:--------------------------------------------|:--------------------------------------------|
 | City Girls                                  | Heartbreak Anniversary                      |
-| Cry for Me                                  | Cravin (feat. G-Eazy)                       |
-| Off My Face                                 | Mushroom Chocolate (with 6LACK)             |
-| River                                       | MALAMENTE - Cap.1: Augurio                  |
-| Heartbreak Anniversary                      | Break My Heart Myself (feat. Travis Barker) |
-| Cravin (feat. G-Eazy)                       | Tango                                       |
-| Mushroom Chocolate (with 6LACK)             | Tomboy                                      |
-| MALAMENTE - Cap.1: Augurio                  | VILLAIN                                     |
-| Break My Heart Myself (feat. Travis Barker) | Motley Crew                                 |
-| Tango                                       | I'll Show You                               |
+| At My Worst                                 | Cravin (feat. G-Eazy)                       |
+| Cry for Me                                  | Mushroom Chocolate (with 6LACK)             |
+| Off My Face                                 | MALAMENTE - Cap.1: Augurio                  |
+| River                                       | Break My Heart Myself (feat. Travis Barker) |
+| Heartbreak Anniversary                      | Tango                                       |
+| Cravin (feat. G-Eazy)                       | Tomboy                                      |
+| Mushroom Chocolate (with 6LACK)             | VILLAIN                                     |
+| MALAMENTE - Cap.1: Augurio                  | Motley Crew                                 |
+| Break My Heart Myself (feat. Travis Barker) | I'll Show You                               |

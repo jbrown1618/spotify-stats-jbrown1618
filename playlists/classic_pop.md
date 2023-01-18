@@ -161,7 +161,7 @@
 |                 17 | [mellow gold](../genres/mellow_gold.md)             |
 |                 13 | motown                                              |
 |                 12 | [adult standards](../genres/adult_standards.md)     |
-|                  9 | folk rock                                           |
+|                  9 | [folk rock](../genres/folk_rock.md)                 |
 |                  8 | [r&b](../genres/r_b.md)                             |
 |                  8 | [pop](../genres/pop.md)                             |
 |                  8 | folk                                                |
@@ -186,11 +186,11 @@
 |                  1 | southern soul                                       |
 |                  1 | smooth jazz                                         |
 |                  1 | roots rock                                          |
-|                  1 | rock-and-roll                                       |
 |                  1 | permanent wave                                      |
 |                  1 | latin pop                                           |
 |                  1 | jazz trumpet                                        |
 |                  1 | jazz blues                                          |
+|                  1 | indie r&b                                           |
 |                  1 | [hollywood](../genres/hollywood.md)                 |
 |                  1 | doo-wop                                             |
 |                  1 | country rock                                        |

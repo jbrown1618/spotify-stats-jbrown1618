@@ -26,7 +26,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb624ddceb90bdf808ed4e2e35" alt="" width="50" /> | Steve Miller Band                                      | [🔗](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe86f788af4e127154da1257f" alt="" width="50" /> | Bonnie Raitt                                           | [🔗](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273743ebb11200358b5c050f542" alt="" width="50" /> | Harry Chapin                                           | [🔗](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb158e511237e045874689da71" alt="" width="50" /> | Chicago                                                | [🔗](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebbab088e2157b02848dfcbc1e" alt="" width="50" /> | Chicago                                                | [🔗](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fbc98da6995bb0a504ed363d" alt="" width="50" /> | The Archies                                            | [🔗](https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfed5626c008ba961a81dd218" alt="" width="50" /> | Dr. John                                               | [🔗](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) |
 

@@ -3,17 +3,17 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="Sharon RPD" width="100" />
 
-[39 songs](sharon_rpd_tracks.md)
+[40 songs](sharon_rpd_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 29 artists](../images/playlists/sharon_rpd/artists.png)
+![Bar chart of top 30 artists](../images/playlists/sharon_rpd/artists.png)
 
 ![Comparison of Artist](../images/playlists/sharon_rpd/artists_comparison.png)
 
 
 <details>
-<summary>See all 29 artists</summary>
+<summary>See all 30 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                 | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:------------------------------------------------------------|
@@ -38,6 +38,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3806dc272074141b5f4ae00d" alt="" width="50" /> | MONSTA X                               | [🔗](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb66701ca609176d8fd4a9c4a0" alt="" width="50" /> | NCT                                    | [🔗](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bd65b0efee10bfa8328c33b" alt="" width="50" /> | NCT U                                  | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb74f9c3e4ad2e130f8f338858" alt="" width="50" /> | P1Harmony                              | [🔗](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0222fa7cba5da5c28ea5d296" alt="" width="50" /> | BTOB                                   | [🔗](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | [CHUNG HA](../artists/chung_ha.md)     | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
@@ -56,7 +57,7 @@
 
 
 <details>
-<summary>See all 36 albums</summary>
+<summary>See all 37 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                            | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------|:-----------------------------------------------------------|
@@ -85,6 +86,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | Love Yourself 結 'Answer'                         | [🔗](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093" alt="" width="50" /> | LOVE DIVE                                        | [🔗](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19" alt="" width="50" /> | LALISA                                           | [🔗](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273700c67465db0a6d66c3a36d6" alt="" width="50" /> | HARMONY : ZERO IN                                | [🔗](https://open.spotify.com/album/73CTPjApMDvFsycjbbROji) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Girls - The 2nd Mini Album                       | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555" alt="" width="50" /> | FEARLESS                                         | [🔗](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | ELEVEN                                           | [🔗](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) |
@@ -102,11 +104,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 21 record labels](../images/playlists/sharon_rpd/labels.png)
+![Bar chart of top 22 record labels](../images/playlists/sharon_rpd/labels.png)
 
 
 <details>
-<summary>See all 21 labels</summary>
+<summary>See all 22 labels</summary>
 
 |   Number of Tracks | Label                                                                 |
 |-------------------:|:----------------------------------------------------------------------|
@@ -127,6 +129,7 @@
 |                  1 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)             |
 |                  1 | [PLAY M ENTERTAINMENT CORP.](../labels/play_m_entertainment_corp_.md) |
 |                  1 | [Genie Music Corporation](../labels/genie_music_corporation.md)       |
+|                  1 | [FNC ENTERTAINMENT](../labels/fnc_entertainment.md)                   |
 |                  1 | [Chris Brown Entertainment](../labels/chris_brown_entertainment.md)   |
 |                  1 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                 |
 |                  1 | [88rising Music](../labels/88rising_music.md)                         |
@@ -145,9 +148,9 @@
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
-|                 27 | [k-pop](../genres/k_pop.md)                       |
+|                 28 | [k-pop](../genres/k_pop.md)                       |
 |                 18 | [k-pop girl group](../genres/k_pop_girl_group.md) |
-|                 12 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
+|                 13 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
 |                  2 | anime                                             |
 |                  1 | [r&b](../genres/r_b.md)                           |
 |                  1 | [pop](../genres/pop.md)                           |
@@ -176,8 +179,8 @@
 | Hype Boy                                          | Shut Down                   |
 | Black Mamba                                       | RUN2U                       |
 | Alcohol-Free                                      | Psycho                      |
-| Queendom                                          | LALISA                      |
-| Dope                                              | Attention                   |
+| Dope                                              | LALISA                      |
+| Queendom                                          | Attention                   |
 | LOCO                                              | FEARLESS                    |
 | Boy With Luv (feat. Halsey)                       | Blow                        |
 | GAMBLER                                           | City Girls                  |
@@ -188,8 +191,8 @@
 |:--------------------------------------------------|:--------------------------|
 | Ice Cream (with Selena Gomez)                     | Holiday Party             |
 | Thunderous                                        | Illusion                  |
-| Dope                                              | Psycho                    |
-| Hype Boy                                          | LOVE DIVE                 |
+| Hype Boy                                          | Psycho                    |
+| Dope                                              | LOVE DIVE                 |
 | LOCO                                              | Pretty Savage             |
 | MIC Drop (Steve Aoki Remix) - Full Length Edition | HOT                       |
 | Run BTS                                           | Shut Down                 |
@@ -199,15 +202,15 @@
 
 | 10 most Acoustic tracks     | 10 least Acoustic tracks   |
 |:----------------------------|:---------------------------|
-| Missing You                 | Dynamite                   |
-| Hype Boy                    | LOCO                       |
-| Attention                   | Pretty Savage              |
-| Thunderous                  | Holiday Party              |
-| Psycho                      | WHISTLE                    |
-| Queendom                    | GAMBLER                    |
-| ASAP                        | Blow                       |
-| Boy With Luv (feat. Halsey) | Shut Down                  |
-| ANTIFRAGILE                 | LOVE DIVE                  |
+| Missing You                 | LOCO                       |
+| Hype Boy                    | Pretty Savage              |
+| Attention                   | Holiday Party              |
+| Thunderous                  | WHISTLE                    |
+| Psycho                      | GAMBLER                    |
+| Queendom                    | Blow                       |
+| ASAP                        | Shut Down                  |
+| Boy With Luv (feat. Halsey) | LOVE DIVE                  |
+| ANTIFRAGILE                 | Doom Du Doom               |
 | BAD GIRL (Prod. Czaer)      | RUN2U                      |
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
@@ -219,13 +222,13 @@
 | Pretty Savage                 | WHISTLE                        |
 | Ice Cream (with Selena Gomez) | Queendom                       |
 | LOVE DIVE                     | Pink Venom                     |
-| LOCO                          | ELEVEN                         |
-| Illusion                      | PLAYING WITH FIRE              |
-| RUN2U                         | Shut Down                      |
+| Doom Du Doom                  | ELEVEN                         |
+| LOCO                          | PLAYING WITH FIRE              |
+| Illusion                      | Shut Down                      |
 
 | 10 most Live tracks   | 10 least Live tracks          |
 |:----------------------|:------------------------------|
-| Step Back             | Psycho                        |
+| Step Back             | Doom Du Doom                  |
 | Dope                  | Attention                     |
 | LOCO                  | Blow                          |
 | HOT                   | Alcohol-Free                  |
@@ -240,11 +243,11 @@
 |:------------------------------|:------------------------|
 | Ice Cream (with Selena Gomez) | Missing You             |
 | LALISA                        | FEVER                   |
-| BAD GIRL (Prod. Czaer)        | FEARLESS                |
-| ANTIFRAGILE                   | DUMB DUMB               |
-| Go Big or Go Home             | Holiday Party           |
-| Blow                          | Psycho                  |
-| City Girls                    | RUN2U                   |
-| Boy With Luv (feat. Halsey)   | Pretty Savage           |
-| Thunderous                    | BOSS                    |
-| Hype Boy                      | ASAP                    |
+| Doom Du Doom                  | FEARLESS                |
+| BAD GIRL (Prod. Czaer)        | DUMB DUMB               |
+| ANTIFRAGILE                   | Holiday Party           |
+| Go Big or Go Home             | Psycho                  |
+| Blow                          | RUN2U                   |
+| City Girls                    | Pretty Savage           |
+| Boy With Luv (feat. Halsey)   | BOSS                    |
+| Thunderous                    | ASAP                    |

@@ -1,29 +1,30 @@
 # RBW Inc.
 
-30 songs
+31 songs
 
 Appears as:
 - RBW Inc. (18 tracks)
-- RBW, Inc (11 tracks)
+- RBW, Inc (12 tracks)
 - RBW, INC. (1 tracks)
 
 ## Top Artists
 
-![Bar chart of top 9 artists](../images/labels/rbw_inc_/artists.png)
+![Bar chart of top 10 artists](../images/labels/rbw_inc_/artists.png)
 
 
 <details>
-<summary>See all 9 artists</summary>
+<summary>See all 10 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                           | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------|:------------------------------------------------------------|
 |                 12 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../artists/mamamoo.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
-|                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | Hwa Sa                           | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
+|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | Hwa Sa                           | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb2d192f1d830db1eba64854fc" alt="" width="50" /> | Moon Byul                        | [🔗](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebea3e3a63d8bc191f631f6e0e" alt="" width="50" /> | PURPLE KISS                      | [🔗](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0b4c8d0a415cab50e033129" alt="" width="50" /> | Solar                            | [🔗](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb652b1738f121da382c3ab77b" alt="" width="50" /> | ONEUS                            | [🔗](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbb19ac3f264dea7cea4c42b" alt="" width="50" /> | Whee In                          | [🔗](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733accfe72fd85d00c777096c8" alt="" width="50" /> | WOOGIE                           | [🔗](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbca2e91d07d2c53e6610570" alt="" width="50" /> | Seori                            | [🔗](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebde8ad216e0ff7a76573c835e" alt="" width="50" /> | SEULGI                           | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
 
@@ -32,11 +33,11 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 24 albums](../images/labels/rbw_inc_/albums.png)
+![Bar chart of top 25 albums](../images/labels/rbw_inc_/albums.png)
 
 
 <details>
-<summary>See all 24 albums</summary>
+<summary>See all 25 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                  | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------|:-----------------------------------------------------------|
@@ -58,6 +59,7 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731ecc60c0ad785d457bdc0a36" alt="" width="50" /> | SPIT IT OUT            | [🔗](https://open.spotify.com/album/1pLSlOXtHKPoSoB6ovnIAK) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273294c757e724cc58bbbd29287" alt="" width="50" /> | SELFISH                | [🔗](https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a84d6d77bb01c3bd737c47d7" alt="" width="50" /> | María                  | [🔗](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733accfe72fd85d00c777096c8" alt="" width="50" /> | Hwa:telier             | [🔗](https://open.spotify.com/album/20xEJwUlmfoSLoK5AhEucL) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730865f5f5799f2ee1b3c0fcec" alt="" width="50" /> | HIDE & SEEK            | [🔗](https://open.spotify.com/album/1Oh6STLhW6dxRAkvOUBHl8) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730b479d89335fbca7de943443" alt="" width="50" /> | Geekyland              | [🔗](https://open.spotify.com/album/7EDCoH5wfSGYdZ7wXCmTF4) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b4fd0ba98f675df97c5748b1" alt="" width="50" /> | Dingga                 | [🔗](https://open.spotify.com/album/4xzsBcZaK04c8IE5iVyMNK) |
@@ -78,9 +80,9 @@ Appears as:
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
-|                 30 | [k-pop](../genres/k_pop.md)                       |
+|                 31 | [k-pop](../genres/k_pop.md)                       |
 |                 12 | [k-pop girl group](../genres/k_pop_girl_group.md) |
-|                  4 | korean talent show                                |
+|                  5 | korean talent show                                |
 |                  2 | korean ost                                        |
 |                  2 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
 
@@ -92,6 +94,7 @@ Appears as:
 | Art                                                                                              | Track                                | Album                  | Artists                          | Label                    | 💚   | 🔗                                                          |
 |:-------------------------------------------------------------------------------------------------|:-------------------------------------|:-----------------------|:---------------------------------|:-------------------------|:----|:-----------------------------------------------------------|
 | <img src="https://i.scdn.co/image/ab67616d0000b27346c377827f3ad9fa6b0f64df" alt="" width="50" /> | TWIT                                 | TWIT                   | Hwa Sa                           | [RBW, Inc](rbw_inc_.md)  | 💚   | [🔗](https://open.spotify.com/track/6qyz1KOlGJsKYJ4ZsRmRSD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733accfe72fd85d00c777096c8" alt="" width="50" /> | In The Fall                          | Hwa:telier             | Hwa Sa, WOOGIE                   | [RBW, Inc](rbw_inc_.md)  | 💚   | [🔗](https://open.spotify.com/track/2esmbUCwduwG8SyN4RAwmM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a84d6d77bb01c3bd737c47d7" alt="" width="50" /> | Maria                                | María                  | Hwa Sa                           | [RBW, Inc](rbw_inc_.md)  | 💚   | [🔗](https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731dfb11871aa63ac9010c0619" alt="" width="50" /> | FOMO                                 | Guilty Pleasure        | Hwa Sa                           | [RBW Inc.](rbw_inc_.md)  |     | [🔗](https://open.spotify.com/track/3f2I2bydLQ38Xr0jvUcNJn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731dfb11871aa63ac9010c0619" alt="" width="50" /> | I`m a B                              | Guilty Pleasure        | Hwa Sa                           | [RBW Inc.](rbw_inc_.md)  | 💚   | [🔗](https://open.spotify.com/track/1AToLLvWghQgiBFef1iGuR) |

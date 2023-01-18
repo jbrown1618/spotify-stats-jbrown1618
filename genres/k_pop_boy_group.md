@@ -1,6 +1,6 @@
 # k-pop boy group
 
-[247 songs](k_pop_boy_group_tracks.md)
+[241 songs](k_pop_boy_group_tracks.md)
 
 ## Top Artists
 
@@ -16,9 +16,9 @@
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:------------------------------------------------------------|
 |                 46 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 |                 33 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)               | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
-|                 22 | <img src="https://i.scdn.co/image/ab6761610000e5eb7401998434b12fffd119ae18" alt="" width="50" /> | [NCT 127](../artists/nct_127.md)       | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
 |                 22 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)       | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 |                 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="" width="50" /> | [SEVENTEEN](../artists/seventeen.md)   | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
+|                 16 | <img src="https://i.scdn.co/image/ab6761610000e5eb7401998434b12fffd119ae18" alt="" width="50" /> | [NCT 127](../artists/nct_127.md)       | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
 |                 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="" width="50" /> | [EXO](../artists/exo.md)               | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb5d87e2a10ba3b2f8bb2c5270" alt="" width="50" /> | ATEEZ                                  | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb63329d77582c519154674fd7" alt="" width="50" /> | TOMORROW X TOGETHER                    | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
@@ -68,8 +68,8 @@
 |   Number of Tracks | Art                                                                                              | Album                                              | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------|:-----------------------------------------------------------|
 |                 13 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | SKZ-REPLAY                                         | [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) |
-|                 12 | <img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="" width="50" /> | 2 Baddies - The 4th Album                          | [🔗](https://open.spotify.com/album/6p80QT3z7kOHpYdnsItQTQ) |
 |                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | NOEASY                                             | [🔗](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) |
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="" width="50" /> | 2 Baddies - The 4th Album                          | [🔗](https://open.spotify.com/album/6p80QT3z7kOHpYdnsItQTQ) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | ODDINARY                                           | [🔗](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="" width="50" /> | DIMENSION : DILEMMA                                | [🔗](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273decd839dd4fef3faf64c5fd5" alt="" width="50" /> | SEVENTEEN 4th Album 'Face the Sun'                 | [🔗](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) |
@@ -181,7 +181,7 @@
 
 |   Number of Tracks | Label                                                               |
 |-------------------:|:--------------------------------------------------------------------|
-|                 63 | [SM Entertainment](../labels/sm_entertainment.md)                   |
+|                 57 | [SM Entertainment](../labels/sm_entertainment.md)                   |
 |                 52 | [Republic Records](../labels/republic_records.md)                   |
 |                 32 | [BIGHIT MUSIC](../labels/bighit_music.md)                           |
 |                 20 | [BELIFT LAB](../labels/belift_lab.md)                               |
@@ -267,18 +267,18 @@
 | Singularity                 | Easy                       |
 | Back 2 U (AM 01:27)         | Mr. Simple                 |
 
-| 10 most Instrumental tracks   | 10 least Instrumental tracks      |
-|:------------------------------|:----------------------------------|
-| Fairy of Shampoo              | Guerrilla                         |
-| Singularity                   | Devil                             |
-| Mr. Simple                    | Lo Siento                         |
-| HALAZIA                       | Mamacita (아야야)                    |
-| Lemonade                      | Black Suit                        |
-| Ring Ding Dong                | House Party                       |
-| Danger                        | Back Down                         |
-| Tasty                         | Do It Like This - English Version |
-| Airplane pt.2                 | Do It Like This                   |
-| Sour                          | Monster                           |
+| 10 most Instrumental tracks   | 10 least Instrumental tracks   |
+|:------------------------------|:-------------------------------|
+| Fairy of Shampoo              | Deja Vu                        |
+| Singularity                   | Answer                         |
+| Mr. Simple                    | Guerrilla                      |
+| HALAZIA                       | Devil                          |
+| Lemonade                      | Lo Siento                      |
+| Ring Ding Dong                | Mamacita (아야야)                 |
+| Danger                        | Black Suit                     |
+| Airplane pt.2                 | House Party                    |
+| Sour                          | Back Down                      |
+| Doom Du Doom                  | FEVER                          |
 
 | 10 most Live tracks             | 10 least Live tracks       |
 |:--------------------------------|:---------------------------|

@@ -289,7 +289,7 @@
 
 
 <details>
-<summary>See all 33 genres</summary>
+<summary>See all 34 genres</summary>
 
 |   Number of Tracks | Genre                                                 |
 |-------------------:|:------------------------------------------------------|
@@ -309,6 +309,7 @@
 |                  2 | [singer-songwriter](../genres/singer_songwriter.md)   |
 |                  2 | [rock](../genres/rock.md)                             |
 |                  2 | [mellow gold](../genres/mellow_gold.md)               |
+|                  2 | [folk rock](../genres/folk_rock.md)                   |
 |                  2 | [classic rock](../genres/classic_rock.md)             |
 |                  2 | christian a cappella                                  |
 |                  1 | west end                                              |
@@ -319,8 +320,8 @@
 |                  1 | renaissance                                           |
 |                  1 | piano rock                                            |
 |                  1 | permanent wave                                        |
+|                  1 | indie r&b                                             |
 |                  1 | franco-flemish school                                 |
-|                  1 | folk rock                                             |
 |                  1 | folk                                                  |
 |                  1 | [early music](../genres/early_music.md)               |
 |                  1 | [classical](../genres/classical.md)                   |

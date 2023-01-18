@@ -1,6 +1,6 @@
 # Interscope Records
 
-63 songs
+64 songs
 
 Appears as:
 - YG Entertainment/Interscope Records (19 tracks)
@@ -15,14 +15,15 @@ Appears as:
 - Mosley / Interscope (2 tracks)
 - Fantasy Soul/Interscope Records (1 tracks)
 - Friends Keep Secrets/Def Jam Recordings/Interscope Records (1 tracks)
+- THEBLACKLABEL/Interscope Records (1 tracks)
 
 ## Top Artists
 
-![Bar chart of top 22 artists](../images/labels/interscope_records/artists.png)
+![Bar chart of top 24 artists](../images/labels/interscope_records/artists.png)
 
 
 <details>
-<summary>See all 22 artists</summary>
+<summary>See all 24 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                       | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------|:------------------------------------------------------------|
@@ -37,6 +38,7 @@ Appears as:
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2d167f018561742f26a0997" alt="" width="50" /> | ROSÉ                                         | [🔗](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c44e078944196a8c1eec256" alt="" width="50" /> | Colby O'Donis                                | [🔗](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb676338904deb80cffb568216" alt="" width="50" /> | [Beyoncé](../artists/beyonc_.md)             | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd63cdcec79b1864df268c7bf" alt="" width="50" /> | TAEYANG                                      | [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1fd54eb6e30d0bc8f633621e" alt="" width="50" /> | Machine Gun Kelly                            | [🔗](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../artists/ariana_grande.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | benny blanco                                 | [🔗](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) |
@@ -47,6 +49,7 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/184674b36baa9cc7f0048502e78ce615a35ba08f" alt="" width="50" /> | Diddy - Dirty Money                          | [🔗](https://open.spotify.com/artist/2QYEvpsWUOjqaYuxDPTCmV) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc2c8185fc0902b43e35f671f" alt="" width="50" /> | JENNIE                                       | [🔗](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | Justin Bieber                                | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc04289f84778ad850cfcddca" alt="" width="50" /> | Jimin                                        | [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba5205abffd84341e5bace828" alt="" width="50" /> | Selena Gomez                                 | [🔗](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) |
 
 </details>
@@ -58,7 +61,7 @@ Appears as:
 
 
 <details>
-<summary>See all 30 albums</summary>
+<summary>See all 31 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                      | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------|:-----------------------------------------------------------|
@@ -77,6 +80,7 @@ Appears as:
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | Chromatica                                 | [🔗](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f2248cf6dad1d6c062587249" alt="" width="50" /> | everything i wanted                        | [🔗](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273748388a726648841ed81027e" alt="" width="50" /> | bloom                                      | [🔗](https://open.spotify.com/album/3yWRq9Dd2UO5xyqxTjLDmp) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f7994d33de90ec347aa477c3" alt="" width="50" /> | VIBE (feat. Jimin of BTS)                  | [🔗](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273442b53773d50e1b5369bb16c" alt="" width="50" /> | V                                          | [🔗](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273969438a8091085c2472a0766" alt="" width="50" /> | Til It Happens To You                      | [🔗](https://open.spotify.com/album/00qjYaNSNpQCZHhCpAlH60) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27317b3850d758fff5a2301e537" alt="" width="50" /> | Songs About Jane                           | [🔗](https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN) |
@@ -98,11 +102,11 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 14 genres](../images/labels/interscope_records/genres.png)
+![Bar chart of top 15 genres](../images/labels/interscope_records/genres.png)
 
 
 <details>
-<summary>See all 14 genres</summary>
+<summary>See all 15 genres</summary>
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
@@ -117,6 +121,7 @@ Appears as:
 |                  2 | modern rock                                       |
 |                  1 | pop rap                                           |
 |                  1 | ohio hip hop                                      |
+|                  1 | korean r&b                                        |
 |                  1 | indie r&b                                         |
 |                  1 | hip pop                                           |
 |                  1 | canadian pop                                      |
@@ -160,13 +165,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Typa Girl                        | BORN PINK                                  | [BLACKPINK](../artists/blackpink.md)                                               | [YG Entertainment](yg_entertainment.md), [Interscope Records](interscope_records.md)                           | 💚   | [🔗](https://open.spotify.com/track/0L8LOav65XwLjCLS11gNPD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Yeah Yeah Yeah                   | BORN PINK                                  | [BLACKPINK](../artists/blackpink.md)                                               | [YG Entertainment](yg_entertainment.md), [Interscope Records](interscope_records.md)                           | 💚   | [🔗](https://open.spotify.com/track/5TfKoQg9AjmDIWYKFoDqMN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b1cfc3df4d9d5d4cbce9208" alt="" width="50" /> | Hello Good Morning               | Last Train To Paris                        | Diddy - Dirty Money, T.I.                                                          | [Bad Boy / Interscope](interscope_records.md)                                                                  | 💚   | [🔗](https://open.spotify.com/track/7yzSijmAyOMBcHrK6Tfsoe) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" alt="" width="50" /> | Radioactive                      | Night Visions                              | Imagine Dragons                                                                    | [Kid Ina Korner / Interscope](interscope_records.md)                                                           | 💚   | [🔗](https://open.spotify.com/track/4G8gkOterJn0Ywt6uhqbhp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="" width="50" /> | Believer                         | Evolve                                     | Imagine Dragons                                                                    | [Kid Ina Korner / Interscope](interscope_records.md)                                                           | 💚   | [🔗](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" alt="" width="50" /> | Radioactive                      | Night Visions                              | Imagine Dragons                                                                    | [Kid Ina Korner / Interscope](kid_ina_korner.md)                                                               | 💚   | [🔗](https://open.spotify.com/track/4G8gkOterJn0Ywt6uhqbhp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="" width="50" /> | Believer                         | Evolve                                     | Imagine Dragons                                                                    | [Kid Ina Korner / Interscope](kid_ina_korner.md)                                                               | 💚   | [🔗](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27362e6288a5887b95176cca29e" alt="" width="50" /> | SOLO                             | SOLO                                       | JENNIE                                                                             | [YG Entertainment](yg_entertainment.md), [Interscope Records](interscope_records.md)                           | 💚   | [🔗](https://open.spotify.com/track/2wVDWtLKXunswWecARNILj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fddc804f96cdd6a7de9bcc09" alt="" width="50" /> | DUMB DUMB                        | DUMB DUMB                                  | JEON SOMI                                                                          | [THE BLACK LABEL/Interscope Records](the_black_label.md)                                                       | 💚   | [🔗](https://open.spotify.com/track/0dnkOK5hGUCmIJ7FDF0yHz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273350ecac91d0f0af55788c648" alt="" width="50" /> | Anymore                          | XOXO                                       | JEON SOMI                                                                          | [THE BLACK LABEL/Interscope Records](the_black_label.md)                                                       | 💚   | [🔗](https://open.spotify.com/track/6GwtJzM3yffZ4FJ39QuUcE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273350ecac91d0f0af55788c648" alt="" width="50" /> | XOXO                             | XOXO                                       | JEON SOMI                                                                          | [THE BLACK LABEL/Interscope Records](the_black_label.md)                                                       | 💚   | [🔗](https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27383b22beb73e2014b20159685" alt="" width="50" /> | Lonely (with benny blanco)       | Lonely (with benny blanco)                 | Justin Bieber, benny blanco                                                        | Friends Keep Secrets, [Interscope Records](interscope_records.md), [Def Jam Recordings](def_jam_recordings.md) | 💚   | [🔗](https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fddc804f96cdd6a7de9bcc09" alt="" width="50" /> | DUMB DUMB                        | DUMB DUMB                                  | JEON SOMI                                                                          | [THE BLACK LABEL/Interscope Records](interscope_records.md)                                                    | 💚   | [🔗](https://open.spotify.com/track/0dnkOK5hGUCmIJ7FDF0yHz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273350ecac91d0f0af55788c648" alt="" width="50" /> | Anymore                          | XOXO                                       | JEON SOMI                                                                          | [THE BLACK LABEL/Interscope Records](interscope_records.md)                                                    | 💚   | [🔗](https://open.spotify.com/track/6GwtJzM3yffZ4FJ39QuUcE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273350ecac91d0f0af55788c648" alt="" width="50" /> | XOXO                             | XOXO                                       | JEON SOMI                                                                          | [THE BLACK LABEL/Interscope Records](interscope_records.md)                                                    | 💚   | [🔗](https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27383b22beb73e2014b20159685" alt="" width="50" /> | Lonely (with benny blanco)       | Lonely (with benny blanco)                 | Justin Bieber, benny blanco                                                        | [Def Jam Recordings](def_jam_recordings.md), [Interscope Records](interscope_records.md), Friends Keep Secrets | 💚   | [🔗](https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | Just Dance                       | The Fame                                   | [Lady Gaga](../artists/lady_gaga.md), Colby O'Donis                                | [Interscope](interscope_records.md)                                                                            | 💚   | [🔗](https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | LoveGame                         | The Fame                                   | [Lady Gaga](../artists/lady_gaga.md)                                               | [Interscope](interscope_records.md)                                                                            | 💚   | [🔗](https://open.spotify.com/track/0TcJ7QWpggdSg8t0fHThHm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | Paparazzi                        | The Fame                                   | [Lady Gaga](../artists/lady_gaga.md)                                               | [Interscope](interscope_records.md)                                                                            |     | [🔗](https://open.spotify.com/track/7Hqig8kp32q2Ire3ECQvWM) |
@@ -191,3 +196,4 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2736564f1d8386a6993b4d5d759" alt="" width="50" /> | Mushroom Chocolate (with 6LACK)  | LUCID                                      | QUIN, 6LACK                                                                        | [Fantasy Soul/Interscope Records](fantasy_soul.md)                                                             | 💚   | [🔗](https://open.spotify.com/track/6DEhBd4RGr8MbSAtSNNtai) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f" alt="" width="50" /> | Gone                             | R                                          | ROSÉ                                                                               | [YG Entertainment](yg_entertainment.md), [Interscope Records](interscope_records.md)                           | 💚   | [🔗](https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f" alt="" width="50" /> | On The Ground                    | R                                          | ROSÉ                                                                               | [YG Entertainment](yg_entertainment.md), [Interscope Records](interscope_records.md)                           | 💚   | [🔗](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f7994d33de90ec347aa477c3" alt="" width="50" /> | VIBE (feat. Jimin of BTS)        | VIBE (feat. Jimin of BTS)                  | TAEYANG, Jimin                                                                     | [THEBLACKLABEL/Interscope Records](interscope_records.md)                                                      | 💚   | [🔗](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) |
