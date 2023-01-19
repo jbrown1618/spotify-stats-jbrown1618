@@ -2,7 +2,7 @@
 # TWICE
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5ebd84fd6ae9ccfc6206ea6711e" alt="TWICE" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb200008f1cb940483514db2bd" alt="TWICE" width="100" />
 
 ## Featured on Playlists
 |   Number of Tracks | Art                                                                                                                                                                                                                         | Playlist                                           |

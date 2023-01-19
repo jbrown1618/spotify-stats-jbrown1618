@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273f7da7c0f322b7a1c95190d92" alt="K-Pop" width="100" />
 
-[964 songs](k_pop_tracks.md)
+[963 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -19,13 +19,13 @@
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------|:------------------------------------------------------------|
 |                 60 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)               | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 |                 43 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md)               | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
-|                 34 | <img src="https://i.scdn.co/image/ab6761610000e5ebd84fd6ae9ccfc6206ea6711e" alt="" width="50" /> | [TWICE](../artists/twice.md)                         | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
+|                 34 | <img src="https://i.scdn.co/image/ab6761610000e5eb200008f1cb940483514db2bd" alt="" width="50" /> | [TWICE](../artists/twice.md)                         | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 |                 33 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)                             | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 |                 32 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../artists/itzy.md)                           | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                 30 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)                 | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 |                 30 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)                   | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 |                 27 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | [IU](../artists/iu.md)                               | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
-|                 24 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md)                     | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
+|                 23 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md)                     | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 |                 22 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)                     | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 |                 20 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../artists/leehi.md)                         | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 |                 20 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../artists/mamamoo.md)                     | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
@@ -245,7 +245,7 @@
 
 |   Number of Tracks | Label                                                                                                               |
 |-------------------:|:--------------------------------------------------------------------------------------------------------------------|
-|                220 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
+|                219 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
 |                103 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 61 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
 |                 56 | [Genie Music Corporation](../labels/genie_music_corporation.md)                                                     |
@@ -359,10 +359,10 @@
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
-|                810 | [k-pop](../genres/k_pop.md)                       |
+|                809 | [k-pop](../genres/k_pop.md)                       |
 |                366 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 |                232 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
-|                 54 | [pop](../genres/pop.md)                           |
+|                 53 | [pop](../genres/pop.md)                           |
 |                 34 | korean pop                                        |
 |                 30 | korean r&b                                        |
 |                 22 | anime                                             |
@@ -426,14 +426,14 @@
 
 | 10 most Speechy tracks        | 10 least Speechy tracks                    |
 |:------------------------------|:-------------------------------------------|
-| No More Dream                 | The Magic of Christmas Time                |
+| No More Dream                 | Hope Not                                   |
 | I Don't Need You              | Gee                                        |
-| Addicted                      | Wicked                                     |
-| MANIAC                        | Winter Sleep                               |
+| Addicted                      | Winter Sleep                               |
+| MANIAC                        | Wicked                                     |
 | Freedom                       | Rain and You                               |
 | Free Fall                     | Moonlight Melody                           |
-| Ice Cream (with Selena Gomez) | Slightly Tipsy (She is My Type♡ X SANDEUL) |
 | I GOT IT (HAN)                | She′s In The Rain                          |
+| Ice Cream (with Selena Gomez) | Slightly Tipsy (She is My Type♡ X SANDEUL) |
 | Feelin' Like                  | Sweet Night                                |
 | Signal                        | With                                       |
 
@@ -441,27 +441,27 @@
 |:-----------------------------------------------------|:---------------------------|
 | 그대라는 시                                               | HALAZIA                    |
 | How can I love the heartbreak, you're the one I love | Adios                      |
-| The Magic of Christmas Time                          | Attention, please!         |
-| ONLY                                                 | Red Light                  |
-| Deep end (Felix)                                     | Oh Sorry Ya                |
-| Boy in time - HUI Solo                               | Cyberpunk                  |
-| Run With Me                                          | Tamed-Dashed               |
-| Goodbye                                              | Easy                       |
-| MY LOVE                                              | Mr. Simple                 |
-| In The Fall                                          | Poison                     |
+| ONLY                                                 | Attention, please!         |
+| Deep end (Felix)                                     | Red Light                  |
+| Boy in time - HUI Solo                               | Oh Sorry Ya                |
+| Run With Me                                          | Cyberpunk                  |
+| Goodbye                                              | Tamed-Dashed               |
+| MY LOVE                                              | Easy                       |
+| In The Fall                                          | Mr. Simple                 |
+| Amusement Park                                       | Poison                     |
 
 | 10 most Instrumental tracks      | 10 least Instrumental tracks   |
 |:---------------------------------|:-------------------------------|
-| Tippy Toes                       | BLACK DRESS                    |
-| You and I (Park Bom)             | ANTIFRAGILE                    |
-| Adios                            | Bing Bing                      |
-| pporappippam                     | Let Me In (20 CUBE)            |
-| Badster                          | Jazz Bar                       |
-| YEPPI YEPPI                      | L.I.E                          |
-| It′s Raining                     | Designer                       |
-| So Hot                           | I GOT IT (HAN)                 |
-| GingaMingaYo (the strange world) | BBIBBI                         |
-| I Am The Best                    | Why So Lonely                  |
+| Tippy Toes                       | Black Swan                     |
+| You and I (Park Bom)             | TFW (That Feeling When)        |
+| Adios                            | The Red Shoes                  |
+| pporappippam                     | BREATHE                        |
+| Badster                          | Into The Abyss                 |
+| YEPPI YEPPI                      | Stay Gold                      |
+| It′s Raining                     | Frost                          |
+| So Hot                           | Twenty-three                   |
+| GingaMingaYo (the strange world) | First Time                     |
+| I Am The Best                    | Sorry                          |
 
 | 10 most Live tracks            | 10 least Live tracks                  |
 |:-------------------------------|:--------------------------------------|
@@ -479,12 +479,12 @@
 | 10 most Happy tracks   | 10 least Happy tracks     |
 |:-----------------------|:--------------------------|
 | Sour candy             | Lucid Dream               |
-| Devil                  | U                         |
-| Twenty-three           | Time After Time           |
+| Twenty-three           | U                         |
+| Devil                  | Time After Time           |
 | Pepe                   | My sea                    |
 | So Hot                 | In The Fall               |
 | Miniskirt              | Side Effects              |
-| Twinkle                | Good Night My Princess    |
-| 쏘리 쏘리 Sorry, Sorry     | 7월 7일 One Of These Nights |
-| Give it to me          | Grey Suit                 |
+| 쏘리 쏘리 Sorry, Sorry     | Good Night My Princess    |
+| Twinkle                | 7월 7일 One Of These Nights |
+| Some (feat. Lil Boi)   | Grey Suit                 |
 | Lion Heart             | The Road                  |

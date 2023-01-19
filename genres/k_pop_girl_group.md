@@ -1,6 +1,6 @@
 # k-pop girl group
 
-[386 songs](k_pop_girl_group_tracks.md)
+[385 songs](k_pop_girl_group_tracks.md)
 
 ## Top Artists
 
@@ -16,11 +16,11 @@
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------|:------------------------------------------------------------|
 |                 62 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)               | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 |                 37 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../artists/itzy.md)                           | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
-|                 36 | <img src="https://i.scdn.co/image/ab6761610000e5ebd84fd6ae9ccfc6206ea6711e" alt="" width="50" /> | [TWICE](../artists/twice.md)                         | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
+|                 36 | <img src="https://i.scdn.co/image/ab6761610000e5eb200008f1cb940483514db2bd" alt="" width="50" /> | [TWICE](../artists/twice.md)                         | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 |                 33 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)                   | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 |                 28 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)                 | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 |                 20 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../artists/mamamoo.md)                     | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
-|                 15 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../artists/aespa.md)                         | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
+|                 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../artists/aespa.md)                         | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 |                 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | [Girls' Generation](../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 |                 13 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="" width="50" /> | [Dreamcatcher](../artists/dreamcatcher.md)           | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 |                 12 | <img src="https://i.scdn.co/image/ab6761610000e5eb45b2ff69ae6a3caccb776cfa" alt="" width="50" /> | [STAYC](../artists/stayc.md)                         | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
@@ -218,9 +218,9 @@
 |                 11 | [High Up Entertainment](../labels/high_up_entertainment.md)                                                         |
 |                  8 | [DREAMCATCHER COMPANY](../labels/dreamcatcher_company.md)                                                           |
 |                  7 | [WM Entertainment](../labels/wm_entertainment.md)                                                                   |
-|                  6 | [Warner Records](../labels/warner_records.md)                                                                       |
 |                  6 | [FNC ENTERTAINMENT](../labels/fnc_entertainment.md)                                                                 |
 |                  6 | [ADOR](../labels/ador.md)                                                                                           |
+|                  5 | [Warner Records](../labels/warner_records.md)                                                                       |
 |                  5 | [Riot Games](../labels/riot_games.md)                                                                               |
 |                  4 | [avex trax](../labels/avex_trax.md)                                                                                 |
 |                  4 | [WM Japan](../labels/wm_japan.md)                                                                                   |
@@ -275,7 +275,7 @@
 
 | 10 most Danceable tracks   | 10 least Danceable tracks          |
 |:---------------------------|:-----------------------------------|
-| #Twenty                    | Life's Too Short (English Version) |
+| #Twenty                    | HANN (Alone in winter)             |
 | SNEAKERS                   | Life's Too Short (English Version) |
 | SNEAKERS (English Ver.)    | Addicted                           |
 | Typa Girl                  | Poison                             |
@@ -327,15 +327,15 @@
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| You and I (Park Bom)          | Be Natural                     |
+| You and I (Park Bom)          | Bewitched                      |
 | Adios                         | Bewitched - Eng Ver.           |
-| YEPPI YEPPI                   | Villain                        |
-| So Hot                        | Oh Boy                         |
-| I Am The Best                 | #Cookie Jar                    |
-| Power Up                      | Rookie                         |
-| BBoom BBoom                   | SO BAD                         |
-| In My Dreams                  | WILDSIDE                       |
-| BAAM                          | Marionette                     |
+| YEPPI YEPPI                   | Oh Boy                         |
+| So Hot                        | #Cookie Jar                    |
+| I Am The Best                 | Rookie                         |
+| Power Up                      | Villain                        |
+| BBoom BBoom                   | WILDSIDE                       |
+| In My Dreams                  | Marionette                     |
+| BAAM                          | SO BAD                         |
 | Star                          | HANN (Alone in winter)         |
 
 | 10 most Live tracks   | 10 least Live tracks          |
@@ -346,8 +346,8 @@
 | I Like That           | Red Light                     |
 | Vibrato               | BLACK DRESS                   |
 | 행복 (Happiness)        | DARK (X-file)                 |
-| LP                    | Ice Cream (with Selena Gomez) |
-| Genie                 | YEPPI YEPPI                   |
+| Genie                 | Ice Cream (with Selena Gomez) |
+| LP                    | YEPPI YEPPI                   |
 | STEREOTYPE            | SNEAKERS (English Ver.)       |
 | 5th Season (SSFWL)    | SNEAKERS                      |
 

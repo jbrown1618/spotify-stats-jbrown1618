@@ -20,7 +20,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273af2fda9fb591d43c355c2ac3" alt="" width="50" /> | STAYDOM                 | [🔗](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273bc125f40131dd5869b2ec36c" alt="" width="50" /> | Star To A Young Culture | [🔗](https://open.spotify.com/album/4PrRd0lIunUEiiE5rbZklR) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735c1dca4c993850471d5d8f14" alt="" width="50" /> | STEREOTYPE              | [🔗](https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d7610ec7724bad4e6c9e499" alt="" width="50" /> | POPPY                   | [🔗](https://open.spotify.com/album/2nei1QXcpDotdoMz3IQxr4) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d7610ec7724bad4e6c9e499" alt="" width="50" /> | POPPY (Japanese Ver.)   | [🔗](https://open.spotify.com/album/2nei1QXcpDotdoMz3IQxr4) |
 
 ## Top Record Labels
 
@@ -49,4 +49,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2738ea860a3e6904b875629d672" alt="" width="50" /> | YOUNG LUV             | YOUNG-LUV.COM           | [STAYC](stayc.md) | [High Up Entertainment](../labels/high_up_entertainment.md) | 💚   | [🔗](https://open.spotify.com/track/7HGKvoju3ucB7UqVt1GoJu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c76a0146e4c1804f22cab995" alt="" width="50" /> | BEAUTIFUL MONSTER     | WE NEED LOVE            | [STAYC](stayc.md) | [High Up Entertainment](../labels/high_up_entertainment.md) | 💚   | [🔗](https://open.spotify.com/track/56s2s5e8WuBsWVKnmz6J9L) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c76a0146e4c1804f22cab995" alt="" width="50" /> | I LIKE IT             | WE NEED LOVE            | [STAYC](stayc.md) | [High Up Entertainment](../labels/high_up_entertainment.md) |     | [🔗](https://open.spotify.com/track/4o84FbQ0YB6F3AWfxTGRHG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739d7610ec7724bad4e6c9e499" alt="" width="50" /> | POPPY - Japanese Ver. | POPPY                   | [STAYC](stayc.md) | [Universal Music LLC](../labels/universal_music_llc.md)     | 💚   | [🔗](https://open.spotify.com/track/2gpwaAJnSDTevgZa4uyM0H) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d7610ec7724bad4e6c9e499" alt="" width="50" /> | POPPY - Japanese Ver. | POPPY (Japanese Ver.)   | [STAYC](stayc.md) | [Universal Music LLC](../labels/universal_music_llc.md)     | 💚   | [🔗](https://open.spotify.com/track/2gpwaAJnSDTevgZa4uyM0H) |

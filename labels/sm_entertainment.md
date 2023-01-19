@@ -1,9 +1,9 @@
 # SM Entertainment
 
-225 songs
+224 songs
 
 Appears as:
-- SM Entertainment (223 tracks)
+- SM Entertainment (222 tracks)
 - MYSTIC ENTERTAINMENT, ChoongangICS, SM ENTERTAINMENT, JYP ENTERTAINMENT (1 tracks)
 - SM Entertainment/Capitol Records (1 tracks)
 
@@ -18,7 +18,7 @@ Appears as:
 |   Number of Tracks | Art                                                                                              | Artist                                               | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------|:------------------------------------------------------------|
 |                 58 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)               | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
-|                 22 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md)                     | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
+|                 21 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md)                     | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 |                 16 | <img src="https://i.scdn.co/image/ab6761610000e5eb7401998434b12fffd119ae18" alt="" width="50" /> | [NCT 127](../artists/nct_127.md)                     | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
 |                 13 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | [Girls' Generation](../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 |                 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="" width="50" /> | [EXO](../artists/exo.md)                             | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
@@ -139,7 +139,6 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f4eaffe012c3fc3b73a61bb2" alt="" width="50" /> | Weekend                                            | [🔗](https://open.spotify.com/album/4tJsXd2onpa4P9lFmkJIKy) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27309610687bcd1b3dc95d5d436" alt="" width="50" /> | We Boom - The 3rd Mini Album                       | [🔗](https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27358169e974a94b9a18c9d2a03" alt="" width="50" /> | Universe (Let's Play Ball)                         | [🔗](https://open.spotify.com/album/31BJasH9nLradtMdJEIDXk) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ff45701e8447016848c70485" alt="" width="50" /> | This Christmas – Winter is Coming                  | [🔗](https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27381fb7e4e392f0a99b3947eb6" alt="" width="50" /> | The Velvet - The 2nd Mini Album                    | [🔗](https://open.spotify.com/album/2qgl7dAgslqL1w2l2wQhMA) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ff8a783336acbef4b6fab82f" alt="" width="50" /> | The SHINee World - The First Album                 | [🔗](https://open.spotify.com/album/2aiM53N5DGm5VXnfjswpI7) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27396678b0a030238837547c6ff" alt="" width="50" /> | The Renaissance - The 10th Album                   | [🔗](https://open.spotify.com/album/3qyzxavqOfixEPDfFCEMlH) |
@@ -190,6 +189,7 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fb49e8c96b502707c691b3a3" alt="" width="50" /> | Happy                                              | [🔗](https://open.spotify.com/album/1nPB6o7EjGvUORXlnioEPk) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27341ac444fbef3261cdcadc9e6" alt="" width="50" /> | Grey Suit - The 2nd Mini Album                     | [🔗](https://open.spotify.com/album/7tZyxlG9PNEBwrxMbIJdoB) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737de8f56a39ec67a091457d04" alt="" width="50" /> | Four Seasons                                       | [🔗](https://open.spotify.com/album/3ublKZHu1qjU9ujf9A4zhH) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="" width="50" /> | Forgive Me - The 3rd Mini Album                    | [🔗](https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7) |
 
 </details>
 
@@ -204,10 +204,10 @@ Appears as:
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
-|                214 | [k-pop](../genres/k_pop.md)                       |
+|                213 | [k-pop](../genres/k_pop.md)                       |
 |                 84 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 |                 57 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
-|                 21 | [pop](../genres/pop.md)                           |
+|                 20 | [pop](../genres/pop.md)                           |
 |                  7 | korean pop                                        |
 
 </details>
@@ -401,8 +401,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a0cdc709f34348b6d88635d" alt="" width="50" /> | Black Suit                                    | PLAY - The 8th Album                               | SUPER JUNIOR                                                         | [SM Entertainment](sm_entertainment.md)                                                                                | 💚   | [🔗](https://open.spotify.com/track/0cCm1PbOd6nqAPDdA3PRfs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27364a3178b264477550c4bcdb6" alt="" width="50" /> | Lo Siento                                     | REPLAY - The 8th Repackage Album                   | SUPER JUNIOR, Leslie Grace, Play-N-Skillz                            | [SM Entertainment](sm_entertainment.md)                                                                                | 💚   | [🔗](https://open.spotify.com/track/2VVqxQhALecXvaArlZSVXr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27396678b0a030238837547c6ff" alt="" width="50" /> | House Party                                   | The Renaissance - The 10th Album                   | SUPER JUNIOR                                                         | [SM Entertainment](sm_entertainment.md)                                                                                |     | [🔗](https://open.spotify.com/track/0awQIOFGtg18LCJ0WhFf8s) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273724a0cb04dbc89d9dd6ee06d" alt="" width="50" /> | Tiger Inside                                  | Super One -The 1st Album                           | SuperM                                                               | [Capitol Records](capitol_records.md), [SM Entertainment](sm_entertainment.md)                                         | 💚   | [🔗](https://open.spotify.com/track/1ADlTU9mFc3oDdD9Vla2Yw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | Dream                                         | Dream                                              | Suzy, BAEKHYUN                                                       | [SM Entertainment](sm_entertainment.md), [JYP Entertainment](jyp_entertainment.md), MYSTIC ENTERTAINMENT, ChoongangICS | 💚   | [🔗](https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273724a0cb04dbc89d9dd6ee06d" alt="" width="50" /> | Tiger Inside                                  | Super One -The 1st Album                           | SuperM                                                               | [SM Entertainment](sm_entertainment.md), [Capitol Records](capitol_records.md)                                         | 💚   | [🔗](https://open.spotify.com/track/1ADlTU9mFc3oDdD9Vla2Yw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | Dream                                         | Dream                                              | Suzy, BAEKHYUN                                                       | MYSTIC ENTERTAINMENT, [SM Entertainment](sm_entertainment.md), [JYP Entertainment](jyp_entertainment.md), ChoongangICS | 💚   | [🔗](https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273586377cdbf841e6f03da3e0c" alt="" width="50" /> | Drip Drop                                     | Press It - The 1st Album                           | TAEMIN                                                               | [SM Entertainment](sm_entertainment.md)                                                                                |     | [🔗](https://open.spotify.com/track/7EYDRfuloB4kG28ECZkPZB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27362fad74218294c98e510c1c8" alt="" width="50" /> | MOVE                                          | MOVE - The 2nd Album                               | TAEMIN                                                               | [SM Entertainment](sm_entertainment.md)                                                                                | 💚   | [🔗](https://open.spotify.com/track/1cgBWgoL6520lR2QZDzdGN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739756c6519e249c1c7c060e60" alt="" width="50" /> | Clockwork                                     | Never Gonna Dance Again : Act 1 - The 3rd Album    | TAEMIN                                                               | [SM Entertainment](sm_entertainment.md)                                                                                |     | [🔗](https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J) |
@@ -417,7 +417,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c7e7f435fdcc70772c5555e" alt="" width="50" /> | I Got Love                                    | My Voice - The 1st Album                           | [TAEYEON](../artists/taeyeon.md)                                     | [SM Entertainment](sm_entertainment.md)                                                                                | 💚   | [🔗](https://open.spotify.com/track/1IgRQvTqj7BKjNWRzjFEE0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c7e7f435fdcc70772c5555e" alt="" width="50" /> | Sweet Love                                    | My Voice - The 1st Album                           | [TAEYEON](../artists/taeyeon.md)                                     | [SM Entertainment](sm_entertainment.md)                                                                                |     | [🔗](https://open.spotify.com/track/2CbvW8kgNDByBIQbFY0h3i) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738da57096b4f09bd7cc6e1954" alt="" width="50" /> | 11:11                                         | My Voice - The 1st Album (Deluxe Edition)          | [TAEYEON](../artists/taeyeon.md)                                     | [SM Entertainment](sm_entertainment.md)                                                                                | 💚   | [🔗](https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ff45701e8447016848c70485" alt="" width="50" /> | The Magic of Christmas Time                   | This Christmas – Winter is Coming                  | [TAEYEON](../artists/taeyeon.md)                                     | [SM Entertainment](sm_entertainment.md)                                                                                |     | [🔗](https://open.spotify.com/track/35OjjtMHKnPdOAsEZ6M9OA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737de8f56a39ec67a091457d04" alt="" width="50" /> | Four Seasons                                  | Four Seasons                                       | [TAEYEON](../artists/taeyeon.md)                                     | [SM Entertainment](sm_entertainment.md)                                                                                | 💚   | [🔗](https://open.spotify.com/track/4ytyLpIwUXbdFsNOvgNnmP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b87c0d76ed9c7b1654b390d0" alt="" width="50" /> | Spark                                         | Purpose - The 2nd Album                            | [TAEYEON](../artists/taeyeon.md)                                     | [SM Entertainment](sm_entertainment.md)                                                                                | 💚   | [🔗](https://open.spotify.com/track/49euWwcjQTzVCynY53tvH5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb49e8c96b502707c691b3a3" alt="" width="50" /> | Happy                                         | Happy                                              | [TAEYEON](../artists/taeyeon.md)                                     | [SM Entertainment](sm_entertainment.md)                                                                                | 💚   | [🔗](https://open.spotify.com/track/459mRPsscVLMvVL59gr7EM) |

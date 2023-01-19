@@ -1,6 +1,6 @@
 # pop
 
-[493 songs](pop_tracks.md)
+[492 songs](pop_tracks.md)
 
 ## Top Artists
 
@@ -17,7 +17,7 @@
 |                 60 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | [Taylor Swift](../artists/taylor_swift.md)                     | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 |                 59 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../artists/sara_bareilles.md)                 | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 |                 25 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../artists/ariana_grande.md)                   | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
-|                 23 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md)                               | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
+|                 22 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md)                               | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 |                 19 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../artists/leehi.md)                                   | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 |                 19 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | [Lana Del Rey](../artists/lana_del_rey.md)                     | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
 |                 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | [Florence + The Machine](../artists/florence___the_machine.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
@@ -248,7 +248,7 @@
 |                 29 | [Big Machine Records](../labels/big_machine_records.md)                                                             |
 |                 26 | [RCA Records Label](../labels/rca_records_label.md)                                                                 |
 |                 24 | [Polydor Records](../labels/polydor_records.md)                                                                     |
-|                 21 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
+|                 20 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
 |                 20 | [Atlantic Records](../labels/atlantic_records.md)                                                                   |
 |                 19 | [Warner Records](../labels/warner_records.md)                                                                       |
 |                 15 | [Universal-Island Records Ltd.](../labels/universal_island_records_ltd_.md)                                         |
@@ -380,8 +380,8 @@
 | Hold Up                         | no body, no crime (feat. HAIM) |
 | Vigilante Shit                  | Begin Again                    |
 | Irreplaceable                   | Chasing Pavements              |
-| WAP (feat. Megan Thee Stallion) | Set Fire to the Rain           |
-| bad guy                         | All Too Well                   |
+| bad guy                         | Set Fire to the Rain           |
+| WAP (feat. Megan Thee Stallion) | All Too Well                   |
 | Bubblegum (feat. Tyga)          | The Scientist                  |
 | 7 rings                         | Breakeven                      |
 | bury a friend                   | Satellite Call                 |
@@ -428,8 +428,8 @@
 | 10 most Happy tracks            | 10 least Happy tracks            |
 |:--------------------------------|:---------------------------------|
 | There's Nothing Holdin' Me Back | How Big, How Blue, How Beautiful |
-| SexyBack (feat. Timbaland)      | Skyfall                          |
-| I'm a Slave 4 U                 | I'll Show You                    |
+| SexyBack (feat. Timbaland)      | I'll Show You                    |
+| I'm a Slave 4 U                 | Skyfall                          |
 | P.Y.T. (Pretty Young Thing)     | Yellow Flicker Beat              |
 | 1, 2, 3, 4                      | Falling                          |
 | Sucker                          | Once Upon Another Time           |

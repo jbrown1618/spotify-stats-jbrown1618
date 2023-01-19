@@ -17,7 +17,7 @@
 
 |   Number of Tracks | Art                                                                                              | Artist                                               | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------|:------------------------------------------------------------|
-|                 10 | <img src="https://i.scdn.co/image/ab6761610000e5ebd84fd6ae9ccfc6206ea6711e" alt="" width="50" /> | [TWICE](../artists/twice.md)                         | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
+|                 10 | <img src="https://i.scdn.co/image/ab6761610000e5eb200008f1cb940483514db2bd" alt="" width="50" /> | [TWICE](../artists/twice.md)                         | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)                     | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d4b74165ecfadcacf0771ae" alt="" width="50" /> | MOMOLAND                                             | [🔗](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)               | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
@@ -72,10 +72,10 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739b57e9b31c831fb2137c38e2" alt="" width="50" /> | Oh! - The Second Album                    | [🔗](https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734957fced6061ee536ca618ab" alt="" width="50" /> | NONSTOP                                   | [🔗](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f0d00e054e9a9cb2e86cdf72" alt="" width="50" /> | Merry & Happy                             | [🔗](https://open.spotify.com/album/0R7pj4tnmcoUulrZGPo6nw) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273eb9bc74e6ced59a2638898b0" alt="" width="50" /> | Life's Too Short                          | [🔗](https://open.spotify.com/album/11lLYKMkFheiV7ObD7WCnx) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738a30df9ceed62f9c39069c9e" alt="" width="50" /> | Hmph!                                     | [🔗](https://open.spotify.com/album/3oiVOb6e43wsvdV4ClJYm0) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27366ff63bc084fb412aa2dddd3" alt="" width="50" /> | Hello - Special Album                     | [🔗](https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b66327ff0474d017472d7b18" alt="" width="50" /> | HAPPY MOMENT (1)                          | [🔗](https://open.spotify.com/album/4nnyYQGOKRU090FK7sfunL) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Girls - The 2nd Mini Album                | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a5bb4ef1ca42f4378d815c7c" alt="" width="50" /> | GREAT!                                    | [🔗](https://open.spotify.com/album/5vt2sEP5J0VNbYXoA7h2k4) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27342b393df3e24a66e5accbf2b" alt="" width="50" /> | Fun to The World                          | [🔗](https://open.spotify.com/album/75dkh8s39e7txjNe9cODH3) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27349b81808fcdaeeb55bef59d1" alt="" width="50" /> | Feel Special                              | [🔗](https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo) |
@@ -149,8 +149,8 @@
 | The Feels                  | Not For Sale                       |
 | Hmph!                      | What is Love                       |
 | BBoom BBoom                | Heart Shaker                       |
-| Gee                        | CHEER UP                           |
-| FIESTA                     | Let Me In (20 CUBE)                |
+| FIESTA                     | CHEER UP                           |
+| Gee                        | Let Me In (20 CUBE)                |
 | Babyface                   | Life's Too Short (English Version) |
 | Very Very Very             | Hello                              |
 
@@ -195,16 +195,16 @@
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| Power Up                      | Let Me In (20 CUBE)            |
-| BBoom BBoom                   | Yummy Yummy Love               |
-| BAAM                          | Heart Shaker                   |
-| Feel Special                  | Dun Dun Dance                  |
-| Hmph!                         | What is Love                   |
-| Likey                         | Polaroid Love                  |
-| TT                            | Umpah Umpah                    |
-| Like Ooh-Ahh                  | Banana Allergy Monkey          |
-| YES or YES                    | FIESTA                         |
-| Very Very Very                | Super Yuppers!                 |
+| Power Up                      | What is Love                   |
+| BBoom BBoom                   | Polaroid Love                  |
+| BAAM                          | Umpah Umpah                    |
+| Feel Special                  | Banana Allergy Monkey          |
+| Hmph!                         | FIESTA                         |
+| Likey                         | Babyface                       |
+| TT                            | CHEER UP                       |
+| Like Ooh-Ahh                  | Red Flavor                     |
+| YES or YES                    | 青春修炼手册                         |
+| Very Very Very                | THRILL RIDE                    |
 
 | 10 most Live tracks   | 10 least Live tracks   |
 |:----------------------|:-----------------------|
