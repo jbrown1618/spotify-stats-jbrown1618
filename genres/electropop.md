@@ -1,16 +1,16 @@
 # electropop
 
-[49 songs](electropop_tracks.md)
+[48 songs](electropop_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 27 artists](../images/genres/electropop/artists.png)
+![Bar chart of top 26 artists](../images/genres/electropop/artists.png)
 
 ![Comparison of Artist](../images/genres/electropop/artists_comparison.png)
 
 
 <details>
-<summary>See all 27 artists</summary>
+<summary>See all 26 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                       | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------|:------------------------------------------------------------|
@@ -28,7 +28,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9f754de994ed3b6e8f01522" alt="" width="50" /> | Jidenna                                      | [🔗](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd06f948216f34ea0298aef43" alt="" width="50" /> | Caroline Polachek                            | [🔗](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) |
 |                  1 | <img src="https://i.scdn.co/image/145b7b08e7f1de22d033e957c0888a5f9e0c99e6" alt="" width="50" /> | Leighton Meester                             | [🔗](https://open.spotify.com/artist/481VlDdXZAIRxnHyywNbXn) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb002eedc44fefe085daae10e4" alt="" width="50" /> | Troye Sivan                                  | [🔗](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8f4d36b43fa094d32a167f1e" alt="" width="50" /> | Ashnikko                                     | [🔗](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)                     | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9df0f924a5e609c8da143cd5" alt="" width="50" /> | A. G. Cook                                   | [🔗](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) |
@@ -50,7 +49,7 @@
 
 
 <details>
-<summary>See all 33 albums</summary>
+<summary>See all 32 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                                      | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------|:-----------------------------------------------------------|
@@ -84,7 +83,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273495ce6da9aeb159e94eaa453" alt="" width="50" /> | Closer                                                                     | [🔗](https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738cae5034066af45cdfbc4266" alt="" width="50" /> | Church Of Scars                                                            | [🔗](https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="" width="50" /> | CRASH                                                                      | [🔗](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731a104e8630a97b573201f655" alt="" width="50" /> | Blue Neighbourhood (Deluxe)                                                | [🔗](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731bf7d80f4a7bf4ed02da9fad" alt="" width="50" /> | Billions                                                                   | [🔗](https://open.spotify.com/album/4DpAPqdJ1jVhoWZrxWLRH5) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b0ed835957dbf3c63184a3bc" alt="" width="50" /> | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] | [🔗](https://open.spotify.com/album/6snPKZGUbpydW2XJu9ievq) |
 
@@ -93,42 +91,41 @@
 
 ## Top Record Labels
 
-![Bar chart of top 28 record labels](../images/genres/electropop/labels.png)
+![Bar chart of top 27 record labels](../images/genres/electropop/labels.png)
 
 
 <details>
-<summary>See all 28 labels</summary>
+<summary>See all 27 labels</summary>
 
-|   Number of Tracks | Label                                                                                     |
-|-------------------:|:------------------------------------------------------------------------------------------|
-|                 13 | [Warner Records](../labels/warner_records.md)                                             |
-|                 10 | [Darkroom](../labels/darkroom.md)                                                         |
-|                  8 | [Interscope Records](../labels/interscope_records.md)                                     |
-|                  4 | [Polydor Records](../labels/polydor_records.md)                                           |
-|                  4 | [Bad Boy](../labels/bad_boy.md)                                                           |
-|                  2 | [Wondaland](../labels/wondaland.md)                                                       |
-|                  2 | [Capitol Records](../labels/capitol_records.md)                                           |
-|                  1 | [VÉRITÉ](../labels/v_rit_.md)                                                             |
-|                  1 | [Universal Music LLC](../labels/universal_music_llc.md)                                   |
-|                  1 | [Teleport Records](../labels/teleport_records.md)                                         |
-|                  1 | [Silent Records IGA](../labels/silent_records_iga.md)                                     |
-|                  1 | [Republic Records](../labels/republic_records.md)                                         |
-|                  1 | [RCA Records Label](../labels/rca_records_label.md)                                       |
-|                  1 | [Perpetual Novice](../labels/perpetual_novice.md)                                         |
-|                  1 | [Parlophone UK](../labels/parlophone_uk.md)                                               |
-|                  1 | [Metric Music International](../labels/metric_music_international.md)                     |
-|                  1 | [Lauv](../labels/lauv.md)                                                                 |
-|                  1 | [Island Records](../labels/island_records.md)                                             |
-|                  1 | [Fueled By Ramen](../labels/fueled_by_ramen.md)                                           |
-|                  1 | [FSF](../labels/fsf.md)                                                                   |
-|                  1 | [Epic](../labels/epic.md)                                                                 |
-|                  1 | [EMI Recorded Music Australia Pty Ltd](../labels/emi_recorded_music_australia_pty_ltd.md) |
-|                  1 | [Disruptor Records](../labels/disruptor_records.md)                                       |
-|                  1 | [Decaydance](../labels/decaydance.md)                                                     |
-|                  1 | [Columbia](../labels/columbia.md)                                                         |
-|                  1 | [Atlantic Records UK](../labels/atlantic_records_uk.md)                                   |
-|                  1 | [Atlantic Records](../labels/atlantic_records.md)                                         |
-|                  1 | [Astralwerks (ASW)](../labels/astralwerks__asw_.md)                                       |
+|   Number of Tracks | Label                                                                 |
+|-------------------:|:----------------------------------------------------------------------|
+|                 13 | [Warner Records](../labels/warner_records.md)                         |
+|                 10 | [Darkroom](../labels/darkroom.md)                                     |
+|                  8 | [Interscope Records](../labels/interscope_records.md)                 |
+|                  4 | [Polydor Records](../labels/polydor_records.md)                       |
+|                  4 | [Bad Boy](../labels/bad_boy.md)                                       |
+|                  2 | [Wondaland](../labels/wondaland.md)                                   |
+|                  2 | [Capitol Records](../labels/capitol_records.md)                       |
+|                  1 | [VÉRITÉ](../labels/v_rit_.md)                                         |
+|                  1 | [Universal Music LLC](../labels/universal_music_llc.md)               |
+|                  1 | [Teleport Records](../labels/teleport_records.md)                     |
+|                  1 | [Silent Records IGA](../labels/silent_records_iga.md)                 |
+|                  1 | [Republic Records](../labels/republic_records.md)                     |
+|                  1 | [RCA Records Label](../labels/rca_records_label.md)                   |
+|                  1 | [Perpetual Novice](../labels/perpetual_novice.md)                     |
+|                  1 | [Parlophone UK](../labels/parlophone_uk.md)                           |
+|                  1 | [Metric Music International](../labels/metric_music_international.md) |
+|                  1 | [Lauv](../labels/lauv.md)                                             |
+|                  1 | [Island Records](../labels/island_records.md)                         |
+|                  1 | [Fueled By Ramen](../labels/fueled_by_ramen.md)                       |
+|                  1 | [FSF](../labels/fsf.md)                                               |
+|                  1 | [Epic](../labels/epic.md)                                             |
+|                  1 | [Disruptor Records](../labels/disruptor_records.md)                   |
+|                  1 | [Decaydance](../labels/decaydance.md)                                 |
+|                  1 | [Columbia](../labels/columbia.md)                                     |
+|                  1 | [Atlantic Records UK](../labels/atlantic_records_uk.md)               |
+|                  1 | [Atlantic Records](../labels/atlantic_records.md)                     |
+|                  1 | [Astralwerks (ASW)](../labels/astralwerks__asw_.md)                   |
 
 </details>
 
@@ -159,7 +156,7 @@
 | Lights - Single Version                    | Your Song                   |
 | Top of the World                           | Julia                       |
 | Bad At Love                                | xanny                       |
-| YOUTH                                      | when the party's over       |
+| SUGA's Interlude                           | when the party's over       |
 
 | 10 most Speechy tracks       | 10 least Speechy tracks   |
 |:-----------------------------|:--------------------------|
@@ -189,22 +186,22 @@
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| everything i wanted           | Cameo Lover                    |
-| you should see me in a crown  | Two Way Street                 |
-| bury a friend                 | Daisy 2.0 (feat. Hatsune Miku) |
+| everything i wanted           | The Good War                   |
+| you should see me in a crown  | Cameo Lover                    |
+| bury a friend                 | Two Way Street                 |
 | Therefore I Am                | Closer                         |
-| bad guy                       | Julia                          |
-| Like They Do on the TV        | YOUTH                          |
+| bad guy                       | lovely (with Khalid)           |
+| Like They Do on the TV        | Julia                          |
 | Top of the World              | Say My Name                    |
 | Lights - Single Version       | SUGA's Interlude               |
 | ocean eyes                    | Bad At Love                    |
-| Lightyears                    | lovely (with Khalid)           |
+| Lightyears                    | Daisy 2.0 (feat. Hatsune Miku) |
 
 | 10 most Live tracks                            | 10 least Live tracks                                                       |
 |:-----------------------------------------------|:---------------------------------------------------------------------------|
-| Good Girls Go Bad (feat. Leighton Meester)     | No Time To Die                                                             |
-| Billions                                       | Good Ones                                                                  |
-| Make Me Feel                                   | YOUTH                                                                      |
+| Good Girls Go Bad (feat. Leighton Meester)     | The Good War                                                               |
+| Billions                                       | No Time To Die                                                             |
+| Make Me Feel                                   | Good Ones                                                                  |
 | Old Flame                                      | Settle Down                                                                |
 | xanny                                          | Lightyears                                                                 |
 | Daisy 2.0 (feat. Hatsune Miku)                 | Say My Name                                                                |

@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1405 songs](liked_songs_tracks.md)
+[1407 songs](liked_songs_tracks.md)
 
 ## Top Artists
 
@@ -272,10 +272,10 @@
 |                 12 | [Kakao Entertainment](../labels/kakao_entertainment.md)                                                             |
 |                 12 | [Hollywood Records](../labels/hollywood_records.md)                                                                 |
 |                 12 | [Capitol Records](../labels/capitol_records.md)                                                                     |
+|                 11 | [SOURCE MUSIC](../labels/source_music.md)                                                                           |
 |                 11 | [Jive](../labels/jive.md)                                                                                           |
 |                 11 | [HYBE](../labels/hybe.md)                                                                                           |
 |                 10 | [Darkroom](../labels/darkroom.md)                                                                                   |
-|                  9 | [SOURCE MUSIC](../labels/source_music.md)                                                                           |
 |                  9 | [High Up Entertainment](../labels/high_up_entertainment.md)                                                         |
 |                  9 | [88rising Music](../labels/88rising_music.md)                                                                       |
 |                  8 | [WM Entertainment](../labels/wm_entertainment.md)                                                                   |
@@ -359,8 +359,8 @@
 |                611 | [k-pop](../genres/k_pop.md)                         |
 |                353 | [pop](../genres/pop.md)                             |
 |                292 | [k-pop girl group](../genres/k_pop_girl_group.md)   |
-|                163 | [dance pop](../genres/dance_pop.md)                 |
 |                162 | [k-pop boy group](../genres/k_pop_boy_group.md)     |
+|                155 | [dance pop](../genres/dance_pop.md)                 |
 |                100 | [rock](../genres/rock.md)                           |
 |                 78 | [classic rock](../genres/classic_rock.md)           |
 |                 61 | [neo mellow](../genres/neo_mellow.md)               |
@@ -370,7 +370,7 @@
 |                 44 | [hollywood](../genres/hollywood.md)                 |
 |                 42 | [mellow gold](../genres/mellow_gold.md)             |
 |                 39 | [post-teen pop](../genres/post_teen_pop.md)         |
-|                 36 | [electropop](../genres/electropop.md)               |
+|                 35 | [electropop](../genres/electropop.md)               |
 |                 34 | [art pop](../genres/art_pop.md)                     |
 |                 33 | [folk rock](../genres/folk_rock.md)                 |
 |                 32 | [soft rock](../genres/soft_rock.md)                 |
@@ -379,11 +379,11 @@
 |                 29 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                 28 | korean pop                                          |
 |                 27 | korean r&b                                          |
+|                 26 | [r&b](../genres/r_b.md)                             |
 |                 25 | piano rock                                          |
 |                 23 | beatlesque                                          |
 |                 22 | merseybeat                                          |
-|                 21 | [r&b](../genres/r_b.md)                             |
-|                 20 | pop rap                                             |
+|                 21 | pop rap                                             |
 |                 20 | modern rock                                         |
 |                 20 | anime                                               |
 |                 19 | permanent wave                                      |
@@ -397,12 +397,12 @@
 |                 16 | k-rap                                               |
 |                 16 | indie pop                                           |
 |                 15 | urban contemporary                                  |
+|                 15 | neo soul                                            |
 |                 15 | metropopolis                                        |
 |                 14 | uk alternative pop                                  |
 |                 14 | melancholia                                         |
 |                 14 | folk                                                |
 |                 14 | baroque pop                                         |
-|                 13 | neo soul                                            |
 |                 13 | glam rock                                           |
 |                 13 | canadian pop                                        |
 |                 12 | soul                                                |
@@ -426,7 +426,6 @@
 |                  8 | australian dance                                    |
 |                  7 | viral pop                                           |
 |                  7 | pop dance                                           |
-|                  7 | motown                                              |
 |                  7 | kawaii metal                                        |
 |                  7 | j-pop                                               |
 |                  7 | j-metal                                             |
@@ -442,6 +441,7 @@
 |                  7 | alternative r&b                                     |
 |                  6 | stomp and holler                                    |
 |                  6 | pop soul                                            |
+|                  6 | motown                                              |
 |                  6 | modern alternative rock                             |
 |                  6 | la indie                                            |
 |                  6 | hip pop                                             |
@@ -449,13 +449,13 @@
 |                  6 | electro                                             |
 |                  5 | uk funky                                            |
 |                  5 | uk dance                                            |
+|                  5 | new americana                                       |
 |                  5 | k-indie                                             |
 |                  5 | jazz pop                                            |
 |                  5 | indietronica                                        |
+|                  5 | funk                                                |
 |                  5 | anti-folk                                           |
 |                  5 | afrofuturism                                        |
-|                  4 | yacht rock                                          |
-|                  4 | vocal jazz                                          |
 
 </details>
 
@@ -472,8 +472,8 @@
 | SNEAKERS                        | Born To Die                 |
 | Billie Jean                     | The End (Interlude)         |
 | RUN (HAN)                       | Amore                       |
-| Baby Got Back                   | Bridge Over Troubled Water  |
-| Another One Bites The Dust      | Pyramid Song                |
+| Another One Bites The Dust      | Bridge Over Troubled Water  |
+| Baby Got Back                   | Pyramid Song                |
 
 | 10 most Energetic tracks   | 10 least Energetic tracks   |
 |:---------------------------|:----------------------------|
@@ -494,12 +494,12 @@
 | I Don't Need You                 | Set Fire to the Rain      |
 | MANIAC                           | I'd Rather Go Blind       |
 | Mambo No. 5 (a Little Bit of...) | Old Fashioned             |
-| Vigilante Shit                   | The Scientist             |
-| Free Fall                        | All Too Well              |
-| WAP (feat. Megan Thee Stallion)  | Breakeven                 |
-| bad guy                          | 情非得已                      |
-| Ice Cream (with Selena Gomez)    | Satellite Call            |
-| I GOT IT (HAN)                   | With                      |
+| Vigilante Shit                   | All Too Well              |
+| Free Fall                        | The Scientist             |
+| bad guy                          | Breakeven                 |
+| WAP (feat. Megan Thee Stallion)  | Satellite Call            |
+| I GOT IT (HAN)                   | 情非得已                      |
+| Ice Cream (with Selena Gomez)    | With                      |
 
 | 10 most Acoustic tracks      | 10 least Acoustic tracks   |
 |:-----------------------------|:---------------------------|
@@ -511,8 +511,8 @@
 | The Night We Met             | Mr. Simple                 |
 | I Had a King                 | Poison                     |
 | Sweet Nothing                | Headbangeeeeerrrrr!!!!!    |
-| The Dawntreader              | Kagerou                    |
-| Take It All                  | The Phantom Of The Opera   |
+| Take It All                  | Kagerou                    |
+| The Dawntreader              | The Phantom Of The Opera   |
 
 | 10 most Instrumental tracks              | 10 least Instrumental tracks                |
 |:-----------------------------------------|:--------------------------------------------|
@@ -549,6 +549,6 @@
 | Twenty-three                    | Once Upon Another Time  |
 | Devil                           | xanny                   |
 | Pepe                            | No Time To Die          |
-| Mercy                           | Delicate                |
-| SexyBack (feat. Timbaland)      | What Sarah Said         |
-| チョコレイト・ディスコ                     | You Take My Breath Away |
+| SexyBack (feat. Timbaland)      | Delicate                |
+| Mercy                           | What Sarah Said         |
+| I'm a Slave 4 U                 | You Take My Breath Away |

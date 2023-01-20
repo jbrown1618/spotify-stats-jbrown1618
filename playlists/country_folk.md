@@ -103,6 +103,7 @@
 
 |   Number of Tracks | Genre                                     |
 |-------------------:|:------------------------------------------|
+|                 13 | new americana                             |
 |                 11 | country dawn                              |
 |                 11 | country                                   |
 |                  8 | indie folk                                |
@@ -122,7 +123,6 @@
 |                  3 | modern country rock                       |
 |                  3 | country road                              |
 |                  3 | [acoustic pop](../genres/acoustic_pop.md) |
-|                  2 | new americana                             |
 |                  1 | lafayette indie                           |
 
 </details>

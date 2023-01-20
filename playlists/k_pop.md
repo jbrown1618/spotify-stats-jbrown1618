@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273f7da7c0f322b7a1c95190d92" alt="K-Pop" width="100" />
 
-[963 songs](k_pop_tracks.md)
+[965 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -263,8 +263,8 @@
 |                 15 | [Kakao Entertainment](../labels/kakao_entertainment.md)                                                             |
 |                 14 | [WM Korea](../labels/wm_korea.md)                                                                                   |
 |                 12 | [Warner Records](../labels/warner_records.md)                                                                       |
+|                 12 | [SOURCE MUSIC](../labels/source_music.md)                                                                           |
 |                 11 | [High Up Entertainment](../labels/high_up_entertainment.md)                                                         |
-|                 10 | [SOURCE MUSIC](../labels/source_music.md)                                                                           |
 |                  9 | [WM Entertainment](../labels/wm_entertainment.md)                                                                   |
 |                  9 | [MYSTIC STORY](../labels/mystic_story.md)                                                                           |
 |                  9 | [MNH ENTERTAINMENT](../labels/mnh_entertainment.md)                                                                 |
@@ -406,10 +406,10 @@
 | Idle song                  | Epilogue                    |
 | RUN (HAN)                  | Like Water                  |
 | Jelly                      | Fine                        |
-| Weather                    | My sea                      |
-| Typa Girl                  | On The Ground               |
+| Typa Girl                  | My sea                      |
+| Weather                    | On The Ground               |
 | BOOM                       | Sweet                       |
-| Tippy Toes                 | U                           |
+| Mr. Simple                 | U                           |
 
 | 10 most Energetic tracks   | 10 least Energetic tracks                            |
 |:---------------------------|:-----------------------------------------------------|
@@ -452,15 +452,15 @@
 
 | 10 most Instrumental tracks      | 10 least Instrumental tracks   |
 |:---------------------------------|:-------------------------------|
-| Tippy Toes                       | Black Swan                     |
-| You and I (Park Bom)             | TFW (That Feeling When)        |
-| Adios                            | The Red Shoes                  |
-| pporappippam                     | BREATHE                        |
-| Badster                          | Into The Abyss                 |
-| YEPPI YEPPI                      | Stay Gold                      |
-| It′s Raining                     | Frost                          |
-| So Hot                           | Twenty-three                   |
-| GingaMingaYo (the strange world) | First Time                     |
+| Tippy Toes                       | BREATHE                        |
+| You and I (Park Bom)             | Black Swan                     |
+| Adios                            | TFW (That Feeling When)        |
+| pporappippam                     | The Red Shoes                  |
+| Badster                          | DOMINO                         |
+| YEPPI YEPPI                      | Into The Abyss                 |
+| It′s Raining                     | Stay Gold                      |
+| So Hot                           | Frost                          |
+| GingaMingaYo (the strange world) | Twenty-three                   |
 | I Am The Best                    | Sorry                          |
 
 | 10 most Live tracks            | 10 least Live tracks                  |
@@ -474,17 +474,17 @@
 | I Like That                    | That That (prod. & feat. SUGA of BTS) |
 | Vibrato                        | SNEAKERS                              |
 | 행복 (Happiness)                 | CASE 143                              |
-| Genie                          | PING PONG                             |
+| LP                             | PING PONG                             |
 
 | 10 most Happy tracks   | 10 least Happy tracks     |
 |:-----------------------|:--------------------------|
 | Sour candy             | Lucid Dream               |
-| Twenty-three           | U                         |
-| Devil                  | Time After Time           |
+| Devil                  | U                         |
+| Twenty-three           | Time After Time           |
 | Pepe                   | My sea                    |
-| So Hot                 | In The Fall               |
-| Miniskirt              | Side Effects              |
-| 쏘리 쏘리 Sorry, Sorry     | Good Night My Princess    |
-| Twinkle                | 7월 7일 One Of These Nights |
-| Some (feat. Lil Boi)   | Grey Suit                 |
+| Miniskirt              | In The Fall               |
+| So Hot                 | Side Effects              |
+| Twinkle                | Good Night My Princess    |
+| 쏘리 쏘리 Sorry, Sorry     | 7월 7일 One Of These Nights |
+| Give it to me          | Grey Suit                 |
 | Lion Heart             | The Road                  |

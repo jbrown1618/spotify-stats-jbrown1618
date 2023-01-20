@@ -227,13 +227,14 @@
 |-------------------:|:------------------------------------------------|
 |                 63 | [pop](../genres/pop.md)                         |
 |                 53 | [dance pop](../genres/dance_pop.md)             |
-|                 29 | [r&b](../genres/r_b.md)                         |
+|                 34 | [r&b](../genres/r_b.md)                         |
 |                 24 | urban contemporary                              |
 |                 12 | soul                                            |
 |                 12 | neo soul                                        |
 |                 10 | barbadian pop                                   |
 |                 10 | atl hip hop                                     |
-|                  9 | motown                                          |
+|                  9 | funk                                            |
+|                  8 | motown                                          |
 |                  7 | [post-teen pop](../genres/post_teen_pop.md)     |
 |                  6 | pop rap                                         |
 |                  6 | escape room                                     |
@@ -241,7 +242,6 @@
 |                  6 | alternative r&b                                 |
 |                  6 | [adult standards](../genres/adult_standards.md) |
 |                  5 | quiet storm                                     |
-|                  5 | funk                                            |
 |                  5 | [electropop](../genres/electropop.md)           |
 |                  5 | contemporary r&b                                |
 |                  5 | afrofuturism                                    |

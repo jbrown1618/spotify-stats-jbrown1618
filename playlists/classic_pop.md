@@ -22,7 +22,7 @@
 |                  5 | <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | Simon & Garfunkel | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
 |                  4 | <img src="https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108" alt="" width="50" /> | Stevie Wonder     | [🔗](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb3f0f76df1047720f2e57fc35" alt="" width="50" /> | The Temptations   | [🔗](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) |
-|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb034a19a2d576c696b5be94a5" alt="" width="50" /> | Madonna           | [🔗](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) |
+|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b36d28b55620959821f4a5b" alt="" width="50" /> | Madonna           | [🔗](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb152cf48cf9541c7061570857" alt="" width="50" /> | Johnny Cash       | [🔗](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) |
 |                  3 | <img src="https://i.scdn.co/image/19f768d93f6c80f7d4ca5b906e1c0376a3704389" alt="" width="50" /> | The Jackson 5     | [🔗](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8b74c36ba6c31fc0f58783c" alt="" width="50" /> | George Michael    | [🔗](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) |
@@ -159,8 +159,9 @@
 |-------------------:|:----------------------------------------------------|
 |                 20 | soul                                                |
 |                 17 | [mellow gold](../genres/mellow_gold.md)             |
-|                 13 | motown                                              |
+|                 12 | motown                                              |
 |                 12 | [adult standards](../genres/adult_standards.md)     |
+|                  9 | funk                                                |
 |                  9 | [folk rock](../genres/folk_rock.md)                 |
 |                  8 | [r&b](../genres/r_b.md)                             |
 |                  8 | [pop](../genres/pop.md)                             |
@@ -175,11 +176,10 @@
 |                  5 | quiet storm                                         |
 |                  5 | memphis soul                                        |
 |                  5 | melancholia                                         |
-|                  5 | funk                                                |
 |                  4 | new wave pop                                        |
+|                  4 | disco                                               |
 |                  3 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  3 | outlaw country                                      |
-|                  3 | disco                                               |
 |                  3 | bubblegum pop                                       |
 |                  3 | arkansas country                                    |
 |                  1 | sunshine pop                                        |

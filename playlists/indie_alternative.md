@@ -314,8 +314,7 @@
 |                 23 | [rock](../genres/rock.md)                           |
 |                 20 | modern rock                                         |
 |                 20 | [art pop](../genres/art_pop.md)                     |
-|                 19 | [electropop](../genres/electropop.md)               |
-|                 19 | [dance pop](../genres/dance_pop.md)                 |
+|                 18 | [electropop](../genres/electropop.md)               |
 |                 17 | [lilith](../genres/lilith.md)                       |
 |                 17 | baroque pop                                         |
 |                 16 | uk alternative pop                                  |
@@ -325,6 +324,7 @@
 |                 13 | bergen indie                                        |
 |                 13 | alternative rock                                    |
 |                 12 | metropopolis                                        |
+|                 11 | [dance pop](../genres/dance_pop.md)                 |
 |                 11 | australian pop                                      |
 |                 10 | [pop rock](../genres/pop_rock.md)                   |
 |                 10 | oxford indie                                        |

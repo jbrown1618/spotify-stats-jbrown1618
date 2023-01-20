@@ -1,22 +1,23 @@
 # SOURCE MUSIC
 
-10 songs
+12 songs
 
 Appears as:
-- SOURCE MUSIC (10 tracks)
+- SOURCE MUSIC (12 tracks)
 
 ## Top Artists
 
-![Bar chart of top 3 artists](../images/labels/source_music/artists.png)
+![Bar chart of top 4 artists](../images/labels/source_music/artists.png)
 
 
 <details>
-<summary>See all 3 artists</summary>
+<summary>See all 4 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist      | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:------------|:------------------------------------------------------------|
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5ebfb6c0b7b6918dca92be0ed75" alt="" width="50" /> | LE SSERAFIM | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebd0701912e6fccf8427bc7361" alt="" width="50" /> | GFRIEND     | [🔗](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a3393ac350ee2c447494a83" alt="" width="50" /> | HUH YUNJIN  | [🔗](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd40fae46480e4202ef69316d" alt="" width="50" /> | YUJU        | [🔗](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) |
 
 </details>
@@ -24,18 +25,20 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 6 albums](../images/labels/source_music/albums.png)
+![Bar chart of top 8 albums](../images/labels/source_music/albums.png)
 
 
 <details>
-<summary>See all 6 albums</summary>
+<summary>See all 8 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                              | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------|:-----------------------------------------------------------|
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555" alt="" width="50" /> | FEARLESS                           | [🔗](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="" width="50" /> | ANTIFRAGILE                        | [🔗](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c07b020417770f3385448f" alt="" width="50" /> | 回:Walpurgis Night                  | [🔗](https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734c5280bb94cdc3aa732da6c9" alt="" width="50" /> | Raise y_our glass                  | [🔗](https://open.spotify.com/album/5Ty5fWBzQypVhiboHneO3y) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f8155fafa8e6f4d332f2e907" alt="" width="50" /> | Love Rain                          | [🔗](https://open.spotify.com/album/40fAbWLsPvL0nUuiDCwxHu) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27386b1ba55bf754a73f6ecf729" alt="" width="50" /> | I ≠ DOLL                           | [🔗](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27393f063bd7b14993d5ffb9287" alt="" width="50" /> | GFRIEND The 1st Album 'LOL'        | [🔗](https://open.spotify.com/album/0PlSM2Hml1cFANnzYu6RCg) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fc5b3a4f6c07140daa455a61" alt="" width="50" /> | GFRIEND 3rd Mini Album 'SNOWFLAKE' | [🔗](https://open.spotify.com/album/0COnSwFb5qOhABUyWNw6Kp) |
 
@@ -66,6 +69,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc5b3a4f6c07140daa455a61" alt="" width="50" /> | Rough                   | GFRIEND 3rd Mini Album 'SNOWFLAKE' | GFRIEND     | [SOURCE MUSIC](source_music.md) | 💚   | [🔗](https://open.spotify.com/track/3CVeGXpoPKJQ9JuhPp3mpL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27393f063bd7b14993d5ffb9287" alt="" width="50" /> | NAVILLERA               | GFRIEND The 1st Album 'LOL'        | GFRIEND     | [SOURCE MUSIC](source_music.md) |     | [🔗](https://open.spotify.com/track/2Oi0IO8K4BEbhPUdWcjNmv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c07b020417770f3385448f" alt="" width="50" /> | MAGO                    | 回:Walpurgis Night                  | GFRIEND     | [SOURCE MUSIC](source_music.md) | 💚   | [🔗](https://open.spotify.com/track/46WaBBaEHzgbN88Ew0nh50) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734c5280bb94cdc3aa732da6c9" alt="" width="50" /> | Raise y_our glass       | Raise y_our glass                  | HUH YUNJIN  | [SOURCE MUSIC](source_music.md) | 💚   | [🔗](https://open.spotify.com/track/7j1vFohEm1lbsctYY9gyGd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27386b1ba55bf754a73f6ecf729" alt="" width="50" /> | I ≠ DOLL                | I ≠ DOLL                           | HUH YUNJIN  | [SOURCE MUSIC](source_music.md) | 💚   | [🔗](https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555" alt="" width="50" /> | Blue Flame              | FEARLESS                           | LE SSERAFIM | [SOURCE MUSIC](source_music.md) | 💚   | [🔗](https://open.spotify.com/track/37YoRLUu1qId0ewavgvnkG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555" alt="" width="50" /> | FEARLESS                | FEARLESS                           | LE SSERAFIM | [SOURCE MUSIC](source_music.md) | 💚   | [🔗](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555" alt="" width="50" /> | Sour Grapes             | FEARLESS                           | LE SSERAFIM | [SOURCE MUSIC](source_music.md) | 💚   | [🔗](https://open.spotify.com/track/6wBpO4Xc4YgShnENGSFA1M) |

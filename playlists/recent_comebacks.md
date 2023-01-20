@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2738cab1c75d2271af37c3e2db9ab67616d0000b273d2ef237da7f94762997c2083ab67616d0000b273e9cd59d664f597061a513038ab67616d0000b273ed10325dc317f32df83990b9" alt="Recent Comebacks" width="100" />
 
-[64 songs](recent_comebacks_tracks.md)
+[65 songs](recent_comebacks_tracks.md)
 
 ## Top Artists
 
@@ -13,7 +13,7 @@
 
 
 <details>
-<summary>See all 31 artists</summary>
+<summary>See all 32 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                 | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:------------------------------------------------------------|
@@ -47,6 +47,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb106f77e59715b43f713c68bc" alt="" width="50" /> | &TEAM                                  | [🔗](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb968ab271c895fb9cc245d6fe" alt="" width="50" /> | Billlie                                | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc04289f84778ad850cfcddca" alt="" width="50" /> | Jimin                                  | [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a3393ac350ee2c447494a83" alt="" width="50" /> | HUH YUNJIN                             | [🔗](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc65d144f4f352b3cba7b13ea" alt="" width="50" /> | WENDY                                  | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 
 </details>
@@ -54,11 +55,11 @@
 
 ## Top Albums
 
-![Bar chart of top 27 albums](../images/playlists/recent_comebacks/albums.png)
+![Bar chart of top 28 albums](../images/playlists/recent_comebacks/albums.png)
 
 
 <details>
-<summary>See all 27 albums</summary>
+<summary>See all 28 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                          | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------|:-----------------------------------------------------------|
@@ -85,6 +86,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27357fa85a5c9f295d5e5b362e7" alt="" width="50" /> | THE SECOND STEP : CHAPTER TWO                  | [🔗](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27390831ba9ed4aa3b89fd6b81c" alt="" width="50" /> | Street Man Fighter Original Vol.4 (Crew Songs) | [🔗](https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc5762a75c18b494803705c" alt="" width="50" /> | SPIN OFF : FROM THE WITNESS                    | [🔗](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27386b1ba55bf754a73f6ecf729" alt="" width="50" /> | I ≠ DOLL                                       | [🔗](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="" width="50" /> | Forgive Me - The 3rd Mini Album                | [🔗](https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738cab1c75d2271af37c3e2db9" alt="" width="50" /> | First Howling : ME                             | [🔗](https://open.spotify.com/album/3jqV1FFra3A2179rdtiNdo) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733730b0ab6cc8e589b87d26d7" alt="" width="50" /> | Birthday - SM STATION : NCT LAB                | [🔗](https://open.spotify.com/album/6tcPTRUC3gwmG1iyWyzRzr) |
@@ -109,10 +111,10 @@
 |                  6 | [Warner Records](../labels/warner_records.md)                       |
 |                  6 | [Interscope Records](../labels/interscope_records.md)               |
 |                  5 | [88rising Music](../labels/88rising_music.md)                       |
+|                  4 | [SOURCE MUSIC](../labels/source_music.md)                           |
 |                  4 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)               |
 |                  4 | [ADOR](../labels/ador.md)                                           |
 |                  3 | [TEAM WANG records](../labels/team_wang_records.md)                 |
-|                  3 | [SOURCE MUSIC](../labels/source_music.md)                           |
 |                  2 | [Genie Music Corporation](../labels/genie_music_corporation.md)     |
 |                  2 | [Feel Ghood Music](../labels/feel_ghood_music.md)                   |
 |                  2 | [BELIFT LAB](../labels/belift_lab.md)                               |
@@ -176,7 +178,7 @@
 
 | 10 most Speechy tracks        | 10 least Speechy tracks   |
 |:------------------------------|:--------------------------|
-| I GOT IT (HAN)                | Snowy                     |
+| I GOT IT (HAN)                | On A Ride                 |
 | Girls                         | Shut Down                 |
 | Future Perfect (Pass the MIC) | Impurities                |
 | 2 Baddies                     | Time After Time           |
@@ -187,30 +189,30 @@
 | Sculpture                     | Beautiful Christmas       |
 | HEYDAY (Prod. Czaer)          | Cruel                     |
 
-| 10 most Acoustic tracks   | 10 least Acoustic tracks              |
-|:--------------------------|:--------------------------------------|
-| miss you (Hyunjin)        | RING ma Bell (what a wonderful world) |
-| Gold Dust                 | Animal Farm                           |
-| ZOOM                      | Pink Venom                            |
-| The Happiest Girl         | No Celestial                          |
-| Crown                     | Hard to Love                          |
-| Life's Too Short          | Blow                                  |
-| Hug Me (I.N)              | Shut Down                             |
-| OMG                       | Come Alive                            |
-| Cheshire                  | Cruel                                 |
-| BYE BYE                   | HALAZIA                               |
+| 10 most Acoustic tracks   | 10 least Acoustic tracks   |
+|:--------------------------|:---------------------------|
+| miss you (Hyunjin)        | Animal Farm                |
+| Gold Dust                 | Pink Venom                 |
+| ZOOM                      | No Celestial               |
+| The Happiest Girl         | Hard to Love               |
+| Crown                     | Blow                       |
+| Life's Too Short          | Shut Down                  |
+| Hug Me (I.N)              | I ≠ DOLL                   |
+| OMG                       | Come Alive                 |
+| Cheshire                  | Cruel                      |
+| BYE BYE                   | HALAZIA                    |
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| Girls                         | Birthday                       |
-| HALAZIA                       | Sculpture                      |
-| Crown                         | Hard to Love                   |
-| Stamp On It                   | Time After Time                |
-| BIBI Vengeance                | HEYDAY (Prod. Czaer)           |
-| Priority                      | Future Perfect (Pass the MIC)  |
-| Cruel                         | Attention                      |
-| ZOOM                          | LOVE                           |
-| On A Ride                     | After LIKE                     |
+| Girls                         | Sculpture                      |
+| HALAZIA                       | Hard to Love                   |
+| Crown                         | Time After Time                |
+| Stamp On It                   | HEYDAY (Prod. Czaer)           |
+| BIBI Vengeance                | Future Perfect (Pass the MIC)  |
+| Priority                      | Attention                      |
+| Cruel                         | LOVE                           |
+| ZOOM                          | After LIKE                     |
+| On A Ride                     | Birthday                       |
 | Maknae On Top (I.N)           | CASE 143                       |
 
 | 10 most Live tracks   | 10 least Live tracks   |
@@ -221,8 +223,8 @@
 | Nxde                  | Birthday               |
 | BYE BYE               | Maknae On Top (I.N)    |
 | Cheshire              | Scent of you           |
-| Gold Dust             | HEYDAY (Prod. Czaer)   |
-| Time After Time       | Rose                   |
+| Gold Dust             | Rose                   |
+| Time After Time       | HEYDAY (Prod. Czaer)   |
 | ParadoXXX Invasion    | Vitamin                |
 | Beautiful Christmas   | CASE 143               |
 
@@ -230,11 +232,11 @@
 |:--------------------------------------|:------------------------|
 | Maknae On Top (I.N)                   | Crown                   |
 | Give Me Your TMI                      | Change                  |
-| I GOT IT (HAN)                        | Goddess Level           |
-| ANTIFRAGILE                           | miss you (Hyunjin)      |
-| Blow                                  | Dead Man Runnin’        |
-| ZOOM                                  | Sculpture               |
-| Hug Me (I.N)                          | Alter Ego               |
-| Scent of you                          | Outlaw                  |
-| Snowy                                 | Ditto                   |
+| ANTIFRAGILE                           | Goddess Level           |
+| I GOT IT (HAN)                        | miss you (Hyunjin)      |
+| ZOOM                                  | Dead Man Runnin’        |
+| Blow                                  | Sculpture               |
+| Snowy                                 | Alter Ego               |
+| Hug Me (I.N)                          | Outlaw                  |
+| Scent of you                          | Ditto                   |
 | RING ma Bell (what a wonderful world) | Time After Time         |
