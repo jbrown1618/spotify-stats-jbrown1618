@@ -218,7 +218,6 @@
 |                  8 | piano rock                                          |
 |                  7 | [soft rock](../genres/soft_rock.md)                 |
 |                  7 | [lilith](../genres/lilith.md)                       |
-|                  7 | [folk rock](../genres/folk_rock.md)                 |
 |                  6 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  6 | [hollywood](../genres/hollywood.md)                 |
 |                  6 | [adult standards](../genres/adult_standards.md)     |
@@ -230,15 +229,15 @@
 |                  4 | permanent wave                                      |
 |                  4 | lounge                                              |
 |                  4 | glam rock                                           |
+|                  3 | motown                                              |
+|                  3 | folk rock                                           |
 |                  3 | canadian pop                                        |
 |                  3 | australian pop                                      |
 |                  2 | viral pop                                           |
 |                  2 | urban contemporary                                  |
 |                  2 | soul                                                |
-|                  2 | [r&b](../genres/r_b.md)                             |
 |                  2 | pop soul                                            |
 |                  2 | new americana                                       |
-|                  2 | motown                                              |
 |                  2 | modern rock                                         |
 |                  2 | modern alternative rock                             |
 |                  2 | melancholia                                         |
@@ -256,6 +255,7 @@
 |                  1 | steampunk                                           |
 |                  1 | shimmer pop                                         |
 |                  1 | roots rock                                          |
+|                  1 | [r&b](../genres/r_b.md)                             |
 |                  1 | quiet storm                                         |
 |                  1 | progressive bluegrass                               |
 |                  1 | oxford indie                                        |

@@ -90,7 +90,7 @@
 |                  1 | <img src="https://i.scdn.co/image/a1cac87495158db597c9faa75279cc3e30067c83" alt="" width="50" /> | Josquin des Prez                                         | [🔗](https://open.spotify.com/artist/31f23hmZawdqgp0sECAzE8) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf96beef384557563963fb7ef" alt="" width="50" /> | The Vassar Devils                                        | [🔗](https://open.spotify.com/artist/31EncJhuSBcAIsZGA3G1GK) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737d920cc55d75078e9dbcc809" alt="" width="50" /> | Elizabeth Wright                                         | [🔗](https://open.spotify.com/artist/2tQ7EzEpu1KFpseMdHGSzL) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273485435bcdb4ca3a03bc37834" alt="" width="50" /> | Low Key                                                  | [🔗](https://open.spotify.com/artist/2bFVGrmfB6A9ljMkunWcXC) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e1bd2b4c475dea0a3e0db357" alt="" width="50" /> | Low Key                                                  | [🔗](https://open.spotify.com/artist/2bFVGrmfB6A9ljMkunWcXC) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../artists/sara_bareilles.md)           | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730c9a85ee07c806072c27392a" alt="" width="50" /> | Hank Green                                               | [🔗](https://open.spotify.com/artist/2SQVGFEgP0UZTZC1re2ECh) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba6bffc5b4d567301e3706fc9" alt="" width="50" /> | The Swingle Singers                                      | [🔗](https://open.spotify.com/artist/2Rn34e82tV2YfbLfP1omlS) |
@@ -309,7 +309,6 @@
 |                  2 | [singer-songwriter](../genres/singer_songwriter.md)   |
 |                  2 | [rock](../genres/rock.md)                             |
 |                  2 | [mellow gold](../genres/mellow_gold.md)               |
-|                  2 | [folk rock](../genres/folk_rock.md)                   |
 |                  2 | [classic rock](../genres/classic_rock.md)             |
 |                  2 | christian a cappella                                  |
 |                  1 | west end                                              |
@@ -322,6 +321,7 @@
 |                  1 | permanent wave                                        |
 |                  1 | indie r&b                                             |
 |                  1 | franco-flemish school                                 |
+|                  1 | folk rock                                             |
 |                  1 | folk                                                  |
 |                  1 | [early music](../genres/early_music.md)               |
 |                  1 | [classical](../genres/classical.md)                   |

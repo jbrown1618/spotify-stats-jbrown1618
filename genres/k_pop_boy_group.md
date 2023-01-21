@@ -1,6 +1,6 @@
 # k-pop boy group
 
-[241 songs](k_pop_boy_group_tracks.md)
+[242 songs](k_pop_boy_group_tracks.md)
 
 ## Top Artists
 
@@ -36,6 +36,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7c4240b7951da248f3404e42" alt="" width="50" /> | Steve Aoki                             | [🔗](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebac19ac3b8773baa5791999fb" alt="" width="50" /> | TVXQ!                                  | [🔗](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebe069abe9362512bec11f5e13" alt="" width="50" /> | AB6IX                                  | [🔗](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb3806dc272074141b5f4ae00d" alt="" width="50" /> | MONSTA X                               | [🔗](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb07e5355b736b50bccbb0b651" alt="" width="50" /> | BLITZERS                               | [🔗](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb652b1738f121da382c3ab77b" alt="" width="50" /> | ONEUS                                  | [🔗](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb0222fa7cba5da5c28ea5d296" alt="" width="50" /> | BTOB                                   | [🔗](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) |
@@ -47,7 +48,6 @@
 |                  1 | <img src="nan" alt="" width="50" />                                                              | Changbin                               | [🔗](https://open.spotify.com/artist/5OTVNUu0UHn6ddPyEAi419) |
 |                  1 | <img src="nan" alt="" width="50" />                                                              | Bang Chan                              | [🔗](https://open.spotify.com/artist/4qy7HANJDOZRObts4Z0KSV) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6034058cfde0084f922bb284" alt="" width="50" /> | ASTRO                                  | [🔗](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3806dc272074141b5f4ae00d" alt="" width="50" /> | MONSTA X                               | [🔗](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273beda75335e465aef64b524ef" alt="" width="50" /> | DKB                                    | [🔗](https://open.spotify.com/artist/4DoedGw38ubJdAT1edFsIx) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebaccf8c8763bf2fa909677c71" alt="" width="50" /> | DKZ                                    | [🔗](https://open.spotify.com/artist/31eyTcfjAke5hFX3az3nRE) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27323bd8b27aeb3ad6d4f4339c4" alt="" width="50" /> | Wanna One                              | [🔗](https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx) |
@@ -148,6 +148,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27364a3178b264477550c4bcdb6" alt="" width="50" /> | REPLAY - The 8th Repackage Album                   | [🔗](https://open.spotify.com/album/5uxH9so2Yrmi6nLClUZJkv) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733f6458e54f8d2fd64f54ea3f" alt="" width="50" /> | RED                                                | [🔗](https://open.spotify.com/album/5CrMZwZuJcDpzFmMO35vxN) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733c82a88c1d031bcac1949277" alt="" width="50" /> | REBEL                                              | [🔗](https://open.spotify.com/album/7EMQBRGlIDhP9SwjOx9xgF) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="" width="50" /> | REASON                                             | [🔗](https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="" width="50" /> | Proof                                              | [🔗](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734fa89604a84da7861228399b" alt="" width="50" /> | Present : YOU                                      | [🔗](https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e099e697d0068b652fe6814e" alt="" width="50" /> | Positive                                           | [🔗](https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO) |
@@ -166,7 +167,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273daf7982ccaad9ca5e1603792" alt="" width="50" /> | Mr. Simple - The 5th Album                         | [🔗](https://open.spotify.com/album/0eouyQPmljivHfUuG5nYBa) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273560f17af6665e85575021bae" alt="" width="50" /> | Mixtape : Time Out                                 | [🔗](https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b97341ef9657dd8f4ab794dc" alt="" width="50" /> | Mixtape                                            | [🔗](https://open.spotify.com/album/1kTzTL0iOIE2IAGw83yY4O) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27325ca38eeeb374883d7652ff0" alt="" width="50" /> | MIROTIC - The 4th Album                            | [🔗](https://open.spotify.com/album/51Wmrzs9O87YlKp2vqDwln) |
 
 </details>
 
@@ -197,12 +197,12 @@
 |                  4 | [WM Korea](../labels/wm_korea.md)                                   |
 |                  3 | [FNC ENTERTAINMENT](../labels/fnc_entertainment.md)                 |
 |                  2 | [우조엔터테인먼트](../labels/________.md)                                   |
+|                  2 | [Starship Entertainment](../labels/starship_entertainment.md)       |
 |                  2 | [RBW Inc.](../labels/rbw_inc_.md)                                   |
 |                  2 | [Cre.ker Entertainment](../labels/cre_ker_entertainment.md)         |
 |                  1 | [브레이브 엔터테인먼트](../labels/___________.md)                             |
 |                  1 | [㈜ 동요엔터테인먼트](../labels/__________.md)                               |
 |                  1 | [Transparent Arts](../labels/transparent_arts.md)                   |
-|                  1 | [Starship Entertainment](../labels/starship_entertainment.md)       |
 |                  1 | [Sony Music Labels Inc.](../labels/sony_music_labels_inc_.md)       |
 |                  1 | [JELLYFISH ENTERTAINMENT](../labels/jellyfish_entertainment.md)     |
 |                  1 | [Imperial Distribution](../labels/imperial_distribution.md)         |
@@ -264,21 +264,21 @@
 | Gold Dust                   | Attention, please!         |
 | RUN (HAN)                   | Cyberpunk                  |
 | Missing You                 | Tamed-Dashed               |
-| Singularity                 | Easy                       |
-| Back 2 U (AM 01:27)         | Mr. Simple                 |
+| Singularity                 | Mr. Simple                 |
+| Back 2 U (AM 01:27)         | Easy                       |
 
-| 10 most Instrumental tracks   | 10 least Instrumental tracks   |
-|:------------------------------|:-------------------------------|
-| Fairy of Shampoo              | Deja Vu                        |
-| Singularity                   | Answer                         |
-| Mr. Simple                    | Guerrilla                      |
-| HALAZIA                       | Devil                          |
-| Lemonade                      | Lo Siento                      |
-| Ring Ding Dong                | Mamacita (아야야)                 |
-| Danger                        | Black Suit                     |
-| Airplane pt.2                 | House Party                    |
-| Sour                          | Back Down                      |
-| Doom Du Doom                  | FEVER                          |
+| 10 most Instrumental tracks   | 10 least Instrumental tracks            |
+|:------------------------------|:----------------------------------------|
+| Fairy of Shampoo              | HALA HALA (Hearts Awakened, Live Alive) |
+| Singularity                   | Deja Vu                                 |
+| Mr. Simple                    | Answer                                  |
+| HALAZIA                       | Guerrilla                               |
+| Lemonade                      | Devil                                   |
+| Ring Ding Dong                | Lo Siento                               |
+| Danger                        | Mamacita (아야야)                          |
+| Airplane pt.2                 | Black Suit                              |
+| Sour                          | House Party                             |
+| Doom Du Doom                  | FEVER                                   |
 
 | 10 most Live tracks             | 10 least Live tracks       |
 |:--------------------------------|:---------------------------|

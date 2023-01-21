@@ -1,6 +1,6 @@
 # pop
 
-[492 songs](pop_tracks.md)
+[495 songs](pop_tracks.md)
 
 ## Top Artists
 
@@ -51,6 +51,7 @@
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bbad89a61061304ec842588" alt="" width="50" /> | P!nk                                                           | [🔗](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb2be8611f6c6e9174031c64df" alt="" width="50" /> | JEON SOMI                                                      | [🔗](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb37bff6aa1d42bede9048750f" alt="" width="50" /> | Calvin Harris                                                  | [🔗](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) |
+|                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b36d28b55620959821f4a5b" alt="" width="50" /> | Madonna                                                        | [🔗](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb6659b1cb61936bd7bcb229a2" alt="" width="50" /> | Demi Lovato                                                    | [🔗](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebaed3c717bf1753ab928ea88d" alt="" width="50" /> | John Legend                                                    | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5ebabe53b210d382c4c450d7709" alt="" width="50" /> | MIKA                                                           | [🔗](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) |
@@ -113,7 +114,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb66d17ee8690d2e8d94ee7387" alt="" width="50" /> | Martin Garrix                                                  | [🔗](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8079989370c50963b60ee7bc" alt="" width="50" /> | CeeLo Green                                                    | [🔗](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9fbf7133dfc04d4cd44ccd36" alt="" width="50" /> | ZAYN                                                           | [🔗](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ec030557b0529c01639529b" alt="" width="50" /> | Timbaland                                                      | [🔗](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) |
 
 </details>
 
@@ -202,6 +202,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2730a60fb0deda858270cca82ee" alt="" width="50" /> | Dirty Computer                                                 | [🔗](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27354c6edd554935d73e159e199" alt="" width="50" /> | Circus (Deluxe Version)                                        | [🔗](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | Chromatica                                                     | [🔗](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273efc2fc4cdaeb04524eb10c15" alt="" width="50" /> | Celebration (Bonus Track Version)                              | [🔗](https://open.spotify.com/album/4GU7z3q6fg90MWrkTacYYG) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | Bad (Remastered)                                               | [🔗](https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273026e88f624dfb96f2e1ef10b" alt="" width="50" /> | B'Day Deluxe Edition                                           | [🔗](https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342" alt="" width="50" /> | A Star Is Born Soundtrack                                      | [🔗](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) |
@@ -226,7 +227,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27374b226f1b53ca4902dedce2a" alt="" width="50" /> | Yellow Flicker Beat (From The Hunger Games: Mockingjay Part 1) | [🔗](https://open.spotify.com/album/7sg5iqMiDrM2aJqLAmv83V) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651" alt="" width="50" /> | X&Y                                                            | [🔗](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734b378770cd6b77e86f8a6288" alt="" width="50" /> | Worldwide                                                      | [🔗](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c70176fa51326491ecc5f79e" alt="" width="50" /> | Who Hurt You?                                                  | [🔗](https://open.spotify.com/album/15M9pZ8gsdoN67yLjyQ039) |
 
 </details>
 
@@ -248,9 +248,9 @@
 |                 29 | [Big Machine Records](../labels/big_machine_records.md)                                                             |
 |                 26 | [RCA Records Label](../labels/rca_records_label.md)                                                                 |
 |                 24 | [Polydor Records](../labels/polydor_records.md)                                                                     |
+|                 22 | [Warner Records](../labels/warner_records.md)                                                                       |
 |                 20 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
 |                 20 | [Atlantic Records](../labels/atlantic_records.md)                                                                   |
-|                 19 | [Warner Records](../labels/warner_records.md)                                                                       |
 |                 15 | [Universal-Island Records Ltd.](../labels/universal_island_records_ltd_.md)                                         |
 |                 15 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 13 | [Universal Music LLC](../labels/universal_music_llc.md)                                                             |
@@ -353,11 +353,11 @@
 | Anaconda                        | Once Upon Another Time      |
 | WAP (feat. Megan Thee Stallion) | Gravity                     |
 | Billie Jean                     | That's Where I Am           |
-| Pretty Please                   | Shades Of Cool              |
-| Sally Walker                    | Stay                        |
+| Pretty Please                   | Stay                        |
+| Sally Walker                    | Shades Of Cool              |
 | 1, 2, 3, 4                      | Norman fucking Rockwell     |
-| bury a friend                   | Already Gone                |
-| Coño                            | Fix You                     |
+| bury a friend                   | Fix You                     |
+| Coño                            | Already Gone                |
 | I Think He Knows                | Born To Die                 |
 
 | 10 most Energetic tracks        | 10 least Energetic tracks                                                         |
@@ -381,8 +381,8 @@
 | Vigilante Shit                  | Begin Again                    |
 | Irreplaceable                   | Chasing Pavements              |
 | bad guy                         | Set Fire to the Rain           |
-| WAP (feat. Megan Thee Stallion) | All Too Well                   |
-| Bubblegum (feat. Tyga)          | The Scientist                  |
+| WAP (feat. Megan Thee Stallion) | The Scientist                  |
+| Bubblegum (feat. Tyga)          | All Too Well                   |
 | 7 rings                         | Breakeven                      |
 | bury a friend                   | Satellite Call                 |
 
@@ -427,13 +427,13 @@
 
 | 10 most Happy tracks            | 10 least Happy tracks            |
 |:--------------------------------|:---------------------------------|
-| There's Nothing Holdin' Me Back | How Big, How Blue, How Beautiful |
-| SexyBack (feat. Timbaland)      | I'll Show You                    |
-| I'm a Slave 4 U                 | Skyfall                          |
-| P.Y.T. (Pretty Young Thing)     | Yellow Flicker Beat              |
-| 1, 2, 3, 4                      | Falling                          |
-| Sucker                          | Once Upon Another Time           |
-| I Choose You                    | xanny                            |
-| Don't Stop 'Til You Get Enough  | No Time To Die                   |
-| Tick Tock (feat. 24kGoldn)      | Delicate                         |
-| Peacock                         | Swan Song                        |
+| Material Girl                   | How Big, How Blue, How Beautiful |
+| Like a Virgin                   | I'll Show You                    |
+| There's Nothing Holdin' Me Back | Skyfall                          |
+| SexyBack (feat. Timbaland)      | Yellow Flicker Beat              |
+| I'm a Slave 4 U                 | Falling                          |
+| P.Y.T. (Pretty Young Thing)     | Once Upon Another Time           |
+| 1, 2, 3, 4                      | xanny                            |
+| Sucker                          | No Time To Die                   |
+| I Choose You                    | Delicate                         |
+| Don't Stop 'Til You Get Enough  | Swan Song                        |

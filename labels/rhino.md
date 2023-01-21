@@ -70,12 +70,12 @@ Appears as:
 
 
 <details>
-<summary>See all 35 genres</summary>
+<summary>See all 34 genres</summary>
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
 |                 14 | [singer-songwriter](../genres/singer_songwriter.md) |
-|                 14 | [folk rock](../genres/folk_rock.md)                 |
+|                 14 | folk rock                                           |
 |                 13 | [classic rock](../genres/classic_rock.md)           |
 |                 12 | [soft rock](../genres/soft_rock.md)                 |
 |                 11 | [rock](../genres/rock.md)                           |
@@ -107,7 +107,6 @@ Appears as:
 |                  1 | new wave pop                                        |
 |                  1 | new wave                                            |
 |                  1 | new romantic                                        |
-|                  1 | disco                                               |
 |                  1 | blues rock                                          |
 
 </details>

@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1407 songs](liked_songs_tracks.md)
+[1409 songs](liked_songs_tracks.md)
 
 ## Top Artists
 
@@ -17,7 +17,7 @@
 |                 47 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)                         | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 |                 44 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../artists/sara_bareilles.md)                 | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 |                 39 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | [Taylor Swift](../artists/taylor_swift.md)                     | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
-|                 31 | <img src="https://i.scdn.co/image/ab6761610000e5eb200008f1cb940483514db2bd" alt="" width="50" /> | [TWICE](../artists/twice.md)                                   | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
+|                 32 | <img src="https://i.scdn.co/image/ab6761610000e5eb200008f1cb940483514db2bd" alt="" width="50" /> | [TWICE](../artists/twice.md)                                   | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 |                 27 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)                           | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 |                 26 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md)                         | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 |                 24 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../artists/itzy.md)                                     | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
@@ -243,7 +243,7 @@
 |   Number of Tracks | Label                                                                                                               |
 |-------------------:|:--------------------------------------------------------------------------------------------------------------------|
 |                162 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
-|                 85 | [Republic Records](../labels/republic_records.md)                                                                   |
+|                 86 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 62 | [Epic](../labels/epic.md)                                                                                           |
 |                 57 | [Interscope Records](../labels/interscope_records.md)                                                               |
 |                 54 | [Columbia](../labels/columbia.md)                                                                                   |
@@ -264,9 +264,9 @@
 |                 17 | [JYP Entertainment](../labels/jyp_entertainment.md)                                                                 |
 |                 16 | [Universal-Island Records Ltd.](../labels/universal_island_records_ltd_.md)                                         |
 |                 16 | [Polydor Records](../labels/polydor_records.md)                                                                     |
+|                 14 | [Starship Entertainment](../labels/starship_entertainment.md)                                                       |
 |                 14 | [Rhino](../labels/rhino.md)                                                                                         |
 |                 13 | [The Tarpeggios](../labels/the_tarpeggios.md)                                                                       |
-|                 13 | [Starship Entertainment](../labels/starship_entertainment.md)                                                       |
 |                 13 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)                                                           |
 |                 12 | [XL Recordings](../labels/xl_recordings.md)                                                                         |
 |                 12 | [Kakao Entertainment](../labels/kakao_entertainment.md)                                                             |
@@ -356,11 +356,11 @@
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
-|                611 | [k-pop](../genres/k_pop.md)                         |
-|                353 | [pop](../genres/pop.md)                             |
-|                292 | [k-pop girl group](../genres/k_pop_girl_group.md)   |
-|                162 | [k-pop boy group](../genres/k_pop_boy_group.md)     |
-|                155 | [dance pop](../genres/dance_pop.md)                 |
+|                613 | [k-pop](../genres/k_pop.md)                         |
+|                355 | [pop](../genres/pop.md)                             |
+|                293 | [k-pop girl group](../genres/k_pop_girl_group.md)   |
+|                163 | [k-pop boy group](../genres/k_pop_boy_group.md)     |
+|                156 | [dance pop](../genres/dance_pop.md)                 |
 |                100 | [rock](../genres/rock.md)                           |
 |                 78 | [classic rock](../genres/classic_rock.md)           |
 |                 61 | [neo mellow](../genres/neo_mellow.md)               |
@@ -372,18 +372,17 @@
 |                 39 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                 35 | [electropop](../genres/electropop.md)               |
 |                 34 | [art pop](../genres/art_pop.md)                     |
-|                 33 | [folk rock](../genres/folk_rock.md)                 |
 |                 32 | [soft rock](../genres/soft_rock.md)                 |
 |                 30 | [psychedelic rock](../genres/psychedelic_rock.md)   |
 |                 30 | british invasion                                    |
 |                 29 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                 28 | korean pop                                          |
 |                 27 | korean r&b                                          |
-|                 26 | [r&b](../genres/r_b.md)                             |
 |                 25 | piano rock                                          |
 |                 23 | beatlesque                                          |
 |                 22 | merseybeat                                          |
-|                 21 | pop rap                                             |
+|                 21 | [r&b](../genres/r_b.md)                             |
+|                 20 | pop rap                                             |
 |                 20 | modern rock                                         |
 |                 20 | anime                                               |
 |                 19 | permanent wave                                      |
@@ -391,15 +390,16 @@
 |                 19 | album rock                                          |
 |                 19 | [adult standards](../genres/adult_standards.md)     |
 |                 18 | hard rock                                           |
+|                 18 | folk rock                                           |
 |                 18 | art rock                                            |
 |                 18 | [a cappella](../genres/a_cappella.md)               |
 |                 16 | uk pop                                              |
 |                 16 | k-rap                                               |
 |                 16 | indie pop                                           |
 |                 15 | urban contemporary                                  |
-|                 15 | neo soul                                            |
 |                 15 | metropopolis                                        |
 |                 14 | uk alternative pop                                  |
+|                 14 | neo soul                                            |
 |                 14 | melancholia                                         |
 |                 14 | folk                                                |
 |                 14 | baroque pop                                         |
@@ -426,6 +426,7 @@
 |                  8 | australian dance                                    |
 |                  7 | viral pop                                           |
 |                  7 | pop dance                                           |
+|                  7 | motown                                              |
 |                  7 | kawaii metal                                        |
 |                  7 | j-pop                                               |
 |                  7 | j-metal                                             |
@@ -441,7 +442,6 @@
 |                  7 | alternative r&b                                     |
 |                  6 | stomp and holler                                    |
 |                  6 | pop soul                                            |
-|                  6 | motown                                              |
 |                  6 | modern alternative rock                             |
 |                  6 | la indie                                            |
 |                  6 | hip pop                                             |
@@ -468,12 +468,12 @@
 | Anaconda                        | A Case of You               |
 | #Twenty                         | Nature Boy                  |
 | FACE                            | Lights                      |
-| WAP (feat. Megan Thee Stallion) | You Take My Breath Away     |
-| SNEAKERS                        | Born To Die                 |
+| SNEAKERS                        | You Take My Breath Away     |
+| WAP (feat. Megan Thee Stallion) | Born To Die                 |
 | Billie Jean                     | The End (Interlude)         |
 | RUN (HAN)                       | Amore                       |
-| Another One Bites The Dust      | Bridge Over Troubled Water  |
-| Baby Got Back                   | Pyramid Song                |
+| Baby Got Back                   | Bridge Over Troubled Water  |
+| Another One Bites The Dust      | Pyramid Song                |
 
 | 10 most Energetic tracks   | 10 least Energetic tracks   |
 |:---------------------------|:----------------------------|
@@ -498,8 +498,8 @@
 | Free Fall                        | The Scientist             |
 | bad guy                          | Breakeven                 |
 | WAP (feat. Megan Thee Stallion)  | Satellite Call            |
-| I GOT IT (HAN)                   | 情非得已                      |
-| Ice Cream (with Selena Gomez)    | With                      |
+| Ice Cream (with Selena Gomez)    | 情非得已                      |
+| I GOT IT (HAN)                   | With                      |
 
 | 10 most Acoustic tracks      | 10 least Acoustic tracks   |
 |:-----------------------------|:---------------------------|
@@ -511,8 +511,8 @@
 | The Night We Met             | Mr. Simple                 |
 | I Had a King                 | Poison                     |
 | Sweet Nothing                | Headbangeeeeerrrrr!!!!!    |
-| Take It All                  | Kagerou                    |
-| The Dawntreader              | The Phantom Of The Opera   |
+| The Dawntreader              | Kagerou                    |
+| Take It All                  | The Phantom Of The Opera   |
 
 | 10 most Instrumental tracks              | 10 least Instrumental tracks                |
 |:-----------------------------------------|:--------------------------------------------|
@@ -534,8 +534,8 @@
 | XS                             | YEPPI YEPPI                           |
 | Piano Man                      | memeM                                 |
 | You Better Run                 | That That (prod. & feat. SUGA of BTS) |
-| Red Lipstick (feat. Yoonmirae) | Finesse                               |
-| MAKE U DANCE (feat. EUNHA)     | SNEAKERS                              |
+| MAKE U DANCE (feat. EUNHA)     | Finesse                               |
+| Red Lipstick (feat. Yoonmirae) | SNEAKERS                              |
 | Sticker                        | CASE 143                              |
 | You Oughta Know                | Finesse - Remix; feat. Cardi B        |
 | 행복 (Happiness)                 | Ain't It Fun                          |

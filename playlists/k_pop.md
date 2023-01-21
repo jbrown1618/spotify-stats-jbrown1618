@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273f7da7c0f322b7a1c95190d92" alt="K-Pop" width="100" />
 
-[965 songs](k_pop_tracks.md)
+[967 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -19,7 +19,7 @@
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------|:------------------------------------------------------------|
 |                 60 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)               | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 |                 43 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md)               | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
-|                 34 | <img src="https://i.scdn.co/image/ab6761610000e5eb200008f1cb940483514db2bd" alt="" width="50" /> | [TWICE](../artists/twice.md)                         | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
+|                 35 | <img src="https://i.scdn.co/image/ab6761610000e5eb200008f1cb940483514db2bd" alt="" width="50" /> | [TWICE](../artists/twice.md)                         | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 |                 33 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)                             | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 |                 32 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../artists/itzy.md)                           | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                 30 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)                 | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
@@ -246,7 +246,7 @@
 |   Number of Tracks | Label                                                                                                               |
 |-------------------:|:--------------------------------------------------------------------------------------------------------------------|
 |                219 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
-|                103 | [Republic Records](../labels/republic_records.md)                                                                   |
+|                104 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 61 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
 |                 56 | [Genie Music Corporation](../labels/genie_music_corporation.md)                                                     |
 |                 48 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                                                 |
@@ -258,8 +258,8 @@
 |                 25 | [JYP Entertainment](../labels/jyp_entertainment.md)                                                                 |
 |                 20 | [BELIFT LAB](../labels/belift_lab.md)                                                                               |
 |                 19 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)                                                           |
+|                 18 | [Starship Entertainment](../labels/starship_entertainment.md)                                                       |
 |                 18 | [HYBE](../labels/hybe.md)                                                                                           |
-|                 17 | [Starship Entertainment](../labels/starship_entertainment.md)                                                       |
 |                 15 | [Kakao Entertainment](../labels/kakao_entertainment.md)                                                             |
 |                 14 | [WM Korea](../labels/wm_korea.md)                                                                                   |
 |                 12 | [Warner Records](../labels/warner_records.md)                                                                       |
@@ -359,9 +359,9 @@
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
-|                809 | [k-pop](../genres/k_pop.md)                       |
-|                366 | [k-pop girl group](../genres/k_pop_girl_group.md) |
-|                232 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
+|                811 | [k-pop](../genres/k_pop.md)                       |
+|                367 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+|                233 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
 |                 53 | [pop](../genres/pop.md)                           |
 |                 34 | korean pop                                        |
 |                 30 | korean r&b                                        |
@@ -406,10 +406,10 @@
 | Idle song                  | Epilogue                    |
 | RUN (HAN)                  | Like Water                  |
 | Jelly                      | Fine                        |
-| Typa Girl                  | My sea                      |
-| Weather                    | On The Ground               |
+| Weather                    | My sea                      |
+| Typa Girl                  | On The Ground               |
 | BOOM                       | Sweet                       |
-| Mr. Simple                 | U                           |
+| Tippy Toes                 | U                           |
 
 | 10 most Energetic tracks   | 10 least Energetic tracks                            |
 |:---------------------------|:-----------------------------------------------------|
@@ -452,15 +452,15 @@
 
 | 10 most Instrumental tracks      | 10 least Instrumental tracks   |
 |:---------------------------------|:-------------------------------|
-| Tippy Toes                       | BREATHE                        |
-| You and I (Park Bom)             | Black Swan                     |
-| Adios                            | TFW (That Feeling When)        |
-| pporappippam                     | The Red Shoes                  |
-| Badster                          | DOMINO                         |
-| YEPPI YEPPI                      | Into The Abyss                 |
-| It′s Raining                     | Stay Gold                      |
-| So Hot                           | Frost                          |
-| GingaMingaYo (the strange world) | Twenty-three                   |
+| Tippy Toes                       | Black Swan                     |
+| You and I (Park Bom)             | TFW (That Feeling When)        |
+| Adios                            | The Red Shoes                  |
+| pporappippam                     | DOMINO                         |
+| Badster                          | Into The Abyss                 |
+| YEPPI YEPPI                      | Stay Gold                      |
+| It′s Raining                     | Frost                          |
+| So Hot                           | Twenty-three                   |
+| GingaMingaYo (the strange world) | First Time                     |
 | I Am The Best                    | Sorry                          |
 
 | 10 most Live tracks            | 10 least Live tracks                  |
@@ -479,12 +479,12 @@
 | 10 most Happy tracks   | 10 least Happy tracks     |
 |:-----------------------|:--------------------------|
 | Sour candy             | Lucid Dream               |
-| Devil                  | U                         |
-| Twenty-three           | Time After Time           |
+| Twenty-three           | U                         |
+| Devil                  | Time After Time           |
 | Pepe                   | My sea                    |
 | Miniskirt              | In The Fall               |
 | So Hot                 | Side Effects              |
 | Twinkle                | Good Night My Princess    |
 | 쏘리 쏘리 Sorry, Sorry     | 7월 7일 One Of These Nights |
 | Give it to me          | Grey Suit                 |
-| Lion Heart             | The Road                  |
+| Some (feat. Lil Boi)   | The Road                  |

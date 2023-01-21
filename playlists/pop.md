@@ -368,9 +368,9 @@
 |                 26 | edm                                             |
 |                 20 | urban contemporary                              |
 |                 20 | pop rap                                         |
-|                 17 | neo soul                                        |
-|                 16 | [r&b](../genres/r_b.md)                         |
+|                 15 | neo soul                                        |
 |                 12 | atl hip hop                                     |
+|                 11 | [r&b](../genres/r_b.md)                         |
 |                 11 | [neo mellow](../genres/neo_mellow.md)           |
 |                 11 | british soul                                    |
 |                 11 | australian pop                                  |
@@ -434,6 +434,7 @@
 |                  2 | alternative hip hop                             |
 |                  2 | [adult standards](../genres/adult_standards.md) |
 |                  1 | wonky                                           |
+|                  1 | viral rap                                       |
 |                  1 | vapor twitch                                    |
 |                  1 | vapor soul                                      |
 |                  1 | vapor pop                                       |
@@ -458,7 +459,6 @@
 |                  1 | modern indie pop                                |
 |                  1 | lafayette indie                                 |
 |                  1 | la indie                                        |
-|                  1 | italian pop                                     |
 
 </details>
 

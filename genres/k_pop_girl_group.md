@@ -1,6 +1,6 @@
 # k-pop girl group
 
-[385 songs](k_pop_girl_group_tracks.md)
+[387 songs](k_pop_girl_group_tracks.md)
 
 ## Top Artists
 
@@ -15,14 +15,14 @@
 |   Number of Tracks | Art                                                                                              | Artist                                               | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------|:------------------------------------------------------------|
 |                 62 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md)               | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
+|                 37 | <img src="https://i.scdn.co/image/ab6761610000e5eb200008f1cb940483514db2bd" alt="" width="50" /> | [TWICE](../artists/twice.md)                         | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 |                 37 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../artists/itzy.md)                           | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
-|                 36 | <img src="https://i.scdn.co/image/ab6761610000e5eb200008f1cb940483514db2bd" alt="" width="50" /> | [TWICE](../artists/twice.md)                         | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 |                 33 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)                   | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 |                 28 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)                 | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 |                 20 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../artists/mamamoo.md)                     | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
 |                 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../artists/aespa.md)                         | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
+|                 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="" width="50" /> | [Dreamcatcher](../artists/dreamcatcher.md)           | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 |                 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | [Girls' Generation](../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
-|                 13 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="" width="50" /> | [Dreamcatcher](../artists/dreamcatcher.md)           | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 |                 12 | <img src="https://i.scdn.co/image/ab6761610000e5eb45b2ff69ae6a3caccb776cfa" alt="" width="50" /> | [STAYC](../artists/stayc.md)                         | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | CLC                                                  | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8786ccb6031a3266bb15606" alt="" width="50" /> | WJSN                                                 | [🔗](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) |
@@ -168,6 +168,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273266f95f6353cb2b974f67fa7" alt="" width="50" /> | miss me?                                    | [🔗](https://open.spotify.com/album/2YyowuE62RMWFtBSa2EO7r) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27358870b3abb0ff43e5948c912" alt="" width="50" /> | i'M THE TREND                               | [🔗](https://open.spotify.com/album/03TbZLPSRsHWX11umzK4qf) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737c0618723e2fca9e617eec34" alt="" width="50" /> | [Summer Holiday]                            | [🔗](https://open.spotify.com/album/1JOpx5eL6Rb3vRC9epERQD) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27393dc875f5465891061acef62" alt="" width="50" /> | [REASON]                                    | [🔗](https://open.spotify.com/album/0VZzJkiIK51ygHS5n1qRnZ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731e998666727247d231c75cf8" alt="" width="50" /> | [Dystopia : Road to Utopia]                 | [🔗](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c7d075ac409f015413350f6d" alt="" width="50" /> | [Apocalypse : Follow us]                    | [🔗](https://open.spotify.com/album/7MQXcfzHmWjQAAIFhdy1mY) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273608cf05fbd3605c77444917f" alt="" width="50" /> | [&]                                         | [🔗](https://open.spotify.com/album/747FhjbZXy5H8frCZ90eDv) |
@@ -189,7 +190,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27342678cd46d7322e395400930" alt="" width="50" /> | UNNATURAL                                   | [🔗](https://open.spotify.com/album/0uD1Chx5ZsnZM4kS8yK0S8) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736034eda385497f614778f457" alt="" width="50" /> | Twicetagram                                 | [🔗](https://open.spotify.com/album/3hJXmK5gWN9P6jtZL0Lr2y) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273387444ab2fc1f08dfe7915ab" alt="" width="50" /> | Twicecoaster: Lane 1                        | [🔗](https://open.spotify.com/album/5zQhaDNbiXHRqd8Y51I4vy) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736f2d10189a41c7345a5a0337" alt="" width="50" /> | To Anyone                                   | [🔗](https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG) |
 
 </details>
 
@@ -205,7 +205,7 @@
 |   Number of Tracks | Label                                                                                                               |
 |-------------------:|:--------------------------------------------------------------------------------------------------------------------|
 |                 84 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
-|                 63 | [Republic Records](../labels/republic_records.md)                                                                   |
+|                 64 | [Republic Records](../labels/republic_records.md)                                                                   |
 |                 25 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
 |                 24 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                                                               |
 |                 23 | [Interscope Records](../labels/interscope_records.md)                                                               |
@@ -216,7 +216,7 @@
 |                 12 | [JYP Entertainment](../labels/jyp_entertainment.md)                                                                 |
 |                 12 | [Genie Music Corporation](../labels/genie_music_corporation.md)                                                     |
 |                 11 | [High Up Entertainment](../labels/high_up_entertainment.md)                                                         |
-|                  8 | [DREAMCATCHER COMPANY](../labels/dreamcatcher_company.md)                                                           |
+|                  9 | [DREAMCATCHER COMPANY](../labels/dreamcatcher_company.md)                                                           |
 |                  7 | [WM Entertainment](../labels/wm_entertainment.md)                                                                   |
 |                  6 | [FNC ENTERTAINMENT](../labels/fnc_entertainment.md)                                                                 |
 |                  6 | [ADOR](../labels/ador.md)                                                                                           |
@@ -275,16 +275,16 @@
 
 | 10 most Danceable tracks   | 10 least Danceable tracks          |
 |:---------------------------|:-----------------------------------|
-| #Twenty                    | HANN (Alone in winter)             |
+| #Twenty                    | REASON                             |
 | SNEAKERS                   | Life's Too Short (English Version) |
 | SNEAKERS (English Ver.)    | Addicted                           |
 | Typa Girl                  | Poison                             |
-| Scandal                    | You Better Run                     |
-| Time Slip                  | 7월 7일 One Of These Nights          |
+| Scandal                    | 7월 7일 One Of These Nights          |
+| Time Slip                  | You Better Run                     |
 | Louder                     | Feel My Rhythm                     |
 | Nobody                     | Where Are We Now                   |
-| So Hot                     | O.O                                |
-| Pepe                       | HWAA                               |
+| Pepe                       | O.O                                |
+| So Hot                     | HWAA                               |
 
 | 10 most Energetic tracks   | 10 least Energetic tracks   |
 |:---------------------------|:----------------------------|
@@ -296,8 +296,8 @@
 | Secret                     | You Never Know              |
 | Oh!                        | STAY                        |
 | Mr.Mr.                     | HANN (Alone in winter)      |
-| Very Very Very             | Hope Not                    |
-| Panorama                   | The Happiest Girl           |
+| Panorama                   | Hope Not                    |
+| Very Very Very             | The Happiest Girl           |
 
 | 10 most Speechy tracks        | 10 least Speechy tracks   |
 |:------------------------------|:--------------------------|
@@ -320,22 +320,22 @@
 | Hurt                      | 달라달라 (DALLA DALLA)         |
 | Jazz Bar                  | LA DI DA                   |
 | ZOOM                      | DALLA DALLA - English Ver. |
-| Wind flower               | RUN2U                      |
-| Starry Night              | Adios                      |
+| Starry Night              | RUN2U                      |
+| Wind flower               | Adios                      |
 | Moonlight Melody          | Red Light                  |
 | The Happiest Girl         | Poison                     |
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| You and I (Park Bom)          | Bewitched                      |
-| Adios                         | Bewitched - Eng Ver.           |
+| You and I (Park Bom)          | Addicted                       |
+| Adios                         | Bewitched                      |
 | YEPPI YEPPI                   | Oh Boy                         |
 | So Hot                        | #Cookie Jar                    |
 | I Am The Best                 | Rookie                         |
-| Power Up                      | Villain                        |
+| Power Up                      | Bewitched - Eng Ver.           |
 | BBoom BBoom                   | WILDSIDE                       |
 | In My Dreams                  | Marionette                     |
-| BAAM                          | SO BAD                         |
+| BAAM                          | Villain                        |
 | Star                          | HANN (Alone in winter)         |
 
 | 10 most Live tracks   | 10 least Live tracks          |
@@ -354,11 +354,11 @@
 | 10 most Happy tracks    | 10 least Happy tracks     |
 |:------------------------|:--------------------------|
 | Pepe                    | 4 Walls                   |
-| Miniskirt               | MORE                      |
-| So Hot                  | POSE                      |
+| So Hot                  | MORE                      |
+| Miniskirt               | POSE                      |
 | Twinkle                 | LION                      |
-| Give it to me           | Ditto                     |
-| Lion Heart              | Hope Not                  |
+| Lion Heart              | Ditto                     |
+| Give it to me           | Hope Not                  |
 | 러시안 룰렛 Russian Roulette | In My Dreams              |
 | Nobody                  | Body Talk                 |
 | Really                  | Lucid Dream               |

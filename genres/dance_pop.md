@@ -1,6 +1,6 @@
 # dance pop
 
-[234 songs](dance_pop_tracks.md)
+[235 songs](dance_pop_tracks.md)
 
 ## Top Artists
 
@@ -103,6 +103,7 @@
 |                  1 | <img src="nan" alt="" width="50" />                                                              | YEJI & RYUJIN of ITZY                        | [🔗](https://open.spotify.com/artist/4TYswX6bKUjM9rbEL7CMBH) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d800f202dd15af03179876b" alt="" width="50" /> | Jess Glynne                                  | [🔗](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb866f2a7fc5dffca7c22e5b7b" alt="" width="50" /> | Jax Jones                                    | [🔗](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd06f948216f34ea0298aef43" alt="" width="50" /> | Caroline Polachek                            | [🔗](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) |
 |                  1 | <img src="https://i.scdn.co/image/145b7b08e7f1de22d033e957c0888a5f9e0c99e6" alt="" width="50" /> | Leighton Meester                             | [🔗](https://open.spotify.com/artist/481VlDdXZAIRxnHyywNbXn) |
 |                  1 | <img src="https://i.scdn.co/image/8a522c7faa13cf4321ca6bea075fd97f75f40cfe" alt="" width="50" /> | Ying Yang Twins                              | [🔗](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496" alt="" width="50" /> | Anderson .Paak                               | [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) |
@@ -113,7 +114,6 @@
 |                  1 | <img src="nan" alt="" width="50" />                                                              | Zachary Levi                                 | [🔗](https://open.spotify.com/artist/3XSyTI9ct70ZheMESAv2st) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb002eedc44fefe085daae10e4" alt="" width="50" /> | Troye Sivan                                  | [🔗](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8f4d36b43fa094d32a167f1e" alt="" width="50" /> | Ashnikko                                     | [🔗](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)                     | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 
 </details>
 
@@ -237,7 +237,7 @@
 
 
 <details>
-<summary>See all 77 labels</summary>
+<summary>See all 78 labels</summary>
 
 |   Number of Tracks | Label                                                                                                                       |
 |-------------------:|:----------------------------------------------------------------------------------------------------------------------------|
@@ -290,6 +290,7 @@
 |                  1 | [Selena Gomez PS](../labels/selena_gomez_ps.md)                                                                             |
 |                  1 | [Roc Nation](../labels/roc_nation.md)                                                                                       |
 |                  1 | [Rihanna](../labels/rihanna.md)                                                                                             |
+|                  1 | [Perpetual Novice](../labels/perpetual_novice.md)                                                                           |
 |                  1 | [Parlophone UK](../labels/parlophone_uk.md)                                                                                 |
 |                  1 | [Nu America Music](../labels/nu_america_music.md)                                                                           |
 |                  1 | [Lauv](../labels/lauv.md)                                                                                                   |

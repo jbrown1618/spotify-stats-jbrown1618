@@ -115,11 +115,11 @@
 
 ## Genres
 
-![Bar chart of top 24 genres](../images/playlists/hip_hop/genres.png)
+![Bar chart of top 25 genres](../images/playlists/hip_hop/genres.png)
 
 
 <details>
-<summary>See all 24 genres</summary>
+<summary>See all 25 genres</summary>
 
 |   Number of Tracks | Genre                                       |
 |-------------------:|:--------------------------------------------|
@@ -127,7 +127,7 @@
 |                 10 | [pop](../genres/pop.md)                     |
 |                  9 | [dance pop](../genres/dance_pop.md)         |
 |                  7 | hip hop                                     |
-|                  5 | pop rap                                     |
+|                  4 | pop rap                                     |
 |                  4 | hip pop                                     |
 |                  4 | detroit hip hop                             |
 |                  4 | chicago rap                                 |
@@ -138,6 +138,7 @@
 |                  2 | dirty south rap                             |
 |                  2 | atl hip hop                                 |
 |                  1 | west coast rap                              |
+|                  1 | viral rap                                   |
 |                  1 | [post-teen pop](../genres/post_teen_pop.md) |
 |                  1 | old school hip hop                          |
 |                  1 | old school atlanta hip hop                  |

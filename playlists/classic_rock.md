@@ -188,7 +188,7 @@
 |                 10 | art rock                                            |
 |                  9 | yacht rock                                          |
 |                  9 | [singer-songwriter](../genres/singer_songwriter.md) |
-|                  9 | [folk rock](../genres/folk_rock.md)                 |
+|                  9 | folk rock                                           |
 |                  9 | blues rock                                          |
 |                  8 | metal                                               |
 |                  5 | heartland rock                                      |

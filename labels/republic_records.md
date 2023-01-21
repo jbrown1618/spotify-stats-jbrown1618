@@ -1,10 +1,10 @@
 # Republic Records
 
-132 songs
+133 songs
 
 Appears as:
 - Republic Records - Stray Kids (44 tracks)
-- Republic Records - TWICE (32 tracks)
+- Republic Records - TWICE (33 tracks)
 - Republic Records - ITZY (31 tracks)
 - Republic Records (13 tracks)
 - Republic Records - TXT (8 tracks)
@@ -23,7 +23,7 @@ Appears as:
 |   Number of Tracks | Art                                                                                              | Artist                                       | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------|:------------------------------------------------------------|
 |                 44 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md)       | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
-|                 32 | <img src="https://i.scdn.co/image/ab6761610000e5eb200008f1cb940483514db2bd" alt="" width="50" /> | [TWICE](../artists/twice.md)                 | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
+|                 33 | <img src="https://i.scdn.co/image/ab6761610000e5eb200008f1cb940483514db2bd" alt="" width="50" /> | [TWICE](../artists/twice.md)                 | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 |                 31 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../artists/itzy.md)                   | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 |                 10 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../artists/ariana_grande.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb63329d77582c519154674fd7" alt="" width="50" /> | TOMORROW X TOGETHER                          | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
@@ -50,7 +50,7 @@ Appears as:
 
 
 <details>
-<summary>See all 59 albums</summary>
+<summary>See all 60 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                   | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------|:-----------------------------------------------------------|
@@ -99,6 +99,7 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f0d00e054e9a9cb2e86cdf72" alt="" width="50" /> | Merry & Happy                                           | [🔗](https://open.spotify.com/album/0R7pj4tnmcoUulrZGPo6nw) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731e2f86e459a48cfb891bd70d" alt="" width="50" /> | MORE & MORE (English Version)                           | [🔗](https://open.spotify.com/album/4AXNnQf2SkyY8d4FQaBKo5) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27324869424ae632466b839a8a8" alt="" width="50" /> | MORE & MORE                                             | [🔗](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736887b017d077dfc5787a3e23" alt="" width="50" /> | MOONLIGHT SUNRISE                                       | [🔗](https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27388e3cda6d29b2552d4d6bc43" alt="" width="50" /> | Kid Krow                                                | [🔗](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273212e7fb3309718d9d4132095" alt="" width="50" /> | In the morning (English Ver.)                           | [🔗](https://open.spotify.com/album/1VbG3CJlf1cSVDibgiM3GM) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fc620c06721e90a534cc5dab" alt="" width="50" /> | IT'z ME                                                 | [🔗](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) |
@@ -127,8 +128,8 @@ Appears as:
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
-|                 84 | [k-pop](../genres/k_pop.md)                       |
-|                 63 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+|                 85 | [k-pop](../genres/k_pop.md)                       |
+|                 64 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 |                 52 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
 |                 15 | [pop](../genres/pop.md)                           |
 |                 13 | [dance pop](../genres/dance_pop.md)               |
@@ -200,7 +201,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | Snowy                                               | CHESHIRE                                                | [ITZY](../artists/itzy.md)                                  | [Republic Records](republic_records.md)                                                     | 💚   | [🔗](https://open.spotify.com/track/1i0NAz5emJMbRWSkADMsL7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739900b995cd1a81c35c574ab0" alt="" width="50" /> | Price Tag                                           | Who You Are (Platinum Edition)                          | Jessie J, B.o.B                                             | [Lava Music/Republic Records](lava_music.md)                                                | 💚   | [🔗](https://open.spotify.com/track/5mvKuE9Lf9ARVXVXA32kK9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739900b995cd1a81c35c574ab0" alt="" width="50" /> | Who You Are                                         | Who You Are (Platinum Edition)                          | Jessie J                                                    | [Lava Music/Republic Records](lava_music.md)                                                | 💚   | [🔗](https://open.spotify.com/track/65lIGCfW59BxcEJnnIOCq3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a6a335d613d151c626895a83" alt="" width="50" /> | Despacito - Remix                                   | Despacito Feat. Justin Bieber (Remix)                   | Luis Fonsi, Daddy Yankee, Justin Bieber                     | [Republic/UMLE](republic_records.md)                                                        | 💚   | [🔗](https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a6a335d613d151c626895a83" alt="" width="50" /> | Despacito - Remix                                   | Despacito Feat. Justin Bieber (Remix)                   | Luis Fonsi, Daddy Yankee, Justin Bieber                     | [Republic/UMLE](umle.md)                                                                    | 💚   | [🔗](https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb" alt="" width="50" /> | Motley Crew                                         | Motley Crew                                             | Post Malone                                                 | [Republic Records](republic_records.md)                                                     |     | [🔗](https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b97341ef9657dd8f4ab794dc" alt="" width="50" /> | Hellevator                                          | Mixtape                                                 | [Stray Kids](../artists/stray_kids.md)                      | [Republic Records](republic_records.md)                                                     |     | [🔗](https://open.spotify.com/track/7mKXEaBVWuV0dMqN0gaCBm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f6ace3e8860779591c193414" alt="" width="50" /> | District 9                                          | I am NOT                                                | [Stray Kids](../artists/stray_kids.md)                      | [Republic Records](republic_records.md)                                                     |     | [🔗](https://open.spotify.com/track/4A0ZTqmb6131trEdQl2dBW) |
@@ -287,3 +288,4 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | Basics                                              | BETWEEN 1&2                                             | [TWICE](../artists/twice.md)                                | [Republic Records](republic_records.md)                                                     | 💚   | [🔗](https://open.spotify.com/track/63mL1DdcSFfxVJ9XGnSRQz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | Brave                                               | BETWEEN 1&2                                             | [TWICE](../artists/twice.md)                                | [Republic Records](republic_records.md)                                                     | 💚   | [🔗](https://open.spotify.com/track/2peoFPokM6eYAIwLm9IQ8E) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | Talk that Talk                                      | BETWEEN 1&2                                             | [TWICE](../artists/twice.md)                                | [Republic Records](republic_records.md)                                                     | 💚   | [🔗](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736887b017d077dfc5787a3e23" alt="" width="50" /> | MOONLIGHT SUNRISE                                   | MOONLIGHT SUNRISE                                       | [TWICE](../artists/twice.md)                                | [Republic Records](republic_records.md)                                                     | 💚   | [🔗](https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w) |

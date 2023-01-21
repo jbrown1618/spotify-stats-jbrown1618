@@ -91,7 +91,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7926088433d79485da5e1734" alt="" width="50" /> | Mabel                                                          | [🔗](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9675860a0330f45981e83436" alt="" width="50" /> | Guy Sigsworth                                                  | [🔗](https://open.spotify.com/artist/0uQWT7X0I9Y7zM7WWexpAj) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb581efa688945cbb092df1726" alt="" width="50" /> | Avril Lavigne                                                  | [🔗](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfa2217e1f2c327db51ec0932" alt="" width="50" /> | Måneskin                                                       | [🔗](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb734144a8667a0bab0a9b9481" alt="" width="50" /> | Måneskin                                                       | [🔗](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba9add5f319d70026d4f3b8a1" alt="" width="50" /> | Rixton                                                         | [🔗](https://open.spotify.com/artist/0kkxsdcaWmWU2yWAqclDh4) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba55b91f04d6b3c3c8dd9108b" alt="" width="50" /> | Adra Boo                                                       | [🔗](https://open.spotify.com/artist/0YahlVgicneX5hdN8XyIpp) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb047095c90419cf2a97266f77" alt="" width="50" /> | Nine Inch Nails                                                | [🔗](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) |
@@ -324,7 +324,7 @@
 |                 13 | bergen indie                                        |
 |                 13 | alternative rock                                    |
 |                 12 | metropopolis                                        |
-|                 11 | [dance pop](../genres/dance_pop.md)                 |
+|                 12 | [dance pop](../genres/dance_pop.md)                 |
 |                 11 | australian pop                                      |
 |                 10 | [pop rock](../genres/pop_rock.md)                   |
 |                 10 | oxford indie                                        |
