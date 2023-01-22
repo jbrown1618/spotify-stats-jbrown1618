@@ -115,7 +115,7 @@
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
-|                  8 | [pop](../genres/pop.md)                           |
+|                  9 | [pop](../genres/pop.md)                           |
 |                  3 | [r&b](../genres/r_b.md)                           |
 |                  3 | [dance pop](../genres/dance_pop.md)               |
 |                  2 | rap                                               |

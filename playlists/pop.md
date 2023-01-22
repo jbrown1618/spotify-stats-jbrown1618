@@ -359,7 +359,7 @@
 
 |   Number of Tracks | Genre                                           |
 |-------------------:|:------------------------------------------------|
-|                300 | [pop](../genres/pop.md)                         |
+|                302 | [pop](../genres/pop.md)                         |
 |                186 | [dance pop](../genres/dance_pop.md)             |
 |                 45 | [post-teen pop](../genres/post_teen_pop.md)     |
 |                 29 | [electropop](../genres/electropop.md)           |
@@ -434,7 +434,6 @@
 |                  2 | alternative hip hop                             |
 |                  2 | [adult standards](../genres/adult_standards.md) |
 |                  1 | wonky                                           |
-|                  1 | viral rap                                       |
 |                  1 | vapor twitch                                    |
 |                  1 | vapor soul                                      |
 |                  1 | vapor pop                                       |
@@ -459,6 +458,7 @@
 |                  1 | modern indie pop                                |
 |                  1 | lafayette indie                                 |
 |                  1 | la indie                                        |
+|                  1 | italian pop                                     |
 
 </details>
 

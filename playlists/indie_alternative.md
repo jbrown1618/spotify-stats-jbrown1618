@@ -324,7 +324,7 @@
 |                 13 | bergen indie                                        |
 |                 13 | alternative rock                                    |
 |                 12 | metropopolis                                        |
-|                 12 | [dance pop](../genres/dance_pop.md)                 |
+|                 11 | [dance pop](../genres/dance_pop.md)                 |
 |                 11 | australian pop                                      |
 |                 10 | [pop rock](../genres/pop_rock.md)                   |
 |                 10 | oxford indie                                        |

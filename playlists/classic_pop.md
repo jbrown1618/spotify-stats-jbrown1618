@@ -160,10 +160,10 @@
 |                 20 | soul                                                |
 |                 17 | [mellow gold](../genres/mellow_gold.md)             |
 |                 13 | motown                                              |
+|                 12 | [pop](../genres/pop.md)                             |
 |                 12 | [adult standards](../genres/adult_standards.md)     |
-|                 11 | [pop](../genres/pop.md)                             |
 |                  9 | funk                                                |
-|                  9 | folk rock                                           |
+|                  9 | [folk rock](../genres/folk_rock.md)                 |
 |                  8 | [r&b](../genres/r_b.md)                             |
 |                  8 | folk                                                |
 |                  8 | [classic rock](../genres/classic_rock.md)           |

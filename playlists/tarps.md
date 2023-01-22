@@ -211,11 +211,11 @@
 
 
 <details>
-<summary>See all 89 genres</summary>
+<summary>See all 88 genres</summary>
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
-|                 21 | [pop](../genres/pop.md)                             |
+|                 22 | [pop](../genres/pop.md)                             |
 |                 11 | [dance pop](../genres/dance_pop.md)                 |
 |                  8 | [neo mellow](../genres/neo_mellow.md)               |
 |                  7 | [rock](../genres/rock.md)                           |
@@ -223,19 +223,19 @@
 |                  7 | [acoustic pop](../genres/acoustic_pop.md)           |
 |                  6 | urban contemporary                                  |
 |                  5 | [pop rock](../genres/pop_rock.md)                   |
-|                  4 | [singer-songwriter](../genres/singer_songwriter.md) |
-|                  4 | new americana                                       |
 |                  4 | [mellow gold](../genres/mellow_gold.md)             |
+|                  4 | [folk rock](../genres/folk_rock.md)                 |
 |                  3 | stomp and holler                                    |
 |                  3 | [soft rock](../genres/soft_rock.md)                 |
+|                  3 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  3 | [r&b](../genres/r_b.md)                             |
 |                  3 | [psychedelic rock](../genres/psychedelic_rock.md)   |
 |                  3 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                  3 | pop soul                                            |
+|                  3 | new americana                                       |
 |                  3 | neo soul                                            |
 |                  3 | merseybeat                                          |
 |                  3 | indie folk                                          |
-|                  3 | folk rock                                           |
 |                  3 | folk                                                |
 |                  3 | british soul                                        |
 |                  3 | british invasion                                    |
@@ -300,7 +300,6 @@
 |                  1 | barbershop                                          |
 |                  1 | australian pop                                      |
 |                  1 | australian dance                                    |
-|                  1 | antiviral pop                                       |
 |                  1 | album rock                                          |
 |                  1 | [adult standards](../genres/adult_standards.md)     |
 |                  1 | [a cappella](../genres/a_cappella.md)               |

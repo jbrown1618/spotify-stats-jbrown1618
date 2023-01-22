@@ -357,10 +357,10 @@
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
 |                613 | [k-pop](../genres/k_pop.md)                         |
-|                355 | [pop](../genres/pop.md)                             |
+|                362 | [pop](../genres/pop.md)                             |
 |                293 | [k-pop girl group](../genres/k_pop_girl_group.md)   |
 |                163 | [k-pop boy group](../genres/k_pop_boy_group.md)     |
-|                156 | [dance pop](../genres/dance_pop.md)                 |
+|                155 | [dance pop](../genres/dance_pop.md)                 |
 |                100 | [rock](../genres/rock.md)                           |
 |                 78 | [classic rock](../genres/classic_rock.md)           |
 |                 61 | [neo mellow](../genres/neo_mellow.md)               |
@@ -372,6 +372,7 @@
 |                 39 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                 35 | [electropop](../genres/electropop.md)               |
 |                 34 | [art pop](../genres/art_pop.md)                     |
+|                 33 | [folk rock](../genres/folk_rock.md)                 |
 |                 32 | [soft rock](../genres/soft_rock.md)                 |
 |                 30 | [psychedelic rock](../genres/psychedelic_rock.md)   |
 |                 30 | british invasion                                    |
@@ -390,7 +391,6 @@
 |                 19 | album rock                                          |
 |                 19 | [adult standards](../genres/adult_standards.md)     |
 |                 18 | hard rock                                           |
-|                 18 | folk rock                                           |
 |                 18 | art rock                                            |
 |                 18 | [a cappella](../genres/a_cappella.md)               |
 |                 16 | uk pop                                              |
@@ -449,13 +449,13 @@
 |                  6 | electro                                             |
 |                  5 | uk funky                                            |
 |                  5 | uk dance                                            |
-|                  5 | new americana                                       |
 |                  5 | k-indie                                             |
 |                  5 | jazz pop                                            |
 |                  5 | indietronica                                        |
 |                  5 | funk                                                |
 |                  5 | anti-folk                                           |
 |                  5 | afrofuturism                                        |
+|                  4 | yacht rock                                          |
 
 </details>
 
