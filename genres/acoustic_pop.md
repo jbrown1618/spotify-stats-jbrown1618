@@ -1,16 +1,16 @@
 # acoustic pop
 
-[86 songs](acoustic_pop_tracks.md)
+[85 songs](acoustic_pop_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 12 artists](../images/genres/acoustic_pop/artists.png)
+![Bar chart of top 11 artists](../images/genres/acoustic_pop/artists.png)
 
 ![Comparison of Artist](../images/genres/acoustic_pop/artists_comparison.png)
 
 
 <details>
-<summary>See all 12 artists</summary>
+<summary>See all 11 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                         | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------|:------------------------------------------------------------|
@@ -23,7 +23,6 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae8ba82eaf7e63af515c9f" alt="" width="50" /> | The Civil Wars                                 | [🔗](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9236c8060febc7d7fc7ea8c4" alt="" width="50" /> | Rachael Yamagata                               | [🔗](https://open.spotify.com/artist/7w0qj2HiAPIeUcoPogvOZ6) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9bc0756eb16b241111bbc72b" alt="" width="50" /> | Colbie Caillat                                 | [🔗](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1687995a9c0172c195049cb1" alt="" width="50" /> | Gavin DeGraw                                   | [🔗](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc78a80d480018ec030aade25" alt="" width="50" /> | Marc Broussard                                 | [🔗](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ec0ed4b4cd16649c0ded8a7" alt="" width="50" /> | Brandi Carlile                                 | [🔗](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) |
 
@@ -31,11 +30,11 @@
 
 ## Top Albums
 
-![Bar chart of top 20 albums](../images/genres/acoustic_pop/albums.png)
+![Bar chart of top 19 albums](../images/genres/acoustic_pop/albums.png)
 
 
 <details>
-<summary>See all 20 albums</summary>
+<summary>See all 19 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                       | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------|:-----------------------------------------------------------|
@@ -55,7 +54,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735da1093d047cc15eb66d27cf" alt="" width="50" /> | OK Now                                      | [🔗](https://open.spotify.com/album/3fKJJQFV6a61fnKYDDj2LU) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27327c371084dee1b83e614798d" alt="" width="50" /> | Indiana                                     | [🔗](https://open.spotify.com/album/2UpO4j1Zpptiwk3wbUIWmU) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fcfd8d2e1bb9f0d4fbe5794d" alt="" width="50" /> | Happenstance (Deluxe Version)               | [🔗](https://open.spotify.com/album/66p6CIMdxQFO3Igg9xo14a) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27309ec47c2a2173e984d8461e9" alt="" width="50" /> | Chariot - Stripped                          | [🔗](https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737cdb143bd2e9906d39c5eb04" alt="" width="50" /> | Carencro                                    | [🔗](https://open.spotify.com/album/15dP7BadtY55t9VvFlVrBA) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="" width="50" /> | Brave Enough: Live at the Variety Playhouse | [🔗](https://open.spotify.com/album/7L4ZgnQqEhCEsV9GnMeXtE) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f5aac98410fb9e64e29827d4" alt="" width="50" /> | Bear Creek                                  | [🔗](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) |
@@ -65,11 +63,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 12 record labels](../images/genres/acoustic_pop/labels.png)
+![Bar chart of top 11 record labels](../images/genres/acoustic_pop/labels.png)
 
 
 <details>
-<summary>See all 12 labels</summary>
+<summary>See all 11 labels</summary>
 
 |   Number of Tracks | Label                                                         |
 |-------------------:|:--------------------------------------------------------------|
@@ -82,7 +80,6 @@
 |                  2 | [Atlantic Records](../labels/atlantic_records.md)             |
 |                  2 | [ATG](../labels/atg.md)                                       |
 |                  1 | [Private Music](../labels/private_music.md)                   |
-|                  1 | [J Records](../labels/j_records.md)                           |
 |                  1 | [Island Records](../labels/island_records.md)                 |
 |                  1 | [Columbia](../labels/columbia.md)                             |
 
@@ -93,13 +90,13 @@
 
 | 10 most Danceable tracks   | 10 least Danceable tracks    |
 |:---------------------------|:-----------------------------|
-| Little Black Dress         | Everything Changes           |
-| Eden                       | Bright Lights and Cityscapes |
-| Electric Twist             | Bluebird                     |
-| Blow Away                  | Come Round Soon              |
-| I Choose You               | City                         |
-| I'm Yours                  | Poison & Wine                |
-| I Didn't Plan It           | Chariot                      |
+| Little Black Dress         | We All Need Saving           |
+| Eden                       | Everything Changes           |
+| Electric Twist             | Bright Lights and Cityscapes |
+| Blow Away                  | Bluebird                     |
+| I Choose You               | Come Round Soon              |
+| I'm Yours                  | City                         |
+| I Didn't Plan It           | Poison & Wine                |
 | Let The Rain               | Once Upon Another Time       |
 | Lie To Me                  | Gravity                      |
 | No Such Thing              | Stay                         |
@@ -161,13 +158,13 @@
 | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Whisper                |
 | Home                                                                              | Blow Away              |
 | Ashes And Wine                                                                    | Islands                |
-| Chariot                                                                           | The Light              |
-| Fire                                                                              | Be Be Your Love        |
-| Lemon Love                                                                        | King of Anything       |
-| Let The Rain                                                                      | Chasing The Sun        |
-| It's Not That Easy                                                                | Eden                   |
-| Pitter-Pat                                                                        | Brave                  |
-| SleepWalking                                                                      | Uncharted              |
+| Fire                                                                              | The Light              |
+| Lemon Love                                                                        | Be Be Your Love        |
+| Let The Rain                                                                      | King of Anything       |
+| It's Not That Easy                                                                | Chasing The Sun        |
+| Pitter-Pat                                                                        | Eden                   |
+| SleepWalking                                                                      | Brave                  |
+| Not Alone                                                                         | Uncharted              |
 
 | 10 most Happy tracks        | 10 least Happy tracks                                                             |
 |:----------------------------|:----------------------------------------------------------------------------------|

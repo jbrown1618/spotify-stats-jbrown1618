@@ -30,7 +30,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a528fcb316c5b58d6be0511" alt="" width="50" /> | 6LACK             | [🔗](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d998e7541724c918777b8ca" alt="" width="50" /> | League of Legends | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebbda00a72a1f7e4f93c071614" alt="" width="50" /> | QUIN              | [🔗](https://open.spotify.com/artist/3sHS70DMNgPxRqx2fUNrRA) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4427cfe93e6870af2a81fd41" alt="" width="50" /> | Kim Petras        | [🔗](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bc2840ac9c56902f5b9574c" alt="" width="50" /> | Kim Petras        | [🔗](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2e55922ed7b80e66863f3345" alt="" width="50" /> | ABIR              | [🔗](https://open.spotify.com/artist/3QUOtWgmuxFyae4C0Q0thd) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb61d3f392c4b11e9e54280a9" alt="" width="50" /> | Madison Beer      | [🔗](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb894ef9fa437b0389c5567cc" alt="" width="50" /> | Post Malone       | [🔗](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) |

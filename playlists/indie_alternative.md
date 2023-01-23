@@ -73,7 +73,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1a7d0845c3b7e2f130264957" alt="" width="50" /> | The Smashing Pumpkins                                          | [🔗](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebda5ab23361118f6474d68382" alt="" width="50" /> | Christopher                                                    | [🔗](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b465068da06b874e24d35bc1" alt="" width="50" /> | Huxlee                                                         | [🔗](https://open.spotify.com/artist/3yb7HrGPG0WpWgdO4XFwBf) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4427cfe93e6870af2a81fd41" alt="" width="50" /> | Kim Petras                                                     | [🔗](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bc2840ac9c56902f5b9574c" alt="" width="50" /> | Kim Petras                                                     | [🔗](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb002eedc44fefe085daae10e4" alt="" width="50" /> | Troye Sivan                                                    | [🔗](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb51b0c19e9c39e2a1c7b5dd4e" alt="" width="50" /> | Will Jordan                                                    | [🔗](https://open.spotify.com/artist/3Is3ehDoBlnTKQtCHdEvpd) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9df0f924a5e609c8da143cd5" alt="" width="50" /> | A. G. Cook                                                     | [🔗](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) |
@@ -321,10 +321,10 @@
 |                 16 | permanent wave                                      |
 |                 14 | indie rock                                          |
 |                 13 | nz pop                                              |
+|                 13 | [dance pop](../genres/dance_pop.md)                 |
 |                 13 | bergen indie                                        |
 |                 13 | alternative rock                                    |
 |                 12 | metropopolis                                        |
-|                 11 | [dance pop](../genres/dance_pop.md)                 |
 |                 11 | australian pop                                      |
 |                 10 | [pop rock](../genres/pop_rock.md)                   |
 |                 10 | oxford indie                                        |

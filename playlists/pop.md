@@ -359,7 +359,7 @@
 
 |   Number of Tracks | Genre                                           |
 |-------------------:|:------------------------------------------------|
-|                302 | [pop](../genres/pop.md)                         |
+|                303 | [pop](../genres/pop.md)                         |
 |                186 | [dance pop](../genres/dance_pop.md)             |
 |                 45 | [post-teen pop](../genres/post_teen_pop.md)     |
 |                 29 | [electropop](../genres/electropop.md)           |
@@ -369,9 +369,9 @@
 |                 20 | urban contemporary                              |
 |                 20 | pop rap                                         |
 |                 15 | neo soul                                        |
+|                 12 | [neo mellow](../genres/neo_mellow.md)           |
 |                 12 | atl hip hop                                     |
 |                 11 | [r&b](../genres/r_b.md)                         |
-|                 11 | [neo mellow](../genres/neo_mellow.md)           |
 |                 11 | british soul                                    |
 |                 11 | australian pop                                  |
 |                 10 | pop soul                                        |
@@ -412,7 +412,6 @@
 |                  3 | modern alternative rock                         |
 |                  3 | lgbtq+ hip hop                                  |
 |                  3 | latin pop                                       |
-|                  3 | hip hop                                         |
 |                  3 | etherpop                                        |
 |                  3 | chill r&b                                       |
 |                  3 | canadian contemporary r&b                       |
@@ -426,6 +425,7 @@
 |                  2 | irish singer-songwriter                         |
 |                  2 | indy indie                                      |
 |                  2 | indiecoustica                                   |
+|                  2 | hip hop                                         |
 |                  2 | gauze pop                                       |
 |                  2 | filter house                                    |
 |                  2 | electro                                         |
@@ -434,6 +434,7 @@
 |                  2 | alternative hip hop                             |
 |                  2 | [adult standards](../genres/adult_standards.md) |
 |                  1 | wonky                                           |
+|                  1 | viral rap                                       |
 |                  1 | vapor twitch                                    |
 |                  1 | vapor soul                                      |
 |                  1 | vapor pop                                       |
@@ -458,7 +459,6 @@
 |                  1 | modern indie pop                                |
 |                  1 | lafayette indie                                 |
 |                  1 | la indie                                        |
-|                  1 | italian pop                                     |
 
 </details>
 

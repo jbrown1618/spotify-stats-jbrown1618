@@ -1,6 +1,6 @@
 # dance pop
 
-[234 songs](dance_pop_tracks.md)
+[236 songs](dance_pop_tracks.md)
 
 ## Top Artists
 
@@ -57,6 +57,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)         | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | JAY-Z                                        | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb118cd1f3261f08d957105996" alt="" width="50" /> | Kelly Clarkson                               | [🔗](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf01bf904b446e4a043acb867" alt="" width="50" /> | The Script                                   | [🔗](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb65c99d6d784dc2cabd2a5492" alt="" width="50" /> | Mandy Moore                                  | [🔗](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | Justin Bieber                                | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5acb3cb0a8b87d3952738b97" alt="" width="50" /> | Fifth Harmony                                | [🔗](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) |
@@ -113,7 +114,6 @@
 |                  1 | <img src="nan" alt="" width="50" />                                                              | Zachary Levi                                 | [🔗](https://open.spotify.com/artist/3XSyTI9ct70ZheMESAv2st) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb002eedc44fefe085daae10e4" alt="" width="50" /> | Troye Sivan                                  | [🔗](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8f4d36b43fa094d32a167f1e" alt="" width="50" /> | Ashnikko                                     | [🔗](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)                     | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 
 </details>
 
@@ -149,6 +149,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27337fb0680110fbb107740de5d" alt="" width="50" /> | What Is Love? (Deluxe Edition)                                                                      | [🔗](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="" width="50" /> | Unorthodox Jukebox                                                                                  | [🔗](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731f69f49a0d2f6b13a79efe02" alt="" width="50" /> | Unapologetic                                                                                        | [🔗](https://open.spotify.com/album/0XJya16l3K1J2dEwY19F8z) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | The Script                                                                                          | [🔗](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="" width="50" /> | The Fame Monster (Deluxe Edition)                                                                   | [🔗](https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="" width="50" /> | Tangled                                                                                             | [🔗](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef" alt="" width="50" /> | Talk That Talk                                                                                      | [🔗](https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T) |
@@ -226,7 +227,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736b18e58a06aac7763abe319a" alt="" width="50" /> | Like a Virgin (Reissue)                                                                             | [🔗](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="" width="50" /> | Let The Road                                                                                        | [🔗](https://open.spotify.com/album/02ae5i5UAoFrt2peVox9Xd) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736f9e6abbd6fa43ac3cdbeee0" alt="" width="50" /> | Leave The Door Open                                                                                 | [🔗](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27364c19b24ce947ffa363f8f96" alt="" width="50" /> | Ladies And Gentlemen... The Best Of George Michael                                                  | [🔗](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) |
 
 </details>
 
@@ -237,7 +237,7 @@
 
 
 <details>
-<summary>See all 77 labels</summary>
+<summary>See all 78 labels</summary>
 
 |   Number of Tracks | Label                                                                                                                       |
 |-------------------:|:----------------------------------------------------------------------------------------------------------------------------|
@@ -246,9 +246,9 @@
 |                 19 | [Columbia](../labels/columbia.md)                                                                                           |
 |                 19 | [Atlantic Records](../labels/atlantic_records.md)                                                                           |
 |                 15 | [Jive](../labels/jive.md)                                                                                                   |
+|                 15 | [Epic](../labels/epic.md)                                                                                                   |
 |                 13 | [Universal Music LLC](../labels/universal_music_llc.md)                                                                     |
 |                 13 | [Republic Records](../labels/republic_records.md)                                                                           |
-|                 13 | [Epic](../labels/epic.md)                                                                                                   |
 |                 11 | [Interscope Records](../labels/interscope_records.md)                                                                       |
 |                 10 | [Syco Music](../labels/syco_music.md)                                                                                       |
 |                  9 | [Def Jam Recordings](../labels/def_jam_recordings.md)                                                                       |
@@ -266,6 +266,7 @@
 |                  3 | [Casablanca Records](../labels/casablanca_records.md)                                                                       |
 |                  2 | [Walt Disney Records](../labels/walt_disney_records.md)                                                                     |
 |                  2 | [Sony Music Entertainment](../labels/sony_music_entertainment.md)                                                           |
+|                  2 | [Phonogenic](../labels/phonogenic.md)                                                                                       |
 |                  2 | [Nicki Minaj](../labels/nicki_minaj.md)                                                                                     |
 |                  2 | [Nice Life](../labels/nice_life.md)                                                                                         |
 |                  2 | [Lava Music](../labels/lava_music.md)                                                                                       |
@@ -352,16 +353,16 @@
 
 | 10 most Speechy tracks          | 10 least Speechy tracks             |
 |:--------------------------------|:------------------------------------|
-| Youngblood                      | Me & U                              |
-| boyfriend (with Social House)   | Good Ones                           |
-| Hold Up                         | Love Me Like You Do                 |
-| Irreplaceable                   | One Step At a Time                  |
-| WAP (feat. Megan Thee Stallion) | Señorita                            |
-| Bubblegum (feat. Tyga)          | Kiss Me More (feat. SZA)            |
-| 7 rings                         | Stay                                |
-| Hustle                          | Ave Maria                           |
-| Te Felicito                     | I Want It That Way                  |
-| So Sick                         | Show Me the Meaning of Being Lonely |
+| Youngblood                      | Love Me Like You Do                 |
+| boyfriend (with Social House)   | One Step At a Time                  |
+| Hold Up                         | Señorita                            |
+| Irreplaceable                   | Kiss Me More (feat. SZA)            |
+| WAP (feat. Megan Thee Stallion) | Stay                                |
+| Bubblegum (feat. Tyga)          | Ave Maria                           |
+| 7 rings                         | The Man Who Can't Be Moved          |
+| Hustle                          | I Want It That Way                  |
+| Te Felicito                     | Show Me the Meaning of Being Lonely |
+| So Sick                         | Breakeven                           |
 
 | 10 most Acoustic tracks                               | 10 least Acoustic tracks                                                 |
 |:------------------------------------------------------|:-------------------------------------------------------------------------|
@@ -378,15 +379,15 @@
 
 | 10 most Instrumental tracks                              | 10 least Instrumental tracks                                   |
 |:---------------------------------------------------------|:---------------------------------------------------------------|
-| This Is What You Came For                                | About Damn Time                                                |
-| You and I (Park Bom)                                     | Happy Ending                                                   |
-| Lights - Single Version                                  | Swalla (feat. Nicki Minaj & Ty Dolla $ign)                     |
-| Toxic                                                    | Talk Dirty (feat. 2 Chainz)                                    |
-| Candyman                                                 | Trumpets                                                       |
-| Grace Kelly                                              | Bubblegum (feat. Tyga)                                         |
-| Coño                                                     | Kiss and Make Up                                               |
-| I Am The Best                                            | Levitating (feat. DaBaby)                                      |
-| SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) | Hallucinate                                                    |
+| This Is What You Came For                                | Hallucinate                                                    |
+| You and I (Park Bom)                                     | About Damn Time                                                |
+| Lights - Single Version                                  | Happy Ending                                                   |
+| Toxic                                                    | Swalla (feat. Nicki Minaj & Ty Dolla $ign)                     |
+| Candyman                                                 | Talk Dirty (feat. 2 Chainz)                                    |
+| Grace Kelly                                              | Trumpets                                                       |
+| Coño                                                     | Bubblegum (feat. Tyga)                                         |
+| I Am The Best                                            | Kiss and Make Up                                               |
+| SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) | Levitating (feat. DaBaby)                                      |
 | Woman                                                    | When Will My Life Begin? - From "Tangled" / Soundtrack Version |
 
 | 10 most Live tracks                            | 10 least Live tracks             |
