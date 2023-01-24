@@ -1,6 +1,6 @@
 # dance pop
 
-[236 songs](dance_pop_tracks.md)
+[237 songs](dance_pop_tracks.md)
 
 ## Top Artists
 
@@ -104,6 +104,7 @@
 |                  1 | <img src="nan" alt="" width="50" />                                                              | YEJI & RYUJIN of ITZY                        | [🔗](https://open.spotify.com/artist/4TYswX6bKUjM9rbEL7CMBH) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d800f202dd15af03179876b" alt="" width="50" /> | Jess Glynne                                  | [🔗](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb866f2a7fc5dffca7c22e5b7b" alt="" width="50" /> | Jax Jones                                    | [🔗](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd06f948216f34ea0298aef43" alt="" width="50" /> | Caroline Polachek                            | [🔗](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) |
 |                  1 | <img src="https://i.scdn.co/image/145b7b08e7f1de22d033e957c0888a5f9e0c99e6" alt="" width="50" /> | Leighton Meester                             | [🔗](https://open.spotify.com/artist/481VlDdXZAIRxnHyywNbXn) |
 |                  1 | <img src="https://i.scdn.co/image/8a522c7faa13cf4321ca6bea075fd97f75f40cfe" alt="" width="50" /> | Ying Yang Twins                              | [🔗](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496" alt="" width="50" /> | Anderson .Paak                               | [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) |
@@ -113,7 +114,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb49637fe719fddb8e90896f41" alt="" width="50" /> | Jhorrmountain                                | [🔗](https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o) |
 |                  1 | <img src="nan" alt="" width="50" />                                                              | Zachary Levi                                 | [🔗](https://open.spotify.com/artist/3XSyTI9ct70ZheMESAv2st) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb002eedc44fefe085daae10e4" alt="" width="50" /> | Troye Sivan                                  | [🔗](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8f4d36b43fa094d32a167f1e" alt="" width="50" /> | Ashnikko                                     | [🔗](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) |
 
 </details>
 
@@ -237,88 +237,89 @@
 
 
 <details>
-<summary>See all 78 labels</summary>
+<summary>See all 79 labels</summary>
 
-|   Number of Tracks | Label                                                                                                                       |
-|-------------------:|:----------------------------------------------------------------------------------------------------------------------------|
-|                 22 | [Warner Records](../labels/warner_records.md)                                                                               |
-|                 20 | [RCA Records Label](../labels/rca_records_label.md)                                                                         |
-|                 19 | [Columbia](../labels/columbia.md)                                                                                           |
-|                 19 | [Atlantic Records](../labels/atlantic_records.md)                                                                           |
-|                 15 | [Jive](../labels/jive.md)                                                                                                   |
-|                 15 | [Epic](../labels/epic.md)                                                                                                   |
-|                 13 | [Universal Music LLC](../labels/universal_music_llc.md)                                                                     |
-|                 13 | [Republic Records](../labels/republic_records.md)                                                                           |
-|                 11 | [Interscope Records](../labels/interscope_records.md)                                                                       |
-|                 10 | [Syco Music](../labels/syco_music.md)                                                                                       |
-|                  9 | [Def Jam Recordings](../labels/def_jam_recordings.md)                                                                       |
-|                  9 | [Capitol Records](../labels/capitol_records.md)                                                                             |
-|                  7 | [Polydor Records](../labels/polydor_records.md)                                                                             |
-|                  6 | [Parkwood Entertainment](../labels/parkwood_entertainment.md)                                                               |
-|                  5 | [Music World Music](../labels/music_world_music.md)                                                                         |
-|                  5 | [LaFace Records](../labels/laface_records.md)                                                                               |
-|                  5 | [Kemosabe Records](../labels/kemosabe_records.md)                                                                           |
-|                  5 | [Beluga Heights](../labels/beluga_heights.md)                                                                               |
-|                  5 | [Atlantic Records UK](../labels/atlantic_records_uk.md)                                                                     |
-|                  4 | [Sony Music Latin](../labels/sony_music_latin.md)                                                                           |
-|                  3 | [Island UK](../labels/island_uk.md)                                                                                         |
-|                  3 | [Island Records](../labels/island_records.md)                                                                               |
-|                  3 | [Casablanca Records](../labels/casablanca_records.md)                                                                       |
-|                  2 | [Walt Disney Records](../labels/walt_disney_records.md)                                                                     |
-|                  2 | [Sony Music Entertainment](../labels/sony_music_entertainment.md)                                                           |
-|                  2 | [Phonogenic](../labels/phonogenic.md)                                                                                       |
-|                  2 | [Nicki Minaj](../labels/nicki_minaj.md)                                                                                     |
-|                  2 | [Nice Life](../labels/nice_life.md)                                                                                         |
-|                  2 | [Lava Music](../labels/lava_music.md)                                                                                       |
-|                  2 | [KSR](../labels/ksr.md)                                                                                                     |
-|                  2 | [Hollywood Records](../labels/hollywood_records.md)                                                                         |
-|                  2 | [Cash Money](../labels/cash_money.md)                                                                                       |
-|                  2 | [Capitol Records (CAP)](../labels/capitol_records__cap_.md)                                                                 |
-|                  2 | [Artist Partner](../labels/artist_partner.md)                                                                               |
-|                  2 | [Arista](../labels/arista.md)                                                                                               |
-|                  2 | [A Star is Born OST](../labels/a_star_is_born_ost.md)                                                                       |
-|                  1 | [YG Entertainment](../labels/yg_entertainment.md)                                                                           |
-|                  1 | [Warner Bros.](../labels/warner_bros_.md)                                                                                   |
-|                  1 | [Virgin Records](../labels/virgin_records.md)                                                                               |
-|                  1 | [Universal Music Group](../labels/universal_music_group.md)                                                                 |
-|                  1 | [Spinnin' Records](../labels/spinnin__records.md)                                                                           |
-|                  1 | [Sony Music UK](../labels/sony_music_uk.md)                                                                                 |
-|                  1 | [Sony Music CG](../labels/sony_music_cg.md)                                                                                 |
-|                  1 | [Silver Cloud](../labels/silver_cloud.md)                                                                                   |
-|                  1 | [Silent Records IGA](../labels/silent_records_iga.md)                                                                       |
-|                  1 | [Silent Records](../labels/silent_records.md)                                                                               |
-|                  1 | [Shawn Mendes LP4-5 PS](../labels/shawn_mendes_lp4_5_ps.md)                                                                 |
-|                  1 | [Selena Gomez PS](../labels/selena_gomez_ps.md)                                                                             |
-|                  1 | [Roc Nation](../labels/roc_nation.md)                                                                                       |
-|                  1 | [Rihanna](../labels/rihanna.md)                                                                                             |
-|                  1 | [Parlophone UK](../labels/parlophone_uk.md)                                                                                 |
-|                  1 | [Nu America Music](../labels/nu_america_music.md)                                                                           |
-|                  1 | [Lauv](../labels/lauv.md)                                                                                                   |
-|                  1 | [Jonas Brothers Recording](../labels/jonas_brothers_recording.md)                                                           |
-|                  1 | [Giant Little Man](../labels/giant_little_man.md)                                                                           |
-|                  1 | [Fueled By Ramen](../labels/fueled_by_ramen.md)                                                                             |
-|                  1 | [FSF](../labels/fsf.md)                                                                                                     |
-|                  1 | [Epic Amsterdam](../labels/epic_amsterdam.md)                                                                               |
-|                  1 | [EMPIRE](../labels/empire.md)                                                                                               |
-|                  1 | [EMI Recorded Music Australia Pty Ltd](../labels/emi_recorded_music_australia_pty_ltd.md)                                   |
-|                  1 | [Disruptor Records](../labels/disruptor_records.md)                                                                         |
-|                  1 | [Def Soul](../labels/def_soul.md)                                                                                           |
-|                  1 | [Decaydance](../labels/decaydance.md)                                                                                       |
-|                  1 | [DJ Snake Music Productions Limited](../labels/dj_snake_music_productions_limited.md)                                       |
-|                  1 | [Colour Vision Records](../labels/colour_vision_records.md)                                                                 |
-|                  1 | [Chris Brown Entertainment](../labels/chris_brown_entertainment.md)                                                         |
-|                  1 | [Charlie's Angels](../labels/charlie_s_angels.md)                                                                           |
-|                  1 | [Capitol Records (US1A)](../labels/capitol_records__us1a_.md)                                                               |
-|                  1 | [Big Beat Records](../labels/big_beat_records.md)                                                                           |
-|                  1 | [Bad Dreams Records](../labels/bad_dreams_records.md)                                                                       |
-|                  1 | [Bad Boy](../labels/bad_boy.md)                                                                                             |
-|                  1 | [Astralwerks (ASW)](../labels/astralwerks__asw_.md)                                                                         |
-|                  1 | [Ariana Grande & Justin Bieber "Stuck With U"- Charity](../labels/ariana_grande___justin_bieber__stuck_with_u___charity.md) |
-|                  1 | [Aftermath Entertainment](../labels/aftermath_entertainment.md)                                                             |
-|                  1 | [Access Records](../labels/access_records.md)                                                                               |
-|                  1 | [A&M](../labels/a_m.md)                                                                                                     |
-|                  1 | [300 Entertainment](../labels/300_entertainment.md)                                                                         |
-|                  1 | [19 Recordings Limited](../labels/19_recordings_limited.md)                                                                 |
+|   Number of Tracks | Label                                                   |
+|-------------------:|:--------------------------------------------------------|
+|                 22 | [Warner Records](../labels/warner_records.md)           |
+|                 20 | [RCA Records Label](../labels/rca_records_label.md)     |
+|                 19 | [Columbia](../labels/columbia.md)                       |
+|                 19 | [Atlantic Records](../labels/atlantic_records.md)       |
+|                 15 | [Jive](../labels/jive.md)                               |
+|                 15 | [Epic](../labels/epic.md)                               |
+|                 13 | [Universal Music LLC](../labels/universal_music_llc.md) |
+|                 13 | [Republic Records](../labels/republic_records.md)       |
+|                 11 | [Interscope Records](../labels/interscope_records.md)   |
+|                 10 | [Syco Music](../labels/syco_music.md)                   |
+|                  9 | [Def Jam Recordings](../labels/def_jam_recordings.md)   |
+|                  9 | [Capitol Records](../labels/capitol_records.md)         |
+|                  7 | [Polydor Records](../labels/polydor_records.md)         |
+|                  6 | Parkwood Entertainment                                  |
+|                  5 | Music World Music                                       |
+|                  5 | LaFace Records                                          |
+|                  5 | Kemosabe Records                                        |
+|                  5 | Beluga Heights                                          |
+|                  5 | Atlantic Records UK                                     |
+|                  4 | Sony Music Latin                                        |
+|                  3 | Island UK                                               |
+|                  3 | Island Records                                          |
+|                  3 | Casablanca Records                                      |
+|                  2 | [Walt Disney Records](../labels/walt_disney_records.md) |
+|                  2 | Sony Music Entertainment                                |
+|                  2 | Phonogenic                                              |
+|                  2 | Nicki Minaj                                             |
+|                  2 | Nice Life                                               |
+|                  2 | Lava Music                                              |
+|                  2 | KSR                                                     |
+|                  2 | [Hollywood Records](../labels/hollywood_records.md)     |
+|                  2 | Cash Money                                              |
+|                  2 | Capitol Records (CAP)                                   |
+|                  2 | Artist Partner                                          |
+|                  2 | Arista                                                  |
+|                  2 | A Star is Born OST                                      |
+|                  1 | [YG Entertainment](../labels/yg_entertainment.md)       |
+|                  1 | Warner Bros.                                            |
+|                  1 | [Virgin Records](../labels/virgin_records.md)           |
+|                  1 | Universal Music Group                                   |
+|                  1 | Spinnin' Records                                        |
+|                  1 | Sony Music UK                                           |
+|                  1 | Sony Music CG                                           |
+|                  1 | Silver Cloud                                            |
+|                  1 | Silent Records IGA                                      |
+|                  1 | Silent Records                                          |
+|                  1 | Shawn Mendes LP4-5 PS                                   |
+|                  1 | Selena Gomez PS                                         |
+|                  1 | Roc Nation                                              |
+|                  1 | Rihanna                                                 |
+|                  1 | Perpetual Novice                                        |
+|                  1 | Parlophone UK                                           |
+|                  1 | Nu America Music                                        |
+|                  1 | Lauv                                                    |
+|                  1 | Jonas Brothers Recording                                |
+|                  1 | Giant Little Man                                        |
+|                  1 | Fueled By Ramen                                         |
+|                  1 | FSF                                                     |
+|                  1 | Epic Amsterdam                                          |
+|                  1 | EMPIRE                                                  |
+|                  1 | EMI Recorded Music Australia Pty Ltd                    |
+|                  1 | Disruptor Records                                       |
+|                  1 | Def Soul                                                |
+|                  1 | Decaydance                                              |
+|                  1 | DJ Snake Music Productions Limited                      |
+|                  1 | Colour Vision Records                                   |
+|                  1 | Chris Brown Entertainment                               |
+|                  1 | Charlie's Angels                                        |
+|                  1 | Capitol Records (US1A)                                  |
+|                  1 | Big Beat Records                                        |
+|                  1 | Bad Dreams Records                                      |
+|                  1 | Bad Boy                                                 |
+|                  1 | Astralwerks (ASW)                                       |
+|                  1 | Ariana Grande & Justin Bieber "Stuck With U"- Charity   |
+|                  1 | Aftermath Entertainment                                 |
+|                  1 | Access Records                                          |
+|                  1 | A&M                                                     |
+|                  1 | 300 Entertainment                                       |
+|                  1 | 19 Recordings Limited                                   |
 
 </details>
 

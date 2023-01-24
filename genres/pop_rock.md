@@ -81,25 +81,25 @@
 <details>
 <summary>See all 17 labels</summary>
 
-|   Number of Tracks | Label                                                                           |
-|-------------------:|:--------------------------------------------------------------------------------|
-|                 62 | [Epic](../labels/epic.md)                                                       |
-|                  4 | [Virgin Records](../labels/virgin_records.md)                                   |
-|                  3 | [Relentless](../labels/relentless.md)                                           |
-|                  3 | [Atlantic Records](../labels/atlantic_records.md)                               |
-|                  2 | [Phonogenic](../labels/phonogenic.md)                                           |
-|                  2 | [ATG](../labels/atg.md)                                                         |
-|                  1 | [Work](../labels/work.md)                                                       |
-|                  1 | [Silent Records](../labels/silent_records.md)                                   |
-|                  1 | [Rhino](../labels/rhino.md)                                                     |
-|                  1 | [Polydor Records](../labels/polydor_records.md)                                 |
-|                  1 | [Mercury Records](../labels/mercury_records.md)                                 |
-|                  1 | [Maverick](../labels/maverick.md)                                               |
-|                  1 | [J Records](../labels/j_records.md)                                             |
-|                  1 | [Giant Little Man](../labels/giant_little_man.md)                               |
-|                  1 | [Elektra (NEK)](../labels/elektra__nek_.md)                                     |
-|                  1 | [Decca (UMO)](../labels/decca__umo_.md)                                         |
-|                  1 | [American Recordings Catalog P&D](../labels/american_recordings_catalog_p_d.md) |
+|   Number of Tracks | Label                                             |
+|-------------------:|:--------------------------------------------------|
+|                 62 | [Epic](../labels/epic.md)                         |
+|                  4 | [Virgin Records](../labels/virgin_records.md)     |
+|                  3 | Relentless                                        |
+|                  3 | [Atlantic Records](../labels/atlantic_records.md) |
+|                  2 | Phonogenic                                        |
+|                  2 | ATG                                               |
+|                  1 | Work                                              |
+|                  1 | Silent Records                                    |
+|                  1 | [Rhino](../labels/rhino.md)                       |
+|                  1 | [Polydor Records](../labels/polydor_records.md)   |
+|                  1 | Mercury Records                                   |
+|                  1 | Maverick                                          |
+|                  1 | J Records                                         |
+|                  1 | Giant Little Man                                  |
+|                  1 | Elektra (NEK)                                     |
+|                  1 | [Decca (UMO)](../labels/decca__umo_.md)           |
+|                  1 | American Recordings Catalog P&D                   |
 
 </details>
 

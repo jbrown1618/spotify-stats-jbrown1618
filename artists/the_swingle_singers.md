@@ -5,9 +5,9 @@
 <img src="https://i.scdn.co/image/ab6761610000e5eb9874bc44189b9b1a619e2b11" alt="The Swingle Singers" width="100" />
 
 ## Featured on Playlists
-|   Number of Tracks | Art                                                                                                                                                                                                                         | Playlist                                 |
-|-------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------|
-|                 12 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735d990e8b45c848dc22885f89ab67616d0000b27362f44cdb37183a309fc1032fab67616d0000b27384470dd6235917e2e40e11f0ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | [A Cappella](../playlists/a_cappella.md) |
+|   Number of Tracks | Art                                                                                                                                                                                                                         | Playlist                                          |
+|-------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------|
+|                 12 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735d990e8b45c848dc22885f89ab67616d0000b27362f44cdb37183a309fc1032fab67616d0000b27384470dd6235917e2e40e11f0ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | [A Cappella](../playlists/a_cappella/overview.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album                                     | 🔗                                                          |
@@ -21,14 +21,14 @@
 
 ## Top Record Labels
 
-|   Number of Tracks | Label                                                       |
-|-------------------:|:------------------------------------------------------------|
-|                  4 | [SwingCD](../labels/swingcd.md)                             |
-|                  3 | [The Sound Corporation](../labels/the_sound_corporation.md) |
-|                  2 | [world village](../labels/world_village.md)                 |
-|                  1 | [Warner Classics](../labels/warner_classics.md)             |
-|                  1 | [Sonoton Music](../labels/sonoton_music.md)                 |
-|                  1 | [Signum OMP](../labels/signum_omp.md)                       |
+|   Number of Tracks | Label                                           |
+|-------------------:|:------------------------------------------------|
+|                  4 | SwingCD                                         |
+|                  3 | The Sound Corporation                           |
+|                  2 | world village                                   |
+|                  1 | [Warner Classics](../labels/warner_classics.md) |
+|                  1 | Sonoton Music                                   |
+|                  1 | Signum OMP                                      |
 
 ## Genres
 

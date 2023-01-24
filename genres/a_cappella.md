@@ -1,6 +1,6 @@
 # a cappella
 
-[205 songs](a_cappella_tracks.md)
+[197 songs](a_cappella_tracks.md)
 
 ## Top Artists
 
@@ -10,7 +10,7 @@
 
 
 <details>
-<summary>See all 60 artists</summary>
+<summary>See all 59 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                                   | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------|:------------------------------------------------------------|
@@ -22,7 +22,6 @@
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb68021119cbab353e2278d4a3" alt="" width="50" /> | The Loreleis                                             | [🔗](https://open.spotify.com/artist/1fqMjreaczGwFmdmG6AvJs) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb8c4a9d4a5f8004ad4d0195aa" alt="" width="50" /> | The Nor'easters                                          | [🔗](https://open.spotify.com/artist/1aLfVgwt8eBrpvHcutWmqe) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb28d2d9a97a89d4721c2917b2" alt="" width="50" /> | UNC Achordants                                           | [🔗](https://open.spotify.com/artist/1TzZMeOCs4TMYtzgohPMAr) |
-|                  8 | <img src="https://i.scdn.co/image/ab6761610000e5ebca516d559d106ed3854fc71b" alt="" width="50" /> | Mosaic Whispers                                          | [🔗](https://open.spotify.com/artist/0fP33MCfVUaPivyFYLZtoh) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4536d632bb182e3f82baaaf" alt="" width="50" /> | [The King's Singers](../artists/the_king_s_singers.md)   | [🔗](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb78999d4b6fb0847081e2f479" alt="" width="50" /> | SoCal VoCals                                             | [🔗](https://open.spotify.com/artist/5L30XpwHG77eWCZtelTns9) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb616fc063b23c40fc8a91d885" alt="" width="50" /> | Pitch Slapped                                            | [🔗](https://open.spotify.com/artist/7EH7jldX62OIsU1yU1SWE7) |
@@ -83,7 +82,7 @@
 
 
 <details>
-<summary>See all 85 albums</summary>
+<summary>See all 79 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                        | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------|:-----------------------------------------------------------|
@@ -119,7 +118,6 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273da81ceb610e54852e16f0e82" alt="" width="50" /> | BOCA 2011: Best Of College A Cappella        | [🔗](https://open.spotify.com/album/27d96rqnXRtmrGBGHJzPBh) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273d3f8430d5bac3daad32d93eb" alt="" width="50" /> | Where the Secret Lies                        | [🔗](https://open.spotify.com/album/6kKcn38yjU8iFvlWCbcQsL) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273e82d230ecc34ad6fd5f873c1" alt="" width="50" /> | Weather To Fly                               | [🔗](https://open.spotify.com/album/2AW4oP7GeAcKOWRY5x7O0o) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273e49dba8b71933913e6d8cc3f" alt="" width="50" /> | Wavelength                                   | [🔗](https://open.spotify.com/album/56RyapLbZ4DESHfzD87X7F) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273293ebd0a06cf2784113d4156" alt="" width="50" /> | Vocal Spectrum III                           | [🔗](https://open.spotify.com/album/4F5N06bwpwxllsHAJh8Xn6) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273ddb98c5497cea19e35a33391" alt="" width="50" /> | Vocal Spectrum II                            | [🔗](https://open.spotify.com/album/1RDzZXCmf9q1SQbyz48HFq) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273bab336e565eb71bf7860dfcc" alt="" width="50" /> | V                                            | [🔗](https://open.spotify.com/album/7wPsYBhUlqtAgPr2hbbmP3) |
@@ -130,7 +128,6 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734b16fad8fb09cff04b362139" alt="" width="50" /> | III                                          | [🔗](https://open.spotify.com/album/3iFvXj07Frbs54rK9CzCIo) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2735a1783df13795d2db2599c7e" alt="" width="50" /> | I Used to Live Alone                         | [🔗](https://open.spotify.com/album/0AmRRsaQVm5noeAB6LF8yA) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27356231fb2f9b79b8ef4e4dcdd" alt="" width="50" /> | Déjà Blue                                    | [🔗](https://open.spotify.com/album/1mZNLR8qY6GhhrnCmtEAv3) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a391a593f88024c5cea36b9c" alt="" width="50" /> | Behind Bars                                  | [🔗](https://open.spotify.com/album/40g8iY5VB5sTJ31943mAzQ) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2732c9bde1126c992a7140f4976" alt="" width="50" /> | BOCA 2016: Best Of College A Cappella        | [🔗](https://open.spotify.com/album/2AOr4esohQurJGXklhRH1a) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731bf130ee9a90bd5cce66e40e" alt="" width="50" /> | Almost 8:08                                  | [🔗](https://open.spotify.com/album/1gbG9XfNmlfNGEnOTH0f6N) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273ee681b6eddc77fd366693a84" alt="" width="50" /> | A Kick & A Wallop                            | [🔗](https://open.spotify.com/album/5wnXtRvlemaPLxZFTpWtix) |
@@ -149,9 +146,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273db17fec53a7c243f7809a328" alt="" width="50" /> | Storming The Castle                          | [🔗](https://open.spotify.com/album/1wjibXmmViZMNA1HsMo7f6) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738b1bdafdc4fd1983a8a8a198" alt="" width="50" /> | Spotlight on Bach                            | [🔗](https://open.spotify.com/album/3qHHoQNFqZptsQE9Y3esLh) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a6917e8b1af58ff8168434a7" alt="" width="50" /> | Rain Check                                   | [🔗](https://open.spotify.com/album/6xuVrseH6zVGlcMojwowxn) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27372ab17caf31d0387153ec39b" alt="" width="50" /> | Oasis                                        | [🔗](https://open.spotify.com/album/1VpHqAIW8Pu343GJa0UpRQ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f0811a497b6eaf308d045d29" alt="" width="50" /> | Ignite                                       | [🔗](https://open.spotify.com/album/5O7GFH7FfXuuDlOfNH76Qq) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27308006689b908d5d25c188b10" alt="" width="50" /> | ICCA 2016: The Extended Cuts                 | [🔗](https://open.spotify.com/album/07xYpylAQHOJoHStqUpKwp) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273707302925a3cb0f9dbcc23f8" alt="" width="50" /> | House Rules                                  | [🔗](https://open.spotify.com/album/1fHxE6WZL6ouusBW4h9nE4) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b6506a5b3e8f6bf816cbc118" alt="" width="50" /> | High Stakes Old Maid                         | [🔗](https://open.spotify.com/album/6sg9WsK06H588Y5VOmwj37) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733d35ee785862f82a5ada29b6" alt="" width="50" /> | Gold                                         | [🔗](https://open.spotify.com/album/3OF5H5176VONmVik8EvJC6) |
@@ -159,7 +154,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d287779de0a37b217bc2f7e8" alt="" width="50" /> | Equilibrium                                  | [🔗](https://open.spotify.com/album/6BeTGjWVDQLQhdSM5MBziy) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734c29cb8d443b45f43e78e9f5" alt="" width="50" /> | Encore                                       | [🔗](https://open.spotify.com/album/1AN2Vv5PecNjJEmzys8Gru) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b412efc7cf36157f45463837" alt="" width="50" /> | Disturbia                                    | [🔗](https://open.spotify.com/album/3ypmasyBX16BmWt52owYaN) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d19c9f2ae59824a13812de12" alt="" width="50" /> | Defrosted                                    | [🔗](https://open.spotify.com/album/3DLNakCGffrhPaaj9rfepk) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273720cef48a476da39b3bd2a4e" alt="" width="50" /> | Circle Of Life                               | [🔗](https://open.spotify.com/album/3W9Uo4nvI281sjlEIrR6z6) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273289f002ddb42e30363a0d445" alt="" width="50" /> | Christmas Is Here!                           | [🔗](https://open.spotify.com/album/6thZNGX8hUVSjUrqJgPB9b) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273480fc6e065aa8b15bd01485d" alt="" width="50" /> | Burn                                         | [🔗](https://open.spotify.com/album/1fcocQi9SDelG4xiE3d7yQ) |
@@ -168,7 +162,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a271cb19e4bbf852072f0271" alt="" width="50" /> | BOCA 2021: Best of College A Cappella        | [🔗](https://open.spotify.com/album/1eKkeTIlePsRpKkQre78tT) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27375e1cccb63989b4aa6a22cbc" alt="" width="50" /> | BOCA 2006: Best Of College A Cappella        | [🔗](https://open.spotify.com/album/3AeoTNhXFgBM7CuODGFelQ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273074aa2a16488cba06eade483" alt="" width="50" /> | BOCA 2004: Best Of College A Cappella        | [🔗](https://open.spotify.com/album/5qrIP0zXoDQUSZ9l1ZaECQ) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273049016d51d8970dc04dbf78f" alt="" width="50" /> | Against the Grain                            | [🔗](https://open.spotify.com/album/27W6ijbmL6QPNrdQGncwDJ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27360fd5c708d2f5956d46888a9" alt="" width="50" /> | A Swing and a Miss                           | [🔗](https://open.spotify.com/album/0qj5ECfme87sP5anevwf81) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ddbbb08d6f7a6ed263fa6afc" alt="" width="50" /> | A Pentatonix Christmas Deluxe                | [🔗](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27395369441b4588e4419deb673" alt="" width="50" /> | A Capella Christmas Favourites               | [🔗](https://open.spotify.com/album/4PUNlc0snMF3Bqa8NeWLRk) |
@@ -178,42 +171,41 @@
 
 ## Top Record Labels
 
-![Bar chart of top 28 record labels](../images/genres/a_cappella/labels.png)
+![Bar chart of top 27 record labels](../images/genres/a_cappella/labels.png)
 
 
 <details>
-<summary>See all 28 labels</summary>
+<summary>See all 27 labels</summary>
 
-|   Number of Tracks | Label                                                                                                       |
-|-------------------:|:------------------------------------------------------------------------------------------------------------|
-|                 44 | [Varsity Vocals](../labels/varsity_vocals.md)                                                               |
-|                 36 | [RCA Records Label](../labels/rca_records_label.md)                                                         |
-|                 32 | [A Cappella Records](../labels/a_cappella_records.md)                                                       |
-|                 12 | [Ithacappella](../labels/ithacappella.md)                                                                   |
-|                  8 | [Vanderbilt Melodores](../labels/vanderbilt_melodores.md)                                                   |
-|                  8 | [UNC Achordants](../labels/unc_achordants.md)                                                               |
-|                  8 | [Mosaic Whispers](../labels/mosaic_whispers.md)                                                             |
-|                  6 | [Tar Heel Voices](../labels/tar_heel_voices.md)                                                             |
-|                  6 | [Naked Voice Records](../labels/naked_voice_records.md)                                                     |
-|                  5 | [The Loreleis](../labels/the_loreleis.md)                                                                   |
-|                  4 | [Warner Classics](../labels/warner_classics.md)                                                             |
-|                  4 | [The Nor'easters](../labels/the_nor_easters.md)                                                             |
-|                  4 | [SwingCD](../labels/swingcd.md)                                                                             |
-|                  4 | [649668 Records DK2](../labels/649668_records_dk2.md)                                                       |
-|                  3 | [The Sound Corporation](../labels/the_sound_corporation.md)                                                 |
-|                  3 | [The SoCal VoCals](../labels/the_socal_vocals.md)                                                           |
-|                  2 | [world village](../labels/world_village.md)                                                                 |
-|                  2 | [Voices Only A Cappella](../labels/voices_only_a_cappella.md)                                               |
-|                  2 | [The University of Rochester Midnight Ramblers](../labels/the_university_of_rochester_midnight_ramblers.md) |
-|                  2 | [The Clef Hangers](../labels/the_clef_hangers.md)                                                           |
-|                  2 | [SoCal VoCals](../labels/socal_vocals.md)                                                                   |
-|                  2 | [Signum Records](../labels/signum_records.md)                                                               |
-|                  1 | [Uncle Buford Records](../labels/uncle_buford_records.md)                                                   |
-|                  1 | [Sonoton Music](../labels/sonoton_music.md)                                                                 |
-|                  1 | [Signum OMP](../labels/signum_omp.md)                                                                       |
-|                  1 | [RCA Victor - Munich](../labels/rca_victor___munich.md)                                                     |
-|                  1 | [Loudr](../labels/loudr.md)                                                                                 |
-|                  1 | [Atlantic Records](../labels/atlantic_records.md)                                                           |
+|   Number of Tracks | Label                                                 |
+|-------------------:|:------------------------------------------------------|
+|                 44 | [Varsity Vocals](../labels/varsity_vocals.md)         |
+|                 36 | [RCA Records Label](../labels/rca_records_label.md)   |
+|                 32 | [A Cappella Records](../labels/a_cappella_records.md) |
+|                 12 | [Ithacappella](../labels/ithacappella.md)             |
+|                  8 | Vanderbilt Melodores                                  |
+|                  8 | UNC Achordants                                        |
+|                  6 | Tar Heel Voices                                       |
+|                  6 | Naked Voice Records                                   |
+|                  5 | The Loreleis                                          |
+|                  4 | [Warner Classics](../labels/warner_classics.md)       |
+|                  4 | The Nor'easters                                       |
+|                  4 | SwingCD                                               |
+|                  4 | 649668 Records DK2                                    |
+|                  3 | The Sound Corporation                                 |
+|                  3 | The SoCal VoCals                                      |
+|                  2 | world village                                         |
+|                  2 | Voices Only A Cappella                                |
+|                  2 | The University of Rochester Midnight Ramblers         |
+|                  2 | The Clef Hangers                                      |
+|                  2 | SoCal VoCals                                          |
+|                  2 | Signum Records                                        |
+|                  1 | Uncle Buford Records                                  |
+|                  1 | Sonoton Music                                         |
+|                  1 | Signum OMP                                            |
+|                  1 | RCA Victor - Munich                                   |
+|                  1 | Loudr                                                 |
+|                  1 | [Atlantic Records](../labels/atlantic_records.md)     |
 
 </details>
 
@@ -249,12 +241,12 @@
 | 10 most Speechy tracks                    | 10 least Speechy tracks   |
 |:------------------------------------------|:--------------------------|
 | Hey Momma / Hit the Road Jack             | Falling Slowly            |
-| Uptown Funk                               | Cough Syrup               |
-| Bang Bang                                 | Good Vibrations           |
+| Bang Bang                                 | Cough Syrup               |
+| Uptown Funk                               | Good Vibrations           |
 | Don't Stop Me Now                         | Latch                     |
 | I'd Like To                               | Demons                    |
-| Cry Me a River                            | We All Need Saving        |
-| Movin' On                                 | The Sound of Silence      |
+| Cry Me a River                            | The Sound of Silence      |
+| Movin' On                                 | We All Need Saving        |
 | Waka Waka (This Time for Africa)          | Machine Gun               |
 | Attention                                 | Samson                    |
 | Too Close (feat. Roxorloops & Blady Kris) | We Found Love             |
@@ -269,44 +261,44 @@
 | Walking in the Air             | Talk Dirty                    |
 | Greensleeves                   | Domino                        |
 | Bluebird                       | The Baddest Girl              |
-| Demons                         | Daft Punk                     |
-| Prelude No.1 in C Major        | I Need Your Love              |
+| Prelude No.1 in C Major        | Daft Punk                     |
+| Demons                         | I Need Your Love              |
 
 | 10 most Instrumental tracks    | 10 least Instrumental tracks   |
 |:-------------------------------|:-------------------------------|
-| Prelude No.1 in C Major        | Finesse - Remix                |
-| Libertango                     | We All Need Saving             |
-| Eine kleine Nachtmusik         | Pure Imagination               |
-| Lullabye (Goodnight My Angel)  | Movin' On                      |
-| Dance of the Sugar Plum Fairy  | Stay                           |
-| Here (In Your Arms)            | Work Song                      |
-| Falling Slowly                 | Carry On Wayward Son           |
-| Greensleeves                   | Smooth                         |
-| Shenandoah - Arr. Bob Chilcott | Little Lion Man                |
-| Home                           | You And I                      |
+| Prelude No.1 in C Major        | Wayfaring Stranger             |
+| Libertango                     | Tightrope                      |
+| Eine kleine Nachtmusik         | Finesse - Remix                |
+| Lullabye (Goodnight My Angel)  | Pure Imagination               |
+| Dance of the Sugar Plum Fairy  | Movin' On                      |
+| Here (In Your Arms)            | Stay                           |
+| Falling Slowly                 | Work Song                      |
+| Greensleeves                   | Carry On Wayward Son           |
+| Shenandoah - Arr. Bob Chilcott | Smooth                         |
+| Home                           | Say Something                  |
 
 | 10 most Live tracks     | 10 least Live tracks                               |
 |:------------------------|:---------------------------------------------------|
-| Brand New Jones         | There Goes My Baby                                 |
-| I'd Like To             | Demons                                             |
-| Sound Of Silence        | All Time Low                                       |
-| Smooth                  | I Write Sins Not Tragedies                         |
-| Talk Dirty              | Papaoutai (Stromae Cover) (feat. Lindsey Stirling) |
-| Starships               | Finesse                                            |
-| Disturbia               | Russian Roulette                                   |
-| Havana                  | Africa                                             |
+| Brand New Jones         | Say Something                                      |
+| I'd Like To             | There Goes My Baby                                 |
+| Sound Of Silence        | Demons                                             |
+| Smooth                  | All Time Low                                       |
+| Talk Dirty              | I Write Sins Not Tragedies                         |
+| Starships               | Papaoutai (Stromae Cover) (feat. Lindsey Stirling) |
+| Disturbia               | Finesse                                            |
+| Havana                  | Russian Roulette                                   |
+| Supermassive Black Hole | Africa                                             |
 | Let It Go               | Bang Bang                                          |
-| Supermassive Black Hole | Paranoid Android                                   |
 
 | 10 most Happy tracks    | 10 least Happy tracks          |
 |:------------------------|:-------------------------------|
-| Big Yellow Taxi         | We Found Love                  |
-| I Want You Back         | Say Something                  |
-| Attention               | Danny Boy                      |
-| Finesse                 | Lullabye (Goodnight My Angel)  |
+| I Want You Back         | We Found Love                  |
+| Attention               | Say Something                  |
+| Finesse                 | Danny Boy                      |
 | Na Na Na                | Lullabye (Goodnight My Angel)  |
-| Domino                  | Loch Lomond                    |
-| Smooth                  | The Music of the Night         |
-| Toxic                   | The Sound of Silence           |
-| I'd Like To             | Bring Him Home                 |
-| Supermassive Black Hole | Shenandoah - Arr. Bob Chilcott |
+| Domino                  | Lullabye (Goodnight My Angel)  |
+| Smooth                  | Loch Lomond                    |
+| Toxic                   | The Music of the Night         |
+| I'd Like To             | The Sound of Silence           |
+| Supermassive Black Hole | Bring Him Home                 |
+| Natural Disaster        | Shenandoah - Arr. Bob Chilcott |

@@ -5,9 +5,9 @@
 <img src="https://i.scdn.co/image/ab6772690000c46c7cafb5e9c143b1ed439824f6" alt="Trevor Pinnock" width="100" />
 
 ## Featured on Playlists
-|   Number of Tracks | Art                                                                                              | Playlist                           |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------|
-|                 18 | <img src="https://i.scdn.co/image/ab67616d0000b273203bf132896e0a4be9638dda" alt="" width="50" /> | [Vivaldi](../playlists/vivaldi.md) |
+|   Number of Tracks | Art                                                                                              | Playlist                                    |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------|
+|                 18 | <img src="https://i.scdn.co/image/ab67616d0000b273203bf132896e0a4be9638dda" alt="" width="50" /> | [Vivaldi](../playlists/vivaldi/overview.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album                 | 🔗                                                          |

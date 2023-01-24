@@ -71,7 +71,7 @@
 |                 24 | [Naxos](../labels/naxos.md)                                       |
 |                 18 | [Decca Music Group Ltd.](../labels/decca_music_group_ltd_.md)     |
 |                 17 | [Deutsche Grammophon (DG)](../labels/deutsche_grammophon__dg_.md) |
-|                  3 | [Carus](../labels/carus.md)                                       |
+|                  3 | Carus                                                             |
 
 </details>
 

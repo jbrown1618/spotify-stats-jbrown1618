@@ -5,11 +5,11 @@
 <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="Lana Del Rey" width="100" />
 
 ## Featured on Playlists
-|   Number of Tracks | Art                                                                                                                                                                                                                         | Playlist                                               |
-|-------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------|
-|                 18 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273022b4010e20659300f42c375ab67616d0000b2730e402844f1b6be3102d339f2ab67616d0000b2733378545422c5257483f6230eab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | [Singer-Songwriter](../playlists/singer_songwriter.md) |
-|                 17 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273028c3bb4b81ee71dd73d1596ab67616d0000b27392c885317fbe4bfa680109b4ab67616d0000b273d0ec2db731952a7efabc6397ab67616d0000b273df55e326ed144ab4f5cecf95" alt="" width="50" /> | [Indie/Alternative](../playlists/indie_alternative.md) |
-|                  1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | [Pop](../playlists/pop.md)                             |
+|   Number of Tracks | Art                                                                                                                                                                                                                         | Playlist                                                        |
+|-------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------|
+|                 18 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273022b4010e20659300f42c375ab67616d0000b2730e402844f1b6be3102d339f2ab67616d0000b2733378545422c5257483f6230eab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | [Singer-Songwriter](../playlists/singer_songwriter/overview.md) |
+|                 17 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273028c3bb4b81ee71dd73d1596ab67616d0000b27392c885317fbe4bfa680109b4ab67616d0000b273d0ec2db731952a7efabc6397ab67616d0000b273df55e326ed144ab4f5cecf95" alt="" width="50" /> | [Indie/Alternative](../playlists/indie_alternative/overview.md) |
+|                  1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | [Pop](../playlists/pop/overview.md)                             |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album                                                 | 🔗                                                          |
@@ -26,12 +26,12 @@
 
 ## Top Record Labels
 
-|   Number of Tracks | Label                                             |
-|-------------------:|:--------------------------------------------------|
-|                 17 | [Polydor Records](../labels/polydor_records.md)   |
-|                  1 | [Taylor Swift](../labels/taylor_swift.md)         |
-|                  1 | [Silver Cloud](../labels/silver_cloud.md)         |
-|                  1 | [Charlie's Angels](../labels/charlie_s_angels.md) |
+|   Number of Tracks | Label                                           |
+|-------------------:|:------------------------------------------------|
+|                 17 | [Polydor Records](../labels/polydor_records.md) |
+|                  1 | [Taylor Swift](../labels/taylor_swift.md)       |
+|                  1 | Silver Cloud                                    |
+|                  1 | Charlie's Angels                                |
 
 ## Genres
 

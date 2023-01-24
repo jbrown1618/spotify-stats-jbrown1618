@@ -5,9 +5,9 @@
 <img src="https://i.scdn.co/image/ab6761610000e5eb66cd5da57e71a33da20de712" alt="Martha Argerich" width="100" />
 
 ## Featured on Playlists
-|   Number of Tracks | Art                                                                                                                                                                                                                         | Playlist                         |
-|-------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------|
-|                 31 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734215d2bfa2e73ae057165347ab67616d0000b2738a9c1224da995cb33a8cb3d5ab67616d0000b273b5fcd6996bf050f9f9010d3aab67616d0000b273da673657374e88d973dad080" alt="" width="50" /> | [Chopin](../playlists/chopin.md) |
+|   Number of Tracks | Art                                                                                                                                                                                                                         | Playlist                                  |
+|-------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------|
+|                 31 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734215d2bfa2e73ae057165347ab67616d0000b2738a9c1224da995cb33a8cb3d5ab67616d0000b273b5fcd6996bf050f9f9010d3aab67616d0000b273da673657374e88d973dad080" alt="" width="50" /> | [Chopin](../playlists/chopin/overview.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album                         | 🔗                                                          |
@@ -20,7 +20,7 @@
 |   Number of Tracks | Label                                                             |
 |-------------------:|:------------------------------------------------------------------|
 |                 30 | [Deutsche Grammophon (DG)](../labels/deutsche_grammophon__dg_.md) |
-|                  1 | [DOREMI](../labels/doremi.md)                                     |
+|                  1 | DOREMI                                                            |
 
 ## Genres
 

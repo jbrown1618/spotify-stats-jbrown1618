@@ -62,7 +62,7 @@
 |-------------------:|:------------------------------------------------------------------|
 |                 26 | [Deutsche Grammophon (DG)](../labels/deutsche_grammophon__dg_.md) |
 |                 18 | [Mariinsky](../labels/mariinsky.md)                               |
-|                  8 | [SUPRAPHON a.s.](../labels/supraphon_a_s_.md)                     |
+|                  8 | SUPRAPHON a.s.                                                    |
 |                  4 | [harmonia mundi](../labels/harmonia_mundi.md)                     |
 
 </details>

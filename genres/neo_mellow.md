@@ -89,25 +89,25 @@
 <details>
 <summary>See all 17 labels</summary>
 
-|   Number of Tracks | Label                                                         |
-|-------------------:|:--------------------------------------------------------------|
-|                 62 | [Epic](../labels/epic.md)                                     |
-|                 10 | [Virgin Records](../labels/virgin_records.md)                 |
-|                  7 | [Universal (MT)](../labels/universal__mt_.md)                 |
-|                  3 | [Relentless](../labels/relentless.md)                         |
-|                  3 | [Atlantic Records](../labels/atlantic_records.md)             |
-|                  2 | [sensibility recordings](../labels/sensibility_recordings.md) |
-|                  2 | [Phonogenic](../labels/phonogenic.md)                         |
-|                  2 | [Island Def Jam](../labels/island_def_jam.md)                 |
-|                  2 | [EMI](../labels/emi.md)                                       |
-|                  2 | [ATG](../labels/atg.md)                                       |
-|                  1 | [Polydor Records](../labels/polydor_records.md)               |
-|                  1 | [J Records](../labels/j_records.md)                           |
-|                  1 | [Island Records](../labels/island_records.md)                 |
-|                  1 | [Down Up Down Music](../labels/down_up_down_music.md)         |
-|                  1 | [Columbia](../labels/columbia.md)                             |
-|                  1 | [Capitol Records (US1A)](../labels/capitol_records__us1a_.md) |
-|                  1 | [19 Recordings Limited](../labels/19_recordings_limited.md)   |
+|   Number of Tracks | Label                                             |
+|-------------------:|:--------------------------------------------------|
+|                 62 | [Epic](../labels/epic.md)                         |
+|                 10 | [Virgin Records](../labels/virgin_records.md)     |
+|                  7 | Universal (MT)                                    |
+|                  3 | Relentless                                        |
+|                  3 | [Atlantic Records](../labels/atlantic_records.md) |
+|                  2 | sensibility recordings                            |
+|                  2 | Phonogenic                                        |
+|                  2 | Island Def Jam                                    |
+|                  2 | EMI                                               |
+|                  2 | ATG                                               |
+|                  1 | [Polydor Records](../labels/polydor_records.md)   |
+|                  1 | J Records                                         |
+|                  1 | Island Records                                    |
+|                  1 | Down Up Down Music                                |
+|                  1 | [Columbia](../labels/columbia.md)                 |
+|                  1 | Capitol Records (US1A)                            |
+|                  1 | 19 Recordings Limited                             |
 
 </details>
 

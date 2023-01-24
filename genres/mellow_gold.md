@@ -118,20 +118,20 @@
 |                  7 | [Rhino](../labels/rhino.md)                                                     |
 |                  4 | [UMC (Universal Music Catalogue)](../labels/umc__universal_music_catalogue_.md) |
 |                  4 | [Epic](../labels/epic.md)                                                       |
-|                  3 | [Geffen](../labels/geffen.md)                                                   |
-|                  3 | [Elektra](../labels/elektra.md)                                                 |
-|                  3 | [EMI](../labels/emi.md)                                                         |
+|                  3 | Geffen                                                                          |
+|                  3 | Elektra                                                                         |
+|                  3 | EMI                                                                             |
 |                  2 | [Warner Records](../labels/warner_records.md)                                   |
-|                  2 | [RCA Victor](../labels/rca_victor.md)                                           |
+|                  2 | RCA Victor                                                                      |
 |                  2 | [Polydor Records](../labels/polydor_records.md)                                 |
-|                  2 | [Ode](../labels/ode.md)                                                         |
-|                  2 | [Legacy Recordings](../labels/legacy_recordings.md)                             |
-|                  2 | [A&M](../labels/a_m.md)                                                         |
-|                  1 | [Rhino Atlantic](../labels/rhino_atlantic.md)                                   |
+|                  2 | Ode                                                                             |
+|                  2 | Legacy Recordings                                                               |
+|                  2 | A&M                                                                             |
+|                  1 | Rhino Atlantic                                                                  |
 |                  1 | [MOTOWN](../labels/motown.md)                                                   |
 |                  1 | [Capitol Records](../labels/capitol_records.md)                                 |
-|                  1 | [CAPITOL CATALOG MKT (C92)](../labels/capitol_catalog_mkt__c92_.md)             |
-|                  1 | [Bee Gees Catalog](../labels/bee_gees_catalog.md)                               |
+|                  1 | CAPITOL CATALOG MKT (C92)                                                       |
+|                  1 | Bee Gees Catalog                                                                |
 
 </details>
 

@@ -57,8 +57,8 @@
 |-------------------:|:------------------------------------------------------------------|
 |                102 | [Decca Music Group Ltd.](../labels/decca_music_group_ltd_.md)     |
 |                 53 | [Deutsche Grammophon (DG)](../labels/deutsche_grammophon__dg_.md) |
-|                  1 | [Onyx Classics](../labels/onyx_classics.md)                       |
-|                  1 | [DOREMI](../labels/doremi.md)                                     |
+|                  1 | Onyx Classics                                                     |
+|                  1 | DOREMI                                                            |
 
 </details>
 

@@ -1,11 +1,11 @@
 # Universal Music LLC
 
-66 songs
+61 songs
 
 Appears as:
 - Universal Music LLC (37 tracks)
 - Universal Records (16 tracks)
-- Universal Music Ltd. (11 tracks)
+- Universal Music Ltd. (6 tracks)
 - Fuzzy Door Productions/Universal (1 tracks)
 - Republic/Universal/FSF (1 tracks)
 
@@ -15,41 +15,37 @@ Appears as:
 
 
 <details>
-<summary>See all 34 artists</summary>
+<summary>See all 30 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                         | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------|:------------------------------------------------------------|
 |                 13 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)             | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 |                 12 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../artists/ariana_grande.md)   | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
-|                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f5769fc671ca8199168d3fb" alt="" width="50" /> | DEAN                                           | [🔗](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebadffb99dc62d070da29306ff" alt="" width="50" /> | JEON SOYEON                                    | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb6eff35941dca1f9461944174" alt="" width="50" /> | Elizaveta                                      | [🔗](https://open.spotify.com/artist/2a9bCkqCkLvXM0s3uPvR7M) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | CLC                                            | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eba3c1fca063ed673aed61c885" alt="" width="50" /> | YOUHA                                          | [🔗](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) |
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | PENTAGON                                       | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f5769fc671ca8199168d3fb" alt="" width="50" /> | DEAN                                           | [🔗](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc19d6c8224e8b1b94bf565e5" alt="" width="50" /> | Perfume                                        | [🔗](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd12e935bbdee7c383001f8c4" alt="" width="50" /> | YUQI                                           | [🔗](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | Nicki Minaj                                    | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3bdc84aa8946d4d06fe2e144" alt="" width="50" /> | SEKAI NO OWARI                                 | [🔗](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb28c2dea644b78257ccfb4520" alt="" width="50" /> | Seth MacFarlane                                | [🔗](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb548445341ba5aa2ddcd35c87" alt="" width="50" /> | Fujii Kaze                                     | [🔗](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8e9d1c8642df6f869631fe62" alt="" width="50" /> | Crush                                          | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | BIBI                                           | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd46ebd494a30ea88327e9715" alt="" width="50" /> | TRI.BE                                         | [🔗](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | Iggy Azalea                                    | [🔗](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md)               | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb511f570580c79107b2fa70b9" alt="" width="50" /> | ZICO                                           | [🔗](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebaaa9e8d56241a48b8f6422b2" alt="" width="50" /> | Kawaguchi Yurina                               | [🔗](https://open.spotify.com/artist/3snqW31jInsZwoYRZTaixr) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)                       | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb38a96d85b0580670123280e" alt="" width="50" /> | ZUTOMAYO                                       | [🔗](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb542d7186c5db3b26d923a49d" alt="" width="50" /> | Jeff Bernat                                    | [🔗](https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bb5ab9683125fc416c9dbfb" alt="" width="50" /> | Zedd                                           | [🔗](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0222fa7cba5da5c28ea5d296" alt="" width="50" /> | BTOB                                           | [🔗](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | Jessie J                                       | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../artists/sara_bareilles.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99713cdd2a68b0db306aad6" alt="" width="50" /> | TAEMIN                                         | [🔗](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb647fab97373c312883077e79" alt="" width="50" /> | Gaeko                                          | [🔗](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb95c4de2079b4a13166e0d995" alt="" width="50" /> | Dok2                                           | [🔗](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733e59f3e73b99ed248ab7bae2" alt="" width="50" /> | Lee Young Ji                                   | [🔗](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0db36498679f03f30606d45f" alt="" width="50" /> | Ellie Goulding                                 | [🔗](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb45b2ff69ae6a3caccb776cfa" alt="" width="50" /> | [STAYC](../artists/stayc.md)                   | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
@@ -67,7 +63,6 @@ Appears as:
 
 |   Number of Tracks | Art                                                                                              | Album                                                   | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------|:-----------------------------------------------------------|
-|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b27318974569625e8449a5497ef3" alt="" width="50" /> | 130 Mood : TRBL                                         | [🔗](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | Windy                                                   | [🔗](https://open.spotify.com/album/1lv92CIVZbB2BsHmIx7qJf) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | My Everything (Deluxe)                                  | [🔗](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | I trust                                                 | [🔗](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) |
@@ -79,6 +74,7 @@ Appears as:
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2733fe0e026d4043e5d62c81328" alt="" width="50" /> | LOVE or TAKE                                            | [🔗](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c5011613476079ff2498bf4a" alt="" width="50" /> | HELICOPTER                                              | [🔗](https://open.spotify.com/album/1uwfxRAhW1hxclCVkzku8d) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273cf122fa2dd2c23dcc79f7c51" alt="" width="50" /> | A Page                                                  | [🔗](https://open.spotify.com/album/7jmRVFWYCVgx2OEC1ZQJH8) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27318974569625e8449a5497ef3" alt="" width="50" /> | 130 Mood : TRBL                                         | [🔗](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ced490e566f828ee9ca8d263" alt="" width="50" /> | 潜潜話                                                     | [🔗](https://open.spotify.com/album/4myzXA54fPm89hpW41YkOS) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dbd5c6e6e365a3e70832780d" alt="" width="50" /> | さよならひとり                                                 | [🔗](https://open.spotify.com/album/0VOMzswFy3fFsOb1tYs1Wd) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27358870b3abb0ff43e5948c912" alt="" width="50" /> | i'M THE TREND                                           | [🔗](https://open.spotify.com/album/03TbZLPSRsHWX11umzK4qf) |
@@ -116,17 +112,17 @@ Appears as:
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
-|                 39 | [k-pop](../genres/k_pop.md)                       |
+|                 34 | [k-pop](../genres/k_pop.md)                       |
 |                 18 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 |                 13 | [pop](../genres/pop.md)                           |
 |                 13 | [dance pop](../genres/dance_pop.md)               |
-|                  7 | korean r&b                                        |
 |                  6 | [k-pop boy group](../genres/k_pop_boy_group.md)   |
 |                  4 | j-pop                                             |
 |                  4 | deep indie singer-songwriter                      |
 |                  3 | korean city pop                                   |
 |                  3 | k-indie                                           |
 |                  2 | shibuya-kei                                       |
+|                  2 | korean r&b                                        |
 |                  2 | japanese electropop                               |
 |                  2 | j-pop girl group                                  |
 |                  2 | j-idol                                            |
@@ -179,13 +175,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ca65c45697e473a0d9d1711" alt="" width="50" /> | Devil                        | Devil                                                   | CLC                                                                 | [Universal Music LLC](universal_music_llc.md)                                               | 💚   | [🔗](https://open.spotify.com/track/3aG0gbuvZ1VeVm68d4J6Yq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5011613476079ff2498bf4a" alt="" width="50" /> | HELICOPTER                   | HELICOPTER                                              | CLC                                                                 | [Universal Music LLC](universal_music_llc.md)                                               | 💚   | [🔗](https://open.spotify.com/track/2hJS7BdEaH9Jo8MeJujsHT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5011613476079ff2498bf4a" alt="" width="50" /> | HELICOPTER - English Version | HELICOPTER                                              | CLC                                                                 | [Universal Music LLC](universal_music_llc.md)                                               |     | [🔗](https://open.spotify.com/track/3yHAVLtQy5ppBbuTUUhrlu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27318974569625e8449a5497ef3" alt="" width="50" /> | 21                           | 130 Mood : TRBL                                         | DEAN                                                                | [Universal Music Ltd.](universal_music_llc.md)                                              |     | [🔗](https://open.spotify.com/track/2jiI8bNSDu7UxTtDCOqh3L) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27318974569625e8449a5497ef3" alt="" width="50" /> | Bonnie & Clyde               | 130 Mood : TRBL                                         | DEAN                                                                | [Universal Music Ltd.](universal_music_llc.md)                                              |     | [🔗](https://open.spotify.com/track/6IFpwncCkKrXHyP0RuG9r6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27318974569625e8449a5497ef3" alt="" width="50" /> | D (Half Moon)                | 130 Mood : TRBL                                         | DEAN, Gaeko                                                         | [Universal Music Ltd.](universal_music_llc.md)                                              |     | [🔗](https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27318974569625e8449a5497ef3" alt="" width="50" /> | I Love It                    | 130 Mood : TRBL                                         | DEAN, Dok2                                                          | [Universal Music Ltd.](universal_music_llc.md)                                              |     | [🔗](https://open.spotify.com/track/6CBA5xTE7Z4cyA9rzlhFdA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27318974569625e8449a5497ef3" alt="" width="50" /> | What 2 Do                    | 130 Mood : TRBL                                         | DEAN, Crush, Jeff Bernat                                            | [Universal Music Ltd.](universal_music_llc.md)                                              |     | [🔗](https://open.spotify.com/track/6GS3lnAVy5w6AHWEKYzYeS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27318974569625e8449a5497ef3" alt="" width="50" /> | 어때                           | 130 Mood : TRBL                                         | DEAN                                                                | [Universal Music Ltd.](universal_music_llc.md)                                              |     | [🔗](https://open.spotify.com/track/4NqiiK63rKwYTwHpPhmC61) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27318974569625e8449a5497ef3" alt="" width="50" /> | 풀어                           | 130 Mood : TRBL                                         | DEAN, ZICO                                                          | [Universal Music Ltd.](universal_music_llc.md)                                              |     | [🔗](https://open.spotify.com/track/2p980qlVXYLh3HdHusbhfa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27318974569625e8449a5497ef3" alt="" width="50" /> | 21                           | 130 Mood : TRBL                                         | DEAN                                                                | [Universal Music Ltd.](universal_music_llc.md)                                              | 💚   | [🔗](https://open.spotify.com/track/2jiI8bNSDu7UxTtDCOqh3L) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27318974569625e8449a5497ef3" alt="" width="50" /> | D (Half Moon)                | 130 Mood : TRBL                                         | DEAN, Gaeko                                                         | [Universal Music Ltd.](universal_music_llc.md)                                              | 💚   | [🔗](https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="" width="50" /> | Dreamer                      | Beatrix Runs                                            | Elizaveta                                                           | [Universal Records](universal_music_llc.md)                                                 | 💚   | [🔗](https://open.spotify.com/track/6Rod4YnyLthZqnvInGlPKI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="" width="50" /> | Meant                        | Beatrix Runs                                            | Elizaveta                                                           | [Universal Records](universal_music_llc.md)                                                 | 💚   | [🔗](https://open.spotify.com/track/0HEA0fIQiqOCQBcHd8PdXo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="" width="50" /> | Nightflyers                  | Beatrix Runs                                            | Elizaveta                                                           | [Universal Records](universal_music_llc.md)                                                 |     | [🔗](https://open.spotify.com/track/2IJIZnAmBgkbohDRZDIMl5) |

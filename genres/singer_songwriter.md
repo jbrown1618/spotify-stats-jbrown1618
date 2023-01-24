@@ -92,24 +92,24 @@
 <details>
 <summary>See all 16 labels</summary>
 
-|   Number of Tracks | Label                                                                             |
-|-------------------:|:----------------------------------------------------------------------------------|
-|                 24 | [Columbia](../labels/columbia.md)                                                 |
-|                 14 | [Rhino](../labels/rhino.md)                                                       |
-|                  5 | [Legacy](../labels/legacy.md)                                                     |
-|                  3 | [Elektra](../labels/elektra.md)                                                   |
-|                  2 | [Warner Records](../labels/warner_records.md)                                     |
-|                  2 | [RCA Victor](../labels/rca_victor.md)                                             |
-|                  2 | [Ode](../labels/ode.md)                                                           |
-|                  2 | [Legacy Recordings](../labels/legacy_recordings.md)                               |
-|                  2 | [Epic](../labels/epic.md)                                                         |
-|                  1 | [Work](../labels/work.md)                                                         |
-|                  1 | [Walt Disney Records](../labels/walt_disney_records.md)                           |
-|                  1 | [Universal Music Division Polydor](../labels/universal_music_division_polydor.md) |
-|                  1 | [Maverick](../labels/maverick.md)                                                 |
-|                  1 | [Clean Slate](../labels/clean_slate.md)                                           |
-|                  1 | [Capitol Records](../labels/capitol_records.md)                                   |
-|                  1 | [CAPITOL CATALOG MKT (C92)](../labels/capitol_catalog_mkt__c92_.md)               |
+|   Number of Tracks | Label                                                   |
+|-------------------:|:--------------------------------------------------------|
+|                 24 | [Columbia](../labels/columbia.md)                       |
+|                 14 | [Rhino](../labels/rhino.md)                             |
+|                  5 | [Legacy](../labels/legacy.md)                           |
+|                  3 | Elektra                                                 |
+|                  2 | [Warner Records](../labels/warner_records.md)           |
+|                  2 | RCA Victor                                              |
+|                  2 | Ode                                                     |
+|                  2 | Legacy Recordings                                       |
+|                  2 | [Epic](../labels/epic.md)                               |
+|                  1 | Work                                                    |
+|                  1 | [Walt Disney Records](../labels/walt_disney_records.md) |
+|                  1 | Universal Music Division Polydor                        |
+|                  1 | Maverick                                                |
+|                  1 | Clean Slate                                             |
+|                  1 | [Capitol Records](../labels/capitol_records.md)         |
+|                  1 | CAPITOL CATALOG MKT (C92)                               |
 
 </details>
 

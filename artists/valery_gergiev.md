@@ -5,9 +5,9 @@
 <img src="https://i.scdn.co/image/ab6761610000e5eb85c25fffeaf7a209268e9372" alt="Valery Gergiev" width="100" />
 
 ## Featured on Playlists
-|   Number of Tracks | Art                                                                                                                                                                                                                         | Playlist                         |
-|-------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------|
-|                 18 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2733620c09ca7ca202e676b783bab67616d0000b2733dc87408b73e227ec72eeab3ab67616d0000b2739daaa54cc50b6359ff1dc7a3ab67616d0000b273f0eb5b09e87f24415266d723" alt="" width="50" /> | [Ballet](../playlists/ballet.md) |
+|   Number of Tracks | Art                                                                                                                                                                                                                         | Playlist                                  |
+|-------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------|
+|                 18 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2733620c09ca7ca202e676b783bab67616d0000b2733dc87408b73e227ec72eeab3ab67616d0000b2739daaa54cc50b6359ff1dc7a3ab67616d0000b273f0eb5b09e87f24415266d723" alt="" width="50" /> | [Ballet](../playlists/ballet/overview.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album                                | 🔗                                                          |
@@ -22,6 +22,7 @@
 
 ## Genres
 
+- [classical](../genres/classical.md)
 - classical performance
 - orchestral performance
 

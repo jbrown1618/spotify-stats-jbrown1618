@@ -94,27 +94,27 @@
 <details>
 <summary>See all 19 labels</summary>
 
-|   Number of Tracks | Label                                                               |
-|-------------------:|:--------------------------------------------------------------------|
-|                 18 | [Columbia](../labels/columbia.md)                                   |
-|                  9 | [Epic](../labels/epic.md)                                           |
-|                  6 | [Parkwood Entertainment](../labels/parkwood_entertainment.md)       |
-|                  5 | [Music World Music](../labels/music_world_music.md)                 |
-|                  4 | [LaFace Records](../labels/laface_records.md)                       |
-|                  2 | [RCA Records Label](../labels/rca_records_label.md)                 |
-|                  2 | [Legacy](../labels/legacy.md)                                       |
-|                  2 | [Golden Child Recordings](../labels/golden_child_recordings.md)     |
-|                  2 | [G.O.O.D. Music](../labels/g_o_o_d__music.md)                       |
-|                  2 | [Arista](../labels/arista.md)                                       |
-|                  1 | [Nu America Music](../labels/nu_america_music.md)                   |
-|                  1 | [Not So Fast](../labels/not_so_fast.md)                             |
-|                  1 | [Jive](../labels/jive.md)                                           |
-|                  1 | [Def Jam Recordings](../labels/def_jam_recordings.md)               |
-|                  1 | [Chris Brown Entertainment](../labels/chris_brown_entertainment.md) |
-|                  1 | [Bad Boy](../labels/bad_boy.md)                                     |
-|                  1 | [ATO Records](../labels/ato_records.md)                             |
-|                  1 | [300 Entertainment](../labels/300_entertainment.md)                 |
-|                  1 | [19 Recordings Limited](../labels/19_recordings_limited.md)         |
+|   Number of Tracks | Label                                                 |
+|-------------------:|:------------------------------------------------------|
+|                 18 | [Columbia](../labels/columbia.md)                     |
+|                  9 | [Epic](../labels/epic.md)                             |
+|                  6 | Parkwood Entertainment                                |
+|                  5 | Music World Music                                     |
+|                  4 | LaFace Records                                        |
+|                  2 | [RCA Records Label](../labels/rca_records_label.md)   |
+|                  2 | [Legacy](../labels/legacy.md)                         |
+|                  2 | Golden Child Recordings                               |
+|                  2 | G.O.O.D. Music                                        |
+|                  2 | Arista                                                |
+|                  1 | Nu America Music                                      |
+|                  1 | Not So Fast                                           |
+|                  1 | [Jive](../labels/jive.md)                             |
+|                  1 | [Def Jam Recordings](../labels/def_jam_recordings.md) |
+|                  1 | Chris Brown Entertainment                             |
+|                  1 | Bad Boy                                               |
+|                  1 | ATO Records                                           |
+|                  1 | 300 Entertainment                                     |
+|                  1 | 19 Recordings Limited                                 |
 
 </details>
 

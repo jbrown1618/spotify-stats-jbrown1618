@@ -143,42 +143,42 @@
 <details>
 <summary>See all 34 labels</summary>
 
-|   Number of Tracks | Label                                                             |
-|-------------------:|:------------------------------------------------------------------|
-|                  9 | [Syco Music](../labels/syco_music.md)                             |
-|                  8 | [Warner Records](../labels/warner_records.md)                     |
-|                  8 | [Epic](../labels/epic.md)                                         |
-|                  5 | [Beluga Heights](../labels/beluga_heights.md)                     |
-|                  5 | [Atlantic Records UK](../labels/atlantic_records_uk.md)           |
-|                  4 | [RCA Records Label](../labels/rca_records_label.md)               |
-|                  4 | [Atlantic Records](../labels/atlantic_records.md)                 |
-|                  2 | [Walt Disney Records](../labels/walt_disney_records.md)           |
-|                  2 | [Republic Records](../labels/republic_records.md)                 |
-|                  2 | [Lava Music](../labels/lava_music.md)                             |
-|                  2 | [Hollywood Records](../labels/hollywood_records.md)               |
-|                  1 | [Warner Bros.](../labels/warner_bros_.md)                         |
-|                  1 | [Universal Music LLC](../labels/universal_music_llc.md)           |
-|                  1 | [Universal Music Group](../labels/universal_music_group.md)       |
-|                  1 | [Spinnin' Records](../labels/spinnin__records.md)                 |
-|                  1 | [Sony Music Entertainment](../labels/sony_music_entertainment.md) |
-|                  1 | [Silent Records IGA](../labels/silent_records_iga.md)             |
-|                  1 | [Silent Records](../labels/silent_records.md)                     |
-|                  1 | [Selena Gomez PS](../labels/selena_gomez_ps.md)                   |
-|                  1 | [Polydor Records](../labels/polydor_records.md)                   |
-|                  1 | [Latium](../labels/latium.md)                                     |
-|                  1 | [Jonas Brothers Recording](../labels/jonas_brothers_recording.md) |
-|                  1 | [Giant Little Man](../labels/giant_little_man.md)                 |
-|                  1 | [Fueled By Ramen](../labels/fueled_by_ramen.md)                   |
-|                  1 | [EMPIRE](../labels/empire.md)                                     |
-|                  1 | [Decaydance](../labels/decaydance.md)                             |
-|                  1 | [Colour Vision Records](../labels/colour_vision_records.md)       |
-|                  1 | [Capitol Records (US1A)](../labels/capitol_records__us1a_.md)     |
-|                  1 | [Capitol Records](../labels/capitol_records.md)                   |
-|                  1 | [Big Beat Records](../labels/big_beat_records.md)                 |
-|                  1 | [Bad Dreams Records](../labels/bad_dreams_records.md)             |
-|                  1 | [Arista](../labels/arista.md)                                     |
-|                  1 | [Access Records](../labels/access_records.md)                     |
-|                  1 | [19 Recordings Limited](../labels/19_recordings_limited.md)       |
+|   Number of Tracks | Label                                                   |
+|-------------------:|:--------------------------------------------------------|
+|                  9 | [Syco Music](../labels/syco_music.md)                   |
+|                  8 | [Warner Records](../labels/warner_records.md)           |
+|                  8 | [Epic](../labels/epic.md)                               |
+|                  5 | Beluga Heights                                          |
+|                  5 | Atlantic Records UK                                     |
+|                  4 | [RCA Records Label](../labels/rca_records_label.md)     |
+|                  4 | [Atlantic Records](../labels/atlantic_records.md)       |
+|                  2 | [Walt Disney Records](../labels/walt_disney_records.md) |
+|                  2 | [Republic Records](../labels/republic_records.md)       |
+|                  2 | Lava Music                                              |
+|                  2 | [Hollywood Records](../labels/hollywood_records.md)     |
+|                  1 | Warner Bros.                                            |
+|                  1 | [Universal Music LLC](../labels/universal_music_llc.md) |
+|                  1 | Universal Music Group                                   |
+|                  1 | Spinnin' Records                                        |
+|                  1 | Sony Music Entertainment                                |
+|                  1 | Silent Records IGA                                      |
+|                  1 | Silent Records                                          |
+|                  1 | Selena Gomez PS                                         |
+|                  1 | [Polydor Records](../labels/polydor_records.md)         |
+|                  1 | Latium                                                  |
+|                  1 | Jonas Brothers Recording                                |
+|                  1 | Giant Little Man                                        |
+|                  1 | Fueled By Ramen                                         |
+|                  1 | EMPIRE                                                  |
+|                  1 | Decaydance                                              |
+|                  1 | Colour Vision Records                                   |
+|                  1 | Capitol Records (US1A)                                  |
+|                  1 | [Capitol Records](../labels/capitol_records.md)         |
+|                  1 | Big Beat Records                                        |
+|                  1 | Bad Dreams Records                                      |
+|                  1 | Arista                                                  |
+|                  1 | Access Records                                          |
+|                  1 | 19 Recordings Limited                                   |
 
 </details>
 

@@ -5,11 +5,11 @@
 <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="LeeHi" width="100" />
 
 ## Featured on Playlists
-|   Number of Tracks | Art                                                                                                                                                                                                                         | Playlist                                           |
-|-------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------|
-|                 20 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273f7da7c0f322b7a1c95190d92" alt="" width="50" /> | [K-Pop](../playlists/k_pop.md)                     |
-|                  6 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b273714e56679ab196354e2e443eab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738c4a282e84a53c1c8acf129a" alt="" width="50" /> | [K-Pop Favorites](../playlists/k_pop_favorites.md) |
-|                  1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | [K-Pop 101](../playlists/k_pop_101.md)             |
+|   Number of Tracks | Art                                                                                                                                                                                                                         | Playlist                                                    |
+|-------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------|
+|                 20 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273f7da7c0f322b7a1c95190d92" alt="" width="50" /> | [K-Pop](../playlists/k_pop/overview.md)                     |
+|                  6 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b273714e56679ab196354e2e443eab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738c4a282e84a53c1c8acf129a" alt="" width="50" /> | [K-Pop Favorites](../playlists/k_pop_favorites/overview.md) |
+|                  1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | [K-Pop 101](../playlists/k_pop_101/overview.md)             |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album                                                                  | 🔗                                                          |
@@ -27,15 +27,15 @@
 
 ## Top Record Labels
 
-|   Number of Tracks | Label                                                                                                               |
-|-------------------:|:--------------------------------------------------------------------------------------------------------------------|
-|                 10 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
-|                  6 | [Genie Music Corporation;Stone Music Entertainment](../labels/genie_music_corporation_stone_music_entertainment.md) |
-|                  1 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                                                 |
-|                  1 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)                                                           |
-|                  1 | [Genie Music Corporation](../labels/genie_music_corporation.md)                                                     |
-|                  1 | [CJ E&M MUSIC](../labels/cj_e_m_music.md)                                                                           |
-|                  1 | [AOMG](../labels/aomg.md)                                                                                           |
+|   Number of Tracks | Label                                                               |
+|-------------------:|:--------------------------------------------------------------------|
+|                 10 | [YG Entertainment](../labels/yg_entertainment.md)                   |
+|                  6 | Genie Music Corporation;Stone Music Entertainment                   |
+|                  1 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
+|                  1 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)           |
+|                  1 | [Genie Music Corporation](../labels/genie_music_corporation.md)     |
+|                  1 | CJ E&M MUSIC                                                        |
+|                  1 | AOMG                                                                |
 
 ## Genres
 
@@ -57,7 +57,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2730a000b1a2ba7db00fc57754d" alt="" width="50" /> | MY LOVE                        | Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 10 | [LeeHi](leehi.md)                 | CJ E&M MUSIC                                                                                                                         |     | [🔗](https://open.spotify.com/track/4PvVKyqJ6pLVi5HKpAjTPc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1db30cc6d74a08a5e14274" alt="" width="50" /> | NO ONE                         | 24℃                                                                    | [LeeHi](leehi.md), B.I            | [YG Entertainment](../labels/yg_entertainment.md)                                                                                    | 💚   | [🔗](https://open.spotify.com/track/0iQ7Nc2YhlyGHeUi4R8Gl6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1db30cc6d74a08a5e14274" alt="" width="50" /> | NO WAY                         | 24℃                                                                    | [LeeHi](leehi.md), G.Soul         | [YG Entertainment](../labels/yg_entertainment.md)                                                                                    | 💚   | [🔗](https://open.spotify.com/track/0jA0TihvVbPHgrIcHbW1Og) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="" width="50" /> | HOLO                           | HOLO                                                                   | [LeeHi](leehi.md)                 | [Stone Music Entertainment](../labels/stone_music_entertainment.md), [Genie Music Corporation](../labels/genie_music_corporation.md) | 💚   | [🔗](https://open.spotify.com/track/4BSluGpjdLQihMmKgHXMxp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="" width="50" /> | HOLO                           | HOLO                                                                   | [LeeHi](leehi.md)                 | [Genie Music Corporation](../labels/genie_music_corporation.md), [Stone Music Entertainment](../labels/stone_music_entertainment.md) | 💚   | [🔗](https://open.spotify.com/track/4BSluGpjdLQihMmKgHXMxp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a8c4052083fb4e80d1819445" alt="" width="50" /> | For You                        | For You                                                                | [LeeHi](leehi.md), Crush          | AOMG                                                                                                                                 | 💚   | [🔗](https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | Bye                            | 4 ONLY                                                                 | [LeeHi](leehi.md)                 | Genie Music Corporation;Stone Music Entertainment                                                                                    | 💚   | [🔗](https://open.spotify.com/track/6ye2BBTpOipvPNjSPxgmRC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | Intentions                     | 4 ONLY                                                                 | [LeeHi](leehi.md)                 | Genie Music Corporation;Stone Music Entertainment                                                                                    | 💚   | [🔗](https://open.spotify.com/track/7IN84szmayzO68enmVmKYv) |

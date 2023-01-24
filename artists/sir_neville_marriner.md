@@ -5,10 +5,10 @@
 <img src="https://i.scdn.co/image/addf4464734979a85ef71a61c421f23a6bc143ae" alt="Sir Neville Marriner" width="100" />
 
 ## Featured on Playlists
-|   Number of Tracks | Art                                                                                                                                                                                                                         | Playlist                         |
-|-------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------|
-|                  7 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730baa26fb49c09c910a031d24ab67616d0000b2730c8397c0c79c33e6f350ee52ab67616d0000b273397c1f0c407ebd9a318b25faab67616d0000b273609d14b25e86640a2a69c534" alt="" width="50" /> | [Choral](../playlists/choral.md) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273fdf2a7d7437db7a75da73167" alt="" width="50" />                                                                                                                            | [Mozart](../playlists/mozart.md) |
+|   Number of Tracks | Art                                                                                                                                                                                                                         | Playlist                                  |
+|-------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------|
+|                  7 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730baa26fb49c09c910a031d24ab67616d0000b2730c8397c0c79c33e6f350ee52ab67616d0000b273397c1f0c407ebd9a318b25faab67616d0000b273609d14b25e86640a2a69c534" alt="" width="50" /> | [Choral](../playlists/choral/overview.md) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273fdf2a7d7437db7a75da73167" alt="" width="50" />                                                                                                                            | [Mozart](../playlists/mozart/overview.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album                               | 🔗                                                          |

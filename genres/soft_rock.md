@@ -105,24 +105,24 @@
 <details>
 <summary>See all 16 labels</summary>
 
-|   Number of Tracks | Label                                                               |
-|-------------------:|:--------------------------------------------------------------------|
-|                 26 | [Columbia](../labels/columbia.md)                                   |
-|                 12 | [Rhino](../labels/rhino.md)                                         |
-|                 10 | [Legacy](../labels/legacy.md)                                       |
-|                  8 | [Warner Records](../labels/warner_records.md)                       |
-|                  4 | [Epic](../labels/epic.md)                                           |
-|                  3 | [Elektra](../labels/elektra.md)                                     |
-|                  3 | [A&M](../labels/a_m.md)                                             |
-|                  2 | [RCA Victor](../labels/rca_victor.md)                               |
-|                  2 | [Ode](../labels/ode.md)                                             |
-|                  2 | [Legacy Recordings](../labels/legacy_recordings.md)                 |
-|                  1 | [Volcano](../labels/volcano.md)                                     |
-|                  1 | [Rhino Atlantic](../labels/rhino_atlantic.md)                       |
-|                  1 | [MOTOWN](../labels/motown.md)                                       |
-|                  1 | [Capitol Records](../labels/capitol_records.md)                     |
-|                  1 | [CAPITOL CATALOG MKT (C92)](../labels/capitol_catalog_mkt__c92_.md) |
-|                  1 | [Bee Gees Catalog](../labels/bee_gees_catalog.md)                   |
+|   Number of Tracks | Label                                           |
+|-------------------:|:------------------------------------------------|
+|                 26 | [Columbia](../labels/columbia.md)               |
+|                 12 | [Rhino](../labels/rhino.md)                     |
+|                 10 | [Legacy](../labels/legacy.md)                   |
+|                  8 | [Warner Records](../labels/warner_records.md)   |
+|                  4 | [Epic](../labels/epic.md)                       |
+|                  3 | Elektra                                         |
+|                  3 | A&M                                             |
+|                  2 | RCA Victor                                      |
+|                  2 | Ode                                             |
+|                  2 | Legacy Recordings                               |
+|                  1 | Volcano                                         |
+|                  1 | Rhino Atlantic                                  |
+|                  1 | [MOTOWN](../labels/motown.md)                   |
+|                  1 | [Capitol Records](../labels/capitol_records.md) |
+|                  1 | CAPITOL CATALOG MKT (C92)                       |
+|                  1 | Bee Gees Catalog                                |
 
 </details>
 

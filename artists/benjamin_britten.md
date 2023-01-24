@@ -5,9 +5,9 @@
 <img src="https://i.scdn.co/image/40eb3ffb36cd0c98ca76630260d09b0025be373d" alt="Benjamin Britten" width="100" />
 
 ## Featured on Playlists
-|   Number of Tracks | Art                                                                                              | Playlist                     |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------|
-|                 19 | <img src="https://i.scdn.co/image/ab67616d0000b273261feb89ee859b598bd34a97" alt="" width="50" /> | [Bach](../playlists/bach.md) |
+|   Number of Tracks | Art                                                                                              | Playlist                              |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------|
+|                 19 | <img src="https://i.scdn.co/image/ab67616d0000b273261feb89ee859b598bd34a97" alt="" width="50" /> | [Bach](../playlists/bach/overview.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album                                  | 🔗                                                          |

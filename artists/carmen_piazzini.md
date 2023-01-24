@@ -5,9 +5,9 @@
 <img src="https://i.scdn.co/image/1dc8f4430bbf39a814e3413892c020122215924f" alt="Carmen Piazzini" width="100" />
 
 ## Featured on Playlists
-|   Number of Tracks | Art                                                                                              | Playlist                         |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------|
-|                 12 | <img src="https://i.scdn.co/image/ab67616d0000b273fdf2a7d7437db7a75da73167" alt="" width="50" /> | [Mozart](../playlists/mozart.md) |
+|   Number of Tracks | Art                                                                                              | Playlist                                  |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:------------------------------------------|
+|                 12 | <img src="https://i.scdn.co/image/ab67616d0000b273fdf2a7d7437db7a75da73167" alt="" width="50" /> | [Mozart](../playlists/mozart/overview.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album               | 🔗                                                          |

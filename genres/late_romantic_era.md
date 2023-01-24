@@ -79,7 +79,7 @@
 |                 33 | [Deutsche Grammophon (DG)](../labels/deutsche_grammophon__dg_.md)                     |
 |                 16 | [Warner Classics UK](../labels/warner_classics_uk.md)                                 |
 |                  9 | [harmonia mundi](../labels/harmonia_mundi.md)                                         |
-|                  3 | [Carus](../labels/carus.md)                                                           |
+|                  3 | Carus                                                                                 |
 
 </details>
 

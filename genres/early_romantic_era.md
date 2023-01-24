@@ -87,8 +87,8 @@
 |                 95 | [Deutsche Grammophon (DG)](../labels/deutsche_grammophon__dg_.md) |
 |                 21 | [PENTATONE](../labels/pentatone.md)                               |
 |                 13 | [Lso Live](../labels/lso_live.md)                                 |
-|                  1 | [Onyx Classics](../labels/onyx_classics.md)                       |
-|                  1 | [DOREMI](../labels/doremi.md)                                     |
+|                  1 | Onyx Classics                                                     |
+|                  1 | DOREMI                                                            |
 
 </details>
 

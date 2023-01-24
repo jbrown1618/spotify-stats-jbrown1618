@@ -70,11 +70,11 @@
 |-------------------:|:--------------------------------------------------------------------------------|
 |                 30 | [EMI Catalogue](../labels/emi_catalogue.md)                                     |
 |                  3 | [Rhino](../labels/rhino.md)                                                     |
-|                  3 | [Geffen](../labels/geffen.md)                                                   |
+|                  3 | Geffen                                                                          |
 |                  2 | [UMC (Universal Music Catalogue)](../labels/umc__universal_music_catalogue_.md) |
 |                  2 | [Polydor Records](../labels/polydor_records.md)                                 |
 |                  1 | [Warner Records](../labels/warner_records.md)                                   |
-|                  1 | [CAPITOL CATALOG MKT (C92)](../labels/capitol_catalog_mkt__c92_.md)             |
+|                  1 | CAPITOL CATALOG MKT (C92)                                                       |
 
 </details>
 

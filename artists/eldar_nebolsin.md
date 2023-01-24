@@ -5,9 +5,9 @@
 <img src="https://i.scdn.co/image/1b640748181bdba8cc37a0a6ee5148c27b374d4e" alt="Eldar Nebolsin" width="100" />
 
 ## Featured on Playlists
-|   Number of Tracks | Art                                                                                              | Playlist                                   |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------|
-|                 24 | <img src="https://i.scdn.co/image/ab67616d0000b2732ab037775757e856d496f2f5" alt="" width="50" /> | [Rachmaninov](../playlists/rachmaninov.md) |
+|   Number of Tracks | Art                                                                                              | Playlist                                            |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------------|
+|                 24 | <img src="https://i.scdn.co/image/ab67616d0000b2732ab037775757e856d496f2f5" alt="" width="50" /> | [Rachmaninov](../playlists/rachmaninov/overview.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album                                      | 🔗                                                          |

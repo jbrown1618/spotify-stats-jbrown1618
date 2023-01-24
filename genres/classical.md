@@ -211,14 +211,14 @@
 |                 16 | [Warner Classics UK](../labels/warner_classics_uk.md)                                   |
 |                 13 | [Lso Live](../labels/lso_live.md)                                                       |
 |                 12 | [Channel Classics Records](../labels/channel_classics_records.md)                       |
-|                  8 | [SUPRAPHON a.s.](../labels/supraphon_a_s_.md)                                           |
-|                  4 | [JPK Musik](../labels/jpk_musik.md)                                                     |
-|                  3 | [Carus](../labels/carus.md)                                                             |
-|                  2 | [Conifer Classics](../labels/conifer_classics.md)                                       |
-|                  1 | [Warner Classics International](../labels/warner_classics_international.md)             |
+|                  8 | SUPRAPHON a.s.                                                                          |
+|                  4 | JPK Musik                                                                               |
+|                  3 | Carus                                                                                   |
+|                  2 | Conifer Classics                                                                        |
+|                  1 | Warner Classics International                                                           |
 |                  1 | [Sony Music Labels Inc.](../labels/sony_music_labels_inc_.md)                           |
-|                  1 | [Onyx Classics](../labels/onyx_classics.md)                                             |
-|                  1 | [DOREMI](../labels/doremi.md)                                                           |
+|                  1 | Onyx Classics                                                                           |
+|                  1 | DOREMI                                                                                  |
 
 </details>
 

@@ -5,15 +5,15 @@
 <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="Sara Bareilles" width="100" />
 
 ## Featured on Playlists
-|   Number of Tracks | Art                                                                                                                                                                                                                         | Playlist                                               |
-|-------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------|
-|                 60 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273022b4010e20659300f42c375ab67616d0000b2730e402844f1b6be3102d339f2ab67616d0000b2733378545422c5257483f6230eab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | [Singer-Songwriter](../playlists/singer_songwriter.md) |
-|                  6 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732d73b1bb77cee09f0278be04ab67616d0000b2736f50b3400595b123a916e0dcab67616d0000b2739ab215825eb77076b1b4b387ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | [Karaoke](../playlists/karaoke.md)                     |
-|                  6 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27311213770e112f78d4075b61fab67616d0000b2732f8d9427fea9dd36a4fb4f1bab67616d0000b27367a1610b21721a06ed7d378eab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | [Musicals](../playlists/musicals.md)                   |
-|                  4 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | [Pop](../playlists/pop.md)                             |
-|                  1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735d990e8b45c848dc22885f89ab67616d0000b27362f44cdb37183a309fc1032fab67616d0000b27384470dd6235917e2e40e11f0ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | [A Cappella](../playlists/a_cappella.md)               |
-|                  1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273068a5559744d17bd5e871740ab67616d0000b273a1113af3a19a41dc8eec534eab67616d0000b273cb81eb3c1238c60f2bbfd3b5ab67616d0000b273ef54c10b95411c51b9ab873b" alt="" width="50" /> | [Jazz](../playlists/jazz.md)                           |
-|                  1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27303668e3f13559554eca8ccc6ab67616d0000b2730eb56329734f9400c1639359ab67616d0000b27314ed51ab46ef0765182bb8a0ab67616d0000b273987a1825341694ec9bc62457" alt="" width="50" /> | [Tarps](../playlists/tarps.md)                         |
+|   Number of Tracks | Art                                                                                                                                                                                                                         | Playlist                                                        |
+|-------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------|
+|                 60 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273022b4010e20659300f42c375ab67616d0000b2730e402844f1b6be3102d339f2ab67616d0000b2733378545422c5257483f6230eab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | [Singer-Songwriter](../playlists/singer_songwriter/overview.md) |
+|                  6 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732d73b1bb77cee09f0278be04ab67616d0000b2736f50b3400595b123a916e0dcab67616d0000b2739ab215825eb77076b1b4b387ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | [Karaoke](../playlists/karaoke/overview.md)                     |
+|                  6 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27311213770e112f78d4075b61fab67616d0000b2732f8d9427fea9dd36a4fb4f1bab67616d0000b27367a1610b21721a06ed7d378eab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | [Musicals](../playlists/musicals/overview.md)                   |
+|                  4 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | [Pop](../playlists/pop/overview.md)                             |
+|                  1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735d990e8b45c848dc22885f89ab67616d0000b27362f44cdb37183a309fc1032fab67616d0000b27384470dd6235917e2e40e11f0ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | [A Cappella](../playlists/a_cappella/overview.md)               |
+|                  1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273068a5559744d17bd5e871740ab67616d0000b273a1113af3a19a41dc8eec534eab67616d0000b273cb81eb3c1238c60f2bbfd3b5ab67616d0000b273ef54c10b95411c51b9ab873b" alt="" width="50" /> | [Jazz](../playlists/jazz/overview.md)                           |
+|                  1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27303668e3f13559554eca8ccc6ab67616d0000b2730eb56329734f9400c1639359ab67616d0000b27314ed51ab46ef0765182bb8a0ab67616d0000b273987a1825341694ec9bc62457" alt="" width="50" /> | [Tarps](../playlists/tarps/overview.md)                         |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album                                       | 🔗                                                          |
@@ -32,14 +32,14 @@
 
 ## Top Record Labels
 
-|   Number of Tracks | Label                                                         |
-|-------------------:|:--------------------------------------------------------------|
-|                 59 | [Epic](../labels/epic.md)                                     |
-|                  1 | [Varsity Vocals](../labels/varsity_vocals.md)                 |
-|                  1 | [Universal Music LLC](../labels/universal_music_llc.md)       |
-|                  1 | [Fuzzy Door Productions](../labels/fuzzy_door_productions.md) |
-|                  1 | [Atlantic Records](../labels/atlantic_records.md)             |
-|                  1 | [ATO Records](../labels/ato_records.md)                       |
+|   Number of Tracks | Label                                                   |
+|-------------------:|:--------------------------------------------------------|
+|                 59 | [Epic](../labels/epic.md)                               |
+|                  1 | [Varsity Vocals](../labels/varsity_vocals.md)           |
+|                  1 | [Universal Music LLC](../labels/universal_music_llc.md) |
+|                  1 | Fuzzy Door Productions                                  |
+|                  1 | [Atlantic Records](../labels/atlantic_records.md)       |
+|                  1 | ATO Records                                             |
 
 ## Genres
 

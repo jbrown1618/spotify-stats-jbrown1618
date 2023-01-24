@@ -63,14 +63,14 @@
 <details>
 <summary>See all 6 labels</summary>
 
-|   Number of Tracks | Label                                                                       |
-|-------------------:|:----------------------------------------------------------------------------|
-|                 36 | [Sony Classical](../labels/sony_classical.md)                               |
-|                 19 | [Decca Music Group Ltd.](../labels/decca_music_group_ltd_.md)               |
-|                 18 | [Decca (UMO)](../labels/decca__umo_.md)                                     |
-|                 16 | [Warner Classics](../labels/warner_classics.md)                             |
-|                  1 | [Warner Classics International](../labels/warner_classics_international.md) |
-|                  1 | [Conifer Classics](../labels/conifer_classics.md)                           |
+|   Number of Tracks | Label                                                         |
+|-------------------:|:--------------------------------------------------------------|
+|                 36 | [Sony Classical](../labels/sony_classical.md)                 |
+|                 19 | [Decca Music Group Ltd.](../labels/decca_music_group_ltd_.md) |
+|                 18 | [Decca (UMO)](../labels/decca__umo_.md)                       |
+|                 16 | [Warner Classics](../labels/warner_classics.md)               |
+|                  1 | Warner Classics International                                 |
+|                  1 | Conifer Classics                                              |
 
 </details>
 

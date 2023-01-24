@@ -75,17 +75,17 @@
 |-------------------:|:------------------------------------------------|
 |                 59 | [Epic](../labels/epic.md)                       |
 |                 10 | [Virgin Records](../labels/virgin_records.md)   |
-|                  7 | [Universal (MT)](../labels/universal__mt_.md)   |
+|                  7 | Universal (MT)                                  |
 |                  4 | [Warner Records](../labels/warner_records.md)   |
-|                  4 | [Sire](../labels/sire.md)                       |
-|                  4 | [ATO Records](../labels/ato_records.md)         |
-|                  3 | [Relentless](../labels/relentless.md)           |
-|                  3 | [Brute](../labels/brute.md)                     |
-|                  3 | [Beaute](../labels/beaute.md)                   |
-|                  2 | [Saddle Creek](../labels/saddle_creek.md)       |
-|                  1 | [Work](../labels/work.md)                       |
+|                  4 | Sire                                            |
+|                  4 | ATO Records                                     |
+|                  3 | Relentless                                      |
+|                  3 | Brute                                           |
+|                  3 | Beaute                                          |
+|                  2 | Saddle Creek                                    |
+|                  1 | Work                                            |
 |                  1 | [Columbia](../labels/columbia.md)               |
-|                  1 | [Clean Slate](../labels/clean_slate.md)         |
+|                  1 | Clean Slate                                     |
 |                  1 | [Capitol Records](../labels/capitol_records.md) |
 
 </details>

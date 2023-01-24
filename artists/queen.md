@@ -5,10 +5,10 @@
 <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="Queen" width="100" />
 
 ## Featured on Playlists
-|   Number of Tracks | Art                                                                                                                                                                                                                         | Playlist                                     |
-|-------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------|
-|                 14 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730b51f8d91f3a21e8426361aeab67616d0000b273608a63ad5b18e99da94a3f73ab67616d0000b27384243a01af3c77b56fe01ab1ab67616d0000b2738cffbbb7fe8645a486a85ea9" alt="" width="50" /> | [Classic Rock](../playlists/classic_rock.md) |
-|                  2 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732d73b1bb77cee09f0278be04ab67616d0000b2736f50b3400595b123a916e0dcab67616d0000b2739ab215825eb77076b1b4b387ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | [Karaoke](../playlists/karaoke.md)           |
+|   Number of Tracks | Art                                                                                                                                                                                                                         | Playlist                                              |
+|-------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------|
+|                 14 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730b51f8d91f3a21e8426361aeab67616d0000b273608a63ad5b18e99da94a3f73ab67616d0000b27384243a01af3c77b56fe01ab1ab67616d0000b2738cffbbb7fe8645a486a85ea9" alt="" width="50" /> | [Classic Rock](../playlists/classic_rock/overview.md) |
+|                  2 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732d73b1bb77cee09f0278be04ab67616d0000b2736f50b3400595b123a916e0dcab67616d0000b2739ab215825eb77076b1b4b387ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | [Karaoke](../playlists/karaoke/overview.md)           |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album                | 🔗                                                          |

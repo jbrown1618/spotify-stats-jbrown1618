@@ -1,6 +1,6 @@
 # pop
 
-[512 songs](pop_tracks.md)
+[505 songs](pop_tracks.md)
 
 ## Top Artists
 
@@ -29,16 +29,15 @@
 |                 10 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../artists/billie_eilish.md)                   | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb727a2ac15afe659be999beba" alt="" width="50" /> | Doja Cat                                                       | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5ebec40474426f4401a4203dc9f" alt="" width="50" /> | Sia                                                            | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
-|                  8 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | Camila Cabello                                                 | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | Michael Jackson                                                | [🔗](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e7e6ded87a4e0f65b5afcec" alt="" width="50" /> | Britney Spears                                                 | [🔗](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc9dcb7e4a97b4552e1224d6" alt="" width="50" /> | Katy Perry                                                     | [🔗](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) |
+|                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | Camila Cabello                                                 | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | Adele                                                          | [🔗](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5ebabfac786f093c4da55c99d4e" alt="" width="50" /> | Bebe Rexha                                                     | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
 |                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb654972693e0efed3f3f4d090" alt="" width="50" /> | Jason Derulo                                                   | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb3ea2c03525939b482f8d3bfd" alt="" width="50" /> | Janelle Monáe                                                  | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410" alt="" width="50" /> | Clean Bandit                                                   | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
-|                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb767815f4876969e8f888f0db" alt="" width="50" /> | The Rose                                                       | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | Coldplay                                                       | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | Justin Bieber                                                  | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | Nicki Minaj                                                    | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
@@ -72,7 +71,6 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb77bf00f67e21f514dc44c485" alt="" width="50" /> | OneRepublic                                                    | [🔗](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5af53f295e6c42529fbd0873" alt="" width="50" /> | Lauv                                                           | [🔗](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb0d66b3670294bf801847dae2" alt="" width="50" /> | Lizzo                                                          | [🔗](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | Young Thug                                                     | [🔗](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ace68c56849548db7f102be" alt="" width="50" /> | DaBaby                                                         | [🔗](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebb43ce1ac488d15bb7ee5153b" alt="" width="50" /> | Jay Park                                                       | [🔗](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8167bcebaf508dc6c3459b1" alt="" width="50" /> | Maggie Rogers                                                  | [🔗](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) |
@@ -99,7 +97,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c44e078944196a8c1eec256" alt="" width="50" /> | Colby O'Donis                                                  | [🔗](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9dde4a54073dbd58fb91c7d" alt="" width="50" /> | Ty Dolla $ign                                                  | [🔗](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | Hwa Sa                                                         | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | Chris Brown                                                    | [🔗](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9bbbc124c9f0f75af892d97d" alt="" width="50" /> | Christina Perri                                                | [🔗](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816" alt="" width="50" /> | The Neighbourhood                                              | [🔗](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) |
 |                  1 | <img src="https://i.scdn.co/image/5c8d57d92825466637905f0d4219064cb39333e9" alt="" width="50" /> | André 3000                                                     | [🔗](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) |
@@ -111,9 +108,12 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9bc0756eb16b241111bbc72b" alt="" width="50" /> | Colbie Caillat                                                 | [🔗](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8e9d1c8642df6f869631fe62" alt="" width="50" /> | Crush                                                          | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bda4d7a1c3b8159f28f9d08" alt="" width="50" /> | Sheppard                                                       | [🔗](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1fd54eb6e30d0bc8f633621e" alt="" width="50" /> | Machine Gun Kelly                                              | [🔗](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c" alt="" width="50" /> | Amy Winehouse                                                  | [🔗](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) |
 |                  1 | <img src="https://i.scdn.co/image/ab6772690000c46ca3ebb27ba9a55044f32af6e1" alt="" width="50" /> | Silk Sonic                                                     | [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb31072db9da0311ecfabe96bf" alt="" width="50" /> | Khalid                                                         | [🔗](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf271138f95fbe8188d909d50" alt="" width="50" /> | Kesha                                                          | [🔗](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb15a85a7957cac2c370e713ab" alt="" width="50" /> | Kid Ink                                                        | [🔗](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3c02f4fb4cc9187c488afd50" alt="" width="50" /> | The Chainsmokers                                               | [🔗](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) |
 
 </details>
 
@@ -222,11 +222,11 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735a61e19eaffec620c1899c47" alt="" width="50" /> | deja vu                                    | [🔗](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5" alt="" width="50" /> | channel ORANGE                             | [🔗](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732ca010dcf3863a07611d8b4f" alt="" width="50" /> | boyfriend                                  | [🔗](https://open.spotify.com/album/3zVB99XMdbP9HTVNg0GJwV) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273748388a726648841ed81027e" alt="" width="50" /> | bloom                                      | [🔗](https://open.spotify.com/album/3yWRq9Dd2UO5xyqxTjLDmp) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737941a79c3108cedb1667b68d" alt="" width="50" /> | bandaids                                   | [🔗](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27341aa6776dc15fbd71a2b4557" alt="" width="50" /> | Youngblood (Deluxe)                        | [🔗](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2" alt="" width="50" /> | Young And Beautiful                        | [🔗](https://open.spotify.com/album/1D92WOHWUI2AGQCCdplcXL) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731d883d3f10af481faa3c7e04" alt="" width="50" /> | You Don't Know Me                          | [🔗](https://open.spotify.com/album/3gdmWRWWJmkp5uMBXf755B) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="" width="50" /> | Yoga                                       | [🔗](https://open.spotify.com/album/5rzxGeVyCV74SvV5hjLRAU) |
 
 </details>
 
@@ -239,108 +239,108 @@
 <details>
 <summary>See top 100 labels</summary>
 
-|   Number of Tracks | Label                                                                                                               |
-|-------------------:|:--------------------------------------------------------------------------------------------------------------------|
-|                 80 | [Epic](../labels/epic.md)                                                                                           |
-|                 36 | [Columbia](../labels/columbia.md)                                                                                   |
-|                 31 | [Interscope Records](../labels/interscope_records.md)                                                               |
-|                 30 | [Taylor Swift](../labels/taylor_swift.md)                                                                           |
-|                 29 | [Big Machine Records](../labels/big_machine_records.md)                                                             |
-|                 27 | [RCA Records Label](../labels/rca_records_label.md)                                                                 |
-|                 24 | [Polydor Records](../labels/polydor_records.md)                                                                     |
-|                 23 | [Warner Records](../labels/warner_records.md)                                                                       |
-|                 21 | [Atlantic Records](../labels/atlantic_records.md)                                                                   |
-|                 20 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
-|                 15 | [Universal-Island Records Ltd.](../labels/universal_island_records_ltd_.md)                                         |
-|                 15 | [Republic Records](../labels/republic_records.md)                                                                   |
-|                 13 | [Universal Music LLC](../labels/universal_music_llc.md)                                                             |
-|                 11 | [Def Jam Recordings](../labels/def_jam_recordings.md)                                                               |
-|                 11 | [Capitol Records](../labels/capitol_records.md)                                                                     |
-|                 10 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
-|                 10 | [Syco Music](../labels/syco_music.md)                                                                               |
-|                 10 | [Darkroom](../labels/darkroom.md)                                                                                   |
-|                  9 | [Jive](../labels/jive.md)                                                                                           |
-|                  8 | [Monkey Puzzle Records](../labels/monkey_puzzle_records.md)                                                         |
-|                  6 | [XL Recordings](../labels/xl_recordings.md)                                                                         |
-|                  6 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                                                 |
-|                  6 | [Parkwood Entertainment](../labels/parkwood_entertainment.md)                                                       |
-|                  6 | [Genie Music Corporation;Stone Music Entertainment](../labels/genie_music_corporation_stone_music_entertainment.md) |
-|                  6 | [Genie Music Corporation](../labels/genie_music_corporation.md)                                                     |
-|                  6 | [Atlantic Records UK](../labels/atlantic_records_uk.md)                                                             |
-|                  5 | [Music World Music](../labels/music_world_music.md)                                                                 |
-|                  5 | [Kemosabe Records](../labels/kemosabe_records.md)                                                                   |
-|                  5 | [Island Records](../labels/island_records.md)                                                                       |
-|                  5 | [Beluga Heights](../labels/beluga_heights.md)                                                                       |
-|                  5 | [Bad Boy](../labels/bad_boy.md)                                                                                     |
-|                  4 | [LaFace Records](../labels/laface_records.md)                                                                       |
-|                  4 | [19 Recordings Limited](../labels/19_recordings_limited.md)                                                         |
-|                  3 | [THE BLACK LABEL](../labels/the_black_label.md)                                                                     |
-|                  3 | [Parlophone UK](../labels/parlophone_uk.md)                                                                         |
-|                  3 | [Parlophone Records Limited](../labels/parlophone_records_limited.md)                                               |
-|                  3 | [Open Wide](../labels/open_wide.md)                                                                                 |
-|                  3 | [Olivia Rodrigo PS](../labels/olivia_rodrigo_ps.md)                                                                 |
-|                  3 | [Island UK](../labels/island_uk.md)                                                                                 |
-|                  3 | [Casablanca Records](../labels/casablanca_records.md)                                                               |
-|                  3 | [Arista Nashville](../labels/arista_nashville.md)                                                                   |
-|                  2 | [Wondaland](../labels/wondaland.md)                                                                                 |
-|                  2 | [RBMG](../labels/rbmg.md)                                                                                           |
-|                  2 | [Phonogenic](../labels/phonogenic.md)                                                                               |
-|                  2 | [Nicki Minaj](../labels/nicki_minaj.md)                                                                             |
-|                  2 | [Nice Life](../labels/nice_life.md)                                                                                 |
-|                  2 | [Mosley](../labels/mosley.md)                                                                                       |
-|                  2 | [Monument](../labels/monument.md)                                                                                   |
-|                  2 | [Legacy](../labels/legacy.md)                                                                                       |
-|                  2 | [Lava Music](../labels/lava_music.md)                                                                               |
-|                  2 | [KSR](../labels/ksr.md)                                                                                             |
-|                  2 | [Hollywood Records](../labels/hollywood_records.md)                                                                 |
-|                  2 | [Golden Child Recordings](../labels/golden_child_recordings.md)                                                     |
-|                  2 | [G.O.O.D. Music](../labels/g_o_o_d__music.md)                                                                       |
-|                  2 | [EMI](../labels/emi.md)                                                                                             |
-|                  2 | [Def Jam](../labels/def_jam.md)                                                                                     |
-|                  2 | [Cash Money](../labels/cash_money.md)                                                                               |
-|                  2 | [Artist Partner](../labels/artist_partner.md)                                                                       |
-|                  2 | [Arista](../labels/arista.md)                                                                                       |
-|                  2 | [ATG](../labels/atg.md)                                                                                             |
-|                  2 | [A Star is Born OST](../labels/a_star_is_born_ost.md)                                                               |
-|                  1 | [under exclusive license to Interscope Records](../labels/under_exclusive_license_to_interscope_records.md)         |
-|                  1 | [msmedia](../labels/msmedia.md)                                                                                     |
-|                  1 | [Warner Bros.](../labels/warner_bros_.md)                                                                           |
-|                  1 | [VÉRITÉ](../labels/v_rit_.md)                                                                                       |
-|                  1 | [Universal Music New Zealand Limited](../labels/universal_music_new_zealand_limited.md)                             |
-|                  1 | [Universal Music Group](../labels/universal_music_group.md)                                                         |
-|                  1 | [Transparent Arts](../labels/transparent_arts.md)                                                                   |
-|                  1 | [Teleport Records](../labels/teleport_records.md)                                                                   |
-|                  1 | [Spinnin' Records](../labels/spinnin__records.md)                                                                   |
-|                  1 | [Sony Music UK](../labels/sony_music_uk.md)                                                                         |
-|                  1 | [Sony Music Latin](../labels/sony_music_latin.md)                                                                   |
-|                  1 | [Sony Music Entertainment](../labels/sony_music_entertainment.md)                                                   |
-|                  1 | [Silver Cloud](../labels/silver_cloud.md)                                                                           |
-|                  1 | [Silent Records IGA](../labels/silent_records_iga.md)                                                               |
-|                  1 | [Silent Records](../labels/silent_records.md)                                                                       |
-|                  1 | [Shawn Mendes LP4-5 PS](../labels/shawn_mendes_lp4_5_ps.md)                                                         |
-|                  1 | [Selena Gomez PS](../labels/selena_gomez_ps.md)                                                                     |
-|                  1 | [Roc Nation](../labels/roc_nation.md)                                                                               |
-|                  1 | [Rihanna](../labels/rihanna.md)                                                                                     |
-|                  1 | [Red Zone Entertainment](../labels/red_zone_entertainment.md)                                                       |
-|                  1 | [RVG](../labels/rvg.md)                                                                                             |
-|                  1 | [Perpetual Novice](../labels/perpetual_novice.md)                                                                   |
-|                  1 | [Not So Fast](../labels/not_so_fast.md)                                                                             |
-|                  1 | [Mockingjay](../labels/mockingjay.md)                                                                               |
-|                  1 | [MORE VISION](../labels/more_vision.md)                                                                             |
-|                  1 | [Lauv](../labels/lauv.md)                                                                                           |
-|                  1 | [Jonas Brothers Recording](../labels/jonas_brothers_recording.md)                                                   |
-|                  1 | [IDJ](../labels/idj.md)                                                                                             |
-|                  1 | [Hunger Games 3](../labels/hunger_games_3.md)                                                                       |
-|                  1 | [Gracie Abrams](../labels/gracie_abrams.md)                                                                         |
-|                  1 | [Giant Little Man](../labels/giant_little_man.md)                                                                   |
-|                  1 | [Friends Keep Secrets](../labels/friends_keep_secrets.md)                                                           |
-|                  1 | [FSF](../labels/fsf.md)                                                                                             |
-|                  1 | [FNC인베스트먼트](../labels/fnc______.md)                                                                                 |
-|                  1 | [Epic Amsterdam](../labels/epic_amsterdam.md)                                                                       |
-|                  1 | [Elektra (NEK)](../labels/elektra__nek_.md)                                                                         |
-|                  1 | [EMPIRE](../labels/empire.md)                                                                                       |
-|                  1 | [EMI Recorded Music Australia Pty Ltd](../labels/emi_recorded_music_australia_pty_ltd.md)                           |
-|                  1 | [Disruptor Records](../labels/disruptor_records.md)                                                                 |
+|   Number of Tracks | Label                                                                       |
+|-------------------:|:----------------------------------------------------------------------------|
+|                 80 | [Epic](../labels/epic.md)                                                   |
+|                 36 | [Columbia](../labels/columbia.md)                                           |
+|                 30 | [Taylor Swift](../labels/taylor_swift.md)                                   |
+|                 30 | [Interscope Records](../labels/interscope_records.md)                       |
+|                 29 | [Big Machine Records](../labels/big_machine_records.md)                     |
+|                 26 | [RCA Records Label](../labels/rca_records_label.md)                         |
+|                 24 | [Polydor Records](../labels/polydor_records.md)                             |
+|                 23 | [Warner Records](../labels/warner_records.md)                               |
+|                 21 | [Atlantic Records](../labels/atlantic_records.md)                           |
+|                 20 | [SM Entertainment](../labels/sm_entertainment.md)                           |
+|                 15 | [Universal-Island Records Ltd.](../labels/universal_island_records_ltd_.md) |
+|                 15 | [Republic Records](../labels/republic_records.md)                           |
+|                 13 | [Universal Music LLC](../labels/universal_music_llc.md)                     |
+|                 11 | [Def Jam Recordings](../labels/def_jam_recordings.md)                       |
+|                 11 | [Capitol Records](../labels/capitol_records.md)                             |
+|                 10 | [YG Entertainment](../labels/yg_entertainment.md)                           |
+|                 10 | [Syco Music](../labels/syco_music.md)                                       |
+|                 10 | [Darkroom](../labels/darkroom.md)                                           |
+|                  9 | [Jive](../labels/jive.md)                                                   |
+|                  8 | Monkey Puzzle Records                                                       |
+|                  6 | [XL Recordings](../labels/xl_recordings.md)                                 |
+|                  6 | Parkwood Entertainment                                                      |
+|                  6 | Genie Music Corporation;Stone Music Entertainment                           |
+|                  6 | Atlantic Records UK                                                         |
+|                  5 | Music World Music                                                           |
+|                  5 | Kemosabe Records                                                            |
+|                  5 | Island Records                                                              |
+|                  5 | Beluga Heights                                                              |
+|                  4 | LaFace Records                                                              |
+|                  4 | Bad Boy                                                                     |
+|                  4 | 19 Recordings Limited                                                       |
+|                  3 | THE BLACK LABEL                                                             |
+|                  3 | Parlophone UK                                                               |
+|                  3 | Parlophone Records Limited                                                  |
+|                  3 | Open Wide                                                                   |
+|                  3 | Olivia Rodrigo PS                                                           |
+|                  3 | Island UK                                                                   |
+|                  3 | Casablanca Records                                                          |
+|                  3 | Arista Nashville                                                            |
+|                  2 | Wondaland                                                                   |
+|                  2 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)         |
+|                  2 | RBMG                                                                        |
+|                  2 | Phonogenic                                                                  |
+|                  2 | Nicki Minaj                                                                 |
+|                  2 | Nice Life                                                                   |
+|                  2 | Mosley                                                                      |
+|                  2 | Monument                                                                    |
+|                  2 | [Legacy](../labels/legacy.md)                                               |
+|                  2 | Lava Music                                                                  |
+|                  2 | KSR                                                                         |
+|                  2 | [Hollywood Records](../labels/hollywood_records.md)                         |
+|                  2 | Golden Child Recordings                                                     |
+|                  2 | [Genie Music Corporation](../labels/genie_music_corporation.md)             |
+|                  2 | G.O.O.D. Music                                                              |
+|                  2 | EMI                                                                         |
+|                  2 | Def Jam                                                                     |
+|                  2 | Cash Money                                                                  |
+|                  2 | Artist Partner                                                              |
+|                  2 | Arista                                                                      |
+|                  2 | ATG                                                                         |
+|                  2 | A Star is Born OST                                                          |
+|                  1 | under exclusive license to Interscope Records                               |
+|                  1 | msmedia                                                                     |
+|                  1 | Warner Bros.                                                                |
+|                  1 | VÉRITÉ                                                                      |
+|                  1 | Universal Music New Zealand Limited                                         |
+|                  1 | Universal Music Group                                                       |
+|                  1 | Teleport Records                                                            |
+|                  1 | Spinnin' Records                                                            |
+|                  1 | Sony Music UK                                                               |
+|                  1 | Sony Music Latin                                                            |
+|                  1 | Sony Music Entertainment                                                    |
+|                  1 | Silver Cloud                                                                |
+|                  1 | Silent Records IGA                                                          |
+|                  1 | Silent Records                                                              |
+|                  1 | Shawn Mendes LP4-5 PS                                                       |
+|                  1 | Selena Gomez PS                                                             |
+|                  1 | Roc Nation                                                                  |
+|                  1 | Rihanna                                                                     |
+|                  1 | Red Zone Entertainment                                                      |
+|                  1 | RVG                                                                         |
+|                  1 | Perpetual Novice                                                            |
+|                  1 | Not So Fast                                                                 |
+|                  1 | Mockingjay                                                                  |
+|                  1 | MORE VISION                                                                 |
+|                  1 | Lauv                                                                        |
+|                  1 | Jonas Brothers Recording                                                    |
+|                  1 | IDJ                                                                         |
+|                  1 | Hunger Games 3                                                              |
+|                  1 | Gracie Abrams                                                               |
+|                  1 | Giant Little Man                                                            |
+|                  1 | Friends Keep Secrets                                                        |
+|                  1 | FSF                                                                         |
+|                  1 | FNC인베스트먼트                                                                   |
+|                  1 | Epic Amsterdam                                                              |
+|                  1 | Elektra (NEK)                                                               |
+|                  1 | EMPIRE                                                                      |
+|                  1 | EMI Recorded Music Australia Pty Ltd                                        |
+|                  1 | Disruptor Records                                                           |
+|                  1 | Def Soul                                                                    |
 
 </details>
 
@@ -353,11 +353,11 @@
 | Anaconda                        | Once Upon Another Time      |
 | WAP (feat. Megan Thee Stallion) | Gravity                     |
 | Billie Jean                     | That's Where I Am           |
-| Pretty Please                   | Stay                        |
-| Sally Walker                    | Shades Of Cool              |
-| 1, 2, 3, 4                      | Norman fucking Rockwell     |
-| bury a friend                   | Already Gone                |
-| Coño                            | Fix You                     |
+| Pretty Please                   | Shades Of Cool              |
+| 1, 2, 3, 4                      | Stay                        |
+| bury a friend                   | Norman fucking Rockwell     |
+| Sally Walker                    | Fix You                     |
+| Coño                            | Already Gone                |
 | I Think He Knows                | Born To Die                 |
 
 | 10 most Energetic tracks        | 10 least Energetic tracks                                                         |
@@ -375,14 +375,14 @@
 
 | 10 most Speechy tracks          | 10 least Speechy tracks        |
 |:--------------------------------|:-------------------------------|
-| Youngblood                      | Travelin' Soldier              |
-| boyfriend (with Social House)   | She′s In The Rain              |
+| Youngblood                      | Machine Gun                    |
+| boyfriend (with Social House)   | Travelin' Soldier              |
 | Hold Up                         | no body, no crime (feat. HAIM) |
 | Vigilante Shit                  | Begin Again                    |
 | Irreplaceable                   | Chasing Pavements              |
-| WAP (feat. Megan Thee Stallion) | Set Fire to the Rain           |
-| bad guy                         | All Too Well                   |
-| Bubblegum (feat. Tyga)          | The Scientist                  |
+| bad guy                         | Set Fire to the Rain           |
+| WAP (feat. Megan Thee Stallion) | The Scientist                  |
+| Bubblegum (feat. Tyga)          | All Too Well                   |
 | 7 rings                         | Breakeven                      |
 | bury a friend                   | Satellite Call                 |
 
@@ -401,15 +401,15 @@
 
 | 10 most Instrumental tracks     | 10 least Instrumental tracks    |
 |:--------------------------------|:--------------------------------|
-| everything i wanted             | Cry for Me                      |
-| Smooth Criminal - 2012 Remaster | Living Proof                    |
+| everything i wanted             | The Man Who Can't Be Moved      |
+| Smooth Criminal - 2012 Remaster | Greedy                          |
 | Swan Song                       | Please Me                       |
 | Wanna Be Startin' Somethin'     | WAP (feat. Megan Thee Stallion) |
 | you should see me in a crown    | F**kin' Perfect                 |
-| bury a friend                   | Hustle                          |
-| Therefore I Am                  | boyfriend (with Social House)   |
-| bad guy                         | My Everything                   |
-| This Is What You Came For       | Greedy                          |
+| bury a friend                   | Breakeven                       |
+| Therefore I Am                  | Hustle                          |
+| bad guy                         | boyfriend (with Social House)   |
+| This Is What You Came For       | My Everything                   |
 | Bel Air                         | Say You're Sorry                |
 
 | 10 most Live tracks                                                               | 10 least Live tracks             |
@@ -428,12 +428,12 @@
 | 10 most Happy tracks            | 10 least Happy tracks            |
 |:--------------------------------|:---------------------------------|
 | Material Girl                   | How Big, How Blue, How Beautiful |
-| Like a Virgin                   | I'll Show You                    |
-| There's Nothing Holdin' Me Back | Skyfall                          |
+| Like a Virgin                   | Skyfall                          |
+| There's Nothing Holdin' Me Back | I'll Show You                    |
 | SexyBack (feat. Timbaland)      | Yellow Flicker Beat              |
 | I'm a Slave 4 U                 | Falling                          |
 | P.Y.T. (Pretty Young Thing)     | Once Upon Another Time           |
 | 1, 2, 3, 4                      | xanny                            |
 | Sucker                          | No Time To Die                   |
-| I Choose You                    | Delicate                         |
-| Don't Stop 'Til You Get Enough  | Swan Song                        |
+| Don't Stop 'Til You Get Enough  | Delicate                         |
+| I Choose You                    | Swan Song                        |

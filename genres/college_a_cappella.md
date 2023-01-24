@@ -120,21 +120,21 @@
 <details>
 <summary>See all 13 labels</summary>
 
-|   Number of Tracks | Label                                                                                                       |
-|-------------------:|:------------------------------------------------------------------------------------------------------------|
-|                 36 | [Varsity Vocals](../labels/varsity_vocals.md)                                                               |
-|                 29 | [A Cappella Records](../labels/a_cappella_records.md)                                                       |
-|                 12 | [Ithacappella](../labels/ithacappella.md)                                                                   |
-|                  8 | [UNC Achordants](../labels/unc_achordants.md)                                                               |
-|                  8 | [Mosaic Whispers](../labels/mosaic_whispers.md)                                                             |
-|                  6 | [Tar Heel Voices](../labels/tar_heel_voices.md)                                                             |
-|                  4 | [The Nor'easters](../labels/the_nor_easters.md)                                                             |
-|                  4 | [649668 Records DK2](../labels/649668_records_dk2.md)                                                       |
-|                  3 | [The SoCal VoCals](../labels/the_socal_vocals.md)                                                           |
-|                  2 | [Voices Only A Cappella](../labels/voices_only_a_cappella.md)                                               |
-|                  2 | [The University of Rochester Midnight Ramblers](../labels/the_university_of_rochester_midnight_ramblers.md) |
-|                  2 | [The Clef Hangers](../labels/the_clef_hangers.md)                                                           |
-|                  2 | [SoCal VoCals](../labels/socal_vocals.md)                                                                   |
+|   Number of Tracks | Label                                                 |
+|-------------------:|:------------------------------------------------------|
+|                 36 | [Varsity Vocals](../labels/varsity_vocals.md)         |
+|                 29 | [A Cappella Records](../labels/a_cappella_records.md) |
+|                 12 | [Ithacappella](../labels/ithacappella.md)             |
+|                  8 | UNC Achordants                                        |
+|                  8 | Mosaic Whispers                                       |
+|                  6 | Tar Heel Voices                                       |
+|                  4 | The Nor'easters                                       |
+|                  4 | 649668 Records DK2                                    |
+|                  3 | The SoCal VoCals                                      |
+|                  2 | Voices Only A Cappella                                |
+|                  2 | The University of Rochester Midnight Ramblers         |
+|                  2 | The Clef Hangers                                      |
+|                  2 | SoCal VoCals                                          |
 
 </details>
 

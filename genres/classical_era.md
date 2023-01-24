@@ -120,7 +120,7 @@
 |                 21 | [PENTATONE](../labels/pentatone.md)                                                     |
 |                 20 | [Warner Music Group - X5 Music Group](../labels/warner_music_group___x5_music_group.md) |
 |                 12 | [Channel Classics Records](../labels/channel_classics_records.md)                       |
-|                  4 | [JPK Musik](../labels/jpk_musik.md)                                                     |
+|                  4 | JPK Musik                                                                               |
 |                  3 | [Warner Classics](../labels/warner_classics.md)                                         |
 
 </details>

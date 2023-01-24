@@ -97,35 +97,35 @@
 <details>
 <summary>See all 27 labels</summary>
 
-|   Number of Tracks | Label                                                                 |
-|-------------------:|:----------------------------------------------------------------------|
-|                 13 | [Warner Records](../labels/warner_records.md)                         |
-|                 10 | [Darkroom](../labels/darkroom.md)                                     |
-|                  8 | [Interscope Records](../labels/interscope_records.md)                 |
-|                  4 | [Polydor Records](../labels/polydor_records.md)                       |
-|                  4 | [Bad Boy](../labels/bad_boy.md)                                       |
-|                  2 | [Wondaland](../labels/wondaland.md)                                   |
-|                  2 | [Capitol Records](../labels/capitol_records.md)                       |
-|                  1 | [VÉRITÉ](../labels/v_rit_.md)                                         |
-|                  1 | [Universal Music LLC](../labels/universal_music_llc.md)               |
-|                  1 | [Teleport Records](../labels/teleport_records.md)                     |
-|                  1 | [Silent Records IGA](../labels/silent_records_iga.md)                 |
-|                  1 | [Republic Records](../labels/republic_records.md)                     |
-|                  1 | [RCA Records Label](../labels/rca_records_label.md)                   |
-|                  1 | [Perpetual Novice](../labels/perpetual_novice.md)                     |
-|                  1 | [Parlophone UK](../labels/parlophone_uk.md)                           |
-|                  1 | [Metric Music International](../labels/metric_music_international.md) |
-|                  1 | [Lauv](../labels/lauv.md)                                             |
-|                  1 | [Island Records](../labels/island_records.md)                         |
-|                  1 | [Fueled By Ramen](../labels/fueled_by_ramen.md)                       |
-|                  1 | [FSF](../labels/fsf.md)                                               |
-|                  1 | [Epic](../labels/epic.md)                                             |
-|                  1 | [Disruptor Records](../labels/disruptor_records.md)                   |
-|                  1 | [Decaydance](../labels/decaydance.md)                                 |
-|                  1 | [Columbia](../labels/columbia.md)                                     |
-|                  1 | [Atlantic Records UK](../labels/atlantic_records_uk.md)               |
-|                  1 | [Atlantic Records](../labels/atlantic_records.md)                     |
-|                  1 | [Astralwerks (ASW)](../labels/astralwerks__asw_.md)                   |
+|   Number of Tracks | Label                                                   |
+|-------------------:|:--------------------------------------------------------|
+|                 13 | [Warner Records](../labels/warner_records.md)           |
+|                 10 | [Darkroom](../labels/darkroom.md)                       |
+|                  8 | [Interscope Records](../labels/interscope_records.md)   |
+|                  4 | [Polydor Records](../labels/polydor_records.md)         |
+|                  4 | Bad Boy                                                 |
+|                  2 | Wondaland                                               |
+|                  2 | [Capitol Records](../labels/capitol_records.md)         |
+|                  1 | VÉRITÉ                                                  |
+|                  1 | [Universal Music LLC](../labels/universal_music_llc.md) |
+|                  1 | Teleport Records                                        |
+|                  1 | Silent Records IGA                                      |
+|                  1 | [Republic Records](../labels/republic_records.md)       |
+|                  1 | [RCA Records Label](../labels/rca_records_label.md)     |
+|                  1 | Perpetual Novice                                        |
+|                  1 | Parlophone UK                                           |
+|                  1 | Metric Music International                              |
+|                  1 | Lauv                                                    |
+|                  1 | Island Records                                          |
+|                  1 | Fueled By Ramen                                         |
+|                  1 | FSF                                                     |
+|                  1 | [Epic](../labels/epic.md)                               |
+|                  1 | Disruptor Records                                       |
+|                  1 | Decaydance                                              |
+|                  1 | [Columbia](../labels/columbia.md)                       |
+|                  1 | Atlantic Records UK                                     |
+|                  1 | [Atlantic Records](../labels/atlantic_records.md)       |
+|                  1 | Astralwerks (ASW)                                       |
 
 </details>
 

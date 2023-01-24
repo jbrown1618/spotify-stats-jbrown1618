@@ -132,7 +132,7 @@
 |                 10 | [UMC (Universal Music Catalogue)](../labels/umc__universal_music_catalogue_.md) |
 |                  1 | [Sony Music Labels Inc.](../labels/sony_music_labels_inc_.md)                   |
 |                  1 | [Sony Classical](../labels/sony_classical.md)                                   |
-|                  1 | [LML Music](../labels/lml_music.md)                                             |
+|                  1 | LML Music                                                                       |
 
 </details>
 

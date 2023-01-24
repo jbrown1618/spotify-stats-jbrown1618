@@ -69,19 +69,19 @@
 <details>
 <summary>See all 11 labels</summary>
 
-|   Number of Tracks | Label                                                         |
-|-------------------:|:--------------------------------------------------------------|
-|                 59 | [Epic](../labels/epic.md)                                     |
-|                  7 | [Virgin Records](../labels/virgin_records.md)                 |
-|                  7 | [Universal (MT)](../labels/universal__mt_.md)                 |
-|                  3 | [Capitol Records](../labels/capitol_records.md)               |
-|                  2 | [sensibility recordings](../labels/sensibility_recordings.md) |
-|                  2 | [Island Def Jam](../labels/island_def_jam.md)                 |
-|                  2 | [Atlantic Records](../labels/atlantic_records.md)             |
-|                  2 | [ATG](../labels/atg.md)                                       |
-|                  1 | [Private Music](../labels/private_music.md)                   |
-|                  1 | [Island Records](../labels/island_records.md)                 |
-|                  1 | [Columbia](../labels/columbia.md)                             |
+|   Number of Tracks | Label                                             |
+|-------------------:|:--------------------------------------------------|
+|                 59 | [Epic](../labels/epic.md)                         |
+|                  7 | [Virgin Records](../labels/virgin_records.md)     |
+|                  7 | Universal (MT)                                    |
+|                  3 | [Capitol Records](../labels/capitol_records.md)   |
+|                  2 | sensibility recordings                            |
+|                  2 | Island Def Jam                                    |
+|                  2 | [Atlantic Records](../labels/atlantic_records.md) |
+|                  2 | ATG                                               |
+|                  1 | Private Music                                     |
+|                  1 | Island Records                                    |
+|                  1 | [Columbia](../labels/columbia.md)                 |
 
 </details>
 

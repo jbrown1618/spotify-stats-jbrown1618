@@ -104,28 +104,28 @@
 <details>
 <summary>See all 20 labels</summary>
 
-|   Number of Tracks | Label                                                                       |
-|-------------------:|:----------------------------------------------------------------------------|
-|                 12 | [Reprise](../labels/reprise.md)                                             |
-|                 10 | [143](../labels/143.md)                                                     |
-|                  8 | [MOTOWN](../labels/motown.md)                                               |
-|                  6 | [FRANK SINATRA DIGITAL REPRISE](../labels/frank_sinatra_digital_reprise.md) |
-|                  5 | [UNI](../labels/uni.md)                                                     |
-|                  5 | [Linus Entertainment Inc.](../labels/linus_entertainment_inc_.md)           |
-|                  3 | [Capitol Records](../labels/capitol_records.md)                             |
-|                  2 | [Walt Disney Records](../labels/walt_disney_records.md)                     |
-|                  2 | [Rhino](../labels/rhino.md)                                                 |
-|                  2 | [Ode](../labels/ode.md)                                                     |
-|                  2 | [Legacy](../labels/legacy.md)                                               |
-|                  2 | [Epic](../labels/epic.md)                                                   |
-|                  2 | [Craft Recordings](../labels/craft_recordings.md)                           |
-|                  1 | [Universal Music LLC](../labels/universal_music_llc.md)                     |
-|                  1 | [UME - Global Clearing House](../labels/ume___global_clearing_house.md)     |
-|                  1 | [Parlophone (France)](../labels/parlophone__france_.md)                     |
-|                  1 | [Geffen](../labels/geffen.md)                                               |
-|                  1 | [Fuzzy Door Productions](../labels/fuzzy_door_productions.md)               |
-|                  1 | [CAPITOL CATALOG MKT (C92)](../labels/capitol_catalog_mkt__c92_.md)         |
-|                  1 | [Atlantic Records](../labels/atlantic_records.md)                           |
+|   Number of Tracks | Label                                                                   |
+|-------------------:|:------------------------------------------------------------------------|
+|                 12 | [Reprise](../labels/reprise.md)                                         |
+|                 10 | [143](../labels/143.md)                                                 |
+|                  8 | [MOTOWN](../labels/motown.md)                                           |
+|                  6 | FRANK SINATRA DIGITAL REPRISE                                           |
+|                  5 | UNI                                                                     |
+|                  5 | Linus Entertainment Inc.                                                |
+|                  3 | [Capitol Records](../labels/capitol_records.md)                         |
+|                  2 | [Walt Disney Records](../labels/walt_disney_records.md)                 |
+|                  2 | [Rhino](../labels/rhino.md)                                             |
+|                  2 | Ode                                                                     |
+|                  2 | [Legacy](../labels/legacy.md)                                           |
+|                  2 | [Epic](../labels/epic.md)                                               |
+|                  2 | Craft Recordings                                                        |
+|                  1 | [Universal Music LLC](../labels/universal_music_llc.md)                 |
+|                  1 | [UME - Global Clearing House](../labels/ume___global_clearing_house.md) |
+|                  1 | Parlophone (France)                                                     |
+|                  1 | Geffen                                                                  |
+|                  1 | Fuzzy Door Productions                                                  |
+|                  1 | CAPITOL CATALOG MKT (C92)                                               |
+|                  1 | [Atlantic Records](../labels/atlantic_records.md)                       |
 
 </details>
 

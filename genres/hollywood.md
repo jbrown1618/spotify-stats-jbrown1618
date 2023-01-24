@@ -130,7 +130,7 @@
 |                  9 | [Verve (Adult Contemporary) MC](../labels/verve__adult_contemporary__mc.md) |
 |                  4 | [Polydor Records](../labels/polydor_records.md)                             |
 |                  1 | [Warner Records](../labels/warner_records.md)                               |
-|                  1 | [LML Music](../labels/lml_music.md)                                         |
+|                  1 | LML Music                                                                   |
 
 </details>
 

@@ -1,6 +1,6 @@
 # k-pop girl group
 
-[387 songs](k_pop_girl_group_tracks.md)
+[388 songs](k_pop_girl_group_tracks.md)
 
 ## Top Artists
 
@@ -20,8 +20,8 @@
 |                 33 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md)                   | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 |                 28 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)                 | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 |                 20 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../artists/mamamoo.md)                     | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
+|                 15 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="" width="50" /> | [Dreamcatcher](../artists/dreamcatcher.md)           | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 |                 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../artists/aespa.md)                         | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
-|                 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="" width="50" /> | [Dreamcatcher](../artists/dreamcatcher.md)           | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 |                 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | [Girls' Generation](../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 |                 12 | <img src="https://i.scdn.co/image/ab6761610000e5eb45b2ff69ae6a3caccb776cfa" alt="" width="50" /> | [STAYC](../artists/stayc.md)                         | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | CLC                                                  | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
@@ -119,6 +119,7 @@
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | I trust                                     | [🔗](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | I burn                                      | [🔗](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="" width="50" /> | 1st Album [Dystopia : The Tree of Language] | [🔗](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="" width="50" /> | [Apocalypse : Save us]                      | [🔗](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="" width="50" /> | The Red - The 1st Album                     | [🔗](https://open.spotify.com/album/6YL9J0E6PGtYzkhyMxnmXd) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="" width="50" /> | Taste of Love                               | [🔗](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2739b57e9b31c831fb2137c38e2" alt="" width="50" /> | Oh! - The Second Album                      | [🔗](https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E) |
@@ -130,7 +131,6 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | BETWEEN 1&2                                 | [🔗](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="" width="50" /> | ALL OUT                                     | [🔗](https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2733a7804057d817ff9f68ca85c" alt="" width="50" /> | ‘The ReVe Festival’ Day 2                   | [🔗](https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="" width="50" /> | [Apocalypse : Save us]                      | [🔗](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273619b758232a962e9ddf45f97" alt="" width="50" /> | [12:00]                                     | [🔗](https://open.spotify.com/album/3obToaukLcPbCLPPmWFzQi) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c76a0146e4c1804f22cab995" alt="" width="50" /> | WE NEED LOVE                                | [🔗](https://open.spotify.com/album/04EniWu488MF6louRYafKJ) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2738164cd1a2e03b7ca2db9ff5e" alt="" width="50" /> | The Red Summer - Summer Mini Album          | [🔗](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) |
@@ -202,71 +202,71 @@
 <details>
 <summary>See all 63 labels</summary>
 
-|   Number of Tracks | Label                                                                                                               |
-|-------------------:|:--------------------------------------------------------------------------------------------------------------------|
-|                 84 | [SM Entertainment](../labels/sm_entertainment.md)                                                                   |
-|                 64 | [Republic Records](../labels/republic_records.md)                                                                   |
-|                 25 | [YG Entertainment](../labels/yg_entertainment.md)                                                                   |
-|                 24 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)                                                               |
-|                 23 | [Interscope Records](../labels/interscope_records.md)                                                               |
-|                 18 | [Universal Music LLC](../labels/universal_music_llc.md)                                                             |
-|                 16 | [Starship Entertainment](../labels/starship_entertainment.md)                                                       |
-|                 15 | [Stone Music Entertainment](../labels/stone_music_entertainment.md)                                                 |
-|                 12 | [RBW Inc.](../labels/rbw_inc_.md)                                                                                   |
-|                 12 | [JYP Entertainment](../labels/jyp_entertainment.md)                                                                 |
-|                 12 | [Genie Music Corporation](../labels/genie_music_corporation.md)                                                     |
-|                 11 | [High Up Entertainment](../labels/high_up_entertainment.md)                                                         |
-|                  9 | [DREAMCATCHER COMPANY](../labels/dreamcatcher_company.md)                                                           |
-|                  7 | [WM Entertainment](../labels/wm_entertainment.md)                                                                   |
-|                  6 | [FNC ENTERTAINMENT](../labels/fnc_entertainment.md)                                                                 |
-|                  6 | [ADOR](../labels/ador.md)                                                                                           |
-|                  5 | [Warner Records](../labels/warner_records.md)                                                                       |
-|                  5 | [Riot Games](../labels/riot_games.md)                                                                               |
-|                  4 | [avex trax](../labels/avex_trax.md)                                                                                 |
-|                  4 | [WM Japan](../labels/wm_japan.md)                                                                                   |
-|                  4 | [BlockBerryCreative](../labels/blockberrycreative.md)                                                               |
-|                  4 | [2018 YG Entertainment](../labels/2018_yg_entertainment.md)                                                         |
-|                  3 | [해피트라이브엔터테인먼트](../labels/____________.md)                                                                           |
-|                  3 | [올라트엔터테인먼트](../labels/_________.md)                                                                                 |
-|                  3 | [마이돌엔터테인먼트](../labels/_________.md)                                                                                 |
-|                  3 | [SOURCE MUSIC](../labels/source_music.md)                                                                           |
-|                  3 | [MLD ENTERTAINMENT](../labels/mld_entertainment.md)                                                                 |
-|                  3 | [BANANA CULTURE](../labels/banana_culture.md)                                                                       |
-|                  2 | [해피페이스 엔터테인먼트](../labels/____________.md)                                                                           |
-|                  2 | [㈜ 드림캐쳐컴퍼니](../labels/_________.md)                                                                                 |
-|                  2 | [Yedang Entertainment](../labels/yedang_entertainment.md)                                                           |
-|                  2 | [WM Korea](../labels/wm_korea.md)                                                                                   |
-|                  2 | [SWING ENTERTAINMENT](../labels/swing_entertainment.md)                                                             |
-|                  2 | [OFF THE RECORD Entertainment](../labels/off_the_record_entertainment.md)                                           |
-|                  2 | [Kakao Entertainment](../labels/kakao_entertainment.md)                                                             |
-|                  1 | [폴라리스엔터테인먼트](../labels/__________.md)                                                                               |
-|                  1 | [드림캐쳐컴퍼니](../labels/_______.md)                                                                                     |
-|                  1 | [내가네트워크](../labels/______.md)                                                                                       |
-|                  1 | [㈜RBW](../labels/_rbw.md)                                                                                           |
-|                  1 | [㈜ 드림캐쳐 컴퍼니](../labels/__________.md)                                                                               |
-|                  1 | [YUEHUA ENTERTAINMENT KOREA](../labels/yuehua_entertainment_korea.md)                                               |
-|                  1 | [Universal Music Group International](../labels/universal_music_group_international.md)                             |
-|                  1 | [RADCOMM](../labels/radcomm.md)                                                                                     |
-|                  1 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)                                                           |
-|                  1 | [PLAY M ENTERTAINMENT CORP.](../labels/play_m_entertainment_corp_.md)                                               |
-|                  1 | [Mydoll Ent.](../labels/mydoll_ent_.md)                                                                             |
-|                  1 | [Kakao M Corp.](../labels/kakao_m_corp_.md)                                                                         |
-|                  1 | [Imperial Distribution](../labels/imperial_distribution.md)                                                         |
-|                  1 | [IST ENTERTAINMENT](../labels/ist_entertainment.md)                                                                 |
-|                  1 | [IOK COMPANY](../labels/iok_company.md)                                                                             |
-|                  1 | [HAPPYTRIBE ENTERTAINMENT](../labels/happytribe_entertainment.md)                                                   |
-|                  1 | [Genie Music Corporation;Stone Music Entertainment](../labels/genie_music_corporation_stone_music_entertainment.md) |
-|                  1 | [GU Music](../labels/gu_music.md)                                                                                   |
-|                  1 | [FNC W](../labels/fnc_w.md)                                                                                         |
-|                  1 | [DUBLEKICK COMPANY](../labels/dublekick_company.md)                                                                 |
-|                  1 | [Columbia](../labels/columbia.md)                                                                                   |
-|                  1 | [Capitol Records (CAP)](../labels/capitol_records__cap_.md)                                                         |
-|                  1 | [Brave Entertainment](../labels/brave_entertainment.md)                                                             |
-|                  1 | [BlockBerry Creative](../labels/blockberry_creative.md)                                                             |
-|                  1 | [BEYOND MUSIC](../labels/beyond_music.md)                                                                           |
-|                  1 | [B1 Recordings](../labels/b1_recordings.md)                                                                         |
-|                  1 | [ALLART ENTERTAINMENT](../labels/allart_entertainment.md)                                                           |
-|                  1 | [AB Ent.](../labels/ab_ent_.md)                                                                                     |
+|   Number of Tracks | Label                                                               |
+|-------------------:|:--------------------------------------------------------------------|
+|                 84 | [SM Entertainment](../labels/sm_entertainment.md)                   |
+|                 64 | [Republic Records](../labels/republic_records.md)                   |
+|                 25 | [YG Entertainment](../labels/yg_entertainment.md)                   |
+|                 24 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)               |
+|                 23 | [Interscope Records](../labels/interscope_records.md)               |
+|                 18 | [Universal Music LLC](../labels/universal_music_llc.md)             |
+|                 16 | [Starship Entertainment](../labels/starship_entertainment.md)       |
+|                 15 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
+|                 12 | [RBW Inc.](../labels/rbw_inc_.md)                                   |
+|                 12 | [JYP Entertainment](../labels/jyp_entertainment.md)                 |
+|                 12 | [Genie Music Corporation](../labels/genie_music_corporation.md)     |
+|                 11 | [High Up Entertainment](../labels/high_up_entertainment.md)         |
+|                 10 | [DREAMCATCHER COMPANY](../labels/dreamcatcher_company.md)           |
+|                  7 | WM Entertainment                                                    |
+|                  6 | FNC ENTERTAINMENT                                                   |
+|                  6 | ADOR                                                                |
+|                  5 | [Warner Records](../labels/warner_records.md)                       |
+|                  5 | Riot Games                                                          |
+|                  4 | avex trax                                                           |
+|                  4 | WM Japan                                                            |
+|                  4 | BlockBerryCreative                                                  |
+|                  4 | 2018 YG Entertainment                                               |
+|                  3 | 해피트라이브엔터테인먼트                                                        |
+|                  3 | 올라트엔터테인먼트                                                           |
+|                  3 | 마이돌엔터테인먼트                                                           |
+|                  3 | [SOURCE MUSIC](../labels/source_music.md)                           |
+|                  3 | MLD ENTERTAINMENT                                                   |
+|                  3 | BANANA CULTURE                                                      |
+|                  2 | 해피페이스 엔터테인먼트                                                        |
+|                  2 | ㈜ 드림캐쳐컴퍼니                                                           |
+|                  2 | Yedang Entertainment                                                |
+|                  2 | [WM Korea](../labels/wm_korea.md)                                   |
+|                  2 | SWING ENTERTAINMENT                                                 |
+|                  2 | OFF THE RECORD Entertainment                                        |
+|                  2 | [Kakao Entertainment](../labels/kakao_entertainment.md)             |
+|                  1 | 폴라리스엔터테인먼트                                                          |
+|                  1 | 드림캐쳐컴퍼니                                                             |
+|                  1 | 내가네트워크                                                              |
+|                  1 | ㈜RBW                                                                |
+|                  1 | ㈜ 드림캐쳐 컴퍼니                                                          |
+|                  1 | YUEHUA ENTERTAINMENT KOREA                                          |
+|                  1 | Universal Music Group International                                 |
+|                  1 | RADCOMM                                                             |
+|                  1 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)           |
+|                  1 | PLAY M ENTERTAINMENT CORP.                                          |
+|                  1 | Mydoll Ent.                                                         |
+|                  1 | Kakao M Corp.                                                       |
+|                  1 | Imperial Distribution                                               |
+|                  1 | IST ENTERTAINMENT                                                   |
+|                  1 | IOK COMPANY                                                         |
+|                  1 | HAPPYTRIBE ENTERTAINMENT                                            |
+|                  1 | Genie Music Corporation;Stone Music Entertainment                   |
+|                  1 | GU Music                                                            |
+|                  1 | FNC W                                                               |
+|                  1 | DUBLEKICK COMPANY                                                   |
+|                  1 | [Columbia](../labels/columbia.md)                                   |
+|                  1 | Capitol Records (CAP)                                               |
+|                  1 | Brave Entertainment                                                 |
+|                  1 | BlockBerry Creative                                                 |
+|                  1 | BEYOND MUSIC                                                        |
+|                  1 | B1 Recordings                                                       |
+|                  1 | ALLART ENTERTAINMENT                                                |
+|                  1 | AB Ent.                                                             |
 
 </details>
 
@@ -320,22 +320,22 @@
 | Hurt                      | 달라달라 (DALLA DALLA)         |
 | Jazz Bar                  | LA DI DA                   |
 | ZOOM                      | DALLA DALLA - English Ver. |
-| Starry Night              | RUN2U                      |
-| Wind flower               | Adios                      |
+| Wind flower               | RUN2U                      |
+| Starry Night              | Adios                      |
 | Moonlight Melody          | Red Light                  |
 | The Happiest Girl         | Poison                     |
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| You and I (Park Bom)          | Addicted                       |
-| Adios                         | Bewitched                      |
-| YEPPI YEPPI                   | Oh Boy                         |
-| So Hot                        | #Cookie Jar                    |
-| I Am The Best                 | Rookie                         |
-| Power Up                      | Bewitched - Eng Ver.           |
-| BBoom BBoom                   | WILDSIDE                       |
-| In My Dreams                  | Marionette                     |
-| BAAM                          | Villain                        |
+| You and I (Park Bom)          | Be Natural                     |
+| Adios                         | Addicted                       |
+| YEPPI YEPPI                   | Bewitched                      |
+| So Hot                        | Oh Boy                         |
+| I Am The Best                 | #Cookie Jar                    |
+| Power Up                      | Rookie                         |
+| BBoom BBoom                   | Bewitched - Eng Ver.           |
+| In My Dreams                  | WILDSIDE                       |
+| BAAM                          | Marionette                     |
 | Star                          | HANN (Alone in winter)         |
 
 | 10 most Live tracks   | 10 least Live tracks          |
@@ -346,16 +346,16 @@
 | I Like That           | Red Light                     |
 | Vibrato               | BLACK DRESS                   |
 | 행복 (Happiness)        | DARK (X-file)                 |
-| Genie                 | Ice Cream (with Selena Gomez) |
-| LP                    | YEPPI YEPPI                   |
+| LP                    | Ice Cream (with Selena Gomez) |
+| Genie                 | YEPPI YEPPI                   |
 | STEREOTYPE            | SNEAKERS (English Ver.)       |
 | 5th Season (SSFWL)    | SNEAKERS                      |
 
 | 10 most Happy tracks    | 10 least Happy tracks     |
 |:------------------------|:--------------------------|
 | Pepe                    | 4 Walls                   |
-| So Hot                  | MORE                      |
-| Miniskirt               | POSE                      |
+| Miniskirt               | MORE                      |
+| So Hot                  | POSE                      |
 | Twinkle                 | LION                      |
 | Lion Heart              | Ditto                     |
 | Give it to me           | Hope Not                  |

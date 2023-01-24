@@ -151,20 +151,20 @@
 |                 11 | [Warner Records](../labels/warner_records.md)                                   |
 |                  9 | [Legacy](../labels/legacy.md)                                                   |
 |                  4 | [Epic](../labels/epic.md)                                                       |
-|                  3 | [Geffen](../labels/geffen.md)                                                   |
-|                  3 | [Elektra](../labels/elektra.md)                                                 |
+|                  3 | Geffen                                                                          |
+|                  3 | Elektra                                                                         |
 |                  3 | [Atlantic Records](../labels/atlantic_records.md)                               |
 |                  2 | [UMC (Universal Music Catalogue)](../labels/umc__universal_music_catalogue_.md) |
-|                  2 | [RCA Victor](../labels/rca_victor.md)                                           |
+|                  2 | RCA Victor                                                                      |
 |                  2 | [Polydor Records](../labels/polydor_records.md)                                 |
-|                  2 | [Ode](../labels/ode.md)                                                         |
-|                  2 | [Legacy Recordings](../labels/legacy_recordings.md)                             |
-|                  2 | [ABKCO Music and Records](../labels/abkco_music_and_records.md)                 |
-|                  2 | [A&M](../labels/a_m.md)                                                         |
-|                  1 | [Rhino Atlantic](../labels/rhino_atlantic.md)                                   |
+|                  2 | Ode                                                                             |
+|                  2 | Legacy Recordings                                                               |
+|                  2 | ABKCO Music and Records                                                         |
+|                  2 | A&M                                                                             |
+|                  1 | Rhino Atlantic                                                                  |
 |                  1 | [Capitol Records](../labels/capitol_records.md)                                 |
-|                  1 | [CAPITOL CATALOG MKT (C92)](../labels/capitol_catalog_mkt__c92_.md)             |
-|                  1 | [American Recordings Catalog P&D](../labels/american_recordings_catalog_p_d.md) |
+|                  1 | CAPITOL CATALOG MKT (C92)                                                       |
+|                  1 | American Recordings Catalog P&D                                                 |
 
 </details>
 

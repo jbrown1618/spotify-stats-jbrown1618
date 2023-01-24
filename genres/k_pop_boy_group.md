@@ -188,27 +188,27 @@
 |                 16 | [PLEDIS Entertainment](../labels/pledis_entertainment.md)           |
 |                 13 | [HYBE](../labels/hybe.md)                                           |
 |                  8 | [YG Entertainment](../labels/yg_entertainment.md)                   |
-|                  8 | [KQ Entertainment](../labels/kq_entertainment.md)                   |
+|                  8 | KQ Entertainment                                                    |
 |                  8 | [Genie Music Corporation](../labels/genie_music_corporation.md)     |
 |                  7 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
 |                  6 | [Universal Music LLC](../labels/universal_music_llc.md)             |
 |                  6 | [JYP Entertainment](../labels/jyp_entertainment.md)                 |
 |                  5 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md)               |
 |                  4 | [WM Korea](../labels/wm_korea.md)                                   |
-|                  3 | [FNC ENTERTAINMENT](../labels/fnc_entertainment.md)                 |
-|                  2 | [우조엔터테인먼트](../labels/________.md)                                   |
+|                  3 | FNC ENTERTAINMENT                                                   |
+|                  2 | 우조엔터테인먼트                                                            |
 |                  2 | [Starship Entertainment](../labels/starship_entertainment.md)       |
 |                  2 | [RBW Inc.](../labels/rbw_inc_.md)                                   |
-|                  2 | [Cre.ker Entertainment](../labels/cre_ker_entertainment.md)         |
-|                  1 | [브레이브 엔터테인먼트](../labels/___________.md)                             |
-|                  1 | [㈜ 동요엔터테인먼트](../labels/__________.md)                               |
-|                  1 | [Transparent Arts](../labels/transparent_arts.md)                   |
+|                  2 | Cre.ker Entertainment                                               |
+|                  1 | 브레이브 엔터테인먼트                                                         |
+|                  1 | ㈜ 동요엔터테인먼트                                                          |
+|                  1 | Transparent Arts                                                    |
 |                  1 | [Sony Music Labels Inc.](../labels/sony_music_labels_inc_.md)       |
-|                  1 | [JELLYFISH ENTERTAINMENT](../labels/jellyfish_entertainment.md)     |
-|                  1 | [Imperial Distribution](../labels/imperial_distribution.md)         |
-|                  1 | [Fantagio](../labels/fantagio.md)                                   |
-|                  1 | [CJ E&M MUSIC](../labels/cj_e_m_music.md)                           |
-|                  1 | [ADA Korea](../labels/ada_korea.md)                                 |
+|                  1 | JELLYFISH ENTERTAINMENT                                             |
+|                  1 | Imperial Distribution                                               |
+|                  1 | Fantagio                                                            |
+|                  1 | CJ E&M MUSIC                                                        |
+|                  1 | ADA Korea                                                           |
 
 </details>
 

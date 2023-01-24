@@ -126,7 +126,7 @@
 |-------------------:|:----------------------------------------------------------------------------|
 |                 37 | [Walt Disney Records](../labels/walt_disney_records.md)                     |
 |                  2 | [Verve (Adult Contemporary) MC](../labels/verve__adult_contemporary__mc.md) |
-|                  1 | [LML Music](../labels/lml_music.md)                                         |
+|                  1 | LML Music                                                                   |
 
 </details>
 

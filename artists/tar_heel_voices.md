@@ -5,9 +5,9 @@
 <img src="https://i.scdn.co/image/ab6761610000e5eb3a9c5b798300322d4bc698f0" alt="Tar Heel Voices" width="100" />
 
 ## Featured on Playlists
-|   Number of Tracks | Art                                                                                                                                                                                                                         | Playlist                                 |
-|-------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------|
-|                 20 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735d990e8b45c848dc22885f89ab67616d0000b27362f44cdb37183a309fc1032fab67616d0000b27384470dd6235917e2e40e11f0ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | [A Cappella](../playlists/a_cappella.md) |
+|   Number of Tracks | Art                                                                                                                                                                                                                         | Playlist                                          |
+|-------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------|
+|                 20 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735d990e8b45c848dc22885f89ab67616d0000b27362f44cdb37183a309fc1032fab67616d0000b27384470dd6235917e2e40e11f0ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | [A Cappella](../playlists/a_cappella/overview.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album              | 🔗                                                          |
@@ -23,7 +23,7 @@
 |   Number of Tracks | Label                                                 |
 |-------------------:|:------------------------------------------------------|
 |                 14 | [A Cappella Records](../labels/a_cappella_records.md) |
-|                  6 | [Tar Heel Voices](../labels/tar_heel_voices.md)       |
+|                  6 | Tar Heel Voices                                       |
 
 ## Genres
 

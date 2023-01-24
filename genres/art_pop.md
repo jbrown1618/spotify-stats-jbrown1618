@@ -84,22 +84,22 @@
 <details>
 <summary>See all 14 labels</summary>
 
-|   Number of Tracks | Label                                                                                   |
-|-------------------:|:----------------------------------------------------------------------------------------|
-|                 19 | [Interscope Records](../labels/interscope_records.md)                                   |
-|                 17 | [Polydor Records](../labels/polydor_records.md)                                         |
-|                 10 | [Darkroom](../labels/darkroom.md)                                                       |
-|                  2 | [A Star is Born OST](../labels/a_star_is_born_ost.md)                                   |
-|                  1 | [Work](../labels/work.md)                                                               |
-|                  1 | [VÉRITÉ](../labels/v_rit_.md)                                                           |
-|                  1 | [Universal Music New Zealand Limited](../labels/universal_music_new_zealand_limited.md) |
-|                  1 | [Perpetual Novice](../labels/perpetual_novice.md)                                       |
-|                  1 | [PC Music](../labels/pc_music.md)                                                       |
-|                  1 | [Mockingjay](../labels/mockingjay.md)                                                   |
-|                  1 | [Hunger Games 3](../labels/hunger_games_3.md)                                           |
-|                  1 | [Clean Slate](../labels/clean_slate.md)                                                 |
-|                  1 | [Atlantic Records UK](../labels/atlantic_records_uk.md)                                 |
-|                  1 | [Atlantic Records](../labels/atlantic_records.md)                                       |
+|   Number of Tracks | Label                                                 |
+|-------------------:|:------------------------------------------------------|
+|                 19 | [Interscope Records](../labels/interscope_records.md) |
+|                 17 | [Polydor Records](../labels/polydor_records.md)       |
+|                 10 | [Darkroom](../labels/darkroom.md)                     |
+|                  2 | A Star is Born OST                                    |
+|                  1 | Work                                                  |
+|                  1 | VÉRITÉ                                                |
+|                  1 | Universal Music New Zealand Limited                   |
+|                  1 | Perpetual Novice                                      |
+|                  1 | PC Music                                              |
+|                  1 | Mockingjay                                            |
+|                  1 | Hunger Games 3                                        |
+|                  1 | Clean Slate                                           |
+|                  1 | Atlantic Records UK                                   |
+|                  1 | [Atlantic Records](../labels/atlantic_records.md)     |
 
 </details>
 

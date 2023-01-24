@@ -5,9 +5,9 @@
 <img src="https://i.scdn.co/image/0a5c00ae5ecc0bd8687973a3b3321963821468ad" alt="Simon Standage" width="100" />
 
 ## Featured on Playlists
-|   Number of Tracks | Art                                                                                              | Playlist                           |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------|
-|                 18 | <img src="https://i.scdn.co/image/ab67616d0000b273203bf132896e0a4be9638dda" alt="" width="50" /> | [Vivaldi](../playlists/vivaldi.md) |
+|   Number of Tracks | Art                                                                                              | Playlist                                    |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------|
+|                 18 | <img src="https://i.scdn.co/image/ab67616d0000b273203bf132896e0a4be9638dda" alt="" width="50" /> | [Vivaldi](../playlists/vivaldi/overview.md) |
 ## Top Albums
 
 |   Number of Tracks | Art                                                                                              | Album                 | 🔗                                                          |
