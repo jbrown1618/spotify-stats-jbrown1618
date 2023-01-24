@@ -12,15 +12,15 @@
 |                  2 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732d73b1bb77cee09f0278be04ab67616d0000b2736f50b3400595b123a916e0dcab67616d0000b2739ab215825eb77076b1b4b387ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | [Karaoke](../playlists/karaoke/overview.md) |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album                           | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------|:-----------------------------------------------------------|
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="" width="50" /> | 24K Magic                       | [🔗](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="" width="50" /> | Unorthodox Jukebox              | [🔗](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="" width="50" /> | Doo-Wops & Hooligans            | [🔗](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e419ccba0baa8bd3f3d7abf2" alt="" width="50" /> | Uptown Special                  | [🔗](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273288883647008cefba0db5402" alt="" width="50" /> | Please Me                       | [🔗](https://open.spotify.com/album/5a4sJJ3qjn6hqRsvm0Veso) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736f9e6abbd6fa43ac3cdbeee0" alt="" width="50" /> | Leave The Door Open             | [🔗](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27347e522adf030a78615cdea06" alt="" width="50" /> | Finesse (Remix) [feat. Cardi B] | [🔗](https://open.spotify.com/album/3mumK2ar9b4JPhVOZR0V2p) |
+|   Number of Tracks | Art                                                                                              | Album                           | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------|:---------------|:-----------------------------------------------------------|
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="" width="50" /> | 24K Magic                       | 2016-11-17     | [🔗](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="" width="50" /> | Unorthodox Jukebox              | 2012-12-07     | [🔗](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="" width="50" /> | Doo-Wops & Hooligans            | 2010-10-05     | [🔗](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e419ccba0baa8bd3f3d7abf2" alt="" width="50" /> | Uptown Special                  | 2015-01-12     | [🔗](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273288883647008cefba0db5402" alt="" width="50" /> | Please Me                       | 2019-02-15     | [🔗](https://open.spotify.com/album/5a4sJJ3qjn6hqRsvm0Veso) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736f9e6abbd6fa43ac3cdbeee0" alt="" width="50" /> | Leave The Door Open             | 2021-03-05     | [🔗](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27347e522adf030a78615cdea06" alt="" width="50" /> | Finesse (Remix) [feat. Cardi B] | 2017-12-20     | [🔗](https://open.spotify.com/album/3mumK2ar9b4JPhVOZR0V2p) |
 
 ## Top Record Labels
 

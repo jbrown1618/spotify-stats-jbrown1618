@@ -49,17 +49,17 @@
 <details>
 <summary>See all 9 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                                  | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------|:-----------------------------------------------------------|
-|                 39 | <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="" width="50" /> | Coppélia                                               | [🔗](https://open.spotify.com/album/7jKT8NC2XfAs9RFKsrGz2p) |
-|                 31 | <img src="https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da" alt="" width="50" /> | Tchaikovsky: Swan Lake                                 | [🔗](https://open.spotify.com/album/7dVA06E7AP7P7VzPyNxQVO) |
-|                 24 | <img src="https://i.scdn.co/image/ab67616d0000b273f1972145094112a1268035f1" alt="" width="50" /> | Tchaikovsky: The Nutcracker                            | [🔗](https://open.spotify.com/album/54Awn36ryf55PkZyOR4iwQ) |
-|                 17 | <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="" width="50" /> | Mussorgsky: Pictures At An Exhibition                  | [🔗](https://open.spotify.com/album/1b2aoeaYZZBWmJoavOQhnd) |
-|                 16 | <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="" width="50" /> | Brahms: The Symphonies                                 | [🔗](https://open.spotify.com/album/2dL2qDsg6teV1cueLxCRa1) |
-|                 16 | <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="" width="50" /> | Brahms: String Quartets & Piano Quintet                | [🔗](https://open.spotify.com/album/5nZ5ePGoQZGt1MbGphwqph) |
-|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b273040c78c4ed7f56a2a3d2a770" alt="" width="50" /> | Dvorak: String Quintet, Op. 97 & String Sextet, Op. 48 | [🔗](https://open.spotify.com/album/02nUFvsdTaekp2QQalnE3N) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273e3e10be41297c622a0ec2e0d" alt="" width="50" /> | Tchaikovsky: Sacred Choral Music                       | [🔗](https://open.spotify.com/album/4udN7bCLaa8zCnaIvoxzOB) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ddf2fb18947ce57d0005f626" alt="" width="50" /> | Bruckner: Mass in E Minor & Motets                     | [🔗](https://open.spotify.com/album/13eAUvw0Ga3BBFsf6oxF46) |
+|   Number of Tracks | Art                                                                                              | Album                                                  | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                 39 | <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="" width="50" /> | Coppélia                                               | 2018-07-06     | [🔗](https://open.spotify.com/album/7jKT8NC2XfAs9RFKsrGz2p) |
+|                 31 | <img src="https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da" alt="" width="50" /> | Tchaikovsky: Swan Lake                                 | 1976           | [🔗](https://open.spotify.com/album/7dVA06E7AP7P7VzPyNxQVO) |
+|                 24 | <img src="https://i.scdn.co/image/ab67616d0000b273f1972145094112a1268035f1" alt="" width="50" /> | Tchaikovsky: The Nutcracker                            | 2010-10-11     | [🔗](https://open.spotify.com/album/54Awn36ryf55PkZyOR4iwQ) |
+|                 17 | <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="" width="50" /> | Mussorgsky: Pictures At An Exhibition                  | 2016-12-02     | [🔗](https://open.spotify.com/album/1b2aoeaYZZBWmJoavOQhnd) |
+|                 16 | <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="" width="50" /> | Brahms: The Symphonies                                 | 2009-09-07     | [🔗](https://open.spotify.com/album/2dL2qDsg6teV1cueLxCRa1) |
+|                 16 | <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="" width="50" /> | Brahms: String Quartets & Piano Quintet                | 2007-01-01     | [🔗](https://open.spotify.com/album/5nZ5ePGoQZGt1MbGphwqph) |
+|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b273040c78c4ed7f56a2a3d2a770" alt="" width="50" /> | Dvorak: String Quintet, Op. 97 & String Sextet, Op. 48 | 2018-01-19     | [🔗](https://open.spotify.com/album/02nUFvsdTaekp2QQalnE3N) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273e3e10be41297c622a0ec2e0d" alt="" width="50" /> | Tchaikovsky: Sacred Choral Music                       | 2016-07-01     | [🔗](https://open.spotify.com/album/4udN7bCLaa8zCnaIvoxzOB) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ddf2fb18947ce57d0005f626" alt="" width="50" /> | Bruckner: Mass in E Minor & Motets                     | 2002           | [🔗](https://open.spotify.com/album/13eAUvw0Ga3BBFsf6oxF46) |
 
 </details>
 
@@ -88,91 +88,91 @@
 
 | 10 most Danceable tracks                                                                           | 10 least Danceable tracks                                                                                           |
 |:---------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------|
-| Coppélia / Tableau 2: No. 16 Boléro - Alternative Version                                          | Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 10, The Enchanted Palace of Confiturembourg, the Kingdom of Sweets |
-| Coppélia / Tableau 2: No. 11a Musique des automates                                                | Brahms: Symphony No. 4 in E Minor, Op. 98: II. Andante moderato                                                     |
-| Coppélia / Tableau 2: No. 17 Gigue                                                                 | String Quintet No. 3, Op. 97: III. Larghetto                                                                        |
-| Pictures at an Exhibition (Orch. Ravel): V. Ballet of the Unhatched Chicks                         | Brahms: Symphony No. 1 in C Minor, Op. 68: III. Un poco allegretto e grazioso                                       |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse)                        | Brahms: Symphony No. 3 in F Major, Op. 90: III. Poco allegretto                                                     |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise)                      | Tchaikovsky: Swan Lake, Op. 20, Act II: No. 14, Scene. Moderato                                                     |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre - Alternative Version | Coppélia / Tableau 3: No. 20 Fête de la cloche: VII. La paix                                                        |
-| Pictures at an Exhibition (Orch. Ravel): Promenade III                                             | Brahms: Symphony No. 1 in C Minor, Op. 68: II. Andante sostenuto                                                    |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête                                | Brahms: Symphony No. 2 in D Major, Op. 73: II. Adagio non troppo                                                    |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête - Alternative Version          | Pictures at an Exhibition (Orch. Ravel): II. The Old Castle                                                         |
+| Coppélia / Tableau 2: No. 16 Boléro - Alternative Version                                          | Pictures at an Exhibition (Orch. Ravel): II. The Old Castle                                                         |
+| Coppélia / Tableau 2: No. 11a Musique des automates                                                | Brahms: Symphony No. 2 in D Major, Op. 73: II. Adagio non troppo                                                    |
+| Coppélia / Tableau 2: No. 17 Gigue                                                                 | Brahms: Symphony No. 1 in C Minor, Op. 68: II. Andante sostenuto                                                    |
+| Pictures at an Exhibition (Orch. Ravel): V. Ballet of the Unhatched Chicks                         | Coppélia / Tableau 3: No. 20 Fête de la cloche: VII. La paix                                                        |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse)                        | Tchaikovsky: Swan Lake, Op. 20, Act II: No. 14, Scene. Moderato                                                     |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise)                      | Brahms: Symphony No. 3 in F Major, Op. 90: III. Poco allegretto                                                     |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre - Alternative Version | Brahms: Symphony No. 1 in C Minor, Op. 68: III. Un poco allegretto e grazioso                                       |
+| Pictures at an Exhibition (Orch. Ravel): Promenade III                                             | String Quintet No. 3, Op. 97: III. Larghetto                                                                        |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête                                | Brahms: Symphony No. 4 in E Minor, Op. 98: II. Andante moderato                                                     |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête - Alternative Version          | Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 10, The Enchanted Palace of Confiturembourg, the Kingdom of Sweets |
 
 | 10 most Energetic tracks                                                                            | 10 least Energetic tracks                                                                   |
 |:----------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|
-| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12d, Divertissement. Trepak, Russian Dance         | Pictures at an Exhibition (Orch. Ravel): VIIIb. Cum mortuis in lingua mortua                |
-| Tchaikovsky: Swan Lake, Op. 20, Act III: No. 15, Scene. March - Allegro giusto                      | Pictures at an Exhibition (Orch. Ravel): II. The Old Castle                                 |
-| Tchaikovsky: Swan Lake, Op. 20, Act I: No. 8, Dance with Goblets                                    | Coppélia / Tableau 2: No. 14a Scène                                                         |
-| Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 7, The Battle                              | Coppélia / Tableau 1: No. 5 Ballade                                                         |
-| Tchaikovsky: Swan Lake, Op. 20, Act IV: No. 29, Finale                                              | Tchaikovsky: Swan Lake, Op. 20, Act IV: No. 25, Entr'acte                                   |
-| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12f, Divertissement. Mother Gigogne and the Clowns | Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12b, Divertissement. Coffee, Arabian Dance |
-| Pictures at an Exhibition (Orch. Ravel): VII. The Market at Limoges                                 | Coppélia / Tableau 3: No. 20 Fête de la cloche: VII. La paix                                |
-| Tchaikovsky: Swan Lake, Op. 20, Act III: No. 23, Mazurka                                            | Pictures at an Exhibition (Orch. Ravel): Promenade II                                       |
-| Tchaikovsky: Swan Lake, Op. 20, Act I: Introduction - No. 1, Scene. Allegro giusto                  | Coppélia / Tableau 2: No. 9 Scène                                                           |
-| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12a, Divertissement. Chocolate, Spanish Dance      | Pictures at an Exhibition (Orch. Ravel): VIIIa. Catacombae (Sepulchrum Romanum)             |
+| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12d, Divertissement. Trepak, Russian Dance         | Pictures at an Exhibition (Orch. Ravel): VIIIa. Catacombae (Sepulchrum Romanum)             |
+| Tchaikovsky: Swan Lake, Op. 20, Act III: No. 15, Scene. March - Allegro giusto                      | Coppélia / Tableau 2: No. 9 Scène                                                           |
+| Tchaikovsky: Swan Lake, Op. 20, Act I: No. 8, Dance with Goblets                                    | Pictures at an Exhibition (Orch. Ravel): Promenade II                                       |
+| Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 7, The Battle                              | Coppélia / Tableau 3: No. 20 Fête de la cloche: VII. La paix                                |
+| Tchaikovsky: Swan Lake, Op. 20, Act IV: No. 29, Finale                                              | Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12b, Divertissement. Coffee, Arabian Dance |
+| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12f, Divertissement. Mother Gigogne and the Clowns | Tchaikovsky: Swan Lake, Op. 20, Act IV: No. 25, Entr'acte                                   |
+| Pictures at an Exhibition (Orch. Ravel): VII. The Market at Limoges                                 | Coppélia / Tableau 1: No. 5 Ballade                                                         |
+| Tchaikovsky: Swan Lake, Op. 20, Act III: No. 23, Mazurka                                            | Coppélia / Tableau 2: No. 14a Scène                                                         |
+| Tchaikovsky: Swan Lake, Op. 20, Act I: Introduction - No. 1, Scene. Allegro giusto                  | Pictures at an Exhibition (Orch. Ravel): II. The Old Castle                                 |
+| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12a, Divertissement. Chocolate, Spanish Dance      | Pictures at an Exhibition (Orch. Ravel): VIIIb. Cum mortuis in lingua mortua                |
 
 | 10 most Speechy tracks                                                                    | 10 least Speechy tracks                                                                     |
 |:------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête                       | Tchaikovsky: Swan Lake, Op. 20, Act III: No. 21, Spanish Dance                              |
-| Coppélia / Tableau 1: No. 4 Scène                                                         | Pictures at an Exhibition (Orch. Ravel): Promenade III                                      |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête - Alternative Version | Tchaikovsky: Swan Lake, Op. 20, Act I: No. 7, Sujet                                         |
-| Tchaikovsky: Swan Lake, Op. 20, Act III: No. 22, Neapolitan Dance                         | Brahms: Symphony No. 1 in C Minor, Op. 68: I. Un poco sostenuto - Allegro                   |
-| Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 7, The Battle                    | Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse)                 |
-| Coppélia / Tableau 2: No. 16 Boléro - Alternative Version                                 | Tchaikovsky: Swan Lake, Op. 20, Act III: No. 18, Scene. Allegro - Allegro giusto            |
-| Tchaikovsky: Swan Lake, Op. 20, Act I: No. 3, Scene. Allegro moderato                     | Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12c, Divertissement. Tea, Chinese Dance    |
-| Pictures at an Exhibition (Orch. Ravel): I. Gnomus                                        | Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 14b, Pas de deux. Variation I "Tarantella" |
-| Tchaikovsky: Swan Lake, Op. 20, Act I: No. 5, Pas de deux for Two Merry-Makers            | Brahms: Symphony No. 2 in D Major, Op. 73: IV. Allegro con spirito                          |
-| Pictures at an Exhibition (Orch. Ravel): V. Ballet of the Unhatched Chicks                | Pictures at an Exhibition (Orch. Ravel): IV. Bydlo                                          |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête                       | Pictures at an Exhibition (Orch. Ravel): IV. Bydlo                                          |
+| Coppélia / Tableau 1: No. 4 Scène                                                         | Brahms: Symphony No. 2 in D Major, Op. 73: IV. Allegro con spirito                          |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête - Alternative Version | Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 14b, Pas de deux. Variation I "Tarantella" |
+| Tchaikovsky: Swan Lake, Op. 20, Act III: No. 22, Neapolitan Dance                         | Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12c, Divertissement. Tea, Chinese Dance    |
+| Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 7, The Battle                    | Tchaikovsky: Swan Lake, Op. 20, Act III: No. 18, Scene. Allegro - Allegro giusto            |
+| Coppélia / Tableau 2: No. 16 Boléro - Alternative Version                                 | Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse)                 |
+| Tchaikovsky: Swan Lake, Op. 20, Act I: No. 3, Scene. Allegro moderato                     | Brahms: Symphony No. 1 in C Minor, Op. 68: I. Un poco sostenuto - Allegro                   |
+| Pictures at an Exhibition (Orch. Ravel): I. Gnomus                                        | Tchaikovsky: Swan Lake, Op. 20, Act I: No. 7, Sujet                                         |
+| Tchaikovsky: Swan Lake, Op. 20, Act I: No. 5, Pas de deux for Two Merry-Makers            | Pictures at an Exhibition (Orch. Ravel): Promenade III                                      |
+| Pictures at an Exhibition (Orch. Ravel): V. Ballet of the Unhatched Chicks                | Tchaikovsky: Swan Lake, Op. 20, Act III: No. 21, Spanish Dance                              |
 
 | 10 most Acoustic tracks                                                       | 10 least Acoustic tracks                                                                            |
 |:------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------|
-| 9 Sacred Pieces, TH 78: No. 3, Cherubic Hymn No. 3                            | Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête - Alternative Version           |
-| Pictures at an Exhibition (Orch. Ravel): Promenade II                         | Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12f, Divertissement. Mother Gigogne and the Clowns |
-| 9 Sacred Pieces, TH 78: No. 2, Cherubic Hymn No. 2                            | Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 14d, Pas de deux. Coda                             |
-| 9 Sacred Pieces, TH 78: No. 1, Cherubic Hymn No. 1                            | String Sextet, Op. 48: III. Furiant. Presto - Trio                                                  |
-| Pictures at an Exhibition (Orch. Ravel): III. Tuileries Gardens               | Tchaikovsky: Swan Lake, Op. 20, Act III: No. 23, Mazurka                                            |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse)   | String Sextet, Op. 48: IV. Finale. Tema con variazioni - Allegretto grazioso, quasi andantino       |
-| Brahms: Symphony No. 3 in F Major, Op. 90: III. Poco allegretto               | Coppélia / Tableau 2: No. 11a Musique des automates                                                 |
-| Tchaikovsky: Swan Lake, Op. 20, Act IV: No. 27, Dance of the Little Swans     | Tchaikovsky: Swan Lake, Op. 20, Act I: No. 8, Dance with Goblets                                    |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | String Sextet, Op. 48: II. Dumka (Elegie). Poco allegretto                                          |
-| Coppélia / Tableau 2: Entr'acte                                               | Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12a, Divertissement. Chocolate, Spanish Dance      |
+| 9 Sacred Pieces, TH 78: No. 3, Cherubic Hymn No. 3                            | Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12a, Divertissement. Chocolate, Spanish Dance      |
+| Pictures at an Exhibition (Orch. Ravel): Promenade II                         | String Sextet, Op. 48: II. Dumka (Elegie). Poco allegretto                                          |
+| 9 Sacred Pieces, TH 78: No. 2, Cherubic Hymn No. 2                            | Tchaikovsky: Swan Lake, Op. 20, Act I: No. 8, Dance with Goblets                                    |
+| 9 Sacred Pieces, TH 78: No. 1, Cherubic Hymn No. 1                            | Coppélia / Tableau 2: No. 11a Musique des automates                                                 |
+| Pictures at an Exhibition (Orch. Ravel): III. Tuileries Gardens               | String Sextet, Op. 48: IV. Finale. Tema con variazioni - Allegretto grazioso, quasi andantino       |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse)   | Tchaikovsky: Swan Lake, Op. 20, Act III: No. 23, Mazurka                                            |
+| Brahms: Symphony No. 3 in F Major, Op. 90: III. Poco allegretto               | String Sextet, Op. 48: III. Furiant. Presto - Trio                                                  |
+| Tchaikovsky: Swan Lake, Op. 20, Act IV: No. 27, Dance of the Little Swans     | Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 14d, Pas de deux. Coda                             |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12f, Divertissement. Mother Gigogne and the Clowns |
+| Coppélia / Tableau 2: Entr'acte                                               | Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête - Alternative Version           |
 
 | 10 most Instrumental tracks                                                                    | 10 least Instrumental tracks                                                              |
 |:-----------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------|
-| Pictures at an Exhibition (Orch. Ravel): IV. Bydlo                                             | Coppélia / Tableau 3: No. 20 Fête de la cloche: VII. La paix                              |
-| Tchaikovsky: Swan Lake, Op. 20, Act IV: No. 26, Scene. Allegro ma non troppo                   | Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête                       |
-| Pictures at an Exhibition (Orch. Ravel): Promenade I                                           | 9 Sacred Pieces, TH 78: No. 3, Cherubic Hymn No. 3                                        |
-| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 14a, Pas de deux. Andante maestoso            | Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête - Alternative Version |
-| Pictures at an Exhibition (Orch. Ravel): VIIIb. Cum mortuis in lingua mortua                   | Coppélia / Tableau 2: No. 17 Gigue                                                        |
-| Pictures at an Exhibition (Orch. Ravel): VII. The Market at Limoges                            | Coppélia / Tableau 3: No. 20 Fête de la cloche: II. L'aurore                              |
-| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 15, Final Waltz and Apotheosis                | 9 Sacred Pieces, TH 78: No. 2, Cherubic Hymn No. 2                                        |
-| Coppélia / Tableau 1: No. 7a Sortie                                                            | Coppélia / Tableau 2: No. 14a Scène                                                       |
-| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12e, Divertissement. Dance of the Reed-Flutes | 9 Sacred Pieces, TH 78: No. 1, Cherubic Hymn No. 1                                        |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise)                  | Ave María, WAB 6                                                                          |
+| Pictures at an Exhibition (Orch. Ravel): IV. Bydlo                                             | Ave María, WAB 6                                                                          |
+| Tchaikovsky: Swan Lake, Op. 20, Act IV: No. 26, Scene. Allegro ma non troppo                   | 9 Sacred Pieces, TH 78: No. 1, Cherubic Hymn No. 1                                        |
+| Pictures at an Exhibition (Orch. Ravel): Promenade I                                           | Coppélia / Tableau 2: No. 14a Scène                                                       |
+| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 14a, Pas de deux. Andante maestoso            | 9 Sacred Pieces, TH 78: No. 2, Cherubic Hymn No. 2                                        |
+| Pictures at an Exhibition (Orch. Ravel): VIIIb. Cum mortuis in lingua mortua                   | Coppélia / Tableau 3: No. 20 Fête de la cloche: II. L'aurore                              |
+| Pictures at an Exhibition (Orch. Ravel): VII. The Market at Limoges                            | Coppélia / Tableau 2: No. 17 Gigue                                                        |
+| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 15, Final Waltz and Apotheosis                | Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête - Alternative Version |
+| Coppélia / Tableau 1: No. 7a Sortie                                                            | 9 Sacred Pieces, TH 78: No. 3, Cherubic Hymn No. 3                                        |
+| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12e, Divertissement. Dance of the Reed-Flutes | Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête                       |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise)                  | Coppélia / Tableau 3: No. 20 Fête de la cloche: VII. La paix                              |
 
 | 10 most Live tracks                                                                                   | 10 least Live tracks                                                                      |
 |:------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------|
-| Pictures at an Exhibition (Orch. Ravel): VIIIb. Cum mortuis in lingua mortua                          | Coppélia / Tableau 3: No. 19 Marche de la cloche                                          |
-| Pictures at an Exhibition (Orch. Ravel): IX. The Hut on Chicken's Legs                                | Pictures at an Exhibition (Orch. Ravel): Promenade IV                                     |
-| Pictures at an Exhibition (Orch. Ravel): VII. The Market at Limoges                                   | Coppélia / Tableau 1: No. 5 Ballade                                                       |
-| Pictures at an Exhibition (Orch. Ravel): I. Gnomus                                                    | Tchaikovsky: Swan Lake, Op. 20, Act I: No. 4, Pas de trois                                |
-| Night on Bald Mountain                                                                                | 9 Sacred Pieces, TH 78: No. 2, Cherubic Hymn No. 2                                        |
-| Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 3, Children's Galop and Entry of the Parents | Piano Quintet in F minor, Op. 34: 4. Finale (poco sostenuto - Allegro non troppo)         |
-| Tchaikovsky: Swan Lake, Op. 20, Act III: No. 18, Scene. Allegro - Allegro giusto                      | Ave María, WAB 6                                                                          |
-| Tchaikovsky: Swan Lake, Op. 20, Act II: No. 11, Scene. Allegro moderato - Moderato - Allegro vivo     | Tchaikovsky: The Nutcracker, Op. 71: Miniature Overture                                   |
-| Tchaikovsky: Swan Lake, Op. 20, Act III, Appendix II: No. 20a, Russian Dance                          | Coppélia / Tableau 2: No. 14a Scène                                                       |
-| Pictures at an Exhibition (Orch. Ravel): VI. Samuel Goldenberg und Schmuÿle                           | String Quartet No. 2 In A Minor, Op. 51 No. 2: 4. Finale (Allegro non assai - Più vivace) |
+| Pictures at an Exhibition (Orch. Ravel): VIIIb. Cum mortuis in lingua mortua                          | String Quartet No. 2 In A Minor, Op. 51 No. 2: 4. Finale (Allegro non assai - Più vivace) |
+| Pictures at an Exhibition (Orch. Ravel): IX. The Hut on Chicken's Legs                                | Coppélia / Tableau 2: No. 14a Scène                                                       |
+| Pictures at an Exhibition (Orch. Ravel): VII. The Market at Limoges                                   | Tchaikovsky: The Nutcracker, Op. 71: Miniature Overture                                   |
+| Pictures at an Exhibition (Orch. Ravel): I. Gnomus                                                    | Ave María, WAB 6                                                                          |
+| Night on Bald Mountain                                                                                | Piano Quintet in F minor, Op. 34: 4. Finale (poco sostenuto - Allegro non troppo)         |
+| Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 3, Children's Galop and Entry of the Parents | 9 Sacred Pieces, TH 78: No. 2, Cherubic Hymn No. 2                                        |
+| Tchaikovsky: Swan Lake, Op. 20, Act III: No. 18, Scene. Allegro - Allegro giusto                      | Tchaikovsky: Swan Lake, Op. 20, Act I: No. 4, Pas de trois                                |
+| Tchaikovsky: Swan Lake, Op. 20, Act II: No. 11, Scene. Allegro moderato - Moderato - Allegro vivo     | Coppélia / Tableau 1: No. 5 Ballade                                                       |
+| Tchaikovsky: Swan Lake, Op. 20, Act III, Appendix II: No. 20a, Russian Dance                          | Pictures at an Exhibition (Orch. Ravel): Promenade IV                                     |
+| Pictures at an Exhibition (Orch. Ravel): VI. Samuel Goldenberg und Schmuÿle                           | Coppélia / Tableau 3: No. 19 Marche de la cloche                                          |
 
 | 10 most Happy tracks                                                                                  | 10 least Happy tracks                                                                       |
 |:------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|
-| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12a, Divertissement. Chocolate, Spanish Dance        | Pictures at an Exhibition (Orch. Ravel): VIIIb. Cum mortuis in lingua mortua                |
-| Pictures at an Exhibition (Orch. Ravel): V. Ballet of the Unhatched Chicks                            | Brahms: Symphony No. 4 in E Minor, Op. 98: II. Andante moderato                             |
-| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12d, Divertissement. Trepak, Russian Dance           | 9 Sacred Pieces, TH 78: No. 2, Cherubic Hymn No. 2                                          |
-| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12c, Divertissement. Tea, Chinese Dance              | 9 Sacred Pieces, TH 78: No. 3, Cherubic Hymn No. 3                                          |
-| Coppélia / Tableau 2: No. 11a Musique des automates                                                   | Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12b, Divertissement. Coffee, Arabian Dance |
-| Tchaikovsky: Swan Lake, Op. 20, Act III: No. 22, Neapolitan Dance                                     | Brahms: Symphony No. 1 in C Minor, Op. 68: II. Andante sostenuto                            |
-| Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 3, Children's Galop and Entry of the Parents | Brahms: Symphony No. 2 in D Major, Op. 73: II. Adagio non troppo                            |
-| Coppélia / Tableau 2: No. 16 Boléro - Alternative Version                                             | Brahms: Symphony No. 3 in F Major, Op. 90: II. Andante                                      |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise)                         | Pictures at an Exhibition (Orch. Ravel): II. The Old Castle                                 |
-| Coppélia / Tableau 2: No. 17 Gigue                                                                    | Ave María, WAB 6                                                                            |
+| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12a, Divertissement. Chocolate, Spanish Dance        | Ave María, WAB 6                                                                            |
+| Pictures at an Exhibition (Orch. Ravel): V. Ballet of the Unhatched Chicks                            | Pictures at an Exhibition (Orch. Ravel): II. The Old Castle                                 |
+| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12d, Divertissement. Trepak, Russian Dance           | Brahms: Symphony No. 3 in F Major, Op. 90: II. Andante                                      |
+| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12c, Divertissement. Tea, Chinese Dance              | Brahms: Symphony No. 2 in D Major, Op. 73: II. Adagio non troppo                            |
+| Coppélia / Tableau 2: No. 11a Musique des automates                                                   | Brahms: Symphony No. 1 in C Minor, Op. 68: II. Andante sostenuto                            |
+| Tchaikovsky: Swan Lake, Op. 20, Act III: No. 22, Neapolitan Dance                                     | Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12b, Divertissement. Coffee, Arabian Dance |
+| Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 3, Children's Galop and Entry of the Parents | 9 Sacred Pieces, TH 78: No. 3, Cherubic Hymn No. 3                                          |
+| Coppélia / Tableau 2: No. 16 Boléro - Alternative Version                                             | 9 Sacred Pieces, TH 78: No. 2, Cherubic Hymn No. 2                                          |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise)                         | Brahms: Symphony No. 4 in E Minor, Op. 98: II. Andante moderato                             |
+| Coppélia / Tableau 2: No. 17 Gigue                                                                    | Pictures at an Exhibition (Orch. Ravel): VIIIb. Cum mortuis in lingua mortua                |

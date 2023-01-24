@@ -14,14 +14,14 @@
 |                  7 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734c43a2f36c0aec708ba024d5ab67616d0000b2735d026bccbd8a50650e903130ab67616d0000b27376a42530f861aa187f3ac1c2ab67616d0000b273c385dbfabcec21279dcea0b5" alt="" width="50" /> | [Program Music](../playlists/program_music/overview.md) |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album                                                           | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------------------------|:-----------------------------------------------------------|
-|                101 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | Karajan - Mozart                                                | [🔗](https://open.spotify.com/album/1HSJhsMIW2EDD4YSSkbc9e) |
-|                 42 | <img src="https://i.scdn.co/image/ab67616d0000b27370426e24663b43f11ebd9c24" alt="" width="50" /> | Beethoven: 9 Symphonies; Overtures                              | [🔗](https://open.spotify.com/album/2DQTNTznsteIZciZdyeWdj) |
-|                 24 | <img src="https://i.scdn.co/image/ab67616d0000b273f1972145094112a1268035f1" alt="" width="50" /> | Tchaikovsky: The Nutcracker                                     | [🔗](https://open.spotify.com/album/54Awn36ryf55PkZyOR4iwQ) |
-|                 19 | <img src="https://i.scdn.co/image/ab67616d0000b273f0eb5b09e87f24415266d723" alt="" width="50" /> | Stravinsky: The Rite of Spring / Bartók: Concerto for Orchestra | [🔗](https://open.spotify.com/album/317b74rpNBO2uhaJFyMaxJ) |
-|                 16 | <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="" width="50" /> | Brahms: The Symphonies                                          | [🔗](https://open.spotify.com/album/2dL2qDsg6teV1cueLxCRa1) |
-|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b2734c43a2f36c0aec708ba024d5" alt="" width="50" /> | Holst: The Planets                                              | [🔗](https://open.spotify.com/album/4v0Xyz0LVToUsSTGdsvKSK) |
+|   Number of Tracks | Art                                                                                              | Album                                                           | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                101 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | Karajan - Mozart                                                | 2020-06-16     | [🔗](https://open.spotify.com/album/1HSJhsMIW2EDD4YSSkbc9e) |
+|                 42 | <img src="https://i.scdn.co/image/ab67616d0000b27370426e24663b43f11ebd9c24" alt="" width="50" /> | Beethoven: 9 Symphonies; Overtures                              | 1993-01-01     | [🔗](https://open.spotify.com/album/2DQTNTznsteIZciZdyeWdj) |
+|                 24 | <img src="https://i.scdn.co/image/ab67616d0000b273f1972145094112a1268035f1" alt="" width="50" /> | Tchaikovsky: The Nutcracker                                     | 2010-10-11     | [🔗](https://open.spotify.com/album/54Awn36ryf55PkZyOR4iwQ) |
+|                 19 | <img src="https://i.scdn.co/image/ab67616d0000b273f0eb5b09e87f24415266d723" alt="" width="50" /> | Stravinsky: The Rite of Spring / Bartók: Concerto for Orchestra | 2007-01-01     | [🔗](https://open.spotify.com/album/317b74rpNBO2uhaJFyMaxJ) |
+|                 16 | <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="" width="50" /> | Brahms: The Symphonies                                          | 2009-09-07     | [🔗](https://open.spotify.com/album/2dL2qDsg6teV1cueLxCRa1) |
+|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b2734c43a2f36c0aec708ba024d5" alt="" width="50" /> | Holst: The Planets                                              | 1981-01-01     | [🔗](https://open.spotify.com/album/4v0Xyz0LVToUsSTGdsvKSK) |
 
 ## Top Record Labels
 

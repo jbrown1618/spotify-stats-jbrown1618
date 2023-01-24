@@ -30,9 +30,9 @@ Appears as:
 <details>
 <summary>See all 1 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album    | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:---------|:-----------------------------------------------------------|
-|                 39 | <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="" width="50" /> | Coppélia | [🔗](https://open.spotify.com/album/7jKT8NC2XfAs9RFKsrGz2p) |
+|   Number of Tracks | Art                                                                                              | Album    | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:---------|:---------------|:-----------------------------------------------------------|
+|                 39 | <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="" width="50" /> | Coppélia | 2018-07-06     | [🔗](https://open.spotify.com/album/7jKT8NC2XfAs9RFKsrGz2p) |
 
 </details>
 

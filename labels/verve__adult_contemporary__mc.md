@@ -39,9 +39,9 @@ Appears as:
 <details>
 <summary>See all 1 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                             | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------|:-----------------------------------------------------------|
-|                 20 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | Les Misérables (Original Broadway Cast Recording) | [🔗](https://open.spotify.com/album/3jbKDx0zB1QoJQTw8i1AvD) |
+|   Number of Tracks | Art                                                                                              | Album                                             | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                 20 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | Les Misérables (Original Broadway Cast Recording) | 1987-05-11     | [🔗](https://open.spotify.com/album/3jbKDx0zB1QoJQTw8i1AvD) |
 
 </details>
 

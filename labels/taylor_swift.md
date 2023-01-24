@@ -31,13 +31,13 @@ Appears as:
 <details>
 <summary>See all 5 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                       | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------|:-----------------------------------------------------------|
-|                 10 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | folklore                    | [🔗](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) |
-|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Midnights                   | [🔗](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) |
-|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Lover                       | [🔗](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be" alt="" width="50" /> | evermore                    | [🔗](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a48964b5d9a3d6968ae3e0de" alt="" width="50" /> | Fearless (Taylor's Version) | [🔗](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) |
+|   Number of Tracks | Art                                                                                              | Album                       | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------|:---------------|:-----------------------------------------------------------|
+|                 10 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | folklore                    | 2020-07-24     | [🔗](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) |
+|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Midnights                   | 2022-10-21     | [🔗](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) |
+|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Lover                       | 2019-08-23     | [🔗](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be" alt="" width="50" /> | evermore                    | 2020-12-11     | [🔗](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a48964b5d9a3d6968ae3e0de" alt="" width="50" /> | Fearless (Taylor's Version) | 2021-04-09     | [🔗](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) |
 
 </details>
 

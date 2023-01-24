@@ -34,9 +34,9 @@ Appears as:
 <details>
 <summary>See all 1 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                  | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:-----------------------------------------------------------|
-|                 13 | <img src="https://i.scdn.co/image/ab67616d0000b273c385dbfabcec21279dcea0b5" alt="" width="50" /> | Mendelssohn: A Midsummer Night's Dream | [🔗](https://open.spotify.com/album/60J66evwnrnfH03HgDTrwN) |
+|   Number of Tracks | Art                                                                                              | Album                                  | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:---------------|:-----------------------------------------------------------|
+|                 13 | <img src="https://i.scdn.co/image/ab67616d0000b273c385dbfabcec21279dcea0b5" alt="" width="50" /> | Mendelssohn: A Midsummer Night's Dream | 2017-02-03     | [🔗](https://open.spotify.com/album/60J66evwnrnfH03HgDTrwN) |
 
 </details>
 

@@ -11,13 +11,13 @@
 |                102 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734215d2bfa2e73ae057165347ab67616d0000b2738a9c1224da995cb33a8cb3d5ab67616d0000b273b5fcd6996bf050f9f9010d3aab67616d0000b273da673657374e88d973dad080" alt="" width="50" /> | [Chopin](../playlists/chopin/overview.md)       |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album                                                              | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------|:-----------------------------------------------------------|
-|                 94 | <img src="https://i.scdn.co/image/ab67616d0000b273c18e2114a3a3ef543635197a" alt="" width="50" /> | Beethoven: The Piano Sonatas                                       | [🔗](https://open.spotify.com/album/7xbsSOswKgms1fUFuwKArz) |
-|                 49 | <img src="https://i.scdn.co/image/ab67616d0000b27336ea5cd07c0b76f64f05c2ea" alt="" width="50" /> | Chopin: Waltzes; 4 Scherzos; 26 Preludes                           | [🔗](https://open.spotify.com/album/0yCrQ6dCqiI6ldqI8LPqWB) |
-|                 28 | <img src="https://i.scdn.co/image/ab67616d0000b2734a1bf73a2b9a6387a353a9ef" alt="" width="50" /> | Chopin: Polonaises                                                 | [🔗](https://open.spotify.com/album/19ofW4fqCAR2uQJKVWw6L6) |
-|                 25 | <img src="https://i.scdn.co/image/ab67616d0000b2734215d2bfa2e73ae057165347" alt="" width="50" /> | Chopin: Nocturnes; Four Ballades                                   | [🔗](https://open.spotify.com/album/0lrM7kR5o7iqkajLKIlzRg) |
-|                  9 | <img src="https://i.scdn.co/image/ab67616d0000b2731500f9a293f0106619f16a7d" alt="" width="50" /> | Beethoven: Piano Sonatas "Moonlight"; "Appassionata"; "Pathétique" | [🔗](https://open.spotify.com/album/0RCfE1YhkdrjnM3kXT3YLl) |
+|   Number of Tracks | Art                                                                                              | Album                                                              | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                 94 | <img src="https://i.scdn.co/image/ab67616d0000b273c18e2114a3a3ef543635197a" alt="" width="50" /> | Beethoven: The Piano Sonatas                                       | 1995-01-01     | [🔗](https://open.spotify.com/album/7xbsSOswKgms1fUFuwKArz) |
+|                 49 | <img src="https://i.scdn.co/image/ab67616d0000b27336ea5cd07c0b76f64f05c2ea" alt="" width="50" /> | Chopin: Waltzes; 4 Scherzos; 26 Preludes                           | 1999-01-01     | [🔗](https://open.spotify.com/album/0yCrQ6dCqiI6ldqI8LPqWB) |
+|                 28 | <img src="https://i.scdn.co/image/ab67616d0000b2734a1bf73a2b9a6387a353a9ef" alt="" width="50" /> | Chopin: Polonaises                                                 | 1996-01-01     | [🔗](https://open.spotify.com/album/19ofW4fqCAR2uQJKVWw6L6) |
+|                 25 | <img src="https://i.scdn.co/image/ab67616d0000b2734215d2bfa2e73ae057165347" alt="" width="50" /> | Chopin: Nocturnes; Four Ballades                                   | 1997-01-01     | [🔗](https://open.spotify.com/album/0lrM7kR5o7iqkajLKIlzRg) |
+|                  9 | <img src="https://i.scdn.co/image/ab67616d0000b2731500f9a293f0106619f16a7d" alt="" width="50" /> | Beethoven: Piano Sonatas "Moonlight"; "Appassionata"; "Pathétique" | 1983-01-01     | [🔗](https://open.spotify.com/album/0RCfE1YhkdrjnM3kXT3YLl) |
 
 ## Top Record Labels
 

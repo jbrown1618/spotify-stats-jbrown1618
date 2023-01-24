@@ -37,20 +37,20 @@ Appears as:
 <details>
 <summary>See all 12 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------|:-----------------------------------------------------------|
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2735fe0013ebb4022adc0f042be" alt="" width="50" /> | Summer Special [Flip That]           | [🔗](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a359467cf1e245c2cdf5dad5" alt="" width="50" /> | HELLO Chapter 1: Hello, Stranger     | [🔗](https://open.spotify.com/album/73Jw9dKwFV1kF62JFUls3V) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27390eea4a1744d67c2de3db575" alt="" width="50" /> | When It Snows mmm (feat. Wheein)     | [🔗](https://open.spotify.com/album/5z8FBqt7BCXR6MB5fzy7L3) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273974662e5de6399232ea61a8d" alt="" width="50" /> | WHEE                                 | [🔗](https://open.spotify.com/album/4BLxIwHfv87WeOQ9A4sm9E) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731f5de98907a7f969ea7c28db" alt="" width="50" /> | TAKE A CHANCE                        | [🔗](https://open.spotify.com/album/1QDAlRAOgIMPBQpMQ4LZ0E) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273682ac678746ad21b6b799950" alt="" width="50" /> | Pity Party                           | [🔗](https://open.spotify.com/album/2yMHiLYBnrMsdUCUL3bFkU) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f007ee1c134806d3ec34c83e" alt="" width="50" /> | I Don't Need You                     | [🔗](https://open.spotify.com/album/6W4mS8VsOi2WAkkMuh9SJ9) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27384e03542ff0782ce11bbe8f6" alt="" width="50" /> | History Of Kingdom: Pt. I. Arthur    | [🔗](https://open.spotify.com/album/1R84dnzp7NRkcbd2HFihGe) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737694471cc29815e2b3864637" alt="" width="50" /> | HELLO Chapter 3: Hello, Strange Time | [🔗](https://open.spotify.com/album/6w3QkgYGtf6LfiWb5iCYc1) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27378672dc9ecfb1a2e87501284" alt="" width="50" /> | GOT7                                 | [🔗](https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273addef7fad07f17acdf7d6b98" alt="" width="50" /> | B:COMPLETE                           | [🔗](https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ffd2d252ce504dac86a25efc" alt="" width="50" /> | ?depacse ohw                         | [🔗](https://open.spotify.com/album/0srUbfZOMUBwUitQGQeUca) |
+|   Number of Tracks | Art                                                                                              | Album                                | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------|:---------------|:-----------------------------------------------------------|
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2735fe0013ebb4022adc0f042be" alt="" width="50" /> | Summer Special [Flip That]           | 2022-06-20     | [🔗](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a359467cf1e245c2cdf5dad5" alt="" width="50" /> | HELLO Chapter 1: Hello, Stranger     | 2019-07-23     | [🔗](https://open.spotify.com/album/73Jw9dKwFV1kF62JFUls3V) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27390eea4a1744d67c2de3db575" alt="" width="50" /> | When It Snows mmm (feat. Wheein)     | 2020-12-23     | [🔗](https://open.spotify.com/album/5z8FBqt7BCXR6MB5fzy7L3) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273974662e5de6399232ea61a8d" alt="" width="50" /> | WHEE                                 | 2022-01-16     | [🔗](https://open.spotify.com/album/4BLxIwHfv87WeOQ9A4sm9E) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731f5de98907a7f969ea7c28db" alt="" width="50" /> | TAKE A CHANCE                        | 2022-10-04     | [🔗](https://open.spotify.com/album/1QDAlRAOgIMPBQpMQ4LZ0E) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273682ac678746ad21b6b799950" alt="" width="50" /> | Pity Party                           | 2022-02-03     | [🔗](https://open.spotify.com/album/2yMHiLYBnrMsdUCUL3bFkU) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f007ee1c134806d3ec34c83e" alt="" width="50" /> | I Don't Need You                     | 2020-06-07     | [🔗](https://open.spotify.com/album/6W4mS8VsOi2WAkkMuh9SJ9) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27384e03542ff0782ce11bbe8f6" alt="" width="50" /> | History Of Kingdom: Pt. I. Arthur    | 2021-02-18     | [🔗](https://open.spotify.com/album/1R84dnzp7NRkcbd2HFihGe) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737694471cc29815e2b3864637" alt="" width="50" /> | HELLO Chapter 3: Hello, Strange Time | 2020-10-27     | [🔗](https://open.spotify.com/album/6w3QkgYGtf6LfiWb5iCYc1) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27378672dc9ecfb1a2e87501284" alt="" width="50" /> | GOT7                                 | 2022-05-23     | [🔗](https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273addef7fad07f17acdf7d6b98" alt="" width="50" /> | B:COMPLETE                           | 2019-05-22     | [🔗](https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ffd2d252ce504dac86a25efc" alt="" width="50" /> | ?depacse ohw                         | 2020-05-12     | [🔗](https://open.spotify.com/album/0srUbfZOMUBwUitQGQeUca) |
 
 </details>
 

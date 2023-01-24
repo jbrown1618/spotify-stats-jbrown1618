@@ -59,55 +59,55 @@
 <details>
 <summary>See all 47 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                        | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------|:-----------------------------------------------------------|
-|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b273987a99b436a78299e8dcb7dd" alt="" width="50" /> | Quarter Past                                 | [🔗](https://open.spotify.com/album/1pScBPjmT5w3s0BTgkdgJy) |
-|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="" width="50" /> | BOCA 2015: Best Of College A Cappella        | [🔗](https://open.spotify.com/album/0gyhBvJs1GiI31cMMmKLnK) |
-|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b27371a67f8f5158f054b136bd8a" alt="" width="50" /> | Keepin' it Low Key                           | [🔗](https://open.spotify.com/album/4EmdqB8w7gEONRX5QLypQZ) |
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273bcad2453bb8a140067a4d4e2" alt="" width="50" /> | The Party Upstairs                           | [🔗](https://open.spotify.com/album/2AIAKP2FxbYNjmwQgAkqZz) |
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b27381514ee26162b9fed3c39be7" alt="" width="50" /> | Pitch Slapped - EP                           | [🔗](https://open.spotify.com/album/5I08qbUSg8f48kenQs7Tg6) |
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273ea7720f8e0ae5132dbd20303" alt="" width="50" /> | BOCA 2010: Best Of College A Cappella        | [🔗](https://open.spotify.com/album/3HSd3voAxPxS50UrfInBVJ) |
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2734b3c2c076ef820f59ba15aa0" alt="" width="50" /> | BOCA 2009: Best Of College A Cappella        | [🔗](https://open.spotify.com/album/50WaSkL4pVvz9Crsca7oNV) |
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b27315a14fc8ff338e698d645406" alt="" width="50" /> | BOCA 2008: Best Of College A Cappella        | [🔗](https://open.spotify.com/album/4Z0ju0i47UZ2Y4icq2f3wZ) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2733c8896f56a068816ef63165b" alt="" width="50" /> | Off the Hook                                 | [🔗](https://open.spotify.com/album/1wfYTTpHsGxvIjDwsPLAAC) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273481636675e5711587db9061d" alt="" width="50" /> | Greene St.                                   | [🔗](https://open.spotify.com/album/3qJMqi0VzTFGSDTTMUI5n7) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27334ceeb441ebadc373617e460" alt="" width="50" /> | Breakdown!                                   | [🔗](https://open.spotify.com/album/7u7dNsbxjcxVoffJELqtCV) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2737b67b0ad83e8adff4608e918" alt="" width="50" /> | BOCA 2014: Best Of College A Cappella        | [🔗](https://open.spotify.com/album/7rZoAMtoZ8s5mLIlUTWgVT) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2730719dbaac955fe41fed564ad" alt="" width="50" /> | 1988                                         | [🔗](https://open.spotify.com/album/6nktHqHKPt8kT4ozUJvwrs) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273b7d3410c326df5c5af0179f6" alt="" width="50" /> | Songs for Padded Rooms                       | [🔗](https://open.spotify.com/album/0h3bmbpSuD01ha1k52E1uz) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273759fbdcd40288d874a398749" alt="" width="50" /> | RISE                                         | [🔗](https://open.spotify.com/album/6V8819n4bdv7dA5mFdCIAo) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="" width="50" /> | BOCA 2013: Best of College A Cappella        | [🔗](https://open.spotify.com/album/6Pqey2mc4EWSfYNH3bifbO) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="" width="50" /> | BOCA 2012: Best Of College A Cappella        | [🔗](https://open.spotify.com/album/26eCHp86K2xLQj0B7Cr8he) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273e49dba8b71933913e6d8cc3f" alt="" width="50" /> | Wavelength                                   | [🔗](https://open.spotify.com/album/56RyapLbZ4DESHfzD87X7F) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273bab336e565eb71bf7860dfcc" alt="" width="50" /> | V                                            | [🔗](https://open.spotify.com/album/7wPsYBhUlqtAgPr2hbbmP3) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27379b679128839141600389209" alt="" width="50" /> | Stages                                       | [🔗](https://open.spotify.com/album/3mnYoDcAHKx6uA91f7rtAa) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27304c063cf2fb113fd361d5d34" alt="" width="50" /> | Permit to Harmonize                          | [🔗](https://open.spotify.com/album/4aHUBNFRDR1DzCO8GULLTD) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734b16fad8fb09cff04b362139" alt="" width="50" /> | III                                          | [🔗](https://open.spotify.com/album/3iFvXj07Frbs54rK9CzCIo) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2735a1783df13795d2db2599c7e" alt="" width="50" /> | I Used to Live Alone                         | [🔗](https://open.spotify.com/album/0AmRRsaQVm5noeAB6LF8yA) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27356231fb2f9b79b8ef4e4dcdd" alt="" width="50" /> | Déjà Blue                                    | [🔗](https://open.spotify.com/album/1mZNLR8qY6GhhrnCmtEAv3) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a391a593f88024c5cea36b9c" alt="" width="50" /> | Behind Bars                                  | [🔗](https://open.spotify.com/album/40g8iY5VB5sTJ31943mAzQ) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273da81ceb610e54852e16f0e82" alt="" width="50" /> | BOCA 2011: Best Of College A Cappella        | [🔗](https://open.spotify.com/album/27d96rqnXRtmrGBGHJzPBh) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731bf130ee9a90bd5cce66e40e" alt="" width="50" /> | Almost 8:08                                  | [🔗](https://open.spotify.com/album/1gbG9XfNmlfNGEnOTH0f6N) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dde0ec88fc58ec6a54ad25a5" alt="" width="50" /> | Voices Only 2013 College A Cappella, Vol. 1  | [🔗](https://open.spotify.com/album/6zr4GyBIMy2GRvIGPflYaK) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27375a9edcf7286612325a1f713" alt="" width="50" /> | Voices Only 2009 College A Cappella (Disc 1) | [🔗](https://open.spotify.com/album/20PLlTE6r1hsQrmyhUW7oB) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273464316473dbcc9d9da236632" alt="" width="50" /> | VoCabulary                                   | [🔗](https://open.spotify.com/album/6QTtvpKN8GebVCKsx8YRmJ) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273341eba1095eb8daa8ffa9040" alt="" width="50" /> | Unbound                                      | [🔗](https://open.spotify.com/album/5KqLmDu7Lui1qqdnItWDUs) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a244382317586a8decdf240c" alt="" width="50" /> | The Mallard                                  | [🔗](https://open.spotify.com/album/2IV5LQ4DzCjAIVwYZMHYgo) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273db17fec53a7c243f7809a328" alt="" width="50" /> | Storming The Castle                          | [🔗](https://open.spotify.com/album/1wjibXmmViZMNA1HsMo7f6) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27372ab17caf31d0387153ec39b" alt="" width="50" /> | Oasis                                        | [🔗](https://open.spotify.com/album/1VpHqAIW8Pu343GJa0UpRQ) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f0811a497b6eaf308d045d29" alt="" width="50" /> | Ignite                                       | [🔗](https://open.spotify.com/album/5O7GFH7FfXuuDlOfNH76Qq) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27308006689b908d5d25c188b10" alt="" width="50" /> | ICCA 2016: The Extended Cuts                 | [🔗](https://open.spotify.com/album/07xYpylAQHOJoHStqUpKwp) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273707302925a3cb0f9dbcc23f8" alt="" width="50" /> | House Rules                                  | [🔗](https://open.spotify.com/album/1fHxE6WZL6ouusBW4h9nE4) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b6506a5b3e8f6bf816cbc118" alt="" width="50" /> | High Stakes Old Maid                         | [🔗](https://open.spotify.com/album/6sg9WsK06H588Y5VOmwj37) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b4505054d968aab0b77e5646" alt="" width="50" /> | Fixate                                       | [🔗](https://open.spotify.com/album/2wDs6jkrCEPBJLnLLFWt7J) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d287779de0a37b217bc2f7e8" alt="" width="50" /> | Equilibrium                                  | [🔗](https://open.spotify.com/album/6BeTGjWVDQLQhdSM5MBziy) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b412efc7cf36157f45463837" alt="" width="50" /> | Disturbia                                    | [🔗](https://open.spotify.com/album/3ypmasyBX16BmWt52owYaN) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d19c9f2ae59824a13812de12" alt="" width="50" /> | Defrosted                                    | [🔗](https://open.spotify.com/album/3DLNakCGffrhPaaj9rfepk) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273acd107057c2284c39f1c3b27" alt="" width="50" /> | Best of BOCA: The First 20 Years             | [🔗](https://open.spotify.com/album/5bcLIouxn2oBiGvf4vvO6u) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733292818e78cd81fa4ba67fd2" alt="" width="50" /> | Before You Go                                | [🔗](https://open.spotify.com/album/00x5MddnbpBoWJWtubLhHH) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732c9bde1126c992a7140f4976" alt="" width="50" /> | BOCA 2016: Best Of College A Cappella        | [🔗](https://open.spotify.com/album/2AOr4esohQurJGXklhRH1a) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273049016d51d8970dc04dbf78f" alt="" width="50" /> | Against the Grain                            | [🔗](https://open.spotify.com/album/27W6ijbmL6QPNrdQGncwDJ) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27360fd5c708d2f5956d46888a9" alt="" width="50" /> | A Swing and a Miss                           | [🔗](https://open.spotify.com/album/0qj5ECfme87sP5anevwf81) |
+|   Number of Tracks | Art                                                                                              | Album                                        | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b273987a99b436a78299e8dcb7dd" alt="" width="50" /> | Quarter Past                                 | 2014-11-18     | [🔗](https://open.spotify.com/album/1pScBPjmT5w3s0BTgkdgJy) |
+|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="" width="50" /> | BOCA 2015: Best Of College A Cappella        | 2014-12-19     | [🔗](https://open.spotify.com/album/0gyhBvJs1GiI31cMMmKLnK) |
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b27371a67f8f5158f054b136bd8a" alt="" width="50" /> | Keepin' it Low Key                           | 2013-01-18     | [🔗](https://open.spotify.com/album/4EmdqB8w7gEONRX5QLypQZ) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273bcad2453bb8a140067a4d4e2" alt="" width="50" /> | The Party Upstairs                           | 2013-12-13     | [🔗](https://open.spotify.com/album/2AIAKP2FxbYNjmwQgAkqZz) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b27381514ee26162b9fed3c39be7" alt="" width="50" /> | Pitch Slapped - EP                           | 2011-04-08     | [🔗](https://open.spotify.com/album/5I08qbUSg8f48kenQs7Tg6) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273ea7720f8e0ae5132dbd20303" alt="" width="50" /> | BOCA 2010: Best Of College A Cappella        | 2011-02-15     | [🔗](https://open.spotify.com/album/3HSd3voAxPxS50UrfInBVJ) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2734b3c2c076ef820f59ba15aa0" alt="" width="50" /> | BOCA 2009: Best Of College A Cappella        | 2011-02-15     | [🔗](https://open.spotify.com/album/50WaSkL4pVvz9Crsca7oNV) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b27315a14fc8ff338e698d645406" alt="" width="50" /> | BOCA 2008: Best Of College A Cappella        | 2011-02-15     | [🔗](https://open.spotify.com/album/4Z0ju0i47UZ2Y4icq2f3wZ) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2733c8896f56a068816ef63165b" alt="" width="50" /> | Off the Hook                                 | 2011-12-10     | [🔗](https://open.spotify.com/album/1wfYTTpHsGxvIjDwsPLAAC) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273481636675e5711587db9061d" alt="" width="50" /> | Greene St.                                   | 2016           | [🔗](https://open.spotify.com/album/3qJMqi0VzTFGSDTTMUI5n7) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27334ceeb441ebadc373617e460" alt="" width="50" /> | Breakdown!                                   | 2009-12-05     | [🔗](https://open.spotify.com/album/7u7dNsbxjcxVoffJELqtCV) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2737b67b0ad83e8adff4608e918" alt="" width="50" /> | BOCA 2014: Best Of College A Cappella        | 2014-01-31     | [🔗](https://open.spotify.com/album/7rZoAMtoZ8s5mLIlUTWgVT) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2730719dbaac955fe41fed564ad" alt="" width="50" /> | 1988                                         | 2015-05-19     | [🔗](https://open.spotify.com/album/6nktHqHKPt8kT4ozUJvwrs) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273b7d3410c326df5c5af0179f6" alt="" width="50" /> | Songs for Padded Rooms                       | 2011-05-21     | [🔗](https://open.spotify.com/album/0h3bmbpSuD01ha1k52E1uz) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273759fbdcd40288d874a398749" alt="" width="50" /> | RISE                                         | 2016-02-09     | [🔗](https://open.spotify.com/album/6V8819n4bdv7dA5mFdCIAo) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="" width="50" /> | BOCA 2013: Best of College A Cappella        | 2016           | [🔗](https://open.spotify.com/album/6Pqey2mc4EWSfYNH3bifbO) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="" width="50" /> | BOCA 2012: Best Of College A Cappella        | 2012-01-01     | [🔗](https://open.spotify.com/album/26eCHp86K2xLQj0B7Cr8he) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273e49dba8b71933913e6d8cc3f" alt="" width="50" /> | Wavelength                                   | 2015-04-10     | [🔗](https://open.spotify.com/album/56RyapLbZ4DESHfzD87X7F) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273bab336e565eb71bf7860dfcc" alt="" width="50" /> | V                                            | 2018           | [🔗](https://open.spotify.com/album/7wPsYBhUlqtAgPr2hbbmP3) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27379b679128839141600389209" alt="" width="50" /> | Stages                                       | 2014-09-21     | [🔗](https://open.spotify.com/album/3mnYoDcAHKx6uA91f7rtAa) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27304c063cf2fb113fd361d5d34" alt="" width="50" /> | Permit to Harmonize                          | 2013-03-01     | [🔗](https://open.spotify.com/album/4aHUBNFRDR1DzCO8GULLTD) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734b16fad8fb09cff04b362139" alt="" width="50" /> | III                                          | 2012-04-12     | [🔗](https://open.spotify.com/album/3iFvXj07Frbs54rK9CzCIo) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2735a1783df13795d2db2599c7e" alt="" width="50" /> | I Used to Live Alone                         | 2011-05-21     | [🔗](https://open.spotify.com/album/0AmRRsaQVm5noeAB6LF8yA) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27356231fb2f9b79b8ef4e4dcdd" alt="" width="50" /> | Déjà Blue                                    | 2015-04-11     | [🔗](https://open.spotify.com/album/1mZNLR8qY6GhhrnCmtEAv3) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a391a593f88024c5cea36b9c" alt="" width="50" /> | Behind Bars                                  | 2007-02-21     | [🔗](https://open.spotify.com/album/40g8iY5VB5sTJ31943mAzQ) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273da81ceb610e54852e16f0e82" alt="" width="50" /> | BOCA 2011: Best Of College A Cappella        | 2011-01-11     | [🔗](https://open.spotify.com/album/27d96rqnXRtmrGBGHJzPBh) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731bf130ee9a90bd5cce66e40e" alt="" width="50" /> | Almost 8:08                                  | 2017-09-06     | [🔗](https://open.spotify.com/album/1gbG9XfNmlfNGEnOTH0f6N) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dde0ec88fc58ec6a54ad25a5" alt="" width="50" /> | Voices Only 2013 College A Cappella, Vol. 1  | 2013-08-01     | [🔗](https://open.spotify.com/album/6zr4GyBIMy2GRvIGPflYaK) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27375a9edcf7286612325a1f713" alt="" width="50" /> | Voices Only 2009 College A Cappella (Disc 1) | 2009-09-23     | [🔗](https://open.spotify.com/album/20PLlTE6r1hsQrmyhUW7oB) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273464316473dbcc9d9da236632" alt="" width="50" /> | VoCabulary                                   | 2016-05-03     | [🔗](https://open.spotify.com/album/6QTtvpKN8GebVCKsx8YRmJ) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273341eba1095eb8daa8ffa9040" alt="" width="50" /> | Unbound                                      | 2017-07-13     | [🔗](https://open.spotify.com/album/5KqLmDu7Lui1qqdnItWDUs) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a244382317586a8decdf240c" alt="" width="50" /> | The Mallard                                  | 2013-04-13     | [🔗](https://open.spotify.com/album/2IV5LQ4DzCjAIVwYZMHYgo) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273db17fec53a7c243f7809a328" alt="" width="50" /> | Storming The Castle                          | 2021-06-09     | [🔗](https://open.spotify.com/album/1wjibXmmViZMNA1HsMo7f6) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27372ab17caf31d0387153ec39b" alt="" width="50" /> | Oasis                                        | 2018           | [🔗](https://open.spotify.com/album/1VpHqAIW8Pu343GJa0UpRQ) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f0811a497b6eaf308d045d29" alt="" width="50" /> | Ignite                                       | 2021-06-28     | [🔗](https://open.spotify.com/album/5O7GFH7FfXuuDlOfNH76Qq) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27308006689b908d5d25c188b10" alt="" width="50" /> | ICCA 2016: The Extended Cuts                 | 2017-01-24     | [🔗](https://open.spotify.com/album/07xYpylAQHOJoHStqUpKwp) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273707302925a3cb0f9dbcc23f8" alt="" width="50" /> | House Rules                                  | 2011-04-26     | [🔗](https://open.spotify.com/album/1fHxE6WZL6ouusBW4h9nE4) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b6506a5b3e8f6bf816cbc118" alt="" width="50" /> | High Stakes Old Maid                         | 2016           | [🔗](https://open.spotify.com/album/6sg9WsK06H588Y5VOmwj37) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b4505054d968aab0b77e5646" alt="" width="50" /> | Fixate                                       | 2017-04-08     | [🔗](https://open.spotify.com/album/2wDs6jkrCEPBJLnLLFWt7J) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d287779de0a37b217bc2f7e8" alt="" width="50" /> | Equilibrium                                  | 2013-11-17     | [🔗](https://open.spotify.com/album/6BeTGjWVDQLQhdSM5MBziy) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b412efc7cf36157f45463837" alt="" width="50" /> | Disturbia                                    | 2010-11-22     | [🔗](https://open.spotify.com/album/3ypmasyBX16BmWt52owYaN) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d19c9f2ae59824a13812de12" alt="" width="50" /> | Defrosted                                    | 2004-04-24     | [🔗](https://open.spotify.com/album/3DLNakCGffrhPaaj9rfepk) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273acd107057c2284c39f1c3b27" alt="" width="50" /> | Best of BOCA: The First 20 Years             | 2014-04-15     | [🔗](https://open.spotify.com/album/5bcLIouxn2oBiGvf4vvO6u) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733292818e78cd81fa4ba67fd2" alt="" width="50" /> | Before You Go                                | 2008-12-12     | [🔗](https://open.spotify.com/album/00x5MddnbpBoWJWtubLhHH) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732c9bde1126c992a7140f4976" alt="" width="50" /> | BOCA 2016: Best Of College A Cappella        | 2015-12-15     | [🔗](https://open.spotify.com/album/2AOr4esohQurJGXklhRH1a) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273049016d51d8970dc04dbf78f" alt="" width="50" /> | Against the Grain                            | 2001-04-24     | [🔗](https://open.spotify.com/album/27W6ijbmL6QPNrdQGncwDJ) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27360fd5c708d2f5956d46888a9" alt="" width="50" /> | A Swing and a Miss                           | 2018-04-26     | [🔗](https://open.spotify.com/album/0qj5ECfme87sP5anevwf81) |
 
 </details>
 
@@ -143,91 +143,91 @@
 
 | 10 most Danceable tracks         | 10 least Danceable tracks   |
 |:---------------------------------|:----------------------------|
-| Problem                          | Paranoid Android            |
-| La Camisa Negra                  | White Flag                  |
-| Toxic                            | Alive                       |
-| Telephone                        | Stay                        |
-| Waka Waka (This Time for Africa) | Fix You                     |
-| Machine Gun                      | The Sound of Silence        |
-| They                             | The Man Who Can't Be Moved  |
-| Work Song                        | Wait It Out                 |
-| Eine kleine Nachtmusik           | Falling Slowly              |
-| Domino                           | We Found Love               |
+| Problem                          | We Found Love               |
+| La Camisa Negra                  | Falling Slowly              |
+| Toxic                            | Wait It Out                 |
+| Telephone                        | The Man Who Can't Be Moved  |
+| Waka Waka (This Time for Africa) | The Sound of Silence        |
+| Machine Gun                      | Fix You                     |
+| They                             | Stay                        |
+| Work Song                        | Alive                       |
+| Eine kleine Nachtmusik           | White Flag                  |
+| Domino                           | Paranoid Android            |
 
 | 10 most Energetic tracks                  | 10 least Energetic tracks   |
 |:------------------------------------------|:----------------------------|
-| Misery Business                           | Chandelier                  |
-| Don't Stop Me Now                         | Honeybee                    |
+| Misery Business                           | Woods                       |
+| Don't Stop Me Now                         | The Sound of Silence        |
 | Russian Roulette                          | Say Something               |
-| Telephone                                 | Poison & Wine               |
-| Finesse - Remix                           | Demons                      |
-| Don't Stop Believin'                      | Phoenix                     |
-| Bang Bang                                 | Pure Imagination            |
+| Telephone                                 | Pure Imagination            |
+| Finesse - Remix                           | Phoenix                     |
+| Don't Stop Believin'                      | Demons                      |
+| Bang Bang                                 | Poison & Wine               |
 | Too Close (feat. Roxorloops & Blady Kris) | Say Something               |
-| Brand New Jones                           | The Sound of Silence        |
-| Manwa Laage                               | Woods                       |
+| Brand New Jones                           | Honeybee                    |
+| Manwa Laage                               | Chandelier                  |
 
 | 10 most Speechy tracks                    | 10 least Speechy tracks   |
 |:------------------------------------------|:--------------------------|
-| Don't Stop Me Now                         | All of Me                 |
-| I'd Like To                               | We All Need Saving        |
-| Cry Me a River                            | She Used to Be Mine       |
-| Movin' On                                 | White Flag                |
-| Waka Waka (This Time for Africa)          | Falling Slowly            |
-| Too Close (feat. Roxorloops & Blady Kris) | Demons                    |
-| Brand New Jones                           | We All Need Saving        |
-| I Write Sins Not Tragedies                | Machine Gun               |
-| Talk Dirty                                | Samson                    |
-| Tightrope                                 | We Found Love             |
+| Don't Stop Me Now                         | We Found Love             |
+| I'd Like To                               | Samson                    |
+| Cry Me a River                            | Machine Gun               |
+| Movin' On                                 | We All Need Saving        |
+| Waka Waka (This Time for Africa)          | Demons                    |
+| Too Close (feat. Roxorloops & Blady Kris) | Falling Slowly            |
+| Brand New Jones                           | White Flag                |
+| I Write Sins Not Tragedies                | She Used to Be Mine       |
+| Talk Dirty                                | We All Need Saving        |
+| Tightrope                                 | All of Me                 |
 
 | 10 most Acoustic tracks   | 10 least Acoustic tracks   |
 |:--------------------------|:---------------------------|
-| Demons                    | Set Fire To The Rain       |
-| Woods                     | Telephone                  |
-| Big Yellow Taxi           | Sweater Weather            |
-| Say Something             | Blown Away                 |
-| We All Need Saving        | Don't You Worry Child      |
-| The Sound of Silence      | Crazy In Love              |
-| All of Me                 | Counting Stars             |
-| She Used to Be Mine       | Problem                    |
-| We Found Love             | Talk Dirty                 |
-| Landslide                 | Domino                     |
+| Demons                    | Domino                     |
+| Woods                     | Talk Dirty                 |
+| Big Yellow Taxi           | Problem                    |
+| Say Something             | Counting Stars             |
+| We All Need Saving        | Crazy In Love              |
+| The Sound of Silence      | Don't You Worry Child      |
+| All of Me                 | Blown Away                 |
+| She Used to Be Mine       | Sweater Weather            |
+| We Found Love             | Telephone                  |
+| Landslide                 | Set Fire To The Rain       |
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| Eine kleine Nachtmusik        | Can't Take My Eyes Off You     |
-| Here (In Your Arms)           | Counting Stars                 |
-| Falling Slowly                | I Write Sins Not Tragedies     |
-| Home                          | Only the Good Die Young        |
-| Demons                        | If I Ain't Got You             |
-| Don't You Worry Child         | Somebody to Love               |
-| Easy                          | Bird Set Free                  |
-| Samson                        | She Used to Be Mine            |
-| We Found Love                 | Apologize                      |
-| Toxic                         | Domino                         |
+| Eine kleine Nachtmusik        | Domino                         |
+| Here (In Your Arms)           | Apologize                      |
+| Falling Slowly                | She Used to Be Mine            |
+| Home                          | Bird Set Free                  |
+| Demons                        | Somebody to Love               |
+| Don't You Worry Child         | If I Ain't Got You             |
+| Easy                          | Only the Good Die Young        |
+| Samson                        | I Write Sins Not Tragedies     |
+| We Found Love                 | Counting Stars                 |
+| Toxic                         | Can't Take My Eyes Off You     |
 
 | 10 most Live tracks   | 10 least Live tracks       |
 |:----------------------|:---------------------------|
-| Brand New Jones       | Problem                    |
-| I'd Like To           | La Camisa Negra            |
-| Smooth                | Say Something              |
-| Talk Dirty            | There Goes My Baby         |
-| Disturbia             | There Goes My Baby         |
-| Wayfaring Stranger    | Demons                     |
-| Elastic Heart         | I Write Sins Not Tragedies |
-| That's What You Get   | Russian Roulette           |
-| Alive                 | Africa                     |
-| Telephone             | Paranoid Android           |
+| Brand New Jones       | Paranoid Android           |
+| I'd Like To           | Africa                     |
+| Smooth                | Russian Roulette           |
+| Talk Dirty            | I Write Sins Not Tragedies |
+| Disturbia             | Demons                     |
+| Wayfaring Stranger    | There Goes My Baby         |
+| Elastic Heart         | There Goes My Baby         |
+| That's What You Get   | Say Something              |
+| Alive                 | La Camisa Negra            |
+| Telephone             | Problem                    |
 
 | 10 most Happy tracks             | 10 least Happy tracks   |
 |:---------------------------------|:------------------------|
-| Big Yellow Taxi                  | I Won't Give Up         |
-| I Want You Back                  | Woods                   |
-| Domino                           | Say Something           |
-| Smooth                           | Poison & Wine           |
-| Toxic                            | Falling Slowly          |
-| I'd Like To                      | Wait It Out             |
-| La Camisa Negra                  | She Used to Be Mine     |
-| Waka Waka (This Time for Africa) | We Found Love           |
-| Bang Bang                        | Phoenix                 |
-| Brand New Jones                  | The Sound of Silence    |
+| Big Yellow Taxi                  | The Sound of Silence    |
+| I Want You Back                  | Phoenix                 |
+| Domino                           | We Found Love           |
+| Smooth                           | She Used to Be Mine     |
+| Toxic                            | Wait It Out             |
+| I'd Like To                      | Falling Slowly          |
+| La Camisa Negra                  | Poison & Wine           |
+| Waka Waka (This Time for Africa) | Say Something           |
+| Bang Bang                        | Woods                   |
+| Brand New Jones                  | I Won't Give Up         |

@@ -43,14 +43,14 @@ Appears as:
 <details>
 <summary>See all 6 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                     | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:------------------------------------------|:-----------------------------------------------------------|
-|                 31 | <img src="https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da" alt="" width="50" /> | Tchaikovsky: Swan Lake                    | [🔗](https://open.spotify.com/album/7dVA06E7AP7P7VzPyNxQVO) |
-|                 24 | <img src="https://i.scdn.co/image/ab67616d0000b273f1972145094112a1268035f1" alt="" width="50" /> | Tchaikovsky: The Nutcracker               | [🔗](https://open.spotify.com/album/54Awn36ryf55PkZyOR4iwQ) |
-|                 16 | <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="" width="50" /> | Vivaldi: The Four Seasons.                | [🔗](https://open.spotify.com/album/4YpaKMCcb65yOoee75UUOh) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273efbc193171a2f99fe94911c6" alt="" width="50" /> | Folk Songs Of The British Isles           | [🔗](https://open.spotify.com/album/7eFKaVzp6K60oBnB2kTjwV) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27350f0e9f3fe510cfe42f5f2d9" alt="" width="50" /> | Mozart: Eine Kleine Nachtmusik etc.       | [🔗](https://open.spotify.com/album/5YCuibCDJrkVcS3UOAYqr9) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fa70f75821d8ef6496b3ff64" alt="" width="50" /> | Around the World - A Folk Song Collection | [🔗](https://open.spotify.com/album/2YLEK2g3iwuhW4vp02XRnn) |
+|   Number of Tracks | Art                                                                                              | Album                                     | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                 31 | <img src="https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da" alt="" width="50" /> | Tchaikovsky: Swan Lake                    | 1976           | [🔗](https://open.spotify.com/album/7dVA06E7AP7P7VzPyNxQVO) |
+|                 24 | <img src="https://i.scdn.co/image/ab67616d0000b273f1972145094112a1268035f1" alt="" width="50" /> | Tchaikovsky: The Nutcracker               | 2010-10-11     | [🔗](https://open.spotify.com/album/54Awn36ryf55PkZyOR4iwQ) |
+|                 16 | <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="" width="50" /> | Vivaldi: The Four Seasons.                | 2007-10-01     | [🔗](https://open.spotify.com/album/4YpaKMCcb65yOoee75UUOh) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273efbc193171a2f99fe94911c6" alt="" width="50" /> | Folk Songs Of The British Isles           | 1993-07-24     | [🔗](https://open.spotify.com/album/7eFKaVzp6K60oBnB2kTjwV) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27350f0e9f3fe510cfe42f5f2d9" alt="" width="50" /> | Mozart: Eine Kleine Nachtmusik etc.       | 1986           | [🔗](https://open.spotify.com/album/5YCuibCDJrkVcS3UOAYqr9) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fa70f75821d8ef6496b3ff64" alt="" width="50" /> | Around the World - A Folk Song Collection | 1991-02-01     | [🔗](https://open.spotify.com/album/2YLEK2g3iwuhW4vp02XRnn) |
 
 </details>
 

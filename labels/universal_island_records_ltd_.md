@@ -29,13 +29,13 @@ Appears as:
 <details>
 <summary>See all 5 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                            | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------|:-----------------------------------------------------------|
-|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | Lungs                            | [🔗](https://open.spotify.com/album/2KAK58PimXHF4lSoKO3RxA) |
-|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Ceremonials (Deluxe Edition)     | [🔗](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | How Big, How Blue, How Beautiful | [🔗](https://open.spotify.com/album/2btszoya78vyT8fwelmVnz) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2738f52f321140e4a76ea720c52" alt="" width="50" /> | Back To Black                    | [🔗](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27376ffb5b5ab045d22c81235c1" alt="" width="50" /> | Back To Black (Deluxe Edition)   | [🔗](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) |
+|   Number of Tracks | Art                                                                                              | Album                            | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------|:---------------|:-----------------------------------------------------------|
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | Lungs                            | 2009-01-01     | [🔗](https://open.spotify.com/album/2KAK58PimXHF4lSoKO3RxA) |
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Ceremonials (Deluxe Edition)     | 2011-01-01     | [🔗](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | How Big, How Blue, How Beautiful | 2015-06-01     | [🔗](https://open.spotify.com/album/2btszoya78vyT8fwelmVnz) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2738f52f321140e4a76ea720c52" alt="" width="50" /> | Back To Black                    | 2006-10-27     | [🔗](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27376ffb5b5ab045d22c81235c1" alt="" width="50" /> | Back To Black (Deluxe Edition)   | 2006           | [🔗](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) |
 
 </details>
 

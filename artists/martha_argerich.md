@@ -10,10 +10,10 @@
 |                 31 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734215d2bfa2e73ae057165347ab67616d0000b2738a9c1224da995cb33a8cb3d5ab67616d0000b273b5fcd6996bf050f9f9010d3aab67616d0000b273da673657374e88d973dad080" alt="" width="50" /> | [Chopin](../playlists/chopin/overview.md) |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album                         | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:------------------------------|:-----------------------------------------------------------|
-|                 30 | <img src="https://i.scdn.co/image/ab67616d0000b273da673657374e88d973dad080" alt="" width="50" /> | Chopin: Preludes; Sonata No.2 | [🔗](https://open.spotify.com/album/33YXJqoFV5AQwbo4yfk22n) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273cd31955199f9a2695c04b2a8" alt="" width="50" /> | Martha Argerich Live, Vol. 4  | [🔗](https://open.spotify.com/album/69aoRIAIVb2TbIuxmxKYCR) |
+|   Number of Tracks | Art                                                                                              | Album                         | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:------------------------------|:---------------|:-----------------------------------------------------------|
+|                 30 | <img src="https://i.scdn.co/image/ab67616d0000b273da673657374e88d973dad080" alt="" width="50" /> | Chopin: Preludes; Sonata No.2 | 2002-01-01     | [🔗](https://open.spotify.com/album/33YXJqoFV5AQwbo4yfk22n) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273cd31955199f9a2695c04b2a8" alt="" width="50" /> | Martha Argerich Live, Vol. 4  | 2017-01-20     | [🔗](https://open.spotify.com/album/69aoRIAIVb2TbIuxmxKYCR) |
 
 ## Top Record Labels
 

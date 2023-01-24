@@ -10,9 +10,9 @@
 |                 29 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731d9ef8e92370053b06f8c9ecab67616d0000b2737368d9506efe9c2d556d9e98ab67616d0000b2737cb0c702a8fd45bfd8358259ab67616d0000b273ff17a9c684ec4757c8c026b0" alt="" width="50" /> | [String Quartets](../playlists/string_quartets/overview.md) |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album                                                 | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:------------------------------------------------------|:-----------------------------------------------------------|
-|                 29 | <img src="https://i.scdn.co/image/ab67616d0000b273ff17a9c684ec4757c8c026b0" alt="" width="50" /> | Shostakovich: String Quartets Nos. 1, 4, 6, 8, 9 & 11 | [🔗](https://open.spotify.com/album/4V2YVRjysd08RF0GLRDDK7) |
+|   Number of Tracks | Art                                                                                              | Album                                                 |   Release Date | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:------------------------------------------------------|---------------:|:-----------------------------------------------------------|
+|                 29 | <img src="https://i.scdn.co/image/ab67616d0000b273ff17a9c684ec4757c8c026b0" alt="" width="50" /> | Shostakovich: String Quartets Nos. 1, 4, 6, 8, 9 & 11 |           2005 | [🔗](https://open.spotify.com/album/4V2YVRjysd08RF0GLRDDK7) |
 
 ## Top Record Labels
 

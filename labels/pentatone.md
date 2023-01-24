@@ -30,10 +30,10 @@ Appears as:
 <details>
 <summary>See all 2 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                     | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:------------------------------------------|:-----------------------------------------------------------|
-|                 12 | <img src="https://i.scdn.co/image/ab67616d0000b2732266fb9b5484a5dc280e5bff" alt="" width="50" /> | Beethoven: Piano Sonatas Nos. 1-3         | [🔗](https://open.spotify.com/album/5CjMjZJnjdHHgwAVkqrvXq) |
-|                  9 | <img src="https://i.scdn.co/image/ab67616d0000b2730b9ae3f056fa16819bc9dd48" alt="" width="50" /> | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | [🔗](https://open.spotify.com/album/478l1JdqbqDzcmmgrqw2zu) |
+|   Number of Tracks | Art                                                                                              | Album                                     | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                 12 | <img src="https://i.scdn.co/image/ab67616d0000b2732266fb9b5484a5dc280e5bff" alt="" width="50" /> | Beethoven: Piano Sonatas Nos. 1-3         | 2008-01-01     | [🔗](https://open.spotify.com/album/5CjMjZJnjdHHgwAVkqrvXq) |
+|                  9 | <img src="https://i.scdn.co/image/ab67616d0000b2730b9ae3f056fa16819bc9dd48" alt="" width="50" /> | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | 2012-03-06     | [🔗](https://open.spotify.com/album/478l1JdqbqDzcmmgrqw2zu) |
 
 </details>
 

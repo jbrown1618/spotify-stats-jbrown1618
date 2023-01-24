@@ -79,23 +79,23 @@
 <details>
 <summary>See all 15 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                                                                                                | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------|
-|                 15 | <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="" width="50" /> | Rachmaninov: Vespers - All Night Vigil                                                                               | [🔗](https://open.spotify.com/album/7hqotgNjEJt09XiggaMI1v) |
-|                 14 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | Karajan - Mozart                                                                                                     | [🔗](https://open.spotify.com/album/1HSJhsMIW2EDD4YSSkbc9e) |
-|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="" width="50" /> | Poulenc: Motets and Mass                                                                                             | [🔗](https://open.spotify.com/album/6czmOzWnyfS71jDpRxZDam) |
-|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="" width="50" /> | Light & Gold                                                                                                         | [🔗](https://open.spotify.com/album/2hnquPCPDsr3Srk64rdeVS) |
-|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b2735f71322acbf611462ffc03d5" alt="" width="50" /> | Fauré: Requiem; Pavane                                                                                               | [🔗](https://open.spotify.com/album/0mhVHXJrGE5WUA58CJLf29) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273efbc193171a2f99fe94911c6" alt="" width="50" /> | Folk Songs Of The British Isles                                                                                      | [🔗](https://open.spotify.com/album/7eFKaVzp6K60oBnB2kTjwV) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273e3e10be41297c622a0ec2e0d" alt="" width="50" /> | Tchaikovsky: Sacred Choral Music                                                                                     | [🔗](https://open.spotify.com/album/4udN7bCLaa8zCnaIvoxzOB) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273397c1f0c407ebd9a318b25fa" alt="" width="50" /> | Allegri - Miserere                                                                                                   | [🔗](https://open.spotify.com/album/6DXPSePAsqcD40WQsSnasD) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732ef4105bd054322c9e1dab7f" alt="" width="50" /> | Rachmaninoff & Poulenc: Blue Bird                                                                                    | [🔗](https://open.spotify.com/album/7LfArBzkgp1PPDGDGSYWaR) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273609d14b25e86640a2a69c534" alt="" width="50" /> | Purcell : Anthems & Sacred Songs [Evening Prayer]                                                                    | [🔗](https://open.spotify.com/album/7K8qhv7euF0xd6DiqoReDK) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d782656735b33a18ac499ee6" alt="" width="50" /> | Our Heart's Joy: A Chanticleer Christmas                                                                             | [🔗](https://open.spotify.com/album/7mdIzxZmqt54mv5wx3drAf) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730c8397c0c79c33e6f350ee52" alt="" width="50" /> | Fauré/Duruflé/Messiaen                                                                                               | [🔗](https://open.spotify.com/album/2kJvD9jzU5n9dmNj9FoyQ8) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ab85af946bb4b89695c7c60c" alt="" width="50" /> | Choral Music - Bainton, E. / Thompson, R. / Mozart, W.A. / Casals, P. / Mendelssohn, Felix / Parry, H. / Durufle, M. | [🔗](https://open.spotify.com/album/2ZcxORUFkzrpjZ7DrSmNkT) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ddf2fb18947ce57d0005f626" alt="" width="50" /> | Bruckner: Mass in E Minor & Motets                                                                                   | [🔗](https://open.spotify.com/album/13eAUvw0Ga3BBFsf6oxF46) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273173d17db2abbefa4569b4dca" alt="" width="50" /> | Allegri Miserere                                                                                                     | [🔗](https://open.spotify.com/album/3fvFlaBBbAFO0QCrSTbfaU) |
+|   Number of Tracks | Art                                                                                              | Album                                                                                                                | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                 15 | <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="" width="50" /> | Rachmaninov: Vespers - All Night Vigil                                                                               | 1994           | [🔗](https://open.spotify.com/album/7hqotgNjEJt09XiggaMI1v) |
+|                 14 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | Karajan - Mozart                                                                                                     | 2020-06-16     | [🔗](https://open.spotify.com/album/1HSJhsMIW2EDD4YSSkbc9e) |
+|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="" width="50" /> | Poulenc: Motets and Mass                                                                                             | 2013-01-30     | [🔗](https://open.spotify.com/album/6czmOzWnyfS71jDpRxZDam) |
+|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="" width="50" /> | Light & Gold                                                                                                         | 2010-01-01     | [🔗](https://open.spotify.com/album/2hnquPCPDsr3Srk64rdeVS) |
+|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b2735f71322acbf611462ffc03d5" alt="" width="50" /> | Fauré: Requiem; Pavane                                                                                               | 2008-01-01     | [🔗](https://open.spotify.com/album/0mhVHXJrGE5WUA58CJLf29) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273efbc193171a2f99fe94911c6" alt="" width="50" /> | Folk Songs Of The British Isles                                                                                      | 1993-07-24     | [🔗](https://open.spotify.com/album/7eFKaVzp6K60oBnB2kTjwV) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273e3e10be41297c622a0ec2e0d" alt="" width="50" /> | Tchaikovsky: Sacred Choral Music                                                                                     | 2016-07-01     | [🔗](https://open.spotify.com/album/4udN7bCLaa8zCnaIvoxzOB) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273397c1f0c407ebd9a318b25fa" alt="" width="50" /> | Allegri - Miserere                                                                                                   | 1994-02-15     | [🔗](https://open.spotify.com/album/6DXPSePAsqcD40WQsSnasD) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732ef4105bd054322c9e1dab7f" alt="" width="50" /> | Rachmaninoff & Poulenc: Blue Bird                                                                                    | 2014-01-10     | [🔗](https://open.spotify.com/album/7LfArBzkgp1PPDGDGSYWaR) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273609d14b25e86640a2a69c534" alt="" width="50" /> | Purcell : Anthems & Sacred Songs [Evening Prayer]                                                                    | 2003-08-29     | [🔗](https://open.spotify.com/album/7K8qhv7euF0xd6DiqoReDK) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d782656735b33a18ac499ee6" alt="" width="50" /> | Our Heart's Joy: A Chanticleer Christmas                                                                             | 2008-11-11     | [🔗](https://open.spotify.com/album/7mdIzxZmqt54mv5wx3drAf) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730c8397c0c79c33e6f350ee52" alt="" width="50" /> | Fauré/Duruflé/Messiaen                                                                                               | 1989           | [🔗](https://open.spotify.com/album/2kJvD9jzU5n9dmNj9FoyQ8) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ab85af946bb4b89695c7c60c" alt="" width="50" /> | Choral Music - Bainton, E. / Thompson, R. / Mozart, W.A. / Casals, P. / Mendelssohn, Felix / Parry, H. / Durufle, M. | 2004-01-01     | [🔗](https://open.spotify.com/album/2ZcxORUFkzrpjZ7DrSmNkT) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ddf2fb18947ce57d0005f626" alt="" width="50" /> | Bruckner: Mass in E Minor & Motets                                                                                   | 2002           | [🔗](https://open.spotify.com/album/13eAUvw0Ga3BBFsf6oxF46) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273173d17db2abbefa4569b4dca" alt="" width="50" /> | Allegri Miserere                                                                                                     | 2006-10-03     | [🔗](https://open.spotify.com/album/3fvFlaBBbAFO0QCrSTbfaU) |
 
 </details>
 
@@ -168,95 +168,113 @@
 </details>
 
 
+## Years
+
+
+
+
+
+| 10 newest albums                                                                                                                                                                                                                                                                                                                                                                                                                                    | 10 oldest albums                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> <span style="padding-left:10px;">Karajan - Mozart (2020-06-16)</span></div>                                                                                                                                                                                                         | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2730c8397c0c79c33e6f350ee52" alt="Fauré/Duruflé/Messiaen" width="50" /> <span style="padding-left:10px;">Fauré/Duruflé/Messiaen (1989)</span></div>                                                                                                                                                                                                   |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e3e10be41297c622a0ec2e0d" alt="Tchaikovsky: Sacred Choral Music" width="50" /> <span style="padding-left:10px;">Tchaikovsky: Sacred Choral Music (2016-07-01)</span></div>                                                                                                                                                                         | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273efbc193171a2f99fe94911c6" alt="Folk Songs Of The British Isles" width="50" /> <span style="padding-left:10px;">Folk Songs Of The British Isles (1993-07-24)</span></div>                                                                                                                                                                           |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732ef4105bd054322c9e1dab7f" alt="Rachmaninoff & Poulenc: Blue Bird" width="50" /> <span style="padding-left:10px;">Rachmaninoff & Poulenc: Blue Bird (2014-01-10)</span></div>                                                                                                                                                                       | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> <span style="padding-left:10px;">Rachmaninov: Vespers - All Night Vigil (1994)</span></div>                                                                                                                                                                   |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="Poulenc: Motets and Mass" width="50" /> <span style="padding-left:10px;">Poulenc: Motets and Mass (2013-01-30)</span></div>                                                                                                                                                                                         | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273397c1f0c407ebd9a318b25fa" alt="Allegri - Miserere" width="50" /> <span style="padding-left:10px;">Allegri - Miserere (1994-02-15)</span></div>                                                                                                                                                                                                     |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="Light & Gold" width="50" /> <span style="padding-left:10px;">Light & Gold (2010-01-01)</span></div>                                                                                                                                                                                                                 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ddf2fb18947ce57d0005f626" alt="Bruckner: Mass in E Minor & Motets" width="50" /> <span style="padding-left:10px;">Bruckner: Mass in E Minor & Motets (2002)</span></div>                                                                                                                                                                           |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d782656735b33a18ac499ee6" alt="Our Heart's Joy: A Chanticleer Christmas" width="50" /> <span style="padding-left:10px;">Our Heart's Joy: A Chanticleer Christmas (2008-11-11)</span></div>                                                                                                                                                         | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273609d14b25e86640a2a69c534" alt="Purcell : Anthems & Sacred Songs [Evening Prayer]" width="50" /> <span style="padding-left:10px;">Purcell : Anthems & Sacred Songs [Evening Prayer] (2003-08-29)</span></div>                                                                                                                                       |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2735f71322acbf611462ffc03d5" alt="Fauré: Requiem; Pavane" width="50" /> <span style="padding-left:10px;">Fauré: Requiem; Pavane (2008-01-01)</span></div>                                                                                                                                                                                             | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ab85af946bb4b89695c7c60c" alt="Choral Music - Bainton, E. / Thompson, R. / Mozart, W.A. / Casals, P. / Mendelssohn, Felix / Parry, H. / Durufle, M." width="50" /> <span style="padding-left:10px;">Choral Music - Bainton, E. / Thompson, R. / Mozart, W.A. / Casals, P. / Mendelssohn, Felix / Parry, H. / Durufle, M. (2004-01-01)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273173d17db2abbefa4569b4dca" alt="Allegri Miserere" width="50" /> <span style="padding-left:10px;">Allegri Miserere (2006-10-03)</span></div>                                                                                                                                                                                                         | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273173d17db2abbefa4569b4dca" alt="Allegri Miserere" width="50" /> <span style="padding-left:10px;">Allegri Miserere (2006-10-03)</span></div>                                                                                                                                                                                                         |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ab85af946bb4b89695c7c60c" alt="Choral Music - Bainton, E. / Thompson, R. / Mozart, W.A. / Casals, P. / Mendelssohn, Felix / Parry, H. / Durufle, M." width="50" /> <span style="padding-left:10px;">Choral Music - Bainton, E. / Thompson, R. / Mozart, W.A. / Casals, P. / Mendelssohn, Felix / Parry, H. / Durufle, M. (2004-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2735f71322acbf611462ffc03d5" alt="Fauré: Requiem; Pavane" width="50" /> <span style="padding-left:10px;">Fauré: Requiem; Pavane (2008-01-01)</span></div>                                                                                                                                                                                             |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273609d14b25e86640a2a69c534" alt="Purcell : Anthems & Sacred Songs [Evening Prayer]" width="50" /> <span style="padding-left:10px;">Purcell : Anthems & Sacred Songs [Evening Prayer] (2003-08-29)</span></div>                                                                                                                                       | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d782656735b33a18ac499ee6" alt="Our Heart's Joy: A Chanticleer Christmas" width="50" /> <span style="padding-left:10px;">Our Heart's Joy: A Chanticleer Christmas (2008-11-11)</span></div>                                                                                                                                                         |
 ## Audio Features
 
 | 10 most Danceable tracks                                                 | 10 least Danceable tracks                                               |
 |:-------------------------------------------------------------------------|:------------------------------------------------------------------------|
-| 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est  | Vespers, Op. 37: XIV. "Voskrez iz groba"                                |
-| Requiem In D Minor, K.626: 2. Kyrie                                      | Vespers, Op. 37: IV. "Svete tikhyi"                                     |
-| Requiem in D Minor, K.626: 3a. Sequientia: Dies irae                     | 4 Motets pour un temps de pénitence, FP 97: No. 3, Tenebrae factae sunt |
-| Requiem In D Minor, K.626: 4. Offertorium: Domine Jesu                   | Vespers, Op. 37: V. "Nyne otpushchayeshi"                               |
-| 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores    | Lux Aurumque                                                            |
-| Requiem In D Minor, K.626: 3. Sequentia: Rex tremendae                   | Three Songs Of Faith: Hope Faith Life Love                              |
-| 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea | Requiem In D Minor, K.626: 7. Agnus Dei                                 |
-| Loch Lomond                                                              | Requiem in D Minor, Op.48: 2. Offertorium: Domine Jesu Christe          |
-| Vespers, Op. 37: VIII. "Kvalite imya Gospodne"                           | Vespers, Op. 37: XII. "Slava v vyshnikh Bogu"                           |
-| Scarborough Fair                                                         | Ave Maria (Franz Biebl)                                                 |
+| 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est  | Ave Maria (Franz Biebl)                                                 |
+| Requiem In D Minor, K.626: 2. Kyrie                                      | Vespers, Op. 37: XII. "Slava v vyshnikh Bogu"                           |
+| Requiem in D Minor, K.626: 3a. Sequientia: Dies irae                     | Requiem in D Minor, Op.48: 2. Offertorium: Domine Jesu Christe          |
+| Requiem In D Minor, K.626: 4. Offertorium: Domine Jesu                   | Requiem In D Minor, K.626: 7. Agnus Dei                                 |
+| 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores    | Three Songs Of Faith: Hope Faith Life Love                              |
+| Requiem In D Minor, K.626: 3. Sequentia: Rex tremendae                   | Lux Aurumque                                                            |
+| 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea | Vespers, Op. 37: V. "Nyne otpushchayeshi"                               |
+| Loch Lomond                                                              | 4 Motets pour un temps de pénitence, FP 97: No. 3, Tenebrae factae sunt |
+| Vespers, Op. 37: VIII. "Kvalite imya Gospodne"                           | Vespers, Op. 37: IV. "Svete tikhyi"                                     |
+| Scarborough Fair                                                         | Vespers, Op. 37: XIV. "Voskrez iz groba"                                |
 
 | 10 most Energetic tracks                                                | 10 least Energetic tracks                                         |
 |:------------------------------------------------------------------------|:------------------------------------------------------------------|
-| Requiem in D Minor, K.626: 3a. Sequientia: Dies irae                    | Requiem in D Minor, Op.48: 1. Introitus: Requiem aeternam - Kyrie |
-| Vespers, Op. 37: XV. "Vzbrannoy voevode"                                | Hear my prayer, O Lord                                            |
-| Requiem In D Minor, K.626: 5. Sanctus                                   | Vespers, Op. 37: V. "Nyne otpushchayeshi"                         |
-| Requiem In D Minor, K.626: 2. Kyrie                                     | The Seal Lullaby                                                  |
-| Vespers, Op. 37: VIII. "Kvalite imya Gospodne"                          | Miserere mei, Deus                                                |
-| Requiem In D Minor, K.626: 8.Communio: Lux aeterna                      | Requiem in D Minor, Op.48: 7. In paradisum                        |
-| 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est | Requiem In D Minor, K.626: 3. Sequentia: Confutatis               |
-| Requiem In D Minor, K.626: 4. Offertorium: Domine Jesu                  | Vespers, Op. 37: III. "Blazhen muzh"                              |
-| Requiem In D Minor, K.626: 3. Sequentia: Rex tremendae                  | Requiem in D Minor, Op. 48: 4. Pie Jesu                           |
-| 4 Motets pour un temps de pénitence, FP 97: No. 1, Timor et tremor      | Quatre Motets: Ubi Caritas                                        |
+| Requiem in D Minor, K.626: 3a. Sequientia: Dies irae                    | Quatre Motets: Ubi Caritas                                        |
+| Vespers, Op. 37: XV. "Vzbrannoy voevode"                                | Requiem in D Minor, Op. 48: 4. Pie Jesu                           |
+| Requiem In D Minor, K.626: 5. Sanctus                                   | Vespers, Op. 37: III. "Blazhen muzh"                              |
+| Requiem In D Minor, K.626: 2. Kyrie                                     | Requiem In D Minor, K.626: 3. Sequentia: Confutatis               |
+| Vespers, Op. 37: VIII. "Kvalite imya Gospodne"                          | Requiem in D Minor, Op.48: 7. In paradisum                        |
+| Requiem In D Minor, K.626: 8.Communio: Lux aeterna                      | Miserere mei, Deus                                                |
+| 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est | The Seal Lullaby                                                  |
+| Requiem In D Minor, K.626: 4. Offertorium: Domine Jesu                  | Vespers, Op. 37: V. "Nyne otpushchayeshi"                         |
+| Requiem In D Minor, K.626: 3. Sequentia: Rex tremendae                  | Hear my prayer, O Lord                                            |
+| 4 Motets pour un temps de pénitence, FP 97: No. 1, Timor et tremor      | Requiem in D Minor, Op.48: 1. Introitus: Requiem aeternam - Kyrie |
 
 | 10 most Speechy tracks                                                   | 10 least Speechy tracks                                |
 |:-------------------------------------------------------------------------|:-------------------------------------------------------|
-| 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea | Scarborough Fair                                       |
-| Greensleeves                                                             | Requiem In D Minor, K.626: 1. Introitus: Requiem       |
-| 4 Motets pour le temps de Noël, FP 152: No. 3, Videntes stellam          | Vespers, Op. 37: III. "Blazhen muzh"                   |
-| Vespers, Op. 37: XII. "Slava v vyshnikh Bogu"                            | Requiem in D Minor, K.626: 3a. Sequientia: Dies irae   |
-| Lux Aurumque                                                             | Requiem In D Minor, K.626: 8.Communio: Lux aeterna     |
-| 9 Sacred Pieces, TH 78: No. 1, Cherubic Hymn No. 1                       | Requiem In D Minor, K.626: 4. Offertorium: Hostias     |
-| Vespers, Op. 37: II. "Blagoslovi dushe moya"                             | Requiem In D Minor, K.626: 3. Sequentia: Rex tremendae |
-| Vespers, Op. 37: XI. "Velichit dusha moya Gospoda"                       | Requiem In D Minor, K.626: 2. Kyrie                    |
-| Requiem In D Minor, K.626: 3. Sequentia: Tuba mirum                      | Requiem In D Minor, K.626: 5. Sanctus                  |
-| Loch Lomond                                                              | Requiem In D Minor, K.626: 4. Offertorium: Domine Jesu |
+| 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea | Requiem In D Minor, K.626: 4. Offertorium: Domine Jesu |
+| Greensleeves                                                             | Requiem In D Minor, K.626: 5. Sanctus                  |
+| 4 Motets pour le temps de Noël, FP 152: No. 3, Videntes stellam          | Requiem In D Minor, K.626: 2. Kyrie                    |
+| Vespers, Op. 37: XII. "Slava v vyshnikh Bogu"                            | Requiem In D Minor, K.626: 3. Sequentia: Rex tremendae |
+| Lux Aurumque                                                             | Requiem In D Minor, K.626: 4. Offertorium: Hostias     |
+| 9 Sacred Pieces, TH 78: No. 1, Cherubic Hymn No. 1                       | Requiem In D Minor, K.626: 8.Communio: Lux aeterna     |
+| Vespers, Op. 37: II. "Blagoslovi dushe moya"                             | Requiem in D Minor, K.626: 3a. Sequientia: Dies irae   |
+| Vespers, Op. 37: XI. "Velichit dusha moya Gospoda"                       | Vespers, Op. 37: III. "Blazhen muzh"                   |
+| Requiem In D Minor, K.626: 3. Sequentia: Tuba mirum                      | Requiem In D Minor, K.626: 1. Introitus: Requiem       |
+| Loch Lomond                                                              | Scarborough Fair                                       |
 
 | 10 most Acoustic tracks                                                 | 10 least Acoustic tracks                                       |
 |:------------------------------------------------------------------------|:---------------------------------------------------------------|
-| Vespers, Op. 37: XV. "Vzbrannoy voevode"                                | Greensleeves                                                   |
-| 4 Motets pour un temps de pénitence, FP 97: No. 2, Vinea mea electa     | Requiem In D Minor, K.626: 3. Sequentia: Rex tremendae         |
-| Vespers, Op. 37: VIII. "Kvalite imya Gospodne"                          | Requiem in D Minor, Op.48: 2. Offertorium: Domine Jesu Christe |
-| 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est | Requiem in D Minor, Op.48: 3. Sanctus                          |
-| Vespers, Op. 37: I. "Priidite, poklonimsya"                             | Loch Lomond                                                    |
-| 4 Motets pour un temps de pénitence, FP 97: No. 1, Timor et tremor      | Danny Boy                                                      |
-| 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores   | Scarborough Fair                                               |
-| 9 Sacred Pieces, TH 78: No. 3, Cherubic Hymn No. 3                      | Requiem in D Minor, K.626: 3a. Sequientia: Dies irae           |
-| 4 Motets pour le temps de Noël, FP 152: No. 3, Videntes stellam         | Requiem In D Minor, K.626: 5. Sanctus                          |
-| Alleluia                                                                | Ave Maria (Franz Biebl)                                        |
+| Vespers, Op. 37: XV. "Vzbrannoy voevode"                                | Ave Maria (Franz Biebl)                                        |
+| 4 Motets pour un temps de pénitence, FP 97: No. 2, Vinea mea electa     | Requiem In D Minor, K.626: 5. Sanctus                          |
+| Vespers, Op. 37: VIII. "Kvalite imya Gospodne"                          | Requiem in D Minor, K.626: 3a. Sequientia: Dies irae           |
+| 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est | Scarborough Fair                                               |
+| Vespers, Op. 37: I. "Priidite, poklonimsya"                             | Danny Boy                                                      |
+| 4 Motets pour un temps de pénitence, FP 97: No. 1, Timor et tremor      | Loch Lomond                                                    |
+| 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores   | Requiem in D Minor, Op.48: 3. Sanctus                          |
+| 9 Sacred Pieces, TH 78: No. 3, Cherubic Hymn No. 3                      | Requiem in D Minor, Op.48: 2. Offertorium: Domine Jesu Christe |
+| 4 Motets pour le temps de Noël, FP 152: No. 3, Videntes stellam         | Requiem In D Minor, K.626: 3. Sequentia: Rex tremendae         |
+| Alleluia                                                                | Greensleeves                                                   |
 
 | 10 most Instrumental tracks                                       | 10 least Instrumental tracks                                            |
 |:------------------------------------------------------------------|:------------------------------------------------------------------------|
-| Vespers, Op. 37: XIV. "Voskrez iz groba"                          | Miserere                                                                |
-| Vespers, Op. 37: VI. "Bogoroditse Devo"                           | 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores   |
-| Requiem in D Minor, Op.48: 7. In paradisum                        | Requiem In D Minor, K.626: 6. Benedictus                                |
-| Lux Aurumque                                                      | Quatre Motets: Ubi Caritas                                              |
-| Requiem in D Minor, Op.48: 3. Sanctus                             | Requiem In D Minor, K.626: 3. Sequentia: Tuba mirum                     |
-| Requiem In D Minor, K.626: 3. Sequentia: Confutatis               | Requiem In D Minor, K.626: 3. Sequentia: Recordare                      |
-| Requiem in D Minor, Op. 48: 4. Pie Jesu                           | 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est |
-| Requiem in D Minor, Op.48: 1. Introitus: Requiem aeternam - Kyrie | Scarborough Fair                                                        |
-| Requiem In D Minor, K.626: 7. Agnus Dei                           | Loch Lomond                                                             |
-| Vespers, Op. 37: IV. "Svete tikhyi"                               | Danny Boy                                                               |
+| Vespers, Op. 37: XIV. "Voskrez iz groba"                          | Danny Boy                                                               |
+| Vespers, Op. 37: VI. "Bogoroditse Devo"                           | Loch Lomond                                                             |
+| Requiem in D Minor, Op.48: 7. In paradisum                        | Scarborough Fair                                                        |
+| Lux Aurumque                                                      | 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est |
+| Requiem in D Minor, Op.48: 3. Sanctus                             | Requiem In D Minor, K.626: 3. Sequentia: Recordare                      |
+| Requiem In D Minor, K.626: 3. Sequentia: Confutatis               | Requiem In D Minor, K.626: 3. Sequentia: Tuba mirum                     |
+| Requiem in D Minor, Op. 48: 4. Pie Jesu                           | Quatre Motets: Ubi Caritas                                              |
+| Requiem in D Minor, Op.48: 1. Introitus: Requiem aeternam - Kyrie | Requiem In D Minor, K.626: 6. Benedictus                                |
+| Requiem In D Minor, K.626: 7. Agnus Dei                           | 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores   |
+| Vespers, Op. 37: IV. "Svete tikhyi"                               | Miserere                                                                |
 
 | 10 most Live tracks                                                   | 10 least Live tracks                               |
 |:----------------------------------------------------------------------|:---------------------------------------------------|
-| Requiem In D Minor, K.626: 3. Sequentia: Recordare                    | Alleluia                                           |
-| Requiem in D Minor, K.626: 3a. Sequientia: Dies irae                  | Vespers, Op. 37: I. "Priidite, poklonimsya"        |
-| Leonardo Dreams Of His Flying Machine                                 | Requiem In D Minor, K.626: 8.Communio: Lux aeterna |
-| 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores | 9 Sacred Pieces, TH 78: No. 3, Cherubic Hymn No. 3 |
-| Sleep                                                                 | Vespers, Op. 37: XII. "Slava v vyshnikh Bogu"      |
-| Three Songs Of Faith: I Will Wade Out                                 | Vespers, Op. 37: II. "Blagoslovi dushe moya"       |
-| Requiem In D Minor, K.626: 4. Offertorium: Hostias                    | Unicornis Captivatur                               |
-| Requiem In D Minor, K.626: 4. Offertorium: Domine Jesu                | 9 Sacred Pieces, TH 78: No. 2, Cherubic Hymn No. 2 |
-| Vespers, Op. 37: XIII. "Dnes spaseniye"                               | Ave María, WAB 6                                   |
-| Danny Boy                                                             | Requiem in D Minor, Op.48: 7. In paradisum         |
+| Requiem In D Minor, K.626: 3. Sequentia: Recordare                    | Requiem in D Minor, Op.48: 7. In paradisum         |
+| Requiem in D Minor, K.626: 3a. Sequientia: Dies irae                  | Ave María, WAB 6                                   |
+| Leonardo Dreams Of His Flying Machine                                 | 9 Sacred Pieces, TH 78: No. 2, Cherubic Hymn No. 2 |
+| 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores | Unicornis Captivatur                               |
+| Sleep                                                                 | Vespers, Op. 37: II. "Blagoslovi dushe moya"       |
+| Three Songs Of Faith: I Will Wade Out                                 | Vespers, Op. 37: XII. "Slava v vyshnikh Bogu"      |
+| Requiem In D Minor, K.626: 4. Offertorium: Hostias                    | 9 Sacred Pieces, TH 78: No. 3, Cherubic Hymn No. 3 |
+| Requiem In D Minor, K.626: 4. Offertorium: Domine Jesu                | Requiem In D Minor, K.626: 8.Communio: Lux aeterna |
+| Vespers, Op. 37: XIII. "Dnes spaseniye"                               | Vespers, Op. 37: I. "Priidite, poklonimsya"        |
+| Danny Boy                                                             | Alleluia                                           |
 
 | 10 most Happy tracks                                                    | 10 least Happy tracks                                             |
 |:------------------------------------------------------------------------|:------------------------------------------------------------------|
-| Requiem in D Minor, K.626: 3a. Sequientia: Dies irae                    | Ave María, WAB 6                                                  |
-| Requiem In D Minor, K.626: 2. Kyrie                                     | Vespers, Op. 37: IV. "Svete tikhyi"                               |
-| 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est | Requiem in D Minor, Op. 48: 4. Pie Jesu                           |
-| 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores   | Requiem in D Minor, Op.48: 1. Introitus: Requiem aeternam - Kyrie |
-| Scarborough Fair                                                        | Water Night                                                       |
-| Requiem In D Minor, K.626: 3. Sequentia: Rex tremendae                  | Three Songs Of Faith: I Thank You God For Most This Amazing Day   |
-| Requiem In D Minor, K.626: 4. Offertorium: Domine Jesu                  | Sleep                                                             |
-| Requiem In D Minor, K.626: 5. Sanctus                                   | Miserere mei, Deus                                                |
-| Requiem In D Minor, K.626: 6. Benedictus                                | Three Songs Of Faith: Hope Faith Life Love                        |
-| Greensleeves                                                            | Lux Aurumque                                                      |
+| Requiem in D Minor, K.626: 3a. Sequientia: Dies irae                    | Lux Aurumque                                                      |
+| Requiem In D Minor, K.626: 2. Kyrie                                     | Three Songs Of Faith: Hope Faith Life Love                        |
+| 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est | Miserere mei, Deus                                                |
+| 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores   | Sleep                                                             |
+| Scarborough Fair                                                        | Three Songs Of Faith: I Thank You God For Most This Amazing Day   |
+| Requiem In D Minor, K.626: 3. Sequentia: Rex tremendae                  | Water Night                                                       |
+| Requiem In D Minor, K.626: 4. Offertorium: Domine Jesu                  | Requiem in D Minor, Op.48: 1. Introitus: Requiem aeternam - Kyrie |
+| Requiem In D Minor, K.626: 5. Sanctus                                   | Requiem in D Minor, Op. 48: 4. Pie Jesu                           |
+| Requiem In D Minor, K.626: 6. Benedictus                                | Vespers, Op. 37: IV. "Svete tikhyi"                               |
+| Greensleeves                                                            | Ave María, WAB 6                                                  |

@@ -36,11 +36,11 @@ Appears as:
 <details>
 <summary>See all 3 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                 | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------|:-----------------------------------------------------------|
-|                 18 | <img src="https://i.scdn.co/image/ab67616d0000b273203bf132896e0a4be9638dda" alt="" width="50" /> | Vivaldi: Four Seasons | [🔗](https://open.spotify.com/album/4Uc1Cus3I9LjkI2XwtQnfc) |
-|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="" width="50" /> | Light & Gold          | [🔗](https://open.spotify.com/album/2hnquPCPDsr3Srk64rdeVS) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734b20e4a8e06f19bcd51a5406" alt="" width="50" /> | Bombs Away            | [🔗](https://open.spotify.com/album/2Yi29VOccHCwktsZNqtxbt) |
+|   Number of Tracks | Art                                                                                              | Album                 | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------|:---------------|:-----------------------------------------------------------|
+|                 18 | <img src="https://i.scdn.co/image/ab67616d0000b273203bf132896e0a4be9638dda" alt="" width="50" /> | Vivaldi: Four Seasons | 2008-01-01     | [🔗](https://open.spotify.com/album/4Uc1Cus3I9LjkI2XwtQnfc) |
+|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="" width="50" /> | Light & Gold          | 2010-01-01     | [🔗](https://open.spotify.com/album/2hnquPCPDsr3Srk64rdeVS) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734b20e4a8e06f19bcd51a5406" alt="" width="50" /> | Bombs Away            | 2015-03-10     | [🔗](https://open.spotify.com/album/2Yi29VOccHCwktsZNqtxbt) |
 
 </details>
 

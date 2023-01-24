@@ -83,22 +83,22 @@
 <details>
 <summary>See all 14 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                                                             | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------|:-----------------------------------------------------------|
-|                115 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | Karajan - Mozart                                                                  | [🔗](https://open.spotify.com/album/1HSJhsMIW2EDD4YSSkbc9e) |
-|                 94 | <img src="https://i.scdn.co/image/ab67616d0000b273c18e2114a3a3ef543635197a" alt="" width="50" /> | Beethoven: The Piano Sonatas                                                      | [🔗](https://open.spotify.com/album/7xbsSOswKgms1fUFuwKArz) |
-|                 71 | <img src="https://i.scdn.co/image/ab67616d0000b27325641d502a60b6ef9c235c29" alt="" width="50" /> | Beethoven: Complete String Quartets                                               | [🔗](https://open.spotify.com/album/4JhUG1lr4xztAcqyA0Jm3a) |
-|                 42 | <img src="https://i.scdn.co/image/ab67616d0000b27370426e24663b43f11ebd9c24" alt="" width="50" /> | Beethoven: 9 Symphonies; Overtures                                                | [🔗](https://open.spotify.com/album/2DQTNTznsteIZciZdyeWdj) |
-|                 24 | <img src="https://i.scdn.co/image/ab67616d0000b273eac9461ed0b585b1d2ad7ee2" alt="" width="50" /> | Beethoven: String Quartets, Op. 18                                                | [🔗](https://open.spotify.com/album/37iUq5Dekt8uP5itTiVs2Q) |
-|                 20 | <img src="https://i.scdn.co/image/ab67616d0000b273a78d6aa51909744b78778902" alt="" width="50" /> | Mozart Piano Pieces                                                               | [🔗](https://open.spotify.com/album/3AYEvo7R1gY4O5xJuMwy3U) |
-|                 12 | <img src="https://i.scdn.co/image/ab67616d0000b2737368d9506efe9c2d556d9e98" alt="" width="50" /> | Haydn: String Quartets                                                            | [🔗](https://open.spotify.com/album/1rNGG2I3AKJy9FWqUiitkc) |
-|                 12 | <img src="https://i.scdn.co/image/ab67616d0000b2732266fb9b5484a5dc280e5bff" alt="" width="50" /> | Beethoven: Piano Sonatas Nos. 1-3                                                 | [🔗](https://open.spotify.com/album/5CjMjZJnjdHHgwAVkqrvXq) |
-|                 11 | <img src="https://i.scdn.co/image/ab67616d0000b2731d9ef8e92370053b06f8c9ec" alt="" width="50" /> | Mozart: String Quartets Nos. 4, 17 & 22                                           | [🔗](https://open.spotify.com/album/1PxALR0DTaTJPL6ByBK266) |
-|                  9 | <img src="https://i.scdn.co/image/ab67616d0000b2730b9ae3f056fa16819bc9dd48" alt="" width="50" /> | Beethoven: Piano Sonatas Nos. 30, 31 & 32                                         | [🔗](https://open.spotify.com/album/478l1JdqbqDzcmmgrqw2zu) |
-|                  9 | <img src="https://i.scdn.co/image/ab67616d0000b2731500f9a293f0106619f16a7d" alt="" width="50" /> | Beethoven: Piano Sonatas "Moonlight"; "Appassionata"; "Pathétique"                | [🔗](https://open.spotify.com/album/0RCfE1YhkdrjnM3kXT3YLl) |
-|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273fdf2a7d7437db7a75da73167" alt="" width="50" /> | Mozart: The Piano Sonatas                                                         | [🔗](https://open.spotify.com/album/1qM2Z3rhkJLQIXnAQpIUdY) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2738f579f6adad5e766412bbd18" alt="" width="50" /> | Mozart: Symphony No. 40 in G Minor, Bassoon Concerto & Flute Serenades Nos. 1 & 3 | [🔗](https://open.spotify.com/album/3WHqaCZ66SWzL7LyYnrn9y) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27350f0e9f3fe510cfe42f5f2d9" alt="" width="50" /> | Mozart: Eine Kleine Nachtmusik etc.                                               | [🔗](https://open.spotify.com/album/5YCuibCDJrkVcS3UOAYqr9) |
+|   Number of Tracks | Art                                                                                              | Album                                                                             | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                115 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | Karajan - Mozart                                                                  | 2020-06-16     | [🔗](https://open.spotify.com/album/1HSJhsMIW2EDD4YSSkbc9e) |
+|                 94 | <img src="https://i.scdn.co/image/ab67616d0000b273c18e2114a3a3ef543635197a" alt="" width="50" /> | Beethoven: The Piano Sonatas                                                      | 1995-01-01     | [🔗](https://open.spotify.com/album/7xbsSOswKgms1fUFuwKArz) |
+|                 71 | <img src="https://i.scdn.co/image/ab67616d0000b27325641d502a60b6ef9c235c29" alt="" width="50" /> | Beethoven: Complete String Quartets                                               | 2010-10-12     | [🔗](https://open.spotify.com/album/4JhUG1lr4xztAcqyA0Jm3a) |
+|                 42 | <img src="https://i.scdn.co/image/ab67616d0000b27370426e24663b43f11ebd9c24" alt="" width="50" /> | Beethoven: 9 Symphonies; Overtures                                                | 1993-01-01     | [🔗](https://open.spotify.com/album/2DQTNTznsteIZciZdyeWdj) |
+|                 24 | <img src="https://i.scdn.co/image/ab67616d0000b273eac9461ed0b585b1d2ad7ee2" alt="" width="50" /> | Beethoven: String Quartets, Op. 18                                                | 2015-08-31     | [🔗](https://open.spotify.com/album/37iUq5Dekt8uP5itTiVs2Q) |
+|                 20 | <img src="https://i.scdn.co/image/ab67616d0000b273a78d6aa51909744b78778902" alt="" width="50" /> | Mozart Piano Pieces                                                               | 2020-10-13     | [🔗](https://open.spotify.com/album/3AYEvo7R1gY4O5xJuMwy3U) |
+|                 12 | <img src="https://i.scdn.co/image/ab67616d0000b2737368d9506efe9c2d556d9e98" alt="" width="50" /> | Haydn: String Quartets                                                            | 2008-01-01     | [🔗](https://open.spotify.com/album/1rNGG2I3AKJy9FWqUiitkc) |
+|                 12 | <img src="https://i.scdn.co/image/ab67616d0000b2732266fb9b5484a5dc280e5bff" alt="" width="50" /> | Beethoven: Piano Sonatas Nos. 1-3                                                 | 2008-01-01     | [🔗](https://open.spotify.com/album/5CjMjZJnjdHHgwAVkqrvXq) |
+|                 11 | <img src="https://i.scdn.co/image/ab67616d0000b2731d9ef8e92370053b06f8c9ec" alt="" width="50" /> | Mozart: String Quartets Nos. 4, 17 & 22                                           | 2011-02-22     | [🔗](https://open.spotify.com/album/1PxALR0DTaTJPL6ByBK266) |
+|                  9 | <img src="https://i.scdn.co/image/ab67616d0000b2730b9ae3f056fa16819bc9dd48" alt="" width="50" /> | Beethoven: Piano Sonatas Nos. 30, 31 & 32                                         | 2012-03-06     | [🔗](https://open.spotify.com/album/478l1JdqbqDzcmmgrqw2zu) |
+|                  9 | <img src="https://i.scdn.co/image/ab67616d0000b2731500f9a293f0106619f16a7d" alt="" width="50" /> | Beethoven: Piano Sonatas "Moonlight"; "Appassionata"; "Pathétique"                | 1983-01-01     | [🔗](https://open.spotify.com/album/0RCfE1YhkdrjnM3kXT3YLl) |
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273fdf2a7d7437db7a75da73167" alt="" width="50" /> | Mozart: The Piano Sonatas                                                         | 1981-01-01     | [🔗](https://open.spotify.com/album/1qM2Z3rhkJLQIXnAQpIUdY) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2738f579f6adad5e766412bbd18" alt="" width="50" /> | Mozart: Symphony No. 40 in G Minor, Bassoon Concerto & Flute Serenades Nos. 1 & 3 | 2017-12-08     | [🔗](https://open.spotify.com/album/3WHqaCZ66SWzL7LyYnrn9y) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27350f0e9f3fe510cfe42f5f2d9" alt="" width="50" /> | Mozart: Eine Kleine Nachtmusik etc.                                               | 1986           | [🔗](https://open.spotify.com/album/5YCuibCDJrkVcS3UOAYqr9) |
 
 </details>
 
@@ -130,91 +130,91 @@
 
 | 10 most Danceable tracks                                                          | 10 least Danceable tracks                                                        |
 |:----------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|
-| String Quartet No. 4 in C Major, K. 157: III. Presto                              | Symphony No. 6 In F, Op. 68 -"Pastoral": 2. Szene am Bach: (Andante molto mosso) |
-| Divertimento No. 11 in D, K.251 "Nannerl-Septett": Menuetto (Tema con variazioni) | Divertimento in D, K.334 - Orchestral Version: 4. Adagio                         |
-| Piano Sonata No. 12 in A flat, Op. 26: 3. Marcia funebre sulla morte d'un Eroe    | Horn Concerto No. 2 in E-Flat Major, K. 417: II. Andante                         |
-| Piano Sonata No. 11 in A Major, K. 331 "Turkish March": III. Alla turca           | String Quartet No. 8 in E Minor, Op. 59 No. 2: II. Molto adagio                  |
-| Piano Sonata No. 11 in A Major, K. 331: 3. Alla Turca. Allegretto                 | Divertimento No. 15 in B Flat Major, K. 287: IV. Adagio                          |
-| String Quartet No. 2 in G Major, Op. 18, No. 2: IV. Allegro molto, quasi presto   | Symphony No. 3 In E Flat, Op. 55 -"Eroica": 2. Marcia funebre (Adagio assai)     |
-| Piano Sonata No. 2 in A, Op. 2 No. 2: 3. Scherzo (Allegretto)                     | Requiem In D Minor, K.626: 7. Agnus Dei                                          |
-| Violin Concerto No. 3 in G Major, K. 216: III. Rondo (Allegro)                    | Horn Concerto No. 4 in E-Flat Major, K. 495: II. Romanza. Andante                |
-| Die Zauberflöte, K.620 / Act 2: "Pa-Pa-Pa-Pa-Pa-Pa-Papagena!"                     | Die Zauberflöte, K.620 / Act 2: "O Isis und Osiris, welche Wonne!"               |
-| Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 "Moonlight": II. Allegretto    | Symphony No. 9 In D Minor, Op. 125 - "Choral": 3. Adagio molto e cantabile       |
+| String Quartet No. 4 in C Major, K. 157: III. Presto                              | Symphony No. 9 In D Minor, Op. 125 - "Choral": 3. Adagio molto e cantabile       |
+| Divertimento No. 11 in D, K.251 "Nannerl-Septett": Menuetto (Tema con variazioni) | Die Zauberflöte, K.620 / Act 2: "O Isis und Osiris, welche Wonne!"               |
+| Piano Sonata No. 12 in A flat, Op. 26: 3. Marcia funebre sulla morte d'un Eroe    | Horn Concerto No. 4 in E-Flat Major, K. 495: II. Romanza. Andante                |
+| Piano Sonata No. 11 in A Major, K. 331 "Turkish March": III. Alla turca           | Requiem In D Minor, K.626: 7. Agnus Dei                                          |
+| Piano Sonata No. 11 in A Major, K. 331: 3. Alla Turca. Allegretto                 | Symphony No. 3 In E Flat, Op. 55 -"Eroica": 2. Marcia funebre (Adagio assai)     |
+| String Quartet No. 2 in G Major, Op. 18, No. 2: IV. Allegro molto, quasi presto   | Divertimento No. 15 in B Flat Major, K. 287: IV. Adagio                          |
+| Piano Sonata No. 2 in A, Op. 2 No. 2: 3. Scherzo (Allegretto)                     | String Quartet No. 8 in E Minor, Op. 59 No. 2: II. Molto adagio                  |
+| Violin Concerto No. 3 in G Major, K. 216: III. Rondo (Allegro)                    | Horn Concerto No. 2 in E-Flat Major, K. 417: II. Andante                         |
+| Die Zauberflöte, K.620 / Act 2: "Pa-Pa-Pa-Pa-Pa-Pa-Papagena!"                     | Divertimento in D, K.334 - Orchestral Version: 4. Adagio                         |
+| Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 "Moonlight": II. Allegretto    | Symphony No. 6 In F, Op. 68 -"Pastoral": 2. Szene am Bach: (Andante molto mosso) |
 
 | 10 most Energetic tracks                                                           | 10 least Energetic tracks                                                           |
 |:-----------------------------------------------------------------------------------|:------------------------------------------------------------------------------------|
-| Requiem in D Minor, K.626: 3a. Sequientia: Dies irae                               | Piano Sonata No. 25 in G, Op. 79: 2. Andante                                        |
-| Symphony No. 39 in E flat, K.543: 4. Finale (Allegro)                              | Die Zauberflöte, K.620 / Act 2: "Seid uns zum zweiten Mal willkommen"               |
-| Mass In C, K.317 "Coronation": 3. Credo                                            | Piano Sonata No. 3 in C Major, Op. 2, No. 3: II. Adagio                             |
-| Symphony No. 41 In C, K.551 - "Jupiter": 4. Molto allegro                          | Piano Sonata No. 4 in E flat, Op. 7: 2. Largo, con gran espressione                 |
-| Symphony No. 7 In A, Op. 92: 4. Allegro con brio                                   | Piano Sonata No. 2 in A, Op. 2 No. 2: 2. Largo appassionato                         |
-| Mass In C, K.317 "Coronation": 4. Sanctus                                          | Piano Sonata No. 10 in C Major, K. 330: II. Andante cantabile                       |
-| Requiem In D Minor, K.626: 5. Sanctus                                              | Piano Sonata No. 31 in A-Flat Major, Op. 110: III. Adagio ma non troppo -           |
-| Symphony No. 5 In C Minor, Op. 67: 4. Allegro                                      | Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 "Moonlight": I. Adagio sostenuto |
-| Symphony No. 9 In D Minor, Op. 125 - "Choral" / 4.: "O Freunde nicht diese Töne" - | Piano Sonata No. 31 in A flat, Op. 110: 3. Adagio ma non troppo                     |
-| Piano Sonata No. 6 in F, Op. 10 No. 2: 3. Presto                                   | Piano Sonata No. 21 in C Major, Op. 53 "Waldstein": II. Introduzione (Adagio molto) |
+| Requiem in D Minor, K.626: 3a. Sequientia: Dies irae                               | Piano Sonata No. 21 in C Major, Op. 53 "Waldstein": II. Introduzione (Adagio molto) |
+| Symphony No. 39 in E flat, K.543: 4. Finale (Allegro)                              | Piano Sonata No. 31 in A flat, Op. 110: 3. Adagio ma non troppo                     |
+| Mass In C, K.317 "Coronation": 3. Credo                                            | Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 "Moonlight": I. Adagio sostenuto |
+| Symphony No. 41 In C, K.551 - "Jupiter": 4. Molto allegro                          | Piano Sonata No. 31 in A-Flat Major, Op. 110: III. Adagio ma non troppo -           |
+| Symphony No. 7 In A, Op. 92: 4. Allegro con brio                                   | Piano Sonata No. 10 in C Major, K. 330: II. Andante cantabile                       |
+| Mass In C, K.317 "Coronation": 4. Sanctus                                          | Piano Sonata No. 2 in A, Op. 2 No. 2: 2. Largo appassionato                         |
+| Requiem In D Minor, K.626: 5. Sanctus                                              | Piano Sonata No. 4 in E flat, Op. 7: 2. Largo, con gran espressione                 |
+| Symphony No. 5 In C Minor, Op. 67: 4. Allegro                                      | Piano Sonata No. 3 in C Major, Op. 2, No. 3: II. Adagio                             |
+| Symphony No. 9 In D Minor, Op. 125 - "Choral" / 4.: "O Freunde nicht diese Töne" - | Die Zauberflöte, K.620 / Act 2: "Seid uns zum zweiten Mal willkommen"               |
+| Piano Sonata No. 6 in F, Op. 10 No. 2: 3. Presto                                   | Piano Sonata No. 25 in G, Op. 79: 2. Andante                                        |
 
 | 10 most Speechy tracks                                                                               | 10 least Speechy tracks                                    |
 |:-----------------------------------------------------------------------------------------------------|:-----------------------------------------------------------|
-| Piano Sonata No. 21 in C Major, Op. 53 "Waldstein": II. Introduzione (Adagio molto)                  | Piano Sonata No. 12 in A flat, Op. 26: 4. Allegro          |
-| Piano Sonata No. 19 in G minor, Op. 49 No. 1: 2. Rondo (Allegro)                                     | Piano Sonata No. 25 in G, Op. 79: 3. Vivace                |
-| String Quartet No. 11 in F Minor, Op. 95 "Quartetto serioso": III. Allegro assai - Vivace ma serioso | Mass In C, K.317 "Coronation": 4. Sanctus                  |
-| Symphony No. 1 In C, Op. 21: 3. Menuetto (Allegro molto e vivace)                                    | Requiem In D Minor, K.626: 8.Communio: Lux aeterna         |
-| Piano Sonata No. 12 in A flat, Op. 26: 3. Marcia funebre sulla morte d'un Eroe                       | Requiem In D Minor, K.626: 4. Offertorium: Hostias         |
-| Symphony No. 9 In D Minor, Op. 125 - "Choral" / 4.: "O Freunde nicht diese Töne" -                   | Requiem In D Minor, K.626: 3. Sequentia: Rex tremendae     |
-| String Quartet No. 6 in B-Flat Major, Op. 18 No. 6: III. Scherzo (Allegro) - Trio                    | Requiem In D Minor, K.626: 2. Kyrie                        |
-| String Quartet No. 4 in C Minor, Op. 18, No. 4: II. Andante scherzoso quasi allegretto               | Requiem In D Minor, K.626: 5. Sanctus                      |
-| Divertimento No. 11 in D, K.251 "Nannerl-Septett": Menuetto (Tema con variazioni)                    | Symphony No. 39 in E flat, K.543: 3. Menuetto (Allegretto) |
-| String Quartet in G Major, Op. 76, No. 1: III. Menuetto, Presto                                      | Requiem In D Minor, K.626: 4. Offertorium: Domine Jesu     |
+| Piano Sonata No. 21 in C Major, Op. 53 "Waldstein": II. Introduzione (Adagio molto)                  | Requiem In D Minor, K.626: 4. Offertorium: Domine Jesu     |
+| Piano Sonata No. 19 in G minor, Op. 49 No. 1: 2. Rondo (Allegro)                                     | Symphony No. 39 in E flat, K.543: 3. Menuetto (Allegretto) |
+| String Quartet No. 11 in F Minor, Op. 95 "Quartetto serioso": III. Allegro assai - Vivace ma serioso | Requiem In D Minor, K.626: 5. Sanctus                      |
+| Symphony No. 1 In C, Op. 21: 3. Menuetto (Allegro molto e vivace)                                    | Requiem In D Minor, K.626: 2. Kyrie                        |
+| Piano Sonata No. 12 in A flat, Op. 26: 3. Marcia funebre sulla morte d'un Eroe                       | Requiem In D Minor, K.626: 3. Sequentia: Rex tremendae     |
+| Symphony No. 9 In D Minor, Op. 125 - "Choral" / 4.: "O Freunde nicht diese Töne" -                   | Requiem In D Minor, K.626: 4. Offertorium: Hostias         |
+| String Quartet No. 6 in B-Flat Major, Op. 18 No. 6: III. Scherzo (Allegro) - Trio                    | Requiem In D Minor, K.626: 8.Communio: Lux aeterna         |
+| String Quartet No. 4 in C Minor, Op. 18, No. 4: II. Andante scherzoso quasi allegretto               | Mass In C, K.317 "Coronation": 4. Sanctus                  |
+| Divertimento No. 11 in D, K.251 "Nannerl-Septett": Menuetto (Tema con variazioni)                    | Piano Sonata No. 25 in G, Op. 79: 3. Vivace                |
+| String Quartet in G Major, Op. 76, No. 1: III. Menuetto, Presto                                      | Piano Sonata No. 12 in A flat, Op. 26: 4. Allegro          |
 
 | 10 most Acoustic tracks                                                   | 10 least Acoustic tracks                                                                      |
 |:--------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------|
-| Piano Sonata No. 10 in C Major, K. 330: II. Andante cantabile             | String Quartet No. 2 in G Major, Op. 18, No. 2: IV. Allegro molto, quasi presto               |
-| Piano Sonata No. 12 in F Major, K. 332: II. Adagio                        | String Quartet No. 11 in F Minor, Op. 95 "Serioso": I. Allegro con brio                       |
-| Piano Sonata No. 19 in G minor, Op. 49 No. 1: 2. Rondo (Allegro)          | String Quartet No. 16 in F Major, Op. 135: III. Lento assai, cantate e tranquillo - Più lento |
-| Piano Sonata No. 9 in E, Op. 14 No. 1: 2. Allegretto                      | String Quartet No. 15 in A minor, Op. 132: III. Molto adagio                                  |
-| Piano Sonata No. 19 in G minor, Op. 49 No. 1: 1. Andante                  | Die Zauberflöte, K.620 / Act 2: Alles fühlt der Liebe Freuden (Monostatos)                    |
-| Piano Sonata No. 31 in A-Flat Major, Op. 110: III. Adagio ma non troppo - | Symphony No. 41 In C, K.551 - "Jupiter": 4. Molto allegro                                     |
-| Piano Sonata No. 1 in F Minor, Op. 2, No. 1: III. Menuetto: Allegretto    | Symphony No. 7 In A, Op. 92: 4. Allegro con brio                                              |
-| Piano Sonata No. 16 in C Major, K. 545 "Sonata facile": II. Andante       | Serenade In G, K.525 "Eine kleine Nachtmusik": 3. Menuetto (Allegretto)                       |
-| Piano Sonata No. 9 in D Major, K. 311: II. Andante con expressione        | Symphony No. 6 In F, Op. 68 -"Pastoral": 4. Gewitter, Sturm (Allegro)                         |
-| Piano Sonata No. 25 in G, Op. 79: 2. Andante                              | Die Zauberflöte, K.620 / Act 2: Ein Mädchen oder Weibchen (Papageno)                          |
+| Piano Sonata No. 10 in C Major, K. 330: II. Andante cantabile             | Die Zauberflöte, K.620 / Act 2: Ein Mädchen oder Weibchen (Papageno)                          |
+| Piano Sonata No. 12 in F Major, K. 332: II. Adagio                        | Symphony No. 6 In F, Op. 68 -"Pastoral": 4. Gewitter, Sturm (Allegro)                         |
+| Piano Sonata No. 19 in G minor, Op. 49 No. 1: 2. Rondo (Allegro)          | Serenade In G, K.525 "Eine kleine Nachtmusik": 3. Menuetto (Allegretto)                       |
+| Piano Sonata No. 9 in E, Op. 14 No. 1: 2. Allegretto                      | Symphony No. 7 In A, Op. 92: 4. Allegro con brio                                              |
+| Piano Sonata No. 19 in G minor, Op. 49 No. 1: 1. Andante                  | Symphony No. 41 In C, K.551 - "Jupiter": 4. Molto allegro                                     |
+| Piano Sonata No. 31 in A-Flat Major, Op. 110: III. Adagio ma non troppo - | Die Zauberflöte, K.620 / Act 2: Alles fühlt der Liebe Freuden (Monostatos)                    |
+| Piano Sonata No. 1 in F Minor, Op. 2, No. 1: III. Menuetto: Allegretto    | String Quartet No. 15 in A minor, Op. 132: III. Molto adagio                                  |
+| Piano Sonata No. 16 in C Major, K. 545 "Sonata facile": II. Andante       | String Quartet No. 16 in F Major, Op. 135: III. Lento assai, cantate e tranquillo - Più lento |
+| Piano Sonata No. 9 in D Major, K. 311: II. Andante con expressione        | String Quartet No. 11 in F Minor, Op. 95 "Serioso": I. Allegro con brio                       |
+| Piano Sonata No. 25 in G, Op. 79: 2. Andante                              | String Quartet No. 2 in G Major, Op. 18, No. 2: IV. Allegro molto, quasi presto               |
 
 | 10 most Instrumental tracks                                                       | 10 least Instrumental tracks                                                 |
 |:----------------------------------------------------------------------------------|:-----------------------------------------------------------------------------|
-| String Quartet No. 14 in C-Sharp Minor, Op. 131: VI. Adagio quasi un poco andante | Die Zauberflöte, K.620 / Act 1: Dies Bildnis ist bezaubernd schön (Tamino)   |
-| Divertimento No. 11 in D, K.251 "Nannerl-Septett": Menuetto (Tema con variazioni) | Requiem In D Minor, K.626: 6. Benedictus                                     |
-| Piano Sonata No. 16 in C Major, K. 545 "Sonata facile": III. Rondo                | Requiem In D Minor, K.626: 3. Sequentia: Tuba mirum                          |
-| Horn Concerto No. 2 in E-Flat Major, K. 417: II. Andante                          | Requiem In D Minor, K.626: 3. Sequentia: Recordare                           |
-| Horn Concerto No. 1 in D Major, K. 386b (K. 412 & 514): I. (Allegro) K. 412       | Die Zauberflöte, K.620 / Act 2: Alles fühlt der Liebe Freuden (Monostatos)   |
-| Horn Concerto No. 4 in E-Flat Major, K. 495: II. Romanza. Andante                 | Die Zauberflöte, K.620 / Act 1: Zu Hilfe! Zu Hilfe! (Tamino, Die drei Damen) |
-| Piano Sonata No. 31 in A-Flat Major, Op. 110: II. Allegro molto                   | Die Zauberflöte, K.620 / Act 2: "Seid uns zum zweiten Mal willkommen"        |
-| Piano Sonata No. 16 in C, K.545 "Sonata facile": 1. Allegro                       | Die Zauberflöte, K.620 / Act 1: Der Vogelfänger bin ich ja (Papageno)        |
-| Piano Sonata No. 30 in E Major, Op. 109: I. Vivace ma non troppo                  | Die Zauberflöte, K.620 / Act 1: "Bei Männern, welche Liebe fühlen"           |
-| Piano Concerto No. 20 in D Minor, K. 466: I. Allegro                              | Die Zauberflöte, K.620 / Act 2: Ein Mädchen oder Weibchen (Papageno)         |
+| String Quartet No. 14 in C-Sharp Minor, Op. 131: VI. Adagio quasi un poco andante | Die Zauberflöte, K.620 / Act 2: Ein Mädchen oder Weibchen (Papageno)         |
+| Divertimento No. 11 in D, K.251 "Nannerl-Septett": Menuetto (Tema con variazioni) | Die Zauberflöte, K.620 / Act 1: "Bei Männern, welche Liebe fühlen"           |
+| Piano Sonata No. 16 in C Major, K. 545 "Sonata facile": III. Rondo                | Die Zauberflöte, K.620 / Act 1: Der Vogelfänger bin ich ja (Papageno)        |
+| Horn Concerto No. 2 in E-Flat Major, K. 417: II. Andante                          | Die Zauberflöte, K.620 / Act 2: "Seid uns zum zweiten Mal willkommen"        |
+| Horn Concerto No. 1 in D Major, K. 386b (K. 412 & 514): I. (Allegro) K. 412       | Die Zauberflöte, K.620 / Act 1: Zu Hilfe! Zu Hilfe! (Tamino, Die drei Damen) |
+| Horn Concerto No. 4 in E-Flat Major, K. 495: II. Romanza. Andante                 | Die Zauberflöte, K.620 / Act 2: Alles fühlt der Liebe Freuden (Monostatos)   |
+| Piano Sonata No. 31 in A-Flat Major, Op. 110: II. Allegro molto                   | Requiem In D Minor, K.626: 3. Sequentia: Recordare                           |
+| Piano Sonata No. 16 in C, K.545 "Sonata facile": 1. Allegro                       | Requiem In D Minor, K.626: 3. Sequentia: Tuba mirum                          |
+| Piano Sonata No. 30 in E Major, Op. 109: I. Vivace ma non troppo                  | Requiem In D Minor, K.626: 6. Benedictus                                     |
+| Piano Concerto No. 20 in D Minor, K. 466: I. Allegro                              | Die Zauberflöte, K.620 / Act 1: Dies Bildnis ist bezaubernd schön (Tamino)   |
 
 | 10 most Live tracks                                                                              | 10 least Live tracks                                                                    |
 |:-------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------|
-| String Quartet No. 2 in G Major, Op. 18, No. 2: III. Scherzo (Allegro) - Trio                    | String Quartet No. 5 in A Major, Op. 18 No. 5: II. Menuetto - Trio                      |
-| Symphony No. 5 In C Minor, Op. 67: 3. Allegro                                                    | Piano Sonata No. 29 in B flat, Op. 106 -"Hammerklavier": 3. Adagio sostenuto            |
-| Symphony No. 36 in C Major, K. 425 "Linz": 3. Menuetto                                           | Piano Sonata No. 3 in C, Op. 2 No. 3: 4. Allegro assai                                  |
-| Requiem In D Minor, K.626: 3. Sequentia: Recordare                                               | String Quartet No. 8 in E Minor, Op. 59 No. 2: I. Allegro                               |
-| Symphony No. 9 In D Minor, Op. 125 - "Choral" - Excerpt From 4th Movement: 4. Presto             | Piano Sonata No. 31 in A flat, Op. 110: 1. Moderato cantabile molto espressivo          |
-| String Quartet No. 10 in E-Flat Major, Op. 74 "Harp": III. Presto - Più presto quasi prestissimo | Piano Sonata No. 10 in C Major, K. 330: II. Andante cantabile                           |
-| Die Zauberflöte, K.620 / Act 2: Alles fühlt der Liebe Freuden (Monostatos)                       | Piano Sonata No. 8 in C Minor, Op. 13 "Pathétique": III. Rondo (Allegro)                |
-| Requiem in D Minor, K.626: 3a. Sequientia: Dies irae                                             | Symphony No. 1 In C, Op. 21: 3. Menuetto (Allegro molto e vivace)                       |
-| Die Zauberflöte, K.620 / Act 1: Der Vogelfänger bin ich ja (Papageno)                            | Piano Sonata No. 32 in C minor, Op. 111: 2. Arietta (Adagio molto semplice e cantabile) |
-| Divertimento In F, K.247: Menuetto                                                               | String Quartet No. 3 in D Major, Op. 18: I. Allegro                                     |
+| String Quartet No. 2 in G Major, Op. 18, No. 2: III. Scherzo (Allegro) - Trio                    | String Quartet No. 3 in D Major, Op. 18: I. Allegro                                     |
+| Symphony No. 5 In C Minor, Op. 67: 3. Allegro                                                    | Piano Sonata No. 32 in C minor, Op. 111: 2. Arietta (Adagio molto semplice e cantabile) |
+| Symphony No. 36 in C Major, K. 425 "Linz": 3. Menuetto                                           | Symphony No. 1 In C, Op. 21: 3. Menuetto (Allegro molto e vivace)                       |
+| Requiem In D Minor, K.626: 3. Sequentia: Recordare                                               | Piano Sonata No. 8 in C Minor, Op. 13 "Pathétique": III. Rondo (Allegro)                |
+| Symphony No. 9 In D Minor, Op. 125 - "Choral" - Excerpt From 4th Movement: 4. Presto             | Piano Sonata No. 10 in C Major, K. 330: II. Andante cantabile                           |
+| String Quartet No. 10 in E-Flat Major, Op. 74 "Harp": III. Presto - Più presto quasi prestissimo | Piano Sonata No. 31 in A flat, Op. 110: 1. Moderato cantabile molto espressivo          |
+| Die Zauberflöte, K.620 / Act 2: Alles fühlt der Liebe Freuden (Monostatos)                       | String Quartet No. 8 in E Minor, Op. 59 No. 2: I. Allegro                               |
+| Requiem in D Minor, K.626: 3a. Sequientia: Dies irae                                             | Piano Sonata No. 3 in C, Op. 2 No. 3: 4. Allegro assai                                  |
+| Die Zauberflöte, K.620 / Act 1: Der Vogelfänger bin ich ja (Papageno)                            | Piano Sonata No. 29 in B flat, Op. 106 -"Hammerklavier": 3. Adagio sostenuto            |
+| Divertimento In F, K.247: Menuetto                                                               | String Quartet No. 5 in A Major, Op. 18 No. 5: II. Menuetto - Trio                      |
 
 | 10 most Happy tracks                                                              | 10 least Happy tracks                                                                         |
 |:----------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------|
-| String Quartet No. 4 in C Major, K. 157: III. Presto                              | String Quartet No. 8 in E Minor, Op. 59 No. 2: II. Molto adagio                               |
-| Piano Sonata No. 6 in F, Op. 10 No. 2: 3. Presto                                  | Die Zauberflöte, K.620 / Act 2: Ach, ich fühl's, es ist verschwunden (Pamina)                 |
-| Die Zauberflöte, K.620 / Act 2: Alles fühlt der Liebe Freuden (Monostatos)        | Piano Sonata No. 31 in A flat, Op. 110: 3. Adagio ma non troppo                               |
-| Piano Sonata No. 25 in G, Op. 79: 3. Vivace                                       | Symphony No. 3 In E Flat, Op. 55 -"Eroica": 2. Marcia funebre (Adagio assai)                  |
-| String Quartet No. 6 in B-Flat Major, Op. 18 No. 6: III. Scherzo (Allegro) - Trio | Piano Sonata No. 29 in B flat, Op. 106 -"Hammerklavier": 3. Adagio sostenuto                  |
+| String Quartet No. 4 in C Major, K. 157: III. Presto                              | Requiem In D Minor, K.626: 7. Agnus Dei                                                       |
+| Piano Sonata No. 6 in F, Op. 10 No. 2: 3. Presto                                  | String Quartet No. 16 in F Major, Op. 135: III. Lento assai, cantate e tranquillo - Più lento |
+| Die Zauberflöte, K.620 / Act 2: Alles fühlt der Liebe Freuden (Monostatos)        | Requiem In D Minor, K.626: 3. Sequentia: Confutatis                                           |
+| Piano Sonata No. 25 in G, Op. 79: 3. Vivace                                       | Die Zauberflöte, K.620 / Act 2: O Isis und Osiris (Sarastro, Chor)                            |
 | String Quartet No. 6 in B-Flat Major, Op. 18 No. 6: III. Scherzo (Allegro) - Trio | Piano Sonata No. 31 in A-Flat Major, Op. 110: III. Adagio ma non troppo -                     |
-| Piano Sonata No. 12 in A flat, Op. 26: 4. Allegro                                 | Die Zauberflöte, K.620 / Act 2: O Isis und Osiris (Sarastro, Chor)                            |
-| Piano Sonata No. 31 in A-Flat Major, Op. 110: II. Allegro molto                   | Requiem In D Minor, K.626: 3. Sequentia: Confutatis                                           |
-| Mozart: Eine kleine Nachtmusik, K. 525: IV. Rondo. Allegro                        | String Quartet No. 16 in F Major, Op. 135: III. Lento assai, cantate e tranquillo - Più lento |
-| Serenade In G, K.525 "Eine kleine Nachtmusik": 4. Rondo (Allegro)                 | Requiem In D Minor, K.626: 7. Agnus Dei                                                       |
+| String Quartet No. 6 in B-Flat Major, Op. 18 No. 6: III. Scherzo (Allegro) - Trio | Piano Sonata No. 29 in B flat, Op. 106 -"Hammerklavier": 3. Adagio sostenuto                  |
+| Piano Sonata No. 12 in A flat, Op. 26: 4. Allegro                                 | Symphony No. 3 In E Flat, Op. 55 -"Eroica": 2. Marcia funebre (Adagio assai)                  |
+| Piano Sonata No. 31 in A-Flat Major, Op. 110: II. Allegro molto                   | Piano Sonata No. 31 in A flat, Op. 110: 3. Adagio ma non troppo                               |
+| Mozart: Eine kleine Nachtmusik, K. 525: IV. Rondo. Allegro                        | Die Zauberflöte, K.620 / Act 2: Ach, ich fühl's, es ist verschwunden (Pamina)                 |
+| Serenade In G, K.525 "Eine kleine Nachtmusik": 4. Rondo (Allegro)                 | String Quartet No. 8 in E Minor, Op. 59 No. 2: II. Molto adagio                               |

@@ -59,45 +59,45 @@
 <details>
 <summary>See all 37 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                            | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------|:-----------------------------------------------------------|
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | THE ALBUM                                        | [🔗](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" alt="" width="50" /> | NewJeans 1st EP 'New Jeans'                      | [🔗](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | BORN PINK                                        | [🔗](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | ‘The ReVe Festival’ Finale                       | [🔗](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738ea860a3e6904b875629d672" alt="" width="50" /> | YOUNG-LUV.COM                                    | [🔗](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="" width="50" /> | The Most Beautiful Moment in Life: Young Forever | [🔗](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="" width="50" /> | Taste of Love                                    | [🔗](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d662735fc7d080888bc40b4" alt="" width="50" /> | Street Woman Fighter(SWF) Special                | [🔗](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273cc6f76f75551af499b5cd0cb" alt="" width="50" /> | Step Back                                        | [🔗](https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="" width="50" /> | Slime & B                                        | [🔗](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273af2fda9fb591d43c355c2ac3" alt="" width="50" /> | STAYDOM                                          | [🔗](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27318a4a215052e9f396864bd73" alt="" width="50" /> | SQUARE TWO                                       | [🔗](https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ff4ec21d7817138cabcc19bc" alt="" width="50" /> | SQUARE ONE                                       | [🔗](https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273decd839dd4fef3faf64c5fd5" alt="" width="50" /> | SEVENTEEN 4th Album 'Face the Sun'               | [🔗](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273830de2e836036f181df598d0" alt="" width="50" /> | Queendom - The 6th Mini Album                    | [🔗](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="" width="50" /> | Proof                                            | [🔗](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c412e430ac07b4bf18b424af" alt="" width="50" /> | Play Game : Holiday                              | [🔗](https://open.spotify.com/album/1FDlvA1PdZujiEhbXihIPJ) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27303b313cdf98d61d141645f11" alt="" width="50" /> | One of a Kind                                    | [🔗](https://open.spotify.com/album/2Zuovdo5g1RhfbHniwZ8yI) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | NOEASY                                           | [🔗](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="" width="50" /> | NCT 2018 EMPATHY                                 | [🔗](https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | MAP OF THE SOUL : PERSONA                        | [🔗](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="" width="50" /> | MAGIC MAN                                        | [🔗](https://open.spotify.com/album/2VZ4og2ZbwyTQ3X1rbgCe1) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | Love Yourself 結 'Answer'                         | [🔗](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093" alt="" width="50" /> | LOVE DIVE                                        | [🔗](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19" alt="" width="50" /> | LALISA                                           | [🔗](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273700c67465db0a6d66c3a36d6" alt="" width="50" /> | HARMONY : ZERO IN                                | [🔗](https://open.spotify.com/album/73CTPjApMDvFsycjbbROji) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Girls - The 2nd Mini Album                       | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555" alt="" width="50" /> | FEARLESS                                         | [🔗](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | ELEVEN                                           | [🔗](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fddc804f96cdd6a7de9bcc09" alt="" width="50" /> | DUMB DUMB                                        | [🔗](https://open.spotify.com/album/24sFioeGsPtxa5fD6VzL8b) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="" width="50" /> | DIMENSION : DILEMMA                              | [🔗](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | CRAZY IN LOVE                                    | [🔗](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27317477a7434c66ac5548b6ab7" alt="" width="50" /> | Brother Act.                                     | [🔗](https://open.spotify.com/album/3oXEVu3gwToJRkE2xAW44a) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736f248f7695eb544a3a1955c5" alt="" width="50" /> | Black Mamba                                      | [🔗](https://open.spotify.com/album/3syEYrKIsgxaZMB5t1dVG7) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | BORDER : CARNIVAL                                | [🔗](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="" width="50" /> | BE                                               | [🔗](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="" width="50" /> | ANTIFRAGILE                                      | [🔗](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) |
+|   Number of Tracks | Art                                                                                              | Album                                            | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | THE ALBUM                                        | 2020-10-02     | [🔗](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" alt="" width="50" /> | NewJeans 1st EP 'New Jeans'                      | 2022-08-01     | [🔗](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | BORN PINK                                        | 2022-09-16     | [🔗](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | ‘The ReVe Festival’ Finale                       | 2019-12-23     | [🔗](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738ea860a3e6904b875629d672" alt="" width="50" /> | YOUNG-LUV.COM                                    | 2022-02-21     | [🔗](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="" width="50" /> | The Most Beautiful Moment in Life: Young Forever | 2016-05-02     | [🔗](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="" width="50" /> | Taste of Love                                    | 2021-06-11     | [🔗](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d662735fc7d080888bc40b4" alt="" width="50" /> | Street Woman Fighter(SWF) Special                | 2021-10-27     | [🔗](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273cc6f76f75551af499b5cd0cb" alt="" width="50" /> | Step Back                                        | 2022-01-03     | [🔗](https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="" width="50" /> | Slime & B                                        | 2020-05-08     | [🔗](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273af2fda9fb591d43c355c2ac3" alt="" width="50" /> | STAYDOM                                          | 2021-04-08     | [🔗](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27318a4a215052e9f396864bd73" alt="" width="50" /> | SQUARE TWO                                       | 2016-11-01     | [🔗](https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ff4ec21d7817138cabcc19bc" alt="" width="50" /> | SQUARE ONE                                       | 2016-08-08     | [🔗](https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273decd839dd4fef3faf64c5fd5" alt="" width="50" /> | SEVENTEEN 4th Album 'Face the Sun'               | 2022-05-27     | [🔗](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273830de2e836036f181df598d0" alt="" width="50" /> | Queendom - The 6th Mini Album                    | 2021-08-16     | [🔗](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="" width="50" /> | Proof                                            | 2022-06-10     | [🔗](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c412e430ac07b4bf18b424af" alt="" width="50" /> | Play Game : Holiday                              | 2021-08-04     | [🔗](https://open.spotify.com/album/1FDlvA1PdZujiEhbXihIPJ) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27303b313cdf98d61d141645f11" alt="" width="50" /> | One of a Kind                                    | 2021-06-01     | [🔗](https://open.spotify.com/album/2Zuovdo5g1RhfbHniwZ8yI) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | NOEASY                                           | 2021-08-23     | [🔗](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="" width="50" /> | NCT 2018 EMPATHY                                 | 2018-03-14     | [🔗](https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | MAP OF THE SOUL : PERSONA                        | 2019-04-12     | [🔗](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="" width="50" /> | MAGIC MAN                                        | 2022-09-09     | [🔗](https://open.spotify.com/album/2VZ4og2ZbwyTQ3X1rbgCe1) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | Love Yourself 結 'Answer'                         | 2018-08-24     | [🔗](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093" alt="" width="50" /> | LOVE DIVE                                        | 2022-04-05     | [🔗](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19" alt="" width="50" /> | LALISA                                           | 2021-09-10     | [🔗](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273700c67465db0a6d66c3a36d6" alt="" width="50" /> | HARMONY : ZERO IN                                | 2022-07-20     | [🔗](https://open.spotify.com/album/73CTPjApMDvFsycjbbROji) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Girls - The 2nd Mini Album                       | 2022-07-08     | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555" alt="" width="50" /> | FEARLESS                                         | 2022-05-02     | [🔗](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | ELEVEN                                           | 2021-12-01     | [🔗](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fddc804f96cdd6a7de9bcc09" alt="" width="50" /> | DUMB DUMB                                        | 2021-08-02     | [🔗](https://open.spotify.com/album/24sFioeGsPtxa5fD6VzL8b) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="" width="50" /> | DIMENSION : DILEMMA                              | 2021-10-12     | [🔗](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | CRAZY IN LOVE                                    | 2021-09-24     | [🔗](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27317477a7434c66ac5548b6ab7" alt="" width="50" /> | Brother Act.                                     | 2017-10-16     | [🔗](https://open.spotify.com/album/3oXEVu3gwToJRkE2xAW44a) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736f248f7695eb544a3a1955c5" alt="" width="50" /> | Black Mamba                                      | 2020-11-17     | [🔗](https://open.spotify.com/album/3syEYrKIsgxaZMB5t1dVG7) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | BORDER : CARNIVAL                                | 2021-04-26     | [🔗](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="" width="50" /> | BE                                               | 2020-11-20     | [🔗](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="" width="50" /> | ANTIFRAGILE                                      | 2022-10-17     | [🔗](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) |
 
 </details>
 
@@ -159,95 +159,113 @@
 </details>
 
 
+## Years
+
+
+
+
+
+| 10 newest albums                                                                                                                                                                                                                                                                | 10 oldest albums                                                                                                                                                                                                                                                                                            |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="ANTIFRAGILE" width="50" /> <span style="padding-left:10px;">ANTIFRAGILE (2022-10-17)</span></div>                                               | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="The Most Beautiful Moment in Life: Young Forever" width="50" /> <span style="padding-left:10px;">The Most Beautiful Moment in Life: Young Forever (2016-05-02)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="BORN PINK" width="50" /> <span style="padding-left:10px;">BORN PINK (2022-09-16)</span></div>                                                   | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ff4ec21d7817138cabcc19bc" alt="SQUARE ONE" width="50" /> <span style="padding-left:10px;">SQUARE ONE (2016-08-08)</span></div>                                                                             |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="MAGIC MAN" width="50" /> <span style="padding-left:10px;">MAGIC MAN (2022-09-09)</span></div>                                                   | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27318a4a215052e9f396864bd73" alt="SQUARE TWO" width="50" /> <span style="padding-left:10px;">SQUARE TWO (2016-11-01)</span></div>                                                                             |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" alt="NewJeans 1st EP 'New Jeans'" width="50" /> <span style="padding-left:10px;">NewJeans 1st EP 'New Jeans' (2022-08-01)</span></div>               | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27317477a7434c66ac5548b6ab7" alt="Brother Act." width="50" /> <span style="padding-left:10px;">Brother Act. (2017-10-16)</span></div>                                                                         |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273700c67465db0a6d66c3a36d6" alt="HARMONY : ZERO IN" width="50" /> <span style="padding-left:10px;">HARMONY : ZERO IN (2022-07-20)</span></div>                                   | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="NCT 2018 EMPATHY" width="50" /> <span style="padding-left:10px;">NCT 2018 EMPATHY (2018-03-14)</span></div>                                                                 |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="Girls - The 2nd Mini Album" width="50" /> <span style="padding-left:10px;">Girls - The 2nd Mini Album (2022-07-08)</span></div>                 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="Love Yourself 結 'Answer'" width="50" /> <span style="padding-left:10px;">Love Yourself 結 'Answer' (2018-08-24)</span></div>                                                 |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="Proof" width="50" /> <span style="padding-left:10px;">Proof (2022-06-10)</span></div>                                                           | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="MAP OF THE SOUL : PERSONA" width="50" /> <span style="padding-left:10px;">MAP OF THE SOUL : PERSONA (2019-04-12)</span></div>                                               |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273decd839dd4fef3faf64c5fd5" alt="SEVENTEEN 4th Album 'Face the Sun'" width="50" /> <span style="padding-left:10px;">SEVENTEEN 4th Album 'Face the Sun' (2022-05-27)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="‘The ReVe Festival’ Finale" width="50" /> <span style="padding-left:10px;">‘The ReVe Festival’ Finale (2019-12-23)</span></div>                                             |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555" alt="FEARLESS" width="50" /> <span style="padding-left:10px;">FEARLESS (2022-05-02)</span></div>                                                     | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="Slime & B" width="50" /> <span style="padding-left:10px;">Slime & B (2020-05-08)</span></div>                                                                               |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093" alt="LOVE DIVE" width="50" /> <span style="padding-left:10px;">LOVE DIVE (2022-04-05)</span></div>                                                   | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> <span style="padding-left:10px;">THE ALBUM (2020-10-02)</span></div>                                                                               |
 ## Audio Features
 
 | 10 most Danceable tracks      | 10 least Danceable tracks                         |
 |:------------------------------|:--------------------------------------------------|
-| ANTIFRAGILE                   | Boy With Luv (feat. Halsey)                       |
-| FEARLESS                      | Step Back                                         |
-| DUMB DUMB                     | Missing You                                       |
-| ELEVEN                        | MIC Drop (Steve Aoki Remix) - Full Length Edition |
-| Holiday Party                 | Thunderous                                        |
-| Shut Down                     | FEVER                                             |
-| WHISTLE                       | Hype Boy                                          |
-| Attention                     | Dope                                              |
-| LALISA                        | Blow                                              |
-| Ice Cream (with Selena Gomez) | Black Mamba                                       |
+| ANTIFRAGILE                   | Black Mamba                                       |
+| FEARLESS                      | Blow                                              |
+| DUMB DUMB                     | Dope                                              |
+| ELEVEN                        | Hype Boy                                          |
+| Holiday Party                 | FEVER                                             |
+| Shut Down                     | Thunderous                                        |
+| WHISTLE                       | MIC Drop (Steve Aoki Remix) - Full Length Edition |
+| Attention                     | Missing You                                       |
+| LALISA                        | Step Back                                         |
+| Ice Cream (with Selena Gomez) | Boy With Luv (feat. Halsey)                       |
 
 | 10 most Energetic tracks                          | 10 least Energetic tracks   |
 |:--------------------------------------------------|:----------------------------|
-| Hype Boy                                          | Shut Down                   |
-| Black Mamba                                       | RUN2U                       |
-| Alcohol-Free                                      | Psycho                      |
-| Dope                                              | LALISA                      |
-| Queendom                                          | Attention                   |
-| LOCO                                              | FEARLESS                    |
-| Boy With Luv (feat. Halsey)                       | Blow                        |
-| GAMBLER                                           | City Girls                  |
-| MIC Drop (Steve Aoki Remix) - Full Length Edition | Pretty Savage               |
-| Go Big or Go Home                                 | BOSS                        |
+| Hype Boy                                          | BOSS                        |
+| Black Mamba                                       | Pretty Savage               |
+| Alcohol-Free                                      | City Girls                  |
+| Dope                                              | Blow                        |
+| Queendom                                          | FEARLESS                    |
+| LOCO                                              | Attention                   |
+| Boy With Luv (feat. Halsey)                       | LALISA                      |
+| GAMBLER                                           | Psycho                      |
+| MIC Drop (Steve Aoki Remix) - Full Length Edition | RUN2U                       |
+| Go Big or Go Home                                 | Shut Down                   |
 
 | 10 most Speechy tracks                            | 10 least Speechy tracks   |
 |:--------------------------------------------------|:--------------------------|
-| Ice Cream (with Selena Gomez)                     | Holiday Party             |
-| Thunderous                                        | Illusion                  |
-| Hype Boy                                          | Psycho                    |
-| Dope                                              | LOVE DIVE                 |
-| LOCO                                              | Pretty Savage             |
-| MIC Drop (Steve Aoki Remix) - Full Length Edition | HOT                       |
-| Run BTS                                           | Shut Down                 |
-| GAMBLER                                           | BOSS                      |
-| Pink Venom                                        | Attention                 |
-| FEARLESS                                          | ASAP                      |
+| Ice Cream (with Selena Gomez)                     | ASAP                      |
+| Thunderous                                        | Attention                 |
+| Hype Boy                                          | BOSS                      |
+| Dope                                              | Shut Down                 |
+| LOCO                                              | HOT                       |
+| MIC Drop (Steve Aoki Remix) - Full Length Edition | Pretty Savage             |
+| Run BTS                                           | LOVE DIVE                 |
+| GAMBLER                                           | Psycho                    |
+| Pink Venom                                        | Illusion                  |
+| FEARLESS                                          | Holiday Party             |
 
 | 10 most Acoustic tracks     | 10 least Acoustic tracks   |
 |:----------------------------|:---------------------------|
-| Missing You                 | LOCO                       |
-| Hype Boy                    | Pretty Savage              |
-| Attention                   | Holiday Party              |
-| Thunderous                  | WHISTLE                    |
-| Psycho                      | GAMBLER                    |
-| Queendom                    | Blow                       |
-| ASAP                        | Shut Down                  |
-| Boy With Luv (feat. Halsey) | LOVE DIVE                  |
-| ANTIFRAGILE                 | Doom Du Doom               |
-| BAD GIRL (Prod. Czaer)      | RUN2U                      |
+| Missing You                 | RUN2U                      |
+| Hype Boy                    | Doom Du Doom               |
+| Attention                   | LOVE DIVE                  |
+| Thunderous                  | Shut Down                  |
+| Psycho                      | Blow                       |
+| Queendom                    | GAMBLER                    |
+| ASAP                        | WHISTLE                    |
+| Boy With Luv (feat. Halsey) | Holiday Party              |
+| ANTIFRAGILE                 | Pretty Savage              |
+| BAD GIRL (Prod. Czaer)      | LOCO                       |
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| FEARLESS                      | ASAP                           |
-| Black Mamba                   | Dynamite                       |
-| LALISA                        | Run BTS                        |
-| DUMB DUMB                     | Go Big or Go Home              |
-| Pretty Savage                 | WHISTLE                        |
-| Ice Cream (with Selena Gomez) | Queendom                       |
-| LOVE DIVE                     | Pink Venom                     |
-| Doom Du Doom                  | ELEVEN                         |
-| LOCO                          | PLAYING WITH FIRE              |
-| Illusion                      | Shut Down                      |
+| FEARLESS                      | Shut Down                      |
+| Black Mamba                   | PLAYING WITH FIRE              |
+| LALISA                        | ELEVEN                         |
+| DUMB DUMB                     | Pink Venom                     |
+| Pretty Savage                 | Queendom                       |
+| Ice Cream (with Selena Gomez) | WHISTLE                        |
+| LOVE DIVE                     | Go Big or Go Home              |
+| Doom Du Doom                  | Run BTS                        |
+| LOCO                          | Dynamite                       |
+| Illusion                      | ASAP                           |
 
 | 10 most Live tracks   | 10 least Live tracks          |
 |:----------------------|:------------------------------|
-| Step Back             | Doom Du Doom                  |
-| Dope                  | Attention                     |
-| LOCO                  | Blow                          |
-| HOT                   | Alcohol-Free                  |
-| LOVE DIVE             | Queendom                      |
-| Illusion              | City Girls                    |
-| RUN2U                 | ELEVEN                        |
-| Hype Boy              | Run BTS                       |
-| Go Big or Go Home     | Ice Cream (with Selena Gomez) |
-| Pink Venom            | Holiday Party                 |
+| Step Back             | Holiday Party                 |
+| Dope                  | Ice Cream (with Selena Gomez) |
+| LOCO                  | Run BTS                       |
+| HOT                   | ELEVEN                        |
+| LOVE DIVE             | City Girls                    |
+| Illusion              | Queendom                      |
+| RUN2U                 | Alcohol-Free                  |
+| Hype Boy              | Blow                          |
+| Go Big or Go Home     | Attention                     |
+| Pink Venom            | Doom Du Doom                  |
 
 | 10 most Happy tracks          | 10 least Happy tracks   |
 |:------------------------------|:------------------------|
-| Ice Cream (with Selena Gomez) | Missing You             |
-| LALISA                        | FEVER                   |
-| Doom Du Doom                  | FEARLESS                |
-| BAD GIRL (Prod. Czaer)        | DUMB DUMB               |
-| ANTIFRAGILE                   | Holiday Party           |
-| Go Big or Go Home             | Psycho                  |
-| Blow                          | RUN2U                   |
-| City Girls                    | Pretty Savage           |
-| Boy With Luv (feat. Halsey)   | BOSS                    |
-| Thunderous                    | ASAP                    |
+| Ice Cream (with Selena Gomez) | ASAP                    |
+| LALISA                        | BOSS                    |
+| Doom Du Doom                  | Pretty Savage           |
+| BAD GIRL (Prod. Czaer)        | RUN2U                   |
+| ANTIFRAGILE                   | Psycho                  |
+| Go Big or Go Home             | Holiday Party           |
+| Blow                          | DUMB DUMB               |
+| City Girls                    | FEARLESS                |
+| Boy With Luv (feat. Halsey)   | FEVER                   |
+| Thunderous                    | Missing You             |

@@ -79,13 +79,13 @@
 <details>
 <summary>See all 5 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                                                             | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------|:-----------------------------------------------------------|
-|                115 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | Karajan - Mozart                                                                  | [🔗](https://open.spotify.com/album/1HSJhsMIW2EDD4YSSkbc9e) |
-|                 20 | <img src="https://i.scdn.co/image/ab67616d0000b273a78d6aa51909744b78778902" alt="" width="50" /> | Mozart Piano Pieces                                                               | [🔗](https://open.spotify.com/album/3AYEvo7R1gY4O5xJuMwy3U) |
-|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273fdf2a7d7437db7a75da73167" alt="" width="50" /> | Mozart: The Piano Sonatas                                                         | [🔗](https://open.spotify.com/album/1qM2Z3rhkJLQIXnAQpIUdY) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2738f579f6adad5e766412bbd18" alt="" width="50" /> | Mozart: Symphony No. 40 in G Minor, Bassoon Concerto & Flute Serenades Nos. 1 & 3 | [🔗](https://open.spotify.com/album/3WHqaCZ66SWzL7LyYnrn9y) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27350f0e9f3fe510cfe42f5f2d9" alt="" width="50" /> | Mozart: Eine Kleine Nachtmusik etc.                                               | [🔗](https://open.spotify.com/album/5YCuibCDJrkVcS3UOAYqr9) |
+|   Number of Tracks | Art                                                                                              | Album                                                                             | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                115 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | Karajan - Mozart                                                                  | 2020-06-16     | [🔗](https://open.spotify.com/album/1HSJhsMIW2EDD4YSSkbc9e) |
+|                 20 | <img src="https://i.scdn.co/image/ab67616d0000b273a78d6aa51909744b78778902" alt="" width="50" /> | Mozart Piano Pieces                                                               | 2020-10-13     | [🔗](https://open.spotify.com/album/3AYEvo7R1gY4O5xJuMwy3U) |
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273fdf2a7d7437db7a75da73167" alt="" width="50" /> | Mozart: The Piano Sonatas                                                         | 1981-01-01     | [🔗](https://open.spotify.com/album/1qM2Z3rhkJLQIXnAQpIUdY) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2738f579f6adad5e766412bbd18" alt="" width="50" /> | Mozart: Symphony No. 40 in G Minor, Bassoon Concerto & Flute Serenades Nos. 1 & 3 | 2017-12-08     | [🔗](https://open.spotify.com/album/3WHqaCZ66SWzL7LyYnrn9y) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27350f0e9f3fe510cfe42f5f2d9" alt="" width="50" /> | Mozart: Eine Kleine Nachtmusik etc.                                               | 1986           | [🔗](https://open.spotify.com/album/5YCuibCDJrkVcS3UOAYqr9) |
 
 </details>
 
@@ -125,95 +125,110 @@
 </details>
 
 
+## Years
+
+
+
+| Year            |   Number of Tracks |
+|:----------------|-------------------:|
+| [2020](2020.md) |                135 |
+
+| 10 newest albums                                                                                                                                                                                                                                                                                                                                                              | 10 oldest albums                                                                                                                                                                                                                                                                                                                                                              |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a78d6aa51909744b78778902" alt="Mozart Piano Pieces" width="50" /> <span style="padding-left:10px;">Mozart Piano Pieces (2020-10-13)</span></div>                                                                                                                             | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273fdf2a7d7437db7a75da73167" alt="Mozart: The Piano Sonatas" width="50" /> <span style="padding-left:10px;">Mozart: The Piano Sonatas (1981-01-01)</span></div>                                                                                                                 |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> <span style="padding-left:10px;">Karajan - Mozart (2020-06-16)</span></div>                                                                                                                                   | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27350f0e9f3fe510cfe42f5f2d9" alt="Mozart: Eine Kleine Nachtmusik etc." width="50" /> <span style="padding-left:10px;">Mozart: Eine Kleine Nachtmusik etc. (1986)</span></div>                                                                                                   |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738f579f6adad5e766412bbd18" alt="Mozart: Symphony No. 40 in G Minor, Bassoon Concerto & Flute Serenades Nos. 1 & 3" width="50" /> <span style="padding-left:10px;">Mozart: Symphony No. 40 in G Minor, Bassoon Concerto & Flute Serenades Nos. 1 & 3 (2017-12-08)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738f579f6adad5e766412bbd18" alt="Mozart: Symphony No. 40 in G Minor, Bassoon Concerto & Flute Serenades Nos. 1 & 3" width="50" /> <span style="padding-left:10px;">Mozart: Symphony No. 40 in G Minor, Bassoon Concerto & Flute Serenades Nos. 1 & 3 (2017-12-08)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27350f0e9f3fe510cfe42f5f2d9" alt="Mozart: Eine Kleine Nachtmusik etc." width="50" /> <span style="padding-left:10px;">Mozart: Eine Kleine Nachtmusik etc. (1986)</span></div>                                                                                                   | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> <span style="padding-left:10px;">Karajan - Mozart (2020-06-16)</span></div>                                                                                                                                   |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273fdf2a7d7437db7a75da73167" alt="Mozart: The Piano Sonatas" width="50" /> <span style="padding-left:10px;">Mozart: The Piano Sonatas (1981-01-01)</span></div>                                                                                                                 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a78d6aa51909744b78778902" alt="Mozart Piano Pieces" width="50" /> <span style="padding-left:10px;">Mozart Piano Pieces (2020-10-13)</span></div>                                                                                                                             |
 ## Audio Features
 
 | 10 most Danceable tracks                                                          | 10 least Danceable tracks                                          |
 |:----------------------------------------------------------------------------------|:-------------------------------------------------------------------|
-| Divertimento No. 11 in D, K.251 "Nannerl-Septett": Menuetto (Tema con variazioni) | Symphony No. 35 in D Major, K. 385 "Haffner": 2. Andante           |
-| Piano Sonata No. 11 in A Major, K. 331 "Turkish March": III. Alla turca           | Requiem In D Minor, K.626: 3. Sequentia: Confutatis                |
-| Piano Sonata No. 11 in A Major, K. 331: 3. Alla Turca. Allegretto                 | Mass In C, K.317 "Coronation": 1. Kyrie                            |
-| Violin Concerto No. 3 in G Major, K. 216: III. Rondo (Allegro)                    | Symphony No. 33 in B flat, K.319: 2. Andante moderato              |
-| Die Zauberflöte, K.620 / Act 2: "Pa-Pa-Pa-Pa-Pa-Pa-Papagena!"                     | Divertimento in D, K.334 - Orchestral Version: 4. Adagio           |
-| Die Zauberflöte, K.620 / Act 2: Alles fühlt der Liebe Freuden (Monostatos)        | Horn Concerto No. 2 in E-Flat Major, K. 417: II. Andante           |
-| Piano Sonata No. 16 in C Major, K. 545 "Sonata facile": III. Rondo                | Divertimento No. 15 in B Flat Major, K. 287: IV. Adagio            |
-| Piano Sonata No. 12 in F Major, K. 332: II. Adagio                                | Requiem In D Minor, K.626: 7. Agnus Dei                            |
-| Piano Sonata No. 9 in D Major, K. 311: II. Andante con expressione                | Horn Concerto No. 4 in E-Flat Major, K. 495: II. Romanza. Andante  |
-| Serenade In G, K.525 "Eine kleine Nachtmusik": 4. Rondo (Allegro)                 | Die Zauberflöte, K.620 / Act 2: "O Isis und Osiris, welche Wonne!" |
+| Divertimento No. 11 in D, K.251 "Nannerl-Septett": Menuetto (Tema con variazioni) | Die Zauberflöte, K.620 / Act 2: "O Isis und Osiris, welche Wonne!" |
+| Piano Sonata No. 11 in A Major, K. 331 "Turkish March": III. Alla turca           | Horn Concerto No. 4 in E-Flat Major, K. 495: II. Romanza. Andante  |
+| Piano Sonata No. 11 in A Major, K. 331: 3. Alla Turca. Allegretto                 | Requiem In D Minor, K.626: 7. Agnus Dei                            |
+| Violin Concerto No. 3 in G Major, K. 216: III. Rondo (Allegro)                    | Divertimento No. 15 in B Flat Major, K. 287: IV. Adagio            |
+| Die Zauberflöte, K.620 / Act 2: "Pa-Pa-Pa-Pa-Pa-Pa-Papagena!"                     | Horn Concerto No. 2 in E-Flat Major, K. 417: II. Andante           |
+| Die Zauberflöte, K.620 / Act 2: Alles fühlt der Liebe Freuden (Monostatos)        | Divertimento in D, K.334 - Orchestral Version: 4. Adagio           |
+| Piano Sonata No. 16 in C Major, K. 545 "Sonata facile": III. Rondo                | Symphony No. 33 in B flat, K.319: 2. Andante moderato              |
+| Piano Sonata No. 12 in F Major, K. 332: II. Adagio                                | Mass In C, K.317 "Coronation": 1. Kyrie                            |
+| Piano Sonata No. 9 in D Major, K. 311: II. Andante con expressione                | Requiem In D Minor, K.626: 3. Sequentia: Confutatis                |
+| Serenade In G, K.525 "Eine kleine Nachtmusik": 4. Rondo (Allegro)                 | Symphony No. 35 in D Major, K. 385 "Haffner": 2. Andante           |
 
 | 10 most Energetic tracks                                             | 10 least Energetic tracks                                             |
 |:---------------------------------------------------------------------|:----------------------------------------------------------------------|
-| Requiem in D Minor, K.626: 3a. Sequientia: Dies irae                 | Requiem In D Minor, K.626: 3. Sequentia: Confutatis                   |
-| Symphony No. 39 in E flat, K.543: 4. Finale (Allegro)                | Divertimento No. 15 in B-Flat Major, K. 287: 5. Menuetto              |
-| Mass In C, K.317 "Coronation": 3. Credo                              | Piano Concerto No. 27 in B-Flat Major, K. 595: II. Larghetto          |
-| Symphony No. 41 In C, K.551 - "Jupiter": 4. Molto allegro            | Piano Sonata No. 16 in C Major, K. 545 "Sonata facile": II. Andante   |
-| Mass In C, K.317 "Coronation": 4. Sanctus                            | Piano Sonata No. 9 in D Major, K. 311: II. Andante con expressione    |
-| Requiem In D Minor, K.626: 5. Sanctus                                | Piano Concerto No. 23 in A Major, K. 488: II. Adagio                  |
-| Requiem In D Minor, K.626: 2. Kyrie                                  | Piano Sonata No. 16 in C, K.545 "Sonata facile": 2. Andante           |
-| Symphony No. 40 In G Minor, K.550: 1. Molto allegro                  | Symphony No. 40 in G Minor, K. 550: II. Andante                       |
-| Symphony No. 40 In G Minor, K.550: 4. Finale (Allegro assai)         | Die Zauberflöte, K.620 / Act 2: "Seid uns zum zweiten Mal willkommen" |
-| Symphony No. 35 in D Major, K. 385 "Haffner": 1. Allegro con spirito | Piano Sonata No. 10 in C Major, K. 330: II. Andante cantabile         |
+| Requiem in D Minor, K.626: 3a. Sequientia: Dies irae                 | Piano Sonata No. 10 in C Major, K. 330: II. Andante cantabile         |
+| Symphony No. 39 in E flat, K.543: 4. Finale (Allegro)                | Die Zauberflöte, K.620 / Act 2: "Seid uns zum zweiten Mal willkommen" |
+| Mass In C, K.317 "Coronation": 3. Credo                              | Symphony No. 40 in G Minor, K. 550: II. Andante                       |
+| Symphony No. 41 In C, K.551 - "Jupiter": 4. Molto allegro            | Piano Sonata No. 16 in C, K.545 "Sonata facile": 2. Andante           |
+| Mass In C, K.317 "Coronation": 4. Sanctus                            | Piano Concerto No. 23 in A Major, K. 488: II. Adagio                  |
+| Requiem In D Minor, K.626: 5. Sanctus                                | Piano Sonata No. 9 in D Major, K. 311: II. Andante con expressione    |
+| Requiem In D Minor, K.626: 2. Kyrie                                  | Piano Sonata No. 16 in C Major, K. 545 "Sonata facile": II. Andante   |
+| Symphony No. 40 In G Minor, K.550: 1. Molto allegro                  | Piano Concerto No. 27 in B-Flat Major, K. 595: II. Larghetto          |
+| Symphony No. 40 In G Minor, K.550: 4. Finale (Allegro assai)         | Divertimento No. 15 in B-Flat Major, K. 287: 5. Menuetto              |
+| Symphony No. 35 in D Major, K. 385 "Haffner": 1. Allegro con spirito | Requiem In D Minor, K.626: 3. Sequentia: Confutatis                   |
 
 | 10 most Speechy tracks                                                                     | 10 least Speechy tracks                                                 |
 |:-------------------------------------------------------------------------------------------|:------------------------------------------------------------------------|
-| Divertimento No. 11 in D, K.251 "Nannerl-Septett": Menuetto (Tema con variazioni)          | Divertimento No. 11 in D, K.251 "Nannerl-Septett": Marcia alla francese |
-| Die Zauberflöte, K.620 / Act 2: Alles fühlt der Liebe Freuden (Monostatos)                 | Requiem in D Minor, K.626: 3a. Sequientia: Dies irae                    |
-| Die Zauberflöte, K.620 / Act 1: "Bei Männern, welche Liebe fühlen"                         | Mass In C, K.317 "Coronation": 4. Sanctus                               |
-| Die Zauberflöte, K.620 / Act 1: Zu Hilfe! Zu Hilfe! (Tamino, Die drei Damen)               | Requiem In D Minor, K.626: 8.Communio: Lux aeterna                      |
-| Serenade in G, K.525 "Eine kleine Nachtmusik": 1. Allegro                                  | Requiem In D Minor, K.626: 4. Offertorium: Hostias                      |
-| Piano Sonata No. 10 in C Major, K. 330: II. Andante cantabile                              | Requiem In D Minor, K.626: 3. Sequentia: Rex tremendae                  |
-| Die Zauberflöte, K.620 / Act 1: Der Vogelfänger bin ich ja (Papageno)                      | Requiem In D Minor, K.626: 2. Kyrie                                     |
-| Die Zauberflöte, K.620 / Act 2: Der Hölle Rache kocht in meinem Herzen (Königin der Nacht) | Requiem In D Minor, K.626: 5. Sanctus                                   |
-| Die Zauberflöte, K.620 / Act 2: "Pa-Pa-Pa-Pa-Pa-Pa-Papagena!"                              | Symphony No. 39 in E flat, K.543: 3. Menuetto (Allegretto)              |
-| Piano Sonata No. 9 in D Major, K. 311: II. Andante con expressione                         | Requiem In D Minor, K.626: 4. Offertorium: Domine Jesu                  |
+| Divertimento No. 11 in D, K.251 "Nannerl-Septett": Menuetto (Tema con variazioni)          | Requiem In D Minor, K.626: 4. Offertorium: Domine Jesu                  |
+| Die Zauberflöte, K.620 / Act 2: Alles fühlt der Liebe Freuden (Monostatos)                 | Symphony No. 39 in E flat, K.543: 3. Menuetto (Allegretto)              |
+| Die Zauberflöte, K.620 / Act 1: "Bei Männern, welche Liebe fühlen"                         | Requiem In D Minor, K.626: 5. Sanctus                                   |
+| Die Zauberflöte, K.620 / Act 1: Zu Hilfe! Zu Hilfe! (Tamino, Die drei Damen)               | Requiem In D Minor, K.626: 2. Kyrie                                     |
+| Serenade in G, K.525 "Eine kleine Nachtmusik": 1. Allegro                                  | Requiem In D Minor, K.626: 3. Sequentia: Rex tremendae                  |
+| Piano Sonata No. 10 in C Major, K. 330: II. Andante cantabile                              | Requiem In D Minor, K.626: 4. Offertorium: Hostias                      |
+| Die Zauberflöte, K.620 / Act 1: Der Vogelfänger bin ich ja (Papageno)                      | Requiem In D Minor, K.626: 8.Communio: Lux aeterna                      |
+| Die Zauberflöte, K.620 / Act 2: Der Hölle Rache kocht in meinem Herzen (Königin der Nacht) | Mass In C, K.317 "Coronation": 4. Sanctus                               |
+| Die Zauberflöte, K.620 / Act 2: "Pa-Pa-Pa-Pa-Pa-Pa-Papagena!"                              | Requiem in D Minor, K.626: 3a. Sequientia: Dies irae                    |
+| Piano Sonata No. 9 in D Major, K. 311: II. Andante con expressione                         | Divertimento No. 11 in D, K.251 "Nannerl-Septett": Marcia alla francese |
 
 | 10 most Acoustic tracks                                                           | 10 least Acoustic tracks                                                   |
 |:----------------------------------------------------------------------------------|:---------------------------------------------------------------------------|
-| Piano Sonata No. 10 in C Major, K. 330: II. Andante cantabile                     | Symphony No. 36 in C Major, K. 425 "Linz": 2. Andante                      |
-| Piano Sonata No. 12 in F Major, K. 332: II. Adagio                                | Serenade in G, K.525 "Eine kleine Nachtmusik": 1. Allegro                  |
-| Piano Sonata No. 16 in C Major, K. 545 "Sonata facile": II. Andante               | Divertimento No. 15 in B-Flat Major, K. 287: 4. Adagio                     |
-| Piano Sonata No. 9 in D Major, K. 311: II. Andante con expressione                | Symphony No. 40 In G Minor, K.550: 1. Molto allegro                        |
-| Piano Sonata No. 10 in C Major, K. 330: I. Allegro moderato                       | Serenade In G, K.525 "Eine kleine Nachtmusik": 2. Romance (Andante)        |
-| Piano Sonata No. 18 in D Major, K. 576: I. Allegro                                | Symphony No. 35 in D Major, K. 385 "Haffner": 4. Finale (Presto)           |
-| Piano Sonata No. 11 in A Major, K. 331 "Turkish March": III. Alla turca           | Die Zauberflöte, K.620 / Act 2: Alles fühlt der Liebe Freuden (Monostatos) |
-| Piano Sonata No. 16 in C, K.545 "Sonata facile": 2. Andante                       | Symphony No. 41 In C, K.551 - "Jupiter": 4. Molto allegro                  |
-| Piano Sonata No. 16 in C, K.545 "Sonata facile": 3. Rondo (Allegro)               | Serenade In G, K.525 "Eine kleine Nachtmusik": 3. Menuetto (Allegretto)    |
-| Piano Sonata No. 11 in A Major, K. 331: 1. Tema (Andante grazioso) con variazioni | Die Zauberflöte, K.620 / Act 2: Ein Mädchen oder Weibchen (Papageno)       |
+| Piano Sonata No. 10 in C Major, K. 330: II. Andante cantabile                     | Die Zauberflöte, K.620 / Act 2: Ein Mädchen oder Weibchen (Papageno)       |
+| Piano Sonata No. 12 in F Major, K. 332: II. Adagio                                | Serenade In G, K.525 "Eine kleine Nachtmusik": 3. Menuetto (Allegretto)    |
+| Piano Sonata No. 16 in C Major, K. 545 "Sonata facile": II. Andante               | Symphony No. 41 In C, K.551 - "Jupiter": 4. Molto allegro                  |
+| Piano Sonata No. 9 in D Major, K. 311: II. Andante con expressione                | Die Zauberflöte, K.620 / Act 2: Alles fühlt der Liebe Freuden (Monostatos) |
+| Piano Sonata No. 10 in C Major, K. 330: I. Allegro moderato                       | Symphony No. 35 in D Major, K. 385 "Haffner": 4. Finale (Presto)           |
+| Piano Sonata No. 18 in D Major, K. 576: I. Allegro                                | Serenade In G, K.525 "Eine kleine Nachtmusik": 2. Romance (Andante)        |
+| Piano Sonata No. 11 in A Major, K. 331 "Turkish March": III. Alla turca           | Symphony No. 40 In G Minor, K.550: 1. Molto allegro                        |
+| Piano Sonata No. 16 in C, K.545 "Sonata facile": 2. Andante                       | Divertimento No. 15 in B-Flat Major, K. 287: 4. Adagio                     |
+| Piano Sonata No. 16 in C, K.545 "Sonata facile": 3. Rondo (Allegro)               | Serenade in G, K.525 "Eine kleine Nachtmusik": 1. Allegro                  |
+| Piano Sonata No. 11 in A Major, K. 331: 1. Tema (Andante grazioso) con variazioni | Symphony No. 36 in C Major, K. 425 "Linz": 2. Andante                      |
 
 | 10 most Instrumental tracks                                                       | 10 least Instrumental tracks                                                 |
 |:----------------------------------------------------------------------------------|:-----------------------------------------------------------------------------|
-| Divertimento No. 11 in D, K.251 "Nannerl-Septett": Menuetto (Tema con variazioni) | Die Zauberflöte, K.620 / Act 1: Dies Bildnis ist bezaubernd schön (Tamino)   |
-| Piano Sonata No. 16 in C Major, K. 545 "Sonata facile": III. Rondo                | Requiem In D Minor, K.626: 6. Benedictus                                     |
-| Horn Concerto No. 2 in E-Flat Major, K. 417: II. Andante                          | Requiem In D Minor, K.626: 3. Sequentia: Tuba mirum                          |
-| Horn Concerto No. 1 in D Major, K. 386b (K. 412 & 514): I. (Allegro) K. 412       | Requiem In D Minor, K.626: 3. Sequentia: Recordare                           |
-| Piano Sonata No. 16 in C, K.545 "Sonata facile": 1. Allegro                       | Die Zauberflöte, K.620 / Act 2: Alles fühlt der Liebe Freuden (Monostatos)   |
-| Horn Concerto No. 4 in E-Flat Major, K. 495: II. Romanza. Andante                 | Die Zauberflöte, K.620 / Act 1: Zu Hilfe! Zu Hilfe! (Tamino, Die drei Damen) |
-| Piano Concerto No. 20 in D Minor, K. 466: I. Allegro                              | Die Zauberflöte, K.620 / Act 2: "Seid uns zum zweiten Mal willkommen"        |
-| Requiem In D Minor, K.626: 3. Sequentia: Confutatis                               | Die Zauberflöte, K.620 / Act 1: Der Vogelfänger bin ich ja (Papageno)        |
-| Piano Sonata No. 11 in A Major, K. 331: 1. Tema (Andante grazioso) con variazioni | Die Zauberflöte, K.620 / Act 2: Ein Mädchen oder Weibchen (Papageno)         |
-| Symphony No. 40 In G Minor, K.550: 4. Finale (Allegro assai)                      | Die Zauberflöte, K.620 / Act 1: "Bei Männern, welche Liebe fühlen"           |
+| Divertimento No. 11 in D, K.251 "Nannerl-Septett": Menuetto (Tema con variazioni) | Die Zauberflöte, K.620 / Act 1: "Bei Männern, welche Liebe fühlen"           |
+| Piano Sonata No. 16 in C Major, K. 545 "Sonata facile": III. Rondo                | Die Zauberflöte, K.620 / Act 2: Ein Mädchen oder Weibchen (Papageno)         |
+| Horn Concerto No. 2 in E-Flat Major, K. 417: II. Andante                          | Die Zauberflöte, K.620 / Act 1: Der Vogelfänger bin ich ja (Papageno)        |
+| Horn Concerto No. 1 in D Major, K. 386b (K. 412 & 514): I. (Allegro) K. 412       | Die Zauberflöte, K.620 / Act 2: "Seid uns zum zweiten Mal willkommen"        |
+| Piano Sonata No. 16 in C, K.545 "Sonata facile": 1. Allegro                       | Die Zauberflöte, K.620 / Act 1: Zu Hilfe! Zu Hilfe! (Tamino, Die drei Damen) |
+| Horn Concerto No. 4 in E-Flat Major, K. 495: II. Romanza. Andante                 | Die Zauberflöte, K.620 / Act 2: Alles fühlt der Liebe Freuden (Monostatos)   |
+| Piano Concerto No. 20 in D Minor, K. 466: I. Allegro                              | Requiem In D Minor, K.626: 3. Sequentia: Recordare                           |
+| Requiem In D Minor, K.626: 3. Sequentia: Confutatis                               | Requiem In D Minor, K.626: 3. Sequentia: Tuba mirum                          |
+| Piano Sonata No. 11 in A Major, K. 331: 1. Tema (Andante grazioso) con variazioni | Requiem In D Minor, K.626: 6. Benedictus                                     |
+| Symphony No. 40 In G Minor, K.550: 4. Finale (Allegro assai)                      | Die Zauberflöte, K.620 / Act 1: Dies Bildnis ist bezaubernd schön (Tamino)   |
 
 | 10 most Live tracks                                                        | 10 least Live tracks                                                                       |
 |:---------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------|
-| Symphony No. 36 in C Major, K. 425 "Linz": 3. Menuetto                     | Mass In C, K.317 "Coronation": 3. Credo                                                    |
-| Requiem In D Minor, K.626: 3. Sequentia: Recordare                         | Symphony No. 39 in E flat, K.543: 2. Andante con moto                                      |
-| Die Zauberflöte, K.620 / Act 2: Alles fühlt der Liebe Freuden (Monostatos) | Die Zauberflöte, K.620 / Act 2: Der Hölle Rache kocht in meinem Herzen (Königin der Nacht) |
-| Requiem in D Minor, K.626: 3a. Sequientia: Dies irae                       | Requiem In D Minor, K.626: 8.Communio: Lux aeterna                                         |
-| Die Zauberflöte, K.620 / Act 1: Der Vogelfänger bin ich ja (Papageno)      | Piano Sonata No. 10 in C Major, K. 330: I. Allegro moderato                                |
-| Divertimento In F, K.247: Menuetto                                         | Violin Concerto No. 5 in A Major, K. 219: I. Allegro aperto                                |
-| Symphony No. 33 in B flat, K.319: 3. Menuetto                              | Violin Concerto No. 5 in A Major, K. 219: III. Rondeau (Tempo di minuetto)                 |
-| Divertimento No. 11 in D, K.251 "Nannerl-Septett": Marcia alla francese    | Divertimento in D, K.334 - Orchestral Version: 2. Thema mit Variationen (Andante)          |
-| Die Zauberflöte, K.620 / Act 2: "Seid uns zum zweiten Mal willkommen"      | Piano Sonata No. 16 in C Major, K. 545 "Sonata facile": II. Andante                        |
-| Symphony No. 41 In C, K.551 - "Jupiter": 3. Menuetto (Allegretto)          | Piano Sonata No. 10 in C Major, K. 330: II. Andante cantabile                              |
+| Symphony No. 36 in C Major, K. 425 "Linz": 3. Menuetto                     | Piano Sonata No. 10 in C Major, K. 330: II. Andante cantabile                              |
+| Requiem In D Minor, K.626: 3. Sequentia: Recordare                         | Piano Sonata No. 16 in C Major, K. 545 "Sonata facile": II. Andante                        |
+| Die Zauberflöte, K.620 / Act 2: Alles fühlt der Liebe Freuden (Monostatos) | Divertimento in D, K.334 - Orchestral Version: 2. Thema mit Variationen (Andante)          |
+| Requiem in D Minor, K.626: 3a. Sequientia: Dies irae                       | Violin Concerto No. 5 in A Major, K. 219: III. Rondeau (Tempo di minuetto)                 |
+| Die Zauberflöte, K.620 / Act 1: Der Vogelfänger bin ich ja (Papageno)      | Violin Concerto No. 5 in A Major, K. 219: I. Allegro aperto                                |
+| Divertimento In F, K.247: Menuetto                                         | Piano Sonata No. 10 in C Major, K. 330: I. Allegro moderato                                |
+| Symphony No. 33 in B flat, K.319: 3. Menuetto                              | Requiem In D Minor, K.626: 8.Communio: Lux aeterna                                         |
+| Divertimento No. 11 in D, K.251 "Nannerl-Septett": Marcia alla francese    | Die Zauberflöte, K.620 / Act 2: Der Hölle Rache kocht in meinem Herzen (Königin der Nacht) |
+| Die Zauberflöte, K.620 / Act 2: "Seid uns zum zweiten Mal willkommen"      | Symphony No. 39 in E flat, K.543: 2. Andante con moto                                      |
+| Symphony No. 41 In C, K.551 - "Jupiter": 3. Menuetto (Allegretto)          | Mass In C, K.317 "Coronation": 3. Credo                                                    |
 
 | 10 most Happy tracks                                                              | 10 least Happy tracks                                                         |
 |:----------------------------------------------------------------------------------|:------------------------------------------------------------------------------|
-| Die Zauberflöte, K.620 / Act 2: Alles fühlt der Liebe Freuden (Monostatos)        | Divertimento in D, K.334 - Orchestral Version: 4. Adagio                      |
-| Mozart: Eine kleine Nachtmusik, K. 525: IV. Rondo. Allegro                        | Requiem In D Minor, K.626: 3. Sequentia: Lacrimosa                            |
-| Serenade In G, K.525 "Eine kleine Nachtmusik": 4. Rondo (Allegro)                 | Symphony No. 40 In G Minor, K.550: 2. Andante                                 |
-| Piano Sonata No. 10 in C Major, K. 330: I. Allegro moderato                       | Symphony No. 41 In C, K.551 - "Jupiter": 2. Andante cantabile                 |
-| Piano Sonata No. 11 in A Major, K. 331 "Turkish March": III. Alla turca           | Mass In C, K.317 "Coronation": 6. Agnus Dei                                   |
-| Requiem in D Minor, K.626: 3a. Sequientia: Dies irae                              | Divertimento In F, K.247: Adagio                                              |
-| Divertimento No. 11 in D, K.251 "Nannerl-Septett": Menuetto (Tema con variazioni) | Die Zauberflöte, K.620 / Act 2: Ach, ich fühl's, es ist verschwunden (Pamina) |
-| Piano Sonata No. 11 in A Major, K. 331: 3. Alla Turca. Allegretto                 | Die Zauberflöte, K.620 / Act 2: O Isis und Osiris (Sarastro, Chor)            |
-| Divertimento No. 11 in D, K.251 "Nannerl-Septett": Marcia alla francese           | Requiem In D Minor, K.626: 3. Sequentia: Confutatis                           |
-| Mozart: Eine kleine Nachtmusik, K. 525: III. Menuetto. Allegretto                 | Requiem In D Minor, K.626: 7. Agnus Dei                                       |
+| Die Zauberflöte, K.620 / Act 2: Alles fühlt der Liebe Freuden (Monostatos)        | Requiem In D Minor, K.626: 7. Agnus Dei                                       |
+| Mozart: Eine kleine Nachtmusik, K. 525: IV. Rondo. Allegro                        | Requiem In D Minor, K.626: 3. Sequentia: Confutatis                           |
+| Serenade In G, K.525 "Eine kleine Nachtmusik": 4. Rondo (Allegro)                 | Die Zauberflöte, K.620 / Act 2: O Isis und Osiris (Sarastro, Chor)            |
+| Piano Sonata No. 10 in C Major, K. 330: I. Allegro moderato                       | Die Zauberflöte, K.620 / Act 2: Ach, ich fühl's, es ist verschwunden (Pamina) |
+| Piano Sonata No. 11 in A Major, K. 331 "Turkish March": III. Alla turca           | Divertimento In F, K.247: Adagio                                              |
+| Requiem in D Minor, K.626: 3a. Sequientia: Dies irae                              | Mass In C, K.317 "Coronation": 6. Agnus Dei                                   |
+| Divertimento No. 11 in D, K.251 "Nannerl-Septett": Menuetto (Tema con variazioni) | Symphony No. 41 In C, K.551 - "Jupiter": 2. Andante cantabile                 |
+| Piano Sonata No. 11 in A Major, K. 331: 3. Alla Turca. Allegretto                 | Symphony No. 40 In G Minor, K.550: 2. Andante                                 |
+| Divertimento No. 11 in D, K.251 "Nannerl-Septett": Marcia alla francese           | Requiem In D Minor, K.626: 3. Sequentia: Lacrimosa                            |
+| Mozart: Eine kleine Nachtmusik, K. 525: III. Menuetto. Allegretto                 | Divertimento in D, K.334 - Orchestral Version: 4. Adagio                      |

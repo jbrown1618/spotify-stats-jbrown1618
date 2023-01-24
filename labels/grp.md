@@ -29,11 +29,11 @@ Appears as:
 <details>
 <summary>See all 3 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                 | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------|:-----------------------------------------------------------|
-|                 10 | <img src="https://i.scdn.co/image/ab67616d0000b2731c4b46aeb1f53dcffa9b0d96" alt="" width="50" /> | Inner Motion          | [🔗](https://open.spotify.com/album/6azX9ZDZzVLjpQy6ytifne) |
-|                 10 | <img src="https://i.scdn.co/image/ab67616d0000b2737d0ee28b2184f96650755916" alt="" width="50" /> | Freedom At Midnight   | [🔗](https://open.spotify.com/album/404TYwH2T33GbA9LdIT9fR) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733f67419e4e296d96256cc3f5" alt="" width="50" /> | Every Step Of The Way | [🔗](https://open.spotify.com/album/50HH21YU6PDn8XZXYGxWkg) |
+|   Number of Tracks | Art                                                                                              | Album                 | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------|:---------------|:-----------------------------------------------------------|
+|                 10 | <img src="https://i.scdn.co/image/ab67616d0000b2731c4b46aeb1f53dcffa9b0d96" alt="" width="50" /> | Inner Motion          | 1990-01-01     | [🔗](https://open.spotify.com/album/6azX9ZDZzVLjpQy6ytifne) |
+|                 10 | <img src="https://i.scdn.co/image/ab67616d0000b2737d0ee28b2184f96650755916" alt="" width="50" /> | Freedom At Midnight   | 1987-01-01     | [🔗](https://open.spotify.com/album/404TYwH2T33GbA9LdIT9fR) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733f67419e4e296d96256cc3f5" alt="" width="50" /> | Every Step Of The Way | 1987           | [🔗](https://open.spotify.com/album/50HH21YU6PDn8XZXYGxWkg) |
 
 </details>
 

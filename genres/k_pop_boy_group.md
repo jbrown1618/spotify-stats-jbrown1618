@@ -65,108 +65,108 @@
 <details>
 <summary>See top 100 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                              | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------|:-----------------------------------------------------------|
-|                 13 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | SKZ-REPLAY                                         | [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) |
-|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | NOEASY                                             | [🔗](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) |
-|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="" width="50" /> | 2 Baddies - The 4th Album                          | [🔗](https://open.spotify.com/album/6p80QT3z7kOHpYdnsItQTQ) |
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | ODDINARY                                           | [🔗](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) |
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="" width="50" /> | DIMENSION : DILEMMA                                | [🔗](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273decd839dd4fef3faf64c5fd5" alt="" width="50" /> | SEVENTEEN 4th Album 'Face the Sun'                 | [🔗](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | MAXIDENT                                           | [🔗](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" alt="" width="50" /> | MANIFESTO : DAY 1                                  | [🔗](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | Love Yourself 轉 'Tear'                             | [🔗](https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6096741dcf413354a59554" alt="" width="50" /> | BORDER : DAY ONE                                   | [🔗](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | BORDER : CARNIVAL                                  | [🔗](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | The Chaos Chapter: FREEZE                          | [🔗](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2734525dae431a233a077d2395c" alt="" width="50" /> | NCT RESONANCE Pt. 1 - The 2nd Album                | [🔗](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="" width="50" /> | NCT 2018 EMPATHY                                   | [🔗](https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | MAP OF THE SOUL : PERSONA                          | [🔗](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2738afcb7dd182cffe8d53b781e" alt="" width="50" /> | MAP OF THE SOUL : 7                                | [🔗](https://open.spotify.com/album/6mJZTV8lCqnwftYZa94bXS) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273fd0d9a33127c1d3f58ba3504" alt="" width="50" /> | MADE                                               | [🔗](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | Love Yourself 結 'Answer'                           | [🔗](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | Love Yourself 承 'Her'                              | [🔗](https://open.spotify.com/album/2FTS6a6DLXMNp8flyA0HGO) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273fad8c4176e8df7173479f959" alt="" width="50" /> | GO LIVE                                            | [🔗](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273e70b87a4bd471f82768bdcb9" alt="" width="50" /> | DON'T FIGHT THE FEELING - Special Album            | [🔗](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="" width="50" /> | BE                                                 | [🔗](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="" width="50" /> | Wings                                              | [🔗](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="" width="50" /> | The Most Beautiful Moment in Life: Young Forever   | [🔗](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27349ae714ee0bf50ca0838ed0f" alt="" width="50" /> | THE WORLD EP.1 : MOVEMENT                          | [🔗](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273b787b5b8c27a5dbd360c0f59" alt="" width="50" /> | THE WAR - The 4th Album                            | [🔗](https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | Sticker - The 3rd Album                            | [🔗](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2739f560e8c1cda870ef4eadb43" alt="" width="50" /> | SKZ2020                                            | [🔗](https://open.spotify.com/album/6QIWJVJPPgAA5c4aIb1zCA) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c1a20972c9a083d5cece9ce5" alt="" width="50" /> | SEVENTEEN 8th Mini Album 'Your Choice'             | [🔗](https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27348f4704427189fe1957d2871" alt="" width="50" /> | Return                                             | [🔗](https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731727feddec43c335453b9252" alt="" width="50" /> | NCT #127 Neo Zone - The 2nd Album                  | [🔗](https://open.spotify.com/album/5YOvg682zFOleCiSndLnZr) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2733fe0e026d4043e5d62c81328" alt="" width="50" /> | LOVE or TAKE                                       | [🔗](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f7da7c0f322b7a1c95190d92" alt="" width="50" /> | LOVE SHOT– The 5th Album Repackage                 | [🔗](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="" width="50" /> | IN:VITE U                                          | [🔗](https://open.spotify.com/album/5vxZM8rFJiNvjtAThYnwek) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273703093f86fd5c8bd79500610" alt="" width="50" /> | IN LIFE                                            | [🔗](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2736f29a60db7b4479599fae56d" alt="" width="50" /> | Heng:garæ                                          | [🔗](https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c013775f357bb9ad1eb9e1a7" alt="" width="50" /> | Glitch Mode - The 2nd Album                        | [🔗](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2738f31818d30fdb7f44fd57713" alt="" width="50" /> | Dark & Wild                                        | [🔗](https://open.spotify.com/album/7FxxU3EP37uMsZf8FilkDR) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731c1ea5bfa5680ac877acdd55" alt="" width="50" /> | DIMENSION : ANSWER                                 | [🔗](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | Christmas EveL                                     | [🔗](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27349a0f2ca62742d289da81509" alt="" width="50" /> | 2 Cool 4 Skool                                     | [🔗](https://open.spotify.com/album/26z5WolFltYgVMuuJ3c0Am) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fb6e8a26c2c4d9a23f888a94" alt="" width="50" /> | 쏘리 쏘리 Sorry, Sorry - The 3rd Album                 | [🔗](https://open.spotify.com/album/3v5XUoZzxbmJbxs7vWTua3) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738c6cdb00ed42b1d6315f0bc1" alt="" width="50" /> | minisode1 : Blue Hour                              | [🔗](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27313ac5d67675999ba7b9c4f21" alt="" width="50" /> | minisode 2: Thursday's Child                       | [🔗](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733714e924e5570c4d2df97e09" alt="" width="50" /> | ZERO : FEVER Part.3                                | [🔗](https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273bd375b430c3abeceb8b5d8da" alt="" width="50" /> | You Never Walk Alone                               | [🔗](https://open.spotify.com/album/7LF4N7lvyDhrPBuCJ1rplJ) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27309610687bcd1b3dc95d5d436" alt="" width="50" /> | We Boom - The 3rd Mini Album                       | [🔗](https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a23b62f52ade294c583d639e" alt="" width="50" /> | WIN-DOW                                            | [🔗](https://open.spotify.com/album/4dcwVvd7l0sAGBg0pSmKK2) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273da0376db6b1c5562ab8f5b29" alt="" width="50" /> | WE:TH                                              | [🔗](https://open.spotify.com/album/1ASYbBYBwV6Rcfc2ycqmlK) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730f439d80abc0a1b40e7cc231" alt="" width="50" /> | Void                                               | [🔗](https://open.spotify.com/album/58njxSTVkyBNIuCpAmmAJc) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27358169e974a94b9a18c9d2a03" alt="" width="50" /> | Universe (Let's Play Ball)                         | [🔗](https://open.spotify.com/album/31BJasH9nLradtMdJEIDXk) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ff8a783336acbef4b6fab82f" alt="" width="50" /> | The SHINee World - The First Album                 | [🔗](https://open.spotify.com/album/2aiM53N5DGm5VXnfjswpI7) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27396678b0a030238837547c6ff" alt="" width="50" /> | The Renaissance - The 10th Album                   | [🔗](https://open.spotify.com/album/3qyzxavqOfixEPDfFCEMlH) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738ac442a54c68aad8f9b93f51" alt="" width="50" /> | The Most Beautiful Moment in Life Pt.2             | [🔗](https://open.spotify.com/album/4frjaGAtuBmm8CPuYPY4oG) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736207621becafe079ec6c9185" alt="" width="50" /> | The Dream Chapter: MAGIC                           | [🔗](https://open.spotify.com/album/5KoR6s906nbO21C9ZPdwTv) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b85b1b3fae4244c686929af5" alt="" width="50" /> | The Dream Chapter: ETERNITY                        | [🔗](https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735137378ed49327e5dec7406f" alt="" width="50" /> | The Chaos Chapter: FIGHT OR ESCAPE                 | [🔗](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732795c34a8931367a0916de54" alt="" width="50" /> | The 1st Album 'XOXO' (Repackage)                   | [🔗](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273be3a0f924ad08d95b4e25d9f" alt="" width="50" /> | TREASURE EPILOGUE : Action To Answer               | [🔗](https://open.spotify.com/album/3TTkDOcSzRQCvGMT7VmmPE) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f93e83e47994599d8fe1ea2b" alt="" width="50" /> | TREASURE EP.FIN: All To Action                     | [🔗](https://open.spotify.com/album/4HGhzqQEY1X6WWZw6MhjlO) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27316b78257b6dd69d27a2b20de" alt="" width="50" /> | TREASURE EP.2: Zero To One                         | [🔗](https://open.spotify.com/album/2PQ8cQ8WzAJJkWYT2Ydmhw) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273676c5cfc0c0f7ba0039adbba" alt="" width="50" /> | TREASURE EP.1: All to Zero                         | [🔗](https://open.spotify.com/album/4ayTucmOGwLd0WrJddrUwx) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731544041d0285585cc92c2709" alt="" width="50" /> | THE BOYZ 6TH MINI ALBUM [THRILL-ING]               | [🔗](https://open.spotify.com/album/0lh0pZ8GjZGrAhzIG4Jn0E) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732fd0233f39f381edbb84c26b" alt="" width="50" /> | THE BOYZ 5th MINI ALBUM [CHASE]                    | [🔗](https://open.spotify.com/album/6HwY3FwprtqsmMuoLnXWhT) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731f5de98907a7f969ea7c28db" alt="" width="50" /> | TAKE A CHANCE                                      | [🔗](https://open.spotify.com/album/1QDAlRAOgIMPBQpMQ4LZ0E) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27390831ba9ed4aa3b89fd6b81c" alt="" width="50" /> | Street Man Fighter Original Vol.4 (Crew Songs)     | [🔗](https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | Still Life                                         | [🔗](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d64e2f339a0a9ea967b308e" alt="" width="50" /> | Step Out of Clé (English Ver.)                     | [🔗](https://open.spotify.com/album/2BBeNPEEevRiYISKYEnGvc) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739902ed3e9f44f5ad65ad808a" alt="" width="50" /> | Sorry                                              | [🔗](https://open.spotify.com/album/6D48tHXsa6LzoViDIACdkt) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ab9433cc4b9cda9431be879a" alt="" width="50" /> | Skool Luv Affair                                   | [🔗](https://open.spotify.com/album/5r35iS0uSSoQBKzQj0IeI3) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27343028ae4eeabf8c854a93cab" alt="" width="50" /> | Sherlock - The 4th Mini Album                      | [🔗](https://open.spotify.com/album/2Mfisiv88pNRQNugqrEUHQ) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc5762a75c18b494803705c" alt="" width="50" /> | SPIN OFF : FROM THE WITNESS                        | [🔗](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735ac2a400576ac7f35aa7428b" alt="" width="50" /> | SEVENTEEN 9th Mini Album 'Attacca'                 | [🔗](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273005799610338a5b57d865926" alt="" width="50" /> | SEVENTEEN 4th Mini Album ‘Al1’                     | [🔗](https://open.spotify.com/album/2BNimvLLlD89e4Sb7ZVX6I) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27346a157795d939b7a6868d207" alt="" width="50" /> | SEVENTEEN 2ND ALBUM 'TEEN, AGE' (2)                | [🔗](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27383edaef854fd4a05016178e9" alt="" width="50" /> | SEVENTEEN 1st Mini Album ’17 CARAT’                | [🔗](https://open.spotify.com/album/0H2K2JrzdvJcxBEPyxC2sl) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273deeee778a591e7032c1bdc80" alt="" width="50" /> | SEVENTEEN 1ST ALBUM [FIRST ‘LOVE&LETTER’]          | [🔗](https://open.spotify.com/album/50BrkBakrLWufmTLjCVBwn) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735ec123b44bb80bb94fc5c237" alt="" width="50" /> | Reload                                             | [🔗](https://open.spotify.com/album/1V5ilz8ghPl1PZJA1hbw3r) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27364a3178b264477550c4bcdb6" alt="" width="50" /> | REPLAY - The 8th Repackage Album                   | [🔗](https://open.spotify.com/album/5uxH9so2Yrmi6nLClUZJkv) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733f6458e54f8d2fd64f54ea3f" alt="" width="50" /> | RED                                                | [🔗](https://open.spotify.com/album/5CrMZwZuJcDpzFmMO35vxN) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733c82a88c1d031bcac1949277" alt="" width="50" /> | REBEL                                              | [🔗](https://open.spotify.com/album/7EMQBRGlIDhP9SwjOx9xgF) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="" width="50" /> | REASON                                             | [🔗](https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="" width="50" /> | Proof                                              | [🔗](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734fa89604a84da7861228399b" alt="" width="50" /> | Present : YOU                                      | [🔗](https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e099e697d0068b652fe6814e" alt="" width="50" /> | Positive                                           | [🔗](https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734a0cdc709f34348b6d88635d" alt="" width="50" /> | PLAY - The 8th Album                               | [🔗](https://open.spotify.com/album/1F7DAPXJpLVKfyZFSFsrCw) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27303b313cdf98d61d141645f11" alt="" width="50" /> | One of a Kind                                      | [🔗](https://open.spotify.com/album/2Zuovdo5g1RhfbHniwZ8yI) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fc8b0918267ea555921863e8" alt="" width="50" /> | One In A Billion                                   | [🔗](https://open.spotify.com/album/19Jm8Jk0zQYs6zMaxhYJFd) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27338b29effd5af942ca8d7a8b0" alt="" width="50" /> | Odd - The 4th Album                                | [🔗](https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730096339f4c20185bf521c12b" alt="" width="50" /> | No.5                                               | [🔗](https://open.spotify.com/album/7il4UShdCQt4HcsAng0Om2) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f2f5eb6302fa961ec097d466" alt="" width="50" /> | New Chapter #1: The Chance of Love - The 8th Album | [🔗](https://open.spotify.com/album/0ipyHYAE0cMf4aDJNIDIU1) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738b94794b8aa12407bf838d7d" alt="" width="50" /> | NEW KIDS REPACKAGE : THE NEW KIDS                  | [🔗](https://open.spotify.com/album/6RZYa7F18bu7mmeT8qxWqh) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ca74d3d623930d10f2c3c1f1" alt="" width="50" /> | NCT#127 LIMITLESS - The 2nd Mini Album             | [🔗](https://open.spotify.com/album/4EEfpF1qcPAl1J4Z770A2U) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a8f520a58790e872d0007e2e" alt="" width="50" /> | NCT RESONANCE Pt. 2 - The 2nd Album                | [🔗](https://open.spotify.com/album/5Dq6jkYO5H7KzxXSazhLxs) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ff666e3a12273d4d1380e9f0" alt="" width="50" /> | NCT #127 Regular-Irregular - The 1st Album         | [🔗](https://open.spotify.com/album/4oU5Tp952fPL7z2Bax4JmU) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738d47b664117ca39e7b1acfc9" alt="" width="50" /> | NCT #127 CHERRY BOMB– The 3rd Mini Album           | [🔗](https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732d10195d8d9abd1357fff450" alt="" width="50" /> | NCT #127 - The 1st Mini Album                      | [🔗](https://open.spotify.com/album/7xmqXxPAmkgn5HK9FcyBxR) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273daf7982ccaad9ca5e1603792" alt="" width="50" /> | Mr. Simple - The 5th Album                         | [🔗](https://open.spotify.com/album/0eouyQPmljivHfUuG5nYBa) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273560f17af6665e85575021bae" alt="" width="50" /> | Mixtape : Time Out                                 | [🔗](https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b97341ef9657dd8f4ab794dc" alt="" width="50" /> | Mixtape                                            | [🔗](https://open.spotify.com/album/1kTzTL0iOIE2IAGw83yY4O) |
+|   Number of Tracks | Art                                                                                              | Album                                              | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                 13 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | SKZ-REPLAY                                         | 2022-12-21     | [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) |
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | NOEASY                                             | 2021-08-23     | [🔗](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) |
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="" width="50" /> | 2 Baddies - The 4th Album                          | 2022-09-16     | [🔗](https://open.spotify.com/album/6p80QT3z7kOHpYdnsItQTQ) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | ODDINARY                                           | 2022-03-18     | [🔗](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="" width="50" /> | DIMENSION : DILEMMA                                | 2021-10-12     | [🔗](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273decd839dd4fef3faf64c5fd5" alt="" width="50" /> | SEVENTEEN 4th Album 'Face the Sun'                 | 2022-05-27     | [🔗](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | MAXIDENT                                           | 2022-10-07     | [🔗](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" alt="" width="50" /> | MANIFESTO : DAY 1                                  | 2022-07-04     | [🔗](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | Love Yourself 轉 'Tear'                             | 2018-05-18     | [🔗](https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6096741dcf413354a59554" alt="" width="50" /> | BORDER : DAY ONE                                   | 2020-11-30     | [🔗](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | BORDER : CARNIVAL                                  | 2021-04-26     | [🔗](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | The Chaos Chapter: FREEZE                          | 2021-05-31     | [🔗](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2734525dae431a233a077d2395c" alt="" width="50" /> | NCT RESONANCE Pt. 1 - The 2nd Album                | 2020-10-12     | [🔗](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="" width="50" /> | NCT 2018 EMPATHY                                   | 2018-03-14     | [🔗](https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | MAP OF THE SOUL : PERSONA                          | 2019-04-12     | [🔗](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2738afcb7dd182cffe8d53b781e" alt="" width="50" /> | MAP OF THE SOUL : 7                                | 2020-02-21     | [🔗](https://open.spotify.com/album/6mJZTV8lCqnwftYZa94bXS) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273fd0d9a33127c1d3f58ba3504" alt="" width="50" /> | MADE                                               | 2016-12-13     | [🔗](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | Love Yourself 結 'Answer'                           | 2018-08-24     | [🔗](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | Love Yourself 承 'Her'                              | 2017-09-18     | [🔗](https://open.spotify.com/album/2FTS6a6DLXMNp8flyA0HGO) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273fad8c4176e8df7173479f959" alt="" width="50" /> | GO LIVE                                            | 2020-06-17     | [🔗](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273e70b87a4bd471f82768bdcb9" alt="" width="50" /> | DON'T FIGHT THE FEELING - Special Album            | 2021-06-07     | [🔗](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="" width="50" /> | BE                                                 | 2020-11-20     | [🔗](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="" width="50" /> | Wings                                              | 2016-10-10     | [🔗](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="" width="50" /> | The Most Beautiful Moment in Life: Young Forever   | 2016-05-02     | [🔗](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27349ae714ee0bf50ca0838ed0f" alt="" width="50" /> | THE WORLD EP.1 : MOVEMENT                          | 2022-07-29     | [🔗](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273b787b5b8c27a5dbd360c0f59" alt="" width="50" /> | THE WAR - The 4th Album                            | 2017-07-18     | [🔗](https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | Sticker - The 3rd Album                            | 2021-09-17     | [🔗](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2739f560e8c1cda870ef4eadb43" alt="" width="50" /> | SKZ2020                                            | 2020-03-18     | [🔗](https://open.spotify.com/album/6QIWJVJPPgAA5c4aIb1zCA) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c1a20972c9a083d5cece9ce5" alt="" width="50" /> | SEVENTEEN 8th Mini Album 'Your Choice'             | 2021-06-18     | [🔗](https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27348f4704427189fe1957d2871" alt="" width="50" /> | Return                                             | 2018-01-25     | [🔗](https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731727feddec43c335453b9252" alt="" width="50" /> | NCT #127 Neo Zone - The 2nd Album                  | 2020-03-06     | [🔗](https://open.spotify.com/album/5YOvg682zFOleCiSndLnZr) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2733fe0e026d4043e5d62c81328" alt="" width="50" /> | LOVE or TAKE                                       | 2021-03-15     | [🔗](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f7da7c0f322b7a1c95190d92" alt="" width="50" /> | LOVE SHOT– The 5th Album Repackage                 | 2018-12-13     | [🔗](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="" width="50" /> | IN:VITE U                                          | 2022-01-24     | [🔗](https://open.spotify.com/album/5vxZM8rFJiNvjtAThYnwek) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273703093f86fd5c8bd79500610" alt="" width="50" /> | IN LIFE                                            | 2020-09-14     | [🔗](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2736f29a60db7b4479599fae56d" alt="" width="50" /> | Heng:garæ                                          | 2020-06-22     | [🔗](https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c013775f357bb9ad1eb9e1a7" alt="" width="50" /> | Glitch Mode - The 2nd Album                        | 2022-03-28     | [🔗](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2738f31818d30fdb7f44fd57713" alt="" width="50" /> | Dark & Wild                                        | 2014-08-20     | [🔗](https://open.spotify.com/album/7FxxU3EP37uMsZf8FilkDR) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731c1ea5bfa5680ac877acdd55" alt="" width="50" /> | DIMENSION : ANSWER                                 | 2022-01-10     | [🔗](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | Christmas EveL                                     | 2021-11-29     | [🔗](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27349a0f2ca62742d289da81509" alt="" width="50" /> | 2 Cool 4 Skool                                     | 2013-06-12     | [🔗](https://open.spotify.com/album/26z5WolFltYgVMuuJ3c0Am) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fb6e8a26c2c4d9a23f888a94" alt="" width="50" /> | 쏘리 쏘리 Sorry, Sorry - The 3rd Album                 | 2009-03-11     | [🔗](https://open.spotify.com/album/3v5XUoZzxbmJbxs7vWTua3) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738c6cdb00ed42b1d6315f0bc1" alt="" width="50" /> | minisode1 : Blue Hour                              | 2020-10-26     | [🔗](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27313ac5d67675999ba7b9c4f21" alt="" width="50" /> | minisode 2: Thursday's Child                       | 2022-05-09     | [🔗](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733714e924e5570c4d2df97e09" alt="" width="50" /> | ZERO : FEVER Part.3                                | 2021-09-13     | [🔗](https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273bd375b430c3abeceb8b5d8da" alt="" width="50" /> | You Never Walk Alone                               | 2017-02-13     | [🔗](https://open.spotify.com/album/7LF4N7lvyDhrPBuCJ1rplJ) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27309610687bcd1b3dc95d5d436" alt="" width="50" /> | We Boom - The 3rd Mini Album                       | 2019-07-26     | [🔗](https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a23b62f52ade294c583d639e" alt="" width="50" /> | WIN-DOW                                            | 2022-07-20     | [🔗](https://open.spotify.com/album/4dcwVvd7l0sAGBg0pSmKK2) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273da0376db6b1c5562ab8f5b29" alt="" width="50" /> | WE:TH                                              | 2020-10-12     | [🔗](https://open.spotify.com/album/1ASYbBYBwV6Rcfc2ycqmlK) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730f439d80abc0a1b40e7cc231" alt="" width="50" /> | Void                                               | 2018-04-16     | [🔗](https://open.spotify.com/album/58njxSTVkyBNIuCpAmmAJc) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27358169e974a94b9a18c9d2a03" alt="" width="50" /> | Universe (Let's Play Ball)                         | 2021-12-10     | [🔗](https://open.spotify.com/album/31BJasH9nLradtMdJEIDXk) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ff8a783336acbef4b6fab82f" alt="" width="50" /> | The SHINee World - The First Album                 | 2008-08-28     | [🔗](https://open.spotify.com/album/2aiM53N5DGm5VXnfjswpI7) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27396678b0a030238837547c6ff" alt="" width="50" /> | The Renaissance - The 10th Album                   | 2021-03-16     | [🔗](https://open.spotify.com/album/3qyzxavqOfixEPDfFCEMlH) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738ac442a54c68aad8f9b93f51" alt="" width="50" /> | The Most Beautiful Moment in Life Pt.2             | 2015-11-30     | [🔗](https://open.spotify.com/album/4frjaGAtuBmm8CPuYPY4oG) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736207621becafe079ec6c9185" alt="" width="50" /> | The Dream Chapter: MAGIC                           | 2019-10-21     | [🔗](https://open.spotify.com/album/5KoR6s906nbO21C9ZPdwTv) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b85b1b3fae4244c686929af5" alt="" width="50" /> | The Dream Chapter: ETERNITY                        | 2020-05-18     | [🔗](https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735137378ed49327e5dec7406f" alt="" width="50" /> | The Chaos Chapter: FIGHT OR ESCAPE                 | 2021-08-17     | [🔗](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732795c34a8931367a0916de54" alt="" width="50" /> | The 1st Album 'XOXO' (Repackage)                   | 2013-08-05     | [🔗](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273be3a0f924ad08d95b4e25d9f" alt="" width="50" /> | TREASURE EPILOGUE : Action To Answer               | 2020-01-06     | [🔗](https://open.spotify.com/album/3TTkDOcSzRQCvGMT7VmmPE) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f93e83e47994599d8fe1ea2b" alt="" width="50" /> | TREASURE EP.FIN: All To Action                     | 2019-10-08     | [🔗](https://open.spotify.com/album/4HGhzqQEY1X6WWZw6MhjlO) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27316b78257b6dd69d27a2b20de" alt="" width="50" /> | TREASURE EP.2: Zero To One                         | 2019-01-15     | [🔗](https://open.spotify.com/album/2PQ8cQ8WzAJJkWYT2Ydmhw) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273676c5cfc0c0f7ba0039adbba" alt="" width="50" /> | TREASURE EP.1: All to Zero                         | 2018-10-24     | [🔗](https://open.spotify.com/album/4ayTucmOGwLd0WrJddrUwx) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731544041d0285585cc92c2709" alt="" width="50" /> | THE BOYZ 6TH MINI ALBUM [THRILL-ING]               | 2021-08-09     | [🔗](https://open.spotify.com/album/0lh0pZ8GjZGrAhzIG4Jn0E) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732fd0233f39f381edbb84c26b" alt="" width="50" /> | THE BOYZ 5th MINI ALBUM [CHASE]                    | 2020-09-21     | [🔗](https://open.spotify.com/album/6HwY3FwprtqsmMuoLnXWhT) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731f5de98907a7f969ea7c28db" alt="" width="50" /> | TAKE A CHANCE                                      | 2022-10-04     | [🔗](https://open.spotify.com/album/1QDAlRAOgIMPBQpMQ4LZ0E) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27390831ba9ed4aa3b89fd6b81c" alt="" width="50" /> | Street Man Fighter Original Vol.4 (Crew Songs)     | 2022-09-20     | [🔗](https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | Still Life                                         | 2022-04-05     | [🔗](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d64e2f339a0a9ea967b308e" alt="" width="50" /> | Step Out of Clé (English Ver.)                     | 2020-01-24     | [🔗](https://open.spotify.com/album/2BBeNPEEevRiYISKYEnGvc) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739902ed3e9f44f5ad65ad808a" alt="" width="50" /> | Sorry                                              | 2017-08-03     | [🔗](https://open.spotify.com/album/6D48tHXsa6LzoViDIACdkt) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ab9433cc4b9cda9431be879a" alt="" width="50" /> | Skool Luv Affair                                   | 2014-02-12     | [🔗](https://open.spotify.com/album/5r35iS0uSSoQBKzQj0IeI3) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27343028ae4eeabf8c854a93cab" alt="" width="50" /> | Sherlock - The 4th Mini Album                      | 2012-03-21     | [🔗](https://open.spotify.com/album/2Mfisiv88pNRQNugqrEUHQ) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc5762a75c18b494803705c" alt="" width="50" /> | SPIN OFF : FROM THE WITNESS                        | 2022-12-30     | [🔗](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735ac2a400576ac7f35aa7428b" alt="" width="50" /> | SEVENTEEN 9th Mini Album 'Attacca'                 | 2021-10-22     | [🔗](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273005799610338a5b57d865926" alt="" width="50" /> | SEVENTEEN 4th Mini Album ‘Al1’                     | 2017-05-22     | [🔗](https://open.spotify.com/album/2BNimvLLlD89e4Sb7ZVX6I) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27346a157795d939b7a6868d207" alt="" width="50" /> | SEVENTEEN 2ND ALBUM 'TEEN, AGE' (2)                | 2017-11-06     | [🔗](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27383edaef854fd4a05016178e9" alt="" width="50" /> | SEVENTEEN 1st Mini Album ’17 CARAT’                | 2015-05-29     | [🔗](https://open.spotify.com/album/0H2K2JrzdvJcxBEPyxC2sl) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273deeee778a591e7032c1bdc80" alt="" width="50" /> | SEVENTEEN 1ST ALBUM [FIRST ‘LOVE&LETTER’]          | 2016-04-25     | [🔗](https://open.spotify.com/album/50BrkBakrLWufmTLjCVBwn) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735ec123b44bb80bb94fc5c237" alt="" width="50" /> | Reload                                             | 2020-04-29     | [🔗](https://open.spotify.com/album/1V5ilz8ghPl1PZJA1hbw3r) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27364a3178b264477550c4bcdb6" alt="" width="50" /> | REPLAY - The 8th Repackage Album                   | 2018-04-12     | [🔗](https://open.spotify.com/album/5uxH9so2Yrmi6nLClUZJkv) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733f6458e54f8d2fd64f54ea3f" alt="" width="50" /> | RED                                                | 2019-08-13     | [🔗](https://open.spotify.com/album/5CrMZwZuJcDpzFmMO35vxN) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733c82a88c1d031bcac1949277" alt="" width="50" /> | REBEL                                              | 2022-04-28     | [🔗](https://open.spotify.com/album/7EMQBRGlIDhP9SwjOx9xgF) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="" width="50" /> | REASON                                             | 2023-01-09     | [🔗](https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="" width="50" /> | Proof                                              | 2022-06-10     | [🔗](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734fa89604a84da7861228399b" alt="" width="50" /> | Present : YOU                                      | 2018-09-18     | [🔗](https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e099e697d0068b652fe6814e" alt="" width="50" /> | Positive                                           | 2018-04-02     | [🔗](https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734a0cdc709f34348b6d88635d" alt="" width="50" /> | PLAY - The 8th Album                               | 2017-11-06     | [🔗](https://open.spotify.com/album/1F7DAPXJpLVKfyZFSFsrCw) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27303b313cdf98d61d141645f11" alt="" width="50" /> | One of a Kind                                      | 2021-06-01     | [🔗](https://open.spotify.com/album/2Zuovdo5g1RhfbHniwZ8yI) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fc8b0918267ea555921863e8" alt="" width="50" /> | One In A Billion                                   | 2022-09-06     | [🔗](https://open.spotify.com/album/19Jm8Jk0zQYs6zMaxhYJFd) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27338b29effd5af942ca8d7a8b0" alt="" width="50" /> | Odd - The 4th Album                                | 2015-05-18     | [🔗](https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730096339f4c20185bf521c12b" alt="" width="50" /> | No.5                                               | 2015-06-15     | [🔗](https://open.spotify.com/album/7il4UShdCQt4HcsAng0Om2) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f2f5eb6302fa961ec097d466" alt="" width="50" /> | New Chapter #1: The Chance of Love - The 8th Album | 2018-03-28     | [🔗](https://open.spotify.com/album/0ipyHYAE0cMf4aDJNIDIU1) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738b94794b8aa12407bf838d7d" alt="" width="50" /> | NEW KIDS REPACKAGE : THE NEW KIDS                  | 2019-01-07     | [🔗](https://open.spotify.com/album/6RZYa7F18bu7mmeT8qxWqh) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ca74d3d623930d10f2c3c1f1" alt="" width="50" /> | NCT#127 LIMITLESS - The 2nd Mini Album             | 2017-01-06     | [🔗](https://open.spotify.com/album/4EEfpF1qcPAl1J4Z770A2U) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a8f520a58790e872d0007e2e" alt="" width="50" /> | NCT RESONANCE Pt. 2 - The 2nd Album                | 2020-11-23     | [🔗](https://open.spotify.com/album/5Dq6jkYO5H7KzxXSazhLxs) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ff666e3a12273d4d1380e9f0" alt="" width="50" /> | NCT #127 Regular-Irregular - The 1st Album         | 2018-10-12     | [🔗](https://open.spotify.com/album/4oU5Tp952fPL7z2Bax4JmU) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738d47b664117ca39e7b1acfc9" alt="" width="50" /> | NCT #127 CHERRY BOMB– The 3rd Mini Album           | 2017-06-14     | [🔗](https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732d10195d8d9abd1357fff450" alt="" width="50" /> | NCT #127 - The 1st Mini Album                      | 2016-07-10     | [🔗](https://open.spotify.com/album/7xmqXxPAmkgn5HK9FcyBxR) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273daf7982ccaad9ca5e1603792" alt="" width="50" /> | Mr. Simple - The 5th Album                         | 2011-08-02     | [🔗](https://open.spotify.com/album/0eouyQPmljivHfUuG5nYBa) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273560f17af6665e85575021bae" alt="" width="50" /> | Mixtape : Time Out                                 | 2022-08-01     | [🔗](https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b97341ef9657dd8f4ab794dc" alt="" width="50" /> | Mixtape                                            | 2018-01-08     | [🔗](https://open.spotify.com/album/1kTzTL0iOIE2IAGw83yY4O) |
 
 </details>
 
@@ -217,91 +217,91 @@
 
 | 10 most Danceable tracks   | 10 least Danceable tracks   |
 |:---------------------------|:----------------------------|
-| RUN (HAN)                  | Butterfly                   |
-| BOOM                       | Tap Tap                     |
-| Mr. Simple                 | Side Effects                |
-| HEYDAY (Prod. Czaer)       | Just A Little Bit           |
-| Any                        | No More Dream               |
-| Love is New Gravity        | Runaway                     |
-| Christmas EveL             | Sparkling Night             |
-| 10 Months                  | Sorry                       |
-| Feelin' Like               | Boy in time - HUI Solo      |
-| Beatbox                    | CHEESE                      |
+| RUN (HAN)                  | CHEESE                      |
+| BOOM                       | Boy in time - HUI Solo      |
+| Mr. Simple                 | Sorry                       |
+| HEYDAY (Prod. Czaer)       | Sparkling Night             |
+| Any                        | Runaway                     |
+| Love is New Gravity        | No More Dream               |
+| Christmas EveL             | Just A Little Bit           |
+| 10 Months                  | Side Effects                |
+| Feelin' Like               | Tap Tap                     |
+| Beatbox                    | Butterfly                   |
 
 | 10 most Energetic tracks   | 10 least Energetic tracks           |
 |:---------------------------|:------------------------------------|
-| War of Hormone             | BOOM                                |
-| Misfit                     | The 7th Sense                       |
-| MIROH                      | Anti-Romantic                       |
-| Side Effects               | Butter                              |
-| 소방차 Fire Truck             | The Truth Untold (feat. Steve Aoki) |
-| 쏘리 쏘리 Sorry, Sorry         | Singularity                         |
-| WONDERLAND                 | Boy in time - HUI Solo              |
-| District 9                 | miss you (Hyunjin)                  |
-| One In A Billion           | Deep end (Felix)                    |
-| Boy in Luv                 | i hate to admit (Bang Chan)         |
+| War of Hormone             | i hate to admit (Bang Chan)         |
+| Misfit                     | Deep end (Felix)                    |
+| MIROH                      | miss you (Hyunjin)                  |
+| Side Effects               | Boy in time - HUI Solo              |
+| 소방차 Fire Truck             | Singularity                         |
+| 쏘리 쏘리 Sorry, Sorry         | The Truth Untold (feat. Steve Aoki) |
+| WONDERLAND                 | Butter                              |
+| District 9                 | Anti-Romantic                       |
+| One In A Billion           | The 7th Sense                       |
+| Boy in Luv                 | BOOM                                |
 
 | 10 most Speechy tracks            | 10 least Speechy tracks        |
 |:----------------------------------|:-------------------------------|
-| No More Dream                     | Airplane pt.2                  |
-| MANIAC                            | Sorry                          |
-| I GOT IT (HAN)                    | The Eve                        |
-| Feelin' Like                      | Lie                            |
-| VENOM                             | Stars and Raindrops (Seungmin) |
-| Tap Tap                           | Don't Wanna Cry                |
-| Boy in Luv                        | Drive (Bang Chan, Lee Know)    |
-| 3RACHA (Bang Chan, Changbin, HAN) | LOVE SCENARIO                  |
-| Sparkling Night                   | NANANA                         |
-| Cherry Bomb                       | She′s In The Rain              |
+| No More Dream                     | She′s In The Rain              |
+| MANIAC                            | NANANA                         |
+| I GOT IT (HAN)                    | LOVE SCENARIO                  |
+| Feelin' Like                      | Drive (Bang Chan, Lee Know)    |
+| VENOM                             | Don't Wanna Cry                |
+| Tap Tap                           | Stars and Raindrops (Seungmin) |
+| Boy in Luv                        | Lie                            |
+| 3RACHA (Bang Chan, Changbin, HAN) | The Eve                        |
+| Sparkling Night                   | Sorry                          |
+| Cherry Bomb                       | Airplane pt.2                  |
 
 | 10 most Acoustic tracks     | 10 least Acoustic tracks   |
 |:----------------------------|:---------------------------|
-| Deep end (Felix)            | Danger                     |
-| Boy in time - HUI Solo      | Favorite (Vampire)         |
-| miss you (Hyunjin)          | Cherry Bomb                |
-| Because (Changbin, Felix)   | Drunk-Dazed                |
-| i hate to admit (Bang Chan) | HALAZIA                    |
-| Gold Dust                   | Attention, please!         |
-| RUN (HAN)                   | Cyberpunk                  |
-| Missing You                 | Tamed-Dashed               |
-| Singularity                 | Mr. Simple                 |
-| Back 2 U (AM 01:27)         | Easy                       |
+| Deep end (Felix)            | Easy                       |
+| Boy in time - HUI Solo      | Mr. Simple                 |
+| miss you (Hyunjin)          | Tamed-Dashed               |
+| Because (Changbin, Felix)   | Cyberpunk                  |
+| i hate to admit (Bang Chan) | Attention, please!         |
+| Gold Dust                   | HALAZIA                    |
+| RUN (HAN)                   | Drunk-Dazed                |
+| Missing You                 | Cherry Bomb                |
+| Singularity                 | Favorite (Vampire)         |
+| Back 2 U (AM 01:27)         | Danger                     |
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks            |
 |:------------------------------|:----------------------------------------|
-| Fairy of Shampoo              | HALA HALA (Hearts Awakened, Live Alive) |
-| Singularity                   | Deja Vu                                 |
-| Mr. Simple                    | Answer                                  |
-| HALAZIA                       | Guerrilla                               |
-| Lemonade                      | Devil                                   |
-| Ring Ding Dong                | Lo Siento                               |
-| Danger                        | Mamacita (아야야)                          |
-| Airplane pt.2                 | Black Suit                              |
-| Sour                          | House Party                             |
-| Doom Du Doom                  | FEVER                                   |
+| Fairy of Shampoo              | FEVER                                   |
+| Singularity                   | House Party                             |
+| Mr. Simple                    | Black Suit                              |
+| HALAZIA                       | Mamacita (아야야)                          |
+| Lemonade                      | Lo Siento                               |
+| Ring Ding Dong                | Devil                                   |
+| Danger                        | Guerrilla                               |
+| Airplane pt.2                 | Answer                                  |
+| Sour                          | Deja Vu                                 |
+| Doom Du Doom                  | HALA HALA (Hearts Awakened, Live Alive) |
 
 | 10 most Live tracks             | 10 least Live tracks       |
 |:--------------------------------|:---------------------------|
-| Sticker                         | Universe (Let's Play Ball) |
-| Red Lights (Bang Chan, Hyunjin) | Saturday Drip              |
-| Blessed-Cursed                  | Maknae On Top (I.N)        |
-| Growl                           | HEYDAY (Prod. Czaer)       |
-| Levanter - English Ver.         | Vitamin                    |
-| God’s Menu                      | Run BTS                    |
-| No More Dream                   | CIRCUS                     |
-| Easy                            | Domino                     |
-| SHOUT OUT                       | Beatbox                    |
-| Upper Side Dreamin’             | CASE 143                   |
+| Sticker                         | CASE 143                   |
+| Red Lights (Bang Chan, Hyunjin) | Beatbox                    |
+| Blessed-Cursed                  | Domino                     |
+| Growl                           | CIRCUS                     |
+| Levanter - English Ver.         | Run BTS                    |
+| God’s Menu                      | Vitamin                    |
+| No More Dream                   | HEYDAY (Prod. Czaer)       |
+| Easy                            | Maknae On Top (I.N)        |
+| SHOUT OUT                       | Saturday Drip              |
+| Upper Side Dreamin’             | Universe (Let's Play Ball) |
 
 | 10 most Happy tracks                                | 10 least Happy tracks               |
 |:----------------------------------------------------|:------------------------------------|
-| Devil                                               | Black Clouds                        |
-| 쏘리 쏘리 Sorry, Sorry                                  | Limbo (Lee Know)                    |
-| Left & Right                                        | Deep end (Felix)                    |
-| Up All Night (Bang Chan, Changbin, Felix, Seungmin) | Still Life                          |
-| 운명 The Chance of Love                               | The 7th Sense                       |
-| Candy Sugar Pop                                     | Anti-Romantic                       |
-| TFW (That Feeling When)                             | Singularity                         |
-| BLACK MIRROR                                        | Favorite (Vampire)                  |
-| Muddy Water (Changbin, Hyunjin, HAN, Felix)         | The Truth Untold (feat. Steve Aoki) |
-| Pretty U                                            | Side Effects                        |
+| Devil                                               | Side Effects                        |
+| 쏘리 쏘리 Sorry, Sorry                                  | The Truth Untold (feat. Steve Aoki) |
+| Left & Right                                        | Favorite (Vampire)                  |
+| Up All Night (Bang Chan, Changbin, Felix, Seungmin) | Singularity                         |
+| 운명 The Chance of Love                               | Anti-Romantic                       |
+| Candy Sugar Pop                                     | The 7th Sense                       |
+| TFW (That Feeling When)                             | Still Life                          |
+| BLACK MIRROR                                        | Deep end (Felix)                    |
+| Muddy Water (Changbin, Hyunjin, HAN, Felix)         | Limbo (Lee Know)                    |
+| Pretty U                                            | Black Clouds                        |

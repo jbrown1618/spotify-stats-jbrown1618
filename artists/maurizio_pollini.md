@@ -10,9 +10,9 @@
 |                 19 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734215d2bfa2e73ae057165347ab67616d0000b2738a9c1224da995cb33a8cb3d5ab67616d0000b273b5fcd6996bf050f9f9010d3aab67616d0000b273da673657374e88d973dad080" alt="" width="50" /> | [Chopin](../playlists/chopin/overview.md) |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album             | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:------------------|:-----------------------------------------------------------|
-|                 19 | <img src="https://i.scdn.co/image/ab67616d0000b2731ac7945379c88fb7f5844b59" alt="" width="50" /> | Chopin: Nocturnes | [🔗](https://open.spotify.com/album/2aoSpTAjFaMvaZeruqnCVv) |
+|   Number of Tracks | Art                                                                                              | Album             | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:------------------|:---------------|:-----------------------------------------------------------|
+|                 19 | <img src="https://i.scdn.co/image/ab67616d0000b2731ac7945379c88fb7f5844b59" alt="" width="50" /> | Chopin: Nocturnes | 2005-01-01     | [🔗](https://open.spotify.com/album/2aoSpTAjFaMvaZeruqnCVv) |
 
 ## Top Record Labels
 

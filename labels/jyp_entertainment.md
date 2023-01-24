@@ -42,29 +42,29 @@ Appears as:
 <details>
 <summary>See all 21 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                      | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------|:-----------------------------------------------------------|
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273d27c6b111cc35cae9bee87d6" alt="" width="50" /> | It's Raining               | [🔗](https://open.spotify.com/album/3oZ0ClkVrQS6pqb2VCCbhZ) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2735a34da2654db7f75cee1d080" alt="" width="50" /> | IT'z ICY                   | [🔗](https://open.spotify.com/album/2y2Nuvvw5xNDYOunTSsgf1) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c8caa659d37a00d34cbd6359" alt="" width="50" /> | ENTWURF                    | [🔗](https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2738d64ee7e356e13a96062bd0b" alt="" width="50" /> | AD MARE                    | [🔗](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273018ac0665d32b08c76afd4cc" alt="" width="50" /> | Why So Lonely              | [🔗](https://open.spotify.com/album/3vCjRsRRGOLp8VCYPLXtDx) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731a984930c218438701634e11" alt="" width="50" /> | When We Disco              | [🔗](https://open.spotify.com/album/1PllJjUqafNlQ23eBqs511) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734802244fa0cf6d33eda5e748" alt="" width="50" /> | The Wonder Years - Trilogy | [🔗](https://open.spotify.com/album/61KwS8kiAywHkZ7gp4asTE) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739633cfd2e42a610f3dafa801" alt="" width="50" /> | So Hot                     | [🔗](https://open.spotify.com/album/31FkCs7l3VVYbapFtIjfYe) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734fa89604a84da7861228399b" alt="" width="50" /> | Present : YOU              | [🔗](https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730096339f4c20185bf521c12b" alt="" width="50" /> | No.5                       | [🔗](https://open.spotify.com/album/7il4UShdCQt4HcsAng0Om2) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27366bcce2a19a9ccfd5d83f2a1" alt="" width="50" /> | MAD                        | [🔗](https://open.spotify.com/album/3MPrK5Op0AZAql78coCQLA) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a49014cd80722aa2ac64c87d" alt="" width="50" /> | Just right                 | [🔗](https://open.spotify.com/album/4159syQKTGC1JSJN4xBScv) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730e31e2a3b1516e79fbfe7486" alt="" width="50" /> | IT'z Different             | [🔗](https://open.spotify.com/album/0fUJLlrsG1MpTHr3MxPN9C) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733533304e73925a884af026ab" alt="" width="50" /> | Hello, world!              | [🔗](https://open.spotify.com/album/0Z5qdttvpyXKKNLdqeEs27) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273362abddb1ef89c5dbc738fe6" alt="" width="50" /> | HUSH                       | [🔗](https://open.spotify.com/album/27FDExxvG3h3XCUcJVlVSY) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c2fd5798faa7d82dadb1b330" alt="" width="50" /> | FLIGHT LOG : TURBULENCE    | [🔗](https://open.spotify.com/album/4m7ocqdUZh1ohn3nxurMf0) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27375ce3676994c95a025aeefac" alt="" width="50" /> | FEVER                      | [🔗](https://open.spotify.com/album/3pQEo2pmo1vKTkWbSbldBB) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | Dream                      | [🔗](https://open.spotify.com/album/7ciJtZ2tYXhKsndQ7bf7Vw) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e4d85babdbdecf2c21568ea0" alt="" width="50" /> | Call My Name               | [🔗](https://open.spotify.com/album/76B3bEVEuCnZTkwhOXdjmg) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730444d21d6cb2fcae0247ff60" alt="" width="50" /> | A Class                    | [🔗](https://open.spotify.com/album/6Ii2g2GfqTzkqtSCpsuA2X) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736ca0444983448696f2e2fd71" alt="" width="50" /> | 24/34                      | [🔗](https://open.spotify.com/album/7cPUxsJL1nMh87bld2LyTo) |
+|   Number of Tracks | Art                                                                                              | Album                      | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------|:---------------|:-----------------------------------------------------------|
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273d27c6b111cc35cae9bee87d6" alt="" width="50" /> | It's Raining               | 2004-10-08     | [🔗](https://open.spotify.com/album/3oZ0ClkVrQS6pqb2VCCbhZ) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2735a34da2654db7f75cee1d080" alt="" width="50" /> | IT'z ICY                   | 2019-07-29     | [🔗](https://open.spotify.com/album/2y2Nuvvw5xNDYOunTSsgf1) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c8caa659d37a00d34cbd6359" alt="" width="50" /> | ENTWURF                    | 2022-09-19     | [🔗](https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2738d64ee7e356e13a96062bd0b" alt="" width="50" /> | AD MARE                    | 2022-02-22     | [🔗](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273018ac0665d32b08c76afd4cc" alt="" width="50" /> | Why So Lonely              | 2016-07-05     | [🔗](https://open.spotify.com/album/3vCjRsRRGOLp8VCYPLXtDx) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731a984930c218438701634e11" alt="" width="50" /> | When We Disco              | 2020-08-12     | [🔗](https://open.spotify.com/album/1PllJjUqafNlQ23eBqs511) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734802244fa0cf6d33eda5e748" alt="" width="50" /> | The Wonder Years - Trilogy | 2008-09-22     | [🔗](https://open.spotify.com/album/61KwS8kiAywHkZ7gp4asTE) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739633cfd2e42a610f3dafa801" alt="" width="50" /> | So Hot                     | 2008-06-03     | [🔗](https://open.spotify.com/album/31FkCs7l3VVYbapFtIjfYe) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734fa89604a84da7861228399b" alt="" width="50" /> | Present : YOU              | 2018-09-18     | [🔗](https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730096339f4c20185bf521c12b" alt="" width="50" /> | No.5                       | 2015-06-15     | [🔗](https://open.spotify.com/album/7il4UShdCQt4HcsAng0Om2) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27366bcce2a19a9ccfd5d83f2a1" alt="" width="50" /> | MAD                        | 2015-09-29     | [🔗](https://open.spotify.com/album/3MPrK5Op0AZAql78coCQLA) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a49014cd80722aa2ac64c87d" alt="" width="50" /> | Just right                 | 2015-07-13     | [🔗](https://open.spotify.com/album/4159syQKTGC1JSJN4xBScv) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730e31e2a3b1516e79fbfe7486" alt="" width="50" /> | IT'z Different             | 2019-02-12     | [🔗](https://open.spotify.com/album/0fUJLlrsG1MpTHr3MxPN9C) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733533304e73925a884af026ab" alt="" width="50" /> | Hello, world!              | 2022-07-20     | [🔗](https://open.spotify.com/album/0Z5qdttvpyXKKNLdqeEs27) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273362abddb1ef89c5dbc738fe6" alt="" width="50" /> | HUSH                       | 2013-11-06     | [🔗](https://open.spotify.com/album/27FDExxvG3h3XCUcJVlVSY) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c2fd5798faa7d82dadb1b330" alt="" width="50" /> | FLIGHT LOG : TURBULENCE    | 2016-09-27     | [🔗](https://open.spotify.com/album/4m7ocqdUZh1ohn3nxurMf0) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27375ce3676994c95a025aeefac" alt="" width="50" /> | FEVER                      | 2019-12-01     | [🔗](https://open.spotify.com/album/3pQEo2pmo1vKTkWbSbldBB) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | Dream                      | 2016-01-07     | [🔗](https://open.spotify.com/album/7ciJtZ2tYXhKsndQ7bf7Vw) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e4d85babdbdecf2c21568ea0" alt="" width="50" /> | Call My Name               | 2019-11-04     | [🔗](https://open.spotify.com/album/76B3bEVEuCnZTkwhOXdjmg) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730444d21d6cb2fcae0247ff60" alt="" width="50" /> | A Class                    | 2011-07-18     | [🔗](https://open.spotify.com/album/6Ii2g2GfqTzkqtSCpsuA2X) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736ca0444983448696f2e2fd71" alt="" width="50" /> | 24/34                      | 2015-04-12     | [🔗](https://open.spotify.com/album/7cPUxsJL1nMh87bld2LyTo) |
 
 </details>
 

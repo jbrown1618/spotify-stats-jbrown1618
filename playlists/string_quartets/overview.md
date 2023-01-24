@@ -44,16 +44,16 @@
 <details>
 <summary>See all 8 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                                  | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------|:-----------------------------------------------------------|
-|                 71 | <img src="https://i.scdn.co/image/ab67616d0000b27325641d502a60b6ef9c235c29" alt="" width="50" /> | Beethoven: Complete String Quartets                    | [🔗](https://open.spotify.com/album/4JhUG1lr4xztAcqyA0Jm3a) |
-|                 29 | <img src="https://i.scdn.co/image/ab67616d0000b273ff17a9c684ec4757c8c026b0" alt="" width="50" /> | Shostakovich: String Quartets Nos. 1, 4, 6, 8, 9 & 11  | [🔗](https://open.spotify.com/album/4V2YVRjysd08RF0GLRDDK7) |
-|                 24 | <img src="https://i.scdn.co/image/ab67616d0000b273eac9461ed0b585b1d2ad7ee2" alt="" width="50" /> | Beethoven: String Quartets, Op. 18                     | [🔗](https://open.spotify.com/album/37iUq5Dekt8uP5itTiVs2Q) |
-|                 16 | <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="" width="50" /> | Brahms: String Quartets & Piano Quintet                | [🔗](https://open.spotify.com/album/5nZ5ePGoQZGt1MbGphwqph) |
-|                 12 | <img src="https://i.scdn.co/image/ab67616d0000b2737368d9506efe9c2d556d9e98" alt="" width="50" /> | Haydn: String Quartets                                 | [🔗](https://open.spotify.com/album/1rNGG2I3AKJy9FWqUiitkc) |
-|                 11 | <img src="https://i.scdn.co/image/ab67616d0000b2731d9ef8e92370053b06f8c9ec" alt="" width="50" /> | Mozart: String Quartets Nos. 4, 17 & 22                | [🔗](https://open.spotify.com/album/1PxALR0DTaTJPL6ByBK266) |
-|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b273040c78c4ed7f56a2a3d2a770" alt="" width="50" /> | Dvorak: String Quintet, Op. 97 & String Sextet, Op. 48 | [🔗](https://open.spotify.com/album/02nUFvsdTaekp2QQalnE3N) |
-|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b2737cb0c702a8fd45bfd8358259" alt="" width="50" /> | Debussy & Ravel: String Quartets                       | [🔗](https://open.spotify.com/album/77Eg2dHidrefgsS3GZ88nK) |
+|   Number of Tracks | Art                                                                                              | Album                                                  | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                 71 | <img src="https://i.scdn.co/image/ab67616d0000b27325641d502a60b6ef9c235c29" alt="" width="50" /> | Beethoven: Complete String Quartets                    | 2010-10-12     | [🔗](https://open.spotify.com/album/4JhUG1lr4xztAcqyA0Jm3a) |
+|                 29 | <img src="https://i.scdn.co/image/ab67616d0000b273ff17a9c684ec4757c8c026b0" alt="" width="50" /> | Shostakovich: String Quartets Nos. 1, 4, 6, 8, 9 & 11  | 2005           | [🔗](https://open.spotify.com/album/4V2YVRjysd08RF0GLRDDK7) |
+|                 24 | <img src="https://i.scdn.co/image/ab67616d0000b273eac9461ed0b585b1d2ad7ee2" alt="" width="50" /> | Beethoven: String Quartets, Op. 18                     | 2015-08-31     | [🔗](https://open.spotify.com/album/37iUq5Dekt8uP5itTiVs2Q) |
+|                 16 | <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="" width="50" /> | Brahms: String Quartets & Piano Quintet                | 2007-01-01     | [🔗](https://open.spotify.com/album/5nZ5ePGoQZGt1MbGphwqph) |
+|                 12 | <img src="https://i.scdn.co/image/ab67616d0000b2737368d9506efe9c2d556d9e98" alt="" width="50" /> | Haydn: String Quartets                                 | 2008-01-01     | [🔗](https://open.spotify.com/album/1rNGG2I3AKJy9FWqUiitkc) |
+|                 11 | <img src="https://i.scdn.co/image/ab67616d0000b2731d9ef8e92370053b06f8c9ec" alt="" width="50" /> | Mozart: String Quartets Nos. 4, 17 & 22                | 2011-02-22     | [🔗](https://open.spotify.com/album/1PxALR0DTaTJPL6ByBK266) |
+|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b273040c78c4ed7f56a2a3d2a770" alt="" width="50" /> | Dvorak: String Quintet, Op. 97 & String Sextet, Op. 48 | 2018-01-19     | [🔗](https://open.spotify.com/album/02nUFvsdTaekp2QQalnE3N) |
+|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b2737cb0c702a8fd45bfd8358259" alt="" width="50" /> | Debussy & Ravel: String Quartets                       | 2018-05-25     | [🔗](https://open.spotify.com/album/77Eg2dHidrefgsS3GZ88nK) |
 
 </details>
 
@@ -100,95 +100,115 @@
 </details>
 
 
+## Years
+
+
+
+| Year            |   Number of Tracks |
+|:----------------|-------------------:|
+| [2015](2015.md) |                 24 |
+| [2010](2010.md) |                 71 |
+| [2005](2005.md) |                 29 |
+
+| 10 newest albums                                                                                                                                                                                                                                                                                                        | 10 oldest albums                                                                                                                                                                                                                                                                                                        |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737cb0c702a8fd45bfd8358259" alt="Debussy & Ravel: String Quartets" width="50" /> <span style="padding-left:10px;">Debussy & Ravel: String Quartets (2018-05-25)</span></div>                                             | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ff17a9c684ec4757c8c026b0" alt="Shostakovich: String Quartets Nos. 1, 4, 6, 8, 9 & 11" width="50" /> <span style="padding-left:10px;">Shostakovich: String Quartets Nos. 1, 4, 6, 8, 9 & 11 (2005)</span></div>         |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273040c78c4ed7f56a2a3d2a770" alt="Dvorak: String Quintet, Op. 97 & String Sextet, Op. 48" width="50" /> <span style="padding-left:10px;">Dvorak: String Quintet, Op. 97 & String Sextet, Op. 48 (2018-01-19)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="Brahms: String Quartets & Piano Quintet" width="50" /> <span style="padding-left:10px;">Brahms: String Quartets & Piano Quintet (2007-01-01)</span></div>                               |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273eac9461ed0b585b1d2ad7ee2" alt="Beethoven: String Quartets, Op. 18" width="50" /> <span style="padding-left:10px;">Beethoven: String Quartets, Op. 18 (2015-08-31)</span></div>                                         | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737368d9506efe9c2d556d9e98" alt="Haydn: String Quartets" width="50" /> <span style="padding-left:10px;">Haydn: String Quartets (2008-01-01)</span></div>                                                                 |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731d9ef8e92370053b06f8c9ec" alt="Mozart: String Quartets Nos. 4, 17 & 22" width="50" /> <span style="padding-left:10px;">Mozart: String Quartets Nos. 4, 17 & 22 (2011-02-22)</span></div>                               | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27325641d502a60b6ef9c235c29" alt="Beethoven: Complete String Quartets" width="50" /> <span style="padding-left:10px;">Beethoven: Complete String Quartets (2010-10-12)</span></div>                                       |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27325641d502a60b6ef9c235c29" alt="Beethoven: Complete String Quartets" width="50" /> <span style="padding-left:10px;">Beethoven: Complete String Quartets (2010-10-12)</span></div>                                       | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731d9ef8e92370053b06f8c9ec" alt="Mozart: String Quartets Nos. 4, 17 & 22" width="50" /> <span style="padding-left:10px;">Mozart: String Quartets Nos. 4, 17 & 22 (2011-02-22)</span></div>                               |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737368d9506efe9c2d556d9e98" alt="Haydn: String Quartets" width="50" /> <span style="padding-left:10px;">Haydn: String Quartets (2008-01-01)</span></div>                                                                 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273eac9461ed0b585b1d2ad7ee2" alt="Beethoven: String Quartets, Op. 18" width="50" /> <span style="padding-left:10px;">Beethoven: String Quartets, Op. 18 (2015-08-31)</span></div>                                         |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="Brahms: String Quartets & Piano Quintet" width="50" /> <span style="padding-left:10px;">Brahms: String Quartets & Piano Quintet (2007-01-01)</span></div>                               | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273040c78c4ed7f56a2a3d2a770" alt="Dvorak: String Quintet, Op. 97 & String Sextet, Op. 48" width="50" /> <span style="padding-left:10px;">Dvorak: String Quintet, Op. 97 & String Sextet, Op. 48 (2018-01-19)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ff17a9c684ec4757c8c026b0" alt="Shostakovich: String Quartets Nos. 1, 4, 6, 8, 9 & 11" width="50" /> <span style="padding-left:10px;">Shostakovich: String Quartets Nos. 1, 4, 6, 8, 9 & 11 (2005)</span></div>         | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737cb0c702a8fd45bfd8358259" alt="Debussy & Ravel: String Quartets" width="50" /> <span style="padding-left:10px;">Debussy & Ravel: String Quartets (2018-05-25)</span></div>                                             |
 ## Audio Features
 
 | 10 most Danceable tracks                                                               | 10 least Danceable tracks                                                                     |
 |:---------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------|
-| String Quartet No.11 in F Minor, Op. 122: V. Humoresque (Allegro)                      | String Quartet No. 16 in F Major, Op. 135: III. Lento assai, cantate e tranquillo - Più lento |
-| String Quartet No. 4 in C Major, K. 157: III. Presto                                   | String Quartet No. 8 in C Minor, Op. 110: IV. Largo                                           |
-| String Quartet No. 2 in G Major, Op. 18, No. 2: IV. Allegro molto, quasi presto        | String Quartet No. 15 in A minor, Op. 132: III. Molto adagio                                  |
-| String Quartet No. 4 in C Minor, Op. 18, No. 4: II. Andante scherzoso quasi allegretto | String Quartet No. 8 in E Minor, Op. 59 No. 2: II. Molto adagio                               |
-| String Quartet No. 2 in G Major, Op. 18, No. 2: III. Scherzo (Allegro) - Trio          | String Quartet No.11 in F Minor, Op. 122: VI. Elégie (Adagio)                                 |
-| String Quartet No. 8 in C Minor, Op. 110: III. Allegretto                              | String Quartet No. 4 in D Major, Op. 83: II. Andantino                                        |
-| String Quartet No.11 in F Minor, Op. 122: II. Scherzo (Allegretto)                     | String Quartet No.11 in F Minor, Op. 122: I. Introduction (Andantino)                         |
-| String Quartet No. 4 in C Minor, Op. 18 No. 4: II. Andante scherzoso quasi allegretto  | String Quartet No. 8 in C Minor, Op. 110: I. Largo                                            |
-| String Quartet No. 6 in B-Flat Major, Op. 18 No. 6: I. Allegro con brio                | String Quartet in G Minor, Op. 10: III. Andantino, doucement expressif                        |
-| String Quartet No. 5 in A Major, Op. 18 No. 5: I. Allegro                              | String Quartet No. 8 in C Minor, Op. 110: V. Largo                                            |
+| String Quartet No.11 in F Minor, Op. 122: V. Humoresque (Allegro)                      | String Quartet No. 8 in C Minor, Op. 110: V. Largo                                            |
+| String Quartet No. 4 in C Major, K. 157: III. Presto                                   | String Quartet in G Minor, Op. 10: III. Andantino, doucement expressif                        |
+| String Quartet No. 2 in G Major, Op. 18, No. 2: IV. Allegro molto, quasi presto        | String Quartet No. 8 in C Minor, Op. 110: I. Largo                                            |
+| String Quartet No. 4 in C Minor, Op. 18, No. 4: II. Andante scherzoso quasi allegretto | String Quartet No.11 in F Minor, Op. 122: I. Introduction (Andantino)                         |
+| String Quartet No. 2 in G Major, Op. 18, No. 2: III. Scherzo (Allegro) - Trio          | String Quartet No. 4 in D Major, Op. 83: II. Andantino                                        |
+| String Quartet No. 8 in C Minor, Op. 110: III. Allegretto                              | String Quartet No.11 in F Minor, Op. 122: VI. Elégie (Adagio)                                 |
+| String Quartet No.11 in F Minor, Op. 122: II. Scherzo (Allegretto)                     | String Quartet No. 8 in E Minor, Op. 59 No. 2: II. Molto adagio                               |
+| String Quartet No. 4 in C Minor, Op. 18 No. 4: II. Andante scherzoso quasi allegretto  | String Quartet No. 15 in A minor, Op. 132: III. Molto adagio                                  |
+| String Quartet No. 6 in B-Flat Major, Op. 18 No. 6: I. Allegro con brio                | String Quartet No. 8 in C Minor, Op. 110: IV. Largo                                           |
+| String Quartet No. 5 in A Major, Op. 18 No. 5: I. Allegro                              | String Quartet No. 16 in F Major, Op. 135: III. Lento assai, cantate e tranquillo - Più lento |
 
 | 10 most Energetic tracks                                                                         | 10 least Energetic tracks                                                                    |
 |:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------|
-| String Quartet No. 8 in C Minor, Op. 110: II. Allegro molto                                      | String Quartet No.11 in F Minor, Op. 122: I. Introduction (Andantino)                        |
-| String Quartet No.11 in F Minor, Op. 122: V. Humoresque (Allegro)                                | String Quartet in G Major, Op. 76, No. 1: II. Adagio sostenuto                               |
-| String Quartet No. 9 in E-Flat Major, Op. 117: V. Allegro                                        | String Quartet No. 8 in E Minor, Op. 59 No. 2: II. Molto adagio                              |
-| String Quartet No. 1 in C Major, Op. 49: IV. Allegro                                             | String Quartet No. 8 in C Minor, Op. 110: V. Largo                                           |
-| String Quartet No. 4 in C Major, K. 157: III. Presto                                             | String Quartet No. 6 in G Major, Op. 101: III. Lento                                         |
-| String Quartet in C Major, Op. 74, No. 1: IV. Finale, Vivace                                     | String Quartet No. 8 in C Minor, Op. 110: IV. Largo                                          |
-| String Quartet No. 9 in E-Flat Major, Op. 117: III. Allegretto                                   | String Quartet No. 14 in C-Sharp Minor, Op. 131: III. Allegro moderato - Adagio - Piu vivace |
-| String Quartet No. 16 in F Major, Op. 135: II. Vivace                                            | String Quartet No.11 in F Minor, Op. 122: VII. Finale (Moderato)                             |
-| String Quartet No. 9 in C Major, Op. 59 No. 3: IV. Finale (Allegro molto)                        | String Quartet No. 8 in C Minor, Op. 110: I. Largo                                           |
-| String Quartet No. 10 in E-Flat Major, Op. 74 "Harp": III. Presto - Più presto quasi prestissimo | String Quartet No. 9 in E-Flat Major, Op. 117: IV. Adagio                                    |
+| String Quartet No. 8 in C Minor, Op. 110: II. Allegro molto                                      | String Quartet No. 9 in E-Flat Major, Op. 117: IV. Adagio                                    |
+| String Quartet No.11 in F Minor, Op. 122: V. Humoresque (Allegro)                                | String Quartet No. 8 in C Minor, Op. 110: I. Largo                                           |
+| String Quartet No. 9 in E-Flat Major, Op. 117: V. Allegro                                        | String Quartet No.11 in F Minor, Op. 122: VII. Finale (Moderato)                             |
+| String Quartet No. 1 in C Major, Op. 49: IV. Allegro                                             | String Quartet No. 14 in C-Sharp Minor, Op. 131: III. Allegro moderato - Adagio - Piu vivace |
+| String Quartet No. 4 in C Major, K. 157: III. Presto                                             | String Quartet No. 8 in C Minor, Op. 110: IV. Largo                                          |
+| String Quartet in C Major, Op. 74, No. 1: IV. Finale, Vivace                                     | String Quartet No. 6 in G Major, Op. 101: III. Lento                                         |
+| String Quartet No. 9 in E-Flat Major, Op. 117: III. Allegretto                                   | String Quartet No. 8 in C Minor, Op. 110: V. Largo                                           |
+| String Quartet No. 16 in F Major, Op. 135: II. Vivace                                            | String Quartet No. 8 in E Minor, Op. 59 No. 2: II. Molto adagio                              |
+| String Quartet No. 9 in C Major, Op. 59 No. 3: IV. Finale (Allegro molto)                        | String Quartet in G Major, Op. 76, No. 1: II. Adagio sostenuto                               |
+| String Quartet No. 10 in E-Flat Major, Op. 74 "Harp": III. Presto - Più presto quasi prestissimo | String Quartet No.11 in F Minor, Op. 122: I. Introduction (Andantino)                        |
 
 | 10 most Speechy tracks                                                                               | 10 least Speechy tracks                                                                          |
 |:-----------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------|
-| String Quartet No.11 in F Minor, Op. 122: V. Humoresque (Allegro)                                    | String Quartet No. 1 in C Major, Op. 49: IV. Allegro                                             |
-| String Quartet No. 11 in F Minor, Op. 95 "Quartetto serioso": III. Allegro assai - Vivace ma serioso | String Quartet in C Major, Op. 74, No. 1: I. Allegro Moderato                                    |
-| String Quartet No. 6 in B-Flat Major, Op. 18 No. 6: III. Scherzo (Allegro) - Trio                    | String Quartet No. 4 in C Major, K. 157: I. Allegro                                              |
-| String Quartet No. 4 in C Minor, Op. 18, No. 4: II. Andante scherzoso quasi allegretto               | String Quartet No. 9 in C Major, Op. 59 No. 3: IV. Finale (Allegro molto)                        |
-| String Quartet in G Major, Op. 76, No. 1: III. Menuetto, Presto                                      | String Quartet No. 9 in E-Flat Major, Op. 117: I. Moderato Con Moto                              |
-| String Quartet No.11 in F Minor, Op. 122: II. Scherzo (Allegretto)                                   | String Quartet in G Major, Op. 76, No. 1: II. Adagio sostenuto                                   |
-| String Quartet No. 1 in F Major, Op. 18 No. 1: I. Allegro con brio                                   | String Quartet in G Major, Op. 76, No. 1: IV. Allegro ma non troppo                              |
-| String Quartet No. 8 in C Minor, Op. 110: V. Largo                                                   | String Quartet No. 8 in C Minor, Op. 110: II. Allegro molto                                      |
-| String Quartet No. 6 in B-Flat Major, Op. 18 No. 6: III. Scherzo (Allegro) - Trio                    | String Quartet No. 10 in E-Flat Major, Op. 74 "Harp": III. Presto - Più presto quasi prestissimo |
-| String Quartet No. 5 in A Major, Op. 18 No. 5: I. Allegro                                            | String Quartet in C Major, Op. 74, No. 1: III. Menuetto, Allegretto                              |
+| String Quartet No.11 in F Minor, Op. 122: V. Humoresque (Allegro)                                    | String Quartet in C Major, Op. 74, No. 1: III. Menuetto, Allegretto                              |
+| String Quartet No. 11 in F Minor, Op. 95 "Quartetto serioso": III. Allegro assai - Vivace ma serioso | String Quartet No. 10 in E-Flat Major, Op. 74 "Harp": III. Presto - Più presto quasi prestissimo |
+| String Quartet No. 6 in B-Flat Major, Op. 18 No. 6: III. Scherzo (Allegro) - Trio                    | String Quartet No. 8 in C Minor, Op. 110: II. Allegro molto                                      |
+| String Quartet No. 4 in C Minor, Op. 18, No. 4: II. Andante scherzoso quasi allegretto               | String Quartet in G Major, Op. 76, No. 1: IV. Allegro ma non troppo                              |
+| String Quartet in G Major, Op. 76, No. 1: III. Menuetto, Presto                                      | String Quartet in G Major, Op. 76, No. 1: II. Adagio sostenuto                                   |
+| String Quartet No.11 in F Minor, Op. 122: II. Scherzo (Allegretto)                                   | String Quartet No. 9 in E-Flat Major, Op. 117: I. Moderato Con Moto                              |
+| String Quartet No. 1 in F Major, Op. 18 No. 1: I. Allegro con brio                                   | String Quartet No. 9 in C Major, Op. 59 No. 3: IV. Finale (Allegro molto)                        |
+| String Quartet No. 8 in C Minor, Op. 110: V. Largo                                                   | String Quartet No. 4 in C Major, K. 157: I. Allegro                                              |
+| String Quartet No. 6 in B-Flat Major, Op. 18 No. 6: III. Scherzo (Allegro) - Trio                    | String Quartet in C Major, Op. 74, No. 1: I. Allegro Moderato                                    |
+| String Quartet No. 5 in A Major, Op. 18 No. 5: I. Allegro                                            | String Quartet No. 1 in C Major, Op. 49: IV. Allegro                                             |
 
 | 10 most Acoustic tracks                                                             | 10 least Acoustic tracks                                                                      |
 |:------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------|
-| String Quartet in C Major, Op. 74, No. 1: III. Menuetto, Allegretto                 | String Quartet No. 14 in C-Sharp Minor, Op. 131: V. Presto                                    |
-| String Quartet in G Minor, Op. 20, No. 3: II. Menuetto, Allegretto                  | String Quartet No. 2 in G Major, Op. 18, No. 2: IV. Allegro molto, quasi presto               |
-| String Quartet No.11 in F Minor, Op. 122: III. Récitatif (Adagio)                   | String Quartet No. 3 In B Flat, Op. 67: 2. Andante                                            |
-| String Quartet in G Minor, Op. 20, No. 3: IV. Finale, Allegro molto                 | String Quartet No. 11 in F Minor, Op. 95 "Serioso": I. Allegro con brio                       |
-| String Quartet No.11 in F Minor, Op. 122: VI. Elégie (Adagio)                       | String Quartet No. 16 in F Major, Op. 135: III. Lento assai, cantate e tranquillo - Più lento |
-| String Quartet in C Major, Op. 74, No. 1: I. Allegro Moderato                       | String Quartet No. 15 in A minor, Op. 132: III. Molto adagio                                  |
-| String Quartet in G Major, Op. 76, No. 1: IV. Allegro ma non troppo                 | String Quartet No.11 in F Minor, Op. 122: V. Humoresque (Allegro)                             |
-| String Quartet in G Major, Op. 76, No. 1: I. Allegro con spirito                    | String Sextet, Op. 48: III. Furiant. Presto - Trio                                            |
-| String Quartet No. 22 in B-Flat Major, K. 589, "Prussian": I. Allegro               | String Sextet, Op. 48: IV. Finale. Tema con variazioni - Allegretto grazioso, quasi andantino |
-| String Quartet No. 22 in B-Flat Major, K. 589, "Prussian": III. Menuetto - Moderato | String Sextet, Op. 48: II. Dumka (Elegie). Poco allegretto                                    |
+| String Quartet in C Major, Op. 74, No. 1: III. Menuetto, Allegretto                 | String Sextet, Op. 48: II. Dumka (Elegie). Poco allegretto                                    |
+| String Quartet in G Minor, Op. 20, No. 3: II. Menuetto, Allegretto                  | String Sextet, Op. 48: IV. Finale. Tema con variazioni - Allegretto grazioso, quasi andantino |
+| String Quartet No.11 in F Minor, Op. 122: III. Récitatif (Adagio)                   | String Sextet, Op. 48: III. Furiant. Presto - Trio                                            |
+| String Quartet in G Minor, Op. 20, No. 3: IV. Finale, Allegro molto                 | String Quartet No.11 in F Minor, Op. 122: V. Humoresque (Allegro)                             |
+| String Quartet No.11 in F Minor, Op. 122: VI. Elégie (Adagio)                       | String Quartet No. 15 in A minor, Op. 132: III. Molto adagio                                  |
+| String Quartet in C Major, Op. 74, No. 1: I. Allegro Moderato                       | String Quartet No. 16 in F Major, Op. 135: III. Lento assai, cantate e tranquillo - Più lento |
+| String Quartet in G Major, Op. 76, No. 1: IV. Allegro ma non troppo                 | String Quartet No. 11 in F Minor, Op. 95 "Serioso": I. Allegro con brio                       |
+| String Quartet in G Major, Op. 76, No. 1: I. Allegro con spirito                    | String Quartet No. 3 In B Flat, Op. 67: 2. Andante                                            |
+| String Quartet No. 22 in B-Flat Major, K. 589, "Prussian": I. Allegro               | String Quartet No. 2 in G Major, Op. 18, No. 2: IV. Allegro molto, quasi presto               |
+| String Quartet No. 22 in B-Flat Major, K. 589, "Prussian": III. Menuetto - Moderato | String Quartet No. 14 in C-Sharp Minor, Op. 131: V. Presto                                    |
 
 | 10 most Instrumental tracks                                                       | 10 least Instrumental tracks                                                                 |
 |:----------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------|
-| String Quartet No. 14 in C-Sharp Minor, Op. 131: VI. Adagio quasi un poco andante | String Quartet No. 5 in A Major, Op. 18 No. 5: II. Menuetto - Trio                           |
-| String Quartet No.11 in F Minor, Op. 122: III. Récitatif (Adagio)                 | String Quartet No. 1 in F Major, Op. 18 No. 1: IV. Allegro                                   |
-| String Quartet No. 8 in C Minor, Op. 110: II. Allegro molto                       | String Quartet No. 8 in E Minor, Op. 59 No. 2: IV. Finale (Presto)                           |
-| String Quartet in G Minor, Op. 10: I. Animé et très décidé                        | String Quartet No. 14 in C-Sharp Minor, Op. 131: IV. Andante ma non troppo e molto cantabile |
-| String Sextet, Op. 48: II. Dumka (Elegie). Poco allegretto                        | String Quartet No. 14 in C-Sharp Minor, Op. 131: II. Allegro molto vivace                    |
-| String Quartet No. 9 in E-Flat Major, Op. 117: I. Moderato Con Moto               | String Quartet No. 13 in B-Flat Major, Op. 130: IV. Alla danza tedesca (allegro assai)       |
-| String Quartet in G Minor, Op. 10: II. Assez vif et bien rythmé                   | String Quartet No. 1 in F Major, Op. 18 No. 1: II. Adagio affettuoso ed appassionato         |
-| String Quartet in C Major, Op. 74, No. 1: IV. Finale, Vivace                      | String Quartet No.11 in F Minor, Op. 122: VII. Finale (Moderato)                             |
-| String Quartet No. 9 in C Major, Op. 59 No. 3: IV. Finale (Allegro molto)         | String Quartet No. 2 in G Major, Op. 18, No. 2: I. Allegro                                   |
-| String Quartet No. 16 in F Major, Op. 135: II. Vivace                             | String Quartet No. 6 in B-Flat Major, Op. 18 No. 6: II. Adagio ma non troppo                 |
+| String Quartet No. 14 in C-Sharp Minor, Op. 131: VI. Adagio quasi un poco andante | String Quartet No. 6 in B-Flat Major, Op. 18 No. 6: II. Adagio ma non troppo                 |
+| String Quartet No.11 in F Minor, Op. 122: III. Récitatif (Adagio)                 | String Quartet No. 2 in G Major, Op. 18, No. 2: I. Allegro                                   |
+| String Quartet No. 8 in C Minor, Op. 110: II. Allegro molto                       | String Quartet No.11 in F Minor, Op. 122: VII. Finale (Moderato)                             |
+| String Quartet in G Minor, Op. 10: I. Animé et très décidé                        | String Quartet No. 1 in F Major, Op. 18 No. 1: II. Adagio affettuoso ed appassionato         |
+| String Sextet, Op. 48: II. Dumka (Elegie). Poco allegretto                        | String Quartet No. 13 in B-Flat Major, Op. 130: IV. Alla danza tedesca (allegro assai)       |
+| String Quartet No. 9 in E-Flat Major, Op. 117: I. Moderato Con Moto               | String Quartet No. 14 in C-Sharp Minor, Op. 131: II. Allegro molto vivace                    |
+| String Quartet in G Minor, Op. 10: II. Assez vif et bien rythmé                   | String Quartet No. 14 in C-Sharp Minor, Op. 131: IV. Andante ma non troppo e molto cantabile |
+| String Quartet in C Major, Op. 74, No. 1: IV. Finale, Vivace                      | String Quartet No. 8 in E Minor, Op. 59 No. 2: IV. Finale (Presto)                           |
+| String Quartet No. 9 in C Major, Op. 59 No. 3: IV. Finale (Allegro molto)         | String Quartet No. 1 in F Major, Op. 18 No. 1: IV. Allegro                                   |
+| String Quartet No. 16 in F Major, Op. 135: II. Vivace                             | String Quartet No. 5 in A Major, Op. 18 No. 5: II. Menuetto - Trio                           |
 
 | 10 most Live tracks                                                                              | 10 least Live tracks                                                                      |
 |:-------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------|
-| String Quartet No. 2 in G Major, Op. 18, No. 2: III. Scherzo (Allegro) - Trio                    | String Quartet No. 3 in D Major, Op. 18: I. Allegro                                       |
-| String Quartet No. 10 in E-Flat Major, Op. 74 "Harp": III. Presto - Più presto quasi prestissimo | String Quartet No. 2 in G Major, Op. 18, No. 2: IV. Allegro molto, quasi presto           |
-| String Quartet No. 13 in B-Flat Major, Op. 130: I. Adagio ma non troppo – Allegro                | String Quartet No. 8 in C Minor, Op. 110: III. Allegretto                                 |
-| String Quartet No. 3 in D Major, Op. 18: III. Allegro                                            | String Quartet in G Major, Op. 76, No. 1: I. Allegro con spirito                          |
-| String Quartet No.11 in F Minor, Op. 122: IV. Etude (Allegro)                                    | String Quartet No. 6 in B-Flat Major, Op. 18 No. 6: III. Scherzo (Allegro) - Trio         |
-| String Quartet No. 5 in A Major, Op. 18 No. 5: IV. Allegro                                       | String Quartet No. 5 in A Major, Op. 18 No. 5: II. Menuetto - Trio                        |
-| String Quartet No. 3 In B Flat, Op. 67: 3. Agitato (Allegretto non troppo)                       | String Quartet No. 8 in E Minor, Op. 59 No. 2: I. Allegro                                 |
-| String Quartet No. 17 in B-Flat Major, K. 458 "The Hunt": II. Menuetto (Moderato)                | Piano Quintet in F minor, Op. 34: 4. Finale (poco sostenuto - Allegro non troppo)         |
-| String Quartet No. 16 in F Major, Op. 135: I. Allegretto                                         | String Quartet No. 3 in D Major, Op. 18: I. Allegro                                       |
-| String Quartet No. 1 in F Major, Op. 18 No. 1: IV. Allegro                                       | String Quartet No. 2 In A Minor, Op. 51 No. 2: 4. Finale (Allegro non assai - Più vivace) |
+| String Quartet No. 2 in G Major, Op. 18, No. 2: III. Scherzo (Allegro) - Trio                    | String Quartet No. 2 In A Minor, Op. 51 No. 2: 4. Finale (Allegro non assai - Più vivace) |
+| String Quartet No. 10 in E-Flat Major, Op. 74 "Harp": III. Presto - Più presto quasi prestissimo | String Quartet No. 3 in D Major, Op. 18: I. Allegro                                       |
+| String Quartet No. 13 in B-Flat Major, Op. 130: I. Adagio ma non troppo – Allegro                | Piano Quintet in F minor, Op. 34: 4. Finale (poco sostenuto - Allegro non troppo)         |
+| String Quartet No. 3 in D Major, Op. 18: III. Allegro                                            | String Quartet No. 8 in E Minor, Op. 59 No. 2: I. Allegro                                 |
+| String Quartet No.11 in F Minor, Op. 122: IV. Etude (Allegro)                                    | String Quartet No. 5 in A Major, Op. 18 No. 5: II. Menuetto - Trio                        |
+| String Quartet No. 5 in A Major, Op. 18 No. 5: IV. Allegro                                       | String Quartet No. 6 in B-Flat Major, Op. 18 No. 6: III. Scherzo (Allegro) - Trio         |
+| String Quartet No. 3 In B Flat, Op. 67: 3. Agitato (Allegretto non troppo)                       | String Quartet in G Major, Op. 76, No. 1: I. Allegro con spirito                          |
+| String Quartet No. 17 in B-Flat Major, K. 458 "The Hunt": II. Menuetto (Moderato)                | String Quartet No. 8 in C Minor, Op. 110: III. Allegretto                                 |
+| String Quartet No. 16 in F Major, Op. 135: I. Allegretto                                         | String Quartet No. 2 in G Major, Op. 18, No. 2: IV. Allegro molto, quasi presto           |
+| String Quartet No. 1 in F Major, Op. 18 No. 1: IV. Allegro                                       | String Quartet No. 3 in D Major, Op. 18: I. Allegro                                       |
 
 | 10 most Happy tracks                                                              | 10 least Happy tracks                                                                         |
 |:----------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------|
-| String Quartet No. 4 in C Major, K. 157: III. Presto                              | Quatuor en Fa Majeur, M. 35: III. Très lent                                                   |
-| String Quartet No. 6 in B-Flat Major, Op. 18 No. 6: III. Scherzo (Allegro) - Trio | String Quartet No. 16 in F Major, Op. 135: III. Lento assai, cantate e tranquillo - Più lento |
-| String Quartet No. 6 in B-Flat Major, Op. 18 No. 6: III. Scherzo (Allegro) - Trio | String Quartet No. 8 in C Minor, Op. 110: IV. Largo                                           |
-| String Quartet No. 8 in C Minor, Op. 110: II. Allegro molto                       | String Quartet No. 6 in G Major, Op. 101: III. Lento                                          |
-| String Quartet No. 16 in F Major, Op. 135: II. Vivace                             | String Quartet No. 8 in C Minor, Op. 110: V. Largo                                            |
-| String Quartet No. 4 in C Major, K. 157: I. Allegro                               | String Quartet No. 8 in C Minor, Op. 110: I. Largo                                            |
-| String Quartet No. 2 in G Major, Op. 18, No. 2: III. Scherzo (Allegro) - Trio     | String Quartet No. 4 in D Major, Op. 83: II. Andantino                                        |
-| String Quartet No. 14 in C-Sharp Minor, Op. 131: V. Presto                        | String Quartet in G Minor, Op. 10: III. Andantino, doucement expressif                        |
-| String Quartet No. 2 in G Major, Op. 18, No. 2: III. Scherzo (Allegro) - Trio     | String Quartet No.11 in F Minor, Op. 122: VI. Elégie (Adagio)                                 |
-| String Quartet No. 17 in B-Flat Major, K. 458 "The Hunt": IV. Allegro assai       | String Quartet No. 9 in E-Flat Major, Op. 117: II. Adagio                                     |
+| String Quartet No. 4 in C Major, K. 157: III. Presto                              | String Quartet No. 9 in E-Flat Major, Op. 117: II. Adagio                                     |
+| String Quartet No. 6 in B-Flat Major, Op. 18 No. 6: III. Scherzo (Allegro) - Trio | String Quartet No.11 in F Minor, Op. 122: VI. Elégie (Adagio)                                 |
+| String Quartet No. 6 in B-Flat Major, Op. 18 No. 6: III. Scherzo (Allegro) - Trio | String Quartet in G Minor, Op. 10: III. Andantino, doucement expressif                        |
+| String Quartet No. 8 in C Minor, Op. 110: II. Allegro molto                       | String Quartet No. 4 in D Major, Op. 83: II. Andantino                                        |
+| String Quartet No. 16 in F Major, Op. 135: II. Vivace                             | String Quartet No. 8 in C Minor, Op. 110: I. Largo                                            |
+| String Quartet No. 4 in C Major, K. 157: I. Allegro                               | String Quartet No. 8 in C Minor, Op. 110: V. Largo                                            |
+| String Quartet No. 2 in G Major, Op. 18, No. 2: III. Scherzo (Allegro) - Trio     | String Quartet No. 6 in G Major, Op. 101: III. Lento                                          |
+| String Quartet No. 14 in C-Sharp Minor, Op. 131: V. Presto                        | String Quartet No. 8 in C Minor, Op. 110: IV. Largo                                           |
+| String Quartet No. 2 in G Major, Op. 18, No. 2: III. Scherzo (Allegro) - Trio     | String Quartet No. 16 in F Major, Op. 135: III. Lento assai, cantate e tranquillo - Più lento |
+| String Quartet No. 17 in B-Flat Major, K. 458 "The Hunt": IV. Allegro assai       | Quatuor en Fa Majeur, M. 35: III. Très lent                                                   |

@@ -50,23 +50,23 @@
 <details>
 <summary>See all 15 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album            | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------|:-----------------------------------------------------------|
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27384095737f6056e682666d6f9" alt="" width="50" /> | Tomboy           | [🔗](https://open.spotify.com/album/2uDZBeyyQ7mfwF9mUJeYUG) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="" width="50" /> | The Prelude      | [🔗](https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27318ff322fcdd47c9400872da6" alt="" width="50" /> | TAKE TIME        | [🔗](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="" width="50" /> | Slime & B        | [🔗](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="" width="50" /> | Purpose (Deluxe) | [🔗](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb" alt="" width="50" /> | Motley Crew      | [🔗](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d3b343b757e4f3275bb2f26a" alt="" width="50" /> | MINT             | [🔗](https://open.spotify.com/album/5hUQgovUfTYN47QGQXF8k2) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736564f1d8386a6993b4d5d759" alt="" width="50" /> | LUCID            | [🔗](https://open.spotify.com/album/5qQhQ1rmPjqQgv8RmfaQU3) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="" width="50" /> | Justice          | [🔗](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f4d64a6a6b7e24b6bd9f009f" alt="" width="50" /> | El Mal Querer    | [🔗](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c4f298e7cbedb77f8e030ff0" alt="" width="50" /> | Cry for Me       | [🔗](https://open.spotify.com/album/2dq4ae5hiyxlFPG1s8rlq5) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739351691c007cad99d70d9f3f" alt="" width="50" /> | Cravin           | [🔗](https://open.spotify.com/album/6c66PBJdg7EWPcFUvLyFFu) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738cae5034066af45cdfbc4266" alt="" width="50" /> | Church Of Scars  | [🔗](https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="" width="50" /> | Better Mistakes  | [🔗](https://open.spotify.com/album/0ypVp54cO3kexiJNu33wYp) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="" width="50" /> | ALL OUT          | [🔗](https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb) |
+|   Number of Tracks | Art                                                                                              | Album            | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------|:---------------|:-----------------------------------------------------------|
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27384095737f6056e682666d6f9" alt="" width="50" /> | Tomboy           | 2019-02-28     | [🔗](https://open.spotify.com/album/2uDZBeyyQ7mfwF9mUJeYUG) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="" width="50" /> | The Prelude      | 2020-07-17     | [🔗](https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27318ff322fcdd47c9400872da6" alt="" width="50" /> | TAKE TIME        | 2020-03-27     | [🔗](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="" width="50" /> | Slime & B        | 2020-05-08     | [🔗](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="" width="50" /> | Purpose (Deluxe) | 2015-11-13     | [🔗](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb" alt="" width="50" /> | Motley Crew      | 2021-07-09     | [🔗](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d3b343b757e4f3275bb2f26a" alt="" width="50" /> | MINT             | 2018-10-19     | [🔗](https://open.spotify.com/album/5hUQgovUfTYN47QGQXF8k2) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736564f1d8386a6993b4d5d759" alt="" width="50" /> | LUCID            | 2019-11-15     | [🔗](https://open.spotify.com/album/5qQhQ1rmPjqQgv8RmfaQU3) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="" width="50" /> | Justice          | 2021-03-19     | [🔗](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f4d64a6a6b7e24b6bd9f009f" alt="" width="50" /> | El Mal Querer    | 2018-11-02     | [🔗](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c4f298e7cbedb77f8e030ff0" alt="" width="50" /> | Cry for Me       | 2019-10-04     | [🔗](https://open.spotify.com/album/2dq4ae5hiyxlFPG1s8rlq5) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739351691c007cad99d70d9f3f" alt="" width="50" /> | Cravin           | 2019-10-18     | [🔗](https://open.spotify.com/album/6c66PBJdg7EWPcFUvLyFFu) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738cae5034066af45cdfbc4266" alt="" width="50" /> | Church Of Scars  | 2018-04-20     | [🔗](https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="" width="50" /> | Better Mistakes  | 2021-05-07     | [🔗](https://open.spotify.com/album/0ypVp54cO3kexiJNu33wYp) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="" width="50" /> | ALL OUT          | 2020-11-06     | [🔗](https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb) |
 
 </details>
 
@@ -140,95 +140,113 @@
 </details>
 
 
+## Years
+
+
+
+
+
+| 10 newest albums                                                                                                                                                                                                                          | 10 oldest albums                                                                                                                                                                                                                            |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb" alt="Motley Crew" width="50" /> <span style="padding-left:10px;">Motley Crew (2021-07-09)</span></div>         | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="Purpose (Deluxe)" width="50" /> <span style="padding-left:10px;">Purpose (Deluxe) (2015-11-13)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="Better Mistakes" width="50" /> <span style="padding-left:10px;">Better Mistakes (2021-05-07)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738cae5034066af45cdfbc4266" alt="Church Of Scars" width="50" /> <span style="padding-left:10px;">Church Of Scars (2018-04-20)</span></div>   |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="Justice" width="50" /> <span style="padding-left:10px;">Justice (2021-03-19)</span></div>                 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d3b343b757e4f3275bb2f26a" alt="MINT" width="50" /> <span style="padding-left:10px;">MINT (2018-10-19)</span></div>                         |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="ALL OUT" width="50" /> <span style="padding-left:10px;">ALL OUT (2020-11-06)</span></div>                 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f4d64a6a6b7e24b6bd9f009f" alt="El Mal Querer" width="50" /> <span style="padding-left:10px;">El Mal Querer (2018-11-02)</span></div>       |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="The Prelude" width="50" /> <span style="padding-left:10px;">The Prelude (2020-07-17)</span></div>         | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27384095737f6056e682666d6f9" alt="Tomboy" width="50" /> <span style="padding-left:10px;">Tomboy (2019-02-28)</span></div>                     |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="Slime & B" width="50" /> <span style="padding-left:10px;">Slime & B (2020-05-08)</span></div>             | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c4f298e7cbedb77f8e030ff0" alt="Cry for Me" width="50" /> <span style="padding-left:10px;">Cry for Me (2019-10-04)</span></div>             |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27318ff322fcdd47c9400872da6" alt="TAKE TIME" width="50" /> <span style="padding-left:10px;">TAKE TIME (2020-03-27)</span></div>             | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739351691c007cad99d70d9f3f" alt="Cravin" width="50" /> <span style="padding-left:10px;">Cravin (2019-10-18)</span></div>                     |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736564f1d8386a6993b4d5d759" alt="LUCID" width="50" /> <span style="padding-left:10px;">LUCID (2019-11-15)</span></div>                     | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736564f1d8386a6993b4d5d759" alt="LUCID" width="50" /> <span style="padding-left:10px;">LUCID (2019-11-15)</span></div>                       |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739351691c007cad99d70d9f3f" alt="Cravin" width="50" /> <span style="padding-left:10px;">Cravin (2019-10-18)</span></div>                   | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27318ff322fcdd47c9400872da6" alt="TAKE TIME" width="50" /> <span style="padding-left:10px;">TAKE TIME (2020-03-27)</span></div>               |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c4f298e7cbedb77f8e030ff0" alt="Cry for Me" width="50" /> <span style="padding-left:10px;">Cry for Me (2019-10-04)</span></div>           | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="Slime & B" width="50" /> <span style="padding-left:10px;">Slime & B (2020-05-08)</span></div>               |
 ## Audio Features
 
 | 10 most Danceable tracks                    | 10 least Danceable tracks                   |
 |:--------------------------------------------|:--------------------------------------------|
-| MALAMENTE - Cap.1: Augurio                  | Break My Heart Myself (feat. Travis Barker) |
-| Cravin (feat. G-Eazy)                       | River                                       |
-| At My Worst                                 | Mushroom Chocolate (with 6LACK)             |
-| Motley Crew                                 | Cry for Me                                  |
-| City Girls                                  | VILLAIN                                     |
-| Break My Heart Myself (feat. Travis Barker) | Tomboy                                      |
-| River                                       | Tango                                       |
-| Mushroom Chocolate (with 6LACK)             | Off My Face                                 |
-| Cry for Me                                  | Heartbreak Anniversary                      |
-| VILLAIN                                     | I'll Show You                               |
+| MALAMENTE - Cap.1: Augurio                  | I'll Show You                               |
+| Cravin (feat. G-Eazy)                       | Heartbreak Anniversary                      |
+| At My Worst                                 | Off My Face                                 |
+| Motley Crew                                 | Tango                                       |
+| City Girls                                  | Tomboy                                      |
+| Break My Heart Myself (feat. Travis Barker) | VILLAIN                                     |
+| River                                       | Cry for Me                                  |
+| Mushroom Chocolate (with 6LACK)             | Mushroom Chocolate (with 6LACK)             |
+| Cry for Me                                  | River                                       |
+| VILLAIN                                     | Break My Heart Myself (feat. Travis Barker) |
 
 | 10 most Energetic tracks                    | 10 least Energetic tracks       |
 |:--------------------------------------------|:--------------------------------|
-| Break My Heart Myself (feat. Travis Barker) | I'll Show You                   |
-| Cry for Me                                  | City Girls                      |
-| Tomboy                                      | Mushroom Chocolate (with 6LACK) |
-| VILLAIN                                     | Cravin (feat. G-Eazy)           |
-| Motley Crew                                 | Tango                           |
-| I'll Show You                               | MALAMENTE - Cap.1: Augurio      |
-| City Girls                                  | River                           |
-| Mushroom Chocolate (with 6LACK)             | Heartbreak Anniversary          |
-| Cravin (feat. G-Eazy)                       | At My Worst                     |
-| Tango                                       | Off My Face                     |
+| Break My Heart Myself (feat. Travis Barker) | Off My Face                     |
+| Cry for Me                                  | At My Worst                     |
+| Tomboy                                      | Heartbreak Anniversary          |
+| VILLAIN                                     | River                           |
+| Motley Crew                                 | MALAMENTE - Cap.1: Augurio      |
+| I'll Show You                               | Tango                           |
+| City Girls                                  | Cravin (feat. G-Eazy)           |
+| Mushroom Chocolate (with 6LACK)             | Mushroom Chocolate (with 6LACK) |
+| Cravin (feat. G-Eazy)                       | City Girls                      |
+| Tango                                       | I'll Show You                   |
 
 | 10 most Speechy tracks                      | 10 least Speechy tracks                     |
 |:--------------------------------------------|:--------------------------------------------|
-| Cravin (feat. G-Eazy)                       | Heartbreak Anniversary                      |
-| Tango                                       | Motley Crew                                 |
-| I'll Show You                               | Break My Heart Myself (feat. Travis Barker) |
-| Cry for Me                                  | City Girls                                  |
-| MALAMENTE - Cap.1: Augurio                  | River                                       |
-| Heartbreak Anniversary                      | Mushroom Chocolate (with 6LACK)             |
-| Motley Crew                                 | Tomboy                                      |
-| Break My Heart Myself (feat. Travis Barker) | VILLAIN                                     |
-| City Girls                                  | At My Worst                                 |
-| River                                       | Off My Face                                 |
+| Cravin (feat. G-Eazy)                       | Off My Face                                 |
+| Tango                                       | At My Worst                                 |
+| I'll Show You                               | VILLAIN                                     |
+| Cry for Me                                  | Tomboy                                      |
+| MALAMENTE - Cap.1: Augurio                  | Mushroom Chocolate (with 6LACK)             |
+| Heartbreak Anniversary                      | River                                       |
+| Motley Crew                                 | City Girls                                  |
+| Break My Heart Myself (feat. Travis Barker) | Break My Heart Myself (feat. Travis Barker) |
+| City Girls                                  | Motley Crew                                 |
+| River                                       | Heartbreak Anniversary                      |
 
 | 10 most Acoustic tracks                     | 10 least Acoustic tracks                    |
 |:--------------------------------------------|:--------------------------------------------|
-| Off My Face                                 | Tomboy                                      |
-| At My Worst                                 | Break My Heart Myself (feat. Travis Barker) |
-| Mushroom Chocolate (with 6LACK)             | River                                       |
-| MALAMENTE - Cap.1: Augurio                  | Tango                                       |
-| Heartbreak Anniversary                      | Cravin (feat. G-Eazy)                       |
-| Tomboy                                      | Motley Crew                                 |
-| Break My Heart Myself (feat. Travis Barker) | I'll Show You                               |
-| River                                       | Cry for Me                                  |
-| Tango                                       | City Girls                                  |
-| Cravin (feat. G-Eazy)                       | VILLAIN                                     |
+| Off My Face                                 | VILLAIN                                     |
+| At My Worst                                 | City Girls                                  |
+| Mushroom Chocolate (with 6LACK)             | Cry for Me                                  |
+| MALAMENTE - Cap.1: Augurio                  | I'll Show You                               |
+| Heartbreak Anniversary                      | Motley Crew                                 |
+| Tomboy                                      | Cravin (feat. G-Eazy)                       |
+| Break My Heart Myself (feat. Travis Barker) | Tango                                       |
+| River                                       | River                                       |
+| Tango                                       | Break My Heart Myself (feat. Travis Barker) |
+| Cravin (feat. G-Eazy)                       | Tomboy                                      |
 
 | 10 most Instrumental tracks     | 10 least Instrumental tracks                |
 |:--------------------------------|:--------------------------------------------|
-| MALAMENTE - Cap.1: Augurio      | River                                       |
-| Tomboy                          | Heartbreak Anniversary                      |
-| I'll Show You                   | Cravin (feat. G-Eazy)                       |
-| Mushroom Chocolate (with 6LACK) | VILLAIN                                     |
-| Motley Crew                     | City Girls                                  |
-| River                           | Cry for Me                                  |
-| Heartbreak Anniversary          | Break My Heart Myself (feat. Travis Barker) |
-| At My Worst                     | Off My Face                                 |
-| Tango                           | Tango                                       |
-| Off My Face                     | At My Worst                                 |
+| MALAMENTE - Cap.1: Augurio      | At My Worst                                 |
+| Tomboy                          | Tango                                       |
+| I'll Show You                   | Off My Face                                 |
+| Mushroom Chocolate (with 6LACK) | Break My Heart Myself (feat. Travis Barker) |
+| Motley Crew                     | Cry for Me                                  |
+| River                           | City Girls                                  |
+| Heartbreak Anniversary          | VILLAIN                                     |
+| At My Worst                     | Cravin (feat. G-Eazy)                       |
+| Tango                           | Heartbreak Anniversary                      |
+| Off My Face                     | River                                       |
 
 | 10 most Live tracks    | 10 least Live tracks                        |
 |:-----------------------|:--------------------------------------------|
-| Heartbreak Anniversary | Cravin (feat. G-Eazy)                       |
-| I'll Show You          | Tango                                       |
-| Cry for Me             | Off My Face                                 |
-| At My Worst            | Motley Crew                                 |
-| Tomboy                 | VILLAIN                                     |
-| Cravin (feat. G-Eazy)  | Mushroom Chocolate (with 6LACK)             |
-| Tango                  | Break My Heart Myself (feat. Travis Barker) |
-| Off My Face            | MALAMENTE - Cap.1: Augurio                  |
-| Motley Crew            | River                                       |
-| VILLAIN                | City Girls                                  |
+| Heartbreak Anniversary | City Girls                                  |
+| I'll Show You          | River                                       |
+| Cry for Me             | MALAMENTE - Cap.1: Augurio                  |
+| At My Worst            | Break My Heart Myself (feat. Travis Barker) |
+| Tomboy                 | Mushroom Chocolate (with 6LACK)             |
+| Cravin (feat. G-Eazy)  | VILLAIN                                     |
+| Tango                  | Motley Crew                                 |
+| Off My Face            | Off My Face                                 |
+| Motley Crew            | Tango                                       |
+| VILLAIN                | Cravin (feat. G-Eazy)                       |
 
 | 10 most Happy tracks                        | 10 least Happy tracks                       |
 |:--------------------------------------------|:--------------------------------------------|
-| City Girls                                  | Heartbreak Anniversary                      |
-| At My Worst                                 | Cravin (feat. G-Eazy)                       |
-| Cry for Me                                  | Mushroom Chocolate (with 6LACK)             |
-| Off My Face                                 | MALAMENTE - Cap.1: Augurio                  |
-| River                                       | Break My Heart Myself (feat. Travis Barker) |
-| Heartbreak Anniversary                      | Tango                                       |
-| Cravin (feat. G-Eazy)                       | Tomboy                                      |
-| Mushroom Chocolate (with 6LACK)             | VILLAIN                                     |
-| MALAMENTE - Cap.1: Augurio                  | Motley Crew                                 |
-| Break My Heart Myself (feat. Travis Barker) | I'll Show You                               |
+| City Girls                                  | I'll Show You                               |
+| At My Worst                                 | Motley Crew                                 |
+| Cry for Me                                  | VILLAIN                                     |
+| Off My Face                                 | Tomboy                                      |
+| River                                       | Tango                                       |
+| Heartbreak Anniversary                      | Break My Heart Myself (feat. Travis Barker) |
+| Cravin (feat. G-Eazy)                       | MALAMENTE - Cap.1: Augurio                  |
+| Mushroom Chocolate (with 6LACK)             | Mushroom Chocolate (with 6LACK)             |
+| MALAMENTE - Cap.1: Augurio                  | Cravin (feat. G-Eazy)                       |
+| Break My Heart Myself (feat. Travis Barker) | Heartbreak Anniversary                      |

@@ -10,9 +10,9 @@
 |                 22 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27311213770e112f78d4075b61fab67616d0000b2732f8d9427fea9dd36a4fb4f1bab67616d0000b27367a1610b21721a06ed7d378eab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | [Musicals](../playlists/musicals/overview.md) |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album                                       | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------|:-----------------------------------------------------------|
-|                 22 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | Hamilton (Original Broadway Cast Recording) | [🔗](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) |
+|   Number of Tracks | Art                                                                                              | Album                                       | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                 22 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | Hamilton (Original Broadway Cast Recording) | 2015-09-25     | [🔗](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) |
 
 ## Top Record Labels
 

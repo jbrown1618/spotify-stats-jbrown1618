@@ -35,19 +35,19 @@ Appears as:
 <details>
 <summary>See all 11 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                  | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------|:-----------------------------------------------------------|
-|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b273987a99b436a78299e8dcb7dd" alt="" width="50" /> | Quarter Past           | [🔗](https://open.spotify.com/album/1pScBPjmT5w3s0BTgkdgJy) |
-|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b27371a67f8f5158f054b136bd8a" alt="" width="50" /> | Keepin' it Low Key     | [🔗](https://open.spotify.com/album/4EmdqB8w7gEONRX5QLypQZ) |
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b27381514ee26162b9fed3c39be7" alt="" width="50" /> | Pitch Slapped - EP     | [🔗](https://open.spotify.com/album/5I08qbUSg8f48kenQs7Tg6) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273b7d3410c326df5c5af0179f6" alt="" width="50" /> | Songs for Padded Rooms | [🔗](https://open.spotify.com/album/0h3bmbpSuD01ha1k52E1uz) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734b16fad8fb09cff04b362139" alt="" width="50" /> | III                    | [🔗](https://open.spotify.com/album/3iFvXj07Frbs54rK9CzCIo) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2735a1783df13795d2db2599c7e" alt="" width="50" /> | I Used to Live Alone   | [🔗](https://open.spotify.com/album/0AmRRsaQVm5noeAB6LF8yA) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273ee681b6eddc77fd366693a84" alt="" width="50" /> | A Kick & A Wallop      | [🔗](https://open.spotify.com/album/5wnXtRvlemaPLxZFTpWtix) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273707302925a3cb0f9dbcc23f8" alt="" width="50" /> | House Rules            | [🔗](https://open.spotify.com/album/1fHxE6WZL6ouusBW4h9nE4) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b6506a5b3e8f6bf816cbc118" alt="" width="50" /> | High Stakes Old Maid   | [🔗](https://open.spotify.com/album/6sg9WsK06H588Y5VOmwj37) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734c29cb8d443b45f43e78e9f5" alt="" width="50" /> | Encore                 | [🔗](https://open.spotify.com/album/1AN2Vv5PecNjJEmzys8Gru) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b412efc7cf36157f45463837" alt="" width="50" /> | Disturbia              | [🔗](https://open.spotify.com/album/3ypmasyBX16BmWt52owYaN) |
+|   Number of Tracks | Art                                                                                              | Album                  | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------|:---------------|:-----------------------------------------------------------|
+|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b273987a99b436a78299e8dcb7dd" alt="" width="50" /> | Quarter Past           | 2014-11-18     | [🔗](https://open.spotify.com/album/1pScBPjmT5w3s0BTgkdgJy) |
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b27371a67f8f5158f054b136bd8a" alt="" width="50" /> | Keepin' it Low Key     | 2013-01-18     | [🔗](https://open.spotify.com/album/4EmdqB8w7gEONRX5QLypQZ) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b27381514ee26162b9fed3c39be7" alt="" width="50" /> | Pitch Slapped - EP     | 2011-04-08     | [🔗](https://open.spotify.com/album/5I08qbUSg8f48kenQs7Tg6) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273b7d3410c326df5c5af0179f6" alt="" width="50" /> | Songs for Padded Rooms | 2011-05-21     | [🔗](https://open.spotify.com/album/0h3bmbpSuD01ha1k52E1uz) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734b16fad8fb09cff04b362139" alt="" width="50" /> | III                    | 2012-04-12     | [🔗](https://open.spotify.com/album/3iFvXj07Frbs54rK9CzCIo) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2735a1783df13795d2db2599c7e" alt="" width="50" /> | I Used to Live Alone   | 2011-05-21     | [🔗](https://open.spotify.com/album/0AmRRsaQVm5noeAB6LF8yA) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273ee681b6eddc77fd366693a84" alt="" width="50" /> | A Kick & A Wallop      | 2012-03-24     | [🔗](https://open.spotify.com/album/5wnXtRvlemaPLxZFTpWtix) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273707302925a3cb0f9dbcc23f8" alt="" width="50" /> | House Rules            | 2011-04-26     | [🔗](https://open.spotify.com/album/1fHxE6WZL6ouusBW4h9nE4) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b6506a5b3e8f6bf816cbc118" alt="" width="50" /> | High Stakes Old Maid   | 2016           | [🔗](https://open.spotify.com/album/6sg9WsK06H588Y5VOmwj37) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734c29cb8d443b45f43e78e9f5" alt="" width="50" /> | Encore                 | 2013-05-03     | [🔗](https://open.spotify.com/album/1AN2Vv5PecNjJEmzys8Gru) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b412efc7cf36157f45463837" alt="" width="50" /> | Disturbia              | 2010-11-22     | [🔗](https://open.spotify.com/album/3ypmasyBX16BmWt52owYaN) |
 
 </details>
 

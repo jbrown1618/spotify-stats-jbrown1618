@@ -10,9 +10,9 @@
 |                 19 | <img src="https://i.scdn.co/image/ab67616d0000b273261feb89ee859b598bd34a97" alt="" width="50" /> | [Bach](../playlists/bach/overview.md) |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album                                  | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:-----------------------------------------------------------|
-|                 19 | <img src="https://i.scdn.co/image/ab67616d0000b27308f25ef15caf048a49a69ee5" alt="" width="50" /> | Bach, J.S.: Brandenburg Concertos etc. | [🔗](https://open.spotify.com/album/11FzhwtOFCPB4vpgWo33xV) |
+|   Number of Tracks | Art                                                                                              | Album                                  | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:---------------|:-----------------------------------------------------------|
+|                 19 | <img src="https://i.scdn.co/image/ab67616d0000b27308f25ef15caf048a49a69ee5" alt="" width="50" /> | Bach, J.S.: Brandenburg Concertos etc. | 1995-01-01     | [🔗](https://open.spotify.com/album/11FzhwtOFCPB4vpgWo33xV) |
 
 ## Top Record Labels
 

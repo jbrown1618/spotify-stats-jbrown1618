@@ -32,16 +32,16 @@ Appears as:
 <details>
 <summary>See all 8 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                    | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------|:-----------------------------------------------------------|
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="" width="50" /> | Call Me Irresponsible    | [🔗](https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273b732a522a686bb304a5d3fdf" alt="" width="50" /> | Michael Bublé            | [🔗](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="" width="50" /> | It's Time                | [🔗](https://open.spotify.com/album/457fktVFXVwjQTl9wOLlfg) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="" width="50" /> | Crazy Love               | [🔗](https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735f3f20826d44c30a017fd68e" alt="" width="50" /> | love (Deluxe Edition)    | [🔗](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736faddf21400e22f617bcd2e4" alt="" width="50" /> | Once More 'Round the Sun | [🔗](https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="" width="50" /> | Nobody but Me            | [🔗](https://open.spotify.com/album/5wN1OizIFEHDUkRwzIK3wL) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27311ee8f400df1c708db8fa471" alt="" width="50" /> | Come Fly with Me         | [🔗](https://open.spotify.com/album/0UhvDeKmtgegXeELEVgGRh) |
+|   Number of Tracks | Art                                                                                              | Album                    | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------|:---------------|:-----------------------------------------------------------|
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="" width="50" /> | Call Me Irresponsible    | 2007-04-30     | [🔗](https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273b732a522a686bb304a5d3fdf" alt="" width="50" /> | Michael Bublé            | 2003           | [🔗](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="" width="50" /> | It's Time                | 2005-02-08     | [🔗](https://open.spotify.com/album/457fktVFXVwjQTl9wOLlfg) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="" width="50" /> | Crazy Love               | 2009-10-06     | [🔗](https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735f3f20826d44c30a017fd68e" alt="" width="50" /> | love (Deluxe Edition)    | 2018-11-16     | [🔗](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736faddf21400e22f617bcd2e4" alt="" width="50" /> | Once More 'Round the Sun | 2014-06-20     | [🔗](https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="" width="50" /> | Nobody but Me            | 2016-10-21     | [🔗](https://open.spotify.com/album/5wN1OizIFEHDUkRwzIK3wL) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27311ee8f400df1c708db8fa471" alt="" width="50" /> | Come Fly with Me         | 2004-03-30     | [🔗](https://open.spotify.com/album/0UhvDeKmtgegXeELEVgGRh) |
 
 </details>
 

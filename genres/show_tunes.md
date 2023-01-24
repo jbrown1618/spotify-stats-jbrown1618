@@ -93,24 +93,24 @@
 <details>
 <summary>See all 16 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                                                 | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------|:-----------------------------------------------------------|
-|                 44 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | Hamilton (Original Broadway Cast Recording)                           | [🔗](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) |
-|                 21 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | The Phantom Of The Opera                                              | [🔗](https://open.spotify.com/album/36bEg6FTBaZGLg9ngJZIU6) |
-|                 11 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | Les Misérables (Original Broadway Cast Recording)                     | [🔗](https://open.spotify.com/album/3jbKDx0zB1QoJQTw8i1AvD) |
-|                 10 | <img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="" width="50" /> | The Phantom Of The Opera (Original Motion Picture Soundtrack)         | [🔗](https://open.spotify.com/album/1zwEN9cLtWg39zFJnj8brt) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="" width="50" /> | The Little Mermaid Special Edition                                    | [🔗](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc" alt="" width="50" /> | Mulan (Original Soundtrack)                                           | [🔗](https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="" width="50" /> | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) | [🔗](https://open.spotify.com/album/0I6Bl1dVB1hQsSoQF6KuTg) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273281dfd7af2ee99a124404623" alt="" width="50" /> | Pocahontas                                                            | [🔗](https://open.spotify.com/album/7L6kEZVkWh7OEI71b1JHZd) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="" width="50" /> | Beauty and the Beast                                                  | [🔗](https://open.spotify.com/album/3O5p9VNddbwvqWTdYKEqV5) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | The Lion King                                                         | [🔗](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dda924a83894bc750e69845a" alt="" width="50" /> | The Journey so Far                                                    | [🔗](https://open.spotify.com/album/3zr8JDmixklHY1sOURyfoK) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733505183cc0e24d2f7560174a" alt="" width="50" /> | Moana (Original Motion Picture Soundtrack/Deluxe Edition)             | [🔗](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736ff59d18c018a2845758deed" alt="" width="50" /> | Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)          | [🔗](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="" width="50" /> | Frozen (Original Motion Picture Soundtrack / Deluxe Edition)          | [🔗](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="" width="50" /> | Cappella                                                              | [🔗](https://open.spotify.com/album/3n6JxpdWnHkazMCQxKK5qI) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734a4b92dcf7a5c51cc4f7424c" alt="" width="50" /> | Aladdin Special Edition                                               | [🔗](https://open.spotify.com/album/7bt2aty3lUo6Q1Ud8pthRz) |
+|   Number of Tracks | Art                                                                                              | Album                                                                 | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                 44 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | Hamilton (Original Broadway Cast Recording)                           | 2015-09-25     | [🔗](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) |
+|                 21 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | The Phantom Of The Opera                                              | 1987-01-01     | [🔗](https://open.spotify.com/album/36bEg6FTBaZGLg9ngJZIU6) |
+|                 11 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | Les Misérables (Original Broadway Cast Recording)                     | 1987-05-11     | [🔗](https://open.spotify.com/album/3jbKDx0zB1QoJQTw8i1AvD) |
+|                 10 | <img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="" width="50" /> | The Phantom Of The Opera (Original Motion Picture Soundtrack)         | 2004-12-10     | [🔗](https://open.spotify.com/album/1zwEN9cLtWg39zFJnj8brt) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="" width="50" /> | The Little Mermaid Special Edition                                    | 2006-01-01     | [🔗](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc" alt="" width="50" /> | Mulan (Original Soundtrack)                                           | 1998-01-01     | [🔗](https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="" width="50" /> | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) | 2013-01-01     | [🔗](https://open.spotify.com/album/0I6Bl1dVB1hQsSoQF6KuTg) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273281dfd7af2ee99a124404623" alt="" width="50" /> | Pocahontas                                                            | 1995-01-01     | [🔗](https://open.spotify.com/album/7L6kEZVkWh7OEI71b1JHZd) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="" width="50" /> | Beauty and the Beast                                                  | 1991-01-01     | [🔗](https://open.spotify.com/album/3O5p9VNddbwvqWTdYKEqV5) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | The Lion King                                                         | 1994-01-01     | [🔗](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dda924a83894bc750e69845a" alt="" width="50" /> | The Journey so Far                                                    | 2011-08-09     | [🔗](https://open.spotify.com/album/3zr8JDmixklHY1sOURyfoK) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733505183cc0e24d2f7560174a" alt="" width="50" /> | Moana (Original Motion Picture Soundtrack/Deluxe Edition)             | 2016-11-18     | [🔗](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736ff59d18c018a2845758deed" alt="" width="50" /> | Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)          | 2019-11-15     | [🔗](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="" width="50" /> | Frozen (Original Motion Picture Soundtrack / Deluxe Edition)          | 2013-01-01     | [🔗](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="" width="50" /> | Cappella                                                              | 2013           | [🔗](https://open.spotify.com/album/3n6JxpdWnHkazMCQxKK5qI) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734a4b92dcf7a5c51cc4f7424c" alt="" width="50" /> | Aladdin Special Edition                                               | 2004-01-01     | [🔗](https://open.spotify.com/album/7bt2aty3lUo6Q1Ud8pthRz) |
 
 </details>
 
@@ -141,91 +141,91 @@
 
 | 10 most Danceable tracks                | 10 least Danceable tracks                                                            |
 |:----------------------------------------|:-------------------------------------------------------------------------------------|
-| Ten Duel Commandments                   | Bring Him Home                                                                       |
-| Washington on Your Side                 | All I Ask of You                                                                     |
-| A Winter's Ball                         | Entr'Acte                                                                            |
-| Blow Us All Away                        | Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture                  |
-| The Adams Administration                | Overture                                                                             |
-| Farmer Refuted                          | All I Ask Of You                                                                     |
-| Non-Stop                                | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture |
-| Yorktown (The World Turned Upside Down) | All I Ask Of You - From 'The Phantom Of The Opera' Motion Picture                    |
-| Say No to This                          | All I Ask Of You - Reprise                                                           |
-| Cabinet Battle #2                       | The Music Of The Night - From 'The Phantom Of The Opera' Motion Picture              |
+| Ten Duel Commandments                   | The Music Of The Night - From 'The Phantom Of The Opera' Motion Picture              |
+| Washington on Your Side                 | All I Ask Of You - Reprise                                                           |
+| A Winter's Ball                         | All I Ask Of You - From 'The Phantom Of The Opera' Motion Picture                    |
+| Blow Us All Away                        | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture |
+| The Adams Administration                | All I Ask Of You                                                                     |
+| Farmer Refuted                          | Overture                                                                             |
+| Non-Stop                                | Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture                  |
+| Yorktown (The World Turned Upside Down) | Entr'Acte                                                                            |
+| Say No to This                          | All I Ask of You                                                                     |
+| Cabinet Battle #2                       | Bring Him Home                                                                       |
 
 | 10 most Energetic tracks                                                  | 10 least Energetic tracks                                                            |
 |:--------------------------------------------------------------------------|:-------------------------------------------------------------------------------------|
-| Yorktown (The World Turned Upside Down)                                   | Come To Me (Fantine's Death)                                                         |
-| The Schuyler Sisters                                                      | Empty Chairs At Empty Tables                                                         |
-| Guns and Ships                                                            | All I Ask Of You - Reprise                                                           |
-| Cabinet Battle #1                                                         | All I Ask of You                                                                     |
-| My Shot                                                                   | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture |
-| Meet Me Inside                                                            | In My Life                                                                           |
-| The Phantom Of the Opera - From 'The Phantom Of The Opera' Motion Picture | Bring Him Home                                                                       |
-| Schuyler Defeated                                                         | Angel Of Music - From 'The Phantom Of The Opera' Motion Picture                      |
-| Satisfied                                                                 | Magical Lasso                                                                        |
-| The Phantom Of The Opera                                                  | A Little Fall Of Rain                                                                |
+| Yorktown (The World Turned Upside Down)                                   | A Little Fall Of Rain                                                                |
+| The Schuyler Sisters                                                      | Magical Lasso                                                                        |
+| Guns and Ships                                                            | Angel Of Music - From 'The Phantom Of The Opera' Motion Picture                      |
+| Cabinet Battle #1                                                         | Bring Him Home                                                                       |
+| My Shot                                                                   | In My Life                                                                           |
+| Meet Me Inside                                                            | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture |
+| The Phantom Of the Opera - From 'The Phantom Of The Opera' Motion Picture | All I Ask of You                                                                     |
+| Schuyler Defeated                                                         | All I Ask Of You - Reprise                                                           |
+| Satisfied                                                                 | Empty Chairs At Empty Tables                                                         |
+| The Phantom Of The Opera                                                  | Come To Me (Fantine's Death)                                                         |
 
 | 10 most Speechy tracks    | 10 least Speechy tracks                                                 |
 |:--------------------------|:------------------------------------------------------------------------|
-| Aaron Burr, Sir           | A Whole New World                                                       |
-| Prologue                  | That Would Be Enough                                                    |
-| Ten Duel Commandments     | Entr'Acte                                                               |
-| The World Was Wide Enough | Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version |
-| The Adams Administration  | Overture / Work Song                                                    |
-| Cabinet Battle #2         | Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture     |
-| We Know                   | Stars                                                                   |
-| A Winter's Ball           | Let It Go - From "Frozen"/Soundtrack Version                            |
-| Your Obedient Servant     | Dear Theodosia                                                          |
-| Right Hand Man            | History Has Its Eyes on You                                             |
+| Aaron Burr, Sir           | History Has Its Eyes on You                                             |
+| Prologue                  | Dear Theodosia                                                          |
+| Ten Duel Commandments     | Let It Go - From "Frozen"/Soundtrack Version                            |
+| The World Was Wide Enough | Stars                                                                   |
+| The Adams Administration  | Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture     |
+| Cabinet Battle #2         | Overture / Work Song                                                    |
+| We Know                   | Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version |
+| A Winter's Ball           | Entr'Acte                                                               |
+| Your Obedient Servant     | That Would Be Enough                                                    |
+| Right Hand Man            | A Whole New World                                                       |
 
 | 10 most Acoustic tracks                                         | 10 least Acoustic tracks                                  |
 |:----------------------------------------------------------------|:----------------------------------------------------------|
-| Bring Him Home                                                  | Washington on Your Side                                   |
-| All I Ask of You                                                | My Shot                                                   |
-| A Heart Full Of Love                                            | Wait for It                                               |
-| On My Own                                                       | Cabinet Battle #1                                         |
-| In My Life                                                      | Ten Duel Commandments                                     |
-| A Little Fall Of Rain                                           | Cabinet Battle #2                                         |
-| Angel Of Music - From 'The Phantom Of The Opera' Motion Picture | The Phantom Of The Opera                                  |
-| Come To Me (Fantine's Death)                                    | The Reynolds Pamphlet                                     |
-| Empty Chairs At Empty Tables                                    | Overture                                                  |
-| Think Of Me - From 'The Phantom Of The Opera' Motion Picture    | Overture - From 'The Phantom Of The Opera' Motion Picture |
+| Bring Him Home                                                  | Overture - From 'The Phantom Of The Opera' Motion Picture |
+| All I Ask of You                                                | Overture                                                  |
+| A Heart Full Of Love                                            | The Reynolds Pamphlet                                     |
+| On My Own                                                       | The Phantom Of The Opera                                  |
+| In My Life                                                      | Cabinet Battle #2                                         |
+| A Little Fall Of Rain                                           | Ten Duel Commandments                                     |
+| Angel Of Music - From 'The Phantom Of The Opera' Motion Picture | Cabinet Battle #1                                         |
+| Come To Me (Fantine's Death)                                    | Wait for It                                               |
+| Empty Chairs At Empty Tables                                    | My Shot                                                   |
+| Think Of Me - From 'The Phantom Of The Opera' Motion Picture    | Washington on Your Side                                   |
 
 | 10 most Instrumental tracks                               | 10 least Instrumental tracks              |
 |:----------------------------------------------------------|:------------------------------------------|
-| Entr'Acte                                                 | It's Quiet Uptown                         |
-| Overture                                                  | Satisfied                                 |
-| All I Ask Of You - Reprise                                | You'll Be Back                            |
-| Overture - From 'The Phantom Of The Opera' Motion Picture | I Know Him                                |
-| Bring Him Home                                            | What Comes Next?                          |
-| The Phantom Of The Opera                                  | Farmer Refuted                            |
-| Reflection                                                | Who Lives, Who Dies, Who Tells Your Story |
-| Wishing You Were Somehow Here Again                       | The Reynolds Pamphlet                     |
-| The Point Of No Return                                    | Yorktown (The World Turned Upside Down)   |
-| Little Lotte / The Mirror (Angel Of Music)                | Kiss the Girl                             |
+| Entr'Acte                                                 | Kiss the Girl                             |
+| Overture                                                  | Yorktown (The World Turned Upside Down)   |
+| All I Ask Of You - Reprise                                | The Reynolds Pamphlet                     |
+| Overture - From 'The Phantom Of The Opera' Motion Picture | Who Lives, Who Dies, Who Tells Your Story |
+| Bring Him Home                                            | Farmer Refuted                            |
+| The Phantom Of The Opera                                  | What Comes Next?                          |
+| Reflection                                                | I Know Him                                |
+| Wishing You Were Somehow Here Again                       | You'll Be Back                            |
+| The Point Of No Return                                    | Satisfied                                 |
+| Little Lotte / The Mirror (Angel Of Music)                | It's Quiet Uptown                         |
 
 | 10 most Live tracks                                                     | 10 least Live tracks                                         |
 |:------------------------------------------------------------------------|:-------------------------------------------------------------|
-| Yorktown (The World Turned Upside Down)                                 | Stay Alive - Reprise                                         |
-| I Know Him                                                              | Think Of Me - From 'The Phantom Of The Opera' Motion Picture |
-| Reflection                                                              | Be Our Guest - From "Beauty And The Beast" Soundtrack        |
-| Stars                                                                   | It's Quiet Uptown                                            |
-| The Point Of No Return - From 'The Phantom Of The Opera' Motion Picture | Washington on Your Side                                      |
-| The Room Where It Happens                                               | All I Ask Of You - Reprise                                   |
-| The Story of Tonight                                                    | Dear Theodosia                                               |
-| The Schuyler Sisters                                                    | Bring Him Home                                               |
-| Ten Duel Commandments                                                   | Farmer Refuted                                               |
-| Blow Us All Away                                                        | Your Obedient Servant                                        |
+| Yorktown (The World Turned Upside Down)                                 | Your Obedient Servant                                        |
+| I Know Him                                                              | Farmer Refuted                                               |
+| Reflection                                                              | Bring Him Home                                               |
+| Stars                                                                   | Dear Theodosia                                               |
+| The Point Of No Return - From 'The Phantom Of The Opera' Motion Picture | All I Ask Of You - Reprise                                   |
+| The Room Where It Happens                                               | Washington on Your Side                                      |
+| The Story of Tonight                                                    | It's Quiet Uptown                                            |
+| The Schuyler Sisters                                                    | Be Our Guest - From "Beauty And The Beast" Soundtrack        |
+| Ten Duel Commandments                                                   | Think Of Me - From 'The Phantom Of The Opera' Motion Picture |
+| Blow Us All Away                                                        | Stay Alive - Reprise                                         |
 
 | 10 most Happy tracks                            | 10 least Happy tracks                                                                |
 |:------------------------------------------------|:-------------------------------------------------------------------------------------|
-| A Girl Worth Fighting For                       | The Point Of No Return                                                               |
-| Schuyler Defeated                               | Why Have You Brought Me Here                                                         |
-| Ten Duel Commandments                           | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture |
-| Under the Sea                                   | Bring Him Home                                                                       |
-| The Schuyler Sisters                            | All I Ask Of You - Reprise                                                           |
-| The Adams Administration                        | I Remember / Stranger Than You Dreamt It                                             |
-| Helpless                                        | Down Once More / Track Down This Murderer                                            |
-| Hakuna Matata - From "The Lion King" Soundtrack | Little Lotte / The Mirror (Angel Of Music)                                           |
-| Kiss the Girl                                   | Wandering Child / Bravo, Monsieur                                                    |
-| We Know                                         | Wishing You Were Somehow Here Again                                                  |
+| A Girl Worth Fighting For                       | Wishing You Were Somehow Here Again                                                  |
+| Schuyler Defeated                               | Wandering Child / Bravo, Monsieur                                                    |
+| Ten Duel Commandments                           | Little Lotte / The Mirror (Angel Of Music)                                           |
+| Under the Sea                                   | Down Once More / Track Down This Murderer                                            |
+| The Schuyler Sisters                            | I Remember / Stranger Than You Dreamt It                                             |
+| The Adams Administration                        | All I Ask Of You - Reprise                                                           |
+| Helpless                                        | Bring Him Home                                                                       |
+| Hakuna Matata - From "The Lion King" Soundtrack | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture |
+| Kiss the Girl                                   | Why Have You Brought Me Here                                                         |
+| We Know                                         | The Point Of No Return                                                               |

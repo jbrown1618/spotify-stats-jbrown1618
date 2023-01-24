@@ -31,16 +31,16 @@ Appears as:
 <details>
 <summary>See all 8 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                              | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------|:-----------------------------------------------------------|
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555" alt="" width="50" /> | FEARLESS                           | [🔗](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="" width="50" /> | ANTIFRAGILE                        | [🔗](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c07b020417770f3385448f" alt="" width="50" /> | 回:Walpurgis Night                  | [🔗](https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734c5280bb94cdc3aa732da6c9" alt="" width="50" /> | Raise y_our glass                  | [🔗](https://open.spotify.com/album/5Ty5fWBzQypVhiboHneO3y) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f8155fafa8e6f4d332f2e907" alt="" width="50" /> | Love Rain                          | [🔗](https://open.spotify.com/album/40fAbWLsPvL0nUuiDCwxHu) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27386b1ba55bf754a73f6ecf729" alt="" width="50" /> | I ≠ DOLL                           | [🔗](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27393f063bd7b14993d5ffb9287" alt="" width="50" /> | GFRIEND The 1st Album 'LOL'        | [🔗](https://open.spotify.com/album/0PlSM2Hml1cFANnzYu6RCg) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fc5b3a4f6c07140daa455a61" alt="" width="50" /> | GFRIEND 3rd Mini Album 'SNOWFLAKE' | [🔗](https://open.spotify.com/album/0COnSwFb5qOhABUyWNw6Kp) |
+|   Number of Tracks | Art                                                                                              | Album                              | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------|:---------------|:-----------------------------------------------------------|
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555" alt="" width="50" /> | FEARLESS                           | 2022-05-02     | [🔗](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="" width="50" /> | ANTIFRAGILE                        | 2022-10-17     | [🔗](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c07b020417770f3385448f" alt="" width="50" /> | 回:Walpurgis Night                  | 2020-11-09     | [🔗](https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734c5280bb94cdc3aa732da6c9" alt="" width="50" /> | Raise y_our glass                  | 2022-08-09     | [🔗](https://open.spotify.com/album/5Ty5fWBzQypVhiboHneO3y) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f8155fafa8e6f4d332f2e907" alt="" width="50" /> | Love Rain                          | 2018-06-29     | [🔗](https://open.spotify.com/album/40fAbWLsPvL0nUuiDCwxHu) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27386b1ba55bf754a73f6ecf729" alt="" width="50" /> | I ≠ DOLL                           | 2023-01-09     | [🔗](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27393f063bd7b14993d5ffb9287" alt="" width="50" /> | GFRIEND The 1st Album 'LOL'        | 2016-07-11     | [🔗](https://open.spotify.com/album/0PlSM2Hml1cFANnzYu6RCg) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fc5b3a4f6c07140daa455a61" alt="" width="50" /> | GFRIEND 3rd Mini Album 'SNOWFLAKE' | 2016-01-25     | [🔗](https://open.spotify.com/album/0COnSwFb5qOhABUyWNw6Kp) |
 
 </details>
 

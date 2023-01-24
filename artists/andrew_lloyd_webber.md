@@ -11,11 +11,11 @@
 |                  1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735d990e8b45c848dc22885f89ab67616d0000b27362f44cdb37183a309fc1032fab67616d0000b27384470dd6235917e2e40e11f0ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | [A Cappella](../playlists/a_cappella/overview.md) |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album                                                         | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|:-----------------------------------------------------------|
-|                 21 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | The Phantom Of The Opera                                      | [🔗](https://open.spotify.com/album/36bEg6FTBaZGLg9ngJZIU6) |
-|                 10 | <img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="" width="50" /> | The Phantom Of The Opera (Original Motion Picture Soundtrack) | [🔗](https://open.spotify.com/album/1zwEN9cLtWg39zFJnj8brt) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="" width="50" /> | Cappella                                                      | [🔗](https://open.spotify.com/album/3n6JxpdWnHkazMCQxKK5qI) |
+|   Number of Tracks | Art                                                                                              | Album                                                         | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                 21 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | The Phantom Of The Opera                                      | 1987-01-01     | [🔗](https://open.spotify.com/album/36bEg6FTBaZGLg9ngJZIU6) |
+|                 10 | <img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="" width="50" /> | The Phantom Of The Opera (Original Motion Picture Soundtrack) | 2004-12-10     | [🔗](https://open.spotify.com/album/1zwEN9cLtWg39zFJnj8brt) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="" width="50" /> | Cappella                                                      | 2013           | [🔗](https://open.spotify.com/album/3n6JxpdWnHkazMCQxKK5qI) |
 
 ## Top Record Labels
 

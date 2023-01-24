@@ -10,9 +10,9 @@
 |                 18 | <img src="https://i.scdn.co/image/ab67616d0000b273203bf132896e0a4be9638dda" alt="" width="50" /> | [Vivaldi](../playlists/vivaldi/overview.md) |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album                 | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------|:-----------------------------------------------------------|
-|                 18 | <img src="https://i.scdn.co/image/ab67616d0000b273203bf132896e0a4be9638dda" alt="" width="50" /> | Vivaldi: Four Seasons | [🔗](https://open.spotify.com/album/4Uc1Cus3I9LjkI2XwtQnfc) |
+|   Number of Tracks | Art                                                                                              | Album                 | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------|:---------------|:-----------------------------------------------------------|
+|                 18 | <img src="https://i.scdn.co/image/ab67616d0000b273203bf132896e0a4be9638dda" alt="" width="50" /> | Vivaldi: Four Seasons | 2008-01-01     | [🔗](https://open.spotify.com/album/4Uc1Cus3I9LjkI2XwtQnfc) |
 
 ## Top Record Labels
 

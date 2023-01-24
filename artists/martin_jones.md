@@ -10,9 +10,9 @@
 |                 20 | <img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="" width="50" /> | [Debussy](../playlists/debussy/overview.md) |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album                                             | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------|:-----------------------------------------------------------|
-|                 20 | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="" width="50" /> | Debussy: Clair De Lune and Other Piano Favourites | [🔗](https://open.spotify.com/album/4O5tv6jrLH80bmll46xEEe) |
+|   Number of Tracks | Art                                                                                              | Album                                             |   Release Date | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------|---------------:|:-----------------------------------------------------------|
+|                 20 | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="" width="50" /> | Debussy: Clair De Lune and Other Piano Favourites |           1994 | [🔗](https://open.spotify.com/album/4O5tv6jrLH80bmll46xEEe) |
 
 ## Top Record Labels
 

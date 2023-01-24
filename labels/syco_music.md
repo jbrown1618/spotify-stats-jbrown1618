@@ -35,14 +35,14 @@ Appears as:
 <details>
 <summary>See all 6 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                     | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------|:-----------------------------------------------------------|
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Romance                   | [🔗](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Camila                    | [🔗](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b3d3d1ba43e085f5ab80e56a" alt="" width="50" /> | Salute (Expanded Edition) | [🔗](https://open.spotify.com/album/4cH9WxyfNWlfR257RitWBt) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735bdd9e580fdda5e676a25e6a" alt="" width="50" /> | Reflection (Deluxe)       | [🔗](https://open.spotify.com/album/0zAsh6hObeNmFgFPrUiFcP) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c4f298e7cbedb77f8e030ff0" alt="" width="50" /> | Cry for Me                | [🔗](https://open.spotify.com/album/2dq4ae5hiyxlFPG1s8rlq5) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d03fa6f4e758282b7920b5c8" alt="" width="50" /> | 7/27 (Deluxe)             | [🔗](https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW) |
+|   Number of Tracks | Art                                                                                              | Album                     | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------|:---------------|:-----------------------------------------------------------|
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Romance                   | 2019-12-06     | [🔗](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Camila                    | 2018-01-12     | [🔗](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b3d3d1ba43e085f5ab80e56a" alt="" width="50" /> | Salute (Expanded Edition) | 2013-11-11     | [🔗](https://open.spotify.com/album/4cH9WxyfNWlfR257RitWBt) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735bdd9e580fdda5e676a25e6a" alt="" width="50" /> | Reflection (Deluxe)       | 2015-01-30     | [🔗](https://open.spotify.com/album/0zAsh6hObeNmFgFPrUiFcP) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c4f298e7cbedb77f8e030ff0" alt="" width="50" /> | Cry for Me                | 2019-10-04     | [🔗](https://open.spotify.com/album/2dq4ae5hiyxlFPG1s8rlq5) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d03fa6f4e758282b7920b5c8" alt="" width="50" /> | 7/27 (Deluxe)             | 2016-05-27     | [🔗](https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW) |
 
 </details>
 

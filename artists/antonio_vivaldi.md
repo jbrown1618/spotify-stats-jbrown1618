@@ -10,10 +10,10 @@
 |                 34 | <img src="https://i.scdn.co/image/ab67616d0000b273203bf132896e0a4be9638dda" alt="" width="50" /> | [Vivaldi](../playlists/vivaldi/overview.md) |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album                      | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------|:-----------------------------------------------------------|
-|                 18 | <img src="https://i.scdn.co/image/ab67616d0000b273203bf132896e0a4be9638dda" alt="" width="50" /> | Vivaldi: Four Seasons      | [🔗](https://open.spotify.com/album/4Uc1Cus3I9LjkI2XwtQnfc) |
-|                 16 | <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="" width="50" /> | Vivaldi: The Four Seasons. | [🔗](https://open.spotify.com/album/4YpaKMCcb65yOoee75UUOh) |
+|   Number of Tracks | Art                                                                                              | Album                      | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------|:---------------|:-----------------------------------------------------------|
+|                 18 | <img src="https://i.scdn.co/image/ab67616d0000b273203bf132896e0a4be9638dda" alt="" width="50" /> | Vivaldi: Four Seasons      | 2008-01-01     | [🔗](https://open.spotify.com/album/4Uc1Cus3I9LjkI2XwtQnfc) |
+|                 16 | <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="" width="50" /> | Vivaldi: The Four Seasons. | 2007-10-01     | [🔗](https://open.spotify.com/album/4YpaKMCcb65yOoee75UUOh) |
 
 ## Top Record Labels
 

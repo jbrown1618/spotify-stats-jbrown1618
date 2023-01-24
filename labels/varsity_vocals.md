@@ -83,23 +83,23 @@ Appears as:
 <details>
 <summary>See all 15 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                 | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------|:-----------------------------------------------------------|
-|                  9 | <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="" width="50" /> | BOCA 2015: Best Of College A Cappella | [🔗](https://open.spotify.com/album/0gyhBvJs1GiI31cMMmKLnK) |
-|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="" width="50" /> | BOCA 2013: Best of College A Cappella | [🔗](https://open.spotify.com/album/6Pqey2mc4EWSfYNH3bifbO) |
-|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273ea7720f8e0ae5132dbd20303" alt="" width="50" /> | BOCA 2010: Best Of College A Cappella | [🔗](https://open.spotify.com/album/3HSd3voAxPxS50UrfInBVJ) |
-|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2734b3c2c076ef820f59ba15aa0" alt="" width="50" /> | BOCA 2009: Best Of College A Cappella | [🔗](https://open.spotify.com/album/50WaSkL4pVvz9Crsca7oNV) |
-|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b27315a14fc8ff338e698d645406" alt="" width="50" /> | BOCA 2008: Best Of College A Cappella | [🔗](https://open.spotify.com/album/4Z0ju0i47UZ2Y4icq2f3wZ) |
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2737b67b0ad83e8adff4608e918" alt="" width="50" /> | BOCA 2014: Best Of College A Cappella | [🔗](https://open.spotify.com/album/7rZoAMtoZ8s5mLIlUTWgVT) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="" width="50" /> | BOCA 2012: Best Of College A Cappella | [🔗](https://open.spotify.com/album/26eCHp86K2xLQj0B7Cr8he) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273da81ceb610e54852e16f0e82" alt="" width="50" /> | BOCA 2011: Best Of College A Cappella | [🔗](https://open.spotify.com/album/27d96rqnXRtmrGBGHJzPBh) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273a271cb19e4bbf852072f0271" alt="" width="50" /> | BOCA 2021: Best of College A Cappella | [🔗](https://open.spotify.com/album/1eKkeTIlePsRpKkQre78tT) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2735f80e04f0ea87267cc80ec46" alt="" width="50" /> | BOCA 2018: Best of College A Cappella | [🔗](https://open.spotify.com/album/4F7k4viXqEAIlrB5rbAPbF) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2732c9bde1126c992a7140f4976" alt="" width="50" /> | BOCA 2016: Best Of College A Cappella | [🔗](https://open.spotify.com/album/2AOr4esohQurJGXklhRH1a) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273acd107057c2284c39f1c3b27" alt="" width="50" /> | Best of BOCA: The First 20 Years      | [🔗](https://open.spotify.com/album/5bcLIouxn2oBiGvf4vvO6u) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736c863f73a8ec70e519fbc808" alt="" width="50" /> | BOCA 2020: Best of College A Cappella | [🔗](https://open.spotify.com/album/3c4vODZeeDk38CVmjbUERt) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27375e1cccb63989b4aa6a22cbc" alt="" width="50" /> | BOCA 2006: Best Of College A Cappella | [🔗](https://open.spotify.com/album/3AeoTNhXFgBM7CuODGFelQ) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273074aa2a16488cba06eade483" alt="" width="50" /> | BOCA 2004: Best Of College A Cappella | [🔗](https://open.spotify.com/album/5qrIP0zXoDQUSZ9l1ZaECQ) |
+|   Number of Tracks | Art                                                                                              | Album                                 | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------|:---------------|:-----------------------------------------------------------|
+|                  9 | <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="" width="50" /> | BOCA 2015: Best Of College A Cappella | 2014-12-19     | [🔗](https://open.spotify.com/album/0gyhBvJs1GiI31cMMmKLnK) |
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="" width="50" /> | BOCA 2013: Best of College A Cappella | 2016           | [🔗](https://open.spotify.com/album/6Pqey2mc4EWSfYNH3bifbO) |
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273ea7720f8e0ae5132dbd20303" alt="" width="50" /> | BOCA 2010: Best Of College A Cappella | 2011-02-15     | [🔗](https://open.spotify.com/album/3HSd3voAxPxS50UrfInBVJ) |
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2734b3c2c076ef820f59ba15aa0" alt="" width="50" /> | BOCA 2009: Best Of College A Cappella | 2011-02-15     | [🔗](https://open.spotify.com/album/50WaSkL4pVvz9Crsca7oNV) |
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b27315a14fc8ff338e698d645406" alt="" width="50" /> | BOCA 2008: Best Of College A Cappella | 2011-02-15     | [🔗](https://open.spotify.com/album/4Z0ju0i47UZ2Y4icq2f3wZ) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2737b67b0ad83e8adff4608e918" alt="" width="50" /> | BOCA 2014: Best Of College A Cappella | 2014-01-31     | [🔗](https://open.spotify.com/album/7rZoAMtoZ8s5mLIlUTWgVT) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="" width="50" /> | BOCA 2012: Best Of College A Cappella | 2012-01-01     | [🔗](https://open.spotify.com/album/26eCHp86K2xLQj0B7Cr8he) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273da81ceb610e54852e16f0e82" alt="" width="50" /> | BOCA 2011: Best Of College A Cappella | 2011-01-11     | [🔗](https://open.spotify.com/album/27d96rqnXRtmrGBGHJzPBh) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273a271cb19e4bbf852072f0271" alt="" width="50" /> | BOCA 2021: Best of College A Cappella | 2021-02-06     | [🔗](https://open.spotify.com/album/1eKkeTIlePsRpKkQre78tT) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2735f80e04f0ea87267cc80ec46" alt="" width="50" /> | BOCA 2018: Best of College A Cappella | 2018           | [🔗](https://open.spotify.com/album/4F7k4viXqEAIlrB5rbAPbF) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2732c9bde1126c992a7140f4976" alt="" width="50" /> | BOCA 2016: Best Of College A Cappella | 2015-12-15     | [🔗](https://open.spotify.com/album/2AOr4esohQurJGXklhRH1a) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273acd107057c2284c39f1c3b27" alt="" width="50" /> | Best of BOCA: The First 20 Years      | 2014-04-15     | [🔗](https://open.spotify.com/album/5bcLIouxn2oBiGvf4vvO6u) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736c863f73a8ec70e519fbc808" alt="" width="50" /> | BOCA 2020: Best of College A Cappella | 2020-01-08     | [🔗](https://open.spotify.com/album/3c4vODZeeDk38CVmjbUERt) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27375e1cccb63989b4aa6a22cbc" alt="" width="50" /> | BOCA 2006: Best Of College A Cappella | 2006-01-01     | [🔗](https://open.spotify.com/album/3AeoTNhXFgBM7CuODGFelQ) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273074aa2a16488cba06eade483" alt="" width="50" /> | BOCA 2004: Best Of College A Cappella | 2004-01-01     | [🔗](https://open.spotify.com/album/5qrIP0zXoDQUSZ9l1ZaECQ) |
 
 </details>
 

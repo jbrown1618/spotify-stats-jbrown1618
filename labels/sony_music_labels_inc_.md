@@ -41,16 +41,16 @@ Appears as:
 <details>
 <summary>See all 8 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album          | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------|:-----------------------------------------------------------|
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="" width="50" /> | Cappella       | [🔗](https://open.spotify.com/album/3n6JxpdWnHkazMCQxKK5qI) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e0dc47dd1584c66ad4492094" alt="" width="50" /> | 炎              | [🔗](https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739792873842bcfa921ffceebf" alt="" width="50" /> | i'mperfect     | [🔗](https://open.spotify.com/album/04ygc7Z2gcGtt7m8pnVUwf) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27359c2f8304319dcd03eb4ead7" alt="" width="50" /> | PINK BLOOD     | [🔗](https://open.spotify.com/album/4eQs3mcSejRAVTWmaYXNYl) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fe52879ebfec0050a2aa89ff" alt="" width="50" /> | Make you happy | [🔗](https://open.spotify.com/album/1wIIu2i7A56TlMD99CVNQD) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d784afd710070b5fe22b99bf" alt="" width="50" /> | CIRCUS         | [🔗](https://open.spotify.com/album/4IQHY28D4aHus9lGDlSdPp) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a2272c8966971b7b04066241" alt="" width="50" /> | CEREMONY       | [🔗](https://open.spotify.com/album/1IYJeRjWNruxAKls5cBtqm) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f038f68827e437530b3a80a8" alt="" width="50" /> | BOOTLEG        | [🔗](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) |
+|   Number of Tracks | Art                                                                                              | Album          | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------|:---------------|:-----------------------------------------------------------|
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="" width="50" /> | Cappella       | 2013           | [🔗](https://open.spotify.com/album/3n6JxpdWnHkazMCQxKK5qI) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e0dc47dd1584c66ad4492094" alt="" width="50" /> | 炎              | 2020-10-12     | [🔗](https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739792873842bcfa921ffceebf" alt="" width="50" /> | i'mperfect     | 2013-04-10     | [🔗](https://open.spotify.com/album/04ygc7Z2gcGtt7m8pnVUwf) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27359c2f8304319dcd03eb4ead7" alt="" width="50" /> | PINK BLOOD     | 2021-06-02     | [🔗](https://open.spotify.com/album/4eQs3mcSejRAVTWmaYXNYl) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fe52879ebfec0050a2aa89ff" alt="" width="50" /> | Make you happy | 2020-06-30     | [🔗](https://open.spotify.com/album/1wIIu2i7A56TlMD99CVNQD) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d784afd710070b5fe22b99bf" alt="" width="50" /> | CIRCUS         | 2022-06-10     | [🔗](https://open.spotify.com/album/4IQHY28D4aHus9lGDlSdPp) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a2272c8966971b7b04066241" alt="" width="50" /> | CEREMONY       | 2020-01-15     | [🔗](https://open.spotify.com/album/1IYJeRjWNruxAKls5cBtqm) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f038f68827e437530b3a80a8" alt="" width="50" /> | BOOTLEG        | 2017-11-01     | [🔗](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) |
 
 </details>
 

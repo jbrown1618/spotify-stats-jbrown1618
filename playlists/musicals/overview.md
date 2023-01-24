@@ -86,15 +86,15 @@
 <details>
 <summary>See all 7 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                                                 | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------|:-----------------------------------------------------------|
-|                 46 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | Hamilton (Original Broadway Cast Recording)                           | [🔗](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) |
-|                 21 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | The Phantom Of The Opera                                              | [🔗](https://open.spotify.com/album/36bEg6FTBaZGLg9ngJZIU6) |
-|                 20 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | Les Misérables (Original Broadway Cast Recording)                     | [🔗](https://open.spotify.com/album/3jbKDx0zB1QoJQTw8i1AvD) |
-|                 10 | <img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="" width="50" /> | The Phantom Of The Opera (Original Motion Picture Soundtrack)         | [🔗](https://open.spotify.com/album/1zwEN9cLtWg39zFJnj8brt) |
-|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="" width="50" /> | What's Inside: Songs from Waitress                                    | [🔗](https://open.spotify.com/album/1s6codM2ZAB008t9GTyaEk) |
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="" width="50" /> | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) | [🔗](https://open.spotify.com/album/0I6Bl1dVB1hQsSoQF6KuTg) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732f1248549faa5010a0550e93" alt="" width="50" /> | Les Misérables: In Concert at the Royal Albert Hall                   | [🔗](https://open.spotify.com/album/15L0rrHDr8Q21y7e8WAo8S) |
+|   Number of Tracks | Art                                                                                              | Album                                                                 | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                 46 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | Hamilton (Original Broadway Cast Recording)                           | 2015-09-25     | [🔗](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) |
+|                 21 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | The Phantom Of The Opera                                              | 1987-01-01     | [🔗](https://open.spotify.com/album/36bEg6FTBaZGLg9ngJZIU6) |
+|                 20 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | Les Misérables (Original Broadway Cast Recording)                     | 1987-05-11     | [🔗](https://open.spotify.com/album/3jbKDx0zB1QoJQTw8i1AvD) |
+|                 10 | <img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="" width="50" /> | The Phantom Of The Opera (Original Motion Picture Soundtrack)         | 2004-12-10     | [🔗](https://open.spotify.com/album/1zwEN9cLtWg39zFJnj8brt) |
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="" width="50" /> | What's Inside: Songs from Waitress                                    | 2015-11-06     | [🔗](https://open.spotify.com/album/1s6codM2ZAB008t9GTyaEk) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="" width="50" /> | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) | 2013-01-01     | [🔗](https://open.spotify.com/album/0I6Bl1dVB1hQsSoQF6KuTg) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732f1248549faa5010a0550e93" alt="" width="50" /> | Les Misérables: In Concert at the Royal Albert Hall                   | 1996           | [🔗](https://open.spotify.com/album/15L0rrHDr8Q21y7e8WAo8S) |
 
 </details>
 
@@ -145,95 +145,113 @@
 </details>
 
 
+## Years
+
+
+
+| Year            |   Number of Tracks |
+|:----------------|-------------------:|
+| [2015](2015.md) |                 52 |
+| [1987](1987.md) |                 41 |
+
+| 10 newest albums                                                                                                                                                                                                                                                                                                                                      | 10 oldest albums                                                                                                                                                                                                                                                                                                                                      |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="What's Inside: Songs from Waitress" width="50" /> <span style="padding-left:10px;">What's Inside: Songs from Waitress (2015-11-06)</span></div>                                                                       | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> <span style="padding-left:10px;">The Phantom Of The Opera (1987-01-01)</span></div>                                                                                           |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> <span style="padding-left:10px;">Hamilton (Original Broadway Cast Recording) (2015-09-25)</span></div>                                                     | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="Les Misérables (Original Broadway Cast Recording)" width="50" /> <span style="padding-left:10px;">Les Misérables (Original Broadway Cast Recording) (1987-05-11)</span></div>                                         |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> <span style="padding-left:10px;">Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) (2013-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732f1248549faa5010a0550e93" alt="Les Misérables: In Concert at the Royal Albert Hall" width="50" /> <span style="padding-left:10px;">Les Misérables: In Concert at the Royal Albert Hall (1996)</span></div>                                           |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="The Phantom Of The Opera (Original Motion Picture Soundtrack)" width="50" /> <span style="padding-left:10px;">The Phantom Of The Opera (Original Motion Picture Soundtrack) (2004-12-10)</span></div>                 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="The Phantom Of The Opera (Original Motion Picture Soundtrack)" width="50" /> <span style="padding-left:10px;">The Phantom Of The Opera (Original Motion Picture Soundtrack) (2004-12-10)</span></div>                 |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732f1248549faa5010a0550e93" alt="Les Misérables: In Concert at the Royal Albert Hall" width="50" /> <span style="padding-left:10px;">Les Misérables: In Concert at the Royal Albert Hall (1996)</span></div>                                           | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> <span style="padding-left:10px;">Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) (2013-01-01)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="Les Misérables (Original Broadway Cast Recording)" width="50" /> <span style="padding-left:10px;">Les Misérables (Original Broadway Cast Recording) (1987-05-11)</span></div>                                         | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> <span style="padding-left:10px;">Hamilton (Original Broadway Cast Recording) (2015-09-25)</span></div>                                                     |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> <span style="padding-left:10px;">The Phantom Of The Opera (1987-01-01)</span></div>                                                                                           | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="What's Inside: Songs from Waitress" width="50" /> <span style="padding-left:10px;">What's Inside: Songs from Waitress (2015-11-06)</span></div>                                                                       |
 ## Audio Features
 
 | 10 most Danceable tracks                | 10 least Danceable tracks                                                            |
 |:----------------------------------------|:-------------------------------------------------------------------------------------|
-| Ten Duel Commandments                   | Entr'Acte                                                                            |
-| Washington on Your Side                 | Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture                  |
-| A Winter's Ball                         | Overture                                                                             |
-| Blow Us All Away                        | All I Ask Of You                                                                     |
-| The Adams Administration                | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture |
-| Farmer Refuted                          | One Day More                                                                         |
-| Non-Stop                                | I Dreamed A Dream                                                                    |
-| Yorktown (The World Turned Upside Down) | All I Ask Of You - From 'The Phantom Of The Opera' Motion Picture                    |
-| Say No to This                          | All I Ask Of You - Reprise                                                           |
-| Cabinet Battle #2                       | The Music Of The Night - From 'The Phantom Of The Opera' Motion Picture              |
+| Ten Duel Commandments                   | The Music Of The Night - From 'The Phantom Of The Opera' Motion Picture              |
+| Washington on Your Side                 | All I Ask Of You - Reprise                                                           |
+| A Winter's Ball                         | All I Ask Of You - From 'The Phantom Of The Opera' Motion Picture                    |
+| Blow Us All Away                        | I Dreamed A Dream                                                                    |
+| The Adams Administration                | One Day More                                                                         |
+| Farmer Refuted                          | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture |
+| Non-Stop                                | All I Ask Of You                                                                     |
+| Yorktown (The World Turned Upside Down) | Overture                                                                             |
+| Say No to This                          | Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture                  |
+| Cabinet Battle #2                       | Entr'Acte                                                                            |
 
 | 10 most Energetic tracks                                                  | 10 least Energetic tracks                                                            |
 |:--------------------------------------------------------------------------|:-------------------------------------------------------------------------------------|
-| Bad Idea (feat. Jason Mraz)                                               | Come To Me (Fantine's Death)                                                         |
-| Yorktown (The World Turned Upside Down)                                   | Empty Chairs At Empty Tables                                                         |
-| The Schuyler Sisters                                                      | All I Ask Of You - Reprise                                                           |
-| Opening Up                                                                | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture |
-| I Didn't Plan It                                                          | In My Life                                                                           |
-| Guns and Ships                                                            | Bring Him Home                                                                       |
-| Cabinet Battle #1                                                         | Angel Of Music - From 'The Phantom Of The Opera' Motion Picture                      |
-| My Shot                                                                   | Magical Lasso                                                                        |
-| Meet Me Inside                                                            | A Little Fall Of Rain                                                                |
-| The Phantom Of the Opera - From 'The Phantom Of The Opera' Motion Picture | Castle On A Cloud                                                                    |
+| Bad Idea (feat. Jason Mraz)                                               | Castle On A Cloud                                                                    |
+| Yorktown (The World Turned Upside Down)                                   | A Little Fall Of Rain                                                                |
+| The Schuyler Sisters                                                      | Magical Lasso                                                                        |
+| Opening Up                                                                | Angel Of Music - From 'The Phantom Of The Opera' Motion Picture                      |
+| I Didn't Plan It                                                          | Bring Him Home                                                                       |
+| Guns and Ships                                                            | In My Life                                                                           |
+| Cabinet Battle #1                                                         | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture |
+| My Shot                                                                   | All I Ask Of You - Reprise                                                           |
+| Meet Me Inside                                                            | Empty Chairs At Empty Tables                                                         |
+| The Phantom Of the Opera - From 'The Phantom Of The Opera' Motion Picture | Come To Me (Fantine's Death)                                                         |
 
 | 10 most Speechy tracks    | 10 least Speechy tracks                                             |
 |:--------------------------|:--------------------------------------------------------------------|
-| Aaron Burr, Sir           | The Music Of The Night                                              |
-| Prologue                  | I Didn't Plan It                                                    |
-| Ten Duel Commandments     | That Would Be Enough                                                |
-| The World Was Wide Enough | Entr'Acte                                                           |
-| The Adams Administration  | Empty Chairs At Empty Tables                                        |
-| Cabinet Battle #2         | Overture / Work Song                                                |
-| We Know                   | Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture |
-| A Winter's Ball           | Stars                                                               |
-| Your Obedient Servant     | Dear Theodosia                                                      |
-| Right Hand Man            | History Has Its Eyes on You                                         |
+| Aaron Burr, Sir           | History Has Its Eyes on You                                         |
+| Prologue                  | Dear Theodosia                                                      |
+| Ten Duel Commandments     | Stars                                                               |
+| The World Was Wide Enough | Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture |
+| The Adams Administration  | Overture / Work Song                                                |
+| Cabinet Battle #2         | Empty Chairs At Empty Tables                                        |
+| We Know                   | Entr'Acte                                                           |
+| A Winter's Ball           | That Would Be Enough                                                |
+| Your Obedient Servant     | I Didn't Plan It                                                    |
+| Right Hand Man            | The Music Of The Night                                              |
 
 | 10 most Acoustic tracks                                         | 10 least Acoustic tracks                                  |
 |:----------------------------------------------------------------|:----------------------------------------------------------|
-| Bring Him Home                                                  | Opening Up                                                |
-| I Dreamed A Dream                                               | I Didn't Plan It                                          |
-| Castle On A Cloud                                               | Cabinet Battle #1                                         |
-| A Heart Full Of Love                                            | Ten Duel Commandments                                     |
-| On My Own                                                       | Cabinet Battle #2                                         |
-| In My Life                                                      | The Phantom Of The Opera                                  |
-| Empty Chairs At Empty Tables                                    | The Reynolds Pamphlet                                     |
-| A Little Fall Of Rain                                           | Bad Idea (feat. Jason Mraz)                               |
-| Angel Of Music - From 'The Phantom Of The Opera' Motion Picture | Overture                                                  |
-| Come To Me (Fantine's Death)                                    | Overture - From 'The Phantom Of The Opera' Motion Picture |
+| Bring Him Home                                                  | Overture - From 'The Phantom Of The Opera' Motion Picture |
+| I Dreamed A Dream                                               | Overture                                                  |
+| Castle On A Cloud                                               | Bad Idea (feat. Jason Mraz)                               |
+| A Heart Full Of Love                                            | The Reynolds Pamphlet                                     |
+| On My Own                                                       | The Phantom Of The Opera                                  |
+| In My Life                                                      | Cabinet Battle #2                                         |
+| Empty Chairs At Empty Tables                                    | Ten Duel Commandments                                     |
+| A Little Fall Of Rain                                           | Cabinet Battle #1                                         |
+| Angel Of Music - From 'The Phantom Of The Opera' Motion Picture | I Didn't Plan It                                          |
+| Come To Me (Fantine's Death)                                    | Opening Up                                                |
 
 | 10 most Instrumental tracks                                       | 10 least Instrumental tracks   |
 |:------------------------------------------------------------------|:-------------------------------|
-| Entr'Acte                                                         | Non-Stop                       |
-| Overture                                                          | Alexander Hamilton             |
-| All I Ask Of You - Reprise                                        | Cabinet Battle #1              |
-| Overture - From 'The Phantom Of The Opera' Motion Picture         | Satisfied                      |
-| Bring Him Home                                                    | Ten Duel Commandments          |
-| The Phantom Of The Opera                                          | Right Hand Man                 |
-| Wishing You Were Somehow Here Again                               | Say No to This                 |
-| The Point Of No Return                                            | It's Quiet Uptown              |
-| Little Lotte / The Mirror (Angel Of Music)                        | Burn                           |
-| All I Ask Of You - From 'The Phantom Of The Opera' Motion Picture | Everything Changes             |
+| Entr'Acte                                                         | Everything Changes             |
+| Overture                                                          | Burn                           |
+| All I Ask Of You - Reprise                                        | It's Quiet Uptown              |
+| Overture - From 'The Phantom Of The Opera' Motion Picture         | Say No to This                 |
+| Bring Him Home                                                    | Right Hand Man                 |
+| The Phantom Of The Opera                                          | Ten Duel Commandments          |
+| Wishing You Were Somehow Here Again                               | Satisfied                      |
+| The Point Of No Return                                            | Cabinet Battle #1              |
+| Little Lotte / The Mirror (Angel Of Music)                        | Alexander Hamilton             |
+| All I Ask Of You - From 'The Phantom Of The Opera' Motion Picture | Non-Stop                       |
 
 | 10 most Live tracks                                                     | 10 least Live tracks                                         |
 |:------------------------------------------------------------------------|:-------------------------------------------------------------|
-| Yorktown (The World Turned Upside Down)                                 | Stay Alive - Reprise                                         |
-| I Know Him                                                              | Think Of Me - From 'The Phantom Of The Opera' Motion Picture |
-| Building the Barricade / On My Own - Live                               | It's Quiet Uptown                                            |
-| Stars                                                                   | Opening Up                                                   |
-| The Point Of No Return - From 'The Phantom Of The Opera' Motion Picture | Washington on Your Side                                      |
-| The Room Where It Happens                                               | All I Ask Of You - Reprise                                   |
-| The Story of Tonight                                                    | Dear Theodosia                                               |
-| The Schuyler Sisters                                                    | Bring Him Home                                               |
-| Ten Duel Commandments                                                   | Farmer Refuted                                               |
-| Blow Us All Away                                                        | Your Obedient Servant                                        |
+| Yorktown (The World Turned Upside Down)                                 | Your Obedient Servant                                        |
+| I Know Him                                                              | Farmer Refuted                                               |
+| Building the Barricade / On My Own - Live                               | Bring Him Home                                               |
+| Stars                                                                   | Dear Theodosia                                               |
+| The Point Of No Return - From 'The Phantom Of The Opera' Motion Picture | All I Ask Of You - Reprise                                   |
+| The Room Where It Happens                                               | Washington on Your Side                                      |
+| The Story of Tonight                                                    | Opening Up                                                   |
+| The Schuyler Sisters                                                    | It's Quiet Uptown                                            |
+| Ten Duel Commandments                                                   | Think Of Me - From 'The Phantom Of The Opera' Motion Picture |
+| Blow Us All Away                                                        | Stay Alive - Reprise                                         |
 
 | 10 most Happy tracks        | 10 least Happy tracks                                                                |
 |:----------------------------|:-------------------------------------------------------------------------------------|
-| Schuyler Defeated           | The Point Of No Return                                                               |
-| Ten Duel Commandments       | Why Have You Brought Me Here                                                         |
-| The Schuyler Sisters        | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture |
-| The Adams Administration    | Bring Him Home                                                                       |
-| I Didn't Plan It            | All I Ask Of You - Reprise                                                           |
-| Bad Idea (feat. Jason Mraz) | I Remember / Stranger Than You Dreamt It                                             |
-| Helpless                    | Down Once More / Track Down This Murderer                                            |
-| We Know                     | Little Lotte / The Mirror (Angel Of Music)                                           |
-| A Winter's Ball             | Wandering Child / Bravo, Monsieur                                                    |
-| Blow Us All Away            | Wishing You Were Somehow Here Again                                                  |
+| Schuyler Defeated           | Wishing You Were Somehow Here Again                                                  |
+| Ten Duel Commandments       | Wandering Child / Bravo, Monsieur                                                    |
+| The Schuyler Sisters        | Little Lotte / The Mirror (Angel Of Music)                                           |
+| The Adams Administration    | Down Once More / Track Down This Murderer                                            |
+| I Didn't Plan It            | I Remember / Stranger Than You Dreamt It                                             |
+| Bad Idea (feat. Jason Mraz) | All I Ask Of You - Reprise                                                           |
+| Helpless                    | Bring Him Home                                                                       |
+| We Know                     | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture |
+| A Winter's Ball             | Why Have You Brought Me Here                                                         |
+| Blow Us All Away            | The Point Of No Return                                                               |

@@ -40,44 +40,44 @@
 <details>
 <summary>See all 36 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                                          | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------|:-----------------------------------------------------------|
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | The Stranger                                                   | [🔗](https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273b4844a368bd9679f1db5a4fb" alt="" width="50" /> | Song to a Seagull                                              | [🔗](https://open.spotify.com/album/6rg3WTvmv68Vd6tgR0yS0E) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | Bridge Over Troubled Water                                     | [🔗](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273e9f77be85457110ebf304da7" alt="" width="50" /> | Blue                                                           | [🔗](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="" width="50" /> | The Stranger (Legacy Edition)                                  | [🔗](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="" width="50" /> | Tapestry                                                       | [🔗](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="" width="50" /> | Storm Front                                                    | [🔗](https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="" width="50" /> | River Of Dreams                                                | [🔗](https://open.spotify.com/album/4HPnwQJAEvTY910q4RNeOu) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | Piano Man                                                      | [🔗](https://open.spotify.com/album/77ErLrVvYETIlQJHAwhfIH) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="" width="50" /> | Good Vibrations                                                | [🔗](https://open.spotify.com/album/10IUKCLZPs9onPwXfQVxfv) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="" width="50" /> | An Innocent Man                                                | [🔗](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="" width="50" /> | 52nd Street                                                    | [🔗](https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="" width="50" /> | Wednesday Morning, 3 A.M.                                      | [🔗](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273315994fdfb86d9bcb40337ba" alt="" width="50" /> | Verities & Balderdash                                          | [🔗](https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d1731f2c0e1c2c8957f35c76" alt="" width="50" /> | Turnstiles                                                     | [🔗](https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27355ef4cc7e56a02c68c3abc0f" alt="" width="50" /> | The Very Best Of "The Archies"                                 | [🔗](https://open.spotify.com/album/7spOTrIPTM8RrMIAhCjLJi) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d5758ffb1632e086776cf14d" alt="" width="50" /> | The Princess and the Frog (Original Motion Picture Soundtrack) | [🔗](https://open.spotify.com/album/0CcL28OkH89kjgKpNZC8sW) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e5e5f24cf490dfc7041eafc3" alt="" width="50" /> | The Nylon Curtain                                              | [🔗](https://open.spotify.com/album/50bajZpetfL5T0iRCOR74J) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273375445cc7a2aedff11361b51" alt="" width="50" /> | The Joker                                                      | [🔗](https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738f09dd4d56cde1a2cda18604" alt="" width="50" /> | The Essential Van Morrison                                     | [🔗](https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273800f95060baebdd6aea0f4b9" alt="" width="50" /> | The Bridge                                                     | [🔗](https://open.spotify.com/album/2fRxSC6FtiAkhEDVZr2seH) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27376448e93fcf0b2298744ba97" alt="" width="50" /> | The Birds, The Bees, & The Monkees                             | [🔗](https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273360a1ae790aa71a0aac4983e" alt="" width="50" /> | More of The Monkees (Deluxe Edition)                           | [🔗](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27369bb57791f9859f2695391f7" alt="" width="50" /> | Moondance (Expanded Edition)                                   | [🔗](https://open.spotify.com/album/6yNYC35npMBHbxG0Vle83O) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f22514855a9a8356664340fb" alt="" width="50" /> | Moondance (Deluxe Edition)                                     | [🔗](https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1113af3a19a41dc8eec534e" alt="" width="50" /> | Luck Of The Draw                                               | [🔗](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730058fcf8f649ae1b05f6c163" alt="" width="50" /> | Ladies of the Canyon                                           | [🔗](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734637341b9f507521afa9a778" alt="" width="50" /> | Hotel California (2013 Remaster)                               | [🔗](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27309880a7b8636c5a0615dc0c8" alt="" width="50" /> | Graceland (25th Anniversary Deluxe Edition)                    | [🔗](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27322d5199692d318c28d6c7d9b" alt="" width="50" /> | Glass Houses                                                   | [🔗](https://open.spotify.com/album/5sztejERqpktXEdemlUvU5) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732d73b1bb77cee09f0278be04" alt="" width="50" /> | Desperado (2013 Remaster)                                      | [🔗](https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273909f0333c8c1a821a7eea703" alt="" width="50" /> | Court and Spark                                                | [🔗](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273431daec5815fd0255437b43b" alt="" width="50" /> | Cold Spring Harbor                                             | [🔗](https://open.spotify.com/album/274rMlKrr22086ohmwAJZA) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730ac413b28547dbc45412a3ce" alt="" width="50" /> | Chicago IX: Chicago's Greatest Hits                            | [🔗](https://open.spotify.com/album/5qWGV0fd7hpdptJYI4G9Dd) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d8fb5b4308dc27f210064ef4" alt="" width="50" /> | Bookends                                                       | [🔗](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733f29a976eea00141514ab936" alt="" width="50" /> | Blowin' Your Mind!                                             | [🔗](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) |
+|   Number of Tracks | Art                                                                                              | Album                                                          | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | The Stranger                                                   | 1977-09-29     | [🔗](https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273b4844a368bd9679f1db5a4fb" alt="" width="50" /> | Song to a Seagull                                              | 1968-03-01     | [🔗](https://open.spotify.com/album/6rg3WTvmv68Vd6tgR0yS0E) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | Bridge Over Troubled Water                                     | 1970-01-26     | [🔗](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273e9f77be85457110ebf304da7" alt="" width="50" /> | Blue                                                           | 1971-06-22     | [🔗](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="" width="50" /> | The Stranger (Legacy Edition)                                  | 1977           | [🔗](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="" width="50" /> | Tapestry                                                       | 1971           | [🔗](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="" width="50" /> | Storm Front                                                    | 1989-10-17     | [🔗](https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="" width="50" /> | River Of Dreams                                                | 1993-08-10     | [🔗](https://open.spotify.com/album/4HPnwQJAEvTY910q4RNeOu) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | Piano Man                                                      | 1973-11-09     | [🔗](https://open.spotify.com/album/77ErLrVvYETIlQJHAwhfIH) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="" width="50" /> | Good Vibrations                                                | 1993           | [🔗](https://open.spotify.com/album/10IUKCLZPs9onPwXfQVxfv) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="" width="50" /> | An Innocent Man                                                | 1983-08-08     | [🔗](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="" width="50" /> | 52nd Street                                                    | 1978-10-13     | [🔗](https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="" width="50" /> | Wednesday Morning, 3 A.M.                                      | 1964-10-19     | [🔗](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273315994fdfb86d9bcb40337ba" alt="" width="50" /> | Verities & Balderdash                                          | 1974           | [🔗](https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d1731f2c0e1c2c8957f35c76" alt="" width="50" /> | Turnstiles                                                     | 1976-05-19     | [🔗](https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27355ef4cc7e56a02c68c3abc0f" alt="" width="50" /> | The Very Best Of "The Archies"                                 | 2007-11-07     | [🔗](https://open.spotify.com/album/7spOTrIPTM8RrMIAhCjLJi) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d5758ffb1632e086776cf14d" alt="" width="50" /> | The Princess and the Frog (Original Motion Picture Soundtrack) | 2009-11-23     | [🔗](https://open.spotify.com/album/0CcL28OkH89kjgKpNZC8sW) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e5e5f24cf490dfc7041eafc3" alt="" width="50" /> | The Nylon Curtain                                              | 1982-06-23     | [🔗](https://open.spotify.com/album/50bajZpetfL5T0iRCOR74J) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273375445cc7a2aedff11361b51" alt="" width="50" /> | The Joker                                                      | 1973-01-01     | [🔗](https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738f09dd4d56cde1a2cda18604" alt="" width="50" /> | The Essential Van Morrison                                     | 2015-12-04     | [🔗](https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273800f95060baebdd6aea0f4b9" alt="" width="50" /> | The Bridge                                                     | 1986-07-28     | [🔗](https://open.spotify.com/album/2fRxSC6FtiAkhEDVZr2seH) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27376448e93fcf0b2298744ba97" alt="" width="50" /> | The Birds, The Bees, & The Monkees                             | 1968-04-22     | [🔗](https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273360a1ae790aa71a0aac4983e" alt="" width="50" /> | More of The Monkees (Deluxe Edition)                           | 1967-01-09     | [🔗](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27369bb57791f9859f2695391f7" alt="" width="50" /> | Moondance (Expanded Edition)                                   | 1970-02        | [🔗](https://open.spotify.com/album/6yNYC35npMBHbxG0Vle83O) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f22514855a9a8356664340fb" alt="" width="50" /> | Moondance (Deluxe Edition)                                     | 1970-02        | [🔗](https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1113af3a19a41dc8eec534e" alt="" width="50" /> | Luck Of The Draw                                               | 1991-01-01     | [🔗](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730058fcf8f649ae1b05f6c163" alt="" width="50" /> | Ladies of the Canyon                                           | 1970-03-01     | [🔗](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734637341b9f507521afa9a778" alt="" width="50" /> | Hotel California (2013 Remaster)                               | 1976-12-08     | [🔗](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27309880a7b8636c5a0615dc0c8" alt="" width="50" /> | Graceland (25th Anniversary Deluxe Edition)                    | 1986-08-12     | [🔗](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27322d5199692d318c28d6c7d9b" alt="" width="50" /> | Glass Houses                                                   | 1980-03-12     | [🔗](https://open.spotify.com/album/5sztejERqpktXEdemlUvU5) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732d73b1bb77cee09f0278be04" alt="" width="50" /> | Desperado (2013 Remaster)                                      | 1973           | [🔗](https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273909f0333c8c1a821a7eea703" alt="" width="50" /> | Court and Spark                                                | 1974-01-17     | [🔗](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273431daec5815fd0255437b43b" alt="" width="50" /> | Cold Spring Harbor                                             | 1971-11-01     | [🔗](https://open.spotify.com/album/274rMlKrr22086ohmwAJZA) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730ac413b28547dbc45412a3ce" alt="" width="50" /> | Chicago IX: Chicago's Greatest Hits                            | 1975-11-10     | [🔗](https://open.spotify.com/album/5qWGV0fd7hpdptJYI4G9Dd) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d8fb5b4308dc27f210064ef4" alt="" width="50" /> | Bookends                                                       | 1968-04-03     | [🔗](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733f29a976eea00141514ab936" alt="" width="50" /> | Blowin' Your Mind!                                             | 1967-09        | [🔗](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) |
 
 </details>
 
@@ -113,91 +113,91 @@
 
 | 10 most Danceable tracks   | 10 least Danceable tracks         |
 |:---------------------------|:----------------------------------|
-| You Can Call Me Al         | And So It Goes                    |
-| Cecilia                    | The Pirate of Penance             |
-| My Life                    | Scenes from an Italian Restaurant |
-| A Matter of Trust          | Captain Jack                      |
-| Sugar, Sugar               | And So It Goes                    |
-| We Didn't Start the Fire   | The Boxer                         |
-| I Feel the Earth Move      | Piano Man                         |
-| Uptown Girl                | She's Always a Woman              |
-| Down in New Orleans        | Desperado - 2013 Remaster         |
-| A Case of You              | Bridge Over Troubled Water        |
+| You Can Call Me Al         | Bridge Over Troubled Water        |
+| Cecilia                    | Desperado - 2013 Remaster         |
+| My Life                    | She's Always a Woman              |
+| A Matter of Trust          | Piano Man                         |
+| Sugar, Sugar               | The Boxer                         |
+| We Didn't Start the Fire   | And So It Goes                    |
+| I Feel the Earth Move      | Captain Jack                      |
+| Uptown Girl                | Scenes from an Italian Restaurant |
+| Down in New Orleans        | The Pirate of Penance             |
+| A Case of You              | And So It Goes                    |
 
 | 10 most Energetic tracks          | 10 least Energetic tracks      |
 |:----------------------------------|:-------------------------------|
-| We Didn't Start the Fire          | So Far Away                    |
-| Uptown Girl                       | Lullabye (Goodnight, My Angel) |
-| Scenes from an Italian Restaurant | I Had a King                   |
-| Movin' Out (Anthony's Song)       | I Can't Make You Love Me       |
-| The Stranger                      | She's Got a Way                |
-| Cecilia                           | The Dawntreader                |
-| Only the Good Die Young           | Blue                           |
-| Sugar, Sugar                      | And So It Goes                 |
-| 25 or 6 to 4                      | The Boxer                      |
-| I'm a Believer - 2006 Remaster    | And So It Goes                 |
+| We Didn't Start the Fire          | And So It Goes                 |
+| Uptown Girl                       | The Boxer                      |
+| Scenes from an Italian Restaurant | And So It Goes                 |
+| Movin' Out (Anthony's Song)       | Blue                           |
+| The Stranger                      | The Dawntreader                |
+| Cecilia                           | She's Got a Way                |
+| Only the Good Die Young           | I Can't Make You Love Me       |
+| Sugar, Sugar                      | I Had a King                   |
+| 25 or 6 to 4                      | Lullabye (Goodnight, My Angel) |
+| I'm a Believer - 2006 Remaster    | So Far Away                    |
 
 | 10 most Speechy tracks            | 10 least Speechy tracks                 |
 |:----------------------------------|:----------------------------------------|
-| Only the Good Die Young           | Desperado - 2013 Remaster               |
-| Scenes from an Italian Restaurant | I Feel the Earth Move                   |
-| Big Shot                          | Daydream Believer                       |
-| Crazy Love - 2013 Remaster        | The Sound of Silence - Acoustic Version |
-| The Stranger                      | A Case of You                           |
-| Crazy Love                        | Sugar, Sugar                            |
-| The Boxer                         | Piano Man                               |
-| The River of Dreams               | Hotel California - 2013 Remaster        |
-| Don't Ask Me Why                  | A Matter of Trust                       |
-| You Can Call Me Al                | The Longest Time                        |
+| Only the Good Die Young           | The Longest Time                        |
+| Scenes from an Italian Restaurant | A Matter of Trust                       |
+| Big Shot                          | Hotel California - 2013 Remaster        |
+| Crazy Love - 2013 Remaster        | Piano Man                               |
+| The Stranger                      | Sugar, Sugar                            |
+| Crazy Love                        | A Case of You                           |
+| The Boxer                         | The Sound of Silence - Acoustic Version |
+| The River of Dreams               | Daydream Believer                       |
+| Don't Ask Me Why                  | I Feel the Earth Move                   |
+| You Can Call Me Al                | Desperado - 2013 Remaster               |
 
 | 10 most Acoustic tracks        | 10 least Acoustic tracks         |
 |:-------------------------------|:---------------------------------|
-| Blue                           | The Stranger                     |
-| The Pirate of Penance          | Only the Good Die Young          |
-| She's Got a Way                | Big Shot                         |
-| I Had a King                   | Don't Ask Me Why                 |
-| The Dawntreader                | My Life                          |
-| Lullabye (Goodnight, My Angel) | We Didn't Start the Fire         |
-| Desperado - 2013 Remaster      | Uptown Girl                      |
-| And So It Goes                 | A Matter of Trust                |
-| The Boxer                      | Pressure                         |
-| And So It Goes                 | Hotel California - 2013 Remaster |
+| Blue                           | Hotel California - 2013 Remaster |
+| The Pirate of Penance          | Pressure                         |
+| She's Got a Way                | A Matter of Trust                |
+| I Had a King                   | Uptown Girl                      |
+| The Dawntreader                | We Didn't Start the Fire         |
+| Lullabye (Goodnight, My Angel) | My Life                          |
+| Desperado - 2013 Remaster      | Don't Ask Me Why                 |
+| And So It Goes                 | Big Shot                         |
+| The Boxer                      | Only the Good Die Young          |
+| And So It Goes                 | The Stranger                     |
 
 | 10 most Instrumental tracks       | 10 least Instrumental tracks            |
 |:----------------------------------|:----------------------------------------|
-| 25 or 6 to 4                      | Free Man in Paris                       |
-| I Had a King                      | A Case of You                           |
-| You Can Call Me Al                | Uptown Girl                             |
-| Blue                              | Big Yellow Taxi                         |
-| I Feel the Earth Move             | We Didn't Start the Fire                |
-| My Life                           | The Sound of Silence - Acoustic Version |
-| Pressure                          | Cat's in the Cradle                     |
-| Bridge Over Troubled Water        | Don't Ask Me Why                        |
-| Down in New Orleans               | Only the Good Die Young                 |
-| Scenes from an Italian Restaurant | And So It Goes                          |
+| 25 or 6 to 4                      | And So It Goes                          |
+| I Had a King                      | Only the Good Die Young                 |
+| You Can Call Me Al                | Don't Ask Me Why                        |
+| Blue                              | Cat's in the Cradle                     |
+| I Feel the Earth Move             | The Sound of Silence - Acoustic Version |
+| My Life                           | We Didn't Start the Fire                |
+| Pressure                          | Big Yellow Taxi                         |
+| Bridge Over Troubled Water        | Uptown Girl                             |
+| Down in New Orleans               | A Case of You                           |
+| Scenes from an Italian Restaurant | Free Man in Paris                       |
 
 | 10 most Live tracks       | 10 least Live tracks                           |
 |:--------------------------|:-----------------------------------------------|
-| Uptown Girl               | Vienna                                         |
-| Big Yellow Taxi           | So Far Away                                    |
-| Brown Eyed Girl           | Mrs. Robinson - From "The Graduate" Soundtrack |
-| Captain Jack              | Free Man in Paris                              |
-| We Didn't Start the Fire  | The River of Dreams                            |
-| New York State of Mind    | The Boxer                                      |
-| Piano Man                 | Movin' Out (Anthony's Song)                    |
-| A Matter of Trust         | Hotel California - 2013 Remaster               |
-| Desperado - 2013 Remaster | My Life                                        |
-| Crazy Love                | I Feel the Earth Move                          |
+| Uptown Girl               | I Feel the Earth Move                          |
+| Big Yellow Taxi           | My Life                                        |
+| Brown Eyed Girl           | Hotel California - 2013 Remaster               |
+| Captain Jack              | Movin' Out (Anthony's Song)                    |
+| We Didn't Start the Fire  | The Boxer                                      |
+| New York State of Mind    | The River of Dreams                            |
+| Piano Man                 | Free Man in Paris                              |
+| A Matter of Trust         | Mrs. Robinson - From "The Graduate" Soundtrack |
+| Desperado - 2013 Remaster | So Far Away                                    |
+| Crazy Love                | Vienna                                         |
 
 | 10 most Happy tracks           | 10 least Happy tracks          |
 |:-------------------------------|:-------------------------------|
-| Big Yellow Taxi                | And So It Goes                 |
-| Sugar, Sugar                   | The Dawntreader                |
-| I'm a Believer - 2006 Remaster | The Stranger                   |
-| Cecilia                        | Lullabye (Goodnight, My Angel) |
-| Brown Eyed Girl                | She's Got a Way                |
-| Movin' Out (Anthony's Song)    | New York State of Mind         |
-| We Didn't Start the Fire       | Desperado - 2013 Remaster      |
-| A Matter of Trust              | The Pirate of Penance          |
-| Don't Ask Me Why               | I Had a King                   |
-| Pressure                       | I Can't Make You Love Me       |
+| Big Yellow Taxi                | I Can't Make You Love Me       |
+| Sugar, Sugar                   | I Had a King                   |
+| I'm a Believer - 2006 Remaster | The Pirate of Penance          |
+| Cecilia                        | Desperado - 2013 Remaster      |
+| Brown Eyed Girl                | New York State of Mind         |
+| Movin' Out (Anthony's Song)    | She's Got a Way                |
+| We Didn't Start the Fire       | Lullabye (Goodnight, My Angel) |
+| A Matter of Trust              | The Stranger                   |
+| Don't Ask Me Why               | The Dawntreader                |
+| Pressure                       | And So It Goes                 |

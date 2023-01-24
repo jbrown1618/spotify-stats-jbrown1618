@@ -10,13 +10,13 @@
 |                 16 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735d990e8b45c848dc22885f89ab67616d0000b27362f44cdb37183a309fc1032fab67616d0000b27384470dd6235917e2e40e11f0ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | [A Cappella](../playlists/a_cappella/overview.md) |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album              | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------|:-----------------------------------------------------------|
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273bcad2453bb8a140067a4d4e2" alt="" width="50" /> | The Party Upstairs | [🔗](https://open.spotify.com/album/2AIAKP2FxbYNjmwQgAkqZz) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2733c8896f56a068816ef63165b" alt="" width="50" /> | Off the Hook       | [🔗](https://open.spotify.com/album/1wfYTTpHsGxvIjDwsPLAAC) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27334ceeb441ebadc373617e460" alt="" width="50" /> | Breakdown!         | [🔗](https://open.spotify.com/album/7u7dNsbxjcxVoffJELqtCV) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27379b679128839141600389209" alt="" width="50" /> | Stages             | [🔗](https://open.spotify.com/album/3mnYoDcAHKx6uA91f7rtAa) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733292818e78cd81fa4ba67fd2" alt="" width="50" /> | Before You Go      | [🔗](https://open.spotify.com/album/00x5MddnbpBoWJWtubLhHH) |
+|   Number of Tracks | Art                                                                                              | Album              | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------|:---------------|:-----------------------------------------------------------|
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273bcad2453bb8a140067a4d4e2" alt="" width="50" /> | The Party Upstairs | 2013-12-13     | [🔗](https://open.spotify.com/album/2AIAKP2FxbYNjmwQgAkqZz) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2733c8896f56a068816ef63165b" alt="" width="50" /> | Off the Hook       | 2011-12-10     | [🔗](https://open.spotify.com/album/1wfYTTpHsGxvIjDwsPLAAC) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27334ceeb441ebadc373617e460" alt="" width="50" /> | Breakdown!         | 2009-12-05     | [🔗](https://open.spotify.com/album/7u7dNsbxjcxVoffJELqtCV) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27379b679128839141600389209" alt="" width="50" /> | Stages             | 2014-09-21     | [🔗](https://open.spotify.com/album/3mnYoDcAHKx6uA91f7rtAa) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733292818e78cd81fa4ba67fd2" alt="" width="50" /> | Before You Go      | 2008-12-12     | [🔗](https://open.spotify.com/album/00x5MddnbpBoWJWtubLhHH) |
 
 ## Top Record Labels
 

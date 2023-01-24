@@ -10,9 +10,9 @@
 |                 24 | <img src="https://i.scdn.co/image/ab67616d0000b2732ab037775757e856d496f2f5" alt="" width="50" /> | [Rachmaninov](../playlists/rachmaninov/overview.md) |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album                                      | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------|:-----------------------------------------------------------|
-|                 24 | <img src="https://i.scdn.co/image/ab67616d0000b2732d2154810a4e4472b4cc199e" alt="" width="50" /> | Rachmaninov: Preludes for Piano (Complete) | [🔗](https://open.spotify.com/album/1vlnwUAidj7bEmRhsq4zTv) |
+|   Number of Tracks | Art                                                                                              | Album                                      | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                 24 | <img src="https://i.scdn.co/image/ab67616d0000b2732d2154810a4e4472b4cc199e" alt="" width="50" /> | Rachmaninov: Preludes for Piano (Complete) | 2007-05-29     | [🔗](https://open.spotify.com/album/1vlnwUAidj7bEmRhsq4zTv) |
 
 ## Top Record Labels
 

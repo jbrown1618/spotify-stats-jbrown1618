@@ -34,17 +34,17 @@ Appears as:
 <details>
 <summary>See all 9 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                          | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------|:-----------------------------------------------------------|
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="" width="50" /> | No Strings Attached                            | [🔗](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" alt="" width="50" /> | Millennium                                     | [🔗](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4" alt="" width="50" /> | In The Zone                                    | [🔗](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27354c6edd554935d73e159e199" alt="" width="50" /> | Circus (Deluxe Version)                        | [🔗](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732aa20611c7fb964a74ab01a6" alt="" width="50" /> | Oops!... I Did It Again                        | [🔗](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c6ba98fd3f3b396a6c6f7091" alt="" width="50" /> | FutureSex/LoveSounds                           | [🔗](https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e1a4e01cb7a1ecff468bbead" alt="" width="50" /> | Britney (Digital Deluxe Version)               | [🔗](https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c" alt="" width="50" /> | All I Want Is You                              | [🔗](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738e49866860c25afffe2f1a02" alt="" width="50" /> | ...Baby One More Time (Digital Deluxe Version) | [🔗](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) |
+|   Number of Tracks | Art                                                                                              | Album                                          | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="" width="50" /> | No Strings Attached                            | 2000-03-21     | [🔗](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" alt="" width="50" /> | Millennium                                     | 1999-05-18     | [🔗](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4" alt="" width="50" /> | In The Zone                                    | 2003-11-13     | [🔗](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27354c6edd554935d73e159e199" alt="" width="50" /> | Circus (Deluxe Version)                        | 2008-12-02     | [🔗](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732aa20611c7fb964a74ab01a6" alt="" width="50" /> | Oops!... I Did It Again                        | 2000-05-16     | [🔗](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c6ba98fd3f3b396a6c6f7091" alt="" width="50" /> | FutureSex/LoveSounds                           | 2006-09-12     | [🔗](https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e1a4e01cb7a1ecff468bbead" alt="" width="50" /> | Britney (Digital Deluxe Version)               | 2001-10-31     | [🔗](https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c" alt="" width="50" /> | All I Want Is You                              | 2010-11-26     | [🔗](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738e49866860c25afffe2f1a02" alt="" width="50" /> | ...Baby One More Time (Digital Deluxe Version) | 1999-01-12     | [🔗](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) |
 
 </details>
 

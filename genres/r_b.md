@@ -51,37 +51,37 @@
 <details>
 <summary>See all 29 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                          | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------|:-----------------------------------------------------------|
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | Thriller                                       | [🔗](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | I AM...SASHA FIERCE                            | [🔗](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | 4                                              | [🔗](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27386b0c9728ad3ed338eaeea79" alt="" width="50" /> | Raymond v Raymond (Expanded Edition)           | [🔗](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="" width="50" /> | Lemonade                                       | [🔗](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | Bad (Remastered)                               | [🔗](https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273026e88f624dfb96f2e1ef10b" alt="" width="50" /> | B'Day Deluxe Edition                           | [🔗](https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c70176fa51326491ecc5f79e" alt="" width="50" /> | Who Hurt You?                                  | [🔗](https://open.spotify.com/album/15M9pZ8gsdoN67yLjyQ039) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27318ff322fcdd47c9400872da6" alt="" width="50" /> | TAKE TIME                                      | [🔗](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="" width="50" /> | Survivor                                       | [🔗](https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="" width="50" /> | Slime & B                                      | [🔗](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273cf31c7be8a9eea69d98c37c4" alt="" width="50" /> | Sides                                          | [🔗](https://open.spotify.com/album/5alIr9JGPvOQwPLphm0beJ) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c8245ce2a727675a0a232b2f" alt="" width="50" /> | Preach                                         | [🔗](https://open.spotify.com/album/32r4o1R9a1lK5DoVXGEC7E) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac" alt="" width="50" /> | Off the Wall                                   | [🔗](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734e8e488284a2cf00a613c0a1" alt="" width="50" /> | Music From The Motion Picture Cadillac Records | [🔗](https://open.spotify.com/album/4b2zuwf7CPesdiTg1kFDjU) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27394c9217a398f5174757c0c78" alt="" width="50" /> | Love In The Future (Expanded Edition)          | [🔗](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273260e2444b3431b3b8b559bc3" alt="" width="50" /> | Jordin Sparks                                  | [🔗](https://open.spotify.com/album/6JCNOvp9UeMrFuXwNW0JW6) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736e62a873c96524a3788a2edf" alt="" width="50" /> | I Don't Mind (feat. Juicy J)                   | [🔗](https://open.spotify.com/album/5BAqg5IJQ7XFKfdoCiOlJw) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7" alt="" width="50" /> | HIStory - PAST, PRESENT AND FUTURE - BOOK I    | [🔗](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733138f891f3075c9c5d944037" alt="" width="50" /> | Freudian                                       | [🔗](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27361ffafd5e31a37336531cf95" alt="" width="50" /> | Fanmail                                        | [🔗](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d70bbffa859a9f9ca6f10496" alt="" width="50" /> | Evolver                                        | [🔗](https://open.spotify.com/album/11sKu4dBGvmEZTuVw9EC9A) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="" width="50" /> | Dangerously In Love                            | [🔗](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739351691c007cad99d70d9f3f" alt="" width="50" /> | Cravin                                         | [🔗](https://open.spotify.com/album/6c66PBJdg7EWPcFUvLyFFu) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273365b3fb800c19f7ff72602da" alt="" width="50" /> | Confessions (Expanded Edition)                 | [🔗](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f4c4ee507c2558262869f415" alt="" width="50" /> | Cassie (U.S. Version)                          | [🔗](https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27384a1d313a00f16b5a29ff46c" alt="" width="50" /> | Bittersweet                                    | [🔗](https://open.spotify.com/album/3UviDOQkc4WbXkNi6DIBZu) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c" alt="" width="50" /> | All I Want Is You                              | [🔗](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273af3ad974e635a6b18579adee" alt="" width="50" /> | A Beautiful World                              | [🔗](https://open.spotify.com/album/76wI74XuASLFrY9pUVLhO9) |
+|   Number of Tracks | Art                                                                                              | Album                                          | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | Thriller                                       | 1982-11-30     | [🔗](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | I AM...SASHA FIERCE                            | 2008-11-14     | [🔗](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | 4                                              | 2011-06-24     | [🔗](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27386b0c9728ad3ed338eaeea79" alt="" width="50" /> | Raymond v Raymond (Expanded Edition)           | 2010-03-30     | [🔗](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="" width="50" /> | Lemonade                                       | 2016-04-23     | [🔗](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | Bad (Remastered)                               | 1987-08-31     | [🔗](https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273026e88f624dfb96f2e1ef10b" alt="" width="50" /> | B'Day Deluxe Edition                           | 2007-05-29     | [🔗](https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c70176fa51326491ecc5f79e" alt="" width="50" /> | Who Hurt You?                                  | 2018-10-16     | [🔗](https://open.spotify.com/album/15M9pZ8gsdoN67yLjyQ039) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27318ff322fcdd47c9400872da6" alt="" width="50" /> | TAKE TIME                                      | 2020-03-27     | [🔗](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="" width="50" /> | Survivor                                       | 2001-05-01     | [🔗](https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="" width="50" /> | Slime & B                                      | 2020-05-08     | [🔗](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273cf31c7be8a9eea69d98c37c4" alt="" width="50" /> | Sides                                          | 2020-01-17     | [🔗](https://open.spotify.com/album/5alIr9JGPvOQwPLphm0beJ) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c8245ce2a727675a0a232b2f" alt="" width="50" /> | Preach                                         | 2019-02-15     | [🔗](https://open.spotify.com/album/32r4o1R9a1lK5DoVXGEC7E) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac" alt="" width="50" /> | Off the Wall                                   | 1979-08-10     | [🔗](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734e8e488284a2cf00a613c0a1" alt="" width="50" /> | Music From The Motion Picture Cadillac Records | 2008-11-28     | [🔗](https://open.spotify.com/album/4b2zuwf7CPesdiTg1kFDjU) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27394c9217a398f5174757c0c78" alt="" width="50" /> | Love In The Future (Expanded Edition)          | 2013-08-30     | [🔗](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273260e2444b3431b3b8b559bc3" alt="" width="50" /> | Jordin Sparks                                  | 2007-11-20     | [🔗](https://open.spotify.com/album/6JCNOvp9UeMrFuXwNW0JW6) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736e62a873c96524a3788a2edf" alt="" width="50" /> | I Don't Mind (feat. Juicy J)                   | 2014-11-21     | [🔗](https://open.spotify.com/album/5BAqg5IJQ7XFKfdoCiOlJw) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7" alt="" width="50" /> | HIStory - PAST, PRESENT AND FUTURE - BOOK I    | 1995-06-16     | [🔗](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733138f891f3075c9c5d944037" alt="" width="50" /> | Freudian                                       | 2017-08-25     | [🔗](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27361ffafd5e31a37336531cf95" alt="" width="50" /> | Fanmail                                        | 1999-02-23     | [🔗](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d70bbffa859a9f9ca6f10496" alt="" width="50" /> | Evolver                                        | 2008-10-27     | [🔗](https://open.spotify.com/album/11sKu4dBGvmEZTuVw9EC9A) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="" width="50" /> | Dangerously In Love                            | 2003-06-24     | [🔗](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739351691c007cad99d70d9f3f" alt="" width="50" /> | Cravin                                         | 2019-10-18     | [🔗](https://open.spotify.com/album/6c66PBJdg7EWPcFUvLyFFu) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273365b3fb800c19f7ff72602da" alt="" width="50" /> | Confessions (Expanded Edition)                 | 2004-03-23     | [🔗](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f4c4ee507c2558262869f415" alt="" width="50" /> | Cassie (U.S. Version)                          | 2006-08-07     | [🔗](https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27384a1d313a00f16b5a29ff46c" alt="" width="50" /> | Bittersweet                                    | 2003           | [🔗](https://open.spotify.com/album/3UviDOQkc4WbXkNi6DIBZu) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c" alt="" width="50" /> | All I Want Is You                              | 2010-11-26     | [🔗](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273af3ad974e635a6b18579adee" alt="" width="50" /> | A Beautiful World                              | 2002-12-13     | [🔗](https://open.spotify.com/album/76wI74XuASLFrY9pUVLhO9) |
 
 </details>
 
@@ -123,91 +123,91 @@
 
 | 10 most Danceable tracks          | 10 least Danceable tracks                     |
 |:----------------------------------|:----------------------------------------------|
-| Billie Jean                       | Hold Up                                       |
-| P.Y.T. (Pretty Young Thing)       | Halo                                          |
-| Yeah! (feat. Lil Jon & Ludacris)  | Preach                                        |
-| Don't Stop 'Til You Get Enough    | Teach You - Acoustic                          |
-| I Don't Mind (feat. Juicy J)      | Heartbreak Anniversary                        |
-| Smooth Criminal - 2012 Remaster   | Irreplaceable                                 |
-| Wanna Be Startin' Somethin'       | Listen (From the Motion Picture "Dreamgirls") |
-| Bootylicious                      | All of Me                                     |
-| Cravin (feat. G-Eazy)             | Ave Maria                                     |
-| Man in the Mirror - 2012 Remaster | I'd Rather Go Blind                           |
+| Billie Jean                       | I'd Rather Go Blind                           |
+| P.Y.T. (Pretty Young Thing)       | Ave Maria                                     |
+| Yeah! (feat. Lil Jon & Ludacris)  | All of Me                                     |
+| Don't Stop 'Til You Get Enough    | Listen (From the Motion Picture "Dreamgirls") |
+| I Don't Mind (feat. Juicy J)      | Irreplaceable                                 |
+| Smooth Criminal - 2012 Remaster   | Heartbreak Anniversary                        |
+| Wanna Be Startin' Somethin'       | Teach You - Acoustic                          |
+| Bootylicious                      | Preach                                        |
+| Cravin (feat. G-Eazy)             | Halo                                          |
+| Man in the Mirror - 2012 Remaster | Hold Up                                       |
 
 | 10 most Energetic tracks                  | 10 least Energetic tracks    |
 |:------------------------------------------|:-----------------------------|
-| Smooth Criminal - 2012 Remaster           | Who Hurt You?                |
-| Green Light (feat. André 3000)            | Heartbreak Anniversary       |
-| Wanna Be Startin' Somethin'               | I Don't Mind (feat. Juicy J) |
-| DJ Got Us Fallin' In Love (feat. Pitbull) | Billie Jean                  |
-| When I Get You Alone                      | Me & U                       |
-| Bootylicious                              | Ave Maria                    |
-| Sweet Dreams                              | Hold Up                      |
-| Don't Stop 'Til You Get Enough            | Best Part (feat. H.E.R.)     |
-| Man in the Mirror - 2012 Remaster         | Teach You - Acoustic         |
-| Beat It                                   | All of Me                    |
+| Smooth Criminal - 2012 Remaster           | All of Me                    |
+| Green Light (feat. André 3000)            | Teach You - Acoustic         |
+| Wanna Be Startin' Somethin'               | Best Part (feat. H.E.R.)     |
+| DJ Got Us Fallin' In Love (feat. Pitbull) | Hold Up                      |
+| When I Get You Alone                      | Ave Maria                    |
+| Bootylicious                              | Me & U                       |
+| Sweet Dreams                              | Billie Jean                  |
+| Don't Stop 'Til You Get Enough            | I Don't Mind (feat. Juicy J) |
+| Man in the Mirror - 2012 Remaster         | Heartbreak Anniversary       |
+| Beat It                                   | Who Hurt You?                |
 
 | 10 most Speechy tracks           | 10 least Speechy tracks           |
 |:---------------------------------|:----------------------------------|
-| Hold Up                          | Man in the Mirror - 2012 Remaster |
-| Irreplaceable                    | Best Part (feat. H.E.R.)          |
-| Bootylicious                     | I Was Here                        |
-| Cravin (feat. G-Eazy)            | Best Thing I Never Had            |
-| Crazy In Love (feat. Jay-Z)      | All of Me                         |
-| Daddy Lessons                    | I'd Rather Go Blind               |
-| I Don't Mind (feat. Juicy J)     | If I Were a Boy                   |
-| Countdown                        | Me & U                            |
-| Green Light (feat. André 3000)   | One Step At a Time                |
-| Yeah! (feat. Lil Jon & Ludacris) | Ave Maria                         |
+| Hold Up                          | Ave Maria                         |
+| Irreplaceable                    | One Step At a Time                |
+| Bootylicious                     | Me & U                            |
+| Cravin (feat. G-Eazy)            | If I Were a Boy                   |
+| Crazy In Love (feat. Jay-Z)      | I'd Rather Go Blind               |
+| Daddy Lessons                    | All of Me                         |
+| I Don't Mind (feat. Juicy J)     | Best Thing I Never Had            |
+| Countdown                        | I Was Here                        |
+| Green Light (feat. André 3000)   | Best Part (feat. H.E.R.)          |
+| Yeah! (feat. Lil Jon & Ludacris) | Man in the Mirror - 2012 Remaster |
 
 | 10 most Acoustic tracks                       | 10 least Acoustic tracks         |
 |:----------------------------------------------|:---------------------------------|
-| All of Me                                     | Thriller                         |
-| Teach You - Acoustic                          | Irreplaceable                    |
-| Best Part (feat. H.E.R.)                      | Beat It                          |
-| Ave Maria                                     | Sure Thing                       |
-| Hold Up                                       | Wanna Be Startin' Somethin'      |
-| Who Hurt You?                                 | No Scrubs                        |
-| Heartbreak Anniversary                        | Yeah! (feat. Lil Jon & Ludacris) |
-| Man in the Mirror - 2012 Remaster             | Billie Jean                      |
-| I Was Here                                    | Crazy In Love (feat. Jay-Z)      |
-| Listen (From the Motion Picture "Dreamgirls") | Bootylicious                     |
+| All of Me                                     | Bootylicious                     |
+| Teach You - Acoustic                          | Crazy In Love (feat. Jay-Z)      |
+| Best Part (feat. H.E.R.)                      | Billie Jean                      |
+| Ave Maria                                     | Yeah! (feat. Lil Jon & Ludacris) |
+| Hold Up                                       | No Scrubs                        |
+| Who Hurt You?                                 | Wanna Be Startin' Somethin'      |
+| Heartbreak Anniversary                        | Sure Thing                       |
+| Man in the Mirror - 2012 Remaster             | Beat It                          |
+| I Was Here                                    | Irreplaceable                    |
+| Listen (From the Motion Picture "Dreamgirls") | Thriller                         |
 
 | 10 most Instrumental tracks       | 10 least Instrumental tracks     |
 |:----------------------------------|:---------------------------------|
-| Smooth Criminal - 2012 Remaster   | Yeah! (feat. Lil Jon & Ludacris) |
-| Wanna Be Startin' Somethin'       | There Goes My Baby               |
-| Don't Stop 'Til You Get Enough    | Best Part (feat. H.E.R.)         |
-| Billie Jean                       | When I Get You Alone             |
-| No Scrubs                         | City Girls                       |
-| P.Y.T. (Pretty Young Thing)       | Preach                           |
-| Sure Thing                        | All of Me                        |
-| Thriller                          | Green Light (feat. André 3000)   |
-| Who Hurt You?                     | Bootylicious                     |
-| Man in the Mirror - 2012 Remaster | Me & U                           |
+| Smooth Criminal - 2012 Remaster   | Me & U                           |
+| Wanna Be Startin' Somethin'       | Bootylicious                     |
+| Don't Stop 'Til You Get Enough    | Green Light (feat. André 3000)   |
+| Billie Jean                       | All of Me                        |
+| No Scrubs                         | Preach                           |
+| P.Y.T. (Pretty Young Thing)       | City Girls                       |
+| Sure Thing                        | When I Get You Alone             |
+| Thriller                          | Best Part (feat. H.E.R.)         |
+| Who Hurt You?                     | There Goes My Baby               |
+| Man in the Mirror - 2012 Remaster | Yeah! (feat. Lil Jon & Ludacris) |
 
 | 10 most Live tracks             | 10 least Live tracks             |
 |:--------------------------------|:---------------------------------|
-| Thriller                        | Who Hurt You?                    |
-| Love On Top                     | Me & U                           |
-| Hold Up                         | Sweet Dreams                     |
-| If I Were a Boy                 | Wanna Be Startin' Somethin'      |
-| Daddy Lessons                   | Halo                             |
-| Smooth Criminal - 2012 Remaster | City Girls                       |
-| Heartbreak Anniversary          | When I Get You Alone             |
-| Hit 'Em Up Style (Oops!)        | Billie Jean                      |
-| Countdown                       | Yeah! (feat. Lil Jon & Ludacris) |
-| Green Light (feat. André 3000)  | One Step At a Time               |
+| Thriller                        | One Step At a Time               |
+| Love On Top                     | Yeah! (feat. Lil Jon & Ludacris) |
+| Hold Up                         | Billie Jean                      |
+| If I Were a Boy                 | When I Get You Alone             |
+| Daddy Lessons                   | City Girls                       |
+| Smooth Criminal - 2012 Remaster | Halo                             |
+| Heartbreak Anniversary          | Wanna Be Startin' Somethin'      |
+| Hit 'Em Up Style (Oops!)        | Sweet Dreams                     |
+| Countdown                       | Me & U                           |
+| Green Light (feat. André 3000)  | Who Hurt You?                    |
 
 | 10 most Happy tracks           | 10 least Happy tracks                         |
 |:-------------------------------|:----------------------------------------------|
-| P.Y.T. (Pretty Young Thing)    | Preach                                        |
-| Don't Stop 'Til You Get Enough | All of Me                                     |
-| Wanna Be Startin' Somethin'    | Best Thing I Never Had                        |
-| Beat It                        | I'd Rather Go Blind                           |
-| Billie Jean                    | Who Hurt You?                                 |
-| City Girls                     | Man in the Mirror - 2012 Remaster             |
-| Sweet Dreams                   | There Goes My Baby                            |
-| Thriller                       | I Was Here                                    |
-| Green Light (feat. André 3000) | Ave Maria                                     |
-| Me & U                         | Listen (From the Motion Picture "Dreamgirls") |
+| P.Y.T. (Pretty Young Thing)    | Listen (From the Motion Picture "Dreamgirls") |
+| Don't Stop 'Til You Get Enough | Ave Maria                                     |
+| Wanna Be Startin' Somethin'    | I Was Here                                    |
+| Beat It                        | There Goes My Baby                            |
+| Billie Jean                    | Man in the Mirror - 2012 Remaster             |
+| City Girls                     | Who Hurt You?                                 |
+| Sweet Dreams                   | I'd Rather Go Blind                           |
+| Thriller                       | Best Thing I Never Had                        |
+| Green Light (feat. André 3000) | All of Me                                     |
+| Me & U                         | Preach                                        |

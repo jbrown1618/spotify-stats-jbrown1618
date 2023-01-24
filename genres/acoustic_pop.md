@@ -36,27 +36,27 @@
 <details>
 <summary>See all 19 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                       | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------|:-----------------------------------------------------------|
-|                 13 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | Kaleidoscope Heart                          | [🔗](https://open.spotify.com/album/627ukPRwYxyBREHxBq0vGJ) |
-|                 12 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | The Blessed Unrest                          | [🔗](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) |
-|                 12 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Little Voice                                | [🔗](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) |
-|                 10 | <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | Amidst the Chaos (Bonus Version)            | [🔗](https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm) |
-|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b2734280a158a96c9b0274eb7e99" alt="" width="50" /> | Love, Save The Empty                        | [🔗](https://open.spotify.com/album/1tF7625TFqvfzMbappj1pQ) |
-|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="" width="50" /> | What's Inside: Songs from Waitress          | [🔗](https://open.spotify.com/album/1s6codM2ZAB008t9GTyaEk) |
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | Once Upon Another Time                      | [🔗](https://open.spotify.com/album/1PrqYZJRzGNf8AsSOraxnZ) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273119ad2ebc0d33edf847ed8c6" alt="" width="50" /> | One Cell In The Sea                         | [🔗](https://open.spotify.com/album/0Ot7MEgreG2R93aN42M9iK) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2730e402844f1b6be3102d339f2" alt="" width="50" /> | Lemon Love                                  | [🔗](https://open.spotify.com/album/5YToJrWwzdA6W2NxxDoteE) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273e7b8e0abcd5cdc4c8b5a238c" alt="" width="50" /> | Bomb In A Birdcage                          | [🔗](https://open.spotify.com/album/07IV5RxLvAUeZbcPm4zOzn) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2730f2e51f7121539e221c51161" alt="" width="50" /> | We Sing. We Dance. We Steal Things.         | [🔗](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2737ebde0a5bb07f53a99c15224" alt="" width="50" /> | Barton Hollow                               | [🔗](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732cf1dcc65396176307f23524" alt="" width="50" /> | PINES                                       | [🔗](https://open.spotify.com/album/1876e9QcHkJ3Hgo4NqKXBN) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735da1093d047cc15eb66d27cf" alt="" width="50" /> | OK Now                                      | [🔗](https://open.spotify.com/album/3fKJJQFV6a61fnKYDDj2LU) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27327c371084dee1b83e614798d" alt="" width="50" /> | Indiana                                     | [🔗](https://open.spotify.com/album/2UpO4j1Zpptiwk3wbUIWmU) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fcfd8d2e1bb9f0d4fbe5794d" alt="" width="50" /> | Happenstance (Deluxe Version)               | [🔗](https://open.spotify.com/album/66p6CIMdxQFO3Igg9xo14a) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737cdb143bd2e9906d39c5eb04" alt="" width="50" /> | Carencro                                    | [🔗](https://open.spotify.com/album/15dP7BadtY55t9VvFlVrBA) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="" width="50" /> | Brave Enough: Live at the Variety Playhouse | [🔗](https://open.spotify.com/album/7L4ZgnQqEhCEsV9GnMeXtE) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f5aac98410fb9e64e29827d4" alt="" width="50" /> | Bear Creek                                  | [🔗](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) |
+|   Number of Tracks | Art                                                                                              | Album                                       | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                 13 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | Kaleidoscope Heart                          | 2010-09-07     | [🔗](https://open.spotify.com/album/627ukPRwYxyBREHxBq0vGJ) |
+|                 12 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | The Blessed Unrest                          | 2013-07-16     | [🔗](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) |
+|                 12 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Little Voice                                | 2007-07-03     | [🔗](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) |
+|                 10 | <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | Amidst the Chaos (Bonus Version)            | 2019-05-10     | [🔗](https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm) |
+|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b2734280a158a96c9b0274eb7e99" alt="" width="50" /> | Love, Save The Empty                        | 2009           | [🔗](https://open.spotify.com/album/1tF7625TFqvfzMbappj1pQ) |
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="" width="50" /> | What's Inside: Songs from Waitress          | 2015-11-06     | [🔗](https://open.spotify.com/album/1s6codM2ZAB008t9GTyaEk) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | Once Upon Another Time                      | 2012-05-22     | [🔗](https://open.spotify.com/album/1PrqYZJRzGNf8AsSOraxnZ) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273119ad2ebc0d33edf847ed8c6" alt="" width="50" /> | One Cell In The Sea                         | 2007           | [🔗](https://open.spotify.com/album/0Ot7MEgreG2R93aN42M9iK) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2730e402844f1b6be3102d339f2" alt="" width="50" /> | Lemon Love                                  | 2005-01-01     | [🔗](https://open.spotify.com/album/5YToJrWwzdA6W2NxxDoteE) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273e7b8e0abcd5cdc4c8b5a238c" alt="" width="50" /> | Bomb In A Birdcage                          | 2009-01-01     | [🔗](https://open.spotify.com/album/07IV5RxLvAUeZbcPm4zOzn) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2730f2e51f7121539e221c51161" alt="" width="50" /> | We Sing. We Dance. We Steal Things.         | 2008-05-12     | [🔗](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2737ebde0a5bb07f53a99c15224" alt="" width="50" /> | Barton Hollow                               | 2011-02-01     | [🔗](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732cf1dcc65396176307f23524" alt="" width="50" /> | PINES                                       | 2012-01-01     | [🔗](https://open.spotify.com/album/1876e9QcHkJ3Hgo4NqKXBN) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735da1093d047cc15eb66d27cf" alt="" width="50" /> | OK Now                                      | 2008-01-01     | [🔗](https://open.spotify.com/album/3fKJJQFV6a61fnKYDDj2LU) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27327c371084dee1b83e614798d" alt="" width="50" /> | Indiana                                     | 2007-01-01     | [🔗](https://open.spotify.com/album/2UpO4j1Zpptiwk3wbUIWmU) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fcfd8d2e1bb9f0d4fbe5794d" alt="" width="50" /> | Happenstance (Deluxe Version)               | 2004-06-08     | [🔗](https://open.spotify.com/album/66p6CIMdxQFO3Igg9xo14a) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737cdb143bd2e9906d39c5eb04" alt="" width="50" /> | Carencro                                    | 2004-08-03     | [🔗](https://open.spotify.com/album/15dP7BadtY55t9VvFlVrBA) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="" width="50" /> | Brave Enough: Live at the Variety Playhouse | 2013-10-22     | [🔗](https://open.spotify.com/album/7L4ZgnQqEhCEsV9GnMeXtE) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f5aac98410fb9e64e29827d4" alt="" width="50" /> | Bear Creek                                  | 2012-06-01     | [🔗](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) |
 
 </details>
 
@@ -90,91 +90,91 @@
 
 | 10 most Danceable tracks   | 10 least Danceable tracks    |
 |:---------------------------|:-----------------------------|
-| Little Black Dress         | We All Need Saving           |
-| Eden                       | Everything Changes           |
-| Electric Twist             | Bright Lights and Cityscapes |
-| Blow Away                  | Bluebird                     |
-| I Choose You               | Come Round Soon              |
-| I'm Yours                  | City                         |
-| I Didn't Plan It           | Poison & Wine                |
-| Let The Rain               | Once Upon Another Time       |
-| Lie To Me                  | Gravity                      |
-| No Such Thing              | Stay                         |
+| Little Black Dress         | Stay                         |
+| Eden                       | Gravity                      |
+| Electric Twist             | Once Upon Another Time       |
+| Blow Away                  | Poison & Wine                |
+| I Choose You               | City                         |
+| I'm Yours                  | Come Round Soon              |
+| I Didn't Plan It           | Bluebird                     |
+| Let The Rain               | Bright Lights and Cityscapes |
+| Lie To Me                  | Everything Changes           |
+| No Such Thing              | We All Need Saving           |
 
 | 10 most Energetic tracks    | 10 least Energetic tracks                                                         |
 |:----------------------------|:----------------------------------------------------------------------------------|
-| Hello/Goodbye               | We All Need Saving                                                                |
-| Bad Idea (feat. Jason Mraz) | What's Inside                                                                     |
-| Morningside                 | Almost Lover                                                                      |
-| SleepWalking                | Once Upon Another Time                                                            |
-| Let The Rain                | Bluebird                                                                          |
-| Gotta Get Over You          | Poison & Wine                                                                     |
-| Love, Save The Empty        | Bright Lights and Cityscapes                                                      |
-| Bobble Head                 | Manhattan                                                                         |
-| Fairytale                   | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 |
-| Brave                       | Kaleidoscope Heart                                                                |
+| Hello/Goodbye               | Kaleidoscope Heart                                                                |
+| Bad Idea (feat. Jason Mraz) | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 |
+| Morningside                 | Manhattan                                                                         |
+| SleepWalking                | Bright Lights and Cityscapes                                                      |
+| Let The Rain                | Poison & Wine                                                                     |
+| Gotta Get Over You          | Bluebird                                                                          |
+| Love, Save The Empty        | Once Upon Another Time                                                            |
+| Bobble Head                 | Almost Lover                                                                      |
+| Fairytale                   | What's Inside                                                                     |
+| Brave                       | We All Need Saving                                                                |
 
 | 10 most Speechy tracks      | 10 least Speechy tracks   |
 |:----------------------------|:--------------------------|
-| Home                        | Poison & Wine             |
-| Electric Twist              | Islands                   |
-| Opening Up                  | Breathe Again             |
-| Kaleidoscope Heart          | Sweet As Whole            |
-| Come Round Soon             | Orpheus                   |
-| Bad Idea (feat. Jason Mraz) | Machine Gun               |
-| Fire                        | Pitter-Pat                |
-| Eden                        | Whisper                   |
-| Little Black Dress          | Lemon Love                |
-| Bobble Head                 | Satellite Call            |
+| Home                        | Satellite Call            |
+| Electric Twist              | Lemon Love                |
+| Opening Up                  | Whisper                   |
+| Kaleidoscope Heart          | Pitter-Pat                |
+| Come Round Soon             | Machine Gun               |
+| Bad Idea (feat. Jason Mraz) | Orpheus                   |
+| Fire                        | Sweet As Whole            |
+| Eden                        | Breathe Again             |
+| Little Black Dress          | Islands                   |
+| Bobble Head                 | Poison & Wine             |
 
 | 10 most Acoustic tracks                                                           | 10 least Acoustic tracks    |
 |:----------------------------------------------------------------------------------|:----------------------------|
-| Bright Lights and Cityscapes                                                      | Let The Rain                |
-| Manhattan                                                                         | It's Not That Easy          |
-| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Love Song                   |
-| Almost Lover                                                                      | Gonna Get Over You          |
-| Bluebird                                                                          | Wicked Love                 |
-| What's Inside                                                                     | Bad Idea (feat. Jason Mraz) |
-| Once Upon Another Time                                                            | Vegas                       |
-| Miss Simone                                                                       | Many the Miles              |
-| Gravity                                                                           | Brave                       |
-| Someone Who Loves Me                                                              | Now Is The Start            |
+| Bright Lights and Cityscapes                                                      | Now Is The Start            |
+| Manhattan                                                                         | Brave                       |
+| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Many the Miles              |
+| Almost Lover                                                                      | Vegas                       |
+| Bluebird                                                                          | Bad Idea (feat. Jason Mraz) |
+| What's Inside                                                                     | Wicked Love                 |
+| Once Upon Another Time                                                            | Gonna Get Over You          |
+| Miss Simone                                                                       | Love Song                   |
+| Gravity                                                                           | It's Not That Easy          |
+| Someone Who Loves Me                                                              | Let The Rain                |
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| Now Is The Start              | She Used To Be Mine            |
-| Satellite Call                | Opening Up                     |
-| Islands                       | Bad Idea (feat. Jason Mraz)    |
-| Armor                         | Everything Changes             |
-| Breathe Again                 | If I Can't Have You            |
-| Miss Simone                   | Industry                       |
-| The Light                     | Little Black Dress             |
-| No Such Thing                 | Hercules                       |
-| Whisper                       | Once Upon Another Time         |
-| Fire                          | Say You're Sorry               |
+| Now Is The Start              | Say You're Sorry               |
+| Satellite Call                | Once Upon Another Time         |
+| Islands                       | Hercules                       |
+| Armor                         | Little Black Dress             |
+| Breathe Again                 | Industry                       |
+| Miss Simone                   | If I Can't Have You            |
+| The Light                     | Everything Changes             |
+| No Such Thing                 | Bad Idea (feat. Jason Mraz)    |
+| Whisper                       | Opening Up                     |
+| Fire                          | She Used To Be Mine            |
 
 | 10 most Live tracks                                                               | 10 least Live tracks   |
 |:----------------------------------------------------------------------------------|:-----------------------|
-| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Whisper                |
-| Home                                                                              | Blow Away              |
-| Ashes And Wine                                                                    | Islands                |
-| Fire                                                                              | The Light              |
-| Lemon Love                                                                        | Be Be Your Love        |
-| Let The Rain                                                                      | King of Anything       |
-| It's Not That Easy                                                                | Chasing The Sun        |
-| Pitter-Pat                                                                        | Eden                   |
-| SleepWalking                                                                      | Brave                  |
-| Not Alone                                                                         | Uncharted              |
+| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Uncharted              |
+| Home                                                                              | Brave                  |
+| Ashes And Wine                                                                    | Eden                   |
+| Fire                                                                              | Chasing The Sun        |
+| Lemon Love                                                                        | King of Anything       |
+| Let The Rain                                                                      | Be Be Your Love        |
+| It's Not That Easy                                                                | The Light              |
+| Pitter-Pat                                                                        | Islands                |
+| SleepWalking                                                                      | Blow Away              |
+| Not Alone                                                                         | Whisper                |
 
 | 10 most Happy tracks        | 10 least Happy tracks                                                             |
 |:----------------------------|:----------------------------------------------------------------------------------|
-| I Choose You                | Stay                                                                              |
-| Blow Away                   | She Used To Be Mine                                                               |
-| Electric Twist              | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 |
-| Say You're Sorry            | Almost Lover                                                                      |
-| King of Anything            | What's Inside                                                                     |
-| Lie To Me                   | Bluebird                                                                          |
-| Home                        | We All Need Saving                                                                |
-| Bad Idea (feat. Jason Mraz) | Everything Changes                                                                |
-| I Didn't Plan It            | Islands                                                                           |
-| Morningside                 | Once Upon Another Time                                                            |
+| I Choose You                | Once Upon Another Time                                                            |
+| Blow Away                   | Islands                                                                           |
+| Electric Twist              | Everything Changes                                                                |
+| Say You're Sorry            | We All Need Saving                                                                |
+| King of Anything            | Bluebird                                                                          |
+| Lie To Me                   | What's Inside                                                                     |
+| Home                        | Almost Lover                                                                      |
+| Bad Idea (feat. Jason Mraz) | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 |
+| I Didn't Plan It            | She Used To Be Mine                                                               |
+| Morningside                 | Stay                                                                              |

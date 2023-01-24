@@ -28,14 +28,14 @@ Appears as:
 <details>
 <summary>See all 6 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album               | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------|:-----------------------------------------------------------|
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="" width="50" /> | DIMENSION : DILEMMA | [🔗](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" alt="" width="50" /> | MANIFESTO : DAY 1   | [🔗](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6096741dcf413354a59554" alt="" width="50" /> | BORDER : DAY ONE    | [🔗](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | BORDER : CARNIVAL   | [🔗](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731c1ea5bfa5680ac877acdd55" alt="" width="50" /> | DIMENSION : ANSWER  | [🔗](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fc8b0918267ea555921863e8" alt="" width="50" /> | One In A Billion    | [🔗](https://open.spotify.com/album/19Jm8Jk0zQYs6zMaxhYJFd) |
+|   Number of Tracks | Art                                                                                              | Album               | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------|:---------------|:-----------------------------------------------------------|
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="" width="50" /> | DIMENSION : DILEMMA | 2021-10-12     | [🔗](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" alt="" width="50" /> | MANIFESTO : DAY 1   | 2022-07-04     | [🔗](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6096741dcf413354a59554" alt="" width="50" /> | BORDER : DAY ONE    | 2020-11-30     | [🔗](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | BORDER : CARNIVAL   | 2021-04-26     | [🔗](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731c1ea5bfa5680ac877acdd55" alt="" width="50" /> | DIMENSION : ANSWER  | 2022-01-10     | [🔗](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fc8b0918267ea555921863e8" alt="" width="50" /> | One In A Billion    | 2022-09-06     | [🔗](https://open.spotify.com/album/19Jm8Jk0zQYs6zMaxhYJFd) |
 
 </details>
 

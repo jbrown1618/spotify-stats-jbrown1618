@@ -10,9 +10,9 @@
 |                 71 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731d9ef8e92370053b06f8c9ecab67616d0000b2737368d9506efe9c2d556d9e98ab67616d0000b2737cb0c702a8fd45bfd8358259ab67616d0000b273ff17a9c684ec4757c8c026b0" alt="" width="50" /> | [String Quartets](../playlists/string_quartets/overview.md) |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album                               | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:------------------------------------|:-----------------------------------------------------------|
-|                 71 | <img src="https://i.scdn.co/image/ab67616d0000b27325641d502a60b6ef9c235c29" alt="" width="50" /> | Beethoven: Complete String Quartets | [🔗](https://open.spotify.com/album/4JhUG1lr4xztAcqyA0Jm3a) |
+|   Number of Tracks | Art                                                                                              | Album                               | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:------------------------------------|:---------------|:-----------------------------------------------------------|
+|                 71 | <img src="https://i.scdn.co/image/ab67616d0000b27325641d502a60b6ef9c235c29" alt="" width="50" /> | Beethoven: Complete String Quartets | 2010-10-12     | [🔗](https://open.spotify.com/album/4JhUG1lr4xztAcqyA0Jm3a) |
 
 ## Top Record Labels
 

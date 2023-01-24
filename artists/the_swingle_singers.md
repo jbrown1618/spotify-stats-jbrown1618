@@ -10,14 +10,14 @@
 |                 12 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735d990e8b45c848dc22885f89ab67616d0000b27362f44cdb37183a309fc1032fab67616d0000b27384470dd6235917e2e40e11f0ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | [A Cappella](../playlists/a_cappella/overview.md) |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album                                     | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:------------------------------------------|:-----------------------------------------------------------|
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27328c918d531af48c523963142" alt="" width="50" /> | Ferris Wheels                             | [🔗](https://open.spotify.com/album/5ASqFPQZT7iJ3Txsly4JIC) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2731d9d3239217b0c4f75c15562" alt="" width="50" /> | Unwrapped                                 | [🔗](https://open.spotify.com/album/6ua3tHyrfZNh6CpZLzCAuT) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273e82d230ecc34ad6fd5f873c1" alt="" width="50" /> | Weather To Fly                            | [🔗](https://open.spotify.com/album/2AW4oP7GeAcKOWRY5x7O0o) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738b1bdafdc4fd1983a8a8a198" alt="" width="50" /> | Spotlight on Bach                         | [🔗](https://open.spotify.com/album/3qHHoQNFqZptsQE9Y3esLh) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fa70f75821d8ef6496b3ff64" alt="" width="50" /> | Around the World - A Folk Song Collection | [🔗](https://open.spotify.com/album/2YLEK2g3iwuhW4vp02XRnn) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27395369441b4588e4419deb673" alt="" width="50" /> | A Capella Christmas Favourites            | [🔗](https://open.spotify.com/album/4PUNlc0snMF3Bqa8NeWLRk) |
+|   Number of Tracks | Art                                                                                              | Album                                     | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27328c918d531af48c523963142" alt="" width="50" /> | Ferris Wheels                             | 2010-01-01     | [🔗](https://open.spotify.com/album/5ASqFPQZT7iJ3Txsly4JIC) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2731d9d3239217b0c4f75c15562" alt="" width="50" /> | Unwrapped                                 | 2006-09-12     | [🔗](https://open.spotify.com/album/6ua3tHyrfZNh6CpZLzCAuT) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273e82d230ecc34ad6fd5f873c1" alt="" width="50" /> | Weather To Fly                            | 2013-09-16     | [🔗](https://open.spotify.com/album/2AW4oP7GeAcKOWRY5x7O0o) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738b1bdafdc4fd1983a8a8a198" alt="" width="50" /> | Spotlight on Bach                         | 2010-02-22     | [🔗](https://open.spotify.com/album/3qHHoQNFqZptsQE9Y3esLh) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fa70f75821d8ef6496b3ff64" alt="" width="50" /> | Around the World - A Folk Song Collection | 1991-02-01     | [🔗](https://open.spotify.com/album/2YLEK2g3iwuhW4vp02XRnn) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27395369441b4588e4419deb673" alt="" width="50" /> | A Capella Christmas Favourites            | 2018-12-03     | [🔗](https://open.spotify.com/album/4PUNlc0snMF3Bqa8NeWLRk) |
 
 ## Top Record Labels
 

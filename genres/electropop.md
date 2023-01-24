@@ -51,40 +51,40 @@
 <details>
 <summary>See all 32 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                                                      | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------|:-----------------------------------------------------------|
-|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Vows (Deluxe Version)                                                      | [🔗](https://open.spotify.com/album/6V9rvW05Um5bIHePPfeI8p) |
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?                                   | [🔗](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) |
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="" width="50" /> | Primal Heart                                                               | [🔗](https://open.spotify.com/album/4pj0BkJ7u39i009oqe8V79) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a90401b8d27cd6b5f3a46242" alt="" width="50" /> | Lights                                                                     | [🔗](https://open.spotify.com/album/3duZhvcaoqdNveQYXf9dMV) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2730a60fb0deda858270cca82ee" alt="" width="50" /> | Dirty Computer                                                             | [🔗](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732c0e1e9e1fd1e7b132da1606" alt="" width="50" /> | ~how i'm feeling~                                                          | [🔗](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c" alt="" width="50" /> | lovely (with Khalid)                                                       | [🔗](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730f7ad6d8d829906c17cae210" alt="" width="50" /> | hopeless fountain kingdom (Deluxe)                                         | [🔗](https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f2248cf6dad1d6c062587249" alt="" width="50" /> | everything i wanted                                                        | [🔗](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795" alt="" width="50" /> | dont smile at me                                                           | [🔗](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="" width="50" /> | Yoga                                                                       | [🔗](https://open.spotify.com/album/5rzxGeVyCV74SvV5hjLRAU) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27369b3dd10eee85bb2652c3b05" alt="" width="50" /> | The Golden Echo                                                            | [🔗](https://open.spotify.com/album/66hoUkjxM7tVQwu7bZocwP) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273120a1366324c2ae1728e17e5" alt="" width="50" /> | The ArchAndroid                                                            | [🔗](https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730d0837e34a3fcc57de9fc93d" alt="" width="50" /> | Sway                                                                       | [🔗](https://open.spotify.com/album/3fSRbKgYW6kcR1ZFMaaNV4) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ce94afb9aa5d73f00852a45b" alt="" width="50" /> | Somebody Else                                                              | [🔗](https://open.spotify.com/album/3Q4yhhyFA2cpZq2FGOgMwU) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734fb1446223808a37ba8914b5" alt="" width="50" /> | Slow Grenade                                                               | [🔗](https://open.spotify.com/album/15Zgvxqql6EPHE3NJlUt0R) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | SUGA's Interlude                                                           | [🔗](https://open.spotify.com/album/0JfaSjTaej3QB27ofjnbQV) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7" alt="" width="50" /> | No Time To Die                                                             | [🔗](https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b72cb7bed93d6e2fdf42cffe" alt="" width="50" /> | Metropolis: The Chase Suite (Special Edition)                              | [🔗](https://open.spotify.com/album/3T3bJi3cvwR5U7ihwgEwF1) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737636e1c9e67eaafc9f49aefd" alt="" width="50" /> | Manic                                                                      | [🔗](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a111f7769013f1731e9c697c" alt="" width="50" /> | Kiss (Deluxe)                                                              | [🔗](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c83d25c1b9d5f384c32d834a" alt="" width="50" /> | Hot Mess                                                                   | [🔗](https://open.spotify.com/album/41TUivD915ztiKgyu99H9T) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="" width="50" /> | Happier Than Ever                                                          | [🔗](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="" width="50" /> | Fifty Shades Freed (Original Motion Picture Soundtrack)                    | [🔗](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27370d7aa769af19e7e2c2e107b" alt="" width="50" /> | Fantasies                                                                  | [🔗](https://open.spotify.com/album/3Oj8FdHcV6kAiOVWfkqRaA) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273570d18beb1f15ef8adfb27a5" alt="" width="50" /> | Delirium                                                                   | [🔗](https://open.spotify.com/album/4A43DyDoAVa1Fb8pq6Yejl) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735064363e1b38af783f93f1a7" alt="" width="50" /> | Daisy 2.0 (feat. Hatsune Miku)                                             | [🔗](https://open.spotify.com/album/6JZYS7UElSfjyTgFgE1ApG) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273495ce6da9aeb159e94eaa453" alt="" width="50" /> | Closer                                                                     | [🔗](https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738cae5034066af45cdfbc4266" alt="" width="50" /> | Church Of Scars                                                            | [🔗](https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="" width="50" /> | CRASH                                                                      | [🔗](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731bf7d80f4a7bf4ed02da9fad" alt="" width="50" /> | Billions                                                                   | [🔗](https://open.spotify.com/album/4DpAPqdJ1jVhoWZrxWLRH5) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b0ed835957dbf3c63184a3bc" alt="" width="50" /> | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] | [🔗](https://open.spotify.com/album/6snPKZGUbpydW2XJu9ievq) |
+|   Number of Tracks | Art                                                                                              | Album                                                                      | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Vows (Deluxe Version)                                                      | 2011           | [🔗](https://open.spotify.com/album/6V9rvW05Um5bIHePPfeI8p) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?                                   | 2019-03-29     | [🔗](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="" width="50" /> | Primal Heart                                                               | 2018-04-20     | [🔗](https://open.spotify.com/album/4pj0BkJ7u39i009oqe8V79) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a90401b8d27cd6b5f3a46242" alt="" width="50" /> | Lights                                                                     | 2011-01-01     | [🔗](https://open.spotify.com/album/3duZhvcaoqdNveQYXf9dMV) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2730a60fb0deda858270cca82ee" alt="" width="50" /> | Dirty Computer                                                             | 2018-04-27     | [🔗](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732c0e1e9e1fd1e7b132da1606" alt="" width="50" /> | ~how i'm feeling~                                                          | 2020-03-06     | [🔗](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c" alt="" width="50" /> | lovely (with Khalid)                                                       | 2018-04-19     | [🔗](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730f7ad6d8d829906c17cae210" alt="" width="50" /> | hopeless fountain kingdom (Deluxe)                                         | 2017-06-02     | [🔗](https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f2248cf6dad1d6c062587249" alt="" width="50" /> | everything i wanted                                                        | 2019-11-13     | [🔗](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795" alt="" width="50" /> | dont smile at me                                                           | 2017-12-22     | [🔗](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="" width="50" /> | Yoga                                                                       | 2015-03-31     | [🔗](https://open.spotify.com/album/5rzxGeVyCV74SvV5hjLRAU) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27369b3dd10eee85bb2652c3b05" alt="" width="50" /> | The Golden Echo                                                            | 2014-08-15     | [🔗](https://open.spotify.com/album/66hoUkjxM7tVQwu7bZocwP) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273120a1366324c2ae1728e17e5" alt="" width="50" /> | The ArchAndroid                                                            | 2010-05-17     | [🔗](https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730d0837e34a3fcc57de9fc93d" alt="" width="50" /> | Sway                                                                       | 2018-05-04     | [🔗](https://open.spotify.com/album/3fSRbKgYW6kcR1ZFMaaNV4) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ce94afb9aa5d73f00852a45b" alt="" width="50" /> | Somebody Else                                                              | 2016-09-09     | [🔗](https://open.spotify.com/album/3Q4yhhyFA2cpZq2FGOgMwU) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734fb1446223808a37ba8914b5" alt="" width="50" /> | Slow Grenade                                                               | 2020-06-30     | [🔗](https://open.spotify.com/album/15Zgvxqql6EPHE3NJlUt0R) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | SUGA's Interlude                                                           | 2019-12-06     | [🔗](https://open.spotify.com/album/0JfaSjTaej3QB27ofjnbQV) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7" alt="" width="50" /> | No Time To Die                                                             | 2020-02-13     | [🔗](https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b72cb7bed93d6e2fdf42cffe" alt="" width="50" /> | Metropolis: The Chase Suite (Special Edition)                              | 2008-08-12     | [🔗](https://open.spotify.com/album/3T3bJi3cvwR5U7ihwgEwF1) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737636e1c9e67eaafc9f49aefd" alt="" width="50" /> | Manic                                                                      | 2020-01-17     | [🔗](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a111f7769013f1731e9c697c" alt="" width="50" /> | Kiss (Deluxe)                                                              | 2012-01-01     | [🔗](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c83d25c1b9d5f384c32d834a" alt="" width="50" /> | Hot Mess                                                                   | 2009-07-07     | [🔗](https://open.spotify.com/album/41TUivD915ztiKgyu99H9T) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="" width="50" /> | Happier Than Ever                                                          | 2021-07-30     | [🔗](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="" width="50" /> | Fifty Shades Freed (Original Motion Picture Soundtrack)                    | 2018-02-09     | [🔗](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27370d7aa769af19e7e2c2e107b" alt="" width="50" /> | Fantasies                                                                  | 2009-04-14     | [🔗](https://open.spotify.com/album/3Oj8FdHcV6kAiOVWfkqRaA) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273570d18beb1f15ef8adfb27a5" alt="" width="50" /> | Delirium                                                                   | 2015-11-13     | [🔗](https://open.spotify.com/album/4A43DyDoAVa1Fb8pq6Yejl) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735064363e1b38af783f93f1a7" alt="" width="50" /> | Daisy 2.0 (feat. Hatsune Miku)                                             | 2020-12-11     | [🔗](https://open.spotify.com/album/6JZYS7UElSfjyTgFgE1ApG) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273495ce6da9aeb159e94eaa453" alt="" width="50" /> | Closer                                                                     | 2016-07-29     | [🔗](https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738cae5034066af45cdfbc4266" alt="" width="50" /> | Church Of Scars                                                            | 2018-04-20     | [🔗](https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="" width="50" /> | CRASH                                                                      | 2022-03-18     | [🔗](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731bf7d80f4a7bf4ed02da9fad" alt="" width="50" /> | Billions                                                                   | 2022-02-09     | [🔗](https://open.spotify.com/album/4DpAPqdJ1jVhoWZrxWLRH5) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b0ed835957dbf3c63184a3bc" alt="" width="50" /> | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] | 2022-02-25     | [🔗](https://open.spotify.com/album/6snPKZGUbpydW2XJu9ievq) |
 
 </details>
 
@@ -134,91 +134,91 @@
 
 | 10 most Danceable tracks       | 10 least Danceable tracks   |
 |:-------------------------------|:----------------------------|
-| bury a friend                  | Plain Gold Ring             |
-| Therefore I Am                 | Love Me Like You Do         |
-| Make Me Feel                   | I Like That                 |
-| Good Intent                    | Old Flame                   |
-| Call Me Maybe                  | Gimme Sympathy              |
-| Daisy 2.0 (feat. Hatsune Miku) | Like They Do on the TV      |
-| Recovery                       | Waltz Me to the Grave       |
-| Good Ones                      | No Time To Die              |
-| Settle Down                    | when the party's over       |
-| Slow Grenade                   | lovely (with Khalid)        |
+| bury a friend                  | lovely (with Khalid)        |
+| Therefore I Am                 | when the party's over       |
+| Make Me Feel                   | No Time To Die              |
+| Good Intent                    | Waltz Me to the Grave       |
+| Call Me Maybe                  | Like They Do on the TV      |
+| Daisy 2.0 (feat. Hatsune Miku) | Gimme Sympathy              |
+| Recovery                       | Old Flame                   |
+| Good Ones                      | I Like That                 |
+| Settle Down                    | Love Me Like You Do         |
+| Slow Grenade                   | Plain Gold Ring             |
 
 | 10 most Energetic tracks                   | 10 least Energetic tracks   |
 |:-------------------------------------------|:----------------------------|
-| Cameo Lover                                | Therefore I Am              |
-| Like They Do on the TV                     | ocean eyes                  |
-| Gimme Sympathy                             | Waltz Me to the Grave       |
-| Good Girls Go Bad (feat. Leighton Meester) | lovely (with Khalid)        |
-| Something In The Way You Move              | everything i wanted         |
-| Recovery                                   | No Time To Die              |
-| Lights - Single Version                    | Your Song                   |
-| Top of the World                           | Julia                       |
-| Bad At Love                                | xanny                       |
-| SUGA's Interlude                           | when the party's over       |
+| Cameo Lover                                | when the party's over       |
+| Like They Do on the TV                     | xanny                       |
+| Gimme Sympathy                             | Julia                       |
+| Good Girls Go Bad (feat. Leighton Meester) | Your Song                   |
+| Something In The Way You Move              | No Time To Die              |
+| Recovery                                   | everything i wanted         |
+| Lights - Single Version                    | lovely (with Khalid)        |
+| Top of the World                           | Waltz Me to the Grave       |
+| Bad At Love                                | ocean eyes                  |
+| SUGA's Interlude                           | Therefore I Am              |
 
 | 10 most Speechy tracks       | 10 least Speechy tracks   |
 |:-----------------------------|:--------------------------|
-| bad guy                      | No Time To Die            |
-| bury a friend                | Lights - Single Version   |
-| xanny                        | The Good War              |
-| you should see me in a crown | Old Flame                 |
-| Make Me Feel                 | Closer                    |
-| Like They Do on the TV       | lovely (with Khalid)      |
-| Say My Name                  | Your Song                 |
-| SUGA's Interlude             | Bad At Love               |
-| everything i wanted          | Good Ones                 |
-| when the party's over        | Love Me Like You Do       |
+| bad guy                      | Love Me Like You Do       |
+| bury a friend                | Good Ones                 |
+| xanny                        | Bad At Love               |
+| you should see me in a crown | Your Song                 |
+| Make Me Feel                 | lovely (with Khalid)      |
+| Like They Do on the TV       | Closer                    |
+| Say My Name                  | Old Flame                 |
+| SUGA's Interlude             | The Good War              |
+| everything i wanted          | Lights - Single Version   |
+| when the party's over        | No Time To Die            |
 
 | 10 most Acoustic tracks   | 10 least Acoustic tracks                       |
 |:--------------------------|:-----------------------------------------------|
-| when the party's over     | I Like That                                    |
-| Your Song                 | Tightrope (feat. Big Boi) - Big Boi Vocal Edit |
-| lovely (with Khalid)      | Lights - Single Version                        |
-| No Time To Die            | The Good War                                   |
-| Julia                     | Yoga                                           |
-| everything i wanted       | Good Girls Go Bad (feat. Leighton Meester)     |
-| Plain Gold Ring           | Lightyears                                     |
-| ocean eyes                | Call Me Maybe                                  |
-| xanny                     | Gimme Sympathy                                 |
-| bury a friend             | Recovery                                       |
+| when the party's over     | Recovery                                       |
+| Your Song                 | Gimme Sympathy                                 |
+| lovely (with Khalid)      | Call Me Maybe                                  |
+| No Time To Die            | Lightyears                                     |
+| Julia                     | Good Girls Go Bad (feat. Leighton Meester)     |
+| everything i wanted       | Yoga                                           |
+| Plain Gold Ring           | The Good War                                   |
+| ocean eyes                | Lights - Single Version                        |
+| xanny                     | Tightrope (feat. Big Boi) - Big Boi Vocal Edit |
+| bury a friend             | I Like That                                    |
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| everything i wanted           | The Good War                   |
-| you should see me in a crown  | Cameo Lover                    |
-| bury a friend                 | Two Way Street                 |
-| Therefore I Am                | Closer                         |
-| bad guy                       | lovely (with Khalid)           |
-| Like They Do on the TV        | Julia                          |
-| Top of the World              | Say My Name                    |
-| Lights - Single Version       | SUGA's Interlude               |
-| ocean eyes                    | Bad At Love                    |
-| Lightyears                    | Daisy 2.0 (feat. Hatsune Miku) |
+| everything i wanted           | Daisy 2.0 (feat. Hatsune Miku) |
+| you should see me in a crown  | Bad At Love                    |
+| bury a friend                 | SUGA's Interlude               |
+| Therefore I Am                | Say My Name                    |
+| bad guy                       | Julia                          |
+| Like They Do on the TV        | lovely (with Khalid)           |
+| Top of the World              | Closer                         |
+| Lights - Single Version       | Two Way Street                 |
+| ocean eyes                    | Cameo Lover                    |
+| Lightyears                    | The Good War                   |
 
 | 10 most Live tracks                            | 10 least Live tracks                                                       |
 |:-----------------------------------------------|:---------------------------------------------------------------------------|
-| Good Girls Go Bad (feat. Leighton Meester)     | The Good War                                                               |
-| Billions                                       | No Time To Die                                                             |
-| Make Me Feel                                   | Good Ones                                                                  |
-| Old Flame                                      | Settle Down                                                                |
-| xanny                                          | Lightyears                                                                 |
-| Daisy 2.0 (feat. Hatsune Miku)                 | Say My Name                                                                |
-| Tightrope (feat. Big Boi) - Big Boi Vocal Edit | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] |
-| Yoga                                           | Therefore I Am                                                             |
-| Somebody Else                                  | River                                                                      |
-| Good Intent                                    | SUGA's Interlude                                                           |
+| Good Girls Go Bad (feat. Leighton Meester)     | SUGA's Interlude                                                           |
+| Billions                                       | River                                                                      |
+| Make Me Feel                                   | Therefore I Am                                                             |
+| Old Flame                                      | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] |
+| xanny                                          | Say My Name                                                                |
+| Daisy 2.0 (feat. Hatsune Miku)                 | Lightyears                                                                 |
+| Tightrope (feat. Big Boi) - Big Boi Vocal Edit | Settle Down                                                                |
+| Yoga                                           | Good Ones                                                                  |
+| Somebody Else                                  | No Time To Die                                                             |
+| Good Intent                                    | The Good War                                                               |
 
 | 10 most Happy tracks                                                       | 10 least Happy tracks   |
 |:---------------------------------------------------------------------------|:------------------------|
-| Good Intent                                                                | bury a friend           |
-| Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] | I Like That             |
-| Lights - Single Version                                                    | ocean eyes              |
-| Good Ones                                                                  | lovely (with Khalid)    |
-| Recovery                                                                   | Gimme Sympathy          |
-| Make Me Feel                                                               | Old Flame               |
-| Cameo Lover                                                                | The Good War            |
-| Therefore I Am                                                             | Waltz Me to the Grave   |
-| Closer                                                                     | xanny                   |
-| Call Me Maybe                                                              | No Time To Die          |
+| Good Intent                                                                | No Time To Die          |
+| Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] | xanny                   |
+| Lights - Single Version                                                    | Waltz Me to the Grave   |
+| Good Ones                                                                  | The Good War            |
+| Recovery                                                                   | Old Flame               |
+| Make Me Feel                                                               | Gimme Sympathy          |
+| Cameo Lover                                                                | lovely (with Khalid)    |
+| Therefore I Am                                                             | ocean eyes              |
+| Closer                                                                     | I Like That             |
+| Call Me Maybe                                                              | bury a friend           |

@@ -10,12 +10,12 @@
 |                 19 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732a8b6ce34511614c9373f423ab67616d0000b2732bf585fa65e5608b365f4909ab67616d0000b273597905f8f46dfc60f5a6d11fab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | [Disney](../playlists/disney/overview.md) |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album                              | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------|:-----------------------------------------------------------|
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="" width="50" /> | The Little Mermaid Special Edition | [🔗](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) |
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="" width="50" /> | Beauty and the Beast               | [🔗](https://open.spotify.com/album/3O5p9VNddbwvqWTdYKEqV5) |
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2734a4b92dcf7a5c51cc4f7424c" alt="" width="50" /> | Aladdin Special Edition            | [🔗](https://open.spotify.com/album/7bt2aty3lUo6Q1Ud8pthRz) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc" alt="" width="50" /> | Mulan (Original Soundtrack)        | [🔗](https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC) |
+|   Number of Tracks | Art                                                                                              | Album                              | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------|:---------------|:-----------------------------------------------------------|
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="" width="50" /> | The Little Mermaid Special Edition | 2006-01-01     | [🔗](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="" width="50" /> | Beauty and the Beast               | 1991-01-01     | [🔗](https://open.spotify.com/album/3O5p9VNddbwvqWTdYKEqV5) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2734a4b92dcf7a5c51cc4f7424c" alt="" width="50" /> | Aladdin Special Edition            | 2004-01-01     | [🔗](https://open.spotify.com/album/7bt2aty3lUo6Q1Ud8pthRz) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc" alt="" width="50" /> | Mulan (Original Soundtrack)        | 1998-01-01     | [🔗](https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC) |
 
 ## Top Record Labels
 

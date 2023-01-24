@@ -63,15 +63,15 @@
 <details>
 <summary>See all 7 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                                                 | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------|:-----------------------------------------------------------|
-|                 21 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | The Phantom Of The Opera                                              | [🔗](https://open.spotify.com/album/36bEg6FTBaZGLg9ngJZIU6) |
-|                 15 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | Hamilton (Original Broadway Cast Recording)                           | [🔗](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) |
-|                 10 | <img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="" width="50" /> | The Phantom Of The Opera (Original Motion Picture Soundtrack)         | [🔗](https://open.spotify.com/album/1zwEN9cLtWg39zFJnj8brt) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | Les Misérables (Original Broadway Cast Recording)                     | [🔗](https://open.spotify.com/album/3jbKDx0zB1QoJQTw8i1AvD) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | The Lion King                                                         | [🔗](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="" width="50" /> | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) | [🔗](https://open.spotify.com/album/0I6Bl1dVB1hQsSoQF6KuTg) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="" width="50" /> | Cappella                                                              | [🔗](https://open.spotify.com/album/3n6JxpdWnHkazMCQxKK5qI) |
+|   Number of Tracks | Art                                                                                              | Album                                                                 | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                 21 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | The Phantom Of The Opera                                              | 1987-01-01     | [🔗](https://open.spotify.com/album/36bEg6FTBaZGLg9ngJZIU6) |
+|                 15 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | Hamilton (Original Broadway Cast Recording)                           | 2015-09-25     | [🔗](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) |
+|                 10 | <img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="" width="50" /> | The Phantom Of The Opera (Original Motion Picture Soundtrack)         | 2004-12-10     | [🔗](https://open.spotify.com/album/1zwEN9cLtWg39zFJnj8brt) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | Les Misérables (Original Broadway Cast Recording)                     | 1987-05-11     | [🔗](https://open.spotify.com/album/3jbKDx0zB1QoJQTw8i1AvD) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | The Lion King                                                         | 1994-01-01     | [🔗](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="" width="50" /> | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) | 2013-01-01     | [🔗](https://open.spotify.com/album/0I6Bl1dVB1hQsSoQF6KuTg) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="" width="50" /> | Cappella                                                              | 2013           | [🔗](https://open.spotify.com/album/3n6JxpdWnHkazMCQxKK5qI) |
 
 </details>
 
@@ -101,91 +101,91 @@
 
 | 10 most Danceable tracks                | 10 least Danceable tracks                                                            |
 |:----------------------------------------|:-------------------------------------------------------------------------------------|
-| Washington on Your Side                 | The Music Of The Night                                                               |
-| A Winter's Ball                         | All I Ask of You                                                                     |
-| The Adams Administration                | Entr'Acte                                                                            |
-| Non-Stop                                | Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture                  |
-| Yorktown (The World Turned Upside Down) | Overture                                                                             |
-| The Reynolds Pamphlet                   | All I Ask Of You                                                                     |
-| Your Obedient Servant                   | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture |
-| Stay Alive                              | All I Ask Of You - From 'The Phantom Of The Opera' Motion Picture                    |
-| Guns and Ships                          | All I Ask Of You - Reprise                                                           |
-| The World Was Wide Enough               | The Music Of The Night - From 'The Phantom Of The Opera' Motion Picture              |
+| Washington on Your Side                 | The Music Of The Night - From 'The Phantom Of The Opera' Motion Picture              |
+| A Winter's Ball                         | All I Ask Of You - Reprise                                                           |
+| The Adams Administration                | All I Ask Of You - From 'The Phantom Of The Opera' Motion Picture                    |
+| Non-Stop                                | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture |
+| Yorktown (The World Turned Upside Down) | All I Ask Of You                                                                     |
+| The Reynolds Pamphlet                   | Overture                                                                             |
+| Your Obedient Servant                   | Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture                  |
+| Stay Alive                              | Entr'Acte                                                                            |
+| Guns and Ships                          | All I Ask of You                                                                     |
+| The World Was Wide Enough               | The Music Of The Night                                                               |
 
 | 10 most Energetic tracks                                                  | 10 least Energetic tracks                                                            |
 |:--------------------------------------------------------------------------|:-------------------------------------------------------------------------------------|
-| Yorktown (The World Turned Upside Down)                                   | On My Own                                                                            |
-| Guns and Ships                                                            | Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture                  |
-| The Phantom Of the Opera - From 'The Phantom Of The Opera' Motion Picture | Angel Of Music                                                                       |
-| The Phantom Of The Opera                                                  | The Music Of The Night - From 'The Phantom Of The Opera' Motion Picture              |
-| The Reynolds Pamphlet                                                     | All I Ask Of You - Reprise                                                           |
-| Washington on Your Side                                                   | All I Ask of You                                                                     |
-| The Room Where It Happens                                                 | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture |
-| Non-Stop                                                                  | Angel Of Music - From 'The Phantom Of The Opera' Motion Picture                      |
-| Wait for It                                                               | Magical Lasso                                                                        |
-| Alexander Hamilton                                                        | A Little Fall Of Rain                                                                |
+| Yorktown (The World Turned Upside Down)                                   | A Little Fall Of Rain                                                                |
+| Guns and Ships                                                            | Magical Lasso                                                                        |
+| The Phantom Of the Opera - From 'The Phantom Of The Opera' Motion Picture | Angel Of Music - From 'The Phantom Of The Opera' Motion Picture                      |
+| The Phantom Of The Opera                                                  | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture |
+| The Reynolds Pamphlet                                                     | All I Ask of You                                                                     |
+| Washington on Your Side                                                   | All I Ask Of You - Reprise                                                           |
+| The Room Where It Happens                                                 | The Music Of The Night - From 'The Phantom Of The Opera' Motion Picture              |
+| Non-Stop                                                                  | Angel Of Music                                                                       |
+| Wait for It                                                               | Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture                  |
+| Alexander Hamilton                                                        | On My Own                                                                            |
 
 | 10 most Speechy tracks    | 10 least Speechy tracks                                             |
 |:--------------------------|:--------------------------------------------------------------------|
-| Prologue                  | Think Of Me - From 'The Phantom Of The Opera' Motion Picture        |
-| The World Was Wide Enough | On My Own                                                           |
-| The Adams Administration  | Do You Hear The People Sing?                                        |
-| A Winter's Ball           | All I Ask of You                                                    |
-| Your Obedient Servant     | The Music Of The Night                                              |
-| The Room Where It Happens | Entr'Acte                                                           |
-| Stay Alive                | Overture / Work Song                                                |
-| Non-Stop                  | Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture |
-| Washington on Your Side   | Stars                                                               |
-| Guns and Ships            | Dear Theodosia                                                      |
+| Prologue                  | Dear Theodosia                                                      |
+| The World Was Wide Enough | Stars                                                               |
+| The Adams Administration  | Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture |
+| A Winter's Ball           | Overture / Work Song                                                |
+| Your Obedient Servant     | Entr'Acte                                                           |
+| The Room Where It Happens | The Music Of The Night                                              |
+| Stay Alive                | All I Ask of You                                                    |
+| Non-Stop                  | Do You Hear The People Sing?                                        |
+| Washington on Your Side   | On My Own                                                           |
+| Guns and Ships            | Think Of Me - From 'The Phantom Of The Opera' Motion Picture        |
 
 | 10 most Acoustic tracks                                                              | 10 least Acoustic tracks                                                  |
 |:-------------------------------------------------------------------------------------|:--------------------------------------------------------------------------|
-| All I Ask of You                                                                     | Your Obedient Servant                                                     |
-| On My Own                                                                            | The Room Where It Happens                                                 |
-| A Little Fall Of Rain                                                                | Non-Stop                                                                  |
-| Angel Of Music - From 'The Phantom Of The Opera' Motion Picture                      | The Phantom Of the Opera - From 'The Phantom Of The Opera' Motion Picture |
-| Think Of Me - From 'The Phantom Of The Opera' Motion Picture                         | Washington on Your Side                                                   |
-| Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture | Wait for It                                                               |
-| Magical Lasso                                                                        | The Phantom Of The Opera                                                  |
-| Angel Of Music                                                                       | The Reynolds Pamphlet                                                     |
-| All I Ask Of You - Reprise                                                           | Overture                                                                  |
-| Dear Theodosia                                                                       | Overture - From 'The Phantom Of The Opera' Motion Picture                 |
+| All I Ask of You                                                                     | Overture - From 'The Phantom Of The Opera' Motion Picture                 |
+| On My Own                                                                            | Overture                                                                  |
+| A Little Fall Of Rain                                                                | The Reynolds Pamphlet                                                     |
+| Angel Of Music - From 'The Phantom Of The Opera' Motion Picture                      | The Phantom Of The Opera                                                  |
+| Think Of Me - From 'The Phantom Of The Opera' Motion Picture                         | Wait for It                                                               |
+| Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture | Washington on Your Side                                                   |
+| Magical Lasso                                                                        | The Phantom Of the Opera - From 'The Phantom Of The Opera' Motion Picture |
+| Angel Of Music                                                                       | Non-Stop                                                                  |
+| All I Ask Of You - Reprise                                                           | The Room Where It Happens                                                 |
+| Dear Theodosia                                                                       | Your Obedient Servant                                                     |
 
 | 10 most Instrumental tracks                                       | 10 least Instrumental tracks                                            |
 |:------------------------------------------------------------------|:------------------------------------------------------------------------|
-| Entr'Acte                                                         | Who Lives, Who Dies, Who Tells Your Story                               |
-| Overture                                                          | Prologue                                                                |
-| All I Ask Of You - Reprise                                        | Masquerade / Why So Silent                                              |
-| Overture - From 'The Phantom Of The Opera' Motion Picture         | Stars                                                                   |
-| The Phantom Of The Opera                                          | Notes / Prima Donna                                                     |
-| Wishing You Were Somehow Here Again                               | The Point Of No Return - From 'The Phantom Of The Opera' Motion Picture |
-| The Point Of No Return                                            | Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture     |
-| Little Lotte / The Mirror (Angel Of Music)                        | Angel Of Music - From 'The Phantom Of The Opera' Motion Picture         |
-| All I Ask of You                                                  | Think Of Me - From 'The Phantom Of The Opera' Motion Picture            |
-| All I Ask Of You - From 'The Phantom Of The Opera' Motion Picture | The World Was Wide Enough                                               |
+| Entr'Acte                                                         | The World Was Wide Enough                                               |
+| Overture                                                          | Think Of Me - From 'The Phantom Of The Opera' Motion Picture            |
+| All I Ask Of You - Reprise                                        | Angel Of Music - From 'The Phantom Of The Opera' Motion Picture         |
+| Overture - From 'The Phantom Of The Opera' Motion Picture         | Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture     |
+| The Phantom Of The Opera                                          | The Point Of No Return - From 'The Phantom Of The Opera' Motion Picture |
+| Wishing You Were Somehow Here Again                               | Notes / Prima Donna                                                     |
+| The Point Of No Return                                            | Stars                                                                   |
+| Little Lotte / The Mirror (Angel Of Music)                        | Masquerade / Why So Silent                                              |
+| All I Ask of You                                                  | Prologue                                                                |
+| All I Ask Of You - From 'The Phantom Of The Opera' Motion Picture | Who Lives, Who Dies, Who Tells Your Story                               |
 
 | 10 most Live tracks                                                     | 10 least Live tracks                                         |
 |:------------------------------------------------------------------------|:-------------------------------------------------------------|
-| Yorktown (The World Turned Upside Down)                                 | Who Lives, Who Dies, Who Tells Your Story                    |
-| Stars                                                                   | A Winter's Ball                                              |
-| The Point Of No Return - From 'The Phantom Of The Opera' Motion Picture | Wishing You Were Somehow Here Again                          |
-| The Room Where It Happens                                               | All I Ask of You                                             |
-| The Point Of No Return                                                  | Guns and Ships                                               |
-| Entr'Acte                                                               | Think Of Me - From 'The Phantom Of The Opera' Motion Picture |
-| Down Once More / Track Down This Murderer                               | Washington on Your Side                                      |
-| I Remember / Stranger Than You Dreamt It                                | All I Ask Of You - Reprise                                   |
-| Masquerade / Why So Silent                                              | Dear Theodosia                                               |
-| Overture / Work Song                                                    | Your Obedient Servant                                        |
+| Yorktown (The World Turned Upside Down)                                 | Your Obedient Servant                                        |
+| Stars                                                                   | Dear Theodosia                                               |
+| The Point Of No Return - From 'The Phantom Of The Opera' Motion Picture | All I Ask Of You - Reprise                                   |
+| The Room Where It Happens                                               | Washington on Your Side                                      |
+| The Point Of No Return                                                  | Think Of Me - From 'The Phantom Of The Opera' Motion Picture |
+| Entr'Acte                                                               | Guns and Ships                                               |
+| Down Once More / Track Down This Murderer                               | All I Ask of You                                             |
+| I Remember / Stranger Than You Dreamt It                                | Wishing You Were Somehow Here Again                          |
+| Masquerade / Why So Silent                                              | A Winter's Ball                                              |
+| Overture / Work Song                                                    | Who Lives, Who Dies, Who Tells Your Story                    |
 
 | 10 most Happy tracks                            | 10 least Happy tracks                                                                |
 |:------------------------------------------------|:-------------------------------------------------------------------------------------|
-| The Adams Administration                        | Overture                                                                             |
-| Hakuna Matata - From "The Lion King" Soundtrack | The Point Of No Return                                                               |
-| A Winter's Ball                                 | Why Have You Brought Me Here                                                         |
-| Your Obedient Servant                           | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture |
-| Stay Alive                                      | All I Ask Of You - Reprise                                                           |
-| Alexander Hamilton                              | I Remember / Stranger Than You Dreamt It                                             |
-| The Reynolds Pamphlet                           | Down Once More / Track Down This Murderer                                            |
-| Wait for It                                     | Little Lotte / The Mirror (Angel Of Music)                                           |
-| The Room Where It Happens                       | Wandering Child / Bravo, Monsieur                                                    |
-| Yorktown (The World Turned Upside Down)         | Wishing You Were Somehow Here Again                                                  |
+| The Adams Administration                        | Wishing You Were Somehow Here Again                                                  |
+| Hakuna Matata - From "The Lion King" Soundtrack | Wandering Child / Bravo, Monsieur                                                    |
+| A Winter's Ball                                 | Little Lotte / The Mirror (Angel Of Music)                                           |
+| Your Obedient Servant                           | Down Once More / Track Down This Murderer                                            |
+| Stay Alive                                      | I Remember / Stranger Than You Dreamt It                                             |
+| Alexander Hamilton                              | All I Ask Of You - Reprise                                                           |
+| The Reynolds Pamphlet                           | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture |
+| Wait for It                                     | Why Have You Brought Me Here                                                         |
+| The Room Where It Happens                       | The Point Of No Return                                                               |
+| Yorktown (The World Turned Upside Down)         | Overture                                                                             |

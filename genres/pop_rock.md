@@ -44,31 +44,31 @@
 <details>
 <summary>See all 23 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                                   | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------|:-----------------------------------------------------------|
-|                 13 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | Kaleidoscope Heart                                      | [🔗](https://open.spotify.com/album/627ukPRwYxyBREHxBq0vGJ) |
-|                 12 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | The Blessed Unrest                                      | [🔗](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) |
-|                 12 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Little Voice                                            | [🔗](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) |
-|                 10 | <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | Amidst the Chaos (Bonus Version)                        | [🔗](https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm) |
-|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="" width="50" /> | What's Inside: Songs from Waitress                      | [🔗](https://open.spotify.com/album/1s6codM2ZAB008t9GTyaEk) |
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | Once Upon Another Time                                  | [🔗](https://open.spotify.com/album/1PrqYZJRzGNf8AsSOraxnZ) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273183730e8038fa632b2c227da" alt="" width="50" /> | Eye To The Telescope                                    | [🔗](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2730f2e51f7121539e221c51161" alt="" width="50" /> | We Sing. We Dance. We Steal Things.                     | [🔗](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | The Script                                              | [🔗](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27326a2f5224465a369f8abbf88" alt="" width="50" /> | lovestrong.                                             | [🔗](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a4d2cb95d3ea17f773db23ee" alt="" width="50" /> | Shake Your Money Maker                                  | [🔗](https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6c0376235e5aa44e59d2c2" alt="" width="50" /> | Picture Show                                            | [🔗](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="" width="50" /> | Mellon Collie And The Infinite Sadness (Deluxe Edition) | [🔗](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="" width="50" /> | Let The Road                                            | [🔗](https://open.spotify.com/album/02ae5i5UAoFrt2peVox9Xd) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27392c885317fbe4bfa680109b4" alt="" width="50" /> | Jagged Little Pill                                      | [🔗](https://open.spotify.com/album/09AwlP99cHfKVNKv4FC8VW) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273554488d0c51967b1654d8ce5" alt="" width="50" /> | Is There Anybody Out There?                             | [🔗](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53" alt="" width="50" /> | Hunting High and Low                                    | [🔗](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734d991176cbf36bd168e00a0a" alt="" width="50" /> | Fitz and The Tantrums (Deluxe Edition)                  | [🔗](https://open.spotify.com/album/4eoIRaV8z8v2LaXQSWy2LC) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f" alt="" width="50" /> | Eyes Open                                               | [🔗](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273aacc6949864aa4c1073d3060" alt="" width="50" /> | Desireless                                              | [🔗](https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27309ec47c2a2173e984d8461e9" alt="" width="50" /> | Chariot - Stripped                                      | [🔗](https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="" width="50" /> | Brave Enough: Live at the Variety Playhouse             | [🔗](https://open.spotify.com/album/7L4ZgnQqEhCEsV9GnMeXtE) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734b20e4a8e06f19bcd51a5406" alt="" width="50" /> | Bombs Away                                              | [🔗](https://open.spotify.com/album/2Yi29VOccHCwktsZNqtxbt) |
+|   Number of Tracks | Art                                                                                              | Album                                                   | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                 13 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | Kaleidoscope Heart                                      | 2010-09-07     | [🔗](https://open.spotify.com/album/627ukPRwYxyBREHxBq0vGJ) |
+|                 12 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | The Blessed Unrest                                      | 2013-07-16     | [🔗](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) |
+|                 12 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Little Voice                                            | 2007-07-03     | [🔗](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) |
+|                 10 | <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | Amidst the Chaos (Bonus Version)                        | 2019-05-10     | [🔗](https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm) |
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="" width="50" /> | What's Inside: Songs from Waitress                      | 2015-11-06     | [🔗](https://open.spotify.com/album/1s6codM2ZAB008t9GTyaEk) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | Once Upon Another Time                                  | 2012-05-22     | [🔗](https://open.spotify.com/album/1PrqYZJRzGNf8AsSOraxnZ) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273183730e8038fa632b2c227da" alt="" width="50" /> | Eye To The Telescope                                    | 2005-01-01     | [🔗](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2730f2e51f7121539e221c51161" alt="" width="50" /> | We Sing. We Dance. We Steal Things.                     | 2008-05-12     | [🔗](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | The Script                                              | 2008-07-14     | [🔗](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27326a2f5224465a369f8abbf88" alt="" width="50" /> | lovestrong.                                             | 2011-05-10     | [🔗](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a4d2cb95d3ea17f773db23ee" alt="" width="50" /> | Shake Your Money Maker                                  | 1990-02-13     | [🔗](https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6c0376235e5aa44e59d2c2" alt="" width="50" /> | Picture Show                                            | 2012-01-01     | [🔗](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="" width="50" /> | Mellon Collie And The Infinite Sadness (Deluxe Edition) | 1995           | [🔗](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="" width="50" /> | Let The Road                                            | 2014-01-01     | [🔗](https://open.spotify.com/album/02ae5i5UAoFrt2peVox9Xd) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27392c885317fbe4bfa680109b4" alt="" width="50" /> | Jagged Little Pill                                      | 1995-06-09     | [🔗](https://open.spotify.com/album/09AwlP99cHfKVNKv4FC8VW) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273554488d0c51967b1654d8ce5" alt="" width="50" /> | Is There Anybody Out There?                             | 2014-01-20     | [🔗](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53" alt="" width="50" /> | Hunting High and Low                                    | 1985-06-01     | [🔗](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734d991176cbf36bd168e00a0a" alt="" width="50" /> | Fitz and The Tantrums (Deluxe Edition)                  | 2017-07-24     | [🔗](https://open.spotify.com/album/4eoIRaV8z8v2LaXQSWy2LC) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f" alt="" width="50" /> | Eyes Open                                               | 2006-01-01     | [🔗](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273aacc6949864aa4c1073d3060" alt="" width="50" /> | Desireless                                              | 1998-07-13     | [🔗](https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27309ec47c2a2173e984d8461e9" alt="" width="50" /> | Chariot - Stripped                                      | 2004-07-26     | [🔗](https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="" width="50" /> | Brave Enough: Live at the Variety Playhouse             | 2013-10-22     | [🔗](https://open.spotify.com/album/7L4ZgnQqEhCEsV9GnMeXtE) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734b20e4a8e06f19bcd51a5406" alt="" width="50" /> | Bombs Away                                              | 2015-03-10     | [🔗](https://open.spotify.com/album/2Yi29VOccHCwktsZNqtxbt) |
 
 </details>
 
@@ -108,91 +108,91 @@
 
 | 10 most Danceable tracks        | 10 least Danceable tracks    |
 |:--------------------------------|:-----------------------------|
-| Little Black Dress              | Jar of Hearts                |
-| Eden                            | Everything Changes           |
-| 1979 - Remastered 2012          | Bright Lights and Cityscapes |
-| Black Horse And The Cherry Tree | Bluebird                     |
-| I Choose You                    | Come Round Soon              |
-| Geronimo                        | City                         |
-| I'm Yours                       | Chariot                      |
-| I Didn't Plan It                | Once Upon Another Time       |
-| Let The Rain                    | Gravity                      |
-| Lie To Me                       | Stay                         |
+| Little Black Dress              | Stay                         |
+| Eden                            | Gravity                      |
+| 1979 - Remastered 2012          | Once Upon Another Time       |
+| Black Horse And The Cherry Tree | Chariot                      |
+| I Choose You                    | City                         |
+| Geronimo                        | Come Round Soon              |
+| I'm Yours                       | Bluebird                     |
+| I Didn't Plan It                | Bright Lights and Cityscapes |
+| Let The Rain                    | Everything Changes           |
+| Lie To Me                       | Jar of Hearts                |
 
 | 10 most Energetic tracks    | 10 least Energetic tracks                                                         |
 |:----------------------------|:----------------------------------------------------------------------------------|
-| Everybody Talks             | Gravity                                                                           |
-| Take on Me                  | Basket Case                                                                       |
-| Bad Idea (feat. Jason Mraz) | What's Inside                                                                     |
-| Morningside                 | Once Upon Another Time                                                            |
-| Let The Rain                | Bluebird                                                                          |
-| Fairytale                   | Bright Lights and Cityscapes                                                      |
-| Brave                       | Manhattan                                                                         |
-| HandClap                    | Say Something                                                                     |
-| You Oughta Know             | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 |
-| Come Round Soon             | Kaleidoscope Heart                                                                |
+| Everybody Talks             | Kaleidoscope Heart                                                                |
+| Take on Me                  | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 |
+| Bad Idea (feat. Jason Mraz) | Say Something                                                                     |
+| Morningside                 | Manhattan                                                                         |
+| Let The Rain                | Bright Lights and Cityscapes                                                      |
+| Fairytale                   | Bluebird                                                                          |
+| Brave                       | Once Upon Another Time                                                            |
+| HandClap                    | What's Inside                                                                     |
+| You Oughta Know             | Basket Case                                                                       |
+| Come Round Soon             | Gravity                                                                           |
 
 | 10 most Speechy tracks          | 10 least Speechy tracks    |
 |:--------------------------------|:---------------------------|
-| Opening Up                      | The Light                  |
-| Kaleidoscope Heart              | Islands                    |
-| Geronimo                        | The Man Who Can't Be Moved |
-| Come Round Soon                 | Breathe Again              |
-| Bad Idea (feat. Jason Mraz)     | Sweet As Whole             |
-| Black Horse And The Cherry Tree | Chasing Cars               |
-| Everybody Talks                 | Orpheus                    |
-| Fire                            | Machine Gun                |
-| Eden                            | Breakeven                  |
-| You Oughta Know                 | Satellite Call             |
+| Opening Up                      | Satellite Call             |
+| Kaleidoscope Heart              | Breakeven                  |
+| Geronimo                        | Machine Gun                |
+| Come Round Soon                 | Orpheus                    |
+| Bad Idea (feat. Jason Mraz)     | Chasing Cars               |
+| Black Horse And The Cherry Tree | Sweet As Whole             |
+| Everybody Talks                 | Breathe Again              |
+| Fire                            | The Man Who Can't Be Moved |
+| Eden                            | Islands                    |
+| You Oughta Know                 | The Light                  |
 
 | 10 most Acoustic tracks                                                           | 10 least Acoustic tracks    |
 |:----------------------------------------------------------------------------------|:----------------------------|
-| Bright Lights and Cityscapes                                                      | Bad Idea (feat. Jason Mraz) |
-| Manhattan                                                                         | 1979 - Remastered 2012      |
-| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Vegas                       |
-| Bluebird                                                                          | Many the Miles              |
-| What's Inside                                                                     | HandClap                    |
-| Once Upon Another Time                                                            | Brave                       |
-| Miss Simone                                                                       | Me And My Broken Heart      |
-| Say Something                                                                     | Everybody Talks             |
-| Gravity                                                                           | Hard To Handle              |
-| Someone Who Loves Me                                                              | Save Tonight                |
+| Bright Lights and Cityscapes                                                      | Save Tonight                |
+| Manhattan                                                                         | Hard To Handle              |
+| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Everybody Talks             |
+| Bluebird                                                                          | Me And My Broken Heart      |
+| What's Inside                                                                     | Brave                       |
+| Once Upon Another Time                                                            | HandClap                    |
+| Miss Simone                                                                       | Many the Miles              |
+| Say Something                                                                     | Vegas                       |
+| Gravity                                                                           | 1979 - Remastered 2012      |
+| Someone Who Loves Me                                                              | Bad Idea (feat. Jason Mraz) |
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| 1979 - Remastered 2012        | Chariot                        |
-| Satellite Call                | You Oughta Know                |
-| Islands                       | Bottle It Up                   |
-| Armor                         | Jar of Hearts                  |
-| Breathe Again                 | Lucky                          |
-| Miss Simone                   | Sweet As Whole                 |
-| The Light                     | Gravity                        |
-| Hard To Handle                | Love Song                      |
-| No Such Thing                 | Love On the Rocks              |
-| Fire                          | Say You're Sorry               |
+| 1979 - Remastered 2012        | Say You're Sorry               |
+| Satellite Call                | Love On the Rocks              |
+| Islands                       | Love Song                      |
+| Armor                         | Gravity                        |
+| Breathe Again                 | Sweet As Whole                 |
+| Miss Simone                   | Lucky                          |
+| The Light                     | Jar of Hearts                  |
+| Hard To Handle                | Bottle It Up                   |
+| No Such Thing                 | You Oughta Know                |
+| Fire                          | Chariot                        |
 
 | 10 most Live tracks                                                               | 10 least Live tracks   |
 |:----------------------------------------------------------------------------------|:-----------------------|
-| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Cassiopeia             |
-| You Oughta Know                                                                   | Little Black Dress     |
-| Chariot                                                                           | Islands                |
-| Fire                                                                              | The Light              |
-| Black Horse And The Cherry Tree                                                   | King of Anything       |
-| Everybody Talks                                                                   | 1979 - Remastered 2012 |
-| Hard To Handle                                                                    | Chasing The Sun        |
-| Let The Rain                                                                      | Eden                   |
-| Not Alone                                                                         | Brave                  |
-| If I Can't Have You                                                               | Uncharted              |
+| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Uncharted              |
+| You Oughta Know                                                                   | Brave                  |
+| Chariot                                                                           | Eden                   |
+| Fire                                                                              | Chasing The Sun        |
+| Black Horse And The Cherry Tree                                                   | 1979 - Remastered 2012 |
+| Everybody Talks                                                                   | King of Anything       |
+| Hard To Handle                                                                    | The Light              |
+| Let The Rain                                                                      | Islands                |
+| Not Alone                                                                         | Little Black Dress     |
+| If I Can't Have You                                                               | Cassiopeia             |
 
 | 10 most Happy tracks            | 10 least Happy tracks                                                             |
 |:--------------------------------|:----------------------------------------------------------------------------------|
-| 1979 - Remastered 2012          | She Used To Be Mine                                                               |
-| Hard To Handle                  | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 |
-| I Choose You                    | What's Inside                                                                     |
-| Black Horse And The Cherry Tree | Bluebird                                                                          |
-| Take on Me                      | Chasing Cars                                                                      |
-| Say You're Sorry                | Everything Changes                                                                |
-| King of Anything                | Jar of Hearts                                                                     |
-| Lie To Me                       | Islands                                                                           |
-| I Didn't Plan It                | Say Something                                                                     |
-| Bad Idea (feat. Jason Mraz)     | Once Upon Another Time                                                            |
+| 1979 - Remastered 2012          | Once Upon Another Time                                                            |
+| Hard To Handle                  | Say Something                                                                     |
+| I Choose You                    | Islands                                                                           |
+| Black Horse And The Cherry Tree | Jar of Hearts                                                                     |
+| Take on Me                      | Everything Changes                                                                |
+| Say You're Sorry                | Chasing Cars                                                                      |
+| King of Anything                | Bluebird                                                                          |
+| Lie To Me                       | What's Inside                                                                     |
+| I Didn't Plan It                | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 |
+| Bad Idea (feat. Jason Mraz)     | She Used To Be Mine                                                               |

@@ -30,9 +30,9 @@ Appears as:
 <details>
 <summary>See all 1 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                  | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------|:-----------------------------------------------------------|
-|                 16 | <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="" width="50" /> | Brahms: The Symphonies | [🔗](https://open.spotify.com/album/2dL2qDsg6teV1cueLxCRa1) |
+|   Number of Tracks | Art                                                                                              | Album                  | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------|:---------------|:-----------------------------------------------------------|
+|                 16 | <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="" width="50" /> | Brahms: The Symphonies | 2009-09-07     | [🔗](https://open.spotify.com/album/2dL2qDsg6teV1cueLxCRa1) |
 
 </details>
 

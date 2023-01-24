@@ -59,11 +59,11 @@ Appears as:
 <details>
 <summary>See all 3 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album              | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------|:-----------------------------------------------------------|
-|                115 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | Karajan - Mozart   | [🔗](https://open.spotify.com/album/1HSJhsMIW2EDD4YSSkbc9e) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27341efd39c828bd0dacb762997" alt="" width="50" /> | Tik Tock Hits 2020 | [🔗](https://open.spotify.com/album/4Da9F5PAFILkjmNmm81NZ3) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733f03db3f454ff7b2c3b4fe62" alt="" width="50" /> | Romance            | [🔗](https://open.spotify.com/album/5MuNxtOyex8o77Qdjaqeng) |
+|   Number of Tracks | Art                                                                                              | Album              | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------|:---------------|:-----------------------------------------------------------|
+|                115 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | Karajan - Mozart   | 2020-06-16     | [🔗](https://open.spotify.com/album/1HSJhsMIW2EDD4YSSkbc9e) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27341efd39c828bd0dacb762997" alt="" width="50" /> | Tik Tock Hits 2020 | 2020-06-12     | [🔗](https://open.spotify.com/album/4Da9F5PAFILkjmNmm81NZ3) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733f03db3f454ff7b2c3b4fe62" alt="" width="50" /> | Romance            | 2021-02-12     | [🔗](https://open.spotify.com/album/5MuNxtOyex8o77Qdjaqeng) |
 
 </details>
 

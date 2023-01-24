@@ -49,18 +49,18 @@
 <details>
 <summary>See all 10 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                                              | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------|:-----------------------------------------------------------|
-|                 94 | <img src="https://i.scdn.co/image/ab67616d0000b273c18e2114a3a3ef543635197a" alt="" width="50" /> | Beethoven: The Piano Sonatas                                       | [🔗](https://open.spotify.com/album/7xbsSOswKgms1fUFuwKArz) |
-|                 71 | <img src="https://i.scdn.co/image/ab67616d0000b27325641d502a60b6ef9c235c29" alt="" width="50" /> | Beethoven: Complete String Quartets                                | [🔗](https://open.spotify.com/album/4JhUG1lr4xztAcqyA0Jm3a) |
-|                 42 | <img src="https://i.scdn.co/image/ab67616d0000b27370426e24663b43f11ebd9c24" alt="" width="50" /> | Beethoven: 9 Symphonies; Overtures                                 | [🔗](https://open.spotify.com/album/2DQTNTznsteIZciZdyeWdj) |
-|                 24 | <img src="https://i.scdn.co/image/ab67616d0000b273eac9461ed0b585b1d2ad7ee2" alt="" width="50" /> | Beethoven: String Quartets, Op. 18                                 | [🔗](https://open.spotify.com/album/37iUq5Dekt8uP5itTiVs2Q) |
-|                 16 | <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="" width="50" /> | Brahms: The Symphonies                                             | [🔗](https://open.spotify.com/album/2dL2qDsg6teV1cueLxCRa1) |
-|                 16 | <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="" width="50" /> | Brahms: String Quartets & Piano Quintet                            | [🔗](https://open.spotify.com/album/5nZ5ePGoQZGt1MbGphwqph) |
-|                 13 | <img src="https://i.scdn.co/image/ab67616d0000b273c385dbfabcec21279dcea0b5" alt="" width="50" /> | Mendelssohn: A Midsummer Night's Dream                             | [🔗](https://open.spotify.com/album/60J66evwnrnfH03HgDTrwN) |
-|                 12 | <img src="https://i.scdn.co/image/ab67616d0000b2732266fb9b5484a5dc280e5bff" alt="" width="50" /> | Beethoven: Piano Sonatas Nos. 1-3                                  | [🔗](https://open.spotify.com/album/5CjMjZJnjdHHgwAVkqrvXq) |
-|                  9 | <img src="https://i.scdn.co/image/ab67616d0000b2730b9ae3f056fa16819bc9dd48" alt="" width="50" /> | Beethoven: Piano Sonatas Nos. 30, 31 & 32                          | [🔗](https://open.spotify.com/album/478l1JdqbqDzcmmgrqw2zu) |
-|                  9 | <img src="https://i.scdn.co/image/ab67616d0000b2731500f9a293f0106619f16a7d" alt="" width="50" /> | Beethoven: Piano Sonatas "Moonlight"; "Appassionata"; "Pathétique" | [🔗](https://open.spotify.com/album/0RCfE1YhkdrjnM3kXT3YLl) |
+|   Number of Tracks | Art                                                                                              | Album                                                              | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                 94 | <img src="https://i.scdn.co/image/ab67616d0000b273c18e2114a3a3ef543635197a" alt="" width="50" /> | Beethoven: The Piano Sonatas                                       | 1995-01-01     | [🔗](https://open.spotify.com/album/7xbsSOswKgms1fUFuwKArz) |
+|                 71 | <img src="https://i.scdn.co/image/ab67616d0000b27325641d502a60b6ef9c235c29" alt="" width="50" /> | Beethoven: Complete String Quartets                                | 2010-10-12     | [🔗](https://open.spotify.com/album/4JhUG1lr4xztAcqyA0Jm3a) |
+|                 42 | <img src="https://i.scdn.co/image/ab67616d0000b27370426e24663b43f11ebd9c24" alt="" width="50" /> | Beethoven: 9 Symphonies; Overtures                                 | 1993-01-01     | [🔗](https://open.spotify.com/album/2DQTNTznsteIZciZdyeWdj) |
+|                 24 | <img src="https://i.scdn.co/image/ab67616d0000b273eac9461ed0b585b1d2ad7ee2" alt="" width="50" /> | Beethoven: String Quartets, Op. 18                                 | 2015-08-31     | [🔗](https://open.spotify.com/album/37iUq5Dekt8uP5itTiVs2Q) |
+|                 16 | <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="" width="50" /> | Brahms: The Symphonies                                             | 2009-09-07     | [🔗](https://open.spotify.com/album/2dL2qDsg6teV1cueLxCRa1) |
+|                 16 | <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="" width="50" /> | Brahms: String Quartets & Piano Quintet                            | 2007-01-01     | [🔗](https://open.spotify.com/album/5nZ5ePGoQZGt1MbGphwqph) |
+|                 13 | <img src="https://i.scdn.co/image/ab67616d0000b273c385dbfabcec21279dcea0b5" alt="" width="50" /> | Mendelssohn: A Midsummer Night's Dream                             | 2017-02-03     | [🔗](https://open.spotify.com/album/60J66evwnrnfH03HgDTrwN) |
+|                 12 | <img src="https://i.scdn.co/image/ab67616d0000b2732266fb9b5484a5dc280e5bff" alt="" width="50" /> | Beethoven: Piano Sonatas Nos. 1-3                                  | 2008-01-01     | [🔗](https://open.spotify.com/album/5CjMjZJnjdHHgwAVkqrvXq) |
+|                  9 | <img src="https://i.scdn.co/image/ab67616d0000b2730b9ae3f056fa16819bc9dd48" alt="" width="50" /> | Beethoven: Piano Sonatas Nos. 30, 31 & 32                          | 2012-03-06     | [🔗](https://open.spotify.com/album/478l1JdqbqDzcmmgrqw2zu) |
+|                  9 | <img src="https://i.scdn.co/image/ab67616d0000b2731500f9a293f0106619f16a7d" alt="" width="50" /> | Beethoven: Piano Sonatas "Moonlight"; "Appassionata"; "Pathétique" | 1983-01-01     | [🔗](https://open.spotify.com/album/0RCfE1YhkdrjnM3kXT3YLl) |
 
 </details>
 
@@ -89,91 +89,91 @@
 
 | 10 most Danceable tracks                                                                       | 10 least Danceable tracks                                                                     |
 |:-----------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------|
-| A Midsummer Night's Dream, Incidental Music, Op. 61: "Ay Me! For Aught That I Could Ever Read" | String Quartet No. 16 in F Major, Op. 135: III. Lento assai, cantate e tranquillo - Più lento |
-| Piano Sonata No. 12 in A flat, Op. 26: 3. Marcia funebre sulla morte d'un Eroe                 | Brahms: Symphony No. 1 in C Minor, Op. 68: III. Un poco allegretto e grazioso                 |
-| String Quartet No. 2 in G Major, Op. 18, No. 2: IV. Allegro molto, quasi presto                | String Quartet No. 15 in A minor, Op. 132: III. Molto adagio                                  |
-| Piano Sonata No. 2 in A, Op. 2 No. 2: 3. Scherzo (Allegretto)                                  | Brahms: Symphony No. 3 in F Major, Op. 90: III. Poco allegretto                               |
-| A Midsummer Night's Dream, Incidental Music, Op. 61: No. 1, Scherzo                            | Symphony No. 6 In F, Op. 68 -"Pastoral": 2. Szene am Bach: (Andante molto mosso)              |
-| Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 "Moonlight": II. Allegretto                 | String Quartet No. 8 in E Minor, Op. 59 No. 2: II. Molto adagio                               |
-| String Quartet No. 4 in C Minor, Op. 18, No. 4: II. Andante scherzoso quasi allegretto         | Symphony No. 3 In E Flat, Op. 55 -"Eroica": 2. Marcia funebre (Adagio assai)                  |
-| String Quartet No. 2 in G Major, Op. 18, No. 2: III. Scherzo (Allegro) - Trio                  | Brahms: Symphony No. 1 in C Minor, Op. 68: II. Andante sostenuto                              |
-| Piano Sonata No. 5 in C minor, Op. 10 No. 1: 2. Adagio molto                                   | Brahms: Symphony No. 2 in D Major, Op. 73: II. Adagio non troppo                              |
-| A Midsummer Night's Dream, Incidental Music, Op. 61: No. 2, L'istesso tempo                    | Symphony No. 9 In D Minor, Op. 125 - "Choral": 3. Adagio molto e cantabile                    |
+| A Midsummer Night's Dream, Incidental Music, Op. 61: "Ay Me! For Aught That I Could Ever Read" | Symphony No. 9 In D Minor, Op. 125 - "Choral": 3. Adagio molto e cantabile                    |
+| Piano Sonata No. 12 in A flat, Op. 26: 3. Marcia funebre sulla morte d'un Eroe                 | Brahms: Symphony No. 2 in D Major, Op. 73: II. Adagio non troppo                              |
+| String Quartet No. 2 in G Major, Op. 18, No. 2: IV. Allegro molto, quasi presto                | Brahms: Symphony No. 1 in C Minor, Op. 68: II. Andante sostenuto                              |
+| Piano Sonata No. 2 in A, Op. 2 No. 2: 3. Scherzo (Allegretto)                                  | Symphony No. 3 In E Flat, Op. 55 -"Eroica": 2. Marcia funebre (Adagio assai)                  |
+| A Midsummer Night's Dream, Incidental Music, Op. 61: No. 1, Scherzo                            | String Quartet No. 8 in E Minor, Op. 59 No. 2: II. Molto adagio                               |
+| Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 "Moonlight": II. Allegretto                 | Symphony No. 6 In F, Op. 68 -"Pastoral": 2. Szene am Bach: (Andante molto mosso)              |
+| String Quartet No. 4 in C Minor, Op. 18, No. 4: II. Andante scherzoso quasi allegretto         | Brahms: Symphony No. 3 in F Major, Op. 90: III. Poco allegretto                               |
+| String Quartet No. 2 in G Major, Op. 18, No. 2: III. Scherzo (Allegro) - Trio                  | String Quartet No. 15 in A minor, Op. 132: III. Molto adagio                                  |
+| Piano Sonata No. 5 in C minor, Op. 10 No. 1: 2. Adagio molto                                   | Brahms: Symphony No. 1 in C Minor, Op. 68: III. Un poco allegretto e grazioso                 |
+| A Midsummer Night's Dream, Incidental Music, Op. 61: No. 2, L'istesso tempo                    | String Quartet No. 16 in F Major, Op. 135: III. Lento assai, cantate e tranquillo - Più lento |
 
 | 10 most Energetic tracks                                                           | 10 least Energetic tracks                                                           |
 |:-----------------------------------------------------------------------------------|:------------------------------------------------------------------------------------|
-| Symphony No. 7 In A, Op. 92: 4. Allegro con brio                                   | Piano Sonata No. 13 in E flat, Op. 27 No. 1: 3. Adagio con espressione              |
-| Symphony No. 5 In C Minor, Op. 67: 4. Allegro                                      | Piano Sonata No. 3 in C, Op. 2 No. 3: 2. Adagio                                     |
-| Symphony No. 9 In D Minor, Op. 125 - "Choral" / 4.: "O Freunde nicht diese Töne" - | Piano Sonata No. 25 in G, Op. 79: 2. Andante                                        |
-| Piano Sonata No. 6 in F, Op. 10 No. 2: 3. Presto                                   | Piano Sonata No. 3 in C Major, Op. 2, No. 3: II. Adagio                             |
-| Symphony No. 6 In F, Op. 68 -"Pastoral": 4. Gewitter, Sturm (Allegro)              | Piano Sonata No. 4 in E flat, Op. 7: 2. Largo, con gran espressione                 |
-| Symphony No. 5 in C Minor, Op. 67: 1. Allegro con brio                             | Piano Sonata No. 2 in A, Op. 2 No. 2: 2. Largo appassionato                         |
-| String Quartet No. 16 in F Major, Op. 135: II. Vivace                              | Piano Sonata No. 31 in A-Flat Major, Op. 110: III. Adagio ma non troppo -           |
-| Brahms: Symphony No. 2 in D Major, Op. 73: IV. Allegro con spirito                 | Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 "Moonlight": I. Adagio sostenuto |
-| Piano Sonata No. 13 in E flat, Op. 27 No. 1: 4. Allegro vivace - Tempo I - Presto  | Piano Sonata No. 31 in A flat, Op. 110: 3. Adagio ma non troppo                     |
-| Piano Sonata No. 23 in F Minor, Op. 57 "Appassionata": III. Allegro ma non troppo  | Piano Sonata No. 21 in C Major, Op. 53 "Waldstein": II. Introduzione (Adagio molto) |
+| Symphony No. 7 In A, Op. 92: 4. Allegro con brio                                   | Piano Sonata No. 21 in C Major, Op. 53 "Waldstein": II. Introduzione (Adagio molto) |
+| Symphony No. 5 In C Minor, Op. 67: 4. Allegro                                      | Piano Sonata No. 31 in A flat, Op. 110: 3. Adagio ma non troppo                     |
+| Symphony No. 9 In D Minor, Op. 125 - "Choral" / 4.: "O Freunde nicht diese Töne" - | Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 "Moonlight": I. Adagio sostenuto |
+| Piano Sonata No. 6 in F, Op. 10 No. 2: 3. Presto                                   | Piano Sonata No. 31 in A-Flat Major, Op. 110: III. Adagio ma non troppo -           |
+| Symphony No. 6 In F, Op. 68 -"Pastoral": 4. Gewitter, Sturm (Allegro)              | Piano Sonata No. 2 in A, Op. 2 No. 2: 2. Largo appassionato                         |
+| Symphony No. 5 in C Minor, Op. 67: 1. Allegro con brio                             | Piano Sonata No. 4 in E flat, Op. 7: 2. Largo, con gran espressione                 |
+| String Quartet No. 16 in F Major, Op. 135: II. Vivace                              | Piano Sonata No. 3 in C Major, Op. 2, No. 3: II. Adagio                             |
+| Brahms: Symphony No. 2 in D Major, Op. 73: IV. Allegro con spirito                 | Piano Sonata No. 25 in G, Op. 79: 2. Andante                                        |
+| Piano Sonata No. 13 in E flat, Op. 27 No. 1: 4. Allegro vivace - Tempo I - Presto  | Piano Sonata No. 3 in C, Op. 2 No. 3: 2. Adagio                                     |
+| Piano Sonata No. 23 in F Minor, Op. 57 "Appassionata": III. Allegro ma non troppo  | Piano Sonata No. 13 in E flat, Op. 27 No. 1: 3. Adagio con espressione              |
 
 | 10 most Speechy tracks                                                                               | 10 least Speechy tracks                                                   |
 |:-----------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------|
-| A Midsummer Night's Dream, Incidental Music, Op. 61: No. 2, L'istesso tempo                          | Piano Sonata No. 1 in F Minor, Op. 2, No. 1: IV. Prestissimo              |
-| A Midsummer Night's Dream, Incidental Music, Op. 61: "Ay Me! For Aught That I Could Ever Read"       | Brahms: Symphony No. 1 in C Minor, Op. 68: I. Un poco sostenuto - Allegro |
-| Piano Sonata No. 21 in C Major, Op. 53 "Waldstein": II. Introduzione (Adagio molto)                  | Piano Sonata No. 1 in F minor, Op. 2 No. 1: 4. Prestissimo                |
-| Piano Sonata No. 19 in G minor, Op. 49 No. 1: 2. Rondo (Allegro)                                     | Piano Sonata No. 9 in E, Op. 14 No. 1: 3. Rondo (Allegro comodo)          |
-| A Midsummer Night's Dream, Incidental Music, Op. 61: No. 2a, Allegro vivace                          | Piano Sonata No. 22 in F, Op. 54: 2. Allegretto                           |
-| String Quartet No. 11 in F Minor, Op. 95 "Quartetto serioso": III. Allegro assai - Vivace ma serioso | Symphony No. 8 in F Major, Op. 93: III. Tempo di menuetto                 |
-| A Midsummer Night's Dream, Incidental Music, Op. 61: No. 4, Andante                                  | Brahms: Symphony No. 2 in D Major, Op. 73: IV. Allegro con spirito        |
-| Symphony No. 1 In C, Op. 21: 3. Menuetto (Allegro molto e vivace)                                    | Piano Sonata No. 12 in A flat, Op. 26: 4. Allegro                         |
-| Piano Sonata No. 12 in A flat, Op. 26: 3. Marcia funebre sulla morte d'un Eroe                       | Piano Sonata No. 25 in G, Op. 79: 3. Vivace                               |
-| Symphony No. 9 In D Minor, Op. 125 - "Choral" / 4.: "O Freunde nicht diese Töne" -                   | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 1, Scherzo       |
+| A Midsummer Night's Dream, Incidental Music, Op. 61: No. 2, L'istesso tempo                          | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 1, Scherzo       |
+| A Midsummer Night's Dream, Incidental Music, Op. 61: "Ay Me! For Aught That I Could Ever Read"       | Piano Sonata No. 25 in G, Op. 79: 3. Vivace                               |
+| Piano Sonata No. 21 in C Major, Op. 53 "Waldstein": II. Introduzione (Adagio molto)                  | Piano Sonata No. 12 in A flat, Op. 26: 4. Allegro                         |
+| Piano Sonata No. 19 in G minor, Op. 49 No. 1: 2. Rondo (Allegro)                                     | Brahms: Symphony No. 2 in D Major, Op. 73: IV. Allegro con spirito        |
+| A Midsummer Night's Dream, Incidental Music, Op. 61: No. 2a, Allegro vivace                          | Symphony No. 8 in F Major, Op. 93: III. Tempo di menuetto                 |
+| String Quartet No. 11 in F Minor, Op. 95 "Quartetto serioso": III. Allegro assai - Vivace ma serioso | Piano Sonata No. 22 in F, Op. 54: 2. Allegretto                           |
+| A Midsummer Night's Dream, Incidental Music, Op. 61: No. 4, Andante                                  | Piano Sonata No. 9 in E, Op. 14 No. 1: 3. Rondo (Allegro comodo)          |
+| Symphony No. 1 In C, Op. 21: 3. Menuetto (Allegro molto e vivace)                                    | Piano Sonata No. 1 in F minor, Op. 2 No. 1: 4. Prestissimo                |
+| Piano Sonata No. 12 in A flat, Op. 26: 3. Marcia funebre sulla morte d'un Eroe                       | Brahms: Symphony No. 1 in C Minor, Op. 68: I. Un poco sostenuto - Allegro |
+| Symphony No. 9 In D Minor, Op. 125 - "Choral" / 4.: "O Freunde nicht diese Töne" -                   | Piano Sonata No. 1 in F Minor, Op. 2, No. 1: IV. Prestissimo              |
 
 | 10 most Acoustic tracks                                                        | 10 least Acoustic tracks                                                                       |
 |:-------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------|
-| Piano Sonata No. 9 in E, Op. 14 No. 1: 2. Allegretto                           | String Quartet No. 3 In B Flat, Op. 67: 2. Andante                                             |
-| Piano Sonata No. 19 in G minor, Op. 49 No. 1: 1. Andante                       | String Quartet No. 16 in F Major, Op. 135: III. Lento assai, cantate e tranquillo - Più lento  |
-| Piano Sonata No. 25 in G, Op. 79: 2. Andante                                   | String Quartet No. 15 in A minor, Op. 132: III. Molto adagio                                   |
-| Piano Sonata No. 1 in F Minor, Op. 2, No. 1: III. Menuetto: Allegretto         | Symphony No. 7 In A, Op. 92: 4. Allegro con brio                                               |
-| Piano Sonata No. 19 in G minor, Op. 49 No. 1: 2. Rondo (Allegro)               | Symphony No. 6 In F, Op. 68 -"Pastoral": 4. Gewitter, Sturm (Allegro)                          |
-| Piano Sonata No. 31 in A-Flat Major, Op. 110: III. Adagio ma non troppo -      | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 4, Andante                            |
-| Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 "Moonlight": II. Allegretto | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 2a, Allegro vivace                    |
-| Piano Sonata No. 1 in F minor, Op. 2 No. 1: 3. Menuetto (Allegretto)           | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 8, Andante                            |
-| Piano Sonata No. 20 in G, Op. 49 No. 2: 2. Tempo di Menuetto                   | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 2, L'istesso tempo                    |
-| Piano Sonata No. 2 in A Major, Op. 2, No. 2: III. Scherzo: Allegretto - Trio   | A Midsummer Night's Dream, Incidental Music, Op. 61: "Ay Me! For Aught That I Could Ever Read" |
+| Piano Sonata No. 9 in E, Op. 14 No. 1: 2. Allegretto                           | A Midsummer Night's Dream, Incidental Music, Op. 61: "Ay Me! For Aught That I Could Ever Read" |
+| Piano Sonata No. 19 in G minor, Op. 49 No. 1: 1. Andante                       | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 2, L'istesso tempo                    |
+| Piano Sonata No. 25 in G, Op. 79: 2. Andante                                   | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 8, Andante                            |
+| Piano Sonata No. 1 in F Minor, Op. 2, No. 1: III. Menuetto: Allegretto         | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 2a, Allegro vivace                    |
+| Piano Sonata No. 19 in G minor, Op. 49 No. 1: 2. Rondo (Allegro)               | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 4, Andante                            |
+| Piano Sonata No. 31 in A-Flat Major, Op. 110: III. Adagio ma non troppo -      | Symphony No. 6 In F, Op. 68 -"Pastoral": 4. Gewitter, Sturm (Allegro)                          |
+| Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 "Moonlight": II. Allegretto | Symphony No. 7 In A, Op. 92: 4. Allegro con brio                                               |
+| Piano Sonata No. 1 in F minor, Op. 2 No. 1: 3. Menuetto (Allegretto)           | String Quartet No. 15 in A minor, Op. 132: III. Molto adagio                                   |
+| Piano Sonata No. 20 in G, Op. 49 No. 2: 2. Tempo di Menuetto                   | String Quartet No. 16 in F Major, Op. 135: III. Lento assai, cantate e tranquillo - Più lento  |
+| Piano Sonata No. 2 in A Major, Op. 2, No. 2: III. Scherzo: Allegretto - Trio   | String Quartet No. 3 In B Flat, Op. 67: 2. Andante                                             |
 
 | 10 most Instrumental tracks                                                                             | 10 least Instrumental tracks                                                                   |
 |:--------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------|
-| String Quartet No. 14 in C-Sharp Minor, Op. 131: VI. Adagio quasi un poco andante                       | String Quartet No. 2 in G Major, Op. 18, No. 2: I. Allegro                                     |
-| A Midsummer Night's Dream, Incidental Music, Op. 61: No. 1, Scherzo                                     | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 5, Allegro appassionato               |
-| Piano Sonata No. 31 in A-Flat Major, Op. 110: II. Allegro molto                                         | String Quartet No. 6 in B-Flat Major, Op. 18 No. 6: II. Adagio ma non troppo                   |
-| Piano Sonata No. 30 in E Major, Op. 109: I. Vivace ma non troppo                                        | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 3, Lied mit Chor                      |
-| Piano Sonata No. 2 in A Major, Op. 2, No. 2: II. Largo appassionato                                     | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 2a, Allegro vivace                    |
-| Piano Sonata No. 9 in E, Op. 14 No. 1: 2. Allegretto                                                    | A Midsummer Night's Dream, Incidental Music, Op. 61: Finale. Allegro di molto                  |
-| Piano Sonata No. 25 in G, Op. 79: 2. Andante                                                            | A Midsummer Night's Dream, Incidental Music, Op. 61: "Ay Me! For Aught That I Could Ever Read" |
-| Piano Sonata No. 24 in F-Sharp Major, Op. 78 "For Therese": 1. Adagio cantabile - Allegro ma non troppo | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 8, Andante                            |
-| Piano Sonata No. 5 in C minor, Op. 10 No. 1: 3. Finale (Prestissimo)                                    | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 2, L'istesso tempo                    |
-| Piano Sonata No. 26 in E-Flat Major, Op. 81a "Les Adieux": II. Abwesendheit (Andante espressivo)        | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 4, Andante                            |
+| String Quartet No. 14 in C-Sharp Minor, Op. 131: VI. Adagio quasi un poco andante                       | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 4, Andante                            |
+| A Midsummer Night's Dream, Incidental Music, Op. 61: No. 1, Scherzo                                     | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 2, L'istesso tempo                    |
+| Piano Sonata No. 31 in A-Flat Major, Op. 110: II. Allegro molto                                         | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 8, Andante                            |
+| Piano Sonata No. 30 in E Major, Op. 109: I. Vivace ma non troppo                                        | A Midsummer Night's Dream, Incidental Music, Op. 61: "Ay Me! For Aught That I Could Ever Read" |
+| Piano Sonata No. 2 in A Major, Op. 2, No. 2: II. Largo appassionato                                     | A Midsummer Night's Dream, Incidental Music, Op. 61: Finale. Allegro di molto                  |
+| Piano Sonata No. 9 in E, Op. 14 No. 1: 2. Allegretto                                                    | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 2a, Allegro vivace                    |
+| Piano Sonata No. 25 in G, Op. 79: 2. Andante                                                            | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 3, Lied mit Chor                      |
+| Piano Sonata No. 24 in F-Sharp Major, Op. 78 "For Therese": 1. Adagio cantabile - Allegro ma non troppo | String Quartet No. 6 in B-Flat Major, Op. 18 No. 6: II. Adagio ma non troppo                   |
+| Piano Sonata No. 5 in C minor, Op. 10 No. 1: 3. Finale (Prestissimo)                                    | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 5, Allegro appassionato               |
+| Piano Sonata No. 26 in E-Flat Major, Op. 81a "Les Adieux": II. Abwesendheit (Andante espressivo)        | String Quartet No. 2 in G Major, Op. 18, No. 2: I. Allegro                                     |
 
 | 10 most Live tracks                                                                              | 10 least Live tracks                                                                      |
 |:-------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------|
-| A Midsummer Night's Dream, Incidental Music, Op. 61: No. 4, Andante                              | Piano Sonata No. 3 in C, Op. 2 No. 3: 4. Allegro assai                                    |
-| String Quartet No. 2 in G Major, Op. 18, No. 2: III. Scherzo (Allegro) - Trio                    | String Quartet No. 8 in E Minor, Op. 59 No. 2: I. Allegro                                 |
-| Symphony No. 5 In C Minor, Op. 67: 3. Allegro                                                    | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 3, Lied mit Chor                 |
-| A Midsummer Night's Dream, Incidental Music, Op. 61: No. 2a, Allegro vivace                      | Piano Sonata No. 31 in A flat, Op. 110: 1. Moderato cantabile molto espressivo            |
-| Symphony No. 9 In D Minor, Op. 125 - "Choral" - Excerpt From 4th Movement: 4. Presto             | Piano Sonata No. 8 in C Minor, Op. 13 "Pathétique": III. Rondo (Allegro)                  |
-| String Quartet No. 10 in E-Flat Major, Op. 74 "Harp": III. Presto - Più presto quasi prestissimo | Piano Quintet in F minor, Op. 34: 4. Finale (poco sostenuto - Allegro non troppo)         |
-| A Midsummer Night's Dream, Incidental Music, Op. 61: No. 8, Andante                              | Symphony No. 1 In C, Op. 21: 3. Menuetto (Allegro molto e vivace)                         |
-| String Quartet No. 13 in B-Flat Major, Op. 130: I. Adagio ma non troppo – Allegro                | Piano Sonata No. 32 in C minor, Op. 111: 2. Arietta (Adagio molto semplice e cantabile)   |
-| String Quartet No. 3 in D Major, Op. 18: III. Allegro                                            | String Quartet No. 3 in D Major, Op. 18: I. Allegro                                       |
-| Symphony No. 8 in F Major, Op. 93: I. Allegro vivace e con brio                                  | String Quartet No. 2 In A Minor, Op. 51 No. 2: 4. Finale (Allegro non assai - Più vivace) |
+| A Midsummer Night's Dream, Incidental Music, Op. 61: No. 4, Andante                              | String Quartet No. 2 In A Minor, Op. 51 No. 2: 4. Finale (Allegro non assai - Più vivace) |
+| String Quartet No. 2 in G Major, Op. 18, No. 2: III. Scherzo (Allegro) - Trio                    | String Quartet No. 3 in D Major, Op. 18: I. Allegro                                       |
+| Symphony No. 5 In C Minor, Op. 67: 3. Allegro                                                    | Piano Sonata No. 32 in C minor, Op. 111: 2. Arietta (Adagio molto semplice e cantabile)   |
+| A Midsummer Night's Dream, Incidental Music, Op. 61: No. 2a, Allegro vivace                      | Symphony No. 1 In C, Op. 21: 3. Menuetto (Allegro molto e vivace)                         |
+| Symphony No. 9 In D Minor, Op. 125 - "Choral" - Excerpt From 4th Movement: 4. Presto             | Piano Quintet in F minor, Op. 34: 4. Finale (poco sostenuto - Allegro non troppo)         |
+| String Quartet No. 10 in E-Flat Major, Op. 74 "Harp": III. Presto - Più presto quasi prestissimo | Piano Sonata No. 8 in C Minor, Op. 13 "Pathétique": III. Rondo (Allegro)                  |
+| A Midsummer Night's Dream, Incidental Music, Op. 61: No. 8, Andante                              | Piano Sonata No. 31 in A flat, Op. 110: 1. Moderato cantabile molto espressivo            |
+| String Quartet No. 13 in B-Flat Major, Op. 130: I. Adagio ma non troppo – Allegro                | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 3, Lied mit Chor                 |
+| String Quartet No. 3 in D Major, Op. 18: III. Allegro                                            | String Quartet No. 8 in E Minor, Op. 59 No. 2: I. Allegro                                 |
+| Symphony No. 8 in F Major, Op. 93: I. Allegro vivace e con brio                                  | Piano Sonata No. 3 in C, Op. 2 No. 3: 4. Allegro assai                                    |
 
 | 10 most Happy tracks                                                              | 10 least Happy tracks                                                                         |
 |:----------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------|
-| Piano Sonata No. 6 in F, Op. 10 No. 2: 3. Presto                                  | Brahms: Symphony No. 4 in E Minor, Op. 98: II. Andante moderato                               |
-| Piano Sonata No. 25 in G, Op. 79: 3. Vivace                                       | Piano Sonata No. 31 in A flat, Op. 110: 3. Adagio ma non troppo                               |
-| String Quartet No. 6 in B-Flat Major, Op. 18 No. 6: III. Scherzo (Allegro) - Trio | Symphony No. 3 In E Flat, Op. 55 -"Eroica": 2. Marcia funebre (Adagio assai)                  |
-| String Quartet No. 6 in B-Flat Major, Op. 18 No. 6: III. Scherzo (Allegro) - Trio | Brahms: Symphony No. 1 in C Minor, Op. 68: II. Andante sostenuto                              |
-| Piano Sonata No. 12 in A flat, Op. 26: 4. Allegro                                 | Piano Sonata No. 29 in B flat, Op. 106 -"Hammerklavier": 3. Adagio sostenuto                  |
-| Piano Sonata No. 31 in A-Flat Major, Op. 110: II. Allegro molto                   | Piano Sonata No. 31 in A-Flat Major, Op. 110: III. Adagio ma non troppo -                     |
-| A Midsummer Night's Dream, Incidental Music, Op. 61: No. 1, Scherzo               | Brahms: Symphony No. 2 in D Major, Op. 73: II. Adagio non troppo                              |
-| String Quartet No. 16 in F Major, Op. 135: II. Vivace                             | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 7, Nocturne. Con moto tranquillo     |
-| Piano Sonata No. 3 in C, Op. 2 No. 3: 3. Scherzo (Allegro)                        | String Quartet No. 16 in F Major, Op. 135: III. Lento assai, cantate e tranquillo - Più lento |
-| Piano Sonata No. 3 in C Major, Op. 2, No. 3: III. Scherzo: Allegro - Trio         | Brahms: Symphony No. 3 in F Major, Op. 90: II. Andante                                        |
+| Piano Sonata No. 6 in F, Op. 10 No. 2: 3. Presto                                  | Brahms: Symphony No. 3 in F Major, Op. 90: II. Andante                                        |
+| Piano Sonata No. 25 in G, Op. 79: 3. Vivace                                       | String Quartet No. 16 in F Major, Op. 135: III. Lento assai, cantate e tranquillo - Più lento |
+| String Quartet No. 6 in B-Flat Major, Op. 18 No. 6: III. Scherzo (Allegro) - Trio | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 7, Nocturne. Con moto tranquillo     |
+| String Quartet No. 6 in B-Flat Major, Op. 18 No. 6: III. Scherzo (Allegro) - Trio | Brahms: Symphony No. 2 in D Major, Op. 73: II. Adagio non troppo                              |
+| Piano Sonata No. 12 in A flat, Op. 26: 4. Allegro                                 | Piano Sonata No. 31 in A-Flat Major, Op. 110: III. Adagio ma non troppo -                     |
+| Piano Sonata No. 31 in A-Flat Major, Op. 110: II. Allegro molto                   | Piano Sonata No. 29 in B flat, Op. 106 -"Hammerklavier": 3. Adagio sostenuto                  |
+| A Midsummer Night's Dream, Incidental Music, Op. 61: No. 1, Scherzo               | Brahms: Symphony No. 1 in C Minor, Op. 68: II. Andante sostenuto                              |
+| String Quartet No. 16 in F Major, Op. 135: II. Vivace                             | Symphony No. 3 In E Flat, Op. 55 -"Eroica": 2. Marcia funebre (Adagio assai)                  |
+| Piano Sonata No. 3 in C, Op. 2 No. 3: 3. Scherzo (Allegro)                        | Piano Sonata No. 31 in A flat, Op. 110: 3. Adagio ma non troppo                               |
+| Piano Sonata No. 3 in C Major, Op. 2, No. 3: III. Scherzo: Allegro - Trio         | Brahms: Symphony No. 4 in E Minor, Op. 98: II. Andante moderato                               |

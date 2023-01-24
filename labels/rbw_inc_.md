@@ -39,33 +39,33 @@ Appears as:
 <details>
 <summary>See all 25 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                  | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------|:-----------------------------------------------------------|
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273e95d9f505f2469cf74727805" alt="" width="50" /> | 容 : FACE               | [🔗](https://open.spotify.com/album/6eSFX12WIqUtmGsD8UO3FT) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27398af56fe9d35e895582d7a97" alt="" width="50" /> | Redd                   | [🔗](https://open.spotify.com/album/32pXXle0zoKIFG03iefH2c) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734a8b951ff5979dc187340b1d" alt="" width="50" /> | RED MOON               | [🔗](https://open.spotify.com/album/6GhELYbXRo1LOqRPOCsQrF) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27322f0e32bfb91476f0ad96656" alt="" width="50" /> | MIC ON                 | [🔗](https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731dfb11871aa63ac9010c0619" alt="" width="50" /> | Guilty Pleasure        | [🔗](https://open.spotify.com/album/7jke1vYOze3jdyTiWhtFnz) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2733618088cfcd2a966a61937cb" alt="" width="50" /> | 6equence               | [🔗](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d650d0d98caf3f54b842a0b" alt="" width="50" /> | reality in BLACK       | [🔗](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27346c28fd13126fd9428625411" alt="" width="50" /> | memeM                  | [🔗](https://open.spotify.com/album/4nhtnBY8owIQnOsnGQGqW9) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736847aa7310791dcd66f16a5e" alt="" width="50" /> | Yellow Flower          | [🔗](https://open.spotify.com/album/4G9qMxS9c4W5PPNdPrTaLn) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738612b3a74fefaf72ddc92d08" alt="" width="50" /> | White Wind             | [🔗](https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ae843591bcdace9489c86fb0" alt="" width="50" /> | WAW                    | [🔗](https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273520ea0d948ced66d1c1764e2" alt="" width="50" /> | WANNA BE MYSELF        | [🔗](https://open.spotify.com/album/0n62copUsWrST9M6AsYfZI) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27346c377827f3ad9fa6b0f64df" alt="" width="50" /> | TWIT                   | [🔗](https://open.spotify.com/album/6KL4s0Y6Ijcj0QP1Nm1EVF) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731cc469da4da1bccfa16867be" alt="" width="50" /> | TRAVEL                 | [🔗](https://open.spotify.com/album/3xje7wSW2xwQx2GNJ5cfNu) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273498f71db374f1a18ac831412" alt="" width="50" /> | Shutdown (Feat. Seori) | [🔗](https://open.spotify.com/album/3qGgRGX3KHbwph4AzWVko1) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731ecc60c0ad785d457bdc0a36" alt="" width="50" /> | SPIT IT OUT            | [🔗](https://open.spotify.com/album/1pLSlOXtHKPoSoB6ovnIAK) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273294c757e724cc58bbbd29287" alt="" width="50" /> | SELFISH                | [🔗](https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a84d6d77bb01c3bd737c47d7" alt="" width="50" /> | María                  | [🔗](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733accfe72fd85d00c777096c8" alt="" width="50" /> | Hwa:telier             | [🔗](https://open.spotify.com/album/20xEJwUlmfoSLoK5AhEucL) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730865f5f5799f2ee1b3c0fcec" alt="" width="50" /> | HIDE & SEEK            | [🔗](https://open.spotify.com/album/1Oh6STLhW6dxRAkvOUBHl8) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730b479d89335fbca7de943443" alt="" width="50" /> | Geekyland              | [🔗](https://open.spotify.com/album/7EDCoH5wfSGYdZ7wXCmTF4) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b4fd0ba98f675df97c5748b1" alt="" width="50" /> | Dingga                 | [🔗](https://open.spotify.com/album/4xzsBcZaK04c8IE5iVyMNK) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b1f57af57a103eb28110c9d8" alt="" width="50" /> | BLUE;S                 | [🔗](https://open.spotify.com/album/59QELOU685J1AMB2paryAx) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732325e0aa6cad94d104ea055e" alt="" width="50" /> | BLOOD MOON             | [🔗](https://open.spotify.com/album/13dNmnWQVodErqAhuOzYTD) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27395e1a12145290ca7d783eb1d" alt="" width="50" /> | BINARY CODE            | [🔗](https://open.spotify.com/album/3MSvgJYx3omhNpSaQUqnu5) |
+|   Number of Tracks | Art                                                                                              | Album                  | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------|:---------------|:-----------------------------------------------------------|
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273e95d9f505f2469cf74727805" alt="" width="50" /> | 容 : FACE               | 2022-03-16     | [🔗](https://open.spotify.com/album/6eSFX12WIqUtmGsD8UO3FT) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27398af56fe9d35e895582d7a97" alt="" width="50" /> | Redd                   | 2021-04-13     | [🔗](https://open.spotify.com/album/32pXXle0zoKIFG03iefH2c) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734a8b951ff5979dc187340b1d" alt="" width="50" /> | RED MOON               | 2018-07-16     | [🔗](https://open.spotify.com/album/6GhELYbXRo1LOqRPOCsQrF) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27322f0e32bfb91476f0ad96656" alt="" width="50" /> | MIC ON                 | 2022-10-11     | [🔗](https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731dfb11871aa63ac9010c0619" alt="" width="50" /> | Guilty Pleasure        | 2021-11-24     | [🔗](https://open.spotify.com/album/7jke1vYOze3jdyTiWhtFnz) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2733618088cfcd2a966a61937cb" alt="" width="50" /> | 6equence               | 2022-01-19     | [🔗](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d650d0d98caf3f54b842a0b" alt="" width="50" /> | reality in BLACK       | 2019-11-14     | [🔗](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27346c28fd13126fd9428625411" alt="" width="50" /> | memeM                  | 2022-03-29     | [🔗](https://open.spotify.com/album/4nhtnBY8owIQnOsnGQGqW9) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736847aa7310791dcd66f16a5e" alt="" width="50" /> | Yellow Flower          | 2018-03-07     | [🔗](https://open.spotify.com/album/4G9qMxS9c4W5PPNdPrTaLn) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738612b3a74fefaf72ddc92d08" alt="" width="50" /> | White Wind             | 2019-03-14     | [🔗](https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ae843591bcdace9489c86fb0" alt="" width="50" /> | WAW                    | 2021-06-02     | [🔗](https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273520ea0d948ced66d1c1764e2" alt="" width="50" /> | WANNA BE MYSELF        | 2020-09-10     | [🔗](https://open.spotify.com/album/0n62copUsWrST9M6AsYfZI) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27346c377827f3ad9fa6b0f64df" alt="" width="50" /> | TWIT                   | 2019-02-13     | [🔗](https://open.spotify.com/album/6KL4s0Y6Ijcj0QP1Nm1EVF) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731cc469da4da1bccfa16867be" alt="" width="50" /> | TRAVEL                 | 2020-11-03     | [🔗](https://open.spotify.com/album/3xje7wSW2xwQx2GNJ5cfNu) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273498f71db374f1a18ac831412" alt="" width="50" /> | Shutdown (Feat. Seori) | 2021-12-30     | [🔗](https://open.spotify.com/album/3qGgRGX3KHbwph4AzWVko1) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731ecc60c0ad785d457bdc0a36" alt="" width="50" /> | SPIT IT OUT            | 2020-04-23     | [🔗](https://open.spotify.com/album/1pLSlOXtHKPoSoB6ovnIAK) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273294c757e724cc58bbbd29287" alt="" width="50" /> | SELFISH                | 2018-05-23     | [🔗](https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a84d6d77bb01c3bd737c47d7" alt="" width="50" /> | María                  | 2020-06-29     | [🔗](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733accfe72fd85d00c777096c8" alt="" width="50" /> | Hwa:telier             | 2019-10-11     | [🔗](https://open.spotify.com/album/20xEJwUlmfoSLoK5AhEucL) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730865f5f5799f2ee1b3c0fcec" alt="" width="50" /> | HIDE & SEEK            | 2021-09-08     | [🔗](https://open.spotify.com/album/1Oh6STLhW6dxRAkvOUBHl8) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730b479d89335fbca7de943443" alt="" width="50" /> | Geekyland              | 2022-07-25     | [🔗](https://open.spotify.com/album/7EDCoH5wfSGYdZ7wXCmTF4) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b4fd0ba98f675df97c5748b1" alt="" width="50" /> | Dingga                 | 2020-10-20     | [🔗](https://open.spotify.com/album/4xzsBcZaK04c8IE5iVyMNK) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b1f57af57a103eb28110c9d8" alt="" width="50" /> | BLUE;S                 | 2018-11-29     | [🔗](https://open.spotify.com/album/59QELOU685J1AMB2paryAx) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732325e0aa6cad94d104ea055e" alt="" width="50" /> | BLOOD MOON             | 2021-11-09     | [🔗](https://open.spotify.com/album/13dNmnWQVodErqAhuOzYTD) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27395e1a12145290ca7d783eb1d" alt="" width="50" /> | BINARY CODE            | 2021-05-11     | [🔗](https://open.spotify.com/album/3MSvgJYx3omhNpSaQUqnu5) |
 
 </details>
 

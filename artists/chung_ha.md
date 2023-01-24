@@ -13,18 +13,18 @@
 |                  1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | [Sharon RPD](../playlists/sharon_rpd/overview.md)           |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album                             | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------|:-----------------------------------------------------------|
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Querencia                         | [🔗](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="" width="50" /> | Bare&Rare, Pt. 1                  | [🔗](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27388cdde41f2552db78b94e957" alt="" width="50" /> | Wow Thing                         | [🔗](https://open.spotify.com/album/3xEPyp7h78uULpDPuKvokH) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730258c2353d456519e467584b" alt="" width="50" /> | When I Get Old                    | [🔗](https://open.spotify.com/album/3mJMHqT2w0HwjQkneNVE14) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d662735fc7d080888bc40b4" alt="" width="50" /> | Street Woman Fighter(SWF) Special | [🔗](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f662dabc03dbb3a127255b32" alt="" width="50" /> | PLAY                              | [🔗](https://open.spotify.com/album/7tzaUrzvzQGfqvzsYzSODr) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273df3abb2b0071d1b11200db47" alt="" width="50" /> | Killing Me                        | [🔗](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733de8d21c10a5beed844bba5b" alt="" width="50" /> | Gotta Go                          | [🔗](https://open.spotify.com/album/7BYCvUqCaeIo2jgOl9iAGr) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273cd17c315097d81ea0882430c" alt="" width="50" /> | Flourishing                       | [🔗](https://open.spotify.com/album/1lNM7RF1SVUs66OtLj4MQh) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27390ee0d4d3906192283bae657" alt="" width="50" /> | Bad Boy                           | [🔗](https://open.spotify.com/album/4IRuxkSbw7iZZmnr6Rly2Q) |
+|   Number of Tracks | Art                                                                                              | Album                             | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------|:---------------|:-----------------------------------------------------------|
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Querencia                         | 2021-02-15     | [🔗](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="" width="50" /> | Bare&Rare, Pt. 1                  | 2022-07-11     | [🔗](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27388cdde41f2552db78b94e957" alt="" width="50" /> | Wow Thing                         | 2018-09-28     | [🔗](https://open.spotify.com/album/3xEPyp7h78uULpDPuKvokH) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730258c2353d456519e467584b" alt="" width="50" /> | When I Get Old                    | 2022-10-20     | [🔗](https://open.spotify.com/album/3mJMHqT2w0HwjQkneNVE14) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d662735fc7d080888bc40b4" alt="" width="50" /> | Street Woman Fighter(SWF) Special | 2021-10-27     | [🔗](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f662dabc03dbb3a127255b32" alt="" width="50" /> | PLAY                              | 2020-07-06     | [🔗](https://open.spotify.com/album/7tzaUrzvzQGfqvzsYzSODr) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273df3abb2b0071d1b11200db47" alt="" width="50" /> | Killing Me                        | 2021-11-29     | [🔗](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733de8d21c10a5beed844bba5b" alt="" width="50" /> | Gotta Go                          | 2019-01-02     | [🔗](https://open.spotify.com/album/7BYCvUqCaeIo2jgOl9iAGr) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273cd17c315097d81ea0882430c" alt="" width="50" /> | Flourishing                       | 2019-06-24     | [🔗](https://open.spotify.com/album/1lNM7RF1SVUs66OtLj4MQh) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27390ee0d4d3906192283bae657" alt="" width="50" /> | Bad Boy                           | 2020-09-23     | [🔗](https://open.spotify.com/album/4IRuxkSbw7iZZmnr6Rly2Q) |
 
 ## Top Record Labels
 

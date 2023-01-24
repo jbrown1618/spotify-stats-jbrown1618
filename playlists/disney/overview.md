@@ -103,28 +103,28 @@
 <details>
 <summary>See all 20 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                                                            | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|:-----------------------------------------------------------|
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="" width="50" /> | The Little Mermaid Special Edition                                               | [🔗](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) |
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | The Lion King                                                                    | [🔗](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) |
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="" width="50" /> | Beauty and the Beast                                                             | [🔗](https://open.spotify.com/album/3O5p9VNddbwvqWTdYKEqV5) |
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2734a4b92dcf7a5c51cc4f7424c" alt="" width="50" /> | Aladdin Special Edition                                                          | [🔗](https://open.spotify.com/album/7bt2aty3lUo6Q1Ud8pthRz) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273a45790b93f47d427a2aefa9d" alt="" width="50" /> | The Hunchback Of Notre Dame (Original Motion Picture Soundtrack)                 | [🔗](https://open.spotify.com/album/7btQeUDTIIfnh2iCQ8Pfhq) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc" alt="" width="50" /> | Mulan (Original Soundtrack)                                                      | [🔗](https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="" width="50" /> | Frozen (Original Motion Picture Soundtrack / Deluxe Edition)                     | [🔗](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="" width="50" /> | Tangled                                                                          | [🔗](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273d5758ffb1632e086776cf14d" alt="" width="50" /> | The Princess and the Frog (Original Motion Picture Soundtrack)                   | [🔗](https://open.spotify.com/album/0CcL28OkH89kjgKpNZC8sW) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273d897c1143b832479966b407d" alt="" width="50" /> | The Jungle Book                                                                  | [🔗](https://open.spotify.com/album/7zdZNXoapFcOW663zgLdOE) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273281dfd7af2ee99a124404623" alt="" width="50" /> | Pocahontas                                                                       | [🔗](https://open.spotify.com/album/7L6kEZVkWh7OEI71b1JHZd) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dda924a83894bc750e69845a" alt="" width="50" /> | The Journey so Far                                                               | [🔗](https://open.spotify.com/album/3zr8JDmixklHY1sOURyfoK) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732a8b6ce34511614c9373f423" alt="" width="50" /> | Songs and Story: Cinderella                                                      | [🔗](https://open.spotify.com/album/1d4rBfCtXPqkphzbvjokLa) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739a1b229fe1a132abf9599362" alt="" width="50" /> | Sleeping Beauty                                                                  | [🔗](https://open.spotify.com/album/3U3I9TY7on88tPvM1guh54) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733505183cc0e24d2f7560174a" alt="" width="50" /> | Moana (Original Motion Picture Soundtrack/Deluxe Edition)                        | [🔗](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736ff59d18c018a2845758deed" alt="" width="50" /> | Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)                     | [🔗](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ea64ccdfa35a32dddeaec8fc" alt="" width="50" /> | Disney's Greatest Vol. 3                                                         | [🔗](https://open.spotify.com/album/6UuNvv5UFJG5bQkYzQIarh) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731f062b7159e8f230120512bf" alt="" width="50" /> | Coco (Original Motion Picture Soundtrack)                                        | [🔗](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736b4d7353d778b84853751cda" alt="" width="50" /> | Cinderella Special Edition (Original Motion Picture Soundtrack/Japanese Version) | [🔗](https://open.spotify.com/album/3QAxBLpXRLVMh1dRtuQa0q) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739734b880ec5742822e49db80" alt="" width="50" /> | 101 Dalmatians                                                                   | [🔗](https://open.spotify.com/album/6hcQqEfqHDkQZl1bdgr4Vr) |
+|   Number of Tracks | Art                                                                                              | Album                                                                            | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="" width="50" /> | The Little Mermaid Special Edition                                               | 2006-01-01     | [🔗](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | The Lion King                                                                    | 1994-01-01     | [🔗](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="" width="50" /> | Beauty and the Beast                                                             | 1991-01-01     | [🔗](https://open.spotify.com/album/3O5p9VNddbwvqWTdYKEqV5) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2734a4b92dcf7a5c51cc4f7424c" alt="" width="50" /> | Aladdin Special Edition                                                          | 2004-01-01     | [🔗](https://open.spotify.com/album/7bt2aty3lUo6Q1Ud8pthRz) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273a45790b93f47d427a2aefa9d" alt="" width="50" /> | The Hunchback Of Notre Dame (Original Motion Picture Soundtrack)                 | 1996-05-28     | [🔗](https://open.spotify.com/album/7btQeUDTIIfnh2iCQ8Pfhq) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc" alt="" width="50" /> | Mulan (Original Soundtrack)                                                      | 1998-01-01     | [🔗](https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="" width="50" /> | Frozen (Original Motion Picture Soundtrack / Deluxe Edition)                     | 2013-01-01     | [🔗](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="" width="50" /> | Tangled                                                                          | 2010-01-01     | [🔗](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273d5758ffb1632e086776cf14d" alt="" width="50" /> | The Princess and the Frog (Original Motion Picture Soundtrack)                   | 2009-11-23     | [🔗](https://open.spotify.com/album/0CcL28OkH89kjgKpNZC8sW) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273d897c1143b832479966b407d" alt="" width="50" /> | The Jungle Book                                                                  | 1997-01-01     | [🔗](https://open.spotify.com/album/7zdZNXoapFcOW663zgLdOE) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273281dfd7af2ee99a124404623" alt="" width="50" /> | Pocahontas                                                                       | 1995-01-01     | [🔗](https://open.spotify.com/album/7L6kEZVkWh7OEI71b1JHZd) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dda924a83894bc750e69845a" alt="" width="50" /> | The Journey so Far                                                               | 2011-08-09     | [🔗](https://open.spotify.com/album/3zr8JDmixklHY1sOURyfoK) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732a8b6ce34511614c9373f423" alt="" width="50" /> | Songs and Story: Cinderella                                                      | 2009-01-01     | [🔗](https://open.spotify.com/album/1d4rBfCtXPqkphzbvjokLa) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739a1b229fe1a132abf9599362" alt="" width="50" /> | Sleeping Beauty                                                                  | 1996-01-01     | [🔗](https://open.spotify.com/album/3U3I9TY7on88tPvM1guh54) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733505183cc0e24d2f7560174a" alt="" width="50" /> | Moana (Original Motion Picture Soundtrack/Deluxe Edition)                        | 2016-11-18     | [🔗](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736ff59d18c018a2845758deed" alt="" width="50" /> | Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)                     | 2019-11-15     | [🔗](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ea64ccdfa35a32dddeaec8fc" alt="" width="50" /> | Disney's Greatest Vol. 3                                                         | 2002-08-20     | [🔗](https://open.spotify.com/album/6UuNvv5UFJG5bQkYzQIarh) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731f062b7159e8f230120512bf" alt="" width="50" /> | Coco (Original Motion Picture Soundtrack)                                        | 2017-11-10     | [🔗](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736b4d7353d778b84853751cda" alt="" width="50" /> | Cinderella Special Edition (Original Motion Picture Soundtrack/Japanese Version) | 2005-10-19     | [🔗](https://open.spotify.com/album/3QAxBLpXRLVMh1dRtuQa0q) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739734b880ec5742822e49db80" alt="" width="50" /> | 101 Dalmatians                                                                   | 1998-01-01     | [🔗](https://open.spotify.com/album/6hcQqEfqHDkQZl1bdgr4Vr) |
 
 </details>
 
@@ -186,95 +186,113 @@
 </details>
 
 
+## Years
+
+
+
+
+
+| 10 newest albums                                                                                                                                                                                                                                                                                                                                                            | 10 oldest albums                                                                                                                                                                                                                                                                                                                            |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736ff59d18c018a2845758deed" alt="Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)" width="50" /> <span style="padding-left:10px;">Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition) (2019-11-15)</span></div>                                         | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="Beauty and the Beast" width="50" /> <span style="padding-left:10px;">Beauty and the Beast (1991-01-01)</span></div>                                                                                         |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731f062b7159e8f230120512bf" alt="Coco (Original Motion Picture Soundtrack)" width="50" /> <span style="padding-left:10px;">Coco (Original Motion Picture Soundtrack) (2017-11-10)</span></div>                                                                               | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="The Lion King" width="50" /> <span style="padding-left:10px;">The Lion King (1994-01-01)</span></div>                                                                                                       |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733505183cc0e24d2f7560174a" alt="Moana (Original Motion Picture Soundtrack/Deluxe Edition)" width="50" /> <span style="padding-left:10px;">Moana (Original Motion Picture Soundtrack/Deluxe Edition) (2016-11-18)</span></div>                                               | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273281dfd7af2ee99a124404623" alt="Pocahontas" width="50" /> <span style="padding-left:10px;">Pocahontas (1995-01-01)</span></div>                                                                                                             |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="Frozen (Original Motion Picture Soundtrack / Deluxe Edition)" width="50" /> <span style="padding-left:10px;">Frozen (Original Motion Picture Soundtrack / Deluxe Edition) (2013-01-01)</span></div>                                         | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739a1b229fe1a132abf9599362" alt="Sleeping Beauty" width="50" /> <span style="padding-left:10px;">Sleeping Beauty (1996-01-01)</span></div>                                                                                                   |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273dda924a83894bc750e69845a" alt="The Journey so Far" width="50" /> <span style="padding-left:10px;">The Journey so Far (2011-08-09)</span></div>                                                                                                                             | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a45790b93f47d427a2aefa9d" alt="The Hunchback Of Notre Dame (Original Motion Picture Soundtrack)" width="50" /> <span style="padding-left:10px;">The Hunchback Of Notre Dame (Original Motion Picture Soundtrack) (1996-05-28)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="Tangled" width="50" /> <span style="padding-left:10px;">Tangled (2010-01-01)</span></div>                                                                                                                                                   | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d897c1143b832479966b407d" alt="The Jungle Book" width="50" /> <span style="padding-left:10px;">The Jungle Book (1997-01-01)</span></div>                                                                                                   |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d5758ffb1632e086776cf14d" alt="The Princess and the Frog (Original Motion Picture Soundtrack)" width="50" /> <span style="padding-left:10px;">The Princess and the Frog (Original Motion Picture Soundtrack) (2009-11-23)</span></div>                                     | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc" alt="Mulan (Original Soundtrack)" width="50" /> <span style="padding-left:10px;">Mulan (Original Soundtrack) (1998-01-01)</span></div>                                                                           |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732a8b6ce34511614c9373f423" alt="Songs and Story: Cinderella" width="50" /> <span style="padding-left:10px;">Songs and Story: Cinderella (2009-01-01)</span></div>                                                                                                           | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739734b880ec5742822e49db80" alt="101 Dalmatians" width="50" /> <span style="padding-left:10px;">101 Dalmatians (1998-01-01)</span></div>                                                                                                     |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="The Little Mermaid Special Edition" width="50" /> <span style="padding-left:10px;">The Little Mermaid Special Edition (2006-01-01)</span></div>                                                                                             | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ea64ccdfa35a32dddeaec8fc" alt="Disney's Greatest Vol. 3" width="50" /> <span style="padding-left:10px;">Disney's Greatest Vol. 3 (2002-08-20)</span></div>                                                                                 |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736b4d7353d778b84853751cda" alt="Cinderella Special Edition (Original Motion Picture Soundtrack/Japanese Version)" width="50" /> <span style="padding-left:10px;">Cinderella Special Edition (Original Motion Picture Soundtrack/Japanese Version) (2005-10-19)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734a4b92dcf7a5c51cc4f7424c" alt="Aladdin Special Edition" width="50" /> <span style="padding-left:10px;">Aladdin Special Edition (2004-01-01)</span></div>                                                                                   |
 ## Audio Features
 
 | 10 most Danceable tracks                                       | 10 least Danceable tracks                                                         |
 |:---------------------------------------------------------------|:----------------------------------------------------------------------------------|
-| The Bare Necessities                                           | A Whole New World                                                                 |
-| I Wan'na Be Like You (The Monkey Song)                         | I See the Light - From "Tangled" / Soundtrack Version                             |
-| Love Is an Open Door - From "Frozen"/Soundtrack Version        | Part of Your World                                                                |
-| Be Prepared - From "The Lion King" / Soundtrack Version        | Colors of the Wind - From "Pocahontas" / Soundtrack Version                       |
-| Down in New Orleans                                            | A Dream Is a Wish Your Heart Makes                                                |
-| I Just Can't Wait to Be King - From "The Lion King" Soundtrack | Reflection                                                                        |
-| When Will My Life Begin? - From "Tangled" / Soundtrack Version | Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version           |
-| I'll Make a Man Out of You                                     | An Unusual Prince / Once Upon A Dream - From "Sleeping Beauty"/Soundtrack Version |
-| Kiss the Girl                                                  | Heaven's Light/Hellfire                                                           |
-| Gaston - From "Beauty and the Beast" / Soundtrack Version      | God Help the Outcasts                                                             |
+| The Bare Necessities                                           | God Help the Outcasts                                                             |
+| I Wan'na Be Like You (The Monkey Song)                         | Heaven's Light/Hellfire                                                           |
+| Love Is an Open Door - From "Frozen"/Soundtrack Version        | An Unusual Prince / Once Upon A Dream - From "Sleeping Beauty"/Soundtrack Version |
+| Be Prepared - From "The Lion King" / Soundtrack Version        | Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version           |
+| Down in New Orleans                                            | Reflection                                                                        |
+| I Just Can't Wait to Be King - From "The Lion King" Soundtrack | A Dream Is a Wish Your Heart Makes                                                |
+| When Will My Life Begin? - From "Tangled" / Soundtrack Version | Colors of the Wind - From "Pocahontas" / Soundtrack Version                       |
+| I'll Make a Man Out of You                                     | Part of Your World                                                                |
+| Kiss the Girl                                                  | I See the Light - From "Tangled" / Soundtrack Version                             |
+| Gaston - From "Beauty and the Beast" / Soundtrack Version      | A Whole New World                                                                 |
 
 | 10 most Energetic tracks                                       | 10 least Energetic tracks                                                 |
 |:---------------------------------------------------------------|:--------------------------------------------------------------------------|
-| Down in New Orleans                                            | A Dream Is a Wish Your Heart Makes                                        |
-| Love Is an Open Door - From "Frozen"/Soundtrack Version        | Colors of the Wind - From "Pocahontas" / Soundtrack Version               |
-| Friends on the Other Side                                      | Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version   |
-| Gaston - From "Beauty and the Beast" / Soundtrack Version      | Heaven's Light/Hellfire                                                   |
-| Bibbidi-Bobbidi-Boo - From "Cinderella" Soundtrack             | Part of Your World                                                        |
-| I Just Can't Wait to Be King - From "The Lion King" Soundtrack | I See the Light - From "Tangled" / Soundtrack Version                     |
-| Let It Go - From "Frozen"/Soundtrack Version                   | Can You Feel the Love Tonight - From "The Lion King" / Soundtrack Version |
-| Friend Like Me                                                 | Do You Want to Build a Snowman? - From "Frozen"/Soundtrack Version        |
-| Under the Sea                                                  | God Help the Outcasts                                                     |
-| Prince Ali                                                     | Remember Me (Lullaby)                                                     |
+| Down in New Orleans                                            | Remember Me (Lullaby)                                                     |
+| Love Is an Open Door - From "Frozen"/Soundtrack Version        | God Help the Outcasts                                                     |
+| Friends on the Other Side                                      | Do You Want to Build a Snowman? - From "Frozen"/Soundtrack Version        |
+| Gaston - From "Beauty and the Beast" / Soundtrack Version      | Can You Feel the Love Tonight - From "The Lion King" / Soundtrack Version |
+| Bibbidi-Bobbidi-Boo - From "Cinderella" Soundtrack             | I See the Light - From "Tangled" / Soundtrack Version                     |
+| I Just Can't Wait to Be King - From "The Lion King" Soundtrack | Part of Your World                                                        |
+| Let It Go - From "Frozen"/Soundtrack Version                   | Heaven's Light/Hellfire                                                   |
+| Friend Like Me                                                 | Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version   |
+| Under the Sea                                                  | Colors of the Wind - From "Pocahontas" / Soundtrack Version               |
+| Prince Ali                                                     | A Dream Is a Wish Your Heart Makes                                        |
 
 | 10 most Speechy tracks                                       | 10 least Speechy tracks                                                           |
 |:-------------------------------------------------------------|:----------------------------------------------------------------------------------|
-| Who's Afraid of the Big, Bad Wolf - From "Three Little Pigs" | Reflection                                                                        |
-| Les Poissons                                                 | Something There - From "Beauty and the Beast"/Soundtrack Version                  |
-| Be Our Guest - From "Beauty And The Beast" Soundtrack        | A Whole New World                                                                 |
-| Mother Knows Best - From "Tangled"/Soundtrack Version        | An Unusual Prince / Once Upon A Dream - From "Sleeping Beauty"/Soundtrack Version |
-| Under the Sea                                                | Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version           |
-| Friend Like Me                                               | For the First Time in Forever - From "Frozen"/Soundtrack Version                  |
-| Gaston - From "Beauty and the Beast" / Soundtrack Version    | I'll Make a Man Out of You                                                        |
-| Hakuna Matata - From "The Lion King" Soundtrack              | When Will My Life Begin? - From "Tangled" / Soundtrack Version                    |
-| One Jump Ahead                                               | Let It Go - From "Frozen"/Soundtrack Version                                      |
-| Belle - From "Beauty and the Beast"/Soundtrack Version       | I See the Light - From "Tangled" / Soundtrack Version                             |
+| Who's Afraid of the Big, Bad Wolf - From "Three Little Pigs" | I See the Light - From "Tangled" / Soundtrack Version                             |
+| Les Poissons                                                 | Let It Go - From "Frozen"/Soundtrack Version                                      |
+| Be Our Guest - From "Beauty And The Beast" Soundtrack        | When Will My Life Begin? - From "Tangled" / Soundtrack Version                    |
+| Mother Knows Best - From "Tangled"/Soundtrack Version        | I'll Make a Man Out of You                                                        |
+| Under the Sea                                                | For the First Time in Forever - From "Frozen"/Soundtrack Version                  |
+| Friend Like Me                                               | Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version           |
+| Gaston - From "Beauty and the Beast" / Soundtrack Version    | An Unusual Prince / Once Upon A Dream - From "Sleeping Beauty"/Soundtrack Version |
+| Hakuna Matata - From "The Lion King" Soundtrack              | A Whole New World                                                                 |
+| One Jump Ahead                                               | Something There - From "Beauty and the Beast"/Soundtrack Version                  |
+| Belle - From "Beauty and the Beast"/Soundtrack Version       | Reflection                                                                        |
 
 | 10 most Acoustic tracks                                                           | 10 least Acoustic tracks                                       |
 |:----------------------------------------------------------------------------------|:---------------------------------------------------------------|
-| Cruella De Vil - From "101 Dalmatians"/Soundtrack Version                         | A Girl Worth Fighting For                                      |
-| An Unusual Prince / Once Upon A Dream - From "Sleeping Beauty"/Soundtrack Version | Let It Go - From "Frozen"/Soundtrack Version                   |
-| A Dream Is a Wish Your Heart Makes                                                | Honor To Us All                                                |
-| Bibbidi-Bobbidi-Boo - From "Cinderella" Soundtrack                                | One Jump Ahead                                                 |
-| Who's Afraid of the Big, Bad Wolf - From "Three Little Pigs"                      | I Just Can't Wait to Be King - From "The Lion King" Soundtrack |
-| Colors of the Wind - From "Pocahontas" / Soundtrack Version                       | Be Prepared - From "The Lion King" / Soundtrack Version        |
-| God Help the Outcasts                                                             | Love Is an Open Door - From "Frozen"/Soundtrack Version        |
-| Remember Me (Lullaby)                                                             | I'll Make a Man Out of You                                     |
-| Part of Your World                                                                | When Will My Life Begin? - From "Tangled" / Soundtrack Version |
-| Just Around the Riverbend - From "Pocahontas" / Soundtrack Version                | Circle of Life - From "The Lion King" Soundtrack               |
+| Cruella De Vil - From "101 Dalmatians"/Soundtrack Version                         | Circle of Life - From "The Lion King" Soundtrack               |
+| An Unusual Prince / Once Upon A Dream - From "Sleeping Beauty"/Soundtrack Version | When Will My Life Begin? - From "Tangled" / Soundtrack Version |
+| A Dream Is a Wish Your Heart Makes                                                | I'll Make a Man Out of You                                     |
+| Bibbidi-Bobbidi-Boo - From "Cinderella" Soundtrack                                | Love Is an Open Door - From "Frozen"/Soundtrack Version        |
+| Who's Afraid of the Big, Bad Wolf - From "Three Little Pigs"                      | Be Prepared - From "The Lion King" / Soundtrack Version        |
+| Colors of the Wind - From "Pocahontas" / Soundtrack Version                       | I Just Can't Wait to Be King - From "The Lion King" Soundtrack |
+| God Help the Outcasts                                                             | One Jump Ahead                                                 |
+| Remember Me (Lullaby)                                                             | Honor To Us All                                                |
+| Part of Your World                                                                | Let It Go - From "Frozen"/Soundtrack Version                   |
+| Just Around the Riverbend - From "Pocahontas" / Soundtrack Version                | A Girl Worth Fighting For                                      |
 
 | 10 most Instrumental tracks                                                       | 10 least Instrumental tracks                                              |
 |:----------------------------------------------------------------------------------|:--------------------------------------------------------------------------|
-| Cruella De Vil - From "101 Dalmatians"/Soundtrack Version                         | Kiss the Girl                                                             |
-| Reflection                                                                        | Can You Feel the Love Tonight - From "The Lion King" / Soundtrack Version |
-| An Unusual Prince / Once Upon A Dream - From "Sleeping Beauty"/Soundtrack Version | One Jump Ahead                                                            |
-| Who's Afraid of the Big, Bad Wolf - From "Three Little Pigs"                      | Be Our Guest - From "Beauty And The Beast" Soundtrack                     |
-| Colors of the Wind - From "Pocahontas" / Soundtrack Version                       | I See the Light - From "Tangled" / Soundtrack Version                     |
-| Reflection                                                                        | How Far I'll Go                                                           |
-| Into the Unknown                                                                  | Under the Sea                                                             |
-| Down in New Orleans                                                               | Honor To Us All                                                           |
-| A Dream Is a Wish Your Heart Makes                                                | The Bare Necessities                                                      |
-| Part of Your World                                                                | When Will My Life Begin? - From "Tangled" / Soundtrack Version            |
+| Cruella De Vil - From "101 Dalmatians"/Soundtrack Version                         | When Will My Life Begin? - From "Tangled" / Soundtrack Version            |
+| Reflection                                                                        | The Bare Necessities                                                      |
+| An Unusual Prince / Once Upon A Dream - From "Sleeping Beauty"/Soundtrack Version | Honor To Us All                                                           |
+| Who's Afraid of the Big, Bad Wolf - From "Three Little Pigs"                      | Under the Sea                                                             |
+| Colors of the Wind - From "Pocahontas" / Soundtrack Version                       | How Far I'll Go                                                           |
+| Reflection                                                                        | I See the Light - From "Tangled" / Soundtrack Version                     |
+| Into the Unknown                                                                  | Be Our Guest - From "Beauty And The Beast" Soundtrack                     |
+| Down in New Orleans                                                               | One Jump Ahead                                                            |
+| A Dream Is a Wish Your Heart Makes                                                | Can You Feel the Love Tonight - From "The Lion King" / Soundtrack Version |
+| Part of Your World                                                                | Kiss the Girl                                                             |
 
 | 10 most Live tracks                                                       | 10 least Live tracks                                           |
 |:--------------------------------------------------------------------------|:---------------------------------------------------------------|
-| One Jump Ahead                                                            | Who's Afraid of the Big, Bad Wolf - From "Three Little Pigs"   |
-| Reflection                                                                | When Will My Life Begin? - From "Tangled" / Soundtrack Version |
-| Friend Like Me                                                            | Cruella De Vil - From "101 Dalmatians"/Soundtrack Version      |
-| Can You Feel the Love Tonight - From "The Lion King" / Soundtrack Version | Be Our Guest - From "Beauty And The Beast" Soundtrack          |
-| Friends on the Other Side                                                 | Out There                                                      |
-| Poor Unfortunate Souls                                                    | I'll Make a Man Out of You                                     |
-| Reflection                                                                | God Help the Outcasts                                          |
-| Love Is an Open Door - From "Frozen"/Soundtrack Version                   | I See the Light - From "Tangled" / Soundtrack Version          |
-| Circle of Life - From "The Lion King" Soundtrack                          | Heaven's Light/Hellfire                                        |
-| Part of Your World                                                        | Mother Knows Best - From "Tangled"/Soundtrack Version          |
+| One Jump Ahead                                                            | Mother Knows Best - From "Tangled"/Soundtrack Version          |
+| Reflection                                                                | Heaven's Light/Hellfire                                        |
+| Friend Like Me                                                            | I See the Light - From "Tangled" / Soundtrack Version          |
+| Can You Feel the Love Tonight - From "The Lion King" / Soundtrack Version | God Help the Outcasts                                          |
+| Friends on the Other Side                                                 | I'll Make a Man Out of You                                     |
+| Poor Unfortunate Souls                                                    | Out There                                                      |
+| Reflection                                                                | Be Our Guest - From "Beauty And The Beast" Soundtrack          |
+| Love Is an Open Door - From "Frozen"/Soundtrack Version                   | Cruella De Vil - From "101 Dalmatians"/Soundtrack Version      |
+| Circle of Life - From "The Lion King" Soundtrack                          | When Will My Life Begin? - From "Tangled" / Soundtrack Version |
+| Part of Your World                                                        | Who's Afraid of the Big, Bad Wolf - From "Three Little Pigs"   |
 
 | 10 most Happy tracks                                           | 10 least Happy tracks                                                   |
 |:---------------------------------------------------------------|:------------------------------------------------------------------------|
-| I Just Can't Wait to Be King - From "The Lion King" Soundtrack | Out There                                                               |
-| Bibbidi-Bobbidi-Boo - From "Cinderella" Soundtrack             | Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version |
-| A Girl Worth Fighting For                                      | I See the Light - From "Tangled" / Soundtrack Version                   |
-| Under the Sea                                                  | Do You Want to Build a Snowman? - From "Frozen"/Soundtrack Version      |
-| I Wan'na Be Like You (The Monkey Song)                         | A Dream Is a Wish Your Heart Makes                                      |
-| Hakuna Matata - From "The Lion King" Soundtrack                | God Help the Outcasts                                                   |
-| Kiss the Girl                                                  | A Whole New World                                                       |
-| Down in New Orleans                                            | Heaven's Light/Hellfire                                                 |
-| One Jump Ahead                                                 | How Far I'll Go                                                         |
-| Les Poissons                                                   | Reflection                                                              |
+| I Just Can't Wait to Be King - From "The Lion King" Soundtrack | Reflection                                                              |
+| Bibbidi-Bobbidi-Boo - From "Cinderella" Soundtrack             | How Far I'll Go                                                         |
+| A Girl Worth Fighting For                                      | Heaven's Light/Hellfire                                                 |
+| Under the Sea                                                  | A Whole New World                                                       |
+| I Wan'na Be Like You (The Monkey Song)                         | God Help the Outcasts                                                   |
+| Hakuna Matata - From "The Lion King" Soundtrack                | A Dream Is a Wish Your Heart Makes                                      |
+| Kiss the Girl                                                  | Do You Want to Build a Snowman? - From "Frozen"/Soundtrack Version      |
+| Down in New Orleans                                            | I See the Light - From "Tangled" / Soundtrack Version                   |
+| One Jump Ahead                                                 | Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version |
+| Les Poissons                                                   | Out There                                                               |

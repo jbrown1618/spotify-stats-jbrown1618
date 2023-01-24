@@ -11,10 +11,10 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273fdf2a7d7437db7a75da73167" alt="" width="50" />                                                                                                                            | [Mozart](../playlists/mozart/overview.md) |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album                               | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:------------------------------------|:-----------------------------------------------------------|
-|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b2735f71322acbf611462ffc03d5" alt="" width="50" /> | Fauré: Requiem; Pavane              | [🔗](https://open.spotify.com/album/0mhVHXJrGE5WUA58CJLf29) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27350f0e9f3fe510cfe42f5f2d9" alt="" width="50" /> | Mozart: Eine Kleine Nachtmusik etc. | [🔗](https://open.spotify.com/album/5YCuibCDJrkVcS3UOAYqr9) |
+|   Number of Tracks | Art                                                                                              | Album                               | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:------------------------------------|:---------------|:-----------------------------------------------------------|
+|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b2735f71322acbf611462ffc03d5" alt="" width="50" /> | Fauré: Requiem; Pavane              | 2008-01-01     | [🔗](https://open.spotify.com/album/0mhVHXJrGE5WUA58CJLf29) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27350f0e9f3fe510cfe42f5f2d9" alt="" width="50" /> | Mozart: Eine Kleine Nachtmusik etc. | 1986           | [🔗](https://open.spotify.com/album/5YCuibCDJrkVcS3UOAYqr9) |
 
 ## Top Record Labels
 

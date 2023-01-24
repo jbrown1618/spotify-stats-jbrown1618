@@ -36,15 +36,15 @@ Appears as:
 <details>
 <summary>See all 7 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                        | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------|:-----------------------------------------------------------|
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Good Girl Gone Bad: Reloaded | [🔗](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731f69f49a0d2f6b13a79efe02" alt="" width="50" /> | Unapologetic                 | [🔗](https://open.spotify.com/album/0XJya16l3K1J2dEwY19F8z) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef" alt="" width="50" /> | Talk That Talk               | [🔗](https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="" width="50" /> | Unapologetic (Deluxe)        | [🔗](https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="" width="50" /> | Loud                         | [🔗](https://open.spotify.com/album/6UHhmTLl9T1scRYLmpHcDX) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27383b22beb73e2014b20159685" alt="" width="50" /> | Lonely (with benny blanco)   | [🔗](https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739351691c007cad99d70d9f3f" alt="" width="50" /> | Cravin                       | [🔗](https://open.spotify.com/album/6c66PBJdg7EWPcFUvLyFFu) |
+|   Number of Tracks | Art                                                                                              | Album                        | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------|:---------------|:-----------------------------------------------------------|
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Good Girl Gone Bad: Reloaded | 2008-06-02     | [🔗](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731f69f49a0d2f6b13a79efe02" alt="" width="50" /> | Unapologetic                 | 2012-12-11     | [🔗](https://open.spotify.com/album/0XJya16l3K1J2dEwY19F8z) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef" alt="" width="50" /> | Talk That Talk               | 2011-11-19     | [🔗](https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="" width="50" /> | Unapologetic (Deluxe)        | 2012-12-11     | [🔗](https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="" width="50" /> | Loud                         | 2010-11-16     | [🔗](https://open.spotify.com/album/6UHhmTLl9T1scRYLmpHcDX) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27383b22beb73e2014b20159685" alt="" width="50" /> | Lonely (with benny blanco)   | 2020-10-16     | [🔗](https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739351691c007cad99d70d9f3f" alt="" width="50" /> | Cravin                       | 2019-10-18     | [🔗](https://open.spotify.com/album/6c66PBJdg7EWPcFUvLyFFu) |
 
 </details>
 

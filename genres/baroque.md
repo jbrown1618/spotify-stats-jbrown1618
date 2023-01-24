@@ -43,14 +43,14 @@
 <details>
 <summary>See all 6 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                             | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------|:-----------------------------------------------------------|
-|                 36 | <img src="https://i.scdn.co/image/ab67616d0000b273261feb89ee859b598bd34a97" alt="" width="50" /> | Bach: Unaccompanied Cello Suites (Remastered)     | [🔗](https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI) |
-|                 19 | <img src="https://i.scdn.co/image/ab67616d0000b27308f25ef15caf048a49a69ee5" alt="" width="50" /> | Bach, J.S.: Brandenburg Concertos etc.            | [🔗](https://open.spotify.com/album/11FzhwtOFCPB4vpgWo33xV) |
-|                 18 | <img src="https://i.scdn.co/image/ab67616d0000b273203bf132896e0a4be9638dda" alt="" width="50" /> | Vivaldi: Four Seasons                             | [🔗](https://open.spotify.com/album/4Uc1Cus3I9LjkI2XwtQnfc) |
-|                 16 | <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="" width="50" /> | Vivaldi: The Four Seasons.                        | [🔗](https://open.spotify.com/album/4YpaKMCcb65yOoee75UUOh) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273609d14b25e86640a2a69c534" alt="" width="50" /> | Purcell : Anthems & Sacred Songs [Evening Prayer] | [🔗](https://open.spotify.com/album/7K8qhv7euF0xd6DiqoReDK) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273397c1f0c407ebd9a318b25fa" alt="" width="50" /> | Allegri - Miserere                                | [🔗](https://open.spotify.com/album/6DXPSePAsqcD40WQsSnasD) |
+|   Number of Tracks | Art                                                                                              | Album                                             | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                 36 | <img src="https://i.scdn.co/image/ab67616d0000b273261feb89ee859b598bd34a97" alt="" width="50" /> | Bach: Unaccompanied Cello Suites (Remastered)     | 1983           | [🔗](https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI) |
+|                 19 | <img src="https://i.scdn.co/image/ab67616d0000b27308f25ef15caf048a49a69ee5" alt="" width="50" /> | Bach, J.S.: Brandenburg Concertos etc.            | 1995-01-01     | [🔗](https://open.spotify.com/album/11FzhwtOFCPB4vpgWo33xV) |
+|                 18 | <img src="https://i.scdn.co/image/ab67616d0000b273203bf132896e0a4be9638dda" alt="" width="50" /> | Vivaldi: Four Seasons                             | 2008-01-01     | [🔗](https://open.spotify.com/album/4Uc1Cus3I9LjkI2XwtQnfc) |
+|                 16 | <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="" width="50" /> | Vivaldi: The Four Seasons.                        | 2007-10-01     | [🔗](https://open.spotify.com/album/4YpaKMCcb65yOoee75UUOh) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273609d14b25e86640a2a69c534" alt="" width="50" /> | Purcell : Anthems & Sacred Songs [Evening Prayer] | 2003-08-29     | [🔗](https://open.spotify.com/album/7K8qhv7euF0xd6DiqoReDK) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273397c1f0c407ebd9a318b25fa" alt="" width="50" /> | Allegri - Miserere                                | 1994-02-15     | [🔗](https://open.spotify.com/album/6DXPSePAsqcD40WQsSnasD) |
 
 </details>
 
@@ -79,91 +79,91 @@
 
 | 10 most Danceable tracks                                                               | 10 least Danceable tracks                                                                  |
 |:---------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------|
-| Brandenburg Concerto No. 2 in F, BWV 1047: 3. Allegro assai                            | Cello Suite No. 6 in D Major, BWV 1012: IV. Sarabande                                      |
-| Brandenburg Concerto No. 2 in F, BWV 1047: 1. (Allegro)                                | Cello Suite No. 6 in D Major, BWV 1012: II. Allemande                                      |
-| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: I. (Allegro)  | Cello Suite No. 4 in E-Flat Major, BWV 1010: IV. Sarabande                                 |
-| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: III. Allegro  | Cello Suite No. 3 in C Major, BWV 1009: IV. Sarabande                                      |
-| Vivaldi: L'estro armonico, Violin Concerto in A Minor, Op. 3 No. 6, RV 356: I. Allegro | Brandenburg Concerto No. 6 in B flat, BWV 1051: 2. Adagio ma non tanto                     |
-| Brandenburg Concerto No. 3 in G, BWV 1048: 3. Allegro                                  | Cello Suite No. 1 in G Major, BWV 1007: IV. Sarabande                                      |
-| Violin Concerto in E Major, Op. 8, No. 1, RV 269 "La Primavera": I. Allegro            | Concerto for Violin and Strings in E Major, Op. 8, No. 1, RV 269 "La Primavera": II. Largo |
-| Brandenburg Concerto No. 1 in F, BWV 1046: 5. Polacca; Trio II                         | Cello Suite No. 5 in C Minor, BWV 1011: II. Allemande                                      |
-| Vivaldi: Violin Concerto in G Minor, Op. 12 No. 1, RV 317: I. Allegro aperto           | Cello Suite No. 2 in D Minor, BWV 1008: IV. Sarabande                                      |
-| Brandenburg Concerto No. 6 in B flat, BWV 1051: 3. Allegro                             | Cello Suite No. 5 in C Minor, BWV 1011: IV. Sarabande                                      |
+| Brandenburg Concerto No. 2 in F, BWV 1047: 3. Allegro assai                            | Cello Suite No. 5 in C Minor, BWV 1011: IV. Sarabande                                      |
+| Brandenburg Concerto No. 2 in F, BWV 1047: 1. (Allegro)                                | Cello Suite No. 2 in D Minor, BWV 1008: IV. Sarabande                                      |
+| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: I. (Allegro)  | Cello Suite No. 5 in C Minor, BWV 1011: II. Allemande                                      |
+| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: III. Allegro  | Concerto for Violin and Strings in E Major, Op. 8, No. 1, RV 269 "La Primavera": II. Largo |
+| Vivaldi: L'estro armonico, Violin Concerto in A Minor, Op. 3 No. 6, RV 356: I. Allegro | Cello Suite No. 1 in G Major, BWV 1007: IV. Sarabande                                      |
+| Brandenburg Concerto No. 3 in G, BWV 1048: 3. Allegro                                  | Brandenburg Concerto No. 6 in B flat, BWV 1051: 2. Adagio ma non tanto                     |
+| Violin Concerto in E Major, Op. 8, No. 1, RV 269 "La Primavera": I. Allegro            | Cello Suite No. 3 in C Major, BWV 1009: IV. Sarabande                                      |
+| Brandenburg Concerto No. 1 in F, BWV 1046: 5. Polacca; Trio II                         | Cello Suite No. 4 in E-Flat Major, BWV 1010: IV. Sarabande                                 |
+| Vivaldi: Violin Concerto in G Minor, Op. 12 No. 1, RV 317: I. Allegro aperto           | Cello Suite No. 6 in D Major, BWV 1012: II. Allemande                                      |
+| Brandenburg Concerto No. 6 in B flat, BWV 1051: 3. Allegro                             | Cello Suite No. 6 in D Major, BWV 1012: IV. Sarabande                                      |
 
 | 10 most Energetic tracks                                                                            | 10 least Energetic tracks                                                                                           |
 |:----------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------|
-| Violin Concerto in G Minor, Op. 8, No. 2, RV 315 "L'estate": III. Presto (Tempo impetuoso d'estate) | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: II. Andante (molto)                                |
-| Vivaldi: The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 "Summer": III. Presto    | Vivaldi: The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 "Spring": II. Largo e pianissimo sempre  |
-| Brandenburg Concerto No. 2 in F, BWV 1047: 3. Allegro assai                                         | Vivaldi: Violin Concerto in G Minor, Op. 12 No. 1, RV 317: II. Largo                                                |
-| Brandenburg Concerto No. 3 in G, BWV 1048: 3. Allegro                                               | Cello Suite No. 1 in G Major, BWV 1007: IV. Sarabande                                                               |
-| Brandenburg Concerto No. 2 in F, BWV 1047: 1. (Allegro)                                             | Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: II. Largo                                  |
-| Brandenburg Concerto No. 4 in G, BWV 1049: 3. Presto                                                | Vivaldi: The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 "Summer": II. Adagio                     |
-| Brandenburg Concerto No. 1 in F, BWV 1046: 3. Allegro                                               | Hear my prayer, O Lord                                                                                              |
-| Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": I. Allegro non molto                  | Concerto for Violin and Strings in F Major, Op. 8, No. 3, RV 293 "L'autunno": II. Adagio molto (Ubriachi dormienti) |
-| Brandenburg Concerto No. 1 in F, BWV 1046: 1. (Allegro)                                             | Cello Suite No. 5 in C Minor, BWV 1011: IV. Sarabande                                                               |
-| Brandenburg Concerto No. 3 in G, BWV 1048: 1. (Allegro)                                             | Vivaldi: The Four Seasons, Violin Concerto in F Major, Op. 8 No. 3, RV 293 "Autumn": II. Adagio molto               |
+| Violin Concerto in G Minor, Op. 8, No. 2, RV 315 "L'estate": III. Presto (Tempo impetuoso d'estate) | Vivaldi: The Four Seasons, Violin Concerto in F Major, Op. 8 No. 3, RV 293 "Autumn": II. Adagio molto               |
+| Vivaldi: The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 "Summer": III. Presto    | Cello Suite No. 5 in C Minor, BWV 1011: IV. Sarabande                                                               |
+| Brandenburg Concerto No. 2 in F, BWV 1047: 3. Allegro assai                                         | Concerto for Violin and Strings in F Major, Op. 8, No. 3, RV 293 "L'autunno": II. Adagio molto (Ubriachi dormienti) |
+| Brandenburg Concerto No. 3 in G, BWV 1048: 3. Allegro                                               | Hear my prayer, O Lord                                                                                              |
+| Brandenburg Concerto No. 2 in F, BWV 1047: 1. (Allegro)                                             | Vivaldi: The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 "Summer": II. Adagio                     |
+| Brandenburg Concerto No. 4 in G, BWV 1049: 3. Presto                                                | Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: II. Largo                                  |
+| Brandenburg Concerto No. 1 in F, BWV 1046: 3. Allegro                                               | Cello Suite No. 1 in G Major, BWV 1007: IV. Sarabande                                                               |
+| Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": I. Allegro non molto                  | Vivaldi: Violin Concerto in G Minor, Op. 12 No. 1, RV 317: II. Largo                                                |
+| Brandenburg Concerto No. 1 in F, BWV 1046: 1. (Allegro)                                             | Vivaldi: The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 "Spring": II. Largo e pianissimo sempre  |
+| Brandenburg Concerto No. 3 in G, BWV 1048: 1. (Allegro)                                             | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: II. Andante (molto)                                |
 
 | 10 most Speechy tracks                                                                            | 10 least Speechy tracks                                                                                             |
 |:--------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------|
-| Vivaldi: The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 "Winter": III. Allegro | Brandenburg Concerto No. 1 in F, BWV 1046: 2. Adagio                                                                |
-| Cello Suite No. 1 in G Major, BWV 1007: II. Allemande                                             | Purcell: Hear My Prayer, O Lord, Z. 15                                                                              |
-| Cello Suite No. 6 in D Major, BWV 1012: I. Prélude                                                | Cello Suite No. 1 in G Major, BWV 1007: III. Courante                                                               |
-| Cello Suite No. 1 in G Major, BWV 1007: I. Prélude                                                | Brandenburg Concerto No. 4 in G, BWV 1049: 3. Presto                                                                |
-| Brandenburg Concerto No. 5 in D, BWV 1050: 3. Allegro                                             | Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: I. (Allegro)                               |
-| Brandenburg Concerto No. 3 in G, BWV 1048: 1. (Allegro)                                           | Concerto for Violin and Strings in E Major, Op. 8, No. 1, RV 269 "La Primavera": III. Allegro (Danza pastorale)     |
-| Brandenburg Concerto No. 2 in F, BWV 1047: 3. Allegro assai                                       | Concerto for Violin and Strings in F Major, Op. 8, No. 3, RV 293 "L'autunno": II. Adagio molto (Ubriachi dormienti) |
-| Brandenburg Concerto No. 4 in G, BWV 1049: 1. Allegro                                             | Violin Concerto in E Major, Op. 8, No. 1, RV 269 "La Primavera": I. Allegro                                         |
-| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto                 | Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: III. Allegro                               |
-| Cello Suite No. 1 in G Major, BWV 1007: VI. Gigue                                                 | Violin Concerto in G Minor, Op. 8, No. 2, RV 315 "L'estate": III. Presto (Tempo impetuoso d'estate)                 |
+| Vivaldi: The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 "Winter": III. Allegro | Violin Concerto in G Minor, Op. 8, No. 2, RV 315 "L'estate": III. Presto (Tempo impetuoso d'estate)                 |
+| Cello Suite No. 1 in G Major, BWV 1007: II. Allemande                                             | Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: III. Allegro                               |
+| Cello Suite No. 6 in D Major, BWV 1012: I. Prélude                                                | Violin Concerto in E Major, Op. 8, No. 1, RV 269 "La Primavera": I. Allegro                                         |
+| Cello Suite No. 1 in G Major, BWV 1007: I. Prélude                                                | Concerto for Violin and Strings in F Major, Op. 8, No. 3, RV 293 "L'autunno": II. Adagio molto (Ubriachi dormienti) |
+| Brandenburg Concerto No. 5 in D, BWV 1050: 3. Allegro                                             | Concerto for Violin and Strings in E Major, Op. 8, No. 1, RV 269 "La Primavera": III. Allegro (Danza pastorale)     |
+| Brandenburg Concerto No. 3 in G, BWV 1048: 1. (Allegro)                                           | Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: I. (Allegro)                               |
+| Brandenburg Concerto No. 2 in F, BWV 1047: 3. Allegro assai                                       | Brandenburg Concerto No. 4 in G, BWV 1049: 3. Presto                                                                |
+| Brandenburg Concerto No. 4 in G, BWV 1049: 1. Allegro                                             | Cello Suite No. 1 in G Major, BWV 1007: III. Courante                                                               |
+| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto                 | Purcell: Hear My Prayer, O Lord, Z. 15                                                                              |
+| Cello Suite No. 1 in G Major, BWV 1007: VI. Gigue                                                 | Brandenburg Concerto No. 1 in F, BWV 1046: 2. Adagio                                                                |
 
 | 10 most Acoustic tracks                                                                                            | 10 least Acoustic tracks                                                                                            |
 |:-------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------|
-| Purcell: Hear My Prayer, O Lord, Z. 15                                                                             | Brandenburg Concerto No. 1 in F, BWV 1046: 2. Adagio                                                                |
-| Hear my prayer, O Lord                                                                                             | Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: II. Largo                                  |
-| Cello Suite No. 6 in D Major, BWV 1012: I. Prélude                                                                 | Concerto for Violin and Strings in G Minor, Op. 8, No. 2, RV 315 "L'estate": I. Allegro non molto - Allegro         |
-| Cello Suite No. 6 in D Major, BWV 1012: II. Allemande                                                              | Vivaldi: The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 "Spring": III. Allegro                   |
-| Cello Suite No. 2 in D Minor, BWV 1008: V. Menuets I & II                                                          | Vivaldi: The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 "Summer": I. Allegro non molto           |
-| Brandenburg Concerto No. 1 in F, BWV 1046: 4. Menuetto: Trio I                                                     | Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": II. Largo                                             |
-| Cello Suite No. 6 in D Major, BWV 1012: V. Gavottes I & II                                                         | Concerto for Violin and Strings in E Major, Op. 8, No. 1, RV 269 "La Primavera": III. Allegro (Danza pastorale)     |
-| Cello Suite No. 2 in D Minor, BWV 1008: VI. Gigue                                                                  | Vivaldi: The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 "Winter": II. Largo                      |
-| Vivaldi: The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 "Spring": II. Largo e pianissimo sempre | Concerto for Violin and Strings in F Major, Op. 8, No. 3, RV 293 "L'autunno": II. Adagio molto (Ubriachi dormienti) |
-| Brandenburg Concerto No. 5 in D, BWV 1050: 2. Affetuoso                                                            | Vivaldi: The Four Seasons, Violin Concerto in F Major, Op. 8 No. 3, RV 293 "Autumn": II. Adagio molto               |
+| Purcell: Hear My Prayer, O Lord, Z. 15                                                                             | Vivaldi: The Four Seasons, Violin Concerto in F Major, Op. 8 No. 3, RV 293 "Autumn": II. Adagio molto               |
+| Hear my prayer, O Lord                                                                                             | Concerto for Violin and Strings in F Major, Op. 8, No. 3, RV 293 "L'autunno": II. Adagio molto (Ubriachi dormienti) |
+| Cello Suite No. 6 in D Major, BWV 1012: I. Prélude                                                                 | Vivaldi: The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 "Winter": II. Largo                      |
+| Cello Suite No. 6 in D Major, BWV 1012: II. Allemande                                                              | Concerto for Violin and Strings in E Major, Op. 8, No. 1, RV 269 "La Primavera": III. Allegro (Danza pastorale)     |
+| Cello Suite No. 2 in D Minor, BWV 1008: V. Menuets I & II                                                          | Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": II. Largo                                             |
+| Brandenburg Concerto No. 1 in F, BWV 1046: 4. Menuetto: Trio I                                                     | Vivaldi: The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 "Summer": I. Allegro non molto           |
+| Cello Suite No. 6 in D Major, BWV 1012: V. Gavottes I & II                                                         | Vivaldi: The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 "Spring": III. Allegro                   |
+| Cello Suite No. 2 in D Minor, BWV 1008: VI. Gigue                                                                  | Concerto for Violin and Strings in G Minor, Op. 8, No. 2, RV 315 "L'estate": I. Allegro non molto - Allegro         |
+| Vivaldi: The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 "Spring": II. Largo e pianissimo sempre | Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: II. Largo                                  |
+| Brandenburg Concerto No. 5 in D, BWV 1050: 2. Affetuoso                                                            | Brandenburg Concerto No. 1 in F, BWV 1046: 2. Adagio                                                                |
 
 | 10 most Instrumental tracks                                | 10 least Instrumental tracks                                                                                        |
 |:-----------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------|
-| Cello Suite No. 2 in D Minor, BWV 1008: I. Prélude         | Concerto for Violin and Strings in G Minor, Op. 8, No. 2, RV 315 "L'estate": II. Adagio - Presto - Adagio           |
-| Cello Suite No. 2 in D Minor, BWV 1008: III. Courante      | Concerto for Violin and Strings in G Minor, Op. 8, No. 2, RV 315 "L'estate": I. Allegro non molto - Allegro         |
-| Cello Suite No. 2 in D Minor, BWV 1008: II. Allemande      | Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": III. Allegro                                          |
-| Cello Suite No. 5 in C Minor, BWV 1011: II. Allemande      | Vivaldi: The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 "Winter": II. Largo                      |
-| Cello Suite No. 4 in E-Flat Major, BWV 1010: III. Courante | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: III. Allegro                                       |
-| Cello Suite No. 3 in C Major, BWV 1009: V. Bourrées I & II | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto                                   |
-| Cello Suite No. 2 in D Minor, BWV 1008: VI. Gigue          | Concerto for Violin and Strings in E Major, Op. 8, No. 1, RV 269 "La Primavera": III. Allegro (Danza pastorale)     |
-| Cello Suite No. 5 in C Minor, BWV 1011: VI. Gigue          | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: II. Andante (molto)                                |
-| Cello Suite No. 6 in D Major, BWV 1012: III. Courante      | Concerto for Violin and Strings in F Major, Op. 8, No. 3, RV 293 "L'autunno": II. Adagio molto (Ubriachi dormienti) |
-| Cello Suite No. 1 in G Major, BWV 1007: II. Allemande      | Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": II. Largo                                             |
+| Cello Suite No. 2 in D Minor, BWV 1008: I. Prélude         | Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": II. Largo                                             |
+| Cello Suite No. 2 in D Minor, BWV 1008: III. Courante      | Concerto for Violin and Strings in F Major, Op. 8, No. 3, RV 293 "L'autunno": II. Adagio molto (Ubriachi dormienti) |
+| Cello Suite No. 2 in D Minor, BWV 1008: II. Allemande      | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: II. Andante (molto)                                |
+| Cello Suite No. 5 in C Minor, BWV 1011: II. Allemande      | Concerto for Violin and Strings in E Major, Op. 8, No. 1, RV 269 "La Primavera": III. Allegro (Danza pastorale)     |
+| Cello Suite No. 4 in E-Flat Major, BWV 1010: III. Courante | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto                                   |
+| Cello Suite No. 3 in C Major, BWV 1009: V. Bourrées I & II | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: III. Allegro                                       |
+| Cello Suite No. 2 in D Minor, BWV 1008: VI. Gigue          | Vivaldi: The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 "Winter": II. Largo                      |
+| Cello Suite No. 5 in C Minor, BWV 1011: VI. Gigue          | Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": III. Allegro                                          |
+| Cello Suite No. 6 in D Major, BWV 1012: III. Courante      | Concerto for Violin and Strings in G Minor, Op. 8, No. 2, RV 315 "L'estate": I. Allegro non molto - Allegro         |
+| Cello Suite No. 1 in G Major, BWV 1007: II. Allemande      | Concerto for Violin and Strings in G Minor, Op. 8, No. 2, RV 315 "L'estate": II. Adagio - Presto - Adagio           |
 
 | 10 most Live tracks                                                                                       | 10 least Live tracks                                                                                                |
 |:----------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------|
-| Cello Suite No. 6 in D Major, BWV 1012: V. Gavottes I & II                                                | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto                                   |
-| Brandenburg Concerto No. 4 in G, BWV 1049: 1. Allegro                                                     | Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": I. Allegro non molto                                  |
-| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: I. (Allegro)                     | Cello Suite No. 1 in G Major, BWV 1007: I. Prélude                                                                  |
-| Vivaldi: The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 "Summer": II. Adagio           | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: III. Allegro                                       |
-| Violin Concerto in G Minor, Op. 8, No. 2, RV 315 "L'estate": III. Presto (Tempo impetuoso d'estate)       | Violin Concerto in F Major, Op. 8, No. 3, RV 293 "L'autunno": I. Allegro (Ballo, e canto de' villanelli)            |
-| Cello Suite No. 4 in E-Flat Major, BWV 1010: II. Allemande                                                | Concerto for Violin and Strings in E Major, Op. 8, No. 1, RV 269 "La Primavera": II. Largo                          |
-| Cello Suite No. 3 in C Major, BWV 1009: I. Prélude                                                        | Vivaldi: The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 "Spring": II. Largo e pianissimo sempre  |
-| Brandenburg Concerto No. 4 in G, BWV 1049: 3. Presto                                                      | Vivaldi: The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 "Winter": I. Allegro non molto           |
-| Cello Suite No. 1 in G Major, BWV 1007: V. Menuets I & II                                                 | Concerto for Violin and Strings in E Major, Op. 8, No. 1, RV 269 "La Primavera": III. Allegro (Danza pastorale)     |
-| Concerto for Violin and Strings in G Minor, Op. 8, No. 2, RV 315 "L'estate": II. Adagio - Presto - Adagio | Concerto for Violin and Strings in F Major, Op. 8, No. 3, RV 293 "L'autunno": II. Adagio molto (Ubriachi dormienti) |
+| Cello Suite No. 6 in D Major, BWV 1012: V. Gavottes I & II                                                | Concerto for Violin and Strings in F Major, Op. 8, No. 3, RV 293 "L'autunno": II. Adagio molto (Ubriachi dormienti) |
+| Brandenburg Concerto No. 4 in G, BWV 1049: 1. Allegro                                                     | Concerto for Violin and Strings in E Major, Op. 8, No. 1, RV 269 "La Primavera": III. Allegro (Danza pastorale)     |
+| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: I. (Allegro)                     | Vivaldi: The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 "Winter": I. Allegro non molto           |
+| Vivaldi: The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 "Summer": II. Adagio           | Vivaldi: The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 "Spring": II. Largo e pianissimo sempre  |
+| Violin Concerto in G Minor, Op. 8, No. 2, RV 315 "L'estate": III. Presto (Tempo impetuoso d'estate)       | Concerto for Violin and Strings in E Major, Op. 8, No. 1, RV 269 "La Primavera": II. Largo                          |
+| Cello Suite No. 4 in E-Flat Major, BWV 1010: II. Allemande                                                | Violin Concerto in F Major, Op. 8, No. 3, RV 293 "L'autunno": I. Allegro (Ballo, e canto de' villanelli)            |
+| Cello Suite No. 3 in C Major, BWV 1009: I. Prélude                                                        | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: III. Allegro                                       |
+| Brandenburg Concerto No. 4 in G, BWV 1049: 3. Presto                                                      | Cello Suite No. 1 in G Major, BWV 1007: I. Prélude                                                                  |
+| Cello Suite No. 1 in G Major, BWV 1007: V. Menuets I & II                                                 | Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": I. Allegro non molto                                  |
+| Concerto for Violin and Strings in G Minor, Op. 8, No. 2, RV 315 "L'estate": II. Adagio - Presto - Adagio | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto                                   |
 
 | 10 most Happy tracks                                        | 10 least Happy tracks                                                                                               |
 |:------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------|
-| Brandenburg Concerto No. 2 in F, BWV 1047: 3. Allegro assai | Vivaldi: The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 "Spring": II. Largo e pianissimo sempre  |
-| Cello Suite No. 3 in C Major, BWV 1009: III. Courante       | Cello Suite No. 5 in C Minor, BWV 1011: IV. Sarabande                                                               |
-| Cello Suite No. 4 in E-Flat Major, BWV 1010: VI. Gigue      | Cello Suite No. 2 in D Minor, BWV 1008: IV. Sarabande                                                               |
-| Cello Suite No. 2 in D Minor, BWV 1008: III. Courante       | Vivaldi: Violin Concerto in G Minor, Op. 12 No. 1, RV 317: II. Largo                                                |
-| Cello Suite No. 6 in D Major, BWV 1012: V. Gavottes I & II  | Brandenburg Concerto No. 1 in F, BWV 1046: 2. Adagio                                                                |
-| Brandenburg Concerto No. 3 in G, BWV 1048: 3. Allegro       | Purcell: Hear My Prayer, O Lord, Z. 15                                                                              |
-| Brandenburg Concerto No. 2 in F, BWV 1047: 1. (Allegro)     | Vivaldi: The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 "Summer": II. Adagio                     |
-| Brandenburg Concerto No. 1 in F, BWV 1046: 3. Allegro       | Hear my prayer, O Lord                                                                                              |
-| Cello Suite No. 6 in D Major, BWV 1012: III. Courante       | Concerto for Violin and Strings in F Major, Op. 8, No. 3, RV 293 "L'autunno": II. Adagio molto (Ubriachi dormienti) |
-| Cello Suite No. 2 in D Minor, BWV 1008: VI. Gigue           | Vivaldi: The Four Seasons, Violin Concerto in F Major, Op. 8 No. 3, RV 293 "Autumn": II. Adagio molto               |
+| Brandenburg Concerto No. 2 in F, BWV 1047: 3. Allegro assai | Vivaldi: The Four Seasons, Violin Concerto in F Major, Op. 8 No. 3, RV 293 "Autumn": II. Adagio molto               |
+| Cello Suite No. 3 in C Major, BWV 1009: III. Courante       | Concerto for Violin and Strings in F Major, Op. 8, No. 3, RV 293 "L'autunno": II. Adagio molto (Ubriachi dormienti) |
+| Cello Suite No. 4 in E-Flat Major, BWV 1010: VI. Gigue      | Hear my prayer, O Lord                                                                                              |
+| Cello Suite No. 2 in D Minor, BWV 1008: III. Courante       | Vivaldi: The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 "Summer": II. Adagio                     |
+| Cello Suite No. 6 in D Major, BWV 1012: V. Gavottes I & II  | Purcell: Hear My Prayer, O Lord, Z. 15                                                                              |
+| Brandenburg Concerto No. 3 in G, BWV 1048: 3. Allegro       | Brandenburg Concerto No. 1 in F, BWV 1046: 2. Adagio                                                                |
+| Brandenburg Concerto No. 2 in F, BWV 1047: 1. (Allegro)     | Vivaldi: Violin Concerto in G Minor, Op. 12 No. 1, RV 317: II. Largo                                                |
+| Brandenburg Concerto No. 1 in F, BWV 1046: 3. Allegro       | Cello Suite No. 2 in D Minor, BWV 1008: IV. Sarabande                                                               |
+| Cello Suite No. 6 in D Major, BWV 1012: III. Courante       | Cello Suite No. 5 in C Minor, BWV 1011: IV. Sarabande                                                               |
+| Cello Suite No. 2 in D Minor, BWV 1008: VI. Gigue           | Vivaldi: The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 "Spring": II. Largo e pianissimo sempre  |

@@ -30,16 +30,16 @@ Appears as:
 <details>
 <summary>See all 8 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album       | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:------------|:-----------------------------------------------------------|
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | 21          | [🔗](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27322ca59e5c2d806439d5f08a2" alt="" width="50" /> | The Bends   | [🔗](https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273adb1732fa8d44b8eb2f6c0bf" alt="" width="50" /> | OK Computer | [🔗](https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="" width="50" /> | In Rainbows | [🔗](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732737be35cc5245eef495be90" alt="" width="50" /> | Skyfall     | [🔗](https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732f85b65d3ac4d3d7f806ca11" alt="" width="50" /> | Pablo Honey | [🔗](https://open.spotify.com/album/6400dnyeDyD2mIFHfkwHXN) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27301b50e75c5aa46fb8ce0cd32" alt="" width="50" /> | Amnesiac    | [🔗](https://open.spotify.com/album/6V9YnBmFjWmXCBaUVRCVXP) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f407037aabc6dffe5abb3bf8" alt="" width="50" /> | 19          | [🔗](https://open.spotify.com/album/1ydnyXPdmHrWXqXDgtQCPf) |
+|   Number of Tracks | Art                                                                                              | Album       | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:------------|:---------------|:-----------------------------------------------------------|
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | 21          | 2011-01-24     | [🔗](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27322ca59e5c2d806439d5f08a2" alt="" width="50" /> | The Bends   | 1995-03-28     | [🔗](https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273adb1732fa8d44b8eb2f6c0bf" alt="" width="50" /> | OK Computer | 1997-05-28     | [🔗](https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="" width="50" /> | In Rainbows | 2007-12-28     | [🔗](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732737be35cc5245eef495be90" alt="" width="50" /> | Skyfall     | 2012-10-04     | [🔗](https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732f85b65d3ac4d3d7f806ca11" alt="" width="50" /> | Pablo Honey | 1993-02-22     | [🔗](https://open.spotify.com/album/6400dnyeDyD2mIFHfkwHXN) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27301b50e75c5aa46fb8ce0cd32" alt="" width="50" /> | Amnesiac    | 2001-03-12     | [🔗](https://open.spotify.com/album/6V9YnBmFjWmXCBaUVRCVXP) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f407037aabc6dffe5abb3bf8" alt="" width="50" /> | 19          | 2008-01-28     | [🔗](https://open.spotify.com/album/1ydnyXPdmHrWXqXDgtQCPf) |
 
 </details>
 

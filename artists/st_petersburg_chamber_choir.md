@@ -10,9 +10,9 @@
 |                 15 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730baa26fb49c09c910a031d24ab67616d0000b2730c8397c0c79c33e6f350ee52ab67616d0000b273397c1f0c407ebd9a318b25faab67616d0000b273609d14b25e86640a2a69c534" alt="" width="50" /> | [Choral](../playlists/choral/overview.md) |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album                                  | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:-----------------------------------------------------------|
-|                 15 | <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="" width="50" /> | Rachmaninov: Vespers - All Night Vigil | [🔗](https://open.spotify.com/album/7hqotgNjEJt09XiggaMI1v) |
+|   Number of Tracks | Art                                                                                              | Album                                  |   Release Date | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|---------------:|:-----------------------------------------------------------|
+|                 15 | <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="" width="50" /> | Rachmaninov: Vespers - All Night Vigil |           1994 | [🔗](https://open.spotify.com/album/7hqotgNjEJt09XiggaMI1v) |
 
 ## Top Record Labels
 

@@ -41,22 +41,22 @@ Appears as:
 <details>
 <summary>See all 14 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                   | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------|:-----------------------------------------------------------|
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | Teenage Dream                           | [🔗](https://open.spotify.com/album/3BoUxfC7YhxNq3TpOfnRif) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2730e402844f1b6be3102d339f2" alt="" width="50" /> | Lemon Love                              | [🔗](https://open.spotify.com/album/5YToJrWwzdA6W2NxxDoteE) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27341aa6776dc15fbd71a2b4557" alt="" width="50" /> | Youngblood (Deluxe)                     | [🔗](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701" alt="" width="50" /> | The Nat King Cole Story                 | [🔗](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273937af329667311f4b2831616" alt="" width="50" /> | Teenage Dream: The Complete Confection  | [🔗](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730fdfb62956211c999c39a5a3" alt="" width="50" /> | Surrender                               | [🔗](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273724a0cb04dbc89d9dd6ee06d" alt="" width="50" /> | Super One -The 1st Album                | [🔗](https://open.spotify.com/album/10fdwvVIpa0raPkZUTILAt) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b9ea1c69fe9efbdc2df85a95" alt="" width="50" /> | Songs For Swingin' Lovers! (Remastered) | [🔗](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | SUGA's Interlude                        | [🔗](https://open.spotify.com/album/0JfaSjTaej3QB27ofjnbQV) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b53a4da797ba5472d3330b69" alt="" width="50" /> | One Of The Boys                         | [🔗](https://open.spotify.com/album/5c6MKfLcLB17DlJlFtVmyc) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737636e1c9e67eaafc9f49aefd" alt="" width="50" /> | Manic                                   | [🔗](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1113af3a19a41dc8eec534e" alt="" width="50" /> | Luck Of The Draw                        | [🔗](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d658a02ba8931985bdc4e0da" alt="" width="50" /> | Heard It In A Past Life                 | [🔗](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="" width="50" /> | Come Fly With Me (Remastered)           | [🔗](https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE) |
+|   Number of Tracks | Art                                                                                              | Album                                   | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------|:---------------|:-----------------------------------------------------------|
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | Teenage Dream                           | 2010-01-01     | [🔗](https://open.spotify.com/album/3BoUxfC7YhxNq3TpOfnRif) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2730e402844f1b6be3102d339f2" alt="" width="50" /> | Lemon Love                              | 2005-01-01     | [🔗](https://open.spotify.com/album/5YToJrWwzdA6W2NxxDoteE) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27341aa6776dc15fbd71a2b4557" alt="" width="50" /> | Youngblood (Deluxe)                     | 2018-06-15     | [🔗](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701" alt="" width="50" /> | The Nat King Cole Story                 | 1991-01-01     | [🔗](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273937af329667311f4b2831616" alt="" width="50" /> | Teenage Dream: The Complete Confection  | 2012-03-12     | [🔗](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730fdfb62956211c999c39a5a3" alt="" width="50" /> | Surrender                               | 2022-07-29     | [🔗](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273724a0cb04dbc89d9dd6ee06d" alt="" width="50" /> | Super One -The 1st Album                | 2020-09-25     | [🔗](https://open.spotify.com/album/10fdwvVIpa0raPkZUTILAt) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b9ea1c69fe9efbdc2df85a95" alt="" width="50" /> | Songs For Swingin' Lovers! (Remastered) | 1956-03        | [🔗](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | SUGA's Interlude                        | 2019-12-06     | [🔗](https://open.spotify.com/album/0JfaSjTaej3QB27ofjnbQV) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b53a4da797ba5472d3330b69" alt="" width="50" /> | One Of The Boys                         | 2008-06-17     | [🔗](https://open.spotify.com/album/5c6MKfLcLB17DlJlFtVmyc) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737636e1c9e67eaafc9f49aefd" alt="" width="50" /> | Manic                                   | 2020-01-17     | [🔗](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1113af3a19a41dc8eec534e" alt="" width="50" /> | Luck Of The Draw                        | 1991-01-01     | [🔗](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d658a02ba8931985bdc4e0da" alt="" width="50" /> | Heard It In A Past Life                 | 2019-01-18     | [🔗](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="" width="50" /> | Come Fly With Me (Remastered)           | 1958           | [🔗](https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE) |
 
 </details>
 

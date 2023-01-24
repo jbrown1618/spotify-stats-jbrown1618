@@ -12,10 +12,10 @@
 |                 14 | <img src="https://i.scdn.co/image/ab67616d0000b273fdf2a7d7437db7a75da73167" alt="" width="50" />                                                                                                                            | [Mozart](../playlists/mozart/overview.md)               |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album                                 | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------|:-----------------------------------------------------------|
-|                 17 | <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="" width="50" /> | Mussorgsky: Pictures At An Exhibition | [🔗](https://open.spotify.com/album/1b2aoeaYZZBWmJoavOQhnd) |
-|                 14 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | Karajan - Mozart                      | [🔗](https://open.spotify.com/album/1HSJhsMIW2EDD4YSSkbc9e) |
+|   Number of Tracks | Art                                                                                              | Album                                 | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------|:---------------|:-----------------------------------------------------------|
+|                 17 | <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="" width="50" /> | Mussorgsky: Pictures At An Exhibition | 2016-12-02     | [🔗](https://open.spotify.com/album/1b2aoeaYZZBWmJoavOQhnd) |
+|                 14 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | Karajan - Mozart                      | 2020-06-16     | [🔗](https://open.spotify.com/album/1HSJhsMIW2EDD4YSSkbc9e) |
 
 ## Top Record Labels
 

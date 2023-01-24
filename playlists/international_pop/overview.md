@@ -129,94 +129,94 @@
 <details>
 <summary>See all 86 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                                                                               | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------|:-----------------------------------------------------------|
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="" width="50" /> | METAL RESISTANCE                                                                                    | [🔗](https://open.spotify.com/album/2vIRdYffs93ca7L0Eh4mTm) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27315249cb1ee9b66f0aacfffe8" alt="" width="50" /> | Under the Surface                                                                                   | [🔗](https://open.spotify.com/album/6ISIdF1gCK9X8pn4FaObHE) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2732bb4e77f30c614c2a7b67b9d" alt="" width="50" /> | METAL GALAXY                                                                                        | [🔗](https://open.spotify.com/album/6rxRhft7JZtXavzHP2g2el) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273bbf9d502f3ce4a15b3c43f7a" alt="" width="50" /> | Editorial                                                                                           | [🔗](https://open.spotify.com/album/22nXr9DqkTAp1Y0GT1ialu) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273714fc63956d45e97196c7af7" alt="" width="50" /> | EXPLORE!                                                                                            | [🔗](https://open.spotify.com/album/6TXaOwBLoyJrD6vem7L8Ba) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="" width="50" /> | BABYMETAL                                                                                           | [🔗](https://open.spotify.com/album/6Eepi724OOt38pTaUrZErI) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733c5bfa54ae5e8312f5e0325a" alt="" width="50" /> | 青春修炼手册                                                                                              | [🔗](https://open.spotify.com/album/5sJB1R7udfChkgp5VRfY07) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735900a9808de7e716bdd49526" alt="" width="50" /> | 醒不来的梦                                                                                               | [🔗](https://open.spotify.com/album/6C9V6icEpoNhYtd75PM3OS) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e7ba5d5ba7ea0f853ba37f24" alt="" width="50" /> | 翼はいらない<Type A>(通常盤)                                                                                 | [🔗](https://open.spotify.com/album/5fTeBDOk2HaA6MwHSspPIx) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f66f9c01e819b80a87af4f2d" alt="" width="50" /> | 白月光与朱砂痣                                                                                             | [🔗](https://open.spotify.com/album/22QqokF4etKGtDv3BrNvXK) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e0dc47dd1584c66ad4492094" alt="" width="50" /> | 炎                                                                                                   | [🔗](https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ced490e566f828ee9ca8d263" alt="" width="50" /> | 潜潜話                                                                                                 | [🔗](https://open.spotify.com/album/4myzXA54fPm89hpW41YkOS) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734df4e8ec1f66ebb6b63c14c2" alt="" width="50" /> | 海嘯                                                                                                  | [🔗](https://open.spotify.com/album/06yEqpc6KFxUZ5BxE7V7TN) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d7778a0dded534f3b95145e" alt="" width="50" /> | 次の足跡 Type A <初回限定盤>                                                                                 | [🔗](https://open.spotify.com/album/4Mz79lV4qxaywmthkarIf7) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e74d5d14b01d404e1984ece7" alt="" width="50" /> | 改變自己                                                                                                | [🔗](https://open.spotify.com/album/7yjS4CBFK0f9oQsVrcdNNW) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f609c79794752ed7ee0976b5" alt="" width="50" /> | 怪物                                                                                                  | [🔗](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ba16f5c6c4e2d873996a81a7" alt="" width="50" /> | 怎樣                                                                                                  | [🔗](https://open.spotify.com/album/5wBnaUSaYmG7PH39bRIr1H) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731b6057e116a54d99708f77ae" alt="" width="50" /> | 如果雨之後                                                                                               | [🔗](https://open.spotify.com/album/63lCCebNDe20nxyCvFWk8g) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273110af1ee291450d9e86a05a4" alt="" width="50" /> | 太平盛世                                                                                                | [🔗](https://open.spotify.com/album/1XnDRFsNxG12nZPRXNcPkU) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a09d99cdbfdb0fafee0c2318" alt="" width="50" /> | 刻在我心底的名字 (Your Name Engraved Herein)                                                                | [🔗](https://open.spotify.com/album/5RG4bEVKGMdLaEIv1dofR2) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27312b39d20292978b5e5800ed3" alt="" width="50" /> | 一比一                                                                                                 | [🔗](https://open.spotify.com/album/3Om643lyJZiG4AYBr7TwDc) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735133ecfa0dea624548289aa5" alt="" width="50" /> | קוביות                                                                                              | [🔗](https://open.spotify.com/album/78V1vURpHgBC2SaU6ZbIYF) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27347e6c8b41b5546781d84b5e7" alt="" width="50" /> | עושה לי צרות                                                                                        | [🔗](https://open.spotify.com/album/2FHZElS1XugIYG10xE80aR) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273caae7b75fb240dd81f3f7129" alt="" width="50" /> | ממותה                                                                                               | [🔗](https://open.spotify.com/album/0F59OTwMP1IRvvX3CzeO9G) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731bccd0e65da477d7f815e229" alt="" width="50" /> | מי זאת                                                                                              | [🔗](https://open.spotify.com/album/3vAQYVlLZrzs7lrjisl5VC) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ec71813c0c13422d225981da" alt="" width="50" /> | לך לישון                                                                                            | [🔗](https://open.spotify.com/album/6Wh0It79i26j0IWWzm3axe) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739b835b4be5631a28c4725a14" alt="" width="50" /> | בשורות טובות                                                                                        | [🔗](https://open.spotify.com/album/1oBfvjTLPPfUEO4R6FqzRl) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737eb0b6f27578d87476a12667" alt="" width="50" /> | Σ                                                                                                   | [🔗](https://open.spotify.com/album/5MruJPW5X4cal6bpN7llrF) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732413b55cebef0c99396fd854" alt="" width="50" /> | Échame La Culpa                                                                                     | [🔗](https://open.spotify.com/album/2Tt0EzXpempSOIHFXVX42v) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739792873842bcfa921ffceebf" alt="" width="50" /> | i'mperfect                                                                                          | [🔗](https://open.spotify.com/album/04ygc7Z2gcGtt7m8pnVUwf) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273752d2becbb91841a31c556b8" alt="" width="50" /> | Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground) | [🔗](https://open.spotify.com/album/3pzQF7YgU1f66pBayA8uHv) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b28db1e5c8c53e67c6969c06" alt="" width="50" /> | Vintage                                                                                             | [🔗](https://open.spotify.com/album/6tGI9MGbLjbxyzcxYkMXPJ) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ef0d4234e1a645740f77d59c" alt="" width="50" /> | VIDA                                                                                                | [🔗](https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273312bd86cc2db22fde885ee73" alt="" width="50" /> | UN DIA (ONE DAY) (Feat. Tainy)                                                                      | [🔗](https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739c4ba827e585fabd3cfd90f2" alt="" width="50" /> | Traveler                                                                                            | [🔗](https://open.spotify.com/album/17gzvH2FPpVhpuqalLFi9j) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fc1e6aac4f02c6864d7a5f90" alt="" width="50" /> | Toy                                                                                                 | [🔗](https://open.spotify.com/album/21YEfZ84TzdjNvOWEdwjeF) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27321d73b676df03ec40a15ef39" alt="" width="50" /> | Tippy Toes                                                                                          | [🔗](https://open.spotify.com/album/6P9erpHs7hgJlca7Tj3F0w) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a5c51e96d2583bfb3e45d504" alt="" width="50" /> | Think About Things                                                                                  | [🔗](https://open.spotify.com/album/5gEUjiNfaVse6oloI0c6Vt) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734ccc03169b086af698178a99" alt="" width="50" /> | The Lion King: The Gift                                                                             | [🔗](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739a9716c90ceeb1890921e44f" alt="" width="50" /> | Te Felicito                                                                                         | [🔗](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27304c7f62f1ecf29cfc4c1df3b" alt="" width="50" /> | Söngvakeppnin 2020                                                                                  | [🔗](https://open.spotify.com/album/32ypMgv8eQ7ACVd2uBaPG7) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734f95dabfc67540ee3823dad6" alt="" width="50" /> | Sofa Silahlane                                                                                      | [🔗](https://open.spotify.com/album/03FGhGM3Lv2TmbUdpoPPip) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734661cf765439018ebb7e0009" alt="" width="50" /> | Sin Pijama                                                                                          | [🔗](https://open.spotify.com/album/6hAxqfWO3xDGzjs8yad1pB) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27327ca5326f9c8cc55b3efd7b5" alt="" width="50" /> | SUN                                                                                                 | [🔗](https://open.spotify.com/album/1hWhflOpUh3IS1UeYHIW8V) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e742841accccf949d7af1b75" alt="" width="50" /> | Racine Carrée (Standard US Version)                                                                 | [🔗](https://open.spotify.com/album/22yd3bcffqUO7Pn5nsDaoj) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c6732b7695d4e84cfdb81d73" alt="" width="50" /> | Pleasure                                                                                            | [🔗](https://open.spotify.com/album/2O40oGNRh8jJTCfutKMRkl) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733f3d35703bdcd917dad51c4f" alt="" width="50" /> | Pasoori                                                                                             | [🔗](https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27302a856097c809fb56c23cfb2" alt="" width="50" /> | POP VIRUS                                                                                           | [🔗](https://open.spotify.com/album/7oFLY1YL5bBI32UHsmQO6q) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27359c2f8304319dcd03eb4ead7" alt="" width="50" /> | PINK BLOOD                                                                                          | [🔗](https://open.spotify.com/album/4eQs3mcSejRAVTWmaYXNYl) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737c89c4758b84b698f1598821" alt="" width="50" /> | Non mi avete fatto niente                                                                           | [🔗](https://open.spotify.com/album/3Qs5bBmUVXpZBcEkw4uxJ8) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27348cbdef454b5636ee5ebeb34" alt="" width="50" /> | No title-                                                                                           | [🔗](https://open.spotify.com/album/5qPZrSLh2oecfujdUZqgmy) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733e4b149dd3110f1432bfeca0" alt="" width="50" /> | Niche Syndrome                                                                                      | [🔗](https://open.spotify.com/album/4OKBuE9F8MTCV7nnsBRcsK) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27314b31a0ac21c8645919204a8" alt="" width="50" /> | Ne reviens pas                                                                                      | [🔗](https://open.spotify.com/album/0w6UtV9Rd14AqjqcwD3j3l) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d03049930583aecb52977265" alt="" width="50" /> | Miku                                                                                                | [🔗](https://open.spotify.com/album/45jD7ltxM60Arhm5FWF49p) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f6b93cc89e67d749ec3013ee" alt="" width="50" /> | Mercy                                                                                               | [🔗](https://open.spotify.com/album/1uuuqBmA5Xklb3htp7Akke) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b5900aef5989a39a87bda771" alt="" width="50" /> | Memories                                                                                            | [🔗](https://open.spotify.com/album/4tp4dyeVhcG7kM2jUi3Yj5) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e71aaa885c4df5f0a92eab12" alt="" width="50" /> | Me Gusta                                                                                            | [🔗](https://open.spotify.com/album/4IcQ1ni07PmlOenqwf6MgG) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736a986d5aa5b6567ca683f653" alt="" width="50" /> | Lykke te                                                                                            | [🔗](https://open.spotify.com/album/39ktLXlXx02WGz3mUZTxXS) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737bc73fff9f3787c1d8a23167" alt="" width="50" /> | Look At Me                                                                                          | [🔗](https://open.spotify.com/album/3mp41Up4LNhAVLGxl7BAUR) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c99f58d4685a5f438e6c9167" alt="" width="50" /> | Lo Malo                                                                                             | [🔗](https://open.spotify.com/album/0BtpL9HEIaBg95FefsA3Hn) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dd7006a14a1fc3474eb80d51" alt="" width="50" /> | LEXICON                                                                                             | [🔗](https://open.spotify.com/album/089QU9ZClm6mksCrXCDBSi) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27396e164f0c5aac83148bb8f24" alt="" width="50" /> | LEVEL3                                                                                              | [🔗](https://open.spotify.com/album/2DdXcewGp8Akqutak3yLDg) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738874d42c6591770e15618d13" alt="" width="50" /> | Jai Jai Shivshankar (From "War")                                                                    | [🔗](https://open.spotify.com/album/5GvIKf7yN7gjZfYohbvHmj) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27354dbaa284c53e085523cfec2" alt="" width="50" /> | Hijas del Tomate                                                                                    | [🔗](https://open.spotify.com/album/5Fs94v1xXPl8Q1mTMWMTLO) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27356f9cf6a648e96dcaffc1434" alt="" width="50" /> | Heaven                                                                                              | [🔗](https://open.spotify.com/album/3GJjPtV0iPKM3fLPvqdURX) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733e94f2b2c3303120be19210b" alt="" width="50" /> | Habit                                                                                               | [🔗](https://open.spotify.com/album/690rpRAbQW5LNPrbP27M9U) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273731953ff97a79644f6eb7b4e" alt="" width="50" /> | HELP EVER HURT NEVER                                                                                | [🔗](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737aa30221d9dbc1271bae1b05" alt="" width="50" /> | GAME                                                                                                | [🔗](https://open.spotify.com/album/6kzdxF5o6XpDNTLVVdjoMj) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f342e70aacda9d78cfb6ce7a" alt="" width="50" /> | Fijación Oral, Vol. 1                                                                               | [🔗](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273726ac2ca7910c8814a4c78a3" alt="" width="50" /> | Farra                                                                                               | [🔗](https://open.spotify.com/album/1FXVq4BLk6Vl6Kr7TeSoYF) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738d6686937b604899a9347550" alt="" width="50" /> | Evils Theater                                                                                       | [🔗](https://open.spotify.com/album/1UkodLwja64ZFXbehIWnEN) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f4d64a6a6b7e24b6bd9f009f" alt="" width="50" /> | El Mal Querer                                                                                       | [🔗](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d05d3aad30c5fb7614893cf5" alt="" width="50" /> | El Dorado                                                                                           | [🔗](https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a6dd88a097d77eaa6a5f517f" alt="" width="50" /> | Doobey (From "Gehraiyaan")                                                                          | [🔗](https://open.spotify.com/album/48VomBCSqAsYmxI3C3TNSC) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ec2c05eda18004c5cc7a3df3" alt="" width="50" /> | Djadja                                                                                              | [🔗](https://open.spotify.com/album/76VGIFOKrF1rba6Xznep45) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735064363e1b38af783f93f1a7" alt="" width="50" /> | Daisy 2.0 (feat. Hatsune Miku)                                                                      | [🔗](https://open.spotify.com/album/6JZYS7UElSfjyTgFgE1ApG) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273896ffcd42561c44fea2bae7b" alt="" width="50" /> | Con Calma                                                                                           | [🔗](https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27393aa3d384efb79e00fe57555" alt="" width="50" /> | Cara Italia                                                                                         | [🔗](https://open.spotify.com/album/3E3S8FQudapOj9Mpxc5v3N) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a2272c8966971b7b04066241" alt="" width="50" /> | CEREMONY                                                                                            | [🔗](https://open.spotify.com/album/1IYJeRjWNruxAKls5cBtqm) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273709a3fc128e4d453fab4d14e" alt="" width="50" /> | Bunny                                                                                               | [🔗](https://open.spotify.com/album/7KJoNDndoJuxoFVl57NaVk) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732433cb43f0f2f0f23b7c8b82" alt="" width="50" /> | Brol                                                                                                | [🔗](https://open.spotify.com/album/6KSvWFf4g4PrIldtchJsTC) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ee7af6e271d04c728d8a47ba" alt="" width="50" /> | Bando                                                                                               | [🔗](https://open.spotify.com/album/3UtdQcbHhNlEi79pS3282l) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f038f68827e437530b3a80a8" alt="" width="50" /> | BOOTLEG                                                                                             | [🔗](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27356bcdbdd16ff6781b8371c7f" alt="" width="50" /> | A BEST                                                                                              | [🔗](https://open.spotify.com/album/2B7L6R25vI22f1sIgV9k2F) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273073bc2070f7fa02b2a6bda64" alt="" width="50" /> | 11:11                                                                                               | [🔗](https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27395605660a166c33bbf6d4a25" alt="" width="50" /> | & Co.                                                                                               | [🔗](https://open.spotify.com/album/4pS7NXSZNbvREVxKkOge3I) |
+|   Number of Tracks | Art                                                                                              | Album                                                                                               | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="" width="50" /> | METAL RESISTANCE                                                                                    | 2016-04-01     | [🔗](https://open.spotify.com/album/2vIRdYffs93ca7L0Eh4mTm) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27315249cb1ee9b66f0aacfffe8" alt="" width="50" /> | Under the Surface                                                                                   | 2019-02-22     | [🔗](https://open.spotify.com/album/6ISIdF1gCK9X8pn4FaObHE) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2732bb4e77f30c614c2a7b67b9d" alt="" width="50" /> | METAL GALAXY                                                                                        | 2019-10-11     | [🔗](https://open.spotify.com/album/6rxRhft7JZtXavzHP2g2el) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273bbf9d502f3ce4a15b3c43f7a" alt="" width="50" /> | Editorial                                                                                           | 2021-08-18     | [🔗](https://open.spotify.com/album/22nXr9DqkTAp1Y0GT1ialu) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273714fc63956d45e97196c7af7" alt="" width="50" /> | EXPLORE!                                                                                            | 2015-11-25     | [🔗](https://open.spotify.com/album/6TXaOwBLoyJrD6vem7L8Ba) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="" width="50" /> | BABYMETAL                                                                                           | 2015-05-11     | [🔗](https://open.spotify.com/album/6Eepi724OOt38pTaUrZErI) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733c5bfa54ae5e8312f5e0325a" alt="" width="50" /> | 青春修炼手册                                                                                              | 2017-01-01     | [🔗](https://open.spotify.com/album/5sJB1R7udfChkgp5VRfY07) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735900a9808de7e716bdd49526" alt="" width="50" /> | 醒不来的梦                                                                                               | 2020-12-15     | [🔗](https://open.spotify.com/album/6C9V6icEpoNhYtd75PM3OS) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e7ba5d5ba7ea0f853ba37f24" alt="" width="50" /> | 翼はいらない<Type A>(通常盤)                                                                                 | 2016-06-01     | [🔗](https://open.spotify.com/album/5fTeBDOk2HaA6MwHSspPIx) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f66f9c01e819b80a87af4f2d" alt="" width="50" /> | 白月光与朱砂痣                                                                                             | 2021-01-01     | [🔗](https://open.spotify.com/album/22QqokF4etKGtDv3BrNvXK) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e0dc47dd1584c66ad4492094" alt="" width="50" /> | 炎                                                                                                   | 2020-10-12     | [🔗](https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ced490e566f828ee9ca8d263" alt="" width="50" /> | 潜潜話                                                                                                 | 2019-10-29     | [🔗](https://open.spotify.com/album/4myzXA54fPm89hpW41YkOS) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734df4e8ec1f66ebb6b63c14c2" alt="" width="50" /> | 海嘯                                                                                                  | 2001-05-10     | [🔗](https://open.spotify.com/album/06yEqpc6KFxUZ5BxE7V7TN) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d7778a0dded534f3b95145e" alt="" width="50" /> | 次の足跡 Type A <初回限定盤>                                                                                 | 2014-01-22     | [🔗](https://open.spotify.com/album/4Mz79lV4qxaywmthkarIf7) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e74d5d14b01d404e1984ece7" alt="" width="50" /> | 改變自己                                                                                                | 2007-07-13     | [🔗](https://open.spotify.com/album/7yjS4CBFK0f9oQsVrcdNNW) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f609c79794752ed7ee0976b5" alt="" width="50" /> | 怪物                                                                                                  | 2021-01-06     | [🔗](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ba16f5c6c4e2d873996a81a7" alt="" width="50" /> | 怎樣                                                                                                  | 2001-01-18     | [🔗](https://open.spotify.com/album/5wBnaUSaYmG7PH39bRIr1H) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731b6057e116a54d99708f77ae" alt="" width="50" /> | 如果雨之後                                                                                               | 2017-12-15     | [🔗](https://open.spotify.com/album/63lCCebNDe20nxyCvFWk8g) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273110af1ee291450d9e86a05a4" alt="" width="50" /> | 太平盛世                                                                                                | 2005-08-01     | [🔗](https://open.spotify.com/album/1XnDRFsNxG12nZPRXNcPkU) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a09d99cdbfdb0fafee0c2318" alt="" width="50" /> | 刻在我心底的名字 (Your Name Engraved Herein)                                                                | 2020-08-25     | [🔗](https://open.spotify.com/album/5RG4bEVKGMdLaEIv1dofR2) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27312b39d20292978b5e5800ed3" alt="" width="50" /> | 一比一                                                                                                 | 2005-06-03     | [🔗](https://open.spotify.com/album/3Om643lyJZiG4AYBr7TwDc) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735133ecfa0dea624548289aa5" alt="" width="50" /> | קוביות                                                                                              | 2020-08-16     | [🔗](https://open.spotify.com/album/78V1vURpHgBC2SaU6ZbIYF) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27347e6c8b41b5546781d84b5e7" alt="" width="50" /> | עושה לי צרות                                                                                        | 2022-05-22     | [🔗](https://open.spotify.com/album/2FHZElS1XugIYG10xE80aR) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273caae7b75fb240dd81f3f7129" alt="" width="50" /> | ממותה                                                                                               | 2022-02-11     | [🔗](https://open.spotify.com/album/0F59OTwMP1IRvvX3CzeO9G) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731bccd0e65da477d7f815e229" alt="" width="50" /> | מי זאת                                                                                              | 2022-05-22     | [🔗](https://open.spotify.com/album/3vAQYVlLZrzs7lrjisl5VC) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ec71813c0c13422d225981da" alt="" width="50" /> | לך לישון                                                                                            | 2022-01-02     | [🔗](https://open.spotify.com/album/6Wh0It79i26j0IWWzm3axe) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739b835b4be5631a28c4725a14" alt="" width="50" /> | בשורות טובות                                                                                        | 2022-06-06     | [🔗](https://open.spotify.com/album/1oBfvjTLPPfUEO4R6FqzRl) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737eb0b6f27578d87476a12667" alt="" width="50" /> | Σ                                                                                                   | 2016-10-19     | [🔗](https://open.spotify.com/album/5MruJPW5X4cal6bpN7llrF) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732413b55cebef0c99396fd854" alt="" width="50" /> | Échame La Culpa                                                                                     | 2017-11-17     | [🔗](https://open.spotify.com/album/2Tt0EzXpempSOIHFXVX42v) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739792873842bcfa921ffceebf" alt="" width="50" /> | i'mperfect                                                                                          | 2013-04-10     | [🔗](https://open.spotify.com/album/04ygc7Z2gcGtt7m8pnVUwf) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273752d2becbb91841a31c556b8" alt="" width="50" /> | Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground) | 2010-05-07     | [🔗](https://open.spotify.com/album/3pzQF7YgU1f66pBayA8uHv) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b28db1e5c8c53e67c6969c06" alt="" width="50" /> | Vintage                                                                                             | 2020-03-19     | [🔗](https://open.spotify.com/album/6tGI9MGbLjbxyzcxYkMXPJ) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ef0d4234e1a645740f77d59c" alt="" width="50" /> | VIDA                                                                                                | 2019-02-01     | [🔗](https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273312bd86cc2db22fde885ee73" alt="" width="50" /> | UN DIA (ONE DAY) (Feat. Tainy)                                                                      | 2020-07-24     | [🔗](https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739c4ba827e585fabd3cfd90f2" alt="" width="50" /> | Traveler                                                                                            | 2019-08-31     | [🔗](https://open.spotify.com/album/17gzvH2FPpVhpuqalLFi9j) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fc1e6aac4f02c6864d7a5f90" alt="" width="50" /> | Toy                                                                                                 | 2018-05-23     | [🔗](https://open.spotify.com/album/21YEfZ84TzdjNvOWEdwjeF) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27321d73b676df03ec40a15ef39" alt="" width="50" /> | Tippy Toes                                                                                          | 2022-03-18     | [🔗](https://open.spotify.com/album/6P9erpHs7hgJlca7Tj3F0w) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a5c51e96d2583bfb3e45d504" alt="" width="50" /> | Think About Things                                                                                  | 2020-04-09     | [🔗](https://open.spotify.com/album/5gEUjiNfaVse6oloI0c6Vt) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734ccc03169b086af698178a99" alt="" width="50" /> | The Lion King: The Gift                                                                             | 2019-07-19     | [🔗](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739a9716c90ceeb1890921e44f" alt="" width="50" /> | Te Felicito                                                                                         | 2022-04-21     | [🔗](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27304c7f62f1ecf29cfc4c1df3b" alt="" width="50" /> | Söngvakeppnin 2020                                                                                  | 2020-01-18     | [🔗](https://open.spotify.com/album/32ypMgv8eQ7ACVd2uBaPG7) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734f95dabfc67540ee3823dad6" alt="" width="50" /> | Sofa Silahlane                                                                                      | 2022-05-13     | [🔗](https://open.spotify.com/album/03FGhGM3Lv2TmbUdpoPPip) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734661cf765439018ebb7e0009" alt="" width="50" /> | Sin Pijama                                                                                          | 2018-04-20     | [🔗](https://open.spotify.com/album/6hAxqfWO3xDGzjs8yad1pB) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27327ca5326f9c8cc55b3efd7b5" alt="" width="50" /> | SUN                                                                                                 | 2018-10-25     | [🔗](https://open.spotify.com/album/1hWhflOpUh3IS1UeYHIW8V) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e742841accccf949d7af1b75" alt="" width="50" /> | Racine Carrée (Standard US Version)                                                                 | 2013-01-01     | [🔗](https://open.spotify.com/album/22yd3bcffqUO7Pn5nsDaoj) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c6732b7695d4e84cfdb81d73" alt="" width="50" /> | Pleasure                                                                                            | 2021-04-23     | [🔗](https://open.spotify.com/album/2O40oGNRh8jJTCfutKMRkl) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733f3d35703bdcd917dad51c4f" alt="" width="50" /> | Pasoori                                                                                             | 2022-02-07     | [🔗](https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27302a856097c809fb56c23cfb2" alt="" width="50" /> | POP VIRUS                                                                                           | 2018-12-19     | [🔗](https://open.spotify.com/album/7oFLY1YL5bBI32UHsmQO6q) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27359c2f8304319dcd03eb4ead7" alt="" width="50" /> | PINK BLOOD                                                                                          | 2021-06-02     | [🔗](https://open.spotify.com/album/4eQs3mcSejRAVTWmaYXNYl) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737c89c4758b84b698f1598821" alt="" width="50" /> | Non mi avete fatto niente                                                                           | 2018-02-07     | [🔗](https://open.spotify.com/album/3Qs5bBmUVXpZBcEkw4uxJ8) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27348cbdef454b5636ee5ebeb34" alt="" width="50" /> | No title-                                                                                           | 2016-03-18     | [🔗](https://open.spotify.com/album/5qPZrSLh2oecfujdUZqgmy) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733e4b149dd3110f1432bfeca0" alt="" width="50" /> | Niche Syndrome                                                                                      | 2010-06-09     | [🔗](https://open.spotify.com/album/4OKBuE9F8MTCV7nnsBRcsK) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27314b31a0ac21c8645919204a8" alt="" width="50" /> | Ne reviens pas                                                                                      | 2019-11-21     | [🔗](https://open.spotify.com/album/0w6UtV9Rd14AqjqcwD3j3l) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d03049930583aecb52977265" alt="" width="50" /> | Miku                                                                                                | 2016-05-24     | [🔗](https://open.spotify.com/album/45jD7ltxM60Arhm5FWF49p) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f6b93cc89e67d749ec3013ee" alt="" width="50" /> | Mercy                                                                                               | 2018-01-20     | [🔗](https://open.spotify.com/album/1uuuqBmA5Xklb3htp7Akke) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b5900aef5989a39a87bda771" alt="" width="50" /> | Memories                                                                                            | 2021-12-08     | [🔗](https://open.spotify.com/album/4tp4dyeVhcG7kM2jUi3Yj5) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e71aaa885c4df5f0a92eab12" alt="" width="50" /> | Me Gusta                                                                                            | 2020-01-13     | [🔗](https://open.spotify.com/album/4IcQ1ni07PmlOenqwf6MgG) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736a986d5aa5b6567ca683f653" alt="" width="50" /> | Lykke te                                                                                            | 2022-05-27     | [🔗](https://open.spotify.com/album/39ktLXlXx02WGz3mUZTxXS) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737bc73fff9f3787c1d8a23167" alt="" width="50" /> | Look At Me                                                                                          | 2022-03-21     | [🔗](https://open.spotify.com/album/3mp41Up4LNhAVLGxl7BAUR) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c99f58d4685a5f438e6c9167" alt="" width="50" /> | Lo Malo                                                                                             | 2018-04-06     | [🔗](https://open.spotify.com/album/0BtpL9HEIaBg95FefsA3Hn) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dd7006a14a1fc3474eb80d51" alt="" width="50" /> | LEXICON                                                                                             | 2019-11-29     | [🔗](https://open.spotify.com/album/089QU9ZClm6mksCrXCDBSi) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27396e164f0c5aac83148bb8f24" alt="" width="50" /> | LEVEL3                                                                                              | 2013-10-16     | [🔗](https://open.spotify.com/album/2DdXcewGp8Akqutak3yLDg) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738874d42c6591770e15618d13" alt="" width="50" /> | Jai Jai Shivshankar (From "War")                                                                    | 2019-09-21     | [🔗](https://open.spotify.com/album/5GvIKf7yN7gjZfYohbvHmj) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27354dbaa284c53e085523cfec2" alt="" width="50" /> | Hijas del Tomate                                                                                    | 2002           | [🔗](https://open.spotify.com/album/5Fs94v1xXPl8Q1mTMWMTLO) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27356f9cf6a648e96dcaffc1434" alt="" width="50" /> | Heaven                                                                                              | 2018-02-14     | [🔗](https://open.spotify.com/album/3GJjPtV0iPKM3fLPvqdURX) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733e94f2b2c3303120be19210b" alt="" width="50" /> | Habit                                                                                               | 2022-04-28     | [🔗](https://open.spotify.com/album/690rpRAbQW5LNPrbP27M9U) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273731953ff97a79644f6eb7b4e" alt="" width="50" /> | HELP EVER HURT NEVER                                                                                | 2020-05-20     | [🔗](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737aa30221d9dbc1271bae1b05" alt="" width="50" /> | GAME                                                                                                | 2008           | [🔗](https://open.spotify.com/album/6kzdxF5o6XpDNTLVVdjoMj) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f342e70aacda9d78cfb6ce7a" alt="" width="50" /> | Fijación Oral, Vol. 1                                                                               | 2005-06-03     | [🔗](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273726ac2ca7910c8814a4c78a3" alt="" width="50" /> | Farra                                                                                               | 2019-06-28     | [🔗](https://open.spotify.com/album/1FXVq4BLk6Vl6Kr7TeSoYF) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738d6686937b604899a9347550" alt="" width="50" /> | Evils Theater                                                                                       | 2009-06-17     | [🔗](https://open.spotify.com/album/1UkodLwja64ZFXbehIWnEN) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f4d64a6a6b7e24b6bd9f009f" alt="" width="50" /> | El Mal Querer                                                                                       | 2018-11-02     | [🔗](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d05d3aad30c5fb7614893cf5" alt="" width="50" /> | El Dorado                                                                                           | 2017-05-26     | [🔗](https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a6dd88a097d77eaa6a5f517f" alt="" width="50" /> | Doobey (From "Gehraiyaan")                                                                          | 2022-01-24     | [🔗](https://open.spotify.com/album/48VomBCSqAsYmxI3C3TNSC) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ec2c05eda18004c5cc7a3df3" alt="" width="50" /> | Djadja                                                                                              | 2018-04-06     | [🔗](https://open.spotify.com/album/76VGIFOKrF1rba6Xznep45) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735064363e1b38af783f93f1a7" alt="" width="50" /> | Daisy 2.0 (feat. Hatsune Miku)                                                                      | 2020-12-11     | [🔗](https://open.spotify.com/album/6JZYS7UElSfjyTgFgE1ApG) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273896ffcd42561c44fea2bae7b" alt="" width="50" /> | Con Calma                                                                                           | 2019-01-24     | [🔗](https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27393aa3d384efb79e00fe57555" alt="" width="50" /> | Cara Italia                                                                                         | 2018-05-02     | [🔗](https://open.spotify.com/album/3E3S8FQudapOj9Mpxc5v3N) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a2272c8966971b7b04066241" alt="" width="50" /> | CEREMONY                                                                                            | 2020-01-15     | [🔗](https://open.spotify.com/album/1IYJeRjWNruxAKls5cBtqm) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273709a3fc128e4d453fab4d14e" alt="" width="50" /> | Bunny                                                                                               | 2020-11-25     | [🔗](https://open.spotify.com/album/7KJoNDndoJuxoFVl57NaVk) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732433cb43f0f2f0f23b7c8b82" alt="" width="50" /> | Brol                                                                                                | 2018-10-05     | [🔗](https://open.spotify.com/album/6KSvWFf4g4PrIldtchJsTC) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ee7af6e271d04c728d8a47ba" alt="" width="50" /> | Bando                                                                                               | 2020-01-31     | [🔗](https://open.spotify.com/album/3UtdQcbHhNlEi79pS3282l) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f038f68827e437530b3a80a8" alt="" width="50" /> | BOOTLEG                                                                                             | 2017-11-01     | [🔗](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27356bcdbdd16ff6781b8371c7f" alt="" width="50" /> | A BEST                                                                                              | 2001-03-28     | [🔗](https://open.spotify.com/album/2B7L6R25vI22f1sIgV9k2F) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273073bc2070f7fa02b2a6bda64" alt="" width="50" /> | 11:11                                                                                               | 2019-05-17     | [🔗](https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27395605660a166c33bbf6d4a25" alt="" width="50" /> | & Co.                                                                                               | 2019-06-12     | [🔗](https://open.spotify.com/album/4pS7NXSZNbvREVxKkOge3I) |
 
 </details>
 
@@ -408,95 +408,113 @@
 </details>
 
 
+## Years
+
+
+
+
+
+| 10 newest albums                                                                                                                                                                                                                        | 10 oldest albums                                                                                                                                                                                                                                      |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739b835b4be5631a28c4725a14" alt="בשורות טובות" width="50" /> <span style="padding-left:10px;">בשורות טובות (2022-06-06)</span></div>     | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ba16f5c6c4e2d873996a81a7" alt="怎樣" width="50" /> <span style="padding-left:10px;">怎樣 (2001-01-18)</span></div>                                       |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736a986d5aa5b6567ca683f653" alt="Lykke te" width="50" /> <span style="padding-left:10px;">Lykke te (2022-05-27)</span></div>             | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27356bcdbdd16ff6781b8371c7f" alt="A BEST" width="50" /> <span style="padding-left:10px;">A BEST (2001-03-28)</span></div>                               |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731bccd0e65da477d7f815e229" alt="מי זאת" width="50" /> <span style="padding-left:10px;">מי זאת (2022-05-22)</span></div>                 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734df4e8ec1f66ebb6b63c14c2" alt="海嘯" width="50" /> <span style="padding-left:10px;">海嘯 (2001-05-10)</span></div>                                       |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27347e6c8b41b5546781d84b5e7" alt="עושה לי צרות" width="50" /> <span style="padding-left:10px;">עושה לי צרות (2022-05-22)</span></div>     | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27354dbaa284c53e085523cfec2" alt="Hijas del Tomate" width="50" /> <span style="padding-left:10px;">Hijas del Tomate (2002)</span></div>                 |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734f95dabfc67540ee3823dad6" alt="Sofa Silahlane" width="50" /> <span style="padding-left:10px;">Sofa Silahlane (2022-05-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27312b39d20292978b5e5800ed3" alt="一比一" width="50" /> <span style="padding-left:10px;">一比一 (2005-06-03)</span></div>                                     |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733e94f2b2c3303120be19210b" alt="Habit" width="50" /> <span style="padding-left:10px;">Habit (2022-04-28)</span></div>                   | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f342e70aacda9d78cfb6ce7a" alt="Fijación Oral, Vol. 1" width="50" /> <span style="padding-left:10px;">Fijación Oral, Vol. 1 (2005-06-03)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739a9716c90ceeb1890921e44f" alt="Te Felicito" width="50" /> <span style="padding-left:10px;">Te Felicito (2022-04-21)</span></div>       | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273110af1ee291450d9e86a05a4" alt="太平盛世" width="50" /> <span style="padding-left:10px;">太平盛世 (2005-08-01)</span></div>                                   |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737bc73fff9f3787c1d8a23167" alt="Look At Me" width="50" /> <span style="padding-left:10px;">Look At Me (2022-03-21)</span></div>         | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e74d5d14b01d404e1984ece7" alt="改變自己" width="50" /> <span style="padding-left:10px;">改變自己 (2007-07-13)</span></div>                                   |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27321d73b676df03ec40a15ef39" alt="Tippy Toes" width="50" /> <span style="padding-left:10px;">Tippy Toes (2022-03-18)</span></div>         | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737aa30221d9dbc1271bae1b05" alt="GAME" width="50" /> <span style="padding-left:10px;">GAME (2008)</span></div>                                         |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273caae7b75fb240dd81f3f7129" alt="ממותה" width="50" /> <span style="padding-left:10px;">ממותה (2022-02-11)</span></div>                   | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738d6686937b604899a9347550" alt="Evils Theater" width="50" /> <span style="padding-left:10px;">Evils Theater (2009-06-17)</span></div>                 |
 ## Audio Features
 
 | 10 most Danceable tracks         | 10 least Danceable tracks   |
 |:---------------------------------|:----------------------------|
-| Bando                            | Wherever you are            |
-| Ne reviens pas                   | abnormalize                 |
-| Tippy Toes                       | Headbangeeeeerrrrr!!!!!     |
-| MALAMENTE - Cap.1: Augurio       | Cry Baby                    |
-| מי זאת                           | untuk hati yang terluka.    |
-| Think About Things               | 你要的愛                        |
-| Gagnamagnið                      | No Rain, No Rainbow         |
-| Endurtaka Mig                    | 落葉歸根                        |
-| Sofa Silahlane                   | 永不失聯的愛                      |
-| Jai Jai Shivshankar (From "War") | Amore                       |
+| Bando                            | Amore                       |
+| Ne reviens pas                   | 永不失聯的愛                      |
+| Tippy Toes                       | 落葉歸根                        |
+| MALAMENTE - Cap.1: Augurio       | No Rain, No Rainbow         |
+| מי זאת                           | 你要的愛                        |
+| Think About Things               | untuk hati yang terluka.    |
+| Gagnamagnið                      | Cry Baby                    |
+| Endurtaka Mig                    | Headbangeeeeerrrrr!!!!!     |
+| Sofa Silahlane                   | abnormalize                 |
+| Jai Jai Shivshankar (From "War") | Wherever you are            |
 
 | 10 most Energetic tracks   | 10 least Energetic tracks                              |
 |:---------------------------|:-------------------------------------------------------|
-| チョコレイト・ディスコ                | 永不失聯的愛                                                 |
-| Shanti Shanti Shanti       | Sofa Silahlane                                         |
-| Gimme Chocolate!!          | 醒不来的梦                                                  |
-| Boys & Girls               | Think About Things                                     |
-| Headbangeeeeerrrrr!!!!!    | 你要的愛                                                   |
-| だいじょばない                    | untuk hati yang terluka.                               |
-| KARATE                     | Gagnamagnið                                            |
-| 404 not found              | Heaven                                                 |
-| 恋をすると馬鹿を見る(Team B)         | 落葉歸根                                                   |
-| Kagerou                    | 刻在我心底的名字 (Your Name Engraved Herein) - 電影<刻在你心底的名字>主題曲 |
+| チョコレイト・ディスコ                | 刻在我心底的名字 (Your Name Engraved Herein) - 電影<刻在你心底的名字>主題曲 |
+| Shanti Shanti Shanti       | 落葉歸根                                                   |
+| Gimme Chocolate!!          | Heaven                                                 |
+| Boys & Girls               | Gagnamagnið                                            |
+| Headbangeeeeerrrrr!!!!!    | untuk hati yang terluka.                               |
+| だいじょばない                    | 你要的愛                                                   |
+| KARATE                     | Think About Things                                     |
+| 404 not found              | 醒不来的梦                                                  |
+| 恋をすると馬鹿を見る(Team B)         | Sofa Silahlane                                         |
+| Kagerou                    | 永不失聯的愛                                                 |
 
 | 10 most Speechy tracks   | 10 least Speechy tracks   |
 |:-------------------------|:--------------------------|
-| Te Felicito              | 永不失聯的愛                    |
-| Bando                    | ก่อนฤดูฝน                 |
-| 11 PM                    | 炎                         |
-| KARATE                   | 醒不来的梦                     |
-| Pleasure                 | 如果的事                      |
-| Leyendas                 | Tetap Dalam Jiwa          |
-| Tout oublier             | 悪ノ娘                       |
-| Shanti Shanti Shanti     | Pretender                 |
-| Djadja                   | 就是愛妳                      |
-| 青春修炼手册                   | 情非得已                      |
+| Te Felicito              | 情非得已                      |
+| Bando                    | 就是愛妳                      |
+| 11 PM                    | Pretender                 |
+| KARATE                   | 悪ノ娘                       |
+| Pleasure                 | Tetap Dalam Jiwa          |
+| Leyendas                 | 如果的事                      |
+| Tout oublier             | 醒不来的梦                     |
+| Shanti Shanti Shanti     | 炎                         |
+| Djadja                   | ก่อนฤดูฝน                 |
+| 青春修炼手册                   | 永不失聯的愛                    |
 
 | 10 most Acoustic tracks                                | 10 least Acoustic tracks                                                                            |
 |:-------------------------------------------------------|:----------------------------------------------------------------------------------------------------|
-| 刻在我心底的名字 (Your Name Engraved Herein) - 電影<刻在你心底的名字>主題曲 | Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground) |
-| 落葉歸根                                                   | UN DIA (ONE DAY) (Feat. Tainy)                                                                      |
-| untuk hati yang terluka.                               | Koi                                                                                                 |
-| 如果的事                                                   | KARATE                                                                                              |
-| עושה לי צרות                                           | Boys & Girls                                                                                        |
-| 醒不来的梦                                                  | Amore                                                                                               |
-| Heaven                                                 | Gimme Chocolate!!                                                                                   |
-| Tetap Dalam Jiwa                                       | Headbangeeeeerrrrr!!!!!                                                                             |
-| 永不失聯的愛                                                 | Kagerou                                                                                             |
-| סתלבט בקיבוץ                                           | abnormalize                                                                                         |
+| 刻在我心底的名字 (Your Name Engraved Herein) - 電影<刻在你心底的名字>主題曲 | abnormalize                                                                                         |
+| 落葉歸根                                                   | Kagerou                                                                                             |
+| untuk hati yang terluka.                               | Headbangeeeeerrrrr!!!!!                                                                             |
+| 如果的事                                                   | Gimme Chocolate!!                                                                                   |
+| עושה לי צרות                                           | Amore                                                                                               |
+| 醒不来的梦                                                  | Boys & Girls                                                                                        |
+| Heaven                                                 | KARATE                                                                                              |
+| Tetap Dalam Jiwa                                       | Koi                                                                                                 |
+| 永不失聯的愛                                                 | UN DIA (ONE DAY) (Feat. Tainy)                                                                      |
+| סתלבט בקיבוץ                                           | Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground) |
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks                           |
 |:------------------------------|:-------------------------------------------------------|
-| だいじょばない                       | 砂の惑星 ( + 初音ミク )                                        |
-| Sofa Silahlane                | Djadja                                                 |
-| Shanti Shanti Shanti          | Cry Baby                                               |
-| בשורות טובות                  | Leyendas                                               |
-| KARATE                        | 刻在我心底的名字 (Your Name Engraved Herein) - 電影<刻在你心底的名字>主題曲 |
-| abnormalize                   | Habit                                                  |
-| Tippy Toes                    | Te Felicito                                            |
-| Headbangeeeeerrrrr!!!!!       | I Love...                                              |
-| JA ARA E                      | Échame La Culpa                                        |
-| Kagerou                       | Pleasure                                               |
+| だいじょばない                       | Pleasure                                               |
+| Sofa Silahlane                | Échame La Culpa                                        |
+| Shanti Shanti Shanti          | I Love...                                              |
+| בשורות טובות                  | Te Felicito                                            |
+| KARATE                        | Habit                                                  |
+| abnormalize                   | 刻在我心底的名字 (Your Name Engraved Herein) - 電影<刻在你心底的名字>主題曲 |
+| Tippy Toes                    | Leyendas                                               |
+| Headbangeeeeerrrrr!!!!!       | Cry Baby                                               |
+| JA ARA E                      | Djadja                                                 |
+| Kagerou                       | 砂の惑星 ( + 初音ミク )                                        |
 
 | 10 most Live tracks   | 10 least Live tracks   |
 |:----------------------|:-----------------------|
-| Mercy                 | Despacito              |
-| סתלבט בקיבוץ          | Papaoutai              |
-| Kagerou               | No title               |
-| 脳裏上のクラッカー             | Pasoori                |
-| KARATE                | Look At Me             |
-| Cry Baby              | Lo Malo                |
-| Endurtaka Mig         | Con Calma              |
-| Shanti Shanti Shanti  | チョコレイト・ディスコ            |
-| 404 not found         | קוביות                 |
-| Wherever you are      | Sofa Silahlane         |
+| Mercy                 | Sofa Silahlane         |
+| סתלבט בקיבוץ          | קוביות                 |
+| Kagerou               | チョコレイト・ディスコ            |
+| 脳裏上のクラッカー             | Con Calma              |
+| KARATE                | Lo Malo                |
+| Cry Baby              | Look At Me             |
+| Endurtaka Mig         | Pasoori                |
+| Shanti Shanti Shanti  | No title               |
+| 404 not found         | Papaoutai              |
+| Wherever you are      | Despacito              |
 
 | 10 most Happy tracks                           | 10 least Happy tracks    |
 |:-----------------------------------------------|:-------------------------|
-| チョコレイト・ディスコ                                    | Papaoutai                |
-| Me Enamoré                                     | 落葉歸根                     |
-| סתלבט בקיבוץ                                   | 醒不来的梦                    |
-| Ne reviens pas                                 | KARATE                   |
-| 恋するフォーチュンクッキー                                  | No Rain, No Rainbow      |
-| 砂の惑星 ( + 初音ミク )                                | untuk hati yang terluka. |
-| Habit                                          | 白月光与朱砂痣                  |
-| No title                                       | 你要的愛                     |
-| Koi                                            | Tetap Dalam Jiwa         |
-| The Ketchup Song (Aserejé) - Spanglish Version | Mercy                    |
+| チョコレイト・ディスコ                                    | Mercy                    |
+| Me Enamoré                                     | Tetap Dalam Jiwa         |
+| סתלבט בקיבוץ                                   | 你要的愛                     |
+| Ne reviens pas                                 | 白月光与朱砂痣                  |
+| 恋するフォーチュンクッキー                                  | untuk hati yang terluka. |
+| 砂の惑星 ( + 初音ミク )                                | No Rain, No Rainbow      |
+| Habit                                          | KARATE                   |
+| No title                                       | 醒不来的梦                    |
+| Koi                                            | 落葉歸根                     |
+| The Ketchup Song (Aserejé) - Spanglish Version | Papaoutai                |

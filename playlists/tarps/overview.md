@@ -81,63 +81,63 @@
 <details>
 <summary>See all 55 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                                              | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------|:-----------------------------------------------------------|
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Good Girl Gone Bad: Reloaded                                       | [🔗](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2737ebde0a5bb07f53a99c15224" alt="" width="50" /> | Barton Hollow                                                      | [🔗](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | 21                                                                 | [🔗](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730f2e51f7121539e221c51161" alt="" width="50" /> | We Sing. We Dance. We Steal Things.                                | [🔗](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Vows (Deluxe Version)                                              | [🔗](https://open.spotify.com/album/6V9rvW05Um5bIHePPfeI8p) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="" width="50" /> | The Temptations Sing Smokey                                        | [🔗](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27314ed51ab46ef0765182bb8a0" alt="" width="50" /> | The Life and Times of Mike Fanning                                 | [🔗](https://open.spotify.com/album/7FNdaE5nvtVmhPlc9wjQrx) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736f50b3400595b123a916e0dc" alt="" width="50" /> | The Lady Killer                                                    | [🔗](https://open.spotify.com/album/3MXU6UoWrf4w4bOvjZTlvY) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738f09dd4d56cde1a2cda18604" alt="" width="50" /> | The Essential Van Morrison                                         | [🔗](https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78" alt="" width="50" /> | The College Dropout                                                | [🔗](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2" alt="" width="50" /> | The Beatles (Remastered)                                           | [🔗](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735726e327fd968a6fb5974350" alt="" width="50" /> | The Band Perry                                                     | [🔗](https://open.spotify.com/album/3dASAcs9QOsmoSLhHjEhCu) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736f705bef76c1d861c4d51d8c" alt="" width="50" /> | The Album                                                          | [🔗](https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273465828f135d5dc4e627963a9" alt="" width="50" /> | SuperRock (All Folked Up)                                          | [🔗](https://open.spotify.com/album/4PEc1CBBlhpGzswmWjLyFK) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27361a13426a99fd3500e2fff54" alt="" width="50" /> | St. Elsewhere                                                      | [🔗](https://open.spotify.com/album/7p2aWivr9OLXocSTTKtG9B) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e11a75a2f2ff39cec788a015" alt="" width="50" /> | Speak Now                                                          | [🔗](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e" alt="" width="50" /> | Songs About Jane: 10th Anniversary Edition                         | [🔗](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="" width="50" /> | River Of Dreams                                                    | [🔗](https://open.spotify.com/album/4HPnwQJAEvTY910q4RNeOu) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | Red                                                                | [🔗](https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27303668e3f13559554eca8ccc6" alt="" width="50" /> | Play On                                                            | [🔗](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="" width="50" /> | No Strings Attached                                                | [🔗](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739ab215825eb77076b1b4b387" alt="" width="50" /> | Nickel Creek                                                       | [🔗](https://open.spotify.com/album/5SGG7graQOU3OnK3cZZCNd) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735b50e493598153b926ded824" alt="" width="50" /> | Mary Wells Sings My Guy                                            | [🔗](https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | Kaleidoscope Heart                                                 | [🔗](https://open.spotify.com/album/627ukPRwYxyBREHxBq0vGJ) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273260e2444b3431b3b8b559bc3" alt="" width="50" /> | Jordin Sparks                                                      | [🔗](https://open.spotify.com/album/6JCNOvp9UeMrFuXwNW0JW6) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273987a1825341694ec9bc62457" alt="" width="50" /> | In My Own Words                                                    | [🔗](https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="" width="50" /> | Help! (Remastered)                                                 | [🔗](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730eb56329734f9400c1639359" alt="" width="50" /> | Greatest Hits...So Far!!!                                          | [🔗](https://open.spotify.com/album/2dpS2uYlkzDsPjl3IZbNjD) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="" width="50" /> | Graduation                                                         | [🔗](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27361ffafd5e31a37336531cf95" alt="" width="50" /> | Fanmail                                                            | [🔗](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f" alt="" width="50" /> | Eyes Open                                                          | [🔗](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d70bbffa859a9f9ca6f10496" alt="" width="50" /> | Evolver                                                            | [🔗](https://open.spotify.com/album/11sKu4dBGvmEZTuVw9EC9A) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27329a42ba069a854c9078377b4" alt="" width="50" /> | Elephunk                                                           | [🔗](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732d73b1bb77cee09f0278be04" alt="" width="50" /> | Desperado (2013 Remaster)                                          | [🔗](https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273aacc6949864aa4c1073d3060" alt="" width="50" /> | Desireless                                                         | [🔗](https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | Days Of Wine And Roses, Moon River And Other Academy Award Winners | [🔗](https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ed164cf1c10f028e8f528784" alt="" width="50" /> | Confident                                                          | [🔗](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c223c0c9fc255e7019a5296a" alt="" width="50" /> | Come Go With Me: The Best Of The Del-Vikings                       | [🔗](https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27309ec47c2a2173e984d8461e9" alt="" width="50" /> | Chariot - Stripped                                                 | [🔗](https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Ceremonials (Deluxe Edition)                                       | [🔗](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | Carolina State of Mind                                             | [🔗](https://open.spotify.com/album/3zKusinRVxdC5s2wOPYBgX) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737cdb143bd2e9906d39c5eb04" alt="" width="50" /> | Carencro                                                           | [🔗](https://open.spotify.com/album/15dP7BadtY55t9VvFlVrBA) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | Bridge Over Troubled Water                                         | [🔗](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f96cefb0197694ad440c3314" alt="" width="50" /> | Blue Hawaii                                                        | [🔗](https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="" width="50" /> | Beatrix Runs                                                       | [🔗](https://open.spotify.com/album/7HsPaYQbCYnxosF5WiSlEA) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f5aac98410fb9e64e29827d4" alt="" width="50" /> | Bear Creek                                                         | [🔗](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736b18d0490878750cd69abf2c" alt="" width="50" /> | Bangerz (Deluxe Version)                                           | [🔗](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738f52f321140e4a76ea720c52" alt="" width="50" /> | Back To Black                                                      | [🔗](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736e2407383e952808a0602b0d" alt="" width="50" /> | Babel (Deluxe Version)                                             | [🔗](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737ed87984e7f39ba42ee1b50a" alt="" width="50" /> | All I Ever Wanted                                                  | [🔗](https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="" width="50" /> | Abbey Road (Remastered)                                            | [🔗](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="" width="50" /> | A Rush of Blood to the Head                                        | [🔗](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273cf505191afa6a1978418fdf8" alt="" width="50" /> | A Little Bit of Mambo                                              | [🔗](https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="" width="50" /> | 1989                                                               | [🔗](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | 1000 Forms Of Fear (Deluxe Version)                                | [🔗](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) |
+|   Number of Tracks | Art                                                                                              | Album                                                              | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Good Girl Gone Bad: Reloaded                                       | 2008-06-02     | [🔗](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2737ebde0a5bb07f53a99c15224" alt="" width="50" /> | Barton Hollow                                                      | 2011-02-01     | [🔗](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | 21                                                                 | 2011-01-24     | [🔗](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730f2e51f7121539e221c51161" alt="" width="50" /> | We Sing. We Dance. We Steal Things.                                | 2008-05-12     | [🔗](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Vows (Deluxe Version)                                              | 2011           | [🔗](https://open.spotify.com/album/6V9rvW05Um5bIHePPfeI8p) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="" width="50" /> | The Temptations Sing Smokey                                        | 1965-03-22     | [🔗](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27314ed51ab46ef0765182bb8a0" alt="" width="50" /> | The Life and Times of Mike Fanning                                 | 2000           | [🔗](https://open.spotify.com/album/7FNdaE5nvtVmhPlc9wjQrx) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736f50b3400595b123a916e0dc" alt="" width="50" /> | The Lady Killer                                                    | 2010-11-09     | [🔗](https://open.spotify.com/album/3MXU6UoWrf4w4bOvjZTlvY) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738f09dd4d56cde1a2cda18604" alt="" width="50" /> | The Essential Van Morrison                                         | 2015-12-04     | [🔗](https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78" alt="" width="50" /> | The College Dropout                                                | 2004-02-10     | [🔗](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2" alt="" width="50" /> | The Beatles (Remastered)                                           | 1968-11-22     | [🔗](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735726e327fd968a6fb5974350" alt="" width="50" /> | The Band Perry                                                     | 2010-01-01     | [🔗](https://open.spotify.com/album/3dASAcs9QOsmoSLhHjEhCu) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736f705bef76c1d861c4d51d8c" alt="" width="50" /> | The Album                                                          | 1977           | [🔗](https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273465828f135d5dc4e627963a9" alt="" width="50" /> | SuperRock (All Folked Up)                                          | 2017-07-19     | [🔗](https://open.spotify.com/album/4PEc1CBBlhpGzswmWjLyFK) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27361a13426a99fd3500e2fff54" alt="" width="50" /> | St. Elsewhere                                                      | 2006-05-02     | [🔗](https://open.spotify.com/album/7p2aWivr9OLXocSTTKtG9B) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e11a75a2f2ff39cec788a015" alt="" width="50" /> | Speak Now                                                          | 2010-10-25     | [🔗](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e" alt="" width="50" /> | Songs About Jane: 10th Anniversary Edition                         | 2002           | [🔗](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="" width="50" /> | River Of Dreams                                                    | 1993-08-10     | [🔗](https://open.spotify.com/album/4HPnwQJAEvTY910q4RNeOu) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | Red                                                                | 2012-10-22     | [🔗](https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27303668e3f13559554eca8ccc6" alt="" width="50" /> | Play On                                                            | 2009           | [🔗](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="" width="50" /> | No Strings Attached                                                | 2000-03-21     | [🔗](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739ab215825eb77076b1b4b387" alt="" width="50" /> | Nickel Creek                                                       | 2000           | [🔗](https://open.spotify.com/album/5SGG7graQOU3OnK3cZZCNd) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735b50e493598153b926ded824" alt="" width="50" /> | Mary Wells Sings My Guy                                            | 1964           | [🔗](https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | Kaleidoscope Heart                                                 | 2010-09-07     | [🔗](https://open.spotify.com/album/627ukPRwYxyBREHxBq0vGJ) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273260e2444b3431b3b8b559bc3" alt="" width="50" /> | Jordin Sparks                                                      | 2007-11-20     | [🔗](https://open.spotify.com/album/6JCNOvp9UeMrFuXwNW0JW6) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273987a1825341694ec9bc62457" alt="" width="50" /> | In My Own Words                                                    | 2006-01-01     | [🔗](https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="" width="50" /> | Help! (Remastered)                                                 | 1965-08-06     | [🔗](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730eb56329734f9400c1639359" alt="" width="50" /> | Greatest Hits...So Far!!!                                          | 2010-11-12     | [🔗](https://open.spotify.com/album/2dpS2uYlkzDsPjl3IZbNjD) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="" width="50" /> | Graduation                                                         | 2007-09-11     | [🔗](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27361ffafd5e31a37336531cf95" alt="" width="50" /> | Fanmail                                                            | 1999-02-23     | [🔗](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f" alt="" width="50" /> | Eyes Open                                                          | 2006-01-01     | [🔗](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d70bbffa859a9f9ca6f10496" alt="" width="50" /> | Evolver                                                            | 2008-10-27     | [🔗](https://open.spotify.com/album/11sKu4dBGvmEZTuVw9EC9A) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27329a42ba069a854c9078377b4" alt="" width="50" /> | Elephunk                                                           | 2003-06-24     | [🔗](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732d73b1bb77cee09f0278be04" alt="" width="50" /> | Desperado (2013 Remaster)                                          | 1973           | [🔗](https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273aacc6949864aa4c1073d3060" alt="" width="50" /> | Desireless                                                         | 1998-07-13     | [🔗](https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | Days Of Wine And Roses, Moon River And Other Academy Award Winners | 1964           | [🔗](https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ed164cf1c10f028e8f528784" alt="" width="50" /> | Confident                                                          | 2015-01-01     | [🔗](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c223c0c9fc255e7019a5296a" alt="" width="50" /> | Come Go With Me: The Best Of The Del-Vikings                       | 1997-01-01     | [🔗](https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27309ec47c2a2173e984d8461e9" alt="" width="50" /> | Chariot - Stripped                                                 | 2004-07-26     | [🔗](https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Ceremonials (Deluxe Edition)                                       | 2011-01-01     | [🔗](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | Carolina State of Mind                                             | 2013-11-15     | [🔗](https://open.spotify.com/album/3zKusinRVxdC5s2wOPYBgX) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737cdb143bd2e9906d39c5eb04" alt="" width="50" /> | Carencro                                                           | 2004-08-03     | [🔗](https://open.spotify.com/album/15dP7BadtY55t9VvFlVrBA) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | Bridge Over Troubled Water                                         | 1970-01-26     | [🔗](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f96cefb0197694ad440c3314" alt="" width="50" /> | Blue Hawaii                                                        | 1961-10-20     | [🔗](https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="" width="50" /> | Beatrix Runs                                                       | 2012           | [🔗](https://open.spotify.com/album/7HsPaYQbCYnxosF5WiSlEA) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f5aac98410fb9e64e29827d4" alt="" width="50" /> | Bear Creek                                                         | 2012-06-01     | [🔗](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736b18d0490878750cd69abf2c" alt="" width="50" /> | Bangerz (Deluxe Version)                                           | 2013-10-04     | [🔗](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738f52f321140e4a76ea720c52" alt="" width="50" /> | Back To Black                                                      | 2006-10-27     | [🔗](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736e2407383e952808a0602b0d" alt="" width="50" /> | Babel (Deluxe Version)                                             | 2012-09-25     | [🔗](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737ed87984e7f39ba42ee1b50a" alt="" width="50" /> | All I Ever Wanted                                                  | 2009-03-06     | [🔗](https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="" width="50" /> | Abbey Road (Remastered)                                            | 1969-09-26     | [🔗](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="" width="50" /> | A Rush of Blood to the Head                                        | 2002-08-08     | [🔗](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273cf505191afa6a1978418fdf8" alt="" width="50" /> | A Little Bit of Mambo                                              | 1999-07-19     | [🔗](https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="" width="50" /> | 1989                                                               | 2014-10-27     | [🔗](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | 1000 Forms Of Fear (Deluxe Version)                                | 2015-05-04     | [🔗](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) |
 
 </details>
 
@@ -308,95 +308,113 @@
 </details>
 
 
+## Years
+
+
+
+
+
+| 10 newest albums                                                                                                                                                                                                                                                                  | 10 oldest albums                                                                                                                                                                                                                                                                                                                          |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273465828f135d5dc4e627963a9" alt="SuperRock (All Folked Up)" width="50" /> <span style="padding-left:10px;">SuperRock (All Folked Up) (2017-07-19)</span></div>                     | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f96cefb0197694ad440c3314" alt="Blue Hawaii" width="50" /> <span style="padding-left:10px;">Blue Hawaii (1961-10-20)</span></div>                                                                                                         |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738f09dd4d56cde1a2cda18604" alt="The Essential Van Morrison" width="50" /> <span style="padding-left:10px;">The Essential Van Morrison (2015-12-04)</span></div>                   | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2735b50e493598153b926ded824" alt="Mary Wells Sings My Guy" width="50" /> <span style="padding-left:10px;">Mary Wells Sings My Guy (1964)</span></div>                                                                                       |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="1000 Forms Of Fear (Deluxe Version)" width="50" /> <span style="padding-left:10px;">1000 Forms Of Fear (Deluxe Version) (2015-05-04)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> <span style="padding-left:10px;">Days Of Wine And Roses, Moon River And Other Academy Award Winners (1964)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ed164cf1c10f028e8f528784" alt="Confident" width="50" /> <span style="padding-left:10px;">Confident (2015-01-01)</span></div>                                                     | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> <span style="padding-left:10px;">The Temptations Sing Smokey (1965-03-22)</span></div>                                                                         |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="1989" width="50" /> <span style="padding-left:10px;">1989 (2014-10-27)</span></div>                                                               | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> <span style="padding-left:10px;">Help! (Remastered) (1965-08-06)</span></div>                                                                                           |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="Carolina State of Mind" width="50" /> <span style="padding-left:10px;">Carolina State of Mind (2013-11-15)</span></div>                           | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2" alt="The Beatles (Remastered)" width="50" /> <span style="padding-left:10px;">The Beatles (Remastered) (1968-11-22)</span></div>                                                                               |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736b18d0490878750cd69abf2c" alt="Bangerz (Deluxe Version)" width="50" /> <span style="padding-left:10px;">Bangerz (Deluxe Version) (2013-10-04)</span></div>                       | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="Abbey Road (Remastered)" width="50" /> <span style="padding-left:10px;">Abbey Road (Remastered) (1969-09-26)</span></div>                                                                                 |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="Red" width="50" /> <span style="padding-left:10px;">Red (2012-10-22)</span></div>                                                                 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="Bridge Over Troubled Water" width="50" /> <span style="padding-left:10px;">Bridge Over Troubled Water (1970-01-26)</span></div>                                                                           |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736e2407383e952808a0602b0d" alt="Babel (Deluxe Version)" width="50" /> <span style="padding-left:10px;">Babel (Deluxe Version) (2012-09-25)</span></div>                           | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732d73b1bb77cee09f0278be04" alt="Desperado (2013 Remaster)" width="50" /> <span style="padding-left:10px;">Desperado (2013 Remaster) (1973)</span></div>                                                                                   |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f5aac98410fb9e64e29827d4" alt="Bear Creek" width="50" /> <span style="padding-left:10px;">Bear Creek (2012-06-01)</span></div>                                                   | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736f705bef76c1d861c4d51d8c" alt="The Album" width="50" /> <span style="padding-left:10px;">The Album (1977)</span></div>                                                                                                                   |
 ## Audio Features
 
 | 10 most Danceable tracks   | 10 least Danceable tracks   |
 |:---------------------------|:----------------------------|
-| Crazy                      | Take It All                 |
-| Where Is The Love?         | Chandelier                  |
-| Dreamer                    | I Thought She Knew          |
-| One Step At a Time         | Something - Remastered 2009 |
-| Settle Down                | Can't Help Falling in Love  |
-| Blank Space                | Yesterday - Remastered 2009 |
-| No Scrubs                  | Poison & Wine               |
-| Rolling in the Deep        | Chariot                     |
-| This Love                  | Desperado - 2013 Remaster   |
-| Disturbia                  | Already Gone                |
+| Crazy                      | Already Gone                |
+| Where Is The Love?         | Desperado - 2013 Remaster   |
+| Dreamer                    | Chariot                     |
+| One Step At a Time         | Poison & Wine               |
+| Settle Down                | Yesterday - Remastered 2009 |
+| Blank Space                | Can't Help Falling in Love  |
+| No Scrubs                  | Something - Remastered 2009 |
+| Rolling in the Deep        | I Thought She Knew          |
+| This Love                  | Chandelier                  |
+| Disturbia                  | Take It All                 |
 
 | 10 most Energetic tracks         | 10 least Energetic tracks      |
 |:---------------------------------|:-------------------------------|
-| Green Light (feat. André 3000)   | I Thought She Knew             |
-| Already Gone                     | Take It All                    |
-| This Love                        | The Way You Look Tonight       |
-| Jesus Walks                      | Crazy Love                     |
-| Umbrella                         | Desperado - 2013 Remaster      |
-| Cowboy Casanova                  | Dreamer                        |
-| Disturbia                        | Poison & Wine                  |
-| Mambo No. 5 (a Little Bit of...) | Yesterday - Remastered 2009    |
-| Home                             | Lullabye (Goodnight, My Angel) |
-| Gonna Get Over You               | Blackbird - Remastered 2009    |
+| Green Light (feat. André 3000)   | Blackbird - Remastered 2009    |
+| Already Gone                     | Lullabye (Goodnight, My Angel) |
+| This Love                        | Yesterday - Remastered 2009    |
+| Jesus Walks                      | Poison & Wine                  |
+| Umbrella                         | Dreamer                        |
+| Cowboy Casanova                  | Desperado - 2013 Remaster      |
+| Disturbia                        | Crazy Love                     |
+| Mambo No. 5 (a Little Bit of...) | The Way You Look Tonight       |
+| Home                             | Take It All                    |
+| Gonna Get Over You               | I Thought She Knew             |
 
 | 10 most Speechy tracks           | 10 least Speechy tracks    |
 |:---------------------------------|:---------------------------|
-| Mambo No. 5 (a Little Bit of...) | Gonna Get Over You         |
-| Jesus Walks                      | Rolling in the Deep        |
-| So Sick                          | One Step At a Time         |
-| Where Is The Love?               | You Lie                    |
-| Umbrella                         | Poison & Wine              |
-| Home                             | Can't Help Falling in Love |
-| Green Light (feat. André 3000)   | Chasing Cars               |
-| Carolina State of Mind           | Take A Chance On Me        |
-| No Scrubs                        | Old Fashioned              |
-| Crazy Love                       | The Scientist              |
+| Mambo No. 5 (a Little Bit of...) | The Scientist              |
+| Jesus Walks                      | Old Fashioned              |
+| So Sick                          | Take A Chance On Me        |
+| Where Is The Love?               | Chasing Cars               |
+| Umbrella                         | Can't Help Falling in Love |
+| Home                             | Poison & Wine              |
+| Green Light (feat. André 3000)   | You Lie                    |
+| Carolina State of Mind           | One Step At a Time         |
+| No Scrubs                        | Rolling in the Deep        |
+| Crazy Love                       | Gonna Get Over You         |
 
 | 10 most Acoustic tracks        | 10 least Acoustic tracks   |
 |:-------------------------------|:---------------------------|
-| Take It All                    | Cowboy Casanova            |
-| Lullabye (Goodnight, My Angel) | No Scrubs                  |
-| Desperado - 2013 Remaster      | Gonna Get Over You         |
-| Can't Help Falling in Love     | Chandelier                 |
-| I Thought She Knew             | Crazy                      |
-| Yesterday - Remastered 2009    | Can't Tell Me Nothing      |
-| Crazy Love                     | I Will Wait                |
-| The Way You Look Tonight       | Umbrella                   |
-| That Wasn't Me                 | I Knew You Were Trouble.   |
-| Poison & Wine                  | Save Tonight               |
+| Take It All                    | Save Tonight               |
+| Lullabye (Goodnight, My Angel) | I Knew You Were Trouble.   |
+| Desperado - 2013 Remaster      | Umbrella                   |
+| Can't Help Falling in Love     | I Will Wait                |
+| I Thought She Knew             | Can't Tell Me Nothing      |
+| Yesterday - Remastered 2009    | Crazy                      |
+| Crazy Love                     | Chandelier                 |
+| The Way You Look Tonight       | Gonna Get Over You         |
+| That Wasn't Me                 | No Scrubs                  |
+| Poison & Wine                  | Cowboy Casanova            |
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks     |
 |:------------------------------|:---------------------------------|
-| Crazy                         | Carolina State of Mind           |
-| I Will Wait                   | Mambo No. 5 (a Little Bit of...) |
-| No Scrubs                     | Barton Hollow                    |
-| The Boxer                     | Cowboy Casanova                  |
-| Desperado - 2013 Remaster     | You Lie                          |
-| Can't Help Falling in Love    | The Lighthouse's Tale            |
-| Crazy Love                    | Yesterday - Remastered 2009      |
-| Poison & Wine                 | Jesus Walks                      |
-| Chasing Cars                  | That Wasn't Me                   |
-| Chandelier                    | The Way You Look Tonight         |
+| Crazy                         | The Way You Look Tonight         |
+| I Will Wait                   | That Wasn't Me                   |
+| No Scrubs                     | Jesus Walks                      |
+| The Boxer                     | Yesterday - Remastered 2009      |
+| Desperado - 2013 Remaster     | The Lighthouse's Tale            |
+| Can't Help Falling in Love    | You Lie                          |
+| Crazy Love                    | Cowboy Casanova                  |
+| Poison & Wine                 | Barton Hollow                    |
+| Chasing Cars                  | Mambo No. 5 (a Little Bit of...) |
+| Chandelier                    | Carolina State of Mind           |
 
 | 10 most Live tracks              | 10 least Live tracks        |
 |:---------------------------------|:----------------------------|
-| Can't Tell Me Nothing            | Already Gone                |
-| Home                             | Settle Down                 |
-| Never Let Me Go                  | No Scrubs                   |
-| Chariot                          | Chandelier                  |
-| F**kin' Perfect                  | The Lighthouse's Tale       |
-| Old Fashioned                    | Blackbird - Remastered 2009 |
-| Jesus Walks                      | Rolling in the Deep         |
-| I Will Wait                      | Umbrella                    |
-| Mambo No. 5 (a Little Bit of...) | I Knew You Were Trouble.    |
-| Desperado - 2013 Remaster        | One Step At a Time          |
+| Can't Tell Me Nothing            | One Step At a Time          |
+| Home                             | I Knew You Were Trouble.    |
+| Never Let Me Go                  | Umbrella                    |
+| Chariot                          | Rolling in the Deep         |
+| F**kin' Perfect                  | Blackbird - Remastered 2009 |
+| Old Fashioned                    | The Lighthouse's Tale       |
+| Jesus Walks                      | Chandelier                  |
+| I Will Wait                      | No Scrubs                   |
+| Mambo No. 5 (a Little Bit of...) | Settle Down                 |
+| Desperado - 2013 Remaster        | Already Gone                |
 
 | 10 most Happy tracks             | 10 least Happy tracks          |
 |:---------------------------------|:-------------------------------|
-| Take A Chance On Me              | Never Let Me Go                |
-| My Guy                           | Dreamer                        |
-| Mambo No. 5 (a Little Bit of...) | That Wasn't Me                 |
-| Where Is The Love?               | Lullabye (Goodnight, My Angel) |
-| This Love                        | The Scientist                  |
-| Home                             | Poison & Wine                  |
-| Mean                             | I Thought She Knew             |
-| Green Light (feat. André 3000)   | Desperado - 2013 Remaster      |
-| Disturbia                        | Chasing Cars                   |
-| Jesus Walks                      | Can't Tell Me Nothing          |
+| Take A Chance On Me              | Can't Tell Me Nothing          |
+| My Guy                           | Chasing Cars                   |
+| Mambo No. 5 (a Little Bit of...) | Desperado - 2013 Remaster      |
+| Where Is The Love?               | I Thought She Knew             |
+| This Love                        | Poison & Wine                  |
+| Home                             | The Scientist                  |
+| Mean                             | Lullabye (Goodnight, My Angel) |
+| Green Light (feat. André 3000)   | That Wasn't Me                 |
+| Disturbia                        | Dreamer                        |
+| Jesus Walks                      | Never Let Me Go                |

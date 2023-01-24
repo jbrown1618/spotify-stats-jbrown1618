@@ -10,19 +10,19 @@
 |                 36 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735d990e8b45c848dc22885f89ab67616d0000b27362f44cdb37183a309fc1032fab67616d0000b27384470dd6235917e2e40e11f0ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | [A Cappella](../playlists/a_cappella/overview.md) |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album                                   | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------|:-----------------------------------------------------------|
-|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="" width="50" /> | PTX, Vol. 2                             | [🔗](https://open.spotify.com/album/12dPqNFIdjiVFSHvtsDmzJ) |
-|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | PTX, Vol. III                           | [🔗](https://open.spotify.com/album/32y54TelUHSUDWVOx4h1B4) |
-|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273ad76265e2c01cc533a87df0e" alt="" width="50" /> | PTX, Vol. 1                             | [🔗](https://open.spotify.com/album/5wGlP6EqF7akh6N3UGfKVZ) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27338407526ecab26f59f44f999" alt="" width="50" /> | Pentatonix (Deluxe Version)             | [🔗](https://open.spotify.com/album/6qf9tE8pNRW0kX1Cucrixr) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2739729d686606e6be27346da30" alt="" width="50" /> | PTX Vol. IV - Classics                  | [🔗](https://open.spotify.com/album/00JpoY0ZaQRXTNJUruibfX) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273a064dc21b8c8ebedfe4ea833" alt="" width="50" /> | PTX Presents: Top Pop, Vol. I           | [🔗](https://open.spotify.com/album/2viOlnLfhPLDgx7hvBqLwW) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="" width="50" /> | That's Christmas To Me (Deluxe Edition) | [🔗](https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273b7c8f5fe522c41d590c8e4e5" alt="" width="50" /> | PTX                                     | [🔗](https://open.spotify.com/album/77RBn8pRsfXlZdfTQh221D) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273183ce7c015d33f55210a2b4a" alt="" width="50" /> | The Sound of Silence                    | [🔗](https://open.spotify.com/album/2d5CHsmyOYGqfjDaPrdEzc) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273289f002ddb42e30363a0d445" alt="" width="50" /> | Christmas Is Here!                      | [🔗](https://open.spotify.com/album/6thZNGX8hUVSjUrqJgPB9b) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ddbbb08d6f7a6ed263fa6afc" alt="" width="50" /> | A Pentatonix Christmas Deluxe           | [🔗](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) |
+|   Number of Tracks | Art                                                                                              | Album                                   | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------|:---------------|:-----------------------------------------------------------|
+|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="" width="50" /> | PTX, Vol. 2                             | 2013-11-05     | [🔗](https://open.spotify.com/album/12dPqNFIdjiVFSHvtsDmzJ) |
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | PTX, Vol. III                           | 2014-09-23     | [🔗](https://open.spotify.com/album/32y54TelUHSUDWVOx4h1B4) |
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273ad76265e2c01cc533a87df0e" alt="" width="50" /> | PTX, Vol. 1                             | 2012-06-26     | [🔗](https://open.spotify.com/album/5wGlP6EqF7akh6N3UGfKVZ) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27338407526ecab26f59f44f999" alt="" width="50" /> | Pentatonix (Deluxe Version)             | 2015-10-16     | [🔗](https://open.spotify.com/album/6qf9tE8pNRW0kX1Cucrixr) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2739729d686606e6be27346da30" alt="" width="50" /> | PTX Vol. IV - Classics                  | 2017-04-07     | [🔗](https://open.spotify.com/album/00JpoY0ZaQRXTNJUruibfX) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273a064dc21b8c8ebedfe4ea833" alt="" width="50" /> | PTX Presents: Top Pop, Vol. I           | 2018-04-13     | [🔗](https://open.spotify.com/album/2viOlnLfhPLDgx7hvBqLwW) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="" width="50" /> | That's Christmas To Me (Deluxe Edition) | 2015-10-30     | [🔗](https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273b7c8f5fe522c41d590c8e4e5" alt="" width="50" /> | PTX                                     | 2014-09-19     | [🔗](https://open.spotify.com/album/77RBn8pRsfXlZdfTQh221D) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273183ce7c015d33f55210a2b4a" alt="" width="50" /> | The Sound of Silence                    | 2019-02-15     | [🔗](https://open.spotify.com/album/2d5CHsmyOYGqfjDaPrdEzc) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273289f002ddb42e30363a0d445" alt="" width="50" /> | Christmas Is Here!                      | 2018-10-19     | [🔗](https://open.spotify.com/album/6thZNGX8hUVSjUrqJgPB9b) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ddbbb08d6f7a6ed263fa6afc" alt="" width="50" /> | A Pentatonix Christmas Deluxe           | 2017-12-06     | [🔗](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) |
 
 ## Top Record Labels
 

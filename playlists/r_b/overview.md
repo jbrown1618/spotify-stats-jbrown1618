@@ -86,75 +86,75 @@
 <details>
 <summary>See all 67 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                                                                                   | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------|
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | I AM...SASHA FIERCE                                                                                     | [🔗](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | 4                                                                                                       | [🔗](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Good Girl Gone Bad: Reloaded                                                                            | [🔗](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="" width="50" /> | 24K Magic                                                                                               | [🔗](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="" width="50" /> | Unorthodox Jukebox                                                                                      | [🔗](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731f69f49a0d2f6b13a79efe02" alt="" width="50" /> | Unapologetic                                                                                            | [🔗](https://open.spotify.com/album/0XJya16l3K1J2dEwY19F8z) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef" alt="" width="50" /> | Talk That Talk                                                                                          | [🔗](https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e" alt="" width="50" /> | Talk Dirty                                                                                              | [🔗](https://open.spotify.com/album/4PeZu0It7qVrTG40t3HM9A) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27386b0c9728ad3ed338eaeea79" alt="" width="50" /> | Raymond v Raymond (Expanded Edition)                                                                    | [🔗](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="" width="50" /> | Lemonade                                                                                                | [🔗](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="" width="50" /> | Doo-Wops & Hooligans                                                                                    | [🔗](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2730a60fb0deda858270cca82ee" alt="" width="50" /> | Dirty Computer                                                                                          | [🔗](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273026e88f624dfb96f2e1ef10b" alt="" width="50" /> | B'Day Deluxe Edition                                                                                    | [🔗](https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5" alt="" width="50" /> | channel ORANGE                                                                                          | [🔗](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="" width="50" /> | Yoga                                                                                                    | [🔗](https://open.spotify.com/album/5rzxGeVyCV74SvV5hjLRAU) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c70176fa51326491ecc5f79e" alt="" width="50" /> | Who Hurt You?                                                                                           | [🔗](https://open.spotify.com/album/15M9pZ8gsdoN67yLjyQ039) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27356080feb452fa7ad4ca61d8b" alt="" width="50" /> | Village                                                                                                 | [🔗](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="" width="50" /> | Unapologetic (Deluxe)                                                                                   | [🔗](https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27384095737f6056e682666d6f9" alt="" width="50" /> | Tomboy                                                                                                  | [🔗](https://open.spotify.com/album/2uDZBeyyQ7mfwF9mUJeYUG) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="" width="50" /> | The Temptations Sing Smokey                                                                             | [🔗](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="" width="50" /> | The Prelude                                                                                             | [🔗](https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273bbe4503b585d49c54174a4bf" alt="" width="50" /> | The Foundations                                                                                         | [🔗](https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91" alt="" width="50" /> | The Definitive Collection                                                                               | [🔗](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273120a1366324c2ae1728e17e5" alt="" width="50" /> | The ArchAndroid                                                                                         | [🔗](https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737649604d1b27be1c78c466e9" alt="" width="50" /> | Tell Mama                                                                                               | [🔗](https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27364d58f6e7672baecc8972806" alt="" width="50" /> | Tattoos (Deluxe Edition)                                                                                | [🔗](https://open.spotify.com/album/3wDeTllVvayYsWTHsFNWZQ) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d6522bee68370fa5592301d" alt="" width="50" /> | Swalla (feat. Nicki Minaj & Ty Dolla $ign)                                                              | [🔗](https://open.spotify.com/album/2e5CxfyEwBW115beiwh7Mc) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="" width="50" /> | Survivor                                                                                                | [🔗](https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27361a13426a99fd3500e2fff54" alt="" width="50" /> | St. Elsewhere                                                                                           | [🔗](https://open.spotify.com/album/7p2aWivr9OLXocSTTKtG9B) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50" alt="" width="50" /> | Songs In The Key Of Life                                                                                | [🔗](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c5e9e847ca9c0982b4c91d4b" alt="" width="50" /> | Signed, Sealed And Delivered                                                                            | [🔗](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c8245ce2a727675a0a232b2f" alt="" width="50" /> | Preach                                                                                                  | [🔗](https://open.spotify.com/album/32r4o1R9a1lK5DoVXGEC7E) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" alt="" width="50" /> | Planet Her                                                                                              | [🔗](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734e8e488284a2cf00a613c0a1" alt="" width="50" /> | Music From The Motion Picture Cadillac Records                                                          | [🔗](https://open.spotify.com/album/4b2zuwf7CPesdiTg1kFDjU) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b72cb7bed93d6e2fdf42cffe" alt="" width="50" /> | Metropolis: The Chase Suite (Special Edition)                                                           | [🔗](https://open.spotify.com/album/3T3bJi3cvwR5U7ihwgEwF1) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736506e351b719b6f122e60ea2" alt="" width="50" /> | Meet The Temptations                                                                                    | [🔗](https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273664034dd80e91b28f773598d" alt="" width="50" /> | MONTERO (Call Me By Your Name)                                                                          | [🔗](https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27394c9217a398f5174757c0c78" alt="" width="50" /> | Love In The Future (Expanded Edition)                                                                   | [🔗](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="" width="50" /> | Loud                                                                                                    | [🔗](https://open.spotify.com/album/6UHhmTLl9T1scRYLmpHcDX) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736f9e6abbd6fa43ac3cdbeee0" alt="" width="50" /> | Leave The Door Open                                                                                     | [🔗](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736564f1d8386a6993b4d5d759" alt="" width="50" /> | LUCID                                                                                                   | [🔗](https://open.spotify.com/album/5qQhQ1rmPjqQgv8RmfaQU3) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273260e2444b3431b3b8b559bc3" alt="" width="50" /> | Jordin Sparks                                                                                           | [🔗](https://open.spotify.com/album/6JCNOvp9UeMrFuXwNW0JW6) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273987a1825341694ec9bc62457" alt="" width="50" /> | In My Own Words                                                                                         | [🔗](https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736e62a873c96524a3788a2edf" alt="" width="50" /> | I Don't Mind (feat. Juicy J)                                                                            | [🔗](https://open.spotify.com/album/5BAqg5IJQ7XFKfdoCiOlJw) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273af06f5c40adb2bc287c46cc2" alt="" width="50" /> | How Can I                                                                                               | [🔗](https://open.spotify.com/album/3qEib9B2LiOpc81jRYC4Fi) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739f06367f9a07d24fc9c641a9" alt="" width="50" /> | Gettin' Ready (Expanded Edition)                                                                        | [🔗](https://open.spotify.com/album/3RE8NUULcBzFvVtCmlI4lb) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733138f891f3075c9c5d944037" alt="" width="50" /> | Freudian                                                                                                | [🔗](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273cab4dfee401a04dacfa11784" alt="" width="50" /> | For Once In My Life                                                                                     | [🔗](https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27347e522adf030a78615cdea06" alt="" width="50" /> | Finesse (Remix) [feat. Cardi B]                                                                         | [🔗](https://open.spotify.com/album/3mumK2ar9b4JPhVOZR0V2p) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d70bbffa859a9f9ca6f10496" alt="" width="50" /> | Evolver                                                                                                 | [🔗](https://open.spotify.com/album/11sKu4dBGvmEZTuVw9EC9A) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273519241bcfc352fc3eaaac5db" alt="" width="50" /> | Everything Is 4                                                                                         | [🔗](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27334da09e702c7f9ca573981e5" alt="" width="50" /> | Ella Eyre                                                                                               | [🔗](https://open.spotify.com/album/5J69OYtRXeI9dHDK2R95h5) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="" width="50" /> | Dangerously In Love                                                                                     | [🔗](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734d51081892dbe3f1ddf28914" alt="" width="50" /> | Cuz I Love You (Deluxe)                                                                                 | [🔗](https://open.spotify.com/album/74gSdSHe71q7urGWMMn3qB) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731d56717d1786e938a105b6df" alt="" width="50" /> | Coño                                                                                                    | [🔗](https://open.spotify.com/album/1h3x5tLWXhf438Y5AK60Ml) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731ec9b096319afbcc2dca6879" alt="" width="50" /> | Corinne Bailey Rae                                                                                      | [🔗](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273365b3fb800c19f7ff72602da" alt="" width="50" /> | Confessions (Expanded Edition)                                                                          | [🔗](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27340eea368f4fb5f5ee6dcd9a8" alt="" width="50" /> | Commodores                                                                                              | [🔗](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f4c4ee507c2558262869f415" alt="" width="50" /> | Cassie (U.S. Version)                                                                                   | [🔗](https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27310356a0e81371e6644cb1371" alt="" width="50" /> | Boss Bitch                                                                                              | [🔗](https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27384a1d313a00f16b5a29ff46c" alt="" width="50" /> | Bittersweet                                                                                             | [🔗](https://open.spotify.com/album/3UviDOQkc4WbXkNi6DIBZu) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27307a560f0504f9de0af5e0a33" alt="" width="50" /> | Baby Powder                                                                                             | [🔗](https://open.spotify.com/album/3nqQxvxUB95Bi2UBseY1u1) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c" alt="" width="50" /> | All I Want Is You                                                                                       | [🔗](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="" width="50" /> | After Hours                                                                                             | [🔗](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27333c6b920eabcf4c00d7a1093" alt="" width="50" /> | ANTI (Deluxe)                                                                                           | [🔗](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273af3ad974e635a6b18579adee" alt="" width="50" /> | A Beautiful World                                                                                       | [🔗](https://open.spotify.com/album/76wI74XuASLFrY9pUVLhO9) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dabb260cf41a2fbb2c842787" alt="" width="50" /> | 20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s | [🔗](https://open.spotify.com/album/2kzUxFepw1uLjbgqV537eP) |
+|   Number of Tracks | Art                                                                                              | Album                                                                                                   | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | I AM...SASHA FIERCE                                                                                     | 2008-11-14     | [🔗](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | 4                                                                                                       | 2011-06-24     | [🔗](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Good Girl Gone Bad: Reloaded                                                                            | 2008-06-02     | [🔗](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="" width="50" /> | 24K Magic                                                                                               | 2016-11-17     | [🔗](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="" width="50" /> | Unorthodox Jukebox                                                                                      | 2012-12-07     | [🔗](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731f69f49a0d2f6b13a79efe02" alt="" width="50" /> | Unapologetic                                                                                            | 2012-12-11     | [🔗](https://open.spotify.com/album/0XJya16l3K1J2dEwY19F8z) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef" alt="" width="50" /> | Talk That Talk                                                                                          | 2011-11-19     | [🔗](https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e" alt="" width="50" /> | Talk Dirty                                                                                              | 2013-09-10     | [🔗](https://open.spotify.com/album/4PeZu0It7qVrTG40t3HM9A) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27386b0c9728ad3ed338eaeea79" alt="" width="50" /> | Raymond v Raymond (Expanded Edition)                                                                    | 2010-03-30     | [🔗](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="" width="50" /> | Lemonade                                                                                                | 2016-04-23     | [🔗](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="" width="50" /> | Doo-Wops & Hooligans                                                                                    | 2010-10-05     | [🔗](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2730a60fb0deda858270cca82ee" alt="" width="50" /> | Dirty Computer                                                                                          | 2018-04-27     | [🔗](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273026e88f624dfb96f2e1ef10b" alt="" width="50" /> | B'Day Deluxe Edition                                                                                    | 2007-05-29     | [🔗](https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5" alt="" width="50" /> | channel ORANGE                                                                                          | 2012-07-10     | [🔗](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="" width="50" /> | Yoga                                                                                                    | 2015-03-31     | [🔗](https://open.spotify.com/album/5rzxGeVyCV74SvV5hjLRAU) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c70176fa51326491ecc5f79e" alt="" width="50" /> | Who Hurt You?                                                                                           | 2018-10-16     | [🔗](https://open.spotify.com/album/15M9pZ8gsdoN67yLjyQ039) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27356080feb452fa7ad4ca61d8b" alt="" width="50" /> | Village                                                                                                 | 2018-11-02     | [🔗](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="" width="50" /> | Unapologetic (Deluxe)                                                                                   | 2012-12-11     | [🔗](https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27384095737f6056e682666d6f9" alt="" width="50" /> | Tomboy                                                                                                  | 2019-02-28     | [🔗](https://open.spotify.com/album/2uDZBeyyQ7mfwF9mUJeYUG) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="" width="50" /> | The Temptations Sing Smokey                                                                             | 1965-03-22     | [🔗](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="" width="50" /> | The Prelude                                                                                             | 2020-07-17     | [🔗](https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273bbe4503b585d49c54174a4bf" alt="" width="50" /> | The Foundations                                                                                         | 1968-01-01     | [🔗](https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91" alt="" width="50" /> | The Definitive Collection                                                                               | 2002-10-29     | [🔗](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273120a1366324c2ae1728e17e5" alt="" width="50" /> | The ArchAndroid                                                                                         | 2010-05-17     | [🔗](https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737649604d1b27be1c78c466e9" alt="" width="50" /> | Tell Mama                                                                                               | 1968-04-18     | [🔗](https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27364d58f6e7672baecc8972806" alt="" width="50" /> | Tattoos (Deluxe Edition)                                                                                | 2013-09-10     | [🔗](https://open.spotify.com/album/3wDeTllVvayYsWTHsFNWZQ) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d6522bee68370fa5592301d" alt="" width="50" /> | Swalla (feat. Nicki Minaj & Ty Dolla $ign)                                                              | 2017-02-23     | [🔗](https://open.spotify.com/album/2e5CxfyEwBW115beiwh7Mc) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="" width="50" /> | Survivor                                                                                                | 2001-05-01     | [🔗](https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27361a13426a99fd3500e2fff54" alt="" width="50" /> | St. Elsewhere                                                                                           | 2006-05-02     | [🔗](https://open.spotify.com/album/7p2aWivr9OLXocSTTKtG9B) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50" alt="" width="50" /> | Songs In The Key Of Life                                                                                | 1976-09-28     | [🔗](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c5e9e847ca9c0982b4c91d4b" alt="" width="50" /> | Signed, Sealed And Delivered                                                                            | 1970-08-07     | [🔗](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c8245ce2a727675a0a232b2f" alt="" width="50" /> | Preach                                                                                                  | 2019-02-15     | [🔗](https://open.spotify.com/album/32r4o1R9a1lK5DoVXGEC7E) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" alt="" width="50" /> | Planet Her                                                                                              | 2021-06-25     | [🔗](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734e8e488284a2cf00a613c0a1" alt="" width="50" /> | Music From The Motion Picture Cadillac Records                                                          | 2008-11-28     | [🔗](https://open.spotify.com/album/4b2zuwf7CPesdiTg1kFDjU) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b72cb7bed93d6e2fdf42cffe" alt="" width="50" /> | Metropolis: The Chase Suite (Special Edition)                                                           | 2008-08-12     | [🔗](https://open.spotify.com/album/3T3bJi3cvwR5U7ihwgEwF1) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736506e351b719b6f122e60ea2" alt="" width="50" /> | Meet The Temptations                                                                                    | 1964           | [🔗](https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273664034dd80e91b28f773598d" alt="" width="50" /> | MONTERO (Call Me By Your Name)                                                                          | 2021-03-31     | [🔗](https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27394c9217a398f5174757c0c78" alt="" width="50" /> | Love In The Future (Expanded Edition)                                                                   | 2013-08-30     | [🔗](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="" width="50" /> | Loud                                                                                                    | 2010-11-16     | [🔗](https://open.spotify.com/album/6UHhmTLl9T1scRYLmpHcDX) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736f9e6abbd6fa43ac3cdbeee0" alt="" width="50" /> | Leave The Door Open                                                                                     | 2021-03-05     | [🔗](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736564f1d8386a6993b4d5d759" alt="" width="50" /> | LUCID                                                                                                   | 2019-11-15     | [🔗](https://open.spotify.com/album/5qQhQ1rmPjqQgv8RmfaQU3) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273260e2444b3431b3b8b559bc3" alt="" width="50" /> | Jordin Sparks                                                                                           | 2007-11-20     | [🔗](https://open.spotify.com/album/6JCNOvp9UeMrFuXwNW0JW6) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273987a1825341694ec9bc62457" alt="" width="50" /> | In My Own Words                                                                                         | 2006-01-01     | [🔗](https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736e62a873c96524a3788a2edf" alt="" width="50" /> | I Don't Mind (feat. Juicy J)                                                                            | 2014-11-21     | [🔗](https://open.spotify.com/album/5BAqg5IJQ7XFKfdoCiOlJw) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273af06f5c40adb2bc287c46cc2" alt="" width="50" /> | How Can I                                                                                               | 2019-06-23     | [🔗](https://open.spotify.com/album/3qEib9B2LiOpc81jRYC4Fi) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739f06367f9a07d24fc9c641a9" alt="" width="50" /> | Gettin' Ready (Expanded Edition)                                                                        | 1966           | [🔗](https://open.spotify.com/album/3RE8NUULcBzFvVtCmlI4lb) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733138f891f3075c9c5d944037" alt="" width="50" /> | Freudian                                                                                                | 2017-08-25     | [🔗](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273cab4dfee401a04dacfa11784" alt="" width="50" /> | For Once In My Life                                                                                     | 1968-12-01     | [🔗](https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27347e522adf030a78615cdea06" alt="" width="50" /> | Finesse (Remix) [feat. Cardi B]                                                                         | 2017-12-20     | [🔗](https://open.spotify.com/album/3mumK2ar9b4JPhVOZR0V2p) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d70bbffa859a9f9ca6f10496" alt="" width="50" /> | Evolver                                                                                                 | 2008-10-27     | [🔗](https://open.spotify.com/album/11sKu4dBGvmEZTuVw9EC9A) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273519241bcfc352fc3eaaac5db" alt="" width="50" /> | Everything Is 4                                                                                         | 2015-05-29     | [🔗](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27334da09e702c7f9ca573981e5" alt="" width="50" /> | Ella Eyre                                                                                               | 2015-01-12     | [🔗](https://open.spotify.com/album/5J69OYtRXeI9dHDK2R95h5) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="" width="50" /> | Dangerously In Love                                                                                     | 2003-06-24     | [🔗](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734d51081892dbe3f1ddf28914" alt="" width="50" /> | Cuz I Love You (Deluxe)                                                                                 | 2019-05-03     | [🔗](https://open.spotify.com/album/74gSdSHe71q7urGWMMn3qB) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731d56717d1786e938a105b6df" alt="" width="50" /> | Coño                                                                                                    | 2020-07-03     | [🔗](https://open.spotify.com/album/1h3x5tLWXhf438Y5AK60Ml) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731ec9b096319afbcc2dca6879" alt="" width="50" /> | Corinne Bailey Rae                                                                                      | 2006-01-01     | [🔗](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273365b3fb800c19f7ff72602da" alt="" width="50" /> | Confessions (Expanded Edition)                                                                          | 2004-03-23     | [🔗](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27340eea368f4fb5f5ee6dcd9a8" alt="" width="50" /> | Commodores                                                                                              | 1977-01-01     | [🔗](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f4c4ee507c2558262869f415" alt="" width="50" /> | Cassie (U.S. Version)                                                                                   | 2006-08-07     | [🔗](https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27310356a0e81371e6644cb1371" alt="" width="50" /> | Boss Bitch                                                                                              | 2020-01-23     | [🔗](https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27384a1d313a00f16b5a29ff46c" alt="" width="50" /> | Bittersweet                                                                                             | 2003           | [🔗](https://open.spotify.com/album/3UviDOQkc4WbXkNi6DIBZu) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27307a560f0504f9de0af5e0a33" alt="" width="50" /> | Baby Powder                                                                                             | 2020-03-25     | [🔗](https://open.spotify.com/album/3nqQxvxUB95Bi2UBseY1u1) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c" alt="" width="50" /> | All I Want Is You                                                                                       | 2010-11-26     | [🔗](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="" width="50" /> | After Hours                                                                                             | 2020-03-20     | [🔗](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27333c6b920eabcf4c00d7a1093" alt="" width="50" /> | ANTI (Deluxe)                                                                                           | 2016-01-28     | [🔗](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273af3ad974e635a6b18579adee" alt="" width="50" /> | A Beautiful World                                                                                       | 2002-12-13     | [🔗](https://open.spotify.com/album/76wI74XuASLFrY9pUVLhO9) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dabb260cf41a2fbb2c842787" alt="" width="50" /> | 20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s | 2000-01-11     | [🔗](https://open.spotify.com/album/2kzUxFepw1uLjbgqV537eP) |
 
 </details>
 
@@ -279,95 +279,113 @@
 </details>
 
 
+## Years
+
+
+
+
+
+| 10 newest albums                                                                                                                                                                                                                                                        | 10 oldest albums                                                                                                                                                                                                                                                                                                                                                                                                          |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" alt="Planet Her" width="50" /> <span style="padding-left:10px;">Planet Her (2021-06-25)</span></div>                                         | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736506e351b719b6f122e60ea2" alt="Meet The Temptations" width="50" /> <span style="padding-left:10px;">Meet The Temptations (1964)</span></div>                                                                                                                                                                             |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273664034dd80e91b28f773598d" alt="MONTERO (Call Me By Your Name)" width="50" /> <span style="padding-left:10px;">MONTERO (Call Me By Your Name) (2021-03-31)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> <span style="padding-left:10px;">The Temptations Sing Smokey (1965-03-22)</span></div>                                                                                                                                                         |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736f9e6abbd6fa43ac3cdbeee0" alt="Leave The Door Open" width="50" /> <span style="padding-left:10px;">Leave The Door Open (2021-03-05)</span></div>                       | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739f06367f9a07d24fc9c641a9" alt="Gettin' Ready (Expanded Edition)" width="50" /> <span style="padding-left:10px;">Gettin' Ready (Expanded Edition) (1966)</span></div>                                                                                                                                                     |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="The Prelude" width="50" /> <span style="padding-left:10px;">The Prelude (2020-07-17)</span></div>                                       | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273bbe4503b585d49c54174a4bf" alt="The Foundations" width="50" /> <span style="padding-left:10px;">The Foundations (1968-01-01)</span></div>                                                                                                                                                                                 |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731d56717d1786e938a105b6df" alt="Coño" width="50" /> <span style="padding-left:10px;">Coño (2020-07-03)</span></div>                                                     | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737649604d1b27be1c78c466e9" alt="Tell Mama" width="50" /> <span style="padding-left:10px;">Tell Mama (1968-04-18)</span></div>                                                                                                                                                                                             |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27307a560f0504f9de0af5e0a33" alt="Baby Powder" width="50" /> <span style="padding-left:10px;">Baby Powder (2020-03-25)</span></div>                                       | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273cab4dfee401a04dacfa11784" alt="For Once In My Life" width="50" /> <span style="padding-left:10px;">For Once In My Life (1968-12-01)</span></div>                                                                                                                                                                         |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="After Hours" width="50" /> <span style="padding-left:10px;">After Hours (2020-03-20)</span></div>                                       | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c5e9e847ca9c0982b4c91d4b" alt="Signed, Sealed And Delivered" width="50" /> <span style="padding-left:10px;">Signed, Sealed And Delivered (1970-08-07)</span></div>                                                                                                                                                       |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27310356a0e81371e6644cb1371" alt="Boss Bitch" width="50" /> <span style="padding-left:10px;">Boss Bitch (2020-01-23)</span></div>                                         | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50" alt="Songs In The Key Of Life" width="50" /> <span style="padding-left:10px;">Songs In The Key Of Life (1976-09-28)</span></div>                                                                                                                                                               |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736564f1d8386a6993b4d5d759" alt="LUCID" width="50" /> <span style="padding-left:10px;">LUCID (2019-11-15)</span></div>                                                   | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27340eea368f4fb5f5ee6dcd9a8" alt="Commodores" width="50" /> <span style="padding-left:10px;">Commodores (1977-01-01)</span></div>                                                                                                                                                                                           |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273af06f5c40adb2bc287c46cc2" alt="How Can I" width="50" /> <span style="padding-left:10px;">How Can I (2019-06-23)</span></div>                                           | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273dabb260cf41a2fbb2c842787" alt="20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s" width="50" /> <span style="padding-left:10px;">20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s (2000-01-11)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks         | 10 least Danceable tracks                     |
 |:---------------------------------|:----------------------------------------------|
 | Coño                             | I'd Rather Go Blind                           |
-| Yeah! (feat. Lil Jon & Ludacris) | So Sick                                       |
-| I Don't Mind (feat. Juicy J)     | Irreplaceable                                 |
-| Make Me Feel                     | Listen (From the Motion Picture "Dreamgirls") |
-| Bubblegum (feat. Tyga)           | All of Me                                     |
-| That's What I Like               | What Now                                      |
-| Bootylicious                     | Half Of Me                                    |
-| Don't Stop The Music             | Unknown (To You)                              |
-| Crazy                            | Ave Maria                                     |
+| Yeah! (feat. Lil Jon & Ludacris) | Ave Maria                                     |
+| I Don't Mind (feat. Juicy J)     | Unknown (To You)                              |
+| Make Me Feel                     | Half Of Me                                    |
+| Bubblegum (feat. Tyga)           | What Now                                      |
+| That's What I Like               | All of Me                                     |
+| Bootylicious                     | Listen (From the Motion Picture "Dreamgirls") |
+| Don't Stop The Music             | Irreplaceable                                 |
+| Crazy                            | So Sick                                       |
 | You Right                        | I'd Rather Go Blind                           |
 
 | 10 most Energetic tracks                   | 10 least Energetic tracks                 |
 |:-------------------------------------------|:------------------------------------------|
-| Boss Bitch                                 | Make Me Feel                              |
-| Green Light (feat. André 3000)             | Papa Was A Rollin' Stone - Single Version |
-| DJ Got Us Fallin' In Love (feat. Pitbull)  | Ave Maria                                 |
-| Finesse - Remix; feat. Cardi B             | Hold Up                                   |
-| When I Get You Alone                       | Easy                                      |
-| Bootylicious                               | Best Part (feat. H.E.R.)                  |
-| Umbrella                                   | Thinkin Bout You                          |
-| Isn't She Lovely                           | Stay                                      |
-| Sweet Dreams                               | When I Was Your Man                       |
-| Swalla (feat. Nicki Minaj & Ty Dolla $ign) | All of Me                                 |
+| Boss Bitch                                 | All of Me                                 |
+| Green Light (feat. André 3000)             | When I Was Your Man                       |
+| DJ Got Us Fallin' In Love (feat. Pitbull)  | Stay                                      |
+| Finesse - Remix; feat. Cardi B             | Thinkin Bout You                          |
+| When I Get You Alone                       | Best Part (feat. H.E.R.)                  |
+| Bootylicious                               | Easy                                      |
+| Umbrella                                   | Hold Up                                   |
+| Isn't She Lovely                           | Ave Maria                                 |
+| Sweet Dreams                               | Papa Was A Rollin' Stone - Single Version |
+| Swalla (feat. Nicki Minaj & Ty Dolla $ign) | Make Me Feel                              |
 
 | 10 most Speechy tracks      | 10 least Speechy tracks                      |
 |:----------------------------|:---------------------------------------------|
-| Hold Up                     | The Way You Do The Things You Do             |
-| Irreplaceable               | I'd Rather Go Blind                          |
-| Bubblegum (feat. Tyga)      | If I Were a Boy                              |
-| So Sick                     | The Other Side (feat. CeeLo Green and B.o.B) |
-| Bootylicious                | Me & U                                       |
-| Trumpets                    | Build Me Up Buttercup                        |
-| Talk Dirty (feat. 2 Chainz) | One Step At a Time                           |
-| Crazy In Love (feat. Jay-Z) | Stay                                         |
-| Boss Bitch                  | Ave Maria                                    |
-| Daddy Lessons               | I'd Rather Go Blind                          |
+| Hold Up                     | I'd Rather Go Blind                          |
+| Irreplaceable               | Ave Maria                                    |
+| Bubblegum (feat. Tyga)      | Stay                                         |
+| So Sick                     | One Step At a Time                           |
+| Bootylicious                | Build Me Up Buttercup                        |
+| Trumpets                    | Me & U                                       |
+| Talk Dirty (feat. 2 Chainz) | The Other Side (feat. CeeLo Green and B.o.B) |
+| Crazy In Love (feat. Jay-Z) | If I Were a Boy                              |
+| Boss Bitch                  | I'd Rather Go Blind                          |
+| Daddy Lessons               | The Way You Do The Things You Do             |
 
 | 10 most Acoustic tracks         | 10 least Acoustic tracks    |
 |:--------------------------------|:----------------------------|
-| Stay                            | That's What I Like          |
-| When I Was Your Man             | S&M                         |
-| All of Me                       | If I Go                     |
-| Unknown (To You)                | Umbrella                    |
-| Best Part (feat. H.E.R.)        | Finesse                     |
-| Ave Maria                       | Watch n' Learn              |
-| At My Worst                     | Crazy In Love (feat. Jay-Z) |
-| Mushroom Chocolate (with 6LACK) | Bootylicious                |
-| How Can I                       | Blinding Lights             |
-| Hold Up                         | Coño                        |
+| Stay                            | Coño                        |
+| When I Was Your Man             | Blinding Lights             |
+| All of Me                       | Bootylicious                |
+| Unknown (To You)                | Crazy In Love (feat. Jay-Z) |
+| Best Part (feat. H.E.R.)        | Watch n' Learn              |
+| Ave Maria                       | Finesse                     |
+| At My Worst                     | Umbrella                    |
+| Mushroom Chocolate (with 6LACK) | If I Go                     |
+| How Can I                       | S&M                         |
+| Hold Up                         | That's What I Like          |
 
 | 10 most Instrumental tracks               | 10 least Instrumental tracks          |
 |:------------------------------------------|:--------------------------------------|
-| Crazy                                     | Trumpets                              |
-| Papa Was A Rollin' Stone - Single Version | Halo                                  |
-| Coño                                      | 24K Magic                             |
-| Superstition - Single Version             | Bootylicious                          |
-| Tomboy                                    | Grenade                               |
-| Isn't She Lovely                          | Signed, Sealed, Delivered (I'm Yours) |
-| I Like That                               | Disturbia                             |
-| You Right                                 | Build Me Up Buttercup                 |
-| Thinkin Bout You                          | Daddy Lessons                         |
-| We Found Love                             | Hit 'Em Up Style (Oops!)              |
+| Crazy                                     | Hit 'Em Up Style (Oops!)              |
+| Papa Was A Rollin' Stone - Single Version | Daddy Lessons                         |
+| Coño                                      | Build Me Up Buttercup                 |
+| Superstition - Single Version             | Disturbia                             |
+| Tomboy                                    | Signed, Sealed, Delivered (I'm Yours) |
+| Isn't She Lovely                          | Grenade                               |
+| I Like That                               | Bootylicious                          |
+| You Right                                 | 24K Magic                             |
+| Thinkin Bout You                          | Halo                                  |
+| We Found Love                             | Trumpets                              |
 
 | 10 most Live tracks              | 10 least Live tracks                      |
 |:---------------------------------|:------------------------------------------|
-| What Now                         | When I Get You Alone                      |
-| Love On Top                      | Don't Stop The Music                      |
-| For Once In My Life              | Baby Powder                               |
-| Hold Up                          | Papa Was A Rollin' Stone - Single Version |
-| MONTERO (Call Me By Your Name)   | Umbrella                                  |
-| Half Of Me                       | Yeah! (feat. Lil Jon & Ludacris)          |
-| The Way You Do The Things You Do | Superstition - Single Version             |
-| If I Were a Boy                  | One Step At a Time                        |
-| Daddy Lessons                    | Finesse                                   |
-| Make Me Feel                     | Finesse - Remix; feat. Cardi B            |
+| What Now                         | Finesse - Remix; feat. Cardi B            |
+| Love On Top                      | Finesse                                   |
+| For Once In My Life              | One Step At a Time                        |
+| Hold Up                          | Superstition - Single Version             |
+| MONTERO (Call Me By Your Name)   | Yeah! (feat. Lil Jon & Ludacris)          |
+| Half Of Me                       | Umbrella                                  |
+| The Way You Do The Things You Do | Papa Was A Rollin' Stone - Single Version |
+| If I Were a Boy                  | Baby Powder                               |
+| Daddy Lessons                    | Don't Stop The Music                      |
+| Make Me Feel                     | When I Get You Alone                      |
 
 | 10 most Happy tracks                      | 10 least Happy tracks                         |
 |:------------------------------------------|:----------------------------------------------|
-| Finesse                                   | Unknown (To You)                              |
-| Ain't Too Proud To Beg                    | There Goes My Baby                            |
-| Finesse - Remix; feat. Cardi B            | Grenade                                       |
-| Papa Was A Rollin' Stone - Single Version | I Was Here                                    |
-| Superstition - Single Version             | What Now                                      |
-| Locked out of Heaven                      | Ave Maria                                     |
-| That's What I Like                        | Thinkin Bout You                              |
-| Build Me Up Buttercup                     | Listen (From the Motion Picture "Dreamgirls") |
-| For Once In My Life                       | I Like That                                   |
-| S&M                                       | Stay                                          |
+| Finesse                                   | Stay                                          |
+| Ain't Too Proud To Beg                    | I Like That                                   |
+| Finesse - Remix; feat. Cardi B            | Listen (From the Motion Picture "Dreamgirls") |
+| Papa Was A Rollin' Stone - Single Version | Thinkin Bout You                              |
+| Superstition - Single Version             | Ave Maria                                     |
+| Locked out of Heaven                      | What Now                                      |
+| That's What I Like                        | I Was Here                                    |
+| Build Me Up Buttercup                     | Grenade                                       |
+| For Once In My Life                       | There Goes My Baby                            |
+| S&M                                       | Unknown (To You)                              |

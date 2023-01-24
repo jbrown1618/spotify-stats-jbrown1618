@@ -46,10 +46,10 @@ Appears as:
 <details>
 <summary>See all 2 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album               | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------|:-----------------------------------------------------------|
-|                 20 | <img src="https://i.scdn.co/image/ab67616d0000b273a78d6aa51909744b78778902" alt="" width="50" /> | Mozart Piano Pieces | [🔗](https://open.spotify.com/album/3AYEvo7R1gY4O5xJuMwy3U) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27376a42530f861aa187f3ac1c2" alt="" width="50" /> | Fauré Pavane        | [🔗](https://open.spotify.com/album/0FaQ2LW8NNG3YXYJXFikJF) |
+|   Number of Tracks | Art                                                                                              | Album               | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------|:---------------|:-----------------------------------------------------------|
+|                 20 | <img src="https://i.scdn.co/image/ab67616d0000b273a78d6aa51909744b78778902" alt="" width="50" /> | Mozart Piano Pieces | 2020-10-13     | [🔗](https://open.spotify.com/album/3AYEvo7R1gY4O5xJuMwy3U) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27376a42530f861aa187f3ac1c2" alt="" width="50" /> | Fauré Pavane        | 2020-05-30     | [🔗](https://open.spotify.com/album/0FaQ2LW8NNG3YXYJXFikJF) |
 
 </details>
 

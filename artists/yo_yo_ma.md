@@ -10,9 +10,9 @@
 |                 36 | <img src="https://i.scdn.co/image/ab67616d0000b273261feb89ee859b598bd34a97" alt="" width="50" /> | [Bach](../playlists/bach/overview.md) |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album                                         | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------|:-----------------------------------------------------------|
-|                 36 | <img src="https://i.scdn.co/image/ab67616d0000b273261feb89ee859b598bd34a97" alt="" width="50" /> | Bach: Unaccompanied Cello Suites (Remastered) | [🔗](https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI) |
+|   Number of Tracks | Art                                                                                              | Album                                         |   Release Date | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------|---------------:|:-----------------------------------------------------------|
+|                 36 | <img src="https://i.scdn.co/image/ab67616d0000b273261feb89ee859b598bd34a97" alt="" width="50" /> | Bach: Unaccompanied Cello Suites (Remastered) |           1983 | [🔗](https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI) |
 
 ## Top Record Labels
 

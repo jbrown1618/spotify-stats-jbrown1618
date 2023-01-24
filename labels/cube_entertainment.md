@@ -36,26 +36,26 @@ Appears as:
 <details>
 <summary>See all 18 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album            | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------|:-----------------------------------------------------------|
-|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | I NEVER DIE      | [🔗](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) |
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | I love           | [🔗](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="" width="50" /> | I am             | [🔗](https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273ea82cfc115275d25d9750ae1" alt="" width="50" /> | No.1             | [🔗](https://open.spotify.com/album/6xSUUpa9LBZYwJFMJOr8M6) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="" width="50" /> | IN:VITE U        | [🔗](https://open.spotify.com/album/5vxZM8rFJiNvjtAThYnwek) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ef6b9310f4cef9d603fa8873" alt="" width="50" /> | Trouble Maker    | [🔗](https://open.spotify.com/album/130MEXfaPjOmSkE18F9rJm) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e099e697d0068b652fe6814e" alt="" width="50" /> | Positive         | [🔗](https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273276ccd3b144c9c0f9ba152b6" alt="" width="50" /> | Jelly            | [🔗](https://open.spotify.com/album/7iTA4T8A4tDU77Dt6y3f9m) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737791e34bd6da03ed541a3563" alt="" width="50" /> | Idle song        | [🔗](https://open.spotify.com/album/6RasD9dt49odO6D3VkhD1z) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="" width="50" /> | I made           | [🔗](https://open.spotify.com/album/479xGDGrqMXN8YLmJMEoTG) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ace0e90dab0e51a4aec4f50a" alt="" width="50" /> | HANN (Alone)     | [🔗](https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27389566f1f791bc7095755471e" alt="" width="50" /> | First Love       | [🔗](https://open.spotify.com/album/1s0NkdUXMRPJvgWV1kEEbP) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c89d6d3da4431db2eb42acb2" alt="" width="50" /> | Fiction And Fact | [🔗](https://open.spotify.com/album/7bmaIj97ZBuFyDewh5lY4s) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738acb7bac073f378d59bf228e" alt="" width="50" /> | Crazy            | [🔗](https://open.spotify.com/album/5ooERKclQluBVu00PIH9Xm) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fe5a77c6bd965bef349c6482" alt="" width="50" /> | CRYSTYLE         | [🔗](https://open.spotify.com/album/74VP5VvY2CISEqfEkH9Wuc) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27317477a7434c66ac5548b6ab7" alt="" width="50" /> | Brother Act.     | [🔗](https://open.spotify.com/album/3oXEVu3gwToJRkE2xAW44a) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273467ea7cec7cd993340bc80be" alt="" width="50" /> | BLACK DRESS      | [🔗](https://open.spotify.com/album/3I3c4rkP6v5LtjMrgbD6d0) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27385155038f6eb09e2212d7094" alt="" width="50" /> | Act. 7           | [🔗](https://open.spotify.com/album/2QGDdrZDuxK7VBmcJZxi1B) |
+|   Number of Tracks | Art                                                                                              | Album            | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------|:---------------|:-----------------------------------------------------------|
+|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | I NEVER DIE      | 2022-03-14     | [🔗](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | I love           | 2022-10-17     | [🔗](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="" width="50" /> | I am             | 2018-05-02     | [🔗](https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273ea82cfc115275d25d9750ae1" alt="" width="50" /> | No.1             | 2019-01-30     | [🔗](https://open.spotify.com/album/6xSUUpa9LBZYwJFMJOr8M6) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="" width="50" /> | IN:VITE U        | 2022-01-24     | [🔗](https://open.spotify.com/album/5vxZM8rFJiNvjtAThYnwek) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ef6b9310f4cef9d603fa8873" alt="" width="50" /> | Trouble Maker    | 2011-12-01     | [🔗](https://open.spotify.com/album/130MEXfaPjOmSkE18F9rJm) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e099e697d0068b652fe6814e" alt="" width="50" /> | Positive         | 2018-04-02     | [🔗](https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273276ccd3b144c9c0f9ba152b6" alt="" width="50" /> | Jelly            | 2017-11-05     | [🔗](https://open.spotify.com/album/7iTA4T8A4tDU77Dt6y3f9m) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737791e34bd6da03ed541a3563" alt="" width="50" /> | Idle song        | 2018-02-28     | [🔗](https://open.spotify.com/album/6RasD9dt49odO6D3VkhD1z) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="" width="50" /> | I made           | 2019-02-26     | [🔗](https://open.spotify.com/album/479xGDGrqMXN8YLmJMEoTG) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ace0e90dab0e51a4aec4f50a" alt="" width="50" /> | HANN (Alone)     | 2018-08-14     | [🔗](https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27389566f1f791bc7095755471e" alt="" width="50" /> | First Love       | 2015-03-19     | [🔗](https://open.spotify.com/album/1s0NkdUXMRPJvgWV1kEEbP) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c89d6d3da4431db2eb42acb2" alt="" width="50" /> | Fiction And Fact | 2011-05-17     | [🔗](https://open.spotify.com/album/7bmaIj97ZBuFyDewh5lY4s) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738acb7bac073f378d59bf228e" alt="" width="50" /> | Crazy            | 2015-02-09     | [🔗](https://open.spotify.com/album/5ooERKclQluBVu00PIH9Xm) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fe5a77c6bd965bef349c6482" alt="" width="50" /> | CRYSTYLE         | 2017-01-17     | [🔗](https://open.spotify.com/album/74VP5VvY2CISEqfEkH9Wuc) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27317477a7434c66ac5548b6ab7" alt="" width="50" /> | Brother Act.     | 2017-10-16     | [🔗](https://open.spotify.com/album/3oXEVu3gwToJRkE2xAW44a) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273467ea7cec7cd993340bc80be" alt="" width="50" /> | BLACK DRESS      | 2018-02-22     | [🔗](https://open.spotify.com/album/3I3c4rkP6v5LtjMrgbD6d0) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27385155038f6eb09e2212d7094" alt="" width="50" /> | Act. 7           | 2016-02-01     | [🔗](https://open.spotify.com/album/2QGDdrZDuxK7VBmcJZxi1B) |
 
 </details>
 

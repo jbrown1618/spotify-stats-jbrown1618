@@ -12,11 +12,11 @@
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2732ab037775757e856d496f2f5" alt="" width="50" />                                                                                                                            | [Rachmaninov](../playlists/rachmaninov/overview.md)     |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album                                  | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:-----------------------------------------------------------|
-|                 31 | <img src="https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da" alt="" width="50" /> | Tchaikovsky: Swan Lake                 | [🔗](https://open.spotify.com/album/7dVA06E7AP7P7VzPyNxQVO) |
-|                 12 | <img src="https://i.scdn.co/image/ab67616d0000b273c385dbfabcec21279dcea0b5" alt="" width="50" /> | Mendelssohn: A Midsummer Night's Dream | [🔗](https://open.spotify.com/album/60J66evwnrnfH03HgDTrwN) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2738e6adfe4421d106633abde7b" alt="" width="50" /> | Rachmaninov: Piano Concerto No.2       | [🔗](https://open.spotify.com/album/5lVqgXqdoIH3W1wUM2hzPx) |
+|   Number of Tracks | Art                                                                                              | Album                                  | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:---------------|:-----------------------------------------------------------|
+|                 31 | <img src="https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da" alt="" width="50" /> | Tchaikovsky: Swan Lake                 | 1976           | [🔗](https://open.spotify.com/album/7dVA06E7AP7P7VzPyNxQVO) |
+|                 12 | <img src="https://i.scdn.co/image/ab67616d0000b273c385dbfabcec21279dcea0b5" alt="" width="50" /> | Mendelssohn: A Midsummer Night's Dream | 2017-02-03     | [🔗](https://open.spotify.com/album/60J66evwnrnfH03HgDTrwN) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2738e6adfe4421d106633abde7b" alt="" width="50" /> | Rachmaninov: Piano Concerto No.2       | 2012-01-01     | [🔗](https://open.spotify.com/album/5lVqgXqdoIH3W1wUM2hzPx) |
 
 ## Top Record Labels
 

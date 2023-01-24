@@ -12,12 +12,12 @@
 |                  1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734c43a2f36c0aec708ba024d5ab67616d0000b2735d026bccbd8a50650e903130ab67616d0000b27376a42530f861aa187f3ac1c2ab67616d0000b273c385dbfabcec21279dcea0b5" alt="" width="50" /> | [Program Music](../playlists/program_music/overview.md) |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album                                 | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------|:-----------------------------------------------------------|
-|                 31 | <img src="https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da" alt="" width="50" /> | Tchaikovsky: Swan Lake                | [🔗](https://open.spotify.com/album/7dVA06E7AP7P7VzPyNxQVO) |
-|                 24 | <img src="https://i.scdn.co/image/ab67616d0000b273f1972145094112a1268035f1" alt="" width="50" /> | Tchaikovsky: The Nutcracker           | [🔗](https://open.spotify.com/album/54Awn36ryf55PkZyOR4iwQ) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273e3e10be41297c622a0ec2e0d" alt="" width="50" /> | Tchaikovsky: Sacred Choral Music      | [🔗](https://open.spotify.com/album/4udN7bCLaa8zCnaIvoxzOB) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="" width="50" /> | Mussorgsky: Pictures At An Exhibition | [🔗](https://open.spotify.com/album/1b2aoeaYZZBWmJoavOQhnd) |
+|   Number of Tracks | Art                                                                                              | Album                                 | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------|:---------------|:-----------------------------------------------------------|
+|                 31 | <img src="https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da" alt="" width="50" /> | Tchaikovsky: Swan Lake                | 1976           | [🔗](https://open.spotify.com/album/7dVA06E7AP7P7VzPyNxQVO) |
+|                 24 | <img src="https://i.scdn.co/image/ab67616d0000b273f1972145094112a1268035f1" alt="" width="50" /> | Tchaikovsky: The Nutcracker           | 2010-10-11     | [🔗](https://open.spotify.com/album/54Awn36ryf55PkZyOR4iwQ) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273e3e10be41297c622a0ec2e0d" alt="" width="50" /> | Tchaikovsky: Sacred Choral Music      | 2016-07-01     | [🔗](https://open.spotify.com/album/4udN7bCLaa8zCnaIvoxzOB) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="" width="50" /> | Mussorgsky: Pictures At An Exhibition | 2016-12-02     | [🔗](https://open.spotify.com/album/1b2aoeaYZZBWmJoavOQhnd) |
 
 ## Top Record Labels
 

@@ -14,17 +14,17 @@
 |                  1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732d73b1bb77cee09f0278be04ab67616d0000b2736f50b3400595b123a916e0dcab67616d0000b2739ab215825eb77076b1b4b387ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | [Karaoke](../playlists/karaoke/overview.md) |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album                        | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------|:-----------------------------------------------------------|
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Good Girl Gone Bad: Reloaded | [🔗](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731f69f49a0d2f6b13a79efe02" alt="" width="50" /> | Unapologetic                 | [🔗](https://open.spotify.com/album/0XJya16l3K1J2dEwY19F8z) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef" alt="" width="50" /> | Talk That Talk               | [🔗](https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="" width="50" /> | Unapologetic (Deluxe)        | [🔗](https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d9aa52355e062f5de060adbf" alt="" width="50" /> | This Is What You Came For    | [🔗](https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27357195dfe8926f713b21d6cac" alt="" width="50" /> | The Marshall Mathers LP2     | [🔗](https://open.spotify.com/album/3vOgbDjgsZBAPwV2M3bNOj) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="" width="50" /> | Recovery                     | [🔗](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="" width="50" /> | Loud                         | [🔗](https://open.spotify.com/album/6UHhmTLl9T1scRYLmpHcDX) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27333c6b920eabcf4c00d7a1093" alt="" width="50" /> | ANTI (Deluxe)                | [🔗](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) |
+|   Number of Tracks | Art                                                                                              | Album                        | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------|:---------------|:-----------------------------------------------------------|
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Good Girl Gone Bad: Reloaded | 2008-06-02     | [🔗](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731f69f49a0d2f6b13a79efe02" alt="" width="50" /> | Unapologetic                 | 2012-12-11     | [🔗](https://open.spotify.com/album/0XJya16l3K1J2dEwY19F8z) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef" alt="" width="50" /> | Talk That Talk               | 2011-11-19     | [🔗](https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="" width="50" /> | Unapologetic (Deluxe)        | 2012-12-11     | [🔗](https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d9aa52355e062f5de060adbf" alt="" width="50" /> | This Is What You Came For    | 2016-04-29     | [🔗](https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27357195dfe8926f713b21d6cac" alt="" width="50" /> | The Marshall Mathers LP2     | 2013-11-05     | [🔗](https://open.spotify.com/album/3vOgbDjgsZBAPwV2M3bNOj) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="" width="50" /> | Recovery                     | 2010-06-18     | [🔗](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="" width="50" /> | Loud                         | 2010-11-16     | [🔗](https://open.spotify.com/album/6UHhmTLl9T1scRYLmpHcDX) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27333c6b920eabcf4c00d7a1093" alt="" width="50" /> | ANTI (Deluxe)                | 2016-01-28     | [🔗](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) |
 
 ## Top Record Labels
 

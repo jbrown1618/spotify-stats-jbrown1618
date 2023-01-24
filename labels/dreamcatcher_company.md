@@ -29,13 +29,13 @@ Appears as:
 <details>
 <summary>See all 5 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                       | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------|:-----------------------------------------------------------|
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="" width="50" /> | 1st Album [Dystopia : The Tree of Language] | [🔗](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="" width="50" /> | [Apocalypse : Save us]                      | [🔗](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737c0618723e2fca9e617eec34" alt="" width="50" /> | [Summer Holiday]                            | [🔗](https://open.spotify.com/album/1JOpx5eL6Rb3vRC9epERQD) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27393dc875f5465891061acef62" alt="" width="50" /> | [REASON]                                    | [🔗](https://open.spotify.com/album/0VZzJkiIK51ygHS5n1qRnZ) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c7d075ac409f015413350f6d" alt="" width="50" /> | [Apocalypse : Follow us]                    | [🔗](https://open.spotify.com/album/7MQXcfzHmWjQAAIFhdy1mY) |
+|   Number of Tracks | Art                                                                                              | Album                                       | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="" width="50" /> | 1st Album [Dystopia : The Tree of Language] | 2020-02-18     | [🔗](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="" width="50" /> | [Apocalypse : Save us]                      | 2022-04-12     | [🔗](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737c0618723e2fca9e617eec34" alt="" width="50" /> | [Summer Holiday]                            | 2021-07-30     | [🔗](https://open.spotify.com/album/1JOpx5eL6Rb3vRC9epERQD) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27393dc875f5465891061acef62" alt="" width="50" /> | [REASON]                                    | 2023-01-13     | [🔗](https://open.spotify.com/album/0VZzJkiIK51ygHS5n1qRnZ) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c7d075ac409f015413350f6d" alt="" width="50" /> | [Apocalypse : Follow us]                    | 2022-10-11     | [🔗](https://open.spotify.com/album/7MQXcfzHmWjQAAIFhdy1mY) |
 
 </details>
 

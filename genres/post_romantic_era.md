@@ -53,17 +53,17 @@
 <details>
 <summary>See all 9 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                                                                                         | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------|
-|                 24 | <img src="https://i.scdn.co/image/ab67616d0000b2732d2154810a4e4472b4cc199e" alt="" width="50" /> | Rachmaninov: Preludes for Piano (Complete)                                                                    | [🔗](https://open.spotify.com/album/1vlnwUAidj7bEmRhsq4zTv) |
-|                 20 | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="" width="50" /> | Debussy: Clair De Lune and Other Piano Favourites                                                             | [🔗](https://open.spotify.com/album/4O5tv6jrLH80bmll46xEEe) |
-|                 15 | <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="" width="50" /> | Rachmaninov: Vespers - All Night Vigil                                                                        | [🔗](https://open.spotify.com/album/7hqotgNjEJt09XiggaMI1v) |
-|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b2737cb0c702a8fd45bfd8358259" alt="" width="50" /> | Debussy & Ravel: String Quartets                                                                              | [🔗](https://open.spotify.com/album/77Eg2dHidrefgsS3GZ88nK) |
-|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b2734c43a2f36c0aec708ba024d5" alt="" width="50" /> | Holst: The Planets                                                                                            | [🔗](https://open.spotify.com/album/4v0Xyz0LVToUsSTGdsvKSK) |
-|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b2735f71322acbf611462ffc03d5" alt="" width="50" /> | Fauré: Requiem; Pavane                                                                                        | [🔗](https://open.spotify.com/album/0mhVHXJrGE5WUA58CJLf29) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2738e6adfe4421d106633abde7b" alt="" width="50" /> | Rachmaninov: Piano Concerto No.2                                                                              | [🔗](https://open.spotify.com/album/5lVqgXqdoIH3W1wUM2hzPx) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="" width="50" /> | Debussy: La Mer; Jeux; Prélude à l'après-midi d'un faune; Le Martyre de Saint Sébastien (Symphonic Fragments) | [🔗](https://open.spotify.com/album/5egJ0o1mVH2liUfecDWYqk) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27376a42530f861aa187f3ac1c2" alt="" width="50" /> | Fauré Pavane                                                                                                  | [🔗](https://open.spotify.com/album/0FaQ2LW8NNG3YXYJXFikJF) |
+|   Number of Tracks | Art                                                                                              | Album                                                                                                         | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                 24 | <img src="https://i.scdn.co/image/ab67616d0000b2732d2154810a4e4472b4cc199e" alt="" width="50" /> | Rachmaninov: Preludes for Piano (Complete)                                                                    | 2007-05-29     | [🔗](https://open.spotify.com/album/1vlnwUAidj7bEmRhsq4zTv) |
+|                 20 | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="" width="50" /> | Debussy: Clair De Lune and Other Piano Favourites                                                             | 1994           | [🔗](https://open.spotify.com/album/4O5tv6jrLH80bmll46xEEe) |
+|                 15 | <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="" width="50" /> | Rachmaninov: Vespers - All Night Vigil                                                                        | 1994           | [🔗](https://open.spotify.com/album/7hqotgNjEJt09XiggaMI1v) |
+|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b2737cb0c702a8fd45bfd8358259" alt="" width="50" /> | Debussy & Ravel: String Quartets                                                                              | 2018-05-25     | [🔗](https://open.spotify.com/album/77Eg2dHidrefgsS3GZ88nK) |
+|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b2734c43a2f36c0aec708ba024d5" alt="" width="50" /> | Holst: The Planets                                                                                            | 1981-01-01     | [🔗](https://open.spotify.com/album/4v0Xyz0LVToUsSTGdsvKSK) |
+|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b2735f71322acbf611462ffc03d5" alt="" width="50" /> | Fauré: Requiem; Pavane                                                                                        | 2008-01-01     | [🔗](https://open.spotify.com/album/0mhVHXJrGE5WUA58CJLf29) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2738e6adfe4421d106633abde7b" alt="" width="50" /> | Rachmaninov: Piano Concerto No.2                                                                              | 2012-01-01     | [🔗](https://open.spotify.com/album/5lVqgXqdoIH3W1wUM2hzPx) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="" width="50" /> | Debussy: La Mer; Jeux; Prélude à l'après-midi d'un faune; Le Martyre de Saint Sébastien (Symphonic Fragments) | 1989-01-01     | [🔗](https://open.spotify.com/album/5egJ0o1mVH2liUfecDWYqk) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27376a42530f861aa187f3ac1c2" alt="" width="50" /> | Fauré Pavane                                                                                                  | 2020-05-30     | [🔗](https://open.spotify.com/album/0FaQ2LW8NNG3YXYJXFikJF) |
 
 </details>
 
@@ -92,91 +92,91 @@
 
 | 10 most Danceable tracks                                        | 10 least Danceable tracks                                                      |
 |:----------------------------------------------------------------|:-------------------------------------------------------------------------------|
-| Études, L. 136: II. Pour les Accords                            | Vespers, Op. 37: XIV. "Voskrez iz groba"                                       |
-| 13 Preludes, Op. 32: No. 3 in E Major: Allegro vivace           | Vespers, Op. 37: IV. "Svete tikhyi"                                            |
-| 13 Preludes, Op. 32: No. 8 in A Minor: Vivo                     | La Mer, L.109: 3. Dialogue Of The Wind And The Sea                             |
-| Morceaux de fantaisie, Op. 3: No. 2, Prelude in C-Sharp Minor   | The Planets, Op. 32: 2. Venus, the Bringer of Peace                            |
-| 10 Preludes, Op. 23: No. 10 in G-Flat Major: Largo              | Vespers, Op. 37: V. "Nyne otpushchayeshi"                                      |
-| 13 Preludes, Op. 32: No. 11 in B Major: Allegretto              | Requiem in D Minor, Op.48: 2. Offertorium: Domine Jesu Christe                 |
-| String Quartet in G Minor, Op. 10: II. Assez vif et bien rythmé | Vespers, Op. 37: XII. "Slava v vyshnikh Bogu"                                  |
-| Children's Corner, L. 113: III. Golliwogg's Cake-Walk           | La Mer, L.109: 1. From Dawn Till Noon On The Sea (De l'aube à midi sur la mer) |
-| Préludes Book 1, L. 117: IV. Minstrels                          | String Quartet in G Minor, Op. 10: III. Andantino, doucement expressif         |
-| Préludes Book 1, L. 117: I. Des Pas sur La Neige                | The Planets, Op. 32: 7. Neptune, the Mystic                                    |
+| Études, L. 136: II. Pour les Accords                            | The Planets, Op. 32: 7. Neptune, the Mystic                                    |
+| 13 Preludes, Op. 32: No. 3 in E Major: Allegro vivace           | String Quartet in G Minor, Op. 10: III. Andantino, doucement expressif         |
+| 13 Preludes, Op. 32: No. 8 in A Minor: Vivo                     | La Mer, L.109: 1. From Dawn Till Noon On The Sea (De l'aube à midi sur la mer) |
+| Morceaux de fantaisie, Op. 3: No. 2, Prelude in C-Sharp Minor   | Vespers, Op. 37: XII. "Slava v vyshnikh Bogu"                                  |
+| 10 Preludes, Op. 23: No. 10 in G-Flat Major: Largo              | Requiem in D Minor, Op.48: 2. Offertorium: Domine Jesu Christe                 |
+| 13 Preludes, Op. 32: No. 11 in B Major: Allegretto              | Vespers, Op. 37: V. "Nyne otpushchayeshi"                                      |
+| String Quartet in G Minor, Op. 10: II. Assez vif et bien rythmé | The Planets, Op. 32: 2. Venus, the Bringer of Peace                            |
+| Children's Corner, L. 113: III. Golliwogg's Cake-Walk           | La Mer, L.109: 3. Dialogue Of The Wind And The Sea                             |
+| Préludes Book 1, L. 117: IV. Minstrels                          | Vespers, Op. 37: IV. "Svete tikhyi"                                            |
+| Préludes Book 1, L. 117: I. Des Pas sur La Neige                | Vespers, Op. 37: XIV. "Voskrez iz groba"                                       |
 
 | 10 most Energetic tracks                                | 10 least Energetic tracks                                       |
 |:--------------------------------------------------------|:----------------------------------------------------------------|
-| Vespers, Op. 37: XV. "Vzbrannoy voevode"                | La Plus que Lente, L. 121                                       |
-| The Planets, Op. 32: 1. Mars, the Bringer of War        | The Planets, Op. 32: 7. Neptune, the Mystic                     |
-| The Planets, Op. 32: 4. Jupiter, the Bringer of Jollity | Images, Set 1, L. 110: Reflets dans L'eau                       |
-| Vespers, Op. 37: VIII. "Kvalite imya Gospodne"          | 10 Preludes, Op. 23: No. 10 in G-Flat Major: Largo              |
-| The Planets, Op. 32: 6. Uranus, the Magician            | Clair de Lune, L. 32                                            |
-| 10 Preludes, Op. 23: No. 2 in B-Flat Major: Maestoso    | Préludes Book 1, L. 117: III. La Cathedrale Engloutie           |
-| 13 Preludes, Op. 32: No. 3 in E Major: Allegro vivace   | La Fille aux Cheveux de Lin, L. 33                              |
-| String Quartet in G Minor, Op. 10: IV. Très modéré      | Préludes Book 2, L. 123: II. Canope                             |
-| 13 Preludes, Op. 32: No. 1 in C Major: Allegro vivace   | Images, Set 2, L. 111: et la Lune descend sur le Temple qui fut |
-| Quatuor en Fa Majeur, M. 35: IV. Vif et agité           | Préludes Book 1, L. 117: I. Des Pas sur La Neige                |
+| Vespers, Op. 37: XV. "Vzbrannoy voevode"                | Préludes Book 1, L. 117: I. Des Pas sur La Neige                |
+| The Planets, Op. 32: 1. Mars, the Bringer of War        | Images, Set 2, L. 111: et la Lune descend sur le Temple qui fut |
+| The Planets, Op. 32: 4. Jupiter, the Bringer of Jollity | Préludes Book 2, L. 123: II. Canope                             |
+| Vespers, Op. 37: VIII. "Kvalite imya Gospodne"          | La Fille aux Cheveux de Lin, L. 33                              |
+| The Planets, Op. 32: 6. Uranus, the Magician            | Préludes Book 1, L. 117: III. La Cathedrale Engloutie           |
+| 10 Preludes, Op. 23: No. 2 in B-Flat Major: Maestoso    | Clair de Lune, L. 32                                            |
+| 13 Preludes, Op. 32: No. 3 in E Major: Allegro vivace   | 10 Preludes, Op. 23: No. 10 in G-Flat Major: Largo              |
+| String Quartet in G Minor, Op. 10: IV. Très modéré      | Images, Set 1, L. 110: Reflets dans L'eau                       |
+| 13 Preludes, Op. 32: No. 1 in C Major: Allegro vivace   | The Planets, Op. 32: 7. Neptune, the Mystic                     |
+| Quatuor en Fa Majeur, M. 35: IV. Vif et agité           | La Plus que Lente, L. 121                                       |
 
 | 10 most Speechy tracks                                          | 10 least Speechy tracks                                        |
 |:----------------------------------------------------------------|:---------------------------------------------------------------|
-| Préludes Book 2, L. 123: II. Canope                             | 10 Preludes, Op. 23: No. 5 in G Minor: Alla marcia             |
-| Études, L. 136: II. Pour les Accords                            | 13 Preludes, Op. 32: No. 1 in C Major: Allegro vivace          |
-| Images, Set 2, L. 111: et la Lune descend sur le Temple qui fut | 10 Preludes, Op. 23: No. 3 in D Minor: Tempo di minuetto       |
-| The Planets, Op. 32: 6. Uranus, the Magician                    | Piano Concerto No. 2 in C Minor, Op. 18: 3. Allegro scherzando |
-| 10 Preludes, Op. 23: No. 1 in F-Sharp Minor: Largo              | Suite Bergamasque, L. 75: Passepied                            |
-| Morceaux de fantaisie, Op. 3: No. 2, Prelude in C-Sharp Minor   | 10 Preludes, Op. 23: No. 6 in E-Flat Major: Andante            |
-| 13 Preludes, Op. 32: No. 11 in B Major: Allegretto              | 10 Preludes, Op. 23: No. 2 in B-Flat Major: Maestoso           |
-| Quatuor en Fa Majeur, M. 35: I. Allegro moderato                | Préludes Book 1, L. 117: IV. Minstrels                         |
-| La Fille aux Cheveux de Lin, L. 33                              | 10 Preludes, Op. 23: No. 7 in C Minor: Allegro                 |
-| 13 Preludes, Op. 32: No. 10 in B Minor: Lento                   | 13 Preludes, Op. 32: No. 6 in F Minor: Allegro appassionato    |
+| Préludes Book 2, L. 123: II. Canope                             | 13 Preludes, Op. 32: No. 6 in F Minor: Allegro appassionato    |
+| Études, L. 136: II. Pour les Accords                            | 10 Preludes, Op. 23: No. 7 in C Minor: Allegro                 |
+| Images, Set 2, L. 111: et la Lune descend sur le Temple qui fut | Préludes Book 1, L. 117: IV. Minstrels                         |
+| The Planets, Op. 32: 6. Uranus, the Magician                    | 10 Preludes, Op. 23: No. 2 in B-Flat Major: Maestoso           |
+| 10 Preludes, Op. 23: No. 1 in F-Sharp Minor: Largo              | 10 Preludes, Op. 23: No. 6 in E-Flat Major: Andante            |
+| Morceaux de fantaisie, Op. 3: No. 2, Prelude in C-Sharp Minor   | Suite Bergamasque, L. 75: Passepied                            |
+| 13 Preludes, Op. 32: No. 11 in B Major: Allegretto              | Piano Concerto No. 2 in C Minor, Op. 18: 3. Allegro scherzando |
+| Quatuor en Fa Majeur, M. 35: I. Allegro moderato                | 10 Preludes, Op. 23: No. 3 in D Minor: Tempo di minuetto       |
+| La Fille aux Cheveux de Lin, L. 33                              | 13 Preludes, Op. 32: No. 1 in C Major: Allegro vivace          |
+| 13 Preludes, Op. 32: No. 10 in B Minor: Lento                   | 10 Preludes, Op. 23: No. 5 in G Minor: Alla marcia             |
 
 | 10 most Acoustic tracks                                | 10 least Acoustic tracks                                                       |
 |:-------------------------------------------------------|:-------------------------------------------------------------------------------|
-| Vespers, Op. 37: XV. "Vzbrannoy voevode"               | The Planets, Op. 32: 5. Saturn, the Bringer of Old Age                         |
-| 13 Preludes, Op. 32: No. 2 in B-Flat Minor: Allegretto | Quatuor en Fa Majeur, M. 35: II. Assez vif, très rythmé                        |
-| Vespers, Op. 37: I. "Priidite, poklonimsya"            | String Quartet in G Minor, Op. 10: II. Assez vif et bien rythmé                |
-| 13 Preludes, Op. 32: No. 7 in F Major: Moderato        | The Planets, Op. 32: 4. Jupiter, the Bringer of Jollity                        |
-| 10 Preludes, Op. 23: No. 1 in F-Sharp Minor: Largo     | Quatuor en Fa Majeur, M. 35: III. Très lent                                    |
-| 13 Preludes, Op. 32: No. 10 in B Minor: Lento          | The Planets, Op. 32: 7. Neptune, the Mystic                                    |
-| 13 Preludes, Op. 32: No. 5 in G Major: Moderato        | La Mer, L.109: 1. From Dawn Till Noon On The Sea (De l'aube à midi sur la mer) |
-| La Plus que Lente, L. 121                              | The Planets, Op. 32: 6. Uranus, the Magician                                   |
-| La Fille aux Cheveux de Lin, L. 33                     | La Mer, L.109: 3. Dialogue Of The Wind And The Sea                             |
-| 10 Preludes, Op. 23: No. 10 in G-Flat Major: Largo     | The Planets, Op. 32: 1. Mars, the Bringer of War                               |
+| Vespers, Op. 37: XV. "Vzbrannoy voevode"               | The Planets, Op. 32: 1. Mars, the Bringer of War                               |
+| 13 Preludes, Op. 32: No. 2 in B-Flat Minor: Allegretto | La Mer, L.109: 3. Dialogue Of The Wind And The Sea                             |
+| Vespers, Op. 37: I. "Priidite, poklonimsya"            | The Planets, Op. 32: 6. Uranus, the Magician                                   |
+| 13 Preludes, Op. 32: No. 7 in F Major: Moderato        | La Mer, L.109: 1. From Dawn Till Noon On The Sea (De l'aube à midi sur la mer) |
+| 10 Preludes, Op. 23: No. 1 in F-Sharp Minor: Largo     | The Planets, Op. 32: 7. Neptune, the Mystic                                    |
+| 13 Preludes, Op. 32: No. 10 in B Minor: Lento          | Quatuor en Fa Majeur, M. 35: III. Très lent                                    |
+| 13 Preludes, Op. 32: No. 5 in G Major: Moderato        | The Planets, Op. 32: 4. Jupiter, the Bringer of Jollity                        |
+| La Plus que Lente, L. 121                              | String Quartet in G Minor, Op. 10: II. Assez vif et bien rythmé                |
+| La Fille aux Cheveux de Lin, L. 33                     | Quatuor en Fa Majeur, M. 35: II. Assez vif, très rythmé                        |
+| 10 Preludes, Op. 23: No. 10 in G-Flat Major: Largo     | The Planets, Op. 32: 5. Saturn, the Bringer of Old Age                         |
 
 | 10 most Instrumental tracks                                  | 10 least Instrumental tracks                            |
 |:-------------------------------------------------------------|:--------------------------------------------------------|
-| Vespers, Op. 37: XIV. "Voskrez iz groba"                     | Quatuor en Fa Majeur, M. 35: I. Allegro moderato        |
-| Vespers, Op. 37: VI. "Bogoroditse Devo"                      | The Planets, Op. 32: 2. Venus, the Bringer of Peace     |
-| Requiem in D Minor, Op.48: 7. In paradisum                   | Vespers, Op. 37: X. "Voskreseniye Khristovo videvshe"   |
-| Requiem in D Minor, Op.48: 3. Sanctus                        | Préludes Book 2, L. 123: III. Feux d'Artifice           |
-| Estampes, L. 100: Jardins sous La Pluie                      | Quatuor en Fa Majeur, M. 35: III. Très lent             |
-| Children's Corner, L. 113: I. Doctor Gradus ad Parnassum     | Vespers, Op. 37: IX. "Blagosloven esi, Gospodi"         |
-| Études, L. 136: I. Pour les Arpeges Composes                 | Vespers, Op. 37: VIII. "Kvalite imya Gospodne"          |
-| La Fille aux Cheveux de Lin, L. 33                           | Quatuor en Fa Majeur, M. 35: II. Assez vif, très rythmé |
-| Piano Concerto No. 2 in C Minor, Op. 18: 2. Adagio sostenuto | Vespers, Op. 37: XV. "Vzbrannoy voevode"                |
-| 13 Preludes, Op. 32: No. 5 in G Major: Moderato              | Vespers, Op. 37: II. "Blagoslovi dushe moya"            |
+| Vespers, Op. 37: XIV. "Voskrez iz groba"                     | Vespers, Op. 37: II. "Blagoslovi dushe moya"            |
+| Vespers, Op. 37: VI. "Bogoroditse Devo"                      | Vespers, Op. 37: XV. "Vzbrannoy voevode"                |
+| Requiem in D Minor, Op.48: 7. In paradisum                   | Quatuor en Fa Majeur, M. 35: II. Assez vif, très rythmé |
+| Requiem in D Minor, Op.48: 3. Sanctus                        | Vespers, Op. 37: VIII. "Kvalite imya Gospodne"          |
+| Estampes, L. 100: Jardins sous La Pluie                      | Vespers, Op. 37: IX. "Blagosloven esi, Gospodi"         |
+| Children's Corner, L. 113: I. Doctor Gradus ad Parnassum     | Quatuor en Fa Majeur, M. 35: III. Très lent             |
+| Études, L. 136: I. Pour les Arpeges Composes                 | Préludes Book 2, L. 123: III. Feux d'Artifice           |
+| La Fille aux Cheveux de Lin, L. 33                           | Vespers, Op. 37: X. "Voskreseniye Khristovo videvshe"   |
+| Piano Concerto No. 2 in C Minor, Op. 18: 2. Adagio sostenuto | The Planets, Op. 32: 2. Venus, the Bringer of Peace     |
+| 13 Preludes, Op. 32: No. 5 in G Major: Moderato              | Quatuor en Fa Majeur, M. 35: I. Allegro moderato        |
 
 | 10 most Live tracks                                     | 10 least Live tracks                                            |
 |:--------------------------------------------------------|:----------------------------------------------------------------|
-| The Planets, Op. 32: 4. Jupiter, the Bringer of Jollity | Préludes Book 1, L. 117: III. La Cathedrale Engloutie           |
-| The Planets, Op. 32: 6. Uranus, the Magician            | Clair de Lune, L. 32                                            |
-| Children's Corner, L. 113: III. Golliwogg's Cake-Walk   | Études, L. 136: II. Pour les Accords                            |
-| Quatuor en Fa Majeur, M. 35: IV. Vif et agité           | The Planets, Op. 32: 7. Neptune, the Mystic                     |
-| The Planets, Op. 32: 1. Mars, the Bringer of War        | Images, Set 2, L. 111: et la Lune descend sur le Temple qui fut |
-| Quatuor en Fa Majeur, M. 35: II. Assez vif, très rythmé | Préludes Book 1, L. 117: I. Des Pas sur La Neige                |
-| 10 Preludes, Op. 23: No. 9 in E-Flat Minor: Presto      | Requiem in D Minor, Op.48: 7. In paradisum                      |
-| Vespers, Op. 37: XIII. "Dnes spaseniye"                 | Préludes Book 2, L. 123: II. Canope                             |
-| Préludes Book 2, L. 123: I. General Lavine              | Piano Concerto No. 2 in C Minor, Op. 18: 2. Adagio sostenuto    |
-| Quatuor en Fa Majeur, M. 35: III. Très lent             | 13 Preludes, Op. 32: No. 7 in F Major: Moderato                 |
+| The Planets, Op. 32: 4. Jupiter, the Bringer of Jollity | 13 Preludes, Op. 32: No. 7 in F Major: Moderato                 |
+| The Planets, Op. 32: 6. Uranus, the Magician            | Piano Concerto No. 2 in C Minor, Op. 18: 2. Adagio sostenuto    |
+| Children's Corner, L. 113: III. Golliwogg's Cake-Walk   | Préludes Book 2, L. 123: II. Canope                             |
+| Quatuor en Fa Majeur, M. 35: IV. Vif et agité           | Requiem in D Minor, Op.48: 7. In paradisum                      |
+| The Planets, Op. 32: 1. Mars, the Bringer of War        | Préludes Book 1, L. 117: I. Des Pas sur La Neige                |
+| Quatuor en Fa Majeur, M. 35: II. Assez vif, très rythmé | Images, Set 2, L. 111: et la Lune descend sur le Temple qui fut |
+| 10 Preludes, Op. 23: No. 9 in E-Flat Minor: Presto      | The Planets, Op. 32: 7. Neptune, the Mystic                     |
+| Vespers, Op. 37: XIII. "Dnes spaseniye"                 | Études, L. 136: II. Pour les Accords                            |
+| Préludes Book 2, L. 123: I. General Lavine              | Clair de Lune, L. 32                                            |
+| Quatuor en Fa Majeur, M. 35: III. Très lent             | Préludes Book 1, L. 117: III. La Cathedrale Engloutie           |
 
 | 10 most Happy tracks                                            | 10 least Happy tracks                                                  |
 |:----------------------------------------------------------------|:-----------------------------------------------------------------------|
-| Children's Corner, L. 113: III. Golliwogg's Cake-Walk           | Préludes Book 1, L. 117: II. Ce qu'a vu Le Vent d'Ouest                |
-| 13 Preludes, Op. 32: No. 3 in E Major: Allegro vivace           | Vespers, Op. 37: IV. "Svete tikhyi"                                    |
-| The Planets, Op. 32: 4. Jupiter, the Bringer of Jollity         | Images, Set 1, L. 110: Reflets dans L'eau                              |
-| 13 Preludes, Op. 32: No. 8 in A Minor: Vivo                     | Requiem in D Minor, Op. 48: 4. Pie Jesu                                |
-| 10 Preludes, Op. 23: No. 2 in B-Flat Major: Maestoso            | Préludes Book 2, L. 123: III. Feux d'Artifice                          |
-| String Quartet in G Minor, Op. 10: II. Assez vif et bien rythmé | Requiem in D Minor, Op.48: 1. Introitus: Requiem aeternam - Kyrie      |
-| Préludes Book 2, L. 123: I. General Lavine                      | String Quartet in G Minor, Op. 10: III. Andantino, doucement expressif |
-| Préludes Book 1, L. 117: IV. Minstrels                          | The Planets, Op. 32: 5. Saturn, the Bringer of Old Age                 |
-| 13 Preludes, Op. 32: No. 6 in F Minor: Allegro appassionato     | The Planets, Op. 32: 7. Neptune, the Mystic                            |
-| 10 Preludes, Op. 23: No. 9 in E-Flat Minor: Presto              | The Planets, Op. 32: 2. Venus, the Bringer of Peace                    |
+| Children's Corner, L. 113: III. Golliwogg's Cake-Walk           | The Planets, Op. 32: 2. Venus, the Bringer of Peace                    |
+| 13 Preludes, Op. 32: No. 3 in E Major: Allegro vivace           | The Planets, Op. 32: 7. Neptune, the Mystic                            |
+| The Planets, Op. 32: 4. Jupiter, the Bringer of Jollity         | The Planets, Op. 32: 5. Saturn, the Bringer of Old Age                 |
+| 13 Preludes, Op. 32: No. 8 in A Minor: Vivo                     | String Quartet in G Minor, Op. 10: III. Andantino, doucement expressif |
+| 10 Preludes, Op. 23: No. 2 in B-Flat Major: Maestoso            | Requiem in D Minor, Op.48: 1. Introitus: Requiem aeternam - Kyrie      |
+| String Quartet in G Minor, Op. 10: II. Assez vif et bien rythmé | Préludes Book 2, L. 123: III. Feux d'Artifice                          |
+| Préludes Book 2, L. 123: I. General Lavine                      | Requiem in D Minor, Op. 48: 4. Pie Jesu                                |
+| Préludes Book 1, L. 117: IV. Minstrels                          | Images, Set 1, L. 110: Reflets dans L'eau                              |
+| 13 Preludes, Op. 32: No. 6 in F Minor: Allegro appassionato     | Vespers, Op. 37: IV. "Svete tikhyi"                                    |
+| 10 Preludes, Op. 23: No. 9 in E-Flat Minor: Presto              | Préludes Book 1, L. 117: II. Ce qu'a vu Le Vent d'Ouest                |

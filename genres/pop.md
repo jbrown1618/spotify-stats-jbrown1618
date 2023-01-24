@@ -125,108 +125,108 @@
 <details>
 <summary>See top 100 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                      | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------|:-----------------------------------------------------------|
-|                 13 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | Kaleidoscope Heart                         | [🔗](https://open.spotify.com/album/627ukPRwYxyBREHxBq0vGJ) |
-|                 12 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | The Blessed Unrest                         | [🔗](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) |
-|                 12 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Little Voice                               | [🔗](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) |
-|                 10 | <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | reputation                                 | [🔗](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) |
-|                 10 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | folklore                                   | [🔗](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) |
-|                 10 | <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | Amidst the Chaos (Bonus Version)           | [🔗](https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm) |
-|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Midnights                                  | [🔗](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) |
-|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Lover                                      | [🔗](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) |
-|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="" width="50" /> | 1989                                       | [🔗](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) |
-|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" alt="" width="50" /> | Future Nostalgia                           | [🔗](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) |
-|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="" width="50" /> | What's Inside: Songs from Waitress         | [🔗](https://open.spotify.com/album/1s6codM2ZAB008t9GTyaEk) |
-|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | Lungs                                      | [🔗](https://open.spotify.com/album/2KAK58PimXHF4lSoKO3RxA) |
-|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="" width="50" /> | INVU - The 3rd Album                       | [🔗](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) |
-|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Ceremonials (Deluxe Edition)               | [🔗](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) |
-|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Born To Die                                | [🔗](https://open.spotify.com/album/4X8hAqIWpQyQks2yRhyqs4) |
-|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | 4 ONLY                                     | [🔗](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) |
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?   | [🔗](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) |
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | Once Upon Another Time                     | [🔗](https://open.spotify.com/album/1PrqYZJRzGNf8AsSOraxnZ) |
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | My Everything (Deluxe)                     | [🔗](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8" alt="" width="50" /> | thank u, next                              | [🔗](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | Thriller                                   | [🔗](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273754b2fddebe7039fdb912837" alt="" width="50" /> | This Is Acting (Deluxe Version)            | [🔗](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | The Fame                                   | [🔗](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | Teenage Dream                              | [🔗](https://open.spotify.com/album/3BoUxfC7YhxNq3TpOfnRif) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | Red                                        | [🔗](https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | I AM...SASHA FIERCE                        | [🔗](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="" width="50" /> | Dangerous Woman                            | [🔗](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | 4                                          | [🔗](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | 21                                         | [🔗](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | 1000 Forms Of Fear (Deluxe Version)        | [🔗](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be" alt="" width="50" /> | evermore                                   | [🔗](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="" width="50" /> | Ultraviolence (Deluxe)                     | [🔗](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="" width="50" /> | SEOULITE                                   | [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Romance                                    | [🔗](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605" alt="" width="50" /> | Positions                                  | [🔗](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" alt="" width="50" /> | Planet Her                                 | [🔗](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="" width="50" /> | Norman Fucking Rockwell!                   | [🔗](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2738c7e7f435fdcc70772c5555e" alt="" width="50" /> | My Voice - The 1st Album                   | [🔗](https://open.spotify.com/album/6DlCl3hBP1Gwhn0tgitGfN) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9a3105ad4ffb91ad2e2798" alt="" width="50" /> | Life in Cartoon Motion                     | [🔗](https://open.spotify.com/album/4wKkXYJXQWDa9sndBSx0gI) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | How Big, How Blue, How Beautiful           | [🔗](https://open.spotify.com/album/2btszoya78vyT8fwelmVnz) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Good Girl Gone Bad: Reloaded               | [🔗](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a" alt="" width="50" /> | Fine Line                                  | [🔗](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | Fearless                                   | [🔗](https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Camila                                     | [🔗](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="" width="50" /> | 24K Magic                                  | [🔗](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734bb9f35da9ff34b1e2314d8e" alt="" width="50" /> | Yours Truly                                | [🔗](https://open.spotify.com/album/5xSvNPstcxHtR4ap2vvN8A) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273350ecac91d0f0af55788c648" alt="" width="50" /> | XOXO                                       | [🔗](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273e4915763c3c7f7a05cc93885" alt="" width="50" /> | Why - The 2nd Mini Album                   | [🔗](https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2739900b995cd1a81c35c574ab0" alt="" width="50" /> | Who You Are (Platinum Edition)             | [🔗](https://open.spotify.com/album/3ga4adzUpLaS2LDcoqfs2r) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27337fb0680110fbb107740de5d" alt="" width="50" /> | What Is Love? (Deluxe Edition)             | [🔗](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2730f2e51f7121539e221c51161" alt="" width="50" /> | We Sing. We Dance. We Steal Things.        | [🔗](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="" width="50" /> | Unorthodox Jukebox                         | [🔗](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731f69f49a0d2f6b13a79efe02" alt="" width="50" /> | Unapologetic                               | [🔗](https://open.spotify.com/album/0XJya16l3K1J2dEwY19F8z) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | The Script                                 | [🔗](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="" width="50" /> | The Fame Monster (Deluxe Edition)          | [🔗](https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef" alt="" width="50" /> | Talk That Talk                             | [🔗](https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e" alt="" width="50" /> | Talk Dirty                                 | [🔗](https://open.spotify.com/album/4PeZu0It7qVrTG40t3HM9A) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394" alt="" width="50" /> | Sweetener                                  | [🔗](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273e11a75a2f2ff39cec788a015" alt="" width="50" /> | Speak Now                                  | [🔗](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e" alt="" width="50" /> | Songs About Jane: 10th Anniversary Edition | [🔗](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2730d42834b296097a0136e97d3" alt="" width="50" /> | SEOULITE                                   | [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27386b0c9728ad3ed338eaeea79" alt="" width="50" /> | Raymond v Raymond (Expanded Edition)       | [🔗](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27303668e3f13559554eca8ccc6" alt="" width="50" /> | Play On                                    | [🔗](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190" alt="" width="50" /> | Lust For Life                              | [🔗](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a90401b8d27cd6b5f3a46242" alt="" width="50" /> | Lights                                     | [🔗](https://open.spotify.com/album/3duZhvcaoqdNveQYXf9dMV) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="" width="50" /> | Lemonade                                   | [🔗](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4" alt="" width="50" /> | In The Zone                                | [🔗](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f531f18feaf3c28366ad52d4" alt="" width="50" /> | I - The 1st Mini Album                     | [🔗](https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="" width="50" /> | Hozier (Expanded Edition)                  | [🔗](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27389847614971c417b722c4d97" alt="" width="50" /> | Home                                       | [🔗](https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273bb0a530fc901e88d1c7a9f4d" alt="" width="50" /> | First Love                                 | [🔗](https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731764e1a1b94e887206782640" alt="" width="50" /> | Dua Lipa (Complete Edition)                | [🔗](https://open.spotify.com/album/0obMz8EHnr3dg6NCUK4xWp) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27334ef81d1ff3b4682a4e97f70" alt="" width="50" /> | Dreaming Out Loud                          | [🔗](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="" width="50" /> | Doo-Wops & Hooligans                       | [🔗](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2730a60fb0deda858270cca82ee" alt="" width="50" /> | Dirty Computer                             | [🔗](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27354c6edd554935d73e159e199" alt="" width="50" /> | Circus (Deluxe Version)                    | [🔗](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | Chromatica                                 | [🔗](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273efc2fc4cdaeb04524eb10c15" alt="" width="50" /> | Celebration (Bonus Track Version)          | [🔗](https://open.spotify.com/album/4GU7z3q6fg90MWrkTacYYG) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | Bad (Remastered)                           | [🔗](https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273026e88f624dfb96f2e1ef10b" alt="" width="50" /> | B'Day Deluxe Edition                       | [🔗](https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342" alt="" width="50" /> | A Star Is Born Soundtrack                  | [🔗](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="" width="50" /> | A Rush of Blood to the Head                | [🔗](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1db30cc6d74a08a5e14274" alt="" width="50" /> | 24℃                                        | [🔗](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732c0e1e9e1fd1e7b132da1606" alt="" width="50" /> | ~how i'm feeling~                          | [🔗](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27355c38bc34d1fe852f2657c2e" alt="" width="50" /> | minor                                      | [🔗](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27326a2f5224465a369f8abbf88" alt="" width="50" /> | lovestrong.                                | [🔗](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c" alt="" width="50" /> | lovely (with Khalid)                       | [🔗](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730f7ad6d8d829906c17cae210" alt="" width="50" /> | hopeless fountain kingdom (Deluxe)         | [🔗](https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273670ec029374e082f921f9f74" alt="" width="50" /> | good 4 u                                   | [🔗](https://open.spotify.com/album/3rMjL8NA5Wh2hbMNk2fSlY) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f2248cf6dad1d6c062587249" alt="" width="50" /> | everything i wanted                        | [🔗](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738ffc294c1c4362e8472d14cd" alt="" width="50" /> | drivers license                            | [🔗](https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795" alt="" width="50" /> | dont smile at me                           | [🔗](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735a61e19eaffec620c1899c47" alt="" width="50" /> | deja vu                                    | [🔗](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5" alt="" width="50" /> | channel ORANGE                             | [🔗](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732ca010dcf3863a07611d8b4f" alt="" width="50" /> | boyfriend                                  | [🔗](https://open.spotify.com/album/3zVB99XMdbP9HTVNg0GJwV) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737941a79c3108cedb1667b68d" alt="" width="50" /> | bandaids                                   | [🔗](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27341aa6776dc15fbd71a2b4557" alt="" width="50" /> | Youngblood (Deluxe)                        | [🔗](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2" alt="" width="50" /> | Young And Beautiful                        | [🔗](https://open.spotify.com/album/1D92WOHWUI2AGQCCdplcXL) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731d883d3f10af481faa3c7e04" alt="" width="50" /> | You Don't Know Me                          | [🔗](https://open.spotify.com/album/3gdmWRWWJmkp5uMBXf755B) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="" width="50" /> | Yoga                                       | [🔗](https://open.spotify.com/album/5rzxGeVyCV74SvV5hjLRAU) |
+|   Number of Tracks | Art                                                                                              | Album                                      | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                 13 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | Kaleidoscope Heart                         | 2010-09-07     | [🔗](https://open.spotify.com/album/627ukPRwYxyBREHxBq0vGJ) |
+|                 12 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | The Blessed Unrest                         | 2013-07-16     | [🔗](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) |
+|                 12 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Little Voice                               | 2007-07-03     | [🔗](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) |
+|                 10 | <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | reputation                                 | 2017-11-10     | [🔗](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) |
+|                 10 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | folklore                                   | 2020-07-24     | [🔗](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) |
+|                 10 | <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | Amidst the Chaos (Bonus Version)           | 2019-05-10     | [🔗](https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm) |
+|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Midnights                                  | 2022-10-21     | [🔗](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) |
+|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Lover                                      | 2019-08-23     | [🔗](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) |
+|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="" width="50" /> | 1989                                       | 2014-10-27     | [🔗](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) |
+|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" alt="" width="50" /> | Future Nostalgia                           | 2020-03-27     | [🔗](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) |
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="" width="50" /> | What's Inside: Songs from Waitress         | 2015-11-06     | [🔗](https://open.spotify.com/album/1s6codM2ZAB008t9GTyaEk) |
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | Lungs                                      | 2009-01-01     | [🔗](https://open.spotify.com/album/2KAK58PimXHF4lSoKO3RxA) |
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="" width="50" /> | INVU - The 3rd Album                       | 2022-02-14     | [🔗](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) |
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Ceremonials (Deluxe Edition)               | 2011-01-01     | [🔗](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) |
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Born To Die                                | 2012-01-30     | [🔗](https://open.spotify.com/album/4X8hAqIWpQyQks2yRhyqs4) |
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | 4 ONLY                                     | 2021-09-09     | [🔗](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?   | 2019-03-29     | [🔗](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | Once Upon Another Time                     | 2012-05-22     | [🔗](https://open.spotify.com/album/1PrqYZJRzGNf8AsSOraxnZ) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | My Everything (Deluxe)                     | 2014-08-25     | [🔗](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8" alt="" width="50" /> | thank u, next                              | 2019-02-08     | [🔗](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | Thriller                                   | 1982-11-30     | [🔗](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273754b2fddebe7039fdb912837" alt="" width="50" /> | This Is Acting (Deluxe Version)            | 2016-10-21     | [🔗](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | The Fame                                   | 2008-01-01     | [🔗](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | Teenage Dream                              | 2010-01-01     | [🔗](https://open.spotify.com/album/3BoUxfC7YhxNq3TpOfnRif) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | Red                                        | 2012-10-22     | [🔗](https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | I AM...SASHA FIERCE                        | 2008-11-14     | [🔗](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="" width="50" /> | Dangerous Woman                            | 2016-05-20     | [🔗](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | 4                                          | 2011-06-24     | [🔗](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | 21                                         | 2011-01-24     | [🔗](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | 1000 Forms Of Fear (Deluxe Version)        | 2015-05-04     | [🔗](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be" alt="" width="50" /> | evermore                                   | 2020-12-11     | [🔗](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="" width="50" /> | Ultraviolence (Deluxe)                     | 2014-01-01     | [🔗](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="" width="50" /> | SEOULITE                                   | 2016-03-09     | [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Romance                                    | 2019-12-06     | [🔗](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605" alt="" width="50" /> | Positions                                  | 2020-10-30     | [🔗](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" alt="" width="50" /> | Planet Her                                 | 2021-06-25     | [🔗](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="" width="50" /> | Norman Fucking Rockwell!                   | 2019-08-30     | [🔗](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2738c7e7f435fdcc70772c5555e" alt="" width="50" /> | My Voice - The 1st Album                   | 2017-02-28     | [🔗](https://open.spotify.com/album/6DlCl3hBP1Gwhn0tgitGfN) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9a3105ad4ffb91ad2e2798" alt="" width="50" /> | Life in Cartoon Motion                     | 2007-02-05     | [🔗](https://open.spotify.com/album/4wKkXYJXQWDa9sndBSx0gI) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | How Big, How Blue, How Beautiful           | 2015-06-01     | [🔗](https://open.spotify.com/album/2btszoya78vyT8fwelmVnz) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Good Girl Gone Bad: Reloaded               | 2008-06-02     | [🔗](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a" alt="" width="50" /> | Fine Line                                  | 2019-12-13     | [🔗](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | Fearless                                   | 2008-11-11     | [🔗](https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Camila                                     | 2018-01-12     | [🔗](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="" width="50" /> | 24K Magic                                  | 2016-11-17     | [🔗](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734bb9f35da9ff34b1e2314d8e" alt="" width="50" /> | Yours Truly                                | 2013-01-01     | [🔗](https://open.spotify.com/album/5xSvNPstcxHtR4ap2vvN8A) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273350ecac91d0f0af55788c648" alt="" width="50" /> | XOXO                                       | 2021-10-29     | [🔗](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273e4915763c3c7f7a05cc93885" alt="" width="50" /> | Why - The 2nd Mini Album                   | 2016-06-28     | [🔗](https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2739900b995cd1a81c35c574ab0" alt="" width="50" /> | Who You Are (Platinum Edition)             | 2011-01-01     | [🔗](https://open.spotify.com/album/3ga4adzUpLaS2LDcoqfs2r) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27337fb0680110fbb107740de5d" alt="" width="50" /> | What Is Love? (Deluxe Edition)             | 2018-11-30     | [🔗](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2730f2e51f7121539e221c51161" alt="" width="50" /> | We Sing. We Dance. We Steal Things.        | 2008-05-12     | [🔗](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="" width="50" /> | Unorthodox Jukebox                         | 2012-12-07     | [🔗](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731f69f49a0d2f6b13a79efe02" alt="" width="50" /> | Unapologetic                               | 2012-12-11     | [🔗](https://open.spotify.com/album/0XJya16l3K1J2dEwY19F8z) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | The Script                                 | 2008-07-14     | [🔗](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="" width="50" /> | The Fame Monster (Deluxe Edition)          | 2009-11-05     | [🔗](https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef" alt="" width="50" /> | Talk That Talk                             | 2011-11-19     | [🔗](https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e" alt="" width="50" /> | Talk Dirty                                 | 2013-09-10     | [🔗](https://open.spotify.com/album/4PeZu0It7qVrTG40t3HM9A) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394" alt="" width="50" /> | Sweetener                                  | 2018-08-17     | [🔗](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273e11a75a2f2ff39cec788a015" alt="" width="50" /> | Speak Now                                  | 2010-10-25     | [🔗](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e" alt="" width="50" /> | Songs About Jane: 10th Anniversary Edition | 2002           | [🔗](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2730d42834b296097a0136e97d3" alt="" width="50" /> | SEOULITE                                   | 2016-04-20     | [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27386b0c9728ad3ed338eaeea79" alt="" width="50" /> | Raymond v Raymond (Expanded Edition)       | 2010-03-30     | [🔗](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27303668e3f13559554eca8ccc6" alt="" width="50" /> | Play On                                    | 2009           | [🔗](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190" alt="" width="50" /> | Lust For Life                              | 2017-07-21     | [🔗](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a90401b8d27cd6b5f3a46242" alt="" width="50" /> | Lights                                     | 2011-01-01     | [🔗](https://open.spotify.com/album/3duZhvcaoqdNveQYXf9dMV) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="" width="50" /> | Lemonade                                   | 2016-04-23     | [🔗](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4" alt="" width="50" /> | In The Zone                                | 2003-11-13     | [🔗](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f531f18feaf3c28366ad52d4" alt="" width="50" /> | I - The 1st Mini Album                     | 2015-10-07     | [🔗](https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="" width="50" /> | Hozier (Expanded Edition)                  | 2014-09-19     | [🔗](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27389847614971c417b722c4d97" alt="" width="50" /> | Home                                       | 2002-08-27     | [🔗](https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273bb0a530fc901e88d1c7a9f4d" alt="" width="50" /> | First Love                                 | 2013-03-28     | [🔗](https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2731764e1a1b94e887206782640" alt="" width="50" /> | Dua Lipa (Complete Edition)                | 2018-10-19     | [🔗](https://open.spotify.com/album/0obMz8EHnr3dg6NCUK4xWp) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27334ef81d1ff3b4682a4e97f70" alt="" width="50" /> | Dreaming Out Loud                          | 2007-01-01     | [🔗](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="" width="50" /> | Doo-Wops & Hooligans                       | 2010-10-05     | [🔗](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2730a60fb0deda858270cca82ee" alt="" width="50" /> | Dirty Computer                             | 2018-04-27     | [🔗](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27354c6edd554935d73e159e199" alt="" width="50" /> | Circus (Deluxe Version)                    | 2008-12-02     | [🔗](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | Chromatica                                 | 2020-05-29     | [🔗](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273efc2fc4cdaeb04524eb10c15" alt="" width="50" /> | Celebration (Bonus Track Version)          | 2009-09-18     | [🔗](https://open.spotify.com/album/4GU7z3q6fg90MWrkTacYYG) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | Bad (Remastered)                           | 1987-08-31     | [🔗](https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273026e88f624dfb96f2e1ef10b" alt="" width="50" /> | B'Day Deluxe Edition                       | 2007-05-29     | [🔗](https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342" alt="" width="50" /> | A Star Is Born Soundtrack                  | 2018-10-05     | [🔗](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="" width="50" /> | A Rush of Blood to the Head                | 2002-08-08     | [🔗](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1db30cc6d74a08a5e14274" alt="" width="50" /> | 24℃                                        | 2019-05-30     | [🔗](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732c0e1e9e1fd1e7b132da1606" alt="" width="50" /> | ~how i'm feeling~                          | 2020-03-06     | [🔗](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27355c38bc34d1fe852f2657c2e" alt="" width="50" /> | minor                                      | 2020-07-14     | [🔗](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27326a2f5224465a369f8abbf88" alt="" width="50" /> | lovestrong.                                | 2011-05-10     | [🔗](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c" alt="" width="50" /> | lovely (with Khalid)                       | 2018-04-19     | [🔗](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730f7ad6d8d829906c17cae210" alt="" width="50" /> | hopeless fountain kingdom (Deluxe)         | 2017-06-02     | [🔗](https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273670ec029374e082f921f9f74" alt="" width="50" /> | good 4 u                                   | 2021-05-14     | [🔗](https://open.spotify.com/album/3rMjL8NA5Wh2hbMNk2fSlY) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f2248cf6dad1d6c062587249" alt="" width="50" /> | everything i wanted                        | 2019-11-13     | [🔗](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738ffc294c1c4362e8472d14cd" alt="" width="50" /> | drivers license                            | 2021-01-08     | [🔗](https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795" alt="" width="50" /> | dont smile at me                           | 2017-12-22     | [🔗](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735a61e19eaffec620c1899c47" alt="" width="50" /> | deja vu                                    | 2021-04-01     | [🔗](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5" alt="" width="50" /> | channel ORANGE                             | 2012-07-10     | [🔗](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732ca010dcf3863a07611d8b4f" alt="" width="50" /> | boyfriend                                  | 2019-08-02     | [🔗](https://open.spotify.com/album/3zVB99XMdbP9HTVNg0GJwV) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737941a79c3108cedb1667b68d" alt="" width="50" /> | bandaids                                   | 2020-03-24     | [🔗](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27341aa6776dc15fbd71a2b4557" alt="" width="50" /> | Youngblood (Deluxe)                        | 2018-06-15     | [🔗](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2" alt="" width="50" /> | Young And Beautiful                        | 2013-01-01     | [🔗](https://open.spotify.com/album/1D92WOHWUI2AGQCCdplcXL) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731d883d3f10af481faa3c7e04" alt="" width="50" /> | You Don't Know Me                          | 2016-12-09     | [🔗](https://open.spotify.com/album/3gdmWRWWJmkp5uMBXf755B) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="" width="50" /> | Yoga                                       | 2015-03-31     | [🔗](https://open.spotify.com/album/5rzxGeVyCV74SvV5hjLRAU) |
 
 </details>
 
@@ -349,91 +349,91 @@
 
 | 10 most Danceable tracks        | 10 least Danceable tracks   |
 |:--------------------------------|:----------------------------|
-| SexyBack (feat. Timbaland)      | La Vie En Rose              |
-| Anaconda                        | Once Upon Another Time      |
-| WAP (feat. Megan Thee Stallion) | Gravity                     |
-| Billie Jean                     | That's Where I Am           |
-| Pretty Please                   | Shades Of Cool              |
-| 1, 2, 3, 4                      | Stay                        |
-| bury a friend                   | Norman fucking Rockwell     |
-| Sally Walker                    | Fix You                     |
-| Coño                            | Already Gone                |
-| I Think He Knows                | Born To Die                 |
+| SexyBack (feat. Timbaland)      | Born To Die                 |
+| Anaconda                        | Already Gone                |
+| WAP (feat. Megan Thee Stallion) | Fix You                     |
+| Billie Jean                     | Norman fucking Rockwell     |
+| Pretty Please                   | Stay                        |
+| 1, 2, 3, 4                      | Shades Of Cool              |
+| bury a friend                   | That's Where I Am           |
+| Sally Walker                    | Gravity                     |
+| Coño                            | Once Upon Another Time      |
+| I Think He Knows                | La Vie En Rose              |
 
 | 10 most Energetic tracks        | 10 least Energetic tracks                                                         |
 |:--------------------------------|:----------------------------------------------------------------------------------|
-| Smooth Criminal - 2012 Remaster | Bright Lights and Cityscapes                                                      |
-| Boss Bitch                      | Manhattan                                                                         |
-| Red Lipstick (feat. Yoonmirae)  | Sweet Nothing                                                                     |
-| Stress                          | Come Home                                                                         |
-| My Happy Ending                 | Julia                                                                             |
-| This Is What You Came For       | xanny                                                                             |
-| Bad Romance                     | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 |
-| Believe                         | when the party's over                                                             |
-| Red                             | In My Life                                                                        |
-| Bad Idea (feat. Jason Mraz)     | Kaleidoscope Heart                                                                |
+| Smooth Criminal - 2012 Remaster | Kaleidoscope Heart                                                                |
+| Boss Bitch                      | In My Life                                                                        |
+| Red Lipstick (feat. Yoonmirae)  | when the party's over                                                             |
+| Stress                          | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 |
+| My Happy Ending                 | xanny                                                                             |
+| This Is What You Came For       | Julia                                                                             |
+| Bad Romance                     | Come Home                                                                         |
+| Believe                         | Sweet Nothing                                                                     |
+| Red                             | Manhattan                                                                         |
+| Bad Idea (feat. Jason Mraz)     | Bright Lights and Cityscapes                                                      |
 
 | 10 most Speechy tracks          | 10 least Speechy tracks        |
 |:--------------------------------|:-------------------------------|
-| Youngblood                      | Machine Gun                    |
-| boyfriend (with Social House)   | Travelin' Soldier              |
-| Hold Up                         | no body, no crime (feat. HAIM) |
-| Vigilante Shit                  | Begin Again                    |
-| Irreplaceable                   | Chasing Pavements              |
-| bad guy                         | Set Fire to the Rain           |
-| WAP (feat. Megan Thee Stallion) | The Scientist                  |
-| Bubblegum (feat. Tyga)          | All Too Well                   |
-| 7 rings                         | Breakeven                      |
-| bury a friend                   | Satellite Call                 |
+| Youngblood                      | Satellite Call                 |
+| boyfriend (with Social House)   | Breakeven                      |
+| Hold Up                         | All Too Well                   |
+| Vigilante Shit                  | The Scientist                  |
+| Irreplaceable                   | Set Fire to the Rain           |
+| bad guy                         | Chasing Pavements              |
+| WAP (feat. Megan Thee Stallion) | Begin Again                    |
+| Bubblegum (feat. Tyga)          | no body, no crime (feat. HAIM) |
+| 7 rings                         | Travelin' Soldier              |
+| bury a friend                   | Machine Gun                    |
 
 | 10 most Acoustic tracks                                                           | 10 least Acoustic tracks                                                 |
 |:----------------------------------------------------------------------------------|:-------------------------------------------------------------------------|
-| when the party's over                                                             | Bootylicious                                                             |
-| Bright Lights and Cityscapes                                                      | Yellow                                                                   |
-| Manhattan                                                                         | Don’t Call Me Angel (Charlie’s Angels) (with Miley Cyrus & Lana Del Rey) |
-| Norman fucking Rockwell                                                           | I Kissed A Girl                                                          |
-| Sweet Nothing                                                                     | Maniac                                                                   |
-| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Blinding Lights                                                          |
-| Take It All                                                                       | My Happy Ending                                                          |
-| Skinny Love                                                                       | Out Of The Woods                                                         |
-| Come Home                                                                         | Coño                                                                     |
-| Stay                                                                              | Misery                                                                   |
+| when the party's over                                                             | Misery                                                                   |
+| Bright Lights and Cityscapes                                                      | Coño                                                                     |
+| Manhattan                                                                         | Out Of The Woods                                                         |
+| Norman fucking Rockwell                                                           | My Happy Ending                                                          |
+| Sweet Nothing                                                                     | Blinding Lights                                                          |
+| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Maniac                                                                   |
+| Take It All                                                                       | I Kissed A Girl                                                          |
+| Skinny Love                                                                       | Don’t Call Me Angel (Charlie’s Angels) (with Miley Cyrus & Lana Del Rey) |
+| Come Home                                                                         | Yellow                                                                   |
+| Stay                                                                              | Bootylicious                                                             |
 
 | 10 most Instrumental tracks     | 10 least Instrumental tracks    |
 |:--------------------------------|:--------------------------------|
-| everything i wanted             | The Man Who Can't Be Moved      |
-| Smooth Criminal - 2012 Remaster | Greedy                          |
-| Swan Song                       | Please Me                       |
-| Wanna Be Startin' Somethin'     | WAP (feat. Megan Thee Stallion) |
-| you should see me in a crown    | F**kin' Perfect                 |
-| bury a friend                   | Breakeven                       |
-| Therefore I Am                  | Hustle                          |
-| bad guy                         | boyfriend (with Social House)   |
-| This Is What You Came For       | My Everything                   |
-| Bel Air                         | Say You're Sorry                |
+| everything i wanted             | Say You're Sorry                |
+| Smooth Criminal - 2012 Remaster | My Everything                   |
+| Swan Song                       | boyfriend (with Social House)   |
+| Wanna Be Startin' Somethin'     | Hustle                          |
+| you should see me in a crown    | Breakeven                       |
+| bury a friend                   | F**kin' Perfect                 |
+| Therefore I Am                  | WAP (feat. Megan Thee Stallion) |
+| bad guy                         | Please Me                       |
+| This Is What You Came For       | Greedy                          |
+| Bel Air                         | The Man Who Can't Be Moved      |
 
 | 10 most Live tracks                                                               | 10 least Live tracks             |
 |:----------------------------------------------------------------------------------|:---------------------------------|
-| Bel Air                                                                           | I Knew You Were Trouble.         |
-| Thriller                                                                          | Stress                           |
-| Red Lipstick (feat. Yoonmirae)                                                    | Yeah! (feat. Lil Jon & Ludacris) |
-| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | One Step At a Time               |
-| La Vie En Rose                                                                    | Uptown Funk (feat. Bruno Mars)   |
-| What Now                                                                          | Uncharted                        |
-| Love On Top                                                                       | Blown Away                       |
-| Super Bass                                                                        | Oh My God                        |
-| Rose                                                                              | Finesse                          |
-| Hold Up                                                                           | Finesse - Remix; feat. Cardi B   |
+| Bel Air                                                                           | Finesse - Remix; feat. Cardi B   |
+| Thriller                                                                          | Finesse                          |
+| Red Lipstick (feat. Yoonmirae)                                                    | Oh My God                        |
+| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Blown Away                       |
+| La Vie En Rose                                                                    | Uncharted                        |
+| What Now                                                                          | Uptown Funk (feat. Bruno Mars)   |
+| Love On Top                                                                       | One Step At a Time               |
+| Super Bass                                                                        | Yeah! (feat. Lil Jon & Ludacris) |
+| Rose                                                                              | Stress                           |
+| Hold Up                                                                           | I Knew You Were Trouble.         |
 
 | 10 most Happy tracks            | 10 least Happy tracks            |
 |:--------------------------------|:---------------------------------|
-| Material Girl                   | How Big, How Blue, How Beautiful |
-| Like a Virgin                   | Skyfall                          |
-| There's Nothing Holdin' Me Back | I'll Show You                    |
-| SexyBack (feat. Timbaland)      | Yellow Flicker Beat              |
-| I'm a Slave 4 U                 | Falling                          |
-| P.Y.T. (Pretty Young Thing)     | Once Upon Another Time           |
-| 1, 2, 3, 4                      | xanny                            |
-| Sucker                          | No Time To Die                   |
-| Don't Stop 'Til You Get Enough  | Delicate                         |
-| I Choose You                    | Swan Song                        |
+| Material Girl                   | Swan Song                        |
+| Like a Virgin                   | Delicate                         |
+| There's Nothing Holdin' Me Back | No Time To Die                   |
+| SexyBack (feat. Timbaland)      | xanny                            |
+| I'm a Slave 4 U                 | Once Upon Another Time           |
+| P.Y.T. (Pretty Young Thing)     | Falling                          |
+| 1, 2, 3, 4                      | Yellow Flicker Beat              |
+| Sucker                          | I'll Show You                    |
+| Don't Stop 'Til You Get Enough  | Skyfall                          |
+| I Choose You                    | How Big, How Blue, How Beautiful |

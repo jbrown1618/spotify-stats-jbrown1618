@@ -28,13 +28,13 @@ Appears as:
 <details>
 <summary>See all 5 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                  | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------|:-----------------------------------------------------------|
-|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | Carolina State of Mind | [🔗](https://open.spotify.com/album/3zKusinRVxdC5s2wOPYBgX) |
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273fc82939fb76760e640d7edca" alt="" width="50" /> | Homeward               | [🔗](https://open.spotify.com/album/2FiDSelqVoi7VQfpmaMRJK) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27322f75e45afe2febb7d3f4cac" alt="" width="50" /> | Immaterial             | [🔗](https://open.spotify.com/album/5YgtPHMCi4dGtL6JarEGkI) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27362f44cdb37183a309fc1032f" alt="" width="50" /> | G Train                | [🔗](https://open.spotify.com/album/0vmio1Hc8vrU7scyVa6BYK) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e443608c9f1cf2fdb6c36d37" alt="" width="50" /> | Before He Cheats       | [🔗](https://open.spotify.com/album/7bndGIMX7IOBjG3J7O0BEQ) |
+|   Number of Tracks | Art                                                                                              | Album                  | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------|:---------------|:-----------------------------------------------------------|
+|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | Carolina State of Mind | 2013-11-15     | [🔗](https://open.spotify.com/album/3zKusinRVxdC5s2wOPYBgX) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273fc82939fb76760e640d7edca" alt="" width="50" /> | Homeward               | 2022-04-08     | [🔗](https://open.spotify.com/album/2FiDSelqVoi7VQfpmaMRJK) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27322f75e45afe2febb7d3f4cac" alt="" width="50" /> | Immaterial             | 2021-07-16     | [🔗](https://open.spotify.com/album/5YgtPHMCi4dGtL6JarEGkI) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27362f44cdb37183a309fc1032f" alt="" width="50" /> | G Train                | 2019-11-22     | [🔗](https://open.spotify.com/album/0vmio1Hc8vrU7scyVa6BYK) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e443608c9f1cf2fdb6c36d37" alt="" width="50" /> | Before He Cheats       | 2019-10-22     | [🔗](https://open.spotify.com/album/7bndGIMX7IOBjG3J7O0BEQ) |
 
 </details>
 

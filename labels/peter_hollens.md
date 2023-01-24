@@ -34,13 +34,13 @@ Appears as:
 <details>
 <summary>See all 5 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                                               | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------|:-----------------------------------------------------------|
-|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="" width="50" /> | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | [🔗](https://open.spotify.com/album/4GYDt4IqU8EZ6KJLHpPuOK) |
-|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="" width="50" /> | Legendary Covers, Vol. 1                                            | [🔗](https://open.spotify.com/album/1tFypxtPJ5A61j97TRhWnP) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27354f5c25dc365c6e1e1921047" alt="" width="50" /> | Covers, Vol. III                                                    | [🔗](https://open.spotify.com/album/69zZ6utXSbC6dr6tdBsvNz) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732787a9e5a9a46d8d566209c8" alt="" width="50" /> | The Sound of Silence                                                | [🔗](https://open.spotify.com/album/2csjrZ6lbV7wWvVTsEi7u0) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733d0f26eb9219f5670aa84bda" alt="" width="50" /> | Peter Hollens                                                       | [🔗](https://open.spotify.com/album/5kB9QXjsPtcUwvlj4w0dZV) |
+|   Number of Tracks | Art                                                                                              | Album                                                               | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="" width="50" /> | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | 2016-03-18     | [🔗](https://open.spotify.com/album/4GYDt4IqU8EZ6KJLHpPuOK) |
+|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="" width="50" /> | Legendary Covers, Vol. 1                                            | 2019           | [🔗](https://open.spotify.com/album/1tFypxtPJ5A61j97TRhWnP) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27354f5c25dc365c6e1e1921047" alt="" width="50" /> | Covers, Vol. III                                                    | 2017-06-16     | [🔗](https://open.spotify.com/album/69zZ6utXSbC6dr6tdBsvNz) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732787a9e5a9a46d8d566209c8" alt="" width="50" /> | The Sound of Silence                                                | 2017           | [🔗](https://open.spotify.com/album/2csjrZ6lbV7wWvVTsEi7u0) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733d0f26eb9219f5670aa84bda" alt="" width="50" /> | Peter Hollens                                                       | 2014-10-27     | [🔗](https://open.spotify.com/album/5kB9QXjsPtcUwvlj4w0dZV) |
 
 </details>
 

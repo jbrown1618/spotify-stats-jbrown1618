@@ -11,9 +11,9 @@
 |                 16 | <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="" width="50" />                                                                                                                            | [Brahms](../playlists/brahms/overview.md)                   |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album                                   | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------|:-----------------------------------------------------------|
-|                 16 | <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="" width="50" /> | Brahms: String Quartets & Piano Quintet | [🔗](https://open.spotify.com/album/5nZ5ePGoQZGt1MbGphwqph) |
+|   Number of Tracks | Art                                                                                              | Album                                   | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------|:---------------|:-----------------------------------------------------------|
+|                 16 | <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="" width="50" /> | Brahms: String Quartets & Piano Quintet | 2007-01-01     | [🔗](https://open.spotify.com/album/5nZ5ePGoQZGt1MbGphwqph) |
 
 ## Top Record Labels
 

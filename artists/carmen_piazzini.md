@@ -10,9 +10,9 @@
 |                 12 | <img src="https://i.scdn.co/image/ab67616d0000b273fdf2a7d7437db7a75da73167" alt="" width="50" /> | [Mozart](../playlists/mozart/overview.md) |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album               | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------|:-----------------------------------------------------------|
-|                 12 | <img src="https://i.scdn.co/image/ab67616d0000b273a78d6aa51909744b78778902" alt="" width="50" /> | Mozart Piano Pieces | [🔗](https://open.spotify.com/album/3AYEvo7R1gY4O5xJuMwy3U) |
+|   Number of Tracks | Art                                                                                              | Album               | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------|:---------------|:-----------------------------------------------------------|
+|                 12 | <img src="https://i.scdn.co/image/ab67616d0000b273a78d6aa51909744b78778902" alt="" width="50" /> | Mozart Piano Pieces | 2020-10-13     | [🔗](https://open.spotify.com/album/3AYEvo7R1gY4O5xJuMwy3U) |
 
 ## Top Record Labels
 

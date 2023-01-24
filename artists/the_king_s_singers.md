@@ -11,14 +11,14 @@
 |                  4 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730baa26fb49c09c910a031d24ab67616d0000b2730c8397c0c79c33e6f350ee52ab67616d0000b273397c1f0c407ebd9a318b25faab67616d0000b273609d14b25e86640a2a69c534" alt="" width="50" /> | [Choral](../playlists/choral/overview.md)         |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album                           | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------|:-----------------------------------------------------------|
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273efbc193171a2f99fe94911c6" alt="" width="50" /> | Folk Songs Of The British Isles | [🔗](https://open.spotify.com/album/7eFKaVzp6K60oBnB2kTjwV) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="" width="50" /> | Cappella                        | [🔗](https://open.spotify.com/album/3n6JxpdWnHkazMCQxKK5qI) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="" width="50" /> | Good Vibrations                 | [🔗](https://open.spotify.com/album/10IUKCLZPs9onPwXfQVxfv) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273913e83f2c069080c25b54c9a" alt="" width="50" /> | The King's Singers Collection   | [🔗](https://open.spotify.com/album/2dvmTkGLdYcm6jnrsdQZlj) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733d35ee785862f82a5ada29b6" alt="" width="50" /> | Gold                            | [🔗](https://open.spotify.com/album/3OF5H5176VONmVik8EvJC6) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273720cef48a476da39b3bd2a4e" alt="" width="50" /> | Circle Of Life                  | [🔗](https://open.spotify.com/album/3W9Uo4nvI281sjlEIrR6z6) |
+|   Number of Tracks | Art                                                                                              | Album                           | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------|:---------------|:-----------------------------------------------------------|
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273efbc193171a2f99fe94911c6" alt="" width="50" /> | Folk Songs Of The British Isles | 1993-07-24     | [🔗](https://open.spotify.com/album/7eFKaVzp6K60oBnB2kTjwV) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="" width="50" /> | Cappella                        | 2013           | [🔗](https://open.spotify.com/album/3n6JxpdWnHkazMCQxKK5qI) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="" width="50" /> | Good Vibrations                 | 1993           | [🔗](https://open.spotify.com/album/10IUKCLZPs9onPwXfQVxfv) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273913e83f2c069080c25b54c9a" alt="" width="50" /> | The King's Singers Collection   | 2008-03-31     | [🔗](https://open.spotify.com/album/2dvmTkGLdYcm6jnrsdQZlj) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733d35ee785862f82a5ada29b6" alt="" width="50" /> | Gold                            | 2017-11-03     | [🔗](https://open.spotify.com/album/3OF5H5176VONmVik8EvJC6) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273720cef48a476da39b3bd2a4e" alt="" width="50" /> | Circle Of Life                  | 1996-11-08     | [🔗](https://open.spotify.com/album/3W9Uo4nvI281sjlEIrR6z6) |
 
 ## Top Record Labels
 

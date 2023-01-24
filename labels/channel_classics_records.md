@@ -29,9 +29,9 @@ Appears as:
 <details>
 <summary>See all 1 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                  | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------|:-----------------------------------------------------------|
-|                 12 | <img src="https://i.scdn.co/image/ab67616d0000b2737368d9506efe9c2d556d9e98" alt="" width="50" /> | Haydn: String Quartets | [🔗](https://open.spotify.com/album/1rNGG2I3AKJy9FWqUiitkc) |
+|   Number of Tracks | Art                                                                                              | Album                  | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------|:---------------|:-----------------------------------------------------------|
+|                 12 | <img src="https://i.scdn.co/image/ab67616d0000b2737368d9506efe9c2d556d9e98" alt="" width="50" /> | Haydn: String Quartets | 2008-01-01     | [🔗](https://open.spotify.com/album/1rNGG2I3AKJy9FWqUiitkc) |
 
 </details>
 

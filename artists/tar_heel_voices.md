@@ -10,13 +10,13 @@
 |                 20 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735d990e8b45c848dc22885f89ab67616d0000b27362f44cdb37183a309fc1032fab67616d0000b27384470dd6235917e2e40e11f0ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | [A Cappella](../playlists/a_cappella/overview.md) |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album              | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------|:-----------------------------------------------------------|
-|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b273987a99b436a78299e8dcb7dd" alt="" width="50" /> | Quarter Past       | [🔗](https://open.spotify.com/album/1pScBPjmT5w3s0BTgkdgJy) |
-|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b27371a67f8f5158f054b136bd8a" alt="" width="50" /> | Keepin' it Low Key | [🔗](https://open.spotify.com/album/4EmdqB8w7gEONRX5QLypQZ) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2730719dbaac955fe41fed564ad" alt="" width="50" /> | 1988               | [🔗](https://open.spotify.com/album/6nktHqHKPt8kT4ozUJvwrs) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273341eba1095eb8daa8ffa9040" alt="" width="50" /> | Unbound            | [🔗](https://open.spotify.com/album/5KqLmDu7Lui1qqdnItWDUs) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f0811a497b6eaf308d045d29" alt="" width="50" /> | Ignite             | [🔗](https://open.spotify.com/album/5O7GFH7FfXuuDlOfNH76Qq) |
+|   Number of Tracks | Art                                                                                              | Album              | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------|:---------------|:-----------------------------------------------------------|
+|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b273987a99b436a78299e8dcb7dd" alt="" width="50" /> | Quarter Past       | 2014-11-18     | [🔗](https://open.spotify.com/album/1pScBPjmT5w3s0BTgkdgJy) |
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b27371a67f8f5158f054b136bd8a" alt="" width="50" /> | Keepin' it Low Key | 2013-01-18     | [🔗](https://open.spotify.com/album/4EmdqB8w7gEONRX5QLypQZ) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2730719dbaac955fe41fed564ad" alt="" width="50" /> | 1988               | 2015-05-19     | [🔗](https://open.spotify.com/album/6nktHqHKPt8kT4ozUJvwrs) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273341eba1095eb8daa8ffa9040" alt="" width="50" /> | Unbound            | 2017-07-13     | [🔗](https://open.spotify.com/album/5KqLmDu7Lui1qqdnItWDUs) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f0811a497b6eaf308d045d29" alt="" width="50" /> | Ignite             | 2021-06-28     | [🔗](https://open.spotify.com/album/5O7GFH7FfXuuDlOfNH76Qq) |
 
 ## Top Record Labels
 

@@ -10,9 +10,9 @@
 |                 11 | <img src="https://i.scdn.co/image/ab67616d0000b273fdf2a7d7437db7a75da73167" alt="" width="50" /> | [Mozart](../playlists/mozart/overview.md) |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album            | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------|:-----------------------------------------------------------|
-|                 11 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | Karajan - Mozart | [🔗](https://open.spotify.com/album/1HSJhsMIW2EDD4YSSkbc9e) |
+|   Number of Tracks | Art                                                                                              | Album            | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------|:---------------|:-----------------------------------------------------------|
+|                 11 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | Karajan - Mozart | 2020-06-16     | [🔗](https://open.spotify.com/album/1HSJhsMIW2EDD4YSSkbc9e) |
 
 ## Top Record Labels
 

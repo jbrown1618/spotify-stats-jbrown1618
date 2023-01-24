@@ -35,10 +35,10 @@ Appears as:
 <details>
 <summary>See all 2 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                         | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------|:-----------------------------------------------------------|
-|                 36 | <img src="https://i.scdn.co/image/ab67616d0000b273261feb89ee859b598bd34a97" alt="" width="50" /> | Bach: Unaccompanied Cello Suites (Remastered) | [🔗](https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="" width="50" /> | Cappella                                      | [🔗](https://open.spotify.com/album/3n6JxpdWnHkazMCQxKK5qI) |
+|   Number of Tracks | Art                                                                                              | Album                                         |   Release Date | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------|---------------:|:-----------------------------------------------------------|
+|                 36 | <img src="https://i.scdn.co/image/ab67616d0000b273261feb89ee859b598bd34a97" alt="" width="50" /> | Bach: Unaccompanied Cello Suites (Remastered) |           1983 | [🔗](https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="" width="50" /> | Cappella                                      |           2013 | [🔗](https://open.spotify.com/album/3n6JxpdWnHkazMCQxKK5qI) |
 
 </details>
 

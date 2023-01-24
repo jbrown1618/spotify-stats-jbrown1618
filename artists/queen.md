@@ -11,16 +11,16 @@
 |                  2 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732d73b1bb77cee09f0278be04ab67616d0000b2736f50b3400595b123a916e0dcab67616d0000b2739ab215825eb77076b1b4b387ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | [Karaoke](../playlists/karaoke/overview.md)           |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album                | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------|:-----------------------------------------------------------|
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2737bf7ee0ed15bef2699900a6b" alt="" width="50" /> | The Game             | [🔗](https://open.spotify.com/album/1h0j80HhdzIMsUGUFiVkqa) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27346493b86589030cc39ce1bf2" alt="" width="50" /> | News Of The World    | [🔗](https://open.spotify.com/album/3TKTjR4E3LAMfRsPeRsNhT) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2735e5bfba76defb59b3acf6c47" alt="" width="50" /> | Jazz                 | [🔗](https://open.spotify.com/album/5X3rA8To5GDOeIWdQyMEcE) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27395ca1a6d0a8ec540e876cdf2" alt="" width="50" /> | A Night At The Opera | [🔗](https://open.spotify.com/album/3KCJzwKOdBxDu6TKaFPqM9) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27369c47467a7964a67d6dbcf14" alt="" width="50" /> | A Day At The Races   | [🔗](https://open.spotify.com/album/3f45rzbU4dYQBTV9v5RFBB) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27398a0577da5896bcc66521861" alt="" width="50" /> | The Works            | [🔗](https://open.spotify.com/album/0FbnXAGmgmWBmNthZSgm43) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739bf8e3a3c31986c1c0536532" alt="" width="50" /> | Sheer Heart Attack   | [🔗](https://open.spotify.com/album/4yO8TpSaJtUKkkjmsA4VXf) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27350dcdcb73b5bbff6d3136131" alt="" width="50" /> | Innuendo             | [🔗](https://open.spotify.com/album/5yAM3CcaXF6DPRJW3oL6Ya) |
+|   Number of Tracks | Art                                                                                              | Album                | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------|:---------------|:-----------------------------------------------------------|
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2737bf7ee0ed15bef2699900a6b" alt="" width="50" /> | The Game             | 1980-06-27     | [🔗](https://open.spotify.com/album/1h0j80HhdzIMsUGUFiVkqa) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27346493b86589030cc39ce1bf2" alt="" width="50" /> | News Of The World    | 1977-10-28     | [🔗](https://open.spotify.com/album/3TKTjR4E3LAMfRsPeRsNhT) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2735e5bfba76defb59b3acf6c47" alt="" width="50" /> | Jazz                 | 1978-11-10     | [🔗](https://open.spotify.com/album/5X3rA8To5GDOeIWdQyMEcE) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27395ca1a6d0a8ec540e876cdf2" alt="" width="50" /> | A Night At The Opera | 1975-11-21     | [🔗](https://open.spotify.com/album/3KCJzwKOdBxDu6TKaFPqM9) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27369c47467a7964a67d6dbcf14" alt="" width="50" /> | A Day At The Races   | 1976-12-10     | [🔗](https://open.spotify.com/album/3f45rzbU4dYQBTV9v5RFBB) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27398a0577da5896bcc66521861" alt="" width="50" /> | The Works            | 1984-02-27     | [🔗](https://open.spotify.com/album/0FbnXAGmgmWBmNthZSgm43) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739bf8e3a3c31986c1c0536532" alt="" width="50" /> | Sheer Heart Attack   | 1974-11-08     | [🔗](https://open.spotify.com/album/4yO8TpSaJtUKkkjmsA4VXf) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27350dcdcb73b5bbff6d3136131" alt="" width="50" /> | Innuendo             | 1991-02-04     | [🔗](https://open.spotify.com/album/5yAM3CcaXF6DPRJW3oL6Ya) |
 
 ## Top Record Labels
 

@@ -12,12 +12,12 @@
 |                  1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27303668e3f13559554eca8ccc6ab67616d0000b2730eb56329734f9400c1639359ab67616d0000b27314ed51ab46ef0765182bb8a0ab67616d0000b273987a1825341694ec9bc62457" alt="" width="50" /> | [Tarps](../playlists/tarps/overview.md)                         |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album                            | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------|:-----------------------------------------------------------|
-|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | Lungs                            | [🔗](https://open.spotify.com/album/2KAK58PimXHF4lSoKO3RxA) |
-|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Ceremonials (Deluxe Edition)     | [🔗](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | How Big, How Blue, How Beautiful | [🔗](https://open.spotify.com/album/2btszoya78vyT8fwelmVnz) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d36d0f06096fa07f18b8e8a2" alt="" width="50" /> | High As Hope                     | [🔗](https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA) |
+|   Number of Tracks | Art                                                                                              | Album                            | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------|:---------------|:-----------------------------------------------------------|
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | Lungs                            | 2009-01-01     | [🔗](https://open.spotify.com/album/2KAK58PimXHF4lSoKO3RxA) |
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Ceremonials (Deluxe Edition)     | 2011-01-01     | [🔗](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | How Big, How Blue, How Beautiful | 2015-06-01     | [🔗](https://open.spotify.com/album/2btszoya78vyT8fwelmVnz) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d36d0f06096fa07f18b8e8a2" alt="" width="50" /> | High As Hope                     | 2018-06-29     | [🔗](https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA) |
 
 ## Top Record Labels
 

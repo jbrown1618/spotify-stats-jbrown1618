@@ -36,10 +36,10 @@ Appears as:
 <details>
 <summary>See all 2 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------|:-----------------------------------------------------------|
-|                 11 | <img src="https://i.scdn.co/image/ab67616d0000b273fe9bb826b4677ad094f49fa3" alt="" width="50" /> | Legendary Folk Songs | [🔗](https://open.spotify.com/album/22qN0Gw54OwckjTgVGUzVG) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273de86cb7d44e765c043a8b596" alt="" width="50" /> | At the Beginning     | [🔗](https://open.spotify.com/album/3uN6J4J6VstQCzzHbKbz6j) |
+|   Number of Tracks | Art                                                                                              | Album                | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------|:---------------|:-----------------------------------------------------------|
+|                 11 | <img src="https://i.scdn.co/image/ab67616d0000b273fe9bb826b4677ad094f49fa3" alt="" width="50" /> | Legendary Folk Songs | 2018-06-15     | [🔗](https://open.spotify.com/album/22qN0Gw54OwckjTgVGUzVG) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273de86cb7d44e765c043a8b596" alt="" width="50" /> | At the Beginning     | 2017-06-05     | [🔗](https://open.spotify.com/album/3uN6J4J6VstQCzzHbKbz6j) |
 
 </details>
 

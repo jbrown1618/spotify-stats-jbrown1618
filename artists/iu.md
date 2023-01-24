@@ -12,24 +12,24 @@
 |                  1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | [K-Pop 101](../playlists/k_pop_101/overview.md)             |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album                   | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:------------------------|:-----------------------------------------------------------|
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | IU 5th Album 'LILAC'    | [🔗](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="" width="50" /> | Palette                 | [🔗](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2736a0cfc4171d2a0cb9dc7c9ab" alt="" width="50" /> | CHAT-SHIRE              | [🔗](https://open.spotify.com/album/3rMvAe0zU0pJRnRa7Rfc1U) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | Love poem               | [🔗](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273bf5f4138ebc9ba3fd6f0cde9" alt="" width="50" /> | Last Fantasy            | [🔗](https://open.spotify.com/album/149BHv6qAyMgJ483vPi77C) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c63be04ae902b1da7a54d247" alt="" width="50" /> | eight                   | [🔗](https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27315cf3110f19687b1a24943d1" alt="" width="50" /> | REAL                    | [🔗](https://open.spotify.com/album/4WY1pPvmP9sBlVICuPxBQh) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730d378c4756c4fc34b7d3eeaf" alt="" width="50" /> | Pieces                  | [🔗](https://open.spotify.com/album/3ivhPVStd9RrtczBFwjkMQ) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27355d0265cc488deebe40d79a6" alt="" width="50" /> | NEXT EPISODE            | [🔗](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27315b8cef21bf4482d56c15614" alt="" width="50" /> | Modern Times – Epilogue | [🔗](https://open.spotify.com/album/56MqewtCUq5bplrqEYTVL0) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="" width="50" /> | Modern Times            | [🔗](https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1bb22f3ae0fe8b97bda6931" alt="" width="50" /> | Lost and Found          | [🔗](https://open.spotify.com/album/5CqhdN6fFBPN5JcNiU1uyF) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738c0defcb336a0296eb7d704a" alt="" width="50" /> | GANADARA                | [🔗](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d8c952b4b7e3d72267edc537" alt="" width="50" /> | Cat                     | [🔗](https://open.spotify.com/album/3b8iQhtbLD0Vn4EqQzMC3N) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1d785640d9421ec17ea8fe6" alt="" width="50" /> | BBIBBI                  | [🔗](https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f8ac90d6852487a82df1b443" alt="" width="50" /> | A flower bookmark       | [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) |
+|   Number of Tracks | Art                                                                                              | Album                   | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:------------------------|:---------------|:-----------------------------------------------------------|
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | IU 5th Album 'LILAC'    | 2021-03-25     | [🔗](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="" width="50" /> | Palette                 | 2017-04-21     | [🔗](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2736a0cfc4171d2a0cb9dc7c9ab" alt="" width="50" /> | CHAT-SHIRE              | 2015-10-23     | [🔗](https://open.spotify.com/album/3rMvAe0zU0pJRnRa7Rfc1U) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | Love poem               | 2019-11-18     | [🔗](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273bf5f4138ebc9ba3fd6f0cde9" alt="" width="50" /> | Last Fantasy            | 2011-11-29     | [🔗](https://open.spotify.com/album/149BHv6qAyMgJ483vPi77C) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c63be04ae902b1da7a54d247" alt="" width="50" /> | eight                   | 2020-05-06     | [🔗](https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27315cf3110f19687b1a24943d1" alt="" width="50" /> | REAL                    | 2010-12-09     | [🔗](https://open.spotify.com/album/4WY1pPvmP9sBlVICuPxBQh) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730d378c4756c4fc34b7d3eeaf" alt="" width="50" /> | Pieces                  | 2021-12-29     | [🔗](https://open.spotify.com/album/3ivhPVStd9RrtczBFwjkMQ) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27355d0265cc488deebe40d79a6" alt="" width="50" /> | NEXT EPISODE            | 2021-07-26     | [🔗](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27315b8cef21bf4482d56c15614" alt="" width="50" /> | Modern Times – Epilogue | 2013-12-20     | [🔗](https://open.spotify.com/album/56MqewtCUq5bplrqEYTVL0) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="" width="50" /> | Modern Times            | 2013-10-08     | [🔗](https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1bb22f3ae0fe8b97bda6931" alt="" width="50" /> | Lost and Found          | 2008-09-23     | [🔗](https://open.spotify.com/album/5CqhdN6fFBPN5JcNiU1uyF) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738c0defcb336a0296eb7d704a" alt="" width="50" /> | GANADARA                | 2022-03-11     | [🔗](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273d8c952b4b7e3d72267edc537" alt="" width="50" /> | Cat                     | 2017-12-28     | [🔗](https://open.spotify.com/album/3b8iQhtbLD0Vn4EqQzMC3N) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1d785640d9421ec17ea8fe6" alt="" width="50" /> | BBIBBI                  | 2018-10-10     | [🔗](https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f8ac90d6852487a82df1b443" alt="" width="50" /> | A flower bookmark       | 2014-05-16     | [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) |
 
 ## Top Record Labels
 

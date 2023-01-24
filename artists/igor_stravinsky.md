@@ -10,11 +10,11 @@
 |                 39 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2733620c09ca7ca202e676b783bab67616d0000b2733dc87408b73e227ec72eeab3ab67616d0000b2739daaa54cc50b6359ff1dc7a3ab67616d0000b273f0eb5b09e87f24415266d723" alt="" width="50" /> | [Ballet](../playlists/ballet/overview.md) |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album                                                           | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------------------------|:-----------------------------------------------------------|
-|                 18 | <img src="https://i.scdn.co/image/ab67616d0000b2736d425516ed4317947a4f48af" alt="" width="50" /> | Stravinsky: Petrushka, Jeu de cartes                            | [🔗](https://open.spotify.com/album/19fQbFNjlfXgBAFqftKzWA) |
-|                 14 | <img src="https://i.scdn.co/image/ab67616d0000b273f0eb5b09e87f24415266d723" alt="" width="50" /> | Stravinsky: The Rite of Spring / Bartók: Concerto for Orchestra | [🔗](https://open.spotify.com/album/317b74rpNBO2uhaJFyMaxJ) |
-|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b2733620c09ca7ca202e676b783b" alt="" width="50" /> | Stravinsky: The Firebird (Ballet Suite)                         | [🔗](https://open.spotify.com/album/2q1xMRl4AcA7rI8GfGnmvD) |
+|   Number of Tracks | Art                                                                                              | Album                                                           | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                 18 | <img src="https://i.scdn.co/image/ab67616d0000b2736d425516ed4317947a4f48af" alt="" width="50" /> | Stravinsky: Petrushka, Jeu de cartes                            | 2018-10-19     | [🔗](https://open.spotify.com/album/19fQbFNjlfXgBAFqftKzWA) |
+|                 14 | <img src="https://i.scdn.co/image/ab67616d0000b273f0eb5b09e87f24415266d723" alt="" width="50" /> | Stravinsky: The Rite of Spring / Bartók: Concerto for Orchestra | 2007-01-01     | [🔗](https://open.spotify.com/album/317b74rpNBO2uhaJFyMaxJ) |
+|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b2733620c09ca7ca202e676b783b" alt="" width="50" /> | Stravinsky: The Firebird (Ballet Suite)                         | 2009-01-01     | [🔗](https://open.spotify.com/album/2q1xMRl4AcA7rI8GfGnmvD) |
 
 ## Top Record Labels
 

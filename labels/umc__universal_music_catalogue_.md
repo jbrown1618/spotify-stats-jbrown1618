@@ -36,13 +36,13 @@ Appears as:
 <details>
 <summary>See all 5 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                                         | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|:-----------------------------------------------------------|
-|                 10 | <img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="" width="50" /> | The Phantom Of The Opera (Original Motion Picture Soundtrack) | [🔗](https://open.spotify.com/album/1zwEN9cLtWg39zFJnj8brt) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f72f1e38e9bd48f18a17ed9b" alt="" width="50" /> | Goodbye Yellow Brick Road (Remastered)                        | [🔗](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27374ecb94bc3e5d851a39a0334" alt="" width="50" /> | Tommy                                                         | [🔗](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" alt="" width="50" /> | Elton John                                                    | [🔗](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf" alt="" width="50" /> | 1 (Remastered)                                                | [🔗](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) |
+|   Number of Tracks | Art                                                                                              | Album                                                         | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                 10 | <img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="" width="50" /> | The Phantom Of The Opera (Original Motion Picture Soundtrack) | 2004-12-10     | [🔗](https://open.spotify.com/album/1zwEN9cLtWg39zFJnj8brt) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f72f1e38e9bd48f18a17ed9b" alt="" width="50" /> | Goodbye Yellow Brick Road (Remastered)                        | 1973-10-05     | [🔗](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27374ecb94bc3e5d851a39a0334" alt="" width="50" /> | Tommy                                                         | 1969-05-23     | [🔗](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" alt="" width="50" /> | Elton John                                                    | 1970-04-10     | [🔗](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf" alt="" width="50" /> | 1 (Remastered)                                                | 2000-11-13     | [🔗](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) |
 
 </details>
 

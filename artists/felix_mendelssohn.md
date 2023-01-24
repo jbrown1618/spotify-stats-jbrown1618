@@ -10,9 +10,9 @@
 |                 13 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734c43a2f36c0aec708ba024d5ab67616d0000b2735d026bccbd8a50650e903130ab67616d0000b27376a42530f861aa187f3ac1c2ab67616d0000b273c385dbfabcec21279dcea0b5" alt="" width="50" /> | [Program Music](../playlists/program_music/overview.md) |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album                                  | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:-----------------------------------------------------------|
-|                 13 | <img src="https://i.scdn.co/image/ab67616d0000b273c385dbfabcec21279dcea0b5" alt="" width="50" /> | Mendelssohn: A Midsummer Night's Dream | [🔗](https://open.spotify.com/album/60J66evwnrnfH03HgDTrwN) |
+|   Number of Tracks | Art                                                                                              | Album                                  | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------|:---------------|:-----------------------------------------------------------|
+|                 13 | <img src="https://i.scdn.co/image/ab67616d0000b273c385dbfabcec21279dcea0b5" alt="" width="50" /> | Mendelssohn: A Midsummer Night's Dream | 2017-02-03     | [🔗](https://open.spotify.com/album/60J66evwnrnfH03HgDTrwN) |
 
 ## Top Record Labels
 

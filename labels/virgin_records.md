@@ -33,14 +33,14 @@ Appears as:
 <details>
 <summary>See all 6 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                                   | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------|:-----------------------------------------------------------|
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273119ad2ebc0d33edf847ed8c6" alt="" width="50" /> | One Cell In The Sea                                     | [🔗](https://open.spotify.com/album/0Ot7MEgreG2R93aN42M9iK) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273183730e8038fa632b2c227da" alt="" width="50" /> | Eye To The Telescope                                    | [🔗](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273e7b8e0abcd5cdc4c8b5a238c" alt="" width="50" /> | Bomb In A Birdcage                                      | [🔗](https://open.spotify.com/album/07IV5RxLvAUeZbcPm4zOzn) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732cf1dcc65396176307f23524" alt="" width="50" /> | PINES                                                   | [🔗](https://open.spotify.com/album/1876e9QcHkJ3Hgo4NqKXBN) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="" width="50" /> | Mellon Collie And The Infinite Sadness (Deluxe Edition) | [🔗](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27334da09e702c7f9ca573981e5" alt="" width="50" /> | Ella Eyre                                               | [🔗](https://open.spotify.com/album/5J69OYtRXeI9dHDK2R95h5) |
+|   Number of Tracks | Art                                                                                              | Album                                                   | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273119ad2ebc0d33edf847ed8c6" alt="" width="50" /> | One Cell In The Sea                                     | 2007           | [🔗](https://open.spotify.com/album/0Ot7MEgreG2R93aN42M9iK) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273183730e8038fa632b2c227da" alt="" width="50" /> | Eye To The Telescope                                    | 2005-01-01     | [🔗](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273e7b8e0abcd5cdc4c8b5a238c" alt="" width="50" /> | Bomb In A Birdcage                                      | 2009-01-01     | [🔗](https://open.spotify.com/album/07IV5RxLvAUeZbcPm4zOzn) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732cf1dcc65396176307f23524" alt="" width="50" /> | PINES                                                   | 2012-01-01     | [🔗](https://open.spotify.com/album/1876e9QcHkJ3Hgo4NqKXBN) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="" width="50" /> | Mellon Collie And The Infinite Sadness (Deluxe Edition) | 1995           | [🔗](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27334da09e702c7f9ca573981e5" alt="" width="50" /> | Ella Eyre                                               | 2015-01-12     | [🔗](https://open.spotify.com/album/5J69OYtRXeI9dHDK2R95h5) |
 
 </details>
 

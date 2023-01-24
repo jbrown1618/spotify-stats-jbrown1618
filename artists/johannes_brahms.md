@@ -11,10 +11,10 @@
 |                 16 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731d9ef8e92370053b06f8c9ecab67616d0000b2737368d9506efe9c2d556d9e98ab67616d0000b2737cb0c702a8fd45bfd8358259ab67616d0000b273ff17a9c684ec4757c8c026b0" alt="" width="50" /> | [String Quartets](../playlists/string_quartets/overview.md) |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album                                   | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------|:-----------------------------------------------------------|
-|                 16 | <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="" width="50" /> | Brahms: The Symphonies                  | [🔗](https://open.spotify.com/album/2dL2qDsg6teV1cueLxCRa1) |
-|                 16 | <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="" width="50" /> | Brahms: String Quartets & Piano Quintet | [🔗](https://open.spotify.com/album/5nZ5ePGoQZGt1MbGphwqph) |
+|   Number of Tracks | Art                                                                                              | Album                                   | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------|:---------------|:-----------------------------------------------------------|
+|                 16 | <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="" width="50" /> | Brahms: The Symphonies                  | 2009-09-07     | [🔗](https://open.spotify.com/album/2dL2qDsg6teV1cueLxCRa1) |
+|                 16 | <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="" width="50" /> | Brahms: String Quartets & Piano Quintet | 2007-01-01     | [🔗](https://open.spotify.com/album/5nZ5ePGoQZGt1MbGphwqph) |
 
 ## Top Record Labels
 

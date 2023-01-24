@@ -30,9 +30,9 @@ Appears as:
 <details>
 <summary>See all 1 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------|:-----------------------------------------------------------|
-|                 18 | <img src="https://i.scdn.co/image/ab67616d0000b2736d425516ed4317947a4f48af" alt="" width="50" /> | Stravinsky: Petrushka, Jeu de cartes | [🔗](https://open.spotify.com/album/19fQbFNjlfXgBAFqftKzWA) |
+|   Number of Tracks | Art                                                                                              | Album                                | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------|:---------------|:-----------------------------------------------------------|
+|                 18 | <img src="https://i.scdn.co/image/ab67616d0000b2736d425516ed4317947a4f48af" alt="" width="50" /> | Stravinsky: Petrushka, Jeu de cartes | 2018-10-19     | [🔗](https://open.spotify.com/album/19fQbFNjlfXgBAFqftKzWA) |
 
 </details>
 

@@ -14,12 +14,12 @@
 |                  1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27303668e3f13559554eca8ccc6ab67616d0000b2730eb56329734f9400c1639359ab67616d0000b27314ed51ab46ef0765182bb8a0ab67616d0000b273987a1825341694ec9bc62457" alt="" width="50" /> | [Tarps](../playlists/tarps/overview.md)                         |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album                 | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------|:-----------------------------------------------------------|
-|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Vows (Deluxe Version) | [🔗](https://open.spotify.com/album/6V9rvW05Um5bIHePPfeI8p) |
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="" width="50" /> | Primal Heart          | [🔗](https://open.spotify.com/album/4pj0BkJ7u39i009oqe8V79) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27369b3dd10eee85bb2652c3b05" alt="" width="50" /> | The Golden Echo       | [🔗](https://open.spotify.com/album/66hoUkjxM7tVQwu7bZocwP) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733a2a91f99d869c4ca51362ff" alt="" width="50" /> | Aussie Legends        | [🔗](https://open.spotify.com/album/3IGRFGa4ErR0CU8aMMrRql) |
+|   Number of Tracks | Art                                                                                              | Album                 | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------|:---------------|:-----------------------------------------------------------|
+|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Vows (Deluxe Version) | 2011           | [🔗](https://open.spotify.com/album/6V9rvW05Um5bIHePPfeI8p) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="" width="50" /> | Primal Heart          | 2018-04-20     | [🔗](https://open.spotify.com/album/4pj0BkJ7u39i009oqe8V79) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27369b3dd10eee85bb2652c3b05" alt="" width="50" /> | The Golden Echo       | 2014-08-15     | [🔗](https://open.spotify.com/album/66hoUkjxM7tVQwu7bZocwP) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733a2a91f99d869c4ca51362ff" alt="" width="50" /> | Aussie Legends        | 2019-11-22     | [🔗](https://open.spotify.com/album/3IGRFGa4ErR0CU8aMMrRql) |
 
 ## Top Record Labels
 

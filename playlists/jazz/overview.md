@@ -47,37 +47,37 @@
 <details>
 <summary>See all 29 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                                              | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------|:-----------------------------------------------------------|
-|                 10 | <img src="https://i.scdn.co/image/ab67616d0000b2731c4b46aeb1f53dcffa9b0d96" alt="" width="50" /> | Inner Motion                                                       | [🔗](https://open.spotify.com/album/6azX9ZDZzVLjpQy6ytifne) |
-|                 10 | <img src="https://i.scdn.co/image/ab67616d0000b2737d0ee28b2184f96650755916" alt="" width="50" /> | Freedom At Midnight                                                | [🔗](https://open.spotify.com/album/404TYwH2T33GbA9LdIT9fR) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="" width="50" /> | Call Me Irresponsible                                              | [🔗](https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273dfb2b41e8669c38536b7c3b6" alt="" width="50" /> | Unforgettable: With Love                                           | [🔗](https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27300ace5d3c5bffc123ef1eb51" alt="" width="50" /> | Time Out                                                           | [🔗](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273d404febd467623a6f893b177" alt="" width="50" /> | Take Love Easy                                                     | [🔗](https://open.spotify.com/album/0a7Ut6OPSs8SvPDhFXL4ar) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273d2d2df3486c5c45d238b2e25" alt="" width="50" /> | Sophie Milman                                                      | [🔗](https://open.spotify.com/album/2g5alWoreAp8i1Jjz2XHr4) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273b732a522a686bb304a5d3fdf" alt="" width="50" /> | Michael Bublé                                                      | [🔗](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="" width="50" /> | It's Time                                                          | [🔗](https://open.spotify.com/album/457fktVFXVwjQTl9wOLlfg) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="" width="50" /> | Crazy Love                                                         | [🔗](https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735f3f20826d44c30a017fd68e" alt="" width="50" /> | love (Deluxe Edition)                                              | [🔗](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737ea560d522ef653c268d79c9" alt="" width="50" /> | Time Further Out                                                   | [🔗](https://open.spotify.com/album/0eMXd1VtCXCkuGWn9JjRDT) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735c21d73934bb9760a2f791a2" alt="" width="50" /> | That's Life                                                        | [🔗](https://open.spotify.com/album/3gNsjaUsu9cRckgUFx5NsY) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27350bb7ca1fe7e98df87ce41d9" alt="" width="50" /> | Strangers In The Night (Expanded Edition)                          | [🔗](https://open.spotify.com/album/1kyb5tomEXcA106V57puFW) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b9ea1c69fe9efbdc2df85a95" alt="" width="50" /> | Songs For Swingin' Lovers! (Remastered)                            | [🔗](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="" width="50" /> | Sinatra/Basie: The Complete Reprise Studio Recordings              | [🔗](https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733f03db3f454ff7b2c3b4fe62" alt="" width="50" /> | Romance                                                            | [🔗](https://open.spotify.com/album/5MuNxtOyex8o77Qdjaqeng) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="" width="50" /> | Nobody but Me                                                      | [🔗](https://open.spotify.com/album/5wN1OizIFEHDUkRwzIK3wL) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273913c7a28b9dbce0ec35a7045" alt="" width="50" /> | Music Is Better Than Words                                         | [🔗](https://open.spotify.com/album/6VojJdbXviFkMuemAQ2Ivo) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b2ef9d24ed47c5d44d22adb8" alt="" width="50" /> | Make Someone Happy                                                 | [🔗](https://open.spotify.com/album/2oGYlZ7vte6lJ1MuwKKCeW) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1113af3a19a41dc8eec534e" alt="" width="50" /> | Luck Of The Draw                                                   | [🔗](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730c981ab72e00803faf1bbcae" alt="" width="50" /> | Francis A. & Edward K.                                             | [🔗](https://open.spotify.com/album/5GFkm37IrMR9a4rc6JABkw) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733f67419e4e296d96256cc3f5" alt="" width="50" /> | Every Step Of The Way                                              | [🔗](https://open.spotify.com/album/50HH21YU6PDn8XZXYGxWkg) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ef54c10b95411c51b9ab873b" alt="" width="50" /> | Deleted Scenes From The Cutting Room Floor                         | [🔗](https://open.spotify.com/album/1D8grnftAaivpmBkayUgMR) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734024c75e846d1e13a4c70e0e" alt="" width="50" /> | Db in April                                                        | [🔗](https://open.spotify.com/album/2SUUafWH8ZchpD7eNBzXJy) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | Days Of Wine And Roses, Moon River And Other Academy Award Winners | [🔗](https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27311ee8f400df1c708db8fa471" alt="" width="50" /> | Come Fly with Me                                                   | [🔗](https://open.spotify.com/album/0UhvDeKmtgegXeELEVgGRh) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="" width="50" /> | Come Fly With Me (Remastered)                                      | [🔗](https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27372fb9383a4e394271146d94c" alt="" width="50" /> | Breakfast on the Morning Tram                                      | [🔗](https://open.spotify.com/album/5RwBI4pEinXbIiUhWzAMbX) |
+|   Number of Tracks | Art                                                                                              | Album                                                              | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                 10 | <img src="https://i.scdn.co/image/ab67616d0000b2731c4b46aeb1f53dcffa9b0d96" alt="" width="50" /> | Inner Motion                                                       | 1990-01-01     | [🔗](https://open.spotify.com/album/6azX9ZDZzVLjpQy6ytifne) |
+|                 10 | <img src="https://i.scdn.co/image/ab67616d0000b2737d0ee28b2184f96650755916" alt="" width="50" /> | Freedom At Midnight                                                | 1987-01-01     | [🔗](https://open.spotify.com/album/404TYwH2T33GbA9LdIT9fR) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="" width="50" /> | Call Me Irresponsible                                              | 2007-04-30     | [🔗](https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273dfb2b41e8669c38536b7c3b6" alt="" width="50" /> | Unforgettable: With Love                                           | 1991-06-11     | [🔗](https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27300ace5d3c5bffc123ef1eb51" alt="" width="50" /> | Time Out                                                           | 1959-12-14     | [🔗](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273d404febd467623a6f893b177" alt="" width="50" /> | Take Love Easy                                                     | 2009-05-05     | [🔗](https://open.spotify.com/album/0a7Ut6OPSs8SvPDhFXL4ar) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273d2d2df3486c5c45d238b2e25" alt="" width="50" /> | Sophie Milman                                                      | 2004-01-01     | [🔗](https://open.spotify.com/album/2g5alWoreAp8i1Jjz2XHr4) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273b732a522a686bb304a5d3fdf" alt="" width="50" /> | Michael Bublé                                                      | 2003           | [🔗](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="" width="50" /> | It's Time                                                          | 2005-02-08     | [🔗](https://open.spotify.com/album/457fktVFXVwjQTl9wOLlfg) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="" width="50" /> | Crazy Love                                                         | 2009-10-06     | [🔗](https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735f3f20826d44c30a017fd68e" alt="" width="50" /> | love (Deluxe Edition)                                              | 2018-11-16     | [🔗](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737ea560d522ef653c268d79c9" alt="" width="50" /> | Time Further Out                                                   | 1961           | [🔗](https://open.spotify.com/album/0eMXd1VtCXCkuGWn9JjRDT) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735c21d73934bb9760a2f791a2" alt="" width="50" /> | That's Life                                                        | 1966-11        | [🔗](https://open.spotify.com/album/3gNsjaUsu9cRckgUFx5NsY) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27350bb7ca1fe7e98df87ce41d9" alt="" width="50" /> | Strangers In The Night (Expanded Edition)                          | 1966-05        | [🔗](https://open.spotify.com/album/1kyb5tomEXcA106V57puFW) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b9ea1c69fe9efbdc2df85a95" alt="" width="50" /> | Songs For Swingin' Lovers! (Remastered)                            | 1956-03        | [🔗](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="" width="50" /> | Sinatra/Basie: The Complete Reprise Studio Recordings              | 1962-12-10     | [🔗](https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733f03db3f454ff7b2c3b4fe62" alt="" width="50" /> | Romance                                                            | 2021-02-12     | [🔗](https://open.spotify.com/album/5MuNxtOyex8o77Qdjaqeng) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="" width="50" /> | Nobody but Me                                                      | 2016-10-21     | [🔗](https://open.spotify.com/album/5wN1OizIFEHDUkRwzIK3wL) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273913c7a28b9dbce0ec35a7045" alt="" width="50" /> | Music Is Better Than Words                                         | 2011-01-01     | [🔗](https://open.spotify.com/album/6VojJdbXviFkMuemAQ2Ivo) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b2ef9d24ed47c5d44d22adb8" alt="" width="50" /> | Make Someone Happy                                                 | 2007-01-01     | [🔗](https://open.spotify.com/album/2oGYlZ7vte6lJ1MuwKKCeW) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1113af3a19a41dc8eec534e" alt="" width="50" /> | Luck Of The Draw                                                   | 1991-01-01     | [🔗](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730c981ab72e00803faf1bbcae" alt="" width="50" /> | Francis A. & Edward K.                                             | 1968-01        | [🔗](https://open.spotify.com/album/5GFkm37IrMR9a4rc6JABkw) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733f67419e4e296d96256cc3f5" alt="" width="50" /> | Every Step Of The Way                                              | 1987           | [🔗](https://open.spotify.com/album/50HH21YU6PDn8XZXYGxWkg) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ef54c10b95411c51b9ab873b" alt="" width="50" /> | Deleted Scenes From The Cutting Room Floor                         | 2010-01-29     | [🔗](https://open.spotify.com/album/1D8grnftAaivpmBkayUgMR) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734024c75e846d1e13a4c70e0e" alt="" width="50" /> | Db in April                                                        | 2018-04-24     | [🔗](https://open.spotify.com/album/2SUUafWH8ZchpD7eNBzXJy) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | Days Of Wine And Roses, Moon River And Other Academy Award Winners | 1964           | [🔗](https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27311ee8f400df1c708db8fa471" alt="" width="50" /> | Come Fly with Me                                                   | 2004-03-30     | [🔗](https://open.spotify.com/album/0UhvDeKmtgegXeELEVgGRh) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="" width="50" /> | Come Fly With Me (Remastered)                                      | 1958           | [🔗](https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27372fb9383a4e394271146d94c" alt="" width="50" /> | Breakfast on the Morning Tram                                      | 2007-09-03     | [🔗](https://open.spotify.com/album/5RwBI4pEinXbIiUhWzAMbX) |
 
 </details>
 
@@ -150,95 +150,113 @@
 </details>
 
 
+## Years
+
+
+
+
+
+| 10 newest albums                                                                                                                                                                                                                                                                                | 10 oldest albums                                                                                                                                                                                                                                                                                                                          |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733f03db3f454ff7b2c3b4fe62" alt="Romance" width="50" /> <span style="padding-left:10px;">Romance (2021-02-12)</span></div>                                                                       | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b9ea1c69fe9efbdc2df85a95" alt="Songs For Swingin' Lovers! (Remastered)" width="50" /> <span style="padding-left:10px;">Songs For Swingin' Lovers! (Remastered) (1956-03)</span></div>                                                    |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2735f3f20826d44c30a017fd68e" alt="love (Deluxe Edition)" width="50" /> <span style="padding-left:10px;">love (Deluxe Edition) (2018-11-16)</span></div>                                           | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="Come Fly With Me (Remastered)" width="50" /> <span style="padding-left:10px;">Come Fly With Me (Remastered) (1958)</span></div>                                                                           |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734024c75e846d1e13a4c70e0e" alt="Db in April" width="50" /> <span style="padding-left:10px;">Db in April (2018-04-24)</span></div>                                                               | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27300ace5d3c5bffc123ef1eb51" alt="Time Out" width="50" /> <span style="padding-left:10px;">Time Out (1959-12-14)</span></div>                                                                                                               |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="Nobody but Me" width="50" /> <span style="padding-left:10px;">Nobody but Me (2016-10-21)</span></div>                                                           | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737ea560d522ef653c268d79c9" alt="Time Further Out" width="50" /> <span style="padding-left:10px;">Time Further Out (1961)</span></div>                                                                                                     |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273913c7a28b9dbce0ec35a7045" alt="Music Is Better Than Words" width="50" /> <span style="padding-left:10px;">Music Is Better Than Words (2011-01-01)</span></div>                                 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> <span style="padding-left:10px;">Sinatra/Basie: The Complete Reprise Studio Recordings (1962-12-10)</span></div>                     |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ef54c10b95411c51b9ab873b" alt="Deleted Scenes From The Cutting Room Floor" width="50" /> <span style="padding-left:10px;">Deleted Scenes From The Cutting Room Floor (2010-01-29)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> <span style="padding-left:10px;">Days Of Wine And Roses, Moon River And Other Academy Award Winners (1964)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="Crazy Love" width="50" /> <span style="padding-left:10px;">Crazy Love (2009-10-06)</span></div>                                                                 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27350bb7ca1fe7e98df87ce41d9" alt="Strangers In The Night (Expanded Edition)" width="50" /> <span style="padding-left:10px;">Strangers In The Night (Expanded Edition) (1966-05)</span></div>                                                |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d404febd467623a6f893b177" alt="Take Love Easy" width="50" /> <span style="padding-left:10px;">Take Love Easy (2009-05-05)</span></div>                                                         | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2735c21d73934bb9760a2f791a2" alt="That's Life" width="50" /> <span style="padding-left:10px;">That's Life (1966-11)</span></div>                                                                                                            |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27372fb9383a4e394271146d94c" alt="Breakfast on the Morning Tram" width="50" /> <span style="padding-left:10px;">Breakfast on the Morning Tram (2007-09-03)</span></div>                           | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2730c981ab72e00803faf1bbcae" alt="Francis A. & Edward K." width="50" /> <span style="padding-left:10px;">Francis A. & Edward K. (1968-01)</span></div>                                                                                      |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="Call Me Irresponsible" width="50" /> <span style="padding-left:10px;">Call Me Irresponsible (2007-04-30)</span></div>                                           | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733f67419e4e296d96256cc3f5" alt="Every Step Of The Way" width="50" /> <span style="padding-left:10px;">Every Step Of The Way (1987)</span></div>                                                                                           |
 ## Audio Features
 
 | 10 most Danceable tracks            | 10 least Danceable tracks   |
 |:------------------------------------|:----------------------------|
-| Freedom At Midnight                 | Beautiful Love              |
-| That Man                            | Del Sasser                  |
-| Houston                             | Deep Light                  |
-| Fake Monologue                      | The Last Goodbye            |
-| Passion Walk                        | Pieces Of Time              |
-| The Man With The Panama Hat         | Kei's Song                  |
-| Everything                          | Unforgettable               |
-| Someday (feat. Meghan Trainor)      | Strangers In The Night      |
-| Fly Me To The Moon (In Other Words) | Can't Help Falling in Love  |
-| Agua De Beber                       | A Last Request              |
+| Freedom At Midnight                 | A Last Request              |
+| That Man                            | Can't Help Falling in Love  |
+| Houston                             | Strangers In The Night      |
+| Fake Monologue                      | Unforgettable               |
+| Passion Walk                        | Kei's Song                  |
+| The Man With The Panama Hat         | Pieces Of Time              |
+| Everything                          | The Last Goodbye            |
+| Someday (feat. Meghan Trainor)      | Deep Light                  |
+| Fly Me To The Moon (In Other Words) | Del Sasser                  |
+| Agua De Beber                       | Beautiful Love              |
 
 | 10 most Energetic tracks         | 10 least Energetic tracks   |
 |:---------------------------------|:----------------------------|
-| That Man                         | The Way You Look Tonight    |
-| Agua De Beber                    | La Vie En Rose              |
-| Haven't Met You Yet              | 6-String Poet               |
-| Everything                       | Kei's Song                  |
-| El Camino Real                   | L-O-V-E - 2000 Remaster     |
-| South East Quarter               | Fake Monologue              |
-| Moondance                        | Deep Light                  |
-| M.W.A. (Musicians With Attitude) | I Can't Make You Love Me    |
-| Freedom At Midnight              | The Last Goodbye            |
-| Feeling Good                     | Pieces Of Time              |
+| That Man                         | Pieces Of Time              |
+| Agua De Beber                    | The Last Goodbye            |
+| Haven't Met You Yet              | I Can't Make You Love Me    |
+| Everything                       | Deep Light                  |
+| El Camino Real                   | Fake Monologue              |
+| South East Quarter               | L-O-V-E - 2000 Remaster     |
+| Moondance                        | Kei's Song                  |
+| M.W.A. (Musicians With Attitude) | 6-String Poet               |
+| Freedom At Midnight              | La Vie En Rose              |
+| Feeling Good                     | The Way You Look Tonight    |
 
 | 10 most Speechy tracks              | 10 least Speechy tracks                       |
 |:------------------------------------|:----------------------------------------------|
-| That Man                            | Coconut Roads                                 |
-| Unsquare Dance                      | Something In The Air Between Us               |
-| L-O-V-E - 2000 Remaster             | Strangers In The Night                        |
-| Moondance                           | La vie en rose (feat. Cécile McLorin Salvant) |
-| That's Life                         | Can't Help Falling in Love                    |
-| The Best Is yet to Come             | Call Me Irresponsible                         |
-| Fake Monologue                      | Unforgettable                                 |
-| Love Won't Let You Get Away         | The Way You Look Tonight                      |
-| M.W.A. (Musicians With Attitude)    | I Can't Make You Love Me                      |
-| Fly Me To The Moon (In Other Words) | Everything                                    |
+| That Man                            | Everything                                    |
+| Unsquare Dance                      | I Can't Make You Love Me                      |
+| L-O-V-E - 2000 Remaster             | The Way You Look Tonight                      |
+| Moondance                           | Unforgettable                                 |
+| That's Life                         | Call Me Irresponsible                         |
+| The Best Is yet to Come             | Can't Help Falling in Love                    |
+| Fake Monologue                      | La vie en rose (feat. Cécile McLorin Salvant) |
+| Love Won't Let You Get Away         | Strangers In The Night                        |
+| M.W.A. (Musicians With Attitude)    | Something In The Air Between Us               |
+| Fly Me To The Moon (In Other Words) | Coconut Roads                                 |
 
 | 10 most Acoustic tracks         | 10 least Acoustic tracks    |
 |:--------------------------------|:----------------------------|
-| I Can't Make You Love Me        | Houston                     |
-| The Last Goodbye                | Along The Milky Way         |
-| Something In The Air Between Us | Haven't Met You Yet         |
-| Beautiful Love                  | Coconut Roads               |
-| Home                            | Every Step Of The Way       |
-| Pieces Of Time                  | The Man With The Panama Hat |
-| Blue Rondo à la Turk            | El Camino Real              |
-| Unforgettable                   | Freedom At Midnight         |
-| Deep Light                      | Unsquare Dance              |
 | I Can't Make You Love Me        | Del Sasser                  |
+| The Last Goodbye                | Unsquare Dance              |
+| Something In The Air Between Us | Freedom At Midnight         |
+| Beautiful Love                  | El Camino Real              |
+| Home                            | The Man With The Panama Hat |
+| Pieces Of Time                  | Every Step Of The Way       |
+| Blue Rondo à la Turk            | Coconut Roads               |
+| Unforgettable                   | Haven't Met You Yet         |
+| Deep Light                      | Along The Milky Way         |
+| I Can't Make You Love Me        | Houston                     |
 
 | 10 most Instrumental tracks      | 10 least Instrumental tracks                  |
 |:---------------------------------|:----------------------------------------------|
-| Deep Light                       | The Way You Look Tonight                      |
-| Freedom At Midnight              | Someday (feat. Meghan Trainor)                |
-| Fake Monologue                   | L-O-V-E                                       |
-| The Last Goodbye                 | La Vie En Rose                                |
-| Unsquare Dance                   | La vie en rose (feat. Cécile McLorin Salvant) |
-| 6-String Poet                    | Fly Me To The Moon (In Other Words)           |
-| M.W.A. (Musicians With Attitude) | L-O-V-E - 2000 Remaster                       |
-| A Last Request                   | Love Won't Let You Get Away                   |
-| Houston                          | Sunny                                         |
-| Every Step Of The Way            | Come Fly With Me - Remastered 1998            |
+| Deep Light                       | Come Fly With Me - Remastered 1998            |
+| Freedom At Midnight              | Sunny                                         |
+| Fake Monologue                   | Love Won't Let You Get Away                   |
+| The Last Goodbye                 | L-O-V-E - 2000 Remaster                       |
+| Unsquare Dance                   | Fly Me To The Moon (In Other Words)           |
+| 6-String Poet                    | La vie en rose (feat. Cécile McLorin Salvant) |
+| M.W.A. (Musicians With Attitude) | La Vie En Rose                                |
+| A Last Request                   | L-O-V-E                                       |
+| Houston                          | Someday (feat. Meghan Trainor)                |
+| Every Step Of The Way            | The Way You Look Tonight                      |
 
 | 10 most Live tracks              | 10 least Live tracks                |
 |:---------------------------------|:------------------------------------|
-| Moondance                        | Someday (feat. Meghan Trainor)      |
-| Sunny                            | El Camino Real                      |
-| That's Life                      | Take Five                           |
-| The Best Is yet to Come          | Along The Milky Way                 |
-| South East Quarter               | Fly Me To The Moon (In Other Words) |
-| The Way You Look Tonight         | Passion Walk                        |
-| I Can't Make You Love Me         | The Man With The Panama Hat         |
-| M.W.A. (Musicians With Attitude) | Every Corner Of The World           |
-| Houston                          | Coconut Roads                       |
-| Strangers In The Night           | Freedom At Midnight                 |
+| Moondance                        | Freedom At Midnight                 |
+| Sunny                            | Coconut Roads                       |
+| That's Life                      | Every Corner Of The World           |
+| The Best Is yet to Come          | The Man With The Panama Hat         |
+| South East Quarter               | Passion Walk                        |
+| The Way You Look Tonight         | Fly Me To The Moon (In Other Words) |
+| I Can't Make You Love Me         | Along The Milky Way                 |
+| M.W.A. (Musicians With Attitude) | Take Five                           |
+| Houston                          | El Camino Real                      |
+| Strangers In The Night           | Someday (feat. Meghan Trainor)      |
 
 | 10 most Happy tracks           | 10 least Happy tracks           |
 |:-------------------------------|:--------------------------------|
-| Someday (feat. Meghan Trainor) | Something In The Air Between Us |
-| That Man                       | La Vie En Rose                  |
-| Haven't Met You Yet            | 6-String Poet                   |
-| Freedom At Midnight            | A Last Request                  |
-| L-O-V-E - 2000 Remaster        | Unforgettable                   |
-| The Man With The Panama Hat    | I Can't Make You Love Me        |
-| Fake Monologue                 | Can't Help Falling in Love      |
-| Agua De Beber                  | Pieces Of Time                  |
-| Del Sasser                     | The Last Goodbye                |
-| Passion Walk                   | Deep Light                      |
+| Someday (feat. Meghan Trainor) | Deep Light                      |
+| That Man                       | The Last Goodbye                |
+| Haven't Met You Yet            | Pieces Of Time                  |
+| Freedom At Midnight            | Can't Help Falling in Love      |
+| L-O-V-E - 2000 Remaster        | I Can't Make You Love Me        |
+| The Man With The Panama Hat    | Unforgettable                   |
+| Fake Monologue                 | A Last Request                  |
+| Agua De Beber                  | 6-String Poet                   |
+| Del Sasser                     | La Vie En Rose                  |
+| Passion Walk                   | Something In The Air Between Us |

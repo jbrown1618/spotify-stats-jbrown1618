@@ -86,30 +86,30 @@
 <details>
 <summary>See all 22 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                                                 | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------|:-----------------------------------------------------------|
-|                 41 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | Hamilton (Original Broadway Cast Recording)                           | [🔗](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) |
-|                 13 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | Kaleidoscope Heart                                                    | [🔗](https://open.spotify.com/album/627ukPRwYxyBREHxBq0vGJ) |
-|                 12 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | The Blessed Unrest                                                    | [🔗](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) |
-|                 12 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Little Voice                                                          | [🔗](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) |
-|                 10 | <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | Amidst the Chaos (Bonus Version)                                      | [🔗](https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm) |
-|                  9 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | Les Misérables (Original Broadway Cast Recording)                     | [🔗](https://open.spotify.com/album/3jbKDx0zB1QoJQTw8i1AvD) |
-|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="" width="50" /> | What's Inside: Songs from Waitress                                    | [🔗](https://open.spotify.com/album/1s6codM2ZAB008t9GTyaEk) |
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | Once Upon Another Time                                                | [🔗](https://open.spotify.com/album/1PrqYZJRzGNf8AsSOraxnZ) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="" width="50" /> | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) | [🔗](https://open.spotify.com/album/0I6Bl1dVB1hQsSoQF6KuTg) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="" width="50" /> | Frozen (Original Motion Picture Soundtrack / Deluxe Edition)          | [🔗](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="" width="50" /> | The Little Mermaid Special Edition                                    | [🔗](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="" width="50" /> | Tangled                                                               | [🔗](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc" alt="" width="50" /> | Mulan (Original Soundtrack)                                           | [🔗](https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273281dfd7af2ee99a124404623" alt="" width="50" /> | Pocahontas                                                            | [🔗](https://open.spotify.com/album/7L6kEZVkWh7OEI71b1JHZd) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="" width="50" /> | Beauty and the Beast                                                  | [🔗](https://open.spotify.com/album/3O5p9VNddbwvqWTdYKEqV5) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | The Lion King                                                         | [🔗](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dda924a83894bc750e69845a" alt="" width="50" /> | The Journey so Far                                                    | [🔗](https://open.spotify.com/album/3zr8JDmixklHY1sOURyfoK) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733505183cc0e24d2f7560174a" alt="" width="50" /> | Moana (Original Motion Picture Soundtrack/Deluxe Edition)             | [🔗](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736ff59d18c018a2845758deed" alt="" width="50" /> | Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)          | [🔗](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="" width="50" /> | Brave Enough: Live at the Variety Playhouse                           | [🔗](https://open.spotify.com/album/7L4ZgnQqEhCEsV9GnMeXtE) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27361c83e0a3e42be611729c840" alt="" width="50" /> | Believe                                                               | [🔗](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734a4b92dcf7a5c51cc4f7424c" alt="" width="50" /> | Aladdin Special Edition                                               | [🔗](https://open.spotify.com/album/7bt2aty3lUo6Q1Ud8pthRz) |
+|   Number of Tracks | Art                                                                                              | Album                                                                 | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                 41 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | Hamilton (Original Broadway Cast Recording)                           | 2015-09-25     | [🔗](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) |
+|                 13 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | Kaleidoscope Heart                                                    | 2010-09-07     | [🔗](https://open.spotify.com/album/627ukPRwYxyBREHxBq0vGJ) |
+|                 12 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | The Blessed Unrest                                                    | 2013-07-16     | [🔗](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) |
+|                 12 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Little Voice                                                          | 2007-07-03     | [🔗](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) |
+|                 10 | <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | Amidst the Chaos (Bonus Version)                                      | 2019-05-10     | [🔗](https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm) |
+|                  9 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | Les Misérables (Original Broadway Cast Recording)                     | 1987-05-11     | [🔗](https://open.spotify.com/album/3jbKDx0zB1QoJQTw8i1AvD) |
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="" width="50" /> | What's Inside: Songs from Waitress                                    | 2015-11-06     | [🔗](https://open.spotify.com/album/1s6codM2ZAB008t9GTyaEk) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | Once Upon Another Time                                                | 2012-05-22     | [🔗](https://open.spotify.com/album/1PrqYZJRzGNf8AsSOraxnZ) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="" width="50" /> | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) | 2013-01-01     | [🔗](https://open.spotify.com/album/0I6Bl1dVB1hQsSoQF6KuTg) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="" width="50" /> | Frozen (Original Motion Picture Soundtrack / Deluxe Edition)          | 2013-01-01     | [🔗](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="" width="50" /> | The Little Mermaid Special Edition                                    | 2006-01-01     | [🔗](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="" width="50" /> | Tangled                                                               | 2010-01-01     | [🔗](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc" alt="" width="50" /> | Mulan (Original Soundtrack)                                           | 1998-01-01     | [🔗](https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273281dfd7af2ee99a124404623" alt="" width="50" /> | Pocahontas                                                            | 1995-01-01     | [🔗](https://open.spotify.com/album/7L6kEZVkWh7OEI71b1JHZd) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="" width="50" /> | Beauty and the Beast                                                  | 1991-01-01     | [🔗](https://open.spotify.com/album/3O5p9VNddbwvqWTdYKEqV5) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | The Lion King                                                         | 1994-01-01     | [🔗](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273dda924a83894bc750e69845a" alt="" width="50" /> | The Journey so Far                                                    | 2011-08-09     | [🔗](https://open.spotify.com/album/3zr8JDmixklHY1sOURyfoK) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733505183cc0e24d2f7560174a" alt="" width="50" /> | Moana (Original Motion Picture Soundtrack/Deluxe Edition)             | 2016-11-18     | [🔗](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736ff59d18c018a2845758deed" alt="" width="50" /> | Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)          | 2019-11-15     | [🔗](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="" width="50" /> | Brave Enough: Live at the Variety Playhouse                           | 2013-10-22     | [🔗](https://open.spotify.com/album/7L4ZgnQqEhCEsV9GnMeXtE) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27361c83e0a3e42be611729c840" alt="" width="50" /> | Believe                                                               | 1998           | [🔗](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734a4b92dcf7a5c51cc4f7424c" alt="" width="50" /> | Aladdin Special Edition                                               | 2004-01-01     | [🔗](https://open.spotify.com/album/7bt2aty3lUo6Q1Ud8pthRz) |
 
 </details>
 
@@ -139,91 +139,91 @@
 
 | 10 most Danceable tracks                | 10 least Danceable tracks                                               |
 |:----------------------------------------|:------------------------------------------------------------------------|
-| Ten Duel Commandments                   | Part of Your World                                                      |
-| Washington on Your Side                 | Colors of the Wind - From "Pocahontas" / Soundtrack Version             |
-| A Winter's Ball                         | Gravity                                                                 |
-| Blow Us All Away                        | Stay                                                                    |
-| The Adams Administration                | A Heart Full Of Love                                                    |
-| Little Black Dress                      | I Dreamed A Dream - From "Les Misérables"                               |
-| Eden                                    | Reflection                                                              |
-| Non-Stop                                | Come To Me (Fantine's Death)                                            |
-| Yorktown (The World Turned Upside Down) | Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version |
-| Cabinet Battle #2                       | Bring Him Home                                                          |
+| Ten Duel Commandments                   | Bring Him Home                                                          |
+| Washington on Your Side                 | Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version |
+| A Winter's Ball                         | Come To Me (Fantine's Death)                                            |
+| Blow Us All Away                        | Reflection                                                              |
+| The Adams Administration                | I Dreamed A Dream - From "Les Misérables"                               |
+| Little Black Dress                      | A Heart Full Of Love                                                    |
+| Eden                                    | Stay                                                                    |
+| Non-Stop                                | Gravity                                                                 |
+| Yorktown (The World Turned Upside Down) | Colors of the Wind - From "Pocahontas" / Soundtrack Version             |
+| Cabinet Battle #2                       | Part of Your World                                                      |
 
 | 10 most Energetic tracks                | 10 least Energetic tracks                                                         |
 |:----------------------------------------|:----------------------------------------------------------------------------------|
-| Believe                                 | Do You Want to Build a Snowman? - From "Frozen"/Soundtrack Version                |
-| Bad Idea (feat. Jason Mraz)             | Best of Wives and Best of Women                                                   |
-| Yorktown (The World Turned Upside Down) | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 |
-| Morningside                             | In My Life                                                                        |
-| Let The Rain                            | I Dreamed A Dream - From "Les Misérables"                                         |
-| Fairytale                               | Come To Me (Fantine's Death)                                                      |
-| Brave                                   | Empty Chairs At Empty Tables                                                      |
-| Love On the Rocks                       | In My Life                                                                        |
-| Come Round Soon                         | Bring Him Home                                                                    |
-| One Sweet Love                          | Kaleidoscope Heart                                                                |
+| Believe                                 | Kaleidoscope Heart                                                                |
+| Bad Idea (feat. Jason Mraz)             | Bring Him Home                                                                    |
+| Yorktown (The World Turned Upside Down) | In My Life                                                                        |
+| Morningside                             | Empty Chairs At Empty Tables                                                      |
+| Let The Rain                            | Come To Me (Fantine's Death)                                                      |
+| Fairytale                               | I Dreamed A Dream - From "Les Misérables"                                         |
+| Brave                                   | In My Life                                                                        |
+| Love On the Rocks                       | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 |
+| Come Round Soon                         | Best of Wives and Best of Women                                                   |
+| One Sweet Love                          | Do You Want to Build a Snowman? - From "Frozen"/Soundtrack Version                |
 
 | 10 most Speechy tracks    | 10 least Speechy tracks     |
 |:--------------------------|:----------------------------|
-| Aaron Burr, Sir           | Love Song                   |
-| Ten Duel Commandments     | If I Can't Have You         |
-| The World Was Wide Enough | The Light                   |
-| The Adams Administration  | History Has Its Eyes on You |
-| Cabinet Battle #2         | Islands                     |
-| We Know                   | Breathe Again               |
-| A Winter's Ball           | Sweet As Whole              |
-| Your Obedient Servant     | Orpheus                     |
-| Right Hand Man            | Machine Gun                 |
-| Meet Me Inside            | Satellite Call              |
+| Aaron Burr, Sir           | Satellite Call              |
+| Ten Duel Commandments     | Machine Gun                 |
+| The World Was Wide Enough | Orpheus                     |
+| The Adams Administration  | Sweet As Whole              |
+| Cabinet Battle #2         | Breathe Again               |
+| We Know                   | Islands                     |
+| A Winter's Ball           | History Has Its Eyes on You |
+| Your Obedient Servant     | The Light                   |
+| Right Hand Man            | If I Can't Have You         |
+| Meet Me Inside            | Love Song                   |
 
 | 10 most Acoustic tracks                                                           | 10 least Acoustic tracks    |
 |:----------------------------------------------------------------------------------|:----------------------------|
-| Bring Him Home                                                                    | Say You're Sorry            |
-| Bright Lights and Cityscapes                                                      | Let The Rain                |
-| Manhattan                                                                         | Love Song                   |
-| A Heart Full Of Love                                                              | Gonna Get Over You          |
-| In My Life                                                                        | Wicked Love                 |
-| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Bad Idea (feat. Jason Mraz) |
-| Come To Me (Fantine's Death)                                                      | Vegas                       |
-| Empty Chairs At Empty Tables                                                      | Believe                     |
-| I Dreamed A Dream - From "Les Misérables"                                         | Many the Miles              |
-| In My Life                                                                        | Brave                       |
+| Bring Him Home                                                                    | Brave                       |
+| Bright Lights and Cityscapes                                                      | Many the Miles              |
+| Manhattan                                                                         | Believe                     |
+| A Heart Full Of Love                                                              | Vegas                       |
+| In My Life                                                                        | Bad Idea (feat. Jason Mraz) |
+| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Wicked Love                 |
+| Come To Me (Fantine's Death)                                                      | Gonna Get Over You          |
+| Empty Chairs At Empty Tables                                                      | Love Song                   |
+| I Dreamed A Dream - From "Les Misérables"                                         | Let The Rain                |
+| In My Life                                                                        | Say You're Sorry            |
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| Satellite Call                | Stay Alive - Reprise           |
-| Islands                       | Ten Duel Commandments          |
-| Armor                         | Right Hand Man                 |
-| Bring Him Home                | My Shot                        |
-| Reflection                    | Aaron Burr, Sir                |
-| Breathe Again                 | Meet Me Inside                 |
-| Miss Simone                   | The World Was Wide Enough      |
-| The Light                     | Washington on Your Side        |
-| No Such Thing                 | The Room Where It Happens      |
-| Fire                          | Say You're Sorry               |
+| Satellite Call                | Say You're Sorry               |
+| Islands                       | The Room Where It Happens      |
+| Armor                         | Washington on Your Side        |
+| Bring Him Home                | The World Was Wide Enough      |
+| Reflection                    | Meet Me Inside                 |
+| Breathe Again                 | Aaron Burr, Sir                |
+| Miss Simone                   | My Shot                        |
+| The Light                     | Right Hand Man                 |
+| No Such Thing                 | Ten Duel Commandments          |
+| Fire                          | Stay Alive - Reprise           |
 
 | 10 most Live tracks                                                               | 10 least Live tracks                                  |
 |:----------------------------------------------------------------------------------|:------------------------------------------------------|
-| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | The Light                                             |
-| Yorktown (The World Turned Upside Down)                                           | Bring Him Home                                        |
-| I Know Him                                                                        | King of Anything                                      |
-| Reflection                                                                        | Believe                                               |
-| Stars                                                                             | Chasing The Sun                                       |
-| The Room Where It Happens                                                         | Eden                                                  |
-| The Story of Tonight                                                              | Mother Knows Best - From "Tangled"/Soundtrack Version |
-| The Schuyler Sisters                                                              | Brave                                                 |
-| Ten Duel Commandments                                                             | Your Obedient Servant                                 |
-| Blow Us All Away                                                                  | Uncharted                                             |
+| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Uncharted                                             |
+| Yorktown (The World Turned Upside Down)                                           | Your Obedient Servant                                 |
+| I Know Him                                                                        | Brave                                                 |
+| Reflection                                                                        | Mother Knows Best - From "Tangled"/Soundtrack Version |
+| Stars                                                                             | Eden                                                  |
+| The Room Where It Happens                                                         | Chasing The Sun                                       |
+| The Story of Tonight                                                              | Believe                                               |
+| The Schuyler Sisters                                                              | King of Anything                                      |
+| Ten Duel Commandments                                                             | Bring Him Home                                        |
+| Blow Us All Away                                                                  | The Light                                             |
 
 | 10 most Happy tracks      | 10 least Happy tracks        |
 |:--------------------------|:-----------------------------|
-| I Choose You              | In My Life                   |
-| A Girl Worth Fighting For | A Whole New World            |
-| Say You're Sorry          | Empty Chairs At Empty Tables |
-| Schuyler Defeated         | How Far I'll Go              |
-| Ten Duel Commandments     | Everything Changes           |
-| Under the Sea             | Islands                      |
-| King of Anything          | Reflection                   |
-| Lie To Me                 | A Heart Full Of Love         |
-| The Adams Administration  | Bring Him Home               |
-| The Schuyler Sisters      | Once Upon Another Time       |
+| I Choose You              | Once Upon Another Time       |
+| A Girl Worth Fighting For | Bring Him Home               |
+| Say You're Sorry          | A Heart Full Of Love         |
+| Schuyler Defeated         | Reflection                   |
+| Ten Duel Commandments     | Islands                      |
+| Under the Sea             | Everything Changes           |
+| King of Anything          | How Far I'll Go              |
+| Lie To Me                 | Empty Chairs At Empty Tables |
+| The Adams Administration  | A Whole New World            |
+| The Schuyler Sisters      | In My Life                   |

@@ -12,10 +12,10 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c18e2114a3a3ef543635197a" alt="" width="50" />                                                                                                                            | [Beethoven](../playlists/beethoven/overview.md) |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album                              | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------|:-----------------------------------------------------------|
-|                 18 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | Karajan - Mozart                   | [🔗](https://open.spotify.com/album/1HSJhsMIW2EDD4YSSkbc9e) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27370426e24663b43f11ebd9c24" alt="" width="50" /> | Beethoven: 9 Symphonies; Overtures | [🔗](https://open.spotify.com/album/2DQTNTznsteIZciZdyeWdj) |
+|   Number of Tracks | Art                                                                                              | Album                              | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------|:---------------|:-----------------------------------------------------------|
+|                 18 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | Karajan - Mozart                   | 2020-06-16     | [🔗](https://open.spotify.com/album/1HSJhsMIW2EDD4YSSkbc9e) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27370426e24663b43f11ebd9c24" alt="" width="50" /> | Beethoven: 9 Symphonies; Overtures | 1993-01-01     | [🔗](https://open.spotify.com/album/2DQTNTznsteIZciZdyeWdj) |
 
 ## Top Record Labels
 

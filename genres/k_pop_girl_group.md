@@ -88,108 +88,108 @@
 <details>
 <summary>See top 100 albums</summary>
 
-|   Number of Tracks | Art                                                                                              | Album                                       | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------|:-----------------------------------------------------------|
-|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | BORN PINK                                   | [🔗](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) |
-|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | THE ALBUM                                   | [🔗](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) |
-|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | I NEVER DIE                                 | [🔗](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) |
-|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | Formula of Love: O+T=<3                     | [🔗](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) |
-|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="" width="50" /> | Perfect Velvet - The 2nd Album              | [🔗](https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH) |
-|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | CRAZY IN LOVE                               | [🔗](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) |
-|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | CHECKMATE                                   | [🔗](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) |
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="" width="50" /> | ‘The ReVe Festival’ Day 1                   | [🔗](https://open.spotify.com/album/2nLEiP268mSFZHW5dajM4R) |
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2738c4a282e84a53c1c8acf129a" alt="" width="50" /> | ‘The ReVe Festival 2022 - Feel My Rhythm’   | [🔗](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) |
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2738ea860a3e6904b875629d672" alt="" width="50" /> | YOUNG-LUV.COM                               | [🔗](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) |
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | Savage - The 1st Mini Album                 | [🔗](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) |
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273830de2e836036f181df598d0" alt="" width="50" /> | Queendom - The 6th Mini Album               | [🔗](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) |
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | I love                                      | [🔗](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) |
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Girls - The 2nd Mini Album                  | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="" width="50" /> | GUESS WHO                                   | [🔗](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) |
-|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273aea29200523b1ee4d5b2c035" alt="" width="50" /> | FOREVER 1 - The 7th Album                   | [🔗](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | ‘The ReVe Festival’ Finale                  | [🔗](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273d2ef237da7f94762997c2083" alt="" width="50" /> | ‘The ReVe Festival 2022 - Birthday’         | [🔗](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2736017bca98dea58ceddea77c1" alt="" width="50" /> | Summer Magic - Summer Mini Album            | [🔗](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef" alt="" width="50" /> | SQUARE UP                                   | [🔗](https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="" width="50" /> | Russian Roulette - The 3rd Mini Album       | [🔗](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="" width="50" /> | RBB - The 5th Mini Album                    | [🔗](https://open.spotify.com/album/7rNIvLwIpB2mwOzk20iqIl) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="" width="50" /> | Not Shy (English Ver.)                      | [🔗](https://open.spotify.com/album/0hoNwSKuuOeT9eAxopgMdm) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | Not Shy                                     | [🔗](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" alt="" width="50" /> | NewJeans 1st EP 'New Jeans'                 | [🔗](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2735dcded478bd1a908dbabf05e" alt="" width="50" /> | KILL THIS LOVE                              | [🔗](https://open.spotify.com/album/7viSsSKXrDa95CtUcuc1Iv) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | I trust                                     | [🔗](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | I burn                                      | [🔗](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) |
-|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="" width="50" /> | 1st Album [Dystopia : The Tree of Language] | [🔗](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="" width="50" /> | [Apocalypse : Save us]                      | [🔗](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="" width="50" /> | The Red - The 1st Album                     | [🔗](https://open.spotify.com/album/6YL9J0E6PGtYzkhyMxnmXd) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="" width="50" /> | Taste of Love                               | [🔗](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2739b57e9b31c831fb2137c38e2" alt="" width="50" /> | Oh! - The Second Album                      | [🔗](https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="" width="50" /> | I am                                        | [🔗](https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="" width="50" /> | Fairyforest : Temptation                    | [🔗](https://open.spotify.com/album/3999VmQrZOafu4NjYkc0rj) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2736570fd05bcff5edcb16e617d" alt="" width="50" /> | Eyes Wide Open                              | [🔗](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | CHESHIRE                                    | [🔗](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2739d750d969d227e6506a2c176" alt="" width="50" /> | Bloom                                       | [🔗](https://open.spotify.com/album/4ualu7nMAcmoAqp47YaA95) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | BETWEEN 1&2                                 | [🔗](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="" width="50" /> | ALL OUT                                     | [🔗](https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2733a7804057d817ff9f68ca85c" alt="" width="50" /> | ‘The ReVe Festival’ Day 2                   | [🔗](https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273619b758232a962e9ddf45f97" alt="" width="50" /> | [12:00]                                     | [🔗](https://open.spotify.com/album/3obToaukLcPbCLPPmWFzQi) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c76a0146e4c1804f22cab995" alt="" width="50" /> | WE NEED LOVE                                | [🔗](https://open.spotify.com/album/04EniWu488MF6louRYafKJ) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2738164cd1a2e03b7ca2db9ff5e" alt="" width="50" /> | The Red Summer - Summer Mini Album          | [🔗](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2735fe0013ebb4022adc0f042be" alt="" width="50" /> | Summer Special [Flip That]                  | [🔗](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273af2fda9fb591d43c355c2ac3" alt="" width="50" /> | STAYDOM                                     | [🔗](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27318a4a215052e9f396864bd73" alt="" width="50" /> | SQUARE TWO                                  | [🔗](https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273ff4ec21d7817138cabcc19bc" alt="" width="50" /> | SQUARE ONE                                  | [🔗](https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a38af5bbda76202e9d9eb8fd" alt="" width="50" /> | Rookie - The 4th Mini Album                 | [🔗](https://open.spotify.com/album/5Bg49LEfyoZzKpQsEwRCtI) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734fcfc7c45bef0c20cc65ec27" alt="" width="50" /> | Return of The Girl                          | [🔗](https://open.spotify.com/album/28p4jKCNlbLUXaZ24iYLuD) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273dd525e34b35a55ca3763e28d" alt="" width="50" /> | Raid of Dream                               | [🔗](https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734a8b951ff5979dc187340b1d" alt="" width="50" /> | RED MOON                                    | [🔗](https://open.spotify.com/album/6GhELYbXRo1LOqRPOCsQrF) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a6ea41f7103f07588c18bbdb" alt="" width="50" /> | Pink Funky                                  | [🔗](https://open.spotify.com/album/5Fy5PyBWqMNK7xvXO9Q32f) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27348a03c11c71a265006e1b9e3" alt="" width="50" /> | One-reeler / Act IV                         | [🔗](https://open.spotify.com/album/3gfl9D7cMW3K87YiMbqsWK) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273ea82cfc115275d25d9750ae1" alt="" width="50" /> | No.1                                        | [🔗](https://open.spotify.com/album/6xSUUpa9LBZYwJFMJOr8M6) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01" alt="" width="50" /> | NewJeans 'OMG'                              | [🔗](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734957fced6061ee536ca618ab" alt="" width="50" /> | NONSTOP                                     | [🔗](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27338fc902e1d368df7fc0d77a3" alt="" width="50" /> | Melting                                     | [🔗](https://open.spotify.com/album/11hjJntrvmauDoga4Krr0U) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27322f0e32bfb91476f0ad96656" alt="" width="50" /> | MIC ON                                      | [🔗](https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093" alt="" width="50" /> | LOVE DIVE                                   | [🔗](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2733beb8877c3a0cde5be9a139c" alt="" width="50" /> | Ice Cream Cake - The 1st Mini Album         | [🔗](https://open.spotify.com/album/27cBQ5FDqv0xLgiJ7qNpZr) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2735a34da2654db7f75cee1d080" alt="" width="50" /> | IT'z ICY                                    | [🔗](https://open.spotify.com/album/2y2Nuvvw5xNDYOunTSsgf1) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734be0f7bf49f6b31c3dfc42ae" alt="" width="50" /> | INSANE LOVE                                 | [🔗](https://open.spotify.com/album/4Yz1WY6PlJepdbnl4m72b8) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c5011613476079ff2498bf4a" alt="" width="50" /> | HELICOPTER                                  | [🔗](https://open.spotify.com/album/1uwfxRAhW1hxclCVkzku8d) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27349b81808fcdaeeb55bef59d1" alt="" width="50" /> | Feel Special                                | [🔗](https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c8caa659d37a00d34cbd6359" alt="" width="50" /> | ENTWURF                                     | [🔗](https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27304d1fa0ab8be50437e6bad1d" alt="" width="50" /> | Dear OHMYGIRL                               | [🔗](https://open.spotify.com/album/2xfmLni05CCgygcNdtPvuN) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f9e6dad0846ac30e4a0db23a" alt="" width="50" /> | AOA 1st Album ANGEL'S KNOCK (1)             | [🔗](https://open.spotify.com/album/4AltTzzJMv0bER1rj3oUln) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27385b44ac6d4a8383ed7e88285" alt="" width="50" /> | AH YEAH                                     | [🔗](https://open.spotify.com/album/54r8xseUAz0c9ORidjAKmZ) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2738d64ee7e356e13a96062bd0b" alt="" width="50" /> | AD MARE                                     | [🔗](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273afc368ba57bb5ac9b576e122" alt="" width="50" /> | 악몽                                          | [🔗](https://open.spotify.com/album/2BIlGYqHZqWuI6GqwXd22t) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fca604ab938f3f3319971a61" alt="" width="50" /> | 기기괴괴                                        | [🔗](https://open.spotify.com/album/296fyWl3wGRk4pB7sbaAwx) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c07b020417770f3385448f" alt="" width="50" /> | 回:Walpurgis Night                           | [🔗](https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27329134ca1a4c424b7d98cb0af" alt="" width="50" /> | reminiscence                                | [🔗](https://open.spotify.com/album/0zH0C0fkzAjhSnGKLOuxwX) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d650d0d98caf3f54b842a0b" alt="" width="50" /> | reality in BLACK                            | [🔗](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273266f95f6353cb2b974f67fa7" alt="" width="50" /> | miss me?                                    | [🔗](https://open.spotify.com/album/2YyowuE62RMWFtBSa2EO7r) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27358870b3abb0ff43e5948c912" alt="" width="50" /> | i'M THE TREND                               | [🔗](https://open.spotify.com/album/03TbZLPSRsHWX11umzK4qf) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737c0618723e2fca9e617eec34" alt="" width="50" /> | [Summer Holiday]                            | [🔗](https://open.spotify.com/album/1JOpx5eL6Rb3vRC9epERQD) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27393dc875f5465891061acef62" alt="" width="50" /> | [REASON]                                    | [🔗](https://open.spotify.com/album/0VZzJkiIK51ygHS5n1qRnZ) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731e998666727247d231c75cf8" alt="" width="50" /> | [Dystopia : Road to Utopia]                 | [🔗](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c7d075ac409f015413350f6d" alt="" width="50" /> | [Apocalypse : Follow us]                    | [🔗](https://open.spotify.com/album/7MQXcfzHmWjQAAIFhdy1mY) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273608cf05fbd3605c77444917f" alt="" width="50" /> | [&]                                         | [🔗](https://open.spotify.com/album/747FhjbZXy5H8frCZ90eDv) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c985aeaeccb1db38dddf2986" alt="" width="50" /> | [#]                                         | [🔗](https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27352db41e897d3a8dc72929208" alt="" width="50" /> | Yummy Yummy Love                            | [🔗](https://open.spotify.com/album/2r35RHvEtBjgKiONdItRR5) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736847aa7310791dcd66f16a5e" alt="" width="50" /> | Yellow Flower                               | [🔗](https://open.spotify.com/album/4G9qMxS9c4W5PPNdPrTaLn) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273140ba24506e300382e08e6ec" alt="" width="50" /> | YES or YES                                  | [🔗](https://open.spotify.com/album/25VunQEW0x2W6ALND2Mh4g) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a200f972bd8b1f9cb76da8c2" alt="" width="50" /> | Wrap Me In Plastic                          | [🔗](https://open.spotify.com/album/58VYPx8GBYTf3Sz2RyPApB) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730615bbf0d4382f2cb1716730" alt="" width="50" /> | Wings                                       | [🔗](https://open.spotify.com/album/4knaQg3CtzHlA2m99NS7xW) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273018ac0665d32b08c76afd4cc" alt="" width="50" /> | Why So Lonely                               | [🔗](https://open.spotify.com/album/3vCjRsRRGOLp8VCYPLXtDx) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738612b3a74fefaf72ddc92d08" alt="" width="50" /> | White Wind                                  | [🔗](https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e2a4f8bcc74020cd4b01f647" alt="" width="50" /> | What Is Love                                | [🔗](https://open.spotify.com/album/5o5cJ6yZmcyy4y4hK0J6de) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27393669daf6d891ee1bdd28df8" alt="" width="50" /> | WE                                          | [🔗](https://open.spotify.com/album/6Epnn9sgvvUrHdEf7JKjQb) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ae843591bcdace9489c86fb0" alt="" width="50" /> | WAW                                         | [🔗](https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273520ea0d948ced66d1c1764e2" alt="" width="50" /> | WANNA BE MYSELF                             | [🔗](https://open.spotify.com/album/0n62copUsWrST9M6AsYfZI) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273aecb87fd2574ad79b05cc024" alt="" width="50" /> | Voltage                                     | [🔗](https://open.spotify.com/album/3MXVqfk9VG3B757nLlow0D) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736aa25194fc6d46aa2b9b703a" alt="" width="50" /> | Vibrato                                     | [🔗](https://open.spotify.com/album/0S1VyZliuHBfMhMCd7kr95) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6" alt="" width="50" /> | Uh-Oh                                       | [🔗](https://open.spotify.com/album/3PzrNuMGWGpp8WOfrmpkaU) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27342678cd46d7322e395400930" alt="" width="50" /> | UNNATURAL                                   | [🔗](https://open.spotify.com/album/0uD1Chx5ZsnZM4kS8yK0S8) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736034eda385497f614778f457" alt="" width="50" /> | Twicetagram                                 | [🔗](https://open.spotify.com/album/3hJXmK5gWN9P6jtZL0Lr2y) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273387444ab2fc1f08dfe7915ab" alt="" width="50" /> | Twicecoaster: Lane 1                        | [🔗](https://open.spotify.com/album/5zQhaDNbiXHRqd8Y51I4vy) |
+|   Number of Tracks | Art                                                                                              | Album                                       | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------|:---------------|:-----------------------------------------------------------|
+|                  8 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | BORN PINK                                   | 2022-09-16     | [🔗](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) |
+|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | THE ALBUM                                   | 2020-10-02     | [🔗](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) |
+|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | I NEVER DIE                                 | 2022-03-14     | [🔗](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) |
+|                  7 | <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | Formula of Love: O+T=<3                     | 2021-11-12     | [🔗](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) |
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="" width="50" /> | Perfect Velvet - The 2nd Album              | 2017-11-17     | [🔗](https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH) |
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | CRAZY IN LOVE                               | 2021-09-24     | [🔗](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) |
+|                  6 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | CHECKMATE                                   | 2022-07-15     | [🔗](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="" width="50" /> | ‘The ReVe Festival’ Day 1                   | 2019-06-19     | [🔗](https://open.spotify.com/album/2nLEiP268mSFZHW5dajM4R) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2738c4a282e84a53c1c8acf129a" alt="" width="50" /> | ‘The ReVe Festival 2022 - Feel My Rhythm’   | 2022-03-21     | [🔗](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b2738ea860a3e6904b875629d672" alt="" width="50" /> | YOUNG-LUV.COM                               | 2022-02-21     | [🔗](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | Savage - The 1st Mini Album                 | 2021-10-05     | [🔗](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273830de2e836036f181df598d0" alt="" width="50" /> | Queendom - The 6th Mini Album               | 2021-08-16     | [🔗](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | I love                                      | 2022-10-17     | [🔗](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Girls - The 2nd Mini Album                  | 2022-07-08     | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="" width="50" /> | GUESS WHO                                   | 2021-04-30     | [🔗](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) |
+|                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273aea29200523b1ee4d5b2c035" alt="" width="50" /> | FOREVER 1 - The 7th Album                   | 2022-08-05     | [🔗](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | ‘The ReVe Festival’ Finale                  | 2019-12-23     | [🔗](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273d2ef237da7f94762997c2083" alt="" width="50" /> | ‘The ReVe Festival 2022 - Birthday’         | 2022-11-28     | [🔗](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2736017bca98dea58ceddea77c1" alt="" width="50" /> | Summer Magic - Summer Mini Album            | 2018-08-06     | [🔗](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef" alt="" width="50" /> | SQUARE UP                                   | 2018-06-15     | [🔗](https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="" width="50" /> | Russian Roulette - The 3rd Mini Album       | 2016-09-07     | [🔗](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="" width="50" /> | RBB - The 5th Mini Album                    | 2018-11-30     | [🔗](https://open.spotify.com/album/7rNIvLwIpB2mwOzk20iqIl) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="" width="50" /> | Not Shy (English Ver.)                      | 2021-01-22     | [🔗](https://open.spotify.com/album/0hoNwSKuuOeT9eAxopgMdm) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | Not Shy                                     | 2020-08-17     | [🔗](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" alt="" width="50" /> | NewJeans 1st EP 'New Jeans'                 | 2022-08-01     | [🔗](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b2735dcded478bd1a908dbabf05e" alt="" width="50" /> | KILL THIS LOVE                              | 2019-04-05     | [🔗](https://open.spotify.com/album/7viSsSKXrDa95CtUcuc1Iv) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | I trust                                     | 2020-04-06     | [🔗](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | I burn                                      | 2021-01-11     | [🔗](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="" width="50" /> | 1st Album [Dystopia : The Tree of Language] | 2020-02-18     | [🔗](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="" width="50" /> | [Apocalypse : Save us]                      | 2022-04-12     | [🔗](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="" width="50" /> | The Red - The 1st Album                     | 2015-09-09     | [🔗](https://open.spotify.com/album/6YL9J0E6PGtYzkhyMxnmXd) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="" width="50" /> | Taste of Love                               | 2021-06-11     | [🔗](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2739b57e9b31c831fb2137c38e2" alt="" width="50" /> | Oh! - The Second Album                      | 2010-01-28     | [🔗](https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="" width="50" /> | I am                                        | 2018-05-02     | [🔗](https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="" width="50" /> | Fairyforest : Temptation                    | 2021-10-07     | [🔗](https://open.spotify.com/album/3999VmQrZOafu4NjYkc0rj) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2736570fd05bcff5edcb16e617d" alt="" width="50" /> | Eyes Wide Open                              | 2020-10-26     | [🔗](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | CHESHIRE                                    | 2022-11-30     | [🔗](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2739d750d969d227e6506a2c176" alt="" width="50" /> | Bloom                                       | 2022-04-06     | [🔗](https://open.spotify.com/album/4ualu7nMAcmoAqp47YaA95) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | BETWEEN 1&2                                 | 2022-08-26     | [🔗](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="" width="50" /> | ALL OUT                                     | 2020-11-06     | [🔗](https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2733a7804057d817ff9f68ca85c" alt="" width="50" /> | ‘The ReVe Festival’ Day 2                   | 2019-08-20     | [🔗](https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273619b758232a962e9ddf45f97" alt="" width="50" /> | [12:00]                                     | 2020-10-19     | [🔗](https://open.spotify.com/album/3obToaukLcPbCLPPmWFzQi) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c76a0146e4c1804f22cab995" alt="" width="50" /> | WE NEED LOVE                                | 2022-07-19     | [🔗](https://open.spotify.com/album/04EniWu488MF6louRYafKJ) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2738164cd1a2e03b7ca2db9ff5e" alt="" width="50" /> | The Red Summer - Summer Mini Album          | 2017-07-09     | [🔗](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2735fe0013ebb4022adc0f042be" alt="" width="50" /> | Summer Special [Flip That]                  | 2022-06-20     | [🔗](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273af2fda9fb591d43c355c2ac3" alt="" width="50" /> | STAYDOM                                     | 2021-04-08     | [🔗](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27318a4a215052e9f396864bd73" alt="" width="50" /> | SQUARE TWO                                  | 2016-11-01     | [🔗](https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273ff4ec21d7817138cabcc19bc" alt="" width="50" /> | SQUARE ONE                                  | 2016-08-08     | [🔗](https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a38af5bbda76202e9d9eb8fd" alt="" width="50" /> | Rookie - The 4th Mini Album                 | 2017-02-01     | [🔗](https://open.spotify.com/album/5Bg49LEfyoZzKpQsEwRCtI) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734fcfc7c45bef0c20cc65ec27" alt="" width="50" /> | Return of The Girl                          | 2021-12-01     | [🔗](https://open.spotify.com/album/28p4jKCNlbLUXaZ24iYLuD) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273dd525e34b35a55ca3763e28d" alt="" width="50" /> | Raid of Dream                               | 2019-09-18     | [🔗](https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734a8b951ff5979dc187340b1d" alt="" width="50" /> | RED MOON                                    | 2018-07-16     | [🔗](https://open.spotify.com/album/6GhELYbXRo1LOqRPOCsQrF) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a6ea41f7103f07588c18bbdb" alt="" width="50" /> | Pink Funky                                  | 2015-06-19     | [🔗](https://open.spotify.com/album/5Fy5PyBWqMNK7xvXO9Q32f) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27348a03c11c71a265006e1b9e3" alt="" width="50" /> | One-reeler / Act IV                         | 2020-12-07     | [🔗](https://open.spotify.com/album/3gfl9D7cMW3K87YiMbqsWK) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273ea82cfc115275d25d9750ae1" alt="" width="50" /> | No.1                                        | 2019-01-30     | [🔗](https://open.spotify.com/album/6xSUUpa9LBZYwJFMJOr8M6) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01" alt="" width="50" /> | NewJeans 'OMG'                              | 2023-01-02     | [🔗](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734957fced6061ee536ca618ab" alt="" width="50" /> | NONSTOP                                     | 2020-04-27     | [🔗](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27338fc902e1d368df7fc0d77a3" alt="" width="50" /> | Melting                                     | 2016-02-26     | [🔗](https://open.spotify.com/album/11hjJntrvmauDoga4Krr0U) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27322f0e32bfb91476f0ad96656" alt="" width="50" /> | MIC ON                                      | 2022-10-11     | [🔗](https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093" alt="" width="50" /> | LOVE DIVE                                   | 2022-04-05     | [🔗](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2733beb8877c3a0cde5be9a139c" alt="" width="50" /> | Ice Cream Cake - The 1st Mini Album         | 2015-03-17     | [🔗](https://open.spotify.com/album/27cBQ5FDqv0xLgiJ7qNpZr) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2735a34da2654db7f75cee1d080" alt="" width="50" /> | IT'z ICY                                    | 2019-07-29     | [🔗](https://open.spotify.com/album/2y2Nuvvw5xNDYOunTSsgf1) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2734be0f7bf49f6b31c3dfc42ae" alt="" width="50" /> | INSANE LOVE                                 | 2016-06-21     | [🔗](https://open.spotify.com/album/4Yz1WY6PlJepdbnl4m72b8) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c5011613476079ff2498bf4a" alt="" width="50" /> | HELICOPTER                                  | 2020-09-02     | [🔗](https://open.spotify.com/album/1uwfxRAhW1hxclCVkzku8d) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27349b81808fcdaeeb55bef59d1" alt="" width="50" /> | Feel Special                                | 2019-09-23     | [🔗](https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273c8caa659d37a00d34cbd6359" alt="" width="50" /> | ENTWURF                                     | 2022-09-19     | [🔗](https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27304d1fa0ab8be50437e6bad1d" alt="" width="50" /> | Dear OHMYGIRL                               | 2021-05-10     | [🔗](https://open.spotify.com/album/2xfmLni05CCgygcNdtPvuN) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273f9e6dad0846ac30e4a0db23a" alt="" width="50" /> | AOA 1st Album ANGEL'S KNOCK (1)             | 2017-01-02     | [🔗](https://open.spotify.com/album/4AltTzzJMv0bER1rj3oUln) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b27385b44ac6d4a8383ed7e88285" alt="" width="50" /> | AH YEAH                                     | 2015-04-14     | [🔗](https://open.spotify.com/album/54r8xseUAz0c9ORidjAKmZ) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2738d64ee7e356e13a96062bd0b" alt="" width="50" /> | AD MARE                                     | 2022-02-22     | [🔗](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273afc368ba57bb5ac9b576e122" alt="" width="50" /> | 악몽                                          | 2017-01-13     | [🔗](https://open.spotify.com/album/2BIlGYqHZqWuI6GqwXd22t) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fca604ab938f3f3319971a61" alt="" width="50" /> | 기기괴괴                                        | 2021-10-31     | [🔗](https://open.spotify.com/album/296fyWl3wGRk4pB7sbaAwx) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c07b020417770f3385448f" alt="" width="50" /> | 回:Walpurgis Night                           | 2020-11-09     | [🔗](https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27329134ca1a4c424b7d98cb0af" alt="" width="50" /> | reminiscence                                | 2020-02-03     | [🔗](https://open.spotify.com/album/0zH0C0fkzAjhSnGKLOuxwX) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d650d0d98caf3f54b842a0b" alt="" width="50" /> | reality in BLACK                            | 2019-11-14     | [🔗](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273266f95f6353cb2b974f67fa7" alt="" width="50" /> | miss me?                                    | 2016-10-17     | [🔗](https://open.spotify.com/album/2YyowuE62RMWFtBSa2EO7r) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27358870b3abb0ff43e5948c912" alt="" width="50" /> | i'M THE TREND                               | 2020-07-07     | [🔗](https://open.spotify.com/album/03TbZLPSRsHWX11umzK4qf) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737c0618723e2fca9e617eec34" alt="" width="50" /> | [Summer Holiday]                            | 2021-07-30     | [🔗](https://open.spotify.com/album/1JOpx5eL6Rb3vRC9epERQD) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27393dc875f5465891061acef62" alt="" width="50" /> | [REASON]                                    | 2023-01-13     | [🔗](https://open.spotify.com/album/0VZzJkiIK51ygHS5n1qRnZ) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2731e998666727247d231c75cf8" alt="" width="50" /> | [Dystopia : Road to Utopia]                 | 2021-01-26     | [🔗](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c7d075ac409f015413350f6d" alt="" width="50" /> | [Apocalypse : Follow us]                    | 2022-10-11     | [🔗](https://open.spotify.com/album/7MQXcfzHmWjQAAIFhdy1mY) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273608cf05fbd3605c77444917f" alt="" width="50" /> | [&]                                         | 2021-06-28     | [🔗](https://open.spotify.com/album/747FhjbZXy5H8frCZ90eDv) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c985aeaeccb1db38dddf2986" alt="" width="50" /> | [#]                                         | 2020-02-05     | [🔗](https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27352db41e897d3a8dc72929208" alt="" width="50" /> | Yummy Yummy Love                            | 2022-01-14     | [🔗](https://open.spotify.com/album/2r35RHvEtBjgKiONdItRR5) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736847aa7310791dcd66f16a5e" alt="" width="50" /> | Yellow Flower                               | 2018-03-07     | [🔗](https://open.spotify.com/album/4G9qMxS9c4W5PPNdPrTaLn) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273140ba24506e300382e08e6ec" alt="" width="50" /> | YES or YES                                  | 2018-11-05     | [🔗](https://open.spotify.com/album/25VunQEW0x2W6ALND2Mh4g) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a200f972bd8b1f9cb76da8c2" alt="" width="50" /> | Wrap Me In Plastic                          | 2021-02-05     | [🔗](https://open.spotify.com/album/58VYPx8GBYTf3Sz2RyPApB) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730615bbf0d4382f2cb1716730" alt="" width="50" /> | Wings                                       | 2021-02-24     | [🔗](https://open.spotify.com/album/4knaQg3CtzHlA2m99NS7xW) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273018ac0665d32b08c76afd4cc" alt="" width="50" /> | Why So Lonely                               | 2016-07-05     | [🔗](https://open.spotify.com/album/3vCjRsRRGOLp8VCYPLXtDx) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738612b3a74fefaf72ddc92d08" alt="" width="50" /> | White Wind                                  | 2019-03-14     | [🔗](https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273e2a4f8bcc74020cd4b01f647" alt="" width="50" /> | What Is Love                                | 2018-04-09     | [🔗](https://open.spotify.com/album/5o5cJ6yZmcyy4y4hK0J6de) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27393669daf6d891ee1bdd28df8" alt="" width="50" /> | WE                                          | 2019-05-15     | [🔗](https://open.spotify.com/album/6Epnn9sgvvUrHdEf7JKjQb) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273ae843591bcdace9489c86fb0" alt="" width="50" /> | WAW                                         | 2021-06-02     | [🔗](https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273520ea0d948ced66d1c1764e2" alt="" width="50" /> | WANNA BE MYSELF                             | 2020-09-10     | [🔗](https://open.spotify.com/album/0n62copUsWrST9M6AsYfZI) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273aecb87fd2574ad79b05cc024" alt="" width="50" /> | Voltage                                     | 2022-03-23     | [🔗](https://open.spotify.com/album/3MXVqfk9VG3B757nLlow0D) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736aa25194fc6d46aa2b9b703a" alt="" width="50" /> | Vibrato                                     | 2015-07-20     | [🔗](https://open.spotify.com/album/0S1VyZliuHBfMhMCd7kr95) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6" alt="" width="50" /> | Uh-Oh                                       | 2019-06-26     | [🔗](https://open.spotify.com/album/3PzrNuMGWGpp8WOfrmpkaU) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27342678cd46d7322e395400930" alt="" width="50" /> | UNNATURAL                                   | 2021-03-31     | [🔗](https://open.spotify.com/album/0uD1Chx5ZsnZM4kS8yK0S8) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736034eda385497f614778f457" alt="" width="50" /> | Twicetagram                                 | 2017-10-30     | [🔗](https://open.spotify.com/album/3hJXmK5gWN9P6jtZL0Lr2y) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273387444ab2fc1f08dfe7915ab" alt="" width="50" /> | Twicecoaster: Lane 1                        | 2016-10-24     | [🔗](https://open.spotify.com/album/5zQhaDNbiXHRqd8Y51I4vy) |
 
 </details>
 
@@ -275,91 +275,91 @@
 
 | 10 most Danceable tracks   | 10 least Danceable tracks          |
 |:---------------------------|:-----------------------------------|
-| #Twenty                    | REASON                             |
-| SNEAKERS                   | Life's Too Short (English Version) |
-| SNEAKERS (English Ver.)    | Addicted                           |
-| Typa Girl                  | Poison                             |
-| Scandal                    | 7월 7일 One Of These Nights          |
-| Time Slip                  | You Better Run                     |
-| Louder                     | Feel My Rhythm                     |
-| Nobody                     | Where Are We Now                   |
-| Pepe                       | O.O                                |
-| So Hot                     | HWAA                               |
+| #Twenty                    | HWAA                               |
+| SNEAKERS                   | O.O                                |
+| SNEAKERS (English Ver.)    | Where Are We Now                   |
+| Typa Girl                  | Feel My Rhythm                     |
+| Scandal                    | You Better Run                     |
+| Time Slip                  | 7월 7일 One Of These Nights          |
+| Louder                     | Poison                             |
+| Nobody                     | Addicted                           |
+| Pepe                       | Life's Too Short (English Version) |
+| So Hot                     | REASON                             |
 
 | 10 most Energetic tracks   | 10 least Energetic tracks   |
 |:---------------------------|:----------------------------|
-| Hit That Drum              | Hello, Sunset               |
-| Chase Me                   | 7월 7일 One Of These Nights   |
-| Girls                      | Where Are We Now            |
-| Abracadabra                | Moonlight Melody            |
-| Heart Attack               | Hurt                        |
-| Secret                     | You Never Know              |
-| Oh!                        | STAY                        |
-| Mr.Mr.                     | HANN (Alone in winter)      |
-| Panorama                   | Hope Not                    |
-| Very Very Very             | The Happiest Girl           |
+| Hit That Drum              | The Happiest Girl           |
+| Chase Me                   | Hope Not                    |
+| Girls                      | HANN (Alone in winter)      |
+| Abracadabra                | STAY                        |
+| Heart Attack               | You Never Know              |
+| Secret                     | Hurt                        |
+| Oh!                        | Moonlight Melody            |
+| Mr.Mr.                     | Where Are We Now            |
+| Panorama                   | 7월 7일 One Of These Nights   |
+| Very Very Very             | Hello, Sunset               |
 
 | 10 most Speechy tracks        | 10 least Speechy tracks   |
 |:------------------------------|:--------------------------|
-| Addicted                      | Beautiful Christmas       |
-| Freedom                       | Tally                     |
-| Free Fall                     | ESCAPE                    |
-| Ice Cream (with Selena Gomez) | Something                 |
-| Signal                        | In My Dreams              |
-| You Better Run                | LOVE FOOL                 |
-| Girls                         | YOUNG LUV                 |
-| Be Natural                    | Hope Not                  |
-| Love So Sweet                 | Gee                       |
-| O.O                           | Moonlight Melody          |
+| Addicted                      | Moonlight Melody          |
+| Freedom                       | Gee                       |
+| Free Fall                     | Hope Not                  |
+| Ice Cream (with Selena Gomez) | YOUNG LUV                 |
+| Signal                        | LOVE FOOL                 |
+| You Better Run                | In My Dreams              |
+| Girls                         | Something                 |
+| Be Natural                    | ESCAPE                    |
+| Love So Sweet                 | Tally                     |
+| O.O                           | Beautiful Christmas       |
 
 | 10 most Acoustic tracks   | 10 least Acoustic tracks   |
 |:--------------------------|:---------------------------|
-| HANN (Alone in winter)    | Pirate                     |
-| Rainy Season              | Up & Down                  |
-| Where Are We Now          | SWIPE                      |
-| Hurt                      | 달라달라 (DALLA DALLA)         |
-| Jazz Bar                  | LA DI DA                   |
-| ZOOM                      | DALLA DALLA - English Ver. |
-| Wind flower               | RUN2U                      |
-| Starry Night              | Adios                      |
-| Moonlight Melody          | Red Light                  |
-| The Happiest Girl         | Poison                     |
+| HANN (Alone in winter)    | Poison                     |
+| Rainy Season              | Red Light                  |
+| Where Are We Now          | Adios                      |
+| Hurt                      | RUN2U                      |
+| Jazz Bar                  | DALLA DALLA - English Ver. |
+| ZOOM                      | LA DI DA                   |
+| Wind flower               | 달라달라 (DALLA DALLA)         |
+| Starry Night              | SWIPE                      |
+| Moonlight Melody          | Up & Down                  |
+| The Happiest Girl         | Pirate                     |
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| You and I (Park Bom)          | Be Natural                     |
-| Adios                         | Addicted                       |
-| YEPPI YEPPI                   | Bewitched                      |
-| So Hot                        | Oh Boy                         |
-| I Am The Best                 | #Cookie Jar                    |
-| Power Up                      | Rookie                         |
-| BBoom BBoom                   | Bewitched - Eng Ver.           |
-| In My Dreams                  | WILDSIDE                       |
-| BAAM                          | Marionette                     |
-| Star                          | HANN (Alone in winter)         |
+| You and I (Park Bom)          | HANN (Alone in winter)         |
+| Adios                         | Marionette                     |
+| YEPPI YEPPI                   | WILDSIDE                       |
+| So Hot                        | Bewitched - Eng Ver.           |
+| I Am The Best                 | Rookie                         |
+| Power Up                      | #Cookie Jar                    |
+| BBoom BBoom                   | Oh Boy                         |
+| In My Dreams                  | Bewitched                      |
+| BAAM                          | Addicted                       |
+| Star                          | Be Natural                     |
 
 | 10 most Live tracks   | 10 least Live tracks          |
 |:----------------------|:------------------------------|
-| Heart Attack          | ELEVEN                        |
-| Piano Man             | I’m So Hot                    |
-| You Better Run        | Wings                         |
-| I Like That           | Red Light                     |
-| Vibrato               | BLACK DRESS                   |
-| 행복 (Happiness)        | DARK (X-file)                 |
-| LP                    | Ice Cream (with Selena Gomez) |
-| Genie                 | YEPPI YEPPI                   |
-| STEREOTYPE            | SNEAKERS (English Ver.)       |
-| 5th Season (SSFWL)    | SNEAKERS                      |
+| Heart Attack          | SNEAKERS                      |
+| Piano Man             | SNEAKERS (English Ver.)       |
+| You Better Run        | YEPPI YEPPI                   |
+| I Like That           | Ice Cream (with Selena Gomez) |
+| Vibrato               | DARK (X-file)                 |
+| 행복 (Happiness)        | BLACK DRESS                   |
+| LP                    | Red Light                     |
+| Genie                 | Wings                         |
+| STEREOTYPE            | I’m So Hot                    |
+| 5th Season (SSFWL)    | ELEVEN                        |
 
 | 10 most Happy tracks    | 10 least Happy tracks     |
 |:------------------------|:--------------------------|
-| Pepe                    | 4 Walls                   |
-| Miniskirt               | MORE                      |
-| So Hot                  | POSE                      |
-| Twinkle                 | LION                      |
-| Lion Heart              | Ditto                     |
-| Give it to me           | Hope Not                  |
-| 러시안 룰렛 Russian Roulette | In My Dreams              |
-| Nobody                  | Body Talk                 |
-| Really                  | Lucid Dream               |
-| Devil                   | 7월 7일 One Of These Nights |
+| Pepe                    | 7월 7일 One Of These Nights |
+| Miniskirt               | Lucid Dream               |
+| So Hot                  | Body Talk                 |
+| Twinkle                 | In My Dreams              |
+| Lion Heart              | Hope Not                  |
+| Give it to me           | Ditto                     |
+| 러시안 룰렛 Russian Roulette | LION                      |
+| Nobody                  | POSE                      |
+| Really                  | MORE                      |
+| Devil                   | 4 Walls                   |

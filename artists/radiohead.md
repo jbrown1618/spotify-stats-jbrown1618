@@ -11,13 +11,13 @@
 |                  1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732d73b1bb77cee09f0278be04ab67616d0000b2736f50b3400595b123a916e0dcab67616d0000b2739ab215825eb77076b1b4b387ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | [Karaoke](../playlists/karaoke/overview.md)                     |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album       | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:------------|:-----------------------------------------------------------|
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27322ca59e5c2d806439d5f08a2" alt="" width="50" /> | The Bends   | [🔗](https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2) |
-|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273adb1732fa8d44b8eb2f6c0bf" alt="" width="50" /> | OK Computer | [🔗](https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn) |
-|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="" width="50" /> | In Rainbows | [🔗](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732f85b65d3ac4d3d7f806ca11" alt="" width="50" /> | Pablo Honey | [🔗](https://open.spotify.com/album/6400dnyeDyD2mIFHfkwHXN) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27301b50e75c5aa46fb8ce0cd32" alt="" width="50" /> | Amnesiac    | [🔗](https://open.spotify.com/album/6V9YnBmFjWmXCBaUVRCVXP) |
+|   Number of Tracks | Art                                                                                              | Album       | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:------------|:---------------|:-----------------------------------------------------------|
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b27322ca59e5c2d806439d5f08a2" alt="" width="50" /> | The Bends   | 1995-03-28     | [🔗](https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2) |
+|                  3 | <img src="https://i.scdn.co/image/ab67616d0000b273adb1732fa8d44b8eb2f6c0bf" alt="" width="50" /> | OK Computer | 1997-05-28     | [🔗](https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn) |
+|                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="" width="50" /> | In Rainbows | 2007-12-28     | [🔗](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732f85b65d3ac4d3d7f806ca11" alt="" width="50" /> | Pablo Honey | 1993-02-22     | [🔗](https://open.spotify.com/album/6400dnyeDyD2mIFHfkwHXN) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27301b50e75c5aa46fb8ce0cd32" alt="" width="50" /> | Amnesiac    | 2001-03-12     | [🔗](https://open.spotify.com/album/6V9YnBmFjWmXCBaUVRCVXP) |
 
 ## Top Record Labels
 

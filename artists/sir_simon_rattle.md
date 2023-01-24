@@ -11,10 +11,10 @@
 |                 16 | <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="" width="50" />                                                                                                                            | [Brahms](../playlists/brahms/overview.md) |
 ## Top Albums
 
-|   Number of Tracks | Art                                                                                              | Album                       | 🔗                                                          |
-|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------|:-----------------------------------------------------------|
-|                 24 | <img src="https://i.scdn.co/image/ab67616d0000b273f1972145094112a1268035f1" alt="" width="50" /> | Tchaikovsky: The Nutcracker | [🔗](https://open.spotify.com/album/54Awn36ryf55PkZyOR4iwQ) |
-|                 16 | <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="" width="50" /> | Brahms: The Symphonies      | [🔗](https://open.spotify.com/album/2dL2qDsg6teV1cueLxCRa1) |
+|   Number of Tracks | Art                                                                                              | Album                       | Release Date   | 🔗                                                          |
+|-------------------:|:-------------------------------------------------------------------------------------------------|:----------------------------|:---------------|:-----------------------------------------------------------|
+|                 24 | <img src="https://i.scdn.co/image/ab67616d0000b273f1972145094112a1268035f1" alt="" width="50" /> | Tchaikovsky: The Nutcracker | 2010-10-11     | [🔗](https://open.spotify.com/album/54Awn36ryf55PkZyOR4iwQ) |
+|                 16 | <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="" width="50" /> | Brahms: The Symphonies      | 2009-09-07     | [🔗](https://open.spotify.com/album/2dL2qDsg6teV1cueLxCRa1) |
 
 ## Top Record Labels
 
