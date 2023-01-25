@@ -221,7 +221,7 @@
 
 
 <details>
-<summary>See all 50 genres</summary>
+<summary>See all 49 genres</summary>
 
 |   Number of Tracks | Genre                                              |
 |-------------------:|:---------------------------------------------------|
@@ -264,7 +264,6 @@
 |                  1 | thai indie pop                                     |
 |                  1 | soul blues                                         |
 |                  1 | [soft rock](../../genres/soft_rock.md)             |
-|                  1 | rock-and-roll                                      |
 |                  1 | minnesota hip hop                                  |
 |                  1 | [mellow gold](../../genres/mellow_gold.md)         |
 |                  1 | jazz blues                                         |
@@ -281,7 +280,7 @@
 
 ## Years
 
-
+![Bar chart of number of songs by year](../../images/playlists/r_b/years.png)
 
 
 

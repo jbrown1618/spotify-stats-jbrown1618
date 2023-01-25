@@ -172,7 +172,7 @@
 
 ## Years
 
-
+![Bar chart of number of songs by year](../../images/playlists/k_pop_101/years.png)
 
 
 

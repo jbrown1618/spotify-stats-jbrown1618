@@ -170,7 +170,7 @@
 
 
 <details>
-<summary>See all 51 genres</summary>
+<summary>See all 50 genres</summary>
 
 |   Number of Tracks | Genre                                                  |
 |-------------------:|:-------------------------------------------------------|
@@ -188,7 +188,7 @@
 |                 10 | art rock                                               |
 |                  9 | yacht rock                                             |
 |                  9 | [singer-songwriter](../../genres/singer_songwriter.md) |
-|                  9 | [folk rock](../../genres/folk_rock.md)                 |
+|                  9 | folk rock                                              |
 |                  9 | blues rock                                             |
 |                  8 | metal                                                  |
 |                  5 | heartland rock                                         |
@@ -204,7 +204,6 @@
 |                  2 | stoner rock                                            |
 |                  2 | stoner metal                                           |
 |                  2 | sludge metal                                           |
-|                  2 | rock-and-roll                                          |
 |                  2 | progressive sludge                                     |
 |                  2 | progressive groove metal                               |
 |                  2 | old school thrash                                      |
@@ -231,7 +230,7 @@
 
 ## Years
 
-
+![Bar chart of number of songs by year](../../images/playlists/classic_rock/years.png)
 
 
 

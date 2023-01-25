@@ -1,16 +1,16 @@
 # electropop
 
-[48 songs](electropop_tracks.md)
+[49 songs](electropop_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 26 artists](../images/genres/electropop/artists.png)
+![Bar chart of top 28 artists](../images/genres/electropop/artists.png)
 
 ![Comparison of Artist](../images/genres/electropop/artists_comparison.png)
 
 
 <details>
-<summary>See all 26 artists</summary>
+<summary>See all 28 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                       | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------|:------------------------------------------------------------|
@@ -31,6 +31,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8f4d36b43fa094d32a167f1e" alt="" width="50" /> | Ashnikko                                     | [🔗](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md)                     | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9df0f924a5e609c8da143cd5" alt="" width="50" /> | A. G. Cook                                   | [🔗](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bb5ab9683125fc416c9dbfb" alt="" width="50" /> | Zedd                                         | [🔗](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f3c0dffb5229c8734ff60b2" alt="" width="50" /> | Big Boi                                      | [🔗](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc48ae32aff5303453105b2d3" alt="" width="50" /> | Cobra Starship                               | [🔗](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba8b955d42229e4cbd03d4cd8" alt="" width="50" /> | VERNON                                       | [🔗](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) |
@@ -40,6 +41,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e9c5c07c1244a637929678c" alt="" width="50" /> | VÉRITÉ                                       | [🔗](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba8bcfb642ea4803e36b73b0a" alt="" width="50" /> | Bishop Briggs                                | [🔗](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA                                         | [🔗](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2657bcafcb300d90816523f" alt="" width="50" /> | Kehlani                                      | [🔗](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) |
 
 </details>
 
@@ -49,7 +51,7 @@
 
 
 <details>
-<summary>See all 32 albums</summary>
+<summary>See all 33 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                                      | Release Date   | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------|:---------------|:-----------------------------------------------------------|
@@ -76,6 +78,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273a111f7769013f1731e9c697c" alt="" width="50" /> | Kiss (Deluxe)                                                              | 2012-01-01     | [🔗](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c83d25c1b9d5f384c32d834a" alt="" width="50" /> | Hot Mess                                                                   | 2009-07-07     | [🔗](https://open.spotify.com/album/41TUivD915ztiKgyu99H9T) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="" width="50" /> | Happier Than Ever                                                          | 2021-07-30     | [🔗](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c824820b3a74839b91b4036a" alt="" width="50" /> | Good Thing (with Kehlani)                                                  | 2019-09-27     | [🔗](https://open.spotify.com/album/3wpdeV1FZfiEnelZSfAFp4) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="" width="50" /> | Fifty Shades Freed (Original Motion Picture Soundtrack)                    | 2018-02-09     | [🔗](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27370d7aa769af19e7e2c2e107b" alt="" width="50" /> | Fantasies                                                                  | 2009-04-14     | [🔗](https://open.spotify.com/album/3Oj8FdHcV6kAiOVWfkqRaA) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273570d18beb1f15ef8adfb27a5" alt="" width="50" /> | Delirium                                                                   | 2015-11-13     | [🔗](https://open.spotify.com/album/4A43DyDoAVa1Fb8pq6Yejl) |
@@ -101,7 +104,7 @@
 |-------------------:|:--------------------------------------------------------|
 |                 13 | [Warner Records](../labels/warner_records.md)           |
 |                 10 | [Darkroom](../labels/darkroom.md)                       |
-|                  8 | [Interscope Records](../labels/interscope_records.md)   |
+|                  9 | [Interscope Records](../labels/interscope_records.md)   |
 |                  4 | [Polydor Records](../labels/polydor_records.md)         |
 |                  4 | Bad Boy                                                 |
 |                  2 | Wondaland                                               |
@@ -186,29 +189,29 @@
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| everything i wanted           | Daisy 2.0 (feat. Hatsune Miku) |
-| you should see me in a crown  | Bad At Love                    |
-| bury a friend                 | SUGA's Interlude               |
-| Therefore I Am                | Say My Name                    |
-| bad guy                       | Julia                          |
-| Like They Do on the TV        | lovely (with Khalid)           |
+| everything i wanted           | lovely (with Khalid)           |
+| you should see me in a crown  | Good Thing (with Kehlani)      |
+| bury a friend                 | Bad At Love                    |
+| Therefore I Am                | SUGA's Interlude               |
+| bad guy                       | Say My Name                    |
+| Like They Do on the TV        | Julia                          |
 | Top of the World              | Closer                         |
-| Lights - Single Version       | Two Way Street                 |
-| ocean eyes                    | Cameo Lover                    |
-| Lightyears                    | The Good War                   |
+| Lights - Single Version       | Daisy 2.0 (feat. Hatsune Miku) |
+| ocean eyes                    | Two Way Street                 |
+| Lightyears                    | Cameo Lover                    |
 
 | 10 most Live tracks                            | 10 least Live tracks                                                       |
 |:-----------------------------------------------|:---------------------------------------------------------------------------|
-| Good Girls Go Bad (feat. Leighton Meester)     | SUGA's Interlude                                                           |
-| Billions                                       | River                                                                      |
-| Make Me Feel                                   | Therefore I Am                                                             |
-| Old Flame                                      | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] |
-| xanny                                          | Say My Name                                                                |
-| Daisy 2.0 (feat. Hatsune Miku)                 | Lightyears                                                                 |
-| Tightrope (feat. Big Boi) - Big Boi Vocal Edit | Settle Down                                                                |
-| Yoga                                           | Good Ones                                                                  |
-| Somebody Else                                  | No Time To Die                                                             |
-| Good Intent                                    | The Good War                                                               |
+| Good Girls Go Bad (feat. Leighton Meester)     | Good Thing (with Kehlani)                                                  |
+| Billions                                       | SUGA's Interlude                                                           |
+| Make Me Feel                                   | River                                                                      |
+| Old Flame                                      | Therefore I Am                                                             |
+| xanny                                          | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] |
+| Daisy 2.0 (feat. Hatsune Miku)                 | Say My Name                                                                |
+| Tightrope (feat. Big Boi) - Big Boi Vocal Edit | Lightyears                                                                 |
+| Yoga                                           | Settle Down                                                                |
+| Somebody Else                                  | Good Ones                                                                  |
+| Good Intent                                    | No Time To Die                                                             |
 
 | 10 most Happy tracks                                                       | 10 least Happy tracks   |
 |:---------------------------------------------------------------------------|:------------------------|

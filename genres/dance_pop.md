@@ -1,6 +1,6 @@
 # dance pop
 
-[237 songs](dance_pop_tracks.md)
+[238 songs](dance_pop_tracks.md)
 
 ## Top Artists
 
@@ -58,6 +58,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | JAY-Z                                        | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb118cd1f3261f08d957105996" alt="" width="50" /> | Kelly Clarkson                               | [🔗](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf01bf904b446e4a043acb867" alt="" width="50" /> | The Script                                   | [🔗](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bb5ab9683125fc416c9dbfb" alt="" width="50" /> | Zedd                                         | [🔗](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb65c99d6d784dc2cabd2a5492" alt="" width="50" /> | Mandy Moore                                  | [🔗](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | Justin Bieber                                | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5acb3cb0a8b87d3952738b97" alt="" width="50" /> | Fifth Harmony                                | [🔗](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) |
@@ -113,7 +114,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebaa2d9bd207a62adc3edf6631" alt="" width="50" /> | Florida Georgia Line                         | [🔗](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb49637fe719fddb8e90896f41" alt="" width="50" /> | Jhorrmountain                                | [🔗](https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o) |
 |                  1 | <img src="nan" alt="" width="50" />                                                              | Zachary Levi                                 | [🔗](https://open.spotify.com/artist/3XSyTI9ct70ZheMESAv2st) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb002eedc44fefe085daae10e4" alt="" width="50" /> | Troye Sivan                                  | [🔗](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) |
 
 </details>
 
@@ -249,7 +249,7 @@
 |                 15 | [Epic](../labels/epic.md)                               |
 |                 13 | [Universal Music LLC](../labels/universal_music_llc.md) |
 |                 13 | [Republic Records](../labels/republic_records.md)       |
-|                 11 | [Interscope Records](../labels/interscope_records.md)   |
+|                 12 | [Interscope Records](../labels/interscope_records.md)   |
 |                 10 | [Syco Music](../labels/syco_music.md)                   |
 |                  9 | [Def Jam Recordings](../labels/def_jam_recordings.md)   |
 |                  9 | [Capitol Records](../labels/capitol_records.md)         |
@@ -357,8 +357,8 @@
 | Youngblood                      | Breakeven                           |
 | boyfriend (with Social House)   | Show Me the Meaning of Being Lonely |
 | Hold Up                         | I Want It That Way                  |
-| Irreplaceable                   | The Man Who Can't Be Moved          |
-| WAP (feat. Megan Thee Stallion) | Ave Maria                           |
+| Irreplaceable                   | Ave Maria                           |
+| WAP (feat. Megan Thee Stallion) | The Man Who Can't Be Moved          |
 | Bubblegum (feat. Tyga)          | Stay                                |
 | 7 rings                         | Kiss Me More (feat. SZA)            |
 | Hustle                          | Señorita                            |
@@ -381,15 +381,15 @@
 | 10 most Instrumental tracks                              | 10 least Instrumental tracks                                   |
 |:---------------------------------------------------------|:---------------------------------------------------------------|
 | This Is What You Came For                                | When Will My Life Begin? - From "Tangled" / Soundtrack Version |
-| You and I (Park Bom)                                     | Levitating (feat. DaBaby)                                      |
-| Lights - Single Version                                  | Kiss and Make Up                                               |
-| Toxic                                                    | Bubblegum (feat. Tyga)                                         |
-| Candyman                                                 | Trumpets                                                       |
-| Grace Kelly                                              | Talk Dirty (feat. 2 Chainz)                                    |
-| Coño                                                     | Swalla (feat. Nicki Minaj & Ty Dolla $ign)                     |
-| I Am The Best                                            | Happy Ending                                                   |
-| SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) | About Damn Time                                                |
-| Woman                                                    | Hallucinate                                                    |
+| You and I (Park Bom)                                     | Kiss and Make Up                                               |
+| Lights - Single Version                                  | Bubblegum (feat. Tyga)                                         |
+| Toxic                                                    | Trumpets                                                       |
+| Candyman                                                 | Talk Dirty (feat. 2 Chainz)                                    |
+| Grace Kelly                                              | Swalla (feat. Nicki Minaj & Ty Dolla $ign)                     |
+| Coño                                                     | Happy Ending                                                   |
+| I Am The Best                                            | About Damn Time                                                |
+| SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) | Truth Hurts                                                    |
+| Woman                                                    | Levitating (feat. DaBaby)                                      |
 
 | 10 most Live tracks                            | 10 least Live tracks             |
 |:-----------------------------------------------|:---------------------------------|
@@ -399,18 +399,18 @@
 | Love On Top                                    | It's Gonna Be Me                 |
 | Super Bass                                     | One Step At a Time               |
 | Good Girls Go Bad (feat. Leighton Meester)     | Yeah! (feat. Lil Jon & Ludacris) |
-| Hold Up                                        | Hot In It                        |
-| (I Got That) Boom Boom (feat. Ying Yang Twins) | SUGA's Interlude                 |
-| Sour Candy (with BLACKPINK)                    | Umbrella                         |
-| In the Name of Love                            | Believe                          |
+| Hold Up                                        | Good Thing (with Kehlani)        |
+| (I Got That) Boom Boom (feat. Ying Yang Twins) | Hot In It                        |
+| Sour Candy (with BLACKPINK)                    | SUGA's Interlude                 |
+| In the Name of Love                            | Umbrella                         |
 
 | 10 most Happy tracks            | 10 least Happy tracks                                                                                              |
 |:--------------------------------|:-------------------------------------------------------------------------------------------------------------------|
 | Material Girl                   | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" |
 | Like a Virgin                   | Jar of Hearts                                                                                                      |
 | There's Nothing Holdin' Me Back | One Last Time                                                                                                      |
-| Mercy                           | Stay                                                                                                               |
-| SexyBack (feat. Timbaland)      | Because of You                                                                                                     |
+| SexyBack (feat. Timbaland)      | Stay                                                                                                               |
+| Mercy                           | Because of You                                                                                                     |
 | I'm a Slave 4 U                 | Til It Happens To You                                                                                              |
 | Sucker                          | Youngblood                                                                                                         |
 | Me Enamoré                      | Million Reasons                                                                                                    |

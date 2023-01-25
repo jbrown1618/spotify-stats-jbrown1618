@@ -410,7 +410,7 @@
 
 ## Years
 
-
+![Bar chart of number of songs by year](../../images/playlists/international_pop/years.png)
 
 
 

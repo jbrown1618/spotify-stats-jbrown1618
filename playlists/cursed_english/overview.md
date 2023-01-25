@@ -116,7 +116,7 @@
 
 ## Years
 
-
+![Bar chart of number of songs by year](../../images/playlists/cursed_english/years.png)
 
 
 

@@ -131,7 +131,7 @@
 
 ## Years
 
-
+![Bar chart of number of songs by year](../../images/playlists/country_folk/years.png)
 
 
 

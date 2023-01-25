@@ -161,7 +161,7 @@
 
 ## Years
 
-
+![Bar chart of number of songs by year](../../images/playlists/sharon_rpd/years.png)
 
 
 

@@ -103,7 +103,7 @@
 
 ## Years
 
-
+![Bar chart of number of songs by year](../../images/playlists/program_music/years.png)
 
 
 

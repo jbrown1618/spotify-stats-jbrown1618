@@ -70,12 +70,12 @@ Appears as:
 
 
 <details>
-<summary>See all 36 genres</summary>
+<summary>See all 35 genres</summary>
 
 |   Number of Tracks | Genre                                               |
 |-------------------:|:----------------------------------------------------|
 |                 14 | [singer-songwriter](../genres/singer_songwriter.md) |
-|                 14 | [folk rock](../genres/folk_rock.md)                 |
+|                 14 | folk rock                                           |
 |                 13 | [classic rock](../genres/classic_rock.md)           |
 |                 12 | [soft rock](../genres/soft_rock.md)                 |
 |                 11 | [rock](../genres/rock.md)                           |
@@ -94,7 +94,6 @@ Appears as:
 |                  2 | synth funk                                          |
 |                  2 | sunshine pop                                        |
 |                  2 | stoner rock                                         |
-|                  2 | rock-and-roll                                       |
 |                  2 | minneapolis sound                                   |
 |                  2 | heartland rock                                      |
 |                  2 | funk rock                                           |

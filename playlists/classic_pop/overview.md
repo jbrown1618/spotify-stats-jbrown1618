@@ -153,7 +153,7 @@
 
 
 <details>
-<summary>See all 40 genres</summary>
+<summary>See all 39 genres</summary>
 
 |   Number of Tracks | Genre                                                  |
 |-------------------:|:-------------------------------------------------------|
@@ -163,7 +163,7 @@
 |                 12 | motown                                                 |
 |                 12 | [adult standards](../../genres/adult_standards.md)     |
 |                  9 | funk                                                   |
-|                  9 | [folk rock](../../genres/folk_rock.md)                 |
+|                  9 | folk rock                                              |
 |                  8 | [r&b](../../genres/r_b.md)                             |
 |                  8 | folk                                                   |
 |                  8 | [classic rock](../../genres/classic_rock.md)           |
@@ -186,7 +186,6 @@
 |                  1 | southern soul                                          |
 |                  1 | smooth jazz                                            |
 |                  1 | roots rock                                             |
-|                  1 | rock-and-roll                                          |
 |                  1 | permanent wave                                         |
 |                  1 | latin pop                                              |
 |                  1 | jazz trumpet                                           |
@@ -203,7 +202,7 @@
 
 ## Years
 
-
+![Bar chart of number of songs by year](../../images/playlists/classic_pop/years.png)
 
 
 

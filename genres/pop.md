@@ -1,6 +1,6 @@
 # pop
 
-[505 songs](pop_tracks.md)
+[506 songs](pop_tracks.md)
 
 ## Top Artists
 
@@ -79,6 +79,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb60c3e9abe7327c0097738f22" alt="" width="50" /> | Sean Paul                                                      | [🔗](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb118cd1f3261f08d957105996" alt="" width="50" /> | Kelly Clarkson                                                 | [🔗](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf01bf904b446e4a043acb867" alt="" width="50" /> | The Script                                                     | [🔗](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bb5ab9683125fc416c9dbfb" alt="" width="50" /> | Zedd                                                           | [🔗](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb9ba4d95b74bacff4d5747f61" alt="" width="50" /> | Hozier                                                         | [🔗](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd09edfd2babfc9fd2ba748e" alt="" width="50" /> | Daniel Caesar                                                  | [🔗](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5acb3cb0a8b87d3952738b97" alt="" width="50" /> | Fifth Harmony                                                  | [🔗](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) |
@@ -113,7 +114,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb31072db9da0311ecfabe96bf" alt="" width="50" /> | Khalid                                                         | [🔗](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf271138f95fbe8188d909d50" alt="" width="50" /> | Kesha                                                          | [🔗](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb15a85a7957cac2c370e713ab" alt="" width="50" /> | Kid Ink                                                        | [🔗](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3c02f4fb4cc9187c488afd50" alt="" width="50" /> | The Chainsmokers                                               | [🔗](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) |
 
 </details>
 
@@ -243,8 +243,8 @@
 |-------------------:|:----------------------------------------------------------------------------|
 |                 80 | [Epic](../labels/epic.md)                                                   |
 |                 36 | [Columbia](../labels/columbia.md)                                           |
+|                 31 | [Interscope Records](../labels/interscope_records.md)                       |
 |                 30 | [Taylor Swift](../labels/taylor_swift.md)                                   |
-|                 30 | [Interscope Records](../labels/interscope_records.md)                       |
 |                 29 | [Big Machine Records](../labels/big_machine_records.md)                     |
 |                 26 | [RCA Records Label](../labels/rca_records_label.md)                         |
 |                 24 | [Polydor Records](../labels/polydor_records.md)                             |
@@ -355,8 +355,8 @@
 | Billie Jean                     | Norman fucking Rockwell     |
 | Pretty Please                   | Stay                        |
 | 1, 2, 3, 4                      | Shades Of Cool              |
-| bury a friend                   | That's Where I Am           |
-| Sally Walker                    | Gravity                     |
+| Sally Walker                    | That's Where I Am           |
+| bury a friend                   | Gravity                     |
 | Coño                            | Once Upon Another Time      |
 | I Think He Knows                | La Vie En Rose              |
 
@@ -402,15 +402,15 @@
 | 10 most Instrumental tracks     | 10 least Instrumental tracks    |
 |:--------------------------------|:--------------------------------|
 | everything i wanted             | Say You're Sorry                |
-| Smooth Criminal - 2012 Remaster | My Everything                   |
-| Swan Song                       | boyfriend (with Social House)   |
-| Wanna Be Startin' Somethin'     | Hustle                          |
-| you should see me in a crown    | Breakeven                       |
-| bury a friend                   | F**kin' Perfect                 |
-| Therefore I Am                  | WAP (feat. Megan Thee Stallion) |
-| bad guy                         | Please Me                       |
-| This Is What You Came For       | Greedy                          |
-| Bel Air                         | The Man Who Can't Be Moved      |
+| Smooth Criminal - 2012 Remaster | Greedy                          |
+| Swan Song                       | My Everything                   |
+| Wanna Be Startin' Somethin'     | boyfriend (with Social House)   |
+| you should see me in a crown    | Hustle                          |
+| bury a friend                   | The Man Who Can't Be Moved      |
+| Therefore I Am                  | F**kin' Perfect                 |
+| bad guy                         | WAP (feat. Megan Thee Stallion) |
+| This Is What You Came For       | Side To Side                    |
+| Bel Air                         | Please Me                       |
 
 | 10 most Live tracks                                                               | 10 least Live tracks             |
 |:----------------------------------------------------------------------------------|:---------------------------------|

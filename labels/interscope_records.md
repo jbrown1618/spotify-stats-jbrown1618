@@ -1,6 +1,6 @@
 # Interscope Records
 
-64 songs
+65 songs
 
 Appears as:
 - YG Entertainment/Interscope Records (19 tracks)
@@ -15,15 +15,16 @@ Appears as:
 - Mosley / Interscope (2 tracks)
 - Fantasy Soul/Interscope Records (1 tracks)
 - Friends Keep Secrets/Def Jam Recordings/Interscope Records (1 tracks)
+- Interscope Records (1 tracks)
 - THEBLACKLABEL/Interscope Records (1 tracks)
 
 ## Top Artists
 
-![Bar chart of top 24 artists](../images/labels/interscope_records/artists.png)
+![Bar chart of top 26 artists](../images/labels/interscope_records/artists.png)
 
 
 <details>
-<summary>See all 24 artists</summary>
+<summary>See all 26 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                       | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------|:------------------------------------------------------------|
@@ -46,10 +47,12 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb12057d342f33c61b3768f2bc" alt="" width="50" /> | T.I.                                         | [🔗](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a528fcb316c5b58d6be0511" alt="" width="50" /> | 6LACK                                        | [🔗](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebbda00a72a1f7e4f93c071614" alt="" width="50" /> | QUIN                                         | [🔗](https://open.spotify.com/artist/3sHS70DMNgPxRqx2fUNrRA) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bb5ab9683125fc416c9dbfb" alt="" width="50" /> | Zedd                                         | [🔗](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) |
 |                  1 | <img src="https://i.scdn.co/image/184674b36baa9cc7f0048502e78ce615a35ba08f" alt="" width="50" /> | Diddy - Dirty Money                          | [🔗](https://open.spotify.com/artist/2QYEvpsWUOjqaYuxDPTCmV) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc2c8185fc0902b43e35f671f" alt="" width="50" /> | JENNIE                                       | [🔗](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | Justin Bieber                                | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc04289f84778ad850cfcddca" alt="" width="50" /> | Jimin                                        | [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2657bcafcb300d90816523f" alt="" width="50" /> | Kehlani                                      | [🔗](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba5205abffd84341e5bace828" alt="" width="50" /> | Selena Gomez                                 | [🔗](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) |
 
 </details>
@@ -61,7 +64,7 @@ Appears as:
 
 
 <details>
-<summary>See all 31 albums</summary>
+<summary>See all 32 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                      | Release Date   | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------|:---------------|:-----------------------------------------------------------|
@@ -93,6 +96,7 @@ Appears as:
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1" alt="" width="50" /> | Joanne (Deluxe)                            | 2016-10-21     | [🔗](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="" width="50" /> | Happier Than Ever                          | 2021-07-30     | [🔗](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27386498c6e8ee965fa665a9c3d" alt="" width="50" /> | Hands All Over (Deluxe)                    | 2010           | [🔗](https://open.spotify.com/album/2H4DCvJiZknLngsD2Yqf6k) |
+|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c824820b3a74839b91b4036a" alt="" width="50" /> | Good Thing (with Kehlani)                  | 2019-09-27     | [🔗](https://open.spotify.com/album/3wpdeV1FZfiEnelZSfAFp4) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="" width="50" /> | Evolve                                     | 2017-06-23     | [🔗](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273fddc804f96cdd6a7de9bcc09" alt="" width="50" /> | DUMB DUMB                                  | 2021-08-02     | [🔗](https://open.spotify.com/album/24sFioeGsPtxa5fD6VzL8b) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd" alt="" width="50" /> | Born This Way                              | 2011-01-01     | [🔗](https://open.spotify.com/album/2KkMVsxymoNR7hRmBcMttd) |
@@ -102,28 +106,34 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 15 genres](../images/labels/interscope_records/genres.png)
+![Bar chart of top 21 genres](../images/labels/interscope_records/genres.png)
 
 
 <details>
-<summary>See all 15 genres</summary>
+<summary>See all 21 genres</summary>
 
 |   Number of Tracks | Genre                                             |
 |-------------------:|:--------------------------------------------------|
+|                 31 | [pop](../genres/pop.md)                           |
 |                 31 | [k-pop](../genres/k_pop.md)                       |
-|                 30 | [pop](../genres/pop.md)                           |
 |                 23 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 |                 19 | [art pop](../genres/art_pop.md)                   |
-|                 11 | [dance pop](../genres/dance_pop.md)               |
-|                  8 | [electropop](../genres/electropop.md)             |
+|                 12 | [dance pop](../genres/dance_pop.md)               |
+|                  9 | [electropop](../genres/electropop.md)             |
 |                  2 | [rock](../genres/rock.md)                         |
+|                  2 | pop rap                                           |
 |                  2 | piano rock                                        |
 |                  2 | modern rock                                       |
-|                  1 | pop rap                                           |
+|                  1 | tropical house                                    |
+|                  1 | pop dance                                         |
 |                  1 | ohio hip hop                                      |
 |                  1 | korean r&b                                        |
 |                  1 | indie r&b                                         |
 |                  1 | hip pop                                           |
+|                  1 | german techno                                     |
+|                  1 | electro house                                     |
+|                  1 | edm                                               |
+|                  1 | complextro                                        |
 |                  1 | canadian pop                                      |
 
 </details>
@@ -141,10 +151,10 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2248cf6dad1d6c062587249" alt="" width="50" /> | everything i wanted              | everything i wanted                        | [Billie Eilish](../artists/billie_eilish.md)                                       | [Darkroom](darkroom.md), [Interscope Records](interscope_records.md)                                           | 💚   | [🔗](https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7" alt="" width="50" /> | No Time To Die                   | No Time To Die                             | [Billie Eilish](../artists/billie_eilish.md)                                       | [Darkroom](darkroom.md), [Interscope Records](interscope_records.md)                                           | 💚   | [🔗](https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="" width="50" /> | Therefore I Am                   | Happier Than Ever                          | [Billie Eilish](../artists/billie_eilish.md)                                       | [Darkroom](darkroom.md), [Interscope Records](interscope_records.md)                                           | 💚   | [🔗](https://open.spotify.com/track/20R4HfKloPKgXDqU7UKk3x) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef" alt="" width="50" /> | DDU-DU DDU-DU                    | SQUARE UP                                  | [BLACKPINK](../artists/blackpink.md)                                               | [2018 YG Entertainment, distributed through Interscope Records](2018_yg_entertainment.md)                      | 💚   | [🔗](https://open.spotify.com/track/4lQsB3ERTWSNaAN1IkuNRl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef" alt="" width="50" /> | Forever Young                    | SQUARE UP                                  | [BLACKPINK](../artists/blackpink.md)                                               | [2018 YG Entertainment, distributed through Interscope Records](2018_yg_entertainment.md)                      | 💚   | [🔗](https://open.spotify.com/track/6veFyjNycn6EaNCKhkPXUY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef" alt="" width="50" /> | Really                           | SQUARE UP                                  | [BLACKPINK](../artists/blackpink.md)                                               | [2018 YG Entertainment, distributed through Interscope Records](2018_yg_entertainment.md)                      | 💚   | [🔗](https://open.spotify.com/track/2URMA0ap6SAI8wFmcY1yta) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef" alt="" width="50" /> | See U Later                      | SQUARE UP                                  | [BLACKPINK](../artists/blackpink.md)                                               | [2018 YG Entertainment, distributed through Interscope Records](2018_yg_entertainment.md)                      | 💚   | [🔗](https://open.spotify.com/track/2REoTZjaB3jyAt5dgkV5GK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef" alt="" width="50" /> | DDU-DU DDU-DU                    | SQUARE UP                                  | [BLACKPINK](../artists/blackpink.md)                                               | [2018 YG Entertainment, distributed through Interscope Records](interscope_records.md)                         | 💚   | [🔗](https://open.spotify.com/track/4lQsB3ERTWSNaAN1IkuNRl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef" alt="" width="50" /> | Forever Young                    | SQUARE UP                                  | [BLACKPINK](../artists/blackpink.md)                                               | [2018 YG Entertainment, distributed through Interscope Records](interscope_records.md)                         | 💚   | [🔗](https://open.spotify.com/track/6veFyjNycn6EaNCKhkPXUY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef" alt="" width="50" /> | Really                           | SQUARE UP                                  | [BLACKPINK](../artists/blackpink.md)                                               | [2018 YG Entertainment, distributed through Interscope Records](interscope_records.md)                         | 💚   | [🔗](https://open.spotify.com/track/2URMA0ap6SAI8wFmcY1yta) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef" alt="" width="50" /> | See U Later                      | SQUARE UP                                  | [BLACKPINK](../artists/blackpink.md)                                               | [2018 YG Entertainment, distributed through Interscope Records](interscope_records.md)                         | 💚   | [🔗](https://open.spotify.com/track/2REoTZjaB3jyAt5dgkV5GK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735dcded478bd1a908dbabf05e" alt="" width="50" /> | Don't Know What To Do            | KILL THIS LOVE                             | [BLACKPINK](../artists/blackpink.md)                                               | [Interscope Records](interscope_records.md), [YG Entertainment](yg_entertainment.md)                           | 💚   | [🔗](https://open.spotify.com/track/0zYqFyhiTj419q56lNsjk0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735dcded478bd1a908dbabf05e" alt="" width="50" /> | Hope Not                         | KILL THIS LOVE                             | [BLACKPINK](../artists/blackpink.md)                                               | [Interscope Records](interscope_records.md), [YG Entertainment](yg_entertainment.md)                           | 💚   | [🔗](https://open.spotify.com/track/7mW8ar9hy7GSeH4lohyOKs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735dcded478bd1a908dbabf05e" alt="" width="50" /> | Kick It                          | KILL THIS LOVE                             | [BLACKPINK](../artists/blackpink.md)                                               | [Interscope Records](interscope_records.md), [YG Entertainment](yg_entertainment.md)                           |     | [🔗](https://open.spotify.com/track/6Ks1e4WEUeOGgnTGZ4IMXo) |
@@ -196,4 +206,5 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2736564f1d8386a6993b4d5d759" alt="" width="50" /> | Mushroom Chocolate (with 6LACK)  | LUCID                                      | QUIN, 6LACK                                                                        | [Fantasy Soul/Interscope Records](fantasy_soul.md)                                                             | 💚   | [🔗](https://open.spotify.com/track/6DEhBd4RGr8MbSAtSNNtai) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f" alt="" width="50" /> | Gone                             | R                                          | ROSÉ                                                                               | [Interscope Records](interscope_records.md), [YG Entertainment](yg_entertainment.md)                           | 💚   | [🔗](https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f" alt="" width="50" /> | On The Ground                    | R                                          | ROSÉ                                                                               | [Interscope Records](interscope_records.md), [YG Entertainment](yg_entertainment.md)                           | 💚   | [🔗](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f7994d33de90ec347aa477c3" alt="" width="50" /> | VIBE (feat. Jimin of BTS)        | VIBE (feat. Jimin of BTS)                  | TAEYANG, Jimin                                                                     | [THEBLACKLABEL/Interscope Records](theblacklabel.md)                                                           | 💚   | [🔗](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f7994d33de90ec347aa477c3" alt="" width="50" /> | VIBE (feat. Jimin of BTS)        | VIBE (feat. Jimin of BTS)                  | TAEYANG, Jimin                                                                     | [THEBLACKLABEL/Interscope Records](interscope_records.md)                                                      | 💚   | [🔗](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c824820b3a74839b91b4036a" alt="" width="50" /> | Good Thing (with Kehlani)        | Good Thing (with Kehlani)                  | Zedd, Kehlani                                                                      | [Interscope Records](interscope_records.md)                                                                    | 💚   | [🔗](https://open.spotify.com/track/5aUSEPNd3m5xliFK4pn5mU) |

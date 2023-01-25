@@ -154,7 +154,7 @@
 
 ## Years
 
-
+![Bar chart of number of songs by year](../../images/playlists/hip_hop/years.png)
 
 
 
