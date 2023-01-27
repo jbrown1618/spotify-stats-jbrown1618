@@ -23,9 +23,6 @@
 |---:|:---|
 | 19 | [Walt Disney Records](../labels/walt_disney_records.md) |
 
-## Genres
-
-
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

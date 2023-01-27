@@ -20,9 +20,6 @@
 |---:|:---|
 | 39 | [Australian Broadcasting Corp (ABC)](../labels/australian_broadcasting_corp__abc_.md) |
 
-## Genres
-
-
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

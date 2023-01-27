@@ -27,9 +27,6 @@
 | 16 | [The Tarpeggios](../labels/the_tarpeggios.md) |
 | 9 | The Unc - Chapel Hill Tarpeggios |
 
-## Genres
-
-
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

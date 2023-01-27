@@ -20,9 +20,6 @@
 |---:|:---|
 | 15 | [Decca Music Group Ltd.](../labels/decca_music_group_ltd_.md) |
 
-## Genres
-
-
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
