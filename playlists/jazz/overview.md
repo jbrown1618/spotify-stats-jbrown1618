@@ -7,19 +7,19 @@
 
 ## Top Artists
 
-![Bar chart of top 18 artists](../../images/playlists/jazz/artists.png)
+![Bar chart of top 19 artists](../../images/playlists/jazz/artists.png)
 
 ![Comparison of Artist](../../images/playlists/jazz/artists_comparison.png)
 
 
 <details>
-<summary>See all 18 artists</summary>
+<summary>See all 19 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                                            | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------|:------------------------------------------------------------|
 |                 21 | <img src="https://i.scdn.co/image/ab6772690000c46c153adede0a024fd3679af738" alt="" width="50" /> | [David Benoit](../../artists/david_benoit.md)     | [🔗](https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu) |
 |                 12 | <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | [Michael Bublé](../../artists/michael_bubl_.md)   | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
-|                  7 | <img src="https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411" alt="" width="50" /> | Frank Sinatra                                     | [🔗](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) |
+|                  6 | <img src="https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411" alt="" width="50" /> | Frank Sinatra                                     | [🔗](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) |
 |                  5 | <img src="https://i.scdn.co/image/b4e726a3aadce109069811c4381279daf20c03d8" alt="" width="50" /> | Sophie Milman                                     | [🔗](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) |
 |                  3 | <img src="https://i.scdn.co/image/b6f7dc3c16f95e6df120af205d4007f518b01e0e" alt="" width="50" /> | The Dave Brubeck Quartet                          | [🔗](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb2be5d8fd3746a70e9637a665" alt="" width="50" /> | Nat King Cole                                     | [🔗](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) |
@@ -33,6 +33,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb379e885a01898367bfcd0c44" alt="" width="50" /> | Caro Emerald                                      | [🔗](https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm) |
 |                  1 | <img src="https://i.scdn.co/image/4f5e6383a803df41153fd871f6d0d0af7b9f08a0" alt="" width="50" /> | Count Basie                                       | [🔗](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../../artists/sara_bareilles.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
+|                  1 | <img src="nan" alt="" width="50" />                                                              | Frank Sinatra                                     | [🔗](https://open.spotify.com/artist/0RS8JMVolOGoAyH8SNiLWz) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb32aa7584c305f934dbe0057f" alt="" width="50" /> | YUNSEOKCHEOL TRIO                                 | [🔗](https://open.spotify.com/artist/09fZOcPYim8MvvQieKkv5t) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb522329e6e2d2a595f8a4cd5e" alt="" width="50" /> | Stacey Kent                                       | [🔗](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) |
 
@@ -121,13 +122,13 @@
 
 |   Number of Tracks | Genre                                                  |
 |-------------------:|:-------------------------------------------------------|
-|                 29 | [adult standards](../../genres/adult_standards.md)     |
-|                 28 | lounge                                                 |
+|                 28 | [adult standards](../../genres/adult_standards.md)     |
+|                 27 | lounge                                                 |
 |                 21 | smooth jazz                                            |
 |                 12 | jazz pop                                               |
 |                 12 | canadian pop                                           |
 |                  8 | vocal jazz                                             |
-|                  7 | easy listening                                         |
+|                  6 | easy listening                                         |
 |                  6 | contemporary vocal jazz                                |
 |                  3 | jazz quartet                                           |
 |                  3 | jazz                                                   |
@@ -140,7 +141,7 @@
 |                  1 | [mellow gold](../../genres/mellow_gold.md)             |
 |                  1 | [lilith](../../genres/lilith.md)                       |
 |                  1 | korean jazz                                            |
-|                  1 | folk rock                                              |
+|                  1 | [folk rock](../../genres/folk_rock.md)                 |
 |                  1 | folk                                                   |
 |                  1 | electric blues                                         |
 |                  1 | dutch pop                                              |

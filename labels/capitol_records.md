@@ -9,11 +9,11 @@ Appears as:
 
 ## Top Artists
 
-![Bar chart of top 12 artists](../images/labels/capitol_records/artists.png)
+![Bar chart of top 13 artists](../images/labels/capitol_records/artists.png)
 
 
 <details>
-<summary>See all 12 artists</summary>
+<summary>See all 13 artists</summary>
 
 |   Number of Tracks | Art                                                                                              | Artist                   | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------|:------------------------------------------------------------|
@@ -21,14 +21,15 @@ Appears as:
 |                  3 | <img src="https://i.scdn.co/image/9a03437da395d999755edacccc24779a97254b89" alt="" width="50" /> | Aslyn                    | [🔗](https://open.spotify.com/artist/6seR0G84QQq1NIW844E7Qq) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8167bcebaf508dc6c3459b1" alt="" width="50" /> | Maggie Rogers            | [🔗](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | Halsey                   | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
-|                  2 | <img src="https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411" alt="" width="50" /> | Frank Sinatra            | [🔗](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2be5d8fd3746a70e9637a665" alt="" width="50" /> | Nat King Cole            | [🔗](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a398209a4ef3360dce2dec4" alt="" width="50" /> | Snoop Dogg               | [🔗](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb92ce1e218cb7b48386efe3d8" alt="" width="50" /> | 5 Seconds of Summer      | [🔗](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8d69367047a24d20b0323ff7" alt="" width="50" /> | SuperM                   | [🔗](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe86f788af4e127154da1257f" alt="" width="50" /> | Bonnie Raitt             | [🔗](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
+|                  1 | <img src="https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411" alt="" width="50" /> | Frank Sinatra            | [🔗](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA                     | [🔗](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) |
+|                  1 | <img src="nan" alt="" width="50" />                                                              | Frank Sinatra            | [🔗](https://open.spotify.com/artist/0RS8JMVolOGoAyH8SNiLWz) |
 
 </details>
 
@@ -73,24 +74,24 @@ Appears as:
 |-------------------:|:----------------------------------------------------|
 |                 11 | [pop](../genres/pop.md)                             |
 |                  9 | [dance pop](../genres/dance_pop.md)                 |
-|                  3 | [adult standards](../genres/adult_standards.md)     |
 |                  3 | [acoustic pop](../genres/acoustic_pop.md)           |
-|                  2 | lounge                                              |
 |                  2 | indie poptimism                                     |
 |                  2 | indie pop                                           |
 |                  2 | etherpop                                            |
 |                  2 | [electropop](../genres/electropop.md)               |
-|                  2 | easy listening                                      |
+|                  2 | [adult standards](../genres/adult_standards.md)     |
 |                  1 | [soft rock](../genres/soft_rock.md)                 |
 |                  1 | [singer-songwriter](../genres/singer_songwriter.md) |
 |                  1 | roots rock                                          |
 |                  1 | [post-teen pop](../genres/post_teen_pop.md)         |
 |                  1 | [mellow gold](../genres/mellow_gold.md)             |
+|                  1 | lounge                                              |
 |                  1 | [lilith](../genres/lilith.md)                       |
 |                  1 | [k-pop](../genres/k_pop.md)                         |
-|                  1 | folk rock                                           |
+|                  1 | [folk rock](../genres/folk_rock.md)                 |
 |                  1 | folk                                                |
 |                  1 | electric blues                                      |
+|                  1 | easy listening                                      |
 |                  1 | country rock                                        |
 |                  1 | [classic rock](../genres/classic_rock.md)           |
 |                  1 | boy band                                            |

@@ -159,11 +159,11 @@
 |-------------------:|:-------------------------------------------------------|
 |                 20 | soul                                                   |
 |                 17 | [mellow gold](../../genres/mellow_gold.md)             |
-|                 12 | [pop](../../genres/pop.md)                             |
-|                 12 | motown                                                 |
+|                 13 | motown                                                 |
 |                 12 | [adult standards](../../genres/adult_standards.md)     |
+|                 11 | [pop](../../genres/pop.md)                             |
 |                  9 | funk                                                   |
-|                  9 | folk rock                                              |
+|                  9 | [folk rock](../../genres/folk_rock.md)                 |
 |                  8 | [r&b](../../genres/r_b.md)                             |
 |                  8 | folk                                                   |
 |                  8 | [classic rock](../../genres/classic_rock.md)           |
@@ -176,6 +176,7 @@
 |                  5 | quiet storm                                            |
 |                  5 | memphis soul                                           |
 |                  5 | melancholia                                            |
+|                  5 | indie r&b                                              |
 |                  4 | new wave pop                                           |
 |                  4 | disco                                                  |
 |                  3 | [singer-songwriter](../../genres/singer_songwriter.md) |
@@ -190,7 +191,6 @@
 |                  1 | latin pop                                              |
 |                  1 | jazz trumpet                                           |
 |                  1 | jazz blues                                             |
-|                  1 | indie r&b                                              |
 |                  1 | [hollywood](../../genres/hollywood.md)                 |
 |                  1 | doo-wop                                                |
 |                  1 | country rock                                           |

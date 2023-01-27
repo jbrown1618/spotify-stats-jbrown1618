@@ -1,6 +1,6 @@
 # dance pop
 
-[238 songs](dance_pop_tracks.md)
+[245 songs](dance_pop_tracks.md)
 
 ## Top Artists
 
@@ -21,6 +21,7 @@
 |                 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | [Rihanna](../artists/rihanna.md)             | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 |                 11 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../artists/bruno_mars.md)       | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb727a2ac15afe659be999beba" alt="" width="50" /> | Doja Cat                                     | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
+|                  8 | <img src="https://i.scdn.co/image/ab6761610000e5ebec40474426f4401a4203dc9f" alt="" width="50" /> | Sia                                          | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e7e6ded87a4e0f65b5afcec" alt="" width="50" /> | Britney Spears                               | [🔗](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc9dcb7e4a97b4552e1224d6" alt="" width="50" /> | Katy Perry                                   | [🔗](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | Camila Cabello                               | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
@@ -50,12 +51,12 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | Iggy Azalea                                  | [🔗](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | B.o.B                                        | [🔗](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | Juicy J                                      | [🔗](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5af53f295e6c42529fbd0873" alt="" width="50" /> | Lauv                                         | [🔗](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb0d66b3670294bf801847dae2" alt="" width="50" /> | Lizzo                                        | [🔗](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | Young Thug                                   | [🔗](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ace68c56849548db7f102be" alt="" width="50" /> | DaBaby                                       | [🔗](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md)         | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | JAY-Z                                        | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb60c3e9abe7327c0097738f22" alt="" width="50" /> | Sean Paul                                    | [🔗](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb118cd1f3261f08d957105996" alt="" width="50" /> | Kelly Clarkson                               | [🔗](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf01bf904b446e4a043acb867" alt="" width="50" /> | The Script                                   | [🔗](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bb5ab9683125fc416c9dbfb" alt="" width="50" /> | Zedd                                         | [🔗](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) |
@@ -99,6 +100,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf91c2e559a5a8233d3b35fb1" alt="" width="50" /> | Tyga                                         | [🔗](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8543b9b2b5d153d37c46606d" alt="" width="50" /> | LISA                                         | [🔗](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe8017b7995ab05155d671520" alt="" width="50" /> | RAYE                                         | [🔗](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5af53f295e6c42529fbd0873" alt="" width="50" /> | Lauv                                         | [🔗](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf2855e25f1d9c8a20bcc85ae" alt="" width="50" /> | DJ Snake                                     | [🔗](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb978f96761eb3fa26b91f1fb8" alt="" width="50" /> | Becky G                                      | [🔗](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb217f81a86110ebc7c0e43fb3" alt="" width="50" /> | Travis Barker                                | [🔗](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) |
@@ -112,8 +114,6 @@
 |                  1 | <img src="https://i.scdn.co/image/adcc1cb654e89f2e404688ae0d1bbc942ce02e5d" alt="" width="50" /> | Ludacris                                     | [🔗](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb08cd53940cbf5813ee5fe565" alt="" width="50" /> | Little Mix                                   | [🔗](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebaa2d9bd207a62adc3edf6631" alt="" width="50" /> | Florida Georgia Line                         | [🔗](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb49637fe719fddb8e90896f41" alt="" width="50" /> | Jhorrmountain                                | [🔗](https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o) |
-|                  1 | <img src="nan" alt="" width="50" />                                                              | Zachary Levi                                 | [🔗](https://open.spotify.com/artist/3XSyTI9ct70ZheMESAv2st) |
 
 </details>
 
@@ -130,11 +130,13 @@
 |                  7 | <img src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" alt="" width="50" /> | Future Nostalgia                                                                                    | 2020-03-27     | [🔗](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) |
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | My Everything (Deluxe)                                                                              | 2014-08-25     | [🔗](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8" alt="" width="50" /> | thank u, next                                                                                       | 2019-02-08     | [🔗](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273754b2fddebe7039fdb912837" alt="" width="50" /> | This Is Acting (Deluxe Version)                                                                     | 2016-10-21     | [🔗](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | The Fame                                                                                            | 2008-01-01     | [🔗](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | Teenage Dream                                                                                       | 2010-01-01     | [🔗](https://open.spotify.com/album/3BoUxfC7YhxNq3TpOfnRif) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | I AM...SASHA FIERCE                                                                                 | 2008-11-14     | [🔗](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="" width="50" /> | Dangerous Woman                                                                                     | 2016-05-20     | [🔗](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) |
 |                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | 4                                                                                                   | 2011-06-24     | [🔗](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) |
+|                  4 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | 1000 Forms Of Fear (Deluxe Version)                                                                 | 2015-05-04     | [🔗](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Romance                                                                                             | 2019-12-06     | [🔗](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605" alt="" width="50" /> | Positions                                                                                           | 2020-10-30     | [🔗](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) |
 |                  3 | <img src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" alt="" width="50" /> | Planet Her                                                                                          | 2021-06-25     | [🔗](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) |
@@ -166,7 +168,6 @@
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273efc2fc4cdaeb04524eb10c15" alt="" width="50" /> | Celebration (Bonus Track Version)                                                                   | 2009-09-18     | [🔗](https://open.spotify.com/album/4GU7z3q6fg90MWrkTacYYG) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273026e88f624dfb96f2e1ef10b" alt="" width="50" /> | B'Day Deluxe Edition                                                                                | 2007-05-29     | [🔗](https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342" alt="" width="50" /> | A Star Is Born Soundtrack                                                                           | 2018-10-05     | [🔗](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732c0e1e9e1fd1e7b132da1606" alt="" width="50" /> | ~how i'm feeling~                                                                                   | 2020-03-06     | [🔗](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27326a2f5224465a369f8abbf88" alt="" width="50" /> | lovestrong.                                                                                         | 2011-05-10     | [🔗](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730f7ad6d8d829906c17cae210" alt="" width="50" /> | hopeless fountain kingdom (Deluxe)                                                                  | 2017-06-02     | [🔗](https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732ca010dcf3863a07611d8b4f" alt="" width="50" /> | boyfriend                                                                                           | 2019-08-02     | [🔗](https://open.spotify.com/album/3zVB99XMdbP9HTVNg0GJwV) |
@@ -226,7 +227,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27329c1c454ed1b2acfa64dc37f" alt="" width="50" /> | Listen Without Prejudice / MTV Unplugged (Deluxe)                                                   | 2017-10-20     | [🔗](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736b18e58a06aac7763abe319a" alt="" width="50" /> | Like a Virgin (Reissue)                                                                             | 1984-11-12     | [🔗](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="" width="50" /> | Let The Road                                                                                        | 2014-01-01     | [🔗](https://open.spotify.com/album/02ae5i5UAoFrt2peVox9Xd) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2736f9e6abbd6fa43ac3cdbeee0" alt="" width="50" /> | Leave The Door Open                                                                                 | 2021-03-05     | [🔗](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) |
 
 </details>
 
@@ -241,8 +241,8 @@
 
 |   Number of Tracks | Label                                                   |
 |-------------------:|:--------------------------------------------------------|
+|                 28 | [RCA Records Label](../labels/rca_records_label.md)     |
 |                 22 | [Warner Records](../labels/warner_records.md)           |
-|                 20 | [RCA Records Label](../labels/rca_records_label.md)     |
 |                 19 | [Columbia](../labels/columbia.md)                       |
 |                 19 | [Atlantic Records](../labels/atlantic_records.md)       |
 |                 15 | [Jive](../labels/jive.md)                               |
@@ -253,6 +253,7 @@
 |                 10 | [Syco Music](../labels/syco_music.md)                   |
 |                  9 | [Def Jam Recordings](../labels/def_jam_recordings.md)   |
 |                  9 | [Capitol Records](../labels/capitol_records.md)         |
+|                  8 | Monkey Puzzle Records                                   |
 |                  7 | [Polydor Records](../labels/polydor_records.md)         |
 |                  6 | Parkwood Entertainment                                  |
 |                  5 | Music World Music                                       |
@@ -294,7 +295,6 @@
 |                  1 | Perpetual Novice                                        |
 |                  1 | Parlophone UK                                           |
 |                  1 | Nu America Music                                        |
-|                  1 | Lauv                                                    |
 |                  1 | Jonas Brothers Recording                                |
 |                  1 | Giant Little Man                                        |
 |                  1 | Fueled By Ramen                                         |
@@ -334,23 +334,23 @@
 | Pretty Please                    | I'd Rather Go Blind                                   |
 | Sally Walker                     | Jar of Hearts                                         |
 | Coño                             | Ave Maria                                             |
-| Yeah! (feat. Lil Jon & Ludacris) | Half Of Me                                            |
-| LoveGame                         | I Thought She Knew                                    |
-| Faith - Remastered               | boyfriend (with Social House)                         |
-| Worth It (feat. Kid Ink)         | Til It Happens To You                                 |
+| LoveGame                         | Half Of Me                                            |
+| Yeah! (feat. Lil Jon & Ludacris) | I Thought She Knew                                    |
+| Faith - Remastered               | Chandelier                                            |
+| Worth It (feat. Kid Ink)         | boyfriend (with Social House)                         |
 
 | 10 most Energetic tracks   | 10 least Energetic tracks                             |
 |:---------------------------|:------------------------------------------------------|
-| Larger Than Life           | Julia                                                 |
-| Boss Bitch                 | I See the Light - From "Tangled" / Soundtrack Version |
-| My Happy Ending            | Your Song                                             |
-| This Is What You Came For  | My Everything                                         |
-| Bye Bye Bye                | I Thought She Knew                                    |
-| Bad Romance                | When I Was Your Man                                   |
-| Believe                    | Consequences                                          |
-| Levitating                 | Stay                                                  |
-| Material Girl              | 7 rings                                               |
-| Don't Call Me Up           | Jar of Hearts                                         |
+| Larger Than Life           | I See the Light - From "Tangled" / Soundtrack Version |
+| Boss Bitch                 | Your Song                                             |
+| My Happy Ending            | My Everything                                         |
+| This Is What You Came For  | I Thought She Knew                                    |
+| Bye Bye Bye                | When I Was Your Man                                   |
+| Bad Romance                | Consequences                                          |
+| Believe                    | Stay                                                  |
+| Levitating                 | 7 rings                                               |
+| Material Girl              | Jar of Hearts                                         |
+| Don't Call Me Up           | Monster (Shawn Mendes & Justin Bieber)                |
 
 | 10 most Speechy tracks          | 10 least Speechy tracks             |
 |:--------------------------------|:------------------------------------|
@@ -371,25 +371,25 @@
 | Your Song                                             | My Happy Ending                                                          |
 | When I Was Your Man                                   | I Kissed A Girl                                                          |
 | I Thought She Knew                                    | Don’t Call Me Angel (Charlie’s Angels) (with Miley Cyrus & Lana Del Rey) |
-| Julia                                                 | Bootylicious                                                             |
-| Consequences                                          | Crazy In Love (feat. Jay-Z)                                              |
-| My Everything                                         | Valerie (feat. Amy Winehouse) - Version Revisited                        |
-| I See the Light - From "Tangled" / Soundtrack Version | New Rules                                                                |
-| Ave Maria                                             | Watch n' Learn                                                           |
-| La Vie En Rose                                        | Dark Horse                                                               |
+| Consequences                                          | Bootylicious                                                             |
+| My Everything                                         | Crazy In Love (feat. Jay-Z)                                              |
+| I See the Light - From "Tangled" / Soundtrack Version | Valerie (feat. Amy Winehouse) - Version Revisited                        |
+| Ave Maria                                             | New Rules                                                                |
+| La Vie En Rose                                        | Watch n' Learn                                                           |
+| Hold Up                                               | Dark Horse                                                               |
 
 | 10 most Instrumental tracks                              | 10 least Instrumental tracks                                   |
 |:---------------------------------------------------------|:---------------------------------------------------------------|
 | This Is What You Came For                                | When Will My Life Begin? - From "Tangled" / Soundtrack Version |
-| You and I (Park Bom)                                     | Kiss and Make Up                                               |
-| Lights - Single Version                                  | Bubblegum (feat. Tyga)                                         |
-| Toxic                                                    | Trumpets                                                       |
-| Candyman                                                 | Talk Dirty (feat. 2 Chainz)                                    |
-| Grace Kelly                                              | Swalla (feat. Nicki Minaj & Ty Dolla $ign)                     |
-| Coño                                                     | Happy Ending                                                   |
-| I Am The Best                                            | About Damn Time                                                |
-| SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) | Truth Hurts                                                    |
-| Woman                                                    | Levitating (feat. DaBaby)                                      |
+| You and I (Park Bom)                                     | Bubblegum (feat. Tyga)                                         |
+| Lights - Single Version                                  | Trumpets                                                       |
+| Toxic                                                    | Talk Dirty (feat. 2 Chainz)                                    |
+| Candyman                                                 | Swalla (feat. Nicki Minaj & Ty Dolla $ign)                     |
+| Grace Kelly                                              | Happy Ending                                                   |
+| Coño                                                     | About Damn Time                                                |
+| I Am The Best                                            | Truth Hurts                                                    |
+| SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) | Heart Attack                                                   |
+| Woman                                                    | Kiss and Make Up                                               |
 
 | 10 most Live tracks                            | 10 least Live tracks             |
 |:-----------------------------------------------|:---------------------------------|
@@ -408,11 +408,11 @@
 |:--------------------------------|:-------------------------------------------------------------------------------------------------------------------|
 | Material Girl                   | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" |
 | Like a Virgin                   | Jar of Hearts                                                                                                      |
-| There's Nothing Holdin' Me Back | One Last Time                                                                                                      |
+| There's Nothing Holdin' Me Back | Big Girls Cry                                                                                                      |
+| Mercy                           | One Last Time                                                                                                      |
 | SexyBack (feat. Timbaland)      | Stay                                                                                                               |
-| Mercy                           | Because of You                                                                                                     |
-| I'm a Slave 4 U                 | Til It Happens To You                                                                                              |
-| Sucker                          | Youngblood                                                                                                         |
-| Me Enamoré                      | Million Reasons                                                                                                    |
-| Tick Tock (feat. 24kGoldn)      | In the Name of Love                                                                                                |
-| Peacock                         | I See the Light - From "Tangled" / Soundtrack Version                                                              |
+| I'm a Slave 4 U                 | Because of You                                                                                                     |
+| Sucker                          | Til It Happens To You                                                                                              |
+| Me Enamoré                      | Youngblood                                                                                                         |
+| Tick Tock (feat. 24kGoldn)      | Million Reasons                                                                                                    |
+| Peacock                         | In the Name of Love                                                                                                |

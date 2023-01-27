@@ -1,6 +1,6 @@
 # pop
 
-[506 songs](pop_tracks.md)
+[505 songs](pop_tracks.md)
 
 ## Top Artists
 
@@ -101,7 +101,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9bbbc124c9f0f75af892d97d" alt="" width="50" /> | Christina Perri                                                | [🔗](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816" alt="" width="50" /> | The Neighbourhood                                              | [🔗](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) |
 |                  1 | <img src="https://i.scdn.co/image/5c8d57d92825466637905f0d4219064cb39333e9" alt="" width="50" /> | André 3000                                                     | [🔗](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f23b93005b02c1503cc5379" alt="" width="50" /> | Cher                                                           | [🔗](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb292575f7d081016e04dff9ee" alt="" width="50" /> | The Pussycat Dolls                                             | [🔗](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb358577f183465ae7698a53a7" alt="" width="50" /> | Carly Rae Jepsen                                               | [🔗](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375" alt="" width="50" /> | Hatsune Miku                                                   | [🔗](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) |
@@ -114,6 +113,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb31072db9da0311ecfabe96bf" alt="" width="50" /> | Khalid                                                         | [🔗](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf271138f95fbe8188d909d50" alt="" width="50" /> | Kesha                                                          | [🔗](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb15a85a7957cac2c370e713ab" alt="" width="50" /> | Kid Ink                                                        | [🔗](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3c02f4fb4cc9187c488afd50" alt="" width="50" /> | The Chainsmokers                                               | [🔗](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) |
 
 </details>
 
@@ -248,7 +248,7 @@
 |                 29 | [Big Machine Records](../labels/big_machine_records.md)                     |
 |                 26 | [RCA Records Label](../labels/rca_records_label.md)                         |
 |                 24 | [Polydor Records](../labels/polydor_records.md)                             |
-|                 23 | [Warner Records](../labels/warner_records.md)                               |
+|                 22 | [Warner Records](../labels/warner_records.md)                               |
 |                 21 | [Atlantic Records](../labels/atlantic_records.md)                           |
 |                 20 | [SM Entertainment](../labels/sm_entertainment.md)                           |
 |                 15 | [Universal-Island Records Ltd.](../labels/universal_island_records_ltd_.md) |
@@ -355,8 +355,8 @@
 | Billie Jean                     | Norman fucking Rockwell     |
 | Pretty Please                   | Stay                        |
 | 1, 2, 3, 4                      | Shades Of Cool              |
-| Sally Walker                    | That's Where I Am           |
-| bury a friend                   | Gravity                     |
+| bury a friend                   | That's Where I Am           |
+| Sally Walker                    | Gravity                     |
 | Coño                            | Once Upon Another Time      |
 | I Think He Knows                | La Vie En Rose              |
 
@@ -369,9 +369,9 @@
 | My Happy Ending                 | xanny                                                                             |
 | This Is What You Came For       | Julia                                                                             |
 | Bad Romance                     | Come Home                                                                         |
-| Believe                         | Sweet Nothing                                                                     |
-| Red                             | Manhattan                                                                         |
-| Bad Idea (feat. Jason Mraz)     | Bright Lights and Cityscapes                                                      |
+| Red                             | Sweet Nothing                                                                     |
+| Bad Idea (feat. Jason Mraz)     | Manhattan                                                                         |
+| Levitating                      | Bright Lights and Cityscapes                                                      |
 
 | 10 most Speechy tracks          | 10 least Speechy tracks        |
 |:--------------------------------|:-------------------------------|
@@ -402,15 +402,15 @@
 | 10 most Instrumental tracks     | 10 least Instrumental tracks    |
 |:--------------------------------|:--------------------------------|
 | everything i wanted             | Say You're Sorry                |
-| Smooth Criminal - 2012 Remaster | Greedy                          |
-| Swan Song                       | My Everything                   |
-| Wanna Be Startin' Somethin'     | boyfriend (with Social House)   |
-| you should see me in a crown    | Hustle                          |
-| bury a friend                   | The Man Who Can't Be Moved      |
-| Therefore I Am                  | F**kin' Perfect                 |
-| bad guy                         | WAP (feat. Megan Thee Stallion) |
-| This Is What You Came For       | Side To Side                    |
-| Bel Air                         | Please Me                       |
+| Smooth Criminal - 2012 Remaster | My Everything                   |
+| Swan Song                       | boyfriend (with Social House)   |
+| Wanna Be Startin' Somethin'     | Hustle                          |
+| you should see me in a crown    | Breakeven                       |
+| bury a friend                   | F**kin' Perfect                 |
+| Therefore I Am                  | WAP (feat. Megan Thee Stallion) |
+| bad guy                         | Please Me                       |
+| This Is What You Came For       | Greedy                          |
+| Bel Air                         | The Man Who Can't Be Moved      |
 
 | 10 most Live tracks                                                               | 10 least Live tracks             |
 |:----------------------------------------------------------------------------------|:---------------------------------|

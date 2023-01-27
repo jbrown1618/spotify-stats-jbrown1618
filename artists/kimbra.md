@@ -2,7 +2,7 @@
 # Kimbra
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb5e92b1ddbbbc66454d44a2c4" alt="Kimbra" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb7f1004879ac217c8caa0a066" alt="Kimbra" width="100" />
 
 ## Featured on Playlists
 |   Number of Tracks | Art                                                                                                                                                                                                                         | Playlist                                                        |

@@ -1,6 +1,6 @@
 # adult standards
 
-[48 songs](adult_standards_tracks.md)
+[47 songs](adult_standards_tracks.md)
 
 ## Top Artists
 
@@ -15,7 +15,7 @@
 |   Number of Tracks | Art                                                                                              | Artist                                         | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------|:------------------------------------------------------------|
 |                 12 | <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | [Michael Bublé](../artists/michael_bubl_.md)   | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
-|                  8 | <img src="https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411" alt="" width="50" /> | Frank Sinatra                                  | [🔗](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) |
+|                  7 | <img src="https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411" alt="" width="50" /> | Frank Sinatra                                  | [🔗](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) |
 |                  5 | <img src="https://i.scdn.co/image/b4e726a3aadce109069811c4381279daf20c03d8" alt="" width="50" /> | Sophie Milman                                  | [🔗](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb2be5d8fd3746a70e9637a665" alt="" width="50" /> | Nat King Cole                                  | [🔗](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) |
 |                  4 | <img src="https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108" alt="" width="50" /> | Stevie Wonder                                  | [🔗](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) |
@@ -49,7 +49,7 @@
 
 
 <details>
-<summary>See all 39 albums</summary>
+<summary>See all 38 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                              | Release Date   | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------|:---------------|:-----------------------------------------------------------|
@@ -73,7 +73,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2737649604d1b27be1c78c466e9" alt="" width="50" /> | Tell Mama                                                          | 1968-04-18     | [🔗](https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b27350bb7ca1fe7e98df87ce41d9" alt="" width="50" /> | Strangers In The Night (Expanded Edition)                          | 1966-05        | [🔗](https://open.spotify.com/album/1kyb5tomEXcA106V57puFW) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50" alt="" width="50" /> | Songs In The Key Of Life                                           | 1976-09-28     | [🔗](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273b9ea1c69fe9efbdc2df85a95" alt="" width="50" /> | Songs For Swingin' Lovers! (Remastered)                            | 1956-03        | [🔗](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="" width="50" /> | Sinatra/Basie: The Complete Reprise Studio Recordings              | 1962-12-10     | [🔗](https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273c5e9e847ca9c0982b4c91d4b" alt="" width="50" /> | Signed, Sealed And Delivered                                       | 1970-08-07     | [🔗](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2733f03db3f454ff7b2c3b4fe62" alt="" width="50" /> | Romance                                                            | 2021-02-12     | [🔗](https://open.spotify.com/album/5MuNxtOyex8o77Qdjaqeng) |
@@ -112,13 +111,13 @@
 |                  6 | FRANK SINATRA DIGITAL REPRISE                                           |
 |                  5 | UNI                                                                     |
 |                  5 | Linus Entertainment Inc.                                                |
-|                  3 | [Capitol Records](../labels/capitol_records.md)                         |
 |                  2 | [Walt Disney Records](../labels/walt_disney_records.md)                 |
 |                  2 | [Rhino](../labels/rhino.md)                                             |
 |                  2 | Ode                                                                     |
 |                  2 | [Legacy](../labels/legacy.md)                                           |
 |                  2 | [Epic](../labels/epic.md)                                               |
 |                  2 | Craft Recordings                                                        |
+|                  2 | [Capitol Records](../labels/capitol_records.md)                         |
 |                  1 | [Universal Music LLC](../labels/universal_music_llc.md)                 |
 |                  1 | [UME - Global Clearing House](../labels/ume___global_clearing_house.md) |
 |                  1 | Parlophone (France)                                                     |
@@ -145,18 +144,18 @@
 | Agua De Beber                          | La vie en rose (feat. Cécile McLorin Salvant) |
 | I Want You Back (feat. Sara Bareilles) | I Can't Make You Love Me                      |
 
-| 10 most Energetic tracks              | 10 least Energetic tracks                    |
-|:--------------------------------------|:---------------------------------------------|
-| 25 or 6 to 4                          | Nature Boy                                   |
-| Isn't She Lovely                      | So Far Away                                  |
-| Can't Take My Eyes off You            | Unforgettable                                |
-| Agua De Beber                         | L-O-V-E - 2000 Remaster                      |
-| Haven't Met You Yet                   | La Vie En Rose                               |
-| Everything                            | The Way You Look Tonight                     |
-| ABC                                   | Something In The Air Between Us              |
-| Superstition - Single Version         | Sunny                                        |
-| Moondance                             | I've Got You Under My Skin - Remastered 1998 |
-| Signed, Sealed, Delivered (I'm Yours) | Fly Me To The Moon (In Other Words)          |
+| 10 most Energetic tracks              | 10 least Energetic tracks                     |
+|:--------------------------------------|:----------------------------------------------|
+| 25 or 6 to 4                          | Nature Boy                                    |
+| Isn't She Lovely                      | So Far Away                                   |
+| Can't Take My Eyes off You            | Unforgettable                                 |
+| Agua De Beber                         | L-O-V-E - 2000 Remaster                       |
+| Haven't Met You Yet                   | La Vie En Rose                                |
+| Everything                            | The Way You Look Tonight                      |
+| ABC                                   | Something In The Air Between Us               |
+| Superstition - Single Version         | Sunny                                         |
+| Moondance                             | Fly Me To The Moon (In Other Words)           |
+| Signed, Sealed, Delivered (I'm Yours) | La vie en rose (feat. Cécile McLorin Salvant) |
 
 | 10 most Speechy tracks                 | 10 least Speechy tracks                       |
 |:---------------------------------------|:----------------------------------------------|
@@ -164,8 +163,8 @@
 | I Wan'na Be Like You (The Monkey Song) | I'll Be There                                 |
 | L-O-V-E - 2000 Remaster                | Everything                                    |
 | Isn't She Lovely                       | I Can't Make You Love Me                      |
-| Can't Take My Eyes off You             | Unforgettable                                 |
-| Moondance                              | The Way You Look Tonight                      |
+| Can't Take My Eyes off You             | The Way You Look Tonight                      |
+| Moondance                              | Unforgettable                                 |
 | That's Life                            | Call Me Irresponsible                         |
 | Superstition - Single Version          | Can't Help Falling in Love                    |
 | The Best Is yet to Come                | La vie en rose (feat. Cécile McLorin Salvant) |
@@ -184,18 +183,18 @@
 | Come Fly With Me - Remastered 1998 | 25 or 6 to 4                          |
 | Love Won't Let You Get Away        | Agua De Beber                         |
 
-| 10 most Instrumental tracks   | 10 least Instrumental tracks                  |
-|:------------------------------|:----------------------------------------------|
-| 25 or 6 to 4                  | The Way You Look Tonight                      |
-| Nature Boy                    | L-O-V-E                                       |
-| Unforgettable                 | La Vie En Rose                                |
-| Can't Help Falling in Love    | L-O-V-E - 2000 Remaster                       |
-| Superstition - Single Version | Haven't Met You Yet                           |
-| Isn't She Lovely              | Moondance                                     |
-| I Can't Make You Love Me      | The Best Is yet to Come                       |
-| Agua De Beber                 | For Once In My Life                           |
-| I Feel the Earth Move         | I Want You Back (feat. Sara Bareilles)        |
-| The Way You Look Tonight      | La vie en rose (feat. Cécile McLorin Salvant) |
+| 10 most Instrumental tracks   | 10 least Instrumental tracks           |
+|:------------------------------|:---------------------------------------|
+| 25 or 6 to 4                  | The Way You Look Tonight               |
+| Nature Boy                    | L-O-V-E                                |
+| Unforgettable                 | La Vie En Rose                         |
+| Can't Help Falling in Love    | L-O-V-E - 2000 Remaster                |
+| Superstition - Single Version | Haven't Met You Yet                    |
+| Isn't She Lovely              | Moondance                              |
+| I Can't Make You Love Me      | The Best Is yet to Come                |
+| Agua De Beber                 | For Once In My Life                    |
+| I Feel the Earth Move         | I Want You Back (feat. Sara Bareilles) |
+| The Way You Look Tonight      | Signed, Sealed, Delivered (I'm Yours)  |
 
 | 10 most Live tracks                    | 10 least Live tracks                |
 |:---------------------------------------|:------------------------------------|

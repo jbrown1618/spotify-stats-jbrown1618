@@ -17,7 +17,7 @@
 
 |   Number of Tracks | Art                                                                                              | Artist           | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:-----------------|:------------------------------------------------------------|
-|                  6 | <img src="https://i.scdn.co/image/ab6761610000e5eb78a54dca2a384cc48805b015" alt="" width="50" /> | Nickel Creek     | [🔗](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) |
+|                  6 | <img src="https://i.scdn.co/image/ab6761610000e5ebfec9ac812e7db017a9cbdc98" alt="" width="50" /> | Nickel Creek     | [🔗](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5ebc1c077c305eb4b2bcac25fd5" alt="" width="50" /> | Carrie Underwood | [🔗](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb6437a0b8a5cf89ec8cbbfe9b" alt="" width="50" /> | Delta Rae        | [🔗](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5eb152cf48cf9541c7061570857" alt="" width="50" /> | Johnny Cash      | [🔗](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) |

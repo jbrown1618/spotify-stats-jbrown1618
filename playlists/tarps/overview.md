@@ -27,7 +27,7 @@
 |                  1 | <img src="https://i.scdn.co/image/5c8d57d92825466637905f0d4219064cb39333e9" alt="" width="50" /> | André 3000                                                        | [🔗](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) |
 |                  1 | <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | Simon & Garfunkel                                                 | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | [Billy Joel](../../artists/billy_joel.md)                         | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5e92b1ddbbbc66454d44a2c4" alt="" width="50" /> | [Kimbra](../../artists/kimbra.md)                                 | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f1004879ac217c8caa0a066" alt="" width="50" /> | [Kimbra](../../artists/kimbra.md)                                 | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6659b1cb61936bd7bcb229a2" alt="" width="50" /> | Demi Lovato                                                       | [🔗](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c" alt="" width="50" /> | Amy Winehouse                                                     | [🔗](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) |
 |                  1 | <img src="https://i.scdn.co/image/c56cf0cc89c8ecfec7145cf065ea2006d0706605" alt="" width="50" /> | *NSYNC                                                            | [🔗](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) |
@@ -50,7 +50,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9e0ca4a2881766ad646d449d" alt="" width="50" /> | Eagle-Eye Cherry                                                  | [🔗](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | JAY-Z                                                             | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb87ac264d392a72af95ca9fdb" alt="" width="50" /> | Mumford & Sons                                                    | [🔗](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb78a54dca2a384cc48805b015" alt="" width="50" /> | Nickel Creek                                                      | [🔗](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfec9ac812e7db017a9cbdc98" alt="" width="50" /> | Nickel Creek                                                      | [🔗](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3f0f76df1047720f2e57fc35" alt="" width="50" /> | The Temptations                                                   | [🔗](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb118cd1f3261f08d957105996" alt="" width="50" /> | Kelly Clarkson                                                    | [🔗](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ec0ed4b4cd16649c0ded8a7" alt="" width="50" /> | Brandi Carlile                                                    | [🔗](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) |
@@ -216,7 +216,7 @@
 |   Number of Tracks | Genre                                                  |
 |-------------------:|:-------------------------------------------------------|
 |                 22 | [pop](../../genres/pop.md)                             |
-|                 11 | [dance pop](../../genres/dance_pop.md)                 |
+|                 12 | [dance pop](../../genres/dance_pop.md)                 |
 |                  9 | [neo mellow](../../genres/neo_mellow.md)               |
 |                  7 | [rock](../../genres/rock.md)                           |
 |                  7 | [classic rock](../../genres/classic_rock.md)           |
@@ -225,6 +225,7 @@
 |                  5 | [pop rock](../../genres/pop_rock.md)                   |
 |                  4 | [singer-songwriter](../../genres/singer_songwriter.md) |
 |                  4 | [mellow gold](../../genres/mellow_gold.md)             |
+|                  4 | [folk rock](../../genres/folk_rock.md)                 |
 |                  3 | stomp and holler                                       |
 |                  3 | [soft rock](../../genres/soft_rock.md)                 |
 |                  3 | [r&b](../../genres/r_b.md)                             |
@@ -235,7 +236,6 @@
 |                  3 | neo soul                                               |
 |                  3 | merseybeat                                             |
 |                  3 | indie folk                                             |
-|                  3 | folk rock                                              |
 |                  3 | folk                                                   |
 |                  3 | british soul                                           |
 |                  3 | british invasion                                       |
@@ -277,7 +277,6 @@
 |                  1 | lafayette indie                                        |
 |                  1 | irish rock                                             |
 |                  1 | instrumental bluegrass                                 |
-|                  1 | indie poptimism                                        |
 |                  1 | indie pop                                              |
 |                  1 | [hollywood](../../genres/hollywood.md)                 |
 |                  1 | hip pop                                                |
@@ -301,6 +300,7 @@
 |                  1 | barbershop                                             |
 |                  1 | australian pop                                         |
 |                  1 | australian dance                                       |
+|                  1 | antiviral pop                                          |
 |                  1 | album rock                                             |
 |                  1 | [adult standards](../../genres/adult_standards.md)     |
 |                  1 | [a cappella](../../genres/a_cappella.md)               |

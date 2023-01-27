@@ -21,7 +21,7 @@
 |                 58 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | [Taylor Swift](../../artists/taylor_swift.md)     | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 |                 22 | <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | [Billy Joel](../../artists/billy_joel.md)         | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
 |                 18 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | [Lana Del Rey](../../artists/lana_del_rey.md)     | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
-|                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb5e92b1ddbbbc66454d44a2c4" alt="" width="50" /> | [Kimbra](../../artists/kimbra.md)                 | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
+|                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f1004879ac217c8caa0a066" alt="" width="50" /> | [Kimbra](../../artists/kimbra.md)                 | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | Imogen Heap                                       | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
 |                  8 | <img src="https://i.scdn.co/image/68cfb061951dbd44c95422a54cb70baec0722ca3" alt="" width="50" /> | Joni Mitchell                                     | [🔗](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb271320bcc15789b23aa83a44" alt="" width="50" /> | Erin McCarley                                     | [🔗](https://open.spotify.com/artist/6Y4bCmUNPDKqc7dHkVvgim) |
@@ -215,6 +215,7 @@
 |                 59 | [hollywood](../../genres/hollywood.md)                 |
 |                 36 | [singer-songwriter](../../genres/singer_songwriter.md) |
 |                 35 | piano rock                                             |
+|                 33 | [folk rock](../../genres/folk_rock.md)                 |
 |                 31 | [mellow gold](../../genres/mellow_gold.md)             |
 |                 25 | [soft rock](../../genres/soft_rock.md)                 |
 |                 25 | [classic rock](../../genres/classic_rock.md)           |
@@ -222,7 +223,6 @@
 |                 18 | [art pop](../../genres/art_pop.md)                     |
 |                 14 | indie pop                                              |
 |                 12 | folk                                                   |
-|                 11 | folk rock                                              |
 |                  9 | nz pop                                                 |
 |                  9 | [electropop](../../genres/electropop.md)               |
 |                  9 | bergen indie                                           |
@@ -234,7 +234,6 @@
 |                  6 | glam rock                                              |
 |                  5 | deep indie singer-songwriter                           |
 |                  3 | viral pop                                              |
-|                  2 | neo soul                                               |
 |                  2 | indy indie                                             |
 |                  2 | indiecoustica                                          |
 |                  2 | chamber pop                                            |
@@ -246,6 +245,7 @@
 |                  1 | pop soul                                               |
 |                  1 | permanent wave                                         |
 |                  1 | new americana                                          |
+|                  1 | neo soul                                               |
 |                  1 | modern folk rock                                       |
 |                  1 | irish pop                                              |
 |                  1 | indie soul                                             |

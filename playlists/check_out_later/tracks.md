@@ -1,6 +1,0 @@
-# Tracks in Check Out Later
-
-| Art                                                                                              | Track                     | Album                     | Artists       | Label                                                    | 💚   | 🔗                                                          |
-|:-------------------------------------------------------------------------------------------------|:--------------------------|:--------------------------|:--------------|:---------------------------------------------------------|:----|:-----------------------------------------------------------|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b78e41dc88b7ddda60738c9d" alt="" width="50" /> | Childhood                 | Heart Burn                | SUNMI         | Abyss Company                                            |     | [🔗](https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c824820b3a74839b91b4036a" alt="" width="50" /> | Good Thing (with Kehlani) | Good Thing (with Kehlani) | Zedd, Kehlani | [Interscope Records](../../labels/interscope_records.md) | 💚   | [🔗](https://open.spotify.com/track/5aUSEPNd3m5xliFK4pn5mU) |

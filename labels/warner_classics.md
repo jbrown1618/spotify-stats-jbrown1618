@@ -29,7 +29,7 @@ Appears as:
 |                  3 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fa9108c6dadb8c3ec21da88" alt="" width="50" /> | [Wolfgang Amadeus Mozart](../artists/wolfgang_amadeus_mozart.md)                         | [🔗](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS) |
 |                  1 | <img src="nan" alt="" width="50" />                                                              | Andrew Busher                                                                            | [🔗](https://open.spotify.com/artist/3Zbnq9cbmHkNBzUrfTe2Vb) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb68a5073a017fac8434535e8a" alt="" width="50" /> | Libera                                                                                   | [🔗](https://open.spotify.com/artist/235C4ktJ2aGIyqaBlXyg7e) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9874bc44189b9b1a619e2b11" alt="" width="50" /> | [The Swingle Singers](../artists/the_swingle_singers.md)                                 | [🔗](https://open.spotify.com/artist/1ZlFYysRdc6YaUH5FkxPl8) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc63e900506fdff4b6177f920" alt="" width="50" /> | [The Swingle Singers](../artists/the_swingle_singers.md)                                 | [🔗](https://open.spotify.com/artist/1ZlFYysRdc6YaUH5FkxPl8) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ce3e7c9e1c38c0edbe1528c" alt="" width="50" /> | Traditional                                                                              | [🔗](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf) |
 
 </details>

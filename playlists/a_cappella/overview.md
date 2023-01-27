@@ -22,7 +22,7 @@
 |                 25 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b2621bf3c5f2197ee957582" alt="" width="50" /> | [The Tarpeggios](../../artists/the_tarpeggios.md)           | [🔗](https://open.spotify.com/artist/2HXd5pFHJyaQJr5aXfErrE) |
 |                 20 | <img src="https://i.scdn.co/image/ab6761610000e5eb3a9c5b798300322d4bc698f0" alt="" width="50" /> | [Tar Heel Voices](../../artists/tar_heel_voices.md)         | [🔗](https://open.spotify.com/artist/1apO6pJsV1nwuF2K8sEsDo) |
 |                 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebd7125855c1ecfb7680363db7" alt="" width="50" /> | [Ithacappella](../../artists/ithacappella.md)               | [🔗](https://open.spotify.com/artist/5bPTIGQvxRNjr6wl9yyAct) |
-|                 12 | <img src="https://i.scdn.co/image/ab6761610000e5eb9874bc44189b9b1a619e2b11" alt="" width="50" /> | [The Swingle Singers](../../artists/the_swingle_singers.md) | [🔗](https://open.spotify.com/artist/1ZlFYysRdc6YaUH5FkxPl8) |
+|                 12 | <img src="https://i.scdn.co/image/ab6761610000e5ebc63e900506fdff4b6177f920" alt="" width="50" /> | [The Swingle Singers](../../artists/the_swingle_singers.md) | [🔗](https://open.spotify.com/artist/1ZlFYysRdc6YaUH5FkxPl8) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb8cb389217e22c8ecb1846122" alt="" width="50" /> | Vanderbilt Melodores                                        | [🔗](https://open.spotify.com/artist/7HkF8fT7TZlrQsjSgWUEXN) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb0ff2431dd95126c10fdd23f6" alt="" width="50" /> | GQ                                                          | [🔗](https://open.spotify.com/artist/6JYedwPn7zEWlTSUda9mev) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb68021119cbab353e2278d4a3" alt="" width="50" /> | The Loreleis                                                | [🔗](https://open.spotify.com/artist/1fqMjreaczGwFmdmG6AvJs) |
@@ -309,6 +309,7 @@
 |                  2 | [singer-songwriter](../../genres/singer_songwriter.md)   |
 |                  2 | [rock](../../genres/rock.md)                             |
 |                  2 | [mellow gold](../../genres/mellow_gold.md)               |
+|                  2 | [folk rock](../../genres/folk_rock.md)                   |
 |                  2 | [classic rock](../../genres/classic_rock.md)             |
 |                  2 | christian a cappella                                     |
 |                  1 | west end                                                 |
@@ -321,7 +322,6 @@
 |                  1 | permanent wave                                           |
 |                  1 | indie r&b                                                |
 |                  1 | franco-flemish school                                    |
-|                  1 | folk rock                                                |
 |                  1 | folk                                                     |
 |                  1 | [early music](../../genres/early_music.md)               |
 |                  1 | [classical](../../genres/classical.md)                   |

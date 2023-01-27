@@ -1,6 +1,6 @@
 # electropop
 
-[49 songs](electropop_tracks.md)
+[48 songs](electropop_tracks.md)
 
 ## Top Artists
 
@@ -14,17 +14,17 @@
 
 |   Number of Tracks | Art                                                                                              | Artist                                       | 🔗                                                           |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------|:------------------------------------------------------------|
-|                 13 | <img src="https://i.scdn.co/image/ab6761610000e5eb5e92b1ddbbbc66454d44a2c4" alt="" width="50" /> | [Kimbra](../artists/kimbra.md)               | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
+|                 13 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f1004879ac217c8caa0a066" alt="" width="50" /> | [Kimbra](../artists/kimbra.md)               | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 |                 10 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../artists/billie_eilish.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb3ea2c03525939b482f8d3bfd" alt="" width="50" /> | Janelle Monáe                                | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
 |                  5 | <img src="https://i.scdn.co/image/ab6761610000e5eb0db36498679f03f30606d45f" alt="" width="50" /> | Ellie Goulding                               | [🔗](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) |
 |                  4 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | Halsey                                       | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
-|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5af53f295e6c42529fbd0873" alt="" width="50" /> | Lauv                                         | [🔗](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb576cb43281160e345f728b71" alt="" width="50" /> | Charli XCX                                   | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb358577f183465ae7698a53a7" alt="" width="50" /> | Carly Rae Jepsen                             | [🔗](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375" alt="" width="50" /> | Hatsune Miku                                 | [🔗](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb31072db9da0311ecfabe96bf" alt="" width="50" /> | Khalid                                       | [🔗](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3c02f4fb4cc9187c488afd50" alt="" width="50" /> | The Chainsmokers                             | [🔗](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5af53f295e6c42529fbd0873" alt="" width="50" /> | Lauv                                         | [🔗](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9f754de994ed3b6e8f01522" alt="" width="50" /> | Jidenna                                      | [🔗](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd06f948216f34ea0298aef43" alt="" width="50" /> | Caroline Polachek                            | [🔗](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) |
 |                  1 | <img src="https://i.scdn.co/image/145b7b08e7f1de22d033e957c0888a5f9e0c99e6" alt="" width="50" /> | Leighton Meester                             | [🔗](https://open.spotify.com/artist/481VlDdXZAIRxnHyywNbXn) |
@@ -51,7 +51,7 @@
 
 
 <details>
-<summary>See all 33 albums</summary>
+<summary>See all 32 albums</summary>
 
 |   Number of Tracks | Art                                                                                              | Album                                                                      | Release Date   | 🔗                                                          |
 |-------------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------|:---------------|:-----------------------------------------------------------|
@@ -60,7 +60,6 @@
 |                  5 | <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="" width="50" /> | Primal Heart                                                               | 2018-04-20     | [🔗](https://open.spotify.com/album/4pj0BkJ7u39i009oqe8V79) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b273a90401b8d27cd6b5f3a46242" alt="" width="50" /> | Lights                                                                     | 2011-01-01     | [🔗](https://open.spotify.com/album/3duZhvcaoqdNveQYXf9dMV) |
 |                  2 | <img src="https://i.scdn.co/image/ab67616d0000b2730a60fb0deda858270cca82ee" alt="" width="50" /> | Dirty Computer                                                             | 2018-04-27     | [🔗](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) |
-|                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2732c0e1e9e1fd1e7b132da1606" alt="" width="50" /> | ~how i'm feeling~                                                          | 2020-03-06     | [🔗](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c" alt="" width="50" /> | lovely (with Khalid)                                                       | 2018-04-19     | [🔗](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b2730f7ad6d8d829906c17cae210" alt="" width="50" /> | hopeless fountain kingdom (Deluxe)                                         | 2017-06-02     | [🔗](https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0) |
 |                  1 | <img src="https://i.scdn.co/image/ab67616d0000b273f2248cf6dad1d6c062587249" alt="" width="50" /> | everything i wanted                                                        | 2019-11-13     | [🔗](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) |
@@ -94,11 +93,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 27 record labels](../images/genres/electropop/labels.png)
+![Bar chart of top 26 record labels](../images/genres/electropop/labels.png)
 
 
 <details>
-<summary>See all 27 labels</summary>
+<summary>See all 26 labels</summary>
 
 |   Number of Tracks | Label                                                   |
 |-------------------:|:--------------------------------------------------------|
@@ -118,7 +117,6 @@
 |                  1 | Perpetual Novice                                        |
 |                  1 | Parlophone UK                                           |
 |                  1 | Metric Music International                              |
-|                  1 | Lauv                                                    |
 |                  1 | Island Records                                          |
 |                  1 | Fueled By Ramen                                         |
 |                  1 | FSF                                                     |
@@ -152,14 +150,14 @@
 |:-------------------------------------------|:----------------------------|
 | Cameo Lover                                | when the party's over       |
 | Like They Do on the TV                     | xanny                       |
-| Gimme Sympathy                             | Julia                       |
-| Good Girls Go Bad (feat. Leighton Meester) | Your Song                   |
-| Something In The Way You Move              | No Time To Die              |
-| Recovery                                   | everything i wanted         |
-| Lights - Single Version                    | lovely (with Khalid)        |
-| Top of the World                           | Waltz Me to the Grave       |
-| Bad At Love                                | ocean eyes                  |
-| SUGA's Interlude                           | Therefore I Am              |
+| Gimme Sympathy                             | Your Song                   |
+| Good Girls Go Bad (feat. Leighton Meester) | No Time To Die              |
+| Something In The Way You Move              | everything i wanted         |
+| Recovery                                   | lovely (with Khalid)        |
+| Lights - Single Version                    | Waltz Me to the Grave       |
+| Top of the World                           | ocean eyes                  |
+| Bad At Love                                | Therefore I Am              |
+| SUGA's Interlude                           | bury a friend               |
 
 | 10 most Speechy tracks       | 10 least Speechy tracks   |
 |:-----------------------------|:--------------------------|
@@ -174,31 +172,31 @@
 | everything i wanted          | Lights - Single Version   |
 | when the party's over        | No Time To Die            |
 
-| 10 most Acoustic tracks   | 10 least Acoustic tracks                       |
-|:--------------------------|:-----------------------------------------------|
-| when the party's over     | Recovery                                       |
-| Your Song                 | Gimme Sympathy                                 |
-| lovely (with Khalid)      | Call Me Maybe                                  |
-| No Time To Die            | Lightyears                                     |
-| Julia                     | Good Girls Go Bad (feat. Leighton Meester)     |
-| everything i wanted       | Yoga                                           |
-| Plain Gold Ring           | The Good War                                   |
-| ocean eyes                | Lights - Single Version                        |
-| xanny                     | Tightrope (feat. Big Boi) - Big Boi Vocal Edit |
-| bury a friend             | I Like That                                    |
+| 10 most Acoustic tracks      | 10 least Acoustic tracks                       |
+|:-----------------------------|:-----------------------------------------------|
+| when the party's over        | Recovery                                       |
+| Your Song                    | Gimme Sympathy                                 |
+| lovely (with Khalid)         | Call Me Maybe                                  |
+| No Time To Die               | Lightyears                                     |
+| everything i wanted          | Good Girls Go Bad (feat. Leighton Meester)     |
+| Plain Gold Ring              | Yoga                                           |
+| ocean eyes                   | The Good War                                   |
+| xanny                        | Lights - Single Version                        |
+| bury a friend                | Tightrope (feat. Big Boi) - Big Boi Vocal Edit |
+| you should see me in a crown | I Like That                                    |
 
 | 10 most Instrumental tracks   | 10 least Instrumental tracks   |
 |:------------------------------|:-------------------------------|
-| everything i wanted           | lovely (with Khalid)           |
+| everything i wanted           | Daisy 2.0 (feat. Hatsune Miku) |
 | you should see me in a crown  | Good Thing (with Kehlani)      |
 | bury a friend                 | Bad At Love                    |
 | Therefore I Am                | SUGA's Interlude               |
 | bad guy                       | Say My Name                    |
-| Like They Do on the TV        | Julia                          |
+| Like They Do on the TV        | lovely (with Khalid)           |
 | Top of the World              | Closer                         |
-| Lights - Single Version       | Daisy 2.0 (feat. Hatsune Miku) |
-| ocean eyes                    | Two Way Street                 |
-| Lightyears                    | Cameo Lover                    |
+| Lights - Single Version       | Two Way Street                 |
+| ocean eyes                    | Cameo Lover                    |
+| Lightyears                    | The Good War                   |
 
 | 10 most Live tracks                            | 10 least Live tracks                                                       |
 |:-----------------------------------------------|:---------------------------------------------------------------------------|

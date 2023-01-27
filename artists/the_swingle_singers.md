@@ -2,7 +2,7 @@
 # The Swingle Singers
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb9874bc44189b9b1a619e2b11" alt="The Swingle Singers" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5ebc63e900506fdff4b6177f920" alt="The Swingle Singers" width="100" />
 
 ## Featured on Playlists
 |   Number of Tracks | Art                                                                                                                                                                                                                         | Playlist                                          |

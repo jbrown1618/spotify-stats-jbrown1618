@@ -120,13 +120,13 @@ Appears as:
 
 
 <details>
-<summary>See all 33 genres</summary>
+<summary>See all 34 genres</summary>
 
 |   Number of Tracks | Genre                                       |
 |-------------------:|:--------------------------------------------|
 |                 36 | [a cappella](../genres/a_cappella.md)       |
+|                 28 | [dance pop](../genres/dance_pop.md)         |
 |                 26 | [pop](../genres/pop.md)                     |
-|                 20 | [dance pop](../genres/dance_pop.md)         |
 |                  8 | australian pop                              |
 |                  8 | australian dance                            |
 |                  4 | [post-teen pop](../genres/post_teen_pop.md) |
@@ -145,6 +145,7 @@ Appears as:
 |                  1 | rap                                         |
 |                  1 | pop rap                                     |
 |                  1 | oakland hip hop                             |
+|                  1 | neo soul                                    |
 |                  1 | modern rock                                 |
 |                  1 | modern alternative rock                     |
 |                  1 | italian pop                                 |
@@ -180,8 +181,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" alt="" width="50" /> | Woman                                                 | Planet Her                                          | Doja Cat                                                 | [Kemosabe Records/RCA Records](kemosabe_records.md)                                     |     | [🔗](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" alt="" width="50" /> | You Right                                             | Planet Her                                          | Doja Cat, The Weeknd                                     | [Kemosabe Records/RCA Records](kemosabe_records.md)                                     | 💚   | [🔗](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f96cefb0197694ad440c3314" alt="" width="50" /> | Can't Help Falling in Love                            | Blue Hawaii                                         | Elvis Presley                                            | [Legacy](legacy.md), [RCA Records Label](rca_records_label.md)                          |     | [🔗](https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27398acfa8c055deedc25e6081d" alt="" width="50" /> | Me, Myself & I                                        | When It's Dark Out                                  | G-Eazy, Bebe Rexha                                       | [BPG/RVG/RCA Records](rvg.md)                                                           |     | [🔗](https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f89d2d949f9671982e9e732c" alt="" width="50" /> | still feel.                                           | Now, Not Yet                                        | half•alive                                               | [half·alive/RCA Records](half_alive.md)                                                 | 💚   | [🔗](https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27398acfa8c055deedc25e6081d" alt="" width="50" /> | Me, Myself & I                                        | When It's Dark Out                                  | G-Eazy, Bebe Rexha                                       | [BPG/RVG/RCA Records](rca_records_label.md)                                             |     | [🔗](https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f89d2d949f9671982e9e732c" alt="" width="50" /> | still feel.                                           | Now, Not Yet                                        | half•alive                                               | [half·alive/RCA Records](rca_records_label.md)                                          | 💚   | [🔗](https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="" width="50" /> | Aha!                                                  | Ellipse                                             | Imogen Heap                                              | [RCA Records Label](rca_records_label.md)                                               | 💚   | [🔗](https://open.spotify.com/track/42itRd5WoYb42RSYOloJvD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="" width="50" /> | Earth                                                 | Ellipse                                             | Imogen Heap                                              | [RCA Records Label](rca_records_label.md)                                               | 💚   | [🔗](https://open.spotify.com/track/4zXgNwVhtfDrPLjKs52msC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="" width="50" /> | First Train Home                                      | Ellipse                                             | Imogen Heap                                              | [RCA Records Label](rca_records_label.md)                                               |     | [🔗](https://open.spotify.com/track/504gJcwsW5n0s3Zj5uAedr) |

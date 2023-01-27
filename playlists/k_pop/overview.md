@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273f7da7c0f322b7a1c95190d92" alt="K-Pop" width="100" />
 
-[969 songs](tracks.md)
+[970 songs](tracks.md)
 
 ## Top Artists
 
@@ -39,12 +39,12 @@
 |                 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="" width="50" /> | [EXO](../../artists/exo.md)                             | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5ebadffb99dc62d070da29306ff" alt="" width="50" /> | JEON SOYEON                                             | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | BIBI                                                    | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
+|                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a29246fa242d0b9f8de3b31" alt="" width="50" /> | SUNMI                                                   | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb5d87e2a10ba3b2f8bb2c5270" alt="" width="50" /> | ATEEZ                                                   | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e2e0f17d257a40be0782f35" alt="" width="50" /> | BAEKHYUN                                                | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5ebde8ad216e0ff7a76573c835e" alt="" width="50" /> | SEULGI                                                  | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb968ab271c895fb9cc245d6fe" alt="" width="50" /> | Billlie                                                 | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | Hwa Sa                                                  | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
-|                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a29246fa242d0b9f8de3b31" alt="" width="50" /> | SUNMI                                                   | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5eb63329d77582c519154674fd7" alt="" width="50" /> | TOMORROW X TOGETHER                                     | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5ebc65d144f4f352b3cba7b13ea" alt="" width="50" /> | WENDY                                                   | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 |                  7 | <img src="https://i.scdn.co/image/ab6761610000e5eb03fd839c09fe375026192645" alt="" width="50" /> | GOT the beat                                            | [🔗](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) |
@@ -277,6 +277,7 @@
 |                  6 | ADOR                                                                       |
 |                  5 | avex trax                                                                  |
 |                  5 | P NATION                                                                   |
+|                  5 | Abyss Company                                                              |
 |                  4 | WM Japan                                                                   |
 |                  4 | THE BLACK LABEL                                                            |
 |                  4 | Studio MaumC                                                               |
@@ -284,7 +285,6 @@
 |                  4 | Hwa&Dam pictures                                                           |
 |                  4 | Fave Entertainment                                                         |
 |                  4 | BlockBerryCreative                                                         |
-|                  4 | Abyss Company                                                              |
 |                  4 | 2018 YG Entertainment                                                      |
 |                  3 | 마이돌엔터테인먼트                                                                  |
 |                  3 | TEAM WANG records                                                          |
@@ -359,7 +359,7 @@
 
 |   Number of Tracks | Genre                                                |
 |-------------------:|:-----------------------------------------------------|
-|                813 | [k-pop](../../genres/k_pop.md)                       |
+|                814 | [k-pop](../../genres/k_pop.md)                       |
 |                368 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 |                233 | [k-pop boy group](../../genres/k_pop_boy_group.md)   |
 |                 53 | [pop](../../genres/pop.md)                           |
@@ -417,7 +417,7 @@
 |   2019 |                 77 |
 |   2020 |                129 |
 |   2021 |                198 |
-|   2022 |                269 |
+|   2022 |                270 |
 |   2023 |                 14 |
 
 | 10 newest albums                                                                                                                                                                                                                                                            | 10 oldest albums                                                                                                                                                                                                                                                                                |
@@ -451,8 +451,8 @@
 |:---------------------------|:-----------------------------------------------------|
 | War of Hormone             | i hate to admit (Bang Chan)                          |
 | RING X RING                | Deep end (Felix)                                     |
-| Misfit                     | miss you (Hyunjin)                                   |
-| Hit That Drum              | Winter Sleep                                         |
+| Hit That Drum              | miss you (Hyunjin)                                   |
+| Misfit                     | Winter Sleep                                         |
 | MIROH                      | Stardust love song                                   |
 | Side Effects               | How can I love the heartbreak, you're the one I love |
 | 소방차 Fire Truck             | BREATHE                                              |
@@ -468,8 +468,8 @@
 | MANIAC                        | She′s In The Rain                          |
 | Freedom                       | Moonlight Melody                           |
 | Free Fall                     | Rain and You                               |
-| Ice Cream (with Selena Gomez) | Wicked                                     |
-| I GOT IT (HAN)                | Winter Sleep                               |
+| I GOT IT (HAN)                | Wicked                                     |
+| Ice Cream (with Selena Gomez) | Winter Sleep                               |
 | Feelin' Like                  | Gee                                        |
 | Signal                        | Hope Not                                   |
 
@@ -488,16 +488,16 @@
 
 | 10 most Instrumental tracks      | 10 least Instrumental tracks   |
 |:---------------------------------|:-------------------------------|
-| Tippy Toes                       | Sorry                          |
-| You and I (Park Bom)             | First Time                     |
-| Adios                            | Twenty-three                   |
-| pporappippam                     | Frost                          |
-| Badster                          | Stay Gold                      |
-| YEPPI YEPPI                      | Into The Abyss                 |
-| It′s Raining                     | DOMINO                         |
-| So Hot                           | The Red Shoes                  |
-| GingaMingaYo (the strange world) | TFW (That Feeling When)        |
-| I Am The Best                    | Black Swan                     |
+| Tippy Toes                       | Why So Lonely                  |
+| You and I (Park Bom)             | Rollin'                        |
+| Adios                            | BBIBBI                         |
+| pporappippam                     | I GOT IT (HAN)                 |
+| Badster                          | Designer                       |
+| YEPPI YEPPI                      | L.I.E                          |
+| It′s Raining                     | Jazz Bar                       |
+| So Hot                           | Let Me In (20 CUBE)            |
+| GingaMingaYo (the strange world) | Bing Bing                      |
+| I Am The Best                    | ANTIFRAGILE                    |
 
 | 10 most Live tracks            | 10 least Live tracks                  |
 |:-------------------------------|:--------------------------------------|
@@ -515,12 +515,12 @@
 | 10 most Happy tracks   | 10 least Happy tracks     |
 |:-----------------------|:--------------------------|
 | Sour candy             | The Road                  |
-| Devil                  | Grey Suit                 |
-| Twenty-three           | 7월 7일 One Of These Nights |
+| Twenty-three           | Grey Suit                 |
+| Devil                  | 7월 7일 One Of These Nights |
 | Pepe                   | Good Night My Princess    |
 | So Hot                 | Side Effects              |
 | Miniskirt              | In The Fall               |
-| Twinkle                | My sea                    |
-| 쏘리 쏘리 Sorry, Sorry     | Time After Time           |
-| Lion Heart             | U                         |
+| 쏘리 쏘리 Sorry, Sorry     | My sea                    |
+| Twinkle                | Time After Time           |
+| Some (feat. Lil Boi)   | U                         |
 | Give it to me          | Lucid Dream               |

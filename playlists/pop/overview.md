@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="Pop" width="100" />
 
-[356 songs](tracks.md)
+[357 songs](tracks.md)
 
 ## Top Artists
 
@@ -77,6 +77,7 @@
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb196972172c37d934d9ca8093" alt="" width="50" /> | Twenty One Pilots                                 | [🔗](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../../artists/bts.md)                       | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb60c3e9abe7327c0097738f22" alt="" width="50" /> | Sean Paul                                         | [🔗](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) |
+|                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bb5ab9683125fc416c9dbfb" alt="" width="50" /> | Zedd                                              | [🔗](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb9ba4d95b74bacff4d5747f61" alt="" width="50" /> | Hozier                                            | [🔗](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5eb576cb43281160e345f728b71" alt="" width="50" /> | Charli XCX                                        | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
 |                  2 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd09edfd2babfc9fd2ba748e" alt="" width="50" /> | Daniel Caesar                                     | [🔗](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) |
@@ -106,7 +107,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb676338904deb80cffb568216" alt="" width="50" /> | [Beyoncé](../../artists/beyonc_.md)               | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb358577f183465ae7698a53a7" alt="" width="50" /> | Carly Rae Jepsen                                  | [🔗](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb41bf7454f88cccfe6677b2c0" alt="" width="50" /> | H 3 F                                             | [🔗](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5e92b1ddbbbc66454d44a2c4" alt="" width="50" /> | [Kimbra](../../artists/kimbra.md)                 | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f1004879ac217c8caa0a066" alt="" width="50" /> | [Kimbra](../../artists/kimbra.md)                 | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe32a61d17ecbe732a99d6d92" alt="" width="50" /> | 24kGoldn                                          | [🔗](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9bc0756eb16b241111bbc72b" alt="" width="50" /> | Colbie Caillat                                    | [🔗](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb90a228bbe264818694c54834" alt="" width="50" /> | Ally Brooke                                       | [🔗](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) |
@@ -116,7 +117,6 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf271138f95fbe8188d909d50" alt="" width="50" /> | Kesha                                             | [🔗](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb15a85a7957cac2c370e713ab" alt="" width="50" /> | Kid Ink                                           | [🔗](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc3e907a4fb48f1ad94f5699" alt="" width="50" /> | The Womack Sisters                                | [🔗](https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb66d17ee8690d2e8d94ee7387" alt="" width="50" /> | Martin Garrix                                     | [🔗](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) |
 
 </details>
 
@@ -245,7 +245,7 @@
 
 |   Number of Tracks | Label                                                                          |
 |-------------------:|:-------------------------------------------------------------------------------|
-|                 30 | [Interscope Records](../../labels/interscope_records.md)                       |
+|                 31 | [Interscope Records](../../labels/interscope_records.md)                       |
 |                 29 | [Big Machine Records](../../labels/big_machine_records.md)                     |
 |                 28 | [RCA Records Label](../../labels/rca_records_label.md)                         |
 |                 23 | [Atlantic Records](../../labels/atlantic_records.md)                           |
@@ -359,29 +359,29 @@
 
 |   Number of Tracks | Genre                                              |
 |-------------------:|:---------------------------------------------------|
-|                302 | [pop](../../genres/pop.md)                         |
-|                186 | [dance pop](../../genres/dance_pop.md)             |
+|                303 | [pop](../../genres/pop.md)                         |
+|                194 | [dance pop](../../genres/dance_pop.md)             |
 |                 45 | [post-teen pop](../../genres/post_teen_pop.md)     |
 |                 29 | [electropop](../../genres/electropop.md)           |
 |                 28 | [art pop](../../genres/art_pop.md)                 |
+|                 27 | edm                                                |
 |                 26 | uk pop                                             |
-|                 26 | edm                                                |
+|                 21 | pop rap                                            |
 |                 20 | urban contemporary                                 |
-|                 20 | pop rap                                            |
-|                 15 | neo soul                                           |
+|                 17 | neo soul                                           |
 |                 12 | [neo mellow](../../genres/neo_mellow.md)           |
 |                 12 | atl hip hop                                        |
 |                 11 | [r&b](../../genres/r_b.md)                         |
+|                 11 | pop dance                                          |
 |                 11 | british soul                                       |
 |                 11 | australian pop                                     |
+|                 10 | tropical house                                     |
 |                 10 | pop soul                                           |
 |                 10 | [pop rock](../../genres/pop_rock.md)               |
-|                 10 | pop dance                                          |
 |                 10 | canadian pop                                       |
 |                 10 | barbadian pop                                      |
 |                 10 | [acoustic pop](../../genres/acoustic_pop.md)       |
 |                  9 | viral pop                                          |
-|                  9 | tropical house                                     |
 |                  9 | metropopolis                                       |
 |                  8 | uk dance                                           |
 |                  8 | escape room                                        |
@@ -395,18 +395,18 @@
 |                  5 | [rock](../../genres/rock.md)                       |
 |                  5 | piano rock                                         |
 |                  5 | permanent wave                                     |
-|                  5 | indie poptimism                                    |
+|                  5 | electro house                                      |
 |                  5 | contemporary r&b                                   |
 |                  5 | afrofuturism                                       |
 |                  4 | talent show                                        |
 |                  4 | south carolina hip hop                             |
 |                  4 | [lilith](../../genres/lilith.md)                   |
+|                  4 | indie poptimism                                    |
 |                  4 | house                                              |
 |                  4 | [hollywood](../../genres/hollywood.md)             |
 |                  4 | hip pop                                            |
 |                  4 | girl group                                         |
 |                  4 | europop                                            |
-|                  4 | electro house                                      |
 |                  3 | progressive house                                  |
 |                  3 | nz pop                                             |
 |                  3 | modern alternative rock                            |
@@ -426,7 +426,6 @@
 |                  2 | irish singer-songwriter                            |
 |                  2 | indy indie                                         |
 |                  2 | indiecoustica                                      |
-|                  2 | indie r&b                                          |
 |                  2 | gauze pop                                          |
 |                  2 | filter house                                       |
 |                  2 | electro                                            |
@@ -459,6 +458,7 @@
 |                  1 | neon pop punk                                      |
 |                  1 | modern indie pop                                   |
 |                  1 | lafayette indie                                    |
+|                  1 | la indie                                           |
 
 </details>
 
@@ -489,7 +489,7 @@
 |   2016 |                 23 |
 |   2017 |                 25 |
 |   2018 |                 25 |
-|   2019 |                 43 |
+|   2019 |                 44 |
 |   2020 |                 48 |
 |   2021 |                 18 |
 |   2022 |                  3 |
@@ -536,8 +536,8 @@
 
 | 10 most Speechy tracks          | 10 least Speechy tracks             |
 |:--------------------------------|:------------------------------------|
-| Youngblood                      | All Too Well                        |
-| boyfriend (with Social House)   | The Scientist                       |
+| Youngblood                      | The Scientist                       |
+| boyfriend (with Social House)   | All Too Well                        |
 | WAP (feat. Megan Thee Stallion) | Old Fashioned                       |
 | bad guy                         | Set Fire to the Rain                |
 | Bubblegum (feat. Tyga)          | Chasing Pavements                   |
@@ -560,18 +560,18 @@
 | Off My Face               | Valerie (feat. Amy Winehouse) - Version Revisited                        |
 | peace                     | New Rules                                                                |
 
-| 10 most Instrumental tracks              | 10 least Instrumental tracks                |
-|:-----------------------------------------|:--------------------------------------------|
-| Abeja                                    | Show Me the Meaning of Being Lonely         |
-| everything i wanted                      | imagine                                     |
-| Instant Crush (feat. Julian Casablancas) | Señorita                                    |
-| you should see me in a crown             | Bad At Love                                 |
-| bury a friend                            | Back To December                            |
-| Therefore I Am                           | Oh My God                                   |
-| bad guy                                  | Ashes                                       |
-| This Is What You Came For                | no body, no crime (feat. HAIM)              |
-| Crazy                                    | Off My Face                                 |
-| Lights - Single Version                  | Break My Heart Myself (feat. Travis Barker) |
+| 10 most Instrumental tracks              | 10 least Instrumental tracks                   |
+|:-----------------------------------------|:-----------------------------------------------|
+| Abeja                                    | Big Girls Cry                                  |
+| everything i wanted                      | illicit affairs                                |
+| Instant Crush (feat. Julian Casablancas) | right here                                     |
+| you should see me in a crown             | In My Blood                                    |
+| bury a friend                            | (I Got That) Boom Boom (feat. Ying Yang Twins) |
+| Therefore I Am                           | Good Thing (with Kehlani)                      |
+| bad guy                                  | Ride                                           |
+| This Is What You Came For                | Monster (Shawn Mendes & Justin Bieber)         |
+| Crazy                                    | INDUSTRY BABY (feat. Jack Harlow)              |
+| Lights - Single Version                  | Slow Hands                                     |
 
 | 10 most Live tracks                            | 10 least Live tracks             |
 |:-----------------------------------------------|:---------------------------------|
@@ -582,9 +582,9 @@
 | Feel Good Inc.                                 | It's Gonna Be Me                 |
 | Super Bass                                     | Yeah! (feat. Lil Jon & Ludacris) |
 | Good Girls Go Bad (feat. Leighton Meester)     | I Knew You Were Trouble.         |
-| (I Got That) Boom Boom (feat. Ying Yang Twins) | Hot In It                        |
-| Sour Candy (with BLACKPINK)                    | Brave                            |
-| In the Name of Love                            | SUGA's Interlude                 |
+| (I Got That) Boom Boom (feat. Ying Yang Twins) | Good Thing (with Kehlani)        |
+| Sour Candy (with BLACKPINK)                    | Hot In It                        |
+| In the Name of Love                            | Brave                            |
 
 | 10 most Happy tracks            | 10 least Happy tracks                                                                                              |
 |:--------------------------------|:-------------------------------------------------------------------------------------------------------------------|

@@ -33,7 +33,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb676338904deb80cffb568216" alt="" width="50" /> | [Beyoncé](../../artists/beyonc_.md)                               | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3ea2c03525939b482f8d3bfd" alt="" width="50" /> | Janelle Monáe                                                     | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb21a213a4fe1a6f9b45d3f7f9" alt="" width="50" /> | Commodores                                                        | [🔗](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5e92b1ddbbbc66454d44a2c4" alt="" width="50" /> | [Kimbra](../../artists/kimbra.md)                                 | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f1004879ac217c8caa0a066" alt="" width="50" /> | [Kimbra](../../artists/kimbra.md)                                 | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | [Dua Lipa](../../artists/dua_lipa.md)                             | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae8ba82eaf7e63af515c9f" alt="" width="50" /> | The Civil Wars                                                    | [🔗](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb12123322672fbf71bd1e5c94" alt="" width="50" /> | Ella Eyre                                                         | [🔗](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) |
@@ -48,7 +48,7 @@
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../../artists/radiohead.md)                           | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | Van Morrison                                                      | [🔗](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb02dd5c821135e146eb2bfc85" alt="" width="50" /> | Snow Patrol                                                       | [🔗](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) |
-|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb78a54dca2a384cc48805b015" alt="" width="50" /> | Nickel Creek                                                      | [🔗](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) |
+|                  1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfec9ac812e7db017a9cbdc98" alt="" width="50" /> | Nickel Creek                                                      | [🔗](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb002eedc44fefe085daae10e4" alt="" width="50" /> | Troye Sivan                                                       | [🔗](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) |
 |                  1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3f0f76df1047720f2e57fc35" alt="" width="50" /> | The Temptations                                                   | [🔗](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) |
 |                  1 | <img src="https://i.scdn.co/image/4f5e6383a803df41153fd871f6d0d0af7b9f08a0" alt="" width="50" /> | Count Basie                                                       | [🔗](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) |
@@ -213,11 +213,12 @@
 |                 13 | [neo mellow](../../genres/neo_mellow.md)               |
 |                 10 | [pop rock](../../genres/pop_rock.md)                   |
 |                 10 | [mellow gold](../../genres/mellow_gold.md)             |
+|                 10 | [dance pop](../../genres/dance_pop.md)                 |
 |                 10 | [acoustic pop](../../genres/acoustic_pop.md)           |
-|                  9 | [dance pop](../../genres/dance_pop.md)                 |
 |                  8 | piano rock                                             |
 |                  7 | [soft rock](../../genres/soft_rock.md)                 |
 |                  7 | [lilith](../../genres/lilith.md)                       |
+|                  7 | [folk rock](../../genres/folk_rock.md)                 |
 |                  6 | [singer-songwriter](../../genres/singer_songwriter.md) |
 |                  6 | [hollywood](../../genres/hollywood.md)                 |
 |                  6 | [adult standards](../../genres/adult_standards.md)     |
@@ -229,14 +230,13 @@
 |                  4 | permanent wave                                         |
 |                  4 | lounge                                                 |
 |                  4 | glam rock                                              |
-|                  3 | folk rock                                              |
+|                  3 | motown                                                 |
 |                  3 | canadian pop                                           |
 |                  3 | australian pop                                         |
 |                  2 | viral pop                                              |
 |                  2 | urban contemporary                                     |
 |                  2 | soul                                                   |
 |                  2 | pop soul                                               |
-|                  2 | motown                                                 |
 |                  2 | modern rock                                            |
 |                  2 | modern alternative rock                                |
 |                  2 | melancholia                                            |

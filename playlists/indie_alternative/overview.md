@@ -19,7 +19,7 @@
 |-------------------:|:-------------------------------------------------------------------------------------------------|:------------------------------------------------------------------|:------------------------------------------------------------|
 |                 17 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | [Lana Del Rey](../../artists/lana_del_rey.md)                     | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
 |                 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | [Florence + The Machine](../../artists/florence___the_machine.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
-|                 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb5e92b1ddbbbc66454d44a2c4" alt="" width="50" /> | [Kimbra](../../artists/kimbra.md)                                 | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
+|                 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f1004879ac217c8caa0a066" alt="" width="50" /> | [Kimbra](../../artists/kimbra.md)                                 | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 |                 10 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../../artists/radiohead.md)                           | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
 |                  9 | <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | Imogen Heap                                                       | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
 |                  8 | <img src="https://i.scdn.co/image/ab6761610000e5ebec40474426f4401a4203dc9f" alt="" width="50" /> | Sia                                                               | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
@@ -312,16 +312,16 @@
 |                 61 | [pop](../../genres/pop.md)                             |
 |                 25 | indie pop                                              |
 |                 23 | [rock](../../genres/rock.md)                           |
+|                 22 | [dance pop](../../genres/dance_pop.md)                 |
 |                 20 | modern rock                                            |
 |                 20 | [art pop](../../genres/art_pop.md)                     |
 |                 18 | [electropop](../../genres/electropop.md)               |
-|                 17 | [lilith](../../genres/lilith.md)                       |
 |                 17 | baroque pop                                            |
 |                 16 | uk alternative pop                                     |
 |                 16 | permanent wave                                         |
 |                 14 | indie rock                                             |
-|                 14 | [dance pop](../../genres/dance_pop.md)                 |
 |                 13 | nz pop                                                 |
+|                 13 | [lilith](../../genres/lilith.md)                       |
 |                 13 | bergen indie                                           |
 |                 13 | alternative rock                                       |
 |                 12 | metropopolis                                           |
@@ -368,7 +368,6 @@
 |                  2 | pop emo                                                |
 |                  2 | pixie                                                  |
 |                  2 | irish singer-songwriter                                |
-|                  2 | indie poptimism                                        |
 |                  2 | gauze pop                                              |
 |                  2 | chamber pop                                            |
 |                  2 | celtic rock                                            |
@@ -402,13 +401,14 @@
 |                  1 | industrial metal                                       |
 |                  1 | industrial                                             |
 |                  1 | indie rock italiano                                    |
-|                  1 | indie folk                                             |
+|                  1 | indie poptimism                                        |
 |                  1 | grunge                                                 |
 |                  1 | folk-pop                                               |
 |                  1 | escape room                                            |
 |                  1 | elephant 6                                             |
 |                  1 | electronic rock                                        |
 |                  1 | dutch pop                                              |
+|                  1 | downtempo                                              |
 
 </details>
 
