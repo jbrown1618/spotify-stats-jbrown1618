@@ -1,6 +1,6 @@
 # k-pop
 
-[840 songs](k_pop_tracks.md)
+[841 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -16,7 +16,7 @@
 |---:|:---|:---|:---|
 | 62 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | 46 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
-| 36 | <img src="https://i.scdn.co/image/ab6761610000e5eb200008f1cb940483514db2bd" alt="" width="50" /> | [TWICE](../artists/twice.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
+| 37 | <img src="https://i.scdn.co/image/ab6761610000e5eb200008f1cb940483514db2bd" alt="" width="50" /> | [TWICE](../artists/twice.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | 33 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | 30 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | 28 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
@@ -128,10 +128,10 @@
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
 | 13 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | SKZ-REPLAY | 2022-12-21 | [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) |
+| 8 | <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | Formula of Love: O+T=<3 | 2021-11-12 | [🔗](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) |
 | 8 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | BORN PINK | 2022-09-16 | [🔗](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) |
 | 7 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | THE ALBUM | 2020-10-02 | [🔗](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) |
 | 7 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | I NEVER DIE | 2022-03-14 | [🔗](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) |
-| 7 | <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | Formula of Love: O+T=<3 | 2021-11-12 | [🔗](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) |
 | 6 | <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="" width="50" /> | Stamp On It - The 1st Mini Album | 2023-01-16 | [🔗](https://open.spotify.com/album/2Gxd1fr4RFHVNx6IxGr9I7) |
 | 6 | <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="" width="50" /> | Perfect Velvet - The 2nd Album | 2017-11-17 | [🔗](https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH) |
 | 6 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | NOEASY | 2021-08-23 | [🔗](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) |
@@ -242,7 +242,7 @@
 | Number of Tracks | Label |
 |---:|:---|
 | 213 | [SM Entertainment](../labels/sm_entertainment.md) |
-| 85 | [Republic Records](../labels/republic_records.md) |
+| 86 | [Republic Records](../labels/republic_records.md) |
 | 64 | [YG Entertainment](../labels/yg_entertainment.md) |
 | 55 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
 | 51 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
@@ -382,8 +382,8 @@
 | I GOT IT (HAN) | Winter Sleep |
 | Ice Cream (with Selena Gomez) | Gee |
 | Feelin' Like | Hope Not |
-| VENOM | NANANA |
-| Signal | YOUNG LUV |
+| VENOM | YOUNG LUV |
+| Signal | NANANA |
 | BBIBBI | LOVE FOOL |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
@@ -422,8 +422,8 @@
 | I Like That | Ice Cream (with Selena Gomez) |
 | Vibrato | Up! |
 | 행복 (Happiness) | Beatbox |
-| Genie | Domino |
-| LP | pporappippam |
+| LP | Domino |
+| Genie | pporappippam |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
@@ -433,7 +433,7 @@
 | Pepe | Good Night My Princess |
 | So Hot | Side Effects |
 | Miniskirt | In The Fall |
-| 쏘리 쏘리 Sorry, Sorry | My sea |
-| Twinkle | Time After Time |
-| Lion Heart | U |
-| Some (feat. Lil Boi) | ONLY |
+| Twinkle | My sea |
+| 쏘리 쏘리 Sorry, Sorry | Time After Time |
+| Some (feat. Lil Boi) | U |
+| Lion Heart | ONLY |

@@ -153,10 +153,17 @@
 
 
 
+
+<details>
+<summary>View all years</summary>
+
 | Year | Number of Tracks |
-|---:|---:|
-| 2022 | 57 |
+|:---|---:|
 | 2023 | 12 |
+| [2022](2022.md) | 57 |
+
+</details>
+
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|

@@ -101,13 +101,20 @@
 
 ![Bar chart of number of songs by year](../../images/playlists/ballet/years.png)
 
+
+<details>
+<summary>View all years</summary>
+
 | Year | Number of Tracks |
-|---:|---:|
-| 1976 | 31 |
-| 2007 | 19 |
+|:---|---:|
+| [2018](2018.md) | 57 |
+| [2010](2010.md) | 24 |
 | 2009 | 7 |
-| 2010 | 24 |
-| 2018 | 57 |
+| 2007 | 19 |
+| [1976](1976.md) | 31 |
+
+</details>
+
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|

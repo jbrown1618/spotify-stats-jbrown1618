@@ -92,17 +92,24 @@
 
 ![Bar chart of number of songs by year](../../images/playlists/chopin/years.png)
 
+
+<details>
+<summary>View all years</summary>
+
 | Year | Number of Tracks |
-|---:|---:|
-| 1988 | 4 |
-| 1994 | 15 |
-| 1996 | 28 |
-| 1997 | 25 |
-| 1999 | 49 |
-| 2002 | 30 |
-| 2005 | 19 |
-| 2010 | 1 |
+|:---|---:|
 | 2017 | 1 |
+| 2010 | 1 |
+| 2005 | 19 |
+| [2002](2002.md) | 30 |
+| [1999](1999.md) | 49 |
+| [1997](1997.md) | 25 |
+| [1996](1996.md) | 28 |
+| 1994 | 15 |
+| 1988 | 4 |
+
+</details>
+
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|

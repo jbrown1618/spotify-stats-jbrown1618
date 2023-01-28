@@ -1,10 +1,10 @@
 # Republic Records
 
-133 songs
+134 songs
 
 Appears as:
 - Republic Records - Stray Kids (44 tracks)
-- Republic Records - TWICE (33 tracks)
+- Republic Records - TWICE (34 tracks)
 - Republic Records - ITZY (31 tracks)
 - Republic Records (13 tracks)
 - Republic Records - TXT (8 tracks)
@@ -23,7 +23,7 @@ Appears as:
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
 | 44 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
-| 33 | <img src="https://i.scdn.co/image/ab6761610000e5eb200008f1cb940483514db2bd" alt="" width="50" /> | [TWICE](../artists/twice.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
+| 34 | <img src="https://i.scdn.co/image/ab6761610000e5eb200008f1cb940483514db2bd" alt="" width="50" /> | [TWICE](../artists/twice.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | 31 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../artists/itzy.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 | 10 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../artists/ariana_grande.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb63329d77582c519154674fd7" alt="" width="50" /> | TOMORROW X TOGETHER | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
@@ -55,7 +55,7 @@ Appears as:
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
 | 13 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | SKZ-REPLAY | 2022-12-21 | [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) |
-| 7 | <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | Formula of Love: O+T=<3 | 2021-11-12 | [🔗](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) |
+| 8 | <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | Formula of Love: O+T=<3 | 2021-11-12 | [🔗](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) |
 | 6 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | NOEASY | 2021-08-23 | [🔗](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) |
 | 6 | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | CRAZY IN LOVE | 2021-09-24 | [🔗](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) |
 | 6 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | CHECKMATE | 2022-07-15 | [🔗](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) |
@@ -128,8 +128,8 @@ Appears as:
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 85 | [k-pop](../genres/k_pop.md) |
-| 64 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+| 86 | [k-pop](../genres/k_pop.md) |
+| 65 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 | 52 | [k-pop boy group](../genres/k_pop_boy_group.md) |
 | 15 | [pop](../genres/pop.md) |
 | 13 | [dance pop](../genres/dance_pop.md) |
@@ -266,8 +266,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27340d7efd2594a2b6bda60ea18" alt="" width="50" /> | Dance The Night Away | Summer Nights | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | | [🔗](https://open.spotify.com/track/4DYIDSMIB5y2UmZFv9fxeX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273140ba24506e300382e08e6ec" alt="" width="50" /> | YES or YES | YES or YES | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/26OVhEqFDQH0Ij77QtmGP9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27349b81808fcdaeeb55bef59d1" alt="" width="50" /> | Feel Special | Feel Special | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/3Hz3tTQwOdM6XkA0ALB2G9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27349b81808fcdaeeb55bef59d1" alt="" width="50" /> | LOVE FOOLISH | Feel Special | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/1MdEg2lk4EakgWnCvFUGEZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27324869424ae632466b839a8a8" alt="" width="50" /> | MORE & MORE | MORE & MORE | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/3omvXShuRPM3zbDpWYqf5g) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27349b81808fcdaeeb55bef59d1" alt="" width="50" /> | LOVE FOOLISH | Feel Special | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | | [🔗](https://open.spotify.com/track/1MdEg2lk4EakgWnCvFUGEZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27324869424ae632466b839a8a8" alt="" width="50" /> | MORE & MORE | MORE & MORE | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | | [🔗](https://open.spotify.com/track/3omvXShuRPM3zbDpWYqf5g) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731e2f86e459a48cfb891bd70d" alt="" width="50" /> | MORE & MORE (English Version) | MORE & MORE (English Version) | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | | [🔗](https://open.spotify.com/track/03wvlNaxFKB9sge4U6vyPE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736570fd05bcff5edcb16e617d" alt="" width="50" /> | HELL IN HEAVEN | Eyes Wide Open | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/3KCreWc88InXH3XuL54C5a) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736570fd05bcff5edcb16e617d" alt="" width="50" /> | I CAN'T STOP ME | Eyes Wide Open | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn) |
@@ -277,15 +277,16 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="" width="50" /> | Alcohol-Free | Taste of Love | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/0BTaaKT4RMbs5M73tOHX5Y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="" width="50" /> | First Time | Taste of Love | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/3YdqewCLgGsFhruA3EhILy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="" width="50" /> | Scandal | Taste of Love | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/2fluM1mE0tKQ6rvM77Vr11) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273557395cc096cb7b22eff310e" alt="" width="50" /> | The Feels | The Feels | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/1XyzcGhmO7iUamSS94XfqY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273557395cc096cb7b22eff310e" alt="" width="50" /> | The Feels | The Feels | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | | [🔗](https://open.spotify.com/track/1XyzcGhmO7iUamSS94XfqY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | 1, 3, 2 (JEONGYEON, MINA, TZUYU) | Formula of Love: O+T=<3 | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/6bS9w12VuyaqkbNKnw5zZE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | CRUEL | Formula of Love: O+T=<3 | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/139JUU8fJkQoeHl9nABk9C) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | F.I.L.A (Fall In Love Again) | Formula of Love: O+T=<3 | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/4O1WbQwMV0W6Y2dUCvwoBx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | F.I.L.A (Fall In Love Again) | Formula of Love: O+T=<3 | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | | [🔗](https://open.spotify.com/track/4O1WbQwMV0W6Y2dUCvwoBx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | ICON | Formula of Love: O+T=<3 | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/2VdU1ksBKcETBr8BYRHUvB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | LAST WALTZ | Formula of Love: O+T=<3 | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/39kH6C2twlYjyssIW02sbr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | PUSH & PULL (JIHYO, SANA, DAHYUN) | Formula of Love: O+T=<3 | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | | [🔗](https://open.spotify.com/track/7kbOwsTp2Uqm1scjRPiVt4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | SCIENTIST | Formula of Love: O+T=<3 | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | The Feels | Formula of Love: O+T=<3 | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | | [🔗](https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | Basics | BETWEEN 1&2 | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/63mL1DdcSFfxVJ9XGnSRQz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | Brave | BETWEEN 1&2 | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/2peoFPokM6eYAIwLm9IQ8E) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | Brave | BETWEEN 1&2 | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | | [🔗](https://open.spotify.com/track/2peoFPokM6eYAIwLm9IQ8E) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | Talk that Talk | BETWEEN 1&2 | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736887b017d077dfc5787a3e23" alt="" width="50" /> | MOONLIGHT SUNRISE | MOONLIGHT SUNRISE | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w) |

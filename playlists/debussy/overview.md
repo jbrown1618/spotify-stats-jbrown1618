@@ -78,10 +78,17 @@
 
 
 
+
+<details>
+<summary>View all years</summary>
+
 | Year | Number of Tracks |
-|---:|---:|
+|:---|---:|
+| [1994](1994.md) | 20 |
 | 1989 | 3 |
-| 1994 | 20 |
+
+</details>
+
 
 | 5 newest albums | 5 oldest albums |
 |:---|:---|

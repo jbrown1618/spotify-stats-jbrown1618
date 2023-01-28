@@ -79,10 +79,17 @@
 
 
 
+
+<details>
+<summary>View all years</summary>
+
 | Year | Number of Tracks |
-|---:|---:|
-| 1983 | 36 |
+|:---|---:|
 | 1995 | 19 |
+| [1983](1983.md) | 36 |
+
+</details>
+
 
 | 5 newest albums | 5 oldest albums |
 |:---|:---|

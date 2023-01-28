@@ -90,13 +90,20 @@
 
 ![Bar chart of number of songs by year](../../images/playlists/beethoven/years.png)
 
+
+<details>
+<summary>View all years</summary>
+
 | Year | Number of Tracks |
-|---:|---:|
-| 1983 | 9 |
-| 1993 | 42 |
-| 1995 | 94 |
-| 2008 | 12 |
+|:---|---:|
 | 2012 | 9 |
+| 2008 | 12 |
+| [1995](1995.md) | 94 |
+| [1993](1993.md) | 42 |
+| 1983 | 9 |
+
+</details>
+
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|

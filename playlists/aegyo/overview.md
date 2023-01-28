@@ -167,8 +167,8 @@
 | The Feels | CHEER UP |
 | Hmph! | Heart Shaker |
 | BBoom BBoom | What is Love |
-| FIESTA | Not For Sale |
-| Gee | Signal |
+| Gee | Not For Sale |
+| FIESTA | Signal |
 | Babyface | Super Yuppers! |
 | Very Very Very | 9 and Three Quarters (Run Away) |
 
@@ -182,8 +182,8 @@
 | BAAM | 9 and Three Quarters (Run Away) |
 | Umpah Umpah | Signal |
 | Power Up | Let Me In (20 CUBE) |
-| Super Yuppers! | Life's Too Short (English Version) |
-| Pretty U | Babyface |
+| Pretty U | Life's Too Short (English Version) |
+| Super Yuppers! | Babyface |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -213,16 +213,16 @@
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Power Up | THRILL RIDE |
-| BBoom BBoom | 青春修炼手册 |
-| BAAM | Red Flavor |
-| Feel Special | CHEER UP |
-| Hmph! | Babyface |
-| Likey | FIESTA |
-| TT | Banana Allergy Monkey |
-| Like Ooh-Ahh | Umpah Umpah |
-| YES or YES | Polaroid Love |
-| Very Very Very | What is Love |
+| Power Up | Super Yuppers! |
+| BBoom BBoom | FIESTA |
+| BAAM | Banana Allergy Monkey |
+| Feel Special | Umpah Umpah |
+| Hmph! | Polaroid Love |
+| Likey | What is Love |
+| TT | Dun Dun Dance |
+| Like Ooh-Ahh | Heart Shaker |
+| YES or YES | Yummy Yummy Love |
+| Very Very Very | Let Me In (20 CUBE) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|

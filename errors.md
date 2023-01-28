@@ -2,7 +2,10 @@
 
 ## Duplicate tracks
 
-None
+| Track | Track Popularity | Release Date | Artists | Album | Album Popularity | Playlists | Label | 💚 |
+|:---|---:|:---|:---|:---|---:|:---|:---|:---|
+| The Feels [🔗](https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe) | 75 | 2021-11-12 | TWICE [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | Formula of Love: O+T=<3 [🔗](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 74 | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Republic Records - TWICE | |
+| The Feels [🔗](https://open.spotify.com/track/1XyzcGhmO7iUamSS94XfqY) | 2 | 2021-10-01 | TWICE [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | The Feels [🔗](https://open.spotify.com/album/6bk3KlQjiXsRmGrzrNcS53) | 0 | Aegyo [🔗](https://open.spotify.com/playlist/6WTiB2kj3G2g3eYqornNd2) | Republic Records - TWICE | |
 
 ## Duplicate albums
 

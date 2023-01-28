@@ -149,13 +149,20 @@
 
 ![Bar chart of number of songs by year](../../images/playlists/musicals/years.png)
 
+
+<details>
+<summary>View all years</summary>
+
 | Year | Number of Tracks |
-|---:|---:|
-| 1987 | 41 |
-| 1996 | 1 |
-| 2004 | 10 |
+|:---|---:|
+| [2015](2015.md) | 52 |
 | 2013 | 5 |
-| 2015 | 52 |
+| 2004 | 10 |
+| 1996 | 1 |
+| [1987](1987.md) | 41 |
+
+</details>
+
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|

@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1412 songs](tracks.md)
+[1407 songs](tracks.md)
 
 ## Top Artists
 
@@ -17,7 +17,7 @@
 | 47 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../../artists/red_velvet.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | 43 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../../artists/sara_bareilles.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 | 39 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | [Taylor Swift](../../artists/taylor_swift.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
-| 32 | <img src="https://i.scdn.co/image/ab6761610000e5eb200008f1cb940483514db2bd" alt="" width="50" /> | [TWICE](../../artists/twice.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
+| 27 | <img src="https://i.scdn.co/image/ab6761610000e5eb200008f1cb940483514db2bd" alt="" width="50" /> | [TWICE](../../artists/twice.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | 27 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../../artists/blackpink.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 | 26 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 | 24 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../../artists/itzy.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
@@ -143,7 +143,6 @@
 | 6 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | folklore | 2020-07-24 | [🔗](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) |
 | 6 | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | Lungs | 2009-01-01 | [🔗](https://open.spotify.com/album/2KAK58PimXHF4lSoKO3RxA) |
 | 6 | <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="" width="50" /> | INVU - The 3rd Album | 2022-02-14 | [🔗](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) |
-| 6 | <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | Formula of Love: O+T=<3 | 2021-11-12 | [🔗](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) |
 | 6 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Ceremonials (Deluxe Edition) | 2011-01-01 | [🔗](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) |
 | 6 | <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | Carolina State of Mind | 2013-11-15 | [🔗](https://open.spotify.com/album/3zKusinRVxdC5s2wOPYBgX) |
 | 6 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Born To Die | 2012-01-30 | [🔗](https://open.spotify.com/album/4X8hAqIWpQyQks2yRhyqs4) |
@@ -160,6 +159,7 @@
 | 5 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Lover | 2019-08-23 | [🔗](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) |
 | 5 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | I love | 2022-10-17 | [🔗](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) |
 | 5 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Girls - The 2nd Mini Album | 2022-07-08 | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
+| 5 | <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | Formula of Love: O+T=<3 | 2021-11-12 | [🔗](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) |
 | 5 | <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="" width="50" /> | DIMENSION : DILEMMA | 2021-10-12 | [🔗](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) |
 | 5 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | CHECKMATE | 2022-07-15 | [🔗](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | ‘The ReVe Festival’ Finale | 2019-12-23 | [🔗](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) |
@@ -243,7 +243,7 @@
 | Number of Tracks | Label |
 |---:|:---|
 | 160 | [SM Entertainment](../../labels/sm_entertainment.md) |
-| 86 | [Republic Records](../../labels/republic_records.md) |
+| 81 | [Republic Records](../../labels/republic_records.md) |
 | 61 | [Epic](../../labels/epic.md) |
 | 58 | [Interscope Records](../../labels/interscope_records.md) |
 | 55 | [YG Entertainment](../../labels/yg_entertainment.md) |
@@ -356,9 +356,9 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 616 | [k-pop](../../genres/k_pop.md) |
+| 611 | [k-pop](../../genres/k_pop.md) |
 | 362 | [pop](../../genres/pop.md) |
-| 295 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
+| 290 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 162 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
 | 159 | [dance pop](../../genres/dance_pop.md) |
 | 100 | [rock](../../genres/rock.md) |
@@ -464,65 +464,72 @@
 
 ![Bar chart of number of songs by year](../../images/playlists/liked_songs/years.png)
 
+
+<details>
+<summary>View all years</summary>
+
 | Year | Number of Tracks |
-|---:|---:|
-| 1962 | 1 |
-| 1963 | 2 |
-| 1964 | 4 |
-| 1965 | 5 |
-| 1966 | 3 |
-| 1967 | 4 |
-| 1968 | 9 |
-| 1969 | 8 |
-| 1970 | 10 |
-| 1971 | 5 |
-| 1973 | 6 |
-| 1974 | 3 |
-| 1975 | 5 |
-| 1976 | 2 |
-| 1977 | 13 |
-| 1978 | 6 |
-| 1980 | 4 |
-| 1982 | 3 |
-| 1983 | 2 |
-| 1984 | 2 |
-| 1985 | 1 |
-| 1986 | 1 |
-| 1987 | 3 |
-| 1989 | 1 |
-| 1990 | 1 |
-| 1991 | 2 |
-| 1992 | 1 |
-| 1993 | 2 |
-| 1994 | 1 |
-| 1995 | 5 |
-| 1997 | 3 |
-| 1998 | 1 |
-| 1999 | 4 |
-| 2000 | 8 |
-| 2001 | 8 |
-| 2002 | 13 |
-| 2003 | 5 |
-| 2004 | 7 |
-| 2005 | 13 |
-| 2006 | 12 |
-| 2007 | 23 |
-| 2008 | 22 |
-| 2009 | 28 |
-| 2010 | 36 |
-| 2011 | 34 |
-| 2012 | 49 |
-| 2013 | 49 |
-| 2014 | 42 |
-| 2015 | 55 |
-| 2016 | 70 |
-| 2017 | 67 |
-| 2018 | 81 |
-| 2019 | 113 |
-| 2020 | 136 |
-| 2021 | 176 |
-| 2022 | 231 |
+|:---|---:|
 | 2023 | 11 |
+| [2022](2022.md) | 230 |
+| [2021](2021.md) | 174 |
+| [2020](2020.md) | 135 |
+| [2019](2019.md) | 112 |
+| [2018](2018.md) | 81 |
+| [2017](2017.md) | 67 |
+| [2016](2016.md) | 70 |
+| [2015](2015.md) | 55 |
+| [2014](2014.md) | 42 |
+| [2013](2013.md) | 49 |
+| [2012](2012.md) | 49 |
+| [2011](2011.md) | 34 |
+| [2010](2010.md) | 36 |
+| [2009](2009.md) | 28 |
+| [2008](2008.md) | 22 |
+| [2007](2007.md) | 23 |
+| 2006 | 12 |
+| 2005 | 13 |
+| 2004 | 7 |
+| 2003 | 5 |
+| 2002 | 13 |
+| 2001 | 8 |
+| 2000 | 8 |
+| 1999 | 4 |
+| 1998 | 1 |
+| 1997 | 3 |
+| 1995 | 5 |
+| 1994 | 1 |
+| 1993 | 2 |
+| 1992 | 1 |
+| 1991 | 2 |
+| 1990 | 1 |
+| 1989 | 1 |
+| 1987 | 3 |
+| 1986 | 1 |
+| 1985 | 1 |
+| 1984 | 2 |
+| 1983 | 2 |
+| 1982 | 3 |
+| 1980 | 4 |
+| 1978 | 6 |
+| 1977 | 13 |
+| 1976 | 2 |
+| 1975 | 5 |
+| 1974 | 3 |
+| 1973 | 6 |
+| 1971 | 5 |
+| 1970 | 10 |
+| 1969 | 8 |
+| 1968 | 9 |
+| 1967 | 4 |
+| 1966 | 3 |
+| 1965 | 5 |
+| 1964 | 4 |
+| 1963 | 2 |
+| 1962 | 1 |
+
+</details>
+
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
@@ -544,12 +551,12 @@
 | Anaconda | Bridge Over Troubled Water |
 | #Twenty | Amore |
 | FACE | The End (Interlude) |
-| SNEAKERS | Born To Die |
-| WAP (feat. Megan Thee Stallion) | You Take My Breath Away |
+| WAP (feat. Megan Thee Stallion) | Born To Die |
+| SNEAKERS | You Take My Breath Away |
 | Billie Jean | Lights |
 | RUN (HAN) | Nature Boy |
-| Baby Got Back | A Case of You |
-| Another One Bites The Dust | Fix You |
+| Another One Bites The Dust | A Case of You |
+| Baby Got Back | Fix You |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -558,8 +565,8 @@
 | Shanti Shanti Shanti | Run to You |
 | RING X RING | And So It Goes |
 | Rondo of Nightmare | Nature Boy |
-| Headbangeeeeerrrrr!!!!! | Used |
-| Gimme Chocolate!! | The Dawntreader |
+| Gimme Chocolate!! | Used |
+| Headbangeeeeerrrrr!!!!! | The Dawntreader |
 | Hit That Drum | when the party's over |
 | だいじょばない | xanny |
 | KARATE | Blackbird - Remastered 2009 |
@@ -567,13 +574,13 @@
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Youngblood | With |
-| I Don't Need You | 情非得已 |
-| MANIAC | Satellite Call |
+| I Don't Need You | Satellite Call |
+| MANIAC | 情非得已 |
 | Mambo No. 5 (a Little Bit of...) | Breakeven |
 | Vigilante Shit | The Scientist |
 | Free Fall | All Too Well |
-| WAP (feat. Megan Thee Stallion) | Old Fashioned |
-| bad guy | I'd Rather Go Blind |
+| bad guy | Old Fashioned |
+| WAP (feat. Megan Thee Stallion) | I'd Rather Go Blind |
 | I GOT IT (HAN) | Set Fire to the Rain |
 | Ice Cream (with Selena Gomez) | Sweet Night |
 
@@ -587,21 +594,21 @@
 | The Night We Met | Tamed-Dashed |
 | I Had a King | Cyberpunk |
 | Sweet Nothing | Gimme Chocolate!! |
-| The Dawntreader | Oh Sorry Ya |
-| Take It All | Misery |
+| Take It All | Oh Sorry Ya |
+| The Dawntreader | Misery |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Digital Love | Bunny |
-| だいじょばない | Scream |
-| Animals | If I Ever Fall In Love (feat. Jason Derulo) |
-| Street Spirit (Fade Out) | Locked out of Heaven |
-| everything i wanted | THRILL RIDE |
-| Instant Crush (feat. Julian Casablancas) | I Love You 3000 II |
-| Smooth Criminal - 2012 Remaster | Something |
-| Pyramid Song | California Gurls |
-| Shanti Shanti Shanti | Brown Eyed Girl |
-| You Take My Breath Away | Hello, Sunset |
+| Digital Love | POP! |
+| だいじょばない | If I Ever Fall In Love (feat. Jason Derulo) |
+| Animals | Locked out of Heaven |
+| Street Spirit (Fade Out) | THRILL RIDE |
+| everything i wanted | I Love You 3000 II |
+| Instant Crush (feat. Julian Casablancas) | Something |
+| Smooth Criminal - 2012 Remaster | California Gurls |
+| Pyramid Song | Brown Eyed Girl |
+| Shanti Shanti Shanti | Hello, Sunset |
+| You Take My Breath Away | Deja Vu |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -610,8 +617,8 @@
 | XS | CASE 143 |
 | Piano Man | SNEAKERS |
 | You Better Run | Finesse |
-| Red Lipstick (feat. Yoonmirae) | That That (prod. & feat. SUGA of BTS) |
-| MAKE U DANCE (feat. EUNHA) | memeM |
+| MAKE U DANCE (feat. EUNHA) | That That (prod. & feat. SUGA of BTS) |
+| Red Lipstick (feat. Yoonmirae) | memeM |
 | Sticker | YEPPI YEPPI |
 | You Oughta Know | Holiday Party |
 | 행복 (Happiness) | Ice Cream (with Selena Gomez) |
@@ -619,12 +626,12 @@
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Sour candy | You Take My Breath Away |
-| Like a Virgin | What Sarah Said |
-| Big Yellow Taxi | Delicate |
+| Big Yellow Taxi | What Sarah Said |
+| Like a Virgin | Delicate |
 | There's Nothing Holdin' Me Back | No Time To Die |
 | Twenty-three | xanny |
 | Devil | Once Upon Another Time |
 | Pepe | Crystallize |
-| SexyBack (feat. Timbaland) | Lose Yourself |
-| Mercy | Falling |
-| Miniskirt | Yellow Flicker Beat |
+| Mercy | Lose Yourself |
+| SexyBack (feat. Timbaland) | Falling |
+| I'm a Slave 4 U | Yellow Flicker Beat |

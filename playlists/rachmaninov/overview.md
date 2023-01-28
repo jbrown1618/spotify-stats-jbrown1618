@@ -80,10 +80,17 @@
 
 
 
+
+<details>
+<summary>View all years</summary>
+
 | Year | Number of Tracks |
-|---:|---:|
-| 2007 | 24 |
+|:---|---:|
 | 2012 | 3 |
+| [2007](2007.md) | 24 |
+
+</details>
+
 
 | 5 newest albums | 5 oldest albums |
 |:---|:---|

@@ -105,15 +105,22 @@
 
 ![Bar chart of number of songs by year](../../images/playlists/string_quartets/years.png)
 
+
+<details>
+<summary>View all years</summary>
+
 | Year | Number of Tracks |
-|---:|---:|
-| 2005 | 29 |
-| 2007 | 16 |
-| 2008 | 12 |
-| 2010 | 71 |
-| 2011 | 11 |
-| 2015 | 24 |
+|:---|---:|
 | 2018 | 16 |
+| [2015](2015.md) | 24 |
+| 2011 | 11 |
+| [2010](2010.md) | 71 |
+| 2008 | 12 |
+| 2007 | 16 |
+| [2005](2005.md) | 29 |
+
+</details>
+
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|

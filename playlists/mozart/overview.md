@@ -129,12 +129,19 @@
 
 ![Bar chart of number of songs by year](../../images/playlists/mozart/years.png)
 
+
+<details>
+<summary>View all years</summary>
+
 | Year | Number of Tracks |
-|---:|---:|
-| 1981 | 6 |
-| 1986 | 3 |
+|:---|---:|
+| [2020](2020.md) | 135 |
 | 2017 | 4 |
-| 2020 | 135 |
+| 1986 | 3 |
+| 1981 | 6 |
+
+</details>
+
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
