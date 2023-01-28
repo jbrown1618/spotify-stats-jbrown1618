@@ -200,7 +200,7 @@
 
 
 <details>
-<summary>See all 62 labels</summary>
+<summary>See all 61 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -210,11 +210,11 @@
 | 24 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md) |
 | 23 | [Interscope Records](../labels/interscope_records.md) |
 | 18 | [Universal Music LLC](../labels/universal_music_llc.md) |
+| 16 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
 | 16 | [Starship Entertainment](../labels/starship_entertainment.md) |
-| 15 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
+| 13 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
 | 12 | [RBW Inc.](../labels/rbw_inc_.md) |
 | 12 | [JYP Entertainment](../labels/jyp_entertainment.md) |
-| 12 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
 | 11 | [High Up Entertainment](../labels/high_up_entertainment.md) |
 | 10 | [DREAMCATCHER COMPANY](../labels/dreamcatcher_company.md) |
 | 7 | WM Entertainment |
@@ -254,7 +254,6 @@
 | 1 | IST ENTERTAINMENT |
 | 1 | IOK COMPANY |
 | 1 | HAPPYTRIBE ENTERTAINMENT |
-| 1 | Genie Music Corporation;Stone Music Entertainment |
 | 1 | GU Music |
 | 1 | FNC W |
 | 1 | DUBLEKICK COMPANY |

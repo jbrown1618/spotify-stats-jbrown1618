@@ -30,10 +30,9 @@
 | Number of Tracks | Label |
 |---:|:---|
 | 10 | [YG Entertainment](../labels/yg_entertainment.md) |
-| 6 | Genie Music Corporation;Stone Music Entertainment |
-| 1 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
+| 7 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
+| 7 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
 | 1 | [PLEDIS Entertainment](../labels/pledis_entertainment.md) |
-| 1 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
 | 1 | CJ E&M MUSIC |
 | 1 | AOMG |
 
@@ -59,10 +58,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1db30cc6d74a08a5e14274" alt="" width="50" /> | NO WAY | 24℃ | [LeeHi](leehi.md), G.Soul | [YG Entertainment](../labels/yg_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/0jA0TihvVbPHgrIcHbW1Og) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="" width="50" /> | HOLO | HOLO | [LeeHi](leehi.md) | [Genie Music Corporation](../labels/genie_music_corporation.md), [Stone Music Entertainment](../labels/stone_music_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/4BSluGpjdLQihMmKgHXMxp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a8c4052083fb4e80d1819445" alt="" width="50" /> | For You | For You | [LeeHi](leehi.md), Crush | AOMG | 💚 | [🔗](https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | Bye | 4 ONLY | [LeeHi](leehi.md) | Genie Music Corporation;Stone Music Entertainment | 💚 | [🔗](https://open.spotify.com/track/6ye2BBTpOipvPNjSPxgmRC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | Intentions | 4 ONLY | [LeeHi](leehi.md) | Genie Music Corporation;Stone Music Entertainment | 💚 | [🔗](https://open.spotify.com/track/7IN84szmayzO68enmVmKYv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | ONLY | 4 ONLY | [LeeHi](leehi.md) | Genie Music Corporation;Stone Music Entertainment | 💚 | [🔗](https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | Red Lipstick (feat. Yoonmirae) | 4 ONLY | [LeeHi](leehi.md), Yoon Mirae | Genie Music Corporation;Stone Music Entertainment | 💚 | [🔗](https://open.spotify.com/track/7nJc2Oxfn7xRX3eF4hltyl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | Savior (feat. B.I) | 4 ONLY | [LeeHi](leehi.md), B.I | Genie Music Corporation;Stone Music Entertainment | 💚 | [🔗](https://open.spotify.com/track/0DYvTdqBqW6erA1a7pFzVo) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | Waterride | 4 ONLY | [LeeHi](leehi.md) | Genie Music Corporation;Stone Music Entertainment | 💚 | [🔗](https://open.spotify.com/track/7JXNH2xnA23vsGasejVfWr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | Bye | 4 ONLY | [LeeHi](leehi.md) | [Genie Music Corporation](../labels/genie_music_corporation.md), [Stone Music Entertainment](../labels/stone_music_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/6ye2BBTpOipvPNjSPxgmRC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | Intentions | 4 ONLY | [LeeHi](leehi.md) | [Genie Music Corporation](../labels/genie_music_corporation.md), [Stone Music Entertainment](../labels/stone_music_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/7IN84szmayzO68enmVmKYv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | ONLY | 4 ONLY | [LeeHi](leehi.md) | [Genie Music Corporation](../labels/genie_music_corporation.md), [Stone Music Entertainment](../labels/stone_music_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | Red Lipstick (feat. Yoonmirae) | 4 ONLY | [LeeHi](leehi.md), Yoon Mirae | [Genie Music Corporation](../labels/genie_music_corporation.md), [Stone Music Entertainment](../labels/stone_music_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/7nJc2Oxfn7xRX3eF4hltyl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | Savior (feat. B.I) | 4 ONLY | [LeeHi](leehi.md), B.I | [Genie Music Corporation](../labels/genie_music_corporation.md), [Stone Music Entertainment](../labels/stone_music_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/0DYvTdqBqW6erA1a7pFzVo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | Waterride | 4 ONLY | [LeeHi](leehi.md) | [Genie Music Corporation](../labels/genie_music_corporation.md), [Stone Music Entertainment](../labels/stone_music_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/7JXNH2xnA23vsGasejVfWr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a40f1624faabce03d3eabbb" alt="" width="50" /> | Bittersweet (feat. LeeHi) | Bittersweet (feat. LeeHi) | WONWOO, MINGYU, [LeeHi](leehi.md) | [PLEDIS Entertainment](../labels/pledis_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/347PJwH4XqRbeaKaIW9sX3) |

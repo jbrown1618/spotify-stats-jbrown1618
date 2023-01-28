@@ -244,8 +244,8 @@
 | 213 | [SM Entertainment](../labels/sm_entertainment.md) |
 | 85 | [Republic Records](../labels/republic_records.md) |
 | 64 | [YG Entertainment](../labels/yg_entertainment.md) |
-| 48 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
-| 44 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
+| 55 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
+| 51 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
 | 36 | [BIGHIT MUSIC](../labels/bighit_music.md) |
 | 34 | [Universal Music LLC](../labels/universal_music_llc.md) |
 | 33 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md) |
@@ -264,7 +264,6 @@
 | 9 | FNC ENTERTAINMENT |
 | 8 | WM Entertainment |
 | 8 | KQ Entertainment |
-| 7 | Genie Music Corporation;Stone Music Entertainment |
 | 7 | EDAM Entertainment |
 | 6 | ADOR |
 | 5 | avex trax |
@@ -341,6 +340,7 @@
 | 1 | FLEX M |
 | 1 | DUBLEKICK COMPANY |
 | 1 | DCTOM |
+| 1 | [Columbia](../labels/columbia.md) |
 
 </details>
 

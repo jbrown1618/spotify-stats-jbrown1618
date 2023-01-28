@@ -248,8 +248,8 @@
 | 219 | [SM Entertainment](../../labels/sm_entertainment.md) |
 | 104 | [Republic Records](../../labels/republic_records.md) |
 | 65 | [YG Entertainment](../../labels/yg_entertainment.md) |
-| 56 | [Genie Music Corporation](../../labels/genie_music_corporation.md) |
-| 48 | [Stone Music Entertainment](../../labels/stone_music_entertainment.md) |
+| 63 | [Genie Music Corporation](../../labels/genie_music_corporation.md) |
+| 55 | [Stone Music Entertainment](../../labels/stone_music_entertainment.md) |
 | 39 | [BIGHIT MUSIC](../../labels/bighit_music.md) |
 | 33 | [Interscope Records](../../labels/interscope_records.md) |
 | 32 | [Universal Music LLC](../../labels/universal_music_llc.md) |
@@ -272,7 +272,6 @@
 | 9 | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company.md) |
 | 8 | KQ Entertainment |
 | 8 | 88rising Music |
-| 7 | Genie Music Corporation;Stone Music Entertainment |
 | 7 | EDAM Entertainment |
 | 6 | ADOR |
 | 5 | avex trax |
@@ -345,6 +344,7 @@
 | 1 | Universal Music Group International |
 | 1 | [UME - Global Clearing House](../../labels/ume___global_clearing_house.md) |
 | 1 | Think Ent. |
+| 1 | TOON STUDIO |
 
 </details>
 

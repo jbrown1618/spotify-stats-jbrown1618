@@ -250,9 +250,9 @@
 | 54 | [Columbia](../../labels/columbia.md) |
 | 48 | [Warner Records](../../labels/warner_records.md) |
 | 44 | [Universal Music LLC](../../labels/universal_music_llc.md) |
+| 44 | [Genie Music Corporation](../../labels/genie_music_corporation.md) |
 | 43 | [RCA Records Label](../../labels/rca_records_label.md) |
-| 37 | [Genie Music Corporation](../../labels/genie_music_corporation.md) |
-| 35 | [Stone Music Entertainment](../../labels/stone_music_entertainment.md) |
+| 42 | [Stone Music Entertainment](../../labels/stone_music_entertainment.md) |
 | 28 | [BIGHIT MUSIC](../../labels/bighit_music.md) |
 | 26 | [Atlantic Records](../../labels/atlantic_records.md) |
 | 25 | [RBW Inc.](../../labels/rbw_inc_.md) |
@@ -287,7 +287,6 @@
 | 7 | [WM Korea](../../labels/wm_korea.md) |
 | 7 | [MOTOWN](../../labels/motown.md) |
 | 7 | KQ Entertainment |
-| 7 | Genie Music Corporation;Stone Music Entertainment |
 | 7 | FNC ENTERTAINMENT |
 | 7 | [Def Jam Recordings](../../labels/def_jam_recordings.md) |
 | 7 | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company.md) |
@@ -342,6 +341,7 @@
 | 3 | Casablanca Records |
 | 3 | Canvasback |
 | 3 | Brute |
+| 3 | Beaute |
 
 </details>
 

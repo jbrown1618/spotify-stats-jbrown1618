@@ -227,7 +227,7 @@
 
 
 <details>
-<summary>See all 53 labels</summary>
+<summary>See all 52 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -236,12 +236,12 @@
 | 18 | [Republic Records](../../labels/republic_records.md) |
 | 11 | [Interscope Records](../../labels/interscope_records.md) |
 | 9 | [BELIFT LAB](../../labels/belift_lab.md) |
+| 8 | [Stone Music Entertainment](../../labels/stone_music_entertainment.md) |
 | 7 | [Universal Music LLC](../../labels/universal_music_llc.md) |
-| 7 | [Stone Music Entertainment](../../labels/stone_music_entertainment.md) |
 | 7 | [RBW Inc.](../../labels/rbw_inc_.md) |
+| 7 | [Genie Music Corporation](../../labels/genie_music_corporation.md) |
 | 7 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment.md) |
 | 6 | [JYP Entertainment](../../labels/jyp_entertainment.md) |
-| 6 | [Genie Music Corporation](../../labels/genie_music_corporation.md) |
 | 5 | [SOURCE MUSIC](../../labels/source_music.md) |
 | 5 | [BIGHIT MUSIC](../../labels/bighit_music.md) |
 | 4 | [PLEDIS Entertainment](../../labels/pledis_entertainment.md) |
@@ -276,7 +276,6 @@
 | 1 | MYSTIC ENTERTAINMENT |
 | 1 | Imperial Distribution |
 | 1 | Hwa&Dam pictures |
-| 1 | Genie Music Corporation;Stone Music Entertainment |
 | 1 | Feel Ghood Music |
 | 1 | FNC ENTERTAINMENT |
 | 1 | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company.md) |

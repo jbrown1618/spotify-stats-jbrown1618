@@ -260,10 +260,11 @@
 | 10 | [Syco Music](../labels/syco_music.md) |
 | 10 | [Darkroom](../labels/darkroom.md) |
 | 9 | [Jive](../labels/jive.md) |
+| 8 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
 | 8 | Monkey Puzzle Records |
+| 8 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
 | 6 | [XL Recordings](../labels/xl_recordings.md) |
 | 6 | Parkwood Entertainment |
-| 6 | Genie Music Corporation;Stone Music Entertainment |
 | 6 | Atlantic Records UK |
 | 5 | Music World Music |
 | 5 | Kemosabe Records |
@@ -281,7 +282,6 @@
 | 3 | Casablanca Records |
 | 3 | Arista Nashville |
 | 2 | Wondaland |
-| 2 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
 | 2 | RBMG |
 | 2 | Phonogenic |
 | 2 | Nicki Minaj |
@@ -293,7 +293,6 @@
 | 2 | KSR |
 | 2 | [Hollywood Records](../labels/hollywood_records.md) |
 | 2 | Golden Child Recordings |
-| 2 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
 | 2 | G.O.O.D. Music |
 | 2 | EMI |
 | 2 | Def Jam |
@@ -341,6 +340,7 @@
 | 1 | EMI Recorded Music Australia Pty Ltd |
 | 1 | Disruptor Records |
 | 1 | Def Soul |
+| 1 | [Decca (UMO)](../labels/decca__umo_.md) |
 
 </details>
 
