@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1411 songs](tracks.md)
+[1412 songs](tracks.md)
 
 ## Top Artists
 
@@ -102,6 +102,7 @@
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5ebfa980b99bc5f4d47b4253f82" alt="" width="50" /> | j-hope | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb288ac05481cedc5bddb5b11b" alt="" width="50" /> | Maroon 5 | [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb5b1a291b0a6a689091d54d8b" alt="" width="50" /> | IVE | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
+| 4 | <img src="https://i.scdn.co/image/ab6761610000e5eba6b0d348c125a072e5284b3e" alt="" width="50" /> | IZ*ONE | [🔗](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb767815f4876969e8f888f0db" alt="" width="50" /> | The Rose | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
 | 4 | <img src="https://i.scdn.co/image/15b7ee7550ed4472700d573803ff90f2967f84d1" alt="" width="50" /> | A Fine Frenzy | [🔗](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0b4c8d0a415cab50e033129" alt="" width="50" /> | Solar | [🔗](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) |
@@ -113,7 +114,6 @@
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e7e6ded87a4e0f65b5afcec" alt="" width="50" /> | Britney Spears | [🔗](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb271110d977700b69d9548993" alt="" width="50" /> | EXID | [🔗](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | Justin Bieber | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
-| 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | Muse | [🔗](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) |
 
 </details>
 
@@ -246,12 +246,12 @@
 | 86 | [Republic Records](../../labels/republic_records.md) |
 | 61 | [Epic](../../labels/epic.md) |
 | 58 | [Interscope Records](../../labels/interscope_records.md) |
+| 55 | [YG Entertainment](../../labels/yg_entertainment.md) |
 | 54 | [Columbia](../../labels/columbia.md) |
-| 51 | [YG Entertainment](../../labels/yg_entertainment.md) |
 | 48 | [Warner Records](../../labels/warner_records.md) |
 | 44 | [Universal Music LLC](../../labels/universal_music_llc.md) |
 | 43 | [RCA Records Label](../../labels/rca_records_label.md) |
-| 36 | [Genie Music Corporation](../../labels/genie_music_corporation.md) |
+| 37 | [Genie Music Corporation](../../labels/genie_music_corporation.md) |
 | 35 | [Stone Music Entertainment](../../labels/stone_music_entertainment.md) |
 | 28 | [BIGHIT MUSIC](../../labels/bighit_music.md) |
 | 26 | [Atlantic Records](../../labels/atlantic_records.md) |
@@ -320,7 +320,6 @@
 | 4 | ATL |
 | 4 | ADA France |
 | 4 | A&M |
-| 4 | 2018 YG Entertainment |
 | 3 | avex trax |
 | 3 | WM Japan |
 | 3 | Universal (MT) |
@@ -342,6 +341,7 @@
 | 3 | Fave Entertainment |
 | 3 | Casablanca Records |
 | 3 | Canvasback |
+| 3 | Brute |
 
 </details>
 
@@ -356,9 +356,9 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 615 | [k-pop](../../genres/k_pop.md) |
+| 616 | [k-pop](../../genres/k_pop.md) |
 | 362 | [pop](../../genres/pop.md) |
-| 294 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
+| 295 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 162 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
 | 159 | [dance pop](../../genres/dance_pop.md) |
 | 100 | [rock](../../genres/rock.md) |
@@ -517,7 +517,7 @@
 | 2015 | 55 |
 | 2016 | 70 |
 | 2017 | 67 |
-| 2018 | 80 |
+| 2018 | 81 |
 | 2019 | 113 |
 | 2020 | 136 |
 | 2021 | 176 |
@@ -592,7 +592,7 @@
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Digital Love | POP! |
+| Digital Love | Bunny |
 | だいじょばない | Scream |
 | Animals | If I Ever Fall In Love (feat. Jason Derulo) |
 | Street Spirit (Fade Out) | Locked out of Heaven |
@@ -627,4 +627,4 @@
 | Pepe | Crystallize |
 | SexyBack (feat. Timbaland) | Lose Yourself |
 | Mercy | Falling |
-| チョコレイト・ディスコ | Yellow Flicker Beat |
+| Miniskirt | Yellow Flicker Beat |

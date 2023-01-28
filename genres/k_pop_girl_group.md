@@ -200,13 +200,13 @@
 
 
 <details>
-<summary>See all 63 labels</summary>
+<summary>See all 62 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
 | 84 | [SM Entertainment](../labels/sm_entertainment.md) |
 | 64 | [Republic Records](../labels/republic_records.md) |
-| 25 | [YG Entertainment](../labels/yg_entertainment.md) |
+| 29 | [YG Entertainment](../labels/yg_entertainment.md) |
 | 24 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md) |
 | 23 | [Interscope Records](../labels/interscope_records.md) |
 | 18 | [Universal Music LLC](../labels/universal_music_llc.md) |
@@ -225,7 +225,6 @@
 | 4 | avex trax |
 | 4 | WM Japan |
 | 4 | BlockBerryCreative |
-| 4 | 2018 YG Entertainment |
 | 3 | 해피트라이브엔터테인먼트 |
 | 3 | 올라트엔터테인먼트 |
 | 3 | 마이돌엔터테인먼트 |

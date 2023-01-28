@@ -291,6 +291,7 @@
 | 2 | G.O.O.D. Music |
 | 2 | Elektra (NEK) |
 | 2 | Elektra |
+| 2 | Def Jam |
 | 2 | Cash Money |
 | 2 | Artist Partner |
 | 2 | ATG |
@@ -344,7 +345,6 @@
 | 1 | Epic Amsterdam |
 | 1 | EMPIRE |
 | 1 | EMI Recorded Music Australia Pty Ltd |
-| 1 | Downtown Recordings |
 
 </details>
 

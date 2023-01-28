@@ -247,7 +247,7 @@
 |---:|:---|
 | 219 | [SM Entertainment](../../labels/sm_entertainment.md) |
 | 104 | [Republic Records](../../labels/republic_records.md) |
-| 61 | [YG Entertainment](../../labels/yg_entertainment.md) |
+| 65 | [YG Entertainment](../../labels/yg_entertainment.md) |
 | 56 | [Genie Music Corporation](../../labels/genie_music_corporation.md) |
 | 48 | [Stone Music Entertainment](../../labels/stone_music_entertainment.md) |
 | 39 | [BIGHIT MUSIC](../../labels/bighit_music.md) |
@@ -285,7 +285,6 @@
 | 4 | Hwa&Dam pictures |
 | 4 | Fave Entertainment |
 | 4 | BlockBerryCreative |
-| 4 | 2018 YG Entertainment |
 | 3 | 마이돌엔터테인먼트 |
 | 3 | TEAM WANG records |
 | 3 | SWING ENTERTAINMENT |
@@ -345,6 +344,7 @@
 | 1 | Universal Republic Records |
 | 1 | Universal Music Group International |
 | 1 | [UME - Global Clearing House](../../labels/ume___global_clearing_house.md) |
+| 1 | Think Ent. |
 
 </details>
 

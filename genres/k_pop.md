@@ -1,6 +1,6 @@
 # k-pop
 
-[839 songs](k_pop_tracks.md)
+[840 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -243,12 +243,12 @@
 |---:|:---|
 | 213 | [SM Entertainment](../labels/sm_entertainment.md) |
 | 85 | [Republic Records](../labels/republic_records.md) |
-| 60 | [YG Entertainment](../labels/yg_entertainment.md) |
+| 64 | [YG Entertainment](../labels/yg_entertainment.md) |
 | 48 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
 | 44 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
 | 36 | [BIGHIT MUSIC](../labels/bighit_music.md) |
 | 34 | [Universal Music LLC](../labels/universal_music_llc.md) |
-| 32 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md) |
+| 33 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md) |
 | 31 | [RBW Inc.](../labels/rbw_inc_.md) |
 | 31 | [Interscope Records](../labels/interscope_records.md) |
 | 18 | [PLEDIS Entertainment](../labels/pledis_entertainment.md) |
@@ -276,7 +276,6 @@
 | 4 | Fave Entertainment |
 | 4 | BlockBerryCreative |
 | 4 | 88rising Music |
-| 4 | 2018 YG Entertainment |
 | 3 | 해피트라이브엔터테인먼트 |
 | 3 | 올라트엔터테인먼트 |
 | 3 | SWING ENTERTAINMENT |
@@ -341,6 +340,7 @@
 | 1 | FNC W |
 | 1 | FLEX M |
 | 1 | DUBLEKICK COMPANY |
+| 1 | DCTOM |
 
 </details>
 
@@ -357,15 +357,15 @@
 | Weather | Epilogue |
 | BOOM | Clockwork |
 | Mr. Simple | MY LOVE |
-| 1, 2, 3, 4 | CHEESE |
-| That That (prod. & feat. SUGA of BTS) | HWAA |
+| That That (prod. & feat. SUGA of BTS) | CHEESE |
+| 1, 2, 3, 4 | HWAA |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
 | War of Hormone | i hate to admit (Bang Chan) |
 | RING X RING | Deep end (Felix) |
-| Hit That Drum | miss you (Hyunjin) |
-| Misfit | Winter Sleep |
+| Misfit | miss you (Hyunjin) |
+| Hit That Drum | Winter Sleep |
 | MIROH | How can I love the heartbreak, you're the one I love |
 | Side Effects | BREATHE |
 | 소방차 Fire Truck | Boy in time - HUI Solo |
@@ -375,13 +375,13 @@
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| No More Dream | She′s In The Rain |
-| Addicted | Slightly Tipsy (She is My Type♡ X SANDEUL) |
+| No More Dream | Slightly Tipsy (She is My Type♡ X SANDEUL) |
+| Addicted | She′s In The Rain |
 | MANIAC | Moonlight Melody |
 | Freedom | Wicked |
 | I GOT IT (HAN) | Winter Sleep |
-| Ice Cream (with Selena Gomez) | Hope Not |
-| Feelin' Like | Gee |
+| Ice Cream (with Selena Gomez) | Gee |
+| Feelin' Like | Hope Not |
 | VENOM | NANANA |
 | Signal | YOUNG LUV |
 | BBIBBI | LOVE FOOL |
@@ -433,7 +433,7 @@
 | Pepe | Good Night My Princess |
 | So Hot | Side Effects |
 | Miniskirt | In The Fall |
-| Twinkle | My sea |
-| 쏘리 쏘리 Sorry, Sorry | Time After Time |
-| Some (feat. Lil Boi) | U |
-| Give it to me | ONLY |
+| 쏘리 쏘리 Sorry, Sorry | My sea |
+| Twinkle | Time After Time |
+| Lion Heart | U |
+| Some (feat. Lil Boi) | ONLY |

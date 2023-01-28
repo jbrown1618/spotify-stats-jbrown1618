@@ -227,13 +227,13 @@
 
 
 <details>
-<summary>See all 54 labels</summary>
+<summary>See all 53 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
 | 60 | [SM Entertainment](../../labels/sm_entertainment.md) |
+| 18 | [YG Entertainment](../../labels/yg_entertainment.md) |
 | 18 | [Republic Records](../../labels/republic_records.md) |
-| 17 | [YG Entertainment](../../labels/yg_entertainment.md) |
 | 11 | [Interscope Records](../../labels/interscope_records.md) |
 | 9 | [BELIFT LAB](../../labels/belift_lab.md) |
 | 7 | [Universal Music LLC](../../labels/universal_music_llc.md) |
@@ -284,7 +284,6 @@
 | 1 | ChoongangICS |
 | 1 | BlockBerryCreative |
 | 1 | Abyss Company |
-| 1 | 2018 YG Entertainment |
 
 </details>
 
