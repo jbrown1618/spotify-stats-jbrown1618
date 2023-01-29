@@ -161,10 +161,10 @@
 | 17 | [mellow gold](../../genres/mellow_gold.md) |
 | 12 | motown |
 | 12 | [adult standards](../../genres/adult_standards.md) |
-| 11 | [pop](../../genres/pop.md) |
 | 9 | funk |
 | 9 | [folk rock](../../genres/folk_rock.md) |
 | 8 | [r&b](../../genres/r_b.md) |
+| 8 | [pop](../../genres/pop.md) |
 | 8 | folk |
 | 8 | [classic rock](../../genres/classic_rock.md) |
 | 7 | [rock](../../genres/rock.md) |

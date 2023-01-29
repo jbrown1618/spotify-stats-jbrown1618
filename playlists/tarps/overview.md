@@ -211,12 +211,12 @@
 
 
 <details>
-<summary>See all 89 genres</summary>
+<summary>See all 88 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 22 | [pop](../../genres/pop.md) |
-| 11 | [dance pop](../../genres/dance_pop.md) |
+| 21 | [pop](../../genres/pop.md) |
+| 12 | [dance pop](../../genres/dance_pop.md) |
 | 9 | [neo mellow](../../genres/neo_mellow.md) |
 | 7 | [rock](../../genres/rock.md) |
 | 7 | [classic rock](../../genres/classic_rock.md) |
@@ -300,7 +300,6 @@
 | 1 | barbershop |
 | 1 | australian pop |
 | 1 | australian dance |
-| 1 | antiviral pop |
 | 1 | album rock |
 | 1 | [adult standards](../../genres/adult_standards.md) |
 | 1 | [a cappella](../../genres/a_cappella.md) |

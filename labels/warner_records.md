@@ -115,8 +115,8 @@ Appears as:
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 22 | [pop](../genres/pop.md) |
 | 22 | [dance pop](../genres/dance_pop.md) |
+| 19 | [pop](../genres/pop.md) |
 | 16 | [rock](../genres/rock.md) |
 | 13 | nz pop |
 | 13 | [electropop](../genres/electropop.md) |

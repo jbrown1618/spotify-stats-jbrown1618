@@ -1,6 +1,6 @@
 # k-pop girl group
 
-[389 songs](k_pop_girl_group_tracks.md)
+[388 songs](k_pop_girl_group_tracks.md)
 
 ## Top Artists
 
@@ -15,7 +15,7 @@
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
 | 62 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
-| 38 | <img src="https://i.scdn.co/image/ab6761610000e5eb200008f1cb940483514db2bd" alt="" width="50" /> | [TWICE](../artists/twice.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
+| 37 | <img src="https://i.scdn.co/image/ab6761610000e5eb200008f1cb940483514db2bd" alt="" width="50" /> | [TWICE](../artists/twice.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | 37 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../artists/itzy.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 | 33 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | 28 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
@@ -205,7 +205,7 @@
 | Number of Tracks | Label |
 |---:|:---|
 | 84 | [SM Entertainment](../labels/sm_entertainment.md) |
-| 65 | [Republic Records](../labels/republic_records.md) |
+| 64 | [Republic Records](../labels/republic_records.md) |
 | 29 | [YG Entertainment](../labels/yg_entertainment.md) |
 | 24 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md) |
 | 23 | [Interscope Records](../labels/interscope_records.md) |
@@ -281,8 +281,8 @@
 | Time Slip | 7월 7일 One Of These Nights |
 | Louder | Poison |
 | Nobody | Addicted |
-| So Hot | Life's Too Short (English Version) |
-| Pepe | REASON |
+| Pepe | Life's Too Short (English Version) |
+| So Hot | REASON |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -294,8 +294,8 @@
 | Secret | Hurt |
 | Oh! | Moonlight Melody |
 | Mr.Mr. | Where Are We Now |
-| Very Very Very | 7월 7일 One Of These Nights |
-| Panorama | Hello, Sunset |
+| Panorama | 7월 7일 One Of These Nights |
+| Very Very Very | Hello, Sunset |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -318,23 +318,23 @@
 | Hurt | RUN2U |
 | Jazz Bar | DALLA DALLA - English Ver. |
 | ZOOM | LA DI DA |
-| Starry Night | 달라달라 (DALLA DALLA) |
-| Wind flower | SWIPE |
+| Wind flower | 달라달라 (DALLA DALLA) |
+| Starry Night | SWIPE |
 | Moonlight Melody | Up & Down |
 | The Happiest Girl | Pirate |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | You and I (Park Bom) | HANN (Alone in winter) |
-| Adios | Villain |
-| YEPPI YEPPI | Marionette |
-| So Hot | WILDSIDE |
-| I Am The Best | Bewitched - Eng Ver. |
-| Power Up | Rookie |
-| BBoom BBoom | #Cookie Jar |
-| In My Dreams | Oh Boy |
-| BAAM | Bewitched |
-| Star | Addicted |
+| Adios | Marionette |
+| YEPPI YEPPI | WILDSIDE |
+| So Hot | Bewitched - Eng Ver. |
+| I Am The Best | Rookie |
+| Power Up | #Cookie Jar |
+| BBoom BBoom | Oh Boy |
+| In My Dreams | Bewitched |
+| BAAM | Addicted |
+| Star | Be Natural |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -344,19 +344,19 @@
 | I Like That | Ice Cream (with Selena Gomez) |
 | Vibrato | DARK (X-file) |
 | 행복 (Happiness) | BLACK DRESS |
-| Genie | Red Light |
-| LP | Wings |
+| LP | Red Light |
+| Genie | Wings |
 | STEREOTYPE | I’m So Hot |
 | 5th Season (SSFWL) | ELEVEN |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Pepe | 7월 7일 One Of These Nights |
-| So Hot | Lucid Dream |
-| Miniskirt | Body Talk |
+| Miniskirt | Lucid Dream |
+| So Hot | Body Talk |
 | Twinkle | In My Dreams |
-| Lion Heart | Hope Not |
-| Give it to me | Ditto |
+| Give it to me | Hope Not |
+| Lion Heart | Ditto |
 | 러시안 룰렛 Russian Roulette | LION |
 | Nobody | POSE |
 | Really | MORE |

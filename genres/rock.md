@@ -1,6 +1,6 @@
 # rock
 
-[149 songs](rock_tracks.md)
+[147 songs](rock_tracks.md)
 
 ## Top Artists
 
@@ -10,7 +10,7 @@
 
 
 <details>
-<summary>See all 38 artists</summary>
+<summary>See all 37 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -37,7 +37,6 @@
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebe924bdfec5ce73220c15cd25" alt="" width="50" /> | Kansas | [🔗](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb1f764c8f69b595efe77e1c45" alt="" width="50" /> | Paul Simon | [🔗](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd3cb15a8570cce5a63af63d8" alt="" width="50" /> | The Rolling Stones | [🔗](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf84fe9e6fbb2aa001d6cbbd9" alt="" width="50" /> | Mastodon | [🔗](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb0767e116a2307495e37cd7fb" alt="" width="50" /> | Eagles | [🔗](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc4c77549095c86acb4e77b37" alt="" width="50" /> | AC/DC | [🔗](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc52c8e309e46aa8430a0fa0" alt="" width="50" /> | Iron Maiden | [🔗](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) |
@@ -61,7 +60,7 @@
 
 
 <details>
-<summary>See all 97 albums</summary>
+<summary>See all 95 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -129,7 +128,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732f85b65d3ac4d3d7f806ca11" alt="" width="50" /> | Pablo Honey | 1993-02-22 | [🔗](https://open.spotify.com/album/6400dnyeDyD2mIFHfkwHXN) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="" width="50" /> | Out Of Our Heads | 1965-07-30 | [🔗](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a9e6856251d6c4b13167924a" alt="" width="50" /> | Origin of Symmetry | 2001 | [🔗](https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736faddf21400e22f617bcd2e4" alt="" width="50" /> | Once More 'Round the Sun | 2014-06-20 | [🔗](https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" alt="" width="50" /> | Night Visions | 2012-09-04 | [🔗](https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9" alt="" width="50" /> | My Generation (Stereo Version) | 1965-12-03 | [🔗](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273360a1ae790aa71a0aac4983e" alt="" width="50" /> | More of The Monkees (Deluxe Edition) | 1967-01-09 | [🔗](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) |
@@ -137,7 +135,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f22514855a9a8356664340fb" alt="" width="50" /> | Moondance (Deluxe Edition) | 1970-02 | [🔗](https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="" width="50" /> | Mellon Collie And The Infinite Sadness (Deluxe Edition) | 1995 | [🔗](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273bc9b44e950d5440ff65ea926" alt="" width="50" /> | Machine Head | 1972-03-25 | [🔗](https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27300388d66c87c2c0033849bfd" alt="" width="50" /> | Leviathan | 2004-08-31 | [🔗](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731be40e44db112e123e5e8b51" alt="" width="50" /> | Leftoverture (Expanded Edition) | 1976 | [🔗](https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb" alt="" width="50" /> | Led Zeppelin III (Remaster) | 1970 | [🔗](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27350dcdcb73b5bbff6d3136131" alt="" width="50" /> | Innuendo | 1991-02-04 | [🔗](https://open.spotify.com/album/5yAM3CcaXF6DPRJW3oL6Ya) |
@@ -172,7 +169,7 @@
 
 
 <details>
-<summary>See all 35 labels</summary>
+<summary>See all 33 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -204,8 +201,6 @@
 | 1 | Sanctuary Records |
 | 1 | Roadrunner Records |
 | 1 | Rhino Atlantic |
-| 1 | [Reprise](../labels/reprise.md) |
-| 1 | Relapse Records |
 | 1 | Mercury Records |
 | 1 | Guns N Roses P&D |
 | 1 | Elektra (NEK) |
@@ -232,16 +227,16 @@
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| The Motherload | And So It Goes |
-| We Didn't Start the Fire | The Boxer |
-| Knights of Cydonia | And So It Goes |
-| Sweet Child O' Mine | Blackbird - Remastered 2009 |
-| Uptown Girl | She's Got a Way |
-| Go Your Own Way - 2004 Remaster | Golden Slumbers - Remastered 2009 |
-| Blood and Thunder | Lullabye (Goodnight, My Angel) |
-| Any Way You Want It | Hurt |
-| Immigrant Song - Remaster | Landslide |
-| Scenes from an Italian Restaurant | So Far Away |
+| We Didn't Start the Fire | And So It Goes |
+| Knights of Cydonia | The Boxer |
+| Sweet Child O' Mine | And So It Goes |
+| Uptown Girl | Blackbird - Remastered 2009 |
+| Go Your Own Way - 2004 Remaster | She's Got a Way |
+| Any Way You Want It | Golden Slumbers - Remastered 2009 |
+| Immigrant Song - Remaster | Lullabye (Goodnight, My Angel) |
+| Scenes from an Italian Restaurant | Hurt |
+| Everybody Talks | Landslide |
+| Supermassive Black Hole | So Far Away |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -258,42 +253,42 @@
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| She's Got a Way | The Motherload |
-| Lullabye (Goodnight, My Angel) | Blood and Thunder |
-| Desperado - 2013 Remaster | Paranoid - 2012 - Remaster |
-| And So It Goes | Knights of Cydonia |
-| Eleanor Rigby - Remastered 2009 | Enter Sandman |
-| The Boxer | Any Way You Want It |
-| And So It Goes | Hard To Handle |
-| So Far Away | Everybody Talks |
-| Landslide | Carry on Wayward Son |
-| Yesterday - Remastered 2009 | Iron Man |
+| She's Got a Way | Paranoid - 2012 - Remaster |
+| Lullabye (Goodnight, My Angel) | Knights of Cydonia |
+| Desperado - 2013 Remaster | Enter Sandman |
+| And So It Goes | Any Way You Want It |
+| Eleanor Rigby - Remastered 2009 | Hard To Handle |
+| The Boxer | Everybody Talks |
+| And So It Goes | Carry on Wayward Son |
+| So Far Away | Iron Man |
+| Landslide | Animals |
+| Yesterday - Remastered 2009 | Hotel California - 2013 Remaster |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Animals | Cold as Ice |
-| Weird Fishes/ Arpeggi | Believer |
-| Blood and Thunder | Brown Eyed Girl |
-| Street Spirit (Fade Out) | Pinball Wizard |
-| 1979 - Remastered 2012 | We Didn't Start the Fire |
-| Smoke on the Water | And So It Goes |
-| Pyramid Song | Only the Good Die Young |
-| Come Together - Remastered 2009 | Save Me |
-| Won't Get Fooled Again - Remix | A Hard Day's Night - Remastered 2009 |
-| I Want You (She's So Heavy) - Remastered 2009 | All My Loving - Remastered 2009 |
+| Weird Fishes/ Arpeggi | And So It Goes |
+| Street Spirit (Fade Out) | We Will Rock You |
+| 1979 - Remastered 2012 | Yellow Submarine - Remastered 2009 |
+| Smoke on the Water | All My Loving - Remastered 2009 |
+| Pyramid Song | A Hard Day's Night - Remastered 2009 |
+| Come Together - Remastered 2009 | Yesterday - Remastered 2009 |
+| Won't Get Fooled Again - Remix | Only the Good Die Young |
+| I Want You (She's So Heavy) - Remastered 2009 | Believer |
+| Baba O'Riley | The Sound of Silence - Acoustic Version |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| Animals | Blood and Thunder |
-| Radioactive | Iron Man |
-| Revolution 1 - Remastered 2009 | The Chain - 2004 Remaster |
-| Get Back - Remastered 2009 | 1979 - Remastered 2012 |
-| Uptown Girl | I Feel the Earth Move |
-| I Am The Walrus - Remastered 2009 | Smoke on the Water |
-| Don't Stop Me Now | Paranoid Android |
-| Don't Stop Believin' | My Life |
-| Carry on Wayward Son | Blackbird - Remastered 2009 |
-| Yellow Submarine - Remastered 2009 | Hotel California - 2013 Remaster |
+| Animals | Iron Man |
+| Radioactive | The Chain - 2004 Remaster |
+| Revolution 1 - Remastered 2009 | 1979 - Remastered 2012 |
+| Get Back - Remastered 2009 | I Feel the Earth Move |
+| Uptown Girl | Smoke on the Water |
+| I Am The Walrus - Remastered 2009 | Paranoid Android |
+| Don't Stop Me Now | My Life |
+| Don't Stop Believin' | Blackbird - Remastered 2009 |
+| Carry on Wayward Son | Hotel California - 2013 Remaster |
+| Yellow Submarine - Remastered 2009 | Won't Get Fooled Again - Remix |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
@@ -304,6 +299,6 @@
 | (I Can't Get No) Satisfaction - Mono Version | No Surprises |
 | Brown Eyed Girl | Street Spirit (Fade Out) |
 | All My Loving - Remastered 2009 | Fake Plastic Trees |
-| Movin' Out (Anthony's Song) | Come Sail Away |
-| We Didn't Start the Fire | Baba O'Riley |
+| We Didn't Start the Fire | Come Sail Away |
+| Movin' Out (Anthony's Song) | Baba O'Riley |
 | Walk This Way | Because - Remastered 2009 |

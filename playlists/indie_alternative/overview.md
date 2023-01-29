@@ -312,6 +312,7 @@
 | 61 | [pop](../../genres/pop.md) |
 | 25 | indie pop |
 | 23 | [rock](../../genres/rock.md) |
+| 22 | [dance pop](../../genres/dance_pop.md) |
 | 20 | modern rock |
 | 20 | [art pop](../../genres/art_pop.md) |
 | 19 | [electropop](../../genres/electropop.md) |
@@ -319,7 +320,6 @@
 | 16 | uk alternative pop |
 | 16 | permanent wave |
 | 14 | indie rock |
-| 14 | [dance pop](../../genres/dance_pop.md) |
 | 13 | nz pop |
 | 13 | [lilith](../../genres/lilith.md) |
 | 13 | bergen indie |

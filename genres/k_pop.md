@@ -1,6 +1,6 @@
 # k-pop
 
-[841 songs](k_pop_tracks.md)
+[840 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -16,7 +16,7 @@
 |---:|:---|:---|:---|
 | 62 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | 46 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
-| 37 | <img src="https://i.scdn.co/image/ab6761610000e5eb200008f1cb940483514db2bd" alt="" width="50" /> | [TWICE](../artists/twice.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
+| 36 | <img src="https://i.scdn.co/image/ab6761610000e5eb200008f1cb940483514db2bd" alt="" width="50" /> | [TWICE](../artists/twice.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | 33 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | 30 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | 28 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
@@ -242,7 +242,7 @@
 | Number of Tracks | Label |
 |---:|:---|
 | 213 | [SM Entertainment](../labels/sm_entertainment.md) |
-| 86 | [Republic Records](../labels/republic_records.md) |
+| 85 | [Republic Records](../labels/republic_records.md) |
 | 64 | [YG Entertainment](../labels/yg_entertainment.md) |
 | 55 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
 | 51 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
@@ -382,8 +382,8 @@
 | I GOT IT (HAN) | Winter Sleep |
 | Ice Cream (with Selena Gomez) | Gee |
 | Feelin' Like | Hope Not |
-| VENOM | YOUNG LUV |
-| Signal | NANANA |
+| VENOM | NANANA |
+| Signal | YOUNG LUV |
 | BBIBBI | LOVE FOOL |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
@@ -422,8 +422,8 @@
 | I Like That | Ice Cream (with Selena Gomez) |
 | Vibrato | Up! |
 | 행복 (Happiness) | Beatbox |
-| LP | Domino |
-| Genie | pporappippam |
+| Genie | Domino |
+| LP | pporappippam |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
@@ -431,9 +431,9 @@
 | Twenty-three | Grey Suit |
 | Devil | 7월 7일 One Of These Nights |
 | Pepe | Good Night My Princess |
-| So Hot | Side Effects |
-| Miniskirt | In The Fall |
-| Twinkle | My sea |
-| 쏘리 쏘리 Sorry, Sorry | Time After Time |
-| Some (feat. Lil Boi) | U |
-| Lion Heart | ONLY |
+| Miniskirt | Side Effects |
+| So Hot | In The Fall |
+| 쏘리 쏘리 Sorry, Sorry | My sea |
+| Twinkle | Time After Time |
+| Lion Heart | U |
+| Give it to me | ONLY |

@@ -61,7 +61,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273387444ab2fc1f08dfe7915ab" alt="" width="50" /> | Twicecoaster: Lane 1 | 2016-10-24 | [🔗](https://open.spotify.com/album/5zQhaDNbiXHRqd8Y51I4vy) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ce17f432c79c5e45ce88688f" alt="" width="50" /> | The Story Begins | 2015-10-20 | [🔗](https://open.spotify.com/album/72WWZVAx6GtSbEeGESwDLo) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738164cd1a2e03b7ca2db9ff5e" alt="" width="50" /> | The Red Summer - Summer Mini Album | 2017-07-09 | [🔗](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273557395cc096cb7b22eff310e" alt="" width="50" /> | The Feels | 2021-10-01 | [🔗](https://open.spotify.com/album/6bk3KlQjiXsRmGrzrNcS53) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736207621becafe079ec6c9185" alt="" width="50" /> | The Dream Chapter: MAGIC | 2019-10-21 | [🔗](https://open.spotify.com/album/5KoR6s906nbO21C9ZPdwTv) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731544041d0285585cc92c2709" alt="" width="50" /> | THE BOYZ 6TH MINI ALBUM [THRILL-ING] | 2021-08-09 | [🔗](https://open.spotify.com/album/0lh0pZ8GjZGrAhzIG4Jn0E) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273c564791fd5ae81ca9da399f4" alt="" width="50" /> | Super Yuppers! | 2022-01-05 | [🔗](https://open.spotify.com/album/5Sh3VW04we2IqNP7BlBwuM) |
@@ -78,6 +77,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Girls - The 2nd Mini Album | 2022-07-08 | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a5bb4ef1ca42f4378d815c7c" alt="" width="50" /> | GREAT! | 2018-01-03 | [🔗](https://open.spotify.com/album/5vt2sEP5J0VNbYXoA7h2k4) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27342b393df3e24a66e5accbf2b" alt="" width="50" /> | Fun to The World | 2018-06-26 | [🔗](https://open.spotify.com/album/75dkh8s39e7txjNe9cODH3) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | Formula of Love: O+T=<3 | 2021-11-12 | [🔗](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27349b81808fcdaeeb55bef59d1" alt="" width="50" /> | Feel Special | 2019-09-23 | [🔗](https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27304d1fa0ab8be50437e6bad1d" alt="" width="50" /> | Dear OHMYGIRL | 2021-05-10 | [🔗](https://open.spotify.com/album/2xfmLni05CCgygcNdtPvuN) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731c1ea5bfa5680ac877acdd55" alt="" width="50" /> | DIMENSION : ANSWER | 2022-01-10 | [🔗](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) |
@@ -151,7 +151,7 @@
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27352db41e897d3a8dc72929208" alt="Yummy Yummy Love" width="50" /> <span style="padding-left:10px;">Yummy Yummy Love (2022-01-14)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ce17f432c79c5e45ce88688f" alt="The Story Begins" width="50" /> <span style="padding-left:10px;">The Story Begins (2015-10-20)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731c1ea5bfa5680ac877acdd55" alt="DIMENSION : ANSWER" width="50" /> <span style="padding-left:10px;">DIMENSION : ANSWER (2022-01-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739e9e3a1adcc32090690fd0b6" alt="Page Two" width="50" /> <span style="padding-left:10px;">Page Two (2016-04-25)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c564791fd5ae81ca9da399f4" alt="Super Yuppers!" width="50" /> <span style="padding-left:10px;">Super Yuppers! (2022-01-05)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273deeee778a591e7032c1bdc80" alt="SEVENTEEN 1ST ALBUM [FIRST ‘LOVE&LETTER’]" width="50" /> <span style="padding-left:10px;">SEVENTEEN 1ST ALBUM [FIRST ‘LOVE&LETTER’] (2016-04-25)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273557395cc096cb7b22eff310e" alt="The Feels" width="50" /> <span style="padding-left:10px;">The Feels (2021-10-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273266f95f6353cb2b974f67fa7" alt="miss me?" width="50" /> <span style="padding-left:10px;">miss me? (2016-10-17)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="Formula of Love: O+T=<3" width="50" /> <span style="padding-left:10px;">Formula of Love: O+T=<3 (2021-11-12)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273266f95f6353cb2b974f67fa7" alt="miss me?" width="50" /> <span style="padding-left:10px;">miss me? (2016-10-17)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731544041d0285585cc92c2709" alt="THE BOYZ 6TH MINI ALBUM [THRILL-ING]" width="50" /> <span style="padding-left:10px;">THE BOYZ 6TH MINI ALBUM [THRILL-ING] (2021-08-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273387444ab2fc1f08dfe7915ab" alt="Twicecoaster: Lane 1" width="50" /> <span style="padding-left:10px;">Twicecoaster: Lane 1 (2016-10-24)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27366ff63bc084fb412aa2dddd3" alt="Hello - Special Album" width="50" /> <span style="padding-left:10px;">Hello - Special Album (2021-05-31)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733c5bfa54ae5e8312f5e0325a" alt="青春修炼手册" width="50" /> <span style="padding-left:10px;">青春修炼手册 (2017-01-01)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27304d1fa0ab8be50437e6bad1d" alt="Dear OHMYGIRL" width="50" /> <span style="padding-left:10px;">Dear OHMYGIRL (2021-05-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d07e49e3e5a8e79903713354" alt="SIGNAL" width="50" /> <span style="padding-left:10px;">SIGNAL (2017-05-15)</span></div> |
@@ -167,8 +167,8 @@
 | The Feels | CHEER UP |
 | Hmph! | Heart Shaker |
 | BBoom BBoom | What is Love |
-| Gee | Not For Sale |
-| FIESTA | Signal |
+| FIESTA | Not For Sale |
+| Gee | Signal |
 | Babyface | Super Yuppers! |
 | Very Very Very | 9 and Three Quarters (Run Away) |
 
@@ -182,8 +182,8 @@
 | BAAM | 9 and Three Quarters (Run Away) |
 | Umpah Umpah | Signal |
 | Power Up | Let Me In (20 CUBE) |
-| Pretty U | Life's Too Short (English Version) |
-| Super Yuppers! | Babyface |
+| Super Yuppers! | Life's Too Short (English Version) |
+| Pretty U | Babyface |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -213,16 +213,16 @@
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Power Up | Super Yuppers! |
-| BBoom BBoom | FIESTA |
-| BAAM | Banana Allergy Monkey |
-| Feel Special | Umpah Umpah |
-| Hmph! | Polaroid Love |
-| Likey | What is Love |
-| TT | Dun Dun Dance |
-| Like Ooh-Ahh | Heart Shaker |
-| YES or YES | Yummy Yummy Love |
-| Very Very Very | Let Me In (20 CUBE) |
+| Power Up | THRILL RIDE |
+| BBoom BBoom | 青春修炼手册 |
+| BAAM | Red Flavor |
+| Feel Special | CHEER UP |
+| Hmph! | Babyface |
+| Likey | FIESTA |
+| TT | Banana Allergy Monkey |
+| Like Ooh-Ahh | Umpah Umpah |
+| YES or YES | Polaroid Love |
+| Very Very Very | What is Love |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|

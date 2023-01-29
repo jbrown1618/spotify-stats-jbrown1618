@@ -1,6 +1,6 @@
 # a cappella
 
-[197 songs](a_cappella_tracks.md)
+[196 songs](a_cappella_tracks.md)
 
 ## Top Artists
 
@@ -10,7 +10,7 @@
 
 
 <details>
-<summary>See all 59 artists</summary>
+<summary>See all 58 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -59,7 +59,6 @@
 | 1 | <img src="nan" alt="" width="50" /> | Gabe Hendifar | [🔗](https://open.spotify.com/artist/3YIBM4yvZHT4lRQa14eHQh) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf3504a2a1d55d7defa6cb2bc" alt="" width="50" /> | Hullabahoos | [🔗](https://open.spotify.com/artist/3S1DEHnGNfWmamdZEyLs8I) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfdafe8faacce33ba647bb2ca" alt="" width="50" /> | Eight Beat Measure | [🔗](https://open.spotify.com/artist/3My1YRLewqqDXME2OkBpdZ) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf96beef384557563963fb7ef" alt="" width="50" /> | The Vassar Devils | [🔗](https://open.spotify.com/artist/31EncJhuSBcAIsZGA3G1GK) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737d920cc55d75078e9dbcc809" alt="" width="50" /> | Elizabeth Wright | [🔗](https://open.spotify.com/artist/2tQ7EzEpu1KFpseMdHGSzL) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd55a2b176b231382b54f5e33" alt="" width="50" /> | Penn Masala | [🔗](https://open.spotify.com/artist/2MhJb1ljKttJewuYZTpXxr) |
 | 1 | <img src="nan" alt="" width="50" /> | Beejul Khatri | [🔗](https://open.spotify.com/artist/24SlCPf92d5VTzhI0ztENn) |
@@ -112,7 +111,6 @@
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273759fbdcd40288d874a398749" alt="" width="50" /> | RISE | 2016-02-09 | [🔗](https://open.spotify.com/album/6V8819n4bdv7dA5mFdCIAo) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2739729d686606e6be27346da30" alt="" width="50" /> | PTX Vol. IV - Classics | 2017-04-07 | [🔗](https://open.spotify.com/album/00JpoY0ZaQRXTNJUruibfX) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273a064dc21b8c8ebedfe4ea833" alt="" width="50" /> | PTX Presents: Top Pop, Vol. I | 2018-04-13 | [🔗](https://open.spotify.com/album/2viOlnLfhPLDgx7hvBqLwW) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b2735f80e04f0ea87267cc80ec46" alt="" width="50" /> | BOCA 2018: Best of College A Cappella | 2018 | [🔗](https://open.spotify.com/album/4F7k4viXqEAIlrB5rbAPbF) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="" width="50" /> | BOCA 2013: Best of College A Cappella | 2016 | [🔗](https://open.spotify.com/album/6Pqey2mc4EWSfYNH3bifbO) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="" width="50" /> | BOCA 2012: Best Of College A Cappella | 2012-01-01 | [🔗](https://open.spotify.com/album/26eCHp86K2xLQj0B7Cr8he) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273da81ceb610e54852e16f0e82" alt="" width="50" /> | BOCA 2011: Best Of College A Cappella | 2011-01-11 | [🔗](https://open.spotify.com/album/27d96rqnXRtmrGBGHJzPBh) |
@@ -128,6 +126,7 @@
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2734b16fad8fb09cff04b362139" alt="" width="50" /> | III | 2012-04-12 | [🔗](https://open.spotify.com/album/3iFvXj07Frbs54rK9CzCIo) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2735a1783df13795d2db2599c7e" alt="" width="50" /> | I Used to Live Alone | 2011-05-21 | [🔗](https://open.spotify.com/album/0AmRRsaQVm5noeAB6LF8yA) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b27356231fb2f9b79b8ef4e4dcdd" alt="" width="50" /> | Déjà Blue | 2015-04-11 | [🔗](https://open.spotify.com/album/1mZNLR8qY6GhhrnCmtEAv3) |
+| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2735f80e04f0ea87267cc80ec46" alt="" width="50" /> | BOCA 2018: Best of College A Cappella | 2018 | [🔗](https://open.spotify.com/album/4F7k4viXqEAIlrB5rbAPbF) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2732c9bde1126c992a7140f4976" alt="" width="50" /> | BOCA 2016: Best Of College A Cappella | 2015-12-15 | [🔗](https://open.spotify.com/album/2AOr4esohQurJGXklhRH1a) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2731bf130ee9a90bd5cce66e40e" alt="" width="50" /> | Almost 8:08 | 2017-09-06 | [🔗](https://open.spotify.com/album/1gbG9XfNmlfNGEnOTH0f6N) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273ee681b6eddc77fd366693a84" alt="" width="50" /> | A Kick & A Wallop | 2012-03-24 | [🔗](https://open.spotify.com/album/5wnXtRvlemaPLxZFTpWtix) |
@@ -179,7 +178,7 @@
 
 | Number of Tracks | Label |
 |---:|:---|
-| 44 | [Varsity Vocals](../labels/varsity_vocals.md) |
+| 43 | [Varsity Vocals](../labels/varsity_vocals.md) |
 | 36 | [RCA Records Label](../labels/rca_records_label.md) |
 | 32 | [A Cappella Records](../labels/a_cappella_records.md) |
 | 12 | [Ithacappella](../labels/ithacappella.md) |
@@ -241,14 +240,14 @@
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Hey Momma / Hit the Road Jack | We Found Love |
-| Bang Bang | Samson |
-| Uptown Funk | Machine Gun |
-| Don't Stop Me Now | We All Need Saving |
-| I'd Like To | The Sound of Silence |
+| Uptown Funk | Samson |
+| Bang Bang | Machine Gun |
+| Don't Stop Me Now | The Sound of Silence |
+| I'd Like To | We All Need Saving |
 | Cry Me a River | Demons |
 | Movin' On | Latch |
-| Waka Waka (This Time for Africa) | Good Vibrations |
-| Attention | Cough Syrup |
+| Waka Waka (This Time for Africa) | Cough Syrup |
+| Attention | Good Vibrations |
 | Too Close (feat. Roxorloops & Blady Kris) | Falling Slowly |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
@@ -266,7 +265,7 @@
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Prelude No.1 in C Major | Say Something |
+| Prelude No.1 in C Major | Chandelier |
 | Libertango | Smooth |
 | Eine kleine Nachtmusik | Carry On Wayward Son |
 | Lullabye (Goodnight My Angel) | Work Song |
@@ -287,8 +286,8 @@
 | Starships | I Write Sins Not Tragedies |
 | Disturbia | All Time Low |
 | Havana | Demons |
-| Supermassive Black Hole | There Goes My Baby |
-| Let It Go | Say Something |
+| Let It Go | There Goes My Baby |
+| Supermassive Black Hole | Say Something |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|

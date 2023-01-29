@@ -3,20 +3,21 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27318ff322fcdd47c9400872da6ab67616d0000b27363e0ddbb488d0eeec0e738fcab67616d0000b27384095737f6056e682666d6f9ab67616d0000b273f2bf9685109a09bdc176fb43" alt="K-Pop-Adjacent" width="100" />
 
-[16 songs](tracks.md)
+[19 songs](tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 23 artists](../../images/playlists/k_pop_adjacent/artists.png)
+![Bar chart of top 24 artists](../../images/playlists/k_pop_adjacent/artists.png)
 
 ![Comparison of Artist](../../images/playlists/k_pop_adjacent/artists_comparison.png)
 
 
 <details>
-<summary>See all 23 artists</summary>
+<summary>See all 24 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
+| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb5c60f36c3be72e2745911ff9" alt="" width="50" /> | XG | [🔗](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | Justin Bieber | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd7bb678bef6d2f26110cae49" alt="" width="50" /> | ROSALÍA | [🔗](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | Chris Brown | [🔗](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) |
@@ -46,15 +47,17 @@
 
 ## Top Albums
 
-![Bar chart of top 16 albums](../../images/playlists/k_pop_adjacent/albums.png)
+![Bar chart of top 18 albums](../../images/playlists/k_pop_adjacent/albums.png)
 
 
 <details>
-<summary>See all 16 albums</summary>
+<summary>See all 18 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
+| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273dc65ca68ad8d6156d2f64c36" alt="" width="50" /> | SHOOTING STAR | 2023-01-25 | [🔗](https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27384095737f6056e682666d6f9" alt="" width="50" /> | Tomboy | 2019-02-28 | [🔗](https://open.spotify.com/album/2uDZBeyyQ7mfwF9mUJeYUG) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27321d73b676df03ec40a15ef39" alt="" width="50" /> | Tippy Toes | 2022-03-18 | [🔗](https://open.spotify.com/album/6P9erpHs7hgJlca7Tj3F0w) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="" width="50" /> | The Prelude | 2020-07-17 | [🔗](https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27318ff322fcdd47c9400872da6" alt="" width="50" /> | TAKE TIME | 2020-03-27 | [🔗](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="" width="50" /> | Slime & B | 2020-05-08 | [🔗](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) |
@@ -76,14 +79,15 @@
 
 ## Top Record Labels
 
-![Bar chart of top 20 record labels](../../images/playlists/k_pop_adjacent/labels.png)
+![Bar chart of top 21 record labels](../../images/playlists/k_pop_adjacent/labels.png)
 
 
 <details>
-<summary>See all 20 labels</summary>
+<summary>See all 21 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
+| 3 | XGALX |
 | 2 | RBMG |
 | 2 | [Interscope Records](../../labels/interscope_records.md) |
 | 2 | [Epic](../../labels/epic.md) |
@@ -156,43 +160,43 @@
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb" alt="Motley Crew" width="50" /> <span style="padding-left:10px;">Motley Crew (2021-07-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="Purpose (Deluxe)" width="50" /> <span style="padding-left:10px;">Purpose (Deluxe) (2015-11-13)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="Better Mistakes" width="50" /> <span style="padding-left:10px;">Better Mistakes (2021-05-07)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738cae5034066af45cdfbc4266" alt="Church Of Scars" width="50" /> <span style="padding-left:10px;">Church Of Scars (2018-04-20)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="Justice" width="50" /> <span style="padding-left:10px;">Justice (2021-03-19)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d3b343b757e4f3275bb2f26a" alt="MINT" width="50" /> <span style="padding-left:10px;">MINT (2018-10-19)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="ALL OUT" width="50" /> <span style="padding-left:10px;">ALL OUT (2020-11-06)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f4d64a6a6b7e24b6bd9f009f" alt="El Mal Querer" width="50" /> <span style="padding-left:10px;">El Mal Querer (2018-11-02)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="The Prelude" width="50" /> <span style="padding-left:10px;">The Prelude (2020-07-17)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27384095737f6056e682666d6f9" alt="Tomboy" width="50" /> <span style="padding-left:10px;">Tomboy (2019-02-28)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="Slime & B" width="50" /> <span style="padding-left:10px;">Slime & B (2020-05-08)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c824820b3a74839b91b4036a" alt="Good Thing (with Kehlani)" width="50" /> <span style="padding-left:10px;">Good Thing (with Kehlani) (2019-09-27)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27318ff322fcdd47c9400872da6" alt="TAKE TIME" width="50" /> <span style="padding-left:10px;">TAKE TIME (2020-03-27)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c4f298e7cbedb77f8e030ff0" alt="Cry for Me" width="50" /> <span style="padding-left:10px;">Cry for Me (2019-10-04)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736564f1d8386a6993b4d5d759" alt="LUCID" width="50" /> <span style="padding-left:10px;">LUCID (2019-11-15)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739351691c007cad99d70d9f3f" alt="Cravin" width="50" /> <span style="padding-left:10px;">Cravin (2019-10-18)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739351691c007cad99d70d9f3f" alt="Cravin" width="50" /> <span style="padding-left:10px;">Cravin (2019-10-18)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736564f1d8386a6993b4d5d759" alt="LUCID" width="50" /> <span style="padding-left:10px;">LUCID (2019-11-15)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c4f298e7cbedb77f8e030ff0" alt="Cry for Me" width="50" /> <span style="padding-left:10px;">Cry for Me (2019-10-04)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27318ff322fcdd47c9400872da6" alt="TAKE TIME" width="50" /> <span style="padding-left:10px;">TAKE TIME (2020-03-27)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273dc65ca68ad8d6156d2f64c36" alt="SHOOTING STAR" width="50" /> <span style="padding-left:10px;">SHOOTING STAR (2023-01-25)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="Purpose (Deluxe)" width="50" /> <span style="padding-left:10px;">Purpose (Deluxe) (2015-11-13)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27321d73b676df03ec40a15ef39" alt="Tippy Toes" width="50" /> <span style="padding-left:10px;">Tippy Toes (2022-03-18)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738cae5034066af45cdfbc4266" alt="Church Of Scars" width="50" /> <span style="padding-left:10px;">Church Of Scars (2018-04-20)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb" alt="Motley Crew" width="50" /> <span style="padding-left:10px;">Motley Crew (2021-07-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d3b343b757e4f3275bb2f26a" alt="MINT" width="50" /> <span style="padding-left:10px;">MINT (2018-10-19)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="Better Mistakes" width="50" /> <span style="padding-left:10px;">Better Mistakes (2021-05-07)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f4d64a6a6b7e24b6bd9f009f" alt="El Mal Querer" width="50" /> <span style="padding-left:10px;">El Mal Querer (2018-11-02)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="Justice" width="50" /> <span style="padding-left:10px;">Justice (2021-03-19)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27384095737f6056e682666d6f9" alt="Tomboy" width="50" /> <span style="padding-left:10px;">Tomboy (2019-02-28)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="ALL OUT" width="50" /> <span style="padding-left:10px;">ALL OUT (2020-11-06)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c824820b3a74839b91b4036a" alt="Good Thing (with Kehlani)" width="50" /> <span style="padding-left:10px;">Good Thing (with Kehlani) (2019-09-27)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="The Prelude" width="50" /> <span style="padding-left:10px;">The Prelude (2020-07-17)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c4f298e7cbedb77f8e030ff0" alt="Cry for Me" width="50" /> <span style="padding-left:10px;">Cry for Me (2019-10-04)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="Slime & B" width="50" /> <span style="padding-left:10px;">Slime & B (2020-05-08)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739351691c007cad99d70d9f3f" alt="Cravin" width="50" /> <span style="padding-left:10px;">Cravin (2019-10-18)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27318ff322fcdd47c9400872da6" alt="TAKE TIME" width="50" /> <span style="padding-left:10px;">TAKE TIME (2020-03-27)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736564f1d8386a6993b4d5d759" alt="LUCID" width="50" /> <span style="padding-left:10px;">LUCID (2019-11-15)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736564f1d8386a6993b4d5d759" alt="LUCID" width="50" /> <span style="padding-left:10px;">LUCID (2019-11-15)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27318ff322fcdd47c9400872da6" alt="TAKE TIME" width="50" /> <span style="padding-left:10px;">TAKE TIME (2020-03-27)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| MALAMENTE - Cap.1: Augurio | I'll Show You |
-| Cravin (feat. G-Eazy) | Heartbreak Anniversary |
-| At My Worst | Off My Face |
-| Motley Crew | Tango |
-| City Girls | Tomboy |
-| Break My Heart Myself (feat. Travis Barker) | VILLAIN |
-| River | Good Thing (with Kehlani) |
-| Mushroom Chocolate (with 6LACK) | Cry for Me |
-| Cry for Me | Mushroom Chocolate (with 6LACK) |
-| Good Thing (with Kehlani) | River |
+| Tippy Toes | I'll Show You |
+| MALAMENTE - Cap.1: Augurio | Heartbreak Anniversary |
+| Cravin (feat. G-Eazy) | Off My Face |
+| At My Worst | Tango |
+| Motley Crew | SHOOTING STAR |
+| LEFT RIGHT | Tomboy |
+| City Girls | VILLAIN |
+| Break My Heart Myself (feat. Travis Barker) | Good Thing (with Kehlani) |
+| River | Cry for Me |
+| Mushroom Chocolate (with 6LACK) | Mushroom Chocolate (with 6LACK) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
 | Break My Heart Myself (feat. Travis Barker) | Off My Face |
 | Cry for Me | At My Worst |
-| Tomboy | Heartbreak Anniversary |
-| VILLAIN | River |
-| Motley Crew | MALAMENTE - Cap.1: Augurio |
-| I'll Show You | Tango |
-| City Girls | Cravin (feat. G-Eazy) |
-| Good Thing (with Kehlani) | Mushroom Chocolate (with 6LACK) |
-| Mushroom Chocolate (with 6LACK) | Good Thing (with Kehlani) |
-| Cravin (feat. G-Eazy) | City Girls |
+| LEFT RIGHT | Heartbreak Anniversary |
+| SHOOTING STAR | River |
+| Tomboy | MALAMENTE - Cap.1: Augurio |
+| VILLAIN | Tango |
+| Motley Crew | Cravin (feat. G-Eazy) |
+| Tippy Toes | Mushroom Chocolate (with 6LACK) |
+| I'll Show You | Good Thing (with Kehlani) |
+| City Girls | City Girls |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -200,61 +204,61 @@
 | Tango | At My Worst |
 | I'll Show You | Good Thing (with Kehlani) |
 | Cry for Me | VILLAIN |
-| MALAMENTE - Cap.1: Augurio | Tomboy |
-| Heartbreak Anniversary | Mushroom Chocolate (with 6LACK) |
-| Motley Crew | River |
-| Break My Heart Myself (feat. Travis Barker) | City Girls |
-| City Girls | Break My Heart Myself (feat. Travis Barker) |
-| River | Motley Crew |
+| MALAMENTE - Cap.1: Augurio | LEFT RIGHT |
+| Heartbreak Anniversary | SHOOTING STAR |
+| Motley Crew | Tomboy |
+| Tippy Toes | Mushroom Chocolate (with 6LACK) |
+| Break My Heart Myself (feat. Travis Barker) | River |
+| City Girls | City Girls |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| Off My Face | VILLAIN |
-| At My Worst | City Girls |
-| Mushroom Chocolate (with 6LACK) | Cry for Me |
-| MALAMENTE - Cap.1: Augurio | I'll Show You |
-| Heartbreak Anniversary | Motley Crew |
-| Tomboy | Cravin (feat. G-Eazy) |
-| Good Thing (with Kehlani) | Tango |
-| Break My Heart Myself (feat. Travis Barker) | River |
-| River | Break My Heart Myself (feat. Travis Barker) |
-| Tango | Good Thing (with Kehlani) |
+| Off My Face | SHOOTING STAR |
+| At My Worst | VILLAIN |
+| Mushroom Chocolate (with 6LACK) | Tippy Toes |
+| MALAMENTE - Cap.1: Augurio | City Girls |
+| Heartbreak Anniversary | I'll Show You |
+| Tomboy | Cry for Me |
+| Good Thing (with Kehlani) | Motley Crew |
+| Break My Heart Myself (feat. Travis Barker) | LEFT RIGHT |
+| River | Cravin (feat. G-Eazy) |
+| Tango | Tango |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| MALAMENTE - Cap.1: Augurio | At My Worst |
-| Tomboy | Tango |
-| I'll Show You | Off My Face |
-| Mushroom Chocolate (with 6LACK) | Break My Heart Myself (feat. Travis Barker) |
-| Motley Crew | Cry for Me |
-| River | Good Thing (with Kehlani) |
-| Heartbreak Anniversary | City Girls |
-| At My Worst | VILLAIN |
-| Tango | Cravin (feat. G-Eazy) |
-| Off My Face | Heartbreak Anniversary |
+| Tippy Toes | Good Thing (with Kehlani) |
+| MALAMENTE - Cap.1: Augurio | SHOOTING STAR |
+| Tomboy | VILLAIN |
+| I'll Show You | City Girls |
+| Mushroom Chocolate (with 6LACK) | Cry for Me |
+| Motley Crew | Break My Heart Myself (feat. Travis Barker) |
+| River | Cravin (feat. G-Eazy) |
+| LEFT RIGHT | Tango |
+| Heartbreak Anniversary | At My Worst |
+| SHOOTING STAR | Off My Face |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
 | Heartbreak Anniversary | Good Thing (with Kehlani) |
-| I'll Show You | City Girls |
-| Cry for Me | River |
-| At My Worst | MALAMENTE - Cap.1: Augurio |
-| Tomboy | Break My Heart Myself (feat. Travis Barker) |
-| Cravin (feat. G-Eazy) | Mushroom Chocolate (with 6LACK) |
-| Tango | VILLAIN |
-| Off My Face | Motley Crew |
-| Motley Crew | Off My Face |
-| VILLAIN | Tango |
+| SHOOTING STAR | City Girls |
+| I'll Show You | River |
+| Cry for Me | MALAMENTE - Cap.1: Augurio |
+| At My Worst | Break My Heart Myself (feat. Travis Barker) |
+| Tomboy | Mushroom Chocolate (with 6LACK) |
+| Cravin (feat. G-Eazy) | VILLAIN |
+| Tango | Tippy Toes |
+| LEFT RIGHT | Motley Crew |
+| Off My Face | Off My Face |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| City Girls | I'll Show You |
-| At My Worst | Motley Crew |
-| Cry for Me | VILLAIN |
+| LEFT RIGHT | I'll Show You |
+| City Girls | Motley Crew |
+| At My Worst | VILLAIN |
+| Cry for Me | SHOOTING STAR |
 | Off My Face | Tomboy |
 | Good Thing (with Kehlani) | Tango |
-| River | Break My Heart Myself (feat. Travis Barker) |
-| Heartbreak Anniversary | MALAMENTE - Cap.1: Augurio |
-| Cravin (feat. G-Eazy) | Mushroom Chocolate (with 6LACK) |
-| Mushroom Chocolate (with 6LACK) | Cravin (feat. G-Eazy) |
-| MALAMENTE - Cap.1: Augurio | Heartbreak Anniversary |
+| Tippy Toes | Break My Heart Myself (feat. Travis Barker) |
+| River | MALAMENTE - Cap.1: Augurio |
+| Heartbreak Anniversary | Mushroom Chocolate (with 6LACK) |
+| Cravin (feat. G-Eazy) | Cravin (feat. G-Eazy) |

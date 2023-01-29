@@ -17,7 +17,7 @@ Appears as:
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
 | 12 | <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | [Michael Bublé](../artists/michael_bubl_.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6ed8a51172073afa41a30313" alt="" width="50" /> | Cécile McLorin Salvant | [🔗](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb714fcc98a53a73bdcc537200" alt="" width="50" /> | Cécile McLorin Salvant | [🔗](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf13fc3f245be672aa60a24af" alt="" width="50" /> | Meghan Trainor | [🔗](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf84fe9e6fbb2aa001d6cbbd9" alt="" width="50" /> | Mastodon | [🔗](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) |
 
@@ -48,11 +48,11 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 14 genres](../images/labels/reprise/genres.png)
+![Bar chart of top 13 genres](../images/labels/reprise/genres.png)
 
 
 <details>
-<summary>See all 14 genres</summary>
+<summary>See all 13 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -62,7 +62,6 @@ Appears as:
 | 12 | [adult standards](../genres/adult_standards.md) |
 | 1 | stoner metal |
 | 1 | sludge metal |
-| 1 | [rock](../genres/rock.md) |
 | 1 | progressive sludge |
 | 1 | progressive groove metal |
 | 1 | nu metal |

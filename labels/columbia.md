@@ -149,8 +149,8 @@ Appears as:
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 36 | [pop](../genres/pop.md) |
 | 34 | [rock](../genres/rock.md) |
+| 33 | [pop](../genres/pop.md) |
 | 33 | [classic rock](../genres/classic_rock.md) |
 | 31 | [mellow gold](../genres/mellow_gold.md) |
 | 28 | [folk rock](../genres/folk_rock.md) |
