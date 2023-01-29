@@ -174,91 +174,91 @@
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| Tippy Toes | I'll Show You |
-| MALAMENTE - Cap.1: Augurio | Heartbreak Anniversary |
-| Cravin (feat. G-Eazy) | Off My Face |
-| At My Worst | Tango |
-| Motley Crew | SHOOTING STAR |
-| LEFT RIGHT | Tomboy |
-| City Girls | VILLAIN |
-| Break My Heart Myself (feat. Travis Barker) | Good Thing (with Kehlani) |
-| River | Cry for Me |
-| Mushroom Chocolate (with 6LACK) | Mushroom Chocolate (with 6LACK) |
+| Tippy Toes (0.913) | I'll Show You (0.361) |
+| MALAMENTE - Cap.1: Augurio (0.893) | Heartbreak Anniversary (0.449) |
+| Cravin (feat. G-Eazy) (0.834) | Off My Face (0.509) |
+| At My Worst (0.813) | Tango (0.53) |
+| Motley Crew (0.797) | SHOOTING STAR (0.625) |
+| LEFT RIGHT (0.767) | Tomboy (0.644) |
+| City Girls (0.752) | VILLAIN (0.653) |
+| Break My Heart Myself (feat. Travis Barker) (0.751) | Good Thing (with Kehlani) (0.693) |
+| River (0.733) | Cry for Me (0.721) |
+| Mushroom Chocolate (with 6LACK) (0.73) | Mushroom Chocolate (with 6LACK) (0.73) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| Break My Heart Myself (feat. Travis Barker) | Off My Face |
-| Cry for Me | At My Worst |
-| LEFT RIGHT | Heartbreak Anniversary |
-| SHOOTING STAR | River |
-| Tomboy | MALAMENTE - Cap.1: Augurio |
-| VILLAIN | Tango |
-| Motley Crew | Cravin (feat. G-Eazy) |
-| Tippy Toes | Mushroom Chocolate (with 6LACK) |
-| I'll Show You | Good Thing (with Kehlani) |
-| City Girls | City Girls |
+| Break My Heart Myself (feat. Travis Barker) (0.857) | Off My Face (0.228) |
+| Cry for Me (0.805) | At My Worst (0.415) |
+| LEFT RIGHT (0.721) | Heartbreak Anniversary (0.465) |
+| SHOOTING STAR (0.712) | River (0.477) |
+| Tomboy (0.645) | MALAMENTE - Cap.1: Augurio (0.482) |
+| VILLAIN (0.634) | Tango (0.519) |
+| Motley Crew (0.631) | Cravin (feat. G-Eazy) (0.538) |
+| Tippy Toes (0.62) | Mushroom Chocolate (with 6LACK) (0.547) |
+| I'll Show You (0.608) | Good Thing (with Kehlani) (0.564) |
+| City Girls (0.586) | City Girls (0.586) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| Cravin (feat. G-Eazy) | Off My Face |
-| Tango | At My Worst |
-| I'll Show You | Good Thing (with Kehlani) |
-| Cry for Me | VILLAIN |
-| MALAMENTE - Cap.1: Augurio | LEFT RIGHT |
-| Heartbreak Anniversary | SHOOTING STAR |
-| Motley Crew | Tomboy |
-| Tippy Toes | Mushroom Chocolate (with 6LACK) |
-| Break My Heart Myself (feat. Travis Barker) | River |
-| City Girls | City Girls |
+| Cravin (feat. G-Eazy) (0.246) | Off My Face (0.0332) |
+| Tango (0.224) | At My Worst (0.0349) |
+| I'll Show You (0.098) | Good Thing (with Kehlani) (0.0378) |
+| Cry for Me (0.0927) | VILLAIN (0.0391) |
+| MALAMENTE - Cap.1: Augurio (0.0873) | LEFT RIGHT (0.0456) |
+| Heartbreak Anniversary (0.0791) | SHOOTING STAR (0.0539) |
+| Motley Crew (0.0786) | Tomboy (0.0557) |
+| Tippy Toes (0.0769) | Mushroom Chocolate (with 6LACK) (0.0565) |
+| Break My Heart Myself (feat. Travis Barker) (0.0752) | River (0.0687) |
+| City Girls (0.071) | City Girls (0.071) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| Off My Face | SHOOTING STAR |
-| At My Worst | VILLAIN |
-| Mushroom Chocolate (with 6LACK) | Tippy Toes |
-| MALAMENTE - Cap.1: Augurio | City Girls |
-| Heartbreak Anniversary | I'll Show You |
-| Tomboy | Cry for Me |
-| Good Thing (with Kehlani) | Motley Crew |
-| Break My Heart Myself (feat. Travis Barker) | LEFT RIGHT |
-| River | Cravin (feat. G-Eazy) |
-| Tango | Tango |
+| Off My Face (0.92) | SHOOTING STAR (0.0229) |
+| At My Worst (0.777) | VILLAIN (0.0232) |
+| Mushroom Chocolate (with 6LACK) (0.765) | Tippy Toes (0.0354) |
+| MALAMENTE - Cap.1: Augurio (0.549) | City Girls (0.0465) |
+| Heartbreak Anniversary (0.524) | I'll Show You (0.05) |
+| Tomboy (0.423) | Cry for Me (0.05) |
+| Good Thing (with Kehlani) (0.399) | Motley Crew (0.0904) |
+| Break My Heart Myself (feat. Travis Barker) (0.31) | LEFT RIGHT (0.153) |
+| River (0.302) | Cravin (feat. G-Eazy) (0.191) |
+| Tango (0.2) | Tango (0.2) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Tippy Toes | Good Thing (with Kehlani) |
-| MALAMENTE - Cap.1: Augurio | SHOOTING STAR |
-| Tomboy | VILLAIN |
-| I'll Show You | City Girls |
-| Mushroom Chocolate (with 6LACK) | Cry for Me |
-| Motley Crew | Break My Heart Myself (feat. Travis Barker) |
-| River | Cravin (feat. G-Eazy) |
-| LEFT RIGHT | Tango |
-| Heartbreak Anniversary | At My Worst |
-| SHOOTING STAR | Off My Face |
+| Tippy Toes (0.106) | At My Worst (0.0) |
+| MALAMENTE - Cap.1: Augurio (0.0164) | City Girls (0.0) |
+| Tomboy (0.00512) | Tango (0.0) |
+| I'll Show You (7.96e-05) | SHOOTING STAR (0.0) |
+| Mushroom Chocolate (with 6LACK) (3.99e-05) | VILLAIN (0.0) |
+| Motley Crew (3.71e-06) | Off My Face (0.0) |
+| River (2.97e-06) | Break My Heart Myself (feat. Travis Barker) (0.0) |
+| LEFT RIGHT (1.52e-06) | Cry for Me (0.0) |
+| Heartbreak Anniversary (1.02e-06) | Good Thing (with Kehlani) (0.0) |
+| Cravin (feat. G-Eazy) (0.0) | Cravin (feat. G-Eazy) (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| Heartbreak Anniversary | Good Thing (with Kehlani) |
-| SHOOTING STAR | City Girls |
-| I'll Show You | River |
-| Cry for Me | MALAMENTE - Cap.1: Augurio |
-| At My Worst | Break My Heart Myself (feat. Travis Barker) |
-| Tomboy | Mushroom Chocolate (with 6LACK) |
-| Cravin (feat. G-Eazy) | VILLAIN |
-| Tango | Tippy Toes |
-| LEFT RIGHT | Motley Crew |
-| Off My Face | Off My Face |
+| Heartbreak Anniversary (0.303) | Good Thing (with Kehlani) (0.0409) |
+| SHOOTING STAR (0.252) | City Girls (0.0554) |
+| I'll Show You (0.183) | River (0.0579) |
+| Cry for Me (0.153) | MALAMENTE - Cap.1: Augurio (0.0752) |
+| At My Worst (0.131) | Break My Heart Myself (feat. Travis Barker) (0.0801) |
+| Tomboy (0.116) | Mushroom Chocolate (with 6LACK) (0.0874) |
+| Cravin (feat. G-Eazy) (0.113) | VILLAIN (0.0908) |
+| Tango (0.112) | Tippy Toes (0.091) |
+| LEFT RIGHT (0.108) | Motley Crew (0.0998) |
+| Off My Face (0.104) | Off My Face (0.104) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| LEFT RIGHT | I'll Show You |
-| City Girls | Motley Crew |
-| At My Worst | VILLAIN |
-| Cry for Me | SHOOTING STAR |
-| Off My Face | Tomboy |
-| Good Thing (with Kehlani) | Tango |
-| Tippy Toes | Break My Heart Myself (feat. Travis Barker) |
-| River | MALAMENTE - Cap.1: Augurio |
-| Heartbreak Anniversary | Mushroom Chocolate (with 6LACK) |
-| Cravin (feat. G-Eazy) | Cravin (feat. G-Eazy) |
+| LEFT RIGHT (0.884) | I'll Show You (0.0789) |
+| City Girls (0.815) | Motley Crew (0.288) |
+| At My Worst (0.667) | VILLAIN (0.306) |
+| Cry for Me (0.653) | SHOOTING STAR (0.398) |
+| Off My Face (0.586) | Tomboy (0.459) |
+| Good Thing (with Kehlani) (0.574) | Tango (0.462) |
+| Tippy Toes (0.552) | Break My Heart Myself (feat. Travis Barker) (0.501) |
+| River (0.545) | MALAMENTE - Cap.1: Augurio (0.53) |
+| Heartbreak Anniversary (0.543) | Mushroom Chocolate (with 6LACK) (0.533) |
+| Cravin (feat. G-Eazy) (0.536) | Cravin (feat. G-Eazy) (0.536) |

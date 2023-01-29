@@ -1,6 +1,6 @@
 # k-pop girl group
 
-[388 songs](k_pop_girl_group_tracks.md)
+[389 songs](k_pop_girl_group_tracks.md)
 
 ## Top Artists
 
@@ -25,10 +25,10 @@
 | 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | [Girls' Generation](../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | 12 | <img src="https://i.scdn.co/image/ab6761610000e5eb45b2ff69ae6a3caccb776cfa" alt="" width="50" /> | [STAYC](../artists/stayc.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | CLC | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
+| 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="" width="50" /> | EVERGLOW | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8786ccb6031a3266bb15606" alt="" width="50" /> | WJSN | [🔗](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb6199c3c2f414880e2b9077a9" alt="" width="50" /> | NewJeans | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb80584436e5726afb70cee7f8" alt="" width="50" /> | LOONA | [🔗](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) |
-| 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="" width="50" /> | EVERGLOW | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb9954a1ab45b2404a7bff2a45" alt="" width="50" /> | OH MY GIRL | [🔗](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb271110d977700b69d9548993" alt="" width="50" /> | EXID | [🔗](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d4b74165ecfadcacf0771ae" alt="" width="50" /> | MOMOLAND | [🔗](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) |
@@ -210,9 +210,9 @@
 | 24 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md) |
 | 23 | [Interscope Records](../labels/interscope_records.md) |
 | 18 | [Universal Music LLC](../labels/universal_music_llc.md) |
-| 16 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
+| 17 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
 | 16 | [Starship Entertainment](../labels/starship_entertainment.md) |
-| 13 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
+| 14 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
 | 12 | [RBW Inc.](../labels/rbw_inc_.md) |
 | 12 | [JYP Entertainment](../labels/jyp_entertainment.md) |
 | 11 | [High Up Entertainment](../labels/high_up_entertainment.md) |
@@ -273,91 +273,91 @@
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| #Twenty | HWAA |
-| SNEAKERS | O.O |
-| SNEAKERS (English Ver.) | Where Are We Now |
-| Typa Girl | Feel My Rhythm |
-| Scandal | You Better Run |
-| Time Slip | 7월 7일 One Of These Nights |
-| Louder | Poison |
-| Nobody | Addicted |
-| Pepe | Life's Too Short (English Version) |
-| So Hot | REASON |
+| #Twenty (0.956) | HWAA (0.384) |
+| SNEAKERS (0.935) | O.O (0.39) |
+| SNEAKERS (English Ver.) (0.92) | Where Are We Now (0.407) |
+| Typa Girl (0.915) | Feel My Rhythm (0.412) |
+| Scandal (0.898) | 7월 7일 One Of These Nights (0.436) |
+| Time Slip (0.897) | You Better Run (0.436) |
+| Louder (0.886) | Poison (0.442) |
+| Nobody (0.882) | Addicted (0.463) |
+| So Hot (0.879) | Life's Too Short (English Version) (0.472) |
+| Pepe (0.879) | REASON (0.474) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| Hit That Drum | The Happiest Girl |
-| Chase Me | Hope Not |
-| Girls | HANN (Alone in winter) |
-| Abracadabra | STAY |
-| Heart Attack | You Never Know |
-| Secret | Hurt |
-| Oh! | Moonlight Melody |
-| Mr.Mr. | Where Are We Now |
-| Panorama | 7월 7일 One Of These Nights |
-| Very Very Very | Hello, Sunset |
+| Hit That Drum (0.984) | The Happiest Girl (0.374) |
+| Chase Me (0.975) | Hope Not (0.423) |
+| Girls (0.974) | HANN (Alone in winter) (0.429) |
+| Abracadabra (0.973) | STAY (0.432) |
+| Heart Attack (0.97) | You Never Know (0.435) |
+| Secret (0.969) | Hurt (0.446) |
+| Oh! (0.966) | Moonlight Melody (0.482) |
+| Mr.Mr. (0.964) | Where Are We Now (0.494) |
+| Panorama (0.963) | 7월 7일 One Of These Nights (0.509) |
+| Very Very Very (0.963) | Hello, Sunset (0.531) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| Addicted | Moonlight Melody |
-| Freedom | Gee |
-| Free Fall | Hope Not |
-| Ice Cream (with Selena Gomez) | YOUNG LUV |
-| Signal | LOVE FOOL |
-| You Better Run | In My Dreams |
-| Girls | Something |
-| Be Natural | ESCAPE |
-| Love So Sweet | Tally |
-| O.O | Beautiful Christmas |
+| Addicted (0.419) | Moonlight Melody (0.0269) |
+| Freedom (0.388) | Gee (0.0274) |
+| Free Fall (0.376) | Hope Not (0.0274) |
+| Ice Cream (with Selena Gomez) (0.365) | YOUNG LUV (0.0277) |
+| Signal (0.334) | LOVE FOOL (0.0281) |
+| You Better Run (0.326) | In My Dreams (0.0283) |
+| Girls (0.325) | Something (0.0285) |
+| Be Natural (0.316) | ESCAPE (0.0295) |
+| Love So Sweet (0.308) | Tally (0.031) |
+| O.O (0.293) | Beautiful Christmas (0.0311) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| HANN (Alone in winter) | Poison |
-| Rainy Season | Red Light |
-| Where Are We Now | Adios |
-| Hurt | RUN2U |
-| Jazz Bar | DALLA DALLA - English Ver. |
-| ZOOM | LA DI DA |
-| Wind flower | 달라달라 (DALLA DALLA) |
-| Starry Night | SWIPE |
-| Moonlight Melody | Up & Down |
-| The Happiest Girl | Pirate |
+| HANN (Alone in winter) (0.814) | Poison (9.27e-05) |
+| Rainy Season (0.806) | Red Light (0.000457) |
+| Where Are We Now (0.744) | Adios (0.000588) |
+| Hurt (0.731) | RUN2U (0.000835) |
+| Jazz Bar (0.704) | DALLA DALLA - English Ver. (0.00102) |
+| ZOOM (0.696) | LA DI DA (0.00108) |
+| Starry Night (0.656) | 달라달라 (DALLA DALLA) (0.00116) |
+| Wind flower (0.656) | SWIPE (0.00151) |
+| Moonlight Melody (0.654) | Up & Down (0.00189) |
+| The Happiest Girl (0.638) | Pirate (0.00195) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| You and I (Park Bom) | HANN (Alone in winter) |
-| Adios | Marionette |
-| YEPPI YEPPI | WILDSIDE |
-| So Hot | Bewitched - Eng Ver. |
-| I Am The Best | Rookie |
-| Power Up | #Cookie Jar |
-| BBoom BBoom | Oh Boy |
-| In My Dreams | Bewitched |
-| BAAM | Addicted |
-| Star | Be Natural |
+| You and I (Park Bom) (0.0837) | Shut Down (0.0) |
+| Adios (0.0794) | SCIENTIST (0.0) |
+| YEPPI YEPPI (0.0391) | Vibrato (0.0) |
+| So Hot (0.00976) | TOMBOY (0.0) |
+| I Am The Best (0.00834) | Hush (0.0) |
+| Power Up (0.00745) | Typa Girl (0.0) |
+| BBoom BBoom (0.00666) | The Boys (0.0) |
+| In My Dreams (0.0066) | Talk that Talk (0.0) |
+| BAAM (0.00431) | Pirate (0.0) |
+| Star (0.0037) | FANCY (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| Heart Attack | SNEAKERS |
-| Piano Man | SNEAKERS (English Ver.) |
-| You Better Run | YEPPI YEPPI |
-| I Like That | Ice Cream (with Selena Gomez) |
-| Vibrato | DARK (X-file) |
-| 행복 (Happiness) | BLACK DRESS |
-| LP | Red Light |
-| Genie | Wings |
-| STEREOTYPE | I’m So Hot |
-| 5th Season (SSFWL) | ELEVEN |
+| Heart Attack (0.887) | SNEAKERS (0.0223) |
+| Piano Man (0.807) | SNEAKERS (English Ver.) (0.0242) |
+| You Better Run (0.803) | YEPPI YEPPI (0.029) |
+| I Like That (0.737) | Ice Cream (with Selena Gomez) (0.0311) |
+| Vibrato (0.735) | DARK (X-file) (0.0372) |
+| 행복 (Happiness) (0.725) | BLACK DRESS (0.0386) |
+| LP (0.714) | Red Light (0.0414) |
+| Genie (0.714) | Wings (0.0428) |
+| STEREOTYPE (0.659) | I’m So Hot (0.0437) |
+| 5th Season (SSFWL) (0.635) | ELEVEN (0.048) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| Pepe | 7월 7일 One Of These Nights |
-| Miniskirt | Lucid Dream |
-| So Hot | Body Talk |
-| Twinkle | In My Dreams |
-| Give it to me | Hope Not |
-| Lion Heart | Ditto |
-| 러시안 룰렛 Russian Roulette | LION |
-| Nobody | POSE |
-| Really | MORE |
-| Devil | 4 Walls |
+| Pepe (0.966) | 7월 7일 One Of These Nights (0.11) |
+| So Hot (0.963) | Lucid Dream (0.146) |
+| Miniskirt (0.963) | Body Talk (0.158) |
+| Twinkle (0.962) | In My Dreams (0.179) |
+| Lion Heart (0.961) | Hope Not (0.179) |
+| Give it to me (0.961) | Ditto (0.183) |
+| 러시안 룰렛 Russian Roulette (0.958) | LION (0.187) |
+| Nobody (0.95) | POSE (0.195) |
+| Really (0.947) | MORE (0.199) |
+| Devil (0.946) | 4 Walls (0.223) |

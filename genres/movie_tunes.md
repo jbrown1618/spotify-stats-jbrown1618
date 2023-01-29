@@ -135,91 +135,91 @@
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| The Bare Necessities | God Help the Outcasts |
-| Love Is an Open Door - From "Frozen"/Soundtrack Version | Heaven's Light/Hellfire |
-| Be Prepared - From "The Lion King" / Soundtrack Version | An Unusual Prince / Once Upon A Dream - From "Sleeping Beauty"/Soundtrack Version |
-| I Just Can't Wait to Be King - From "The Lion King" Soundtrack | Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version |
-| Kiss the Girl | Reflection |
-| Gaston - From "Beauty and the Beast" / Soundtrack Version | A Heart Full Of Love |
-| Who's Afraid of the Big, Bad Wolf - From "Three Little Pigs" | A Dream Is a Wish Your Heart Makes |
-| Something There - From "Beauty and the Beast"/Soundtrack Version | Colors of the Wind - From "Pocahontas" / Soundtrack Version |
-| How Far I'll Go | Part of Your World |
-| One Jump Ahead | A Whole New World |
+| The Bare Necessities (0.788) | God Help the Outcasts (0.182) |
+| Love Is an Open Door - From "Frozen"/Soundtrack Version (0.737) | Heaven's Light/Hellfire (0.211) |
+| Be Prepared - From "The Lion King" / Soundtrack Version (0.699) | An Unusual Prince / Once Upon A Dream - From "Sleeping Beauty"/Soundtrack Version (0.238) |
+| I Just Can't Wait to Be King - From "The Lion King" Soundtrack (0.689) | Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version (0.241) |
+| Kiss the Girl (0.667) | Reflection (0.255) |
+| Gaston - From "Beauty and the Beast" / Soundtrack Version (0.654) | A Heart Full Of Love (0.258) |
+| Who's Afraid of the Big, Bad Wolf - From "Three Little Pigs" (0.611) | A Dream Is a Wish Your Heart Makes (0.262) |
+| Something There - From "Beauty and the Beast"/Soundtrack Version (0.588) | Colors of the Wind - From "Pocahontas" / Soundtrack Version (0.272) |
+| How Far I'll Go (0.571) | Part of Your World (0.274) |
+| One Jump Ahead (0.564) | A Whole New World (0.283) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| Love Is an Open Door - From "Frozen"/Soundtrack Version | God Help the Outcasts |
-| Friends on the Other Side | In My Life |
-| Gaston - From "Beauty and the Beast" / Soundtrack Version | Do You Want to Build a Snowman? - From "Frozen"/Soundtrack Version |
-| Bibbidi-Bobbidi-Boo - From "Cinderella" Soundtrack | A Heart Full Of Love |
-| I Just Can't Wait to Be King - From "The Lion King" Soundtrack | Can You Feel the Love Tonight - From "The Lion King" / Soundtrack Version |
-| Under the Sea | Part of Your World |
-| Be Our Guest - From "Beauty And The Beast" Soundtrack | Heaven's Light/Hellfire |
-| Be Prepared - From "The Lion King" / Soundtrack Version | Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version |
-| For the First Time in Forever - From "Frozen"/Soundtrack Version | Colors of the Wind - From "Pocahontas" / Soundtrack Version |
-| Circle of Life - From "The Lion King" Soundtrack | A Dream Is a Wish Your Heart Makes |
+| Love Is an Open Door - From "Frozen"/Soundtrack Version (0.637) | God Help the Outcasts (0.0589) |
+| Friends on the Other Side (0.622) | In My Life (0.0594) |
+| Gaston - From "Beauty and the Beast" / Soundtrack Version (0.605) | Do You Want to Build a Snowman? - From "Frozen"/Soundtrack Version (0.121) |
+| Bibbidi-Bobbidi-Boo - From "Cinderella" Soundtrack (0.57) | A Heart Full Of Love (0.125) |
+| I Just Can't Wait to Be King - From "The Lion King" Soundtrack (0.533) | Can You Feel the Love Tonight - From "The Lion King" / Soundtrack Version (0.132) |
+| Under the Sea (0.475) | Part of Your World (0.144) |
+| Be Our Guest - From "Beauty And The Beast" Soundtrack (0.421) | Heaven's Light/Hellfire (0.159) |
+| Be Prepared - From "The Lion King" / Soundtrack Version (0.417) | Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version (0.162) |
+| For the First Time in Forever - From "Frozen"/Soundtrack Version (0.411) | Colors of the Wind - From "Pocahontas" / Soundtrack Version (0.164) |
+| Circle of Life - From "The Lion King" Soundtrack (0.391) | A Dream Is a Wish Your Heart Makes (0.17) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| Who's Afraid of the Big, Bad Wolf - From "Three Little Pigs" | For the First Time in Forever - From "Frozen"/Soundtrack Version |
-| Be Our Guest - From "Beauty And The Beast" Soundtrack | Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version |
-| Mother Knows Best - From "Tangled"/Soundtrack Version | An Unusual Prince / Once Upon A Dream - From "Sleeping Beauty"/Soundtrack Version |
-| Under the Sea | A Whole New World |
-| Gaston - From "Beauty and the Beast" / Soundtrack Version | Something There - From "Beauty and the Beast"/Soundtrack Version |
-| Hakuna Matata - From "The Lion King" Soundtrack | Reflection |
-| One Jump Ahead | God Help the Outcasts |
-| Belle - From "Beauty and the Beast"/Soundtrack Version | A Heart Full Of Love |
-| Poor Unfortunate Souls | In My Life |
-| Friends on the Other Side | Reflection |
+| Who's Afraid of the Big, Bad Wolf - From "Three Little Pigs" (0.422) | For the First Time in Forever - From "Frozen"/Soundtrack Version (0.0344) |
+| Be Our Guest - From "Beauty And The Beast" Soundtrack (0.172) | Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version (0.035) |
+| Mother Knows Best - From "Tangled"/Soundtrack Version (0.166) | An Unusual Prince / Once Upon A Dream - From "Sleeping Beauty"/Soundtrack Version (0.0362) |
+| Under the Sea (0.161) | A Whole New World (0.0366) |
+| Gaston - From "Beauty and the Beast" / Soundtrack Version (0.138) | Something There - From "Beauty and the Beast"/Soundtrack Version (0.0374) |
+| Hakuna Matata - From "The Lion King" Soundtrack (0.137) | Reflection (0.0379) |
+| One Jump Ahead (0.127) | God Help the Outcasts (0.0382) |
+| Belle - From "Beauty and the Beast"/Soundtrack Version (0.106) | A Heart Full Of Love (0.0387) |
+| Poor Unfortunate Souls (0.101) | In My Life (0.0391) |
+| Friends on the Other Side (0.0982) | Reflection (0.0391) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| An Unusual Prince / Once Upon A Dream - From "Sleeping Beauty"/Soundtrack Version | Circle of Life - From "The Lion King" Soundtrack |
-| A Dream Is a Wish Your Heart Makes | Love Is an Open Door - From "Frozen"/Soundtrack Version |
-| A Heart Full Of Love | Be Prepared - From "The Lion King" / Soundtrack Version |
-| In My Life | I Just Can't Wait to Be King - From "The Lion King" Soundtrack |
-| Bibbidi-Bobbidi-Boo - From "Cinderella" Soundtrack | One Jump Ahead |
-| Who's Afraid of the Big, Bad Wolf - From "Three Little Pigs" | Honor To Us All |
-| Colors of the Wind - From "Pocahontas" / Soundtrack Version | A Girl Worth Fighting For |
-| God Help the Outcasts | Hakuna Matata - From "The Lion King" Soundtrack |
-| Part of Your World | How Far I'll Go |
-| Just Around the Riverbend - From "Pocahontas" / Soundtrack Version | Kiss the Girl |
+| An Unusual Prince / Once Upon A Dream - From "Sleeping Beauty"/Soundtrack Version (0.972) | Circle of Life - From "The Lion King" Soundtrack (0.0634) |
+| A Dream Is a Wish Your Heart Makes (0.971) | Love Is an Open Door - From "Frozen"/Soundtrack Version (0.262) |
+| A Heart Full Of Love (0.968) | Be Prepared - From "The Lion King" / Soundtrack Version (0.268) |
+| In My Life (0.96) | I Just Can't Wait to Be King - From "The Lion King" Soundtrack (0.321) |
+| Bibbidi-Bobbidi-Boo - From "Cinderella" Soundtrack (0.951) | One Jump Ahead (0.425) |
+| Who's Afraid of the Big, Bad Wolf - From "Three Little Pigs" (0.945) | Honor To Us All (0.447) |
+| Colors of the Wind - From "Pocahontas" / Soundtrack Version (0.929) | A Girl Worth Fighting For (0.564) |
+| God Help the Outcasts (0.928) | Hakuna Matata - From "The Lion King" Soundtrack (0.617) |
+| Part of Your World (0.92) | How Far I'll Go (0.649) |
+| Just Around the Riverbend - From "Pocahontas" / Soundtrack Version (0.919) | Kiss the Girl (0.686) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Reflection | How Far I'll Go |
-| An Unusual Prince / Once Upon A Dream - From "Sleeping Beauty"/Soundtrack Version | A Girl Worth Fighting For |
-| Who's Afraid of the Big, Bad Wolf - From "Three Little Pigs" | In My Life |
-| Colors of the Wind - From "Pocahontas" / Soundtrack Version | Be Our Guest - From "Beauty And The Beast" Soundtrack |
-| Reflection | Honor To Us All |
-| A Dream Is a Wish Your Heart Makes | Gaston - From "Beauty and the Beast" / Soundtrack Version |
-| Part of Your World | Belle - From "Beauty and the Beast"/Soundtrack Version |
-| God Help the Outcasts | Can You Feel the Love Tonight - From "The Lion King" / Soundtrack Version |
-| Do You Want to Build a Snowman? - From "Frozen"/Soundtrack Version | Arabian Nights |
-| Friends on the Other Side | One Jump Ahead |
+| Reflection (0.00911) | Circle of Life - From "The Lion King" Soundtrack (0.0) |
+| An Unusual Prince / Once Upon A Dream - From "Sleeping Beauty"/Soundtrack Version (0.00585) | Belle - From "Beauty and the Beast"/Soundtrack Version (0.0) |
+| Who's Afraid of the Big, Bad Wolf - From "Three Little Pigs" (0.00412) | Gaston - From "Beauty and the Beast" / Soundtrack Version (0.0) |
+| Colors of the Wind - From "Pocahontas" / Soundtrack Version (0.0011) | In My Life (0.0) |
+| Reflection (0.00076) | Arabian Nights (0.0) |
+| A Dream Is a Wish Your Heart Makes (0.000407) | Be Prepared - From "The Lion King" / Soundtrack Version (0.0) |
+| Part of Your World (0.000388) | Love Is an Open Door - From "Frozen"/Soundtrack Version (0.0) |
+| God Help the Outcasts (0.000246) | A Girl Worth Fighting For (0.0) |
+| Do You Want to Build a Snowman? - From "Frozen"/Soundtrack Version (0.000176) | Kiss the Girl (0.0) |
+| Friends on the Other Side (0.000156) | Can You Feel the Love Tonight - From "The Lion King" / Soundtrack Version (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| One Jump Ahead | Mother Knows Best - From "Tangled"/Soundtrack Version |
-| Reflection | Heaven's Light/Hellfire |
-| Can You Feel the Love Tonight - From "The Lion King" / Soundtrack Version | God Help the Outcasts |
-| Friends on the Other Side | Out There |
-| Poor Unfortunate Souls | Be Our Guest - From "Beauty And The Beast" Soundtrack |
-| Reflection | Who's Afraid of the Big, Bad Wolf - From "Three Little Pigs" |
-| Love Is an Open Door - From "Frozen"/Soundtrack Version | I Just Can't Wait to Be King - From "The Lion King" Soundtrack |
-| In My Life | Be Prepared - From "The Lion King" / Soundtrack Version |
-| Circle of Life - From "The Lion King" Soundtrack | A Whole New World |
-| Part of Your World | Kiss the Girl |
+| One Jump Ahead (0.742) | Mother Knows Best - From "Tangled"/Soundtrack Version (0.0451) |
+| Reflection (0.722) | Heaven's Light/Hellfire (0.0683) |
+| Can You Feel the Love Tonight - From "The Lion King" / Soundtrack Version (0.57) | God Help the Outcasts (0.073) |
+| Friends on the Other Side (0.51) | Out There (0.0779) |
+| Poor Unfortunate Souls (0.367) | Be Our Guest - From "Beauty And The Beast" Soundtrack (0.0788) |
+| Reflection (0.335) | Who's Afraid of the Big, Bad Wolf - From "Three Little Pigs" (0.0919) |
+| Love Is an Open Door - From "Frozen"/Soundtrack Version (0.319) | I Just Can't Wait to Be King - From "The Lion King" Soundtrack (0.0958) |
+| In My Life (0.312) | A Whole New World (0.1) |
+| Circle of Life - From "The Lion King" Soundtrack (0.296) | Be Prepared - From "The Lion King" / Soundtrack Version (0.1) |
+| Part of Your World (0.29) | Kiss the Girl (0.104) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| I Just Can't Wait to Be King - From "The Lion King" Soundtrack | A Heart Full Of Love |
-| Bibbidi-Bobbidi-Boo - From "Cinderella" Soundtrack | Reflection |
-| A Girl Worth Fighting For | How Far I'll Go |
-| Under the Sea | Heaven's Light/Hellfire |
-| Hakuna Matata - From "The Lion King" Soundtrack | God Help the Outcasts |
-| Kiss the Girl | A Whole New World |
-| One Jump Ahead | In My Life |
-| Gaston - From "Beauty and the Beast" / Soundtrack Version | A Dream Is a Wish Your Heart Makes |
-| Honor To Us All | Do You Want to Build a Snowman? - From "Frozen"/Soundtrack Version |
-| Who's Afraid of the Big, Bad Wolf - From "Three Little Pigs" | Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version |
+| I Just Can't Wait to Be King - From "The Lion King" Soundtrack (0.898) | A Heart Full Of Love (0.079) |
+| Bibbidi-Bobbidi-Boo - From "Cinderella" Soundtrack (0.852) | Reflection (0.0829) |
+| A Girl Worth Fighting For (0.849) | How Far I'll Go (0.108) |
+| Under the Sea (0.819) | Heaven's Light/Hellfire (0.117) |
+| Hakuna Matata - From "The Lion King" Soundtrack (0.725) | A Whole New World (0.128) |
+| Kiss the Girl (0.721) | God Help the Outcasts (0.128) |
+| One Jump Ahead (0.688) | In My Life (0.141) |
+| Gaston - From "Beauty and the Beast" / Soundtrack Version (0.678) | A Dream Is a Wish Your Heart Makes (0.149) |
+| Honor To Us All (0.652) | Do You Want to Build a Snowman? - From "Frozen"/Soundtrack Version (0.166) |
+| Who's Afraid of the Big, Bad Wolf - From "Three Little Pigs" (0.635) | Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version (0.183) |

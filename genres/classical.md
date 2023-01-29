@@ -227,91 +227,91 @@
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| 24 Préludes, Op. 28: No. 20 in C Minor: Largo | String Quartet No. 8 in C Minor, Op. 110: V. Largo |
-| Brandenburg Concerto No. 2 in F, BWV 1047: 3. Allegro assai | The Planets, Op. 32: 7. Neptune, the Mystic |
-| Brandenburg Concerto No. 2 in F, BWV 1047: 1. (Allegro) | Symphony No. 9 In D Minor, Op. 125 - "Choral": 3. Adagio molto e cantabile |
-| 24 Préludes, Op. 28: No. 20 in C Minor: Largo | String Quartet in G Minor, Op. 10: III. Andantino, doucement expressif |
-| Coppélia / Tableau 2: No. 16 Boléro - Alternative Version | La Mer, L.109: 1. From Dawn Till Noon On The Sea (De l'aube à midi sur la mer) |
-| Coppélia / Tableau 2: No. 11a Musique des automates | Vespers, Op. 37: XII. "Slava v vyshnikh Bogu" |
-| String Quartet No.11 in F Minor, Op. 122: V. Humoresque (Allegro) | Die Zauberflöte, K.620 / Act 2: "O Isis und Osiris, welche Wonne!" |
-| 24 Préludes, Op. 28: No. 10 in C-Sharp Minor: Molto allegro | Requiem in D Minor, Op.48: 2. Offertorium: Domine Jesu Christe |
-| String Quartet No. 4 in C Major, K. 157: III. Presto | Horn Concerto No. 4 in E-Flat Major, K. 495: II. Romanza. Andante |
-| A Midsummer Night's Dream, Incidental Music, Op. 61: "Ay Me! For Aught That I Could Ever Read" | String Quartet No. 8 in C Minor, Op. 110: I. Largo |
+| 24 Préludes, Op. 28: No. 20 in C Minor: Largo (0.753) | String Quartet No. 8 in C Minor, Op. 110: V. Largo (0.0592) |
+| Brandenburg Concerto No. 2 in F, BWV 1047: 3. Allegro assai (0.691) | The Planets, Op. 32: 7. Neptune, the Mystic (0.0601) |
+| Brandenburg Concerto No. 2 in F, BWV 1047: 1. (Allegro) (0.687) | Symphony No. 9 In D Minor, Op. 125 - "Choral": 3. Adagio molto e cantabile (0.062) |
+| 24 Préludes, Op. 28: No. 20 in C Minor: Largo (0.677) | String Quartet in G Minor, Op. 10: III. Andantino, doucement expressif (0.0623) |
+| Coppélia / Tableau 2: No. 16 Boléro - Alternative Version (0.661) | La Mer, L.109: 1. From Dawn Till Noon On The Sea (De l'aube à midi sur la mer) (0.0633) |
+| Coppélia / Tableau 2: No. 11a Musique des automates (0.648) | Vespers, Op. 37: XII. "Slava v vyshnikh Bogu" (0.0636) |
+| String Quartet No.11 in F Minor, Op. 122: V. Humoresque (Allegro) (0.63) | Die Zauberflöte, K.620 / Act 2: "O Isis und Osiris, welche Wonne!" (0.0663) |
+| 24 Préludes, Op. 28: No. 10 in C-Sharp Minor: Molto allegro (0.629) | Requiem in D Minor, Op.48: 2. Offertorium: Domine Jesu Christe (0.0668) |
+| String Quartet No. 4 in C Major, K. 157: III. Presto (0.614) | Horn Concerto No. 4 in E-Flat Major, K. 495: II. Romanza. Andante (0.0683) |
+| A Midsummer Night's Dream, Incidental Music, Op. 61: "Ay Me! For Aught That I Could Ever Read" (0.614) | String Quartet No. 8 in C Minor, Op. 110: I. Largo (0.0744) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Procession of the Sage | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: The Sage |
-| 24 Préludes, Op. 28: No. 22 in G Minor | Préludes Book 1, L. 117: I. Des Pas sur La Neige |
-| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Ritual of Abduction | Images, Set 2, L. 111: et la Lune descend sur le Temple qui fut |
-| Requiem in D Minor, K.626: 3a. Sequientia: Dies irae | The Firebird (L'oiseau De Feu) - Suite (1919): Introduction |
-| String Quartet No. 8 in C Minor, Op. 110: II. Allegro molto | Préludes Book 2, L. 123: II. Canope |
-| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Dance of the Earth | Piano Sonata No. 21 in C Major, Op. 53 "Waldstein": II. Introduzione (Adagio molto) |
-| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12d, Divertissement. Trepak, Russian Dance | 24 Préludes, Op. 28: No. 7 in A Major |
-| Vespers, Op. 37: XV. "Vzbrannoy voevode" | Piano Sonata No. 31 in A flat, Op. 110: 3. Adagio ma non troppo |
-| The Planets, Op. 32: 1. Mars, the Bringer of War | 24 Préludes, Op. 28: No. 7 in A Major: Andantino |
-| Tchaikovsky: Swan Lake, Op. 20, Act III: No. 15, Scene. March - Allegro giusto | 24 Préludes, Op. 28: No. 2 in A Minor |
+| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Procession of the Sage (0.7) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: The Sage (0.000239) |
+| 24 Préludes, Op. 28: No. 22 in G Minor (0.641) | Préludes Book 1, L. 117: I. Des Pas sur La Neige (0.000594) |
+| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Ritual of Abduction (0.555) | Images, Set 2, L. 111: et la Lune descend sur le Temple qui fut (0.00104) |
+| Requiem in D Minor, K.626: 3a. Sequientia: Dies irae (0.542) | The Firebird (L'oiseau De Feu) - Suite (1919): Introduction (0.00108) |
+| String Quartet No. 8 in C Minor, Op. 110: II. Allegro molto (0.511) | Préludes Book 2, L. 123: II. Canope (0.00148) |
+| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Dance of the Earth (0.509) | Piano Sonata No. 21 in C Major, Op. 53 "Waldstein": II. Introduzione (Adagio molto) (0.00157) |
+| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12d, Divertissement. Trepak, Russian Dance (0.5) | Piano Sonata No. 31 in A flat, Op. 110: 3. Adagio ma non troppo (0.00168) |
+| Vespers, Op. 37: XV. "Vzbrannoy voevode" (0.488) | 24 Préludes, Op. 28: No. 7 in A Major (0.00168) |
+| The Planets, Op. 32: 1. Mars, the Bringer of War (0.478) | 24 Préludes, Op. 28: No. 7 in A Major: Andantino (0.00174) |
+| Tchaikovsky: Swan Lake, Op. 20, Act III: No. 15, Scene. March - Allegro giusto (0.474) | 24 Préludes, Op. 28: No. 2 in A Minor (0.00189) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| 24 Préludes, Op. 28: No. 20 in C Minor: Largo | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Dance of the Earth |
-| A Midsummer Night's Dream, Incidental Music, Op. 61: No. 2, L'istesso tempo | Requiem In D Minor, K.626: 4. Offertorium: Domine Jesu |
-| 24 Préludes, Op. 28: No. 20 in C Minor: Largo | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: The Augurs of Spring: Dances of the Young Girls |
-| A Midsummer Night's Dream, Incidental Music, Op. 61: "Ay Me! For Aught That I Could Ever Read" | Symphony No. 39 in E flat, K.543: 3. Menuetto (Allegretto) |
-| String Quartet No.11 in F Minor, Op. 122: V. Humoresque (Allegro) | 24 Préludes, Op. 28: No. 24 in D Minor: Allegro appassionato |
-| The Firebird (L'oiseau De Feu) - Suite (1919): Dance Of The Firebird | 24 Préludes, Op. 28: No. 12. in G-Sharp Minor |
-| Piano Sonata No. 21 in C Major, Op. 53 "Waldstein": II. Introduzione (Adagio molto) | Requiem In D Minor, K.626: 5. Sanctus |
-| Vivaldi: The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 "Winter": III. Allegro | 24 Préludes, Op. 28: No. 3 in G Major: Vivace |
-| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Glorification of the Chosen One | Requiem In D Minor, K.626: 2. Kyrie |
-| Piano Sonata No. 19 in G minor, Op. 49 No. 1: 2. Rondo (Allegro) | 13 Preludes, Op. 32: No. 6 in F Minor: Allegro appassionato |
+| 24 Préludes, Op. 28: No. 20 in C Minor: Largo (0.879) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Dance of the Earth (0.0292) |
+| A Midsummer Night's Dream, Incidental Music, Op. 61: No. 2, L'istesso tempo (0.676) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: The Augurs of Spring: Dances of the Young Girls (0.0293) |
+| 24 Préludes, Op. 28: No. 20 in C Minor: Largo (0.592) | Requiem In D Minor, K.626: 4. Offertorium: Domine Jesu (0.0293) |
+| A Midsummer Night's Dream, Incidental Music, Op. 61: "Ay Me! For Aught That I Could Ever Read" (0.524) | Symphony No. 39 in E flat, K.543: 3. Menuetto (Allegretto) (0.0297) |
+| String Quartet No.11 in F Minor, Op. 122: V. Humoresque (Allegro) (0.274) | 24 Préludes, Op. 28: No. 24 in D Minor: Allegro appassionato (0.0298) |
+| The Firebird (L'oiseau De Feu) - Suite (1919): Dance Of The Firebird (0.167) | 24 Préludes, Op. 28: No. 12. in G-Sharp Minor (0.03) |
+| Piano Sonata No. 21 in C Major, Op. 53 "Waldstein": II. Introduzione (Adagio molto) (0.0974) | Requiem In D Minor, K.626: 5. Sanctus (0.0301) |
+| Vivaldi: The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 "Winter": III. Allegro (0.0963) | 24 Préludes, Op. 28: No. 3 in G Major: Vivace (0.0303) |
+| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Glorification of the Chosen One (0.0935) | Requiem In D Minor, K.626: 2. Kyrie (0.0304) |
+| Piano Sonata No. 19 in G minor, Op. 49 No. 1: 2. Rondo (Allegro) (0.0889) | 13 Preludes, Op. 32: No. 6 in F Minor: Allegro appassionato (0.0304) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| Piano Sonata No. 10 in C Major, K. 330: II. Andante cantabile | Vivaldi: The Four Seasons, Violin Concerto in F Major, Op. 8 No. 3, RV 293 "Autumn": II. Adagio molto |
-| Wiosna, B117 (arr. from Op. 74/2) | Concerto for Violin and Strings in F Major, Op. 8, No. 3, RV 293 "L'autunno": II. Adagio molto (Ubriachi dormienti) |
-| Nocturne No. 12 In G, Op. 37 No. 2 | A Midsummer Night's Dream, Incidental Music, Op. 61: "Ay Me! For Aught That I Could Ever Read" |
-| Nocturne No. 11 In G Minor, Op. 37 No. 1 | Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12a, Divertissement. Chocolate, Spanish Dance |
-| Piano Sonata No. 31 in A-Flat Major, Op. 110: III. Adagio ma non troppo - | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: The Sage |
-| Vespers, Op. 37: XV. "Vzbrannoy voevode" | Vivaldi: The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 "Winter": II. Largo |
-| Nocturne No. 10 In A Flat, Op. 32 No. 2 | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Procession of the Sage |
-| 24 Préludes, Op. 28: No. 4 in E Minor | Die Zauberflöte, K.620 / Act 2: Ein Mädchen oder Weibchen (Papageno) |
-| Feuille d'album in E, Op. posth. | Concerto for Violin and Strings in E Major, Op. 8, No. 1, RV 269 "La Primavera": III. Allegro (Danza pastorale) |
-| 9 Sacred Pieces, TH 78: No. 3, Cherubic Hymn No. 3 | Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": II. Largo |
+| Nocturne No. 11 In G Minor, Op. 37 No. 1 (0.996) | Vivaldi: The Four Seasons, Violin Concerto in F Major, Op. 8 No. 3, RV 293 "Autumn": II. Adagio molto (0.0524) |
+| Piano Sonata No. 10 in C Major, K. 330: II. Andante cantabile (0.996) | Concerto for Violin and Strings in F Major, Op. 8, No. 3, RV 293 "L'autunno": II. Adagio molto (Ubriachi dormienti) (0.386) |
+| Nocturne No. 12 In G, Op. 37 No. 2 (0.996) | A Midsummer Night's Dream, Incidental Music, Op. 61: "Ay Me! For Aught That I Could Ever Read" (0.41) |
+| Wiosna, B117 (arr. from Op. 74/2) (0.996) | Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12a, Divertissement. Chocolate, Spanish Dance (0.583) |
+| Feuille d'album in E, Op. posth. (0.995) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: The Sage (0.591) |
+| 24 Préludes, Op. 28: No. 13 in F-Sharp Major (0.995) | Vivaldi: The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 "Winter": II. Largo (0.596) |
+| Piano Sonata No. 25 in G, Op. 79: 2. Andante (0.995) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Procession of the Sage (0.612) |
+| Vespers, Op. 37: VIII. "Kvalite imya Gospodne" (0.995) | Die Zauberflöte, K.620 / Act 2: Ein Mädchen oder Weibchen (Papageno) (0.623) |
+| Piano Sonata No. 16 in C Major, K. 545 "Sonata facile": II. Andante (0.995) | Concerto for Violin and Strings in E Major, Op. 8, No. 1, RV 269 "La Primavera": III. Allegro (Danza pastorale) (0.644) |
+| Piano Sonata No. 19 in G minor, Op. 49 No. 1: 1. Andante (0.995) | Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": II. Largo (0.65) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Vespers, Op. 37: XIV. "Voskrez iz groba" | Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": II. Largo |
-| Vespers, Op. 37: VI. "Bogoroditse Devo" | Die Zauberflöte, K.620 / Act 2: Ein Mädchen oder Weibchen (Papageno) |
-| Tchaikovsky: Swan Lake, Op. 20, Act IV: No. 26, Scene. Allegro ma non troppo | A Midsummer Night's Dream, Incidental Music, Op. 61: "Ay Me! For Aught That I Could Ever Read" |
-| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Introduction | Die Zauberflöte, K.620 / Act 1: "Bei Männern, welche Liebe fühlen" |
-| Requiem in D Minor, Op.48: 7. In paradisum | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 2, L'istesso tempo |
-| String Quartet No. 14 in C-Sharp Minor, Op. 131: VI. Adagio quasi un poco andante | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 4, Andante |
-| 24 Préludes, Op. 28: No. 10 in C-Sharp Minor | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 8, Andante |
-| Nocturne No. 8 In D Flat, Op. 27 No. 2 - 2005 Recording | Concerto for Violin and Strings in F Major, Op. 8, No. 3, RV 293 "L'autunno": II. Adagio molto (Ubriachi dormienti) |
-| Divertimento No. 11 in D, K.251 "Nannerl-Septett": Menuetto (Tema con variazioni) | A Midsummer Night's Dream, Incidental Music, Op. 61: Finale. Allegro di molto |
-| 24 Préludes, Op. 28: No. 11 in B Major | Die Zauberflöte, K.620 / Act 1: Der Vogelfänger bin ich ja (Papageno) |
+| Vespers, Op. 37: XIV. "Voskrez iz groba" (0.98) | Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": II. Largo (0.0) |
+| Vespers, Op. 37: VI. "Bogoroditse Devo" (0.979) | A Midsummer Night's Dream, Incidental Music, Op. 61: "Ay Me! For Aught That I Could Ever Read" (0.0) |
+| Tchaikovsky: Swan Lake, Op. 20, Act IV: No. 26, Scene. Allegro ma non troppo (0.978) | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 8, Andante (0.0) |
+| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Introduction (0.972) | Die Zauberflöte, K.620 / Act 2: Ein Mädchen oder Weibchen (Papageno) (0.0) |
+| Requiem in D Minor, Op.48: 7. In paradisum (0.971) | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 4, Andante (0.0) |
+| String Quartet No. 14 in C-Sharp Minor, Op. 131: VI. Adagio quasi un poco andante (0.97) | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 2, L'istesso tempo (0.0) |
+| 24 Préludes, Op. 28: No. 10 in C-Sharp Minor (0.964) | Die Zauberflöte, K.620 / Act 1: "Bei Männern, welche Liebe fühlen" (0.0) |
+| Nocturne No. 8 In D Flat, Op. 27 No. 2 - 2005 Recording (0.959) | Concerto for Violin and Strings in F Major, Op. 8, No. 3, RV 293 "L'autunno": II. Adagio molto (Ubriachi dormienti) (2.04e-06) |
+| Divertimento No. 11 in D, K.251 "Nannerl-Septett": Menuetto (Tema con variazioni) (0.958) | A Midsummer Night's Dream, Incidental Music, Op. 61: Finale. Allegro di molto (3.2e-06) |
+| 24 Préludes, Op. 28: No. 11 in B Major (0.956) | Die Zauberflöte, K.620 / Act 1: Der Vogelfänger bin ich ja (Papageno) (1.03e-05) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| The Firebird (L'oiseau De Feu) - Suite (1919): 3. Variation Of The Firebird | String Quartet No. 2 In A Minor, Op. 51 No. 2: 4. Finale (Allegro non assai - Più vivace) |
-| Polonaise No. 6 in A-Flat Major, Op. 53, "Heroic" | String Quartet No. 3 in D Major, Op. 18: I. Allegro |
-| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: The Augurs of Spring: Dances of the Young Girls | Ballade No. 2 in F Major, Op. 38 |
-| A Midsummer Night's Dream, Incidental Music, Op. 61: No. 4, Andante | 24 Préludes, Op. 28: No. 7 in A Major: Andantino |
-| String Quartet No. 2 in G Major, Op. 18, No. 2: III. Scherzo (Allegro) - Trio | Piano Sonata No. 32 in C minor, Op. 111: 2. Arietta (Adagio molto semplice e cantabile) |
-| Symphony No. 5 In C Minor, Op. 67: 3. Allegro | 13 Preludes, Op. 32: No. 7 in F Major: Moderato |
-| Symphony No. 36 in C Major, K. 425 "Linz": 3. Menuetto | Concerto for Violin and Strings in F Major, Op. 8, No. 3, RV 293 "L'autunno": II. Adagio molto (Ubriachi dormienti) |
-| Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 3, Children's Galop and Entry of the Parents | Piano Concerto No. 2 in C Minor, Op. 18: 2. Adagio sostenuto |
-| Tchaikovsky: Swan Lake, Op. 20, Act III: No. 18, Scene. Allegro - Allegro giusto | Préludes Book 2, L. 123: II. Canope |
-| Petrushka: First Scene: IV. Russian Dance (1911 original version) | Symphony No. 1 In C, Op. 21: 3. Menuetto (Allegro molto e vivace) |
+| The Firebird (L'oiseau De Feu) - Suite (1919): 3. Variation Of The Firebird (0.743) | String Quartet No. 2 In A Minor, Op. 51 No. 2: 4. Finale (Allegro non assai - Più vivace) (0.0439) |
+| Polonaise No. 6 in A-Flat Major, Op. 53, "Heroic" (0.682) | String Quartet No. 3 in D Major, Op. 18: I. Allegro (0.045) |
+| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: The Augurs of Spring: Dances of the Young Girls (0.669) | Ballade No. 2 in F Major, Op. 38 (0.0494) |
+| A Midsummer Night's Dream, Incidental Music, Op. 61: No. 4, Andante (0.626) | 24 Préludes, Op. 28: No. 7 in A Major: Andantino (0.0504) |
+| String Quartet No. 2 in G Major, Op. 18, No. 2: III. Scherzo (Allegro) - Trio (0.62) | Piano Sonata No. 32 in C minor, Op. 111: 2. Arietta (Adagio molto semplice e cantabile) (0.0511) |
+| Symphony No. 5 In C Minor, Op. 67: 3. Allegro (0.614) | 13 Preludes, Op. 32: No. 7 in F Major: Moderato (0.0533) |
+| Symphony No. 36 in C Major, K. 425 "Linz": 3. Menuetto (0.594) | Concerto for Violin and Strings in F Major, Op. 8, No. 3, RV 293 "L'autunno": II. Adagio molto (Ubriachi dormienti) (0.0551) |
+| Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 3, Children's Galop and Entry of the Parents (0.578) | Piano Concerto No. 2 in C Minor, Op. 18: 2. Adagio sostenuto (0.0551) |
+| Tchaikovsky: Swan Lake, Op. 20, Act III: No. 18, Scene. Allegro - Allegro giusto (0.565) | Préludes Book 2, L. 123: II. Canope (0.0553) |
+| Petrushka: First Scene: IV. Russian Dance (1911 original version) (0.558) | Symphony No. 1 In C, Op. 21: 3. Menuetto (Allegro molto e vivace) (0.0554) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| Brandenburg Concerto No. 2 in F, BWV 1047: 3. Allegro assai | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: The Sage |
-| Petrushka: Third Scene: II. Dance of the Ballerina (1911 original version) | The Firebird (L'oiseau De Feu) - Suite (1919): Dance Of The Firebird |
-| Galop Marquis | 24 Préludes, Op. 28: No. 7 in A Major: Andantino |
-| Waltz No. 16 in A flat, Op. posth. | String Quartet No. 9 in E-Flat Major, Op. 117: II. Adagio |
-| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12a, Divertissement. Chocolate, Spanish Dance | 24 Préludes, Op. 28: No. 9 in E Major: Largo |
-| String Quartet No. 4 in C Major, K. 157: III. Presto | The Planets, Op. 32: 2. Venus, the Bringer of Peace |
-| Cello Suite No. 3 in C Major, BWV 1009: III. Courante | The Planets, Op. 32: 7. Neptune, the Mystic |
-| Cello Suite No. 4 in E-Flat Major, BWV 1010: VI. Gigue | String Quartet No.11 in F Minor, Op. 122: VI. Elégie (Adagio) |
-| Cello Suite No. 2 in D Minor, BWV 1008: III. Courante | Concerto for Orchestra, Sz. 116: 3. Elegia (Andante, non troppo) |
-| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12d, Divertissement. Trepak, Russian Dance | The Planets, Op. 32: 5. Saturn, the Bringer of Old Age |
+| Brandenburg Concerto No. 2 in F, BWV 1047: 3. Allegro assai (0.931) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: The Sage (0.0) |
+| Petrushka: Third Scene: II. Dance of the Ballerina (1911 original version) (0.907) | The Firebird (L'oiseau De Feu) - Suite (1919): Dance Of The Firebird (0.0) |
+| Galop Marquis (0.893) | 24 Préludes, Op. 28: No. 7 in A Major: Andantino (0.0) |
+| Waltz No. 16 in A flat, Op. posth. (0.89) | String Quartet No. 9 in E-Flat Major, Op. 117: II. Adagio (0.0251) |
+| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12a, Divertissement. Chocolate, Spanish Dance (0.879) | 24 Préludes, Op. 28: No. 9 in E Major: Largo (0.0292) |
+| String Quartet No. 4 in C Major, K. 157: III. Presto (0.878) | The Planets, Op. 32: 2. Venus, the Bringer of Peace (0.0301) |
+| Cello Suite No. 3 in C Major, BWV 1009: III. Courante (0.871) | The Planets, Op. 32: 7. Neptune, the Mystic (0.0305) |
+| Cello Suite No. 4 in E-Flat Major, BWV 1010: VI. Gigue (0.869) | String Quartet No.11 in F Minor, Op. 122: VI. Elégie (Adagio) (0.0307) |
+| Cello Suite No. 2 in D Minor, BWV 1008: III. Courante (0.852) | Concerto for Orchestra, Sz. 116: 3. Elegia (Andante, non troppo) (0.0312) |
+| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12d, Divertissement. Trepak, Russian Dance (0.851) | The Planets, Op. 32: 5. Saturn, the Bringer of Old Age (0.0316) |

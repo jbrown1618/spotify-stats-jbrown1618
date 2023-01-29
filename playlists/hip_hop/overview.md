@@ -115,11 +115,11 @@
 
 ## Genres
 
-![Bar chart of top 24 genres](../../images/playlists/hip_hop/genres.png)
+![Bar chart of top 25 genres](../../images/playlists/hip_hop/genres.png)
 
 
 <details>
-<summary>See all 24 genres</summary>
+<summary>See all 25 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -143,6 +143,7 @@
 | 1 | old school hip hop |
 | 1 | old school atlanta hip hop |
 | 1 | lgbtq+ hip hop |
+| 1 | hip house |
 | 1 | crunk |
 | 1 | conscious hip hop |
 | 1 | australian hip hop |
@@ -173,91 +174,91 @@
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| Anaconda | Get Low |
-| WAP (feat. Megan Thee Stallion) | All Of The Lights |
-| Baby Got Back | Can't Tell Me Nothing |
-| We Made You | Hello Good Morning |
-| Sally Walker | Gold Digger |
-| Where Is The Love? | Jesus Walks |
-| Alright | Need to Know |
-| Say So | Lose Yourself |
-| The Monster | Boss Bitch |
-| Kiss Me More (feat. SZA) | Super Bass |
+| Anaconda (0.964) | Get Low (0.521) |
+| WAP (feat. Megan Thee Stallion) (0.935) | All Of The Lights (0.531) |
+| Baby Got Back (0.926) | Can't Tell Me Nothing (0.596) |
+| We Made You (0.924) | Hello Good Morning (0.616) |
+| Sally Walker (0.905) | Gold Digger (0.629) |
+| Where Is The Love? (0.834) | Jesus Walks (0.637) |
+| Alright (0.796) | Need to Know (0.664) |
+| Say So (0.787) | Lose Yourself (0.689) |
+| The Monster (0.781) | Boss Bitch (0.707) |
+| Kiss Me More (feat. SZA) (0.762) | Super Bass (0.72) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| Boss Bitch | WAP (feat. Megan Thee Stallion) |
-| Hello Good Morning | Sally Walker |
-| Love The Way You Lie | No Hands (feat. Roscoe Dash & Wale) |
-| Super Bass | Anaconda |
-| We Made You | Need to Know |
-| The Monster | Can't Tell Me Nothing |
-| Jesus Walks | Get Low |
-| All Of The Lights | Baby Got Back |
-| Alright | Say So |
-| Lose Yourself | INDUSTRY BABY (feat. Jack Harlow) |
+| Boss Bitch (0.955) | WAP (feat. Megan Thee Stallion) (0.454) |
+| Hello Good Morning (0.954) | Sally Walker (0.492) |
+| Love The Way You Lie (0.925) | No Hands (feat. Roscoe Dash & Wale) (0.595) |
+| Super Bass (0.861) | Anaconda (0.605) |
+| We Made You (0.853) | Need to Know (0.609) |
+| The Monster (0.853) | Can't Tell Me Nothing (0.62) |
+| Jesus Walks (0.834) | Get Low (0.625) |
+| All Of The Lights (0.803) | Baby Got Back (0.669) |
+| Alright (0.766) | Say So (0.673) |
+| Lose Yourself (0.735) | INDUSTRY BABY (feat. Jack Harlow) (0.691) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| WAP (feat. Megan Thee Stallion) | Kiss Me More (feat. SZA) |
-| Gold Digger | Can't Tell Me Nothing |
-| Jesus Walks | No Hands (feat. Roscoe Dash & Wale) |
-| Baby Got Back | Get Low |
-| Lose Yourself | INDUSTRY BABY (feat. Jack Harlow) |
-| Hello Good Morning | Need to Know |
-| Alright | The Monster |
-| Love The Way You Lie | All Of The Lights |
-| Boss Bitch | We Made You |
-| Super Bass | Sally Walker |
+| WAP (feat. Megan Thee Stallion) (0.375) | Kiss Me More (feat. SZA) (0.0286) |
+| Gold Digger (0.348) | Can't Tell Me Nothing (0.039) |
+| Jesus Walks (0.323) | No Hands (feat. Roscoe Dash & Wale) (0.0391) |
+| Baby Got Back (0.301) | Get Low (0.067) |
+| Lose Yourself (0.267) | INDUSTRY BABY (feat. Jack Harlow) (0.0672) |
+| Hello Good Morning (0.239) | Need to Know (0.0707) |
+| Alright (0.238) | The Monster (0.0715) |
+| Love The Way You Lie (0.227) | All Of The Lights (0.0717) |
+| Boss Bitch (0.222) | We Made You (0.0792) |
+| Super Bass (0.209) | Sally Walker (0.0936) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| Jesus Walks | Baby Got Back |
-| Need to Know | No Hands (feat. Roscoe Dash & Wale) |
-| Super Bass | Lose Yourself |
-| Say So | Can't Tell Me Nothing |
-| Love The Way You Lie | Sally Walker |
-| Kiss Me More (feat. SZA) | WAP (feat. Megan Thee Stallion) |
-| Boss Bitch | Gold Digger |
-| Where Is The Love? | INDUSTRY BABY (feat. Jack Harlow) |
-| We Made You | Get Low |
-| All Of The Lights | The Monster |
+| Jesus Walks (0.614) | Baby Got Back (0.0051) |
+| Need to Know (0.304) | No Hands (feat. Roscoe Dash & Wale) (0.00544) |
+| Super Bass (0.269) | Lose Yourself (0.00922) |
+| Say So (0.264) | Can't Tell Me Nothing (0.0122) |
+| Love The Way You Lie (0.241) | Sally Walker (0.0177) |
+| Kiss Me More (feat. SZA) (0.235) | WAP (feat. Megan Thee Stallion) (0.0194) |
+| Boss Bitch (0.127) | Gold Digger (0.0195) |
+| Where Is The Love? (0.111) | INDUSTRY BABY (feat. Jack Harlow) (0.0221) |
+| We Made You (0.107) | Get Low (0.0301) |
+| All Of The Lights (0.0796) | The Monster (0.0525) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Lose Yourself | Boss Bitch |
-| Kiss Me More (feat. SZA) | The Monster |
-| All Of The Lights | Alright |
-| Anaconda | Baby Got Back |
-| Super Bass | Gold Digger |
-| Say So | Love The Way You Lie |
-| We Made You | Get Low |
-| Boss Bitch | No Hands (feat. Roscoe Dash & Wale) |
-| Love The Way You Lie | Where Is The Love? |
-| The Monster | Jesus Walks |
+| Lose Yourself (0.00072) | No Hands (feat. Roscoe Dash & Wale) (0.0) |
+| Kiss Me More (feat. SZA) (0.000158) | Can't Tell Me Nothing (0.0) |
+| All Of The Lights (1.71e-05) | Get Low (0.0) |
+| Anaconda (7.78e-06) | Where Is The Love? (0.0) |
+| Super Bass (5.11e-06) | Love The Way You Lie (0.0) |
+| Say So (3.35e-06) | Gold Digger (0.0) |
+| We Made You (1.45e-06) | Baby Got Back (0.0) |
+| Hello Good Morning (0.0) | Sally Walker (0.0) |
+| Boss Bitch (0.0) | Need to Know (0.0) |
+| Jesus Walks (0.0) | Alright (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| Can't Tell Me Nothing | INDUSTRY BABY (feat. Jack Harlow) |
-| Hello Good Morning | Gold Digger |
-| Super Bass | WAP (feat. Megan Thee Stallion) |
-| Love The Way You Lie | Alright |
-| Lose Yourself | Baby Got Back |
-| Jesus Walks | Say So |
-| No Hands (feat. Roscoe Dash & Wale) | Need to Know |
-| Anaconda | Sally Walker |
-| Boss Bitch | The Monster |
-| All Of The Lights | Get Low |
+| Can't Tell Me Nothing (0.82) | INDUSTRY BABY (feat. Jack Harlow) (0.0476) |
+| Hello Good Morning (0.669) | Gold Digger (0.0554) |
+| Super Bass (0.601) | WAP (feat. Megan Thee Stallion) (0.0824) |
+| Love The Way You Lie (0.52) | Alright (0.0827) |
+| Lose Yourself (0.365) | Baby Got Back (0.0887) |
+| Jesus Walks (0.317) | Say So (0.0904) |
+| No Hands (feat. Roscoe Dash & Wale) (0.241) | Need to Know (0.0926) |
+| Anaconda (0.214) | Sally Walker (0.0994) |
+| Boss Bitch (0.202) | The Monster (0.12) |
+| All Of The Lights (0.176) | Get Low (0.121) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| INDUSTRY BABY (feat. Jack Harlow) | Lose Yourself |
-| Where Is The Love? | Can't Tell Me Nothing |
-| Say So | Get Low |
-| Kiss Me More (feat. SZA) | Need to Know |
-| Jesus Walks | All Of The Lights |
-| We Made You | WAP (feat. Megan Thee Stallion) |
-| Super Bass | No Hands (feat. Roscoe Dash & Wale) |
-| Anaconda | Alright |
-| Baby Got Back | Hello Good Morning |
-| Love The Way You Lie | Boss Bitch |
+| INDUSTRY BABY (feat. Jack Harlow) (0.892) | Lose Yourself (0.059) |
+| Where Is The Love? (0.809) | Can't Tell Me Nothing (0.102) |
+| Say So (0.779) | Get Low (0.136) |
+| Kiss Me More (feat. SZA) (0.742) | Need to Know (0.194) |
+| Jesus Walks (0.715) | All Of The Lights (0.221) |
+| We Made You (0.67) | WAP (feat. Megan Thee Stallion) (0.357) |
+| Super Bass (0.669) | No Hands (feat. Roscoe Dash & Wale) (0.361) |
+| Anaconda (0.646) | Alright (0.558) |
+| Baby Got Back (0.642) | Hello Good Morning (0.571) |
+| Love The Way You Lie (0.641) | Boss Bitch (0.575) |

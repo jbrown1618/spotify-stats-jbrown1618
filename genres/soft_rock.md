@@ -131,91 +131,91 @@
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| Dreams - 2004 Remaster | Lights |
-| Eye of the Tiger | Desperado - 2013 Remaster |
-| You Can Call Me Al | She's Always a Woman |
-| Sara - 2015 Remaster | Come Sail Away |
-| My Life | Piano Man |
-| A Matter of Trust | And So It Goes |
-| Rhiannon | The Boxer |
-| We Didn't Start the Fire | Captain Jack |
-| I Feel the Earth Move | Landslide |
-| Stayin Alive | Scenes from an Italian Restaurant |
+| Dreams - 2004 Remaster (0.828) | Lights (0.193) |
+| Eye of the Tiger (0.817) | Desperado - 2013 Remaster (0.228) |
+| You Can Call Me Al (0.776) | She's Always a Woman (0.292) |
+| Sara - 2015 Remaster (0.743) | Come Sail Away (0.324) |
+| My Life (0.741) | Piano Man (0.334) |
+| A Matter of Trust (0.738) | And So It Goes (0.351) |
+| Rhiannon (0.723) | The Boxer (0.351) |
+| We Didn't Start the Fire (0.712) | Captain Jack (0.392) |
+| I Feel the Earth Move (0.711) | Landslide (0.414) |
+| Stayin Alive (0.703) | Scenes from an Italian Restaurant (0.415) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| We Didn't Start the Fire | And So It Goes |
-| Uptown Girl | The Boxer |
-| Go Your Own Way - 2004 Remaster | And So It Goes |
-| Any Way You Want It | She's Got a Way |
-| Scenes from an Italian Restaurant | I Can't Make You Love Me |
-| Take on Me | Lullabye (Goodnight, My Angel) |
-| Movin' Out (Anthony's Song) | Landslide |
-| The Stranger | So Far Away |
-| Only the Good Die Young | Crazy Love - 2013 Remaster |
-| 25 or 6 to 4 | Desperado - 2013 Remaster |
+| We Didn't Start the Fire (0.967) | And So It Goes (0.0387) |
+| Uptown Girl (0.944) | The Boxer (0.0802) |
+| Go Your Own Way - 2004 Remaster (0.941) | And So It Goes (0.0871) |
+| Any Way You Want It (0.932) | She's Got a Way (0.142) |
+| Scenes from an Italian Restaurant (0.931) | I Can't Make You Love Me (0.149) |
+| Take on Me (0.902) | Lullabye (Goodnight, My Angel) (0.157) |
+| Movin' Out (Anthony's Song) (0.88) | Landslide (0.161) |
+| The Stranger (0.878) | So Far Away (0.172) |
+| Only the Good Die Young (0.872) | Crazy Love - 2013 Remaster (0.188) |
+| 25 or 6 to 4 (0.869) | Desperado - 2013 Remaster (0.224) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| Only the Good Die Young | Fields Of Gold |
-| Scenes from an Italian Restaurant | The Longest Time |
-| Big Shot | A Matter of Trust |
-| Crazy Love - 2013 Remaster | Hotel California - 2013 Remaster |
-| The Stranger | Cold as Ice |
-| Crazy Love | Piano Man |
-| Can't Take My Eyes off You | Dreams - 2004 Remaster |
-| The River of Dreams | Dust in the Wind |
-| Don't Ask Me Why | Rhiannon |
-| Take on Me | Sara - 2015 Remaster |
+| Only the Good Die Young (0.159) | Fields Of Gold (0.0246) |
+| Scenes from an Italian Restaurant (0.126) | The Longest Time (0.0262) |
+| Big Shot (0.0972) | A Matter of Trust (0.0268) |
+| Crazy Love - 2013 Remaster (0.0959) | Hotel California - 2013 Remaster (0.027) |
+| The Stranger (0.0837) | Cold as Ice (0.0271) |
+| Crazy Love (0.0819) | Dreams - 2004 Remaster (0.0276) |
+| Can't Take My Eyes off You (0.0746) | Piano Man (0.0276) |
+| The River of Dreams (0.0576) | Dust in the Wind (0.0283) |
+| Don't Ask Me Why (0.0543) | Rhiannon (0.0296) |
+| Take on Me (0.054) | Sara - 2015 Remaster (0.0303) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| She's Got a Way | Any Way You Want It |
-| Lullabye (Goodnight, My Angel) | Carry on Wayward Son |
-| Desperado - 2013 Remaster | Hotel California - 2013 Remaster |
-| And So It Goes | The Chain - 2004 Remaster |
-| The Boxer | Pressure |
-| And So It Goes | Renegade |
-| So Far Away | Go Your Own Way - 2004 Remaster |
-| Landslide | Take on Me |
-| Crazy Love | Cold as Ice |
-| I Can't Make You Love Me | Stayin Alive |
+| She's Got a Way (0.97) | Any Way You Want It (0.00251) |
+| Lullabye (Goodnight, My Angel) (0.948) | Carry on Wayward Son (0.00321) |
+| Desperado - 2013 Remaster (0.946) | Hotel California - 2013 Remaster (0.00574) |
+| And So It Goes (0.941) | The Chain - 2004 Remaster (0.009) |
+| The Boxer (0.93) | Pressure (0.0148) |
+| And So It Goes (0.91) | Renegade (0.0151) |
+| So Far Away (0.897) | Go Your Own Way - 2004 Remaster (0.0167) |
+| Landslide (0.883) | Take on Me (0.018) |
+| Crazy Love (0.85) | Cold as Ice (0.0264) |
+| I Can't Make You Love Me (0.846) | Stayin Alive (0.0328) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Rhiannon | Cold as Ice |
-| 25 or 6 to 4 | Don't Stop Believin' |
-| Sara - 2015 Remaster | Brown Eyed Girl |
-| Fields Of Gold | Daydream Believer |
-| Stayin Alive | Cat's in the Cradle |
-| Lights | Don't Ask Me Why |
-| You Can Call Me Al | Uptown Girl |
-| Dreams - 2004 Remaster | The Longest Time |
-| I Feel the Earth Move | Vienna |
-| My Life | Lullabye (Goodnight, My Angel) |
+| Rhiannon (0.0946) | And So It Goes (0.0) |
+| 25 or 6 to 4 (0.0367) | Cat's in the Cradle (0.0) |
+| Sara - 2015 Remaster (0.0208) | Only the Good Die Young (0.0) |
+| Fields Of Gold (0.0141) | We Didn't Start the Fire (0.0) |
+| Stayin Alive (0.00839) | Brown Eyed Girl (0.0) |
+| Lights (0.00711) | Vienna (0.0) |
+| You Can Call Me Al (0.00647) | Don't Stop Believin' (0.0) |
+| Dreams - 2004 Remaster (0.00428) | Lullabye (Goodnight, My Angel) (0.0) |
+| I Feel the Earth Move (0.00226) | The Longest Time (0.0) |
+| My Life (0.00139) | Uptown Girl (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| Uptown Girl | The Chain - 2004 Remaster |
-| Don't Stop Believin' | I Feel the Earth Move |
-| Carry on Wayward Son | My Life |
-| Brown Eyed Girl | Hotel California - 2013 Remaster |
-| Captain Jack | Movin' Out (Anthony's Song) |
-| We Didn't Start the Fire | Easy |
-| Lights | The Boxer |
-| New York State of Mind | The River of Dreams |
-| Piano Man | Go Your Own Way - 2004 Remaster |
-| A Matter of Trust | Can't Take My Eyes off You |
+| Uptown Girl (0.601) | The Chain - 2004 Remaster (0.0451) |
+| Don't Stop Believin' (0.447) | I Feel the Earth Move (0.0528) |
+| Carry on Wayward Son (0.446) | My Life (0.0555) |
+| Brown Eyed Girl (0.406) | Hotel California - 2013 Remaster (0.0575) |
+| Captain Jack (0.374) | Movin' Out (Anthony's Song) (0.0591) |
+| We Didn't Start the Fire (0.356) | Easy (0.0596) |
+| Lights (0.332) | The Boxer (0.0619) |
+| New York State of Mind (0.323) | The River of Dreams (0.0667) |
+| Piano Man (0.312) | Go Your Own Way - 2004 Remaster (0.068) |
+| A Matter of Trust (0.306) | Can't Take My Eyes off You (0.0692) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| I'm a Believer - 2006 Remaster | I Can't Make You Love Me |
-| Stayin Alive | Come Sail Away |
-| Brown Eyed Girl | Desperado - 2013 Remaster |
-| Movin' Out (Anthony's Song) | New York State of Mind |
-| We Didn't Start the Fire | She's Got a Way |
-| A Matter of Trust | Lullabye (Goodnight, My Angel) |
-| Take on Me | The Stranger |
-| Don't Ask Me Why | And So It Goes |
-| Pressure | Vienna |
-| Go Your Own Way - 2004 Remaster | Fields Of Gold |
+| I'm a Believer - 2006 Remaster (0.962) | I Can't Make You Love Me (0.113) |
+| Stayin Alive (0.949) | Come Sail Away (0.141) |
+| Brown Eyed Girl (0.908) | Desperado - 2013 Remaster (0.18) |
+| Movin' Out (Anthony's Song) (0.895) | New York State of Mind (0.194) |
+| We Didn't Start the Fire (0.895) | She's Got a Way (0.196) |
+| A Matter of Trust (0.88) | Lullabye (Goodnight, My Angel) (0.22) |
+| Take on Me (0.876) | The Stranger (0.222) |
+| Don't Ask Me Why (0.868) | And So It Goes (0.24) |
+| Pressure (0.851) | Vienna (0.308) |
+| Go Your Own Way - 2004 Remaster (0.831) | Fields Of Gold (0.32) |

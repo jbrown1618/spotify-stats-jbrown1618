@@ -92,91 +92,91 @@
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| Fidelity | Stay |
-| On the Radio | Gravity |
-| Little Black Dress | Once Upon Another Time |
-| Eden | Shadowboxer |
-| Electric Twist | Does He Love You? |
-| Black Horse And The Cherry Tree | City |
-| Blow Away | Come Round Soon |
-| I Choose You | Bluebird |
-| Silver Lining | Bright Lights and Cityscapes |
-| I Didn't Plan It | Everything Changes |
+| Fidelity (0.923) | Stay (0.262) |
+| On the Radio (0.88) | Gravity (0.27) |
+| Little Black Dress (0.787) | Once Upon Another Time (0.275) |
+| Eden (0.776) | Shadowboxer (0.298) |
+| Electric Twist (0.773) | Does He Love You? (0.317) |
+| Black Horse And The Cherry Tree (0.748) | City (0.319) |
+| Blow Away (0.747) | Come Round Soon (0.338) |
+| I Choose You (0.731) | Bluebird (0.34) |
+| Silver Lining (0.709) | Bright Lights and Cityscapes (0.343) |
+| I Didn't Plan It (0.695) | Everything Changes (0.348) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| Hello/Goodbye | Kaleidoscope Heart |
-| Bad Idea (feat. Jason Mraz) | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 |
-| Morningside | I Can't Make You Love Me |
-| SleepWalking | Manhattan |
-| Let The Rain | Bright Lights and Cityscapes |
-| Love, Save The Empty | Samson |
-| Accidntel Deth | Bluebird |
-| Bobble Head | Once Upon Another Time |
-| Fairytale | Almost Lover |
-| Brave | What's Inside |
+| Hello/Goodbye (0.893) | Kaleidoscope Heart (0.0516) |
+| Bad Idea (feat. Jason Mraz) (0.889) | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 (0.114) |
+| Morningside (0.88) | I Can't Make You Love Me (0.149) |
+| SleepWalking (0.874) | Manhattan (0.168) |
+| Let The Rain (0.873) | Bright Lights and Cityscapes (0.184) |
+| Love, Save The Empty (0.865) | Samson (0.193) |
+| Accidntel Deth (0.863) | Bluebird (0.203) |
+| Bobble Head (0.862) | Once Upon Another Time (0.216) |
+| Fairytale (0.857) | Almost Lover (0.24) |
+| Brave (0.836) | What's Inside (0.242) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| Electric Twist | Satellite Call |
-| Accidntel Deth | Whisper |
-| Opening Up | Pitter-Pat |
-| Kaleidoscope Heart | Machine Gun |
-| Come Round Soon | Orpheus |
-| Bad Idea (feat. Jason Mraz) | Sweet As Whole |
-| Black Horse And The Cherry Tree | Breathe Again |
-| Fire | Islands |
-| Eden | Silver Lining |
-| Little Black Dress | The Light |
+| Electric Twist (0.125) | Satellite Call (0.0241) |
+| Accidntel Deth (0.123) | Whisper (0.0252) |
+| Opening Up (0.0936) | Pitter-Pat (0.0256) |
+| Kaleidoscope Heart (0.0927) | Machine Gun (0.0268) |
+| Come Round Soon (0.0776) | Orpheus (0.0269) |
+| Bad Idea (feat. Jason Mraz) (0.0704) | Sweet As Whole (0.0275) |
+| Black Horse And The Cherry Tree (0.0641) | Breathe Again (0.0278) |
+| Fire (0.057) | Islands (0.0284) |
+| Eden (0.0562) | Silver Lining (0.0288) |
+| Little Black Dress (0.0554) | If I Can't Have You (0.0297) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| Bright Lights and Cityscapes | Portions for Foxes |
-| Manhattan | Now Is The Start |
-| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Brave |
-| Almost Lover | The Execution Of All Things |
-| Bluebird | Many the Miles |
-| What's Inside | Vegas |
-| Once Upon Another Time | Bad Idea (feat. Jason Mraz) |
-| Samson | Wicked Love |
-| Miss Simone | Gonna Get Over You |
-| I Can't Make You Love Me | Love Song |
+| Bright Lights and Cityscapes (0.977) | Portions for Foxes (0.000938) |
+| Manhattan (0.972) | Now Is The Start (0.00124) |
+| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 (0.959) | Brave (0.00502) |
+| Almost Lover (0.947) | The Execution Of All Things (0.00556) |
+| Bluebird (0.933) | Many the Miles (0.00796) |
+| What's Inside (0.919) | Vegas (0.00881) |
+| Once Upon Another Time (0.896) | Bad Idea (feat. Jason Mraz) (0.0168) |
+| Samson (0.862) | Wicked Love (0.0178) |
+| Miss Simone (0.859) | Gonna Get Over You (0.0199) |
+| I Can't Make You Love Me (0.846) | Love Song (0.0208) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| A Better Son/Daughter | Say You're Sorry |
-| The Execution Of All Things | Gravity |
-| Now Is The Start | Sweet As Whole |
-| Satellite Call | Once Upon Another Time |
-| Islands | Hercules |
-| Armor | Little Black Dress |
-| Portions for Foxes | If I Can't Have You |
-| Breathe Again | Everything Changes |
-| Miss Simone | Bad Idea (feat. Jason Mraz) |
-| The Light | Opening Up |
+| A Better Son/Daughter (0.91) | Say You're Sorry (0.0) |
+| The Execution Of All Things (0.158) | Sweet As Whole (0.0) |
+| Now Is The Start (0.0353) | Shadowboxer (0.0) |
+| Satellite Call (0.0318) | Come Round Soon (0.0) |
+| Islands (0.0261) | Black Horse And The Cherry Tree (0.0) |
+| Armor (0.0145) | Kaleidoscope Heart (0.0) |
+| Portions for Foxes (0.0121) | Everything Changes (0.0) |
+| Breathe Again (0.00655) | Vegas (0.0) |
+| Miss Simone (0.00407) | Hercules (0.0) |
+| The Light (0.00375) | Fairytale (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Uncharted |
-| Ashes And Wine | Brave |
-| Fire | Eden |
-| Black Horse And The Cherry Tree | Chasing The Sun |
-| Let The Rain | King of Anything |
-| It's Not That Easy | The Execution Of All Things |
-| Pitter-Pat | The Light |
-| SleepWalking | On the Radio |
-| Not Alone | Islands |
-| If I Can't Have You | Blow Away |
+| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 (0.781) | Uncharted (0.0343) |
+| Ashes And Wine (0.379) | Brave (0.0425) |
+| Fire (0.363) | Eden (0.0456) |
+| Black Horse And The Cherry Tree (0.34) | Chasing The Sun (0.0497) |
+| Let The Rain (0.297) | King of Anything (0.0574) |
+| It's Not That Easy (0.274) | The Execution Of All Things (0.0686) |
+| Pitter-Pat (0.263) | The Light (0.0691) |
+| SleepWalking (0.26) | On the Radio (0.0693) |
+| Not Alone (0.256) | Islands (0.0699) |
+| If I Can't Have You (0.254) | Blow Away (0.0701) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| I Choose You | A Better Son/Daughter |
-| Black Horse And The Cherry Tree | Once Upon Another Time |
-| Blow Away | Islands |
-| Electric Twist | Everything Changes |
-| Say You're Sorry | I Can't Make You Love Me |
-| King of Anything | Bluebird |
-| Lie To Me | What's Inside |
-| I Didn't Plan It | Almost Lover |
-| Bad Idea (feat. Jason Mraz) | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 |
-| Morningside | She Used To Be Mine |
+| I Choose You (0.947) | A Better Son/Daughter (0.0473) |
+| Black Horse And The Cherry Tree (0.917) | Once Upon Another Time (0.0551) |
+| Blow Away (0.891) | Islands (0.0863) |
+| Electric Twist (0.858) | Everything Changes (0.0983) |
+| Say You're Sorry (0.846) | I Can't Make You Love Me (0.113) |
+| King of Anything (0.81) | Bluebird (0.161) |
+| Lie To Me (0.795) | What's Inside (0.162) |
+| I Didn't Plan It (0.787) | Almost Lover (0.167) |
+| Bad Idea (feat. Jason Mraz) (0.787) | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 (0.168) |
+| Morningside (0.785) | Eet (0.172) |

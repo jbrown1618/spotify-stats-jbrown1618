@@ -108,91 +108,91 @@
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| bury a friend | Born To Die |
-| LoveGame | Norman fucking Rockwell |
-| Therefore I Am | Shades Of Cool |
-| Poker Face | La Vie En Rose |
-| Look What I Found | Shadowboxer |
-| Telephone | Radio |
-| Just Dance | Young And Beautiful |
-| Good Ones | Swan Song |
-| Paparazzi | Bel Air |
-| Show Me What | lovely (with Khalid) |
+| bury a friend (0.905) | Born To Die (0.18) |
+| LoveGame (0.894) | Norman fucking Rockwell (0.215) |
+| Therefore I Am (0.879) | Shades Of Cool (0.262) |
+| Poker Face (0.851) | La Vie En Rose (0.276) |
+| Look What I Found (0.849) | Shadowboxer (0.298) |
+| Telephone (0.824) | Radio (0.312) |
+| Just Dance (0.822) | Young And Beautiful (0.324) |
+| Good Ones (0.764) | Swan Song (0.34) |
+| Paparazzi (0.762) | Bel Air (0.346) |
+| Show Me What (0.755) | lovely (with Khalid) (0.351) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| Bad Romance | when the party's over |
-| Sour Candy (with BLACKPINK) | xanny |
-| Rain On Me (with Ariana Grande) | Norman fucking Rockwell |
-| Radio | No Time To Die |
-| Telephone | everything i wanted |
-| Poker Face | Video Games |
-| Just Dance | lovely (with Khalid) |
-| Off To The Races | Swan Song |
-| Yoü And I | ocean eyes |
-| Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] | Therefore I Am |
+| Bad Romance (0.921) | when the party's over (0.111) |
+| Sour Candy (with BLACKPINK) (0.87) | xanny (0.125) |
+| Rain On Me (with Ariana Grande) (0.855) | Norman fucking Rockwell (0.203) |
+| Radio (0.841) | No Time To Die (0.219) |
+| Telephone (0.836) | everything i wanted (0.225) |
+| Poker Face (0.806) | Video Games (0.255) |
+| Just Dance (0.739) | lovely (with Khalid) (0.296) |
+| Off To The Races (0.722) | Swan Song (0.361) |
+| Yoü And I (0.709) | ocean eyes (0.363) |
+| Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (0.704) | Therefore I Am (0.365) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| bad guy | Love |
-| bury a friend | Good Ones |
-| Show Me What | Swan Song |
-| xanny | Bel Air |
-| you should see me in a crown | Video Games |
-| Royals | Shades Of Cool |
-| everything i wanted | Shadowboxer |
-| when the party's over | Just Dance |
-| Therefore I Am | La Vie En Rose |
-| Billions | lovely (with Khalid) |
+| bad guy (0.375) | Love (0.0277) |
+| bury a friend (0.332) | Good Ones (0.0293) |
+| Show Me What (0.287) | Swan Song (0.0294) |
+| xanny (0.239) | Bel Air (0.0298) |
+| you should see me in a crown (0.186) | Video Games (0.0299) |
+| Royals (0.122) | Shades Of Cool (0.0302) |
+| everything i wanted (0.0994) | Shadowboxer (0.0303) |
+| when the party's over (0.0972) | Just Dance (0.0311) |
+| Therefore I Am (0.0924) | La Vie En Rose (0.0329) |
+| Billions (0.0921) | lovely (with Khalid) (0.0333) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| when the party's over | Bad Romance |
-| Norman fucking Rockwell | Telephone |
-| lovely (with Khalid) | LoveGame |
-| No Time To Die | Rain On Me (with Ariana Grande) |
-| everything i wanted | Just Dance |
-| Fuck it I love you | Summertime Sadness |
-| Bel Air | Cherry |
-| ocean eyes | Sour Candy (with BLACKPINK) |
-| Video Games | Off To The Races |
-| La Vie En Rose | Good Ones |
+| when the party's over (0.978) | Bad Romance (0.00314) |
+| Norman fucking Rockwell (0.968) | Telephone (0.00521) |
+| lovely (with Khalid) (0.934) | LoveGame (0.00569) |
+| No Time To Die (0.917) | Rain On Me (with Ariana Grande) (0.021) |
+| everything i wanted (0.902) | Just Dance (0.0264) |
+| Fuck it I love you (0.895) | Summertime Sadness (0.0456) |
+| Bel Air (0.864) | Cherry (0.048) |
+| ocean eyes (0.816) | Sour Candy (with BLACKPINK) (0.0604) |
+| Video Games (0.806) | Off To The Races (0.061) |
+| La Vie En Rose (0.758) | Good Ones (0.072) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| everything i wanted | Show Me What |
-| Swan Song | Til It Happens To You |
-| you should see me in a crown | Rain On Me (with Ariana Grande) |
-| bury a friend | La Vie En Rose |
-| Therefore I Am | Yoü And I |
-| bad guy | Million Reasons |
-| Bel Air | Shadowboxer |
-| Norman fucking Rockwell | lovely (with Khalid) |
-| ocean eyes | Paparazzi |
-| West Coast | Dark Paradise |
+| everything i wanted (0.657) | Shadowboxer (0.0) |
+| Swan Song (0.421) | Til It Happens To You (0.0) |
+| you should see me in a crown (0.219) | Show Me What (0.0) |
+| bury a friend (0.162) | Dark Paradise (0.0) |
+| Therefore I Am (0.135) | lovely (with Khalid) (0.0) |
+| bad guy (0.13) | Royals (0.0) |
+| Bel Air (0.0875) | La Vie En Rose (0.0) |
+| Norman fucking Rockwell (0.0585) | Summertime Sadness (0.0) |
+| ocean eyes (0.0317) | Yoü And I (0.0) |
+| West Coast (0.0194) | Paparazzi (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| Bel Air | Therefore I Am |
-| La Vie En Rose | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] |
-| Sour Candy (with BLACKPINK) | Good Ones |
-| Off To The Races | No Time To Die |
-| Cherry | ocean eyes |
-| Billions | Bad Romance |
-| Rain On Me (with Ariana Grande) | Radio |
-| LoveGame | Video Games |
-| xanny | when the party's over |
-| Swan Song | Show Me What |
+| Bel Air (0.901) | Therefore I Am (0.0583) |
+| La Vie En Rose (0.706) | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (0.0585) |
+| Sour Candy (with BLACKPINK) (0.489) | Good Ones (0.0806) |
+| Off To The Races (0.4) | No Time To Die (0.0827) |
+| Cherry (0.384) | ocean eyes (0.084) |
+| Billions (0.374) | Bad Romance (0.0842) |
+| Rain On Me (with Ariana Grande) (0.323) | Radio (0.0876) |
+| LoveGame (0.317) | Video Games (0.0887) |
+| xanny (0.265) | when the party's over (0.0897) |
+| Swan Song (0.259) | Show Me What (0.0903) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| LoveGame | Swan Song |
-| Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] | No Time To Die |
-| Good Ones | xanny |
-| Poker Face | Yellow Flicker Beat |
-| Sour Candy (with BLACKPINK) | Shades Of Cool |
-| Just Dance | Brooklyn Baby |
-| Telephone | lovely (with Khalid) |
-| Bad Romance | Off To The Races |
-| Therefore I Am | Norman fucking Rockwell |
-| Rain On Me (with Ariana Grande) | Til It Happens To You |
+| LoveGame (0.844) | Swan Song (0.0392) |
+| Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (0.824) | No Time To Die (0.0517) |
+| Good Ones (0.789) | xanny (0.0528) |
+| Poker Face (0.787) | Yellow Flicker Beat (0.0597) |
+| Sour Candy (with BLACKPINK) (0.784) | Shades Of Cool (0.0878) |
+| Just Dance (0.745) | Brooklyn Baby (0.0949) |
+| Telephone (0.716) | lovely (with Khalid) (0.12) |
+| Bad Romance (0.714) | Off To The Races (0.136) |
+| Therefore I Am (0.663) | Norman fucking Rockwell (0.143) |
+| Rain On Me (with Ariana Grande) (0.646) | Til It Happens To You (0.15) |

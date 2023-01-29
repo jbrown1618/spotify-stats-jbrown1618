@@ -134,91 +134,91 @@
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| I Wan'na Be Like You (The Monkey Song) | Nature Boy |
-| ABC | Can't Help Falling in Love |
-| I Feel the Earth Move | Strangers In The Night |
-| Everything | Unforgettable |
-| Signed, Sealed, Delivered (I'm Yours) | Unforgettable |
-| I'll Make a Man Out of You | Beautiful Love |
-| Someday (feat. Meghan Trainor) | L-O-V-E - 2000 Remaster |
-| Fly Me To The Moon (In Other Words) | Cry Me a River |
-| Agua De Beber | La vie en rose (feat. Cécile McLorin Salvant) |
-| I Want You Back (feat. Sara Bareilles) | I Can't Make You Love Me |
+| I Wan'na Be Like You (The Monkey Song) (0.746) | Nature Boy (0.203) |
+| ABC (0.715) | Can't Help Falling in Love (0.234) |
+| I Feel the Earth Move (0.711) | Strangers In The Night (0.259) |
+| Everything (0.686) | Unforgettable (0.286) |
+| Signed, Sealed, Delivered (I'm Yours) (0.675) | Unforgettable (0.349) |
+| I'll Make a Man Out of You (0.672) | Beautiful Love (0.435) |
+| Someday (feat. Meghan Trainor) (0.671) | L-O-V-E - 2000 Remaster (0.451) |
+| Fly Me To The Moon (In Other Words) (0.668) | Cry Me a River (0.458) |
+| Agua De Beber (0.66) | La vie en rose (feat. Cécile McLorin Salvant) (0.459) |
+| I Want You Back (feat. Sara Bareilles) (0.65) | I Can't Make You Love Me (0.46) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| 25 or 6 to 4 | Nature Boy |
-| Isn't She Lovely | So Far Away |
-| Can't Take My Eyes off You | Unforgettable |
-| Agua De Beber | L-O-V-E - 2000 Remaster |
-| Haven't Met You Yet | La Vie En Rose |
-| Everything | The Way You Look Tonight |
-| ABC | Something In The Air Between Us |
-| Superstition - Single Version | Sunny |
-| Moondance | I've Got You Under My Skin - Remastered 1998 |
-| Signed, Sealed, Delivered (I'm Yours) | Fly Me To The Moon (In Other Words) |
+| 25 or 6 to 4 (0.869) | Nature Boy (0.0895) |
+| Isn't She Lovely (0.826) | So Far Away (0.172) |
+| Can't Take My Eyes off You (0.764) | Unforgettable (0.182) |
+| Agua De Beber (0.759) | L-O-V-E - 2000 Remaster (0.187) |
+| Haven't Met You Yet (0.733) | La Vie En Rose (0.236) |
+| Everything (0.688) | The Way You Look Tonight (0.24) |
+| ABC (0.678) | Something In The Air Between Us (0.242) |
+| Superstition - Single Version (0.634) | Sunny (0.246) |
+| Moondance (0.614) | I've Got You Under My Skin - Remastered 1998 (0.247) |
+| Signed, Sealed, Delivered (I'm Yours) (0.597) | Fly Me To The Moon (In Other Words) (0.26) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| I Want You Back (feat. Sara Bareilles) | I'd Rather Go Blind |
-| I Wan'na Be Like You (The Monkey Song) | I'll Be There |
-| L-O-V-E - 2000 Remaster | Everything |
-| Isn't She Lovely | I Can't Make You Love Me |
-| Can't Take My Eyes off You | Unforgettable |
-| Moondance | The Way You Look Tonight |
-| That's Life | Call Me Irresponsible |
-| Superstition - Single Version | Can't Help Falling in Love |
-| The Best Is yet to Come | La vie en rose (feat. Cécile McLorin Salvant) |
-| Fly Me To The Moon - 2008 Remastered | Strangers In The Night |
+| I Want You Back (feat. Sara Bareilles) (0.113) | I'd Rather Go Blind (0.0247) |
+| I Wan'na Be Like You (The Monkey Song) (0.0995) | I'll Be There (0.0253) |
+| L-O-V-E - 2000 Remaster (0.0928) | Everything (0.0254) |
+| Isn't She Lovely (0.0851) | I Can't Make You Love Me (0.0273) |
+| Can't Take My Eyes off You (0.0746) | Unforgettable (0.028) |
+| Moondance (0.0737) | The Way You Look Tonight (0.028) |
+| That's Life (0.0729) | Call Me Irresponsible (0.0292) |
+| Superstition - Single Version (0.0725) | Can't Help Falling in Love (0.0293) |
+| The Best Is yet to Come (0.0691) | La vie en rose (feat. Cécile McLorin Salvant) (0.0294) |
+| Fly Me To The Moon - 2008 Remastered (0.06) | Something In The Air Between Us (0.0295) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| Nature Boy | Superstition - Single Version |
-| I Can't Make You Love Me | Signed, Sealed, Delivered (I'm Yours) |
-| Something In The Air Between Us | Easy |
-| Unforgettable | I'll Make a Man Out of You |
-| So Far Away | Haven't Met You Yet |
-| Beautiful Love | Someday (feat. Meghan Trainor) |
-| Home | Isn't She Lovely |
-| Unforgettable | For Once In My Life |
-| Come Fly With Me - Remastered 1998 | 25 or 6 to 4 |
-| Love Won't Let You Get Away | Agua De Beber |
+| Nature Boy (0.971) | Superstition - Single Version (0.038) |
+| I Can't Make You Love Me (0.941) | Signed, Sealed, Delivered (I'm Yours) (0.0534) |
+| Something In The Air Between Us (0.925) | Easy (0.112) |
+| Unforgettable (0.92) | I'll Make a Man Out of You (0.144) |
+| So Far Away (0.897) | Haven't Met You Yet (0.152) |
+| Beautiful Love (0.875) | Someday (feat. Meghan Trainor) (0.18) |
+| Home (0.853) | Isn't She Lovely (0.182) |
+| Unforgettable (0.85) | For Once In My Life (0.195) |
+| Come Fly With Me - Remastered 1998 (0.845) | 25 or 6 to 4 (0.241) |
+| Love Won't Let You Get Away (0.824) | Agua De Beber (0.243) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| 25 or 6 to 4 | The Way You Look Tonight |
-| Nature Boy | L-O-V-E |
-| Unforgettable | La Vie En Rose |
-| Can't Help Falling in Love | L-O-V-E - 2000 Remaster |
-| Superstition - Single Version | Haven't Met You Yet |
-| Isn't She Lovely | Moondance |
-| I Can't Make You Love Me | The Best Is yet to Come |
-| Agua De Beber | For Once In My Life |
-| I Feel the Earth Move | I Want You Back (feat. Sara Bareilles) |
-| The Way You Look Tonight | La vie en rose (feat. Cécile McLorin Salvant) |
+| 25 or 6 to 4 (0.0367) | The Way You Look Tonight (0.0) |
+| Nature Boy (0.0213) | Someday (feat. Meghan Trainor) (0.0) |
+| Unforgettable (0.0152) | La Vie En Rose (0.0) |
+| Can't Help Falling in Love (0.0111) | La vie en rose (feat. Cécile McLorin Salvant) (0.0) |
+| Superstition - Single Version (0.0064) | Moondance (0.0) |
+| Isn't She Lovely (0.00352) | Signed, Sealed, Delivered (I'm Yours) (0.0) |
+| I Can't Make You Love Me (0.00309) | That's Life (0.0) |
+| Agua De Beber (0.00227) | Haven't Met You Yet (0.0) |
+| I Feel the Earth Move (0.00226) | Come Fly With Me - Remastered 1998 (0.0) |
+| The Way You Look Tonight (0.000282) | For Once In My Life (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| I'll Be There | Superstition - Single Version |
-| For Once In My Life | I Feel the Earth Move |
-| Moondance | Easy |
-| I Want You Back | Fly Me To The Moon (In Other Words) |
-| Sunny | Can't Take My Eyes off You |
-| That's Life | I'll Make a Man Out of You |
-| Isn't She Lovely | Someday (feat. Meghan Trainor) |
-| The Best Is yet to Come | So Far Away |
-| I Wan'na Be Like You (The Monkey Song) | Cry Me a River |
-| The Way You Look Tonight | Agua De Beber |
+| I'll Be There (0.654) | Superstition - Single Version (0.0385) |
+| For Once In My Life (0.523) | I Feel the Earth Move (0.0528) |
+| Moondance (0.401) | Easy (0.0596) |
+| Sunny (0.37) | Fly Me To The Moon (In Other Words) (0.0621) |
+| I Want You Back (0.37) | Can't Take My Eyes off You (0.0692) |
+| That's Life (0.346) | I'll Make a Man Out of You (0.074) |
+| Isn't She Lovely (0.324) | Someday (feat. Meghan Trainor) (0.0748) |
+| The Best Is yet to Come (0.296) | So Far Away (0.0753) |
+| I Wan'na Be Like You (The Monkey Song) (0.281) | Cry Me a River (0.0754) |
+| The Way You Look Tonight (0.251) | Agua De Beber (0.0756) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| ABC | Can't Help Falling in Love |
-| Someday (feat. Meghan Trainor) | Nature Boy |
-| I Want You Back | Unforgettable |
-| Superstition - Single Version | Unforgettable |
-| For Once In My Life | La Vie En Rose |
-| Signed, Sealed, Delivered (I'm Yours) | Something In The Air Between Us |
-| Isn't She Lovely | I Can't Make You Love Me |
-| Haven't Met You Yet | Breakfast on the Morning Tram |
-| I Wan'na Be Like You (The Monkey Song) | Sunny |
-| 25 or 6 to 4 | Love Won't Let You Get Away |
+| ABC (0.947) | Can't Help Falling in Love (0.0969) |
+| Someday (feat. Meghan Trainor) (0.934) | Nature Boy (0.115) |
+| I Want You Back (0.886) | Unforgettable (0.142) |
+| Superstition - Single Version (0.872) | Unforgettable (0.178) |
+| For Once In My Life (0.847) | La Vie En Rose (0.194) |
+| Signed, Sealed, Delivered (I'm Yours) (0.828) | Something In The Air Between Us (0.199) |
+| Isn't She Lovely (0.819) | I Can't Make You Love Me (0.252) |
+| Haven't Met You Yet (0.796) | Breakfast on the Morning Tram (0.292) |
+| I Wan'na Be Like You (The Monkey Song) (0.795) | Sunny (0.296) |
+| 25 or 6 to 4 (0.771) | Love Won't Let You Get Away (0.312) |

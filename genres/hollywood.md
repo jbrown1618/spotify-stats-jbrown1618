@@ -139,91 +139,91 @@
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| Ten Duel Commandments | Bring Him Home |
-| Washington on Your Side | Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version |
-| A Winter's Ball | Come To Me (Fantine's Death) |
-| Blow Us All Away | Reflection |
-| The Adams Administration | I Dreamed A Dream - From "Les Misérables" |
-| Little Black Dress | A Heart Full Of Love |
-| Eden | Stay |
-| Non-Stop | Gravity |
-| Yorktown (The World Turned Upside Down) | Colors of the Wind - From "Pocahontas" / Soundtrack Version |
-| Cabinet Battle #2 | Part of Your World |
+| Ten Duel Commandments (0.887) | Bring Him Home (0.237) |
+| Washington on Your Side (0.884) | Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version (0.241) |
+| A Winter's Ball (0.854) | Come To Me (Fantine's Death) (0.252) |
+| Blow Us All Away (0.82) | Reflection (0.255) |
+| The Adams Administration (0.8) | I Dreamed A Dream - From "Les Misérables" (0.256) |
+| Little Black Dress (0.787) | A Heart Full Of Love (0.258) |
+| Eden (0.776) | Stay (0.262) |
+| Non-Stop (0.77) | Gravity (0.27) |
+| Yorktown (The World Turned Upside Down) (0.76) | Colors of the Wind - From "Pocahontas" / Soundtrack Version (0.272) |
+| Cabinet Battle #2 (0.753) | Part of Your World (0.274) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| Believe | Kaleidoscope Heart |
-| Bad Idea (feat. Jason Mraz) | Bring Him Home |
-| Yorktown (The World Turned Upside Down) | In My Life |
-| Morningside | Empty Chairs At Empty Tables |
-| Let The Rain | Come To Me (Fantine's Death) |
-| Fairytale | I Dreamed A Dream - From "Les Misérables" |
-| Brave | In My Life |
-| Love On the Rocks | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 |
-| Come Round Soon | Best of Wives and Best of Women |
-| One Sweet Love | Do You Want to Build a Snowman? - From "Frozen"/Soundtrack Version |
+| Believe (0.917) | Kaleidoscope Heart (0.0516) |
+| Bad Idea (feat. Jason Mraz) (0.889) | Bring Him Home (0.0586) |
+| Yorktown (The World Turned Upside Down) (0.883) | In My Life (0.0594) |
+| Morningside (0.88) | Empty Chairs At Empty Tables (0.0688) |
+| Let The Rain (0.873) | Come To Me (Fantine's Death) (0.0698) |
+| Fairytale (0.857) | I Dreamed A Dream - From "Les Misérables" (0.0739) |
+| Brave (0.836) | In My Life (0.091) |
+| Love On the Rocks (0.819) | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 (0.114) |
+| Come Round Soon (0.819) | Best of Wives and Best of Women (0.115) |
+| One Sweet Love (0.812) | Do You Want to Build a Snowman? - From "Frozen"/Soundtrack Version (0.121) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| Aaron Burr, Sir | Satellite Call |
-| Ten Duel Commandments | Machine Gun |
-| The World Was Wide Enough | Orpheus |
-| The Adams Administration | Sweet As Whole |
-| Cabinet Battle #2 | Breathe Again |
-| We Know | Islands |
-| A Winter's Ball | History Has Its Eyes on You |
-| Your Obedient Servant | The Light |
-| Right Hand Man | If I Can't Have You |
-| Meet Me Inside | Love Song |
+| Aaron Burr, Sir (0.818) | Satellite Call (0.0241) |
+| Ten Duel Commandments (0.658) | Machine Gun (0.0268) |
+| The World Was Wide Enough (0.648) | Orpheus (0.0269) |
+| The Adams Administration (0.544) | Sweet As Whole (0.0275) |
+| Cabinet Battle #2 (0.537) | Breathe Again (0.0278) |
+| We Know (0.523) | Islands (0.0284) |
+| A Winter's Ball (0.507) | History Has Its Eyes on You (0.0291) |
+| Your Obedient Servant (0.502) | If I Can't Have You (0.0297) |
+| Right Hand Man (0.492) | The Light (0.0297) |
+| Meet Me Inside (0.474) | Gonna Get Over You (0.0301) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| Bring Him Home | Brave |
-| Bright Lights and Cityscapes | Many the Miles |
-| Manhattan | Believe |
-| A Heart Full Of Love | Vegas |
-| In My Life | Bad Idea (feat. Jason Mraz) |
-| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Wicked Love |
-| Come To Me (Fantine's Death) | Gonna Get Over You |
-| Empty Chairs At Empty Tables | Love Song |
-| I Dreamed A Dream - From "Les Misérables" | Let The Rain |
-| In My Life | Say You're Sorry |
+| Bring Him Home (0.981) | Brave (0.00502) |
+| Bright Lights and Cityscapes (0.977) | Many the Miles (0.00796) |
+| Manhattan (0.972) | Believe (0.0082) |
+| A Heart Full Of Love (0.968) | Vegas (0.00881) |
+| In My Life (0.96) | Bad Idea (feat. Jason Mraz) (0.0168) |
+| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 (0.959) | Wicked Love (0.0178) |
+| Come To Me (Fantine's Death) (0.953) | Gonna Get Over You (0.0199) |
+| Empty Chairs At Empty Tables (0.944) | Love Song (0.0208) |
+| I Dreamed A Dream - From "Les Misérables" (0.937) | Let The Rain (0.023) |
+| In My Life (0.935) | Say You're Sorry (0.0253) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Satellite Call | Say You're Sorry |
-| Islands | The Room Where It Happens |
-| Armor | Washington on Your Side |
-| Bring Him Home | The World Was Wide Enough |
-| Reflection | Meet Me Inside |
-| Breathe Again | Aaron Burr, Sir |
-| Miss Simone | My Shot |
-| The Light | Right Hand Man |
-| No Such Thing | Ten Duel Commandments |
-| Fire | Stay Alive - Reprise |
+| Satellite Call (0.0318) | Say You're Sorry (0.0) |
+| Islands (0.0261) | When Will My Life Begin? - From "Tangled" / Soundtrack Version (0.0) |
+| Armor (0.0145) | Sweet As Whole (0.0) |
+| Bring Him Home (0.00993) | Schuyler Defeated (0.0) |
+| Reflection (0.00911) | One Last Time (0.0) |
+| Breathe Again (0.00655) | The Story of Tonight (0.0) |
+| Miss Simone (0.00407) | The World Was Wide Enough (0.0) |
+| The Light (0.00375) | Do You Hear The People Sing? (0.0) |
+| No Such Thing (0.00175) | Come Round Soon (0.0) |
+| Fire (0.00165) | Let It Go - From "Frozen"/Soundtrack Version (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Uncharted |
-| Yorktown (The World Turned Upside Down) | Your Obedient Servant |
-| I Know Him | Brave |
-| Reflection | Mother Knows Best - From "Tangled"/Soundtrack Version |
-| Stars | Eden |
-| The Room Where It Happens | Chasing The Sun |
-| The Story of Tonight | Believe |
-| The Schuyler Sisters | King of Anything |
-| Ten Duel Commandments | Bring Him Home |
-| Blow Us All Away | The Light |
+| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 (0.781) | Uncharted (0.0343) |
+| Yorktown (The World Turned Upside Down) (0.727) | Your Obedient Servant (0.042) |
+| I Know Him (0.722) | Brave (0.0425) |
+| Reflection (0.722) | Mother Knows Best - From "Tangled"/Soundtrack Version (0.0451) |
+| Stars (0.681) | Eden (0.0456) |
+| The Room Where It Happens (0.664) | Chasing The Sun (0.0497) |
+| The Story of Tonight (0.648) | Believe (0.0509) |
+| The Schuyler Sisters (0.627) | King of Anything (0.0574) |
+| Ten Duel Commandments (0.617) | Bring Him Home (0.069) |
+| Blow Us All Away (0.563) | The Light (0.0691) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| I Choose You | Once Upon Another Time |
-| A Girl Worth Fighting For | Bring Him Home |
-| Say You're Sorry | A Heart Full Of Love |
-| Schuyler Defeated | Reflection |
-| Ten Duel Commandments | Islands |
-| Under the Sea | Everything Changes |
-| King of Anything | How Far I'll Go |
-| Lie To Me | Empty Chairs At Empty Tables |
-| The Adams Administration | A Whole New World |
-| The Schuyler Sisters | In My Life |
+| I Choose You (0.947) | Once Upon Another Time (0.0551) |
+| A Girl Worth Fighting For (0.849) | Bring Him Home (0.0685) |
+| Say You're Sorry (0.846) | A Heart Full Of Love (0.079) |
+| Schuyler Defeated (0.842) | Reflection (0.0829) |
+| Ten Duel Commandments (0.828) | Islands (0.0863) |
+| Under the Sea (0.819) | Everything Changes (0.0983) |
+| King of Anything (0.81) | How Far I'll Go (0.108) |
+| Lie To Me (0.795) | Empty Chairs At Empty Tables (0.115) |
+| The Schuyler Sisters (0.792) | A Whole New World (0.128) |
+| The Adams Administration (0.792) | In My Life (0.141) |

@@ -191,91 +191,91 @@
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| Sally Walker | Already Gone |
-| Coño | I See the Light - From "Tangled" / Soundtrack Version |
-| Worth It (feat. Kid Ink) | Jar of Hearts |
-| Bubblegum (feat. Tyga) | My Happy Ending |
-| Sucker | Stone Cold |
-| Rather Be (feat. Jess Glynne) | Consequences |
-| Low Key (feat. Tyga) | Heart Attack |
-| Call Me Maybe | Who You Are |
-| Tick Tock (feat. 24kGoldn) | Me And My Broken Heart |
-| Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) | Because of You |
+| Sally Walker (0.905) | Already Gone (0.209) |
+| Coño (0.899) | I See the Light - From "Tangled" / Soundtrack Version (0.281) |
+| Worth It (feat. Kid Ink) (0.884) | Jar of Hearts (0.349) |
+| Bubblegum (feat. Tyga) (0.856) | My Happy Ending (0.414) |
+| Sucker (0.842) | Stone Cold (0.419) |
+| Rather Be (feat. Jess Glynne) (0.799) | Consequences (0.455) |
+| Low Key (feat. Tyga) (0.79) | Heart Attack (0.504) |
+| Call Me Maybe (0.783) | Who You Are (0.534) |
+| Tick Tock (feat. 24kGoldn) (0.779) | Me And My Broken Heart (0.545) |
+| Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) (0.771) | Because of You (0.583) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| My Happy Ending | I See the Light - From "Tangled" / Soundtrack Version |
-| Don't Call Me Up | Consequences |
-| Good Girls Go Bad (feat. Leighton Meester) | Jar of Hearts |
-| Already Gone | When Will My Life Begin? - From "Tangled" / Soundtrack Version |
-| Baby, I'm Jealous (feat. Doja Cat) | Slow Hands |
-| Break My Heart Myself (feat. Travis Barker) | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" |
-| Youngblood | Stone Cold |
-| That's My Girl | My Oh My (feat. DaBaby) |
-| Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) | Sally Walker |
-| TiK ToK | Living Proof |
+| My Happy Ending (0.936) | I See the Light - From "Tangled" / Soundtrack Version (0.139) |
+| Don't Call Me Up (0.881) | Consequences (0.292) |
+| Good Girls Go Bad (feat. Leighton Meester) (0.874) | Jar of Hearts (0.348) |
+| Already Gone (0.872) | When Will My Life Begin? - From "Tangled" / Soundtrack Version (0.42) |
+| Baby, I'm Jealous (feat. Doja Cat) (0.867) | Slow Hands (0.425) |
+| Break My Heart Myself (feat. Travis Barker) (0.857) | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" (0.451) |
+| Youngblood (0.854) | Stone Cold (0.453) |
+| That's My Girl (0.851) | My Oh My (feat. DaBaby) (0.491) |
+| Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) (0.842) | Sally Walker (0.492) |
+| TiK ToK (0.837) | Living Proof (0.514) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| Youngblood | One Step At a Time |
-| Bubblegum (feat. Tyga) | Good Ones |
-| Trumpets | My Oh My (feat. DaBaby) |
-| Talk Dirty (feat. 2 Chainz) | Havana (feat. Young Thug) |
-| Candyman | I See the Light - From "Tangled" / Soundtrack Version |
-| Price Tag | Because of You |
-| Coño | Jar of Hearts |
-| Don't Call Me Up | When Will My Life Begin? - From "Tangled" / Soundtrack Version |
-| TiK ToK | Who You Are |
-| That's My Girl | Tick Tock (feat. 24kGoldn) |
+| Youngblood (0.463) | One Step At a Time (0.0289) |
+| Bubblegum (feat. Tyga) (0.34) | Good Ones (0.0293) |
+| Trumpets (0.258) | My Oh My (feat. DaBaby) (0.0296) |
+| Talk Dirty (feat. 2 Chainz) (0.232) | Havana (feat. Young Thug) (0.03) |
+| Candyman (0.23) | I See the Light - From "Tangled" / Soundtrack Version (0.0305) |
+| Price Tag (0.182) | Because of You (0.0314) |
+| Coño (0.181) | Jar of Hearts (0.0316) |
+| Don't Call Me Up (0.147) | When Will My Life Begin? - From "Tangled" / Soundtrack Version (0.0317) |
+| TiK ToK (0.142) | Who You Are (0.0336) |
+| That's My Girl (0.121) | Tick Tock (feat. 24kGoldn) (0.0344) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| Consequences | Coño |
-| I See the Light - From "Tangled" / Soundtrack Version | My Happy Ending |
-| Jar of Hearts | Me And My Broken Heart |
-| Trumpets | Slow Hands |
-| Stone Cold | Call Me Maybe |
-| Blueberry Eyes (feat. SUGA of BTS) | Good Girls Go Bad (feat. Leighton Meester) |
-| Good Thing (with Kehlani) | Candyman |
-| Rockabye (feat. Sean Paul & Anne-Marie) | Youngblood |
-| Low Key (feat. Tyga) | Sally Walker |
-| Tick Tock (feat. 24kGoldn) | My Oh My (feat. DaBaby) |
+| Consequences (0.889) | Coño (0.000554) |
+| I See the Light - From "Tangled" / Soundtrack Version (0.829) | My Happy Ending (0.00136) |
+| Jar of Hearts (0.726) | Me And My Broken Heart (0.00489) |
+| Trumpets (0.555) | Slow Hands (0.011) |
+| Stone Cold (0.539) | Call Me Maybe (0.0114) |
+| Blueberry Eyes (feat. SUGA of BTS) (0.454) | Good Girls Go Bad (feat. Leighton Meester) (0.0116) |
+| Good Thing (with Kehlani) (0.399) | Candyman (0.0125) |
+| Rockabye (feat. Sean Paul & Anne-Marie) (0.383) | Youngblood (0.0169) |
+| Low Key (feat. Tyga) (0.369) | Sally Walker (0.0177) |
+| Tick Tock (feat. 24kGoldn) (0.369) | My Oh My (feat. DaBaby) (0.018) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Candyman | When Will My Life Begin? - From "Tangled" / Soundtrack Version |
-| Coño | Me And My Broken Heart |
-| Blueberry Eyes (feat. SUGA of BTS) | Good Girls Go Bad (feat. Leighton Meester) |
-| Never Be the Same | Living Proof |
-| Solo (feat. Demi Lovato) | Cry for Me |
-| Havana (feat. Young Thug) | Sucker |
-| That's My Girl | Slow Hands |
-| Symphony (feat. Zara Larsson) | Baby, I'm Jealous (feat. Doja Cat) |
-| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | Break My Heart Myself (feat. Travis Barker) |
-| My Oh My (feat. DaBaby) | Meant to Be (feat. Florida Georgia Line) |
+| Candyman (0.0147) | When Will My Life Begin? - From "Tangled" / Soundtrack Version (0.0) |
+| Coño (0.0101) | React (0.0) |
+| Blueberry Eyes (feat. SUGA of BTS) (0.000922) | TiK ToK (0.0) |
+| Never Be the Same (0.000637) | Jar of Hearts (0.0) |
+| Solo (feat. Demi Lovato) (6.66e-05) | Bubblegum (feat. Tyga) (0.0) |
+| Havana (feat. Young Thug) (3.56e-05) | Heart Attack (0.0) |
+| That's My Girl (3.19e-05) | Sally Walker (0.0) |
+| Symphony (feat. Zara Larsson) (1.41e-05) | Salute (0.0) |
+| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" (1.3e-05) | Me And My Broken Heart (0.0) |
+| My Oh My (feat. DaBaby) (1.29e-05) | Sucker (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| Good Girls Go Bad (feat. Leighton Meester) | One Step At a Time |
-| Rockabye (feat. Sean Paul & Anne-Marie) | Good Thing (with Kehlani) |
-| Bang Bang | Slow Hands |
-| My Happy Ending | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] |
-| That's My Girl | Meant to Be (feat. Florida Georgia Line) |
-| Living Proof | Good For You |
-| Solo (feat. Demi Lovato) | I See the Light - From "Tangled" / Soundtrack Version |
-| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | Already Gone |
-| Baby, I'm Jealous (feat. Doja Cat) | Don't Call Me Up |
-| Talk Dirty (feat. 2 Chainz) | Break My Heart Myself (feat. Travis Barker) |
+| Good Girls Go Bad (feat. Leighton Meester) (0.549) | One Step At a Time (0.0384) |
+| Rockabye (feat. Sean Paul & Anne-Marie) (0.398) | Good Thing (with Kehlani) (0.0409) |
+| Bang Bang (0.396) | Slow Hands (0.055) |
+| My Happy Ending (0.369) | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (0.0585) |
+| That's My Girl (0.365) | Meant to Be (feat. Florida Georgia Line) (0.0646) |
+| Living Proof (0.359) | Good For You (0.069) |
+| Solo (feat. Demi Lovato) (0.35) | I See the Light - From "Tangled" / Soundtrack Version (0.0725) |
+| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" (0.325) | Already Gone (0.0768) |
+| Baby, I'm Jealous (feat. Doja Cat) (0.32) | Don't Call Me Up (0.0793) |
+| Talk Dirty (feat. 2 Chainz) (0.307) | Break My Heart Myself (feat. Travis Barker) (0.0801) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| Sucker | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" |
-| Tick Tock (feat. 24kGoldn) | Jar of Hearts |
-| Slow Hands | Because of You |
-| Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] | Youngblood |
-| Rockabye (feat. Sean Paul & Anne-Marie) | I See the Light - From "Tangled" / Soundtrack Version |
-| Good Ones | Good For You |
-| Swalla (feat. Nicki Minaj & Ty Dolla $ign) | Who You Are |
-| Bubblegum (feat. Tyga) | Don't Call Me Up |
-| Talk Dirty (feat. 2 Chainz) | Never Be the Same |
-| Low Key (feat. Tyga) | Already Gone |
+| Sucker (0.952) | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" (0.0862) |
+| Tick Tock (feat. 24kGoldn) (0.946) | Jar of Hearts (0.0886) |
+| Slow Hands (0.848) | Because of You (0.136) |
+| Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (0.824) | Youngblood (0.152) |
+| Rockabye (feat. Sean Paul & Anne-Marie) (0.792) | I See the Light - From "Tangled" / Soundtrack Version (0.169) |
+| Good Ones (0.789) | Good For You (0.215) |
+| Swalla (feat. Nicki Minaj & Ty Dolla $ign) (0.782) | Who You Are (0.215) |
+| Bubblegum (feat. Tyga) (0.77) | Don't Call Me Up (0.234) |
+| Talk Dirty (feat. 2 Chainz) (0.759) | Never Be the Same (0.243) |
+| Low Key (feat. Tyga) (0.748) | Already Gone (0.294) |

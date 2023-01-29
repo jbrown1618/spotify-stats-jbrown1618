@@ -213,91 +213,91 @@
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| Uptown Funk | Bring Him Home |
-| Problem | Greensleeves |
-| La Camisa Negra | The Music of the Night |
-| Rather Be (Clean Bandit Cover) | Bluebird |
-| Toxic | Shenandoah - Arr. Bob Chilcott |
-| Finesse | Lullabye (Goodnight My Angel) |
-| Telephone | We Found Love |
-| Can't Sleep Love (feat. Tink) | Falling Slowly |
-| Can't Sleep Love | Walking in the Air |
-| Havana | Wait It Out |
+| Uptown Funk (0.847) | Bring Him Home (0.0972) |
+| Problem (0.834) | Greensleeves (0.146) |
+| La Camisa Negra (0.812) | The Music of the Night (0.168) |
+| Rather Be (Clean Bandit Cover) (0.803) | Bluebird (0.184) |
+| Toxic (0.764) | Shenandoah - Arr. Bob Chilcott (0.191) |
+| Finesse (0.763) | Lullabye (Goodnight My Angel) (0.2) |
+| Telephone (0.756) | We Found Love (0.203) |
+| Can't Sleep Love (feat. Tink) (0.734) | Falling Slowly (0.218) |
+| Can't Sleep Love (0.73) | Walking in the Air (0.224) |
+| Havana (0.726) | Wait It Out (0.227) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| Misery Business | Loch Lomond |
-| Don't Stop Me Now | Danny Boy |
-| Elastic Heart | Shenandoah - Arr. Bob Chilcott |
-| Russian Roulette | Lullabye (Goodnight My Angel) |
-| Finesse | Scarborough Fair |
-| Telephone | Woods |
-| Finesse - Remix | Run to You |
-| My Happy Ending | Greensleeves |
-| Don't Stop Believin' | Amazing Grace |
-| Bang Bang | River |
+| Misery Business (0.888) | Loch Lomond (0.0248) |
+| Don't Stop Me Now (0.883) | Danny Boy (0.0284) |
+| Elastic Heart (0.881) | Shenandoah - Arr. Bob Chilcott (0.0468) |
+| Russian Roulette (0.866) | Lullabye (Goodnight My Angel) (0.0495) |
+| Finesse (0.836) | Scarborough Fair (0.0578) |
+| Telephone (0.832) | Woods (0.0582) |
+| Finesse - Remix (0.83) | Run to You (0.0622) |
+| My Happy Ending (0.828) | Greensleeves (0.0638) |
+| Bang Bang (0.809) | Amazing Grace (0.0642) |
+| Don't Stop Believin' (0.809) | River (0.0684) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| Hey Momma / Hit the Road Jack | We Found Love |
-| Uptown Funk | Samson |
-| Bang Bang | Machine Gun |
-| Don't Stop Me Now | The Sound of Silence |
-| I'd Like To | We All Need Saving |
-| Cry Me a River | Demons |
-| Movin' On | Latch |
-| Waka Waka (This Time for Africa) | Cough Syrup |
-| Attention | Good Vibrations |
-| Too Close (feat. Roxorloops & Blady Kris) | Falling Slowly |
+| Hey Momma / Hit the Road Jack (0.433) | We Found Love (0.0244) |
+| Uptown Funk (0.34) | Samson (0.0256) |
+| Bang Bang (0.34) | Machine Gun (0.0264) |
+| Don't Stop Me Now (0.31) | The Sound of Silence (0.0273) |
+| I'd Like To (0.213) | We All Need Saving (0.0273) |
+| Cry Me a River (0.19) | Demons (0.0276) |
+| Movin' On (0.183) | Latch (0.0277) |
+| Waka Waka (This Time for Africa) (0.161) | Good Vibrations (0.0278) |
+| Attention (0.15) | Cough Syrup (0.0278) |
+| Too Close (feat. Roxorloops & Blady Kris) (0.146) | Falling Slowly (0.0284) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| Lullabye (Goodnight My Angel) | I Need Your Love |
-| Shenandoah - Arr. Bob Chilcott | Daft Punk |
-| Amazing Grace | The Baddest Girl |
-| Bring Him Home | Domino |
-| Lullabye (Goodnight My Angel) | Talk Dirty |
-| Walking in the Air | Starships |
-| Greensleeves | We Are Young |
-| Bluebird | Problem |
-| Prelude No.1 in C Major | Wrecking Ball |
-| Demons | Hey Momma / Hit the Road Jack |
+| Lullabye (Goodnight My Angel) (0.991) | I Need Your Love (0.00319) |
+| Shenandoah - Arr. Bob Chilcott (0.989) | Daft Punk (0.00403) |
+| Amazing Grace (0.987) | The Baddest Girl (0.00637) |
+| Bring Him Home (0.984) | Domino (0.0113) |
+| Lullabye (Goodnight My Angel) (0.976) | Talk Dirty (0.017) |
+| Walking in the Air (0.975) | Starships (0.0176) |
+| Greensleeves (0.974) | We Are Young (0.02) |
+| Prelude No.1 in C Major (0.972) | Problem (0.0204) |
+| Demons (0.972) | Wrecking Ball (0.0208) |
+| Bluebird (0.972) | Hey Momma / Hit the Road Jack (0.0214) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Prelude No.1 in C Major | Chandelier |
-| Libertango | Smooth |
-| Eine kleine Nachtmusik | Carry On Wayward Son |
-| Lullabye (Goodnight My Angel) | Work Song |
-| Dance of the Sugar Plum Fairy | Stay |
-| Here (In Your Arms) | Movin' On |
-| Falling Slowly | Pure Imagination |
-| Greensleeves | Finesse - Remix |
-| Shenandoah - Arr. Bob Chilcott | Tightrope |
-| Home | Wayfaring Stranger |
+| Prelude No.1 in C Major (0.977) | Say Something (0.0) |
+| Libertango (0.809) | Natural Disaster (0.0) |
+| Eine kleine Nachtmusik (0.653) | Brand New Jones (0.0) |
+| Lullabye (Goodnight My Angel) (0.178) | Hallelujah (0.0) |
+| Dance of the Sugar Plum Fairy (0.079) | Closer (0.0) |
+| Here (In Your Arms) (0.0273) | Without Your Love (0.0) |
+| Falling Slowly (0.019) | Gravity (0.0) |
+| Greensleeves (0.0153) | Apologize (0.0) |
+| Shenandoah - Arr. Bob Chilcott (0.0127) | The Sound of Silence (0.0) |
+| Home (0.00371) | Isn't She Lovely (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| Brand New Jones | Bang Bang |
-| I'd Like To | Africa |
-| Sound Of Silence | Russian Roulette |
-| Smooth | Finesse |
-| Talk Dirty | Papaoutai (Stromae Cover) (feat. Lindsey Stirling) |
-| Starships | I Write Sins Not Tragedies |
-| Disturbia | All Time Low |
-| Havana | Demons |
-| Let It Go | There Goes My Baby |
-| Supermassive Black Hole | Say Something |
+| Brand New Jones (0.926) | Bang Bang (0.0429) |
+| I'd Like To (0.738) | Africa (0.0464) |
+| Sound Of Silence (0.731) | Russian Roulette (0.0472) |
+| Smooth (0.534) | Finesse (0.0503) |
+| Talk Dirty (0.53) | Papaoutai (Stromae Cover) (feat. Lindsey Stirling) (0.0551) |
+| Starships (0.447) | I Write Sins Not Tragedies (0.0582) |
+| Disturbia (0.429) | All Time Low (0.062) |
+| Havana (0.385) | Demons (0.0651) |
+| Supermassive Black Hole (0.384) | There Goes My Baby (0.0677) |
+| Let It Go (0.384) | Say Something (0.0705) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| I Want You Back | Shenandoah - Arr. Bob Chilcott |
-| Attention | Bring Him Home |
-| Finesse | The Sound of Silence |
-| Na Na Na | The Music of the Night |
-| Domino | Loch Lomond |
-| Smooth | Lullabye (Goodnight My Angel) |
-| Toxic | Lullabye (Goodnight My Angel) |
-| I'd Like To | Danny Boy |
-| Supermassive Black Hole | Say Something |
-| Natural Disaster | We Found Love |
+| I Want You Back (0.91) | Shenandoah - Arr. Bob Chilcott (0.0364) |
+| Attention (0.907) | Bring Him Home (0.0388) |
+| Finesse (0.903) | The Sound of Silence (0.0476) |
+| Na Na Na (0.862) | The Music of the Night (0.0584) |
+| Domino (0.86) | Loch Lomond (0.0617) |
+| Smooth (0.851) | Lullabye (Goodnight My Angel) (0.0673) |
+| Toxic (0.842) | Lullabye (Goodnight My Angel) (0.0688) |
+| I'd Like To (0.831) | Danny Boy (0.0709) |
+| Supermassive Black Hole (0.826) | Say Something (0.0812) |
+| Natural Disaster (0.819) | We Found Love (0.0814) |

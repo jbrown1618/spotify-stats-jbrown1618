@@ -103,7 +103,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6d2ff3db79aa33c9be0f2630" alt="" width="50" /> | Upper Structure | [🔗](https://open.spotify.com/artist/1tlKq97YGAGBavozMVeddE) |
 | 1 | <img src="nan" alt="" width="50" /> | University of Michigan G-Men | [🔗](https://open.spotify.com/artist/1jANAnjCBrwxiT4c33eeNc) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6d4806745c7f345bd59fd90b" alt="" width="50" /> | Tufts Jackson Jills | [🔗](https://open.spotify.com/artist/1dUJZ0lbobmanl4W14h0a2) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebcf8f481f42b31f589fb1bdc2" alt="" width="50" /> | BYU Noteworthy | [🔗](https://open.spotify.com/artist/1ZknN7FbjjjMTmdU42OEeX) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d4dd4d97a69b96de84ba61a" alt="" width="50" /> | BYU Noteworthy | [🔗](https://open.spotify.com/artist/1ZknN7FbjjjMTmdU42OEeX) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27326f8d98a82475c320a41a919" alt="" width="50" /> | Academical Village People | [🔗](https://open.spotify.com/artist/1Vjug1h4HXCeplbouQEbV3) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ce3e7c9e1c38c0edbe1528c" alt="" width="50" /> | Traditional | [🔗](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf) |
 | 1 | <img src="nan" alt="" width="50" /> | Erika Petty | [🔗](https://open.spotify.com/artist/15YH0MYEIRY7AmrrwfVO4W) |
@@ -384,91 +384,91 @@
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| Uptown Funk | Gollum's Song |
-| Problem | Bring Him Home |
-| La Camisa Negra | Ave Maria |
-| Rather Be (Clean Bandit Cover) | Arwen's Song |
-| Settle Down | The Music of the Night |
-| Sexyback | Greensleeves |
-| Toxic | The Water is Wide |
-| Finesse | The End (Interlude) |
-| bad guy | Bluebird |
-| The Fox | Amazing Grace |
+| Uptown Funk (0.847) | Gollum's Song (0.0835) |
+| Problem (0.834) | Bring Him Home (0.0972) |
+| La Camisa Negra (0.812) | Ave Maria (0.15) |
+| Rather Be (Clean Bandit Cover) (0.803) | Arwen's Song (0.157) |
+| Settle Down (0.794) | The Music of the Night (0.168) |
+| Sexyback (0.782) | Greensleeves (0.173) |
+| Toxic (0.764) | The Water is Wide (0.174) |
+| Finesse (0.763) | The End (Interlude) (0.176) |
+| bad guy (0.76) | Bluebird (0.184) |
+| The Fox (0.758) | Amazing Grace (0.187) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| Smooth Criminal | Largo [Harpsichord Concerto No. 5 in F minor BWV 1056] |
-| Misery Business | And So It Goes |
-| No Tears Left to Cry | You Are My Sunshine |
-| Don't Stop Me Now | Shenandoah - Arr. Bob Chilcott |
-| Elastic Heart | Lullabye (Goodnight My Angel) |
-| Russian Roulette | Fly Away - Intro |
-| Candyman | Woods |
-| Valerie | How Great Thou Art |
-| Finesse | Run to You |
-| Telephone | All I Ask of You |
+| Smooth Criminal (0.889) | Largo [Harpsichord Concerto No. 5 in F minor BWV 1056] (0.0156) |
+| Misery Business (0.888) | And So It Goes (0.0387) |
+| No Tears Left to Cry (0.885) | You Are My Sunshine (0.0465) |
+| Don't Stop Me Now (0.883) | Shenandoah - Arr. Bob Chilcott (0.0468) |
+| Elastic Heart (0.881) | Lullabye (Goodnight My Angel) (0.0495) |
+| Russian Roulette (0.866) | Fly Away - Intro (0.0564) |
+| Candyman (0.848) | Woods (0.0582) |
+| Valerie (0.847) | How Great Thou Art (0.0598) |
+| Finesse (0.836) | Run to You (0.0622) |
+| Telephone (0.832) | All I Ask of You (0.0636) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| Hey Momma / Hit the Road Jack | We Found Love |
-| bad guy | Samson |
-| Hobbit Drinking Medley | Chariot |
-| Bang Bang | Machine Gun |
-| Uptown Funk | The Scientist |
-| Don't Stop Me Now | Fields of Gold |
-| Candyman | The Sound of Silence |
-| Hamilton Medley | We All Need Saving |
-| I'd Like To | Loch Lomond |
-| Cry Me a River | Demons |
+| Hey Momma / Hit the Road Jack (0.433) | We Found Love (0.0244) |
+| bad guy (0.384) | Samson (0.0256) |
+| Hobbit Drinking Medley (0.378) | Chariot (0.0262) |
+| Uptown Funk (0.34) | Machine Gun (0.0264) |
+| Bang Bang (0.34) | The Scientist (0.0267) |
+| Don't Stop Me Now (0.31) | Fields of Gold (0.027) |
+| Candyman (0.236) | The Sound of Silence (0.0273) |
+| Hamilton Medley (0.231) | We All Need Saving (0.0273) |
+| I'd Like To (0.213) | Loch Lomond (0.0274) |
+| Cry Me a River (0.19) | Demons (0.0276) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| Ave Maria | I Need Your Love |
-| Lullabye (Goodnight My Angel) | Daft Punk |
-| Shenandoah - Arr. Bob Chilcott | The Baddest Girl |
-| Amazing Grace | Domino |
-| Bring Him Home | Chandelier |
-| All I Ask of You | Talk Dirty |
-| Lullabye (Goodnight My Angel) | Starships |
-| Walking in the Air | We Are Young |
-| Largo [Harpsichord Concerto No. 5 in F minor BWV 1056] | Problem |
-| Demons | Wrecking Ball |
+| Ave Maria (0.991) | I Need Your Love (0.00319) |
+| Lullabye (Goodnight My Angel) (0.991) | Daft Punk (0.00403) |
+| Shenandoah - Arr. Bob Chilcott (0.989) | The Baddest Girl (0.00637) |
+| Amazing Grace (0.987) | Domino (0.0113) |
+| Bring Him Home (0.984) | Chandelier (0.0115) |
+| All I Ask of You (0.98) | Talk Dirty (0.017) |
+| Lullabye (Goodnight My Angel) (0.976) | Starships (0.0176) |
+| Walking in the Air (0.975) | We Are Young (0.02) |
+| Largo [Harpsichord Concerto No. 5 in F minor BWV 1056] (0.973) | Problem (0.0204) |
+| Prelude No.1 in C Major (0.972) | Wrecking Ball (0.0208) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Prelude No.1 in C Major | Viva La Vida |
-| Libertango | G Train |
-| Eine kleine Nachtmusik | The Baddest Girl |
-| You Take My Breath Away | Sanctify |
-| Lullabye (Goodnight My Angel) | If I Ain't Got You |
-| Dance of the Sugar Plum Fairy | Poor Wayfaring Stranger |
-| Here (In Your Arms) | If I Ever Fall In Love (feat. Jason Derulo) |
-| Falling Slowly | Put Your Records On |
-| Shenandoah - Arr. Bob Chilcott | Hamilton Medley |
-| Ave Maria | Work Song |
+| Prelude No.1 in C Major (0.977) | Say Something (0.0) |
+| Libertango (0.809) | Natural Disaster (0.0) |
+| Eine kleine Nachtmusik (0.653) | Brand New Jones (0.0) |
+| You Take My Breath Away (0.308) | Hallelujah (0.0) |
+| Lullabye (Goodnight My Angel) (0.178) | Closer (0.0) |
+| Dance of the Sugar Plum Fairy (0.079) | Fly Away - Intro (0.0) |
+| Here (In Your Arms) (0.0273) | Without Your Love (0.0) |
+| Falling Slowly (0.019) | Poor Wayfaring Stranger (0.0) |
+| Shenandoah - Arr. Bob Chilcott (0.0127) | Greensleeves (0.0) |
+| Ave Maria (0.00671) | Phoenix (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| Brand New Jones | Settle Down |
-| XS | Paranoid Android |
-| I'd Like To | Bang Bang |
-| Sound Of Silence | Blank Space |
-| Smooth | Africa |
-| Talk Dirty | Russian Roulette |
-| Starships | Finesse |
-| Disturbia | Lost in Japan |
-| Bei Mir Bist Du Schön | I Knew You Were Trouble |
-| Havana | Papaoutai (Stromae Cover) (feat. Lindsey Stirling) |
+| Brand New Jones (0.926) | Settle Down (0.0381) |
+| XS (0.869) | Paranoid Android (0.0416) |
+| I'd Like To (0.738) | Bang Bang (0.0429) |
+| Sound Of Silence (0.731) | Blank Space (0.044) |
+| Smooth (0.534) | Africa (0.0464) |
+| Talk Dirty (0.53) | Russian Roulette (0.0472) |
+| Starships (0.447) | Finesse (0.0503) |
+| Disturbia (0.429) | Lost in Japan (0.0508) |
+| Bei Mir Bist Du Schön (0.391) | I Knew You Were Trouble (0.0531) |
+| Havana (0.385) | Papaoutai (Stromae Cover) (feat. Lindsey Stirling) (0.0551) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| Big Yellow Taxi | Shenandoah - Arr. Bob Chilcott |
-| I Want You Back | Gollum's Song |
-| Attention | You Take My Breath Away |
-| Finesse | Skinny Love |
-| Na Na Na | Bring Him Home |
-| Domino | You Are My Sunshine |
-| Smooth | Arwen's Song |
-| The Fox | The Sound of Silence |
-| Toxic | Ave Maria |
-| I'd Like To | The Music of the Night |
+| Big Yellow Taxi (0.924) | Shenandoah - Arr. Bob Chilcott (0.0364) |
+| I Want You Back (0.91) | Gollum's Song (0.0366) |
+| Attention (0.907) | You Take My Breath Away (0.0384) |
+| Finesse (0.903) | Skinny Love (0.0387) |
+| Na Na Na (0.862) | Bring Him Home (0.0388) |
+| Domino (0.86) | You Are My Sunshine (0.0417) |
+| Smooth (0.851) | Arwen's Song (0.0448) |
+| The Fox (0.849) | The Sound of Silence (0.0476) |
+| Toxic (0.842) | Ave Maria (0.0558) |
+| I'd Like To (0.831) | The Music of the Night (0.0584) |

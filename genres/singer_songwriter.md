@@ -118,91 +118,91 @@
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| You Can Call Me Al | Desperado - 2013 Remaster |
-| My Life | She's Always a Woman |
-| A Matter of Trust | Shadowboxer |
-| We Didn't Start the Fire | Piano Man |
-| I Feel the Earth Move | And So It Goes |
-| Uptown Girl | The Boxer |
-| Down in New Orleans | Captain Jack |
-| A Case of You | Scenes from an Italian Restaurant |
-| Don't Ask Me Why | The Pirate of Penance |
-| Movin' Out (Anthony's Song) | And So It Goes |
+| You Can Call Me Al (0.776) | Desperado - 2013 Remaster (0.228) |
+| My Life (0.741) | She's Always a Woman (0.292) |
+| A Matter of Trust (0.738) | Shadowboxer (0.298) |
+| We Didn't Start the Fire (0.712) | Piano Man (0.334) |
+| I Feel the Earth Move (0.711) | And So It Goes (0.351) |
+| Uptown Girl (0.701) | The Boxer (0.351) |
+| Down in New Orleans (0.697) | Captain Jack (0.392) |
+| A Case of You (0.693) | Scenes from an Italian Restaurant (0.415) |
+| Don't Ask Me Why (0.691) | The Pirate of Penance (0.429) |
+| The Stranger (0.664) | And So It Goes (0.433) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| We Didn't Start the Fire | And So It Goes |
-| Uptown Girl | The Boxer |
-| Scenes from an Italian Restaurant | And So It Goes |
-| Movin' Out (Anthony's Song) | Blue |
-| The Stranger | The Dawntreader |
-| Only the Good Die Young | She's Got a Way |
-| 25 or 6 to 4 | I Can't Make You Love Me |
-| You Oughta Know | I Had a King |
-| I'm a Believer - 2006 Remaster | Lullabye (Goodnight, My Angel) |
-| You Can Call Me Al | So Far Away |
+| We Didn't Start the Fire (0.967) | And So It Goes (0.0387) |
+| Uptown Girl (0.944) | The Boxer (0.0802) |
+| Scenes from an Italian Restaurant (0.931) | And So It Goes (0.0871) |
+| Movin' Out (Anthony's Song) (0.88) | Blue (0.102) |
+| The Stranger (0.878) | The Dawntreader (0.103) |
+| Only the Good Die Young (0.872) | She's Got a Way (0.142) |
+| 25 or 6 to 4 (0.869) | I Can't Make You Love Me (0.149) |
+| You Oughta Know (0.831) | I Had a King (0.151) |
+| I'm a Believer - 2006 Remaster (0.775) | Lullabye (Goodnight, My Angel) (0.157) |
+| You Can Call Me Al (0.763) | So Far Away (0.172) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| Only the Good Die Young | The Longest Time |
-| Scenes from an Italian Restaurant | A Matter of Trust |
-| Big Shot | Hotel California - 2013 Remaster |
-| Crazy Love - 2013 Remaster | Piano Man |
-| The Stranger | A Case of You |
-| Crazy Love | Shadowboxer |
-| The River of Dreams | Daydream Believer |
-| You Oughta Know | I Feel the Earth Move |
-| Don't Ask Me Why | Desperado - 2013 Remaster |
-| You Can Call Me Al | I Can't Make You Love Me |
+| Only the Good Die Young (0.159) | The Longest Time (0.0262) |
+| Scenes from an Italian Restaurant (0.126) | A Matter of Trust (0.0268) |
+| Big Shot (0.0972) | Hotel California - 2013 Remaster (0.027) |
+| Crazy Love - 2013 Remaster (0.0959) | Piano Man (0.0276) |
+| The Stranger (0.0837) | A Case of You (0.0288) |
+| Crazy Love (0.0819) | Shadowboxer (0.0303) |
+| The River of Dreams (0.0576) | Daydream Believer (0.0304) |
+| You Oughta Know (0.0557) | I Feel the Earth Move (0.0305) |
+| Don't Ask Me Why (0.0543) | Desperado - 2013 Remaster (0.0311) |
+| You Can Call Me Al (0.0534) | I Can't Make You Love Me (0.0319) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| Blue | Hotel California - 2013 Remaster |
-| The Pirate of Penance | Pressure |
-| She's Got a Way | A Matter of Trust |
-| I Had a King | Uptown Girl |
-| The Dawntreader | We Didn't Start the Fire |
-| Lullabye (Goodnight, My Angel) | My Life |
-| Desperado - 2013 Remaster | Don't Ask Me Why |
-| And So It Goes | Big Shot |
-| The Boxer | Only the Good Die Young |
-| And So It Goes | The Stranger |
+| Blue (0.989) | Hotel California - 2013 Remaster (0.00574) |
+| The Pirate of Penance (0.973) | Pressure (0.0148) |
+| She's Got a Way (0.97) | A Matter of Trust (0.0589) |
+| I Had a King (0.968) | Uptown Girl (0.0755) |
+| The Dawntreader (0.957) | We Didn't Start the Fire (0.0771) |
+| Lullabye (Goodnight, My Angel) (0.948) | My Life (0.108) |
+| Desperado - 2013 Remaster (0.946) | Don't Ask Me Why (0.138) |
+| And So It Goes (0.941) | Big Shot (0.156) |
+| The Boxer (0.93) | Only the Good Die Young (0.159) |
+| And So It Goes (0.91) | The Stranger (0.165) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| 25 or 6 to 4 | That Wasn't Me |
-| I Had a King | Don't Ask Me Why |
-| You Can Call Me Al | And So It Goes |
-| Blue | Cat's in the Cradle |
-| I Feel the Earth Move | Shadowboxer |
-| My Life | Big Yellow Taxi |
-| Pressure | Free Man in Paris |
-| Down in New Orleans | A Case of You |
-| Scenes from an Italian Restaurant | Lullabye (Goodnight, My Angel) |
-| Hotel California - 2013 Remaster | Daydream Believer |
+| 25 or 6 to 4 (0.0367) | You Oughta Know (0.0) |
+| I Had a King (0.0108) | Shadowboxer (0.0) |
+| You Can Call Me Al (0.00647) | Carey (0.0) |
+| Blue (0.00354) | And So It Goes (0.0) |
+| I Feel the Earth Move (0.00226) | Free Man in Paris (0.0) |
+| My Life (0.00139) | Cat's in the Cradle (0.0) |
+| Pressure (0.000949) | Only the Good Die Young (0.0) |
+| Down in New Orleans (0.000511) | We Didn't Start the Fire (0.0) |
+| Scenes from an Italian Restaurant (0.000501) | Brown Eyed Girl (0.0) |
+| Hotel California - 2013 Remaster (0.000494) | Vienna (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| You Oughta Know | I Feel the Earth Move |
-| Uptown Girl | My Life |
-| Big Yellow Taxi | Hotel California - 2013 Remaster |
-| Brown Eyed Girl | Movin' Out (Anthony's Song) |
-| Captain Jack | The Boxer |
-| We Didn't Start the Fire | The River of Dreams |
-| New York State of Mind | Free Man in Paris |
-| Piano Man | So Far Away |
-| A Matter of Trust | Vienna |
-| Desperado - 2013 Remaster | You Can Call Me Al |
+| You Oughta Know (0.736) | I Feel the Earth Move (0.0528) |
+| Uptown Girl (0.601) | My Life (0.0555) |
+| Big Yellow Taxi (0.581) | Hotel California - 2013 Remaster (0.0575) |
+| Brown Eyed Girl (0.406) | Movin' Out (Anthony's Song) (0.0591) |
+| Captain Jack (0.374) | The Boxer (0.0619) |
+| We Didn't Start the Fire (0.356) | The River of Dreams (0.0667) |
+| New York State of Mind (0.323) | Free Man in Paris (0.0691) |
+| Piano Man (0.312) | So Far Away (0.0753) |
+| A Matter of Trust (0.306) | Vienna (0.0754) |
+| Desperado - 2013 Remaster (0.273) | You Can Call Me Al (0.077) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| Big Yellow Taxi | I Can't Make You Love Me |
-| I'm a Believer - 2006 Remaster | I Had a King |
-| Brown Eyed Girl | The Pirate of Penance |
-| Movin' Out (Anthony's Song) | Desperado - 2013 Remaster |
-| We Didn't Start the Fire | New York State of Mind |
-| A Matter of Trust | She's Got a Way |
-| Don't Ask Me Why | Lullabye (Goodnight, My Angel) |
-| Pressure | The Stranger |
-| You Can Call Me Al | Shadowboxer |
-| My Life | The Dawntreader |
+| Big Yellow Taxi (0.97) | I Can't Make You Love Me (0.113) |
+| I'm a Believer - 2006 Remaster (0.962) | I Had a King (0.136) |
+| Brown Eyed Girl (0.908) | The Pirate of Penance (0.162) |
+| Movin' Out (Anthony's Song) (0.895) | Desperado - 2013 Remaster (0.18) |
+| We Didn't Start the Fire (0.895) | New York State of Mind (0.194) |
+| A Matter of Trust (0.88) | She's Got a Way (0.196) |
+| Don't Ask Me Why (0.868) | Lullabye (Goodnight, My Angel) (0.22) |
+| Pressure (0.851) | The Stranger (0.222) |
+| You Can Call Me Al (0.82) | Shadowboxer (0.223) |
+| My Life (0.804) | The Dawntreader (0.235) |

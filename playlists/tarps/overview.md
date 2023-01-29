@@ -27,7 +27,7 @@
 | 1 | <img src="https://i.scdn.co/image/5c8d57d92825466637905f0d4219064cb39333e9" alt="" width="50" /> | André 3000 | [🔗](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) |
 | 1 | <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | Simon & Garfunkel | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | [Billy Joel](../../artists/billy_joel.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f1004879ac217c8caa0a066" alt="" width="50" /> | [Kimbra](../../artists/kimbra.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4765d540a1ebedeb7c9637a2" alt="" width="50" /> | [Kimbra](../../artists/kimbra.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6659b1cb61936bd7bcb229a2" alt="" width="50" /> | Demi Lovato | [🔗](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c" alt="" width="50" /> | Amy Winehouse | [🔗](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) |
 | 1 | <img src="https://i.scdn.co/image/c56cf0cc89c8ecfec7145cf065ea2006d0706605" alt="" width="50" /> | *NSYNC | [🔗](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) |
@@ -250,6 +250,7 @@
 | 2 | motown |
 | 2 | modern folk rock |
 | 2 | [lilith](../../genres/lilith.md) |
+| 2 | funk |
 | 2 | country dawn |
 | 2 | country |
 | 2 | contemporary country |
@@ -283,7 +284,6 @@
 | 1 | hip hop |
 | 1 | heartland rock |
 | 1 | girl group |
-| 1 | funk |
 | 1 | europop |
 | 1 | [electropop](../../genres/electropop.md) |
 | 1 | easy listening |
@@ -329,91 +329,91 @@
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| Crazy | Already Gone |
-| Where Is The Love? | Desperado - 2013 Remaster |
-| Dreamer | Chariot |
-| One Step At a Time | Poison & Wine |
-| Settle Down | Yesterday - Remastered 2009 |
-| Blank Space | Can't Help Falling in Love |
-| No Scrubs | Something - Remastered 2009 |
-| Rolling in the Deep | I Thought She Knew |
-| This Love | Chandelier |
-| Disturbia | Take It All |
+| Crazy (0.835) | Already Gone (0.209) |
+| Where Is The Love? (0.834) | Desperado - 2013 Remaster (0.228) |
+| Dreamer (0.802) | Chariot (0.281) |
+| One Step At a Time (0.766) | Poison & Wine (0.285) |
+| Settle Down (0.763) | Yesterday - Remastered 2009 (0.332) |
+| Blank Space (0.753) | Something - Remastered 2009 (0.396) |
+| No Scrubs (0.743) | Can't Help Falling in Love (0.396) |
+| Rolling in the Deep (0.73) | I Thought She Knew (0.397) |
+| This Love (0.712) | Chandelier (0.399) |
+| Disturbia (0.707) | Take It All (0.415) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| Green Light (feat. André 3000) | Blackbird - Remastered 2009 |
-| Already Gone | Lullabye (Goodnight, My Angel) |
-| This Love | Yesterday - Remastered 2009 |
-| Jesus Walks | Poison & Wine |
-| Umbrella | Dreamer |
-| Cowboy Casanova | Desperado - 2013 Remaster |
-| Disturbia | Crazy Love |
-| Mambo No. 5 (a Little Bit of...) | The Way You Look Tonight |
-| Home | Take It All |
-| Gonna Get Over You | I Thought She Knew |
+| Green Light (feat. André 3000) (0.882) | Blackbird - Remastered 2009 (0.127) |
+| Already Gone (0.872) | Lullabye (Goodnight, My Angel) (0.157) |
+| This Love (0.862) | Yesterday - Remastered 2009 (0.179) |
+| Jesus Walks (0.834) | Poison & Wine (0.186) |
+| Umbrella (0.829) | Dreamer (0.223) |
+| Cowboy Casanova (0.82) | Desperado - 2013 Remaster (0.224) |
+| Disturbia (0.813) | Crazy Love (0.236) |
+| Mambo No. 5 (a Little Bit of...) (0.807) | The Way You Look Tonight (0.24) |
+| Home (0.804) | Take It All (0.266) |
+| Gonna Get Over You (0.799) | I Thought She Knew (0.272) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| Mambo No. 5 (a Little Bit of...) | The Scientist |
-| Jesus Walks | Old Fashioned |
-| So Sick | Take A Chance On Me |
-| Where Is The Love? | Chasing Cars |
-| Umbrella | Can't Help Falling in Love |
-| Home | Poison & Wine |
-| Green Light (feat. André 3000) | You Lie |
-| Carolina State of Mind | One Step At a Time |
-| No Scrubs | Rolling in the Deep |
-| Crazy Love | Gonna Get Over You |
+| Mambo No. 5 (a Little Bit of...) (0.408) | The Scientist (0.0243) |
+| Jesus Walks (0.323) | Old Fashioned (0.0246) |
+| So Sick (0.31) | Take A Chance On Me (0.0257) |
+| Where Is The Love? (0.178) | Chasing Cars (0.0274) |
+| Umbrella (0.134) | Can't Help Falling in Love (0.0275) |
+| Home (0.128) | Poison & Wine (0.0288) |
+| Green Light (feat. André 3000) (0.119) | You Lie (0.0289) |
+| Carolina State of Mind (0.101) | One Step At a Time (0.0289) |
+| No Scrubs (0.0953) | Rolling in the Deep (0.0298) |
+| Crazy Love (0.0819) | Gonna Get Over You (0.0301) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| Take It All | Save Tonight |
-| Lullabye (Goodnight, My Angel) | I Knew You Were Trouble. |
-| Desperado - 2013 Remaster | Umbrella |
-| Can't Help Falling in Love | I Will Wait |
-| I Thought She Knew | Can't Tell Me Nothing |
-| Yesterday - Remastered 2009 | Crazy |
-| Crazy Love | Chandelier |
-| The Way You Look Tonight | Gonna Get Over You |
-| That Wasn't Me | No Scrubs |
-| Poison & Wine | Cowboy Casanova |
+| Take It All (0.957) | Save Tonight (9.24e-05) |
+| Lullabye (Goodnight, My Angel) (0.948) | I Knew You Were Trouble. (0.00454) |
+| Desperado - 2013 Remaster (0.946) | Umbrella (0.00864) |
+| Can't Help Falling in Love (0.941) | I Will Wait (0.00974) |
+| I Thought She Knew (0.915) | Can't Tell Me Nothing (0.0122) |
+| Yesterday - Remastered 2009 (0.879) | Crazy (0.0172) |
+| Crazy Love (0.85) | Chandelier (0.0197) |
+| The Way You Look Tonight (0.798) | Gonna Get Over You (0.0199) |
+| That Wasn't Me (0.785) | No Scrubs (0.0251) |
+| Poison & Wine (0.756) | Cowboy Casanova (0.0328) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Crazy | The Way You Look Tonight |
-| I Will Wait | That Wasn't Me |
-| No Scrubs | Jesus Walks |
-| The Boxer | Yesterday - Remastered 2009 |
-| Desperado - 2013 Remaster | The Lighthouse's Tale |
-| Can't Help Falling in Love | You Lie |
-| Crazy Love | Cowboy Casanova |
-| Poison & Wine | Barton Hollow |
-| Chasing Cars | Mambo No. 5 (a Little Bit of...) |
-| Chandelier | Carolina State of Mind |
+| Crazy (0.0577) | The Lighthouse's Tale (0.0) |
+| I Will Wait (0.00717) | Chariot (0.0) |
+| No Scrubs (0.000717) | I Thought She Knew (0.0) |
+| The Boxer (0.000339) | The Way You Look Tonight (0.0) |
+| Desperado - 2013 Remaster (0.000222) | Can't Tell Me Nothing (0.0) |
+| Can't Help Falling in Love (0.000196) | Where Is The Love? (0.0) |
+| Crazy Love (8.92e-05) | I'm Yours (0.0) |
+| Poison & Wine (6.71e-05) | Rolling in the Deep (0.0) |
+| Chasing Cars (6.47e-05) | Disturbia (0.0) |
+| Chandelier (6.07e-05) | Wrecking Ball (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| Can't Tell Me Nothing | One Step At a Time |
-| Home | I Knew You Were Trouble. |
-| Never Let Me Go | Umbrella |
-| Chariot | Rolling in the Deep |
-| F**kin' Perfect | Blackbird - Remastered 2009 |
-| Old Fashioned | The Lighthouse's Tale |
-| Jesus Walks | Chandelier |
-| I Will Wait | No Scrubs |
-| Mambo No. 5 (a Little Bit of...) | Settle Down |
-| Desperado - 2013 Remaster | Already Gone |
+| Can't Tell Me Nothing (0.82) | One Step At a Time (0.0384) |
+| Home (0.393) | I Knew You Were Trouble. (0.0398) |
+| Never Let Me Go (0.383) | Umbrella (0.0426) |
+| Chariot (0.37) | Rolling in the Deep (0.0473) |
+| F**kin' Perfect (0.362) | Blackbird - Remastered 2009 (0.0573) |
+| Old Fashioned (0.36) | The Lighthouse's Tale (0.0601) |
+| Jesus Walks (0.317) | No Scrubs (0.0685) |
+| I Will Wait (0.312) | Chandelier (0.0685) |
+| Mambo No. 5 (a Little Bit of...) (0.306) | Settle Down (0.0733) |
+| Desperado - 2013 Remaster (0.273) | Already Gone (0.0768) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| Take A Chance On Me | Can't Tell Me Nothing |
-| My Guy | Chasing Cars |
-| Mambo No. 5 (a Little Bit of...) | Desperado - 2013 Remaster |
-| Where Is The Love? | I Thought She Knew |
-| This Love | Poison & Wine |
-| Home | The Scientist |
-| Mean | Lullabye (Goodnight, My Angel) |
-| Green Light (feat. André 3000) | That Wasn't Me |
-| Disturbia | Dreamer |
-| Jesus Walks | Never Let Me Go |
+| Take A Chance On Me (0.924) | Can't Tell Me Nothing (0.102) |
+| My Guy (0.91) | Chasing Cars (0.144) |
+| Mambo No. 5 (a Little Bit of...) (0.892) | Desperado - 2013 Remaster (0.18) |
+| This Love (0.809) | I Thought She Knew (0.198) |
+| Where Is The Love? (0.809) | Poison & Wine (0.203) |
+| Home (0.795) | The Scientist (0.213) |
+| Mean (0.789) | Lullabye (Goodnight, My Angel) (0.22) |
+| Green Light (feat. André 3000) (0.762) | That Wasn't Me (0.249) |
+| Disturbia (0.722) | Dreamer (0.252) |
+| Jesus Walks (0.715) | Never Let Me Go (0.253) |

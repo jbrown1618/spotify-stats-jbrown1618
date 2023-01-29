@@ -80,7 +80,7 @@
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bb5ab9683125fc416c9dbfb" alt="" width="50" /> | Zedd | [🔗](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb9ba4d95b74bacff4d5747f61" alt="" width="50" /> | Hozier | [🔗](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb576cb43281160e345f728b71" alt="" width="50" /> | Charli XCX | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd09edfd2babfc9fd2ba748e" alt="" width="50" /> | Daniel Caesar | [🔗](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) |
+| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf99727ed9dbe47a59126e17e" alt="" width="50" /> | Daniel Caesar | [🔗](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5acb3cb0a8b87d3952738b97" alt="" width="50" /> | Fifth Harmony | [🔗](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | Christina Aguilera | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebb5f9e28219c169fd4b9e8379" alt="" width="50" /> | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
@@ -107,7 +107,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb676338904deb80cffb568216" alt="" width="50" /> | [Beyoncé](../../artists/beyonc_.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb358577f183465ae7698a53a7" alt="" width="50" /> | Carly Rae Jepsen | [🔗](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb41bf7454f88cccfe6677b2c0" alt="" width="50" /> | H 3 F | [🔗](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f1004879ac217c8caa0a066" alt="" width="50" /> | [Kimbra](../../artists/kimbra.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4765d540a1ebedeb7c9637a2" alt="" width="50" /> | [Kimbra](../../artists/kimbra.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe32a61d17ecbe732a99d6d92" alt="" width="50" /> | 24kGoldn | [🔗](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9bc0756eb16b241111bbc72b" alt="" width="50" /> | Colbie Caillat | [🔗](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb90a228bbe264818694c54834" alt="" width="50" /> | Ally Brooke | [🔗](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) |
@@ -362,7 +362,7 @@
 | 301 | [pop](../../genres/pop.md) |
 | 195 | [dance pop](../../genres/dance_pop.md) |
 | 46 | [post-teen pop](../../genres/post_teen_pop.md) |
-| 31 | [electropop](../../genres/electropop.md) |
+| 30 | [electropop](../../genres/electropop.md) |
 | 28 | [art pop](../../genres/art_pop.md) |
 | 27 | edm |
 | 26 | uk pop |
@@ -375,13 +375,13 @@
 | 11 | pop dance |
 | 11 | british soul |
 | 11 | australian pop |
+| 10 | viral pop |
 | 10 | tropical house |
 | 10 | pop soul |
 | 10 | [pop rock](../../genres/pop_rock.md) |
 | 10 | canadian pop |
 | 10 | barbadian pop |
 | 10 | [acoustic pop](../../genres/acoustic_pop.md) |
-| 9 | viral pop |
 | 9 | metropopolis |
 | 8 | uk dance |
 | 8 | escape room |
@@ -517,91 +517,91 @@
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| SexyBack (feat. Timbaland) | Fix You |
-| Anaconda | Gravity |
-| WAP (feat. Megan Thee Stallion) | La Vie En Rose |
-| Pretty Please | exile (feat. Bon Iver) |
-| Sally Walker | Skyfall |
-| bury a friend | Jar of Hearts |
-| Coño | We All Need Saving |
-| I Think He Knows | lovely (with Khalid) |
-| LoveGame | epiphany |
-| Yeah! (feat. Lil Jon & Ludacris) | Lover |
+| SexyBack (feat. Timbaland) (0.967) | Fix You (0.209) |
+| Anaconda (0.964) | Gravity (0.27) |
+| WAP (feat. Megan Thee Stallion) (0.935) | La Vie En Rose (0.276) |
+| Pretty Please (0.906) | exile (feat. Bon Iver) (0.298) |
+| bury a friend (0.905) | Skyfall (0.346) |
+| Sally Walker (0.905) | Jar of Hearts (0.349) |
+| Coño (0.899) | We All Need Saving (0.35) |
+| I Think He Knows (0.897) | lovely (with Khalid) (0.351) |
+| Yeah! (feat. Lil Jon & Ludacris) (0.894) | epiphany (0.354) |
+| LoveGame (0.894) | Lover (0.359) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| Larger Than Life | when the party's over |
-| Boss Bitch | xanny |
-| This Is What You Came For | Julia |
-| Bye Bye Bye | Say Something |
-| Bad Romance | Come Home |
-| Red | Your Song |
-| Levitating | No Time To Die |
-| Green Light (feat. André 3000) | everything i wanted |
-| Don't Call Me Up | Off My Face |
-| Focus | Lonely (with benny blanco) |
+| Larger Than Life (0.973) | when the party's over (0.111) |
+| Boss Bitch (0.955) | xanny (0.125) |
+| This Is What You Came For (0.927) | Julia (0.128) |
+| Bye Bye Bye (0.926) | Say Something (0.147) |
+| Bad Romance (0.921) | Come Home (0.155) |
+| Red (0.896) | Your Song (0.195) |
+| Levitating (0.884) | No Time To Die (0.219) |
+| Green Light (feat. André 3000) (0.882) | everything i wanted (0.225) |
+| Don't Call Me Up (0.881) | Off My Face (0.228) |
+| Focus (0.876) | Lonely (with benny blanco) (0.239) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| Youngblood | The Scientist |
-| boyfriend (with Social House) | All Too Well |
-| WAP (feat. Megan Thee Stallion) | Old Fashioned |
-| bad guy | Set Fire to the Rain |
-| Bubblegum (feat. Tyga) | Chasing Pavements |
-| 7 rings | Show Me the Meaning of Being Lonely |
-| bury a friend | Everything |
-| Hustle | Begin Again |
-| Show Me What | no body, no crime (feat. HAIM) |
-| Trumpets | I Want It That Way |
+| Youngblood (0.463) | All Too Well (0.0243) |
+| boyfriend (with Social House) (0.461) | The Scientist (0.0243) |
+| WAP (feat. Megan Thee Stallion) (0.375) | Old Fashioned (0.0246) |
+| bad guy (0.375) | Set Fire to the Rain (0.0249) |
+| Bubblegum (feat. Tyga) (0.34) | Chasing Pavements (0.0251) |
+| 7 rings (0.334) | Show Me the Meaning of Being Lonely (0.0252) |
+| bury a friend (0.332) | Everything (0.0254) |
+| Hustle (0.326) | Begin Again (0.0263) |
+| Show Me What (0.287) | no body, no crime (feat. HAIM) (0.0264) |
+| Trumpets (0.258) | I Want It That Way (0.027) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| when the party's over | Misery |
-| Take It All | Coño |
-| Come Home | Out Of The Woods |
-| Stay | Blinding Lights |
-| Your Song | I Kissed A Girl |
-| lovely (with Khalid) | Don’t Call Me Angel (Charlie’s Angels) (with Miley Cyrus & Lana Del Rey) |
-| When I Was Your Man | Yellow |
-| All of Me | Style |
-| Off My Face | Valerie (feat. Amy Winehouse) - Version Revisited |
-| peace | New Rules |
+| when the party's over (0.978) | Misery (0.000315) |
+| Take It All (0.957) | Coño (0.000554) |
+| Come Home (0.947) | Out Of The Woods (0.00103) |
+| Stay (0.945) | Blinding Lights (0.00146) |
+| Your Song (0.936) | I Kissed A Girl (0.00223) |
+| lovely (with Khalid) (0.934) | Don’t Call Me Angel (Charlie’s Angels) (with Miley Cyrus & Lana Del Rey) (0.00237) |
+| When I Was Your Man (0.932) | Yellow (0.00239) |
+| All of Me (0.922) | Style (0.00253) |
+| Off My Face (0.92) | Valerie (feat. Amy Winehouse) - Version Revisited (0.00253) |
+| peace (0.918) | New Rules (0.00261) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Abeja | Big Girls Cry |
-| everything i wanted | illicit affairs |
-| Instant Crush (feat. Julian Casablancas) | right here |
-| you should see me in a crown | In My Blood |
-| bury a friend | (I Got That) Boom Boom (feat. Ying Yang Twins) |
-| Therefore I Am | Good Thing (with Kehlani) |
-| bad guy | Ride |
-| This Is What You Came For | Monster (Shawn Mendes & Justin Bieber) |
-| Crazy | INDUSTRY BABY (feat. Jack Harlow) |
-| Lights - Single Version | Slow Hands |
+| Abeja (0.915) | Clean (0.0) |
+| everything i wanted (0.657) | This Is Why We Can't Have Nice Things (0.0) |
+| Instant Crush (feat. Julian Casablancas) (0.619) | Love Me Like You Do (0.0) |
+| you should see me in a crown (0.219) | UN DIA (ONE DAY) (Feat. Tainy) (0.0) |
+| bury a friend (0.162) | React (0.0) |
+| Therefore I Am (0.135) | TiK ToK (0.0) |
+| bad guy (0.13) | Jar of Hearts (0.0) |
+| This Is What You Came For (0.119) | Lucky (0.0) |
+| Crazy (0.0577) | That's What I Like (0.0) |
+| Lights - Single Version (0.0492) | SexyBack (feat. Timbaland) (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| La Vie En Rose | Finesse - Remix; feat. Cardi B |
-| Radioactive | Finesse |
-| What Now | Oh My God |
-| Larger Than Life | Uptown Funk (feat. Bruno Mars) |
-| Feel Good Inc. | It's Gonna Be Me |
-| Super Bass | Yeah! (feat. Lil Jon & Ludacris) |
-| Good Girls Go Bad (feat. Leighton Meester) | I Knew You Were Trouble. |
-| (I Got That) Boom Boom (feat. Ying Yang Twins) | Good Thing (with Kehlani) |
-| Sour Candy (with BLACKPINK) | Hot In It |
-| In the Name of Love | Brave |
+| La Vie En Rose (0.706) | Finesse - Remix; feat. Cardi B (0.0215) |
+| Radioactive (0.668) | Finesse (0.0232) |
+| What Now (0.628) | Oh My God (0.0264) |
+| Larger Than Life (0.617) | Uptown Funk (feat. Bruno Mars) (0.0344) |
+| Feel Good Inc. (0.613) | It's Gonna Be Me (0.0372) |
+| Super Bass (0.601) | Yeah! (feat. Lil Jon & Ludacris) (0.0388) |
+| Good Girls Go Bad (feat. Leighton Meester) (0.549) | I Knew You Were Trouble. (0.0398) |
+| (I Got That) Boom Boom (feat. Ying Yang Twins) (0.508) | Good Thing (with Kehlani) (0.0409) |
+| Sour Candy (with BLACKPINK) (0.489) | Hot In It (0.0413) |
+| In the Name of Love (0.454) | SUGA's Interlude (0.0425) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| There's Nothing Holdin' Me Back | Delicate |
-| Sugar, Sugar | No Time To Die |
-| Mercy | xanny |
-| SexyBack (feat. Timbaland) | Falling |
-| I'm a Slave 4 U | Yellow Flicker Beat |
-| Sucker | Say Something |
-| I Choose You | Skyfall |
-| Tick Tock (feat. 24kGoldn) | Dress |
-| Peacock | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" |
-| Shake It Off | Jar of Hearts |
+| There's Nothing Holdin' Me Back (0.969) | Delicate (0.0499) |
+| Sugar, Sugar (0.967) | No Time To Die (0.0517) |
+| Mercy (0.964) | xanny (0.0528) |
+| SexyBack (feat. Timbaland) (0.964) | Falling (0.0592) |
+| I'm a Slave 4 U (0.963) | Yellow Flicker Beat (0.0597) |
+| Sucker (0.952) | Say Something (0.0765) |
+| I Choose You (0.947) | Skyfall (0.0789) |
+| Tick Tock (feat. 24kGoldn) (0.946) | Dress (0.0851) |
+| Peacock (0.945) | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" (0.0862) |
+| Shake It Off (0.943) | Jar of Hearts (0.0886) |

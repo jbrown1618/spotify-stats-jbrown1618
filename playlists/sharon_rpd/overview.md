@@ -181,91 +181,91 @@
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| ANTIFRAGILE | Black Mamba |
-| FEARLESS | Blow |
-| DUMB DUMB | Dope |
-| ELEVEN | Hype Boy |
-| Holiday Party | FEVER |
-| Shut Down | Thunderous |
-| WHISTLE | MIC Drop (Steve Aoki Remix) - Full Length Edition |
-| Attention | Missing You |
-| LALISA | Step Back |
-| Ice Cream (with Selena Gomez) | Boy With Luv (feat. Halsey) |
+| ANTIFRAGILE (0.882) | Black Mamba (0.52) |
+| FEARLESS (0.863) | Blow (0.535) |
+| DUMB DUMB (0.851) | Dope (0.579) |
+| ELEVEN (0.828) | Hype Boy (0.593) |
+| Holiday Party (0.825) | FEVER (0.6) |
+| Shut Down (0.82) | Thunderous (0.601) |
+| WHISTLE (0.818) | MIC Drop (Steve Aoki Remix) - Full Length Edition (0.606) |
+| Attention (0.811) | Missing You (0.633) |
+| LALISA (0.806) | Step Back (0.636) |
+| Ice Cream (with Selena Gomez) (0.79) | Boy With Luv (feat. Halsey) (0.645) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| Hype Boy | BOSS |
-| Black Mamba | Pretty Savage |
-| Alcohol-Free | City Girls |
-| Dope | Blow |
-| Queendom | FEARLESS |
-| LOCO | Attention |
-| Boy With Luv (feat. Halsey) | LALISA |
-| GAMBLER | Psycho |
-| MIC Drop (Steve Aoki Remix) - Full Length Edition | RUN2U |
-| Go Big or Go Home | Shut Down |
+| Hype Boy (0.935) | BOSS (0.543) |
+| Black Mamba (0.915) | Pretty Savage (0.556) |
+| Alcohol-Free (0.909) | City Girls (0.586) |
+| Queendom (0.896) | Blow (0.586) |
+| Dope (0.896) | FEARLESS (0.62) |
+| LOCO (0.886) | Attention (0.648) |
+| Boy With Luv (feat. Halsey) (0.862) | LALISA (0.653) |
+| GAMBLER (0.861) | Psycho (0.666) |
+| MIC Drop (Steve Aoki Remix) - Full Length Edition (0.85) | RUN2U (0.676) |
+| Go Big or Go Home (0.844) | Shut Down (0.686) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| Ice Cream (with Selena Gomez) | ASAP |
-| Thunderous | Attention |
-| Hype Boy | BOSS |
-| Dope | Shut Down |
-| LOCO | HOT |
-| MIC Drop (Steve Aoki Remix) - Full Length Edition | Pretty Savage |
-| Run BTS | LOVE DIVE |
-| GAMBLER | Psycho |
-| Pink Venom | Illusion |
-| FEARLESS | Holiday Party |
+| Ice Cream (with Selena Gomez) (0.365) | ASAP (0.0351) |
+| Thunderous (0.234) | Attention (0.0368) |
+| Dope (0.225) | BOSS (0.037) |
+| Hype Boy (0.225) | Shut Down (0.038) |
+| LOCO (0.187) | HOT (0.0399) |
+| MIC Drop (Steve Aoki Remix) - Full Length Edition (0.183) | Pretty Savage (0.0414) |
+| Run BTS (0.168) | LOVE DIVE (0.0433) |
+| GAMBLER (0.152) | Psycho (0.0446) |
+| Pink Venom (0.145) | Illusion (0.0468) |
+| FEARLESS (0.135) | Holiday Party (0.0494) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| Missing You | RUN2U |
-| Hype Boy | Doom Du Doom |
-| Attention | LOVE DIVE |
-| Thunderous | Shut Down |
-| Psycho | Blow |
-| Queendom | GAMBLER |
-| ASAP | WHISTLE |
-| Boy With Luv (feat. Halsey) | Holiday Party |
-| ANTIFRAGILE | Pretty Savage |
-| BAD GIRL (Prod. Czaer) | LOCO |
+| Missing You (0.65) | RUN2U (0.000835) |
+| Hype Boy (0.268) | Doom Du Doom (0.00356) |
+| Attention (0.236) | LOVE DIVE (0.00379) |
+| Thunderous (0.213) | Shut Down (0.00412) |
+| Psycho (0.193) | Blow (0.00437) |
+| Queendom (0.179) | GAMBLER (0.00458) |
+| ASAP (0.102) | WHISTLE (0.00561) |
+| Boy With Luv (feat. Halsey) (0.0933) | Holiday Party (0.00846) |
+| ANTIFRAGILE (0.0821) | Pretty Savage (0.00886) |
+| BAD GIRL (Prod. Czaer) (0.0815) | LOCO (0.0103) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| FEARLESS | Shut Down |
-| Black Mamba | PLAYING WITH FIRE |
-| LALISA | ELEVEN |
-| DUMB DUMB | Pink Venom |
-| Pretty Savage | Queendom |
-| Ice Cream (with Selena Gomez) | WHISTLE |
-| LOVE DIVE | Go Big or Go Home |
-| Doom Du Doom | Run BTS |
-| LOCO | Dynamite |
-| Illusion | ASAP |
+| FEARLESS (0.00324) | Shut Down (0.0) |
+| Black Mamba (0.000946) | BOSS (0.0) |
+| LALISA (0.000784) | FEVER (0.0) |
+| DUMB DUMB (0.000149) | Hype Boy (0.0) |
+| Pretty Savage (0.000122) | Thunderous (0.0) |
+| Ice Cream (with Selena Gomez) (8.06e-05) | City Girls (0.0) |
+| LOVE DIVE (5.43e-05) | Attention (0.0) |
+| Doom Du Doom (4.82e-05) | Missing You (0.0) |
+| LOCO (2.04e-05) | Psycho (0.0) |
+| Illusion (1.75e-05) | Boy With Luv (feat. Halsey) (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| Step Back | Holiday Party |
-| Dope | Ice Cream (with Selena Gomez) |
-| LOCO | Run BTS |
-| HOT | ELEVEN |
-| LOVE DIVE | City Girls |
-| Illusion | Queendom |
-| RUN2U | Alcohol-Free |
-| Hype Boy | Blow |
-| Go Big or Go Home | Attention |
-| Pink Venom | Doom Du Doom |
+| Step Back (0.596) | Holiday Party (0.0294) |
+| Dope (0.352) | Ice Cream (with Selena Gomez) (0.0311) |
+| LOCO (0.342) | Run BTS (0.0358) |
+| HOT (0.338) | ELEVEN (0.048) |
+| LOVE DIVE (0.333) | City Girls (0.0554) |
+| Illusion (0.322) | Queendom (0.0626) |
+| RUN2U (0.321) | Alcohol-Free (0.0674) |
+| Hype Boy (0.286) | Blow (0.0745) |
+| Go Big or Go Home (0.269) | Attention (0.0761) |
+| Pink Venom (0.217) | Doom Du Doom (0.0811) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| Ice Cream (with Selena Gomez) | ASAP |
-| LALISA | BOSS |
-| Doom Du Doom | Pretty Savage |
-| BAD GIRL (Prod. Czaer) | RUN2U |
-| ANTIFRAGILE | Psycho |
-| Go Big or Go Home | Holiday Party |
-| Blow | DUMB DUMB |
-| City Girls | FEARLESS |
-| Boy With Luv (feat. Halsey) | FEVER |
-| Thunderous | Missing You |
+| Ice Cream (with Selena Gomez) (0.91) | ASAP (0.323) |
+| LALISA (0.85) | BOSS (0.332) |
+| Doom Du Doom (0.846) | Pretty Savage (0.333) |
+| BAD GIRL (Prod. Czaer) (0.829) | RUN2U (0.362) |
+| ANTIFRAGILE (0.824) | Psycho (0.405) |
+| Go Big or Go Home (0.823) | Holiday Party (0.417) |
+| Blow (0.823) | DUMB DUMB (0.424) |
+| City Girls (0.815) | FEARLESS (0.432) |
+| Boy With Luv (feat. Halsey) (0.803) | FEVER (0.471) |
+| Thunderous (0.79) | Missing You (0.477) |

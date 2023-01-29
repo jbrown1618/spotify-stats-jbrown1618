@@ -140,91 +140,91 @@
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| You Can Call Me Al | Bridge Over Troubled Water |
-| Cecilia | Lights |
-| My Life | Desperado - 2013 Remaster |
-| A Matter of Trust | She's Always a Woman |
-| We Didn't Start the Fire | Come Sail Away |
-| I Feel the Earth Move | Piano Man |
-| Stayin Alive | And So It Goes |
-| Won't Get Fooled Again - Remix | The Boxer |
-| Uptown Girl | Captain Jack |
-| Don't Ask Me Why | Behind Blue Eyes |
+| You Can Call Me Al (0.776) | Bridge Over Troubled Water (0.149) |
+| Cecilia (0.755) | Lights (0.193) |
+| My Life (0.741) | Desperado - 2013 Remaster (0.228) |
+| A Matter of Trust (0.738) | She's Always a Woman (0.292) |
+| We Didn't Start the Fire (0.712) | Come Sail Away (0.324) |
+| I Feel the Earth Move (0.711) | Piano Man (0.334) |
+| Stayin Alive (0.703) | And So It Goes (0.351) |
+| Won't Get Fooled Again - Remix (0.702) | The Boxer (0.351) |
+| Uptown Girl (0.701) | Captain Jack (0.392) |
+| Don't Ask Me Why (0.691) | Behind Blue Eyes (0.394) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| We Didn't Start the Fire | And So It Goes |
-| Uptown Girl | The Boxer |
-| Any Way You Want It | And So It Goes |
-| Scenes from an Italian Restaurant | She's Got a Way |
-| Movin' Out (Anthony's Song) | I Can't Make You Love Me |
-| The Stranger | Lullabye (Goodnight, My Angel) |
-| Cecilia | So Far Away |
-| Only the Good Die Young | Crazy Love - 2013 Remaster |
-| 25 or 6 to 4 | Bridge Over Troubled Water |
-| Won't Get Fooled Again - Remix | The Sound of Silence - Acoustic Version |
+| We Didn't Start the Fire (0.967) | And So It Goes (0.0387) |
+| Uptown Girl (0.944) | The Boxer (0.0802) |
+| Any Way You Want It (0.932) | And So It Goes (0.0871) |
+| Scenes from an Italian Restaurant (0.931) | She's Got a Way (0.142) |
+| Movin' Out (Anthony's Song) (0.88) | I Can't Make You Love Me (0.149) |
+| The Stranger (0.878) | Lullabye (Goodnight, My Angel) (0.157) |
+| Cecilia (0.876) | So Far Away (0.172) |
+| Only the Good Die Young (0.872) | Crazy Love - 2013 Remaster (0.188) |
+| 25 or 6 to 4 (0.869) | Bridge Over Troubled Water (0.206) |
+| Won't Get Fooled Again - Remix (0.841) | The Sound of Silence - Acoustic Version (0.216) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| Only the Good Die Young | The Longest Time |
-| Scenes from an Italian Restaurant | A Matter of Trust |
-| Big Shot | Hotel California - 2013 Remaster |
-| Crazy Love - 2013 Remaster | Cold as Ice |
-| The Stranger | Piano Man |
-| Crazy Love | Tiny Dancer |
-| Can't Take My Eyes off You | Goodbye Yellow Brick Road - Remastered 2014 |
-| The Boxer | Dust in the Wind |
-| My Generation - Stereo Version | Rocket Man (I Think It's Going To Be A Long, Long Time) |
-| The River of Dreams | Candle In The Wind - Remastered 2014 |
+| Only the Good Die Young (0.159) | The Longest Time (0.0262) |
+| Scenes from an Italian Restaurant (0.126) | A Matter of Trust (0.0268) |
+| Big Shot (0.0972) | Hotel California - 2013 Remaster (0.027) |
+| Crazy Love - 2013 Remaster (0.0959) | Cold as Ice (0.0271) |
+| The Stranger (0.0837) | Piano Man (0.0276) |
+| Crazy Love (0.0819) | Tiny Dancer (0.0278) |
+| Can't Take My Eyes off You (0.0746) | Goodbye Yellow Brick Road - Remastered 2014 (0.0279) |
+| The Boxer (0.0615) | Dust in the Wind (0.0283) |
+| My Generation - Stereo Version (0.058) | Rocket Man (I Think It's Going To Be A Long, Long Time) (0.0286) |
+| The River of Dreams (0.0576) | Candle In The Wind - Remastered 2014 (0.0288) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| She's Got a Way | Any Way You Want It |
-| Lullabye (Goodnight, My Angel) | Carry on Wayward Son |
-| Desperado - 2013 Remaster | Hotel California - 2013 Remaster |
-| And So It Goes | Pressure |
-| The Boxer | Renegade |
-| And So It Goes | Pinball Wizard |
-| So Far Away | Crocodile Rock |
-| Crazy Love | Cold as Ice |
-| I Can't Make You Love Me | Stayin Alive |
-| Crazy Love - 2013 Remaster | A Matter of Trust |
+| She's Got a Way (0.97) | Any Way You Want It (0.00251) |
+| Lullabye (Goodnight, My Angel) (0.948) | Carry on Wayward Son (0.00321) |
+| Desperado - 2013 Remaster (0.946) | Hotel California - 2013 Remaster (0.00574) |
+| And So It Goes (0.941) | Pressure (0.0148) |
+| The Boxer (0.93) | Renegade (0.0151) |
+| And So It Goes (0.91) | Pinball Wizard (0.0192) |
+| So Far Away (0.897) | Crocodile Rock (0.0263) |
+| Crazy Love (0.85) | Cold as Ice (0.0264) |
+| I Can't Make You Love Me (0.846) | Stayin Alive (0.0328) |
+| Crazy Love - 2013 Remaster (0.841) | A Matter of Trust (0.0589) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Won't Get Fooled Again - Remix | Cold as Ice |
-| Baba O'Riley | And So It Goes |
-| 25 or 6 to 4 | We Didn't Start the Fire |
-| Stayin Alive | Uptown Girl |
-| My Generation - Stereo Version | Only the Good Die Young |
-| Lights | Don't Ask Me Why |
-| You Can Call Me Al | The Longest Time |
-| Who Are You | Cat's in the Cradle |
-| I Feel the Earth Move | The Sound of Silence - Acoustic Version |
-| Goodbye Yellow Brick Road - Remastered 2014 | Pinball Wizard |
+| Won't Get Fooled Again - Remix (0.235) | And So It Goes (0.0) |
+| Baba O'Riley (0.185) | Cat's in the Cradle (0.0) |
+| 25 or 6 to 4 (0.0367) | Only the Good Die Young (0.0) |
+| Stayin Alive (0.00839) | We Didn't Start the Fire (0.0) |
+| My Generation - Stereo Version (0.00822) | Brown Eyed Girl (0.0) |
+| Lights (0.00711) | Vienna (0.0) |
+| You Can Call Me Al (0.00647) | Don't Stop Believin' (0.0) |
+| Who Are You (0.0042) | Lullabye (Goodnight, My Angel) (0.0) |
+| I Feel the Earth Move (0.00226) | The Longest Time (0.0) |
+| Goodbye Yellow Brick Road - Remastered 2014 (0.00141) | The Sound of Silence - Acoustic Version (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| Uptown Girl | I Feel the Earth Move |
-| Don't Stop Believin' | My Life |
-| Carry on Wayward Son | Hotel California - 2013 Remaster |
-| Brown Eyed Girl | Won't Get Fooled Again - Remix |
-| Captain Jack | Crocodile Rock |
-| We Didn't Start the Fire | Movin' Out (Anthony's Song) |
-| Lights | Easy |
-| New York State of Mind | The Boxer |
-| Piano Man | Who Are You |
-| A Matter of Trust | The River of Dreams |
+| Uptown Girl (0.601) | I Feel the Earth Move (0.0528) |
+| Don't Stop Believin' (0.447) | My Life (0.0555) |
+| Carry on Wayward Son (0.446) | Hotel California - 2013 Remaster (0.0575) |
+| Brown Eyed Girl (0.406) | Won't Get Fooled Again - Remix (0.0584) |
+| Captain Jack (0.374) | Movin' Out (Anthony's Song) (0.0591) |
+| We Didn't Start the Fire (0.356) | Crocodile Rock (0.0591) |
+| Lights (0.332) | Easy (0.0596) |
+| New York State of Mind (0.323) | The Boxer (0.0619) |
+| Piano Man (0.312) | Who Are You (0.0655) |
+| A Matter of Trust (0.306) | The River of Dreams (0.0667) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| Crocodile Rock | I Can't Make You Love Me |
-| I'm a Believer - 2006 Remaster | Come Sail Away |
-| Cecilia | Baba O'Riley |
-| Stayin Alive | Desperado - 2013 Remaster |
-| Brown Eyed Girl | New York State of Mind |
-| We Didn't Start the Fire | She's Got a Way |
-| Movin' Out (Anthony's Song) | Lullabye (Goodnight, My Angel) |
-| A Matter of Trust | The Stranger |
-| Don't Ask Me Why | And So It Goes |
-| Pressure | Bridge Over Troubled Water |
+| Crocodile Rock (0.968) | I Can't Make You Love Me (0.113) |
+| I'm a Believer - 2006 Remaster (0.962) | Come Sail Away (0.141) |
+| Cecilia (0.954) | Baba O'Riley (0.15) |
+| Stayin Alive (0.949) | Desperado - 2013 Remaster (0.18) |
+| Brown Eyed Girl (0.908) | New York State of Mind (0.194) |
+| Movin' Out (Anthony's Song) (0.895) | She's Got a Way (0.196) |
+| We Didn't Start the Fire (0.895) | Lullabye (Goodnight, My Angel) (0.22) |
+| A Matter of Trust (0.88) | The Stranger (0.222) |
+| Don't Ask Me Why (0.868) | And So It Goes (0.24) |
+| Pressure (0.851) | Bridge Over Troubled Water (0.264) |

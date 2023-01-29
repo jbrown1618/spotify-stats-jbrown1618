@@ -1,6 +1,6 @@
 # pop
 
-[493 songs](pop_tracks.md)
+[495 songs](pop_tracks.md)
 
 ## Top Artists
 
@@ -14,7 +14,7 @@
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
-| 60 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | [Taylor Swift](../artists/taylor_swift.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
+| 62 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | [Taylor Swift](../artists/taylor_swift.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 | 59 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../artists/sara_bareilles.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 | 25 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../artists/ariana_grande.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 | 22 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
@@ -78,7 +78,7 @@
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bb5ab9683125fc416c9dbfb" alt="" width="50" /> | Zedd | [🔗](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb9ba4d95b74bacff4d5747f61" alt="" width="50" /> | Hozier | [🔗](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb576cb43281160e345f728b71" alt="" width="50" /> | Charli XCX | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd09edfd2babfc9fd2ba748e" alt="" width="50" /> | Daniel Caesar | [🔗](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) |
+| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf99727ed9dbe47a59126e17e" alt="" width="50" /> | Daniel Caesar | [🔗](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5acb3cb0a8b87d3952738b97" alt="" width="50" /> | Fifth Harmony | [🔗](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebb5f9e28219c169fd4b9e8379" alt="" width="50" /> | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7926088433d79485da5e1734" alt="" width="50" /> | Mabel | [🔗](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) |
@@ -132,8 +132,8 @@
 | 12 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Little Voice | 2007-07-03 | [🔗](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) |
 | 10 | <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | reputation | 2017-11-10 | [🔗](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) |
 | 10 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | folklore | 2020-07-24 | [🔗](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) |
+| 10 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Midnights | 2022-10-21 | [🔗](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) |
 | 10 | <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | Amidst the Chaos (Bonus Version) | 2019-05-10 | [🔗](https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm) |
-| 8 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Midnights | 2022-10-21 | [🔗](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) |
 | 8 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Lover | 2019-08-23 | [🔗](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) |
 | 8 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="" width="50" /> | 1989 | 2014-10-27 | [🔗](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) |
 | 7 | <img src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" alt="" width="50" /> | Future Nostalgia | 2020-03-27 | [🔗](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) |
@@ -243,8 +243,8 @@
 |---:|:---|
 | 80 | [Epic](../labels/epic.md) |
 | 33 | [Columbia](../labels/columbia.md) |
+| 32 | [Taylor Swift](../labels/taylor_swift.md) |
 | 31 | [Interscope Records](../labels/interscope_records.md) |
-| 30 | [Taylor Swift](../labels/taylor_swift.md) |
 | 29 | [Big Machine Records](../labels/big_machine_records.md) |
 | 26 | [RCA Records Label](../labels/rca_records_label.md) |
 | 24 | [Polydor Records](../labels/polydor_records.md) |
@@ -349,91 +349,91 @@
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| SexyBack (feat. Timbaland) | Born To Die |
-| Anaconda | Fix You |
-| WAP (feat. Megan Thee Stallion) | Already Gone |
-| Billie Jean | Norman fucking Rockwell |
-| Pretty Please | Shades Of Cool |
-| Sally Walker | Stay |
-| 1, 2, 3, 4 | That's Where I Am |
-| bury a friend | Gravity |
-| Coño | Once Upon Another Time |
-| I Think He Knows | La Vie En Rose |
+| SexyBack (feat. Timbaland) (0.967) | Born To Die (0.18) |
+| Anaconda (0.964) | Already Gone (0.209) |
+| WAP (feat. Megan Thee Stallion) (0.935) | Fix You (0.209) |
+| Billie Jean (0.932) | Norman fucking Rockwell (0.215) |
+| Pretty Please (0.906) | Stay (0.262) |
+| bury a friend (0.905) | Shades Of Cool (0.262) |
+| Sally Walker (0.905) | That's Where I Am (0.269) |
+| 1, 2, 3, 4 (0.905) | Gravity (0.27) |
+| Coño (0.899) | Once Upon Another Time (0.275) |
+| I Think He Knows (0.897) | La Vie En Rose (0.276) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| Smooth Criminal - 2012 Remaster | Kaleidoscope Heart |
-| Boss Bitch | In My Life |
-| Red Lipstick (feat. Yoonmirae) | when the party's over |
-| Stress | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 |
-| My Happy Ending | xanny |
-| This Is What You Came For | Julia |
-| Bad Romance | Come Home |
-| Red | Sweet Nothing |
-| Bad Idea (feat. Jason Mraz) | Manhattan |
-| Levitating | Bright Lights and Cityscapes |
+| Smooth Criminal - 2012 Remaster (0.981) | Kaleidoscope Heart (0.0516) |
+| Boss Bitch (0.955) | In My Life (0.091) |
+| Red Lipstick (feat. Yoonmirae) (0.941) | when the party's over (0.111) |
+| Stress (0.94) | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 (0.114) |
+| My Happy Ending (0.936) | xanny (0.125) |
+| This Is What You Came For (0.927) | Julia (0.128) |
+| Bad Romance (0.921) | Come Home (0.155) |
+| Red (0.896) | Sweet Nothing (0.156) |
+| Bad Idea (feat. Jason Mraz) (0.889) | Manhattan (0.168) |
+| Levitating (0.884) | Bright Lights and Cityscapes (0.184) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| Youngblood | Satellite Call |
-| boyfriend (with Social House) | Breakeven |
-| Hold Up | The Scientist |
-| Vigilante Shit | All Too Well |
-| Irreplaceable | Set Fire to the Rain |
-| bad guy | Chasing Pavements |
-| WAP (feat. Megan Thee Stallion) | Begin Again |
-| Bubblegum (feat. Tyga) | no body, no crime (feat. HAIM) |
-| 7 rings | Machine Gun |
-| bury a friend | Orpheus |
+| Youngblood (0.463) | Satellite Call (0.0241) |
+| boyfriend (with Social House) (0.461) | Breakeven (0.0242) |
+| Hold Up (0.405) | All Too Well (0.0243) |
+| Vigilante Shit (0.39) | The Scientist (0.0243) |
+| Irreplaceable (0.382) | Set Fire to the Rain (0.0249) |
+| WAP (feat. Megan Thee Stallion) (0.375) | Chasing Pavements (0.0251) |
+| bad guy (0.375) | Begin Again (0.0263) |
+| Bubblegum (feat. Tyga) (0.34) | no body, no crime (feat. HAIM) (0.0264) |
+| 7 rings (0.334) | Machine Gun (0.0268) |
+| bury a friend (0.332) | Orpheus (0.0269) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| when the party's over | Misery |
-| Bright Lights and Cityscapes | Coño |
-| Manhattan | Out Of The Woods |
-| Norman fucking Rockwell | My Happy Ending |
-| Sweet Nothing | Blinding Lights |
-| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Maniac |
-| Take It All | I Kissed A Girl |
-| Skinny Love | Don’t Call Me Angel (Charlie’s Angels) (with Miley Cyrus & Lana Del Rey) |
-| Come Home | Yellow |
-| Stay | Bootylicious |
+| when the party's over (0.978) | Misery (0.000315) |
+| Bright Lights and Cityscapes (0.977) | Coño (0.000554) |
+| Manhattan (0.972) | Out Of The Woods (0.00103) |
+| Norman fucking Rockwell (0.968) | My Happy Ending (0.00136) |
+| Sweet Nothing (0.964) | Blinding Lights (0.00146) |
+| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 (0.959) | Maniac (0.00162) |
+| Take It All (0.957) | I Kissed A Girl (0.00223) |
+| Skinny Love (0.952) | Don’t Call Me Angel (Charlie’s Angels) (with Miley Cyrus & Lana Del Rey) (0.00237) |
+| Come Home (0.947) | Yellow (0.00239) |
+| Stay (0.945) | Bootylicious (0.00247) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| everything i wanted | Say You're Sorry |
-| Smooth Criminal - 2012 Remaster | 그대라는 시 |
-| Swan Song | Four Seasons |
-| Wanna Be Startin' Somethin' | Spark |
-| you should see me in a crown | Happy |
-| bury a friend | What Do I Call You |
-| Therefore I Am | Cold As Hell |
-| bad guy | Heart |
-| This Is What You Came For | Can't Control Myself |
-| Bel Air | Good Thing |
+| everything i wanted (0.657) | Say You're Sorry (0.0) |
+| Smooth Criminal - 2012 Remaster (0.468) | Sweet As Whole (0.0) |
+| Swan Song (0.421) | Clean (0.0) |
+| Wanna Be Startin' Somethin' (0.419) | This Is Why We Can't Have Nice Things (0.0) |
+| you should see me in a crown (0.219) | Love Me Like You Do (0.0) |
+| bury a friend (0.162) | You've Got The Love (0.0) |
+| Therefore I Am (0.135) | React (0.0) |
+| bad guy (0.13) | TiK ToK (0.0) |
+| This Is What You Came For (0.119) | Jar of Hearts (0.0) |
+| Bel Air (0.0875) | Lucky (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| Bel Air | Finesse - Remix; feat. Cardi B |
-| Thriller | Finesse |
-| Red Lipstick (feat. Yoonmirae) | Oh My God |
-| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Uncharted |
-| La Vie En Rose | Uptown Funk (feat. Bruno Mars) |
-| What Now | One Step At a Time |
-| Love On Top | Yeah! (feat. Lil Jon & Ludacris) |
-| Super Bass | Stress |
-| Rose | I Knew You Were Trouble. |
-| Hold Up | Good Thing (with Kehlani) |
+| Bel Air (0.901) | Finesse - Remix; feat. Cardi B (0.0215) |
+| Thriller (0.89) | Finesse (0.0232) |
+| Red Lipstick (feat. Yoonmirae) (0.792) | Oh My God (0.0264) |
+| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 (0.781) | Uncharted (0.0343) |
+| La Vie En Rose (0.706) | Uptown Funk (feat. Bruno Mars) (0.0344) |
+| What Now (0.628) | One Step At a Time (0.0384) |
+| Love On Top (0.604) | Yeah! (feat. Lil Jon & Ludacris) (0.0388) |
+| Super Bass (0.601) | Stress (0.0389) |
+| Rose (0.56) | I Knew You Were Trouble. (0.0398) |
+| Hold Up (0.521) | Good Thing (with Kehlani) (0.0409) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| There's Nothing Holdin' Me Back | Swan Song |
-| SexyBack (feat. Timbaland) | Delicate |
-| I'm a Slave 4 U | No Time To Die |
-| P.Y.T. (Pretty Young Thing) | xanny |
-| 1, 2, 3, 4 | Once Upon Another Time |
-| Sucker | Falling |
-| I Choose You | Yellow Flicker Beat |
-| Don't Stop 'Til You Get Enough | Skyfall |
-| Tick Tock (feat. 24kGoldn) | I'll Show You |
-| Peacock | How Big, How Blue, How Beautiful |
+| There's Nothing Holdin' Me Back (0.969) | Maroon (0.0374) |
+| SexyBack (feat. Timbaland) (0.964) | Swan Song (0.0392) |
+| I'm a Slave 4 U (0.963) | Delicate (0.0499) |
+| P.Y.T. (Pretty Young Thing) (0.961) | No Time To Die (0.0517) |
+| 1, 2, 3, 4 (0.955) | xanny (0.0528) |
+| Sucker (0.952) | Once Upon Another Time (0.0551) |
+| I Choose You (0.947) | Falling (0.0592) |
+| Don't Stop 'Til You Get Enough (0.947) | Yellow Flicker Beat (0.0597) |
+| Tick Tock (feat. 24kGoldn) (0.946) | I'll Show You (0.0789) |
+| Peacock (0.945) | Skyfall (0.0789) |

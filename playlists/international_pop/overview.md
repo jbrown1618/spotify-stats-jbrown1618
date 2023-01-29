@@ -38,7 +38,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe20d1e9d7eb5b59dd2586997" alt="" width="50" /> | Aitana | [🔗](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738d6686937b604899a9347550" alt="" width="50" /> | mothy | [🔗](https://open.spotify.com/artist/7LOYTIZlvOwx83g2iBL3eM) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8fd9afcc6a730d21e205a694" alt="" width="50" /> | ANNA | [🔗](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd097fdbe85a171a0483a2611" alt="" width="50" /> | Aya Nakamura | [🔗](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb03f842b867599fa61480357b" alt="" width="50" /> | Aya Nakamura | [🔗](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3bdc84aa8946d4d06fe2e144" alt="" width="50" /> | SEKAI NO OWARI | [🔗](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) |
 | 1 | <img src="https://i.scdn.co/image/cdc8cf94774db4f0066ca1f90eb3fda45955a420" alt="" width="50" /> | Freshlyground | [🔗](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f34daf0448f63f37f9dc35d" alt="" width="50" /> | King Gnu | [🔗](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) |
@@ -429,91 +429,91 @@
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| Bando | Amore |
-| Ne reviens pas | 永不失聯的愛 |
-| Tippy Toes | 落葉歸根 |
-| MALAMENTE - Cap.1: Augurio | No Rain, No Rainbow |
-| מי זאת | 你要的愛 |
-| Think About Things | untuk hati yang terluka. |
-| Gagnamagnið | Cry Baby |
-| Endurtaka Mig | Headbangeeeeerrrrr!!!!! |
-| Sofa Silahlane | abnormalize |
-| Jai Jai Shivshankar (From "War") | Wherever you are |
+| Bando (0.97) | Amore (0.167) |
+| Ne reviens pas (0.932) | 永不失聯的愛 (0.289) |
+| Tippy Toes (0.913) | 落葉歸根 (0.29) |
+| MALAMENTE - Cap.1: Augurio (0.893) | No Rain, No Rainbow (0.323) |
+| מי זאת (0.88) | 你要的愛 (0.328) |
+| Think About Things (0.871) | untuk hati yang terluka. (0.337) |
+| Gagnamagnið (0.869) | Cry Baby (0.346) |
+| Endurtaka Mig (0.847) | Headbangeeeeerrrrr!!!!! (0.371) |
+| Sofa Silahlane (0.837) | abnormalize (0.373) |
+| Jai Jai Shivshankar (From "War") (0.825) | Wherever you are (0.379) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| チョコレイト・ディスコ | 刻在我心底的名字 (Your Name Engraved Herein) - 電影<刻在你心底的名字>主題曲 |
-| Shanti Shanti Shanti | 落葉歸根 |
-| Gimme Chocolate!! | Heaven |
-| Boys & Girls | Gagnamagnið |
-| Headbangeeeeerrrrr!!!!! | untuk hati yang terluka. |
-| だいじょばない | 你要的愛 |
-| KARATE | Think About Things |
-| 404 not found | 醒不来的梦 |
-| 恋をすると馬鹿を見る(Team B) | Sofa Silahlane |
-| Kagerou | 永不失聯的愛 |
+| チョコレイト・ディスコ (0.99) | 刻在我心底的名字 (Your Name Engraved Herein) - 電影<刻在你心底的名字>主題曲 (0.201) |
+| Shanti Shanti Shanti (0.988) | 落葉歸根 (0.23) |
+| Headbangeeeeerrrrr!!!!! (0.985) | Heaven (0.285) |
+| Gimme Chocolate!! (0.985) | Gagnamagnið (0.303) |
+| Boys & Girls (0.985) | untuk hati yang terluka. (0.312) |
+| KARATE (0.982) | 你要的愛 (0.32) |
+| だいじょばない (0.982) | Think About Things (0.341) |
+| 404 not found (0.967) | 醒不来的梦 (0.362) |
+| 恋をすると馬鹿を見る(Team B) (0.955) | Sofa Silahlane (0.38) |
+| Kagerou (0.941) | 永不失聯的愛 (0.43) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| Te Felicito | 情非得已 |
-| Bando | 就是愛妳 |
-| 11 PM | Pretender |
-| KARATE | 悪ノ娘 |
-| Pleasure | Tetap Dalam Jiwa |
-| Leyendas | 如果的事 |
-| Tout oublier | 醒不来的梦 |
-| Shanti Shanti Shanti | 炎 |
-| Djadja | ก่อนฤดูฝน |
-| 青春修炼手册 | 永不失聯的愛 |
+| Te Felicito (0.317) | 情非得已 (0.0241) |
+| Bando (0.295) | 就是愛妳 (0.0251) |
+| 11 PM (0.277) | Pretender (0.0275) |
+| KARATE (0.271) | 悪ノ娘 (0.0278) |
+| Pleasure (0.258) | Tetap Dalam Jiwa (0.0279) |
+| Leyendas (0.245) | 如果的事 (0.0293) |
+| Tout oublier (0.197) | 醒不来的梦 (0.0297) |
+| Shanti Shanti Shanti (0.196) | 炎 (0.0325) |
+| Djadja (0.165) | ก่อนฤดูฝน (0.0328) |
+| 青春修炼手册 (0.161) | 永不失聯的愛 (0.0332) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| 刻在我心底的名字 (Your Name Engraved Herein) - 電影<刻在你心底的名字>主題曲 | abnormalize |
-| 落葉歸根 | Kagerou |
-| untuk hati yang terluka. | Headbangeeeeerrrrr!!!!! |
-| 如果的事 | Gimme Chocolate!! |
-| עושה לי צרות | Amore |
-| 醒不来的梦 | Boys & Girls |
-| Heaven | KARATE |
-| Tetap Dalam Jiwa | Koi |
-| 永不失聯的愛 | UN DIA (ONE DAY) (Feat. Tainy) |
-| סתלבט בקיבוץ | Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground) |
+| 刻在我心底的名字 (Your Name Engraved Herein) - 電影<刻在你心底的名字>主題曲 (0.873) | abnormalize (7.51e-06) |
+| 落葉歸根 (0.862) | Kagerou (3.1e-05) |
+| untuk hati yang terluka. (0.859) | Headbangeeeeerrrrr!!!!! (7.67e-05) |
+| 如果的事 (0.828) | Gimme Chocolate!! (0.000282) |
+| עושה לי צרות (0.777) | Amore (0.000328) |
+| 醒不来的梦 (0.756) | Boys & Girls (0.000388) |
+| Heaven (0.741) | KARATE (0.00071) |
+| Tetap Dalam Jiwa (0.722) | Koi (0.00081) |
+| 永不失聯的愛 (0.624) | UN DIA (ONE DAY) (Feat. Tainy) (0.00536) |
+| סתלבט בקיבוץ (0.588) | Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground) (0.00627) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| だいじょばない | Pleasure |
-| Sofa Silahlane | Échame La Culpa |
-| Shanti Shanti Shanti | I Love... |
-| בשורות טובות | Te Felicito |
-| KARATE | Habit |
-| abnormalize | 刻在我心底的名字 (Your Name Engraved Herein) - 電影<刻在你心底的名字>主題曲 |
-| Tippy Toes | Leyendas |
-| Headbangeeeeerrrrr!!!!! | Cry Baby |
-| JA ARA E | Djadja |
-| Kagerou | 砂の惑星 ( + 初音ミク ) |
+| だいじょばない (0.844) | Meleğim (0.0) |
+| Sofa Silahlane (0.531) | UN DIA (ONE DAY) (Feat. Tainy) (0.0) |
+| Shanti Shanti Shanti (0.318) | Wherever you are (0.0) |
+| בשורות טובות (0.211) | 炎 (0.0) |
+| KARATE (0.172) | Ne reviens pas (0.0) |
+| abnormalize (0.151) | Bando (0.0) |
+| Tippy Toes (0.106) | Daisy 2.0 (feat. Hatsune Miku) (0.0) |
+| Headbangeeeeerrrrr!!!!! (0.0611) | Pretender (0.0) |
+| JA ARA E (0.0267) | 白日 (0.0) |
+| Kagerou (0.0168) | Papaoutai (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| Mercy | Sofa Silahlane |
-| סתלבט בקיבוץ | קוביות |
-| Kagerou | チョコレイト・ディスコ |
-| 脳裏上のクラッカー | Con Calma |
-| KARATE | Lo Malo |
-| Cry Baby | Look At Me |
-| Endurtaka Mig | Pasoori |
-| Shanti Shanti Shanti | No title |
-| 404 not found | Papaoutai |
-| Wherever you are | Despacito |
+| Mercy (0.579) | Sofa Silahlane (0.0418) |
+| סתלבט בקיבוץ (0.47) | קוביות (0.0453) |
+| Kagerou (0.409) | チョコレイト・ディスコ (0.0519) |
+| 脳裏上のクラッカー (0.384) | Con Calma (0.0574) |
+| KARATE (0.36) | Lo Malo (0.0613) |
+| Cry Baby (0.358) | Look At Me (0.0623) |
+| Endurtaka Mig (0.358) | Pasoori (0.0625) |
+| Shanti Shanti Shanti (0.355) | No title (0.0638) |
+| 404 not found (0.338) | Papaoutai (0.0642) |
+| Wherever you are (0.335) | Despacito (0.067) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| チョコレイト・ディスコ | Mercy |
-| Me Enamoré | Tetap Dalam Jiwa |
-| סתלבט בקיבוץ | 你要的愛 |
-| Ne reviens pas | 白月光与朱砂痣 |
-| 恋するフォーチュンクッキー | untuk hati yang terluka. |
-| 砂の惑星 ( + 初音ミク ) | No Rain, No Rainbow |
-| Habit | KARATE |
-| No title | 醒不来的梦 |
-| Koi | 落葉歸根 |
-| The Ketchup Song (Aserejé) - Spanglish Version | Papaoutai |
+| チョコレイト・ディスコ (0.963) | Mercy (0.169) |
+| Me Enamoré (0.948) | Tetap Dalam Jiwa (0.179) |
+| סתלבט בקיבוץ (0.941) | 你要的愛 (0.2) |
+| Ne reviens pas (0.931) | 白月光与朱砂痣 (0.218) |
+| 恋するフォーチュンクッキー (0.924) | untuk hati yang terluka. (0.225) |
+| 砂の惑星 ( + 初音ミク ) (0.917) | No Rain, No Rainbow (0.225) |
+| Habit (0.912) | KARATE (0.23) |
+| No title (0.884) | 醒不来的梦 (0.238) |
+| Koi (0.878) | 落葉歸根 (0.253) |
+| The Ketchup Song (Aserejé) - Spanglish Version (0.868) | Papaoutai (0.254) |

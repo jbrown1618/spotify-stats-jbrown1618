@@ -143,91 +143,91 @@
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| Problem | We Found Love |
-| La Camisa Negra | Falling Slowly |
-| Toxic | Wait It Out |
-| Telephone | The Man Who Can't Be Moved |
-| Waka Waka (This Time for Africa) | The Sound of Silence |
-| Machine Gun | Fix You |
-| They | Stay |
-| Work Song | Alive |
-| Eine kleine Nachtmusik | White Flag |
-| Domino | Paranoid Android |
+| Problem (0.834) | We Found Love (0.203) |
+| La Camisa Negra (0.812) | Falling Slowly (0.218) |
+| Toxic (0.764) | Wait It Out (0.227) |
+| Telephone (0.756) | The Man Who Can't Be Moved (0.231) |
+| Waka Waka (This Time for Africa) (0.725) | The Sound of Silence (0.235) |
+| Machine Gun (0.718) | Fix You (0.247) |
+| They (0.717) | Stay (0.248) |
+| Work Song (0.713) | Alive (0.258) |
+| Eine kleine Nachtmusik (0.706) | White Flag (0.27) |
+| Domino (0.704) | Paranoid Android (0.273) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| Misery Business | Woods |
-| Don't Stop Me Now | The Sound of Silence |
-| Russian Roulette | Say Something |
-| Telephone | Pure Imagination |
-| Finesse - Remix | Phoenix |
-| Don't Stop Believin' | Demons |
-| Bang Bang | Poison & Wine |
-| Too Close (feat. Roxorloops & Blady Kris) | Say Something |
-| Brand New Jones | Honeybee |
-| Manwa Laage | Chandelier |
+| Misery Business (0.888) | Woods (0.0582) |
+| Don't Stop Me Now (0.883) | The Sound of Silence (0.115) |
+| Russian Roulette (0.866) | Say Something (0.152) |
+| Telephone (0.832) | Pure Imagination (0.194) |
+| Finesse - Remix (0.83) | Phoenix (0.206) |
+| Bang Bang (0.809) | Demons (0.21) |
+| Don't Stop Believin' (0.809) | Poison & Wine (0.219) |
+| Too Close (feat. Roxorloops & Blady Kris) (0.804) | Say Something (0.236) |
+| Brand New Jones (0.799) | Honeybee (0.243) |
+| Manwa Laage (0.791) | Chandelier (0.264) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| Don't Stop Me Now | We Found Love |
-| I'd Like To | Samson |
-| Cry Me a River | Machine Gun |
-| Movin' On | We All Need Saving |
-| Waka Waka (This Time for Africa) | Demons |
-| Too Close (feat. Roxorloops & Blady Kris) | Falling Slowly |
-| Brand New Jones | White Flag |
-| I Write Sins Not Tragedies | She Used to Be Mine |
-| Talk Dirty | We All Need Saving |
-| Tightrope | All of Me |
+| Don't Stop Me Now (0.31) | We Found Love (0.0244) |
+| I'd Like To (0.213) | Samson (0.0256) |
+| Cry Me a River (0.19) | Machine Gun (0.0264) |
+| Movin' On (0.183) | We All Need Saving (0.0273) |
+| Waka Waka (This Time for Africa) (0.161) | Demons (0.0276) |
+| Too Close (feat. Roxorloops & Blady Kris) (0.146) | Falling Slowly (0.0284) |
+| Brand New Jones (0.145) | White Flag (0.0285) |
+| I Write Sins Not Tragedies (0.133) | She Used to Be Mine (0.0288) |
+| Talk Dirty (0.123) | We All Need Saving (0.0289) |
+| Tightrope (0.118) | Poison & Wine (0.0293) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| Demons | Domino |
-| Woods | Talk Dirty |
-| Big Yellow Taxi | Problem |
-| Say Something | Counting Stars |
-| We All Need Saving | Crazy In Love |
-| The Sound of Silence | Don't You Worry Child |
-| All of Me | Blown Away |
-| She Used to Be Mine | Sweater Weather |
-| We Found Love | Telephone |
-| Landslide | Set Fire To The Rain |
+| Demons (0.972) | Domino (0.0113) |
+| Woods (0.942) | Talk Dirty (0.017) |
+| Big Yellow Taxi (0.936) | Problem (0.0204) |
+| Say Something (0.895) | Counting Stars (0.0311) |
+| We All Need Saving (0.888) | Crazy In Love (0.0437) |
+| The Sound of Silence (0.887) | Don't You Worry Child (0.0603) |
+| All of Me (0.884) | Blown Away (0.0614) |
+| She Used to Be Mine (0.883) | Sweater Weather (0.0751) |
+| We Found Love (0.872) | Telephone (0.0764) |
+| Landslide (0.867) | Set Fire To The Rain (0.0883) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Eine kleine Nachtmusik | Domino |
-| Here (In Your Arms) | Apologize |
-| Falling Slowly | She Used to Be Mine |
-| Home | Bird Set Free |
-| Demons | Somebody to Love |
-| Don't You Worry Child | If I Ain't Got You |
-| Easy | Only the Good Die Young |
-| Samson | I Write Sins Not Tragedies |
-| We Found Love | Counting Stars |
-| Toxic | Can't Take My Eyes Off You |
+| Eine kleine Nachtmusik (0.653) | Say Something (0.0) |
+| Here (In Your Arms) (0.0273) | Brand New Jones (0.0) |
+| Falling Slowly (0.019) | Closer (0.0) |
+| Home (0.00371) | Without Your Love (0.0) |
+| Demons (0.000816) | Phoenix (0.0) |
+| Don't You Worry Child (0.000568) | Apologize (0.0) |
+| Easy (0.000198) | Isn't She Lovely (0.0) |
+| Samson (0.000183) | Radioactive Love (0.0) |
+| We Found Love (0.000108) | We All Need Saving (0.0) |
+| Toxic (8.08e-05) | Sincerely, Jane (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| Brand New Jones | Paranoid Android |
-| I'd Like To | Africa |
-| Smooth | Russian Roulette |
-| Talk Dirty | I Write Sins Not Tragedies |
-| Disturbia | Demons |
-| Wayfaring Stranger | There Goes My Baby |
-| Elastic Heart | There Goes My Baby |
-| That's What You Get | Say Something |
-| Alive | La Camisa Negra |
-| Telephone | Problem |
+| Brand New Jones (0.926) | Paranoid Android (0.0416) |
+| I'd Like To (0.738) | Africa (0.0464) |
+| Smooth (0.534) | Russian Roulette (0.0472) |
+| Talk Dirty (0.53) | I Write Sins Not Tragedies (0.0582) |
+| Disturbia (0.429) | Demons (0.0651) |
+| Wayfaring Stranger (0.36) | There Goes My Baby (0.0673) |
+| Elastic Heart (0.36) | There Goes My Baby (0.0677) |
+| That's What You Get (0.354) | Say Something (0.0705) |
+| Alive (0.339) | La Camisa Negra (0.0708) |
+| Telephone (0.321) | Problem (0.0711) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| Big Yellow Taxi | The Sound of Silence |
-| I Want You Back | Phoenix |
-| Domino | We Found Love |
-| Smooth | She Used to Be Mine |
-| Toxic | Wait It Out |
-| I'd Like To | Falling Slowly |
-| La Camisa Negra | Poison & Wine |
-| Waka Waka (This Time for Africa) | Say Something |
-| Bang Bang | Woods |
-| Brand New Jones | I Won't Give Up |
+| Big Yellow Taxi (0.924) | The Sound of Silence (0.0476) |
+| I Want You Back (0.91) | Phoenix (0.0658) |
+| Domino (0.86) | We Found Love (0.0814) |
+| Smooth (0.851) | She Used to Be Mine (0.0971) |
+| Toxic (0.842) | Wait It Out (0.104) |
+| I'd Like To (0.831) | Falling Slowly (0.107) |
+| La Camisa Negra (0.812) | Poison & Wine (0.108) |
+| Waka Waka (This Time for Africa) (0.811) | Say Something (0.116) |
+| Bang Bang (0.803) | Woods (0.118) |
+| Brand New Jones (0.784) | I Won't Give Up (0.125) |

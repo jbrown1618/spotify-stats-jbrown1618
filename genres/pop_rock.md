@@ -108,91 +108,91 @@
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| Little Black Dress | Stay |
-| Eden | Gravity |
-| 1979 - Remastered 2012 | Once Upon Another Time |
-| Black Horse And The Cherry Tree | Chariot |
-| I Choose You | City |
-| Geronimo | Come Round Soon |
-| I'm Yours | Bluebird |
-| I Didn't Plan It | Bright Lights and Cityscapes |
-| Let The Rain | Everything Changes |
-| Lie To Me | Jar of Hearts |
+| Little Black Dress (0.787) | Stay (0.262) |
+| Eden (0.776) | Gravity (0.27) |
+| 1979 - Remastered 2012 (0.767) | Once Upon Another Time (0.275) |
+| Black Horse And The Cherry Tree (0.748) | Chariot (0.281) |
+| I Choose You (0.731) | City (0.319) |
+| Geronimo (0.705) | Come Round Soon (0.338) |
+| I'm Yours (0.703) | Bluebird (0.34) |
+| I Didn't Plan It (0.695) | Bright Lights and Cityscapes (0.343) |
+| Let The Rain (0.694) | Everything Changes (0.348) |
+| Lie To Me (0.683) | Jar of Hearts (0.349) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| Everybody Talks | Kaleidoscope Heart |
-| Take on Me | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 |
-| Bad Idea (feat. Jason Mraz) | Say Something |
-| Morningside | Manhattan |
-| Let The Rain | Bright Lights and Cityscapes |
-| Fairytale | Bluebird |
-| Brave | Once Upon Another Time |
-| HandClap | What's Inside |
-| You Oughta Know | Basket Case |
-| Come Round Soon | Gravity |
+| Everybody Talks (0.924) | Kaleidoscope Heart (0.0516) |
+| Take on Me (0.902) | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 (0.114) |
+| Bad Idea (feat. Jason Mraz) (0.889) | Say Something (0.147) |
+| Morningside (0.88) | Manhattan (0.168) |
+| Let The Rain (0.873) | Bright Lights and Cityscapes (0.184) |
+| Fairytale (0.857) | Bluebird (0.203) |
+| Brave (0.836) | Once Upon Another Time (0.216) |
+| HandClap (0.836) | What's Inside (0.242) |
+| You Oughta Know (0.831) | Basket Case (0.273) |
+| Love On the Rocks (0.819) | Gravity (0.275) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| Opening Up | Satellite Call |
-| Kaleidoscope Heart | Breakeven |
-| Geronimo | Machine Gun |
-| Come Round Soon | Orpheus |
-| Bad Idea (feat. Jason Mraz) | Chasing Cars |
-| Black Horse And The Cherry Tree | Sweet As Whole |
-| Everybody Talks | Breathe Again |
-| Fire | The Man Who Can't Be Moved |
-| Eden | Islands |
-| You Oughta Know | The Light |
+| Opening Up (0.0936) | Satellite Call (0.0241) |
+| Kaleidoscope Heart (0.0927) | Breakeven (0.0242) |
+| Geronimo (0.0805) | Machine Gun (0.0268) |
+| Come Round Soon (0.0776) | Orpheus (0.0269) |
+| Bad Idea (feat. Jason Mraz) (0.0704) | Chasing Cars (0.0274) |
+| Black Horse And The Cherry Tree (0.0641) | Sweet As Whole (0.0275) |
+| Everybody Talks (0.0586) | Breathe Again (0.0278) |
+| Fire (0.057) | The Man Who Can't Be Moved (0.0279) |
+| Eden (0.0562) | Islands (0.0284) |
+| You Oughta Know (0.0557) | If I Can't Have You (0.0297) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| Bright Lights and Cityscapes | Save Tonight |
-| Manhattan | Hard To Handle |
-| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Everybody Talks |
-| Bluebird | Me And My Broken Heart |
-| What's Inside | Brave |
-| Once Upon Another Time | HandClap |
-| Miss Simone | Many the Miles |
-| Say Something | Vegas |
-| Gravity | 1979 - Remastered 2012 |
-| Someone Who Loves Me | Bad Idea (feat. Jason Mraz) |
+| Bright Lights and Cityscapes (0.977) | Save Tonight (9.24e-05) |
+| Manhattan (0.972) | Hard To Handle (0.00257) |
+| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 (0.959) | Everybody Talks (0.00301) |
+| Bluebird (0.933) | Me And My Broken Heart (0.00489) |
+| What's Inside (0.919) | Brave (0.00502) |
+| Once Upon Another Time (0.896) | HandClap (0.00609) |
+| Miss Simone (0.859) | Many the Miles (0.00796) |
+| Say Something (0.857) | Vegas (0.00881) |
+| Gravity (0.834) | 1979 - Remastered 2012 (0.0163) |
+| Someone Who Loves Me (0.826) | Bad Idea (feat. Jason Mraz) (0.0168) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| 1979 - Remastered 2012 | Say You're Sorry |
-| Satellite Call | Love On the Rocks |
-| Islands | Love Song |
-| Armor | Gravity |
-| Breathe Again | Sweet As Whole |
-| Miss Simone | Lucky |
-| The Light | Jar of Hearts |
-| Hard To Handle | Bottle It Up |
-| No Such Thing | You Oughta Know |
-| Fire | Chariot |
+| 1979 - Remastered 2012 (0.583) | Say You're Sorry (0.0) |
+| Satellite Call (0.0318) | Sweet As Whole (0.0) |
+| Islands (0.0261) | Chariot (0.0) |
+| Armor (0.0145) | You Oughta Know (0.0) |
+| Breathe Again (0.00655) | Jar of Hearts (0.0) |
+| Miss Simone (0.00407) | Lucky (0.0) |
+| The Light (0.00375) | Come Round Soon (0.0) |
+| Hard To Handle (0.00181) | Black Horse And The Cherry Tree (0.0) |
+| No Such Thing (0.00175) | Kaleidoscope Heart (0.0) |
+| Fire (0.00165) | Everything Changes (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Uncharted |
-| You Oughta Know | Brave |
-| Chariot | Eden |
-| Fire | Chasing The Sun |
-| Black Horse And The Cherry Tree | 1979 - Remastered 2012 |
-| Everybody Talks | King of Anything |
-| Hard To Handle | The Light |
-| Let The Rain | Islands |
-| Not Alone | Little Black Dress |
-| If I Can't Have You | Cassiopeia |
+| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 (0.781) | Uncharted (0.0343) |
+| You Oughta Know (0.736) | Brave (0.0425) |
+| Chariot (0.37) | Eden (0.0456) |
+| Fire (0.363) | Chasing The Sun (0.0497) |
+| Black Horse And The Cherry Tree (0.34) | 1979 - Remastered 2012 (0.0513) |
+| Everybody Talks (0.313) | King of Anything (0.0574) |
+| Hard To Handle (0.312) | The Light (0.0691) |
+| Let The Rain (0.297) | Islands (0.0699) |
+| Not Alone (0.256) | Little Black Dress (0.0743) |
+| If I Can't Have You (0.254) | Cassiopeia (0.075) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| 1979 - Remastered 2012 | Once Upon Another Time |
-| Hard To Handle | Say Something |
-| I Choose You | Islands |
-| Black Horse And The Cherry Tree | Jar of Hearts |
-| Take on Me | Everything Changes |
-| Say You're Sorry | Chasing Cars |
-| King of Anything | Bluebird |
-| Lie To Me | What's Inside |
-| I Didn't Plan It | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 |
-| Bad Idea (feat. Jason Mraz) | She Used To Be Mine |
+| 1979 - Remastered 2012 (0.964) | Once Upon Another Time (0.0551) |
+| Hard To Handle (0.961) | Say Something (0.0765) |
+| I Choose You (0.947) | Islands (0.0863) |
+| Black Horse And The Cherry Tree (0.917) | Jar of Hearts (0.0886) |
+| Take on Me (0.876) | Everything Changes (0.0983) |
+| Say You're Sorry (0.846) | Chasing Cars (0.144) |
+| King of Anything (0.81) | Bluebird (0.161) |
+| Lie To Me (0.795) | What's Inside (0.162) |
+| I Didn't Plan It (0.787) | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 (0.168) |
+| Bad Idea (feat. Jason Mraz) (0.787) | She Used To Be Mine (0.172) |

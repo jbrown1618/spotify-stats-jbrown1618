@@ -329,91 +329,91 @@
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| SexyBack (feat. Timbaland) | Already Gone |
-| Anaconda | La Vie En Rose |
-| WAP (feat. Megan Thee Stallion) | I See the Light - From "Tangled" / Soundtrack Version |
-| Pretty Please | I'd Rather Go Blind |
-| Sally Walker | Jar of Hearts |
-| Coño | Ave Maria |
-| Yeah! (feat. Lil Jon & Ludacris) | Half Of Me |
-| LoveGame | I Thought She Knew |
-| Faith - Remastered | Chandelier |
-| Worth It (feat. Kid Ink) | boyfriend (with Social House) |
+| SexyBack (feat. Timbaland) (0.967) | Already Gone (0.209) |
+| Anaconda (0.964) | La Vie En Rose (0.276) |
+| WAP (feat. Megan Thee Stallion) (0.935) | I See the Light - From "Tangled" / Soundtrack Version (0.281) |
+| Pretty Please (0.906) | I'd Rather Go Blind (0.326) |
+| Sally Walker (0.905) | Jar of Hearts (0.349) |
+| Coño (0.899) | Ave Maria (0.35) |
+| Yeah! (feat. Lil Jon & Ludacris) (0.894) | Half Of Me (0.391) |
+| LoveGame (0.894) | I Thought She Knew (0.397) |
+| Faith - Remastered (0.887) | Chandelier (0.399) |
+| Worth It (feat. Kid Ink) (0.884) | boyfriend (with Social House) (0.4) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| Larger Than Life | Julia |
-| Boss Bitch | I See the Light - From "Tangled" / Soundtrack Version |
-| My Happy Ending | Your Song |
-| This Is What You Came For | My Everything |
-| Bye Bye Bye | I Thought She Knew |
-| Bad Romance | When I Was Your Man |
-| Believe | Consequences |
-| Levitating | Stay |
-| Material Girl | 7 rings |
-| Don't Call Me Up | Jar of Hearts |
+| Larger Than Life (0.973) | Julia (0.128) |
+| Boss Bitch (0.955) | I See the Light - From "Tangled" / Soundtrack Version (0.139) |
+| My Happy Ending (0.936) | Your Song (0.195) |
+| This Is What You Came For (0.927) | My Everything (0.265) |
+| Bye Bye Bye (0.926) | I Thought She Knew (0.272) |
+| Bad Romance (0.921) | When I Was Your Man (0.28) |
+| Believe (0.917) | Consequences (0.292) |
+| Levitating (0.884) | Stay (0.31) |
+| Material Girl (0.883) | 7 rings (0.317) |
+| Don't Call Me Up (0.881) | Jar of Hearts (0.348) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| Youngblood | Breakeven |
-| boyfriend (with Social House) | Show Me the Meaning of Being Lonely |
-| Hold Up | I Want It That Way |
-| Irreplaceable | Ave Maria |
-| WAP (feat. Megan Thee Stallion) | The Man Who Can't Be Moved |
-| Bubblegum (feat. Tyga) | Stay |
-| 7 rings | Kiss Me More (feat. SZA) |
-| Hustle | Señorita |
-| Te Felicito | One Step At a Time |
-| So Sick | Love Me Like You Do |
+| Youngblood (0.463) | Breakeven (0.0242) |
+| boyfriend (with Social House) (0.461) | Show Me the Meaning of Being Lonely (0.0252) |
+| Hold Up (0.405) | I Want It That Way (0.027) |
+| Irreplaceable (0.382) | Ave Maria (0.0279) |
+| WAP (feat. Megan Thee Stallion) (0.375) | The Man Who Can't Be Moved (0.0279) |
+| Bubblegum (feat. Tyga) (0.34) | Stay (0.0283) |
+| 7 rings (0.334) | Kiss Me More (feat. SZA) (0.0286) |
+| Hustle (0.326) | Señorita (0.0287) |
+| Te Felicito (0.317) | One Step At a Time (0.0289) |
+| So Sick (0.31) | Love Me Like You Do (0.0292) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| Stay | Coño |
-| Your Song | My Happy Ending |
-| When I Was Your Man | I Kissed A Girl |
-| I Thought She Knew | Don’t Call Me Angel (Charlie’s Angels) (with Miley Cyrus & Lana Del Rey) |
-| Julia | Bootylicious |
-| Consequences | Crazy In Love (feat. Jay-Z) |
-| My Everything | Valerie (feat. Amy Winehouse) - Version Revisited |
-| I See the Light - From "Tangled" / Soundtrack Version | New Rules |
-| Ave Maria | Watch n' Learn |
-| La Vie En Rose | Dark Horse |
+| Stay (0.945) | Coño (0.000554) |
+| Your Song (0.936) | My Happy Ending (0.00136) |
+| When I Was Your Man (0.932) | I Kissed A Girl (0.00223) |
+| I Thought She Knew (0.915) | Don’t Call Me Angel (Charlie’s Angels) (with Miley Cyrus & Lana Del Rey) (0.00237) |
+| Julia (0.905) | Bootylicious (0.00247) |
+| Consequences (0.889) | Crazy In Love (feat. Jay-Z) (0.00249) |
+| My Everything (0.88) | Valerie (feat. Amy Winehouse) - Version Revisited (0.00253) |
+| I See the Light - From "Tangled" / Soundtrack Version (0.829) | New Rules (0.00261) |
+| Ave Maria (0.786) | Watch n' Learn (0.00304) |
+| La Vie En Rose (0.758) | Bad Romance (0.00314) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| This Is What You Came For | When Will My Life Begin? - From "Tangled" / Soundtrack Version |
-| You and I (Park Bom) | Bubblegum (feat. Tyga) |
-| Lights - Single Version | Trumpets |
-| Toxic | Talk Dirty (feat. 2 Chainz) |
-| Candyman | Swalla (feat. Nicki Minaj & Ty Dolla $ign) |
-| Grace Kelly | Happy Ending |
-| Coño | About Damn Time |
-| I Am The Best | Truth Hurts |
-| SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) | Heart Attack |
-| Woman | Kiss and Make Up |
+| This Is What You Came For (0.119) | When Will My Life Begin? - From "Tangled" / Soundtrack Version (0.0) |
+| You and I (Park Bom) (0.0837) | Love Me Like You Do (0.0) |
+| Lights - Single Version (0.0492) | React (0.0) |
+| Toxic (0.025) | TiK ToK (0.0) |
+| Candyman (0.0147) | Jar of Hearts (0.0) |
+| Grace Kelly (0.0133) | That's What I Like (0.0) |
+| Coño (0.0101) | SexyBack (feat. Timbaland) (0.0) |
+| I Am The Best (0.00834) | Please Me (0.0) |
+| SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (0.00313) | boyfriend (with Social House) (0.0) |
+| Woman (0.00294) | I Thought She Knew (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| La Vie En Rose | Finesse - Remix; feat. Cardi B |
-| What Now | Finesse |
-| Larger Than Life | Uptown Funk (feat. Bruno Mars) |
-| Love On Top | It's Gonna Be Me |
-| Super Bass | One Step At a Time |
-| Good Girls Go Bad (feat. Leighton Meester) | Yeah! (feat. Lil Jon & Ludacris) |
-| Hold Up | Good Thing (with Kehlani) |
-| (I Got That) Boom Boom (feat. Ying Yang Twins) | Hot In It |
-| Sour Candy (with BLACKPINK) | SUGA's Interlude |
-| In the Name of Love | Umbrella |
+| La Vie En Rose (0.706) | Finesse - Remix; feat. Cardi B (0.0215) |
+| What Now (0.628) | Finesse (0.0232) |
+| Larger Than Life (0.617) | Uptown Funk (feat. Bruno Mars) (0.0344) |
+| Love On Top (0.604) | It's Gonna Be Me (0.0372) |
+| Super Bass (0.601) | One Step At a Time (0.0384) |
+| Good Girls Go Bad (feat. Leighton Meester) (0.549) | Yeah! (feat. Lil Jon & Ludacris) (0.0388) |
+| Hold Up (0.521) | Good Thing (with Kehlani) (0.0409) |
+| (I Got That) Boom Boom (feat. Ying Yang Twins) (0.508) | Hot In It (0.0413) |
+| Sour Candy (with BLACKPINK) (0.489) | SUGA's Interlude (0.0425) |
+| In the Name of Love (0.454) | Umbrella (0.0426) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| Material Girl | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" |
-| Like a Virgin | Jar of Hearts |
-| There's Nothing Holdin' Me Back | Big Girls Cry |
-| Mercy | One Last Time |
-| SexyBack (feat. Timbaland) | Stay |
-| I'm a Slave 4 U | Because of You |
-| Sucker | Til It Happens To You |
-| Me Enamoré | Youngblood |
-| Tick Tock (feat. 24kGoldn) | Million Reasons |
-| Peacock | In the Name of Love |
+| Material Girl (0.978) | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" (0.0862) |
+| Like a Virgin (0.97) | Jar of Hearts (0.0886) |
+| There's Nothing Holdin' Me Back (0.969) | Big Girls Cry (0.0938) |
+| Mercy (0.964) | One Last Time (0.104) |
+| SexyBack (feat. Timbaland) (0.964) | Stay (0.125) |
+| I'm a Slave 4 U (0.963) | Because of You (0.136) |
+| Sucker (0.952) | Til It Happens To You (0.15) |
+| Me Enamoré (0.948) | Youngblood (0.152) |
+| Tick Tock (feat. 24kGoldn) (0.946) | Million Reasons (0.154) |
+| Peacock (0.945) | In the Name of Love (0.168) |

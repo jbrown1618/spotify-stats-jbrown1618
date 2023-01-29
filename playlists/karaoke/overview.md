@@ -33,7 +33,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb676338904deb80cffb568216" alt="" width="50" /> | [Beyoncé](../../artists/beyonc_.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3ea2c03525939b482f8d3bfd" alt="" width="50" /> | Janelle Monáe | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb21a213a4fe1a6f9b45d3f7f9" alt="" width="50" /> | Commodores | [🔗](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f1004879ac217c8caa0a066" alt="" width="50" /> | [Kimbra](../../artists/kimbra.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4765d540a1ebedeb7c9637a2" alt="" width="50" /> | [Kimbra](../../artists/kimbra.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | [Dua Lipa](../../artists/dua_lipa.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae8ba82eaf7e63af515c9f" alt="" width="50" /> | The Civil Wars | [🔗](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb12123322672fbf71bd1e5c94" alt="" width="50" /> | Ella Eyre | [🔗](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) |
@@ -244,7 +244,6 @@
 | 2 | indie folk |
 | 2 | funk |
 | 2 | folk |
-| 2 | [electropop](../../genres/electropop.md) |
 | 2 | easy listening |
 | 2 | british soul |
 | 2 | atl hip hop |
@@ -275,6 +274,7 @@
 | 1 | indie pop |
 | 1 | heartland rock |
 | 1 | escape room |
+| 1 | [electropop](../../genres/electropop.md) |
 | 1 | disco |
 | 1 | country rock |
 | 1 | comic |
@@ -316,91 +316,91 @@
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| Somebody That I Used To Know | Desperado - 2013 Remaster |
-| Sincerely, Jane | Gravity |
-| I Choose You | Poison & Wine |
-| Break My Heart | Yesterday - Remastered 2009 |
-| Rolling in the Deep | Piano Man |
-| This Love | Mad World |
-| Death By A Thousand Cuts | We All Need Saving |
-| Silver Lining | Honeybee |
-| Disturbia | Bohemian Rhapsody |
-| Grenade | Something - Remastered 2009 |
+| Somebody That I Used To Know (0.864) | Desperado - 2013 Remaster (0.228) |
+| Sincerely, Jane (0.753) | Gravity (0.27) |
+| I Choose You (0.731) | Poison & Wine (0.285) |
+| Break My Heart (0.73) | Yesterday - Remastered 2009 (0.332) |
+| Rolling in the Deep (0.73) | Piano Man (0.334) |
+| This Love (0.712) | Mad World (0.344) |
+| Death By A Thousand Cuts (0.712) | We All Need Saving (0.35) |
+| Silver Lining (0.709) | Honeybee (0.352) |
+| Disturbia (0.707) | Bohemian Rhapsody (0.391) |
+| Grenade (0.704) | Something - Remastered 2009 (0.396) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| Everybody Talks | Mad World |
-| Movin' Out (Anthony's Song) | Say Something |
-| Only the Good Die Young | Golden Slumbers - Remastered 2009 |
-| This Love | Manhattan |
-| Disturbia | Yesterday - Remastered 2009 |
-| Sweater Weather | Poison & Wine |
-| Home | Honeybee |
-| Dog Days Are Over | Desperado - 2013 Remaster |
-| Chasing The Sun | Off My Face |
-| Chandelier | The Way You Look Tonight |
+| Everybody Talks (0.924) | Mad World (0.0585) |
+| Movin' Out (Anthony's Song) (0.88) | Say Something (0.147) |
+| Only the Good Die Young (0.872) | Golden Slumbers - Remastered 2009 (0.152) |
+| This Love (0.862) | Manhattan (0.168) |
+| Disturbia (0.813) | Yesterday - Remastered 2009 (0.179) |
+| Sweater Weather (0.807) | Honeybee (0.186) |
+| Home (0.804) | Poison & Wine (0.186) |
+| Dog Days Are Over (0.795) | Desperado - 2013 Remaster (0.224) |
+| Chasing The Sun (0.794) | Off My Face (0.228) |
+| Chandelier (0.787) | The Way You Look Tonight (0.24) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| So Sick | The Scientist |
-| Don't Stop Me Now | Old Fashioned |
-| Only the Good Die Young | Everything |
-| Home | Machine Gun |
-| Love On Top | I Want It That Way |
-| Break My Heart | Chasing Cars |
-| Sincerely, Jane | Piano Man |
-| Dog Days Are Over | Golden Slumbers - Remastered 2009 |
-| Death By A Thousand Cuts | Goodbye Yellow Brick Road - Remastered 2014 |
-| The Boxer | Someone Like You |
+| So Sick (0.31) | The Scientist (0.0243) |
+| Don't Stop Me Now (0.192) | Old Fashioned (0.0246) |
+| Only the Good Die Young (0.159) | Everything (0.0254) |
+| Home (0.128) | Machine Gun (0.0268) |
+| Love On Top (0.0886) | I Want It That Way (0.027) |
+| Break My Heart (0.0884) | Chasing Cars (0.0274) |
+| Sincerely, Jane (0.0867) | Piano Man (0.0276) |
+| Dog Days Are Over (0.0788) | Golden Slumbers - Remastered 2009 (0.0277) |
+| Death By A Thousand Cuts (0.0629) | Goodbye Yellow Brick Road - Remastered 2014 (0.0279) |
+| The Boxer (0.0615) | Someone Like You (0.0281) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| Mad World | Everybody Talks |
-| Manhattan | If I Go |
-| Desperado - 2013 Remaster | Creep |
-| When I Was Your Man | Oh! Darling - Remastered 2009 |
-| Off My Face | Chandelier |
-| Someone Like You | Love Song |
-| Yesterday - Remastered 2009 | Come Together - Remastered 2009 |
-| Honeybee | Machine Gun |
-| Say Something | Dog Days Are Over |
-| Gravity | Sweater Weather |
+| Mad World (0.976) | Everybody Talks (0.00301) |
+| Manhattan (0.972) | If I Go (0.00959) |
+| Desperado - 2013 Remaster (0.946) | Creep (0.0102) |
+| When I Was Your Man (0.932) | Oh! Darling - Remastered 2009 (0.0126) |
+| Off My Face (0.92) | Chandelier (0.0197) |
+| Someone Like You (0.893) | Love Song (0.0208) |
+| Yesterday - Remastered 2009 (0.879) | Come Together - Remastered 2009 (0.0302) |
+| Honeybee (0.871) | Machine Gun (0.0365) |
+| Say Something (0.857) | Dog Days Are Over (0.0438) |
+| Gravity (0.834) | Sweater Weather (0.0495) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Come Together - Remastered 2009 | This Love |
-| Oh! Darling - Remastered 2009 | The Lighthouse's Tale |
-| Sweater Weather | The Way You Look Tonight |
-| Golden Slumbers - Remastered 2009 | Everybody Talks |
-| Dog Days Are Over | Vienna |
-| Goodbye Yellow Brick Road - Remastered 2014 | Love Song |
-| Don't Stop Me Now | Only the Good Die Young |
-| Sincerely, Jane | Gravity |
-| Manhattan | Haven't Met You Yet |
-| Mad World | We All Need Saving |
+| Come Together - Remastered 2009 (0.248) | The Lighthouse's Tale (0.0) |
+| Oh! Darling - Remastered 2009 (0.0279) | The Way You Look Tonight (0.0) |
+| Sweater Weather (0.0177) | When I Was Your Man (0.0) |
+| Golden Slumbers - Remastered 2009 (0.0034) | Take Me to Church (0.0) |
+| Dog Days Are Over (0.00255) | I'm Yours (0.0) |
+| Goodbye Yellow Brick Road - Remastered 2014 (0.00141) | Rolling in the Deep (0.0) |
+| Don't Stop Me Now (0.00127) | YOUTH (0.0) |
+| Sincerely, Jane (0.000649) | Love On Top (0.0) |
+| Manhattan (0.000585) | Someone Like You (0.0) |
+| Mad World (0.000362) | Disturbia (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| Love On Top | Rolling in the Deep |
-| Don't Stop Me Now | Chasing The Sun |
-| Home | Movin' Out (Anthony's Song) |
-| I Want You Back | Easy |
-| Old Fashioned | The Lighthouse's Tale |
-| Break My Heart | Chandelier |
-| Death By A Thousand Cuts | Vienna |
-| Everybody Talks | YOUTH |
-| Piano Man | Fly Me To The Moon - 2008 Remastered |
-| Desperado - 2013 Remaster | When I Was Your Man |
+| Love On Top (0.604) | Rolling in the Deep (0.0473) |
+| Don't Stop Me Now (0.558) | Chasing The Sun (0.0497) |
+| Home (0.393) | Movin' Out (Anthony's Song) (0.0591) |
+| I Want You Back (0.37) | Easy (0.0596) |
+| Old Fashioned (0.36) | The Lighthouse's Tale (0.0601) |
+| Break My Heart (0.349) | Chandelier (0.0685) |
+| Death By A Thousand Cuts (0.319) | Vienna (0.0754) |
+| Everybody Talks (0.313) | YOUTH (0.0777) |
+| Piano Man (0.312) | Fly Me To The Moon - 2008 Remastered (0.0797) |
+| Desperado - 2013 Remaster (0.273) | When I Was Your Man (0.088) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| I Choose You | Say Something |
-| Movin' Out (Anthony's Song) | Creep |
-| I Want You Back | We All Need Saving |
-| This Love | Chasing Cars |
-| Haven't Met You Yet | Desperado - 2013 Remaster |
-| Home | Come Together - Remastered 2009 |
-| Only the Good Die Young | Poison & Wine |
-| Everybody Talks | The Scientist |
-| Disturbia | Honeybee |
-| Somebody That I Used To Know | Bohemian Rhapsody |
+| I Choose You (0.947) | Say Something (0.0765) |
+| Movin' Out (Anthony's Song) (0.895) | Creep (0.104) |
+| I Want You Back (0.886) | We All Need Saving (0.117) |
+| This Love (0.809) | Chasing Cars (0.144) |
+| Haven't Met You Yet (0.796) | Desperado - 2013 Remaster (0.18) |
+| Home (0.795) | Come Together - Remastered 2009 (0.187) |
+| Only the Good Die Young (0.761) | Poison & Wine (0.203) |
+| Everybody Talks (0.725) | The Scientist (0.213) |
+| Disturbia (0.722) | Honeybee (0.216) |
+| Somebody That I Used To Know (0.719) | Bohemian Rhapsody (0.227) |

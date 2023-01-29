@@ -15,7 +15,7 @@ Appears as:
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
-| 10 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f1004879ac217c8caa0a066" alt="" width="50" /> | [Kimbra](../artists/kimbra.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
+| 10 | <img src="https://i.scdn.co/image/ab6761610000e5eb4765d540a1ebedeb7c9637a2" alt="" width="50" /> | [Kimbra](../artists/kimbra.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebde30d7c86dfc0bc832b641a3" alt="" width="50" /> | Pink Siifu | [🔗](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb681c41605634023c51b783b9" alt="" width="50" /> | Erick the Architect | [🔗](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) |
 | 1 | <img src="nan" alt="" width="50" /> | Tommy Raps | [🔗](https://open.spotify.com/artist/2jDVhHiltj9mEWoIGdBg3z) |

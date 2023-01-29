@@ -72,91 +72,91 @@
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Sacrificial Dance (The Chosen One) | The Firebird (L'oiseau De Feu) - Suite (1919): Round Dance Of The Princesses |
-| Petrushka: Third Scene: II. Dance of the Ballerina (1911 original version) | The Firebird (L'oiseau De Feu) - Suite (1919): Introduction |
-| 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est | 4 Motets pour un temps de pénitence, FP 97: No. 3, Tenebrae factae sunt |
-| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Evocation of the Ancestors | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Mystic Circles of the Young Girls |
-| Petrushka: Fourth Scene: V. Dance of the Coachmen and Grooms (1911 original version) | Concerto for Orchestra, Sz. 116: 3. Elegia (Andante, non troppo) |
-| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: The Augurs of Spring: Dances of the Young Girls | Quatuor en Fa Majeur, M. 35: III. Très lent |
-| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Glorification of the Chosen One | The Firebird (L'oiseau De Feu) - Suite (1919): Finale |
-| The Firebird (L'oiseau De Feu) - Suite (1919): 3. Variation Of The Firebird | Petrushka: Fourth Scene: III. A Peasant Enters with a Bear (1911 original version) |
-| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Ritual of Abduction | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Procession of the Sage |
-| Jeu de cartes: III. Third Deal | The Firebird (L'oiseau De Feu) - Suite (1919): Berceuse |
+| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Sacrificial Dance (The Chosen One) (0.59) | The Firebird (L'oiseau De Feu) - Suite (1919): Round Dance Of The Princesses (0.0797) |
+| Petrushka: Third Scene: II. Dance of the Ballerina (1911 original version) (0.58) | The Firebird (L'oiseau De Feu) - Suite (1919): Introduction (0.083) |
+| 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est (0.57) | 4 Motets pour un temps de pénitence, FP 97: No. 3, Tenebrae factae sunt (0.0963) |
+| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Evocation of the Ancestors (0.539) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Mystic Circles of the Young Girls (0.108) |
+| Petrushka: Fourth Scene: V. Dance of the Coachmen and Grooms (1911 original version) (0.51) | Concerto for Orchestra, Sz. 116: 3. Elegia (Andante, non troppo) (0.112) |
+| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: The Augurs of Spring: Dances of the Young Girls (0.508) | Quatuor en Fa Majeur, M. 35: III. Très lent (0.112) |
+| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Glorification of the Chosen One (0.507) | The Firebird (L'oiseau De Feu) - Suite (1919): Finale (0.123) |
+| The Firebird (L'oiseau De Feu) - Suite (1919): 3. Variation Of The Firebird (0.458) | Petrushka: Fourth Scene: III. A Peasant Enters with a Bear (1911 original version) (0.138) |
+| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Ritual of Abduction (0.413) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Procession of the Sage (0.147) |
+| Jeu de cartes: III. Third Deal (0.404) | The Firebird (L'oiseau De Feu) - Suite (1919): Berceuse (0.152) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Procession of the Sage | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: The Sage |
-| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Ritual of Abduction | The Firebird (L'oiseau De Feu) - Suite (1919): Introduction |
-| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Dance of the Earth | The Firebird (L'oiseau De Feu) - Suite (1919): Berceuse |
-| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Sacrificial Dance (The Chosen One) | The Firebird (L'oiseau De Feu) - Suite (1919): Round Dance Of The Princesses |
-| Petrushka: Fourth Scene: I. The Shrovetide Fair (towards evening) (1911 original version) | Petrushka: First Scene: III. The Conjuring Trick (1911 original version) |
-| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Glorification of the Chosen One | Petrushka: Fourth Scene: VII. Petrushka's Death (1911 original version) |
-| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Ritual of the Rival Tribes | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Ritual Action of the Ancestors |
-| Petrushka: Fourth Scene: VI. The Mummers (1911 original version) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Introduction |
-| Petrushka: First Scene: IV. Russian Dance (1911 original version) | Concerto for Orchestra, Sz. 116: 4. Intermezzo interrotto (Allegretto) |
-| The Firebird (L'oiseau De Feu) - Suite (1919): Infernal Dance Of King Kaschei | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Mystic Circles of the Young Girls |
+| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Procession of the Sage (0.7) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: The Sage (0.000239) |
+| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Ritual of Abduction (0.555) | The Firebird (L'oiseau De Feu) - Suite (1919): Introduction (0.00108) |
+| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Dance of the Earth (0.509) | The Firebird (L'oiseau De Feu) - Suite (1919): Berceuse (0.00403) |
+| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Sacrificial Dance (The Chosen One) (0.46) | The Firebird (L'oiseau De Feu) - Suite (1919): Round Dance Of The Princesses (0.00617) |
+| Petrushka: Fourth Scene: I. The Shrovetide Fair (towards evening) (1911 original version) (0.453) | Petrushka: First Scene: III. The Conjuring Trick (1911 original version) (0.011) |
+| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Glorification of the Chosen One (0.447) | Petrushka: Fourth Scene: VII. Petrushka's Death (1911 original version) (0.0123) |
+| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Ritual of the Rival Tribes (0.435) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Ritual Action of the Ancestors (0.0216) |
+| Petrushka: Fourth Scene: VI. The Mummers (1911 original version) (0.359) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Introduction (0.0217) |
+| Petrushka: First Scene: IV. Russian Dance (1911 original version) (0.331) | Concerto for Orchestra, Sz. 116: 4. Intermezzo interrotto (Allegretto) (0.0285) |
+| The Firebird (L'oiseau De Feu) - Suite (1919): Infernal Dance Of King Kaschei (0.325) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Mystic Circles of the Young Girls (0.0294) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| The Firebird (L'oiseau De Feu) - Suite (1919): Dance Of The Firebird | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Dance of the Earth |
-| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Glorification of the Chosen One | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: The Augurs of Spring: Dances of the Young Girls |
-| Petrushka: Fourth Scene: VI. The Mummers (1911 original version) | Petrushka: Fourth Scene: III. A Peasant Enters with a Bear (1911 original version) |
-| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Sacrificial Dance (The Chosen One) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Ritual Action of the Ancestors |
-| The Firebird (L'oiseau De Feu) - Suite (1919): Infernal Dance Of King Kaschei | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Spring Rounds |
-| Petrushka: Third Scene: III. Waltz (The Ballerina and the Moor) (1911 original version) | The Firebird (L'oiseau De Feu) - Suite (1919): Finale |
-| Quatuor en Fa Majeur, M. 35: I. Allegro moderato | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Introduction |
-| 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea | Petrushka: Fourth Scene: I. The Shrovetide Fair (towards evening) (1911 original version) |
-| Concerto for Orchestra, Sz. 116: 5. Finale (Pesante - Presto) | The Firebird (L'oiseau De Feu) - Suite (1919): Introduction |
-| 4 Motets pour le temps de Noël, FP 152: No. 3, Videntes stellam | Petrushka: Fourth Scene: VII. Petrushka's Death (1911 original version) |
+| The Firebird (L'oiseau De Feu) - Suite (1919): Dance Of The Firebird (0.167) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Dance of the Earth (0.0292) |
+| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Glorification of the Chosen One (0.0935) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: The Augurs of Spring: Dances of the Young Girls (0.0293) |
+| Petrushka: Fourth Scene: VI. The Mummers (1911 original version) (0.083) | Petrushka: Fourth Scene: III. A Peasant Enters with a Bear (1911 original version) (0.0313) |
+| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Sacrificial Dance (The Chosen One) (0.0741) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Ritual Action of the Ancestors (0.0319) |
+| The Firebird (L'oiseau De Feu) - Suite (1919): Infernal Dance Of King Kaschei (0.0689) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Spring Rounds (0.0346) |
+| Petrushka: Third Scene: III. Waltz (The Ballerina and the Moor) (1911 original version) (0.0644) | The Firebird (L'oiseau De Feu) - Suite (1919): Finale (0.0351) |
+| Quatuor en Fa Majeur, M. 35: I. Allegro moderato (0.0584) | Petrushka: Fourth Scene: I. The Shrovetide Fair (towards evening) (1911 original version) (0.0359) |
+| 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea (0.0568) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Introduction (0.0359) |
+| Concerto for Orchestra, Sz. 116: 5. Finale (Pesante - Presto) (0.0555) | The Firebird (L'oiseau De Feu) - Suite (1919): Introduction (0.036) |
+| 4 Motets pour le temps de Noël, FP 152: No. 3, Videntes stellam (0.053) | Petrushka: Fourth Scene: VII. Petrushka's Death (1911 original version) (0.0362) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| 4 Motets pour un temps de pénitence, FP 97: No. 2, Vinea mea electa | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: The Sage |
-| 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Procession of the Sage |
-| 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Dance of the Earth |
-| 4 Motets pour un temps de pénitence, FP 97: No. 1, Timor et tremor | The Firebird (L'oiseau De Feu) - Suite (1919): Finale |
-| 4 Motets pour le temps de Noël, FP 152: No. 3, Videntes stellam | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Sacrificial Dance (The Chosen One) |
-| 4 Motets pour un temps de pénitence, FP 97: No. 3, Tenebrae factae sunt | Petrushka: First Scene: III. The Conjuring Trick (1911 original version) |
-| 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea | Petrushka: Fourth Scene: VII. Petrushka's Death (1911 original version) |
-| 4 Motets pour le temps de Noël, FP 152: No. 1, Magnum mysterium | Petrushka: Fourth Scene: V. Dance of the Coachmen and Grooms (1911 original version) |
-| Petrushka: Fourth Scene: III. A Peasant Enters with a Bear (1911 original version) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Introduction |
-| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Mystic Circles of the Young Girls | The Firebird (L'oiseau De Feu) - Suite (1919): Berceuse |
+| 4 Motets pour un temps de pénitence, FP 97: No. 1, Timor et tremor (0.995) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: The Sage (0.591) |
+| 4 Motets pour un temps de pénitence, FP 97: No. 2, Vinea mea electa (0.995) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Procession of the Sage (0.612) |
+| 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores (0.995) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Dance of the Earth (0.712) |
+| 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est (0.995) | The Firebird (L'oiseau De Feu) - Suite (1919): Finale (0.73) |
+| 4 Motets pour le temps de Noël, FP 152: No. 3, Videntes stellam (0.994) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Sacrificial Dance (The Chosen One) (0.802) |
+| 4 Motets pour un temps de pénitence, FP 97: No. 3, Tenebrae factae sunt (0.993) | Petrushka: First Scene: III. The Conjuring Trick (1911 original version) (0.817) |
+| 4 Motets pour le temps de Noël, FP 152: No. 1, Magnum mysterium (0.992) | Petrushka: Fourth Scene: VII. Petrushka's Death (1911 original version) (0.82) |
+| 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea (0.992) | Petrushka: Fourth Scene: V. Dance of the Coachmen and Grooms (1911 original version) (0.841) |
+| Petrushka: Fourth Scene: III. A Peasant Enters with a Bear (1911 original version) (0.983) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Introduction (0.861) |
+| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Mystic Circles of the Young Girls (0.981) | The Firebird (L'oiseau De Feu) - Suite (1919): Berceuse (0.868) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Introduction | 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est |
-| The Firebird (L'oiseau De Feu) - Suite (1919): Dance Of The Firebird | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: The Sage |
-| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Ritual of Abduction | Petrushka: First Scene: III. The Conjuring Trick (1911 original version) |
-| Petrushka: Fourth Scene: II. Dance of the Wet-Nurses (1911 original version) | 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores |
-| Petrushka: First Scene: I. The Shrovetide Fair (Introduction) (1911 original version) | Petrushka: Fourth Scene: VII. Petrushka's Death (1911 original version) |
-| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Evocation of the Ancestors | The Firebird (L'oiseau De Feu) - Suite (1919): 3. Variation Of The Firebird |
-| Petrushka: Fourth Scene: VI. The Mummers (1911 original version) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Introduction |
-| Petrushka: Third Scene: I. The Moor's Cell (1911 original version) | 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea |
-| Petrushka: Fourth Scene: III. A Peasant Enters with a Bear (1911 original version) | 4 Motets pour un temps de pénitence, FP 97: No. 1, Timor et tremor |
-| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Spring Rounds | 4 Motets pour un temps de pénitence, FP 97: No. 3, Tenebrae factae sunt |
+| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Introduction (0.972) | 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est (0.000134) |
+| The Firebird (L'oiseau De Feu) - Suite (1919): Dance Of The Firebird (0.951) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: The Sage (0.000308) |
+| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Ritual of Abduction (0.945) | Petrushka: First Scene: III. The Conjuring Trick (1911 original version) (0.000393) |
+| Petrushka: Fourth Scene: II. Dance of the Wet-Nurses (1911 original version) (0.945) | 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores (0.00129) |
+| Petrushka: First Scene: I. The Shrovetide Fair (Introduction) (1911 original version) (0.941) | Petrushka: Fourth Scene: VII. Petrushka's Death (1911 original version) (0.00603) |
+| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Evocation of the Ancestors (0.938) | The Firebird (L'oiseau De Feu) - Suite (1919): 3. Variation Of The Firebird (0.054) |
+| Petrushka: Fourth Scene: VI. The Mummers (1911 original version) (0.936) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Introduction (0.0623) |
+| Petrushka: Fourth Scene: III. A Peasant Enters with a Bear (1911 original version) (0.933) | 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea (0.115) |
+| Petrushka: Third Scene: I. The Moor's Cell (1911 original version) (0.933) | 4 Motets pour un temps de pénitence, FP 97: No. 1, Timor et tremor (0.17) |
+| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Spring Rounds (0.929) | 4 Motets pour un temps de pénitence, FP 97: No. 3, Tenebrae factae sunt (0.292) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| The Firebird (L'oiseau De Feu) - Suite (1919): 3. Variation Of The Firebird | The Firebird (L'oiseau De Feu) - Suite (1919): Finale |
-| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: The Augurs of Spring: Dances of the Young Girls | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Introduction |
-| Petrushka: First Scene: IV. Russian Dance (1911 original version) | Concerto for Orchestra, Sz. 116: 1. Introduzione (Andante non troppo - Allegro vivace |
-| Petrushka: Fourth Scene: V. Dance of the Coachmen and Grooms (1911 original version) | 4 Motets pour le temps de Noël, FP 152: No. 1, Magnum mysterium |
-| Petrushka: Fourth Scene: I. The Shrovetide Fair (towards evening) (1911 original version) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Dance of the Earth |
-| Jeu de cartes: I. First Deal | 4 Motets pour le temps de Noël, FP 152: No. 3, Videntes stellam |
-| Concerto for Orchestra, Sz. 116: 4. Intermezzo interrotto (Allegretto) | 4 Motets pour un temps de pénitence, FP 97: No. 1, Timor et tremor |
-| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Ritual of Abduction | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Glorification of the Chosen One |
-| Petrushka: Fourth Scene: III. A Peasant Enters with a Bear (1911 original version) | 4 Motets pour un temps de pénitence, FP 97: No. 2, Vinea mea electa |
-| Petrushka: First Scene: I. The Shrovetide Fair (Introduction) (1911 original version) | The Firebird (L'oiseau De Feu) - Suite (1919): Round Dance Of The Princesses |
+| The Firebird (L'oiseau De Feu) - Suite (1919): 3. Variation Of The Firebird (0.743) | The Firebird (L'oiseau De Feu) - Suite (1919): Finale (0.0658) |
+| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: The Augurs of Spring: Dances of the Young Girls (0.669) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Introduction (0.0674) |
+| Petrushka: First Scene: IV. Russian Dance (1911 original version) (0.558) | Concerto for Orchestra, Sz. 116: 1. Introduzione (Andante non troppo - Allegro vivace (0.0751) |
+| Petrushka: Fourth Scene: V. Dance of the Coachmen and Grooms (1911 original version) (0.537) | 4 Motets pour le temps de Noël, FP 152: No. 1, Magnum mysterium (0.0799) |
+| Petrushka: Fourth Scene: I. The Shrovetide Fair (towards evening) (1911 original version) (0.505) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Dance of the Earth (0.0801) |
+| Jeu de cartes: I. First Deal (0.366) | 4 Motets pour le temps de Noël, FP 152: No. 3, Videntes stellam (0.0824) |
+| Concerto for Orchestra, Sz. 116: 4. Intermezzo interrotto (Allegretto) (0.364) | 4 Motets pour un temps de pénitence, FP 97: No. 1, Timor et tremor (0.0826) |
+| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Ritual of Abduction (0.349) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Glorification of the Chosen One (0.0838) |
+| Petrushka: Fourth Scene: III. A Peasant Enters with a Bear (1911 original version) (0.343) | 4 Motets pour un temps de pénitence, FP 97: No. 2, Vinea mea electa (0.0856) |
+| Petrushka: First Scene: I. The Shrovetide Fair (Introduction) (1911 original version) (0.328) | The Firebird (L'oiseau De Feu) - Suite (1919): Round Dance Of The Princesses (0.0859) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| Petrushka: Third Scene: II. Dance of the Ballerina (1911 original version) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: The Sage |
-| Petrushka: Fourth Scene: II. Dance of the Wet-Nurses (1911 original version) | The Firebird (L'oiseau De Feu) - Suite (1919): Dance Of The Firebird |
-| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: The Augurs of Spring: Dances of the Young Girls | Concerto for Orchestra, Sz. 116: 3. Elegia (Andante, non troppo) |
-| 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est | Quatuor en Fa Majeur, M. 35: III. Très lent |
-| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Ritual of Abduction | 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea |
-| Petrushka: First Scene: IV. Russian Dance (1911 original version) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Introduction |
-| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Ritual of the Rival Tribes | Petrushka: Fourth Scene: VII. Petrushka's Death (1911 original version) |
-| Petrushka: Fourth Scene: IV. The Gypsy Girls Dance (1911 original version) | Concerto for Orchestra, Sz. 116: 1. Introduzione (Andante non troppo - Allegro vivace |
-| Jeu de cartes: III. Third Deal | Petrushka: Fourth Scene: III. A Peasant Enters with a Bear (1911 original version) |
-| The Firebird (L'oiseau De Feu) - Suite (1919): 3. Variation Of The Firebird | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Introduction |
+| Petrushka: Third Scene: II. Dance of the Ballerina (1911 original version) (0.907) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: The Sage (0.0) |
+| Petrushka: Fourth Scene: II. Dance of the Wet-Nurses (1911 original version) (0.657) | The Firebird (L'oiseau De Feu) - Suite (1919): Dance Of The Firebird (0.0) |
+| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: The Augurs of Spring: Dances of the Young Girls (0.587) | Concerto for Orchestra, Sz. 116: 3. Elegia (Andante, non troppo) (0.0312) |
+| 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est (0.521) | Quatuor en Fa Majeur, M. 35: III. Très lent (0.0349) |
+| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Ritual of Abduction (0.453) | 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea (0.037) |
+| Petrushka: First Scene: IV. Russian Dance (1911 original version) (0.424) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Introduction (0.037) |
+| Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Ritual of the Rival Tribes (0.393) | Petrushka: Fourth Scene: VII. Petrushka's Death (1911 original version) (0.0377) |
+| Petrushka: Fourth Scene: IV. The Gypsy Girls Dance (1911 original version) (0.331) | Petrushka: Fourth Scene: III. A Peasant Enters with a Bear (1911 original version) (0.0379) |
+| Jeu de cartes: III. Third Deal (0.316) | Concerto for Orchestra, Sz. 116: 1. Introduzione (Andante non troppo - Allegro vivace (0.0379) |
+| The Firebird (L'oiseau De Feu) - Suite (1919): 3. Variation Of The Firebird (0.264) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Introduction (0.0385) |

@@ -250,91 +250,91 @@
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| Another One Bites The Dust | Lights |
-| I Want To Break Free | Desperado - 2013 Remaster |
-| Dreams - 2004 Remaster | Fat Bottomed Girls |
-| Eye of the Tiger | Across The Universe - Remastered 2009 |
-| Get Back - Remastered 2009 | The Trooper - 2015 Remaster |
-| Sara - 2015 Remaster | Dream On |
-| When Doves Cry | Back In Black |
-| Rhiannon | Come Sail Away |
-| (I Can't Get No) Satisfaction - Mono Version | Because - Remastered 2009 |
-| When I'm Sixty Four - Remastered 2009 | Iron Man |
+| Another One Bites The Dust (0.926) | Lights (0.193) |
+| I Want To Break Free (0.87) | Desperado - 2013 Remaster (0.228) |
+| Dreams - 2004 Remaster (0.828) | Fat Bottomed Girls (0.253) |
+| Eye of the Tiger (0.817) | Across The Universe - Remastered 2009 (0.257) |
+| Get Back - Remastered 2009 (0.761) | The Trooper - 2015 Remaster (0.285) |
+| Sara - 2015 Remaster (0.743) | Dream On (0.307) |
+| When Doves Cry (0.729) | Back In Black (0.31) |
+| (I Can't Get No) Satisfaction - Mono Version (0.723) | Come Sail Away (0.324) |
+| Rhiannon (0.723) | Because - Remastered 2009 (0.328) |
+| When I'm Sixty Four - Remastered 2009 (0.704) | Yesterday - Remastered 2009 (0.332) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| When Doves Cry | Blackbird - Remastered 2009 |
-| The Motherload | Golden Slumbers - Remastered 2009 |
-| Sweet Child O' Mine | Landslide |
-| Go Your Own Way - 2004 Remaster | Yesterday - Remastered 2009 |
-| Blood and Thunder | Crazy Love - 2013 Remaster |
-| Immigrant Song - Remaster | Desperado - 2013 Remaster |
-| Any Way You Want It | When I'm Sixty Four - Remastered 2009 |
-| The Trooper - 2015 Remaster | Because - Remastered 2009 |
-| 25 or 6 to 4 | Eleanor Rigby - Remastered 2009 |
-| Black Dog - Remaster | Moondance - 2013 Remaster |
+| When Doves Cry (0.989) | Blackbird - Remastered 2009 (0.127) |
+| The Motherload (0.971) | Golden Slumbers - Remastered 2009 (0.152) |
+| Sweet Child O' Mine (0.952) | Landslide (0.161) |
+| Go Your Own Way - 2004 Remaster (0.941) | Yesterday - Remastered 2009 (0.179) |
+| Blood and Thunder (0.935) | Crazy Love - 2013 Remaster (0.188) |
+| Immigrant Song - Remaster (0.932) | Desperado - 2013 Remaster (0.224) |
+| Any Way You Want It (0.932) | When I'm Sixty Four - Remastered 2009 (0.241) |
+| The Trooper - 2015 Remaster (0.908) | Because - Remastered 2009 (0.249) |
+| 25 or 6 to 4 (0.869) | Eleanor Rigby - Remastered 2009 (0.28) |
+| Black Dog - Remaster (0.864) | Moondance - 2013 Remaster (0.282) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| Don't Stop Me Now | Fields Of Gold |
-| Strawberry Fields Forever - Remastered 2009 | Octopus's Garden - Remastered 2009 |
-| Another One Bites The Dust | Nothing Else Matters |
-| Crazy Love - 2013 Remaster | Hotel California - 2013 Remaster |
-| Paint It, Black | Cold as Ice |
-| Black Dog - Remaster | Because - Remastered 2009 |
-| Love Me Do - Remastered 2009 | Carry That Weight - Remastered 2009 |
-| The Motherload | Save Me |
-| Iron Man | Dreams - 2004 Remaster |
-| Blood and Thunder | Golden Slumbers - Remastered 2009 |
+| Don't Stop Me Now (0.192) | Fields Of Gold (0.0246) |
+| Strawberry Fields Forever - Remastered 2009 (0.178) | Octopus's Garden - Remastered 2009 (0.0247) |
+| Another One Bites The Dust (0.122) | Nothing Else Matters (0.0265) |
+| Crazy Love - 2013 Remaster (0.0959) | Hotel California - 2013 Remaster (0.027) |
+| Paint It, Black (0.0926) | Cold as Ice (0.0271) |
+| Black Dog - Remaster (0.0904) | Because - Remastered 2009 (0.0272) |
+| Love Me Do - Remastered 2009 (0.0806) | Carry That Weight - Remastered 2009 (0.0274) |
+| The Motherload (0.0776) | Dreams - 2004 Remaster (0.0276) |
+| Iron Man (0.0765) | Save Me (0.0276) |
+| Blood and Thunder (0.0724) | Golden Slumbers - Remastered 2009 (0.0277) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| Desperado - 2013 Remaster | The Motherload |
-| Eleanor Rigby - Remastered 2009 | Blood and Thunder |
-| Landslide | Paranoid - 2012 - Remaster |
-| Yesterday - Remastered 2009 | Enter Sandman |
-| Crazy Love - 2013 Remaster | Any Way You Want It |
-| Because - Remastered 2009 | Hard To Handle |
-| Blackbird - Remastered 2009 | Carry on Wayward Son |
-| I'm a Believer - 2006 Remaster | Iron Man |
-| Let It Be - Remastered 2009 | Hotel California - 2013 Remaster |
-| We Will Rock You | The Chain - 2004 Remaster |
+| Desperado - 2013 Remaster (0.946) | The Motherload (7.1e-06) |
+| Eleanor Rigby - Remastered 2009 (0.936) | Blood and Thunder (8.58e-06) |
+| Landslide (0.883) | Paranoid - 2012 - Remaster (4.52e-05) |
+| Yesterday - Remastered 2009 (0.879) | Enter Sandman (0.00206) |
+| Crazy Love - 2013 Remaster (0.841) | Any Way You Want It (0.00251) |
+| Blackbird - Remastered 2009 (0.754) | Hard To Handle (0.00257) |
+| Because - Remastered 2009 (0.754) | Carry on Wayward Son (0.00321) |
+| I'm a Believer - 2006 Remaster (0.707) | Iron Man (0.00367) |
+| Let It Be - Remastered 2009 (0.631) | Hotel California - 2013 Remaster (0.00574) |
+| We Will Rock You (0.629) | The Chain - 2004 Remaster (0.009) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Blood and Thunder | Cold as Ice |
-| Smoke on the Water | All My Loving - Remastered 2009 |
-| Come Together - Remastered 2009 | Don't Stop Believin' |
-| Won't Get Fooled Again - Remix | Yellow Submarine - Remastered 2009 |
-| I Want You (She's So Heavy) - Remastered 2009 | Brown Eyed Girl |
-| Baba O'Riley | Daydream Believer |
-| Immigrant Song - Remaster | Good Old Fashioned Lover Boy |
-| Another One Bites The Dust | Yesterday - Remastered 2009 |
-| You Never Give Me Your Money - Remastered 2009 | A Hard Day's Night - Remastered 2009 |
-| Rhiannon | We Are The Champions |
+| Blood and Thunder (0.729) | We Will Rock You (0.0) |
+| Smoke on the Water (0.581) | Killer Queen (0.0) |
+| Come Together - Remastered 2009 (0.248) | Crazy Little Thing Called Love (0.0) |
+| Won't Get Fooled Again - Remix (0.235) | Yesterday - Remastered 2009 (0.0) |
+| I Want You (She's So Heavy) - Remastered 2009 (0.205) | Good Old Fashioned Lover Boy (0.0) |
+| Baba O'Riley (0.185) | Brown Eyed Girl (0.0) |
+| Immigrant Song - Remaster (0.169) | Don't Stop Believin' (0.0) |
+| Another One Bites The Dust (0.136) | All My Loving - Remastered 2009 (0.0) |
+| You Never Give Me Your Money - Remastered 2009 (0.136) | We Are The Champions (0.0) |
+| Rhiannon (0.0946) | Yellow Submarine - Remastered 2009 (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| Purple Rain | Blood and Thunder |
-| Revolution 1 - Remastered 2009 | Iron Man |
-| Get Back - Remastered 2009 | The Chain - 2004 Remaster |
-| I Am The Walrus - Remastered 2009 | Smoke on the Water |
-| Don't Stop Me Now | Blackbird - Remastered 2009 |
-| Don't Stop Believin' | Hotel California - 2013 Remaster |
-| Carry on Wayward Son | Won't Get Fooled Again - Remix |
-| When Doves Cry | Enter Sandman |
-| Yellow Submarine - Remastered 2009 | Good Old Fashioned Lover Boy |
-| Brown Eyed Girl | Who Are You |
+| Purple Rain (0.689) | Blood and Thunder (0.0317) |
+| Revolution 1 - Remastered 2009 (0.621) | Iron Man (0.0372) |
+| Get Back - Remastered 2009 (0.61) | The Chain - 2004 Remaster (0.0451) |
+| I Am The Walrus - Remastered 2009 (0.589) | Smoke on the Water (0.0535) |
+| Don't Stop Me Now (0.558) | Blackbird - Remastered 2009 (0.0573) |
+| Don't Stop Believin' (0.447) | Hotel California - 2013 Remaster (0.0575) |
+| Carry on Wayward Son (0.446) | Won't Get Fooled Again - Remix (0.0584) |
+| When Doves Cry (0.443) | Enter Sandman (0.059) |
+| Yellow Submarine - Remastered 2009 (0.438) | Good Old Fashioned Lover Boy (0.0638) |
+| Brown Eyed Girl (0.406) | Who Are You (0.0655) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| I'm a Believer - 2006 Remaster | The Show Must Go On |
-| Hard To Handle | Come Sail Away |
-| (I Can't Get No) Satisfaction - Mono Version | Baba O'Riley |
-| Brown Eyed Girl | Because - Remastered 2009 |
-| All My Loving - Remastered 2009 | Nothing Else Matters |
-| Walk This Way | Desperado - 2013 Remaster |
-| Smoke on the Water | Come Together - Remastered 2009 |
-| Across The Universe - Remastered 2009 | We Are The Champions |
-| When Doves Cry | Purple Rain |
-| Go Your Own Way - 2004 Remaster | Stairway to Heaven - Remaster |
+| I'm a Believer - 2006 Remaster (0.962) | The Show Must Go On (0.109) |
+| Hard To Handle (0.961) | Come Sail Away (0.141) |
+| (I Can't Get No) Satisfaction - Mono Version (0.931) | Baba O'Riley (0.15) |
+| Brown Eyed Girl (0.908) | Because - Remastered 2009 (0.162) |
+| All My Loving - Remastered 2009 (0.9) | Nothing Else Matters (0.17) |
+| Walk This Way (0.894) | Desperado - 2013 Remaster (0.18) |
+| Smoke on the Water (0.89) | Come Together - Remastered 2009 (0.187) |
+| Across The Universe - Remastered 2009 (0.858) | We Are The Champions (0.189) |
+| When Doves Cry (0.84) | Purple Rain (0.189) |
+| Go Your Own Way - 2004 Remaster (0.831) | Stairway to Heaven - Remaster (0.197) |

@@ -141,91 +141,91 @@
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| Ten Duel Commandments | The Music Of The Night - From 'The Phantom Of The Opera' Motion Picture |
-| Washington on Your Side | All I Ask Of You - Reprise |
-| A Winter's Ball | All I Ask Of You - From 'The Phantom Of The Opera' Motion Picture |
-| Blow Us All Away | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture |
-| The Adams Administration | All I Ask Of You |
-| Farmer Refuted | Overture |
-| Non-Stop | Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture |
-| Yorktown (The World Turned Upside Down) | Entr'Acte |
-| Say No to This | All I Ask of You |
-| Cabinet Battle #2 | Bring Him Home |
+| Ten Duel Commandments (0.887) | The Music Of The Night - From 'The Phantom Of The Opera' Motion Picture (0.169) |
+| Washington on Your Side (0.884) | All I Ask Of You - Reprise (0.191) |
+| A Winter's Ball (0.854) | All I Ask Of You - From 'The Phantom Of The Opera' Motion Picture (0.194) |
+| Blow Us All Away (0.82) | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture (0.219) |
+| The Adams Administration (0.8) | All I Ask Of You (0.222) |
+| Farmer Refuted (0.795) | Overture (0.224) |
+| Non-Stop (0.77) | Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture (0.227) |
+| Yorktown (The World Turned Upside Down) (0.76) | Entr'Acte (0.231) |
+| Say No to This (0.754) | All I Ask of You (0.236) |
+| Cabinet Battle #2 (0.753) | Bring Him Home (0.237) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| Yorktown (The World Turned Upside Down) | A Little Fall Of Rain |
-| The Schuyler Sisters | Magical Lasso |
-| Guns and Ships | Angel Of Music - From 'The Phantom Of The Opera' Motion Picture |
-| Cabinet Battle #1 | Bring Him Home |
-| My Shot | In My Life |
-| Meet Me Inside | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture |
-| The Phantom Of the Opera - From 'The Phantom Of The Opera' Motion Picture | All I Ask of You |
-| Schuyler Defeated | All I Ask Of You - Reprise |
-| Satisfied | Empty Chairs At Empty Tables |
-| The Phantom Of The Opera | Come To Me (Fantine's Death) |
+| Yorktown (The World Turned Upside Down) (0.883) | A Little Fall Of Rain (0.0291) |
+| The Schuyler Sisters (0.727) | Magical Lasso (0.0314) |
+| Guns and Ships (0.666) | Angel Of Music - From 'The Phantom Of The Opera' Motion Picture (0.0401) |
+| Cabinet Battle #1 (0.658) | Bring Him Home (0.0586) |
+| My Shot (0.649) | In My Life (0.0594) |
+| Meet Me Inside (0.643) | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture (0.0617) |
+| The Phantom Of the Opera - From 'The Phantom Of The Opera' Motion Picture (0.608) | All I Ask of You (0.0636) |
+| Schuyler Defeated (0.597) | All I Ask Of You - Reprise (0.0679) |
+| Satisfied (0.593) | Empty Chairs At Empty Tables (0.0688) |
+| The Phantom Of The Opera (0.582) | Come To Me (Fantine's Death) (0.0698) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| Aaron Burr, Sir | History Has Its Eyes on You |
-| Prologue | Dear Theodosia |
-| Ten Duel Commandments | Let It Go - From "Frozen"/Soundtrack Version |
-| The World Was Wide Enough | Stars |
-| The Adams Administration | Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture |
-| Cabinet Battle #2 | Overture / Work Song |
-| We Know | Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version |
-| A Winter's Ball | Entr'Acte |
-| Your Obedient Servant | That Would Be Enough |
-| Right Hand Man | A Whole New World |
+| Aaron Burr, Sir (0.818) | History Has Its Eyes on You (0.0291) |
+| Prologue (0.748) | Dear Theodosia (0.0303) |
+| Ten Duel Commandments (0.658) | Let It Go - From "Frozen"/Soundtrack Version (0.0305) |
+| The World Was Wide Enough (0.648) | Stars (0.0307) |
+| The Adams Administration (0.544) | Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture (0.0317) |
+| Cabinet Battle #2 (0.537) | Overture / Work Song (0.0328) |
+| We Know (0.523) | Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version (0.035) |
+| A Winter's Ball (0.507) | Entr'Acte (0.0353) |
+| Your Obedient Servant (0.502) | That Would Be Enough (0.0355) |
+| Right Hand Man (0.492) | A Whole New World (0.0366) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| Bring Him Home | Overture - From 'The Phantom Of The Opera' Motion Picture |
-| All I Ask of You | Overture |
-| A Heart Full Of Love | The Reynolds Pamphlet |
-| On My Own | The Phantom Of The Opera |
-| In My Life | Cabinet Battle #2 |
-| A Little Fall Of Rain | Ten Duel Commandments |
-| Angel Of Music - From 'The Phantom Of The Opera' Motion Picture | Cabinet Battle #1 |
-| Come To Me (Fantine's Death) | Wait for It |
-| Empty Chairs At Empty Tables | My Shot |
-| Think Of Me - From 'The Phantom Of The Opera' Motion Picture | Washington on Your Side |
+| Bring Him Home (0.981) | Overture - From 'The Phantom Of The Opera' Motion Picture (0.000596) |
+| All I Ask of You (0.98) | Overture (0.00451) |
+| A Heart Full Of Love (0.968) | The Reynolds Pamphlet (0.0277) |
+| On My Own (0.967) | The Phantom Of The Opera (0.0533) |
+| In My Life (0.96) | Cabinet Battle #2 (0.0582) |
+| A Little Fall Of Rain (0.955) | Ten Duel Commandments (0.0691) |
+| Angel Of Music - From 'The Phantom Of The Opera' Motion Picture (0.954) | Cabinet Battle #1 (0.0859) |
+| Come To Me (Fantine's Death) (0.953) | Wait for It (0.124) |
+| Empty Chairs At Empty Tables (0.944) | My Shot (0.15) |
+| Think Of Me - From 'The Phantom Of The Opera' Motion Picture (0.943) | Washington on Your Side (0.165) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Entr'Acte | Kiss the Girl |
-| Overture | Yorktown (The World Turned Upside Down) |
-| All I Ask Of You - Reprise | The Reynolds Pamphlet |
-| Overture - From 'The Phantom Of The Opera' Motion Picture | Who Lives, Who Dies, Who Tells Your Story |
-| Bring Him Home | Farmer Refuted |
-| The Phantom Of The Opera | What Comes Next? |
-| Reflection | I Know Him |
-| Wishing You Were Somehow Here Again | You'll Be Back |
-| The Point Of No Return | Satisfied |
-| Little Lotte / The Mirror (Angel Of Music) | It's Quiet Uptown |
+| Entr'Acte (0.42) | Schuyler Defeated (0.0) |
+| Overture (0.245) | One Last Time (0.0) |
+| All I Ask Of You - Reprise (0.0315) | The Story of Tonight (0.0) |
+| Overture - From 'The Phantom Of The Opera' Motion Picture (0.0276) | The World Was Wide Enough (0.0) |
+| Bring Him Home (0.00993) | Do You Hear The People Sing? (0.0) |
+| The Phantom Of The Opera (0.0096) | Let It Go - From "Frozen"/Soundtrack Version (0.0) |
+| Reflection (0.00911) | What Have I Done? (0.0) |
+| Wishing You Were Somehow Here Again (0.00674) | In My Life (0.0) |
+| The Point Of No Return (0.00348) | Hurricane (0.0) |
+| Little Lotte / The Mirror (Angel Of Music) (0.0025) | The Story of Tonight - Reprise (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| Yorktown (The World Turned Upside Down) | Your Obedient Servant |
-| I Know Him | Farmer Refuted |
-| Reflection | Bring Him Home |
-| Stars | Dear Theodosia |
-| The Point Of No Return - From 'The Phantom Of The Opera' Motion Picture | All I Ask Of You - Reprise |
-| The Room Where It Happens | Washington on Your Side |
-| The Story of Tonight | It's Quiet Uptown |
-| The Schuyler Sisters | Be Our Guest - From "Beauty And The Beast" Soundtrack |
-| Ten Duel Commandments | Think Of Me - From 'The Phantom Of The Opera' Motion Picture |
-| Blow Us All Away | Stay Alive - Reprise |
+| Yorktown (The World Turned Upside Down) (0.727) | Your Obedient Servant (0.042) |
+| I Know Him (0.722) | Farmer Refuted (0.0548) |
+| Reflection (0.722) | Bring Him Home (0.069) |
+| Stars (0.681) | Dear Theodosia (0.0723) |
+| The Point Of No Return - From 'The Phantom Of The Opera' Motion Picture (0.671) | All I Ask Of You - Reprise (0.0754) |
+| The Room Where It Happens (0.664) | Washington on Your Side (0.0756) |
+| The Story of Tonight (0.648) | It's Quiet Uptown (0.0785) |
+| The Schuyler Sisters (0.627) | Be Our Guest - From "Beauty And The Beast" Soundtrack (0.0788) |
+| Ten Duel Commandments (0.617) | Think Of Me - From 'The Phantom Of The Opera' Motion Picture (0.0798) |
+| Blow Us All Away (0.563) | Stay Alive - Reprise (0.0801) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| A Girl Worth Fighting For | Wishing You Were Somehow Here Again |
-| Schuyler Defeated | Wandering Child / Bravo, Monsieur |
-| Ten Duel Commandments | Little Lotte / The Mirror (Angel Of Music) |
-| Under the Sea | Down Once More / Track Down This Murderer |
-| The Schuyler Sisters | I Remember / Stranger Than You Dreamt It |
-| The Adams Administration | All I Ask Of You - Reprise |
-| Helpless | Bring Him Home |
-| Hakuna Matata - From "The Lion King" Soundtrack | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture |
-| Kiss the Girl | Why Have You Brought Me Here |
-| We Know | The Point Of No Return |
+| A Girl Worth Fighting For (0.849) | Wishing You Were Somehow Here Again (0.0374) |
+| Schuyler Defeated (0.842) | Wandering Child / Bravo, Monsieur (0.0392) |
+| Ten Duel Commandments (0.828) | Little Lotte / The Mirror (Angel Of Music) (0.0465) |
+| Under the Sea (0.819) | Down Once More / Track Down This Murderer (0.0529) |
+| The Schuyler Sisters (0.792) | I Remember / Stranger Than You Dreamt It (0.0574) |
+| The Adams Administration (0.792) | All I Ask Of You - Reprise (0.0624) |
+| Helpless (0.737) | Bring Him Home (0.0685) |
+| Hakuna Matata - From "The Lion King" Soundtrack (0.725) | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture (0.071) |
+| Kiss the Girl (0.721) | Why Have You Brought Me Here (0.0742) |
+| We Know (0.692) | The Point Of No Return (0.0757) |

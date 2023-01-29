@@ -173,91 +173,91 @@
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| Another One Bites The Dust | Bridge Over Troubled Water |
-| I Want To Break Free | Lights |
-| Dreams - 2004 Remaster | Desperado - 2013 Remaster |
-| You Can Call Me Al | Fat Bottomed Girls |
-| Get Back - Remastered 2009 | Across The Universe - Remastered 2009 |
-| Cecilia | She's Always a Woman |
-| Sara - 2015 Remaster | Dream On |
-| My Life | Come Sail Away |
-| A Matter of Trust | Because - Remastered 2009 |
-| Rhiannon | Yesterday - Remastered 2009 |
+| Another One Bites The Dust (0.926) | Bridge Over Troubled Water (0.149) |
+| I Want To Break Free (0.87) | Lights (0.193) |
+| Dreams - 2004 Remaster (0.828) | Desperado - 2013 Remaster (0.228) |
+| You Can Call Me Al (0.776) | Fat Bottomed Girls (0.253) |
+| Get Back - Remastered 2009 (0.761) | Across The Universe - Remastered 2009 (0.257) |
+| Cecilia (0.755) | She's Always a Woman (0.292) |
+| Sara - 2015 Remaster (0.743) | Dream On (0.307) |
+| My Life (0.741) | Come Sail Away (0.324) |
+| A Matter of Trust (0.738) | Because - Remastered 2009 (0.328) |
+| (I Can't Get No) Satisfaction - Mono Version (0.723) | Yesterday - Remastered 2009 (0.332) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| We Didn't Start the Fire | And So It Goes |
-| Uptown Girl | The Boxer |
-| Go Your Own Way - 2004 Remaster | And So It Goes |
-| Any Way You Want It | Blackbird - Remastered 2009 |
-| Immigrant Song - Remaster | She's Got a Way |
-| Scenes from an Italian Restaurant | I Can't Make You Love Me |
-| Movin' Out (Anthony's Song) | Golden Slumbers - Remastered 2009 |
-| The Stranger | Lullabye (Goodnight, My Angel) |
-| Cecilia | Landslide |
-| Only the Good Die Young | So Far Away |
+| We Didn't Start the Fire (0.967) | And So It Goes (0.0387) |
+| Uptown Girl (0.944) | The Boxer (0.0802) |
+| Go Your Own Way - 2004 Remaster (0.941) | And So It Goes (0.0871) |
+| Immigrant Song - Remaster (0.932) | Blackbird - Remastered 2009 (0.127) |
+| Any Way You Want It (0.932) | She's Got a Way (0.142) |
+| Scenes from an Italian Restaurant (0.931) | I Can't Make You Love Me (0.149) |
+| Movin' Out (Anthony's Song) (0.88) | Golden Slumbers - Remastered 2009 (0.152) |
+| The Stranger (0.878) | Lullabye (Goodnight, My Angel) (0.157) |
+| Cecilia (0.876) | Landslide (0.161) |
+| Only the Good Die Young (0.872) | So Far Away (0.172) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| Don't Stop Me Now | Octopus's Garden - Remastered 2009 |
-| Strawberry Fields Forever - Remastered 2009 | The Longest Time |
-| Only the Good Die Young | A Matter of Trust |
-| Scenes from an Italian Restaurant | Hotel California - 2013 Remaster |
-| Another One Bites The Dust | Cold as Ice |
-| Big Shot | Because - Remastered 2009 |
-| Crazy Love - 2013 Remaster | Carry That Weight - Remastered 2009 |
-| Paint It, Black | Piano Man |
-| Black Dog - Remaster | Save Me |
-| The Stranger | Dreams - 2004 Remaster |
+| Don't Stop Me Now (0.192) | Octopus's Garden - Remastered 2009 (0.0247) |
+| Strawberry Fields Forever - Remastered 2009 (0.178) | The Longest Time (0.0262) |
+| Only the Good Die Young (0.159) | A Matter of Trust (0.0268) |
+| Scenes from an Italian Restaurant (0.126) | Hotel California - 2013 Remaster (0.027) |
+| Another One Bites The Dust (0.122) | Cold as Ice (0.0271) |
+| Big Shot (0.0972) | Because - Remastered 2009 (0.0272) |
+| Crazy Love - 2013 Remaster (0.0959) | Carry That Weight - Remastered 2009 (0.0274) |
+| Paint It, Black (0.0926) | Dreams - 2004 Remaster (0.0276) |
+| Black Dog - Remaster (0.0904) | Save Me (0.0276) |
+| The Stranger (0.0837) | Piano Man (0.0276) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| She's Got a Way | Paranoid - 2012 - Remaster |
-| Lullabye (Goodnight, My Angel) | Any Way You Want It |
-| Desperado - 2013 Remaster | Hard To Handle |
-| And So It Goes | Carry on Wayward Son |
-| Eleanor Rigby - Remastered 2009 | Iron Man |
-| The Boxer | Hotel California - 2013 Remaster |
-| And So It Goes | The Chain - 2004 Remaster |
-| So Far Away | Walk This Way |
-| Landslide | Oh! Darling - Remastered 2009 |
-| Yesterday - Remastered 2009 | Immigrant Song - Remaster |
+| She's Got a Way (0.97) | Paranoid - 2012 - Remaster (4.52e-05) |
+| Lullabye (Goodnight, My Angel) (0.948) | Any Way You Want It (0.00251) |
+| Desperado - 2013 Remaster (0.946) | Hard To Handle (0.00257) |
+| And So It Goes (0.941) | Carry on Wayward Son (0.00321) |
+| Eleanor Rigby - Remastered 2009 (0.936) | Iron Man (0.00367) |
+| The Boxer (0.93) | Hotel California - 2013 Remaster (0.00574) |
+| And So It Goes (0.91) | The Chain - 2004 Remaster (0.009) |
+| So Far Away (0.897) | Walk This Way (0.0114) |
+| Landslide (0.883) | Oh! Darling - Remastered 2009 (0.0126) |
+| Yesterday - Remastered 2009 (0.879) | Immigrant Song - Remaster (0.013) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Smoke on the Water | Cold as Ice |
-| Come Together - Remastered 2009 | Let It Be - Remastered 2009 |
-| Won't Get Fooled Again - Remix | All My Loving - Remastered 2009 |
-| I Want You (She's So Heavy) - Remastered 2009 | A Hard Day's Night - Remastered 2009 |
-| Baba O'Riley | Brown Eyed Girl |
-| Immigrant Song - Remaster | We Will Rock You |
-| Another One Bites The Dust | Killer Queen |
-| You Never Give Me Your Money - Remastered 2009 | Don't Ask Me Why |
-| Rhiannon | Crazy Little Thing Called Love |
-| Dear Prudence - Remastered 2009 | Save Me |
+| Smoke on the Water (0.581) | We Will Rock You (0.0) |
+| Come Together - Remastered 2009 (0.248) | Killer Queen (0.0) |
+| Won't Get Fooled Again - Remix (0.235) | And So It Goes (0.0) |
+| I Want You (She's So Heavy) - Remastered 2009 (0.205) | Crazy Little Thing Called Love (0.0) |
+| Baba O'Riley (0.185) | Cat's in the Cradle (0.0) |
+| Immigrant Song - Remaster (0.169) | Only the Good Die Young (0.0) |
+| Another One Bites The Dust (0.136) | Yesterday - Remastered 2009 (0.0) |
+| You Never Give Me Your Money - Remastered 2009 (0.136) | We Didn't Start the Fire (0.0) |
+| Rhiannon (0.0946) | Good Old Fashioned Lover Boy (0.0) |
+| Dear Prudence - Remastered 2009 (0.0681) | Brown Eyed Girl (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| Revolution 1 - Remastered 2009 | Iron Man |
-| Get Back - Remastered 2009 | The Chain - 2004 Remaster |
-| Uptown Girl | I Feel the Earth Move |
-| I Am The Walrus - Remastered 2009 | Smoke on the Water |
-| Don't Stop Me Now | My Life |
-| Don't Stop Believin' | Blackbird - Remastered 2009 |
-| Carry on Wayward Son | Hotel California - 2013 Remaster |
-| Yellow Submarine - Remastered 2009 | Won't Get Fooled Again - Remix |
-| Brown Eyed Girl | Movin' Out (Anthony's Song) |
-| Paint It, Black | The Boxer |
+| Revolution 1 - Remastered 2009 (0.621) | Iron Man (0.0372) |
+| Get Back - Remastered 2009 (0.61) | The Chain - 2004 Remaster (0.0451) |
+| Uptown Girl (0.601) | I Feel the Earth Move (0.0528) |
+| I Am The Walrus - Remastered 2009 (0.589) | Smoke on the Water (0.0535) |
+| Don't Stop Me Now (0.558) | My Life (0.0555) |
+| Don't Stop Believin' (0.447) | Blackbird - Remastered 2009 (0.0573) |
+| Carry on Wayward Son (0.446) | Hotel California - 2013 Remaster (0.0575) |
+| Yellow Submarine - Remastered 2009 (0.438) | Won't Get Fooled Again - Remix (0.0584) |
+| Brown Eyed Girl (0.406) | Movin' Out (Anthony's Song) (0.0591) |
+| Paint It, Black (0.399) | The Boxer (0.0619) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| I'm a Believer - 2006 Remaster | The Show Must Go On |
-| Hard To Handle | I Can't Make You Love Me |
-| Cecilia | Come Sail Away |
-| (I Can't Get No) Satisfaction - Mono Version | Baba O'Riley |
-| Brown Eyed Girl | Because - Remastered 2009 |
-| All My Loving - Remastered 2009 | Desperado - 2013 Remaster |
-| We Didn't Start the Fire | Come Together - Remastered 2009 |
-| Movin' Out (Anthony's Song) | We Are The Champions |
-| Walk This Way | New York State of Mind |
-| Smoke on the Water | She's Got a Way |
+| I'm a Believer - 2006 Remaster (0.962) | The Show Must Go On (0.109) |
+| Hard To Handle (0.961) | I Can't Make You Love Me (0.113) |
+| Cecilia (0.954) | Come Sail Away (0.141) |
+| (I Can't Get No) Satisfaction - Mono Version (0.931) | Baba O'Riley (0.15) |
+| Brown Eyed Girl (0.908) | Because - Remastered 2009 (0.162) |
+| All My Loving - Remastered 2009 (0.9) | Desperado - 2013 Remaster (0.18) |
+| Movin' Out (Anthony's Song) (0.895) | Come Together - Remastered 2009 (0.187) |
+| We Didn't Start the Fire (0.895) | We Are The Champions (0.189) |
+| Walk This Way (0.894) | New York State of Mind (0.194) |
+| Smoke on the Water (0.89) | She's Got a Way (0.196) |

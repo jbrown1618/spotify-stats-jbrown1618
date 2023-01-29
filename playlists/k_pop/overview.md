@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273f7da7c0f322b7a1c95190d92" alt="K-Pop" width="100" />
 
-[970 songs](tracks.md)
+[971 songs](tracks.md)
 
 ## Top Artists
 
@@ -52,13 +52,13 @@
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | CLC | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5eba109aeabdab7a5a5b3330df4" alt="" width="50" /> | HEIZE | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bd65b0efee10bfa8328c33b" alt="" width="50" /> | NCT U | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
+| 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="" width="50" /> | EVERGLOW | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5ebd809a98eed8a673be5ed0576" alt="" width="50" /> | NCT DREAM | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5ebd90aa536055fe9806b3960e6" alt="" width="50" /> | GOT7 | [🔗](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8786ccb6031a3266bb15606" alt="" width="50" /> | WJSN | [🔗](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb6199c3c2f414880e2b9077a9" alt="" width="50" /> | NewJeans | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb80584436e5726afb70cee7f8" alt="" width="50" /> | LOONA | [🔗](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5ebfb6c0b7b6918dca92be0ed75" alt="" width="50" /> | LE SSERAFIM | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
-| 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="" width="50" /> | EVERGLOW | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb23c6033b3b20959a2154328b" alt="" width="50" /> | HYO | [🔗](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb7ece2134de8809efcfdc9be7" alt="" width="50" /> | SHINee | [🔗](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb24b5185226d5b7c6aa91db5a" alt="" width="50" /> | PSY | [🔗](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) |
@@ -248,8 +248,8 @@
 | 219 | [SM Entertainment](../../labels/sm_entertainment.md) |
 | 104 | [Republic Records](../../labels/republic_records.md) |
 | 65 | [YG Entertainment](../../labels/yg_entertainment.md) |
-| 63 | [Genie Music Corporation](../../labels/genie_music_corporation.md) |
-| 55 | [Stone Music Entertainment](../../labels/stone_music_entertainment.md) |
+| 64 | [Genie Music Corporation](../../labels/genie_music_corporation.md) |
+| 56 | [Stone Music Entertainment](../../labels/stone_music_entertainment.md) |
 | 39 | [BIGHIT MUSIC](../../labels/bighit_music.md) |
 | 33 | [Interscope Records](../../labels/interscope_records.md) |
 | 32 | [Universal Music LLC](../../labels/universal_music_llc.md) |
@@ -359,8 +359,8 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 814 | [k-pop](../../genres/k_pop.md) |
-| 368 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
+| 815 | [k-pop](../../genres/k_pop.md) |
+| 369 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 233 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
 | 53 | [pop](../../genres/pop.md) |
 | 34 | korean pop |
@@ -409,7 +409,7 @@
 | [2022](2022.md) | 270 |
 | [2021](2021.md) | 198 |
 | [2020](2020.md) | 129 |
-| [2019](2019.md) | 77 |
+| [2019](2019.md) | 78 |
 | [2018](2018.md) | 68 |
 | [2017](2017.md) | 54 |
 | [2016](2016.md) | 56 |
@@ -430,12 +430,12 @@
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736887b017d077dfc5787a3e23" alt="MOONLIGHT SUNRISE" width="50" /> <span style="padding-left:10px;">MOONLIGHT SUNRISE (2023-01-20)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d27c6b111cc35cae9bee87d6" alt="It's Raining" width="50" /> <span style="padding-left:10px;">It's Raining (2004-10-08)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c3cc49220a7dd0bda6e55bb9" alt="Love War" width="50" /> <span style="padding-left:10px;">Love War (2023-01-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734e0beba9fb519b91d5485ef9" alt="미녀는 괴로워 Original Motion picture Soundtrack" width="50" /> <span style="padding-left:10px;">미녀는 괴로워 Original Motion picture Soundtrack (2006-12-12)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="Stamp On It - The 1st Mini Album" width="50" /> <span style="padding-left:10px;">Stamp On It - The 1st Mini Album (2023-01-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273df0687edfc532a78ab858512" alt="Hong Gil Dong OST" width="50" /> <span style="padding-left:10px;">Hong Gil Dong OST (2008-01-23)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f7994d33de90ec347aa477c3" alt="VIBE (feat. Jimin of BTS)" width="50" /> <span style="padding-left:10px;">VIBE (feat. Jimin of BTS) (2023-01-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739633cfd2e42a610f3dafa801" alt="So Hot" width="50" /> <span style="padding-left:10px;">So Hot (2008-06-03)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27393dc875f5465891061acef62" alt="[REASON]" width="50" /> <span style="padding-left:10px;">[REASON] (2023-01-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ff8a783336acbef4b6fab82f" alt="The SHINee World - The First Album" width="50" /> <span style="padding-left:10px;">The SHINee World - The First Album (2008-08-28)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27386b1ba55bf754a73f6ecf729" alt="I ≠ DOLL" width="50" /> <span style="padding-left:10px;">I ≠ DOLL (2023-01-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27325ca38eeeb374883d7652ff0" alt="MIROTIC - The 4th Album" width="50" /> <span style="padding-left:10px;">MIROTIC - The 4th Album (2008-09-19)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="REASON" width="50" /> <span style="padding-left:10px;">REASON (2023-01-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734802244fa0cf6d33eda5e748" alt="The Wonder Years - Trilogy" width="50" /> <span style="padding-left:10px;">The Wonder Years - Trilogy (2008-09-22)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="Stamp On It - The 1st Mini Album" width="50" /> <span style="padding-left:10px;">Stamp On It - The 1st Mini Album (2023-01-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734e0beba9fb519b91d5485ef9" alt="미녀는 괴로워 Original Motion picture Soundtrack" width="50" /> <span style="padding-left:10px;">미녀는 괴로워 Original Motion picture Soundtrack (2006-12-12)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c3cc49220a7dd0bda6e55bb9" alt="Love War" width="50" /> <span style="padding-left:10px;">Love War (2023-01-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273df0687edfc532a78ab858512" alt="Hong Gil Dong OST" width="50" /> <span style="padding-left:10px;">Hong Gil Dong OST (2008-01-23)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27393dc875f5465891061acef62" alt="[REASON]" width="50" /> <span style="padding-left:10px;">[REASON] (2023-01-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739633cfd2e42a610f3dafa801" alt="So Hot" width="50" /> <span style="padding-left:10px;">So Hot (2008-06-03)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f7994d33de90ec347aa477c3" alt="VIBE (feat. Jimin of BTS)" width="50" /> <span style="padding-left:10px;">VIBE (feat. Jimin of BTS) (2023-01-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ff8a783336acbef4b6fab82f" alt="The SHINee World - The First Album" width="50" /> <span style="padding-left:10px;">The SHINee World - The First Album (2008-08-28)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="REASON" width="50" /> <span style="padding-left:10px;">REASON (2023-01-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27325ca38eeeb374883d7652ff0" alt="MIROTIC - The 4th Album" width="50" /> <span style="padding-left:10px;">MIROTIC - The 4th Album (2008-09-19)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27386b1ba55bf754a73f6ecf729" alt="I ≠ DOLL" width="50" /> <span style="padding-left:10px;">I ≠ DOLL (2023-01-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734802244fa0cf6d33eda5e748" alt="The Wonder Years - Trilogy" width="50" /> <span style="padding-left:10px;">The Wonder Years - Trilogy (2008-09-22)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01" alt="NewJeans 'OMG'" width="50" /> <span style="padding-left:10px;">NewJeans 'OMG' (2023-01-02)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a1bb22f3ae0fe8b97bda6931" alt="Lost and Found" width="50" /> <span style="padding-left:10px;">Lost and Found (2008-09-23)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738bc5762a75c18b494803705c" alt="SPIN OFF : FROM THE WITNESS" width="50" /> <span style="padding-left:10px;">SPIN OFF : FROM THE WITNESS (2022-12-30)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273fb6e8a26c2c4d9a23f888a94" alt="쏘리 쏘리 Sorry, Sorry - The 3rd Album" width="50" /> <span style="padding-left:10px;">쏘리 쏘리 Sorry, Sorry - The 3rd Album (2009-03-11)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="2022 Winter SMTOWN : SMCU PALACE" width="50" /> <span style="padding-left:10px;">2022 Winter SMTOWN : SMCU PALACE (2022-12-26)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273186edfe8830c46f7bfd71d3e" alt="Sound G." width="50" /> <span style="padding-left:10px;">Sound G. (2009-07-21)</span></div> |
@@ -443,91 +443,91 @@
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| #Twenty | U |
-| FACE | Sweet |
-| SNEAKERS | On The Ground |
-| Idle song | My sea |
-| RUN (HAN) | Fine |
-| Jelly | Like Water |
-| Typa Girl | Epilogue |
-| Weather | Clockwork |
-| BOOM | MY LOVE |
-| Mr. Simple | CHEESE |
+| #Twenty (0.956) | U (0.301) |
+| FACE (0.954) | Sweet (0.302) |
+| SNEAKERS (0.935) | On The Ground (0.311) |
+| Idle song (0.933) | My sea (0.353) |
+| RUN (HAN) (0.929) | Fine (0.36) |
+| Jelly (0.921) | Like Water (0.365) |
+| Weather (0.915) | Epilogue (0.366) |
+| Typa Girl (0.915) | Clockwork (0.37) |
+| BOOM (0.914) | MY LOVE (0.375) |
+| Mr. Simple (0.913) | CHEESE (0.376) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| War of Hormone | i hate to admit (Bang Chan) |
-| RING X RING | Deep end (Felix) |
-| Hit That Drum | miss you (Hyunjin) |
-| Misfit | Winter Sleep |
-| MIROH | Stardust love song |
-| Side Effects | How can I love the heartbreak, you're the one I love |
-| 소방차 Fire Truck | BREATHE |
-| Chase Me | Boy in time - HUI Solo |
-| Girls | Singularity |
-| Abracadabra | Rain and You |
+| War of Hormone (0.993) | i hate to admit (Bang Chan) (0.217) |
+| RING X RING (0.987) | Deep end (Felix) (0.223) |
+| Hit That Drum (0.984) | miss you (Hyunjin) (0.226) |
+| Misfit (0.984) | Winter Sleep (0.237) |
+| MIROH (0.979) | Stardust love song (0.241) |
+| Side Effects (0.977) | How can I love the heartbreak, you're the one I love (0.248) |
+| 소방차 Fire Truck (0.976) | BREATHE (0.251) |
+| Chase Me (0.975) | Boy in time - HUI Solo (0.255) |
+| Girls (0.974) | Singularity (0.272) |
+| Abracadabra (0.973) | Rain and You (0.275) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| No More Dream | With |
-| I Don't Need You | Sweet Night |
-| Addicted | Slightly Tipsy (She is My Type♡ X SANDEUL) |
-| MANIAC | She′s In The Rain |
-| Freedom | Moonlight Melody |
-| Free Fall | Rain and You |
-| I GOT IT (HAN) | Winter Sleep |
-| Ice Cream (with Selena Gomez) | Wicked |
-| Feelin' Like | Gee |
-| Signal | Hope Not |
+| No More Dream (0.472) | With (0.0228) |
+| I Don't Need You (0.422) | Sweet Night (0.025) |
+| Addicted (0.419) | Slightly Tipsy (She is My Type♡ X SANDEUL) (0.0264) |
+| MANIAC (0.411) | She′s In The Rain (0.0264) |
+| Freedom (0.388) | Moonlight Melody (0.0269) |
+| Free Fall (0.376) | Rain and You (0.027) |
+| I GOT IT (HAN) (0.365) | Winter Sleep (0.0273) |
+| Ice Cream (with Selena Gomez) (0.365) | Wicked (0.0273) |
+| Feelin' Like (0.353) | Gee (0.0274) |
+| Signal (0.334) | Hope Not (0.0274) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| 그대라는 시 | Poison |
-| How can I love the heartbreak, you're the one I love | Easy |
-| ONLY | Mr. Simple |
-| Deep end (Felix) | Tamed-Dashed |
-| Boy in time - HUI Solo | Cyberpunk |
-| Run With Me | Oh Sorry Ya |
-| Goodbye | Red Light |
-| MY LOVE | Attention, please! |
-| In The Fall | Adios |
-| Amusement Park | HALAZIA |
+| 그대라는 시 (0.914) | Poison (9.27e-05) |
+| How can I love the heartbreak, you're the one I love (0.91) | Easy (0.000219) |
+| ONLY (0.892) | Mr. Simple (0.000219) |
+| Deep end (Felix) (0.879) | Tamed-Dashed (0.000253) |
+| Boy in time - HUI Solo (0.876) | Cyberpunk (0.000265) |
+| Run With Me (0.868) | Oh Sorry Ya (0.000315) |
+| Goodbye (0.861) | Red Light (0.000457) |
+| MY LOVE (0.859) | Attention, please! (0.000483) |
+| In The Fall (0.854) | Adios (0.000588) |
+| Amusement Park (0.85) | HALAZIA (0.000677) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Tippy Toes | Why So Lonely |
-| You and I (Park Bom) | Rollin' |
-| Adios | BBIBBI |
-| pporappippam | I GOT IT (HAN) |
-| Badster | Designer |
-| YEPPI YEPPI | L.I.E |
-| It′s Raining | Jazz Bar |
-| So Hot | Let Me In (20 CUBE) |
-| GingaMingaYo (the strange world) | Bing Bing |
-| I Am The Best | ANTIFRAGILE |
+| Tippy Toes (0.106) | Gangnam Style (강남스타일) (0.0) |
+| You and I (Park Bom) (0.0837) | Traffic light (0.0) |
+| Adios (0.0794) | SUPER BOARD (0.0) |
+| pporappippam (0.0652) | Clockwork (0.0) |
+| Badster (0.0444) | Shut Down (0.0) |
+| YEPPI YEPPI (0.0391) | SCIENTIST (0.0) |
+| It′s Raining (0.0233) | Beatbox (0.0) |
+| So Hot (0.00976) | Why Can't You Love Me? (0.0) |
+| GingaMingaYo (the strange world) (0.00955) | Ridin' (0.0) |
+| I Am The Best (0.00834) | BOSS (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| Heart Attack | PING PONG |
-| Piano Man | CASE 143 |
-| You Better Run | SNEAKERS |
-| Red Lipstick (feat. Yoonmirae) | That That (prod. & feat. SUGA of BTS) |
-| MAKE U DANCE (feat. EUNHA) | memeM |
-| Sticker | YEPPI YEPPI |
-| I Like That | Holiday Party |
-| Vibrato | Ice Cream (with Selena Gomez) |
-| 행복 (Happiness) | POP! |
-| LP | Up! |
+| Heart Attack (0.887) | PING PONG (0.0202) |
+| Piano Man (0.807) | CASE 143 (0.0222) |
+| You Better Run (0.803) | SNEAKERS (0.0223) |
+| Red Lipstick (feat. Yoonmirae) (0.792) | That That (prod. & feat. SUGA of BTS) (0.0272) |
+| MAKE U DANCE (feat. EUNHA) (0.792) | memeM (0.0287) |
+| Sticker (0.742) | YEPPI YEPPI (0.029) |
+| I Like That (0.737) | Holiday Party (0.0294) |
+| Vibrato (0.735) | Ice Cream (with Selena Gomez) (0.0311) |
+| 행복 (Happiness) (0.725) | POP! (0.0321) |
+| LP (0.714) | Up! (0.0326) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| Sour candy | The Road |
-| Twenty-three | Grey Suit |
-| Devil | 7월 7일 One Of These Nights |
-| Pepe | Good Night My Princess |
-| So Hot | Side Effects |
-| Miniskirt | In The Fall |
-| 쏘리 쏘리 Sorry, Sorry | My sea |
-| Twinkle | Time After Time |
-| Some (feat. Lil Boi) | U |
-| Give it to me | Lucid Dream |
+| Sour candy (0.98) | The Road (0.073) |
+| Twenty-three (0.968) | Grey Suit (0.0955) |
+| Devil (0.968) | 7월 7일 One Of These Nights (0.11) |
+| Pepe (0.966) | Good Night My Princess (0.112) |
+| So Hot (0.963) | Side Effects (0.118) |
+| Miniskirt (0.963) | In The Fall (0.12) |
+| Twinkle (0.962) | My sea (0.122) |
+| 쏘리 쏘리 Sorry, Sorry (0.962) | Time After Time (0.123) |
+| Lion Heart (0.961) | U (0.137) |
+| Give it to me (0.961) | Lucid Dream (0.146) |

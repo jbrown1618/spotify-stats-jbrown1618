@@ -104,91 +104,91 @@
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| Washington on Your Side | The Music Of The Night - From 'The Phantom Of The Opera' Motion Picture |
-| A Winter's Ball | All I Ask Of You - Reprise |
-| Blow Us All Away | All I Ask Of You - From 'The Phantom Of The Opera' Motion Picture |
-| The Adams Administration | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture |
-| Non-Stop | All I Ask Of You |
-| Yorktown (The World Turned Upside Down) | Overture |
-| The Reynolds Pamphlet | Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture |
-| Your Obedient Servant | Entr'Acte |
-| Stay Alive | All I Ask of You |
-| Guns and Ships | The Music Of The Night |
+| Washington on Your Side (0.884) | The Music Of The Night - From 'The Phantom Of The Opera' Motion Picture (0.169) |
+| A Winter's Ball (0.854) | All I Ask Of You - Reprise (0.191) |
+| Blow Us All Away (0.82) | All I Ask Of You - From 'The Phantom Of The Opera' Motion Picture (0.194) |
+| The Adams Administration (0.8) | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture (0.219) |
+| Non-Stop (0.77) | All I Ask Of You (0.222) |
+| Yorktown (The World Turned Upside Down) (0.76) | Overture (0.224) |
+| The Reynolds Pamphlet (0.751) | Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture (0.227) |
+| Your Obedient Servant (0.736) | Entr'Acte (0.231) |
+| Stay Alive (0.723) | All I Ask of You (0.236) |
+| Guns and Ships (0.72) | The Music Of The Night (0.239) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| Yorktown (The World Turned Upside Down) | A Little Fall Of Rain |
-| Guns and Ships | Magical Lasso |
-| The Phantom Of the Opera - From 'The Phantom Of The Opera' Motion Picture | Angel Of Music - From 'The Phantom Of The Opera' Motion Picture |
-| The Phantom Of The Opera | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture |
-| The Reynolds Pamphlet | All I Ask of You |
-| Washington on Your Side | All I Ask Of You - Reprise |
-| The Room Where It Happens | The Music Of The Night - From 'The Phantom Of The Opera' Motion Picture |
-| Non-Stop | Angel Of Music |
-| Wait for It | Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture |
-| Blow Us All Away | On My Own |
+| Yorktown (The World Turned Upside Down) (0.883) | A Little Fall Of Rain (0.0291) |
+| Guns and Ships (0.666) | Magical Lasso (0.0314) |
+| The Phantom Of the Opera - From 'The Phantom Of The Opera' Motion Picture (0.608) | Angel Of Music - From 'The Phantom Of The Opera' Motion Picture (0.0401) |
+| The Phantom Of The Opera (0.582) | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture (0.0617) |
+| The Reynolds Pamphlet (0.573) | All I Ask of You (0.0636) |
+| Washington on Your Side (0.521) | All I Ask Of You - Reprise (0.0679) |
+| The Room Where It Happens (0.49) | The Music Of The Night - From 'The Phantom Of The Opera' Motion Picture (0.0722) |
+| Non-Stop (0.482) | Angel Of Music (0.0808) |
+| Wait for It (0.473) | Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture (0.0813) |
+| Blow Us All Away (0.451) | On My Own (0.0816) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| Prologue | Dear Theodosia |
-| The World Was Wide Enough | Stars |
-| The Adams Administration | Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture |
-| A Winter's Ball | Overture / Work Song |
-| Your Obedient Servant | Entr'Acte |
-| Blow Us All Away | The Music Of The Night |
-| The Room Where It Happens | All I Ask of You |
-| Stay Alive | Do You Hear The People Sing? |
-| Non-Stop | On My Own |
-| Washington on Your Side | Think Of Me - From 'The Phantom Of The Opera' Motion Picture |
+| Prologue (0.748) | Dear Theodosia (0.0303) |
+| The World Was Wide Enough (0.648) | Stars (0.0307) |
+| The Adams Administration (0.544) | Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture (0.0317) |
+| A Winter's Ball (0.507) | Overture / Work Song (0.0328) |
+| Your Obedient Servant (0.502) | Entr'Acte (0.0353) |
+| Blow Us All Away (0.461) | The Music Of The Night (0.0367) |
+| The Room Where It Happens (0.426) | All I Ask of You (0.0377) |
+| Stay Alive (0.395) | Do You Hear The People Sing? (0.0379) |
+| Non-Stop (0.351) | On My Own (0.0381) |
+| Washington on Your Side (0.348) | Think Of Me - From 'The Phantom Of The Opera' Motion Picture (0.0387) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| All I Ask of You | Overture - From 'The Phantom Of The Opera' Motion Picture |
-| On My Own | Overture |
-| A Little Fall Of Rain | The Reynolds Pamphlet |
-| Angel Of Music - From 'The Phantom Of The Opera' Motion Picture | The Phantom Of The Opera |
-| Think Of Me - From 'The Phantom Of The Opera' Motion Picture | Wait for It |
-| Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture | Washington on Your Side |
-| Magical Lasso | The Phantom Of the Opera - From 'The Phantom Of The Opera' Motion Picture |
-| Angel Of Music | Non-Stop |
-| All I Ask Of You - Reprise | The Room Where It Happens |
-| Dear Theodosia | Your Obedient Servant |
+| All I Ask of You (0.98) | Overture - From 'The Phantom Of The Opera' Motion Picture (0.000596) |
+| On My Own (0.967) | Overture (0.00451) |
+| A Little Fall Of Rain (0.955) | The Reynolds Pamphlet (0.0277) |
+| Angel Of Music - From 'The Phantom Of The Opera' Motion Picture (0.954) | The Phantom Of The Opera (0.0533) |
+| Think Of Me - From 'The Phantom Of The Opera' Motion Picture (0.943) | Wait for It (0.124) |
+| Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture (0.936) | Washington on Your Side (0.165) |
+| Magical Lasso (0.934) | The Phantom Of the Opera - From 'The Phantom Of The Opera' Motion Picture (0.168) |
+| Angel Of Music (0.931) | Non-Stop (0.211) |
+| All I Ask Of You - Reprise (0.911) | The Room Where It Happens (0.271) |
+| Dear Theodosia (0.907) | Your Obedient Servant (0.293) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Entr'Acte | The World Was Wide Enough |
-| Overture | Think Of Me - From 'The Phantom Of The Opera' Motion Picture |
-| All I Ask Of You - Reprise | Angel Of Music - From 'The Phantom Of The Opera' Motion Picture |
-| Overture - From 'The Phantom Of The Opera' Motion Picture | Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture |
-| The Phantom Of The Opera | The Point Of No Return - From 'The Phantom Of The Opera' Motion Picture |
-| Wishing You Were Somehow Here Again | Notes / Prima Donna |
-| The Point Of No Return | Stars |
-| Little Lotte / The Mirror (Angel Of Music) | Masquerade / Why So Silent |
-| All I Ask of You | Prologue |
-| All I Ask Of You - From 'The Phantom Of The Opera' Motion Picture | Blow Us All Away |
+| Entr'Acte (0.42) | The World Was Wide Enough (0.0) |
+| Overture (0.245) | Do You Hear The People Sing? (0.0) |
+| All I Ask Of You - Reprise (0.0315) | Washington on Your Side (0.0) |
+| Overture - From 'The Phantom Of The Opera' Motion Picture (0.0276) | Prologue (0.0) |
+| The Phantom Of The Opera (0.0096) | The Point Of No Return - From 'The Phantom Of The Opera' Motion Picture (0.0) |
+| Wishing You Were Somehow Here Again (0.00674) | Masquerade / Why So Silent (0.0) |
+| The Point Of No Return (0.00348) | Stay Alive (0.0) |
+| Little Lotte / The Mirror (Angel Of Music) (0.0025) | The Room Where It Happens (0.0) |
+| All I Ask of You (0.00164) | A Winter's Ball (0.0) |
+| All I Ask Of You - From 'The Phantom Of The Opera' Motion Picture (0.000737) | Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| Yorktown (The World Turned Upside Down) | Your Obedient Servant |
-| Stars | Dear Theodosia |
-| The Point Of No Return - From 'The Phantom Of The Opera' Motion Picture | All I Ask Of You - Reprise |
-| The Room Where It Happens | Washington on Your Side |
-| Blow Us All Away | Think Of Me - From 'The Phantom Of The Opera' Motion Picture |
-| The Point Of No Return | Guns and Ships |
-| Entr'Acte | All I Ask of You |
-| Down Once More / Track Down This Murderer | Wishing You Were Somehow Here Again |
-| I Remember / Stranger Than You Dreamt It | A Winter's Ball |
-| Masquerade / Why So Silent | Who Lives, Who Dies, Who Tells Your Story |
+| Yorktown (The World Turned Upside Down) (0.727) | Your Obedient Servant (0.042) |
+| Stars (0.681) | Dear Theodosia (0.0723) |
+| The Point Of No Return - From 'The Phantom Of The Opera' Motion Picture (0.671) | All I Ask Of You - Reprise (0.0754) |
+| The Room Where It Happens (0.664) | Washington on Your Side (0.0756) |
+| Blow Us All Away (0.563) | Think Of Me - From 'The Phantom Of The Opera' Motion Picture (0.0798) |
+| The Point Of No Return (0.503) | Guns and Ships (0.0844) |
+| Entr'Acte (0.386) | All I Ask of You (0.085) |
+| Down Once More / Track Down This Murderer (0.341) | Wishing You Were Somehow Here Again (0.0882) |
+| I Remember / Stranger Than You Dreamt It (0.31) | A Winter's Ball (0.0889) |
+| Masquerade / Why So Silent (0.261) | Who Lives, Who Dies, Who Tells Your Story (0.0904) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| The Adams Administration | Wishing You Were Somehow Here Again |
-| Hakuna Matata - From "The Lion King" Soundtrack | Wandering Child / Bravo, Monsieur |
-| A Winter's Ball | Little Lotte / The Mirror (Angel Of Music) |
-| Blow Us All Away | Down Once More / Track Down This Murderer |
-| Your Obedient Servant | I Remember / Stranger Than You Dreamt It |
-| Stay Alive | All I Ask Of You - Reprise |
-| Alexander Hamilton | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture |
-| The Reynolds Pamphlet | Why Have You Brought Me Here |
-| Wait for It | The Point Of No Return |
-| The Room Where It Happens | Overture |
+| The Adams Administration (0.792) | Wishing You Were Somehow Here Again (0.0374) |
+| Hakuna Matata - From "The Lion King" Soundtrack (0.725) | Wandering Child / Bravo, Monsieur (0.0392) |
+| A Winter's Ball (0.688) | Little Lotte / The Mirror (Angel Of Music) (0.0465) |
+| Blow Us All Away (0.665) | Down Once More / Track Down This Murderer (0.0529) |
+| Your Obedient Servant (0.619) | I Remember / Stranger Than You Dreamt It (0.0574) |
+| Stay Alive (0.581) | All I Ask Of You - Reprise (0.0624) |
+| Alexander Hamilton (0.552) | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture (0.071) |
+| The Reynolds Pamphlet (0.538) | Why Have You Brought Me Here (0.0742) |
+| Wait for It (0.519) | The Point Of No Return (0.0757) |
+| The Room Where It Happens (0.511) | Overture (0.0781) |

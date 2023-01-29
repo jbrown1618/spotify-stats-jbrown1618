@@ -181,91 +181,91 @@
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| Typa Girl | Time After Time |
-| HEYDAY (Prod. Czaer) | BIBI Vengeance |
-| ANTIFRAGILE | HALAZIA |
-| Rose | SHOUT OUT |
-| LOVE | Blow |
-| Maknae On Top (I.N) | Birthday |
-| Shut Down | Dead Man Runnin’ |
-| On A Ride | Girls |
-| Ditto | Cruel |
-| CASE 143 | Come Alive |
+| Typa Girl (0.915) | Time After Time (0.415) |
+| HEYDAY (Prod. Czaer) (0.892) | BIBI Vengeance (0.442) |
+| ANTIFRAGILE (0.882) | HALAZIA (0.482) |
+| Rose (0.868) | SHOUT OUT (0.495) |
+| LOVE (0.853) | Birthday (0.535) |
+| Maknae On Top (I.N) (0.834) | Blow (0.535) |
+| Shut Down (0.82) | Dead Man Runnin’ (0.54) |
+| On A Ride (0.817) | Girls (0.57) |
+| Ditto (0.814) | Cruel (0.588) |
+| CASE 143 (0.812) | Come Alive (0.59) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| Girls | miss you (Hyunjin) |
-| RING ma Bell (what a wonderful world) | The Happiest Girl |
-| Hype Boy | Cruel |
-| After LIKE | Birthday |
-| 2 Baddies | Time After Time |
-| Alter Ego | Gold Dust |
-| Nxde | Animal Farm |
-| Talk that Talk | HELLO |
-| Designer | Crown |
-| Future Perfect (Pass the MIC) | Blow |
+| Girls (0.974) | miss you (Hyunjin) (0.226) |
+| RING ma Bell (what a wonderful world) (0.947) | The Happiest Girl (0.374) |
+| Hype Boy (0.935) | Cruel (0.494) |
+| After LIKE (0.922) | Birthday (0.528) |
+| 2 Baddies (0.921) | Time After Time (0.532) |
+| Alter Ego (0.917) | Gold Dust (0.537) |
+| Nxde (0.91) | Animal Farm (0.542) |
+| Talk that Talk (0.907) | HELLO (0.575) |
+| Designer (0.906) | Crown (0.58) |
+| Future Perfect (Pass the MIC) (0.9) | Blow (0.586) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| I GOT IT (HAN) | Cruel |
-| Girls | Beautiful Christmas |
-| Future Perfect (Pass the MIC) | Animal Farm |
-| 2 Baddies | The Happiest Girl |
-| Basics | Come Alive |
-| Hype Boy | Attention |
-| CASE 143 | Time After Time |
-| Birthday | Impurities |
-| Beautiful Liar | Shut Down |
-| Nxde | On A Ride |
+| I GOT IT (HAN) (0.365) | Cruel (0.0309) |
+| Girls (0.325) | Beautiful Christmas (0.0311) |
+| Future Perfect (Pass the MIC) (0.264) | Animal Farm (0.0315) |
+| 2 Baddies (0.258) | The Happiest Girl (0.0328) |
+| Basics (0.227) | Come Alive (0.0338) |
+| Hype Boy (0.225) | Attention (0.0368) |
+| CASE 143 (0.209) | Time After Time (0.037) |
+| Birthday (0.202) | Impurities (0.0373) |
+| Beautiful Liar (0.186) | Shut Down (0.038) |
+| Nxde (0.179) | On A Ride (0.0384) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| miss you (Hyunjin) | HALAZIA |
-| Gold Dust | Cruel |
-| ZOOM | Come Alive |
-| The Happiest Girl | I ≠ DOLL |
-| Crown | SHOUT OUT |
-| MOONLIGHT SUNRISE | Shut Down |
-| Hug Me (I.N) | Blow |
-| OMG | Hard to Love |
-| Cheshire | No Celestial |
-| BYE BYE | Pink Venom |
+| miss you (Hyunjin) (0.826) | HALAZIA (0.000677) |
+| Gold Dust (0.704) | Cruel (0.00137) |
+| ZOOM (0.696) | Come Alive (0.00288) |
+| The Happiest Girl (0.638) | I ≠ DOLL (0.00289) |
+| Crown (0.443) | SHOUT OUT (0.00315) |
+| MOONLIGHT SUNRISE (0.392) | Shut Down (0.00412) |
+| Hug Me (I.N) (0.358) | Blow (0.00437) |
+| OMG (0.357) | Hard to Love (0.00616) |
+| Cheshire (0.332) | No Celestial (0.0168) |
+| BYE BYE (0.32) | Pink Venom (0.017) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Girls | CASE 143 |
-| HALAZIA | After LIKE |
-| Crown | Future Perfect (Pass the MIC) |
-| Stamp On It | Attention |
-| BIBI Vengeance | Brave |
-| Priority | Time After Time |
-| Cruel | HEYDAY (Prod. Czaer) |
-| ZOOM | Hard to Love |
-| On A Ride | Sculpture |
-| Maknae On Top (I.N) | ParadoXXX Invasion |
+| Girls (0.000594) | Shut Down (0.0) |
+| HALAZIA (0.000575) | Gold Dust (0.0) |
+| Crown (0.000337) | Typa Girl (0.0) |
+| Stamp On It (0.000142) | Talk that Talk (0.0) |
+| BIBI Vengeance (0.000128) | Hype Boy (0.0) |
+| Priority (0.000127) | Rose (0.0) |
+| Cruel (0.000114) | miss you (Hyunjin) (0.0) |
+| ZOOM (5.39e-05) | Beautiful Liar (0.0) |
+| On A Ride (2.54e-05) | Beautiful Christmas (0.0) |
+| Maknae On Top (I.N) (1.97e-05) | 2 Baddies (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| Typa Girl | CASE 143 |
-| Animal Farm | Vitamin |
-| Forgive Me | HEYDAY (Prod. Czaer) |
-| Nxde | Rose |
-| SHOUT OUT | Scent of you |
-| BYE BYE | Maknae On Top (I.N) |
-| Cheshire | Birthday |
-| Gold Dust | Come Alive |
-| Time After Time | BIBI Vengeance |
-| Beautiful Liar | Outlaw |
+| Typa Girl (0.628) | CASE 143 (0.0222) |
+| Animal Farm (0.579) | Vitamin (0.0359) |
+| Forgive Me (0.485) | Rose (0.0363) |
+| Nxde (0.479) | HEYDAY (Prod. Czaer) (0.0363) |
+| SHOUT OUT (0.459) | Maknae On Top (I.N) (0.0374) |
+| BYE BYE (0.423) | Scent of you (0.0374) |
+| Cheshire (0.357) | Birthday (0.0491) |
+| Gold Dust (0.35) | Come Alive (0.0627) |
+| Time After Time (0.344) | BIBI Vengeance (0.0642) |
+| Beautiful Liar (0.339) | Outlaw (0.0644) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| Maknae On Top (I.N) | Time After Time |
-| Give Me Your TMI | Ditto |
-| I GOT IT (HAN) | Outlaw |
-| ANTIFRAGILE | Alter Ego |
-| Blow | Sculpture |
-| ZOOM | Dead Man Runnin’ |
-| Scent of you | miss you (Hyunjin) |
-| Hug Me (I.N) | Goddess Level |
-| Snowy | Change |
-| RING ma Bell (what a wonderful world) | Crown |
+| Maknae On Top (I.N) (0.883) | Time After Time (0.123) |
+| Give Me Your TMI (0.824) | Ditto (0.183) |
+| ANTIFRAGILE (0.824) | Outlaw (0.218) |
+| I GOT IT (HAN) (0.824) | Alter Ego (0.26) |
+| Blow (0.823) | Sculpture (0.261) |
+| ZOOM (0.823) | Dead Man Runnin’ (0.299) |
+| Hug Me (I.N) (0.813) | miss you (Hyunjin) (0.306) |
+| Scent of you (0.813) | Goddess Level (0.309) |
+| Snowy (0.813) | Change (0.313) |
+| RING ma Bell (what a wonderful world) (0.801) | Crown (0.34) |

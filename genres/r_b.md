@@ -18,7 +18,7 @@
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | Michael Jackson | [🔗](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb2e42d906f4f9f672359e7379" alt="" width="50" /> | Usher | [🔗](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebaed3c717bf1753ab928ea88d" alt="" width="50" /> | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd09edfd2babfc9fd2ba748e" alt="" width="50" /> | Daniel Caesar | [🔗](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) |
+| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf99727ed9dbe47a59126e17e" alt="" width="50" /> | Daniel Caesar | [🔗](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eba12641edfc4ffbbdf58f7d15" alt="" width="50" /> | Lil Jon | [🔗](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | Chris Brown | [🔗](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) |
 | 1 | <img src="https://i.scdn.co/image/5c8d57d92825466637905f0d4219064cb39333e9" alt="" width="50" /> | André 3000 | [🔗](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) |
@@ -123,91 +123,91 @@
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| Billie Jean | I'd Rather Go Blind |
-| P.Y.T. (Pretty Young Thing) | Ave Maria |
-| Yeah! (feat. Lil Jon & Ludacris) | All of Me |
-| Don't Stop 'Til You Get Enough | Listen (From the Motion Picture "Dreamgirls") |
-| I Don't Mind (feat. Juicy J) | Irreplaceable |
-| Smooth Criminal - 2012 Remaster | Heartbreak Anniversary |
-| Wanna Be Startin' Somethin' | Teach You - Acoustic |
-| Bootylicious | Preach |
-| Cravin (feat. G-Eazy) | Halo |
-| Man in the Mirror - 2012 Remaster | Hold Up |
+| Billie Jean (0.932) | I'd Rather Go Blind (0.326) |
+| Yeah! (feat. Lil Jon & Ludacris) (0.894) | Ave Maria (0.35) |
+| P.Y.T. (Pretty Young Thing) (0.894) | All of Me (0.422) |
+| Don't Stop 'Til You Get Enough (0.878) | Listen (From the Motion Picture "Dreamgirls") (0.432) |
+| I Don't Mind (feat. Juicy J) (0.87) | Irreplaceable (0.447) |
+| Smooth Criminal - 2012 Remaster (0.853) | Heartbreak Anniversary (0.449) |
+| Wanna Be Startin' Somethin' (0.842) | Teach You - Acoustic (0.497) |
+| Bootylicious (0.835) | Preach (0.508) |
+| Cravin (feat. G-Eazy) (0.834) | Halo (0.508) |
+| Man in the Mirror - 2012 Remaster (0.808) | Hold Up (0.524) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| Smooth Criminal - 2012 Remaster | All of Me |
-| Green Light (feat. André 3000) | Teach You - Acoustic |
-| Wanna Be Startin' Somethin' | Best Part (feat. H.E.R.) |
-| DJ Got Us Fallin' In Love (feat. Pitbull) | Hold Up |
-| When I Get You Alone | Ave Maria |
-| Bootylicious | Me & U |
-| Sweet Dreams | Billie Jean |
-| Don't Stop 'Til You Get Enough | I Don't Mind (feat. Juicy J) |
-| Man in the Mirror - 2012 Remaster | Heartbreak Anniversary |
-| Beat It | Who Hurt You? |
+| Smooth Criminal - 2012 Remaster (0.981) | All of Me (0.264) |
+| Green Light (feat. André 3000) (0.882) | Teach You - Acoustic (0.304) |
+| Wanna Be Startin' Somethin' (0.872) | Best Part (feat. H.E.R.) (0.364) |
+| DJ Got Us Fallin' In Love (feat. Pitbull) (0.861) | Hold Up (0.397) |
+| When I Get You Alone (0.857) | Ave Maria (0.403) |
+| Bootylicious (0.833) | Me & U (0.454) |
+| Sweet Dreams (0.825) | Billie Jean (0.457) |
+| Don't Stop 'Til You Get Enough (0.821) | I Don't Mind (feat. Juicy J) (0.464) |
+| Man in the Mirror - 2012 Remaster (0.812) | Heartbreak Anniversary (0.465) |
+| Beat It (0.8) | Who Hurt You? (0.493) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| Hold Up | Ave Maria |
-| Irreplaceable | One Step At a Time |
-| Bootylicious | Me & U |
-| Cravin (feat. G-Eazy) | If I Were a Boy |
-| Crazy In Love (feat. Jay-Z) | I'd Rather Go Blind |
-| Daddy Lessons | All of Me |
-| I Don't Mind (feat. Juicy J) | Best Thing I Never Had |
-| Countdown | I Was Here |
-| Green Light (feat. André 3000) | Best Part (feat. H.E.R.) |
-| Yeah! (feat. Lil Jon & Ludacris) | Man in the Mirror - 2012 Remaster |
+| Hold Up (0.405) | Ave Maria (0.0279) |
+| Irreplaceable (0.382) | One Step At a Time (0.0289) |
+| Bootylicious (0.284) | Me & U (0.0294) |
+| Cravin (feat. G-Eazy) (0.246) | If I Were a Boy (0.0313) |
+| Crazy In Love (feat. Jay-Z) (0.226) | I'd Rather Go Blind (0.032) |
+| Daddy Lessons (0.216) | All of Me (0.0322) |
+| I Don't Mind (feat. Juicy J) (0.178) | Best Thing I Never Had (0.0324) |
+| Countdown (0.151) | I Was Here (0.0335) |
+| Green Light (feat. André 3000) (0.119) | Best Part (feat. H.E.R.) (0.0367) |
+| Yeah! (feat. Lil Jon & Ludacris) (0.112) | Man in the Mirror - 2012 Remaster (0.0381) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| All of Me | Bootylicious |
-| Teach You - Acoustic | Crazy In Love (feat. Jay-Z) |
-| Best Part (feat. H.E.R.) | Billie Jean |
-| Ave Maria | Yeah! (feat. Lil Jon & Ludacris) |
-| Hold Up | No Scrubs |
-| Who Hurt You? | Wanna Be Startin' Somethin' |
-| Heartbreak Anniversary | Sure Thing |
-| Man in the Mirror - 2012 Remaster | Beat It |
-| I Was Here | Irreplaceable |
-| Listen (From the Motion Picture "Dreamgirls") | Thriller |
+| All of Me (0.922) | Bootylicious (0.00247) |
+| Teach You - Acoustic (0.899) | Crazy In Love (feat. Jay-Z) (0.00249) |
+| Best Part (feat. H.E.R.) (0.808) | Billie Jean (0.0173) |
+| Ave Maria (0.786) | Yeah! (feat. Lil Jon & Ludacris) (0.0183) |
+| Hold Up (0.745) | No Scrubs (0.0251) |
+| Who Hurt You? (0.586) | Wanna Be Startin' Somethin' (0.0259) |
+| Heartbreak Anniversary (0.524) | Sure Thing (0.0267) |
+| Man in the Mirror - 2012 Remaster (0.52) | Beat It (0.027) |
+| I Was Here (0.431) | Irreplaceable (0.0293) |
+| Listen (From the Motion Picture "Dreamgirls") (0.416) | Thriller (0.0318) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Smooth Criminal - 2012 Remaster | Me & U |
-| Wanna Be Startin' Somethin' | Bootylicious |
-| Don't Stop 'Til You Get Enough | Green Light (feat. André 3000) |
-| Billie Jean | All of Me |
-| No Scrubs | Preach |
-| P.Y.T. (Pretty Young Thing) | City Girls |
-| Sure Thing | When I Get You Alone |
-| Thriller | Best Part (feat. H.E.R.) |
-| Who Hurt You? | There Goes My Baby |
-| Man in the Mirror - 2012 Remaster | Yeah! (feat. Lil Jon & Ludacris) |
+| Smooth Criminal - 2012 Remaster (0.468) | Hold Up (0.0) |
+| Wanna Be Startin' Somethin' (0.419) | Best Part (feat. H.E.R.) (0.0) |
+| Don't Stop 'Til You Get Enough (0.0461) | Ave Maria (0.0) |
+| Billie Jean (0.0436) | When I Get You Alone (0.0) |
+| No Scrubs (0.000717) | City Girls (0.0) |
+| P.Y.T. (Pretty Young Thing) (0.000363) | Love On Top (0.0) |
+| Sure Thing (0.000307) | If I Were a Boy (0.0) |
+| Thriller (0.000225) | Preach (0.0) |
+| Who Hurt You? (0.000167) | Bootylicious (0.0) |
+| Man in the Mirror - 2012 Remaster (7.91e-05) | Halo (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| Thriller | One Step At a Time |
-| Love On Top | Yeah! (feat. Lil Jon & Ludacris) |
-| Hold Up | Billie Jean |
-| If I Were a Boy | When I Get You Alone |
-| Daddy Lessons | City Girls |
-| Smooth Criminal - 2012 Remaster | Halo |
-| Heartbreak Anniversary | Wanna Be Startin' Somethin' |
-| Hit 'Em Up Style (Oops!) | Sweet Dreams |
-| Countdown | Me & U |
-| Green Light (feat. André 3000) | Who Hurt You? |
+| Thriller (0.89) | One Step At a Time (0.0384) |
+| Love On Top (0.604) | Yeah! (feat. Lil Jon & Ludacris) (0.0388) |
+| Hold Up (0.521) | Billie Jean (0.0414) |
+| If I Were a Boy (0.354) | When I Get You Alone (0.0549) |
+| Daddy Lessons (0.349) | City Girls (0.0554) |
+| Smooth Criminal - 2012 Remaster (0.306) | Halo (0.0563) |
+| Heartbreak Anniversary (0.303) | Wanna Be Startin' Somethin' (0.0573) |
+| Hit 'Em Up Style (Oops!) (0.289) | Sweet Dreams (0.0618) |
+| Countdown (0.219) | Me & U (0.0655) |
+| Green Light (feat. André 3000) (0.216) | Who Hurt You? (0.0667) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| P.Y.T. (Pretty Young Thing) | Listen (From the Motion Picture "Dreamgirls") |
-| Don't Stop 'Til You Get Enough | Ave Maria |
-| Wanna Be Startin' Somethin' | I Was Here |
-| Beat It | There Goes My Baby |
-| Billie Jean | Man in the Mirror - 2012 Remaster |
-| City Girls | Who Hurt You? |
-| Sweet Dreams | I'd Rather Go Blind |
-| Thriller | Best Thing I Never Had |
-| Green Light (feat. André 3000) | All of Me |
-| Me & U | Preach |
+| P.Y.T. (Pretty Young Thing) (0.961) | Listen (From the Motion Picture "Dreamgirls") (0.187) |
+| Don't Stop 'Til You Get Enough (0.947) | Ave Maria (0.201) |
+| Wanna Be Startin' Somethin' (0.906) | I Was Here (0.235) |
+| Beat It (0.9) | There Goes My Baby (0.257) |
+| Billie Jean (0.884) | Man in the Mirror - 2012 Remaster (0.269) |
+| City Girls (0.815) | Who Hurt You? (0.277) |
+| Sweet Dreams (0.788) | I'd Rather Go Blind (0.289) |
+| Thriller (0.783) | Best Thing I Never Had (0.298) |
+| Green Light (feat. André 3000) (0.762) | All of Me (0.331) |
+| Me & U (0.739) | Preach (0.412) |

@@ -19,7 +19,7 @@
 |---:|:---|:---|:---|
 | 17 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | [Lana Del Rey](../../artists/lana_del_rey.md) | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
 | 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | [Florence + The Machine](../../artists/florence___the_machine.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
-| 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f1004879ac217c8caa0a066" alt="" width="50" /> | [Kimbra](../../artists/kimbra.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
+| 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb4765d540a1ebedeb7c9637a2" alt="" width="50" /> | [Kimbra](../../artists/kimbra.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 | 10 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../../artists/radiohead.md) | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | Imogen Heap | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5ebec40474426f4401a4203dc9f" alt="" width="50" /> | Sia | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
@@ -315,7 +315,7 @@
 | 22 | [dance pop](../../genres/dance_pop.md) |
 | 20 | modern rock |
 | 20 | [art pop](../../genres/art_pop.md) |
-| 19 | [electropop](../../genres/electropop.md) |
+| 18 | [electropop](../../genres/electropop.md) |
 | 17 | baroque pop |
 | 16 | uk alternative pop |
 | 16 | permanent wave |
@@ -402,13 +402,13 @@
 | 1 | industrial |
 | 1 | indie rock italiano |
 | 1 | indie poptimism |
+| 1 | indie folk |
 | 1 | grunge |
 | 1 | folk-pop |
 | 1 | escape room |
 | 1 | elephant 6 |
 | 1 | electronic rock |
 | 1 | dutch pop |
-| 1 | downtempo |
 
 </details>
 
@@ -469,91 +469,91 @@
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| Fidelity | Pyramid Song |
-| On the Radio | Born To Die |
-| Somebody That I Used To Know | Norman fucking Rockwell |
-| Good Intent | Paranoid Android |
-| Dreamer | No Surprises |
-| Rather Be (feat. Jess Glynne) | Shades Of Cool |
-| Tick Tock (feat. 24kGoldn) | That's Where I Am |
-| still feel. | In the Aeroplane Over the Sea |
-| Believer | Radio |
-| Recovery | What Kind Of Man |
+| Fidelity (0.923) | Pyramid Song (0.127) |
+| On the Radio (0.88) | Born To Die (0.18) |
+| Somebody That I Used To Know (0.864) | Norman fucking Rockwell (0.215) |
+| Good Intent (0.851) | Paranoid Android (0.252) |
+| Dreamer (0.802) | No Surprises (0.255) |
+| Rather Be (feat. Jess Glynne) (0.799) | Shades Of Cool (0.262) |
+| still feel. (0.779) | That's Where I Am (0.269) |
+| Tick Tock (feat. 24kGoldn) (0.779) | In the Aeroplane Over the Sea (0.271) |
+| Believer (0.776) | Radio (0.312) |
+| 1979 - Remastered 2012 (0.767) | What Kind Of Man (0.313) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| Knights of Cydonia | Mad World |
-| End Of All Hope | Used |
-| My Happy Ending | Hurt |
-| Everybody Talks | Hide and Seek |
-| Cameo Lover | Honeybee |
-| Supermassive Black Hole | Samson |
-| Like They Do on the TV | Norman fucking Rockwell |
-| Misery Business | I Will Follow You into the Dark |
-| Ain't It Fun | Dreamer |
-| Gimme Sympathy | Icarus |
+| Knights of Cydonia (0.963) | Mad World (0.0585) |
+| End Of All Hope (0.946) | Used (0.0938) |
+| My Happy Ending (0.936) | Hurt (0.158) |
+| Everybody Talks (0.924) | Hide and Seek (0.166) |
+| Cameo Lover (0.922) | Honeybee (0.186) |
+| Supermassive Black Hole (0.921) | Samson (0.193) |
+| Like They Do on the TV (0.911) | Norman fucking Rockwell (0.203) |
+| Misery Business (0.906) | I Will Follow You into the Dark (0.206) |
+| Ain't It Fun (0.893) | Dreamer (0.223) |
+| Gimme Sympathy (0.886) | Icarus (0.225) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| Cheap Thrills (feat. Sean Paul) | Breakeven |
-| G Train | Speeding Cars |
-| Eye of the Needle | Come On Closer |
-| Knights of Cydonia | High And Dry |
-| Stressed Out | Karma Police |
-| That Man | Reckoner |
-| Like They Do on the TV | Meant |
-| Believer | What Sarah Said |
-| Say My Name | Odi Et Amo |
-| Accidntel Deth | Love |
+| Cheap Thrills (feat. Sean Paul) (0.201) | Breakeven (0.0242) |
+| G Train (0.192) | Speeding Cars (0.0247) |
+| Eye of the Needle (0.144) | Come On Closer (0.025) |
+| Knights of Cydonia (0.142) | High And Dry (0.0257) |
+| Stressed Out (0.141) | Karma Police (0.026) |
+| That Man (0.138) | Reckoner (0.0262) |
+| Like They Do on the TV (0.134) | Meant (0.0267) |
+| Believer (0.128) | What Sarah Said (0.0268) |
+| Say My Name (0.125) | Odi Et Amo (0.0275) |
+| Accidntel Deth (0.123) | Love (0.0277) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| Mad World | The Phantom Of The Opera |
-| The Night We Met | End Of All Hope |
-| Norman fucking Rockwell | Nemo |
-| Meant to Move | Knights of Cydonia |
-| Used | Portions for Foxes |
-| Icarus | My Happy Ending |
-| I Will Follow You into the Dark | Maniac |
-| Hide and Seek | Kiss With A Fist |
-| Plain Gold Ring | SILENCE |
-| Unknown (To You) | Misery Business |
+| Mad World (0.976) | The Phantom Of The Opera (7.33e-06) |
+| The Night We Met (0.969) | End Of All Hope (6.14e-05) |
+| Norman fucking Rockwell (0.968) | Nemo (0.000185) |
+| Meant to Move (0.959) | Knights of Cydonia (0.000273) |
+| Used (0.938) | Portions for Foxes (0.000938) |
+| Icarus (0.931) | My Happy Ending (0.00136) |
+| I Will Follow You into the Dark (0.924) | Maniac (0.00162) |
+| Hide and Seek (0.909) | Kiss With A Fist (0.00254) |
+| Plain Gold Ring (0.9) | SILENCE (0.00271) |
+| Fuck it I love you (0.895) | Misery Business (0.00272) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| A Better Son/Daughter | I'm Not Calling You A Liar |
-| Animals | The Man Who Can't Be Moved |
-| Weird Fishes/ Arpeggi | VILLAIN |
-| Street Spirit (Fade Out) | The Good War |
-| 1979 - Remastered 2012 | Flesh & Bone |
-| Coal Miners | Dark Paradise |
-| Pyramid Song | Everybody Talks |
-| Swan Song | What Kind Of Man |
-| The Night We Met | Say My Name |
-| Mantra for a Struggling Artist | Boom |
+| A Better Son/Daughter (0.91) | You Oughta Know (0.0) |
+| Animals (0.796) | You've Got The Love (0.0) |
+| Weird Fishes/ Arpeggi (0.756) | Flesh & Bone (0.0) |
+| Street Spirit (Fade Out) (0.691) | Believer (0.0) |
+| 1979 - Remastered 2012 (0.583) | Black Horse And The Cherry Tree (0.0) |
+| Coal Miners (0.487) | Dark Paradise (0.0) |
+| Pyramid Song (0.427) | G Train (0.0) |
+| Swan Song (0.421) | Take Me to Church (0.0) |
+| The Night We Met (0.267) | Come On Closer (0.0) |
+| Mantra for a Struggling Artist (0.216) | The Feeling (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| Bel Air | Ain't It Fun |
-| Whatever We Feel | Seven Devils |
-| You Oughta Know | still feel. |
-| Animals | 1979 - Remastered 2012 |
-| Radioactive | Paranoid Android |
-| The Night We Met | Icarus |
-| Saw It Coming | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] |
-| No Light, No Light | Say My Name |
-| Darling | Stressed Out |
-| Off To The Races | The Other Side Of Paradise |
+| Bel Air (0.901) | Ain't It Fun (0.021) |
+| Whatever We Feel (0.75) | Seven Devils (0.0477) |
+| You Oughta Know (0.736) | still feel. (0.0492) |
+| Animals (0.696) | 1979 - Remastered 2012 (0.0513) |
+| Radioactive (0.668) | Paranoid Android (0.0545) |
+| The Night We Met (0.641) | Icarus (0.0582) |
+| Saw It Coming (0.456) | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (0.0585) |
+| No Light, No Light (0.444) | Say My Name (0.0596) |
+| Darling (0.441) | Stressed Out (0.0602) |
+| Off To The Races (0.4) | The Other Side Of Paradise (0.0649) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| 1979 - Remastered 2012 | Swan Song |
-| Tick Tock (feat. 24kGoldn) | What Sarah Said |
-| Earth | A Better Son/Daughter |
-| Come On Closer | Pyramid Song |
-| Black Horse And The Cherry Tree | Waltz Me to the Grave |
-| That Man | How Big, How Blue, How Beautiful |
-| Good Intent | Hurt |
-| Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] | Shades Of Cool |
-| Flesh & Bone | Hide and Seek |
-| Kick It to Me | The Good War |
+| 1979 - Remastered 2012 (0.964) | Swan Song (0.0392) |
+| Tick Tock (feat. 24kGoldn) (0.946) | What Sarah Said (0.0401) |
+| Earth (0.938) | A Better Son/Daughter (0.0473) |
+| Come On Closer (0.928) | Pyramid Song (0.0686) |
+| Black Horse And The Cherry Tree (0.917) | Waltz Me to the Grave (0.0748) |
+| That Man (0.903) | How Big, How Blue, How Beautiful (0.0825) |
+| Good Intent (0.834) | Hurt (0.0826) |
+| Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (0.824) | Shades Of Cool (0.0878) |
+| Flesh & Bone (0.824) | Hide and Seek (0.0901) |
+| Kick It to Me (0.82) | The Good War (0.0928) |

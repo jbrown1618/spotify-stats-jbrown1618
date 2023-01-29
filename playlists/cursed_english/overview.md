@@ -136,91 +136,91 @@
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| SNEAKERS (English Ver.) | Life's Too Short (English Version) |
-| Cat & Dog (English Version) | Levanter - English Ver. |
-| Do It Like This - English Version | HWAA - English Version |
-| In the morning - English Ver. | I CAN'T STOP ME (English Version) |
-| WANNABE - English Ver. | HELICOPTER - English Version |
-| ICY - English Ver. | Highway to Heaven - English Version |
-| DALLA DALLA - English Ver. | DOMINO - English Ver. |
-| LATATA - English Ver. | Bewitched - Eng Ver. |
-| Oh my god - English Version | RBB (Really Bad Boy) - English Version |
-| Not Shy - English Ver. | Bad Boy - English Version, Bonus Track |
+| SNEAKERS (English Ver.) (0.92) | Life's Too Short (English Version) (0.472) |
+| Cat & Dog (English Version) (0.841) | Levanter - English Ver. (0.581) |
+| Do It Like This - English Version (0.837) | HWAA - English Version (0.606) |
+| In the morning - English Ver. (0.834) | I CAN'T STOP ME (English Version) (0.645) |
+| WANNABE - English Ver. (0.822) | HELICOPTER - English Version (0.651) |
+| ICY - English Ver. (0.82) | Highway to Heaven - English Version (0.676) |
+| DALLA DALLA - English Ver. (0.813) | DOMINO - English Ver. (0.68) |
+| LATATA - English Ver. (0.801) | Bewitched - Eng Ver. (0.696) |
+| Oh my god - English Version (0.794) | RBB (Really Bad Boy) - English Version (0.717) |
+| Not Shy - English Ver. (0.766) | Bad Boy - English Version, Bonus Track (0.723) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| LUNATIC (English Ver.) | Love Talk - English Version |
-| Bewitched - Eng Ver. | Bad Boy - English Version, Bonus Track |
-| Not Shy - English Ver. | Levanter - English Ver. |
-| WANNABE - English Ver. | Highway to Heaven - English Version |
-| ICY - English Ver. | Regular - English Version |
-| HELICOPTER - English Version | Oh my god - English Version |
-| I CAN'T STOP ME (English Version) | Do It Like This - English Version |
-| DOMINO - English Ver. | In the morning - English Ver. |
-| LOCO - English Ver. | Life's Too Short (English Version) |
-| RBB (Really Bad Boy) - English Version | Cat & Dog (English Version) |
+| LUNATIC (English Ver.) (0.943) | Love Talk - English Version (0.719) |
+| Bewitched - Eng Ver. (0.909) | Bad Boy - English Version, Bonus Track (0.726) |
+| Not Shy - English Ver. (0.902) | Levanter - English Ver. (0.727) |
+| WANNABE - English Ver. (0.902) | Highway to Heaven - English Version (0.74) |
+| ICY - English Ver. (0.901) | Regular - English Version (0.747) |
+| HELICOPTER - English Version (0.89) | Oh my god - English Version (0.756) |
+| I CAN'T STOP ME (English Version) (0.881) | Do It Like This - English Version (0.785) |
+| DOMINO - English Ver. (0.877) | In the morning - English Ver. (0.786) |
+| RBB (Really Bad Boy) - English Version (0.867) | Cat & Dog (English Version) (0.8) |
+| LOCO - English Ver. (0.867) | Life's Too Short (English Version) (0.8) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| Life's Too Short (English Version) | RBB (Really Bad Boy) - English Version |
-| LATATA - English Ver. | Love Talk - English Version |
-| LOCO - English Ver. | Oh my god - English Version |
-| In the morning - English Ver. | DOMINO - English Ver. |
-| Make A Wish (Birthday Song) - English Version | Bad Boy - English Version, Bonus Track |
-| Bewitched - Eng Ver. | Highway to Heaven - English Version |
-| ICY - English Ver. | Levanter - English Ver. |
-| Do It Like This - English Version | WANNABE - English Ver. |
-| Cat & Dog (English Version) | SNEAKERS (English Ver.) |
-| I CAN'T STOP ME (English Version) | MORE & MORE (English Version) |
+| Life's Too Short (English Version) (0.265) | RBB (Really Bad Boy) - English Version (0.0319) |
+| LATATA - English Ver. (0.231) | Love Talk - English Version (0.0373) |
+| LOCO - English Ver. (0.216) | Oh my god - English Version (0.0402) |
+| In the morning - English Ver. (0.168) | DOMINO - English Ver. (0.0425) |
+| Make A Wish (Birthday Song) - English Version (0.144) | Bad Boy - English Version, Bonus Track (0.043) |
+| Bewitched - Eng Ver. (0.115) | Highway to Heaven - English Version (0.0494) |
+| ICY - English Ver. (0.111) | Levanter - English Ver. (0.0566) |
+| Do It Like This - English Version (0.108) | WANNABE - English Ver. (0.0587) |
+| I CAN'T STOP ME (English Version) (0.107) | SNEAKERS (English Ver.) (0.0588) |
+| Cat & Dog (English Version) (0.107) | MORE & MORE (English Version) (0.0613) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| Life's Too Short (English Version) | DALLA DALLA - English Ver. |
-| Not Shy - English Ver. | Highway to Heaven - English Version |
-| Regular - English Version | WANNABE - English Ver. |
-| Bad Boy - English Version, Bonus Track | LOCO - English Ver. |
-| I CAN'T STOP ME (English Version) | Levanter - English Ver. |
-| Love Talk - English Version | RBB (Really Bad Boy) - English Version |
-| LUNATIC (English Ver.) | LATATA - English Ver. |
-| In the morning - English Ver. | SNEAKERS (English Ver.) |
-| Make A Wish (Birthday Song) - English Version | Bewitched - Eng Ver. |
-| Cat & Dog (English Version) | DOMINO - English Ver. |
+| Life's Too Short (English Version) (0.289) | DALLA DALLA - English Ver. (0.00102) |
+| Not Shy - English Ver. (0.283) | Highway to Heaven - English Version (0.00257) |
+| Regular - English Version (0.263) | WANNABE - English Ver. (0.00392) |
+| Bad Boy - English Version, Bonus Track (0.21) | LOCO - English Ver. (0.00781) |
+| I CAN'T STOP ME (English Version) (0.173) | Levanter - English Ver. (0.00912) |
+| Love Talk - English Version (0.142) | RBB (Really Bad Boy) - English Version (0.0117) |
+| LUNATIC (English Ver.) (0.0835) | LATATA - English Ver. (0.015) |
+| In the morning - English Ver. (0.0672) | SNEAKERS (English Ver.) (0.0188) |
+| Make A Wish (Birthday Song) - English Version (0.0582) | Bewitched - Eng Ver. (0.0258) |
+| Cat & Dog (English Version) (0.0501) | DOMINO - English Ver. (0.0277) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Oh my god - English Version | Love Talk - English Version |
-| WANNABE - English Ver. | Life's Too Short (English Version) |
-| RBB (Really Bad Boy) - English Version | DOMINO - English Ver. |
-| In the morning - English Ver. | LUNATIC (English Ver.) |
-| LOCO - English Ver. | Bewitched - Eng Ver. |
-| Highway to Heaven - English Version | Levanter - English Ver. |
-| DALLA DALLA - English Ver. | Make A Wish (Birthday Song) - English Version |
-| Cat & Dog (English Version) | Do It Like This - English Version |
-| Regular - English Version | I CAN'T STOP ME (English Version) |
-| SNEAKERS (English Ver.) | Bad Boy - English Version, Bonus Track |
+| Oh my god - English Version (0.000351) | DOMINO - English Ver. (0.0) |
+| WANNABE - English Ver. (0.000102) | Make A Wish (Birthday Song) - English Version (0.0) |
+| RBB (Really Bad Boy) - English Version (5.46e-05) | Love Talk - English Version (0.0) |
+| In the morning - English Ver. (2.21e-05) | Life's Too Short (English Version) (0.0) |
+| LOCO - English Ver. (1.63e-05) | HELICOPTER - English Version (0.0) |
+| Highway to Heaven - English Version (1.59e-05) | I CAN'T STOP ME (English Version) (0.0) |
+| DALLA DALLA - English Ver. (9.42e-06) | Do It Like This - English Version (0.0) |
+| Cat & Dog (English Version) (6.73e-06) | Levanter - English Ver. (0.0) |
+| Regular - English Version (5.15e-06) | Bewitched - Eng Ver. (0.0) |
+| SNEAKERS (English Ver.) (4.61e-06) | LUNATIC (English Ver.) (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| Levanter - English Ver. | SNEAKERS (English Ver.) |
-| I CAN'T STOP ME (English Version) | Make A Wish (Birthday Song) - English Version |
-| HELICOPTER - English Version | Bad Boy - English Version, Bonus Track |
-| LOCO - English Ver. | In the morning - English Ver. |
-| DALLA DALLA - English Ver. | DOMINO - English Ver. |
-| LATATA - English Ver. | Highway to Heaven - English Version |
-| Regular - English Version | HWAA - English Version |
-| Oh my god - English Version | Do It Like This - English Version |
-| ICY - English Ver. | LUNATIC (English Ver.) |
-| WANNABE - English Ver. | RBB (Really Bad Boy) - English Version |
+| Levanter - English Ver. (0.544) | SNEAKERS (English Ver.) (0.0242) |
+| I CAN'T STOP ME (English Version) (0.427) | Make A Wish (Birthday Song) - English Version (0.0528) |
+| HELICOPTER - English Version (0.425) | Bad Boy - English Version, Bonus Track (0.061) |
+| LOCO - English Ver. (0.351) | In the morning - English Ver. (0.0701) |
+| DALLA DALLA - English Ver. (0.329) | DOMINO - English Ver. (0.0731) |
+| LATATA - English Ver. (0.3) | Highway to Heaven - English Version (0.0782) |
+| Regular - English Version (0.266) | HWAA - English Version (0.0803) |
+| Oh my god - English Version (0.253) | Do It Like This - English Version (0.117) |
+| ICY - English Ver. (0.215) | LUNATIC (English Ver.) (0.117) |
+| WANNABE - English Ver. (0.192) | RBB (Really Bad Boy) - English Version (0.118) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| LUNATIC (English Ver.) | HWAA - English Version |
-| Bad Boy - English Version, Bonus Track | RBB (Really Bad Boy) - English Version |
-| Regular - English Version | Cat & Dog (English Version) |
-| ICY - English Ver. | Bewitched - Eng Ver. |
-| I CAN'T STOP ME (English Version) | Do It Like This - English Version |
-| In the morning - English Ver. | Love Talk - English Version |
-| DALLA DALLA - English Ver. | Levanter - English Ver. |
-| DOMINO - English Ver. | Highway to Heaven - English Version |
-| WANNABE - English Ver. | Oh my god - English Version |
-| HELICOPTER - English Version | LOCO - English Ver. |
+| LUNATIC (English Ver.) (0.894) | HWAA - English Version (0.235) |
+| Bad Boy - English Version, Bonus Track (0.839) | RBB (Really Bad Boy) - English Version (0.376) |
+| Regular - English Version (0.831) | Cat & Dog (English Version) (0.382) |
+| ICY - English Ver. (0.815) | Bewitched - Eng Ver. (0.401) |
+| I CAN'T STOP ME (English Version) (0.76) | Do It Like This - English Version (0.406) |
+| In the morning - English Ver. (0.757) | Love Talk - English Version (0.437) |
+| DALLA DALLA - English Ver. (0.696) | Levanter - English Ver. (0.448) |
+| WANNABE - English Ver. (0.69) | Highway to Heaven - English Version (0.497) |
+| DOMINO - English Ver. (0.69) | Oh my god - English Version (0.518) |
+| HELICOPTER - English Version (0.683) | LOCO - English Ver. (0.534) |

@@ -28,7 +28,7 @@
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebaed3c717bf1753ab928ea88d" alt="" width="50" /> | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb727a2ac15afe659be999beba" alt="" width="50" /> | Doja Cat | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | JAY-Z | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd09edfd2babfc9fd2ba748e" alt="" width="50" /> | Daniel Caesar | [🔗](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) |
+| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf99727ed9dbe47a59126e17e" alt="" width="50" /> | Daniel Caesar | [🔗](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebb5f9e28219c169fd4b9e8379" alt="" width="50" /> | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eba12641edfc4ffbbdf58f7d15" alt="" width="50" /> | Lil Jon | [🔗](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd66f1e0c883f319443d68c45" alt="" width="50" /> | Lil Nas X | [🔗](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) |
@@ -300,91 +300,91 @@
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| Coño | I'd Rather Go Blind |
-| Yeah! (feat. Lil Jon & Ludacris) | Ave Maria |
-| I Don't Mind (feat. Juicy J) | Unknown (To You) |
-| Make Me Feel | Half Of Me |
-| Bubblegum (feat. Tyga) | What Now |
-| That's What I Like | All of Me |
-| Bootylicious | Listen (From the Motion Picture "Dreamgirls") |
-| Don't Stop The Music | Irreplaceable |
-| Crazy | So Sick |
-| You Right | I'd Rather Go Blind |
+| Coño (0.899) | I'd Rather Go Blind (0.326) |
+| Yeah! (feat. Lil Jon & Ludacris) (0.894) | Ave Maria (0.35) |
+| I Don't Mind (feat. Juicy J) (0.87) | Unknown (To You) (0.367) |
+| Make Me Feel (0.859) | Half Of Me (0.391) |
+| Bubblegum (feat. Tyga) (0.856) | What Now (0.402) |
+| That's What I Like (0.853) | All of Me (0.422) |
+| Bootylicious (0.835) | Listen (From the Motion Picture "Dreamgirls") (0.432) |
+| Crazy (0.835) | Irreplaceable (0.447) |
+| Don't Stop The Music (0.835) | So Sick (0.452) |
+| You Right (0.828) | I'd Rather Go Blind (0.477) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| Boss Bitch | All of Me |
-| Green Light (feat. André 3000) | When I Was Your Man |
-| DJ Got Us Fallin' In Love (feat. Pitbull) | Stay |
-| Finesse - Remix; feat. Cardi B | Thinkin Bout You |
-| When I Get You Alone | Best Part (feat. H.E.R.) |
-| Bootylicious | Easy |
-| Umbrella | Hold Up |
-| Isn't She Lovely | Ave Maria |
-| Sweet Dreams | Papa Was A Rollin' Stone - Single Version |
-| Swalla (feat. Nicki Minaj & Ty Dolla $ign) | Make Me Feel |
+| Boss Bitch (0.955) | All of Me (0.264) |
+| Green Light (feat. André 3000) (0.882) | When I Was Your Man (0.28) |
+| DJ Got Us Fallin' In Love (feat. Pitbull) (0.861) | Stay (0.31) |
+| Finesse - Remix; feat. Cardi B (0.859) | Thinkin Bout You (0.339) |
+| When I Get You Alone (0.857) | Best Part (feat. H.E.R.) (0.364) |
+| Bootylicious (0.833) | Easy (0.384) |
+| Umbrella (0.829) | Hold Up (0.397) |
+| Isn't She Lovely (0.826) | Ave Maria (0.403) |
+| Sweet Dreams (0.825) | Papa Was A Rollin' Stone - Single Version (0.405) |
+| Swalla (feat. Nicki Minaj & Ty Dolla $ign) (0.817) | Make Me Feel (0.413) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| Hold Up | I'd Rather Go Blind |
-| Irreplaceable | Ave Maria |
-| Bubblegum (feat. Tyga) | Stay |
-| So Sick | One Step At a Time |
-| Bootylicious | Build Me Up Buttercup |
-| Trumpets | Me & U |
-| Talk Dirty (feat. 2 Chainz) | The Other Side (feat. CeeLo Green and B.o.B) |
-| Crazy In Love (feat. Jay-Z) | If I Were a Boy |
-| Boss Bitch | I'd Rather Go Blind |
-| Daddy Lessons | The Way You Do The Things You Do |
+| Hold Up (0.405) | I'd Rather Go Blind (0.0247) |
+| Irreplaceable (0.382) | Ave Maria (0.0279) |
+| Bubblegum (feat. Tyga) (0.34) | Stay (0.0283) |
+| So Sick (0.31) | One Step At a Time (0.0289) |
+| Bootylicious (0.284) | Build Me Up Buttercup (0.0293) |
+| Trumpets (0.258) | Me & U (0.0294) |
+| Talk Dirty (feat. 2 Chainz) (0.232) | The Other Side (feat. CeeLo Green and B.o.B) (0.0303) |
+| Crazy In Love (feat. Jay-Z) (0.226) | If I Were a Boy (0.0313) |
+| Boss Bitch (0.222) | I'd Rather Go Blind (0.032) |
+| Daddy Lessons (0.216) | The Way You Do The Things You Do (0.0321) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| Stay | Coño |
-| When I Was Your Man | Blinding Lights |
-| All of Me | Bootylicious |
-| Unknown (To You) | Crazy In Love (feat. Jay-Z) |
-| Best Part (feat. H.E.R.) | Watch n' Learn |
-| Ave Maria | Finesse |
-| At My Worst | Umbrella |
-| Mushroom Chocolate (with 6LACK) | If I Go |
-| How Can I | S&M |
-| Hold Up | That's What I Like |
+| Stay (0.945) | Coño (0.000554) |
+| When I Was Your Man (0.932) | Blinding Lights (0.00146) |
+| All of Me (0.922) | Bootylicious (0.00247) |
+| Unknown (To You) (0.895) | Crazy In Love (feat. Jay-Z) (0.00249) |
+| Best Part (feat. H.E.R.) (0.808) | Watch n' Learn (0.00304) |
+| Ave Maria (0.786) | Finesse (0.00781) |
+| At My Worst (0.777) | Umbrella (0.00864) |
+| Mushroom Chocolate (with 6LACK) (0.765) | If I Go (0.00959) |
+| How Can I (0.759) | S&M (0.0113) |
+| Hold Up (0.745) | That's What I Like (0.013) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Crazy | Hit 'Em Up Style (Oops!) |
-| Papa Was A Rollin' Stone - Single Version | Daddy Lessons |
-| Coño | Build Me Up Buttercup |
-| Superstition - Single Version | Disturbia |
-| Tomboy | Signed, Sealed, Delivered (I'm Yours) |
-| Isn't She Lovely | Grenade |
-| I Like That | Bootylicious |
-| You Right | 24K Magic |
-| Thinkin Bout You | Halo |
-| We Found Love | Trumpets |
+| Crazy (0.0577) | That's What I Like (0.0) |
+| Papa Was A Rollin' Stone - Single Version (0.0507) | When I Was Your Man (0.0) |
+| Coño (0.0101) | At My Worst (0.0) |
+| Superstition - Single Version (0.0064) | Hold Up (0.0) |
+| Tomboy (0.00512) | Bubblegum (feat. Tyga) (0.0) |
+| Isn't She Lovely (0.00352) | Best Part (feat. H.E.R.) (0.0) |
+| I Like That (0.00243) | Ave Maria (0.0) |
+| You Right (0.00233) | When I Get You Alone (0.0) |
+| Thinkin Bout You (0.00153) | Love On Top (0.0) |
+| We Found Love (0.00138) | If I Were a Boy (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| What Now | Finesse - Remix; feat. Cardi B |
-| Love On Top | Finesse |
-| For Once In My Life | One Step At a Time |
-| Hold Up | Superstition - Single Version |
-| MONTERO (Call Me By Your Name) | Yeah! (feat. Lil Jon & Ludacris) |
-| Half Of Me | Umbrella |
-| The Way You Do The Things You Do | Papa Was A Rollin' Stone - Single Version |
-| If I Were a Boy | Baby Powder |
-| Daddy Lessons | Don't Stop The Music |
-| Make Me Feel | When I Get You Alone |
+| What Now (0.628) | Finesse - Remix; feat. Cardi B (0.0215) |
+| Love On Top (0.604) | Finesse (0.0232) |
+| For Once In My Life (0.523) | One Step At a Time (0.0384) |
+| Hold Up (0.521) | Superstition - Single Version (0.0385) |
+| MONTERO (Call Me By Your Name) (0.384) | Yeah! (feat. Lil Jon & Ludacris) (0.0388) |
+| Half Of Me (0.36) | Umbrella (0.0426) |
+| The Way You Do The Things You Do (0.358) | Papa Was A Rollin' Stone - Single Version (0.0468) |
+| If I Were a Boy (0.354) | Baby Powder (0.0518) |
+| Daddy Lessons (0.349) | Don't Stop The Music (0.0535) |
+| Make Me Feel (0.334) | When I Get You Alone (0.0549) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| Finesse | Stay |
-| Ain't Too Proud To Beg | I Like That |
-| Finesse - Remix; feat. Cardi B | Listen (From the Motion Picture "Dreamgirls") |
-| Papa Was A Rollin' Stone - Single Version | Thinkin Bout You |
-| Superstition - Single Version | Ave Maria |
-| Locked out of Heaven | What Now |
-| That's What I Like | I Was Here |
-| Build Me Up Buttercup | Grenade |
-| For Once In My Life | There Goes My Baby |
-| S&M | Unknown (To You) |
+| Finesse (0.939) | Stay (0.125) |
+| Ain't Too Proud To Beg (0.926) | I Like That (0.17) |
+| Finesse - Remix; feat. Cardi B (0.926) | Listen (From the Motion Picture "Dreamgirls") (0.187) |
+| Papa Was A Rollin' Stone - Single Version (0.898) | Thinkin Bout You (0.2) |
+| Superstition - Single Version (0.872) | Ave Maria (0.201) |
+| Locked out of Heaven (0.867) | What Now (0.227) |
+| That's What I Like (0.86) | I Was Here (0.235) |
+| Build Me Up Buttercup (0.855) | Grenade (0.245) |
+| For Once In My Life (0.847) | There Goes My Baby (0.257) |
+| S&M (0.833) | Sincerely, Jane (0.274) |

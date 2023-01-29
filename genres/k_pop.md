@@ -1,6 +1,6 @@
 # k-pop
 
-[840 songs](k_pop_tracks.md)
+[841 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -45,13 +45,13 @@
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | Hwa Sa | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb03fd839c09fe375026192645" alt="" width="50" /> | GOT the beat | [🔗](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) |
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9996e5d7c5b769b2b26ff1a" alt="" width="50" /> | SUPER JUNIOR | [🔗](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) |
+| 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="" width="50" /> | EVERGLOW | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5ebd809a98eed8a673be5ed0576" alt="" width="50" /> | NCT DREAM | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5ebd90aa536055fe9806b3960e6" alt="" width="50" /> | GOT7 | [🔗](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8786ccb6031a3266bb15606" alt="" width="50" /> | WJSN | [🔗](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb6199c3c2f414880e2b9077a9" alt="" width="50" /> | NewJeans | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eba109aeabdab7a5a5b3330df4" alt="" width="50" /> | HEIZE | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb80584436e5726afb70cee7f8" alt="" width="50" /> | LOONA | [🔗](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) |
-| 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="" width="50" /> | EVERGLOW | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb5045a0e0d423ce29d6b14ebd" alt="" width="50" /> | TREASURE | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb7ece2134de8809efcfdc9be7" alt="" width="50" /> | SHINee | [🔗](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb24b5185226d5b7c6aa91db5a" alt="" width="50" /> | PSY | [🔗](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) |
@@ -244,8 +244,8 @@
 | 213 | [SM Entertainment](../labels/sm_entertainment.md) |
 | 85 | [Republic Records](../labels/republic_records.md) |
 | 64 | [YG Entertainment](../labels/yg_entertainment.md) |
-| 55 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
-| 51 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
+| 56 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
+| 52 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
 | 36 | [BIGHIT MUSIC](../labels/bighit_music.md) |
 | 34 | [Universal Music LLC](../labels/universal_music_llc.md) |
 | 33 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md) |
@@ -349,91 +349,91 @@
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| FACE | U |
-| Idle song | On The Ground |
-| RUN (HAN) | My sea |
-| Jelly | Fine |
-| Typa Girl | Like Water |
-| Weather | Epilogue |
-| BOOM | Clockwork |
-| Mr. Simple | MY LOVE |
-| That That (prod. & feat. SUGA of BTS) | CHEESE |
-| 1, 2, 3, 4 | HWAA |
+| FACE (0.954) | U (0.301) |
+| Idle song (0.933) | On The Ground (0.311) |
+| RUN (HAN) (0.929) | My sea (0.353) |
+| Jelly (0.921) | Fine (0.36) |
+| Weather (0.915) | Like Water (0.365) |
+| Typa Girl (0.915) | Epilogue (0.366) |
+| BOOM (0.914) | Clockwork (0.37) |
+| Mr. Simple (0.913) | MY LOVE (0.375) |
+| That That (prod. & feat. SUGA of BTS) (0.905) | CHEESE (0.376) |
+| 1, 2, 3, 4 (0.905) | HWAA (0.384) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| War of Hormone | i hate to admit (Bang Chan) |
-| RING X RING | Deep end (Felix) |
-| Misfit | miss you (Hyunjin) |
-| Hit That Drum | Winter Sleep |
-| MIROH | How can I love the heartbreak, you're the one I love |
-| Side Effects | BREATHE |
-| 소방차 Fire Truck | Boy in time - HUI Solo |
-| Chase Me | Singularity |
-| Abracadabra | Flower Way (Prod. By ZICO) |
-| 쏘리 쏘리 Sorry, Sorry | 그대라는 시 |
+| War of Hormone (0.993) | i hate to admit (Bang Chan) (0.217) |
+| RING X RING (0.987) | Deep end (Felix) (0.223) |
+| Hit That Drum (0.984) | miss you (Hyunjin) (0.226) |
+| Misfit (0.984) | Winter Sleep (0.237) |
+| MIROH (0.979) | How can I love the heartbreak, you're the one I love (0.248) |
+| Side Effects (0.977) | BREATHE (0.251) |
+| 소방차 Fire Truck (0.976) | Boy in time - HUI Solo (0.255) |
+| Chase Me (0.975) | Singularity (0.272) |
+| Abracadabra (0.973) | Flower Way (Prod. By ZICO) (0.282) |
+| 쏘리 쏘리 Sorry, Sorry (0.972) | 그대라는 시 (0.292) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| No More Dream | Slightly Tipsy (She is My Type♡ X SANDEUL) |
-| Addicted | She′s In The Rain |
-| MANIAC | Moonlight Melody |
-| Freedom | Wicked |
-| I GOT IT (HAN) | Winter Sleep |
-| Ice Cream (with Selena Gomez) | Gee |
-| Feelin' Like | Hope Not |
-| VENOM | NANANA |
-| Signal | YOUNG LUV |
-| BBIBBI | LOVE FOOL |
+| No More Dream (0.472) | Slightly Tipsy (She is My Type♡ X SANDEUL) (0.0264) |
+| Addicted (0.419) | She′s In The Rain (0.0264) |
+| MANIAC (0.411) | Moonlight Melody (0.0269) |
+| Freedom (0.388) | Winter Sleep (0.0273) |
+| I GOT IT (HAN) (0.365) | Wicked (0.0273) |
+| Ice Cream (with Selena Gomez) (0.365) | Gee (0.0274) |
+| Feelin' Like (0.353) | Hope Not (0.0274) |
+| VENOM (0.339) | NANANA (0.0277) |
+| Signal (0.334) | YOUNG LUV (0.0277) |
+| BBIBBI (0.331) | LOVE FOOL (0.0281) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| 그대라는 시 | Mr. Simple |
-| How can I love the heartbreak, you're the one I love | Easy |
-| ONLY | Cyberpunk |
-| Deep end (Felix) | Oh Sorry Ya |
-| Boy in time - HUI Solo | Red Light |
-| Goodbye | Adios |
-| MY LOVE | HALAZIA |
-| In The Fall | Cherry Bomb |
-| Amusement Park | Favorite (Vampire) |
-| U | RUN2U |
+| 그대라는 시 (0.914) | Easy (0.000219) |
+| How can I love the heartbreak, you're the one I love (0.91) | Mr. Simple (0.000219) |
+| ONLY (0.892) | Cyberpunk (0.000265) |
+| Deep end (Felix) (0.879) | Oh Sorry Ya (0.000315) |
+| Boy in time - HUI Solo (0.876) | Red Light (0.000457) |
+| Goodbye (0.861) | Adios (0.000588) |
+| MY LOVE (0.859) | HALAZIA (0.000677) |
+| In The Fall (0.854) | Cherry Bomb (0.000759) |
+| Amusement Park (0.85) | Favorite (Vampire) (0.000831) |
+| U (0.834) | RUN2U (0.000835) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| You and I (Park Bom) | Growl |
-| Adios | House Party |
-| pporappippam | Black Suit |
-| Badster | Mamacita (아야야) |
-| So Hot | Lo Siento |
-| GingaMingaYo (the strange world) | Devil |
-| I Am The Best | DDD |
-| Power Up | Every night |
-| Fairy of Shampoo | Back Down |
-| BBoom BBoom | L.I.E |
+| You and I (Park Bom) (0.0837) | Gangnam Style (강남스타일) (0.0) |
+| Adios (0.0794) | SUPER BOARD (0.0) |
+| pporappippam (0.0652) | Clockwork (0.0) |
+| Badster (0.0444) | Shut Down (0.0) |
+| So Hot (0.00976) | SCIENTIST (0.0) |
+| GingaMingaYo (the strange world) (0.00955) | Beatbox (0.0) |
+| I Am The Best (0.00834) | Why Can't You Love Me? (0.0) |
+| Power Up (0.00745) | Ridin' (0.0) |
+| Fairy of Shampoo (0.00673) | BOSS (0.0) |
+| BBoom BBoom (0.00666) | Best Friend (with SEULGI) (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| Heart Attack | PING PONG |
-| Piano Man | CASE 143 |
-| You Better Run | That That (prod. & feat. SUGA of BTS) |
-| Red Lipstick (feat. Yoonmirae) | memeM |
-| Sticker | Holiday Party |
-| I Like That | Ice Cream (with Selena Gomez) |
-| Vibrato | Up! |
-| 행복 (Happiness) | Beatbox |
-| Genie | Domino |
-| LP | pporappippam |
+| Heart Attack (0.887) | PING PONG (0.0202) |
+| Piano Man (0.807) | CASE 143 (0.0222) |
+| You Better Run (0.803) | That That (prod. & feat. SUGA of BTS) (0.0272) |
+| Red Lipstick (feat. Yoonmirae) (0.792) | memeM (0.0287) |
+| Sticker (0.742) | Holiday Party (0.0294) |
+| I Like That (0.737) | Ice Cream (with Selena Gomez) (0.0311) |
+| Vibrato (0.735) | Up! (0.0326) |
+| 행복 (Happiness) (0.725) | Beatbox (0.0334) |
+| LP (0.714) | Domino (0.0346) |
+| Genie (0.714) | pporappippam (0.0347) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| Sour candy | The Road |
-| Twenty-three | Grey Suit |
-| Devil | 7월 7일 One Of These Nights |
-| Pepe | Good Night My Princess |
-| Miniskirt | Side Effects |
-| So Hot | In The Fall |
-| 쏘리 쏘리 Sorry, Sorry | My sea |
-| Twinkle | Time After Time |
-| Lion Heart | U |
-| Give it to me | ONLY |
+| Sour candy (0.98) | The Road (0.073) |
+| Twenty-three (0.968) | Grey Suit (0.0955) |
+| Devil (0.968) | 7월 7일 One Of These Nights (0.11) |
+| Pepe (0.966) | Good Night My Princess (0.112) |
+| So Hot (0.963) | Side Effects (0.118) |
+| Miniskirt (0.963) | In The Fall (0.12) |
+| Twinkle (0.962) | My sea (0.122) |
+| 쏘리 쏘리 Sorry, Sorry (0.962) | Time After Time (0.123) |
+| Lion Heart (0.961) | U (0.137) |
+| Give it to me (0.961) | ONLY (0.151) |

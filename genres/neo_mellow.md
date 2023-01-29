@@ -116,91 +116,91 @@
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| Little Black Dress | Stay |
-| Eden | Gravity |
-| Electric Twist | Once Upon Another Time |
-| One Step At a Time | Chariot |
-| Black Horse And The Cherry Tree | Poison & Wine |
-| Blow Away | City |
-| Put Your Records On | Come Round Soon |
-| Slow Hands | Bluebird |
-| I Choose You | Bright Lights and Cityscapes |
-| I'm Yours | Mad World |
+| Little Black Dress (0.787) | Stay (0.262) |
+| Eden (0.776) | Gravity (0.27) |
+| Electric Twist (0.773) | Once Upon Another Time (0.275) |
+| One Step At a Time (0.766) | Chariot (0.281) |
+| Black Horse And The Cherry Tree (0.748) | Poison & Wine (0.285) |
+| Blow Away (0.747) | City (0.319) |
+| Put Your Records On (0.739) | Come Round Soon (0.338) |
+| Slow Hands (0.735) | Bluebird (0.34) |
+| I Choose You (0.731) | Bright Lights and Cityscapes (0.343) |
+| I'm Yours (0.703) | Mad World (0.344) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| Hello/Goodbye | Kaleidoscope Heart |
-| Bad Idea (feat. Jason Mraz) | Mad World |
-| Morningside | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 |
-| SleepWalking | Say Something |
-| Let The Rain | Manhattan |
-| Love, Save The Empty | Bright Lights and Cityscapes |
-| Bobble Head | Poison & Wine |
-| Fairytale | Bluebird |
-| Brave | Once Upon Another Time |
-| Industry | Just The Way You Are |
+| Hello/Goodbye (0.893) | Kaleidoscope Heart (0.0516) |
+| Bad Idea (feat. Jason Mraz) (0.889) | Mad World (0.0585) |
+| Morningside (0.88) | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 (0.114) |
+| SleepWalking (0.874) | Say Something (0.147) |
+| Let The Rain (0.873) | Manhattan (0.168) |
+| Love, Save The Empty (0.865) | Bright Lights and Cityscapes (0.184) |
+| Bobble Head (0.862) | Poison & Wine (0.186) |
+| Fairytale (0.857) | Bluebird (0.203) |
+| Brave (0.836) | Once Upon Another Time (0.216) |
+| Industry (0.831) | Just The Way You Are (0.218) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| Home | Satellite Call |
-| Electric Twist | Breakeven |
-| Opening Up | Whisper |
-| Kaleidoscope Heart | Pitter-Pat |
-| Come Round Soon | Machine Gun |
-| Bad Idea (feat. Jason Mraz) | Orpheus |
-| Black Horse And The Cherry Tree | Chasing Cars |
-| Fire | Sweet As Whole |
-| Eden | Breathe Again |
-| Little Black Dress | The Man Who Can't Be Moved |
+| Home (0.128) | Satellite Call (0.0241) |
+| Electric Twist (0.125) | Breakeven (0.0242) |
+| Opening Up (0.0936) | Whisper (0.0252) |
+| Kaleidoscope Heart (0.0927) | Pitter-Pat (0.0256) |
+| Come Round Soon (0.0776) | Machine Gun (0.0268) |
+| Bad Idea (feat. Jason Mraz) (0.0704) | Orpheus (0.0269) |
+| Black Horse And The Cherry Tree (0.0641) | Chasing Cars (0.0274) |
+| Fire (0.057) | Sweet As Whole (0.0275) |
+| Eden (0.0562) | Breathe Again (0.0278) |
+| Little Black Dress (0.0554) | The Man Who Can't Be Moved (0.0279) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| Bright Lights and Cityscapes | Now Is The Start |
-| Mad World | Brave |
-| Manhattan | Many the Miles |
-| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Vegas |
-| Almost Lover | Slow Hands |
-| Bluebird | Bad Idea (feat. Jason Mraz) |
-| What's Inside | Wicked Love |
-| Just The Way You Are | Gonna Get Over You |
-| Once Upon Another Time | Love Song |
-| Miss Simone | It's Not That Easy |
+| Bright Lights and Cityscapes (0.977) | Now Is The Start (0.00124) |
+| Mad World (0.976) | Brave (0.00502) |
+| Manhattan (0.972) | Many the Miles (0.00796) |
+| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 (0.959) | Vegas (0.00881) |
+| Almost Lover (0.947) | Slow Hands (0.011) |
+| Bluebird (0.933) | Bad Idea (feat. Jason Mraz) (0.0168) |
+| What's Inside (0.919) | Wicked Love (0.0178) |
+| Just The Way You Are (0.906) | Gonna Get Over You (0.0199) |
+| Once Upon Another Time (0.896) | Love Song (0.0208) |
+| Miss Simone (0.859) | It's Not That Easy (0.0225) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Now Is The Start | Say You're Sorry |
-| Satellite Call | Little Black Dress |
-| Islands | If I Can't Have You |
-| Armor | Everything Changes |
-| Breathe Again | Bad Idea (feat. Jason Mraz) |
-| Miss Simone | Opening Up |
-| The Light | She Used To Be Mine |
-| No Such Thing | Chariot |
-| Whisper | Jar of Hearts |
-| Fire | Lucky |
+| Now Is The Start (0.0353) | Say You're Sorry (0.0) |
+| Satellite Call (0.0318) | Sweet As Whole (0.0) |
+| Islands (0.0261) | Chariot (0.0) |
+| Armor (0.0145) | Jar of Hearts (0.0) |
+| Breathe Again (0.00655) | Lucky (0.0) |
+| Miss Simone (0.00407) | Come Round Soon (0.0) |
+| The Light (0.00375) | Black Horse And The Cherry Tree (0.0) |
+| No Such Thing (0.00175) | Kaleidoscope Heart (0.0) |
+| Whisper (0.00168) | Everything Changes (0.0) |
+| Fire (0.00165) | I'm Yours (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 | Uncharted |
-| Home | One Step At a Time |
-| Ashes And Wine | Brave |
-| Chariot | Eden |
-| Fire | Chasing The Sun |
-| Black Horse And The Cherry Tree | Slow Hands |
-| Let The Rain | King of Anything |
-| It's Not That Easy | The Light |
-| Pitter-Pat | Islands |
-| SleepWalking | Blow Away |
+| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 (0.781) | Uncharted (0.0343) |
+| Home (0.393) | One Step At a Time (0.0384) |
+| Ashes And Wine (0.379) | Brave (0.0425) |
+| Chariot (0.37) | Eden (0.0456) |
+| Fire (0.363) | Chasing The Sun (0.0497) |
+| Black Horse And The Cherry Tree (0.34) | Slow Hands (0.055) |
+| Let The Rain (0.297) | King of Anything (0.0574) |
+| It's Not That Easy (0.274) | The Light (0.0691) |
+| Pitter-Pat (0.263) | Islands (0.0699) |
+| SleepWalking (0.26) | Blow Away (0.0701) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| I Choose You | Once Upon Another Time |
-| Black Horse And The Cherry Tree | Say Something |
-| Blow Away | Islands |
-| Electric Twist | Jar of Hearts |
-| Slow Hands | Everything Changes |
-| Say You're Sorry | We All Need Saving |
-| King of Anything | Chasing Cars |
-| Lie To Me | Bluebird |
-| Home | What's Inside |
-| I Didn't Plan It | Almost Lover |
+| I Choose You (0.947) | Once Upon Another Time (0.0551) |
+| Black Horse And The Cherry Tree (0.917) | Say Something (0.0765) |
+| Blow Away (0.891) | Islands (0.0863) |
+| Electric Twist (0.858) | Jar of Hearts (0.0886) |
+| Slow Hands (0.848) | Everything Changes (0.0983) |
+| Say You're Sorry (0.846) | We All Need Saving (0.117) |
+| King of Anything (0.81) | Chasing Cars (0.144) |
+| Home (0.795) | Bluebird (0.161) |
+| Lie To Me (0.795) | What's Inside (0.162) |
+| I Didn't Plan It (0.787) | Almost Lover (0.167) |
