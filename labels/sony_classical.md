@@ -29,7 +29,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 2 albums](../images/labels/sony_classical/albums.png)
+
 
 
 <details>

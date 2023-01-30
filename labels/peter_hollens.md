@@ -47,7 +47,7 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 1 genres](../images/labels/peter_hollens/genres.png)
+
 
 
 <details>

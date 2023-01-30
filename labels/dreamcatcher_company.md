@@ -8,7 +8,7 @@ Appears as:
 
 ## Top Artists
 
-![Bar chart of top 1 artists](../images/labels/dreamcatcher_company/artists.png)
+
 
 
 <details>
@@ -42,7 +42,7 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 2 genres](../images/labels/dreamcatcher_company/genres.png)
+
 
 
 <details>

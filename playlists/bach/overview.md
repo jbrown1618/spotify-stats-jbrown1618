@@ -27,7 +27,7 @@
 
 ## Top Albums
 
-![Bar chart of top 2 albums](../../images/playlists/bach/albums.png)
+
 
 
 <details>
@@ -43,7 +43,7 @@
 
 ## Top Record Labels
 
-![Bar chart of top 2 record labels](../../images/playlists/bach/labels.png)
+
 
 
 <details>

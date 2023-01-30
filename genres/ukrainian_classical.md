@@ -45,7 +45,7 @@
 
 ## Top Record Labels
 
-![Bar chart of top 2 record labels](../images/genres/ukrainian_classical/labels.png)
+
 
 
 <details>

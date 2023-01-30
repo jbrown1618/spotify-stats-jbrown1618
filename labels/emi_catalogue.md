@@ -7,7 +7,7 @@ Appears as:
 
 ## Top Artists
 
-![Bar chart of top 1 artists](../images/labels/emi_catalogue/artists.png)
+
 
 
 <details>

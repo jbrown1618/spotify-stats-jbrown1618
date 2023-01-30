@@ -40,7 +40,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 2 albums](../images/labels/warner_music_group___x5_music_group/albums.png)
+
 
 
 <details>

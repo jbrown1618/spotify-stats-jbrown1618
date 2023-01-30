@@ -24,7 +24,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 1 albums](../images/labels/australian_broadcasting_corp__abc_/albums.png)
+
 
 
 <details>

@@ -51,7 +51,7 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 2 genres](../images/labels/kakao_entertainment/genres.png)
+
 
 
 <details>

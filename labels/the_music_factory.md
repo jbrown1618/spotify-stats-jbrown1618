@@ -7,7 +7,7 @@ Appears as:
 
 ## Top Artists
 
-![Bar chart of top 1 artists](../images/labels/the_music_factory/artists.png)
+
 
 
 <details>
@@ -22,7 +22,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 1 albums](../images/labels/the_music_factory/albums.png)
+
 
 
 <details>
@@ -37,7 +37,7 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 1 genres](../images/labels/the_music_factory/genres.png)
+
 
 
 <details>

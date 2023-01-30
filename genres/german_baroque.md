@@ -23,7 +23,7 @@
 
 ## Top Albums
 
-![Bar chart of top 2 albums](../images/genres/german_baroque/albums.png)
+
 
 
 <details>
@@ -39,7 +39,7 @@
 
 ## Top Record Labels
 
-![Bar chart of top 2 record labels](../images/genres/german_baroque/labels.png)
+
 
 
 <details>

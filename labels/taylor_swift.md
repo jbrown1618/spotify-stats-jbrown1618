@@ -44,7 +44,7 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 1 genres](../images/labels/taylor_swift/genres.png)
+
 
 
 <details>

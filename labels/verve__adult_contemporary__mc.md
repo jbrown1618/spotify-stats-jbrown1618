@@ -33,7 +33,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 1 albums](../images/labels/verve__adult_contemporary__mc/albums.png)
+
 
 
 <details>

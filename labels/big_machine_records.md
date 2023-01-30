@@ -7,7 +7,7 @@ Appears as:
 
 ## Top Artists
 
-![Bar chart of top 1 artists](../images/labels/big_machine_records/artists.png)
+
 
 
 <details>
@@ -43,7 +43,7 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 1 genres](../images/labels/big_machine_records/genres.png)
+
 
 
 <details>

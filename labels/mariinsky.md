@@ -24,7 +24,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 1 albums](../images/labels/mariinsky/albums.png)
+
 
 
 <details>

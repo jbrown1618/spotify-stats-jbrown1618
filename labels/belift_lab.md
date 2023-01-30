@@ -7,7 +7,7 @@ Appears as:
 
 ## Top Artists
 
-![Bar chart of top 1 artists](../images/labels/belift_lab/artists.png)
+
 
 
 <details>
@@ -42,7 +42,7 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 2 genres](../images/labels/belift_lab/genres.png)
+
 
 
 <details>

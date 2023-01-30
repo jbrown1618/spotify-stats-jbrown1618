@@ -28,7 +28,7 @@
 
 ## Top Albums
 
-![Bar chart of top 2 albums](../../images/playlists/brahms/albums.png)
+
 
 
 <details>
@@ -44,7 +44,7 @@
 
 ## Top Record Labels
 
-![Bar chart of top 2 record labels](../../images/playlists/brahms/labels.png)
+
 
 
 <details>

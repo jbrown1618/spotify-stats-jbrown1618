@@ -24,7 +24,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 1 albums](../images/labels/warner_classics_uk/albums.png)
+
 
 
 <details>

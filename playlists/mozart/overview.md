@@ -111,7 +111,7 @@
 
 ## Genres
 
-![Bar chart of top 2 genres](../../images/playlists/mozart/genres.png)
+
 
 
 <details>

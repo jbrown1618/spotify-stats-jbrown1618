@@ -7,7 +7,7 @@ Appears as:
 
 ## Top Artists
 
-![Bar chart of top 2 artists](../images/labels/grp/artists.png)
+
 
 
 <details>
@@ -40,7 +40,7 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 1 genres](../images/labels/grp/genres.png)
+
 
 
 <details>

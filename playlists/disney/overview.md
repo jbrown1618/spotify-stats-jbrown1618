@@ -131,7 +131,7 @@
 
 ## Top Record Labels
 
-![Bar chart of top 2 record labels](../../images/playlists/disney/labels.png)
+
 
 
 <details>

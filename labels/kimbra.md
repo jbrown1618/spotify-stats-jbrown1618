@@ -26,7 +26,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 1 albums](../images/labels/kimbra/albums.png)
+
 
 
 <details>

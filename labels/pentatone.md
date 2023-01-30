@@ -8,7 +8,7 @@ Appears as:
 
 ## Top Artists
 
-![Bar chart of top 2 artists](../images/labels/pentatone/artists.png)
+
 
 
 <details>
@@ -24,7 +24,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 2 albums](../images/labels/pentatone/albums.png)
+
 
 
 <details>

@@ -54,7 +54,7 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 2 genres](../images/labels/a_cappella_records/genres.png)
+
 
 
 <details>

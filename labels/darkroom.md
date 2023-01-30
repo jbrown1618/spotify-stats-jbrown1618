@@ -8,7 +8,7 @@ Appears as:
 
 ## Top Artists
 
-![Bar chart of top 2 artists](../images/labels/darkroom/artists.png)
+
 
 
 <details>

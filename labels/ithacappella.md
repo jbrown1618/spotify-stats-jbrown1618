@@ -7,7 +7,7 @@ Appears as:
 
 ## Top Artists
 
-![Bar chart of top 2 artists](../images/labels/ithacappella/artists.png)
+
 
 
 <details>
@@ -41,7 +41,7 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 2 genres](../images/labels/ithacappella/genres.png)
+
 
 
 <details>

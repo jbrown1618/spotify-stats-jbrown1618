@@ -7,7 +7,7 @@ Appears as:
 
 ## Top Artists
 
-![Bar chart of top 2 artists](../images/labels/nimbus_records/artists.png)
+
 
 
 <details>
@@ -23,7 +23,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 1 albums](../images/labels/nimbus_records/albums.png)
+
 
 
 <details>

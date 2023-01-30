@@ -7,7 +7,7 @@ Appears as:
 
 ## Top Artists
 
-![Bar chart of top 2 artists](../images/labels/channel_classics_records/artists.png)
+
 
 
 <details>
@@ -23,7 +23,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 1 albums](../images/labels/channel_classics_records/albums.png)
+
 
 
 <details>
@@ -38,7 +38,7 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 2 genres](../images/labels/channel_classics_records/genres.png)
+
 
 
 <details>

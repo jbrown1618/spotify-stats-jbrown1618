@@ -31,7 +31,7 @@
 
 ## Top Albums
 
-![Bar chart of top 2 albums](../../images/playlists/vivaldi/albums.png)
+
 
 
 <details>
@@ -47,7 +47,7 @@
 
 ## Top Record Labels
 
-![Bar chart of top 2 record labels](../../images/playlists/vivaldi/labels.png)
+
 
 
 <details>

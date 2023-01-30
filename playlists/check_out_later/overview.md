@@ -28,7 +28,7 @@
 
 ## Top Albums
 
-![Bar chart of top 1 albums](../../images/playlists/check_out_later/albums.png)
+
 
 
 <details>
@@ -43,7 +43,7 @@
 
 ## Top Record Labels
 
-![Bar chart of top 1 record labels](../../images/playlists/check_out_later/labels.png)
+
 
 
 <details>

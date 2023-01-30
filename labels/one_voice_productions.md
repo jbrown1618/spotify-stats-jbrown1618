@@ -30,7 +30,7 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 2 albums](../images/labels/one_voice_productions/albums.png)
+
 
 
 <details>
@@ -46,7 +46,7 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 1 genres](../images/labels/one_voice_productions/genres.png)
+
 
 
 <details>

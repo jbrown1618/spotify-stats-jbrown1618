@@ -7,7 +7,7 @@ Appears as:
 
 ## Top Artists
 
-![Bar chart of top 1 artists](../images/labels/high_up_entertainment/artists.png)
+
 
 
 <details>
@@ -41,7 +41,7 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 2 genres](../images/labels/high_up_entertainment/genres.png)
+
 
 
 <details>
