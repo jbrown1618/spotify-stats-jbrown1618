@@ -47,11 +47,11 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 14 genres](../images/labels/virgin_records/genres.png)
+![Bar chart of top 15 genres](../images/labels/virgin_records/genres.png)
 
 
 <details>
-<summary>See all 14 genres</summary>
+<summary>See all 15 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -64,6 +64,7 @@ Appears as:
 | 1 | tropical house |
 | 1 | spacegrunge |
 | 1 | [rock](../genres/rock.md) |
+| 1 | [post-teen pop](../genres/post_teen_pop.md) |
 | 1 | permanent wave |
 | 1 | grunge |
 | 1 | [dance pop](../genres/dance_pop.md) |

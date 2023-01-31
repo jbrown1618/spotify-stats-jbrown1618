@@ -218,7 +218,7 @@
 | 11 | [High Up Entertainment](../labels/high_up_entertainment.md) |
 | 10 | [DREAMCATCHER COMPANY](../labels/dreamcatcher_company.md) |
 | 7 | WM Entertainment |
-| 6 | FNC ENTERTAINMENT |
+| 6 | [FNC ENTERTAINMENT](../labels/fnc_entertainment.md) |
 | 6 | ADOR |
 | 5 | [Warner Records](../labels/warner_records.md) |
 | 5 | Riot Games |

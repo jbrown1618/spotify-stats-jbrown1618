@@ -113,7 +113,7 @@ Appears as:
 
 
 <details>
-<summary>See all 50 genres</summary>
+<summary>See all 49 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -144,7 +144,6 @@ Appears as:
 | 2 | edm |
 | 2 | alternative hip hop |
 | 2 | [acoustic pop](../genres/acoustic_pop.md) |
-| 1 | viral pop |
 | 1 | uk pop |
 | 1 | uk funky |
 | 1 | uk dance |

@@ -87,14 +87,14 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb840800d188b7b4f76041a867" alt="" width="50" /> | Rayi Putra | [🔗](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb873c780bc01ab398f69e63a3" alt="" width="50" /> | Savera | [🔗](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb38a96d85b0580670123280e" alt="" width="50" /> | ZUTOMAYO | [🔗](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f918bcd506181a2c8f145d8b" alt="" width="50" /> | 拾贰 | [🔗](https://open.spotify.com/artist/30YrwNoKzUtyVQsIrwtMdr) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273982991b6cf3445ee8f53b0ad" alt="" width="50" /> | 拾贰 | [🔗](https://open.spotify.com/artist/30YrwNoKzUtyVQsIrwtMdr) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb639904df84c9ae5e3888ccc2" alt="" width="50" /> | Gradur | [🔗](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7e7c664aebb73b97b2664bb7" alt="" width="50" /> | Roméo Elvis | [🔗](https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb67cef67ca9a55d9db0ae4fdf" alt="" width="50" /> | OAFF | [🔗](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6b0f1c7ebcc1202b91379648" alt="" width="50" /> | Wanitwa Mos | [🔗](https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1110b09e6951ea73e79fc55f" alt="" width="50" /> | Anamanaguchi | [🔗](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfea27ddf11b9df5322a13c84" alt="" width="50" /> | Anuel AA | [🔗](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27306ac04c47ed539cf2d42907f" alt="" width="50" /> | 大籽 | [🔗](https://open.spotify.com/artist/2NJLAUSe3Ifk9MiHbddRAi) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27345fc69672d9ececbf9d9d5c8" alt="" width="50" /> | 大籽 | [🔗](https://open.spotify.com/artist/2NJLAUSe3Ifk9MiHbddRAi) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7cea05aba04cc9b7ad522fb4" alt="" width="50" /> | Crowd Lu | [🔗](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb44cc73a57e7a317ee89158d4" alt="" width="50" /> | Leehom Wang | [🔗](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5d0fc400392250a750a9403e" alt="" width="50" /> | J Balvin | [🔗](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) |

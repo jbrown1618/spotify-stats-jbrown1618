@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1408 songs](tracks.md)
+[1410 songs](tracks.md)
 
 ## Top Artists
 
@@ -287,7 +287,7 @@
 | 7 | [WM Korea](../../labels/wm_korea.md) |
 | 7 | [MOTOWN](../../labels/motown.md) |
 | 7 | KQ Entertainment |
-| 7 | FNC ENTERTAINMENT |
+| 7 | [FNC ENTERTAINMENT](../../labels/fnc_entertainment.md) |
 | 7 | [Def Jam Recordings](../../labels/def_jam_recordings.md) |
 | 7 | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company.md) |
 | 7 | Cooking Vinyl Limited |
@@ -356,29 +356,29 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 612 | [k-pop](../../genres/k_pop.md) |
+| 609 | [k-pop](../../genres/k_pop.md) |
 | 352 | [pop](../../genres/pop.md) |
 | 291 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
-| 167 | [dance pop](../../genres/dance_pop.md) |
+| 166 | [dance pop](../../genres/dance_pop.md) |
 | 162 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
 | 100 | [rock](../../genres/rock.md) |
 | 78 | [classic rock](../../genres/classic_rock.md) |
 | 61 | [neo mellow](../../genres/neo_mellow.md) |
-| 58 | [lilith](../../genres/lilith.md) |
+| 59 | [lilith](../../genres/lilith.md) |
 | 55 | [acoustic pop](../../genres/acoustic_pop.md) |
 | 54 | [pop rock](../../genres/pop_rock.md) |
 | 43 | [hollywood](../../genres/hollywood.md) |
 | 42 | [mellow gold](../../genres/mellow_gold.md) |
-| 40 | [post-teen pop](../../genres/post_teen_pop.md) |
-| 36 | [electropop](../../genres/electropop.md) |
+| 41 | [post-teen pop](../../genres/post_teen_pop.md) |
+| 35 | [electropop](../../genres/electropop.md) |
 | 34 | [art pop](../../genres/art_pop.md) |
 | 33 | [folk rock](../../genres/folk_rock.md) |
 | 32 | [soft rock](../../genres/soft_rock.md) |
 | 30 | [psychedelic rock](../../genres/psychedelic_rock.md) |
 | 30 | british invasion |
-| 29 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 29 | korean r&b |
 | 28 | korean pop |
+| 25 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 25 | piano rock |
 | 23 | beatlesque |
 | 22 | merseybeat |
@@ -445,7 +445,6 @@
 | 6 | modern alternative rock |
 | 6 | la indie |
 | 6 | hip pop |
-| 6 | funk |
 | 6 | filter house |
 | 6 | electro |
 | 5 | uk funky |
@@ -453,6 +452,7 @@
 | 5 | k-indie |
 | 5 | jazz pop |
 | 5 | indietronica |
+| 5 | funk |
 | 5 | anti-folk |
 | 5 | afrofuturism |
 | 4 | yacht rock |
@@ -471,7 +471,7 @@
 | Year | Number of Tracks |
 |:---|---:|
 | 2023 | 12 |
-| [2022](2022.md) | 229 |
+| [2022](2022.md) | 231 |
 | [2021](2021.md) | 175 |
 | [2020](2020.md) | 135 |
 | [2019](2019.md) | 112 |
@@ -538,8 +538,8 @@
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c3cc49220a7dd0bda6e55bb9" alt="Love War" width="50" /> <span style="padding-left:10px;">Love War (2023-01-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273608a63ad5b18e99da94a3f73" alt="With The Beatles (Remastered)" width="50" /> <span style="padding-left:10px;">With The Beatles (Remastered) (1963-11-22)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="Stamp On It - The 1st Mini Album" width="50" /> <span style="padding-left:10px;">Stamp On It - The 1st Mini Album (2023-01-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> <span style="padding-left:10px;">Days Of Wine And Roses, Moon River And Other Academy Award Winners (1964)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f7994d33de90ec347aa477c3" alt="VIBE (feat. Jimin of BTS)" width="50" /> <span style="padding-left:10px;">VIBE (feat. Jimin of BTS) (2023-01-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2735b50e493598153b926ded824" alt="Mary Wells Sings My Guy" width="50" /> <span style="padding-left:10px;">Mary Wells Sings My Guy (1964)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27386b1ba55bf754a73f6ecf729" alt="I ≠ DOLL" width="50" /> <span style="padding-left:10px;">I ≠ DOLL (2023-01-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd" alt="A Hard Day's Night (Remastered)" width="50" /> <span style="padding-left:10px;">A Hard Day's Night (Remastered) (1964-07-10)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="REASON" width="50" /> <span style="padding-left:10px;">REASON (2023-01-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="Wednesday Morning, 3 A.M." width="50" /> <span style="padding-left:10px;">Wednesday Morning, 3 A.M. (1964-10-19)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="REASON" width="50" /> <span style="padding-left:10px;">REASON (2023-01-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd" alt="A Hard Day's Night (Remastered)" width="50" /> <span style="padding-left:10px;">A Hard Day's Night (Remastered) (1964-07-10)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27386b1ba55bf754a73f6ecf729" alt="I ≠ DOLL" width="50" /> <span style="padding-left:10px;">I ≠ DOLL (2023-01-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="Wednesday Morning, 3 A.M." width="50" /> <span style="padding-left:10px;">Wednesday Morning, 3 A.M. (1964-10-19)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01" alt="NewJeans 'OMG'" width="50" /> <span style="padding-left:10px;">NewJeans 'OMG' (2023-01-02)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> <span style="padding-left:10px;">The Temptations Sing Smokey (1965-03-22)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738bc5762a75c18b494803705c" alt="SPIN OFF : FROM THE WITNESS" width="50" /> <span style="padding-left:10px;">SPIN OFF : FROM THE WITNESS (2022-12-30)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="Out Of Our Heads" width="50" /> <span style="padding-left:10px;">Out Of Our Heads (1965-07-30)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="2022 Winter SMTOWN : SMCU PALACE" width="50" /> <span style="padding-left:10px;">2022 Winter SMTOWN : SMCU PALACE (2022-12-26)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> <span style="padding-left:10px;">Help! (Remastered) (1965-08-06)</span></div> |

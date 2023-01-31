@@ -129,7 +129,7 @@
 | 1 | [PLEDIS Entertainment](../../labels/pledis_entertainment.md) |
 | 1 | PLAY M ENTERTAINMENT CORP. |
 | 1 | [Genie Music Corporation](../../labels/genie_music_corporation.md) |
-| 1 | FNC ENTERTAINMENT |
+| 1 | [FNC ENTERTAINMENT](../../labels/fnc_entertainment.md) |
 | 1 | Chris Brown Entertainment |
 | 1 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment.md) |
 | 1 | 88rising Music |

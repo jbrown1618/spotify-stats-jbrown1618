@@ -234,8 +234,8 @@
 | 10 | barbadian pop |
 | 10 | atl hip hop |
 | 9 | funk |
+| 8 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 8 | motown |
-| 7 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 6 | pop rap |
 | 6 | escape room |
 | 6 | edm |

@@ -1,6 +1,6 @@
 # post-teen pop
 
-[54 songs](post_teen_pop_tracks.md)
+[55 songs](post_teen_pop_tracks.md)
 
 ## Top Artists
 
@@ -10,7 +10,7 @@
 
 
 <details>
-<summary>See all 60 artists</summary>
+<summary>See all 61 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -36,6 +36,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb90a228bbe264818694c54834" alt="" width="50" /> | Ally Brooke | [🔗](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf271138f95fbe8188d909d50" alt="" width="50" /> | Kesha | [🔗](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb15a85a7957cac2c370e713ab" alt="" width="50" /> | Kid Ink | [🔗](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb12123322672fbf71bd1e5c94" alt="" width="50" /> | Ella Eyre | [🔗](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../artists/ariana_grande.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | Iggy Azalea | [🔗](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | B.o.B | [🔗](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) |
@@ -83,7 +84,7 @@
 
 
 <details>
-<summary>See all 47 albums</summary>
+<summary>See all 48 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -119,6 +120,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735bac234d5511248b248caf36" alt="" width="50" /> | Flicker (Deluxe) | 2017-10-20 | [🔗](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27361fe6d3a50c0beaa3cfe33e9" alt="" width="50" /> | Expectations | 2018-06-22 | [🔗](https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273519241bcfc352fc3eaaac5db" alt="" width="50" /> | Everything Is 4 | 2015-05-29 | [🔗](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27334da09e702c7f9ca573981e5" alt="" width="50" /> | Ella Eyre | 2015-01-12 | [🔗](https://open.spotify.com/album/5J69OYtRXeI9dHDK2R95h5) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273aadb13ae608f6af20528409b" alt="" width="50" /> | Demi | 2013-01-01 | [🔗](https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273c4f298e7cbedb77f8e030ff0" alt="" width="50" /> | Cry for Me | 2019-10-04 | [🔗](https://open.spotify.com/album/2dq4ae5hiyxlFPG1s8rlq5) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731d56717d1786e938a105b6df" alt="" width="50" /> | Coño | 2020-07-03 | [🔗](https://open.spotify.com/album/1h3x5tLWXhf438Y5AK60Ml) |
@@ -144,7 +146,7 @@
 
 
 <details>
-<summary>See all 35 labels</summary>
+<summary>See all 36 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -160,6 +162,7 @@
 | 2 | Lava Music |
 | 2 | [Hollywood Records](../labels/hollywood_records.md) |
 | 1 | Warner Bros. |
+| 1 | [Virgin Records](../labels/virgin_records.md) |
 | 1 | [Universal Music LLC](../labels/universal_music_llc.md) |
 | 1 | Universal Music Group |
 | 1 | Spinnin' Records |
@@ -200,7 +203,7 @@
 | Low Key (feat. Tyga) (0.79) | Heart Attack (0.504) |
 | Call Me Maybe (0.783) | Who You Are (0.534) |
 | Tick Tock (feat. 24kGoldn) (0.779) | Me And My Broken Heart (0.545) |
-| Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) (0.771) | Because of You (0.583) |
+| Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) (0.771) | If I Go (0.545) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -233,13 +236,13 @@
 | Consequences (0.889) | Coño (0.000554) |
 | I See the Light - From "Tangled" / Soundtrack Version (0.829) | My Happy Ending (0.00136) |
 | Jar of Hearts (0.726) | Me And My Broken Heart (0.00489) |
-| Trumpets (0.555) | Slow Hands (0.011) |
-| Stone Cold (0.539) | Call Me Maybe (0.0114) |
-| Blueberry Eyes (feat. SUGA of BTS) (0.454) | Good Girls Go Bad (feat. Leighton Meester) (0.0116) |
-| Good Thing (with Kehlani) (0.399) | Candyman (0.0125) |
-| Rockabye (feat. Sean Paul & Anne-Marie) (0.383) | Youngblood (0.0169) |
-| Low Key (feat. Tyga) (0.369) | Sally Walker (0.0177) |
-| Tick Tock (feat. 24kGoldn) (0.369) | My Oh My (feat. DaBaby) (0.018) |
+| Trumpets (0.555) | If I Go (0.00959) |
+| Stone Cold (0.539) | Slow Hands (0.011) |
+| Blueberry Eyes (feat. SUGA of BTS) (0.454) | Call Me Maybe (0.0114) |
+| Good Thing (with Kehlani) (0.399) | Good Girls Go Bad (feat. Leighton Meester) (0.0116) |
+| Rockabye (feat. Sean Paul & Anne-Marie) (0.383) | Candyman (0.0125) |
+| Low Key (feat. Tyga) (0.369) | Youngblood (0.0169) |
+| Tick Tock (feat. 24kGoldn) (0.369) | Sally Walker (0.0177) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|

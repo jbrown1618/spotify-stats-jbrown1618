@@ -316,12 +316,12 @@
 | 20 | modern rock |
 | 20 | [art pop](../../genres/art_pop.md) |
 | 18 | [electropop](../../genres/electropop.md) |
+| 17 | [lilith](../../genres/lilith.md) |
 | 17 | baroque pop |
 | 16 | uk alternative pop |
 | 16 | permanent wave |
 | 14 | indie rock |
 | 13 | nz pop |
-| 13 | [lilith](../../genres/lilith.md) |
 | 13 | bergen indie |
 | 13 | alternative rock |
 | 12 | metropopolis |
@@ -362,7 +362,6 @@
 | 3 | comic |
 | 2 | washington indie |
 | 2 | uk pop |
-| 2 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 2 | shiver pop |
 | 2 | pop punk |
 | 2 | pop emo |
@@ -383,6 +382,7 @@
 | 1 | swedish electropop |
 | 1 | swedish alternative rock |
 | 1 | spacegrunge |
+| 1 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 1 | shimmer pop |
 | 1 | nu metal |
 | 1 | nu jazz |
@@ -402,13 +402,13 @@
 | 1 | industrial |
 | 1 | indie rock italiano |
 | 1 | indie poptimism |
-| 1 | indie folk |
 | 1 | grunge |
 | 1 | folk-pop |
 | 1 | escape room |
 | 1 | elephant 6 |
 | 1 | electronic rock |
 | 1 | dutch pop |
+| 1 | downtempo |
 
 </details>
 

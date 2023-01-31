@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b273714e56679ab196354e2e443eab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738c4a282e84a53c1c8acf129a" alt="K-Pop Favorites" width="100" />
 
-[206 songs](tracks.md)
+[207 songs](tracks.md)
 
 ## Top Artists
 
@@ -13,7 +13,7 @@
 
 
 <details>
-<summary>See all 86 artists</summary>
+<summary>See all 87 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -100,6 +100,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb69d86a4744d275ed5259e743" alt="" width="50" /> | WayV | [🔗](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb65dd718aaa2c9b1be0218f76" alt="" width="50" /> | SURAN | [🔗](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | Jackson Wang | [🔗](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebbb55fc616733b6c09d48481f" alt="" width="50" /> | NAYEON | [🔗](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd0701912e6fccf8427bc7361" alt="" width="50" /> | GFRIEND | [🔗](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8b1752dc8c0f2dce9abc2dbc" alt="" width="50" /> | THE BOYZ | [🔗](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb85caa5f0e213fbfc29b91db" alt="" width="50" /> | HYOYEON | [🔗](https://open.spotify.com/artist/0B3I6YgdnfXehUCpsO6oB8) |
@@ -227,7 +228,7 @@
 
 
 <details>
-<summary>See all 52 labels</summary>
+<summary>See all 53 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -271,13 +272,14 @@
 | 1 | Studio MaumC |
 | 1 | [Sony Music Labels Inc.](../../labels/sony_music_labels_inc_.md) |
 | 1 | ShowPLAY ENTERTAINMENT |
+| 1 | Republic Records – NAYEON (TWICE) |
 | 1 | Million Market |
 | 1 | Makeus Entertainment |
 | 1 | MYSTIC ENTERTAINMENT |
 | 1 | Imperial Distribution |
 | 1 | Hwa&Dam pictures |
 | 1 | Feel Ghood Music |
-| 1 | FNC ENTERTAINMENT |
+| 1 | [FNC ENTERTAINMENT](../../labels/fnc_entertainment.md) |
 | 1 | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company.md) |
 | 1 | Cre.ker Entertainment |
 | 1 | ChoongangICS |
@@ -297,7 +299,7 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 170 | [k-pop](../../genres/k_pop.md) |
+| 168 | [k-pop](../../genres/k_pop.md) |
 | 79 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 50 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
 | 12 | [pop](../../genres/pop.md) |
@@ -324,7 +326,7 @@
 | Year | Number of Tracks |
 |:---|---:|
 | 2023 | 2 |
-| [2022](2022.md) | 57 |
+| [2022](2022.md) | 58 |
 | [2021](2021.md) | 50 |
 | [2020](2020.md) | 32 |
 | 2019 | 15 |
@@ -424,15 +426,15 @@
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
 | Piano Man (0.807) | YEPPI YEPPI (0.029) |
-| Sticker (0.742) | CIRCUS (0.0353) |
-| Typa Girl (0.628) | Run BTS (0.0358) |
-| FANCY (0.627) | BOOM (0.0441) |
-| Red Lights (Bang Chan, Hyunjin) (0.612) | ELEVEN (0.048) |
-| Step Back (0.596) | Guerrilla (0.0506) |
-| Animal Farm (0.579) | Devil (0.052) |
-| I GOT A BOY (0.538) | Bad Boy (0.0553) |
-| Monster (0.537) | Make A Wish (Birthday Song) (0.0569) |
-| BOOMBAYAH (0.497) | O.O (0.0601) |
+| Sticker (0.742) | POP! (0.0321) |
+| Typa Girl (0.628) | CIRCUS (0.0353) |
+| FANCY (0.627) | Run BTS (0.0358) |
+| Red Lights (Bang Chan, Hyunjin) (0.612) | BOOM (0.0441) |
+| Step Back (0.596) | ELEVEN (0.048) |
+| Animal Farm (0.579) | Guerrilla (0.0506) |
+| I GOT A BOY (0.538) | Devil (0.052) |
+| Monster (0.537) | Bad Boy (0.0553) |
+| BOOMBAYAH (0.497) | Make A Wish (Birthday Song) (0.0569) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|

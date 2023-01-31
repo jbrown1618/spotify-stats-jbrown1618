@@ -223,7 +223,6 @@
 | 6 | urban contemporary |
 | 6 | [acoustic pop](../../genres/acoustic_pop.md) |
 | 5 | [pop rock](../../genres/pop_rock.md) |
-| 4 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 4 | [mellow gold](../../genres/mellow_gold.md) |
 | 4 | [folk rock](../../genres/folk_rock.md) |
 | 3 | stomp and holler |
@@ -243,6 +242,7 @@
 | 3 | atl hip hop |
 | 2 | uk pop |
 | 2 | soul |
+| 2 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 2 | rockabilly |
 | 2 | rock-and-roll |
 | 2 | rap |
@@ -250,7 +250,6 @@
 | 2 | motown |
 | 2 | modern folk rock |
 | 2 | [lilith](../../genres/lilith.md) |
-| 2 | funk |
 | 2 | country dawn |
 | 2 | country |
 | 2 | contemporary country |
@@ -284,6 +283,7 @@
 | 1 | hip hop |
 | 1 | heartland rock |
 | 1 | girl group |
+| 1 | funk |
 | 1 | europop |
 | 1 | [electropop](../../genres/electropop.md) |
 | 1 | easy listening |

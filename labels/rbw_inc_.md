@@ -1,19 +1,19 @@
 # RBW Inc.
 
-31 songs
+32 songs
 
 Appears as:
-- RBW Inc. (18 tracks)
+- RBW Inc. (19 tracks)
 - RBW, Inc (12 tracks)
 - RBW, INC. (1 tracks)
 
 ## Top Artists
 
-![Bar chart of top 10 artists](../images/labels/rbw_inc_/artists.png)
+![Bar chart of top 11 artists](../images/labels/rbw_inc_/artists.png)
 
 
 <details>
-<summary>See all 10 artists</summary>
+<summary>See all 11 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -25,6 +25,7 @@ Appears as:
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb652b1738f121da382c3ab77b" alt="" width="50" /> | ONEUS | [🔗](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbb19ac3f264dea7cea4c42b" alt="" width="50" /> | Whee In | [🔗](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733accfe72fd85d00c777096c8" alt="" width="50" /> | WOOGIE | [🔗](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) |
+| 1 | <img src="https://i.scdn.co/image/ab6772690000c46cc8a347829c638ae6bbdb8434" alt="" width="50" /> | ONEWE | [🔗](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbca2e91d07d2c53e6610570" alt="" width="50" /> | Seori | [🔗](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebde8ad216e0ff7a76573c835e" alt="" width="50" /> | SEULGI | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
 
@@ -33,11 +34,11 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 25 albums](../images/labels/rbw_inc_/albums.png)
+![Bar chart of top 26 albums](../images/labels/rbw_inc_/albums.png)
 
 
 <details>
-<summary>See all 25 albums</summary>
+<summary>See all 26 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -58,6 +59,7 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273498f71db374f1a18ac831412" alt="" width="50" /> | Shutdown (Feat. Seori) | 2021-12-30 | [🔗](https://open.spotify.com/album/3qGgRGX3KHbwph4AzWVko1) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731ecc60c0ad785d457bdc0a36" alt="" width="50" /> | SPIT IT OUT | 2020-04-23 | [🔗](https://open.spotify.com/album/1pLSlOXtHKPoSoB6ovnIAK) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273294c757e724cc58bbbd29287" alt="" width="50" /> | SELFISH | 2018-05-23 | [🔗](https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27361784115b2bd84e22fab0e95" alt="" width="50" /> | Planet Nine : VOYAGER | 2022-01-04 | [🔗](https://open.spotify.com/album/2mM97mU3Xh4IvV51Dwq8Ky) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a84d6d77bb01c3bd737c47d7" alt="" width="50" /> | María | 2020-06-29 | [🔗](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733accfe72fd85d00c777096c8" alt="" width="50" /> | Hwa:telier | 2019-10-11 | [🔗](https://open.spotify.com/album/20xEJwUlmfoSLoK5AhEucL) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2730865f5f5799f2ee1b3c0fcec" alt="" width="50" /> | HIDE & SEEK | 2021-09-08 | [🔗](https://open.spotify.com/album/1Oh6STLhW6dxRAkvOUBHl8) |
@@ -80,11 +82,11 @@ Appears as:
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 31 | [k-pop](../genres/k_pop.md) |
+| 32 | [k-pop](../genres/k_pop.md) |
 | 12 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 | 5 | korean talent show |
+| 3 | [k-pop boy group](../genres/k_pop_boy_group.md) |
 | 2 | korean ost |
-| 2 | [k-pop boy group](../genres/k_pop_boy_group.md) |
 
 </details>
 
@@ -116,6 +118,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2733618088cfcd2a966a61937cb" alt="" width="50" /> | LUNATIC (English Ver.) | 6equence | Moon Byul | [RBW Inc.](rbw_inc_.md) | | [🔗](https://open.spotify.com/track/6iQQ9sg5NSauLU4TzKFOsY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395e1a12145290ca7d783eb1d" alt="" width="50" /> | BLACK MIRROR | BINARY CODE | ONEUS | [RBW Inc.](rbw_inc_.md) | 💚 | [🔗](https://open.spotify.com/track/0KERuWnGiBnoFiMyJCLTcj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732325e0aa6cad94d104ea055e" alt="" width="50" /> | LUNA | BLOOD MOON | ONEUS | [RBW Inc.](rbw_inc_.md) | 💚 | [🔗](https://open.spotify.com/track/5L2uuQUMiub01LRhTKRCFj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27361784115b2bd84e22fab0e95" alt="" width="50" /> | Envision_ | Planet Nine : VOYAGER | ONEWE | [RBW Inc.](rbw_inc_.md) | | [🔗](https://open.spotify.com/track/2Rsx3t9JScPIGszaEpFqG7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730865f5f5799f2ee1b3c0fcec" alt="" width="50" /> | Zombie | HIDE & SEEK | PURPLE KISS | [RBW Inc.](rbw_inc_.md) | | [🔗](https://open.spotify.com/track/5zTp64MsWOTdAWWXK7zEPK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27346c28fd13126fd9428625411" alt="" width="50" /> | memeM | memeM | PURPLE KISS | [RBW Inc.](rbw_inc_.md) | 💚 | [🔗](https://open.spotify.com/track/0qr3qIT7OrhzT33sW1syLI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b479d89335fbca7de943443" alt="" width="50" /> | Nerdy | Geekyland | PURPLE KISS | [RBW Inc.](rbw_inc_.md) | 💚 | [🔗](https://open.spotify.com/track/6KExHY2Eo0DphK63s2dfYi) |

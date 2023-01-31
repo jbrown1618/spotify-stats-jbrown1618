@@ -203,7 +203,7 @@
 
 
 <details>
-<summary>See all 83 genres</summary>
+<summary>See all 84 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -219,9 +219,9 @@
 | 7 | [soft rock](../../genres/soft_rock.md) |
 | 7 | [lilith](../../genres/lilith.md) |
 | 7 | [folk rock](../../genres/folk_rock.md) |
-| 6 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 6 | [hollywood](../../genres/hollywood.md) |
 | 6 | [adult standards](../../genres/adult_standards.md) |
+| 5 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 5 | [psychedelic rock](../../genres/psychedelic_rock.md) |
 | 5 | merseybeat |
 | 5 | british invasion |
@@ -257,6 +257,7 @@
 | 1 | [r&b](../../genres/r_b.md) |
 | 1 | quiet storm |
 | 1 | progressive bluegrass |
+| 1 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 1 | oxford indie |
 | 1 | new americana |
 | 1 | neo soul |

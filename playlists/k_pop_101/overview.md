@@ -156,7 +156,7 @@
 | 1 | Imperial Distribution |
 | 1 | [High Up Entertainment](../../labels/high_up_entertainment.md) |
 | 1 | [HYBE](../../labels/hybe.md) |
-| 1 | FNC ENTERTAINMENT |
+| 1 | [FNC ENTERTAINMENT](../../labels/fnc_entertainment.md) |
 | 1 | Capitol Records (CAP) |
 | 1 | [BIGHIT MUSIC](../../labels/bighit_music.md) |
 | 1 | [BELIFT LAB](../../labels/belift_lab.md) |
@@ -175,7 +175,7 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 39 | [k-pop](../../genres/k_pop.md) |
+| 38 | [k-pop](../../genres/k_pop.md) |
 | 19 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 16 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
 | 2 | [pop](../../genres/pop.md) |

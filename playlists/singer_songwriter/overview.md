@@ -213,8 +213,8 @@
 | 79 | [lilith](../../genres/lilith.md) |
 | 61 | [pop rock](../../genres/pop_rock.md) |
 | 59 | [hollywood](../../genres/hollywood.md) |
-| 36 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 35 | piano rock |
+| 34 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 33 | [folk rock](../../genres/folk_rock.md) |
 | 31 | [mellow gold](../../genres/mellow_gold.md) |
 | 25 | [soft rock](../../genres/soft_rock.md) |

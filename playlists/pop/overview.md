@@ -360,9 +360,9 @@
 | Number of Tracks | Genre |
 |---:|:---|
 | 301 | [pop](../../genres/pop.md) |
-| 195 | [dance pop](../../genres/dance_pop.md) |
+| 194 | [dance pop](../../genres/dance_pop.md) |
 | 46 | [post-teen pop](../../genres/post_teen_pop.md) |
-| 30 | [electropop](../../genres/electropop.md) |
+| 29 | [electropop](../../genres/electropop.md) |
 | 28 | [art pop](../../genres/art_pop.md) |
 | 27 | edm |
 | 26 | uk pop |
@@ -375,13 +375,13 @@
 | 11 | pop dance |
 | 11 | british soul |
 | 11 | australian pop |
-| 10 | viral pop |
 | 10 | tropical house |
 | 10 | pop soul |
 | 10 | [pop rock](../../genres/pop_rock.md) |
 | 10 | canadian pop |
 | 10 | barbadian pop |
 | 10 | [acoustic pop](../../genres/acoustic_pop.md) |
+| 9 | viral pop |
 | 9 | metropopolis |
 | 8 | uk dance |
 | 8 | escape room |

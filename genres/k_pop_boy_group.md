@@ -1,6 +1,6 @@
 # k-pop boy group
 
-[242 songs](k_pop_boy_group_tracks.md)
+[245 songs](k_pop_boy_group_tracks.md)
 
 ## Top Artists
 
@@ -10,7 +10,7 @@
 
 
 <details>
-<summary>See all 40 artists</summary>
+<summary>See all 41 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -26,11 +26,11 @@
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9996e5d7c5b769b2b26ff1a" alt="" width="50" /> | SUPER JUNIOR | [🔗](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) |
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5ebd809a98eed8a673be5ed0576" alt="" width="50" /> | NCT DREAM | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5ebd90aa536055fe9806b3960e6" alt="" width="50" /> | GOT7 | [🔗](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) |
+| 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb74f9c3e4ad2e130f8f338858" alt="" width="50" /> | P1Harmony | [🔗](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb7ece2134de8809efcfdc9be7" alt="" width="50" /> | SHINee | [🔗](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | PENTAGON | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb767815f4876969e8f888f0db" alt="" width="50" /> | The Rose | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb597a4257d0022e2ac837fa7d" alt="" width="50" /> | BIGBANG | [🔗](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) |
-| 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb74f9c3e4ad2e130f8f338858" alt="" width="50" /> | P1Harmony | [🔗](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8eb5e57e526ceb14f06ea203" alt="" width="50" /> | iKON | [🔗](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb66701ca609176d8fd4a9c4a0" alt="" width="50" /> | NCT | [🔗](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7c4240b7951da248f3404e42" alt="" width="50" /> | Steve Aoki | [🔗](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) |
@@ -49,6 +49,7 @@
 | 1 | <img src="nan" alt="" width="50" /> | Bang Chan | [🔗](https://open.spotify.com/artist/4qy7HANJDOZRObts4Z0KSV) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6034058cfde0084f922bb284" alt="" width="50" /> | ASTRO | [🔗](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273beda75335e465aef64b524ef" alt="" width="50" /> | DKB | [🔗](https://open.spotify.com/artist/4DoedGw38ubJdAT1edFsIx) |
+| 1 | <img src="https://i.scdn.co/image/ab6772690000c46cc8a347829c638ae6bbdb8434" alt="" width="50" /> | ONEWE | [🔗](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebaccf8c8763bf2fa909677c71" alt="" width="50" /> | DKZ | [🔗](https://open.spotify.com/artist/31eyTcfjAke5hFX3az3nRE) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27323bd8b27aeb3ad6d4f4339c4" alt="" width="50" /> | Wanna One | [🔗](https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
@@ -86,6 +87,7 @@
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273fd0d9a33127c1d3f58ba3504" alt="" width="50" /> | MADE | 2016-12-13 | [🔗](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | Love Yourself 結 'Answer' | 2018-08-24 | [🔗](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | Love Yourself 承 'Her' | 2017-09-18 | [🔗](https://open.spotify.com/album/2FTS6a6DLXMNp8flyA0HGO) |
+| 3 | <img src="https://i.scdn.co/image/ab67616d0000b2730d55f8c4b87267bcb003d57d" alt="" width="50" /> | HARMONY : SET IN | 2022-11-30 | [🔗](https://open.spotify.com/album/1JDHisMjuJ1QkhcXiiLnnX) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273fad8c4176e8df7173479f959" alt="" width="50" /> | GO LIVE | 2020-06-17 | [🔗](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273e70b87a4bd471f82768bdcb9" alt="" width="50" /> | DON'T FIGHT THE FEELING - Special Album | 2021-06-07 | [🔗](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="" width="50" /> | BE | 2020-11-20 | [🔗](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) |
@@ -152,6 +154,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="" width="50" /> | Proof | 2022-06-10 | [🔗](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734fa89604a84da7861228399b" alt="" width="50" /> | Present : YOU | 2018-09-18 | [🔗](https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273e099e697d0068b652fe6814e" alt="" width="50" /> | Positive | 2018-04-02 | [🔗](https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27361784115b2bd84e22fab0e95" alt="" width="50" /> | Planet Nine : VOYAGER | 2022-01-04 | [🔗](https://open.spotify.com/album/2mM97mU3Xh4IvV51Dwq8Ky) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734a0cdc709f34348b6d88635d" alt="" width="50" /> | PLAY - The 8th Album | 2017-11-06 | [🔗](https://open.spotify.com/album/1F7DAPXJpLVKfyZFSFsrCw) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27303b313cdf98d61d141645f11" alt="" width="50" /> | One of a Kind | 2021-06-01 | [🔗](https://open.spotify.com/album/2Zuovdo5g1RhfbHniwZ8yI) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273fc8b0918267ea555921863e8" alt="" width="50" /> | One In A Billion | 2022-09-06 | [🔗](https://open.spotify.com/album/19Jm8Jk0zQYs6zMaxhYJFd) |
@@ -165,8 +168,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738d47b664117ca39e7b1acfc9" alt="" width="50" /> | NCT #127 CHERRY BOMB– The 3rd Mini Album | 2017-06-14 | [🔗](https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732d10195d8d9abd1357fff450" alt="" width="50" /> | NCT #127 - The 1st Mini Album | 2016-07-10 | [🔗](https://open.spotify.com/album/7xmqXxPAmkgn5HK9FcyBxR) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273daf7982ccaad9ca5e1603792" alt="" width="50" /> | Mr. Simple - The 5th Album | 2011-08-02 | [🔗](https://open.spotify.com/album/0eouyQPmljivHfUuG5nYBa) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273560f17af6665e85575021bae" alt="" width="50" /> | Mixtape : Time Out | 2022-08-01 | [🔗](https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b97341ef9657dd8f4ab794dc" alt="" width="50" /> | Mixtape | 2018-01-08 | [🔗](https://open.spotify.com/album/1kTzTL0iOIE2IAGw83yY4O) |
 
 </details>
 
@@ -193,12 +194,12 @@
 | 7 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
 | 6 | [Universal Music LLC](../labels/universal_music_llc.md) |
 | 6 | [JYP Entertainment](../labels/jyp_entertainment.md) |
+| 5 | [FNC ENTERTAINMENT](../labels/fnc_entertainment.md) |
 | 5 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md) |
 | 4 | [WM Korea](../labels/wm_korea.md) |
-| 3 | FNC ENTERTAINMENT |
+| 3 | [RBW Inc.](../labels/rbw_inc_.md) |
 | 2 | 우조엔터테인먼트 |
 | 2 | [Starship Entertainment](../labels/starship_entertainment.md) |
-| 2 | [RBW Inc.](../labels/rbw_inc_.md) |
 | 2 | Cre.ker Entertainment |
 | 1 | 브레이브 엔터테인먼트 |
 | 1 | ㈜ 동요엔터테인먼트 |
@@ -225,8 +226,8 @@
 | Christmas EveL (0.878) | No More Dream (0.436) |
 | Love is New Gravity (0.878) | Just A Little Bit (0.441) |
 | 10 Months (0.876) | Side Effects (0.444) |
-| Feelin' Like (0.868) | Tap Tap (0.445) |
-| Beatbox (0.857) | Butterfly (0.448) |
+| BFF (Best Friends Forever) (0.872) | Tap Tap (0.445) |
+| Feelin' Like (0.868) | Butterfly (0.448) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -244,15 +245,15 @@
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | No More Dream (0.472) | She′s In The Rain (0.0264) |
-| MANIAC (0.411) | NANANA (0.0277) |
-| I GOT IT (HAN) (0.365) | LOVE SCENARIO (0.0307) |
-| Feelin' Like (0.353) | Drive (Bang Chan, Lee Know) (0.0314) |
-| VENOM (0.339) | Don't Wanna Cry (0.0325) |
-| Tap Tap (0.311) | Stars and Raindrops (Seungmin) (0.0329) |
-| Boy in Luv (0.306) | Lie (0.033) |
-| 3RACHA (Bang Chan, Changbin, HAN) (0.301) | The Eve (0.0334) |
-| Sparkling Night (0.299) | Sorry (0.0337) |
-| Cherry Bomb (0.287) | Airplane pt.2 (0.0339) |
+| MANIAC (0.411) | Envision_ (0.0275) |
+| I GOT IT (HAN) (0.365) | NANANA (0.0277) |
+| Feelin' Like (0.353) | LOVE SCENARIO (0.0307) |
+| VENOM (0.339) | Drive (Bang Chan, Lee Know) (0.0314) |
+| Tap Tap (0.311) | Don't Wanna Cry (0.0325) |
+| Boy in Luv (0.306) | Stars and Raindrops (Seungmin) (0.0329) |
+| 3RACHA (Bang Chan, Changbin, HAN) (0.301) | Lie (0.033) |
+| Sparkling Night (0.299) | The Eve (0.0334) |
+| Cherry Bomb (0.287) | Sorry (0.0337) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
