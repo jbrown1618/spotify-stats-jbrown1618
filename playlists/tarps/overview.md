@@ -211,12 +211,12 @@
 
 
 <details>
-<summary>See all 88 genres</summary>
+<summary>See all 87 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
 | 21 | [pop](../../genres/pop.md) |
-| 12 | [dance pop](../../genres/dance_pop.md) |
+| 11 | [dance pop](../../genres/dance_pop.md) |
 | 9 | [neo mellow](../../genres/neo_mellow.md) |
 | 7 | [rock](../../genres/rock.md) |
 | 7 | [classic rock](../../genres/classic_rock.md) |
@@ -277,7 +277,6 @@
 | 1 | lafayette indie |
 | 1 | irish rock |
 | 1 | instrumental bluegrass |
-| 1 | indie pop |
 | 1 | [hollywood](../../genres/hollywood.md) |
 | 1 | hip pop |
 | 1 | hip hop |

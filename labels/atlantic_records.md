@@ -1,9 +1,9 @@
 # Atlantic Records
 
-76 songs
+77 songs
 
 Appears as:
-- Atlantic Records (67 tracks)
+- Atlantic Records (68 tracks)
 - Atlantic Records/ATG (2 tracks)
 - Atlantic/KSR (2 tracks)
 - Nice Life/Atlantic (2 tracks)
@@ -34,6 +34,7 @@ Appears as:
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb07ccc2fd86f64d13368998de" alt="" width="50" /> | Jonathan Groff | [🔗](https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8c2332e6c0ed96d144a91b3f" alt="" width="50" /> | Cardi B | [🔗](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) |
 | 3 | <img src="https://i.scdn.co/image/207803ce008388d3427a685254f9de6a8f61dc2e" alt="" width="50" /> | Led Zeppelin | [🔗](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) |
+| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e2e2c78de847c4d9b12d32f" alt="" width="50" /> | Charlie Puth | [🔗](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb0d66b3670294bf801847dae2" alt="" width="50" /> | Lizzo | [🔗](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebce8d5be6690c6964069ab8e0" alt="" width="50" /> | Jason Mraz | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb8c7085cb6bc26d51b510656c" alt="" width="50" /> | Jasmine Cephas-Jones | [🔗](https://open.spotify.com/artist/4H3e5t5utgPvj6Nsuda5QF) |
@@ -41,7 +42,6 @@ Appears as:
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb378adae733fc578108e3f534" alt="" width="50" /> | Death Cab for Cutie | [🔗](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9bbbc124c9f0f75af892d97d" alt="" width="50" /> | Christina Perri | [🔗](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9bc0756eb16b241111bbc72b" alt="" width="50" /> | Colbie Caillat | [🔗](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e2e2c78de847c4d9b12d32f" alt="" width="50" /> | Charlie Puth | [🔗](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb90a228bbe264818694c54834" alt="" width="50" /> | Ally Brooke | [🔗](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) |
 | 1 | <img src="https://i.scdn.co/image/ab6772690000c46ca3ebb27ba9a55044f32af6e1" alt="" width="50" /> | Silk Sonic | [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410" alt="" width="50" /> | Clean Bandit | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
@@ -71,11 +71,11 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 24 albums](../images/labels/atlantic_records/albums.png)
+![Bar chart of top 25 albums](../images/labels/atlantic_records/albums.png)
 
 
 <details>
-<summary>See all 24 albums</summary>
+<summary>See all 25 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -101,6 +101,7 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27347e522adf030a78615cdea06" alt="" width="50" /> | Finesse (Remix) [feat. Cardi B] | 2017-12-20 | [🔗](https://open.spotify.com/album/3mumK2ar9b4JPhVOZR0V2p) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734d51081892dbe3f1ddf28914" alt="" width="50" /> | Cuz I Love You (Deluxe) | 2019-05-03 | [🔗](https://open.spotify.com/album/74gSdSHe71q7urGWMMn3qB) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="" width="50" /> | CRASH | 2022-03-18 | [🔗](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="" width="50" /> | CHARLIE | 2022-10-06 | [🔗](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27310356a0e81371e6644cb1371" alt="" width="50" /> | Boss Bitch | 2020-01-23 | [🔗](https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b817e721691aff3d67f26c04" alt="" width="50" /> | About Damn Time | 2022-04-14 | [🔗](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) |
 
@@ -113,14 +114,14 @@ Appears as:
 
 
 <details>
-<summary>See all 49 genres</summary>
+<summary>See all 50 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
 | 44 | [show tunes](../genres/show_tunes.md) |
 | 41 | [hollywood](../genres/hollywood.md) |
-| 20 | [pop](../genres/pop.md) |
-| 19 | [dance pop](../genres/dance_pop.md) |
+| 21 | [pop](../genres/pop.md) |
+| 20 | [dance pop](../genres/dance_pop.md) |
 | 16 | [broadway](../genres/broadway.md) |
 | 10 | vocal jazz |
 | 4 | [post-teen pop](../genres/post_teen_pop.md) |
@@ -144,6 +145,7 @@ Appears as:
 | 2 | edm |
 | 2 | alternative hip hop |
 | 2 | [acoustic pop](../genres/acoustic_pop.md) |
+| 1 | viral pop |
 | 1 | uk pop |
 | 1 | uk funky |
 | 1 | uk dance |
@@ -189,6 +191,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273288883647008cefba0db5402" alt="" width="50" /> | Please Me | Please Me | Cardi B, [Bruno Mars](../artists/bruno_mars.md) | [Atlantic/KSR](atlantic_records.md) | 💚 | [🔗](https://open.spotify.com/track/0PG9fbaaHFHfre2gUVo7AN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="" width="50" /> | WAP (feat. Megan Thee Stallion) | WAP (feat. Megan Thee Stallion) | Cardi B, Megan Thee Stallion | [Atlantic/KSR](atlantic_records.md) | 💚 | [🔗](https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="" width="50" /> | Good Ones | CRASH | Charli XCX | [Atlantic Records](atlantic_records.md) | 💚 | [🔗](https://open.spotify.com/track/2grSOc6HNTXQQXNoRKt9UM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="" width="50" /> | Light Switch | CHARLIE | Charlie Puth | [Atlantic Records](atlantic_records.md) | | [🔗](https://open.spotify.com/track/1jEBSDN5vYViJQr78W7jr2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27326a2f5224465a369f8abbf88" alt="" width="50" /> | Jar of Hearts | lovestrong. | Christina Perri | [Atlantic Records](atlantic_records.md) | | [🔗](https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | Cabinet Battle #1 | Hamilton (Original Broadway Cast Recording) | Christopher Jackson, [Daveed Diggs](../artists/daveed_diggs.md), [Lin-Manuel Miranda](../artists/lin_manuel_miranda.md), [Okieriete Onaodowan](../artists/okieriete_onaodowan.md) | [Atlantic Records](atlantic_records.md) | | [🔗](https://open.spotify.com/track/3TfKt8mPpdXfQTMfRjHzyz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | Cabinet Battle #2 | Hamilton (Original Broadway Cast Recording) | Christopher Jackson, [Daveed Diggs](../artists/daveed_diggs.md), [Lin-Manuel Miranda](../artists/lin_manuel_miranda.md), [Okieriete Onaodowan](../artists/okieriete_onaodowan.md) | [Atlantic Records](atlantic_records.md) | | [🔗](https://open.spotify.com/track/6KRHMYPIWRgFWlXPgqO2Fp) |

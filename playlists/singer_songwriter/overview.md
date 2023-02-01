@@ -221,14 +221,13 @@
 | 25 | [classic rock](../../genres/classic_rock.md) |
 | 24 | [rock](../../genres/rock.md) |
 | 18 | [art pop](../../genres/art_pop.md) |
-| 14 | indie pop |
+| 13 | indie pop |
 | 12 | folk |
 | 9 | nz pop |
 | 9 | [electropop](../../genres/electropop.md) |
 | 9 | bergen indie |
 | 8 | nyc pop |
 | 8 | metropopolis |
-| 8 | indie r&b |
 | 8 | etherpop |
 | 8 | canadian singer-songwriter |
 | 6 | glam rock |
@@ -257,6 +256,7 @@
 | 1 | canadian pop |
 | 1 | canadian indie |
 | 1 | british soul |
+| 1 | alternative r&b |
 | 1 | alt z |
 
 </details>

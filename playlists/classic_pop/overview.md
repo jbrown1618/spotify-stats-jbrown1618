@@ -153,7 +153,7 @@
 
 
 <details>
-<summary>See all 39 genres</summary>
+<summary>See all 38 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -190,7 +190,6 @@
 | 1 | latin pop |
 | 1 | jazz trumpet |
 | 1 | jazz blues |
-| 1 | indie r&b |
 | 1 | [hollywood](../../genres/hollywood.md) |
 | 1 | doo-wop |
 | 1 | country rock |

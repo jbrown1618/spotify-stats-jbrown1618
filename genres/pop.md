@@ -1,6 +1,6 @@
 # pop
 
-[495 songs](pop_tracks.md)
+[497 songs](pop_tracks.md)
 
 ## Top Artists
 
@@ -51,6 +51,7 @@
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bbad89a61061304ec842588" alt="" width="50" /> | P!nk | [🔗](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb2be8611f6c6e9174031c64df" alt="" width="50" /> | JEON SOMI | [🔗](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb37bff6aa1d42bede9048750f" alt="" width="50" /> | Calvin Harris | [🔗](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) |
+| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e2e2c78de847c4d9b12d32f" alt="" width="50" /> | Charlie Puth | [🔗](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb6659b1cb61936bd7bcb229a2" alt="" width="50" /> | Demi Lovato | [🔗](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebaed3c717bf1753ab928ea88d" alt="" width="50" /> | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebabe53b210d382c4c450d7709" alt="" width="50" /> | MIKA | [🔗](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) |
@@ -60,7 +61,6 @@
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | Jessie J | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebee954a3b5418065c2fe253fb" alt="" width="50" /> | Olivia Rodrigo | [🔗](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd66f1e0c883f319443d68c45" alt="" width="50" /> | Lil Nas X | [🔗](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e2e2c78de847c4d9b12d32f" alt="" width="50" /> | Charlie Puth | [🔗](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | Iggy Azalea | [🔗](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | B.o.B | [🔗](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | Juicy J | [🔗](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) |
@@ -84,6 +84,7 @@
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7926088433d79485da5e1734" alt="" width="50" /> | Mabel | [🔗](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bebfdee4c4cfea3473a51ab" alt="" width="50" /> | Megan Thee Stallion | [🔗](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc4902f080d3620b3e6da80c3" alt="" width="50" /> | Lorde | [🔗](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) |
+| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb581efa688945cbb092df1726" alt="" width="50" /> | Avril Lavigne | [🔗](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA | [🔗](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9ce6b84393575f91c4f4634" alt="" width="50" /> | B.I | [🔗](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eba5205abffd84341e5bace828" alt="" width="50" /> | Selena Gomez | [🔗](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) |
@@ -113,7 +114,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3c02f4fb4cc9187c488afd50" alt="" width="50" /> | The Chainsmokers | [🔗](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb66d17ee8690d2e8d94ee7387" alt="" width="50" /> | Martin Garrix | [🔗](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8079989370c50963b60ee7bc" alt="" width="50" /> | CeeLo Green | [🔗](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9fbf7133dfc04d4cd44ccd36" alt="" width="50" /> | ZAYN | [🔗](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) |
 
 </details>
 
@@ -248,8 +248,8 @@
 | 29 | [Big Machine Records](../labels/big_machine_records.md) |
 | 26 | [RCA Records Label](../labels/rca_records_label.md) |
 | 24 | [Polydor Records](../labels/polydor_records.md) |
+| 21 | [Atlantic Records](../labels/atlantic_records.md) |
 | 20 | [SM Entertainment](../labels/sm_entertainment.md) |
-| 20 | [Atlantic Records](../labels/atlantic_records.md) |
 | 19 | [Warner Records](../labels/warner_records.md) |
 | 15 | [Universal-Island Records Ltd.](../labels/universal_island_records_ltd_.md) |
 | 15 | [Republic Records](../labels/republic_records.md) |
@@ -294,6 +294,7 @@
 | 2 | Def Jam |
 | 2 | Cash Money |
 | 2 | Artist Partner |
+| 2 | Arista |
 | 2 | ATG |
 | 2 | A Star is Born OST |
 | 1 | under exclusive license to Interscope Records |
@@ -340,7 +341,6 @@
 | 1 | Capitol Records (US1A) |
 | 1 | Capitol Records (CAP) |
 | 1 | CJ E&M MUSIC |
-| 1 | Big Beat Records |
 
 </details>
 
@@ -369,9 +369,9 @@
 | My Happy Ending (0.936) | xanny (0.125) |
 | This Is What You Came For (0.927) | Julia (0.128) |
 | Bad Romance (0.921) | Come Home (0.155) |
-| Red (0.896) | Sweet Nothing (0.156) |
-| Bad Idea (feat. Jason Mraz) (0.889) | Manhattan (0.168) |
-| Levitating (0.884) | Bright Lights and Cityscapes (0.184) |
+| Sk8er Boi (0.9) | Sweet Nothing (0.156) |
+| Red (0.896) | Manhattan (0.168) |
+| Bad Idea (feat. Jason Mraz) (0.889) | Bright Lights and Cityscapes (0.184) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -388,29 +388,29 @@
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| when the party's over (0.978) | Misery (0.000315) |
-| Bright Lights and Cityscapes (0.977) | Coño (0.000554) |
-| Manhattan (0.972) | Out Of The Woods (0.00103) |
-| Norman fucking Rockwell (0.968) | My Happy Ending (0.00136) |
-| Sweet Nothing (0.964) | Blinding Lights (0.00146) |
-| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 (0.959) | Maniac (0.00162) |
-| Take It All (0.957) | I Kissed A Girl (0.00223) |
-| Skinny Love (0.952) | Don’t Call Me Angel (Charlie’s Angels) (with Miley Cyrus & Lana Del Rey) (0.00237) |
-| Come Home (0.947) | Yellow (0.00239) |
-| Stay (0.945) | Bootylicious (0.00247) |
+| when the party's over (0.978) | Sk8er Boi (6.79e-05) |
+| Bright Lights and Cityscapes (0.977) | Misery (0.000315) |
+| Manhattan (0.972) | Coño (0.000554) |
+| Norman fucking Rockwell (0.968) | Out Of The Woods (0.00103) |
+| Sweet Nothing (0.964) | My Happy Ending (0.00136) |
+| Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 (0.959) | Blinding Lights (0.00146) |
+| Take It All (0.957) | Maniac (0.00162) |
+| Skinny Love (0.952) | I Kissed A Girl (0.00223) |
+| Come Home (0.947) | Don’t Call Me Angel (Charlie’s Angels) (with Miley Cyrus & Lana Del Rey) (0.00237) |
+| Stay (0.945) | Yellow (0.00239) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| everything i wanted (0.657) | Say You're Sorry (0.0) |
-| Smooth Criminal - 2012 Remaster (0.468) | Sweet As Whole (0.0) |
-| Swan Song (0.421) | Clean (0.0) |
-| Wanna Be Startin' Somethin' (0.419) | This Is Why We Can't Have Nice Things (0.0) |
-| you should see me in a crown (0.219) | Love Me Like You Do (0.0) |
-| bury a friend (0.162) | You've Got The Love (0.0) |
-| Therefore I Am (0.135) | React (0.0) |
-| bad guy (0.13) | TiK ToK (0.0) |
-| This Is What You Came For (0.119) | Jar of Hearts (0.0) |
-| Bel Air (0.0875) | Lucky (0.0) |
+| everything i wanted (0.657) | Sk8er Boi (0.0) |
+| Smooth Criminal - 2012 Remaster (0.468) | Say You're Sorry (0.0) |
+| Swan Song (0.421) | Sweet As Whole (0.0) |
+| Wanna Be Startin' Somethin' (0.419) | Clean (0.0) |
+| you should see me in a crown (0.219) | This Is Why We Can't Have Nice Things (0.0) |
+| bury a friend (0.162) | Love Me Like You Do (0.0) |
+| Therefore I Am (0.135) | You've Got The Love (0.0) |
+| bad guy (0.13) | React (0.0) |
+| This Is What You Came For (0.119) | TiK ToK (0.0) |
+| Bel Air (0.0875) | Jar of Hearts (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|

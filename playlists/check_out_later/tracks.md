@@ -2,6 +2,7 @@
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="" width="50" /> | Light Switch | CHARLIE | Charlie Puth | [Atlantic Records](../../labels/atlantic_records.md) | | [🔗](https://open.spotify.com/track/1jEBSDN5vYViJQr78W7jr2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c1b217d3bb2ef206b92cd968" alt="" width="50" /> | GLT | A Reckoning | [Kimbra](../../artists/kimbra.md), Erick the Architect | [Kimbra](../../labels/kimbra.md) | | [🔗](https://open.spotify.com/track/3UqL8pF7NmlF4Hlz2JL0u4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c1b217d3bb2ef206b92cd968" alt="" width="50" /> | foolish thinking | A Reckoning | [Kimbra](../../artists/kimbra.md), Ryan Lott | [Kimbra](../../labels/kimbra.md) | | [🔗](https://open.spotify.com/track/2TVMfEi6tqg5cxrg18n21s) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c1b217d3bb2ef206b92cd968" alt="" width="50" /> | gun | A Reckoning | [Kimbra](../../artists/kimbra.md) | [Kimbra](../../labels/kimbra.md) | | [🔗](https://open.spotify.com/track/2bhRhyDF9IqGaLzkmSkGLg) |

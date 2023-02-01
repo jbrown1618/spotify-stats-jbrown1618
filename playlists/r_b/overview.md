@@ -228,7 +228,7 @@
 | 63 | [pop](../../genres/pop.md) |
 | 53 | [dance pop](../../genres/dance_pop.md) |
 | 29 | [r&b](../../genres/r_b.md) |
-| 24 | urban contemporary |
+| 23 | urban contemporary |
 | 12 | soul |
 | 12 | neo soul |
 | 10 | barbadian pop |

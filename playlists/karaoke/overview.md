@@ -213,8 +213,8 @@
 | 13 | [neo mellow](../../genres/neo_mellow.md) |
 | 10 | [pop rock](../../genres/pop_rock.md) |
 | 10 | [mellow gold](../../genres/mellow_gold.md) |
-| 10 | [dance pop](../../genres/dance_pop.md) |
 | 10 | [acoustic pop](../../genres/acoustic_pop.md) |
+| 9 | [dance pop](../../genres/dance_pop.md) |
 | 8 | piano rock |
 | 7 | [soft rock](../../genres/soft_rock.md) |
 | 7 | [lilith](../../genres/lilith.md) |

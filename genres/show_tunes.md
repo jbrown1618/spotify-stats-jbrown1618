@@ -71,7 +71,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5dcabf363571181dba3ecf66" alt="" width="50" /> | Matthew Wilder | [🔗](https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP) |
 | 1 | <img src="nan" alt="" width="50" /> | Janos Kurucz | [🔗](https://open.spotify.com/artist/3MiTXPOmIgoJioulWki8dz) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d5357dc1699d3f51fd2a1ab3" alt="" width="50" /> | Jennifer Ellison | [🔗](https://open.spotify.com/artist/3FAYTkACAc9Ir1snu0ZzSy) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273505642d91330f9b873c3e576" alt="" width="50" /> | David Bryant | [🔗](https://open.spotify.com/artist/2yPfp367ZwywK1lbGg00b8) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27354bf67d6993451d2c9eae5e1" alt="" width="50" /> | David Bryant | [🔗](https://open.spotify.com/artist/2yPfp367ZwywK1lbGg00b8) |
 | 1 | <img src="nan" alt="" width="50" /> | Randy Graff | [🔗](https://open.spotify.com/artist/2iRiwwxcJb6fXCxO5jt1cz) |
 | 1 | <img src="nan" alt="" width="50" /> | Sydney James Harcourt | [🔗](https://open.spotify.com/artist/2fHcpUAFhqmfloo2HkBN3e) |
 | 1 | <img src="https://i.scdn.co/image/038078d1e58100273d291941ce8ef965a62a70c6" alt="" width="50" /> | Marni Nixon | [🔗](https://open.spotify.com/artist/2Npf96k0QoY8YYwqnELDmQ) |

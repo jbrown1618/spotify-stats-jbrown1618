@@ -70,7 +70,7 @@ Appears as:
 
 
 <details>
-<summary>See all 35 genres</summary>
+<summary>See all 34 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -81,7 +81,6 @@ Appears as:
 | 10 | album rock |
 | 9 | [singer-songwriter](../genres/singer_songwriter.md) |
 | 9 | folk |
-| 8 | indie r&b |
 | 8 | canadian singer-songwriter |
 | 7 | yacht rock |
 | 7 | [mellow gold](../genres/mellow_gold.md) |

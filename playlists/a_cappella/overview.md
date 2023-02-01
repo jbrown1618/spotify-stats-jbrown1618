@@ -289,7 +289,7 @@
 
 
 <details>
-<summary>See all 34 genres</summary>
+<summary>See all 33 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -320,7 +320,6 @@
 | 1 | renaissance |
 | 1 | piano rock |
 | 1 | permanent wave |
-| 1 | indie r&b |
 | 1 | franco-flemish school |
 | 1 | folk |
 | 1 | [early music](../../genres/early_music.md) |

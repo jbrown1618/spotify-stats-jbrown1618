@@ -359,8 +359,8 @@
 | 609 | [k-pop](../../genres/k_pop.md) |
 | 352 | [pop](../../genres/pop.md) |
 | 291 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
-| 166 | [dance pop](../../genres/dance_pop.md) |
 | 162 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
+| 159 | [dance pop](../../genres/dance_pop.md) |
 | 100 | [rock](../../genres/rock.md) |
 | 78 | [classic rock](../../genres/classic_rock.md) |
 | 61 | [neo mellow](../../genres/neo_mellow.md) |
@@ -370,7 +370,7 @@
 | 43 | [hollywood](../../genres/hollywood.md) |
 | 42 | [mellow gold](../../genres/mellow_gold.md) |
 | 41 | [post-teen pop](../../genres/post_teen_pop.md) |
-| 35 | [electropop](../../genres/electropop.md) |
+| 36 | [electropop](../../genres/electropop.md) |
 | 34 | [art pop](../../genres/art_pop.md) |
 | 33 | [folk rock](../../genres/folk_rock.md) |
 | 32 | [soft rock](../../genres/soft_rock.md) |
@@ -393,12 +393,12 @@
 | 18 | hard rock |
 | 18 | art rock |
 | 18 | [a cappella](../../genres/a_cappella.md) |
+| 17 | indie pop |
 | 16 | uk pop |
 | 16 | neo soul |
 | 16 | k-rap |
-| 16 | indie pop |
-| 15 | urban contemporary |
 | 15 | metropopolis |
+| 14 | urban contemporary |
 | 14 | uk alternative pop |
 | 14 | melancholia |
 | 14 | folk |
@@ -420,7 +420,6 @@
 | 8 | pop dance |
 | 8 | latin pop |
 | 8 | korean city pop |
-| 8 | indie r&b |
 | 8 | etherpop |
 | 8 | blues rock |
 | 8 | bergen indie |
@@ -456,6 +455,7 @@
 | 5 | anti-folk |
 | 5 | afrofuturism |
 | 4 | yacht rock |
+| 4 | vocal jazz |
 
 </details>
 

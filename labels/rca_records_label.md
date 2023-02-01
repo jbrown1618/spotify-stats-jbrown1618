@@ -120,13 +120,13 @@ Appears as:
 
 
 <details>
-<summary>See all 34 genres</summary>
+<summary>See all 35 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
 | 36 | [a cappella](../genres/a_cappella.md) |
-| 28 | [dance pop](../genres/dance_pop.md) |
 | 26 | [pop](../genres/pop.md) |
+| 20 | [dance pop](../genres/dance_pop.md) |
 | 8 | australian pop |
 | 8 | australian dance |
 | 4 | [post-teen pop](../genres/post_teen_pop.md) |
@@ -151,6 +151,7 @@ Appears as:
 | 1 | italian pop |
 | 1 | indie rock italiano |
 | 1 | indie pop rap |
+| 1 | indie pop |
 | 1 | hip hop |
 | 1 | [electropop](../genres/electropop.md) |
 | 1 | doo-wop |
