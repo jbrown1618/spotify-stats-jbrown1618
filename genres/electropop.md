@@ -1,6 +1,6 @@
 # electropop
 
-[59 songs](electropop_tracks.md)
+[51 songs](electropop_tracks.md)
 
 ## Top Artists
 
@@ -10,21 +10,21 @@
 
 
 <details>
-<summary>See all 32 artists</summary>
+<summary>See all 31 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
-| 23 | <img src="https://i.scdn.co/image/ab6761610000e5eb4765d540a1ebedeb7c9637a2" alt="" width="50" /> | [Kimbra](../artists/kimbra.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
+| 16 | <img src="https://i.scdn.co/image/ab6761610000e5eb4765d540a1ebedeb7c9637a2" alt="" width="50" /> | [Kimbra](../artists/kimbra.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 | 10 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../artists/billie_eilish.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb3ea2c03525939b482f8d3bfd" alt="" width="50" /> | Janelle Monáe | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb0db36498679f03f30606d45f" alt="" width="50" /> | Ellie Goulding | [🔗](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5af53f295e6c42529fbd0873" alt="" width="50" /> | Lauv | [🔗](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb576cb43281160e345f728b71" alt="" width="50" /> | Charli XCX | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb358577f183465ae7698a53a7" alt="" width="50" /> | Carly Rae Jepsen | [🔗](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375" alt="" width="50" /> | Hatsune Miku | [🔗](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb31072db9da0311ecfabe96bf" alt="" width="50" /> | Khalid | [🔗](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3c02f4fb4cc9187c488afd50" alt="" width="50" /> | The Chainsmokers | [🔗](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5af53f295e6c42529fbd0873" alt="" width="50" /> | Lauv | [🔗](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9f754de994ed3b6e8f01522" alt="" width="50" /> | Jidenna | [🔗](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd06f948216f34ea0298aef43" alt="" width="50" /> | Caroline Polachek | [🔗](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) |
 | 1 | <img src="https://i.scdn.co/image/145b7b08e7f1de22d033e957c0888a5f9e0c99e6" alt="" width="50" /> | Leighton Meester | [🔗](https://open.spotify.com/artist/481VlDdXZAIRxnHyywNbXn) |
@@ -33,7 +33,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9df0f924a5e609c8da143cd5" alt="" width="50" /> | A. G. Cook | [🔗](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bb5ab9683125fc416c9dbfb" alt="" width="50" /> | Zedd | [🔗](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb681c41605634023c51b783b9" alt="" width="50" /> | Erick the Architect | [🔗](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) |
 | 1 | <img src="nan" alt="" width="50" /> | Tommy Raps | [🔗](https://open.spotify.com/artist/2jDVhHiltj9mEWoIGdBg3z) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f3c0dffb5229c8734ff60b2" alt="" width="50" /> | Big Boi | [🔗](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc48ae32aff5303453105b2d3" alt="" width="50" /> | Cobra Starship | [🔗](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY) |
@@ -55,17 +54,16 @@
 
 
 <details>
-<summary>See all 34 albums</summary>
+<summary>See all 33 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
-| 10 | <img src="https://i.scdn.co/image/ab67616d0000b273c1b217d3bb2ef206b92cd968" alt="" width="50" /> | A Reckoning | 2023-01-27 | [🔗](https://open.spotify.com/album/2LXTIciAcMZ6wa96d9sLnM) |
 | 7 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Vows (Deluxe Version) | 2011 | [🔗](https://open.spotify.com/album/6V9rvW05Um5bIHePPfeI8p) |
 | 5 | <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | 2019-03-29 | [🔗](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) |
 | 5 | <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="" width="50" /> | Primal Heart | 2018-04-20 | [🔗](https://open.spotify.com/album/4pj0BkJ7u39i009oqe8V79) |
+| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273c1b217d3bb2ef206b92cd968" alt="" width="50" /> | A Reckoning | 2023-01-27 | [🔗](https://open.spotify.com/album/2LXTIciAcMZ6wa96d9sLnM) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273a90401b8d27cd6b5f3a46242" alt="" width="50" /> | Lights | 2011-01-01 | [🔗](https://open.spotify.com/album/3duZhvcaoqdNveQYXf9dMV) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2730a60fb0deda858270cca82ee" alt="" width="50" /> | Dirty Computer | 2018-04-27 | [🔗](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732c0e1e9e1fd1e7b132da1606" alt="" width="50" /> | ~how i'm feeling~ | 2020-03-06 | [🔗](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c" alt="" width="50" /> | lovely (with Khalid) | 2018-04-19 | [🔗](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2730f7ad6d8d829906c17cae210" alt="" width="50" /> | hopeless fountain kingdom (Deluxe) | 2017-06-02 | [🔗](https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f2248cf6dad1d6c062587249" alt="" width="50" /> | everything i wanted | 2019-11-13 | [🔗](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) |
@@ -99,20 +97,20 @@
 
 ## Top Record Labels
 
-![Bar chart of top 28 record labels](../images/genres/electropop/labels.png)
+![Bar chart of top 27 record labels](../images/genres/electropop/labels.png)
 
 
 <details>
-<summary>See all 28 labels</summary>
+<summary>See all 27 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
 | 13 | [Warner Records](../labels/warner_records.md) |
-| 10 | [Kimbra](../labels/kimbra.md) |
 | 10 | [Darkroom](../labels/darkroom.md) |
 | 9 | [Interscope Records](../labels/interscope_records.md) |
 | 4 | [Polydor Records](../labels/polydor_records.md) |
 | 4 | Bad Boy |
+| 3 | Kimbra |
 | 2 | Wondaland |
 | 2 | [Capitol Records](../labels/capitol_records.md) |
 | 1 | VÉRITÉ |
@@ -124,7 +122,6 @@
 | 1 | Perpetual Novice |
 | 1 | Parlophone UK |
 | 1 | Metric Music International |
-| 1 | Lauv |
 | 1 | Island Records |
 | 1 | Fueled By Ramen |
 | 1 | FSF |
@@ -144,41 +141,41 @@
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | bury a friend (0.905) | lovely (with Khalid) (0.351) |
-| Therefore I Am (0.879) | save me (0.361) |
-| Make Me Feel (0.859) | when the party's over (0.367) |
-| Good Intent (0.851) | No Time To Die (0.38) |
-| GLT (0.837) | i don't want to fight (0.389) |
-| replay! (0.806) | Waltz Me to the Grave (0.394) |
-| Call Me Maybe (0.783) | foolish thinking (0.416) |
-| la type (0.773) | Like They Do on the TV (0.463) |
-| Daisy 2.0 (feat. Hatsune Miku) (0.773) | Gimme Sympathy (0.47) |
-| Recovery (0.767) | Old Flame (0.476) |
+| Therefore I Am (0.879) | when the party's over (0.367) |
+| Make Me Feel (0.859) | No Time To Die (0.38) |
+| Good Intent (0.851) | Waltz Me to the Grave (0.394) |
+| replay! (0.806) | foolish thinking (0.416) |
+| Call Me Maybe (0.783) | Like They Do on the TV (0.463) |
+| la type (0.773) | Gimme Sympathy (0.47) |
+| Daisy 2.0 (feat. Hatsune Miku) (0.773) | Old Flame (0.476) |
+| Recovery (0.767) | I Like That (0.482) |
+| Good Ones (0.764) | Love Me Like You Do (0.489) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
 | Cameo Lover (0.922) | when the party's over (0.111) |
 | Like They Do on the TV (0.911) | xanny (0.125) |
-| Gimme Sympathy (0.886) | Julia (0.128) |
-| Good Girls Go Bad (feat. Leighton Meester) (0.874) | i don't want to fight (0.173) |
-| Something In The Way You Move (0.814) | foolish thinking (0.176) |
-| Recovery (0.8) | Your Song (0.195) |
-| Lights - Single Version (0.789) | No Time To Die (0.219) |
-| Top of the World (0.762) | everything i wanted (0.225) |
-| Bad At Love (0.751) | save me (0.243) |
-| SUGA's Interlude (0.732) | personal space (0.268) |
+| Gimme Sympathy (0.886) | foolish thinking (0.176) |
+| Good Girls Go Bad (feat. Leighton Meester) (0.874) | Your Song (0.195) |
+| Something In The Way You Move (0.814) | No Time To Die (0.219) |
+| Recovery (0.8) | everything i wanted (0.225) |
+| Lights - Single Version (0.789) | lovely (with Khalid) (0.296) |
+| Top of the World (0.762) | Waltz Me to the Grave (0.352) |
+| Bad At Love (0.751) | ocean eyes (0.363) |
+| SUGA's Interlude (0.732) | Therefore I Am (0.365) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | bad guy (0.375) | Love Me Like You Do (0.0292) |
 | bury a friend (0.332) | Good Ones (0.0293) |
-| GLT (0.332) | Bad At Love (0.0296) |
-| xanny (0.239) | Your Song (0.0311) |
-| personal space (0.226) | lovely (with Khalid) (0.0333) |
-| you should see me in a crown (0.186) | Closer (0.0338) |
-| la type (0.183) | Old Flame (0.0342) |
-| Make Me Feel (0.182) | The Good War (0.0343) |
-| new habit (0.162) | Lights - Single Version (0.0353) |
-| Like They Do on the TV (0.134) | save me (0.0357) |
+| xanny (0.239) | Bad At Love (0.0296) |
+| you should see me in a crown (0.186) | Your Song (0.0311) |
+| la type (0.183) | lovely (with Khalid) (0.0333) |
+| Make Me Feel (0.182) | Closer (0.0338) |
+| Like They Do on the TV (0.134) | Old Flame (0.0342) |
+| Say My Name (0.125) | The Good War (0.0343) |
+| SUGA's Interlude (0.105) | Lights - Single Version (0.0353) |
+| everything i wanted (0.0994) | No Time To Die (0.0358) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -187,47 +184,47 @@
 | lovely (with Khalid) (0.934) | Lightyears (0.0114) |
 | No Time To Die (0.917) | Call Me Maybe (0.0114) |
 | foolish thinking (0.917) | Good Girls Go Bad (feat. Leighton Meester) (0.0116) |
-| Julia (0.905) | Yoga (0.0159) |
-| everything i wanted (0.902) | The Good War (0.0208) |
-| Plain Gold Ring (0.9) | Lights - Single Version (0.0283) |
-| i don't want to fight (0.829) | Tightrope (feat. Big Boi) - Big Boi Vocal Edit (0.0302) |
-| ocean eyes (0.816) | replay! (0.0305) |
+| everything i wanted (0.902) | Yoga (0.0159) |
+| Plain Gold Ring (0.9) | The Good War (0.0208) |
+| ocean eyes (0.816) | Lights - Single Version (0.0283) |
+| xanny (0.751) | Tightrope (feat. Big Boi) - Big Boi Vocal Edit (0.0302) |
+| bury a friend (0.74) | replay! (0.0305) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | everything i wanted (0.657) | Love Me Like You Do (0.0) |
 | you should see me in a crown (0.219) | Daisy 2.0 (feat. Hatsune Miku) (0.0) |
 | bury a friend (0.162) | lovely (with Khalid) (0.0) |
-| Therefore I Am (0.135) | Julia (0.0) |
-| bad guy (0.13) | personal space (0.0) |
-| Like They Do on the TV (0.114) | Say My Name (0.0) |
-| Top of the World (0.0626) | The Good War (0.0) |
-| i don't want to fight (0.0589) | GLT (0.0) |
-| Lights - Single Version (0.0492) | SUGA's Interlude (0.0) |
-| ocean eyes (0.0317) | Good Thing (with Kehlani) (0.0) |
+| Therefore I Am (0.135) | Say My Name (0.0) |
+| bad guy (0.13) | The Good War (0.0) |
+| Like They Do on the TV (0.114) | SUGA's Interlude (0.0) |
+| Top of the World (0.0626) | Good Thing (with Kehlani) (0.0) |
+| Lights - Single Version (0.0492) | Make Me Feel (0.0) |
+| ocean eyes (0.0317) | la type (0.0) |
+| Lightyears (0.0149) | Slow Grenade (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| GLT (0.582) | Good Thing (with Kehlani) (0.0409) |
-| Good Girls Go Bad (feat. Leighton Meester) (0.549) | SUGA's Interlude (0.0425) |
-| Billions (0.374) | River (0.0579) |
-| Make Me Feel (0.334) | Therefore I Am (0.0583) |
-| Old Flame (0.305) | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (0.0585) |
-| personal space (0.266) | Say My Name (0.0596) |
-| xanny (0.265) | replay! (0.063) |
-| Daisy 2.0 (feat. Hatsune Miku) (0.234) | i don't want to fight (0.069) |
-| Tightrope (feat. Big Boi) - Big Boi Vocal Edit (0.219) | Lightyears (0.0731) |
-| Yoga (0.209) | Settle Down (0.0733) |
+| Good Girls Go Bad (feat. Leighton Meester) (0.549) | Good Thing (with Kehlani) (0.0409) |
+| Billions (0.374) | SUGA's Interlude (0.0425) |
+| Make Me Feel (0.334) | River (0.0579) |
+| Old Flame (0.305) | Therefore I Am (0.0583) |
+| xanny (0.265) | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (0.0585) |
+| Daisy 2.0 (feat. Hatsune Miku) (0.234) | Say My Name (0.0596) |
+| Tightrope (feat. Big Boi) - Big Boi Vocal Edit (0.219) | replay! (0.063) |
+| Yoga (0.209) | Lightyears (0.0731) |
+| Somebody Else (0.209) | Settle Down (0.0733) |
+| Good Intent (0.204) | Good Ones (0.0806) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Good Intent (0.834) | No Time To Die (0.0517) |
 | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (0.824) | xanny (0.0528) |
 | Lights - Single Version (0.809) | Waltz Me to the Grave (0.0748) |
-| Good Ones (0.789) | save me (0.0756) |
-| Recovery (0.771) | i don't want to fight (0.0802) |
-| la type (0.761) | The Good War (0.0928) |
-| Make Me Feel (0.697) | Old Flame (0.0932) |
-| Cameo Lover (0.669) | Gimme Sympathy (0.119) |
-| Therefore I Am (0.663) | lovely (with Khalid) (0.12) |
-| Closer (0.661) | ocean eyes (0.169) |
+| Good Ones (0.789) | The Good War (0.0928) |
+| Recovery (0.771) | Old Flame (0.0932) |
+| la type (0.761) | Gimme Sympathy (0.119) |
+| Make Me Feel (0.697) | lovely (with Khalid) (0.12) |
+| Cameo Lover (0.669) | ocean eyes (0.169) |
+| Therefore I Am (0.663) | I Like That (0.17) |
+| Closer (0.661) | bury a friend (0.196) |

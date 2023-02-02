@@ -114,7 +114,7 @@ Appears as:
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 31 | [pop](../genres/pop.md) |
+| 32 | [pop](../genres/pop.md) |
 | 31 | [k-pop](../genres/k_pop.md) |
 | 23 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 | 19 | [art pop](../genres/art_pop.md) |

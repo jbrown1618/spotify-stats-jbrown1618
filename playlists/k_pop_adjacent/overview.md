@@ -119,11 +119,11 @@
 
 ## Genres
 
-![Bar chart of top 28 genres](../../images/playlists/k_pop_adjacent/genres.png)
+![Bar chart of top 29 genres](../../images/playlists/k_pop_adjacent/genres.png)
 
 
 <details>
-<summary>See all 28 genres</summary>
+<summary>See all 29 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -131,6 +131,7 @@
 | 6 | [dance pop](../../genres/dance_pop.md) |
 | 4 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 3 | [r&b](../../genres/r_b.md) |
+| 3 | [k-pop](../../genres/k_pop.md) |
 | 3 | canadian pop |
 | 2 | rap |
 | 2 | pop rap |

@@ -125,8 +125,8 @@ Appears as:
 | Number of Tracks | Genre |
 |---:|:---|
 | 36 | [a cappella](../genres/a_cappella.md) |
+| 28 | [dance pop](../genres/dance_pop.md) |
 | 26 | [pop](../genres/pop.md) |
-| 20 | [dance pop](../genres/dance_pop.md) |
 | 8 | australian pop |
 | 8 | australian dance |
 | 4 | [post-teen pop](../genres/post_teen_pop.md) |

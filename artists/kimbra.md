@@ -7,8 +7,7 @@
 ## Featured on Playlists
 | Number of Tracks | Art | Playlist |
 |---:|:---|:---|
-| 14 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273028c3bb4b81ee71dd73d1596ab67616d0000b27392c885317fbe4bfa680109b4ab67616d0000b273d0ec2db731952a7efabc6397ab67616d0000b273df55e326ed144ab4f5cecf95" alt="" width="50" /> | [Indie/Alternative](../playlists/indie_alternative/overview.md) |
-| 10 | <img src="https://i.scdn.co/image/ab67616d0000b273c1b217d3bb2ef206b92cd968" alt="" width="50" /> | [Check Out Later](../playlists/check_out_later/overview.md) |
+| 17 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273028c3bb4b81ee71dd73d1596ab67616d0000b27392c885317fbe4bfa680109b4ab67616d0000b273d0ec2db731952a7efabc6397ab67616d0000b273df55e326ed144ab4f5cecf95" alt="" width="50" /> | [Indie/Alternative](../playlists/indie_alternative/overview.md) |
 | 9 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273022b4010e20659300f42c375ab67616d0000b2730e402844f1b6be3102d339f2ab67616d0000b2733378545422c5257483f6230eab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | [Singer-Songwriter](../playlists/singer_songwriter/overview.md) |
 | 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | [Pop](../playlists/pop/overview.md) |
 | 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732d73b1bb77cee09f0278be04ab67616d0000b2736f50b3400595b123a916e0dcab67616d0000b2739ab215825eb77076b1b4b387ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | [Karaoke](../playlists/karaoke/overview.md) |
@@ -17,9 +16,9 @@
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
-| 10 | <img src="https://i.scdn.co/image/ab67616d0000b273c1b217d3bb2ef206b92cd968" alt="" width="50" /> | A Reckoning | 2023-01-27 | [🔗](https://open.spotify.com/album/2LXTIciAcMZ6wa96d9sLnM) |
 | 7 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Vows (Deluxe Version) | 2011 | [🔗](https://open.spotify.com/album/6V9rvW05Um5bIHePPfeI8p) |
 | 5 | <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="" width="50" /> | Primal Heart | 2018-04-20 | [🔗](https://open.spotify.com/album/4pj0BkJ7u39i009oqe8V79) |
+| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273c1b217d3bb2ef206b92cd968" alt="" width="50" /> | A Reckoning | 2023-01-27 | [🔗](https://open.spotify.com/album/2LXTIciAcMZ6wa96d9sLnM) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27369b3dd10eee85bb2652c3b05" alt="" width="50" /> | The Golden Echo | 2014-08-15 | [🔗](https://open.spotify.com/album/66hoUkjxM7tVQwu7bZocwP) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733a2a91f99d869c4ca51362ff" alt="" width="50" /> | Aussie Legends | 2019-11-22 | [🔗](https://open.spotify.com/album/3IGRFGa4ErR0CU8aMMrRql) |
 
@@ -28,7 +27,7 @@
 | Number of Tracks | Label |
 |---:|:---|
 | 13 | [Warner Records](../labels/warner_records.md) |
-| 10 | [Kimbra](../labels/kimbra.md) |
+| 3 | Kimbra |
 | 1 | UMG Recordings |
 
 ## Genres
@@ -55,13 +54,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="" width="50" /> | Recovery | Primal Heart | [Kimbra](kimbra.md) | [Warner Records](../labels/warner_records.md) | | [🔗](https://open.spotify.com/track/0HqtTIH9Eo7IdTiiFvpdjM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="" width="50" /> | The Good War | Primal Heart | [Kimbra](kimbra.md) | [Warner Records](../labels/warner_records.md) | | [🔗](https://open.spotify.com/track/3Py6qWHKkcdBEVcYThxhp9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="" width="50" /> | Top of the World | Primal Heart | [Kimbra](kimbra.md) | [Warner Records](../labels/warner_records.md) | | [🔗](https://open.spotify.com/track/1Gbdx88ElOui7lczwxGX6m) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c1b217d3bb2ef206b92cd968" alt="" width="50" /> | GLT | A Reckoning | [Kimbra](kimbra.md), Erick the Architect | [Kimbra](../labels/kimbra.md) | | [🔗](https://open.spotify.com/track/3UqL8pF7NmlF4Hlz2JL0u4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c1b217d3bb2ef206b92cd968" alt="" width="50" /> | foolish thinking | A Reckoning | [Kimbra](kimbra.md), Ryan Lott | [Kimbra](../labels/kimbra.md) | | [🔗](https://open.spotify.com/track/2TVMfEi6tqg5cxrg18n21s) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c1b217d3bb2ef206b92cd968" alt="" width="50" /> | gun | A Reckoning | [Kimbra](kimbra.md) | [Kimbra](../labels/kimbra.md) | | [🔗](https://open.spotify.com/track/2bhRhyDF9IqGaLzkmSkGLg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c1b217d3bb2ef206b92cd968" alt="" width="50" /> | i don't want to fight | A Reckoning | [Kimbra](kimbra.md) | [Kimbra](../labels/kimbra.md) | | [🔗](https://open.spotify.com/track/02FLyFvESZB8d3mygYv460) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c1b217d3bb2ef206b92cd968" alt="" width="50" /> | la type | A Reckoning | [Kimbra](kimbra.md), Tommy Raps, Pink Siifu | [Kimbra](../labels/kimbra.md) | | [🔗](https://open.spotify.com/track/5itleMdzr78LXcwibYZkwP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c1b217d3bb2ef206b92cd968" alt="" width="50" /> | new habit | A Reckoning | [Kimbra](kimbra.md) | [Kimbra](../labels/kimbra.md) | | [🔗](https://open.spotify.com/track/0MgCeAOIKqLKTul51wZWex) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c1b217d3bb2ef206b92cd968" alt="" width="50" /> | personal space | A Reckoning | [Kimbra](kimbra.md) | [Kimbra](../labels/kimbra.md) | | [🔗](https://open.spotify.com/track/1TprIMTE5Qpa8PJ5Je1veO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c1b217d3bb2ef206b92cd968" alt="" width="50" /> | replay! | A Reckoning | [Kimbra](kimbra.md) | [Kimbra](../labels/kimbra.md) | | [🔗](https://open.spotify.com/track/4wJq9Vut5WktGLIo02IYA2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c1b217d3bb2ef206b92cd968" alt="" width="50" /> | save me | A Reckoning | [Kimbra](kimbra.md) | [Kimbra](../labels/kimbra.md) | | [🔗](https://open.spotify.com/track/426IelkBneH7c0V7kMa1Zr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c1b217d3bb2ef206b92cd968" alt="" width="50" /> | the way we were | A Reckoning | [Kimbra](kimbra.md) | [Kimbra](../labels/kimbra.md) | | [🔗](https://open.spotify.com/track/6I0Dc1hF4KBVIBpFecBBPL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c1b217d3bb2ef206b92cd968" alt="" width="50" /> | foolish thinking | A Reckoning | [Kimbra](kimbra.md), Ryan Lott | Kimbra | | [🔗](https://open.spotify.com/track/2TVMfEi6tqg5cxrg18n21s) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c1b217d3bb2ef206b92cd968" alt="" width="50" /> | la type | A Reckoning | [Kimbra](kimbra.md), Tommy Raps, Pink Siifu | Kimbra | 💚 | [🔗](https://open.spotify.com/track/5itleMdzr78LXcwibYZkwP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c1b217d3bb2ef206b92cd968" alt="" width="50" /> | replay! | A Reckoning | [Kimbra](kimbra.md) | Kimbra | | [🔗](https://open.spotify.com/track/4wJq9Vut5WktGLIo02IYA2) |

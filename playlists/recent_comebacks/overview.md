@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2738cab1c75d2271af37c3e2db9ab67616d0000b273d2ef237da7f94762997c2083ab67616d0000b273e9cd59d664f597061a513038ab67616d0000b273ed10325dc317f32df83990b9" alt="Recent Comebacks" width="100" />
 
-[69 songs](tracks.md)
+[70 songs](tracks.md)
 
 ## Top Artists
 
@@ -13,7 +13,7 @@
 
 
 <details>
-<summary>See all 33 artists</summary>
+<summary>See all 34 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -50,6 +50,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc04289f84778ad850cfcddca" alt="" width="50" /> | Jimin | [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a3393ac350ee2c447494a83" alt="" width="50" /> | HUH YUNJIN | [🔗](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc65d144f4f352b3cba7b13ea" alt="" width="50" /> | WENDY | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb45b2ff69ae6a3caccb776cfa" alt="" width="50" /> | [STAYC](../../artists/stayc.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 
 </details>
 
@@ -60,7 +61,7 @@
 
 
 <details>
-<summary>See all 30 albums</summary>
+<summary>See all 31 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -88,6 +89,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27390831ba9ed4aa3b89fd6b81c" alt="" width="50" /> | Street Man Fighter Original Vol.4 (Crew Songs) | 2022-09-20 | [🔗](https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc5762a75c18b494803705c" alt="" width="50" /> | SPIN OFF : FROM THE WITNESS | 2022-12-30 | [🔗](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="" width="50" /> | REASON | 2023-01-09 | [🔗](https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d7610ec7724bad4e6c9e499" alt="" width="50" /> | POPPY (Japanese Ver.) | 2022-11-16 | [🔗](https://open.spotify.com/album/2nei1QXcpDotdoMz3IQxr4) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736887b017d077dfc5787a3e23" alt="" width="50" /> | MOONLIGHT SUNRISE | 2023-01-20 | [🔗](https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27386b1ba55bf754a73f6ecf729" alt="" width="50" /> | I ≠ DOLL | 2023-01-09 | [🔗](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="" width="50" /> | Forgive Me - The 3rd Mini Album | 2022-11-22 | [🔗](https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7) |
@@ -100,11 +102,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 18 record labels](../../images/playlists/recent_comebacks/labels.png)
+![Bar chart of top 19 record labels](../../images/playlists/recent_comebacks/labels.png)
 
 
 <details>
-<summary>See all 18 labels</summary>
+<summary>See all 19 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -121,6 +123,7 @@
 | 3 | [BELIFT LAB](../../labels/belift_lab.md) |
 | 2 | [Starship Entertainment](../../labels/starship_entertainment.md) |
 | 2 | Feel Ghood Music |
+| 1 | [Universal Music LLC](../../labels/universal_music_llc.md) |
 | 1 | THEBLACKLABEL |
 | 1 | MYSTIC STORY |
 | 1 | KQ Entertainment |
@@ -140,8 +143,8 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 52 | [k-pop](../../genres/k_pop.md) |
-| 27 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
+| 53 | [k-pop](../../genres/k_pop.md) |
+| 28 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 16 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
 | 3 | korean r&b |
 | 3 | anime |
@@ -160,7 +163,7 @@
 | Year | Number of Tracks |
 |:---|---:|
 | 2023 | 12 |
-| [2022](2022.md) | 57 |
+| [2022](2022.md) | 58 |
 
 </details>
 
@@ -188,9 +191,9 @@
 | LOVE (0.853) | Birthday (0.535) |
 | Maknae On Top (I.N) (0.834) | Blow (0.535) |
 | Shut Down (0.82) | Dead Man Runnin’ (0.54) |
-| On A Ride (0.817) | Girls (0.57) |
-| Ditto (0.814) | Cruel (0.588) |
-| CASE 143 (0.812) | Come Alive (0.59) |
+| POPPY - Japanese Ver. (0.819) | Girls (0.57) |
+| On A Ride (0.817) | Cruel (0.588) |
+| Ditto (0.814) | Come Alive (0.59) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -216,7 +219,7 @@
 | CASE 143 (0.209) | Time After Time (0.037) |
 | Birthday (0.202) | Impurities (0.0373) |
 | Beautiful Liar (0.186) | Shut Down (0.038) |
-| Nxde (0.179) | On A Ride (0.0384) |
+| Nxde (0.179) | POPPY - Japanese Ver. (0.0382) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|

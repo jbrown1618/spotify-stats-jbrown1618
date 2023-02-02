@@ -120,9 +120,9 @@ Appears as:
 |---:|:---|
 | 44 | [show tunes](../genres/show_tunes.md) |
 | 41 | [hollywood](../genres/hollywood.md) |
-| 21 | [pop](../genres/pop.md) |
+| 22 | [pop](../genres/pop.md) |
 | 20 | [dance pop](../genres/dance_pop.md) |
-| 16 | [broadway](../genres/broadway.md) |
+| 15 | [broadway](../genres/broadway.md) |
 | 10 | vocal jazz |
 | 4 | [post-teen pop](../genres/post_teen_pop.md) |
 | 3 | [rock](../genres/rock.md) |
@@ -191,7 +191,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273288883647008cefba0db5402" alt="" width="50" /> | Please Me | Please Me | Cardi B, [Bruno Mars](../artists/bruno_mars.md) | [Atlantic/KSR](atlantic_records.md) | 💚 | [🔗](https://open.spotify.com/track/0PG9fbaaHFHfre2gUVo7AN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="" width="50" /> | WAP (feat. Megan Thee Stallion) | WAP (feat. Megan Thee Stallion) | Cardi B, Megan Thee Stallion | [Atlantic/KSR](atlantic_records.md) | 💚 | [🔗](https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="" width="50" /> | Good Ones | CRASH | Charli XCX | [Atlantic Records](atlantic_records.md) | 💚 | [🔗](https://open.spotify.com/track/2grSOc6HNTXQQXNoRKt9UM) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="" width="50" /> | Light Switch | CHARLIE | Charlie Puth | [Atlantic Records](atlantic_records.md) | | [🔗](https://open.spotify.com/track/1jEBSDN5vYViJQr78W7jr2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="" width="50" /> | Light Switch | CHARLIE | Charlie Puth | [Atlantic Records](atlantic_records.md) | 💚 | [🔗](https://open.spotify.com/track/1jEBSDN5vYViJQr78W7jr2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27326a2f5224465a369f8abbf88" alt="" width="50" /> | Jar of Hearts | lovestrong. | Christina Perri | [Atlantic Records](atlantic_records.md) | | [🔗](https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | Cabinet Battle #1 | Hamilton (Original Broadway Cast Recording) | Christopher Jackson, [Daveed Diggs](../artists/daveed_diggs.md), [Lin-Manuel Miranda](../artists/lin_manuel_miranda.md), [Okieriete Onaodowan](../artists/okieriete_onaodowan.md) | [Atlantic Records](atlantic_records.md) | | [🔗](https://open.spotify.com/track/3TfKt8mPpdXfQTMfRjHzyz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | Cabinet Battle #2 | Hamilton (Original Broadway Cast Recording) | Christopher Jackson, [Daveed Diggs](../artists/daveed_diggs.md), [Lin-Manuel Miranda](../artists/lin_manuel_miranda.md), [Okieriete Onaodowan](../artists/okieriete_onaodowan.md) | [Atlantic Records](atlantic_records.md) | | [🔗](https://open.spotify.com/track/6KRHMYPIWRgFWlXPgqO2Fp) |
