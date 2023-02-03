@@ -215,7 +215,7 @@
 | 10 | [mellow gold](../../genres/mellow_gold.md) |
 | 10 | [dance pop](../../genres/dance_pop.md) |
 | 10 | [acoustic pop](../../genres/acoustic_pop.md) |
-| 8 | piano rock |
+| 8 | [piano rock](../../genres/piano_rock.md) |
 | 7 | [soft rock](../../genres/soft_rock.md) |
 | 7 | [lilith](../../genres/lilith.md) |
 | 7 | [folk rock](../../genres/folk_rock.md) |

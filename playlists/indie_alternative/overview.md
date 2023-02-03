@@ -351,7 +351,7 @@
 | 5 | candy pop |
 | 4 | symphonic metal |
 | 4 | power metal |
-| 4 | piano rock |
+| 4 | [piano rock](../../genres/piano_rock.md) |
 | 4 | opera metal |
 | 4 | modern alternative rock |
 | 4 | gothic symphonic metal |

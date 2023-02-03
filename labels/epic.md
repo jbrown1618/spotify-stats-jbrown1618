@@ -129,7 +129,7 @@ Appears as:
 | 2 | album rock |
 | 2 | [adult standards](../genres/adult_standards.md) |
 | 1 | viral pop |
-| 1 | piano rock |
+| 1 | [piano rock](../genres/piano_rock.md) |
 | 1 | new wave pop |
 | 1 | neo soul |
 | 1 | escape room |

@@ -122,7 +122,7 @@ Appears as:
 | 9 | [electropop](../genres/electropop.md) |
 | 2 | [rock](../genres/rock.md) |
 | 2 | pop rap |
-| 2 | piano rock |
+| 2 | [piano rock](../genres/piano_rock.md) |
 | 2 | modern rock |
 | 1 | tropical house |
 | 1 | [post-teen pop](../genres/post_teen_pop.md) |

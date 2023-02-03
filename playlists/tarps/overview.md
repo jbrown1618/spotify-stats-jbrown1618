@@ -265,7 +265,7 @@
 | 1 | rhythm and blues |
 | 1 | progressive bluegrass |
 | 1 | pop rap |
-| 1 | piano rock |
+| 1 | [piano rock](../../genres/piano_rock.md) |
 | 1 | oklahoma country |
 | 1 | nz pop |
 | 1 | modern country rock |

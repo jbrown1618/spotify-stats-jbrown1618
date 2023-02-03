@@ -393,7 +393,7 @@
 | 7 | indietronica |
 | 5 | uk funky |
 | 5 | [rock](../../genres/rock.md) |
-| 5 | piano rock |
+| 5 | [piano rock](../../genres/piano_rock.md) |
 | 5 | permanent wave |
 | 5 | electro house |
 | 5 | contemporary r&b |

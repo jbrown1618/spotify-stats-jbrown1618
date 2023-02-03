@@ -170,7 +170,7 @@
 | 7 | [rock](../../genres/rock.md) |
 | 7 | [dance pop](../../genres/dance_pop.md) |
 | 6 | [soft rock](../../genres/soft_rock.md) |
-| 6 | piano rock |
+| 6 | [piano rock](../../genres/piano_rock.md) |
 | 6 | glam rock |
 | 6 | classic soul |
 | 5 | quiet storm |

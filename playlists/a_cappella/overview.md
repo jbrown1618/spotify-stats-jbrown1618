@@ -318,7 +318,7 @@
 | 1 | [show tunes](../../genres/show_tunes.md) |
 | 1 | roots rock |
 | 1 | renaissance |
-| 1 | piano rock |
+| 1 | [piano rock](../../genres/piano_rock.md) |
 | 1 | permanent wave |
 | 1 | franco-flemish school |
 | 1 | folk |
