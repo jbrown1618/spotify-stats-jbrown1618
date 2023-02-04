@@ -2,7 +2,7 @@
 # Beyoncé
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb676338904deb80cffb568216" alt="Beyoncé" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="Beyoncé" width="100" />
 
 ## Featured on Playlists
 | Number of Tracks | Art | Playlist |

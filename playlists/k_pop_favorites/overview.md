@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b273714e56679ab196354e2e443eab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738c4a282e84a53c1c8acf129a" alt="K-Pop Favorites" width="100" />
 
-[208 songs](tracks.md)
+[209 songs](tracks.md)
 
 ## Top Artists
 
@@ -27,10 +27,10 @@
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="" width="50" /> | [TAEYEON](../../artists/taeyeon.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../../artists/_g_i_dle.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
+| 6 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../../artists/mamamoo.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../../artists/leehi.md) | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../../artists/bts.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | [CHUNG HA](../../artists/chung_ha.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
-| 5 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../../artists/mamamoo.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="" width="50" /> | [SEVENTEEN](../../artists/seventeen.md) | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5ebfb6c0b7b6918dca92be0ed75" alt="" width="50" /> | LE SSERAFIM | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="" width="50" /> | [EXO](../../artists/exo.md) | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
@@ -102,7 +102,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | Jackson Wang | [🔗](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebbb55fc616733b6c09d48481f" alt="" width="50" /> | NAYEON | [🔗](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd0701912e6fccf8427bc7361" alt="" width="50" /> | GFRIEND | [🔗](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8b1752dc8c0f2dce9abc2dbc" alt="" width="50" /> | THE BOYZ | [🔗](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb771aebd54ce149b97c0bb971" alt="" width="50" /> | THE BOYZ | [🔗](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb85caa5f0e213fbfc29b91db" alt="" width="50" /> | HYOYEON | [🔗](https://open.spotify.com/artist/0B3I6YgdnfXehUCpsO6oB8) |
 
 </details>
@@ -238,8 +238,8 @@
 | 11 | [Interscope Records](../../labels/interscope_records.md) |
 | 9 | [BELIFT LAB](../../labels/belift_lab.md) |
 | 8 | [Stone Music Entertainment](../../labels/stone_music_entertainment.md) |
+| 8 | [RBW Inc.](../../labels/rbw_inc_.md) |
 | 7 | [Universal Music LLC](../../labels/universal_music_llc.md) |
-| 7 | [RBW Inc.](../../labels/rbw_inc_.md) |
 | 7 | [Genie Music Corporation](../../labels/genie_music_corporation.md) |
 | 7 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment.md) |
 | 6 | [JYP Entertainment](../../labels/jyp_entertainment.md) |
@@ -299,8 +299,8 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 171 | [k-pop](../../genres/k_pop.md) |
-| 80 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
+| 172 | [k-pop](../../genres/k_pop.md) |
+| 81 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 49 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
 | 12 | [pop](../../genres/pop.md) |
 | 9 | anime |
@@ -326,7 +326,7 @@
 | Year | Number of Tracks |
 |:---|---:|
 | 2023 | 3 |
-| [2022](2022.md) | 57 |
+| [2022](2022.md) | 58 |
 | [2021](2021.md) | 51 |
 | [2020](2020.md) | 32 |
 | 2019 | 15 |
@@ -367,9 +367,9 @@
 | The Boys (0.876) | Love poem (0.404) |
 | Feelin' Like (0.868) | HOLO (0.406) |
 | FEARLESS (0.863) | Feel My Rhythm (0.412) |
-| Phase Me (0.857) | Sparkling Night (0.422) |
-| DUMB DUMB (0.851) | 7월 7일 One Of These Nights (0.436) |
-| In the morning (0.846) | Just A Little Bit (0.441) |
+| 1,2,3 Eoi! (0.862) | Sparkling Night (0.422) |
+| Phase Me (0.857) | 7월 7일 One Of These Nights (0.436) |
+| DUMB DUMB (0.851) | Just A Little Bit (0.441) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|

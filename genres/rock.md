@@ -1,6 +1,6 @@
 # rock
 
-[151 songs](rock_tracks.md)
+[158 songs](rock_tracks.md)
 
 ## Top Artists
 
@@ -16,8 +16,8 @@
 |---:|:---|:---|:---|
 | 31 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" alt="" width="50" /> | [The Beatles](../artists/the_beatles.md) | [🔗](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) |
 | 24 | <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | [Billy Joel](../artists/billy_joel.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
+| 18 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../artists/radiohead.md) | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
 | 14 | <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | [Queen](../artists/queen.md) | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
-| 11 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../artists/radiohead.md) | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
 | 6 | <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | The Who | [🔗](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb249d55f2d68a44637905c57e" alt="" width="50" /> | Fleetwood Mac | [🔗](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) |
 | 5 | <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | Simon & Garfunkel | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
@@ -61,13 +61,14 @@
 
 
 <details>
-<summary>See all 98 albums</summary>
+<summary>See all 100 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
 | 9 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="" width="50" /> | Abbey Road (Remastered) | 1969-09-26 | [🔗](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) |
 | 7 | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | The Stranger | 1977-09-29 | [🔗](https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV) |
 | 5 | <img src="https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2" alt="" width="50" /> | The Beatles (Remastered) | 1968-11-22 | [🔗](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) |
+| 4 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="" width="50" /> | In Rainbows | 2007-12-28 | [🔗](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2737bf7ee0ed15bef2699900a6b" alt="" width="50" /> | The Game | 1980-06-27 | [🔗](https://open.spotify.com/album/1h0j80HhdzIMsUGUFiVkqa) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b27322ca59e5c2d806439d5f08a2" alt="" width="50" /> | The Bends | 1995-03-28 | [🔗](https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="" width="50" /> | Rumours (Super Deluxe) | 1977-02-04 | [🔗](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) |
@@ -75,6 +76,7 @@
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273adb1732fa8d44b8eb2f6c0bf" alt="" width="50" /> | OK Computer | 1997-05-28 | [🔗](https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273692d9189b2bd75525893f0c1" alt="" width="50" /> | Magical Mystery Tour (Remastered) | 1967-11-27 | [🔗](https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1" alt="" width="50" /> | Let It Be (Remastered) | 1970-05-08 | [🔗](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) |
+| 3 | <img src="https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151" alt="" width="50" /> | Kid A | 2000-10-02 | [🔗](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | Bridge Over Troubled Water | 1970-01-26 | [🔗](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="" width="50" /> | Who's Next (Deluxe Edition) | 1971-08-14 | [🔗](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="" width="50" /> | The 2nd Law | 2012-09-24 | [🔗](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) |
@@ -82,11 +84,11 @@
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="" width="50" /> | Storm Front | 1989-10-17 | [🔗](https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="" width="50" /> | River Of Dreams | 1993-08-10 | [🔗](https://open.spotify.com/album/4HPnwQJAEvTY910q4RNeOu) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | Piano Man | 1973-11-09 | [🔗](https://open.spotify.com/album/77ErLrVvYETIlQJHAwhfIH) |
+| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | OK Computer | 1997-05-28 | [🔗](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b27346493b86589030cc39ce1bf2" alt="" width="50" /> | News Of The World | 1977-10-28 | [🔗](https://open.spotify.com/album/3TKTjR4E3LAMfRsPeRsNhT) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273af07dc851962508661bbcfce" alt="" width="50" /> | Metallica | 1991-08-12 | [🔗](https://open.spotify.com/album/6QdCohkHKNTVoaSx1ZzitH) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="" width="50" /> | Led Zeppelin IV (Deluxe Edition) | 1971-11-08 | [🔗](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2735e5bfba76defb59b3acf6c47" alt="" width="50" /> | Jazz | 1978-11-10 | [🔗](https://open.spotify.com/album/5X3rA8To5GDOeIWdQyMEcE) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="" width="50" /> | In Rainbows | 2007-12-28 | [🔗](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="" width="50" /> | Good Vibrations | 1993 | [🔗](https://open.spotify.com/album/10IUKCLZPs9onPwXfQVxfv) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2734fb043195e8d07e72edc7226" alt="" width="50" /> | Fleetwood Mac | 1975-07-11 | [🔗](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273de03bfc2991fd5bcfde65ba3" alt="" width="50" /> | Blurryface | 2015-05-15 | [🔗](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) |
@@ -130,7 +132,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="" width="50" /> | Out Of Our Heads | 1965-07-30 | [🔗](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a9e6856251d6c4b13167924a" alt="" width="50" /> | Origin of Symmetry | 2001 | [🔗](https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736faddf21400e22f617bcd2e4" alt="" width="50" /> | Once More 'Round the Sun | 2014-06-20 | [🔗](https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | OK Computer | 1997-05-28 | [🔗](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" alt="" width="50" /> | Night Visions | 2012-09-04 | [🔗](https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9" alt="" width="50" /> | My Generation (Stereo Version) | 1965-12-03 | [🔗](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273360a1ae790aa71a0aac4983e" alt="" width="50" /> | More of The Monkees (Deluxe Edition) | 1967-01-09 | [🔗](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) |
@@ -145,6 +146,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731b2a9188ac775e16998eb78d" alt="" width="50" /> | Infinity | 1978 | [🔗](https://open.spotify.com/album/7K4Nk5fHkCuzNm5A6mdo2U) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734637341b9f507521afa9a778" alt="" width="50" /> | Hotel California (2013 Remaster) | 1976-12-08 | [🔗](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="" width="50" /> | Help! (Remastered) | 1965-08-06 | [🔗](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2730da53e8f58e59f28a79c10c7" alt="" width="50" /> | Hail To the Thief | 2003-06-09 | [🔗](https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27309880a7b8636c5a0615dc0c8" alt="" width="50" /> | Graceland (25th Anniversary Deluxe Edition) | 1986-08-12 | [🔗](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27322d5199692d318c28d6c7d9b" alt="" width="50" /> | Glass Houses | 1980-03-12 | [🔗](https://open.spotify.com/album/5sztejERqpktXEdemlUvU5) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f05202b83eb981e943ca7767" alt="" width="50" /> | Foreigner (Expanded) | 1977-03-08 | [🔗](https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M) |
@@ -179,9 +181,9 @@
 |---:|:---|
 | 35 | [Columbia](../labels/columbia.md) |
 | 30 | [EMI Catalogue](../labels/emi_catalogue.md) |
+| 18 | [XL Recordings](../labels/xl_recordings.md) |
 | 16 | [Warner Records](../labels/warner_records.md) |
 | 14 | [Hollywood Records](../labels/hollywood_records.md) |
-| 11 | [XL Recordings](../labels/xl_recordings.md) |
 | 11 | [Rhino](../labels/rhino.md) |
 | 9 | [Legacy](../labels/legacy.md) |
 | 4 | [Epic](../labels/epic.md) |
@@ -222,14 +224,14 @@
 |:---|:---|
 | Another One Bites The Dust (0.926) | Pyramid Song (0.127) |
 | I Want To Break Free (0.87) | Bridge Over Troubled Water (0.149) |
-| Dreams - 2004 Remaster (0.828) | Lights (0.193) |
-| Eye of the Tiger (0.817) | Desperado - 2013 Remaster (0.228) |
-| You Can Call Me Al (0.776) | Paranoid Android (0.252) |
-| Believer (0.776) | Fat Bottomed Girls (0.253) |
-| 1979 - Remastered 2012 (0.767) | No Surprises (0.255) |
-| Get Back - Remastered 2009 (0.761) | Across The Universe - Remastered 2009 (0.257) |
-| Cecilia (0.755) | The Trooper - 2015 Remaster (0.285) |
-| Sara - 2015 Remaster (0.743) | She's Always a Woman (0.292) |
+| Dreams - 2004 Remaster (0.828) | How to Disappear Completely (0.167) |
+| Eye of the Tiger (0.817) | Lights (0.193) |
+| You Can Call Me Al (0.776) | Desperado - 2013 Remaster (0.228) |
+| Believer (0.776) | Paranoid Android (0.252) |
+| 1979 - Remastered 2012 (0.767) | Fat Bottomed Girls (0.253) |
+| Get Back - Remastered 2009 (0.761) | No Surprises (0.255) |
+| Cecilia (0.755) | Across The Universe - Remastered 2009 (0.257) |
+| Sara - 2015 Remaster (0.743) | The Trooper - 2015 Remaster (0.285) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -262,26 +264,26 @@
 | She's Got a Way (0.97) | The Motherload (7.1e-06) |
 | Lullabye (Goodnight, My Angel) (0.948) | Blood and Thunder (8.58e-06) |
 | Desperado - 2013 Remaster (0.946) | Paranoid - 2012 - Remaster (4.52e-05) |
-| And So It Goes (0.941) | Knights of Cydonia (0.000273) |
-| Eleanor Rigby - Remastered 2009 (0.936) | Enter Sandman (0.00206) |
-| The Boxer (0.93) | Any Way You Want It (0.00251) |
-| And So It Goes (0.91) | Hard To Handle (0.00257) |
-| So Far Away (0.897) | Everybody Talks (0.00301) |
-| Landslide (0.883) | Carry on Wayward Son (0.00321) |
-| Yesterday - Remastered 2009 (0.879) | Iron Man (0.00367) |
+| And So It Goes (0.941) | Let Down (0.000121) |
+| Eleanor Rigby - Remastered 2009 (0.936) | Knights of Cydonia (0.000273) |
+| The Boxer (0.93) | Enter Sandman (0.00206) |
+| And So It Goes (0.91) | Any Way You Want It (0.00251) |
+| So Far Away (0.897) | Hard To Handle (0.00257) |
+| Landslide (0.883) | Everybody Talks (0.00301) |
+| Yesterday - Remastered 2009 (0.879) | Carry on Wayward Son (0.00321) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Animals (0.796) | We Will Rock You (0.0) |
-| Weird Fishes/ Arpeggi (0.756) | Believer (0.0) |
-| Blood and Thunder (0.729) | Killer Queen (0.0) |
-| Street Spirit (Fade Out) (0.691) | And So It Goes (0.0) |
-| 1979 - Remastered 2012 (0.583) | Crazy Little Thing Called Love (0.0) |
-| Smoke on the Water (0.581) | Ride (0.0) |
-| Pyramid Song (0.427) | Everybody Talks (0.0) |
-| Come Together - Remastered 2009 (0.248) | Only the Good Die Young (0.0) |
-| Won't Get Fooled Again - Remix (0.235) | Yesterday - Remastered 2009 (0.0) |
-| I Want You (She's So Heavy) - Remastered 2009 (0.205) | We Didn't Start the Fire (0.0) |
+| Kid A (0.852) | We Will Rock You (0.0) |
+| How to Disappear Completely (0.797) | Believer (0.0) |
+| Animals (0.796) | Killer Queen (0.0) |
+| Weird Fishes/ Arpeggi (0.756) | And So It Goes (0.0) |
+| Blood and Thunder (0.729) | Crazy Little Thing Called Love (0.0) |
+| Street Spirit (Fade Out) (0.691) | Ride (0.0) |
+| 1979 - Remastered 2012 (0.583) | Everybody Talks (0.0) |
+| Smoke on the Water (0.581) | Only the Good Die Young (0.0) |
+| There, There (0.52) | Yesterday - Remastered 2009 (0.0) |
+| All I Need (0.428) | We Didn't Start the Fire (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -298,13 +300,13 @@
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| 1979 - Remastered 2012 (0.964) | Pyramid Song (0.0686) |
-| I'm a Believer - 2006 Remaster (0.962) | Hurt (0.0826) |
-| Hard To Handle (0.961) | Creep (0.104) |
-| Cecilia (0.954) | The Show Must Go On (0.109) |
-| (I Can't Get No) Satisfaction - Mono Version (0.931) | No Surprises (0.118) |
-| Brown Eyed Girl (0.908) | Street Spirit (Fade Out) (0.129) |
-| All My Loving - Remastered 2009 (0.9) | Fake Plastic Trees (0.134) |
-| Movin' Out (Anthony's Song) (0.895) | Come Sail Away (0.141) |
-| We Didn't Start the Fire (0.895) | Baba O'Riley (0.15) |
-| Walk This Way (0.894) | Because - Remastered 2009 (0.162) |
+| 1979 - Remastered 2012 (0.964) | Everything In Its Right Place (0.0629) |
+| I'm a Believer - 2006 Remaster (0.962) | Pyramid Song (0.0686) |
+| Hard To Handle (0.961) | Hurt (0.0826) |
+| Cecilia (0.954) | All I Need (0.0997) |
+| (I Can't Get No) Satisfaction - Mono Version (0.931) | Creep (0.104) |
+| Brown Eyed Girl (0.908) | The Show Must Go On (0.109) |
+| All My Loving - Remastered 2009 (0.9) | No Surprises (0.118) |
+| Movin' Out (Anthony's Song) (0.895) | Street Spirit (Fade Out) (0.129) |
+| We Didn't Start the Fire (0.895) | Fake Plastic Trees (0.134) |
+| Walk This Way (0.894) | Come Sail Away (0.141) |
