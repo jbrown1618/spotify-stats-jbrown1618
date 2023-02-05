@@ -1,18 +1,18 @@
 # JYP Entertainment
 
-25 songs
+26 songs
 
 Appears as:
-- JYP Entertainment (24 tracks)
+- JYP Entertainment (25 tracks)
 - MYSTIC ENTERTAINMENT, ChoongangICS, SM ENTERTAINMENT, JYP ENTERTAINMENT (1 tracks)
 
 ## Top Artists
 
-![Bar chart of top 14 artists](../images/labels/jyp_entertainment/artists.png)
+![Bar chart of top 15 artists](../images/labels/jyp_entertainment/artists.png)
 
 
 <details>
-<summary>See all 14 artists</summary>
+<summary>See all 15 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -26,6 +26,7 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | BIBI | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a29246fa242d0b9f8de3b31" alt="" width="50" /> | SUNMI | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb125d29add59b1d82aa236423" alt="" width="50" /> | 2PM | [🔗](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2fba28d51fc972ed9d8fbaaa" alt="" width="50" /> | DAY6 | [🔗](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e2e0f17d257a40be0782f35" alt="" width="50" /> | BAEKHYUN | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | Suzy | [🔗](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb97b1b52f4710da5d65369b09" alt="" width="50" /> | Xdinary Heroes | [🔗](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) |
@@ -36,11 +37,11 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 21 albums](../images/labels/jyp_entertainment/albums.png)
+![Bar chart of top 22 albums](../images/labels/jyp_entertainment/albums.png)
 
 
 <details>
-<summary>See all 21 albums</summary>
+<summary>See all 22 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -52,6 +53,7 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731a984930c218438701634e11" alt="" width="50" /> | When We Disco | 2020-08-12 | [🔗](https://open.spotify.com/album/1PllJjUqafNlQ23eBqs511) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734802244fa0cf6d33eda5e748" alt="" width="50" /> | The Wonder Years - Trilogy | 2008-09-22 | [🔗](https://open.spotify.com/album/61KwS8kiAywHkZ7gp4asTE) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739633cfd2e42a610f3dafa801" alt="" width="50" /> | So Hot | 2008-06-03 | [🔗](https://open.spotify.com/album/31FkCs7l3VVYbapFtIjfYe) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ec55d2dad1aefc7d57745633" alt="" width="50" /> | SUNRISE | 2017-06-07 | [🔗](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734fa89604a84da7861228399b" alt="" width="50" /> | Present : YOU | 2018-09-18 | [🔗](https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2730096339f4c20185bf521c12b" alt="" width="50" /> | No.5 | 2015-06-15 | [🔗](https://open.spotify.com/album/7il4UShdCQt4HcsAng0Om2) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27366bcce2a19a9ccfd5d83f2a1" alt="" width="50" /> | MAD | 2015-09-29 | [🔗](https://open.spotify.com/album/3MPrK5Op0AZAql78coCQLA) |
@@ -79,9 +81,9 @@ Appears as:
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 17 | [k-pop](../genres/k_pop.md) |
+| 14 | [k-pop](../genres/k_pop.md) |
 | 12 | [k-pop girl group](../genres/k_pop_girl_group.md) |
-| 6 | [k-pop boy group](../genres/k_pop_boy_group.md) |
+| 7 | [k-pop boy group](../genres/k_pop_boy_group.md) |
 | 5 | classic k-pop |
 | 1 | korean pop |
 
@@ -93,6 +95,7 @@ Appears as:
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2730096339f4c20185bf521c12b" alt="" width="50" /> | 우리집 My House | No.5 | 2PM | [JYP Entertainment](jyp_entertainment.md) | | [🔗](https://open.spotify.com/track/3nQ7liRYD6pXWAP0oVPtW2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ec55d2dad1aefc7d57745633" alt="" width="50" /> | Man in a movie | SUNRISE | DAY6 | [JYP Entertainment](jyp_entertainment.md) | | [🔗](https://open.spotify.com/track/2FVdoDnjz6SybHC0mJU7wa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a49014cd80722aa2ac64c87d" alt="" width="50" /> | 딱 좋아(Just right) | Just right | GOT7 | [JYP Entertainment](jyp_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/4ER58qECydWokIsgqtysWu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27366bcce2a19a9ccfd5d83f2a1" alt="" width="50" /> | 니가 하면 If You Do | MAD | GOT7 | [JYP Entertainment](jyp_entertainment.md) | | [🔗](https://open.spotify.com/track/5ypObuDXm2XT7ipEE5yZMr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c2fd5798faa7d82dadb1b330" alt="" width="50" /> | 하드캐리 Hard Carry | FLIGHT LOG : TURBULENCE | GOT7 | [JYP Entertainment](jyp_entertainment.md) | | [🔗](https://open.spotify.com/track/1xzCUpXSMnAbckUXDwBTlW) |

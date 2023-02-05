@@ -1,7 +1,7 @@
 # Indie/Alternative
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d0000b273028c3bb4b81ee71dd73d1596ab67616d0000b27392c885317fbe4bfa680109b4ab67616d0000b273d0ec2db731952a7efabc6397ab67616d0000b273df55e326ed144ab4f5cecf95" alt="Indie/Alternative" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d0000b273028c3bb4b81ee71dd73d1596ab67616d0000b27392c885317fbe4bfa680109b4ab67616d0000b273d0ec2db731952a7efabc6397ab67616d0000b273f6749fd9a1027b244f061e87" alt="Indie/Alternative" width="100" />
 
 [182 songs](tracks.md)
 
@@ -129,9 +129,9 @@
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b27355e0ff4cbb5df5c780a4319b" alt="" width="50" /> | Awake at the Bottom of the Ocean | 2017-02-10 | [🔗](https://open.spotify.com/album/7G36cnLPx9CuqnmZXYna4a) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | 1000 Forms Of Fear (Deluxe Version) | 2015-05-04 | [🔗](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="" width="50" /> | Ultraviolence (Deluxe) | 2014-01-01 | [🔗](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b27322ca59e5c2d806439d5f08a2" alt="" width="50" /> | The Bends | 1995-03-28 | [🔗](https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2) |
+| 3 | <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="" width="50" /> | The Bends | 1995-03-13 | [🔗](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273866872ba52cf201fc33995cc" alt="" width="50" /> | Speak for Yourself | 2005-07-18 | [🔗](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273adb1732fa8d44b8eb2f6c0bf" alt="" width="50" /> | OK Computer | 1997-05-28 | [🔗](https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn) |
+| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | OK Computer | 1997-05-28 | [🔗](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="" width="50" /> | Norman Fucking Rockwell! | 2019-08-30 | [🔗](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | More Adventurous (U.S. Release) | 2004-07-27 | [🔗](https://open.spotify.com/album/4n36X2GMJ84BKh9D9zMRVI) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | How Big, How Blue, How Beautiful | 2015-06-01 | [🔗](https://open.spotify.com/album/2btszoya78vyT8fwelmVnz) |
@@ -179,7 +179,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6c0376235e5aa44e59d2c2" alt="" width="50" /> | Picture Show | 2012-01-01 | [🔗](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273532033d0d90736f661c13d35" alt="" width="50" /> | Paramore | 2013-04-05 | [🔗](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a" alt="" width="50" /> | Paradise | 2012-11-09 | [🔗](https://open.spotify.com/album/1JnjcAIKQ9TSJFVFierTB8) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732f85b65d3ac4d3d7f806ca11" alt="" width="50" /> | Pablo Honey | 1993-02-22 | [🔗](https://open.spotify.com/album/6400dnyeDyD2mIFHfkwHXN) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="" width="50" /> | Pablo Honey | 1993-02-22 | [🔗](https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a9e6856251d6c4b13167924a" alt="" width="50" /> | Origin of Symmetry | 2001 | [🔗](https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737ec44fa4da96ea79e69fda00" alt="" width="50" /> | Once | 2004-01-04 | [🔗](https://open.spotify.com/album/0aDCpYtFdQ0S8C3oAtOonk) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f89d2d949f9671982e9e732c" alt="" width="50" /> | Now, Not Yet | 2019-08-09 | [🔗](https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z) |
@@ -314,7 +314,7 @@
 | Number of Tracks | Genre |
 |---:|:---|
 | 61 | [pop](../../genres/pop.md) |
-| 25 | indie pop |
+| 26 | indie pop |
 | 23 | [rock](../../genres/rock.md) |
 | 22 | [dance pop](../../genres/dance_pop.md) |
 | 21 | [electropop](../../genres/electropop.md) |
@@ -351,7 +351,7 @@
 | 5 | candy pop |
 | 4 | symphonic metal |
 | 4 | power metal |
-| 4 | [piano rock](../../genres/piano_rock.md) |
+| 4 | piano rock |
 | 4 | opera metal |
 | 4 | modern alternative rock |
 | 4 | gothic symphonic metal |
@@ -460,12 +460,12 @@
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c1b217d3bb2ef206b92cd968" alt="A Reckoning" width="50" /> <span style="padding-left:10px;">A Reckoning (2023-01-27)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732f85b65d3ac4d3d7f806ca11" alt="Pablo Honey" width="50" /> <span style="padding-left:10px;">Pablo Honey (1993-02-22)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c1b217d3bb2ef206b92cd968" alt="A Reckoning" width="50" /> <span style="padding-left:10px;">A Reckoning (2023-01-27)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="Pablo Honey" width="50" /> <span style="padding-left:10px;">Pablo Honey (1993-02-22)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2730fdfb62956211c999c39a5a3" alt="Surrender" width="50" /> <span style="padding-left:10px;">Surrender (2022-07-29)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f69bd9abbfeb819840993207" alt="The Downward Spiral" width="50" /> <span style="padding-left:10px;">The Downward Spiral (1994-03-08)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d5f3de2d6bacdfe22f1f0d52" alt="A New Kind Of Love (Demo)" width="50" /> <span style="padding-left:10px;">A New Kind Of Love (Demo) (2022-04-08)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="Mellon Collie And The Infinite Sadness (Deluxe Edition)" width="50" /> <span style="padding-left:10px;">Mellon Collie And The Infinite Sadness (Deluxe Edition) (1995)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="CRASH" width="50" /> <span style="padding-left:10px;">CRASH (2022-03-18)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27322ca59e5c2d806439d5f08a2" alt="The Bends" width="50" /> <span style="padding-left:10px;">The Bends (1995-03-28)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="CRASH" width="50" /> <span style="padding-left:10px;">CRASH (2022-03-18)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="The Bends" width="50" /> <span style="padding-left:10px;">The Bends (1995-03-13)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b0ed835957dbf3c63184a3bc" alt="Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama]" width="50" /> <span style="padding-left:10px;">Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (2022-02-25)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27392c885317fbe4bfa680109b4" alt="Jagged Little Pill" width="50" /> <span style="padding-left:10px;">Jagged Little Pill (1995-06-09)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731bf7d80f4a7bf4ed02da9fad" alt="Billions" width="50" /> <span style="padding-left:10px;">Billions (2022-02-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273adb1732fa8d44b8eb2f6c0bf" alt="OK Computer" width="50" /> <span style="padding-left:10px;">OK Computer (1997-05-28)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731bf7d80f4a7bf4ed02da9fad" alt="Billions" width="50" /> <span style="padding-left:10px;">Billions (2022-02-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> <span style="padding-left:10px;">OK Computer (1997-05-28)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732ced1760b648799e697e8e02" alt="Taxidriver OST Part.1" width="50" /> <span style="padding-left:10px;">Taxidriver OST Part.1 (2021-04-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273589ce9a911c6e65b1f80c558" alt="In the Aeroplane Over the Sea" width="50" /> <span style="padding-left:10px;">In the Aeroplane Over the Sea (1998-02-20)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="ALL OUT" width="50" /> <span style="padding-left:10px;">ALL OUT (2020-11-06)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a9e6856251d6c4b13167924a" alt="Origin of Symmetry" width="50" /> <span style="padding-left:10px;">Origin of Symmetry (2001)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733ec9036a9f7289e924194bec" alt="Tick Tock (feat. 24kGoldn)" width="50" /> <span style="padding-left:10px;">Tick Tock (feat. 24kGoldn) (2020-08-21)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737948eec521c67e76cafe30a0" alt="Trading Snakeoil for Wolftickets" width="50" /> <span style="padding-left:10px;">Trading Snakeoil for Wolftickets (2001-01-01)</span></div> |
@@ -477,7 +477,7 @@
 | Fidelity (0.923) | Pyramid Song (0.127) |
 | On the Radio (0.88) | Born To Die (0.18) |
 | Somebody That I Used To Know (0.864) | Norman fucking Rockwell (0.215) |
-| Good Intent (0.851) | Paranoid Android (0.252) |
+| Good Intent (0.851) | Paranoid Android (0.251) |
 | replay! (0.806) | No Surprises (0.255) |
 | Dreamer (0.802) | Shades Of Cool (0.262) |
 | Rather Be (feat. Jess Glynne) (0.799) | That's Where I Am (0.269) |
@@ -503,8 +503,8 @@
 | Cheap Thrills (feat. Sean Paul) (0.201) | Breakeven (0.0242) |
 | G Train (0.192) | Speeding Cars (0.0247) |
 | la type (0.183) | Come On Closer (0.025) |
-| Eye of the Needle (0.144) | High And Dry (0.0257) |
-| Knights of Cydonia (0.142) | Karma Police (0.026) |
+| Eye of the Needle (0.144) | High and Dry (0.0256) |
+| Knights of Cydonia (0.142) | Karma Police (0.0258) |
 | Stressed Out (0.141) | Reckoner (0.0262) |
 | That Man (0.138) | Meant (0.0267) |
 | Like They Do on the TV (0.134) | What Sarah Said (0.0268) |
@@ -529,7 +529,7 @@
 | A Better Son/Daughter (0.91) | You Oughta Know (0.0) |
 | Animals (0.796) | You've Got The Love (0.0) |
 | Weird Fishes/ Arpeggi (0.756) | Flesh & Bone (0.0) |
-| Street Spirit (Fade Out) (0.691) | Believer (0.0) |
+| Street Spirit (Fade Out) (0.694) | Believer (0.0) |
 | 1979 - Remastered 2012 (0.583) | Black Horse And The Cherry Tree (0.0) |
 | Coal Miners (0.487) | Dark Paradise (0.0) |
 | Pyramid Song (0.427) | G Train (0.0) |

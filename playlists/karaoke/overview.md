@@ -76,13 +76,13 @@
 
 
 <details>
-<summary>See all 56 albums</summary>
+<summary>See all 55 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="" width="50" /> | Abbey Road (Remastered) | 1969-09-26 | [🔗](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) |
+| 3 | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | The Stranger | 1977-09-29 | [🔗](https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | The Blessed Unrest | 2013-07-16 | [🔗](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | The Stranger | 1977-09-29 | [🔗](https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Little Voice | 2007-07-03 | [🔗](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | 21 | 2011-01-24 | [🔗](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2730f2e51f7121539e221c51161" alt="" width="50" /> | We Sing. We Dance. We Steal Things. | 2008-05-12 | [🔗](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) |
@@ -91,7 +91,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27365605f713fce29c2682c9ebe" alt="" width="50" /> | Under The Blacklight (Standard Version) | 2007-08-20 | [🔗](https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737948eec521c67e76cafe30a0" alt="" width="50" /> | Trading Snakeoil for Wolftickets | 2001-01-01 | [🔗](https://open.spotify.com/album/1OydCrx4m7fguwcX4stR9z) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="" width="50" /> | The Temptations Sing Smokey | 1965-03-22 | [🔗](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="" width="50" /> | The Stranger (Legacy Edition) | 1977 | [🔗](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736f50b3400595b123a916e0dc" alt="" width="50" /> | The Lady Killer | 2010-11-09 | [🔗](https://open.spotify.com/album/3MXU6UoWrf4w4bOvjZTlvY) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a4aa9c49f8fedf1df4f84051" alt="" width="50" /> | The 2¢ Show | 2012-05-23 | [🔗](https://open.spotify.com/album/4DECRyKlhKJgjZLLuvfAI6) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e" alt="" width="50" /> | Songs About Jane: 10th Anniversary Edition | 2002 | [🔗](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) |
@@ -146,7 +145,7 @@
 
 
 <details>
-<summary>See all 43 labels</summary>
+<summary>See all 42 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -181,7 +180,6 @@
 | 1 | Parkwood Entertainment |
 | 1 | Monkey Puzzle Records |
 | 1 | Mercury Records |
-| 1 | [Legacy](../../labels/legacy.md) |
 | 1 | [Jive](../../labels/jive.md) |
 | 1 | Island Records |
 | 1 | Island Def Jam |
@@ -215,7 +213,7 @@
 | 10 | [mellow gold](../../genres/mellow_gold.md) |
 | 10 | [dance pop](../../genres/dance_pop.md) |
 | 10 | [acoustic pop](../../genres/acoustic_pop.md) |
-| 8 | [piano rock](../../genres/piano_rock.md) |
+| 8 | piano rock |
 | 7 | [soft rock](../../genres/soft_rock.md) |
 | 7 | [lilith](../../genres/lilith.md) |
 | 7 | [folk rock](../../genres/folk_rock.md) |
@@ -236,6 +234,7 @@
 | 2 | urban contemporary |
 | 2 | soul |
 | 2 | pop soul |
+| 2 | new americana |
 | 2 | motown |
 | 2 | modern rock |
 | 2 | modern alternative rock |
@@ -259,7 +258,6 @@
 | 1 | progressive bluegrass |
 | 1 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 1 | oxford indie |
-| 1 | new americana |
 | 1 | neo soul |
 | 1 | memphis soul |
 | 1 | mandolin |

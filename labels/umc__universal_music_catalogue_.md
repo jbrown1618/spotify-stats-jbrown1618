@@ -61,7 +61,7 @@ Appears as:
 | 10 | [show tunes](../genres/show_tunes.md) |
 | 10 | [broadway](../genres/broadway.md) |
 | 4 | [mellow gold](../genres/mellow_gold.md) |
-| 3 | [piano rock](../genres/piano_rock.md) |
+| 3 | piano rock |
 | 3 | glam rock |
 | 2 | [rock](../genres/rock.md) |
 | 2 | [psychedelic rock](../genres/psychedelic_rock.md) |

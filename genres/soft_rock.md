@@ -1,6 +1,6 @@
 # soft rock
 
-[60 songs](soft_rock_tracks.md)
+[59 songs](soft_rock_tracks.md)
 
 ## Top Artists
 
@@ -14,7 +14,7 @@
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
-| 24 | <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | [Billy Joel](../artists/billy_joel.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
+| 23 | <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | [Billy Joel](../artists/billy_joel.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb249d55f2d68a44637905c57e" alt="" width="50" /> | Fleetwood Mac | [🔗](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | Van Morrison | [🔗](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebe848dfb35ea4969099662dfd" alt="" width="50" /> | Journey | [🔗](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) |
@@ -45,7 +45,7 @@
 
 
 <details>
-<summary>See all 44 albums</summary>
+<summary>See all 43 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -64,7 +64,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d1731f2c0e1c2c8957f35c76" alt="" width="50" /> | Turnstiles | 1976-05-19 | [🔗](https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b96c21e15c091eb98a6c88a4" alt="" width="50" /> | The Very Best of Frankie Valli & The 4 Seasons | 2003-01-14 | [🔗](https://open.spotify.com/album/0NUEQILaBzavnzcMEs4buZ) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27322219b7ba681368a16c219fe" alt="" width="50" /> | The Ultimate Bee Gees | 2009-11-03 | [🔗](https://open.spotify.com/album/5GucSY3249qHDx4v1Hcxry) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="" width="50" /> | The Stranger (Legacy Edition) | 1977 | [🔗](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273e5e5f24cf490dfc7041eafc3" alt="" width="50" /> | The Nylon Curtain | 1982-06-23 | [🔗](https://open.spotify.com/album/50bajZpetfL5T0iRCOR74J) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273375445cc7a2aedff11361b51" alt="" width="50" /> | The Joker | 1973-01-01 | [🔗](https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27388f0f719259b0dec23a7c367" alt="" width="50" /> | The Grand Illusion | 1977-01-01 | [🔗](https://open.spotify.com/album/6MFIBPVrZjHjP0pPkVF3IU) |
@@ -107,10 +106,10 @@
 
 | Number of Tracks | Label |
 |---:|:---|
-| 27 | [Columbia](../labels/columbia.md) |
+| 26 | [Columbia](../labels/columbia.md) |
 | 12 | [Rhino](../labels/rhino.md) |
-| 9 | [Legacy](../labels/legacy.md) |
 | 8 | [Warner Records](../labels/warner_records.md) |
+| 8 | [Legacy](../labels/legacy.md) |
 | 4 | [Epic](../labels/epic.md) |
 | 3 | Elektra |
 | 3 | A&M |
@@ -188,11 +187,11 @@
 | Sara - 2015 Remaster (0.0208) | Only the Good Die Young (0.0) |
 | Fields Of Gold (0.0141) | We Didn't Start the Fire (0.0) |
 | Stayin Alive (0.00839) | Brown Eyed Girl (0.0) |
-| Lights (0.00711) | Vienna (0.0) |
-| You Can Call Me Al (0.00647) | Don't Stop Believin' (0.0) |
-| Dreams - 2004 Remaster (0.00428) | Lullabye (Goodnight, My Angel) (0.0) |
-| I Feel the Earth Move (0.00226) | The Longest Time (0.0) |
-| My Life (0.00139) | Uptown Girl (0.0) |
+| Lights (0.00711) | Don't Stop Believin' (0.0) |
+| You Can Call Me Al (0.00647) | Lullabye (Goodnight, My Angel) (0.0) |
+| Dreams - 2004 Remaster (0.00428) | The Longest Time (0.0) |
+| I Feel the Earth Move (0.00226) | Uptown Girl (0.0) |
+| My Life (0.00139) | Don't Ask Me Why (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -218,4 +217,4 @@
 | Take on Me (0.876) | The Stranger (0.222) |
 | Don't Ask Me Why (0.868) | And So It Goes (0.24) |
 | Pressure (0.851) | Vienna (0.308) |
-| Go Your Own Way - 2004 Remaster (0.831) | Vienna (0.308) |
+| Go Your Own Way - 2004 Remaster (0.831) | Fields Of Gold (0.32) |

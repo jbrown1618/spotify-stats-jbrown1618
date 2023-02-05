@@ -1,6 +1,6 @@
 # art pop
 
-[48 songs](art_pop_tracks.md)
+[49 songs](art_pop_tracks.md)
 
 ## Top Artists
 
@@ -16,7 +16,7 @@
 |---:|:---|:---|:---|
 | 17 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | [Lana Del Rey](../artists/lana_del_rey.md) | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
 | 13 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../artists/lady_gaga.md) | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
-| 10 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../artists/billie_eilish.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
+| 11 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../artists/billie_eilish.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb9df0f924a5e609c8da143cd5" alt="" width="50" /> | A. G. Cook | [🔗](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb576cb43281160e345f728b71" alt="" width="50" /> | Charli XCX | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc4902f080d3620b3e6da80c3" alt="" width="50" /> | Lorde | [🔗](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) |
@@ -36,11 +36,11 @@
 
 ## Top Albums
 
-![Bar chart of top 28 albums](../images/genres/art_pop/albums.png)
+![Bar chart of top 29 albums](../images/genres/art_pop/albums.png)
 
 
 <details>
-<summary>See all 28 albums</summary>
+<summary>See all 29 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -67,6 +67,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1" alt="" width="50" /> | Joanne (Deluxe) | 2016-10-21 | [🔗](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a" alt="" width="50" /> | Honeymoon | 2015-09-18 | [🔗](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="" width="50" /> | Happier Than Ever | 2021-07-30 | [🔗](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318" alt="" width="50" /> | Guitar Songs | 2022-07-21 | [🔗](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="" width="50" /> | CRASH | 2022-03-18 | [🔗](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd" alt="" width="50" /> | Born This Way | 2011-01-01 | [🔗](https://open.spotify.com/album/2KkMVsxymoNR7hRmBcMttd) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731bf7d80f4a7bf4ed02da9fad" alt="" width="50" /> | Billions | 2022-02-09 | [🔗](https://open.spotify.com/album/4DpAPqdJ1jVhoWZrxWLRH5) |
@@ -86,9 +87,9 @@
 
 | Number of Tracks | Label |
 |---:|:---|
-| 19 | [Interscope Records](../labels/interscope_records.md) |
+| 20 | [Interscope Records](../labels/interscope_records.md) |
 | 17 | [Polydor Records](../labels/polydor_records.md) |
-| 10 | [Darkroom](../labels/darkroom.md) |
+| 11 | [Darkroom](../labels/darkroom.md) |
 | 2 | A Star is Born OST |
 | 1 | Work |
 | 1 | VÉRITÉ |
@@ -126,11 +127,11 @@
 | Rain On Me (with Ariana Grande) (0.855) | Norman fucking Rockwell (0.203) |
 | Radio (0.841) | No Time To Die (0.219) |
 | Telephone (0.836) | everything i wanted (0.225) |
-| Poker Face (0.806) | Video Games (0.255) |
-| Just Dance (0.739) | lovely (with Khalid) (0.296) |
-| Off To The Races (0.722) | Swan Song (0.361) |
-| Yoü And I (0.709) | ocean eyes (0.363) |
-| Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (0.704) | Therefore I Am (0.365) |
+| Poker Face (0.806) | TV (0.236) |
+| Just Dance (0.739) | Video Games (0.255) |
+| Off To The Races (0.722) | lovely (with Khalid) (0.296) |
+| Yoü And I (0.709) | Swan Song (0.361) |
+| Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (0.704) | ocean eyes (0.363) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -154,9 +155,9 @@
 | everything i wanted (0.902) | Just Dance (0.0264) |
 | Fuck it I love you (0.895) | Summertime Sadness (0.0456) |
 | Bel Air (0.864) | Cherry (0.048) |
-| ocean eyes (0.816) | Sour Candy (with BLACKPINK) (0.0604) |
-| Video Games (0.806) | Off To The Races (0.061) |
-| La Vie En Rose (0.758) | Good Ones (0.072) |
+| TV (0.83) | Sour Candy (with BLACKPINK) (0.0604) |
+| ocean eyes (0.816) | Off To The Races (0.061) |
+| Video Games (0.806) | Good Ones (0.072) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
@@ -192,7 +193,7 @@
 | Poker Face (0.787) | Yellow Flicker Beat (0.0597) |
 | Sour Candy (with BLACKPINK) (0.784) | Shades Of Cool (0.0878) |
 | Just Dance (0.745) | Brooklyn Baby (0.0949) |
-| Telephone (0.716) | lovely (with Khalid) (0.12) |
-| Bad Romance (0.714) | Off To The Races (0.136) |
-| Therefore I Am (0.663) | Norman fucking Rockwell (0.143) |
-| Rain On Me (with Ariana Grande) (0.646) | Til It Happens To You (0.15) |
+| Telephone (0.716) | TV (0.119) |
+| Bad Romance (0.714) | lovely (with Khalid) (0.12) |
+| Therefore I Am (0.663) | Off To The Races (0.136) |
+| Rain On Me (with Ariana Grande) (0.646) | Norman fucking Rockwell (0.143) |

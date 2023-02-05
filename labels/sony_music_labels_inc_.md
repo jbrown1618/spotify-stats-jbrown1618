@@ -57,11 +57,11 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 22 genres](../images/labels/sony_music_labels_inc_/genres.png)
+![Bar chart of top 21 genres](../images/labels/sony_music_labels_inc_/genres.png)
 
 
 <details>
-<summary>See all 22 genres</summary>
+<summary>See all 21 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -78,7 +78,6 @@ Appears as:
 | 1 | japanese math rock |
 | 1 | japanese emo |
 | 1 | j-rock |
-| 1 | j-poprock |
 | 1 | j-pixie |
 | 1 | franco-flemish school |
 | 1 | [early music](../genres/early_music.md) |

@@ -1,11 +1,11 @@
 # Epic
 
-89 songs
+91 songs
 
 Appears as:
 - Epic (70 tracks)
 - Syco Music/Epic (9 tracks)
-- Epic/Legacy (4 tracks)
+- Epic/Legacy (6 tracks)
 - Epic/Phonogenic (2 tracks)
 - Ode/Epic/Legacy (2 tracks)
 - Epic/Not So Fast (1 tracks)
@@ -13,11 +13,11 @@ Appears as:
 
 ## Top Artists
 
-![Bar chart of top 22 artists](../images/labels/epic/artists.png)
+![Bar chart of top 23 artists](../images/labels/epic/artists.png)
 
 
 <details>
-<summary>See all 22 artists</summary>
+<summary>See all 23 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -28,6 +28,7 @@ Appears as:
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf01bf904b446e4a043acb867" alt="" width="50" /> | The Script | [🔗](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) |
 | 2 | <img src="https://i.scdn.co/image/813fde33623cbfd065053789cf1ffb22b55efd4a" alt="" width="50" /> | Carole King | [🔗](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebe924bdfec5ce73220c15cd25" alt="" width="50" /> | Kansas | [🔗](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) |
+| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb122d1145d880736383742ebc" alt="" width="50" /> | Pearl Jam | [🔗](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5acb3cb0a8b87d3952738b97" alt="" width="50" /> | Fifth Harmony | [🔗](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb46e7a06fa6dfefaed6a3f0db" alt="" width="50" /> | Shawn Mendes | [🔗](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebad53e714cc3481bd069bfc93" alt="" width="50" /> | Wyclef Jean | [🔗](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) |
@@ -49,11 +50,11 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 27 albums](../images/labels/epic/albums.png)
+![Bar chart of top 28 albums](../images/labels/epic/albums.png)
 
 
 <details>
-<summary>See all 27 albums</summary>
+<summary>See all 28 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -67,6 +68,7 @@ Appears as:
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Romance | 2019-12-06 | [🔗](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Camila | 2018-01-12 | [🔗](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | The Script | 2008-07-14 | [🔗](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) |
+| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273d400d27cba05bb0545533864" alt="" width="50" /> | Ten | 1991-08-27 | [🔗](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="" width="50" /> | Tapestry | 1971 | [🔗](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | Bad (Remastered) | 1987-08-31 | [🔗](https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="" width="50" /> | Yoga | 2015-03-31 | [🔗](https://open.spotify.com/album/5rzxGeVyCV74SvV5hjLRAU) |
@@ -94,7 +96,7 @@ Appears as:
 
 
 <details>
-<summary>See all 40 genres</summary>
+<summary>See all 42 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -108,8 +110,8 @@ Appears as:
 | 9 | [r&b](../genres/r_b.md) |
 | 8 | soul |
 | 8 | [post-teen pop](../genres/post_teen_pop.md) |
+| 6 | [rock](../genres/rock.md) |
 | 4 | [soft rock](../genres/soft_rock.md) |
-| 4 | [rock](../genres/rock.md) |
 | 4 | [mellow gold](../genres/mellow_gold.md) |
 | 4 | [classic rock](../genres/classic_rock.md) |
 | 3 | latin pop |
@@ -118,8 +120,10 @@ Appears as:
 | 2 | symphonic rock |
 | 2 | [singer-songwriter](../genres/singer_songwriter.md) |
 | 2 | progressive rock |
+| 2 | permanent wave |
 | 2 | heartland rock |
 | 2 | hard rock |
+| 2 | grunge |
 | 2 | girl group |
 | 2 | [folk rock](../genres/folk_rock.md) |
 | 2 | folk |
@@ -129,7 +133,7 @@ Appears as:
 | 2 | album rock |
 | 2 | [adult standards](../genres/adult_standards.md) |
 | 1 | viral pop |
-| 1 | [piano rock](../genres/piano_rock.md) |
+| 1 | piano rock |
 | 1 | new wave pop |
 | 1 | neo soul |
 | 1 | escape room |
@@ -170,6 +174,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | Man in the Mirror - 2012 Remaster | Bad (Remastered) | Michael Jackson | [Epic](epic.md), [Legacy](legacy.md) | | [🔗](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | Smooth Criminal - 2012 Remaster | Bad (Remastered) | Michael Jackson | [Epic](epic.md), [Legacy](legacy.md) | 💚 | [🔗](https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7" alt="" width="50" /> | Beat It | HIStory - PAST, PRESENT AND FUTURE - BOOK I | Michael Jackson | [Epic](epic.md) | 💚 | [🔗](https://open.spotify.com/track/52xaypL0Kjzk0ngwv3oBPR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d400d27cba05bb0545533864" alt="" width="50" /> | Alive | Ten | Pearl Jam | [Epic](epic.md), [Legacy](legacy.md) | | [🔗](https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d400d27cba05bb0545533864" alt="" width="50" /> | Even Flow | Ten | Pearl Jam | [Epic](epic.md), [Legacy](legacy.md) | | [🔗](https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Between the Lines | Little Voice | [Sara Bareilles](../artists/sara_bareilles.md) | [Epic](epic.md) | 💚 | [🔗](https://open.spotify.com/track/2t3b5MZMzsArvQflOUo804) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Bottle It Up | Little Voice | [Sara Bareilles](../artists/sara_bareilles.md) | [Epic](epic.md) | 💚 | [🔗](https://open.spotify.com/track/3kfHdr2sYF2EeWEmBHquVj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | City | Little Voice | [Sara Bareilles](../artists/sara_bareilles.md) | [Epic](epic.md) | | [🔗](https://open.spotify.com/track/7HZOCMa0XEXNFklxUG5kKb) |

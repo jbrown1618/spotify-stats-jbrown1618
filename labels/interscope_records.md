@@ -1,11 +1,11 @@
 # Interscope Records
 
-65 songs
+66 songs
 
 Appears as:
 - YG Entertainment/Interscope Records (19 tracks)
 - Interscope (11 tracks)
-- Darkroom/Interscope Records (8 tracks)
+- Darkroom/Interscope Records (9 tracks)
 - Interscope Records* (5 tracks)
 - YG Entertainment, distributed through Interscope Records (5 tracks)
 - 2018 YG Entertainment, distributed through Interscope Records (4 tracks)
@@ -30,7 +30,7 @@ Appears as:
 |---:|:---|:---|:---|
 | 24 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 | 11 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../artists/lady_gaga.md) | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
-| 8 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../artists/billie_eilish.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
+| 9 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../artists/billie_eilish.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb288ac05481cedc5bddb5b11b" alt="" width="50" /> | Maroon 5 | [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb2be8611f6c6e9174031c64df" alt="" width="50" /> | JEON SOMI | [🔗](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb77bf00f67e21f514dc44c485" alt="" width="50" /> | OneRepublic | [🔗](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) |
@@ -64,7 +64,7 @@ Appears as:
 
 
 <details>
-<summary>See all 32 albums</summary>
+<summary>See all 33 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -96,6 +96,7 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1" alt="" width="50" /> | Joanne (Deluxe) | 2016-10-21 | [🔗](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="" width="50" /> | Happier Than Ever | 2021-07-30 | [🔗](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27386498c6e8ee965fa665a9c3d" alt="" width="50" /> | Hands All Over (Deluxe) | 2010 | [🔗](https://open.spotify.com/album/2H4DCvJiZknLngsD2Yqf6k) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318" alt="" width="50" /> | Guitar Songs | 2022-07-21 | [🔗](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273c824820b3a74839b91b4036a" alt="" width="50" /> | Good Thing (with Kehlani) | 2019-09-27 | [🔗](https://open.spotify.com/album/3wpdeV1FZfiEnelZSfAFp4) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="" width="50" /> | Evolve | 2017-06-23 | [🔗](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273fddc804f96cdd6a7de9bcc09" alt="" width="50" /> | DUMB DUMB | 2021-08-02 | [🔗](https://open.spotify.com/album/24sFioeGsPtxa5fD6VzL8b) |
@@ -114,15 +115,15 @@ Appears as:
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 32 | [pop](../genres/pop.md) |
+| 33 | [pop](../genres/pop.md) |
 | 31 | [k-pop](../genres/k_pop.md) |
 | 23 | [k-pop girl group](../genres/k_pop_girl_group.md) |
-| 19 | [art pop](../genres/art_pop.md) |
+| 20 | [art pop](../genres/art_pop.md) |
 | 12 | [dance pop](../genres/dance_pop.md) |
-| 9 | [electropop](../genres/electropop.md) |
+| 10 | [electropop](../genres/electropop.md) |
 | 2 | [rock](../genres/rock.md) |
 | 2 | pop rap |
-| 2 | [piano rock](../genres/piano_rock.md) |
+| 2 | piano rock |
 | 2 | modern rock |
 | 1 | tropical house |
 | 1 | [post-teen pop](../genres/post_teen_pop.md) |
@@ -152,6 +153,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2248cf6dad1d6c062587249" alt="" width="50" /> | everything i wanted | everything i wanted | [Billie Eilish](../artists/billie_eilish.md) | [Darkroom](darkroom.md), [Interscope Records](interscope_records.md) | 💚 | [🔗](https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7" alt="" width="50" /> | No Time To Die | No Time To Die | [Billie Eilish](../artists/billie_eilish.md) | [Darkroom](darkroom.md), [Interscope Records](interscope_records.md) | 💚 | [🔗](https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="" width="50" /> | Therefore I Am | Happier Than Ever | [Billie Eilish](../artists/billie_eilish.md) | [Darkroom](darkroom.md), [Interscope Records](interscope_records.md) | 💚 | [🔗](https://open.spotify.com/track/20R4HfKloPKgXDqU7UKk3x) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318" alt="" width="50" /> | TV | Guitar Songs | [Billie Eilish](../artists/billie_eilish.md) | [Darkroom](darkroom.md), [Interscope Records](interscope_records.md) | | [🔗](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef" alt="" width="50" /> | DDU-DU DDU-DU | SQUARE UP | [BLACKPINK](../artists/blackpink.md) | [Interscope Records](interscope_records.md), [YG Entertainment](yg_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/4lQsB3ERTWSNaAN1IkuNRl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef" alt="" width="50" /> | Forever Young | SQUARE UP | [BLACKPINK](../artists/blackpink.md) | [Interscope Records](interscope_records.md), [YG Entertainment](yg_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/6veFyjNycn6EaNCKhkPXUY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef" alt="" width="50" /> | Really | SQUARE UP | [BLACKPINK](../artists/blackpink.md) | [Interscope Records](interscope_records.md), [YG Entertainment](yg_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/2URMA0ap6SAI8wFmcY1yta) |

@@ -127,7 +127,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273664034dd80e91b28f773598d" alt="" width="50" /> | MONTERO (Call Me By Your Name) | 2021-03-31 | [🔗](https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27394c9217a398f5174757c0c78" alt="" width="50" /> | Love In The Future (Expanded Edition) | 2013-08-30 | [🔗](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="" width="50" /> | Loud | 2010-11-16 | [🔗](https://open.spotify.com/album/6UHhmTLl9T1scRYLmpHcDX) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736f9e6abbd6fa43ac3cdbeee0" alt="" width="50" /> | Leave The Door Open | 2021-03-05 | [🔗](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736564f1d8386a6993b4d5d759" alt="" width="50" /> | LUCID | 2019-11-15 | [🔗](https://open.spotify.com/album/5qQhQ1rmPjqQgv8RmfaQU3) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273260e2444b3431b3b8b559bc3" alt="" width="50" /> | Jordin Sparks | 2007-11-20 | [🔗](https://open.spotify.com/album/6JCNOvp9UeMrFuXwNW0JW6) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273987a1825341694ec9bc62457" alt="" width="50" /> | In My Own Words | 2006-01-01 | [🔗](https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr) |
@@ -150,6 +149,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27310356a0e81371e6644cb1371" alt="" width="50" /> | Boss Bitch | 2020-01-23 | [🔗](https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27384a1d313a00f16b5a29ff46c" alt="" width="50" /> | Bittersweet | 2003 | [🔗](https://open.spotify.com/album/3UviDOQkc4WbXkNi6DIBZu) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27307a560f0504f9de0af5e0a33" alt="" width="50" /> | Baby Powder | 2020-03-25 | [🔗](https://open.spotify.com/album/3nqQxvxUB95Bi2UBseY1u1) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="" width="50" /> | An Evening With Silk Sonic | 2021-11-11 | [🔗](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c" alt="" width="50" /> | All I Want Is You | 2010-11-26 | [🔗](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="" width="50" /> | After Hours | 2020-03-20 | [🔗](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27333c6b920eabcf4c00d7a1093" alt="" width="50" /> | ANTI (Deluxe) | 2016-01-28 | [🔗](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) |
@@ -228,7 +228,7 @@
 | 64 | [pop](../../genres/pop.md) |
 | 53 | [dance pop](../../genres/dance_pop.md) |
 | 29 | [r&b](../../genres/r_b.md) |
-| 24 | urban contemporary |
+| 23 | urban contemporary |
 | 12 | soul |
 | 12 | neo soul |
 | 10 | barbadian pop |
@@ -286,9 +286,9 @@
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" alt="Planet Her" width="50" /> <span style="padding-left:10px;">Planet Her (2021-06-25)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736506e351b719b6f122e60ea2" alt="Meet The Temptations" width="50" /> <span style="padding-left:10px;">Meet The Temptations (1964)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273664034dd80e91b28f773598d" alt="MONTERO (Call Me By Your Name)" width="50" /> <span style="padding-left:10px;">MONTERO (Call Me By Your Name) (2021-03-31)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> <span style="padding-left:10px;">The Temptations Sing Smokey (1965-03-22)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736f9e6abbd6fa43ac3cdbeee0" alt="Leave The Door Open" width="50" /> <span style="padding-left:10px;">Leave The Door Open (2021-03-05)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739f06367f9a07d24fc9c641a9" alt="Gettin' Ready (Expanded Edition)" width="50" /> <span style="padding-left:10px;">Gettin' Ready (Expanded Edition) (1966)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> <span style="padding-left:10px;">An Evening With Silk Sonic (2021-11-11)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736506e351b719b6f122e60ea2" alt="Meet The Temptations" width="50" /> <span style="padding-left:10px;">Meet The Temptations (1964)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" alt="Planet Her" width="50" /> <span style="padding-left:10px;">Planet Her (2021-06-25)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> <span style="padding-left:10px;">The Temptations Sing Smokey (1965-03-22)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273664034dd80e91b28f773598d" alt="MONTERO (Call Me By Your Name)" width="50" /> <span style="padding-left:10px;">MONTERO (Call Me By Your Name) (2021-03-31)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739f06367f9a07d24fc9c641a9" alt="Gettin' Ready (Expanded Edition)" width="50" /> <span style="padding-left:10px;">Gettin' Ready (Expanded Edition) (1966)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="The Prelude" width="50" /> <span style="padding-left:10px;">The Prelude (2020-07-17)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273bbe4503b585d49c54174a4bf" alt="The Foundations" width="50" /> <span style="padding-left:10px;">The Foundations (1968-01-01)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731d56717d1786e938a105b6df" alt="Coño" width="50" /> <span style="padding-left:10px;">Coño (2020-07-03)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737649604d1b27be1c78c466e9" alt="Tell Mama" width="50" /> <span style="padding-left:10px;">Tell Mama (1968-04-18)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27307a560f0504f9de0af5e0a33" alt="Baby Powder" width="50" /> <span style="padding-left:10px;">Baby Powder (2020-03-25)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273cab4dfee401a04dacfa11784" alt="For Once In My Life" width="50" /> <span style="padding-left:10px;">For Once In My Life (1968-12-01)</span></div> |
@@ -352,16 +352,16 @@
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Crazy (0.0577) | That's What I Like (0.0) |
-| Papa Was A Rollin' Stone - Single Version (0.0507) | When I Was Your Man (0.0) |
-| Coño (0.0101) | At My Worst (0.0) |
-| Superstition - Single Version (0.0064) | Hold Up (0.0) |
-| Tomboy (0.00512) | Bubblegum (feat. Tyga) (0.0) |
-| Isn't She Lovely (0.00352) | Best Part (feat. H.E.R.) (0.0) |
-| I Like That (0.00243) | Ave Maria (0.0) |
-| You Right (0.00233) | When I Get You Alone (0.0) |
-| Thinkin Bout You (0.00153) | Love On Top (0.0) |
-| We Found Love (0.00138) | If I Were a Boy (0.0) |
+| Crazy (0.0577) | Leave The Door Open (0.0) |
+| Papa Was A Rollin' Stone - Single Version (0.0507) | That's What I Like (0.0) |
+| Coño (0.0101) | When I Was Your Man (0.0) |
+| Superstition - Single Version (0.0064) | At My Worst (0.0) |
+| Tomboy (0.00512) | Hold Up (0.0) |
+| Isn't She Lovely (0.00352) | Bubblegum (feat. Tyga) (0.0) |
+| I Like That (0.00243) | Best Part (feat. H.E.R.) (0.0) |
+| You Right (0.00233) | Ave Maria (0.0) |
+| Thinkin Bout You (0.00153) | When I Get You Alone (0.0) |
+| We Found Love (0.00138) | Love On Top (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|

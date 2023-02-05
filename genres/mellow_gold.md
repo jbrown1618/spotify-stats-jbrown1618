@@ -1,6 +1,6 @@
 # mellow gold
 
-[68 songs](mellow_gold_tracks.md)
+[67 songs](mellow_gold_tracks.md)
 
 ## Top Artists
 
@@ -14,7 +14,7 @@
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
-| 24 | <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | [Billy Joel](../artists/billy_joel.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
+| 23 | <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | [Billy Joel](../artists/billy_joel.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
 | 6 | <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | The Who | [🔗](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970" alt="" width="50" /> | Elton John | [🔗](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) |
 | 5 | <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | Simon & Garfunkel | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
@@ -44,7 +44,7 @@
 
 
 <details>
-<summary>See all 51 albums</summary>
+<summary>See all 50 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -67,7 +67,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27374ecb94bc3e5d851a39a0334" alt="" width="50" /> | Tommy | 1969-05-23 | [🔗](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b96c21e15c091eb98a6c88a4" alt="" width="50" /> | The Very Best of Frankie Valli & The 4 Seasons | 2003-01-14 | [🔗](https://open.spotify.com/album/0NUEQILaBzavnzcMEs4buZ) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27322219b7ba681368a16c219fe" alt="" width="50" /> | The Ultimate Bee Gees | 2009-11-03 | [🔗](https://open.spotify.com/album/5GucSY3249qHDx4v1Hcxry) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="" width="50" /> | The Stranger (Legacy Edition) | 1977 | [🔗](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273e5e5f24cf490dfc7041eafc3" alt="" width="50" /> | The Nylon Curtain | 1982-06-23 | [🔗](https://open.spotify.com/album/50bajZpetfL5T0iRCOR74J) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273375445cc7a2aedff11361b51" alt="" width="50" /> | The Joker | 1973-01-01 | [🔗](https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27388f0f719259b0dec23a7c367" alt="" width="50" /> | The Grand Illusion | 1977-01-01 | [🔗](https://open.spotify.com/album/6MFIBPVrZjHjP0pPkVF3IU) |
@@ -113,9 +112,9 @@
 
 | Number of Tracks | Label |
 |---:|:---|
-| 32 | [Columbia](../labels/columbia.md) |
-| 8 | [Legacy](../labels/legacy.md) |
+| 31 | [Columbia](../labels/columbia.md) |
 | 7 | [Rhino](../labels/rhino.md) |
+| 7 | [Legacy](../labels/legacy.md) |
 | 4 | [UMC (Universal Music Catalogue)](../labels/umc__universal_music_catalogue_.md) |
 | 4 | [Epic](../labels/epic.md) |
 | 3 | Geffen |
@@ -197,11 +196,11 @@
 | 25 or 6 to 4 (0.0367) | Only the Good Die Young (0.0) |
 | Stayin Alive (0.00839) | We Didn't Start the Fire (0.0) |
 | My Generation - Stereo Version (0.00822) | Brown Eyed Girl (0.0) |
-| Lights (0.00711) | Vienna (0.0) |
-| You Can Call Me Al (0.00647) | Don't Stop Believin' (0.0) |
-| Who Are You (0.0042) | Lullabye (Goodnight, My Angel) (0.0) |
-| I Feel the Earth Move (0.00226) | The Longest Time (0.0) |
-| Goodbye Yellow Brick Road - Remastered 2014 (0.00141) | The Sound of Silence - Acoustic Version (0.0) |
+| Lights (0.00711) | Don't Stop Believin' (0.0) |
+| You Can Call Me Al (0.00647) | Lullabye (Goodnight, My Angel) (0.0) |
+| Who Are You (0.0042) | The Longest Time (0.0) |
+| I Feel the Earth Move (0.00226) | The Sound of Silence - Acoustic Version (0.0) |
+| Goodbye Yellow Brick Road - Remastered 2014 (0.00141) | Uptown Girl (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|

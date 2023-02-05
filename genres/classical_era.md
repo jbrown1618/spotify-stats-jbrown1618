@@ -70,7 +70,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737c3a707e71193bce9aa12c5b" alt="" width="50" /> | Hanna Schwarz | [🔗](https://open.spotify.com/artist/0uzYuEP2MlAJ5FdVIYIalx) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273877b88f28b401581470add7b" alt="" width="50" /> | Christian Schulz | [🔗](https://open.spotify.com/artist/0sqQ1nXbUwTWglq8jWopvZ) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737e642d5abb467a88d79bc1ec" alt="" width="50" /> | Ilmar Lapinsch | [🔗](https://open.spotify.com/artist/0dI3iXIxXjAtMkzZCsOVEg) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738dd4042adcca6717a808428b" alt="" width="50" /> | Ratko Delorko | [🔗](https://open.spotify.com/artist/0E1sM06TDvSpGqNQBx8FV0) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739fb6140ed94803865e2c5342" alt="" width="50" /> | Ratko Delorko | [🔗](https://open.spotify.com/artist/0E1sM06TDvSpGqNQBx8FV0) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273732b6fb281de1f71f1f5f325" alt="" width="50" /> | Gints Berzins | [🔗](https://open.spotify.com/artist/0CqCB3JQz4h9k3qk74ihWT) |
 
 </details>

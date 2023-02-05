@@ -1,6 +1,6 @@
 # k-pop boy group
 
-[245 songs](k_pop_boy_group_tracks.md)
+[246 songs](k_pop_boy_group_tracks.md)
 
 ## Top Artists
 
@@ -10,7 +10,7 @@
 
 
 <details>
-<summary>See all 41 artists</summary>
+<summary>See all 42 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -45,6 +45,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eba60ea8fce338724271ae273e" alt="" width="50" /> | Play-N-Skillz | [🔗](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebbde67f9fdaf3531de31caad2" alt="" width="50" /> | Leslie Grace | [🔗](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb125d29add59b1d82aa236423" alt="" width="50" /> | 2PM | [🔗](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2fba28d51fc972ed9d8fbaaa" alt="" width="50" /> | DAY6 | [🔗](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) |
 | 1 | <img src="nan" alt="" width="50" /> | Changbin | [🔗](https://open.spotify.com/artist/5OTVNUu0UHn6ddPyEAi419) |
 | 1 | <img src="nan" alt="" width="50" /> | Bang Chan | [🔗](https://open.spotify.com/artist/4qy7HANJDOZRObts4Z0KSV) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6034058cfde0084f922bb284" alt="" width="50" /> | ASTRO | [🔗](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) |
@@ -140,6 +141,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739902ed3e9f44f5ad65ad808a" alt="" width="50" /> | Sorry | 2017-08-03 | [🔗](https://open.spotify.com/album/6D48tHXsa6LzoViDIACdkt) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ab9433cc4b9cda9431be879a" alt="" width="50" /> | Skool Luv Affair | 2014-02-12 | [🔗](https://open.spotify.com/album/5r35iS0uSSoQBKzQj0IeI3) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27343028ae4eeabf8c854a93cab" alt="" width="50" /> | Sherlock - The 4th Mini Album | 2012-03-21 | [🔗](https://open.spotify.com/album/2Mfisiv88pNRQNugqrEUHQ) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ec55d2dad1aefc7d57745633" alt="" width="50" /> | SUNRISE | 2017-06-07 | [🔗](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc5762a75c18b494803705c" alt="" width="50" /> | SPIN OFF : FROM THE WITNESS | 2022-12-30 | [🔗](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735ac2a400576ac7f35aa7428b" alt="" width="50" /> | SEVENTEEN 9th Mini Album 'Attacca' | 2021-10-22 | [🔗](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273005799610338a5b57d865926" alt="" width="50" /> | SEVENTEEN 4th Mini Album ‘Al1’ | 2017-05-22 | [🔗](https://open.spotify.com/album/2BNimvLLlD89e4Sb7ZVX6I) |
@@ -167,7 +169,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ff666e3a12273d4d1380e9f0" alt="" width="50" /> | NCT #127 Regular-Irregular - The 1st Album | 2018-10-12 | [🔗](https://open.spotify.com/album/4oU5Tp952fPL7z2Bax4JmU) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738d47b664117ca39e7b1acfc9" alt="" width="50" /> | NCT #127 CHERRY BOMB– The 3rd Mini Album | 2017-06-14 | [🔗](https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732d10195d8d9abd1357fff450" alt="" width="50" /> | NCT #127 - The 1st Mini Album | 2016-07-10 | [🔗](https://open.spotify.com/album/7xmqXxPAmkgn5HK9FcyBxR) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273daf7982ccaad9ca5e1603792" alt="" width="50" /> | Mr. Simple - The 5th Album | 2011-08-02 | [🔗](https://open.spotify.com/album/0eouyQPmljivHfUuG5nYBa) |
 
 </details>
 
@@ -192,8 +193,8 @@
 | 8 | KQ Entertainment |
 | 8 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
 | 7 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
+| 7 | [JYP Entertainment](../labels/jyp_entertainment.md) |
 | 6 | [Universal Music LLC](../labels/universal_music_llc.md) |
-| 6 | [JYP Entertainment](../labels/jyp_entertainment.md) |
 | 5 | [FNC ENTERTAINMENT](../labels/fnc_entertainment.md) |
 | 5 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md) |
 | 4 | [WM Korea](../labels/wm_korea.md) |
@@ -247,13 +248,13 @@
 | No More Dream (0.472) | She′s In The Rain (0.0264) |
 | MANIAC (0.411) | Envision_ (0.0275) |
 | I GOT IT (HAN) (0.365) | NANANA (0.0277) |
-| Feelin' Like (0.353) | LOVE SCENARIO (0.0307) |
-| VENOM (0.339) | Drive (Bang Chan, Lee Know) (0.0314) |
-| Tap Tap (0.311) | Don't Wanna Cry (0.0325) |
-| Boy in Luv (0.306) | Stars and Raindrops (Seungmin) (0.0329) |
-| 3RACHA (Bang Chan, Changbin, HAN) (0.301) | Lie (0.033) |
-| Sparkling Night (0.299) | The Eve (0.0334) |
-| Cherry Bomb (0.287) | Sorry (0.0337) |
+| Feelin' Like (0.353) | Man in a movie (0.03) |
+| VENOM (0.339) | LOVE SCENARIO (0.0307) |
+| Tap Tap (0.311) | Drive (Bang Chan, Lee Know) (0.0314) |
+| Boy in Luv (0.306) | Don't Wanna Cry (0.0325) |
+| 3RACHA (Bang Chan, Changbin, HAN) (0.301) | Stars and Raindrops (Seungmin) (0.0329) |
+| Sparkling Night (0.299) | Lie (0.033) |
+| Cherry Bomb (0.287) | The Eve (0.0334) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|

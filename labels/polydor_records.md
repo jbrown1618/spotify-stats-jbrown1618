@@ -1,9 +1,9 @@
 # Polydor Records
 
-55 songs
+56 songs
 
 Appears as:
-- Polydor Records (54 tracks)
+- Polydor Records (55 tracks)
 - Polydor (1 tracks)
 
 ## Top Artists
@@ -12,7 +12,7 @@ Appears as:
 
 
 <details>
-<summary>See all 31 artists</summary>
+<summary>See all 32 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -45,6 +45,7 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb02dd5c821135e146eb2bfc85" alt="" width="50" /> | Snow Patrol | [🔗](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) |
 | 1 | <img src="nan" alt="" width="50" /> | Janos Kurucz | [🔗](https://open.spotify.com/artist/3MiTXPOmIgoJioulWki8dz) |
 | 1 | <img src="https://i.scdn.co/image/ab6772690000c46c50e750d1aed632c37a450ffb" alt="" width="50" /> | Duffy | [🔗](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | [Florence + The Machine](../artists/florence___the_machine.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7926088433d79485da5e1734" alt="" width="50" /> | Mabel | [🔗](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) |
 | 1 | <img src="https://i.scdn.co/image/09f4a0a499359540e40075f8e912d7c3e94bc4a6" alt="" width="50" /> | Anne Hathaway | [🔗](https://open.spotify.com/artist/0nIyPY7J7G68WgQEOLHn0x) |
 
@@ -53,11 +54,11 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 19 albums](../images/labels/polydor_records/albums.png)
+![Bar chart of top 20 albums](../images/labels/polydor_records/albums.png)
 
 
 <details>
-<summary>See all 19 albums</summary>
+<summary>See all 20 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -79,6 +80,7 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f" alt="" width="50" /> | Eyes Open | 2006-01-01 | [🔗](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea" alt="" width="50" /> | Dreamland (+ Bonus Levels) | 2020-08-06 | [🔗](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273570d18beb1f15ef8adfb27a5" alt="" width="50" /> | Delirium | 2015-11-13 | [🔗](https://open.spotify.com/album/4A43DyDoAVa1Fb8pq6Yejl) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735fd9e21618182df7d70b2186" alt="" width="50" /> | Dance Fever | 2022-05-13 | [🔗](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a6479db910d22f5aa4546af1" alt="" width="50" /> | 20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor | 2000-01-01 | [🔗](https://open.spotify.com/album/2BU2SNYoIPtZvGEJckdIhx) |
 
 </details>
@@ -90,12 +92,12 @@ Appears as:
 
 
 <details>
-<summary>See all 38 genres</summary>
+<summary>See all 40 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
+| 25 | [pop](../genres/pop.md) |
 | 24 | [show tunes](../genres/show_tunes.md) |
-| 24 | [pop](../genres/pop.md) |
 | 22 | [broadway](../genres/broadway.md) |
 | 21 | west end |
 | 17 | [art pop](../genres/art_pop.md) |
@@ -118,6 +120,7 @@ Appears as:
 | 2 | art rock |
 | 2 | album rock |
 | 1 | uk dance |
+| 1 | uk alternative pop |
 | 1 | shiver pop |
 | 1 | [post-teen pop](../genres/post_teen_pop.md) |
 | 1 | [pop rock](../genres/pop_rock.md) |
@@ -132,6 +135,7 @@ Appears as:
 | 1 | electro house |
 | 1 | disco |
 | 1 | british soul |
+| 1 | baroque pop |
 
 </details>
 
@@ -170,6 +174,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273a90401b8d27cd6b5f3a46242" alt="" width="50" /> | Your Song | Lights | Ellie Goulding | [Polydor Records](polydor_records.md) | | [🔗](https://open.spotify.com/track/562NFiDgGSylJpitA7dUhE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273570d18beb1f15ef8adfb27a5" alt="" width="50" /> | Something In The Way You Move | Delirium | Ellie Goulding | [Polydor Records](polydor_records.md) | | [🔗](https://open.spotify.com/track/7is4okCIwDa9vc7pUjda1H) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734fb1446223808a37ba8914b5" alt="" width="50" /> | Slow Grenade | Slow Grenade | Ellie Goulding, Lauv | [Polydor Records](polydor_records.md) | 💚 | [🔗](https://open.spotify.com/track/5z8uLrYMcUVvzTV28twt44) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735fd9e21618182df7d70b2186" alt="" width="50" /> | Free | Dance Fever | [Florence + The Machine](../artists/florence___the_machine.md) | [Polydor Records](polydor_records.md) | | [🔗](https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea" alt="" width="50" /> | Heat Waves | Dreamland (+ Bonus Levels) | Glass Animals | [Polydor Records](polydor_records.md) | | [🔗](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6479db910d22f5aa4546af1" alt="" width="50" /> | I Will Survive - Single Version | 20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor | Gloria Gaynor | [Polydor](polydor_records.md) | 💚 | [🔗](https://open.spotify.com/track/7cv28LXcjAC3GsXbUvXKbX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d883d3f10af481faa3c7e04" alt="" width="50" /> | You Don't Know Me | You Don't Know Me | Jax Jones, RAYE | [Polydor Records](polydor_records.md) | | [🔗](https://open.spotify.com/track/1rFMYAZxBoAKSzXI54brMu) |

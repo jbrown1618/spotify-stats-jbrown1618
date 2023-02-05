@@ -1,6 +1,6 @@
 # electropop
 
-[51 songs](electropop_tracks.md)
+[52 songs](electropop_tracks.md)
 
 ## Top Artists
 
@@ -15,7 +15,7 @@
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
 | 16 | <img src="https://i.scdn.co/image/ab6761610000e5eb4765d540a1ebedeb7c9637a2" alt="" width="50" /> | [Kimbra](../artists/kimbra.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
-| 10 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../artists/billie_eilish.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
+| 11 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../artists/billie_eilish.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb3ea2c03525939b482f8d3bfd" alt="" width="50" /> | Janelle Monáe | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb854b6139b96beb6dbc398e06" alt="" width="50" /> | Ellie Goulding | [🔗](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
@@ -54,7 +54,7 @@
 
 
 <details>
-<summary>See all 33 albums</summary>
+<summary>See all 34 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -81,6 +81,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a111f7769013f1731e9c697c" alt="" width="50" /> | Kiss (Deluxe) | 2012-01-01 | [🔗](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273c83d25c1b9d5f384c32d834a" alt="" width="50" /> | Hot Mess | 2009-07-07 | [🔗](https://open.spotify.com/album/41TUivD915ztiKgyu99H9T) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="" width="50" /> | Happier Than Ever | 2021-07-30 | [🔗](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318" alt="" width="50" /> | Guitar Songs | 2022-07-21 | [🔗](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273c824820b3a74839b91b4036a" alt="" width="50" /> | Good Thing (with Kehlani) | 2019-09-27 | [🔗](https://open.spotify.com/album/3wpdeV1FZfiEnelZSfAFp4) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="" width="50" /> | Fifty Shades Freed (Original Motion Picture Soundtrack) | 2018-02-09 | [🔗](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27370d7aa769af19e7e2c2e107b" alt="" width="50" /> | Fantasies | 2009-04-14 | [🔗](https://open.spotify.com/album/3Oj8FdHcV6kAiOVWfkqRaA) |
@@ -106,8 +107,8 @@
 | Number of Tracks | Label |
 |---:|:---|
 | 13 | [Warner Records](../labels/warner_records.md) |
-| 10 | [Darkroom](../labels/darkroom.md) |
-| 9 | [Interscope Records](../labels/interscope_records.md) |
+| 11 | [Darkroom](../labels/darkroom.md) |
+| 10 | [Interscope Records](../labels/interscope_records.md) |
 | 4 | [Polydor Records](../labels/polydor_records.md) |
 | 4 | Bad Boy |
 | 3 | Kimbra |
@@ -144,12 +145,12 @@
 | Therefore I Am (0.879) | when the party's over (0.367) |
 | Make Me Feel (0.859) | No Time To Die (0.38) |
 | Good Intent (0.851) | Waltz Me to the Grave (0.394) |
-| replay! (0.806) | foolish thinking (0.416) |
-| Call Me Maybe (0.783) | Like They Do on the TV (0.463) |
-| la type (0.773) | Gimme Sympathy (0.47) |
-| Daisy 2.0 (feat. Hatsune Miku) (0.773) | Old Flame (0.476) |
-| Recovery (0.767) | I Like That (0.482) |
-| Good Ones (0.764) | Love Me Like You Do (0.489) |
+| replay! (0.806) | TV (0.412) |
+| Call Me Maybe (0.783) | foolish thinking (0.416) |
+| la type (0.773) | Like They Do on the TV (0.463) |
+| Daisy 2.0 (feat. Hatsune Miku) (0.773) | Gimme Sympathy (0.47) |
+| Recovery (0.767) | Old Flame (0.476) |
+| Good Ones (0.764) | I Like That (0.482) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -159,10 +160,10 @@
 | Good Girls Go Bad (feat. Leighton Meester) (0.874) | Your Song (0.195) |
 | Something In The Way You Move (0.814) | No Time To Die (0.219) |
 | Recovery (0.8) | everything i wanted (0.225) |
-| Lights - Single Version (0.789) | lovely (with Khalid) (0.296) |
-| Top of the World (0.762) | Waltz Me to the Grave (0.352) |
-| Bad At Love (0.751) | ocean eyes (0.363) |
-| SUGA's Interlude (0.732) | Therefore I Am (0.365) |
+| Lights - Single Version (0.789) | TV (0.236) |
+| Top of the World (0.762) | lovely (with Khalid) (0.296) |
+| Bad At Love (0.751) | Waltz Me to the Grave (0.352) |
+| SUGA's Interlude (0.732) | ocean eyes (0.363) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -186,9 +187,9 @@
 | foolish thinking (0.917) | Good Girls Go Bad (feat. Leighton Meester) (0.0116) |
 | everything i wanted (0.902) | Yoga (0.0159) |
 | Plain Gold Ring (0.9) | The Good War (0.0208) |
-| ocean eyes (0.816) | Lights - Single Version (0.0283) |
-| xanny (0.751) | Tightrope (feat. Big Boi) - Big Boi Vocal Edit (0.0302) |
-| bury a friend (0.74) | replay! (0.0305) |
+| TV (0.83) | Lights - Single Version (0.0283) |
+| ocean eyes (0.816) | Tightrope (feat. Big Boi) - Big Boi Vocal Edit (0.0302) |
+| xanny (0.751) | replay! (0.0305) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
@@ -224,7 +225,7 @@
 | Good Ones (0.789) | The Good War (0.0928) |
 | Recovery (0.771) | Old Flame (0.0932) |
 | la type (0.761) | Gimme Sympathy (0.119) |
-| Make Me Feel (0.697) | lovely (with Khalid) (0.12) |
-| Cameo Lover (0.669) | ocean eyes (0.169) |
-| Therefore I Am (0.663) | I Like That (0.17) |
-| Closer (0.661) | bury a friend (0.196) |
+| Make Me Feel (0.697) | TV (0.119) |
+| Cameo Lover (0.669) | lovely (with Khalid) (0.12) |
+| Therefore I Am (0.663) | ocean eyes (0.169) |
+| Closer (0.661) | I Like That (0.17) |

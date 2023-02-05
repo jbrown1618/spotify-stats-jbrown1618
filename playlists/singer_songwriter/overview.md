@@ -202,7 +202,7 @@
 
 
 <details>
-<summary>See all 51 genres</summary>
+<summary>See all 52 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -212,7 +212,7 @@
 | 79 | [lilith](../../genres/lilith.md) |
 | 61 | [pop rock](../../genres/pop_rock.md) |
 | 59 | [hollywood](../../genres/hollywood.md) |
-| 35 | [piano rock](../../genres/piano_rock.md) |
+| 35 | piano rock |
 | 34 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 33 | [folk rock](../../genres/folk_rock.md) |
 | 31 | [mellow gold](../../genres/mellow_gold.md) |
@@ -247,6 +247,7 @@
 | 1 | modern folk rock |
 | 1 | irish pop |
 | 1 | indie soul |
+| 1 | indie folk |
 | 1 | funk |
 | 1 | europop |
 | 1 | dark pop |

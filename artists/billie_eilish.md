@@ -8,6 +8,7 @@
 | Number of Tracks | Art | Playlist |
 |---:|:---|:---|
 | 10 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | [Pop](../playlists/pop/overview.md) |
+| 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731fcd19d56ad06561b76c1665ab67616d0000b2733042c53026e29faf3a21c9f9ab67616d0000b273995994477ea1ae8097978bf8ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | [Check Out Later](../playlists/check_out_later/overview.md) |
 ## Top Albums
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
@@ -18,13 +19,14 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795" alt="" width="50" /> | dont smile at me | 2017-12-22 | [🔗](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7" alt="" width="50" /> | No Time To Die | 2020-02-13 | [🔗](https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="" width="50" /> | Happier Than Ever | 2021-07-30 | [🔗](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318" alt="" width="50" /> | Guitar Songs | 2022-07-21 | [🔗](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) |
 
 ## Top Record Labels
 
 | Number of Tracks | Label |
 |---:|:---|
-| 10 | [Darkroom](../labels/darkroom.md) |
-| 8 | [Interscope Records](../labels/interscope_records.md) |
+| 11 | [Darkroom](../labels/darkroom.md) |
+| 9 | [Interscope Records](../labels/interscope_records.md) |
 
 ## Genres
 
@@ -46,3 +48,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2248cf6dad1d6c062587249" alt="" width="50" /> | everything i wanted | everything i wanted | [Billie Eilish](billie_eilish.md) | [Darkroom](../labels/darkroom.md), [Interscope Records](../labels/interscope_records.md) | 💚 | [🔗](https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7" alt="" width="50" /> | No Time To Die | No Time To Die | [Billie Eilish](billie_eilish.md) | [Darkroom](../labels/darkroom.md), [Interscope Records](../labels/interscope_records.md) | 💚 | [🔗](https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="" width="50" /> | Therefore I Am | Happier Than Ever | [Billie Eilish](billie_eilish.md) | [Darkroom](../labels/darkroom.md), [Interscope Records](../labels/interscope_records.md) | 💚 | [🔗](https://open.spotify.com/track/20R4HfKloPKgXDqU7UKk3x) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318" alt="" width="50" /> | TV | Guitar Songs | [Billie Eilish](billie_eilish.md) | [Darkroom](../labels/darkroom.md), [Interscope Records](../labels/interscope_records.md) | | [🔗](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) |

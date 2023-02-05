@@ -10,6 +10,7 @@
 | 11 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | [Pop](../playlists/pop/overview.md) |
 | 9 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27345680a4a57c97894490a01c1ab67616d0000b27389992f4d7d4ab94937bf9e23ab67616d0000b273e13de7b8662b085b0885ffefab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | [R&B](../playlists/r_b/overview.md) |
 | 2 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732d73b1bb77cee09f0278be04ab67616d0000b2736f50b3400595b123a916e0dcab67616d0000b2739ab215825eb77076b1b4b387ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | [Karaoke](../playlists/karaoke/overview.md) |
+| 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731fcd19d56ad06561b76c1665ab67616d0000b2733042c53026e29faf3a21c9f9ab67616d0000b273995994477ea1ae8097978bf8ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | [Check Out Later](../playlists/check_out_later/overview.md) |
 ## Top Albums
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
@@ -19,17 +20,18 @@
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="" width="50" /> | Doo-Wops & Hooligans | 2010-10-05 | [🔗](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273e419ccba0baa8bd3f3d7abf2" alt="" width="50" /> | Uptown Special | 2015-01-12 | [🔗](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273288883647008cefba0db5402" alt="" width="50" /> | Please Me | 2019-02-15 | [🔗](https://open.spotify.com/album/5a4sJJ3qjn6hqRsvm0Veso) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736f9e6abbd6fa43ac3cdbeee0" alt="" width="50" /> | Leave The Door Open | 2021-03-05 | [🔗](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27379ffc01d8bc8312192cacfc0" alt="" width="50" /> | Love's Train | 2022-02-14 | [🔗](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27347e522adf030a78615cdea06" alt="" width="50" /> | Finesse (Remix) [feat. Cardi B] | 2017-12-20 | [🔗](https://open.spotify.com/album/3mumK2ar9b4JPhVOZR0V2p) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="" width="50" /> | An Evening With Silk Sonic | 2021-11-11 | [🔗](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) |
 
 ## Top Record Labels
 
 | Number of Tracks | Label |
 |---:|:---|
-| 10 | [Atlantic Records](../labels/atlantic_records.md) |
+| 11 | [Atlantic Records](../labels/atlantic_records.md) |
+| 2 | Aftermath Entertainment |
 | 1 | KSR |
 | 1 | [Columbia](../labels/columbia.md) |
-| 1 | Aftermath Entertainment |
 
 ## Genres
 
@@ -48,6 +50,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="" width="50" /> | Finesse | 24K Magic | [Bruno Mars](bruno_mars.md) | [Atlantic Records](../labels/atlantic_records.md) | 💚 | [🔗](https://open.spotify.com/track/5XMkENs3GfeRza8MfVAhjK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="" width="50" /> | That's What I Like | 24K Magic | [Bruno Mars](bruno_mars.md) | [Atlantic Records](../labels/atlantic_records.md) | 💚 | [🔗](https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27347e522adf030a78615cdea06" alt="" width="50" /> | Finesse - Remix; feat. Cardi B | Finesse (Remix) [feat. Cardi B] | [Bruno Mars](bruno_mars.md), Cardi B | [Atlantic Records](../labels/atlantic_records.md) | 💚 | [🔗](https://open.spotify.com/track/3Vo4wInECJQuz9BIBMOu8i) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f9e6abbd6fa43ac3cdbeee0" alt="" width="50" /> | Leave The Door Open | Leave The Door Open | [Bruno Mars](bruno_mars.md), Anderson .Paak, Silk Sonic | [Aftermath Entertainment/Atlantic](../labels/atlantic_records.md) | 💚 | [🔗](https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="" width="50" /> | Leave The Door Open | An Evening With Silk Sonic | [Bruno Mars](bruno_mars.md), Anderson .Paak, Silk Sonic | [Aftermath Entertainment/Atlantic](../labels/atlantic_records.md) | 💚 | [🔗](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27379ffc01d8bc8312192cacfc0" alt="" width="50" /> | Love's Train | Love's Train | [Bruno Mars](bruno_mars.md), Anderson .Paak, Silk Sonic | [Aftermath Entertainment/Atlantic](../labels/atlantic_records.md) | | [🔗](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273288883647008cefba0db5402" alt="" width="50" /> | Please Me | Please Me | Cardi B, [Bruno Mars](bruno_mars.md) | [Atlantic/KSR](../labels/atlantic_records.md) | 💚 | [🔗](https://open.spotify.com/track/0PG9fbaaHFHfre2gUVo7AN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e419ccba0baa8bd3f3d7abf2" alt="" width="50" /> | Uptown Funk (feat. Bruno Mars) | Uptown Special | Mark Ronson, [Bruno Mars](bruno_mars.md) | [Columbia](../labels/columbia.md) | 💚 | [🔗](https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS) |

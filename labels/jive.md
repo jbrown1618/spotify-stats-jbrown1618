@@ -51,18 +51,17 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 5 genres](../images/labels/jive/genres.png)
+![Bar chart of top 4 genres](../images/labels/jive/genres.png)
 
 
 <details>
-<summary>See all 5 genres</summary>
+<summary>See all 4 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
 | 15 | [dance pop](../genres/dance_pop.md) |
 | 9 | [pop](../genres/pop.md) |
 | 6 | boy band |
-| 1 | urban contemporary |
 | 1 | [r&b](../genres/r_b.md) |
 
 </details>

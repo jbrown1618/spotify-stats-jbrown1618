@@ -360,14 +360,14 @@
 | Number of Tracks | Genre |
 |---:|:---|
 | 305 | [pop](../../genres/pop.md) |
-| 195 | [dance pop](../../genres/dance_pop.md) |
+| 193 | [dance pop](../../genres/dance_pop.md) |
 | 46 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 29 | [electropop](../../genres/electropop.md) |
 | 28 | [art pop](../../genres/art_pop.md) |
 | 27 | edm |
 | 26 | uk pop |
 | 21 | pop rap |
-| 20 | urban contemporary |
+| 19 | urban contemporary |
 | 18 | neo soul |
 | 12 | [neo mellow](../../genres/neo_mellow.md) |
 | 12 | atl hip hop |
@@ -393,7 +393,7 @@
 | 7 | indietronica |
 | 5 | uk funky |
 | 5 | [rock](../../genres/rock.md) |
-| 5 | [piano rock](../../genres/piano_rock.md) |
+| 5 | piano rock |
 | 5 | permanent wave |
 | 5 | electro house |
 | 5 | contemporary r&b |
@@ -508,11 +508,11 @@
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b817e721691aff3d67f26c04" alt="About Damn Time" width="50" /> <span style="padding-left:10px;">About Damn Time (2022-04-14)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="No Strings Attached" width="50" /> <span style="padding-left:10px;">No Strings Attached (2000-03-21)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="CRASH" width="50" /> <span style="padding-left:10px;">CRASH (2022-03-18)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732aa20611c7fb964a74ab01a6" alt="Oops!... I Did It Again" width="50" /> <span style="padding-left:10px;">Oops!... I Did It Again (2000-05-16)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c6b577e4c4a6d326354a89f7" alt="30" width="50" /> <span style="padding-left:10px;">30 (2021-11-19)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733d92b2ad5af9fbc8637425f0" alt="Parachutes" width="50" /> <span style="padding-left:10px;">Parachutes (2000-07-10)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27354d075797911e02360beb3e7" alt="SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)" width="50" /> <span style="padding-left:10px;">SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (2021-10-22)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e1a4e01cb7a1ecff468bbead" alt="Britney (Digital Deluxe Version)" width="50" /> <span style="padding-left:10px;">Britney (Digital Deluxe Version) (2001-10-31)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273be82673b5f79d9658ec0a9fd" alt="MONTERO" width="50" /> <span style="padding-left:10px;">MONTERO (2021-09-17)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e" alt="Songs About Jane: 10th Anniversary Edition" width="50" /> <span style="padding-left:10px;">Songs About Jane: 10th Anniversary Edition (2002)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e859698c8fe21d42a13ec252" alt="SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)" width="50" /> <span style="padding-left:10px;">SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy) (2021-09-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27317b3850d758fff5a2301e537" alt="Songs About Jane" width="50" /> <span style="padding-left:10px;">Songs About Jane (2002-06-25)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737bc333ff94bcb174a817e346" alt="this is what falling in love feels like" width="50" /> <span style="padding-left:10px;">this is what falling in love feels like (2021-09-03)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="A Rush of Blood to the Head" width="50" /> <span style="padding-left:10px;">A Rush of Blood to the Head (2002-08-08)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="Happier Than Ever" width="50" /> <span style="padding-left:10px;">Happier Than Ever (2021-07-30)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273af3ad974e635a6b18579adee" alt="A Beautiful World" width="50" /> <span style="padding-left:10px;">A Beautiful World (2002-12-13)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> <span style="padding-left:10px;">An Evening With Silk Sonic (2021-11-11)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e1a4e01cb7a1ecff468bbead" alt="Britney (Digital Deluxe Version)" width="50" /> <span style="padding-left:10px;">Britney (Digital Deluxe Version) (2001-10-31)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27354d075797911e02360beb3e7" alt="SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)" width="50" /> <span style="padding-left:10px;">SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (2021-10-22)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e" alt="Songs About Jane: 10th Anniversary Edition" width="50" /> <span style="padding-left:10px;">Songs About Jane: 10th Anniversary Edition (2002)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273be82673b5f79d9658ec0a9fd" alt="MONTERO" width="50" /> <span style="padding-left:10px;">MONTERO (2021-09-17)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27317b3850d758fff5a2301e537" alt="Songs About Jane" width="50" /> <span style="padding-left:10px;">Songs About Jane (2002-06-25)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e859698c8fe21d42a13ec252" alt="SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)" width="50" /> <span style="padding-left:10px;">SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy) (2021-09-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="A Rush of Blood to the Head" width="50" /> <span style="padding-left:10px;">A Rush of Blood to the Head (2002-08-08)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737bc333ff94bcb174a817e346" alt="this is what falling in love feels like" width="50" /> <span style="padding-left:10px;">this is what falling in love feels like (2021-09-03)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273af3ad974e635a6b18579adee" alt="A Beautiful World" width="50" /> <span style="padding-left:10px;">A Beautiful World (2002-12-13)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
@@ -569,16 +569,16 @@
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Abeja (0.915) | Clean (0.0) |
-| everything i wanted (0.657) | This Is Why We Can't Have Nice Things (0.0) |
-| Instant Crush (feat. Julian Casablancas) (0.619) | Love Me Like You Do (0.0) |
-| you should see me in a crown (0.219) | UN DIA (ONE DAY) (Feat. Tainy) (0.0) |
-| bury a friend (0.162) | React (0.0) |
-| Therefore I Am (0.135) | TiK ToK (0.0) |
-| bad guy (0.13) | Jar of Hearts (0.0) |
-| This Is What You Came For (0.119) | Lucky (0.0) |
-| Crazy (0.0577) | That's What I Like (0.0) |
-| Lights - Single Version (0.0492) | SexyBack (feat. Timbaland) (0.0) |
+| Abeja (0.915) | Leave The Door Open (0.0) |
+| everything i wanted (0.657) | Clean (0.0) |
+| Instant Crush (feat. Julian Casablancas) (0.619) | This Is Why We Can't Have Nice Things (0.0) |
+| you should see me in a crown (0.219) | Love Me Like You Do (0.0) |
+| bury a friend (0.162) | UN DIA (ONE DAY) (Feat. Tainy) (0.0) |
+| Therefore I Am (0.135) | React (0.0) |
+| bad guy (0.13) | TiK ToK (0.0) |
+| This Is What You Came For (0.119) | Jar of Hearts (0.0) |
+| Crazy (0.0577) | Lucky (0.0) |
+| Lights - Single Version (0.0492) | That's What I Like (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|

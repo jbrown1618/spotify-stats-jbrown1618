@@ -162,7 +162,7 @@
 | 12 | motown |
 | 12 | [adult standards](../../genres/adult_standards.md) |
 | 11 | [pop](../../genres/pop.md) |
-| 9 | funk |
+| 10 | funk |
 | 9 | [folk rock](../../genres/folk_rock.md) |
 | 8 | [r&b](../../genres/r_b.md) |
 | 8 | folk |
@@ -170,7 +170,7 @@
 | 7 | [rock](../../genres/rock.md) |
 | 7 | [dance pop](../../genres/dance_pop.md) |
 | 6 | [soft rock](../../genres/soft_rock.md) |
-| 6 | [piano rock](../../genres/piano_rock.md) |
+| 6 | piano rock |
 | 6 | glam rock |
 | 6 | classic soul |
 | 5 | quiet storm |

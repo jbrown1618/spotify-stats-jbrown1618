@@ -106,6 +106,7 @@
 | 11 | country dawn |
 | 11 | country |
 | 8 | [pop](../../genres/pop.md) |
+| 8 | new americana |
 | 8 | indie folk |
 | 8 | contemporary country |
 | 6 | stomp and holler |
@@ -123,7 +124,6 @@
 | 3 | modern country rock |
 | 3 | country road |
 | 3 | [acoustic pop](../../genres/acoustic_pop.md) |
-| 2 | new americana |
 | 1 | lafayette indie |
 
 </details>
