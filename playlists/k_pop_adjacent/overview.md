@@ -3,17 +3,17 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27363e0ddbb488d0eeec0e738fcab67616d0000b2736564f1d8386a6993b4d5d759ab67616d0000b27384095737f6056e682666d6f9ab67616d0000b273f2bf9685109a09bdc176fb43" alt="K-Pop-Adjacent" width="100" />
 
-[21 songs](tracks.md)
+[22 songs](tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 26 artists](../../images/playlists/k_pop_adjacent/artists.png)
+![Bar chart of top 27 artists](../../images/playlists/k_pop_adjacent/artists.png)
 
 ![Comparison of Artist](../../images/playlists/k_pop_adjacent/artists_comparison.png)
 
 
 <details>
-<summary>See all 26 artists</summary>
+<summary>See all 27 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -28,6 +28,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | Camila Cabello | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc1dc943555dfa1ee2a107e5" alt="" width="50" /> | K/DA | [🔗](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0219b6643b1ec449b0951bfe" alt="" width="50" /> | Giveon | [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4dcddba215809727c04aa897" alt="" width="50" /> | Kevin MacLeod | [🔗](https://open.spotify.com/artist/4fSMtiyC6lF5BUO1tUMWMs) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb217f81a86110ebc7c0e43fb3" alt="" width="50" /> | Travis Barker | [🔗](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a528fcb316c5b58d6be0511" alt="" width="50" /> | 6LACK | [🔗](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d998e7541724c918777b8ca" alt="" width="50" /> | League of Legends | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
@@ -49,11 +50,11 @@
 
 ## Top Albums
 
-![Bar chart of top 20 albums](../../images/playlists/k_pop_adjacent/albums.png)
+![Bar chart of top 21 albums](../../images/playlists/k_pop_adjacent/albums.png)
 
 
 <details>
-<summary>See all 20 albums</summary>
+<summary>See all 21 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -62,6 +63,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27321d73b676df03ec40a15ef39" alt="" width="50" /> | Tippy Toes | 2022-03-18 | [🔗](https://open.spotify.com/album/6P9erpHs7hgJlca7Tj3F0w) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="" width="50" /> | The Prelude | 2020-07-17 | [🔗](https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27318ff322fcdd47c9400872da6" alt="" width="50" /> | TAKE TIME | 2020-03-27 | [🔗](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27309d039265f637b5749c927a8" alt="" width="50" /> | Sneaky Snitch | 2014-12-27 | [🔗](https://open.spotify.com/album/3Rs66sqYGwhu6uFxFXoP1T) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="" width="50" /> | Slime & B | 2020-05-08 | [🔗](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="" width="50" /> | Purpose (Deluxe) | 2015-11-13 | [🔗](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb" alt="" width="50" /> | Motley Crew | 2021-07-09 | [🔗](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) |
@@ -83,11 +85,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 22 record labels](../../images/playlists/k_pop_adjacent/labels.png)
+![Bar chart of top 23 record labels](../../images/playlists/k_pop_adjacent/labels.png)
 
 
 <details>
-<summary>See all 22 labels</summary>
+<summary>See all 23 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -98,6 +100,7 @@
 | 2 | Def Jam |
 | 2 | [Atlantic Records](../../labels/atlantic_records.md) |
 | 1 | [Warner Records](../../labels/warner_records.md) |
+| 1 | The Other Songs |
 | 1 | Teleport Records |
 | 1 | [Syco Music](../../labels/syco_music.md) |
 | 1 | Riot Games |
@@ -119,11 +122,11 @@
 
 ## Genres
 
-![Bar chart of top 29 genres](../../images/playlists/k_pop_adjacent/genres.png)
+![Bar chart of top 30 genres](../../images/playlists/k_pop_adjacent/genres.png)
 
 
 <details>
-<summary>See all 29 genres</summary>
+<summary>See all 30 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -138,6 +141,7 @@
 | 2 | [electropop](../../genres/electropop.md) |
 | 2 | edm |
 | 1 | viral pop |
+| 1 | video game music |
 | 1 | urban contemporary |
 | 1 | tropical house |
 | 1 | rap latina |
@@ -169,81 +173,81 @@
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273dc65ca68ad8d6156d2f64c36" alt="SHOOTING STAR" width="50" /> <span style="padding-left:10px;">SHOOTING STAR (2023-01-25)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f7ec724fbf97a30869d06240" alt="Let Go" width="50" /> <span style="padding-left:10px;">Let Go (2002-06-04)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="CHARLIE" width="50" /> <span style="padding-left:10px;">CHARLIE (2022-10-06)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="Purpose (Deluxe)" width="50" /> <span style="padding-left:10px;">Purpose (Deluxe) (2015-11-13)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27321d73b676df03ec40a15ef39" alt="Tippy Toes" width="50" /> <span style="padding-left:10px;">Tippy Toes (2022-03-18)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738cae5034066af45cdfbc4266" alt="Church Of Scars" width="50" /> <span style="padding-left:10px;">Church Of Scars (2018-04-20)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb" alt="Motley Crew" width="50" /> <span style="padding-left:10px;">Motley Crew (2021-07-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d3b343b757e4f3275bb2f26a" alt="MINT" width="50" /> <span style="padding-left:10px;">MINT (2018-10-19)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="Better Mistakes" width="50" /> <span style="padding-left:10px;">Better Mistakes (2021-05-07)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f4d64a6a6b7e24b6bd9f009f" alt="El Mal Querer" width="50" /> <span style="padding-left:10px;">El Mal Querer (2018-11-02)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="Justice" width="50" /> <span style="padding-left:10px;">Justice (2021-03-19)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27384095737f6056e682666d6f9" alt="Tomboy" width="50" /> <span style="padding-left:10px;">Tomboy (2019-02-28)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="ALL OUT" width="50" /> <span style="padding-left:10px;">ALL OUT (2020-11-06)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c824820b3a74839b91b4036a" alt="Good Thing (with Kehlani)" width="50" /> <span style="padding-left:10px;">Good Thing (with Kehlani) (2019-09-27)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="The Prelude" width="50" /> <span style="padding-left:10px;">The Prelude (2020-07-17)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c4f298e7cbedb77f8e030ff0" alt="Cry for Me" width="50" /> <span style="padding-left:10px;">Cry for Me (2019-10-04)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="Slime & B" width="50" /> <span style="padding-left:10px;">Slime & B (2020-05-08)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739351691c007cad99d70d9f3f" alt="Cravin" width="50" /> <span style="padding-left:10px;">Cravin (2019-10-18)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27318ff322fcdd47c9400872da6" alt="TAKE TIME" width="50" /> <span style="padding-left:10px;">TAKE TIME (2020-03-27)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736564f1d8386a6993b4d5d759" alt="LUCID" width="50" /> <span style="padding-left:10px;">LUCID (2019-11-15)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="CHARLIE" width="50" /> <span style="padding-left:10px;">CHARLIE (2022-10-06)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27309d039265f637b5749c927a8" alt="Sneaky Snitch" width="50" /> <span style="padding-left:10px;">Sneaky Snitch (2014-12-27)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27321d73b676df03ec40a15ef39" alt="Tippy Toes" width="50" /> <span style="padding-left:10px;">Tippy Toes (2022-03-18)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="Purpose (Deluxe)" width="50" /> <span style="padding-left:10px;">Purpose (Deluxe) (2015-11-13)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb" alt="Motley Crew" width="50" /> <span style="padding-left:10px;">Motley Crew (2021-07-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738cae5034066af45cdfbc4266" alt="Church Of Scars" width="50" /> <span style="padding-left:10px;">Church Of Scars (2018-04-20)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="Better Mistakes" width="50" /> <span style="padding-left:10px;">Better Mistakes (2021-05-07)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d3b343b757e4f3275bb2f26a" alt="MINT" width="50" /> <span style="padding-left:10px;">MINT (2018-10-19)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="Justice" width="50" /> <span style="padding-left:10px;">Justice (2021-03-19)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f4d64a6a6b7e24b6bd9f009f" alt="El Mal Querer" width="50" /> <span style="padding-left:10px;">El Mal Querer (2018-11-02)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="ALL OUT" width="50" /> <span style="padding-left:10px;">ALL OUT (2020-11-06)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27384095737f6056e682666d6f9" alt="Tomboy" width="50" /> <span style="padding-left:10px;">Tomboy (2019-02-28)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="The Prelude" width="50" /> <span style="padding-left:10px;">The Prelude (2020-07-17)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c824820b3a74839b91b4036a" alt="Good Thing (with Kehlani)" width="50" /> <span style="padding-left:10px;">Good Thing (with Kehlani) (2019-09-27)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="Slime & B" width="50" /> <span style="padding-left:10px;">Slime & B (2020-05-08)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c4f298e7cbedb77f8e030ff0" alt="Cry for Me" width="50" /> <span style="padding-left:10px;">Cry for Me (2019-10-04)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27318ff322fcdd47c9400872da6" alt="TAKE TIME" width="50" /> <span style="padding-left:10px;">TAKE TIME (2020-03-27)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739351691c007cad99d70d9f3f" alt="Cravin" width="50" /> <span style="padding-left:10px;">Cravin (2019-10-18)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Tippy Toes (0.913) | I'll Show You (0.361) |
-| MALAMENTE - Cap.1: Augurio (0.893) | Heartbreak Anniversary (0.449) |
-| Cravin (feat. G-Eazy) (0.834) | Sk8er Boi (0.487) |
-| At My Worst (0.813) | Off My Face (0.509) |
-| Motley Crew (0.797) | Tango (0.53) |
-| LEFT RIGHT (0.767) | SHOOTING STAR (0.625) |
-| City Girls (0.752) | Tomboy (0.644) |
-| Break My Heart Myself (feat. Travis Barker) (0.751) | VILLAIN (0.653) |
-| River (0.733) | Light Switch (0.689) |
-| Mushroom Chocolate (with 6LACK) (0.73) | Good Thing (with Kehlani) (0.693) |
+| Sneaky Snitch (0.904) | Heartbreak Anniversary (0.449) |
+| MALAMENTE - Cap.1: Augurio (0.893) | Sk8er Boi (0.487) |
+| Cravin (feat. G-Eazy) (0.834) | Off My Face (0.509) |
+| At My Worst (0.813) | Tango (0.53) |
+| Motley Crew (0.797) | SHOOTING STAR (0.625) |
+| LEFT RIGHT (0.767) | Tomboy (0.644) |
+| City Girls (0.752) | VILLAIN (0.653) |
+| Break My Heart Myself (feat. Travis Barker) (0.751) | Light Switch (0.689) |
+| River (0.733) | Good Thing (with Kehlani) (0.693) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| Sk8er Boi (0.9) | Off My Face (0.228) |
-| Break My Heart Myself (feat. Travis Barker) (0.857) | At My Worst (0.415) |
-| Cry for Me (0.805) | Heartbreak Anniversary (0.465) |
-| LEFT RIGHT (0.721) | River (0.477) |
-| SHOOTING STAR (0.712) | MALAMENTE - Cap.1: Augurio (0.482) |
-| Tomboy (0.645) | Tango (0.519) |
-| VILLAIN (0.634) | Cravin (feat. G-Eazy) (0.538) |
-| Motley Crew (0.631) | Mushroom Chocolate (with 6LACK) (0.547) |
-| Light Switch (0.627) | Good Thing (with Kehlani) (0.564) |
-| Tippy Toes (0.62) | City Girls (0.586) |
+| Sk8er Boi (0.9) | Sneaky Snitch (0.0699) |
+| Break My Heart Myself (feat. Travis Barker) (0.857) | Off My Face (0.228) |
+| Cry for Me (0.805) | At My Worst (0.415) |
+| LEFT RIGHT (0.721) | Heartbreak Anniversary (0.465) |
+| SHOOTING STAR (0.712) | River (0.477) |
+| Tomboy (0.645) | MALAMENTE - Cap.1: Augurio (0.482) |
+| VILLAIN (0.634) | Tango (0.519) |
+| Motley Crew (0.631) | Cravin (feat. G-Eazy) (0.538) |
+| Light Switch (0.627) | Mushroom Chocolate (with 6LACK) (0.547) |
+| Tippy Toes (0.62) | Good Thing (with Kehlani) (0.564) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Light Switch (0.308) | Off My Face (0.0332) |
 | Cravin (feat. G-Eazy) (0.246) | At My Worst (0.0349) |
 | Tango (0.224) | Good Thing (with Kehlani) (0.0378) |
-| I'll Show You (0.098) | VILLAIN (0.0391) |
-| Cry for Me (0.0927) | LEFT RIGHT (0.0456) |
-| MALAMENTE - Cap.1: Augurio (0.0873) | Sk8er Boi (0.0482) |
-| Heartbreak Anniversary (0.0791) | SHOOTING STAR (0.0539) |
-| Motley Crew (0.0786) | Tomboy (0.0557) |
-| Tippy Toes (0.0769) | Mushroom Chocolate (with 6LACK) (0.0565) |
-| Break My Heart Myself (feat. Travis Barker) (0.0752) | River (0.0687) |
+| Sneaky Snitch (0.118) | VILLAIN (0.0391) |
+| I'll Show You (0.098) | LEFT RIGHT (0.0456) |
+| Cry for Me (0.0927) | Sk8er Boi (0.0482) |
+| MALAMENTE - Cap.1: Augurio (0.0873) | SHOOTING STAR (0.0539) |
+| Heartbreak Anniversary (0.0791) | Tomboy (0.0557) |
+| Motley Crew (0.0786) | Mushroom Chocolate (with 6LACK) (0.0565) |
+| Tippy Toes (0.0769) | River (0.0687) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
 | Off My Face (0.92) | Sk8er Boi (6.79e-05) |
 | At My Worst (0.777) | SHOOTING STAR (0.0229) |
 | Mushroom Chocolate (with 6LACK) (0.765) | VILLAIN (0.0232) |
-| MALAMENTE - Cap.1: Augurio (0.549) | Tippy Toes (0.0354) |
-| Heartbreak Anniversary (0.524) | City Girls (0.0465) |
-| Tomboy (0.423) | I'll Show You (0.05) |
-| Good Thing (with Kehlani) (0.399) | Cry for Me (0.05) |
-| Break My Heart Myself (feat. Travis Barker) (0.31) | Motley Crew (0.0904) |
-| River (0.302) | Light Switch (0.105) |
-| Tango (0.2) | LEFT RIGHT (0.153) |
+| Sneaky Snitch (0.638) | Tippy Toes (0.0354) |
+| MALAMENTE - Cap.1: Augurio (0.549) | City Girls (0.0465) |
+| Heartbreak Anniversary (0.524) | I'll Show You (0.05) |
+| Tomboy (0.423) | Cry for Me (0.05) |
+| Good Thing (with Kehlani) (0.399) | Motley Crew (0.0904) |
+| Break My Heart Myself (feat. Travis Barker) (0.31) | Light Switch (0.105) |
+| River (0.302) | LEFT RIGHT (0.153) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Tippy Toes (0.106) | Sk8er Boi (0.0) |
-| MALAMENTE - Cap.1: Augurio (0.0164) | At My Worst (0.0) |
-| Tomboy (0.00512) | City Girls (0.0) |
-| Light Switch (0.000321) | Tango (0.0) |
-| I'll Show You (7.96e-05) | SHOOTING STAR (0.0) |
-| Mushroom Chocolate (with 6LACK) (3.99e-05) | VILLAIN (0.0) |
-| Motley Crew (3.71e-06) | Off My Face (0.0) |
-| River (2.97e-06) | Break My Heart Myself (feat. Travis Barker) (0.0) |
-| LEFT RIGHT (1.52e-06) | Cry for Me (0.0) |
-| Heartbreak Anniversary (1.02e-06) | Good Thing (with Kehlani) (0.0) |
+| Sneaky Snitch (0.918) | Sk8er Boi (0.0) |
+| Tippy Toes (0.106) | At My Worst (0.0) |
+| MALAMENTE - Cap.1: Augurio (0.0164) | City Girls (0.0) |
+| Tomboy (0.00512) | Tango (0.0) |
+| Light Switch (0.000321) | SHOOTING STAR (0.0) |
+| I'll Show You (7.96e-05) | VILLAIN (0.0) |
+| Mushroom Chocolate (with 6LACK) (3.99e-05) | Off My Face (0.0) |
+| Motley Crew (3.71e-06) | Break My Heart Myself (feat. Travis Barker) (0.0) |
+| River (2.97e-06) | Cry for Me (0.0) |
+| LEFT RIGHT (1.52e-06) | Good Thing (with Kehlani) (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -256,7 +260,7 @@
 | Tomboy (0.116) | Light Switch (0.0905) |
 | Cravin (feat. G-Eazy) (0.113) | VILLAIN (0.0908) |
 | Tango (0.112) | Tippy Toes (0.091) |
-| LEFT RIGHT (0.108) | Motley Crew (0.0998) |
+| LEFT RIGHT (0.108) | Sneaky Snitch (0.0986) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
@@ -264,9 +268,9 @@
 | LEFT RIGHT (0.884) | Motley Crew (0.288) |
 | City Girls (0.815) | VILLAIN (0.306) |
 | At My Worst (0.667) | SHOOTING STAR (0.398) |
-| Cry for Me (0.653) | Tomboy (0.459) |
-| Off My Face (0.586) | Tango (0.462) |
-| Good Thing (with Kehlani) (0.574) | Sk8er Boi (0.484) |
-| Tippy Toes (0.552) | Break My Heart Myself (feat. Travis Barker) (0.501) |
-| River (0.545) | MALAMENTE - Cap.1: Augurio (0.53) |
-| Heartbreak Anniversary (0.543) | Mushroom Chocolate (with 6LACK) (0.533) |
+| Cry for Me (0.653) | Sneaky Snitch (0.4) |
+| Off My Face (0.586) | Tomboy (0.459) |
+| Good Thing (with Kehlani) (0.574) | Tango (0.462) |
+| Tippy Toes (0.552) | Sk8er Boi (0.484) |
+| River (0.545) | Break My Heart Myself (feat. Travis Barker) (0.501) |
+| Heartbreak Anniversary (0.543) | MALAMENTE - Cap.1: Augurio (0.53) |

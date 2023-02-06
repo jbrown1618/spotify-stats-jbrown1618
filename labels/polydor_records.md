@@ -36,7 +36,7 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf856b084186b3c281325bab7" alt="" width="50" /> | Gloria Gaynor | [🔗](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273fcbddbda90806eeb748831e8" alt="" width="50" /> | Aaron Tveit | [🔗](https://open.spotify.com/artist/68h2f0WXn4zEctSgNYozXx) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27354900b60ad3ceff554807176" alt="" width="50" /> | Amanda Seyfried | [🔗](https://open.spotify.com/artist/5RZjpmuD14JKXvB8Ry1G1u) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe8017b7995ab05155d671520" alt="" width="50" /> | RAYE | [🔗](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0550f0badff3ad04802b1e86" alt="" width="50" /> | RAYE | [🔗](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5af53f295e6c42529fbd0873" alt="" width="50" /> | Lauv | [🔗](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) |
 | 1 | <img src="nan" alt="" width="50" /> | John Aron | [🔗](https://open.spotify.com/artist/5Hco9oOhEcTrU0hzzIkoF7) |
 | 1 | <img src="https://i.scdn.co/image/e8f69e48f7ae80c6247fda3bf03d6155ae0d7282" alt="" width="50" /> | Hugh Jackman | [🔗](https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2) |
