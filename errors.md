@@ -5,7 +5,7 @@
 | Track | Track Popularity | Release Date | Artists | Album | Album Popularity | Playlists | Label | 💚 |
 |:---|---:|:---|:---|:---|---:|:---|:---|:---|
 | Creep [🔗](https://open.spotify.com/track/6b2oQwSGFkzsMtQruIWm2p) | 1 | 1993-02-22 | Radiohead [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | Pablo Honey [🔗](https://open.spotify.com/album/6400dnyeDyD2mIFHfkwHXN) | 0 | Karaoke [🔗](https://open.spotify.com/playlist/784bxrrG3W6L0naOkaCL5F) | XL Recordings | |
-| Creep [🔗](https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r) | 82 | 1993-02-22 | Radiohead [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | Pablo Honey [🔗](https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8) | 77 | Indie/Alternative [🔗](https://open.spotify.com/playlist/4Xh0xXGeyxbMXBDsxluPsa) | XL Recordings | 💚 |
+| Creep [🔗](https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r) | 81 | 1993-02-22 | Radiohead [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | Pablo Honey [🔗](https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8) | 77 | Indie/Alternative [🔗](https://open.spotify.com/playlist/4Xh0xXGeyxbMXBDsxluPsa) | XL Recordings | 💚 |
 
 ## Duplicate albums
 
