@@ -1,18 +1,18 @@
 # PLEDIS Entertainment
 
-19 songs
+20 songs
 
 Appears as:
-- PLEDIS Entertainment (14 tracks)
+- PLEDIS Entertainment (15 tracks)
 - PLEDIS ENTERTAINMENT (5 tracks)
 
 ## Top Artists
 
-![Bar chart of top 6 artists](../images/labels/pledis_entertainment/artists.png)
+![Bar chart of top 8 artists](../images/labels/pledis_entertainment/artists.png)
 
 
 <details>
-<summary>See all 6 artists</summary>
+<summary>See all 8 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -22,17 +22,19 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2197a2a24be11b8872a9d325" alt="" width="50" /> | MINGYU | [🔗](https://open.spotify.com/artist/5gUpo0BRmo6EOTbyU3z5Ay) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebca0f902787c28688c85ad273" alt="" width="50" /> | WONWOO | [🔗](https://open.spotify.com/artist/3rHcBT06Vb1XGVUWhDALZt) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec598a7b9f52817fdd5634f" alt="" width="50" /> | fromis_9 | [🔗](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe486a809eaee9b2d85846dae" alt="" width="50" /> | BSS | [🔗](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733e59f3e73b99ed248ab7bae2" alt="" width="50" /> | Lee Young Ji | [🔗](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) |
 
 </details>
 
 
 ## Top Albums
 
-![Bar chart of top 14 albums](../images/labels/pledis_entertainment/albums.png)
+![Bar chart of top 15 albums](../images/labels/pledis_entertainment/albums.png)
 
 
 <details>
-<summary>See all 14 albums</summary>
+<summary>See all 15 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -48,6 +50,7 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273cf53b5c466a64daece07edc4" alt="" width="50" /> | Midnight Guest | 2022-01-17 | [🔗](https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273eb366517758754ca13a4adf5" alt="" width="50" /> | Love&Letter repackage album | 2016-07-04 | [🔗](https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734a40f1624faabce03d3eabbb" alt="" width="50" /> | Bittersweet (feat. LeeHi) | 2021-05-28 | [🔗](https://open.spotify.com/album/6qVk855QPCh57noNeeHMXQ) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731869a85947a5ea00df8c936f" alt="" width="50" /> | BSS 1st Single Album 'SECOND WIND' | 2023-02-06 | [🔗](https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273aa12f5b5b2ea88f26ab76846" alt="" width="50" /> | ; [Semicolon] | 2020-10-19 | [🔗](https://open.spotify.com/album/1EMYSiKKTSKLZrOC2nTStL) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735e0415248f47b27441faa0ac" alt="" width="50" /> | 24H | 2020-08-24 | [🔗](https://open.spotify.com/album/24Uj6VdVytaReqt1KJWxfc) |
 
@@ -64,7 +67,7 @@ Appears as:
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 18 | [k-pop](../genres/k_pop.md) |
+| 19 | [k-pop](../genres/k_pop.md) |
 | 16 | [k-pop boy group](../genres/k_pop_boy_group.md) |
 | 1 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 
@@ -75,6 +78,7 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2731869a85947a5ea00df8c936f" alt="" width="50" /> | Fighting (Feat. Lee Young Ji) | BSS 1st Single Album 'SECOND WIND' | BSS, Lee Young Ji | [PLEDIS Entertainment](pledis_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cf53b5c466a64daece07edc4" alt="" width="50" /> | DM | Midnight Guest | fromis_9 | [PLEDIS Entertainment](pledis_entertainment.md) | | [🔗](https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739448197f00ccb91ff0685681" alt="" width="50" /> | Spider | Spider | HOSHI | [PLEDIS Entertainment](pledis_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/2TwB7aK39tnZBQjBPgcbCj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27383edaef854fd4a05016178e9" alt="" width="50" /> | Adore U | SEVENTEEN 1st Mini Album ’17 CARAT’ | [SEVENTEEN](../artists/seventeen.md) | [PLEDIS Entertainment](pledis_entertainment.md) | | [🔗](https://open.spotify.com/track/6wtgR5ZVbOZPHIeMNQwugp) |

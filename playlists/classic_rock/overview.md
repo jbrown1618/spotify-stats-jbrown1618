@@ -174,7 +174,7 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 92 | [rock](../../genres/rock.md) |
+| 90 | [rock](../../genres/rock.md) |
 | 85 | [classic rock](../../genres/classic_rock.md) |
 | 41 | [psychedelic rock](../../genres/psychedelic_rock.md) |
 | 39 | british invasion |
@@ -187,7 +187,7 @@
 | 14 | glam rock |
 | 10 | art rock |
 | 9 | yacht rock |
-| 9 | [folk rock](../../genres/folk_rock.md) |
+| 9 | folk rock |
 | 9 | blues rock |
 | 8 | metal |
 | 5 | heartland rock |

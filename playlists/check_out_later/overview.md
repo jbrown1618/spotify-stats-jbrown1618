@@ -3,22 +3,24 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2731fcd19d56ad06561b76c1665ab67616d0000b2733042c53026e29faf3a21c9f9ab67616d0000b273995994477ea1ae8097978bf8ab67616d0000b273c8b444df094279e70d0ed856" alt="Check Out Later" width="100" />
 
-[27 songs](tracks.md)
+[30 songs](tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 20 artists](../../images/playlists/check_out_later/artists.png)
+![Bar chart of top 27 artists](../../images/playlists/check_out_later/artists.png)
 
 ![Comparison of Artist](../../images/playlists/check_out_later/artists_comparison.png)
 
 
 <details>
-<summary>See all 20 artists</summary>
+<summary>See all 27 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../../artists/radiohead.md) | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb08cd53940cbf5813ee5fe565" alt="" width="50" /> | Little Mix | [🔗](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) |
+| 3 | <img src="https://i.scdn.co/image/ab67616d0000b2733e59f3e73b99ed248ab7bae2" alt="" width="50" /> | Lee Young Ji | [🔗](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) |
+| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebb43ce1ac488d15bb7ee5153b" alt="" width="50" /> | Jay Park | [🔗](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb968ab271c895fb9cc245d6fe" alt="" width="50" /> | [Billlie](../../artists/billlie.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb122d1145d880736383742ebc" alt="" width="50" /> | Pearl Jam | [🔗](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | [Florence + The Machine](../../artists/florence___the_machine.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
@@ -27,14 +29,19 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
 | 1 | <img src="https://i.scdn.co/image/ab6772690000c46ca3ebb27ba9a55044f32af6e1" alt="" width="50" /> | Silk Sonic | [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb74700cf88c04af5201df7298" alt="" width="50" /> | AKMU | [🔗](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb331467c2616c55c58ac0ae1a" alt="" width="50" /> | toigo | [🔗](https://open.spotify.com/artist/5tTstLTFQFGb2dBb6h9zeG) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2fba28d51fc972ed9d8fbaaa" alt="" width="50" /> | DAY6 | [🔗](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9210b0188b2b971977257c0b" alt="" width="50" /> | XINSAYNE | [🔗](https://open.spotify.com/artist/4yY3FsmWRwMIFXRDkMpnBS) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ca90cb37bf1557d385b9d48" alt="" width="50" /> | Galantis | [🔗](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb72f8abb4e1d34336c60fd338" alt="" width="50" /> | YUKIKA | [🔗](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496" alt="" width="50" /> | Anderson .Paak | [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b9524830b4d4f486e9c1dd8" alt="" width="50" /> | pH-1 | [🔗](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb29971b8d9d19fef176338e4a" alt="" width="50" /> | Loco | [🔗](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27328f42e1f0df67f5c602c1c87" alt="" width="50" /> | JAMBINO | [🔗](https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb75348e1aade2645ad9c58829" alt="" width="50" /> | David Guetta | [🔗](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../../artists/bruno_mars.md) | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../../artists/mamamoo.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27360364016e57ada2054812013" alt="" width="50" /> | J'Kyun | [🔗](https://open.spotify.com/artist/0WIKW2eVuPbK5vQ0AIDtMQ) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb654972693e0efed3f3f4d090" alt="" width="50" /> | Jason Derulo | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb45b2ff69ae6a3caccb776cfa" alt="" width="50" /> | [STAYC](../../artists/stayc.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 
@@ -43,11 +50,11 @@
 
 ## Top Albums
 
-![Bar chart of top 20 albums](../../images/playlists/check_out_later/albums.png)
+![Bar chart of top 23 albums](../../images/playlists/check_out_later/albums.png)
 
 
 <details>
-<summary>See all 20 albums</summary>
+<summary>See all 23 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -66,10 +73,13 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ec55d2dad1aefc7d57745633" alt="" width="50" /> | SUNRISE | 2017-06-07 | [🔗](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735c1dca4c993850471d5d8f14" alt="" width="50" /> | STEREOTYPE | 2021-09-06 | [🔗](https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273570f746ccc2c75af070da1e0" alt="" width="50" /> | SPRING | 2016-05-04 | [🔗](https://open.spotify.com/album/0HtbFp1B1WrbUr9mcBrAhN) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273df61d37c88b01fa413c527c1" alt="" width="50" /> | SHOW ME THE MONEY 11 Episode 3 | 2022-12-17 | [🔗](https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734269ae6e63e10638d5b8cca7" alt="" width="50" /> | SHOW ME THE MONEY 11 Episode 1 | 2022-12-03 | [🔗](https://open.spotify.com/album/4Jghep0PatLW7okdHbZBfy) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27379ffc01d8bc8312192cacfc0" alt="" width="50" /> | Love's Train | 2022-02-14 | [🔗](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731fcd19d56ad06561b76c1665" alt="" width="50" /> | Heartbreak Anthem (with David Guetta & Little Mix) | 2021-05-20 | [🔗](https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2730da53e8f58e59f28a79c10c7" alt="" width="50" /> | Hail To the Thief | 2003-06-09 | [🔗](https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318" alt="" width="50" /> | Guitar Songs | 2022-07-21 | [🔗](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733e59f3e73b99ed248ab7bae2" alt="" width="50" /> | Day & Night (feat. Jay Park) | 2021-10-29 | [🔗](https://open.spotify.com/album/0pIB5R9hfgTH25CPrQWsyU) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735fd9e21618182df7d70b2186" alt="" width="50" /> | Dance Fever | 2022-05-13 | [🔗](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) |
 
 </details>
@@ -77,11 +87,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 19 record labels](../../images/playlists/check_out_later/labels.png)
+![Bar chart of top 21 record labels](../../images/playlists/check_out_later/labels.png)
 
 
 <details>
-<summary>See all 19 labels</summary>
+<summary>See all 21 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -89,6 +99,7 @@
 | 4 | [Syco Music](../../labels/syco_music.md) |
 | 2 | [MYSTIC STORY](../../labels/mystic_story.md) |
 | 2 | [Legacy](../../labels/legacy.md) |
+| 2 | [Genie Music Corporation](../../labels/genie_music_corporation.md) |
 | 2 | [Epic](../../labels/epic.md) |
 | 1 | ㈜RBW |
 | 1 | [YG Entertainment](../../labels/yg_entertainment.md) |
@@ -96,6 +107,7 @@
 | 1 | UBUNTU ENT |
 | 1 | [RBW Inc.](../../labels/rbw_inc_.md) |
 | 1 | [Polydor Records](../../labels/polydor_records.md) |
+| 1 | MAINSTREAM |
 | 1 | [JYP Entertainment](../../labels/jyp_entertainment.md) |
 | 1 | [Interscope Records](../../labels/interscope_records.md) |
 | 1 | [High Up Entertainment](../../labels/high_up_entertainment.md) |
@@ -110,11 +122,11 @@
 
 ## Genres
 
-![Bar chart of top 27 genres](../../images/playlists/check_out_later/genres.png)
+![Bar chart of top 28 genres](../../images/playlists/check_out_later/genres.png)
 
 
 <details>
-<summary>See all 27 genres</summary>
+<summary>See all 28 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -131,6 +143,7 @@
 | 4 | talent show |
 | 4 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 4 | girl group |
+| 3 | korean trap |
 | 2 | uk alternative pop |
 | 2 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 2 | grunge |
@@ -157,30 +170,30 @@
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c56c7294324afd02baff40b4" alt="Somebody" width="50" /> <span style="padding-left:10px;">Somebody (2022-07-25)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d400d27cba05bb0545533864" alt="Ten" width="50" /> <span style="padding-left:10px;">Ten (1991-08-27)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318" alt="Guitar Songs" width="50" /> <span style="padding-left:10px;">Guitar Songs (2022-07-21)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> <span style="padding-left:10px;">OK Computer (1997-05-28)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2735fd9e21618182df7d70b2186" alt="Dance Fever" width="50" /> <span style="padding-left:10px;">Dance Fever (2022-05-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151" alt="Kid A" width="50" /> <span style="padding-left:10px;">Kid A (2000-10-02)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27337392cac38ca8efa2315b04e" alt="the collective soul and unconscious: chapter one" width="50" /> <span style="padding-left:10px;">the collective soul and unconscious: chapter one (2022-02-23)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2730da53e8f58e59f28a79c10c7" alt="Hail To the Thief" width="50" /> <span style="padding-left:10px;">Hail To the Thief (2003-06-09)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27379ffc01d8bc8312192cacfc0" alt="Love's Train" width="50" /> <span style="padding-left:10px;">Love's Train (2022-02-14)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="In Rainbows" width="50" /> <span style="padding-left:10px;">In Rainbows (2007-12-28)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734c5be128bd1b55bf36041574" alt="the Billage of perception : chapter one" width="50" /> <span style="padding-left:10px;">the Billage of perception : chapter one (2021-11-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737c8a4b684d0f789fb22f8555" alt="Spectrum (Say My Name) EP" width="50" /> <span style="padding-left:10px;">Spectrum (Say My Name) EP (2012-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2735c1dca4c993850471d5d8f14" alt="STEREOTYPE" width="50" /> <span style="padding-left:10px;">STEREOTYPE (2021-09-06)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273995994477ea1ae8097978bf8" alt="Get Weird (Expanded Edition)" width="50" /> <span style="padding-left:10px;">Get Weird (Expanded Edition) (2015-11-06)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731fcd19d56ad06561b76c1665" alt="Heartbreak Anthem (with David Guetta & Little Mix)" width="50" /> <span style="padding-left:10px;">Heartbreak Anthem (with David Guetta & Little Mix) (2021-05-20)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273570f746ccc2c75af070da1e0" alt="SPRING" width="50" /> <span style="padding-left:10px;">SPRING (2016-05-04)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27362483e4a96b7566d2440fc91" alt="timeabout," width="50" /> <span style="padding-left:10px;">timeabout, (2021-04-07)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733042c53026e29faf3a21c9f9" alt="Glory Days (Expanded Edition)" width="50" /> <span style="padding-left:10px;">Glory Days (Expanded Edition) (2016-11-18)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739d650d0d98caf3f54b842a0b" alt="reality in BLACK" width="50" /> <span style="padding-left:10px;">reality in BLACK (2019-11-14)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ec55d2dad1aefc7d57745633" alt="SUNRISE" width="50" /> <span style="padding-left:10px;">SUNRISE (2017-06-07)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273df61d37c88b01fa413c527c1" alt="SHOW ME THE MONEY 11 Episode 3" width="50" /> <span style="padding-left:10px;">SHOW ME THE MONEY 11 Episode 3 (2022-12-17)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d400d27cba05bb0545533864" alt="Ten" width="50" /> <span style="padding-left:10px;">Ten (1991-08-27)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734269ae6e63e10638d5b8cca7" alt="SHOW ME THE MONEY 11 Episode 1" width="50" /> <span style="padding-left:10px;">SHOW ME THE MONEY 11 Episode 1 (2022-12-03)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> <span style="padding-left:10px;">OK Computer (1997-05-28)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c56c7294324afd02baff40b4" alt="Somebody" width="50" /> <span style="padding-left:10px;">Somebody (2022-07-25)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151" alt="Kid A" width="50" /> <span style="padding-left:10px;">Kid A (2000-10-02)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318" alt="Guitar Songs" width="50" /> <span style="padding-left:10px;">Guitar Songs (2022-07-21)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2730da53e8f58e59f28a79c10c7" alt="Hail To the Thief" width="50" /> <span style="padding-left:10px;">Hail To the Thief (2003-06-09)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2735fd9e21618182df7d70b2186" alt="Dance Fever" width="50" /> <span style="padding-left:10px;">Dance Fever (2022-05-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="In Rainbows" width="50" /> <span style="padding-left:10px;">In Rainbows (2007-12-28)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27337392cac38ca8efa2315b04e" alt="the collective soul and unconscious: chapter one" width="50" /> <span style="padding-left:10px;">the collective soul and unconscious: chapter one (2022-02-23)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737c8a4b684d0f789fb22f8555" alt="Spectrum (Say My Name) EP" width="50" /> <span style="padding-left:10px;">Spectrum (Say My Name) EP (2012-01-01)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27379ffc01d8bc8312192cacfc0" alt="Love's Train" width="50" /> <span style="padding-left:10px;">Love's Train (2022-02-14)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273995994477ea1ae8097978bf8" alt="Get Weird (Expanded Edition)" width="50" /> <span style="padding-left:10px;">Get Weird (Expanded Edition) (2015-11-06)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734c5be128bd1b55bf36041574" alt="the Billage of perception : chapter one" width="50" /> <span style="padding-left:10px;">the Billage of perception : chapter one (2021-11-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273570f746ccc2c75af070da1e0" alt="SPRING" width="50" /> <span style="padding-left:10px;">SPRING (2016-05-04)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733e59f3e73b99ed248ab7bae2" alt="Day & Night (feat. Jay Park)" width="50" /> <span style="padding-left:10px;">Day & Night (feat. Jay Park) (2021-10-29)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733042c53026e29faf3a21c9f9" alt="Glory Days (Expanded Edition)" width="50" /> <span style="padding-left:10px;">Glory Days (Expanded Edition) (2016-11-18)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2735c1dca4c993850471d5d8f14" alt="STEREOTYPE" width="50" /> <span style="padding-left:10px;">STEREOTYPE (2021-09-06)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ec55d2dad1aefc7d57745633" alt="SUNRISE" width="50" /> <span style="padding-left:10px;">SUNRISE (2017-06-07)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| How People Move (0.813) | How to Disappear Completely (0.167) |
-| overlap (1/1) (0.796) | Alive (0.284) |
-| Black Magic (0.776) | Exit Music (For A Film) (0.293) |
-| Shout Out to My Ex (0.773) | Everything In Its Right Place (0.296) |
-| flipp!ng a coin (0.751) | Let Down (0.351) |
-| Insomnia (0.729) | Even Flow (0.394) |
-| Somebody! (0.719) | TV (0.412) |
-| Love's Train (0.711) | Jigsaw Falling Into Place (0.462) |
-| All I Need (0.67) | Free (0.465) |
-| Kid A (0.63) | I’ll BE THERE (0.511) |
+| NOT SORRY (Feat. pH-1) (Prod. by Slom) (0.856) | How to Disappear Completely (0.167) |
+| Day & Night (feat. Jay Park) (0.854) | Alive (0.284) |
+| WE (Feat. Jay Park) (Prod. by Slom) (0.852) | Exit Music (For A Film) (0.293) |
+| How People Move (0.813) | Everything In Its Right Place (0.296) |
+| overlap (1/1) (0.796) | Let Down (0.351) |
+| Black Magic (0.776) | Even Flow (0.394) |
+| Shout Out to My Ex (0.773) | TV (0.412) |
+| flipp!ng a coin (0.751) | Jigsaw Falling Into Place (0.462) |
+| Insomnia (0.729) | Free (0.465) |
+| Somebody! (0.719) | I’ll BE THERE (0.511) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -192,34 +205,34 @@
 | Power (0.855) | All I Need (0.478) |
 | How People Move (0.836) | Love's Train (0.605) |
 | Jigsaw Falling Into Place (0.832) | I’ll BE THERE (0.608) |
-| Insomnia (0.8) | Secret Love Song (feat. Jason Derulo) (0.614) |
-| Destiny (0.793) | Let Down (0.676) |
+| WE (Feat. Jay Park) (Prod. by Slom) (0.831) | Secret Love Song (feat. Jason Derulo) (0.614) |
+| Insomnia (0.8) | NOT SORRY (Feat. pH-1) (Prod. by Slom) (0.617) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| Power (0.211) | Man in a movie (0.03) |
-| flipp!ng a coin (0.176) | Love's Train (0.031) |
-| Destiny (0.133) | Let Down (0.0313) |
-| Heartbreak Anthem (with David Guetta & Little Mix) (0.102) | There, There (0.0323) |
-| Shout Out to My Ex (0.0885) | Somebody! (0.0328) |
-| How People Move (0.0823) | How to Disappear Completely (0.0345) |
-| Even Flow (0.0761) | Exit Music (For A Film) (0.0349) |
-| Black Magic (0.0575) | All I Need (0.0355) |
-| I’ll BE THERE (0.0561) | Kid A (0.0358) |
-| Insomnia (0.0499) | Free (0.0363) |
+| NOT SORRY (Feat. pH-1) (Prod. by Slom) (0.25) | Man in a movie (0.03) |
+| Day & Night (feat. Jay Park) (0.242) | Love's Train (0.031) |
+| Power (0.211) | Let Down (0.0313) |
+| WE (Feat. Jay Park) (Prod. by Slom) (0.176) | There, There (0.0323) |
+| flipp!ng a coin (0.176) | Somebody! (0.0328) |
+| Destiny (0.133) | How to Disappear Completely (0.0345) |
+| Heartbreak Anthem (with David Guetta & Little Mix) (0.102) | Exit Music (For A Film) (0.0349) |
+| Shout Out to My Ex (0.0885) | All I Need (0.0355) |
+| How People Move (0.0823) | Kid A (0.0358) |
+| Even Flow (0.0761) | Free (0.0363) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
 | TV (0.83) | Let Down (0.000121) |
 | Everything In Its Right Place (0.705) | Even Flow (0.00178) |
 | Insomnia (0.63) | Spectrum (Say My Name) - Calvin Harris Remix (0.00225) |
-| I’ll BE THERE (0.572) | Man in a movie (0.00635) |
-| All I Need (0.531) | Alive (0.00752) |
-| Destiny (0.473) | Free (0.00777) |
-| Somebody! (0.329) | There, There (0.0193) |
-| How to Disappear Completely (0.316) | Shout Out to My Ex (0.0242) |
-| How People Move (0.311) | flipp!ng a coin (0.0297) |
-| Kid A (0.262) | Black Magic (0.0343) |
+| I’ll BE THERE (0.572) | WE (Feat. Jay Park) (Prod. by Slom) (0.00603) |
+| All I Need (0.531) | Man in a movie (0.00635) |
+| Destiny (0.473) | Alive (0.00752) |
+| NOT SORRY (Feat. pH-1) (Prod. by Slom) (0.473) | Free (0.00777) |
+| Somebody! (0.329) | Day & Night (feat. Jay Park) (0.0129) |
+| How to Disappear Completely (0.316) | There, There (0.0193) |
+| How People Move (0.311) | Shout Out to My Ex (0.0242) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
@@ -228,34 +241,34 @@
 | There, There (0.52) | Somebody! (0.0) |
 | All I Need (0.428) | Man in a movie (0.0) |
 | Exit Music (For A Film) (0.122) | overlap (1/1) (0.0) |
-| Let Down (0.113) | Heartbreak Anthem (with David Guetta & Little Mix) (0.0) |
-| Everything In Its Right Place (0.0482) | Secret Love Song (feat. Jason Derulo) (0.0) |
-| TV (0.00653) | Destiny (0.0) |
-| Jigsaw Falling Into Place (0.00416) | Black Magic (0.0) |
-| Spectrum (Say My Name) - Calvin Harris Remix (0.00412) | Insomnia (3.27e-06) |
+| Let Down (0.113) | WE (Feat. Jay Park) (Prod. by Slom) (0.0) |
+| Everything In Its Right Place (0.0482) | Heartbreak Anthem (with David Guetta & Little Mix) (0.0) |
+| TV (0.00653) | NOT SORRY (Feat. pH-1) (Prod. by Slom) (0.0) |
+| Jigsaw Falling Into Place (0.00416) | Secret Love Song (feat. Jason Derulo) (0.0) |
+| Spectrum (Say My Name) - Calvin Harris Remix (0.00412) | Destiny (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
 | Alive (0.402) | How People Move (0.0511) |
-| Black Magic (0.314) | Heartbreak Anthem (with David Guetta & Little Mix) (0.0608) |
-| Even Flow (0.298) | Jigsaw Falling Into Place (0.0741) |
-| Kid A (0.278) | Everything In Its Right Place (0.0954) |
-| Secret Love Song (feat. Jason Derulo) (0.277) | Spectrum (Say My Name) - Calvin Harris Remix (0.0966) |
-| Destiny (0.239) | Love's Train (0.104) |
-| Insomnia (0.225) | There, There (0.108) |
-| Man in a movie (0.201) | Shout Out to My Ex (0.109) |
-| Power (0.181) | How to Disappear Completely (0.11) |
-| Let Down (0.18) | I’ll BE THERE (0.117) |
+| Black Magic (0.314) | NOT SORRY (Feat. pH-1) (Prod. by Slom) (0.0512) |
+| Even Flow (0.298) | Heartbreak Anthem (with David Guetta & Little Mix) (0.0608) |
+| Kid A (0.278) | Jigsaw Falling Into Place (0.0741) |
+| Secret Love Song (feat. Jason Derulo) (0.277) | Everything In Its Right Place (0.0954) |
+| Destiny (0.239) | Spectrum (Say My Name) - Calvin Harris Remix (0.0966) |
+| Insomnia (0.225) | Love's Train (0.104) |
+| Man in a movie (0.201) | There, There (0.108) |
+| Power (0.181) | Shout Out to My Ex (0.109) |
+| Let Down (0.18) | How to Disappear Completely (0.11) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| overlap (1/1) (0.861) | Free (0.0494) |
-| Black Magic (0.849) | Everything In Its Right Place (0.0629) |
-| How People Move (0.848) | All I Need (0.0997) |
-| Love's Train (0.807) | TV (0.119) |
-| Jigsaw Falling Into Place (0.807) | Secret Love Song (feat. Jason Derulo) (0.141) |
-| Shout Out to My Ex (0.801) | Let Down (0.143) |
-| flipp!ng a coin (0.786) | Kid A (0.159) |
-| Somebody! (0.768) | How to Disappear Completely (0.19) |
-| Insomnia (0.737) | Exit Music (For A Film) (0.195) |
-| There, There (0.716) | Destiny (0.235) |
+| Day & Night (feat. Jay Park) (0.87) | Free (0.0494) |
+| overlap (1/1) (0.861) | Everything In Its Right Place (0.0629) |
+| Black Magic (0.849) | All I Need (0.0997) |
+| How People Move (0.848) | TV (0.119) |
+| Love's Train (0.807) | Secret Love Song (feat. Jason Derulo) (0.141) |
+| Jigsaw Falling Into Place (0.807) | Let Down (0.143) |
+| Shout Out to My Ex (0.801) | Kid A (0.159) |
+| flipp!ng a coin (0.786) | How to Disappear Completely (0.19) |
+| Somebody! (0.768) | Exit Music (For A Film) (0.195) |
+| Insomnia (0.737) | Destiny (0.235) |

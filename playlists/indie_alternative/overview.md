@@ -316,8 +316,8 @@
 | 61 | [pop](../../genres/pop.md) |
 | 26 | indie pop |
 | 23 | [rock](../../genres/rock.md) |
+| 22 | [electropop](../../genres/electropop.md) |
 | 22 | [dance pop](../../genres/dance_pop.md) |
-| 21 | [electropop](../../genres/electropop.md) |
 | 20 | modern rock |
 | 20 | [art pop](../../genres/art_pop.md) |
 | 17 | baroque pop |
@@ -371,6 +371,7 @@
 | 2 | pop emo |
 | 2 | pixie |
 | 2 | irish singer-songwriter |
+| 2 | indie poptimism |
 | 2 | gauze pop |
 | 2 | chamber pop |
 | 2 | celtic rock |
@@ -405,7 +406,6 @@
 | 1 | industrial metal |
 | 1 | industrial |
 | 1 | indie rock italiano |
-| 1 | indie poptimism |
 | 1 | grunge |
 | 1 | folk-pop |
 | 1 | escape room |

@@ -74,7 +74,7 @@ Appears as:
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 14 | [folk rock](../genres/folk_rock.md) |
+| 14 | folk rock |
 | 13 | [classic rock](../genres/classic_rock.md) |
 | 12 | [soft rock](../genres/soft_rock.md) |
 | 11 | [rock](../genres/rock.md) |

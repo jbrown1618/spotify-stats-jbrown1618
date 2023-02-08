@@ -1,6 +1,6 @@
 # k-pop
 
-[853 songs](k_pop_tracks.md)
+[854 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -251,7 +251,7 @@
 | 33 | [RBW Inc.](../labels/rbw_inc_.md) |
 | 33 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md) |
 | 31 | [Interscope Records](../labels/interscope_records.md) |
-| 18 | [PLEDIS Entertainment](../labels/pledis_entertainment.md) |
+| 19 | [PLEDIS Entertainment](../labels/pledis_entertainment.md) |
 | 15 | [Kakao Entertainment](../labels/kakao_entertainment.md) |
 | 14 | [Starship Entertainment](../labels/starship_entertainment.md) |
 | 14 | [JYP Entertainment](../labels/jyp_entertainment.md) |

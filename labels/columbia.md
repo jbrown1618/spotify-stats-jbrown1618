@@ -152,7 +152,6 @@ Appears as:
 | 34 | [rock](../genres/rock.md) |
 | 33 | [classic rock](../genres/classic_rock.md) |
 | 31 | [mellow gold](../genres/mellow_gold.md) |
-| 28 | [folk rock](../genres/folk_rock.md) |
 | 26 | [soft rock](../genres/soft_rock.md) |
 | 23 | [singer-songwriter](../genres/singer_songwriter.md) |
 | 22 | piano rock |
@@ -160,6 +159,7 @@ Appears as:
 | 18 | [r&b](../genres/r_b.md) |
 | 7 | folk |
 | 6 | hard rock |
+| 6 | folk rock |
 | 5 | pop soul |
 | 5 | neo soul |
 | 5 | melancholia |

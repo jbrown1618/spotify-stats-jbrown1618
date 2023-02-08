@@ -38,7 +38,6 @@
 ## Genres
 
 - [classic rock](../genres/classic_rock.md)
-- [folk rock](../genres/folk_rock.md)
 - [mellow gold](../genres/mellow_gold.md)
 - piano rock
 - [rock](../genres/rock.md)

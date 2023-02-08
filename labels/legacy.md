@@ -80,7 +80,7 @@ Appears as:
 | 3 | [singer-songwriter](../genres/singer_songwriter.md) |
 | 3 | jazz quartet |
 | 3 | jazz |
-| 3 | [folk rock](../genres/folk_rock.md) |
+| 3 | folk rock |
 | 3 | folk |
 | 3 | bebop |
 | 2 | symphonic rock |

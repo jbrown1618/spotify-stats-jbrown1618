@@ -147,11 +147,11 @@
 
 ## Genres
 
-![Bar chart of top 26 genres](../../images/playlists/disney/genres.png)
+![Bar chart of top 27 genres](../../images/playlists/disney/genres.png)
 
 
 <details>
-<summary>See all 26 genres</summary>
+<summary>See all 27 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -174,7 +174,8 @@
 | 1 | jump blues |
 | 1 | jazz blues |
 | 1 | funk |
-| 1 | [folk rock](../../genres/folk_rock.md) |
+| 1 | folk rock |
+| 1 | folk |
 | 1 | country rock |
 | 1 | classic uk pop |
 | 1 | bubblegum pop |

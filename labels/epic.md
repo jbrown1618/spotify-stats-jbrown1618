@@ -125,7 +125,7 @@ Appears as:
 | 2 | hard rock |
 | 2 | grunge |
 | 2 | girl group |
-| 2 | [folk rock](../genres/folk_rock.md) |
+| 2 | folk rock |
 | 2 | folk |
 | 2 | celtic rock |
 | 2 | brill building pop |

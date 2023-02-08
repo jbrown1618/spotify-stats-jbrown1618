@@ -214,7 +214,6 @@
 | 59 | [hollywood](../../genres/hollywood.md) |
 | 35 | piano rock |
 | 34 | [singer-songwriter](../../genres/singer_songwriter.md) |
-| 33 | [folk rock](../../genres/folk_rock.md) |
 | 31 | [mellow gold](../../genres/mellow_gold.md) |
 | 25 | [soft rock](../../genres/soft_rock.md) |
 | 25 | [classic rock](../../genres/classic_rock.md) |
@@ -222,6 +221,7 @@
 | 18 | [art pop](../../genres/art_pop.md) |
 | 13 | indie pop |
 | 12 | folk |
+| 11 | folk rock |
 | 9 | nz pop |
 | 9 | [electropop](../../genres/electropop.md) |
 | 9 | bergen indie |
