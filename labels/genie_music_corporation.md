@@ -1,10 +1,10 @@
 # Genie Music Corporation
 
-67 songs
+66 songs
 
 Appears as:
 - Genie Music Corporation, Stone Music Entertainment (43 tracks)
-- Genie Music Corporation (17 tracks)
+- Genie Music Corporation (16 tracks)
 - Genie Music Corporation;Stone Music Entertainment (7 tracks)
 
 ## Top Artists
@@ -13,7 +13,7 @@ Appears as:
 
 
 <details>
-<summary>See all 60 artists</summary>
+<summary>See all 56 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -27,9 +27,7 @@ Appears as:
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb63a4eedf0e775d0a2e19f5df" alt="" width="50" /> | WOODZ | [🔗](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | BIBI | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eba6b0d348c125a072e5284b3e" alt="" width="50" /> | IZ*ONE | [🔗](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebb43ce1ac488d15bb7ee5153b" alt="" width="50" /> | Jay Park | [🔗](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb1787f6596afa03df2d44af87" alt="" width="50" /> | Yoon Mirae | [🔗](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2733e59f3e73b99ed248ab7bae2" alt="" width="50" /> | Lee Young Ji | [🔗](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../artists/mamamoo.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | Hwa Sa | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8148c70083a66b71b6e370e4" alt="" width="50" /> | MARK | [🔗](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) |
@@ -37,7 +35,6 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8786ccb6031a3266bb15606" alt="" width="50" /> | WJSN | [🔗](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6b4ad360bcb93688b77e8d99" alt="" width="50" /> | CHEETAH | [🔗](https://open.spotify.com/artist/6ftZYkensUYXNiMM7nFwhE) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5d87e2a10ba3b2f8bb2c5270" alt="" width="50" /> | ATEEZ | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb331467c2616c55c58ac0ae1a" alt="" width="50" /> | toigo | [🔗](https://open.spotify.com/artist/5tTstLTFQFGb2dBb6h9zeG) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfe7fc78f16d948f53a607c53" alt="" width="50" /> | NINGNING | [🔗](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3e5502077e2bb0fe1e3d4df0" alt="" width="50" /> | Wonstein | [🔗](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) |
@@ -45,10 +42,10 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebad9d5fda1f59672d31163ad5" alt="" width="50" /> | BE'O | [🔗](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebca6daabeb614243f96b2829f" alt="" width="50" /> | WOOSUNG | [🔗](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) |
 | 1 | <img src="nan" alt="" width="50" /> | Jeon Ji Woo | [🔗](https://open.spotify.com/artist/5A0sx2B7umJPdXgpfghJDJ) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9210b0188b2b971977257c0b" alt="" width="50" /> | XINSAYNE | [🔗](https://open.spotify.com/artist/4yY3FsmWRwMIFXRDkMpnBS) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733552f9c353bdab8b03b7c8a7" alt="" width="50" /> | Jang Ye Eun | [🔗](https://open.spotify.com/artist/4hMhbcPHd2nsZFhY1TNp8Y) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb511f570580c79107b2fa70b9" alt="" width="50" /> | ZICO | [🔗](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273aae78727e396da9f03032eda" alt="" width="50" /> | Lee Mujin | [🔗](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb43ce1ac488d15bb7ee5153b" alt="" width="50" /> | Jay Park | [🔗](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1940460d10e18c6db8366f7" alt="" width="50" /> | Lee Hyori | [🔗](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6255cdc7eb41e77dfed9fd2c" alt="" width="50" /> | WINTER | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a80abb55f089d80528d24fc" alt="" width="50" /> | CHANGMO | [🔗](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) |
@@ -66,12 +63,11 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb065608c797a38d142082fc8a" alt="" width="50" /> | Punch | [🔗](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736af55ea23714e14575d05660" alt="" width="50" /> | Stellar | [🔗](https://open.spotify.com/artist/1rTwKjYcA7diHAD2c8ZozT) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb65dd718aaa2c9b1be0218f76" alt="" width="50" /> | SURAN | [🔗](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27328f42e1f0df67f5c602c1c87" alt="" width="50" /> | JAMBINO | [🔗](https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb70b010582faadbcec8b6774c" alt="" width="50" /> | CIX | [🔗](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ea98681c90c252e7cde48e8" alt="" width="50" /> | VERIVERY | [🔗](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) |
 | 1 | <img src="nan" alt="" width="50" /> | LACHICA | [🔗](https://open.spotify.com/artist/0vqjEQRfmE1Sov92UQRJMp) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a0c7eeb314e52270af39920d" alt="" width="50" /> | dj friz | [🔗](https://open.spotify.com/artist/0js3wKXyi7RL11sfOykRt1) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27360364016e57ada2054812013" alt="" width="50" /> | J'Kyun | [🔗](https://open.spotify.com/artist/0WIKW2eVuPbK5vQ0AIDtMQ) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733e59f3e73b99ed248ab7bae2" alt="" width="50" /> | Lee Young Ji | [🔗](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9ce6b84393575f91c4f4634" alt="" width="50" /> | B.I | [🔗](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0eff4d3fb92746c29f1edc06" alt="" width="50" /> | Ugly Duck | [🔗](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7cab4360258a831b8dcb3738" alt="" width="50" /> | Coogie | [🔗](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) |
@@ -87,7 +83,7 @@ Appears as:
 
 
 <details>
-<summary>See all 56 albums</summary>
+<summary>See all 55 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -115,7 +111,6 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737c10cbde96d84578e7694009" alt="" width="50" /> | School Rapper FINAL | 2017-04-01 | [🔗](https://open.spotify.com/album/1HlNyrcRkCbpi87jz6rY7y) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d39be786935ba10b5875fa53" alt="" width="50" /> | SMARTPHONE | 2022-08-03 | [🔗](https://open.spotify.com/album/0lbUf1aVf8xmveSuspuNW0) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273df61d37c88b01fa413c527c1" alt="" width="50" /> | SHOW ME THE MONEY 11 Episode 3 | 2022-12-17 | [🔗](https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734269ae6e63e10638d5b8cca7" alt="" width="50" /> | SHOW ME THE MONEY 11 Episode 1 | 2022-12-03 | [🔗](https://open.spotify.com/album/4Jghep0PatLW7okdHbZBfy) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27308cdd336f3888e35e7711a09" alt="" width="50" /> | Remarriage and Desires (Original Soundtrack from The Netflix Series) | 2022-07-15 | [🔗](https://open.spotify.com/album/2YM9Oahck5kVuWGiFQK1dg) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733f6458e54f8d2fd64f54ea3f" alt="" width="50" /> | RED | 2019-08-13 | [🔗](https://open.spotify.com/album/5CrMZwZuJcDpzFmMO35vxN) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f662dabc03dbb3a127255b32" alt="" width="50" /> | PLAY | 2020-07-06 | [🔗](https://open.spotify.com/album/7tzaUrzvzQGfqvzsYzSODr) |
@@ -164,12 +159,12 @@ Appears as:
 | 57 | [k-pop](../genres/k_pop.md) |
 | 14 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 | 13 | korean r&b |
-| 12 | [pop](../genres/pop.md) |
+| 8 | [pop](../genres/pop.md) |
 | 8 | [k-pop boy group](../genres/k_pop_boy_group.md) |
 | 7 | korean pop |
 | 3 | korean ost |
-| 2 | korean trap |
 | 2 | k-rap |
+| 1 | korean trap |
 | 1 | classic k-pop |
 | 1 | anime |
 
@@ -211,8 +206,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273b589bc0468740f56049a87ba" alt="" width="50" /> | HUSH RUSH | HUSH RUSH | LEE CHAE YEON | [Genie Music Corporation](genie_music_corporation.md), [Stone Music Entertainment](stone_music_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/0P2LW3jbuJLpH2mwg0lLzn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa0046f64f34c168d3acb760" alt="" width="50" /> | Bad Girls | MONOCHROME | Lee Hyori | [Genie Music Corporation](genie_music_corporation.md) | | [🔗](https://open.spotify.com/track/2IrmdHJjwBH1pFIMcTJ1xq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cd99a47e4804c82e3812e901" alt="" width="50" /> | Rain and You | HOSPITAL PLAYLIST Season2 (Original Television Soundtrack), Pt. 1 | Lee Mujin | [Genie Music Corporation](genie_music_corporation.md), [Stone Music Entertainment](stone_music_entertainment.md) | | [🔗](https://open.spotify.com/track/4ribiWWnI451QMRdOgByIP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734269ae6e63e10638d5b8cca7" alt="" width="50" /> | WE (Feat. Jay Park) (Prod. by Slom) | SHOW ME THE MONEY 11 Episode 1 | Lee Young Ji, toigo, J'Kyun, JAMBINO, XINSAYNE, Jay Park | [Genie Music Corporation](genie_music_corporation.md) | | [🔗](https://open.spotify.com/track/4QoOoFKhAWYOylWw2io6va) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273df61d37c88b01fa413c527c1" alt="" width="50" /> | NOT SORRY (Feat. pH-1) (Prod. by Slom) | SHOW ME THE MONEY 11 Episode 3 | Lee Young Ji, pH-1 | [Genie Music Corporation](genie_music_corporation.md) | | [🔗](https://open.spotify.com/track/5UOY3OZib7H4KFwTfsT66g) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df61d37c88b01fa413c527c1" alt="" width="50" /> | NOT SORRY (Feat. pH-1) (Prod. by Slom) | SHOW ME THE MONEY 11 Episode 3 | Lee Young Ji, pH-1 | [Genie Music Corporation](genie_music_corporation.md) | 💚 | [🔗](https://open.spotify.com/track/5UOY3OZib7H4KFwTfsT66g) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="" width="50" /> | HOLO | HOLO | [LeeHi](../artists/leehi.md) | [Genie Music Corporation](genie_music_corporation.md), [Stone Music Entertainment](stone_music_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/4BSluGpjdLQihMmKgHXMxp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | Bye | 4 ONLY | [LeeHi](../artists/leehi.md) | [Genie Music Corporation](genie_music_corporation.md), [Stone Music Entertainment](stone_music_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/6ye2BBTpOipvPNjSPxgmRC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | Intentions | 4 ONLY | [LeeHi](../artists/leehi.md) | [Genie Music Corporation](genie_music_corporation.md), [Stone Music Entertainment](stone_music_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/7IN84szmayzO68enmVmKYv) |

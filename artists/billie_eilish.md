@@ -7,8 +7,8 @@
 ## Featured on Playlists
 | Number of Tracks | Art | Playlist |
 |---:|:---|:---|
-| 10 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | [Pop](../playlists/pop/overview.md) |
-| 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731fcd19d56ad06561b76c1665ab67616d0000b2733042c53026e29faf3a21c9f9ab67616d0000b273995994477ea1ae8097978bf8ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | [Check Out Later](../playlists/check_out_later/overview.md) |
+| 11 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | [Pop](../playlists/pop/overview.md) |
+| 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273028c3bb4b81ee71dd73d1596ab67616d0000b27392c885317fbe4bfa680109b4ab67616d0000b273d0ec2db731952a7efabc6397ab67616d0000b273f6749fd9a1027b244f061e87" alt="" width="50" /> | [Indie/Alternative](../playlists/indie_alternative/overview.md) |
 ## Top Albums
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |

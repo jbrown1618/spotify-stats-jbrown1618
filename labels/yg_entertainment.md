@@ -116,7 +116,7 @@ Appears as:
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f2d10189a41c7345a5a0337" alt="" width="50" /> | You and I (Park Bom) | To Anyone | 2NE1 | [YG Entertainment](yg_entertainment.md) | | [🔗](https://open.spotify.com/track/14Pn9Vd2GKwQrVYADgCZ5l) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273570f746ccc2c75af070da1e0" alt="" width="50" /> | How People Move | SPRING | AKMU | [YG Entertainment](yg_entertainment.md) | | [🔗](https://open.spotify.com/track/0c2Yg75sFgD0hWhRq4voAn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273570f746ccc2c75af070da1e0" alt="" width="50" /> | How People Move | SPRING | AKMU | [YG Entertainment](yg_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/0c2Yg75sFgD0hWhRq4voAn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d41cdd1f3e033a0ea1642112" alt="" width="50" /> | How can I love the heartbreak, you're the one I love | SAILING | AKMU | [YG Entertainment](yg_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/0hqj5JBnFt1BHEz2UCFwrl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27355d0265cc488deebe40d79a6" alt="" width="50" /> | NAKKA (with IU) | NEXT EPISODE | AKMU, [IU](../artists/iu.md) | [YG Entertainment](yg_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/4t2FIqZJORKZGSKg30SShr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dd2c0e8a5d4b0c1e227e4c7b" alt="" width="50" /> | Fantastic Baby | ALIVE | BIGBANG | [YG Entertainment](yg_entertainment.md) | | [🔗](https://open.spotify.com/track/26eV0R7nbqtlzh316ncU99) |

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273f7da7c0f322b7a1c95190d92" alt="K-Pop" width="100" />
 
-[980 songs](tracks.md)
+[985 songs](tracks.md)
 
 ## Top Artists
 
@@ -35,8 +35,9 @@
 | 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../../artists/aespa.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="" width="50" /> | [Dreamcatcher](../../artists/dreamcatcher.md) | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 | 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | [Girls' Generation](../../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
-| 12 | <img src="https://i.scdn.co/image/ab6761610000e5eb45b2ff69ae6a3caccb776cfa" alt="" width="50" /> | [STAYC](../../artists/stayc.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
+| 13 | <img src="https://i.scdn.co/image/ab6761610000e5eb45b2ff69ae6a3caccb776cfa" alt="" width="50" /> | [STAYC](../../artists/stayc.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 | 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="" width="50" /> | [EXO](../../artists/exo.md) | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
+| 9 | <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | Hwa Sa | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5ebadffb99dc62d070da29306ff" alt="" width="50" /> | JEON SOYEON | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | BIBI | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a29246fa242d0b9f8de3b31" alt="" width="50" /> | SUNMI | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
@@ -45,7 +46,6 @@
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5ebde8ad216e0ff7a76573c835e" alt="" width="50" /> | SEULGI | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5eb968ab271c895fb9cc245d6fe" alt="" width="50" /> | [Billlie](../../artists/billlie.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5ebc65d144f4f352b3cba7b13ea" alt="" width="50" /> | WENDY | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
-| 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | Hwa Sa | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb63329d77582c519154674fd7" alt="" width="50" /> | TOMORROW X TOGETHER | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb03fd839c09fe375026192645" alt="" width="50" /> | GOT the beat | [🔗](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) |
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9996e5d7c5b769b2b26ff1a" alt="" width="50" /> | SUPER JUNIOR | [🔗](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) |
@@ -100,6 +100,7 @@
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebf55b31064f94878f3da932c8" alt="" width="50" /> | MAX CHANGMIN | [🔗](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebd63cdcec79b1864df268c7bf" alt="" width="50" /> | TAEYANG | [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebf0a01c9ca9312dbe5ed6b6d9" alt="" width="50" /> | KAI | [🔗](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) |
+| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb74700cf88c04af5201df7298" alt="" width="50" /> | AKMU | [🔗](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebea3e3a63d8bc191f631f6e0e" alt="" width="50" /> | PURPLE KISS | [🔗](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebfe7fc78f16d948f53a607c53" alt="" width="50" /> | NINGNING | [🔗](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8eb5e57e526ceb14f06ea203" alt="" width="50" /> | iKON | [🔗](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) |
@@ -112,11 +113,10 @@
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb30a517d1b703c3eabdac2855" alt="" width="50" /> | Wonder Girls | [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb5923c0ca32a3cf3a81b34728" alt="" width="50" /> | G-DRAGON | [🔗](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eba3c1fca063ed673aed61c885" alt="" width="50" /> | YOUHA | [🔗](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) |
+| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb29971b8d9d19fef176338e4a" alt="" width="50" /> | Loco | [🔗](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb0124ae71378c204c4634cd40" alt="" width="50" /> | KARD | [🔗](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb065608c797a38d142082fc8a" alt="" width="50" /> | Punch | [🔗](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb65dd718aaa2c9b1be0218f76" alt="" width="50" /> | SURAN | [🔗](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) |
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebbb55fc616733b6c09d48481f" alt="" width="50" /> | NAYEON | [🔗](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) |
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb909ae20e6815f0b43dd86bb6" alt="" width="50" /> | J.Y. Park | [🔗](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B) |
 
 </details>
 
@@ -247,15 +247,15 @@
 |---:|:---|
 | 220 | [SM Entertainment](../../labels/sm_entertainment.md) |
 | 104 | [Republic Records](../../labels/republic_records.md) |
-| 66 | [YG Entertainment](../../labels/yg_entertainment.md) |
-| 65 | [Genie Music Corporation](../../labels/genie_music_corporation.md) |
+| 67 | [YG Entertainment](../../labels/yg_entertainment.md) |
+| 66 | [Genie Music Corporation](../../labels/genie_music_corporation.md) |
 | 57 | [Stone Music Entertainment](../../labels/stone_music_entertainment.md) |
 | 39 | [BIGHIT MUSIC](../../labels/bighit_music.md) |
 | 33 | [Interscope Records](../../labels/interscope_records.md) |
 | 32 | [Universal Music LLC](../../labels/universal_music_llc.md) |
 | 32 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment.md) |
 | 30 | [RBW Inc.](../../labels/rbw_inc_.md) |
-| 25 | [JYP Entertainment](../../labels/jyp_entertainment.md) |
+| 26 | [JYP Entertainment](../../labels/jyp_entertainment.md) |
 | 20 | [PLEDIS Entertainment](../../labels/pledis_entertainment.md) |
 | 20 | [BELIFT LAB](../../labels/belift_lab.md) |
 | 18 | [Starship Entertainment](../../labels/starship_entertainment.md) |
@@ -264,7 +264,7 @@
 | 14 | [WM Korea](../../labels/wm_korea.md) |
 | 12 | [Warner Records](../../labels/warner_records.md) |
 | 12 | [SOURCE MUSIC](../../labels/source_music.md) |
-| 11 | [High Up Entertainment](../../labels/high_up_entertainment.md) |
+| 12 | [High Up Entertainment](../../labels/high_up_entertainment.md) |
 | 11 | [FNC ENTERTAINMENT](../../labels/fnc_entertainment.md) |
 | 9 | WM Entertainment |
 | 9 | [MYSTIC STORY](../../labels/mystic_story.md) |
@@ -301,6 +301,7 @@
 | 2 | 올라트엔터테인먼트 |
 | 2 | 스튜디오앤뉴 |
 | 2 | 뮤직앤뉴 |
+| 2 | ㈜RBW |
 | 2 | ㈜ 드림캐쳐컴퍼니 |
 | 2 | Yedang Entertainment |
 | 2 | Transparent Arts |
@@ -318,6 +319,7 @@
 | 2 | Cre.ker Entertainment |
 | 2 | [Capitol Records](../../labels/capitol_records.md) |
 | 2 | ATISPAUS |
+| 2 | AOMG |
 | 2 | (주)블렌딩 |
 | 1 | 피네이션 |
 | 1 | 폴라리스엔터테인먼트 |
@@ -330,7 +332,6 @@
 | 1 | 드림캐쳐컴퍼니 |
 | 1 | 더라이브레이블 |
 | 1 | 내가네트워크 |
-| 1 | ㈜RBW |
 | 1 | ㈜ 드림캐쳐 컴퍼니 |
 | 1 | ㈜ 동요엔터테인먼트 |
 | 1 | msmedia |
@@ -344,7 +345,6 @@
 | 1 | Universal Music Group International |
 | 1 | [UME - Global Clearing House](../../labels/ume___global_clearing_house.md) |
 | 1 | Think Ent. |
-| 1 | TOON STUDIO |
 
 </details>
 
@@ -355,16 +355,16 @@
 
 
 <details>
-<summary>See all 32 genres</summary>
+<summary>See all 34 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 821 | [k-pop](../../genres/k_pop.md) |
-| 369 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
-| 236 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
-| 59 | [pop](../../genres/pop.md) |
-| 35 | korean pop |
-| 31 | korean r&b |
+| 825 | [k-pop](../../genres/k_pop.md) |
+| 370 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
+| 237 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
+| 53 | [pop](../../genres/pop.md) |
+| 36 | korean pop |
+| 32 | korean r&b |
 | 22 | anime |
 | 21 | k-rap |
 | 12 | korean ost |
@@ -383,6 +383,7 @@
 | 1 | viral pop |
 | 1 | pop rap |
 | 1 | pop dance |
+| 1 | korean trap |
 | 1 | k-rock |
 | 1 | j-pop |
 | 1 | indie poptimism |
@@ -390,6 +391,7 @@
 | 1 | [electropop](../../genres/electropop.md) |
 | 1 | electronic trap |
 | 1 | danish pop |
+| 1 | chill r&b |
 | 1 | [art pop](../../genres/art_pop.md) |
 
 </details>
@@ -406,13 +408,13 @@
 | Year | Number of Tracks |
 |:---|---:|
 | 2023 | 17 |
-| [2022](2022.md) | 276 |
-| [2021](2021.md) | 198 |
+| [2022](2022.md) | 278 |
+| [2021](2021.md) | 199 |
 | [2020](2020.md) | 129 |
 | [2019](2019.md) | 78 |
 | [2018](2018.md) | 68 |
-| [2017](2017.md) | 54 |
-| [2016](2016.md) | 56 |
+| [2017](2017.md) | 55 |
+| [2016](2016.md) | 57 |
 | [2015](2015.md) | 36 |
 | 2014 | 16 |
 | 2013 | 16 |

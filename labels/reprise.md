@@ -48,11 +48,11 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 13 genres](../images/labels/reprise/genres.png)
+![Bar chart of top 14 genres](../images/labels/reprise/genres.png)
 
 
 <details>
-<summary>See all 13 genres</summary>
+<summary>See all 14 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -62,6 +62,7 @@ Appears as:
 | 12 | [adult standards](../genres/adult_standards.md) |
 | 1 | stoner metal |
 | 1 | sludge metal |
+| 1 | [rock](../genres/rock.md) |
 | 1 | progressive sludge |
 | 1 | progressive groove metal |
 | 1 | nu metal |

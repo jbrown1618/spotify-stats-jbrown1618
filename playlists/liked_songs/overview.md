@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1413 songs](tracks.md)
+[1422 songs](tracks.md)
 
 ## Top Artists
 
@@ -36,18 +36,18 @@
 | 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../../artists/aespa.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | 14 | <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | [Florence + The Machine](../../artists/florence___the_machine.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
 | 13 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | [CHUNG HA](../../artists/chung_ha.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
+| 12 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../../artists/radiohead.md) | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
 | 11 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="" width="50" /> | [SEVENTEEN](../../artists/seventeen.md) | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
 | 11 | <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | [Queen](../../artists/queen.md) | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
 | 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | [Girls' Generation](../../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
+| 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb45b2ff69ae6a3caccb776cfa" alt="" width="50" /> | [STAYC](../../artists/stayc.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 | 10 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
 | 10 | <img src="https://i.scdn.co/image/ab6761610000e5eb4765d540a1ebedeb7c9637a2" alt="" width="50" /> | [Kimbra](../../artists/kimbra.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 | 10 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="" width="50" /> | [Dreamcatcher](../../artists/dreamcatcher.md) | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 | 10 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../../artists/bruno_mars.md) | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
-| 10 | <img src="https://i.scdn.co/image/ab6761610000e5eb45b2ff69ae6a3caccb776cfa" alt="" width="50" /> | [STAYC](../../artists/stayc.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 | 10 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | [Lana Del Rey](../../artists/lana_del_rey.md) | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | [Beyoncé](../../artists/beyonc_.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | [Rihanna](../../artists/rihanna.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
-| 9 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../../artists/radiohead.md) | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../../artists/lady_gaga.md) | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5ebadffb99dc62d070da29306ff" alt="" width="50" /> | JEON SOYEON | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | BIBI | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
@@ -172,6 +172,7 @@
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef" alt="" width="50" /> | SQUARE UP | 2018-06-15 | [🔗](https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="" width="50" /> | Russian Roulette - The 3rd Mini Album | 2016-09-07 | [🔗](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | PTX, Vol. III | 2014-09-23 | [🔗](https://open.spotify.com/album/32y54TelUHSUDWVOx4h1B4) |
+| 4 | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | OK Computer | 1997-05-28 | [🔗](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | My Everything (Deluxe) | 2014-08-25 | [🔗](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" alt="" width="50" /> | MANIFESTO : DAY 1 | 2022-07-04 | [🔗](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="" width="50" /> | Like Water - The 1st Mini Album | 2021-04-05 | [🔗](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) |
@@ -199,7 +200,6 @@
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273ad76265e2c01cc533a87df0e" alt="" width="50" /> | PTX, Vol. 1 | 2012-06-26 | [🔗](https://open.spotify.com/album/5wGlP6EqF7akh6N3UGfKVZ) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2739729d686606e6be27346da30" alt="" width="50" /> | PTX Vol. IV - Classics | 2017-04-07 | [🔗](https://open.spotify.com/album/00JpoY0ZaQRXTNJUruibfX) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2739b57e9b31c831fb2137c38e2" alt="" width="50" /> | Oh! - The Second Album | 2010-01-28 | [🔗](https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | OK Computer | 1997-05-28 | [🔗](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | ODDINARY | 2022-03-18 | [🔗](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | Not Shy | 2020-08-17 | [🔗](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="" width="50" /> | No Strings Attached | 2000-03-21 | [🔗](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) |
@@ -246,10 +246,10 @@
 | 82 | [Republic Records](../../labels/republic_records.md) |
 | 61 | [Epic](../../labels/epic.md) |
 | 58 | [Interscope Records](../../labels/interscope_records.md) |
-| 55 | [YG Entertainment](../../labels/yg_entertainment.md) |
+| 56 | [YG Entertainment](../../labels/yg_entertainment.md) |
 | 54 | [Columbia](../../labels/columbia.md) |
 | 48 | [Warner Records](../../labels/warner_records.md) |
-| 45 | [Genie Music Corporation](../../labels/genie_music_corporation.md) |
+| 46 | [Genie Music Corporation](../../labels/genie_music_corporation.md) |
 | 44 | [Universal Music LLC](../../labels/universal_music_llc.md) |
 | 43 | [Stone Music Entertainment](../../labels/stone_music_entertainment.md) |
 | 43 | [RCA Records Label](../../labels/rca_records_label.md) |
@@ -260,27 +260,27 @@
 | 21 | [EMI Catalogue](../../labels/emi_catalogue.md) |
 | 19 | [Taylor Swift](../../labels/taylor_swift.md) |
 | 19 | [Big Machine Records](../../labels/big_machine_records.md) |
+| 18 | [JYP Entertainment](../../labels/jyp_entertainment.md) |
 | 18 | [BELIFT LAB](../../labels/belift_lab.md) |
-| 17 | [JYP Entertainment](../../labels/jyp_entertainment.md) |
 | 16 | [Universal-Island Records Ltd.](../../labels/universal_island_records_ltd_.md) |
 | 16 | [Polydor Records](../../labels/polydor_records.md) |
+| 15 | [XL Recordings](../../labels/xl_recordings.md) |
 | 14 | [Starship Entertainment](../../labels/starship_entertainment.md) |
 | 14 | [Rhino](../../labels/rhino.md) |
 | 14 | [PLEDIS Entertainment](../../labels/pledis_entertainment.md) |
 | 13 | [The Tarpeggios](../../labels/the_tarpeggios.md) |
-| 12 | [XL Recordings](../../labels/xl_recordings.md) |
 | 12 | [Kakao Entertainment](../../labels/kakao_entertainment.md) |
 | 12 | [Hollywood Records](../../labels/hollywood_records.md) |
 | 12 | [Capitol Records](../../labels/capitol_records.md) |
 | 11 | [SOURCE MUSIC](../../labels/source_music.md) |
 | 11 | [Jive](../../labels/jive.md) |
 | 11 | [HYBE](../../labels/hybe.md) |
+| 10 | [Syco Music](../../labels/syco_music.md) |
+| 10 | [High Up Entertainment](../../labels/high_up_entertainment.md) |
 | 10 | [Darkroom](../../labels/darkroom.md) |
-| 9 | [High Up Entertainment](../../labels/high_up_entertainment.md) |
 | 9 | 88rising Music |
 | 8 | WM Entertainment |
 | 8 | The Unc - Chapel Hill Tarpeggios |
-| 8 | [Syco Music](../../labels/syco_music.md) |
 | 8 | Monkey Puzzle Records |
 | 8 | [MYSTIC STORY](../../labels/mystic_story.md) |
 | 8 | MNH ENTERTAINMENT |
@@ -356,65 +356,65 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 613 | [k-pop](../../genres/k_pop.md) |
-| 368 | [pop](../../genres/pop.md) |
-| 290 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
-| 166 | [dance pop](../../genres/dance_pop.md) |
-| 162 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
-| 100 | [rock](../../genres/rock.md) |
+| 616 | [k-pop](../../genres/k_pop.md) |
+| 363 | [pop](../../genres/pop.md) |
+| 291 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
+| 167 | [dance pop](../../genres/dance_pop.md) |
+| 163 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
+| 103 | [rock](../../genres/rock.md) |
 | 78 | [classic rock](../../genres/classic_rock.md) |
 | 61 | [neo mellow](../../genres/neo_mellow.md) |
 | 58 | [lilith](../../genres/lilith.md) |
 | 55 | [acoustic pop](../../genres/acoustic_pop.md) |
 | 54 | [pop rock](../../genres/pop_rock.md) |
+| 43 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 43 | [hollywood](../../genres/hollywood.md) |
 | 42 | [mellow gold](../../genres/mellow_gold.md) |
-| 41 | [post-teen pop](../../genres/post_teen_pop.md) |
-| 38 | [electropop](../../genres/electropop.md) |
+| 36 | [electropop](../../genres/electropop.md) |
 | 34 | [art pop](../../genres/art_pop.md) |
 | 32 | [soft rock](../../genres/soft_rock.md) |
 | 30 | [psychedelic rock](../../genres/psychedelic_rock.md) |
 | 30 | british invasion |
 | 29 | korean r&b |
-| 28 | korean pop |
+| 29 | korean pop |
 | 25 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 25 | piano rock |
 | 23 | beatlesque |
+| 22 | permanent wave |
 | 22 | merseybeat |
 | 21 | [r&b](../../genres/r_b.md) |
+| 21 | art rock |
 | 20 | pop rap |
 | 20 | modern rock |
 | 20 | edm |
 | 20 | anime |
-| 19 | permanent wave |
 | 19 | album rock |
 | 19 | [adult standards](../../genres/adult_standards.md) |
+| 18 | uk pop |
 | 18 | hard rock |
 | 18 | folk rock |
-| 18 | art rock |
 | 18 | [a cappella](../../genres/a_cappella.md) |
+| 17 | melancholia |
 | 17 | indie pop |
-| 16 | uk pop |
 | 16 | neo soul |
 | 16 | k-rap |
 | 15 | metropopolis |
 | 14 | urban contemporary |
 | 14 | uk alternative pop |
-| 14 | melancholia |
 | 14 | folk |
 | 14 | baroque pop |
 | 13 | glam rock |
 | 13 | canadian pop |
+| 13 | alternative rock |
 | 12 | soul |
+| 12 | oxford indie |
 | 12 | nz pop |
 | 12 | australian pop |
 | 12 | atl hip hop |
 | 11 | rap |
 | 11 | korean ost |
 | 11 | indie rock |
-| 10 | alternative rock |
 | 9 | tropical house |
-| 9 | oxford indie |
 | 9 | lounge |
 | 9 | escape room |
 | 9 | bergen indie |
@@ -444,18 +444,18 @@
 | 6 | la indie |
 | 6 | hip pop |
 | 6 | hip hop |
-| 6 | funk |
 | 6 | filter house |
 | 6 | electro |
 | 5 | uk funky |
 | 5 | uk dance |
+| 5 | talent show |
 | 5 | k-indie |
 | 5 | jazz pop |
 | 5 | indietronica |
+| 5 | girl group |
+| 5 | funk |
 | 5 | anti-folk |
 | 5 | afrofuturism |
-| 4 | yacht rock |
-| 4 | vocal jazz |
 
 </details>
 
@@ -471,14 +471,14 @@
 | Year | Number of Tracks |
 |:---|---:|
 | 2023 | 15 |
-| [2022](2022.md) | 232 |
-| [2021](2021.md) | 175 |
+| [2022](2022.md) | 233 |
+| [2021](2021.md) | 176 |
 | [2020](2020.md) | 135 |
 | [2019](2019.md) | 112 |
 | [2018](2018.md) | 81 |
-| [2017](2017.md) | 67 |
-| [2016](2016.md) | 70 |
-| [2015](2015.md) | 54 |
+| [2017](2017.md) | 68 |
+| [2016](2016.md) | 72 |
+| [2015](2015.md) | 55 |
 | [2014](2014.md) | 42 |
 | [2013](2013.md) | 49 |
 | [2012](2012.md) | 49 |
@@ -490,13 +490,13 @@
 | 2006 | 12 |
 | 2005 | 13 |
 | 2004 | 7 |
-| 2003 | 5 |
+| 2003 | 6 |
 | 2002 | 13 |
 | 2001 | 8 |
-| 2000 | 8 |
+| 2000 | 9 |
 | 1999 | 4 |
 | 1998 | 1 |
-| 1997 | 3 |
+| 1997 | 4 |
 | 1995 | 5 |
 | 1994 | 1 |
 | 1993 | 2 |
@@ -536,13 +536,13 @@
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731869a85947a5ea00df8c936f" alt="BSS 1st Single Album 'SECOND WIND'" width="50" /> <span style="padding-left:10px;">BSS 1st Single Album 'SECOND WIND' (2023-02-06)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> <span style="padding-left:10px;">Sinatra/Basie: The Complete Reprise Studio Recordings (1962-12-10)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2730d9c2a11edd1a7efcd73f0d1" alt="The 3rd Mini Album 'VarioUS'" width="50" /> <span style="padding-left:10px;">The 3rd Mini Album 'VarioUS' (2023-01-31)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273dfe4bfe695c4192e547e72c7" alt="Ring Of Fire: The Best Of Johnny Cash" width="50" /> <span style="padding-left:10px;">Ring Of Fire: The Best Of Johnny Cash (1963-08-06)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c1b217d3bb2ef206b92cd968" alt="A Reckoning" width="50" /> <span style="padding-left:10px;">A Reckoning (2023-01-27)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273608a63ad5b18e99da94a3f73" alt="With The Beatles (Remastered)" width="50" /> <span style="padding-left:10px;">With The Beatles (Remastered) (1963-11-22)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273dc65ca68ad8d6156d2f64c36" alt="SHOOTING STAR" width="50" /> <span style="padding-left:10px;">SHOOTING STAR (2023-01-25)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2735b50e493598153b926ded824" alt="Mary Wells Sings My Guy" width="50" /> <span style="padding-left:10px;">Mary Wells Sings My Guy (1964)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27353f126eb16bb3ab5720b0ba7" alt="SHOOTING STAR" width="50" /> <span style="padding-left:10px;">SHOOTING STAR (2023-01-25)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2735b50e493598153b926ded824" alt="Mary Wells Sings My Guy" width="50" /> <span style="padding-left:10px;">Mary Wells Sings My Guy (1964)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736887b017d077dfc5787a3e23" alt="MOONLIGHT SUNRISE" width="50" /> <span style="padding-left:10px;">MOONLIGHT SUNRISE (2023-01-20)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> <span style="padding-left:10px;">Days Of Wine And Roses, Moon River And Other Academy Award Winners (1964)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="Stamp On It - The 1st Mini Album" width="50" /> <span style="padding-left:10px;">Stamp On It - The 1st Mini Album (2023-01-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd" alt="A Hard Day's Night (Remastered)" width="50" /> <span style="padding-left:10px;">A Hard Day's Night (Remastered) (1964-07-10)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c3cc49220a7dd0bda6e55bb9" alt="Love War" width="50" /> <span style="padding-left:10px;">Love War (2023-01-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="Wednesday Morning, 3 A.M." width="50" /> <span style="padding-left:10px;">Wednesday Morning, 3 A.M. (1964-10-19)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c3cc49220a7dd0bda6e55bb9" alt="Love War" width="50" /> <span style="padding-left:10px;">Love War (2023-01-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd" alt="A Hard Day's Night (Remastered)" width="50" /> <span style="padding-left:10px;">A Hard Day's Night (Remastered) (1964-07-10)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="Stamp On It - The 1st Mini Album" width="50" /> <span style="padding-left:10px;">Stamp On It - The 1st Mini Album (2023-01-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="Wednesday Morning, 3 A.M." width="50" /> <span style="padding-left:10px;">Wednesday Morning, 3 A.M. (1964-10-19)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f7994d33de90ec347aa477c3" alt="VIBE (feat. Jimin of BTS)" width="50" /> <span style="padding-left:10px;">VIBE (feat. Jimin of BTS) (2023-01-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> <span style="padding-left:10px;">The Temptations Sing Smokey (1965-03-22)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27386b1ba55bf754a73f6ecf729" alt="I ≠ DOLL" width="50" /> <span style="padding-left:10px;">I ≠ DOLL (2023-01-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="Out Of Our Heads" width="50" /> <span style="padding-left:10px;">Out Of Our Heads (1965-07-30)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="REASON" width="50" /> <span style="padding-left:10px;">REASON (2023-01-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> <span style="padding-left:10px;">Help! (Remastered) (1965-08-06)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="REASON" width="50" /> <span style="padding-left:10px;">REASON (2023-01-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="Out Of Our Heads" width="50" /> <span style="padding-left:10px;">Out Of Our Heads (1965-07-30)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27386b1ba55bf754a73f6ecf729" alt="I ≠ DOLL" width="50" /> <span style="padding-left:10px;">I ≠ DOLL (2023-01-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> <span style="padding-left:10px;">Help! (Remastered) (1965-08-06)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
@@ -590,12 +590,12 @@
 | Bright Lights and Cityscapes (0.977) | Kagerou (3.1e-05) |
 | Mad World (0.976) | Headbangeeeeerrrrr!!!!! (7.67e-05) |
 | Manhattan (0.972) | Poison (9.27e-05) |
-| Nature Boy (0.971) | Mr. Simple (0.000219) |
-| The Night We Met (0.969) | Tamed-Dashed (0.000253) |
-| I Had a King (0.968) | Cyberpunk (0.000265) |
-| The Dawntreader (0.957) | Gimme Chocolate!! (0.000282) |
-| Take It All (0.957) | Oh Sorry Ya (0.000315) |
-| Skinny Love (0.952) | Misery (0.000315) |
+| Nature Boy (0.971) | Let Down (0.000121) |
+| The Night We Met (0.969) | Mr. Simple (0.000219) |
+| I Had a King (0.968) | Tamed-Dashed (0.000253) |
+| The Dawntreader (0.957) | Cyberpunk (0.000265) |
+| Take It All (0.957) | Gimme Chocolate!! (0.000282) |
+| Skinny Love (0.952) | Oh Sorry Ya (0.000315) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
@@ -605,10 +605,10 @@
 | Street Spirit (Fade Out) (0.694) | No Hands (feat. Roscoe Dash & Wale) (0.0) |
 | everything i wanted (0.657) | Sweet As Whole (0.0) |
 | Instant Crush (feat. Julian Casablancas) (0.619) | The Lighthouse's Tale (0.0) |
-| Smooth Criminal - 2012 Remaster (0.468) | Clean (0.0) |
-| Pyramid Song (0.427) | Shut Down (0.0) |
-| Shanti Shanti Shanti (0.318) | Travelin' Soldier (0.0) |
-| You Take My Breath Away (0.308) | SCIENTIST (0.0) |
+| There, There (0.52) | Clean (0.0) |
+| Smooth Criminal - 2012 Remaster (0.468) | Shut Down (0.0) |
+| Pyramid Song (0.427) | Travelin' Soldier (0.0) |
+| Shanti Shanti Shanti (0.318) | SCIENTIST (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="Pop" width="100" />
 
-[358 songs](tracks.md)
+[362 songs](tracks.md)
 
 ## Top Artists
 
@@ -21,9 +21,9 @@
 | 25 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../../artists/ariana_grande.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 | 13 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../../artists/lady_gaga.md) | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
 | 12 | <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | [Dua Lipa](../../artists/dua_lipa.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
+| 12 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../../artists/bruno_mars.md) | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
+| 11 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
 | 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | [Rihanna](../../artists/rihanna.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
-| 11 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../../artists/bruno_mars.md) | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
-| 10 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb727a2ac15afe659be999beba" alt="" width="50" /> | Doja Cat | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5ebec40474426f4401a4203dc9f" alt="" width="50" /> | Sia | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | Camila Cabello | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
@@ -54,12 +54,14 @@
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebabe53b210d382c4c450d7709" alt="" width="50" /> | MIKA | [🔗](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8c2332e6c0ed96d144a91b3f" alt="" width="50" /> | Cardi B | [🔗](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | [🔗](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) |
+| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb08cd53940cbf5813ee5fe565" alt="" width="50" /> | Little Mix | [🔗](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | Jessie J | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebee954a3b5418065c2fe253fb" alt="" width="50" /> | Olivia Rodrigo | [🔗](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bbad89a61061304ec842588" alt="" width="50" /> | P!nk | [🔗](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd66f1e0c883f319443d68c45" alt="" width="50" /> | Lil Nas X | [🔗](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eba5fc004270bdfc9fee7f55f4" alt="" width="50" /> | Jon McLaughlin | [🔗](https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7) |
+| 2 | <img src="https://i.scdn.co/image/ab6772690000c46ca3ebb27ba9a55044f32af6e1" alt="" width="50" /> | Silk Sonic | [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) |
 | 2 | <img src="https://i.scdn.co/image/c56cf0cc89c8ecfec7145cf065ea2006d0706605" alt="" width="50" /> | *NSYNC | [🔗](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | Iggy Azalea | [🔗](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | B.o.B | [🔗](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) |
@@ -74,6 +76,7 @@
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ace68c56849548db7f102be" alt="" width="50" /> | DaBaby | [🔗](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebce8d5be6690c6964069ab8e0" alt="" width="50" /> | Jason Mraz | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../../artists/blackpink.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
+| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496" alt="" width="50" /> | Anderson .Paak | [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb196972172c37d934d9ca8093" alt="" width="50" /> | Twenty One Pilots | [🔗](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../../artists/bts.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb60c3e9abe7327c0097738f22" alt="" width="50" /> | Sean Paul | [🔗](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) |
@@ -112,11 +115,8 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9bc0756eb16b241111bbc72b" alt="" width="50" /> | Colbie Caillat | [🔗](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb90a228bbe264818694c54834" alt="" width="50" /> | Ally Brooke | [🔗](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1fd54eb6e30d0bc8f633621e" alt="" width="50" /> | Machine Gun Kelly | [🔗](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) |
-| 1 | <img src="https://i.scdn.co/image/ab6772690000c46ca3ebb27ba9a55044f32af6e1" alt="" width="50" /> | Silk Sonic | [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb31072db9da0311ecfabe96bf" alt="" width="50" /> | Khalid | [🔗](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf271138f95fbe8188d909d50" alt="" width="50" /> | Kesha | [🔗](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb15a85a7957cac2c370e713ab" alt="" width="50" /> | Kid Ink | [🔗](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc3e907a4fb48f1ad94f5699" alt="" width="50" /> | The Womack Sisters | [🔗](https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s) |
 
 </details>
 
@@ -245,10 +245,10 @@
 
 | Number of Tracks | Label |
 |---:|:---|
-| 31 | [Interscope Records](../../labels/interscope_records.md) |
+| 32 | [Interscope Records](../../labels/interscope_records.md) |
 | 29 | [Big Machine Records](../../labels/big_machine_records.md) |
 | 28 | [RCA Records Label](../../labels/rca_records_label.md) |
-| 24 | [Atlantic Records](../../labels/atlantic_records.md) |
+| 25 | [Atlantic Records](../../labels/atlantic_records.md) |
 | 21 | [Taylor Swift](../../labels/taylor_swift.md) |
 | 19 | [Columbia](../../labels/columbia.md) |
 | 18 | [Warner Records](../../labels/warner_records.md) |
@@ -256,9 +256,9 @@
 | 15 | [Republic Records](../../labels/republic_records.md) |
 | 14 | [Jive](../../labels/jive.md) |
 | 13 | [Universal Music LLC](../../labels/universal_music_llc.md) |
-| 10 | [Syco Music](../../labels/syco_music.md) |
+| 12 | [Syco Music](../../labels/syco_music.md) |
+| 11 | [Darkroom](../../labels/darkroom.md) |
 | 10 | [Def Jam Recordings](../../labels/def_jam_recordings.md) |
-| 10 | [Darkroom](../../labels/darkroom.md) |
 | 9 | [Capitol Records](../../labels/capitol_records.md) |
 | 8 | [Polydor Records](../../labels/polydor_records.md) |
 | 8 | Monkey Puzzle Records |
@@ -294,6 +294,7 @@
 | 2 | Def Jam |
 | 2 | Cash Money |
 | 2 | Artist Partner |
+| 2 | Aftermath Entertainment |
 | 2 | ATG |
 | 2 | A Star is Born OST |
 | 2 | [143](../../labels/143.md) |
@@ -344,7 +345,6 @@
 | 1 | FSF |
 | 1 | Epic Amsterdam |
 | 1 | EMPIRE |
-| 1 | EMI Recorded Music Australia Pty Ltd |
 
 </details>
 
@@ -359,13 +359,13 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 305 | [pop](../../genres/pop.md) |
-| 194 | [dance pop](../../genres/dance_pop.md) |
-| 46 | [post-teen pop](../../genres/post_teen_pop.md) |
-| 31 | [electropop](../../genres/electropop.md) |
-| 28 | [art pop](../../genres/art_pop.md) |
+| 306 | [pop](../../genres/pop.md) |
+| 196 | [dance pop](../../genres/dance_pop.md) |
+| 48 | [post-teen pop](../../genres/post_teen_pop.md) |
+| 30 | [electropop](../../genres/electropop.md) |
+| 29 | [art pop](../../genres/art_pop.md) |
+| 28 | uk pop |
 | 27 | edm |
-| 26 | uk pop |
 | 21 | pop rap |
 | 19 | urban contemporary |
 | 18 | neo soul |
@@ -391,6 +391,8 @@
 | 7 | rap |
 | 7 | modern rock |
 | 7 | indietronica |
+| 6 | talent show |
+| 6 | girl group |
 | 5 | uk funky |
 | 5 | [rock](../../genres/rock.md) |
 | 5 | piano rock |
@@ -398,14 +400,12 @@
 | 5 | electro house |
 | 5 | contemporary r&b |
 | 5 | afrofuturism |
-| 4 | talent show |
 | 4 | south carolina hip hop |
 | 4 | [lilith](../../genres/lilith.md) |
 | 4 | indie poptimism |
 | 4 | house |
 | 4 | [hollywood](../../genres/hollywood.md) |
 | 4 | hip pop |
-| 4 | girl group |
 | 4 | europop |
 | 3 | progressive house |
 | 3 | nz pop |
@@ -473,14 +473,14 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| 2022 | 4 |
+| 2022 | 6 |
 | 2021 | 18 |
 | [2020](2020.md) | 48 |
 | [2019](2019.md) | 44 |
 | [2018](2018.md) | 25 |
 | [2017](2017.md) | 25 |
-| [2016](2016.md) | 23 |
-| 2015 | 18 |
+| [2016](2016.md) | 24 |
+| 2015 | 19 |
 | [2014](2014.md) | 22 |
 | 2013 | 17 |
 | 2012 | 16 |
@@ -504,15 +504,15 @@
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="CHARLIE" width="50" /> <span style="padding-left:10px;">CHARLIE (2022-10-06)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738e49866860c25afffe2f1a02" alt="...Baby One More Time (Digital Deluxe Version)" width="50" /> <span style="padding-left:10px;">...Baby One More Time (Digital Deluxe Version) (1999-01-12)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731e8798f25a1997f0679b2382" alt="Hot In It" width="50" /> <span style="padding-left:10px;">Hot In It (2022-06-30)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" alt="Millennium" width="50" /> <span style="padding-left:10px;">Millennium (1999-05-18)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b817e721691aff3d67f26c04" alt="About Damn Time" width="50" /> <span style="padding-left:10px;">About Damn Time (2022-04-14)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="No Strings Attached" width="50" /> <span style="padding-left:10px;">No Strings Attached (2000-03-21)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="CRASH" width="50" /> <span style="padding-left:10px;">CRASH (2022-03-18)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732aa20611c7fb964a74ab01a6" alt="Oops!... I Did It Again" width="50" /> <span style="padding-left:10px;">Oops!... I Did It Again (2000-05-16)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c6b577e4c4a6d326354a89f7" alt="30" width="50" /> <span style="padding-left:10px;">30 (2021-11-19)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733d92b2ad5af9fbc8637425f0" alt="Parachutes" width="50" /> <span style="padding-left:10px;">Parachutes (2000-07-10)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> <span style="padding-left:10px;">An Evening With Silk Sonic (2021-11-11)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e1a4e01cb7a1ecff468bbead" alt="Britney (Digital Deluxe Version)" width="50" /> <span style="padding-left:10px;">Britney (Digital Deluxe Version) (2001-10-31)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27354d075797911e02360beb3e7" alt="SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)" width="50" /> <span style="padding-left:10px;">SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (2021-10-22)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e" alt="Songs About Jane: 10th Anniversary Edition" width="50" /> <span style="padding-left:10px;">Songs About Jane: 10th Anniversary Edition (2002)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273be82673b5f79d9658ec0a9fd" alt="MONTERO" width="50" /> <span style="padding-left:10px;">MONTERO (2021-09-17)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27317b3850d758fff5a2301e537" alt="Songs About Jane" width="50" /> <span style="padding-left:10px;">Songs About Jane (2002-06-25)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e859698c8fe21d42a13ec252" alt="SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)" width="50" /> <span style="padding-left:10px;">SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy) (2021-09-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="A Rush of Blood to the Head" width="50" /> <span style="padding-left:10px;">A Rush of Blood to the Head (2002-08-08)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737bc333ff94bcb174a817e346" alt="this is what falling in love feels like" width="50" /> <span style="padding-left:10px;">this is what falling in love feels like (2021-09-03)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273af3ad974e635a6b18579adee" alt="A Beautiful World" width="50" /> <span style="padding-left:10px;">A Beautiful World (2002-12-13)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318" alt="Guitar Songs" width="50" /> <span style="padding-left:10px;">Guitar Songs (2022-07-21)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" alt="Millennium" width="50" /> <span style="padding-left:10px;">Millennium (1999-05-18)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731e8798f25a1997f0679b2382" alt="Hot In It" width="50" /> <span style="padding-left:10px;">Hot In It (2022-06-30)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="No Strings Attached" width="50" /> <span style="padding-left:10px;">No Strings Attached (2000-03-21)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b817e721691aff3d67f26c04" alt="About Damn Time" width="50" /> <span style="padding-left:10px;">About Damn Time (2022-04-14)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732aa20611c7fb964a74ab01a6" alt="Oops!... I Did It Again" width="50" /> <span style="padding-left:10px;">Oops!... I Did It Again (2000-05-16)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="CRASH" width="50" /> <span style="padding-left:10px;">CRASH (2022-03-18)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733d92b2ad5af9fbc8637425f0" alt="Parachutes" width="50" /> <span style="padding-left:10px;">Parachutes (2000-07-10)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27379ffc01d8bc8312192cacfc0" alt="Love's Train" width="50" /> <span style="padding-left:10px;">Love's Train (2022-02-14)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e1a4e01cb7a1ecff468bbead" alt="Britney (Digital Deluxe Version)" width="50" /> <span style="padding-left:10px;">Britney (Digital Deluxe Version) (2001-10-31)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c6b577e4c4a6d326354a89f7" alt="30" width="50" /> <span style="padding-left:10px;">30 (2021-11-19)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e" alt="Songs About Jane: 10th Anniversary Edition" width="50" /> <span style="padding-left:10px;">Songs About Jane: 10th Anniversary Edition (2002)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> <span style="padding-left:10px;">An Evening With Silk Sonic (2021-11-11)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27317b3850d758fff5a2301e537" alt="Songs About Jane" width="50" /> <span style="padding-left:10px;">Songs About Jane (2002-06-25)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27354d075797911e02360beb3e7" alt="SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)" width="50" /> <span style="padding-left:10px;">SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (2021-10-22)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="A Rush of Blood to the Head" width="50" /> <span style="padding-left:10px;">A Rush of Blood to the Head (2002-08-08)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273be82673b5f79d9658ec0a9fd" alt="MONTERO" width="50" /> <span style="padding-left:10px;">MONTERO (2021-09-17)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273af3ad974e635a6b18579adee" alt="A Beautiful World" width="50" /> <span style="padding-left:10px;">A Beautiful World (2002-12-13)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
@@ -539,7 +539,7 @@
 | Levitating (0.884) | No Time To Die (0.219) |
 | Green Light (feat. André 3000) (0.882) | everything i wanted (0.225) |
 | Don't Call Me Up (0.881) | Off My Face (0.228) |
-| Focus (0.876) | Lonely (with benny blanco) (0.239) |
+| Focus (0.876) | TV (0.236) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|

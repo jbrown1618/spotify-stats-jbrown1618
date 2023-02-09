@@ -1,6 +1,6 @@
 # post-teen pop
 
-[60 songs](post_teen_pop_tracks.md)
+[58 songs](post_teen_pop_tracks.md)
 
 ## Top Artists
 
@@ -14,12 +14,12 @@
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
-| 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb654972693e0efed3f3f4d090" alt="" width="50" /> | Jason Derulo | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | Camila Cabello | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
+| 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb654972693e0efed3f3f4d090" alt="" width="50" /> | Jason Derulo | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410" alt="" width="50" /> | Clean Bandit | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
-| 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb08cd53940cbf5813ee5fe565" alt="" width="50" /> | Little Mix | [🔗](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5ebabfac786f093c4da55c99d4e" alt="" width="50" /> | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb6659b1cb61936bd7bcb229a2" alt="" width="50" /> | Demi Lovato | [🔗](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) |
+| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb08cd53940cbf5813ee5fe565" alt="" width="50" /> | Little Mix | [🔗](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | Jessie J | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf91c2e559a5a8233d3b35fb1" alt="" width="50" /> | Tyga | [🔗](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb118cd1f3261f08d957105996" alt="" width="50" /> | Kelly Clarkson | [🔗](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) |
@@ -94,8 +94,6 @@
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="" width="50" /> | Tangled | 2010-01-01 | [🔗](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e" alt="" width="50" /> | Talk Dirty | 2013-09-10 | [🔗](https://open.spotify.com/album/4PeZu0It7qVrTG40t3HM9A) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Romance | 2019-12-06 | [🔗](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2733042c53026e29faf3a21c9f9" alt="" width="50" /> | Glory Days (Expanded Edition) | 2016-11-18 | [🔗](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273995994477ea1ae8097978bf8" alt="" width="50" /> | Get Weird (Expanded Edition) | 2015-11-06 | [🔗](https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27326a2f5224465a369f8abbf88" alt="" width="50" /> | lovestrong. | 2011-05-10 | [🔗](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27341aa6776dc15fbd71a2b4557" alt="" width="50" /> | Youngblood (Deluxe) | 2018-06-15 | [🔗](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739c291af4bf0c3071847f2b80" alt="" width="50" /> | Under My Skin | 2004 | [🔗](https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF) |
@@ -120,6 +118,8 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273c83d25c1b9d5f384c32d834a" alt="" width="50" /> | Hot Mess | 2009-07-07 | [🔗](https://open.spotify.com/album/41TUivD915ztiKgyu99H9T) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273de1a3a5eaa0c75bb18e7b597" alt="" width="50" /> | Happiness Begins | 2019-06-07 | [🔗](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273c824820b3a74839b91b4036a" alt="" width="50" /> | Good Thing (with Kehlani) | 2019-09-27 | [🔗](https://open.spotify.com/album/3wpdeV1FZfiEnelZSfAFp4) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733042c53026e29faf3a21c9f9" alt="" width="50" /> | Glory Days (Expanded Edition) | 2016-11-18 | [🔗](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273995994477ea1ae8097978bf8" alt="" width="50" /> | Get Weird (Expanded Edition) | 2015-11-06 | [🔗](https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735bac234d5511248b248caf36" alt="" width="50" /> | Flicker (Deluxe) | 2017-10-20 | [🔗](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27361fe6d3a50c0beaa3cfe33e9" alt="" width="50" /> | Expectations | 2018-06-22 | [🔗](https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273519241bcfc352fc3eaaac5db" alt="" width="50" /> | Everything Is 4 | 2015-05-29 | [🔗](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) |
@@ -153,7 +153,7 @@
 
 | Number of Tracks | Label |
 |---:|:---|
-| 13 | [Syco Music](../labels/syco_music.md) |
+| 11 | [Syco Music](../labels/syco_music.md) |
 | 8 | [Warner Records](../labels/warner_records.md) |
 | 8 | [Epic](../labels/epic.md) |
 | 5 | Beluga Heights |
@@ -205,8 +205,8 @@
 | Rather Be (feat. Jess Glynne) (0.799) | Consequences (0.455) |
 | Low Key (feat. Tyga) (0.79) | Sk8er Boi (0.487) |
 | Call Me Maybe (0.783) | Heart Attack (0.504) |
-| Tick Tock (feat. 24kGoldn) (0.779) | Secret Love Song (feat. Jason Derulo) (0.529) |
-| Black Magic (0.776) | Who You Are (0.534) |
+| Tick Tock (feat. 24kGoldn) (0.779) | Who You Are (0.534) |
+| Black Magic (0.776) | Me And My Broken Heart (0.545) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -278,10 +278,10 @@
 | Sucker (0.952) | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" (0.0862) |
 | Tick Tock (feat. 24kGoldn) (0.946) | Jar of Hearts (0.0886) |
 | Black Magic (0.849) | Because of You (0.136) |
-| Slow Hands (0.848) | Secret Love Song (feat. Jason Derulo) (0.141) |
-| Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (0.824) | Youngblood (0.152) |
-| Shout Out to My Ex (0.801) | I See the Light - From "Tangled" / Soundtrack Version (0.169) |
+| Slow Hands (0.848) | Youngblood (0.152) |
+| Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (0.824) | I See the Light - From "Tangled" / Soundtrack Version (0.169) |
 | Rockabye (feat. Sean Paul & Anne-Marie) (0.792) | Good For You (0.215) |
 | Good Ones (0.789) | Who You Are (0.215) |
 | Swalla (feat. Nicki Minaj & Ty Dolla $ign) (0.782) | Don't Call Me Up (0.234) |
 | Bubblegum (feat. Tyga) (0.77) | Never Be the Same (0.243) |
+| Talk Dirty (feat. 2 Chainz) (0.759) | Already Gone (0.294) |

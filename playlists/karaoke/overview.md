@@ -96,7 +96,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e" alt="" width="50" /> | Songs About Jane: 10th Anniversary Edition | 2002 | [🔗](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6c0376235e5aa44e59d2c2" alt="" width="50" /> | Picture Show | 2012-01-01 | [🔗](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | Piano Man | 1973-11-09 | [🔗](https://open.spotify.com/album/77ErLrVvYETIlQJHAwhfIH) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732f85b65d3ac4d3d7f806ca11" alt="" width="50" /> | Pablo Honey | 1993-02-22 | [🔗](https://open.spotify.com/album/6400dnyeDyD2mIFHfkwHXN) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="" width="50" /> | Pablo Honey | 1993-02-22 | [🔗](https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735da1093d047cc15eb66d27cf" alt="" width="50" /> | OK Now | 2008-01-01 | [🔗](https://open.spotify.com/album/3fKJJQFV6a61fnKYDDj2LU) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b" alt="" width="50" /> | Nothing But The Best (Remastered) | 2008-01-01 | [🔗](https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739ab215825eb77076b1b4b387" alt="" width="50" /> | Nickel Creek | 2000 | [🔗](https://open.spotify.com/album/5SGG7graQOU3OnK3cZZCNd) |
@@ -242,7 +242,6 @@
 | 2 | indie folk |
 | 2 | funk |
 | 2 | folk |
-| 2 | [electropop](../../genres/electropop.md) |
 | 2 | easy listening |
 | 2 | british soul |
 | 2 | atl hip hop |
@@ -274,6 +273,7 @@
 | 1 | indie pop |
 | 1 | heartland rock |
 | 1 | escape room |
+| 1 | [electropop](../../genres/electropop.md) |
 | 1 | disco |
 | 1 | country rock |
 | 1 | comic |
@@ -356,7 +356,7 @@
 |:---|:---|
 | Mad World (0.976) | Everybody Talks (0.00301) |
 | Manhattan (0.972) | If I Go (0.00959) |
-| Desperado - 2013 Remaster (0.946) | Creep (0.0102) |
+| Desperado - 2013 Remaster (0.946) | Creep (0.0097) |
 | When I Was Your Man (0.932) | Oh! Darling - Remastered 2009 (0.0126) |
 | Off My Face (0.92) | Chandelier (0.0197) |
 | Someone Like You (0.893) | Love Song (0.0208) |

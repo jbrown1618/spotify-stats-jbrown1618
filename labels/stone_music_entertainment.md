@@ -132,8 +132,8 @@ Appears as:
 |---:|:---|
 | 53 | [k-pop](../genres/k_pop.md) |
 | 17 | [k-pop girl group](../genres/k_pop_girl_group.md) |
-| 12 | [pop](../genres/pop.md) |
 | 9 | korean r&b |
+| 8 | [pop](../genres/pop.md) |
 | 7 | [k-pop boy group](../genres/k_pop_boy_group.md) |
 | 4 | korean pop |
 | 2 | korean ost |

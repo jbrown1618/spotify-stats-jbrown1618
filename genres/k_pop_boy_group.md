@@ -49,7 +49,7 @@
 | 1 | <img src="nan" alt="" width="50" /> | Changbin | [🔗](https://open.spotify.com/artist/5OTVNUu0UHn6ddPyEAi419) |
 | 1 | <img src="nan" alt="" width="50" /> | Bang Chan | [🔗](https://open.spotify.com/artist/4qy7HANJDOZRObts4Z0KSV) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6034058cfde0084f922bb284" alt="" width="50" /> | ASTRO | [🔗](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734b539c36c6dd01dada408f93" alt="" width="50" /> | DKB | [🔗](https://open.spotify.com/artist/4DoedGw38ubJdAT1edFsIx) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d51ab93be9525e124f4a6a58" alt="" width="50" /> | DKB | [🔗](https://open.spotify.com/artist/4DoedGw38ubJdAT1edFsIx) |
 | 1 | <img src="https://i.scdn.co/image/ab6772690000c46cc8a347829c638ae6bbdb8434" alt="" width="50" /> | ONEWE | [🔗](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebaccf8c8763bf2fa909677c71" alt="" width="50" /> | DKZ | [🔗](https://open.spotify.com/artist/31eyTcfjAke5hFX3az3nRE) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27323bd8b27aeb3ad6d4f4339c4" alt="" width="50" /> | Wanna One | [🔗](https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx) |
