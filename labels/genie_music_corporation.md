@@ -159,7 +159,7 @@ Appears as:
 | 57 | [k-pop](../genres/k_pop.md) |
 | 14 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 | 13 | korean r&b |
-| 8 | [pop](../genres/pop.md) |
+| 12 | [pop](../genres/pop.md) |
 | 8 | [k-pop boy group](../genres/k_pop_boy_group.md) |
 | 7 | korean pop |
 | 3 | korean ost |

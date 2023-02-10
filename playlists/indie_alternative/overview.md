@@ -318,11 +318,12 @@
 | 62 | [pop](../../genres/pop.md) |
 | 27 | [rock](../../genres/rock.md) |
 | 26 | indie pop |
-| 22 | [electropop](../../genres/electropop.md) |
+| 23 | [electropop](../../genres/electropop.md) |
 | 22 | [dance pop](../../genres/dance_pop.md) |
 | 21 | [art pop](../../genres/art_pop.md) |
 | 20 | permanent wave |
 | 20 | modern rock |
+| 17 | [lilith](../../genres/lilith.md) |
 | 17 | baroque pop |
 | 17 | alternative rock |
 | 16 | uk alternative pop |
@@ -332,7 +333,6 @@
 | 14 | melancholia |
 | 14 | indie rock |
 | 14 | art rock |
-| 13 | [lilith](../../genres/lilith.md) |
 | 12 | metropopolis |
 | 11 | australian pop |
 | 10 | [pop rock](../../genres/pop_rock.md) |

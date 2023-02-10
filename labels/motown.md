@@ -64,7 +64,7 @@ Appears as:
 |---:|:---|
 | 12 | motown |
 | 10 | soul |
-| 9 | funk |
+| 10 | funk |
 | 8 | [adult standards](../genres/adult_standards.md) |
 | 5 | quiet storm |
 | 5 | classic soul |

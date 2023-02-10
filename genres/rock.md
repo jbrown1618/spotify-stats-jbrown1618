@@ -1,6 +1,6 @@
 # rock
 
-[155 songs](rock_tracks.md)
+[153 songs](rock_tracks.md)
 
 ## Top Artists
 
@@ -10,7 +10,7 @@
 
 
 <details>
-<summary>See all 38 artists</summary>
+<summary>See all 37 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -37,7 +37,6 @@
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebe924bdfec5ce73220c15cd25" alt="" width="50" /> | Kansas | [🔗](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb1f764c8f69b595efe77e1c45" alt="" width="50" /> | Paul Simon | [🔗](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd3cb15a8570cce5a63af63d8" alt="" width="50" /> | The Rolling Stones | [🔗](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf84fe9e6fbb2aa001d6cbbd9" alt="" width="50" /> | Mastodon | [🔗](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb0767e116a2307495e37cd7fb" alt="" width="50" /> | Eagles | [🔗](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc4c77549095c86acb4e77b37" alt="" width="50" /> | AC/DC | [🔗](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc52c8e309e46aa8430a0fa0" alt="" width="50" /> | Iron Maiden | [🔗](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) |
@@ -61,7 +60,7 @@
 
 
 <details>
-<summary>See all 98 albums</summary>
+<summary>See all 96 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -128,7 +127,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="" width="50" /> | Pablo Honey | 1993-02-22 | [🔗](https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="" width="50" /> | Out Of Our Heads | 1965-07-30 | [🔗](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a9e6856251d6c4b13167924a" alt="" width="50" /> | Origin of Symmetry | 2001 | [🔗](https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736faddf21400e22f617bcd2e4" alt="" width="50" /> | Once More 'Round the Sun | 2014-06-20 | [🔗](https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" alt="" width="50" /> | Night Visions | 2012-09-04 | [🔗](https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9" alt="" width="50" /> | My Generation (Stereo Version) | 1965-12-03 | [🔗](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273360a1ae790aa71a0aac4983e" alt="" width="50" /> | More of The Monkees (Deluxe Edition) | 1967-01-09 | [🔗](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) |
@@ -136,7 +134,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f22514855a9a8356664340fb" alt="" width="50" /> | Moondance (Deluxe Edition) | 1970-02 | [🔗](https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="" width="50" /> | Mellon Collie And The Infinite Sadness (Deluxe Edition) | 1995 | [🔗](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273bc9b44e950d5440ff65ea926" alt="" width="50" /> | Machine Head | 1972-03-25 | [🔗](https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27300388d66c87c2c0033849bfd" alt="" width="50" /> | Leviathan | 2004-08-31 | [🔗](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731be40e44db112e123e5e8b51" alt="" width="50" /> | Leftoverture (Expanded Edition) | 1976 | [🔗](https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb" alt="" width="50" /> | Led Zeppelin III (Remaster) | 1970 | [🔗](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151" alt="" width="50" /> | Kid A | 2000-10-02 | [🔗](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) |
@@ -173,7 +170,7 @@
 
 
 <details>
-<summary>See all 35 labels</summary>
+<summary>See all 33 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -205,8 +202,6 @@
 | 1 | Sanctuary Records |
 | 1 | Roadrunner Records |
 | 1 | Rhino Atlantic |
-| 1 | [Reprise](../labels/reprise.md) |
-| 1 | Relapse Records |
 | 1 | Mercury Records |
 | 1 | Guns N Roses P&D |
 | 1 | Elektra (NEK) |
@@ -233,16 +228,16 @@
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| The Motherload (0.971) | And So It Goes (0.0387) |
-| We Didn't Start the Fire (0.967) | The Boxer (0.0802) |
-| Knights of Cydonia (0.963) | And So It Goes (0.0871) |
-| Sweet Child O' Mine (0.952) | Blackbird - Remastered 2009 (0.127) |
-| Uptown Girl (0.944) | She's Got a Way (0.142) |
-| Go Your Own Way - 2004 Remaster (0.941) | Golden Slumbers - Remastered 2009 (0.152) |
-| Blood and Thunder (0.935) | Lullabye (Goodnight, My Angel) (0.157) |
-| Immigrant Song - Remaster (0.932) | Hurt (0.158) |
-| Any Way You Want It (0.932) | Landslide (0.161) |
-| Scenes from an Italian Restaurant (0.931) | So Far Away (0.172) |
+| We Didn't Start the Fire (0.967) | And So It Goes (0.0387) |
+| Knights of Cydonia (0.963) | The Boxer (0.0802) |
+| Sweet Child O' Mine (0.952) | And So It Goes (0.0871) |
+| Uptown Girl (0.944) | Blackbird - Remastered 2009 (0.127) |
+| Go Your Own Way - 2004 Remaster (0.941) | She's Got a Way (0.142) |
+| Immigrant Song - Remaster (0.932) | Golden Slumbers - Remastered 2009 (0.152) |
+| Any Way You Want It (0.932) | Lullabye (Goodnight, My Angel) (0.157) |
+| Scenes from an Italian Restaurant (0.931) | Hurt (0.158) |
+| Everybody Talks (0.924) | Landslide (0.161) |
+| Supermassive Black Hole (0.921) | So Far Away (0.172) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -259,42 +254,42 @@
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| She's Got a Way (0.97) | The Motherload (7.1e-06) |
-| Lullabye (Goodnight, My Angel) (0.948) | Blood and Thunder (8.58e-06) |
-| Desperado - 2013 Remaster (0.946) | Paranoid - 2012 - Remaster (4.52e-05) |
-| And So It Goes (0.941) | Let Down (0.000121) |
-| Eleanor Rigby - Remastered 2009 (0.936) | Knights of Cydonia (0.000273) |
-| The Boxer (0.93) | Enter Sandman (0.00206) |
-| And So It Goes (0.91) | Any Way You Want It (0.00251) |
-| So Far Away (0.897) | Hard To Handle (0.00257) |
-| Landslide (0.883) | Everybody Talks (0.00301) |
-| Yesterday - Remastered 2009 (0.879) | Carry on Wayward Son (0.00321) |
+| She's Got a Way (0.97) | Paranoid - 2012 - Remaster (4.52e-05) |
+| Lullabye (Goodnight, My Angel) (0.948) | Let Down (0.000121) |
+| Desperado - 2013 Remaster (0.946) | Knights of Cydonia (0.000273) |
+| And So It Goes (0.941) | Enter Sandman (0.00206) |
+| Eleanor Rigby - Remastered 2009 (0.936) | Any Way You Want It (0.00251) |
+| The Boxer (0.93) | Hard To Handle (0.00257) |
+| And So It Goes (0.91) | Everybody Talks (0.00301) |
+| So Far Away (0.897) | Carry on Wayward Son (0.00321) |
+| Landslide (0.883) | Iron Man (0.00367) |
+| Yesterday - Remastered 2009 (0.879) | Animals (0.00571) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Animals (0.796) | We Will Rock You (0.0) |
 | Weird Fishes/ Arpeggi (0.756) | Believer (0.0) |
-| Blood and Thunder (0.729) | Killer Queen (0.0) |
-| Street Spirit (Fade Out) (0.694) | And So It Goes (0.0) |
-| 1979 - Remastered 2012 (0.583) | Crazy Little Thing Called Love (0.0) |
-| Smoke on the Water (0.581) | Ride (0.0) |
-| There, There (0.52) | Everybody Talks (0.0) |
-| All I Need (0.428) | Only the Good Die Young (0.0) |
-| Pyramid Song (0.427) | Yesterday - Remastered 2009 (0.0) |
-| Come Together - Remastered 2009 (0.248) | We Didn't Start the Fire (0.0) |
+| Street Spirit (Fade Out) (0.694) | Killer Queen (0.0) |
+| 1979 - Remastered 2012 (0.583) | And So It Goes (0.0) |
+| Smoke on the Water (0.581) | Crazy Little Thing Called Love (0.0) |
+| There, There (0.52) | Ride (0.0) |
+| All I Need (0.428) | Everybody Talks (0.0) |
+| Pyramid Song (0.427) | Only the Good Die Young (0.0) |
+| Come Together - Remastered 2009 (0.248) | Yesterday - Remastered 2009 (0.0) |
+| Won't Get Fooled Again - Remix (0.235) | We Didn't Start the Fire (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| Animals (0.696) | Blood and Thunder (0.0317) |
-| Radioactive (0.668) | Iron Man (0.0372) |
-| Revolution 1 - Remastered 2009 (0.621) | The Chain - 2004 Remaster (0.0451) |
-| Get Back - Remastered 2009 (0.61) | 1979 - Remastered 2012 (0.0513) |
-| Uptown Girl (0.601) | I Feel the Earth Move (0.0528) |
-| I Am The Walrus - Remastered 2009 (0.589) | Smoke on the Water (0.0535) |
-| Don't Stop Me Now (0.558) | Paranoid Android (0.0545) |
-| Don't Stop Believin' (0.447) | My Life (0.0555) |
-| Carry on Wayward Son (0.446) | Blackbird - Remastered 2009 (0.0573) |
-| Yellow Submarine - Remastered 2009 (0.438) | Hotel California - 2013 Remaster (0.0575) |
+| Animals (0.696) | Iron Man (0.0372) |
+| Radioactive (0.668) | The Chain - 2004 Remaster (0.0451) |
+| Revolution 1 - Remastered 2009 (0.621) | 1979 - Remastered 2012 (0.0513) |
+| Get Back - Remastered 2009 (0.61) | I Feel the Earth Move (0.0528) |
+| Uptown Girl (0.601) | Smoke on the Water (0.0535) |
+| I Am The Walrus - Remastered 2009 (0.589) | Paranoid Android (0.0545) |
+| Don't Stop Me Now (0.558) | My Life (0.0555) |
+| Don't Stop Believin' (0.447) | Blackbird - Remastered 2009 (0.0573) |
+| Carry on Wayward Son (0.446) | Hotel California - 2013 Remaster (0.0575) |
+| Yellow Submarine - Remastered 2009 (0.438) | Won't Get Fooled Again - Remix (0.0584) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|

@@ -357,20 +357,20 @@
 | Number of Tracks | Genre |
 |---:|:---|
 | 616 | [k-pop](../../genres/k_pop.md) |
-| 363 | [pop](../../genres/pop.md) |
+| 368 | [pop](../../genres/pop.md) |
 | 291 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
-| 167 | [dance pop](../../genres/dance_pop.md) |
+| 168 | [dance pop](../../genres/dance_pop.md) |
 | 163 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
 | 103 | [rock](../../genres/rock.md) |
 | 78 | [classic rock](../../genres/classic_rock.md) |
 | 61 | [neo mellow](../../genres/neo_mellow.md) |
-| 58 | [lilith](../../genres/lilith.md) |
+| 59 | [lilith](../../genres/lilith.md) |
 | 55 | [acoustic pop](../../genres/acoustic_pop.md) |
 | 54 | [pop rock](../../genres/pop_rock.md) |
 | 43 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 43 | [hollywood](../../genres/hollywood.md) |
 | 42 | [mellow gold](../../genres/mellow_gold.md) |
-| 36 | [electropop](../../genres/electropop.md) |
+| 38 | [electropop](../../genres/electropop.md) |
 | 34 | [art pop](../../genres/art_pop.md) |
 | 32 | [soft rock](../../genres/soft_rock.md) |
 | 30 | [psychedelic rock](../../genres/psychedelic_rock.md) |
@@ -444,6 +444,7 @@
 | 6 | la indie |
 | 6 | hip pop |
 | 6 | hip hop |
+| 6 | funk |
 | 6 | filter house |
 | 6 | electro |
 | 5 | uk funky |
@@ -453,7 +454,6 @@
 | 5 | jazz pop |
 | 5 | indietronica |
 | 5 | girl group |
-| 5 | funk |
 | 5 | anti-folk |
 | 5 | afrofuturism |
 

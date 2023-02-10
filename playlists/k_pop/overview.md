@@ -355,14 +355,14 @@
 
 
 <details>
-<summary>See all 34 genres</summary>
+<summary>See all 33 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
 | 825 | [k-pop](../../genres/k_pop.md) |
 | 370 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 237 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
-| 53 | [pop](../../genres/pop.md) |
+| 58 | [pop](../../genres/pop.md) |
 | 36 | korean pop |
 | 32 | korean r&b |
 | 22 | anime |
@@ -391,7 +391,6 @@
 | 1 | [electropop](../../genres/electropop.md) |
 | 1 | electronic trap |
 | 1 | danish pop |
-| 1 | chill r&b |
 | 1 | [art pop](../../genres/art_pop.md) |
 
 </details>
