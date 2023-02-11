@@ -30,7 +30,7 @@
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebda5ab23361118f6474d68382" alt="" width="50" /> | Christopher | [🔗](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc19d6c8224e8b1b94bf565e5" alt="" width="50" /> | Perfume | [🔗](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d363b9240b776652114e8d3" alt="" width="50" /> | AKB48 | [🔗](https://open.spotify.com/artist/01wau5CL3Z1vfJJWkzBkqg) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eba788f491b7f731aa08da9725" alt="" width="50" /> | Lothika | [🔗](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd65f14c5c25c7d045c492f07" alt="" width="50" /> | Lothika | [🔗](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27310b4d3c005bf84b2ad4fccc1" alt="" width="50" /> | הפשוטע | [🔗](https://open.spotify.com/artist/7m92aMieltH5ZpodCEHfnb) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd7bb678bef6d2f26110cae49" alt="" width="50" /> | ROSALÍA | [🔗](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb977f248283f291ce1789a7bb" alt="" width="50" /> | Hikaru Utada | [🔗](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) |
@@ -78,7 +78,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733f3d35703bdcd917dad51c4f" alt="" width="50" /> | Shae Gill | [🔗](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9e7b8ff766bcc9adb5a6273e" alt="" width="50" /> | Heuss L'enfoiré | [🔗](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc367faa0cbc1af23a289fb1a" alt="" width="50" /> | Angèle | [🔗](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8f4d36b43fa094d32a167f1e" alt="" width="50" /> | Ashnikko | [🔗](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9535efdcc4cb09bcad47ba55" alt="" width="50" /> | Ashnikko | [🔗](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eba89b57750203c624eed1e837" alt="" width="50" /> | Ali Sethi | [🔗](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb08132734f5756507e29fdf5b" alt="" width="50" /> | Ayumi Hamasaki | [🔗](https://open.spotify.com/artist/3Mvc8kRgr8LRYYgvFmlZqn) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe8b2a45963d5d6e7403699d0" alt="" width="50" /> | Ana Guerra | [🔗](https://open.spotify.com/artist/3MRynBsyLGzv3IQ9Fip6hO) |
@@ -111,7 +111,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9b2f6666f0dbb3234080ce43" alt="" width="50" /> | Static & Ben El | [🔗](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb51feeef21e4e7bc941bc66bc" alt="" width="50" /> | Penny Tai | [🔗](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd30f119ef77a0252e17207cf" alt="" width="50" /> | LiSA | [🔗](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5c60f36c3be72e2745911ff9" alt="" width="50" /> | XG | [🔗](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ecddddcd7a4d93b21324bc5" alt="" width="50" /> | XG | [🔗](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eba0be3f7b3047d01434e03dae" alt="" width="50" /> | Soolking | [🔗](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb72453ad016b059b06fd52569" alt="" width="50" /> | Tainy | [🔗](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc26980c202f33cba1a327306" alt="" width="50" /> | Tani Yuuki | [🔗](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) |
@@ -335,6 +335,7 @@
 | 3 | sunnlensk tonlist |
 | 3 | pop urbaine |
 | 3 | japanese teen pop |
+| 3 | j-poprock |
 | 3 | icelandic pop |
 | 3 | francoton |
 | 3 | bitpop |
@@ -384,7 +385,6 @@
 | 1 | jewish pop |
 | 1 | japanese post-hardcore |
 | 1 | japanese math rock |
-| 1 | j-poprock |
 | 1 | j-pixie |
 | 1 | j-acoustic |
 | 1 | italian pop |

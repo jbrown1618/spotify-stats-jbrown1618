@@ -1,6 +1,6 @@
 # k-pop boy group
 
-[246 songs](k_pop_boy_group_tracks.md)
+[247 songs](k_pop_boy_group_tracks.md)
 
 ## Top Artists
 
@@ -23,8 +23,8 @@
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5eb5d87e2a10ba3b2f8bb2c5270" alt="" width="50" /> | ATEEZ | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5eb63329d77582c519154674fd7" alt="" width="50" /> | TOMORROW X TOGETHER | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bd65b0efee10bfa8328c33b" alt="" width="50" /> | NCT U | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
+| 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb64aa2c83dd30331b56ffddf3" alt="" width="50" /> | NCT DREAM | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9996e5d7c5b769b2b26ff1a" alt="" width="50" /> | SUPER JUNIOR | [🔗](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) |
-| 7 | <img src="https://i.scdn.co/image/ab6761610000e5ebd809a98eed8a673be5ed0576" alt="" width="50" /> | NCT DREAM | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5ebd90aa536055fe9806b3960e6" alt="" width="50" /> | GOT7 | [🔗](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb74f9c3e4ad2e130f8f338858" alt="" width="50" /> | P1Harmony | [🔗](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb7ece2134de8809efcfdc9be7" alt="" width="50" /> | SHINee | [🔗](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) |
@@ -175,11 +175,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 28 record labels](../images/genres/k_pop_boy_group/labels.png)
+![Bar chart of top 29 record labels](../images/genres/k_pop_boy_group/labels.png)
 
 
 <details>
-<summary>See all 28 labels</summary>
+<summary>See all 29 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -204,6 +204,7 @@
 | 2 | Cre.ker Entertainment |
 | 1 | 브레이브 엔터테인먼트 |
 | 1 | ㈜ 동요엔터테인먼트 |
+| 1 | avex trax |
 | 1 | Transparent Arts |
 | 1 | [Sony Music Labels Inc.](../labels/sony_music_labels_inc_.md) |
 | 1 | JELLYFISH ENTERTAINMENT |

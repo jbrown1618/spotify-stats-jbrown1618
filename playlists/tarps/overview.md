@@ -211,7 +211,7 @@
 
 
 <details>
-<summary>See all 88 genres</summary>
+<summary>See all 87 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -250,7 +250,6 @@
 | 2 | motown |
 | 2 | modern folk rock |
 | 2 | [lilith](../../genres/lilith.md) |
-| 2 | funk |
 | 2 | country dawn |
 | 2 | country |
 | 2 | contemporary country |
@@ -278,12 +277,12 @@
 | 1 | lafayette indie |
 | 1 | irish rock |
 | 1 | instrumental bluegrass |
-| 1 | indie poptimism |
 | 1 | [hollywood](../../genres/hollywood.md) |
 | 1 | hip pop |
 | 1 | hip hop |
 | 1 | heartland rock |
 | 1 | girl group |
+| 1 | funk |
 | 1 | europop |
 | 1 | [electropop](../../genres/electropop.md) |
 | 1 | easy listening |

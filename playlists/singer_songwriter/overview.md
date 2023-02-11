@@ -202,7 +202,7 @@
 
 
 <details>
-<summary>See all 51 genres</summary>
+<summary>See all 52 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -256,6 +256,7 @@
 | 1 | canadian pop |
 | 1 | canadian indie |
 | 1 | british soul |
+| 1 | alternative r&b |
 | 1 | alt z |
 
 </details>
