@@ -68,7 +68,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd3a1193ab04e0fb2b297e619" alt="" width="50" /> | Conan Gray | [🔗](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d800f202dd15af03179876b" alt="" width="50" /> | Jess Glynne | [🔗](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd06f948216f34ea0298aef43" alt="" width="50" /> | Caroline Polachek | [🔗](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb36c6d31f2ba27e1431a0e6f1" alt="" width="50" /> | Anjulie | [🔗](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9bb5fe1cb2c6b3c49922212b" alt="" width="50" /> | Anjulie | [🔗](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb379e885a01898367bfcd0c44" alt="" width="50" /> | Caro Emerald | [🔗](https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d998e7541724c918777b8ca" alt="" width="50" /> | League of Legends | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebde30d7c86dfc0bc832b641a3" alt="" width="50" /> | Pink Siifu | [🔗](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) |
@@ -318,11 +318,11 @@
 | 62 | [pop](../../genres/pop.md) |
 | 27 | [rock](../../genres/rock.md) |
 | 26 | indie pop |
-| 22 | [electropop](../../genres/electropop.md) |
-| 22 | [dance pop](../../genres/dance_pop.md) |
+| 23 | [electropop](../../genres/electropop.md) |
 | 21 | [art pop](../../genres/art_pop.md) |
 | 20 | permanent wave |
 | 20 | modern rock |
+| 20 | [dance pop](../../genres/dance_pop.md) |
 | 17 | [lilith](../../genres/lilith.md) |
 | 17 | baroque pop |
 | 17 | alternative rock |

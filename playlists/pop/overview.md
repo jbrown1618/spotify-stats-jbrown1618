@@ -362,7 +362,7 @@
 | 308 | [pop](../../genres/pop.md) |
 | 196 | [dance pop](../../genres/dance_pop.md) |
 | 48 | [post-teen pop](../../genres/post_teen_pop.md) |
-| 30 | [electropop](../../genres/electropop.md) |
+| 31 | [electropop](../../genres/electropop.md) |
 | 29 | [art pop](../../genres/art_pop.md) |
 | 28 | uk pop |
 | 27 | edm |

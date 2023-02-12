@@ -224,7 +224,6 @@
 | 6 | [acoustic pop](../../genres/acoustic_pop.md) |
 | 5 | [pop rock](../../genres/pop_rock.md) |
 | 4 | [mellow gold](../../genres/mellow_gold.md) |
-| 4 | indie folk |
 | 3 | stomp and holler |
 | 3 | [soft rock](../../genres/soft_rock.md) |
 | 3 | [r&b](../../genres/r_b.md) |
@@ -234,6 +233,7 @@
 | 3 | new americana |
 | 3 | neo soul |
 | 3 | merseybeat |
+| 3 | indie folk |
 | 3 | folk rock |
 | 3 | folk |
 | 3 | british soul |

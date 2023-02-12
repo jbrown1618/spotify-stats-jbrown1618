@@ -70,7 +70,7 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5dcabf363571181dba3ecf66" alt="" width="50" /> | Matthew Wilder | [🔗](https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP) |
 | 1 | <img src="nan" alt="" width="50" /> | Zachary Levi | [🔗](https://open.spotify.com/artist/3XSyTI9ct70ZheMESAv2st) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2730716ee3afeb1b43476782864" alt="" width="50" /> | Bill Lee | [🔗](https://open.spotify.com/artist/3UcnwnNwP6egaBs7DAgRdJ) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273fd3f4e16be103260eae7fd16" alt="" width="50" /> | Robby Benson | [🔗](https://open.spotify.com/artist/3QcGV278a6mmLRTOK29WBP) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4dc932abd84f977a7bd80d42" alt="" width="50" /> | Robby Benson | [🔗](https://open.spotify.com/artist/3QcGV278a6mmLRTOK29WBP) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe68295308bfd008cedf0f2c1" alt="" width="50" /> | Jim Cummings | [🔗](https://open.spotify.com/artist/3OIPwMAZipDCLQwHmxS5EG) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfed5626c008ba961a81dd218" alt="" width="50" /> | Dr. John | [🔗](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) |
 | 1 | <img src="https://i.scdn.co/image/038078d1e58100273d291941ce8ef965a62a70c6" alt="" width="50" /> | Marni Nixon | [🔗](https://open.spotify.com/artist/2Npf96k0QoY8YYwqnELDmQ) |
@@ -128,17 +128,17 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 26 genres](../images/labels/walt_disney_records/genres.png)
+![Bar chart of top 27 genres](../images/labels/walt_disney_records/genres.png)
 
 
 <details>
-<summary>See all 26 genres</summary>
+<summary>See all 27 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
 | 37 | [movie tunes](../genres/movie_tunes.md) |
 | 21 | [hollywood](../genres/hollywood.md) |
-| 13 | [show tunes](../genres/show_tunes.md) |
+| 12 | [show tunes](../genres/show_tunes.md) |
 | 4 | tagalog worship |
 | 2 | [post-teen pop](../genres/post_teen_pop.md) |
 | 2 | [dance pop](../genres/dance_pop.md) |
@@ -158,6 +158,7 @@ Appears as:
 | 1 | folk rock |
 | 1 | country rock |
 | 1 | classic uk pop |
+| 1 | [classic rock](../genres/classic_rock.md) |
 | 1 | bubblegum pop |
 | 1 | [broadway](../genres/broadway.md) |
 | 1 | blues rock |

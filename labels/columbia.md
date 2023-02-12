@@ -144,7 +144,7 @@ Appears as:
 
 
 <details>
-<summary>See all 63 genres</summary>
+<summary>See all 62 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -198,7 +198,6 @@ Appears as:
 | 1 | [lilith](../genres/lilith.md) |
 | 1 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 | 1 | [k-pop](../genres/k_pop.md) |
-| 1 | indie folk |
 | 1 | house |
 | 1 | hip pop |
 | 1 | girl group |

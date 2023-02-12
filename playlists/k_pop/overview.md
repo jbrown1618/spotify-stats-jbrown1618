@@ -362,7 +362,7 @@
 | 826 | [k-pop](../../genres/k_pop.md) |
 | 370 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 238 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
-| 59 | [pop](../../genres/pop.md) |
+| 58 | [pop](../../genres/pop.md) |
 | 36 | korean pop |
 | 32 | korean r&b |
 | 22 | anime |
