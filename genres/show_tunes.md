@@ -1,6 +1,6 @@
 # show tunes
 
-[103 songs](show_tunes_tracks.md)
+[104 songs](show_tunes_tracks.md)
 
 ## Top Artists
 
@@ -10,7 +10,7 @@
 
 
 <details>
-<summary>See all 66 artists</summary>
+<summary>See all 67 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -29,7 +29,7 @@
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb223a32141674523a97d0ea50" alt="" width="50" /> | Christopher Jackson | [🔗](https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj) |
 | 7 | <img src="https://i.scdn.co/image/57eaffbd4a9f606a5848ab974cacfa5ba4ca4b59" alt="" width="50" /> | Emmy Rossum | [🔗](https://open.spotify.com/artist/6JcDqt1rBKIWfnoPjXFYqc) |
 | 7 | <img src="https://i.scdn.co/image/8342768be08c1c9bf4af1d4584a103bcb3042704" alt="" width="50" /> | Colm Wilkinson | [🔗](https://open.spotify.com/artist/4hKV8PcRBaHZqBJjSn8OJE) |
-| 6 | <img src="https://i.scdn.co/image/ab6761610000e5ebc698d53b77db34027b00f853" alt="" width="50" /> | [Disney](../artists/disney.md) | [🔗](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) |
+| 7 | <img src="https://i.scdn.co/image/ab6761610000e5ebc698d53b77db34027b00f853" alt="" width="50" /> | [Disney](../artists/disney.md) | [🔗](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) |
 | 5 | <img src="https://i.scdn.co/image/ab67616d0000b27309f636a08b6f3c5c6368a58c" alt="" width="50" /> | Gerard Butler | [🔗](https://open.spotify.com/artist/7H25O93TTUoaZ0ZaFk318U) |
 | 5 | <img src="https://i.scdn.co/image/ab67616d0000b2735fe78562e8ab0b95a2349f54" alt="" width="50" /> | Renée Elise Goldsberry | [🔗](https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu) |
 | 5 | <img src="https://i.scdn.co/image/191d9c926a51e6d0abc49b7416689b52a2662efc" alt="" width="50" /> | Lea Salonga | [🔗](https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv) |
@@ -60,6 +60,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27317f613f05ec89836d8c4ad0c" alt="" width="50" /> | Jerry Orbach | [🔗](https://open.spotify.com/artist/5i2OpmeVKsmViqoETxuOvO) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2730cc79e7adefed420553e65fe" alt="" width="50" /> | Jason Weaver | [🔗](https://open.spotify.com/artist/5UdPkKWd8YNR5xGcmqH9QJ) |
 | 1 | <img src="nan" alt="" width="50" /> | John Aron | [🔗](https://open.spotify.com/artist/5Hco9oOhEcTrU0hzzIkoF7) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb583a4cf451be21040cfaa0a4" alt="" width="50" /> | Jodi Benson | [🔗](https://open.spotify.com/artist/4mmMtabvFCKA6HfmVmitNH) |
 | 1 | <img src="nan" alt="" width="50" /> | Thayne Jasperson | [🔗](https://open.spotify.com/artist/4lSm9vkdpKSs1O8nKflRaB) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0011a003b54943e02654e1f4" alt="" width="50" /> | Samantha Barks | [🔗](https://open.spotify.com/artist/4gOl5m9dY7IGAipqpul7GZ) |
 | 1 | <img src="nan" alt="" width="50" /> | Chorus - Mulan | [🔗](https://open.spotify.com/artist/4KpdqBDU2C5gB3vhdojuqA) |
@@ -85,11 +86,11 @@
 
 ## Top Albums
 
-![Bar chart of top 15 albums](../images/genres/show_tunes/albums.png)
+![Bar chart of top 16 albums](../images/genres/show_tunes/albums.png)
 
 
 <details>
-<summary>See all 15 albums</summary>
+<summary>See all 16 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -101,6 +102,7 @@
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="" width="50" /> | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) | 2013-01-01 | [🔗](https://open.spotify.com/album/0I6Bl1dVB1hQsSoQF6KuTg) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273281dfd7af2ee99a124404623" alt="" width="50" /> | Pocahontas | 1995-01-01 | [🔗](https://open.spotify.com/album/7L6kEZVkWh7OEI71b1JHZd) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="" width="50" /> | Beauty and the Beast | 1991-01-01 | [🔗](https://open.spotify.com/album/3O5p9VNddbwvqWTdYKEqV5) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="" width="50" /> | The Little Mermaid Special Edition | 2006-01-01 | [🔗](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | The Lion King | 1994-01-01 | [🔗](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273dda924a83894bc750e69845a" alt="" width="50" /> | The Journey so Far | 2011-08-09 | [🔗](https://open.spotify.com/album/3zr8JDmixklHY1sOURyfoK) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733505183cc0e24d2f7560174a" alt="" width="50" /> | Moana (Original Motion Picture Soundtrack/Deluxe Edition) | 2016-11-18 | [🔗](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) |
@@ -124,7 +126,7 @@
 |---:|:---|
 | 44 | [Atlantic Records](../labels/atlantic_records.md) |
 | 24 | [Polydor Records](../labels/polydor_records.md) |
-| 12 | [Walt Disney Records](../labels/walt_disney_records.md) |
+| 13 | [Walt Disney Records](../labels/walt_disney_records.md) |
 | 11 | [Verve (Adult Contemporary) MC](../labels/verve__adult_contemporary__mc.md) |
 | 10 | [UMC (Universal Music Catalogue)](../labels/umc__universal_music_catalogue_.md) |
 | 1 | [Sony Music Labels Inc.](../labels/sony_music_labels_inc_.md) |

@@ -33,7 +33,7 @@
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb654972693e0efed3f3f4d090" alt="" width="50" /> | Jason Derulo | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb3ea2c03525939b482f8d3bfd" alt="" width="50" /> | Janelle Monáe | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410" alt="" width="50" /> | Clean Bandit | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
-| 5 | <img src="https://i.scdn.co/image/ab6761610000e5ebabfac786f093c4da55c99d4e" alt="" width="50" /> | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
+| 5 | <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | Coldplay | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | Justin Bieber | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | Nicki Minaj | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
@@ -359,8 +359,8 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 308 | [pop](../../genres/pop.md) |
-| 196 | [dance pop](../../genres/dance_pop.md) |
+| 309 | [pop](../../genres/pop.md) |
+| 197 | [dance pop](../../genres/dance_pop.md) |
 | 48 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 31 | [electropop](../../genres/electropop.md) |
 | 29 | [art pop](../../genres/art_pop.md) |

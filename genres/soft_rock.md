@@ -1,16 +1,16 @@
 # soft rock
 
-[59 songs](soft_rock_tracks.md)
+[58 songs](soft_rock_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 22 artists](../images/genres/soft_rock/artists.png)
+![Bar chart of top 21 artists](../images/genres/soft_rock/artists.png)
 
 ![Comparison of Artist](../images/genres/soft_rock/artists_comparison.png)
 
 
 <details>
-<summary>See all 22 artists</summary>
+<summary>See all 21 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -28,7 +28,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb21a213a4fe1a6f9b45d3f7f9" alt="" width="50" /> | Commodores | [🔗](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb624ddceb90bdf808ed4e2e35" alt="" width="50" /> | Steve Miller Band | [🔗](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb338d6964565206f741d5ad1" alt="" width="50" /> | Foreigner | [🔗](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe86f788af4e127154da1257f" alt="" width="50" /> | Bonnie Raitt | [🔗](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273743ebb11200358b5c050f542" alt="" width="50" /> | Harry Chapin | [🔗](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebbab088e2157b02848dfcbc1e" alt="" width="50" /> | Chicago | [🔗](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) |
 | 1 | <img src="https://i.scdn.co/image/ab6772690000c46cb8af37ba12c1ad7ebcc63c25" alt="" width="50" /> | Frankie Valli | [🔗](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) |
@@ -45,7 +44,7 @@
 
 
 <details>
-<summary>See all 43 albums</summary>
+<summary>See all 42 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -77,7 +76,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273360a1ae790aa71a0aac4983e" alt="" width="50" /> | More of The Monkees (Deluxe Edition) | 1967-01-09 | [🔗](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27369bb57791f9859f2695391f7" alt="" width="50" /> | Moondance (Expanded Edition) | 1970-02 | [🔗](https://open.spotify.com/album/6yNYC35npMBHbxG0Vle83O) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f22514855a9a8356664340fb" alt="" width="50" /> | Moondance (Deluxe Edition) | 1970-02 | [🔗](https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1113af3a19a41dc8eec534e" alt="" width="50" /> | Luck Of The Draw | 1991-01-01 | [🔗](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731be40e44db112e123e5e8b51" alt="" width="50" /> | Leftoverture (Expanded Edition) | 1976 | [🔗](https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731b2a9188ac775e16998eb78d" alt="" width="50" /> | Infinity | 1978 | [🔗](https://open.spotify.com/album/7K4Nk5fHkCuzNm5A6mdo2U) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53" alt="" width="50" /> | Hunting High and Low | 1985-06-01 | [🔗](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) |
@@ -98,11 +96,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 16 record labels](../images/genres/soft_rock/labels.png)
+![Bar chart of top 15 record labels](../images/genres/soft_rock/labels.png)
 
 
 <details>
-<summary>See all 16 labels</summary>
+<summary>See all 15 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -119,7 +117,6 @@
 | 1 | Volcano |
 | 1 | Rhino Atlantic |
 | 1 | [MOTOWN](../labels/motown.md) |
-| 1 | [Capitol Records](../labels/capitol_records.md) |
 | 1 | CAPITOL CATALOG MKT (C92) |
 | 1 | Bee Gees Catalog |
 
@@ -147,12 +144,12 @@
 | Uptown Girl (0.944) | The Boxer (0.0802) |
 | Go Your Own Way - 2004 Remaster (0.941) | And So It Goes (0.0871) |
 | Any Way You Want It (0.932) | She's Got a Way (0.142) |
-| Scenes from an Italian Restaurant (0.931) | I Can't Make You Love Me (0.149) |
-| Take on Me (0.902) | Lullabye (Goodnight, My Angel) (0.157) |
-| Movin' Out (Anthony's Song) (0.88) | Landslide (0.161) |
-| The Stranger (0.878) | So Far Away (0.172) |
-| Only the Good Die Young (0.872) | Crazy Love - 2013 Remaster (0.188) |
-| 25 or 6 to 4 (0.869) | Desperado - 2013 Remaster (0.224) |
+| Scenes from an Italian Restaurant (0.931) | Lullabye (Goodnight, My Angel) (0.157) |
+| Take on Me (0.902) | Landslide (0.161) |
+| Movin' Out (Anthony's Song) (0.88) | So Far Away (0.172) |
+| The Stranger (0.878) | Crazy Love - 2013 Remaster (0.188) |
+| Only the Good Die Young (0.872) | Desperado - 2013 Remaster (0.224) |
+| 25 or 6 to 4 (0.869) | Crazy Love (0.236) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -178,7 +175,7 @@
 | So Far Away (0.897) | Go Your Own Way - 2004 Remaster (0.0167) |
 | Landslide (0.883) | Take on Me (0.018) |
 | Crazy Love (0.85) | Cold as Ice (0.0264) |
-| I Can't Make You Love Me (0.846) | Stayin Alive (0.0328) |
+| Crazy Love - 2013 Remaster (0.841) | Stayin Alive (0.0328) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
@@ -208,13 +205,13 @@
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| I'm a Believer - 2006 Remaster (0.962) | I Can't Make You Love Me (0.113) |
-| Stayin Alive (0.949) | Come Sail Away (0.141) |
-| Brown Eyed Girl (0.908) | Desperado - 2013 Remaster (0.18) |
-| Movin' Out (Anthony's Song) (0.895) | New York State of Mind (0.194) |
-| We Didn't Start the Fire (0.895) | She's Got a Way (0.196) |
-| A Matter of Trust (0.88) | Lullabye (Goodnight, My Angel) (0.22) |
-| Take on Me (0.876) | The Stranger (0.222) |
-| Don't Ask Me Why (0.868) | And So It Goes (0.24) |
-| Pressure (0.851) | Vienna (0.308) |
-| Go Your Own Way - 2004 Remaster (0.831) | Fields Of Gold (0.32) |
+| I'm a Believer - 2006 Remaster (0.962) | Come Sail Away (0.141) |
+| Stayin Alive (0.949) | Desperado - 2013 Remaster (0.18) |
+| Brown Eyed Girl (0.908) | New York State of Mind (0.194) |
+| Movin' Out (Anthony's Song) (0.895) | She's Got a Way (0.196) |
+| We Didn't Start the Fire (0.895) | Lullabye (Goodnight, My Angel) (0.22) |
+| A Matter of Trust (0.88) | The Stranger (0.222) |
+| Take on Me (0.876) | And So It Goes (0.24) |
+| Don't Ask Me Why (0.868) | Vienna (0.308) |
+| Pressure (0.851) | Fields Of Gold (0.32) |
+| Go Your Own Way - 2004 Remaster (0.831) | Crazy Love (0.325) |

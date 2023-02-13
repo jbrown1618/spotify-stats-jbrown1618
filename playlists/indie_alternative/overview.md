@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273028c3bb4b81ee71dd73d1596ab67616d0000b27392c885317fbe4bfa680109b4ab67616d0000b273d0ec2db731952a7efabc6397ab67616d0000b273f6749fd9a1027b244f061e87" alt="Indie/Alternative" width="100" />
 
-[187 songs](tracks.md)
+[190 songs](tracks.md)
 
 ## Top Artists
 
@@ -18,9 +18,9 @@
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
 | 17 | <img src="https://i.scdn.co/image/ab6761610000e5eb4765d540a1ebedeb7c9637a2" alt="" width="50" /> | [Kimbra](../../artists/kimbra.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
+| 17 | <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | [Florence + The Machine](../../artists/florence___the_machine.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
 | 17 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | [Lana Del Rey](../../artists/lana_del_rey.md) | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
-| 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | [Florence + The Machine](../../artists/florence___the_machine.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
-| 14 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../../artists/radiohead.md) | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
+| 16 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../../artists/radiohead.md) | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | Imogen Heap | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5ebec40474426f4401a4203dc9f" alt="" width="50" /> | Sia | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb83c74866e5bc047479cd3413" alt="" width="50" /> | Sammy Rae & The Friends | [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) |
@@ -122,9 +122,10 @@
 | 6 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Ceremonials (Deluxe Edition) | 2011-01-01 | [🔗](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) |
 | 6 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Born To Die | 2012-01-30 | [🔗](https://open.spotify.com/album/4X8hAqIWpQyQks2yRhyqs4) |
 | 5 | <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="" width="50" /> | Primal Heart | 2018-04-20 | [🔗](https://open.spotify.com/album/4pj0BkJ7u39i009oqe8V79) |
+| 5 | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | OK Computer | 1997-05-28 | [🔗](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273754b2fddebe7039fdb912837" alt="" width="50" /> | This Is Acting (Deluxe Version) | 2016-10-21 | [🔗](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273c1b7ec01d1c069683ddbe76e" alt="" width="50" /> | The Good Life | 2018-07-10 | [🔗](https://open.spotify.com/album/2xCZSSa0kfIJFDhQR8bYar) |
-| 4 | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | OK Computer | 1997-05-28 | [🔗](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) |
+| 4 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="" width="50" /> | In Rainbows | 2007-12-28 | [🔗](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273cd519fa579f43e384aa891f1" alt="" width="50" /> | Finally Woken | 2004-03-23 | [🔗](https://open.spotify.com/album/3RkjNfqqlhWyLrRp0ZCARU) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="" width="50" /> | Ellipse | 2009-08-25 | [🔗](https://open.spotify.com/album/5AYKGPzPBJNHeKehCxMaq0) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="" width="50" /> | Beatrix Runs | 2012 | [🔗](https://open.spotify.com/album/7HsPaYQbCYnxosF5WiSlEA) |
@@ -135,7 +136,6 @@
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273866872ba52cf201fc33995cc" alt="" width="50" /> | Speak for Yourself | 2005-07-18 | [🔗](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="" width="50" /> | Norman Fucking Rockwell! | 2019-08-30 | [🔗](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | More Adventurous (U.S. Release) | 2004-07-27 | [🔗](https://open.spotify.com/album/4n36X2GMJ84BKh9D9zMRVI) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="" width="50" /> | In Rainbows | 2007-12-28 | [🔗](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | How Big, How Blue, How Beautiful | 2015-06-01 | [🔗](https://open.spotify.com/album/2btszoya78vyT8fwelmVnz) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273183730e8038fa632b2c227da" alt="" width="50" /> | Eye To The Telescope | 2005-01-01 | [🔗](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2732d81f491319b86356eb10c4e" alt="" width="50" /> | Begin to Hope | 2006-06-13 | [🔗](https://open.spotify.com/album/4L4tcx3itXbtx5kuchKhFE) |
@@ -209,6 +209,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ef54c10b95411c51b9ab873b" alt="" width="50" /> | Deleted Scenes From The Cutting Room Floor | 2010-01-29 | [🔗](https://open.spotify.com/album/1D8grnftAaivpmBkayUgMR) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738a2de91e5b26f31388d4c049" alt="" width="50" /> | Darling | 2017-02-03 | [🔗](https://open.spotify.com/album/7pDkPCnYRapjr8dXcwkNIB) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27345637d4f339bac296ba9d5e7" alt="" width="50" /> | Dark Passion Play | 2007 | [🔗](https://open.spotify.com/album/4oOfQhhbHBfIcIDwuJjwTy) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735fd9e21618182df7d70b2186" alt="" width="50" /> | Dance Fever | 2022-05-13 | [🔗](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="" width="50" /> | Chosen | 2017-12-08 | [🔗](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="" width="50" /> | CRASH | 2022-03-18 | [🔗](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734b20e4a8e06f19bcd51a5406" alt="" width="50" /> | Bombs Away | 2015-03-10 | [🔗](https://open.spotify.com/album/2Yi29VOccHCwktsZNqtxbt) |
@@ -216,7 +217,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273e0fe249ba64c4b0cd85f3ef6" alt="" width="50" /> | Billions | 2022-02-09 | [🔗](https://open.spotify.com/album/4DpAPqdJ1jVhoWZrxWLRH5) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b0ed835957dbf3c63184a3bc" alt="" width="50" /> | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] | 2022-02-25 | [🔗](https://open.spotify.com/album/6snPKZGUbpydW2XJu9ievq) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733a2a91f99d869c4ca51362ff" alt="" width="50" /> | Aussie Legends | 2019-11-22 | [🔗](https://open.spotify.com/album/3IGRFGa4ErR0CU8aMMrRql) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27398d4c378a8c78e84bfcf7743" alt="" width="50" /> | Anjulie | 2009-01-01 | [🔗](https://open.spotify.com/album/13ablPhINDfXMbbvgX7eLw) |
 
 </details>
 
@@ -232,10 +232,10 @@
 | Number of Tracks | Label |
 |---:|:---|
 | 22 | [Warner Records](../../labels/warner_records.md) |
-| 18 | [Polydor Records](../../labels/polydor_records.md) |
+| 19 | [Polydor Records](../../labels/polydor_records.md) |
+| 16 | [XL Recordings](../../labels/xl_recordings.md) |
 | 15 | [Universal-Island Records Ltd.](../../labels/universal_island_records_ltd_.md) |
 | 15 | [RCA Records Label](../../labels/rca_records_label.md) |
-| 14 | [XL Recordings](../../labels/xl_recordings.md) |
 | 8 | Monkey Puzzle Records |
 | 7 | Nettwerk Records |
 | 5 | Lux Finite Music |
@@ -315,24 +315,24 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 62 | [pop](../../genres/pop.md) |
-| 27 | [rock](../../genres/rock.md) |
+| 63 | [pop](../../genres/pop.md) |
+| 29 | [rock](../../genres/rock.md) |
 | 26 | indie pop |
-| 23 | [electropop](../../genres/electropop.md) |
+| 22 | permanent wave |
+| 22 | [electropop](../../genres/electropop.md) |
 | 21 | [art pop](../../genres/art_pop.md) |
-| 20 | permanent wave |
 | 20 | modern rock |
 | 20 | [dance pop](../../genres/dance_pop.md) |
+| 19 | alternative rock |
+| 18 | baroque pop |
+| 17 | uk alternative pop |
 | 17 | [lilith](../../genres/lilith.md) |
-| 17 | baroque pop |
-| 17 | alternative rock |
-| 16 | uk alternative pop |
+| 16 | oxford indie |
 | 16 | nz pop |
+| 16 | melancholia |
 | 16 | bergen indie |
-| 14 | oxford indie |
-| 14 | melancholia |
+| 16 | art rock |
 | 14 | indie rock |
-| 14 | art rock |
 | 12 | metropopolis |
 | 11 | australian pop |
 | 10 | [pop rock](../../genres/pop_rock.md) |
@@ -430,7 +430,7 @@
 | Year | Number of Tracks |
 |:---|---:|
 | 2023 | 3 |
-| 2022 | 6 |
+| 2022 | 7 |
 | 2021 | 1 |
 | 2020 | 6 |
 | 2019 | 9 |
@@ -445,7 +445,7 @@
 | 2010 | 1 |
 | 2009 | 14 |
 | 2008 | 2 |
-| 2007 | 7 |
+| 2007 | 8 |
 | 2006 | 7 |
 | 2005 | 8 |
 | 2004 | 9 |
@@ -454,7 +454,7 @@
 | 2001 | 3 |
 | 2000 | 1 |
 | 1998 | 1 |
-| 1997 | 4 |
+| 1997 | 5 |
 | 1995 | 5 |
 | 1994 | 1 |
 | 1993 | 1 |
@@ -467,13 +467,13 @@
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c1b217d3bb2ef206b92cd968" alt="A Reckoning" width="50" /> <span style="padding-left:10px;">A Reckoning (2023-01-27)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="Pablo Honey" width="50" /> <span style="padding-left:10px;">Pablo Honey (1993-02-22)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2730fdfb62956211c999c39a5a3" alt="Surrender" width="50" /> <span style="padding-left:10px;">Surrender (2022-07-29)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f69bd9abbfeb819840993207" alt="The Downward Spiral" width="50" /> <span style="padding-left:10px;">The Downward Spiral (1994-03-08)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318" alt="Guitar Songs" width="50" /> <span style="padding-left:10px;">Guitar Songs (2022-07-21)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="Mellon Collie And The Infinite Sadness (Deluxe Edition)" width="50" /> <span style="padding-left:10px;">Mellon Collie And The Infinite Sadness (Deluxe Edition) (1995)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d5f3de2d6bacdfe22f1f0d52" alt="A New Kind Of Love (Demo)" width="50" /> <span style="padding-left:10px;">A New Kind Of Love (Demo) (2022-04-08)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="The Bends" width="50" /> <span style="padding-left:10px;">The Bends (1995-03-13)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="CRASH" width="50" /> <span style="padding-left:10px;">CRASH (2022-03-18)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27392c885317fbe4bfa680109b4" alt="Jagged Little Pill" width="50" /> <span style="padding-left:10px;">Jagged Little Pill (1995-06-09)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b0ed835957dbf3c63184a3bc" alt="Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama]" width="50" /> <span style="padding-left:10px;">Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (2022-02-25)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> <span style="padding-left:10px;">OK Computer (1997-05-28)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e0fe249ba64c4b0cd85f3ef6" alt="Billions" width="50" /> <span style="padding-left:10px;">Billions (2022-02-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273589ce9a911c6e65b1f80c558" alt="In the Aeroplane Over the Sea" width="50" /> <span style="padding-left:10px;">In the Aeroplane Over the Sea (1998-02-20)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732ced1760b648799e697e8e02" alt="Taxidriver OST Part.1" width="50" /> <span style="padding-left:10px;">Taxidriver OST Part.1 (2021-04-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151" alt="Kid A" width="50" /> <span style="padding-left:10px;">Kid A (2000-10-02)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="ALL OUT" width="50" /> <span style="padding-left:10px;">ALL OUT (2020-11-06)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a9e6856251d6c4b13167924a" alt="Origin of Symmetry" width="50" /> <span style="padding-left:10px;">Origin of Symmetry (2001)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733ec9036a9f7289e924194bec" alt="Tick Tock (feat. 24kGoldn)" width="50" /> <span style="padding-left:10px;">Tick Tock (feat. 24kGoldn) (2020-08-21)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737948eec521c67e76cafe30a0" alt="Trading Snakeoil for Wolftickets" width="50" /> <span style="padding-left:10px;">Trading Snakeoil for Wolftickets (2001-01-01)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2735fd9e21618182df7d70b2186" alt="Dance Fever" width="50" /> <span style="padding-left:10px;">Dance Fever (2022-05-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="The Bends" width="50" /> <span style="padding-left:10px;">The Bends (1995-03-13)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d5f3de2d6bacdfe22f1f0d52" alt="A New Kind Of Love (Demo)" width="50" /> <span style="padding-left:10px;">A New Kind Of Love (Demo) (2022-04-08)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27392c885317fbe4bfa680109b4" alt="Jagged Little Pill" width="50" /> <span style="padding-left:10px;">Jagged Little Pill (1995-06-09)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="CRASH" width="50" /> <span style="padding-left:10px;">CRASH (2022-03-18)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> <span style="padding-left:10px;">OK Computer (1997-05-28)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b0ed835957dbf3c63184a3bc" alt="Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama]" width="50" /> <span style="padding-left:10px;">Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (2022-02-25)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273589ce9a911c6e65b1f80c558" alt="In the Aeroplane Over the Sea" width="50" /> <span style="padding-left:10px;">In the Aeroplane Over the Sea (1998-02-20)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e0fe249ba64c4b0cd85f3ef6" alt="Billions" width="50" /> <span style="padding-left:10px;">Billions (2022-02-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151" alt="Kid A" width="50" /> <span style="padding-left:10px;">Kid A (2000-10-02)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732ced1760b648799e697e8e02" alt="Taxidriver OST Part.1" width="50" /> <span style="padding-left:10px;">Taxidriver OST Part.1 (2021-04-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a9e6856251d6c4b13167924a" alt="Origin of Symmetry" width="50" /> <span style="padding-left:10px;">Origin of Symmetry (2001)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="ALL OUT" width="50" /> <span style="padding-left:10px;">ALL OUT (2020-11-06)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737948eec521c67e76cafe30a0" alt="Trading Snakeoil for Wolftickets" width="50" /> <span style="padding-left:10px;">Trading Snakeoil for Wolftickets (2001-01-01)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
@@ -486,8 +486,8 @@
 | Dreamer (0.802) | Shades Of Cool (0.262) |
 | Rather Be (feat. Jess Glynne) (0.799) | That's Where I Am (0.269) |
 | still feel. (0.779) | In the Aeroplane Over the Sea (0.271) |
-| Tick Tock (feat. 24kGoldn) (0.779) | Everything In Its Right Place (0.296) |
-| Believer (0.776) | Radio (0.312) |
+| Tick Tock (feat. 24kGoldn) (0.779) | Exit Music (For A Film) (0.293) |
+| Believer (0.776) | Everything In Its Right Place (0.296) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -559,10 +559,10 @@
 | 1979 - Remastered 2012 (0.964) | Swan Song (0.0392) |
 | Tick Tock (feat. 24kGoldn) (0.946) | What Sarah Said (0.0401) |
 | Earth (0.938) | A Better Son/Daughter (0.0473) |
-| Come On Closer (0.928) | Everything In Its Right Place (0.0629) |
-| Black Horse And The Cherry Tree (0.917) | Pyramid Song (0.0686) |
-| That Man (0.903) | Waltz Me to the Grave (0.0748) |
-| Good Intent (0.834) | How Big, How Blue, How Beautiful (0.0825) |
-| Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (0.824) | Hurt (0.0826) |
-| Flesh & Bone (0.824) | Shades Of Cool (0.0878) |
-| Kick It to Me (0.82) | Hide and Seek (0.0901) |
+| Come On Closer (0.928) | Free (0.0494) |
+| Black Horse And The Cherry Tree (0.917) | Everything In Its Right Place (0.0629) |
+| That Man (0.903) | Pyramid Song (0.0686) |
+| Good Intent (0.834) | Waltz Me to the Grave (0.0748) |
+| Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (0.824) | How Big, How Blue, How Beautiful (0.0825) |
+| Flesh & Bone (0.824) | Hurt (0.0826) |
+| Kick It to Me (0.82) | Shades Of Cool (0.0878) |

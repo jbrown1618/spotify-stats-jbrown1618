@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2738cab1c75d2271af37c3e2db9ab67616d0000b273d2ef237da7f94762997c2083ab67616d0000b273e9cd59d664f597061a513038ab67616d0000b273ed10325dc317f32df83990b9" alt="Recent Comebacks" width="100" />
 
-[73 songs](tracks.md)
+[74 songs](tracks.md)
 
 ## Top Artists
 
@@ -13,7 +13,7 @@
 
 
 <details>
-<summary>See all 36 artists</summary>
+<summary>See all 37 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -48,6 +48,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf1d6a7c024d667150db85c85" alt="" width="50" /> | TEN | [🔗](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5045a0e0d423ce29d6b14ebd" alt="" width="50" /> | TREASURE | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb106f77e59715b43f713c68bc" alt="" width="50" /> | &TEAM | [🔗](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eba3c1fca063ed673aed61c885" alt="" width="50" /> | YOUHA | [🔗](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc04289f84778ad850cfcddca" alt="" width="50" /> | Jimin | [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a3393ac350ee2c447494a83" alt="" width="50" /> | HUH YUNJIN | [🔗](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../../artists/mamamoo.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
@@ -63,7 +64,7 @@
 
 
 <details>
-<summary>See all 33 albums</summary>
+<summary>See all 34 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -86,6 +87,7 @@
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2735f3ae8db55f4507baf0ef0dd" alt="" width="50" /> | Lowlife Princess: Noir | 2022-11-18 | [🔗](https://open.spotify.com/album/0AwCgoJKJUOgLp1imhnxuH) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Girls - The 2nd Mini Album | 2022-07-08 | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | CHESHIRE | 2022-11-30 | [🔗](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27357a6f5928952c277c4407f98" alt="" width="50" /> | love you more, | 2022-08-25 | [🔗](https://open.spotify.com/album/3g2OiEeQKfggUe6ViYeLSC) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f7994d33de90ec347aa477c3" alt="" width="50" /> | VIBE (feat. Jimin of BTS) | 2023-01-13 | [🔗](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2730d9c2a11edd1a7efcd73f0d1" alt="" width="50" /> | The 3rd Mini Album 'VarioUS' | 2023-01-31 | [🔗](https://open.spotify.com/album/2XZJWoPAW0Ah1msTIFXFSt) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27357fa85a5c9f295d5e5b362e7" alt="" width="50" /> | THE SECOND STEP : CHAPTER TWO | 2022-10-04 | [🔗](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) |
@@ -125,10 +127,10 @@
 | 4 | ADOR |
 | 3 | TEAM WANG records |
 | 3 | [BELIFT LAB](../../labels/belift_lab.md) |
+| 2 | [Universal Music LLC](../../labels/universal_music_llc.md) |
 | 2 | [Starship Entertainment](../../labels/starship_entertainment.md) |
 | 2 | [MYSTIC STORY](../../labels/mystic_story.md) |
 | 2 | Feel Ghood Music |
-| 1 | [Universal Music LLC](../../labels/universal_music_llc.md) |
 | 1 | THEBLACKLABEL |
 | 1 | SWING ENTERTAINMENT |
 | 1 | [RBW Inc.](../../labels/rbw_inc_.md) |
@@ -142,19 +144,20 @@
 
 ## Genres
 
-![Bar chart of top 5 genres](../../images/playlists/recent_comebacks/genres.png)
+![Bar chart of top 6 genres](../../images/playlists/recent_comebacks/genres.png)
 
 
 <details>
-<summary>See all 5 genres</summary>
+<summary>See all 6 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 56 | [k-pop](../../genres/k_pop.md) |
+| 57 | [k-pop](../../genres/k_pop.md) |
 | 29 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 16 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
 | 3 | korean r&b |
 | 3 | anime |
+| 1 | k-indie |
 
 </details>
 
@@ -170,7 +173,7 @@
 | Year | Number of Tracks |
 |:---|---:|
 | 2023 | 13 |
-| [2022](2022.md) | 60 |
+| [2022](2022.md) | 61 |
 
 </details>
 
@@ -181,12 +184,12 @@
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736887b017d077dfc5787a3e23" alt="MOONLIGHT SUNRISE" width="50" /> <span style="padding-left:10px;">MOONLIGHT SUNRISE (2023-01-20)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="Girls - The 2nd Mini Album" width="50" /> <span style="padding-left:10px;">Girls - The 2nd Mini Album (2022-07-08)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="Stamp On It - The 1st Mini Album" width="50" /> <span style="padding-left:10px;">Stamp On It - The 1st Mini Album (2023-01-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" alt="NewJeans 1st EP 'New Jeans'" width="50" /> <span style="padding-left:10px;">NewJeans 1st EP 'New Jeans' (2022-08-01)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f7994d33de90ec347aa477c3" alt="VIBE (feat. Jimin of BTS)" width="50" /> <span style="padding-left:10px;">VIBE (feat. Jimin of BTS) (2023-01-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27387f53da5fb4ab1171766b2d5" alt="After LIKE" width="50" /> <span style="padding-left:10px;">After LIKE (2022-08-22)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="REASON" width="50" /> <span style="padding-left:10px;">REASON (2023-01-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27357a6f5928952c277c4407f98" alt="love you more," width="50" /> <span style="padding-left:10px;">love you more, (2022-08-25)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27386b1ba55bf754a73f6ecf729" alt="I ≠ DOLL" width="50" /> <span style="padding-left:10px;">I ≠ DOLL (2023-01-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="BETWEEN 1&2" width="50" /> <span style="padding-left:10px;">BETWEEN 1&2 (2022-08-26)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="REASON" width="50" /> <span style="padding-left:10px;">REASON (2023-01-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738232e1aaaf4c9ed4b6946ce8" alt="the Billage of perception: chapter two" width="50" /> <span style="padding-left:10px;">the Billage of perception: chapter two (2022-08-31)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01" alt="NewJeans 'OMG'" width="50" /> <span style="padding-left:10px;">NewJeans 'OMG' (2023-01-02)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="MAGIC MAN" width="50" /> <span style="padding-left:10px;">MAGIC MAN (2022-09-09)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738bc5762a75c18b494803705c" alt="SPIN OFF : FROM THE WITNESS" width="50" /> <span style="padding-left:10px;">SPIN OFF : FROM THE WITNESS (2022-12-30)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="2 Baddies - The 4th Album" width="50" /> <span style="padding-left:10px;">2 Baddies - The 4th Album (2022-09-16)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="2022 Winter SMTOWN : SMCU PALACE" width="50" /> <span style="padding-left:10px;">2022 Winter SMTOWN : SMCU PALACE (2022-12-26)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="BORN PINK" width="50" /> <span style="padding-left:10px;">BORN PINK (2022-09-16)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="SKZ-REPLAY" width="50" /> <span style="padding-left:10px;">SKZ-REPLAY (2022-12-21)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27390831ba9ed4aa3b89fd6b81c" alt="Street Man Fighter Original Vol.4 (Crew Songs)" width="50" /> <span style="padding-left:10px;">Street Man Fighter Original Vol.4 (Crew Songs) (2022-09-20)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01" alt="NewJeans 'OMG'" width="50" /> <span style="padding-left:10px;">NewJeans 'OMG' (2023-01-02)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738232e1aaaf4c9ed4b6946ce8" alt="the Billage of perception: chapter two" width="50" /> <span style="padding-left:10px;">the Billage of perception: chapter two (2022-08-31)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738bc5762a75c18b494803705c" alt="SPIN OFF : FROM THE WITNESS" width="50" /> <span style="padding-left:10px;">SPIN OFF : FROM THE WITNESS (2022-12-30)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="MAGIC MAN" width="50" /> <span style="padding-left:10px;">MAGIC MAN (2022-09-09)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="2022 Winter SMTOWN : SMCU PALACE" width="50" /> <span style="padding-left:10px;">2022 Winter SMTOWN : SMCU PALACE (2022-12-26)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="2 Baddies - The 4th Album" width="50" /> <span style="padding-left:10px;">2 Baddies - The 4th Album (2022-09-16)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="SKZ-REPLAY" width="50" /> <span style="padding-left:10px;">SKZ-REPLAY (2022-12-21)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="BORN PINK" width="50" /> <span style="padding-left:10px;">BORN PINK (2022-09-16)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |

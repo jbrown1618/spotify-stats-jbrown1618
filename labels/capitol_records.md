@@ -63,11 +63,11 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 23 genres](../images/labels/capitol_records/genres.png)
+![Bar chart of top 22 genres](../images/labels/capitol_records/genres.png)
 
 
 <details>
-<summary>See all 23 genres</summary>
+<summary>See all 22 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -81,7 +81,6 @@ Appears as:
 | 2 | etherpop |
 | 2 | [electropop](../genres/electropop.md) |
 | 2 | easy listening |
-| 1 | [soft rock](../genres/soft_rock.md) |
 | 1 | [singer-songwriter](../genres/singer_songwriter.md) |
 | 1 | roots rock |
 | 1 | [post-teen pop](../genres/post_teen_pop.md) |

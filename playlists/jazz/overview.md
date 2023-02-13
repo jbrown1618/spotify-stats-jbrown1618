@@ -113,11 +113,11 @@
 
 ## Genres
 
-![Bar chart of top 25 genres](../../images/playlists/jazz/genres.png)
+![Bar chart of top 24 genres](../../images/playlists/jazz/genres.png)
 
 
 <details>
-<summary>See all 25 genres</summary>
+<summary>See all 24 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -133,7 +133,6 @@
 | 3 | jazz |
 | 3 | bebop |
 | 2 | quiet storm |
-| 1 | [soft rock](../../genres/soft_rock.md) |
 | 1 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 1 | roots rock |
 | 1 | nu jazz |
