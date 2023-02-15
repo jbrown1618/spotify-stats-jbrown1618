@@ -234,6 +234,7 @@
 | 2 | urban contemporary |
 | 2 | soul |
 | 2 | pop soul |
+| 2 | new americana |
 | 2 | motown |
 | 2 | modern rock |
 | 2 | modern alternative rock |
@@ -257,7 +258,6 @@
 | 1 | progressive bluegrass |
 | 1 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 1 | oxford indie |
-| 1 | new americana |
 | 1 | neo soul |
 | 1 | memphis soul |
 | 1 | mandolin |

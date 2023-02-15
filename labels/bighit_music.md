@@ -3,8 +3,8 @@
 41 songs
 
 Appears as:
-- BIGHIT MUSIC (22 tracks)
-- BIGHIT MUSIC / HYBE (19 tracks)
+- BIGHIT MUSIC (25 tracks)
+- BIGHIT MUSIC / HYBE (16 tracks)
 
 ## Top Artists
 
@@ -41,7 +41,7 @@ Appears as:
 | 5 | <img src="https://i.scdn.co/image/ab67616d0000b273a498cf792773aa474d779dd8" alt="" width="50" /> | D-2 | 2020-05-22 | [🔗](https://open.spotify.com/album/0zhGddZ83RpCgnelKWa2qS) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | Love Yourself 轉 'Tear' | 2018-05-18 | [🔗](https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | MAP OF THE SOUL : PERSONA | 2019-04-12 | [🔗](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b2738afcb7dd182cffe8d53b781e" alt="" width="50" /> | MAP OF THE SOUL : 7 | 2020-02-21 | [🔗](https://open.spotify.com/album/6mJZTV8lCqnwftYZa94bXS) |
+| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="" width="50" /> | MAP OF THE SOUL : 7 | 2020-02-21 | [🔗](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | Love Yourself 結 'Answer' | 2018-08-24 | [🔗](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | Love Yourself 承 'Her' | 2017-09-18 | [🔗](https://open.spotify.com/album/2FTS6a6DLXMNp8flyA0HGO) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="" width="50" /> | Jack In The Box | 2022-07-15 | [🔗](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) |
@@ -110,9 +110,9 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | Boy With Luv (feat. Halsey) | MAP OF THE SOUL : PERSONA | [BTS](../artists/bts.md), Halsey | [BIGHIT MUSIC](bighit_music.md) | | [🔗](https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | HOME | MAP OF THE SOUL : PERSONA | [BTS](../artists/bts.md) | [BIGHIT MUSIC](bighit_music.md) | | [🔗](https://open.spotify.com/track/6Yc3tjFCVR2bfAQFRTZBef) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | Mikrokosmos | MAP OF THE SOUL : PERSONA | [BTS](../artists/bts.md) | [BIGHIT MUSIC](bighit_music.md) | 💚 | [🔗](https://open.spotify.com/track/0jSccBRnhNU4KtACMQPvco) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738afcb7dd182cffe8d53b781e" alt="" width="50" /> | Black Swan | MAP OF THE SOUL : 7 | [BTS](../artists/bts.md) | [BIGHIT MUSIC](bighit_music.md), [HYBE](hybe.md) | 💚 | [🔗](https://open.spotify.com/track/3bkkMZEAhx7rTVz1C0itRQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738afcb7dd182cffe8d53b781e" alt="" width="50" /> | Filter | MAP OF THE SOUL : 7 | [BTS](../artists/bts.md) | [BIGHIT MUSIC](bighit_music.md), [HYBE](hybe.md) | 💚 | [🔗](https://open.spotify.com/track/0ono6UCNVZ1XqOm6j78Blu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738afcb7dd182cffe8d53b781e" alt="" width="50" /> | ON | MAP OF THE SOUL : 7 | [BTS](../artists/bts.md) | [BIGHIT MUSIC](bighit_music.md), [HYBE](hybe.md) | 💚 | [🔗](https://open.spotify.com/track/2QyuXBcV1LJ2rq01KhreMF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="" width="50" /> | Black Swan | MAP OF THE SOUL : 7 | [BTS](../artists/bts.md) | [BIGHIT MUSIC](bighit_music.md) | 💚 | [🔗](https://open.spotify.com/track/2EmcTFQ1rM11wp2ztsXTHa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="" width="50" /> | Filter | MAP OF THE SOUL : 7 | [BTS](../artists/bts.md) | [BIGHIT MUSIC](bighit_music.md) | 💚 | [🔗](https://open.spotify.com/track/4bZZVcgWWMWPBwzTTp642w) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="" width="50" /> | ON | MAP OF THE SOUL : 7 | [BTS](../artists/bts.md) | [BIGHIT MUSIC](bighit_music.md) | 💚 | [🔗](https://open.spotify.com/track/0fZRNhPJ4AGmwY7rkpdbqK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="" width="50" /> | Dynamite | BE | [BTS](../artists/bts.md) | [BIGHIT MUSIC](bighit_music.md) | 💚 | [🔗](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="" width="50" /> | Life Goes On | BE | [BTS](../artists/bts.md) | [BIGHIT MUSIC](bighit_music.md) | 💚 | [🔗](https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="" width="50" /> | Telepathy | BE | [BTS](../artists/bts.md) | [BIGHIT MUSIC](bighit_music.md) | 💚 | [🔗](https://open.spotify.com/track/6Fnvi5QnVkTskSzeRvvQds) |

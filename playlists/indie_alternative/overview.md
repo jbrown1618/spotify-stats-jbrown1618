@@ -320,9 +320,9 @@
 | 26 | indie pop |
 | 22 | permanent wave |
 | 22 | [electropop](../../genres/electropop.md) |
+| 22 | [dance pop](../../genres/dance_pop.md) |
 | 21 | [art pop](../../genres/art_pop.md) |
 | 20 | modern rock |
-| 20 | [dance pop](../../genres/dance_pop.md) |
 | 19 | alternative rock |
 | 18 | baroque pop |
 | 17 | uk alternative pop |

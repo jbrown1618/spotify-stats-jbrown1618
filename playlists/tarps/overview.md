@@ -223,6 +223,7 @@
 | 6 | urban contemporary |
 | 6 | [acoustic pop](../../genres/acoustic_pop.md) |
 | 5 | [pop rock](../../genres/pop_rock.md) |
+| 4 | new americana |
 | 4 | [mellow gold](../../genres/mellow_gold.md) |
 | 3 | stomp and holler |
 | 3 | [soft rock](../../genres/soft_rock.md) |
@@ -230,7 +231,6 @@
 | 3 | [psychedelic rock](../../genres/psychedelic_rock.md) |
 | 3 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 3 | pop soul |
-| 3 | new americana |
 | 3 | neo soul |
 | 3 | merseybeat |
 | 3 | indie folk |

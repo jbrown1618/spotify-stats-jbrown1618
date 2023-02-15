@@ -1,9 +1,9 @@
 # High Up Entertainment
 
-12 songs
+13 songs
 
 Appears as:
-- High Up Entertainment (12 tracks)
+- High Up Entertainment (13 tracks)
 
 ## Top Artists
 
@@ -15,18 +15,18 @@ Appears as:
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
-| 12 | <img src="https://i.scdn.co/image/ab6761610000e5eb45b2ff69ae6a3caccb776cfa" alt="" width="50" /> | [STAYC](../artists/stayc.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
+| 13 | <img src="https://i.scdn.co/image/ab6761610000e5eb45b2ff69ae6a3caccb776cfa" alt="" width="50" /> | [STAYC](../artists/stayc.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 
 </details>
 
 
 ## Top Albums
 
-![Bar chart of top 5 albums](../images/labels/high_up_entertainment/albums.png)
+![Bar chart of top 6 albums](../images/labels/high_up_entertainment/albums.png)
 
 
 <details>
-<summary>See all 5 albums</summary>
+<summary>See all 6 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -34,6 +34,7 @@ Appears as:
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273c76a0146e4c1804f22cab995" alt="" width="50" /> | WE NEED LOVE | 2022-07-19 | [🔗](https://open.spotify.com/album/04EniWu488MF6louRYafKJ) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2735c1dca4c993850471d5d8f14" alt="" width="50" /> | STEREOTYPE | 2021-09-06 | [🔗](https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273af2fda9fb591d43c355c2ac3" alt="" width="50" /> | STAYDOM | 2021-04-08 | [🔗](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ebbb6b66adf9f2392bb86733" alt="" width="50" /> | Teddy Bear | 2023-02-14 | [🔗](https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273bc125f40131dd5869b2ec36c" alt="" width="50" /> | Star To A Young Culture | 2020-11-12 | [🔗](https://open.spotify.com/album/4PrRd0lIunUEiiE5rbZklR) |
 
 </details>
@@ -49,8 +50,8 @@ Appears as:
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 12 | [k-pop girl group](../genres/k_pop_girl_group.md) |
-| 12 | [k-pop](../genres/k_pop.md) |
+| 13 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+| 13 | [k-pop](../genres/k_pop.md) |
 
 </details>
 
@@ -71,3 +72,4 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2738ea860a3e6904b875629d672" alt="" width="50" /> | YOUNG LUV | YOUNG-LUV.COM | [STAYC](../artists/stayc.md) | [High Up Entertainment](high_up_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/7HGKvoju3ucB7UqVt1GoJu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c76a0146e4c1804f22cab995" alt="" width="50" /> | BEAUTIFUL MONSTER | WE NEED LOVE | [STAYC](../artists/stayc.md) | [High Up Entertainment](high_up_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/56s2s5e8WuBsWVKnmz6J9L) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c76a0146e4c1804f22cab995" alt="" width="50" /> | I LIKE IT | WE NEED LOVE | [STAYC](../artists/stayc.md) | [High Up Entertainment](high_up_entertainment.md) | | [🔗](https://open.spotify.com/track/4o84FbQ0YB6F3AWfxTGRHG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ebbb6b66adf9f2392bb86733" alt="" width="50" /> | Teddy Bear | Teddy Bear | [STAYC](../artists/stayc.md) | [High Up Entertainment](high_up_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9) |

@@ -56,7 +56,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738c6cdb00ed42b1d6315f0bc1" alt="" width="50" /> | minisode1 : Blue Hour | 2020-10-26 | [🔗](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27352db41e897d3a8dc72929208" alt="" width="50" /> | Yummy Yummy Love | 2022-01-14 | [🔗](https://open.spotify.com/album/2r35RHvEtBjgKiONdItRR5) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273140ba24506e300382e08e6ec" alt="" width="50" /> | YES or YES | 2018-11-05 | [🔗](https://open.spotify.com/album/25VunQEW0x2W6ALND2Mh4g) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273e2a4f8bcc74020cd4b01f647" alt="" width="50" /> | What Is Love | 2018-04-09 | [🔗](https://open.spotify.com/album/5o5cJ6yZmcyy4y4hK0J6de) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736034eda385497f614778f457" alt="" width="50" /> | Twicetagram | 2017-10-30 | [🔗](https://open.spotify.com/album/3hJXmK5gWN9P6jtZL0Lr2y) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273387444ab2fc1f08dfe7915ab" alt="" width="50" /> | Twicecoaster: Lane 1 | 2016-10-24 | [🔗](https://open.spotify.com/album/5zQhaDNbiXHRqd8Y51I4vy) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ce17f432c79c5e45ce88688f" alt="" width="50" /> | The Story Begins | 2015-10-20 | [🔗](https://open.spotify.com/album/72WWZVAx6GtSbEeGESwDLo) |
@@ -64,6 +63,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736207621becafe079ec6c9185" alt="" width="50" /> | The Dream Chapter: MAGIC | 2019-10-21 | [🔗](https://open.spotify.com/album/5KoR6s906nbO21C9ZPdwTv) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731544041d0285585cc92c2709" alt="" width="50" /> | THE BOYZ 6TH MINI ALBUM [THRILL-ING] | 2021-08-09 | [🔗](https://open.spotify.com/album/0lh0pZ8GjZGrAhzIG4Jn0E) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273c564791fd5ae81ca9da399f4" alt="" width="50" /> | Super Yuppers! | 2022-01-05 | [🔗](https://open.spotify.com/album/5Sh3VW04we2IqNP7BlBwuM) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27340d7efd2594a2b6bda60ea18" alt="" width="50" /> | Summer Nights | 2018-07-09 | [🔗](https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736017bca98dea58ceddea77c1" alt="" width="50" /> | Summer Magic - Summer Mini Album | 2018-08-06 | [🔗](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d07e49e3e5a8e79903713354" alt="" width="50" /> | SIGNAL | 2017-05-15 | [🔗](https://open.spotify.com/album/28PwDunFAR71toOCTYRvkf) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273deeee778a591e7032c1bdc80" alt="" width="50" /> | SEVENTEEN 1ST ALBUM [FIRST ‘LOVE&LETTER’] | 2016-04-25 | [🔗](https://open.spotify.com/album/50BrkBakrLWufmTLjCVBwn) |
@@ -166,7 +166,7 @@
 | Banana Allergy Monkey (0.815) | Let Me In (20 CUBE) (0.483) |
 | The Feels (0.808) | CHEER UP (0.551) |
 | Hmph! (0.796) | Heart Shaker (0.564) |
-| BBoom BBoom (0.785) | What is Love (0.572) |
+| BBoom BBoom (0.785) | What is Love (0.574) |
 | FIESTA (0.756) | Not For Sale (0.583) |
 | Gee (0.756) | Signal (0.62) |
 | Babyface (0.752) | Super Yuppers! (0.636) |
@@ -235,7 +235,7 @@
 | FIESTA (0.343) | Blue Hour (0.0871) |
 | Power Up (0.306) | Hmph! (0.088) |
 | Super Yuppers! (0.296) | Let Me In (20 CUBE) (0.0912) |
-| What is Love (0.267) | THRILL RIDE (0.0971) |
+| What is Love (0.264) | THRILL RIDE (0.0971) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
@@ -247,5 +247,5 @@
 | Super Yuppers! (0.879) | Life's Too Short (English Version) (0.548) |
 | Heart Shaker (0.857) | Not For Sale (0.56) |
 | Umpah Umpah (0.844) | 青春修炼手册 (0.564) |
-| BBoom BBoom (0.833) | What is Love (0.602) |
+| BBoom BBoom (0.833) | What is Love (0.569) |
 | Banana Allergy Monkey (0.81) | Dolphin (0.621) |
