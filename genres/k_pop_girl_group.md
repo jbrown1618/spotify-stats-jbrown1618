@@ -1,6 +1,6 @@
 # k-pop girl group
 
-[393 songs](k_pop_girl_group_tracks.md)
+[396 songs](k_pop_girl_group_tracks.md)
 
 ## Top Artists
 
@@ -36,6 +36,7 @@
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc1dc943555dfa1ee2a107e5" alt="" width="50" /> | K/DA | [🔗](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d998e7541724c918777b8ca" alt="" width="50" /> | League of Legends | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
 | 5 | <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | SISTAR | [🔗](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) |
+| 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb20e1b84fe2767e52c4c828fd" alt="" width="50" /> | 2NE1 | [🔗](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb95f4928ac77d31b53626dab3" alt="" width="50" /> | PIXY | [🔗](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb5b1a291b0a6a689091d54d8b" alt="" width="50" /> | IVE | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273dd8c3b43984ed746176ac0cf" alt="" width="50" /> | PinkFantasy | [🔗](https://open.spotify.com/artist/5syu5kN4a5f4rgMCRGlnZp) |
@@ -49,7 +50,6 @@
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eba3e483bda08002c2c7bfa7ef" alt="" width="50" /> | WJSN Chocome | [🔗](https://open.spotify.com/artist/5VyqN5hNo0TbYF0ICU77nn) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7243217f4767a4d9bf879a6e" alt="" width="50" /> | Cherry Bullet | [🔗](https://open.spotify.com/artist/3IJCdgkBZbieocLZ4e94GZ) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a3c86e0043d9883ee392bda" alt="" width="50" /> | Apink | [🔗](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb20e1b84fe2767e52c4c828fd" alt="" width="50" /> | 2NE1 | [🔗](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b93ad49bde5a3655aef95cd" alt="" width="50" /> | miss A | [🔗](https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebb00e3506ebd41e147f26a6d5" alt="" width="50" /> | Jaira Burns | [🔗](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27373d59cc449e4592026c3997a" alt="" width="50" /> | Brave Girls | [🔗](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) |
@@ -59,7 +59,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9ec01c462c51ab9c67572abe" alt="" width="50" /> | Lexie Liu | [🔗](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8980623c46119271987de7eb" alt="" width="50" /> | TAEYONG | [🔗](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8884036ea777e2afb47ac7a2" alt="" width="50" /> | I.O.I | [🔗](https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd46ebd494a30ea88327e9715" alt="" width="50" /> | TRI.BE | [🔗](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9d2f7d9ba199152a396ed07e" alt="" width="50" /> | TRI.BE | [🔗](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734eb4032fde82bdec1c262601" alt="" width="50" /> | LADIES' CODE | [🔗](https://open.spotify.com/artist/4epPY1AW9lQeVUM1XaFiwi) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebba818688ae72d12215ee92f0" alt="" width="50" /> | Seraphine | [🔗](https://open.spotify.com/artist/4TqlcgMFDryY96KWcvrhTv) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bc2840ac9c56902f5b9574c" alt="" width="50" /> | Kim Petras | [🔗](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) |
@@ -200,13 +200,13 @@
 
 
 <details>
-<summary>See all 61 labels</summary>
+<summary>See all 62 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
 | 84 | [SM Entertainment](../labels/sm_entertainment.md) |
 | 66 | [Republic Records](../labels/republic_records.md) |
-| 29 | [YG Entertainment](../labels/yg_entertainment.md) |
+| 31 | [YG Entertainment](../labels/yg_entertainment.md) |
 | 24 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md) |
 | 23 | [Interscope Records](../labels/interscope_records.md) |
 | 18 | [Universal Music LLC](../labels/universal_music_llc.md) |
@@ -244,6 +244,7 @@
 | 1 | ㈜RBW |
 | 1 | ㈜ 드림캐쳐 컴퍼니 |
 | 1 | YUEHUA ENTERTAINMENT KOREA |
+| 1 | YGEX |
 | 1 | Universal Music Group International |
 | 1 | RADCOMM |
 | 1 | [PLEDIS Entertainment](../labels/pledis_entertainment.md) |
@@ -300,15 +301,15 @@
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Addicted (0.419) | Moonlight Melody (0.0269) |
-| Freedom (0.388) | Gee (0.0274) |
-| Free Fall (0.376) | Hope Not (0.0274) |
-| Ice Cream (with Selena Gomez) (0.365) | YOUNG LUV (0.0277) |
-| Signal (0.334) | LOVE FOOL (0.0281) |
-| You Better Run (0.326) | In My Dreams (0.0283) |
-| Girls (0.325) | Something (0.0285) |
-| Be Natural (0.316) | ESCAPE (0.0295) |
-| Love So Sweet (0.308) | Tally (0.031) |
-| O.O (0.293) | Beautiful Christmas (0.0311) |
+| Freedom (0.388) | Lonely (0.0271) |
+| Free Fall (0.376) | Gee (0.0274) |
+| Ice Cream (with Selena Gomez) (0.365) | Hope Not (0.0274) |
+| Signal (0.334) | YOUNG LUV (0.0277) |
+| You Better Run (0.326) | LOVE FOOL (0.0281) |
+| Girls (0.325) | In My Dreams (0.0283) |
+| Be Natural (0.316) | Something (0.0285) |
+| Love So Sweet (0.308) | ESCAPE (0.0295) |
+| O.O (0.293) | Tally (0.031) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -333,8 +334,8 @@
 | Power Up (0.00745) | Typa Girl (0.0) |
 | BBoom BBoom (0.00666) | The Boys (0.0) |
 | In My Dreams (0.0066) | Talk that Talk (0.0) |
-| BAAM (0.00431) | Pirate (0.0) |
-| Star (0.0037) | FANCY (0.0) |
+| FIRE (0.00643) | Pirate (0.0) |
+| BAAM (0.00431) | FANCY (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -347,17 +348,17 @@
 | LP (0.714) | Red Light (0.0414) |
 | Genie (0.714) | Wings (0.0428) |
 | STEREOTYPE (0.659) | I’m So Hot (0.0437) |
-| 5th Season (SSFWL) (0.635) | ELEVEN (0.048) |
+| COME BACK HOME (0.638) | ELEVEN (0.048) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Pepe (0.966) | 7월 7일 One Of These Nights (0.11) |
 | So Hot (0.963) | Lucid Dream (0.146) |
-| Miniskirt (0.963) | Body Talk (0.158) |
-| Twinkle (0.962) | Hope Not (0.179) |
-| Lion Heart (0.961) | In My Dreams (0.179) |
-| Give it to me (0.961) | Ditto (0.183) |
-| 러시안 룰렛 Russian Roulette (0.958) | LION (0.187) |
-| Nobody (0.95) | POSE (0.195) |
-| Really (0.947) | MORE (0.199) |
-| Devil (0.946) | 4 Walls (0.223) |
+| Miniskirt (0.963) | COME BACK HOME (0.146) |
+| Twinkle (0.962) | Body Talk (0.158) |
+| Lion Heart (0.961) | Hope Not (0.179) |
+| Give it to me (0.961) | In My Dreams (0.179) |
+| 러시안 룰렛 Russian Roulette (0.958) | Ditto (0.183) |
+| Nobody (0.95) | LION (0.187) |
+| Really (0.947) | POSE (0.195) |
+| Devil (0.946) | MORE (0.199) |

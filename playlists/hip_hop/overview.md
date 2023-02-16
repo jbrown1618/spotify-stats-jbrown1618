@@ -115,11 +115,11 @@
 
 ## Genres
 
-![Bar chart of top 25 genres](../../images/playlists/hip_hop/genres.png)
+![Bar chart of top 26 genres](../../images/playlists/hip_hop/genres.png)
 
 
 <details>
-<summary>See all 25 genres</summary>
+<summary>See all 26 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -132,18 +132,19 @@
 | 4 | detroit hip hop |
 | 4 | chicago rap |
 | 3 | gangster rap |
+| 2 | viral rap |
 | 2 | trap |
 | 2 | southern hip hop |
 | 2 | queens hip hop |
 | 2 | dirty south rap |
 | 2 | atl hip hop |
 | 1 | west coast rap |
-| 1 | viral rap |
 | 1 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 1 | old school hip hop |
 | 1 | old school atlanta hip hop |
 | 1 | lgbtq+ hip hop |
 | 1 | hip house |
+| 1 | electro |
 | 1 | crunk |
 | 1 | conscious hip hop |
 | 1 | australian hip hop |

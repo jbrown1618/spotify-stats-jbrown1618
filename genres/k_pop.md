@@ -1,6 +1,6 @@
 # k-pop
 
-[859 songs](k_pop_tracks.md)
+[862 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -68,6 +68,7 @@
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb23c6033b3b20959a2154328b" alt="" width="50" /> | HYO | [🔗](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) |
 | 5 | <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | SISTAR | [🔗](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbca2e91d07d2c53e6610570" alt="" width="50" /> | Seori | [🔗](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) |
+| 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb20e1b84fe2767e52c4c828fd" alt="" width="50" /> | 2NE1 | [🔗](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5ebfa980b99bc5f4d47b4253f82" alt="" width="50" /> | j-hope | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb95f4928ac77d31b53626dab3" alt="" width="50" /> | PIXY | [🔗](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b13da5a8a3dd6e0d53ff764" alt="" width="50" /> | Red Velvet - IRENE & SEULGI | [🔗](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) |
@@ -113,7 +114,6 @@
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebca6daabeb614243f96b2829f" alt="" width="50" /> | WOOSUNG | [🔗](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb8543b9b2b5d153d37c46606d" alt="" width="50" /> | LISA | [🔗](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebe069abe9362512bec11f5e13" alt="" width="50" /> | AB6IX | [🔗](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb86ea393b9e590523e822ea13" alt="" width="50" /> | YooA | [🔗](https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ) |
 
 </details>
 
@@ -243,7 +243,7 @@
 |---:|:---|
 | 214 | [SM Entertainment](../labels/sm_entertainment.md) |
 | 87 | [Republic Records](../labels/republic_records.md) |
-| 67 | [YG Entertainment](../labels/yg_entertainment.md) |
+| 69 | [YG Entertainment](../labels/yg_entertainment.md) |
 | 57 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
 | 53 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
 | 36 | [BIGHIT MUSIC](../labels/bighit_music.md) |
@@ -317,6 +317,7 @@
 | 1 | msmedia |
 | 1 | YUEHUA ENTERTAINMENT KOREA |
 | 1 | YMC Ent. |
+| 1 | YGEX |
 | 1 | Universal Republic Records |
 | 1 | Universal Music Group International |
 | 1 | [UME - Global Clearing House](../labels/ume___global_clearing_house.md) |
@@ -340,7 +341,6 @@
 | 1 | FeelGhoodMusic |
 | 1 | Fantagio |
 | 1 | FNC W |
-| 1 | FLEX M |
 
 </details>
 
@@ -378,13 +378,13 @@
 | No More Dream (0.472) | Slightly Tipsy (She is My Type♡ X SANDEUL) (0.0264) |
 | Addicted (0.419) | She′s In The Rain (0.0264) |
 | MANIAC (0.411) | Moonlight Melody (0.0269) |
-| Freedom (0.388) | Winter Sleep (0.0273) |
-| I GOT IT (HAN) (0.365) | Wicked (0.0273) |
-| Ice Cream (with Selena Gomez) (0.365) | Gee (0.0274) |
-| Feelin' Like (0.353) | Hope Not (0.0274) |
-| VENOM (0.339) | Envision_ (0.0275) |
-| Signal (0.334) | NANANA (0.0277) |
-| BBIBBI (0.331) | YOUNG LUV (0.0277) |
+| Freedom (0.388) | Lonely (0.0271) |
+| I GOT IT (HAN) (0.365) | Winter Sleep (0.0273) |
+| Ice Cream (with Selena Gomez) (0.365) | Wicked (0.0273) |
+| Feelin' Like (0.353) | Gee (0.0274) |
+| VENOM (0.339) | Hope Not (0.0274) |
+| Signal (0.334) | Envision_ (0.0275) |
+| BBIBBI (0.331) | NANANA (0.0277) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -436,4 +436,4 @@
 | Twinkle (0.962) | My sea (0.122) |
 | 쏘리 쏘리 Sorry, Sorry (0.962) | Time After Time (0.123) |
 | Lion Heart (0.961) | U (0.137) |
-| Give it to me (0.961) | ONLY (0.151) |
+| Give it to me (0.961) | COME BACK HOME (0.146) |

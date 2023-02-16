@@ -1,9 +1,9 @@
 # YG Entertainment
 
-69 songs
+72 songs
 
 Appears as:
-- YG Entertainment (41 tracks)
+- YG Entertainment (44 tracks)
 - YG Entertainment/Interscope Records (19 tracks)
 - YG Entertainment, distributed through Interscope Records (5 tracks)
 - 2018 YG Entertainment, distributed through Interscope Records (4 tracks)
@@ -23,8 +23,9 @@ Appears as:
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb5045a0e0d423ce29d6b14ebd" alt="" width="50" /> | TREASURE | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb74700cf88c04af5201df7298" alt="" width="50" /> | AKMU | [🔗](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb597a4257d0022e2ac837fa7d" alt="" width="50" /> | BIGBANG | [🔗](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) |
+| 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebd63cdcec79b1864df268c7bf" alt="" width="50" /> | TAEYANG | [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8eb5e57e526ceb14f06ea203" alt="" width="50" /> | iKON | [🔗](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd63cdcec79b1864df268c7bf" alt="" width="50" /> | TAEYANG | [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) |
+| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb20e1b84fe2767e52c4c828fd" alt="" width="50" /> | 2NE1 | [🔗](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb8543b9b2b5d153d37c46606d" alt="" width="50" /> | LISA | [🔗](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2d167f018561742f26a0997" alt="" width="50" /> | ROSÉ | [🔗](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5923c0ca32a3cf3a81b34728" alt="" width="50" /> | G-DRAGON | [🔗](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) |
@@ -32,7 +33,6 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | [IU](../artists/iu.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb24b5185226d5b7c6aa91db5a" alt="" width="50" /> | PSY | [🔗](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc2c8185fc0902b43e35f671f" alt="" width="50" /> | JENNIE | [🔗](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb20e1b84fe2767e52c4c828fd" alt="" width="50" /> | 2NE1 | [🔗](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb95c4de2079b4a13166e0d995" alt="" width="50" /> | Dok2 | [🔗](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1a9503fefacc8deb28389e5" alt="" width="50" /> | G.Soul | [🔗](https://open.spotify.com/artist/0fLesFHNsJpalRtqzSYxnd) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9ce6b84393575f91c4f4634" alt="" width="50" /> | B.I | [🔗](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) |
@@ -47,7 +47,7 @@ Appears as:
 
 
 <details>
-<summary>See all 34 albums</summary>
+<summary>See all 37 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -72,6 +72,7 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27357fa85a5c9f295d5e5b362e7" alt="" width="50" /> | THE SECOND STEP : CHAPTER TWO | 2022-10-04 | [🔗](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | Still Life | 2022-04-05 | [🔗](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d17ca02a739a9a24933cf805" alt="" width="50" /> | Solar International | 2010-08-19 | [🔗](https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738613954b440d4b05463e3ab0" alt="" width="50" /> | Solar | 2010-07-01 | [🔗](https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27362e6288a5887b95176cca29e" alt="" width="50" /> | SOLO | 2018-11-12 | [🔗](https://open.spotify.com/album/7qAJpYeABXN9ZV5wOOX59k) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d41cdd1f3e033a0ea1642112" alt="" width="50" /> | SAILING | 2019-09-25 | [🔗](https://open.spotify.com/album/7C0Ci0alKWwwXPIFYEdVcn) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273e1ceb97165340ef92392b948" alt="" width="50" /> | RISE | 2014-06-03 | [🔗](https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3) |
@@ -81,9 +82,11 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738b94794b8aa12407bf838d7d" alt="" width="50" /> | NEW KIDS REPACKAGE : THE NEW KIDS | 2019-01-07 | [🔗](https://open.spotify.com/album/6RZYa7F18bu7mmeT8qxWqh) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732d56768bc14df3b0b3982efd" alt="" width="50" /> | KWON JI YONG | 2017-06-08 | [🔗](https://open.spotify.com/album/2koSNfchdUxqw1rPJO87aH) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc24150245a8d31c68b58b4" alt="" width="50" /> | Hello Bitches | 2015-12-05 | [🔗](https://open.spotify.com/album/0CHOb7kkjkNRCpijTjPEiy) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27392f5e29cb9907109cb60f3ed" alt="" width="50" /> | CRUSH | 2014-02-27 | [🔗](https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733dbdbd0023f1e1c08cd5a6c9" alt="" width="50" /> | COUP D'ETAT | 2013-09-05 | [🔗](https://open.spotify.com/album/4msI9bSfKohOPFic15aLR4) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ac93d8b1bd84fa6b5291ba21" alt="" width="50" /> | As If It's Your Last | 2017-06-22 | [🔗](https://open.spotify.com/album/7ikmjsvRzDRzxHN0KXSQdv) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273dd2c0e8a5d4b0c1e227e4c7b" alt="" width="50" /> | ALIVE | 2012-02-29 | [🔗](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27303afa1975da68b3516ae6b62" alt="" width="50" /> | 2NE1 2nd Mini Album | 2011-07-28 | [🔗](https://open.spotify.com/album/0zWLbtlKLJINtIiqnSXqag) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735292f306c4d8210b521cea4d" alt="" width="50" /> | 1,2,3,4 | 2012-10-29 | [🔗](https://open.spotify.com/album/6yYc7Ag6nVB3HVXzLjF9uz) |
 
 </details>
@@ -99,15 +102,15 @@ Appears as:
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 67 | [k-pop](../genres/k_pop.md) |
-| 29 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+| 69 | [k-pop](../genres/k_pop.md) |
+| 31 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 | 10 | [pop](../genres/pop.md) |
 | 8 | [k-pop boy group](../genres/k_pop_boy_group.md) |
 | 5 | korean pop |
+| 3 | korean r&b |
 | 3 | k-rap |
-| 2 | korean r&b |
+| 3 | [dance pop](../genres/dance_pop.md) |
 | 1 | korean old school hip hop |
-| 1 | [dance pop](../genres/dance_pop.md) |
 
 </details>
 
@@ -116,7 +119,9 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f2d10189a41c7345a5a0337" alt="" width="50" /> | You and I (Park Bom) | To Anyone | 2NE1 | [YG Entertainment](yg_entertainment.md) | | [🔗](https://open.spotify.com/track/14Pn9Vd2GKwQrVYADgCZ5l) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f2d10189a41c7345a5a0337" alt="" width="50" /> | You and I (Park Bom) | To Anyone | 2NE1 | [YG Entertainment](yg_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/14Pn9Vd2GKwQrVYADgCZ5l) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27303afa1975da68b3516ae6b62" alt="" width="50" /> | Lonely | 2NE1 2nd Mini Album | 2NE1 | [YG Entertainment](yg_entertainment.md) | | [🔗](https://open.spotify.com/track/5BzfRtVjyC4wbISHdbCvWL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27392f5e29cb9907109cb60f3ed" alt="" width="50" /> | COME BACK HOME | CRUSH | 2NE1 | [YG Entertainment](yg_entertainment.md) | | [🔗](https://open.spotify.com/track/63J1RStsmoVKXNTCHRNxii) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27378551e802bd7b81d7af67dfb" alt="" width="50" /> | Melted | PLAY | AKMU | [YG Entertainment](yg_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/2tYPFWrbGbsGKafe5pP64z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273570f746ccc2c75af070da1e0" alt="" width="50" /> | How People Move | SPRING | AKMU | [YG Entertainment](yg_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/0c2Yg75sFgD0hWhRq4voAn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273570f746ccc2c75af070da1e0" alt="" width="50" /> | RE-BYE | SPRING | AKMU | [YG Entertainment](yg_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/7pz1YzMwDxS9uuwAEp7MLk) |
@@ -177,6 +182,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c0522b1f119c06409b838dc" alt="" width="50" /> | DADDY | PSY 7TH ALBUM | PSY, CL | [YG Entertainment](yg_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/1eMVXXpNPEUdFRy5ZH7FpM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f" alt="" width="50" /> | Gone | R | ROSÉ | [Interscope Records](interscope_records.md), [YG Entertainment](yg_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f" alt="" width="50" /> | On The Ground | R | ROSÉ | [Interscope Records](interscope_records.md), [YG Entertainment](yg_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738613954b440d4b05463e3ab0" alt="" width="50" /> | Wedding Dress | Solar | TAEYANG | [YG Entertainment](yg_entertainment.md) | | [🔗](https://open.spotify.com/track/2NO4CA2TFvhGeg7XMz8PmT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d17ca02a739a9a24933cf805" alt="" width="50" /> | Only Look At Me (나만 바라봐) | Solar International | TAEYANG | [YG Entertainment](yg_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/1xaLJbuJr6efSW8MFA7vTu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e1ceb97165340ef92392b948" alt="" width="50" /> | 눈,코,입 (Eyes, Nose, Lips) | RISE | TAEYANG | [YG Entertainment](yg_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/0lYtIvI7bO51PZSeK22Mbz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734bb3b49ff157d01ab9896573" alt="" width="50" /> | I LOVE YOU | THE FIRST STEP : TREASURE EFFECT | TREASURE | [YG Entertainment](yg_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/1SxqqC1aQ8JiLyfMrHYmnF) |

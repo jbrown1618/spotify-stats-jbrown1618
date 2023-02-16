@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2735b3685b06e22d32bed46c962ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273f7da7c0f322b7a1c95190d92" alt="K-Pop" width="100" />
 
-[994 songs](tracks.md)
+[995 songs](tracks.md)
 
 ## Top Artists
 
@@ -339,12 +339,12 @@
 | 1 | dori |
 | 1 | YUEHUA ENTERTAINMENT KOREA |
 | 1 | YMC Ent. |
+| 1 | YGEX |
 | 1 | XGALX |
 | 1 | Wild Entertainment Group (WILD) |
 | 1 | Universal Republic Records |
 | 1 | Universal Music Group International |
 | 1 | [UME - Global Clearing House](../../labels/ume___global_clearing_house.md) |
-| 1 | UBUNTU ENT |
 
 </details>
 
@@ -359,17 +359,17 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 831 | [k-pop](../../genres/k_pop.md) |
-| 372 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
+| 832 | [k-pop](../../genres/k_pop.md) |
+| 373 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 238 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
-| 58 | [pop](../../genres/pop.md) |
+| 59 | [pop](../../genres/pop.md) |
 | 38 | korean pop |
 | 33 | korean r&b |
 | 22 | anime |
 | 21 | k-rap |
 | 12 | korean ost |
 | 10 | korean city pop |
-| 9 | [dance pop](../../genres/dance_pop.md) |
+| 10 | [dance pop](../../genres/dance_pop.md) |
 | 6 | korean old school hip hop |
 | 6 | classic k-pop |
 | 5 | korean talent show |
@@ -418,7 +418,7 @@
 | [2015](2015.md) | 36 |
 | 2014 | 17 |
 | 2013 | 16 |
-| 2012 | 9 |
+| 2012 | 10 |
 | 2011 | 7 |
 | 2010 | 8 |
 | 2009 | 3 |
