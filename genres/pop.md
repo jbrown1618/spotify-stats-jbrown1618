@@ -1,6 +1,6 @@
 # pop
 
-[520 songs](pop_tracks.md)
+[521 songs](pop_tracks.md)
 
 ## Top Artists
 
@@ -220,13 +220,13 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738ffc294c1c4362e8472d14cd" alt="" width="50" /> | drivers license | 2021-01-08 | [🔗](https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795" alt="" width="50" /> | dont smile at me | 2017-12-22 | [🔗](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735a61e19eaffec620c1899c47" alt="" width="50" /> | deja vu | 2021-04-01 | [🔗](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5" alt="" width="50" /> | channel ORANGE | 2012-07-10 | [🔗](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732ca010dcf3863a07611d8b4f" alt="" width="50" /> | boyfriend | 2019-08-02 | [🔗](https://open.spotify.com/album/3zVB99XMdbP9HTVNg0GJwV) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273748388a726648841ed81027e" alt="" width="50" /> | bloom | 2017-05-12 | [🔗](https://open.spotify.com/album/3yWRq9Dd2UO5xyqxTjLDmp) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737941a79c3108cedb1667b68d" alt="" width="50" /> | bandaids | 2020-03-24 | [🔗](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27341aa6776dc15fbd71a2b4557" alt="" width="50" /> | Youngblood (Deluxe) | 2018-06-15 | [🔗](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2" alt="" width="50" /> | Young And Beautiful | 2013-01-01 | [🔗](https://open.spotify.com/album/1D92WOHWUI2AGQCCdplcXL) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731d883d3f10af481faa3c7e04" alt="" width="50" /> | You Don't Know Me | 2016-12-09 | [🔗](https://open.spotify.com/album/3gdmWRWWJmkp5uMBXf755B) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="" width="50" /> | Yoga | 2015-03-31 | [🔗](https://open.spotify.com/album/5rzxGeVyCV74SvV5hjLRAU) |
 
 </details>
 
@@ -321,6 +321,7 @@
 | 1 | Selena Gomez PS |
 | 1 | Roc Nation |
 | 1 | Rihanna |
+| 1 | Red Zone Entertainment |
 | 1 | RVG |
 | 1 | Perpetual Novice |
 | 1 | Not So Fast |
@@ -329,6 +330,7 @@
 | 1 | Lauv |
 | 1 | Jonas Brothers Recording |
 | 1 | IOK x Transparent Arts |
+| 1 | IDJ |
 | 1 | Hunger Games 3 |
 | 1 | Gracie Abrams |
 | 1 | Giant Little Man |
@@ -339,8 +341,6 @@
 | 1 | Elektra (NEK) |
 | 1 | EMPIRE |
 | 1 | EMI Recorded Music Australia Pty Ltd |
-| 1 | Disruptor Records |
-| 1 | Def Soul |
 
 </details>
 

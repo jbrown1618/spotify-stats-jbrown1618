@@ -87,7 +87,7 @@ Appears as:
 | 1 | [mellow gold](../genres/mellow_gold.md) |
 | 1 | [lilith](../genres/lilith.md) |
 | 1 | [k-pop](../genres/k_pop.md) |
-| 1 | folk rock |
+| 1 | [folk rock](../genres/folk_rock.md) |
 | 1 | folk |
 | 1 | electric blues |
 | 1 | country rock |

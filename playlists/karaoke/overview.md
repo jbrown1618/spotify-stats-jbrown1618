@@ -216,9 +216,10 @@
 | 8 | piano rock |
 | 7 | [soft rock](../../genres/soft_rock.md) |
 | 7 | [lilith](../../genres/lilith.md) |
+| 7 | [folk rock](../../genres/folk_rock.md) |
+| 6 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 6 | [hollywood](../../genres/hollywood.md) |
 | 6 | [adult standards](../../genres/adult_standards.md) |
-| 5 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 5 | [psychedelic rock](../../genres/psychedelic_rock.md) |
 | 5 | merseybeat |
 | 5 | british invasion |
@@ -227,7 +228,6 @@
 | 4 | permanent wave |
 | 4 | lounge |
 | 4 | glam rock |
-| 3 | folk rock |
 | 3 | canadian pop |
 | 3 | australian pop |
 | 2 | viral pop |
@@ -244,6 +244,7 @@
 | 2 | funk |
 | 2 | folk |
 | 2 | easy listening |
+| 2 | country rock |
 | 2 | british soul |
 | 2 | atl hip hop |
 | 1 | yacht rock |
@@ -275,7 +276,6 @@
 | 1 | escape room |
 | 1 | [electropop](../../genres/electropop.md) |
 | 1 | disco |
-| 1 | country rock |
 | 1 | comic |
 | 1 | classic soul |
 | 1 | boy band |

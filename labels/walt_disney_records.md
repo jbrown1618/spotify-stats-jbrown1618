@@ -128,17 +128,17 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 26 genres](../images/labels/walt_disney_records/genres.png)
+![Bar chart of top 27 genres](../images/labels/walt_disney_records/genres.png)
 
 
 <details>
-<summary>See all 26 genres</summary>
+<summary>See all 27 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
 | 37 | [movie tunes](../genres/movie_tunes.md) |
 | 21 | [hollywood](../genres/hollywood.md) |
-| 15 | [show tunes](../genres/show_tunes.md) |
+| 13 | [show tunes](../genres/show_tunes.md) |
 | 4 | tagalog worship |
 | 2 | [post-teen pop](../genres/post_teen_pop.md) |
 | 2 | [dance pop](../genres/dance_pop.md) |
@@ -147,6 +147,7 @@ Appears as:
 | 1 | vocal jazz |
 | 1 | swing |
 | 1 | soul |
+| 1 | [singer-songwriter](../genres/singer_songwriter.md) |
 | 1 | roots rock |
 | 1 | piano blues |
 | 1 | new orleans blues |
@@ -155,7 +156,7 @@ Appears as:
 | 1 | jump blues |
 | 1 | jazz blues |
 | 1 | funk |
-| 1 | folk rock |
+| 1 | [folk rock](../genres/folk_rock.md) |
 | 1 | country rock |
 | 1 | classic uk pop |
 | 1 | bubblegum pop |

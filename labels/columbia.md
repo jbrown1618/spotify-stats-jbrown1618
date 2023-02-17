@@ -144,7 +144,7 @@ Appears as:
 
 
 <details>
-<summary>See all 62 genres</summary>
+<summary>See all 63 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -152,19 +152,19 @@ Appears as:
 | 34 | [rock](../genres/rock.md) |
 | 33 | [classic rock](../genres/classic_rock.md) |
 | 31 | [mellow gold](../genres/mellow_gold.md) |
+| 28 | [folk rock](../genres/folk_rock.md) |
 | 26 | [soft rock](../genres/soft_rock.md) |
-| 23 | [singer-songwriter](../genres/singer_songwriter.md) |
+| 24 | [singer-songwriter](../genres/singer_songwriter.md) |
 | 22 | piano rock |
 | 19 | [dance pop](../genres/dance_pop.md) |
 | 18 | [r&b](../genres/r_b.md) |
 | 7 | folk |
 | 6 | hard rock |
-| 6 | folk rock |
 | 5 | pop soul |
-| 5 | neo soul |
 | 5 | melancholia |
 | 5 | album rock |
 | 4 | urban contemporary |
+| 3 | neo soul |
 | 3 | jazz quartet |
 | 3 | jazz |
 | 3 | country dawn |
@@ -204,6 +204,7 @@ Appears as:
 | 1 | [electropop](../genres/electropop.md) |
 | 1 | electro house |
 | 1 | dancehall |
+| 1 | country rock |
 | 1 | classic mandopop |
 | 1 | c-pop |
 | 1 | australian rock |

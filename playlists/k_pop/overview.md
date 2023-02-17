@@ -35,7 +35,7 @@
 | 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../../artists/aespa.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="" width="50" /> | [Dreamcatcher](../../artists/dreamcatcher.md) | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 | 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | [Girls' Generation](../../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
-| 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb45b2ff69ae6a3caccb776cfa" alt="" width="50" /> | [STAYC](../../artists/stayc.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
+| 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f44c5165785a877bd4ae376" alt="" width="50" /> | [STAYC](../../artists/stayc.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 | 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="" width="50" /> | [EXO](../../artists/exo.md) | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
 | 10 | <img src="https://i.scdn.co/image/ab6761610000e5eb968ab271c895fb9cc245d6fe" alt="" width="50" /> | [Billlie](../../artists/billlie.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | Hwa Sa | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
@@ -359,7 +359,7 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 832 | [k-pop](../../genres/k_pop.md) |
+| 835 | [k-pop](../../genres/k_pop.md) |
 | 373 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 238 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
 | 59 | [pop](../../genres/pop.md) |
@@ -380,7 +380,6 @@
 | 2 | j-division |
 | 2 | edm |
 | 2 | chinese idol pop |
-| 2 | chill r&b |
 | 1 | viral pop |
 | 1 | pop rap |
 | 1 | pop dance |
@@ -392,6 +391,7 @@
 | 1 | [electropop](../../genres/electropop.md) |
 | 1 | electronic trap |
 | 1 | danish pop |
+| 1 | chill r&b |
 | 1 | [art pop](../../genres/art_pop.md) |
 
 </details>

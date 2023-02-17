@@ -60,7 +60,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6659b1cb61936bd7bcb229a2" alt="" width="50" /> | Demi Lovato | [🔗](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbfbb660113442efe5e18ac6" alt="" width="50" /> | Shelby Earl | [🔗](https://open.spotify.com/artist/6PIo5nhCQJbR0NfxPdGnGC) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb36e26b5e16a105ddc4e238f6" alt="" width="50" /> | Frou Frou | [🔗](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb07ccdb9ab1ac27384a990ff9" alt="" width="50" /> | Feist | [🔗](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe062176ee3682ca24d6fddd7" alt="" width="50" /> | Feist | [🔗](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc3e907a4fb48f1ad94f5699" alt="" width="50" /> | The Womack Sisters | [🔗](https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s) |
 | 1 | <img src="https://i.scdn.co/image/2d695c3269ba763e82b0a24789bc59d92834b125" alt="" width="50" /> | Gary Jules | [🔗](https://open.spotify.com/artist/5oRnbmgqvvq7fVlgk4vcEa) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb55d7d266173722c1e09968ce" alt="" width="50" /> | Young the Giant | [🔗](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) |
@@ -368,6 +368,7 @@
 | 3 | comic |
 | 2 | washington indie |
 | 2 | uk pop |
+| 2 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 2 | shiver pop |
 | 2 | pop punk |
 | 2 | pop emo |
@@ -388,7 +389,6 @@
 | 1 | swedish electropop |
 | 1 | swedish alternative rock |
 | 1 | spacegrunge |
-| 1 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 1 | shimmer pop |
 | 1 | nu metal |
 | 1 | nu jazz |

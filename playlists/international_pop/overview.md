@@ -305,7 +305,7 @@
 
 
 <details>
-<summary>See all 97 genres</summary>
+<summary>See all 98 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -335,7 +335,6 @@
 | 3 | sunnlensk tonlist |
 | 3 | pop urbaine |
 | 3 | japanese teen pop |
-| 3 | j-poprock |
 | 3 | icelandic pop |
 | 3 | francoton |
 | 3 | bitpop |
@@ -385,6 +384,7 @@
 | 1 | jewish pop |
 | 1 | japanese post-hardcore |
 | 1 | japanese math rock |
+| 1 | j-poprock |
 | 1 | j-pixie |
 | 1 | j-acoustic |
 | 1 | italian pop |
@@ -404,6 +404,7 @@
 | 1 | chinese viral pop |
 | 1 | chinese r&b |
 | 1 | basshall |
+| 1 | alt z |
 | 1 | afro soul |
 | 1 | afro dancehall |
 

@@ -359,16 +359,16 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 308 | [pop](../../genres/pop.md) |
-| 196 | [dance pop](../../genres/dance_pop.md) |
+| 309 | [pop](../../genres/pop.md) |
+| 197 | [dance pop](../../genres/dance_pop.md) |
 | 48 | [post-teen pop](../../genres/post_teen_pop.md) |
-| 30 | [electropop](../../genres/electropop.md) |
-| 29 | [art pop](../../genres/art_pop.md) |
+| 31 | [electropop](../../genres/electropop.md) |
 | 28 | uk pop |
+| 28 | [art pop](../../genres/art_pop.md) |
 | 27 | edm |
 | 21 | pop rap |
 | 19 | urban contemporary |
-| 18 | neo soul |
+| 15 | neo soul |
 | 12 | [neo mellow](../../genres/neo_mellow.md) |
 | 12 | atl hip hop |
 | 11 | [r&b](../../genres/r_b.md) |
@@ -397,6 +397,7 @@
 | 5 | [rock](../../genres/rock.md) |
 | 5 | piano rock |
 | 5 | permanent wave |
+| 5 | electro house |
 | 5 | contemporary r&b |
 | 5 | afrofuturism |
 | 4 | south carolina hip hop |
@@ -406,13 +407,13 @@
 | 4 | [hollywood](../../genres/hollywood.md) |
 | 4 | hip pop |
 | 4 | europop |
-| 4 | electro house |
 | 3 | viral rap |
 | 3 | progressive house |
 | 3 | nz pop |
 | 3 | modern alternative rock |
 | 3 | lgbtq+ hip hop |
 | 3 | latin pop |
+| 3 | indie pop |
 | 3 | hip hop |
 | 3 | etherpop |
 | 3 | chill r&b |
@@ -428,7 +429,6 @@
 | 2 | indy indie |
 | 2 | indiecoustica |
 | 2 | indie r&b |
-| 2 | indie pop |
 | 2 | gauze pop |
 | 2 | filter house |
 | 2 | electro |

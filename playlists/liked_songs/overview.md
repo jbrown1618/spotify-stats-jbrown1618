@@ -37,7 +37,7 @@
 | 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../../artists/aespa.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | 14 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../../artists/radiohead.md) | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
 | 13 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | [CHUNG HA](../../artists/chung_ha.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
-| 12 | <img src="https://i.scdn.co/image/ab6761610000e5eb45b2ff69ae6a3caccb776cfa" alt="" width="50" /> | [STAYC](../../artists/stayc.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
+| 12 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f44c5165785a877bd4ae376" alt="" width="50" /> | [STAYC](../../artists/stayc.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 | 11 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="" width="50" /> | [SEVENTEEN](../../artists/seventeen.md) | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
 | 11 | <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | [Queen](../../artists/queen.md) | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
 | 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | [Girls' Generation](../../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
@@ -356,10 +356,10 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 624 | [k-pop](../../genres/k_pop.md) |
-| 370 | [pop](../../genres/pop.md) |
+| 626 | [k-pop](../../genres/k_pop.md) |
+| 371 | [pop](../../genres/pop.md) |
 | 294 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
-| 169 | [dance pop](../../genres/dance_pop.md) |
+| 170 | [dance pop](../../genres/dance_pop.md) |
 | 164 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
 | 105 | [rock](../../genres/rock.md) |
 | 78 | [classic rock](../../genres/classic_rock.md) |
@@ -370,14 +370,15 @@
 | 43 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 43 | [hollywood](../../genres/hollywood.md) |
 | 42 | [mellow gold](../../genres/mellow_gold.md) |
-| 36 | [electropop](../../genres/electropop.md) |
-| 34 | [art pop](../../genres/art_pop.md) |
+| 37 | [electropop](../../genres/electropop.md) |
+| 33 | [folk rock](../../genres/folk_rock.md) |
+| 33 | [art pop](../../genres/art_pop.md) |
 | 32 | [soft rock](../../genres/soft_rock.md) |
 | 31 | korean pop |
 | 30 | [psychedelic rock](../../genres/psychedelic_rock.md) |
 | 30 | korean r&b |
 | 30 | british invasion |
-| 25 | [singer-songwriter](../../genres/singer_songwriter.md) |
+| 29 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 25 | piano rock |
 | 24 | permanent wave |
 | 23 | beatlesque |
@@ -392,11 +393,9 @@
 | 19 | album rock |
 | 19 | [adult standards](../../genres/adult_standards.md) |
 | 18 | uk pop |
+| 18 | indie pop |
 | 18 | hard rock |
-| 18 | folk rock |
 | 18 | [a cappella](../../genres/a_cappella.md) |
-| 17 | indie pop |
-| 16 | neo soul |
 | 16 | k-rap |
 | 15 | uk alternative pop |
 | 15 | metropopolis |
@@ -404,6 +403,7 @@
 | 15 | alternative rock |
 | 14 | urban contemporary |
 | 14 | oxford indie |
+| 14 | neo soul |
 | 14 | folk |
 | 13 | glam rock |
 | 13 | canadian pop |
@@ -445,7 +445,9 @@
 | 6 | la indie |
 | 6 | hip pop |
 | 6 | hip hop |
+| 6 | funk |
 | 6 | filter house |
+| 6 | country rock |
 | 5 | uk funky |
 | 5 | uk dance |
 | 5 | talent show |
@@ -453,9 +455,7 @@
 | 5 | jazz pop |
 | 5 | indietronica |
 | 5 | girl group |
-| 5 | funk |
 | 5 | anti-folk |
-| 5 | afrofuturism |
 
 </details>
 

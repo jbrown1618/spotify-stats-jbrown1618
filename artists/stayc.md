@@ -2,7 +2,7 @@
 # STAYC
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb45b2ff69ae6a3caccb776cfa" alt="STAYC" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb6f44c5165785a877bd4ae376" alt="STAYC" width="100" />
 
 ## Featured on Playlists
 | Number of Tracks | Art | Playlist |

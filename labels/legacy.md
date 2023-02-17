@@ -61,11 +61,11 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 26 genres](../images/labels/legacy/genres.png)
+![Bar chart of top 27 genres](../images/labels/legacy/genres.png)
 
 
 <details>
-<summary>See all 26 genres</summary>
+<summary>See all 27 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -78,7 +78,7 @@ Appears as:
 | 3 | [singer-songwriter](../genres/singer_songwriter.md) |
 | 3 | jazz quartet |
 | 3 | jazz |
-| 3 | folk rock |
+| 3 | [folk rock](../genres/folk_rock.md) |
 | 3 | folk |
 | 3 | bebop |
 | 2 | symphonic rock |
@@ -94,6 +94,7 @@ Appears as:
 | 1 | rockabilly |
 | 1 | rock-and-roll |
 | 1 | outlaw country |
+| 1 | country rock |
 | 1 | arkansas country |
 
 </details>
