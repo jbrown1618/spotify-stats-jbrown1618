@@ -1,16 +1,16 @@
 # neo mellow
 
-[95 songs](neo_mellow_tracks.md)
+[94 songs](neo_mellow_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 22 artists](../images/genres/neo_mellow/artists.png)
+![Bar chart of top 21 artists](../images/genres/neo_mellow/artists.png)
 
 ![Comparison of Artist](../images/genres/neo_mellow/artists_comparison.png)
 
 
 <details>
-<summary>See all 22 artists</summary>
+<summary>See all 21 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -30,22 +30,21 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1d8a4653fd6d0725521725bb" alt="" width="50" /> | James Smith | [🔗](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc78a80d480018ec030aade25" alt="" width="50" /> | Marc Broussard | [🔗](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb02dd5c821135e146eb2bfc85" alt="" width="50" /> | Snow Patrol | [🔗](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ec0ed4b4cd16649c0ded8a7" alt="" width="50" /> | Brandi Carlile | [🔗](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6818eb7174f73659c4e5d7fe" alt="" width="50" /> | Brandi Carlile | [🔗](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb009ef60c0a99410630cc40c7" alt="" width="50" /> | Jordin Sparks | [🔗](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) |
 | 1 | <img src="https://i.scdn.co/image/914ae1ce7fb065cfb0c89794e5e41c6eca758df3" alt="" width="50" /> | Corinne Bailey Rae | [🔗](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | Christina Aguilera | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebeccc1cde8e9fdcf1c9289897" alt="" width="50" /> | Niall Horan | [🔗](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8f9c3f0a123aecf196868c9c" alt="" width="50" /> | Michael Andrews | [🔗](https://open.spotify.com/artist/0RkqytrwoGyXGvDiZwT6i2) |
 
 </details>
 
 ## Top Albums
 
-![Bar chart of top 28 albums](../images/genres/neo_mellow/albums.png)
+![Bar chart of top 27 albums](../images/genres/neo_mellow/albums.png)
 
 
 <details>
-<summary>See all 28 albums</summary>
+<summary>See all 27 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -70,7 +69,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273260e2444b3431b3b8b559bc3" alt="" width="50" /> | Jordin Sparks | 2007-11-20 | [🔗](https://open.spotify.com/album/6JCNOvp9UeMrFuXwNW0JW6) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273554488d0c51967b1654d8ce5" alt="" width="50" /> | Is There Anybody Out There? | 2014-01-20 | [🔗](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27327c371084dee1b83e614798d" alt="" width="50" /> | Indiana | 2007-01-01 | [🔗](https://open.spotify.com/album/2UpO4j1Zpptiwk3wbUIWmU) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735bac234d5511248b248caf36" alt="" width="50" /> | Flicker (Deluxe) | 2017-10-20 | [🔗](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f" alt="" width="50" /> | Eyes Open | 2006-01-01 | [🔗](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731ec9b096319afbcc2dca6879" alt="" width="50" /> | Corinne Bailey Rae | 2006-01-01 | [🔗](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27309ec47c2a2173e984d8461e9" alt="" width="50" /> | Chariot - Stripped | 2004-07-26 | [🔗](https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI) |
@@ -83,11 +81,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 17 record labels](../images/genres/neo_mellow/labels.png)
+![Bar chart of top 16 record labels](../images/genres/neo_mellow/labels.png)
 
 
 <details>
-<summary>See all 17 labels</summary>
+<summary>See all 16 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -106,7 +104,6 @@
 | 1 | Island Records |
 | 1 | Down Up Down Music |
 | 1 | [Columbia](../labels/columbia.md) |
-| 1 | Capitol Records (US1A) |
 | 1 | 19 Recordings Limited |
 
 </details>
@@ -123,9 +120,9 @@
 | Black Horse And The Cherry Tree (0.748) | Poison & Wine (0.285) |
 | Blow Away (0.747) | City (0.319) |
 | Put Your Records On (0.739) | Come Round Soon (0.338) |
-| Slow Hands (0.735) | Bluebird (0.34) |
-| I Choose You (0.731) | Bright Lights and Cityscapes (0.343) |
-| I'm Yours (0.703) | Mad World (0.344) |
+| I Choose You (0.731) | Bluebird (0.34) |
+| I'm Yours (0.703) | Bright Lights and Cityscapes (0.343) |
+| I Didn't Plan It (0.695) | Mad World (0.344) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -159,12 +156,12 @@
 | Mad World (0.976) | Brave (0.00502) |
 | Manhattan (0.972) | Many the Miles (0.00796) |
 | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 (0.959) | Vegas (0.00881) |
-| Almost Lover (0.947) | Slow Hands (0.011) |
-| Bluebird (0.933) | Bad Idea (feat. Jason Mraz) (0.0168) |
-| What's Inside (0.919) | Wicked Love (0.0178) |
-| Just The Way You Are (0.906) | Gonna Get Over You (0.0199) |
-| Once Upon Another Time (0.896) | Love Song (0.0208) |
-| Miss Simone (0.859) | It's Not That Easy (0.0225) |
+| Almost Lover (0.947) | Bad Idea (feat. Jason Mraz) (0.0168) |
+| Bluebird (0.933) | Wicked Love (0.0178) |
+| What's Inside (0.919) | Gonna Get Over You (0.0199) |
+| Just The Way You Are (0.906) | Love Song (0.0208) |
+| Once Upon Another Time (0.896) | It's Not That Easy (0.0225) |
+| Miss Simone (0.859) | Let The Rain (0.023) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
@@ -186,11 +183,11 @@
 | Ashes And Wine (0.379) | Brave (0.0425) |
 | Chariot (0.37) | Eden (0.0456) |
 | Fire (0.363) | Chasing The Sun (0.0497) |
-| Black Horse And The Cherry Tree (0.34) | Slow Hands (0.055) |
-| Let The Rain (0.297) | King of Anything (0.0574) |
-| It's Not That Easy (0.274) | The Light (0.0691) |
-| Pitter-Pat (0.263) | Islands (0.0699) |
-| SleepWalking (0.26) | Blow Away (0.0701) |
+| Black Horse And The Cherry Tree (0.34) | King of Anything (0.0574) |
+| Let The Rain (0.297) | The Light (0.0691) |
+| It's Not That Easy (0.274) | Islands (0.0699) |
+| Pitter-Pat (0.263) | Blow Away (0.0701) |
+| SleepWalking (0.26) | Whisper (0.0708) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
@@ -198,9 +195,9 @@
 | Black Horse And The Cherry Tree (0.917) | Say Something (0.0765) |
 | Blow Away (0.891) | Islands (0.0863) |
 | Electric Twist (0.858) | Jar of Hearts (0.0886) |
-| Slow Hands (0.848) | Everything Changes (0.0983) |
-| Say You're Sorry (0.846) | We All Need Saving (0.117) |
-| King of Anything (0.81) | Chasing Cars (0.144) |
-| Home (0.795) | Bluebird (0.161) |
-| Lie To Me (0.795) | What's Inside (0.162) |
-| I Didn't Plan It (0.787) | Almost Lover (0.167) |
+| Say You're Sorry (0.846) | Everything Changes (0.0983) |
+| King of Anything (0.81) | We All Need Saving (0.117) |
+| Home (0.795) | Chasing Cars (0.144) |
+| Lie To Me (0.795) | Bluebird (0.161) |
+| I Didn't Plan It (0.787) | What's Inside (0.162) |
+| Bad Idea (feat. Jason Mraz) (0.787) | Almost Lover (0.167) |

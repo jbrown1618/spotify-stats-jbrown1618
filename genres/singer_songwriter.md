@@ -1,16 +1,16 @@
 # singer-songwriter
 
-[52 songs](singer_songwriter_tracks.md)
+[51 songs](singer_songwriter_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 17 artists](../images/genres/singer_songwriter/artists.png)
+![Bar chart of top 16 artists](../images/genres/singer_songwriter/artists.png)
 
 ![Comparison of Artist](../images/genres/singer_songwriter/artists_comparison.png)
 
 
 <details>
-<summary>See all 17 artists</summary>
+<summary>See all 16 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -29,8 +29,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273743ebb11200358b5c050f542" alt="" width="50" /> | Harry Chapin | [🔗](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebbab088e2157b02848dfcbc1e" alt="" width="50" /> | Chicago | [🔗](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf178cbda9bd9a389581ff021" alt="" width="50" /> | Fiona Apple | [🔗](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfed5626c008ba961a81dd218" alt="" width="50" /> | Dr. John | [🔗](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ec0ed4b4cd16649c0ded8a7" alt="" width="50" /> | Brandi Carlile | [🔗](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6818eb7174f73659c4e5d7fe" alt="" width="50" /> | Brandi Carlile | [🔗](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) |
 
 </details>
 
@@ -40,7 +39,7 @@
 
 
 <details>
-<summary>See all 35 albums</summary>
+<summary>See all 34 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -58,7 +57,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d1731f2c0e1c2c8957f35c76" alt="" width="50" /> | Turnstiles | 1976-05-19 | [🔗](https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b254ca0983d65ede8e3d2f7a" alt="" width="50" /> | Tidal | 1996-07-23 | [🔗](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b17d3cdd360973516ade9e6d" alt="" width="50" /> | The Reminder | 2007-01-01 | [🔗](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d5758ffb1632e086776cf14d" alt="" width="50" /> | The Princess and the Frog (Original Motion Picture Soundtrack) | 2009-11-23 | [🔗](https://open.spotify.com/album/0CcL28OkH89kjgKpNZC8sW) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273e5e5f24cf490dfc7041eafc3" alt="" width="50" /> | The Nylon Curtain | 1982-06-23 | [🔗](https://open.spotify.com/album/50bajZpetfL5T0iRCOR74J) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273375445cc7a2aedff11361b51" alt="" width="50" /> | The Joker | 1973-01-01 | [🔗](https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738f09dd4d56cde1a2cda18604" alt="" width="50" /> | The Essential Van Morrison | 2015-12-04 | [🔗](https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa) |
@@ -85,11 +83,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 16 record labels](../images/genres/singer_songwriter/labels.png)
+![Bar chart of top 15 record labels](../images/genres/singer_songwriter/labels.png)
 
 
 <details>
-<summary>See all 16 labels</summary>
+<summary>See all 15 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -103,7 +101,6 @@
 | 2 | Legacy Recordings |
 | 2 | [Epic](../labels/epic.md) |
 | 1 | Work |
-| 1 | [Walt Disney Records](../labels/walt_disney_records.md) |
 | 1 | Universal Music Division Polydor |
 | 1 | Maverick |
 | 1 | Clean Slate |
@@ -123,10 +120,10 @@
 | We Didn't Start the Fire (0.712) | Piano Man (0.334) |
 | I Feel the Earth Move (0.711) | And So It Goes (0.351) |
 | Uptown Girl (0.701) | The Boxer (0.351) |
-| Down in New Orleans (0.697) | Captain Jack (0.392) |
-| A Case of You (0.693) | Scenes from an Italian Restaurant (0.415) |
-| Don't Ask Me Why (0.691) | The Pirate of Penance (0.429) |
-| The Stranger (0.664) | And So It Goes (0.433) |
+| A Case of You (0.693) | Captain Jack (0.392) |
+| Don't Ask Me Why (0.691) | Scenes from an Italian Restaurant (0.415) |
+| The Stranger (0.664) | The Pirate of Penance (0.429) |
+| Movin' Out (Anthony's Song) (0.664) | And So It Goes (0.433) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -176,9 +173,9 @@
 | I Feel the Earth Move (0.00226) | Free Man in Paris (0.0) |
 | My Life (0.00139) | Cat's in the Cradle (0.0) |
 | Pressure (0.000949) | Only the Good Die Young (0.0) |
-| Down in New Orleans (0.000511) | We Didn't Start the Fire (0.0) |
-| Scenes from an Italian Restaurant (0.000501) | Brown Eyed Girl (0.0) |
-| Hotel California - 2013 Remaster (0.000494) | Lullabye (Goodnight, My Angel) (0.0) |
+| Scenes from an Italian Restaurant (0.000501) | We Didn't Start the Fire (0.0) |
+| Hotel California - 2013 Remaster (0.000494) | Brown Eyed Girl (0.0) |
+| She's Always a Woman (0.000473) | Lullabye (Goodnight, My Angel) (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|

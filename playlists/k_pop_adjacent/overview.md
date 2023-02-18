@@ -1,7 +1,7 @@
 # K-Pop-Adjacent
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d0000b27363e0ddbb488d0eeec0e738fcab67616d0000b2736564f1d8386a6993b4d5d759ab67616d0000b27384095737f6056e682666d6f9ab67616d0000b273f2bf9685109a09bdc176fb43" alt="K-Pop-Adjacent" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d0000b27318ff322fcdd47c9400872da6ab67616d0000b27363e0ddbb488d0eeec0e738fcab67616d0000b27384095737f6056e682666d6f9ab67616d0000b273f2bf9685109a09bdc176fb43" alt="K-Pop-Adjacent" width="100" />
 
 [22 songs](tracks.md)
 

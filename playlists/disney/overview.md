@@ -157,7 +157,7 @@
 |---:|:---|
 | 38 | [movie tunes](../../genres/movie_tunes.md) |
 | 22 | [hollywood](../../genres/hollywood.md) |
-| 14 | [show tunes](../../genres/show_tunes.md) |
+| 17 | [show tunes](../../genres/show_tunes.md) |
 | 5 | tagalog worship |
 | 2 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 2 | [dance pop](../../genres/dance_pop.md) |
@@ -166,7 +166,6 @@
 | 1 | vocal jazz |
 | 1 | swing |
 | 1 | soul |
-| 1 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 1 | roots rock |
 | 1 | piano blues |
 | 1 | new orleans blues |
@@ -178,6 +177,7 @@
 | 1 | [folk rock](../../genres/folk_rock.md) |
 | 1 | country rock |
 | 1 | classic uk pop |
+| 1 | [classic rock](../../genres/classic_rock.md) |
 | 1 | bubblegum pop |
 | 1 | [broadway](../../genres/broadway.md) |
 | 1 | blues rock |

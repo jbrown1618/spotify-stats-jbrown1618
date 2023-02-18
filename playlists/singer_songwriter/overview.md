@@ -46,7 +46,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273743ebb11200358b5c050f542" alt="" width="50" /> | Harry Chapin | [🔗](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf178cbda9bd9a389581ff021" alt="" width="50" /> | Fiona Apple | [🔗](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) |
 | 1 | <img src="https://i.scdn.co/image/ab6772690000c46c50e750d1aed632c37a450ffb" alt="" width="50" /> | Duffy | [🔗](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ec0ed4b4cd16649c0ded8a7" alt="" width="50" /> | Brandi Carlile | [🔗](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6818eb7174f73659c4e5d7fe" alt="" width="50" /> | Brandi Carlile | [🔗](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebba2945304f98466b7d67f261" alt="" width="50" /> | Birdy | [🔗](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb84edb8fc7e5a460d4e3664e5" alt="" width="50" /> | Carrie Manolakos | [🔗](https://open.spotify.com/artist/15ptZqEJWDBnhVx6fqaCWV) |
 

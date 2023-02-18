@@ -115,11 +115,11 @@
 
 ## Genres
 
-![Bar chart of top 26 genres](../../images/playlists/hip_hop/genres.png)
+![Bar chart of top 25 genres](../../images/playlists/hip_hop/genres.png)
 
 
 <details>
-<summary>See all 26 genres</summary>
+<summary>See all 25 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -143,7 +143,6 @@
 | 1 | old school hip hop |
 | 1 | old school atlanta hip hop |
 | 1 | lgbtq+ hip hop |
-| 1 | hip house |
 | 1 | electro |
 | 1 | crunk |
 | 1 | conscious hip hop |
