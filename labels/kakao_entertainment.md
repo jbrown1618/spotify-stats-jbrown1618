@@ -70,7 +70,7 @@ Appears as:
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1bb22f3ae0fe8b97bda6931" alt="" width="50" /> | lost child | Lost and Found | [IU](../artists/iu.md) | [Kakao Entertainment](kakao_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/1EzYoGGkr0azLsiq8svGSl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27315cf3110f19687b1a24943d1" alt="" width="50" /> | Good day | REAL | [IU](../artists/iu.md) | [Kakao Entertainment](kakao_entertainment.md) | | [🔗](https://open.spotify.com/track/1SwZVVH9BnXtLRLi2cbFhw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27315cf3110f19687b1a24943d1" alt="" width="50" /> | Good day | REAL | [IU](../artists/iu.md) | [Kakao Entertainment](kakao_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/1SwZVVH9BnXtLRLi2cbFhw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bf5f4138ebc9ba3fd6f0cde9" alt="" width="50" /> | 4AM | Last Fantasy | [IU](../artists/iu.md) | [Kakao Entertainment](kakao_entertainment.md) | | [🔗](https://open.spotify.com/track/3K2qsjNSynFOx2XHTHGXT2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bf5f4138ebc9ba3fd6f0cde9" alt="" width="50" /> | YOU&I | Last Fantasy | [IU](../artists/iu.md) | [Kakao Entertainment](kakao_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/37S86pw74OH8j96ZmMnrpR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="" width="50" /> | The Red Shoes | Modern Times | [IU](../artists/iu.md) | [Kakao Entertainment](kakao_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/3atsk5EWI5fNxLMIJnfYfJ) |

@@ -7,9 +7,9 @@
 ## Featured on Playlists
 | Number of Tracks | Art | Playlist |
 |---:|:---|:---|
-| 43 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735b3685b06e22d32bed46c962ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273f7da7c0f322b7a1c95190d92" alt="" width="50" /> | [K-Pop](../playlists/k_pop/overview.md) |
+| 42 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | [K-Pop](../playlists/k_pop/overview.md) |
 | 7 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2738cab1c75d2271af37c3e2db9ab67616d0000b273d2ef237da7f94762997c2083ab67616d0000b273e9cd59d664f597061a513038ab67616d0000b273ed10325dc317f32df83990b9" alt="" width="50" /> | [Recent Comebacks](../playlists/recent_comebacks/overview.md) |
-| 6 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b273714e56679ab196354e2e443eab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738c4a282e84a53c1c8acf129a" alt="" width="50" /> | [K-Pop Favorites](../playlists/k_pop_favorites/overview.md) |
+| 6 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | [K-Pop Favorites](../playlists/k_pop_favorites/overview.md) |
 | 2 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732270d3bd1d13133edf0be836ab67616d0000b2736017bca98dea58ceddea77c1ab67616d0000b273a0df2d59f0ae9426cba3eb36ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | [Cursed English](../playlists/cursed_english/overview.md) |
 | 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | [K-Pop 101](../playlists/k_pop_101/overview.md) |
 | 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | [Sharon RPD](../playlists/sharon_rpd/overview.md) |
@@ -17,7 +17,7 @@
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
-| 13 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | SKZ-REPLAY | 2022-12-21 | [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) |
+| 11 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | SKZ-REPLAY | 2022-12-21 | [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) |
 | 6 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | NOEASY | 2021-08-23 | [🔗](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) |
 | 5 | <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | ODDINARY | 2022-03-18 | [🔗](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | MAXIDENT | 2022-10-07 | [🔗](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) |
@@ -39,7 +39,7 @@
 
 | Number of Tracks | Label |
 |---:|:---|
-| 44 | [Republic Records](../labels/republic_records.md) |
+| 42 | [Republic Records](../labels/republic_records.md) |
 | 1 | [Sony Music Labels Inc.](../labels/sony_music_labels_inc_.md) |
 | 1 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
 
@@ -85,16 +85,14 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | CASE 143 | MAXIDENT | [Stray Kids](stray_kids.md) | [Republic Records](../labels/republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | Give Me Your TMI | MAXIDENT | [Stray Kids](stray_kids.md) | [Republic Records](../labels/republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/7CQhZA3qNDZBoTKWqjD7gR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | SUPER BOARD | MAXIDENT | [Stray Kids](stray_kids.md) | [Republic Records](../labels/republic_records.md) | | [🔗](https://open.spotify.com/track/078fJxqEUz0LvbHSM6AoXJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | Because (Changbin, Felix) | SKZ-REPLAY | [Stray Kids](stray_kids.md) | [Republic Records](../labels/republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/1Iu7bqGwYVB6OGq4uLt2ak) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | Connected (Bang Chan) | SKZ-REPLAY | [Stray Kids](stray_kids.md) | [Republic Records](../labels/republic_records.md) | | [🔗](https://open.spotify.com/track/3vGSv4l4czTve9jZoYeIWk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | Deep end (Felix) | SKZ-REPLAY | [Stray Kids](stray_kids.md) | [Republic Records](../labels/republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/3VMeAc0SlgLaS9RzA8TSxH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | Because (Changbin, Felix) | SKZ-REPLAY | [Stray Kids](stray_kids.md) | [Republic Records](../labels/republic_records.md) | | [🔗](https://open.spotify.com/track/1Iu7bqGwYVB6OGq4uLt2ak) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | Deep end (Felix) | SKZ-REPLAY | [Stray Kids](stray_kids.md) | [Republic Records](../labels/republic_records.md) | | [🔗](https://open.spotify.com/track/3VMeAc0SlgLaS9RzA8TSxH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | Drive (Bang Chan, Lee Know) | SKZ-REPLAY | [Stray Kids](stray_kids.md) | [Republic Records](../labels/republic_records.md) | | [🔗](https://open.spotify.com/track/0hLvtmoexLKl14LrzxOYRt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | Hug Me (I.N) | SKZ-REPLAY | [Stray Kids](stray_kids.md) | [Republic Records](../labels/republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/5gXUFmE5AKFiInKyHVVEnL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | I GOT IT (HAN) | SKZ-REPLAY | [Stray Kids](stray_kids.md) | [Republic Records](../labels/republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/4atsZkGtoHHPugKK5wzAE1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | Limbo (Lee Know) | SKZ-REPLAY | [Stray Kids](stray_kids.md) | [Republic Records](../labels/republic_records.md) | | [🔗](https://open.spotify.com/track/0nuXhivBOFDiriWCpdyU93) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | Maknae On Top (I.N) | SKZ-REPLAY | [Stray Kids](stray_kids.md), Bang Chan, Changbin | [Republic Records](../labels/republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/1J0qupz0gVGSB5jcRY35tL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | RUN (HAN) | SKZ-REPLAY | [Stray Kids](stray_kids.md) | [Republic Records](../labels/republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/4jjaOnFqtAyiYmP7PdTJbO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | Stars and Raindrops (Seungmin) | SKZ-REPLAY | [Stray Kids](stray_kids.md) | [Republic Records](../labels/republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/5kFGqKqHzVVMMI7V7uoID1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | Stars and Raindrops (Seungmin) | SKZ-REPLAY | [Stray Kids](stray_kids.md) | [Republic Records](../labels/republic_records.md) | | [🔗](https://open.spotify.com/track/5kFGqKqHzVVMMI7V7uoID1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | Up All Night (Bang Chan, Changbin, Felix, Seungmin) | SKZ-REPLAY | [Stray Kids](stray_kids.md) | [Republic Records](../labels/republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/0bxB5Jie9fGKTIibfYVfei) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | i hate to admit (Bang Chan) | SKZ-REPLAY | [Stray Kids](stray_kids.md) | [Republic Records](../labels/republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/0XABJLloqjHsF4mY4tGIOH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | miss you (Hyunjin) | SKZ-REPLAY | [Stray Kids](stray_kids.md) | [Republic Records](../labels/republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/1BwFLLe233S6HR1ravS3yi) |

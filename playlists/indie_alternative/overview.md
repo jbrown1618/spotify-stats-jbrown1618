@@ -368,12 +368,12 @@
 | 3 | comic |
 | 2 | washington indie |
 | 2 | uk pop |
-| 2 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 2 | shiver pop |
 | 2 | pop punk |
 | 2 | pop emo |
 | 2 | pixie |
 | 2 | irish singer-songwriter |
+| 2 | indie poptimism |
 | 2 | gauze pop |
 | 2 | chamber pop |
 | 2 | celtic rock |
@@ -389,6 +389,7 @@
 | 1 | swedish electropop |
 | 1 | swedish alternative rock |
 | 1 | spacegrunge |
+| 1 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 1 | shimmer pop |
 | 1 | nu metal |
 | 1 | nu jazz |
@@ -407,7 +408,6 @@
 | 1 | industrial metal |
 | 1 | industrial |
 | 1 | indie rock italiano |
-| 1 | indie poptimism |
 | 1 | grunge |
 | 1 | folk-pop |
 | 1 | escape room |

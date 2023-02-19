@@ -111,7 +111,7 @@ Appears as:
 
 
 <details>
-<summary>See all 48 genres</summary>
+<summary>See all 47 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -150,7 +150,6 @@ Appears as:
 | 2 | funk |
 | 2 | [folk rock](../genres/folk_rock.md) |
 | 2 | folk |
-| 2 | country rock |
 | 2 | birmingham metal |
 | 1 | trap |
 | 1 | southern hip hop |
@@ -179,7 +178,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Lingo | Girls - The 2nd Mini Album | [aespa](../artists/aespa.md) | [Warner Records](warner_records.md) | 💚 | [🔗](https://open.spotify.com/track/3tB10LUdisNWISpLw5gPCk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0927ea5b0dde802e65eb9b6" alt="" width="50" /> | Baby, I'm Jealous (feat. Doja Cat) | Baby, I'm Jealous (feat. Doja Cat) | Bebe Rexha, Doja Cat | [Warner Records](warner_records.md) | 💚 | [🔗](https://open.spotify.com/track/2fTdRdN73RgIgcUZN33dvt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="" width="50" /> | Break My Heart Myself (feat. Travis Barker) | Better Mistakes | Bebe Rexha, Travis Barker | [Warner Records](warner_records.md) | 💚 | [🔗](https://open.spotify.com/track/3UjGudrhckjEQjKHLR3p5G) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732c960195315acacaaabf1271" alt="" width="50" /> | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) | Bebe Rexha, [ITZY](../artists/itzy.md), YEJI & RYUJIN of ITZY | [Warner Records](warner_records.md) | 💚 | [🔗](https://open.spotify.com/track/5Av4jZOAbtY8STz7KPsNDB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732c960195315acacaaabf1271" alt="" width="50" /> | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) | Bebe Rexha, [ITZY](../artists/itzy.md), YEJI & RYUJIN of ITZY | [Warner Records](warner_records.md) | | [🔗](https://open.spotify.com/track/5Av4jZOAbtY8STz7KPsNDB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5fccf9ce08b6a1e7d12a222" alt="" width="50" /> | Paranoid - 2012 - Remaster | Paranoid (Remaster) | Black Sabbath | [Rhino](rhino.md), [Warner Records](warner_records.md) | | [🔗](https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27343f594be3179178ce058786f" alt="" width="50" /> | Iron Man | The Ultimate Collection | Black Sabbath | [Rhino](rhino.md), [Warner Records](warner_records.md) | 💚 | [🔗](https://open.spotify.com/track/4svkPL62HbvyFgf0nHFXAF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27361c83e0a3e42be611729c840" alt="" width="50" /> | Believe | Believe | Cher | [Warner Records](warner_records.md) | | [🔗](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) |
@@ -200,7 +199,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="" width="50" /> | Go Your Own Way - 2004 Remaster | Rumours (Super Deluxe) | Fleetwood Mac | [Rhino](rhino.md), [Warner Records](warner_records.md) | | [🔗](https://open.spotify.com/track/4xh7W7tlNMIczFhupCPniY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="" width="50" /> | The Chain - 2004 Remaster | Rumours (Super Deluxe) | Fleetwood Mac | [Rhino](rhino.md), [Warner Records](warner_records.md) | | [🔗](https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a2a55eaab314c41d8f6e512" alt="" width="50" /> | Sara - 2015 Remaster | Tusk (2015 Remaster) | Fleetwood Mac | [Rhino](rhino.md), [Warner Records](warner_records.md) | | [🔗](https://open.spotify.com/track/59rSjZAHfFktNxjtx7oM4H) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da4910056497c667d6de40cf" alt="" width="50" /> | LMLY | LMLY | Jackson Wang | [88rising Music/Warner Records](warner_records.md) | 💚 | [🔗](https://open.spotify.com/track/3Jbpo2slhW2bbVneiJnC9G) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da4910056497c667d6de40cf" alt="" width="50" /> | LMLY | LMLY | Jackson Wang | [88rising Music/Warner Records](warner_records.md) | | [🔗](https://open.spotify.com/track/3Jbpo2slhW2bbVneiJnC9G) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="" width="50" /> | Blow | MAGIC MAN | Jackson Wang | [TEAM WANG records/88rising Music/Warner Records](warner_records.md) | 💚 | [🔗](https://open.spotify.com/track/53WD6QvMGh7wXQVP0U8Rnr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="" width="50" /> | Come Alive | MAGIC MAN | Jackson Wang | [TEAM WANG records/88rising Music/Warner Records](warner_records.md) | 💚 | [🔗](https://open.spotify.com/track/2mrG7QoaHDD1kYhr5jeK9q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="" width="50" /> | Cruel | MAGIC MAN | Jackson Wang | [TEAM WANG records/88rising Music/Warner Records](warner_records.md) | 💚 | [🔗](https://open.spotify.com/track/32nxxRcrH6gqlVG2RYYMEN) |

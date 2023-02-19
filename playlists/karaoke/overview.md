@@ -31,7 +31,7 @@
 | 1 | <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | Simon & Garfunkel | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eba5fc004270bdfc9fee7f55f4" alt="" width="50" /> | Jon McLaughlin | [🔗](https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | [Beyoncé](../../artists/beyonc_.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3ea2c03525939b482f8d3bfd" alt="" width="50" /> | Janelle Monáe | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1dc61a0a0612dff3df110ce2" alt="" width="50" /> | Janelle Monáe | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb21a213a4fe1a6f9b45d3f7f9" alt="" width="50" /> | Commodores | [🔗](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4765d540a1ebedeb7c9637a2" alt="" width="50" /> | [Kimbra](../../artists/kimbra.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | [Dua Lipa](../../artists/dua_lipa.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
@@ -217,9 +217,9 @@
 | 7 | [soft rock](../../genres/soft_rock.md) |
 | 7 | [lilith](../../genres/lilith.md) |
 | 7 | [folk rock](../../genres/folk_rock.md) |
-| 6 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 6 | [hollywood](../../genres/hollywood.md) |
 | 6 | [adult standards](../../genres/adult_standards.md) |
+| 5 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 5 | [psychedelic rock](../../genres/psychedelic_rock.md) |
 | 5 | merseybeat |
 | 5 | british invasion |
@@ -244,7 +244,6 @@
 | 2 | funk |
 | 2 | folk |
 | 2 | easy listening |
-| 2 | country rock |
 | 2 | british soul |
 | 2 | atl hip hop |
 | 1 | yacht rock |
@@ -276,6 +275,7 @@
 | 1 | escape room |
 | 1 | [electropop](../../genres/electropop.md) |
 | 1 | disco |
+| 1 | country rock |
 | 1 | comic |
 | 1 | classic soul |
 | 1 | boy band |

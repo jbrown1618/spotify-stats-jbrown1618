@@ -1,6 +1,6 @@
 # k-pop girl group
 
-[396 songs](k_pop_girl_group_tracks.md)
+[393 songs](k_pop_girl_group_tracks.md)
 
 ## Top Artists
 
@@ -10,7 +10,7 @@
 
 
 <details>
-<summary>See all 63 artists</summary>
+<summary>See all 62 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -36,7 +36,6 @@
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc1dc943555dfa1ee2a107e5" alt="" width="50" /> | K/DA | [🔗](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d998e7541724c918777b8ca" alt="" width="50" /> | League of Legends | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
 | 5 | <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | SISTAR | [🔗](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) |
-| 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb20e1b84fe2767e52c4c828fd" alt="" width="50" /> | 2NE1 | [🔗](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb95f4928ac77d31b53626dab3" alt="" width="50" /> | PIXY | [🔗](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb5b1a291b0a6a689091d54d8b" alt="" width="50" /> | IVE | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273dd8c3b43984ed746176ac0cf" alt="" width="50" /> | PinkFantasy | [🔗](https://open.spotify.com/artist/5syu5kN4a5f4rgMCRGlnZp) |
@@ -45,6 +44,7 @@
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb3202449ae19d68607e3f1530" alt="" width="50" /> | NMIXX | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb30a517d1b703c3eabdac2855" alt="" width="50" /> | Wonder Girls | [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebb61d3f392c4b11e9e54280a9" alt="" width="50" /> | Madison Beer | [🔗](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) |
+| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb20e1b84fe2767e52c4c828fd" alt="" width="50" /> | 2NE1 | [🔗](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebd0701912e6fccf8427bc7361" alt="" width="50" /> | GFRIEND | [🔗](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) |
 | 2 | <img src="https://i.scdn.co/image/621c729dd90a6e7a63fc8f0957b2b928834ec5a8" alt="" width="50" /> | 4Minute | [🔗](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eba3e483bda08002c2c7bfa7ef" alt="" width="50" /> | WJSN Chocome | [🔗](https://open.spotify.com/artist/5VyqN5hNo0TbYF0ICU77nn) |
@@ -66,7 +66,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc88f194bc631713f1ddafca9" alt="" width="50" /> | Brown Eyed Girls | [🔗](https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb344cdb83dbe47a8df01f3a52" alt="" width="50" /> | Bekuh Boom | [🔗](https://open.spotify.com/artist/260LldmHBR0r2wtWtjzNxL) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec598a7b9f52817fdd5634f" alt="" width="50" /> | fromis_9 | [🔗](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736af55ea23714e14575d05660" alt="" width="50" /> | Stellar | [🔗](https://open.spotify.com/artist/1rTwKjYcA7diHAD2c8ZozT) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebdaaf5f75751b6379c108993c" alt="" width="50" /> | Bea Miller | [🔗](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f21b8314d7ea1cc899b96a71" alt="" width="50" /> | ALICE | [🔗](https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5) |
 | 1 | <img src="https://i.scdn.co/image/cd8af1e4b3bcab50bc4457ea1d4bd21bb51654dc" alt="" width="50" /> | T-ARA | [🔗](https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8) |
@@ -118,6 +117,7 @@
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273e20e5c366b497518353497b0" alt="" width="50" /> | KILL THIS LOVE | 2019-04-05 | [🔗](https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | I trust | 2020-04-06 | [🔗](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | I burn | 2021-01-11 | [🔗](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) |
+| 4 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | CHESHIRE | 2022-11-30 | [🔗](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="" width="50" /> | 1st Album [Dystopia : The Tree of Language] | 2020-02-18 | [🔗](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="" width="50" /> | [Apocalypse : Save us] | 2022-04-12 | [🔗](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="" width="50" /> | The Red - The 1st Album | 2015-09-09 | [🔗](https://open.spotify.com/album/6YL9J0E6PGtYzkhyMxnmXd) |
@@ -126,7 +126,6 @@
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="" width="50" /> | I am | 2018-05-02 | [🔗](https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="" width="50" /> | Fairyforest : Temptation | 2021-10-07 | [🔗](https://open.spotify.com/album/3999VmQrZOafu4NjYkc0rj) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2736570fd05bcff5edcb16e617d" alt="" width="50" /> | Eyes Wide Open | 2020-10-26 | [🔗](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | CHESHIRE | 2022-11-30 | [🔗](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2739d750d969d227e6506a2c176" alt="" width="50" /> | Bloom | 2022-04-06 | [🔗](https://open.spotify.com/album/4ualu7nMAcmoAqp47YaA95) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | BETWEEN 1&2 | 2022-08-26 | [🔗](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="" width="50" /> | ALL OUT | 2020-11-06 | [🔗](https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb) |
@@ -187,9 +186,9 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ae843591bcdace9489c86fb0" alt="" width="50" /> | WAW | 2021-06-02 | [🔗](https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273520ea0d948ced66d1c1764e2" alt="" width="50" /> | WANNA BE MYSELF | 2020-09-10 | [🔗](https://open.spotify.com/album/0n62copUsWrST9M6AsYfZI) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273aecb87fd2574ad79b05cc024" alt="" width="50" /> | Voltage | 2022-03-23 | [🔗](https://open.spotify.com/album/3MXVqfk9VG3B757nLlow0D) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736aa25194fc6d46aa2b9b703a" alt="" width="50" /> | Vibrato | 2015-07-20 | [🔗](https://open.spotify.com/album/0S1VyZliuHBfMhMCd7kr95) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6" alt="" width="50" /> | Uh-Oh | 2019-06-26 | [🔗](https://open.spotify.com/album/3PzrNuMGWGpp8WOfrmpkaU) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27342678cd46d7322e395400930" alt="" width="50" /> | UNNATURAL | 2021-03-31 | [🔗](https://open.spotify.com/album/0uD1Chx5ZsnZM4kS8yK0S8) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273387444ab2fc1f08dfe7915ab" alt="" width="50" /> | Twicecoaster: Lane 1 | 2016-10-24 | [🔗](https://open.spotify.com/album/5zQhaDNbiXHRqd8Y51I4vy) |
 
 </details>
 
@@ -206,14 +205,14 @@
 |---:|:---|
 | 84 | [SM Entertainment](../labels/sm_entertainment.md) |
 | 66 | [Republic Records](../labels/republic_records.md) |
-| 31 | [YG Entertainment](../labels/yg_entertainment.md) |
+| 29 | [YG Entertainment](../labels/yg_entertainment.md) |
 | 24 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md) |
 | 23 | [Interscope Records](../labels/interscope_records.md) |
 | 18 | [Universal Music LLC](../labels/universal_music_llc.md) |
-| 17 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
+| 16 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
 | 16 | [Starship Entertainment](../labels/starship_entertainment.md) |
-| 14 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
 | 13 | [High Up Entertainment](../labels/high_up_entertainment.md) |
+| 13 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
 | 12 | [RBW Inc.](../labels/rbw_inc_.md) |
 | 12 | [JYP Entertainment](../labels/jyp_entertainment.md) |
 | 10 | [DREAMCATCHER COMPANY](../labels/dreamcatcher_company.md) |
@@ -301,15 +300,15 @@
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Addicted (0.419) | Moonlight Melody (0.0269) |
-| Freedom (0.388) | Lonely (0.0271) |
-| Free Fall (0.376) | Gee (0.0274) |
-| Ice Cream (with Selena Gomez) (0.365) | Hope Not (0.0274) |
-| Signal (0.334) | YOUNG LUV (0.0277) |
-| You Better Run (0.326) | LOVE FOOL (0.0281) |
-| Girls (0.325) | In My Dreams (0.0283) |
-| Be Natural (0.316) | Something (0.0285) |
-| Love So Sweet (0.308) | ESCAPE (0.0295) |
-| O.O (0.293) | Tally (0.031) |
+| Freedom (0.388) | Gee (0.0274) |
+| Free Fall (0.376) | Hope Not (0.0274) |
+| Ice Cream (with Selena Gomez) (0.365) | YOUNG LUV (0.0277) |
+| Signal (0.334) | LOVE FOOL (0.0281) |
+| You Better Run (0.326) | In My Dreams (0.0283) |
+| Girls (0.325) | Something (0.0285) |
+| Be Natural (0.316) | ESCAPE (0.0295) |
+| Love So Sweet (0.308) | Tally (0.031) |
+| O.O (0.293) | Beautiful Christmas (0.0311) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -328,14 +327,14 @@
 |:---|:---|
 | You and I (Park Bom) (0.0837) | Shut Down (0.0) |
 | Adios (0.0794) | SCIENTIST (0.0) |
-| YEPPI YEPPI (0.0391) | Vibrato (0.0) |
-| So Hot (0.00976) | TOMBOY (0.0) |
-| I Am The Best (0.00834) | Hush (0.0) |
-| Power Up (0.00745) | Typa Girl (0.0) |
-| BBoom BBoom (0.00666) | The Boys (0.0) |
-| In My Dreams (0.0066) | Talk that Talk (0.0) |
-| FIRE (0.00643) | Pirate (0.0) |
-| BAAM (0.00431) | FANCY (0.0) |
+| YEPPI YEPPI (0.0391) | TOMBOY (0.0) |
+| So Hot (0.00976) | Hush (0.0) |
+| I Am The Best (0.00834) | Typa Girl (0.0) |
+| Power Up (0.00745) | The Boys (0.0) |
+| BBoom BBoom (0.00666) | Talk that Talk (0.0) |
+| In My Dreams (0.0066) | Pirate (0.0) |
+| FIRE (0.00643) | FANCY (0.0) |
+| BAAM (0.00431) | So Good (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -343,22 +342,22 @@
 | Piano Man (0.807) | SNEAKERS (English Ver.) (0.0242) |
 | You Better Run (0.803) | YEPPI YEPPI (0.029) |
 | I Like That (0.737) | Ice Cream (with Selena Gomez) (0.0311) |
-| Vibrato (0.735) | DARK (X-file) (0.0372) |
-| 행복 (Happiness) (0.725) | BLACK DRESS (0.0386) |
-| LP (0.714) | Red Light (0.0414) |
-| Genie (0.714) | Wings (0.0428) |
-| STEREOTYPE (0.659) | I’m So Hot (0.0437) |
-| COME BACK HOME (0.638) | ELEVEN (0.048) |
+| 행복 (Happiness) (0.725) | DARK (X-file) (0.0372) |
+| LP (0.714) | BLACK DRESS (0.0386) |
+| Genie (0.714) | Red Light (0.0414) |
+| STEREOTYPE (0.659) | Wings (0.0428) |
+| 5th Season (SSFWL) (0.635) | I’m So Hot (0.0437) |
+| Say! Yes (0.634) | ELEVEN (0.048) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Pepe (0.966) | 7월 7일 One Of These Nights (0.11) |
 | So Hot (0.963) | Lucid Dream (0.146) |
-| Miniskirt (0.963) | COME BACK HOME (0.146) |
-| Twinkle (0.962) | Body Talk (0.158) |
-| Lion Heart (0.961) | Hope Not (0.179) |
-| Give it to me (0.961) | In My Dreams (0.179) |
-| 러시안 룰렛 Russian Roulette (0.958) | Ditto (0.183) |
-| Nobody (0.95) | LION (0.187) |
-| Really (0.947) | POSE (0.195) |
-| Devil (0.946) | MORE (0.199) |
+| Miniskirt (0.963) | Body Talk (0.158) |
+| Twinkle (0.962) | Hope Not (0.179) |
+| Lion Heart (0.961) | In My Dreams (0.179) |
+| Give it to me (0.961) | Ditto (0.183) |
+| 러시안 룰렛 Russian Roulette (0.958) | LION (0.187) |
+| Nobody (0.95) | POSE (0.195) |
+| Really (0.947) | MORE (0.199) |
+| Devil (0.946) | 4 Walls (0.223) |

@@ -52,7 +52,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb015d6c512c7389428467d6fe" alt="" width="50" /> | BYU Vocal Point | [🔗](https://open.spotify.com/artist/5zhxxb24WP6q6rbLHAn2UQ) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfc619796228fea88e4373aca" alt="" width="50" /> | The Harmonics | [🔗](https://open.spotify.com/artist/528Rcthd9JqtIrlbrGKNsG) |
 | 1 | <img src="nan" alt="" width="50" /> | Kat Dunbar Linker | [🔗](https://open.spotify.com/artist/512QZ1TM6L4uXmWCVOKHtV) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb488c4c62b8523fe457370872" alt="" width="50" /> | Tink | [🔗](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebee310fa1ea1733fd31d9866c" alt="" width="50" /> | Tink | [🔗](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273bb2a0b1810640a0cb50c1a7f" alt="" width="50" /> | Da Vinci's Notebook | [🔗](https://open.spotify.com/artist/4rIDY3ojaWd7Z9ky9SFc1g) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739a9a592561eabf00f0a8ee4d" alt="" width="50" /> | Varsity Vocals | [🔗](https://open.spotify.com/artist/4bQp9Lm7LgRMLtqEsH3Bqf) |
 | 1 | <img src="nan" alt="" width="50" /> | Emily Shanny | [🔗](https://open.spotify.com/artist/3oWiUIUDPWJmvB8wElpaO5) |

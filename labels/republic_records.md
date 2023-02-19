@@ -1,9 +1,9 @@
 # Republic Records
 
-135 songs
+133 songs
 
 Appears as:
-- Republic Records - Stray Kids (44 tracks)
+- Republic Records - Stray Kids (42 tracks)
 - Republic Records - TWICE (35 tracks)
 - Republic Records - ITZY (31 tracks)
 - Republic Records (13 tracks)
@@ -22,7 +22,7 @@ Appears as:
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
-| 44 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
+| 42 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 | 35 | <img src="https://i.scdn.co/image/ab6761610000e5eb200008f1cb940483514db2bd" alt="" width="50" /> | [TWICE](../artists/twice.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | 31 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../artists/itzy.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 | 10 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../artists/ariana_grande.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
@@ -50,11 +50,11 @@ Appears as:
 
 
 <details>
-<summary>See all 59 albums</summary>
+<summary>See all 58 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
-| 13 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | SKZ-REPLAY | 2022-12-21 | [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) |
+| 11 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | SKZ-REPLAY | 2022-12-21 | [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) |
 | 8 | <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | Formula of Love: O+T=<3 | 2021-11-12 | [🔗](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) |
 | 6 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | NOEASY | 2021-08-23 | [🔗](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) |
 | 6 | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | CRAZY IN LOVE | 2021-09-24 | [🔗](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) |
@@ -65,12 +65,12 @@ Appears as:
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="" width="50" /> | Not Shy (English Ver.) | 2021-01-22 | [🔗](https://open.spotify.com/album/0hoNwSKuuOeT9eAxopgMdm) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | Not Shy | 2020-08-17 | [🔗](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | MAXIDENT | 2022-10-07 | [🔗](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) |
+| 4 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | CHESHIRE | 2022-11-30 | [🔗](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | The Chaos Chapter: FREEZE | 2021-05-31 | [🔗](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="" width="50" /> | Taste of Love | 2021-06-11 | [🔗](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605" alt="" width="50" /> | Positions | 2020-10-30 | [🔗](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273fad8c4176e8df7173479f959" alt="" width="50" /> | GO LIVE | 2020-06-17 | [🔗](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2736570fd05bcff5edcb16e617d" alt="" width="50" /> | Eyes Wide Open | 2020-10-26 | [🔗](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | CHESHIRE | 2022-11-30 | [🔗](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | BETWEEN 1&2 | 2022-08-26 | [🔗](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2739900b995cd1a81c35c574ab0" alt="" width="50" /> | Who You Are (Platinum Edition) | 2011-01-01 | [🔗](https://open.spotify.com/album/3ga4adzUpLaS2LDcoqfs2r) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2736034eda385497f614778f457" alt="" width="50" /> | Twicetagram | 2017-10-30 | [🔗](https://open.spotify.com/album/3hJXmK5gWN9P6jtZL0Lr2y) |
@@ -111,7 +111,6 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273cbb25c0de45e6a6ded073802" alt="" width="50" /> | Clé 1 : MIROH | 2019-03-25 | [🔗](https://open.spotify.com/album/3s6RbqkTprnGwKpoUSYL00) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b84603bfcc9665f8353982fd" alt="" width="50" /> | Cat & Dog (English Version) | 2019-05-03 | [🔗](https://open.spotify.com/album/4uJ120PsfiWOC7aV5FqGkU) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738ae9084b7cfa8281932d9cb9" alt="" width="50" /> | CRY FOR ME | 2020-12-18 | [🔗](https://open.spotify.com/album/2aRAPmBCEdo9pWimsI5l87) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f46afbaf0d7b1d701c7a6b65" alt="" width="50" /> | Boys Like You | 2022-10-21 | [🔗](https://open.spotify.com/album/1KYgerdWcEqB7KbppYtdXU) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="" width="50" /> | After Hours | 2020-03-20 | [🔗](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) |
 
 </details>
@@ -127,9 +126,9 @@ Appears as:
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 87 | [k-pop](../genres/k_pop.md) |
+| 85 | [k-pop](../genres/k_pop.md) |
 | 66 | [k-pop girl group](../genres/k_pop_girl_group.md) |
-| 52 | [k-pop boy group](../genres/k_pop_boy_group.md) |
+| 50 | [k-pop boy group](../genres/k_pop_boy_group.md) |
 | 15 | [pop](../genres/pop.md) |
 | 13 | [dance pop](../genres/dance_pop.md) |
 | 2 | [post-teen pop](../genres/post_teen_pop.md) |
@@ -191,10 +190,10 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | DOMINO | CHECKMATE | [ITZY](../artists/itzy.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/2Yi1F6c06h8HY5ZIvNRogo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | Free Fall | CHECKMATE | [ITZY](../artists/itzy.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/3bW8vRr2qQwtmz46OEPZKk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | RACER | CHECKMATE | [ITZY](../artists/itzy.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/5v15IF9D4nKZbto4US7Ar1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | SNEAKERS | CHECKMATE | [ITZY](../artists/itzy.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | SNEAKERS | CHECKMATE | [ITZY](../artists/itzy.md) | [Republic Records](republic_records.md) | | [🔗](https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | SNEAKERS (English Ver.) | CHECKMATE | [ITZY](../artists/itzy.md) | [Republic Records](republic_records.md) | | [🔗](https://open.spotify.com/track/4DM60RC0fVoHbVRtl4Fjdp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | WHAT I WANT | CHECKMATE | [ITZY](../artists/itzy.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/28E5sYRuv2gpZPEdNAwMkE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f46afbaf0d7b1d701c7a6b65" alt="" width="50" /> | Boys Like You | Boys Like You | [ITZY](../artists/itzy.md) | [Republic Records](republic_records.md) | | [🔗](https://open.spotify.com/track/34y2pV3RGFiCHSP12bNHVk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | Boys Like You | CHESHIRE | [ITZY](../artists/itzy.md) | [Republic Records](republic_records.md) | | [🔗](https://open.spotify.com/track/1V3EKDf81bitSEQTYjOJzZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | Cheshire | CHESHIRE | [ITZY](../artists/itzy.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | Freaky | CHESHIRE | [ITZY](../artists/itzy.md) | [Republic Records](republic_records.md) | | [🔗](https://open.spotify.com/track/6VgVT2ZxtssMdzrbfW1R0d) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | Snowy | CHESHIRE | [ITZY](../artists/itzy.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/1i0NAz5emJMbRWSkADMsL7) |
@@ -233,16 +232,14 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | CASE 143 | MAXIDENT | [Stray Kids](../artists/stray_kids.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | Give Me Your TMI | MAXIDENT | [Stray Kids](../artists/stray_kids.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/7CQhZA3qNDZBoTKWqjD7gR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | SUPER BOARD | MAXIDENT | [Stray Kids](../artists/stray_kids.md) | [Republic Records](republic_records.md) | | [🔗](https://open.spotify.com/track/078fJxqEUz0LvbHSM6AoXJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | Because (Changbin, Felix) | SKZ-REPLAY | [Stray Kids](../artists/stray_kids.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/1Iu7bqGwYVB6OGq4uLt2ak) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | Connected (Bang Chan) | SKZ-REPLAY | [Stray Kids](../artists/stray_kids.md) | [Republic Records](republic_records.md) | | [🔗](https://open.spotify.com/track/3vGSv4l4czTve9jZoYeIWk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | Deep end (Felix) | SKZ-REPLAY | [Stray Kids](../artists/stray_kids.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/3VMeAc0SlgLaS9RzA8TSxH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | Because (Changbin, Felix) | SKZ-REPLAY | [Stray Kids](../artists/stray_kids.md) | [Republic Records](republic_records.md) | | [🔗](https://open.spotify.com/track/1Iu7bqGwYVB6OGq4uLt2ak) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | Deep end (Felix) | SKZ-REPLAY | [Stray Kids](../artists/stray_kids.md) | [Republic Records](republic_records.md) | | [🔗](https://open.spotify.com/track/3VMeAc0SlgLaS9RzA8TSxH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | Drive (Bang Chan, Lee Know) | SKZ-REPLAY | [Stray Kids](../artists/stray_kids.md) | [Republic Records](republic_records.md) | | [🔗](https://open.spotify.com/track/0hLvtmoexLKl14LrzxOYRt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | Hug Me (I.N) | SKZ-REPLAY | [Stray Kids](../artists/stray_kids.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/5gXUFmE5AKFiInKyHVVEnL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | I GOT IT (HAN) | SKZ-REPLAY | [Stray Kids](../artists/stray_kids.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/4atsZkGtoHHPugKK5wzAE1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | Limbo (Lee Know) | SKZ-REPLAY | [Stray Kids](../artists/stray_kids.md) | [Republic Records](republic_records.md) | | [🔗](https://open.spotify.com/track/0nuXhivBOFDiriWCpdyU93) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | Maknae On Top (I.N) | SKZ-REPLAY | [Stray Kids](../artists/stray_kids.md), Bang Chan, Changbin | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/1J0qupz0gVGSB5jcRY35tL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | RUN (HAN) | SKZ-REPLAY | [Stray Kids](../artists/stray_kids.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/4jjaOnFqtAyiYmP7PdTJbO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | Stars and Raindrops (Seungmin) | SKZ-REPLAY | [Stray Kids](../artists/stray_kids.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/5kFGqKqHzVVMMI7V7uoID1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | Stars and Raindrops (Seungmin) | SKZ-REPLAY | [Stray Kids](../artists/stray_kids.md) | [Republic Records](republic_records.md) | | [🔗](https://open.spotify.com/track/5kFGqKqHzVVMMI7V7uoID1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | Up All Night (Bang Chan, Changbin, Felix, Seungmin) | SKZ-REPLAY | [Stray Kids](../artists/stray_kids.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/0bxB5Jie9fGKTIibfYVfei) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | i hate to admit (Bang Chan) | SKZ-REPLAY | [Stray Kids](../artists/stray_kids.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/0XABJLloqjHsF4mY4tGIOH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | miss you (Hyunjin) | SKZ-REPLAY | [Stray Kids](../artists/stray_kids.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/1BwFLLe233S6HR1ravS3yi) |
@@ -252,9 +249,9 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c6cdb00ed42b1d6315f0bc1" alt="" width="50" /> | Blue Hour | minisode1 : Blue Hour | TOMORROW X TOGETHER | [Republic Records](republic_records.md) | | [🔗](https://open.spotify.com/track/3ObPkJQAgjAhTwYvDhPrAW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | 0X1=LOVESONG (I Know I Love You) feat. Seori | The Chaos Chapter: FREEZE | TOMORROW X TOGETHER | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | Anti-Romantic | The Chaos Chapter: FREEZE | TOMORROW X TOGETHER | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/44tTqUi3xi7E28QLzHVdUA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | Frost | The Chaos Chapter: FREEZE | TOMORROW X TOGETHER | [Republic Records](republic_records.md) | | [🔗](https://open.spotify.com/track/3Yp61j6axuQe4nxYWvbOXy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | Frost | The Chaos Chapter: FREEZE | TOMORROW X TOGETHER | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/3Yp61j6axuQe4nxYWvbOXy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735137378ed49327e5dec7406f" alt="" width="50" /> | LO$ER=LO♡ER | The Chaos Chapter: FIGHT OR ESCAPE | TOMORROW X TOGETHER | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27313ac5d67675999ba7b9c4f21" alt="" width="50" /> | Opening Sequence | minisode 2: Thursday's Child | TOMORROW X TOGETHER | [Republic Records](republic_records.md) | | [🔗](https://open.spotify.com/track/1exxGxUMlJWD1h9YcE9YZH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27313ac5d67675999ba7b9c4f21" alt="" width="50" /> | Opening Sequence | minisode 2: Thursday's Child | TOMORROW X TOGETHER | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/1exxGxUMlJWD1h9YcE9YZH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce17f432c79c5e45ce88688f" alt="" width="50" /> | Like Ooh-Ahh | The Story Begins | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/3c0CJ0DBgsGZ7I79lyx02Z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e9e3a1adcc32090690fd0b6" alt="" width="50" /> | CHEER UP | Page Two | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/7lB4rxNVc7vm33ZSZXVRAQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273387444ab2fc1f08dfe7915ab" alt="" width="50" /> | TT | Twicecoaster: Lane 1 | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/60jFaQV7Z4boGC4ob5B5c6) |

@@ -1,6 +1,6 @@
 # pop
 
-[520 songs](pop_tracks.md)
+[521 songs](pop_tracks.md)
 
 ## Top Artists
 
@@ -36,7 +36,7 @@
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | Adele | [🔗](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb654972693e0efed3f3f4d090" alt="" width="50" /> | Jason Derulo | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
-| 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb3ea2c03525939b482f8d3bfd" alt="" width="50" /> | Janelle Monáe | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
+| 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb1dc61a0a0612dff3df110ce2" alt="" width="50" /> | Janelle Monáe | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410" alt="" width="50" /> | Clean Bandit | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb767815f4876969e8f888f0db" alt="" width="50" /> | The Rose | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | Coldplay | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
@@ -265,10 +265,10 @@
 | 8 | Monkey Puzzle Records |
 | 6 | [XL Recordings](../labels/xl_recordings.md) |
 | 6 | Parkwood Entertainment |
+| 6 | Island Records |
 | 6 | Atlantic Records UK |
 | 5 | Music World Music |
 | 5 | Kemosabe Records |
-| 5 | Island Records |
 | 5 | Beluga Heights |
 | 5 | Bad Boy |
 | 4 | LaFace Records |
@@ -407,10 +407,10 @@
 | Wanna Be Startin' Somethin' (0.419) | Sweet As Whole (0.0) |
 | you should see me in a crown (0.219) | Clean (0.0) |
 | bury a friend (0.162) | This Is Why We Can't Have Nice Things (0.0) |
-| Therefore I Am (0.135) | Travelin' Soldier (0.0) |
-| bad guy (0.13) | Love Me Like You Do (0.0) |
-| This Is What You Came For (0.119) | You've Got The Love (0.0) |
-| Bel Air (0.0875) | React (0.0) |
+| West Coast Love (0.153) | Travelin' Soldier (0.0) |
+| Therefore I Am (0.135) | Love Me Like You Do (0.0) |
+| bad guy (0.13) | You've Got The Love (0.0) |
+| This Is What You Came For (0.119) | React (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|

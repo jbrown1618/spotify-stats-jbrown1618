@@ -211,7 +211,7 @@
 
 
 <details>
-<summary>See all 87 genres</summary>
+<summary>See all 88 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -223,7 +223,6 @@
 | 6 | urban contemporary |
 | 6 | [acoustic pop](../../genres/acoustic_pop.md) |
 | 5 | [pop rock](../../genres/pop_rock.md) |
-| 4 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 4 | new americana |
 | 4 | [mellow gold](../../genres/mellow_gold.md) |
 | 4 | [folk rock](../../genres/folk_rock.md) |
@@ -243,6 +242,7 @@
 | 3 | atl hip hop |
 | 2 | uk pop |
 | 2 | soul |
+| 2 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 2 | rockabilly |
 | 2 | rock-and-roll |
 | 2 | rap |
@@ -251,7 +251,6 @@
 | 2 | modern folk rock |
 | 2 | [lilith](../../genres/lilith.md) |
 | 2 | funk |
-| 2 | country rock |
 | 2 | country dawn |
 | 2 | country |
 | 2 | contemporary country |
@@ -279,6 +278,7 @@
 | 1 | lafayette indie |
 | 1 | irish rock |
 | 1 | instrumental bluegrass |
+| 1 | indie poptimism |
 | 1 | [hollywood](../../genres/hollywood.md) |
 | 1 | hip pop |
 | 1 | hip hop |
@@ -289,6 +289,7 @@
 | 1 | easy listening |
 | 1 | doo-wop |
 | 1 | deep indie singer-songwriter |
+| 1 | country rock |
 | 1 | country road |
 | 1 | contemporary r&b |
 | 1 | comic |
