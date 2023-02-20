@@ -1,9 +1,9 @@
 # SM Entertainment
 
-226 songs
+227 songs
 
 Appears as:
-- SM Entertainment (224 tracks)
+- SM Entertainment (225 tracks)
 - MYSTIC ENTERTAINMENT, ChoongangICS, SM ENTERTAINMENT, JYP ENTERTAINMENT (1 tracks)
 - SM Entertainment/Capitol Records (1 tracks)
 
@@ -19,7 +19,7 @@ Appears as:
 |---:|:---|:---|:---|
 | 58 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | 21 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
-| 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d874b307cb092e68db73207" alt="" width="50" /> | [NCT 127](../artists/nct_127.md) | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
+| 15 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d874b307cb092e68db73207" alt="" width="50" /> | [NCT 127](../artists/nct_127.md) | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
 | 13 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | [Girls' Generation](../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="" width="50" /> | [EXO](../artists/exo.md) | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../artists/aespa.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
@@ -207,9 +207,9 @@ Appears as:
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 214 | [k-pop](../genres/k_pop.md) |
+| 215 | [k-pop](../genres/k_pop.md) |
 | 84 | [k-pop girl group](../genres/k_pop_girl_group.md) |
-| 56 | [k-pop boy group](../genres/k_pop_boy_group.md) |
+| 57 | [k-pop boy group](../genres/k_pop_boy_group.md) |
 | 20 | [pop](../genres/pop.md) |
 | 8 | [korean pop](../genres/korean_pop.md) |
 | 1 | korean r&b |
@@ -309,6 +309,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="" width="50" /> | Gold Dust | 2 Baddies - The 4th Album | [NCT 127](../artists/nct_127.md) | [SM Entertainment](sm_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/0Hj4YtlD0Q5O0srdZxJUtl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="" width="50" /> | Time Lapse | 2 Baddies - The 4th Album | [NCT 127](../artists/nct_127.md) | [SM Entertainment](sm_entertainment.md) | | [🔗](https://open.spotify.com/track/3FxGTxebY5j4Etl1KbIIZl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="" width="50" /> | Vitamin | 2 Baddies - The 4th Album | [NCT 127](../artists/nct_127.md) | [SM Entertainment](sm_entertainment.md) | | [🔗](https://open.spotify.com/track/71mbhY822FlcBmxMgeuUgA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737d7f0aa55986024327ce5e6d" alt="" width="50" /> | Ay-Yo | Ay-Yo - The 4th Album Repackage | [NCT 127](../artists/nct_127.md) | [SM Entertainment](sm_entertainment.md) | | [🔗](https://open.spotify.com/track/2KwOuFfwQyT9mZqjvchd81) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27309610687bcd1b3dc95d5d436" alt="" width="50" /> | BOOM | We Boom - The 3rd Mini Album | NCT DREAM | [SM Entertainment](sm_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/6rcn967QN5JtkPOBDwYIuT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ec123b44bb80bb94fc5c237" alt="" width="50" /> | Ridin' | Reload | NCT DREAM | [SM Entertainment](sm_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/0EMD15EVNwDlgGH2CH6ZEL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739dec4de4b22d56be408ee2fd" alt="" width="50" /> | Hot Sauce | Hot Sauce - The 1st Album | NCT DREAM | [SM Entertainment](sm_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er) |

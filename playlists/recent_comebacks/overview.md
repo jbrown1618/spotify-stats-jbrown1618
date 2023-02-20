@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2738cab1c75d2271af37c3e2db9ab67616d0000b273d2ef237da7f94762997c2083ab67616d0000b273e9cd59d664f597061a513038ab67616d0000b273ed10325dc317f32df83990b9" alt="Recent Comebacks" width="100" />
 
-[77 songs](tracks.md)
+[78 songs](tracks.md)
 
 ## Top Artists
 
@@ -13,7 +13,7 @@
 
 
 <details>
-<summary>See all 39 artists</summary>
+<summary>See all 40 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -51,6 +51,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf1d6a7c024d667150db85c85" alt="" width="50" /> | TEN | [🔗](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5045a0e0d423ce29d6b14ebd" alt="" width="50" /> | TREASURE | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb106f77e59715b43f713c68bc" alt="" width="50" /> | &TEAM | [🔗](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b1d9cb7a7c8f11a5a4a528d" alt="" width="50" /> | LEE CHAE YEON | [🔗](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc04289f84778ad850cfcddca" alt="" width="50" /> | Jimin | [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb64aa2c83dd30331b56ffddf3" alt="" width="50" /> | NCT DREAM | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a3393ac350ee2c447494a83" alt="" width="50" /> | HUH YUNJIN | [🔗](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) |
@@ -66,7 +67,7 @@
 
 
 <details>
-<summary>See all 36 albums</summary>
+<summary>See all 37 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -100,6 +101,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736887b017d077dfc5787a3e23" alt="" width="50" /> | MOONLIGHT SUNRISE | 2023-01-20 | [🔗](https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27322f0e32bfb91476f0ad96656" alt="" width="50" /> | MIC ON | 2022-10-11 | [🔗](https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27386b1ba55bf754a73f6ecf729" alt="" width="50" /> | I ≠ DOLL | 2023-01-09 | [🔗](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b589bc0468740f56049a87ba" alt="" width="50" /> | HUSH RUSH | 2022-10-12 | [🔗](https://open.spotify.com/album/6ksAgHMbcJbfxwwO799483) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="" width="50" /> | Forgive Me - The 3rd Mini Album | 2022-11-22 | [🔗](https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738cab1c75d2271af37c3e2db9" alt="" width="50" /> | First Howling : ME | 2022-12-06 | [🔗](https://open.spotify.com/album/3jqV1FFra3A2179rdtiNdo) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27358a75e46b114389a2fe762f6" alt="" width="50" /> | Candy - Winter Special Mini Album | 2022-12-16 | [🔗](https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K) |
@@ -112,11 +114,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 23 record labels](../../images/playlists/recent_comebacks/labels.png)
+![Bar chart of top 24 record labels](../../images/playlists/recent_comebacks/labels.png)
 
 
 <details>
-<summary>See all 23 labels</summary>
+<summary>See all 24 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -134,14 +136,15 @@
 | 2 | [Starship Entertainment](../../labels/starship_entertainment.md) |
 | 2 | [RBW Inc.](../../labels/rbw_inc_.md) |
 | 2 | [MYSTIC STORY](../../labels/mystic_story.md) |
+| 2 | [Genie Music Corporation](../../labels/genie_music_corporation.md) |
 | 2 | Feel Ghood Music |
 | 2 | ADOR |
 | 1 | THEBLACKLABEL |
+| 1 | [Stone Music Entertainment](../../labels/stone_music_entertainment.md) |
 | 1 | SWING ENTERTAINMENT |
 | 1 | KQ Entertainment |
 | 1 | [High Up Entertainment](../../labels/high_up_entertainment.md) |
 | 1 | HYBE LABELS JAPAN |
-| 1 | [Genie Music Corporation](../../labels/genie_music_corporation.md) |
 | 1 | BIGPLANETMADE ENTERTAINMENT Corp. |
 
 </details>
@@ -157,7 +160,7 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 60 | [k-pop](../../genres/k_pop.md) |
+| 61 | [k-pop](../../genres/k_pop.md) |
 | 29 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 17 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
 | 3 | korean r&b |
@@ -178,7 +181,7 @@
 | Year | Number of Tracks |
 |:---|---:|
 | 2023 | 15 |
-| [2022](2022.md) | 62 |
+| [2022](2022.md) | 63 |
 
 </details>
 
@@ -192,8 +195,8 @@
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="Stamp On It - The 1st Mini Album" width="50" /> <span style="padding-left:10px;">Stamp On It - The 1st Mini Album (2023-01-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="BETWEEN 1&2" width="50" /> <span style="padding-left:10px;">BETWEEN 1&2 (2022-08-26)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f7994d33de90ec347aa477c3" alt="VIBE (feat. Jimin of BTS)" width="50" /> <span style="padding-left:10px;">VIBE (feat. Jimin of BTS) (2023-01-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738232e1aaaf4c9ed4b6946ce8" alt="the Billage of perception: chapter two" width="50" /> <span style="padding-left:10px;">the Billage of perception: chapter two (2022-08-31)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27386b1ba55bf754a73f6ecf729" alt="I ≠ DOLL" width="50" /> <span style="padding-left:10px;">I ≠ DOLL (2023-01-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="MAGIC MAN" width="50" /> <span style="padding-left:10px;">MAGIC MAN (2022-09-09)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="REASON" width="50" /> <span style="padding-left:10px;">REASON (2023-01-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="BORN PINK" width="50" /> <span style="padding-left:10px;">BORN PINK (2022-09-16)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01" alt="NewJeans 'OMG'" width="50" /> <span style="padding-left:10px;">NewJeans 'OMG' (2023-01-02)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="2 Baddies - The 4th Album" width="50" /> <span style="padding-left:10px;">2 Baddies - The 4th Album (2022-09-16)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="REASON" width="50" /> <span style="padding-left:10px;">REASON (2023-01-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="2 Baddies - The 4th Album" width="50" /> <span style="padding-left:10px;">2 Baddies - The 4th Album (2022-09-16)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01" alt="NewJeans 'OMG'" width="50" /> <span style="padding-left:10px;">NewJeans 'OMG' (2023-01-02)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="BORN PINK" width="50" /> <span style="padding-left:10px;">BORN PINK (2022-09-16)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738bc5762a75c18b494803705c" alt="SPIN OFF : FROM THE WITNESS" width="50" /> <span style="padding-left:10px;">SPIN OFF : FROM THE WITNESS (2022-12-30)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27390831ba9ed4aa3b89fd6b81c" alt="Street Man Fighter Original Vol.4 (Crew Songs)" width="50" /> <span style="padding-left:10px;">Street Man Fighter Original Vol.4 (Crew Songs) (2022-09-20)</span></div> |
 ## Audio Features
 
@@ -254,13 +257,13 @@
 | Girls (0.000594) | Shut Down (0.0) |
 | HALAZIA (0.000575) | Gold Dust (0.0) |
 | Crown (0.000337) | Typa Girl (0.0) |
-| Stamp On It (0.000142) | Talk that Talk (0.0) |
-| BIBI Vengeance (0.000128) | Tally (0.0) |
-| Priority (0.000127) | Rose (0.0) |
-| Cruel (0.000114) | miss you (Hyunjin) (0.0) |
-| ZOOM (5.39e-05) | Beautiful Liar (0.0) |
-| On A Ride (2.54e-05) | Beautiful Christmas (0.0) |
-| Maknae On Top (I.N) (1.97e-05) | 2 Baddies (0.0) |
+| Stamp On It (0.000142) | HUSH RUSH (0.0) |
+| BIBI Vengeance (0.000128) | Talk that Talk (0.0) |
+| Priority (0.000127) | Tally (0.0) |
+| Cruel (0.000114) | Rose (0.0) |
+| ZOOM (5.39e-05) | miss you (Hyunjin) (0.0) |
+| On A Ride (2.54e-05) | Beautiful Liar (0.0) |
+| Maknae On Top (I.N) (1.97e-05) | Beautiful Christmas (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|

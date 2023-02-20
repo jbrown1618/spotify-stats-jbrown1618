@@ -1,6 +1,6 @@
 # k-pop girl group
 
-[393 songs](k_pop_girl_group_tracks.md)
+[394 songs](k_pop_girl_group_tracks.md)
 
 ## Top Artists
 
@@ -25,9 +25,9 @@
 | 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | [Girls' Generation](../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f44c5165785a877bd4ae376" alt="" width="50" /> | [STAYC](../artists/stayc.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | CLC | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
+| 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb6199c3c2f414880e2b9077a9" alt="" width="50" /> | NewJeans | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="" width="50" /> | EVERGLOW | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8786ccb6031a3266bb15606" alt="" width="50" /> | WJSN | [🔗](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) |
-| 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb6199c3c2f414880e2b9077a9" alt="" width="50" /> | NewJeans | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb80584436e5726afb70cee7f8" alt="" width="50" /> | LOONA | [🔗](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb9954a1ab45b2404a7bff2a45" alt="" width="50" /> | OH MY GIRL | [🔗](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb271110d977700b69d9548993" alt="" width="50" /> | EXID | [🔗](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) |
@@ -217,8 +217,8 @@
 | 12 | [JYP Entertainment](../labels/jyp_entertainment.md) |
 | 10 | [DREAMCATCHER COMPANY](../labels/dreamcatcher_company.md) |
 | 7 | WM Entertainment |
+| 7 | ADOR |
 | 6 | [FNC ENTERTAINMENT](../labels/fnc_entertainment.md) |
-| 6 | ADOR |
 | 5 | [Warner Records](../labels/warner_records.md) |
 | 5 | Riot Games |
 | 4 | avex trax |
@@ -357,7 +357,7 @@
 | Twinkle (0.962) | Hope Not (0.179) |
 | Lion Heart (0.961) | In My Dreams (0.179) |
 | Give it to me (0.961) | Ditto (0.183) |
-| 러시안 룰렛 Russian Roulette (0.958) | LION (0.187) |
-| Nobody (0.95) | POSE (0.195) |
-| Really (0.947) | MORE (0.199) |
-| Devil (0.946) | 4 Walls (0.223) |
+| 러시안 룰렛 Russian Roulette (0.958) | Ditto (0.183) |
+| Nobody (0.95) | LION (0.187) |
+| Really (0.947) | POSE (0.195) |
+| Devil (0.946) | MORE (0.199) |

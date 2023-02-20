@@ -251,6 +251,7 @@
 | 2 | modern folk rock |
 | 2 | [lilith](../../genres/lilith.md) |
 | 2 | funk |
+| 2 | country rock |
 | 2 | country dawn |
 | 2 | country |
 | 2 | contemporary country |
@@ -289,7 +290,6 @@
 | 1 | easy listening |
 | 1 | doo-wop |
 | 1 | deep indie singer-songwriter |
-| 1 | country rock |
 | 1 | country road |
 | 1 | contemporary r&b |
 | 1 | comic |

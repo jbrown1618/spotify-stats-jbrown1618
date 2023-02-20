@@ -4,6 +4,8 @@
 
 | Track | Track Popularity | Release Date | Artists | Album | Album Popularity | Playlists | Label | 💚 |
 |:---|---:|:---|:---|:---|---:|:---|:---|:---|
+| Ditto [🔗](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | 89 | 2022-12-19 | NewJeans [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | Ditto [🔗](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 84 | Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy) | ADOR | |
+| Ditto [🔗](https://open.spotify.com/track/5702raF31K9rvD6KZ6sCTo) | 74 | 2023-01-02 | NewJeans [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | NewJeans 'OMG' [🔗](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 86 | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | ADOR | 💚 |
 | FANCY [🔗](https://open.spotify.com/track/0W5hTAWn8Tq0Qfhg1XP3YW) | 0 | 2019-04-22 | TWICE [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | FANCY YOU [🔗](https://open.spotify.com/album/2qoWlACJtoG0L5owi7Tj0I) | 0 | K-Pop 101 [🔗](https://open.spotify.com/playlist/1NlCn9vDmQDBF54JyVC2MC) | Imperial Distribution | |
 | FANCY [🔗](https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt) | 72 | 2019-04-22 | TWICE [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | FANCY YOU [🔗](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) | 68 | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Republic Records - TWICE | 💚 |
 

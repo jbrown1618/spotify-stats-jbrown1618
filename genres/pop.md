@@ -1,6 +1,6 @@
 # pop
 
-[521 songs](pop_tracks.md)
+[522 songs](pop_tracks.md)
 
 ## Top Artists
 
@@ -279,6 +279,7 @@
 | 3 | Open Wide |
 | 3 | Olivia Rodrigo PS |
 | 3 | Island UK |
+| 3 | EMI |
 | 3 | Casablanca Records |
 | 3 | Arista Nashville |
 | 3 | Arista |
@@ -295,7 +296,6 @@
 | 2 | [Hollywood Records](../labels/hollywood_records.md) |
 | 2 | Golden Child Recordings |
 | 2 | G.O.O.D. Music |
-| 2 | EMI |
 | 2 | Def Jam |
 | 2 | Cash Money |
 | 2 | Artist Partner |

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="Pop" width="100" />
 
-[362 songs](tracks.md)
+[363 songs](tracks.md)
 
 ## Top Artists
 
@@ -216,6 +216,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b63bc9378aa07542c6db43d6" alt="" width="50" /> | Version | 2007-07-10 | [🔗](https://open.spotify.com/album/74ooEOK4jY2ZCWjMK6pYmk) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273442b53773d50e1b5369bb16c" alt="" width="50" /> | V | 2014-09-02 | [🔗](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273e419ccba0baa8bd3f3d7abf2" alt="" width="50" /> | Uptown Special | 2015-01-12 | [🔗](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a935e4689f15953311772cc4" alt="" width="50" /> | Unholy (feat. Kim Petras) | 2022-09-22 | [🔗](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="" width="50" /> | Unapologetic (Deluxe) | 2012-12-11 | [🔗](https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273312bd86cc2db22fde885ee73" alt="" width="50" /> | UN DIA (ONE DAY) (Feat. Tainy) | 2020-07-24 | [🔗](https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273969438a8091085c2472a0766" alt="" width="50" /> | Til It Happens To You | 2015-09-18 | [🔗](https://open.spotify.com/album/00qjYaNSNpQCZHhCpAlH60) |
@@ -230,7 +231,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273937af329667311f4b2831616" alt="" width="50" /> | Teenage Dream: The Complete Confection | 2012-03-12 | [🔗](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732f8c0fd72a80a93f8c53b96c" alt="" width="50" /> | Taylor Swift | 2006-10-24 | [🔗](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27364d58f6e7672baecc8972806" alt="" width="50" /> | Tattoos (Deluxe Edition) | 2013-09-10 | [🔗](https://open.spotify.com/album/3wDeTllVvayYsWTHsFNWZQ) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d6522bee68370fa5592301d" alt="" width="50" /> | Swalla (feat. Nicki Minaj & Ty Dolla $ign) | 2017-02-23 | [🔗](https://open.spotify.com/album/2e5CxfyEwBW115beiwh7Mc) |
 
 </details>
 
@@ -359,13 +359,13 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 308 | [pop](../../genres/pop.md) |
+| 309 | [pop](../../genres/pop.md) |
 | 197 | [dance pop](../../genres/dance_pop.md) |
 | 48 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 31 | [electropop](../../genres/electropop.md) |
-| 28 | uk pop |
+| 29 | uk pop |
 | 28 | [art pop](../../genres/art_pop.md) |
-| 27 | edm |
+| 24 | edm |
 | 21 | pop rap |
 | 19 | urban contemporary |
 | 15 | neo soul |
@@ -413,7 +413,6 @@
 | 3 | modern alternative rock |
 | 3 | lgbtq+ hip hop |
 | 3 | latin pop |
-| 3 | indie pop |
 | 3 | hip hop |
 | 3 | etherpop |
 | 3 | chill r&b |
@@ -429,6 +428,7 @@
 | 2 | indy indie |
 | 2 | indiecoustica |
 | 2 | indie r&b |
+| 2 | indie pop |
 | 2 | gauze pop |
 | 2 | filter house |
 | 2 | electro |
@@ -473,7 +473,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| 2022 | 6 |
+| 2022 | 7 |
 | 2021 | 18 |
 | [2020](2020.md) | 48 |
 | [2019](2019.md) | 44 |
@@ -504,15 +504,15 @@
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="CHARLIE" width="50" /> <span style="padding-left:10px;">CHARLIE (2022-10-06)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738e49866860c25afffe2f1a02" alt="...Baby One More Time (Digital Deluxe Version)" width="50" /> <span style="padding-left:10px;">...Baby One More Time (Digital Deluxe Version) (1999-01-12)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318" alt="Guitar Songs" width="50" /> <span style="padding-left:10px;">Guitar Songs (2022-07-21)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" alt="Millennium" width="50" /> <span style="padding-left:10px;">Millennium (1999-05-18)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731e8798f25a1997f0679b2382" alt="Hot In It" width="50" /> <span style="padding-left:10px;">Hot In It (2022-06-30)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="No Strings Attached" width="50" /> <span style="padding-left:10px;">No Strings Attached (2000-03-21)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b817e721691aff3d67f26c04" alt="About Damn Time" width="50" /> <span style="padding-left:10px;">About Damn Time (2022-04-14)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732aa20611c7fb964a74ab01a6" alt="Oops!... I Did It Again" width="50" /> <span style="padding-left:10px;">Oops!... I Did It Again (2000-05-16)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="CRASH" width="50" /> <span style="padding-left:10px;">CRASH (2022-03-18)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733d92b2ad5af9fbc8637425f0" alt="Parachutes" width="50" /> <span style="padding-left:10px;">Parachutes (2000-07-10)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27379ffc01d8bc8312192cacfc0" alt="Love's Train" width="50" /> <span style="padding-left:10px;">Love's Train (2022-02-14)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e1a4e01cb7a1ecff468bbead" alt="Britney (Digital Deluxe Version)" width="50" /> <span style="padding-left:10px;">Britney (Digital Deluxe Version) (2001-10-31)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c6b577e4c4a6d326354a89f7" alt="30" width="50" /> <span style="padding-left:10px;">30 (2021-11-19)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e" alt="Songs About Jane: 10th Anniversary Edition" width="50" /> <span style="padding-left:10px;">Songs About Jane: 10th Anniversary Edition (2002)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> <span style="padding-left:10px;">An Evening With Silk Sonic (2021-11-11)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27317b3850d758fff5a2301e537" alt="Songs About Jane" width="50" /> <span style="padding-left:10px;">Songs About Jane (2002-06-25)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27354d075797911e02360beb3e7" alt="SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)" width="50" /> <span style="padding-left:10px;">SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (2021-10-22)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="A Rush of Blood to the Head" width="50" /> <span style="padding-left:10px;">A Rush of Blood to the Head (2002-08-08)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273be82673b5f79d9658ec0a9fd" alt="MONTERO" width="50" /> <span style="padding-left:10px;">MONTERO (2021-09-17)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273af3ad974e635a6b18579adee" alt="A Beautiful World" width="50" /> <span style="padding-left:10px;">A Beautiful World (2002-12-13)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a935e4689f15953311772cc4" alt="Unholy (feat. Kim Petras)" width="50" /> <span style="padding-left:10px;">Unholy (feat. Kim Petras) (2022-09-22)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" alt="Millennium" width="50" /> <span style="padding-left:10px;">Millennium (1999-05-18)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318" alt="Guitar Songs" width="50" /> <span style="padding-left:10px;">Guitar Songs (2022-07-21)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="No Strings Attached" width="50" /> <span style="padding-left:10px;">No Strings Attached (2000-03-21)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731e8798f25a1997f0679b2382" alt="Hot In It" width="50" /> <span style="padding-left:10px;">Hot In It (2022-06-30)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732aa20611c7fb964a74ab01a6" alt="Oops!... I Did It Again" width="50" /> <span style="padding-left:10px;">Oops!... I Did It Again (2000-05-16)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b817e721691aff3d67f26c04" alt="About Damn Time" width="50" /> <span style="padding-left:10px;">About Damn Time (2022-04-14)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733d92b2ad5af9fbc8637425f0" alt="Parachutes" width="50" /> <span style="padding-left:10px;">Parachutes (2000-07-10)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="CRASH" width="50" /> <span style="padding-left:10px;">CRASH (2022-03-18)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e1a4e01cb7a1ecff468bbead" alt="Britney (Digital Deluxe Version)" width="50" /> <span style="padding-left:10px;">Britney (Digital Deluxe Version) (2001-10-31)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27379ffc01d8bc8312192cacfc0" alt="Love's Train" width="50" /> <span style="padding-left:10px;">Love's Train (2022-02-14)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e" alt="Songs About Jane: 10th Anniversary Edition" width="50" /> <span style="padding-left:10px;">Songs About Jane: 10th Anniversary Edition (2002)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c6b577e4c4a6d326354a89f7" alt="30" width="50" /> <span style="padding-left:10px;">30 (2021-11-19)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27317b3850d758fff5a2301e537" alt="Songs About Jane" width="50" /> <span style="padding-left:10px;">Songs About Jane (2002-06-25)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> <span style="padding-left:10px;">An Evening With Silk Sonic (2021-11-11)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="A Rush of Blood to the Head" width="50" /> <span style="padding-left:10px;">A Rush of Blood to the Head (2002-08-08)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27354d075797911e02360beb3e7" alt="SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)" width="50" /> <span style="padding-left:10px;">SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (2021-10-22)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273af3ad974e635a6b18579adee" alt="A Beautiful World" width="50" /> <span style="padding-left:10px;">A Beautiful World (2002-12-13)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |

@@ -244,6 +244,7 @@
 | 2 | funk |
 | 2 | folk |
 | 2 | easy listening |
+| 2 | country rock |
 | 2 | british soul |
 | 2 | atl hip hop |
 | 1 | yacht rock |
@@ -275,7 +276,6 @@
 | 1 | escape room |
 | 1 | [electropop](../../genres/electropop.md) |
 | 1 | disco |
-| 1 | country rock |
 | 1 | comic |
 | 1 | classic soul |
 | 1 | boy band |

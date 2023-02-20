@@ -241,6 +241,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" alt="" width="50" /> | Cookie | NewJeans 1st EP 'New Jeans' | NewJeans | ADOR | | [🔗](https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" alt="" width="50" /> | Hurt | NewJeans 1st EP 'New Jeans' | NewJeans | ADOR | 💚 | [🔗](https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" alt="" width="50" /> | Hype Boy | NewJeans 1st EP 'New Jeans' | NewJeans | ADOR | 💚 | [🔗](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f" alt="" width="50" /> | Ditto | Ditto | NewJeans | ADOR | | [🔗](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01" alt="" width="50" /> | Ditto | NewJeans 'OMG' | NewJeans | ADOR | 💚 | [🔗](https://open.spotify.com/track/5702raF31K9rvD6KZ6sCTo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01" alt="" width="50" /> | OMG | NewJeans 'OMG' | NewJeans | ADOR | 💚 | [🔗](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738d64ee7e356e13a96062bd0b" alt="" width="50" /> | O.O | AD MARE | NMIXX | [JYP Entertainment](../labels/jyp_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6) |
