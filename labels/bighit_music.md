@@ -1,9 +1,9 @@
 # BIGHIT MUSIC
 
-41 songs
+42 songs
 
 Appears as:
-- BIGHIT MUSIC (25 tracks)
+- BIGHIT MUSIC (26 tracks)
 - BIGHIT MUSIC / HYBE (16 tracks)
 
 ## Top Artists
@@ -17,7 +17,7 @@ Appears as:
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
 | 32 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
-| 5 | <img src="https://i.scdn.co/image/ab6761610000e5ebe94c521bbe0604a5fcd4f8bf" alt="" width="50" /> | Agust D | [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) |
+| 6 | <img src="https://i.scdn.co/image/ab6761610000e5ebe94c521bbe0604a5fcd4f8bf" alt="" width="50" /> | Agust D | [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5ebfa980b99bc5f4d47b4253f82" alt="" width="50" /> | j-hope | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5fb007a707c0ec3a7c1726af" alt="" width="50" /> | Steve Aoki | [🔗](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb978f96761eb3fa26b91f1fb8" alt="" width="50" /> | Becky G | [🔗](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) |
@@ -30,11 +30,11 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 18 albums](../images/labels/bighit_music/albums.png)
+![Bar chart of top 19 albums](../images/labels/bighit_music/albums.png)
 
 
 <details>
-<summary>See all 18 albums</summary>
+<summary>See all 19 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -54,6 +54,7 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738ac442a54c68aad8f9b93f51" alt="" width="50" /> | The Most Beautiful Moment in Life Pt.2 | 2015-11-30 | [🔗](https://open.spotify.com/album/4frjaGAtuBmm8CPuYPY4oG) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ab9433cc4b9cda9431be879a" alt="" width="50" /> | Skool Luv Affair | 2014-02-12 | [🔗](https://open.spotify.com/album/5r35iS0uSSoQBKzQj0IeI3) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="" width="50" /> | Proof | 2022-06-10 | [🔗](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | D-2 | 2020-05-22 | [🔗](https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273819e2d9468a6792735c0ec77" alt="" width="50" /> | Chicken Noodle Soup (feat. Becky G) | 2019-09-27 | [🔗](https://open.spotify.com/album/76IRLp7YzBVLKsat6Ro9ae) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ed656680374294d5217193fa" alt="" width="50" /> | Butter | 2021-05-21 | [🔗](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) |
 
@@ -72,7 +73,7 @@ Appears as:
 |---:|:---|
 | 36 | [k-pop](../genres/k_pop.md) |
 | 32 | [k-pop boy group](../genres/k_pop_boy_group.md) |
-| 9 | k-rap |
+| 10 | k-rap |
 
 </details>
 
@@ -85,6 +86,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273a498cf792773aa474d779dd8" alt="" width="50" /> | Daechwita | D-2 | Agust D | [BIGHIT MUSIC](bighit_music.md), [HYBE](hybe.md) | 💚 | [🔗](https://open.spotify.com/track/0H4ugk6rhnXmTl47ayy9O5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a498cf792773aa474d779dd8" alt="" width="50" /> | Moonlight | D-2 | Agust D | [BIGHIT MUSIC](bighit_music.md), [HYBE](hybe.md) | 💚 | [🔗](https://open.spotify.com/track/5uHrWZqndnheP1qtYr6xGC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a498cf792773aa474d779dd8" alt="" width="50" /> | People | D-2 | Agust D | [BIGHIT MUSIC](bighit_music.md), [HYBE](hybe.md) | 💚 | [🔗](https://open.spotify.com/track/0SJ7vFES0Lj6pnumh3DhCe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | People | D-2 | Agust D | [BIGHIT MUSIC](bighit_music.md) | | [🔗](https://open.spotify.com/track/4wDSEE082RPcnhXzPzFhCp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a498cf792773aa474d779dd8" alt="" width="50" /> | Strange | D-2 | Agust D, RM | [BIGHIT MUSIC](bighit_music.md), [HYBE](hybe.md) | | [🔗](https://open.spotify.com/track/4KjASaPtCvRJ4YArYpz6je) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27349a0f2ca62742d289da81509" alt="" width="50" /> | Like | 2 Cool 4 Skool | [BTS](../artists/bts.md) | [BIGHIT MUSIC](bighit_music.md), [HYBE](hybe.md) | | [🔗](https://open.spotify.com/track/1HQHuPpr2s2z3VIBTLtUmv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27349a0f2ca62742d289da81509" alt="" width="50" /> | No More Dream | 2 Cool 4 Skool | [BTS](../artists/bts.md) | [BIGHIT MUSIC](bighit_music.md), [HYBE](hybe.md) | | [🔗](https://open.spotify.com/track/4frlkLwlnm58ejpNwWjxyl) |
