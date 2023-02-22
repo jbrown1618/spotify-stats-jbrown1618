@@ -120,7 +120,7 @@ Appears as:
 
 
 <details>
-<summary>See all 34 genres</summary>
+<summary>See all 35 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -145,6 +145,7 @@ Appears as:
 | 1 | rap |
 | 1 | pop rap |
 | 1 | oakland hip hop |
+| 1 | neo soul |
 | 1 | modern rock |
 | 1 | modern alternative rock |
 | 1 | italian pop |

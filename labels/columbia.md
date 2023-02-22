@@ -161,10 +161,10 @@ Appears as:
 | 7 | folk |
 | 6 | hard rock |
 | 5 | pop soul |
+| 5 | neo soul |
 | 5 | melancholia |
 | 5 | album rock |
 | 4 | urban contemporary |
-| 3 | neo soul |
 | 3 | jazz quartet |
 | 3 | jazz |
 | 3 | country dawn |

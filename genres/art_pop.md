@@ -1,16 +1,16 @@
 # art pop
 
-[48 songs](art_pop_tracks.md)
+[49 songs](art_pop_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 16 artists](../images/genres/art_pop/artists.png)
+![Bar chart of top 17 artists](../images/genres/art_pop/artists.png)
 
 ![Comparison of Artist](../images/genres/art_pop/artists_comparison.png)
 
 
 <details>
-<summary>See all 16 artists</summary>
+<summary>See all 17 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -29,17 +29,18 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf178cbda9bd9a389581ff021" alt="" width="50" /> | Fiona Apple | [🔗](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eba8b955d42229e4cbd03d4cd8" alt="" width="50" /> | VERNON | [🔗](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd6442ba68c144b0c84b207a4" alt="" width="50" /> | Rina Sawayama | [🔗](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e9c5c07c1244a637929678c" alt="" width="50" /> | VÉRITÉ | [🔗](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1271f542dad4241c87250fe5" alt="" width="50" /> | Cecile Believe | [🔗](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) |
 
 </details>
 
 ## Top Albums
 
-![Bar chart of top 28 albums](../images/genres/art_pop/albums.png)
+![Bar chart of top 29 albums](../images/genres/art_pop/albums.png)
 
 
 <details>
-<summary>See all 28 albums</summary>
+<summary>See all 29 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -59,6 +60,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27374b226f1b53ca4902dedce2a" alt="" width="50" /> | Yellow Flicker Beat (From The Hunger Games: Mockingjay Part 1) | 2014-09-30 | [🔗](https://open.spotify.com/album/7sg5iqMiDrM2aJqLAmv83V) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273969438a8091085c2472a0766" alt="" width="50" /> | Til It Happens To You | 2015-09-18 | [🔗](https://open.spotify.com/album/00qjYaNSNpQCZHhCpAlH60) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b254ca0983d65ede8e3d2f7a" alt="" width="50" /> | Tidal | 1996-07-23 | [🔗](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ce94afb9aa5d73f00852a45b" alt="" width="50" /> | Somebody Else | 2016-09-09 | [🔗](https://open.spotify.com/album/3Q4yhhyFA2cpZq2FGOgMwU) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98" alt="" width="50" /> | Pure Heroine | 2013-09-27 | [🔗](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a" alt="" width="50" /> | Paradise | 2012-11-09 | [🔗](https://open.spotify.com/album/1JnjcAIKQ9TSJFVFierTB8) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7" alt="" width="50" /> | No Time To Die | 2020-02-13 | [🔗](https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad) |
@@ -77,11 +79,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 13 record labels](../images/genres/art_pop/labels.png)
+![Bar chart of top 14 record labels](../images/genres/art_pop/labels.png)
 
 
 <details>
-<summary>See all 13 labels</summary>
+<summary>See all 14 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -90,6 +92,7 @@
 | 11 | [Darkroom](../labels/darkroom.md) |
 | 2 | A Star is Born OST |
 | 1 | Work |
+| 1 | VÉRITÉ |
 | 1 | Universal Music New Zealand Limited |
 | 1 | Perpetual Novice |
 | 1 | PC Music |

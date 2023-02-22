@@ -60,7 +60,7 @@ Appears as:
 | Number of Tracks | Genre |
 |---:|:---|
 | 11 | [pop](../genres/pop.md) |
-| 9 | urban contemporary |
+| 10 | urban contemporary |
 | 9 | [dance pop](../genres/dance_pop.md) |
 | 9 | barbadian pop |
 | 1 | rap latina |

@@ -211,7 +211,7 @@
 
 
 <details>
-<summary>See all 88 genres</summary>
+<summary>See all 87 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -279,7 +279,6 @@
 | 1 | lafayette indie |
 | 1 | irish rock |
 | 1 | instrumental bluegrass |
-| 1 | indie poptimism |
 | 1 | [hollywood](../../genres/hollywood.md) |
 | 1 | hip pop |
 | 1 | hip hop |

@@ -24,6 +24,7 @@
 
 ## Genres
 
+- [classical](../genres/classical.md)
 - classical performance
 - classical piano
 - latin american classical piano

@@ -126,12 +126,12 @@ Appears as:
 | 9 | album rock |
 | 8 | [soft rock](../genres/soft_rock.md) |
 | 8 | [post-teen pop](../genres/post_teen_pop.md) |
+| 8 | edm |
 | 6 | yacht rock |
 | 6 | pop rap |
 | 5 | permanent wave |
 | 5 | modern rock |
 | 5 | [k-pop girl group](../genres/k_pop_girl_group.md) |
-| 5 | edm |
 | 4 | [lilith](../genres/lilith.md) |
 | 4 | la indie |
 | 4 | indie rock |
