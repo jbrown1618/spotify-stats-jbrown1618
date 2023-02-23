@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1444 songs](tracks.md)
+[1443 songs](tracks.md)
 
 ## Top Artists
 
@@ -64,7 +64,6 @@
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a669de19d4381073d85701a" alt="" width="50" /> | BABYMETAL | [🔗](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) |
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | Camila Cabello | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="" width="50" /> | [EXO](../../artists/exo.md) | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
-| 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb63329d77582c519154674fd7" alt="" width="50" /> | TOMORROW X TOGETHER | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d874b307cb092e68db73207" alt="" width="50" /> | [NCT 127](../../artists/nct_127.md) | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8786ccb6031a3266bb15606" alt="" width="50" /> | WJSN | [🔗](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9996e5d7c5b769b2b26ff1a" alt="" width="50" /> | SUPER JUNIOR | [🔗](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) |
@@ -79,6 +78,7 @@
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="" width="50" /> | EVERGLOW | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb9954a1ab45b2404a7bff2a45" alt="" width="50" /> | OH MY GIRL | [🔗](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | PENTAGON | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
+| 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb63329d77582c519154674fd7" alt="" width="50" /> | TOMORROW X TOGETHER | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 | 5 | <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | Simon & Garfunkel | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb1dc61a0a0612dff3df110ce2" alt="" width="50" /> | Janelle Monáe | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb03fd839c09fe375026192645" alt="" width="50" /> | GOT the beat | [🔗](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) |
@@ -243,7 +243,7 @@
 | Number of Tracks | Label |
 |---:|:---|
 | 165 | [SM Entertainment](../../labels/sm_entertainment.md) |
-| 82 | [Republic Records](../../labels/republic_records.md) |
+| 81 | [Republic Records](../../labels/republic_records.md) |
 | 61 | [Epic](../../labels/epic.md) |
 | 59 | [YG Entertainment](../../labels/yg_entertainment.md) |
 | 56 | [Interscope Records](../../labels/interscope_records.md) |
@@ -356,11 +356,11 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 635 | [k-pop](../../genres/k_pop.md) |
+| 634 | [k-pop](../../genres/k_pop.md) |
 | 371 | [pop](../../genres/pop.md) |
 | 291 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 168 | [dance pop](../../genres/dance_pop.md) |
-| 163 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
+| 162 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
 | 105 | [rock](../../genres/rock.md) |
 | 78 | [classic rock](../../genres/classic_rock.md) |
 | 60 | [neo mellow](../../genres/neo_mellow.md) |
@@ -370,7 +370,7 @@
 | 43 | [hollywood](../../genres/hollywood.md) |
 | 42 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 42 | [mellow gold](../../genres/mellow_gold.md) |
-| 36 | [electropop](../../genres/electropop.md) |
+| 37 | [electropop](../../genres/electropop.md) |
 | 35 | [korean pop](../../genres/korean_pop.md) |
 | 34 | [art pop](../../genres/art_pop.md) |
 | 33 | [folk rock](../../genres/folk_rock.md) |
@@ -378,7 +378,7 @@
 | 30 | [psychedelic rock](../../genres/psychedelic_rock.md) |
 | 30 | korean r&b |
 | 30 | british invasion |
-| 25 | [singer-songwriter](../../genres/singer_songwriter.md) |
+| 29 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 25 | piano rock |
 | 24 | permanent wave |
 | 23 | beatlesque |
@@ -396,7 +396,6 @@
 | 18 | hard rock |
 | 18 | [a cappella](../../genres/a_cappella.md) |
 | 17 | indie pop |
-| 16 | neo soul |
 | 15 | uk alternative pop |
 | 15 | metropopolis |
 | 15 | k-rap |
@@ -404,6 +403,7 @@
 | 15 | alternative rock |
 | 14 | urban contemporary |
 | 14 | oxford indie |
+| 14 | neo soul |
 | 14 | folk |
 | 13 | glam rock |
 | 13 | canadian pop |
@@ -473,7 +473,7 @@
 | [2023](2023.md) | 20 |
 | [2022](2022.md) | 235 |
 | [2021](2021.md) | 181 |
-| [2020](2020.md) | 134 |
+| [2020](2020.md) | 133 |
 | [2019](2019.md) | 114 |
 | [2018](2018.md) | 80 |
 | [2017](2017.md) | 70 |

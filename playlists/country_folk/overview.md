@@ -95,11 +95,11 @@
 
 ## Genres
 
-![Bar chart of top 22 genres](../../images/playlists/country_folk/genres.png)
+![Bar chart of top 23 genres](../../images/playlists/country_folk/genres.png)
 
 
 <details>
-<summary>See all 22 genres</summary>
+<summary>See all 23 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -124,6 +124,7 @@
 | 3 | modern country rock |
 | 3 | country road |
 | 3 | [acoustic pop](../../genres/acoustic_pop.md) |
+| 2 | indiecoustica |
 | 1 | lafayette indie |
 
 </details>

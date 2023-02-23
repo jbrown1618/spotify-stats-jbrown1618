@@ -164,7 +164,7 @@
 
 
 <details>
-<summary>See all 36 genres</summary>
+<summary>See all 35 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -184,7 +184,6 @@
 | 2 | chill r&b |
 | 1 | viral pop |
 | 1 | video game music |
-| 1 | urban contemporary |
 | 1 | trot |
 | 1 | tropical house |
 | 1 | rap latina |

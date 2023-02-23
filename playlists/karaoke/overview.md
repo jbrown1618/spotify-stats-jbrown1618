@@ -217,9 +217,9 @@
 | 7 | [soft rock](../../genres/soft_rock.md) |
 | 7 | [lilith](../../genres/lilith.md) |
 | 7 | [folk rock](../../genres/folk_rock.md) |
+| 6 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 6 | [hollywood](../../genres/hollywood.md) |
 | 6 | [adult standards](../../genres/adult_standards.md) |
-| 5 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 5 | [psychedelic rock](../../genres/psychedelic_rock.md) |
 | 5 | merseybeat |
 | 5 | british invasion |
@@ -240,9 +240,11 @@
 | 2 | modern alternative rock |
 | 2 | melancholia |
 | 2 | jazz pop |
+| 2 | indiecoustica |
 | 2 | indie folk |
 | 2 | funk |
 | 2 | folk |
+| 2 | [electropop](../../genres/electropop.md) |
 | 2 | easy listening |
 | 2 | country rock |
 | 2 | british soul |
@@ -268,13 +270,11 @@
 | 1 | irish rock |
 | 1 | instrumental bluegrass |
 | 1 | indy indie |
-| 1 | indiecoustica |
 | 1 | indie rock |
 | 1 | indie poptimism |
 | 1 | indie pop |
 | 1 | heartland rock |
 | 1 | escape room |
-| 1 | [electropop](../../genres/electropop.md) |
 | 1 | disco |
 | 1 | comic |
 | 1 | classic soul |
