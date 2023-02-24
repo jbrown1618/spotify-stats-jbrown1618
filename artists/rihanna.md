@@ -39,7 +39,6 @@
 ## Genres
 
 - barbadian pop
-- [dance pop](../genres/dance_pop.md)
 - [pop](../genres/pop.md)
 - urban contemporary
 

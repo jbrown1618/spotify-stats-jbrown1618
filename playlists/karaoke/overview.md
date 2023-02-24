@@ -211,8 +211,8 @@
 | 13 | [neo mellow](../../genres/neo_mellow.md) |
 | 10 | [pop rock](../../genres/pop_rock.md) |
 | 10 | [mellow gold](../../genres/mellow_gold.md) |
-| 10 | [dance pop](../../genres/dance_pop.md) |
 | 10 | [acoustic pop](../../genres/acoustic_pop.md) |
+| 9 | [dance pop](../../genres/dance_pop.md) |
 | 8 | piano rock |
 | 7 | [soft rock](../../genres/soft_rock.md) |
 | 7 | [lilith](../../genres/lilith.md) |
@@ -228,6 +228,7 @@
 | 4 | permanent wave |
 | 4 | lounge |
 | 4 | glam rock |
+| 3 | motown |
 | 3 | canadian pop |
 | 3 | australian pop |
 | 2 | viral pop |
@@ -235,7 +236,6 @@
 | 2 | soul |
 | 2 | pop soul |
 | 2 | new americana |
-| 2 | motown |
 | 2 | modern rock |
 | 2 | modern alternative rock |
 | 2 | melancholia |

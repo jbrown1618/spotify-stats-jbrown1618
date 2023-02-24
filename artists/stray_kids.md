@@ -13,6 +13,7 @@
 | 2 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732270d3bd1d13133edf0be836ab67616d0000b2736017bca98dea58ceddea77c1ab67616d0000b273a0df2d59f0ae9426cba3eb36ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | [Cursed English](../playlists/cursed_english/overview.md) |
 | 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | [K-Pop 101](../playlists/k_pop_101/overview.md) |
 | 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | [Sharon RPD](../playlists/sharon_rpd/overview.md) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a8a2a99e01506f56c991a24e" alt="" width="50" /> | [Check Out Later](../playlists/check_out_later/overview.md) |
 ## Top Albums
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
@@ -25,6 +26,7 @@
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2739f560e8c1cda870ef4eadb43" alt="" width="50" /> | SKZ2020 | 2020-03-18 | [🔗](https://open.spotify.com/album/6QIWJVJPPgAA5c4aIb1zCA) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273703093f86fd5c8bd79500610" alt="" width="50" /> | IN LIFE | 2020-09-14 | [🔗](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | Christmas EveL | 2021-11-29 | [🔗](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733019082a0f673eaa7a5ea3ae" alt="" width="50" /> | There | 2023-02-15 | [🔗](https://open.spotify.com/album/2j8BoKqZrMUYTARDIs9XDk) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27390831ba9ed4aa3b89fd6b81c" alt="" width="50" /> | Street Man Fighter Original Vol.4 (Crew Songs) | 2022-09-20 | [🔗](https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d64e2f339a0a9ea967b308e" alt="" width="50" /> | Step Out of Clé (English Ver.) | 2020-01-24 | [🔗](https://open.spotify.com/album/2BBeNPEEevRiYISKYEnGvc) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273560f17af6665e85575021bae" alt="" width="50" /> | Mixtape : Time Out | 2022-08-01 | [🔗](https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS) |
@@ -40,7 +42,7 @@
 | Number of Tracks | Label |
 |---:|:---|
 | 42 | [Republic Records](../labels/republic_records.md) |
-| 1 | [Sony Music Labels Inc.](../labels/sony_music_labels_inc_.md) |
+| 2 | [Sony Music Labels Inc.](../labels/sony_music_labels_inc_.md) |
 | 1 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
 
 ## Genres
@@ -96,3 +98,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | Up All Night (Bang Chan, Changbin, Felix, Seungmin) | SKZ-REPLAY | [Stray Kids](stray_kids.md) | [Republic Records](../labels/republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/0bxB5Jie9fGKTIibfYVfei) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | i hate to admit (Bang Chan) | SKZ-REPLAY | [Stray Kids](stray_kids.md) | [Republic Records](../labels/republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/0XABJLloqjHsF4mY4tGIOH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | miss you (Hyunjin) | SKZ-REPLAY | [Stray Kids](stray_kids.md) | [Republic Records](../labels/republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/1BwFLLe233S6HR1ravS3yi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733019082a0f673eaa7a5ea3ae" alt="" width="50" /> | There | There | [Stray Kids](stray_kids.md) | [Sony Music Labels Inc.](../labels/sony_music_labels_inc_.md) | | [🔗](https://open.spotify.com/track/6gHeWGamtOYHBd1LBZ7Fv6) |

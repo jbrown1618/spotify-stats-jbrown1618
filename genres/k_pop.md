@@ -1,6 +1,6 @@
 # k-pop
 
-[869 songs](k_pop_tracks.md)
+[870 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -15,7 +15,7 @@
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
 | 62 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
-| 44 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
+| 45 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 | 38 | <img src="https://i.scdn.co/image/ab6761610000e5eb200008f1cb940483514db2bd" alt="" width="50" /> | [TWICE](../artists/twice.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | 33 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | 30 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
@@ -295,6 +295,7 @@
 | 2 | Yedang Entertainment |
 | 2 | WM Japan |
 | 2 | Transparent Arts |
+| 2 | [Sony Music Labels Inc.](../labels/sony_music_labels_inc_.md) |
 | 2 | OFF THE RECORD Entertainment |
 | 2 | Million Market |
 | 2 | JELLYFISH ENTERTAINMENT |
@@ -327,7 +328,6 @@
 | 1 | Think Ent. |
 | 1 | TOON STUDIO |
 | 1 | Starship Ent. |
-| 1 | [Sony Music Labels Inc.](../labels/sony_music_labels_inc_.md) |
 | 1 | Silent Records |
 | 1 | RADCOMM |
 | 1 | Parlophone Denmark |

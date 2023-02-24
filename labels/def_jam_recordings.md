@@ -51,17 +51,16 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 10 genres](../images/labels/def_jam_recordings/genres.png)
+![Bar chart of top 9 genres](../images/labels/def_jam_recordings/genres.png)
 
 
 <details>
-<summary>See all 10 genres</summary>
+<summary>See all 9 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
 | 11 | [pop](../genres/pop.md) |
 | 9 | urban contemporary |
-| 9 | [dance pop](../genres/dance_pop.md) |
 | 9 | barbadian pop |
 | 1 | rap latina |
 | 1 | rap |

@@ -359,8 +359,8 @@
 | 634 | [k-pop](../../genres/k_pop.md) |
 | 371 | [pop](../../genres/pop.md) |
 | 291 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
-| 168 | [dance pop](../../genres/dance_pop.md) |
 | 162 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
+| 162 | [dance pop](../../genres/dance_pop.md) |
 | 105 | [rock](../../genres/rock.md) |
 | 78 | [classic rock](../../genres/classic_rock.md) |
 | 60 | [neo mellow](../../genres/neo_mellow.md) |
@@ -370,7 +370,7 @@
 | 43 | [hollywood](../../genres/hollywood.md) |
 | 42 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 42 | [mellow gold](../../genres/mellow_gold.md) |
-| 37 | [electropop](../../genres/electropop.md) |
+| 38 | [electropop](../../genres/electropop.md) |
 | 35 | [korean pop](../../genres/korean_pop.md) |
 | 34 | [art pop](../../genres/art_pop.md) |
 | 33 | [folk rock](../../genres/folk_rock.md) |
@@ -424,6 +424,7 @@
 | 8 | etherpop |
 | 8 | blues rock |
 | 8 | australian dance |
+| 7 | motown |
 | 7 | korean city pop |
 | 7 | kawaii metal |
 | 7 | j-pop |
@@ -440,7 +441,6 @@
 | 7 | alternative r&b |
 | 6 | stomp and holler |
 | 6 | pop soul |
-| 6 | motown |
 | 6 | modern alternative rock |
 | 6 | la indie |
 | 6 | hip pop |

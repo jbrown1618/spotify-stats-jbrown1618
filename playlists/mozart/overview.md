@@ -62,7 +62,7 @@
 | 1 | <img src="nan" alt="" width="50" /> | Tobias Pfulb | [🔗](https://open.spotify.com/artist/2GD6gK1wj1cD8TFGe2BpJC) |
 | 1 | <img src="nan" alt="" width="50" /> | Vestischen Chamber Orchestra | [🔗](https://open.spotify.com/artist/1m3ycS5catGCiLB0J5eKDG) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27322070c61a7616392f04f070f" alt="" width="50" /> | Janet Perry | [🔗](https://open.spotify.com/artist/1bV3KjOPs1AI3OolJiYogN) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737c3a707e71193bce9aa12c5b" alt="" width="50" /> | Hanna Schwarz | [🔗](https://open.spotify.com/artist/0uzYuEP2MlAJ5FdVIYIalx) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f2eaa725f1fb783dd59f54b7" alt="" width="50" /> | Hanna Schwarz | [🔗](https://open.spotify.com/artist/0uzYuEP2MlAJ5FdVIYIalx) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273877b88f28b401581470add7b" alt="" width="50" /> | Christian Schulz | [🔗](https://open.spotify.com/artist/0sqQ1nXbUwTWglq8jWopvZ) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737e642d5abb467a88d79bc1ec" alt="" width="50" /> | Ilmar Lapinsch | [🔗](https://open.spotify.com/artist/0dI3iXIxXjAtMkzZCsOVEg) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ab2fdac9bebbf79f3397a31f" alt="" width="50" /> | Ratko Delorko | [🔗](https://open.spotify.com/artist/0E1sM06TDvSpGqNQBx8FV0) |

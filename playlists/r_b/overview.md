@@ -227,16 +227,16 @@
 | Number of Tracks | Genre |
 |---:|:---|
 | 64 | [pop](../../genres/pop.md) |
-| 54 | [dance pop](../../genres/dance_pop.md) |
+| 44 | [dance pop](../../genres/dance_pop.md) |
 | 29 | [r&b](../../genres/r_b.md) |
 | 23 | urban contemporary |
 | 12 | soul |
 | 12 | neo soul |
 | 10 | barbadian pop |
 | 10 | atl hip hop |
+| 9 | motown |
 | 9 | funk |
 | 8 | [post-teen pop](../../genres/post_teen_pop.md) |
-| 8 | motown |
 | 6 | pop rap |
 | 6 | escape room |
 | 6 | edm |

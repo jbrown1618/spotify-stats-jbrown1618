@@ -114,7 +114,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ecddddcd7a4d93b21324bc5" alt="" width="50" /> | XG | [🔗](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eba0be3f7b3047d01434e03dae" alt="" width="50" /> | Soolking | [🔗](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb72453ad016b059b06fd52569" alt="" width="50" /> | Tainy | [🔗](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc26980c202f33cba1a327306" alt="" width="50" /> | Tani Yuuki | [🔗](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebacb72af007a294a3511a7afa" alt="" width="50" /> | Tani Yuuki | [🔗](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735a36251d7041e99d024c523a" alt="" width="50" /> | Lu-Ni | [🔗](https://open.spotify.com/artist/0AythHu8oDXnRGp8qviBPj) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb3b6587b2046007bc1d18d9c" alt="" width="50" /> | Rendy Pandugo | [🔗](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) |
 

@@ -1,6 +1,6 @@
 # k-pop boy group
 
-[245 songs](k_pop_boy_group_tracks.md)
+[246 songs](k_pop_boy_group_tracks.md)
 
 ## Top Artists
 
@@ -14,7 +14,7 @@
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
-| 44 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
+| 45 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 | 33 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | 22 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 | 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="" width="50" /> | [SEVENTEEN](../artists/seventeen.md) | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
@@ -120,6 +120,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273da0376db6b1c5562ab8f5b29" alt="" width="50" /> | WE:TH | 2020-10-12 | [🔗](https://open.spotify.com/album/1ASYbBYBwV6Rcfc2ycqmlK) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2730f439d80abc0a1b40e7cc231" alt="" width="50" /> | Void | 2018-04-16 | [🔗](https://open.spotify.com/album/58njxSTVkyBNIuCpAmmAJc) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27358169e974a94b9a18c9d2a03" alt="" width="50" /> | Universe (Let's Play Ball) | 2021-12-10 | [🔗](https://open.spotify.com/album/31BJasH9nLradtMdJEIDXk) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733019082a0f673eaa7a5ea3ae" alt="" width="50" /> | There | 2023-02-15 | [🔗](https://open.spotify.com/album/2j8BoKqZrMUYTARDIs9XDk) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ff8a783336acbef4b6fab82f" alt="" width="50" /> | The SHINee World - The First Album | 2008-08-28 | [🔗](https://open.spotify.com/album/2aiM53N5DGm5VXnfjswpI7) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27396678b0a030238837547c6ff" alt="" width="50" /> | The Renaissance - The 10th Album | 2021-03-16 | [🔗](https://open.spotify.com/album/3qyzxavqOfixEPDfFCEMlH) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738ac442a54c68aad8f9b93f51" alt="" width="50" /> | The Most Beautiful Moment in Life Pt.2 | 2015-11-30 | [🔗](https://open.spotify.com/album/4frjaGAtuBmm8CPuYPY4oG) |
@@ -168,7 +169,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ff666e3a12273d4d1380e9f0" alt="" width="50" /> | NCT #127 Regular-Irregular - The 1st Album | 2018-10-12 | [🔗](https://open.spotify.com/album/4oU5Tp952fPL7z2Bax4JmU) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731727feddec43c335453b9252" alt="" width="50" /> | NCT #127 Neo Zone - The 2nd Album | 2020-03-06 | [🔗](https://open.spotify.com/album/5YOvg682zFOleCiSndLnZr) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738d47b664117ca39e7b1acfc9" alt="" width="50" /> | NCT #127 CHERRY BOMB– The 3rd Mini Album | 2017-06-14 | [🔗](https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732d10195d8d9abd1357fff450" alt="" width="50" /> | NCT #127 - The 1st Mini Album | 2016-07-10 | [🔗](https://open.spotify.com/album/7xmqXxPAmkgn5HK9FcyBxR) |
 
 </details>
 
@@ -201,12 +201,12 @@
 | 3 | [RBW Inc.](../labels/rbw_inc_.md) |
 | 2 | 우조엔터테인먼트 |
 | 2 | [Starship Entertainment](../labels/starship_entertainment.md) |
+| 2 | [Sony Music Labels Inc.](../labels/sony_music_labels_inc_.md) |
 | 2 | Cre.ker Entertainment |
 | 1 | 브레이브 엔터테인먼트 |
 | 1 | ㈜ 동요엔터테인먼트 |
 | 1 | avex trax |
 | 1 | Transparent Arts |
-| 1 | [Sony Music Labels Inc.](../labels/sony_music_labels_inc_.md) |
 | 1 | JELLYFISH ENTERTAINMENT |
 | 1 | Imperial Distribution |
 | 1 | Fantagio |
