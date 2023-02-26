@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="K-Pop Favorites" width="100" />
 
-[221 songs](tracks.md)
+[220 songs](tracks.md)
 
 ## Top Artists
 
@@ -13,7 +13,7 @@
 
 
 <details>
-<summary>See all 92 artists</summary>
+<summary>See all 91 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -100,7 +100,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebde8ad216e0ff7a76573c835e" alt="" width="50" /> | SEULGI | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb065608c797a38d142082fc8a" alt="" width="50" /> | Punch | [🔗](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc2c8185fc0902b43e35f671f" alt="" width="50" /> | JENNIE | [🔗](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb178f1c6aa9751667cef51db3" alt="" width="50" /> | TAEIL | [🔗](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb69d86a4744d275ed5259e743" alt="" width="50" /> | WayV | [🔗](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb65dd718aaa2c9b1be0218f76" alt="" width="50" /> | SURAN | [🔗](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | Jackson Wang | [🔗](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) |
@@ -174,7 +173,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27345c3e1eaeaed3345abae9616" alt="" width="50" /> | Undo | 2022-06-30 | [🔗](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6" alt="" width="50" /> | Uh-Oh | 2019-06-26 | [🔗](https://open.spotify.com/album/3PzrNuMGWGpp8WOfrmpkaU) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27342678cd46d7322e395400930" alt="" width="50" /> | UNNATURAL | 2021-03-31 | [🔗](https://open.spotify.com/album/0uD1Chx5ZsnZM4kS8yK0S8) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="" width="50" /> | Twenty-Five Twenty-One OST | 2022-04-03 | [🔗](https://open.spotify.com/album/77NPr874WU941XZhjO43dR) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273aae78727e396da9f03032eda" alt="" width="50" /> | Traffic light | 2021-05-14 | [🔗](https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27381fb7e4e392f0a99b3947eb6" alt="" width="50" /> | The Velvet - The 2nd Mini Album | 2016-03-17 | [🔗](https://open.spotify.com/album/2qgl7dAgslqL1w2l2wQhMA) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738164cd1a2e03b7ca2db9ff5e" alt="" width="50" /> | The Red Summer - Summer Mini Album | 2017-07-09 | [🔗](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) |
@@ -223,6 +221,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736c1bd86a3d68faf09607ffd3" alt="" width="50" /> | Naughty | 2020-07-20 | [🔗](https://open.spotify.com/album/2lkUE2gkw5sX0fGzZZCs0N) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27355d0265cc488deebe40d79a6" alt="" width="50" /> | NEXT EPISODE | 2021-07-26 | [🔗](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734525dae431a233a077d2395c" alt="" width="50" /> | NCT RESONANCE Pt. 1 - The 2nd Album | 2020-10-12 | [🔗](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738c7e7f435fdcc70772c5555e" alt="" width="50" /> | My Voice - The 1st Album | 2017-02-28 | [🔗](https://open.spotify.com/album/6DlCl3hBP1Gwhn0tgitGfN) |
 
 </details>
 
@@ -233,7 +232,7 @@
 
 
 <details>
-<summary>See all 53 labels</summary>
+<summary>See all 51 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -275,14 +274,12 @@
 | 1 | Universal Music Group International |
 | 1 | Transparent Arts |
 | 1 | TEAM WANG records |
-| 1 | Studio MaumC |
 | 1 | [Sony Music Labels Inc.](../../labels/sony_music_labels_inc_.md) |
 | 1 | ShowPLAY ENTERTAINMENT |
 | 1 | Republic Records – NAYEON (TWICE) |
 | 1 | Million Market |
 | 1 | Makeus Entertainment |
 | 1 | MYSTIC ENTERTAINMENT |
-| 1 | Hwa&Dam pictures |
 | 1 | Feel Ghood Music |
 | 1 | [FNC ENTERTAINMENT](../../labels/fnc_entertainment.md) |
 | 1 | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company.md) |
@@ -308,8 +305,8 @@
 | 87 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 49 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
 | 12 | [pop](../../genres/pop.md) |
-| 9 | [korean pop](../../genres/korean_pop.md) |
 | 9 | anime |
+| 8 | [korean pop](../../genres/korean_pop.md) |
 | 5 | korean r&b |
 | 2 | korean talent show |
 | 1 | korean ost |
@@ -331,7 +328,7 @@
 | Year | Number of Tracks |
 |:---|---:|
 | 2023 | 4 |
-| [2022](2022.md) | 61 |
+| [2022](2022.md) | 60 |
 | [2021](2021.md) | 55 |
 | [2020](2020.md) | 32 |
 | 2019 | 17 |
@@ -394,13 +391,13 @@
 | MANIAC (0.411) | Spark (0.0283) |
 | Feelin' Like (0.353) | Je T'aime (0.0295) |
 | VENOM (0.339) | HOLO (0.0295) |
-| BBIBBI (0.331) | Starlight (0.0302) |
-| Girls (0.325) | Phase Me (0.0309) |
-| Sparkling Night (0.299) | HANN (Alone) (0.0312) |
-| O.O (0.293) | Animal Farm (0.0315) |
-| Sticker (0.28) | RBB (Really Bad Boy) (0.0317) |
-| Crazy (0.279) | HOLD MY HAND (0.0317) |
-| I GOT A BOY (0.272) | Get You Alone (0.0319) |
+| BBIBBI (0.331) | Phase Me (0.0309) |
+| Girls (0.325) | HANN (Alone) (0.0312) |
+| Sparkling Night (0.299) | Animal Farm (0.0315) |
+| O.O (0.293) | RBB (Really Bad Boy) (0.0317) |
+| Sticker (0.28) | HOLD MY HAND (0.0317) |
+| Crazy (0.279) | Get You Alone (0.0319) |
+| I GOT A BOY (0.272) | 무제(無題) (Untitled, 2014) (0.0321) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|

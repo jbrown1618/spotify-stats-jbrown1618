@@ -360,7 +360,7 @@
 | 371 | [pop](../../genres/pop.md) |
 | 293 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 162 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
-| 161 | [dance pop](../../genres/dance_pop.md) |
+| 160 | [dance pop](../../genres/dance_pop.md) |
 | 105 | [rock](../../genres/rock.md) |
 | 78 | [classic rock](../../genres/classic_rock.md) |
 | 60 | [neo mellow](../../genres/neo_mellow.md) |
@@ -370,7 +370,7 @@
 | 43 | [hollywood](../../genres/hollywood.md) |
 | 42 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 42 | [mellow gold](../../genres/mellow_gold.md) |
-| 37 | [electropop](../../genres/electropop.md) |
+| 36 | [electropop](../../genres/electropop.md) |
 | 35 | [korean pop](../../genres/korean_pop.md) |
 | 34 | [art pop](../../genres/art_pop.md) |
 | 33 | [folk rock](../../genres/folk_rock.md) |
@@ -389,13 +389,13 @@
 | 20 | modern rock |
 | 19 | uk pop |
 | 19 | melancholia |
+| 19 | edm |
 | 19 | anime |
 | 19 | album rock |
 | 19 | [adult standards](../../genres/adult_standards.md) |
 | 18 | hard rock |
 | 18 | [a cappella](../../genres/a_cappella.md) |
 | 17 | indie pop |
-| 17 | edm |
 | 15 | uk alternative pop |
 | 15 | metropopolis |
 | 15 | k-rap |

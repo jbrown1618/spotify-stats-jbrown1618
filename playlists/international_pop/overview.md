@@ -352,6 +352,7 @@
 | 2 | french hip hop |
 | 2 | desi pop |
 | 2 | danish pop |
+| 2 | classic mandopop |
 | 2 | classic j-pop |
 | 2 | chinese indie |
 | 2 | chinese idol pop |
@@ -399,7 +400,6 @@
 | 1 | escape room |
 | 1 | [electropop](../../genres/electropop.md) |
 | 1 | dancehall |
-| 1 | classic mandopop |
 | 1 | chiptune |
 | 1 | chinese viral pop |
 | 1 | chinese r&b |

@@ -1,6 +1,6 @@
 # pop
 
-[522 songs](pop_tracks.md)
+[521 songs](pop_tracks.md)
 
 ## Top Artists
 
@@ -265,10 +265,10 @@
 | 8 | Monkey Puzzle Records |
 | 6 | [XL Recordings](../labels/xl_recordings.md) |
 | 6 | Parkwood Entertainment |
-| 6 | Island Records |
 | 6 | Atlantic Records UK |
 | 5 | Music World Music |
 | 5 | Kemosabe Records |
+| 5 | Island Records |
 | 5 | Beluga Heights |
 | 5 | Bad Boy |
 | 4 | LaFace Records |
@@ -407,10 +407,10 @@
 | Wanna Be Startin' Somethin' (0.419) | Sweet As Whole (0.0) |
 | you should see me in a crown (0.219) | Clean (0.0) |
 | bury a friend (0.162) | This Is Why We Can't Have Nice Things (0.0) |
-| West Coast Love (0.153) | Travelin' Soldier (0.0) |
-| Therefore I Am (0.135) | Love Me Like You Do (0.0) |
-| bad guy (0.13) | You've Got The Love (0.0) |
-| This Is What You Came For (0.119) | React (0.0) |
+| Therefore I Am (0.135) | Travelin' Soldier (0.0) |
+| bad guy (0.13) | Love Me Like You Do (0.0) |
+| This Is What You Came For (0.119) | You've Got The Love (0.0) |
+| Bel Air (0.0875) | React (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|

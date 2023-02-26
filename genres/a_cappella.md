@@ -41,7 +41,7 @@
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273fde41e3d8cc4859202436340" alt="" width="50" /> | Acappology | [🔗](https://open.spotify.com/artist/21v1APtcWJHRmeKdBRVbYs) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2736636b2b1728fb4848f73ff9c" alt="" width="50" /> | Tufts sQ! | [🔗](https://open.spotify.com/artist/21QIHECpmN2KwhpVhIWHpT) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb24e0bff37a949b7de92aa4eb" alt="" width="50" /> | The MIT Logarhythms | [🔗](https://open.spotify.com/artist/1jz5HCLwsDkpBYz80n9wbR) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273b7c34f31c4cd1a96af7fa7b1" alt="" width="50" /> | Bill Hare | [🔗](https://open.spotify.com/artist/10WhKnqdsfpYWDgZhjrday) |
+| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273c2efff2353592d5820407e14" alt="" width="50" /> | Bill Hare | [🔗](https://open.spotify.com/artist/10WhKnqdsfpYWDgZhjrday) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273583e74176372c85d698af382" alt="" width="50" /> | The Virginia Sil'hooettes | [🔗](https://open.spotify.com/artist/0LKgClZwZKGhM5BkCzjfMX) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27354cb8621ada914cc67f69a41" alt="" width="50" /> | Awaken A Cappella | [🔗](https://open.spotify.com/artist/7zjm9GiXJPq0z3bKETWl1N) |
 | 1 | <img src="nan" alt="" width="50" /> | Shams Ahmed | [🔗](https://open.spotify.com/artist/7rIkgg1ozqQIezA7c8Khf4) |

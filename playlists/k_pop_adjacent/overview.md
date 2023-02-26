@@ -170,19 +170,19 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 14 | [pop](../../genres/pop.md) |
+| 13 | [pop](../../genres/pop.md) |
 | 8 | [dance pop](../../genres/dance_pop.md) |
 | 5 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 4 | [k-pop](../../genres/k_pop.md) |
 | 3 | [r&b](../../genres/r_b.md) |
 | 3 | pop rap |
+| 3 | edm |
 | 3 | canadian pop |
 | 2 | rap |
 | 2 | pop dance |
 | 2 | korean indie rock |
 | 2 | indie r&b |
 | 2 | [electropop](../../genres/electropop.md) |
-| 2 | edm |
 | 2 | chill r&b |
 | 1 | viral pop |
 | 1 | video game music |
