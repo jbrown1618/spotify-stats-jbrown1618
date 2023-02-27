@@ -47,7 +47,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf178cbda9bd9a389581ff021" alt="" width="50" /> | Fiona Apple | [🔗](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) |
 | 1 | <img src="https://i.scdn.co/image/ab6772690000c46c50e750d1aed632c37a450ffb" alt="" width="50" /> | Duffy | [🔗](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb26e35e5ceab6998278006481" alt="" width="50" /> | Brandi Carlile | [🔗](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebba2945304f98466b7d67f261" alt="" width="50" /> | Birdy | [🔗](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb778483686ae247c1906f02fb" alt="" width="50" /> | Birdy | [🔗](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb84edb8fc7e5a460d4e3664e5" alt="" width="50" /> | Carrie Manolakos | [🔗](https://open.spotify.com/artist/15ptZqEJWDBnhVx6fqaCWV) |
 
 </details>
@@ -202,7 +202,7 @@
 
 
 <details>
-<summary>See all 51 genres</summary>
+<summary>See all 50 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -238,7 +238,6 @@
 | 2 | chamber pop |
 | 2 | brill building pop |
 | 2 | [adult standards](../../genres/adult_standards.md) |
-| 1 | urban contemporary |
 | 1 | uk pop |
 | 1 | [r&b](../../genres/r_b.md) |
 | 1 | pop soul |

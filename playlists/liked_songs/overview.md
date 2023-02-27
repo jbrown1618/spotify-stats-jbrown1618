@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1445 songs](tracks.md)
+[1448 songs](tracks.md)
 
 ## Top Artists
 
@@ -107,13 +107,13 @@
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d998e7541724c918777b8ca" alt="" width="50" /> | League of Legends | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eba36a9f95d59ab791d5e897e9" alt="" width="50" /> | Regina Spektor | [🔗](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb5045a0e0d423ce29d6b14ebd" alt="" width="50" /> | TREASURE | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
+| 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb74f9c3e4ad2e130f8f338858" alt="" width="50" /> | P1Harmony | [🔗](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5ebde8ad216e0ff7a76573c835e" alt="" width="50" /> | SEULGI | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb3202449ae19d68607e3f1530" alt="" width="50" /> | NMIXX | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e7e6ded87a4e0f65b5afcec" alt="" width="50" /> | Britney Spears | [🔗](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | Justin Bieber | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | Jackson Wang | [🔗](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | Muse | [🔗](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) |
-| 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA | [🔗](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) |
 
 </details>
 
@@ -270,10 +270,10 @@
 | 14 | [PLEDIS Entertainment](../../labels/pledis_entertainment.md) |
 | 13 | [The Tarpeggios](../../labels/the_tarpeggios.md) |
 | 13 | [Kakao Entertainment](../../labels/kakao_entertainment.md) |
+| 13 | [Capitol Records](../../labels/capitol_records.md) |
+| 12 | [Jive](../../labels/jive.md) |
 | 12 | [Hollywood Records](../../labels/hollywood_records.md) |
-| 12 | [Capitol Records](../../labels/capitol_records.md) |
 | 11 | [SOURCE MUSIC](../../labels/source_music.md) |
-| 11 | [Jive](../../labels/jive.md) |
 | 11 | [High Up Entertainment](../../labels/high_up_entertainment.md) |
 | 10 | [Syco Music](../../labels/syco_music.md) |
 | 10 | [HYBE](../../labels/hybe.md) |
@@ -284,9 +284,9 @@
 | 8 | The Unc - Chapel Hill Tarpeggios |
 | 8 | Monkey Puzzle Records |
 | 8 | MNH ENTERTAINMENT |
+| 8 | [FNC ENTERTAINMENT](../../labels/fnc_entertainment.md) |
 | 8 | 88rising Music |
 | 7 | [MOTOWN](../../labels/motown.md) |
-| 7 | [FNC ENTERTAINMENT](../../labels/fnc_entertainment.md) |
 | 7 | [Def Jam Recordings](../../labels/def_jam_recordings.md) |
 | 7 | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company.md) |
 | 7 | Cooking Vinyl Limited |
@@ -356,21 +356,21 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 636 | [k-pop](../../genres/k_pop.md) |
-| 371 | [pop](../../genres/pop.md) |
+| 637 | [k-pop](../../genres/k_pop.md) |
+| 400 | [pop](../../genres/pop.md) |
 | 293 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
-| 162 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
-| 160 | [dance pop](../../genres/dance_pop.md) |
+| 163 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
+| 163 | [dance pop](../../genres/dance_pop.md) |
 | 105 | [rock](../../genres/rock.md) |
 | 78 | [classic rock](../../genres/classic_rock.md) |
-| 60 | [neo mellow](../../genres/neo_mellow.md) |
+| 62 | [neo mellow](../../genres/neo_mellow.md) |
 | 59 | [lilith](../../genres/lilith.md) |
 | 55 | [acoustic pop](../../genres/acoustic_pop.md) |
 | 54 | [pop rock](../../genres/pop_rock.md) |
+| 43 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 43 | [hollywood](../../genres/hollywood.md) |
-| 42 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 42 | [mellow gold](../../genres/mellow_gold.md) |
-| 36 | [electropop](../../genres/electropop.md) |
+| 38 | [electropop](../../genres/electropop.md) |
 | 35 | [korean pop](../../genres/korean_pop.md) |
 | 34 | [art pop](../../genres/art_pop.md) |
 | 33 | [folk rock](../../genres/folk_rock.md) |
@@ -383,8 +383,8 @@
 | 24 | permanent wave |
 | 23 | beatlesque |
 | 23 | art rock |
+| 22 | [r&b](../../genres/r_b.md) |
 | 22 | merseybeat |
-| 21 | [r&b](../../genres/r_b.md) |
 | 20 | pop rap |
 | 20 | modern rock |
 | 19 | uk pop |
@@ -471,10 +471,10 @@
 | Year | Number of Tracks |
 |:---|---:|
 | [2023](2023.md) | 20 |
-| [2022](2022.md) | 235 |
+| [2022](2022.md) | 236 |
 | [2021](2021.md) | 181 |
 | [2020](2020.md) | 133 |
-| [2019](2019.md) | 114 |
+| [2019](2019.md) | 115 |
 | [2018](2018.md) | 80 |
 | [2017](2017.md) | 72 |
 | [2016](2016.md) | 75 |
@@ -482,7 +482,7 @@
 | [2014](2014.md) | 44 |
 | [2013](2013.md) | 50 |
 | [2012](2012.md) | 50 |
-| [2011](2011.md) | 34 |
+| [2011](2011.md) | 35 |
 | [2010](2010.md) | 38 |
 | [2009](2009.md) | 28 |
 | [2008](2008.md) | 21 |

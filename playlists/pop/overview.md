@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="Pop" width="100" />
 
-[363 songs](tracks.md)
+[364 songs](tracks.md)
 
 ## Top Artists
 
@@ -88,6 +88,7 @@
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | Christina Aguilera | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebb5f9e28219c169fd4b9e8379" alt="" width="50" /> | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7926088433d79485da5e1734" alt="" width="50" /> | Mabel | [🔗](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) |
+| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebeccc1cde8e9fdcf1c9289897" alt="" width="50" /> | Niall Horan | [🔗](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | [Michael Bublé](../../artists/michael_bubl_.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bebfdee4c4cfea3473a51ab" alt="" width="50" /> | Megan Thee Stallion | [🔗](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc4902f080d3620b3e6da80c3" alt="" width="50" /> | Lorde | [🔗](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) |
@@ -116,7 +117,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb90a228bbe264818694c54834" alt="" width="50" /> | Ally Brooke | [🔗](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1fd54eb6e30d0bc8f633621e" alt="" width="50" /> | Machine Gun Kelly | [🔗](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb31072db9da0311ecfabe96bf" alt="" width="50" /> | Khalid | [🔗](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf271138f95fbe8188d909d50" alt="" width="50" /> | Kesha | [🔗](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) |
 
 </details>
 
@@ -259,7 +259,7 @@
 | 12 | [Syco Music](../../labels/syco_music.md) |
 | 11 | [Darkroom](../../labels/darkroom.md) |
 | 10 | [Def Jam Recordings](../../labels/def_jam_recordings.md) |
-| 9 | [Capitol Records](../../labels/capitol_records.md) |
+| 10 | [Capitol Records](../../labels/capitol_records.md) |
 | 8 | [Polydor Records](../../labels/polydor_records.md) |
 | 8 | Monkey Puzzle Records |
 | 6 | [XL Recordings](../../labels/xl_recordings.md) |
@@ -359,20 +359,20 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 309 | [pop](../../genres/pop.md) |
-| 186 | [dance pop](../../genres/dance_pop.md) |
-| 48 | [post-teen pop](../../genres/post_teen_pop.md) |
-| 30 | [electropop](../../genres/electropop.md) |
+| 310 | [pop](../../genres/pop.md) |
+| 188 | [dance pop](../../genres/dance_pop.md) |
+| 49 | [post-teen pop](../../genres/post_teen_pop.md) |
+| 32 | [electropop](../../genres/electropop.md) |
 | 29 | uk pop |
 | 29 | [art pop](../../genres/art_pop.md) |
 | 27 | edm |
 | 21 | pop rap |
 | 19 | urban contemporary |
 | 15 | neo soul |
+| 14 | [neo mellow](../../genres/neo_mellow.md) |
 | 12 | atl hip hop |
 | 11 | [r&b](../../genres/r_b.md) |
 | 11 | pop dance |
-| 11 | [neo mellow](../../genres/neo_mellow.md) |
 | 11 | british soul |
 | 11 | australian pop |
 | 10 | viral pop |
@@ -476,7 +476,7 @@
 | 2022 | 7 |
 | 2021 | 18 |
 | [2020](2020.md) | 48 |
-| [2019](2019.md) | 44 |
+| [2019](2019.md) | 45 |
 | [2018](2018.md) | 25 |
 | [2017](2017.md) | 25 |
 | [2016](2016.md) | 24 |
@@ -550,9 +550,9 @@
 | Bubblegum (feat. Tyga) (0.34) | Chasing Pavements (0.0251) |
 | 7 rings (0.334) | Show Me the Meaning of Being Lonely (0.0252) |
 | bury a friend (0.332) | Everything (0.0254) |
-| Hustle (0.326) | Begin Again (0.0263) |
-| Light Switch (0.308) | no body, no crime (feat. HAIM) (0.0264) |
-| Show Me What (0.287) | I Want It That Way (0.027) |
+| Hustle (0.326) | Put A Little Love On Me (0.0262) |
+| Light Switch (0.308) | Begin Again (0.0263) |
+| Show Me What (0.287) | no body, no crime (feat. HAIM) (0.0264) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|

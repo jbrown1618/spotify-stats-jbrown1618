@@ -1,6 +1,6 @@
 # post-teen pop
 
-[58 songs](post_teen_pop_tracks.md)
+[59 songs](post_teen_pop_tracks.md)
 
 ## Top Artists
 
@@ -27,6 +27,7 @@
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb576cb43281160e345f728b71" alt="" width="50" /> | Charli XCX | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5acb3cb0a8b87d3952738b97" alt="" width="50" /> | Fifth Harmony | [🔗](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7926088433d79485da5e1734" alt="" width="50" /> | Mabel | [🔗](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) |
+| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebeccc1cde8e9fdcf1c9289897" alt="" width="50" /> | Niall Horan | [🔗](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb581efa688945cbb092df1726" alt="" width="50" /> | Avril Lavigne | [🔗](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | Nicki Minaj | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7e7ecd82666723f21b789734" alt="" width="50" /> | Jonas Brothers | [🔗](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) |
@@ -67,7 +68,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | Christina Aguilera | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb354a84cfb27458618bca3ecb" alt="" width="50" /> | MAX | [🔗](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0f623ae3b66b6a1277c235ae" alt="" width="50" /> | Zara Larsson | [🔗](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebeccc1cde8e9fdcf1c9289897" alt="" width="50" /> | Niall Horan | [🔗](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf556662d187b9191c421be1c" alt="" width="50" /> | 2 Chainz | [🔗](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebee452efcf24aa4124fb28d94" alt="" width="50" /> | A$AP Rocky | [🔗](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eba9add5f319d70026d4f3b8a1" alt="" width="50" /> | Rixton | [🔗](https://open.spotify.com/artist/0kkxsdcaWmWU2yWAqclDh4) |
@@ -84,7 +84,7 @@
 
 
 <details>
-<summary>See all 51 albums</summary>
+<summary>See all 52 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -105,6 +105,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273e6f5ed9a9059f686965ba90a" alt="" width="50" /> | Revival (Deluxe) | 2015-10-09 | [🔗](https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735bdd9e580fdda5e676a25e6a" alt="" width="50" /> | Reflection (Deluxe) | 2015-01-30 | [🔗](https://open.spotify.com/album/0zAsh6hObeNmFgFPrUiFcP) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27306b7221a0ecc0dd36f4f8f18" alt="" width="50" /> | React | 2020-02-07 | [🔗](https://open.spotify.com/album/0Dg7mV6QrpSw8b3o45bNkq) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731bd04431e42ed2105ea3534a" alt="" width="50" /> | Put A Little Love On Me | 2019-12-06 | [🔗](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273e2a93f34e3c52c12f2a5578f" alt="" width="50" /> | New Eyes | 2014-06-02 | [🔗](https://open.spotify.com/album/4a6DxkhmMvvEdPXxm4ergN) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | My Everything (Deluxe) | 2014-08-25 | [🔗](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734f89844c76d620ff098ef5c6" alt="" width="50" /> | Low Key (feat. Tyga) | 2019-01-31 | [🔗](https://open.spotify.com/album/5Wba3IvT61Jz2kZDVKbrxH) |
@@ -164,6 +165,7 @@
 | 2 | [Republic Records](../labels/republic_records.md) |
 | 2 | Lava Music |
 | 2 | [Hollywood Records](../labels/hollywood_records.md) |
+| 2 | [Capitol Records](../labels/capitol_records.md) |
 | 2 | Arista |
 | 1 | Warner Bros. |
 | 1 | [Virgin Records](../labels/virgin_records.md) |
@@ -184,7 +186,6 @@
 | 1 | Decaydance |
 | 1 | Colour Vision Records |
 | 1 | Capitol Records (US1A) |
-| 1 | [Capitol Records](../labels/capitol_records.md) |
 | 1 | Big Beat Records |
 | 1 | Bad Dreams Records |
 | 1 | Access Records |
@@ -217,35 +218,35 @@
 | Good Girls Go Bad (feat. Leighton Meester) (0.874) | Slow Hands (0.425) |
 | Already Gone (0.872) | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" (0.451) |
 | Baby, I'm Jealous (feat. Doja Cat) (0.867) | Stone Cold (0.453) |
-| Break My Heart Myself (feat. Travis Barker) (0.857) | My Oh My (feat. DaBaby) (0.491) |
-| Power (0.855) | Sally Walker (0.492) |
-| Youngblood (0.854) | Living Proof (0.514) |
+| Break My Heart Myself (feat. Travis Barker) (0.857) | Put A Little Love On Me (0.465) |
+| Power (0.855) | My Oh My (feat. DaBaby) (0.491) |
+| Youngblood (0.854) | Sally Walker (0.492) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| Youngblood (0.463) | One Step At a Time (0.0289) |
-| Bubblegum (feat. Tyga) (0.34) | Good Ones (0.0293) |
-| Trumpets (0.258) | My Oh My (feat. DaBaby) (0.0296) |
-| Talk Dirty (feat. 2 Chainz) (0.232) | Havana (feat. Young Thug) (0.03) |
-| Candyman (0.23) | I See the Light - From "Tangled" / Soundtrack Version (0.0305) |
-| Power (0.211) | Because of You (0.0314) |
-| Price Tag (0.182) | Jar of Hearts (0.0316) |
-| Coño (0.181) | When Will My Life Begin? - From "Tangled" / Soundtrack Version (0.0317) |
-| Don't Call Me Up (0.147) | Who You Are (0.0336) |
-| TiK ToK (0.142) | Tick Tock (feat. 24kGoldn) (0.0344) |
+| Youngblood (0.463) | Put A Little Love On Me (0.0262) |
+| Bubblegum (feat. Tyga) (0.34) | One Step At a Time (0.0289) |
+| Trumpets (0.258) | Good Ones (0.0293) |
+| Talk Dirty (feat. 2 Chainz) (0.232) | My Oh My (feat. DaBaby) (0.0296) |
+| Candyman (0.23) | Havana (feat. Young Thug) (0.03) |
+| Power (0.211) | I See the Light - From "Tangled" / Soundtrack Version (0.0305) |
+| Price Tag (0.182) | Because of You (0.0314) |
+| Coño (0.181) | Jar of Hearts (0.0316) |
+| Don't Call Me Up (0.147) | When Will My Life Begin? - From "Tangled" / Soundtrack Version (0.0317) |
+| TiK ToK (0.142) | Who You Are (0.0336) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
 | Consequences (0.889) | Sk8er Boi (6.79e-05) |
 | I See the Light - From "Tangled" / Soundtrack Version (0.829) | Coño (0.000554) |
 | Jar of Hearts (0.726) | My Happy Ending (0.00136) |
-| Trumpets (0.555) | Me And My Broken Heart (0.00489) |
-| Stone Cold (0.539) | If I Go (0.00959) |
-| Blueberry Eyes (feat. SUGA of BTS) (0.454) | Slow Hands (0.011) |
-| Good Thing (with Kehlani) (0.399) | Call Me Maybe (0.0114) |
-| Rockabye (feat. Sean Paul & Anne-Marie) (0.383) | Good Girls Go Bad (feat. Leighton Meester) (0.0116) |
-| Low Key (feat. Tyga) (0.369) | Candyman (0.0125) |
-| Tick Tock (feat. 24kGoldn) (0.369) | Youngblood (0.0169) |
+| Put A Little Love On Me (0.678) | Me And My Broken Heart (0.00489) |
+| Trumpets (0.555) | If I Go (0.00959) |
+| Stone Cold (0.539) | Slow Hands (0.011) |
+| Blueberry Eyes (feat. SUGA of BTS) (0.454) | Call Me Maybe (0.0114) |
+| Good Thing (with Kehlani) (0.399) | Good Girls Go Bad (feat. Leighton Meester) (0.0116) |
+| Rockabye (feat. Sean Paul & Anne-Marie) (0.383) | Candyman (0.0125) |
+| Low Key (feat. Tyga) (0.369) | Youngblood (0.0169) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
@@ -257,8 +258,8 @@
 | Solo (feat. Demi Lovato) (6.66e-05) | Bubblegum (feat. Tyga) (0.0) |
 | Havana (feat. Young Thug) (3.56e-05) | Heart Attack (0.0) |
 | That's My Girl (3.19e-05) | Sally Walker (0.0) |
-| Symphony (feat. Zara Larsson) (1.41e-05) | Salute (0.0) |
-| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" (1.3e-05) | Me And My Broken Heart (0.0) |
+| Symphony (feat. Zara Larsson) (1.41e-05) | Put A Little Love On Me (0.0) |
+| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" (1.3e-05) | Salute (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|

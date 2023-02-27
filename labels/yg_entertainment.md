@@ -101,7 +101,7 @@ Appears as:
 |---:|:---|
 | 69 | [k-pop](../genres/k_pop.md) |
 | 29 | [k-pop girl group](../genres/k_pop_girl_group.md) |
-| 10 | [pop](../genres/pop.md) |
+| 17 | [pop](../genres/pop.md) |
 | 8 | [k-pop boy group](../genres/k_pop_boy_group.md) |
 | 7 | [korean pop](../genres/korean_pop.md) |
 | 3 | k-rap |

@@ -1,6 +1,6 @@
 # r&b
 
-[42 songs](r_b_tracks.md)
+[43 songs](r_b_tracks.md)
 
 ## Top Artists
 
@@ -18,9 +18,10 @@
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | Michael Jackson | [🔗](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb2e42d906f4f9f672359e7379" alt="" width="50" /> | Usher | [🔗](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebaed3c717bf1753ab928ea88d" alt="" width="50" /> | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
+| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | Chris Brown | [🔗](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) |
+| 2 | <img src="https://i.scdn.co/image/adcc1cb654e89f2e404688ae0d1bbc942ce02e5d" alt="" width="50" /> | Ludacris | [🔗](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf99727ed9dbe47a59126e17e" alt="" width="50" /> | Daniel Caesar | [🔗](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eba12641edfc4ffbbdf58f7d15" alt="" width="50" /> | Lil Jon | [🔗](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | Chris Brown | [🔗](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) |
 | 1 | <img src="https://i.scdn.co/image/5c8d57d92825466637905f0d4219064cb39333e9" alt="" width="50" /> | André 3000 | [🔗](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) |
 | 1 | <img src="https://i.scdn.co/image/7667470f669c70a15108051995051fc2cf9e126a" alt="" width="50" /> | Blu Cantrell | [🔗](https://open.spotify.com/artist/6vytZ677lz4LzCrUDcDokM) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb53b6a3853b5347271dcef5d" alt="" width="50" /> | Emily King | [🔗](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) |
@@ -28,7 +29,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | Young Thug | [🔗](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0219b6643b1ec449b0951bfe" alt="" width="50" /> | Giveon | [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | JAY-Z | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
-| 1 | <img src="https://i.scdn.co/image/adcc1cb654e89f2e404688ae0d1bbc942ce02e5d" alt="" width="50" /> | Ludacris | [🔗](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b05445e212ac49d9ed4c310" alt="" width="50" /> | H.E.R. | [🔗](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb02eeb5305fa7bdd9ddca42fc" alt="" width="50" /> | Miguel | [🔗](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../artists/sara_bareilles.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
@@ -45,11 +45,11 @@
 
 ## Top Albums
 
-![Bar chart of top 29 albums](../images/genres/r_b/albums.png)
+![Bar chart of top 30 albums](../images/genres/r_b/albums.png)
 
 
 <details>
-<summary>See all 29 albums</summary>
+<summary>See all 30 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -74,6 +74,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7" alt="" width="50" /> | HIStory - PAST, PRESENT AND FUTURE - BOOK I | 1995-06-16 | [🔗](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733138f891f3075c9c5d944037" alt="" width="50" /> | Freudian | 2017-08-25 | [🔗](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27361ffafd5e31a37336531cf95" alt="" width="50" /> | Fanmail | 1999-02-23 | [🔗](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2730a1d20ec09cab4bb17a36aab" alt="" width="50" /> | F.A.M.E. (Expanded Edition) | 2011-03-22 | [🔗](https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d70bbffa859a9f9ca6f10496" alt="" width="50" /> | Evolver | 2008-10-27 | [🔗](https://open.spotify.com/album/11sKu4dBGvmEZTuVw9EC9A) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="" width="50" /> | Dangerously In Love | 2003-06-24 | [🔗](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739351691c007cad99d70d9f3f" alt="" width="50" /> | Cravin | 2019-10-18 | [🔗](https://open.spotify.com/album/6c66PBJdg7EWPcFUvLyFFu) |
@@ -103,12 +104,12 @@
 | 4 | LaFace Records |
 | 2 | [RCA Records Label](../labels/rca_records_label.md) |
 | 2 | [Legacy](../labels/legacy.md) |
+| 2 | [Jive](../labels/jive.md) |
 | 2 | Golden Child Recordings |
 | 2 | G.O.O.D. Music |
 | 2 | Arista |
 | 1 | Nu America Music |
 | 1 | Not So Fast |
-| 1 | [Jive](../labels/jive.md) |
 | 1 | [Def Jam Recordings](../labels/def_jam_recordings.md) |
 | 1 | Chris Brown Entertainment |
 | 1 | Bad Boy |
@@ -164,14 +165,14 @@
 |:---|:---|
 | All of Me (0.922) | Bootylicious (0.00247) |
 | Teach You - Acoustic (0.899) | Crazy In Love (feat. Jay-Z) (0.00249) |
-| Best Part (feat. H.E.R.) (0.808) | Billie Jean (0.0173) |
-| Ave Maria (0.786) | Yeah! (feat. Lil Jon & Ludacris) (0.0183) |
-| Hold Up (0.745) | No Scrubs (0.0251) |
-| Who Hurt You? (0.586) | Wanna Be Startin' Somethin' (0.0259) |
-| Heartbreak Anniversary (0.524) | Sure Thing (0.0267) |
-| Man in the Mirror - 2012 Remaster (0.52) | Beat It (0.027) |
-| I Was Here (0.431) | Irreplaceable (0.0293) |
-| Listen (From the Motion Picture "Dreamgirls") (0.416) | Thriller (0.0318) |
+| Best Part (feat. H.E.R.) (0.808) | Wet The Bed (feat. Ludacris) (0.0166) |
+| Ave Maria (0.786) | Billie Jean (0.0173) |
+| Hold Up (0.745) | Yeah! (feat. Lil Jon & Ludacris) (0.0183) |
+| Who Hurt You? (0.586) | No Scrubs (0.0251) |
+| Heartbreak Anniversary (0.524) | Wanna Be Startin' Somethin' (0.0259) |
+| Man in the Mirror - 2012 Remaster (0.52) | Sure Thing (0.0267) |
+| I Was Here (0.431) | Beat It (0.027) |
+| Listen (From the Motion Picture "Dreamgirls") (0.416) | Irreplaceable (0.0293) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
@@ -183,8 +184,8 @@
 | P.Y.T. (Pretty Young Thing) (0.000363) | Love On Top (0.0) |
 | Sure Thing (0.000307) | If I Were a Boy (0.0) |
 | Thriller (0.000225) | Preach (0.0) |
-| Who Hurt You? (0.000167) | Bootylicious (0.0) |
-| Man in the Mirror - 2012 Remaster (7.91e-05) | Halo (0.0) |
+| Who Hurt You? (0.000167) | Wet The Bed (feat. Ludacris) (0.0) |
+| Man in the Mirror - 2012 Remaster (7.91e-05) | Bootylicious (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -210,4 +211,4 @@
 | Sweet Dreams (0.788) | I'd Rather Go Blind (0.289) |
 | Thriller (0.783) | Best Thing I Never Had (0.298) |
 | Green Light (feat. André 3000) (0.762) | All of Me (0.331) |
-| Me & U (0.739) | Preach (0.412) |
+| Me & U (0.739) | Wet The Bed (feat. Ludacris) (0.411) |

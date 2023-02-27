@@ -1,19 +1,19 @@
 # Capitol Records
 
-19 songs
+20 songs
 
 Appears as:
-- Capitol Records (17 tracks)
+- Capitol Records (18 tracks)
 - Capitol (1 tracks)
 - SM Entertainment/Capitol Records (1 tracks)
 
 ## Top Artists
 
-![Bar chart of top 12 artists](../images/labels/capitol_records/artists.png)
+![Bar chart of top 13 artists](../images/labels/capitol_records/artists.png)
 
 
 <details>
-<summary>See all 12 artists</summary>
+<summary>See all 13 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -28,6 +28,7 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8d69367047a24d20b0323ff7" alt="" width="50" /> | SuperM | [🔗](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe86f788af4e127154da1257f" alt="" width="50" /> | Bonnie Raitt | [🔗](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebeccc1cde8e9fdcf1c9289897" alt="" width="50" /> | Niall Horan | [🔗](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA | [🔗](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) |
 
 </details>
@@ -35,11 +36,11 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 14 albums](../images/labels/capitol_records/albums.png)
+![Bar chart of top 15 albums](../images/labels/capitol_records/albums.png)
 
 
 <details>
-<summary>See all 14 albums</summary>
+<summary>See all 15 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -52,6 +53,7 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273724a0cb04dbc89d9dd6ee06d" alt="" width="50" /> | Super One -The 1st Album | 2020-09-25 | [🔗](https://open.spotify.com/album/10fdwvVIpa0raPkZUTILAt) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b9ea1c69fe9efbdc2df85a95" alt="" width="50" /> | Songs For Swingin' Lovers! (Remastered) | 1956-03 | [🔗](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | SUGA's Interlude | 2019-12-06 | [🔗](https://open.spotify.com/album/0JfaSjTaej3QB27ofjnbQV) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731bd04431e42ed2105ea3534a" alt="" width="50" /> | Put A Little Love On Me | 2019-12-06 | [🔗](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b53a4da797ba5472d3330b69" alt="" width="50" /> | One Of The Boys | 2008-06-17 | [🔗](https://open.spotify.com/album/5c6MKfLcLB17DlJlFtVmyc) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737636e1c9e67eaafc9f49aefd" alt="" width="50" /> | Manic | 2020-01-17 | [🔗](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1113af3a19a41dc8eec534e" alt="" width="50" /> | Luck Of The Draw | 1991-01-01 | [🔗](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) |
@@ -71,10 +73,11 @@ Appears as:
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 11 | [pop](../genres/pop.md) |
-| 9 | [dance pop](../genres/dance_pop.md) |
+| 12 | [pop](../genres/pop.md) |
+| 10 | [dance pop](../genres/dance_pop.md) |
 | 3 | [adult standards](../genres/adult_standards.md) |
 | 3 | [acoustic pop](../genres/acoustic_pop.md) |
+| 2 | [post-teen pop](../genres/post_teen_pop.md) |
 | 2 | lounge |
 | 2 | indie poptimism |
 | 2 | indie pop |
@@ -83,7 +86,6 @@ Appears as:
 | 2 | easy listening |
 | 1 | [singer-songwriter](../genres/singer_songwriter.md) |
 | 1 | roots rock |
-| 1 | [post-teen pop](../genres/post_teen_pop.md) |
 | 1 | [mellow gold](../genres/mellow_gold.md) |
 | 1 | [lilith](../genres/lilith.md) |
 | 1 | [k-pop](../genres/k_pop.md) |
@@ -119,4 +121,5 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d658a02ba8931985bdc4e0da" alt="" width="50" /> | Light On | Heard It In A Past Life | Maggie Rogers | [Capitol Records](capitol_records.md) | 💚 | [🔗](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730fdfb62956211c999c39a5a3" alt="" width="50" /> | That's Where I Am | Surrender | Maggie Rogers | [Capitol Records](capitol_records.md) | 💚 | [🔗](https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701" alt="" width="50" /> | Nature Boy | The Nat King Cole Story | Nat King Cole | [Capitol Records](capitol_records.md) | 💚 | [🔗](https://open.spotify.com/track/2WMyu5IYgxEuCd6xgFgJrl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731bd04431e42ed2105ea3534a" alt="" width="50" /> | Put A Little Love On Me | Put A Little Love On Me | Niall Horan | [Capitol Records](capitol_records.md) | 💚 | [🔗](https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273724a0cb04dbc89d9dd6ee06d" alt="" width="50" /> | Tiger Inside | Super One -The 1st Album | SuperM | [Capitol Records](capitol_records.md), [SM Entertainment](sm_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/1ADlTU9mFc3oDdD9Vla2Yw) |

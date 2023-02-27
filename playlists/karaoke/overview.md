@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2732d73b1bb77cee09f0278be04ab67616d0000b2736f50b3400595b123a916e0dcab67616d0000b2739ab215825eb77076b1b4b387ab67616d0000b273ff0dae802acb38075786b58c" alt="Karaoke" width="100" />
 
-[64 songs](tracks.md)
+[65 songs](tracks.md)
 
 ## Top Artists
 
@@ -13,7 +13,7 @@
 
 
 <details>
-<summary>See all 49 artists</summary>
+<summary>See all 50 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -61,6 +61,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | Justin Bieber | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | [Florence + The Machine](../../artists/florence___the_machine.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | Christina Aguilera | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebeccc1cde8e9fdcf1c9289897" alt="" width="50" /> | Niall Horan | [🔗](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0b549f4ea1ab50fbae9e4a4b" alt="" width="50" /> | Neon Trees | [🔗](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8f9c3f0a123aecf196868c9c" alt="" width="50" /> | Michael Andrews | [🔗](https://open.spotify.com/artist/0RkqytrwoGyXGvDiZwT6i2) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0767e116a2307495e37cd7fb" alt="" width="50" /> | Eagles | [🔗](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) |
@@ -76,7 +77,7 @@
 
 
 <details>
-<summary>See all 55 albums</summary>
+<summary>See all 56 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -94,6 +95,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736f50b3400595b123a916e0dc" alt="" width="50" /> | The Lady Killer | 2010-11-09 | [🔗](https://open.spotify.com/album/3MXU6UoWrf4w4bOvjZTlvY) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a4aa9c49f8fedf1df4f84051" alt="" width="50" /> | The 2¢ Show | 2012-05-23 | [🔗](https://open.spotify.com/album/4DECRyKlhKJgjZLLuvfAI6) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e" alt="" width="50" /> | Songs About Jane: 10th Anniversary Edition | 2002 | [🔗](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731bd04431e42ed2105ea3534a" alt="" width="50" /> | Put A Little Love On Me | 2019-12-06 | [🔗](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6c0376235e5aa44e59d2c2" alt="" width="50" /> | Picture Show | 2012-01-01 | [🔗](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | Piano Man | 1973-11-09 | [🔗](https://open.spotify.com/album/77ErLrVvYETIlQJHAwhfIH) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="" width="50" /> | Pablo Honey | 1993-02-22 | [🔗](https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8) |
@@ -145,7 +147,7 @@
 
 
 <details>
-<summary>See all 42 labels</summary>
+<summary>See all 43 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -189,6 +191,7 @@
 | 1 | Def Soul |
 | 1 | [Def Jam Recordings](../../labels/def_jam_recordings.md) |
 | 1 | Def Jam |
+| 1 | [Capitol Records](../../labels/capitol_records.md) |
 | 1 | Bad Boy |
 | 1 | ATG |
 
@@ -205,14 +208,14 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 26 | [pop](../../genres/pop.md) |
+| 27 | [pop](../../genres/pop.md) |
 | 16 | [rock](../../genres/rock.md) |
 | 14 | [classic rock](../../genres/classic_rock.md) |
 | 13 | [neo mellow](../../genres/neo_mellow.md) |
 | 10 | [pop rock](../../genres/pop_rock.md) |
 | 10 | [mellow gold](../../genres/mellow_gold.md) |
+| 10 | [dance pop](../../genres/dance_pop.md) |
 | 10 | [acoustic pop](../../genres/acoustic_pop.md) |
-| 9 | [dance pop](../../genres/dance_pop.md) |
 | 8 | piano rock |
 | 7 | [soft rock](../../genres/soft_rock.md) |
 | 7 | [lilith](../../genres/lilith.md) |
@@ -233,6 +236,7 @@
 | 2 | viral pop |
 | 2 | urban contemporary |
 | 2 | soul |
+| 2 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 2 | pop soul |
 | 2 | new americana |
 | 2 | motown |
@@ -244,6 +248,7 @@
 | 2 | indie folk |
 | 2 | funk |
 | 2 | folk |
+| 2 | [electropop](../../genres/electropop.md) |
 | 2 | easy listening |
 | 2 | country rock |
 | 2 | british soul |
@@ -258,7 +263,6 @@
 | 1 | [r&b](../../genres/r_b.md) |
 | 1 | quiet storm |
 | 1 | progressive bluegrass |
-| 1 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 1 | oxford indie |
 | 1 | neo soul |
 | 1 | memphis soul |
@@ -274,7 +278,6 @@
 | 1 | indie pop |
 | 1 | heartland rock |
 | 1 | escape room |
-| 1 | [electropop](../../genres/electropop.md) |
 | 1 | disco |
 | 1 | comic |
 | 1 | classic soul |
@@ -303,14 +306,14 @@
 |:---|:---|
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="Justice" width="50" /> <span style="padding-left:10px;">Justice (2021-03-19)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> <span style="padding-left:10px;">Days Of Wine And Roses, Moon River And Other Academy Award Winners (1964)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" alt="Future Nostalgia" width="50" /> <span style="padding-left:10px;">Future Nostalgia (2020-03-27)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> <span style="padding-left:10px;">The Temptations Sing Smokey (1965-03-22)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733a2a91f99d869c4ca51362ff" alt="Aussie Legends" width="50" /> <span style="padding-left:10px;">Aussie Legends (2019-11-22)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> <span style="padding-left:10px;">Help! (Remastered) (1965-08-06)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="Lover" width="50" /> <span style="padding-left:10px;">Lover (2019-08-23)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="Abbey Road (Remastered)" width="50" /> <span style="padding-left:10px;">Abbey Road (Remastered) (1969-09-26)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731a104e8630a97b573201f655" alt="Blue Neighbourhood (Deluxe)" width="50" /> <span style="padding-left:10px;">Blue Neighbourhood (Deluxe) (2015-12-04)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38" alt="Diana Ross Presents The Jackson 5" width="50" /> <span style="padding-left:10px;">Diana Ross Presents The Jackson 5 (1969-12-18)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="1000 Forms Of Fear (Deluxe Version)" width="50" /> <span style="padding-left:10px;">1000 Forms Of Fear (Deluxe Version) (2015-05-04)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="Bridge Over Troubled Water" width="50" /> <span style="padding-left:10px;">Bridge Over Troubled Water (1970-01-26)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27334da09e702c7f9ca573981e5" alt="Ella Eyre" width="50" /> <span style="padding-left:10px;">Ella Eyre (2015-01-12)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f22514855a9a8356664340fb" alt="Moondance (Deluxe Edition)" width="50" /> <span style="padding-left:10px;">Moondance (Deluxe Edition) (1970-02)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="Hozier (Expanded Edition)" width="50" /> <span style="padding-left:10px;">Hozier (Expanded Edition) (2014-09-19)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" alt="Elton John" width="50" /> <span style="padding-left:10px;">Elton John (1970-04-10)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273554488d0c51967b1654d8ce5" alt="Is There Anybody Out There?" width="50" /> <span style="padding-left:10px;">Is There Anybody Out There? (2014-01-20)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732d73b1bb77cee09f0278be04" alt="Desperado (2013 Remaster)" width="50" /> <span style="padding-left:10px;">Desperado (2013 Remaster) (1973)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> <span style="padding-left:10px;">The Blessed Unrest (2013-07-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f72f1e38e9bd48f18a17ed9b" alt="Goodbye Yellow Brick Road (Remastered)" width="50" /> <span style="padding-left:10px;">Goodbye Yellow Brick Road (Remastered) (1973-10-05)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731bd04431e42ed2105ea3534a" alt="Put A Little Love On Me" width="50" /> <span style="padding-left:10px;">Put A Little Love On Me (2019-12-06)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> <span style="padding-left:10px;">Help! (Remastered) (1965-08-06)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733a2a91f99d869c4ca51362ff" alt="Aussie Legends" width="50" /> <span style="padding-left:10px;">Aussie Legends (2019-11-22)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="Abbey Road (Remastered)" width="50" /> <span style="padding-left:10px;">Abbey Road (Remastered) (1969-09-26)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="Lover" width="50" /> <span style="padding-left:10px;">Lover (2019-08-23)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38" alt="Diana Ross Presents The Jackson 5" width="50" /> <span style="padding-left:10px;">Diana Ross Presents The Jackson 5 (1969-12-18)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731a104e8630a97b573201f655" alt="Blue Neighbourhood (Deluxe)" width="50" /> <span style="padding-left:10px;">Blue Neighbourhood (Deluxe) (2015-12-04)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="Bridge Over Troubled Water" width="50" /> <span style="padding-left:10px;">Bridge Over Troubled Water (1970-01-26)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="1000 Forms Of Fear (Deluxe Version)" width="50" /> <span style="padding-left:10px;">1000 Forms Of Fear (Deluxe Version) (2015-05-04)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f22514855a9a8356664340fb" alt="Moondance (Deluxe Edition)" width="50" /> <span style="padding-left:10px;">Moondance (Deluxe Edition) (1970-02)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27334da09e702c7f9ca573981e5" alt="Ella Eyre" width="50" /> <span style="padding-left:10px;">Ella Eyre (2015-01-12)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" alt="Elton John" width="50" /> <span style="padding-left:10px;">Elton John (1970-04-10)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="Hozier (Expanded Edition)" width="50" /> <span style="padding-left:10px;">Hozier (Expanded Edition) (2014-09-19)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732d73b1bb77cee09f0278be04" alt="Desperado (2013 Remaster)" width="50" /> <span style="padding-left:10px;">Desperado (2013 Remaster) (1973)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273554488d0c51967b1654d8ce5" alt="Is There Anybody Out There?" width="50" /> <span style="padding-left:10px;">Is There Anybody Out There? (2014-01-20)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f72f1e38e9bd48f18a17ed9b" alt="Goodbye Yellow Brick Road (Remastered)" width="50" /> <span style="padding-left:10px;">Goodbye Yellow Brick Road (Remastered) (1973-10-05)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
@@ -344,13 +347,13 @@
 | So Sick (0.31) | The Scientist (0.0243) |
 | Don't Stop Me Now (0.192) | Old Fashioned (0.0246) |
 | Only the Good Die Young (0.159) | Everything (0.0254) |
-| Home (0.128) | Machine Gun (0.0268) |
-| Love On Top (0.0886) | I Want It That Way (0.027) |
-| Break My Heart (0.0884) | Chasing Cars (0.0274) |
-| Sincerely, Jane (0.0867) | Piano Man (0.0276) |
-| Dog Days Are Over (0.0788) | Golden Slumbers - Remastered 2009 (0.0277) |
-| Death By A Thousand Cuts (0.0629) | Goodbye Yellow Brick Road - Remastered 2014 (0.0279) |
-| The Boxer (0.0615) | Someone Like You (0.0281) |
+| Home (0.128) | Put A Little Love On Me (0.0262) |
+| Love On Top (0.0886) | Machine Gun (0.0268) |
+| Break My Heart (0.0884) | I Want It That Way (0.027) |
+| Sincerely, Jane (0.0867) | Chasing Cars (0.0274) |
+| Dog Days Are Over (0.0788) | Piano Man (0.0276) |
+| Death By A Thousand Cuts (0.0629) | Golden Slumbers - Remastered 2009 (0.0277) |
+| The Boxer (0.0615) | Goodbye Yellow Brick Road - Remastered 2014 (0.0279) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -374,9 +377,9 @@
 | Dog Days Are Over (0.00255) | I'm Yours (0.0) |
 | Goodbye Yellow Brick Road - Remastered 2014 (0.00141) | Rolling in the Deep (0.0) |
 | Don't Stop Me Now (0.00127) | YOUTH (0.0) |
-| Sincerely, Jane (0.000649) | Love On Top (0.0) |
-| Manhattan (0.000585) | Someone Like You (0.0) |
-| Mad World (0.000362) | Disturbia (0.0) |
+| Sincerely, Jane (0.000649) | Put A Little Love On Me (0.0) |
+| Manhattan (0.000585) | Love On Top (0.0) |
+| Mad World (0.000362) | Someone Like You (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
