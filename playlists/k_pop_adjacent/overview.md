@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2733317fc12f8b9a9a0b8459766ab67616d0000b27363e0ddbb488d0eeec0e738fcab67616d0000b27384095737f6056e682666d6f9ab67616d0000b273f2bf9685109a09bdc176fb43" alt="K-Pop-Adjacent" width="100" />
 
-[36 songs](tracks.md)
+[37 songs](tracks.md)
 
 ## Top Artists
 
@@ -13,7 +13,7 @@
 
 
 <details>
-<summary>See all 47 artists</summary>
+<summary>See all 49 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -23,11 +23,13 @@
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | Justin Bieber | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb65b7b48eeac1b113c75f2295" alt="" width="50" /> | YB | [🔗](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd7bb678bef6d2f26110cae49" alt="" width="50" /> | ROSALÍA | [🔗](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb89ad1bc33aa9abcaf4370c77" alt="" width="50" /> | Loving Caliber | [🔗](https://open.spotify.com/artist/6psCCMHymYfQy6VvYRr6cs) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb52ca4fca28b86ca3a7d9846d" alt="" width="50" /> | Destiny Rogers | [🔗](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e2e2c78de847c4d9b12d32f" alt="" width="50" /> | Charlie Puth | [🔗](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) |
 | 1 | <img src="nan" alt="" width="50" /> | Nam Joohyuk | [🔗](https://open.spotify.com/artist/69ybhMoBUPmIcH4MyDARDv) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfec47253dbf18efd8b80c5d8" alt="" width="50" /> | Stellar | [🔗](https://open.spotify.com/artist/5yw4tA8D5uG7tT3NaDvq10) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb396b4599f4135c32983dadb" alt="" width="50" /> | G Curtis | [🔗](https://open.spotify.com/artist/5kXFGisUTEE54i06rrXhJE) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1509ea5c5453d5edba050412" alt="" width="50" /> | Hong Jin Young | [🔗](https://open.spotify.com/artist/5LwiBgLTllBUiqQGNiQ7jY) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8543b9b2b5d153d37c46606d" alt="" width="50" /> | LISA | [🔗](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) |
 | 1 | <img src="nan" alt="" width="50" /> | Bona(WJSN) | [🔗](https://open.spotify.com/artist/5EHm62VI2botfXyNvboLlL) |
@@ -74,7 +76,7 @@
 
 
 <details>
-<summary>See all 35 albums</summary>
+<summary>See all 36 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -97,6 +99,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27376205e74bef31f32a779d970" alt="" width="50" /> | REMIND | 2016-10-26 | [🔗](https://open.spotify.com/album/2wA8OXIv1JXX9kTY2ddfR4) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="" width="50" /> | Purpose (Deluxe) | 2015-11-13 | [🔗](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb" alt="" width="50" /> | Motley Crew | 2021-07-09 | [🔗](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f3ebb80519c23d6d08e49ec6" alt="" width="50" /> | Magical | 2018-09-04 | [🔗](https://open.spotify.com/album/2rUeXUM8fCb2D26NPoy0Y3) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d3b343b757e4f3275bb2f26a" alt="" width="50" /> | MINT | 2018-10-19 | [🔗](https://open.spotify.com/album/5hUQgovUfTYN47QGQXF8k2) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d66fa6cfaadb6b634bd1c640" alt="" width="50" /> | Love's Battery | 2009-06-19 | [🔗](https://open.spotify.com/album/03IVWQyi8lzS4t2WQKu5iI) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f7ec724fbf97a30869d06240" alt="" width="50" /> | Let Go | 2002-06-04 | [🔗](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) |
@@ -123,7 +126,7 @@
 
 
 <details>
-<summary>See all 35 labels</summary>
+<summary>See all 36 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -155,6 +158,7 @@
 | 1 | Hwa&Dam pictures |
 | 1 | Fez's Finest |
 | 1 | Fantasy Soul |
+| 1 | Epidemic Sound |
 | 1 | [Def Jam Recordings](../../labels/def_jam_recordings.md) |
 | 1 | DJ Snake Music Productions Limited |
 | 1 | [Columbia](../../labels/columbia.md) |
@@ -172,11 +176,11 @@
 
 
 <details>
-<summary>See all 39 genres</summary>
+<summary>See all 40 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 14 | [pop](../../genres/pop.md) |
+| 13 | [pop](../../genres/pop.md) |
 | 9 | [dance pop](../../genres/dance_pop.md) |
 | 5 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 4 | [r&b](../../genres/r_b.md) |
@@ -198,6 +202,7 @@
 | 1 | tropical house |
 | 1 | talent show |
 | 1 | social media pop |
+| 1 | scandipop |
 | 1 | rap latina |
 | 1 | r&b en espanol |
 | 1 | pop r&b |
@@ -250,20 +255,20 @@
 | Motley Crew (0.797) | SILENCE (0.532) |
 | Boat (0.792) | With (0.565) |
 | LEFT RIGHT (0.767) | Wet The Bed (feat. Ludacris) (0.58) |
-| Bad (0.759) | SHOOTING STAR (0.625) |
+| Bad (0.759) | I'm Out Of My Mind (0.598) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
 | Love's Battery (0.928) | Sneaky Snitch (0.0699) |
-| Sk8er Boi (0.9) | Off My Face (0.228) |
-| Break My Heart Myself (feat. Travis Barker) (0.857) | At My Worst (0.415) |
-| SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (0.837) | With (0.461) |
-| Cry for Me (0.805) | Heartbreak Anniversary (0.465) |
-| Maria (0.733) | River (0.477) |
-| Salute (0.732) | MALAMENTE - Cap.1: Augurio (0.482) |
-| From now on (0.729) | Tango (0.519) |
-| LEFT RIGHT (0.721) | Cravin (feat. G-Eazy) (0.538) |
-| SHOOTING STAR (0.712) | Mushroom Chocolate (with 6LACK) (0.547) |
+| I'm Out Of My Mind (0.909) | Off My Face (0.228) |
+| Sk8er Boi (0.9) | At My Worst (0.415) |
+| Break My Heart Myself (feat. Travis Barker) (0.857) | With (0.461) |
+| SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (0.837) | Heartbreak Anniversary (0.465) |
+| Cry for Me (0.805) | River (0.477) |
+| Maria (0.733) | MALAMENTE - Cap.1: Augurio (0.482) |
+| Salute (0.732) | Tango (0.519) |
+| From now on (0.729) | Cravin (feat. G-Eazy) (0.538) |
+| LEFT RIGHT (0.721) | Mushroom Chocolate (with 6LACK) (0.547) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -298,24 +303,24 @@
 | Tippy Toes (0.106) | Salute (0.0) |
 | MALAMENTE - Cap.1: Augurio (0.0164) | City Girls (0.0) |
 | Tomboy (0.00512) | Tango (0.0) |
-| SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (0.00313) | Wet The Bed (feat. Ludacris) (0.0) |
-| Maria (0.00168) | Boat (0.0) |
-| From now on (0.000374) | SHOOTING STAR (0.0) |
-| Light Switch (0.000321) | Love's Battery (0.0) |
-| I'll Show You (7.96e-05) | Ashes (0.0) |
+| SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (0.00313) | I'm Out Of My Mind (0.0) |
+| Maria (0.00168) | Wet The Bed (feat. Ludacris) (0.0) |
+| From now on (0.000374) | Boat (0.0) |
+| Light Switch (0.000321) | SHOOTING STAR (0.0) |
+| I'll Show You (7.96e-05) | Love's Battery (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
 | Boat (0.56) | Good Thing (with Kehlani) (0.0409) |
-| Sk8er Boi (0.358) | Maria (0.0534) |
-| Bad (0.329) | City Girls (0.0554) |
-| Heartbreak Anniversary (0.303) | River (0.0579) |
-| Salute (0.285) | MALAMENTE - Cap.1: Augurio (0.0752) |
-| SHOOTING STAR (0.252) | Break My Heart Myself (feat. Travis Barker) (0.0801) |
-| When I Get Old (0.203) | SILENCE (0.0867) |
-| I'll Show You (0.183) | Mushroom Chocolate (with 6LACK) (0.0874) |
-| Wet The Bed (feat. Ludacris) (0.174) | SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (0.0904) |
-| Ashes (0.169) | Light Switch (0.0905) |
+| I'm Out Of My Mind (0.37) | Maria (0.0534) |
+| Sk8er Boi (0.358) | City Girls (0.0554) |
+| Bad (0.329) | River (0.0579) |
+| Heartbreak Anniversary (0.303) | MALAMENTE - Cap.1: Augurio (0.0752) |
+| Salute (0.285) | Break My Heart Myself (feat. Travis Barker) (0.0801) |
+| SHOOTING STAR (0.252) | SILENCE (0.0867) |
+| When I Get Old (0.203) | Mushroom Chocolate (with 6LACK) (0.0874) |
+| I'll Show You (0.183) | SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (0.0904) |
+| Wet The Bed (feat. Ludacris) (0.174) | Light Switch (0.0905) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|

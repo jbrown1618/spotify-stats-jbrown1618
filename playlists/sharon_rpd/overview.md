@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="Sharon RPD" width="100" />
 
-[45 songs](tracks.md)
+[46 songs](tracks.md)
 
 ## Top Artists
 
@@ -13,7 +13,7 @@
 
 
 <details>
-<summary>See all 34 artists</summary>
+<summary>See all 36 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -35,6 +35,8 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc6de192c5941f6605bb9c6ad" alt="" width="50" /> | Weeekly | [🔗](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd63cdcec79b1864df268c7bf" alt="" width="50" /> | TAEYANG | [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb03fd839c09fe375026192645" alt="" width="50" /> | GOT the beat | [🔗](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb89ad1bc33aa9abcaf4370c77" alt="" width="50" /> | Loving Caliber | [🔗](https://open.spotify.com/artist/6psCCMHymYfQy6VvYRr6cs) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb396b4599f4135c32983dadb" alt="" width="50" /> | G Curtis | [🔗](https://open.spotify.com/artist/5kXFGisUTEE54i06rrXhJE) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8543b9b2b5d153d37c46606d" alt="" width="50" /> | LISA | [🔗](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | Young Thug | [🔗](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3806dc272074141b5f4ae00d" alt="" width="50" /> | MONSTA X | [🔗](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) |
@@ -61,7 +63,7 @@
 
 
 <details>
-<summary>See all 42 albums</summary>
+<summary>See all 43 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -87,6 +89,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01" alt="" width="50" /> | NewJeans 'OMG' | 2023-01-02 | [🔗](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | NOEASY | 2021-08-23 | [🔗](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="" width="50" /> | NCT 2018 EMPATHY | 2018-03-14 | [🔗](https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f3ebb80519c23d6d08e49ec6" alt="" width="50" /> | Magical | 2018-09-04 | [🔗](https://open.spotify.com/album/2rUeXUM8fCb2D26NPoy0Y3) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | MAP OF THE SOUL : PERSONA | 2019-04-12 | [🔗](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="" width="50" /> | MAGIC MAN | 2022-09-09 | [🔗](https://open.spotify.com/album/2VZ4og2ZbwyTQ3X1rbgCe1) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | Love Yourself 結 'Answer' | 2018-08-24 | [🔗](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) |
@@ -113,11 +116,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 23 record labels](../../images/playlists/sharon_rpd/labels.png)
+![Bar chart of top 24 record labels](../../images/playlists/sharon_rpd/labels.png)
 
 
 <details>
-<summary>See all 23 labels</summary>
+<summary>See all 24 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -140,6 +143,7 @@
 | 1 | PLAY M ENTERTAINMENT CORP. |
 | 1 | [Genie Music Corporation](../../labels/genie_music_corporation.md) |
 | 1 | [FNC ENTERTAINMENT](../../labels/fnc_entertainment.md) |
+| 1 | Epidemic Sound |
 | 1 | Chris Brown Entertainment |
 | 1 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment.md) |
 | 1 | 88rising Music |
@@ -150,11 +154,11 @@
 
 ## Genres
 
-![Bar chart of top 8 genres](../../images/playlists/sharon_rpd/genres.png)
+![Bar chart of top 9 genres](../../images/playlists/sharon_rpd/genres.png)
 
 
 <details>
-<summary>See all 8 genres</summary>
+<summary>See all 9 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -162,6 +166,7 @@
 | 20 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 14 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
 | 2 | anime |
+| 1 | scandipop |
 | 1 | [r&b](../../genres/r_b.md) |
 | 1 | [pop](../../genres/pop.md) |
 | 1 | korean r&b |
@@ -184,10 +189,10 @@
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f" alt="Ditto" width="50" /> <span style="padding-left:10px;">Ditto (2022-12-19)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27317477a7434c66ac5548b6ab7" alt="Brother Act." width="50" /> <span style="padding-left:10px;">Brother Act. (2017-10-16)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="ANTIFRAGILE" width="50" /> <span style="padding-left:10px;">ANTIFRAGILE (2022-10-17)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="NCT 2018 EMPATHY" width="50" /> <span style="padding-left:10px;">NCT 2018 EMPATHY (2018-03-14)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="28 Reasons - The 1st Mini Album" width="50" /> <span style="padding-left:10px;">28 Reasons - The 1st Mini Album (2022-10-04)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="Love Yourself 結 'Answer'" width="50" /> <span style="padding-left:10px;">Love Yourself 結 'Answer' (2018-08-24)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="BORN PINK" width="50" /> <span style="padding-left:10px;">BORN PINK (2022-09-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="MAP OF THE SOUL : PERSONA" width="50" /> <span style="padding-left:10px;">MAP OF THE SOUL : PERSONA (2019-04-12)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="MAGIC MAN" width="50" /> <span style="padding-left:10px;">MAGIC MAN (2022-09-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="‘The ReVe Festival’ Finale" width="50" /> <span style="padding-left:10px;">‘The ReVe Festival’ Finale (2019-12-23)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" alt="NewJeans 1st EP 'New Jeans'" width="50" /> <span style="padding-left:10px;">NewJeans 1st EP 'New Jeans' (2022-08-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="Slime & B" width="50" /> <span style="padding-left:10px;">Slime & B (2020-05-08)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273700c67465db0a6d66c3a36d6" alt="HARMONY : ZERO IN" width="50" /> <span style="padding-left:10px;">HARMONY : ZERO IN (2022-07-20)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> <span style="padding-left:10px;">THE ALBUM (2020-10-02)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="BORN PINK" width="50" /> <span style="padding-left:10px;">BORN PINK (2022-09-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f3ebb80519c23d6d08e49ec6" alt="Magical" width="50" /> <span style="padding-left:10px;">Magical (2018-09-04)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="MAGIC MAN" width="50" /> <span style="padding-left:10px;">MAGIC MAN (2022-09-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="MAP OF THE SOUL : PERSONA" width="50" /> <span style="padding-left:10px;">MAP OF THE SOUL : PERSONA (2019-04-12)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" alt="NewJeans 1st EP 'New Jeans'" width="50" /> <span style="padding-left:10px;">NewJeans 1st EP 'New Jeans' (2022-08-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="‘The ReVe Festival’ Finale" width="50" /> <span style="padding-left:10px;">‘The ReVe Festival’ Finale (2019-12-23)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273700c67465db0a6d66c3a36d6" alt="HARMONY : ZERO IN" width="50" /> <span style="padding-left:10px;">HARMONY : ZERO IN (2022-07-20)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="Slime & B" width="50" /> <span style="padding-left:10px;">Slime & B (2020-05-08)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
@@ -196,25 +201,25 @@
 | FEARLESS (0.863) | Blow (0.535) |
 | DUMB DUMB (0.851) | Dope (0.579) |
 | ELEVEN (0.828) | Hype Boy (0.593) |
-| Holiday Party (0.825) | FEVER (0.6) |
-| Shut Down (0.82) | Thunderous (0.601) |
-| WHISTLE (0.818) | MIC Drop (Steve Aoki Remix) - Full Length Edition (0.606) |
-| Ditto (0.814) | Missing You (0.633) |
-| Attention (0.811) | Step Back (0.636) |
-| LALISA (0.806) | Boy With Luv (feat. Halsey) (0.645) |
+| Holiday Party (0.825) | I'm Out Of My Mind (0.598) |
+| Shut Down (0.82) | FEVER (0.6) |
+| WHISTLE (0.818) | Thunderous (0.601) |
+| Ditto (0.814) | MIC Drop (Steve Aoki Remix) - Full Length Edition (0.606) |
+| Attention (0.811) | Missing You (0.633) |
+| LALISA (0.806) | Step Back (0.636) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
 | Hype Boy (0.935) | BOSS (0.543) |
 | Black Mamba (0.915) | Pretty Savage (0.556) |
-| Alcohol-Free (0.909) | City Girls (0.586) |
-| Queendom (0.896) | Blow (0.586) |
-| Dope (0.896) | FEARLESS (0.62) |
-| LOCO (0.886) | Ditto (0.641) |
-| Boy With Luv (feat. Halsey) (0.862) | Attention (0.648) |
-| GAMBLER (0.861) | 28 Reasons (0.651) |
-| MIC Drop (Steve Aoki Remix) - Full Length Edition (0.85) | LALISA (0.653) |
-| Ay-Yo (0.845) | Psycho (0.666) |
+| I'm Out Of My Mind (0.909) | City Girls (0.586) |
+| Alcohol-Free (0.909) | Blow (0.586) |
+| Queendom (0.896) | FEARLESS (0.62) |
+| Dope (0.896) | Ditto (0.641) |
+| LOCO (0.886) | Attention (0.648) |
+| Boy With Luv (feat. Halsey) (0.862) | 28 Reasons (0.651) |
+| GAMBLER (0.861) | LALISA (0.653) |
+| MIC Drop (Steve Aoki Remix) - Full Length Edition (0.85) | Psycho (0.666) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -250,23 +255,23 @@
 | DUMB DUMB (0.000149) | Hype Boy (0.0) |
 | Pretty Savage (0.000122) | Thunderous (0.0) |
 | Ice Cream (with Selena Gomez) (8.06e-05) | City Girls (0.0) |
-| LOVE DIVE (5.43e-05) | Ay-Yo (0.0) |
-| Doom Du Doom (4.82e-05) | Attention (0.0) |
-| LOCO (2.04e-05) | Missing You (0.0) |
-| Illusion (1.75e-05) | Psycho (0.0) |
+| LOVE DIVE (5.43e-05) | I'm Out Of My Mind (0.0) |
+| Doom Du Doom (4.82e-05) | Ay-Yo (0.0) |
+| LOCO (2.04e-05) | Attention (0.0) |
+| Illusion (1.75e-05) | Missing You (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
 | Step Back (0.596) | Holiday Party (0.0294) |
-| Dope (0.352) | Ice Cream (with Selena Gomez) (0.0311) |
-| LOCO (0.342) | Run BTS (0.0358) |
-| HOT (0.338) | ELEVEN (0.048) |
-| LOVE DIVE (0.333) | City Girls (0.0554) |
-| Illusion (0.322) | Queendom (0.0626) |
-| RUN2U (0.321) | Alcohol-Free (0.0674) |
-| Ay-Yo (0.317) | Blow (0.0745) |
-| Hype Boy (0.286) | Attention (0.0761) |
-| Go Big or Go Home (0.269) | Doom Du Doom (0.0811) |
+| I'm Out Of My Mind (0.37) | Ice Cream (with Selena Gomez) (0.0311) |
+| Dope (0.352) | Run BTS (0.0358) |
+| LOCO (0.342) | ELEVEN (0.048) |
+| HOT (0.338) | City Girls (0.0554) |
+| LOVE DIVE (0.333) | Queendom (0.0626) |
+| Illusion (0.322) | Alcohol-Free (0.0674) |
+| RUN2U (0.321) | Blow (0.0745) |
+| Ay-Yo (0.317) | Attention (0.0761) |
+| Hype Boy (0.286) | Doom Du Doom (0.0811) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|

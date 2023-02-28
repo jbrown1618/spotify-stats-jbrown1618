@@ -318,8 +318,8 @@
 | 63 | [pop](../../genres/pop.md) |
 | 29 | [rock](../../genres/rock.md) |
 | 26 | indie pop |
-| 23 | [electropop](../../genres/electropop.md) |
 | 22 | permanent wave |
+| 22 | [electropop](../../genres/electropop.md) |
 | 21 | [dance pop](../../genres/dance_pop.md) |
 | 21 | [art pop](../../genres/art_pop.md) |
 | 20 | modern rock |

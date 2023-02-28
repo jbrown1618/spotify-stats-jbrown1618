@@ -267,7 +267,7 @@
 | 12 | [SOURCE MUSIC](../../labels/source_music.md) |
 | 11 | [FNC ENTERTAINMENT](../../labels/fnc_entertainment.md) |
 | 10 | [MYSTIC STORY](../../labels/mystic_story.md) |
-| 9 | WM Entertainment |
+| 9 | [WM Entertainment](../../labels/wm_entertainment.md) |
 | 9 | MNH ENTERTAINMENT |
 | 9 | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company.md) |
 | 8 | KQ Entertainment |
@@ -362,13 +362,13 @@
 | 838 | [k-pop](../../genres/k_pop.md) |
 | 374 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 235 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
-| 91 | [pop](../../genres/pop.md) |
+| 59 | [pop](../../genres/pop.md) |
 | 40 | [korean pop](../../genres/korean_pop.md) |
 | 33 | korean r&b |
 | 22 | k-rap |
 | 22 | anime |
 | 12 | korean ost |
-| 10 | [dance pop](../../genres/dance_pop.md) |
+| 12 | [dance pop](../../genres/dance_pop.md) |
 | 9 | korean city pop |
 | 6 | korean old school hip hop |
 | 6 | classic k-pop |

@@ -65,11 +65,11 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 4 genres](../images/labels/cube_entertainment/genres.png)
+![Bar chart of top 5 genres](../images/labels/cube_entertainment/genres.png)
 
 
 <details>
-<summary>See all 4 genres</summary>
+<summary>See all 5 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -77,6 +77,7 @@ Appears as:
 | 24 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 | 5 | korean city pop |
 | 5 | [k-pop boy group](../genres/k_pop_boy_group.md) |
+| 2 | [dance pop](../genres/dance_pop.md) |
 
 </details>
 

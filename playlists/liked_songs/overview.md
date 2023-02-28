@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1448 songs](tracks.md)
+[1457 songs](tracks.md)
 
 ## Top Artists
 
@@ -29,6 +29,7 @@
 | 19 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../../artists/enhypen.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 | 18 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../../artists/leehi.md) | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 | 18 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="" width="50" /> | [TAEYEON](../../artists/taeyeon.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
+| 17 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | [Rihanna](../../artists/rihanna.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | 17 | <img src="https://i.scdn.co/image/ab6761610000e5eb1723d33e6837b553b2e512c1" alt="" width="50" /> | [Pentatonix](../../artists/pentatonix.md) | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
 | 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../../artists/ariana_grande.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 | 15 | <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | [Billy Joel](../../artists/billy_joel.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
@@ -47,7 +48,6 @@
 | 10 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../../artists/bruno_mars.md) | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
 | 10 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | [Lana Del Rey](../../artists/lana_del_rey.md) | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | [Beyoncé](../../artists/beyonc_.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
-| 9 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | [Rihanna](../../artists/rihanna.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5eb968ab271c895fb9cc245d6fe" alt="" width="50" /> | [Billlie](../../artists/billlie.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../../artists/lady_gaga.md) | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5ebadffb99dc62d070da29306ff" alt="" width="50" /> | JEON SOYEON | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
@@ -219,6 +219,7 @@
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9a3105ad4ffb91ad2e2798" alt="" width="50" /> | Life in Cartoon Motion | 2007-02-05 | [🔗](https://open.spotify.com/album/4wKkXYJXQWDa9sndBSx0gI) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="" width="50" /> | Jack In The Box | 2022-07-15 | [🔗](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | Hamilton (Original Broadway Cast Recording) | 2015-09-25 | [🔗](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) |
+| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Good Girl Gone Bad: Reloaded | 2008-06-02 | [🔗](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" alt="" width="50" /> | Future Nostalgia | 2020-03-27 | [🔗](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273aea29200523b1ee4d5b2c035" alt="" width="50" /> | FOREVER 1 - The 7th Album | 2022-08-05 | [🔗](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555" alt="" width="50" /> | FEARLESS | 2022-05-02 | [🔗](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) |
@@ -227,7 +228,6 @@
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="" width="50" /> | Dangerous Woman | 2016-05-20 | [🔗](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273a498cf792773aa474d779dd8" alt="" width="50" /> | D-2 | 2020-05-22 | [🔗](https://open.spotify.com/album/0zhGddZ83RpCgnelKWa2qS) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Camila | 2018-01-12 | [🔗](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | Bridge Over Troubled Water | 1970-01-26 | [🔗](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) |
 
 </details>
 
@@ -265,6 +265,7 @@
 | 17 | [Polydor Records](../../labels/polydor_records.md) |
 | 17 | [JYP Entertainment](../../labels/jyp_entertainment.md) |
 | 16 | [Universal-Island Records Ltd.](../../labels/universal_island_records_ltd_.md) |
+| 15 | [Def Jam Recordings](../../labels/def_jam_recordings.md) |
 | 14 | [Starship Entertainment](../../labels/starship_entertainment.md) |
 | 14 | [Rhino](../../labels/rhino.md) |
 | 14 | [PLEDIS Entertainment](../../labels/pledis_entertainment.md) |
@@ -280,14 +281,13 @@
 | 10 | [Darkroom](../../labels/darkroom.md) |
 | 9 | [MYSTIC STORY](../../labels/mystic_story.md) |
 | 8 | [WM Korea](../../labels/wm_korea.md) |
-| 8 | WM Entertainment |
+| 8 | [WM Entertainment](../../labels/wm_entertainment.md) |
 | 8 | The Unc - Chapel Hill Tarpeggios |
 | 8 | Monkey Puzzle Records |
 | 8 | MNH ENTERTAINMENT |
 | 8 | [FNC ENTERTAINMENT](../../labels/fnc_entertainment.md) |
 | 8 | 88rising Music |
 | 7 | [MOTOWN](../../labels/motown.md) |
-| 7 | [Def Jam Recordings](../../labels/def_jam_recordings.md) |
 | 7 | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company.md) |
 | 7 | Cooking Vinyl Limited |
 | 6 | [Virgin Records](../../labels/virgin_records.md) |
@@ -357,10 +357,10 @@
 | Number of Tracks | Genre |
 |---:|:---|
 | 637 | [k-pop](../../genres/k_pop.md) |
-| 400 | [pop](../../genres/pop.md) |
+| 380 | [pop](../../genres/pop.md) |
 | 293 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
+| 165 | [dance pop](../../genres/dance_pop.md) |
 | 163 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
-| 163 | [dance pop](../../genres/dance_pop.md) |
 | 105 | [rock](../../genres/rock.md) |
 | 78 | [classic rock](../../genres/classic_rock.md) |
 | 62 | [neo mellow](../../genres/neo_mellow.md) |
@@ -370,7 +370,7 @@
 | 43 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 43 | [hollywood](../../genres/hollywood.md) |
 | 42 | [mellow gold](../../genres/mellow_gold.md) |
-| 38 | [electropop](../../genres/electropop.md) |
+| 36 | [electropop](../../genres/electropop.md) |
 | 35 | [korean pop](../../genres/korean_pop.md) |
 | 34 | [art pop](../../genres/art_pop.md) |
 | 33 | [folk rock](../../genres/folk_rock.md) |
@@ -383,6 +383,7 @@
 | 24 | permanent wave |
 | 23 | beatlesque |
 | 23 | art rock |
+| 22 | urban contemporary |
 | 22 | [r&b](../../genres/r_b.md) |
 | 22 | merseybeat |
 | 20 | pop rap |
@@ -400,8 +401,8 @@
 | 15 | metropopolis |
 | 15 | k-rap |
 | 15 | baroque pop |
+| 15 | barbadian pop |
 | 15 | alternative rock |
-| 14 | urban contemporary |
 | 14 | oxford indie |
 | 14 | neo soul |
 | 14 | folk |
@@ -436,7 +437,6 @@
 | 7 | canadian singer-songwriter |
 | 7 | british soul |
 | 7 | boy band |
-| 7 | barbadian pop |
 | 7 | alternative r&b |
 | 6 | stomp and holler |
 | 6 | pop soul |
@@ -475,20 +475,20 @@
 | [2021](2021.md) | 181 |
 | [2020](2020.md) | 133 |
 | [2019](2019.md) | 115 |
-| [2018](2018.md) | 80 |
+| [2018](2018.md) | 81 |
 | [2017](2017.md) | 72 |
 | [2016](2016.md) | 75 |
 | [2015](2015.md) | 53 |
 | [2014](2014.md) | 44 |
 | [2013](2013.md) | 50 |
-| [2012](2012.md) | 50 |
+| [2012](2012.md) | 51 |
 | [2011](2011.md) | 35 |
-| [2010](2010.md) | 38 |
-| [2009](2009.md) | 28 |
-| [2008](2008.md) | 21 |
+| [2010](2010.md) | 41 |
+| [2009](2009.md) | 29 |
+| [2008](2008.md) | 23 |
 | [2007](2007.md) | 24 |
 | 2006 | 12 |
-| 2005 | 13 |
+| 2005 | 14 |
 | 2004 | 7 |
 | 2003 | 6 |
 | 2002 | 13 |
@@ -591,11 +591,11 @@
 | Mad World (0.976) | Headbangeeeeerrrrr!!!!! (7.67e-05) |
 | Manhattan (0.972) | Poison (9.27e-05) |
 | Nature Boy (0.971) | Let Down (0.000121) |
-| The Night We Met (0.969) | Mr. Simple (0.000219) |
-| I Had a King (0.968) | Tamed-Dashed (0.000253) |
-| The Dawntreader (0.957) | Gimme Chocolate!! (0.000282) |
-| Take It All (0.957) | Oh Sorry Ya (0.000315) |
-| Skinny Love (0.952) | Misery (0.000315) |
+| The Night We Met (0.969) | Pon de Replay (0.000155) |
+| I Had a King (0.968) | Mr. Simple (0.000219) |
+| The Dawntreader (0.957) | Tamed-Dashed (0.000253) |
+| Take It All (0.957) | Gimme Chocolate!! (0.000282) |
+| Skinny Love (0.952) | Oh Sorry Ya (0.000315) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|

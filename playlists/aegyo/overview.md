@@ -101,7 +101,7 @@
 | 11 | [Republic Records](../../labels/republic_records.md) |
 | 5 | [SM Entertainment](../../labels/sm_entertainment.md) |
 | 4 | [BELIFT LAB](../../labels/belift_lab.md) |
-| 3 | WM Entertainment |
+| 3 | [WM Entertainment](../../labels/wm_entertainment.md) |
 | 3 | [Starship Entertainment](../../labels/starship_entertainment.md) |
 | 2 | [Stone Music Entertainment](../../labels/stone_music_entertainment.md) |
 | 2 | MLD ENTERTAINMENT |

@@ -216,7 +216,7 @@
 | 12 | [RBW Inc.](../labels/rbw_inc_.md) |
 | 12 | [JYP Entertainment](../labels/jyp_entertainment.md) |
 | 10 | [DREAMCATCHER COMPANY](../labels/dreamcatcher_company.md) |
-| 7 | WM Entertainment |
+| 7 | [WM Entertainment](../labels/wm_entertainment.md) |
 | 7 | ADOR |
 | 6 | [Warner Records](../labels/warner_records.md) |
 | 6 | [FNC ENTERTAINMENT](../labels/fnc_entertainment.md) |

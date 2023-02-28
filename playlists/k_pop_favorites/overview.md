@@ -258,7 +258,7 @@
 | 3 | KQ Entertainment |
 | 3 | EDAM Entertainment |
 | 3 | ADOR |
-| 2 | WM Entertainment |
+| 2 | [WM Entertainment](../../labels/wm_entertainment.md) |
 | 2 | THE BLACK LABEL |
 | 2 | [MYSTIC STORY](../../labels/mystic_story.md) |
 | 2 | LABEL V |
@@ -293,18 +293,18 @@
 
 ## Genres
 
-![Bar chart of top 12 genres](../../images/playlists/k_pop_favorites/genres.png)
+![Bar chart of top 13 genres](../../images/playlists/k_pop_favorites/genres.png)
 
 
 <details>
-<summary>See all 12 genres</summary>
+<summary>See all 13 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
 | 182 | [k-pop](../../genres/k_pop.md) |
 | 88 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 49 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
-| 23 | [pop](../../genres/pop.md) |
+| 12 | [pop](../../genres/pop.md) |
 | 9 | anime |
 | 8 | [korean pop](../../genres/korean_pop.md) |
 | 5 | korean r&b |
@@ -312,6 +312,7 @@
 | 1 | korean ost |
 | 1 | korean city pop |
 | 1 | k-rap |
+| 1 | [dance pop](../../genres/dance_pop.md) |
 | 1 | chinese idol pop |
 
 </details>
