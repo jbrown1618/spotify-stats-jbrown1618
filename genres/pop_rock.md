@@ -21,7 +21,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9bbbc124c9f0f75af892d97d" alt="" width="50" /> | Christina Perri | [🔗](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) |
 | 1 | <img src="https://i.scdn.co/image/ab6772690000c46c44408083dac26a782655baf3" alt="" width="50" /> | Alanis Morissette | [🔗](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9bc0756eb16b241111bbc72b" alt="" width="50" /> | Colbie Caillat | [🔗](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bda4d7a1c3b8159f28f9d08" alt="" width="50" /> | Sheppard | [🔗](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eba4111dde02328708f5180b54" alt="" width="50" /> | Sheppard | [🔗](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb46416642da7b30327821d26e" alt="" width="50" /> | A Great Big World | [🔗](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1202580c944efb0b9c14dfd0" alt="" width="50" /> | The Black Crowes | [🔗](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1687995a9c0172c195049cb1" alt="" width="50" /> | Gavin DeGraw | [🔗](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) |

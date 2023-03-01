@@ -1,9 +1,9 @@
 # SM Entertainment
 
-228 songs
+229 songs
 
 Appears as:
-- SM Entertainment (226 tracks)
+- SM Entertainment (227 tracks)
 - MYSTIC ENTERTAINMENT, ChoongangICS, SM ENTERTAINMENT, JYP ENTERTAINMENT (1 tracks)
 - SM Entertainment/Capitol Records (1 tracks)
 
@@ -13,7 +13,7 @@ Appears as:
 
 
 <details>
-<summary>See all 62 artists</summary>
+<summary>See all 63 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -40,10 +40,10 @@ Appears as:
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebf55b31064f94878f3da932c8" alt="" width="50" /> | MAX CHANGMIN | [🔗](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebf0a01c9ca9312dbe5ed6b6d9" alt="" width="50" /> | KAI | [🔗](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb66701ca609176d8fd4a9c4a0" alt="" width="50" /> | NCT | [🔗](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG) |
+| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb6255cdc7eb41e77dfed9fd2c" alt="" width="50" /> | WINTER | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebac19ac3b8773baa5791999fb" alt="" width="50" /> | TVXQ! | [🔗](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebadffb99dc62d070da29306ff" alt="" width="50" /> | JEON SOYEON | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebfe7fc78f16d948f53a607c53" alt="" width="50" /> | NINGNING | [🔗](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb6255cdc7eb41e77dfed9fd2c" alt="" width="50" /> | WINTER | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf1d6a7c024d667150db85c85" alt="" width="50" /> | TEN | [🔗](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebde86b23f43ae56fff22a0ac9" alt="" width="50" /> | JENO | [🔗](https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb298c8d8c79799a376e1886fa" alt="" width="50" /> | GISELLE | [🔗](https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi) |
@@ -65,6 +65,7 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebad9d5fda1f59672d31163ad5" alt="" width="50" /> | BE'O | [🔗](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8d69367047a24d20b0323ff7" alt="" width="50" /> | SuperM | [🔗](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb56625e685d02cbc6a1700642" alt="" width="50" /> | YERI | [🔗](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1f9c07e4400cac6892c9739a" alt="" width="50" /> | YESUNG | [🔗](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | Suzy | [🔗](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d2d064a11bcb333c04e47e8" alt="" width="50" /> | EUNHYUK | [🔗](https://open.spotify.com/artist/4QRqp8zf5JtqaMk2OOU3NX) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebdbd3a4fca1931c225fdddc81" alt="" width="50" /> | Loopy | [🔗](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) |
@@ -207,11 +208,11 @@ Appears as:
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 216 | [k-pop](../genres/k_pop.md) |
+| 217 | [k-pop](../genres/k_pop.md) |
 | 85 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 | 57 | [k-pop boy group](../genres/k_pop_boy_group.md) |
 | 20 | [pop](../genres/pop.md) |
-| 8 | [korean pop](../genres/korean_pop.md) |
+| 9 | [korean pop](../genres/korean_pop.md) |
 | 1 | korean r&b |
 
 </details>
@@ -274,7 +275,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="" width="50" /> | Alter Ego | Stamp On It - The 1st Mini Album | GOT the beat | [SM Entertainment](sm_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/08pPhcvPmphUEx3pEBZwGZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="" width="50" /> | Goddess Level | Stamp On It - The 1st Mini Album | GOT the beat | [SM Entertainment](sm_entertainment.md) | | [🔗](https://open.spotify.com/track/0bFZXAWYbhEpcQKNvEJ7Ut) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="" width="50" /> | MALA | Stamp On It - The 1st Mini Album | GOT the beat | [SM Entertainment](sm_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/1YA3wSJ2kWd27sxgeEBjA9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="" width="50" /> | Outlaw | Stamp On It - The 1st Mini Album | GOT the beat | [SM Entertainment](sm_entertainment.md) | | [🔗](https://open.spotify.com/track/7ad8cTZkKU4ftlATRGve3M) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="" width="50" /> | Outlaw | Stamp On It - The 1st Mini Album | GOT the beat | [SM Entertainment](sm_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/7ad8cTZkKU4ftlATRGve3M) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="" width="50" /> | Rose | Stamp On It - The 1st Mini Album | GOT the beat | [SM Entertainment](sm_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/1Bu2ogfsVZauj3IOvKJSNy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="" width="50" /> | Stamp On It | Stamp On It - The 1st Mini Album | GOT the beat | [SM Entertainment](sm_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/0mlxHb4jbPr1PUBUv0WHRS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735062dabfa4007e1b72981edf" alt="" width="50" /> | Badster | Badster | HYO | [SM Entertainment](sm_entertainment.md) | | [🔗](https://open.spotify.com/track/7sjzOysoro4EunDYC9M6Vx) |
@@ -448,4 +449,5 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="" width="50" /> | Why Can't You Love Me? | Like Water - The 1st Mini Album | WENDY | [SM Entertainment](sm_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/0CyydmXI4QhgUWrZsPOTXA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea8b444d9bac4765e069b31b" alt="" width="50" /> | Miracle | Miracle - SM STATION | WENDY, MeloMance | [SM Entertainment](sm_entertainment.md) | | [🔗](https://open.spotify.com/track/03foRBkthqRkysYT7FxWZV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27326b7dce0a74da7f7f6c7f193" alt="" width="50" /> | Snow Dream 2021 | 2021 Winter SMTOWN : SMCU EXPRESS | YERI, HAECHAN, CHENLE, JISUNG, NINGNING | [SM Entertainment](sm_entertainment.md) | | [🔗](https://open.spotify.com/track/3iLd9Ya8HRakW9Zk6c7mFG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273468abcd06d84049010cd9ef7" alt="" width="50" /> | Floral Sense | Floral Sense - The 1st Album (Special Version) | YESUNG, WINTER | [SM Entertainment](sm_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/7kqCeZ0OmIWDXoo6h9GMpw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe9914fad928a7cbf93b5175" alt="" width="50" /> | Into You | The First Scene - The 1st Mini Album | YURI | [SM Entertainment](sm_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/6L8wVNs6kuQ7sRjHowbrLp) |

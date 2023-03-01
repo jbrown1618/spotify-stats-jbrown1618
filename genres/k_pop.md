@@ -1,6 +1,6 @@
 # k-pop
 
-[877 songs](k_pop_tracks.md)
+[876 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -80,7 +80,6 @@
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0cc2045ff4e90d12df91cc3" alt="" width="50" /> | f(x) | [🔗](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb70b010582faadbcec8b6774c" alt="" width="50" /> | CIX | [🔗](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb2d192f1d830db1eba64854fc" alt="" width="50" /> | Moon Byul | [🔗](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) |
-| 4 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbb19ac3f264dea7cea4c42b" alt="" width="50" /> | Whee In | [🔗](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb2be8611f6c6e9174031c64df" alt="" width="50" /> | JEON SOMI | [🔗](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eba1f3e8862a8c0f79fb3322b2" alt="" width="50" /> | VIVIZ | [🔗](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebf55b31064f94878f3da932c8" alt="" width="50" /> | MAX CHANGMIN | [🔗](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) |
@@ -106,6 +105,7 @@
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebd0701912e6fccf8427bc7361" alt="" width="50" /> | GFRIEND | [🔗](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9ce6b84393575f91c4f4634" alt="" width="50" /> | B.I | [🔗](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ecddddcd7a4d93b21324bc5" alt="" width="50" /> | XG | [🔗](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) |
+| 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbb19ac3f264dea7cea4c42b" alt="" width="50" /> | Whee In | [🔗](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd40fae46480e4202ef69316d" alt="" width="50" /> | YUJU | [🔗](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb20b9410119933f930b722cf0" alt="" width="50" /> | HYOLYN | [🔗](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5fb007a707c0ec3a7c1726af" alt="" width="50" /> | Steve Aoki | [🔗](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) |
@@ -241,7 +241,7 @@
 
 | Number of Tracks | Label |
 |---:|:---|
-| 216 | [SM Entertainment](../labels/sm_entertainment.md) |
+| 217 | [SM Entertainment](../labels/sm_entertainment.md) |
 | 85 | [Republic Records](../labels/republic_records.md) |
 | 69 | [YG Entertainment](../labels/yg_entertainment.md) |
 | 57 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
@@ -261,8 +261,8 @@
 | 11 | [FNC ENTERTAINMENT](../labels/fnc_entertainment.md) |
 | 10 | [MYSTIC STORY](../labels/mystic_story.md) |
 | 10 | [DREAMCATCHER COMPANY](../labels/dreamcatcher_company.md) |
-| 9 | [WM Entertainment](../labels/wm_entertainment.md) |
 | 9 | MNH ENTERTAINMENT |
+| 8 | [WM Entertainment](../labels/wm_entertainment.md) |
 | 8 | KQ Entertainment |
 | 7 | EDAM Entertainment |
 | 7 | ADOR |
@@ -327,7 +327,6 @@
 | 1 | Universal Music Group International |
 | 1 | [UME - Global Clearing House](../labels/ume___global_clearing_house.md) |
 | 1 | Think Ent. |
-| 1 | TOON STUDIO |
 | 1 | Starship Ent. |
 | 1 | Silent Records |
 | 1 | STARSHIP X |
@@ -341,6 +340,7 @@
 | 1 | JS MUSIC |
 | 1 | IST ENTERTAINMENT |
 | 1 | IOK x Transparent Arts |
+| 1 | HAPPYTRIBE ENTERTAINMENT |
 
 </details>
 
@@ -375,16 +375,16 @@
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| No More Dream (0.472) | Slightly Tipsy (She is My Type♡ X SANDEUL) (0.0264) |
-| Addicted (0.419) | She′s In The Rain (0.0264) |
-| MANIAC (0.411) | Moonlight Melody (0.0269) |
-| Freedom (0.388) | Winter Sleep (0.0273) |
-| I GOT IT (HAN) (0.365) | Wicked (0.0273) |
-| Ice Cream (with Selena Gomez) (0.365) | Gee (0.0274) |
-| Feelin' Like (0.353) | Hope Not (0.0274) |
-| VENOM (0.339) | Envision_ (0.0275) |
-| Signal (0.334) | NANANA (0.0277) |
-| BBIBBI (0.331) | YOUNG LUV (0.0277) |
+| No More Dream (0.472) | She′s In The Rain (0.0264) |
+| Addicted (0.419) | Moonlight Melody (0.0269) |
+| MANIAC (0.411) | Winter Sleep (0.0273) |
+| Freedom (0.388) | Wicked (0.0273) |
+| I GOT IT (HAN) (0.365) | Gee (0.0274) |
+| Ice Cream (with Selena Gomez) (0.365) | Hope Not (0.0274) |
+| Feelin' Like (0.353) | Envision_ (0.0275) |
+| VENOM (0.339) | NANANA (0.0277) |
+| Signal (0.334) | YOUNG LUV (0.0277) |
+| BBIBBI (0.331) | LOVE FOOL (0.0281) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|

@@ -335,8 +335,8 @@
 | 3 | sunnlensk tonlist |
 | 3 | pop urbaine |
 | 3 | japanese teen pop |
+| 3 | j-poprock |
 | 3 | icelandic pop |
-| 3 | francoton |
 | 3 | bitpop |
 | 2 | shibuya-kei |
 | 2 | reggaeton colombiano |
@@ -350,6 +350,7 @@
 | 2 | italian hip hop |
 | 2 | israeli mediterranean |
 | 2 | french hip hop |
+| 2 | francoton |
 | 2 | desi pop |
 | 2 | danish pop |
 | 2 | classic j-pop |
@@ -384,7 +385,6 @@
 | 1 | jewish pop |
 | 1 | japanese post-hardcore |
 | 1 | japanese math rock |
-| 1 | j-poprock |
 | 1 | j-pixie |
 | 1 | j-acoustic |
 | 1 | italian pop |

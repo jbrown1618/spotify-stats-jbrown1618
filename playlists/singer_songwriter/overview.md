@@ -202,7 +202,7 @@
 
 
 <details>
-<summary>See all 52 genres</summary>
+<summary>See all 51 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -247,7 +247,6 @@
 | 1 | modern folk rock |
 | 1 | irish pop |
 | 1 | indie soul |
-| 1 | indie folk |
 | 1 | funk |
 | 1 | europop |
 | 1 | dark pop |

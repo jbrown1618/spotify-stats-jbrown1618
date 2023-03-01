@@ -56,7 +56,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1d4e4e7e3c5d8fa494fc5f10" alt="" width="50" /> | Lord Huron | [🔗](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb52ca4fca28b86ca3a7d9846d" alt="" width="50" /> | Destiny Rogers | [🔗](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe32a61d17ecbe732a99d6d92" alt="" width="50" /> | 24kGoldn | [🔗](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bda4d7a1c3b8159f28f9d08" alt="" width="50" /> | Sheppard | [🔗](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eba4111dde02328708f5180b54" alt="" width="50" /> | Sheppard | [🔗](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6659b1cb61936bd7bcb229a2" alt="" width="50" /> | Demi Lovato | [🔗](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbfbb660113442efe5e18ac6" alt="" width="50" /> | Shelby Earl | [🔗](https://open.spotify.com/artist/6PIo5nhCQJbR0NfxPdGnGC) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb36e26b5e16a105ddc4e238f6" alt="" width="50" /> | Frou Frou | [🔗](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) |
@@ -318,15 +318,15 @@
 | 63 | [pop](../../genres/pop.md) |
 | 29 | [rock](../../genres/rock.md) |
 | 26 | indie pop |
+| 23 | [electropop](../../genres/electropop.md) |
 | 22 | permanent wave |
-| 22 | [electropop](../../genres/electropop.md) |
 | 21 | [dance pop](../../genres/dance_pop.md) |
 | 21 | [art pop](../../genres/art_pop.md) |
 | 20 | modern rock |
 | 19 | alternative rock |
+| 18 | [lilith](../../genres/lilith.md) |
 | 18 | baroque pop |
 | 17 | uk alternative pop |
-| 17 | [lilith](../../genres/lilith.md) |
 | 16 | oxford indie |
 | 16 | nz pop |
 | 16 | melancholia |
@@ -374,7 +374,6 @@
 | 2 | pop emo |
 | 2 | pixie |
 | 2 | irish singer-songwriter |
-| 2 | indie poptimism |
 | 2 | gauze pop |
 | 2 | chamber pop |
 | 2 | celtic rock |
@@ -408,6 +407,7 @@
 | 1 | industrial metal |
 | 1 | industrial |
 | 1 | indie rock italiano |
+| 1 | indie poptimism |
 | 1 | grunge |
 | 1 | folk-pop |
 | 1 | elephant 6 |

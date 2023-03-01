@@ -1,16 +1,16 @@
 # korean pop
 
-[44 songs](korean_pop_tracks.md)
+[45 songs](korean_pop_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 29 artists](../images/genres/korean_pop/artists.png)
+![Bar chart of top 30 artists](../images/genres/korean_pop/artists.png)
 
 ![Comparison of Artist](../images/genres/korean_pop/artists_comparison.png)
 
 
 <details>
-<summary>See all 29 artists</summary>
+<summary>See all 31 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -32,7 +32,9 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5c9eb01fd34c0a998913ae60" alt="" width="50" /> | Zion.T | [🔗](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e2e0f17d257a40be0782f35" alt="" width="50" /> | BAEKHYUN | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf58590979d60df6fb6d6a837" alt="" width="50" /> | Dynamicduo | [🔗](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1f9c07e4400cac6892c9739a" alt="" width="50" /> | YESUNG | [🔗](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | Suzy | [🔗](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6255cdc7eb41e77dfed9fd2c" alt="" width="50" /> | WINTER | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f5769fc671ca8199168d3fb" alt="" width="50" /> | DEAN | [🔗](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) |
 | 1 | <img src="https://i.scdn.co/image/ab6772690000c46cabd01dc7714cb1037aeaf827" alt="" width="50" /> | SOYOU | [🔗](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb065608c797a38d142082fc8a" alt="" width="50" /> | Punch | [🔗](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) |
@@ -52,7 +54,7 @@
 
 
 <details>
-<summary>See all 37 albums</summary>
+<summary>See all 38 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -88,6 +90,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273688707e08ae4799421936329" alt="" width="50" /> | Hotel del Luna (Original Television Soundtrack) Pt.12 | 2019-08-18 | [🔗](https://open.spotify.com/album/6iNbnT79OJu9C5j5ZZLQvZ) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273cd99a47e4804c82e3812e901" alt="" width="50" /> | HOSPITAL PLAYLIST Season2 (Original Television Soundtrack), Pt. 1 | 2021-06-18 | [🔗](https://open.spotify.com/album/2pJhtrlZZvxFi818EMvKAY) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273168258bceeef84be1d0c9301" alt="" width="50" /> | HAPPEN | 2021-05-20 | [🔗](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273468abcd06d84049010cd9ef7" alt="" width="50" /> | Floral Sense - The 1st Album (Special Version) | 2023-02-27 | [🔗](https://open.spotify.com/album/3GiIDO4BTLwJuZWQszk4Tg) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733d56b95f88f4743d79aa62f4" alt="" width="50" /> | First Sight | 2018-12-14 | [🔗](https://open.spotify.com/album/5M9f9Tze7sspUDrIAjdCgV) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | Dream | 2016-01-07 | [🔗](https://open.spotify.com/album/7ciJtZ2tYXhKsndQ7bf7Vw) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d8c952b4b7e3d72267edc537" alt="" width="50" /> | Cat | 2017-12-28 | [🔗](https://open.spotify.com/album/3b8iQhtbLD0Vn4EqQzMC3N) |
@@ -107,7 +110,7 @@
 
 | Number of Tracks | Label |
 |---:|:---|
-| 8 | [SM Entertainment](../labels/sm_entertainment.md) |
+| 9 | [SM Entertainment](../labels/sm_entertainment.md) |
 | 7 | [YG Entertainment](../labels/yg_entertainment.md) |
 | 7 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
 | 4 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
@@ -145,11 +148,11 @@
 | How People Move (0.813) | Like Water (0.365) |
 | RE-BYE (0.799) | Melted (0.384) |
 | Whale (0.788) | Love, Maybe (0.402) |
-| Undo (0.784) | Run With Me (0.425) |
-| LAW (Prod. Czaer) (0.756) | Flower Way (Prod. By ZICO) (0.433) |
-| Some (feat. Lil Boi) (0.738) | Goodbye (0.46) |
-| And July (0.734) | Done For Me (0.467) |
-| Ya! (feat. Whee In) (0.727) | Best Friend (with SEULGI) (0.48) |
+| Undo (0.784) | Floral Sense (0.411) |
+| LAW (Prod. Czaer) (0.756) | Run With Me (0.425) |
+| Some (feat. Lil Boi) (0.738) | Flower Way (Prod. By ZICO) (0.433) |
+| And July (0.734) | Goodbye (0.46) |
+| Ya! (feat. Whee In) (0.727) | Done For Me (0.467) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -195,26 +198,26 @@
 | Whale (0.00351) | Miracle (0.0) |
 | Our Love is Great (0.00154) | Traffic light (0.0) |
 | FREEDOM (0.000966) | Why Can't You Love Me? (0.0) |
-| LAW (Prod. Czaer) (0.000111) | Best Friend (with SEULGI) (0.0) |
-| Rain and You (7.31e-05) | Done For Me (0.0) |
-| NAKKA (with IU) (2.81e-05) | And July (0.0) |
-| First Sight (1.88e-05) | How People Move (0.0) |
-| Lyricist (1.14e-05) | Some (feat. Lil Boi) (0.0) |
-| Like Water (6.06e-06) | HAPPEN (0.0) |
-| Headlock (3.44e-06) | Flower Way (Prod. By ZICO) (0.0) |
+| Floral Sense (0.000598) | Best Friend (with SEULGI) (0.0) |
+| LAW (Prod. Czaer) (0.000111) | Done For Me (0.0) |
+| Rain and You (7.31e-05) | And July (0.0) |
+| NAKKA (with IU) (2.81e-05) | How People Move (0.0) |
+| First Sight (1.88e-05) | Some (feat. Lil Boi) (0.0) |
+| Lyricist (1.14e-05) | HAPPEN (0.0) |
+| Like Water (6.06e-06) | Flower Way (Prod. By ZICO) (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
 | Headlock (0.507) | How People Move (0.0511) |
 | Lyricist (0.352) | Traffic light (0.0694) |
 | HAPPEN (0.341) | First Sight (0.0735) |
-| Three Dopeboyz (Feat. Zion.T) (0.311) | Miracle (0.0808) |
-| When it snows(Feat.Heize) (0.289) | Dream (0.0876) |
-| Murder On The Dance Floor (0.253) | Undo (0.0903) |
-| Some (feat. Lil Boi) (0.253) | Starlight (0.101) |
-| LAW (Prod. Czaer) (0.237) | Melted (0.103) |
-| Best Friend (with SEULGI) (0.203) | Cat (Feat. IU) (0.107) |
-| Sweet (0.199) | Jenga (feat. Gaeko) (0.109) |
+| Floral Sense (0.335) | Miracle (0.0808) |
+| Three Dopeboyz (Feat. Zion.T) (0.311) | Dream (0.0876) |
+| When it snows(Feat.Heize) (0.289) | Undo (0.0903) |
+| Murder On The Dance Floor (0.253) | Starlight (0.101) |
+| Some (feat. Lil Boi) (0.253) | Melted (0.103) |
+| LAW (Prod. Czaer) (0.237) | Cat (Feat. IU) (0.107) |
+| Best Friend (with SEULGI) (0.203) | Jenga (feat. Gaeko) (0.109) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|

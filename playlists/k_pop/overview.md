@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="K-Pop" width="100" />
 
-[997 songs](tracks.md)
+[998 songs](tracks.md)
 
 ## Top Artists
 
@@ -90,6 +90,7 @@
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5ebed21ce124d4cd70fd94a1402" alt="" width="50" /> | YENA | [🔗](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d998e7541724c918777b8ca" alt="" width="50" /> | League of Legends | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0cc2045ff4e90d12df91cc3" alt="" width="50" /> | f(x) | [🔗](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) |
+| 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb6255cdc7eb41e77dfed9fd2c" alt="" width="50" /> | WINTER | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbca2e91d07d2c53e6610570" alt="" width="50" /> | Seori | [🔗](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb3202449ae19d68607e3f1530" alt="" width="50" /> | NMIXX | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb70b010582faadbcec8b6774c" alt="" width="50" /> | CIX | [🔗](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) |
@@ -110,7 +111,6 @@
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8543b9b2b5d153d37c46606d" alt="" width="50" /> | LISA | [🔗](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb66701ca609176d8fd4a9c4a0" alt="" width="50" /> | NCT | [🔗](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8aec4284aed8bb502a411043" alt="" width="50" /> | AILEE | [🔗](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) |
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb6255cdc7eb41e77dfed9fd2c" alt="" width="50" /> | WINTER | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb30a517d1b703c3eabdac2855" alt="" width="50" /> | Wonder Girls | [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb5923c0ca32a3cf3a81b34728" alt="" width="50" /> | G-DRAGON | [🔗](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eba3c1fca063ed673aed61c885" alt="" width="50" /> | YOUHA | [🔗](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) |
@@ -245,7 +245,7 @@
 
 | Number of Tracks | Label |
 |---:|:---|
-| 221 | [SM Entertainment](../../labels/sm_entertainment.md) |
+| 222 | [SM Entertainment](../../labels/sm_entertainment.md) |
 | 105 | [Republic Records](../../labels/republic_records.md) |
 | 71 | [YG Entertainment](../../labels/yg_entertainment.md) |
 | 67 | [Genie Music Corporation](../../labels/genie_music_corporation.md) |
@@ -355,7 +355,7 @@
 
 
 <details>
-<summary>See all 32 genres</summary>
+<summary>See all 33 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -363,7 +363,7 @@
 | 374 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 235 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
 | 59 | [pop](../../genres/pop.md) |
-| 40 | [korean pop](../../genres/korean_pop.md) |
+| 41 | [korean pop](../../genres/korean_pop.md) |
 | 33 | korean r&b |
 | 22 | k-rap |
 | 22 | anime |
@@ -390,6 +390,7 @@
 | 1 | [electropop](../../genres/electropop.md) |
 | 1 | electronic trap |
 | 1 | danish pop |
+| 1 | chill r&b |
 | 1 | [art pop](../../genres/art_pop.md) |
 
 </details>
@@ -405,7 +406,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| [2023](2023.md) | 22 |
+| [2023](2023.md) | 23 |
 | [2022](2022.md) | 280 |
 | [2021](2021.md) | 200 |
 | [2020](2020.md) | 129 |
@@ -428,16 +429,16 @@
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="Cabin Fever" width="50" /> <span style="padding-left:10px;">Cabin Fever (2023-02-15)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d27c6b111cc35cae9bee87d6" alt="It's Raining" width="50" /> <span style="padding-left:10px;">It's Raining (2004-10-08)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ebbb6b66adf9f2392bb86733" alt="Teddy Bear" width="50" /> <span style="padding-left:10px;">Teddy Bear (2023-02-14)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273df0687edfc532a78ab858512" alt="Hong Gil Dong OST" width="50" /> <span style="padding-left:10px;">Hong Gil Dong OST (2008-01-23)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b2d6f89ff16623f1038ca466" alt="Killer - The 2nd Album Repackage" width="50" /> <span style="padding-left:10px;">Killer - The 2nd Album Repackage (2023-02-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739633cfd2e42a610f3dafa801" alt="So Hot" width="50" /> <span style="padding-left:10px;">So Hot (2008-06-03)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738db0372a58515f8d2dcbf548" alt="Best Friend Ever" width="50" /> <span style="padding-left:10px;">Best Friend Ever (2023-02-08)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ff8a783336acbef4b6fab82f" alt="The SHINee World - The First Album" width="50" /> <span style="padding-left:10px;">The SHINee World - The First Album (2008-08-28)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731869a85947a5ea00df8c936f" alt="BSS 1st Single Album 'SECOND WIND'" width="50" /> <span style="padding-left:10px;">BSS 1st Single Album 'SECOND WIND' (2023-02-06)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27325ca38eeeb374883d7652ff0" alt="MIROTIC - The 4th Album" width="50" /> <span style="padding-left:10px;">MIROTIC - The 4th Album (2008-09-19)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2730d9c2a11edd1a7efcd73f0d1" alt="The 3rd Mini Album 'VarioUS'" width="50" /> <span style="padding-left:10px;">The 3rd Mini Album 'VarioUS' (2023-01-31)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734802244fa0cf6d33eda5e748" alt="The Wonder Years - Trilogy" width="50" /> <span style="padding-left:10px;">The Wonder Years - Trilogy (2008-09-22)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273992cdb975f91efd91b998628" alt="8TURNRISE" width="50" /> <span style="padding-left:10px;">8TURNRISE (2023-01-30)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a1bb22f3ae0fe8b97bda6931" alt="Lost and Found" width="50" /> <span style="padding-left:10px;">Lost and Found (2008-09-23)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ea8b444d9bac4765e069b31b" alt="Miracle - SM STATION" width="50" /> <span style="padding-left:10px;">Miracle - SM STATION (2023-01-26)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273fb6e8a26c2c4d9a23f888a94" alt="쏘리 쏘리 Sorry, Sorry - The 3rd Album" width="50" /> <span style="padding-left:10px;">쏘리 쏘리 Sorry, Sorry - The 3rd Album (2009-03-11)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736887b017d077dfc5787a3e23" alt="MOONLIGHT SUNRISE" width="50" /> <span style="padding-left:10px;">MOONLIGHT SUNRISE (2023-01-20)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273186edfe8830c46f7bfd71d3e" alt="Sound G." width="50" /> <span style="padding-left:10px;">Sound G. (2009-07-21)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="Stamp On It - The 1st Mini Album" width="50" /> <span style="padding-left:10px;">Stamp On It - The 1st Mini Album (2023-01-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a7fcbfdd783b559de31d181b" alt="2009, Year Of Us - The Third Mini Album" width="50" /> <span style="padding-left:10px;">2009, Year Of Us - The Third Mini Album (2009-10-19)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273468abcd06d84049010cd9ef7" alt="Floral Sense - The 1st Album (Special Version)" width="50" /> <span style="padding-left:10px;">Floral Sense - The 1st Album (Special Version) (2023-02-27)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d27c6b111cc35cae9bee87d6" alt="It's Raining" width="50" /> <span style="padding-left:10px;">It's Raining (2004-10-08)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="Cabin Fever" width="50" /> <span style="padding-left:10px;">Cabin Fever (2023-02-15)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273df0687edfc532a78ab858512" alt="Hong Gil Dong OST" width="50" /> <span style="padding-left:10px;">Hong Gil Dong OST (2008-01-23)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ebbb6b66adf9f2392bb86733" alt="Teddy Bear" width="50" /> <span style="padding-left:10px;">Teddy Bear (2023-02-14)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739633cfd2e42a610f3dafa801" alt="So Hot" width="50" /> <span style="padding-left:10px;">So Hot (2008-06-03)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b2d6f89ff16623f1038ca466" alt="Killer - The 2nd Album Repackage" width="50" /> <span style="padding-left:10px;">Killer - The 2nd Album Repackage (2023-02-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ff8a783336acbef4b6fab82f" alt="The SHINee World - The First Album" width="50" /> <span style="padding-left:10px;">The SHINee World - The First Album (2008-08-28)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738db0372a58515f8d2dcbf548" alt="Best Friend Ever" width="50" /> <span style="padding-left:10px;">Best Friend Ever (2023-02-08)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27325ca38eeeb374883d7652ff0" alt="MIROTIC - The 4th Album" width="50" /> <span style="padding-left:10px;">MIROTIC - The 4th Album (2008-09-19)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731869a85947a5ea00df8c936f" alt="BSS 1st Single Album 'SECOND WIND'" width="50" /> <span style="padding-left:10px;">BSS 1st Single Album 'SECOND WIND' (2023-02-06)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734802244fa0cf6d33eda5e748" alt="The Wonder Years - Trilogy" width="50" /> <span style="padding-left:10px;">The Wonder Years - Trilogy (2008-09-22)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2730d9c2a11edd1a7efcd73f0d1" alt="The 3rd Mini Album 'VarioUS'" width="50" /> <span style="padding-left:10px;">The 3rd Mini Album 'VarioUS' (2023-01-31)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a1bb22f3ae0fe8b97bda6931" alt="Lost and Found" width="50" /> <span style="padding-left:10px;">Lost and Found (2008-09-23)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273992cdb975f91efd91b998628" alt="8TURNRISE" width="50" /> <span style="padding-left:10px;">8TURNRISE (2023-01-30)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273fb6e8a26c2c4d9a23f888a94" alt="쏘리 쏘리 Sorry, Sorry - The 3rd Album" width="50" /> <span style="padding-left:10px;">쏘리 쏘리 Sorry, Sorry - The 3rd Album (2009-03-11)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ea8b444d9bac4765e069b31b" alt="Miracle - SM STATION" width="50" /> <span style="padding-left:10px;">Miracle - SM STATION (2023-01-26)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273186edfe8830c46f7bfd71d3e" alt="Sound G." width="50" /> <span style="padding-left:10px;">Sound G. (2009-07-21)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736887b017d077dfc5787a3e23" alt="MOONLIGHT SUNRISE" width="50" /> <span style="padding-left:10px;">MOONLIGHT SUNRISE (2023-01-20)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a7fcbfdd783b559de31d181b" alt="2009, Year Of Us - The Third Mini Album" width="50" /> <span style="padding-left:10px;">2009, Year Of Us - The Third Mini Album (2009-10-19)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |

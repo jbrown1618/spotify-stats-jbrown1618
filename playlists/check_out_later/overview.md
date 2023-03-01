@@ -91,7 +91,7 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 8 | [k-pop](../../genres/k_pop.md) |
+| 7 | [k-pop](../../genres/k_pop.md) |
 | 3 | korean r&b |
 | 3 | [korean pop](../../genres/korean_pop.md) |
 | 2 | indonesian pop |

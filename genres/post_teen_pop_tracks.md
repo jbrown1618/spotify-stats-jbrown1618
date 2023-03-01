@@ -2,6 +2,9 @@
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="" width="50" /> | Bye Bye Bye | No Strings Attached | *NSYNC | [Jive](../labels/jive.md) | 💚 | [🔗](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="" width="50" /> | I Thought She Knew | No Strings Attached | *NSYNC | [Jive](../labels/jive.md) | 💚 | [🔗](https://open.spotify.com/track/0b4u7IhBY61kSmS8wVIPYg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="" width="50" /> | It's Gonna Be Me | No Strings Attached | *NSYNC | [Jive](../labels/jive.md) | 💚 | [🔗](https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27341aa6776dc15fbd71a2b4557" alt="" width="50" /> | Youngblood | Youngblood (Deluxe) | 5 Seconds of Summer | [Capitol](../labels/capitol_records.md) | 💚 | [🔗](https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734f89844c76d620ff098ef5c6" alt="" width="50" /> | Low Key (feat. Tyga) | Low Key (feat. Tyga) | Ally Brooke, Tyga | [Latium/Atlantic](../labels/atlantic_records.md) | 💚 | [🔗](https://open.spotify.com/track/7xhvCzIguRfyfQyGrnWuVn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f7ec724fbf97a30869d06240" alt="" width="50" /> | Sk8er Boi | Let Go | Avril Lavigne | Arista | | [🔗](https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU) |

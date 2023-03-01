@@ -23,7 +23,7 @@ Appears as:
 | 8 | <img src="https://i.scdn.co/image/0b5020426f1e073f8c90d7e8e7375bffcbd89c07" alt="" width="50" /> | Eric Whitacre Singers | [🔗](https://open.spotify.com/artist/2tPhboxrWrQ4LxOhWlXAeN) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2732f0fda74a5a43a795c5b5663" alt="" width="50" /> | David Reichenberg | [🔗](https://open.spotify.com/artist/5xA5sW0D3BUAyL02XcDkYv) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273011ad120d2b19f16f59a8aaf" alt="" width="50" /> | Elizabeth Wilcock | [🔗](https://open.spotify.com/artist/1OfYCRcS14pyRVrO0qTCbs) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bda4d7a1c3b8159f28f9d08" alt="" width="50" /> | Sheppard | [🔗](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eba4111dde02328708f5180b54" alt="" width="50" /> | Sheppard | [🔗](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) |
 
 </details>
 

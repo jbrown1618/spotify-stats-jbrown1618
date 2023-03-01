@@ -1,6 +1,6 @@
 # post-teen pop
 
-[59 songs](post_teen_pop_tracks.md)
+[62 songs](post_teen_pop_tracks.md)
 
 ## Top Artists
 
@@ -10,7 +10,7 @@
 
 
 <details>
-<summary>See all 61 artists</summary>
+<summary>See all 62 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -19,6 +19,7 @@
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410" alt="" width="50" /> | Clean Bandit | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb6659b1cb61936bd7bcb229a2" alt="" width="50" /> | Demi Lovato | [🔗](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) |
+| 3 | <img src="https://i.scdn.co/image/c56cf0cc89c8ecfec7145cf065ea2006d0706605" alt="" width="50" /> | *NSYNC | [🔗](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb08cd53940cbf5813ee5fe565" alt="" width="50" /> | Little Mix | [🔗](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | Jessie J | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf91c2e559a5a8233d3b35fb1" alt="" width="50" /> | Tyga | [🔗](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) |
@@ -84,10 +85,11 @@
 
 
 <details>
-<summary>See all 52 albums</summary>
+<summary>See all 53 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
+| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="" width="50" /> | No Strings Attached | 2000-03-21 | [🔗](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Camila | 2018-01-12 | [🔗](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2739900b995cd1a81c35c574ab0" alt="" width="50" /> | Who You Are (Platinum Edition) | 2011-01-01 | [🔗](https://open.spotify.com/album/3ga4adzUpLaS2LDcoqfs2r) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b27337fb0680110fbb107740de5d" alt="" width="50" /> | What Is Love? (Deluxe Edition) | 2018-11-30 | [🔗](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) |
@@ -150,7 +152,7 @@
 
 
 <details>
-<summary>See all 36 labels</summary>
+<summary>See all 37 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -161,6 +163,7 @@
 | 5 | Atlantic Records UK |
 | 4 | [RCA Records Label](../labels/rca_records_label.md) |
 | 4 | [Atlantic Records](../labels/atlantic_records.md) |
+| 3 | [Jive](../labels/jive.md) |
 | 2 | [Walt Disney Records](../labels/walt_disney_records.md) |
 | 2 | [Republic Records](../labels/republic_records.md) |
 | 2 | Lava Music |
@@ -201,26 +204,26 @@
 | Sally Walker (0.905) | Already Gone (0.209) |
 | Coño (0.899) | I See the Light - From "Tangled" / Soundtrack Version (0.281) |
 | Worth It (feat. Kid Ink) (0.884) | Jar of Hearts (0.349) |
-| Bubblegum (feat. Tyga) (0.856) | My Happy Ending (0.414) |
-| Sucker (0.842) | Stone Cold (0.419) |
-| Rather Be (feat. Jess Glynne) (0.799) | Consequences (0.455) |
-| Low Key (feat. Tyga) (0.79) | Sk8er Boi (0.487) |
-| Call Me Maybe (0.783) | Heart Attack (0.504) |
-| Tick Tock (feat. 24kGoldn) (0.779) | Who You Are (0.534) |
-| Black Magic (0.776) | Me And My Broken Heart (0.545) |
+| Bubblegum (feat. Tyga) (0.856) | I Thought She Knew (0.397) |
+| Sucker (0.842) | My Happy Ending (0.414) |
+| Rather Be (feat. Jess Glynne) (0.799) | Stone Cold (0.419) |
+| Low Key (feat. Tyga) (0.79) | Consequences (0.455) |
+| Call Me Maybe (0.783) | Sk8er Boi (0.487) |
+| Tick Tock (feat. 24kGoldn) (0.779) | Heart Attack (0.504) |
+| Black Magic (0.776) | Who You Are (0.534) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
 | My Happy Ending (0.936) | I See the Light - From "Tangled" / Soundtrack Version (0.139) |
+| Bye Bye Bye (0.926) | I Thought She Knew (0.272) |
 | Sk8er Boi (0.9) | Consequences (0.292) |
 | Don't Call Me Up (0.881) | Jar of Hearts (0.348) |
 | Black Magic (0.875) | When Will My Life Begin? - From "Tangled" / Soundtrack Version (0.42) |
 | Good Girls Go Bad (feat. Leighton Meester) (0.874) | Slow Hands (0.425) |
-| Already Gone (0.872) | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" (0.451) |
-| Baby, I'm Jealous (feat. Doja Cat) (0.867) | Stone Cold (0.453) |
-| Break My Heart Myself (feat. Travis Barker) (0.857) | Put A Little Love On Me (0.465) |
-| Power (0.855) | My Oh My (feat. DaBaby) (0.491) |
-| Youngblood (0.854) | Sally Walker (0.492) |
+| It's Gonna Be Me (0.873) | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" (0.451) |
+| Already Gone (0.872) | Stone Cold (0.453) |
+| Baby, I'm Jealous (feat. Doja Cat) (0.867) | Put A Little Love On Me (0.465) |
+| Break My Heart Myself (feat. Travis Barker) (0.857) | My Oh My (feat. DaBaby) (0.491) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -230,59 +233,59 @@
 | Talk Dirty (feat. 2 Chainz) (0.232) | My Oh My (feat. DaBaby) (0.0296) |
 | Candyman (0.23) | Havana (feat. Young Thug) (0.03) |
 | Power (0.211) | I See the Light - From "Tangled" / Soundtrack Version (0.0305) |
-| Price Tag (0.182) | Because of You (0.0314) |
-| Coño (0.181) | Jar of Hearts (0.0316) |
-| Don't Call Me Up (0.147) | When Will My Life Begin? - From "Tangled" / Soundtrack Version (0.0317) |
-| TiK ToK (0.142) | Who You Are (0.0336) |
+| Price Tag (0.182) | I Thought She Knew (0.0312) |
+| Coño (0.181) | Because of You (0.0314) |
+| Don't Call Me Up (0.147) | Jar of Hearts (0.0316) |
+| TiK ToK (0.142) | When Will My Life Begin? - From "Tangled" / Soundtrack Version (0.0317) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| Consequences (0.889) | Sk8er Boi (6.79e-05) |
-| I See the Light - From "Tangled" / Soundtrack Version (0.829) | Coño (0.000554) |
-| Jar of Hearts (0.726) | My Happy Ending (0.00136) |
-| Put A Little Love On Me (0.678) | Me And My Broken Heart (0.00489) |
-| Trumpets (0.555) | If I Go (0.00959) |
-| Stone Cold (0.539) | Slow Hands (0.011) |
-| Blueberry Eyes (feat. SUGA of BTS) (0.454) | Call Me Maybe (0.0114) |
-| Good Thing (with Kehlani) (0.399) | Good Girls Go Bad (feat. Leighton Meester) (0.0116) |
-| Rockabye (feat. Sean Paul & Anne-Marie) (0.383) | Candyman (0.0125) |
-| Low Key (feat. Tyga) (0.369) | Youngblood (0.0169) |
+| I Thought She Knew (0.915) | Sk8er Boi (6.79e-05) |
+| Consequences (0.889) | Coño (0.000554) |
+| I See the Light - From "Tangled" / Soundtrack Version (0.829) | My Happy Ending (0.00136) |
+| Jar of Hearts (0.726) | Me And My Broken Heart (0.00489) |
+| Put A Little Love On Me (0.678) | If I Go (0.00959) |
+| Trumpets (0.555) | Slow Hands (0.011) |
+| Stone Cold (0.539) | Call Me Maybe (0.0114) |
+| Blueberry Eyes (feat. SUGA of BTS) (0.454) | Good Girls Go Bad (feat. Leighton Meester) (0.0116) |
+| Good Thing (with Kehlani) (0.399) | Candyman (0.0125) |
+| Rockabye (feat. Sean Paul & Anne-Marie) (0.383) | Youngblood (0.0169) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Candyman (0.0147) | Sk8er Boi (0.0) |
 | Coño (0.0101) | When Will My Life Begin? - From "Tangled" / Soundtrack Version (0.0) |
-| Blueberry Eyes (feat. SUGA of BTS) (0.000922) | React (0.0) |
-| Never Be the Same (0.000637) | TiK ToK (0.0) |
-| Power (0.000157) | Jar of Hearts (0.0) |
+| Bye Bye Bye (0.0012) | React (0.0) |
+| Blueberry Eyes (feat. SUGA of BTS) (0.000922) | TiK ToK (0.0) |
+| Never Be the Same (0.000637) | Jar of Hearts (0.0) |
+| Power (0.000157) | I Thought She Knew (0.0) |
 | Solo (feat. Demi Lovato) (6.66e-05) | Bubblegum (feat. Tyga) (0.0) |
 | Havana (feat. Young Thug) (3.56e-05) | Heart Attack (0.0) |
 | That's My Girl (3.19e-05) | Sally Walker (0.0) |
 | Symphony (feat. Zara Larsson) (1.41e-05) | Put A Little Love On Me (0.0) |
-| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" (1.3e-05) | Salute (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| Good Girls Go Bad (feat. Leighton Meester) (0.549) | One Step At a Time (0.0384) |
-| Rockabye (feat. Sean Paul & Anne-Marie) (0.398) | Good Thing (with Kehlani) (0.0409) |
-| Bang Bang (0.396) | Slow Hands (0.055) |
-| My Happy Ending (0.369) | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (0.0585) |
-| That's My Girl (0.365) | Meant to Be (feat. Florida Georgia Line) (0.0646) |
-| Living Proof (0.359) | Good For You (0.069) |
-| Sk8er Boi (0.358) | I See the Light - From "Tangled" / Soundtrack Version (0.0725) |
-| Solo (feat. Demi Lovato) (0.35) | Already Gone (0.0768) |
-| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" (0.325) | Don't Call Me Up (0.0793) |
-| Baby, I'm Jealous (feat. Doja Cat) (0.32) | Break My Heart Myself (feat. Travis Barker) (0.0801) |
+| Good Girls Go Bad (feat. Leighton Meester) (0.549) | It's Gonna Be Me (0.0372) |
+| Rockabye (feat. Sean Paul & Anne-Marie) (0.398) | One Step At a Time (0.0384) |
+| Bang Bang (0.396) | Good Thing (with Kehlani) (0.0409) |
+| My Happy Ending (0.369) | Slow Hands (0.055) |
+| That's My Girl (0.365) | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (0.0585) |
+| Living Proof (0.359) | Meant to Be (feat. Florida Georgia Line) (0.0646) |
+| Sk8er Boi (0.358) | Good For You (0.069) |
+| Solo (feat. Demi Lovato) (0.35) | I See the Light - From "Tangled" / Soundtrack Version (0.0725) |
+| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" (0.325) | Already Gone (0.0768) |
+| Baby, I'm Jealous (feat. Doja Cat) (0.32) | Don't Call Me Up (0.0793) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Sucker (0.952) | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" (0.0862) |
 | Tick Tock (feat. 24kGoldn) (0.946) | Jar of Hearts (0.0886) |
-| Black Magic (0.849) | Because of You (0.136) |
-| Slow Hands (0.848) | Youngblood (0.152) |
-| Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (0.824) | I See the Light - From "Tangled" / Soundtrack Version (0.169) |
-| Rockabye (feat. Sean Paul & Anne-Marie) (0.792) | Good For You (0.215) |
-| Good Ones (0.789) | Who You Are (0.215) |
-| Swalla (feat. Nicki Minaj & Ty Dolla $ign) (0.782) | Don't Call Me Up (0.234) |
-| Bubblegum (feat. Tyga) (0.77) | Never Be the Same (0.243) |
-| Talk Dirty (feat. 2 Chainz) (0.759) | Already Gone (0.294) |
+| It's Gonna Be Me (0.908) | Because of You (0.136) |
+| Bye Bye Bye (0.861) | Youngblood (0.152) |
+| Black Magic (0.849) | I See the Light - From "Tangled" / Soundtrack Version (0.169) |
+| Slow Hands (0.848) | I Thought She Knew (0.198) |
+| Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (0.824) | Good For You (0.215) |
+| Rockabye (feat. Sean Paul & Anne-Marie) (0.792) | Who You Are (0.215) |
+| Good Ones (0.789) | Don't Call Me Up (0.234) |
+| Swalla (feat. Nicki Minaj & Ty Dolla $ign) (0.782) | Never Be the Same (0.243) |
