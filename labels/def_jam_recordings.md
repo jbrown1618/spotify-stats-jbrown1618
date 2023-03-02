@@ -55,11 +55,11 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 9 genres](../images/labels/def_jam_recordings/genres.png)
+![Bar chart of top 10 genres](../images/labels/def_jam_recordings/genres.png)
 
 
 <details>
-<summary>See all 9 genres</summary>
+<summary>See all 10 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -69,6 +69,7 @@ Appears as:
 | 1 | rap latina |
 | 1 | rap |
 | 1 | [r&b](../genres/r_b.md) |
+| 1 | [post-teen pop](../genres/post_teen_pop.md) |
 | 1 | pop rap |
 | 1 | pop r&b |
 | 1 | canadian pop |

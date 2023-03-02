@@ -100,7 +100,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d7610ec7724bad4e6c9e499" alt="" width="50" /> | POPPY (Japanese Ver.) | 2022-11-16 | [🔗](https://open.spotify.com/album/2nei1QXcpDotdoMz3IQxr4) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736887b017d077dfc5787a3e23" alt="" width="50" /> | MOONLIGHT SUNRISE | 2023-01-20 | [🔗](https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27322f0e32bfb91476f0ad96656" alt="" width="50" /> | MIC ON | 2022-10-11 | [🔗](https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735f3ae8db55f4507baf0ef0dd" alt="" width="50" /> | Lowlife Princess: Noir | 2022-11-18 | [🔗](https://open.spotify.com/album/0AwCgoJKJUOgLp1imhnxuH) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="" width="50" /> | Lowlife Princess: Noir | 2022-11-18 | [🔗](https://open.spotify.com/album/0AwCgoJKJUOgLp1imhnxuH) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27386b1ba55bf754a73f6ecf729" alt="" width="50" /> | I ≠ DOLL | 2023-01-09 | [🔗](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b589bc0468740f56049a87ba" alt="" width="50" /> | HUSH RUSH | 2022-10-12 | [🔗](https://open.spotify.com/album/6ksAgHMbcJbfxwwO799483) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="" width="50" /> | Forgive Me - The 3rd Mini Album | 2022-11-22 | [🔗](https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7) |

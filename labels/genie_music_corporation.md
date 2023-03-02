@@ -150,11 +150,11 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 11 genres](../images/labels/genie_music_corporation/genres.png)
+![Bar chart of top 12 genres](../images/labels/genie_music_corporation/genres.png)
 
 
 <details>
-<summary>See all 11 genres</summary>
+<summary>See all 12 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -167,6 +167,7 @@ Appears as:
 | 3 | korean ost |
 | 2 | k-rap |
 | 1 | korean trap |
+| 1 | k-indie |
 | 1 | classic k-pop |
 | 1 | anime |
 

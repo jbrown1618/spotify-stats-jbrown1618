@@ -224,7 +224,6 @@
 | 6 | [acoustic pop](../../genres/acoustic_pop.md) |
 | 5 | [pop rock](../../genres/pop_rock.md) |
 | 4 | [singer-songwriter](../../genres/singer_songwriter.md) |
-| 4 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 4 | new americana |
 | 4 | [mellow gold](../../genres/mellow_gold.md) |
 | 4 | [folk rock](../../genres/folk_rock.md) |
@@ -232,6 +231,7 @@
 | 3 | [soft rock](../../genres/soft_rock.md) |
 | 3 | [r&b](../../genres/r_b.md) |
 | 3 | [psychedelic rock](../../genres/psychedelic_rock.md) |
+| 3 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 3 | pop soul |
 | 3 | neo soul |
 | 3 | merseybeat |

@@ -1,6 +1,6 @@
 # dance pop
 
-[243 songs](dance_pop_tracks.md)
+[241 songs](dance_pop_tracks.md)
 
 ## Top Artists
 
@@ -49,7 +49,6 @@
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8b74c36ba6c31fc0f58783c" alt="" width="50" /> | George Michael | [🔗](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | Chris Brown | [🔗](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb37bff6aa1d42bede9048750f" alt="" width="50" /> | Calvin Harris | [🔗](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) |
-| 2 | <img src="https://i.scdn.co/image/621c729dd90a6e7a63fc8f0957b2b928834ec5a8" alt="" width="50" /> | 4Minute | [🔗](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) |
 | 2 | <img src="https://i.scdn.co/image/ab6772690000c46ca3ebb27ba9a55044f32af6e1" alt="" width="50" /> | Silk Sonic | [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | Iggy Azalea | [🔗](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | B.o.B | [🔗](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) |
@@ -114,6 +113,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb09b06c6e39518619ecd56ec5" alt="" width="50" /> | Jax Jones | [🔗](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) |
 | 1 | <img src="https://i.scdn.co/image/145b7b08e7f1de22d033e957c0888a5f9e0c99e6" alt="" width="50" /> | Leighton Meester | [🔗](https://open.spotify.com/artist/481VlDdXZAIRxnHyywNbXn) |
 | 1 | <img src="https://i.scdn.co/image/8a522c7faa13cf4321ca6bea075fd97f75f40cfe" alt="" width="50" /> | Ying Yang Twins | [🔗](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | JAY-Z | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
 
 </details>
 
@@ -237,7 +237,7 @@
 
 
 <details>
-<summary>See all 78 labels</summary>
+<summary>See all 77 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -275,7 +275,6 @@
 | 2 | [Hollywood Records](../labels/hollywood_records.md) |
 | 2 | Cash Money |
 | 2 | Capitol Records (CAP) |
-| 2 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md) |
 | 2 | Artist Partner |
 | 2 | Aftermath Entertainment |
 | 2 | A Star is Born OST |
@@ -343,13 +342,13 @@
 | Larger Than Life (0.973) | Julia (0.128) |
 | Boss Bitch (0.955) | I See the Light - From "Tangled" / Soundtrack Version (0.139) |
 | My Happy Ending (0.936) | Your Song (0.195) |
-| Crazy (0.929) | My Everything (0.265) |
-| This Is What You Came For (0.927) | I Thought She Knew (0.272) |
-| Bye Bye Bye (0.926) | When I Was Your Man (0.28) |
-| Bad Romance (0.921) | Consequences (0.292) |
-| Believe (0.917) | 7 rings (0.317) |
-| Hate (0.902) | Jar of Hearts (0.348) |
-| Sk8er Boi (0.9) | Monster (Shawn Mendes & Justin Bieber) (0.383) |
+| This Is What You Came For (0.927) | My Everything (0.265) |
+| Bye Bye Bye (0.926) | I Thought She Knew (0.272) |
+| Bad Romance (0.921) | When I Was Your Man (0.28) |
+| Believe (0.917) | Consequences (0.292) |
+| Sk8er Boi (0.9) | 7 rings (0.317) |
+| Levitating (0.884) | Jar of Hearts (0.348) |
+| Material Girl (0.883) | Monster (Shawn Mendes & Justin Bieber) (0.383) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|

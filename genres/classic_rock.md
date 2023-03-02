@@ -1,16 +1,16 @@
 # classic rock
 
-[120 songs](classic_rock_tracks.md)
+[121 songs](classic_rock_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 26 artists](../images/genres/classic_rock/artists.png)
+![Bar chart of top 27 artists](../images/genres/classic_rock/artists.png)
 
 ![Comparison of Artist](../images/genres/classic_rock/artists_comparison.png)
 
 
 <details>
-<summary>See all 26 artists</summary>
+<summary>See all 27 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -40,6 +40,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe86f788af4e127154da1257f" alt="" width="50" /> | Bonnie Raitt | [🔗](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273743ebb11200358b5c050f542" alt="" width="50" /> | Harry Chapin | [🔗](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebbab088e2157b02848dfcbc1e" alt="" width="50" /> | Chicago | [🔗](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfed5626c008ba961a81dd218" alt="" width="50" /> | Dr. John | [🔗](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) |
 
 </details>
 
@@ -49,7 +50,7 @@
 
 
 <details>
-<summary>See all 76 albums</summary>
+<summary>See all 77 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -88,6 +89,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27374ecb94bc3e5d851a39a0334" alt="" width="50" /> | Tommy | 1969-05-23 | [🔗](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27398a0577da5896bcc66521861" alt="" width="50" /> | The Works | 1984-02-27 | [🔗](https://open.spotify.com/album/0FbnXAGmgmWBmNthZSgm43) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27343f594be3179178ce058786f" alt="" width="50" /> | The Ultimate Collection | 2017-02-03 | [🔗](https://open.spotify.com/album/6TcPqftScGmR0aEgIb43Vv) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d5758ffb1632e086776cf14d" alt="" width="50" /> | The Princess and the Frog (Original Motion Picture Soundtrack) | 2009-11-23 | [🔗](https://open.spotify.com/album/0CcL28OkH89kjgKpNZC8sW) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273e5e5f24cf490dfc7041eafc3" alt="" width="50" /> | The Nylon Curtain | 1982-06-23 | [🔗](https://open.spotify.com/album/50bajZpetfL5T0iRCOR74J) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273375445cc7a2aedff11361b51" alt="" width="50" /> | The Joker | 1973-01-01 | [🔗](https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27388f0f719259b0dec23a7c367" alt="" width="50" /> | The Grand Illusion | 1977-01-01 | [🔗](https://open.spotify.com/album/6MFIBPVrZjHjP0pPkVF3IU) |
@@ -135,11 +137,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 21 record labels](../images/genres/classic_rock/labels.png)
+![Bar chart of top 22 record labels](../images/genres/classic_rock/labels.png)
 
 
 <details>
-<summary>See all 21 labels</summary>
+<summary>See all 22 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -160,6 +162,7 @@
 | 2 | Legacy Recordings |
 | 2 | ABKCO Music and Records |
 | 2 | A&M |
+| 1 | [Walt Disney Records](../labels/walt_disney_records.md) |
 | 1 | Rhino Atlantic |
 | 1 | [Capitol Records](../labels/capitol_records.md) |
 | 1 | CAPITOL CATALOG MKT (C92) |

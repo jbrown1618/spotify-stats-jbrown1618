@@ -324,9 +324,9 @@
 | 21 | [art pop](../../genres/art_pop.md) |
 | 20 | modern rock |
 | 19 | alternative rock |
-| 18 | [lilith](../../genres/lilith.md) |
 | 18 | baroque pop |
 | 17 | uk alternative pop |
+| 17 | [lilith](../../genres/lilith.md) |
 | 16 | oxford indie |
 | 16 | nz pop |
 | 16 | melancholia |

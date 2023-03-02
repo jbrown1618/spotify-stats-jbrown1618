@@ -114,7 +114,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ecddddcd7a4d93b21324bc5" alt="" width="50" /> | XG | [🔗](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eba0be3f7b3047d01434e03dae" alt="" width="50" /> | Soolking | [🔗](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb72453ad016b059b06fd52569" alt="" width="50" /> | Tainy | [🔗](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebacb72af007a294a3511a7afa" alt="" width="50" /> | Tani Yuuki | [🔗](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5c2c7d287922faddd99e8412" alt="" width="50" /> | Tani Yuuki | [🔗](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735a36251d7041e99d024c523a" alt="" width="50" /> | Lu-Ni | [🔗](https://open.spotify.com/artist/0AythHu8oDXnRGp8qviBPj) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb3b6587b2046007bc1d18d9c" alt="" width="50" /> | Rendy Pandugo | [🔗](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) |
 
@@ -167,7 +167,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273312bd86cc2db22fde885ee73" alt="" width="50" /> | UN DIA (ONE DAY) (Feat. Tainy) | 2020-07-24 | [🔗](https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739c4ba827e585fabd3cfd90f2" alt="" width="50" /> | Traveler | 2019-08-31 | [🔗](https://open.spotify.com/album/17gzvH2FPpVhpuqalLFi9j) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273fc1e6aac4f02c6864d7a5f90" alt="" width="50" /> | Toy | 2018-05-23 | [🔗](https://open.spotify.com/album/21YEfZ84TzdjNvOWEdwjeF) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27321d73b676df03ec40a15ef39" alt="" width="50" /> | Tippy Toes | 2022-03-18 | [🔗](https://open.spotify.com/album/6P9erpHs7hgJlca7Tj3F0w) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732e0c53a146daf46d74430ef5" alt="" width="50" /> | Tippy Toes | 2022-03-18 | [🔗](https://open.spotify.com/album/6P9erpHs7hgJlca7Tj3F0w) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a5c51e96d2583bfb3e45d504" alt="" width="50" /> | Think About Things | 2020-04-09 | [🔗](https://open.spotify.com/album/5gEUjiNfaVse6oloI0c6Vt) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734ccc03169b086af698178a99" alt="" width="50" /> | The Lion King: The Gift | 2019-07-19 | [🔗](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739a9716c90ceeb1890921e44f" alt="" width="50" /> | Te Felicito | 2022-04-21 | [🔗](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) |
@@ -335,7 +335,6 @@
 | 3 | sunnlensk tonlist |
 | 3 | pop urbaine |
 | 3 | japanese teen pop |
-| 3 | j-poprock |
 | 3 | icelandic pop |
 | 3 | bitpop |
 | 2 | shibuya-kei |
@@ -385,6 +384,7 @@
 | 1 | jewish pop |
 | 1 | japanese post-hardcore |
 | 1 | japanese math rock |
+| 1 | j-poprock |
 | 1 | j-pixie |
 | 1 | j-acoustic |
 | 1 | italian pop |
@@ -427,7 +427,7 @@
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733e94f2b2c3303120be19210b" alt="Habit" width="50" /> <span style="padding-left:10px;">Habit (2022-04-28)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f342e70aacda9d78cfb6ce7a" alt="Fijación Oral, Vol. 1" width="50" /> <span style="padding-left:10px;">Fijación Oral, Vol. 1 (2005-06-03)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739a9716c90ceeb1890921e44f" alt="Te Felicito" width="50" /> <span style="padding-left:10px;">Te Felicito (2022-04-21)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273110af1ee291450d9e86a05a4" alt="太平盛世" width="50" /> <span style="padding-left:10px;">太平盛世 (2005-08-01)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737bc73fff9f3787c1d8a23167" alt="Look At Me" width="50" /> <span style="padding-left:10px;">Look At Me (2022-03-21)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e74d5d14b01d404e1984ece7" alt="改變自己" width="50" /> <span style="padding-left:10px;">改變自己 (2007-07-13)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27321d73b676df03ec40a15ef39" alt="Tippy Toes" width="50" /> <span style="padding-left:10px;">Tippy Toes (2022-03-18)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737aa30221d9dbc1271bae1b05" alt="GAME" width="50" /> <span style="padding-left:10px;">GAME (2008)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732e0c53a146daf46d74430ef5" alt="Tippy Toes" width="50" /> <span style="padding-left:10px;">Tippy Toes (2022-03-18)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737aa30221d9dbc1271bae1b05" alt="GAME" width="50" /> <span style="padding-left:10px;">GAME (2008)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273caae7b75fb240dd81f3f7129" alt="ממותה" width="50" /> <span style="padding-left:10px;">ממותה (2022-02-11)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738d6686937b604899a9347550" alt="Evils Theater" width="50" /> <span style="padding-left:10px;">Evils Theater (2009-06-17)</span></div> |
 ## Audio Features
 

@@ -2,9 +2,6 @@
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="" width="50" /> | Bye Bye Bye | No Strings Attached | *NSYNC | [Jive](../labels/jive.md) | 💚 | [🔗](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="" width="50" /> | I Thought She Knew | No Strings Attached | *NSYNC | [Jive](../labels/jive.md) | 💚 | [🔗](https://open.spotify.com/track/0b4u7IhBY61kSmS8wVIPYg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="" width="50" /> | It's Gonna Be Me | No Strings Attached | *NSYNC | [Jive](../labels/jive.md) | 💚 | [🔗](https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27341aa6776dc15fbd71a2b4557" alt="" width="50" /> | Youngblood | Youngblood (Deluxe) | 5 Seconds of Summer | [Capitol](../labels/capitol_records.md) | 💚 | [🔗](https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734f89844c76d620ff098ef5c6" alt="" width="50" /> | Low Key (feat. Tyga) | Low Key (feat. Tyga) | Ally Brooke, Tyga | [Latium/Atlantic](../labels/atlantic_records.md) | 💚 | [🔗](https://open.spotify.com/track/7xhvCzIguRfyfQyGrnWuVn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f7ec724fbf97a30869d06240" alt="" width="50" /> | Sk8er Boi | Let Go | Avril Lavigne | Arista | | [🔗](https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU) |
@@ -30,6 +27,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27337fb0680110fbb107740de5d" alt="" width="50" /> | Symphony (feat. Zara Larsson) | What Is Love? (Deluxe Edition) | Clean Bandit, Zara Larsson | Atlantic Records UK | 💚 | [🔗](https://open.spotify.com/track/72gv4zhNvRVdQA0eOenCal) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733ec9036a9f7289e924194bec" alt="" width="50" /> | Tick Tock (feat. 24kGoldn) | Tick Tock (feat. 24kGoldn) | Clean Bandit, Mabel, 24kGoldn | Atlantic Records UK | 💚 | [🔗](https://open.spotify.com/track/27u7t9d7ZQoyjsCROHuZJ3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c83d25c1b9d5f384c32d834a" alt="" width="50" /> | Good Girls Go Bad (feat. Leighton Meester) | Hot Mess | Cobra Starship, Leighton Meester | Decaydance/Fueled By Ramen | | [🔗](https://open.spotify.com/track/7kMfu3KUydmrFVGEAhjtyl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739351691c007cad99d70d9f3f" alt="" width="50" /> | Cravin (feat. G-Eazy) | Cravin | DaniLeigh, G-Eazy | [Def Jam Recordings](../labels/def_jam_recordings.md) | | [🔗](https://open.spotify.com/track/69eXHDgEEQ6itzt03E7fKz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aadb13ae608f6af20528409b" alt="" width="50" /> | Heart Attack | Demi | Demi Lovato | [Hollywood Records](../labels/hollywood_records.md) | | [🔗](https://open.spotify.com/track/1V6gIisPpYqgFeWbMLI0bA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed164cf1c10f028e8f528784" alt="" width="50" /> | Stone Cold | Confident | Demi Lovato | [Hollywood Records](../labels/hollywood_records.md) | 💚 | [🔗](https://open.spotify.com/track/3by8IfnW9dZ2t4pZw1WVxz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334da09e702c7f9ca573981e5" alt="" width="50" /> | If I Go | Ella Eyre | Ella Eyre | [Virgin Records Ltd](../labels/virgin_records.md) | 💚 | [🔗](https://open.spotify.com/track/5JO7yGfeJKYjbOXRRdNk64) |
