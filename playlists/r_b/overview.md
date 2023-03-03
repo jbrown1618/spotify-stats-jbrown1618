@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27345680a4a57c97894490a01c1ab67616d0000b27389992f4d7d4ab94937bf9e23ab67616d0000b273e13de7b8662b085b0885ffefab67616d0000b273ff5429125128b43572dbdccd" alt="R&B" width="100" />
 
-[88 songs](tracks.md)
+[89 songs](tracks.md)
 
 ## Top Artists
 
@@ -17,7 +17,7 @@
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
-| 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | [Beyoncé](../../artists/beyonc_.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
+| 15 | <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | [Beyoncé](../../artists/beyonc_.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 | 10 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | [Rihanna](../../artists/rihanna.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | 10 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../../artists/bruno_mars.md) | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb654972693e0efed3f3f4d090" alt="" width="50" /> | Jason Derulo | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
@@ -52,7 +52,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0d66b3670294bf801847dae2" alt="" width="50" /> | Lizzo | [🔗](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8c2332e6c0ed96d144a91b3f" alt="" width="50" /> | Cardi B | [🔗](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebeaf75445e070451c0fb5bc7d" alt="" width="50" /> | Jidenna | [🔗](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a528fcb316c5b58d6be0511" alt="" width="50" /> | 6LACK | [🔗](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8e7a2d1a01fd98e43ee57dc" alt="" width="50" /> | 6LACK | [🔗](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a2235c7e50d72aef06b7f66" alt="" width="50" /> | The Foundations | [🔗](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebbda00a72a1f7e4f93c071614" alt="" width="50" /> | QUIN | [🔗](https://open.spotify.com/artist/3sHS70DMNgPxRqx2fUNrRA) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb49637fe719fddb8e90896f41" alt="" width="50" /> | Jhorrmountain | [🔗](https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o) |
@@ -85,7 +85,7 @@
 
 
 <details>
-<summary>See all 69 albums</summary>
+<summary>See all 70 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -152,6 +152,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27310356a0e81371e6644cb1371" alt="" width="50" /> | Boss Bitch | 2020-01-23 | [🔗](https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27384a1d313a00f16b5a29ff46c" alt="" width="50" /> | Bittersweet | 2003 | [🔗](https://open.spotify.com/album/3UviDOQkc4WbXkNi6DIBZu) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27307a560f0504f9de0af5e0a33" alt="" width="50" /> | Baby Powder | 2020-03-25 | [🔗](https://open.spotify.com/album/3nqQxvxUB95Bi2UBseY1u1) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="" width="50" /> | BEYONCÉ [Platinum Edition] | 2014-11-24 | [🔗](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="" width="50" /> | An Evening With Silk Sonic | 2021-11-11 | [🔗](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c" alt="" width="50" /> | All I Want Is You | 2010-11-26 | [🔗](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="" width="50" /> | After Hours | 2020-03-20 | [🔗](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) |
@@ -172,11 +173,11 @@
 
 | Number of Tracks | Label |
 |---:|:---|
-| 19 | [Columbia](../../labels/columbia.md) |
+| 20 | [Columbia](../../labels/columbia.md) |
 | 13 | [Atlantic Records](../../labels/atlantic_records.md) |
 | 9 | [MOTOWN](../../labels/motown.md) |
 | 9 | [Def Jam Recordings](../../labels/def_jam_recordings.md) |
-| 6 | Parkwood Entertainment |
+| 7 | Parkwood Entertainment |
 | 5 | [Warner Records](../../labels/warner_records.md) |
 | 5 | UNI |
 | 5 | Music World Music |
@@ -228,9 +229,9 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 64 | [pop](../../genres/pop.md) |
-| 45 | [dance pop](../../genres/dance_pop.md) |
-| 30 | [r&b](../../genres/r_b.md) |
+| 65 | [pop](../../genres/pop.md) |
+| 46 | [dance pop](../../genres/dance_pop.md) |
+| 31 | [r&b](../../genres/r_b.md) |
 | 23 | urban contemporary |
 | 12 | soul |
 | 12 | neo soul |
@@ -308,11 +309,11 @@
 | I Don't Mind (feat. Juicy J) (0.87) | Unknown (To You) (0.367) |
 | Make Me Feel (0.859) | Half Of Me (0.391) |
 | Bubblegum (feat. Tyga) (0.856) | What Now (0.402) |
-| That's What I Like (0.853) | All of Me (0.422) |
-| Bootylicious (0.835) | Listen (From the Motion Picture "Dreamgirls") (0.432) |
-| Crazy (0.835) | Irreplaceable (0.447) |
-| Don't Stop The Music (0.835) | So Sick (0.452) |
-| You Right (0.828) | I'd Rather Go Blind (0.477) |
+| That's What I Like (0.853) | Partition (0.418) |
+| Bootylicious (0.835) | All of Me (0.422) |
+| Crazy (0.835) | Listen (From the Motion Picture "Dreamgirls") (0.432) |
+| Don't Stop The Music (0.835) | Irreplaceable (0.447) |
+| You Right (0.828) | So Sick (0.452) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -334,11 +335,11 @@
 | Bubblegum (feat. Tyga) (0.34) | Stay (0.0283) |
 | So Sick (0.31) | One Step At a Time (0.0289) |
 | Bootylicious (0.284) | Build Me Up Buttercup (0.0293) |
-| Trumpets (0.258) | Me & U (0.0294) |
-| Talk Dirty (feat. 2 Chainz) (0.232) | The Other Side (feat. CeeLo Green and B.o.B) (0.0303) |
-| Crazy In Love (feat. Jay-Z) (0.226) | Love's Train (0.031) |
-| Boss Bitch (0.222) | If I Were a Boy (0.0313) |
-| Daddy Lessons (0.216) | I'd Rather Go Blind (0.032) |
+| Partition (0.283) | Me & U (0.0294) |
+| Trumpets (0.258) | The Other Side (feat. CeeLo Green and B.o.B) (0.0303) |
+| Talk Dirty (feat. 2 Chainz) (0.232) | Love's Train (0.031) |
+| Crazy In Love (feat. Jay-Z) (0.226) | If I Were a Boy (0.0313) |
+| Boss Bitch (0.222) | I'd Rather Go Blind (0.032) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -355,16 +356,16 @@
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Crazy (0.0577) | Leave The Door Open (0.0) |
-| Papa Was A Rollin' Stone - Single Version (0.0507) | That's What I Like (0.0) |
-| Coño (0.0101) | When I Was Your Man (0.0) |
-| Superstition - Single Version (0.0064) | At My Worst (0.0) |
-| Tomboy (0.00512) | Hold Up (0.0) |
-| Isn't She Lovely (0.00352) | Bubblegum (feat. Tyga) (0.0) |
-| I Like That (0.00243) | Best Part (feat. H.E.R.) (0.0) |
-| You Right (0.00233) | Ave Maria (0.0) |
-| Thinkin Bout You (0.00153) | When I Get You Alone (0.0) |
-| We Found Love (0.00138) | Love On Top (0.0) |
+| Partition (0.0707) | Leave The Door Open (0.0) |
+| Crazy (0.0577) | That's What I Like (0.0) |
+| Papa Was A Rollin' Stone - Single Version (0.0507) | When I Was Your Man (0.0) |
+| Coño (0.0101) | At My Worst (0.0) |
+| Superstition - Single Version (0.0064) | Hold Up (0.0) |
+| Tomboy (0.00512) | Bubblegum (feat. Tyga) (0.0) |
+| Isn't She Lovely (0.00352) | Best Part (feat. H.E.R.) (0.0) |
+| I Like That (0.00243) | Ave Maria (0.0) |
+| You Right (0.00233) | When I Get You Alone (0.0) |
+| Thinkin Bout You (0.00153) | Love On Top (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -383,11 +384,11 @@
 |:---|:---|
 | Finesse (0.939) | Stay (0.125) |
 | Ain't Too Proud To Beg (0.926) | I Like That (0.17) |
-| Finesse - Remix; feat. Cardi B (0.926) | Listen (From the Motion Picture "Dreamgirls") (0.187) |
-| Papa Was A Rollin' Stone - Single Version (0.898) | Thinkin Bout You (0.2) |
-| Superstition - Single Version (0.872) | Ave Maria (0.201) |
-| Locked out of Heaven (0.867) | What Now (0.227) |
-| That's What I Like (0.86) | I Was Here (0.235) |
-| Build Me Up Buttercup (0.855) | Grenade (0.245) |
-| For Once In My Life (0.847) | There Goes My Baby (0.257) |
-| S&M (0.833) | Sincerely, Jane (0.274) |
+| Finesse - Remix; feat. Cardi B (0.926) | Partition (0.172) |
+| Papa Was A Rollin' Stone - Single Version (0.898) | Listen (From the Motion Picture "Dreamgirls") (0.187) |
+| Superstition - Single Version (0.872) | Thinkin Bout You (0.2) |
+| Locked out of Heaven (0.867) | Ave Maria (0.201) |
+| That's What I Like (0.86) | What Now (0.227) |
+| Build Me Up Buttercup (0.855) | I Was Here (0.235) |
+| For Once In My Life (0.847) | Grenade (0.245) |
+| S&M (0.833) | There Goes My Baby (0.257) |

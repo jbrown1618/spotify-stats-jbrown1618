@@ -289,7 +289,7 @@
 
 
 <details>
-<summary>See all 33 genres</summary>
+<summary>See all 34 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -299,6 +299,7 @@
 | 11 | french jazz |
 | 8 | lds youth |
 | 7 | barbershop |
+| 5 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 4 | puirt-a-beul |
 | 3 | vocal ensemble |
 | 3 | polyphony |

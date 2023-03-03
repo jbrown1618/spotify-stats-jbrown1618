@@ -293,11 +293,11 @@
 
 ## Genres
 
-![Bar chart of top 13 genres](../../images/playlists/k_pop_favorites/genres.png)
+![Bar chart of top 14 genres](../../images/playlists/k_pop_favorites/genres.png)
 
 
 <details>
-<summary>See all 13 genres</summary>
+<summary>See all 14 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -313,6 +313,7 @@
 | 1 | korean city pop |
 | 1 | k-rap |
 | 1 | k-indie |
+| 1 | [dance pop](../../genres/dance_pop.md) |
 | 1 | chinese idol pop |
 
 </details>

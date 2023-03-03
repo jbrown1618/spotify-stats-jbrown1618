@@ -127,9 +127,9 @@ Appears as:
 | 36 | [a cappella](../genres/a_cappella.md) |
 | 26 | [pop](../genres/pop.md) |
 | 26 | [dance pop](../genres/dance_pop.md) |
+| 10 | [post-teen pop](../genres/post_teen_pop.md) |
 | 8 | australian pop |
 | 8 | australian dance |
-| 4 | [post-teen pop](../genres/post_teen_pop.md) |
 | 4 | metropopolis |
 | 4 | etherpop |
 | 2 | talent show |

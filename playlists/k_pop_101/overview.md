@@ -179,8 +179,8 @@
 | 19 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 16 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
 | 2 | [pop](../../genres/pop.md) |
+| 2 | [dance pop](../../genres/dance_pop.md) |
 | 1 | korean r&b |
-| 1 | [dance pop](../../genres/dance_pop.md) |
 | 1 | anime |
 
 </details>

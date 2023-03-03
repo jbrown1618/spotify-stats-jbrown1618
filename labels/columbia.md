@@ -1,10 +1,10 @@
 # Columbia
 
-82 songs
+83 songs
 
 Appears as:
 - Columbia (55 tracks)
-- Parkwood Entertainment/Columbia (7 tracks)
+- Parkwood Entertainment/Columbia (8 tracks)
 - Columbia/Legacy (6 tracks)
 - Music World Music/Columbia (5 tracks)
 - G.O.O.D. Music/Columbia (2 tracks)
@@ -26,7 +26,7 @@ Appears as:
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
 | 22 | <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | [Billy Joel](../artists/billy_joel.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
-| 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | [Beyoncé](../artists/beyonc_.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
+| 15 | <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | [Beyoncé](../artists/beyonc_.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 | 5 | <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | Simon & Garfunkel | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5ebf7db7c8ede90a019c54590bb" alt="" width="50" /> | Harry Styles | [🔗](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebaed3c717bf1753ab928ea88d" alt="" width="50" /> | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
@@ -75,7 +75,7 @@ Appears as:
 
 
 <details>
-<summary>See all 55 albums</summary>
+<summary>See all 56 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -131,6 +131,7 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733f29a976eea00141514ab936" alt="" width="50" /> | Blowin' Your Mind! | 1967-09 | [🔗](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f5aac98410fb9e64e29827d4" alt="" width="50" /> | Bear Creek | 2012-06-01 | [🔗](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2730b51f8d91f3a21e8426361ae" alt="" width="50" /> | Back In Black | 1980-07-25 | [🔗](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="" width="50" /> | BEYONCÉ [Platinum Edition] | 2014-11-24 | [🔗](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734a04593b7c149dc7b725683e" alt="" width="50" /> | At Folsom Prison | 1968-05-01 | [🔗](https://open.spotify.com/album/4TJIdlY9hGSSTO1kUs1neh) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b11078ee23dcd99e085ac33e" alt="" width="50" /> | Aerosmith | 1973-01-05 | [🔗](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273c6b577e4c4a6d326354a89f7" alt="" width="50" /> | 30 | 2021-11-19 | [🔗](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) |
@@ -148,7 +149,7 @@ Appears as:
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 36 | [pop](../genres/pop.md) |
+| 37 | [pop](../genres/pop.md) |
 | 34 | [rock](../genres/rock.md) |
 | 33 | [classic rock](../genres/classic_rock.md) |
 | 31 | [mellow gold](../genres/mellow_gold.md) |
@@ -156,8 +157,8 @@ Appears as:
 | 26 | [soft rock](../genres/soft_rock.md) |
 | 24 | [singer-songwriter](../genres/singer_songwriter.md) |
 | 22 | piano rock |
-| 19 | [dance pop](../genres/dance_pop.md) |
-| 18 | [r&b](../genres/r_b.md) |
+| 20 | [dance pop](../genres/dance_pop.md) |
+| 19 | [r&b](../genres/r_b.md) |
 | 7 | folk |
 | 6 | hard rock |
 | 5 | pop soul |
@@ -236,6 +237,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | Countdown | 4 | [Beyoncé](../artists/beyonc_.md) | [Parkwood Entertainment/Columbia](columbia.md) | 💚 | [🔗](https://open.spotify.com/track/3axkNosdVQLZiq1HakuGhc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | I Was Here | 4 | [Beyoncé](../artists/beyonc_.md) | [Parkwood Entertainment/Columbia](columbia.md) | 💚 | [🔗](https://open.spotify.com/track/64Tp4KN5U5rtqrasP5a7FH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | Love On Top | 4 | [Beyoncé](../artists/beyonc_.md) | [Parkwood Entertainment/Columbia](columbia.md) | 💚 | [🔗](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="" width="50" /> | Partition | BEYONCÉ [Platinum Edition] | [Beyoncé](../artists/beyonc_.md) | [Parkwood Entertainment/Columbia](columbia.md) | | [🔗](https://open.spotify.com/track/5hgnY0mVcVetszbb85qeDg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="" width="50" /> | Daddy Lessons | Lemonade | [Beyoncé](../artists/beyonc_.md) | [Parkwood Entertainment/Columbia](columbia.md) | 💚 | [🔗](https://open.spotify.com/track/71OvX5NNLrmz7rpq1ANTQn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="" width="50" /> | Hold Up | Lemonade | [Beyoncé](../artists/beyonc_.md) | [Parkwood Entertainment/Columbia](columbia.md) | | [🔗](https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273431daec5815fd0255437b43b" alt="" width="50" /> | She's Got a Way | Cold Spring Harbor | [Billy Joel](../artists/billy_joel.md) | [Columbia](columbia.md) | | [🔗](https://open.spotify.com/track/3Ie2eLOIj2IhKnzPwXrLbJ) |

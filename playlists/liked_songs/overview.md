@@ -357,20 +357,20 @@
 | Number of Tracks | Genre |
 |---:|:---|
 | 638 | [k-pop](../../genres/k_pop.md) |
-| 380 | [pop](../../genres/pop.md) |
+| 379 | [pop](../../genres/pop.md) |
 | 294 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
+| 165 | [dance pop](../../genres/dance_pop.md) |
 | 163 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
-| 163 | [dance pop](../../genres/dance_pop.md) |
 | 105 | [rock](../../genres/rock.md) |
 | 78 | [classic rock](../../genres/classic_rock.md) |
 | 62 | [neo mellow](../../genres/neo_mellow.md) |
-| 59 | [lilith](../../genres/lilith.md) |
+| 60 | [lilith](../../genres/lilith.md) |
 | 55 | [acoustic pop](../../genres/acoustic_pop.md) |
 | 54 | [pop rock](../../genres/pop_rock.md) |
-| 43 | [post-teen pop](../../genres/post_teen_pop.md) |
+| 47 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 43 | [hollywood](../../genres/hollywood.md) |
 | 42 | [mellow gold](../../genres/mellow_gold.md) |
-| 38 | [electropop](../../genres/electropop.md) |
+| 37 | [electropop](../../genres/electropop.md) |
 | 36 | [korean pop](../../genres/korean_pop.md) |
 | 34 | [art pop](../../genres/art_pop.md) |
 | 33 | [folk rock](../../genres/folk_rock.md) |

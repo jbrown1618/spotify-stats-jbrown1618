@@ -1,6 +1,6 @@
 # r&b
 
-[43 songs](r_b_tracks.md)
+[44 songs](r_b_tracks.md)
 
 ## Top Artists
 
@@ -14,7 +14,7 @@
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
-| 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | [Beyoncé](../artists/beyonc_.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
+| 15 | <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | [Beyoncé](../artists/beyonc_.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | Michael Jackson | [🔗](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb2e42d906f4f9f672359e7379" alt="" width="50" /> | Usher | [🔗](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebaed3c717bf1753ab928ea88d" alt="" width="50" /> | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
@@ -24,7 +24,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eba12641edfc4ffbbdf58f7d15" alt="" width="50" /> | Lil Jon | [🔗](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) |
 | 1 | <img src="https://i.scdn.co/image/5c8d57d92825466637905f0d4219064cb39333e9" alt="" width="50" /> | André 3000 | [🔗](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) |
 | 1 | <img src="https://i.scdn.co/image/7667470f669c70a15108051995051fc2cf9e126a" alt="" width="50" /> | Blu Cantrell | [🔗](https://open.spotify.com/artist/6vytZ677lz4LzCrUDcDokM) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb53b6a3853b5347271dcef5d" alt="" width="50" /> | Emily King | [🔗](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb42cb3745183aee0c18d2dc6b" alt="" width="50" /> | Emily King | [🔗](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | Juicy J | [🔗](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | Young Thug | [🔗](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0219b6643b1ec449b0951bfe" alt="" width="50" /> | Giveon | [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) |
@@ -49,7 +49,7 @@
 
 
 <details>
-<summary>See all 30 albums</summary>
+<summary>See all 31 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -81,6 +81,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273365b3fb800c19f7ff72602da" alt="" width="50" /> | Confessions (Expanded Edition) | 2004-03-23 | [🔗](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f4c4ee507c2558262869f415" alt="" width="50" /> | Cassie (U.S. Version) | 2006-08-07 | [🔗](https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27384a1d313a00f16b5a29ff46c" alt="" width="50" /> | Bittersweet | 2003 | [🔗](https://open.spotify.com/album/3UviDOQkc4WbXkNi6DIBZu) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="" width="50" /> | BEYONCÉ [Platinum Edition] | 2014-11-24 | [🔗](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c" alt="" width="50" /> | All I Want Is You | 2010-11-26 | [🔗](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273af3ad974e635a6b18579adee" alt="" width="50" /> | A Beautiful World | 2002-12-13 | [🔗](https://open.spotify.com/album/76wI74XuASLFrY9pUVLhO9) |
 
@@ -97,9 +98,9 @@
 
 | Number of Tracks | Label |
 |---:|:---|
-| 18 | [Columbia](../labels/columbia.md) |
+| 19 | [Columbia](../labels/columbia.md) |
 | 9 | [Epic](../labels/epic.md) |
-| 6 | Parkwood Entertainment |
+| 7 | Parkwood Entertainment |
 | 5 | Music World Music |
 | 4 | LaFace Records |
 | 2 | [RCA Records Label](../labels/rca_records_label.md) |
@@ -126,14 +127,14 @@
 |:---|:---|
 | Billie Jean (0.932) | I'd Rather Go Blind (0.326) |
 | Yeah! (feat. Lil Jon & Ludacris) (0.894) | Ave Maria (0.35) |
-| P.Y.T. (Pretty Young Thing) (0.894) | All of Me (0.422) |
-| Don't Stop 'Til You Get Enough (0.878) | Listen (From the Motion Picture "Dreamgirls") (0.432) |
-| I Don't Mind (feat. Juicy J) (0.87) | Irreplaceable (0.447) |
-| Smooth Criminal - 2012 Remaster (0.853) | Heartbreak Anniversary (0.449) |
-| Wanna Be Startin' Somethin' (0.842) | Teach You - Acoustic (0.497) |
-| Bootylicious (0.835) | Preach (0.508) |
-| Cravin (feat. G-Eazy) (0.834) | Halo (0.508) |
-| Man in the Mirror - 2012 Remaster (0.808) | Hold Up (0.524) |
+| P.Y.T. (Pretty Young Thing) (0.894) | Partition (0.418) |
+| Don't Stop 'Til You Get Enough (0.878) | All of Me (0.422) |
+| I Don't Mind (feat. Juicy J) (0.87) | Listen (From the Motion Picture "Dreamgirls") (0.432) |
+| Smooth Criminal - 2012 Remaster (0.853) | Irreplaceable (0.447) |
+| Wanna Be Startin' Somethin' (0.842) | Heartbreak Anniversary (0.449) |
+| Bootylicious (0.835) | Teach You - Acoustic (0.497) |
+| Cravin (feat. G-Eazy) (0.834) | Preach (0.508) |
+| Man in the Mirror - 2012 Remaster (0.808) | Halo (0.508) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -142,24 +143,24 @@
 | Wanna Be Startin' Somethin' (0.872) | Best Part (feat. H.E.R.) (0.364) |
 | DJ Got Us Fallin' In Love (feat. Pitbull) (0.861) | Hold Up (0.397) |
 | When I Get You Alone (0.857) | Ave Maria (0.403) |
-| Bootylicious (0.833) | Me & U (0.454) |
-| Sweet Dreams (0.825) | Billie Jean (0.457) |
-| Don't Stop 'Til You Get Enough (0.821) | I Don't Mind (feat. Juicy J) (0.464) |
-| Man in the Mirror - 2012 Remaster (0.812) | Heartbreak Anniversary (0.465) |
-| Beat It (0.8) | Who Hurt You? (0.493) |
+| Bootylicious (0.833) | Partition (0.441) |
+| Sweet Dreams (0.825) | Me & U (0.454) |
+| Don't Stop 'Til You Get Enough (0.821) | Billie Jean (0.457) |
+| Man in the Mirror - 2012 Remaster (0.812) | I Don't Mind (feat. Juicy J) (0.464) |
+| Beat It (0.8) | Heartbreak Anniversary (0.465) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Hold Up (0.405) | Ave Maria (0.0279) |
 | Irreplaceable (0.382) | One Step At a Time (0.0289) |
 | Bootylicious (0.284) | Me & U (0.0294) |
-| Cravin (feat. G-Eazy) (0.246) | If I Were a Boy (0.0313) |
-| Crazy In Love (feat. Jay-Z) (0.226) | I'd Rather Go Blind (0.032) |
-| Daddy Lessons (0.216) | All of Me (0.0322) |
-| I Don't Mind (feat. Juicy J) (0.178) | Best Thing I Never Had (0.0324) |
-| Countdown (0.151) | I Was Here (0.0335) |
-| Green Light (feat. André 3000) (0.119) | Best Part (feat. H.E.R.) (0.0367) |
-| Yeah! (feat. Lil Jon & Ludacris) (0.112) | Man in the Mirror - 2012 Remaster (0.0381) |
+| Partition (0.283) | If I Were a Boy (0.0313) |
+| Cravin (feat. G-Eazy) (0.246) | I'd Rather Go Blind (0.032) |
+| Crazy In Love (feat. Jay-Z) (0.226) | All of Me (0.0322) |
+| Daddy Lessons (0.216) | Best Thing I Never Had (0.0324) |
+| I Don't Mind (feat. Juicy J) (0.178) | I Was Here (0.0335) |
+| Countdown (0.151) | Best Part (feat. H.E.R.) (0.0367) |
+| Green Light (feat. André 3000) (0.119) | Man in the Mirror - 2012 Remaster (0.0381) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -172,20 +173,20 @@
 | Heartbreak Anniversary (0.524) | Wanna Be Startin' Somethin' (0.0259) |
 | Man in the Mirror - 2012 Remaster (0.52) | Sure Thing (0.0267) |
 | I Was Here (0.431) | Beat It (0.027) |
-| Listen (From the Motion Picture "Dreamgirls") (0.416) | Irreplaceable (0.0293) |
+| Listen (From the Motion Picture "Dreamgirls") (0.416) | Partition (0.029) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Smooth Criminal - 2012 Remaster (0.468) | Hold Up (0.0) |
 | Wanna Be Startin' Somethin' (0.419) | Best Part (feat. H.E.R.) (0.0) |
-| Don't Stop 'Til You Get Enough (0.0461) | Ave Maria (0.0) |
-| Billie Jean (0.0436) | When I Get You Alone (0.0) |
-| No Scrubs (0.000717) | City Girls (0.0) |
-| P.Y.T. (Pretty Young Thing) (0.000363) | Love On Top (0.0) |
-| Sure Thing (0.000307) | If I Were a Boy (0.0) |
-| Thriller (0.000225) | Preach (0.0) |
-| Who Hurt You? (0.000167) | Wet The Bed (feat. Ludacris) (0.0) |
-| Man in the Mirror - 2012 Remaster (7.91e-05) | Bootylicious (0.0) |
+| Partition (0.0707) | Ave Maria (0.0) |
+| Don't Stop 'Til You Get Enough (0.0461) | When I Get You Alone (0.0) |
+| Billie Jean (0.0436) | City Girls (0.0) |
+| No Scrubs (0.000717) | Love On Top (0.0) |
+| P.Y.T. (Pretty Young Thing) (0.000363) | If I Were a Boy (0.0) |
+| Sure Thing (0.000307) | Preach (0.0) |
+| Thriller (0.000225) | Wet The Bed (feat. Ludacris) (0.0) |
+| Who Hurt You? (0.000167) | Bootylicious (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -194,21 +195,21 @@
 | Hold Up (0.521) | Billie Jean (0.0414) |
 | If I Were a Boy (0.354) | When I Get You Alone (0.0549) |
 | Daddy Lessons (0.349) | City Girls (0.0554) |
-| Smooth Criminal - 2012 Remaster (0.306) | Halo (0.0563) |
-| Heartbreak Anniversary (0.303) | Wanna Be Startin' Somethin' (0.0573) |
-| Hit 'Em Up Style (Oops!) (0.289) | Sweet Dreams (0.0618) |
-| Countdown (0.219) | Me & U (0.0655) |
-| Green Light (feat. André 3000) (0.216) | Who Hurt You? (0.0667) |
+| Partition (0.306) | Halo (0.0563) |
+| Smooth Criminal - 2012 Remaster (0.306) | Wanna Be Startin' Somethin' (0.0573) |
+| Heartbreak Anniversary (0.303) | Sweet Dreams (0.0618) |
+| Hit 'Em Up Style (Oops!) (0.289) | Me & U (0.0655) |
+| Countdown (0.219) | Who Hurt You? (0.0667) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| P.Y.T. (Pretty Young Thing) (0.961) | Listen (From the Motion Picture "Dreamgirls") (0.187) |
-| Don't Stop 'Til You Get Enough (0.947) | Ave Maria (0.201) |
-| Wanna Be Startin' Somethin' (0.906) | I Was Here (0.235) |
-| Beat It (0.9) | There Goes My Baby (0.257) |
-| Billie Jean (0.884) | Man in the Mirror - 2012 Remaster (0.269) |
-| City Girls (0.815) | Who Hurt You? (0.277) |
-| Sweet Dreams (0.788) | I'd Rather Go Blind (0.289) |
-| Thriller (0.783) | Best Thing I Never Had (0.298) |
-| Green Light (feat. André 3000) (0.762) | All of Me (0.331) |
-| Me & U (0.739) | Wet The Bed (feat. Ludacris) (0.411) |
+| P.Y.T. (Pretty Young Thing) (0.961) | Partition (0.172) |
+| Don't Stop 'Til You Get Enough (0.947) | Listen (From the Motion Picture "Dreamgirls") (0.187) |
+| Wanna Be Startin' Somethin' (0.906) | Ave Maria (0.201) |
+| Beat It (0.9) | I Was Here (0.235) |
+| Billie Jean (0.884) | There Goes My Baby (0.257) |
+| City Girls (0.815) | Man in the Mirror - 2012 Remaster (0.269) |
+| Sweet Dreams (0.788) | Who Hurt You? (0.277) |
+| Thriller (0.783) | I'd Rather Go Blind (0.289) |
+| Green Light (feat. André 3000) (0.762) | Best Thing I Never Had (0.298) |
+| Me & U (0.739) | All of Me (0.331) |

@@ -248,7 +248,6 @@
 | 2 | indie folk |
 | 2 | funk |
 | 2 | folk |
-| 2 | [electropop](../../genres/electropop.md) |
 | 2 | easy listening |
 | 2 | country rock |
 | 2 | british soul |
@@ -278,6 +277,7 @@
 | 1 | indie pop |
 | 1 | heartland rock |
 | 1 | escape room |
+| 1 | [electropop](../../genres/electropop.md) |
 | 1 | disco |
 | 1 | comic |
 | 1 | classic soul |

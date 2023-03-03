@@ -114,7 +114,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ecddddcd7a4d93b21324bc5" alt="" width="50" /> | XG | [🔗](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eba0be3f7b3047d01434e03dae" alt="" width="50" /> | Soolking | [🔗](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb72453ad016b059b06fd52569" alt="" width="50" /> | Tainy | [🔗](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5c2c7d287922faddd99e8412" alt="" width="50" /> | Tani Yuuki | [🔗](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb482a6aba1014057d9c4f04dd" alt="" width="50" /> | Tani Yuuki | [🔗](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735a36251d7041e99d024c523a" alt="" width="50" /> | Lu-Ni | [🔗](https://open.spotify.com/artist/0AythHu8oDXnRGp8qviBPj) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb3b6587b2046007bc1d18d9c" alt="" width="50" /> | Rendy Pandugo | [🔗](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) |
 
@@ -305,7 +305,7 @@
 
 
 <details>
-<summary>See all 98 genres</summary>
+<summary>See all 97 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -335,6 +335,7 @@
 | 3 | sunnlensk tonlist |
 | 3 | pop urbaine |
 | 3 | japanese teen pop |
+| 3 | j-poprock |
 | 3 | icelandic pop |
 | 3 | bitpop |
 | 2 | shibuya-kei |
@@ -370,7 +371,6 @@
 | 1 | r&b en espanol |
 | 1 | nouvelle chanson francaise |
 | 1 | norwegian pop |
-| 1 | norwegian indie |
 | 1 | nintendocore |
 | 1 | nigerian pop |
 | 1 | nigerian hip hop |
@@ -384,7 +384,6 @@
 | 1 | jewish pop |
 | 1 | japanese post-hardcore |
 | 1 | japanese math rock |
-| 1 | j-poprock |
 | 1 | j-pixie |
 | 1 | j-acoustic |
 | 1 | italian pop |
