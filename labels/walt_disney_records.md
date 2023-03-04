@@ -49,7 +49,7 @@ Appears as:
 | 1 | <img src="nan" alt="" width="50" /> | Agatha Lee Monn | [🔗](https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp) |
 | 1 | <img src="https://i.scdn.co/image/f18d69d006ccd5bce40592da9c8b244ed5814070" alt="" width="50" /> | Jeremy Irons | [🔗](https://open.spotify.com/artist/6QRb3jE2lCfMU1iUuVQMaV) |
 | 1 | <img src="https://i.scdn.co/image/f372f0bc303e9ebbcc49227f256428d52961ab9f" alt="" width="50" /> | Carmen Twillie | [🔗](https://open.spotify.com/artist/6O3ZB5Cz5CNT3wQWouKcNJ) |
-| 1 | <img src="nan" alt="" width="50" /> | Paul Kandel | [🔗](https://open.spotify.com/artist/6M3XR163Q68THc9IFMwfAH) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f0864dea3c557afdb250248b" alt="" width="50" /> | Paul Kandel | [🔗](https://open.spotify.com/artist/6M3XR163Q68THc9IFMwfAH) |
 | 1 | <img src="https://i.scdn.co/image/c70b45b55261e4a201300931f11f5988a9c34478" alt="" width="50" /> | Cheech Marin | [🔗](https://open.spotify.com/artist/68TP2Pr8i7dvyFHU0p748r) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273e7fec29c8ce38bd57ca100ba" alt="" width="50" /> | Bruce Adler | [🔗](https://open.spotify.com/artist/66oKiXdIQP7MwN0gPUY0FD) |
 | 1 | <img src="nan" alt="" width="50" /> | Rene Auberjonois | [🔗](https://open.spotify.com/artist/5vLv7RBpAmIPypST2zhKUw) |

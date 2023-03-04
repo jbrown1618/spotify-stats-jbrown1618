@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1459 songs](tracks.md)
+[1458 songs](tracks.md)
 
 ## Top Artists
 
@@ -19,7 +19,7 @@
 | 37 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | [Taylor Swift](../../artists/taylor_swift.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 | 28 | <img src="https://i.scdn.co/image/ab6761610000e5eb200008f1cb940483514db2bd" alt="" width="50" /> | [TWICE](../../artists/twice.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | 25 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../../artists/blackpink.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
-| 25 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../../artists/bts.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
+| 24 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../../artists/bts.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | 23 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | [IU](../../artists/iu.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | 23 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 | 23 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../../artists/itzy.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
@@ -210,7 +210,6 @@
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | NOEASY | 2021-08-23 | [🔗](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="" width="50" /> | NCT 2018 EMPATHY | 2018-03-14 | [🔗](https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | More Adventurous (U.S. Release) | 2004-07-27 | [🔗](https://open.spotify.com/album/4n36X2GMJ84BKh9D9zMRVI) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="" width="50" /> | MAP OF THE SOUL : 7 | 2020-02-21 | [🔗](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="" width="50" /> | MAGIC MAN | 2022-09-09 | [🔗](https://open.spotify.com/album/2VZ4og2ZbwyTQ3X1rbgCe1) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273fd0d9a33127c1d3f58ba3504" alt="" width="50" /> | MADE | 2016-12-13 | [🔗](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2734280a158a96c9b0274eb7e99" alt="" width="50" /> | Love, Save The Empty | 2009 | [🔗](https://open.spotify.com/album/1tF7625TFqvfzMbappj1pQ) |
@@ -228,6 +227,7 @@
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273a498cf792773aa474d779dd8" alt="" width="50" /> | D-2 | 2020-05-22 | [🔗](https://open.spotify.com/album/0zhGddZ83RpCgnelKWa2qS) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Camila | 2018-01-12 | [🔗](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | Bridge Over Troubled Water | 1970-01-26 | [🔗](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) |
+| 3 | <img src="https://i.scdn.co/image/ab67616d0000b2732d81f491319b86356eb10c4e" alt="" width="50" /> | Begin to Hope | 2006-06-13 | [🔗](https://open.spotify.com/album/4L4tcx3itXbtx5kuchKhFE) |
 
 </details>
 
@@ -253,7 +253,7 @@
 | 46 | [Warner Records](../../labels/warner_records.md) |
 | 44 | [Universal Music LLC](../../labels/universal_music_llc.md) |
 | 43 | [RCA Records Label](../../labels/rca_records_label.md) |
-| 30 | [BIGHIT MUSIC](../../labels/bighit_music.md) |
+| 29 | [BIGHIT MUSIC](../../labels/bighit_music.md) |
 | 26 | [Atlantic Records](../../labels/atlantic_records.md) |
 | 25 | [RBW Inc.](../../labels/rbw_inc_.md) |
 | 25 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment.md) |
@@ -356,22 +356,22 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 638 | [k-pop](../../genres/k_pop.md) |
+| 637 | [k-pop](../../genres/k_pop.md) |
 | 379 | [pop](../../genres/pop.md) |
 | 294 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
-| 165 | [dance pop](../../genres/dance_pop.md) |
-| 163 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
+| 162 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
+| 162 | [dance pop](../../genres/dance_pop.md) |
 | 105 | [rock](../../genres/rock.md) |
 | 78 | [classic rock](../../genres/classic_rock.md) |
-| 62 | [neo mellow](../../genres/neo_mellow.md) |
+| 60 | [neo mellow](../../genres/neo_mellow.md) |
 | 60 | [lilith](../../genres/lilith.md) |
 | 55 | [acoustic pop](../../genres/acoustic_pop.md) |
 | 54 | [pop rock](../../genres/pop_rock.md) |
-| 47 | [post-teen pop](../../genres/post_teen_pop.md) |
+| 43 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 43 | [hollywood](../../genres/hollywood.md) |
 | 42 | [mellow gold](../../genres/mellow_gold.md) |
-| 37 | [electropop](../../genres/electropop.md) |
 | 36 | [korean pop](../../genres/korean_pop.md) |
+| 36 | [electropop](../../genres/electropop.md) |
 | 34 | [art pop](../../genres/art_pop.md) |
 | 33 | [folk rock](../../genres/folk_rock.md) |
 | 32 | [soft rock](../../genres/soft_rock.md) |
@@ -390,13 +390,13 @@
 | 20 | modern rock |
 | 19 | uk pop |
 | 19 | melancholia |
-| 19 | edm |
 | 19 | anime |
 | 19 | album rock |
 | 19 | [adult standards](../../genres/adult_standards.md) |
 | 18 | hard rock |
 | 18 | [a cappella](../../genres/a_cappella.md) |
 | 17 | indie pop |
+| 17 | edm |
 | 15 | uk alternative pop |
 | 15 | metropopolis |
 | 15 | k-rap |
@@ -432,6 +432,7 @@
 | 7 | j-metal |
 | 7 | idol rock |
 | 7 | electro |
+| 7 | country rock |
 | 7 | country dawn |
 | 7 | country |
 | 7 | comic metal |
@@ -448,7 +449,6 @@
 | 6 | hip hop |
 | 6 | funk |
 | 6 | filter house |
-| 6 | country rock |
 | 5 | uk funky |
 | 5 | uk dance |
 | 5 | talent show |
@@ -473,7 +473,7 @@
 | [2023](2023.md) | 22 |
 | [2022](2022.md) | 236 |
 | [2021](2021.md) | 181 |
-| [2020](2020.md) | 133 |
+| [2020](2020.md) | 132 |
 | [2019](2019.md) | 115 |
 | [2018](2018.md) | 81 |
 | [2017](2017.md) | 72 |

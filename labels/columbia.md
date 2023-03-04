@@ -165,7 +165,6 @@ Appears as:
 | 5 | melancholia |
 | 5 | album rock |
 | 4 | urban contemporary |
-| 4 | [neo mellow](../genres/neo_mellow.md) |
 | 3 | neo soul |
 | 3 | jazz quartet |
 | 3 | jazz |
@@ -192,6 +191,7 @@ Appears as:
 | 1 | nigerian pop |
 | 1 | nigerian hip hop |
 | 1 | new americana |
+| 1 | [neo mellow](../genres/neo_mellow.md) |
 | 1 | modern rock |
 | 1 | modern folk rock |
 | 1 | modern alternative rock |

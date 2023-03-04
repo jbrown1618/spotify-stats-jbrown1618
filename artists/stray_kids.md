@@ -13,7 +13,7 @@
 | 2 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732270d3bd1d13133edf0be836ab67616d0000b2736017bca98dea58ceddea77c1ab67616d0000b273a0df2d59f0ae9426cba3eb36ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | [Cursed English](../playlists/cursed_english/overview.md) |
 | 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | [K-Pop 101](../playlists/k_pop_101/overview.md) |
 | 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | [Sharon RPD](../playlists/sharon_rpd/overview.md) |
-| 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2733019082a0f673eaa7a5ea3aeab67616d0000b27342a6d7b8477a1cf06ebce45fab67616d0000b273a8a2a99e01506f56c991a24eab67616d0000b273b9aea3c24941166131a8c8b8" alt="" width="50" /> | [Check Out Later](../playlists/check_out_later/overview.md) |
+| 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732f7bb02cb4b74bd7c2406428ab67616d0000b2733019082a0f673eaa7a5ea3aeab67616d0000b27342a6d7b8477a1cf06ebce45fab67616d0000b273b9aea3c24941166131a8c8b8" alt="" width="50" /> | [Check Out Later](../playlists/check_out_later/overview.md) |
 ## Top Albums
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |

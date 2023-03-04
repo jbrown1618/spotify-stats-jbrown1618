@@ -1,6 +1,6 @@
 # post-teen pop
 
-[73 songs](post_teen_pop_tracks.md)
+[64 songs](post_teen_pop_tracks.md)
 
 ## Top Artists
 
@@ -10,11 +10,10 @@
 
 
 <details>
-<summary>See all 66 artists</summary>
+<summary>See all 62 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
-| 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e7e6ded87a4e0f65b5afcec" alt="" width="50" /> | Britney Spears | [🔗](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | Camila Cabello | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb654972693e0efed3f3f4d090" alt="" width="50" /> | Jason Derulo | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410" alt="" width="50" /> | Clean Bandit | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
@@ -54,7 +53,6 @@
 | 1 | <img src="nan" alt="" width="50" /> | YEJI & RYUJIN of ITZY | [🔗](https://open.spotify.com/artist/4TYswX6bKUjM9rbEL7CMBH) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d800f202dd15af03179876b" alt="" width="50" /> | Jess Glynne | [🔗](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) |
 | 1 | <img src="https://i.scdn.co/image/145b7b08e7f1de22d033e957c0888a5f9e0c99e6" alt="" width="50" /> | Leighton Meester | [🔗](https://open.spotify.com/artist/481VlDdXZAIRxnHyywNbXn) |
-| 1 | <img src="https://i.scdn.co/image/8a522c7faa13cf4321ca6bea075fd97f75f40cfe" alt="" width="50" /> | Ying Yang Twins | [🔗](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebaa2d9bd207a62adc3edf6631" alt="" width="50" /> | Florida Georgia Line | [🔗](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb49637fe719fddb8e90896f41" alt="" width="50" /> | Jhorrmountain | [🔗](https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o) |
 | 1 | <img src="nan" alt="" width="50" /> | Zachary Levi | [🔗](https://open.spotify.com/artist/3XSyTI9ct70ZheMESAv2st) |
@@ -76,10 +74,8 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eba9add5f319d70026d4f3b8a1" alt="" width="50" /> | Rixton | [🔗](https://open.spotify.com/artist/0kkxsdcaWmWU2yWAqclDh4) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA | [🔗](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2657bcafcb300d90816523f" alt="" width="50" /> | Kehlani | [🔗](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb22b2d4713c50ae25a7201429" alt="" width="50" /> | DaniLeigh | [🔗](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eba5205abffd84341e5bace828" alt="" width="50" /> | Selena Gomez | [🔗](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | [Taylor Swift](../artists/taylor_swift.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe818f7ca0d47f038a9aa246a" alt="" width="50" /> | G-Eazy | [🔗](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) |
 
 </details>
 
@@ -89,7 +85,7 @@
 
 
 <details>
-<summary>See all 64 albums</summary>
+<summary>See all 57 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -99,8 +95,6 @@
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="" width="50" /> | Tangled | 2010-01-01 | [🔗](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e" alt="" width="50" /> | Talk Dirty | 2013-09-10 | [🔗](https://open.spotify.com/album/4PeZu0It7qVrTG40t3HM9A) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Romance | 2019-12-06 | [🔗](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4" alt="" width="50" /> | In The Zone | 2003-11-13 | [🔗](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b27354c6edd554935d73e159e199" alt="" width="50" /> | Circus (Deluxe Version) | 2008-12-02 | [🔗](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27326a2f5224465a369f8abbf88" alt="" width="50" /> | lovestrong. | 2011-05-10 | [🔗](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273fec526f773b919f6ec2e1127" alt="" width="50" /> | bad guy | 2019-12-13 | [🔗](https://open.spotify.com/album/1phloQZ7zGTlsfQVUBiTbK) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27341aa6776dc15fbd71a2b4557" alt="" width="50" /> | Youngblood (Deluxe) | 2018-06-15 | [🔗](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) |
@@ -115,7 +109,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735bdd9e580fdda5e676a25e6a" alt="" width="50" /> | Reflection (Deluxe) | 2015-01-30 | [🔗](https://open.spotify.com/album/0zAsh6hObeNmFgFPrUiFcP) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27306b7221a0ecc0dd36f4f8f18" alt="" width="50" /> | React | 2020-02-07 | [🔗](https://open.spotify.com/album/0Dg7mV6QrpSw8b3o45bNkq) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731bd04431e42ed2105ea3534a" alt="" width="50" /> | Put A Little Love On Me | 2019-12-06 | [🔗](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732aa20611c7fb964a74ab01a6" alt="" width="50" /> | Oops!... I Did It Again | 2000-05-16 | [🔗](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a0dbab021f379ba34283a4ed" alt="" width="50" /> | No Tears Left to Cry | 2018-12-11 | [🔗](https://open.spotify.com/album/2f47uqbseyM4AGSCiIQaw2) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273e2a93f34e3c52c12f2a5578f" alt="" width="50" /> | New Eyes | 2014-06-02 | [🔗](https://open.spotify.com/album/4a6DxkhmMvvEdPXxm4ergN) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739c5f8c31793f6cf28146004b" alt="" width="50" /> | Never Enough | 2019-02-08 | [🔗](https://open.spotify.com/album/0c9cgQqbVL9QVvwbA6faAB) |
@@ -140,12 +133,9 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27334da09e702c7f9ca573981e5" alt="" width="50" /> | Ella Eyre | 2015-01-12 | [🔗](https://open.spotify.com/album/5J69OYtRXeI9dHDK2R95h5) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273aadb13ae608f6af20528409b" alt="" width="50" /> | Demi | 2013-01-01 | [🔗](https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273c4f298e7cbedb77f8e030ff0" alt="" width="50" /> | Cry for Me | 2019-10-04 | [🔗](https://open.spotify.com/album/2dq4ae5hiyxlFPG1s8rlq5) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739351691c007cad99d70d9f3f" alt="" width="50" /> | Cravin | 2019-10-18 | [🔗](https://open.spotify.com/album/6c66PBJdg7EWPcFUvLyFFu) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731d56717d1786e938a105b6df" alt="" width="50" /> | Coño | 2020-07-03 | [🔗](https://open.spotify.com/album/1h3x5tLWXhf438Y5AK60Ml) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ed164cf1c10f028e8f528784" alt="" width="50" /> | Confident | 2015-01-01 | [🔗](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="" width="50" /> | CRASH | 2022-03-18 | [🔗](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733c9f7b8faf039c7607d12255" alt="" width="50" /> | Britney Jean (Deluxe Version) | 2013-11-30 | [🔗](https://open.spotify.com/album/5rlB2HPoNHg2m1wmmh0TRv) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273e1a4e01cb7a1ecff468bbead" alt="" width="50" /> | Britney (Digital Deluxe Version) | 2001-10-31 | [🔗](https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27303dadde4d9d305c1c3e0d91c" alt="" width="50" /> | Breakaway | 2004-01-17 | [🔗](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732c960195315acacaaabf1271" alt="" width="50" /> | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) | 2022-07-29 | [🔗](https://open.spotify.com/album/6nHECY2OnWXVmd4QjGhJEm) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739660ae57836f713884d86cbb" alt="" width="50" /> | Blueberry Eyes (feat. SUGA of BTS) | 2020-09-15 | [🔗](https://open.spotify.com/album/2dEJHnsuxIij7YeBbt0sVm) |
@@ -156,7 +146,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737a6339d6ddfd579f77559b3c" alt="" width="50" /> | Animal (Expanded Edition) | 2010-01-01 | [🔗](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737ed87984e7f39ba42ee1b50a" alt="" width="50" /> | All I Ever Wanted | 2009-03-06 | [🔗](https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d03fa6f4e758282b7920b5c8" alt="" width="50" /> | 7/27 (Deluxe) | 2016-05-27 | [🔗](https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738e49866860c25afffe2f1a02" alt="" width="50" /> | ...Baby One More Time (Digital Deluxe Version) | 1999-01-12 | [🔗](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) |
 
 </details>
 
@@ -167,15 +156,14 @@
 
 
 <details>
-<summary>See all 39 labels</summary>
+<summary>See all 37 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
 | 11 | [Syco Music](../labels/syco_music.md) |
-| 10 | [RCA Records Label](../labels/rca_records_label.md) |
+| 9 | [RCA Records Label](../labels/rca_records_label.md) |
 | 8 | [Warner Records](../labels/warner_records.md) |
 | 8 | [Epic](../labels/epic.md) |
-| 7 | [Jive](../labels/jive.md) |
 | 5 | Citizen Queen |
 | 5 | Beluga Heights |
 | 5 | Atlantic Records UK |
@@ -202,7 +190,6 @@
 | 1 | Giant Little Man |
 | 1 | Fueled By Ramen |
 | 1 | EMPIRE |
-| 1 | [Def Jam Recordings](../labels/def_jam_recordings.md) |
 | 1 | Decaydance |
 | 1 | Colour Vision Records |
 | 1 | Capitol Records (US1A) |
@@ -221,13 +208,13 @@
 | Sally Walker (0.905) | Never Enough (0.189) |
 | Coño (0.899) | Already Gone (0.209) |
 | Worth It (feat. Kid Ink) (0.884) | I See the Light - From "Tangled" / Soundtrack Version (0.281) |
-| (I Got That) Boom Boom (feat. Ying Yang Twins) (0.864) | Jar of Hearts (0.349) |
-| Bubblegum (feat. Tyga) (0.856) | My Happy Ending (0.414) |
-| I'm a Slave 4 U (0.847) | Stone Cold (0.419) |
-| Sucker (0.842) | Consequences (0.455) |
-| Cravin (feat. G-Eazy) (0.834) | Lost in Japan (0.456) |
-| Rather Be (feat. Jess Glynne) (0.799) | Sk8er Boi (0.487) |
-| Low Key (feat. Tyga) (0.79) | Heart Attack (0.504) |
+| Bubblegum (feat. Tyga) (0.856) | Jar of Hearts (0.349) |
+| Sucker (0.842) | My Happy Ending (0.414) |
+| Rather Be (feat. Jess Glynne) (0.799) | Stone Cold (0.419) |
+| Low Key (feat. Tyga) (0.79) | Consequences (0.455) |
+| Call Me Maybe (0.783) | Lost in Japan (0.456) |
+| Tick Tock (feat. 24kGoldn) (0.779) | Sk8er Boi (0.487) |
+| Black Magic (0.776) | Heart Attack (0.504) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -238,9 +225,9 @@
 | Black Magic (0.875) | Never Enough (0.395) |
 | Good Girls Go Bad (feat. Leighton Meester) (0.874) | When Will My Life Begin? - From "Tangled" / Soundtrack Version (0.42) |
 | Already Gone (0.872) | Slow Hands (0.425) |
-| (I Got That) Boom Boom (feat. Ying Yang Twins) (0.87) | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" (0.451) |
-| Baby, I'm Jealous (feat. Doja Cat) (0.867) | Stone Cold (0.453) |
-| Break My Heart Myself (feat. Travis Barker) (0.857) | Put A Little Love On Me (0.465) |
+| Baby, I'm Jealous (feat. Doja Cat) (0.867) | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" (0.451) |
+| Break My Heart Myself (feat. Travis Barker) (0.857) | Stone Cold (0.453) |
+| Power (0.855) | Put A Little Love On Me (0.465) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -248,12 +235,12 @@
 | bad guy (0.384) | One Step At a Time (0.0289) |
 | Bubblegum (feat. Tyga) (0.34) | Good Ones (0.0293) |
 | Trumpets (0.258) | My Oh My (feat. DaBaby) (0.0296) |
-| Cravin (feat. G-Eazy) (0.246) | Havana (feat. Young Thug) (0.03) |
-| Talk Dirty (feat. 2 Chainz) (0.232) | I See the Light - From "Tangled" / Soundtrack Version (0.0305) |
-| Candyman (0.23) | ...Baby One More Time (0.0307) |
+| Talk Dirty (feat. 2 Chainz) (0.232) | Havana (feat. Young Thug) (0.03) |
+| Candyman (0.23) | I See the Light - From "Tangled" / Soundtrack Version (0.0305) |
 | Power (0.211) | Because of You (0.0314) |
 | Price Tag (0.182) | Jar of Hearts (0.0316) |
 | Coño (0.181) | When Will My Life Begin? - From "Tangled" / Soundtrack Version (0.0317) |
+| Don't Call Me Up (0.147) | Who You Are (0.0336) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -266,43 +253,43 @@
 | Trumpets (0.555) | Call Me Maybe (0.0114) |
 | Stone Cold (0.539) | Good Girls Go Bad (feat. Leighton Meester) (0.0116) |
 | Blueberry Eyes (feat. SUGA of BTS) (0.454) | Candyman (0.0125) |
-| I'm a Slave 4 U (0.415) | Youngblood (0.0169) |
+| Good Thing (with Kehlani) (0.399) | Youngblood (0.0169) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Toxic (0.025) | Sk8er Boi (0.0) |
-| Candyman (0.0147) | When Will My Life Begin? - From "Tangled" / Soundtrack Version (0.0) |
-| Coño (0.0101) | React (0.0) |
-| Blueberry Eyes (feat. SUGA of BTS) (0.000922) | TiK ToK (0.0) |
-| Never Be the Same (0.000637) | Jar of Hearts (0.0) |
-| Work Bitch (0.000628) | Lost in Japan (0.0) |
-| Power (0.000157) | Bubblegum (feat. Tyga) (0.0) |
-| I'm a Slave 4 U (0.000134) | Heart Attack (0.0) |
-| ...Baby One More Time (0.000131) | Sally Walker (0.0) |
-| Solo (feat. Demi Lovato) (6.66e-05) | Put A Little Love On Me (0.0) |
+| Candyman (0.0147) | Sk8er Boi (0.0) |
+| Coño (0.0101) | When Will My Life Begin? - From "Tangled" / Soundtrack Version (0.0) |
+| Blueberry Eyes (feat. SUGA of BTS) (0.000922) | React (0.0) |
+| Never Be the Same (0.000637) | TiK ToK (0.0) |
+| Power (0.000157) | Jar of Hearts (0.0) |
+| Solo (feat. Demi Lovato) (6.66e-05) | Lost in Japan (0.0) |
+| Havana (feat. Young Thug) (3.56e-05) | Bubblegum (feat. Tyga) (0.0) |
+| That's My Girl (3.19e-05) | Heart Attack (0.0) |
+| Symphony (feat. Zara Larsson) (1.41e-05) | Sally Walker (0.0) |
+| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" (1.3e-05) | Put A Little Love On Me (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
 | Good Girls Go Bad (feat. Leighton Meester) (0.549) | One Step At a Time (0.0384) |
-| (I Got That) Boom Boom (feat. Ying Yang Twins) (0.508) | Good Thing (with Kehlani) (0.0409) |
-| ...Baby One More Time (0.443) | Lost in Japan (0.0508) |
-| Rockabye (feat. Sean Paul & Anne-Marie) (0.398) | If U Seek Amy (0.0523) |
-| Bang Bang (0.396) | Slow Hands (0.055) |
-| My Happy Ending (0.369) | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (0.0585) |
-| That's My Girl (0.365) | Meant to Be (feat. Florida Georgia Line) (0.0646) |
-| Living Proof (0.359) | Work Bitch (0.0651) |
+| Rockabye (feat. Sean Paul & Anne-Marie) (0.398) | Good Thing (with Kehlani) (0.0409) |
+| Bang Bang (0.396) | Lost in Japan (0.0508) |
+| My Happy Ending (0.369) | Slow Hands (0.055) |
+| That's My Girl (0.365) | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (0.0585) |
+| Living Proof (0.359) | Meant to Be (feat. Florida Georgia Line) (0.0646) |
 | Sk8er Boi (0.358) | Good For You (0.069) |
-| Oops!...I Did It Again (0.355) | I See the Light - From "Tangled" / Soundtrack Version (0.0725) |
+| Solo (feat. Demi Lovato) (0.35) | I See the Light - From "Tangled" / Soundtrack Version (0.0725) |
+| Señorita (0.338) | Already Gone (0.0768) |
+| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" (0.325) | Don't Call Me Up (0.0793) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| I'm a Slave 4 U (0.963) | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" (0.0862) |
-| Sucker (0.952) | Jar of Hearts (0.0886) |
-| Tick Tock (feat. 24kGoldn) (0.946) | Because of You (0.136) |
-| Toxic (0.924) | Youngblood (0.152) |
-| ...Baby One More Time (0.907) | I See the Light - From "Tangled" / Soundtrack Version (0.169) |
-| Oops!...I Did It Again (0.894) | Good For You (0.215) |
-| Work Bitch (0.852) | Who You Are (0.215) |
-| Black Magic (0.849) | Don't Call Me Up (0.234) |
-| Slow Hands (0.848) | Womanizer (0.235) |
-| (I Got That) Boom Boom (feat. Ying Yang Twins) (0.837) | Never Enough (0.242) |
+| Sucker (0.952) | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" (0.0862) |
+| Tick Tock (feat. 24kGoldn) (0.946) | Jar of Hearts (0.0886) |
+| Black Magic (0.849) | Because of You (0.136) |
+| Slow Hands (0.848) | Youngblood (0.152) |
+| Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (0.824) | I See the Light - From "Tangled" / Soundtrack Version (0.169) |
+| Rockabye (feat. Sean Paul & Anne-Marie) (0.792) | Good For You (0.215) |
+| Good Ones (0.789) | Who You Are (0.215) |
+| Swalla (feat. Nicki Minaj & Ty Dolla $ign) (0.782) | Don't Call Me Up (0.234) |
+| Bubblegum (feat. Tyga) (0.77) | Never Enough (0.242) |
+| Talk Dirty (feat. 2 Chainz) (0.759) | Never Be the Same (0.243) |

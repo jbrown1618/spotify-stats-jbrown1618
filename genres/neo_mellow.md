@@ -1,16 +1,16 @@
 # neo mellow
 
-[97 songs](neo_mellow_tracks.md)
+[94 songs](neo_mellow_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 23 artists](../images/genres/neo_mellow/artists.png)
+![Bar chart of top 21 artists](../images/genres/neo_mellow/artists.png)
 
 ![Comparison of Artist](../images/genres/neo_mellow/artists_comparison.png)
 
 
 <details>
-<summary>See all 23 artists</summary>
+<summary>See all 21 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -18,13 +18,11 @@
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb271320bcc15789b23aa83a44" alt="" width="50" /> | Erin McCarley | [🔗](https://open.spotify.com/artist/6Y4bCmUNPDKqc7dHkVvgim) |
 | 7 | <img src="https://i.scdn.co/image/15b7ee7550ed4472700d573803ff90f2967f84d1" alt="" width="50" /> | A Fine Frenzy | [🔗](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8457f57bc526c37bd804b924" alt="" width="50" /> | KT Tunstall | [🔗](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) |
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebaed3c717bf1753ab928ea88d" alt="" width="50" /> | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | Jason Mraz | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eba5fc004270bdfc9fee7f55f4" alt="" width="50" /> | Jon McLaughlin | [🔗](https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae8ba82eaf7e63af515c9f" alt="" width="50" /> | The Civil Wars | [🔗](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf01bf904b446e4a043acb867" alt="" width="50" /> | The Script | [🔗](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9bbbc124c9f0f75af892d97d" alt="" width="50" /> | Christina Perri | [🔗](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) |
-| 1 | <img src="https://i.scdn.co/image/5c8d57d92825466637905f0d4219064cb39333e9" alt="" width="50" /> | André 3000 | [🔗](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9bc0756eb16b241111bbc72b" alt="" width="50" /> | Colbie Caillat | [🔗](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb46416642da7b30327821d26e" alt="" width="50" /> | A Great Big World | [🔗](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) |
 | 1 | <img src="https://i.scdn.co/image/2d695c3269ba763e82b0a24789bc59d92834b125" alt="" width="50" /> | Gary Jules | [🔗](https://open.spotify.com/artist/5oRnbmgqvvq7fVlgk4vcEa) |
@@ -42,11 +40,11 @@
 
 ## Top Albums
 
-![Bar chart of top 30 albums](../images/genres/neo_mellow/albums.png)
+![Bar chart of top 27 albums](../images/genres/neo_mellow/albums.png)
 
 
 <details>
-<summary>See all 30 albums</summary>
+<summary>See all 27 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -65,16 +63,13 @@
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2737ebde0a5bb07f53a99c15224" alt="" width="50" /> | Barton Hollow | 2011-02-01 | [🔗](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27326a2f5224465a369f8abbf88" alt="" width="50" /> | lovestrong. | 2011-05-10 | [🔗](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737948eec521c67e76cafe30a0" alt="" width="50" /> | Trading Snakeoil for Wolftickets | 2001-01-01 | [🔗](https://open.spotify.com/album/1OydCrx4m7fguwcX4stR9z) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273c8245ce2a727675a0a232b2f" alt="" width="50" /> | Preach | 2019-02-15 | [🔗](https://open.spotify.com/album/32r4o1R9a1lK5DoVXGEC7E) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732cf1dcc65396176307f23524" alt="" width="50" /> | PINES | 2012-01-01 | [🔗](https://open.spotify.com/album/1876e9QcHkJ3Hgo4NqKXBN) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735da1093d047cc15eb66d27cf" alt="" width="50" /> | OK Now | 2008-01-01 | [🔗](https://open.spotify.com/album/3fKJJQFV6a61fnKYDDj2LU) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27394c9217a398f5174757c0c78" alt="" width="50" /> | Love In The Future (Expanded Edition) | 2013-08-30 | [🔗](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739f48d446654c7b8b9b7bc58b" alt="" width="50" /> | Little Love - EP | 2018-06-01 | [🔗](https://open.spotify.com/album/2PLM1yTphJeFZg01Xiaumc) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273260e2444b3431b3b8b559bc3" alt="" width="50" /> | Jordin Sparks | 2007-11-20 | [🔗](https://open.spotify.com/album/6JCNOvp9UeMrFuXwNW0JW6) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273554488d0c51967b1654d8ce5" alt="" width="50" /> | Is There Anybody Out There? | 2014-01-20 | [🔗](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27327c371084dee1b83e614798d" alt="" width="50" /> | Indiana | 2007-01-01 | [🔗](https://open.spotify.com/album/2UpO4j1Zpptiwk3wbUIWmU) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f" alt="" width="50" /> | Eyes Open | 2006-01-01 | [🔗](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d70bbffa859a9f9ca6f10496" alt="" width="50" /> | Evolver | 2008-10-27 | [🔗](https://open.spotify.com/album/11sKu4dBGvmEZTuVw9EC9A) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731ec9b096319afbcc2dca6879" alt="" width="50" /> | Corinne Bailey Rae | 2006-01-01 | [🔗](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27309ec47c2a2173e984d8461e9" alt="" width="50" /> | Chariot - Stripped | 2004-07-26 | [🔗](https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737cdb143bd2e9906d39c5eb04" alt="" width="50" /> | Carencro | 2004-08-03 | [🔗](https://open.spotify.com/album/15dP7BadtY55t9VvFlVrBA) |
@@ -86,30 +81,29 @@
 
 ## Top Record Labels
 
-![Bar chart of top 17 record labels](../images/genres/neo_mellow/labels.png)
+![Bar chart of top 16 record labels](../images/genres/neo_mellow/labels.png)
 
 
 <details>
-<summary>See all 17 labels</summary>
+<summary>See all 16 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
 | 62 | [Epic](../labels/epic.md) |
 | 10 | [Virgin Records](../labels/virgin_records.md) |
 | 7 | Universal (MT) |
-| 4 | [Columbia](../labels/columbia.md) |
 | 3 | Relentless |
 | 3 | [Atlantic Records](../labels/atlantic_records.md) |
 | 2 | sensibility recordings |
 | 2 | Phonogenic |
 | 2 | Island Def Jam |
-| 2 | G.O.O.D. Music |
 | 2 | EMI |
 | 2 | ATG |
 | 1 | [Polydor Records](../labels/polydor_records.md) |
 | 1 | J Records |
 | 1 | Island Records |
 | 1 | Down Up Down Music |
+| 1 | [Columbia](../labels/columbia.md) |
 | 1 | 19 Recordings Limited |
 
 </details>
@@ -134,27 +128,27 @@
 |:---|:---|
 | Hello/Goodbye (0.893) | Kaleidoscope Heart (0.0516) |
 | Bad Idea (feat. Jason Mraz) (0.889) | Mad World (0.0585) |
-| Green Light (feat. André 3000) (0.882) | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 (0.114) |
-| Morningside (0.88) | Say Something (0.147) |
-| SleepWalking (0.874) | Manhattan (0.168) |
-| Let The Rain (0.873) | Bright Lights and Cityscapes (0.184) |
-| Love, Save The Empty (0.865) | Poison & Wine (0.186) |
-| Bobble Head (0.862) | Bluebird (0.203) |
-| Fairytale (0.857) | Once Upon Another Time (0.216) |
-| Brave (0.836) | Just The Way You Are (0.218) |
+| Morningside (0.88) | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 (0.114) |
+| SleepWalking (0.874) | Say Something (0.147) |
+| Let The Rain (0.873) | Manhattan (0.168) |
+| Love, Save The Empty (0.865) | Bright Lights and Cityscapes (0.184) |
+| Bobble Head (0.862) | Poison & Wine (0.186) |
+| Fairytale (0.857) | Bluebird (0.203) |
+| Brave (0.836) | Once Upon Another Time (0.216) |
+| Industry (0.831) | Just The Way You Are (0.218) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Home (0.128) | Satellite Call (0.0241) |
 | Electric Twist (0.125) | Breakeven (0.0242) |
-| Green Light (feat. André 3000) (0.119) | Whisper (0.0252) |
-| Opening Up (0.0936) | Pitter-Pat (0.0256) |
-| Kaleidoscope Heart (0.0927) | Machine Gun (0.0268) |
-| Come Round Soon (0.0776) | Orpheus (0.0269) |
-| Bad Idea (feat. Jason Mraz) (0.0704) | Chasing Cars (0.0274) |
-| Black Horse And The Cherry Tree (0.0641) | Sweet As Whole (0.0275) |
-| Fire (0.057) | Breathe Again (0.0278) |
-| Eden (0.0562) | The Man Who Can't Be Moved (0.0279) |
+| Opening Up (0.0936) | Whisper (0.0252) |
+| Kaleidoscope Heart (0.0927) | Pitter-Pat (0.0256) |
+| Come Round Soon (0.0776) | Machine Gun (0.0268) |
+| Bad Idea (feat. Jason Mraz) (0.0704) | Orpheus (0.0269) |
+| Black Horse And The Cherry Tree (0.0641) | Chasing Cars (0.0274) |
+| Fire (0.057) | Sweet As Whole (0.0275) |
+| Eden (0.0562) | Breathe Again (0.0278) |
+| Little Black Dress (0.0554) | The Man Who Can't Be Moved (0.0279) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -164,10 +158,10 @@
 | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 (0.959) | Vegas (0.00881) |
 | Almost Lover (0.947) | Bad Idea (feat. Jason Mraz) (0.0168) |
 | Bluebird (0.933) | Wicked Love (0.0178) |
-| All of Me (0.922) | Gonna Get Over You (0.0199) |
-| What's Inside (0.919) | Love Song (0.0208) |
-| Just The Way You Are (0.906) | It's Not That Easy (0.0225) |
-| Once Upon Another Time (0.896) | Let The Rain (0.023) |
+| What's Inside (0.919) | Gonna Get Over You (0.0199) |
+| Just The Way You Are (0.906) | Love Song (0.0208) |
+| Once Upon Another Time (0.896) | It's Not That Easy (0.0225) |
+| Miss Simone (0.859) | Let The Rain (0.023) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|

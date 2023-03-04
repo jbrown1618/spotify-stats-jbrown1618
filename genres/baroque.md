@@ -28,7 +28,7 @@
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273011ad120d2b19f16f59a8aaf" alt="" width="50" /> | Elizabeth Wilcock | [🔗](https://open.spotify.com/artist/1OfYCRcS14pyRVrO0qTCbs) |
 | 2 | <img src="https://i.scdn.co/image/b1e56021e0af6da7c4dad6e677318c716f66a4c3" alt="" width="50" /> | Henry Purcell | [🔗](https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq) |
 | 1 | <img src="https://i.scdn.co/image/ebdcb255475d7204204576d18490994fb62a8413" alt="" width="50" /> | Capriccio Stravagante | [🔗](https://open.spotify.com/artist/7Hb8ewIvJmuQPAQ5MMVXJE) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273403c6354f063a714a74519fb" alt="" width="50" /> | Joseph Jennings | [🔗](https://open.spotify.com/artist/5A3ntUGTCKttzOwkoF9AUY) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731d545eb09b0a77531ccef472" alt="" width="50" /> | Joseph Jennings | [🔗](https://open.spotify.com/artist/5A3ntUGTCKttzOwkoF9AUY) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6d81612f113bff8713ef6975" alt="" width="50" /> | Chanticleer | [🔗](https://open.spotify.com/artist/4p6DfIA6NnKmWeRgDJPLT0) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb31012b4fbdb04b01943efb2" alt="" width="50" /> | The Choir Of Trinity College, Cambridge | [🔗](https://open.spotify.com/artist/3x8rZy1i6FwWOWKwfRT1Ab) |
 | 1 | <img src="https://i.scdn.co/image/e2930a243565b3a9675ef0943ba181f28c780109" alt="" width="50" /> | Skip Sempé | [🔗](https://open.spotify.com/artist/3DSclbx4DSkyIvouHCxHHZ) |
