@@ -96,7 +96,7 @@
 | 13 Preludes, Op. 32: No. 3 in E Major: Allegro vivace (0.437) | String Quartet in G Minor, Op. 10: III. Andantino, doucement expressif (0.0623) |
 | 13 Preludes, Op. 32: No. 8 in A Minor: Vivo (0.428) | La Mer, L.109: 1. From Dawn Till Noon On The Sea (De l'aube à midi sur la mer) (0.0633) |
 | Morceaux de fantaisie, Op. 3: No. 2, Prelude in C-Sharp Minor (0.423) | Vespers, Op. 37: XII. "Slava v vyshnikh Bogu" (0.0636) |
-| 13 Preludes, Op. 32: No. 11 in B Major: Allegretto (0.414) | Requiem in D Minor, Op. 48: 2. Offertorium: Domine Jesu Christe (0.0668) |
+| 13 Preludes, Op. 32: No. 11 in B Major: Allegretto (0.414) | Requiem in D Minor, Op. 48: II. Offertorium. Domine Jesu Christe (0.0668) |
 | 10 Preludes, Op. 23: No. 10 in G-Flat Major: Largo (0.414) | Vespers, Op. 37: V. "Nyne otpushchayeshi" (0.0806) |
 | String Quartet in G Minor, Op. 10: II. Assez vif et bien rythmé (0.412) | The Planets, Op. 32: 2. Venus, the Bringer of Peace (0.0864) |
 | Children's Corner, L. 113: III. Golliwogg's Cake-Walk (0.398) | La Mer, L.109: 3. Dialogue Of The Wind And The Sea (0.0986) |
@@ -146,8 +146,8 @@
 |:---|:---|
 | Vespers, Op. 37: XIV. "Voskrez iz groba" (0.98) | Vespers, Op. 37: II. "Blagoslovi dushe moya" (0.0731) |
 | Vespers, Op. 37: VI. "Bogoroditse Devo" (0.979) | Vespers, Op. 37: XV. "Vzbrannoy voevode" (0.26) |
-| Requiem in D Minor, Op. 48: 7. In paradisum (0.971) | Quatuor en Fa Majeur, M. 35: II. Assez vif, très rythmé (0.326) |
-| Requiem in D Minor, Op. 48: 3. Sanctus (0.953) | Vespers, Op. 37: VIII. "Kvalite imya Gospodne" (0.352) |
+| Requiem in D Minor, Op. 48: VII. In Paradisum (0.971) | Quatuor en Fa Majeur, M. 35: II. Assez vif, très rythmé (0.326) |
+| Requiem in D Minor, Op. 48: III. Sanctus (0.953) | Vespers, Op. 37: VIII. "Kvalite imya Gospodne" (0.352) |
 | Estampes, L. 100: Jardins sous La Pluie (0.948) | Vespers, Op. 37: IX. "Blagosloven esi, Gospodi" (0.379) |
 | Études, L. 136: I. Pour les Arpeges Composes (0.946) | Quatuor en Fa Majeur, M. 35: III. Très lent (0.404) |
 | Children's Corner, L. 113: I. Doctor Gradus ad Parnassum (0.946) | Préludes Book 2, L. 123: III. Feux d'Artifice (0.435) |
@@ -160,7 +160,7 @@
 | The Planets, Op. 32: 4. Jupiter, the Bringer of Jollity (0.314) | 13 Preludes, Op. 32: No. 7 in F Major: Moderato (0.0533) |
 | The Planets, Op. 32: 6. Uranus, the Magician (0.233) | Piano Concerto No. 2 in C Minor, Op. 18: 2. Adagio sostenuto (0.0551) |
 | Children's Corner, L. 113: III. Golliwogg's Cake-Walk (0.192) | Préludes Book 2, L. 123: II. Canope (0.0553) |
-| Quatuor en Fa Majeur, M. 35: IV. Vif et agité (0.19) | Requiem in D Minor, Op. 48: 7. In paradisum (0.0565) |
+| Quatuor en Fa Majeur, M. 35: IV. Vif et agité (0.19) | Requiem in D Minor, Op. 48: VII. In Paradisum (0.0565) |
 | The Planets, Op. 32: 1. Mars, the Bringer of War (0.154) | Préludes Book 1, L. 117: I. Des Pas sur La Neige (0.0588) |
 | Quatuor en Fa Majeur, M. 35: II. Assez vif, très rythmé (0.147) | Images, Set 2, L. 111: et la Lune descend sur le Temple qui fut (0.0589) |
 | 10 Preludes, Op. 23: No. 9 in E-Flat Minor: Presto (0.145) | The Planets, Op. 32: 7. Neptune, the Mystic (0.0614) |
@@ -174,9 +174,9 @@
 | 13 Preludes, Op. 32: No. 3 in E Major: Allegro vivace (0.345) | The Planets, Op. 32: 7. Neptune, the Mystic (0.0305) |
 | The Planets, Op. 32: 4. Jupiter, the Bringer of Jollity (0.279) | The Planets, Op. 32: 5. Saturn, the Bringer of Old Age (0.0316) |
 | 13 Preludes, Op. 32: No. 8 in A Minor: Vivo (0.27) | String Quartet in G Minor, Op. 10: III. Andantino, doucement expressif (0.0317) |
-| 10 Preludes, Op. 23: No. 2 in B-Flat Major: Maestoso (0.268) | Requiem in D Minor, Op. 48: 1. Introitus: Requiem aeternam - Kyrie (0.0321) |
+| 10 Preludes, Op. 23: No. 2 in B-Flat Major: Maestoso (0.268) | Requiem in D Minor, Op. 48: I. Introitus. Requiem aeternam - Kyrie (0.0321) |
 | String Quartet in G Minor, Op. 10: II. Assez vif et bien rythmé (0.24) | Préludes Book 2, L. 123: III. Feux d'Artifice (0.0327) |
-| Préludes Book 2, L. 123: I. General Lavine (0.223) | Requiem in D Minor, Op. 48: 4. Pie Jesu (0.0329) |
+| Préludes Book 2, L. 123: I. General Lavine (0.223) | Requiem in D Minor, Op. 48: IV. Pie Jesu (0.0329) |
 | Préludes Book 1, L. 117: IV. Minstrels (0.215) | Vespers, Op. 37: IV. "Svete tikhyi" (0.0331) |
 | 13 Preludes, Op. 32: No. 6 in F Minor: Allegro appassionato (0.209) | Images, Set 1, L. 110: Reflets dans L'eau (0.0331) |
 | 10 Preludes, Op. 23: No. 9 in E-Flat Minor: Presto (0.203) | Préludes Book 1, L. 117: II. Ce qu'a vu Le Vent d'Ouest (0.0333) |

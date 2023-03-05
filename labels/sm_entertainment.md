@@ -1,9 +1,9 @@
 # SM Entertainment
 
-229 songs
+230 songs
 
 Appears as:
-- SM Entertainment (227 tracks)
+- SM Entertainment (228 tracks)
 - MYSTIC ENTERTAINMENT, ChoongangICS, SM ENTERTAINMENT, JYP ENTERTAINMENT (1 tracks)
 - SM Entertainment/Capitol Records (1 tracks)
 
@@ -21,7 +21,7 @@ Appears as:
 | 21 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 | 15 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d874b307cb092e68db73207" alt="" width="50" /> | [NCT 127](../artists/nct_127.md) | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
 | 13 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | [Girls' Generation](../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
-| 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="" width="50" /> | [EXO](../artists/exo.md) | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
+| 12 | <img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="" width="50" /> | [EXO](../artists/exo.md) | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../artists/aespa.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bd65b0efee10bfa8328c33b" alt="" width="50" /> | NCT U | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb64aa2c83dd30331b56ffddf3" alt="" width="50" /> | NCT DREAM | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
@@ -48,7 +48,7 @@ Appears as:
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebde86b23f43ae56fff22a0ac9" alt="" width="50" /> | JENO | [🔗](https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb298c8d8c79799a376e1886fa" alt="" width="50" /> | GISELLE | [🔗](https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8166baa6c8c9a5d1dbc41b5" alt="" width="50" /> | JOY | [🔗](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdf599057fc4881950c71d18" alt="" width="50" /> | ONEW | [🔗](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb91be5c05f2c9ba78b4091669" alt="" width="50" /> | ONEW | [🔗](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eba60ea8fce338724271ae273e" alt="" width="50" /> | Play-N-Skillz | [🔗](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9426413cf033b2e0eedfeff6" alt="" width="50" /> | Girls' Generation-TTS | [🔗](https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8148c70083a66b71b6e370e4" alt="" width="50" /> | MARK | [🔗](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) |
@@ -186,6 +186,7 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27390ad9f6d2ba8838a689999cc" alt="" width="50" /> | Lucifer - The 2nd Album | 2010-07-19 | [🔗](https://open.spotify.com/album/4jNPKKJ0NL349RXPx7y9f4) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27370c0e8d50872004adc791ef2" alt="" width="50" /> | Love Theory - SM STATION | 2022-04-14 | [🔗](https://open.spotify.com/album/2i27IzG4jFQjX7pS5L6TIu) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737ce0130c09547c733984ba0e" alt="" width="50" /> | Lion Heart - The 5th Album | 2015-08-19 | [🔗](https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273aab7f1de2a5fccba3b095574" alt="" width="50" /> | LOVE ME RIGHT - The 2nd Album Repackage | 2015-06-03 | [🔗](https://open.spotify.com/album/2tSO8aEYf5YvpwmvvrOWH7) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b2d6f89ff16623f1038ca466" alt="" width="50" /> | Killer - The 2nd Album Repackage | 2023-02-13 | [🔗](https://open.spotify.com/album/4l5BZ4tjisNEvwVa1rXDEv) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27337ff46852249bdfc938beefa" alt="" width="50" /> | KAI - The 1st Mini Album | 2020-11-30 | [🔗](https://open.spotify.com/album/6xpxMAUhk8hiDTa5zT7F86) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273fd1f3849aaaf15112389a725" alt="" width="50" /> | I GOT A BOY - The 4th Album | 2013-01-01 | [🔗](https://open.spotify.com/album/3uhihQCm9aSvdJmDXcVrvi) |
@@ -193,7 +194,6 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ee58f0e04b175603c1f56668" alt="" width="50" /> | Holiday Night - The 6th Album | 2017-08-04 | [🔗](https://open.spotify.com/album/5MQM8Jw1FvT21Dny8cOXjF) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732159a29c68303b4b0076b741" alt="" width="50" /> | Highway to Heaven (English Version) | 2019-07-18 | [🔗](https://open.spotify.com/album/4et1GgNRTOx3xpK81Z0iOn) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273e6d118f2ad157bf0bbfb83cf" alt="" width="50" /> | Hello Future - The 1st Album Repackage | 2021-06-28 | [🔗](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273fb49e8c96b502707c691b3a3" alt="" width="50" /> | Happy | 2020-05-04 | [🔗](https://open.spotify.com/album/1nPB6o7EjGvUORXlnioEPk) |
 
 </details>
 
@@ -208,9 +208,9 @@ Appears as:
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 217 | [k-pop](../genres/k_pop.md) |
+| 218 | [k-pop](../genres/k_pop.md) |
 | 85 | [k-pop girl group](../genres/k_pop_girl_group.md) |
-| 57 | [k-pop boy group](../genres/k_pop_boy_group.md) |
+| 58 | [k-pop boy group](../genres/k_pop_boy_group.md) |
 | 20 | [pop](../genres/pop.md) |
 | 9 | [korean pop](../genres/korean_pop.md) |
 | 1 | korean r&b |
@@ -244,6 +244,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Jet | 2022 Winter SMTOWN : SMCU PALACE | EUNHYUK, HYO, TAEYONG, JAEMIN, SUNGCHAN, WINTER, GISELLE | [SM Entertainment](sm_entertainment.md) | | [🔗](https://open.spotify.com/track/7F0KfW5f4rWm503sbAuVeW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732795c34a8931367a0916de54" alt="" width="50" /> | Growl | The 1st Album 'XOXO' (Repackage) | [EXO](../artists/exo.md) | [SM Entertainment](sm_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/4pi0Elz7B7cLfw37J3bYm9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8b83bc0fb25c1526113ce86" alt="" width="50" /> | CALL ME BABY | EXODUS - The 2nd Album | [EXO](../artists/exo.md) | [SM Entertainment](sm_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/6Rx0ORYPP3GH9rTvGS5Vy8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aab7f1de2a5fccba3b095574" alt="" width="50" /> | LOVE ME RIGHT | LOVE ME RIGHT - The 2nd Album Repackage | [EXO](../artists/exo.md) | [SM Entertainment](sm_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/1kFevEv3s7Gf6o5xSDR5DL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27315a67578922d65121b12073d" alt="" width="50" /> | Monster | EX'ACT | [EXO](../artists/exo.md) | [SM Entertainment](sm_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/7GbUWl6qLW1gdngbEV2WDJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b787b5b8c27a5dbd360c0f59" alt="" width="50" /> | Ko Ko Bop | THE WAR - The 4th Album | [EXO](../artists/exo.md) | [SM Entertainment](sm_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/5EzitieoPnjyKHAq0gfRMa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b787b5b8c27a5dbd360c0f59" alt="" width="50" /> | The Eve | THE WAR - The 4th Album | [EXO](../artists/exo.md) | [SM Entertainment](sm_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/2ujA6F1cpk3m8lsPE5aKua) |

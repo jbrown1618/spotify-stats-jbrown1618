@@ -47,7 +47,7 @@
 | 1 | <img src="nan" alt="" width="50" /> | Billy Bletcher | [🔗](https://open.spotify.com/artist/7MCVs8C2nykvXVyTyrUoVd) |
 | 1 | <img src="nan" alt="" width="50" /> | Beth Fowler | [🔗](https://open.spotify.com/artist/7KNW6OwcA260MsaEtnvhxV) |
 | 1 | <img src="nan" alt="" width="50" /> | Harvey Fierstein | [🔗](https://open.spotify.com/artist/7G6zawIBBtDX1WvuT97Ei9) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731146bf7a29f32810eff43bec" alt="" width="50" /> | Laura Williams | [🔗](https://open.spotify.com/artist/6wIj7GdxBjFtw6ySpzazwo) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732b29519ab1c69f4bb6028571" alt="" width="50" /> | Laura Williams | [🔗](https://open.spotify.com/artist/6wIj7GdxBjFtw6ySpzazwo) |
 | 1 | <img src="nan" alt="" width="50" /> | Agatha Lee Monn | [🔗](https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp) |
 | 1 | <img src="https://i.scdn.co/image/f18d69d006ccd5bce40592da9c8b244ed5814070" alt="" width="50" /> | Jeremy Irons | [🔗](https://open.spotify.com/artist/6QRb3jE2lCfMU1iUuVQMaV) |
 | 1 | <img src="https://i.scdn.co/image/f372f0bc303e9ebbcc49227f256428d52961ab9f" alt="" width="50" /> | Carmen Twillie | [🔗](https://open.spotify.com/artist/6O3ZB5Cz5CNT3wQWouKcNJ) |
@@ -147,11 +147,11 @@
 
 ## Genres
 
-![Bar chart of top 28 genres](../../images/playlists/disney/genres.png)
+![Bar chart of top 29 genres](../../images/playlists/disney/genres.png)
 
 
 <details>
-<summary>See all 28 genres</summary>
+<summary>See all 29 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -160,6 +160,7 @@
 | 16 | [show tunes](../../genres/show_tunes.md) |
 | 5 | tagalog worship |
 | 2 | [post-teen pop](../../genres/post_teen_pop.md) |
+| 2 | [pop](../../genres/pop.md) |
 | 2 | [dance pop](../../genres/dance_pop.md) |
 | 2 | comedy |
 | 2 | [adult standards](../../genres/adult_standards.md) |

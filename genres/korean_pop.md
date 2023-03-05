@@ -10,7 +10,7 @@
 
 
 <details>
-<summary>See all 31 artists</summary>
+<summary>See all 32 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -20,13 +20,14 @@
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273aae78727e396da9f03032eda" alt="" width="50" /> | Lee Mujin | [🔗](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8aec4284aed8bb502a411043" alt="" width="50" /> | AILEE | [🔗](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb91b559bd00fca9a0a91e5a9c" alt="" width="50" /> | MeloMance | [🔗](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb28f845b9a1c6e8bccb255f0c" alt="" width="50" /> | Yerin Baek | [🔗](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | [IU](../artists/iu.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb64c106fb76ead20ba05a5461" alt="" width="50" /> | Sandeul | [🔗](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb859ec6575be3cfe1a86b2cb0" alt="" width="50" /> | Sunwoojunga | [🔗](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe82185df85c3b8d172f1f4a7" alt="" width="50" /> | Junggigo | [🔗](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb28f845b9a1c6e8bccb255f0c" alt="" width="50" /> | Yerin Baek | [🔗](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | BIBI | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1b6966cc5bb31edcab435911" alt="" width="50" /> | Younha | [🔗](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb18f53034a71f23a550f0d39a" alt="" width="50" /> | Onestar | [🔗](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebaed3c717bf1753ab928ea88d" alt="" width="50" /> | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1509ea5c5453d5edba050412" alt="" width="50" /> | Hong Jin Young | [🔗](https://open.spotify.com/artist/5LwiBgLTllBUiqQGNiQ7jY) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5c9eb01fd34c0a998913ae60" alt="" width="50" /> | Zion.T | [🔗](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) |
@@ -77,7 +78,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273470483222eb038c3b60e71f6" alt="" width="50" /> | Slightly Tipsy (She is My Type♡ X SANDEUL) | 2020-07-20 | [🔗](https://open.spotify.com/album/2bal48tjyi26OAxY2KxwFL) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a4534c642e6939abd0a1a867" alt="" width="50" /> | Serenade | 2019-12-12 | [🔗](https://open.spotify.com/album/2McJE8dHLru3MgR1bcxdyF) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27378551e802bd7b81d7af67dfb" alt="" width="50" /> | PLAY | 2014-04-07 | [🔗](https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d9d96c4e842930a7022f7447" alt="" width="50" /> | Our Love is Great | 2019-03-18 | [🔗](https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27355d0265cc488deebe40d79a6" alt="" width="50" /> | NEXT EPISODE | 2021-07-26 | [🔗](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ea8b444d9bac4765e069b31b" alt="" width="50" /> | Miracle - SM STATION | 2023-01-26 | [🔗](https://open.spotify.com/album/54O0kItm5ej0HThVMIv5hF) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f259431ac3c0458143ce0d53" alt="" width="50" /> | Lyricist | 2020-06-10 | [🔗](https://open.spotify.com/album/6igUyuDlRCyjoTtPXui6bT) |
@@ -90,6 +90,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273688707e08ae4799421936329" alt="" width="50" /> | Hotel del Luna (Original Television Soundtrack) Pt.12 | 2019-08-18 | [🔗](https://open.spotify.com/album/6iNbnT79OJu9C5j5ZZLQvZ) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273cd99a47e4804c82e3812e901" alt="" width="50" /> | HOSPITAL PLAYLIST Season2 (Original Television Soundtrack), Pt. 1 | 2021-06-18 | [🔗](https://open.spotify.com/album/2pJhtrlZZvxFi818EMvKAY) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273168258bceeef84be1d0c9301" alt="" width="50" /> | HAPPEN | 2021-05-20 | [🔗](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27381156fba3e07547c62984394" alt="" width="50" /> | Get Ready To Leave | 2022-10-18 | [🔗](https://open.spotify.com/album/0UY2l5txL7IjXCB9LnBZ6R) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273468abcd06d84049010cd9ef7" alt="" width="50" /> | Floral Sense - The 1st Album (Special Version) | 2023-02-27 | [🔗](https://open.spotify.com/album/3GiIDO4BTLwJuZWQszk4Tg) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733d56b95f88f4743d79aa62f4" alt="" width="50" /> | First Sight | 2018-12-14 | [🔗](https://open.spotify.com/album/5M9f9Tze7sspUDrIAjdCgV) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | Dream | 2016-01-07 | [🔗](https://open.spotify.com/album/7ciJtZ2tYXhKsndQ7bf7Vw) |
@@ -102,11 +103,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 25 record labels](../images/genres/korean_pop/labels.png)
+![Bar chart of top 26 record labels](../images/genres/korean_pop/labels.png)
 
 
 <details>
-<summary>See all 25 labels</summary>
+<summary>See all 26 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -114,9 +115,9 @@
 | 7 | [YG Entertainment](../labels/yg_entertainment.md) |
 | 7 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
 | 4 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
-| 3 | [JYP Entertainment](../labels/jyp_entertainment.md) |
 | 2 | ShowPLAY ENTERTAINMENT |
 | 2 | MAGIC STRAWBERRY SOUND |
+| 2 | [JYP Entertainment](../labels/jyp_entertainment.md) |
 | 2 | FLEX M |
 | 1 | 코어콘텐츠미디어 |
 | 1 | 스튜디오앤뉴 |
@@ -124,6 +125,7 @@
 | 1 | 더라이브레이블 |
 | 1 | YMC Ent. |
 | 1 | [WM Entertainment](../labels/wm_entertainment.md) |
+| 1 | Today's Playlist |
 | 1 | TOON STUDIO |
 | 1 | Studio MaumC |
 | 1 | Starship Ent. |
@@ -147,12 +149,12 @@
 | NAKKA (with IU) (0.816) | Sweet (0.302) |
 | How People Move (0.813) | Like Water (0.365) |
 | RE-BYE (0.799) | Melted (0.384) |
-| Whale (0.788) | Love, Maybe (0.402) |
-| Undo (0.784) | Floral Sense (0.411) |
-| LAW (Prod. Czaer) (0.756) | Run With Me (0.425) |
-| Some (feat. Lil Boi) (0.738) | Flower Way (Prod. By ZICO) (0.433) |
-| And July (0.734) | Goodbye (0.46) |
-| Ya! (feat. Whee In) (0.727) | Done For Me (0.467) |
+| Whale (0.788) | Get Ready To Leave (0.402) |
+| Undo (0.784) | Love, Maybe (0.402) |
+| LAW (Prod. Czaer) (0.756) | Floral Sense (0.411) |
+| Some (feat. Lil Boi) (0.738) | Run With Me (0.425) |
+| And July (0.734) | Flower Way (Prod. By ZICO) (0.433) |
+| Ya! (feat. Whee In) (0.727) | Goodbye (0.46) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -174,11 +176,11 @@
 | Dream (0.139) | Love's Battery (0.0297) |
 | Bye bye my blue (0.114) | Starlight (0.0302) |
 | NAKKA (with IU) (0.101) | The Road (0.0307) |
-| Our Love is Great (0.0973) | Melted (0.0311) |
-| And July (0.0916) | When it snows(Feat.Heize) (0.0316) |
-| LAW (Prod. Czaer) (0.0843) | Goodbye (0.0317) |
-| How People Move (0.0823) | Miracle (0.0319) |
-| HAPPEN (0.0799) | FREEDOM (0.0347) |
+| And July (0.0916) | Melted (0.0311) |
+| LAW (Prod. Czaer) (0.0843) | When it snows(Feat.Heize) (0.0316) |
+| How People Move (0.0823) | Goodbye (0.0317) |
+| HAPPEN (0.0799) | Miracle (0.0319) |
+| Cat (Feat. IU) (0.0751) | Get Ready To Leave (0.0332) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -196,15 +198,15 @@
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Whale (0.00351) | Miracle (0.0) |
-| Our Love is Great (0.00154) | Traffic light (0.0) |
-| FREEDOM (0.000966) | Why Can't You Love Me? (0.0) |
-| Floral Sense (0.000598) | Best Friend (with SEULGI) (0.0) |
-| LAW (Prod. Czaer) (0.000111) | Done For Me (0.0) |
-| Rain and You (7.31e-05) | And July (0.0) |
-| NAKKA (with IU) (2.81e-05) | How People Move (0.0) |
-| First Sight (1.88e-05) | Some (feat. Lil Boi) (0.0) |
-| Lyricist (1.14e-05) | HAPPEN (0.0) |
-| Like Water (6.06e-06) | Flower Way (Prod. By ZICO) (0.0) |
+| FREEDOM (0.000966) | Traffic light (0.0) |
+| Floral Sense (0.000598) | Why Can't You Love Me? (0.0) |
+| LAW (Prod. Czaer) (0.000111) | Best Friend (with SEULGI) (0.0) |
+| Rain and You (7.31e-05) | Done For Me (0.0) |
+| NAKKA (with IU) (2.81e-05) | And July (0.0) |
+| First Sight (1.88e-05) | How People Move (0.0) |
+| Lyricist (1.14e-05) | Some (feat. Lil Boi) (0.0) |
+| Like Water (6.06e-06) | HAPPEN (0.0) |
+| Headlock (3.44e-06) | Flower Way (Prod. By ZICO) (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -226,8 +228,8 @@
 | RE-BYE (0.924) | Run With Me (0.156) |
 | How People Move (0.848) | Melted (0.169) |
 | Ya! (feat. Whee In) (0.795) | When it snows(Feat.Heize) (0.176) |
-| And July (0.787) | I will show you (0.226) |
-| Undo (0.734) | How can I love the heartbreak, you're the one I love (0.228) |
-| Cat (Feat. IU) (0.702) | First Sight (0.239) |
-| Whale (0.684) | Done For Me (0.241) |
-| Headlock (0.672) | Rain and You (0.244) |
+| And July (0.787) | Get Ready To Leave (0.208) |
+| Undo (0.734) | I will show you (0.226) |
+| Cat (Feat. IU) (0.702) | How can I love the heartbreak, you're the one I love (0.228) |
+| Whale (0.684) | First Sight (0.239) |
+| Headlock (0.672) | Done For Me (0.241) |

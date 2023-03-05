@@ -53,7 +53,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf832875288ac522e388190a0" alt="" width="50" /> | george | [🔗](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb61d3f392c4b11e9e54280a9" alt="" width="50" /> | Madison Beer | [🔗](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | [CHUNG HA](../../artists/chung_ha.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb632554d1e79134e6ce61b121" alt="" width="50" /> | Vincent Blue | [🔗](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb970f0b3d28b0b43bed19ee87" alt="" width="50" /> | Vincent Blue | [🔗](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb894ef9fa437b0389c5567cc" alt="" width="50" /> | Post Malone | [🔗](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) |
 | 1 | <img src="nan" alt="" width="50" /> | Choi Hyunwook | [🔗](https://open.spotify.com/artist/1z2J8XtoQxczs0U1lMWEiZ) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb39ce949d62ff47fc1de1a2d9" alt="" width="50" /> | Ozuna | [🔗](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) |
@@ -183,19 +183,19 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 14 | [pop](../../genres/pop.md) |
+| 15 | [pop](../../genres/pop.md) |
 | 10 | [dance pop](../../genres/dance_pop.md) |
 | 5 | [r&b](../../genres/r_b.md) |
 | 5 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 4 | [k-pop](../../genres/k_pop.md) |
 | 3 | pop rap |
+| 3 | edm |
 | 3 | canadian pop |
 | 2 | rap |
 | 2 | pop dance |
 | 2 | korean indie rock |
 | 2 | indie r&b |
 | 2 | [electropop](../../genres/electropop.md) |
-| 2 | edm |
 | 2 | danish pop |
 | 2 | chill r&b |
 | 1 | viral pop |

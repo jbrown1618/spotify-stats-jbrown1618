@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2732433cb43f0f2f0f23b7c8b82ab67616d0000b2733a44a5105549a15dd92ed0c3ab67616d0000b2734ccc03169b086af698178a99ab67616d0000b2739922157daa474131bb3a0fbc" alt="International Pop" width="100" />
 
-[93 songs](tracks.md)
+[95 songs](tracks.md)
 
 ## Top Artists
 
@@ -28,6 +28,7 @@
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebb00a14e06b6bce10b078d754" alt="" width="50" /> | Daddy Yankee | [🔗](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebec1cd67f4c17468f335206eb" alt="" width="50" /> | Luis Fonsi | [🔗](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebda5ab23361118f6474d68382" alt="" width="50" /> | Christopher | [🔗](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) |
+| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebb8333468abeb2e461d1ab5ea" alt="" width="50" /> | Mahalini | [🔗](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc19d6c8224e8b1b94bf565e5" alt="" width="50" /> | Perfume | [🔗](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d363b9240b776652114e8d3" alt="" width="50" /> | AKB48 | [🔗](https://open.spotify.com/artist/01wau5CL3Z1vfJJWkzBkqg) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd65f14c5c25c7d045c492f07" alt="" width="50" /> | Lothika | [🔗](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX) |
@@ -35,7 +36,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd7bb678bef6d2f26110cae49" alt="" width="50" /> | ROSALÍA | [🔗](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb977f248283f291ce1789a7bb" alt="" width="50" /> | Hikaru Utada | [🔗](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4900a06db4e96dd1444300d4" alt="" width="50" /> | ONE OK ROCK | [🔗](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe20d1e9d7eb5b59dd2586997" alt="" width="50" /> | Aitana | [🔗](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6eec60d1b4172523f99c1a08" alt="" width="50" /> | Aitana | [🔗](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738d6686937b604899a9347550" alt="" width="50" /> | mothy | [🔗](https://open.spotify.com/artist/7LOYTIZlvOwx83g2iBL3eM) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8fd9afcc6a730d21e205a694" alt="" width="50" /> | ANNA | [🔗](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb03f842b867599fa61480357b" alt="" width="50" /> | Aya Nakamura | [🔗](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) |
@@ -78,7 +79,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733f3d35703bdcd917dad51c4f" alt="" width="50" /> | Shae Gill | [🔗](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9e7b8ff766bcc9adb5a6273e" alt="" width="50" /> | Heuss L'enfoiré | [🔗](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc367faa0cbc1af23a289fb1a" alt="" width="50" /> | Angèle | [🔗](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9535efdcc4cb09bcad47ba55" alt="" width="50" /> | Ashnikko | [🔗](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb200914459687748118b36954" alt="" width="50" /> | Ashnikko | [🔗](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eba89b57750203c624eed1e837" alt="" width="50" /> | Ali Sethi | [🔗](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb08132734f5756507e29fdf5b" alt="" width="50" /> | Ayumi Hamasaki | [🔗](https://open.spotify.com/artist/3Mvc8kRgr8LRYYgvFmlZqn) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe8b2a45963d5d6e7403699d0" alt="" width="50" /> | Ana Guerra | [🔗](https://open.spotify.com/artist/3MRynBsyLGzv3IQ9Fip6hO) |
@@ -116,7 +117,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb72453ad016b059b06fd52569" alt="" width="50" /> | Tainy | [🔗](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb482a6aba1014057d9c4f04dd" alt="" width="50" /> | Tani Yuuki | [🔗](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735a36251d7041e99d024c523a" alt="" width="50" /> | Lu-Ni | [🔗](https://open.spotify.com/artist/0AythHu8oDXnRGp8qviBPj) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb3b6587b2046007bc1d18d9c" alt="" width="50" /> | Rendy Pandugo | [🔗](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) |
 
 </details>
 
@@ -127,11 +127,12 @@
 
 
 <details>
-<summary>See all 86 albums</summary>
+<summary>See all 87 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="" width="50" /> | METAL RESISTANCE | 2016-04-01 | [🔗](https://open.spotify.com/album/2vIRdYffs93ca7L0Eh4mTm) |
+| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2732f7bb02cb4b74bd7c2406428" alt="" width="50" /> | fábula | 2023-01-23 | [🔗](https://open.spotify.com/album/6iBh7T1cUR8MPrtly5xugU) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b27315249cb1ee9b66f0aacfffe8" alt="" width="50" /> | Under the Surface | 2019-02-22 | [🔗](https://open.spotify.com/album/6ISIdF1gCK9X8pn4FaObHE) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2732bb4e77f30c614c2a7b67b9d" alt="" width="50" /> | METAL GALAXY | 2019-10-11 | [🔗](https://open.spotify.com/album/6rxRhft7JZtXavzHP2g2el) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273bbf9d502f3ce4a15b3c43f7a" alt="" width="50" /> | Editorial | 2021-08-18 | [🔗](https://open.spotify.com/album/22nXr9DqkTAp1Y0GT1ialu) |
@@ -227,7 +228,7 @@
 
 
 <details>
-<summary>See all 64 labels</summary>
+<summary>See all 65 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -245,6 +246,7 @@
 | 2 | KING RECORDS |
 | 2 | ITModels under exclusive license to D-Music |
 | 2 | IRORI Records |
+| 2 | Hits records |
 | 2 | Gold Typhoon Taiwan |
 | 2 | [Epic](../../labels/epic.md) |
 | 1 | 鲸鱼向海 |
@@ -305,7 +307,7 @@
 
 
 <details>
-<summary>See all 97 genres</summary>
+<summary>See all 98 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -318,6 +320,7 @@
 | 7 | [dance pop](../../genres/dance_pop.md) |
 | 7 | comic metal |
 | 7 | anime |
+| 6 | indonesian pop |
 | 6 | anime rock |
 | 5 | taiwan pop |
 | 5 | colombian pop |
@@ -327,7 +330,6 @@
 | 4 | j-idol |
 | 4 | israeli pop |
 | 4 | indonesian r&b |
-| 4 | indonesian pop |
 | 4 | indonesian indie |
 | 4 | c-pop |
 | 3 | urbano latino |
@@ -370,6 +372,7 @@
 | 1 | r&b en espanol |
 | 1 | nouvelle chanson francaise |
 | 1 | norwegian pop |
+| 1 | norwegian indie |
 | 1 | nintendocore |
 | 1 | nigerian pop |
 | 1 | nigerian hip hop |
@@ -418,16 +421,16 @@
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739b835b4be5631a28c4725a14" alt="בשורות טובות" width="50" /> <span style="padding-left:10px;">בשורות טובות (2022-06-06)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ba16f5c6c4e2d873996a81a7" alt="怎樣" width="50" /> <span style="padding-left:10px;">怎樣 (2001-01-18)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736a986d5aa5b6567ca683f653" alt="Lykke te" width="50" /> <span style="padding-left:10px;">Lykke te (2022-05-27)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27356bcdbdd16ff6781b8371c7f" alt="A BEST" width="50" /> <span style="padding-left:10px;">A BEST (2001-03-28)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731bccd0e65da477d7f815e229" alt="מי זאת" width="50" /> <span style="padding-left:10px;">מי זאת (2022-05-22)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734df4e8ec1f66ebb6b63c14c2" alt="海嘯" width="50" /> <span style="padding-left:10px;">海嘯 (2001-05-10)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732f7bb02cb4b74bd7c2406428" alt="fábula" width="50" /> <span style="padding-left:10px;">fábula (2023-01-23)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ba16f5c6c4e2d873996a81a7" alt="怎樣" width="50" /> <span style="padding-left:10px;">怎樣 (2001-01-18)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739b835b4be5631a28c4725a14" alt="בשורות טובות" width="50" /> <span style="padding-left:10px;">בשורות טובות (2022-06-06)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27356bcdbdd16ff6781b8371c7f" alt="A BEST" width="50" /> <span style="padding-left:10px;">A BEST (2001-03-28)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736a986d5aa5b6567ca683f653" alt="Lykke te" width="50" /> <span style="padding-left:10px;">Lykke te (2022-05-27)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734df4e8ec1f66ebb6b63c14c2" alt="海嘯" width="50" /> <span style="padding-left:10px;">海嘯 (2001-05-10)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27347e6c8b41b5546781d84b5e7" alt="עושה לי צרות" width="50" /> <span style="padding-left:10px;">עושה לי צרות (2022-05-22)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27354dbaa284c53e085523cfec2" alt="Hijas del Tomate" width="50" /> <span style="padding-left:10px;">Hijas del Tomate (2002)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734f95dabfc67540ee3823dad6" alt="Sofa Silahlane" width="50" /> <span style="padding-left:10px;">Sofa Silahlane (2022-05-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27312b39d20292978b5e5800ed3" alt="一比一" width="50" /> <span style="padding-left:10px;">一比一 (2005-06-03)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733e94f2b2c3303120be19210b" alt="Habit" width="50" /> <span style="padding-left:10px;">Habit (2022-04-28)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f342e70aacda9d78cfb6ce7a" alt="Fijación Oral, Vol. 1" width="50" /> <span style="padding-left:10px;">Fijación Oral, Vol. 1 (2005-06-03)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739a9716c90ceeb1890921e44f" alt="Te Felicito" width="50" /> <span style="padding-left:10px;">Te Felicito (2022-04-21)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273110af1ee291450d9e86a05a4" alt="太平盛世" width="50" /> <span style="padding-left:10px;">太平盛世 (2005-08-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737bc73fff9f3787c1d8a23167" alt="Look At Me" width="50" /> <span style="padding-left:10px;">Look At Me (2022-03-21)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e74d5d14b01d404e1984ece7" alt="改變自己" width="50" /> <span style="padding-left:10px;">改變自己 (2007-07-13)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732e0c53a146daf46d74430ef5" alt="Tippy Toes" width="50" /> <span style="padding-left:10px;">Tippy Toes (2022-03-18)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737aa30221d9dbc1271bae1b05" alt="GAME" width="50" /> <span style="padding-left:10px;">GAME (2008)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273caae7b75fb240dd81f3f7129" alt="ממותה" width="50" /> <span style="padding-left:10px;">ממותה (2022-02-11)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738d6686937b604899a9347550" alt="Evils Theater" width="50" /> <span style="padding-left:10px;">Evils Theater (2009-06-17)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731bccd0e65da477d7f815e229" alt="מי זאת" width="50" /> <span style="padding-left:10px;">מי זאת (2022-05-22)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27312b39d20292978b5e5800ed3" alt="一比一" width="50" /> <span style="padding-left:10px;">一比一 (2005-06-03)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734f95dabfc67540ee3823dad6" alt="Sofa Silahlane" width="50" /> <span style="padding-left:10px;">Sofa Silahlane (2022-05-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f342e70aacda9d78cfb6ce7a" alt="Fijación Oral, Vol. 1" width="50" /> <span style="padding-left:10px;">Fijación Oral, Vol. 1 (2005-06-03)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733e94f2b2c3303120be19210b" alt="Habit" width="50" /> <span style="padding-left:10px;">Habit (2022-04-28)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273110af1ee291450d9e86a05a4" alt="太平盛世" width="50" /> <span style="padding-left:10px;">太平盛世 (2005-08-01)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739a9716c90ceeb1890921e44f" alt="Te Felicito" width="50" /> <span style="padding-left:10px;">Te Felicito (2022-04-21)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e74d5d14b01d404e1984ece7" alt="改變自己" width="50" /> <span style="padding-left:10px;">改變自己 (2007-07-13)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737bc73fff9f3787c1d8a23167" alt="Look At Me" width="50" /> <span style="padding-left:10px;">Look At Me (2022-03-21)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737aa30221d9dbc1271bae1b05" alt="GAME" width="50" /> <span style="padding-left:10px;">GAME (2008)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732e0c53a146daf46d74430ef5" alt="Tippy Toes" width="50" /> <span style="padding-left:10px;">Tippy Toes (2022-03-18)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738d6686937b604899a9347550" alt="Evils Theater" width="50" /> <span style="padding-left:10px;">Evils Theater (2009-06-17)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
@@ -452,9 +455,9 @@
 | Boys & Girls (0.985) | untuk hati yang terluka. (0.312) |
 | KARATE (0.982) | 你要的愛 (0.32) |
 | だいじょばない (0.982) | Think About Things (0.341) |
-| 404 not found (0.967) | 醒不来的梦 (0.362) |
-| 恋をすると馬鹿を見る(Team B) (0.955) | Sofa Silahlane (0.38) |
-| Kagerou (0.941) | 永不失聯的愛 (0.43) |
+| 404 not found (0.967) | Melawan Restu (0.344) |
+| 恋をすると馬鹿を見る(Team B) (0.955) | 醒不来的梦 (0.362) |
+| Kagerou (0.941) | Sofa Silahlane (0.38) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -465,9 +468,9 @@
 | Pleasure (0.258) | Tetap Dalam Jiwa (0.0279) |
 | Leyendas (0.245) | 如果的事 (0.0293) |
 | Tout oublier (0.197) | 醒不来的梦 (0.0297) |
-| Shanti Shanti Shanti (0.196) | 炎 (0.0325) |
-| Djadja (0.165) | ก่อนฤดูฝน (0.0328) |
-| 青春修炼手册 (0.161) | 永不失聯的愛 (0.0332) |
+| Shanti Shanti Shanti (0.196) | Sisa Rasa (0.0302) |
+| Djadja (0.165) | Melawan Restu (0.0318) |
+| 青春修炼手册 (0.161) | 炎 (0.0325) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -475,12 +478,12 @@
 | 落葉歸根 (0.862) | Kagerou (3.1e-05) |
 | untuk hati yang terluka. (0.859) | Headbangeeeeerrrrr!!!!! (7.67e-05) |
 | 如果的事 (0.828) | Gimme Chocolate!! (0.000282) |
-| עושה לי צרות (0.777) | Amore (0.000328) |
-| 醒不来的梦 (0.756) | Boys & Girls (0.000388) |
-| Heaven (0.741) | KARATE (0.00071) |
-| Tetap Dalam Jiwa (0.722) | Koi (0.00081) |
-| 永不失聯的愛 (0.624) | UN DIA (ONE DAY) (Feat. Tainy) (0.00536) |
-| סתלבט בקיבוץ (0.588) | Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground) (0.00627) |
+| Melawan Restu (0.808) | Amore (0.000328) |
+| עושה לי צרות (0.777) | Boys & Girls (0.000388) |
+| 醒不来的梦 (0.756) | KARATE (0.00071) |
+| Heaven (0.741) | Koi (0.00081) |
+| Tetap Dalam Jiwa (0.722) | UN DIA (ONE DAY) (Feat. Tainy) (0.00536) |
+| 永不失聯的愛 (0.624) | Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground) (0.00627) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
@@ -510,13 +513,13 @@
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| チョコレイト・ディスコ (0.963) | Mercy (0.169) |
-| Me Enamoré (0.948) | Tetap Dalam Jiwa (0.179) |
-| סתלבט בקיבוץ (0.941) | 你要的愛 (0.2) |
-| Ne reviens pas (0.931) | 白月光与朱砂痣 (0.218) |
-| 恋するフォーチュンクッキー (0.924) | untuk hati yang terluka. (0.225) |
-| 砂の惑星 ( + 初音ミク ) (0.917) | No Rain, No Rainbow (0.225) |
-| Habit (0.912) | KARATE (0.23) |
-| No title (0.884) | 醒不来的梦 (0.238) |
-| Koi (0.878) | 落葉歸根 (0.253) |
-| The Ketchup Song (Aserejé) - Spanglish Version (0.868) | Papaoutai (0.254) |
+| チョコレイト・ディスコ (0.963) | Sisa Rasa (0.152) |
+| Me Enamoré (0.948) | Mercy (0.169) |
+| סתלבט בקיבוץ (0.941) | Tetap Dalam Jiwa (0.179) |
+| Ne reviens pas (0.931) | 你要的愛 (0.2) |
+| 恋するフォーチュンクッキー (0.924) | 白月光与朱砂痣 (0.218) |
+| 砂の惑星 ( + 初音ミク ) (0.917) | untuk hati yang terluka. (0.225) |
+| Habit (0.912) | No Rain, No Rainbow (0.225) |
+| No title (0.884) | KARATE (0.23) |
+| Koi (0.878) | 醒不来的梦 (0.238) |
+| The Ketchup Song (Aserejé) - Spanglish Version (0.868) | 落葉歸根 (0.253) |

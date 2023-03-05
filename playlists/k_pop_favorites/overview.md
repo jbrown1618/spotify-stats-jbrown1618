@@ -304,7 +304,7 @@
 | 183 | [k-pop](../../genres/k_pop.md) |
 | 89 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 49 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
-| 12 | [pop](../../genres/pop.md) |
+| 23 | [pop](../../genres/pop.md) |
 | 9 | anime |
 | 8 | [korean pop](../../genres/korean_pop.md) |
 | 5 | korean r&b |
@@ -312,7 +312,7 @@
 | 1 | korean ost |
 | 1 | korean city pop |
 | 1 | k-rap |
-| 1 | k-indie |
+| 1 | [dance pop](../../genres/dance_pop.md) |
 | 1 | chinese idol pop |
 
 </details>

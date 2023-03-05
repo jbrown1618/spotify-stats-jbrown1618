@@ -1,9 +1,9 @@
 # JYP Entertainment
 
-28 songs
+27 songs
 
 Appears as:
-- JYP Entertainment (27 tracks)
+- JYP Entertainment (26 tracks)
 - MYSTIC ENTERTAINMENT, ChoongangICS, SM ENTERTAINMENT, JYP ENTERTAINMENT (1 tracks)
 
 ## Top Artists
@@ -21,9 +21,9 @@ Appears as:
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb30a517d1b703c3eabdac2855" alt="" width="50" /> | Wonder Girls | [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../artists/itzy.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb909ae20e6815f0b43dd86bb6" alt="" width="50" /> | J.Y. Park | [🔗](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb28f845b9a1c6e8bccb255f0c" alt="" width="50" /> | Yerin Baek | [🔗](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) |
 | 2 | <img src="https://i.scdn.co/image/ab6772690000c46c10d90fee3240f733c26f161f" alt="" width="50" /> | Rain | [🔗](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b93ad49bde5a3655aef95cd" alt="" width="50" /> | miss A | [🔗](https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb28f845b9a1c6e8bccb255f0c" alt="" width="50" /> | Yerin Baek | [🔗](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | BIBI | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a29246fa242d0b9f8de3b31" alt="" width="50" /> | SUNMI | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb125d29add59b1d82aa236423" alt="" width="50" /> | 2PM | [🔗](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) |
@@ -38,11 +38,11 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 24 albums](../images/labels/jyp_entertainment/albums.png)
+![Bar chart of top 23 albums](../images/labels/jyp_entertainment/albums.png)
 
 
 <details>
-<summary>See all 24 albums</summary>
+<summary>See all 23 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -56,7 +56,6 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739633cfd2e42a610f3dafa801" alt="" width="50" /> | So Hot | 2008-06-03 | [🔗](https://open.spotify.com/album/31FkCs7l3VVYbapFtIjfYe) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ec55d2dad1aefc7d57745633" alt="" width="50" /> | SUNRISE | 2017-06-07 | [🔗](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734fa89604a84da7861228399b" alt="" width="50" /> | Present : YOU | 2018-09-18 | [🔗](https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d9d96c4e842930a7022f7447" alt="" width="50" /> | Our Love is Great | 2019-03-18 | [🔗](https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2730096339f4c20185bf521c12b" alt="" width="50" /> | No.5 | 2015-06-15 | [🔗](https://open.spotify.com/album/7il4UShdCQt4HcsAng0Om2) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27366bcce2a19a9ccfd5d83f2a1" alt="" width="50" /> | MAD | 2015-09-29 | [🔗](https://open.spotify.com/album/3MPrK5Op0AZAql78coCQLA) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a49014cd80722aa2ac64c87d" alt="" width="50" /> | Just right | 2015-07-13 | [🔗](https://open.spotify.com/album/4159syQKTGC1JSJN4xBScv) |
@@ -84,11 +83,11 @@ Appears as:
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 16 | [k-pop](../genres/k_pop.md) |
+| 15 | [k-pop](../genres/k_pop.md) |
 | 12 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 | 7 | [k-pop boy group](../genres/k_pop_boy_group.md) |
 | 5 | classic k-pop |
-| 3 | [korean pop](../genres/korean_pop.md) |
+| 2 | [korean pop](../genres/korean_pop.md) |
 
 </details>
 
@@ -123,5 +122,4 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2734802244fa0cf6d33eda5e748" alt="" width="50" /> | Nobody | The Wonder Years - Trilogy | Wonder Girls | [JYP Entertainment](jyp_entertainment.md) | | [🔗](https://open.spotify.com/track/7C3JLAmQzy9SnTZjKcdzCA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273018ac0665d32b08c76afd4cc" alt="" width="50" /> | Why So Lonely | Why So Lonely | Wonder Girls | [JYP Entertainment](jyp_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/3mKK73NhylzXdHV4qZGxI4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733533304e73925a884af026ab" alt="" width="50" /> | Strawberry Cake | Hello, world! | Xdinary Heroes | [JYP Entertainment](jyp_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/6E8EAroyZLFR80NO8Ucliy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b9aea3c24941166131a8c8b8" alt="" width="50" /> | Bye bye my blue | Bye bye my blue | Yerin Baek | [JYP Entertainment](jyp_entertainment.md) | | [🔗](https://open.spotify.com/track/1XslqSASDWaMZdjhWa7Jb7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d9d96c4e842930a7022f7447" alt="" width="50" /> | Our Love is Great | Our Love is Great | Yerin Baek | [JYP Entertainment](jyp_entertainment.md) | | [🔗](https://open.spotify.com/track/6dO3kF1ZoKmybXyjSL3OmL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b9aea3c24941166131a8c8b8" alt="" width="50" /> | Bye bye my blue | Bye bye my blue | Yerin Baek | [JYP Entertainment](jyp_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/1XslqSASDWaMZdjhWa7Jb7) |

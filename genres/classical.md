@@ -234,7 +234,7 @@
 | Coppélia / Tableau 2: No. 16 Boléro - Alternative Version (0.661) | La Mer, L.109: 1. From Dawn Till Noon On The Sea (De l'aube à midi sur la mer) (0.0633) |
 | Coppélia / Tableau 2: No. 11a Musique des automates (0.648) | Vespers, Op. 37: XII. "Slava v vyshnikh Bogu" (0.0636) |
 | String Quartet No.11 in F Minor, Op. 122: V. Humoresque (Allegro) (0.63) | Die Zauberflöte, K.620 / Act 2: "O Isis und Osiris, welche Wonne!" (0.0663) |
-| 24 Préludes, Op. 28: No. 10 in C-Sharp Minor: Molto allegro (0.629) | Requiem in D Minor, Op. 48: 2. Offertorium: Domine Jesu Christe (0.0668) |
+| 24 Préludes, Op. 28: No. 10 in C-Sharp Minor: Molto allegro (0.629) | Requiem in D Minor, Op. 48: II. Offertorium. Domine Jesu Christe (0.0668) |
 | String Quartet No. 4 in C Major, K. 157: III. Presto (0.614) | Horn Concerto No. 4 in E-Flat Major, K. 495: II. Romanza. Andante (0.0683) |
 | A Midsummer Night's Dream, Incidental Music, Op. 61: "Ay Me! For Aught That I Could Ever Read" (0.614) | String Quartet No. 8 in C Minor, Op. 110: I. Largo (0.0744) |
 
@@ -283,7 +283,7 @@
 | Vespers, Op. 37: VI. "Bogoroditse Devo" (0.979) | A Midsummer Night's Dream, Incidental Music, Op. 61: "Ay Me! For Aught That I Could Ever Read" (0.0) |
 | Tchaikovsky: Swan Lake, Op. 20, Act IV: No. 26, Scene. Allegro ma non troppo (0.978) | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 8, Andante (0.0) |
 | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Introduction (0.972) | Die Zauberflöte, K.620 / Act 2: Ein Mädchen oder Weibchen (Papageno) (0.0) |
-| Requiem in D Minor, Op. 48: 7. In paradisum (0.971) | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 4, Andante (0.0) |
+| Requiem in D Minor, Op. 48: VII. In Paradisum (0.971) | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 4, Andante (0.0) |
 | String Quartet No. 14 in C-Sharp Minor, Op. 131: VI. Adagio quasi un poco andante (0.97) | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 2, L'istesso tempo (0.0) |
 | 24 Préludes, Op. 28: No. 10 in C-Sharp Minor (0.964) | Die Zauberflöte, K.620 / Act 1: "Bei Männern, welche Liebe fühlen" (0.0) |
 | Nocturne No. 8 In D Flat, Op. 27 No. 2 - 2005 Recording (0.959) | Concerto for Violin and Strings in F Major, Op. 8, No. 3, RV 293 "L'autunno": II. Adagio molto (Ubriachi dormienti) (2.04e-06) |

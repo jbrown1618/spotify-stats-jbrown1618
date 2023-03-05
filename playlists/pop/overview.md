@@ -365,15 +365,15 @@
 | 30 | [electropop](../../genres/electropop.md) |
 | 29 | uk pop |
 | 29 | [art pop](../../genres/art_pop.md) |
+| 27 | edm |
 | 26 | urban contemporary |
-| 24 | edm |
 | 21 | pop rap |
 | 17 | barbadian pop |
 | 15 | neo soul |
+| 14 | [neo mellow](../../genres/neo_mellow.md) |
 | 12 | atl hip hop |
 | 11 | [r&b](../../genres/r_b.md) |
 | 11 | pop dance |
-| 11 | [neo mellow](../../genres/neo_mellow.md) |
 | 11 | british soul |
 | 11 | australian pop |
 | 10 | viral pop |
