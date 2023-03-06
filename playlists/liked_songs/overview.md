@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1468 songs](tracks.md)
+[1469 songs](tracks.md)
 
 ## Top Artists
 
@@ -48,12 +48,12 @@
 | 10 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../../artists/bruno_mars.md) | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
 | 10 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | [Lana Del Rey](../../artists/lana_del_rey.md) | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | [Beyoncé](../../artists/beyonc_.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
+| 9 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e2e0f17d257a40be0782f35" alt="" width="50" /> | [BAEKHYUN](../../artists/baekhyun.md) | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../../artists/lady_gaga.md) | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5ebadffb99dc62d070da29306ff" alt="" width="50" /> | JEON SOYEON | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | BIBI | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a29246fa242d0b9f8de3b31" alt="" width="50" /> | SUNMI | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5ebec40474426f4401a4203dc9f" alt="" width="50" /> | Sia | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
-| 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e2e0f17d257a40be0782f35" alt="" width="50" /> | BAEKHYUN | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="" width="50" /> | [EXO](../../artists/exo.md) | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb968ab271c895fb9cc245d6fe" alt="" width="50" /> | [Billlie](../../artists/billlie.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb64aa2c83dd30331b56ffddf3" alt="" width="50" /> | NCT DREAM | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
@@ -96,7 +96,7 @@
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbca2e91d07d2c53e6610570" alt="" width="50" /> | Seori | [🔗](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | [Michael Bublé](../../artists/michael_bubl_.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | Nicki Minaj | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
-| 5 | <img src="https://i.scdn.co/image/ab6761610000e5ebfa980b99bc5f4d47b4253f82" alt="" width="50" /> | j-hope | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
+| 5 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | j-hope | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb288ac05481cedc5bddb5b11b" alt="" width="50" /> | Maroon 5 | [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5ebd90aa536055fe9806b3960e6" alt="" width="50" /> | GOT7 | [🔗](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb767815f4876969e8f888f0db" alt="" width="50" /> | The Rose | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
@@ -295,6 +295,7 @@
 | 6 | Sire |
 | 6 | EDAM Entertainment |
 | 6 | Bad Boy |
+| 5 | avex trax |
 | 5 | [Reprise](../../labels/reprise.md) |
 | 5 | Parkwood Entertainment |
 | 5 | KQ Entertainment |
@@ -304,7 +305,6 @@
 | 5 | Abyss Company |
 | 5 | ADOR |
 | 5 | [143](../../labels/143.md) |
-| 4 | avex trax |
 | 4 | WM Japan |
 | 4 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_.md) |
 | 4 | THE BLACK LABEL |
@@ -356,11 +356,11 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 643 | [k-pop](../../genres/k_pop.md) |
-| 409 | [pop](../../genres/pop.md) |
+| 644 | [k-pop](../../genres/k_pop.md) |
+| 379 | [pop](../../genres/pop.md) |
 | 294 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 164 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
-| 164 | [dance pop](../../genres/dance_pop.md) |
+| 162 | [dance pop](../../genres/dance_pop.md) |
 | 105 | [rock](../../genres/rock.md) |
 | 78 | [classic rock](../../genres/classic_rock.md) |
 | 62 | [neo mellow](../../genres/neo_mellow.md) |
@@ -371,14 +371,14 @@
 | 43 | [hollywood](../../genres/hollywood.md) |
 | 42 | [mellow gold](../../genres/mellow_gold.md) |
 | 38 | [korean pop](../../genres/korean_pop.md) |
-| 36 | [electropop](../../genres/electropop.md) |
+| 37 | [electropop](../../genres/electropop.md) |
 | 34 | [art pop](../../genres/art_pop.md) |
 | 33 | [folk rock](../../genres/folk_rock.md) |
 | 32 | [soft rock](../../genres/soft_rock.md) |
 | 31 | korean r&b |
 | 30 | [psychedelic rock](../../genres/psychedelic_rock.md) |
 | 30 | british invasion |
-| 29 | [singer-songwriter](../../genres/singer_songwriter.md) |
+| 25 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 25 | piano rock |
 | 24 | permanent wave |
 | 23 | beatlesque |
@@ -421,6 +421,7 @@
 | 8 | viral pop |
 | 8 | pop dance |
 | 8 | latin pop |
+| 8 | k-indie |
 | 8 | etherpop |
 | 8 | escape room |
 | 8 | blues rock |
@@ -451,7 +452,6 @@
 | 5 | uk funky |
 | 5 | uk dance |
 | 5 | talent show |
-| 5 | k-indie |
 | 5 | jazz pop |
 | 5 | indietronica |
 | 5 | girl group |
@@ -472,7 +472,7 @@
 |:---|---:|
 | [2023](2023.md) | 25 |
 | [2022](2022.md) | 237 |
-| [2021](2021.md) | 181 |
+| [2021](2021.md) | 182 |
 | [2020](2020.md) | 132 |
 | [2019](2019.md) | 115 |
 | [2018](2018.md) | 82 |

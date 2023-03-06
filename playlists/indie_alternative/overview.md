@@ -318,8 +318,8 @@
 | 63 | [pop](../../genres/pop.md) |
 | 29 | [rock](../../genres/rock.md) |
 | 26 | indie pop |
+| 23 | [electropop](../../genres/electropop.md) |
 | 22 | permanent wave |
-| 22 | [electropop](../../genres/electropop.md) |
 | 21 | [dance pop](../../genres/dance_pop.md) |
 | 21 | [art pop](../../genres/art_pop.md) |
 | 20 | modern rock |
@@ -368,7 +368,6 @@
 | 3 | comic |
 | 2 | washington indie |
 | 2 | uk pop |
-| 2 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 2 | shiver pop |
 | 2 | pop punk |
 | 2 | pop emo |
@@ -389,6 +388,7 @@
 | 1 | swedish electropop |
 | 1 | swedish alternative rock |
 | 1 | spacegrunge |
+| 1 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 1 | shimmer pop |
 | 1 | nu metal |
 | 1 | nu jazz |

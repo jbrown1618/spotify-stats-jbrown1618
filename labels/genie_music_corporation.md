@@ -52,7 +52,7 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6255cdc7eb41e77dfed9fd2c" alt="" width="50" /> | WINTER | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a80abb55f089d80528d24fc" alt="" width="50" /> | CHANGMO | [🔗](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f5769fc671ca8199168d3fb" alt="" width="50" /> | DEAN | [🔗](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27381fac23cac9699f84a8151a0" alt="" width="50" /> | HOMIES | [🔗](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d140a24d98aa74deb5cbe9c" alt="" width="50" /> | HOMIES | [🔗](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb85a17814670b67c707f7bf08" alt="" width="50" /> | JO YURI | [🔗](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b9524830b4d4f486e9c1dd8" alt="" width="50" /> | pH-1 | [🔗](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b1d9cb7a7c8f11a5a4a528d" alt="" width="50" /> | LEE CHAE YEON | [🔗](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) |
@@ -150,11 +150,11 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 11 genres](../images/labels/genie_music_corporation/genres.png)
+![Bar chart of top 12 genres](../images/labels/genie_music_corporation/genres.png)
 
 
 <details>
-<summary>See all 11 genres</summary>
+<summary>See all 12 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -167,6 +167,7 @@ Appears as:
 | 3 | korean ost |
 | 2 | k-rap |
 | 1 | korean trap |
+| 1 | k-indie |
 | 1 | classic k-pop |
 | 1 | anime |
 

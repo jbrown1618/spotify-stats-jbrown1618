@@ -147,11 +147,11 @@
 
 ## Genres
 
-![Bar chart of top 29 genres](../../images/playlists/disney/genres.png)
+![Bar chart of top 27 genres](../../images/playlists/disney/genres.png)
 
 
 <details>
-<summary>See all 29 genres</summary>
+<summary>See all 27 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -160,14 +160,12 @@
 | 16 | [show tunes](../../genres/show_tunes.md) |
 | 5 | tagalog worship |
 | 2 | [post-teen pop](../../genres/post_teen_pop.md) |
-| 2 | [pop](../../genres/pop.md) |
 | 2 | [dance pop](../../genres/dance_pop.md) |
 | 2 | comedy |
 | 2 | [adult standards](../../genres/adult_standards.md) |
 | 1 | vocal jazz |
 | 1 | swing |
 | 1 | soul |
-| 1 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 1 | roots rock |
 | 1 | piano blues |
 | 1 | new orleans blues |
