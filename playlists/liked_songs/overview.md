@@ -360,7 +360,7 @@
 | 379 | [pop](../../genres/pop.md) |
 | 294 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 164 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
-| 162 | [dance pop](../../genres/dance_pop.md) |
+| 163 | [dance pop](../../genres/dance_pop.md) |
 | 105 | [rock](../../genres/rock.md) |
 | 78 | [classic rock](../../genres/classic_rock.md) |
 | 62 | [neo mellow](../../genres/neo_mellow.md) |
@@ -371,14 +371,14 @@
 | 43 | [hollywood](../../genres/hollywood.md) |
 | 42 | [mellow gold](../../genres/mellow_gold.md) |
 | 38 | [korean pop](../../genres/korean_pop.md) |
-| 37 | [electropop](../../genres/electropop.md) |
+| 38 | [electropop](../../genres/electropop.md) |
 | 34 | [art pop](../../genres/art_pop.md) |
 | 33 | [folk rock](../../genres/folk_rock.md) |
 | 32 | [soft rock](../../genres/soft_rock.md) |
 | 31 | korean r&b |
 | 30 | [psychedelic rock](../../genres/psychedelic_rock.md) |
 | 30 | british invasion |
-| 25 | [singer-songwriter](../../genres/singer_songwriter.md) |
+| 29 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 25 | piano rock |
 | 24 | permanent wave |
 | 23 | beatlesque |

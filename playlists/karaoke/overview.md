@@ -209,7 +209,7 @@
 | Number of Tracks | Genre |
 |---:|:---|
 | 27 | [pop](../../genres/pop.md) |
-| 16 | [rock](../../genres/rock.md) |
+| 17 | [rock](../../genres/rock.md) |
 | 14 | [classic rock](../../genres/classic_rock.md) |
 | 13 | [neo mellow](../../genres/neo_mellow.md) |
 | 10 | [pop rock](../../genres/pop_rock.md) |
@@ -220,9 +220,9 @@
 | 7 | [soft rock](../../genres/soft_rock.md) |
 | 7 | [lilith](../../genres/lilith.md) |
 | 7 | [folk rock](../../genres/folk_rock.md) |
+| 6 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 6 | [hollywood](../../genres/hollywood.md) |
 | 6 | [adult standards](../../genres/adult_standards.md) |
-| 5 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 5 | [psychedelic rock](../../genres/psychedelic_rock.md) |
 | 5 | merseybeat |
 | 5 | british invasion |

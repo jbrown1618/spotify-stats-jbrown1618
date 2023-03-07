@@ -218,7 +218,7 @@
 | 22 | [pop](../../genres/pop.md) |
 | 10 | [neo mellow](../../genres/neo_mellow.md) |
 | 9 | [dance pop](../../genres/dance_pop.md) |
-| 7 | [rock](../../genres/rock.md) |
+| 8 | [rock](../../genres/rock.md) |
 | 7 | [classic rock](../../genres/classic_rock.md) |
 | 6 | urban contemporary |
 | 6 | [acoustic pop](../../genres/acoustic_pop.md) |
@@ -228,6 +228,7 @@
 | 4 | [folk rock](../../genres/folk_rock.md) |
 | 3 | stomp and holler |
 | 3 | [soft rock](../../genres/soft_rock.md) |
+| 3 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 3 | [r&b](../../genres/r_b.md) |
 | 3 | [psychedelic rock](../../genres/psychedelic_rock.md) |
 | 3 | [post-teen pop](../../genres/post_teen_pop.md) |
@@ -242,7 +243,6 @@
 | 3 | atl hip hop |
 | 2 | uk pop |
 | 2 | soul |
-| 2 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 2 | rockabilly |
 | 2 | rock-and-roll |
 | 2 | rap |
