@@ -51,15 +51,16 @@ Appears as:
 
 ## Genres
 
-
+![Bar chart of top 3 genres](../images/labels/kakao_entertainment/genres.png)
 
 
 <details>
-<summary>See all 2 genres</summary>
+<summary>See all 3 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
 | 15 | [k-pop](../genres/k_pop.md) |
+| 13 | [pop](../genres/pop.md) |
 | 2 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 
 </details>

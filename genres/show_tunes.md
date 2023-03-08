@@ -1,6 +1,6 @@
 # show tunes
 
-[107 songs](show_tunes_tracks.md)
+[106 songs](show_tunes_tracks.md)
 
 ## Top Artists
 
@@ -10,7 +10,7 @@
 
 
 <details>
-<summary>See all 69 artists</summary>
+<summary>See all 68 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -61,7 +61,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27317f613f05ec89836d8c4ad0c" alt="" width="50" /> | Jerry Orbach | [🔗](https://open.spotify.com/artist/5i2OpmeVKsmViqoETxuOvO) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2730cc79e7adefed420553e65fe" alt="" width="50" /> | Jason Weaver | [🔗](https://open.spotify.com/artist/5UdPkKWd8YNR5xGcmqH9QJ) |
 | 1 | <img src="nan" alt="" width="50" /> | John Aron | [🔗](https://open.spotify.com/artist/5Hco9oOhEcTrU0hzzIkoF7) |
-| 1 | <img src="nan" alt="" width="50" /> | Donna Murphy | [🔗](https://open.spotify.com/artist/5BuTOT6mPoNZ5EmaPheBI9) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb583a4cf451be21040cfaa0a4" alt="" width="50" /> | Jodi Benson | [🔗](https://open.spotify.com/artist/4mmMtabvFCKA6HfmVmitNH) |
 | 1 | <img src="nan" alt="" width="50" /> | Thayne Jasperson | [🔗](https://open.spotify.com/artist/4lSm9vkdpKSs1O8nKflRaB) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0011a003b54943e02654e1f4" alt="" width="50" /> | Samantha Barks | [🔗](https://open.spotify.com/artist/4gOl5m9dY7IGAipqpul7GZ) |
@@ -88,11 +87,11 @@
 
 ## Top Albums
 
-![Bar chart of top 17 albums](../images/genres/show_tunes/albums.png)
+![Bar chart of top 16 albums](../images/genres/show_tunes/albums.png)
 
 
 <details>
-<summary>See all 17 albums</summary>
+<summary>See all 16 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -107,7 +106,6 @@
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="" width="50" /> | Beauty and the Beast | 1991-01-01 | [🔗](https://open.spotify.com/album/3O5p9VNddbwvqWTdYKEqV5) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | The Lion King | 1994-01-01 | [🔗](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273dda924a83894bc750e69845a" alt="" width="50" /> | The Journey so Far | 2011-08-09 | [🔗](https://open.spotify.com/album/3zr8JDmixklHY1sOURyfoK) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="" width="50" /> | Tangled | 2010-01-01 | [🔗](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733505183cc0e24d2f7560174a" alt="" width="50" /> | Moana (Original Motion Picture Soundtrack/Deluxe Edition) | 2016-11-18 | [🔗](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736ff59d18c018a2845758deed" alt="" width="50" /> | Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition) | 2019-11-15 | [🔗](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="" width="50" /> | Frozen (Original Motion Picture Soundtrack / Deluxe Edition) | 2013-01-01 | [🔗](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) |
@@ -129,7 +127,7 @@
 |---:|:---|
 | 44 | [Atlantic Records](../labels/atlantic_records.md) |
 | 24 | [Polydor Records](../labels/polydor_records.md) |
-| 16 | [Walt Disney Records](../labels/walt_disney_records.md) |
+| 15 | [Walt Disney Records](../labels/walt_disney_records.md) |
 | 11 | [Verve (Adult Contemporary) MC](../labels/verve__adult_contemporary__mc.md) |
 | 10 | [UMC (Universal Music Catalogue)](../labels/umc__universal_music_catalogue_.md) |
 | 1 | [Sony Music Labels Inc.](../labels/sony_music_labels_inc_.md) |
@@ -209,15 +207,15 @@
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
 | Yorktown (The World Turned Upside Down) (0.727) | Your Obedient Servant (0.042) |
-| I Know Him (0.722) | Mother Knows Best - From "Tangled"/Soundtrack Version (0.0451) |
-| Reflection (0.722) | Farmer Refuted (0.0548) |
-| Stars (0.681) | Bring Him Home (0.069) |
-| The Point Of No Return - From 'The Phantom Of The Opera' Motion Picture (0.671) | Dear Theodosia (0.0723) |
-| The Room Where It Happens (0.664) | All I Ask Of You - Reprise (0.0754) |
-| The Story of Tonight (0.648) | Washington on Your Side (0.0756) |
-| The Schuyler Sisters (0.627) | It's Quiet Uptown (0.0785) |
-| Ten Duel Commandments (0.617) | Be Our Guest - From "Beauty And The Beast" Soundtrack (0.0788) |
-| Blow Us All Away (0.563) | Think Of Me - From 'The Phantom Of The Opera' Motion Picture (0.0798) |
+| I Know Him (0.722) | Farmer Refuted (0.0548) |
+| Reflection (0.722) | Bring Him Home (0.069) |
+| Stars (0.681) | Dear Theodosia (0.0723) |
+| The Point Of No Return - From 'The Phantom Of The Opera' Motion Picture (0.671) | All I Ask Of You - Reprise (0.0754) |
+| The Room Where It Happens (0.664) | Washington on Your Side (0.0756) |
+| The Story of Tonight (0.648) | It's Quiet Uptown (0.0785) |
+| The Schuyler Sisters (0.627) | Be Our Guest - From "Beauty And The Beast" Soundtrack (0.0788) |
+| Ten Duel Commandments (0.617) | Think Of Me - From 'The Phantom Of The Opera' Motion Picture (0.0798) |
+| Blow Us All Away (0.563) | Stay Alive - Reprise (0.0801) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|

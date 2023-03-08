@@ -153,7 +153,7 @@
 
 
 <details>
-<summary>See all 38 genres</summary>
+<summary>See all 39 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -180,6 +180,7 @@
 | 4 | disco |
 | 3 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 3 | outlaw country |
+| 3 | lounge |
 | 3 | bubblegum pop |
 | 3 | arkansas country |
 | 1 | sunshine pop |

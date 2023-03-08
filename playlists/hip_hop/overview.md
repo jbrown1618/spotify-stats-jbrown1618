@@ -121,11 +121,11 @@
 
 ## Genres
 
-![Bar chart of top 28 genres](../../images/playlists/hip_hop/genres.png)
+![Bar chart of top 29 genres](../../images/playlists/hip_hop/genres.png)
 
 
 <details>
-<summary>See all 28 genres</summary>
+<summary>See all 29 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -153,6 +153,7 @@
 | 1 | lgbtq+ hip hop |
 | 1 | k-rap |
 | 1 | [k-pop](../../genres/k_pop.md) |
+| 1 | hip house |
 | 1 | electro |
 | 1 | crunk |
 | 1 | australian hip hop |

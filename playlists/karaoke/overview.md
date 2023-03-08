@@ -209,7 +209,7 @@
 | Number of Tracks | Genre |
 |---:|:---|
 | 27 | [pop](../../genres/pop.md) |
-| 17 | [rock](../../genres/rock.md) |
+| 16 | [rock](../../genres/rock.md) |
 | 14 | [classic rock](../../genres/classic_rock.md) |
 | 13 | [neo mellow](../../genres/neo_mellow.md) |
 | 10 | [pop rock](../../genres/pop_rock.md) |
@@ -220,22 +220,23 @@
 | 7 | [soft rock](../../genres/soft_rock.md) |
 | 7 | [lilith](../../genres/lilith.md) |
 | 7 | [folk rock](../../genres/folk_rock.md) |
-| 6 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 6 | [hollywood](../../genres/hollywood.md) |
 | 6 | [adult standards](../../genres/adult_standards.md) |
+| 5 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 5 | [psychedelic rock](../../genres/psychedelic_rock.md) |
 | 5 | merseybeat |
+| 5 | lounge |
 | 5 | british invasion |
 | 5 | beatlesque |
 | 4 | uk pop |
 | 4 | permanent wave |
-| 4 | lounge |
 | 4 | glam rock |
 | 3 | canadian pop |
 | 3 | australian pop |
 | 2 | viral pop |
 | 2 | urban contemporary |
 | 2 | soul |
+| 2 | [r&b](../../genres/r_b.md) |
 | 2 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 2 | pop soul |
 | 2 | new americana |
@@ -260,7 +261,6 @@
 | 1 | steampunk |
 | 1 | shimmer pop |
 | 1 | roots rock |
-| 1 | [r&b](../../genres/r_b.md) |
 | 1 | quiet storm |
 | 1 | progressive bluegrass |
 | 1 | oxford indie |

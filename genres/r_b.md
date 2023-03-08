@@ -1,16 +1,16 @@
 # r&b
 
-[44 songs](r_b_tracks.md)
+[45 songs](r_b_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 26 artists](../images/genres/r_b/artists.png)
+![Bar chart of top 27 artists](../images/genres/r_b/artists.png)
 
 ![Comparison of Artist](../images/genres/r_b/artists_comparison.png)
 
 
 <details>
-<summary>See all 26 artists</summary>
+<summary>See all 27 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -34,6 +34,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../artists/sara_bareilles.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb009ef60c0a99410630cc40c7" alt="" width="50" /> | Jordin Sparks | [🔗](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f5af779b97c9e52d74d3743" alt="" width="50" /> | Cassie | [🔗](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebca118e3822061f7b7f6bc537" alt="" width="50" /> | Ne-Yo | [🔗](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf75e64532704bd6acf0b4e76" alt="" width="50" /> | Destiny's Child | [🔗](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb02582bb3fa9d68f44a247f39" alt="" width="50" /> | Robin Thicke | [🔗](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb22b2d4713c50ae25a7201429" alt="" width="50" /> | DaniLeigh | [🔗](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) |
@@ -49,7 +50,7 @@
 
 
 <details>
-<summary>See all 31 albums</summary>
+<summary>See all 32 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -70,6 +71,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734e8e488284a2cf00a613c0a1" alt="" width="50" /> | Music From The Motion Picture Cadillac Records | 2008-11-28 | [🔗](https://open.spotify.com/album/4b2zuwf7CPesdiTg1kFDjU) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27394c9217a398f5174757c0c78" alt="" width="50" /> | Love In The Future (Expanded Edition) | 2013-08-30 | [🔗](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273260e2444b3431b3b8b559bc3" alt="" width="50" /> | Jordin Sparks | 2007-11-20 | [🔗](https://open.spotify.com/album/6JCNOvp9UeMrFuXwNW0JW6) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273987a1825341694ec9bc62457" alt="" width="50" /> | In My Own Words | 2006-01-01 | [🔗](https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736e62a873c96524a3788a2edf" alt="" width="50" /> | I Don't Mind (feat. Juicy J) | 2014-11-21 | [🔗](https://open.spotify.com/album/5BAqg5IJQ7XFKfdoCiOlJw) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7" alt="" width="50" /> | HIStory - PAST, PRESENT AND FUTURE - BOOK I | 1995-06-16 | [🔗](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733138f891f3075c9c5d944037" alt="" width="50" /> | Freudian | 2017-08-25 | [🔗](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) |
@@ -90,11 +92,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 19 record labels](../images/genres/r_b/labels.png)
+![Bar chart of top 20 record labels](../images/genres/r_b/labels.png)
 
 
 <details>
-<summary>See all 19 labels</summary>
+<summary>See all 20 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -111,6 +113,7 @@
 | 2 | Arista |
 | 1 | Nu America Music |
 | 1 | Not So Fast |
+| 1 | Def Soul |
 | 1 | [Def Jam Recordings](../labels/def_jam_recordings.md) |
 | 1 | Chris Brown Entertainment |
 | 1 | Bad Boy |
@@ -132,9 +135,9 @@
 | I Don't Mind (feat. Juicy J) (0.87) | Listen (From the Motion Picture "Dreamgirls") (0.432) |
 | Smooth Criminal - 2012 Remaster (0.853) | Irreplaceable (0.447) |
 | Wanna Be Startin' Somethin' (0.842) | Heartbreak Anniversary (0.449) |
-| Bootylicious (0.835) | Teach You - Acoustic (0.497) |
-| Cravin (feat. G-Eazy) (0.834) | Preach (0.508) |
-| Man in the Mirror - 2012 Remaster (0.808) | Halo (0.508) |
+| Bootylicious (0.835) | So Sick (0.452) |
+| Cravin (feat. G-Eazy) (0.834) | Teach You - Acoustic (0.497) |
+| Man in the Mirror - 2012 Remaster (0.808) | Preach (0.508) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -153,14 +156,14 @@
 |:---|:---|
 | Hold Up (0.405) | Ave Maria (0.0279) |
 | Irreplaceable (0.382) | One Step At a Time (0.0289) |
-| Bootylicious (0.284) | Me & U (0.0294) |
-| Partition (0.283) | If I Were a Boy (0.0313) |
-| Cravin (feat. G-Eazy) (0.246) | I'd Rather Go Blind (0.032) |
-| Crazy In Love (feat. Jay-Z) (0.226) | All of Me (0.0322) |
-| Daddy Lessons (0.216) | Best Thing I Never Had (0.0324) |
-| I Don't Mind (feat. Juicy J) (0.178) | I Was Here (0.0335) |
-| Countdown (0.151) | Best Part (feat. H.E.R.) (0.0367) |
-| Green Light (feat. André 3000) (0.119) | Man in the Mirror - 2012 Remaster (0.0381) |
+| So Sick (0.31) | Me & U (0.0294) |
+| Bootylicious (0.284) | If I Were a Boy (0.0313) |
+| Partition (0.283) | I'd Rather Go Blind (0.032) |
+| Cravin (feat. G-Eazy) (0.246) | All of Me (0.0322) |
+| Crazy In Love (feat. Jay-Z) (0.226) | Best Thing I Never Had (0.0324) |
+| Daddy Lessons (0.216) | I Was Here (0.0335) |
+| I Don't Mind (feat. Juicy J) (0.178) | Best Part (feat. H.E.R.) (0.0367) |
+| Countdown (0.151) | Man in the Mirror - 2012 Remaster (0.0381) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
