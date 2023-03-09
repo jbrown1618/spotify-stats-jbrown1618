@@ -147,11 +147,11 @@
 
 ## Genres
 
-![Bar chart of top 27 genres](../../images/playlists/disney/genres.png)
+![Bar chart of top 28 genres](../../images/playlists/disney/genres.png)
 
 
 <details>
-<summary>See all 27 genres</summary>
+<summary>See all 28 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -166,6 +166,7 @@
 | 1 | vocal jazz |
 | 1 | swing |
 | 1 | soul |
+| 1 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 1 | roots rock |
 | 1 | piano blues |
 | 1 | new orleans blues |

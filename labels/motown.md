@@ -54,11 +54,11 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 11 genres](../images/labels/motown/genres.png)
+![Bar chart of top 10 genres](../images/labels/motown/genres.png)
 
 
 <details>
-<summary>See all 11 genres</summary>
+<summary>See all 10 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -69,7 +69,6 @@ Appears as:
 | 5 | quiet storm |
 | 5 | classic soul |
 | 4 | memphis soul |
-| 3 | lounge |
 | 1 | [soft rock](../genres/soft_rock.md) |
 | 1 | [mellow gold](../genres/mellow_gold.md) |
 | 1 | disco |

@@ -155,7 +155,7 @@ Appears as:
 | 31 | [mellow gold](../genres/mellow_gold.md) |
 | 28 | [folk rock](../genres/folk_rock.md) |
 | 26 | [soft rock](../genres/soft_rock.md) |
-| 23 | [singer-songwriter](../genres/singer_songwriter.md) |
+| 24 | [singer-songwriter](../genres/singer_songwriter.md) |
 | 22 | piano rock |
 | 20 | [dance pop](../genres/dance_pop.md) |
 | 19 | [r&b](../genres/r_b.md) |

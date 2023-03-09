@@ -113,7 +113,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273700c67465db0a6d66c3a36d6" alt="" width="50" /> | HARMONY : ZERO IN | 2022-07-20 | [🔗](https://open.spotify.com/album/73CTPjApMDvFsycjbbROji) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733de8d21c10a5beed844bba5b" alt="" width="50" /> | Gotta Go | 2019-01-02 | [🔗](https://open.spotify.com/album/7BYCvUqCaeIo2jgOl9iAGr) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555" alt="" width="50" /> | FEARLESS | 2022-05-02 | [🔗](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739e87fd81ab0dfad228f8a004" alt="" width="50" /> | FANCY YOU | 2019-04-22 | [🔗](https://open.spotify.com/album/2qoWlACJtoG0L5owi7Tj0I) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | FANCY YOU | 2019-04-22 | [🔗](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738acb7bac073f378d59bf228e" alt="" width="50" /> | Crazy | 2015-02-09 | [🔗](https://open.spotify.com/album/5ooERKclQluBVu00PIH9Xm) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739e0863f52c51d1c38a145d5a" alt="" width="50" /> | COLOR*IZ | 2018-10-29 | [🔗](https://open.spotify.com/album/5Fl13rfH2DRRTo6OV4ecJY) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732bf83c1a01156fb93b564160" alt="" width="50" /> | Bubble Pop! | 2011-07-05 | [🔗](https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp) |
@@ -127,19 +127,19 @@
 
 ## Top Record Labels
 
-![Bar chart of top 26 record labels](../../images/playlists/k_pop_101/labels.png)
+![Bar chart of top 25 record labels](../../images/playlists/k_pop_101/labels.png)
 
 
 <details>
-<summary>See all 26 labels</summary>
+<summary>See all 25 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
 | 12 | [SM Entertainment](../../labels/sm_entertainment.md) |
+| 4 | [Republic Records](../../labels/republic_records.md) |
 | 4 | [Genie Music Corporation](../../labels/genie_music_corporation.md) |
 | 3 | [YG Entertainment](../../labels/yg_entertainment.md) |
 | 3 | [Stone Music Entertainment](../../labels/stone_music_entertainment.md) |
-| 3 | [Republic Records](../../labels/republic_records.md) |
 | 3 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment.md) |
 | 2 | [Starship Entertainment](../../labels/starship_entertainment.md) |
 | 2 | [SOURCE MUSIC](../../labels/source_music.md) |
@@ -153,7 +153,6 @@
 | 1 | [Kakao Entertainment](../../labels/kakao_entertainment.md) |
 | 1 | KQ Entertainment |
 | 1 | [Interscope Records](../../labels/interscope_records.md) |
-| 1 | Imperial Distribution |
 | 1 | [High Up Entertainment](../../labels/high_up_entertainment.md) |
 | 1 | [HYBE](../../labels/hybe.md) |
 | 1 | [FNC ENTERTAINMENT](../../labels/fnc_entertainment.md) |
@@ -178,7 +177,7 @@
 | 38 | [k-pop](../../genres/k_pop.md) |
 | 19 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 16 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
-| 3 | [pop](../../genres/pop.md) |
+| 2 | [pop](../../genres/pop.md) |
 | 1 | korean r&b |
 | 1 | [dance pop](../../genres/dance_pop.md) |
 | 1 | anime |
@@ -261,15 +260,15 @@
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | I Am The Best (0.00834) | FEVER (0.0) |
-| Bubble Pop! (0.00392) | FANCY (0.0) |
-| FEARLESS (0.00324) | Back Door (0.0) |
-| MAGO (0.000578) | Hype Boy (0.0) |
-| WANNABE (0.000179) | Gashina (0.0) |
-| How You Like That (0.000135) | 눈,코,입 (Eyes, Nose, Lips) (0.0) |
-| LOVE DIVE (5.43e-05) | Gotta Go (0.0) |
-| Doom Du Doom (4.82e-05) | Love Shot (0.0) |
-| HIP (3.15e-05) | Pretty U (0.0) |
-| Next Level (5.94e-06) | Amusement Park (0.0) |
+| Bubble Pop! (0.00392) | Back Door (0.0) |
+| FEARLESS (0.00324) | Hype Boy (0.0) |
+| MAGO (0.000578) | Gashina (0.0) |
+| WANNABE (0.000179) | 눈,코,입 (Eyes, Nose, Lips) (0.0) |
+| How You Like That (0.000135) | Gotta Go (0.0) |
+| LOVE DIVE (5.43e-05) | Love Shot (0.0) |
+| Doom Du Doom (4.82e-05) | Pretty U (0.0) |
+| HIP (3.15e-05) | Amusement Park (0.0) |
+| Next Level (5.94e-06) | MOVE (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|

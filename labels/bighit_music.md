@@ -1,10 +1,10 @@
 # BIGHIT MUSIC
 
-43 songs
+42 songs
 
 Appears as:
 - BIGHIT MUSIC (27 tracks)
-- BIGHIT MUSIC / HYBE (16 tracks)
+- BIGHIT MUSIC / HYBE (15 tracks)
 
 ## Top Artists
 
@@ -17,7 +17,7 @@ Appears as:
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
 | 32 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
-| 6 | <img src="https://i.scdn.co/image/ab6761610000e5ebe94c521bbe0604a5fcd4f8bf" alt="" width="50" /> | Agust D | [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) |
+| 5 | <img src="https://i.scdn.co/image/ab6761610000e5ebe94c521bbe0604a5fcd4f8bf" alt="" width="50" /> | Agust D | [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | j-hope | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5fb007a707c0ec3a7c1726af" alt="" width="50" /> | Steve Aoki | [🔗](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebadd503b411a712e277895c8a" alt="" width="50" /> | J. Cole | [🔗](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) |
@@ -39,8 +39,8 @@ Appears as:
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
-| 5 | <img src="https://i.scdn.co/image/ab67616d0000b273a498cf792773aa474d779dd8" alt="" width="50" /> | D-2 | 2020-05-22 | [🔗](https://open.spotify.com/album/0zhGddZ83RpCgnelKWa2qS) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | Love Yourself 轉 'Tear' | 2018-05-18 | [🔗](https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O) |
+| 4 | <img src="https://i.scdn.co/image/ab67616d0000b273a498cf792773aa474d779dd8" alt="" width="50" /> | D-2 | 2020-05-22 | [🔗](https://open.spotify.com/album/0zhGddZ83RpCgnelKWa2qS) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | MAP OF THE SOUL : PERSONA | 2019-04-12 | [🔗](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="" width="50" /> | MAP OF THE SOUL : 7 | 2020-02-21 | [🔗](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | Love Yourself 結 'Answer' | 2018-08-24 | [🔗](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) |
@@ -75,7 +75,7 @@ Appears as:
 |---:|:---|
 | 37 | [k-pop](../genres/k_pop.md) |
 | 32 | [k-pop boy group](../genres/k_pop_boy_group.md) |
-| 11 | k-rap |
+| 10 | k-rap |
 
 </details>
 
@@ -87,8 +87,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273a498cf792773aa474d779dd8" alt="" width="50" /> | Burn It | D-2 | Agust D, MAX | [BIGHIT MUSIC](bighit_music.md), [HYBE](hybe.md) | | [🔗](https://open.spotify.com/track/0x25VdiFOIBl1epNer9L3w) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a498cf792773aa474d779dd8" alt="" width="50" /> | Daechwita | D-2 | Agust D | [BIGHIT MUSIC](bighit_music.md), [HYBE](hybe.md) | 💚 | [🔗](https://open.spotify.com/track/0H4ugk6rhnXmTl47ayy9O5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a498cf792773aa474d779dd8" alt="" width="50" /> | Moonlight | D-2 | Agust D | [BIGHIT MUSIC](bighit_music.md), [HYBE](hybe.md) | 💚 | [🔗](https://open.spotify.com/track/5uHrWZqndnheP1qtYr6xGC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a498cf792773aa474d779dd8" alt="" width="50" /> | People | D-2 | Agust D | [BIGHIT MUSIC](bighit_music.md), [HYBE](hybe.md) | 💚 | [🔗](https://open.spotify.com/track/0SJ7vFES0Lj6pnumh3DhCe) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | People | D-2 | Agust D | [BIGHIT MUSIC](bighit_music.md) | | [🔗](https://open.spotify.com/track/4wDSEE082RPcnhXzPzFhCp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | People | D-2 | Agust D | [BIGHIT MUSIC](bighit_music.md) | 💚 | [🔗](https://open.spotify.com/track/4wDSEE082RPcnhXzPzFhCp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a498cf792773aa474d779dd8" alt="" width="50" /> | Strange | D-2 | Agust D, RM | [BIGHIT MUSIC](bighit_music.md), [HYBE](hybe.md) | | [🔗](https://open.spotify.com/track/4KjASaPtCvRJ4YArYpz6je) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27349a0f2ca62742d289da81509" alt="" width="50" /> | Like | 2 Cool 4 Skool | [BTS](../artists/bts.md) | [BIGHIT MUSIC](bighit_music.md), [HYBE](hybe.md) | | [🔗](https://open.spotify.com/track/1HQHuPpr2s2z3VIBTLtUmv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27349a0f2ca62742d289da81509" alt="" width="50" /> | No More Dream | 2 Cool 4 Skool | [BTS](../artists/bts.md) | [BIGHIT MUSIC](bighit_music.md), [HYBE](hybe.md) | | [🔗](https://open.spotify.com/track/4frlkLwlnm58ejpNwWjxyl) |

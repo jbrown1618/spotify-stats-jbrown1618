@@ -355,14 +355,14 @@
 
 
 <details>
-<summary>See all 33 genres</summary>
+<summary>See all 32 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
 | 846 | [k-pop](../../genres/k_pop.md) |
 | 374 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 237 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
-| 85 | [pop](../../genres/pop.md) |
+| 58 | [pop](../../genres/pop.md) |
 | 44 | [korean pop](../../genres/korean_pop.md) |
 | 34 | korean r&b |
 | 23 | k-rap |
@@ -390,7 +390,6 @@
 | 1 | [electropop](../../genres/electropop.md) |
 | 1 | electronic trap |
 | 1 | danish pop |
-| 1 | chill r&b |
 | 1 | [art pop](../../genres/art_pop.md) |
 
 </details>
@@ -406,8 +405,8 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| [2023](2023.md) | 25 |
-| [2022](2022.md) | 282 |
+| [2023](2023.md) | 24 |
+| [2022](2022.md) | 283 |
 | [2021](2021.md) | 201 |
 | [2020](2020.md) | 129 |
 | [2019](2019.md) | 80 |

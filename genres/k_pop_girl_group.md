@@ -1,6 +1,6 @@
 # k-pop girl group
 
-[396 songs](k_pop_girl_group_tracks.md)
+[395 songs](k_pop_girl_group_tracks.md)
 
 ## Top Artists
 
@@ -15,7 +15,7 @@
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
 | 63 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
-| 39 | <img src="https://i.scdn.co/image/ab6761610000e5eb200008f1cb940483514db2bd" alt="" width="50" /> | [TWICE](../artists/twice.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
+| 38 | <img src="https://i.scdn.co/image/ab6761610000e5eb200008f1cb940483514db2bd" alt="" width="50" /> | [TWICE](../artists/twice.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | 37 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../artists/itzy.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 | 33 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | 28 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
@@ -199,7 +199,7 @@
 
 
 <details>
-<summary>See all 62 labels</summary>
+<summary>See all 61 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -250,7 +250,6 @@
 | 1 | PLAY M ENTERTAINMENT CORP. |
 | 1 | Mydoll Ent. |
 | 1 | Kakao M Corp. |
-| 1 | Imperial Distribution |
 | 1 | IST ENTERTAINMENT |
 | 1 | IOK COMPANY |
 | 1 | HAPPYTRIBE ENTERTAINMENT |
@@ -333,8 +332,8 @@
 | Power Up (0.00745) | The Boys (0.0) |
 | BBoom BBoom (0.00666) | Talk that Talk (0.0) |
 | In My Dreams (0.0066) | Pirate (0.0) |
-| FIRE (0.00643) | FANCY (0.0) |
-| BAAM (0.00431) | So Good (0.0) |
+| FIRE (0.00643) | So Good (0.0) |
+| BAAM (0.00431) | Love So Sweet (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
