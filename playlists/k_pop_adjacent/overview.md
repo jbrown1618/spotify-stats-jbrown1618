@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2733317fc12f8b9a9a0b8459766ab67616d0000b27363e0ddbb488d0eeec0e738fcab67616d0000b27384095737f6056e682666d6f9ab67616d0000b273f2bf9685109a09bdc176fb43" alt="K-Pop-Adjacent" width="100" />
 
-[38 songs](tracks.md)
+[39 songs](tracks.md)
 
 ## Top Artists
 
@@ -13,7 +13,7 @@
 
 
 <details>
-<summary>See all 50 artists</summary>
+<summary>See all 53 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -26,6 +26,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | [Beyoncé](../../artists/beyonc_.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb89ad1bc33aa9abcaf4370c77" alt="" width="50" /> | Loving Caliber | [🔗](https://open.spotify.com/artist/6psCCMHymYfQy6VvYRr6cs) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb52ca4fca28b86ca3a7d9846d" alt="" width="50" /> | Destiny Rogers | [🔗](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5f32a5ef76b9480c601f256f" alt="" width="50" /> | Brendon Urie | [🔗](https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e2e2c78de847c4d9b12d32f" alt="" width="50" /> | Charlie Puth | [🔗](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) |
 | 1 | <img src="nan" alt="" width="50" /> | Nam Joohyuk | [🔗](https://open.spotify.com/artist/69ybhMoBUPmIcH4MyDARDv) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
@@ -55,6 +56,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | [CHUNG HA](../../artists/chung_ha.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb970f0b3d28b0b43bed19ee87" alt="" width="50" /> | Vincent Blue | [🔗](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb894ef9fa437b0389c5567cc" alt="" width="50" /> | Post Malone | [🔗](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb256ae9a4b82bfff97776ae2" alt="" width="50" /> | Panic! At The Disco | [🔗](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) |
 | 1 | <img src="nan" alt="" width="50" /> | Choi Hyunwook | [🔗](https://open.spotify.com/artist/1z2J8XtoQxczs0U1lMWEiZ) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb39ce949d62ff47fc1de1a2d9" alt="" width="50" /> | Ozuna | [🔗](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273c3a29b298ed01d5fc7a3a78c" alt="" width="50" /> | Kim Ah Joong | [🔗](https://open.spotify.com/artist/1daXpWxDzFCR7fvPP6Z8wK) |
@@ -66,6 +68,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2657bcafcb300d90816523f" alt="" width="50" /> | Kehlani | [🔗](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) |
 | 1 | <img src="nan" alt="" width="50" /> | Kim Taeri | [🔗](https://open.spotify.com/artist/0bBDQ4QeizwResorw0iD7X) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb22b2d4713c50ae25a7201429" alt="" width="50" /> | DaniLeigh | [🔗](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | [Taylor Swift](../../artists/taylor_swift.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe818f7ca0d47f038a9aa246a" alt="" width="50" /> | G-Eazy | [🔗](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) |
 
 </details>
@@ -77,7 +80,7 @@
 
 
 <details>
-<summary>See all 37 albums</summary>
+<summary>See all 38 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -102,6 +105,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb" alt="" width="50" /> | Motley Crew | 2021-07-09 | [🔗](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f3ebb80519c23d6d08e49ec6" alt="" width="50" /> | Magical | 2018-09-04 | [🔗](https://open.spotify.com/album/2rUeXUM8fCb2D26NPoy0Y3) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d3b343b757e4f3275bb2f26a" alt="" width="50" /> | MINT | 2018-10-19 | [🔗](https://open.spotify.com/album/5hUQgovUfTYN47QGQXF8k2) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Lover | 2019-08-23 | [🔗](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d66fa6cfaadb6b634bd1c640" alt="" width="50" /> | Love's Battery | 2009-06-19 | [🔗](https://open.spotify.com/album/03IVWQyi8lzS4t2WQKu5iI) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f7ec724fbf97a30869d06240" alt="" width="50" /> | Let Go | 2002-06-04 | [🔗](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736564f1d8386a6993b4d5d759" alt="" width="50" /> | LUCID | 2019-11-15 | [🔗](https://open.spotify.com/album/5qQhQ1rmPjqQgv8RmfaQU3) |
@@ -128,7 +132,7 @@
 
 
 <details>
-<summary>See all 37 labels</summary>
+<summary>See all 38 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -149,6 +153,7 @@
 | 1 | [Warner Records](../../labels/warner_records.md) |
 | 1 | The Other Songs |
 | 1 | Teleport Records |
+| 1 | [Taylor Swift](../../labels/taylor_swift.md) |
 | 1 | Studio MaumC |
 | 1 | SBS Contents Hub Co. |
 | 1 | Riot Games |
@@ -183,7 +188,7 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 14 | [pop](../../genres/pop.md) |
+| 15 | [pop](../../genres/pop.md) |
 | 10 | [dance pop](../../genres/dance_pop.md) |
 | 5 | [r&b](../../genres/r_b.md) |
 | 5 | [post-teen pop](../../genres/post_teen_pop.md) |
@@ -267,11 +272,11 @@
 | Sk8er Boi (0.9) | At My Worst (0.415) |
 | Break My Heart Myself (feat. Travis Barker) (0.857) | Partition (0.441) |
 | SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (0.837) | With (0.461) |
-| Cry for Me (0.805) | Heartbreak Anniversary (0.465) |
-| Maria (0.733) | River (0.477) |
-| Salute (0.732) | MALAMENTE - Cap.1: Augurio (0.482) |
-| From now on (0.729) | Tango (0.519) |
-| LEFT RIGHT (0.721) | Cravin (feat. G-Eazy) (0.538) |
+| ME! (feat. Brendon Urie of Panic! At The Disco) (0.83) | Heartbreak Anniversary (0.465) |
+| Cry for Me (0.805) | River (0.477) |
+| Maria (0.733) | MALAMENTE - Cap.1: Augurio (0.482) |
+| Salute (0.732) | Tango (0.519) |
+| From now on (0.729) | Cravin (feat. G-Eazy) (0.538) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -297,7 +302,7 @@
 | Heartbreak Anniversary (0.524) | SHOOTING STAR (0.0229) |
 | Tomboy (0.423) | VILLAIN (0.0232) |
 | Good Thing (with Kehlani) (0.399) | Partition (0.029) |
-| Boat (0.389) | Tippy Toes (0.0354) |
+| Boat (0.389) | ME! (feat. Brendon Urie of Panic! At The Disco) (0.033) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
@@ -307,10 +312,10 @@
 | Partition (0.0707) | City Girls (0.0) |
 | MALAMENTE - Cap.1: Augurio (0.0164) | Tango (0.0) |
 | Tomboy (0.00512) | I'm Out Of My Mind (0.0) |
-| SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (0.00313) | Wet The Bed (feat. Ludacris) (0.0) |
-| Maria (0.00168) | Boat (0.0) |
-| From now on (0.000374) | SHOOTING STAR (0.0) |
-| Light Switch (0.000321) | Love's Battery (0.0) |
+| SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (0.00313) | ME! (feat. Brendon Urie of Panic! At The Disco) (0.0) |
+| Maria (0.00168) | Wet The Bed (feat. Ludacris) (0.0) |
+| From now on (0.000374) | Boat (0.0) |
+| Light Switch (0.000321) | SHOOTING STAR (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -333,7 +338,7 @@
 | LEFT RIGHT (0.884) | Motley Crew (0.288) |
 | City Girls (0.815) | VILLAIN (0.306) |
 | From now on (0.749) | With (0.322) |
-| Bad (0.713) | Salute (0.354) |
-| SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (0.702) | SHOOTING STAR (0.398) |
-| At My Worst (0.667) | Sneaky Snitch (0.4) |
-| When I Get Old (0.658) | Wet The Bed (feat. Ludacris) (0.411) |
+| ME! (feat. Brendon Urie of Panic! At The Disco) (0.728) | Salute (0.354) |
+| Bad (0.713) | SHOOTING STAR (0.398) |
+| SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (0.702) | Sneaky Snitch (0.4) |
+| At My Worst (0.667) | Wet The Bed (feat. Ludacris) (0.411) |

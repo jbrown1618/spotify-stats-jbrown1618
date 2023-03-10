@@ -86,7 +86,7 @@ Appears as:
 | 1 | <img src="nan" alt="" width="50" /> | Dorothy Compton | [🔗](https://open.spotify.com/artist/0humNRtJZUnSFh10d8Vnou) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27305d0d8ec1b50e468268e1a54" alt="" width="50" /> | Pat Carroll | [🔗](https://open.spotify.com/artist/0Yy9u86cq66Se2pB9fYaiW) |
 | 1 | <img src="nan" alt="" width="50" /> | Gabriella Flores | [🔗](https://open.spotify.com/artist/0IFKI1ya1XM9LGVktNS2cS) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739e28a135e8a46e60bcc50ad2" alt="" width="50" /> | Gael Garcia Bernal | [🔗](https://open.spotify.com/artist/09oR0uKhqwScsKa2eUK97p) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733cbfcd3c6633787ff8021f83" alt="" width="50" /> | Gael Garcia Bernal | [🔗](https://open.spotify.com/artist/09oR0uKhqwScsKa2eUK97p) |
 | 1 | <img src="nan" alt="" width="50" /> | Mary Moder | [🔗](https://open.spotify.com/artist/00ud2vhOOcbrUyGGYPSTYh) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27394c1072c43f5c7f98f517067" alt="" width="50" /> | James Hong | [🔗](https://open.spotify.com/artist/00erTY7OuCOdNTN36srPNN) |
 
@@ -128,11 +128,11 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 27 genres](../images/labels/walt_disney_records/genres.png)
+![Bar chart of top 28 genres](../images/labels/walt_disney_records/genres.png)
 
 
 <details>
-<summary>See all 27 genres</summary>
+<summary>See all 28 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -159,6 +159,7 @@ Appears as:
 | 1 | folk |
 | 1 | country rock |
 | 1 | classic uk pop |
+| 1 | [classic rock](../genres/classic_rock.md) |
 | 1 | bubblegum pop |
 | 1 | [broadway](../genres/broadway.md) |
 | 1 | blues rock |

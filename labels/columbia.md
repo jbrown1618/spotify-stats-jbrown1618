@@ -145,7 +145,7 @@ Appears as:
 
 
 <details>
-<summary>See all 63 genres</summary>
+<summary>See all 62 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -205,7 +205,6 @@ Appears as:
 | 1 | [electropop](../genres/electropop.md) |
 | 1 | electro house |
 | 1 | dancehall |
-| 1 | country rock |
 | 1 | classic mandopop |
 | 1 | c-pop |
 | 1 | australian rock |

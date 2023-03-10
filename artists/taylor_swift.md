@@ -10,6 +10,7 @@
 | 60 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273022b4010e20659300f42c375ab67616d0000b2730e402844f1b6be3102d339f2ab67616d0000b2733378545422c5257483f6230eab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | [Singer-Songwriter](../playlists/singer_songwriter/overview.md) |
 | 51 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | [Pop](../playlists/pop/overview.md) |
 | 3 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27303668e3f13559554eca8ccc6ab67616d0000b2730eb56329734f9400c1639359ab67616d0000b27314ed51ab46ef0765182bb8a0ab67616d0000b273987a1825341694ec9bc62457" alt="" width="50" /> | [Tarps](../playlists/tarps/overview.md) |
+| 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2733317fc12f8b9a9a0b8459766ab67616d0000b27363e0ddbb488d0eeec0e738fcab67616d0000b27384095737f6056e682666d6f9ab67616d0000b273f2bf9685109a09bdc176fb43" alt="" width="50" /> | [K-Pop-Adjacent](../playlists/k_pop_adjacent/overview.md) |
 | 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732d73b1bb77cee09f0278be04ab67616d0000b2736f50b3400595b123a916e0dcab67616d0000b2739ab215825eb77076b1b4b387ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | [Karaoke](../playlists/karaoke/overview.md) |
 ## Top Albums
 
@@ -18,7 +19,7 @@
 | 10 | <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | reputation | 2017-11-10 | [🔗](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) |
 | 10 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | folklore | 2020-07-24 | [🔗](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) |
 | 10 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Midnights | 2022-10-21 | [🔗](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) |
-| 8 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Lover | 2019-08-23 | [🔗](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) |
+| 9 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Lover | 2019-08-23 | [🔗](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) |
 | 8 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="" width="50" /> | 1989 | 2014-10-27 | [🔗](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | Red | 2012-10-22 | [🔗](https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be" alt="" width="50" /> | evermore | 2020-12-11 | [🔗](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) |
@@ -33,7 +34,7 @@
 
 | Number of Tracks | Label |
 |---:|:---|
-| 32 | [Taylor Swift](../labels/taylor_swift.md) |
+| 33 | [Taylor Swift](../labels/taylor_swift.md) |
 | 29 | [Big Machine Records](../labels/big_machine_records.md) |
 | 1 | Universal Music Group |
 
@@ -81,6 +82,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | I Think He Knows | Lover | [Taylor Swift](taylor_swift.md) | [Taylor Swift](../labels/taylor_swift.md) | | [🔗](https://open.spotify.com/track/2YWtcWi3a83pdEg3Gif4Pd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | London Boy | Lover | [Taylor Swift](taylor_swift.md) | [Taylor Swift](../labels/taylor_swift.md) | 💚 | [🔗](https://open.spotify.com/track/1LLXZFeAHK9R4xUramtUKw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Lover | Lover | [Taylor Swift](taylor_swift.md) | [Taylor Swift](../labels/taylor_swift.md) | 💚 | [🔗](https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | ME! (feat. Brendon Urie of Panic! At The Disco) | Lover | [Taylor Swift](taylor_swift.md), Brendon Urie, Panic! At The Disco | [Taylor Swift](../labels/taylor_swift.md) | | [🔗](https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Paper Rings | Lover | [Taylor Swift](taylor_swift.md) | [Taylor Swift](../labels/taylor_swift.md) | 💚 | [🔗](https://open.spotify.com/track/4y5bvROuBDPr5fuwXbIBZR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | august | folklore | [Taylor Swift](taylor_swift.md) | [Taylor Swift](../labels/taylor_swift.md) | 💚 | [🔗](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | cardigan | folklore | [Taylor Swift](taylor_swift.md) | [Taylor Swift](../labels/taylor_swift.md) | 💚 | [🔗](https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd) |

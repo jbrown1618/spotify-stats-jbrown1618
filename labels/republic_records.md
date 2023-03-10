@@ -1,10 +1,10 @@
 # Republic Records
 
-133 songs
+139 songs
 
 Appears as:
 - Republic Records - Stray Kids (42 tracks)
-- Republic Records - TWICE (35 tracks)
+- Republic Records - TWICE (41 tracks)
 - Republic Records - ITZY (31 tracks)
 - Republic Records (13 tracks)
 - Republic Records - TXT (8 tracks)
@@ -23,7 +23,7 @@ Appears as:
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
 | 42 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
-| 35 | <img src="https://i.scdn.co/image/ab6761610000e5eb200008f1cb940483514db2bd" alt="" width="50" /> | [TWICE](../artists/twice.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
+| 41 | <img src="https://i.scdn.co/image/ab6761610000e5eb200008f1cb940483514db2bd" alt="" width="50" /> | [TWICE](../artists/twice.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | 31 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../artists/itzy.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 | 10 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../artists/ariana_grande.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb63329d77582c519154674fd7" alt="" width="50" /> | TOMORROW X TOGETHER | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
@@ -56,6 +56,7 @@ Appears as:
 |---:|:---|:---|:---|:---|
 | 11 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | SKZ-REPLAY | 2022-12-21 | [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) |
 | 8 | <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | Formula of Love: O+T=<3 | 2021-11-12 | [🔗](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) |
+| 7 | <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | READY TO BE | 2023-03-10 | [🔗](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) |
 | 6 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | NOEASY | 2021-08-23 | [🔗](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) |
 | 6 | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | CRAZY IN LOVE | 2021-09-24 | [🔗](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) |
 | 6 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | CHECKMATE | 2022-07-15 | [🔗](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) |
@@ -97,7 +98,6 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f0d00e054e9a9cb2e86cdf72" alt="" width="50" /> | Merry & Happy | 2017-12-11 | [🔗](https://open.spotify.com/album/0R7pj4tnmcoUulrZGPo6nw) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731e2f86e459a48cfb891bd70d" alt="" width="50" /> | MORE & MORE (English Version) | 2020-08-21 | [🔗](https://open.spotify.com/album/4AXNnQf2SkyY8d4FQaBKo5) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27324869424ae632466b839a8a8" alt="" width="50" /> | MORE & MORE | 2020-06-01 | [🔗](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736887b017d077dfc5787a3e23" alt="" width="50" /> | MOONLIGHT SUNRISE | 2023-01-20 | [🔗](https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27388e3cda6d29b2552d4d6bc43" alt="" width="50" /> | Kid Krow | 2020-03-20 | [🔗](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273212e7fb3309718d9d4132095" alt="" width="50" /> | In the morning (English Ver.) | 2021-05-14 | [🔗](https://open.spotify.com/album/1VbG3CJlf1cSVDibgiM3GM) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273fc620c06721e90a534cc5dab" alt="" width="50" /> | IT'z ME | 2020-03-09 | [🔗](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) |
@@ -126,8 +126,8 @@ Appears as:
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 85 | [k-pop](../genres/k_pop.md) |
-| 66 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+| 91 | [k-pop](../genres/k_pop.md) |
+| 72 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 | 50 | [k-pop boy group](../genres/k_pop_boy_group.md) |
 | 15 | [pop](../genres/pop.md) |
 | 13 | [dance pop](../genres/dance_pop.md) |
@@ -286,4 +286,10 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | Basics | BETWEEN 1&2 | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/63mL1DdcSFfxVJ9XGnSRQz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | Brave | BETWEEN 1&2 | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | | [🔗](https://open.spotify.com/track/2peoFPokM6eYAIwLm9IQ8E) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | Talk that Talk | BETWEEN 1&2 | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736887b017d077dfc5787a3e23" alt="" width="50" /> | MOONLIGHT SUNRISE | MOONLIGHT SUNRISE | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | BLAME IT ON ME | READY TO BE | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/2hQdmjAhYEuMuqNWZCsz1J) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | CRAZY STUPID LOVE | READY TO BE | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/0jn8sYeWOdYHjdF2cBmF75) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | GOT THE THRILLS | READY TO BE | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/1RVsbqAP1WFFXPiBXQYIah) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | MOONLIGHT SUNRISE | READY TO BE | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/5IN9W6eUfk3014My9awagX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | SET ME FREE | READY TO BE | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | SET ME FREE (ENG) | READY TO BE | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | | [🔗](https://open.spotify.com/track/6bkTxw6m6vl8Oc3xtKBXN0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | WALLFLOWER | READY TO BE | [TWICE](../artists/twice.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/6EGkbPJrb88STcdfMu1j1y) |

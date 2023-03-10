@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="K-Pop Favorites" width="100" />
 
-[217 songs](tracks.md)
+[220 songs](tracks.md)
 
 ## Top Artists
 
@@ -13,7 +13,7 @@
 
 
 <details>
-<summary>See all 89 artists</summary>
+<summary>See all 90 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -22,8 +22,8 @@
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../../artists/enhypen.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | [IU](../../artists/iu.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../../artists/itzy.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
+| 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb200008f1cb940483514db2bd" alt="" width="50" /> | [TWICE](../../artists/twice.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../../artists/aespa.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
-| 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb200008f1cb940483514db2bd" alt="" width="50" /> | [TWICE](../../artists/twice.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="" width="50" /> | [TAEYEON](../../artists/taeyeon.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../../artists/_g_i_dle.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
@@ -39,6 +39,7 @@
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f44c5165785a877bd4ae376" alt="" width="50" /> | [STAYC](../../artists/stayc.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebadffb99dc62d070da29306ff" alt="" width="50" /> | JEON SOYEON | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb6199c3c2f414880e2b9077a9" alt="" width="50" /> | NewJeans | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
+| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb5d87e2a10ba3b2f8bb2c5270" alt="" width="50" /> | ATEEZ | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e2e0f17d257a40be0782f35" alt="" width="50" /> | [BAEKHYUN](../../artists/baekhyun.md) | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="" width="50" /> | EVERGLOW | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb64aa2c83dd30331b56ffddf3" alt="" width="50" /> | NCT DREAM | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
@@ -51,13 +52,12 @@
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b13da5a8a3dd6e0d53ff764" alt="" width="50" /> | Red Velvet - IRENE & SEULGI | [🔗](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5b1a291b0a6a689091d54d8b" alt="" width="50" /> | IVE | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a29246fa242d0b9f8de3b31" alt="" width="50" /> | SUNMI | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5d87e2a10ba3b2f8bb2c5270" alt="" width="50" /> | ATEEZ | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="" width="50" /> | [Dreamcatcher](../../artists/dreamcatcher.md) | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb1b86652b4761cbc4d3bc791f" alt="" width="50" /> | BoA | [🔗](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf1d6a7c024d667150db85c85" alt="" width="50" /> | TEN | [🔗](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebde8ad216e0ff7a76573c835e" alt="" width="50" /> | [SEULGI](../../artists/seulgi.md) | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb968ab271c895fb9cc245d6fe" alt="" width="50" /> | [Billlie](../../artists/billlie.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb3202449ae19d68607e3f1530" alt="" width="50" /> | NMIXX | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
+| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb04c88d140b3db4fa42ef84f2" alt="" width="50" /> | NMIXX | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99713cdd2a68b0db306aad6" alt="" width="50" /> | TAEMIN | [🔗](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8166baa6c8c9a5d1dbc41b5" alt="" width="50" /> | JOY | [🔗](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2be8611f6c6e9174031c64df" alt="" width="50" /> | JEON SOMI | [🔗](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) |
@@ -81,6 +81,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273aae78727e396da9f03032eda" alt="" width="50" /> | Lee Mujin | [🔗](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | Suzy | [🔗](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3806dc272074141b5f4ae00d" alt="" width="50" /> | MONSTA X | [🔗](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273e328c250ba600a7e0a48f867" alt="" width="50" /> | Gain | [🔗](https://open.spotify.com/artist/4R60A85t9mTZzCqJlVswuo) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb597a4257d0022e2ac837fa7d" alt="" width="50" /> | BIGBANG | [🔗](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8aec4284aed8bb502a411043" alt="" width="50" /> | AILEE | [🔗](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebca0f902787c28688c85ad273" alt="" width="50" /> | WONWOO | [🔗](https://open.spotify.com/artist/3rHcBT06Vb1XGVUWhDALZt) |
@@ -193,6 +194,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273af2fda9fb591d43c355c2ac3" alt="" width="50" /> | STAYDOM | 2021-04-08 | [🔗](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef" alt="" width="50" /> | SQUARE UP | 2018-06-15 | [🔗](https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273570f746ccc2c75af070da1e0" alt="" width="50" /> | SPRING | 2016-05-04 | [🔗](https://open.spotify.com/album/0HtbFp1B1WrbUr9mcBrAhN) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc5762a75c18b494803705c" alt="" width="50" /> | SPIN OFF : FROM THE WITNESS | 2022-12-30 | [🔗](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27362e6288a5887b95176cca29e" alt="" width="50" /> | SOLO | 2018-11-12 | [🔗](https://open.spotify.com/album/7qAJpYeABXN9ZV5wOOX59k) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273decd839dd4fef3faf64c5fd5" alt="" width="50" /> | SEVENTEEN 4th Album 'Face the Sun' | 2022-05-27 | [🔗](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273deeee778a591e7032c1bdc80" alt="" width="50" /> | SEVENTEEN 1ST ALBUM [FIRST ‘LOVE&LETTER’] | 2016-04-25 | [🔗](https://open.spotify.com/album/50BrkBakrLWufmTLjCVBwn) |
@@ -203,6 +205,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273e1ceb97165340ef92392b948" alt="" width="50" /> | RISE | 2014-06-03 | [🔗](https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734a8b951ff5979dc187340b1d" alt="" width="50" /> | RED MOON | 2018-07-16 | [🔗](https://open.spotify.com/album/6GhELYbXRo1LOqRPOCsQrF) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="" width="50" /> | REASON | 2023-01-09 | [🔗](https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | READY TO BE | 2023-03-10 | [🔗](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="" width="50" /> | RBB - The 5th Mini Album | 2018-11-30 | [🔗](https://open.spotify.com/album/7rNIvLwIpB2mwOzk20iqIl) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f" alt="" width="50" /> | R | 2021-03-12 | [🔗](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b87c0d76ed9c7b1654b390d0" alt="" width="50" /> | Purpose - The 2nd Album | 2019-10-28 | [🔗](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) |
@@ -218,8 +221,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734525dae431a233a077d2395c" alt="" width="50" /> | NCT RESONANCE Pt. 1 - The 2nd Album | 2020-10-12 | [🔗](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738c7e7f435fdcc70772c5555e" alt="" width="50" /> | My Voice - The 1st Album | 2017-02-28 | [🔗](https://open.spotify.com/album/6DlCl3hBP1Gwhn0tgitGfN) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273cb95963709806e12d93128d4" alt="" width="50" /> | Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 2 | 2016-08-29 | [🔗](https://open.spotify.com/album/68xTLBWjoRADRf86WYmTmy) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f919108974e4213d86b83805" alt="" width="50" /> | Monster - The 1st Mini Album | 2020-07-06 | [🔗](https://open.spotify.com/album/4DFheSBXhfewjz7SSe4Kyc) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="" width="50" /> | Modern Times | 2013-10-08 | [🔗](https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe) |
 
 </details>
 
@@ -230,13 +231,13 @@
 
 
 <details>
-<summary>See all 51 labels</summary>
+<summary>See all 52 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
 | 66 | [SM Entertainment](../../labels/sm_entertainment.md) |
+| 19 | [Republic Records](../../labels/republic_records.md) |
 | 18 | [YG Entertainment](../../labels/yg_entertainment.md) |
-| 18 | [Republic Records](../../labels/republic_records.md) |
 | 11 | [Interscope Records](../../labels/interscope_records.md) |
 | 9 | [Stone Music Entertainment](../../labels/stone_music_entertainment.md) |
 | 9 | [BELIFT LAB](../../labels/belift_lab.md) |
@@ -253,12 +254,13 @@
 | 3 | [Warner Records](../../labels/warner_records.md) |
 | 3 | [Starship Entertainment](../../labels/starship_entertainment.md) |
 | 3 | MNH ENTERTAINMENT |
+| 3 | KQ Entertainment |
 | 3 | EDAM Entertainment |
 | 3 | ADOR |
 | 2 | THE BLACK LABEL |
 | 2 | [MYSTIC STORY](../../labels/mystic_story.md) |
+| 2 | MYSTIC ENTERTAINMENT |
 | 2 | LABEL V |
-| 2 | KQ Entertainment |
 | 2 | [HYBE](../../labels/hybe.md) |
 | 2 | Fave Entertainment |
 | 2 | 88rising Music |
@@ -277,7 +279,6 @@
 | 1 | Republic Records – NAYEON (TWICE) |
 | 1 | Million Market |
 | 1 | Makeus Entertainment |
-| 1 | MYSTIC ENTERTAINMENT |
 | 1 | Feel Ghood Music |
 | 1 | [FNC ENTERTAINMENT](../../labels/fnc_entertainment.md) |
 | 1 | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company.md) |
@@ -285,6 +286,7 @@
 | 1 | ChoongangICS |
 | 1 | BlockBerryCreative |
 | 1 | Abyss Company |
+| 1 | APOP Entertainment |
 
 </details>
 
@@ -299,9 +301,9 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 177 | [k-pop](../../genres/k_pop.md) |
-| 86 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
-| 48 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
+| 180 | [k-pop](../../genres/k_pop.md) |
+| 87 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
+| 49 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
 | 11 | [pop](../../genres/pop.md) |
 | 9 | anime |
 | 7 | [korean pop](../../genres/korean_pop.md) |
@@ -325,15 +327,15 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| 2023 | 3 |
-| [2022](2022.md) | 63 |
+| 2023 | 4 |
+| [2022](2022.md) | 64 |
 | [2021](2021.md) | 54 |
 | [2020](2020.md) | 32 |
 | 2019 | 15 |
 | 2018 | 10 |
 | 2017 | 12 |
 | 2016 | 12 |
-| 2015 | 7 |
+| 2015 | 8 |
 | 2014 | 3 |
 | 2013 | 2 |
 | 2011 | 2 |
@@ -345,16 +347,16 @@
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="Stamp On It - The 1st Mini Album" width="50" /> <span style="padding-left:10px;">Stamp On It - The 1st Mini Album (2023-01-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27325ca38eeeb374883d7652ff0" alt="MIROTIC - The 4th Album" width="50" /> <span style="padding-left:10px;">MIROTIC - The 4th Album (2008-09-19)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="REASON" width="50" /> <span style="padding-left:10px;">REASON (2023-01-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273286903a9b4f8bce214f1dffa" alt="Run Devil Run - The 2nd Album Repackage" width="50" /> <span style="padding-left:10px;">Run Devil Run - The 2nd Album Repackage (2010-03-22)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01" alt="NewJeans 'OMG'" width="50" /> <span style="padding-left:10px;">NewJeans 'OMG' (2023-01-02)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273dbe330e884acacdbb1e7987f" alt="The Boys" width="50" /> <span style="padding-left:10px;">The Boys (2011-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="2022 Winter SMTOWN : SMCU PALACE" width="50" /> <span style="padding-left:10px;">2022 Winter SMTOWN : SMCU PALACE (2022-12-26)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273bf5f4138ebc9ba3fd6f0cde9" alt="Last Fantasy" width="50" /> <span style="padding-left:10px;">Last Fantasy (2011-11-29)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f" alt="Ditto" width="50" /> <span style="padding-left:10px;">Ditto (2022-12-19)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273fd1f3849aaaf15112389a725" alt="I GOT A BOY - The 4th Album" width="50" /> <span style="padding-left:10px;">I GOT A BOY - The 4th Album (2013-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="CHESHIRE" width="50" /> <span style="padding-left:10px;">CHESHIRE (2022-11-30)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="Modern Times" width="50" /> <span style="padding-left:10px;">Modern Times (2013-10-08)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d2ef237da7f94762997c2083" alt="‘The ReVe Festival 2022 - Birthday’" width="50" /> <span style="padding-left:10px;">‘The ReVe Festival 2022 - Birthday’ (2022-11-28)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e1ceb97165340ef92392b948" alt="RISE" width="50" /> <span style="padding-left:10px;">RISE (2014-06-03)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="Forgive Me - The 3rd Mini Album" width="50" /> <span style="padding-left:10px;">Forgive Me - The 3rd Mini Album (2022-11-22)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273dbb82cf845a6d574224a0d33" alt="MAMACITA - The 7th Album" width="50" /> <span style="padding-left:10px;">MAMACITA - The 7th Album (2014-08-29)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="Lowlife Princess: Noir" width="50" /> <span style="padding-left:10px;">Lowlife Princess: Noir (2022-11-18)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737752724657197df65e7c82f9" alt="Piano Man" width="50" /> <span style="padding-left:10px;">Piano Man (2014-11-21)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733730b0ab6cc8e589b87d26d7" alt="Birthday - SM STATION : NCT LAB" width="50" /> <span style="padding-left:10px;">Birthday - SM STATION : NCT LAB (2022-10-26)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738acb7bac073f378d59bf228e" alt="Crazy" width="50" /> <span style="padding-left:10px;">Crazy (2015-02-09)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="READY TO BE" width="50" /> <span style="padding-left:10px;">READY TO BE (2023-03-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27325ca38eeeb374883d7652ff0" alt="MIROTIC - The 4th Album" width="50" /> <span style="padding-left:10px;">MIROTIC - The 4th Album (2008-09-19)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="Stamp On It - The 1st Mini Album" width="50" /> <span style="padding-left:10px;">Stamp On It - The 1st Mini Album (2023-01-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273286903a9b4f8bce214f1dffa" alt="Run Devil Run - The 2nd Album Repackage" width="50" /> <span style="padding-left:10px;">Run Devil Run - The 2nd Album Repackage (2010-03-22)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="REASON" width="50" /> <span style="padding-left:10px;">REASON (2023-01-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273dbe330e884acacdbb1e7987f" alt="The Boys" width="50" /> <span style="padding-left:10px;">The Boys (2011-01-01)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01" alt="NewJeans 'OMG'" width="50" /> <span style="padding-left:10px;">NewJeans 'OMG' (2023-01-02)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273bf5f4138ebc9ba3fd6f0cde9" alt="Last Fantasy" width="50" /> <span style="padding-left:10px;">Last Fantasy (2011-11-29)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738bc5762a75c18b494803705c" alt="SPIN OFF : FROM THE WITNESS" width="50" /> <span style="padding-left:10px;">SPIN OFF : FROM THE WITNESS (2022-12-30)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273fd1f3849aaaf15112389a725" alt="I GOT A BOY - The 4th Album" width="50" /> <span style="padding-left:10px;">I GOT A BOY - The 4th Album (2013-01-01)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="2022 Winter SMTOWN : SMCU PALACE" width="50" /> <span style="padding-left:10px;">2022 Winter SMTOWN : SMCU PALACE (2022-12-26)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="Modern Times" width="50" /> <span style="padding-left:10px;">Modern Times (2013-10-08)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f" alt="Ditto" width="50" /> <span style="padding-left:10px;">Ditto (2022-12-19)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e1ceb97165340ef92392b948" alt="RISE" width="50" /> <span style="padding-left:10px;">RISE (2014-06-03)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="CHESHIRE" width="50" /> <span style="padding-left:10px;">CHESHIRE (2022-11-30)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273dbb82cf845a6d574224a0d33" alt="MAMACITA - The 7th Album" width="50" /> <span style="padding-left:10px;">MAMACITA - The 7th Album (2014-08-29)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d2ef237da7f94762997c2083" alt="‘The ReVe Festival 2022 - Birthday’" width="50" /> <span style="padding-left:10px;">‘The ReVe Festival 2022 - Birthday’ (2022-11-28)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737752724657197df65e7c82f9" alt="Piano Man" width="50" /> <span style="padding-left:10px;">Piano Man (2014-11-21)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="Forgive Me - The 3rd Mini Album" width="50" /> <span style="padding-left:10px;">Forgive Me - The 3rd Mini Album (2022-11-22)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738acb7bac073f378d59bf228e" alt="Crazy" width="50" /> <span style="padding-left:10px;">Crazy (2015-02-09)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
@@ -399,15 +401,15 @@
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
 | ONLY (0.892) | Tamed-Dashed (0.000253) |
-| Amusement Park (0.85) | Drunk-Dazed (0.000707) |
-| When This Rain Stops (0.805) | RUN2U (0.000835) |
-| 무제(無題) (Untitled, 2014) (0.785) | LA DI DA (0.00108) |
-| HOLO (0.768) | 달라달라 (DALLA DALLA) (0.00116) |
-| Love poem (0.74) | BOOMBAYAH (0.00268) |
-| 눈,코,입 (Eyes, Nose, Lips) (0.736) | Up & Down (0.00279) |
-| ZOOM (0.696) | Doom Du Doom (0.00356) |
-| Like Water (0.648) | LOVE DIVE (0.00379) |
-| Je T'aime (0.601) | Shut Down (0.00412) |
+| Amusement Park (0.85) | HALAZIA (0.000677) |
+| When This Rain Stops (0.805) | Drunk-Dazed (0.000707) |
+| 무제(無題) (Untitled, 2014) (0.785) | RUN2U (0.000835) |
+| HOLO (0.768) | LA DI DA (0.00108) |
+| Love poem (0.74) | 달라달라 (DALLA DALLA) (0.00116) |
+| 눈,코,입 (Eyes, Nose, Lips) (0.736) | BOOMBAYAH (0.00268) |
+| ZOOM (0.696) | Up & Down (0.00279) |
+| Like Water (0.648) | Doom Du Doom (0.00356) |
+| Je T'aime (0.601) | LOVE DIVE (0.00379) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
@@ -430,10 +432,10 @@
 | Typa Girl (0.628) | Run BTS (0.0358) |
 | FANCY (0.627) | BOOM (0.0441) |
 | Red Lights (Bang Chan, Hyunjin) (0.612) | ELEVEN (0.048) |
-| Step Back (0.596) | How People Move (0.0511) |
-| Animal Farm (0.579) | Devil (0.052) |
-| I GOT A BOY (0.538) | Bad Boy (0.0553) |
-| Monster (0.537) | Make A Wish (Birthday Song) (0.0569) |
+| Step Back (0.596) | SET ME FREE (0.0499) |
+| Animal Farm (0.579) | How People Move (0.0511) |
+| I GOT A BOY (0.538) | Devil (0.052) |
+| Monster (0.537) | Bad Boy (0.0553) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|

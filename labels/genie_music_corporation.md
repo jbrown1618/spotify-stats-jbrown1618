@@ -1,9 +1,9 @@
 # Genie Music Corporation
 
-67 songs
+68 songs
 
 Appears as:
-- Genie Music Corporation, Stone Music Entertainment (44 tracks)
+- Genie Music Corporation, Stone Music Entertainment (45 tracks)
 - Genie Music Corporation (16 tracks)
 - Genie Music Corporation;Stone Music Entertainment (7 tracks)
 
@@ -27,6 +27,7 @@ Appears as:
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb39720ff6218e58ce147490dc" alt="" width="50" /> | WOODZ | [🔗](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | BIBI | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eba6b0d348c125a072e5284b3e" alt="" width="50" /> | IZ*ONE | [🔗](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) |
+| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ef6675e036acc2bb446d5ce" alt="" width="50" /> | Jay Park | [🔗](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb1787f6596afa03df2d44af87" alt="" width="50" /> | Yoon Mirae | [🔗](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../artists/mamamoo.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273992cdb975f91efd91b998628" alt="" width="50" /> | 8TURN | [🔗](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) |
@@ -47,7 +48,6 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733552f9c353bdab8b03b7c8a7" alt="" width="50" /> | Jang Ye Eun | [🔗](https://open.spotify.com/artist/4hMhbcPHd2nsZFhY1TNp8Y) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb511f570580c79107b2fa70b9" alt="" width="50" /> | ZICO | [🔗](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273aae78727e396da9f03032eda" alt="" width="50" /> | Lee Mujin | [🔗](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ef6675e036acc2bb446d5ce" alt="" width="50" /> | Jay Park | [🔗](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1940460d10e18c6db8366f7" alt="" width="50" /> | Lee Hyori | [🔗](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6255cdc7eb41e77dfed9fd2c" alt="" width="50" /> | WINTER | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a80abb55f089d80528d24fc" alt="" width="50" /> | CHANGMO | [🔗](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) |
@@ -84,7 +84,7 @@ Appears as:
 
 
 <details>
-<summary>See all 56 albums</summary>
+<summary>See all 57 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -133,6 +133,7 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273cd17c315097d81ea0882430c" alt="" width="50" /> | Flourishing | 2019-06-24 | [🔗](https://open.spotify.com/album/1lNM7RF1SVUs66OtLj4MQh) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733d56b95f88f4743d79aa62f4" alt="" width="50" /> | First Sight | 2018-12-14 | [🔗](https://open.spotify.com/album/5M9f9Tze7sspUDrIAjdCgV) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b068508a55c13c676bf74d6b" alt="" width="50" /> | FACE ME | 2020-01-07 | [🔗](https://open.spotify.com/album/4i3Q8eTqefwISi3WltwzAW) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27382ecc5ea89bf34479a71a297" alt="" width="50" /> | EVERYTHING YOU WANTED | 2016-10-20 | [🔗](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738ae58b007d9c05f8e7cfdb81" alt="" width="50" /> | Dawn | 2018-10-05 | [🔗](https://open.spotify.com/album/0YZ0m6Z8xUurgzV9lXvflS) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734d1fce6f6b2b64395f7e804e" alt="" width="50" /> | DOUBLAST | 2022-06-20 | [🔗](https://open.spotify.com/album/0yMosWzriw3613d26x7MQK) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732733089f7a982afc28269134" alt="" width="50" /> | Cold Blooded | 2021-10-12 | [🔗](https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ) |
@@ -158,14 +159,14 @@ Appears as:
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 57 | [k-pop](../genres/k_pop.md) |
-| 13 | korean r&b |
+| 58 | [k-pop](../genres/k_pop.md) |
+| 14 | korean r&b |
+| 13 | [pop](../genres/pop.md) |
 | 13 | [k-pop girl group](../genres/k_pop_girl_group.md) |
-| 8 | [pop](../genres/pop.md) |
 | 8 | [k-pop boy group](../genres/k_pop_boy_group.md) |
 | 7 | [korean pop](../genres/korean_pop.md) |
 | 3 | korean ost |
-| 2 | k-rap |
+| 3 | k-rap |
 | 1 | korean trap |
 | 1 | classic k-pop |
 | 1 | anime |
@@ -201,6 +202,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ecba6eed6a9e14a7e9534b2" alt="" width="50" /> | FIESTA | BLOOM*IZ | IZ*ONE | [Genie Music Corporation](genie_music_corporation.md), [Stone Music Entertainment](stone_music_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/6Ihdn6wW2UBhfTKWbP29KA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ff96e13b6b6d30712317a89" alt="" width="50" /> | WITCH | GOOD GIRL Episode 3 | Jang Ye Eun, Jeon Ji Woo, JAMIE, CHEETAH, HYOYEON | [Genie Music Corporation](genie_music_corporation.md) | | [🔗](https://open.spotify.com/track/2NAJnW4wgLcmyplAPHqCRE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b378770cd6b77e86f8a6288" alt="" width="50" /> | MOMMAE | Worldwide | Jay Park, Ugly Duck | [Genie Music Corporation](genie_music_corporation.md), [Stone Music Entertainment](stone_music_entertainment.md) | | [🔗](https://open.spotify.com/track/1LNlfvPQmB0cqYJQQskZ8x) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27382ecc5ea89bf34479a71a297" alt="" width="50" /> | All I Wanna Do | EVERYTHING YOU WANTED | Jay Park | [Genie Music Corporation](genie_music_corporation.md), [Stone Music Entertainment](stone_music_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/2PcJoVkfjcbvoqBxV1Nj7y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732733089f7a982afc28269134" alt="" width="50" /> | Cold Blooded | Cold Blooded | Jessi | [Genie Music Corporation](genie_music_corporation.md), [Stone Music Entertainment](stone_music_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273351ac6effa17d7780a306d24" alt="" width="50" /> | GLASSY | GLASSY | JO YURI | [Genie Music Corporation](genie_music_corporation.md), [Stone Music Entertainment](stone_music_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/6PFfx4sEBWPuFqFB0mgX1D) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732963187314262831fa2baa49" alt="" width="50" /> | MVSK | FIRST IMPACT | Kep1er | [Genie Music Corporation](genie_music_corporation.md), [Stone Music Entertainment](stone_music_entertainment.md) | | [🔗](https://open.spotify.com/track/0dTEMO9G2uu9Vbu3f8Swto) |

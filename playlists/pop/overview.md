@@ -373,10 +373,10 @@
 | 14 | [neo mellow](../../genres/neo_mellow.md) |
 | 14 | barbadian pop |
 | 12 | atl hip hop |
+| 11 | viral pop |
 | 11 | pop dance |
 | 11 | british soul |
 | 11 | australian pop |
-| 10 | viral pop |
 | 10 | tropical house |
 | 10 | pop soul |
 | 10 | [pop rock](../../genres/pop_rock.md) |

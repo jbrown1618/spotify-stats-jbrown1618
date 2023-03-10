@@ -209,7 +209,7 @@
 | Number of Tracks | Genre |
 |---:|:---|
 | 27 | [pop](../../genres/pop.md) |
-| 16 | [rock](../../genres/rock.md) |
+| 17 | [rock](../../genres/rock.md) |
 | 14 | [classic rock](../../genres/classic_rock.md) |
 | 13 | [neo mellow](../../genres/neo_mellow.md) |
 | 10 | [pop rock](../../genres/pop_rock.md) |
@@ -225,11 +225,11 @@
 | 5 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 5 | [psychedelic rock](../../genres/psychedelic_rock.md) |
 | 5 | merseybeat |
+| 5 | lounge |
 | 5 | british invasion |
 | 5 | beatlesque |
 | 4 | uk pop |
 | 4 | permanent wave |
-| 4 | lounge |
 | 4 | glam rock |
 | 3 | [r&b](../../genres/r_b.md) |
 | 3 | canadian pop |
@@ -250,7 +250,6 @@
 | 2 | funk |
 | 2 | folk |
 | 2 | easy listening |
-| 2 | country rock |
 | 2 | british soul |
 | 2 | atl hip hop |
 | 1 | yacht rock |
@@ -279,6 +278,7 @@
 | 1 | escape room |
 | 1 | [electropop](../../genres/electropop.md) |
 | 1 | disco |
+| 1 | country rock |
 | 1 | comic |
 | 1 | classic soul |
 | 1 | boy band |

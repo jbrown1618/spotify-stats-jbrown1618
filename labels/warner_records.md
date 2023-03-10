@@ -111,7 +111,7 @@ Appears as:
 
 
 <details>
-<summary>See all 48 genres</summary>
+<summary>See all 47 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -150,7 +150,6 @@ Appears as:
 | 2 | funk |
 | 2 | [folk rock](../genres/folk_rock.md) |
 | 2 | folk |
-| 2 | country rock |
 | 2 | birmingham metal |
 | 1 | trap |
 | 1 | southern hip hop |

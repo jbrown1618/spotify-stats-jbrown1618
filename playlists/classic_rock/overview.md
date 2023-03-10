@@ -188,9 +188,9 @@
 | 10 | art rock |
 | 9 | yacht rock |
 | 9 | [folk rock](../../genres/folk_rock.md) |
-| 9 | country rock |
 | 9 | blues rock |
 | 8 | metal |
+| 6 | country rock |
 | 5 | heartland rock |
 | 4 | symphonic rock |
 | 4 | progressive rock |
