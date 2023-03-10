@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="K-Pop" width="100" />
 
-[1016 songs](tracks.md)
+[1018 songs](tracks.md)
 
 ## Top Artists
 
@@ -18,7 +18,7 @@
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
 | 61 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../../artists/red_velvet.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
-| 43 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
+| 45 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 | 41 | <img src="https://i.scdn.co/image/ab6761610000e5eb200008f1cb940483514db2bd" alt="" width="50" /> | [TWICE](../../artists/twice.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | 33 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../../artists/bts.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | 32 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../../artists/itzy.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
@@ -212,6 +212,7 @@
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555" alt="" width="50" /> | FEARLESS | 2022-05-02 | [🔗](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2736570fd05bcff5edcb16e617d" alt="" width="50" /> | Eyes Wide Open | 2020-10-26 | [🔗](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273e70b87a4bd471f82768bdcb9" alt="" width="50" /> | DON'T FIGHT THE FEELING - Special Album | 2021-06-07 | [🔗](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) |
+| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | Christmas EveL | 2021-11-29 | [🔗](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2736a0cfc4171d2a0cb9dc7c9ab" alt="" width="50" /> | CHAT-SHIRE | 2015-10-23 | [🔗](https://open.spotify.com/album/3rMvAe0zU0pJRnRa7Rfc1U) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2739d750d969d227e6506a2c176" alt="" width="50" /> | Bloom | 2022-04-06 | [🔗](https://open.spotify.com/album/4ualu7nMAcmoAqp47YaA95) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="" width="50" /> | Bare&Rare, Pt. 1 | 2022-07-11 | [🔗](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) |
@@ -230,7 +231,6 @@
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273e4915763c3c7f7a05cc93885" alt="" width="50" /> | Why - The 2nd Mini Album | 2016-06-28 | [🔗](https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273c76a0146e4c1804f22cab995" alt="" width="50" /> | WE NEED LOVE | 2022-07-19 | [🔗](https://open.spotify.com/album/04EniWu488MF6louRYafKJ) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2736034eda385497f614778f457" alt="" width="50" /> | Twicetagram | 2017-10-30 | [🔗](https://open.spotify.com/album/3hJXmK5gWN9P6jtZL0Lr2y) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2738164cd1a2e03b7ca2db9ff5e" alt="" width="50" /> | The Red Summer - Summer Mini Album | 2017-07-09 | [🔗](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) |
 
 </details>
 
@@ -246,7 +246,7 @@
 | Number of Tracks | Label |
 |---:|:---|
 | 224 | [SM Entertainment](../../labels/sm_entertainment.md) |
-| 110 | [Republic Records](../../labels/republic_records.md) |
+| 112 | [Republic Records](../../labels/republic_records.md) |
 | 71 | [YG Entertainment](../../labels/yg_entertainment.md) |
 | 68 | [Genie Music Corporation](../../labels/genie_music_corporation.md) |
 | 59 | [Stone Music Entertainment](../../labels/stone_music_entertainment.md) |
@@ -359,9 +359,9 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 853 | [k-pop](../../genres/k_pop.md) |
+| 855 | [k-pop](../../genres/k_pop.md) |
 | 378 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
-| 237 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
+| 239 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
 | 59 | [pop](../../genres/pop.md) |
 | 45 | [korean pop](../../genres/korean_pop.md) |
 | 35 | korean r&b |
@@ -408,7 +408,7 @@
 |:---|---:|
 | [2023](2023.md) | 29 |
 | [2022](2022.md) | 283 |
-| [2021](2021.md) | 201 |
+| [2021](2021.md) | 203 |
 | [2020](2020.md) | 129 |
 | [2019](2019.md) | 80 |
 | [2018](2018.md) | 70 |
@@ -503,8 +503,8 @@
 | YEPPI YEPPI (0.0391) | Clockwork (0.0) |
 | It′s Raining (0.0233) | Shut Down (0.0) |
 | So Hot (0.00976) | SCIENTIST (0.0) |
-| GingaMingaYo (the strange world) (0.00955) | Beatbox (0.0) |
-| I Am The Best (0.00834) | Why Can't You Love Me? (0.0) |
+| GingaMingaYo (the strange world) (0.00955) | Winter Falls (0.0) |
+| I Am The Best (0.00834) | Beatbox (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|

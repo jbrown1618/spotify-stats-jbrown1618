@@ -101,7 +101,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5d0fc400392250a750a9403e" alt="" width="50" /> | J Balvin | [🔗](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb77e7032af4f4ee21badd8fc7" alt="" width="50" /> | Madame Monsieur | [🔗](https://open.spotify.com/artist/1tQn5gWbo3ee6n2Z52ogY5) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb486e89dfcbba35327a1ba9b9" alt="" width="50" /> | Kenshi Yonezu | [🔗](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb686445512e505b2f74a67885" alt="" width="50" /> | Maluma | [🔗](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb97f34ae2feea70209fa385c4" alt="" width="50" /> | Maluma | [🔗](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9126343e690e70ec5424ddaa" alt="" width="50" /> | Christine Fan | [🔗](https://open.spotify.com/artist/1q7sCl0vg0EcaFdRz0XDGg) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb923e85a0eefbab49fd8d4920" alt="" width="50" /> | Rauw Alejandro | [🔗](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27354dbaa284c53e085523cfec2" alt="" width="50" /> | Las Ketchup | [🔗](https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe) |

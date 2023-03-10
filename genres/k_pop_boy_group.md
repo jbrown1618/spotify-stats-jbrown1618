@@ -1,6 +1,6 @@
 # k-pop boy group
 
-[247 songs](k_pop_boy_group_tracks.md)
+[249 songs](k_pop_boy_group_tracks.md)
 
 ## Top Artists
 
@@ -14,7 +14,7 @@
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
-| 45 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
+| 47 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 | 33 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | 22 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 | 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="" width="50" /> | [SEVENTEEN](../artists/seventeen.md) | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
@@ -78,6 +78,7 @@
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | MAXIDENT | 2022-10-07 | [🔗](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" alt="" width="50" /> | MANIFESTO : DAY 1 | 2022-07-04 | [🔗](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | Love Yourself 轉 'Tear' | 2018-05-18 | [🔗](https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O) |
+| 4 | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | Christmas EveL | 2021-11-29 | [🔗](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6096741dcf413354a59554" alt="" width="50" /> | BORDER : DAY ONE | 2020-11-30 | [🔗](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | BORDER : CARNIVAL | 2021-04-26 | [🔗](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | The Chaos Chapter: FREEZE | 2021-05-31 | [🔗](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) |
@@ -108,7 +109,6 @@
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273c013775f357bb9ad1eb9e1a7" alt="" width="50" /> | Glitch Mode - The 2nd Album | 2022-03-28 | [🔗](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2738f31818d30fdb7f44fd57713" alt="" width="50" /> | Dark & Wild | 2014-08-20 | [🔗](https://open.spotify.com/album/7FxxU3EP37uMsZf8FilkDR) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2731c1ea5bfa5680ac877acdd55" alt="" width="50" /> | DIMENSION : ANSWER | 2022-01-10 | [🔗](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | Christmas EveL | 2021-11-29 | [🔗](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b27349a0f2ca62742d289da81509" alt="" width="50" /> | 2 Cool 4 Skool | 2013-06-12 | [🔗](https://open.spotify.com/album/26z5WolFltYgVMuuJ3c0Am) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273fb6e8a26c2c4d9a23f888a94" alt="" width="50" /> | 쏘리 쏘리 Sorry, Sorry - The 3rd Album | 2009-03-11 | [🔗](https://open.spotify.com/album/3v5XUoZzxbmJbxs7vWTua3) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738c6cdb00ed42b1d6315f0bc1" alt="" width="50" /> | minisode1 : Blue Hour | 2020-10-26 | [🔗](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) |
@@ -184,7 +184,7 @@
 | Number of Tracks | Label |
 |---:|:---|
 | 58 | [SM Entertainment](../labels/sm_entertainment.md) |
-| 50 | [Republic Records](../labels/republic_records.md) |
+| 52 | [Republic Records](../labels/republic_records.md) |
 | 32 | [BIGHIT MUSIC](../labels/bighit_music.md) |
 | 20 | [BELIFT LAB](../labels/belift_lab.md) |
 | 16 | [PLEDIS Entertainment](../labels/pledis_entertainment.md) |
@@ -239,23 +239,23 @@
 | Side Effects (0.977) | Boy in time - HUI Solo (0.255) |
 | 소방차 Fire Truck (0.976) | Singularity (0.272) |
 | 쏘리 쏘리 Sorry, Sorry (0.972) | The Truth Untold (feat. Steve Aoki) (0.422) |
-| WONDERLAND (0.964) | Butter (0.459) |
-| Candy (0.964) | Anti-Romantic (0.489) |
-| District 9 (0.956) | The 7th Sense (0.502) |
-| One In A Billion (0.952) | BOOM (0.516) |
+| WONDERLAND (0.964) | 24 to 25 (0.455) |
+| Candy (0.964) | Butter (0.459) |
+| District 9 (0.956) | Anti-Romantic (0.489) |
+| One In A Billion (0.952) | The 7th Sense (0.502) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | No More Dream (0.472) | She′s In The Rain (0.0264) |
 | MANIAC (0.411) | Envision_ (0.0275) |
 | I GOT IT (HAN) (0.365) | NANANA (0.0277) |
-| Feelin' Like (0.353) | Man in a movie (0.03) |
-| VENOM (0.339) | LOVE SCENARIO (0.0307) |
-| Tap Tap (0.311) | Drive (Bang Chan, Lee Know) (0.0314) |
-| Boy in Luv (0.306) | Don't Wanna Cry (0.0325) |
-| 3RACHA (Bang Chan, Changbin, HAN) (0.301) | Stars and Raindrops (Seungmin) (0.0329) |
-| Sparkling Night (0.299) | Lie (0.033) |
-| Cherry Bomb (0.287) | The Eve (0.0334) |
+| Feelin' Like (0.353) | 24 to 25 (0.0288) |
+| VENOM (0.339) | Man in a movie (0.03) |
+| Tap Tap (0.311) | LOVE SCENARIO (0.0307) |
+| Boy in Luv (0.306) | Drive (Bang Chan, Lee Know) (0.0314) |
+| 3RACHA (Bang Chan, Changbin, HAN) (0.301) | Don't Wanna Cry (0.0325) |
+| Sparkling Night (0.299) | Stars and Raindrops (Seungmin) (0.0329) |
+| Cherry Bomb (0.287) | Lie (0.033) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -273,15 +273,15 @@
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Fairy of Shampoo (0.00673) | SUPER BOARD (0.0) |
-| Singularity (0.00278) | Beatbox (0.0) |
-| Mr. Simple (0.00208) | Ridin' (0.0) |
-| HALAZIA (0.000575) | BOSS (0.0) |
-| Lemonade (0.000522) | PHOTO (0.0) |
-| Ring Ding Dong (0.000501) | Gold Dust (0.0) |
-| Danger (0.000215) | Paradise (0.0) |
-| Airplane pt.2 (0.000103) | BLACK MIRROR (0.0) |
-| Sour (8.35e-05) | Red Lights (Bang Chan, Hyunjin) (0.0) |
-| Doom Du Doom (4.82e-05) | Mixtape : Time Out (0.0) |
+| Singularity (0.00278) | Winter Falls (0.0) |
+| Mr. Simple (0.00208) | Beatbox (0.0) |
+| HALAZIA (0.000575) | Ridin' (0.0) |
+| Lemonade (0.000522) | BOSS (0.0) |
+| Ring Ding Dong (0.000501) | PHOTO (0.0) |
+| Danger (0.000215) | Gold Dust (0.0) |
+| Airplane pt.2 (0.000103) | Paradise (0.0) |
+| Sour (8.35e-05) | BLACK MIRROR (0.0) |
+| Doom Du Doom (4.82e-05) | Red Lights (Bang Chan, Hyunjin) (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|

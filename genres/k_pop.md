@@ -1,6 +1,6 @@
 # k-pop
 
-[883 songs](k_pop_tracks.md)
+[885 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -15,7 +15,7 @@
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
 | 63 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../artists/red_velvet.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
-| 45 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
+| 47 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 | 43 | <img src="https://i.scdn.co/image/ab6761610000e5eb200008f1cb940483514db2bd" alt="" width="50" /> | [TWICE](../artists/twice.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | 33 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | 30 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
@@ -166,6 +166,7 @@
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273e20e5c366b497518353497b0" alt="" width="50" /> | KILL THIS LOVE | 2019-04-05 | [🔗](https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | I trust | 2020-04-06 | [🔗](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | I burn | 2021-01-11 | [🔗](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) |
+| 4 | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | Christmas EveL | 2021-11-29 | [🔗](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | 2022 Winter SMTOWN : SMCU PALACE | 2022-12-26 | [🔗](https://open.spotify.com/album/1HwnXJfZx8N8qDfzwUbxcw) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="" width="50" /> | 1st Album [Dystopia : The Tree of Language] | 2020-02-18 | [🔗](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b27337392cac38ca8efa2315b04e" alt="" width="50" /> | the collective soul and unconscious: chapter one | 2022-02-23 | [🔗](https://open.spotify.com/album/4ophrgcnwWi1I5nWYImyhw) |
@@ -226,7 +227,6 @@
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273af2fda9fb591d43c355c2ac3" alt="" width="50" /> | STAYDOM | 2021-04-08 | [🔗](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b27318a4a215052e9f396864bd73" alt="" width="50" /> | SQUARE TWO | 2016-11-01 | [🔗](https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273ff4ec21d7817138cabcc19bc" alt="" width="50" /> | SQUARE ONE | 2016-08-08 | [🔗](https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273570f746ccc2c75af070da1e0" alt="" width="50" /> | SPRING | 2016-05-04 | [🔗](https://open.spotify.com/album/0HtbFp1B1WrbUr9mcBrAhN) |
 
 </details>
 
@@ -242,7 +242,7 @@
 | Number of Tracks | Label |
 |---:|:---|
 | 219 | [SM Entertainment](../labels/sm_entertainment.md) |
-| 91 | [Republic Records](../labels/republic_records.md) |
+| 93 | [Republic Records](../labels/republic_records.md) |
 | 69 | [YG Entertainment](../labels/yg_entertainment.md) |
 | 58 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
 | 54 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
@@ -407,10 +407,10 @@
 | pporappippam (0.0652) | Clockwork (0.0) |
 | Badster (0.0444) | Shut Down (0.0) |
 | So Hot (0.00976) | SCIENTIST (0.0) |
-| GingaMingaYo (the strange world) (0.00955) | Beatbox (0.0) |
-| I Am The Best (0.00834) | Why Can't You Love Me? (0.0) |
-| Power Up (0.00745) | Ridin' (0.0) |
-| Fairy of Shampoo (0.00673) | BOSS (0.0) |
+| GingaMingaYo (the strange world) (0.00955) | Winter Falls (0.0) |
+| I Am The Best (0.00834) | Beatbox (0.0) |
+| Power Up (0.00745) | Why Can't You Love Me? (0.0) |
+| Fairy of Shampoo (0.00673) | Ridin' (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|

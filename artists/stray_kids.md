@@ -7,7 +7,7 @@
 ## Featured on Playlists
 | Number of Tracks | Art | Playlist |
 |---:|:---|:---|
-| 43 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | [K-Pop](../playlists/k_pop/overview.md) |
+| 45 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | [K-Pop](../playlists/k_pop/overview.md) |
 | 6 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | [K-Pop Favorites](../playlists/k_pop_favorites/overview.md) |
 | 4 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2738cab1c75d2271af37c3e2db9ab67616d0000b273d2ef237da7f94762997c2083ab67616d0000b273e9cd59d664f597061a513038ab67616d0000b273ed10325dc317f32df83990b9" alt="" width="50" /> | [Recent Comebacks](../playlists/recent_comebacks/overview.md) |
 | 2 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732270d3bd1d13133edf0be836ab67616d0000b2736017bca98dea58ceddea77c1ab67616d0000b273a0df2d59f0ae9426cba3eb36ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | [Cursed English](../playlists/cursed_english/overview.md) |
@@ -21,10 +21,10 @@
 | 6 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | NOEASY | 2021-08-23 | [🔗](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) |
 | 5 | <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | ODDINARY | 2022-03-18 | [🔗](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | MAXIDENT | 2022-10-07 | [🔗](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) |
+| 4 | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | Christmas EveL | 2021-11-29 | [🔗](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273fad8c4176e8df7173479f959" alt="" width="50" /> | GO LIVE | 2020-06-17 | [🔗](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2739f560e8c1cda870ef4eadb43" alt="" width="50" /> | SKZ2020 | 2020-03-18 | [🔗](https://open.spotify.com/album/6QIWJVJPPgAA5c4aIb1zCA) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273703093f86fd5c8bd79500610" alt="" width="50" /> | IN LIFE | 2020-09-14 | [🔗](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | Christmas EveL | 2021-11-29 | [🔗](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733019082a0f673eaa7a5ea3ae" alt="" width="50" /> | There | 2023-02-15 | [🔗](https://open.spotify.com/album/2j8BoKqZrMUYTARDIs9XDk) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27390831ba9ed4aa3b89fd6b81c" alt="" width="50" /> | Street Man Fighter Original Vol.4 (Crew Songs) | 2022-09-20 | [🔗](https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d64e2f339a0a9ea967b308e" alt="" width="50" /> | Step Out of Clé (English Ver.) | 2020-01-24 | [🔗](https://open.spotify.com/album/2BBeNPEEevRiYISKYEnGvc) |
@@ -40,7 +40,7 @@
 
 | Number of Tracks | Label |
 |---:|:---|
-| 42 | [Republic Records](../labels/republic_records.md) |
+| 44 | [Republic Records](../labels/republic_records.md) |
 | 2 | [Sony Music Labels Inc.](../labels/sony_music_labels_inc_.md) |
 | 1 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
 
@@ -72,8 +72,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | Silent Cry | NOEASY | [Stray Kids](stray_kids.md) | [Republic Records](../labels/republic_records.md) | | [🔗](https://open.spotify.com/track/5kBJH5gU89axZDauhfddpy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | Surfin’ (Lee Know, Changbin, Felix) | NOEASY | [Stray Kids](stray_kids.md) | [Republic Records](../labels/republic_records.md) | | [🔗](https://open.spotify.com/track/1FdnsU6An1Ye3uBJe8j23c) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | Thunderous | NOEASY | [Stray Kids](stray_kids.md) | [Republic Records](../labels/republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/0nwTMzpatarzvLvtwwzdCt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | 24 to 25 | Christmas EveL | [Stray Kids](stray_kids.md) | [Republic Records](../labels/republic_records.md) | | [🔗](https://open.spotify.com/track/6WM7pRXIeXuZ3Wowi9v1Wr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | Christmas EveL | Christmas EveL | [Stray Kids](stray_kids.md) | [Republic Records](../labels/republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/5npCUsfrlhdyjxyCa32maW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | DOMINO - English Ver. | Christmas EveL | [Stray Kids](stray_kids.md) | [Republic Records](../labels/republic_records.md) | | [🔗](https://open.spotify.com/track/0b9YBfAcbnhVDUFmsfpDFj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | Winter Falls | Christmas EveL | [Stray Kids](stray_kids.md) | [Republic Records](../labels/republic_records.md) | | [🔗](https://open.spotify.com/track/0BeqHPNJSLzfH8TZ7Adpb3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | Charmer | ODDINARY | [Stray Kids](stray_kids.md) | [Republic Records](../labels/republic_records.md) | | [🔗](https://open.spotify.com/track/4QDpsNBlllaLGj8zbF2EE0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | FREEZE | ODDINARY | [Stray Kids](stray_kids.md) | [Republic Records](../labels/republic_records.md) | | [🔗](https://open.spotify.com/track/2L7hSYdvF0CtaM6JisfKEG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | MANIAC | ODDINARY | [Stray Kids](stray_kids.md) | [Republic Records](../labels/republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR) |

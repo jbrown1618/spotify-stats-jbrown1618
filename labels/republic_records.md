@@ -1,9 +1,9 @@
 # Republic Records
 
-139 songs
+141 songs
 
 Appears as:
-- Republic Records - Stray Kids (42 tracks)
+- Republic Records - Stray Kids (44 tracks)
 - Republic Records - TWICE (41 tracks)
 - Republic Records - ITZY (31 tracks)
 - Republic Records (13 tracks)
@@ -22,7 +22,7 @@ Appears as:
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
-| 42 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
+| 44 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 | 41 | <img src="https://i.scdn.co/image/ab6761610000e5eb200008f1cb940483514db2bd" alt="" width="50" /> | [TWICE](../artists/twice.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | 31 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../artists/itzy.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 | 10 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../artists/ariana_grande.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
@@ -66,6 +66,7 @@ Appears as:
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="" width="50" /> | Not Shy (English Ver.) | 2021-01-22 | [🔗](https://open.spotify.com/album/0hoNwSKuuOeT9eAxopgMdm) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | Not Shy | 2020-08-17 | [🔗](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | MAXIDENT | 2022-10-07 | [🔗](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) |
+| 4 | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | Christmas EveL | 2021-11-29 | [🔗](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | CHESHIRE | 2022-11-30 | [🔗](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | The Chaos Chapter: FREEZE | 2021-05-31 | [🔗](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="" width="50" /> | Taste of Love | 2021-06-11 | [🔗](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) |
@@ -80,7 +81,6 @@ Appears as:
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2739f560e8c1cda870ef4eadb43" alt="" width="50" /> | SKZ2020 | 2020-03-18 | [🔗](https://open.spotify.com/album/6QIWJVJPPgAA5c4aIb1zCA) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273703093f86fd5c8bd79500610" alt="" width="50" /> | IN LIFE | 2020-09-14 | [🔗](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b27349b81808fcdaeeb55bef59d1" alt="" width="50" /> | Feel Special | 2019-09-23 | [🔗](https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | Christmas EveL | 2021-11-29 | [🔗](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738c6cdb00ed42b1d6315f0bc1" alt="" width="50" /> | minisode1 : Blue Hour | 2020-10-26 | [🔗](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27313ac5d67675999ba7b9c4f21" alt="" width="50" /> | minisode 2: Thursday's Child | 2022-05-09 | [🔗](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732ca010dcf3863a07611d8b4f" alt="" width="50" /> | boyfriend | 2019-08-02 | [🔗](https://open.spotify.com/album/3zVB99XMdbP9HTVNg0GJwV) |
@@ -126,9 +126,9 @@ Appears as:
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 91 | [k-pop](../genres/k_pop.md) |
+| 93 | [k-pop](../genres/k_pop.md) |
 | 72 | [k-pop girl group](../genres/k_pop_girl_group.md) |
-| 50 | [k-pop boy group](../genres/k_pop_boy_group.md) |
+| 52 | [k-pop boy group](../genres/k_pop_boy_group.md) |
 | 15 | [pop](../genres/pop.md) |
 | 13 | [dance pop](../genres/dance_pop.md) |
 | 2 | [post-teen pop](../genres/post_teen_pop.md) |
@@ -220,8 +220,10 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | Silent Cry | NOEASY | [Stray Kids](../artists/stray_kids.md) | [Republic Records](republic_records.md) | | [🔗](https://open.spotify.com/track/5kBJH5gU89axZDauhfddpy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | Surfin’ (Lee Know, Changbin, Felix) | NOEASY | [Stray Kids](../artists/stray_kids.md) | [Republic Records](republic_records.md) | | [🔗](https://open.spotify.com/track/1FdnsU6An1Ye3uBJe8j23c) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | Thunderous | NOEASY | [Stray Kids](../artists/stray_kids.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/0nwTMzpatarzvLvtwwzdCt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | 24 to 25 | Christmas EveL | [Stray Kids](../artists/stray_kids.md) | [Republic Records](republic_records.md) | | [🔗](https://open.spotify.com/track/6WM7pRXIeXuZ3Wowi9v1Wr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | Christmas EveL | Christmas EveL | [Stray Kids](../artists/stray_kids.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/5npCUsfrlhdyjxyCa32maW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | DOMINO - English Ver. | Christmas EveL | [Stray Kids](../artists/stray_kids.md) | [Republic Records](republic_records.md) | | [🔗](https://open.spotify.com/track/0b9YBfAcbnhVDUFmsfpDFj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | Winter Falls | Christmas EveL | [Stray Kids](../artists/stray_kids.md) | [Republic Records](republic_records.md) | | [🔗](https://open.spotify.com/track/0BeqHPNJSLzfH8TZ7Adpb3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | Charmer | ODDINARY | [Stray Kids](../artists/stray_kids.md) | [Republic Records](republic_records.md) | | [🔗](https://open.spotify.com/track/4QDpsNBlllaLGj8zbF2EE0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | FREEZE | ODDINARY | [Stray Kids](../artists/stray_kids.md) | [Republic Records](republic_records.md) | | [🔗](https://open.spotify.com/track/2L7hSYdvF0CtaM6JisfKEG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | MANIAC | ODDINARY | [Stray Kids](../artists/stray_kids.md) | [Republic Records](republic_records.md) | 💚 | [🔗](https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR) |
