@@ -220,9 +220,9 @@
 | 7 | [soft rock](../../genres/soft_rock.md) |
 | 7 | [lilith](../../genres/lilith.md) |
 | 7 | [folk rock](../../genres/folk_rock.md) |
-| 6 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 6 | [hollywood](../../genres/hollywood.md) |
 | 6 | [adult standards](../../genres/adult_standards.md) |
+| 5 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 5 | [psychedelic rock](../../genres/psychedelic_rock.md) |
 | 5 | merseybeat |
 | 5 | british invasion |
@@ -231,12 +231,12 @@
 | 4 | permanent wave |
 | 4 | lounge |
 | 4 | glam rock |
+| 3 | [r&b](../../genres/r_b.md) |
 | 3 | canadian pop |
 | 3 | australian pop |
 | 2 | viral pop |
 | 2 | urban contemporary |
 | 2 | soul |
-| 2 | [r&b](../../genres/r_b.md) |
 | 2 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 2 | pop soul |
 | 2 | new americana |

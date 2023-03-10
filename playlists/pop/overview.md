@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="Pop" width="100" />
 
-[369 songs](tracks.md)
+[368 songs](tracks.md)
 
 ## Top Artists
 
@@ -19,7 +19,7 @@
 |---:|:---|:---|:---|
 | 51 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | [Taylor Swift](../../artists/taylor_swift.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 | 25 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../../artists/ariana_grande.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
-| 16 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | [Rihanna](../../artists/rihanna.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
+| 15 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | [Rihanna](../../artists/rihanna.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | 13 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../../artists/lady_gaga.md) | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
 | 12 | <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | [Dua Lipa](../../artists/dua_lipa.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 | 12 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../../artists/bruno_mars.md) | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
@@ -254,8 +254,8 @@
 | 18 | [Warner Records](../../labels/warner_records.md) |
 | 17 | [Epic](../../labels/epic.md) |
 | 15 | [Republic Records](../../labels/republic_records.md) |
-| 15 | [Def Jam Recordings](../../labels/def_jam_recordings.md) |
 | 14 | [Jive](../../labels/jive.md) |
+| 14 | [Def Jam Recordings](../../labels/def_jam_recordings.md) |
 | 13 | [Universal Music LLC](../../labels/universal_music_llc.md) |
 | 12 | [Syco Music](../../labels/syco_music.md) |
 | 11 | [Darkroom](../../labels/darkroom.md) |
@@ -359,20 +359,20 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 315 | [pop](../../genres/pop.md) |
-| 188 | [dance pop](../../genres/dance_pop.md) |
+| 313 | [pop](../../genres/pop.md) |
+| 187 | [dance pop](../../genres/dance_pop.md) |
 | 49 | [post-teen pop](../../genres/post_teen_pop.md) |
-| 31 | [electropop](../../genres/electropop.md) |
+| 30 | [electropop](../../genres/electropop.md) |
 | 29 | uk pop |
 | 29 | [art pop](../../genres/art_pop.md) |
 | 27 | edm |
-| 24 | urban contemporary |
+| 23 | urban contemporary |
 | 21 | pop rap |
+| 16 | [r&b](../../genres/r_b.md) |
 | 15 | neo soul |
-| 15 | barbadian pop |
 | 14 | [neo mellow](../../genres/neo_mellow.md) |
+| 14 | barbadian pop |
 | 12 | atl hip hop |
-| 11 | [r&b](../../genres/r_b.md) |
 | 11 | pop dance |
 | 11 | british soul |
 | 11 | australian pop |
@@ -485,7 +485,7 @@
 | 2013 | 17 |
 | 2012 | 16 |
 | 2011 | 12 |
-| [2010](2010.md) | 22 |
+| [2010](2010.md) | 21 |
 | 2009 | 5 |
 | [2008](2008.md) | 22 |
 | 2007 | 10 |

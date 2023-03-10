@@ -202,7 +202,7 @@
 
 
 <details>
-<summary>See all 50 genres</summary>
+<summary>See all 51 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -212,8 +212,8 @@
 | 79 | [lilith](../../genres/lilith.md) |
 | 61 | [pop rock](../../genres/pop_rock.md) |
 | 59 | [hollywood](../../genres/hollywood.md) |
-| 36 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 35 | piano rock |
+| 34 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 33 | [folk rock](../../genres/folk_rock.md) |
 | 31 | [mellow gold](../../genres/mellow_gold.md) |
 | 25 | [soft rock](../../genres/soft_rock.md) |
@@ -238,6 +238,7 @@
 | 2 | chamber pop |
 | 2 | brill building pop |
 | 2 | [adult standards](../../genres/adult_standards.md) |
+| 1 | urban contemporary |
 | 1 | uk pop |
 | 1 | [r&b](../../genres/r_b.md) |
 | 1 | pop soul |

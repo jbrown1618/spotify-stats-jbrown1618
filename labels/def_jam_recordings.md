@@ -1,9 +1,9 @@
 # Def Jam Recordings
 
-16 songs
+15 songs
 
 Appears as:
-- Def Jam Recordings (15 tracks)
+- Def Jam Recordings (14 tracks)
 - Friends Keep Secrets/Def Jam Recordings/Interscope Records (1 tracks)
 
 ## Top Artists
@@ -16,7 +16,7 @@ Appears as:
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
-| 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | [Rihanna](../artists/rihanna.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
+| 13 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | [Rihanna](../artists/rihanna.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb37bff6aa1d42bede9048750f" alt="" width="50" /> | Calvin Harris | [🔗](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | benny blanco | [🔗](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | JAY-Z | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
@@ -30,11 +30,11 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 9 albums](../images/labels/def_jam_recordings/albums.png)
+![Bar chart of top 8 albums](../images/labels/def_jam_recordings/albums.png)
 
 
 <details>
-<summary>See all 9 albums</summary>
+<summary>See all 8 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -44,7 +44,6 @@ Appears as:
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="" width="50" /> | Loud | 2010-11-16 | [🔗](https://open.spotify.com/album/6UHhmTLl9T1scRYLmpHcDX) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ab647295c0c97446c1f1a3b5" alt="" width="50" /> | Rated R | 2009-11-20 | [🔗](https://open.spotify.com/album/7uGmyYwDFJbSc1xs4hkEs2) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b21609e1a2d7c1b7ba8efae2" alt="" width="50" /> | Music Of The Sun | 2005-08-29 | [🔗](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27331548865f7c729290b96c794" alt="" width="50" /> | Loud (Japan Version) | 2010-01-01 | [🔗](https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27383b22beb73e2014b20159685" alt="" width="50" /> | Lonely (with benny blanco) | 2020-10-16 | [🔗](https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739351691c007cad99d70d9f3f" alt="" width="50" /> | Cravin | 2019-10-18 | [🔗](https://open.spotify.com/album/6c66PBJdg7EWPcFUvLyFFu) |
 
@@ -61,9 +60,9 @@ Appears as:
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 16 | [pop](../genres/pop.md) |
-| 14 | urban contemporary |
-| 14 | barbadian pop |
+| 15 | [pop](../genres/pop.md) |
+| 13 | urban contemporary |
+| 13 | barbadian pop |
 | 1 | rap latina |
 | 1 | rap |
 | 1 | [r&b](../genres/r_b.md) |
@@ -86,7 +85,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Take A Bow | Good Girl Gone Bad: Reloaded | [Rihanna](../artists/rihanna.md) | [Def Jam Recordings](def_jam_recordings.md) | 💚 | [🔗](https://open.spotify.com/track/3goSVuTt3fDYDP6kRnFwuL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Umbrella | Good Girl Gone Bad: Reloaded | [Rihanna](../artists/rihanna.md), JAY-Z | [Def Jam Recordings](def_jam_recordings.md) | | [🔗](https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ab647295c0c97446c1f1a3b5" alt="" width="50" /> | Rude Boy | Rated R | [Rihanna](../artists/rihanna.md) | [Def Jam Recordings](def_jam_recordings.md) | 💚 | [🔗](https://open.spotify.com/track/60jzFy6Nn4M0iD1d94oteF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27331548865f7c729290b96c794" alt="" width="50" /> | S&M | Loud (Japan Version) | [Rihanna](../artists/rihanna.md) | [Def Jam Recordings](def_jam_recordings.md) | | [🔗](https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="" width="50" /> | Only Girl (In The World) | Loud | [Rihanna](../artists/rihanna.md) | [Def Jam Recordings](def_jam_recordings.md) | 💚 | [🔗](https://open.spotify.com/track/1VDXQhu7YGdbM6UeEIfsaX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="" width="50" /> | S&M | Loud | [Rihanna](../artists/rihanna.md) | [Def Jam Recordings](def_jam_recordings.md) | 💚 | [🔗](https://open.spotify.com/track/08Bfk5Y2S5fCxgxk371Eel) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef" alt="" width="50" /> | Watch n' Learn | Talk That Talk | [Rihanna](../artists/rihanna.md) | [Def Jam Recordings](def_jam_recordings.md) | 💚 | [🔗](https://open.spotify.com/track/1ROCX1nquOZ5i05YfGysu0) |
