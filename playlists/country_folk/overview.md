@@ -103,10 +103,10 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
+| 13 | new americana |
 | 11 | country dawn |
 | 11 | country |
 | 8 | [pop](../../genres/pop.md) |
-| 8 | new americana |
 | 8 | indie folk |
 | 8 | contemporary country |
 | 6 | stomp and holler |
