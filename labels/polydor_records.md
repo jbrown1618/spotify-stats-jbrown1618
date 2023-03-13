@@ -42,7 +42,7 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/e8f69e48f7ae80c6247fda3bf03d6155ae0d7282" alt="" width="50" /> | Hugh Jackman | [🔗](https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb66b27eccb69756f8eceabc23" alt="" width="50" /> | Glass Animals | [🔗](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb09b06c6e39518619ecd56ec5" alt="" width="50" /> | Jax Jones | [🔗](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb02dd5c821135e146eb2bfc85" alt="" width="50" /> | Snow Patrol | [🔗](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe93b88b6103a78ede975ebbe" alt="" width="50" /> | Snow Patrol | [🔗](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) |
 | 1 | <img src="nan" alt="" width="50" /> | Janos Kurucz | [🔗](https://open.spotify.com/artist/3MiTXPOmIgoJioulWki8dz) |
 | 1 | <img src="https://i.scdn.co/image/ab6772690000c46c50e750d1aed632c37a450ffb" alt="" width="50" /> | Duffy | [🔗](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | [Florence + The Machine](../artists/florence___the_machine.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
@@ -92,7 +92,7 @@ Appears as:
 
 
 <details>
-<summary>See all 40 genres</summary>
+<summary>See all 39 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -110,7 +110,7 @@ Appears as:
 | 4 | [electropop](../genres/electropop.md) |
 | 3 | [rock](../genres/rock.md) |
 | 2 | tropical house |
-| 2 | [psychedelic rock](../genres/psychedelic_rock.md) |
+| 2 | psychedelic rock |
 | 2 | pop dance |
 | 2 | [mellow gold](../genres/mellow_gold.md) |
 | 2 | hard rock |
@@ -126,7 +126,6 @@ Appears as:
 | 1 | [pop rock](../genres/pop_rock.md) |
 | 1 | pop rap |
 | 1 | permanent wave |
-| 1 | neo soul |
 | 1 | [neo mellow](../genres/neo_mellow.md) |
 | 1 | irish rock |
 | 1 | house |

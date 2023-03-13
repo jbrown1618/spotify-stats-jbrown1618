@@ -362,21 +362,21 @@
 | 314 | [pop](../../genres/pop.md) |
 | 187 | [dance pop](../../genres/dance_pop.md) |
 | 49 | [post-teen pop](../../genres/post_teen_pop.md) |
-| 30 | [electropop](../../genres/electropop.md) |
+| 31 | [electropop](../../genres/electropop.md) |
 | 29 | uk pop |
 | 29 | [art pop](../../genres/art_pop.md) |
 | 27 | edm |
 | 23 | urban contemporary |
 | 21 | pop rap |
-| 16 | [r&b](../../genres/r_b.md) |
-| 15 | neo soul |
+| 14 | neo soul |
 | 14 | [neo mellow](../../genres/neo_mellow.md) |
 | 14 | barbadian pop |
 | 12 | atl hip hop |
-| 11 | viral pop |
+| 11 | [r&b](../../genres/r_b.md) |
 | 11 | pop dance |
 | 11 | british soul |
 | 11 | australian pop |
+| 10 | viral pop |
 | 10 | tropical house |
 | 10 | pop soul |
 | 10 | [pop rock](../../genres/pop_rock.md) |
@@ -398,6 +398,7 @@
 | 5 | piano rock |
 | 5 | permanent wave |
 | 5 | indie poptimism |
+| 5 | electro house |
 | 5 | contemporary r&b |
 | 5 | afrofuturism |
 | 4 | south carolina hip hop |
@@ -406,7 +407,6 @@
 | 4 | [hollywood](../../genres/hollywood.md) |
 | 4 | hip pop |
 | 4 | europop |
-| 4 | electro house |
 | 3 | viral rap |
 | 3 | progressive house |
 | 3 | nz pop |

@@ -1,9 +1,9 @@
 # JYP Entertainment
 
-27 songs
+28 songs
 
 Appears as:
-- JYP Entertainment (26 tracks)
+- JYP Entertainment (27 tracks)
 - MYSTIC ENTERTAINMENT, ChoongangICS, SM ENTERTAINMENT, JYP ENTERTAINMENT (1 tracks)
 
 ## Top Artists
@@ -17,7 +17,7 @@ Appears as:
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5ebd90aa536055fe9806b3960e6" alt="" width="50" /> | GOT7 | [🔗](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) |
-| 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb04c88d140b3db4fa42ef84f2" alt="" width="50" /> | NMIXX | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
+| 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb04c88d140b3db4fa42ef84f2" alt="" width="50" /> | NMIXX | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb30a517d1b703c3eabdac2855" alt="" width="50" /> | Wonder Girls | [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../artists/itzy.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb909ae20e6815f0b43dd86bb6" alt="" width="50" /> | J.Y. Park | [🔗](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B) |
@@ -38,11 +38,11 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 23 albums](../images/labels/jyp_entertainment/albums.png)
+![Bar chart of top 24 albums](../images/labels/jyp_entertainment/albums.png)
 
 
 <details>
-<summary>See all 23 albums</summary>
+<summary>See all 24 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -50,6 +50,7 @@ Appears as:
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2735a34da2654db7f75cee1d080" alt="" width="50" /> | IT'z ICY | 2019-07-29 | [🔗](https://open.spotify.com/album/2y2Nuvvw5xNDYOunTSsgf1) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273c8caa659d37a00d34cbd6359" alt="" width="50" /> | ENTWURF | 2022-09-19 | [🔗](https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2738d64ee7e356e13a96062bd0b" alt="" width="50" /> | AD MARE | 2022-02-22 | [🔗](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a0f030c2742b6da99c1b210c" alt="" width="50" /> | Young, Dumb, Stupid | 2023-03-12 | [🔗](https://open.spotify.com/album/5JdSdoglRlxgJDWiprRtY0) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273018ac0665d32b08c76afd4cc" alt="" width="50" /> | Why So Lonely | 2016-07-05 | [🔗](https://open.spotify.com/album/3vCjRsRRGOLp8VCYPLXtDx) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731a984930c218438701634e11" alt="" width="50" /> | When We Disco | 2020-08-12 | [🔗](https://open.spotify.com/album/1PllJjUqafNlQ23eBqs511) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734802244fa0cf6d33eda5e748" alt="" width="50" /> | The Wonder Years - Trilogy | 2008-09-22 | [🔗](https://open.spotify.com/album/61KwS8kiAywHkZ7gp4asTE) |
@@ -84,7 +85,7 @@ Appears as:
 | Number of Tracks | Genre |
 |---:|:---|
 | 15 | [k-pop](../genres/k_pop.md) |
-| 12 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+| 13 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 | 7 | [k-pop boy group](../genres/k_pop_boy_group.md) |
 | 5 | classic k-pop |
 | 2 | [korean pop](../genres/korean_pop.md) |
@@ -115,6 +116,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2738d64ee7e356e13a96062bd0b" alt="" width="50" /> | TANK | AD MARE | NMIXX | [JYP Entertainment](jyp_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/3ucx0k0IosRjrsmQc34zUW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8caa659d37a00d34cbd6359" alt="" width="50" /> | COOL (Your rainbow) | ENTWURF | NMIXX | [JYP Entertainment](jyp_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/6SYVnDzwzMmTGqW13DSiZA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8caa659d37a00d34cbd6359" alt="" width="50" /> | DICE | ENTWURF | NMIXX | [JYP Entertainment](jyp_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/1QpwvWMQGdOgA8MXXfgs4H) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0f030c2742b6da99c1b210c" alt="" width="50" /> | Young, Dumb, Stupid | Young, Dumb, Stupid | NMIXX | [JYP Entertainment](jyp_entertainment.md) | | [🔗](https://open.spotify.com/track/2s2PGt2yeQly8auhPuHGIn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d27c6b111cc35cae9bee87d6" alt="" width="50" /> | I Do | It's Raining | Rain | [JYP Entertainment](jyp_entertainment.md) | | [🔗](https://open.spotify.com/track/2g05KWuVd5Rixv1YtSSTog) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d27c6b111cc35cae9bee87d6" alt="" width="50" /> | It′s Raining | It's Raining | Rain | [JYP Entertainment](jyp_entertainment.md) | | [🔗](https://open.spotify.com/track/7gH0gjbvNKZJtryOUNW2Yt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | Dream | Dream | Suzy, [BAEKHYUN](../artists/baekhyun.md) | ChoongangICS, MYSTIC ENTERTAINMENT, [JYP Entertainment](jyp_entertainment.md), [SM Entertainment](sm_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm) |

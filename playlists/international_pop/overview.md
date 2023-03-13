@@ -65,7 +65,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb179aad93276b141b9848ca1" alt="" width="50" /> | Angela Chang | [🔗](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0910ff09d3b54b114d233aa3" alt="" width="50" /> | Dadju | [🔗](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ee9a6f54dcbd4bc95126b14" alt="" width="50" /> | Bad Bunny | [🔗](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb978f96761eb3fa26b91f1fb8" alt="" width="50" /> | Becky G | [🔗](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f97c0f27aa7ae7f8351e47a" alt="" width="50" /> | Becky G | [🔗](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf4a042cdf3fd1e760cf03609" alt="" width="50" /> | Afgan | [🔗](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f501d26b76d8b561608a795" alt="" width="50" /> | Netta | [🔗](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4196349398da67ae88d8f47e" alt="" width="50" /> | Ermal Meta | [🔗](https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd) |
@@ -382,7 +382,6 @@
 | 1 | latin viral pop |
 | 1 | latin talent show |
 | 1 | latin hip hop |
-| 1 | [k-pop](../../genres/k_pop.md) |
 | 1 | jewish pop |
 | 1 | japanese post-hardcore |
 | 1 | japanese math rock |
@@ -406,6 +405,7 @@
 | 1 | chinese viral pop |
 | 1 | chinese r&b |
 | 1 | basshall |
+| 1 | alt z |
 | 1 | afro soul |
 | 1 | afro dancehall |
 

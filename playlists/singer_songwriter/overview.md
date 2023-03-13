@@ -202,7 +202,7 @@
 
 
 <details>
-<summary>See all 52 genres</summary>
+<summary>See all 51 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -231,9 +231,7 @@
 | 8 | canadian singer-songwriter |
 | 6 | glam rock |
 | 5 | deep indie singer-songwriter |
-| 4 | anti-folk |
 | 3 | viral pop |
-| 2 | neo soul |
 | 2 | indy indie |
 | 2 | indiecoustica |
 | 2 | chamber pop |
@@ -245,6 +243,7 @@
 | 1 | pop soul |
 | 1 | permanent wave |
 | 1 | new americana |
+| 1 | neo soul |
 | 1 | modern folk rock |
 | 1 | irish pop |
 | 1 | indie soul |

@@ -147,17 +147,17 @@
 
 ## Genres
 
-![Bar chart of top 28 genres](../../images/playlists/disney/genres.png)
+![Bar chart of top 26 genres](../../images/playlists/disney/genres.png)
 
 
 <details>
-<summary>See all 28 genres</summary>
+<summary>See all 26 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 38 | [movie tunes](../../genres/movie_tunes.md) |
+| 40 | [movie tunes](../../genres/movie_tunes.md) |
 | 22 | [hollywood](../../genres/hollywood.md) |
-| 16 | [show tunes](../../genres/show_tunes.md) |
+| 13 | [show tunes](../../genres/show_tunes.md) |
 | 5 | tagalog worship |
 | 2 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 2 | [dance pop](../../genres/dance_pop.md) |
@@ -175,10 +175,8 @@
 | 1 | jazz blues |
 | 1 | funk |
 | 1 | [folk rock](../../genres/folk_rock.md) |
-| 1 | folk |
 | 1 | country rock |
 | 1 | classic uk pop |
-| 1 | [classic rock](../../genres/classic_rock.md) |
 | 1 | bubblegum pop |
 | 1 | [broadway](../../genres/broadway.md) |
 | 1 | blues rock |
