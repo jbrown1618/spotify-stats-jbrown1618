@@ -1,6 +1,6 @@
 # k-pop boy group
 
-[248 songs](k_pop_boy_group_tracks.md)
+[247 songs](k_pop_boy_group_tracks.md)
 
 ## Top Artists
 
@@ -10,7 +10,7 @@
 
 
 <details>
-<summary>See all 44 artists</summary>
+<summary>See all 42 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -51,8 +51,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6034058cfde0084f922bb284" alt="" width="50" /> | ASTRO | [🔗](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d51ab93be9525e124f4a6a58" alt="" width="50" /> | DKB | [🔗](https://open.spotify.com/artist/4DoedGw38ubJdAT1edFsIx) |
 | 1 | <img src="https://i.scdn.co/image/ab6772690000c46cc8a347829c638ae6bbdb8434" alt="" width="50" /> | ONEWE | [🔗](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273762badbc5b89a2fa65d13f67" alt="" width="50" /> | HIGH4 | [🔗](https://open.spotify.com/artist/3cpG0SJLIJ1qpQfjmlWlzo) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | [IU](../artists/iu.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebaccf8c8763bf2fa909677c71" alt="" width="50" /> | DKZ | [🔗](https://open.spotify.com/artist/31eyTcfjAke5hFX3az3nRE) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27323bd8b27aeb3ad6d4f4339c4" alt="" width="50" /> | Wanna One | [🔗](https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
@@ -163,7 +161,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27303b313cdf98d61d141645f11" alt="" width="50" /> | One of a Kind | 2021-06-01 | [🔗](https://open.spotify.com/album/2Zuovdo5g1RhfbHniwZ8yI) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273fc8b0918267ea555921863e8" alt="" width="50" /> | One In A Billion | 2022-09-06 | [🔗](https://open.spotify.com/album/19Jm8Jk0zQYs6zMaxhYJFd) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27338b29effd5af942ca8d7a8b0" alt="" width="50" /> | Odd - The 4th Album | 2015-05-18 | [🔗](https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273762badbc5b89a2fa65d13f67" alt="" width="50" /> | Not Spring, Love, or Cherry Blossoms | 2014-04-08 | [🔗](https://open.spotify.com/album/171jiqtOAyvjf2JCfhuIMk) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2730096339f4c20185bf521c12b" alt="" width="50" /> | No.5 | 2015-06-15 | [🔗](https://open.spotify.com/album/7il4UShdCQt4HcsAng0Om2) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f2f5eb6302fa961ec097d466" alt="" width="50" /> | New Chapter #1: The Chance of Love - The 8th Album | 2018-03-28 | [🔗](https://open.spotify.com/album/0ipyHYAE0cMf4aDJNIDIU1) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738b94794b8aa12407bf838d7d" alt="" width="50" /> | NEW KIDS REPACKAGE : THE NEW KIDS | 2019-01-07 | [🔗](https://open.spotify.com/album/6RZYa7F18bu7mmeT8qxWqh) |
@@ -171,17 +168,18 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a8f520a58790e872d0007e2e" alt="" width="50" /> | NCT RESONANCE Pt. 2 - The 2nd Album | 2020-11-23 | [🔗](https://open.spotify.com/album/5Dq6jkYO5H7KzxXSazhLxs) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ff666e3a12273d4d1380e9f0" alt="" width="50" /> | NCT #127 Regular-Irregular - The 1st Album | 2018-10-12 | [🔗](https://open.spotify.com/album/4oU5Tp952fPL7z2Bax4JmU) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731727feddec43c335453b9252" alt="" width="50" /> | NCT #127 Neo Zone - The 2nd Album | 2020-03-06 | [🔗](https://open.spotify.com/album/5YOvg682zFOleCiSndLnZr) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738d47b664117ca39e7b1acfc9" alt="" width="50" /> | NCT #127 CHERRY BOMB– The 3rd Mini Album | 2017-06-14 | [🔗](https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s) |
 
 </details>
 
 
 ## Top Record Labels
 
-![Bar chart of top 30 record labels](../images/genres/k_pop_boy_group/labels.png)
+![Bar chart of top 29 record labels](../images/genres/k_pop_boy_group/labels.png)
 
 
 <details>
-<summary>See all 30 labels</summary>
+<summary>See all 29 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -209,7 +207,6 @@
 | 1 | ㈜ 동요엔터테인먼트 |
 | 1 | avex trax |
 | 1 | Transparent Arts |
-| 1 | N.A.P. Entertainment |
 | 1 | JELLYFISH ENTERTAINMENT |
 | 1 | Imperial Distribution |
 | 1 | Fantagio |
@@ -244,8 +241,8 @@
 | 쏘리 쏘리 Sorry, Sorry (0.972) | The Truth Untold (feat. Steve Aoki) (0.422) |
 | WONDERLAND (0.964) | 24 to 25 (0.455) |
 | Candy (0.964) | Butter (0.459) |
-| District 9 (0.956) | Not Spring, Love, or Cherry Blossoms (0.484) |
-| One In A Billion (0.952) | Anti-Romantic (0.489) |
+| District 9 (0.956) | Anti-Romantic (0.489) |
+| One In A Billion (0.952) | The 7th Sense (0.502) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|

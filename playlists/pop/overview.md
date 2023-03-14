@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="Pop" width="100" />
 
-[368 songs](tracks.md)
+[369 songs](tracks.md)
 
 ## Top Artists
 
@@ -52,11 +52,13 @@
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebaed3c717bf1753ab928ea88d" alt="" width="50" /> | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8079989370c50963b60ee7bc" alt="" width="50" /> | CeeLo Green | [🔗](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebabe53b210d382c4c450d7709" alt="" width="50" /> | MIKA | [🔗](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) |
+| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eba7bfd7835b5c1eee0c95fa6e" alt="" width="50" /> | Daft Punk | [🔗](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8c2332e6c0ed96d144a91b3f" alt="" width="50" /> | Cardi B | [🔗](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | [🔗](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb08cd53940cbf5813ee5fe565" alt="" width="50" /> | Little Mix | [🔗](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | Jessie J | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
+| 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebb5f9e28219c169fd4b9e8379" alt="" width="50" /> | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebee954a3b5418065c2fe253fb" alt="" width="50" /> | Olivia Rodrigo | [🔗](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bbad89a61061304ec842588" alt="" width="50" /> | P!nk | [🔗](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd66f1e0c883f319443d68c45" alt="" width="50" /> | Lil Nas X | [🔗](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) |
@@ -72,7 +74,6 @@
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb0d66b3670294bf801847dae2" alt="" width="50" /> | Lizzo | [🔗](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb920dc1f617550de8388f368e" alt="" width="50" /> | Imagine Dragons | [🔗](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb66b27eccb69756f8eceabc23" alt="" width="50" /> | Glass Animals | [🔗](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eba7bfd7835b5c1eee0c95fa6e" alt="" width="50" /> | Daft Punk | [🔗](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ace68c56849548db7f102be" alt="" width="50" /> | DaBaby | [🔗](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | Jason Mraz | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../../artists/blackpink.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
@@ -86,7 +87,6 @@
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf99727ed9dbe47a59126e17e" alt="" width="50" /> | Daniel Caesar | [🔗](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5acb3cb0a8b87d3952738b97" alt="" width="50" /> | Fifth Harmony | [🔗](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | Christina Aguilera | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebb5f9e28219c169fd4b9e8379" alt="" width="50" /> | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7926088433d79485da5e1734" alt="" width="50" /> | Mabel | [🔗](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebeccc1cde8e9fdcf1c9289897" alt="" width="50" /> | Niall Horan | [🔗](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | [Michael Bublé](../../artists/michael_bubl_.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
@@ -304,6 +304,7 @@
 | 1 | Wolf Tone |
 | 1 | Warner Bros. |
 | 1 | VÉRITÉ |
+| 1 | Universal Republic Records |
 | 1 | Universal Music New Zealand Limited |
 | 1 | Universal Music Latino |
 | 1 | Universal Music Group |
@@ -344,7 +345,6 @@
 | 1 | Fez's Finest |
 | 1 | FSF |
 | 1 | Epic Amsterdam |
-| 1 | EMPIRE |
 
 </details>
 
@@ -359,28 +359,28 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 314 | [pop](../../genres/pop.md) |
-| 187 | [dance pop](../../genres/dance_pop.md) |
+| 315 | [pop](../../genres/pop.md) |
+| 188 | [dance pop](../../genres/dance_pop.md) |
 | 49 | [post-teen pop](../../genres/post_teen_pop.md) |
-| 31 | [electropop](../../genres/electropop.md) |
+| 32 | [electropop](../../genres/electropop.md) |
 | 29 | uk pop |
 | 29 | [art pop](../../genres/art_pop.md) |
 | 27 | edm |
 | 23 | urban contemporary |
 | 21 | pop rap |
-| 14 | neo soul |
+| 16 | [r&b](../../genres/r_b.md) |
+| 15 | neo soul |
 | 14 | [neo mellow](../../genres/neo_mellow.md) |
 | 14 | barbadian pop |
 | 12 | atl hip hop |
-| 11 | [r&b](../../genres/r_b.md) |
+| 11 | viral pop |
 | 11 | pop dance |
+| 11 | canadian pop |
 | 11 | british soul |
 | 11 | australian pop |
-| 10 | viral pop |
 | 10 | tropical house |
 | 10 | pop soul |
 | 10 | [pop rock](../../genres/pop_rock.md) |
-| 10 | canadian pop |
 | 10 | [acoustic pop](../../genres/acoustic_pop.md) |
 | 9 | metropopolis |
 | 8 | uk dance |
@@ -407,6 +407,7 @@
 | 4 | [hollywood](../../genres/hollywood.md) |
 | 4 | hip pop |
 | 4 | europop |
+| 4 | canadian contemporary r&b |
 | 3 | viral rap |
 | 3 | progressive house |
 | 3 | nz pop |
@@ -416,7 +417,6 @@
 | 3 | hip hop |
 | 3 | etherpop |
 | 3 | chill r&b |
-| 3 | canadian contemporary r&b |
 | 3 | alt z |
 | 2 | trap queen |
 | 2 | shiver pop |
@@ -479,7 +479,7 @@
 | [2019](2019.md) | 45 |
 | [2018](2018.md) | 25 |
 | [2017](2017.md) | 25 |
-| [2016](2016.md) | 24 |
+| [2016](2016.md) | 25 |
 | 2015 | 19 |
 | [2014](2014.md) | 22 |
 | 2013 | 17 |

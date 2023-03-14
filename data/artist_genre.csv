@@ -436,6 +436,7 @@ spotify:artist:1McMsnEElThX1knmY4oliG,pop
 spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0,adult standards
 spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0,easy listening
 spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0,lounge
+spotify:artist:1Np9GsrPO7dlczjvdehBxs,broadway
 spotify:artist:1Np9GsrPO7dlczjvdehBxs,hollywood
 spotify:artist:1Np9GsrPO7dlczjvdehBxs,show tunes
 spotify:artist:1OLWM7nUNcTjZ9ct4DEPZu,smooth jazz
@@ -765,7 +766,6 @@ spotify:artist:2LIk90788K0zvyj2JJVwkJ,pop
 spotify:artist:2LIk90788K0zvyj2JJVwkJ,rap
 spotify:artist:2LJxr7Pt3JnP60eLxwbDOu,dance pop
 spotify:artist:2LJxr7Pt3JnP60eLxwbDOu,hollywood
-spotify:artist:2LJxr7Pt3JnP60eLxwbDOu,movie tunes
 spotify:artist:2LJxr7Pt3JnP60eLxwbDOu,post-teen pop
 spotify:artist:2LxnoYPOe0FCLC82R3xgO2,classical performance
 spotify:artist:2LxnoYPOe0FCLC82R3xgO2,orchestral performance
@@ -805,13 +805,13 @@ spotify:artist:2QSPrJfYeRXaltEEiriXN9,swedish electropop
 spotify:artist:2QSPrJfYeRXaltEEiriXN9,swedish pop
 spotify:artist:2QSPrJfYeRXaltEEiriXN9,swedish synthpop
 spotify:artist:2QYEvpsWUOjqaYuxDPTCmV,hip pop
-spotify:artist:2QeJBmgBdpH4i3uJns5Rdx,k-pop
 spotify:artist:2QeJBmgBdpH4i3uJns5Rdx,korean pop
 spotify:artist:2R21vXR83lH98kGeO99Y66,reggaeton
 spotify:artist:2R21vXR83lH98kGeO99Y66,reggaeton flow
 spotify:artist:2R21vXR83lH98kGeO99Y66,trap boricua
 spotify:artist:2R21vXR83lH98kGeO99Y66,trap latino
 spotify:artist:2R21vXR83lH98kGeO99Y66,urbano latino
+spotify:artist:2RdwBSPQiwcmiDo9kixcl8,dance pop
 spotify:artist:2RdwBSPQiwcmiDo9kixcl8,hip hop
 spotify:artist:2RdwBSPQiwcmiDo9kixcl8,pop
 spotify:artist:2RdwBSPQiwcmiDo9kixcl8,pop rap
@@ -987,6 +987,7 @@ spotify:artist:2rRUfv2w535SEUV1YO5SP6,orchestra
 spotify:artist:2rRUfv2w535SEUV1YO5SP6,russian orchestra
 spotify:artist:2sG4zTOLvjKG1PSoOyf5Ej,acoustic pop
 spotify:artist:2sG4zTOLvjKG1PSoOyf5Ej,folk
+spotify:artist:2sG4zTOLvjKG1PSoOyf5Ej,indie folk
 spotify:artist:2sG4zTOLvjKG1PSoOyf5Ej,lilith
 spotify:artist:2sG4zTOLvjKG1PSoOyf5Ej,modern folk rock
 spotify:artist:2sG4zTOLvjKG1PSoOyf5Ej,neo mellow
@@ -1016,6 +1017,7 @@ spotify:artist:2ye2Wgw4gimLv2eAKyk1NB,metal
 spotify:artist:2ye2Wgw4gimLv2eAKyk1NB,old school thrash
 spotify:artist:2ye2Wgw4gimLv2eAKyk1NB,rock
 spotify:artist:2ye2Wgw4gimLv2eAKyk1NB,thrash metal
+spotify:artist:2z7BqfKvVlkr8KVAOTBKcz,post-teen pop
 spotify:artist:30b9WulBM8sFuBo17nNq9c,k-pop
 spotify:artist:30b9WulBM8sFuBo17nNq9c,k-rap
 spotify:artist:319yZVtYM9MBGqmSQnMyY6,adult standards
@@ -1082,6 +1084,7 @@ spotify:artist:378dH6EszOLFShpRzAQkVM,pop violin
 spotify:artist:37NqXwtb6nIEqRt4EJSoIO,british soul
 spotify:artist:37NqXwtb6nIEqRt4EJSoIO,dance pop
 spotify:artist:37NqXwtb6nIEqRt4EJSoIO,europop
+spotify:artist:37NqXwtb6nIEqRt4EJSoIO,neo soul
 spotify:artist:38WbKH6oKAZskBhqDFA8Uj,j-pop
 spotify:artist:3AA28KZvwAUcZuOKwyblJQ,alternative hip hop
 spotify:artist:3ADyFy1orEwODaiHmRRMQp,basshall
@@ -1136,7 +1139,6 @@ spotify:artist:3Mvc8kRgr8LRYYgvFmlZqn,eurobeat
 spotify:artist:3Mvc8kRgr8LRYYgvFmlZqn,j-pop
 spotify:artist:3My1YRLewqqDXME2OkBpdZ,a cappella
 spotify:artist:3My1YRLewqqDXME2OkBpdZ,college a cappella
-spotify:artist:3NegWDGp038A3FIi3gSYzl,indian indie
 spotify:artist:3NegWDGp038A3FIi3gSYzl,pakistani pop
 spotify:artist:3NegWDGp038A3FIi3gSYzl,sufi
 spotify:artist:3Nrfpe0tUJi4K4DXYWgMUX,k-pop
@@ -1240,7 +1242,6 @@ spotify:artist:3ciRvbBIVz9fBoPbtSYq4x,southern hip hop
 spotify:artist:3ciRvbBIVz9fBoPbtSYq4x,trap
 spotify:artist:3cjEqqelV9zb4BYE3qDQ4O,k-pop
 spotify:artist:3cjEqqelV9zb4BYE3qDQ4O,k-pop boy group
-spotify:artist:3cpG0SJLIJ1qpQfjmlWlzo,k-pop boy group
 spotify:artist:3dAzSJ9lQnJSq5Z0OgDBep,movie tunes
 spotify:artist:3e7awlrlDSwF3iM0WBjGMp,dance pop
 spotify:artist:3e7awlrlDSwF3iM0WBjGMp,girl group
@@ -1464,7 +1465,6 @@ spotify:artist:4GcpBLY8g8NrmimWbssM26,vapor twitch
 spotify:artist:4GcpBLY8g8NrmimWbssM26,wonky
 spotify:artist:4Ge8xMJNwt6EEXOzVXju9a,art pop
 spotify:artist:4Ge8xMJNwt6EEXOzVXju9a,electropop
-spotify:artist:4Ge8xMJNwt6EEXOzVXju9a,escape room
 spotify:artist:4Ge8xMJNwt6EEXOzVXju9a,indie pop
 spotify:artist:4Ge8xMJNwt6EEXOzVXju9a,indietronica
 spotify:artist:4Ge8xMJNwt6EEXOzVXju9a,pop
@@ -1764,10 +1764,11 @@ spotify:artist:5Hc9oDGvStNGmnj44m8sHg,neo mellow
 spotify:artist:5Hc9oDGvStNGmnj44m8sHg,viral pop
 spotify:artist:5HenzRvMtSrgtvU16XAoby,k-pop
 spotify:artist:5HenzRvMtSrgtvU16XAoby,k-rap
-spotify:artist:5HenzRvMtSrgtvU16XAoby,korean pop
 spotify:artist:5HenzRvMtSrgtvU16XAoby,korean r&b
 spotify:artist:5IPABE7EhPLvUVsgM3dlZ8,a cappella
 spotify:artist:5IPABE7EhPLvUVsgM3dlZ8,college a cappella
+spotify:artist:5JZ7CnR6gTvEMKX4g70Amv,dance pop
+spotify:artist:5JZ7CnR6gTvEMKX4g70Amv,electropop
 spotify:artist:5JZ7CnR6gTvEMKX4g70Amv,pop
 spotify:artist:5K4W6rqBFWDnAN6FQUkS6x,chicago rap
 spotify:artist:5K4W6rqBFWDnAN6FQUkS6x,rap
@@ -2153,7 +2154,6 @@ spotify:artist:6KZDXtSj0SzGOV705nNeh3,pop rap
 spotify:artist:6KZDXtSj0SzGOV705nNeh3,rap
 spotify:artist:6KZDXtSj0SzGOV705nNeh3,southern hip hop
 spotify:artist:6KZDXtSj0SzGOV705nNeh3,trap
-spotify:artist:6KxrjoB8dMcRC295reb2Us,indiecoustica
 spotify:artist:6LqNN22kT3074XbTVUrhzX,dance pop
 spotify:artist:6LqNN22kT3074XbTVUrhzX,pop
 spotify:artist:6LqNN22kT3074XbTVUrhzX,post-teen pop
@@ -2311,7 +2311,6 @@ spotify:artist:6l3HvQ5sa6mXTsMTB19rO5,hip hop
 spotify:artist:6l3HvQ5sa6mXTsMTB19rO5,north carolina hip hop
 spotify:artist:6l3HvQ5sa6mXTsMTB19rO5,rap
 spotify:artist:6ltKIf1bortd0DQbpgKdQu,israeli hip hop
-spotify:artist:6ltzsmQQbmdoHHbLZ4ZN25,indie folk
 spotify:artist:6ltzsmQQbmdoHHbLZ4ZN25,stomp and holler
 spotify:artist:6mcrZQmgzFGRWf7C0SObou,adult standards
 spotify:artist:6mcrZQmgzFGRWf7C0SObou,bubblegum pop
@@ -2387,6 +2386,7 @@ spotify:artist:6ueGR6SWhUJfvEhqkvMsVs,electropop
 spotify:artist:6ueGR6SWhUJfvEhqkvMsVs,escape room
 spotify:artist:6ueGR6SWhUJfvEhqkvMsVs,neo soul
 spotify:artist:6ueGR6SWhUJfvEhqkvMsVs,pop
+spotify:artist:6ueGR6SWhUJfvEhqkvMsVs,r&b
 spotify:artist:6vWDO969PvNqNYHIOW5v0m,dance pop
 spotify:artist:6vWDO969PvNqNYHIOW5v0m,pop
 spotify:artist:6vWDO969PvNqNYHIOW5v0m,r&b
@@ -2506,6 +2506,7 @@ spotify:artist:7H55rcKCfwqkyDFH9wpKM6,neo mellow
 spotify:artist:7H55rcKCfwqkyDFH9wpKM6,pop
 spotify:artist:7H55rcKCfwqkyDFH9wpKM6,pop rock
 spotify:artist:7H55rcKCfwqkyDFH9wpKM6,post-teen pop
+spotify:artist:7H55rcKCfwqkyDFH9wpKM6,viral pop
 spotify:artist:7Hb8ewIvJmuQPAQ5MMVXJE,baroque ensemble
 spotify:artist:7Hb8ewIvJmuQPAQ5MMVXJE,historically informed performance
 spotify:artist:7Hb8ewIvJmuQPAQ5MMVXJE,musique ancienne

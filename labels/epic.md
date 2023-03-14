@@ -105,7 +105,7 @@ Appears as:
 | 59 | [hollywood](../genres/hollywood.md) |
 | 59 | [acoustic pop](../genres/acoustic_pop.md) |
 | 15 | [dance pop](../genres/dance_pop.md) |
-| 9 | [r&b](../genres/r_b.md) |
+| 10 | [r&b](../genres/r_b.md) |
 | 8 | soul |
 | 8 | [post-teen pop](../genres/post_teen_pop.md) |
 | 4 | [soft rock](../genres/soft_rock.md) |

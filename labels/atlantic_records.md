@@ -123,7 +123,7 @@ Appears as:
 | 41 | [hollywood](../genres/hollywood.md) |
 | 23 | [pop](../genres/pop.md) |
 | 21 | [dance pop](../genres/dance_pop.md) |
-| 15 | [broadway](../genres/broadway.md) |
+| 16 | [broadway](../genres/broadway.md) |
 | 10 | vocal jazz |
 | 4 | [post-teen pop](../genres/post_teen_pop.md) |
 | 3 | [rock](../genres/rock.md) |
@@ -135,6 +135,7 @@ Appears as:
 | 3 | album rock |
 | 2 | washington indie |
 | 2 | viral rap |
+| 2 | viral pop |
 | 2 | tropical house |
 | 2 | trap queen |
 | 2 | pop rap |
@@ -147,7 +148,6 @@ Appears as:
 | 2 | edm |
 | 2 | alternative hip hop |
 | 2 | [acoustic pop](../genres/acoustic_pop.md) |
-| 1 | viral pop |
 | 1 | uk pop |
 | 1 | uk funky |
 | 1 | uk dance |

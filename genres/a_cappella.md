@@ -67,7 +67,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6d4806745c7f345bd59fd90b" alt="" width="50" /> | Tufts Jackson Jills | [🔗](https://open.spotify.com/artist/1dUJZ0lbobmanl4W14h0a2) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27326f8d98a82475c320a41a919" alt="" width="50" /> | Academical Village People | [🔗](https://open.spotify.com/artist/1Vjug1h4HXCeplbouQEbV3) |
 | 1 | <img src="nan" alt="" width="50" /> | Erika Petty | [🔗](https://open.spotify.com/artist/15YH0MYEIRY7AmrrwfVO4W) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273e4b3e1410915cb14ef5551b1" alt="" width="50" /> | The Virginia Gentlemen | [🔗](https://open.spotify.com/artist/0steWfkS4hwaErh84SlHMW) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273e49e975f4142c6aac6d97f87" alt="" width="50" /> | The Virginia Gentlemen | [🔗](https://open.spotify.com/artist/0steWfkS4hwaErh84SlHMW) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8473502784cc95117c269f23" alt="" width="50" /> | The Bostonians | [🔗](https://open.spotify.com/artist/0gW6hG0g7pVNbHgvmYwHDl) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb654972693e0efed3f3f4d090" alt="" width="50" /> | Jason Derulo | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0f047d0539e01d8b6c71087" alt="" width="50" /> | N'Harmonics | [🔗](https://open.spotify.com/artist/02WQpZmto5LiTgoorLhpLK) |

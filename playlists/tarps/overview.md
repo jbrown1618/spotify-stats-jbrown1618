@@ -226,6 +226,7 @@
 | 4 | [r&b](../../genres/r_b.md) |
 | 4 | new americana |
 | 4 | [mellow gold](../../genres/mellow_gold.md) |
+| 4 | indie folk |
 | 4 | [folk rock](../../genres/folk_rock.md) |
 | 3 | stomp and holler |
 | 3 | [soft rock](../../genres/soft_rock.md) |
@@ -234,7 +235,6 @@
 | 3 | pop soul |
 | 3 | neo soul |
 | 3 | merseybeat |
-| 3 | indie folk |
 | 3 | folk |
 | 3 | british soul |
 | 3 | british invasion |
