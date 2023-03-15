@@ -190,8 +190,8 @@
 | 9 | [folk rock](../../genres/folk_rock.md) |
 | 9 | blues rock |
 | 8 | metal |
-| 6 | country rock |
 | 5 | heartland rock |
+| 5 | country rock |
 | 4 | symphonic rock |
 | 4 | progressive rock |
 | 3 | [singer-songwriter](../../genres/singer_songwriter.md) |

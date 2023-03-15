@@ -1,6 +1,6 @@
 # k-pop
 
-[887 songs](k_pop_tracks.md)
+[890 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -105,6 +105,7 @@
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebbb55fc616733b6c09d48481f" alt="" width="50" /> | NAYEON | [🔗](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebd0701912e6fccf8427bc7361" alt="" width="50" /> | GFRIEND | [🔗](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9ce6b84393575f91c4f4634" alt="" width="50" /> | B.I | [🔗](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) |
+| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ecddddcd7a4d93b21324bc5" alt="" width="50" /> | XG | [🔗](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbb19ac3f264dea7cea4c42b" alt="" width="50" /> | Whee In | [🔗](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd40fae46480e4202ef69316d" alt="" width="50" /> | YUJU | [🔗](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5fb007a707c0ec3a7c1726af" alt="" width="50" /> | Steve Aoki | [🔗](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) |
@@ -113,7 +114,6 @@
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb91b559bd00fca9a0a91e5a9c" alt="" width="50" /> | MeloMance | [🔗](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) |
 | 2 | <img src="https://i.scdn.co/image/621c729dd90a6e7a63fc8f0957b2b928834ec5a8" alt="" width="50" /> | 4Minute | [🔗](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebad9d5fda1f59672d31163ad5" alt="" width="50" /> | BE'O | [🔗](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebca6daabeb614243f96b2829f" alt="" width="50" /> | WOOSUNG | [🔗](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) |
 
 </details>
 
@@ -278,6 +278,7 @@
 | 4 | 88rising Music |
 | 3 | 해피트라이브엔터테인먼트 |
 | 3 | 올라트엔터테인먼트 |
+| 3 | XGALX |
 | 3 | Republic Records – NAYEON (TWICE) |
 | 3 | PLAY M ENTERTAINMENT CORP. |
 | 3 | Makeus Entertainment |
@@ -340,7 +341,6 @@
 | 1 | Imperial Distribution |
 | 1 | IST ENTERTAINMENT |
 | 1 | IOK x Transparent Arts |
-| 1 | HAPPYTRIBE ENTERTAINMENT |
 
 </details>
 
@@ -358,7 +358,7 @@
 | Typa Girl (0.915) | Epilogue (0.366) |
 | BOOM (0.914) | Clockwork (0.37) |
 | Mr. Simple (0.913) | MY LOVE (0.375) |
-| That That (prod. & feat. SUGA of BTS) (0.905) | CHEESE (0.376) |
+| Tippy Toes (0.913) | CHEESE (0.376) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -401,16 +401,16 @@
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| You and I (Park Bom) (0.0837) | Gangnam Style (강남스타일) (0.0) |
-| Adios (0.0794) | Miracle (0.0) |
-| pporappippam (0.0652) | SUPER BOARD (0.0) |
-| Badster (0.0444) | Clockwork (0.0) |
-| Sinner (0.0395) | Shut Down (0.0) |
-| So Hot (0.00976) | SCIENTIST (0.0) |
-| GingaMingaYo (the strange world) (0.00955) | Winter Falls (0.0) |
-| I Am The Best (0.00834) | Beatbox (0.0) |
-| Power Up (0.00745) | Why Can't You Love Me? (0.0) |
-| Fairy of Shampoo (0.00673) | Ridin' (0.0) |
+| Tippy Toes (0.106) | Gangnam Style (강남스타일) (0.0) |
+| You and I (Park Bom) (0.0837) | Miracle (0.0) |
+| Adios (0.0794) | SUPER BOARD (0.0) |
+| pporappippam (0.0652) | Clockwork (0.0) |
+| Badster (0.0444) | Shut Down (0.0) |
+| Sinner (0.0395) | SCIENTIST (0.0) |
+| So Hot (0.00976) | Winter Falls (0.0) |
+| GingaMingaYo (the strange world) (0.00955) | Beatbox (0.0) |
+| I Am The Best (0.00834) | Why Can't You Love Me? (0.0) |
+| Power Up (0.00745) | Ridin' (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|

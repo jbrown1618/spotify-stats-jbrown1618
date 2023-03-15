@@ -121,7 +121,7 @@ Appears as:
 |---:|:---|
 | 44 | [show tunes](../genres/show_tunes.md) |
 | 41 | [hollywood](../genres/hollywood.md) |
-| 23 | [pop](../genres/pop.md) |
+| 22 | [pop](../genres/pop.md) |
 | 21 | [dance pop](../genres/dance_pop.md) |
 | 16 | [broadway](../genres/broadway.md) |
 | 10 | vocal jazz |

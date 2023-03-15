@@ -3,17 +3,17 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27322219b7ba681368a16c219feab67616d0000b27323350feac07f56d8b96f33d5ab67616d0000b27361c83e0a3e42be611729c840ab67616d0000b2736aa9314b7ddfbd8f036ba3ac" alt="Classic Pop" width="100" />
 
-[56 songs](tracks.md)
+[57 songs](tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 25 artists](../../images/playlists/classic_pop/artists.png)
+![Bar chart of top 26 artists](../../images/playlists/classic_pop/artists.png)
 
 ![Comparison of Artist](../../images/playlists/classic_pop/artists_comparison.png)
 
 
 <details>
-<summary>See all 25 artists</summary>
+<summary>See all 26 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -28,6 +28,7 @@
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8b74c36ba6c31fc0f58783c" alt="" width="50" /> | George Michael | [🔗](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb2be5d8fd3746a70e9637a665" alt="" width="50" /> | Nat King Cole | [🔗](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf12270128127ba170f90097d" alt="" width="50" /> | Aretha Franklin | [🔗](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738badfd8e1d01763ef8f2912f" alt="" width="50" /> | Walter Murphy | [🔗](https://open.spotify.com/artist/73JBR5s2PVvUjGu6tIqjqx) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f23b93005b02c1503cc5379" alt="" width="50" /> | Cher | [🔗](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb21a213a4fe1a6f9b45d3f7f9" alt="" width="50" /> | Commodores | [🔗](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb75ca1c0223fc450dfe3c1ec" alt="" width="50" /> | Gloria Gaynor | [🔗](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) |
@@ -52,7 +53,7 @@
 
 
 <details>
-<summary>See all 48 albums</summary>
+<summary>See all 49 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -76,6 +77,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="" width="50" /> | Tapestry | 1971 | [🔗](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50" alt="" width="50" /> | Songs In The Key Of Life | 1976-09-28 | [🔗](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273c5e9e847ca9c0982b4c91d4b" alt="" width="50" /> | Signed, Sealed And Delivered | 1970-08-07 | [🔗](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273c129b7e46bb0d8b054dae51f" alt="" width="50" /> | Saturday Night Fever (The Original Movie Soundtrack Deluxe Edition) | 1977-11-15 | [🔗](https://open.spotify.com/album/3xaCKtqadm4KnviPFKEjs7) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273dfe4bfe695c4192e547e72c7" alt="" width="50" /> | Ring Of Fire: The Best Of Johnny Cash | 1963-08-06 | [🔗](https://open.spotify.com/album/0ucV57dbnqmrGv9d60r6X2) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac" alt="" width="50" /> | Off the Wall | 1979-08-10 | [🔗](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736506e351b719b6f122e60ea2" alt="" width="50" /> | Meet The Temptations | 1964 | [🔗](https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt) |
@@ -128,6 +130,7 @@
 | 3 | EMI |
 | 2 | [Rhino](../../labels/rhino.md) |
 | 2 | Columbia Nashville Legacy |
+| 2 | Bee Gees Catalog |
 | 1 | Vorsicht Musik |
 | 1 | Sony Music Entertainment |
 | 1 | Sony Music CG |
@@ -141,7 +144,6 @@
 | 1 | Castle Communications |
 | 1 | [Capitol Records](../../labels/capitol_records.md) |
 | 1 | CAPITOL CATALOG MKT (C92) |
-| 1 | Bee Gees Catalog |
 | 1 | A&M |
 
 </details>
@@ -153,7 +155,7 @@
 
 
 <details>
-<summary>See all 38 genres</summary>
+<summary>See all 39 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -176,8 +178,8 @@
 | 5 | quiet storm |
 | 5 | memphis soul |
 | 5 | melancholia |
+| 5 | disco |
 | 4 | new wave pop |
-| 4 | disco |
 | 3 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 3 | outlaw country |
 | 3 | bubblegum pop |
@@ -191,6 +193,7 @@
 | 1 | jazz trumpet |
 | 1 | jazz blues |
 | 1 | [hollywood](../../genres/hollywood.md) |
+| 1 | hammond organ |
 | 1 | doo-wop |
 | 1 | country rock |
 | 1 | classic canadian rock |
@@ -273,16 +276,16 @@
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Smooth Criminal - 2012 Remaster (0.468) | The Lion Sleeps Tonight (Wimoweh) (0.0) |
-| Wanna Be Startin' Somethin' (0.419) | Signed, Sealed, Delivered (I'm Yours) (0.0) |
-| I Walk the Line - Stereo Version (0.162) | Believe (0.0) |
-| Feels So Good (0.0537) | Cat's in the Cradle (0.0) |
-| Papa Was A Rollin' Stone - Single Version (0.0507) | Sugar, Sugar (0.0) |
-| Don't Stop 'Til You Get Enough (0.0461) | Ain't Too Proud To Beg (0.0) |
-| Billie Jean (0.0436) | Careless Whisper (0.0) |
-| Nature Boy (0.0213) | For Once In My Life (0.0) |
-| Unforgettable (0.0152) | The Sound of Silence - Acoustic Version (0.0) |
-| Stayin Alive (0.00839) | Build Me Up Buttercup (0.0) |
+| A Fifth Of Beethoven (0.69) | The Lion Sleeps Tonight (Wimoweh) (0.0) |
+| Smooth Criminal - 2012 Remaster (0.468) | Signed, Sealed, Delivered (I'm Yours) (0.0) |
+| Wanna Be Startin' Somethin' (0.419) | Believe (0.0) |
+| I Walk the Line - Stereo Version (0.162) | Cat's in the Cradle (0.0) |
+| Feels So Good (0.0537) | Sugar, Sugar (0.0) |
+| Papa Was A Rollin' Stone - Single Version (0.0507) | Ain't Too Proud To Beg (0.0) |
+| Don't Stop 'Til You Get Enough (0.0461) | Careless Whisper (0.0) |
+| Billie Jean (0.0436) | For Once In My Life (0.0) |
+| Nature Boy (0.0213) | The Sound of Silence - Acoustic Version (0.0) |
+| Unforgettable (0.0152) | Build Me Up Buttercup (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|

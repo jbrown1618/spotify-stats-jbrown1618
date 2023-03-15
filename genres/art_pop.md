@@ -1,6 +1,6 @@
 # art pop
 
-[49 songs](art_pop_tracks.md)
+[51 songs](art_pop_tracks.md)
 
 ## Top Artists
 
@@ -15,8 +15,8 @@
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
 | 17 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | [Lana Del Rey](../artists/lana_del_rey.md) | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
+| 13 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../artists/billie_eilish.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
 | 13 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../artists/lady_gaga.md) | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
-| 11 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../artists/billie_eilish.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb9df0f924a5e609c8da143cd5" alt="" width="50" /> | A. G. Cook | [🔗](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb576cb43281160e345f728b71" alt="" width="50" /> | Charli XCX | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc4902f080d3620b3e6da80c3" alt="" width="50" /> | Lorde | [🔗](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) |
@@ -49,6 +49,7 @@
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | The Fame | 2008-01-01 | [🔗](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="" width="50" /> | Ultraviolence (Deluxe) | 2014-01-01 | [🔗](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="" width="50" /> | Norman Fucking Rockwell! | 2019-08-30 | [🔗](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) |
+| 3 | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="" width="50" /> | Happier Than Ever | 2021-07-30 | [🔗](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="" width="50" /> | The Fame Monster (Deluxe Edition) | 2009-11-05 | [🔗](https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190" alt="" width="50" /> | Lust For Life | 2017-07-21 | [🔗](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | Chromatica | 2020-05-29 | [🔗](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) |
@@ -66,7 +67,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7" alt="" width="50" /> | No Time To Die | 2020-02-13 | [🔗](https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1" alt="" width="50" /> | Joanne (Deluxe) | 2016-10-21 | [🔗](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a" alt="" width="50" /> | Honeymoon | 2015-09-18 | [🔗](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="" width="50" /> | Happier Than Ever | 2021-07-30 | [🔗](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318" alt="" width="50" /> | Guitar Songs | 2022-07-21 | [🔗](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="" width="50" /> | CRASH | 2022-03-18 | [🔗](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd" alt="" width="50" /> | Born This Way | 2011-01-01 | [🔗](https://open.spotify.com/album/2KkMVsxymoNR7hRmBcMttd) |
@@ -87,9 +87,9 @@
 
 | Number of Tracks | Label |
 |---:|:---|
-| 20 | [Interscope Records](../labels/interscope_records.md) |
+| 22 | [Interscope Records](../labels/interscope_records.md) |
 | 17 | [Polydor Records](../labels/polydor_records.md) |
-| 11 | [Darkroom](../labels/darkroom.md) |
+| 13 | [Darkroom](../labels/darkroom.md) |
 | 2 | A Star is Born OST |
 | 1 | Work |
 | 1 | VÉRITÉ |
@@ -116,9 +116,9 @@
 | Look What I Found (0.849) | Shadowboxer (0.298) |
 | Telephone (0.824) | Radio (0.312) |
 | Just Dance (0.822) | Young And Beautiful (0.324) |
-| Good Ones (0.764) | Swan Song (0.34) |
-| Paparazzi (0.762) | Bel Air (0.346) |
-| Show Me What (0.755) | lovely (with Khalid) (0.351) |
+| Good Ones (0.764) | Happier Than Ever (0.332) |
+| Paparazzi (0.762) | Swan Song (0.34) |
+| Show Me What (0.755) | Bel Air (0.346) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -127,11 +127,11 @@
 | Rain On Me (with Ariana Grande) (0.855) | Norman fucking Rockwell (0.203) |
 | Radio (0.841) | No Time To Die (0.219) |
 | Telephone (0.836) | everything i wanted (0.225) |
-| Poker Face (0.806) | TV (0.236) |
-| Just Dance (0.739) | Video Games (0.255) |
-| Off To The Races (0.722) | lovely (with Khalid) (0.296) |
-| Yoü And I (0.709) | Swan Song (0.361) |
-| Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (0.704) | ocean eyes (0.363) |
+| Poker Face (0.806) | Happier Than Ever (0.225) |
+| Just Dance (0.739) | TV (0.236) |
+| Off To The Races (0.722) | Video Games (0.255) |
+| Yoü And I (0.709) | lovely (with Khalid) (0.296) |
+| Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (0.704) | GOLDWING (0.303) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -140,11 +140,11 @@
 | Show Me What (0.287) | Swan Song (0.0294) |
 | xanny (0.239) | Bel Air (0.0298) |
 | you should see me in a crown (0.186) | Video Games (0.0299) |
-| Royals (0.122) | Shades Of Cool (0.0302) |
-| everything i wanted (0.0994) | Shadowboxer (0.0303) |
-| when the party's over (0.0972) | Just Dance (0.0311) |
-| Therefore I Am (0.0924) | La Vie En Rose (0.0329) |
-| Billions (0.0921) | lovely (with Khalid) (0.0333) |
+| GOLDWING (0.126) | Shades Of Cool (0.0302) |
+| Royals (0.122) | Shadowboxer (0.0303) |
+| everything i wanted (0.0994) | Just Dance (0.0311) |
+| when the party's over (0.0972) | La Vie En Rose (0.0329) |
+| Therefore I Am (0.0924) | lovely (with Khalid) (0.0333) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -165,12 +165,12 @@
 | Swan Song (0.421) | Til It Happens To You (0.0) |
 | you should see me in a crown (0.219) | Show Me What (0.0) |
 | bury a friend (0.162) | Dark Paradise (0.0) |
-| Therefore I Am (0.135) | lovely (with Khalid) (0.0) |
-| bad guy (0.13) | Royals (0.0) |
-| Bel Air (0.0875) | La Vie En Rose (0.0) |
-| Norman fucking Rockwell (0.0585) | Summertime Sadness (0.0) |
-| ocean eyes (0.0317) | Yoü And I (0.0) |
-| West Coast (0.0194) | Paparazzi (0.0) |
+| GOLDWING (0.159) | lovely (with Khalid) (0.0) |
+| Therefore I Am (0.135) | Royals (0.0) |
+| bad guy (0.13) | La Vie En Rose (0.0) |
+| Bel Air (0.0875) | Summertime Sadness (0.0) |
+| Norman fucking Rockwell (0.0585) | Yoü And I (0.0) |
+| ocean eyes (0.0317) | Paparazzi (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|

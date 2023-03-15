@@ -318,8 +318,8 @@
 | 63 | [pop](../../genres/pop.md) |
 | 29 | [rock](../../genres/rock.md) |
 | 26 | indie pop |
-| 23 | [electropop](../../genres/electropop.md) |
 | 22 | permanent wave |
+| 22 | [electropop](../../genres/electropop.md) |
 | 21 | [dance pop](../../genres/dance_pop.md) |
 | 21 | [art pop](../../genres/art_pop.md) |
 | 20 | modern rock |
@@ -378,7 +378,6 @@
 | 2 | celtic rock |
 | 2 | canadian indie |
 | 2 | alternative metal |
-| 2 | alternative dance |
 | 1 | visual kei |
 | 1 | viral pop |
 | 1 | uk contemporary r&b |
@@ -410,6 +409,7 @@
 | 1 | indie poptimism |
 | 1 | grunge |
 | 1 | folk-pop |
+| 1 | escape room |
 | 1 | elephant 6 |
 | 1 | electronic rock |
 | 1 | dutch pop |
