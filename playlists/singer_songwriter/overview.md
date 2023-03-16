@@ -207,7 +207,7 @@
 | Number of Tracks | Genre |
 |---:|:---|
 | 141 | [pop](../../genres/pop.md) |
-| 82 | [acoustic pop](../../genres/acoustic_pop.md) |
+| 81 | [acoustic pop](../../genres/acoustic_pop.md) |
 | 79 | [neo mellow](../../genres/neo_mellow.md) |
 | 79 | [lilith](../../genres/lilith.md) |
 | 61 | [pop rock](../../genres/pop_rock.md) |

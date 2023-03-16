@@ -1,6 +1,6 @@
 # k-pop boy group
 
-[247 songs](k_pop_boy_group_tracks.md)
+[246 songs](k_pop_boy_group_tracks.md)
 
 ## Top Artists
 
@@ -14,7 +14,7 @@
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
-| 47 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
+| 46 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 | 33 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | 22 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../artists/enhypen.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 | 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="" width="50" /> | [SEVENTEEN](../artists/seventeen.md) | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
@@ -69,7 +69,7 @@
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
-| 11 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | SKZ-REPLAY | 2022-12-21 | [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) |
+| 10 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | SKZ-REPLAY | 2022-12-21 | [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) |
 | 6 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | NOEASY | 2021-08-23 | [🔗](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) |
 | 5 | <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | ODDINARY | 2022-03-18 | [🔗](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) |
 | 5 | <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="" width="50" /> | DIMENSION : DILEMMA | 2021-10-12 | [🔗](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) |
@@ -184,7 +184,7 @@
 | Number of Tracks | Label |
 |---:|:---|
 | 56 | [SM Entertainment](../labels/sm_entertainment.md) |
-| 52 | [Republic Records](../labels/republic_records.md) |
+| 51 | [Republic Records](../labels/republic_records.md) |
 | 32 | [BIGHIT MUSIC](../labels/bighit_music.md) |
 | 20 | [BELIFT LAB](../labels/belift_lab.md) |
 | 16 | [PLEDIS Entertainment](../labels/pledis_entertainment.md) |
@@ -262,13 +262,13 @@
 | Deep end (Felix) (0.879) | Easy (0.000219) |
 | Boy in time - HUI Solo (0.876) | Mr. Simple (0.000219) |
 | miss you (Hyunjin) (0.826) | Tamed-Dashed (0.000253) |
-| Because (Changbin, Felix) (0.816) | Cyberpunk (0.000265) |
-| i hate to admit (Bang Chan) (0.794) | Attention, please! (0.000483) |
-| Gold Dust (0.704) | HALAZIA (0.000677) |
-| RUN (HAN) (0.703) | Drunk-Dazed (0.000707) |
-| Missing You (0.65) | Cherry Bomb (0.000759) |
-| Singularity (0.56) | Favorite (Vampire) (0.000831) |
-| Back 2 U (AM 01:27) (0.548) | Danger (0.000907) |
+| i hate to admit (Bang Chan) (0.794) | Cyberpunk (0.000265) |
+| Gold Dust (0.704) | Attention, please! (0.000483) |
+| RUN (HAN) (0.703) | HALAZIA (0.000677) |
+| Missing You (0.65) | Drunk-Dazed (0.000707) |
+| Singularity (0.56) | Cherry Bomb (0.000759) |
+| Back 2 U (AM 01:27) (0.548) | Favorite (Vampire) (0.000831) |
+| 24 to 25 (0.533) | Danger (0.000907) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|

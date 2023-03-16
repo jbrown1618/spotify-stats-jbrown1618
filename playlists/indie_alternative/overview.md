@@ -407,9 +407,9 @@
 | 1 | industrial |
 | 1 | indie rock italiano |
 | 1 | indie poptimism |
+| 1 | indie folk |
 | 1 | grunge |
 | 1 | folk-pop |
-| 1 | escape room |
 | 1 | elephant 6 |
 | 1 | electronic rock |
 | 1 | dutch pop |

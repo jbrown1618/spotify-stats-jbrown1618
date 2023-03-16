@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1477 songs](tracks.md)
+[1478 songs](tracks.md)
 
 ## Top Artists
 
@@ -247,7 +247,7 @@
 | 61 | [Epic](../../labels/epic.md) |
 | 59 | [YG Entertainment](../../labels/yg_entertainment.md) |
 | 56 | [Interscope Records](../../labels/interscope_records.md) |
-| 54 | [Columbia](../../labels/columbia.md) |
+| 55 | [Columbia](../../labels/columbia.md) |
 | 50 | [Genie Music Corporation](../../labels/genie_music_corporation.md) |
 | 48 | [Stone Music Entertainment](../../labels/stone_music_entertainment.md) |
 | 46 | [Warner Records](../../labels/warner_records.md) |
@@ -356,14 +356,14 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 653 | [k-pop](../../genres/k_pop.md) |
-| 374 | [pop](../../genres/pop.md) |
+| 651 | [k-pop](../../genres/k_pop.md) |
+| 375 | [pop](../../genres/pop.md) |
 | 299 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 166 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
 | 161 | [dance pop](../../genres/dance_pop.md) |
 | 105 | [rock](../../genres/rock.md) |
 | 78 | [classic rock](../../genres/classic_rock.md) |
-| 62 | [neo mellow](../../genres/neo_mellow.md) |
+| 60 | [neo mellow](../../genres/neo_mellow.md) |
 | 60 | [lilith](../../genres/lilith.md) |
 | 55 | [acoustic pop](../../genres/acoustic_pop.md) |
 | 54 | [pop rock](../../genres/pop_rock.md) |
@@ -378,12 +378,12 @@
 | 32 | korean r&b |
 | 30 | british invasion |
 | 28 | psychedelic rock |
-| 27 | [r&b](../../genres/r_b.md) |
 | 25 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 25 | piano rock |
 | 24 | permanent wave |
 | 23 | beatlesque |
 | 23 | art rock |
+| 22 | [r&b](../../genres/r_b.md) |
 | 22 | merseybeat |
 | 20 | urban contemporary |
 | 20 | pop rap |
@@ -417,12 +417,12 @@
 | 11 | indie rock |
 | 9 | tropical house |
 | 9 | lounge |
-| 9 | escape room |
 | 9 | bergen indie |
 | 8 | viral pop |
 | 8 | pop dance |
 | 8 | latin pop |
 | 8 | etherpop |
+| 8 | escape room |
 | 8 | blues rock |
 | 8 | australian dance |
 | 7 | korean city pop |
@@ -470,7 +470,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| [2023](2023.md) | 32 |
+| [2023](2023.md) | 33 |
 | [2022](2022.md) | 236 |
 | [2021](2021.md) | 183 |
 | [2020](2020.md) | 133 |

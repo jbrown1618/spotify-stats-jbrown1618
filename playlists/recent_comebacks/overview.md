@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2738cab1c75d2271af37c3e2db9ab67616d0000b273d2ef237da7f94762997c2083ab67616d0000b273e9cd59d664f597061a513038ab67616d0000b273ed10325dc317f32df83990b9" alt="Recent Comebacks" width="100" />
 
-[75 songs](tracks.md)
+[81 songs](tracks.md)
 
 ## Top Artists
 
@@ -19,16 +19,16 @@
 |---:|:---|:---|:---|
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb8944c8aec8db82f35980b191" alt="" width="50" /> | [TWICE](../../artists/twice.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb03fd839c09fe375026192645" alt="" width="50" /> | GOT the beat | [🔗](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) |
+| 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../../artists/aespa.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../../artists/blackpink.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
+| 5 | <img src="https://i.scdn.co/image/ab6761610000e5ebde8ad216e0ff7a76573c835e" alt="" width="50" /> | [SEULGI](../../artists/seulgi.md) | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../../artists/enhypen.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../../artists/red_velvet.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebfb6c0b7b6918dca92be0ed75" alt="" width="50" /> | LE SSERAFIM | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebde8ad216e0ff7a76573c835e" alt="" width="50" /> | [SEULGI](../../artists/seulgi.md) | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../../artists/_g_i_dle.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | Jackson Wang | [🔗](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d874b307cb092e68db73207" alt="" width="50" /> | [NCT 127](../../artists/nct_127.md) | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../../artists/aespa.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb6199c3c2f414880e2b9077a9" alt="" width="50" /> | NewJeans | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb1b86652b4761cbc4d3bc791f" alt="" width="50" /> | BoA | [🔗](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb6255cdc7eb41e77dfed9fd2c" alt="" width="50" /> | WINTER | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
@@ -78,15 +78,15 @@
 |---:|:---|:---|:---|:---|
 | 6 | <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="" width="50" /> | Stamp On It - The 1st Mini Album | 2023-01-16 | [🔗](https://open.spotify.com/album/2Gxd1fr4RFHVNx6IxGr9I7) |
 | 6 | <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | READY TO BE | 2023-03-10 | [🔗](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) |
+| 6 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Girls - The 2nd Mini Album | 2022-07-08 | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
 | 6 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | BORN PINK | 2022-09-16 | [🔗](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) |
+| 5 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 28 Reasons - The 1st Mini Album | 2022-10-04 | [🔗](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273d2ef237da7f94762997c2083" alt="" width="50" /> | ‘The ReVe Festival 2022 - Birthday’ | 2022-11-28 | [🔗](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | SKZ-REPLAY | 2022-12-21 | [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" alt="" width="50" /> | MANIFESTO : DAY 1 | 2022-07-04 | [🔗](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="" width="50" /> | MAGIC MAN | 2022-09-09 | [🔗](https://open.spotify.com/album/2VZ4og2ZbwyTQ3X1rbgCe1) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | I love | 2022-10-17 | [🔗](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="" width="50" /> | ANTIFRAGILE | 2022-10-17 | [🔗](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 28 Reasons - The 1st Mini Album | 2022-10-04 | [🔗](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Girls - The 2nd Mini Album | 2022-07-08 | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | CHESHIRE | 2022-11-30 | [🔗](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | 2022 Winter SMTOWN : SMCU PALACE | 2022-12-26 | [🔗](https://open.spotify.com/album/1HwnXJfZx8N8qDfzwUbxcw) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="" width="50" /> | 2 Baddies - The 4th Album | 2022-09-16 | [🔗](https://open.spotify.com/album/6p80QT3z7kOHpYdnsItQTQ) |
@@ -130,11 +130,11 @@
 
 | Number of Tracks | Label |
 |---:|:---|
-| 22 | [SM Entertainment](../../labels/sm_entertainment.md) |
+| 24 | [SM Entertainment](../../labels/sm_entertainment.md) |
 | 12 | [Republic Records](../../labels/republic_records.md) |
+| 9 | [Warner Records](../../labels/warner_records.md) |
 | 7 | [YG Entertainment](../../labels/yg_entertainment.md) |
 | 7 | [Interscope Records](../../labels/interscope_records.md) |
-| 5 | [Warner Records](../../labels/warner_records.md) |
 | 4 | [SOURCE MUSIC](../../labels/source_music.md) |
 | 4 | [BELIFT LAB](../../labels/belift_lab.md) |
 | 4 | 88rising Music |
@@ -169,8 +169,8 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 56 | [k-pop](../../genres/k_pop.md) |
-| 31 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
+| 58 | [k-pop](../../genres/k_pop.md) |
+| 35 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 13 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
 | 4 | anime |
 | 2 | korean r&b |
@@ -191,7 +191,7 @@
 | Year | Number of Tracks |
 |:---|---:|
 | [2023](2023.md) | 24 |
-| [2022](2022.md) | 51 |
+| [2022](2022.md) | 57 |
 
 </details>
 
@@ -214,14 +214,14 @@
 |:---|:---|
 | Typa Girl (0.915) | Floral Sense (0.411) |
 | ANTIFRAGILE (0.882) | Time After Time (0.415) |
-| Rose (0.868) | HALAZIA (0.482) |
-| 1,2,3 Eoi! (0.862) | BLAME IT ON ME (0.483) |
-| PULL UP (0.853) | SHOUT OUT (0.495) |
-| Maknae On Top (I.N) (0.834) | NUMB (0.518) |
-| Shut Down (0.82) | Birthday (0.535) |
-| POPPY - Japanese Ver. (0.819) | Blow (0.535) |
-| On A Ride (0.817) | Dead Man Runnin’ (0.54) |
-| Ditto (0.814) | Girls (0.57) |
+| Rose (0.868) | Life's Too Short (English Version) (0.472) |
+| 1,2,3 Eoi! (0.862) | HALAZIA (0.482) |
+| PULL UP (0.853) | BLAME IT ON ME (0.483) |
+| Maknae On Top (I.N) (0.834) | Life's Too Short (0.488) |
+| Shut Down (0.82) | SHOUT OUT (0.495) |
+| POPPY - Japanese Ver. (0.819) | NUMB (0.518) |
+| On A Ride (0.817) | Birthday (0.535) |
+| Ditto (0.814) | Blow (0.535) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -240,14 +240,14 @@
 |:---|:---|
 | I GOT IT (HAN) (0.365) | Cruel (0.0309) |
 | Girls (0.325) | Tally (0.031) |
-| Future Perfect (Pass the MIC) (0.264) | Animal Farm (0.0315) |
-| 2 Baddies (0.258) | CRAZY STUPID LOVE (0.0316) |
-| KARMA (0.233) | The Happiest Girl (0.0328) |
-| Young, Dumb, Stupid (0.233) | Come Alive (0.0338) |
+| Life's Too Short (English Version) (0.265) | Animal Farm (0.0315) |
+| Future Perfect (Pass the MIC) (0.264) | CRAZY STUPID LOVE (0.0316) |
+| 2 Baddies (0.258) | The Happiest Girl (0.0328) |
+| KARMA (0.233) | Come Alive (0.0338) |
+| Young, Dumb, Stupid (0.233) | Los Angeles (0.0344) |
 | Birthday (0.202) | Candy (0.0348) |
 | Rover (0.201) | Floral Sense (0.0362) |
 | Fighting (Feat. Lee Young Ji) (0.191) | Time After Time (0.037) |
-| Beautiful Liar (0.186) | Sweet Juice (0.0372) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -255,25 +255,25 @@
 | Gold Dust (0.704) | Cruel (0.00137) |
 | ZOOM (0.696) | Come Alive (0.00288) |
 | The Happiest Girl (0.638) | I ≠ DOLL (0.00289) |
-| Crown (0.443) | SHOUT OUT (0.00315) |
-| MOONLIGHT SUNRISE (0.401) | Shut Down (0.00412) |
-| CRAZY STUPID LOVE (0.393) | Blow (0.00437) |
-| Hug Me (I.N) (0.358) | Hard to Love (0.00616) |
-| OMG (0.357) | Tally (0.00777) |
-| Cheshire (0.332) | No Celestial (0.0168) |
+| ICU (0.536) | SHOUT OUT (0.00315) |
+| Crown (0.443) | Shut Down (0.00412) |
+| MOONLIGHT SUNRISE (0.401) | Blow (0.00437) |
+| CRAZY STUPID LOVE (0.393) | Hard to Love (0.00616) |
+| Life's Too Short (0.376) | Tally (0.00777) |
+| Hug Me (I.N) (0.358) | No Celestial (0.0168) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Floral Sense (0.000598) | Shut Down (0.0) |
-| Girls (0.000594) | Gold Dust (0.0) |
-| HALAZIA (0.000575) | Typa Girl (0.0) |
-| Rover (0.000487) | Tally (0.0) |
-| Crown (0.000337) | CRAZY STUPID LOVE (0.0) |
-| Stamp On It (0.000142) | Rose (0.0) |
-| Priority (0.000127) | miss you (Hyunjin) (0.0) |
-| Cruel (0.000114) | Beautiful Liar (0.0) |
-| ZOOM (5.39e-05) | GOT THE THRILLS (0.0) |
-| On A Ride (2.54e-05) | 2 Baddies (0.0) |
+| Los Angeles (0.00448) | Shut Down (0.0) |
+| Lingo (0.000796) | Gold Dust (0.0) |
+| Floral Sense (0.000598) | Typa Girl (0.0) |
+| Girls (0.000594) | Tally (0.0) |
+| HALAZIA (0.000575) | CRAZY STUPID LOVE (0.0) |
+| Rover (0.000487) | ICU (0.0) |
+| Crown (0.000337) | Rose (0.0) |
+| Stamp On It (0.000142) | miss you (Hyunjin) (0.0) |
+| Priority (0.000127) | Beautiful Liar (0.0) |
+| Cruel (0.000114) | GOT THE THRILLS (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -285,8 +285,8 @@
 | SHOUT OUT (0.459) | Come Alive (0.0627) |
 | BYE BYE (0.423) | Outlaw (0.0644) |
 | Teddy Bear (0.387) | I GOT IT (HAN) (0.0653) |
-| Cheshire (0.357) | Impurities (0.0656) |
-| Gold Dust (0.35) | PULL UP (0.0693) |
+| Anywhere But Home (0.377) | Impurities (0.0656) |
+| ICU (0.365) | PULL UP (0.0693) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|

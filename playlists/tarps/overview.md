@@ -216,13 +216,13 @@
 | Number of Tracks | Genre |
 |---:|:---|
 | 22 | [pop](../../genres/pop.md) |
-| 10 | [neo mellow](../../genres/neo_mellow.md) |
+| 9 | [neo mellow](../../genres/neo_mellow.md) |
 | 9 | [dance pop](../../genres/dance_pop.md) |
 | 8 | [rock](../../genres/rock.md) |
 | 7 | [classic rock](../../genres/classic_rock.md) |
 | 6 | urban contemporary |
-| 6 | [acoustic pop](../../genres/acoustic_pop.md) |
 | 5 | [pop rock](../../genres/pop_rock.md) |
+| 5 | [acoustic pop](../../genres/acoustic_pop.md) |
 | 4 | [r&b](../../genres/r_b.md) |
 | 4 | new americana |
 | 4 | [mellow gold](../../genres/mellow_gold.md) |

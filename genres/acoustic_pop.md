@@ -1,16 +1,16 @@
 # acoustic pop
 
-[85 songs](acoustic_pop_tracks.md)
+[84 songs](acoustic_pop_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 11 artists](../images/genres/acoustic_pop/artists.png)
+![Bar chart of top 10 artists](../images/genres/acoustic_pop/artists.png)
 
 ![Comparison of Artist](../images/genres/acoustic_pop/artists_comparison.png)
 
 
 <details>
-<summary>See all 11 artists</summary>
+<summary>See all 10 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -24,17 +24,16 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9236c8060febc7d7fc7ea8c4" alt="" width="50" /> | Rachael Yamagata | [🔗](https://open.spotify.com/artist/7w0qj2HiAPIeUcoPogvOZ6) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9bc0756eb16b241111bbc72b" alt="" width="50" /> | Colbie Caillat | [🔗](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc78a80d480018ec030aade25" alt="" width="50" /> | Marc Broussard | [🔗](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb26e35e5ceab6998278006481" alt="" width="50" /> | Brandi Carlile | [🔗](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) |
 
 </details>
 
 ## Top Albums
 
-![Bar chart of top 19 albums](../images/genres/acoustic_pop/albums.png)
+![Bar chart of top 18 albums](../images/genres/acoustic_pop/albums.png)
 
 
 <details>
-<summary>See all 19 albums</summary>
+<summary>See all 18 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -56,18 +55,17 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273fcfd8d2e1bb9f0d4fbe5794d" alt="" width="50" /> | Happenstance (Deluxe Version) | 2004-06-08 | [🔗](https://open.spotify.com/album/66p6CIMdxQFO3Igg9xo14a) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737cdb143bd2e9906d39c5eb04" alt="" width="50" /> | Carencro | 2004-08-03 | [🔗](https://open.spotify.com/album/15dP7BadtY55t9VvFlVrBA) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="" width="50" /> | Brave Enough: Live at the Variety Playhouse | 2013-10-22 | [🔗](https://open.spotify.com/album/7L4ZgnQqEhCEsV9GnMeXtE) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f5aac98410fb9e64e29827d4" alt="" width="50" /> | Bear Creek | 2012-06-01 | [🔗](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) |
 
 </details>
 
 
 ## Top Record Labels
 
-![Bar chart of top 11 record labels](../images/genres/acoustic_pop/labels.png)
+![Bar chart of top 10 record labels](../images/genres/acoustic_pop/labels.png)
 
 
 <details>
-<summary>See all 11 labels</summary>
+<summary>See all 10 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -81,7 +79,6 @@
 | 2 | ATG |
 | 1 | Private Music |
 | 1 | Island Records |
-| 1 | [Columbia](../labels/columbia.md) |
 
 </details>
 
