@@ -1,6 +1,6 @@
 # a cappella
 
-[196 songs](a_cappella_tracks.md)
+[197 songs](a_cappella_tracks.md)
 
 ## Top Artists
 
@@ -10,7 +10,7 @@
 
 
 <details>
-<summary>See all 58 artists</summary>
+<summary>See all 59 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -69,6 +69,7 @@
 | 1 | <img src="nan" alt="" width="50" /> | Erika Petty | [🔗](https://open.spotify.com/artist/15YH0MYEIRY7AmrrwfVO4W) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273e49e975f4142c6aac6d97f87" alt="" width="50" /> | The Virginia Gentlemen | [🔗](https://open.spotify.com/artist/0steWfkS4hwaErh84SlHMW) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8473502784cc95117c269f23" alt="" width="50" /> | The Bostonians | [🔗](https://open.spotify.com/artist/0gW6hG0g7pVNbHgvmYwHDl) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4c275a91813c432ce13b5fbc" alt="" width="50" /> | New Dominions | [🔗](https://open.spotify.com/artist/0PzFyYSC4Y7JarVyByrJPc) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb654972693e0efed3f3f4d090" alt="" width="50" /> | Jason Derulo | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0f047d0539e01d8b6c71087" alt="" width="50" /> | N'Harmonics | [🔗](https://open.spotify.com/artist/02WQpZmto5LiTgoorLhpLK) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb79df49f258dae5247ad5d5cb" alt="" width="50" /> | On The Rocks | [🔗](https://open.spotify.com/artist/00IjdWQ46sSBP4gZYObAMx) |
@@ -85,8 +86,8 @@
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
+| 9 | <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="" width="50" /> | BOCA 2015: Best Of College A Cappella | 2014-12-19 | [🔗](https://open.spotify.com/album/0gyhBvJs1GiI31cMMmKLnK) |
 | 8 | <img src="https://i.scdn.co/image/ab67616d0000b273987a99b436a78299e8dcb7dd" alt="" width="50" /> | Quarter Past | 2014-11-18 | [🔗](https://open.spotify.com/album/1pScBPjmT5w3s0BTgkdgJy) |
-| 8 | <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="" width="50" /> | BOCA 2015: Best Of College A Cappella | 2014-12-19 | [🔗](https://open.spotify.com/album/0gyhBvJs1GiI31cMMmKLnK) |
 | 7 | <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="" width="50" /> | PTX, Vol. 2 | 2013-11-05 | [🔗](https://open.spotify.com/album/12dPqNFIdjiVFSHvtsDmzJ) |
 | 6 | <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | PTX, Vol. III | 2014-09-23 | [🔗](https://open.spotify.com/album/32y54TelUHSUDWVOx4h1B4) |
 | 6 | <img src="https://i.scdn.co/image/ab67616d0000b273ad76265e2c01cc533a87df0e" alt="" width="50" /> | PTX, Vol. 1 | 2012-06-26 | [🔗](https://open.spotify.com/album/5wGlP6EqF7akh6N3UGfKVZ) |
@@ -178,7 +179,7 @@
 
 | Number of Tracks | Label |
 |---:|:---|
-| 43 | [Varsity Vocals](../labels/varsity_vocals.md) |
+| 44 | [Varsity Vocals](../labels/varsity_vocals.md) |
 | 36 | [RCA Records Label](../labels/rca_records_label.md) |
 | 32 | [A Cappella Records](../labels/a_cappella_records.md) |
 | 12 | [Ithacappella](../labels/ithacappella.md) |
@@ -256,12 +257,12 @@
 | Shenandoah - Arr. Bob Chilcott (0.989) | Daft Punk (0.00403) |
 | Amazing Grace (0.987) | The Baddest Girl (0.00637) |
 | Bring Him Home (0.984) | Domino (0.0113) |
-| Lullabye (Goodnight My Angel) (0.976) | Talk Dirty (0.017) |
-| Walking in the Air (0.975) | Starships (0.0176) |
-| Greensleeves (0.974) | We Are Young (0.02) |
-| Prelude No.1 in C Major (0.972) | Problem (0.0204) |
-| Demons (0.972) | Wrecking Ball (0.0208) |
-| Bluebird (0.972) | Hey Momma / Hit the Road Jack (0.0214) |
+| Lullabye (Goodnight My Angel) (0.976) | Chandelier (0.0115) |
+| Walking in the Air (0.975) | Talk Dirty (0.017) |
+| Greensleeves (0.974) | Starships (0.0176) |
+| Prelude No.1 in C Major (0.972) | We Are Young (0.02) |
+| Demons (0.972) | Problem (0.0204) |
+| Bluebird (0.972) | Wrecking Ball (0.0208) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|

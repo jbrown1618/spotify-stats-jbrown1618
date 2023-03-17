@@ -204,12 +204,12 @@
 
 
 <details>
-<summary>See all 84 genres</summary>
+<summary>See all 83 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
 | 27 | [pop](../../genres/pop.md) |
-| 17 | [rock](../../genres/rock.md) |
+| 16 | [rock](../../genres/rock.md) |
 | 14 | [classic rock](../../genres/classic_rock.md) |
 | 13 | [neo mellow](../../genres/neo_mellow.md) |
 | 10 | [pop rock](../../genres/pop_rock.md) |
@@ -275,7 +275,6 @@
 | 1 | indie poptimism |
 | 1 | indie pop |
 | 1 | heartland rock |
-| 1 | escape room |
 | 1 | [electropop](../../genres/electropop.md) |
 | 1 | disco |
 | 1 | country rock |

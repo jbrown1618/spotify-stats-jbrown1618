@@ -2,7 +2,7 @@
 # Billlie
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb968ab271c895fb9cc245d6fe" alt="Billlie" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb64884416b862c19ec9a465d3" alt="Billlie" width="100" />
 
 ## Featured on Playlists
 | Number of Tracks | Art | Playlist |

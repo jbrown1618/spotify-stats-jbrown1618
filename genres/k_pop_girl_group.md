@@ -1,6 +1,6 @@
 # k-pop girl group
 
-[401 songs](k_pop_girl_group_tracks.md)
+[402 songs](k_pop_girl_group_tracks.md)
 
 ## Top Artists
 
@@ -10,7 +10,7 @@
 
 
 <details>
-<summary>See all 62 artists</summary>
+<summary>See all 63 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -60,6 +60,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8980623c46119271987de7eb" alt="" width="50" /> | TAEYONG | [🔗](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8884036ea777e2afb47ac7a2" alt="" width="50" /> | I.O.I | [🔗](https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9d2f7d9ba199152a396ed07e" alt="" width="50" /> | TRI.BE | [🔗](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2efa47f150ed10401bde6d85" alt="" width="50" /> | BVNDIT | [🔗](https://open.spotify.com/artist/5dEBuZjTtE68uDgCs23Kuv) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735ac0ff859d64d1b540196692" alt="" width="50" /> | LADIES' CODE | [🔗](https://open.spotify.com/artist/4epPY1AW9lQeVUM1XaFiwi) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebba818688ae72d12215ee92f0" alt="" width="50" /> | Seraphine | [🔗](https://open.spotify.com/artist/4TqlcgMFDryY96KWcvrhTv) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bc2840ac9c56902f5b9574c" alt="" width="50" /> | Kim Petras | [🔗](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) |
@@ -209,11 +210,11 @@
 | 24 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md) |
 | 23 | [Interscope Records](../labels/interscope_records.md) |
 | 18 | [Universal Music LLC](../labels/universal_music_llc.md) |
-| 16 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
+| 17 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
 | 16 | [Starship Entertainment](../labels/starship_entertainment.md) |
+| 14 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
 | 13 | [JYP Entertainment](../labels/jyp_entertainment.md) |
 | 13 | [High Up Entertainment](../labels/high_up_entertainment.md) |
-| 13 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
 | 12 | [RBW Inc.](../labels/rbw_inc_.md) |
 | 10 | [DREAMCATCHER COMPANY](../labels/dreamcatcher_company.md) |
 | 7 | [WM Entertainment](../labels/wm_entertainment.md) |
