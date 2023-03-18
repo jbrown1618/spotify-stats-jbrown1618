@@ -46,7 +46,7 @@
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5ebf7db7c8ede90a019c54590bb" alt="" width="50" /> | Harry Styles | [🔗](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb20f403024d10bdf47bc00194" alt="" width="50" /> | Backstreet Boys | [🔗](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../../artists/sara_bareilles.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
-| 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb2e42d906f4f9f672359e7379" alt="" width="50" /> | Usher | [🔗](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) |
+| 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb84813d8e6a3154717e618140" alt="" width="50" /> | Usher | [🔗](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb37bff6aa1d42bede9048750f" alt="" width="50" /> | Calvin Harris | [🔗](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb6659b1cb61936bd7bcb229a2" alt="" width="50" /> | Demi Lovato | [🔗](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebaed3c717bf1753ab928ea88d" alt="" width="50" /> | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
@@ -359,10 +359,10 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 315 | [pop](../../genres/pop.md) |
+| 316 | [pop](../../genres/pop.md) |
 | 187 | [dance pop](../../genres/dance_pop.md) |
 | 49 | [post-teen pop](../../genres/post_teen_pop.md) |
-| 30 | [electropop](../../genres/electropop.md) |
+| 31 | [electropop](../../genres/electropop.md) |
 | 29 | uk pop |
 | 29 | [art pop](../../genres/art_pop.md) |
 | 27 | edm |
@@ -378,12 +378,13 @@
 | 11 | canadian pop |
 | 11 | british soul |
 | 11 | australian pop |
+| 10 | tropical house |
 | 10 | pop soul |
 | 10 | [pop rock](../../genres/pop_rock.md) |
 | 10 | [acoustic pop](../../genres/acoustic_pop.md) |
-| 9 | tropical house |
 | 9 | metropopolis |
 | 8 | uk dance |
+| 8 | escape room |
 | 8 | boy band |
 | 8 | australian dance |
 | 8 | alternative r&b |
@@ -415,7 +416,6 @@
 | 3 | latin pop |
 | 3 | hip hop |
 | 3 | etherpop |
-| 3 | escape room |
 | 3 | chill r&b |
 | 3 | alt z |
 | 2 | trap queen |

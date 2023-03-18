@@ -121,9 +121,9 @@ Appears as:
 |---:|:---|
 | 44 | [show tunes](../genres/show_tunes.md) |
 | 41 | [hollywood](../genres/hollywood.md) |
-| 22 | [pop](../genres/pop.md) |
+| 23 | [pop](../genres/pop.md) |
 | 21 | [dance pop](../genres/dance_pop.md) |
-| 16 | [broadway](../genres/broadway.md) |
+| 15 | [broadway](../genres/broadway.md) |
 | 10 | vocal jazz |
 | 4 | [post-teen pop](../genres/post_teen_pop.md) |
 | 3 | [rock](../genres/rock.md) |
@@ -136,6 +136,7 @@ Appears as:
 | 2 | washington indie |
 | 2 | viral rap |
 | 2 | viral pop |
+| 2 | tropical house |
 | 2 | trap queen |
 | 2 | pop rap |
 | 2 | pop dance |
@@ -150,7 +151,6 @@ Appears as:
 | 1 | uk pop |
 | 1 | uk funky |
 | 1 | uk dance |
-| 1 | tropical house |
 | 1 | trap |
 | 1 | trance |
 | 1 | southern hip hop |

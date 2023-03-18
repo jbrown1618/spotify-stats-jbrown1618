@@ -1,6 +1,6 @@
 # k-pop
 
-[891 songs](k_pop_tracks.md)
+[897 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -21,13 +21,13 @@
 | 30 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | 28 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 | 27 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | [IU](../artists/iu.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
-| 23 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
+| 26 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 | 20 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../artists/mamamoo.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
 | 19 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../artists/leehi.md) | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
+| 17 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | [Girls' Generation](../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="" width="50" /> | [SEVENTEEN](../artists/seventeen.md) | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
 | 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="" width="50" /> | [Dreamcatcher](../artists/dreamcatcher.md) | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 | 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | [CHUNG HA](../artists/chung_ha.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
-| 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | [Girls' Generation](../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f44c5165785a877bd4ae376" alt="" width="50" /> | [STAYC](../artists/stayc.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 | 13 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d874b307cb092e68db73207" alt="" width="50" /> | [NCT 127](../artists/nct_127.md) | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
 | 12 | <img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="" width="50" /> | [EXO](../artists/exo.md) | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
@@ -213,6 +213,7 @@
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273350ecac91d0f0af55788c648" alt="" width="50" /> | XOXO | 2021-10-29 | [🔗](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="" width="50" /> | Wings | 2016-10-10 | [🔗](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273e4915763c3c7f7a05cc93885" alt="" width="50" /> | Why - The 2nd Mini Album | 2016-06-28 | [🔗](https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU) |
+| 2 | <img src="https://i.scdn.co/image/ab67616d0000b27354d483dff87402bfe717f738" alt="" width="50" /> | What Do I Call You - The 4th Mini Album | 2020-12-15 | [🔗](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273c76a0146e4c1804f22cab995" alt="" width="50" /> | WE NEED LOVE | 2022-07-19 | [🔗](https://open.spotify.com/album/04EniWu488MF6louRYafKJ) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2736034eda385497f614778f457" alt="" width="50" /> | Twicetagram | 2017-10-30 | [🔗](https://open.spotify.com/album/3hJXmK5gWN9P6jtZL0Lr2y) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2738164cd1a2e03b7ca2db9ff5e" alt="" width="50" /> | The Red Summer - Summer Mini Album | 2017-07-09 | [🔗](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) |
@@ -226,7 +227,6 @@
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | Sticker - The 3rd Album | 2021-09-17 | [🔗](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2735c1dca4c993850471d5d8f14" alt="" width="50" /> | STEREOTYPE | 2021-09-06 | [🔗](https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273af2fda9fb591d43c355c2ac3" alt="" width="50" /> | STAYDOM | 2021-04-08 | [🔗](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b27318a4a215052e9f396864bd73" alt="" width="50" /> | SQUARE TWO | 2016-11-01 | [🔗](https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp) |
 
 </details>
 
@@ -241,7 +241,7 @@
 
 | Number of Tracks | Label |
 |---:|:---|
-| 224 | [SM Entertainment](../labels/sm_entertainment.md) |
+| 230 | [SM Entertainment](../labels/sm_entertainment.md) |
 | 92 | [Republic Records](../labels/republic_records.md) |
 | 69 | [YG Entertainment](../labels/yg_entertainment.md) |
 | 59 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
@@ -366,12 +366,12 @@
 | RING X RING (0.987) | Deep end (Felix) (0.223) |
 | Hit That Drum (0.984) | miss you (Hyunjin) (0.226) |
 | Misfit (0.984) | Winter Sleep (0.237) |
-| MIROH (0.979) | How can I love the heartbreak, you're the one I love (0.248) |
-| Side Effects (0.977) | BREATHE (0.251) |
-| 소방차 Fire Truck (0.976) | Boy in time - HUI Solo (0.255) |
-| Abracadabra (0.973) | Singularity (0.272) |
-| 쏘리 쏘리 Sorry, Sorry (0.972) | Flower Way (Prod. By ZICO) (0.282) |
-| Heart Attack (0.97) | 그대라는 시 (0.292) |
+| MIROH (0.979) | Secret (0.241) |
+| Side Effects (0.977) | How can I love the heartbreak, you're the one I love (0.248) |
+| 소방차 Fire Truck (0.976) | BREATHE (0.251) |
+| Abracadabra (0.973) | Boy in time - HUI Solo (0.255) |
+| 쏘리 쏘리 Sorry, Sorry (0.972) | Singularity (0.272) |
+| Heart Attack (0.97) | Flower Way (Prod. By ZICO) (0.282) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -388,29 +388,29 @@
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| 그대라는 시 (0.914) | Easy (0.000219) |
-| How can I love the heartbreak, you're the one I love (0.91) | Mr. Simple (0.000219) |
-| ONLY (0.892) | Cyberpunk (0.000265) |
-| Deep end (Felix) (0.879) | Oh Sorry Ya (0.000315) |
-| Boy in time - HUI Solo (0.876) | Red Light (0.000457) |
-| Goodbye (0.861) | Adios (0.000588) |
-| MY LOVE (0.859) | HALAZIA (0.000677) |
-| In The Fall (0.854) | Cherry Bomb (0.000759) |
-| Amusement Park (0.85) | Favorite (Vampire) (0.000831) |
-| Miracle (0.846) | RUN2U (0.000835) |
+| Secret (0.937) | Easy (0.000219) |
+| 그대라는 시 (0.914) | Mr. Simple (0.000219) |
+| How can I love the heartbreak, you're the one I love (0.91) | Cyberpunk (0.000265) |
+| ONLY (0.892) | Oh Sorry Ya (0.000315) |
+| Deep end (Felix) (0.879) | Red Light (0.000457) |
+| Boy in time - HUI Solo (0.876) | Adios (0.000588) |
+| Goodbye (0.861) | HALAZIA (0.000677) |
+| MY LOVE (0.859) | Cherry Bomb (0.000759) |
+| In The Fall (0.854) | Favorite (Vampire) (0.000831) |
+| Amusement Park (0.85) | RUN2U (0.000835) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Tippy Toes (0.106) | Gangnam Style (강남스타일) (0.0) |
 | You and I (Park Bom) (0.0837) | Miracle (0.0) |
-| Adios (0.0794) | SUPER BOARD (0.0) |
-| pporappippam (0.0652) | Clockwork (0.0) |
-| Badster (0.0444) | Shut Down (0.0) |
-| Sinner (0.0395) | SCIENTIST (0.0) |
-| So Hot (0.00976) | Winter Falls (0.0) |
-| GingaMingaYo (the strange world) (0.00955) | Beatbox (0.0) |
-| I Am The Best (0.00834) | Why Can't You Love Me? (0.0) |
-| Power Up (0.00745) | Ridin' (0.0) |
+| Adios (0.0794) | To the moon (0.0) |
+| pporappippam (0.0652) | SUPER BOARD (0.0) |
+| Badster (0.0444) | Clockwork (0.0) |
+| Sinner (0.0395) | Shut Down (0.0) |
+| So Hot (0.00976) | SCIENTIST (0.0) |
+| GingaMingaYo (the strange world) (0.00955) | Winter Falls (0.0) |
+| I Am The Best (0.00834) | Beatbox (0.0) |
+| Power Up (0.00745) | Why Can't You Love Me? (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -418,12 +418,12 @@
 | Piano Man (0.807) | CASE 143 (0.0222) |
 | You Better Run (0.803) | That That (prod. & feat. SUGA of BTS) (0.0272) |
 | Red Lipstick (feat. Yoonmirae) (0.792) | memeM (0.0287) |
-| Sticker (0.742) | Holiday Party (0.0294) |
-| I Like That (0.737) | Ice Cream (with Selena Gomez) (0.0311) |
-| 행복 (Happiness) (0.725) | POP! (0.0321) |
-| LP (0.714) | Up! (0.0326) |
-| Genie (0.714) | Beatbox (0.0334) |
-| NUNU NANA (0.708) | Domino (0.0346) |
+| Talk Talk (0.772) | Holiday Party (0.0294) |
+| Sticker (0.742) | Ice Cream (with Selena Gomez) (0.0311) |
+| I Like That (0.737) | POP! (0.0321) |
+| 행복 (Happiness) (0.725) | Up! (0.0326) |
+| LP (0.714) | Beatbox (0.0334) |
+| Genie (0.714) | Domino (0.0346) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|

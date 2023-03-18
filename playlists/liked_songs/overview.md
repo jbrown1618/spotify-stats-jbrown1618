@@ -364,14 +364,14 @@
 | 105 | [rock](../../genres/rock.md) |
 | 78 | [classic rock](../../genres/classic_rock.md) |
 | 62 | [neo mellow](../../genres/neo_mellow.md) |
-| 60 | [lilith](../../genres/lilith.md) |
+| 59 | [lilith](../../genres/lilith.md) |
 | 55 | [acoustic pop](../../genres/acoustic_pop.md) |
 | 54 | [pop rock](../../genres/pop_rock.md) |
 | 43 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 43 | [hollywood](../../genres/hollywood.md) |
 | 42 | [mellow gold](../../genres/mellow_gold.md) |
-| 39 | [korean pop](../../genres/korean_pop.md) |
-| 35 | [electropop](../../genres/electropop.md) |
+| 38 | [korean pop](../../genres/korean_pop.md) |
+| 36 | [electropop](../../genres/electropop.md) |
 | 34 | [art pop](../../genres/art_pop.md) |
 | 33 | [folk rock](../../genres/folk_rock.md) |
 | 32 | [soft rock](../../genres/soft_rock.md) |
@@ -422,6 +422,7 @@
 | 8 | pop dance |
 | 8 | latin pop |
 | 8 | etherpop |
+| 8 | escape room |
 | 8 | blues rock |
 | 8 | australian dance |
 | 7 | korean city pop |
@@ -455,7 +456,6 @@
 | 5 | anti-folk |
 | 5 | afrofuturism |
 | 4 | yacht rock |
-| 4 | vocal jazz |
 
 </details>
 

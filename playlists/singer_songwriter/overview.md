@@ -202,7 +202,7 @@
 
 
 <details>
-<summary>See all 52 genres</summary>
+<summary>See all 51 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -238,7 +238,6 @@
 | 2 | chamber pop |
 | 2 | brill building pop |
 | 2 | [adult standards](../../genres/adult_standards.md) |
-| 1 | urban contemporary |
 | 1 | uk pop |
 | 1 | [r&b](../../genres/r_b.md) |
 | 1 | pop soul |
