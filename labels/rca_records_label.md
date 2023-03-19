@@ -53,7 +53,7 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739df742dcaf9b79edad9009d0" alt="" width="50" /> | The Tokens | [🔗](https://open.spotify.com/artist/1GAJzApRTMmYZ9EjQ91VOy) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb734144a8667a0bab0a9b9481" alt="" width="50" /> | Måneskin | [🔗](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb654972693e0efed3f3f4d090" alt="" width="50" /> | Jason Derulo | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe818f7ca0d47f038a9aa246a" alt="" width="50" /> | G-Eazy | [🔗](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9cfdc05548d1655bc265f85" alt="" width="50" /> | G-Eazy | [🔗](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) |
 
 </details>
 

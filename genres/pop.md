@@ -95,7 +95,7 @@
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA | [🔗](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9ce6b84393575f91c4f4634" alt="" width="50" /> | B.I | [🔗](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eba5205abffd84341e5bace828" alt="" width="50" /> | Selena Gomez | [🔗](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebe818f7ca0d47f038a9aa246a" alt="" width="50" /> | G-Eazy | [🔗](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) |
+| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9cfdc05548d1655bc265f85" alt="" width="50" /> | G-Eazy | [🔗](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7eb7f6371aad8e67e01f0a03" alt="" width="50" /> | SZA | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eba12641edfc4ffbbdf58f7d15" alt="" width="50" /> | Lil Jon | [🔗](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a398209a4ef3360dce2dec4" alt="" width="50" /> | Snoop Dogg | [🔗](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) |

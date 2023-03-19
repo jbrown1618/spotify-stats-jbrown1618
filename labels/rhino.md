@@ -84,9 +84,9 @@ Appears as:
 | 8 | canadian singer-songwriter |
 | 7 | yacht rock |
 | 7 | [mellow gold](../genres/mellow_gold.md) |
-| 5 | country rock |
 | 3 | metal |
 | 3 | hard rock |
+| 3 | country rock |
 | 3 | bubblegum pop |
 | 2 | uk doom metal |
 | 2 | synth funk |

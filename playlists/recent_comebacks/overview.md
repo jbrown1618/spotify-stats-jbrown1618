@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2738cab1c75d2271af37c3e2db9ab67616d0000b273d2ef237da7f94762997c2083ab67616d0000b273e9cd59d664f597061a513038ab67616d0000b273ed10325dc317f32df83990b9" alt="Recent Comebacks" width="100" />
 
-[81 songs](tracks.md)
+[82 songs](tracks.md)
 
 ## Top Artists
 
@@ -33,6 +33,7 @@
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb1b86652b4761cbc4d3bc791f" alt="" width="50" /> | BoA | [🔗](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb6255cdc7eb41e77dfed9fd2c" alt="" width="50" /> | WINTER | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../../artists/itzy.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
+| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc04289f84778ad850cfcddca" alt="" width="50" /> | Jimin | [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f44c5165785a877bd4ae376" alt="" width="50" /> | [STAYC](../../artists/stayc.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eba1f3e8862a8c0f79fb3322b2" alt="" width="50" /> | VIVIZ | [🔗](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf55b31064f94878f3da932c8" alt="" width="50" /> | MAX CHANGMIN | [🔗](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) |
@@ -55,7 +56,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb64884416b862c19ec9a465d3" alt="" width="50" /> | [Billlie](../../artists/billlie.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb04c88d140b3db4fa42ef84f2" alt="" width="50" /> | NMIXX | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe486a809eaee9b2d85846dae" alt="" width="50" /> | BSS | [🔗](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc04289f84778ad850cfcddca" alt="" width="50" /> | Jimin | [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb64aa2c83dd30331b56ffddf3" alt="" width="50" /> | NCT DREAM | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a3393ac350ee2c447494a83" alt="" width="50" /> | HUH YUNJIN | [🔗](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733e59f3e73b99ed248ab7bae2" alt="" width="50" /> | Lee Young Ji | [🔗](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) |
@@ -72,7 +72,7 @@
 
 
 <details>
-<summary>See all 40 albums</summary>
+<summary>See all 41 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -97,6 +97,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2730d9c2a11edd1a7efcd73f0d1" alt="" width="50" /> | The 3rd Mini Album 'VarioUS' | 2023-01-31 | [🔗](https://open.spotify.com/album/2XZJWoPAW0Ah1msTIFXFSt) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ebbb6b66adf9f2392bb86733" alt="" width="50" /> | Teddy Bear | 2023-02-14 | [🔗](https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27357fa85a5c9f295d5e5b362e7" alt="" width="50" /> | THE SECOND STEP : CHAPTER TWO | 2022-10-04 | [🔗](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734f4ec2c2a865569bd4a067a4" alt="" width="50" /> | Set Me Free Pt.2 | 2023-03-17 | [🔗](https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc5762a75c18b494803705c" alt="" width="50" /> | SPIN OFF : FROM THE WITNESS | 2022-12-30 | [🔗](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ca0bf7a337ed7a8bcc34948e" alt="" width="50" /> | Rover - The 3rd Mini Album | 2023-03-13 | [🔗](https://open.spotify.com/album/5gzd4IZ9KTwW6Hhgll1K7U) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="" width="50" /> | REASON | 2023-01-09 | [🔗](https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS) |
@@ -122,11 +123,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 25 record labels](../../images/playlists/recent_comebacks/labels.png)
+![Bar chart of top 26 record labels](../../images/playlists/recent_comebacks/labels.png)
 
 
 <details>
-<summary>See all 25 labels</summary>
+<summary>See all 26 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -154,6 +155,7 @@
 | 1 | HYBE LABELS JAPAN |
 | 1 | Feel Ghood Music |
 | 1 | BIGPLANETMADE |
+| 1 | [BIGHIT MUSIC](../../labels/bighit_music.md) |
 | 1 | ALLART ENTERTAINMENT |
 
 </details>
@@ -190,7 +192,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| [2023](2023.md) | 24 |
+| [2023](2023.md) | 25 |
 | [2022](2022.md) | 57 |
 
 </details>
@@ -198,16 +200,16 @@
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ca0bf7a337ed7a8bcc34948e" alt="Rover - The 3rd Mini Album" width="50" /> <span style="padding-left:10px;">Rover - The 3rd Mini Album (2023-03-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" alt="MANIFESTO : DAY 1" width="50" /> <span style="padding-left:10px;">MANIFESTO : DAY 1 (2022-07-04)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a0f030c2742b6da99c1b210c" alt="Young, Dumb, Stupid" width="50" /> <span style="padding-left:10px;">Young, Dumb, Stupid (2023-03-12)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="Girls - The 2nd Mini Album" width="50" /> <span style="padding-left:10px;">Girls - The 2nd Mini Album (2022-07-08)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="READY TO BE" width="50" /> <span style="padding-left:10px;">READY TO BE (2023-03-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27387f53da5fb4ab1171766b2d5" alt="After LIKE" width="50" /> <span style="padding-left:10px;">After LIKE (2022-08-22)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> <span style="padding-left:10px;">CHOSEN KARMA (2023-03-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27357a6f5928952c277c4407f98" alt="love you more," width="50" /> <span style="padding-left:10px;">love you more, (2022-08-25)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273468abcd06d84049010cd9ef7" alt="Floral Sense - The 1st Album (Special Version)" width="50" /> <span style="padding-left:10px;">Floral Sense - The 1st Album (Special Version) (2023-02-27)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738232e1aaaf4c9ed4b6946ce8" alt="the Billage of perception: chapter two" width="50" /> <span style="padding-left:10px;">the Billage of perception: chapter two (2022-08-31)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="Cabin Fever" width="50" /> <span style="padding-left:10px;">Cabin Fever (2023-02-15)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273fc8b0918267ea555921863e8" alt="One In A Billion" width="50" /> <span style="padding-left:10px;">One In A Billion (2022-09-06)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ebbb6b66adf9f2392bb86733" alt="Teddy Bear" width="50" /> <span style="padding-left:10px;">Teddy Bear (2023-02-14)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="MAGIC MAN" width="50" /> <span style="padding-left:10px;">MAGIC MAN (2022-09-09)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731869a85947a5ea00df8c936f" alt="BSS 1st Single Album 'SECOND WIND'" width="50" /> <span style="padding-left:10px;">BSS 1st Single Album 'SECOND WIND' (2023-02-06)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="BORN PINK" width="50" /> <span style="padding-left:10px;">BORN PINK (2022-09-16)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2730d9c2a11edd1a7efcd73f0d1" alt="The 3rd Mini Album 'VarioUS'" width="50" /> <span style="padding-left:10px;">The 3rd Mini Album 'VarioUS' (2023-01-31)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="2 Baddies - The 4th Album" width="50" /> <span style="padding-left:10px;">2 Baddies - The 4th Album (2022-09-16)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="Stamp On It - The 1st Mini Album" width="50" /> <span style="padding-left:10px;">Stamp On It - The 1st Mini Album (2023-01-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="28 Reasons - The 1st Mini Album" width="50" /> <span style="padding-left:10px;">28 Reasons - The 1st Mini Album (2022-10-04)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734f4ec2c2a865569bd4a067a4" alt="Set Me Free Pt.2" width="50" /> <span style="padding-left:10px;">Set Me Free Pt.2 (2023-03-17)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" alt="MANIFESTO : DAY 1" width="50" /> <span style="padding-left:10px;">MANIFESTO : DAY 1 (2022-07-04)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ca0bf7a337ed7a8bcc34948e" alt="Rover - The 3rd Mini Album" width="50" /> <span style="padding-left:10px;">Rover - The 3rd Mini Album (2023-03-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="Girls - The 2nd Mini Album" width="50" /> <span style="padding-left:10px;">Girls - The 2nd Mini Album (2022-07-08)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a0f030c2742b6da99c1b210c" alt="Young, Dumb, Stupid" width="50" /> <span style="padding-left:10px;">Young, Dumb, Stupid (2023-03-12)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27387f53da5fb4ab1171766b2d5" alt="After LIKE" width="50" /> <span style="padding-left:10px;">After LIKE (2022-08-22)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="READY TO BE" width="50" /> <span style="padding-left:10px;">READY TO BE (2023-03-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27357a6f5928952c277c4407f98" alt="love you more," width="50" /> <span style="padding-left:10px;">love you more, (2022-08-25)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> <span style="padding-left:10px;">CHOSEN KARMA (2023-03-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738232e1aaaf4c9ed4b6946ce8" alt="the Billage of perception: chapter two" width="50" /> <span style="padding-left:10px;">the Billage of perception: chapter two (2022-08-31)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273468abcd06d84049010cd9ef7" alt="Floral Sense - The 1st Album (Special Version)" width="50" /> <span style="padding-left:10px;">Floral Sense - The 1st Album (Special Version) (2023-02-27)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273fc8b0918267ea555921863e8" alt="One In A Billion" width="50" /> <span style="padding-left:10px;">One In A Billion (2022-09-06)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="Cabin Fever" width="50" /> <span style="padding-left:10px;">Cabin Fever (2023-02-15)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="MAGIC MAN" width="50" /> <span style="padding-left:10px;">MAGIC MAN (2022-09-09)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ebbb6b66adf9f2392bb86733" alt="Teddy Bear" width="50" /> <span style="padding-left:10px;">Teddy Bear (2023-02-14)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="BORN PINK" width="50" /> <span style="padding-left:10px;">BORN PINK (2022-09-16)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731869a85947a5ea00df8c936f" alt="BSS 1st Single Album 'SECOND WIND'" width="50" /> <span style="padding-left:10px;">BSS 1st Single Album 'SECOND WIND' (2023-02-06)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="2 Baddies - The 4th Album" width="50" /> <span style="padding-left:10px;">2 Baddies - The 4th Album (2022-09-16)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2730d9c2a11edd1a7efcd73f0d1" alt="The 3rd Mini Album 'VarioUS'" width="50" /> <span style="padding-left:10px;">The 3rd Mini Album 'VarioUS' (2023-01-31)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="28 Reasons - The 1st Mini Album" width="50" /> <span style="padding-left:10px;">28 Reasons - The 1st Mini Album (2022-10-04)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |

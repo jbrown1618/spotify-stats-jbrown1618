@@ -1,9 +1,9 @@
 # SM Entertainment
 
-242 songs
+245 songs
 
 Appears as:
-- SM Entertainment (240 tracks)
+- SM Entertainment (243 tracks)
 - MYSTIC ENTERTAINMENT, ChoongangICS, SM ENTERTAINMENT, JYP ENTERTAINMENT (1 tracks)
 - SM Entertainment/Capitol Records (1 tracks)
 
@@ -13,7 +13,7 @@ Appears as:
 
 
 <details>
-<summary>See all 64 artists</summary>
+<summary>See all 67 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -21,9 +21,9 @@ Appears as:
 | 24 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 | 16 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | [Girls' Generation](../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | 13 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d874b307cb092e68db73207" alt="" width="50" /> | [NCT 127](../artists/nct_127.md) | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
+| 12 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../artists/aespa.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | 12 | <img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="" width="50" /> | [EXO](../artists/exo.md) | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5eb07a86e9ca86a984f925e39c4" alt="" width="50" /> | KAI | [🔗](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) |
-| 9 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../artists/aespa.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5ebde8ad216e0ff7a76573c835e" alt="" width="50" /> | [SEULGI](../artists/seulgi.md) | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5ebc65d144f4f352b3cba7b13ea" alt="" width="50" /> | [WENDY](../artists/wendy.md) | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bd65b0efee10bfa8328c33b" alt="" width="50" /> | NCT U | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
@@ -67,6 +67,7 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8d69367047a24d20b0323ff7" alt="" width="50" /> | SuperM | [🔗](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb56625e685d02cbc6a1700642" alt="" width="50" /> | YERI | [🔗](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1f9c07e4400cac6892c9739a" alt="" width="50" /> | YESUNG | [🔗](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb24185b8b46cfc65db89926d3" alt="" width="50" /> | IMLAY | [🔗](https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | Suzy | [🔗](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d2d064a11bcb333c04e47e8" alt="" width="50" /> | EUNHYUK | [🔗](https://open.spotify.com/artist/4QRqp8zf5JtqaMk2OOU3NX) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebdbd3a4fca1931c225fdddc81" alt="" width="50" /> | Loopy | [🔗](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) |
@@ -76,9 +77,11 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb11f9b8e5a1715fe12e219caa" alt="" width="50" /> | YURI | [🔗](https://open.spotify.com/artist/2TMRvcwsmvVhvuEbKVEbZe) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | [CHUNG HA](../artists/chung_ha.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb618eb314202aeec390a5c435" alt="" width="50" /> | D.O. | [🔗](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36a0fe204000bfe19f2f8ea" alt="" width="50" /> | Lionclad | [🔗](https://open.spotify.com/artist/2AGxU7q0xWss9jkiTPmxH7) |
 | 1 | <img src="https://i.scdn.co/image/ab6772690000c46c58d08bf71902410dac32d765" alt="" width="50" /> | Verbal Jint | [🔗](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb23cbe3b476060edcac630e20" alt="" width="50" /> | JISUNG | [🔗](https://open.spotify.com/artist/1rKOAlZ7iAHynESWTeSNwl) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb47d4cf3a9d4005719f2eb85f" alt="" width="50" /> | HAECHAN | [🔗](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0047a4e1a620fc8119623564" alt="" width="50" /> | Habstrakt | [🔗](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739f7939e31f0b9be669ab79cf" alt="" width="50" /> | SinB | [🔗](https://open.spotify.com/artist/0tZl5OAXf9jYXFmfRGejs2) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb85caa5f0e213fbfc29b91db" alt="" width="50" /> | HYOYEON | [🔗](https://open.spotify.com/artist/0B3I6YgdnfXehUCpsO6oB8) |
 
@@ -112,6 +115,7 @@ Appears as:
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b2736017bca98dea58ceddea77c1" alt="" width="50" /> | Summer Magic - Summer Mini Album | 2018-08-06 | [🔗](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="" width="50" /> | Russian Roulette - The 3rd Mini Album | 2016-09-07 | [🔗](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="" width="50" /> | RBB - The 5th Mini Album | 2018-11-30 | [🔗](https://open.spotify.com/album/7rNIvLwIpB2mwOzk20iqIl) |
+| 3 | <img src="https://i.scdn.co/image/ab67616d0000b2738bcda1592f94261aaa7c9fe0" alt="" width="50" /> | iScreaM Vol.10 : Next Level Remixes | 2021-09-14 | [🔗](https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="" width="50" /> | The Red - The 1st Album | 2015-09-09 | [🔗](https://open.spotify.com/album/6YL9J0E6PGtYzkhyMxnmXd) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273a38af5bbda76202e9d9eb8fd" alt="" width="50" /> | Rookie - The 4th Mini Album | 2017-02-01 | [🔗](https://open.spotify.com/album/5Bg49LEfyoZzKpQsEwRCtI) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2739b57e9b31c831fb2137c38e2" alt="" width="50" /> | Oh! - The Second Album | 2010-01-28 | [🔗](https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E) |
@@ -194,7 +198,6 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27337ff46852249bdfc938beefa" alt="" width="50" /> | KAI - The 1st Mini Album | 2020-11-30 | [🔗](https://open.spotify.com/album/6xpxMAUhk8hiDTa5zT7F86) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739dec4de4b22d56be408ee2fd" alt="" width="50" /> | Hot Sauce - The 1st Album | 2021-05-10 | [🔗](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ee58f0e04b175603c1f56668" alt="" width="50" /> | Holiday Night - The 6th Album | 2017-08-04 | [🔗](https://open.spotify.com/album/5MQM8Jw1FvT21Dny8cOXjF) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732159a29c68303b4b0076b741" alt="" width="50" /> | Highway to Heaven (English Version) | 2019-07-18 | [🔗](https://open.spotify.com/album/4et1GgNRTOx3xpK81Z0iOn) |
 
 </details>
 
@@ -210,7 +213,7 @@ Appears as:
 | Number of Tracks | Genre |
 |---:|:---|
 | 230 | [k-pop](../genres/k_pop.md) |
-| 88 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+| 91 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 | 56 | [k-pop boy group](../genres/k_pop_boy_group.md) |
 | 23 | [pop](../genres/pop.md) |
 | 10 | [korean pop](../genres/korean_pop.md) |
@@ -225,6 +228,9 @@ Appears as:
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f248f7695eb544a3a1955c5" alt="" width="50" /> | Black Mamba | Black Mamba | [aespa](../artists/aespa.md) | [SM Entertainment](sm_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/1t2qYCAjUAoGfeFeoBlK51) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a393b04e8ced571618223e8" alt="" width="50" /> | Next Level | Next Level | [aespa](../artists/aespa.md) | [SM Entertainment](sm_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738bcda1592f94261aaa7c9fe0" alt="" width="50" /> | Next Level - Habstrakt Remix | iScreaM Vol.10 : Next Level Remixes | [aespa](../artists/aespa.md), Habstrakt | [SM Entertainment](sm_entertainment.md) | | [🔗](https://open.spotify.com/track/34r29cNzzV4elD0XTz1ihT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738bcda1592f94261aaa7c9fe0" alt="" width="50" /> | Next Level - IMLAY Remix | iScreaM Vol.10 : Next Level Remixes | [aespa](../artists/aespa.md), IMLAY | [SM Entertainment](sm_entertainment.md) | | [🔗](https://open.spotify.com/track/1OscRS80PF5n0hDkI9S1F2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738bcda1592f94261aaa7c9fe0" alt="" width="50" /> | Next Level - Lionclad Remix | iScreaM Vol.10 : Next Level Remixes | [aespa](../artists/aespa.md), Lionclad | [SM Entertainment](sm_entertainment.md) | | [🔗](https://open.spotify.com/track/7fKRGSEsy6Y5e1gE7trjAv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | I'll Make You Cry | Savage - The 1st Mini Album | [aespa](../artists/aespa.md) | [SM Entertainment](sm_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/6l1dTAhX7P6EKvA11NLNuW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | ICONIC | Savage - The 1st Mini Album | [aespa](../artists/aespa.md) | [SM Entertainment](sm_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/5bMHrigI1EAmZdiyRzKoQi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | Lucid Dream | Savage - The 1st Mini Album | [aespa](../artists/aespa.md) | [SM Entertainment](sm_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/285Bh5EkbxGGE76ge8JDbH) |

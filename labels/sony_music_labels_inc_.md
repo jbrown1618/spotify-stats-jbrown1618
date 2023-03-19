@@ -26,7 +26,7 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/a832eaa4d4ff006a419610c2c5d37140efa00225" alt="" width="50" /> | Brian Wilson | [🔗](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebaaa8b7a0cc8e8047193c3446" alt="" width="50" /> | NiziU | [🔗](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) |
 | 1 | <img src="https://i.scdn.co/image/a1cac87495158db597c9faa75279cc3e30067c83" alt="" width="50" /> | Josquin des Prez | [🔗](https://open.spotify.com/artist/31f23hmZawdqgp0sECAzE8) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb486e89dfcbba35327a1ba9b9" alt="" width="50" /> | Kenshi Yonezu | [🔗](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9bab09e161020c684510876d" alt="" width="50" /> | Kenshi Yonezu | [🔗](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd30f119ef77a0252e17207cf" alt="" width="50" /> | LiSA | [🔗](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb83fb533deff1773f1c4a2fbd" alt="" width="50" /> | Ling tosite sigure | [🔗](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) |
 

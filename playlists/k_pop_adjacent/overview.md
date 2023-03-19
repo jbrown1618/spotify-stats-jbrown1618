@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2733317fc12f8b9a9a0b8459766ab67616d0000b27363e0ddbb488d0eeec0e738fcab67616d0000b27384095737f6056e682666d6f9ab67616d0000b273f2bf9685109a09bdc176fb43" alt="K-Pop-Adjacent" width="100" />
 
-[41 songs](tracks.md)
+[40 songs](tracks.md)
 
 ## Top Artists
 
@@ -13,11 +13,10 @@
 
 
 <details>
-<summary>See all 55 artists</summary>
+<summary>See all 56 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ecddddcd7a4d93b21324bc5" alt="" width="50" /> | XG | [🔗](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | Chris Brown | [🔗](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebda5ab23361118f6474d68382" alt="" width="50" /> | Christopher | [🔗](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | Justin Bieber | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
@@ -27,6 +26,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb89ad1bc33aa9abcaf4370c77" alt="" width="50" /> | Loving Caliber | [🔗](https://open.spotify.com/artist/6psCCMHymYfQy6VvYRr6cs) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb52ca4fca28b86ca3a7d9846d" alt="" width="50" /> | Destiny Rogers | [🔗](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5f32a5ef76b9480c601f256f" alt="" width="50" /> | Brendon Urie | [🔗](https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7dea8440708e268d14f2eda5" alt="" width="50" /> | DARA | [🔗](https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e2e2c78de847c4d9b12d32f" alt="" width="50" /> | Charlie Puth | [🔗](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) |
 | 1 | <img src="nan" alt="" width="50" /> | Nam Joohyuk | [🔗](https://open.spotify.com/artist/69ybhMoBUPmIcH4MyDARDv) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
@@ -44,6 +44,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4dcddba215809727c04aa897" alt="" width="50" /> | Kevin MacLeod | [🔗](https://open.spotify.com/artist/4fSMtiyC6lF5BUO1tUMWMs) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb217f81a86110ebc7c0e43fb3" alt="" width="50" /> | Travis Barker | [🔗](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) |
 | 1 | <img src="nan" alt="" width="50" /> | Lee Joomyung | [🔗](https://open.spotify.com/artist/4dN1DsKUXV6xugiarFBAa6) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb464b6e9d7967b1ec6e5132c2" alt="" width="50" /> | A$ton Wyld | [🔗](https://open.spotify.com/artist/4MqATzsmSOuGh7de1Q4AzX) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8e7a2d1a01fd98e43ee57dc" alt="" width="50" /> | 6LACK | [🔗](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d998e7541724c918777b8ca" alt="" width="50" /> | League of Legends | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebbda00a72a1f7e4f93c071614" alt="" width="50" /> | QUIN | [🔗](https://open.spotify.com/artist/3sHS70DMNgPxRqx2fUNrRA) |
@@ -71,7 +72,7 @@
 | 1 | <img src="nan" alt="" width="50" /> | Kim Taeri | [🔗](https://open.spotify.com/artist/0bBDQ4QeizwResorw0iD7X) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb22b2d4713c50ae25a7201429" alt="" width="50" /> | DaniLeigh | [🔗](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | [Taylor Swift](../../artists/taylor_swift.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe818f7ca0d47f038a9aa246a" alt="" width="50" /> | G-Eazy | [🔗](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9cfdc05548d1655bc265f85" alt="" width="50" /> | G-Eazy | [🔗](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) |
 
 </details>
 
@@ -86,14 +87,12 @@
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b27353f126eb16bb3ab5720b0ba7" alt="" width="50" /> | SHOOTING STAR | 2023-01-25 | [🔗](https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734e0beba9fb519b91d5485ef9" alt="" width="50" /> | 미녀는 괴로워 Original Motion picture Soundtrack | 2006-12-12 | [🔗](https://open.spotify.com/album/5XUYDlbeJCIFSCekufQiZb) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2730258c2353d456519e467584b" alt="" width="50" /> | When I Get Old | 2022-10-20 | [🔗](https://open.spotify.com/album/3mJMHqT2w0HwjQkneNVE14) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27339471ea54531f267e90a7403" alt="" width="50" /> | Weightlifting Fairy Kim Bok Joo (Original Television Soundtrack, Pt. 2) | 2016-11-23 | [🔗](https://open.spotify.com/album/1T8J131uP2pI7VuxSF2zp3) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27315249cb1ee9b66f0aacfffe8" alt="" width="50" /> | Under the Surface | 2019-02-22 | [🔗](https://open.spotify.com/album/6ISIdF1gCK9X8pn4FaObHE) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="" width="50" /> | Twenty-Five Twenty-One OST | 2022-04-03 | [🔗](https://open.spotify.com/album/77NPr874WU941XZhjO43dR) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27384095737f6056e682666d6f9" alt="" width="50" /> | Tomboy | 2019-02-28 | [🔗](https://open.spotify.com/album/2uDZBeyyQ7mfwF9mUJeYUG) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732e0c53a146daf46d74430ef5" alt="" width="50" /> | Tippy Toes | 2022-03-18 | [🔗](https://open.spotify.com/album/6P9erpHs7hgJlca7Tj3F0w) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="" width="50" /> | The Prelude | 2020-07-17 | [🔗](https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273341a47b9de6f523f1969e9a2" alt="" width="50" /> | The Juice: Vol. II | 2019-11-08 | [🔗](https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732ced1760b648799e697e8e02" alt="" width="50" /> | Taxidriver OST Part.1 | 2021-04-16 | [🔗](https://open.spotify.com/album/3PNXlS9tggXmCm1hrlHDcQ) |
@@ -104,6 +103,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27354d075797911e02360beb3e7" alt="" width="50" /> | SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) | 2021-10-22 | [🔗](https://open.spotify.com/album/2TGtXG18s21Q1jnY2TC39M) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27376205e74bef31f32a779d970" alt="" width="50" /> | REMIND | 2016-10-26 | [🔗](https://open.spotify.com/album/2wA8OXIv1JXX9kTY2ddfR4) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="" width="50" /> | Purpose (Deluxe) | 2015-11-13 | [🔗](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b93c6b37cb0e0a9fbf26b766" alt="" width="50" /> | Mr. Rover | 2022-07-15 | [🔗](https://open.spotify.com/album/0mkxSResK0c4KS5VFcQPhH) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb" alt="" width="50" /> | Motley Crew | 2021-07-09 | [🔗](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f3ebb80519c23d6d08e49ec6" alt="" width="50" /> | Magical | 2018-09-04 | [🔗](https://open.spotify.com/album/2rUeXUM8fCb2D26NPoy0Y3) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d3b343b757e4f3275bb2f26a" alt="" width="50" /> | MINT | 2018-10-19 | [🔗](https://open.spotify.com/album/5hUQgovUfTYN47QGQXF8k2) |
@@ -114,6 +114,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="" width="50" /> | Justice | 2021-03-19 | [🔗](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273c824820b3a74839b91b4036a" alt="" width="50" /> | Good Thing (with Kehlani) | 2019-09-27 | [🔗](https://open.spotify.com/album/3wpdeV1FZfiEnelZSfAFp4) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f429549123dbe8552764ba1d" alt="" width="50" /> | Flowers | 2023-01-13 | [🔗](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734df81e72c09afdd3f50c6d22" alt="" width="50" /> | Fast & Furious Presents: Hobbs & Shaw (Original Motion Picture Soundtrack) | 2019-07-26 | [🔗](https://open.spotify.com/album/6Y1wIHHmTIqv3mnVvQNJNH) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2730a1d20ec09cab4bb17a36aab" alt="" width="50" /> | F.A.M.E. (Expanded Edition) | 2011-03-22 | [🔗](https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f4d64a6a6b7e24b6bd9f009f" alt="" width="50" /> | El Mal Querer | 2018-11-02 | [🔗](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273c4f298e7cbedb77f8e030ff0" alt="" width="50" /> | Cry for Me | 2019-10-04 | [🔗](https://open.spotify.com/album/2dq4ae5hiyxlFPG1s8rlq5) |
@@ -136,11 +137,10 @@
 
 
 <details>
-<summary>See all 38 labels</summary>
+<summary>See all 39 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
-| 3 | XGALX |
 | 3 | [Columbia](../../labels/columbia.md) |
 | 2 | [Syco Music](../../labels/syco_music.md) |
 | 2 | [RCA Records Label](../../labels/rca_records_label.md) |
@@ -156,6 +156,7 @@
 | 1 | 스타엔트리엔터테인먼트 |
 | 1 | 디컴퍼니 |
 | 1 | [Warner Records](../../labels/warner_records.md) |
+| 1 | Virginia Records |
 | 1 | The Other Songs |
 | 1 | Teleport Records |
 | 1 | [Taylor Swift](../../labels/taylor_swift.md) |
@@ -176,6 +177,7 @@
 | 1 | DJ Snake Music Productions Limited |
 | 1 | Chris Brown Entertainment |
 | 1 | CRAFT AND JUN |
+| 1 | Back Lot Music |
 | 1 | 300 Entertainment |
 | 1 | (주)블렌딩 |
 
@@ -188,7 +190,7 @@
 
 
 <details>
-<summary>See all 42 genres</summary>
+<summary>See all 44 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -196,12 +198,12 @@
 | 10 | [dance pop](../../genres/dance_pop.md) |
 | 5 | [r&b](../../genres/r_b.md) |
 | 5 | [post-teen pop](../../genres/post_teen_pop.md) |
-| 4 | [k-pop](../../genres/k_pop.md) |
 | 3 | pop rap |
 | 3 | edm |
 | 3 | canadian pop |
 | 2 | rap |
 | 2 | pop dance |
+| 2 | [korean pop](../../genres/korean_pop.md) |
 | 2 | korean indie rock |
 | 2 | indie r&b |
 | 2 | [electropop](../../genres/electropop.md) |
@@ -221,9 +223,9 @@
 | 1 | modern rock |
 | 1 | modern alternative rock |
 | 1 | melodic rap |
-| 1 | [korean pop](../../genres/korean_pop.md) |
 | 1 | korean city pop |
 | 1 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
+| 1 | [k-pop](../../genres/k_pop.md) |
 | 1 | italian pop |
 | 1 | indie rock italiano |
 | 1 | girl group |
@@ -233,6 +235,8 @@
 | 1 | dfw rap |
 | 1 | complextro |
 | 1 | candy pop |
+| 1 | bulgarian pop |
+| 1 | bulgarian hip hop |
 | 1 | bedroom soul |
 
 </details>
@@ -246,29 +250,29 @@
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27353f126eb16bb3ab5720b0ba7" alt="SHOOTING STAR" width="50" /> <span style="padding-left:10px;">SHOOTING STAR (2023-01-25)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f7ec724fbf97a30869d06240" alt="Let Go" width="50" /> <span style="padding-left:10px;">Let Go (2002-06-04)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f429549123dbe8552764ba1d" alt="Flowers" width="50" /> <span style="padding-left:10px;">Flowers (2023-01-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734e0beba9fb519b91d5485ef9" alt="미녀는 괴로워 Original Motion picture Soundtrack" width="50" /> <span style="padding-left:10px;">미녀는 괴로워 Original Motion picture Soundtrack (2006-12-12)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2730258c2353d456519e467584b" alt="When I Get Old" width="50" /> <span style="padding-left:10px;">When I Get Old (2022-10-20)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d66fa6cfaadb6b634bd1c640" alt="Love's Battery" width="50" /> <span style="padding-left:10px;">Love's Battery (2009-06-19)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="CHARLIE" width="50" /> <span style="padding-left:10px;">CHARLIE (2022-10-06)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2730a1d20ec09cab4bb17a36aab" alt="F.A.M.E. (Expanded Edition)" width="50" /> <span style="padding-left:10px;">F.A.M.E. (Expanded Edition) (2011-03-22)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f429549123dbe8552764ba1d" alt="Flowers" width="50" /> <span style="padding-left:10px;">Flowers (2023-01-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f7ec724fbf97a30869d06240" alt="Let Go" width="50" /> <span style="padding-left:10px;">Let Go (2002-06-04)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2730258c2353d456519e467584b" alt="When I Get Old" width="50" /> <span style="padding-left:10px;">When I Get Old (2022-10-20)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734e0beba9fb519b91d5485ef9" alt="미녀는 괴로워 Original Motion picture Soundtrack" width="50" /> <span style="padding-left:10px;">미녀는 괴로워 Original Motion picture Soundtrack (2006-12-12)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="CHARLIE" width="50" /> <span style="padding-left:10px;">CHARLIE (2022-10-06)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d66fa6cfaadb6b634bd1c640" alt="Love's Battery" width="50" /> <span style="padding-left:10px;">Love's Battery (2009-06-19)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b93c6b37cb0e0a9fbf26b766" alt="Mr. Rover" width="50" /> <span style="padding-left:10px;">Mr. Rover (2022-07-15)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2730a1d20ec09cab4bb17a36aab" alt="F.A.M.E. (Expanded Edition)" width="50" /> <span style="padding-left:10px;">F.A.M.E. (Expanded Edition) (2011-03-22)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> <span style="padding-left:10px;">Twenty-Five Twenty-One OST (2022-04-03)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b3d3d1ba43e085f5ab80e56a" alt="Salute (Expanded Edition)" width="50" /> <span style="padding-left:10px;">Salute (Expanded Edition) (2013-11-11)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732e0c53a146daf46d74430ef5" alt="Tippy Toes" width="50" /> <span style="padding-left:10px;">Tippy Toes (2022-03-18)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="BEYONCÉ [Platinum Edition]" width="50" /> <span style="padding-left:10px;">BEYONCÉ [Platinum Edition] (2014-11-24)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27354d075797911e02360beb3e7" alt="SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)" width="50" /> <span style="padding-left:10px;">SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (2021-10-22)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27309d039265f637b5749c927a8" alt="Sneaky Snitch" width="50" /> <span style="padding-left:10px;">Sneaky Snitch (2014-12-27)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb" alt="Motley Crew" width="50" /> <span style="padding-left:10px;">Motley Crew (2021-07-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="Purpose (Deluxe)" width="50" /> <span style="padding-left:10px;">Purpose (Deluxe) (2015-11-13)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="Better Mistakes" width="50" /> <span style="padding-left:10px;">Better Mistakes (2021-05-07)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27376205e74bef31f32a779d970" alt="REMIND" width="50" /> <span style="padding-left:10px;">REMIND (2016-10-26)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732ced1760b648799e697e8e02" alt="Taxidriver OST Part.1" width="50" /> <span style="padding-left:10px;">Taxidriver OST Part.1 (2021-04-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27339471ea54531f267e90a7403" alt="Weightlifting Fairy Kim Bok Joo (Original Television Soundtrack, Pt. 2)" width="50" /> <span style="padding-left:10px;">Weightlifting Fairy Kim Bok Joo (Original Television Soundtrack, Pt. 2) (2016-11-23)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27354d075797911e02360beb3e7" alt="SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)" width="50" /> <span style="padding-left:10px;">SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (2021-10-22)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="BEYONCÉ [Platinum Edition]" width="50" /> <span style="padding-left:10px;">BEYONCÉ [Platinum Edition] (2014-11-24)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb" alt="Motley Crew" width="50" /> <span style="padding-left:10px;">Motley Crew (2021-07-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27309d039265f637b5749c927a8" alt="Sneaky Snitch" width="50" /> <span style="padding-left:10px;">Sneaky Snitch (2014-12-27)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="Better Mistakes" width="50" /> <span style="padding-left:10px;">Better Mistakes (2021-05-07)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="Purpose (Deluxe)" width="50" /> <span style="padding-left:10px;">Purpose (Deluxe) (2015-11-13)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732ced1760b648799e697e8e02" alt="Taxidriver OST Part.1" width="50" /> <span style="padding-left:10px;">Taxidriver OST Part.1 (2021-04-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27376205e74bef31f32a779d970" alt="REMIND" width="50" /> <span style="padding-left:10px;">REMIND (2016-10-26)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="Justice" width="50" /> <span style="padding-left:10px;">Justice (2021-03-19)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27339471ea54531f267e90a7403" alt="Weightlifting Fairy Kim Bok Joo (Original Television Soundtrack, Pt. 2)" width="50" /> <span style="padding-left:10px;">Weightlifting Fairy Kim Bok Joo (Original Television Soundtrack, Pt. 2) (2016-11-23)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| Tippy Toes (0.913) | I'll Show You (0.361) |
-| Sneaky Snitch (0.904) | Blue Whale - 2016 Version (0.382) |
-| MALAMENTE - Cap.1: Augurio (0.893) | Partition (0.418) |
+| Sneaky Snitch (0.904) | I'll Show You (0.361) |
+| MALAMENTE - Cap.1: Augurio (0.893) | Blue Whale - 2016 Version (0.382) |
+| Next Level (0.885) | Partition (0.418) |
 | Cravin (feat. G-Eazy) (0.834) | Heartbreak Anniversary (0.449) |
 | At My Worst (0.813) | Sk8er Boi (0.487) |
 | SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (0.8) | Off My Face (0.509) |
-| Motley Crew (0.797) | Tango (0.53) |
-| Boat (0.792) | SILENCE (0.532) |
-| LEFT RIGHT (0.767) | With (0.565) |
+| Mr. Rover (0.799) | Tango (0.53) |
+| Motley Crew (0.797) | SILENCE (0.532) |
+| Boat (0.792) | With (0.565) |
 | Bad (0.759) | Wet The Bed (feat. Ludacris) (0.58) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
@@ -279,10 +283,10 @@
 | Break My Heart Myself (feat. Travis Barker) (0.857) | Partition (0.441) |
 | SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (0.837) | With (0.461) |
 | ME! (feat. Brendon Urie of Panic! At The Disco) (0.83) | Heartbreak Anniversary (0.465) |
-| Cry for Me (0.805) | River (0.477) |
-| Beggin' (0.8) | MALAMENTE - Cap.1: Augurio (0.482) |
-| Maria (0.733) | Tango (0.519) |
-| Salute (0.732) | Cravin (feat. G-Eazy) (0.538) |
+| Mr. Rover (0.829) | River (0.477) |
+| Cry for Me (0.805) | MALAMENTE - Cap.1: Augurio (0.482) |
+| Beggin' (0.8) | Tango (0.519) |
+| Maria (0.733) | Cravin (feat. G-Eazy) (0.538) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -291,11 +295,11 @@
 | Boat (0.252) | SILENCE (0.0314) |
 | Cravin (feat. G-Eazy) (0.246) | When I Get Old (0.0315) |
 | Tango (0.224) | West Coast Love (0.0326) |
-| Bad (0.12) | Off My Face (0.0332) |
-| Sneaky Snitch (0.118) | At My Worst (0.0349) |
-| I'll Show You (0.098) | Maria (0.0357) |
-| Cry for Me (0.0927) | Blue Whale - 2016 Version (0.0368) |
-| MALAMENTE - Cap.1: Augurio (0.0873) | Good Thing (with Kehlani) (0.0378) |
+| Next Level (0.147) | Off My Face (0.0332) |
+| Bad (0.12) | At My Worst (0.0349) |
+| Sneaky Snitch (0.118) | Maria (0.0357) |
+| Mr. Rover (0.103) | Blue Whale - 2016 Version (0.0368) |
+| I'll Show You (0.098) | Good Thing (with Kehlani) (0.0378) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -303,25 +307,25 @@
 | At My Worst (0.777) | Maria (0.00226) |
 | Mushroom Chocolate (with 6LACK) (0.765) | SILENCE (0.00271) |
 | Sneaky Snitch (0.638) | SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (0.00406) |
-| MALAMENTE - Cap.1: Augurio (0.549) | West Coast Love (0.00666) |
-| With (0.525) | Wet The Bed (feat. Ludacris) (0.0166) |
-| Heartbreak Anniversary (0.524) | SHOOTING STAR (0.0229) |
-| Tomboy (0.423) | VILLAIN (0.0232) |
-| Good Thing (with Kehlani) (0.399) | Partition (0.029) |
-| Boat (0.389) | ME! (feat. Brendon Urie of Panic! At The Disco) (0.033) |
+| Next Level (0.581) | West Coast Love (0.00666) |
+| MALAMENTE - Cap.1: Augurio (0.549) | Wet The Bed (feat. Ludacris) (0.0166) |
+| With (0.525) | VILLAIN (0.0232) |
+| Heartbreak Anniversary (0.524) | Partition (0.029) |
+| Tomboy (0.423) | ME! (feat. Brendon Urie of Panic! At The Disco) (0.033) |
+| Good Thing (with Kehlani) (0.399) | City Girls (0.0465) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Sneaky Snitch (0.918) | Sk8er Boi (0.0) |
 | West Coast Love (0.153) | At My Worst (0.0) |
-| Tippy Toes (0.106) | Salute (0.0) |
-| Partition (0.0707) | City Girls (0.0) |
-| MALAMENTE - Cap.1: Augurio (0.0164) | Tango (0.0) |
-| Tomboy (0.00512) | I'm Out Of My Mind (0.0) |
-| SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (0.00313) | ME! (feat. Brendon Urie of Panic! At The Disco) (0.0) |
-| Maria (0.00168) | Wet The Bed (feat. Ludacris) (0.0) |
-| From now on (0.000374) | Boat (0.0) |
-| Light Switch (0.000321) | SHOOTING STAR (0.0) |
+| Partition (0.0707) | Salute (0.0) |
+| MALAMENTE - Cap.1: Augurio (0.0164) | City Girls (0.0) |
+| Tomboy (0.00512) | Tango (0.0) |
+| SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (0.00313) | I'm Out Of My Mind (0.0) |
+| Maria (0.00168) | ME! (feat. Brendon Urie of Panic! At The Disco) (0.0) |
+| From now on (0.000374) | Wet The Bed (feat. Ludacris) (0.0) |
+| Light Switch (0.000321) | Boat (0.0) |
+| I'll Show You (7.96e-05) | Love's Battery (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -330,21 +334,21 @@
 | Beggin' (0.359) | Maria (0.0534) |
 | Sk8er Boi (0.358) | City Girls (0.0554) |
 | Bad (0.329) | River (0.0579) |
-| Partition (0.306) | MALAMENTE - Cap.1: Augurio (0.0752) |
-| Heartbreak Anniversary (0.303) | Break My Heart Myself (feat. Travis Barker) (0.0801) |
-| Salute (0.285) | SILENCE (0.0867) |
-| SHOOTING STAR (0.252) | Mushroom Chocolate (with 6LACK) (0.0874) |
-| When I Get Old (0.203) | SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (0.0904) |
+| Partition (0.306) | Next Level (0.0657) |
+| Heartbreak Anniversary (0.303) | MALAMENTE - Cap.1: Augurio (0.0752) |
+| Salute (0.285) | Break My Heart Myself (feat. Travis Barker) (0.0801) |
+| When I Get Old (0.203) | SILENCE (0.0867) |
+| I'll Show You (0.183) | Mushroom Chocolate (with 6LACK) (0.0874) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Love's Battery (0.941) | I'll Show You (0.0789) |
-| Boat (0.922) | Partition (0.172) |
-| Light Switch (0.905) | Blue Whale - 2016 Version (0.207) |
-| LEFT RIGHT (0.884) | Motley Crew (0.288) |
+| Next Level (0.923) | Partition (0.172) |
+| Boat (0.922) | Blue Whale - 2016 Version (0.207) |
+| Light Switch (0.905) | Motley Crew (0.288) |
 | City Girls (0.815) | VILLAIN (0.306) |
 | From now on (0.749) | With (0.322) |
-| ME! (feat. Brendon Urie of Panic! At The Disco) (0.728) | Salute (0.354) |
-| Bad (0.713) | SHOOTING STAR (0.398) |
+| ME! (feat. Brendon Urie of Panic! At The Disco) (0.728) | Mr. Rover (0.351) |
+| Bad (0.713) | Salute (0.354) |
 | SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (0.702) | Sneaky Snitch (0.4) |
 | At My Worst (0.667) | Wet The Bed (feat. Ludacris) (0.411) |

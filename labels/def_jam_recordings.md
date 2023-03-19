@@ -23,7 +23,7 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | Justin Bieber | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb81d954dd35145481964ddd6c" alt="" width="50" /> | Mikky Ekko | [🔗](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb22b2d4713c50ae25a7201429" alt="" width="50" /> | DaniLeigh | [🔗](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe818f7ca0d47f038a9aa246a" alt="" width="50" /> | G-Eazy | [🔗](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9cfdc05548d1655bc265f85" alt="" width="50" /> | G-Eazy | [🔗](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) |
 
 </details>
 

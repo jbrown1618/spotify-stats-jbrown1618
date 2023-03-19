@@ -1,18 +1,18 @@
 # BIGHIT MUSIC
 
-42 songs
+43 songs
 
 Appears as:
-- BIGHIT MUSIC (31 tracks)
+- BIGHIT MUSIC (32 tracks)
 - BIGHIT MUSIC / HYBE (11 tracks)
 
 ## Top Artists
 
-![Bar chart of top 9 artists](../images/labels/bighit_music/artists.png)
+![Bar chart of top 10 artists](../images/labels/bighit_music/artists.png)
 
 
 <details>
-<summary>See all 9 artists</summary>
+<summary>See all 10 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -24,6 +24,7 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f97c0f27aa7ae7f8351e47a" alt="" width="50" /> | Becky G | [🔗](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b8f6208d84e28f63841e43c" alt="" width="50" /> | RM | [🔗](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc04289f84778ad850cfcddca" alt="" width="50" /> | Jimin | [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb354a84cfb27458618bca3ecb" alt="" width="50" /> | MAX | [🔗](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) |
 
 </details>
@@ -31,11 +32,11 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 19 albums](../images/labels/bighit_music/albums.png)
+![Bar chart of top 20 albums](../images/labels/bighit_music/albums.png)
 
 
 <details>
-<summary>See all 19 albums</summary>
+<summary>See all 20 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -55,6 +56,7 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273bd375b430c3abeceb8b5d8da" alt="" width="50" /> | You Never Walk Alone | 2017-02-13 | [🔗](https://open.spotify.com/album/7LF4N7lvyDhrPBuCJ1rplJ) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738ac442a54c68aad8f9b93f51" alt="" width="50" /> | The Most Beautiful Moment in Life Pt.2 | 2015-11-30 | [🔗](https://open.spotify.com/album/4frjaGAtuBmm8CPuYPY4oG) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ab9433cc4b9cda9431be879a" alt="" width="50" /> | Skool Luv Affair | 2014-02-12 | [🔗](https://open.spotify.com/album/5r35iS0uSSoQBKzQj0IeI3) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734f4ec2c2a865569bd4a067a4" alt="" width="50" /> | Set Me Free Pt.2 | 2023-03-17 | [🔗](https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="" width="50" /> | Proof | 2022-06-10 | [🔗](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273819e2d9468a6792735c0ec77" alt="" width="50" /> | Chicken Noodle Soup (feat. Becky G) | 2019-09-27 | [🔗](https://open.spotify.com/album/76IRLp7YzBVLKsat6Ro9ae) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ed656680374294d5217193fa" alt="" width="50" /> | Butter | 2021-05-21 | [🔗](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) |
@@ -125,3 +127,4 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="" width="50" /> | MORE | Jack In The Box | j-hope | [BIGHIT MUSIC](bighit_music.md) | 💚 | [🔗](https://open.spotify.com/track/7GARzfC1mwhDuk4t9WOACq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="" width="50" /> | Pandora's Box | Jack In The Box | j-hope | [BIGHIT MUSIC](bighit_music.md) | 💚 | [🔗](https://open.spotify.com/track/2On611HXKQAbaYkuc4NQAm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e8286ff63f7efce1881a02b" alt="" width="50" /> | on the street (with J. Cole) | on the street (with J. Cole) | j-hope, J. Cole | [BIGHIT MUSIC](bighit_music.md) | | [🔗](https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734f4ec2c2a865569bd4a067a4" alt="" width="50" /> | Set Me Free Pt.2 | Set Me Free Pt.2 | Jimin | [BIGHIT MUSIC](bighit_music.md) | 💚 | [🔗](https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp) |

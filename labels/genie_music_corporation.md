@@ -1,10 +1,10 @@
 # Genie Music Corporation
 
-69 songs
+70 songs
 
 Appears as:
 - Genie Music Corporation, Stone Music Entertainment (46 tracks)
-- Genie Music Corporation (16 tracks)
+- Genie Music Corporation (17 tracks)
 - Genie Music Corporation;Stone Music Entertainment (7 tracks)
 
 ## Top Artists
@@ -13,7 +13,7 @@ Appears as:
 
 
 <details>
-<summary>See all 58 artists</summary>
+<summary>See all 59 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -27,6 +27,7 @@ Appears as:
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb39720ff6218e58ce147490dc" alt="" width="50" /> | WOODZ | [🔗](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | BIBI | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eba6b0d348c125a072e5284b3e" alt="" width="50" /> | IZ*ONE | [🔗](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) |
+| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebad9d5fda1f59672d31163ad5" alt="" width="50" /> | BE'O | [🔗](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ef6675e036acc2bb446d5ce" alt="" width="50" /> | Jay Park | [🔗](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb1787f6596afa03df2d44af87" alt="" width="50" /> | Yoon Mirae | [🔗](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../artists/mamamoo.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
@@ -43,13 +44,13 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3e5502077e2bb0fe1e3d4df0" alt="" width="50" /> | Wonstein | [🔗](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2efa47f150ed10401bde6d85" alt="" width="50" /> | BVNDIT | [🔗](https://open.spotify.com/artist/5dEBuZjTtE68uDgCs23Kuv) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0b4c8d0a415cab50e033129" alt="" width="50" /> | Solar | [🔗](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebad9d5fda1f59672d31163ad5" alt="" width="50" /> | BE'O | [🔗](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebca6daabeb614243f96b2829f" alt="" width="50" /> | WOOSUNG | [🔗](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) |
 | 1 | <img src="nan" alt="" width="50" /> | Jeon Ji Woo | [🔗](https://open.spotify.com/artist/5A0sx2B7umJPdXgpfghJDJ) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733552f9c353bdab8b03b7c8a7" alt="" width="50" /> | Jang Ye Eun | [🔗](https://open.spotify.com/artist/4hMhbcPHd2nsZFhY1TNp8Y) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb511f570580c79107b2fa70b9" alt="" width="50" /> | ZICO | [🔗](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273aae78727e396da9f03032eda" alt="" width="50" /> | Lee Mujin | [🔗](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1940460d10e18c6db8366f7" alt="" width="50" /> | Lee Hyori | [🔗](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebbaab1c0bd5243ff2557dd0f2" alt="" width="50" /> | MINO | [🔗](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6255cdc7eb41e77dfed9fd2c" alt="" width="50" /> | WINTER | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a80abb55f089d80528d24fc" alt="" width="50" /> | CHANGMO | [🔗](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f5769fc671ca8199168d3fb" alt="" width="50" /> | DEAN | [🔗](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) |
@@ -85,7 +86,7 @@ Appears as:
 
 
 <details>
-<summary>See all 58 albums</summary>
+<summary>See all 59 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -109,6 +110,7 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27390831ba9ed4aa3b89fd6b81c" alt="" width="50" /> | Street Man Fighter Original Vol.4 (Crew Songs) | 2022-09-20 | [🔗](https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733091980300243c26b0404b76" alt="" width="50" /> | Street Dance Girls Fighter(SGF) Special | 2022-01-04 | [🔗](https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739902ed3e9f44f5ad65ad808a" alt="" width="50" /> | Sorry | 2017-08-03 | [🔗](https://open.spotify.com/album/6D48tHXsa6LzoViDIACdkt) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ff44dc02d7ac33078fbbe1cf" alt="" width="50" /> | Show Me The Money 10 Episode 3 | 2021-11-20 | [🔗](https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737c10cbde96d84578e7694009" alt="" width="50" /> | School Rapper FINAL | 2017-04-01 | [🔗](https://open.spotify.com/album/1HlNyrcRkCbpi87jz6rY7y) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d39be786935ba10b5875fa53" alt="" width="50" /> | SMARTPHONE | 2022-08-03 | [🔗](https://open.spotify.com/album/0lbUf1aVf8xmveSuspuNW0) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273df61d37c88b01fa413c527c1" alt="" width="50" /> | SHOW ME THE MONEY 11 Episode 3 | 2022-12-17 | [🔗](https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF) |
@@ -167,8 +169,8 @@ Appears as:
 | 9 | [pop](../genres/pop.md) |
 | 8 | [k-pop boy group](../genres/k_pop_boy_group.md) |
 | 7 | [korean pop](../genres/korean_pop.md) |
+| 4 | k-rap |
 | 3 | korean ost |
-| 3 | k-rap |
 | 1 | korean trap |
 | 1 | classic k-pop |
 | 1 | anime |
@@ -182,6 +184,7 @@ Appears as:
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273992cdb975f91efd91b998628" alt="" width="50" /> | TIC TAC | 8TURNRISE | 8TURN | [Genie Music Corporation](genie_music_corporation.md), [Stone Music Entertainment](stone_music_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/60Oo6tKR0ckwZsRr95NrjL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d700b5ddf45596b3793d3963" alt="" width="50" /> | The Real | KINGDOM <FINAL : WHO IS THE KING?> | ATEEZ | [Genie Music Corporation](genie_music_corporation.md), [Stone Music Entertainment](stone_music_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/1uk5fYLx1f88DLte84Hl5j) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff44dc02d7ac33078fbbe1cf" alt="" width="50" /> | Limousine (Feat. MINO) (Prod. GRAY) | Show Me The Money 10 Episode 3 | BE'O, MINO | [Genie Music Corporation](genie_music_corporation.md) | | [🔗](https://open.spotify.com/track/5g2Ik0WJG9rqu97nCLcQhV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273885fa1f286a9f6e401baaeeb" alt="" width="50" /> | Dumb | BE! | BVNDIT | [Genie Music Corporation](genie_music_corporation.md), [Stone Music Entertainment](stone_music_entertainment.md) | | [🔗](https://open.spotify.com/track/35iTyW33UVp1fmubxKDYOl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730f5c597bba60a1e0c5364baa" alt="" width="50" /> | Stay With Me | Guardian (Original Television Soundtrack), Pt. 1 | CHANYEOL, Punch | [Genie Music Corporation](genie_music_corporation.md), [Stone Music Entertainment](stone_music_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/1HYzRuWjmS9LXCkdVHi25K) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733de8d21c10a5beed844bba5b" alt="" width="50" /> | Gotta Go | Gotta Go | [CHUNG HA](../artists/chung_ha.md) | [Genie Music Corporation](genie_music_corporation.md), [Stone Music Entertainment](stone_music_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/0xq4ZTcmwBfkPGo4RRKmMe) |

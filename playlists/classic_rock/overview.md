@@ -191,9 +191,9 @@
 | 9 | blues rock |
 | 8 | metal |
 | 5 | heartland rock |
-| 5 | country rock |
 | 4 | symphonic rock |
 | 4 | progressive rock |
+| 4 | country rock |
 | 3 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 3 | roots rock |
 | 3 | folk |

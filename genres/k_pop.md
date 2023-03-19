@@ -105,7 +105,6 @@
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebbb55fc616733b6c09d48481f" alt="" width="50" /> | NAYEON | [🔗](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebd0701912e6fccf8427bc7361" alt="" width="50" /> | GFRIEND | [🔗](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9ce6b84393575f91c4f4634" alt="" width="50" /> | B.I | [🔗](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) |
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ecddddcd7a4d93b21324bc5" alt="" width="50" /> | XG | [🔗](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbb19ac3f264dea7cea4c42b" alt="" width="50" /> | Whee In | [🔗](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd40fae46480e4202ef69316d" alt="" width="50" /> | YUJU | [🔗](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5fb007a707c0ec3a7c1726af" alt="" width="50" /> | Steve Aoki | [🔗](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) |
@@ -114,6 +113,7 @@
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb91b559bd00fca9a0a91e5a9c" alt="" width="50" /> | MeloMance | [🔗](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) |
 | 2 | <img src="https://i.scdn.co/image/621c729dd90a6e7a63fc8f0957b2b928834ec5a8" alt="" width="50" /> | 4Minute | [🔗](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebad9d5fda1f59672d31163ad5" alt="" width="50" /> | BE'O | [🔗](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) |
+| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebca6daabeb614243f96b2829f" alt="" width="50" /> | WOOSUNG | [🔗](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) |
 
 </details>
 
@@ -278,7 +278,6 @@
 | 4 | 88rising Music |
 | 3 | 해피트라이브엔터테인먼트 |
 | 3 | 올라트엔터테인먼트 |
-| 3 | XGALX |
 | 3 | Republic Records – NAYEON (TWICE) |
 | 3 | PLAY M ENTERTAINMENT CORP. |
 | 3 | Makeus Entertainment |
@@ -292,6 +291,7 @@
 | 2 | ㈜RBW |
 | 2 | ㈜ 드림캐쳐컴퍼니 |
 | 2 | Yedang Entertainment |
+| 2 | XGALX |
 | 2 | WM Japan |
 | 2 | Transparent Arts |
 | 2 | [Sony Music Labels Inc.](../labels/sony_music_labels_inc_.md) |

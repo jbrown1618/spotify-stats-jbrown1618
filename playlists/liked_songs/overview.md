@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1478 songs](tracks.md)
+[1480 songs](tracks.md)
 
 ## Top Artists
 
@@ -253,7 +253,7 @@
 | 46 | [Warner Records](../../labels/warner_records.md) |
 | 43 | [Universal Music LLC](../../labels/universal_music_llc.md) |
 | 42 | [RCA Records Label](../../labels/rca_records_label.md) |
-| 30 | [BIGHIT MUSIC](../../labels/bighit_music.md) |
+| 31 | [BIGHIT MUSIC](../../labels/bighit_music.md) |
 | 26 | [Atlantic Records](../../labels/atlantic_records.md) |
 | 25 | [RBW Inc.](../../labels/rbw_inc_.md) |
 | 24 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment.md) |
@@ -356,7 +356,7 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 653 | [k-pop](../../genres/k_pop.md) |
+| 654 | [k-pop](../../genres/k_pop.md) |
 | 375 | [pop](../../genres/pop.md) |
 | 299 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 166 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
@@ -364,26 +364,26 @@
 | 105 | [rock](../../genres/rock.md) |
 | 78 | [classic rock](../../genres/classic_rock.md) |
 | 62 | [neo mellow](../../genres/neo_mellow.md) |
-| 59 | [lilith](../../genres/lilith.md) |
+| 60 | [lilith](../../genres/lilith.md) |
 | 55 | [acoustic pop](../../genres/acoustic_pop.md) |
 | 54 | [pop rock](../../genres/pop_rock.md) |
 | 43 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 43 | [hollywood](../../genres/hollywood.md) |
 | 42 | [mellow gold](../../genres/mellow_gold.md) |
-| 38 | [korean pop](../../genres/korean_pop.md) |
-| 36 | [electropop](../../genres/electropop.md) |
+| 39 | [korean pop](../../genres/korean_pop.md) |
+| 35 | [electropop](../../genres/electropop.md) |
 | 34 | [art pop](../../genres/art_pop.md) |
 | 33 | [folk rock](../../genres/folk_rock.md) |
 | 32 | [soft rock](../../genres/soft_rock.md) |
 | 32 | korean r&b |
 | 30 | british invasion |
 | 28 | psychedelic rock |
+| 27 | [r&b](../../genres/r_b.md) |
 | 25 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 25 | piano rock |
 | 24 | permanent wave |
 | 23 | beatlesque |
 | 23 | art rock |
-| 22 | [r&b](../../genres/r_b.md) |
 | 22 | merseybeat |
 | 20 | urban contemporary |
 | 20 | pop rap |
@@ -418,6 +418,7 @@
 | 9 | tropical house |
 | 9 | lounge |
 | 9 | bergen indie |
+| 9 | anti-folk |
 | 8 | viral pop |
 | 8 | pop dance |
 | 8 | latin pop |
@@ -453,7 +454,6 @@
 | 5 | jazz pop |
 | 5 | indietronica |
 | 5 | girl group |
-| 5 | anti-folk |
 | 5 | afrofuturism |
 | 4 | yacht rock |
 
@@ -470,7 +470,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| [2023](2023.md) | 33 |
+| [2023](2023.md) | 35 |
 | [2022](2022.md) | 236 |
 | [2021](2021.md) | 183 |
 | [2020](2020.md) | 133 |
@@ -533,16 +533,16 @@
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ca0bf7a337ed7a8bcc34948e" alt="Rover - The 3rd Mini Album" width="50" /> <span style="padding-left:10px;">Rover - The 3rd Mini Album (2023-03-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> <span style="padding-left:10px;">Sinatra/Basie: The Complete Reprise Studio Recordings (1962-12-10)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a0f030c2742b6da99c1b210c" alt="Young, Dumb, Stupid" width="50" /> <span style="padding-left:10px;">Young, Dumb, Stupid (2023-03-12)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273dfe4bfe695c4192e547e72c7" alt="Ring Of Fire: The Best Of Johnny Cash" width="50" /> <span style="padding-left:10px;">Ring Of Fire: The Best Of Johnny Cash (1963-08-06)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="READY TO BE" width="50" /> <span style="padding-left:10px;">READY TO BE (2023-03-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273608a63ad5b18e99da94a3f73" alt="With The Beatles (Remastered)" width="50" /> <span style="padding-left:10px;">With The Beatles (Remastered) (1963-11-22)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734f4ec2c2a865569bd4a067a4" alt="Set Me Free Pt.2" width="50" /> <span style="padding-left:10px;">Set Me Free Pt.2 (2023-03-17)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> <span style="padding-left:10px;">Sinatra/Basie: The Complete Reprise Studio Recordings (1962-12-10)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ca0bf7a337ed7a8bcc34948e" alt="Rover - The 3rd Mini Album" width="50" /> <span style="padding-left:10px;">Rover - The 3rd Mini Album (2023-03-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273dfe4bfe695c4192e547e72c7" alt="Ring Of Fire: The Best Of Johnny Cash" width="50" /> <span style="padding-left:10px;">Ring Of Fire: The Best Of Johnny Cash (1963-08-06)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a0f030c2742b6da99c1b210c" alt="Young, Dumb, Stupid" width="50" /> <span style="padding-left:10px;">Young, Dumb, Stupid (2023-03-12)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273608a63ad5b18e99da94a3f73" alt="With The Beatles (Remastered)" width="50" /> <span style="padding-left:10px;">With The Beatles (Remastered) (1963-11-22)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="READY TO BE" width="50" /> <span style="padding-left:10px;">READY TO BE (2023-03-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2735b50e493598153b926ded824" alt="Mary Wells Sings My Guy" width="50" /> <span style="padding-left:10px;">Mary Wells Sings My Guy (1964)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> <span style="padding-left:10px;">CHOSEN KARMA (2023-03-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> <span style="padding-left:10px;">Days Of Wine And Roses, Moon River And Other Academy Award Winners (1964)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273468abcd06d84049010cd9ef7" alt="Floral Sense - The 1st Album (Special Version)" width="50" /> <span style="padding-left:10px;">Floral Sense - The 1st Album (Special Version) (2023-02-27)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2735b50e493598153b926ded824" alt="Mary Wells Sings My Guy" width="50" /> <span style="padding-left:10px;">Mary Wells Sings My Guy (1964)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="Cabin Fever" width="50" /> <span style="padding-left:10px;">Cabin Fever (2023-02-15)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd" alt="A Hard Day's Night (Remastered)" width="50" /> <span style="padding-left:10px;">A Hard Day's Night (Remastered) (1964-07-10)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733019082a0f673eaa7a5ea3ae" alt="There" width="50" /> <span style="padding-left:10px;">There (2023-02-15)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="Wednesday Morning, 3 A.M." width="50" /> <span style="padding-left:10px;">Wednesday Morning, 3 A.M. (1964-10-19)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ebbb6b66adf9f2392bb86733" alt="Teddy Bear" width="50" /> <span style="padding-left:10px;">Teddy Bear (2023-02-14)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> <span style="padding-left:10px;">The Temptations Sing Smokey (1965-03-22)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b2d6f89ff16623f1038ca466" alt="Killer - The 2nd Album Repackage" width="50" /> <span style="padding-left:10px;">Killer - The 2nd Album Repackage (2023-02-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="Out Of Our Heads" width="50" /> <span style="padding-left:10px;">Out Of Our Heads (1965-07-30)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738db0372a58515f8d2dcbf548" alt="Best Friend Ever" width="50" /> <span style="padding-left:10px;">Best Friend Ever (2023-02-08)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> <span style="padding-left:10px;">Help! (Remastered) (1965-08-06)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273468abcd06d84049010cd9ef7" alt="Floral Sense - The 1st Album (Special Version)" width="50" /> <span style="padding-left:10px;">Floral Sense - The 1st Album (Special Version) (2023-02-27)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd" alt="A Hard Day's Night (Remastered)" width="50" /> <span style="padding-left:10px;">A Hard Day's Night (Remastered) (1964-07-10)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f6019075623d95de7e64fa33" alt="The Beginning: Cupid" width="50" /> <span style="padding-left:10px;">The Beginning: Cupid (2023-02-24)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="Wednesday Morning, 3 A.M." width="50" /> <span style="padding-left:10px;">Wednesday Morning, 3 A.M. (1964-10-19)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733019082a0f673eaa7a5ea3ae" alt="There" width="50" /> <span style="padding-left:10px;">There (2023-02-15)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> <span style="padding-left:10px;">The Temptations Sing Smokey (1965-03-22)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="Cabin Fever" width="50" /> <span style="padding-left:10px;">Cabin Fever (2023-02-15)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="Out Of Our Heads" width="50" /> <span style="padding-left:10px;">Out Of Our Heads (1965-07-30)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ebbb6b66adf9f2392bb86733" alt="Teddy Bear" width="50" /> <span style="padding-left:10px;">Teddy Bear (2023-02-14)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> <span style="padding-left:10px;">Help! (Remastered) (1965-08-06)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |

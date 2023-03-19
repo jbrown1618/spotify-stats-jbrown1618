@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2732433cb43f0f2f0f23b7c8b82ab67616d0000b2733a44a5105549a15dd92ed0c3ab67616d0000b2734ccc03169b086af698178a99ab67616d0000b2739922157daa474131bb3a0fbc" alt="International Pop" width="100" />
 
-[95 songs](tracks.md)
+[96 songs](tracks.md)
 
 ## Top Artists
 
@@ -23,7 +23,7 @@
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375" alt="" width="50" /> | Hatsune Miku | [🔗](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb5b435ca1c4b22290103513c0" alt="" width="50" /> | OFFICIAL HIGE DANDISM | [🔗](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb1893a2479e486ff3cfb41f02" alt="" width="50" /> | Anna Zak | [🔗](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo) |
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb94faa4606299f4f5ccca4e35" alt="" width="50" /> | Daði Freyr | [🔗](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) |
+| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb12207a91d8fa9a82f7136e56" alt="" width="50" /> | Daði Freyr | [🔗](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebe33284545d27028ec2f3dacf" alt="" width="50" /> | Reol | [🔗](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebb00a14e06b6bce10b078d754" alt="" width="50" /> | Daddy Yankee | [🔗](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebec1cd67f4c17468f335206eb" alt="" width="50" /> | Luis Fonsi | [🔗](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) |
@@ -47,6 +47,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb440dcf184453a1450b63b257" alt="" width="50" /> | Jimbo J | [🔗](https://open.spotify.com/artist/6ltKIf1bortd0DQbpgKdQu) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb548445341ba5aa2ddcd35c87" alt="" width="50" /> | Fujii Kaze | [🔗](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb182c574eaa4ca25386730d82" alt="" width="50" /> | WARPs UP | [🔗](https://open.spotify.com/artist/6ZhCKGX2nkK7s8vdUvaocx) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7dea8440708e268d14f2eda5" alt="" width="50" /> | DARA | [🔗](https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb69fe9645ff5eafe34e38f4f3" alt="" width="50" /> | Harlem Yu | [🔗](https://open.spotify.com/artist/6VbRanWSU3pdDhJnhSfGmY) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6659b1cb61936bd7bcb229a2" alt="" width="50" /> | Demi Lovato | [🔗](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | [Dua Lipa](../../artists/dua_lipa.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
@@ -85,7 +86,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe8b2a45963d5d6e7403699d0" alt="" width="50" /> | Ana Guerra | [🔗](https://open.spotify.com/artist/3MRynBsyLGzv3IQ9Fip6hO) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb283c3a97aea1c06e2cf1a2c" alt="" width="50" /> | Agam Buhbut | [🔗](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736c44926d053b033447e4e710" alt="" width="50" /> | Kausar Munir | [🔗](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb840800d188b7b4f76041a867" alt="" width="50" /> | Rayi Putra | [🔗](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebad8926c870508bc74948899a" alt="" width="50" /> | Rayi Putra | [🔗](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe91b522e8bb5fb15fe3813eb" alt="" width="50" /> | Savera | [🔗](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb38a96d85b0580670123280e" alt="" width="50" /> | ZUTOMAYO | [🔗](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273891062df357b8282c97526b2" alt="" width="50" /> | 拾贰 | [🔗](https://open.spotify.com/artist/30YrwNoKzUtyVQsIrwtMdr) |
@@ -100,7 +101,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb44cc73a57e7a317ee89158d4" alt="" width="50" /> | Leehom Wang | [🔗](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5d0fc400392250a750a9403e" alt="" width="50" /> | J Balvin | [🔗](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb77e7032af4f4ee21badd8fc7" alt="" width="50" /> | Madame Monsieur | [🔗](https://open.spotify.com/artist/1tQn5gWbo3ee6n2Z52ogY5) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb486e89dfcbba35327a1ba9b9" alt="" width="50" /> | Kenshi Yonezu | [🔗](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9bab09e161020c684510876d" alt="" width="50" /> | Kenshi Yonezu | [🔗](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb97f34ae2feea70209fa385c4" alt="" width="50" /> | Maluma | [🔗](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9126343e690e70ec5424ddaa" alt="" width="50" /> | Christine Fan | [🔗](https://open.spotify.com/artist/1q7sCl0vg0EcaFdRz0XDGg) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb923e85a0eefbab49fd8d4920" alt="" width="50" /> | Rauw Alejandro | [🔗](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) |
@@ -116,7 +117,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eba0be3f7b3047d01434e03dae" alt="" width="50" /> | Soolking | [🔗](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb72453ad016b059b06fd52569" alt="" width="50" /> | Tainy | [🔗](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb482a6aba1014057d9c4f04dd" alt="" width="50" /> | Tani Yuuki | [🔗](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735a36251d7041e99d024c523a" alt="" width="50" /> | Lu-Ni | [🔗](https://open.spotify.com/artist/0AythHu8oDXnRGp8qviBPj) |
 
 </details>
 
@@ -127,7 +127,7 @@
 
 
 <details>
-<summary>See all 87 albums</summary>
+<summary>See all 88 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -185,6 +185,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27348cbdef454b5636ee5ebeb34" alt="" width="50" /> | No title- | 2016-03-18 | [🔗](https://open.spotify.com/album/5qPZrSLh2oecfujdUZqgmy) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733e4b149dd3110f1432bfeca0" alt="" width="50" /> | Niche Syndrome | 2010-06-09 | [🔗](https://open.spotify.com/album/4OKBuE9F8MTCV7nnsBRcsK) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27314b31a0ac21c8645919204a8" alt="" width="50" /> | Ne reviens pas | 2019-11-21 | [🔗](https://open.spotify.com/album/0w6UtV9Rd14AqjqcwD3j3l) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b93c6b37cb0e0a9fbf26b766" alt="" width="50" /> | Mr. Rover | 2022-07-15 | [🔗](https://open.spotify.com/album/0mkxSResK0c4KS5VFcQPhH) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d03049930583aecb52977265" alt="" width="50" /> | Miku | 2016-05-24 | [🔗](https://open.spotify.com/album/45jD7ltxM60Arhm5FWF49p) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f6b93cc89e67d749ec3013ee" alt="" width="50" /> | Mercy | 2018-01-20 | [🔗](https://open.spotify.com/album/1uuuqBmA5Xklb3htp7Akke) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b5900aef5989a39a87bda771" alt="" width="50" /> | Memories | 2021-12-08 | [🔗](https://open.spotify.com/album/4tp4dyeVhcG7kM2jUi3Yj5) |
@@ -228,7 +229,7 @@
 
 
 <details>
-<summary>See all 65 labels</summary>
+<summary>See all 66 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -261,6 +262,7 @@
 | 1 | WMI Italy |
 | 1 | WM Taiwan |
 | 1 | WM Norway |
+| 1 | Virginia Records |
 | 1 | Valley Records |
 | 1 | Universal Music Spain S.L. |
 | 1 | Universal Music Latino |
@@ -307,7 +309,7 @@
 
 
 <details>
-<summary>See all 98 genres</summary>
+<summary>See all 100 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -405,6 +407,8 @@
 | 1 | chiptune |
 | 1 | chinese viral pop |
 | 1 | chinese r&b |
+| 1 | bulgarian pop |
+| 1 | bulgarian hip hop |
 | 1 | basshall |
 | 1 | alt z |
 | 1 | afro soul |
@@ -422,15 +426,15 @@
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732f7bb02cb4b74bd7c2406428" alt="fábula" width="50" /> <span style="padding-left:10px;">fábula (2023-01-23)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ba16f5c6c4e2d873996a81a7" alt="怎樣" width="50" /> <span style="padding-left:10px;">怎樣 (2001-01-18)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739b835b4be5631a28c4725a14" alt="בשורות טובות" width="50" /> <span style="padding-left:10px;">בשורות טובות (2022-06-06)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27356bcdbdd16ff6781b8371c7f" alt="A BEST" width="50" /> <span style="padding-left:10px;">A BEST (2001-03-28)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736a986d5aa5b6567ca683f653" alt="Lykke te" width="50" /> <span style="padding-left:10px;">Lykke te (2022-05-27)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734df4e8ec1f66ebb6b63c14c2" alt="海嘯" width="50" /> <span style="padding-left:10px;">海嘯 (2001-05-10)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27347e6c8b41b5546781d84b5e7" alt="עושה לי צרות" width="50" /> <span style="padding-left:10px;">עושה לי צרות (2022-05-22)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27354dbaa284c53e085523cfec2" alt="Hijas del Tomate" width="50" /> <span style="padding-left:10px;">Hijas del Tomate (2002)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b93c6b37cb0e0a9fbf26b766" alt="Mr. Rover" width="50" /> <span style="padding-left:10px;">Mr. Rover (2022-07-15)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27356bcdbdd16ff6781b8371c7f" alt="A BEST" width="50" /> <span style="padding-left:10px;">A BEST (2001-03-28)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739b835b4be5631a28c4725a14" alt="בשורות טובות" width="50" /> <span style="padding-left:10px;">בשורות טובות (2022-06-06)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734df4e8ec1f66ebb6b63c14c2" alt="海嘯" width="50" /> <span style="padding-left:10px;">海嘯 (2001-05-10)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736a986d5aa5b6567ca683f653" alt="Lykke te" width="50" /> <span style="padding-left:10px;">Lykke te (2022-05-27)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27354dbaa284c53e085523cfec2" alt="Hijas del Tomate" width="50" /> <span style="padding-left:10px;">Hijas del Tomate (2002)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27347e6c8b41b5546781d84b5e7" alt="עושה לי צרות" width="50" /> <span style="padding-left:10px;">עושה לי צרות (2022-05-22)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f342e70aacda9d78cfb6ce7a" alt="Fijación Oral, Vol. 1" width="50" /> <span style="padding-left:10px;">Fijación Oral, Vol. 1 (2005-06-03)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731bccd0e65da477d7f815e229" alt="מי זאת" width="50" /> <span style="padding-left:10px;">מי זאת (2022-05-22)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27312b39d20292978b5e5800ed3" alt="一比一" width="50" /> <span style="padding-left:10px;">一比一 (2005-06-03)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734f95dabfc67540ee3823dad6" alt="Sofa Silahlane" width="50" /> <span style="padding-left:10px;">Sofa Silahlane (2022-05-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f342e70aacda9d78cfb6ce7a" alt="Fijación Oral, Vol. 1" width="50" /> <span style="padding-left:10px;">Fijación Oral, Vol. 1 (2005-06-03)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733e94f2b2c3303120be19210b" alt="Habit" width="50" /> <span style="padding-left:10px;">Habit (2022-04-28)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273110af1ee291450d9e86a05a4" alt="太平盛世" width="50" /> <span style="padding-left:10px;">太平盛世 (2005-08-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739a9716c90ceeb1890921e44f" alt="Te Felicito" width="50" /> <span style="padding-left:10px;">Te Felicito (2022-04-21)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e74d5d14b01d404e1984ece7" alt="改變自己" width="50" /> <span style="padding-left:10px;">改變自己 (2007-07-13)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737bc73fff9f3787c1d8a23167" alt="Look At Me" width="50" /> <span style="padding-left:10px;">Look At Me (2022-03-21)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737aa30221d9dbc1271bae1b05" alt="GAME" width="50" /> <span style="padding-left:10px;">GAME (2008)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732e0c53a146daf46d74430ef5" alt="Tippy Toes" width="50" /> <span style="padding-left:10px;">Tippy Toes (2022-03-18)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738d6686937b604899a9347550" alt="Evils Theater" width="50" /> <span style="padding-left:10px;">Evils Theater (2009-06-17)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734f95dabfc67540ee3823dad6" alt="Sofa Silahlane" width="50" /> <span style="padding-left:10px;">Sofa Silahlane (2022-05-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273110af1ee291450d9e86a05a4" alt="太平盛世" width="50" /> <span style="padding-left:10px;">太平盛世 (2005-08-01)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733e94f2b2c3303120be19210b" alt="Habit" width="50" /> <span style="padding-left:10px;">Habit (2022-04-28)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e74d5d14b01d404e1984ece7" alt="改變自己" width="50" /> <span style="padding-left:10px;">改變自己 (2007-07-13)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739a9716c90ceeb1890921e44f" alt="Te Felicito" width="50" /> <span style="padding-left:10px;">Te Felicito (2022-04-21)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737aa30221d9dbc1271bae1b05" alt="GAME" width="50" /> <span style="padding-left:10px;">GAME (2008)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737bc73fff9f3787c1d8a23167" alt="Look At Me" width="50" /> <span style="padding-left:10px;">Look At Me (2022-03-21)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738d6686937b604899a9347550" alt="Evils Theater" width="50" /> <span style="padding-left:10px;">Evils Theater (2009-06-17)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |

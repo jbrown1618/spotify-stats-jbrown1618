@@ -230,7 +230,7 @@
 |---:|:---|
 | 66 | [pop](../../genres/pop.md) |
 | 46 | [dance pop](../../genres/dance_pop.md) |
-| 32 | [r&b](../../genres/r_b.md) |
+| 37 | [r&b](../../genres/r_b.md) |
 | 24 | urban contemporary |
 | 12 | soul |
 | 12 | neo soul |

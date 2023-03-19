@@ -1,6 +1,6 @@
 # k-pop girl group
 
-[405 songs](k_pop_girl_group_tracks.md)
+[408 songs](k_pop_girl_group_tracks.md)
 
 ## Top Artists
 
@@ -10,7 +10,7 @@
 
 
 <details>
-<summary>See all 63 artists</summary>
+<summary>See all 66 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -20,8 +20,8 @@
 | 33 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | 28 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 | 20 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../artists/mamamoo.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
+| 18 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../artists/aespa.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | 17 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | [Girls' Generation](../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
-| 15 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../artists/aespa.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="" width="50" /> | [Dreamcatcher](../artists/dreamcatcher.md) | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 | 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f44c5165785a877bd4ae376" alt="" width="50" /> | [STAYC](../artists/stayc.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | CLC | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
@@ -62,13 +62,16 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9d2f7d9ba199152a396ed07e" alt="" width="50" /> | TRI.BE | [🔗](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2efa47f150ed10401bde6d85" alt="" width="50" /> | BVNDIT | [🔗](https://open.spotify.com/artist/5dEBuZjTtE68uDgCs23Kuv) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735ac0ff859d64d1b540196692" alt="" width="50" /> | LADIES' CODE | [🔗](https://open.spotify.com/artist/4epPY1AW9lQeVUM1XaFiwi) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb24185b8b46cfc65db89926d3" alt="" width="50" /> | IMLAY | [🔗](https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebba818688ae72d12215ee92f0" alt="" width="50" /> | Seraphine | [🔗](https://open.spotify.com/artist/4TqlcgMFDryY96KWcvrhTv) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bc2840ac9c56902f5b9574c" alt="" width="50" /> | Kim Petras | [🔗](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc88f194bc631713f1ddafca9" alt="" width="50" /> | Brown Eyed Girls | [🔗](https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36a0fe204000bfe19f2f8ea" alt="" width="50" /> | Lionclad | [🔗](https://open.spotify.com/artist/2AGxU7q0xWss9jkiTPmxH7) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb344cdb83dbe47a8df01f3a52" alt="" width="50" /> | Bekuh Boom | [🔗](https://open.spotify.com/artist/260LldmHBR0r2wtWtjzNxL) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec598a7b9f52817fdd5634f" alt="" width="50" /> | fromis_9 | [🔗](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebdaaf5f75751b6379c108993c" alt="" width="50" /> | Bea Miller | [🔗](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f21b8314d7ea1cc899b96a71" alt="" width="50" /> | ALICE | [🔗](https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0047a4e1a620fc8119623564" alt="" width="50" /> | Habstrakt | [🔗](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) |
 | 1 | <img src="https://i.scdn.co/image/cd8af1e4b3bcab50bc4457ea1d4bd21bb51654dc" alt="" width="50" /> | T-ARA | [🔗](https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb41fe5fc9b99c0fe9f8725d38" alt="" width="50" /> | NATTI NATASHA | [🔗](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739e03d61c4f569348f1bedacd" alt="" width="50" /> | Girl's Day | [🔗](https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W) |
@@ -121,6 +124,7 @@
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | I burn | 2021-01-11 | [🔗](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | CHESHIRE | 2022-11-30 | [🔗](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="" width="50" /> | 1st Album [Dystopia : The Tree of Language] | 2020-02-18 | [🔗](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) |
+| 3 | <img src="https://i.scdn.co/image/ab67616d0000b2738bcda1592f94261aaa7c9fe0" alt="" width="50" /> | iScreaM Vol.10 : Next Level Remixes | 2021-09-14 | [🔗](https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="" width="50" /> | [Apocalypse : Save us] | 2022-04-12 | [🔗](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="" width="50" /> | The Red - The 1st Album | 2015-09-09 | [🔗](https://open.spotify.com/album/6YL9J0E6PGtYzkhyMxnmXd) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="" width="50" /> | Taste of Love | 2021-06-11 | [🔗](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) |
@@ -189,7 +193,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27393669daf6d891ee1bdd28df8" alt="" width="50" /> | WE | 2019-05-15 | [🔗](https://open.spotify.com/album/6Epnn9sgvvUrHdEf7JKjQb) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ae843591bcdace9489c86fb0" alt="" width="50" /> | WAW | 2021-06-02 | [🔗](https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273520ea0d948ced66d1c1764e2" alt="" width="50" /> | WANNA BE MYSELF | 2020-09-10 | [🔗](https://open.spotify.com/album/0n62copUsWrST9M6AsYfZI) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273aecb87fd2574ad79b05cc024" alt="" width="50" /> | Voltage | 2022-03-23 | [🔗](https://open.spotify.com/album/3MXVqfk9VG3B757nLlow0D) |
 
 </details>
 
@@ -204,7 +207,7 @@
 
 | Number of Tracks | Label |
 |---:|:---|
-| 88 | [SM Entertainment](../labels/sm_entertainment.md) |
+| 91 | [SM Entertainment](../labels/sm_entertainment.md) |
 | 72 | [Republic Records](../labels/republic_records.md) |
 | 29 | [YG Entertainment](../labels/yg_entertainment.md) |
 | 24 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md) |
@@ -325,16 +328,16 @@
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| You and I (Park Bom) (0.0837) | Shut Down (0.0) |
-| Adios (0.0794) | SCIENTIST (0.0) |
-| YEPPI YEPPI (0.0391) | TOMBOY (0.0) |
-| So Hot (0.00976) | Hush (0.0) |
-| I Am The Best (0.00834) | Typa Girl (0.0) |
-| Power Up (0.00745) | The Boys (0.0) |
-| BBoom BBoom (0.00666) | Talk that Talk (0.0) |
-| In My Dreams (0.0066) | Pirate (0.0) |
-| FIRE (0.00643) | So Good (0.0) |
-| BAAM (0.00431) | Love So Sweet (0.0) |
+| Next Level - Habstrakt Remix (0.201) | Shut Down (0.0) |
+| You and I (Park Bom) (0.0837) | SCIENTIST (0.0) |
+| Adios (0.0794) | TOMBOY (0.0) |
+| YEPPI YEPPI (0.0391) | Hush (0.0) |
+| Next Level - IMLAY Remix (0.0301) | Typa Girl (0.0) |
+| So Hot (0.00976) | The Boys (0.0) |
+| I Am The Best (0.00834) | Talk that Talk (0.0) |
+| Power Up (0.00745) | Pirate (0.0) |
+| BBoom BBoom (0.00666) | So Good (0.0) |
+| In My Dreams (0.0066) | Love So Sweet (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
