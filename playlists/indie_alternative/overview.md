@@ -42,7 +42,7 @@
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb196972172c37d934d9ca8093" alt="" width="50" /> | Twenty One Pilots | [🔗](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb60c3e9abe7327c0097738f22" alt="" width="50" /> | Sean Paul | [🔗](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf01bf904b446e4a043acb867" alt="" width="50" /> | The Script | [🔗](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb9ba4d95b74bacff4d5747f61" alt="" width="50" /> | Hozier | [🔗](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) |
+| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a" alt="" width="50" /> | Hozier | [🔗](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb576cb43281160e345f728b71" alt="" width="50" /> | Charli XCX | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb378adae733fc578108e3f534" alt="" width="50" /> | Death Cab for Cutie | [🔗](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb78b9bf3dfa09b90ec0aac135" alt="" width="50" /> | half•alive | [🔗](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) |
@@ -318,8 +318,8 @@
 | 63 | [pop](../../genres/pop.md) |
 | 29 | [rock](../../genres/rock.md) |
 | 26 | indie pop |
+| 23 | [electropop](../../genres/electropop.md) |
 | 22 | permanent wave |
-| 22 | [electropop](../../genres/electropop.md) |
 | 21 | [dance pop](../../genres/dance_pop.md) |
 | 21 | [art pop](../../genres/art_pop.md) |
 | 20 | modern rock |
@@ -335,12 +335,12 @@
 | 14 | indie rock |
 | 12 | metropopolis |
 | 11 | australian pop |
-| 11 | anti-folk |
 | 10 | [pop rock](../../genres/pop_rock.md) |
 | 9 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 9 | etherpop |
 | 8 | nyc pop |
 | 8 | australian dance |
+| 7 | anti-folk |
 | 6 | [neo mellow](../../genres/neo_mellow.md) |
 | 6 | la indie |
 | 5 | uk funky |

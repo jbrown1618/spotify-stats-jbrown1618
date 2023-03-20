@@ -356,7 +356,7 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 654 | [k-pop](../../genres/k_pop.md) |
+| 652 | [k-pop](../../genres/k_pop.md) |
 | 375 | [pop](../../genres/pop.md) |
 | 299 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 166 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
@@ -370,20 +370,20 @@
 | 43 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 43 | [hollywood](../../genres/hollywood.md) |
 | 42 | [mellow gold](../../genres/mellow_gold.md) |
-| 39 | [korean pop](../../genres/korean_pop.md) |
-| 35 | [electropop](../../genres/electropop.md) |
+| 38 | [korean pop](../../genres/korean_pop.md) |
+| 36 | [electropop](../../genres/electropop.md) |
 | 34 | [art pop](../../genres/art_pop.md) |
 | 33 | [folk rock](../../genres/folk_rock.md) |
 | 32 | [soft rock](../../genres/soft_rock.md) |
 | 32 | korean r&b |
+| 30 | [psychedelic rock](../../genres/psychedelic_rock.md) |
 | 30 | british invasion |
-| 28 | psychedelic rock |
-| 27 | [r&b](../../genres/r_b.md) |
 | 25 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 25 | piano rock |
 | 24 | permanent wave |
 | 23 | beatlesque |
 | 23 | art rock |
+| 22 | [r&b](../../genres/r_b.md) |
 | 22 | merseybeat |
 | 20 | urban contemporary |
 | 20 | pop rap |
@@ -418,7 +418,6 @@
 | 9 | tropical house |
 | 9 | lounge |
 | 9 | bergen indie |
-| 9 | anti-folk |
 | 8 | viral pop |
 | 8 | pop dance |
 | 8 | latin pop |
@@ -454,6 +453,7 @@
 | 5 | jazz pop |
 | 5 | indietronica |
 | 5 | girl group |
+| 5 | anti-folk |
 | 5 | afrofuturism |
 | 4 | yacht rock |
 

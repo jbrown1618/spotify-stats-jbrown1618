@@ -41,7 +41,7 @@
 - british invasion
 - [classic rock](../genres/classic_rock.md)
 - merseybeat
-- psychedelic rock
+- [psychedelic rock](../genres/psychedelic_rock.md)
 - [rock](../genres/rock.md)
 
 ## Tracks

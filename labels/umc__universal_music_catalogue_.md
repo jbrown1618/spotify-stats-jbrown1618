@@ -64,7 +64,7 @@ Appears as:
 | 3 | piano rock |
 | 3 | glam rock |
 | 2 | [rock](../genres/rock.md) |
-| 2 | psychedelic rock |
+| 2 | [psychedelic rock](../genres/psychedelic_rock.md) |
 | 2 | [classic rock](../genres/classic_rock.md) |
 | 2 | british invasion |
 | 1 | merseybeat |

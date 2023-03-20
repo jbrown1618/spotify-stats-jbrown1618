@@ -54,7 +54,7 @@
 | 1 | <img src="https://i.scdn.co/image/4f5e6383a803df41153fd871f6d0d0af7b9f08a0" alt="" width="50" /> | Count Basie | [🔗](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) |
 | 1 | <img src="https://i.scdn.co/image/19f768d93f6c80f7d4ca5b906e1c0376a3704389" alt="" width="50" /> | The Jackson 5 | [🔗](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) |
 | 1 | <img src="https://i.scdn.co/image/7b2813bb4afb38f0dab9470a514091fc4ef6b1a1" alt="" width="50" /> | Rilo Kiley | [🔗](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9ba4d95b74bacff4d5747f61" alt="" width="50" /> | Hozier | [🔗](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a" alt="" width="50" /> | Hozier | [🔗](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) |
 | 1 | <img src="https://i.scdn.co/image/713664fded8bdd28ed84f4b2054815af92999b9c" alt="" width="50" /> | Gotye | [🔗](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebca118e3822061f7b7f6bc537" alt="" width="50" /> | Ne-Yo | [🔗](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1b9743970d802c36233125b3" alt="" width="50" /> | Steam Powered Giraffe | [🔗](https://open.spotify.com/artist/1yqs45BSh7457Flyhmdv7f) |
@@ -223,7 +223,7 @@
 | 6 | [hollywood](../../genres/hollywood.md) |
 | 6 | [adult standards](../../genres/adult_standards.md) |
 | 5 | [singer-songwriter](../../genres/singer_songwriter.md) |
-| 5 | psychedelic rock |
+| 5 | [psychedelic rock](../../genres/psychedelic_rock.md) |
 | 5 | merseybeat |
 | 5 | british invasion |
 | 5 | beatlesque |
@@ -231,12 +231,12 @@
 | 4 | permanent wave |
 | 4 | lounge |
 | 4 | glam rock |
-| 3 | [r&b](../../genres/r_b.md) |
 | 3 | canadian pop |
 | 3 | australian pop |
 | 2 | viral pop |
 | 2 | urban contemporary |
 | 2 | soul |
+| 2 | [r&b](../../genres/r_b.md) |
 | 2 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 2 | pop soul |
 | 2 | new americana |
@@ -249,6 +249,7 @@
 | 2 | indie folk |
 | 2 | funk |
 | 2 | folk |
+| 2 | [electropop](../../genres/electropop.md) |
 | 2 | easy listening |
 | 2 | british soul |
 | 2 | atl hip hop |
@@ -276,7 +277,6 @@
 | 1 | indie pop |
 | 1 | heartland rock |
 | 1 | escape room |
-| 1 | [electropop](../../genres/electropop.md) |
 | 1 | disco |
 | 1 | country rock |
 | 1 | comic |

@@ -1,6 +1,6 @@
 # k-pop
 
-[897 songs](k_pop_tracks.md)
+[895 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -291,7 +291,6 @@
 | 2 | ㈜RBW |
 | 2 | ㈜ 드림캐쳐컴퍼니 |
 | 2 | Yedang Entertainment |
-| 2 | XGALX |
 | 2 | WM Japan |
 | 2 | Transparent Arts |
 | 2 | [Sony Music Labels Inc.](../labels/sony_music_labels_inc_.md) |
@@ -341,6 +340,7 @@
 | 1 | Imperial Distribution |
 | 1 | IST ENTERTAINMENT |
 | 1 | IOK x Transparent Arts |
+| 1 | HAPPYTRIBE ENTERTAINMENT |
 
 </details>
 
@@ -358,7 +358,7 @@
 | Typa Girl (0.915) | Epilogue (0.366) |
 | BOOM (0.914) | Clockwork (0.37) |
 | Mr. Simple (0.913) | MY LOVE (0.375) |
-| Tippy Toes (0.913) | CHEESE (0.376) |
+| That That (prod. & feat. SUGA of BTS) (0.905) | CHEESE (0.376) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -401,16 +401,16 @@
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Tippy Toes (0.106) | Gangnam Style (강남스타일) (0.0) |
-| You and I (Park Bom) (0.0837) | Miracle (0.0) |
-| Adios (0.0794) | To the moon (0.0) |
-| pporappippam (0.0652) | SUPER BOARD (0.0) |
-| Badster (0.0444) | Clockwork (0.0) |
-| Sinner (0.0395) | Shut Down (0.0) |
-| So Hot (0.00976) | SCIENTIST (0.0) |
-| GingaMingaYo (the strange world) (0.00955) | Winter Falls (0.0) |
-| I Am The Best (0.00834) | Beatbox (0.0) |
-| Power Up (0.00745) | Why Can't You Love Me? (0.0) |
+| You and I (Park Bom) (0.0837) | Gangnam Style (강남스타일) (0.0) |
+| Adios (0.0794) | Miracle (0.0) |
+| pporappippam (0.0652) | To the moon (0.0) |
+| Badster (0.0444) | SUPER BOARD (0.0) |
+| Sinner (0.0395) | Clockwork (0.0) |
+| So Hot (0.00976) | Shut Down (0.0) |
+| GingaMingaYo (the strange world) (0.00955) | SCIENTIST (0.0) |
+| I Am The Best (0.00834) | Winter Falls (0.0) |
+| Power Up (0.00745) | Beatbox (0.0) |
+| Fairy of Shampoo (0.00673) | Why Can't You Love Me? (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|

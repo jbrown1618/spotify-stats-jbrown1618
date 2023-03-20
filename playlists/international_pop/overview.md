@@ -309,7 +309,7 @@
 
 
 <details>
-<summary>See all 100 genres</summary>
+<summary>See all 99 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -384,7 +384,6 @@
 | 1 | latin viral pop |
 | 1 | latin talent show |
 | 1 | latin hip hop |
-| 1 | [k-pop](../../genres/k_pop.md) |
 | 1 | jewish pop |
 | 1 | japanese post-hardcore |
 | 1 | japanese math rock |
