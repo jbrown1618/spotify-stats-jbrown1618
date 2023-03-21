@@ -180,8 +180,8 @@
 | 39 | british invasion |
 | 34 | album rock |
 | 33 | beatlesque |
-| 32 | hard rock |
 | 31 | merseybeat |
+| 30 | hard rock |
 | 25 | [soft rock](../../genres/soft_rock.md) |
 | 23 | [mellow gold](../../genres/mellow_gold.md) |
 | 14 | glam rock |
@@ -191,12 +191,12 @@
 | 9 | blues rock |
 | 8 | metal |
 | 5 | heartland rock |
-| 5 | country rock |
 | 4 | symphonic rock |
 | 4 | progressive rock |
 | 3 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 3 | roots rock |
 | 3 | folk |
+| 3 | country rock |
 | 2 | uk doom metal |
 | 2 | thrash metal |
 | 2 | synth funk |

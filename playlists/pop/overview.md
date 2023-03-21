@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="Pop" width="100" />
 
-[370 songs](tracks.md)
+[372 songs](tracks.md)
 
 ## Top Artists
 
@@ -20,10 +20,10 @@
 | 51 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | [Taylor Swift](../../artists/taylor_swift.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 | 25 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../../artists/ariana_grande.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 | 15 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | [Rihanna](../../artists/rihanna.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
+| 13 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
 | 13 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../../artists/lady_gaga.md) | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
 | 12 | <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | [Dua Lipa](../../artists/dua_lipa.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 | 12 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../../artists/bruno_mars.md) | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
-| 11 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb727a2ac15afe659be999beba" alt="" width="50" /> | Doja Cat | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5ebec40474426f4401a4203dc9f" alt="" width="50" /> | Sia | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | Camila Cabello | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
@@ -153,6 +153,7 @@
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" alt="" width="50" /> | Planet Her | 2021-06-25 | [🔗](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" alt="" width="50" /> | Millennium | 1999-05-18 | [🔗](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9a3105ad4ffb91ad2e2798" alt="" width="50" /> | Life in Cartoon Motion | 2007-02-05 | [🔗](https://open.spotify.com/album/4wKkXYJXQWDa9sndBSx0gI) |
+| 3 | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="" width="50" /> | Happier Than Ever | 2021-07-30 | [🔗](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a" alt="" width="50" /> | Fine Line | 2019-12-13 | [🔗](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | Fearless | 2008-11-11 | [🔗](https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Camila | 2018-01-12 | [🔗](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) |
@@ -230,7 +231,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273120a1366324c2ae1728e17e5" alt="" width="50" /> | The ArchAndroid | 2010-05-17 | [🔗](https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273937af329667311f4b2831616" alt="" width="50" /> | Teenage Dream: The Complete Confection | 2012-03-12 | [🔗](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732f8c0fd72a80a93f8c53b96c" alt="" width="50" /> | Taylor Swift | 2006-10-24 | [🔗](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27364d58f6e7672baecc8972806" alt="" width="50" /> | Tattoos (Deluxe Edition) | 2013-09-10 | [🔗](https://open.spotify.com/album/3wDeTllVvayYsWTHsFNWZQ) |
 
 </details>
 
@@ -245,7 +245,7 @@
 
 | Number of Tracks | Label |
 |---:|:---|
-| 32 | [Interscope Records](../../labels/interscope_records.md) |
+| 34 | [Interscope Records](../../labels/interscope_records.md) |
 | 29 | [Big Machine Records](../../labels/big_machine_records.md) |
 | 28 | [RCA Records Label](../../labels/rca_records_label.md) |
 | 25 | [Atlantic Records](../../labels/atlantic_records.md) |
@@ -257,8 +257,8 @@
 | 14 | [Jive](../../labels/jive.md) |
 | 14 | [Def Jam Recordings](../../labels/def_jam_recordings.md) |
 | 13 | [Universal Music LLC](../../labels/universal_music_llc.md) |
+| 13 | [Darkroom](../../labels/darkroom.md) |
 | 12 | [Syco Music](../../labels/syco_music.md) |
-| 11 | [Darkroom](../../labels/darkroom.md) |
 | 10 | [Capitol Records](../../labels/capitol_records.md) |
 | 8 | [Polydor Records](../../labels/polydor_records.md) |
 | 8 | Monkey Puzzle Records |
@@ -359,12 +359,12 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 315 | [pop](../../genres/pop.md) |
+| 317 | [pop](../../genres/pop.md) |
 | 187 | [dance pop](../../genres/dance_pop.md) |
 | 49 | [post-teen pop](../../genres/post_teen_pop.md) |
-| 31 | [electropop](../../genres/electropop.md) |
+| 32 | [electropop](../../genres/electropop.md) |
+| 31 | [art pop](../../genres/art_pop.md) |
 | 29 | uk pop |
-| 29 | [art pop](../../genres/art_pop.md) |
 | 27 | edm |
 | 23 | urban contemporary |
 | 21 | pop rap |
@@ -372,16 +372,16 @@
 | 14 | [neo mellow](../../genres/neo_mellow.md) |
 | 14 | barbadian pop |
 | 12 | atl hip hop |
-| 11 | viral pop |
 | 11 | [r&b](../../genres/r_b.md) |
 | 11 | pop dance |
 | 11 | canadian pop |
 | 11 | british soul |
 | 11 | australian pop |
-| 10 | tropical house |
+| 10 | viral pop |
 | 10 | pop soul |
 | 10 | [pop rock](../../genres/pop_rock.md) |
 | 10 | [acoustic pop](../../genres/acoustic_pop.md) |
+| 9 | tropical house |
 | 9 | metropopolis |
 | 8 | uk dance |
 | 8 | escape room |
@@ -398,6 +398,7 @@
 | 5 | piano rock |
 | 5 | permanent wave |
 | 5 | indie poptimism |
+| 5 | electro house |
 | 5 | contemporary r&b |
 | 5 | afrofuturism |
 | 4 | south carolina hip hop |
@@ -406,7 +407,6 @@
 | 4 | [hollywood](../../genres/hollywood.md) |
 | 4 | hip pop |
 | 4 | europop |
-| 4 | electro house |
 | 4 | canadian contemporary r&b |
 | 3 | viral rap |
 | 3 | progressive house |
@@ -475,7 +475,7 @@
 |:---|---:|
 | 2023 | 1 |
 | 2022 | 7 |
-| 2021 | 18 |
+| [2021](2021.md) | 20 |
 | [2020](2020.md) | 48 |
 | [2019](2019.md) | 45 |
 | [2018](2018.md) | 25 |
@@ -522,12 +522,12 @@
 | Anaconda (0.964) | Gravity (0.27) |
 | WAP (feat. Megan Thee Stallion) (0.935) | La Vie En Rose (0.276) |
 | Pretty Please (0.906) | exile (feat. Bon Iver) (0.298) |
-| bury a friend (0.905) | Skyfall (0.346) |
-| Sally Walker (0.905) | Jar of Hearts (0.349) |
-| Coño (0.899) | We All Need Saving (0.35) |
-| I Think He Knows (0.897) | lovely (with Khalid) (0.351) |
-| Yeah! (feat. Lil Jon & Ludacris) (0.894) | epiphany (0.354) |
-| LoveGame (0.894) | Lover (0.359) |
+| bury a friend (0.905) | Happier Than Ever (0.332) |
+| Sally Walker (0.905) | Skyfall (0.346) |
+| Coño (0.899) | Jar of Hearts (0.349) |
+| I Think He Knows (0.897) | We All Need Saving (0.35) |
+| Yeah! (feat. Lil Jon & Ludacris) (0.894) | lovely (with Khalid) (0.351) |
+| LoveGame (0.894) | epiphany (0.354) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -539,8 +539,8 @@
 | Red (0.896) | Your Song (0.195) |
 | Levitating (0.884) | No Time To Die (0.219) |
 | Green Light (feat. André 3000) (0.882) | everything i wanted (0.225) |
-| Don't Call Me Up (0.881) | Off My Face (0.228) |
-| Focus (0.876) | TV (0.236) |
+| Don't Call Me Up (0.881) | Happier Than Ever (0.225) |
+| Focus (0.876) | Off My Face (0.228) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -575,11 +575,11 @@
 | Instant Crush (feat. Julian Casablancas) (0.619) | This Is Why We Can't Have Nice Things (0.0) |
 | you should see me in a crown (0.219) | Love Me Like You Do (0.0) |
 | bury a friend (0.162) | UN DIA (ONE DAY) (Feat. Tainy) (0.0) |
-| Therefore I Am (0.135) | React (0.0) |
-| bad guy (0.13) | TiK ToK (0.0) |
-| This Is What You Came For (0.119) | Jar of Hearts (0.0) |
-| Crazy (0.0577) | Lucky (0.0) |
-| Lights - Single Version (0.0492) | That's What I Like (0.0) |
+| GOLDWING (0.159) | React (0.0) |
+| Therefore I Am (0.135) | TiK ToK (0.0) |
+| bad guy (0.13) | Jar of Hearts (0.0) |
+| This Is What You Came For (0.119) | Lucky (0.0) |
+| Crazy (0.0577) | That's What I Like (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|

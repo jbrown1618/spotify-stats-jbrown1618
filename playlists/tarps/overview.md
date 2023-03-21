@@ -211,14 +211,14 @@
 
 
 <details>
-<summary>See all 88 genres</summary>
+<summary>See all 87 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
 | 22 | [pop](../../genres/pop.md) |
 | 10 | [neo mellow](../../genres/neo_mellow.md) |
 | 9 | [dance pop](../../genres/dance_pop.md) |
-| 7 | [rock](../../genres/rock.md) |
+| 8 | [rock](../../genres/rock.md) |
 | 7 | [classic rock](../../genres/classic_rock.md) |
 | 6 | urban contemporary |
 | 5 | [pop rock](../../genres/pop_rock.md) |
@@ -226,6 +226,7 @@
 | 4 | [r&b](../../genres/r_b.md) |
 | 4 | new americana |
 | 4 | [mellow gold](../../genres/mellow_gold.md) |
+| 4 | indie folk |
 | 4 | [folk rock](../../genres/folk_rock.md) |
 | 3 | stomp and holler |
 | 3 | [soft rock](../../genres/soft_rock.md) |
@@ -234,7 +235,6 @@
 | 3 | pop soul |
 | 3 | neo soul |
 | 3 | merseybeat |
-| 3 | indie folk |
 | 3 | folk |
 | 3 | british soul |
 | 3 | british invasion |
@@ -302,7 +302,6 @@
 | 1 | australian dance |
 | 1 | album rock |
 | 1 | [adult standards](../../genres/adult_standards.md) |
-| 1 | [a cappella](../../genres/a_cappella.md) |
 
 </details>
 
