@@ -85,7 +85,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eba89b57750203c624eed1e837" alt="" width="50" /> | Ali Sethi | [🔗](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb08132734f5756507e29fdf5b" alt="" width="50" /> | Ayumi Hamasaki | [🔗](https://open.spotify.com/artist/3Mvc8kRgr8LRYYgvFmlZqn) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe8b2a45963d5d6e7403699d0" alt="" width="50" /> | Ana Guerra | [🔗](https://open.spotify.com/artist/3MRynBsyLGzv3IQ9Fip6hO) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb283c3a97aea1c06e2cf1a2c" alt="" width="50" /> | Agam Buhbut | [🔗](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb63b3f52a50b570554df21c55" alt="" width="50" /> | Agam Buhbut | [🔗](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736c44926d053b033447e4e710" alt="" width="50" /> | Kausar Munir | [🔗](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebad8926c870508bc74948899a" alt="" width="50" /> | Rayi Putra | [🔗](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe91b522e8bb5fb15fe3813eb" alt="" width="50" /> | Savera | [🔗](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb) |
@@ -109,7 +109,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27354dbaa284c53e085523cfec2" alt="" width="50" /> | Las Ketchup | [🔗](https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2c540efb76ea47414f376af" alt="" width="50" /> | TFBOYS | [🔗](https://open.spotify.com/artist/1dywcVTpMrP7VmQUhngSce) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb12a53bc0b95fa230ccd6d661" alt="" width="50" /> | Gen Hoshino | [🔗](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb41fe5fc9b99c0fe9f8725d38" alt="" width="50" /> | NATTI NATASHA | [🔗](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5f650498f63c645062812ad1" alt="" width="50" /> | NATTI NATASHA | [🔗](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6be69d4a6cea90132c24de23" alt="" width="50" /> | Full Trunk | [🔗](https://open.spotify.com/artist/1CD5WWtF6AFUq6BTY20I4k) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9b2f6666f0dbb3234080ce43" alt="" width="50" /> | Static & Ben El | [🔗](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb51feeef21e4e7bc941bc66bc" alt="" width="50" /> | Penny Tai | [🔗](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) |
@@ -311,7 +311,7 @@
 
 
 <details>
-<summary>See all 99 genres</summary>
+<summary>See all 98 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -411,7 +411,6 @@
 | 1 | bulgarian pop |
 | 1 | bulgarian hip hop |
 | 1 | basshall |
-| 1 | alt z |
 | 1 | afro soul |
 | 1 | afro dancehall |
 

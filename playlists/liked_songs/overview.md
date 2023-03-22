@@ -360,7 +360,7 @@
 | 377 | [pop](../../genres/pop.md) |
 | 302 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 166 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
-| 161 | [dance pop](../../genres/dance_pop.md) |
+| 162 | [dance pop](../../genres/dance_pop.md) |
 | 105 | [rock](../../genres/rock.md) |
 | 78 | [classic rock](../../genres/classic_rock.md) |
 | 62 | [neo mellow](../../genres/neo_mellow.md) |
@@ -371,7 +371,7 @@
 | 43 | [hollywood](../../genres/hollywood.md) |
 | 42 | [mellow gold](../../genres/mellow_gold.md) |
 | 38 | [korean pop](../../genres/korean_pop.md) |
-| 36 | [electropop](../../genres/electropop.md) |
+| 37 | [electropop](../../genres/electropop.md) |
 | 35 | [art pop](../../genres/art_pop.md) |
 | 33 | [folk rock](../../genres/folk_rock.md) |
 | 32 | [soft rock](../../genres/soft_rock.md) |
@@ -418,7 +418,6 @@
 | 9 | tropical house |
 | 9 | lounge |
 | 9 | bergen indie |
-| 9 | anti-folk |
 | 8 | viral pop |
 | 8 | pop dance |
 | 8 | latin pop |
@@ -427,7 +426,6 @@
 | 8 | escape room |
 | 8 | blues rock |
 | 8 | australian dance |
-| 7 | motown |
 | 7 | korean city pop |
 | 7 | kawaii metal |
 | 7 | j-metal |
@@ -443,6 +441,7 @@
 | 7 | alternative r&b |
 | 6 | stomp and holler |
 | 6 | pop soul |
+| 6 | motown |
 | 6 | modern alternative rock |
 | 6 | la indie |
 | 6 | hip pop |
@@ -454,6 +453,7 @@
 | 5 | jazz pop |
 | 5 | indietronica |
 | 5 | girl group |
+| 5 | anti-folk |
 | 5 | afrofuturism |
 | 4 | yacht rock |
 

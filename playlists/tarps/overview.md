@@ -218,7 +218,7 @@
 | 22 | [pop](../../genres/pop.md) |
 | 10 | [neo mellow](../../genres/neo_mellow.md) |
 | 9 | [dance pop](../../genres/dance_pop.md) |
-| 8 | [rock](../../genres/rock.md) |
+| 7 | [rock](../../genres/rock.md) |
 | 7 | [classic rock](../../genres/classic_rock.md) |
 | 6 | urban contemporary |
 | 5 | [pop rock](../../genres/pop_rock.md) |

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2738cab1c75d2271af37c3e2db9ab67616d0000b273d2ef237da7f94762997c2083ab67616d0000b273e9cd59d664f597061a513038ab67616d0000b273ed10325dc317f32df83990b9" alt="Recent Comebacks" width="100" />
 
-[85 songs](tracks.md)
+[87 songs](tracks.md)
 
 ## Top Artists
 
@@ -22,12 +22,12 @@
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../../artists/aespa.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../../artists/blackpink.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5ebde8ad216e0ff7a76573c835e" alt="" width="50" /> | [SEULGI](../../artists/seulgi.md) | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
+| 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb04c88d140b3db4fa42ef84f2" alt="" width="50" /> | NMIXX | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../../artists/enhypen.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../../artists/red_velvet.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebfb6c0b7b6918dca92be0ed75" alt="" width="50" /> | LE SSERAFIM | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../../artists/_g_i_dle.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb04c88d140b3db4fa42ef84f2" alt="" width="50" /> | NMIXX | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | Jackson Wang | [🔗](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d874b307cb092e68db73207" alt="" width="50" /> | [NCT 127](../../artists/nct_127.md) | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb6199c3c2f414880e2b9077a9" alt="" width="50" /> | NewJeans | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
@@ -80,10 +80,10 @@
 | 6 | <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | READY TO BE | 2023-03-10 | [🔗](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) |
 | 6 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Girls - The 2nd Mini Album | 2022-07-08 | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
 | 6 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | BORN PINK | 2022-09-16 | [🔗](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) |
+| 5 | <img src="https://i.scdn.co/image/ab67616d0000b273bbead884cd91c2a9b5b2a9fc" alt="" width="50" /> | expérgo | 2023-03-20 | [🔗](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) |
 | 5 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 28 Reasons - The 1st Mini Album | 2022-10-04 | [🔗](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273d2ef237da7f94762997c2083" alt="" width="50" /> | ‘The ReVe Festival 2022 - Birthday’ | 2022-11-28 | [🔗](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | SKZ-REPLAY | 2022-12-21 | [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273bbead884cd91c2a9b5b2a9fc" alt="" width="50" /> | expérgo | 2023-03-20 | [🔗](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" alt="" width="50" /> | MANIFESTO : DAY 1 | 2022-07-04 | [🔗](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="" width="50" /> | MAGIC MAN | 2022-09-09 | [🔗](https://open.spotify.com/album/2VZ4og2ZbwyTQ3X1rbgCe1) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | I love | 2022-10-17 | [🔗](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) |
@@ -137,11 +137,11 @@
 | 9 | [Warner Records](../../labels/warner_records.md) |
 | 7 | [YG Entertainment](../../labels/yg_entertainment.md) |
 | 7 | [Interscope Records](../../labels/interscope_records.md) |
+| 5 | [JYP Entertainment](../../labels/jyp_entertainment.md) |
 | 4 | [SOURCE MUSIC](../../labels/source_music.md) |
 | 4 | [BELIFT LAB](../../labels/belift_lab.md) |
 | 4 | 88rising Music |
 | 3 | TEAM WANG records |
-| 3 | [JYP Entertainment](../../labels/jyp_entertainment.md) |
 | 3 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment.md) |
 | 2 | [Starship Entertainment](../../labels/starship_entertainment.md) |
 | 2 | [RBW Inc.](../../labels/rbw_inc_.md) |
@@ -174,7 +174,7 @@
 | Number of Tracks | Genre |
 |---:|:---|
 | 59 | [k-pop](../../genres/k_pop.md) |
-| 37 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
+| 39 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 13 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
 | 4 | anime |
 | 2 | korean r&b |
@@ -193,7 +193,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| [2023](2023.md) | 28 |
+| [2023](2023.md) | 30 |
 | [2022](2022.md) | 57 |
 
 </details>
@@ -243,14 +243,14 @@
 |:---|:---|
 | I GOT IT (HAN) (0.365) | Cruel (0.0309) |
 | Girls (0.325) | Tally (0.031) |
-| Life's Too Short (English Version) (0.265) | Animal Farm (0.0315) |
-| Future Perfect (Pass the MIC) (0.264) | CRAZY STUPID LOVE (0.0316) |
-| 2 Baddies (0.258) | The Happiest Girl (0.0328) |
-| Log in (0.252) | Cupid (0.0336) |
-| Young, Dumb, Stupid (0.233) | Come Alive (0.0338) |
-| KARMA (0.233) | Los Angeles (0.0344) |
-| HOME (0.215) | Candy (0.0348) |
-| Birthday (0.202) | Floral Sense (0.0362) |
+| PAXXWORD (0.299) | Animal Farm (0.0315) |
+| Life's Too Short (English Version) (0.265) | CRAZY STUPID LOVE (0.0316) |
+| Future Perfect (Pass the MIC) (0.264) | The Happiest Girl (0.0328) |
+| 2 Baddies (0.258) | Cupid (0.0336) |
+| Log in (0.252) | Come Alive (0.0338) |
+| Young, Dumb, Stupid (0.233) | Los Angeles (0.0344) |
+| KARMA (0.233) | Candy (0.0348) |
+| HOME (0.215) | Floral Sense (0.0362) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|

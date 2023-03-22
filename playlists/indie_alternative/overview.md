@@ -335,12 +335,12 @@
 | 14 | indie rock |
 | 12 | metropopolis |
 | 11 | australian pop |
-| 11 | anti-folk |
 | 10 | [pop rock](../../genres/pop_rock.md) |
 | 9 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 9 | etherpop |
 | 8 | nyc pop |
 | 8 | australian dance |
+| 7 | anti-folk |
 | 6 | [neo mellow](../../genres/neo_mellow.md) |
 | 6 | la indie |
 | 5 | uk funky |

@@ -360,9 +360,9 @@
 | Number of Tracks | Genre |
 |---:|:---|
 | 317 | [pop](../../genres/pop.md) |
-| 187 | [dance pop](../../genres/dance_pop.md) |
+| 188 | [dance pop](../../genres/dance_pop.md) |
 | 49 | [post-teen pop](../../genres/post_teen_pop.md) |
-| 32 | [electropop](../../genres/electropop.md) |
+| 33 | [electropop](../../genres/electropop.md) |
 | 31 | [art pop](../../genres/art_pop.md) |
 | 29 | uk pop |
 | 27 | edm |
@@ -378,10 +378,10 @@
 | 11 | british soul |
 | 11 | australian pop |
 | 10 | viral pop |
+| 10 | tropical house |
 | 10 | pop soul |
 | 10 | [pop rock](../../genres/pop_rock.md) |
 | 10 | [acoustic pop](../../genres/acoustic_pop.md) |
-| 9 | tropical house |
 | 9 | metropopolis |
 | 8 | uk dance |
 | 8 | escape room |
@@ -398,7 +398,6 @@
 | 5 | piano rock |
 | 5 | permanent wave |
 | 5 | indie poptimism |
-| 5 | electro house |
 | 5 | contemporary r&b |
 | 5 | afrofuturism |
 | 4 | south carolina hip hop |
@@ -407,6 +406,7 @@
 | 4 | [hollywood](../../genres/hollywood.md) |
 | 4 | hip pop |
 | 4 | europop |
+| 4 | electro house |
 | 4 | canadian contemporary r&b |
 | 3 | viral rap |
 | 3 | progressive house |

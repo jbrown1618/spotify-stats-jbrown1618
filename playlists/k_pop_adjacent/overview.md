@@ -215,6 +215,7 @@
 | 2 | indie r&b |
 | 2 | [electropop](../../genres/electropop.md) |
 | 2 | danish pop |
+| 2 | chill r&b |
 | 1 | viral pop |
 | 1 | video game music |
 | 1 | uk pop |
@@ -243,7 +244,6 @@
 | 1 | electro house |
 | 1 | dfw rap |
 | 1 | complextro |
-| 1 | chill r&b |
 | 1 | candy pop |
 | 1 | bulgarian pop |
 | 1 | bulgarian hip hop |
