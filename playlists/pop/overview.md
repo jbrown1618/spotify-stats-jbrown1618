@@ -362,7 +362,7 @@
 | 317 | [pop](../../genres/pop.md) |
 | 188 | [dance pop](../../genres/dance_pop.md) |
 | 49 | [post-teen pop](../../genres/post_teen_pop.md) |
-| 33 | [electropop](../../genres/electropop.md) |
+| 34 | [electropop](../../genres/electropop.md) |
 | 31 | [art pop](../../genres/art_pop.md) |
 | 29 | uk pop |
 | 27 | edm |
@@ -372,19 +372,18 @@
 | 14 | [neo mellow](../../genres/neo_mellow.md) |
 | 14 | barbadian pop |
 | 12 | atl hip hop |
+| 11 | viral pop |
 | 11 | [r&b](../../genres/r_b.md) |
 | 11 | pop dance |
 | 11 | canadian pop |
 | 11 | british soul |
 | 11 | australian pop |
-| 10 | viral pop |
 | 10 | tropical house |
 | 10 | pop soul |
 | 10 | [pop rock](../../genres/pop_rock.md) |
 | 10 | [acoustic pop](../../genres/acoustic_pop.md) |
 | 9 | metropopolis |
 | 8 | uk dance |
-| 8 | escape room |
 | 8 | boy band |
 | 8 | australian dance |
 | 8 | alternative r&b |
@@ -398,6 +397,7 @@
 | 5 | piano rock |
 | 5 | permanent wave |
 | 5 | indie poptimism |
+| 5 | electro house |
 | 5 | contemporary r&b |
 | 5 | afrofuturism |
 | 4 | south carolina hip hop |
@@ -406,7 +406,6 @@
 | 4 | [hollywood](../../genres/hollywood.md) |
 | 4 | hip pop |
 | 4 | europop |
-| 4 | electro house |
 | 4 | canadian contemporary r&b |
 | 3 | viral rap |
 | 3 | progressive house |
@@ -416,6 +415,7 @@
 | 3 | latin pop |
 | 3 | hip hop |
 | 3 | etherpop |
+| 3 | escape room |
 | 3 | chill r&b |
 | 3 | alt z |
 | 2 | trap queen |

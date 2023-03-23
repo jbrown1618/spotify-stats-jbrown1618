@@ -1,16 +1,16 @@
 # lilith
 
-[94 songs](lilith_tracks.md)
+[92 songs](lilith_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 12 artists](../images/genres/lilith/artists.png)
+![Bar chart of top 10 artists](../images/genres/lilith/artists.png)
 
 ![Comparison of Artist](../images/genres/lilith/artists_comparison.png)
 
 
 <details>
-<summary>See all 12 artists</summary>
+<summary>See all 10 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -21,21 +21,19 @@
 | 4 | <img src="https://i.scdn.co/image/da5f4b11c665b4d17c7ed24eb23949c046208dcd" alt="" width="50" /> | Jem | [🔗](https://open.spotify.com/artist/4v4xuH9VypORYabMnhPLt1) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eba36a9f95d59ab791d5e897e9" alt="" width="50" /> | Regina Spektor | [🔗](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8457f57bc526c37bd804b924" alt="" width="50" /> | KT Tunstall | [🔗](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) |
-| 1 | <img src="https://i.scdn.co/image/ab6772690000c46c44408083dac26a782655baf3" alt="" width="50" /> | Alanis Morissette | [🔗](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | Jason Mraz | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe86f788af4e127154da1257f" alt="" width="50" /> | Bonnie Raitt | [🔗](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf178cbda9bd9a389581ff021" alt="" width="50" /> | Fiona Apple | [🔗](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb26e35e5ceab6998278006481" alt="" width="50" /> | Brandi Carlile | [🔗](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) |
 
 </details>
 
 ## Top Albums
 
-![Bar chart of top 22 albums](../images/genres/lilith/albums.png)
+![Bar chart of top 20 albums](../images/genres/lilith/albums.png)
 
 
 <details>
-<summary>See all 22 albums</summary>
+<summary>See all 20 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -57,21 +55,19 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b254ca0983d65ede8e3d2f7a" alt="" width="50" /> | Tidal | 1996-07-23 | [🔗](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732cf1dcc65396176307f23524" alt="" width="50" /> | PINES | 2012-01-01 | [🔗](https://open.spotify.com/album/1876e9QcHkJ3Hgo4NqKXBN) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1113af3a19a41dc8eec534e" alt="" width="50" /> | Luck Of The Draw | 1991-01-01 | [🔗](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27392c885317fbe4bfa680109b4" alt="" width="50" /> | Jagged Little Pill | 1995-06-09 | [🔗](https://open.spotify.com/album/09AwlP99cHfKVNKv4FC8VW) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738c8d5428b693308705e7caca" alt="" width="50" /> | Far | 2009-06-09 | [🔗](https://open.spotify.com/album/5t0lQDPLF22wmWCtSZkIVv) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="" width="50" /> | Brave Enough: Live at the Variety Playhouse | 2013-10-22 | [🔗](https://open.spotify.com/album/7L4ZgnQqEhCEsV9GnMeXtE) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f5aac98410fb9e64e29827d4" alt="" width="50" /> | Bear Creek | 2012-06-01 | [🔗](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) |
 
 </details>
 
 
 ## Top Record Labels
 
-![Bar chart of top 15 record labels](../images/genres/lilith/labels.png)
+![Bar chart of top 13 record labels](../images/genres/lilith/labels.png)
 
 
 <details>
-<summary>See all 15 labels</summary>
+<summary>See all 13 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -86,8 +82,6 @@
 | 3 | Beaute |
 | 2 | Saddle Creek |
 | 1 | Work |
-| 1 | Maverick |
-| 1 | [Columbia](../labels/columbia.md) |
 | 1 | Clean Slate |
 | 1 | [Capitol Records](../labels/capitol_records.md) |
 
@@ -133,7 +127,7 @@
 | Black Horse And The Cherry Tree (0.0641) | Sweet As Whole (0.0275) |
 | Fire (0.057) | Breathe Again (0.0278) |
 | Eden (0.0562) | Stay Now (0.0281) |
-| You Oughta Know (0.0557) | Islands (0.0284) |
+| Little Black Dress (0.0554) | Islands (0.0284) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -152,27 +146,27 @@
 |:---|:---|
 | A Better Son/Daughter (0.91) | Say You're Sorry (0.0) |
 | The Execution Of All Things (0.158) | Sweet As Whole (0.0) |
-| Now Is The Start (0.0353) | You Oughta Know (0.0) |
-| Satellite Call (0.0318) | Shadowboxer (0.0) |
-| Islands (0.0261) | Come Round Soon (0.0) |
-| Armor (0.0145) | Black Horse And The Cherry Tree (0.0) |
-| Portions for Foxes (0.0121) | Kaleidoscope Heart (0.0) |
-| Breathe Again (0.00655) | Everything Changes (0.0) |
-| Miss Simone (0.00407) | Vegas (0.0) |
-| The Light (0.00375) | Hercules (0.0) |
+| Now Is The Start (0.0353) | Shadowboxer (0.0) |
+| Satellite Call (0.0318) | Come Round Soon (0.0) |
+| Islands (0.0261) | Black Horse And The Cherry Tree (0.0) |
+| Armor (0.0145) | Kaleidoscope Heart (0.0) |
+| Portions for Foxes (0.0121) | Everything Changes (0.0) |
+| Breathe Again (0.00655) | Vegas (0.0) |
+| Miss Simone (0.00407) | Hercules (0.0) |
+| The Light (0.00375) | Come On Closer (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
 | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 (0.781) | Uncharted (0.0343) |
-| You Oughta Know (0.736) | Brave (0.0425) |
-| Ashes And Wine (0.379) | Eden (0.0456) |
-| Fire (0.363) | Chasing The Sun (0.0497) |
-| Black Horse And The Cherry Tree (0.34) | King of Anything (0.0574) |
-| Let The Rain (0.297) | The Execution Of All Things (0.0686) |
-| It's Not That Easy (0.274) | The Light (0.0691) |
-| Pitter-Pat (0.263) | On the Radio (0.0693) |
-| SleepWalking (0.26) | Islands (0.0699) |
-| Not Alone (0.256) | Blow Away (0.0701) |
+| Ashes And Wine (0.379) | Brave (0.0425) |
+| Fire (0.363) | Eden (0.0456) |
+| Black Horse And The Cherry Tree (0.34) | Chasing The Sun (0.0497) |
+| Let The Rain (0.297) | King of Anything (0.0574) |
+| It's Not That Easy (0.274) | The Execution Of All Things (0.0686) |
+| Pitter-Pat (0.263) | The Light (0.0691) |
+| SleepWalking (0.26) | On the Radio (0.0693) |
+| Not Alone (0.256) | Islands (0.0699) |
+| If I Can't Have You (0.254) | Blow Away (0.0701) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|

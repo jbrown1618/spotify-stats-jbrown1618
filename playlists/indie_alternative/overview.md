@@ -318,15 +318,15 @@
 | 65 | [pop](../../genres/pop.md) |
 | 29 | [rock](../../genres/rock.md) |
 | 26 | indie pop |
-| 24 | [electropop](../../genres/electropop.md) |
+| 25 | [electropop](../../genres/electropop.md) |
 | 23 | [art pop](../../genres/art_pop.md) |
 | 22 | permanent wave |
 | 21 | [dance pop](../../genres/dance_pop.md) |
 | 20 | modern rock |
 | 19 | alternative rock |
-| 18 | [lilith](../../genres/lilith.md) |
 | 18 | baroque pop |
 | 17 | uk alternative pop |
+| 17 | [lilith](../../genres/lilith.md) |
 | 16 | oxford indie |
 | 16 | nz pop |
 | 16 | melancholia |
@@ -335,12 +335,12 @@
 | 14 | indie rock |
 | 12 | metropopolis |
 | 11 | australian pop |
+| 11 | anti-folk |
 | 10 | [pop rock](../../genres/pop_rock.md) |
 | 9 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 9 | etherpop |
 | 8 | nyc pop |
 | 8 | australian dance |
-| 7 | anti-folk |
 | 6 | [neo mellow](../../genres/neo_mellow.md) |
 | 6 | la indie |
 | 5 | uk funky |
@@ -393,6 +393,7 @@
 | 1 | nu jazz |
 | 1 | new rave |
 | 1 | neo-synthpop |
+| 1 | neo soul |
 | 1 | lo-fi |
 | 1 | korean indie rock |
 | 1 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
@@ -414,7 +415,6 @@
 | 1 | dutch pop |
 | 1 | downtempo |
 | 1 | danish pop |
-| 1 | cyberpunk |
 
 </details>
 

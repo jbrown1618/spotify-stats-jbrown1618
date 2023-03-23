@@ -202,14 +202,14 @@
 
 
 <details>
-<summary>See all 51 genres</summary>
+<summary>See all 53 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
 | 141 | [pop](../../genres/pop.md) |
 | 81 | [acoustic pop](../../genres/acoustic_pop.md) |
-| 79 | [neo mellow](../../genres/neo_mellow.md) |
-| 79 | [lilith](../../genres/lilith.md) |
+| 78 | [lilith](../../genres/lilith.md) |
+| 72 | [neo mellow](../../genres/neo_mellow.md) |
 | 61 | [pop rock](../../genres/pop_rock.md) |
 | 59 | [hollywood](../../genres/hollywood.md) |
 | 35 | piano rock |
@@ -231,13 +231,15 @@
 | 8 | canadian singer-songwriter |
 | 6 | glam rock |
 | 5 | deep indie singer-songwriter |
+| 4 | anti-folk |
 | 3 | viral pop |
-| 2 | neo soul |
+| 3 | neo soul |
 | 2 | indy indie |
 | 2 | indiecoustica |
 | 2 | chamber pop |
 | 2 | brill building pop |
 | 2 | [adult standards](../../genres/adult_standards.md) |
+| 1 | urban contemporary |
 | 1 | uk pop |
 | 1 | [r&b](../../genres/r_b.md) |
 | 1 | pop soul |

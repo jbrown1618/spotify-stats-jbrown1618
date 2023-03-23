@@ -40,7 +40,7 @@
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5ebf9c4a13ec9833826f03a183a" alt="" width="50" /> | Evynne Hollens | [🔗](https://open.spotify.com/artist/3nj3MfJCFFoKiRkAOW1R8c) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b2739de730e39a45e1f467999d30" alt="" width="50" /> | Tim Foust | [🔗](https://open.spotify.com/artist/2VtwFbDZzIoT9ZD0uR5HHD) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9452a4d9e815116c87a62bc" alt="" width="50" /> | Tufts Beelzebubs | [🔗](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) |
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb5eaae4859837b31d7bba521b" alt="" width="50" /> | Lindsey Stirling | [🔗](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) |
+| 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebd68284f34757dde6b0e86b02" alt="" width="50" /> | Lindsey Stirling | [🔗](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d31148f43345a656ba8ae76" alt="" width="50" /> | The Dartmouth Aires | [🔗](https://open.spotify.com/artist/71Cez1b1NqsxIn5u8XNiQD) |
 | 2 | <img src="nan" alt="" width="50" /> | Deke Sharon | [🔗](https://open.spotify.com/artist/6eWNb9yuroBpPcQ4sOkL1e) |
 | 2 | <img src="nan" alt="" width="50" /> | Don Gooding | [🔗](https://open.spotify.com/artist/66iv9KzffeiANddjYouG6U) |
@@ -293,7 +293,7 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 193 | [a cappella](../../genres/a_cappella.md) |
+| 192 | [a cappella](../../genres/a_cappella.md) |
 | 119 | [college a cappella](../../genres/college_a_cappella.md) |
 | 32 | fantasy |
 | 11 | french jazz |

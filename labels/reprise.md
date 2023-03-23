@@ -48,11 +48,11 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 13 genres](../images/labels/reprise/genres.png)
+![Bar chart of top 12 genres](../images/labels/reprise/genres.png)
 
 
 <details>
-<summary>See all 13 genres</summary>
+<summary>See all 12 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -66,7 +66,6 @@ Appears as:
 | 1 | progressive groove metal |
 | 1 | nu metal |
 | 1 | metal |
-| 1 | hard rock |
 | 1 | atlanta metal |
 | 1 | alternative metal |
 
