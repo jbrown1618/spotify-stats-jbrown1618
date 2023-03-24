@@ -79,7 +79,7 @@
 | 1 | <img src="nan" alt="" width="50" /> | Ernie Sabella | [🔗](https://open.spotify.com/artist/0RH6EMxqfzCEB7QCSKQ4xr) |
 | 1 | <img src="nan" alt="" width="50" /> | Sasha Hutchings | [🔗](https://open.spotify.com/artist/0Pg2rEmiZEnmxw4eQwtvsR) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27327028def34ab4b09f54f76d4" alt="" width="50" /> | Nathan Lane | [🔗](https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27394c1072c43f5c7f98f517067" alt="" width="50" /> | James Hong | [🔗](https://open.spotify.com/artist/00erTY7OuCOdNTN36srPNN) |
+| 1 | <img src="nan" alt="" width="50" /> | James Hong | [🔗](https://open.spotify.com/artist/00erTY7OuCOdNTN36srPNN) |
 
 </details>
 

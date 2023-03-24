@@ -204,7 +204,7 @@
 
 
 <details>
-<summary>See all 83 genres</summary>
+<summary>See all 84 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -276,6 +276,7 @@
 | 1 | indie poptimism |
 | 1 | indie pop |
 | 1 | heartland rock |
+| 1 | escape room |
 | 1 | disco |
 | 1 | country rock |
 | 1 | comic |

@@ -384,6 +384,7 @@
 | 10 | [acoustic pop](../../genres/acoustic_pop.md) |
 | 9 | metropopolis |
 | 8 | uk dance |
+| 8 | escape room |
 | 8 | boy band |
 | 8 | australian dance |
 | 8 | alternative r&b |
@@ -415,7 +416,6 @@
 | 3 | latin pop |
 | 3 | hip hop |
 | 3 | etherpop |
-| 3 | escape room |
 | 3 | chill r&b |
 | 3 | alt z |
 | 2 | trap queen |

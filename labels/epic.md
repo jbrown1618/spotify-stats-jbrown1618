@@ -94,7 +94,7 @@ Appears as:
 
 
 <details>
-<summary>See all 39 genres</summary>
+<summary>See all 40 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -132,6 +132,7 @@ Appears as:
 | 1 | piano rock |
 | 1 | new wave pop |
 | 1 | neo soul |
+| 1 | escape room |
 | 1 | [electropop](../genres/electropop.md) |
 | 1 | canadian pop |
 | 1 | atl hip hop |

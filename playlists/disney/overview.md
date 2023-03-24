@@ -47,7 +47,7 @@
 | 1 | <img src="nan" alt="" width="50" /> | Billy Bletcher | [🔗](https://open.spotify.com/artist/7MCVs8C2nykvXVyTyrUoVd) |
 | 1 | <img src="nan" alt="" width="50" /> | Beth Fowler | [🔗](https://open.spotify.com/artist/7KNW6OwcA260MsaEtnvhxV) |
 | 1 | <img src="nan" alt="" width="50" /> | Harvey Fierstein | [🔗](https://open.spotify.com/artist/7G6zawIBBtDX1WvuT97Ei9) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732b29519ab1c69f4bb6028571" alt="" width="50" /> | Laura Williams | [🔗](https://open.spotify.com/artist/6wIj7GdxBjFtw6ySpzazwo) |
+| 1 | <img src="nan" alt="" width="50" /> | Laura Williams | [🔗](https://open.spotify.com/artist/6wIj7GdxBjFtw6ySpzazwo) |
 | 1 | <img src="nan" alt="" width="50" /> | Agatha Lee Monn | [🔗](https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp) |
 | 1 | <img src="https://i.scdn.co/image/f18d69d006ccd5bce40592da9c8b244ed5814070" alt="" width="50" /> | Jeremy Irons | [🔗](https://open.spotify.com/artist/6QRb3jE2lCfMU1iUuVQMaV) |
 | 1 | <img src="https://i.scdn.co/image/f372f0bc303e9ebbcc49227f256428d52961ab9f" alt="" width="50" /> | Carmen Twillie | [🔗](https://open.spotify.com/artist/6O3ZB5Cz5CNT3wQWouKcNJ) |
@@ -90,7 +90,7 @@
 | 1 | <img src="nan" alt="" width="50" /> | Gabriella Flores | [🔗](https://open.spotify.com/artist/0IFKI1ya1XM9LGVktNS2cS) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739e28a135e8a46e60bcc50ad2" alt="" width="50" /> | Gael Garcia Bernal | [🔗](https://open.spotify.com/artist/09oR0uKhqwScsKa2eUK97p) |
 | 1 | <img src="nan" alt="" width="50" /> | Mary Moder | [🔗](https://open.spotify.com/artist/00ud2vhOOcbrUyGGYPSTYh) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27394c1072c43f5c7f98f517067" alt="" width="50" /> | James Hong | [🔗](https://open.spotify.com/artist/00erTY7OuCOdNTN36srPNN) |
+| 1 | <img src="nan" alt="" width="50" /> | James Hong | [🔗](https://open.spotify.com/artist/00erTY7OuCOdNTN36srPNN) |
 
 </details>
 

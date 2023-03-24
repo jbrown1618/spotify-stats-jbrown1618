@@ -424,6 +424,7 @@
 | 8 | latin pop |
 | 8 | j-pop |
 | 8 | etherpop |
+| 8 | escape room |
 | 8 | blues rock |
 | 8 | australian dance |
 | 7 | korean city pop |
@@ -455,7 +456,6 @@
 | 5 | girl group |
 | 5 | afrofuturism |
 | 4 | yacht rock |
-| 4 | vocal jazz |
 
 </details>
 
