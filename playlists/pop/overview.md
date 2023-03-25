@@ -372,12 +372,12 @@
 | 14 | [neo mellow](../../genres/neo_mellow.md) |
 | 14 | barbadian pop |
 | 12 | atl hip hop |
-| 11 | viral pop |
 | 11 | [r&b](../../genres/r_b.md) |
 | 11 | pop dance |
 | 11 | canadian pop |
 | 11 | british soul |
 | 11 | australian pop |
+| 10 | viral pop |
 | 10 | tropical house |
 | 10 | pop soul |
 | 10 | [pop rock](../../genres/pop_rock.md) |
@@ -398,7 +398,6 @@
 | 5 | piano rock |
 | 5 | permanent wave |
 | 5 | indie poptimism |
-| 5 | electro house |
 | 5 | contemporary r&b |
 | 5 | afrofuturism |
 | 4 | south carolina hip hop |
@@ -407,6 +406,7 @@
 | 4 | [hollywood](../../genres/hollywood.md) |
 | 4 | hip pop |
 | 4 | europop |
+| 4 | electro house |
 | 4 | canadian contemporary r&b |
 | 3 | viral rap |
 | 3 | progressive house |

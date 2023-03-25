@@ -209,7 +209,7 @@
 | Number of Tracks | Genre |
 |---:|:---|
 | 27 | [pop](../../genres/pop.md) |
-| 16 | [rock](../../genres/rock.md) |
+| 17 | [rock](../../genres/rock.md) |
 | 14 | [classic rock](../../genres/classic_rock.md) |
 | 13 | [neo mellow](../../genres/neo_mellow.md) |
 | 10 | [pop rock](../../genres/pop_rock.md) |
@@ -223,7 +223,7 @@
 | 6 | [hollywood](../../genres/hollywood.md) |
 | 6 | [adult standards](../../genres/adult_standards.md) |
 | 5 | [singer-songwriter](../../genres/singer_songwriter.md) |
-| 5 | [psychedelic rock](../../genres/psychedelic_rock.md) |
+| 5 | psychedelic rock |
 | 5 | merseybeat |
 | 5 | british invasion |
 | 5 | beatlesque |
@@ -231,6 +231,7 @@
 | 4 | permanent wave |
 | 4 | lounge |
 | 4 | glam rock |
+| 3 | motown |
 | 3 | canadian pop |
 | 3 | australian pop |
 | 2 | viral pop |
@@ -240,7 +241,6 @@
 | 2 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 2 | pop soul |
 | 2 | new americana |
-| 2 | motown |
 | 2 | modern rock |
 | 2 | modern alternative rock |
 | 2 | melancholia |

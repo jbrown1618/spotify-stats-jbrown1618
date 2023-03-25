@@ -155,9 +155,9 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 38 | [movie tunes](../../genres/movie_tunes.md) |
+| 40 | [movie tunes](../../genres/movie_tunes.md) |
 | 22 | [hollywood](../../genres/hollywood.md) |
-| 13 | [show tunes](../../genres/show_tunes.md) |
+| 14 | [show tunes](../../genres/show_tunes.md) |
 | 5 | tagalog worship |
 | 2 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 2 | [dance pop](../../genres/dance_pop.md) |

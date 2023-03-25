@@ -356,8 +356,8 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 650 | [k-pop](../../genres/k_pop.md) |
-| 377 | [pop](../../genres/pop.md) |
+| 648 | [k-pop](../../genres/k_pop.md) |
+| 378 | [pop](../../genres/pop.md) |
 | 302 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 166 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
 | 162 | [dance pop](../../genres/dance_pop.md) |
@@ -376,8 +376,8 @@
 | 33 | [folk rock](../../genres/folk_rock.md) |
 | 32 | [soft rock](../../genres/soft_rock.md) |
 | 32 | korean r&b |
-| 30 | [psychedelic rock](../../genres/psychedelic_rock.md) |
 | 30 | british invasion |
+| 28 | psychedelic rock |
 | 25 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 25 | piano rock |
 | 24 | permanent wave |
@@ -418,7 +418,6 @@
 | 9 | tropical house |
 | 9 | lounge |
 | 9 | bergen indie |
-| 9 | anti-folk |
 | 8 | viral pop |
 | 8 | pop dance |
 | 8 | latin pop |
@@ -427,6 +426,7 @@
 | 8 | escape room |
 | 8 | blues rock |
 | 8 | australian dance |
+| 7 | motown |
 | 7 | korean city pop |
 | 7 | kawaii metal |
 | 7 | j-metal |
@@ -442,7 +442,6 @@
 | 7 | alternative r&b |
 | 6 | stomp and holler |
 | 6 | pop soul |
-| 6 | motown |
 | 6 | modern alternative rock |
 | 6 | la indie |
 | 6 | hip pop |
@@ -453,9 +452,10 @@
 | 5 | talent show |
 | 5 | jazz pop |
 | 5 | indietronica |
+| 5 | indie poptimism |
 | 5 | girl group |
+| 5 | anti-folk |
 | 5 | afrofuturism |
-| 4 | yacht rock |
 
 </details>
 

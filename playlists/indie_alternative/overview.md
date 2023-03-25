@@ -335,12 +335,12 @@
 | 14 | indie rock |
 | 12 | metropopolis |
 | 11 | australian pop |
-| 11 | anti-folk |
 | 10 | [pop rock](../../genres/pop_rock.md) |
 | 9 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 9 | etherpop |
 | 8 | nyc pop |
 | 8 | australian dance |
+| 7 | anti-folk |
 | 6 | [neo mellow](../../genres/neo_mellow.md) |
 | 6 | la indie |
 | 5 | uk funky |
@@ -373,6 +373,7 @@
 | 2 | pop emo |
 | 2 | pixie |
 | 2 | irish singer-songwriter |
+| 2 | indie poptimism |
 | 2 | gauze pop |
 | 2 | chamber pop |
 | 2 | celtic rock |
@@ -407,7 +408,6 @@
 | 1 | industrial metal |
 | 1 | industrial |
 | 1 | indie rock italiano |
-| 1 | indie poptimism |
 | 1 | grunge |
 | 1 | folk-pop |
 | 1 | elephant 6 |

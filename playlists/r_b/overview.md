@@ -236,9 +236,9 @@
 | 12 | neo soul |
 | 11 | barbadian pop |
 | 10 | atl hip hop |
+| 9 | motown |
 | 9 | funk |
 | 8 | [post-teen pop](../../genres/post_teen_pop.md) |
-| 8 | motown |
 | 6 | pop rap |
 | 6 | escape room |
 | 6 | edm |

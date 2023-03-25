@@ -176,8 +176,8 @@
 |---:|:---|
 | 90 | [rock](../../genres/rock.md) |
 | 85 | [classic rock](../../genres/classic_rock.md) |
-| 41 | [psychedelic rock](../../genres/psychedelic_rock.md) |
 | 39 | british invasion |
+| 37 | psychedelic rock |
 | 34 | album rock |
 | 33 | beatlesque |
 | 31 | merseybeat |

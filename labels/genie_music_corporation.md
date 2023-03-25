@@ -170,7 +170,7 @@ Appears as:
 | 9 | [pop](../genres/pop.md) |
 | 8 | [k-pop boy group](../genres/k_pop_boy_group.md) |
 | 7 | [korean pop](../genres/korean_pop.md) |
-| 4 | k-rap |
+| 6 | k-rap |
 | 3 | korean ost |
 | 1 | korean trap |
 | 1 | classic k-pop |

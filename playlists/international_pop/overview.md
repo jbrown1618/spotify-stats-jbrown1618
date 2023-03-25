@@ -311,7 +311,7 @@
 
 
 <details>
-<summary>See all 97 genres</summary>
+<summary>See all 98 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -336,6 +336,7 @@
 | 4 | j-idol |
 | 4 | israeli pop |
 | 4 | indonesian r&b |
+| 4 | indonesian indie |
 | 4 | c-pop |
 | 3 | urbano latino |
 | 3 | taiwan singer-songwriter |

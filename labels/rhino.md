@@ -70,7 +70,7 @@ Appears as:
 
 
 <details>
-<summary>See all 34 genres</summary>
+<summary>See all 33 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -84,7 +84,6 @@ Appears as:
 | 8 | canadian singer-songwriter |
 | 7 | yacht rock |
 | 7 | [mellow gold](../genres/mellow_gold.md) |
-| 3 | [psychedelic rock](../genres/psychedelic_rock.md) |
 | 3 | metal |
 | 3 | hard rock |
 | 3 | country rock |

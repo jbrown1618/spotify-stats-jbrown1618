@@ -1,6 +1,6 @@
 # k-pop
 
-[885 songs](k_pop_tracks.md)
+[882 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -22,7 +22,7 @@
 | 28 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 | 27 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | [IU](../artists/iu.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | 26 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
-| 21 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../artists/mamamoo.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
+| 20 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../artists/mamamoo.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
 | 19 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../artists/leehi.md) | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 | 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="" width="50" /> | [SEVENTEEN](../artists/seventeen.md) | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
 | 15 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | [Girls' Generation](../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
@@ -248,7 +248,7 @@
 | 56 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
 | 37 | [BIGHIT MUSIC](../labels/bighit_music.md) |
 | 34 | [Universal Music LLC](../labels/universal_music_llc.md) |
-| 34 | [RBW Inc.](../labels/rbw_inc_.md) |
+| 33 | [RBW Inc.](../labels/rbw_inc_.md) |
 | 33 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md) |
 | 31 | [Interscope Records](../labels/interscope_records.md) |
 | 19 | [PLEDIS Entertainment](../labels/pledis_entertainment.md) |
@@ -302,7 +302,6 @@
 | 2 | FNC인베스트먼트 |
 | 2 | Cre.ker Entertainment |
 | 2 | BIGPLANETMADE |
-| 2 | ATTRAKT |
 | 2 | ATISPAUS |
 | 2 | AOMG |
 | 2 | ALLART ENTERTAINMENT |
@@ -341,6 +340,7 @@
 | 1 | Imperial Distribution |
 | 1 | IST ENTERTAINMENT |
 | 1 | IOK x Transparent Arts |
+| 1 | HAPPYTRIBE ENTERTAINMENT |
 
 </details>
 

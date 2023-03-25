@@ -141,8 +141,8 @@ Appears as:
 | 10 | korean r&b |
 | 9 | [pop](../genres/pop.md) |
 | 7 | [k-pop boy group](../genres/k_pop_boy_group.md) |
+| 5 | k-rap |
 | 4 | [korean pop](../genres/korean_pop.md) |
-| 3 | k-rap |
 | 2 | korean ost |
 | 1 | k-pop reality show |
 | 1 | anime |

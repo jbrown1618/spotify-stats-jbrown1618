@@ -27,7 +27,7 @@ Appears as:
 | 16 | <img src="https://i.scdn.co/image/d5c6af18beb1411ab49c2976647e0d370bf66a88" alt="" width="50" /> | [Johannes Brahms](../artists/johannes_brahms.md) | [🔗](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq) |
 | 16 | <img src="https://i.scdn.co/image/ab6761610000e5eb016cb2454e3aa43206ae5425" alt="" width="50" /> | [Emerson String Quartet](../artists/emerson_string_quartet.md) | [🔗](https://open.spotify.com/artist/4IBl8k6ZsBagsI5zRjyXH7) |
 | 16 | <img src="https://i.scdn.co/image/20b923e03dd0fb8cd20fb93559b9ed9a0e7aefbc" alt="" width="50" /> | [Modest Mussorgsky](../artists/modest_mussorgsky.md) | [🔗](https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl) |
-| 7 | <img src="nan" alt="" width="50" /> | Orchestre de l’Opéra national de Paris | [🔗](https://open.spotify.com/artist/6qe7dVv9gojPhhrZDL1TUS) |
+| 7 | <img src="https://i.scdn.co/image/ab67616d0000b2733620c09ca7ca202e676b783b" alt="" width="50" /> | Orchestre de l’Opéra national de Paris | [🔗](https://open.spotify.com/artist/6qe7dVv9gojPhhrZDL1TUS) |
 | 7 | <img src="https://i.scdn.co/image/ef09684355a52775e8ff4c9fc2d9fc35714e264a" alt="" width="50" /> | Gustav Holst | [🔗](https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ) |
 | 7 | <img src="https://i.scdn.co/image/f4b67441af1209f35f44684e0e7e623da5550f4f" alt="" width="50" /> | Myung-Whun Chung | [🔗](https://open.spotify.com/artist/4hdiwtmc6OEFFxpSlwwmby) |
 | 5 | <img src="https://i.scdn.co/image/592ddf9d4d2154cd3256c6e69171d5371fca8f0c" alt="" width="50" /> | Béla Bartók | [🔗](https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd) |
