@@ -318,7 +318,7 @@
 | 65 | [pop](../../genres/pop.md) |
 | 29 | [rock](../../genres/rock.md) |
 | 26 | indie pop |
-| 25 | [electropop](../../genres/electropop.md) |
+| 24 | [electropop](../../genres/electropop.md) |
 | 23 | [art pop](../../genres/art_pop.md) |
 | 22 | permanent wave |
 | 21 | [dance pop](../../genres/dance_pop.md) |

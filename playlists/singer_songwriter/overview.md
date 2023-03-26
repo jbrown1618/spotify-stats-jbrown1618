@@ -208,8 +208,8 @@
 |---:|:---|
 | 141 | [pop](../../genres/pop.md) |
 | 81 | [acoustic pop](../../genres/acoustic_pop.md) |
-| 79 | [lilith](../../genres/lilith.md) |
-| 72 | [neo mellow](../../genres/neo_mellow.md) |
+| 79 | [neo mellow](../../genres/neo_mellow.md) |
+| 78 | [lilith](../../genres/lilith.md) |
 | 61 | [pop rock](../../genres/pop_rock.md) |
 | 59 | [hollywood](../../genres/hollywood.md) |
 | 35 | piano rock |
@@ -238,6 +238,7 @@
 | 2 | chamber pop |
 | 2 | brill building pop |
 | 2 | [adult standards](../../genres/adult_standards.md) |
+| 1 | urban contemporary |
 | 1 | uk pop |
 | 1 | [r&b](../../genres/r_b.md) |
 | 1 | pop soul |
@@ -246,7 +247,6 @@
 | 1 | modern folk rock |
 | 1 | irish pop |
 | 1 | indie soul |
-| 1 | indie folk |
 | 1 | funk |
 | 1 | europop |
 | 1 | dark pop |

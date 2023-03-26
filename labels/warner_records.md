@@ -111,7 +111,7 @@ Appears as:
 
 
 <details>
-<summary>See all 46 genres</summary>
+<summary>See all 47 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -154,6 +154,7 @@ Appears as:
 | 1 | trap |
 | 1 | southern hip hop |
 | 1 | rap |
+| 1 | [psychedelic rock](../genres/psychedelic_rock.md) |
 | 1 | new wave pop |
 | 1 | [hollywood](../genres/hollywood.md) |
 | 1 | gangster rap |

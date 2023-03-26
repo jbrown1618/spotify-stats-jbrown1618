@@ -226,15 +226,15 @@
 | 4 | [r&b](../../genres/r_b.md) |
 | 4 | new americana |
 | 4 | [mellow gold](../../genres/mellow_gold.md) |
-| 4 | indie folk |
 | 4 | [folk rock](../../genres/folk_rock.md) |
 | 3 | stomp and holler |
 | 3 | [soft rock](../../genres/soft_rock.md) |
-| 3 | psychedelic rock |
+| 3 | [psychedelic rock](../../genres/psychedelic_rock.md) |
 | 3 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 3 | pop soul |
 | 3 | neo soul |
 | 3 | merseybeat |
+| 3 | indie folk |
 | 3 | folk |
 | 3 | british soul |
 | 3 | british invasion |
@@ -249,7 +249,6 @@
 | 2 | permanent wave |
 | 2 | motown |
 | 2 | modern folk rock |
-| 2 | [lilith](../../genres/lilith.md) |
 | 2 | indiecoustica |
 | 2 | funk |
 | 2 | country dawn |
@@ -275,6 +274,7 @@
 | 1 | melancholia |
 | 1 | mandolin |
 | 1 | lounge |
+| 1 | [lilith](../../genres/lilith.md) |
 | 1 | latin pop |
 | 1 | lafayette indie |
 | 1 | irish rock |

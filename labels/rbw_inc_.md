@@ -27,7 +27,7 @@ Appears as:
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbb19ac3f264dea7cea4c42b" alt="" width="50" /> | Whee In | [🔗](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733accfe72fd85d00c777096c8" alt="" width="50" /> | WOOGIE | [🔗](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) |
 | 1 | <img src="https://i.scdn.co/image/ab6772690000c46cc8a347829c638ae6bbdb8434" alt="" width="50" /> | ONEWE | [🔗](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273cc6e774a27ff66cb6df41ca3" alt="" width="50" /> | MAMAMOO+ | [🔗](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b340a42339013f53b03e4f2e" alt="" width="50" /> | MAMAMOO+ | [🔗](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbca2e91d07d2c53e6610570" alt="" width="50" /> | Seori | [🔗](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebde8ad216e0ff7a76573c835e" alt="" width="50" /> | [SEULGI](../artists/seulgi.md) | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
 
@@ -116,7 +116,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273ae843591bcdace9489c86fb0" alt="" width="50" /> | Where Are We Now | WAW | [MAMAMOO](../artists/mamamoo.md) | [RBW Inc.](rbw_inc_.md) | 💚 | [🔗](https://open.spotify.com/track/0cLXk75Pan3mhRlWqHiynh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27322f0e32bfb91476f0ad96656" alt="" width="50" /> | 1,2,3 Eoi! | MIC ON | [MAMAMOO](../artists/mamamoo.md) | [RBW Inc.](rbw_inc_.md) | 💚 | [🔗](https://open.spotify.com/track/1uYgNXNnBTQnboOwlYBLd1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27322f0e32bfb91476f0ad96656" alt="" width="50" /> | ILLELLA | MIC ON | [MAMAMOO](../artists/mamamoo.md) | [RBW Inc.](rbw_inc_.md) | | [🔗](https://open.spotify.com/track/0oeVHAgY8Q7Mdce5Quj2G4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273535b2adb67fb62d74c6f3f63" alt="" width="50" /> | Chico malo | Chico malo | MAMAMOO+ | [RBW Inc.](rbw_inc_.md) | | [🔗](https://open.spotify.com/track/7kDmaRZ2kbxqcsJrynRR8i) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273535b2adb67fb62d74c6f3f63" alt="" width="50" /> | Chico malo | Chico malo | MAMAMOO+ | [RBW Inc.](rbw_inc_.md) | 💚 | [🔗](https://open.spotify.com/track/7kDmaRZ2kbxqcsJrynRR8i) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273294c757e724cc58bbbd29287" alt="" width="50" /> | SELFISH (Feat. SEULGI Of Red Velvet) | SELFISH | Moon Byul, [SEULGI](../artists/seulgi.md) | [RBW, Inc](rbw_inc_.md) | | [🔗](https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273498f71db374f1a18ac831412" alt="" width="50" /> | Shutdown (Feat.Seori) | Shutdown (Feat. Seori) | Moon Byul, Seori | [RBW Inc.](rbw_inc_.md) | 💚 | [🔗](https://open.spotify.com/track/69790X4RDQIKwcxltIMHvU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733618088cfcd2a966a61937cb" alt="" width="50" /> | LUNATIC | 6equence | Moon Byul | [RBW Inc.](rbw_inc_.md) | 💚 | [🔗](https://open.spotify.com/track/3hicr5nSY0RrKGEy3nYZwU) |

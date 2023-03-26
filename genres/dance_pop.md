@@ -1,6 +1,6 @@
 # dance pop
 
-[242 songs](dance_pop_tracks.md)
+[243 songs](dance_pop_tracks.md)
 
 ## Top Artists
 
@@ -237,7 +237,7 @@
 
 
 <details>
-<summary>See all 77 labels</summary>
+<summary>See all 78 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -299,6 +299,7 @@
 | 1 | Fueled By Ramen |
 | 1 | FSF |
 | 1 | Epic Amsterdam |
+| 1 | Elektra (NEK) |
 | 1 | EMPIRE |
 | 1 | EMI Recorded Music Australia Pty Ltd |
 | 1 | Disruptor Records |

@@ -204,7 +204,7 @@
 
 
 <details>
-<summary>See all 84 genres</summary>
+<summary>See all 83 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -223,7 +223,7 @@
 | 6 | [hollywood](../../genres/hollywood.md) |
 | 6 | [adult standards](../../genres/adult_standards.md) |
 | 5 | [singer-songwriter](../../genres/singer_songwriter.md) |
-| 5 | psychedelic rock |
+| 5 | [psychedelic rock](../../genres/psychedelic_rock.md) |
 | 5 | merseybeat |
 | 5 | british invasion |
 | 5 | beatlesque |
@@ -231,7 +231,6 @@
 | 4 | permanent wave |
 | 4 | lounge |
 | 4 | glam rock |
-| 3 | motown |
 | 3 | canadian pop |
 | 3 | australian pop |
 | 2 | viral pop |
@@ -241,6 +240,7 @@
 | 2 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 2 | pop soul |
 | 2 | new americana |
+| 2 | motown |
 | 2 | modern rock |
 | 2 | modern alternative rock |
 | 2 | melancholia |
@@ -249,7 +249,6 @@
 | 2 | indie folk |
 | 2 | funk |
 | 2 | folk |
-| 2 | [electropop](../../genres/electropop.md) |
 | 2 | easy listening |
 | 2 | british soul |
 | 2 | atl hip hop |
@@ -276,7 +275,7 @@
 | 1 | indie poptimism |
 | 1 | indie pop |
 | 1 | heartland rock |
-| 1 | escape room |
+| 1 | [electropop](../../genres/electropop.md) |
 | 1 | disco |
 | 1 | country rock |
 | 1 | comic |

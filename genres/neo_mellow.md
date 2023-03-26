@@ -1,20 +1,21 @@
 # neo mellow
 
-[90 songs](neo_mellow_tracks.md)
+[97 songs](neo_mellow_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 22 artists](../images/genres/neo_mellow/artists.png)
+![Bar chart of top 23 artists](../images/genres/neo_mellow/artists.png)
 
 ![Comparison of Artist](../images/genres/neo_mellow/artists_comparison.png)
 
 
 <details>
-<summary>See all 22 artists</summary>
+<summary>See all 23 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
 | 59 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../artists/sara_bareilles.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
+| 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb271320bcc15789b23aa83a44" alt="" width="50" /> | Erin McCarley | [🔗](https://open.spotify.com/artist/6Y4bCmUNPDKqc7dHkVvgim) |
 | 7 | <img src="https://i.scdn.co/image/15b7ee7550ed4472700d573803ff90f2967f84d1" alt="" width="50" /> | A Fine Frenzy | [🔗](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8457f57bc526c37bd804b924" alt="" width="50" /> | KT Tunstall | [🔗](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebaed3c717bf1753ab928ea88d" alt="" width="50" /> | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
@@ -41,11 +42,11 @@
 
 ## Top Albums
 
-![Bar chart of top 29 albums](../images/genres/neo_mellow/albums.png)
+![Bar chart of top 30 albums](../images/genres/neo_mellow/albums.png)
 
 
 <details>
-<summary>See all 29 albums</summary>
+<summary>See all 30 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -53,6 +54,7 @@
 | 12 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | The Blessed Unrest | 2013-07-16 | [🔗](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) |
 | 12 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Little Voice | 2007-07-03 | [🔗](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) |
 | 10 | <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | Amidst the Chaos (Bonus Version) | 2019-05-10 | [🔗](https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm) |
+| 7 | <img src="https://i.scdn.co/image/ab67616d0000b2734280a158a96c9b0274eb7e99" alt="" width="50" /> | Love, Save The Empty | 2009 | [🔗](https://open.spotify.com/album/1tF7625TFqvfzMbappj1pQ) |
 | 6 | <img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="" width="50" /> | What's Inside: Songs from Waitress | 2015-11-06 | [🔗](https://open.spotify.com/album/1s6codM2ZAB008t9GTyaEk) |
 | 5 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | Once Upon Another Time | 2012-05-22 | [🔗](https://open.spotify.com/album/1PrqYZJRzGNf8AsSOraxnZ) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273119ad2ebc0d33edf847ed8c6" alt="" width="50" /> | One Cell In The Sea | 2007 | [🔗](https://open.spotify.com/album/0Ot7MEgreG2R93aN42M9iK) |
@@ -84,16 +86,17 @@
 
 ## Top Record Labels
 
-![Bar chart of top 16 record labels](../images/genres/neo_mellow/labels.png)
+![Bar chart of top 17 record labels](../images/genres/neo_mellow/labels.png)
 
 
 <details>
-<summary>See all 16 labels</summary>
+<summary>See all 17 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
 | 62 | [Epic](../labels/epic.md) |
 | 10 | [Virgin Records](../labels/virgin_records.md) |
+| 7 | Universal (MT) |
 | 4 | [Columbia](../labels/columbia.md) |
 | 3 | Relentless |
 | 3 | [Atlantic Records](../labels/atlantic_records.md) |
@@ -129,29 +132,29 @@
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| Bad Idea (feat. Jason Mraz) (0.889) | Kaleidoscope Heart (0.0516) |
-| Green Light (feat. André 3000) (0.882) | Mad World (0.0585) |
-| Morningside (0.88) | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 (0.114) |
-| Let The Rain (0.873) | Say Something (0.147) |
-| Fairytale (0.857) | Manhattan (0.168) |
-| Brave (0.836) | Bright Lights and Cityscapes (0.184) |
-| Industry (0.831) | Poison & Wine (0.186) |
-| Love On the Rocks (0.819) | Bluebird (0.203) |
-| Come Round Soon (0.819) | Once Upon Another Time (0.216) |
-| One Sweet Love (0.812) | Just The Way You Are (0.218) |
+| Hello/Goodbye (0.893) | Kaleidoscope Heart (0.0516) |
+| Bad Idea (feat. Jason Mraz) (0.889) | Mad World (0.0585) |
+| Green Light (feat. André 3000) (0.882) | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 (0.114) |
+| Morningside (0.88) | Say Something (0.147) |
+| SleepWalking (0.874) | Manhattan (0.168) |
+| Let The Rain (0.873) | Bright Lights and Cityscapes (0.184) |
+| Love, Save The Empty (0.865) | Poison & Wine (0.186) |
+| Bobble Head (0.862) | Bluebird (0.203) |
+| Fairytale (0.857) | Once Upon Another Time (0.216) |
+| Brave (0.836) | Just The Way You Are (0.218) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Home (0.128) | Satellite Call (0.0241) |
 | Electric Twist (0.125) | Breakeven (0.0242) |
 | Green Light (feat. André 3000) (0.119) | Whisper (0.0252) |
-| Opening Up (0.0936) | Machine Gun (0.0268) |
-| Kaleidoscope Heart (0.0927) | Orpheus (0.0269) |
-| Come Round Soon (0.0776) | Chasing Cars (0.0274) |
-| Bad Idea (feat. Jason Mraz) (0.0704) | Sweet As Whole (0.0275) |
-| Black Horse And The Cherry Tree (0.0641) | Breathe Again (0.0278) |
-| Fire (0.057) | The Man Who Can't Be Moved (0.0279) |
-| Eden (0.0562) | Islands (0.0284) |
+| Opening Up (0.0936) | Pitter-Pat (0.0256) |
+| Kaleidoscope Heart (0.0927) | Machine Gun (0.0268) |
+| Come Round Soon (0.0776) | Orpheus (0.0269) |
+| Bad Idea (feat. Jason Mraz) (0.0704) | Chasing Cars (0.0274) |
+| Black Horse And The Cherry Tree (0.0641) | Sweet As Whole (0.0275) |
+| Fire (0.057) | Breathe Again (0.0278) |
+| Eden (0.0562) | The Man Who Can't Be Moved (0.0279) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -163,8 +166,8 @@
 | Bluebird (0.933) | Wicked Love (0.0178) |
 | All of Me (0.922) | Gonna Get Over You (0.0199) |
 | What's Inside (0.919) | Love Song (0.0208) |
-| Just The Way You Are (0.906) | Let The Rain (0.023) |
-| Once Upon Another Time (0.896) | Say You're Sorry (0.0253) |
+| Just The Way You Are (0.906) | It's Not That Easy (0.0225) |
+| Once Upon Another Time (0.896) | Let The Rain (0.023) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
@@ -188,9 +191,9 @@
 | Fire (0.363) | Chasing The Sun (0.0497) |
 | Black Horse And The Cherry Tree (0.34) | King of Anything (0.0574) |
 | Let The Rain (0.297) | The Light (0.0691) |
-| Not Alone (0.256) | Islands (0.0699) |
-| If I Can't Have You (0.254) | Blow Away (0.0701) |
-| Once Upon Another Time (0.231) | Whisper (0.0708) |
+| It's Not That Easy (0.274) | Islands (0.0699) |
+| Pitter-Pat (0.263) | Blow Away (0.0701) |
+| SleepWalking (0.26) | Whisper (0.0708) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
