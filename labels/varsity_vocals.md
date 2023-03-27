@@ -114,7 +114,7 @@ Appears as:
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 45 | [a cappella](../genres/a_cappella.md) |
+| 44 | [a cappella](../genres/a_cappella.md) |
 | 36 | [college a cappella](../genres/college_a_cappella.md) |
 | 2 | christian a cappella |
 | 1 | lds youth |

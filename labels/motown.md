@@ -62,7 +62,7 @@ Appears as:
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 12 | motown |
+| 13 | motown |
 | 10 | soul |
 | 10 | funk |
 | 8 | [adult standards](../genres/adult_standards.md) |

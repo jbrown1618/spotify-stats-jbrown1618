@@ -394,7 +394,6 @@
 | 1 | nu jazz |
 | 1 | new rave |
 | 1 | neo-synthpop |
-| 1 | neo soul |
 | 1 | lo-fi |
 | 1 | korean indie rock |
 | 1 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
@@ -410,6 +409,7 @@
 | 1 | indie rock italiano |
 | 1 | grunge |
 | 1 | folk-pop |
+| 1 | escape room |
 | 1 | elephant 6 |
 | 1 | electronic rock |
 | 1 | dutch pop |

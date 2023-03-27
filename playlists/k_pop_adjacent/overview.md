@@ -216,7 +216,6 @@
 | 2 | korean indie rock |
 | 2 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 2 | indie r&b |
-| 2 | [electropop](../../genres/electropop.md) |
 | 2 | danish pop |
 | 1 | viral pop |
 | 1 | video game music |
@@ -242,6 +241,7 @@
 | 1 | indie rock italiano |
 | 1 | girl group |
 | 1 | german techno |
+| 1 | [electropop](../../genres/electropop.md) |
 | 1 | electronic trap |
 | 1 | electro house |
 | 1 | dfw rap |

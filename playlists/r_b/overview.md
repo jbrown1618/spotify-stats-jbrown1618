@@ -236,10 +236,11 @@
 | 12 | neo soul |
 | 11 | barbadian pop |
 | 10 | atl hip hop |
+| 9 | motown |
 | 9 | funk |
 | 8 | [post-teen pop](../../genres/post_teen_pop.md) |
-| 8 | motown |
 | 6 | pop rap |
+| 6 | escape room |
 | 6 | edm |
 | 6 | alternative r&b |
 | 6 | [adult standards](../../genres/adult_standards.md) |
@@ -271,7 +272,6 @@
 | 1 | jazz blues |
 | 1 | hip hop |
 | 1 | girl group |
-| 1 | escape room |
 | 1 | disco |
 | 1 | canadian pop |
 | 1 | bubblegum pop |

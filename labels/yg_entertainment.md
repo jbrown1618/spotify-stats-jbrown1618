@@ -99,7 +99,7 @@ Appears as:
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 63 | [k-pop](../genres/k_pop.md) |
+| 69 | [k-pop](../genres/k_pop.md) |
 | 29 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 | 10 | [pop](../genres/pop.md) |
 | 8 | [k-pop boy group](../genres/k_pop_boy_group.md) |

@@ -19,7 +19,7 @@
 | 19 | <img src="https://i.scdn.co/image/ab6761610000e5ebf67fde1740e91a88445d5bdd" alt="" width="50" /> | [Herbert von Karajan](../artists/herbert_von_karajan.md) | [🔗](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) |
 | 18 | <img src="https://i.scdn.co/image/ab6761610000e5eb0065f11220ca4bb030bffb72" alt="" width="50" /> | [Mariinsky Orchestra](../artists/mariinsky_orchestra.md) | [🔗](https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6) |
 | 18 | <img src="https://i.scdn.co/image/ab6761610000e5eb85c25fffeaf7a209268e9372" alt="" width="50" /> | [Valery Gergiev](../artists/valery_gergiev.md) | [🔗](https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2) |
-| 8 | <img src="https://i.scdn.co/image/ab67616d0000b273ef6ade77ecb281866bf36598" alt="" width="50" /> | Kühn Mixed Choir | [🔗](https://open.spotify.com/artist/7coad48I6XW2msLS0ms53T) |
+| 8 | <img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="" width="50" /> | Kühn Mixed Choir | [🔗](https://open.spotify.com/artist/7coad48I6XW2msLS0ms53T) |
 | 8 | <img src="https://i.scdn.co/image/fde9f1407c45f7ff7e6fa92d70b259de19705c09" alt="" width="50" /> | Pavel Kühn | [🔗](https://open.spotify.com/artist/7bzLxD5IZSXMmuuqnZ7MfY) |
 | 8 | <img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="" width="50" /> | Vlasta Mlejnková | [🔗](https://open.spotify.com/artist/775Rkua0PHENjo1sFIyApV) |
 | 8 | <img src="https://i.scdn.co/image/017bf244ebfd64277d6ae3b4f2c817884aa96f1a" alt="" width="50" /> | Francis Poulenc | [🔗](https://open.spotify.com/artist/4IAWVxo2fpTBPn6k7GZ3eY) |

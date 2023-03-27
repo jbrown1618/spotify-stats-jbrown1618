@@ -35,7 +35,7 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1dc61a0a0612dff3df110ce2" alt="" width="50" /> | Janelle Monáe | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb15a85a7957cac2c370e713ab" alt="" width="50" /> | Kid Ink | [🔗](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb46416642da7b30327821d26e" alt="" width="50" /> | A Great Big World | [🔗](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb45b242f20217176f7e83857b" alt="" width="50" /> | Alejandro Sanz | [🔗](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb84505d89ff27a88fca05f56d" alt="" width="50" /> | Alejandro Sanz | [🔗](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | Young Thug | [🔗](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ace68c56849548db7f102be" alt="" width="50" /> | DaBaby | [🔗](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | Jason Mraz | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
@@ -94,7 +94,7 @@ Appears as:
 
 
 <details>
-<summary>See all 39 genres</summary>
+<summary>See all 40 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -132,6 +132,7 @@ Appears as:
 | 1 | piano rock |
 | 1 | new wave pop |
 | 1 | neo soul |
+| 1 | escape room |
 | 1 | [electropop](../genres/electropop.md) |
 | 1 | canadian pop |
 | 1 | atl hip hop |

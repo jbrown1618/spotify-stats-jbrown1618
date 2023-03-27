@@ -51,7 +51,7 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/184674b36baa9cc7f0048502e78ce615a35ba08f" alt="" width="50" /> | Diddy - Dirty Money | [🔗](https://open.spotify.com/artist/2QYEvpsWUOjqaYuxDPTCmV) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc2c8185fc0902b43e35f671f" alt="" width="50" /> | JENNIE | [🔗](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | Justin Bieber | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc04289f84778ad850cfcddca" alt="" width="50" /> | Jimin | [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb59f8cfc8e71dcaf8c6ec4bde" alt="" width="50" /> | Jimin | [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2657bcafcb300d90816523f" alt="" width="50" /> | Kehlani | [🔗](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eba5205abffd84341e5bace828" alt="" width="50" /> | Selena Gomez | [🔗](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) |
 
@@ -119,8 +119,8 @@ Appears as:
 | 31 | [k-pop](../genres/k_pop.md) |
 | 23 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 | 22 | [art pop](../genres/art_pop.md) |
-| 12 | [electropop](../genres/electropop.md) |
 | 12 | [dance pop](../genres/dance_pop.md) |
+| 11 | [electropop](../genres/electropop.md) |
 | 2 | [rock](../genres/rock.md) |
 | 2 | pop rap |
 | 2 | piano rock |

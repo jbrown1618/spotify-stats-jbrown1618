@@ -74,7 +74,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737649604d1b27be1c78c466e9" alt="" width="50" /> | Tell Mama | 1968-04-18 | [🔗](https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27350bb7ca1fe7e98df87ce41d9" alt="" width="50" /> | Strangers In The Night (Expanded Edition) | 1966-05 | [🔗](https://open.spotify.com/album/1kyb5tomEXcA106V57puFW) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50" alt="" width="50" /> | Songs In The Key Of Life | 1976-09-28 | [🔗](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b9ea1c69fe9efbdc2df85a95" alt="" width="50" /> | Songs For Swingin' Lovers! (Remastered) | 1956-03 | [🔗](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="" width="50" /> | Songs For Swingin' Lovers! (Remastered) | 1956-03 | [🔗](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="" width="50" /> | Sinatra/Basie: The Complete Reprise Studio Recordings | 1962-12-10 | [🔗](https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273c5e9e847ca9c0982b4c91d4b" alt="" width="50" /> | Signed, Sealed And Delivered | 1970-08-07 | [🔗](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733f03db3f454ff7b2c3b4fe62" alt="" width="50" /> | Romance | 2021-02-12 | [🔗](https://open.spotify.com/album/5MuNxtOyex8o77Qdjaqeng) |

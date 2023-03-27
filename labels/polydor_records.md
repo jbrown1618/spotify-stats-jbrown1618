@@ -92,7 +92,7 @@ Appears as:
 
 
 <details>
-<summary>See all 40 genres</summary>
+<summary>See all 39 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -107,9 +107,8 @@ Appears as:
 | 5 | indietronica |
 | 4 | metropopolis |
 | 4 | [hollywood](../genres/hollywood.md) |
-| 4 | [electropop](../genres/electropop.md) |
-| 3 | [rock](../genres/rock.md) |
 | 2 | tropical house |
+| 2 | [rock](../genres/rock.md) |
 | 2 | [psychedelic rock](../genres/psychedelic_rock.md) |
 | 2 | pop dance |
 | 2 | [mellow gold](../genres/mellow_gold.md) |

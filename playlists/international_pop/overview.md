@@ -55,7 +55,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb76328e37a2c1280ab9adb90c" alt="" width="50" /> | Vishal Dadlani | [🔗](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfbe071f5bc42f38d3485a29a" alt="" width="50" /> | YOASOBI | [🔗](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbbde5038f6dd11a9bea4cd8" alt="" width="50" /> | Benny Dayal | [🔗](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb45b242f20217176f7e83857b" alt="" width="50" /> | Alejandro Sanz | [🔗](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb84505d89ff27a88fca05f56d" alt="" width="50" /> | Alejandro Sanz | [🔗](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb7b791269f85b4faaf2be90a" alt="" width="50" /> | THE TOYS | [🔗](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e6918865150085514ad2a3a" alt="" width="50" /> | Lowsheen | [🔗](https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5e22bd1057446fccb9fce27c" alt="" width="50" /> | Stromae | [🔗](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) |

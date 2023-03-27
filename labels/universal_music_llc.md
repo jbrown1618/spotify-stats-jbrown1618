@@ -104,11 +104,11 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 26 genres](../images/labels/universal_music_llc/genres.png)
+![Bar chart of top 25 genres](../images/labels/universal_music_llc/genres.png)
 
 
 <details>
-<summary>See all 26 genres</summary>
+<summary>See all 25 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -135,7 +135,6 @@ Appears as:
 | 1 | lounge |
 | 1 | japanese teen pop |
 | 1 | indietronica |
-| 1 | [electropop](../genres/electropop.md) |
 | 1 | edm |
 | 1 | [adult standards](../genres/adult_standards.md) |
 

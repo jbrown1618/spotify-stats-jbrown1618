@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1492 songs](tracks.md)
+[1491 songs](tracks.md)
 
 ## Top Artists
 
@@ -56,7 +56,6 @@
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5ebec40474426f4401a4203dc9f" alt="" width="50" /> | Sia | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="" width="50" /> | [EXO](../../artists/exo.md) | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb64884416b862c19ec9a465d3" alt="" width="50" /> | [Billlie](../../artists/billlie.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
-| 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb04c88d140b3db4fa42ef84f2" alt="" width="50" /> | NMIXX | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb64aa2c83dd30331b56ffddf3" alt="" width="50" /> | NCT DREAM | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5ebc65d144f4f352b3cba7b13ea" alt="" width="50" /> | [WENDY](../../artists/wendy.md) | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb654972693e0efed3f3f4d090" alt="" width="50" /> | Jason Derulo | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
@@ -66,6 +65,7 @@
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb74700cf88c04af5201df7298" alt="" width="50" /> | AKMU | [🔗](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) |
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a669de19d4381073d85701a" alt="" width="50" /> | BABYMETAL | [🔗](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) |
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | Camila Cabello | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
+| 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb04c88d140b3db4fa42ef84f2" alt="" width="50" /> | NMIXX | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d874b307cb092e68db73207" alt="" width="50" /> | [NCT 127](../../artists/nct_127.md) | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8786ccb6031a3266bb15606" alt="" width="50" /> | WJSN | [🔗](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9996e5d7c5b769b2b26ff1a" alt="" width="50" /> | SUPER JUNIOR | [🔗](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) |
@@ -168,7 +168,6 @@
 | 5 | <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="" width="50" /> | DIMENSION : DILEMMA | 2021-10-12 | [🔗](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | ‘The ReVe Festival’ Finale | 2019-12-23 | [🔗](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273d2ef237da7f94762997c2083" alt="" width="50" /> | ‘The ReVe Festival 2022 - Birthday’ | 2022-11-28 | [🔗](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) |
-| 4 | <img src="https://i.scdn.co/image/ab67616d0000b273bbead884cd91c2a9b5b2a9fc" alt="" width="50" /> | expérgo | 2023-03-20 | [🔗](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b2738ea860a3e6904b875629d672" alt="" width="50" /> | YOUNG-LUV.COM | 2022-02-21 | [🔗](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="" width="50" /> | Twenty-Five Twenty-One OST | 2022-04-03 | [🔗](https://open.spotify.com/album/77NPr874WU941XZhjO43dR) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273754b2fddebe7039fdb912837" alt="" width="50" /> | This Is Acting (Deluxe Version) | 2016-10-21 | [🔗](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) |
@@ -188,6 +187,7 @@
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="" width="50" /> | ‘The ReVe Festival’ Day 1 | 2019-06-19 | [🔗](https://open.spotify.com/album/2nLEiP268mSFZHW5dajM4R) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b27337392cac38ca8efa2315b04e" alt="" width="50" /> | the collective soul and unconscious: chapter one | 2022-02-23 | [🔗](https://open.spotify.com/album/4ophrgcnwWi1I5nWYImyhw) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2734c5be128bd1b55bf36041574" alt="" width="50" /> | the Billage of perception : chapter one | 2021-11-10 | [🔗](https://open.spotify.com/album/1kp4txZsSpDNR4EoDFi2LD) |
+| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273bbead884cd91c2a9b5b2a9fc" alt="" width="50" /> | expérgo | 2023-03-20 | [🔗](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="" width="50" /> | Unapologetic (Deluxe) | 2012-12-11 | [🔗](https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | Thriller | 1982-11-30 | [🔗](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="" width="50" /> | The Red - The 1st Album | 2015-09-09 | [🔗](https://open.spotify.com/album/6YL9J0E6PGtYzkhyMxnmXd) |
@@ -257,7 +257,7 @@
 | 26 | [RBW Inc.](../../labels/rbw_inc_.md) |
 | 26 | [Atlantic Records](../../labels/atlantic_records.md) |
 | 24 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment.md) |
-| 22 | [JYP Entertainment](../../labels/jyp_entertainment.md) |
+| 21 | [JYP Entertainment](../../labels/jyp_entertainment.md) |
 | 21 | [EMI Catalogue](../../labels/emi_catalogue.md) |
 | 19 | [Big Machine Records](../../labels/big_machine_records.md) |
 | 18 | [Taylor Swift](../../labels/taylor_swift.md) |
@@ -356,14 +356,14 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 650 | [k-pop](../../genres/k_pop.md) |
-| 383 | [pop](../../genres/pop.md) |
-| 302 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
+| 654 | [k-pop](../../genres/k_pop.md) |
+| 382 | [pop](../../genres/pop.md) |
+| 301 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 166 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
-| 163 | [dance pop](../../genres/dance_pop.md) |
+| 162 | [dance pop](../../genres/dance_pop.md) |
 | 105 | [rock](../../genres/rock.md) |
 | 78 | [classic rock](../../genres/classic_rock.md) |
-| 62 | [neo mellow](../../genres/neo_mellow.md) |
+| 59 | [neo mellow](../../genres/neo_mellow.md) |
 | 59 | [lilith](../../genres/lilith.md) |
 | 55 | [acoustic pop](../../genres/acoustic_pop.md) |
 | 54 | [pop rock](../../genres/pop_rock.md) |
@@ -371,11 +371,11 @@
 | 43 | [hollywood](../../genres/hollywood.md) |
 | 42 | [mellow gold](../../genres/mellow_gold.md) |
 | 38 | [korean pop](../../genres/korean_pop.md) |
-| 37 | [electropop](../../genres/electropop.md) |
 | 35 | [art pop](../../genres/art_pop.md) |
 | 33 | [folk rock](../../genres/folk_rock.md) |
 | 32 | [soft rock](../../genres/soft_rock.md) |
 | 32 | korean r&b |
+| 32 | [electropop](../../genres/electropop.md) |
 | 30 | [psychedelic rock](../../genres/psychedelic_rock.md) |
 | 30 | british invasion |
 | 25 | [singer-songwriter](../../genres/singer_songwriter.md) |
@@ -417,6 +417,7 @@
 | 11 | indie rock |
 | 9 | tropical house |
 | 9 | lounge |
+| 9 | escape room |
 | 9 | bergen indie |
 | 8 | viral pop |
 | 8 | pop dance |
@@ -425,6 +426,7 @@
 | 8 | etherpop |
 | 8 | blues rock |
 | 8 | australian dance |
+| 7 | motown |
 | 7 | korean city pop |
 | 7 | kawaii metal |
 | 7 | j-metal |
@@ -440,7 +442,6 @@
 | 7 | alternative r&b |
 | 6 | stomp and holler |
 | 6 | pop soul |
-| 6 | motown |
 | 6 | modern alternative rock |
 | 6 | la indie |
 | 6 | hip pop |
@@ -455,7 +456,6 @@
 | 5 | girl group |
 | 5 | country rock |
 | 5 | anti-folk |
-| 5 | afrofuturism |
 
 </details>
 
@@ -470,7 +470,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| [2023](2023.md) | 41 |
+| [2023](2023.md) | 40 |
 | [2022](2022.md) | 239 |
 | [2021](2021.md) | 184 |
 | [2020](2020.md) | 134 |
