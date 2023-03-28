@@ -357,10 +357,10 @@
 | Number of Tracks | Genre |
 |---:|:---|
 | 654 | [k-pop](../../genres/k_pop.md) |
-| 382 | [pop](../../genres/pop.md) |
+| 378 | [pop](../../genres/pop.md) |
 | 301 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 166 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
-| 162 | [dance pop](../../genres/dance_pop.md) |
+| 163 | [dance pop](../../genres/dance_pop.md) |
 | 105 | [rock](../../genres/rock.md) |
 | 78 | [classic rock](../../genres/classic_rock.md) |
 | 59 | [neo mellow](../../genres/neo_mellow.md) |
@@ -371,13 +371,13 @@
 | 43 | [hollywood](../../genres/hollywood.md) |
 | 42 | [mellow gold](../../genres/mellow_gold.md) |
 | 38 | [korean pop](../../genres/korean_pop.md) |
-| 35 | [art pop](../../genres/art_pop.md) |
+| 34 | [art pop](../../genres/art_pop.md) |
 | 33 | [folk rock](../../genres/folk_rock.md) |
 | 32 | [soft rock](../../genres/soft_rock.md) |
 | 32 | korean r&b |
 | 32 | [electropop](../../genres/electropop.md) |
-| 30 | [psychedelic rock](../../genres/psychedelic_rock.md) |
 | 30 | british invasion |
+| 28 | psychedelic rock |
 | 25 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 25 | piano rock |
 | 24 | permanent wave |
@@ -390,7 +390,6 @@
 | 20 | modern rock |
 | 19 | uk pop |
 | 19 | melancholia |
-| 19 | edm |
 | 19 | anime |
 | 19 | album rock |
 | 19 | [adult standards](../../genres/adult_standards.md) |
@@ -398,6 +397,7 @@
 | 18 | [a cappella](../../genres/a_cappella.md) |
 | 17 | k-rap |
 | 17 | indie pop |
+| 17 | edm |
 | 15 | uk alternative pop |
 | 15 | metropopolis |
 | 15 | baroque pop |
@@ -417,13 +417,13 @@
 | 11 | indie rock |
 | 9 | tropical house |
 | 9 | lounge |
-| 9 | escape room |
 | 9 | bergen indie |
 | 8 | viral pop |
 | 8 | pop dance |
 | 8 | latin pop |
 | 8 | j-pop |
 | 8 | etherpop |
+| 8 | escape room |
 | 8 | blues rock |
 | 8 | australian dance |
 | 7 | motown |
@@ -454,8 +454,8 @@
 | 5 | indietronica |
 | 5 | indie poptimism |
 | 5 | girl group |
-| 5 | country rock |
 | 5 | anti-folk |
+| 5 | afrofuturism |
 
 </details>
 

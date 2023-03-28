@@ -57,7 +57,7 @@ Appears as:
 | Number of Tracks | Genre |
 |---:|:---|
 | 30 | [rock](../genres/rock.md) |
-| 30 | [psychedelic rock](../genres/psychedelic_rock.md) |
+| 30 | psychedelic rock |
 | 30 | merseybeat |
 | 30 | [classic rock](../genres/classic_rock.md) |
 | 30 | british invasion |

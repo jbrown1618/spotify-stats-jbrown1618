@@ -1,16 +1,16 @@
 # electropop
 
-[47 songs](electropop_tracks.md)
+[46 songs](electropop_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 25 artists](../images/genres/electropop/artists.png)
+![Bar chart of top 24 artists](../images/genres/electropop/artists.png)
 
 ![Comparison of Artist](../images/genres/electropop/artists_comparison.png)
 
 
 <details>
-<summary>See all 25 artists</summary>
+<summary>See all 24 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -19,7 +19,6 @@
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb1dc61a0a0612dff3df110ce2" alt="" width="50" /> | Janelle Monáe | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb576cb43281160e345f728b71" alt="" width="50" /> | Charli XCX | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb358577f183465ae7698a53a7" alt="" width="50" /> | Carly Rae Jepsen | [🔗](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375" alt="" width="50" /> | Hatsune Miku | [🔗](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb31072db9da0311ecfabe96bf" alt="" width="50" /> | Khalid | [🔗](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3c02f4fb4cc9187c488afd50" alt="" width="50" /> | The Chainsmokers | [🔗](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) |
@@ -44,11 +43,11 @@
 
 ## Top Albums
 
-![Bar chart of top 28 albums](../images/genres/electropop/albums.png)
+![Bar chart of top 27 albums](../images/genres/electropop/albums.png)
 
 
 <details>
-<summary>See all 28 albums</summary>
+<summary>See all 27 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -71,7 +70,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7" alt="" width="50" /> | No Time To Die | 2020-02-13 | [🔗](https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b72cb7bed93d6e2fdf42cffe" alt="" width="50" /> | Metropolis: The Chase Suite (Special Edition) | 2008-08-12 | [🔗](https://open.spotify.com/album/3T3bJi3cvwR5U7ihwgEwF1) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737636e1c9e67eaafc9f49aefd" alt="" width="50" /> | Manic | 2020-01-17 | [🔗](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a111f7769013f1731e9c697c" alt="" width="50" /> | Kiss (Deluxe) | 2012-01-01 | [🔗](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318" alt="" width="50" /> | Guitar Songs | 2022-07-21 | [🔗](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27370d7aa769af19e7e2c2e107b" alt="" width="50" /> | Fantasies | 2009-04-14 | [🔗](https://open.spotify.com/album/3Oj8FdHcV6kAiOVWfkqRaA) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735064363e1b38af783f93f1a7" alt="" width="50" /> | Daisy 2.0 (feat. Hatsune Miku) | 2020-12-11 | [🔗](https://open.spotify.com/album/6JZYS7UElSfjyTgFgE1ApG) |
@@ -86,11 +84,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 21 record labels](../images/genres/electropop/labels.png)
+![Bar chart of top 20 record labels](../images/genres/electropop/labels.png)
 
 
 <details>
-<summary>See all 21 labels</summary>
+<summary>See all 20 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -103,7 +101,6 @@
 | 2 | [Capitol Records](../labels/capitol_records.md) |
 | 1 | VÉRITÉ |
 | 1 | Teleport Records |
-| 1 | Silent Records IGA |
 | 1 | [RCA Records Label](../labels/rca_records_label.md) |
 | 1 | Perpetual Novice |
 | 1 | Parlophone UK |
@@ -128,11 +125,11 @@
 | Make Me Feel (0.859) | when the party's over (0.367) |
 | Good Intent (0.851) | No Time To Die (0.38) |
 | replay! (0.806) | Waltz Me to the Grave (0.394) |
-| Call Me Maybe (0.783) | TV (0.412) |
-| la type (0.773) | foolish thinking (0.416) |
-| Daisy 2.0 (feat. Hatsune Miku) (0.773) | Like They Do on the TV (0.463) |
-| Recovery (0.767) | Gimme Sympathy (0.47) |
-| Good Ones (0.764) | Old Flame (0.476) |
+| la type (0.773) | TV (0.412) |
+| Daisy 2.0 (feat. Hatsune Miku) (0.773) | foolish thinking (0.416) |
+| Recovery (0.767) | Like They Do on the TV (0.463) |
+| Good Ones (0.764) | Gimme Sympathy (0.47) |
+| Settle Down (0.763) | Old Flame (0.476) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -165,13 +162,13 @@
 | when the party's over (0.978) | Recovery (0.00747) |
 | lovely (with Khalid) (0.934) | Gimme Sympathy (0.00832) |
 | No Time To Die (0.917) | Lightyears (0.0114) |
-| foolish thinking (0.917) | Call Me Maybe (0.0114) |
-| everything i wanted (0.902) | Yoga (0.0159) |
-| Plain Gold Ring (0.9) | The Good War (0.0208) |
-| TV (0.83) | Tightrope (feat. Big Boi) - Big Boi Vocal Edit (0.0302) |
-| ocean eyes (0.816) | replay! (0.0305) |
-| Happier Than Ever (0.767) | I Like That (0.0323) |
-| GOLDWING (0.755) | Bad At Love (0.0604) |
+| foolish thinking (0.917) | Yoga (0.0159) |
+| everything i wanted (0.902) | The Good War (0.0208) |
+| Plain Gold Ring (0.9) | Tightrope (feat. Big Boi) - Big Boi Vocal Edit (0.0302) |
+| TV (0.83) | replay! (0.0305) |
+| ocean eyes (0.816) | I Like That (0.0323) |
+| Happier Than Ever (0.767) | Bad At Love (0.0604) |
+| GOLDWING (0.755) | la type (0.0685) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
@@ -210,4 +207,4 @@
 | Cameo Lover (0.669) | TV (0.119) |
 | Therefore I Am (0.663) | lovely (with Khalid) (0.12) |
 | Closer (0.661) | GOLDWING (0.168) |
-| Call Me Maybe (0.66) | ocean eyes (0.169) |
+| Like They Do on the TV (0.645) | ocean eyes (0.169) |

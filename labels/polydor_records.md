@@ -109,7 +109,7 @@ Appears as:
 | 4 | [hollywood](../genres/hollywood.md) |
 | 2 | tropical house |
 | 2 | [rock](../genres/rock.md) |
-| 2 | [psychedelic rock](../genres/psychedelic_rock.md) |
+| 2 | psychedelic rock |
 | 2 | pop dance |
 | 2 | [mellow gold](../genres/mellow_gold.md) |
 | 2 | hard rock |

@@ -1,16 +1,16 @@
 # adult standards
 
-[49 songs](adult_standards_tracks.md)
+[48 songs](adult_standards_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 27 artists](../images/genres/adult_standards/artists.png)
+![Bar chart of top 26 artists](../images/genres/adult_standards/artists.png)
 
 ![Comparison of Artist](../images/genres/adult_standards/artists_comparison.png)
 
 
 <details>
-<summary>See all 27 artists</summary>
+<summary>See all 26 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -24,7 +24,6 @@
 | 2 | <img src="https://i.scdn.co/image/813fde33623cbfd065053789cf1ffb22b55efd4a" alt="" width="50" /> | Carole King | [🔗](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) |
 | 2 | <img src="https://i.scdn.co/image/4f5e6383a803df41153fd871f6d0d0af7b9f08a0" alt="" width="50" /> | Count Basie | [🔗](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../artists/sara_bareilles.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf12270128127ba170f90097d" alt="" width="50" /> | Aretha Franklin | [🔗](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb28c2dea644b78257ccfb4520" alt="" width="50" /> | Seth MacFarlane | [🔗](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb21a213a4fe1a6f9b45d3f7f9" alt="" width="50" /> | Commodores | [🔗](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb714fcc98a53a73bdcc537200" alt="" width="50" /> | Cécile McLorin Salvant | [🔗](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) |
@@ -50,7 +49,7 @@
 
 
 <details>
-<summary>See all 40 albums</summary>
+<summary>See all 39 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -83,7 +82,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273913c7a28b9dbce0ec35a7045" alt="" width="50" /> | Music Is Better Than Words | 2011-01-01 | [🔗](https://open.spotify.com/album/6VojJdbXviFkMuemAQ2Ivo) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc" alt="" width="50" /> | Mulan (Original Soundtrack) | 1998-01-01 | [🔗](https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b2ef9d24ed47c5d44d22adb8" alt="" width="50" /> | Make Someone Happy | 2007-01-01 | [🔗](https://open.spotify.com/album/2oGYlZ7vte6lJ1MuwKKCeW) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736aa9314b7ddfbd8f036ba3ac" alt="" width="50" /> | I Never Loved a Man the Way I Love You | 1967-03-10 | [🔗](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2730c981ab72e00803faf1bbcae" alt="" width="50" /> | Francis A. & Edward K. | 1968-01 | [🔗](https://open.spotify.com/album/5GFkm37IrMR9a4rc6JABkw) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273cab4dfee401a04dacfa11784" alt="" width="50" /> | For Once In My Life | 1968-12-01 | [🔗](https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38" alt="" width="50" /> | Diana Ross Presents The Jackson 5 | 1969-12-18 | [🔗](https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1) |
@@ -100,11 +98,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 21 record labels](../images/genres/adult_standards/labels.png)
+![Bar chart of top 20 record labels](../images/genres/adult_standards/labels.png)
 
 
 <details>
-<summary>See all 21 labels</summary>
+<summary>See all 20 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -123,7 +121,6 @@
 | 2 | Craft Recordings |
 | 1 | [Universal Music LLC](../labels/universal_music_llc.md) |
 | 1 | [UME - Global Clearing House](../labels/ume___global_clearing_house.md) |
-| 1 | Rhino Atlantic |
 | 1 | Parlophone (France) |
 | 1 | Geffen |
 | 1 | Fuzzy Door Productions |
@@ -137,16 +134,16 @@
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| Respect (0.805) | Nature Boy (0.203) |
-| I Wan'na Be Like You (The Monkey Song) (0.746) | Can't Help Falling in Love (0.234) |
-| ABC (0.715) | Strangers In The Night (0.259) |
-| I Feel the Earth Move (0.711) | Unforgettable (0.286) |
-| Everything (0.686) | Unforgettable (0.349) |
-| Signed, Sealed, Delivered (I'm Yours) (0.675) | Beautiful Love (0.435) |
-| I'll Make a Man Out of You (0.672) | L-O-V-E - 2000 Remaster (0.451) |
-| Someday (feat. Meghan Trainor) (0.671) | Cry Me a River (0.458) |
-| Fly Me To The Moon (In Other Words) (0.668) | La vie en rose (feat. Cécile McLorin Salvant) (0.459) |
-| Agua De Beber (0.66) | I Can't Make You Love Me (0.46) |
+| I Wan'na Be Like You (The Monkey Song) (0.746) | Nature Boy (0.203) |
+| ABC (0.715) | Can't Help Falling in Love (0.234) |
+| I Feel the Earth Move (0.711) | Strangers In The Night (0.259) |
+| Everything (0.686) | Unforgettable (0.286) |
+| Signed, Sealed, Delivered (I'm Yours) (0.675) | Unforgettable (0.349) |
+| I'll Make a Man Out of You (0.672) | Beautiful Love (0.435) |
+| Someday (feat. Meghan Trainor) (0.671) | L-O-V-E - 2000 Remaster (0.451) |
+| Fly Me To The Moon (In Other Words) (0.668) | Cry Me a River (0.458) |
+| Agua De Beber (0.66) | La vie en rose (feat. Cécile McLorin Salvant) (0.459) |
+| I Want You Back (feat. Sara Bareilles) (0.65) | I Can't Make You Love Me (0.46) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -181,11 +178,11 @@
 | Something In The Air Between Us (0.925) | Easy (0.112) |
 | Unforgettable (0.92) | I'll Make a Man Out of You (0.144) |
 | So Far Away (0.897) | Haven't Met You Yet (0.152) |
-| Beautiful Love (0.875) | Respect (0.164) |
-| Home (0.853) | Someday (feat. Meghan Trainor) (0.18) |
-| Unforgettable (0.85) | Isn't She Lovely (0.182) |
-| Come Fly With Me - Remastered 1998 (0.845) | For Once In My Life (0.195) |
-| Love Won't Let You Get Away (0.824) | 25 or 6 to 4 (0.241) |
+| Beautiful Love (0.875) | Someday (feat. Meghan Trainor) (0.18) |
+| Home (0.853) | Isn't She Lovely (0.182) |
+| Unforgettable (0.85) | For Once In My Life (0.195) |
+| Come Fly With Me - Remastered 1998 (0.845) | 25 or 6 to 4 (0.241) |
+| Love Won't Let You Get Away (0.824) | Agua De Beber (0.243) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
@@ -204,24 +201,24 @@
 |:---|:---|
 | I'll Be There (0.654) | Superstition - Single Version (0.0385) |
 | For Once In My Life (0.523) | I Feel the Earth Move (0.0528) |
-| Moondance (0.401) | Respect (0.0546) |
-| Sunny (0.37) | Easy (0.0596) |
-| I Want You Back (0.37) | Fly Me To The Moon (In Other Words) (0.0621) |
-| That's Life (0.346) | Can't Take My Eyes off You (0.0692) |
-| Isn't She Lovely (0.324) | I'll Make a Man Out of You (0.074) |
-| The Best Is yet to Come (0.296) | Someday (feat. Meghan Trainor) (0.0748) |
-| I Wan'na Be Like You (The Monkey Song) (0.281) | So Far Away (0.0753) |
-| The Way You Look Tonight (0.251) | Cry Me a River (0.0754) |
+| Moondance (0.401) | Easy (0.0596) |
+| Sunny (0.37) | Fly Me To The Moon (In Other Words) (0.0621) |
+| I Want You Back (0.37) | Can't Take My Eyes off You (0.0692) |
+| That's Life (0.346) | I'll Make a Man Out of You (0.074) |
+| Isn't She Lovely (0.324) | Someday (feat. Meghan Trainor) (0.0748) |
+| The Best Is yet to Come (0.296) | So Far Away (0.0753) |
+| I Wan'na Be Like You (The Monkey Song) (0.281) | Cry Me a River (0.0754) |
+| The Way You Look Tonight (0.251) | Agua De Beber (0.0756) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| Respect (0.965) | Can't Help Falling in Love (0.0969) |
-| ABC (0.947) | Nature Boy (0.115) |
-| Someday (feat. Meghan Trainor) (0.934) | Unforgettable (0.142) |
-| I Want You Back (0.886) | Unforgettable (0.178) |
-| Superstition - Single Version (0.872) | La Vie En Rose (0.194) |
-| For Once In My Life (0.847) | Something In The Air Between Us (0.199) |
-| Signed, Sealed, Delivered (I'm Yours) (0.828) | I Can't Make You Love Me (0.252) |
-| Isn't She Lovely (0.819) | Breakfast on the Morning Tram (0.292) |
-| Haven't Met You Yet (0.796) | Sunny (0.296) |
-| I Wan'na Be Like You (The Monkey Song) (0.795) | Love Won't Let You Get Away (0.312) |
+| ABC (0.947) | Can't Help Falling in Love (0.0969) |
+| Someday (feat. Meghan Trainor) (0.934) | Nature Boy (0.115) |
+| I Want You Back (0.886) | Unforgettable (0.142) |
+| Superstition - Single Version (0.872) | Unforgettable (0.178) |
+| For Once In My Life (0.847) | La Vie En Rose (0.194) |
+| Signed, Sealed, Delivered (I'm Yours) (0.828) | Something In The Air Between Us (0.199) |
+| Isn't She Lovely (0.819) | I Can't Make You Love Me (0.252) |
+| Haven't Met You Yet (0.796) | Breakfast on the Morning Tram (0.292) |
+| I Wan'na Be Like You (The Monkey Song) (0.795) | Sunny (0.296) |
+| 25 or 6 to 4 (0.771) | Love Won't Let You Get Away (0.312) |

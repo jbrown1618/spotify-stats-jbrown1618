@@ -111,7 +111,7 @@ Appears as:
 
 
 <details>
-<summary>See all 47 genres</summary>
+<summary>See all 46 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -126,12 +126,12 @@ Appears as:
 | 9 | album rock |
 | 8 | [soft rock](../genres/soft_rock.md) |
 | 8 | [post-teen pop](../genres/post_teen_pop.md) |
-| 8 | edm |
 | 6 | yacht rock |
 | 6 | pop rap |
 | 6 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 | 5 | permanent wave |
 | 5 | modern rock |
+| 5 | edm |
 | 4 | [lilith](../genres/lilith.md) |
 | 4 | la indie |
 | 4 | indie rock |
@@ -154,7 +154,6 @@ Appears as:
 | 1 | trap |
 | 1 | southern hip hop |
 | 1 | rap |
-| 1 | [psychedelic rock](../genres/psychedelic_rock.md) |
 | 1 | new wave pop |
 | 1 | [hollywood](../genres/hollywood.md) |
 | 1 | gangster rap |

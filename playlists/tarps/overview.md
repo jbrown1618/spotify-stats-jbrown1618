@@ -229,7 +229,7 @@
 | 4 | [folk rock](../../genres/folk_rock.md) |
 | 3 | stomp and holler |
 | 3 | [soft rock](../../genres/soft_rock.md) |
-| 3 | [psychedelic rock](../../genres/psychedelic_rock.md) |
+| 3 | psychedelic rock |
 | 3 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 3 | pop soul |
 | 3 | neo soul |
