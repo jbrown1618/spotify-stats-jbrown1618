@@ -8,7 +8,7 @@
 | Number of Tracks | Art | Playlist |
 |---:|:---|:---|
 | 23 | <img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="" width="50" /> | [Debussy](../playlists/debussy/overview.md) |
-| 4 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731d9ef8e92370053b06f8c9ecab67616d0000b2737368d9506efe9c2d556d9e98ab67616d0000b2737cb0c702a8fd45bfd8358259ab67616d0000b273ff17a9c684ec4757c8c026b0" alt="" width="50" /> | [String Quartets](../playlists/string_quartets/overview.md) |
+| 4 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731d9ef8e92370053b06f8c9ecab67616d0000b2737368d9506efe9c2d556d9e98ab67616d0000b273f1e24654c624c58911f179b5ab67616d0000b273ff17a9c684ec4757c8c026b0" alt="" width="50" /> | [String Quartets](../playlists/string_quartets/overview.md) |
 | 3 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734c43a2f36c0aec708ba024d5ab67616d0000b2735d026bccbd8a50650e903130ab67616d0000b27376a42530f861aa187f3ac1c2ab67616d0000b273c385dbfabcec21279dcea0b5" alt="" width="50" /> | [Program Music](../playlists/program_music/overview.md) |
 ## Top Albums
 

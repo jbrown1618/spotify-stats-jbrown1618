@@ -211,7 +211,7 @@
 
 
 <details>
-<summary>See all 88 genres</summary>
+<summary>See all 89 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -249,7 +249,6 @@
 | 2 | permanent wave |
 | 2 | motown |
 | 2 | modern folk rock |
-| 2 | [lilith](../../genres/lilith.md) |
 | 2 | indiecoustica |
 | 2 | funk |
 | 2 | country dawn |
@@ -275,6 +274,7 @@
 | 1 | melancholia |
 | 1 | mandolin |
 | 1 | lounge |
+| 1 | [lilith](../../genres/lilith.md) |
 | 1 | latin pop |
 | 1 | lafayette indie |
 | 1 | irish rock |
@@ -303,6 +303,7 @@
 | 1 | australian dance |
 | 1 | album rock |
 | 1 | [adult standards](../../genres/adult_standards.md) |
+| 1 | [a cappella](../../genres/a_cappella.md) |
 
 </details>
 

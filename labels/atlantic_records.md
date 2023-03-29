@@ -123,7 +123,7 @@ Appears as:
 | 41 | [hollywood](../genres/hollywood.md) |
 | 23 | [pop](../genres/pop.md) |
 | 20 | [dance pop](../genres/dance_pop.md) |
-| 15 | [broadway](../genres/broadway.md) |
+| 16 | [broadway](../genres/broadway.md) |
 | 10 | vocal jazz |
 | 4 | [post-teen pop](../genres/post_teen_pop.md) |
 | 3 | [rock](../genres/rock.md) |

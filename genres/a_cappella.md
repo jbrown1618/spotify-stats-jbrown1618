@@ -1,6 +1,6 @@
 # a cappella
 
-[196 songs](a_cappella_tracks.md)
+[197 songs](a_cappella_tracks.md)
 
 ## Top Artists
 
@@ -10,7 +10,7 @@
 
 
 <details>
-<summary>See all 58 artists</summary>
+<summary>See all 59 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -53,6 +53,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfc619796228fea88e4373aca" alt="" width="50" /> | The Harmonics | [🔗](https://open.spotify.com/artist/528Rcthd9JqtIrlbrGKNsG) |
 | 1 | <img src="nan" alt="" width="50" /> | Kat Dunbar Linker | [🔗](https://open.spotify.com/artist/512QZ1TM6L4uXmWCVOKHtV) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebee310fa1ea1733fd31d9866c" alt="" width="50" /> | Tink | [🔗](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273bb2a0b1810640a0cb50c1a7f" alt="" width="50" /> | Da Vinci's Notebook | [🔗](https://open.spotify.com/artist/4rIDY3ojaWd7Z9ky9SFc1g) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739a9a592561eabf00f0a8ee4d" alt="" width="50" /> | Varsity Vocals | [🔗](https://open.spotify.com/artist/4bQp9Lm7LgRMLtqEsH3Bqf) |
 | 1 | <img src="nan" alt="" width="50" /> | Emily Shanny | [🔗](https://open.spotify.com/artist/3oWiUIUDPWJmvB8wElpaO5) |
 | 1 | <img src="nan" alt="" width="50" /> | Gabe Hendifar | [🔗](https://open.spotify.com/artist/3YIBM4yvZHT4lRQa14eHQh) |
@@ -81,7 +82,7 @@
 
 
 <details>
-<summary>See all 78 albums</summary>
+<summary>See all 79 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -140,6 +141,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273183ce7c015d33f55210a2b4a" alt="" width="50" /> | The Sound of Silence | 2019-02-15 | [🔗](https://open.spotify.com/album/2d5CHsmyOYGqfjDaPrdEzc) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736390fb1ebb92fb38e7c99aaf" alt="" width="50" /> | The Reading Room Sessions (Fall 2017) | 2017 | [🔗](https://open.spotify.com/album/4xbXu4kEwTS8NOTX6aRwkg) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a244382317586a8decdf240c" alt="" width="50" /> | The Mallard | 2013-04-13 | [🔗](https://open.spotify.com/album/2IV5LQ4DzCjAIVwYZMHYgo) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27314ed51ab46ef0765182bb8a0" alt="" width="50" /> | The Life and Times of Mike Fanning | 2000 | [🔗](https://open.spotify.com/album/7FNdaE5nvtVmhPlc9wjQrx) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273913e83f2c069080c25b54c9a" alt="" width="50" /> | The King's Singers Collection | 2008-03-31 | [🔗](https://open.spotify.com/album/2dvmTkGLdYcm6jnrsdQZlj) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273db17fec53a7c243f7809a328" alt="" width="50" /> | Storming The Castle | 2021-06-09 | [🔗](https://open.spotify.com/album/1wjibXmmViZMNA1HsMo7f6) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738b1bdafdc4fd1983a8a8a198" alt="" width="50" /> | Spotlight on Bach | 2010-02-22 | [🔗](https://open.spotify.com/album/3qHHoQNFqZptsQE9Y3esLh) |
@@ -169,11 +171,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 26 record labels](../images/genres/a_cappella/labels.png)
+![Bar chart of top 27 record labels](../images/genres/a_cappella/labels.png)
 
 
 <details>
-<summary>See all 26 labels</summary>
+<summary>See all 27 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -198,6 +200,7 @@
 | 2 | The Clef Hangers |
 | 2 | SoCal VoCals |
 | 2 | Signum Records |
+| 1 | Uncle Buford Records |
 | 1 | Sonoton Music |
 | 1 | Signum OMP |
 | 1 | RCA Victor - Munich |

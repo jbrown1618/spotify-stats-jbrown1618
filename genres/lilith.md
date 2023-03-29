@@ -1,16 +1,16 @@
 # lilith
 
-[93 songs](lilith_tracks.md)
+[92 songs](lilith_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 11 artists](../images/genres/lilith/artists.png)
+![Bar chart of top 10 artists](../images/genres/lilith/artists.png)
 
 ![Comparison of Artist](../images/genres/lilith/artists_comparison.png)
 
 
 <details>
-<summary>See all 11 artists</summary>
+<summary>See all 10 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -24,17 +24,16 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | Jason Mraz | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe86f788af4e127154da1257f" alt="" width="50" /> | Bonnie Raitt | [🔗](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf178cbda9bd9a389581ff021" alt="" width="50" /> | Fiona Apple | [🔗](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb26e35e5ceab6998278006481" alt="" width="50" /> | Brandi Carlile | [🔗](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) |
 
 </details>
 
 ## Top Albums
 
-![Bar chart of top 21 albums](../images/genres/lilith/albums.png)
+![Bar chart of top 20 albums](../images/genres/lilith/albums.png)
 
 
 <details>
-<summary>See all 21 albums</summary>
+<summary>See all 20 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -58,18 +57,17 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1113af3a19a41dc8eec534e" alt="" width="50" /> | Luck Of The Draw | 1991-01-01 | [🔗](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738c8d5428b693308705e7caca" alt="" width="50" /> | Far | 2009-06-09 | [🔗](https://open.spotify.com/album/5t0lQDPLF22wmWCtSZkIVv) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="" width="50" /> | Brave Enough: Live at the Variety Playhouse | 2013-10-22 | [🔗](https://open.spotify.com/album/7L4ZgnQqEhCEsV9GnMeXtE) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f5aac98410fb9e64e29827d4" alt="" width="50" /> | Bear Creek | 2012-06-01 | [🔗](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) |
 
 </details>
 
 
 ## Top Record Labels
 
-![Bar chart of top 14 record labels](../images/genres/lilith/labels.png)
+![Bar chart of top 13 record labels](../images/genres/lilith/labels.png)
 
 
 <details>
-<summary>See all 14 labels</summary>
+<summary>See all 13 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -84,7 +82,6 @@
 | 3 | Beaute |
 | 2 | Saddle Creek |
 | 1 | Work |
-| 1 | [Columbia](../labels/columbia.md) |
 | 1 | Clean Slate |
 | 1 | [Capitol Records](../labels/capitol_records.md) |
 

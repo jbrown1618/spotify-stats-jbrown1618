@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1491 songs](tracks.md)
+[1490 songs](tracks.md)
 
 ## Top Artists
 
@@ -14,7 +14,7 @@
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
-| 51 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../../artists/red_velvet.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
+| 50 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | [Red Velvet](../../artists/red_velvet.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | 43 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../../artists/sara_bareilles.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 | 37 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | [Taylor Swift](../../artists/taylor_swift.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 | 32 | <img src="https://i.scdn.co/image/ab6761610000e5eb8944c8aec8db82f35980b191" alt="" width="50" /> | [TWICE](../../artists/twice.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
@@ -295,7 +295,6 @@
 | 6 | Sire |
 | 6 | EDAM Entertainment |
 | 6 | Bad Boy |
-| 5 | avex trax |
 | 5 | [Reprise](../../labels/reprise.md) |
 | 5 | Parkwood Entertainment |
 | 5 | KQ Entertainment |
@@ -305,6 +304,7 @@
 | 5 | Abyss Company |
 | 5 | ADOR |
 | 5 | [143](../../labels/143.md) |
+| 4 | avex trax |
 | 4 | WM Japan |
 | 4 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_.md) |
 | 4 | THE BLACK LABEL |
@@ -356,11 +356,11 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 654 | [k-pop](../../genres/k_pop.md) |
-| 378 | [pop](../../genres/pop.md) |
-| 301 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
+| 649 | [k-pop](../../genres/k_pop.md) |
+| 382 | [pop](../../genres/pop.md) |
+| 300 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 166 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
-| 163 | [dance pop](../../genres/dance_pop.md) |
+| 162 | [dance pop](../../genres/dance_pop.md) |
 | 105 | [rock](../../genres/rock.md) |
 | 78 | [classic rock](../../genres/classic_rock.md) |
 | 59 | [neo mellow](../../genres/neo_mellow.md) |
@@ -471,7 +471,7 @@
 | Year | Number of Tracks |
 |:---|---:|
 | [2023](2023.md) | 40 |
-| [2022](2022.md) | 239 |
+| [2022](2022.md) | 238 |
 | [2021](2021.md) | 184 |
 | [2020](2020.md) | 134 |
 | [2019](2019.md) | 116 |

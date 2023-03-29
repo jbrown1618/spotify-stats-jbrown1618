@@ -1,6 +1,6 @@
 # pop
 
-[530 songs](pop_tracks.md)
+[536 songs](pop_tracks.md)
 
 ## Top Artists
 
@@ -38,6 +38,7 @@
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb654972693e0efed3f3f4d090" alt="" width="50" /> | Jason Derulo | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb1dc61a0a0612dff3df110ce2" alt="" width="50" /> | Janelle Monáe | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410" alt="" width="50" /> | Clean Bandit | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
+| 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb767815f4876969e8f888f0db" alt="" width="50" /> | The Rose | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb7e8110a92ec2252f0821f8b8" alt="" width="50" /> | Miley Cyrus | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | Coldplay | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | Justin Bieber | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
@@ -113,7 +114,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5f32a5ef76b9480c601f256f" alt="" width="50" /> | Brendon Urie | [🔗](https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9bc0756eb16b241111bbc72b" alt="" width="50" /> | Colbie Caillat | [🔗](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8e9d1c8642df6f869631fe62" alt="" width="50" /> | Crush | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eba4111dde02328708f5180b54" alt="" width="50" /> | Sheppard | [🔗](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) |
 
 </details>
 
@@ -255,20 +255,20 @@
 | 15 | [Republic Records](../labels/republic_records.md) |
 | 15 | [Def Jam Recordings](../labels/def_jam_recordings.md) |
 | 13 | [Universal Music LLC](../labels/universal_music_llc.md) |
+| 13 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
+| 13 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
 | 13 | [Darkroom](../labels/darkroom.md) |
 | 12 | [Syco Music](../labels/syco_music.md) |
 | 12 | [Capitol Records](../labels/capitol_records.md) |
 | 10 | [YG Entertainment](../labels/yg_entertainment.md) |
-| 9 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
 | 9 | [Jive](../labels/jive.md) |
-| 9 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
 | 8 | Monkey Puzzle Records |
 | 7 | Parkwood Entertainment |
 | 6 | [XL Recordings](../labels/xl_recordings.md) |
+| 6 | Island Records |
 | 6 | Atlantic Records UK |
 | 5 | Music World Music |
 | 5 | Kemosabe Records |
-| 5 | Island Records |
 | 5 | Beluga Heights |
 | 5 | Bad Boy |
 | 4 | LaFace Records |
@@ -309,6 +309,7 @@
 | 1 | Universal Republic Records |
 | 1 | Universal Music New Zealand Limited |
 | 1 | Universal Music Group |
+| 1 | Transparent Arts |
 | 1 | Teleport Records |
 | 1 | Spinnin' Records |
 | 1 | Sony Music UK |
@@ -340,7 +341,6 @@
 | 1 | EMI Recorded Music Australia Pty Ltd |
 | 1 | Disruptor Records |
 | 1 | Def Soul |
-| 1 | [Decca (UMO)](../labels/decca__umo_.md) |
 
 </details>
 
@@ -383,8 +383,8 @@
 | WAP (feat. Megan Thee Stallion) (0.375) | Chasing Pavements (0.0251) |
 | bad guy (0.375) | Put A Little Love On Me (0.0262) |
 | Bubblegum (feat. Tyga) (0.34) | Begin Again (0.0263) |
-| 7 rings (0.334) | no body, no crime (feat. HAIM) (0.0264) |
-| bury a friend (0.332) | Travelin' Soldier (0.0265) |
+| 7 rings (0.334) | She′s In The Rain (0.0264) |
+| bury a friend (0.332) | no body, no crime (feat. HAIM) (0.0264) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -408,9 +408,9 @@
 | you should see me in a crown (0.219) | Clean (0.0) |
 | bury a friend (0.162) | To the moon (0.0) |
 | GOLDWING (0.159) | This Is Why We Can't Have Nice Things (0.0) |
-| Therefore I Am (0.135) | Travelin' Soldier (0.0) |
-| bad guy (0.13) | Love Me Like You Do (0.0) |
-| This Is What You Came For (0.119) | You've Got The Love (0.0) |
+| West Coast Love (0.153) | Travelin' Soldier (0.0) |
+| Therefore I Am (0.135) | Love Me Like You Do (0.0) |
+| bad guy (0.13) | You've Got The Love (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|

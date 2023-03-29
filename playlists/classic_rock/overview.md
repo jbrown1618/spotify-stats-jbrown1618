@@ -170,7 +170,7 @@
 
 
 <details>
-<summary>See all 50 genres</summary>
+<summary>See all 51 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -193,10 +193,10 @@
 | 5 | heartland rock |
 | 4 | symphonic rock |
 | 4 | progressive rock |
+| 4 | country rock |
 | 3 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 3 | roots rock |
 | 3 | folk |
-| 3 | country rock |
 | 2 | uk doom metal |
 | 2 | thrash metal |
 | 2 | synth funk |
@@ -204,6 +204,7 @@
 | 2 | stoner rock |
 | 2 | stoner metal |
 | 2 | sludge metal |
+| 2 | rock-and-roll |
 | 2 | progressive sludge |
 | 2 | progressive groove metal |
 | 2 | old school thrash |

@@ -165,8 +165,8 @@ Appears as:
 |---:|:---|
 | 59 | [k-pop](../genres/k_pop.md) |
 | 14 | korean r&b |
+| 13 | [pop](../genres/pop.md) |
 | 13 | [k-pop girl group](../genres/k_pop_girl_group.md) |
-| 9 | [pop](../genres/pop.md) |
 | 8 | [k-pop boy group](../genres/k_pop_boy_group.md) |
 | 7 | [korean pop](../genres/korean_pop.md) |
 | 5 | k-rap |

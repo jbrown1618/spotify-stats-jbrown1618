@@ -1,9 +1,9 @@
 # MYSTIC STORY
 
-10 songs
+16 songs
 
 Appears as:
-- MYSTIC STORY (10 tracks)
+- MYSTIC STORY (16 tracks)
 
 ## Top Artists
 
@@ -15,21 +15,22 @@ Appears as:
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
-| 10 | <img src="https://i.scdn.co/image/ab6761610000e5eb64884416b862c19ec9a465d3" alt="" width="50" /> | [Billlie](../artists/billlie.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
+| 16 | <img src="https://i.scdn.co/image/ab6761610000e5eb64884416b862c19ec9a465d3" alt="" width="50" /> | [Billlie](../artists/billlie.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
 
 </details>
 
 
 ## Top Albums
 
-![Bar chart of top 3 albums](../images/labels/mystic_story/albums.png)
+![Bar chart of top 4 albums](../images/labels/mystic_story/albums.png)
 
 
 <details>
-<summary>See all 3 albums</summary>
+<summary>See all 4 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
+| 6 | <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="" width="50" /> | the Billage of perception: chapter three | 2023-03-28 | [🔗](https://open.spotify.com/album/5bt0sTLia4il2rIlpqUo5g) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b2734c5be128bd1b55bf36041574" alt="" width="50" /> | the Billage of perception : chapter one | 2021-11-10 | [🔗](https://open.spotify.com/album/1kp4txZsSpDNR4EoDFi2LD) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b27337392cac38ca8efa2315b04e" alt="" width="50" /> | the collective soul and unconscious: chapter one | 2022-02-23 | [🔗](https://open.spotify.com/album/4ophrgcnwWi1I5nWYImyhw) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2738232e1aaaf4c9ed4b6946ce8" alt="" width="50" /> | the Billage of perception: chapter two | 2022-08-31 | [🔗](https://open.spotify.com/album/0NuM7kwh6u6fIRjn7Zh7Ss) |
@@ -47,7 +48,7 @@ Appears as:
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 10 | [k-pop](../genres/k_pop.md) |
+| 16 | [k-pop](../genres/k_pop.md) |
 
 </details>
 
@@ -66,3 +67,9 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2738232e1aaaf4c9ed4b6946ce8" alt="" width="50" /> | B’rave ~ a song for Matilda | the Billage of perception: chapter two | [Billlie](../artists/billlie.md) | [MYSTIC STORY](mystic_story.md) | | [🔗](https://open.spotify.com/track/78Kr4lzSgXyE11fq4ncILK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738232e1aaaf4c9ed4b6946ce8" alt="" width="50" /> | Mcguffins ~ who’s the Joker? | the Billage of perception: chapter two | [Billlie](../artists/billlie.md) | [MYSTIC STORY](mystic_story.md) | 💚 | [🔗](https://open.spotify.com/track/1MtbRyRbGe4qXMSNN999iI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738232e1aaaf4c9ed4b6946ce8" alt="" width="50" /> | RING ma Bell (what a wonderful world) | the Billage of perception: chapter two | [Billlie](../artists/billlie.md) | [MYSTIC STORY](mystic_story.md) | 💚 | [🔗](https://open.spotify.com/track/2b2Nibg3lTUTKctwwb7bEv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="" width="50" /> | EUNOIA | the Billage of perception: chapter three | [Billlie](../artists/billlie.md) | [MYSTIC STORY](mystic_story.md) | | [🔗](https://open.spotify.com/track/5ICowHre7VraSKaRw3do8N) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="" width="50" /> | enchanted night ~ white night | the Billage of perception: chapter three | [Billlie](../artists/billlie.md) | [MYSTIC STORY](mystic_story.md) | | [🔗](https://open.spotify.com/track/0rTXn4ovXalJGkJMx5hsnX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="" width="50" /> | extra-ordinary | the Billage of perception: chapter three | [Billlie](../artists/billlie.md) | [MYSTIC STORY](mystic_story.md) | | [🔗](https://open.spotify.com/track/3l3wUDDHEAqOUTSAACKL8b) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="" width="50" /> | lionheart (the real me) | the Billage of perception: chapter three | [Billlie](../artists/billlie.md) | [MYSTIC STORY](mystic_story.md) | | [🔗](https://open.spotify.com/track/1ztAWoArE8k4zLunYD8IXa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="" width="50" /> | nevertheless | the Billage of perception: chapter three | [Billlie](../artists/billlie.md) | [MYSTIC STORY](mystic_story.md) | | [🔗](https://open.spotify.com/track/26fVl2CYeXXxD4yEqmhrpM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="" width="50" /> | various and precious (moment of inertia) | the Billage of perception: chapter three | [Billlie](../artists/billlie.md) | [MYSTIC STORY](mystic_story.md) | | [🔗](https://open.spotify.com/track/2VOY5hw25eIh87QHepHxe6) |

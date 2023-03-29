@@ -27,7 +27,7 @@
 | 13 | <img src="https://i.scdn.co/image/3a82b1bfa9beaa82deb0b380a94cb6dc197ee073" alt="" width="50" /> | [Anna Tomowa-Sintow](../artists/anna_tomowa_sintow.md) | [🔗](https://open.spotify.com/artist/6NSIW1uEq8JZmxEkHMF17c) |
 | 12 | <img src="https://i.scdn.co/image/1dc8f4430bbf39a814e3413892c020122215924f" alt="" width="50" /> | [Carmen Piazzini](../artists/carmen_piazzini.md) | [🔗](https://open.spotify.com/artist/6aQUOvrKLOquCAvIGdIwTx) |
 | 12 | <img src="https://i.scdn.co/image/e9a9521ffd11cf06717c699acc48c32ec6ac7d21" alt="" width="50" /> | [Joseph Haydn](../artists/joseph_haydn.md) | [🔗](https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6) |
-| 12 | <img src="https://i.scdn.co/image/ab67616d0000b2737368d9506efe9c2d556d9e98" alt="" width="50" /> | [The Amsterdam String Quartet](../artists/the_amsterdam_string_quartet.md) | [🔗](https://open.spotify.com/artist/0kbgyaL9g2Eba79p2jiYlN) |
+| 12 | <img src="https://i.scdn.co/image/ab67616d0000b2736ff32cddce72446b0e2137a5" alt="" width="50" /> | [The Amsterdam String Quartet](../artists/the_amsterdam_string_quartet.md) | [🔗](https://open.spotify.com/artist/0kbgyaL9g2Eba79p2jiYlN) |
 | 11 | <img src="https://i.scdn.co/image/ab67616d0000b2731793174d9892a98c3fd2d09b" alt="" width="50" /> | [Gerd Seifert](../artists/gerd_seifert.md) | [🔗](https://open.spotify.com/artist/4aIYtx2Z5X9vRlysnruy66) |
 | 8 | <img src="https://i.scdn.co/image/7edeefee1e00dc240f153b601cf735baba09a17a" alt="" width="50" /> | José van Dam | [🔗](https://open.spotify.com/artist/5qNUHMEhszyeXNYMn4sswd) |
 | 7 | <img src="https://i.scdn.co/image/ab67616d0000b27322070c61a7616392f04f070f" alt="" width="50" /> | Agnes Baltsa | [🔗](https://open.spotify.com/artist/2amF56vDuTTbZJQsqUgbuC) |

@@ -136,7 +136,7 @@ Appears as:
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 37 | [movie tunes](../genres/movie_tunes.md) |
+| 39 | [movie tunes](../genres/movie_tunes.md) |
 | 21 | [hollywood](../genres/hollywood.md) |
 | 13 | [show tunes](../genres/show_tunes.md) |
 | 4 | tagalog worship |

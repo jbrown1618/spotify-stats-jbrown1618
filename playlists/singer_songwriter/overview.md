@@ -208,7 +208,7 @@
 |---:|:---|
 | 141 | [pop](../../genres/pop.md) |
 | 81 | [acoustic pop](../../genres/acoustic_pop.md) |
-| 79 | [lilith](../../genres/lilith.md) |
+| 78 | [lilith](../../genres/lilith.md) |
 | 72 | [neo mellow](../../genres/neo_mellow.md) |
 | 61 | [pop rock](../../genres/pop_rock.md) |
 | 59 | [hollywood](../../genres/hollywood.md) |

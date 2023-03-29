@@ -311,7 +311,7 @@
 
 
 <details>
-<summary>See all 98 genres</summary>
+<summary>See all 97 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -336,7 +336,6 @@
 | 4 | j-idol |
 | 4 | israeli pop |
 | 4 | indonesian r&b |
-| 4 | indonesian indie |
 | 4 | c-pop |
 | 3 | urbano latino |
 | 3 | taiwan singer-songwriter |
@@ -358,6 +357,7 @@
 | 2 | francoton |
 | 2 | desi pop |
 | 2 | danish pop |
+| 2 | classic mandopop |
 | 2 | classic j-pop |
 | 2 | chinese indie |
 | 2 | chinese idol pop |
@@ -404,7 +404,6 @@
 | 1 | escape room |
 | 1 | [electropop](../../genres/electropop.md) |
 | 1 | dancehall |
-| 1 | classic mandopop |
 | 1 | chiptune |
 | 1 | chinese viral pop |
 | 1 | chinese r&b |

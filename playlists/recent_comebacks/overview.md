@@ -160,7 +160,7 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 49 | [k-pop](../../genres/k_pop.md) |
+| 48 | [k-pop](../../genres/k_pop.md) |
 | 26 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 7 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
 | 2 | korean r&b |
