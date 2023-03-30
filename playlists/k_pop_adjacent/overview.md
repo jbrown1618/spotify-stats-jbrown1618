@@ -204,7 +204,7 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 17 | [pop](../../genres/pop.md) |
+| 16 | [pop](../../genres/pop.md) |
 | 10 | [dance pop](../../genres/dance_pop.md) |
 | 5 | [r&b](../../genres/r_b.md) |
 | 5 | [post-teen pop](../../genres/post_teen_pop.md) |

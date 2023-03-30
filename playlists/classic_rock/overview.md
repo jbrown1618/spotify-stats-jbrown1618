@@ -170,7 +170,7 @@
 
 
 <details>
-<summary>See all 51 genres</summary>
+<summary>See all 50 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -204,7 +204,6 @@
 | 2 | stoner rock |
 | 2 | stoner metal |
 | 2 | sludge metal |
-| 2 | rock-and-roll |
 | 2 | progressive sludge |
 | 2 | progressive groove metal |
 | 2 | old school thrash |

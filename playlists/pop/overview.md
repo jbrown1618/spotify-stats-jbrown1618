@@ -359,9 +359,9 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 318 | [pop](../../genres/pop.md) |
+| 316 | [pop](../../genres/pop.md) |
 | 187 | [dance pop](../../genres/dance_pop.md) |
-| 49 | [post-teen pop](../../genres/post_teen_pop.md) |
+| 44 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 30 | [art pop](../../genres/art_pop.md) |
 | 29 | uk pop |
 | 24 | [electropop](../../genres/electropop.md) |
@@ -378,10 +378,10 @@
 | 11 | british soul |
 | 11 | australian pop |
 | 10 | viral pop |
-| 10 | tropical house |
 | 10 | pop soul |
 | 10 | [pop rock](../../genres/pop_rock.md) |
 | 10 | [acoustic pop](../../genres/acoustic_pop.md) |
+| 9 | tropical house |
 | 9 | metropopolis |
 | 8 | uk dance |
 | 8 | escape room |
@@ -408,7 +408,6 @@
 | 4 | hip pop |
 | 4 | europop |
 | 4 | canadian contemporary r&b |
-| 3 | viral rap |
 | 3 | progressive house |
 | 3 | nz pop |
 | 3 | modern alternative rock |
@@ -459,6 +458,7 @@
 | 1 | oakland hip hop |
 | 1 | nyc pop |
 | 1 | neon pop punk |
+| 1 | lafayette indie |
 
 </details>
 

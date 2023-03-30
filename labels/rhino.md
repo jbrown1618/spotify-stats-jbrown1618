@@ -70,7 +70,7 @@ Appears as:
 
 
 <details>
-<summary>See all 34 genres</summary>
+<summary>See all 33 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -92,7 +92,6 @@ Appears as:
 | 2 | synth funk |
 | 2 | sunshine pop |
 | 2 | stoner rock |
-| 2 | rock-and-roll |
 | 2 | minneapolis sound |
 | 2 | heartland rock |
 | 2 | funk rock |
