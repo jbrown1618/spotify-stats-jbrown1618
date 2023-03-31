@@ -408,6 +408,7 @@
 | 4 | hip pop |
 | 4 | europop |
 | 4 | canadian contemporary r&b |
+| 3 | viral rap |
 | 3 | progressive house |
 | 3 | nz pop |
 | 3 | modern alternative rock |
@@ -458,7 +459,6 @@
 | 1 | oakland hip hop |
 | 1 | nyc pop |
 | 1 | neon pop punk |
-| 1 | lafayette indie |
 
 </details>
 

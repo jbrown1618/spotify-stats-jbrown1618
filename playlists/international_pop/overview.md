@@ -311,7 +311,7 @@
 
 
 <details>
-<summary>See all 98 genres</summary>
+<summary>See all 97 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -340,13 +340,13 @@
 | 3 | urbano latino |
 | 3 | taiwan singer-songwriter |
 | 3 | sunnlensk tonlist |
-| 3 | pop urbaine |
 | 3 | icelandic pop |
 | 3 | bitpop |
 | 2 | shibuya-kei |
 | 2 | reggaeton colombiano |
 | 2 | rap tunisien |
 | 2 | puerto rican pop |
+| 2 | pop urbaine |
 | 2 | [pop](../../genres/pop.md) |
 | 2 | modern bollywood |
 | 2 | japanese emo |
@@ -410,7 +410,6 @@
 | 1 | bulgarian pop |
 | 1 | bulgarian hip hop |
 | 1 | basshall |
-| 1 | alt z |
 | 1 | afro soul |
 | 1 | afro dancehall |
 

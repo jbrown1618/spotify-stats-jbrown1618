@@ -128,11 +128,11 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 26 genres](../images/labels/walt_disney_records/genres.png)
+![Bar chart of top 27 genres](../images/labels/walt_disney_records/genres.png)
 
 
 <details>
-<summary>See all 26 genres</summary>
+<summary>See all 27 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -158,6 +158,7 @@ Appears as:
 | 1 | [folk rock](../genres/folk_rock.md) |
 | 1 | country rock |
 | 1 | classic uk pop |
+| 1 | [classic rock](../genres/classic_rock.md) |
 | 1 | bubblegum pop |
 | 1 | [broadway](../genres/broadway.md) |
 | 1 | blues rock |

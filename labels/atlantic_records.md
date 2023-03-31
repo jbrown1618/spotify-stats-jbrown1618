@@ -115,7 +115,7 @@ Appears as:
 
 
 <details>
-<summary>See all 50 genres</summary>
+<summary>See all 51 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -134,6 +134,7 @@ Appears as:
 | 3 | [classic rock](../genres/classic_rock.md) |
 | 3 | album rock |
 | 2 | washington indie |
+| 2 | viral rap |
 | 2 | trap queen |
 | 2 | pop rap |
 | 2 | pop dance |

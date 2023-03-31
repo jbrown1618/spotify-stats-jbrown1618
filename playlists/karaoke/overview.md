@@ -209,7 +209,7 @@
 | Number of Tracks | Genre |
 |---:|:---|
 | 27 | [pop](../../genres/pop.md) |
-| 17 | [rock](../../genres/rock.md) |
+| 16 | [rock](../../genres/rock.md) |
 | 14 | [classic rock](../../genres/classic_rock.md) |
 | 13 | [neo mellow](../../genres/neo_mellow.md) |
 | 10 | [pop rock](../../genres/pop_rock.md) |

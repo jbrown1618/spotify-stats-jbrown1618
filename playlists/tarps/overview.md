@@ -218,7 +218,7 @@
 | 21 | [pop](../../genres/pop.md) |
 | 10 | [neo mellow](../../genres/neo_mellow.md) |
 | 9 | [dance pop](../../genres/dance_pop.md) |
-| 8 | [rock](../../genres/rock.md) |
+| 7 | [rock](../../genres/rock.md) |
 | 7 | [classic rock](../../genres/classic_rock.md) |
 | 6 | urban contemporary |
 | 5 | [pop rock](../../genres/pop_rock.md) |
@@ -249,6 +249,7 @@
 | 2 | permanent wave |
 | 2 | motown |
 | 2 | modern folk rock |
+| 2 | [lilith](../../genres/lilith.md) |
 | 2 | indiecoustica |
 | 2 | funk |
 | 2 | country dawn |
@@ -274,7 +275,6 @@
 | 1 | melancholia |
 | 1 | mandolin |
 | 1 | lounge |
-| 1 | [lilith](../../genres/lilith.md) |
 | 1 | latin pop |
 | 1 | lafayette indie |
 | 1 | irish rock |

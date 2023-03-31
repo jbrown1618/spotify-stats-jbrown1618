@@ -107,8 +107,8 @@ Appears as:
 | 5 | indietronica |
 | 4 | metropopolis |
 | 4 | [hollywood](../genres/hollywood.md) |
-| 3 | [rock](../genres/rock.md) |
 | 2 | tropical house |
+| 2 | [rock](../genres/rock.md) |
 | 2 | psychedelic rock |
 | 2 | pop dance |
 | 2 | [mellow gold](../genres/mellow_gold.md) |
