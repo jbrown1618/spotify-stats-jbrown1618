@@ -111,7 +111,7 @@ Appears as:
 
 
 <details>
-<summary>See all 46 genres</summary>
+<summary>See all 45 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -131,7 +131,6 @@ Appears as:
 | 6 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 | 5 | permanent wave |
 | 5 | modern rock |
-| 5 | edm |
 | 4 | [lilith](../genres/lilith.md) |
 | 4 | la indie |
 | 4 | indie rock |

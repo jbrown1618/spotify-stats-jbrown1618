@@ -150,7 +150,7 @@ Appears as:
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 35 | [pop](../genres/pop.md) |
+| 38 | [pop](../genres/pop.md) |
 | 34 | [rock](../genres/rock.md) |
 | 33 | [classic rock](../genres/classic_rock.md) |
 | 31 | [mellow gold](../genres/mellow_gold.md) |

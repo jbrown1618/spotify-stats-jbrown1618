@@ -16,7 +16,7 @@ Appears as:
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
 | 12 | <img src="https://i.scdn.co/image/e9a9521ffd11cf06717c699acc48c32ec6ac7d21" alt="" width="50" /> | [Joseph Haydn](../artists/joseph_haydn.md) | [🔗](https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6) |
-| 12 | <img src="https://i.scdn.co/image/ab67616d0000b2736ff32cddce72446b0e2137a5" alt="" width="50" /> | [The Amsterdam String Quartet](../artists/the_amsterdam_string_quartet.md) | [🔗](https://open.spotify.com/artist/0kbgyaL9g2Eba79p2jiYlN) |
+| 12 | <img src="https://i.scdn.co/image/ab67616d0000b273f1e24654c624c58911f179b5" alt="" width="50" /> | [The Amsterdam String Quartet](../artists/the_amsterdam_string_quartet.md) | [🔗](https://open.spotify.com/artist/0kbgyaL9g2Eba79p2jiYlN) |
 
 </details>
 

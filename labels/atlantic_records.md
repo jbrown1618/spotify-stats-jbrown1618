@@ -115,7 +115,7 @@ Appears as:
 
 
 <details>
-<summary>See all 51 genres</summary>
+<summary>See all 50 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -123,7 +123,7 @@ Appears as:
 | 41 | [hollywood](../genres/hollywood.md) |
 | 22 | [pop](../genres/pop.md) |
 | 20 | [dance pop](../genres/dance_pop.md) |
-| 15 | [broadway](../genres/broadway.md) |
+| 16 | [broadway](../genres/broadway.md) |
 | 10 | vocal jazz |
 | 3 | [rock](../genres/rock.md) |
 | 3 | rap |
@@ -134,7 +134,7 @@ Appears as:
 | 3 | [classic rock](../genres/classic_rock.md) |
 | 3 | album rock |
 | 2 | washington indie |
-| 2 | viral rap |
+| 2 | viral pop |
 | 2 | trap queen |
 | 2 | pop rap |
 | 2 | pop dance |
@@ -146,7 +146,6 @@ Appears as:
 | 2 | edm |
 | 2 | alternative hip hop |
 | 2 | [acoustic pop](../genres/acoustic_pop.md) |
-| 1 | viral pop |
 | 1 | uk pop |
 | 1 | uk funky |
 | 1 | uk dance |

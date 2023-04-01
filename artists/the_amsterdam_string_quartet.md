@@ -2,7 +2,7 @@
 # The Amsterdam String Quartet
 
 
-<img src="https://i.scdn.co/image/ab67616d0000b2736ff32cddce72446b0e2137a5" alt="The Amsterdam String Quartet" width="100" />
+<img src="https://i.scdn.co/image/ab67616d0000b273f1e24654c624c58911f179b5" alt="The Amsterdam String Quartet" width="100" />
 
 ## Featured on Playlists
 | Number of Tracks | Art | Playlist |

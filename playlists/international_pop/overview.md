@@ -109,7 +109,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27354dbaa284c53e085523cfec2" alt="" width="50" /> | Las Ketchup | [🔗](https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2c540efb76ea47414f376af" alt="" width="50" /> | TFBOYS | [🔗](https://open.spotify.com/artist/1dywcVTpMrP7VmQUhngSce) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb12a53bc0b95fa230ccd6d661" alt="" width="50" /> | Gen Hoshino | [🔗](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5f650498f63c645062812ad1" alt="" width="50" /> | NATTI NATASHA | [🔗](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb27e4c08f0a25786383c77dbc" alt="" width="50" /> | NATTI NATASHA | [🔗](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6be69d4a6cea90132c24de23" alt="" width="50" /> | Full Trunk | [🔗](https://open.spotify.com/artist/1CD5WWtF6AFUq6BTY20I4k) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9b2f6666f0dbb3234080ce43" alt="" width="50" /> | Static & Ben El | [🔗](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb51feeef21e4e7bc941bc66bc" alt="" width="50" /> | Penny Tai | [🔗](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) |
@@ -311,7 +311,7 @@
 
 
 <details>
-<summary>See all 97 genres</summary>
+<summary>See all 98 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -336,6 +336,7 @@
 | 4 | j-idol |
 | 4 | israeli pop |
 | 4 | indonesian r&b |
+| 4 | indonesian indie |
 | 4 | c-pop |
 | 3 | urbano latino |
 | 3 | taiwan singer-songwriter |
@@ -357,7 +358,6 @@
 | 2 | francoton |
 | 2 | desi pop |
 | 2 | danish pop |
-| 2 | classic mandopop |
 | 2 | classic j-pop |
 | 2 | chinese indie |
 | 2 | chinese idol pop |
@@ -404,6 +404,7 @@
 | 1 | escape room |
 | 1 | [electropop](../../genres/electropop.md) |
 | 1 | dancehall |
+| 1 | classic mandopop |
 | 1 | chiptune |
 | 1 | chinese viral pop |
 | 1 | chinese r&b |
