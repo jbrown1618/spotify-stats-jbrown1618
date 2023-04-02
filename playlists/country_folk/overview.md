@@ -95,11 +95,11 @@
 
 ## Genres
 
-![Bar chart of top 23 genres](../../images/playlists/country_folk/genres.png)
+![Bar chart of top 22 genres](../../images/playlists/country_folk/genres.png)
 
 
 <details>
-<summary>See all 23 genres</summary>
+<summary>See all 22 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -119,7 +119,6 @@
 | 4 | outlaw country |
 | 4 | modern folk rock |
 | 4 | arkansas country |
-| 3 | [pop](../../genres/pop.md) |
 | 3 | [neo mellow](../../genres/neo_mellow.md) |
 | 3 | modern country rock |
 | 3 | country road |

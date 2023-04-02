@@ -93,7 +93,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273891062df357b8282c97526b2" alt="" width="50" /> | 拾贰 | [🔗](https://open.spotify.com/artist/30YrwNoKzUtyVQsIrwtMdr) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb639904df84c9ae5e3888ccc2" alt="" width="50" /> | Gradur | [🔗](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7e7c664aebb73b97b2664bb7" alt="" width="50" /> | Roméo Elvis | [🔗](https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0f4f6ab5abdcfa4b8660b011" alt="" width="50" /> | OAFF | [🔗](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7ad0e4ab865f24a17c0de9d7" alt="" width="50" /> | OAFF | [🔗](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6b0f1c7ebcc1202b91379648" alt="" width="50" /> | Wanitwa Mos | [🔗](https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1110b09e6951ea73e79fc55f" alt="" width="50" /> | Anamanaguchi | [🔗](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfea27ddf11b9df5322a13c84" alt="" width="50" /> | Anuel AA | [🔗](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) |
@@ -336,7 +336,6 @@
 | 4 | j-idol |
 | 4 | israeli pop |
 | 4 | indonesian r&b |
-| 4 | indonesian indie |
 | 4 | c-pop |
 | 3 | urbano latino |
 | 3 | taiwan singer-songwriter |
@@ -358,6 +357,7 @@
 | 2 | francoton |
 | 2 | desi pop |
 | 2 | danish pop |
+| 2 | classic mandopop |
 | 2 | classic j-pop |
 | 2 | chinese indie |
 | 2 | chinese idol pop |
@@ -404,13 +404,13 @@
 | 1 | escape room |
 | 1 | [electropop](../../genres/electropop.md) |
 | 1 | dancehall |
-| 1 | classic mandopop |
 | 1 | chiptune |
 | 1 | chinese viral pop |
 | 1 | chinese r&b |
 | 1 | bulgarian pop |
 | 1 | bulgarian hip hop |
 | 1 | basshall |
+| 1 | alt z |
 | 1 | afro soul |
 | 1 | afro dancehall |
 

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2738cab1c75d2271af37c3e2db9ab67616d0000b273d2ef237da7f94762997c2083ab67616d0000b273e9cd59d664f597061a513038ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="Recent Comebacks" width="100" />
 
-[73 songs](tracks.md)
+[74 songs](tracks.md)
 
 ## Top Artists
 
@@ -13,7 +13,7 @@
 
 
 <details>
-<summary>See all 43 artists</summary>
+<summary>See all 44 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -40,6 +40,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb07a86e9ca86a984f925e39c4" alt="" width="50" /> | KAI | [🔗](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../../artists/aespa.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | BIBI | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebcb6017286dd64ca6b77c879f" alt="" width="50" /> | JISOO | [🔗](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb843f0ae97978d6572f8e9cea" alt="" width="50" /> | IVE | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5d87e2a10ba3b2f8bb2c5270" alt="" width="50" /> | ATEEZ | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb83962d7c7c639d9d5c38a0e1" alt="" width="50" /> | PURPLE KISS | [🔗](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) |
@@ -70,7 +71,7 @@
 
 
 <details>
-<summary>See all 38 albums</summary>
+<summary>See all 39 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -98,6 +99,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d7610ec7724bad4e6c9e499" alt="" width="50" /> | POPPY (Japanese Ver.) | 2022-11-16 | [🔗](https://open.spotify.com/album/2nei1QXcpDotdoMz3IQxr4) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01" alt="" width="50" /> | NewJeans 'OMG' | 2023-01-02 | [🔗](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27322f0e32bfb91476f0ad96656" alt="" width="50" /> | MIC ON | 2022-10-11 | [🔗](https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f35b8a6c03cc633f734bd8ac" alt="" width="50" /> | ME | 2023-03-31 | [🔗](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="" width="50" /> | Lowlife Princess: Noir | 2022-11-18 | [🔗](https://open.spotify.com/album/0AwCgoJKJUOgLp1imhnxuH) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273204170c6b0db3a42030c5f75" alt="" width="50" /> | Kitsch | 2023-03-27 | [🔗](https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27386b1ba55bf754a73f6ecf729" alt="" width="50" /> | I ≠ DOLL | 2023-01-09 | [🔗](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) |
@@ -133,10 +135,11 @@
 | 4 | [RBW Inc.](../../labels/rbw_inc_.md) |
 | 4 | [MYSTIC STORY](../../labels/mystic_story.md) |
 | 3 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment.md) |
+| 2 | [YG Entertainment](../../labels/yg_entertainment.md) |
 | 2 | [Starship Entertainment](../../labels/starship_entertainment.md) |
+| 2 | [Interscope Records](../../labels/interscope_records.md) |
 | 2 | [BIGHIT MUSIC](../../labels/bighit_music.md) |
 | 2 | ADOR |
-| 1 | [YG Entertainment](../../labels/yg_entertainment.md) |
 | 1 | [Universal Music LLC](../../labels/universal_music_llc.md) |
 | 1 | THEBLACKLABEL |
 | 1 | [Stone Music Entertainment](../../labels/stone_music_entertainment.md) |
@@ -144,7 +147,6 @@
 | 1 | Parlophone UK |
 | 1 | [PLEDIS Entertainment](../../labels/pledis_entertainment.md) |
 | 1 | KQ Entertainment |
-| 1 | [Interscope Records](../../labels/interscope_records.md) |
 | 1 | [High Up Entertainment](../../labels/high_up_entertainment.md) |
 | 1 | HYBE LABELS JAPAN |
 | 1 | [Genie Music Corporation](../../labels/genie_music_corporation.md) |
@@ -187,7 +189,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| [2023](2023.md) | 40 |
+| [2023](2023.md) | 41 |
 | [2022](2022.md) | 33 |
 
 </details>
@@ -195,16 +197,16 @@
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273fe31201bbc019b1636066dc3" alt="Hold On Tight" width="50" /> <span style="padding-left:10px;">Hold On Tight (2023-03-30)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27357fa85a5c9f295d5e5b362e7" alt="THE SECOND STEP : CHAPTER TWO" width="50" /> <span style="padding-left:10px;">THE SECOND STEP : CHAPTER TWO (2022-10-04)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2735103a69d41417d74264dd091" alt="ACT 1, SCENE 1" width="50" /> <span style="padding-left:10px;">ACT 1, SCENE 1 (2023-03-29)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="28 Reasons - The 1st Mini Album" width="50" /> <span style="padding-left:10px;">28 Reasons - The 1st Mini Album (2022-10-04)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="the Billage of perception: chapter three" width="50" /> <span style="padding-left:10px;">the Billage of perception: chapter three (2023-03-28)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27322f0e32bfb91476f0ad96656" alt="MIC ON" width="50" /> <span style="padding-left:10px;">MIC ON (2022-10-11)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f35b8a6c03cc633f734bd8ac" alt="ME" width="50" /> <span style="padding-left:10px;">ME (2023-03-31)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27357fa85a5c9f295d5e5b362e7" alt="THE SECOND STEP : CHAPTER TWO" width="50" /> <span style="padding-left:10px;">THE SECOND STEP : CHAPTER TWO (2022-10-04)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273fe31201bbc019b1636066dc3" alt="Hold On Tight" width="50" /> <span style="padding-left:10px;">Hold On Tight (2023-03-30)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="28 Reasons - The 1st Mini Album" width="50" /> <span style="padding-left:10px;">28 Reasons - The 1st Mini Album (2022-10-04)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2735103a69d41417d74264dd091" alt="ACT 1, SCENE 1" width="50" /> <span style="padding-left:10px;">ACT 1, SCENE 1 (2023-03-29)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27322f0e32bfb91476f0ad96656" alt="MIC ON" width="50" /> <span style="padding-left:10px;">MIC ON (2022-10-11)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="the Billage of perception: chapter three" width="50" /> <span style="padding-left:10px;">the Billage of perception: chapter three (2023-03-28)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> <span style="padding-left:10px;">I love (2022-10-17)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273204170c6b0db3a42030c5f75" alt="Kitsch" width="50" /> <span style="padding-left:10px;">Kitsch (2023-03-27)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="ANTIFRAGILE" width="50" /> <span style="padding-left:10px;">ANTIFRAGILE (2022-10-17)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d" alt="FACE" width="50" /> <span style="padding-left:10px;">FACE (2023-03-24)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> <span style="padding-left:10px;">I love (2022-10-17)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f770ff371eb7015034122c8a" alt="1st Single 'S.i.R'" width="50" /> <span style="padding-left:10px;">1st Single 'S.i.R' (2023-03-21)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733730b0ab6cc8e589b87d26d7" alt="Birthday - SM STATION : NCT LAB" width="50" /> <span style="padding-left:10px;">Birthday - SM STATION : NCT LAB (2022-10-26)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273bbead884cd91c2a9b5b2a9fc" alt="expérgo" width="50" /> <span style="padding-left:10px;">expérgo (2023-03-20)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739d7610ec7724bad4e6c9e499" alt="POPPY (Japanese Ver.)" width="50" /> <span style="padding-left:10px;">POPPY (Japanese Ver.) (2022-11-16)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ca0bf7a337ed7a8bcc34948e" alt="Rover - The 3rd Mini Album" width="50" /> <span style="padding-left:10px;">Rover - The 3rd Mini Album (2023-03-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="Lowlife Princess: Noir" width="50" /> <span style="padding-left:10px;">Lowlife Princess: Noir (2022-11-18)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="READY TO BE" width="50" /> <span style="padding-left:10px;">READY TO BE (2023-03-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="Forgive Me - The 3rd Mini Album" width="50" /> <span style="padding-left:10px;">Forgive Me - The 3rd Mini Album (2022-11-22)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> <span style="padding-left:10px;">CHOSEN KARMA (2023-03-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d2ef237da7f94762997c2083" alt="‘The ReVe Festival 2022 - Birthday’" width="50" /> <span style="padding-left:10px;">‘The ReVe Festival 2022 - Birthday’ (2022-11-28)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d" alt="FACE" width="50" /> <span style="padding-left:10px;">FACE (2023-03-24)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733730b0ab6cc8e589b87d26d7" alt="Birthday - SM STATION : NCT LAB" width="50" /> <span style="padding-left:10px;">Birthday - SM STATION : NCT LAB (2022-10-26)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f770ff371eb7015034122c8a" alt="1st Single 'S.i.R'" width="50" /> <span style="padding-left:10px;">1st Single 'S.i.R' (2023-03-21)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739d7610ec7724bad4e6c9e499" alt="POPPY (Japanese Ver.)" width="50" /> <span style="padding-left:10px;">POPPY (Japanese Ver.) (2022-11-16)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273bbead884cd91c2a9b5b2a9fc" alt="expérgo" width="50" /> <span style="padding-left:10px;">expérgo (2023-03-20)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="Lowlife Princess: Noir" width="50" /> <span style="padding-left:10px;">Lowlife Princess: Noir (2022-11-18)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ca0bf7a337ed7a8bcc34948e" alt="Rover - The 3rd Mini Album" width="50" /> <span style="padding-left:10px;">Rover - The 3rd Mini Album (2023-03-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="Forgive Me - The 3rd Mini Album" width="50" /> <span style="padding-left:10px;">Forgive Me - The 3rd Mini Album (2022-11-22)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="READY TO BE" width="50" /> <span style="padding-left:10px;">READY TO BE (2023-03-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d2ef237da7f94762997c2083" alt="‘The ReVe Festival 2022 - Birthday’" width="50" /> <span style="padding-left:10px;">‘The ReVe Festival 2022 - Birthday’ (2022-11-28)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
@@ -213,25 +215,25 @@
 | Rose (0.868) | Time After Time (0.415) |
 | 1,2,3 Eoi! (0.862) | HALAZIA (0.482) |
 | PULL UP (0.853) | BLAME IT ON ME (0.483) |
-| Maknae On Top (I.N) (0.834) | Birthday (0.535) |
-| POPPY - Japanese Ver. (0.819) | Dead Man Runnin’ (0.54) |
-| On A Ride (0.817) | PAXXWORD (0.561) |
-| Chico malo (0.814) | lionheart (the real me) (0.576) |
-| Ditto (0.814) | Set Me Free Pt.2 (0.585) |
-| ZOOM (0.808) | Hold On Tight (0.586) |
+| FLOWER (0.841) | Birthday (0.535) |
+| Maknae On Top (I.N) (0.834) | Dead Man Runnin’ (0.54) |
+| POPPY - Japanese Ver. (0.819) | PAXXWORD (0.561) |
+| On A Ride (0.817) | lionheart (the real me) (0.576) |
+| Chico malo (0.814) | Set Me Free Pt.2 (0.585) |
+| Ditto (0.814) | Hold On Tight (0.586) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
 | Candy (0.964) | miss you (Hyunjin) (0.226) |
-| KARMA (0.927) | Birthday (0.528) |
-| GOT THE THRILLS (0.924) | Time After Time (0.532) |
-| Alter Ego (0.917) | Animal Farm (0.542) |
-| Nxde (0.91) | HELLO (0.575) |
-| Teddy Bear (0.91) | Crown (0.58) |
-| Forgive Me (0.894) | Floral Sense (0.588) |
-| HOME (0.892) | Maknae On Top (I.N) (0.619) |
-| HALAZIA (0.884) | enchanted night ~ white night (0.621) |
-| Beautiful Liar (0.879) | Hug Me (I.N) (0.623) |
+| KARMA (0.927) | FLOWER (0.384) |
+| GOT THE THRILLS (0.924) | Birthday (0.528) |
+| Alter Ego (0.917) | Time After Time (0.532) |
+| Nxde (0.91) | Animal Farm (0.542) |
+| Teddy Bear (0.91) | HELLO (0.575) |
+| Forgive Me (0.894) | Crown (0.58) |
+| HOME (0.892) | Floral Sense (0.588) |
+| HALAZIA (0.884) | Maknae On Top (I.N) (0.619) |
+| Beautiful Liar (0.879) | enchanted night ~ white night (0.621) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -241,10 +243,10 @@
 | Young, Dumb, Stupid (0.233) | Cupid (0.0336) |
 | KARMA (0.233) | Los Angeles (0.0344) |
 | HOME (0.215) | Candy (0.0348) |
-| Birthday (0.202) | Floral Sense (0.0362) |
-| Rover (0.201) | Time After Time (0.037) |
-| Fighting (Feat. Lee Young Ji) (0.191) | Sweet Juice (0.0372) |
-| Beautiful Liar (0.186) | Impurities (0.0373) |
+| Birthday (0.202) | FLOWER (0.0351) |
+| Rover (0.201) | Floral Sense (0.0362) |
+| Fighting (Feat. Lee Young Ji) (0.191) | Time After Time (0.037) |
+| Beautiful Liar (0.186) | Sweet Juice (0.0372) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|

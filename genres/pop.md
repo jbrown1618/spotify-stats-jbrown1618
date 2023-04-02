@@ -1,6 +1,6 @@
 # pop
 
-[524 songs](pop_tracks.md)
+[521 songs](pop_tracks.md)
 
 ## Top Artists
 
@@ -62,7 +62,6 @@
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | [🔗](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb08cd53940cbf5813ee5fe565" alt="" width="50" /> | Little Mix | [🔗](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | Jessie J | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb43d9d87bba466538f5c40901" alt="" width="50" /> | The Chicks | [🔗](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebb5f9e28219c169fd4b9e8379" alt="" width="50" /> | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebee954a3b5418065c2fe253fb" alt="" width="50" /> | Olivia Rodrigo | [🔗](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd66f1e0c883f319443d68c45" alt="" width="50" /> | Lil Nas X | [🔗](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) |
@@ -114,6 +113,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8e9d1c8642df6f869631fe62" alt="" width="50" /> | Crush | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eba4111dde02328708f5180b54" alt="" width="50" /> | Sheppard | [🔗](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c" alt="" width="50" /> | Amy Winehouse | [🔗](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb31072db9da0311ecfabe96bf" alt="" width="50" /> | Khalid | [🔗](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) |
 
 </details>
 
@@ -199,7 +199,6 @@
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4" alt="" width="50" /> | In The Zone | 2003-11-13 | [🔗](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273f531f18feaf3c28366ad52d4" alt="" width="50" /> | I - The 1st Mini Album | 2015-10-07 | [🔗](https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="" width="50" /> | Hozier (Expanded Edition) | 2014-09-19 | [🔗](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b27389847614971c417b722c4d97" alt="" width="50" /> | Home | 2002-08-27 | [🔗](https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273bb0a530fc901e88d1c7a9f4d" alt="" width="50" /> | First Love | 2013-03-28 | [🔗](https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2731764e1a1b94e887206782640" alt="" width="50" /> | Dua Lipa (Complete Edition) | 2018-10-19 | [🔗](https://open.spotify.com/album/0obMz8EHnr3dg6NCUK4xWp) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b27334ef81d1ff3b4682a4e97f70" alt="" width="50" /> | Dreaming Out Loud | 2007-01-01 | [🔗](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) |
@@ -227,6 +226,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737941a79c3108cedb1667b68d" alt="" width="50" /> | bandaids | 2020-03-24 | [🔗](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27341aa6776dc15fbd71a2b4557" alt="" width="50" /> | Youngblood (Deluxe) | 2018-06-15 | [🔗](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2" alt="" width="50" /> | Young And Beautiful | 2013-01-01 | [🔗](https://open.spotify.com/album/1D92WOHWUI2AGQCCdplcXL) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731d883d3f10af481faa3c7e04" alt="" width="50" /> | You Don't Know Me | 2016-12-09 | [🔗](https://open.spotify.com/album/3gdmWRWWJmkp5uMBXf755B) |
 
 </details>
 
@@ -242,7 +242,7 @@
 | Number of Tracks | Label |
 |---:|:---|
 | 80 | [Epic](../labels/epic.md) |
-| 38 | [Columbia](../labels/columbia.md) |
+| 35 | [Columbia](../labels/columbia.md) |
 | 34 | [Interscope Records](../labels/interscope_records.md) |
 | 33 | [Taylor Swift](../labels/taylor_swift.md) |
 | 29 | [Big Machine Records](../labels/big_machine_records.md) |
@@ -275,7 +275,6 @@
 | 3 | THE BLACK LABEL |
 | 3 | Parlophone UK |
 | 3 | Parlophone Records Limited |
-| 3 | Open Wide |
 | 3 | Olivia Rodrigo PS |
 | 3 | Island UK |
 | 3 | EMI |
@@ -286,7 +285,6 @@
 | 2 | Nicki Minaj |
 | 2 | Nice Life |
 | 2 | Mosley |
-| 2 | Monument |
 | 2 | [Legacy](../labels/legacy.md) |
 | 2 | Lava Music |
 | 2 | KSR |
@@ -341,6 +339,8 @@
 | 1 | [Decca (UMO)](../labels/decca__umo_.md) |
 | 1 | DJ Snake Music Productions Limited |
 | 1 | Colour Vision Records |
+| 1 | Charlie's Angels |
+| 1 | Capitol Records UK |
 
 </details>
 
@@ -384,7 +384,7 @@
 | bad guy (0.375) | Put A Little Love On Me (0.0262) |
 | Bubblegum (feat. Tyga) (0.34) | Begin Again (0.0263) |
 | 7 rings (0.334) | no body, no crime (feat. HAIM) (0.0264) |
-| bury a friend (0.332) | Travelin' Soldier (0.0265) |
+| bury a friend (0.332) | Machine Gun (0.0268) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -408,9 +408,9 @@
 | you should see me in a crown (0.219) | Clean (0.0) |
 | bury a friend (0.162) | To the moon (0.0) |
 | GOLDWING (0.159) | This Is Why We Can't Have Nice Things (0.0) |
-| Therefore I Am (0.135) | Travelin' Soldier (0.0) |
-| bad guy (0.13) | Love Me Like You Do (0.0) |
-| This Is What You Came For (0.119) | You've Got The Love (0.0) |
+| Therefore I Am (0.135) | Love Me Like You Do (0.0) |
+| bad guy (0.13) | You've Got The Love (0.0) |
+| This Is What You Came For (0.119) | React (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
