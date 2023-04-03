@@ -340,6 +340,7 @@
 | 3 | urbano latino |
 | 3 | taiwan singer-songwriter |
 | 3 | sunnlensk tonlist |
+| 3 | j-poprock |
 | 3 | icelandic pop |
 | 3 | bitpop |
 | 2 | shibuya-kei |
@@ -389,7 +390,6 @@
 | 1 | jewish pop |
 | 1 | japanese post-hardcore |
 | 1 | japanese math rock |
-| 1 | j-poprock |
 | 1 | j-pixie |
 | 1 | j-acoustic |
 | 1 | italian pop |

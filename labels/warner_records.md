@@ -111,21 +111,22 @@ Appears as:
 
 
 <details>
-<summary>See all 45 genres</summary>
+<summary>See all 46 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
 | 22 | [pop](../genres/pop.md) |
 | 22 | [dance pop](../genres/dance_pop.md) |
 | 16 | [rock](../genres/rock.md) |
-| 16 | [electropop](../genres/electropop.md) |
 | 13 | nz pop |
+| 13 | [electropop](../genres/electropop.md) |
 | 13 | bergen indie |
 | 11 | [classic rock](../genres/classic_rock.md) |
 | 10 | uk pop |
 | 9 | album rock |
 | 8 | [soft rock](../genres/soft_rock.md) |
 | 8 | [post-teen pop](../genres/post_teen_pop.md) |
+| 8 | edm |
 | 6 | yacht rock |
 | 6 | pop rap |
 | 6 | [k-pop girl group](../genres/k_pop_girl_group.md) |

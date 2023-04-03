@@ -56,7 +56,7 @@ Appears as:
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 8 | [k-pop](../genres/k_pop.md) |
+| 9 | [k-pop](../genres/k_pop.md) |
 | 7 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 | 1 | [korean pop](../genres/korean_pop.md) |
 

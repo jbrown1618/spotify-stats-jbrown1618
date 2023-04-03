@@ -224,7 +224,7 @@
 
 
 <details>
-<summary>See all 48 genres</summary>
+<summary>See all 49 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -241,6 +241,7 @@
 | 8 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 6 | pop rap |
 | 6 | escape room |
+| 6 | edm |
 | 6 | alternative r&b |
 | 6 | [adult standards](../../genres/adult_standards.md) |
 | 5 | quiet storm |

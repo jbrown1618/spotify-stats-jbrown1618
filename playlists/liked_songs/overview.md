@@ -356,11 +356,11 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 654 | [k-pop](../../genres/k_pop.md) |
+| 656 | [k-pop](../../genres/k_pop.md) |
 | 371 | [pop](../../genres/pop.md) |
 | 299 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 165 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
-| 162 | [dance pop](../../genres/dance_pop.md) |
+| 163 | [dance pop](../../genres/dance_pop.md) |
 | 105 | [rock](../../genres/rock.md) |
 | 78 | [classic rock](../../genres/classic_rock.md) |
 | 59 | [neo mellow](../../genres/neo_mellow.md) |
@@ -370,11 +370,11 @@
 | 43 | [hollywood](../../genres/hollywood.md) |
 | 42 | [mellow gold](../../genres/mellow_gold.md) |
 | 38 | [post-teen pop](../../genres/post_teen_pop.md) |
-| 37 | [korean pop](../../genres/korean_pop.md) |
-| 34 | [electropop](../../genres/electropop.md) |
+| 38 | [korean pop](../../genres/korean_pop.md) |
 | 34 | [art pop](../../genres/art_pop.md) |
 | 33 | [folk rock](../../genres/folk_rock.md) |
 | 32 | [soft rock](../../genres/soft_rock.md) |
+| 32 | [electropop](../../genres/electropop.md) |
 | 31 | korean r&b |
 | 30 | british invasion |
 | 28 | psychedelic rock |
@@ -390,6 +390,7 @@
 | 20 | modern rock |
 | 19 | uk pop |
 | 19 | melancholia |
+| 19 | edm |
 | 19 | anime |
 | 19 | album rock |
 | 19 | [adult standards](../../genres/adult_standards.md) |
@@ -414,7 +415,6 @@
 | 12 | australian pop |
 | 12 | atl hip hop |
 | 11 | indie rock |
-| 11 | edm |
 | 9 | tropical house |
 | 9 | lounge |
 | 9 | escape room |
@@ -454,8 +454,8 @@
 | 5 | indietronica |
 | 5 | indie poptimism |
 | 5 | girl group |
+| 5 | country rock |
 | 5 | anti-folk |
-| 5 | afrofuturism |
 
 </details>
 

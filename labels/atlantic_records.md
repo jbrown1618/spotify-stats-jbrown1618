@@ -115,7 +115,7 @@ Appears as:
 
 
 <details>
-<summary>See all 50 genres</summary>
+<summary>See all 51 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -134,7 +134,8 @@ Appears as:
 | 3 | [classic rock](../genres/classic_rock.md) |
 | 3 | album rock |
 | 2 | washington indie |
-| 2 | viral pop |
+| 2 | viral rap |
+| 2 | tropical house |
 | 2 | trap queen |
 | 2 | pop rap |
 | 2 | pop dance |
@@ -146,10 +147,10 @@ Appears as:
 | 2 | edm |
 | 2 | alternative hip hop |
 | 2 | [acoustic pop](../genres/acoustic_pop.md) |
+| 1 | viral pop |
 | 1 | uk pop |
 | 1 | uk funky |
 | 1 | uk dance |
-| 1 | tropical house |
 | 1 | trap |
 | 1 | trance |
 | 1 | southern hip hop |
