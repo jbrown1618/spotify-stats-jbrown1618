@@ -49,7 +49,7 @@
 | 3 | <img src="https://i.scdn.co/image/addf4464734979a85ef71a61c421f23a6bc143ae" alt="" width="50" /> | [Sir Neville Marriner](../artists/sir_neville_marriner.md) | [🔗](https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9) |
 | 3 | <img src="nan" alt="" width="50" /> | Sam Franko | [🔗](https://open.spotify.com/artist/3vkG71N5uQBzhzwEDr6icH) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2733658c17a5357171441798302" alt="" width="50" /> | Chor der Deutschen Oper Berlin | [🔗](https://open.spotify.com/artist/2KvV4gawnuMNG74DgSAQ0n) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273e521a22d045d61b7c4f5898f" alt="" width="50" /> | Elisabeth Sombart | [🔗](https://open.spotify.com/artist/6pp4xqAWH1oHFQX0kJtVvO) |
+| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2735bc527148c3774b330624505" alt="" width="50" /> | Elisabeth Sombart | [🔗](https://open.spotify.com/artist/6pp4xqAWH1oHFQX0kJtVvO) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2730c88531f06fd93f8e965dd97" alt="" width="50" /> | Roberte Mamou | [🔗](https://open.spotify.com/artist/6DsbdauTI2Fn2NN4B1EIUN) |
 | 2 | <img src="https://i.scdn.co/image/7360142a8274b7d0487de1d1e4b176e6fc34c112" alt="" width="50" /> | Berliner Symphoniker | [🔗](https://open.spotify.com/artist/5pF76lplGIvEFGb8lI48hA) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273f7084c7092e60fb2de9fb5f7" alt="" width="50" /> | Walter Hagen-Groll | [🔗](https://open.spotify.com/artist/5iMb1u0pxxzSPONrB4j0Zb) |

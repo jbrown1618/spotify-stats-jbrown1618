@@ -377,7 +377,6 @@
 | 2 | uk pop |
 | 2 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 2 | j-division |
-| 2 | edm |
 | 2 | chinese idol pop |
 | 1 | viral pop |
 | 1 | pop rap |
@@ -389,6 +388,7 @@
 | 1 | etherpop |
 | 1 | [electropop](../../genres/electropop.md) |
 | 1 | electronic trap |
+| 1 | edm |
 | 1 | danish pop |
 | 1 | chill r&b |
 | 1 | [art pop](../../genres/art_pop.md) |

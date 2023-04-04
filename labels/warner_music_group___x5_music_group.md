@@ -19,7 +19,7 @@ Appears as:
 | 12 | <img src="https://i.scdn.co/image/1dc8f4430bbf39a814e3413892c020122215924f" alt="" width="50" /> | [Carmen Piazzini](../artists/carmen_piazzini.md) | [🔗](https://open.spotify.com/artist/6aQUOvrKLOquCAvIGdIwTx) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273a3096c4f027435226cdfd8e1" alt="" width="50" /> | Mikhail Gantvarg | [🔗](https://open.spotify.com/artist/1SCRjxxRnRFsoctLKXIoZx) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273a3096c4f027435226cdfd8e1" alt="" width="50" /> | The St. Petersburg Soloists | [🔗](https://open.spotify.com/artist/11K9yxwc8iVyEh0ya9v9XY) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273e521a22d045d61b7c4f5898f" alt="" width="50" /> | Elisabeth Sombart | [🔗](https://open.spotify.com/artist/6pp4xqAWH1oHFQX0kJtVvO) |
+| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2735bc527148c3774b330624505" alt="" width="50" /> | Elisabeth Sombart | [🔗](https://open.spotify.com/artist/6pp4xqAWH1oHFQX0kJtVvO) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2730c88531f06fd93f8e965dd97" alt="" width="50" /> | Roberte Mamou | [🔗](https://open.spotify.com/artist/6DsbdauTI2Fn2NN4B1EIUN) |
 | 2 | <img src="https://i.scdn.co/image/7360142a8274b7d0487de1d1e4b176e6fc34c112" alt="" width="50" /> | Berliner Symphoniker | [🔗](https://open.spotify.com/artist/5pF76lplGIvEFGb8lI48hA) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273f478f283072a58db18a306b2" alt="" width="50" /> | Gerard Oskamp | [🔗](https://open.spotify.com/artist/4TWzdKT6XMuddLAoj6PgXi) |

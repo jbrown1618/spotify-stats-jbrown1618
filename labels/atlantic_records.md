@@ -135,7 +135,6 @@ Appears as:
 | 3 | album rock |
 | 2 | washington indie |
 | 2 | viral rap |
-| 2 | tropical house |
 | 2 | trap queen |
 | 2 | pop rap |
 | 2 | pop dance |
@@ -151,6 +150,7 @@ Appears as:
 | 1 | uk pop |
 | 1 | uk funky |
 | 1 | uk dance |
+| 1 | tropical house |
 | 1 | trap |
 | 1 | trance |
 | 1 | southern hip hop |

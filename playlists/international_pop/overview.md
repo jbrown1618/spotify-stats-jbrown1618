@@ -17,7 +17,7 @@
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
-| 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a669de19d4381073d85701a" alt="" width="50" /> | BABYMETAL | [🔗](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) |
+| 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb97f9f67e7af9fdf5337c1ff0" alt="" width="50" /> | BABYMETAL | [🔗](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb284894d68fe2f80cad555110" alt="" width="50" /> | Shakira | [🔗](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb50e69bf99b647d12b14cb314" alt="" width="50" /> | Isyana Sarasvati | [🔗](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375" alt="" width="50" /> | Hatsune Miku | [🔗](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) |
@@ -311,7 +311,7 @@
 
 
 <details>
-<summary>See all 98 genres</summary>
+<summary>See all 97 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -410,7 +410,6 @@
 | 1 | bulgarian pop |
 | 1 | bulgarian hip hop |
 | 1 | basshall |
-| 1 | alt z |
 | 1 | afro soul |
 | 1 | afro dancehall |
 

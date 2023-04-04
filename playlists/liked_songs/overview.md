@@ -63,7 +63,7 @@
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb03fd839c09fe375026192645" alt="" width="50" /> | GOT the beat | [🔗](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) |
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | Imogen Heap | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb74700cf88c04af5201df7298" alt="" width="50" /> | AKMU | [🔗](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) |
-| 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a669de19d4381073d85701a" alt="" width="50" /> | BABYMETAL | [🔗](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) |
+| 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb97f9f67e7af9fdf5337c1ff0" alt="" width="50" /> | BABYMETAL | [🔗](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) |
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | Camila Cabello | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb04c88d140b3db4fa42ef84f2" alt="" width="50" /> | NMIXX | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d874b307cb092e68db73207" alt="" width="50" /> | [NCT 127](../../artists/nct_127.md) | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
@@ -360,7 +360,7 @@
 | 371 | [pop](../../genres/pop.md) |
 | 299 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 165 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
-| 163 | [dance pop](../../genres/dance_pop.md) |
+| 162 | [dance pop](../../genres/dance_pop.md) |
 | 105 | [rock](../../genres/rock.md) |
 | 78 | [classic rock](../../genres/classic_rock.md) |
 | 59 | [neo mellow](../../genres/neo_mellow.md) |
@@ -370,7 +370,7 @@
 | 43 | [hollywood](../../genres/hollywood.md) |
 | 42 | [mellow gold](../../genres/mellow_gold.md) |
 | 38 | [post-teen pop](../../genres/post_teen_pop.md) |
-| 38 | [korean pop](../../genres/korean_pop.md) |
+| 37 | [korean pop](../../genres/korean_pop.md) |
 | 34 | [art pop](../../genres/art_pop.md) |
 | 33 | [folk rock](../../genres/folk_rock.md) |
 | 32 | [soft rock](../../genres/soft_rock.md) |
@@ -390,7 +390,6 @@
 | 20 | modern rock |
 | 19 | uk pop |
 | 19 | melancholia |
-| 19 | edm |
 | 19 | anime |
 | 19 | album rock |
 | 19 | [adult standards](../../genres/adult_standards.md) |
@@ -415,6 +414,7 @@
 | 12 | australian pop |
 | 12 | atl hip hop |
 | 11 | indie rock |
+| 11 | edm |
 | 9 | tropical house |
 | 9 | lounge |
 | 9 | escape room |

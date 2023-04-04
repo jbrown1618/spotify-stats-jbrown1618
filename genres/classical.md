@@ -111,7 +111,7 @@
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273011ad120d2b19f16f59a8aaf" alt="" width="50" /> | Elizabeth Wilcock | [🔗](https://open.spotify.com/artist/1OfYCRcS14pyRVrO0qTCbs) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fcfc4662d94dad49e635eaf" alt="" width="50" /> | Valentina Lisitsa | [🔗](https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca) |
 | 3 | <img src="https://i.scdn.co/image/005fcb121f6b97637c1fb438bcc616e5e4833091" alt="" width="50" /> | Charles Dutoit | [🔗](https://open.spotify.com/artist/0Ku5VBNL7cfGXRhp2BxXEQ) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273e521a22d045d61b7c4f5898f" alt="" width="50" /> | Elisabeth Sombart | [🔗](https://open.spotify.com/artist/6pp4xqAWH1oHFQX0kJtVvO) |
+| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2735bc527148c3774b330624505" alt="" width="50" /> | Elisabeth Sombart | [🔗](https://open.spotify.com/artist/6pp4xqAWH1oHFQX0kJtVvO) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2730c88531f06fd93f8e965dd97" alt="" width="50" /> | Roberte Mamou | [🔗](https://open.spotify.com/artist/6DsbdauTI2Fn2NN4B1EIUN) |
 | 2 | <img src="https://i.scdn.co/image/7360142a8274b7d0487de1d1e4b176e6fc34c112" alt="" width="50" /> | Berliner Symphoniker | [🔗](https://open.spotify.com/artist/5pF76lplGIvEFGb8lI48hA) |
 

@@ -111,7 +111,7 @@ Appears as:
 
 
 <details>
-<summary>See all 46 genres</summary>
+<summary>See all 45 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -126,7 +126,6 @@ Appears as:
 | 9 | album rock |
 | 8 | [soft rock](../genres/soft_rock.md) |
 | 8 | [post-teen pop](../genres/post_teen_pop.md) |
-| 8 | edm |
 | 6 | yacht rock |
 | 6 | pop rap |
 | 6 | [k-pop girl group](../genres/k_pop_girl_group.md) |
