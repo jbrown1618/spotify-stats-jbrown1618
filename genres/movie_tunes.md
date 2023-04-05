@@ -1,6 +1,6 @@
 # movie tunes
 
-[40 songs](movie_tunes_tracks.md)
+[42 songs](movie_tunes_tracks.md)
 
 ## Top Artists
 
@@ -10,11 +10,11 @@
 
 
 <details>
-<summary>See all 65 artists</summary>
+<summary>See all 66 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
-| 15 | <img src="https://i.scdn.co/image/ab6761610000e5ebc698d53b77db34027b00f853" alt="" width="50" /> | [Disney](../artists/disney.md) | [🔗](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) |
+| 17 | <img src="https://i.scdn.co/image/ab6761610000e5ebc698d53b77db34027b00f853" alt="" width="50" /> | [Disney](../artists/disney.md) | [🔗](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) |
 | 5 | <img src="https://i.scdn.co/image/191d9c926a51e6d0abc49b7416689b52a2662efc" alt="" width="50" /> | Lea Salonga | [🔗](https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b27391802cd59c40ec47424e2635" alt="" width="50" /> | Judy Kuhn | [🔗](https://open.spotify.com/artist/7tHd518aPjJYUgyv9bidBz) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b27314dd049936f9d42787c8128d" alt="" width="50" /> | Tony Jay | [🔗](https://open.spotify.com/artist/5qQpn0ZokyamZjyKtkKUYD) |
@@ -28,6 +28,7 @@
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b27317f613f05ec89836d8c4ad0c" alt="" width="50" /> | Jerry Orbach | [🔗](https://open.spotify.com/artist/5i2OpmeVKsmViqoETxuOvO) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2730cc79e7adefed420553e65fe" alt="" width="50" /> | Jason Weaver | [🔗](https://open.spotify.com/artist/5UdPkKWd8YNR5xGcmqH9QJ) |
 | 2 | <img src="nan" alt="" width="50" /> | Tom Hulce | [🔗](https://open.spotify.com/artist/4wd5K3s3ekf0czSh2qGjTD) |
+| 2 | <img src="https://i.scdn.co/image/71f1d9f48ea0176ccb1e4bea3925c39b4af9b3b5" alt="" width="50" /> | Robin Williams | [🔗](https://open.spotify.com/artist/4OrieSJUghNfNx5UuPCgxF) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273a22b3c7eefefd14e57cc068b" alt="" width="50" /> | Brad Kane | [🔗](https://open.spotify.com/artist/3dAzSJ9lQnJSq5Z0OgDBep) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273d0c7dc63c51d6b24862592e9" alt="" width="50" /> | Richard White | [🔗](https://open.spotify.com/artist/0jWqALm6pl5CHj5N0eO68G) |
 | 2 | <img src="nan" alt="" width="50" /> | Ernie Sabella | [🔗](https://open.spotify.com/artist/0RH6EMxqfzCEB7QCSKQ4xr) |
@@ -94,11 +95,11 @@
 |---:|:---|:---|:---|:---|
 | 5 | <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | The Lion King | 1994-01-01 | [🔗](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) |
 | 5 | <img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="" width="50" /> | Beauty and the Beast | 1991-01-01 | [🔗](https://open.spotify.com/album/3O5p9VNddbwvqWTdYKEqV5) |
+| 5 | <img src="https://i.scdn.co/image/ab67616d0000b2734a4b92dcf7a5c51cc4f7424c" alt="" width="50" /> | Aladdin Special Edition | 2004-01-01 | [🔗](https://open.spotify.com/album/7bt2aty3lUo6Q1Ud8pthRz) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="" width="50" /> | The Little Mermaid Special Edition | 2006-01-01 | [🔗](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273a45790b93f47d427a2aefa9d" alt="" width="50" /> | The Hunchback Of Notre Dame (Original Motion Picture Soundtrack) | 1996-05-28 | [🔗](https://open.spotify.com/album/7btQeUDTIIfnh2iCQ8Pfhq) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc" alt="" width="50" /> | Mulan (Original Soundtrack) | 1998-01-01 | [🔗](https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="" width="50" /> | Frozen (Original Motion Picture Soundtrack / Deluxe Edition) | 2013-01-01 | [🔗](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b2734a4b92dcf7a5c51cc4f7424c" alt="" width="50" /> | Aladdin Special Edition | 2004-01-01 | [🔗](https://open.spotify.com/album/7bt2aty3lUo6Q1Ud8pthRz) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273281dfd7af2ee99a124404623" alt="" width="50" /> | Pocahontas | 1995-01-01 | [🔗](https://open.spotify.com/album/7L6kEZVkWh7OEI71b1JHZd) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | Les Misérables (Original Broadway Cast Recording) | 1987-05-11 | [🔗](https://open.spotify.com/album/3jbKDx0zB1QoJQTw8i1AvD) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d5758ffb1632e086776cf14d" alt="" width="50" /> | The Princess and the Frog (Original Motion Picture Soundtrack) | 2009-11-23 | [🔗](https://open.spotify.com/album/0CcL28OkH89kjgKpNZC8sW) |
@@ -124,7 +125,7 @@
 
 | Number of Tracks | Label |
 |---:|:---|
-| 37 | [Walt Disney Records](../labels/walt_disney_records.md) |
+| 39 | [Walt Disney Records](../labels/walt_disney_records.md) |
 | 2 | [Verve (Adult Contemporary) MC](../labels/verve__adult_contemporary__mc.md) |
 | 1 | LML Music |
 
@@ -141,10 +142,10 @@
 | I Just Can't Wait to Be King - From "The Lion King" Soundtrack (0.689) | Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version (0.241) |
 | Kiss the Girl (0.667) | Reflection (0.255) |
 | Gaston - From "Beauty and the Beast" / Soundtrack Version (0.654) | A Heart Full Of Love (0.258) |
-| Who's Afraid of the Big, Bad Wolf - From "Three Little Pigs" (0.611) | A Dream Is a Wish Your Heart Makes (0.262) |
-| Something There - From "Beauty and the Beast"/Soundtrack Version (0.588) | Colors of the Wind - From "Pocahontas" / Soundtrack Version (0.272) |
-| How Far I'll Go (0.571) | Part of Your World (0.274) |
-| One Jump Ahead (0.564) | A Whole New World (0.283) |
+| Friend Like Me (0.644) | A Dream Is a Wish Your Heart Makes (0.262) |
+| Who's Afraid of the Big, Bad Wolf - From "Three Little Pigs" (0.611) | Colors of the Wind - From "Pocahontas" / Soundtrack Version (0.272) |
+| Something There - From "Beauty and the Beast"/Soundtrack Version (0.588) | Part of Your World (0.274) |
+| How Far I'll Go (0.571) | A Whole New World (0.283) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -153,11 +154,11 @@
 | Gaston - From "Beauty and the Beast" / Soundtrack Version (0.605) | Do You Want to Build a Snowman? - From "Frozen"/Soundtrack Version (0.121) |
 | Bibbidi-Bobbidi-Boo - From "Cinderella" Soundtrack (0.57) | A Heart Full Of Love (0.125) |
 | I Just Can't Wait to Be King - From "The Lion King" Soundtrack (0.533) | Can You Feel the Love Tonight - From "The Lion King" / Soundtrack Version (0.132) |
-| Under the Sea (0.475) | Part of Your World (0.144) |
-| Be Our Guest - From "Beauty And The Beast" Soundtrack (0.421) | Heaven's Light/Hellfire (0.159) |
-| Be Prepared - From "The Lion King" / Soundtrack Version (0.417) | Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version (0.162) |
-| For the First Time in Forever - From "Frozen"/Soundtrack Version (0.411) | Colors of the Wind - From "Pocahontas" / Soundtrack Version (0.164) |
-| Circle of Life - From "The Lion King" Soundtrack (0.391) | A Dream Is a Wish Your Heart Makes (0.17) |
+| Friend Like Me (0.482) | Part of Your World (0.144) |
+| Under the Sea (0.475) | Heaven's Light/Hellfire (0.159) |
+| Prince Ali (0.438) | Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version (0.162) |
+| Be Our Guest - From "Beauty And The Beast" Soundtrack (0.421) | Colors of the Wind - From "Pocahontas" / Soundtrack Version (0.164) |
+| Be Prepared - From "The Lion King" / Soundtrack Version (0.417) | A Dream Is a Wish Your Heart Makes (0.17) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -165,12 +166,12 @@
 | Be Our Guest - From "Beauty And The Beast" Soundtrack (0.172) | Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version (0.035) |
 | Mother Knows Best - From "Tangled"/Soundtrack Version (0.166) | An Unusual Prince / Once Upon A Dream - From "Sleeping Beauty"/Soundtrack Version (0.0362) |
 | Under the Sea (0.161) | A Whole New World (0.0366) |
-| Gaston - From "Beauty and the Beast" / Soundtrack Version (0.138) | Something There - From "Beauty and the Beast"/Soundtrack Version (0.0374) |
-| Hakuna Matata - From "The Lion King" Soundtrack (0.137) | Reflection (0.0379) |
-| One Jump Ahead (0.127) | God Help the Outcasts (0.0382) |
-| Belle - From "Beauty and the Beast"/Soundtrack Version (0.106) | A Heart Full Of Love (0.0387) |
-| Poor Unfortunate Souls (0.101) | In My Life (0.0391) |
-| Friends on the Other Side (0.0982) | Reflection (0.0391) |
+| Friend Like Me (0.149) | Something There - From "Beauty and the Beast"/Soundtrack Version (0.0374) |
+| Gaston - From "Beauty and the Beast" / Soundtrack Version (0.138) | Reflection (0.0379) |
+| Hakuna Matata - From "The Lion King" Soundtrack (0.137) | God Help the Outcasts (0.0382) |
+| One Jump Ahead (0.127) | A Heart Full Of Love (0.0387) |
+| Belle - From "Beauty and the Beast"/Soundtrack Version (0.106) | In My Life (0.0391) |
+| Poor Unfortunate Souls (0.101) | Reflection (0.0391) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -182,8 +183,8 @@
 | Who's Afraid of the Big, Bad Wolf - From "Three Little Pigs" (0.945) | Honor To Us All (0.447) |
 | Colors of the Wind - From "Pocahontas" / Soundtrack Version (0.929) | A Girl Worth Fighting For (0.564) |
 | God Help the Outcasts (0.928) | Hakuna Matata - From "The Lion King" Soundtrack (0.617) |
-| Part of Your World (0.92) | How Far I'll Go (0.649) |
-| Just Around the Riverbend - From "Pocahontas" / Soundtrack Version (0.919) | Kiss the Girl (0.686) |
+| Part of Your World (0.92) | Friend Like Me (0.624) |
+| Just Around the Riverbend - From "Pocahontas" / Soundtrack Version (0.919) | How Far I'll Go (0.649) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
@@ -191,25 +192,25 @@
 | An Unusual Prince / Once Upon A Dream - From "Sleeping Beauty"/Soundtrack Version (0.00585) | Belle - From "Beauty and the Beast"/Soundtrack Version (0.0) |
 | Who's Afraid of the Big, Bad Wolf - From "Three Little Pigs" (0.00412) | Gaston - From "Beauty and the Beast" / Soundtrack Version (0.0) |
 | Colors of the Wind - From "Pocahontas" / Soundtrack Version (0.0011) | In My Life (0.0) |
-| Reflection (0.00076) | Arabian Nights (0.0) |
-| A Dream Is a Wish Your Heart Makes (0.000407) | Be Prepared - From "The Lion King" / Soundtrack Version (0.0) |
-| Part of Your World (0.000388) | Love Is an Open Door - From "Frozen"/Soundtrack Version (0.0) |
-| God Help the Outcasts (0.000246) | A Girl Worth Fighting For (0.0) |
-| Do You Want to Build a Snowman? - From "Frozen"/Soundtrack Version (0.000176) | Kiss the Girl (0.0) |
-| Friends on the Other Side (0.000156) | Can You Feel the Love Tonight - From "The Lion King" / Soundtrack Version (0.0) |
+| Reflection (0.00076) | Prince Ali (0.0) |
+| A Dream Is a Wish Your Heart Makes (0.000407) | Arabian Nights (0.0) |
+| Part of Your World (0.000388) | Be Prepared - From "The Lion King" / Soundtrack Version (0.0) |
+| God Help the Outcasts (0.000246) | Friend Like Me (0.0) |
+| Do You Want to Build a Snowman? - From "Frozen"/Soundtrack Version (0.000176) | Love Is an Open Door - From "Frozen"/Soundtrack Version (0.0) |
+| Friends on the Other Side (0.000156) | A Girl Worth Fighting For (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
 | One Jump Ahead (0.742) | Mother Knows Best - From "Tangled"/Soundtrack Version (0.0451) |
 | Reflection (0.722) | Heaven's Light/Hellfire (0.0683) |
-| Can You Feel the Love Tonight - From "The Lion King" / Soundtrack Version (0.57) | God Help the Outcasts (0.073) |
-| Friends on the Other Side (0.51) | Out There (0.0779) |
-| Poor Unfortunate Souls (0.367) | Be Our Guest - From "Beauty And The Beast" Soundtrack (0.0788) |
-| Reflection (0.335) | Who's Afraid of the Big, Bad Wolf - From "Three Little Pigs" (0.0919) |
-| Love Is an Open Door - From "Frozen"/Soundtrack Version (0.319) | I Just Can't Wait to Be King - From "The Lion King" Soundtrack (0.0958) |
-| In My Life (0.312) | A Whole New World (0.1) |
-| Circle of Life - From "The Lion King" Soundtrack (0.296) | Be Prepared - From "The Lion King" / Soundtrack Version (0.1) |
-| Part of Your World (0.29) | Kiss the Girl (0.104) |
+| Friend Like Me (0.693) | God Help the Outcasts (0.073) |
+| Can You Feel the Love Tonight - From "The Lion King" / Soundtrack Version (0.57) | Out There (0.0779) |
+| Friends on the Other Side (0.51) | Be Our Guest - From "Beauty And The Beast" Soundtrack (0.0788) |
+| Poor Unfortunate Souls (0.367) | Who's Afraid of the Big, Bad Wolf - From "Three Little Pigs" (0.0919) |
+| Reflection (0.335) | I Just Can't Wait to Be King - From "The Lion King" Soundtrack (0.0958) |
+| Love Is an Open Door - From "Frozen"/Soundtrack Version (0.319) | A Whole New World (0.1) |
+| In My Life (0.312) | Be Prepared - From "The Lion King" / Soundtrack Version (0.1) |
+| Circle of Life - From "The Lion King" Soundtrack (0.296) | Kiss the Girl (0.104) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
@@ -221,5 +222,5 @@
 | Kiss the Girl (0.721) | God Help the Outcasts (0.128) |
 | One Jump Ahead (0.688) | In My Life (0.141) |
 | Gaston - From "Beauty and the Beast" / Soundtrack Version (0.678) | A Dream Is a Wish Your Heart Makes (0.149) |
-| Honor To Us All (0.652) | Do You Want to Build a Snowman? - From "Frozen"/Soundtrack Version (0.166) |
-| Who's Afraid of the Big, Bad Wolf - From "Three Little Pigs" (0.635) | Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version (0.183) |
+| Friend Like Me (0.666) | Do You Want to Build a Snowman? - From "Frozen"/Soundtrack Version (0.166) |
+| Honor To Us All (0.652) | Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version (0.183) |

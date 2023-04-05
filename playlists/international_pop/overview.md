@@ -311,7 +311,7 @@
 
 
 <details>
-<summary>See all 97 genres</summary>
+<summary>See all 98 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -410,6 +410,7 @@
 | 1 | bulgarian pop |
 | 1 | bulgarian hip hop |
 | 1 | basshall |
+| 1 | alt z |
 | 1 | afro soul |
 | 1 | afro dancehall |
 

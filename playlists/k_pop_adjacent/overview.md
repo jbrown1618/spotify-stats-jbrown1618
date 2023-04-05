@@ -212,6 +212,7 @@
 | 3 | canadian pop |
 | 2 | rap |
 | 2 | pop dance |
+| 2 | [korean pop](../../genres/korean_pop.md) |
 | 2 | korean indie rock |
 | 2 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 2 | indie r&b |
@@ -231,7 +232,6 @@
 | 1 | modern rock |
 | 1 | modern alternative rock |
 | 1 | melodic rap |
-| 1 | [korean pop](../../genres/korean_pop.md) |
 | 1 | korean city pop |
 | 1 | [k-pop](../../genres/k_pop.md) |
 | 1 | japanese teen pop |

@@ -1,6 +1,6 @@
 # korean pop
 
-[46 songs](korean_pop_tracks.md)
+[47 songs](korean_pop_tracks.md)
 
 ## Top Artists
 
@@ -10,7 +10,7 @@
 
 
 <details>
-<summary>See all 34 artists</summary>
+<summary>See all 35 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -41,6 +41,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6772690000c46cabd01dc7714cb1037aeaf827" alt="" width="50" /> | SOYOU | [🔗](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebde8ad216e0ff7a76573c835e" alt="" width="50" /> | [SEULGI](../artists/seulgi.md) | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb065608c797a38d142082fc8a" alt="" width="50" /> | Punch | [🔗](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb970f0b3d28b0b43bed19ee87" alt="" width="50" /> | Vincent Blue | [🔗](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27381db0f62317f03a38fb5d5f2" alt="" width="50" /> | lIlBOI | [🔗](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb178f1c6aa9751667cef51db3" alt="" width="50" /> | TAEIL | [🔗](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4c22467d83689a84c7f37ad" alt="" width="50" /> | KIMSEJEONG | [🔗](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) |
@@ -57,7 +58,7 @@
 
 
 <details>
-<summary>See all 39 albums</summary>
+<summary>See all 40 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -69,6 +70,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27352d0ac4eb2c3fd56c01a01b5" alt="" width="50" /> | Written In The Stars | 2018-10-11 | [🔗](https://open.spotify.com/album/08z3DsL7P6RpBR3FgNMSvN) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273e5b72a052cd11134380eeb8a" alt="" width="50" /> | Wish & Wind | 2018-03-08 | [🔗](https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b866ae204041c820a937a0f5" alt="" width="50" /> | When it snows(Feat.Heize) | 2021-12-03 | [🔗](https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27339471ea54531f267e90a7403" alt="" width="50" /> | Weightlifting Fairy Kim Bok Joo (Original Television Soundtrack, Pt. 2) | 2016-11-23 | [🔗](https://open.spotify.com/album/1T8J131uP2pI7VuxSF2zp3) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27345c3e1eaeaed3345abae9616" alt="" width="50" /> | Undo | 2022-06-30 | [🔗](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="" width="50" /> | Twenty-Five Twenty-One OST | 2022-04-03 | [🔗](https://open.spotify.com/album/77NPr874WU941XZhjO43dR) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273aae78727e396da9f03032eda" alt="" width="50" /> | Traffic light | 2021-05-14 | [🔗](https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm) |
@@ -106,11 +108,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 26 record labels](../images/genres/korean_pop/labels.png)
+![Bar chart of top 27 record labels](../images/genres/korean_pop/labels.png)
 
 
 <details>
-<summary>See all 26 labels</summary>
+<summary>See all 27 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -124,6 +126,7 @@
 | 2 | FLEX M |
 | 1 | 코어콘텐츠미디어 |
 | 1 | 스튜디오앤뉴 |
+| 1 | 스타엔트리엔터테인먼트 |
 | 1 | 뮤직앤뉴 |
 | 1 | 더라이브레이블 |
 | 1 | YMC Ent. |
@@ -203,13 +206,13 @@
 | Whale (0.00351) | Miracle (0.0) |
 | FREEDOM (0.000966) | Traffic light (0.0) |
 | Floral Sense (0.000598) | Why Can't You Love Me? (0.0) |
-| LAW (Prod. Czaer) (0.000111) | Best Friend (with SEULGI) (0.0) |
-| Rain and You (7.31e-05) | Done For Me (0.0) |
-| NAKKA (with IU) (2.81e-05) | And July (0.0) |
-| First Sight (1.88e-05) | How People Move (0.0) |
-| Lyricist (1.14e-05) | Some (feat. Lil Boi) (0.0) |
-| Like Water (6.06e-06) | HAPPEN (0.0) |
-| Headlock (3.44e-06) | Flower Way (Prod. By ZICO) (0.0) |
+| From now on (0.000374) | Best Friend (with SEULGI) (0.0) |
+| LAW (Prod. Czaer) (0.000111) | Done For Me (0.0) |
+| Rain and You (7.31e-05) | And July (0.0) |
+| NAKKA (with IU) (2.81e-05) | How People Move (0.0) |
+| First Sight (1.88e-05) | Some (feat. Lil Boi) (0.0) |
+| Lyricist (1.14e-05) | HAPPEN (0.0) |
+| Like Water (6.06e-06) | Flower Way (Prod. By ZICO) (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -232,7 +235,7 @@
 | How People Move (0.848) | Melted (0.169) |
 | Ya! (feat. Whee In) (0.795) | When it snows(Feat.Heize) (0.176) |
 | And July (0.787) | Get Ready To Leave (0.208) |
-| Undo (0.734) | I will show you (0.226) |
-| Cat (Feat. IU) (0.702) | How can I love the heartbreak, you're the one I love (0.228) |
-| Whale (0.684) | First Sight (0.239) |
-| Headlock (0.672) | Done For Me (0.241) |
+| From now on (0.749) | I will show you (0.226) |
+| Undo (0.734) | How can I love the heartbreak, you're the one I love (0.228) |
+| Cat (Feat. IU) (0.702) | First Sight (0.239) |
+| Whale (0.684) | Done For Me (0.241) |

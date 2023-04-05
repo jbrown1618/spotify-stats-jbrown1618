@@ -121,11 +121,11 @@
 
 ## Genres
 
-![Bar chart of top 29 genres](../../images/playlists/hip_hop/genres.png)
+![Bar chart of top 28 genres](../../images/playlists/hip_hop/genres.png)
 
 
 <details>
-<summary>See all 29 genres</summary>
+<summary>See all 28 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -138,7 +138,6 @@
 | 4 | detroit hip hop |
 | 4 | chicago rap |
 | 3 | gangster rap |
-| 2 | viral rap |
 | 2 | trap |
 | 2 | southern hip hop |
 | 2 | queens hip hop |

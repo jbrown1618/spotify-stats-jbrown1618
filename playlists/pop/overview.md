@@ -361,18 +361,18 @@
 |---:|:---|
 | 316 | [pop](../../genres/pop.md) |
 | 187 | [dance pop](../../genres/dance_pop.md) |
-| 44 | [post-teen pop](../../genres/post_teen_pop.md) |
+| 49 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 30 | [art pop](../../genres/art_pop.md) |
 | 29 | uk pop |
 | 24 | [electropop](../../genres/electropop.md) |
 | 23 | urban contemporary |
 | 21 | pop rap |
 | 18 | edm |
+| 16 | [r&b](../../genres/r_b.md) |
 | 15 | neo soul |
 | 14 | [neo mellow](../../genres/neo_mellow.md) |
 | 14 | barbadian pop |
 | 12 | atl hip hop |
-| 11 | [r&b](../../genres/r_b.md) |
 | 11 | pop dance |
 | 11 | canadian pop |
 | 11 | british soul |
@@ -408,7 +408,6 @@
 | 4 | europop |
 | 4 | electro house |
 | 4 | canadian contemporary r&b |
-| 3 | viral rap |
 | 3 | progressive house |
 | 3 | nz pop |
 | 3 | modern alternative rock |
@@ -459,6 +458,7 @@
 | 1 | oakland hip hop |
 | 1 | nyc pop |
 | 1 | neon pop punk |
+| 1 | lafayette indie |
 
 </details>
 

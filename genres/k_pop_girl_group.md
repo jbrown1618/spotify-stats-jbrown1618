@@ -1,6 +1,6 @@
 # k-pop girl group
 
-[408 songs](k_pop_girl_group_tracks.md)
+[410 songs](k_pop_girl_group_tracks.md)
 
 ## Top Artists
 
@@ -21,7 +21,7 @@
 | 28 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 | 20 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../artists/mamamoo.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
 | 17 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../artists/aespa.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
-| 15 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | [Girls' Generation](../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
+| 17 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | [Girls' Generation](../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="" width="50" /> | [Dreamcatcher](../artists/dreamcatcher.md) | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 | 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f44c5165785a877bd4ae376" alt="" width="50" /> | [STAYC](../artists/stayc.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5eb04c88d140b3db4fa42ef84f2" alt="" width="50" /> | NMIXX | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
@@ -204,7 +204,7 @@
 
 | Number of Tracks | Label |
 |---:|:---|
-| 86 | [SM Entertainment](../labels/sm_entertainment.md) |
+| 88 | [SM Entertainment](../labels/sm_entertainment.md) |
 | 72 | [Republic Records](../labels/republic_records.md) |
 | 29 | [YG Entertainment](../labels/yg_entertainment.md) |
 | 24 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md) |
@@ -281,9 +281,9 @@
 | Scandal (0.898) | 7월 7일 One Of These Nights (0.436) |
 | Time Slip (0.897) | You Better Run (0.436) |
 | Louder (0.886) | Poison (0.442) |
-| Nobody (0.882) | Addicted (0.463) |
-| So Hot (0.879) | Life's Too Short (English Version) (0.472) |
-| Pepe (0.879) | REASON (0.474) |
+| The Boys (0.885) | Addicted (0.463) |
+| Nobody (0.882) | Life's Too Short (English Version) (0.472) |
+| So Hot (0.879) | REASON (0.474) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
