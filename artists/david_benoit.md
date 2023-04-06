@@ -7,7 +7,7 @@
 ## Featured on Playlists
 | Number of Tracks | Art | Playlist |
 |---:|:---|:---|
-| 21 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273068a5559744d17bd5e871740ab67616d0000b273a1113af3a19a41dc8eec534eab67616d0000b273cb81eb3c1238c60f2bbfd3b5ab67616d0000b273ef54c10b95411c51b9ab873b" alt="" width="50" /> | [Jazz](../playlists/jazz/overview.md) |
+| 21 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273068a5559744d17bd5e871740ab67616d0000b2735b664c138b2f3b886d137909ab67616d0000b273a1113af3a19a41dc8eec534eab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="" width="50" /> | [Jazz](../playlists/jazz/overview.md) |
 ## Top Albums
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |

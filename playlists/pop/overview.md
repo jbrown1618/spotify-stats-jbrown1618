@@ -360,11 +360,11 @@
 | Number of Tracks | Genre |
 |---:|:---|
 | 316 | [pop](../../genres/pop.md) |
-| 187 | [dance pop](../../genres/dance_pop.md) |
-| 49 | [post-teen pop](../../genres/post_teen_pop.md) |
+| 188 | [dance pop](../../genres/dance_pop.md) |
+| 44 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 30 | [art pop](../../genres/art_pop.md) |
 | 29 | uk pop |
-| 24 | [electropop](../../genres/electropop.md) |
+| 28 | [electropop](../../genres/electropop.md) |
 | 23 | urban contemporary |
 | 21 | pop rap |
 | 18 | edm |
@@ -398,6 +398,7 @@
 | 5 | piano rock |
 | 5 | permanent wave |
 | 5 | indie poptimism |
+| 5 | electro house |
 | 5 | contemporary r&b |
 | 5 | afrofuturism |
 | 4 | south carolina hip hop |
@@ -406,7 +407,6 @@
 | 4 | [hollywood](../../genres/hollywood.md) |
 | 4 | hip pop |
 | 4 | europop |
-| 4 | electro house |
 | 4 | canadian contemporary r&b |
 | 3 | progressive house |
 | 3 | nz pop |

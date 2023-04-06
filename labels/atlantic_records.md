@@ -125,9 +125,9 @@ Appears as:
 | 20 | [dance pop](../genres/dance_pop.md) |
 | 16 | [broadway](../genres/broadway.md) |
 | 10 | vocal jazz |
-| 4 | [post-teen pop](../genres/post_teen_pop.md) |
 | 3 | [rock](../genres/rock.md) |
 | 3 | rap |
+| 3 | [post-teen pop](../genres/post_teen_pop.md) |
 | 3 | [pop rock](../genres/pop_rock.md) |
 | 3 | [neo mellow](../genres/neo_mellow.md) |
 | 3 | hard rock |

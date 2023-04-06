@@ -2,10 +2,7 @@
 
 ## Duplicate tracks
 
-| Track | Track Popularity | Release Date | Artists | Album | Album Popularity | Playlists | Label | 💚 |
-|:---|---:|:---|:---|:---|---:|:---|:---|:---|
-| The Boys [🔗](https://open.spotify.com/track/0Me6SI6hgowLrZAKvtyVOg) | 62 | 2011-01-01 | Girls' Generation [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | The Boys [🔗](https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw) | 56 | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Universal Music Group International | 💚 |
-| The Boys [🔗](https://open.spotify.com/track/4sRQg2aoec0VIvQ7GZPGMy) | 0 | 2011-10-19 | Girls' Generation [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | The Boys - The 3rd Album [🔗](https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS) | 0 | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | SM Entertainment | 💚 |
+None
 
 ## Duplicate albums
 

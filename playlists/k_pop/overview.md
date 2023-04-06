@@ -29,10 +29,10 @@
 | 22 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../../artists/enhypen.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 | 20 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../../artists/leehi.md) | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 | 20 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../../artists/mamamoo.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
-| 17 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | [Girls' Generation](../../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="" width="50" /> | [SEVENTEEN](../../artists/seventeen.md) | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
 | 16 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../../artists/aespa.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | 16 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | [CHUNG HA](../../artists/chung_ha.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
+| 16 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | [Girls' Generation](../../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f44c5165785a877bd4ae376" alt="" width="50" /> | [STAYC](../../artists/stayc.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 | 13 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="" width="50" /> | [Dreamcatcher](../../artists/dreamcatcher.md) | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 | 13 | <img src="https://i.scdn.co/image/ab6761610000e5eb64884416b862c19ec9a465d3" alt="" width="50" /> | [Billlie](../../artists/billlie.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
@@ -320,6 +320,7 @@
 | 2 | Cre.ker Entertainment |
 | 2 | [Capitol Records](../../labels/capitol_records.md) |
 | 2 | BIGPLANETMADE |
+| 2 | ATTRAKT |
 | 2 | ATISPAUS |
 | 2 | AOMG |
 | 2 | ALLART ENTERTAINMENT |
@@ -344,7 +345,6 @@
 | 1 | YMC Ent. |
 | 1 | YGEX |
 | 1 | XGALX |
-| 1 | Wollim Entertainment |
 
 </details>
 
@@ -359,8 +359,8 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 865 | [k-pop](../../genres/k_pop.md) |
-| 388 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
+| 864 | [k-pop](../../genres/k_pop.md) |
+| 387 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 237 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
 | 57 | [pop](../../genres/pop.md) |
 | 45 | [korean pop](../../genres/korean_pop.md) |
@@ -377,6 +377,7 @@
 | 2 | uk pop |
 | 2 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 2 | j-division |
+| 2 | [electropop](../../genres/electropop.md) |
 | 2 | chinese idol pop |
 | 1 | viral pop |
 | 1 | pop rap |
@@ -386,7 +387,6 @@
 | 1 | j-pop |
 | 1 | indie poptimism |
 | 1 | etherpop |
-| 1 | [electropop](../../genres/electropop.md) |
 | 1 | electronic trap |
 | 1 | edm |
 | 1 | danish pop |
@@ -407,7 +407,7 @@
 | Year | Number of Tracks |
 |:---|---:|
 | [2023](2023.md) | 49 |
-| [2022](2022.md) | 281 |
+| [2022](2022.md) | 282 |
 | [2021](2021.md) | 204 |
 | [2020](2020.md) | 130 |
 | [2019](2019.md) | 82 |
@@ -418,7 +418,7 @@
 | 2014 | 17 |
 | 2013 | 17 |
 | 2012 | 10 |
-| 2011 | 8 |
+| 2011 | 7 |
 | 2010 | 8 |
 | 2009 | 3 |
 | 2008 | 6 |

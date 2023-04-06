@@ -1,9 +1,9 @@
 # SM Entertainment
 
-237 songs
+238 songs
 
 Appears as:
-- SM Entertainment (235 tracks)
+- SM Entertainment (236 tracks)
 - MYSTIC ENTERTAINMENT, ChoongangICS, SM ENTERTAINMENT, JYP ENTERTAINMENT (1 tracks)
 - SM Entertainment/Capitol Records (1 tracks)
 
@@ -32,7 +32,7 @@ Appears as:
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e2e0f17d257a40be0782f35" alt="" width="50" /> | [BAEKHYUN](../artists/baekhyun.md) | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb23c6033b3b20959a2154328b" alt="" width="50" /> | HYO | [🔗](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb7ece2134de8809efcfdc9be7" alt="" width="50" /> | SHINee | [🔗](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) |
-| 5 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99713cdd2a68b0db306aad6" alt="" width="50" /> | TAEMIN | [🔗](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) |
+| 6 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99713cdd2a68b0db306aad6" alt="" width="50" /> | TAEMIN | [🔗](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb07a86e9ca86a984f925e39c4" alt="" width="50" /> | KAI | [🔗](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b13da5a8a3dd6e0d53ff764" alt="" width="50" /> | Red Velvet - IRENE & SEULGI | [🔗](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb8980623c46119271987de7eb" alt="" width="50" /> | TAEYONG | [🔗](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) |
@@ -175,6 +175,7 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b9283570dfc45e043afe104f" alt="" width="50" /> | ONE SHOT, TWO SHOT - The 1st Mini Album | 2018-02-20 | [🔗](https://open.spotify.com/album/04gRvDvXy6ctlFxI3G7Wd5) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737a393b04e8ced571618223e8" alt="" width="50" /> | Next Level | 2021-05-17 | [🔗](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f2f5eb6302fa961ec097d466" alt="" width="50" /> | New Chapter #1: The Chance of Love - The 8th Album | 2018-03-28 | [🔗](https://open.spotify.com/album/0ipyHYAE0cMf4aDJNIDIU1) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27305f89e348fddab49cf572dd9" alt="" width="50" /> | Never Gonna Dance Again : Act 2 - The 3rd Album | 2020-11-09 | [🔗](https://open.spotify.com/album/3xgFGYUOVxGp7pZywdf7AC) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736c1bd86a3d68faf09607ffd3" alt="" width="50" /> | Naughty | 2020-07-20 | [🔗](https://open.spotify.com/album/2lkUE2gkw5sX0fGzZZCs0N) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ca74d3d623930d10f2c3c1f1" alt="" width="50" /> | NCT#127 LIMITLESS - The 2nd Mini Album | 2017-01-06 | [🔗](https://open.spotify.com/album/4EEfpF1qcPAl1J4Z770A2U) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a8f520a58790e872d0007e2e" alt="" width="50" /> | NCT RESONANCE Pt. 2 - The 2nd Album | 2020-11-23 | [🔗](https://open.spotify.com/album/5Dq6jkYO5H7KzxXSazhLxs) |
@@ -195,7 +196,6 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273aab7f1de2a5fccba3b095574" alt="" width="50" /> | LOVE ME RIGHT - The 2nd Album Repackage | 2015-06-03 | [🔗](https://open.spotify.com/album/2tSO8aEYf5YvpwmvvrOWH7) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b2d6f89ff16623f1038ca466" alt="" width="50" /> | Killer - The 2nd Album Repackage | 2023-02-13 | [🔗](https://open.spotify.com/album/4l5BZ4tjisNEvwVa1rXDEv) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27337ff46852249bdfc938beefa" alt="" width="50" /> | KAI - The 1st Mini Album | 2020-11-30 | [🔗](https://open.spotify.com/album/6xpxMAUhk8hiDTa5zT7F86) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739dec4de4b22d56be408ee2fd" alt="" width="50" /> | Hot Sauce - The 1st Album | 2021-05-10 | [🔗](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) |
 
 </details>
 
@@ -210,7 +210,7 @@ Appears as:
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 224 | [k-pop](../genres/k_pop.md) |
+| 225 | [k-pop](../genres/k_pop.md) |
 | 88 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 | 56 | [k-pop boy group](../genres/k_pop_boy_group.md) |
 | 23 | [pop](../genres/pop.md) |
@@ -420,6 +420,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27362fad74218294c98e510c1c8" alt="" width="50" /> | MOVE | MOVE - The 2nd Album | TAEMIN | [SM Entertainment](sm_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/1cgBWgoL6520lR2QZDzdGN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739756c6519e249c1c7c060e60" alt="" width="50" /> | Clockwork | Never Gonna Dance Again : Act 1 - The 3rd Album | TAEMIN | [SM Entertainment](sm_entertainment.md) | | [🔗](https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739756c6519e249c1c7c060e60" alt="" width="50" /> | Criminal | Never Gonna Dance Again : Act 1 - The 3rd Album | TAEMIN | [SM Entertainment](sm_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/2KXEE2MsPZLmT38XiyAOpH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27305f89e348fddab49cf572dd9" alt="" width="50" /> | Heaven | Never Gonna Dance Again : Act 2 - The 3rd Album | TAEMIN | [SM Entertainment](sm_entertainment.md) | | [🔗](https://open.spotify.com/track/2hjaiDsLLBlY68XrgjZk7F) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b041a6c21bf569fb424d930" alt="" width="50" /> | Advice | Advice - The 3rd Mini Album | TAEMIN | [SM Entertainment](sm_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/4rOODw637hsmsq0uzT0DN3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f531f18feaf3c28366ad52d4" alt="" width="50" /> | I | I - The 1st Mini Album | [TAEYEON](../artists/taeyeon.md), Verbal Jint | [SM Entertainment](sm_entertainment.md) | | [🔗](https://open.spotify.com/track/5ZkITfPpcNPnyYGTibkO6m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f531f18feaf3c28366ad52d4" alt="" width="50" /> | Stress | I - The 1st Mini Album | [TAEYEON](../artists/taeyeon.md) | [SM Entertainment](sm_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/0a0FISfY8ty1xC69xCWf2T) |

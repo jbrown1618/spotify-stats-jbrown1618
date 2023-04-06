@@ -118,8 +118,8 @@ Appears as:
 | 22 | [pop](../genres/pop.md) |
 | 22 | [dance pop](../genres/dance_pop.md) |
 | 16 | [rock](../genres/rock.md) |
+| 16 | [electropop](../genres/electropop.md) |
 | 13 | nz pop |
-| 13 | [electropop](../genres/electropop.md) |
 | 13 | bergen indie |
 | 11 | [classic rock](../genres/classic_rock.md) |
 | 10 | uk pop |

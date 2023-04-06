@@ -336,7 +336,6 @@
 | 12 | metropopolis |
 | 11 | australian pop |
 | 10 | [pop rock](../../genres/pop_rock.md) |
-| 9 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 9 | etherpop |
 | 8 | nyc pop |
 | 8 | australian dance |
@@ -353,6 +352,7 @@
 | 5 | candy pop |
 | 4 | symphonic metal |
 | 4 | power metal |
+| 4 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 4 | piano rock |
 | 4 | opera metal |
 | 4 | modern alternative rock |

@@ -1,6 +1,6 @@
 # k-pop
 
-[894 songs](k_pop_tracks.md)
+[899 songs](k_pop_tracks.md)
 
 ## Top Artists
 
@@ -24,8 +24,8 @@
 | 26 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="" width="50" /> | [TAEYEON](../artists/taeyeon.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 | 20 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../artists/mamamoo.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
 | 19 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../artists/leehi.md) | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
-| 17 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | [Girls' Generation](../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="" width="50" /> | [SEVENTEEN](../artists/seventeen.md) | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
+| 16 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | [Girls' Generation](../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="" width="50" /> | [Dreamcatcher](../artists/dreamcatcher.md) | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 | 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | [CHUNG HA](../artists/chung_ha.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
 | 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb64884416b862c19ec9a465d3" alt="" width="50" /> | [Billlie](../artists/billlie.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
@@ -48,9 +48,11 @@
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9996e5d7c5b769b2b26ff1a" alt="" width="50" /> | SUPER JUNIOR | [🔗](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) |
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb74700cf88c04af5201df7298" alt="" width="50" /> | AKMU | [🔗](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) |
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="" width="50" /> | EVERGLOW | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
+| 7 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99713cdd2a68b0db306aad6" alt="" width="50" /> | TAEMIN | [🔗](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5ebd90aa536055fe9806b3960e6" alt="" width="50" /> | GOT7 | [🔗](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8786ccb6031a3266bb15606" alt="" width="50" /> | WJSN | [🔗](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb6199c3c2f414880e2b9077a9" alt="" width="50" /> | NewJeans | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
+| 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb767815f4876969e8f888f0db" alt="" width="50" /> | The Rose | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eba109aeabdab7a5a5b3330df4" alt="" width="50" /> | HEIZE | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb80584436e5726afb70cee7f8" alt="" width="50" /> | LOONA | [🔗](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb5045a0e0d423ce29d6b14ebd" alt="" width="50" /> | TREASURE | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
@@ -60,16 +62,15 @@
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb9954a1ab45b2404a7bff2a45" alt="" width="50" /> | OH MY GIRL | [🔗](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb271110d977700b69d9548993" alt="" width="50" /> | EXID | [🔗](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | PENTAGON | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
-| 6 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99713cdd2a68b0db306aad6" alt="" width="50" /> | TAEMIN | [🔗](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | j-hope | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb11b4e5da5aead482944bdef6" alt="" width="50" /> | PIXY | [🔗](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) |
-| 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb767815f4876969e8f888f0db" alt="" width="50" /> | The Rose | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d4b74165ecfadcacf0771ae" alt="" width="50" /> | MOMOLAND | [🔗](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) |
 | 5 | <img src="https://i.scdn.co/image/ab67616d0000b27336adcea4e93245f1fec547df" alt="" width="50" /> | AOA | [🔗](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb597a4257d0022e2ac837fa7d" alt="" width="50" /> | BIGBANG | [🔗](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb23c6033b3b20959a2154328b" alt="" width="50" /> | HYO | [🔗](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) |
 | 5 | <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | SISTAR | [🔗](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbca2e91d07d2c53e6610570" alt="" width="50" /> | Seori | [🔗](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) |
+| 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb39720ff6218e58ce147490dc" alt="" width="50" /> | WOODZ | [🔗](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb07a86e9ca86a984f925e39c4" alt="" width="50" /> | KAI | [🔗](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b13da5a8a3dd6e0d53ff764" alt="" width="50" /> | Red Velvet - IRENE & SEULGI | [🔗](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb8e9d1c8642df6f869631fe62" alt="" width="50" /> | Crush | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
@@ -85,7 +86,6 @@
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb2be8611f6c6e9174031c64df" alt="" width="50" /> | JEON SOMI | [🔗](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eba1f3e8862a8c0f79fb3322b2" alt="" width="50" /> | VIVIZ | [🔗](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebf55b31064f94878f3da932c8" alt="" width="50" /> | MAX CHANGMIN | [🔗](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) |
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb39720ff6218e58ce147490dc" alt="" width="50" /> | WOODZ | [🔗](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8980623c46119271987de7eb" alt="" width="50" /> | TAEYONG | [🔗](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb37362b96be798b82ae24c911" alt="" width="50" /> | Jessi | [🔗](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8eb5e57e526ceb14f06ea203" alt="" width="50" /> | iKON | [🔗](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) |
@@ -106,6 +106,7 @@
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebbb55fc616733b6c09d48481f" alt="" width="50" /> | NAYEON | [🔗](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebd0701912e6fccf8427bc7361" alt="" width="50" /> | GFRIEND | [🔗](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9ce6b84393575f91c4f4634" alt="" width="50" /> | B.I | [🔗](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) |
+| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb771aebd54ce149b97c0bb971" alt="" width="50" /> | THE BOYZ | [🔗](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd40fae46480e4202ef69316d" alt="" width="50" /> | YUJU | [🔗](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5fb007a707c0ec3a7c1726af" alt="" width="50" /> | Steve Aoki | [🔗](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc6de192c5941f6605bb9c6ad" alt="" width="50" /> | Weeekly | [🔗](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) |
@@ -113,7 +114,6 @@
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb91b559bd00fca9a0a91e5a9c" alt="" width="50" /> | MeloMance | [🔗](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) |
 | 2 | <img src="https://i.scdn.co/image/621c729dd90a6e7a63fc8f0957b2b928834ec5a8" alt="" width="50" /> | 4Minute | [🔗](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebad9d5fda1f59672d31163ad5" alt="" width="50" /> | BE'O | [🔗](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebca6daabeb614243f96b2829f" alt="" width="50" /> | WOOSUNG | [🔗](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) |
 
 </details>
 
@@ -241,11 +241,11 @@
 
 | Number of Tracks | Label |
 |---:|:---|
-| 224 | [SM Entertainment](../labels/sm_entertainment.md) |
+| 225 | [SM Entertainment](../labels/sm_entertainment.md) |
 | 92 | [Republic Records](../labels/republic_records.md) |
 | 69 | [YG Entertainment](../labels/yg_entertainment.md) |
-| 59 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
-| 55 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
+| 61 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
+| 57 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
 | 37 | [BIGHIT MUSIC](../labels/bighit_music.md) |
 | 34 | [Universal Music LLC](../labels/universal_music_llc.md) |
 | 33 | [RBW Inc.](../labels/rbw_inc_.md) |
@@ -297,6 +297,7 @@
 | 2 | OFF THE RECORD Entertainment |
 | 2 | Million Market |
 | 2 | MYSTIC ENTERTAINMENT |
+| 2 | Klap |
 | 2 | JELLYFISH ENTERTAINMENT |
 | 2 | Feel Ghood Music |
 | 2 | FNC인베스트먼트 |
@@ -312,6 +313,7 @@
 | 1 | 코어콘텐츠미디어 |
 | 1 | 에이스토리 |
 | 1 | 브레이브 엔터테인먼트 |
+| 1 | 뮤직버디 |
 | 1 | 모스트콘텐츠 |
 | 1 | 드림캐쳐컴퍼니 |
 | 1 | 더라이브레이블 |
@@ -325,22 +327,20 @@
 | 1 | YGEX |
 | 1 | Wollim Entertainment |
 | 1 | Universal Republic Records |
-| 1 | Universal Music Group International |
 | 1 | [UME - Global Clearing House](../labels/ume___global_clearing_house.md) |
 | 1 | Think Ent. |
+| 1 | TOP MEDIA |
 | 1 | TOON STUDIO |
 | 1 | Starship Ent. |
 | 1 | Silent Records |
 | 1 | RADCOMM |
 | 1 | Parlophone Denmark |
 | 1 | MORE VISION |
-| 1 | Klap |
 | 1 | Kakao M Corp. |
 | 1 | KONNECT Ent. |
 | 1 | JS MUSIC |
 | 1 | Imperial Distribution |
 | 1 | IST ENTERTAINMENT |
-| 1 | IOK x Transparent Arts |
 
 </details>
 

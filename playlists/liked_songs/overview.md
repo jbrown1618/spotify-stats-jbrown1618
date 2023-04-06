@@ -39,11 +39,11 @@
 | 14 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../../artists/radiohead.md) | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
 | 13 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | [CHUNG HA](../../artists/chung_ha.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
 | 12 | <img src="https://i.scdn.co/image/ab6761610000e5eb64884416b862c19ec9a465d3" alt="" width="50" /> | [Billlie](../../artists/billlie.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
-| 12 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | [Girls' Generation](../../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | 12 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f44c5165785a877bd4ae376" alt="" width="50" /> | [STAYC](../../artists/stayc.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 | 11 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="" width="50" /> | [SEVENTEEN](../../artists/seventeen.md) | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
 | 11 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
 | 11 | <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | [Queen](../../artists/queen.md) | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
+| 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | [Girls' Generation](../../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | 10 | <img src="https://i.scdn.co/image/ab6761610000e5eb4765d540a1ebedeb7c9637a2" alt="" width="50" /> | [Kimbra](../../artists/kimbra.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 | 10 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="" width="50" /> | [Dreamcatcher](../../artists/dreamcatcher.md) | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 | 10 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../../artists/bruno_mars.md) | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
@@ -356,25 +356,25 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 657 | [k-pop](../../genres/k_pop.md) |
+| 656 | [k-pop](../../genres/k_pop.md) |
 | 371 | [pop](../../genres/pop.md) |
-| 300 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
+| 299 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 165 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
-| 162 | [dance pop](../../genres/dance_pop.md) |
+| 163 | [dance pop](../../genres/dance_pop.md) |
 | 105 | [rock](../../genres/rock.md) |
 | 78 | [classic rock](../../genres/classic_rock.md) |
 | 59 | [neo mellow](../../genres/neo_mellow.md) |
 | 59 | [lilith](../../genres/lilith.md) |
 | 55 | [acoustic pop](../../genres/acoustic_pop.md) |
 | 54 | [pop rock](../../genres/pop_rock.md) |
-| 43 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 43 | [hollywood](../../genres/hollywood.md) |
 | 42 | [mellow gold](../../genres/mellow_gold.md) |
-| 38 | [korean pop](../../genres/korean_pop.md) |
+| 38 | [post-teen pop](../../genres/post_teen_pop.md) |
+| 37 | [korean pop](../../genres/korean_pop.md) |
+| 34 | [electropop](../../genres/electropop.md) |
 | 34 | [art pop](../../genres/art_pop.md) |
 | 33 | [folk rock](../../genres/folk_rock.md) |
 | 32 | [soft rock](../../genres/soft_rock.md) |
-| 32 | [electropop](../../genres/electropop.md) |
 | 31 | korean r&b |
 | 30 | british invasion |
 | 28 | psychedelic rock |
@@ -454,8 +454,8 @@
 | 5 | indietronica |
 | 5 | indie poptimism |
 | 5 | girl group |
+| 5 | country rock |
 | 5 | anti-folk |
-| 5 | afrofuturism |
 
 </details>
 
@@ -471,7 +471,7 @@
 | Year | Number of Tracks |
 |:---|---:|
 | [2023](2023.md) | 47 |
-| [2022](2022.md) | 237 |
+| [2022](2022.md) | 238 |
 | [2021](2021.md) | 184 |
 | [2020](2020.md) | 133 |
 | [2019](2019.md) | 116 |
@@ -482,7 +482,7 @@
 | [2014](2014.md) | 44 |
 | [2013](2013.md) | 49 |
 | [2012](2012.md) | 51 |
-| [2011](2011.md) | 37 |
+| [2011](2011.md) | 36 |
 | [2010](2010.md) | 39 |
 | [2009](2009.md) | 29 |
 | [2008](2008.md) | 23 |
@@ -542,7 +542,7 @@
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273bbead884cd91c2a9b5b2a9fc" alt="expérgo" width="50" /> <span style="padding-left:10px;">expérgo (2023-03-20)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="Wednesday Morning, 3 A.M." width="50" /> <span style="padding-left:10px;">Wednesday Morning, 3 A.M. (1964-10-19)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273bb9ff6f34a355d6ce77ff6a4" alt="Flowers (Cover)" width="50" /> <span style="padding-left:10px;">Flowers (Cover) (2023-03-20)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> <span style="padding-left:10px;">The Temptations Sing Smokey (1965-03-22)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ca0bf7a337ed7a8bcc34948e" alt="Rover - The 3rd Mini Album" width="50" /> <span style="padding-left:10px;">Rover - The 3rd Mini Album (2023-03-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="Out Of Our Heads" width="50" /> <span style="padding-left:10px;">Out Of Our Heads (1965-07-30)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="READY TO BE" width="50" /> <span style="padding-left:10px;">READY TO BE (2023-03-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> <span style="padding-left:10px;">Help! (Remastered) (1965-08-06)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> <span style="padding-left:10px;">CHOSEN KARMA (2023-03-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> <span style="padding-left:10px;">Help! (Remastered) (1965-08-06)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |

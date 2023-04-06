@@ -1,9 +1,9 @@
 # Interscope Records
 
-70 songs
+69 songs
 
 Appears as:
-- YG Entertainment/Interscope Records (21 tracks)
+- YG Entertainment/Interscope Records (20 tracks)
 - Darkroom/Interscope Records (11 tracks)
 - Interscope (11 tracks)
 - Interscope Records* (5 tracks)
@@ -33,7 +33,6 @@ Appears as:
 | 11 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../artists/lady_gaga.md) | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb288ac05481cedc5bddb5b11b" alt="" width="50" /> | Maroon 5 | [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb2be8611f6c6e9174031c64df" alt="" width="50" /> | JEON SOMI | [🔗](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebcb6017286dd64ca6b77c879f" alt="" width="50" /> | JISOO | [🔗](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb77bf00f67e21f514dc44c485" alt="" width="50" /> | OneRepublic | [🔗](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb8543b9b2b5d153d37c46606d" alt="" width="50" /> | LISA | [🔗](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb920dc1f617550de8388f368e" alt="" width="50" /> | Imagine Dragons | [🔗](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) |
@@ -41,6 +40,7 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c44e078944196a8c1eec256" alt="" width="50" /> | Colby O'Donis | [🔗](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | [Beyoncé](../artists/beyonc_.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd63cdcec79b1864df268c7bf" alt="" width="50" /> | TAEYANG | [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebcb6017286dd64ca6b77c879f" alt="" width="50" /> | JISOO | [🔗](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1fd54eb6e30d0bc8f633621e" alt="" width="50" /> | Machine Gun Kelly | [🔗](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../artists/ariana_grande.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | benny blanco | [🔗](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) |
@@ -80,7 +80,6 @@ Appears as:
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="" width="50" /> | The Fame Monster (Deluxe Edition) | 2009-11-05 | [🔗](https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e" alt="" width="50" /> | Songs About Jane: 10th Anniversary Edition | 2002 | [🔗](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f" alt="" width="50" /> | R | 2021-03-12 | [🔗](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273f35b8a6c03cc633f734bd8ac" alt="" width="50" /> | ME | 2023-03-31 | [🔗](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19" alt="" width="50" /> | LALISA | 2021-09-10 | [🔗](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b27334ef81d1ff3b4682a4e97f70" alt="" width="50" /> | Dreaming Out Loud | 2007-01-01 | [🔗](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | Chromatica | 2020-05-29 | [🔗](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) |
@@ -93,6 +92,7 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27362e6288a5887b95176cca29e" alt="" width="50" /> | SOLO | 2018-11-12 | [🔗](https://open.spotify.com/album/7qAJpYeABXN9ZV5wOOX59k) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7" alt="" width="50" /> | No Time To Die | 2020-02-13 | [🔗](https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" alt="" width="50" /> | Night Visions | 2012-09-04 | [🔗](https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f35b8a6c03cc633f734bd8ac" alt="" width="50" /> | ME | 2023-03-31 | [🔗](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27383b22beb73e2014b20159685" alt="" width="50" /> | Lonely (with benny blanco) | 2020-10-16 | [🔗](https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2730b1cfc3df4d9d5d4cbce9208" alt="" width="50" /> | Last Train To Paris | 2010-01-01 | [🔗](https://open.spotify.com/album/2psjRixnoePs8ZqE8cuU5Z) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736564f1d8386a6993b4d5d759" alt="" width="50" /> | LUCID | 2019-11-15 | [🔗](https://open.spotify.com/album/5qQhQ1rmPjqQgv8RmfaQU3) |
@@ -188,7 +188,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273fddc804f96cdd6a7de9bcc09" alt="" width="50" /> | DUMB DUMB | DUMB DUMB | JEON SOMI | [THE BLACK LABEL/Interscope Records](interscope_records.md) | 💚 | [🔗](https://open.spotify.com/track/0dnkOK5hGUCmIJ7FDF0yHz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273350ecac91d0f0af55788c648" alt="" width="50" /> | Anymore | XOXO | JEON SOMI | [THE BLACK LABEL/Interscope Records](interscope_records.md) | 💚 | [🔗](https://open.spotify.com/track/6GwtJzM3yffZ4FJ39QuUcE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273350ecac91d0f0af55788c648" alt="" width="50" /> | XOXO | XOXO | JEON SOMI | [THE BLACK LABEL/Interscope Records](interscope_records.md) | 💚 | [🔗](https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f35b8a6c03cc633f734bd8ac" alt="" width="50" /> | All Eyes On Me | ME | JISOO | [Interscope Records](interscope_records.md), [YG Entertainment](yg_entertainment.md) | | [🔗](https://open.spotify.com/track/2YXswOX5aKv6OHRKUcAMLQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f35b8a6c03cc633f734bd8ac" alt="" width="50" /> | FLOWER | ME | JISOO | [Interscope Records](interscope_records.md), [YG Entertainment](yg_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27383b22beb73e2014b20159685" alt="" width="50" /> | Lonely (with benny blanco) | Lonely (with benny blanco) | Justin Bieber, benny blanco | Friends Keep Secrets, [Def Jam Recordings](def_jam_recordings.md), [Interscope Records](interscope_records.md) | 💚 | [🔗](https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | Just Dance | The Fame | [Lady Gaga](../artists/lady_gaga.md), Colby O'Donis | [Interscope](interscope_records.md) | 💚 | [🔗](https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE) |

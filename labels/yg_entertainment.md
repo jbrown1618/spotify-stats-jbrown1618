@@ -1,10 +1,10 @@
 # YG Entertainment
 
-73 songs
+72 songs
 
 Appears as:
 - YG Entertainment (43 tracks)
-- YG Entertainment/Interscope Records (21 tracks)
+- YG Entertainment/Interscope Records (20 tracks)
 - YG Entertainment, distributed through Interscope Records (5 tracks)
 - 2018 YG Entertainment, distributed through Interscope Records (4 tracks)
 
@@ -25,11 +25,11 @@ Appears as:
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb597a4257d0022e2ac837fa7d" alt="" width="50" /> | BIGBANG | [🔗](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8eb5e57e526ceb14f06ea203" alt="" width="50" /> | iKON | [🔗](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd63cdcec79b1864df268c7bf" alt="" width="50" /> | TAEYANG | [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebcb6017286dd64ca6b77c879f" alt="" width="50" /> | JISOO | [🔗](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb8543b9b2b5d153d37c46606d" alt="" width="50" /> | LISA | [🔗](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2d167f018561742f26a0997" alt="" width="50" /> | ROSÉ | [🔗](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5923c0ca32a3cf3a81b34728" alt="" width="50" /> | G-DRAGON | [🔗](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc67fe879798c208fcf056dde" alt="" width="50" /> | CL | [🔗](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebcb6017286dd64ca6b77c879f" alt="" width="50" /> | JISOO | [🔗](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | [IU](../artists/iu.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb24b5185226d5b7c6aa91db5a" alt="" width="50" /> | PSY | [🔗](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc2c8185fc0902b43e35f671f" alt="" width="50" /> | JENNIE | [🔗](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) |
@@ -67,7 +67,6 @@ Appears as:
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2730d42834b296097a0136e97d3" alt="" width="50" /> | SEOULITE | 2016-04-20 | [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b27348f4704427189fe1957d2871" alt="" width="50" /> | Return | 2018-01-25 | [🔗](https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f" alt="" width="50" /> | R | 2021-03-12 | [🔗](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273f35b8a6c03cc633f734bd8ac" alt="" width="50" /> | ME | 2023-03-31 | [🔗](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19" alt="" width="50" /> | LALISA | 2021-09-10 | [🔗](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273bb0a530fc901e88d1c7a9f4d" alt="" width="50" /> | First Love | 2013-03-28 | [🔗](https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1db30cc6d74a08a5e14274" alt="" width="50" /> | 24℃ | 2019-05-30 | [🔗](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) |
@@ -81,6 +80,7 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27378551e802bd7b81d7af67dfb" alt="" width="50" /> | PLAY | 2014-04-07 | [🔗](https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27355d0265cc488deebe40d79a6" alt="" width="50" /> | NEXT EPISODE | 2021-07-26 | [🔗](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738b94794b8aa12407bf838d7d" alt="" width="50" /> | NEW KIDS REPACKAGE : THE NEW KIDS | 2019-01-07 | [🔗](https://open.spotify.com/album/6RZYa7F18bu7mmeT8qxWqh) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f35b8a6c03cc633f734bd8ac" alt="" width="50" /> | ME | 2023-03-31 | [🔗](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732d56768bc14df3b0b3982efd" alt="" width="50" /> | KWON JI YONG | 2017-06-08 | [🔗](https://open.spotify.com/album/2koSNfchdUxqw1rPJO87aH) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc24150245a8d31c68b58b4" alt="" width="50" /> | Hello Bitches | 2015-12-05 | [🔗](https://open.spotify.com/album/0CHOb7kkjkNRCpijTjPEiy) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733dbdbd0023f1e1c08cd5a6c9" alt="" width="50" /> | COUP D'ETAT | 2013-09-05 | [🔗](https://open.spotify.com/album/4msI9bSfKohOPFic15aLR4) |
@@ -166,7 +166,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27348f4704427189fe1957d2871" alt="" width="50" /> | LOVE SCENARIO | Return | iKON | [YG Entertainment](yg_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/3d3ELsqKlQ7WA0a10Isu3l) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b94794b8aa12407bf838d7d" alt="" width="50" /> | KILLING ME | NEW KIDS REPACKAGE : THE NEW KIDS | iKON | [YG Entertainment](yg_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/1IbpTcFDHRD87cGQOhVCDP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27362e6288a5887b95176cca29e" alt="" width="50" /> | SOLO | SOLO | JENNIE | [Interscope Records](interscope_records.md), [YG Entertainment](yg_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/2wVDWtLKXunswWecARNILj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f35b8a6c03cc633f734bd8ac" alt="" width="50" /> | All Eyes On Me | ME | JISOO | [Interscope Records](interscope_records.md), [YG Entertainment](yg_entertainment.md) | | [🔗](https://open.spotify.com/track/2YXswOX5aKv6OHRKUcAMLQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f35b8a6c03cc633f734bd8ac" alt="" width="50" /> | FLOWER | ME | JISOO | [Interscope Records](interscope_records.md), [YG Entertainment](yg_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735292f306c4d8210b521cea4d" alt="" width="50" /> | 1, 2, 3, 4 | 1,2,3,4 | [LeeHi](../artists/leehi.md) | [YG Entertainment](yg_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/1MMuD3VaVq7qqfvRgSrbRs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb0a530fc901e88d1c7a9f4d" alt="" width="50" /> | It's Over | First Love | [LeeHi](../artists/leehi.md) | [YG Entertainment](yg_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/47PAgx8nAijlmCdJtiq2iE) |

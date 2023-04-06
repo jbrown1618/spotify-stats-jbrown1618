@@ -7,8 +7,8 @@
 ## Featured on Playlists
 | Number of Tracks | Art | Playlist |
 |---:|:---|:---|
-| 17 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | [K-Pop](../playlists/k_pop/overview.md) |
-| 5 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | [K-Pop Favorites](../playlists/k_pop_favorites/overview.md) |
+| 16 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | [K-Pop](../playlists/k_pop/overview.md) |
+| 4 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | [K-Pop Favorites](../playlists/k_pop_favorites/overview.md) |
 | 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | [K-Pop 101](../playlists/k_pop_101/overview.md) |
 | 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731544041d0285585cc92c2709ab67616d0000b27335cdd6d3f5815afac043758eab67616d0000b2733c5bfa54ae5e8312f5e0325aab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | [Aegyo](../playlists/aegyo/overview.md) |
 ## Top Albums
@@ -19,7 +19,6 @@
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2739b57e9b31c831fb2137c38e2" alt="" width="50" /> | Oh! - The Second Album | 2010-01-28 | [🔗](https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273fd1f3849aaaf15112389a725" alt="" width="50" /> | I GOT A BOY - The 4th Album | 2013-01-01 | [🔗](https://open.spotify.com/album/3uhihQCm9aSvdJmDXcVrvi) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27361d7b9988c77826dfb1db1b3" alt="" width="50" /> | The Boys - The 3rd Album | 2011-10-19 | [🔗](https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273dbe330e884acacdbb1e7987f" alt="" width="50" /> | The Boys | 2011-01-01 | [🔗](https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273286903a9b4f8bce214f1dffa" alt="" width="50" /> | Run Devil Run - The 2nd Album Repackage | 2010-03-22 | [🔗](https://open.spotify.com/album/2b4JQKXl0gwf3bnAfhZwLA) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27341e9e282e569b2279c2171de" alt="" width="50" /> | Mr. Mr. - The 4th Mini Album | 2014-02-24 | [🔗](https://open.spotify.com/album/1WyHAY8OWdfCFWTF0Ufwjj) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737ce0130c09547c733984ba0e" alt="" width="50" /> | Lion Heart - The 5th Album | 2015-08-19 | [🔗](https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB) |
@@ -31,7 +30,6 @@
 | Number of Tracks | Label |
 |---:|:---|
 | 16 | [SM Entertainment](../labels/sm_entertainment.md) |
-| 1 | Universal Music Group International |
 
 ## Genres
 
@@ -47,7 +45,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b57e9b31c831fb2137c38e2" alt="" width="50" /> | Genie | Oh! - The Second Album | [Girls' Generation](girls__generation.md) | [SM Entertainment](../labels/sm_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/6kN3vvzDiVZP2hiPA0ApMd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b57e9b31c831fb2137c38e2" alt="" width="50" /> | Oh! | Oh! - The Second Album | [Girls' Generation](girls__generation.md) | [SM Entertainment](../labels/sm_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/6VOG2ROMCklbn6SSg9mA9H) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273286903a9b4f8bce214f1dffa" alt="" width="50" /> | Run Devil Run | Run Devil Run - The 2nd Album Repackage | [Girls' Generation](girls__generation.md) | [SM Entertainment](../labels/sm_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/0U9jNoTJeTxXToakhsb7pV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273dbe330e884acacdbb1e7987f" alt="" width="50" /> | The Boys | The Boys | [Girls' Generation](girls__generation.md) | Universal Music Group International | 💚 | [🔗](https://open.spotify.com/track/0Me6SI6hgowLrZAKvtyVOg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27361d7b9988c77826dfb1db1b3" alt="" width="50" /> | The Boys | The Boys - The 3rd Album | [Girls' Generation](girls__generation.md) | [SM Entertainment](../labels/sm_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/4sRQg2aoec0VIvQ7GZPGMy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fd1f3849aaaf15112389a725" alt="" width="50" /> | I GOT A BOY | I GOT A BOY - The 4th Album | [Girls' Generation](girls__generation.md) | [SM Entertainment](../labels/sm_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/2WkPfNd237yc0l5KewCDpp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fd1f3849aaaf15112389a725" alt="" width="50" /> | 말해봐 (Talk Talk) | I GOT A BOY - The 4th Album | [Girls' Generation](girls__generation.md) | [SM Entertainment](../labels/sm_entertainment.md) | | [🔗](https://open.spotify.com/track/4fcMeRJFjEbvWagaEJD33A) |

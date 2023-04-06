@@ -12,6 +12,7 @@
 | 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | [K-Pop 101](../playlists/k_pop_101/overview.md) |
 | 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | [Sharon RPD](../playlists/sharon_rpd/overview.md) |
 | 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2733317fc12f8b9a9a0b8459766ab67616d0000b27363e0ddbb488d0eeec0e738fcab67616d0000b27384095737f6056e682666d6f9ab67616d0000b273f2bf9685109a09bdc176fb43" alt="" width="50" /> | [K-Pop-Adjacent](../playlists/k_pop_adjacent/overview.md) |
+| 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731bb59aeed3ada692b9bc82d3ab67616d0000b27329322a53482da3542ae9d033ab67616d0000b2739448197f00ccb91ff0685681ab67616d0000b2739911a4e948cb80a3f2d3dc61" alt="" width="50" /> | [Check Out Later](../playlists/check_out_later/overview.md) |
 ## Top Albums
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |

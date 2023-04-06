@@ -1,6 +1,6 @@
 # k-pop girl group
 
-[410 songs](k_pop_girl_group_tracks.md)
+[409 songs](k_pop_girl_group_tracks.md)
 
 ## Top Artists
 
@@ -21,7 +21,7 @@
 | 28 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../artists/blackpink.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 | 20 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../artists/mamamoo.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
 | 17 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../artists/aespa.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
-| 17 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | [Girls' Generation](../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
+| 16 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | [Girls' Generation](../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="" width="50" /> | [Dreamcatcher](../artists/dreamcatcher.md) | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 | 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f44c5165785a877bd4ae376" alt="" width="50" /> | [STAYC](../artists/stayc.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5eb04c88d140b3db4fa42ef84f2" alt="" width="50" /> | NMIXX | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
@@ -200,7 +200,7 @@
 
 
 <details>
-<summary>See all 62 labels</summary>
+<summary>See all 61 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -246,7 +246,6 @@
 | 1 | ㈜ 드림캐쳐 컴퍼니 |
 | 1 | YUEHUA ENTERTAINMENT KOREA |
 | 1 | YGEX |
-| 1 | Universal Music Group International |
 | 1 | RADCOMM |
 | 1 | Parlophone UK |
 | 1 | [PLEDIS Entertainment](../labels/pledis_entertainment.md) |
@@ -331,11 +330,11 @@
 | Adios (0.0794) | TOMBOY (0.0) |
 | YEPPI YEPPI (0.0391) | Hush (0.0) |
 | So Hot (0.00976) | Typa Girl (0.0) |
-| I Am The Best (0.00834) | The Boys (0.0) |
-| Power Up (0.00745) | Talk that Talk (0.0) |
-| BBoom BBoom (0.00666) | Pirate (0.0) |
-| In My Dreams (0.0066) | So Good (0.0) |
-| FIRE (0.00643) | Love So Sweet (0.0) |
+| I Am The Best (0.00834) | Talk that Talk (0.0) |
+| Power Up (0.00745) | Pirate (0.0) |
+| BBoom BBoom (0.00666) | So Good (0.0) |
+| In My Dreams (0.0066) | Love So Sweet (0.0) |
+| FIRE (0.00643) | Hype Boy (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|

@@ -12,7 +12,7 @@
 | 6 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27311213770e112f78d4075b61fab67616d0000b2732f8d9427fea9dd36a4fb4f1bab67616d0000b27367a1610b21721a06ed7d378eab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | [Musicals](../playlists/musicals/overview.md) |
 | 4 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | [Pop](../playlists/pop/overview.md) |
 | 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735d990e8b45c848dc22885f89ab67616d0000b27362f44cdb37183a309fc1032fab67616d0000b27384470dd6235917e2e40e11f0ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | [A Cappella](../playlists/a_cappella/overview.md) |
-| 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273068a5559744d17bd5e871740ab67616d0000b273a1113af3a19a41dc8eec534eab67616d0000b273cb81eb3c1238c60f2bbfd3b5ab67616d0000b273ef54c10b95411c51b9ab873b" alt="" width="50" /> | [Jazz](../playlists/jazz/overview.md) |
+| 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273068a5559744d17bd5e871740ab67616d0000b2735b664c138b2f3b886d137909ab67616d0000b273a1113af3a19a41dc8eec534eab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="" width="50" /> | [Jazz](../playlists/jazz/overview.md) |
 | 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27303668e3f13559554eca8ccc6ab67616d0000b2730eb56329734f9400c1639359ab67616d0000b27314ed51ab46ef0765182bb8a0ab67616d0000b273987a1825341694ec9bc62457" alt="" width="50" /> | [Tarps](../playlists/tarps/overview.md) |
 ## Top Albums
 

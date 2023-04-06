@@ -1,6 +1,6 @@
 # a cappella
 
-[198 songs](a_cappella_tracks.md)
+[197 songs](a_cappella_tracks.md)
 
 ## Top Artists
 
@@ -10,7 +10,7 @@
 
 
 <details>
-<summary>See all 60 artists</summary>
+<summary>See all 59 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -65,7 +65,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebbff8f793182b64915a442965" alt="" width="50" /> | Straight No Chaser | [🔗](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6d2ff3db79aa33c9be0f2630" alt="" width="50" /> | Upper Structure | [🔗](https://open.spotify.com/artist/1tlKq97YGAGBavozMVeddE) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6d4806745c7f345bd59fd90b" alt="" width="50" /> | Tufts Jackson Jills | [🔗](https://open.spotify.com/artist/1dUJZ0lbobmanl4W14h0a2) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d4dd4d97a69b96de84ba61a" alt="" width="50" /> | BYU Noteworthy | [🔗](https://open.spotify.com/artist/1ZknN7FbjjjMTmdU42OEeX) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27326f8d98a82475c320a41a919" alt="" width="50" /> | Academical Village People | [🔗](https://open.spotify.com/artist/1Vjug1h4HXCeplbouQEbV3) |
 | 1 | <img src="nan" alt="" width="50" /> | Erika Petty | [🔗](https://open.spotify.com/artist/15YH0MYEIRY7AmrrwfVO4W) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb44b7da1ed96c2af6f91602c2" alt="" width="50" /> | The Virginia Gentlemen | [🔗](https://open.spotify.com/artist/0steWfkS4hwaErh84SlHMW) |
@@ -94,9 +93,9 @@
 | 6 | <img src="https://i.scdn.co/image/ab67616d0000b273ad76265e2c01cc533a87df0e" alt="" width="50" /> | PTX, Vol. 1 | 2012-06-26 | [🔗](https://open.spotify.com/album/5wGlP6EqF7akh6N3UGfKVZ) |
 | 6 | <img src="https://i.scdn.co/image/ab67616d0000b27331c35347cbb989e84ccccf8e" alt="" width="50" /> | M | 2015-03-30 | [🔗](https://open.spotify.com/album/1B0XzLFo4XYh8QIwPRTdpR) |
 | 6 | <img src="https://i.scdn.co/image/ab67616d0000b27371a67f8f5158f054b136bd8a" alt="" width="50" /> | Keepin' it Low Key | 2013-01-18 | [🔗](https://open.spotify.com/album/4EmdqB8w7gEONRX5QLypQZ) |
-| 6 | <img src="https://i.scdn.co/image/ab67616d0000b273ea7720f8e0ae5132dbd20303" alt="" width="50" /> | BOCA 2010: Best Of College A Cappella | 2011-02-15 | [🔗](https://open.spotify.com/album/3HSd3voAxPxS50UrfInBVJ) |
 | 5 | <img src="https://i.scdn.co/image/ab67616d0000b273bcad2453bb8a140067a4d4e2" alt="" width="50" /> | The Party Upstairs | 2013-12-13 | [🔗](https://open.spotify.com/album/2AIAKP2FxbYNjmwQgAkqZz) |
 | 5 | <img src="https://i.scdn.co/image/ab67616d0000b27381514ee26162b9fed3c39be7" alt="" width="50" /> | Pitch Slapped - EP | 2011-04-08 | [🔗](https://open.spotify.com/album/5I08qbUSg8f48kenQs7Tg6) |
+| 5 | <img src="https://i.scdn.co/image/ab67616d0000b273ea7720f8e0ae5132dbd20303" alt="" width="50" /> | BOCA 2010: Best Of College A Cappella | 2011-02-15 | [🔗](https://open.spotify.com/album/3HSd3voAxPxS50UrfInBVJ) |
 | 5 | <img src="https://i.scdn.co/image/ab67616d0000b27315a14fc8ff338e698d645406" alt="" width="50" /> | BOCA 2008: Best Of College A Cappella | 2011-02-15 | [🔗](https://open.spotify.com/album/4Z0ju0i47UZ2Y4icq2f3wZ) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b27338407526ecab26f59f44f999" alt="" width="50" /> | Pentatonix (Deluxe Version) | 2015-10-16 | [🔗](https://open.spotify.com/album/6qf9tE8pNRW0kX1Cucrixr) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b2733c8896f56a068816ef63165b" alt="" width="50" /> | Off the Hook | 2011-12-10 | [🔗](https://open.spotify.com/album/1wfYTTpHsGxvIjDwsPLAAC) |
@@ -180,7 +179,7 @@
 
 | Number of Tracks | Label |
 |---:|:---|
-| 45 | [Varsity Vocals](../labels/varsity_vocals.md) |
+| 44 | [Varsity Vocals](../labels/varsity_vocals.md) |
 | 36 | [RCA Records Label](../labels/rca_records_label.md) |
 | 32 | [A Cappella Records](../labels/a_cappella_records.md) |
 | 12 | [Ithacappella](../labels/ithacappella.md) |

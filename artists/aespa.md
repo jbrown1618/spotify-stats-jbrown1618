@@ -8,7 +8,7 @@
 | Number of Tracks | Art | Playlist |
 |---:|:---|:---|
 | 16 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | [K-Pop](../playlists/k_pop/overview.md) |
-| 8 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | [K-Pop Favorites](../playlists/k_pop_favorites/overview.md) |
+| 7 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | [K-Pop Favorites](../playlists/k_pop_favorites/overview.md) |
 | 2 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | [Sharon RPD](../playlists/sharon_rpd/overview.md) |
 | 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | [K-Pop 101](../playlists/k_pop_101/overview.md) |
 | 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2738cab1c75d2271af37c3e2db9ab67616d0000b273d2ef237da7f94762997c2083ab67616d0000b273e9cd59d664f597061a513038ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="" width="50" /> | [Recent Comebacks](../playlists/recent_comebacks/overview.md) |

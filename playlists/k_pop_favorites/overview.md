@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="K-Pop Favorites" width="100" />
 
-[222 songs](tracks.md)
+[220 songs](tracks.md)
 
 ## Top Artists
 
@@ -22,19 +22,19 @@
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5eb8944c8aec8db82f35980b191" alt="" width="50" /> | [TWICE](../../artists/twice.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | [ENHYPEN](../../artists/enhypen.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | [IU](../../artists/iu.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
-| 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../../artists/aespa.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="" width="50" /> | [TAEYEON](../../artists/taeyeon.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../../artists/itzy.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
+| 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | [aespa](../../artists/aespa.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../../artists/_g_i_dle.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | [MAMAMOO](../../artists/mamamoo.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../../artists/bts.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | [CHUNG HA](../../artists/chung_ha.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
-| 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | [Girls' Generation](../../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="" width="50" /> | [SEVENTEEN](../../artists/seventeen.md) | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | [LeeHi](../../artists/leehi.md) | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="" width="50" /> | [EXO](../../artists/exo.md) | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | PENTAGON | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
+| 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | [Girls' Generation](../../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f44c5165785a877bd4ae376" alt="" width="50" /> | [STAYC](../../artists/stayc.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebf55b31064f94878f3da932c8" alt="" width="50" /> | MAX CHANGMIN | [🔗](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb03fd839c09fe375026192645" alt="" width="50" /> | GOT the beat | [🔗](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) |
@@ -124,10 +124,10 @@
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
-| 4 | <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | Savage - The 1st Mini Album | 2021-10-05 | [🔗](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="" width="50" /> | INVU - The 3rd Album | 2022-02-14 | [🔗](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="" width="50" /> | DIMENSION : DILEMMA | 2021-10-12 | [🔗](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | THE ALBUM | 2020-10-02 | [🔗](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) |
+| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | Savage - The 1st Mini Album | 2021-10-05 | [🔗](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Querencia | 2021-02-15 | [🔗](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | IU 5th Album 'LILAC' | 2021-03-25 | [🔗](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | BORN PINK | 2022-09-16 | [🔗](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) |
@@ -182,7 +182,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="" width="50" /> | The Red - The 1st Album | 2015-09-09 | [🔗](https://open.spotify.com/album/6YL9J0E6PGtYzkhyMxnmXd) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b64001fa6292caefc7605550" alt="" width="50" /> | The Perfect Red Velvet - The 2nd Album Repackage | 2018-01-29 | [🔗](https://open.spotify.com/album/0OkJThJls8FO1lutMzMDJ0) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27361d7b9988c77826dfb1db1b3" alt="" width="50" /> | The Boys - The 3rd Album | 2011-10-19 | [🔗](https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273dbe330e884acacdbb1e7987f" alt="" width="50" /> | The Boys | 2011-01-01 | [🔗](https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273374ed0d3862263ef52df6828" alt="" width="50" /> | Take Over The Moon - The 2nd Mini Album | 2019-10-29 | [🔗](https://open.spotify.com/album/4ha80ucjDvhmQPLT77yyob) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273be3a0f924ad08d95b4e25d9f" alt="" width="50" /> | TREASURE EPILOGUE : Action To Answer | 2020-01-06 | [🔗](https://open.spotify.com/album/3TTkDOcSzRQCvGMT7VmmPE) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731cc469da4da1bccfa16867be" alt="" width="50" /> | TRAVEL | 2020-11-03 | [🔗](https://open.spotify.com/album/3xje7wSW2xwQx2GNJ5cfNu) |
@@ -224,6 +223,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734525dae431a233a077d2395c" alt="" width="50" /> | NCT RESONANCE Pt. 1 - The 2nd Album | 2020-10-12 | [🔗](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738c7e7f435fdcc70772c5555e" alt="" width="50" /> | My Voice - The 1st Album | 2017-02-28 | [🔗](https://open.spotify.com/album/6DlCl3hBP1Gwhn0tgitGfN) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273cb95963709806e12d93128d4" alt="" width="50" /> | Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 2 | 2016-08-29 | [🔗](https://open.spotify.com/album/68xTLBWjoRADRf86WYmTmy) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f919108974e4213d86b83805" alt="" width="50" /> | Monster - The 1st Mini Album | 2020-07-06 | [🔗](https://open.spotify.com/album/4DFheSBXhfewjz7SSe4Kyc) |
 
 </details>
 
@@ -234,11 +234,11 @@
 
 
 <details>
-<summary>See all 51 labels</summary>
+<summary>See all 50 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
-| 69 | [SM Entertainment](../../labels/sm_entertainment.md) |
+| 68 | [SM Entertainment](../../labels/sm_entertainment.md) |
 | 19 | [YG Entertainment](../../labels/yg_entertainment.md) |
 | 19 | [Republic Records](../../labels/republic_records.md) |
 | 12 | [Interscope Records](../../labels/interscope_records.md) |
@@ -273,7 +273,6 @@
 | 1 | [WM Korea](../../labels/wm_korea.md) |
 | 1 | WM Japan |
 | 1 | [WM Entertainment](../../labels/wm_entertainment.md) |
-| 1 | Universal Music Group International |
 | 1 | Transparent Arts |
 | 1 | TEAM WANG records |
 | 1 | [Sony Music Labels Inc.](../../labels/sony_music_labels_inc_.md) |
@@ -303,8 +302,8 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 183 | [k-pop](../../genres/k_pop.md) |
-| 88 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
+| 182 | [k-pop](../../genres/k_pop.md) |
+| 86 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 49 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
 | 11 | [pop](../../genres/pop.md) |
 | 9 | anime |
@@ -331,7 +330,7 @@
 |:---|---:|
 | 2023 | 10 |
 | [2022](2022.md) | 62 |
-| [2021](2021.md) | 52 |
+| [2021](2021.md) | 51 |
 | [2020](2020.md) | 32 |
 | 2019 | 15 |
 | 2018 | 10 |
@@ -340,7 +339,7 @@
 | 2015 | 7 |
 | 2014 | 3 |
 | 2013 | 2 |
-| 2011 | 3 |
+| 2011 | 2 |
 | 2010 | 1 |
 | 2008 | 1 |
 
@@ -351,14 +350,14 @@
 |:---|:---|
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f35b8a6c03cc633f734bd8ac" alt="ME" width="50" /> <span style="padding-left:10px;">ME (2023-03-31)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27325ca38eeeb374883d7652ff0" alt="MIROTIC - The 4th Album" width="50" /> <span style="padding-left:10px;">MIROTIC - The 4th Album (2008-09-19)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273bbead884cd91c2a9b5b2a9fc" alt="expérgo" width="50" /> <span style="padding-left:10px;">expérgo (2023-03-20)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273286903a9b4f8bce214f1dffa" alt="Run Devil Run - The 2nd Album Repackage" width="50" /> <span style="padding-left:10px;">Run Devil Run - The 2nd Album Repackage (2010-03-22)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="READY TO BE" width="50" /> <span style="padding-left:10px;">READY TO BE (2023-03-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273dbe330e884acacdbb1e7987f" alt="The Boys" width="50" /> <span style="padding-left:10px;">The Boys (2011-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="Cabin Fever" width="50" /> <span style="padding-left:10px;">Cabin Fever (2023-02-15)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27361d7b9988c77826dfb1db1b3" alt="The Boys - The 3rd Album" width="50" /> <span style="padding-left:10px;">The Boys - The 3rd Album (2011-10-19)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731869a85947a5ea00df8c936f" alt="BSS 1st Single Album 'SECOND WIND'" width="50" /> <span style="padding-left:10px;">BSS 1st Single Album 'SECOND WIND' (2023-02-06)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273bf5f4138ebc9ba3fd6f0cde9" alt="Last Fantasy" width="50" /> <span style="padding-left:10px;">Last Fantasy (2011-11-29)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="Stamp On It - The 1st Mini Album" width="50" /> <span style="padding-left:10px;">Stamp On It - The 1st Mini Album (2023-01-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273fd1f3849aaaf15112389a725" alt="I GOT A BOY - The 4th Album" width="50" /> <span style="padding-left:10px;">I GOT A BOY - The 4th Album (2013-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="REASON" width="50" /> <span style="padding-left:10px;">REASON (2023-01-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="Modern Times" width="50" /> <span style="padding-left:10px;">Modern Times (2013-10-08)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01" alt="NewJeans 'OMG'" width="50" /> <span style="padding-left:10px;">NewJeans 'OMG' (2023-01-02)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e1ceb97165340ef92392b948" alt="RISE" width="50" /> <span style="padding-left:10px;">RISE (2014-06-03)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738bc5762a75c18b494803705c" alt="SPIN OFF : FROM THE WITNESS" width="50" /> <span style="padding-left:10px;">SPIN OFF : FROM THE WITNESS (2022-12-30)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273dbb82cf845a6d574224a0d33" alt="MAMACITA - The 7th Album" width="50" /> <span style="padding-left:10px;">MAMACITA - The 7th Album (2014-08-29)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="2022 Winter SMTOWN : SMCU PALACE" width="50" /> <span style="padding-left:10px;">2022 Winter SMTOWN : SMCU PALACE (2022-12-26)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737752724657197df65e7c82f9" alt="Piano Man" width="50" /> <span style="padding-left:10px;">Piano Man (2014-11-21)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="READY TO BE" width="50" /> <span style="padding-left:10px;">READY TO BE (2023-03-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27361d7b9988c77826dfb1db1b3" alt="The Boys - The 3rd Album" width="50" /> <span style="padding-left:10px;">The Boys - The 3rd Album (2011-10-19)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="Cabin Fever" width="50" /> <span style="padding-left:10px;">Cabin Fever (2023-02-15)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273bf5f4138ebc9ba3fd6f0cde9" alt="Last Fantasy" width="50" /> <span style="padding-left:10px;">Last Fantasy (2011-11-29)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731869a85947a5ea00df8c936f" alt="BSS 1st Single Album 'SECOND WIND'" width="50" /> <span style="padding-left:10px;">BSS 1st Single Album 'SECOND WIND' (2023-02-06)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273fd1f3849aaaf15112389a725" alt="I GOT A BOY - The 4th Album" width="50" /> <span style="padding-left:10px;">I GOT A BOY - The 4th Album (2013-01-01)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="Stamp On It - The 1st Mini Album" width="50" /> <span style="padding-left:10px;">Stamp On It - The 1st Mini Album (2023-01-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="Modern Times" width="50" /> <span style="padding-left:10px;">Modern Times (2013-10-08)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="REASON" width="50" /> <span style="padding-left:10px;">REASON (2023-01-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e1ceb97165340ef92392b948" alt="RISE" width="50" /> <span style="padding-left:10px;">RISE (2014-06-03)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01" alt="NewJeans 'OMG'" width="50" /> <span style="padding-left:10px;">NewJeans 'OMG' (2023-01-02)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273dbb82cf845a6d574224a0d33" alt="MAMACITA - The 7th Album" width="50" /> <span style="padding-left:10px;">MAMACITA - The 7th Album (2014-08-29)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738bc5762a75c18b494803705c" alt="SPIN OFF : FROM THE WITNESS" width="50" /> <span style="padding-left:10px;">SPIN OFF : FROM THE WITNESS (2022-12-30)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737752724657197df65e7c82f9" alt="Piano Man" width="50" /> <span style="padding-left:10px;">Piano Man (2014-11-21)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="2022 Winter SMTOWN : SMCU PALACE" width="50" /> <span style="padding-left:10px;">2022 Winter SMTOWN : SMCU PALACE (2022-12-26)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738acb7bac073f378d59bf228e" alt="Crazy" width="50" /> <span style="padding-left:10px;">Crazy (2015-02-09)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
@@ -367,12 +366,12 @@
 | BOOM (0.914) | Like Water (0.365) |
 | The Boys (0.885) | O.O (0.39) |
 | ANTIFRAGILE (0.882) | Hello (0.392) |
-| The Boys (0.876) | Love poem (0.404) |
-| Feelin' Like (0.868) | HOLO (0.406) |
-| FEARLESS (0.863) | Feel My Rhythm (0.412) |
-| 1,2,3 Eoi! (0.862) | Time After Time (0.415) |
-| Phase Me (0.857) | Sparkling Night (0.422) |
-| DUMB DUMB (0.851) | 7월 7일 One Of These Nights (0.436) |
+| Feelin' Like (0.868) | Love poem (0.404) |
+| FEARLESS (0.863) | HOLO (0.406) |
+| 1,2,3 Eoi! (0.862) | Feel My Rhythm (0.412) |
+| Phase Me (0.857) | Time After Time (0.415) |
+| DUMB DUMB (0.851) | Sparkling Night (0.422) |
+| In the morning (0.846) | 7월 7일 One Of These Nights (0.436) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -383,9 +382,9 @@
 | HOME;RUN (0.942) | 무제(無題) (Untitled, 2014) (0.461) |
 | Feel My Rhythm (0.94) | Love poem (0.467) |
 | The Boys (0.937) | HOLO (0.474) |
-| The Boys (0.937) | Dream (0.476) |
-| Ice Cream Cake (0.935) | 7월 7일 One Of These Nights (0.509) |
-| Sparkling Night (0.935) | 눈,코,입 (Eyes, Nose, Lips) (0.516) |
+| Ice Cream Cake (0.935) | Dream (0.476) |
+| Sparkling Night (0.935) | 7월 7일 One Of These Nights (0.509) |
+| Hype Boy (0.935) | 눈,코,입 (Eyes, Nose, Lips) (0.516) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -420,11 +419,11 @@
 | Lion Heart (0.00274) | TOMBOY (0.0) |
 | Kill This Love (0.00221) | Typa Girl (0.0) |
 | Why Not? (0.00108) | Red Lights (Bang Chan, Hyunjin) (0.0) |
-| Black Mamba (0.000946) | The Boys (0.0) |
-| In the morning (0.00094) | FEVER (0.0) |
-| Stay Tonight (0.000612) | Back Door (0.0) |
-| Girls (0.000594) | Hype Boy (0.0) |
-| MAGO (0.000578) | How People Move (0.0) |
+| Black Mamba (0.000946) | FEVER (0.0) |
+| In the morning (0.00094) | Back Door (0.0) |
+| Stay Tonight (0.000612) | Hype Boy (0.0) |
+| Girls (0.000594) | How People Move (0.0) |
+| MAGO (0.000578) | DARARI (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -444,10 +443,10 @@
 | Devil (0.968) | 7월 7일 One Of These Nights (0.11) |
 | Lion Heart (0.961) | My sea (0.122) |
 | 러시안 룰렛 Russian Roulette (0.958) | Time After Time (0.123) |
-| Left & Right (0.95) | Lucid Dream (0.146) |
-| Fighting (Feat. Lee Young Ji) (0.922) | ONLY (0.151) |
-| The Feels (0.922) | Adrenaline (0.175) |
-| The Boys (0.902) | Ditto (0.183) |
+| Left & Right (0.95) | ONLY (0.151) |
+| Fighting (Feat. Lee Young Ji) (0.922) | Adrenaline (0.175) |
+| The Feels (0.922) | Ditto (0.183) |
 | Pretty U (0.884) | HOLO (0.206) |
 | CALL ME BABY (0.879) | Can't Control Myself (0.229) |
 | The Boys (0.878) | Cold As Hell (0.236) |
+| Feelin' Like (0.861) | Still Life (0.239) |

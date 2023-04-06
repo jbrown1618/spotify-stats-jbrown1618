@@ -1,6 +1,6 @@
 # k-pop boy group
 
-[246 songs](k_pop_boy_group_tracks.md)
+[249 songs](k_pop_boy_group_tracks.md)
 
 ## Top Artists
 
@@ -10,7 +10,7 @@
 
 
 <details>
-<summary>See all 42 artists</summary>
+<summary>See all 43 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -26,13 +26,14 @@
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bd65b0efee10bfa8328c33b" alt="" width="50" /> | NCT U | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9996e5d7c5b769b2b26ff1a" alt="" width="50" /> | SUPER JUNIOR | [🔗](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5ebd90aa536055fe9806b3960e6" alt="" width="50" /> | GOT7 | [🔗](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) |
+| 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb767815f4876969e8f888f0db" alt="" width="50" /> | The Rose | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb74f9c3e4ad2e130f8f338858" alt="" width="50" /> | P1Harmony | [🔗](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb7ece2134de8809efcfdc9be7" alt="" width="50" /> | SHINee | [🔗](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | PENTAGON | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
-| 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb767815f4876969e8f888f0db" alt="" width="50" /> | The Rose | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb597a4257d0022e2ac837fa7d" alt="" width="50" /> | BIGBANG | [🔗](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8eb5e57e526ceb14f06ea203" alt="" width="50" /> | iKON | [🔗](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb66701ca609176d8fd4a9c4a0" alt="" width="50" /> | NCT | [🔗](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG) |
+| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb771aebd54ce149b97c0bb971" alt="" width="50" /> | THE BOYZ | [🔗](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5fb007a707c0ec3a7c1726af" alt="" width="50" /> | Steve Aoki | [🔗](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebac19ac3b8773baa5791999fb" alt="" width="50" /> | TVXQ! | [🔗](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebe069abe9362512bec11f5e13" alt="" width="50" /> | AB6IX | [🔗](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) |
@@ -41,7 +42,6 @@
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb652b1738f121da382c3ab77b" alt="" width="50" /> | ONEUS | [🔗](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb0222fa7cba5da5c28ea5d296" alt="" width="50" /> | BTOB | [🔗](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7752de4f562eba802042b432" alt="" width="50" /> | VERIVERY | [🔗](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb771aebd54ce149b97c0bb971" alt="" width="50" /> | THE BOYZ | [🔗](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eba60ea8fce338724271ae273e" alt="" width="50" /> | Play-N-Skillz | [🔗](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebbde67f9fdaf3531de31caad2" alt="" width="50" /> | Leslie Grace | [🔗](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb125d29add59b1d82aa236423" alt="" width="50" /> | 2PM | [🔗](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) |
@@ -56,6 +56,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb080109ba641204f8c80d2b5e" alt="" width="50" /> | Beast | [🔗](https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb3c633d8f23531e0d6458cae" alt="" width="50" /> | KINGDOM | [🔗](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fe4c2a6bc39969b4b8dbe1d" alt="" width="50" /> | OnlyOneOf | [🔗](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) |
 
 </details>
 
@@ -136,6 +137,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732fd0233f39f381edbb84c26b" alt="" width="50" /> | THE BOYZ 5th MINI ALBUM [CHASE] | 2020-09-21 | [🔗](https://open.spotify.com/album/6HwY3FwprtqsmMuoLnXWhT) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731f5de98907a7f969ea7c28db" alt="" width="50" /> | TAKE A CHANCE | 2022-10-04 | [🔗](https://open.spotify.com/album/1QDAlRAOgIMPBQpMQ4LZ0E) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27390831ba9ed4aa3b89fd6b81c" alt="" width="50" /> | Street Man Fighter Original Vol.4 (Crew Songs) | 2022-09-20 | [🔗](https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b174ffbef3d0461e33a6b743" alt="" width="50" /> | Strangers from hell Pt.1 (Original Television Soundtrack) | 2019-08-31 | [🔗](https://open.spotify.com/album/25o8Dmj5AYXFyU4JlohT9X) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | Still Life | 2022-04-05 | [🔗](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d64e2f339a0a9ea967b308e" alt="" width="50" /> | Step Out of Clé (English Ver.) | 2020-01-24 | [🔗](https://open.spotify.com/album/2BBeNPEEevRiYISKYEnGvc) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739902ed3e9f44f5ad65ad808a" alt="" width="50" /> | Sorry | 2017-08-03 | [🔗](https://open.spotify.com/album/6D48tHXsa6LzoViDIACdkt) |
@@ -168,18 +170,17 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a8f520a58790e872d0007e2e" alt="" width="50" /> | NCT RESONANCE Pt. 2 - The 2nd Album | 2020-11-23 | [🔗](https://open.spotify.com/album/5Dq6jkYO5H7KzxXSazhLxs) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ff666e3a12273d4d1380e9f0" alt="" width="50" /> | NCT #127 Regular-Irregular - The 1st Album | 2018-10-12 | [🔗](https://open.spotify.com/album/4oU5Tp952fPL7z2Bax4JmU) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731727feddec43c335453b9252" alt="" width="50" /> | NCT #127 Neo Zone - The 2nd Album | 2020-03-06 | [🔗](https://open.spotify.com/album/5YOvg682zFOleCiSndLnZr) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738d47b664117ca39e7b1acfc9" alt="" width="50" /> | NCT #127 CHERRY BOMB– The 3rd Mini Album | 2017-06-14 | [🔗](https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s) |
 
 </details>
 
 
 ## Top Record Labels
 
-![Bar chart of top 29 record labels](../images/genres/k_pop_boy_group/labels.png)
+![Bar chart of top 30 record labels](../images/genres/k_pop_boy_group/labels.png)
 
 
 <details>
-<summary>See all 29 labels</summary>
+<summary>See all 31 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -189,10 +190,10 @@
 | 20 | [BELIFT LAB](../labels/belift_lab.md) |
 | 16 | [PLEDIS Entertainment](../labels/pledis_entertainment.md) |
 | 10 | [HYBE](../labels/hybe.md) |
+| 9 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
 | 8 | [YG Entertainment](../labels/yg_entertainment.md) |
+| 8 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
 | 8 | KQ Entertainment |
-| 8 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
-| 7 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
 | 7 | [JYP Entertainment](../labels/jyp_entertainment.md) |
 | 6 | [Universal Music LLC](../labels/universal_music_llc.md) |
 | 5 | [FNC ENTERTAINMENT](../labels/fnc_entertainment.md) |
@@ -204,9 +205,11 @@
 | 2 | [Sony Music Labels Inc.](../labels/sony_music_labels_inc_.md) |
 | 2 | Cre.ker Entertainment |
 | 1 | 브레이브 엔터테인먼트 |
+| 1 | 뮤직버디 |
 | 1 | ㈜ 동요엔터테인먼트 |
 | 1 | avex trax |
 | 1 | Transparent Arts |
+| 1 | Klap |
 | 1 | JELLYFISH ENTERTAINMENT |
 | 1 | Imperial Distribution |
 | 1 | Fantagio |
@@ -275,13 +278,13 @@
 | Fairy of Shampoo (0.00673) | SUPER BOARD (0.0) |
 | Singularity (0.00278) | Winter Falls (0.0) |
 | Mr. Simple (0.00208) | Beatbox (0.0) |
-| HALAZIA (0.000575) | Ridin' (0.0) |
-| Lemonade (0.000522) | BOSS (0.0) |
-| Ring Ding Dong (0.000501) | PHOTO (0.0) |
-| Danger (0.000215) | Gold Dust (0.0) |
-| Airplane pt.2 (0.000103) | Paradise (0.0) |
-| Sour (8.35e-05) | BLACK MIRROR (0.0) |
-| Doom Du Doom (4.82e-05) | Red Lights (Bang Chan, Hyunjin) (0.0) |
+| Strangers (0.000939) | Ridin' (0.0) |
+| HALAZIA (0.000575) | BOSS (0.0) |
+| Lemonade (0.000522) | PHOTO (0.0) |
+| Ring Ding Dong (0.000501) | Gold Dust (0.0) |
+| Danger (0.000215) | Paradise (0.0) |
+| Airplane pt.2 (0.000103) | BLACK MIRROR (0.0) |
+| Sour (8.35e-05) | Red Lights (Bang Chan, Hyunjin) (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|

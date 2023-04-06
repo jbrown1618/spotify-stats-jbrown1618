@@ -86,7 +86,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb08132734f5756507e29fdf5b" alt="" width="50" /> | Ayumi Hamasaki | [🔗](https://open.spotify.com/artist/3Mvc8kRgr8LRYYgvFmlZqn) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6705f8b54e3684d85b6426a3" alt="" width="50" /> | Ana Guerra | [🔗](https://open.spotify.com/artist/3MRynBsyLGzv3IQ9Fip6hO) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb63b3f52a50b570554df21c55" alt="" width="50" /> | Agam Buhbut | [🔗](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736c44926d053b033447e4e710" alt="" width="50" /> | Kausar Munir | [🔗](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733e1c6b8723c29f2e1ef217c4" alt="" width="50" /> | Kausar Munir | [🔗](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebad8926c870508bc74948899a" alt="" width="50" /> | Rayi Putra | [🔗](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe91b522e8bb5fb15fe3813eb" alt="" width="50" /> | Savera | [🔗](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb38a96d85b0580670123280e" alt="" width="50" /> | ZUTOMAYO | [🔗](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) |
@@ -311,7 +311,7 @@
 
 
 <details>
-<summary>See all 98 genres</summary>
+<summary>See all 97 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
@@ -410,7 +410,6 @@
 | 1 | bulgarian pop |
 | 1 | bulgarian hip hop |
 | 1 | basshall |
-| 1 | alt z |
 | 1 | afro soul |
 | 1 | afro dancehall |
 
