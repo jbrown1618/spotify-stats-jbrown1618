@@ -17,18 +17,18 @@
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
-| 55 | <img src="https://i.scdn.co/image/9a7c31f43e22a95f6d3c57baf4f87a3a9d2b93e0" alt="" width="50" /> | [Pyotr Ilyich Tchaikovsky](../../artists/pyotr_ilyich_tchaikovsky.md) | [🔗](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA) |
-| 43 | <img src="https://i.scdn.co/image/ab6761610000e5eb92e0a1e423bd8590dcd43bda" alt="" width="50" /> | [Berliner Philharmoniker](../../artists/berliner_philharmoniker.md) | [🔗](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z) |
-| 39 | <img src="https://i.scdn.co/image/49da328b0629313b2c452bf35d8c50d013274f5b" alt="" width="50" /> | [Igor Stravinsky](../../artists/igor_stravinsky.md) | [🔗](https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE) |
-| 39 | <img src="https://i.scdn.co/image/b5b05560a51b368cca8b3420e4e3536586720aa8" alt="" width="50" /> | [Barry Wordsworth](../../artists/barry_wordsworth.md) | [🔗](https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN) |
-| 39 | <img src="https://i.scdn.co/image/ab6761610000e5ebb72368972071bd5422a86268" alt="" width="50" /> | [Orchestra Victoria](../../artists/orchestra_victoria.md) | [🔗](https://open.spotify.com/artist/1bnC6eJzCumTgAB7tG1118) |
-| 39 | <img src="https://i.scdn.co/image/c12a6d385c87030706a0f36dd8798deb299c87a4" alt="" width="50" /> | [Léo Delibes](../../artists/l_o_delibes.md) | [🔗](https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT) |
-| 31 | <img src="https://i.scdn.co/image/ab6761610000e5ebf113c063e071771545263b9a" alt="" width="50" /> | [London Symphony Orchestra](../../artists/london_symphony_orchestra.md) | [🔗](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) |
-| 31 | <img src="https://i.scdn.co/image/8680bc690ee5747b08f6a9a7566f000cce6e220b" alt="" width="50" /> | [André Previn](../../artists/andr__previn.md) | [🔗](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) |
-| 24 | <img src="https://i.scdn.co/image/3460fd826c1cc058c4c4134e6c695e00dcf89fa6" alt="" width="50" /> | [Sir Simon Rattle](../../artists/sir_simon_rattle.md) | [🔗](https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp) |
-| 19 | <img src="https://i.scdn.co/image/ab6761610000e5ebf67fde1740e91a88445d5bdd" alt="" width="50" /> | [Herbert von Karajan](../../artists/herbert_von_karajan.md) | [🔗](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) |
-| 18 | <img src="https://i.scdn.co/image/ab6761610000e5eb0065f11220ca4bb030bffb72" alt="" width="50" /> | [Mariinsky Orchestra](../../artists/mariinsky_orchestra.md) | [🔗](https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6) |
-| 18 | <img src="https://i.scdn.co/image/ab6761610000e5eb85c25fffeaf7a209268e9372" alt="" width="50" /> | [Valery Gergiev](../../artists/valery_gergiev.md) | [🔗](https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2) |
+| 55 | <img src="https://i.scdn.co/image/9a7c31f43e22a95f6d3c57baf4f87a3a9d2b93e0" alt="" width="50" /> | Pyotr Ilyich Tchaikovsky | [🔗](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA) |
+| 43 | <img src="https://i.scdn.co/image/ab6761610000e5eb92e0a1e423bd8590dcd43bda" alt="" width="50" /> | Berliner Philharmoniker | [🔗](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z) |
+| 39 | <img src="https://i.scdn.co/image/49da328b0629313b2c452bf35d8c50d013274f5b" alt="" width="50" /> | Igor Stravinsky | [🔗](https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE) |
+| 39 | <img src="https://i.scdn.co/image/b5b05560a51b368cca8b3420e4e3536586720aa8" alt="" width="50" /> | Barry Wordsworth | [🔗](https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN) |
+| 39 | <img src="https://i.scdn.co/image/ab6761610000e5ebb72368972071bd5422a86268" alt="" width="50" /> | Orchestra Victoria | [🔗](https://open.spotify.com/artist/1bnC6eJzCumTgAB7tG1118) |
+| 39 | <img src="https://i.scdn.co/image/c12a6d385c87030706a0f36dd8798deb299c87a4" alt="" width="50" /> | Léo Delibes | [🔗](https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT) |
+| 31 | <img src="https://i.scdn.co/image/ab6761610000e5ebf113c063e071771545263b9a" alt="" width="50" /> | London Symphony Orchestra | [🔗](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) |
+| 31 | <img src="https://i.scdn.co/image/8680bc690ee5747b08f6a9a7566f000cce6e220b" alt="" width="50" /> | André Previn | [🔗](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) |
+| 24 | <img src="https://i.scdn.co/image/3460fd826c1cc058c4c4134e6c695e00dcf89fa6" alt="" width="50" /> | Sir Simon Rattle | [🔗](https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp) |
+| 19 | <img src="https://i.scdn.co/image/ab6761610000e5ebf67fde1740e91a88445d5bdd" alt="" width="50" /> | Herbert von Karajan | [🔗](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) |
+| 18 | <img src="https://i.scdn.co/image/ab6761610000e5eb0065f11220ca4bb030bffb72" alt="" width="50" /> | Mariinsky Orchestra | [🔗](https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6) |
+| 18 | <img src="https://i.scdn.co/image/ab6761610000e5eb85c25fffeaf7a209268e9372" alt="" width="50" /> | Valery Gergiev | [🔗](https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2) |
 | 7 | <img src="https://i.scdn.co/image/ab67616d0000b2733620c09ca7ca202e676b783b" alt="" width="50" /> | Orchestre de l’Opéra national de Paris | [🔗](https://open.spotify.com/artist/6qe7dVv9gojPhhrZDL1TUS) |
 | 7 | <img src="https://i.scdn.co/image/f4b67441af1209f35f44684e0e7e623da5550f4f" alt="" width="50" /> | Myung-Whun Chung | [🔗](https://open.spotify.com/artist/4hdiwtmc6OEFFxpSlwwmby) |
 | 5 | <img src="https://i.scdn.co/image/592ddf9d4d2154cd3256c6e69171d5371fca8f0c" alt="" width="50" /> | Béla Bartók | [🔗](https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd) |
@@ -85,12 +85,12 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 138 | [classical](../../genres/classical.md) |
-| 94 | [late romantic era](../../genres/late_romantic_era.md) |
-| 55 | [russian romanticism](../../genres/russian_romanticism.md) |
-| 44 | [neoclassicism](../../genres/neoclassicism.md) |
-| 44 | [early modern classical](../../genres/early_modern_classical.md) |
-| 39 | [russian modern classical](../../genres/russian_modern_classical.md) |
+| 138 | classical |
+| 94 | late romantic era |
+| 55 | russian romanticism |
+| 44 | neoclassicism |
+| 44 | early modern classical |
+| 39 | russian modern classical |
 | 39 | french romanticism |
 | 39 | french opera |
 

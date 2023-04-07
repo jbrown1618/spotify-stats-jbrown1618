@@ -1,18 +1,19 @@
 # Def Jam Recordings
 
-15 songs
+16 songs
 
 Appears as:
 - Def Jam Recordings (14 tracks)
 - Friends Keep Secrets/Def Jam Recordings/Interscope Records (1 tracks)
+- Gamebread, LLC / Def Jam Recordings (1 tracks)
 
 ## Top Artists
 
-![Bar chart of top 8 artists](../images/labels/def_jam_recordings/artists.png)
+![Bar chart of top 10 artists](../images/labels/def_jam_recordings/artists.png)
 
 
 <details>
-<summary>See all 8 artists</summary>
+<summary>See all 10 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -20,8 +21,10 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb37bff6aa1d42bede9048750f" alt="" width="50" /> | Calvin Harris | [🔗](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | benny blanco | [🔗](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | JAY-Z | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | Kendrick Lamar | [🔗](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | Justin Bieber | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb81d954dd35145481964ddd6c" alt="" width="50" /> | Mikky Ekko | [🔗](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf556662d187b9191c421be1c" alt="" width="50" /> | 2 Chainz | [🔗](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb22b2d4713c50ae25a7201429" alt="" width="50" /> | DaniLeigh | [🔗](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9cfdc05548d1655bc265f85" alt="" width="50" /> | G-Eazy | [🔗](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) |
 
@@ -30,11 +33,11 @@ Appears as:
 
 ## Top Albums
 
-![Bar chart of top 8 albums](../images/labels/def_jam_recordings/albums.png)
+![Bar chart of top 9 albums](../images/labels/def_jam_recordings/albums.png)
 
 
 <details>
-<summary>See all 8 albums</summary>
+<summary>See all 9 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -43,6 +46,7 @@ Appears as:
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef" alt="" width="50" /> | Talk That Talk | 2011-11-19 | [🔗](https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="" width="50" /> | Loud | 2010-11-16 | [🔗](https://open.spotify.com/album/6UHhmTLl9T1scRYLmpHcDX) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ab647295c0c97446c1f1a3b5" alt="" width="50" /> | Rated R | 2009-11-20 | [🔗](https://open.spotify.com/album/7uGmyYwDFJbSc1xs4hkEs2) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27384f49cbc39ac1f18422a4d42" alt="" width="50" /> | Rap Or Go To The League | 2019-03-01 | [🔗](https://open.spotify.com/album/1BR69wIifGZUSimcuTjWVg) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b21609e1a2d7c1b7ba8efae2" alt="" width="50" /> | Music Of The Sun | 2005-08-29 | [🔗](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27383b22beb73e2014b20159685" alt="" width="50" /> | Lonely (with benny blanco) | 2020-10-16 | [🔗](https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739351691c007cad99d70d9f3f" alt="" width="50" /> | Cravin | 2019-10-18 | [🔗](https://open.spotify.com/album/6c66PBJdg7EWPcFUvLyFFu) |
@@ -52,23 +56,28 @@ Appears as:
 
 ## Genres
 
-![Bar chart of top 9 genres](../images/labels/def_jam_recordings/genres.png)
+![Bar chart of top 14 genres](../images/labels/def_jam_recordings/genres.png)
 
 
 <details>
-<summary>See all 9 genres</summary>
+<summary>See all 14 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
 | 15 | [pop](../genres/pop.md) |
 | 13 | urban contemporary |
 | 13 | barbadian pop |
+| 2 | rap |
+| 2 | pop rap |
+| 1 | trap |
+| 1 | southern hip hop |
 | 1 | rap latina |
-| 1 | rap |
 | 1 | [r&b](../genres/r_b.md) |
-| 1 | pop rap |
 | 1 | pop r&b |
+| 1 | hip hop |
+| 1 | gangster rap |
 | 1 | canadian pop |
+| 1 | atl hip hop |
 
 </details>
 
@@ -77,6 +86,7 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27384f49cbc39ac1f18422a4d42" alt="" width="50" /> | Momma I Hit A Lick (feat. Kendrick Lamar) | Rap Or Go To The League | 2 Chainz, Kendrick Lamar | [Gamebread, LLC / Def Jam Recordings](def_jam_recordings.md) | | [🔗](https://open.spotify.com/track/7jKUnzzOGhAlPjr7LkIUlE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739351691c007cad99d70d9f3f" alt="" width="50" /> | Cravin (feat. G-Eazy) | Cravin | DaniLeigh, G-Eazy | [Def Jam Recordings](def_jam_recordings.md) | | [🔗](https://open.spotify.com/track/69eXHDgEEQ6itzt03E7fKz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27383b22beb73e2014b20159685" alt="" width="50" /> | Lonely (with benny blanco) | Lonely (with benny blanco) | Justin Bieber, benny blanco | Friends Keep Secrets, [Def Jam Recordings](def_jam_recordings.md), [Interscope Records](interscope_records.md) | 💚 | [🔗](https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b21609e1a2d7c1b7ba8efae2" alt="" width="50" /> | Pon de Replay | Music Of The Sun | [Rihanna](../artists/rihanna.md) | [Def Jam Recordings](def_jam_recordings.md) | 💚 | [🔗](https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov) |

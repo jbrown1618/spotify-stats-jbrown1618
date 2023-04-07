@@ -17,24 +17,24 @@
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
-| 17 | <img src="https://i.scdn.co/image/1442f5564217baa0dfa8480928596416885f1c4d" alt="" width="50" /> | [Gustavo Dudamel](../../artists/gustavo_dudamel.md) | [🔗](https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY) |
-| 17 | <img src="https://i.scdn.co/image/ab6761610000e5eb4bb5eb0860d831455fab32b6" alt="" width="50" /> | [Wiener Philharmoniker](../../artists/wiener_philharmoniker.md) | [🔗](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ) |
-| 16 | <img src="https://i.scdn.co/image/20b923e03dd0fb8cd20fb93559b9ed9a0e7aefbc" alt="" width="50" /> | [Modest Mussorgsky](../../artists/modest_mussorgsky.md) | [🔗](https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl) |
-| 13 | <img src="https://i.scdn.co/image/32bf53aa73dbb81c615a91324efea0bcfff4b440" alt="" width="50" /> | [Felix Mendelssohn](../../artists/felix_mendelssohn.md) | [🔗](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710) |
-| 13 | <img src="https://i.scdn.co/image/48524e78bab6185ab73bca33bf6313070aea05df" alt="" width="50" /> | [John Eliot Gardiner](../../artists/john_eliot_gardiner.md) | [🔗](https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi) |
-| 12 | <img src="https://i.scdn.co/image/ab6761610000e5ebf113c063e071771545263b9a" alt="" width="50" /> | [London Symphony Orchestra](../../artists/london_symphony_orchestra.md) | [🔗](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) |
+| 17 | <img src="https://i.scdn.co/image/1442f5564217baa0dfa8480928596416885f1c4d" alt="" width="50" /> | Gustavo Dudamel | [🔗](https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY) |
+| 17 | <img src="https://i.scdn.co/image/ab6761610000e5eb4bb5eb0860d831455fab32b6" alt="" width="50" /> | Wiener Philharmoniker | [🔗](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ) |
+| 16 | <img src="https://i.scdn.co/image/20b923e03dd0fb8cd20fb93559b9ed9a0e7aefbc" alt="" width="50" /> | Modest Mussorgsky | [🔗](https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl) |
+| 13 | <img src="https://i.scdn.co/image/32bf53aa73dbb81c615a91324efea0bcfff4b440" alt="" width="50" /> | Felix Mendelssohn | [🔗](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710) |
+| 13 | <img src="https://i.scdn.co/image/48524e78bab6185ab73bca33bf6313070aea05df" alt="" width="50" /> | John Eliot Gardiner | [🔗](https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi) |
+| 12 | <img src="https://i.scdn.co/image/ab6761610000e5ebf113c063e071771545263b9a" alt="" width="50" /> | London Symphony Orchestra | [🔗](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) |
 | 8 | <img src="nan" alt="" width="50" /> | Alexander Knox | [🔗](https://open.spotify.com/artist/4vzwv4zzBTlG8qsFCqP2Yv) |
-| 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb92e0a1e423bd8590dcd43bda" alt="" width="50" /> | [Berliner Philharmoniker](../../artists/berliner_philharmoniker.md) | [🔗](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z) |
-| 7 | <img src="https://i.scdn.co/image/ab6761610000e5ebf67fde1740e91a88445d5bdd" alt="" width="50" /> | [Herbert von Karajan](../../artists/herbert_von_karajan.md) | [🔗](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) |
+| 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb92e0a1e423bd8590dcd43bda" alt="" width="50" /> | Berliner Philharmoniker | [🔗](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z) |
+| 7 | <img src="https://i.scdn.co/image/ab6761610000e5ebf67fde1740e91a88445d5bdd" alt="" width="50" /> | Herbert von Karajan | [🔗](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) |
 | 7 | <img src="https://i.scdn.co/image/ef09684355a52775e8ff4c9fc2d9fc35714e264a" alt="" width="50" /> | Gustav Holst | [🔗](https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ) |
 | 6 | <img src="nan" alt="" width="50" /> | Ceri-lyn Cissone | [🔗](https://open.spotify.com/artist/6F3jOFmhUwRxRdWAZU6G1A) |
 | 4 | <img src="nan" alt="" width="50" /> | Frankie Wakefield | [🔗](https://open.spotify.com/artist/7jobsaZIFhejECE605yxx6) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb23c40a5ab7938f014b50cd73" alt="" width="50" /> | Orchestre Symphonique de Montréal | [🔗](https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd) |
-| 3 | <img src="https://i.scdn.co/image/5e1155c852578ddf5d2cfea94ccb3a8a65efa882" alt="" width="50" /> | [Claude Debussy](../../artists/claude_debussy.md) | [🔗](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP) |
+| 3 | <img src="https://i.scdn.co/image/5e1155c852578ddf5d2cfea94ccb3a8a65efa882" alt="" width="50" /> | Claude Debussy | [🔗](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP) |
 | 3 | <img src="https://i.scdn.co/image/005fcb121f6b97637c1fb438bcc616e5e4833091" alt="" width="50" /> | Charles Dutoit | [🔗](https://open.spotify.com/artist/0Ku5VBNL7cfGXRhp2BxXEQ) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb1572201eabc7158f8ab9ceff" alt="" width="50" /> | The Monteverdi Choir | [🔗](https://open.spotify.com/artist/0Cqfz92flAzrp94pgN1jEW) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb68060bb8c0b22952f9013901" alt="" width="50" /> | London Philharmonic Orchestra | [🔗](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) |
-| 1 | <img src="https://i.scdn.co/image/9a7c31f43e22a95f6d3c57baf4f87a3a9d2b93e0" alt="" width="50" /> | [Pyotr Ilyich Tchaikovsky](../../artists/pyotr_ilyich_tchaikovsky.md) | [🔗](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA) |
+| 1 | <img src="https://i.scdn.co/image/9a7c31f43e22a95f6d3c57baf4f87a3a9d2b93e0" alt="" width="50" /> | Pyotr Ilyich Tchaikovsky | [🔗](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA) |
 | 1 | <img src="https://i.scdn.co/image/965d539c15af1d86ec4875f05ec21d32414c3e64" alt="" width="50" /> | Gabriel Fauré | [🔗](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO) |
 | 1 | <img src="https://i.scdn.co/image/280739f001dfa6cbd0c865f151b4ebd2270d8cdf" alt="" width="50" /> | David Parry | [🔗](https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD) |
 | 1 | <img src="https://i.scdn.co/image/35be7bb14981025436fb95c6b80644ff4b26b32a" alt="" width="50" /> | RIAS Kammerchor | [🔗](https://open.spotify.com/artist/2UVXU77knJMYOM6Avvw6Yx) |
@@ -89,12 +89,12 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 25 | [classical](../../genres/classical.md) |
-| 17 | [russian romanticism](../../genres/russian_romanticism.md) |
-| 17 | [late romantic era](../../genres/late_romantic_era.md) |
-| 13 | [german romanticism](../../genres/german_romanticism.md) |
-| 13 | [early romantic era](../../genres/early_romantic_era.md) |
-| 11 | [post-romantic era](../../genres/post_romantic_era.md) |
+| 25 | classical |
+| 17 | russian romanticism |
+| 17 | late romantic era |
+| 13 | german romanticism |
+| 13 | early romantic era |
+| 11 | post-romantic era |
 | 7 | british modern classical |
 | 3 | impressionism |
 

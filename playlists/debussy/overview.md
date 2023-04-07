@@ -17,8 +17,8 @@
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
-| 23 | <img src="https://i.scdn.co/image/5e1155c852578ddf5d2cfea94ccb3a8a65efa882" alt="" width="50" /> | [Claude Debussy](../../artists/claude_debussy.md) | [🔗](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP) |
-| 20 | <img src="https://i.scdn.co/image/54c4049a6258f1d526aa8b421ac31332add3db98" alt="" width="50" /> | [Martin Jones](../../artists/martin_jones.md) | [🔗](https://open.spotify.com/artist/1VzJXXVXsYbEK773GWSoND) |
+| 23 | <img src="https://i.scdn.co/image/5e1155c852578ddf5d2cfea94ccb3a8a65efa882" alt="" width="50" /> | Claude Debussy | [🔗](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP) |
+| 20 | <img src="https://i.scdn.co/image/54c4049a6258f1d526aa8b421ac31332add3db98" alt="" width="50" /> | Martin Jones | [🔗](https://open.spotify.com/artist/1VzJXXVXsYbEK773GWSoND) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb23c40a5ab7938f014b50cd73" alt="" width="50" /> | Orchestre Symphonique de Montréal | [🔗](https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd) |
 | 3 | <img src="https://i.scdn.co/image/005fcb121f6b97637c1fb438bcc616e5e4833091" alt="" width="50" /> | Charles Dutoit | [🔗](https://open.spotify.com/artist/0Ku5VBNL7cfGXRhp2BxXEQ) |
 
@@ -67,9 +67,9 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 23 | [post-romantic era](../../genres/post_romantic_era.md) |
+| 23 | post-romantic era |
 | 23 | impressionism |
-| 23 | [classical](../../genres/classical.md) |
+| 23 | classical |
 
 </details>
 

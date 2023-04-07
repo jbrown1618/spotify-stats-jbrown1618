@@ -7,7 +7,7 @@
 ## Featured on Playlists
 | Number of Tracks | Art | Playlist |
 |---:|:---|:---|
-| 28 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | [K-Pop](../playlists/k_pop/overview.md) |
+| 29 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | [K-Pop](../playlists/k_pop/overview.md) |
 | 9 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | [K-Pop Favorites](../playlists/k_pop_favorites/overview.md) |
 | 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | [K-Pop 101](../playlists/k_pop_101/overview.md) |
 ## Top Albums
@@ -16,8 +16,8 @@
 |---:|:---|:---|:---|:---|
 | 5 | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | IU 5th Album 'LILAC' | 2021-03-25 | [🔗](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="" width="50" /> | Palette | 2017-04-21 | [🔗](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) |
+| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | Love poem | 2019-11-18 | [🔗](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2736a0cfc4171d2a0cb9dc7c9ab" alt="" width="50" /> | CHAT-SHIRE | 2015-10-23 | [🔗](https://open.spotify.com/album/3rMvAe0zU0pJRnRa7Rfc1U) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | Love poem | 2019-11-18 | [🔗](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273bf5f4138ebc9ba3fd6f0cde9" alt="" width="50" /> | Last Fantasy | 2011-11-29 | [🔗](https://open.spotify.com/album/149BHv6qAyMgJ483vPi77C) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273c63be04ae902b1da7a54d247" alt="" width="50" /> | eight | 2020-05-06 | [🔗](https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27315cf3110f19687b1a24943d1" alt="" width="50" /> | REAL | 2010-12-09 | [🔗](https://open.spotify.com/album/4WY1pPvmP9sBlVICuPxBQh) |
@@ -36,7 +36,7 @@
 
 | Number of Tracks | Label |
 |---:|:---|
-| 13 | [Kakao Entertainment](../labels/kakao_entertainment.md) |
+| 14 | [Kakao Entertainment](../labels/kakao_entertainment.md) |
 | 7 | EDAM Entertainment |
 | 5 | Fave Entertainment |
 | 1 | [YG Entertainment](../labels/yg_entertainment.md) |
@@ -70,6 +70,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1d785640d9421ec17ea8fe6" alt="" width="50" /> | BBIBBI | BBIBBI | [IU](iu.md) | [Kakao Entertainment](../labels/kakao_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | Blueming | Love poem | [IU](iu.md) | [Kakao Entertainment](../labels/kakao_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/4Dr2hJ3EnVh2Aaot6fRwDO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | Love poem | Love poem | [IU](iu.md) | [Kakao Entertainment](../labels/kakao_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/7HrE6HtYNBbGqp5GmHbFV0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | above the time | Love poem | [IU](iu.md) | [Kakao Entertainment](../labels/kakao_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/2qKZnheMe0HhqYC1XJcdaA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c63be04ae902b1da7a54d247" alt="" width="50" /> | eight(Prod.&Feat. SUGA of BTS) | eight | [IU](iu.md), SUGA | EDAM Entertainment | 💚 | [🔗](https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | Celebrity | IU 5th Album 'LILAC' | [IU](iu.md) | EDAM Entertainment | 💚 | [🔗](https://open.spotify.com/track/5nCwjUUsmBuNZKn9Xu10Os) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | Coin | IU 5th Album 'LILAC' | [IU](iu.md) | EDAM Entertainment | 💚 | [🔗](https://open.spotify.com/track/7CZRguMolNqIobnXxpV735) |

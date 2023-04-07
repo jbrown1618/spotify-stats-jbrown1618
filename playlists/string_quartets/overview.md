@@ -17,19 +17,19 @@
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
-| 95 | <img src="https://i.scdn.co/image/db022999443da6f89e250086329d98b17399b346" alt="" width="50" /> | [Ludwig van Beethoven](../../artists/ludwig_van_beethoven.md) | [🔗](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS) |
-| 80 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9c2dcd7eb7f1247a61c6f07" alt="" width="50" /> | [Jerusalem Quartet](../../artists/jerusalem_quartet.md) | [🔗](https://open.spotify.com/artist/7AnE8Jpu1vxLeXcs6OKYHE) |
-| 71 | <img src="https://i.scdn.co/image/c43ecd6580e240e4e1df1564de80bf7102727e44" alt="" width="50" /> | [Tokyo String Quartet](../../artists/tokyo_string_quartet.md) | [🔗](https://open.spotify.com/artist/15G9RnBNBDCFUMANna2CvO) |
-| 29 | <img src="https://i.scdn.co/image/28f745db0a77d0e70db1c0be305f51b3478706aa" alt="" width="50" /> | [Dmitri Shostakovich](../../artists/dmitri_shostakovich.md) | [🔗](https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA) |
-| 16 | <img src="https://i.scdn.co/image/d5c6af18beb1411ab49c2976647e0d370bf66a88" alt="" width="50" /> | [Johannes Brahms](../../artists/johannes_brahms.md) | [🔗](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq) |
-| 16 | <img src="https://i.scdn.co/image/ab6761610000e5eb016cb2454e3aa43206ae5425" alt="" width="50" /> | [Emerson String Quartet](../../artists/emerson_string_quartet.md) | [🔗](https://open.spotify.com/artist/4IBl8k6ZsBagsI5zRjyXH7) |
-| 12 | <img src="https://i.scdn.co/image/e9a9521ffd11cf06717c699acc48c32ec6ac7d21" alt="" width="50" /> | [Joseph Haydn](../../artists/joseph_haydn.md) | [🔗](https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6) |
-| 12 | <img src="https://i.scdn.co/image/ab67616d0000b273f1e24654c624c58911f179b5" alt="" width="50" /> | [The Amsterdam String Quartet](../../artists/the_amsterdam_string_quartet.md) | [🔗](https://open.spotify.com/artist/0kbgyaL9g2Eba79p2jiYlN) |
-| 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fa9108c6dadb8c3ec21da88" alt="" width="50" /> | [Wolfgang Amadeus Mozart](../../artists/wolfgang_amadeus_mozart.md) | [🔗](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS) |
+| 95 | <img src="https://i.scdn.co/image/db022999443da6f89e250086329d98b17399b346" alt="" width="50" /> | Ludwig van Beethoven | [🔗](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS) |
+| 80 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9c2dcd7eb7f1247a61c6f07" alt="" width="50" /> | Jerusalem Quartet | [🔗](https://open.spotify.com/artist/7AnE8Jpu1vxLeXcs6OKYHE) |
+| 71 | <img src="https://i.scdn.co/image/c43ecd6580e240e4e1df1564de80bf7102727e44" alt="" width="50" /> | Tokyo String Quartet | [🔗](https://open.spotify.com/artist/15G9RnBNBDCFUMANna2CvO) |
+| 29 | <img src="https://i.scdn.co/image/28f745db0a77d0e70db1c0be305f51b3478706aa" alt="" width="50" /> | Dmitri Shostakovich | [🔗](https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA) |
+| 16 | <img src="https://i.scdn.co/image/d5c6af18beb1411ab49c2976647e0d370bf66a88" alt="" width="50" /> | Johannes Brahms | [🔗](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq) |
+| 16 | <img src="https://i.scdn.co/image/ab6761610000e5eb016cb2454e3aa43206ae5425" alt="" width="50" /> | Emerson String Quartet | [🔗](https://open.spotify.com/artist/4IBl8k6ZsBagsI5zRjyXH7) |
+| 12 | <img src="https://i.scdn.co/image/e9a9521ffd11cf06717c699acc48c32ec6ac7d21" alt="" width="50" /> | Joseph Haydn | [🔗](https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6) |
+| 12 | <img src="https://i.scdn.co/image/ab67616d0000b273f1e24654c624c58911f179b5" alt="" width="50" /> | The Amsterdam String Quartet | [🔗](https://open.spotify.com/artist/0kbgyaL9g2Eba79p2jiYlN) |
+| 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fa9108c6dadb8c3ec21da88" alt="" width="50" /> | Wolfgang Amadeus Mozart | [🔗](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS) |
 | 8 | <img src="https://i.scdn.co/image/f1cd0eea7fb3b75bfad16a10af1dc0dd0763efba" alt="" width="50" /> | Antonín Dvořák | [🔗](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF) |
 | 8 | <img src="https://i.scdn.co/image/ab67616d0000b273040c78c4ed7f56a2a3d2a770" alt="" width="50" /> | Veronika Hagen | [🔗](https://open.spotify.com/artist/3ijxXTal6hr7byhqZDdHsP) |
 | 4 | <img src="https://i.scdn.co/image/c957a30bcf3b3dcb7b8e3d0dd467837b5cc705ec" alt="" width="50" /> | Leon Fleisher | [🔗](https://open.spotify.com/artist/6ncNdxBc8zVWMOF7nJ5Pgy) |
-| 4 | <img src="https://i.scdn.co/image/5e1155c852578ddf5d2cfea94ccb3a8a65efa882" alt="" width="50" /> | [Claude Debussy](../../artists/claude_debussy.md) | [🔗](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP) |
+| 4 | <img src="https://i.scdn.co/image/5e1155c852578ddf5d2cfea94ccb3a8a65efa882" alt="" width="50" /> | Claude Debussy | [🔗](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP) |
 | 4 | <img src="https://i.scdn.co/image/0d8f2b3e9ab748e7767fd31ff9386e06e5834e2b" alt="" width="50" /> | Maurice Ravel | [🔗](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY) |
 | 3 | <img src="https://i.scdn.co/image/9db73248b767dd6aa392b73d0b90c7634499616f" alt="" width="50" /> | Gary Hoffman | [🔗](https://open.spotify.com/artist/7qcRbaIYVuOERS3KmB71GH) |
 
@@ -85,18 +85,18 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 179 | [classical](../../genres/classical.md) |
-| 118 | [classical era](../../genres/classical_era.md) |
-| 111 | [german romanticism](../../genres/german_romanticism.md) |
-| 95 | [early romantic era](../../genres/early_romantic_era.md) |
-| 29 | [russian modern classical](../../genres/russian_modern_classical.md) |
+| 179 | classical |
+| 118 | classical era |
+| 111 | german romanticism |
+| 95 | early romantic era |
+| 29 | russian modern classical |
 | 29 | compositional ambient |
-| 24 | [late romantic era](../../genres/late_romantic_era.md) |
-| 8 | [post-romantic era](../../genres/post_romantic_era.md) |
+| 24 | late romantic era |
+| 8 | post-romantic era |
 | 8 | impressionism |
 | 8 | czech classical |
-| 4 | [neoclassicism](../../genres/neoclassicism.md) |
-| 4 | [early modern classical](../../genres/early_modern_classical.md) |
+| 4 | neoclassicism |
+| 4 | early modern classical |
 
 </details>
 

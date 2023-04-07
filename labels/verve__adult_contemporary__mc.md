@@ -60,7 +60,7 @@ Appears as:
 | 9 | [hollywood](../genres/hollywood.md) |
 | 5 | west end |
 | 4 | [broadway](../genres/broadway.md) |
-| 2 | [movie tunes](../genres/movie_tunes.md) |
+| 2 | movie tunes |
 
 </details>
 

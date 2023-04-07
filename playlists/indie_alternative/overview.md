@@ -366,7 +366,9 @@
 | 3 | scottish singer-songwriter |
 | 3 | indietronica |
 | 3 | comic |
+| 3 | [acoustic pop](../../genres/acoustic_pop.md) |
 | 2 | washington indie |
+| 2 | viral pop |
 | 2 | uk pop |
 | 2 | shiver pop |
 | 2 | pop punk |
@@ -380,7 +382,6 @@
 | 2 | canadian indie |
 | 2 | alternative metal |
 | 1 | visual kei |
-| 1 | viral pop |
 | 1 | uk contemporary r&b |
 | 1 | swedish synthpop |
 | 1 | swedish pop |
@@ -414,7 +415,6 @@
 | 1 | electronic rock |
 | 1 | dutch pop |
 | 1 | downtempo |
-| 1 | danish pop |
 
 </details>
 

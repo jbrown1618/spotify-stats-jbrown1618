@@ -17,13 +17,13 @@
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
-| 166 | <img src="https://i.scdn.co/image/db022999443da6f89e250086329d98b17399b346" alt="" width="50" /> | [Ludwig van Beethoven](../../artists/ludwig_van_beethoven.md) | [🔗](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS) |
-| 103 | <img src="https://i.scdn.co/image/ab6761610000e5eba5a4a932f73faefc19b4e24f" alt="" width="50" /> | [Vladimir Ashkenazy](../../artists/vladimir_ashkenazy.md) | [🔗](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) |
-| 42 | <img src="https://i.scdn.co/image/ab6761610000e5eb92e0a1e423bd8590dcd43bda" alt="" width="50" /> | [Berliner Philharmoniker](../../artists/berliner_philharmoniker.md) | [🔗](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z) |
-| 42 | <img src="https://i.scdn.co/image/ab6761610000e5ebf67fde1740e91a88445d5bdd" alt="" width="50" /> | [Herbert von Karajan](../../artists/herbert_von_karajan.md) | [🔗](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) |
-| 21 | <img src="https://i.scdn.co/image/da227efdc2e4be12443dcb5fa1ceb257fd1baf6a" alt="" width="50" /> | [Mari Kodama](../../artists/mari_kodama.md) | [🔗](https://open.spotify.com/artist/0s0wG03kPyu7MXERfcuxim) |
+| 166 | <img src="https://i.scdn.co/image/db022999443da6f89e250086329d98b17399b346" alt="" width="50" /> | Ludwig van Beethoven | [🔗](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS) |
+| 103 | <img src="https://i.scdn.co/image/ab6761610000e5eba5a4a932f73faefc19b4e24f" alt="" width="50" /> | Vladimir Ashkenazy | [🔗](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) |
+| 42 | <img src="https://i.scdn.co/image/ab6761610000e5eb92e0a1e423bd8590dcd43bda" alt="" width="50" /> | Berliner Philharmoniker | [🔗](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z) |
+| 42 | <img src="https://i.scdn.co/image/ab6761610000e5ebf67fde1740e91a88445d5bdd" alt="" width="50" /> | Herbert von Karajan | [🔗](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) |
+| 21 | <img src="https://i.scdn.co/image/da227efdc2e4be12443dcb5fa1ceb257fd1baf6a" alt="" width="50" /> | Mari Kodama | [🔗](https://open.spotify.com/artist/0s0wG03kPyu7MXERfcuxim) |
 | 1 | <img src="https://i.scdn.co/image/7edeefee1e00dc240f153b601cf735baba09a17a" alt="" width="50" /> | José van Dam | [🔗](https://open.spotify.com/artist/5qNUHMEhszyeXNYMn4sswd) |
-| 1 | <img src="https://i.scdn.co/image/e403106a45cbd0e2ca51e4d1b18b9a587f9177be" alt="" width="50" /> | [Wiener Singverein](../../artists/wiener_singverein.md) | [🔗](https://open.spotify.com/artist/35QSympF887CO8h5eZHme2) |
+| 1 | <img src="https://i.scdn.co/image/e403106a45cbd0e2ca51e4d1b18b9a587f9177be" alt="" width="50" /> | Wiener Singverein | [🔗](https://open.spotify.com/artist/35QSympF887CO8h5eZHme2) |
 | 1 | <img src="https://i.scdn.co/image/a97382fc1e98c5a755daf70d7a9355f673811707" alt="" width="50" /> | Vinson Cole | [🔗](https://open.spotify.com/artist/2j6cP3f3TxyHzcKdWYSm6h) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27322070c61a7616392f04f070f" alt="" width="50" /> | Agnes Baltsa | [🔗](https://open.spotify.com/artist/2amF56vDuTTbZJQsqUgbuC) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27322070c61a7616392f04f070f" alt="" width="50" /> | Janet Perry | [🔗](https://open.spotify.com/artist/1bV3KjOPs1AI3OolJiYogN) |
@@ -78,10 +78,10 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 166 | [german romanticism](../../genres/german_romanticism.md) |
-| 166 | [early romantic era](../../genres/early_romantic_era.md) |
-| 166 | [classical era](../../genres/classical_era.md) |
-| 166 | [classical](../../genres/classical.md) |
+| 166 | german romanticism |
+| 166 | early romantic era |
+| 166 | classical era |
+| 166 | classical |
 
 </details>
 

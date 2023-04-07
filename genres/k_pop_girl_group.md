@@ -1,6 +1,6 @@
 # k-pop girl group
 
-[409 songs](k_pop_girl_group_tracks.md)
+[411 songs](k_pop_girl_group_tracks.md)
 
 ## Top Artists
 
@@ -26,9 +26,9 @@
 | 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f44c5165785a877bd4ae376" alt="" width="50" /> | [STAYC](../artists/stayc.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5eb04c88d140b3db4fa42ef84f2" alt="" width="50" /> | NMIXX | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | CLC | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
+| 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb6199c3c2f414880e2b9077a9" alt="" width="50" /> | NewJeans | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="" width="50" /> | EVERGLOW | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8786ccb6031a3266bb15606" alt="" width="50" /> | WJSN | [🔗](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) |
-| 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb6199c3c2f414880e2b9077a9" alt="" width="50" /> | NewJeans | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb80584436e5726afb70cee7f8" alt="" width="50" /> | LOONA | [🔗](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb9954a1ab45b2404a7bff2a45" alt="" width="50" /> | OH MY GIRL | [🔗](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb271110d977700b69d9548993" alt="" width="50" /> | EXID | [🔗](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) |
@@ -43,13 +43,13 @@
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eba6b0d348c125a072e5284b3e" alt="" width="50" /> | IZ*ONE | [🔗](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0cc2045ff4e90d12df91cc3" alt="" width="50" /> | f(x) | [🔗](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb30a517d1b703c3eabdac2855" alt="" width="50" /> | Wonder Girls | [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) |
+| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb5d7e6f087811f89d7c8f0706" alt="" width="50" /> | Apink | [🔗](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebb61d3f392c4b11e9e54280a9" alt="" width="50" /> | Madison Beer | [🔗](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb20e1b84fe2767e52c4c828fd" alt="" width="50" /> | 2NE1 | [🔗](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebd0701912e6fccf8427bc7361" alt="" width="50" /> | GFRIEND | [🔗](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) |
 | 2 | <img src="https://i.scdn.co/image/621c729dd90a6e7a63fc8f0957b2b928834ec5a8" alt="" width="50" /> | 4Minute | [🔗](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eba3e483bda08002c2c7bfa7ef" alt="" width="50" /> | WJSN Chocome | [🔗](https://open.spotify.com/artist/5VyqN5hNo0TbYF0ICU77nn) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7415221d0cb40f21f8e4c5f4" alt="" width="50" /> | Cherry Bullet | [🔗](https://open.spotify.com/artist/3IJCdgkBZbieocLZ4e94GZ) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5d7e6f087811f89d7c8f0706" alt="" width="50" /> | Apink | [🔗](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b93ad49bde5a3655aef95cd" alt="" width="50" /> | miss A | [🔗](https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebb00e3506ebd41e147f26a6d5" alt="" width="50" /> | Jaira Burns | [🔗](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27373d59cc449e4592026c3997a" alt="" width="50" /> | Brave Girls | [🔗](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) |
@@ -178,6 +178,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273c7d075ac409f015413350f6d" alt="" width="50" /> | [Apocalypse : Follow us] | 2022-10-11 | [🔗](https://open.spotify.com/album/7MQXcfzHmWjQAAIFhdy1mY) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273608cf05fbd3605c77444917f" alt="" width="50" /> | [&] | 2021-06-28 | [🔗](https://open.spotify.com/album/747FhjbZXy5H8frCZ90eDv) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273c985aeaeccb1db38dddf2986" alt="" width="50" /> | [#] | 2020-02-05 | [🔗](https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732e31a8a740f621473d21dc75" alt="" width="50" /> | Zero | 2023-04-03 | [🔗](https://open.spotify.com/album/2zYcjcNUzcgMntymoukwZR) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27352db41e897d3a8dc72929208" alt="" width="50" /> | Yummy Yummy Love | 2022-01-14 | [🔗](https://open.spotify.com/album/2r35RHvEtBjgKiONdItRR5) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736847aa7310791dcd66f16a5e" alt="" width="50" /> | Yellow Flower | 2018-03-07 | [🔗](https://open.spotify.com/album/4G9qMxS9c4W5PPNdPrTaLn) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273140ba24506e300382e08e6ec" alt="" width="50" /> | YES or YES | 2018-11-05 | [🔗](https://open.spotify.com/album/25VunQEW0x2W6ALND2Mh4g) |
@@ -189,7 +190,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ae843591bcdace9489c86fb0" alt="" width="50" /> | WAW | 2021-06-02 | [🔗](https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273520ea0d948ced66d1c1764e2" alt="" width="50" /> | WANNA BE MYSELF | 2020-09-10 | [🔗](https://open.spotify.com/album/0n62copUsWrST9M6AsYfZI) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273aecb87fd2574ad79b05cc024" alt="" width="50" /> | Voltage | 2022-03-23 | [🔗](https://open.spotify.com/album/3MXVqfk9VG3B757nLlow0D) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6" alt="" width="50" /> | Uh-Oh | 2019-06-26 | [🔗](https://open.spotify.com/album/3PzrNuMGWGpp8WOfrmpkaU) |
 
 </details>
 
@@ -218,9 +218,9 @@
 | 12 | [RBW Inc.](../labels/rbw_inc_.md) |
 | 10 | [DREAMCATCHER COMPANY](../labels/dreamcatcher_company.md) |
 | 7 | [WM Entertainment](../labels/wm_entertainment.md) |
+| 7 | ADOR |
 | 6 | [Warner Records](../labels/warner_records.md) |
 | 6 | [FNC ENTERTAINMENT](../labels/fnc_entertainment.md) |
-| 6 | ADOR |
 | 5 | Riot Games |
 | 4 | avex trax |
 | 4 | WM Japan |
@@ -237,6 +237,7 @@
 | 2 | SWING ENTERTAINMENT |
 | 2 | OFF THE RECORD Entertainment |
 | 2 | [Kakao Entertainment](../labels/kakao_entertainment.md) |
+| 2 | IST ENTERTAINMENT |
 | 2 | ALLART ENTERTAINMENT |
 | 1 | 해피페이스 엔터테인먼트 |
 | 1 | 폴라리스엔터테인먼트 |
@@ -252,7 +253,6 @@
 | 1 | PLAY M ENTERTAINMENT CORP. |
 | 1 | Mydoll Ent. |
 | 1 | Kakao M Corp. |
-| 1 | IST ENTERTAINMENT |
 | 1 | IOK COMPANY |
 | 1 | HAPPYTRIBE ENTERTAINMENT |
 | 1 | GU Music |

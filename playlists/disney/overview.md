@@ -17,7 +17,7 @@
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
-| 19 | <img src="https://i.scdn.co/image/ab6761610000e5ebc698d53b77db34027b00f853" alt="" width="50" /> | [Disney](../../artists/disney.md) | [🔗](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) |
+| 19 | <img src="https://i.scdn.co/image/ab6761610000e5ebc698d53b77db34027b00f853" alt="" width="50" /> | Disney | [🔗](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) |
 | 5 | <img src="https://i.scdn.co/image/191d9c926a51e6d0abc49b7416689b52a2662efc" alt="" width="50" /> | Lea Salonga | [🔗](https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb408a975888e8eeea2aa8e604" alt="" width="50" /> | Idina Menzel | [🔗](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b27314dd049936f9d42787c8128d" alt="" width="50" /> | Tony Jay | [🔗](https://open.spotify.com/artist/5qQpn0ZokyamZjyKtkKUYD) |
@@ -155,7 +155,7 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 40 | [movie tunes](../../genres/movie_tunes.md) |
+| 40 | movie tunes |
 | 22 | [hollywood](../../genres/hollywood.md) |
 | 14 | [show tunes](../../genres/show_tunes.md) |
 | 5 | tagalog worship |
@@ -175,9 +175,9 @@
 | 1 | jazz blues |
 | 1 | funk |
 | 1 | [folk rock](../../genres/folk_rock.md) |
+| 1 | electric blues |
 | 1 | country rock |
 | 1 | classic uk pop |
-| 1 | [classic rock](../../genres/classic_rock.md) |
 | 1 | bubblegum pop |
 | 1 | [broadway](../../genres/broadway.md) |
 | 1 | blues rock |

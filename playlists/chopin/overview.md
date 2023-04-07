@@ -17,11 +17,11 @@
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
-| 157 | <img src="https://i.scdn.co/image/ab6761610000e5ebe55372097569b7b56b439365" alt="" width="50" /> | [Frédéric Chopin](../../artists/fr_d_ric_chopin.md) | [🔗](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4) |
-| 102 | <img src="https://i.scdn.co/image/ab6761610000e5eba5a4a932f73faefc19b4e24f" alt="" width="50" /> | [Vladimir Ashkenazy](../../artists/vladimir_ashkenazy.md) | [🔗](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) |
-| 31 | <img src="https://i.scdn.co/image/ab6761610000e5eb66cd5da57e71a33da20de712" alt="" width="50" /> | [Martha Argerich](../../artists/martha_argerich.md) | [🔗](https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4) |
-| 19 | <img src="https://i.scdn.co/image/b569f4420a0c5257c26c745a8928cac516dd4144" alt="" width="50" /> | [Maurizio Pollini](../../artists/maurizio_pollini.md) | [🔗](https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh) |
-| 15 | <img src="https://i.scdn.co/image/ab67616d0000b27308fa17be7bd6194f38778767" alt="" width="50" /> | [Peter Schmalfuss](../../artists/peter_schmalfuss.md) | [🔗](https://open.spotify.com/artist/7mOe6jfxX9EILXET9l5L6H) |
+| 157 | <img src="https://i.scdn.co/image/ab6761610000e5ebe55372097569b7b56b439365" alt="" width="50" /> | Frédéric Chopin | [🔗](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4) |
+| 102 | <img src="https://i.scdn.co/image/ab6761610000e5eba5a4a932f73faefc19b4e24f" alt="" width="50" /> | Vladimir Ashkenazy | [🔗](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) |
+| 31 | <img src="https://i.scdn.co/image/ab6761610000e5eb66cd5da57e71a33da20de712" alt="" width="50" /> | Martha Argerich | [🔗](https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4) |
+| 19 | <img src="https://i.scdn.co/image/b569f4420a0c5257c26c745a8928cac516dd4144" alt="" width="50" /> | Maurizio Pollini | [🔗](https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh) |
+| 15 | <img src="https://i.scdn.co/image/ab67616d0000b27308fa17be7bd6194f38778767" alt="" width="50" /> | Peter Schmalfuss | [🔗](https://open.spotify.com/artist/7mOe6jfxX9EILXET9l5L6H) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb501fa094147c4871549cdebd" alt="" width="50" /> | Krystian Zimerman | [🔗](https://open.spotify.com/artist/43wuPaPcZVMJQWLRaPR4Yz) |
 | 1 | <img src="https://i.scdn.co/image/927126b3dc00e687514c0f9b2e37b1e4acd4ab9c" alt="" width="50" /> | Nikolai Lugansky | [🔗](https://open.spotify.com/artist/2bMfnyPOgNaeK8WNnXNXud) |
 
@@ -80,9 +80,9 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 157 | [polish classical](../../genres/polish_classical.md) |
-| 157 | [early romantic era](../../genres/early_romantic_era.md) |
-| 157 | [classical](../../genres/classical.md) |
+| 157 | polish classical |
+| 157 | early romantic era |
+| 157 | classical |
 | 15 | german classical piano |
 
 </details>

@@ -1,6 +1,6 @@
 # Liked Songs
 
-[1492 songs](tracks.md)
+[1493 songs](tracks.md)
 
 ## Top Artists
 
@@ -20,8 +20,8 @@
 | 32 | <img src="https://i.scdn.co/image/ab6761610000e5eb8944c8aec8db82f35980b191" alt="" width="50" /> | [TWICE](../../artists/twice.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | 25 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../../artists/blackpink.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 | 25 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../../artists/bts.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
+| 25 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | [IU](../../artists/iu.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | 25 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
-| 24 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | [IU](../../artists/iu.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | 23 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../../artists/itzy.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 | 22 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" alt="" width="50" /> | [The Beatles](../../artists/the_beatles.md) | [🔗](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) |
 | 22 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../../artists/_g_i_dle.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
@@ -42,10 +42,10 @@
 | 12 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f44c5165785a877bd4ae376" alt="" width="50" /> | [STAYC](../../artists/stayc.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 | 11 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="" width="50" /> | [SEVENTEEN](../../artists/seventeen.md) | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
 | 11 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
+| 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="" width="50" /> | [Dreamcatcher](../../artists/dreamcatcher.md) | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 | 11 | <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | [Queen](../../artists/queen.md) | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
 | 11 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | [Girls' Generation](../../artists/girls__generation.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | 10 | <img src="https://i.scdn.co/image/ab6761610000e5eb4765d540a1ebedeb7c9637a2" alt="" width="50" /> | [Kimbra](../../artists/kimbra.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
-| 10 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="" width="50" /> | [Dreamcatcher](../../artists/dreamcatcher.md) | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 | 10 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../../artists/bruno_mars.md) | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
 | 10 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | [Lana Del Rey](../../artists/lana_del_rey.md) | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | [Beyoncé](../../artists/beyonc_.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
@@ -87,7 +87,7 @@
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | CLC | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410" alt="" width="50" /> | Clean Bandit | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb6199c3c2f414880e2b9077a9" alt="" width="50" /> | NewJeans | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
-| 5 | <img src="https://i.scdn.co/image/ab6761610000e5eba109aeabdab7a5a5b3330df4" alt="" width="50" /> | HEIZE | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
+| 5 | <img src="https://i.scdn.co/image/ab6761610000e5ebb55c3a580a05d6a61bd678ca" alt="" width="50" /> | HEIZE | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d4b74165ecfadcacf0771ae" alt="" width="50" /> | MOMOLAND | [🔗](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb80584436e5726afb70cee7f8" alt="" width="50" /> | LOONA | [🔗](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | Coldplay | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
@@ -184,6 +184,7 @@
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="" width="50" /> | GUESS WHO | 2021-04-30 | [🔗](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | CRAZY IN LOVE | 2021-09-24 | [🔗](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | CHECKMATE | 2022-07-15 | [🔗](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) |
+| 4 | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="" width="50" /> | 1st Album [Dystopia : The Tree of Language] | 2020-02-18 | [🔗](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | 1000 Forms Of Fear (Deluxe Version) | 2015-05-04 | [🔗](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="" width="50" /> | ‘The ReVe Festival’ Day 1 | 2019-06-19 | [🔗](https://open.spotify.com/album/2nLEiP268mSFZHW5dajM4R) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b27337392cac38ca8efa2315b04e" alt="" width="50" /> | the collective soul and unconscious: chapter one | 2022-02-23 | [🔗](https://open.spotify.com/album/4ophrgcnwWi1I5nWYImyhw) |
@@ -216,6 +217,7 @@
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="" width="50" /> | MAGIC MAN | 2022-09-09 | [🔗](https://open.spotify.com/album/2VZ4og2ZbwyTQ3X1rbgCe1) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273fd0d9a33127c1d3f58ba3504" alt="" width="50" /> | MADE | 2016-12-13 | [🔗](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2734280a158a96c9b0274eb7e99" alt="" width="50" /> | Love, Save The Empty | 2009 | [🔗](https://open.spotify.com/album/1tF7625TFqvfzMbappj1pQ) |
+| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | Love poem | 2019-11-18 | [🔗](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | Love Yourself 轉 'Tear' | 2018-05-18 | [🔗](https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9a3105ad4ffb91ad2e2798" alt="" width="50" /> | Life in Cartoon Motion | 2007-02-05 | [🔗](https://open.spotify.com/album/4wKkXYJXQWDa9sndBSx0gI) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="" width="50" /> | Jack In The Box | 2022-07-15 | [🔗](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) |
@@ -226,8 +228,6 @@
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555" alt="" width="50" /> | FEARLESS | 2022-05-02 | [🔗](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="" width="50" /> | Ellipse | 2009-08-25 | [🔗](https://open.spotify.com/album/5AYKGPzPBJNHeKehCxMaq0) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273b33d46dfa2635a47eebf63b2" alt="" width="50" /> | Discovery | 2001-03-12 | [🔗](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="" width="50" /> | Dangerous Woman | 2016-05-20 | [🔗](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | D-2 | 2020-05-22 | [🔗](https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O) |
 
 </details>
 
@@ -267,9 +267,9 @@
 | 16 | [Universal-Island Records Ltd.](../../labels/universal_island_records_ltd_.md) |
 | 14 | [Starship Entertainment](../../labels/starship_entertainment.md) |
 | 14 | [Rhino](../../labels/rhino.md) |
-| 14 | [PLEDIS Entertainment](../../labels/pledis_entertainment.md) |
+| 14 | [Kakao Entertainment](../../labels/kakao_entertainment.md) |
 | 13 | [The Tarpeggios](../../labels/the_tarpeggios.md) |
-| 13 | [Kakao Entertainment](../../labels/kakao_entertainment.md) |
+| 13 | [PLEDIS Entertainment](../../labels/pledis_entertainment.md) |
 | 13 | [Def Jam Recordings](../../labels/def_jam_recordings.md) |
 | 13 | [Capitol Records](../../labels/capitol_records.md) |
 | 12 | [MYSTIC STORY](../../labels/mystic_story.md) |
@@ -285,10 +285,10 @@
 | 8 | Monkey Puzzle Records |
 | 8 | MNH ENTERTAINMENT |
 | 8 | [FNC ENTERTAINMENT](../../labels/fnc_entertainment.md) |
+| 8 | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company.md) |
 | 8 | 88rising Music |
 | 7 | [MOTOWN](../../labels/motown.md) |
 | 7 | [HYBE](../../labels/hybe.md) |
-| 7 | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company.md) |
 | 7 | Cooking Vinyl Limited |
 | 6 | [Virgin Records](../../labels/virgin_records.md) |
 | 6 | UNI |
@@ -356,16 +356,16 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 656 | [k-pop](../../genres/k_pop.md) |
+| 657 | [k-pop](../../genres/k_pop.md) |
 | 371 | [pop](../../genres/pop.md) |
-| 299 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
+| 300 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 165 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
 | 163 | [dance pop](../../genres/dance_pop.md) |
 | 105 | [rock](../../genres/rock.md) |
 | 78 | [classic rock](../../genres/classic_rock.md) |
 | 59 | [neo mellow](../../genres/neo_mellow.md) |
 | 59 | [lilith](../../genres/lilith.md) |
-| 55 | [acoustic pop](../../genres/acoustic_pop.md) |
+| 56 | [acoustic pop](../../genres/acoustic_pop.md) |
 | 54 | [pop rock](../../genres/pop_rock.md) |
 | 43 | [hollywood](../../genres/hollywood.md) |
 | 42 | [mellow gold](../../genres/mellow_gold.md) |
@@ -378,12 +378,12 @@
 | 31 | korean r&b |
 | 30 | british invasion |
 | 28 | psychedelic rock |
-| 27 | [r&b](../../genres/r_b.md) |
 | 25 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 25 | piano rock |
 | 24 | permanent wave |
 | 23 | beatlesque |
 | 23 | art rock |
+| 22 | [r&b](../../genres/r_b.md) |
 | 22 | merseybeat |
 | 20 | urban contemporary |
 | 20 | pop rap |
@@ -415,11 +415,11 @@
 | 12 | atl hip hop |
 | 11 | indie rock |
 | 11 | edm |
+| 9 | viral pop |
 | 9 | tropical house |
 | 9 | lounge |
 | 9 | escape room |
 | 9 | bergen indie |
-| 8 | viral pop |
 | 8 | pop dance |
 | 8 | latin pop |
 | 8 | j-pop |
@@ -454,8 +454,8 @@
 | 5 | indietronica |
 | 5 | indie poptimism |
 | 5 | girl group |
-| 5 | country rock |
 | 5 | anti-folk |
+| 5 | afrofuturism |
 
 </details>
 
@@ -472,9 +472,9 @@
 |:---|---:|
 | [2023](2023.md) | 47 |
 | [2022](2022.md) | 238 |
-| [2021](2021.md) | 184 |
-| [2020](2020.md) | 133 |
-| [2019](2019.md) | 116 |
+| [2021](2021.md) | 183 |
+| [2020](2020.md) | 134 |
+| [2019](2019.md) | 117 |
 | [2018](2018.md) | 80 |
 | [2017](2017.md) | 71 |
 | [2016](2016.md) | 78 |
@@ -539,10 +539,10 @@
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="the Billage of perception: chapter three" width="50" /> <span style="padding-left:10px;">the Billage of perception: chapter three (2023-03-28)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> <span style="padding-left:10px;">Days Of Wine And Roses, Moon River And Other Academy Award Winners (1964)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d" alt="FACE" width="50" /> <span style="padding-left:10px;">FACE (2023-03-24)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2735b50e493598153b926ded824" alt="Mary Wells Sings My Guy" width="50" /> <span style="padding-left:10px;">Mary Wells Sings My Guy (1964)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f770ff371eb7015034122c8a" alt="1st Single 'S.i.R'" width="50" /> <span style="padding-left:10px;">1st Single 'S.i.R' (2023-03-21)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd" alt="A Hard Day's Night (Remastered)" width="50" /> <span style="padding-left:10px;">A Hard Day's Night (Remastered) (1964-07-10)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273bbead884cd91c2a9b5b2a9fc" alt="expérgo" width="50" /> <span style="padding-left:10px;">expérgo (2023-03-20)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="Wednesday Morning, 3 A.M." width="50" /> <span style="padding-left:10px;">Wednesday Morning, 3 A.M. (1964-10-19)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273bb9ff6f34a355d6ce77ff6a4" alt="Flowers (Cover)" width="50" /> <span style="padding-left:10px;">Flowers (Cover) (2023-03-20)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> <span style="padding-left:10px;">The Temptations Sing Smokey (1965-03-22)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273bb9ff6f34a355d6ce77ff6a4" alt="Flowers (Cover)" width="50" /> <span style="padding-left:10px;">Flowers (Cover) (2023-03-20)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="Wednesday Morning, 3 A.M." width="50" /> <span style="padding-left:10px;">Wednesday Morning, 3 A.M. (1964-10-19)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273bbead884cd91c2a9b5b2a9fc" alt="expérgo" width="50" /> <span style="padding-left:10px;">expérgo (2023-03-20)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> <span style="padding-left:10px;">The Temptations Sing Smokey (1965-03-22)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ca0bf7a337ed7a8bcc34948e" alt="Rover - The 3rd Mini Album" width="50" /> <span style="padding-left:10px;">Rover - The 3rd Mini Album (2023-03-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="Out Of Our Heads" width="50" /> <span style="padding-left:10px;">Out Of Our Heads (1965-07-30)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> <span style="padding-left:10px;">CHOSEN KARMA (2023-03-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> <span style="padding-left:10px;">Help! (Remastered) (1965-08-06)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="READY TO BE" width="50" /> <span style="padding-left:10px;">READY TO BE (2023-03-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> <span style="padding-left:10px;">Help! (Remastered) (1965-08-06)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |

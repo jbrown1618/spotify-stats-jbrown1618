@@ -18,18 +18,18 @@
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
 | 36 | <img src="https://i.scdn.co/image/ab6761610000e5eb1723d33e6837b553b2e512c1" alt="" width="50" /> | [Pentatonix](../../artists/pentatonix.md) | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
-| 32 | <img src="https://i.scdn.co/image/ab6761610000e5eb5c2b393e7d8a0a1bdb64b231" alt="" width="50" /> | [Peter Hollens](../../artists/peter_hollens.md) | [🔗](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) |
+| 32 | <img src="https://i.scdn.co/image/ab6761610000e5eb5c2b393e7d8a0a1bdb64b231" alt="" width="50" /> | Peter Hollens | [🔗](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) |
 | 25 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b2621bf3c5f2197ee957582" alt="" width="50" /> | [The Tarpeggios](../../artists/the_tarpeggios.md) | [🔗](https://open.spotify.com/artist/2HXd5pFHJyaQJr5aXfErrE) |
-| 20 | <img src="https://i.scdn.co/image/ab6761610000e5eb3a9c5b798300322d4bc698f0" alt="" width="50" /> | [Tar Heel Voices](../../artists/tar_heel_voices.md) | [🔗](https://open.spotify.com/artist/1apO6pJsV1nwuF2K8sEsDo) |
-| 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebd7125855c1ecfb7680363db7" alt="" width="50" /> | [Ithacappella](../../artists/ithacappella.md) | [🔗](https://open.spotify.com/artist/5bPTIGQvxRNjr6wl9yyAct) |
-| 12 | <img src="https://i.scdn.co/image/ab6761610000e5ebc63e900506fdff4b6177f920" alt="" width="50" /> | [The Swingle Singers](../../artists/the_swingle_singers.md) | [🔗](https://open.spotify.com/artist/1ZlFYysRdc6YaUH5FkxPl8) |
+| 20 | <img src="https://i.scdn.co/image/ab6761610000e5eb3a9c5b798300322d4bc698f0" alt="" width="50" /> | Tar Heel Voices | [🔗](https://open.spotify.com/artist/1apO6pJsV1nwuF2K8sEsDo) |
+| 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebd7125855c1ecfb7680363db7" alt="" width="50" /> | Ithacappella | [🔗](https://open.spotify.com/artist/5bPTIGQvxRNjr6wl9yyAct) |
+| 12 | <img src="https://i.scdn.co/image/ab6761610000e5ebc63e900506fdff4b6177f920" alt="" width="50" /> | The Swingle Singers | [🔗](https://open.spotify.com/artist/1ZlFYysRdc6YaUH5FkxPl8) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5eb8cb389217e22c8ecb1846122" alt="" width="50" /> | Vanderbilt Melodores | [🔗](https://open.spotify.com/artist/7HkF8fT7TZlrQsjSgWUEXN) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5eb0ff2431dd95126c10fdd23f6" alt="" width="50" /> | GQ | [🔗](https://open.spotify.com/artist/6JYedwPn7zEWlTSUda9mev) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5eb68021119cbab353e2278d4a3" alt="" width="50" /> | The Loreleis | [🔗](https://open.spotify.com/artist/1fqMjreaczGwFmdmG6AvJs) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5eb8c4a9d4a5f8004ad4d0195aa" alt="" width="50" /> | The Nor'easters | [🔗](https://open.spotify.com/artist/1aLfVgwt8eBrpvHcutWmqe) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5eb28d2d9a97a89d4721c2917b2" alt="" width="50" /> | UNC Achordants | [🔗](https://open.spotify.com/artist/1TzZMeOCs4TMYtzgohPMAr) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5ebca516d559d106ed3854fc71b" alt="" width="50" /> | Mosaic Whispers | [🔗](https://open.spotify.com/artist/0fP33MCfVUaPivyFYLZtoh) |
-| 8 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4536d632bb182e3f82baaaf" alt="" width="50" /> | [The King's Singers](../../artists/the_king_s_singers.md) | [🔗](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) |
+| 8 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4536d632bb182e3f82baaaf" alt="" width="50" /> | The King's Singers | [🔗](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) |
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb78999d4b6fb0847081e2f479" alt="" width="50" /> | SoCal VoCals | [🔗](https://open.spotify.com/artist/5L30XpwHG77eWCZtelTns9) |
 | 7 | <img src="https://i.scdn.co/image/ab67616d0000b273293ebd0a06cf2784113d4156" alt="" width="50" /> | Vocal Spectrum | [🔗](https://open.spotify.com/artist/20nWuvMfCct9xv73hRYO7O) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb616fc063b23c40fc8a91d885" alt="" width="50" /> | Pitch Slapped | [🔗](https://open.spotify.com/artist/7EH7jldX62OIsU1yU1SWE7) |
@@ -75,7 +75,7 @@
 | 1 | <img src="nan" alt="" width="50" /> | Kat Dunbar Linker | [🔗](https://open.spotify.com/artist/512QZ1TM6L4uXmWCVOKHtV) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebee310fa1ea1733fd31d9866c" alt="" width="50" /> | Tink | [🔗](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739a9a592561eabf00f0a8ee4d" alt="" width="50" /> | Varsity Vocals | [🔗](https://open.spotify.com/artist/4bQp9Lm7LgRMLtqEsH3Bqf) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a6fd8ebc62d68a372d51516" alt="" width="50" /> | [Andrew Lloyd Webber](../../artists/andrew_lloyd_webber.md) | [🔗](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a6fd8ebc62d68a372d51516" alt="" width="50" /> | Andrew Lloyd Webber | [🔗](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb847c22c5a7d4683b66759a9e" alt="" width="50" /> | The Harvard-Radcliffe Veritones | [🔗](https://open.spotify.com/artist/4Zjdnr698SzQDAPMx4oxy0) |
 | 1 | <img src="https://i.scdn.co/image/a832eaa4d4ff006a419610c2c5d37140efa00225" alt="" width="50" /> | Brian Wilson | [🔗](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27355cb82b820bf54a6ed13a080" alt="" width="50" /> | Brandeis VoiceMale | [🔗](https://open.spotify.com/artist/4DsnXPBijq5tMq5zAEfF1L) |
@@ -294,7 +294,7 @@
 | Number of Tracks | Genre |
 |---:|:---|
 | 192 | [a cappella](../../genres/a_cappella.md) |
-| 119 | [college a cappella](../../genres/college_a_cappella.md) |
+| 119 | college a cappella |
 | 32 | fantasy |
 | 11 | french jazz |
 | 8 | lds youth |
@@ -323,8 +323,8 @@
 | 1 | permanent wave |
 | 1 | franco-flemish school |
 | 1 | folk |
-| 1 | [early music](../../genres/early_music.md) |
-| 1 | [classical](../../genres/classical.md) |
+| 1 | early music |
+| 1 | classical |
 | 1 | [broadway](../../genres/broadway.md) |
 | 1 | baroque pop |
 

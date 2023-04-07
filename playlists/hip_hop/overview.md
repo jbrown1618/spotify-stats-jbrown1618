@@ -3,17 +3,17 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2730b1cfc3df4d9d5d4cbce9208ab67616d0000b27310356a0e81371e6644cb1371ab67616d0000b273908280d9807127e185b71d56ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="Hip Hop" width="100" />
 
-[25 songs](tracks.md)
+[26 songs](tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 24 artists](../../images/playlists/hip_hop/artists.png)
+![Bar chart of top 25 artists](../../images/playlists/hip_hop/artists.png)
 
 ![Comparison of Artist](../../images/playlists/hip_hop/artists_comparison.png)
 
 
 <details>
-<summary>See all 24 artists</summary>
+<summary>See all 25 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -22,6 +22,7 @@
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb867008a971fae0f4d913f63a" alt="" width="50" /> | Kanye West | [🔗](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebadd503b411a712e277895c8a" alt="" width="50" /> | J. Cole | [🔗](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | [Rihanna](../../artists/rihanna.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
+| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | Kendrick Lamar | [🔗](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | Nicki Minaj | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7eb7f6371aad8e67e01f0a03" alt="" width="50" /> | SZA | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd66f1e0c883f319443d68c45" alt="" width="50" /> | Lil Nas X | [🔗](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) |
@@ -34,11 +35,11 @@
 | 1 | <img src="https://i.scdn.co/image/8a522c7faa13cf4321ca6bea075fd97f75f40cfe" alt="" width="50" /> | Ying Yang Twins | [🔗](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) |
 | 1 | <img src="https://i.scdn.co/image/aafc4156598fa9f8f052ec5687e648ba9120f07e" alt="" width="50" /> | Lil Jon & The East Side Boyz | [🔗](https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x) |
 | 1 | <img src="https://i.scdn.co/image/07b5316f828fe20d0efe0029797157f394ae7640" alt="" width="50" /> | Sir Mix-A-Lot | [🔗](https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | Kendrick Lamar | [🔗](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
 | 1 | <img src="https://i.scdn.co/image/184674b36baa9cc7f0048502e78ce615a35ba08f" alt="" width="50" /> | Diddy - Dirty Money | [🔗](https://open.spotify.com/artist/2QYEvpsWUOjqaYuxDPTCmV) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebed3a04c76cbc92b97f59c3c0" alt="" width="50" /> | Jack Harlow | [🔗](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebabab30b094128cf4c0f2cef1" alt="" width="50" /> | Black Eyed Peas | [🔗](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bebfdee4c4cfea3473a51ab" alt="" width="50" /> | Megan Thee Stallion | [🔗](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf556662d187b9191c421be1c" alt="" width="50" /> | 2 Chainz | [🔗](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb858ab48103cfe3c042bc1515" alt="" width="50" /> | Roscoe Dash | [🔗](https://open.spotify.com/artist/0bfX8pF8kuHNCs57Ms4jZb) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | j-hope | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
 
@@ -47,11 +48,11 @@
 
 ## Top Albums
 
-![Bar chart of top 25 albums](../../images/playlists/hip_hop/albums.png)
+![Bar chart of top 26 albums](../../images/playlists/hip_hop/albums.png)
 
 
 <details>
-<summary>See all 25 albums</summary>
+<summary>See all 26 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -64,6 +65,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27331aafa752187cb0284307200" alt="" width="50" /> | SHADYXV | 2014-11-24 | [🔗](https://open.spotify.com/album/6wdSf72duVewXTqhYU3Z87) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="" width="50" /> | Relapse: Refill | 2009-05-15 | [🔗](https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="" width="50" /> | Recovery | 2010-06-18 | [🔗](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) |
+| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27384f49cbc39ac1f18422a4d42" alt="" width="50" /> | Rap Or Go To The League | 2019-03-01 | [🔗](https://open.spotify.com/album/1BR69wIifGZUSimcuTjWVg) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" alt="" width="50" /> | Planet Her | 2021-06-25 | [🔗](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27343f15453faa4973061411a79" alt="" width="50" /> | Pink Friday | 2010-01-01 | [🔗](https://open.spotify.com/album/5jem47f4IRH6UaxNAWO6vD) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f" alt="" width="50" /> | My Beautiful Dark Twisted Fantasy | 2010-11-22 | [🔗](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) |
@@ -86,11 +88,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 21 record labels](../../images/playlists/hip_hop/labels.png)
+![Bar chart of top 23 record labels](../../images/playlists/hip_hop/labels.png)
 
 
 <details>
-<summary>See all 21 labels</summary>
+<summary>See all 23 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -106,7 +108,9 @@
 | 1 | Roc Nation |
 | 1 | KSR |
 | 1 | [Interscope Records](../../labels/interscope_records.md) |
+| 1 | Gamebread |
 | 1 | EMPIRE |
+| 1 | [Def Jam Recordings](../../labels/def_jam_recordings.md) |
 | 1 | [Columbia](../../labels/columbia.md) |
 | 1 | Bad Dreams Records |
 | 1 | Bad Boy |
@@ -121,29 +125,29 @@
 
 ## Genres
 
-![Bar chart of top 28 genres](../../images/playlists/hip_hop/genres.png)
+![Bar chart of top 27 genres](../../images/playlists/hip_hop/genres.png)
 
 
 <details>
-<summary>See all 28 genres</summary>
+<summary>See all 27 genres</summary>
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 17 | rap |
+| 18 | rap |
 | 10 | [pop](../../genres/pop.md) |
+| 9 | hip hop |
 | 9 | [dance pop](../../genres/dance_pop.md) |
-| 8 | hip hop |
-| 4 | pop rap |
+| 5 | pop rap |
 | 4 | hip pop |
+| 4 | gangster rap |
 | 4 | detroit hip hop |
 | 4 | chicago rap |
-| 3 | gangster rap |
-| 2 | trap |
-| 2 | southern hip hop |
+| 3 | trap |
+| 3 | southern hip hop |
+| 3 | atl hip hop |
 | 2 | queens hip hop |
 | 2 | dirty south rap |
 | 2 | conscious hip hop |
-| 2 | atl hip hop |
 | 1 | west coast rap |
 | 1 | [post-teen pop](../../genres/post_teen_pop.md) |
 | 1 | old school hip hop |
@@ -152,7 +156,6 @@
 | 1 | lgbtq+ hip hop |
 | 1 | k-rap |
 | 1 | [k-pop](../../genres/k_pop.md) |
-| 1 | hip house |
 | 1 | electro |
 | 1 | crunk |
 | 1 | australian hip hop |
@@ -177,8 +180,8 @@
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27310356a0e81371e6644cb1371" alt="Boss Bitch" width="50" /> <span style="padding-left:10px;">Boss Bitch (2020-01-23)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="Graduation" width="50" /> <span style="padding-left:10px;">Graduation (2007-09-11)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27382b243023b937fd579a35533" alt="Hot Pink" width="50" /> <span style="padding-left:10px;">Hot Pink (2019-11-07)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="Relapse: Refill" width="50" /> <span style="padding-left:10px;">Relapse: Refill (2009-05-15)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273fc26c1e9b1cc4ecd87e9ddef" alt="In My Defense" width="50" /> <span style="padding-left:10px;">In My Defense (2019-07-19)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27343f15453faa4973061411a79" alt="Pink Friday" width="50" /> <span style="padding-left:10px;">Pink Friday (2010-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1" alt="To Pimp A Butterfly" width="50" /> <span style="padding-left:10px;">To Pimp A Butterfly (2015-03-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2730b1cfc3df4d9d5d4cbce9208" alt="Last Train To Paris" width="50" /> <span style="padding-left:10px;">Last Train To Paris (2010-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2730f79d1616e3b02368d41f458" alt="The Pinkprint (Deluxe)" width="50" /> <span style="padding-left:10px;">The Pinkprint (Deluxe) (2014-12-15)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="Recovery" width="50" /> <span style="padding-left:10px;">Recovery (2010-06-18)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27384f49cbc39ac1f18422a4d42" alt="Rap Or Go To The League" width="50" /> <span style="padding-left:10px;">Rap Or Go To The League (2019-03-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2730b1cfc3df4d9d5d4cbce9208" alt="Last Train To Paris" width="50" /> <span style="padding-left:10px;">Last Train To Paris (2010-01-01)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1" alt="To Pimp A Butterfly" width="50" /> <span style="padding-left:10px;">To Pimp A Butterfly (2015-03-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="Recovery" width="50" /> <span style="padding-left:10px;">Recovery (2010-06-18)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
@@ -190,35 +193,35 @@
 | Sally Walker (0.905) | Gold Digger (0.629) |
 | Where Is The Love? (0.834) | Jesus Walks (0.637) |
 | Work Out (0.831) | Need to Know (0.664) |
-| Alright (0.796) | on the street (with J. Cole) (0.681) |
-| Say So (0.787) | Lose Yourself (0.689) |
-| The Monster (0.781) | Boss Bitch (0.707) |
+| Momma I Hit A Lick (feat. Kendrick Lamar) (0.796) | on the street (with J. Cole) (0.681) |
+| Alright (0.796) | Lose Yourself (0.689) |
+| Say So (0.787) | Boss Bitch (0.707) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
 | Boss Bitch (0.955) | Work Out (0.427) |
 | Hello Good Morning (0.954) | WAP (feat. Megan Thee Stallion) (0.454) |
-| Love The Way You Lie (0.925) | Sally Walker (0.492) |
-| Super Bass (0.861) | No Hands (feat. Roscoe Dash & Wale) (0.595) |
-| We Made You (0.853) | Anaconda (0.605) |
-| The Monster (0.853) | Need to Know (0.609) |
-| Jesus Walks (0.834) | Can't Tell Me Nothing (0.62) |
-| on the street (with J. Cole) (0.821) | Get Low (0.625) |
-| All Of The Lights (0.803) | Baby Got Back (0.669) |
-| Alright (0.766) | Say So (0.673) |
+| Love The Way You Lie (0.925) | Momma I Hit A Lick (feat. Kendrick Lamar) (0.467) |
+| Super Bass (0.861) | Sally Walker (0.492) |
+| We Made You (0.853) | No Hands (feat. Roscoe Dash & Wale) (0.595) |
+| The Monster (0.853) | Anaconda (0.605) |
+| Jesus Walks (0.834) | Need to Know (0.609) |
+| on the street (with J. Cole) (0.821) | Can't Tell Me Nothing (0.62) |
+| All Of The Lights (0.803) | Get Low (0.625) |
+| Alright (0.766) | Baby Got Back (0.669) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | WAP (feat. Megan Thee Stallion) (0.375) | Kiss Me More (feat. SZA) (0.0286) |
 | Gold Digger (0.348) | Can't Tell Me Nothing (0.039) |
-| Jesus Walks (0.323) | No Hands (feat. Roscoe Dash & Wale) (0.0391) |
-| Baby Got Back (0.301) | Get Low (0.067) |
-| Lose Yourself (0.267) | INDUSTRY BABY (feat. Jack Harlow) (0.0672) |
-| Hello Good Morning (0.239) | Need to Know (0.0707) |
-| Alright (0.238) | The Monster (0.0715) |
-| Love The Way You Lie (0.227) | All Of The Lights (0.0717) |
-| Boss Bitch (0.222) | We Made You (0.0792) |
-| Super Bass (0.209) | Sally Walker (0.0936) |
+| Momma I Hit A Lick (feat. Kendrick Lamar) (0.34) | No Hands (feat. Roscoe Dash & Wale) (0.0391) |
+| Jesus Walks (0.323) | Get Low (0.067) |
+| Baby Got Back (0.301) | INDUSTRY BABY (feat. Jack Harlow) (0.0672) |
+| Lose Yourself (0.267) | Need to Know (0.0707) |
+| Hello Good Morning (0.239) | The Monster (0.0715) |
+| Alright (0.238) | All Of The Lights (0.0717) |
+| Love The Way You Lie (0.227) | We Made You (0.0792) |
+| Boss Bitch (0.222) | Sally Walker (0.0936) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -229,22 +232,22 @@
 | Say So (0.264) | Sally Walker (0.0177) |
 | Love The Way You Lie (0.241) | WAP (feat. Megan Thee Stallion) (0.0194) |
 | Kiss Me More (feat. SZA) (0.235) | Gold Digger (0.0195) |
-| Boss Bitch (0.127) | INDUSTRY BABY (feat. Jack Harlow) (0.0221) |
-| Where Is The Love? (0.111) | Get Low (0.0301) |
-| We Made You (0.107) | The Monster (0.0525) |
+| Momma I Hit A Lick (feat. Kendrick Lamar) (0.202) | INDUSTRY BABY (feat. Jack Harlow) (0.0221) |
+| Boss Bitch (0.127) | Get Low (0.0301) |
+| Where Is The Love? (0.111) | The Monster (0.0525) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | on the street (with J. Cole) (0.00111) | No Hands (feat. Roscoe Dash & Wale) (0.0) |
 | Lose Yourself (0.00072) | Can't Tell Me Nothing (0.0) |
 | Kiss Me More (feat. SZA) (0.000158) | Get Low (0.0) |
-| All Of The Lights (1.71e-05) | Where Is The Love? (0.0) |
-| Anaconda (7.78e-06) | Love The Way You Lie (0.0) |
-| Super Bass (5.11e-06) | Gold Digger (0.0) |
-| Say So (3.35e-06) | Baby Got Back (0.0) |
-| We Made You (1.45e-06) | Sally Walker (0.0) |
-| Hello Good Morning (0.0) | Work Out (0.0) |
-| Boss Bitch (0.0) | Need to Know (0.0) |
+| Momma I Hit A Lick (feat. Kendrick Lamar) (3.32e-05) | Where Is The Love? (0.0) |
+| All Of The Lights (1.71e-05) | Love The Way You Lie (0.0) |
+| Anaconda (7.78e-06) | Gold Digger (0.0) |
+| Super Bass (5.11e-06) | Baby Got Back (0.0) |
+| Say So (3.35e-06) | Sally Walker (0.0) |
+| We Made You (1.45e-06) | Work Out (0.0) |
+| Hello Good Morning (0.0) | Need to Know (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -257,7 +260,7 @@
 | Work Out (0.307) | on the street (with J. Cole) (0.0921) |
 | No Hands (feat. Roscoe Dash & Wale) (0.241) | Need to Know (0.0926) |
 | Anaconda (0.214) | Sally Walker (0.0994) |
-| Boss Bitch (0.202) | The Monster (0.12) |
+| Momma I Hit A Lick (feat. Kendrick Lamar) (0.206) | The Monster (0.12) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
@@ -269,5 +272,5 @@
 | Jesus Walks (0.715) | All Of The Lights (0.221) |
 | We Made You (0.67) | WAP (feat. Megan Thee Stallion) (0.357) |
 | Super Bass (0.669) | No Hands (feat. Roscoe Dash & Wale) (0.361) |
-| Anaconda (0.646) | Alright (0.558) |
-| Baby Got Back (0.642) | Hello Good Morning (0.571) |
+| Anaconda (0.646) | Momma I Hit A Lick (feat. Kendrick Lamar) (0.4) |
+| Baby Got Back (0.642) | Alright (0.558) |

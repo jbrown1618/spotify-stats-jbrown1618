@@ -1,6 +1,6 @@
 # electropop
 
-[51 songs](electropop_tracks.md)
+[50 songs](electropop_tracks.md)
 
 ## Top Artists
 
@@ -10,7 +10,7 @@
 
 
 <details>
-<summary>See all 31 artists</summary>
+<summary>See all 30 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -20,7 +20,6 @@
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
 | 4 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb576cb43281160e345f728b71" alt="" width="50" /> | Charli XCX | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb358577f183465ae7698a53a7" alt="" width="50" /> | Carly Rae Jepsen | [🔗](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375" alt="" width="50" /> | Hatsune Miku | [🔗](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb31072db9da0311ecfabe96bf" alt="" width="50" /> | Khalid | [🔗](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3c02f4fb4cc9187c488afd50" alt="" width="50" /> | The Chainsmokers | [🔗](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) |
@@ -54,7 +53,7 @@
 
 
 <details>
-<summary>See all 32 albums</summary>
+<summary>See all 31 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -77,7 +76,6 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7" alt="" width="50" /> | No Time To Die | 2020-02-13 | [🔗](https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b72cb7bed93d6e2fdf42cffe" alt="" width="50" /> | Metropolis: The Chase Suite (Special Edition) | 2008-08-12 | [🔗](https://open.spotify.com/album/3T3bJi3cvwR5U7ihwgEwF1) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737636e1c9e67eaafc9f49aefd" alt="" width="50" /> | Manic | 2020-01-17 | [🔗](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a111f7769013f1731e9c697c" alt="" width="50" /> | Kiss (Deluxe) | 2012-01-01 | [🔗](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318" alt="" width="50" /> | Guitar Songs | 2022-07-21 | [🔗](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27370d7aa769af19e7e2c2e107b" alt="" width="50" /> | Fantasies | 2009-04-14 | [🔗](https://open.spotify.com/album/3Oj8FdHcV6kAiOVWfkqRaA) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27361fe6d3a50c0beaa3cfe33e9" alt="" width="50" /> | Expectations | 2018-06-22 | [🔗](https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS) |
@@ -96,11 +94,11 @@
 
 ## Top Record Labels
 
-![Bar chart of top 22 record labels](../images/genres/electropop/labels.png)
+![Bar chart of top 21 record labels](../images/genres/electropop/labels.png)
 
 
 <details>
-<summary>See all 22 labels</summary>
+<summary>See all 21 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
@@ -114,7 +112,6 @@
 | 1 | Warner Bros. |
 | 1 | VÉRITÉ |
 | 1 | Teleport Records |
-| 1 | Silent Records IGA |
 | 1 | [RCA Records Label](../labels/rca_records_label.md) |
 | 1 | Perpetual Novice |
 | 1 | Parlophone UK |
@@ -139,11 +136,11 @@
 | Make Me Feel (0.859) | when the party's over (0.367) |
 | Good Intent (0.851) | No Time To Die (0.38) |
 | replay! (0.806) | Waltz Me to the Grave (0.394) |
-| Call Me Maybe (0.783) | TV (0.412) |
-| la type (0.773) | foolish thinking (0.416) |
-| Daisy 2.0 (feat. Hatsune Miku) (0.773) | Like They Do on the TV (0.463) |
-| Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) (0.771) | Gimme Sympathy (0.47) |
-| Recovery (0.767) | Old Flame (0.476) |
+| la type (0.773) | TV (0.412) |
+| Daisy 2.0 (feat. Hatsune Miku) (0.773) | foolish thinking (0.416) |
+| Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) (0.771) | Like They Do on the TV (0.463) |
+| Recovery (0.767) | Gimme Sympathy (0.47) |
+| Good Ones (0.764) | Old Flame (0.476) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -176,13 +173,13 @@
 | when the party's over (0.978) | Recovery (0.00747) |
 | lovely (with Khalid) (0.934) | Gimme Sympathy (0.00832) |
 | No Time To Die (0.917) | Lightyears (0.0114) |
-| foolish thinking (0.917) | Call Me Maybe (0.0114) |
-| everything i wanted (0.902) | Yoga (0.0159) |
-| Plain Gold Ring (0.9) | The Good War (0.0208) |
-| TV (0.83) | Tightrope (feat. Big Boi) - Big Boi Vocal Edit (0.0302) |
-| ocean eyes (0.816) | replay! (0.0305) |
-| Happier Than Ever (0.767) | I Like That (0.0323) |
-| GOLDWING (0.755) | Baby, I'm Jealous (feat. Doja Cat) (0.0398) |
+| foolish thinking (0.917) | Yoga (0.0159) |
+| everything i wanted (0.902) | The Good War (0.0208) |
+| Plain Gold Ring (0.9) | Tightrope (feat. Big Boi) - Big Boi Vocal Edit (0.0302) |
+| TV (0.83) | replay! (0.0305) |
+| ocean eyes (0.816) | I Like That (0.0323) |
+| Happier Than Ever (0.767) | Baby, I'm Jealous (feat. Doja Cat) (0.0398) |
+| GOLDWING (0.755) | Meant to Be (feat. Florida Georgia Line) (0.0476) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
@@ -221,4 +218,4 @@
 | Cameo Lover (0.669) | TV (0.119) |
 | Therefore I Am (0.663) | lovely (with Khalid) (0.12) |
 | Closer (0.661) | GOLDWING (0.168) |
-| Call Me Maybe (0.66) | ocean eyes (0.169) |
+| Like They Do on the TV (0.645) | ocean eyes (0.169) |

@@ -1,9 +1,9 @@
 # Stone Music Entertainment
 
-63 songs
+62 songs
 
 Appears as:
-- Genie Music Corporation, Stone Music Entertainment (48 tracks)
+- Genie Music Corporation, Stone Music Entertainment (47 tracks)
 - Stone Music Entertainment (8 tracks)
 - Genie Music Corporation;Stone Music Entertainment (7 tracks)
 
@@ -13,7 +13,7 @@ Appears as:
 
 
 <details>
-<summary>See all 41 artists</summary>
+<summary>See all 40 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -25,7 +25,7 @@ Appears as:
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb39720ff6218e58ce147490dc" alt="" width="50" /> | WOODZ | [🔗](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb86fd15cae5905acd12864029" alt="" width="50" /> | Kep1er | [🔗](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | [CHUNG HA](../artists/chung_ha.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eba109aeabdab7a5a5b3330df4" alt="" width="50" /> | HEIZE | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
+| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebb55c3a580a05d6a61bd678ca" alt="" width="50" /> | HEIZE | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ef6675e036acc2bb446d5ce" alt="" width="50" /> | Jay Park | [🔗](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb29971b8d9d19fef176338e4a" alt="" width="50" /> | Loco | [🔗](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb065608c797a38d142082fc8a" alt="" width="50" /> | Punch | [🔗](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) |
@@ -54,7 +54,6 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb70b010582faadbcec8b6774c" alt="" width="50" /> | CIX | [🔗](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7752de4f562eba802042b432" alt="" width="50" /> | VERIVERY | [🔗](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1787f6596afa03df2d44af87" alt="" width="50" /> | Yoon Mirae | [🔗](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fe4c2a6bc39969b4b8dbe1d" alt="" width="50" /> | OnlyOneOf | [🔗](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9ce6b84393575f91c4f4634" alt="" width="50" /> | B.I | [🔗](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0eff4d3fb92746c29f1edc06" alt="" width="50" /> | Ugly Duck | [🔗](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb11b4e5da5aead482944bdef6" alt="" width="50" /> | PIXY | [🔗](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) |
@@ -68,7 +67,7 @@ Appears as:
 
 
 <details>
-<summary>See all 52 albums</summary>
+<summary>See all 51 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -102,7 +101,6 @@ Appears as:
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d0e950fe2053cf719140d682" alt="" width="50" /> | LULLABY | 2021-08-27 | [🔗](https://open.spotify.com/album/7knAHnDVbgtX05qgU0ZcgT) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733d664d05d8acd045fda25608" alt="" width="50" /> | LUCKYNUMBERS | 2013-07-01 | [🔗](https://open.spotify.com/album/4I0RE0MF6b3Hw4Z0iWosxF) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d700b5ddf45596b3793d3963" alt="" width="50" /> | KINGDOM <FINAL : WHO IS THE KING?> | 2021-05-28 | [🔗](https://open.spotify.com/album/3n1NaviPQXfiVQ0TarnAf4) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731bb59aeed3ada692b9bc82d3" alt="" width="50" /> | Instinct, Pt. 2 | 2022-01-14 | [🔗](https://open.spotify.com/album/6s6wvFDZuowpwGclVzbXDv) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273e5245e31f1351c75654b5e92" alt="" width="50" /> | I Need The Light | 2022-08-12 | [🔗](https://open.spotify.com/album/4RAx28on33NHM5FQiFhyvZ) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27367f8236540d6f145e2f0baa1" alt="" width="50" /> | Hello | 2014-06-18 | [🔗](https://open.spotify.com/album/3Z9cZon6ukg4rvGYu7i4NA) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b589bc0468740f56049a87ba" alt="" width="50" /> | HUSH RUSH | 2022-10-12 | [🔗](https://open.spotify.com/album/6ksAgHMbcJbfxwwO799483) |
@@ -138,11 +136,11 @@ Appears as:
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 57 | [k-pop](../genres/k_pop.md) |
+| 56 | [k-pop](../genres/k_pop.md) |
 | 16 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 | 11 | korean r&b |
 | 9 | [pop](../genres/pop.md) |
-| 8 | [k-pop boy group](../genres/k_pop_boy_group.md) |
+| 7 | [k-pop boy group](../genres/k_pop_boy_group.md) |
 | 4 | [korean pop](../genres/korean_pop.md) |
 | 4 | k-rap |
 | 2 | korean ost |
@@ -201,7 +199,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27338fc902e1d368df7fc0d77a3" alt="" width="50" /> | I Miss You | Melting | [MAMAMOO](../artists/mamamoo.md) | [Genie Music Corporation](genie_music_corporation.md), [Stone Music Entertainment](stone_music_entertainment.md) | | [🔗](https://open.spotify.com/track/6XmZNkGNEJngWnT7ITrLpV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27338fc902e1d368df7fc0d77a3" alt="" width="50" /> | You’re the Best | Melting | [MAMAMOO](../artists/mamamoo.md) | [Genie Music Corporation](genie_music_corporation.md), [Stone Music Entertainment](stone_music_entertainment.md) | | [🔗](https://open.spotify.com/track/3BUZUCu1uHaTvroizwqLHt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273733b6abfa76a28b999feb572" alt="" width="50" /> | Décalcomanie | MEMORY | [MAMAMOO](../artists/mamamoo.md) | [Stone Music Entertainment](stone_music_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/5WitNasXEIRptoLIQUcXMx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731bb59aeed3ada692b9bc82d3" alt="" width="50" /> | gaslighting | Instinct, Pt. 2 | OnlyOneOf | [Genie Music Corporation](genie_music_corporation.md), [Stone Music Entertainment](stone_music_entertainment.md) | | [🔗](https://open.spotify.com/track/3owsRsHzXvHZMLkbl8Q8bk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730615bbf0d4382f2cb1716730" alt="" width="50" /> | Wings | Wings | PIXY | [Genie Music Corporation](genie_music_corporation.md), [Stone Music Entertainment](stone_music_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/12jfNawkTUb40C0iQ46u3W) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27308cdd336f3888e35e7711a09" alt="" width="50" /> | Wicked | Remarriage and Desires (Original Soundtrack from The Netflix Series) | Seori | [Genie Music Corporation](genie_music_corporation.md), [Stone Music Entertainment](stone_music_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/3B4u3uZGm7PCfhc18oTi1J) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739902ed3e9f44f5ad65ad808a" alt="" width="50" /> | Sorry | Sorry | The Rose | [Genie Music Corporation](genie_music_corporation.md), [Stone Music Entertainment](stone_music_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/7zmrZMinkTMJ2kZgM9Kqgp) |

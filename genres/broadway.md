@@ -14,12 +14,12 @@
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
-| 32 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a6fd8ebc62d68a372d51516" alt="" width="50" /> | [Andrew Lloyd Webber](../artists/andrew_lloyd_webber.md) | [🔗](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG) |
-| 21 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | [Phantom Of The Opera Original London Cast](../artists/phantom_of_the_opera_original_london_cast.md) | [🔗](https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25) |
+| 32 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a6fd8ebc62d68a372d51516" alt="" width="50" /> | Andrew Lloyd Webber | [🔗](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG) |
+| 21 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | Phantom Of The Opera Original London Cast | [🔗](https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25) |
 | 15 | <img src="https://i.scdn.co/image/ab67616d0000b2733743f2dba9dde74bf4338540" alt="" width="50" /> | [Original Broadway Cast of Hamilton](../artists/original_broadway_cast_of_hamilton.md) | [🔗](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) |
-| 14 | <img src="https://i.scdn.co/image/ab6761610000e5ebcb29216b4a21ea8912db6502" alt="" width="50" /> | [Sarah Brightman](../artists/sarah_brightman.md) | [🔗](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5) |
-| 11 | <img src="https://i.scdn.co/image/a9895067694a6b11db54520194cd62255fced01c" alt="" width="50" /> | [Michael Crawford](../artists/michael_crawford.md) | [🔗](https://open.spotify.com/artist/5fRiVl9fyhUEZhcpMyIxUG) |
-| 11 | <img src="https://i.scdn.co/image/ab67616d0000b2737fd79037c10ff7b23d65203c" alt="" width="50" /> | [Steve Barton](../artists/steve_barton.md) | [🔗](https://open.spotify.com/artist/1gEOIEK9jgpYvvG57BP0US) |
+| 14 | <img src="https://i.scdn.co/image/ab6761610000e5ebcb29216b4a21ea8912db6502" alt="" width="50" /> | Sarah Brightman | [🔗](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5) |
+| 11 | <img src="https://i.scdn.co/image/a9895067694a6b11db54520194cd62255fced01c" alt="" width="50" /> | Michael Crawford | [🔗](https://open.spotify.com/artist/5fRiVl9fyhUEZhcpMyIxUG) |
+| 11 | <img src="https://i.scdn.co/image/ab67616d0000b2737fd79037c10ff7b23d65203c" alt="" width="50" /> | Steve Barton | [🔗](https://open.spotify.com/artist/1gEOIEK9jgpYvvG57BP0US) |
 | 10 | <img src="https://i.scdn.co/image/ab6761610000e5ebb35dba51746ae3ebb2d8958b" alt="" width="50" /> | [Leslie Odom Jr.](../artists/leslie_odom_jr_.md) | [🔗](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN) |
 | 8 | <img src="https://i.scdn.co/image/84dc87cca456089fc5cfa2d7593d9d960ca4553f" alt="" width="50" /> | [Lin-Manuel Miranda](../artists/lin_manuel_miranda.md) | [🔗](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N) |
 | 7 | <img src="https://i.scdn.co/image/57eaffbd4a9f606a5848ab974cacfa5ba4ca4b59" alt="" width="50" /> | Emmy Rossum | [🔗](https://open.spotify.com/artist/6JcDqt1rBKIWfnoPjXFYqc) |
@@ -42,7 +42,7 @@
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273fcbddbda90806eeb748831e8" alt="" width="50" /> | Aaron Tveit | [🔗](https://open.spotify.com/artist/68h2f0WXn4zEctSgNYozXx) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb21f0cc7dc3f69be76f6f7c11" alt="" width="50" /> | Joseph Williams | [🔗](https://open.spotify.com/artist/5xk0kRuXn1zToTHpHAqpui) |
 | 1 | <img src="https://i.scdn.co/image/7c02f971ca773681ca664c0e3b18f0266db9f20e" alt="" width="50" /> | Minnie Driver | [🔗](https://open.spotify.com/artist/5rNwd5kb1cxVBCQKnDO4b8) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4536d632bb182e3f82baaaf" alt="" width="50" /> | [The King's Singers](../artists/the_king_s_singers.md) | [🔗](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) |
+| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4536d632bb182e3f82baaaf" alt="" width="50" /> | The King's Singers | [🔗](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735fe78562e8ab0b95a2349f54" alt="" width="50" /> | Renée Elise Goldsberry | [🔗](https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2730cc79e7adefed420553e65fe" alt="" width="50" /> | Jason Weaver | [🔗](https://open.spotify.com/artist/5UdPkKWd8YNR5xGcmqH9QJ) |
 | 1 | <img src="nan" alt="" width="50" /> | John Aron | [🔗](https://open.spotify.com/artist/5Hco9oOhEcTrU0hzzIkoF7) |

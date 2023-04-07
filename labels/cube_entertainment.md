@@ -1,10 +1,10 @@
 # CUBE ENTERTAINMENT
 
-33 songs
+34 songs
 
 Appears as:
 - CUBE ENTERTAINMENT (18 tracks)
-- Cube Entertainment (14 tracks)
+- Cube Entertainment (15 tracks)
 - CUBE Entertainment (1 tracks)
 
 ## Top Artists
@@ -19,7 +19,7 @@ Appears as:
 |---:|:---|:---|:---|
 | 17 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | [(G)I-DLE](../artists/_g_i_dle.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | CLC | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | PENTAGON | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
+| 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | PENTAGON | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
 | 2 | <img src="https://i.scdn.co/image/621c729dd90a6e7a63fc8f0957b2b928834ec5a8" alt="" width="50" /> | 4Minute | [🔗](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebadffb99dc62d070da29306ff" alt="" width="50" /> | JEON SOYEON | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
 | 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd7f4b9b294a630d27f0c4d81" alt="" width="50" /> | HyunA | [🔗](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) |
@@ -42,9 +42,9 @@ Appears as:
 |---:|:---|:---|:---|:---|
 | 7 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | I NEVER DIE | 2022-03-14 | [🔗](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) |
 | 5 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | I love | 2022-10-17 | [🔗](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) |
+| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="" width="50" /> | IN:VITE U | 2022-01-24 | [🔗](https://open.spotify.com/album/5vxZM8rFJiNvjtAThYnwek) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="" width="50" /> | I am | 2018-05-02 | [🔗](https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273ea82cfc115275d25d9750ae1" alt="" width="50" /> | No.1 | 2019-01-30 | [🔗](https://open.spotify.com/album/6xSUUpa9LBZYwJFMJOr8M6) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="" width="50" /> | IN:VITE U | 2022-01-24 | [🔗](https://open.spotify.com/album/5vxZM8rFJiNvjtAThYnwek) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ef6b9310f4cef9d603fa8873" alt="" width="50" /> | Trouble Maker | 2011-12-01 | [🔗](https://open.spotify.com/album/130MEXfaPjOmSkE18F9rJm) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273e099e697d0068b652fe6814e" alt="" width="50" /> | Positive | 2018-04-02 | [🔗](https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO) |
 | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273276ccd3b144c9c0f9ba152b6" alt="" width="50" /> | Jelly | 2017-11-05 | [🔗](https://open.spotify.com/album/7iTA4T8A4tDU77Dt6y3f9m) |
@@ -73,10 +73,10 @@ Appears as:
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 33 | [k-pop](../genres/k_pop.md) |
+| 34 | [k-pop](../genres/k_pop.md) |
 | 24 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+| 6 | [k-pop boy group](../genres/k_pop_boy_group.md) |
 | 5 | korean city pop |
-| 5 | [k-pop boy group](../genres/k_pop_boy_group.md) |
 
 </details>
 
@@ -117,4 +117,5 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273e099e697d0068b652fe6814e" alt="" width="50" /> | Shine | Positive | PENTAGON | [CUBE ENTERTAINMENT](cube_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="" width="50" /> | Feelin' Like | IN:VITE U | PENTAGON | [Cube Entertainment](cube_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/5Wll1i0Y8GGjyePcP83L3x) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="" width="50" /> | Sparkling Night | IN:VITE U | PENTAGON | [Cube Entertainment](cube_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/5muXLxcyjv5RY2sGwl68TL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="" width="50" /> | The Game | IN:VITE U | PENTAGON | [Cube Entertainment](cube_entertainment.md) | | [🔗](https://open.spotify.com/track/4uqfxy4VCvlbSfALhRQedJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ef6b9310f4cef9d603fa8873" alt="" width="50" /> | Trouble Maker | Trouble Maker | Trouble Maker | [CUBE ENTERTAINMENT](cube_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/0RP3Qjp1QhIjhtG7gYoBqn) |

@@ -17,7 +17,7 @@
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
-| 21 | <img src="https://i.scdn.co/image/ab6772690000c46c153adede0a024fd3679af738" alt="" width="50" /> | [David Benoit](../../artists/david_benoit.md) | [🔗](https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu) |
+| 21 | <img src="https://i.scdn.co/image/ab6772690000c46c153adede0a024fd3679af738" alt="" width="50" /> | David Benoit | [🔗](https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu) |
 | 12 | <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | [Michael Bublé](../../artists/michael_bubl_.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
 | 7 | <img src="https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411" alt="" width="50" /> | Frank Sinatra | [🔗](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) |
 | 5 | <img src="https://i.scdn.co/image/b4e726a3aadce109069811c4381279daf20c03d8" alt="" width="50" /> | Sophie Milman | [🔗](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) |

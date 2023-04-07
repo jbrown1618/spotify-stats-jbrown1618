@@ -22,7 +22,7 @@
 | 10 | <img src="https://i.scdn.co/image/ab6761610000e5ebe36c599c230a7fda002d3d34" alt="" width="50" /> | [Anthony Ramos](../artists/anthony_ramos.md) | [🔗](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) |
 | 10 | <img src="https://i.scdn.co/image/ab6761610000e5ebf638289c7621609519d8ad24" alt="" width="50" /> | [Daveed Diggs](../artists/daveed_diggs.md) | [🔗](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P) |
 | 9 | <img src="nan" alt="" width="50" /> | [Okieriete Onaodowan](../artists/okieriete_onaodowan.md) | [🔗](https://open.spotify.com/artist/6G3sPhnj4JBCsBVBGvZnkk) |
-| 9 | <img src="https://i.scdn.co/image/ab6761610000e5ebc698d53b77db34027b00f853" alt="" width="50" /> | [Disney](../artists/disney.md) | [🔗](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) |
+| 9 | <img src="https://i.scdn.co/image/ab6761610000e5ebc698d53b77db34027b00f853" alt="" width="50" /> | Disney | [🔗](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) |
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb223a32141674523a97d0ea50" alt="" width="50" /> | Christopher Jackson | [🔗](https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj) |
 | 7 | <img src="https://i.scdn.co/image/8342768be08c1c9bf4af1d4584a103bcb3042704" alt="" width="50" /> | Colm Wilkinson | [🔗](https://open.spotify.com/artist/4hKV8PcRBaHZqBJjSn8OJE) |
 | 5 | <img src="https://i.scdn.co/image/ab67616d0000b2735fe78562e8ab0b95a2349f54" alt="" width="50" /> | Renée Elise Goldsberry | [🔗](https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu) |

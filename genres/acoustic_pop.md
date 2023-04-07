@@ -1,16 +1,16 @@
 # acoustic pop
 
-[84 songs](acoustic_pop_tracks.md)
+[87 songs](acoustic_pop_tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 10 artists](../images/genres/acoustic_pop/artists.png)
+![Bar chart of top 11 artists](../images/genres/acoustic_pop/artists.png)
 
 ![Comparison of Artist](../images/genres/acoustic_pop/artists_comparison.png)
 
 
 <details>
-<summary>See all 10 artists</summary>
+<summary>See all 11 artists</summary>
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
@@ -18,6 +18,7 @@
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb271320bcc15789b23aa83a44" alt="" width="50" /> | Erin McCarley | [🔗](https://open.spotify.com/artist/6Y4bCmUNPDKqc7dHkVvgim) |
 | 7 | <img src="https://i.scdn.co/image/15b7ee7550ed4472700d573803ff90f2967f84d1" alt="" width="50" /> | A Fine Frenzy | [🔗](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) |
 | 3 | <img src="https://i.scdn.co/image/9a03437da395d999755edacccc24779a97254b89" alt="" width="50" /> | Aslyn | [🔗](https://open.spotify.com/artist/6seR0G84QQq1NIW844E7Qq) |
+| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8457f57bc526c37bd804b924" alt="" width="50" /> | KT Tunstall | [🔗](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | Jason Mraz | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eba5fc004270bdfc9fee7f55f4" alt="" width="50" /> | Jon McLaughlin | [🔗](https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae8ba82eaf7e63af515c9f" alt="" width="50" /> | The Civil Wars | [🔗](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) |
@@ -29,11 +30,11 @@
 
 ## Top Albums
 
-![Bar chart of top 18 albums](../images/genres/acoustic_pop/albums.png)
+![Bar chart of top 19 albums](../images/genres/acoustic_pop/albums.png)
 
 
 <details>
-<summary>See all 18 albums</summary>
+<summary>See all 19 albums</summary>
 
 | Number of Tracks | Art | Album | Release Date | 🔗 |
 |---:|:---|:---|:---|:---|
@@ -46,6 +47,7 @@
 | 5 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | Once Upon Another Time | 2012-05-22 | [🔗](https://open.spotify.com/album/1PrqYZJRzGNf8AsSOraxnZ) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273119ad2ebc0d33edf847ed8c6" alt="" width="50" /> | One Cell In The Sea | 2007 | [🔗](https://open.spotify.com/album/0Ot7MEgreG2R93aN42M9iK) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2730e402844f1b6be3102d339f2" alt="" width="50" /> | Lemon Love | 2005-01-01 | [🔗](https://open.spotify.com/album/5YToJrWwzdA6W2NxxDoteE) |
+| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273183730e8038fa632b2c227da" alt="" width="50" /> | Eye To The Telescope | 2005-01-01 | [🔗](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273e7b8e0abcd5cdc4c8b5a238c" alt="" width="50" /> | Bomb In A Birdcage | 2009-01-01 | [🔗](https://open.spotify.com/album/07IV5RxLvAUeZbcPm4zOzn) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2730f2e51f7121539e221c51161" alt="" width="50" /> | We Sing. We Dance. We Steal Things. | 2008-05-12 | [🔗](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2737ebde0a5bb07f53a99c15224" alt="" width="50" /> | Barton Hollow | 2011-02-01 | [🔗](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) |
@@ -61,17 +63,18 @@
 
 ## Top Record Labels
 
-![Bar chart of top 10 record labels](../images/genres/acoustic_pop/labels.png)
+![Bar chart of top 11 record labels](../images/genres/acoustic_pop/labels.png)
 
 
 <details>
-<summary>See all 10 labels</summary>
+<summary>See all 11 labels</summary>
 
 | Number of Tracks | Label |
 |---:|:---|
 | 59 | [Epic](../labels/epic.md) |
-| 7 | [Virgin Records](../labels/virgin_records.md) |
+| 10 | [Virgin Records](../labels/virgin_records.md) |
 | 7 | Universal (MT) |
+| 3 | Relentless |
 | 3 | [Capitol Records](../labels/capitol_records.md) |
 | 2 | sensibility recordings |
 | 2 | Island Def Jam |
@@ -90,13 +93,13 @@
 | Little Black Dress (0.787) | Stay (0.262) |
 | Eden (0.776) | Gravity (0.27) |
 | Electric Twist (0.773) | Once Upon Another Time (0.275) |
-| Blow Away (0.747) | Poison & Wine (0.285) |
-| I Choose You (0.731) | City (0.319) |
-| I'm Yours (0.703) | Come Round Soon (0.338) |
-| I Didn't Plan It (0.695) | Bluebird (0.34) |
-| Let The Rain (0.694) | Bright Lights and Cityscapes (0.343) |
-| Lie To Me (0.683) | Everything Changes (0.348) |
-| No Such Thing (0.677) | We All Need Saving (0.35) |
+| Black Horse And The Cherry Tree (0.748) | Poison & Wine (0.285) |
+| Blow Away (0.747) | City (0.319) |
+| I Choose You (0.731) | Come Round Soon (0.338) |
+| I'm Yours (0.703) | Bluebird (0.34) |
+| I Didn't Plan It (0.695) | Bright Lights and Cityscapes (0.343) |
+| Let The Rain (0.694) | Everything Changes (0.348) |
+| Lie To Me (0.683) | We All Need Saving (0.35) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -119,10 +122,10 @@
 | Kaleidoscope Heart (0.0927) | Pitter-Pat (0.0256) |
 | Come Round Soon (0.0776) | Machine Gun (0.0268) |
 | Bad Idea (feat. Jason Mraz) (0.0704) | Orpheus (0.0269) |
-| Fire (0.057) | Sweet As Whole (0.0275) |
-| Eden (0.0562) | Breathe Again (0.0278) |
-| Little Black Dress (0.0554) | Islands (0.0284) |
-| Bobble Head (0.0547) | Poison & Wine (0.0288) |
+| Black Horse And The Cherry Tree (0.0641) | Sweet As Whole (0.0275) |
+| Fire (0.057) | Breathe Again (0.0278) |
+| Eden (0.0562) | Islands (0.0284) |
+| Little Black Dress (0.0554) | Poison & Wine (0.0288) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -143,12 +146,12 @@
 | Satellite Call (0.0318) | Sweet As Whole (0.0) |
 | Islands (0.0261) | Lucky (0.0) |
 | Armor (0.0145) | Come Round Soon (0.0) |
-| Breathe Again (0.00655) | Kaleidoscope Heart (0.0) |
-| Miss Simone (0.00407) | Everything Changes (0.0) |
-| The Light (0.00375) | I'm Yours (0.0) |
-| No Such Thing (0.00175) | Wally (0.0) |
-| Whisper (0.00168) | Vegas (0.0) |
-| Fire (0.00165) | Hercules (0.0) |
+| Breathe Again (0.00655) | Black Horse And The Cherry Tree (0.0) |
+| Miss Simone (0.00407) | Kaleidoscope Heart (0.0) |
+| The Light (0.00375) | Everything Changes (0.0) |
+| No Such Thing (0.00175) | I'm Yours (0.0) |
+| Whisper (0.00168) | Wally (0.0) |
+| Fire (0.00165) | Vegas (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -156,22 +159,22 @@
 | Home (0.393) | Brave (0.0425) |
 | Ashes And Wine (0.379) | Eden (0.0456) |
 | Fire (0.363) | Chasing The Sun (0.0497) |
-| Lemon Love (0.327) | King of Anything (0.0574) |
-| Let The Rain (0.297) | Be Be Your Love (0.0667) |
-| It's Not That Easy (0.274) | The Light (0.0691) |
-| Pitter-Pat (0.263) | Islands (0.0699) |
-| SleepWalking (0.26) | Blow Away (0.0701) |
-| Not Alone (0.256) | Whisper (0.0708) |
+| Black Horse And The Cherry Tree (0.34) | King of Anything (0.0574) |
+| Lemon Love (0.327) | Be Be Your Love (0.0667) |
+| Let The Rain (0.297) | The Light (0.0691) |
+| It's Not That Easy (0.274) | Islands (0.0699) |
+| Pitter-Pat (0.263) | Blow Away (0.0701) |
+| SleepWalking (0.26) | Whisper (0.0708) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | I Choose You (0.947) | Once Upon Another Time (0.0551) |
-| Blow Away (0.891) | Islands (0.0863) |
-| Electric Twist (0.858) | Everything Changes (0.0983) |
-| Say You're Sorry (0.846) | We All Need Saving (0.117) |
-| King of Anything (0.81) | Bluebird (0.161) |
-| Home (0.795) | What's Inside (0.162) |
-| Lie To Me (0.795) | Almost Lover (0.167) |
-| I Didn't Plan It (0.787) | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 (0.168) |
-| Bad Idea (feat. Jason Mraz) (0.787) | She Used To Be Mine (0.172) |
-| Morningside (0.785) | Stay (0.181) |
+| Black Horse And The Cherry Tree (0.917) | Islands (0.0863) |
+| Blow Away (0.891) | Everything Changes (0.0983) |
+| Electric Twist (0.858) | We All Need Saving (0.117) |
+| Say You're Sorry (0.846) | Bluebird (0.161) |
+| King of Anything (0.81) | What's Inside (0.162) |
+| Home (0.795) | Almost Lover (0.167) |
+| Lie To Me (0.795) | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 (0.168) |
+| I Didn't Plan It (0.787) | She Used To Be Mine (0.172) |
+| Bad Idea (feat. Jason Mraz) (0.787) | Stay (0.181) |

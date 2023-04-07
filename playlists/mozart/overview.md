@@ -17,14 +17,14 @@
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
-| 148 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fa9108c6dadb8c3ec21da88" alt="" width="50" /> | [Wolfgang Amadeus Mozart](../../artists/wolfgang_amadeus_mozart.md) | [🔗](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS) |
-| 115 | <img src="https://i.scdn.co/image/ab6761610000e5ebf67fde1740e91a88445d5bdd" alt="" width="50" /> | [Herbert von Karajan](../../artists/herbert_von_karajan.md) | [🔗](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) |
-| 101 | <img src="https://i.scdn.co/image/ab6761610000e5eb92e0a1e423bd8590dcd43bda" alt="" width="50" /> | [Berliner Philharmoniker](../../artists/berliner_philharmoniker.md) | [🔗](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z) |
-| 18 | <img src="https://i.scdn.co/image/e403106a45cbd0e2ca51e4d1b18b9a587f9177be" alt="" width="50" /> | [Wiener Singverein](../../artists/wiener_singverein.md) | [🔗](https://open.spotify.com/artist/35QSympF887CO8h5eZHme2) |
-| 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb4bb5eb0860d831455fab32b6" alt="" width="50" /> | [Wiener Philharmoniker](../../artists/wiener_philharmoniker.md) | [🔗](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ) |
-| 13 | <img src="https://i.scdn.co/image/3a82b1bfa9beaa82deb0b380a94cb6dc197ee073" alt="" width="50" /> | [Anna Tomowa-Sintow](../../artists/anna_tomowa_sintow.md) | [🔗](https://open.spotify.com/artist/6NSIW1uEq8JZmxEkHMF17c) |
-| 12 | <img src="https://i.scdn.co/image/1dc8f4430bbf39a814e3413892c020122215924f" alt="" width="50" /> | [Carmen Piazzini](../../artists/carmen_piazzini.md) | [🔗](https://open.spotify.com/artist/6aQUOvrKLOquCAvIGdIwTx) |
-| 11 | <img src="https://i.scdn.co/image/ab67616d0000b2731793174d9892a98c3fd2d09b" alt="" width="50" /> | [Gerd Seifert](../../artists/gerd_seifert.md) | [🔗](https://open.spotify.com/artist/4aIYtx2Z5X9vRlysnruy66) |
+| 148 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fa9108c6dadb8c3ec21da88" alt="" width="50" /> | Wolfgang Amadeus Mozart | [🔗](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS) |
+| 115 | <img src="https://i.scdn.co/image/ab6761610000e5ebf67fde1740e91a88445d5bdd" alt="" width="50" /> | Herbert von Karajan | [🔗](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) |
+| 101 | <img src="https://i.scdn.co/image/ab6761610000e5eb92e0a1e423bd8590dcd43bda" alt="" width="50" /> | Berliner Philharmoniker | [🔗](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z) |
+| 18 | <img src="https://i.scdn.co/image/e403106a45cbd0e2ca51e4d1b18b9a587f9177be" alt="" width="50" /> | Wiener Singverein | [🔗](https://open.spotify.com/artist/35QSympF887CO8h5eZHme2) |
+| 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb4bb5eb0860d831455fab32b6" alt="" width="50" /> | Wiener Philharmoniker | [🔗](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ) |
+| 13 | <img src="https://i.scdn.co/image/3a82b1bfa9beaa82deb0b380a94cb6dc197ee073" alt="" width="50" /> | Anna Tomowa-Sintow | [🔗](https://open.spotify.com/artist/6NSIW1uEq8JZmxEkHMF17c) |
+| 12 | <img src="https://i.scdn.co/image/1dc8f4430bbf39a814e3413892c020122215924f" alt="" width="50" /> | Carmen Piazzini | [🔗](https://open.spotify.com/artist/6aQUOvrKLOquCAvIGdIwTx) |
+| 11 | <img src="https://i.scdn.co/image/ab67616d0000b2731793174d9892a98c3fd2d09b" alt="" width="50" /> | Gerd Seifert | [🔗](https://open.spotify.com/artist/4aIYtx2Z5X9vRlysnruy66) |
 | 7 | <img src="https://i.scdn.co/image/7edeefee1e00dc240f153b601cf735baba09a17a" alt="" width="50" /> | José van Dam | [🔗](https://open.spotify.com/artist/5qNUHMEhszyeXNYMn4sswd) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5ebae5e23c13f72e0ee01dfa99b" alt="" width="50" /> | Anne-Sophie Mutter | [🔗](https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn) |
 | 6 | <img src="https://i.scdn.co/image/ab67616d0000b27322070c61a7616392f04f070f" alt="" width="50" /> | Agnes Baltsa | [🔗](https://open.spotify.com/artist/2amF56vDuTTbZJQsqUgbuC) |
@@ -40,9 +40,9 @@
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273ad029134625e13b2823b8b83" alt="" width="50" /> | Volker Hartung | [🔗](https://open.spotify.com/artist/19nzpbhd3Yv5PQXtWKZkhX) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273a3096c4f027435226cdfd8e1" alt="" width="50" /> | The St. Petersburg Soloists | [🔗](https://open.spotify.com/artist/11K9yxwc8iVyEh0ya9v9XY) |
 | 3 | <img src="nan" alt="" width="50" /> | Ossip Schnirlin | [🔗](https://open.spotify.com/artist/7eI7DJSWlJy2W2337B9oTL) |
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8b13e554131116bf311f242" alt="" width="50" /> | [Academy of St. Martin in the Fields](../../artists/academy_of_st__martin_in_the_fields.md) | [🔗](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF) |
+| 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8b13e554131116bf311f242" alt="" width="50" /> | Academy of St. Martin in the Fields | [🔗](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF) |
 | 3 | <img src="https://i.scdn.co/image/a3a6a9144487c4a31235748c406e91ba222d2be6" alt="" width="50" /> | Joseph Joachim | [🔗](https://open.spotify.com/artist/6QuJ4aZSRMebqwDXiJ3SuA) |
-| 3 | <img src="https://i.scdn.co/image/addf4464734979a85ef71a61c421f23a6bc143ae" alt="" width="50" /> | [Sir Neville Marriner](../../artists/sir_neville_marriner.md) | [🔗](https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9) |
+| 3 | <img src="https://i.scdn.co/image/addf4464734979a85ef71a61c421f23a6bc143ae" alt="" width="50" /> | Sir Neville Marriner | [🔗](https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9) |
 | 3 | <img src="nan" alt="" width="50" /> | Sam Franko | [🔗](https://open.spotify.com/artist/3vkG71N5uQBzhzwEDr6icH) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2733658c17a5357171441798302" alt="" width="50" /> | Chor der Deutschen Oper Berlin | [🔗](https://open.spotify.com/artist/2KvV4gawnuMNG74DgSAQ0n) |
 | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2735bc527148c3774b330624505" alt="" width="50" /> | Elisabeth Sombart | [🔗](https://open.spotify.com/artist/6pp4xqAWH1oHFQX0kJtVvO) |
@@ -119,8 +119,8 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 148 | [classical era](../../genres/classical_era.md) |
-| 148 | [classical](../../genres/classical.md) |
+| 148 | classical era |
+| 148 | classical |
 
 </details>
 

@@ -26,7 +26,7 @@
 | 3 | <img src="https://i.scdn.co/image/207803ce008388d3427a685254f9de6a8f61dc2e" alt="" width="50" /> | Led Zeppelin | [🔗](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebe848dfb35ea4969099662dfd" alt="" width="50" /> | Journey | [🔗](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5733401b4689b2064458e7d" alt="" width="50" /> | Aerosmith | [🔗](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4536d632bb182e3f82baaaf" alt="" width="50" /> | [The King's Singers](../artists/the_king_s_singers.md) | [🔗](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) |
+| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4536d632bb182e3f82baaaf" alt="" width="50" /> | The King's Singers | [🔗](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) |
 | 2 | <img src="https://i.scdn.co/image/5931700f9515dd6587230130beb615e0549e47dc" alt="" width="50" /> | Black Sabbath | [🔗](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb920dc1f617550de8388f368e" alt="" width="50" /> | Imagine Dragons | [🔗](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebfef3008e708e59efaa5667ed" alt="" width="50" /> | Styx | [🔗](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) |

@@ -17,9 +17,9 @@
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
-| 27 | <img src="https://i.scdn.co/image/463e3c5c3e814761532f554913cf2af456bcba59" alt="" width="50" /> | [Sergei Rachmaninoff](../../artists/sergei_rachmaninoff.md) | [🔗](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51) |
-| 24 | <img src="https://i.scdn.co/image/1b640748181bdba8cc37a0a6ee5148c27b374d4e" alt="" width="50" /> | [Eldar Nebolsin](../../artists/eldar_nebolsin.md) | [🔗](https://open.spotify.com/artist/45ts2AJTWlzJ9JrQlCGxpX) |
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebf113c063e071771545263b9a" alt="" width="50" /> | [London Symphony Orchestra](../../artists/london_symphony_orchestra.md) | [🔗](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) |
+| 27 | <img src="https://i.scdn.co/image/463e3c5c3e814761532f554913cf2af456bcba59" alt="" width="50" /> | Sergei Rachmaninoff | [🔗](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51) |
+| 24 | <img src="https://i.scdn.co/image/1b640748181bdba8cc37a0a6ee5148c27b374d4e" alt="" width="50" /> | Eldar Nebolsin | [🔗](https://open.spotify.com/artist/45ts2AJTWlzJ9JrQlCGxpX) |
+| 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebf113c063e071771545263b9a" alt="" width="50" /> | London Symphony Orchestra | [🔗](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2738e6adfe4421d106633abde7b" alt="" width="50" /> | Michael Francis | [🔗](https://open.spotify.com/artist/4znpeZQkiPbcXtHlRbfTqF) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fcfc4662d94dad49e635eaf" alt="" width="50" /> | Valentina Lisitsa | [🔗](https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca) |
 
@@ -68,10 +68,10 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 27 | [ukrainian classical](../../genres/ukrainian_classical.md) |
-| 27 | [russian romanticism](../../genres/russian_romanticism.md) |
-| 27 | [post-romantic era](../../genres/post_romantic_era.md) |
-| 27 | [classical](../../genres/classical.md) |
+| 27 | ukrainian classical |
+| 27 | russian romanticism |
+| 27 | post-romantic era |
+| 27 | classical |
 
 </details>
 

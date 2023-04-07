@@ -17,32 +17,32 @@
 
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
-| 15 | <img src="https://i.scdn.co/image/ab67616d0000b273a62efdba9c8e430d12e3d0fe" alt="" width="50" /> | [Nikolai Korniev](../../artists/nikolai_korniev.md) | [🔗](https://open.spotify.com/artist/70hS9SnJefkZo2QJwS2VXi) |
-| 15 | <img src="https://i.scdn.co/image/f946eebb053703449d3e862c18ae531ad0bee47d" alt="" width="50" /> | [St.Petersburg Chamber Choir](../../artists/st_petersburg_chamber_choir.md) | [🔗](https://open.spotify.com/artist/46WjEugfIF0rKOewvFiby2) |
-| 15 | <img src="https://i.scdn.co/image/463e3c5c3e814761532f554913cf2af456bcba59" alt="" width="50" /> | [Sergei Rachmaninoff](../../artists/sergei_rachmaninoff.md) | [🔗](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51) |
-| 14 | <img src="https://i.scdn.co/image/ab6761610000e5ebf67fde1740e91a88445d5bdd" alt="" width="50" /> | [Herbert von Karajan](../../artists/herbert_von_karajan.md) | [🔗](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) |
-| 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fa9108c6dadb8c3ec21da88" alt="" width="50" /> | [Wolfgang Amadeus Mozart](../../artists/wolfgang_amadeus_mozart.md) | [🔗](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS) |
-| 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb4bb5eb0860d831455fab32b6" alt="" width="50" /> | [Wiener Philharmoniker](../../artists/wiener_philharmoniker.md) | [🔗](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ) |
-| 12 | <img src="https://i.scdn.co/image/e403106a45cbd0e2ca51e4d1b18b9a587f9177be" alt="" width="50" /> | [Wiener Singverein](../../artists/wiener_singverein.md) | [🔗](https://open.spotify.com/artist/35QSympF887CO8h5eZHme2) |
+| 15 | <img src="https://i.scdn.co/image/ab67616d0000b273a62efdba9c8e430d12e3d0fe" alt="" width="50" /> | Nikolai Korniev | [🔗](https://open.spotify.com/artist/70hS9SnJefkZo2QJwS2VXi) |
+| 15 | <img src="https://i.scdn.co/image/f946eebb053703449d3e862c18ae531ad0bee47d" alt="" width="50" /> | St.Petersburg Chamber Choir | [🔗](https://open.spotify.com/artist/46WjEugfIF0rKOewvFiby2) |
+| 15 | <img src="https://i.scdn.co/image/463e3c5c3e814761532f554913cf2af456bcba59" alt="" width="50" /> | Sergei Rachmaninoff | [🔗](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51) |
+| 14 | <img src="https://i.scdn.co/image/ab6761610000e5ebf67fde1740e91a88445d5bdd" alt="" width="50" /> | Herbert von Karajan | [🔗](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) |
+| 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fa9108c6dadb8c3ec21da88" alt="" width="50" /> | Wolfgang Amadeus Mozart | [🔗](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS) |
+| 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb4bb5eb0860d831455fab32b6" alt="" width="50" /> | Wiener Philharmoniker | [🔗](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ) |
+| 12 | <img src="https://i.scdn.co/image/e403106a45cbd0e2ca51e4d1b18b9a587f9177be" alt="" width="50" /> | Wiener Singverein | [🔗](https://open.spotify.com/artist/35QSympF887CO8h5eZHme2) |
 | 8 | <img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="" width="50" /> | Kühn Mixed Choir | [🔗](https://open.spotify.com/artist/7coad48I6XW2msLS0ms53T) |
 | 8 | <img src="https://i.scdn.co/image/fde9f1407c45f7ff7e6fa92d70b259de19705c09" alt="" width="50" /> | Pavel Kühn | [🔗](https://open.spotify.com/artist/7bzLxD5IZSXMmuuqnZ7MfY) |
 | 8 | <img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="" width="50" /> | Vlasta Mlejnková | [🔗](https://open.spotify.com/artist/775Rkua0PHENjo1sFIyApV) |
 | 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb9e3b99bd6e931e16752305bd" alt="" width="50" /> | Eric Whitacre | [🔗](https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL) |
 | 8 | <img src="https://i.scdn.co/image/017bf244ebfd64277d6ae3b4f2c817884aa96f1a" alt="" width="50" /> | Francis Poulenc | [🔗](https://open.spotify.com/artist/4IAWVxo2fpTBPn6k7GZ3eY) |
 | 8 | <img src="https://i.scdn.co/image/0b5020426f1e073f8c90d7e8e7375bffcbd89c07" alt="" width="50" /> | Eric Whitacre Singers | [🔗](https://open.spotify.com/artist/2tPhboxrWrQ4LxOhWlXAeN) |
-| 7 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8b13e554131116bf311f242" alt="" width="50" /> | [Academy of St. Martin in the Fields](../../artists/academy_of_st__martin_in_the_fields.md) | [🔗](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF) |
-| 7 | <img src="https://i.scdn.co/image/addf4464734979a85ef71a61c421f23a6bc143ae" alt="" width="50" /> | [Sir Neville Marriner](../../artists/sir_neville_marriner.md) | [🔗](https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9) |
+| 7 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8b13e554131116bf311f242" alt="" width="50" /> | Academy of St. Martin in the Fields | [🔗](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF) |
+| 7 | <img src="https://i.scdn.co/image/addf4464734979a85ef71a61c421f23a6bc143ae" alt="" width="50" /> | Sir Neville Marriner | [🔗](https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9) |
 | 7 | <img src="https://i.scdn.co/image/965d539c15af1d86ec4875f05ec21d32414c3e64" alt="" width="50" /> | Gabriel Fauré | [🔗](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO) |
 | 7 | <img src="https://i.scdn.co/image/ab67616d0000b2737a50d536fbc99037cc0a4e0e" alt="" width="50" /> | John Birch | [🔗](https://open.spotify.com/artist/2TFBoJYsuvMuPMOlwXWbaE) |
-| 6 | <img src="https://i.scdn.co/image/3a82b1bfa9beaa82deb0b380a94cb6dc197ee073" alt="" width="50" /> | [Anna Tomowa-Sintow](../../artists/anna_tomowa_sintow.md) | [🔗](https://open.spotify.com/artist/6NSIW1uEq8JZmxEkHMF17c) |
+| 6 | <img src="https://i.scdn.co/image/3a82b1bfa9beaa82deb0b380a94cb6dc197ee073" alt="" width="50" /> | Anna Tomowa-Sintow | [🔗](https://open.spotify.com/artist/6NSIW1uEq8JZmxEkHMF17c) |
 | 6 | <img src="https://i.scdn.co/image/ab67616d0000b273a211c362dbbe1fa986c558c8" alt="" width="50" /> | Academy of St Martin in the Fields Chorus | [🔗](https://open.spotify.com/artist/1GxYERY1PDh1dEuFqvTDa5) |
-| 4 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4536d632bb182e3f82baaaf" alt="" width="50" /> | [The King's Singers](../../artists/the_king_s_singers.md) | [🔗](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) |
+| 4 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4536d632bb182e3f82baaaf" alt="" width="50" /> | The King's Singers | [🔗](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273774a4d3dd9d4fca18fa2180b" alt="" width="50" /> | Helga Muller-Molinari | [🔗](https://open.spotify.com/artist/3s5xNX5n6PAzpusMRhmHbA) |
 | 4 | <img src="https://i.scdn.co/image/a97382fc1e98c5a755daf70d7a9355f673811707" alt="" width="50" /> | Vinson Cole | [🔗](https://open.spotify.com/artist/2j6cP3f3TxyHzcKdWYSm6h) |
 | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273774a4d3dd9d4fca18fa2180b" alt="" width="50" /> | Paata Burchuladze | [🔗](https://open.spotify.com/artist/1JzOJmq9kk0u7OWqzXkBcc) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2734edf9a255990288ccb93490f" alt="" width="50" /> | NDR Chor | [🔗](https://open.spotify.com/artist/7hMAA1N5j1Ynb49NIWO7HV) |
 | 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebb31012b4fbdb04b01943efb2" alt="" width="50" /> | The Choir Of Trinity College, Cambridge | [🔗](https://open.spotify.com/artist/3x8rZy1i6FwWOWKwfRT1Ab) |
-| 3 | <img src="https://i.scdn.co/image/9a7c31f43e22a95f6d3c57baf4f87a3a9d2b93e0" alt="" width="50" /> | [Pyotr Ilyich Tchaikovsky](../../artists/pyotr_ilyich_tchaikovsky.md) | [🔗](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA) |
+| 3 | <img src="https://i.scdn.co/image/9a7c31f43e22a95f6d3c57baf4f87a3a9d2b93e0" alt="" width="50" /> | Pyotr Ilyich Tchaikovsky | [🔗](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA) |
 | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273b89db7f8cbf0611c23dc9ce4" alt="" width="50" /> | Philipp Ahmann | [🔗](https://open.spotify.com/artist/309coOGhdzqXdIRwJH1xUo) |
 | 2 | <img src="https://i.scdn.co/image/7117adc3585d0c275a20343fd6e6d6824e622498" alt="" width="50" /> | Richard Marlow | [🔗](https://open.spotify.com/artist/7rrfp80BJeAa0lpBnNgRNK) |
 | 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb6d81612f113bff8713ef6975" alt="" width="50" /> | Chanticleer | [🔗](https://open.spotify.com/artist/4p6DfIA6NnKmWeRgDJPLT0) |
@@ -137,27 +137,27 @@
 
 | Number of Tracks | Genre |
 |---:|:---|
-| 51 | [classical](../../genres/classical.md) |
-| 22 | [post-romantic era](../../genres/post_romantic_era.md) |
-| 18 | [russian romanticism](../../genres/russian_romanticism.md) |
-| 15 | [ukrainian classical](../../genres/ukrainian_classical.md) |
-| 14 | [classical era](../../genres/classical_era.md) |
+| 51 | classical |
+| 22 | post-romantic era |
+| 18 | russian romanticism |
+| 15 | ukrainian classical |
+| 14 | classical era |
 | 14 | choral |
 | 9 | 21st century classical |
-| 8 | [neoclassicism](../../genres/neoclassicism.md) |
+| 8 | neoclassicism |
 | 8 | contemporary choir |
 | 8 | american 21st century classical |
 | 5 | polyphony |
 | 4 | vocal ensemble |
 | 4 | puirt-a-beul |
-| 4 | [late romantic era](../../genres/late_romantic_era.md) |
-| 4 | [early music](../../genres/early_music.md) |
+| 4 | late romantic era |
+| 4 | early music |
 | 4 | cambridge choir |
 | 4 | british choir |
 | 4 | [a cappella](../../genres/a_cappella.md) |
 | 2 | italian renaissance |
 | 2 | english baroque |
-| 2 | [baroque](../../genres/baroque.md) |
+| 2 | baroque |
 | 1 | nordic contemporary classical |
 | 1 | early music choir |
 | 1 | classical organ |

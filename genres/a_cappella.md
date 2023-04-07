@@ -15,14 +15,14 @@
 | Number of Tracks | Art | Artist | 🔗 |
 |---:|:---|:---|:---|
 | 36 | <img src="https://i.scdn.co/image/ab6761610000e5eb1723d33e6837b553b2e512c1" alt="" width="50" /> | [Pentatonix](../artists/pentatonix.md) | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
-| 20 | <img src="https://i.scdn.co/image/ab6761610000e5eb3a9c5b798300322d4bc698f0" alt="" width="50" /> | [Tar Heel Voices](../artists/tar_heel_voices.md) | [🔗](https://open.spotify.com/artist/1apO6pJsV1nwuF2K8sEsDo) |
-| 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebd7125855c1ecfb7680363db7" alt="" width="50" /> | [Ithacappella](../artists/ithacappella.md) | [🔗](https://open.spotify.com/artist/5bPTIGQvxRNjr6wl9yyAct) |
-| 11 | <img src="https://i.scdn.co/image/ab6761610000e5ebc63e900506fdff4b6177f920" alt="" width="50" /> | [The Swingle Singers](../artists/the_swingle_singers.md) | [🔗](https://open.spotify.com/artist/1ZlFYysRdc6YaUH5FkxPl8) |
+| 20 | <img src="https://i.scdn.co/image/ab6761610000e5eb3a9c5b798300322d4bc698f0" alt="" width="50" /> | Tar Heel Voices | [🔗](https://open.spotify.com/artist/1apO6pJsV1nwuF2K8sEsDo) |
+| 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebd7125855c1ecfb7680363db7" alt="" width="50" /> | Ithacappella | [🔗](https://open.spotify.com/artist/5bPTIGQvxRNjr6wl9yyAct) |
+| 11 | <img src="https://i.scdn.co/image/ab6761610000e5ebc63e900506fdff4b6177f920" alt="" width="50" /> | The Swingle Singers | [🔗](https://open.spotify.com/artist/1ZlFYysRdc6YaUH5FkxPl8) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5eb8cb389217e22c8ecb1846122" alt="" width="50" /> | Vanderbilt Melodores | [🔗](https://open.spotify.com/artist/7HkF8fT7TZlrQsjSgWUEXN) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5eb68021119cbab353e2278d4a3" alt="" width="50" /> | The Loreleis | [🔗](https://open.spotify.com/artist/1fqMjreaczGwFmdmG6AvJs) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5eb8c4a9d4a5f8004ad4d0195aa" alt="" width="50" /> | The Nor'easters | [🔗](https://open.spotify.com/artist/1aLfVgwt8eBrpvHcutWmqe) |
 | 9 | <img src="https://i.scdn.co/image/ab6761610000e5eb28d2d9a97a89d4721c2917b2" alt="" width="50" /> | UNC Achordants | [🔗](https://open.spotify.com/artist/1TzZMeOCs4TMYtzgohPMAr) |
-| 7 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4536d632bb182e3f82baaaf" alt="" width="50" /> | [The King's Singers](../artists/the_king_s_singers.md) | [🔗](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) |
+| 7 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4536d632bb182e3f82baaaf" alt="" width="50" /> | The King's Singers | [🔗](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) |
 | 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb78999d4b6fb0847081e2f479" alt="" width="50" /> | SoCal VoCals | [🔗](https://open.spotify.com/artist/5L30XpwHG77eWCZtelTns9) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb616fc063b23c40fc8a91d885" alt="" width="50" /> | Pitch Slapped | [🔗](https://open.spotify.com/artist/7EH7jldX62OIsU1yU1SWE7) |
 | 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb935384f680f653b00bc04c26" alt="" width="50" /> | Voices in Your Head | [🔗](https://open.spotify.com/artist/44v8JgDySt9tkgfV3AWxBJ) |
