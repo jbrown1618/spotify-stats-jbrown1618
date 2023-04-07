@@ -8,49 +8,49 @@ Appears as:
 ## Top Artists
 
 
-
-
 <details>
 <summary>See all 1 artists</summary>
 
-| Number of Tracks | Art | Artist | 🔗 |
-|---:|:---|:---|:---|
-| 16 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b2621bf3c5f2197ee957582" alt="" width="50" /> | [The Tarpeggios](../artists/the_tarpeggios.md) | [🔗](https://open.spotify.com/artist/2HXd5pFHJyaQJr5aXfErrE) |
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4b2621bf3c5f2197ee957582" alt="" width="50" /> | 16 | 13 | [The Tarpeggios](../artists/the_tarpeggios.md) | [🔗](https://open.spotify.com/artist/2HXd5pFHJyaQJr5aXfErrE) |
 
 </details>
 
 
-## Top Albums
 
-![Bar chart of top 5 albums](../images/labels/the_tarpeggios/albums.png)
+
+## Top Albums
 
 
 <details>
 <summary>See all 5 albums</summary>
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 7 | <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | Carolina State of Mind | 2013-11-15 | [🔗](https://open.spotify.com/album/3zKusinRVxdC5s2wOPYBgX) |
-| 5 | <img src="https://i.scdn.co/image/ab67616d0000b273fc82939fb76760e640d7edca" alt="" width="50" /> | Homeward | 2022-04-08 | [🔗](https://open.spotify.com/album/2FiDSelqVoi7VQfpmaMRJK) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b27322f75e45afe2febb7d3f4cac" alt="" width="50" /> | Immaterial | 2021-07-16 | [🔗](https://open.spotify.com/album/5YgtPHMCi4dGtL6JarEGkI) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27362f44cdb37183a309fc1032f" alt="" width="50" /> | G Train | 2019-11-22 | [🔗](https://open.spotify.com/album/0vmio1Hc8vrU7scyVa6BYK) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273e443608c9f1cf2fdb6c36d37" alt="" width="50" /> | Before He Cheats | 2019-10-22 | [🔗](https://open.spotify.com/album/7bndGIMX7IOBjG3J7O0BEQ) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | 7 | 6 | Carolina State of Mind | 2013-11-15 | [🔗](https://open.spotify.com/album/3zKusinRVxdC5s2wOPYBgX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fc82939fb76760e640d7edca" alt="" width="50" /> | 5 | 4 | Homeward | 2022-04-08 | [🔗](https://open.spotify.com/album/2FiDSelqVoi7VQfpmaMRJK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27322f75e45afe2febb7d3f4cac" alt="" width="50" /> | 2 | 2 | Immaterial | 2021-07-16 | [🔗](https://open.spotify.com/album/5YgtPHMCi4dGtL6JarEGkI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27362f44cdb37183a309fc1032f" alt="" width="50" /> | 1 | 1 | G Train | 2019-11-22 | [🔗](https://open.spotify.com/album/0vmio1Hc8vrU7scyVa6BYK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e443608c9f1cf2fdb6c36d37" alt="" width="50" /> | 1 | 0 | Before He Cheats | 2019-10-22 | [🔗](https://open.spotify.com/album/7bndGIMX7IOBjG3J7O0BEQ) |
 
 </details>
 
 
+![Bar chart of top 5 albums](../images/labels/the_tarpeggios/albums.png)
+
 ## Genres
-
-
 
 
 <details>
 <summary>See all 0 genres</summary>
 
-| Number of Tracks | Genre |
-|---|---|
+| Tracks | 💚 | Genre |
+|---|---|---|
 
 </details>
+
+
 
 
 ## Tracks released under The Tarpeggios

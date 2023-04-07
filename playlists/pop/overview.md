@@ -3,469 +3,467 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="Pop" width="100" />
 
-[373 songs](tracks.md)
+[373 songs (276 liked)](tracks.md)
 
 ## Top Artists
-
-![Bar chart of top 30 artists](../../images/playlists/pop/artists.png)
-
-![Comparison of Artist](../../images/playlists/pop/artists_comparison.png)
 
 
 <details>
 <summary>See top 100 artists</summary>
 
-| Number of Tracks | Art | Artist | 🔗 |
-|---:|:---|:---|:---|
-| 51 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | [Taylor Swift](../../artists/taylor_swift.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
-| 25 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../../artists/ariana_grande.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
-| 15 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | [Rihanna](../../artists/rihanna.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
-| 13 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
-| 13 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../../artists/lady_gaga.md) | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
-| 12 | <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | [Dua Lipa](../../artists/dua_lipa.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
-| 12 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../../artists/bruno_mars.md) | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
-| 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb727a2ac15afe659be999beba" alt="" width="50" /> | Doja Cat | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
-| 8 | <img src="https://i.scdn.co/image/ab6761610000e5ebec40474426f4401a4203dc9f" alt="" width="50" /> | Sia | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
-| 8 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | Camila Cabello | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
-| 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e7e6ded87a4e0f65b5afcec" alt="" width="50" /> | Britney Spears | [🔗](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) |
-| 7 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc9dcb7e4a97b4552e1224d6" alt="" width="50" /> | Katy Perry | [🔗](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) |
-| 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | Adele | [🔗](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) |
-| 7 | <img src="https://i.scdn.co/image/ab6761610000e5eb654972693e0efed3f3f4d090" alt="" width="50" /> | Jason Derulo | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
-| 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb1dc61a0a0612dff3df110ce2" alt="" width="50" /> | Janelle Monáe | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
-| 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410" alt="" width="50" /> | Clean Bandit | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
-| 5 | <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
-| 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb7e8110a92ec2252f0821f8b8" alt="" width="50" /> | Miley Cyrus | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
-| 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | Coldplay | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
-| 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | Justin Bieber | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
-| 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | Nicki Minaj | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
-| 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb854b6139b96beb6dbc398e06" alt="" width="50" /> | Ellie Goulding | [🔗](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) |
-| 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb288ac05481cedc5bddb5b11b" alt="" width="50" /> | Maroon 5 | [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) |
-| 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb46e7a06fa6dfefaed6a3f0db" alt="" width="50" /> | Shawn Mendes | [🔗](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) |
-| 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e2e2c78de847c4d9b12d32f" alt="" width="50" /> | Charlie Puth | [🔗](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) |
-| 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c" alt="" width="50" /> | Amy Winehouse | [🔗](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) |
-| 4 | <img src="https://i.scdn.co/image/ab6761610000e5ebf7db7c8ede90a019c54590bb" alt="" width="50" /> | Harry Styles | [🔗](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) |
-| 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb20f403024d10bdf47bc00194" alt="" width="50" /> | Backstreet Boys | [🔗](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) |
-| 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../../artists/sara_bareilles.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
-| 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb84813d8e6a3154717e618140" alt="" width="50" /> | Usher | [🔗](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) |
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb37bff6aa1d42bede9048750f" alt="" width="50" /> | Calvin Harris | [🔗](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) |
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb6659b1cb61936bd7bcb229a2" alt="" width="50" /> | Demi Lovato | [🔗](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) |
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebaed3c717bf1753ab928ea88d" alt="" width="50" /> | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8079989370c50963b60ee7bc" alt="" width="50" /> | CeeLo Green | [🔗](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) |
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebabe53b210d382c4c450d7709" alt="" width="50" /> | MIKA | [🔗](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) |
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eba7bfd7835b5c1eee0c95fa6e" alt="" width="50" /> | Daft Punk | [🔗](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) |
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8c2332e6c0ed96d144a91b3f" alt="" width="50" /> | Cardi B | [🔗](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) |
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | [🔗](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) |
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb08cd53940cbf5813ee5fe565" alt="" width="50" /> | Little Mix | [🔗](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) |
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | Jessie J | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebb5f9e28219c169fd4b9e8379" alt="" width="50" /> | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebee954a3b5418065c2fe253fb" alt="" width="50" /> | Olivia Rodrigo | [🔗](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) |
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bbad89a61061304ec842588" alt="" width="50" /> | P!nk | [🔗](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd66f1e0c883f319443d68c45" alt="" width="50" /> | Lil Nas X | [🔗](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eba5fc004270bdfc9fee7f55f4" alt="" width="50" /> | Jon McLaughlin | [🔗](https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7) |
-| 2 | <img src="https://i.scdn.co/image/ab6772690000c46ca3ebb27ba9a55044f32af6e1" alt="" width="50" /> | Silk Sonic | [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) |
-| 2 | <img src="https://i.scdn.co/image/c56cf0cc89c8ecfec7145cf065ea2006d0706605" alt="" width="50" /> | *NSYNC | [🔗](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | Iggy Azalea | [🔗](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | B.o.B | [🔗](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | Juicy J | [🔗](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb77bf00f67e21f514dc44c485" alt="" width="50" /> | OneRepublic | [🔗](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf91c2e559a5a8233d3b35fb1" alt="" width="50" /> | Tyga | [🔗](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5af53f295e6c42529fbd0873" alt="" width="50" /> | Lauv | [🔗](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb0d66b3670294bf801847dae2" alt="" width="50" /> | Lizzo | [🔗](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb920dc1f617550de8388f368e" alt="" width="50" /> | Imagine Dragons | [🔗](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb66b27eccb69756f8eceabc23" alt="" width="50" /> | Glass Animals | [🔗](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ace68c56849548db7f102be" alt="" width="50" /> | DaBaby | [🔗](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | Jason Mraz | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | [BLACKPINK](../../artists/blackpink.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496" alt="" width="50" /> | Anderson .Paak | [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb196972172c37d934d9ca8093" alt="" width="50" /> | Twenty One Pilots | [🔗](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../../artists/bts.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb60c3e9abe7327c0097738f22" alt="" width="50" /> | Sean Paul | [🔗](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bb5ab9683125fc416c9dbfb" alt="" width="50" /> | Zedd | [🔗](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a" alt="" width="50" /> | Hozier | [🔗](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb576cb43281160e345f728b71" alt="" width="50" /> | Charli XCX | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf99727ed9dbe47a59126e17e" alt="" width="50" /> | Daniel Caesar | [🔗](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5acb3cb0a8b87d3952738b97" alt="" width="50" /> | Fifth Harmony | [🔗](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | Christina Aguilera | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb7926088433d79485da5e1734" alt="" width="50" /> | Mabel | [🔗](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebeccc1cde8e9fdcf1c9289897" alt="" width="50" /> | Niall Horan | [🔗](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | [Michael Bublé](../../artists/michael_bubl_.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bebfdee4c4cfea3473a51ab" alt="" width="50" /> | Megan Thee Stallion | [🔗](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb8f15a8916c7388aa8c5a896b" alt="" width="50" /> | JVKE | [🔗](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc4902f080d3620b3e6da80c3" alt="" width="50" /> | Lorde | [🔗](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb284894d68fe2f80cad555110" alt="" width="50" /> | Shakira | [🔗](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eba5205abffd84341e5bace828" alt="" width="50" /> | Selena Gomez | [🔗](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9236c8060febc7d7fc7ea8c4" alt="" width="50" /> | Rachael Yamagata | [🔗](https://open.spotify.com/artist/7w0qj2HiAPIeUcoPogvOZ6) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7eb7f6371aad8e67e01f0a03" alt="" width="50" /> | SZA | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eba12641edfc4ffbbdf58f7d15" alt="" width="50" /> | Lil Jon | [🔗](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb78b9bf3dfa09b90ec0aac135" alt="" width="50" /> | half•alive | [🔗](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a398209a4ef3360dce2dec4" alt="" width="50" /> | Snoop Dogg | [🔗](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7e7ecd82666723f21b789734" alt="" width="50" /> | Jonas Brothers | [🔗](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c44e078944196a8c1eec256" alt="" width="50" /> | Colby O'Donis | [🔗](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9dde4a54073dbd58fb91c7d" alt="" width="50" /> | Ty Dolla $ign | [🔗](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | Hwa Sa | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebad53e714cc3481bd069bfc93" alt="" width="50" /> | Wyclef Jean | [🔗](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9bbbc124c9f0f75af892d97d" alt="" width="50" /> | Christina Perri | [🔗](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) |
-| 1 | <img src="https://i.scdn.co/image/cdc8cf94774db4f0066ca1f90eb3fda45955a420" alt="" width="50" /> | Freshlyground | [🔗](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) |
-| 1 | <img src="https://i.scdn.co/image/5c8d57d92825466637905f0d4219064cb39333e9" alt="" width="50" /> | André 3000 | [🔗](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb292575f7d081016e04dff9ee" alt="" width="50" /> | The Pussycat Dolls | [🔗](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | [Beyoncé](../../artists/beyonc_.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb358577f183465ae7698a53a7" alt="" width="50" /> | Carly Rae Jepsen | [🔗](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb41bf7454f88cccfe6677b2c0" alt="" width="50" /> | H 3 F | [🔗](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4765d540a1ebedeb7c9637a2" alt="" width="50" /> | [Kimbra](../../artists/kimbra.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe32a61d17ecbe732a99d6d92" alt="" width="50" /> | 24kGoldn | [🔗](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9bc0756eb16b241111bbc72b" alt="" width="50" /> | Colbie Caillat | [🔗](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb90a228bbe264818694c54834" alt="" width="50" /> | Ally Brooke | [🔗](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1fd54eb6e30d0bc8f633621e" alt="" width="50" /> | Machine Gun Kelly | [🔗](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) |
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | 51 | 31 | [Taylor Swift](../../artists/taylor_swift.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | 25 | 16 | [Ariana Grande](../../artists/ariana_grande.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 15 | 13 | [Rihanna](../../artists/rihanna.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | 13 | 11 | [Billie Eilish](../../artists/billie_eilish.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | 13 | 9 | [Lady Gaga](../../artists/lady_gaga.md) | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | 12 | 10 | [Bruno Mars](../../artists/bruno_mars.md) | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | 12 | 6 | [Dua Lipa](../../artists/dua_lipa.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebec40474426f4401a4203dc9f" alt="" width="50" /> | 8 | 8 | Sia | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | 8 | 7 | Camila Cabello | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb727a2ac15afe659be999beba" alt="" width="50" /> | 8 | 6 | Doja Cat | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4e7e6ded87a4e0f65b5afcec" alt="" width="50" /> | 8 | 4 | Britney Spears | [🔗](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb654972693e0efed3f3f4d090" alt="" width="50" /> | 7 | 7 | Jason Derulo | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebdc9dcb7e4a97b4552e1224d6" alt="" width="50" /> | 7 | 5 | Katy Perry | [🔗](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | 7 | 3 | Adele | [🔗](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1dc61a0a0612dff3df110ce2" alt="" width="50" /> | 5 | 5 | Janelle Monáe | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410" alt="" width="50" /> | 5 | 5 | Clean Bandit | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | 5 | 5 | Coldplay | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | 5 | 5 | Nicki Minaj | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb288ac05481cedc5bddb5b11b" alt="" width="50" /> | 5 | 5 | Maroon 5 | [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | 5 | 4 | Justin Bieber | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | 5 | 3 | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb854b6139b96beb6dbc398e06" alt="" width="50" /> | 5 | 3 | Ellie Goulding | [🔗](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7e8110a92ec2252f0821f8b8" alt="" width="50" /> | 5 | 2 | Miley Cyrus | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 4 | 4 | [Sara Bareilles](../../artists/sara_bareilles.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4e2e2c78de847c4d9b12d32f" alt="" width="50" /> | 4 | 3 | Charlie Puth | [🔗](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c" alt="" width="50" /> | 4 | 3 | Amy Winehouse | [🔗](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf7db7c8ede90a019c54590bb" alt="" width="50" /> | 4 | 3 | Harry Styles | [🔗](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb46e7a06fa6dfefaed6a3f0db" alt="" width="50" /> | 4 | 2 | Shawn Mendes | [🔗](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb20f403024d10bdf47bc00194" alt="" width="50" /> | 4 | 2 | Backstreet Boys | [🔗](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb84813d8e6a3154717e618140" alt="" width="50" /> | 4 | 2 | Usher | [🔗](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8079989370c50963b60ee7bc" alt="" width="50" /> | 3 | 3 | CeeLo Green | [🔗](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebabe53b210d382c4c450d7709" alt="" width="50" /> | 3 | 3 | MIKA | [🔗](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8c2332e6c0ed96d144a91b3f" alt="" width="50" /> | 3 | 3 | Cardi B | [🔗](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb08cd53940cbf5813ee5fe565" alt="" width="50" /> | 3 | 3 | Little Mix | [🔗](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | 3 | 3 | Jessie J | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebee954a3b5418065c2fe253fb" alt="" width="50" /> | 3 | 3 | Olivia Rodrigo | [🔗](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6659b1cb61936bd7bcb229a2" alt="" width="50" /> | 3 | 2 | Demi Lovato | [🔗](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebaed3c717bf1753ab928ea88d" alt="" width="50" /> | 3 | 2 | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba7bfd7835b5c1eee0c95fa6e" alt="" width="50" /> | 3 | 2 | Daft Punk | [🔗](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | 3 | 2 | Mark Ronson | [🔗](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb5f9e28219c169fd4b9e8379" alt="" width="50" /> | 3 | 2 | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7bbad89a61061304ec842588" alt="" width="50" /> | 3 | 2 | P!nk | [🔗](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb37bff6aa1d42bede9048750f" alt="" width="50" /> | 3 | 1 | Calvin Harris | [🔗](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | 3 | 1 | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
+| <img src="https://i.scdn.co/image/c56cf0cc89c8ecfec7145cf065ea2006d0706605" alt="" width="50" /> | 2 | 2 | *NSYNC | [🔗](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | 2 | 2 | Iggy Azalea | [🔗](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | 2 | 2 | B.o.B | [🔗](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb77bf00f67e21f514dc44c485" alt="" width="50" /> | 2 | 2 | OneRepublic | [🔗](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf91c2e559a5a8233d3b35fb1" alt="" width="50" /> | 2 | 2 | Tyga | [🔗](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5af53f295e6c42529fbd0873" alt="" width="50" /> | 2 | 2 | Lauv | [🔗](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0d66b3670294bf801847dae2" alt="" width="50" /> | 2 | 2 | Lizzo | [🔗](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb920dc1f617550de8388f368e" alt="" width="50" /> | 2 | 2 | Imagine Dragons | [🔗](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5ace68c56849548db7f102be" alt="" width="50" /> | 2 | 2 | DaBaby | [🔗](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | 2 | 2 | Jason Mraz | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 2 | 2 | [BLACKPINK](../../artists/blackpink.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb196972172c37d934d9ca8093" alt="" width="50" /> | 2 | 2 | Twenty One Pilots | [🔗](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | 2 | 2 | [BTS](../../artists/bts.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb60c3e9abe7327c0097738f22" alt="" width="50" /> | 2 | 2 | Sean Paul | [🔗](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a" alt="" width="50" /> | 2 | 2 | Hozier | [🔗](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | 2 | 2 | Christina Aguilera | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7926088433d79485da5e1734" alt="" width="50" /> | 2 | 2 | Mabel | [🔗](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebeccc1cde8e9fdcf1c9289897" alt="" width="50" /> | 2 | 2 | Niall Horan | [🔗](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | 2 | 2 | [Michael Bublé](../../artists/michael_bubl_.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc4902f080d3620b3e6da80c3" alt="" width="50" /> | 2 | 2 | Lorde | [🔗](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb284894d68fe2f80cad555110" alt="" width="50" /> | 2 | 2 | Shakira | [🔗](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd66f1e0c883f319443d68c45" alt="" width="50" /> | 2 | 1 | Lil Nas X | [🔗](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba5fc004270bdfc9fee7f55f4" alt="" width="50" /> | 2 | 1 | Jon McLaughlin | [🔗](https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7) |
+| <img src="https://i.scdn.co/image/ab6772690000c46ca3ebb27ba9a55044f32af6e1" alt="" width="50" /> | 2 | 1 | Silk Sonic | [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | 2 | 1 | Juicy J | [🔗](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb66b27eccb69756f8eceabc23" alt="" width="50" /> | 2 | 1 | Glass Animals | [🔗](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496" alt="" width="50" /> | 2 | 1 | Anderson .Paak | [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7bb5ab9683125fc416c9dbfb" alt="" width="50" /> | 2 | 1 | Zedd | [🔗](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb576cb43281160e345f728b71" alt="" width="50" /> | 2 | 1 | Charli XCX | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf99727ed9dbe47a59126e17e" alt="" width="50" /> | 2 | 1 | Daniel Caesar | [🔗](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5acb3cb0a8b87d3952738b97" alt="" width="50" /> | 2 | 1 | Fifth Harmony | [🔗](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5bebfdee4c4cfea3473a51ab" alt="" width="50" /> | 2 | 1 | Megan Thee Stallion | [🔗](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba5205abffd84341e5bace828" alt="" width="50" /> | 2 | 1 | Selena Gomez | [🔗](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8f15a8916c7388aa8c5a896b" alt="" width="50" /> | 2 | 0 | JVKE | [🔗](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7eb7f6371aad8e67e01f0a03" alt="" width="50" /> | 1 | 1 | SZA | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb78b9bf3dfa09b90ec0aac135" alt="" width="50" /> | 1 | 1 | half•alive | [🔗](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9a398209a4ef3360dce2dec4" alt="" width="50" /> | 1 | 1 | Snoop Dogg | [🔗](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7e7ecd82666723f21b789734" alt="" width="50" /> | 1 | 1 | Jonas Brothers | [🔗](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2c44e078944196a8c1eec256" alt="" width="50" /> | 1 | 1 | Colby O'Donis | [🔗](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd9dde4a54073dbd58fb91c7d" alt="" width="50" /> | 1 | 1 | Ty Dolla $ign | [🔗](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | 1 | 1 | Hwa Sa | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebad53e714cc3481bd069bfc93" alt="" width="50" /> | 1 | 1 | Wyclef Jean | [🔗](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) |
+| <img src="https://i.scdn.co/image/cdc8cf94774db4f0066ca1f90eb3fda45955a420" alt="" width="50" /> | 1 | 1 | Freshlyground | [🔗](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) |
+| <img src="https://i.scdn.co/image/5c8d57d92825466637905f0d4219064cb39333e9" alt="" width="50" /> | 1 | 1 | André 3000 | [🔗](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb292575f7d081016e04dff9ee" alt="" width="50" /> | 1 | 1 | The Pussycat Dolls | [🔗](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | 1 | 1 | [Beyoncé](../../artists/beyonc_.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb41bf7454f88cccfe6677b2c0" alt="" width="50" /> | 1 | 1 | H 3 F | [🔗](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4765d540a1ebedeb7c9637a2" alt="" width="50" /> | 1 | 1 | [Kimbra](../../artists/kimbra.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe32a61d17ecbe732a99d6d92" alt="" width="50" /> | 1 | 1 | 24kGoldn | [🔗](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9bc0756eb16b241111bbc72b" alt="" width="50" /> | 1 | 1 | Colbie Caillat | [🔗](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb90a228bbe264818694c54834" alt="" width="50" /> | 1 | 1 | Ally Brooke | [🔗](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1fd54eb6e30d0bc8f633621e" alt="" width="50" /> | 1 | 1 | Machine Gun Kelly | [🔗](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb31072db9da0311ecfabe96bf" alt="" width="50" /> | 1 | 1 | Khalid | [🔗](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf271138f95fbe8188d909d50" alt="" width="50" /> | 1 | 1 | Kesha | [🔗](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb15a85a7957cac2c370e713ab" alt="" width="50" /> | 1 | 1 | Kid Ink | [🔗](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebdc3e907a4fb48f1ad94f5699" alt="" width="50" /> | 1 | 1 | The Womack Sisters | [🔗](https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s) |
 
 </details>
 
 
-## Top Albums
+![Bar chart of top 30 artists](../../images/playlists/pop/artists.png)
 
-![Bar chart of top 30 albums](../../images/playlists/pop/albums.png)
+![Comparison of Artist](../../images/playlists/pop/artists_comparison.png)
+
+## Top Albums
 
 
 <details>
 <summary>See top 100 albums</summary>
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 10 | <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | reputation | 2017-11-10 | [🔗](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) |
-| 10 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | folklore | 2020-07-24 | [🔗](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) |
-| 8 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Lover | 2019-08-23 | [🔗](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) |
-| 8 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="" width="50" /> | 1989 | 2014-10-27 | [🔗](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) |
-| 7 | <img src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" alt="" width="50" /> | Future Nostalgia | 2020-03-27 | [🔗](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) |
-| 5 | <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | 2019-03-29 | [🔗](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) |
-| 5 | <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | My Everything (Deluxe) | 2014-08-25 | [🔗](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) |
-| 4 | <img src="https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8" alt="" width="50" /> | thank u, next | 2019-02-08 | [🔗](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) |
-| 4 | <img src="https://i.scdn.co/image/ab67616d0000b273754b2fddebe7039fdb912837" alt="" width="50" /> | This Is Acting (Deluxe Version) | 2016-10-21 | [🔗](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) |
-| 4 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | The Fame | 2008-01-01 | [🔗](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) |
-| 4 | <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | Teenage Dream | 2010-01-01 | [🔗](https://open.spotify.com/album/3BoUxfC7YhxNq3TpOfnRif) |
-| 4 | <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | Red | 2012-10-22 | [🔗](https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5) |
-| 4 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Good Girl Gone Bad: Reloaded | 2008-06-02 | [🔗](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) |
-| 4 | <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="" width="50" /> | Dangerous Woman | 2016-05-20 | [🔗](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) |
-| 4 | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | 21 | 2011-01-24 | [🔗](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) |
-| 4 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | 1000 Forms Of Fear (Deluxe Version) | 2015-05-04 | [🔗](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="" width="50" /> | Unapologetic (Deluxe) | 2012-12-11 | [🔗](https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Romance | 2019-12-06 | [🔗](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605" alt="" width="50" /> | Positions | 2020-10-30 | [🔗](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" alt="" width="50" /> | Planet Her | 2021-06-25 | [🔗](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" alt="" width="50" /> | Millennium | 1999-05-18 | [🔗](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9a3105ad4ffb91ad2e2798" alt="" width="50" /> | Life in Cartoon Motion | 2007-02-05 | [🔗](https://open.spotify.com/album/4wKkXYJXQWDa9sndBSx0gI) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="" width="50" /> | Happier Than Ever | 2021-07-30 | [🔗](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a" alt="" width="50" /> | Fine Line | 2019-12-13 | [🔗](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | Fearless | 2008-11-11 | [🔗](https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Camila | 2018-01-12 | [🔗](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="" width="50" /> | 24K Magic | 2016-11-17 | [🔗](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be" alt="" width="50" /> | evermore | 2020-12-11 | [🔗](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2734bb9f35da9ff34b1e2314d8e" alt="" width="50" /> | Yours Truly | 2013-01-01 | [🔗](https://open.spotify.com/album/5xSvNPstcxHtR4ap2vvN8A) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2739900b995cd1a81c35c574ab0" alt="" width="50" /> | Who You Are (Platinum Edition) | 2011-01-01 | [🔗](https://open.spotify.com/album/3ga4adzUpLaS2LDcoqfs2r) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b27337fb0680110fbb107740de5d" alt="" width="50" /> | What Is Love? (Deluxe Edition) | 2018-11-30 | [🔗](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2730f2e51f7121539e221c51161" alt="" width="50" /> | We Sing. We Dance. We Steal Things. | 2008-05-12 | [🔗](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="" width="50" /> | Unorthodox Jukebox | 2012-12-07 | [🔗](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2736f50b3400595b123a916e0dc" alt="" width="50" /> | The Lady Killer | 2010-11-09 | [🔗](https://open.spotify.com/album/3MXU6UoWrf4w4bOvjZTlvY) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="" width="50" /> | The Fame Monster (Deluxe Edition) | 2009-11-05 | [🔗](https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | The Blessed Unrest | 2013-07-16 | [🔗](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef" alt="" width="50" /> | Talk That Talk | 2011-11-19 | [🔗](https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e" alt="" width="50" /> | Talk Dirty | 2013-09-10 | [🔗](https://open.spotify.com/album/4PeZu0It7qVrTG40t3HM9A) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394" alt="" width="50" /> | Sweetener | 2018-08-17 | [🔗](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273e11a75a2f2ff39cec788a015" alt="" width="50" /> | Speak Now | 2010-10-25 | [🔗](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e" alt="" width="50" /> | Songs About Jane: 10th Anniversary Edition | 2002 | [🔗](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b27386b0c9728ad3ed338eaeea79" alt="" width="50" /> | Raymond v Raymond (Expanded Edition) | 2010-03-30 | [🔗](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | Random Access Memories | 2013-05-17 | [🔗](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="" width="50" /> | No Strings Attached | 2000-03-21 | [🔗](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="" width="50" /> | Loud | 2010-11-16 | [🔗](https://open.spotify.com/album/6UHhmTLl9T1scRYLmpHcDX) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273a90401b8d27cd6b5f3a46242" alt="" width="50" /> | Lights | 2011-01-01 | [🔗](https://open.spotify.com/album/3duZhvcaoqdNveQYXf9dMV) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4" alt="" width="50" /> | In The Zone | 2003-11-13 | [🔗](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="" width="50" /> | Hozier (Expanded Edition) | 2014-09-19 | [🔗](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2731764e1a1b94e887206782640" alt="" width="50" /> | Dua Lipa (Complete Edition) | 2018-10-19 | [🔗](https://open.spotify.com/album/0obMz8EHnr3dg6NCUK4xWp) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b27334ef81d1ff3b4682a4e97f70" alt="" width="50" /> | Dreaming Out Loud | 2007-01-01 | [🔗](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="" width="50" /> | Doo-Wops & Hooligans | 2010-10-05 | [🔗](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2730a60fb0deda858270cca82ee" alt="" width="50" /> | Dirty Computer | 2018-04-27 | [🔗](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b27354c6edd554935d73e159e199" alt="" width="50" /> | Circus (Deluxe Version) | 2008-12-02 | [🔗](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | Chromatica | 2020-05-29 | [🔗](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273de03bfc2991fd5bcfde65ba3" alt="" width="50" /> | Blurryface | 2015-05-15 | [🔗](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2738f52f321140e4a76ea720c52" alt="" width="50" /> | Back To Black | 2006-10-27 | [🔗](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342" alt="" width="50" /> | A Star Is Born Soundtrack | 2018-10-05 | [🔗](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="" width="50" /> | A Rush of Blood to the Head | 2002-08-08 | [🔗](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732c0e1e9e1fd1e7b132da1606" alt="" width="50" /> | ~how i'm feeling~ | 2020-03-06 | [🔗](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2730af4476af141051c728ee8b9" alt="" width="50" /> | this is what falling in love feels like (554Hz) | 2022-10-03 | [🔗](https://open.spotify.com/album/2uiQo0DIcriQKVm5ivXuDO) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737bc333ff94bcb174a817e346" alt="" width="50" /> | this is what falling in love feels like | 2021-09-03 | [🔗](https://open.spotify.com/album/61haUqRaA5Et20JVbArrmU) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27355c38bc34d1fe852f2657c2e" alt="" width="50" /> | minor | 2020-07-14 | [🔗](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27326a2f5224465a369f8abbf88" alt="" width="50" /> | lovestrong. | 2011-05-10 | [🔗](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c" alt="" width="50" /> | lovely (with Khalid) | 2018-04-19 | [🔗](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2730f7ad6d8d829906c17cae210" alt="" width="50" /> | hopeless fountain kingdom (Deluxe) | 2017-06-02 | [🔗](https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273670ec029374e082f921f9f74" alt="" width="50" /> | good 4 u | 2021-05-14 | [🔗](https://open.spotify.com/album/3rMjL8NA5Wh2hbMNk2fSlY) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f2248cf6dad1d6c062587249" alt="" width="50" /> | everything i wanted | 2019-11-13 | [🔗](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738ffc294c1c4362e8472d14cd" alt="" width="50" /> | drivers license | 2021-01-08 | [🔗](https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795" alt="" width="50" /> | dont smile at me | 2017-12-22 | [🔗](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735a61e19eaffec620c1899c47" alt="" width="50" /> | deja vu | 2021-04-01 | [🔗](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5" alt="" width="50" /> | channel ORANGE | 2012-07-10 | [🔗](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732ca010dcf3863a07611d8b4f" alt="" width="50" /> | boyfriend | 2019-08-02 | [🔗](https://open.spotify.com/album/3zVB99XMdbP9HTVNg0GJwV) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273748388a726648841ed81027e" alt="" width="50" /> | bloom | 2017-05-12 | [🔗](https://open.spotify.com/album/3yWRq9Dd2UO5xyqxTjLDmp) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737941a79c3108cedb1667b68d" alt="" width="50" /> | bandaids | 2020-03-24 | [🔗](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27341aa6776dc15fbd71a2b4557" alt="" width="50" /> | Youngblood (Deluxe) | 2018-06-15 | [🔗](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731d883d3f10af481faa3c7e04" alt="" width="50" /> | You Don't Know Me | 2016-12-09 | [🔗](https://open.spotify.com/album/3gdmWRWWJmkp5uMBXf755B) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="" width="50" /> | Yoga | 2015-03-31 | [🔗](https://open.spotify.com/album/5rzxGeVyCV74SvV5hjLRAU) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27374b226f1b53ca4902dedce2a" alt="" width="50" /> | Yellow Flicker Beat (From The Hunger Games: Mockingjay Part 1) | 2014-09-30 | [🔗](https://open.spotify.com/album/7sg5iqMiDrM2aJqLAmv83V) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651" alt="" width="50" /> | X&Y | 2005-06-07 | [🔗](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273c70176fa51326491ecc5f79e" alt="" width="50" /> | Who Hurt You? | 2018-10-16 | [🔗](https://open.spotify.com/album/15M9pZ8gsdoN67yLjyQ039) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27398acfa8c055deedc25e6081d" alt="" width="50" /> | When It's Dark Out | 2015-12-04 | [🔗](https://open.spotify.com/album/09Q3WwGYsQe5ognkvVkmCu) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273752d2becbb91841a31c556b8" alt="" width="50" /> | Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground) | 2010-05-07 | [🔗](https://open.spotify.com/album/3pzQF7YgU1f66pBayA8uHv) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="" width="50" /> | WAP (feat. Megan Thee Stallion) | 2020-08-07 | [🔗](https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273897f73256b9128a9d70eaf66" alt="" width="50" /> | Voicenotes | 2018-05-11 | [🔗](https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e" alt="" width="50" /> | Viva La Vida or Death and All His Friends | 2008-05-26 | [🔗](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b63bc9378aa07542c6db43d6" alt="" width="50" /> | Version | 2007-07-10 | [🔗](https://open.spotify.com/album/74ooEOK4jY2ZCWjMK6pYmk) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273442b53773d50e1b5369bb16c" alt="" width="50" /> | V | 2014-09-02 | [🔗](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273e419ccba0baa8bd3f3d7abf2" alt="" width="50" /> | Uptown Special | 2015-01-12 | [🔗](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a935e4689f15953311772cc4" alt="" width="50" /> | Unholy (feat. Kim Petras) | 2022-09-22 | [🔗](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273312bd86cc2db22fde885ee73" alt="" width="50" /> | UN DIA (ONE DAY) (Feat. Tainy) | 2020-07-24 | [🔗](https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273969438a8091085c2472a0766" alt="" width="50" /> | Til It Happens To You | 2015-09-18 | [🔗](https://open.spotify.com/album/00qjYaNSNpQCZHhCpAlH60) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733ec9036a9f7289e924194bec" alt="" width="50" /> | Tick Tock (feat. 24kGoldn) | 2020-08-21 | [🔗](https://open.spotify.com/album/3tuAs968COA2vxKjiLvmxr) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d9aa52355e062f5de060adbf" alt="" width="50" /> | This Is What You Came For | 2016-04-29 | [🔗](https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273c999354430ff7eac3e0d9bc8" alt="" width="50" /> | This Is The End: Original Motion Picture Soundtrack | 2013-06-10 | [🔗](https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27355ef4cc7e56a02c68c3abc0f" alt="" width="50" /> | The Very Best Of "The Archies" | 2007-11-07 | [🔗](https://open.spotify.com/album/7spOTrIPTM8RrMIAhCjLJi) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736096de812d8aa1bd22ab0cf2" alt="" width="50" /> | The Truth About Love | 2012-09-14 | [🔗](https://open.spotify.com/album/0pqKb2y8h2BWS46HMfmEgD) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="" width="50" /> | The Prelude | 2020-07-17 | [🔗](https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2730f79d1616e3b02368d41f458" alt="" width="50" /> | The Pinkprint (Deluxe) | 2014-12-15 | [🔗](https://open.spotify.com/album/5ooCuPIk58IwSo6DRr1JCu) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273120a1366324c2ae1728e17e5" alt="" width="50" /> | The ArchAndroid | 2010-05-17 | [🔗](https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273937af329667311f4b2831616" alt="" width="50" /> | Teenage Dream: The Complete Confection | 2012-03-12 | [🔗](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | 10 | 9 | reputation | 2017-11-10 | [🔗](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | 10 | 6 | folklore | 2020-07-24 | [🔗](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="" width="50" /> | 8 | 7 | 1989 | 2014-10-27 | [🔗](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | 8 | 5 | Lover | 2019-08-23 | [🔗](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" alt="" width="50" /> | 7 | 3 | Future Nostalgia | 2020-03-27 | [🔗](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | 5 | 5 | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | 2019-03-29 | [🔗](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | 5 | 4 | My Everything (Deluxe) | 2014-08-25 | [🔗](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273754b2fddebe7039fdb912837" alt="" width="50" /> | 4 | 4 | This Is Acting (Deluxe Version) | 2016-10-21 | [🔗](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | 4 | 4 | 1000 Forms Of Fear (Deluxe Version) | 2015-05-04 | [🔗](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | 4 | 3 | The Fame | 2008-01-01 | [🔗](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | 4 | 3 | Teenage Dream | 2010-01-01 | [🔗](https://open.spotify.com/album/3BoUxfC7YhxNq3TpOfnRif) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | 4 | 3 | Good Girl Gone Bad: Reloaded | 2008-06-02 | [🔗](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="" width="50" /> | 4 | 3 | Dangerous Woman | 2016-05-20 | [🔗](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8" alt="" width="50" /> | 4 | 2 | thank u, next | 2019-02-08 | [🔗](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | 4 | 2 | Red | 2012-10-22 | [🔗](https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | 4 | 2 | 21 | 2011-01-24 | [🔗](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="" width="50" /> | 3 | 3 | Unapologetic (Deluxe) | 2012-12-11 | [🔗](https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b9a3105ad4ffb91ad2e2798" alt="" width="50" /> | 3 | 3 | Life in Cartoon Motion | 2007-02-05 | [🔗](https://open.spotify.com/album/4wKkXYJXQWDa9sndBSx0gI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | 3 | 3 | Camila | 2018-01-12 | [🔗](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | 3 | 2 | Romance | 2019-12-06 | [🔗](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" alt="" width="50" /> | 3 | 2 | Planet Her | 2021-06-25 | [🔗](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" alt="" width="50" /> | 3 | 2 | Millennium | 1999-05-18 | [🔗](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="" width="50" /> | 3 | 2 | Happier Than Ever | 2021-07-30 | [🔗](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a" alt="" width="50" /> | 3 | 2 | Fine Line | 2019-12-13 | [🔗](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="" width="50" /> | 3 | 2 | 24K Magic | 2016-11-17 | [🔗](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605" alt="" width="50" /> | 3 | 1 | Positions | 2020-10-30 | [🔗](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | 3 | 0 | Fearless | 2008-11-11 | [🔗](https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734bb9f35da9ff34b1e2314d8e" alt="" width="50" /> | 2 | 2 | Yours Truly | 2013-01-01 | [🔗](https://open.spotify.com/album/5xSvNPstcxHtR4ap2vvN8A) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739900b995cd1a81c35c574ab0" alt="" width="50" /> | 2 | 2 | Who You Are (Platinum Edition) | 2011-01-01 | [🔗](https://open.spotify.com/album/3ga4adzUpLaS2LDcoqfs2r) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27337fb0680110fbb107740de5d" alt="" width="50" /> | 2 | 2 | What Is Love? (Deluxe Edition) | 2018-11-30 | [🔗](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730f2e51f7121539e221c51161" alt="" width="50" /> | 2 | 2 | We Sing. We Dance. We Steal Things. | 2008-05-12 | [🔗](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="" width="50" /> | 2 | 2 | Unorthodox Jukebox | 2012-12-07 | [🔗](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f50b3400595b123a916e0dc" alt="" width="50" /> | 2 | 2 | The Lady Killer | 2010-11-09 | [🔗](https://open.spotify.com/album/3MXU6UoWrf4w4bOvjZTlvY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="" width="50" /> | 2 | 2 | The Fame Monster (Deluxe Edition) | 2009-11-05 | [🔗](https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | 2 | 2 | The Blessed Unrest | 2013-07-16 | [🔗](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef" alt="" width="50" /> | 2 | 2 | Talk That Talk | 2011-11-19 | [🔗](https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e" alt="" width="50" /> | 2 | 2 | Talk Dirty | 2013-09-10 | [🔗](https://open.spotify.com/album/4PeZu0It7qVrTG40t3HM9A) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394" alt="" width="50" /> | 2 | 2 | Sweetener | 2018-08-17 | [🔗](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e" alt="" width="50" /> | 2 | 2 | Songs About Jane: 10th Anniversary Edition | 2002 | [🔗](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | 2 | 2 | Random Access Memories | 2013-05-17 | [🔗](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="" width="50" /> | 2 | 2 | No Strings Attached | 2000-03-21 | [🔗](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="" width="50" /> | 2 | 2 | Loud | 2010-11-16 | [🔗](https://open.spotify.com/album/6UHhmTLl9T1scRYLmpHcDX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="" width="50" /> | 2 | 2 | Hozier (Expanded Edition) | 2014-09-19 | [🔗](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731764e1a1b94e887206782640" alt="" width="50" /> | 2 | 2 | Dua Lipa (Complete Edition) | 2018-10-19 | [🔗](https://open.spotify.com/album/0obMz8EHnr3dg6NCUK4xWp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334ef81d1ff3b4682a4e97f70" alt="" width="50" /> | 2 | 2 | Dreaming Out Loud | 2007-01-01 | [🔗](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="" width="50" /> | 2 | 2 | Doo-Wops & Hooligans | 2010-10-05 | [🔗](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730a60fb0deda858270cca82ee" alt="" width="50" /> | 2 | 2 | Dirty Computer | 2018-04-27 | [🔗](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de03bfc2991fd5bcfde65ba3" alt="" width="50" /> | 2 | 2 | Blurryface | 2015-05-15 | [🔗](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738f52f321140e4a76ea720c52" alt="" width="50" /> | 2 | 2 | Back To Black | 2006-10-27 | [🔗](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342" alt="" width="50" /> | 2 | 2 | A Star Is Born Soundtrack | 2018-10-05 | [🔗](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="" width="50" /> | 2 | 2 | A Rush of Blood to the Head | 2002-08-08 | [🔗](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be" alt="" width="50" /> | 2 | 1 | evermore | 2020-12-11 | [🔗](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27386b0c9728ad3ed338eaeea79" alt="" width="50" /> | 2 | 1 | Raymond v Raymond (Expanded Edition) | 2010-03-30 | [🔗](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a90401b8d27cd6b5f3a46242" alt="" width="50" /> | 2 | 1 | Lights | 2011-01-01 | [🔗](https://open.spotify.com/album/3duZhvcaoqdNveQYXf9dMV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4" alt="" width="50" /> | 2 | 1 | In The Zone | 2003-11-13 | [🔗](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | 2 | 1 | Chromatica | 2020-05-29 | [🔗](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e11a75a2f2ff39cec788a015" alt="" width="50" /> | 2 | 0 | Speak Now | 2010-10-25 | [🔗](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354c6edd554935d73e159e199" alt="" width="50" /> | 2 | 0 | Circus (Deluxe Version) | 2008-12-02 | [🔗](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732c0e1e9e1fd1e7b132da1606" alt="" width="50" /> | 1 | 1 | ~how i'm feeling~ | 2020-03-06 | [🔗](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27355c38bc34d1fe852f2657c2e" alt="" width="50" /> | 1 | 1 | minor | 2020-07-14 | [🔗](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c" alt="" width="50" /> | 1 | 1 | lovely (with Khalid) | 2018-04-19 | [🔗](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273670ec029374e082f921f9f74" alt="" width="50" /> | 1 | 1 | good 4 u | 2021-05-14 | [🔗](https://open.spotify.com/album/3rMjL8NA5Wh2hbMNk2fSlY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f2248cf6dad1d6c062587249" alt="" width="50" /> | 1 | 1 | everything i wanted | 2019-11-13 | [🔗](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738ffc294c1c4362e8472d14cd" alt="" width="50" /> | 1 | 1 | drivers license | 2021-01-08 | [🔗](https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795" alt="" width="50" /> | 1 | 1 | dont smile at me | 2017-12-22 | [🔗](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735a61e19eaffec620c1899c47" alt="" width="50" /> | 1 | 1 | deja vu | 2021-04-01 | [🔗](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5" alt="" width="50" /> | 1 | 1 | channel ORANGE | 2012-07-10 | [🔗](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273748388a726648841ed81027e" alt="" width="50" /> | 1 | 1 | bloom | 2017-05-12 | [🔗](https://open.spotify.com/album/3yWRq9Dd2UO5xyqxTjLDmp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27341aa6776dc15fbd71a2b4557" alt="" width="50" /> | 1 | 1 | Youngblood (Deluxe) | 2018-06-15 | [🔗](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="" width="50" /> | 1 | 1 | Yoga | 2015-03-31 | [🔗](https://open.spotify.com/album/5rzxGeVyCV74SvV5hjLRAU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27374b226f1b53ca4902dedce2a" alt="" width="50" /> | 1 | 1 | Yellow Flicker Beat (From The Hunger Games: Mockingjay Part 1) | 2014-09-30 | [🔗](https://open.spotify.com/album/7sg5iqMiDrM2aJqLAmv83V) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651" alt="" width="50" /> | 1 | 1 | X&Y | 2005-06-07 | [🔗](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27398acfa8c055deedc25e6081d" alt="" width="50" /> | 1 | 1 | When It's Dark Out | 2015-12-04 | [🔗](https://open.spotify.com/album/09Q3WwGYsQe5ognkvVkmCu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273752d2becbb91841a31c556b8" alt="" width="50" /> | 1 | 1 | Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground) | 2010-05-07 | [🔗](https://open.spotify.com/album/3pzQF7YgU1f66pBayA8uHv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="" width="50" /> | 1 | 1 | WAP (feat. Megan Thee Stallion) | 2020-08-07 | [🔗](https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273897f73256b9128a9d70eaf66" alt="" width="50" /> | 1 | 1 | Voicenotes | 2018-05-11 | [🔗](https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e" alt="" width="50" /> | 1 | 1 | Viva La Vida or Death and All His Friends | 2008-05-26 | [🔗](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b63bc9378aa07542c6db43d6" alt="" width="50" /> | 1 | 1 | Version | 2007-07-10 | [🔗](https://open.spotify.com/album/74ooEOK4jY2ZCWjMK6pYmk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273442b53773d50e1b5369bb16c" alt="" width="50" /> | 1 | 1 | V | 2014-09-02 | [🔗](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e419ccba0baa8bd3f3d7abf2" alt="" width="50" /> | 1 | 1 | Uptown Special | 2015-01-12 | [🔗](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a935e4689f15953311772cc4" alt="" width="50" /> | 1 | 1 | Unholy (feat. Kim Petras) | 2022-09-22 | [🔗](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733ec9036a9f7289e924194bec" alt="" width="50" /> | 1 | 1 | Tick Tock (feat. 24kGoldn) | 2020-08-21 | [🔗](https://open.spotify.com/album/3tuAs968COA2vxKjiLvmxr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736096de812d8aa1bd22ab0cf2" alt="" width="50" /> | 1 | 1 | The Truth About Love | 2012-09-14 | [🔗](https://open.spotify.com/album/0pqKb2y8h2BWS46HMfmEgD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="" width="50" /> | 1 | 1 | The Prelude | 2020-07-17 | [🔗](https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730f79d1616e3b02368d41f458" alt="" width="50" /> | 1 | 1 | The Pinkprint (Deluxe) | 2014-12-15 | [🔗](https://open.spotify.com/album/5ooCuPIk58IwSo6DRr1JCu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273120a1366324c2ae1728e17e5" alt="" width="50" /> | 1 | 1 | The ArchAndroid | 2010-05-17 | [🔗](https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273937af329667311f4b2831616" alt="" width="50" /> | 1 | 1 | Teenage Dream: The Complete Confection | 2012-03-12 | [🔗](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27364d58f6e7672baecc8972806" alt="" width="50" /> | 1 | 1 | Tattoos (Deluxe Edition) | 2013-09-10 | [🔗](https://open.spotify.com/album/3wDeTllVvayYsWTHsFNWZQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d6522bee68370fa5592301d" alt="" width="50" /> | 1 | 1 | Swalla (feat. Nicki Minaj & Ty Dolla $ign) | 2017-02-23 | [🔗](https://open.spotify.com/album/2e5CxfyEwBW115beiwh7Mc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732babb9dbd8f5146112f1bf86" alt="" width="50" /> | 1 | 1 | Stuck with U | 2020-05-08 | [🔗](https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27361a13426a99fd3500e2fff54" alt="" width="50" /> | 1 | 1 | St. Elsewhere | 2006-05-02 | [🔗](https://open.spotify.com/album/7p2aWivr9OLXocSTTKtG9B) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27317b3850d758fff5a2301e537" alt="" width="50" /> | 1 | 1 | Songs About Jane | 2002-06-25 | [🔗](https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ce94afb9aa5d73f00852a45b" alt="" width="50" /> | 1 | 1 | Somebody Else | 2016-09-09 | [🔗](https://open.spotify.com/album/3Q4yhhyFA2cpZq2FGOgMwU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27367eda217860e86c43481a5cb" alt="" width="50" /> | 1 | 1 | Solo (feat. Demi Lovato) | 2018-05-17 | [🔗](https://open.spotify.com/album/1q7a5wZeti0neU2jDn8Dz3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734fb1446223808a37ba8914b5" alt="" width="50" /> | 1 | 1 | Slow Grenade | 2020-06-30 | [🔗](https://open.spotify.com/album/15Zgvxqql6EPHE3NJlUt0R) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732737be35cc5245eef495be90" alt="" width="50" /> | 1 | 1 | Skyfall | 2012-10-04 | [🔗](https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c3724ff57308e247c99101dd" alt="" width="50" /> | 1 | 1 | Show Me Love (feat. Chance The Rapper, Moses Sumney and Robin Hannibal) [Skrillex Remix] | 2016-03-22 | [🔗](https://open.spotify.com/album/7pPVcx3O9eZrPCgBmpW5HV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e0936633c4c927ac22818e1" alt="" width="50" /> | 1 | 1 | Savage Love (Laxed - Siren Beat) [BTS Remix] | 2020-10-02 | [🔗](https://open.spotify.com/album/5O6izFQ2veRaZOcQSyOi4o) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b3d3d1ba43e085f5ab80e56a" alt="" width="50" /> | 1 | 1 | Salute (Expanded Edition) | 2013-11-11 | [🔗](https://open.spotify.com/album/4cH9WxyfNWlfR257RitWBt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | 1 | 1 | SUGA's Interlude | 2019-12-06 | [🔗](https://open.spotify.com/album/0JfaSjTaej3QB27ofjnbQV) |
 
 </details>
 
 
-## Top Record Labels
+![Bar chart of top 30 albums](../../images/playlists/pop/albums.png)
 
-![Bar chart of top 30 record labels](../../images/playlists/pop/labels.png)
+## Top Record Labels
 
 
 <details>
 <summary>See top 100 labels</summary>
 
-| Number of Tracks | Label |
-|---:|:---|
-| 34 | [Interscope Records](../../labels/interscope_records.md) |
-| 29 | [Big Machine Records](../../labels/big_machine_records.md) |
-| 28 | [RCA Records Label](../../labels/rca_records_label.md) |
-| 25 | [Atlantic Records](../../labels/atlantic_records.md) |
-| 21 | [Taylor Swift](../../labels/taylor_swift.md) |
-| 20 | [Columbia](../../labels/columbia.md) |
-| 18 | [Warner Records](../../labels/warner_records.md) |
-| 17 | [Epic](../../labels/epic.md) |
-| 15 | [Republic Records](../../labels/republic_records.md) |
-| 14 | [Jive](../../labels/jive.md) |
-| 14 | [Def Jam Recordings](../../labels/def_jam_recordings.md) |
-| 13 | [Universal Music LLC](../../labels/universal_music_llc.md) |
-| 13 | [Darkroom](../../labels/darkroom.md) |
-| 12 | [Syco Music](../../labels/syco_music.md) |
-| 10 | [Capitol Records](../../labels/capitol_records.md) |
-| 8 | [Polydor Records](../../labels/polydor_records.md) |
-| 8 | Monkey Puzzle Records |
-| 6 | [XL Recordings](../../labels/xl_recordings.md) |
-| 6 | Island Records |
-| 5 | Kemosabe Records |
-| 5 | Beluga Heights |
-| 5 | Bad Boy |
-| 4 | Atlantic Records UK |
-| 3 | [Universal-Island Records Ltd.](../../labels/universal_island_records_ltd_.md) |
-| 3 | Parlophone UK |
-| 3 | Parlophone Records Limited |
-| 3 | Olivia Rodrigo PS |
-| 3 | LaFace Records |
-| 3 | Island UK |
-| 3 | Fueled By Ramen |
-| 3 | Casablanca Records |
-| 2 | Wondaland |
-| 2 | [Reprise](../../labels/reprise.md) |
-| 2 | Radiculture |
-| 2 | Nicki Minaj |
-| 2 | Nice Life |
-| 2 | Mosley |
-| 2 | Lava Music |
-| 2 | Kid Ina Korner |
-| 2 | KSR |
-| 2 | JVKE |
-| 2 | Island Def Jam |
-| 2 | [Hollywood Records](../../labels/hollywood_records.md) |
-| 2 | Golden Child Recordings |
-| 2 | G.O.O.D. Music |
-| 2 | Elektra (NEK) |
-| 2 | Elektra |
-| 2 | Def Jam |
-| 2 | Cash Money |
-| 2 | Artist Partner |
-| 2 | Aftermath Entertainment |
-| 2 | ATG |
-| 2 | A Star is Born OST |
-| 2 | [143](../../labels/143.md) |
-| 1 | under exclusive license to Interscope Records |
-| 1 | half·alive |
-| 1 | ZAR |
-| 1 | Wolf Tone |
-| 1 | Warner Bros. |
-| 1 | VÉRITÉ |
-| 1 | Universal Republic Records |
-| 1 | Universal Music New Zealand Limited |
-| 1 | Universal Music Latino |
-| 1 | Universal Music Group |
-| 1 | UMLE |
-| 1 | UMG Recordings |
-| 1 | Teleport Records |
-| 1 | Stones Throw Records |
-| 1 | Spinnin' Records |
-| 1 | Sony Music UK |
-| 1 | Silver Cloud |
-| 1 | Silent Records IGA |
-| 1 | Silent Records |
-| 1 | Shawn Mendes LP4-5 PS |
-| 1 | Selena Gomez PS |
-| 1 | Ron Dante |
-| 1 | Roc Nation |
-| 1 | Rihanna |
-| 1 | Red Zone Entertainment |
-| 1 | RVG |
-| 1 | RBMG |
-| 1 | Private Music |
-| 1 | PC Music |
-| 1 | OWSLA |
-| 1 | Nu America Music |
-| 1 | NEON16 |
-| 1 | Mockingjay |
-| 1 | Lauv |
-| 1 | Latium |
-| 1 | Jonas Brothers Recording |
-| 1 | JOYFACE Records |
-| 1 | IDJ |
-| 1 | Hunger Games 3 |
-| 1 | H 3 F |
-| 1 | Gracie Abrams |
-| 1 | Giant Little Man |
-| 1 | Friends Keep Secrets |
-| 1 | Fez's Finest |
-| 1 | FSF |
-| 1 | Epic Amsterdam |
+| Tracks | 💚 | Label |
+|---:|---:|:---|
+| 34 | 28 | [Interscope Records](../../labels/interscope_records.md) |
+| 29 | 19 | [Big Machine Records](../../labels/big_machine_records.md) |
+| 28 | 23 | [RCA Records Label](../../labels/rca_records_label.md) |
+| 25 | 20 | [Atlantic Records](../../labels/atlantic_records.md) |
+| 21 | 12 | [Taylor Swift](../../labels/taylor_swift.md) |
+| 20 | 14 | [Columbia](../../labels/columbia.md) |
+| 18 | 14 | [Warner Records](../../labels/warner_records.md) |
+| 17 | 15 | [Epic](../../labels/epic.md) |
+| 15 | 10 | [Republic Records](../../labels/republic_records.md) |
+| 14 | 13 | [Def Jam Recordings](../../labels/def_jam_recordings.md) |
+| 14 | 10 | [Jive](../../labels/jive.md) |
+| 13 | 11 | [Universal Music LLC](../../labels/universal_music_llc.md) |
+| 13 | 11 | [Darkroom](../../labels/darkroom.md) |
+| 12 | 10 | [Syco Music](../../labels/syco_music.md) |
+| 10 | 8 | [Capitol Records](../../labels/capitol_records.md) |
+| 8 | 8 | Monkey Puzzle Records |
+| 8 | 4 | [Polydor Records](../../labels/polydor_records.md) |
+| 6 | 3 | [XL Recordings](../../labels/xl_recordings.md) |
+| 6 | 3 | Island Records |
+| 5 | 5 | Beluga Heights |
+| 5 | 5 | Bad Boy |
+| 5 | 4 | Kemosabe Records |
+| 4 | 4 | Atlantic Records UK |
+| 3 | 3 | Parlophone Records Limited |
+| 3 | 3 | Olivia Rodrigo PS |
+| 3 | 3 | Island UK |
+| 3 | 3 | Casablanca Records |
+| 3 | 2 | [Universal-Island Records Ltd.](../../labels/universal_island_records_ltd_.md) |
+| 3 | 2 | Parlophone UK |
+| 3 | 2 | Fueled By Ramen |
+| 3 | 1 | LaFace Records |
+| 2 | 2 | Wondaland |
+| 2 | 2 | [Reprise](../../labels/reprise.md) |
+| 2 | 2 | Radiculture |
+| 2 | 2 | Nicki Minaj |
+| 2 | 2 | Nice Life |
+| 2 | 2 | Mosley |
+| 2 | 2 | Lava Music |
+| 2 | 2 | Kid Ina Korner |
+| 2 | 2 | KSR |
+| 2 | 2 | G.O.O.D. Music |
+| 2 | 2 | Elektra (NEK) |
+| 2 | 2 | Elektra |
+| 2 | 2 | Def Jam |
+| 2 | 2 | Cash Money |
+| 2 | 2 | Artist Partner |
+| 2 | 2 | ATG |
+| 2 | 2 | A Star is Born OST |
+| 2 | 2 | [143](../../labels/143.md) |
+| 2 | 1 | Island Def Jam |
+| 2 | 1 | [Hollywood Records](../../labels/hollywood_records.md) |
+| 2 | 1 | Golden Child Recordings |
+| 2 | 1 | Aftermath Entertainment |
+| 2 | 0 | JVKE |
+| 1 | 1 | under exclusive license to Interscope Records |
+| 1 | 1 | half·alive |
+| 1 | 1 | ZAR |
+| 1 | 1 | Wolf Tone |
+| 1 | 1 | VÉRITÉ |
+| 1 | 1 | Universal Music New Zealand Limited |
+| 1 | 1 | UMLE |
+| 1 | 1 | UMG Recordings |
+| 1 | 1 | Teleport Records |
+| 1 | 1 | Spinnin' Records |
+| 1 | 1 | Silent Records |
+| 1 | 1 | Roc Nation |
+| 1 | 1 | Rihanna |
+| 1 | 1 | Red Zone Entertainment |
+| 1 | 1 | RVG |
+| 1 | 1 | RBMG |
+| 1 | 1 | PC Music |
+| 1 | 1 | OWSLA |
+| 1 | 1 | Nu America Music |
+| 1 | 1 | Mockingjay |
+| 1 | 1 | Lauv |
+| 1 | 1 | Latium |
+| 1 | 1 | Jonas Brothers Recording |
+| 1 | 1 | JOYFACE Records |
+| 1 | 1 | IDJ |
+| 1 | 1 | Hunger Games 3 |
+| 1 | 1 | H 3 F |
+| 1 | 1 | Gracie Abrams |
+| 1 | 1 | Giant Little Man |
+| 1 | 1 | Friends Keep Secrets |
+| 1 | 1 | FSF |
+| 1 | 1 | EMPIRE |
+| 1 | 1 | EMI Recorded Music Australia Pty Ltd |
+| 1 | 1 | EMI |
+| 1 | 1 | Downtown Recordings |
+| 1 | 1 | Capitol Records UK |
+| 1 | 1 | Capitol Records (US1A) |
+| 1 | 1 | Big Beat Records |
+| 1 | 1 | Bad Dreams Records |
+| 1 | 1 | BPG |
+| 1 | 1 | Arista |
+| 1 | 1 | Ariana Grande & Justin Bieber "Stuck With U"- Charity |
+| 1 | 1 | Access Records |
+| 1 | 1 | ATL |
+| 1 | 1 | 88rising Music |
+| 1 | 0 | Warner Bros. |
 
 </details>
 
 
-## Genres
+![Bar chart of top 30 record labels](../../images/playlists/pop/labels.png)
 
-![Bar chart of top 30 genres](../../images/playlists/pop/genres.png)
+## Genres
 
 
 <details>
 <summary>See top 100 genres</summary>
 
-| Number of Tracks | Genre |
-|---:|:---|
-| 316 | [pop](../../genres/pop.md) |
-| 188 | [dance pop](../../genres/dance_pop.md) |
-| 44 | [post-teen pop](../../genres/post_teen_pop.md) |
-| 30 | [art pop](../../genres/art_pop.md) |
-| 29 | uk pop |
-| 27 | [electropop](../../genres/electropop.md) |
-| 23 | urban contemporary |
-| 21 | pop rap |
-| 18 | edm |
-| 15 | neo soul |
-| 14 | [neo mellow](../../genres/neo_mellow.md) |
-| 14 | barbadian pop |
-| 12 | atl hip hop |
-| 11 | viral pop |
-| 11 | [r&b](../../genres/r_b.md) |
-| 11 | pop dance |
-| 11 | canadian pop |
-| 11 | british soul |
-| 11 | australian pop |
-| 10 | pop soul |
-| 10 | [pop rock](../../genres/pop_rock.md) |
-| 10 | [acoustic pop](../../genres/acoustic_pop.md) |
-| 9 | tropical house |
-| 9 | metropopolis |
-| 8 | uk dance |
-| 8 | escape room |
-| 8 | boy band |
-| 8 | australian dance |
-| 8 | alternative r&b |
-| 7 | rap |
-| 7 | modern rock |
-| 7 | indietronica |
-| 6 | talent show |
-| 6 | girl group |
-| 5 | uk funky |
-| 5 | [rock](../../genres/rock.md) |
-| 5 | piano rock |
-| 5 | permanent wave |
-| 5 | indie poptimism |
-| 5 | contemporary r&b |
-| 5 | afrofuturism |
-| 4 | south carolina hip hop |
-| 4 | [lilith](../../genres/lilith.md) |
-| 4 | house |
-| 4 | [hollywood](../../genres/hollywood.md) |
-| 4 | hip pop |
-| 4 | europop |
-| 4 | electro house |
-| 4 | canadian contemporary r&b |
-| 3 | progressive house |
-| 3 | nz pop |
-| 3 | modern alternative rock |
-| 3 | lgbtq+ hip hop |
-| 3 | latin pop |
-| 3 | hip hop |
-| 3 | etherpop |
-| 3 | chill r&b |
-| 3 | alt z |
-| 2 | trap queen |
-| 2 | shiver pop |
-| 2 | queens hip hop |
-| 2 | modern indie pop |
-| 2 | minnesota hip hop |
-| 2 | lounge |
-| 2 | jazz pop |
-| 2 | irish singer-songwriter |
-| 2 | indy indie |
-| 2 | indiecoustica |
-| 2 | indie r&b |
-| 2 | indie pop |
-| 2 | gauze pop |
-| 2 | filter house |
-| 2 | electro |
-| 2 | dutch edm |
-| 2 | colombian pop |
-| 2 | alternative hip hop |
-| 2 | [adult standards](../../genres/adult_standards.md) |
-| 1 | wonky |
-| 1 | vapor twitch |
-| 1 | vapor soul |
-| 1 | vapor pop |
-| 1 | urbano latino |
-| 1 | trap |
-| 1 | trance |
-| 1 | thai indie pop |
-| 1 | synth funk |
-| 1 | southern hip hop |
-| 1 | social media pop |
-| 1 | slap house |
-| 1 | reggaeton colombiano |
-| 1 | reggaeton |
-| 1 | puerto rican pop |
-| 1 | proto-hyperpop |
-| 1 | pop punk |
-| 1 | pittsburgh rap |
-| 1 | ohio hip hop |
-| 1 | oakland hip hop |
-| 1 | nyc pop |
-| 1 | neon pop punk |
-| 1 | lafayette indie |
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
+| 317 | 236 | [pop](../../genres/pop.md) |
+| 188 | 136 | [dance pop](../../genres/dance_pop.md) |
+| 44 | 35 | [post-teen pop](../../genres/post_teen_pop.md) |
+| 30 | 24 | [art pop](../../genres/art_pop.md) |
+| 29 | 18 | uk pop |
+| 27 | 22 | [electropop](../../genres/electropop.md) |
+| 23 | 19 | urban contemporary |
+| 21 | 18 | pop rap |
+| 18 | 10 | edm |
+| 16 | 12 | [r&b](../../genres/r_b.md) |
+| 15 | 13 | neo soul |
+| 14 | 13 | barbadian pop |
+| 14 | 11 | [neo mellow](../../genres/neo_mellow.md) |
+| 12 | 10 | atl hip hop |
+| 11 | 11 | australian pop |
+| 11 | 7 | viral pop |
+| 11 | 7 | pop dance |
+| 11 | 7 | canadian pop |
+| 11 | 6 | british soul |
+| 10 | 9 | [pop rock](../../genres/pop_rock.md) |
+| 10 | 8 | [acoustic pop](../../genres/acoustic_pop.md) |
+| 10 | 5 | pop soul |
+| 9 | 7 | tropical house |
+| 9 | 7 | metropopolis |
+| 8 | 8 | escape room |
+| 8 | 8 | australian dance |
+| 8 | 7 | alternative r&b |
+| 8 | 6 | boy band |
+| 8 | 5 | uk dance |
+| 7 | 7 | modern rock |
+| 7 | 6 | rap |
+| 7 | 4 | indietronica |
+| 6 | 5 | talent show |
+| 6 | 5 | girl group |
+| 5 | 5 | uk funky |
+| 5 | 5 | [rock](../../genres/rock.md) |
+| 5 | 5 | permanent wave |
+| 5 | 5 | afrofuturism |
+| 5 | 4 | piano rock |
+| 5 | 3 | indie poptimism |
+| 5 | 3 | contemporary r&b |
+| 5 | 1 | electro house |
+| 4 | 4 | [lilith](../../genres/lilith.md) |
+| 4 | 4 | [hollywood](../../genres/hollywood.md) |
+| 4 | 4 | hip pop |
+| 4 | 4 | europop |
+| 4 | 2 | south carolina hip hop |
+| 4 | 2 | canadian contemporary r&b |
+| 4 | 0 | house |
+| 3 | 3 | nz pop |
+| 3 | 3 | modern alternative rock |
+| 3 | 3 | latin pop |
+| 3 | 3 | alt z |
+| 3 | 2 | lgbtq+ hip hop |
+| 3 | 2 | hip hop |
+| 3 | 2 | chill r&b |
+| 3 | 1 | etherpop |
+| 3 | 0 | progressive house |
+| 2 | 2 | trap queen |
+| 2 | 2 | queens hip hop |
+| 2 | 2 | minnesota hip hop |
+| 2 | 2 | lounge |
+| 2 | 2 | jazz pop |
+| 2 | 2 | irish singer-songwriter |
+| 2 | 2 | indie pop |
+| 2 | 2 | filter house |
+| 2 | 2 | electro |
+| 2 | 2 | colombian pop |
+| 2 | 2 | [adult standards](../../genres/adult_standards.md) |
+| 2 | 1 | shiver pop |
+| 2 | 1 | indy indie |
+| 2 | 1 | indiecoustica |
+| 2 | 1 | indie r&b |
+| 2 | 1 | gauze pop |
+| 2 | 0 | modern indie pop |
+| 2 | 0 | dutch edm |
+| 2 | 0 | alternative hip hop |
+| 1 | 1 | vapor soul |
+| 1 | 1 | vapor pop |
+| 1 | 1 | thai indie pop |
+| 1 | 1 | social media pop |
+| 1 | 1 | puerto rican pop |
+| 1 | 1 | proto-hyperpop |
+| 1 | 1 | ohio hip hop |
+| 1 | 1 | oakland hip hop |
+| 1 | 1 | nyc pop |
+| 1 | 1 | lafayette indie |
+| 1 | 1 | la indie |
+| 1 | 1 | italian pop |
+| 1 | 1 | indie rock italiano |
+| 1 | 1 | indie psych-pop |
+| 1 | 1 | indie pop rap |
+| 1 | 1 | indie electropop |
+| 1 | 1 | hyperpop |
+| 1 | 1 | ghanaian pop |
+| 1 | 1 | ghanaian alternative |
+| 1 | 1 | german techno |
+| 1 | 1 | gainesville indie |
+| 1 | 1 | dark pop |
+| 1 | 1 | complextro |
 
 </details>
 
 
-## Years
+![Bar chart of top 30 genres](../../images/playlists/pop/genres.png)
 
-![Bar chart of number of songs by year](../../images/playlists/pop/years.png)
+## Years
 
 
 <details>
@@ -501,6 +499,8 @@
 
 </details>
 
+
+![Bar chart of number of songs by year](../../images/playlists/pop/years.png)
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|

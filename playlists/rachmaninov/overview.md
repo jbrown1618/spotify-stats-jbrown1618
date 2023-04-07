@@ -3,82 +3,80 @@
 
 <img src="https://i.scdn.co/image/ab67616d0000b2732ab037775757e856d496f2f5" alt="Rachmaninov" width="100" />
 
-[27 songs](tracks.md)
+[27 songs (0 liked)](tracks.md)
 
 ## Top Artists
-
-![Bar chart of top 5 artists](../../images/playlists/rachmaninov/artists.png)
-
-
 
 
 <details>
 <summary>See all 5 artists</summary>
 
-| Number of Tracks | Art | Artist | 🔗 |
-|---:|:---|:---|:---|
-| 27 | <img src="https://i.scdn.co/image/463e3c5c3e814761532f554913cf2af456bcba59" alt="" width="50" /> | Sergei Rachmaninoff | [🔗](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51) |
-| 24 | <img src="https://i.scdn.co/image/1b640748181bdba8cc37a0a6ee5148c27b374d4e" alt="" width="50" /> | Eldar Nebolsin | [🔗](https://open.spotify.com/artist/45ts2AJTWlzJ9JrQlCGxpX) |
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebf113c063e071771545263b9a" alt="" width="50" /> | London Symphony Orchestra | [🔗](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b2738e6adfe4421d106633abde7b" alt="" width="50" /> | Michael Francis | [🔗](https://open.spotify.com/artist/4znpeZQkiPbcXtHlRbfTqF) |
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fcfc4662d94dad49e635eaf" alt="" width="50" /> | Valentina Lisitsa | [🔗](https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca) |
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/463e3c5c3e814761532f554913cf2af456bcba59" alt="" width="50" /> | 27 | 0 | Sergei Rachmaninoff | [🔗](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51) |
+| <img src="https://i.scdn.co/image/1b640748181bdba8cc37a0a6ee5148c27b374d4e" alt="" width="50" /> | 24 | 0 | Eldar Nebolsin | [🔗](https://open.spotify.com/artist/45ts2AJTWlzJ9JrQlCGxpX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf113c063e071771545263b9a" alt="" width="50" /> | 3 | 0 | London Symphony Orchestra | [🔗](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738e6adfe4421d106633abde7b" alt="" width="50" /> | 3 | 0 | Michael Francis | [🔗](https://open.spotify.com/artist/4znpeZQkiPbcXtHlRbfTqF) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0fcfc4662d94dad49e635eaf" alt="" width="50" /> | 3 | 0 | Valentina Lisitsa | [🔗](https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca) |
 
 </details>
+
+
+![Bar chart of top 5 artists](../../images/playlists/rachmaninov/artists.png)
+
 
 
 ## Top Albums
 
 
-
-
 <details>
 <summary>See all 2 albums</summary>
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 24 | <img src="https://i.scdn.co/image/ab67616d0000b2732d2154810a4e4472b4cc199e" alt="" width="50" /> | Rachmaninov: Preludes for Piano (Complete) | 2007-05-29 | [🔗](https://open.spotify.com/album/1vlnwUAidj7bEmRhsq4zTv) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b2738e6adfe4421d106633abde7b" alt="" width="50" /> | Rachmaninov: Piano Concerto No.2 | 2012-01-01 | [🔗](https://open.spotify.com/album/5lVqgXqdoIH3W1wUM2hzPx) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2732d2154810a4e4472b4cc199e" alt="" width="50" /> | 24 | 0 | Rachmaninov: Preludes for Piano (Complete) | 2007-05-29 | [🔗](https://open.spotify.com/album/1vlnwUAidj7bEmRhsq4zTv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738e6adfe4421d106633abde7b" alt="" width="50" /> | 3 | 0 | Rachmaninov: Piano Concerto No.2 | 2012-01-01 | [🔗](https://open.spotify.com/album/5lVqgXqdoIH3W1wUM2hzPx) |
 
 </details>
+
+
 
 
 ## Top Record Labels
 
 
-
-
 <details>
 <summary>See all 2 labels</summary>
 
-| Number of Tracks | Label |
-|---:|:---|
-| 24 | [Naxos](../../labels/naxos.md) |
-| 3 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_.md) |
+| Tracks | 💚 | Label |
+|---:|---:|:---|
+| 24 | 0 | [Naxos](../../labels/naxos.md) |
+| 3 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_.md) |
 
 </details>
 
 
-## Genres
 
-![Bar chart of top 4 genres](../../images/playlists/rachmaninov/genres.png)
+
+## Genres
 
 
 <details>
 <summary>See all 4 genres</summary>
 
-| Number of Tracks | Genre |
-|---:|:---|
-| 27 | ukrainian classical |
-| 27 | russian romanticism |
-| 27 | post-romantic era |
-| 27 | classical |
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
+| 27 | 0 | ukrainian classical |
+| 27 | 0 | russian romanticism |
+| 27 | 0 | post-romantic era |
+| 27 | 0 | classical |
 
 </details>
 
 
+![Bar chart of top 4 genres](../../images/playlists/rachmaninov/genres.png)
+
 ## Years
-
-
 
 
 <details>
@@ -90,6 +88,8 @@
 | [2007](2007.md) | 24 |
 
 </details>
+
+
 
 
 | 5 newest albums | 5 oldest albums |

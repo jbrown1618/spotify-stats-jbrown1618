@@ -15,34 +15,34 @@
 | 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | [Sharon RPD](../playlists/sharon_rpd/overview.md) |
 ## Top Albums
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 10 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | SKZ-REPLAY | 2022-12-21 | [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) |
-| 6 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | NOEASY | 2021-08-23 | [🔗](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) |
-| 5 | <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | ODDINARY | 2022-03-18 | [🔗](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) |
-| 4 | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | MAXIDENT | 2022-10-07 | [🔗](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) |
-| 4 | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | Christmas EveL | 2021-11-29 | [🔗](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273fad8c4176e8df7173479f959" alt="" width="50" /> | GO LIVE | 2020-06-17 | [🔗](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2739f560e8c1cda870ef4eadb43" alt="" width="50" /> | SKZ2020 | 2020-03-18 | [🔗](https://open.spotify.com/album/6QIWJVJPPgAA5c4aIb1zCA) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273703093f86fd5c8bd79500610" alt="" width="50" /> | IN LIFE | 2020-09-14 | [🔗](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733019082a0f673eaa7a5ea3ae" alt="" width="50" /> | There | 2023-02-15 | [🔗](https://open.spotify.com/album/2j8BoKqZrMUYTARDIs9XDk) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27390831ba9ed4aa3b89fd6b81c" alt="" width="50" /> | Street Man Fighter Original Vol.4 (Crew Songs) | 2022-09-20 | [🔗](https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d64e2f339a0a9ea967b308e" alt="" width="50" /> | Step Out of Clé (English Ver.) | 2020-01-24 | [🔗](https://open.spotify.com/album/2BBeNPEEevRiYISKYEnGvc) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273560f17af6665e85575021bae" alt="" width="50" /> | Mixtape : Time Out | 2022-08-01 | [🔗](https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b97341ef9657dd8f4ab794dc" alt="" width="50" /> | Mixtape | 2018-01-08 | [🔗](https://open.spotify.com/album/1kTzTL0iOIE2IAGw83yY4O) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27309f2f03627bf9c7b719a35ff" alt="" width="50" /> | I am WHO | 2018-08-06 | [🔗](https://open.spotify.com/album/2SACeVKmkXeAXHqLDdTU9N) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f6ace3e8860779591c193414" alt="" width="50" /> | I am NOT | 2018-03-26 | [🔗](https://open.spotify.com/album/6xP5hGAHaLArPqF07UYVJL) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273869bb5c720b743357fd402bd" alt="" width="50" /> | Clé 2 : Yellow Wood | 2019-06-19 | [🔗](https://open.spotify.com/album/7a3luOh8mK0q8YsRkNUjrU) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273cbb25c0de45e6a6ded073802" alt="" width="50" /> | Clé 1 : MIROH | 2019-03-25 | [🔗](https://open.spotify.com/album/3s6RbqkTprnGwKpoUSYL00) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d784afd710070b5fe22b99bf" alt="" width="50" /> | CIRCUS | 2022-06-10 | [🔗](https://open.spotify.com/album/4IQHY28D4aHus9lGDlSdPp) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | 10 | 7 | SKZ-REPLAY | 2022-12-21 | [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | 6 | 4 | NOEASY | 2021-08-23 | [🔗](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | 5 | 3 | ODDINARY | 2022-03-18 | [🔗](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | 4 | 2 | MAXIDENT | 2022-10-07 | [🔗](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | 4 | 1 | Christmas EveL | 2021-11-29 | [🔗](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fad8c4176e8df7173479f959" alt="" width="50" /> | 3 | 1 | GO LIVE | 2020-06-17 | [🔗](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273703093f86fd5c8bd79500610" alt="" width="50" /> | 2 | 2 | IN LIFE | 2020-09-14 | [🔗](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739f560e8c1cda870ef4eadb43" alt="" width="50" /> | 2 | 0 | SKZ2020 | 2020-03-18 | [🔗](https://open.spotify.com/album/6QIWJVJPPgAA5c4aIb1zCA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733019082a0f673eaa7a5ea3ae" alt="" width="50" /> | 1 | 1 | There | 2023-02-15 | [🔗](https://open.spotify.com/album/2j8BoKqZrMUYTARDIs9XDk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27390831ba9ed4aa3b89fd6b81c" alt="" width="50" /> | 1 | 1 | Street Man Fighter Original Vol.4 (Crew Songs) | 2022-09-20 | [🔗](https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273869bb5c720b743357fd402bd" alt="" width="50" /> | 1 | 1 | Clé 2 : Yellow Wood | 2019-06-19 | [🔗](https://open.spotify.com/album/7a3luOh8mK0q8YsRkNUjrU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cbb25c0de45e6a6ded073802" alt="" width="50" /> | 1 | 1 | Clé 1 : MIROH | 2019-03-25 | [🔗](https://open.spotify.com/album/3s6RbqkTprnGwKpoUSYL00) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d784afd710070b5fe22b99bf" alt="" width="50" /> | 1 | 1 | CIRCUS | 2022-06-10 | [🔗](https://open.spotify.com/album/4IQHY28D4aHus9lGDlSdPp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d64e2f339a0a9ea967b308e" alt="" width="50" /> | 1 | 0 | Step Out of Clé (English Ver.) | 2020-01-24 | [🔗](https://open.spotify.com/album/2BBeNPEEevRiYISKYEnGvc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273560f17af6665e85575021bae" alt="" width="50" /> | 1 | 0 | Mixtape : Time Out | 2022-08-01 | [🔗](https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b97341ef9657dd8f4ab794dc" alt="" width="50" /> | 1 | 0 | Mixtape | 2018-01-08 | [🔗](https://open.spotify.com/album/1kTzTL0iOIE2IAGw83yY4O) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27309f2f03627bf9c7b719a35ff" alt="" width="50" /> | 1 | 0 | I am WHO | 2018-08-06 | [🔗](https://open.spotify.com/album/2SACeVKmkXeAXHqLDdTU9N) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6ace3e8860779591c193414" alt="" width="50" /> | 1 | 0 | I am NOT | 2018-03-26 | [🔗](https://open.spotify.com/album/6xP5hGAHaLArPqF07UYVJL) |
 
 ## Top Record Labels
 
-| Number of Tracks | Label |
-|---:|:---|
-| 43 | [Republic Records](../labels/republic_records.md) |
-| 2 | [Sony Music Labels Inc.](../labels/sony_music_labels_inc_.md) |
-| 1 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
+| Tracks | 💚 | Label |
+|---:|---:|:---|
+| 43 | 22 | [Republic Records](../labels/republic_records.md) |
+| 2 | 2 | [Sony Music Labels Inc.](../labels/sony_music_labels_inc_.md) |
+| 1 | 1 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
 
 ## Genres
 

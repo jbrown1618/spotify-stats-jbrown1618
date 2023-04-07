@@ -12,22 +12,22 @@
 | 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | [K-Pop 101](../playlists/k_pop_101/overview.md) |
 ## Top Albums
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273e70b87a4bd471f82768bdcb9" alt="" width="50" /> | DON'T FIGHT THE FEELING - Special Album | 2021-06-07 | [🔗](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273b787b5b8c27a5dbd360c0f59" alt="" width="50" /> | THE WAR - The 4th Album | 2017-07-18 | [🔗](https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273f7da7c0f322b7a1c95190d92" alt="" width="50" /> | LOVE SHOT– The 5th Album Repackage | 2018-12-13 | [🔗](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732795c34a8931367a0916de54" alt="" width="50" /> | The 1st Album 'XOXO' (Repackage) | 2013-08-05 | [🔗](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273aab7f1de2a5fccba3b095574" alt="" width="50" /> | LOVE ME RIGHT - The 2nd Album Repackage | 2015-06-03 | [🔗](https://open.spotify.com/album/2tSO8aEYf5YvpwmvvrOWH7) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f8b83bc0fb25c1526113ce86" alt="" width="50" /> | EXODUS - The 2nd Album | 2015-03-30 | [🔗](https://open.spotify.com/album/0PepQsL30ADZO7gc4Tz7Af) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27315a67578922d65121b12073d" alt="" width="50" /> | EX'ACT | 2016-06-09 | [🔗](https://open.spotify.com/album/5Cckx6G2aRR4aZBV6eIYdc) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732e981530e5e8e1d5e95ae507" alt="" width="50" /> | DON’T MESS UP MY TEMPO – The 5th Album | 2018-11-02 | [🔗](https://open.spotify.com/album/0aMI0Kctp6xwSnRFakNF3D) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273e70b87a4bd471f82768bdcb9" alt="" width="50" /> | 3 | 0 | DON'T FIGHT THE FEELING - Special Album | 2021-06-07 | [🔗](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b787b5b8c27a5dbd360c0f59" alt="" width="50" /> | 2 | 2 | THE WAR - The 4th Album | 2017-07-18 | [🔗](https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f7da7c0f322b7a1c95190d92" alt="" width="50" /> | 2 | 1 | LOVE SHOT– The 5th Album Repackage | 2018-12-13 | [🔗](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732795c34a8931367a0916de54" alt="" width="50" /> | 1 | 1 | The 1st Album 'XOXO' (Repackage) | 2013-08-05 | [🔗](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aab7f1de2a5fccba3b095574" alt="" width="50" /> | 1 | 1 | LOVE ME RIGHT - The 2nd Album Repackage | 2015-06-03 | [🔗](https://open.spotify.com/album/2tSO8aEYf5YvpwmvvrOWH7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f8b83bc0fb25c1526113ce86" alt="" width="50" /> | 1 | 1 | EXODUS - The 2nd Album | 2015-03-30 | [🔗](https://open.spotify.com/album/0PepQsL30ADZO7gc4Tz7Af) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27315a67578922d65121b12073d" alt="" width="50" /> | 1 | 1 | EX'ACT | 2016-06-09 | [🔗](https://open.spotify.com/album/5Cckx6G2aRR4aZBV6eIYdc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e981530e5e8e1d5e95ae507" alt="" width="50" /> | 1 | 1 | DON’T MESS UP MY TEMPO – The 5th Album | 2018-11-02 | [🔗](https://open.spotify.com/album/0aMI0Kctp6xwSnRFakNF3D) |
 
 ## Top Record Labels
 
-| Number of Tracks | Label |
-|---:|:---|
-| 12 | [SM Entertainment](../labels/sm_entertainment.md) |
+| Tracks | 💚 | Label |
+|---:|---:|:---|
+| 12 | 8 | [SM Entertainment](../labels/sm_entertainment.md) |
 
 ## Genres
 

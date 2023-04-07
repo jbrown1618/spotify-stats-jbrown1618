@@ -12,29 +12,29 @@
 | 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | [K-Pop 101](../playlists/k_pop_101/overview.md) |
 ## Top Albums
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 6 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | 4 ONLY | 2021-09-09 | [🔗](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="" width="50" /> | SEOULITE | 2016-03-09 | [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2730d42834b296097a0136e97d3" alt="" width="50" /> | SEOULITE | 2016-04-20 | [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273bb0a530fc901e88d1c7a9f4d" alt="" width="50" /> | First Love | 2013-03-28 | [🔗](https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1db30cc6d74a08a5e14274" alt="" width="50" /> | 24℃ | 2019-05-30 | [🔗](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2730a000b1a2ba7db00fc57754d" alt="" width="50" /> | Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 10 | 2016-10-04 | [🔗](https://open.spotify.com/album/1xzKCVdDE3tIXkEGDjLQ7E) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="" width="50" /> | HOLO | 2020-07-23 | [🔗](https://open.spotify.com/album/5xq9sm0jGMMDu5LifpBBo1) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a8c4052083fb4e80d1819445" alt="" width="50" /> | For You | 2020-12-16 | [🔗](https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734a40f1624faabce03d3eabbb" alt="" width="50" /> | Bittersweet (feat. LeeHi) | 2021-05-28 | [🔗](https://open.spotify.com/album/6qVk855QPCh57noNeeHMXQ) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735292f306c4d8210b521cea4d" alt="" width="50" /> | 1,2,3,4 | 2012-10-29 | [🔗](https://open.spotify.com/album/6yYc7Ag6nVB3HVXzLjF9uz) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | 6 | 6 | 4 ONLY | 2021-09-09 | [🔗](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="" width="50" /> | 3 | 3 | SEOULITE | 2016-03-09 | [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb0a530fc901e88d1c7a9f4d" alt="" width="50" /> | 2 | 2 | First Love | 2013-03-28 | [🔗](https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e1db30cc6d74a08a5e14274" alt="" width="50" /> | 2 | 2 | 24℃ | 2019-05-30 | [🔗](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730d42834b296097a0136e97d3" alt="" width="50" /> | 2 | 1 | SEOULITE | 2016-04-20 | [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="" width="50" /> | 1 | 1 | HOLO | 2020-07-23 | [🔗](https://open.spotify.com/album/5xq9sm0jGMMDu5LifpBBo1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a8c4052083fb4e80d1819445" alt="" width="50" /> | 1 | 1 | For You | 2020-12-16 | [🔗](https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734a40f1624faabce03d3eabbb" alt="" width="50" /> | 1 | 1 | Bittersweet (feat. LeeHi) | 2021-05-28 | [🔗](https://open.spotify.com/album/6qVk855QPCh57noNeeHMXQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735292f306c4d8210b521cea4d" alt="" width="50" /> | 1 | 1 | 1,2,3,4 | 2012-10-29 | [🔗](https://open.spotify.com/album/6yYc7Ag6nVB3HVXzLjF9uz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730a000b1a2ba7db00fc57754d" alt="" width="50" /> | 1 | 0 | Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 10 | 2016-10-04 | [🔗](https://open.spotify.com/album/1xzKCVdDE3tIXkEGDjLQ7E) |
 
 ## Top Record Labels
 
-| Number of Tracks | Label |
-|---:|:---|
-| 10 | [YG Entertainment](../labels/yg_entertainment.md) |
-| 7 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
-| 7 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
-| 1 | [PLEDIS Entertainment](../labels/pledis_entertainment.md) |
-| 1 | CJ E&M MUSIC |
-| 1 | AOMG |
+| Tracks | 💚 | Label |
+|---:|---:|:---|
+| 10 | 9 | [YG Entertainment](../labels/yg_entertainment.md) |
+| 7 | 7 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
+| 7 | 7 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
+| 1 | 1 | [PLEDIS Entertainment](../labels/pledis_entertainment.md) |
+| 1 | 1 | AOMG |
+| 1 | 0 | CJ E&M MUSIC |
 
 ## Genres
 

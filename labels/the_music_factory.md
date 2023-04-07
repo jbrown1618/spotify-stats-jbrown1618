@@ -8,46 +8,46 @@ Appears as:
 ## Top Artists
 
 
-
-
 <details>
 <summary>See all 1 artists</summary>
 
-| Number of Tracks | Art | Artist | 🔗 |
-|---:|:---|:---|:---|
-| 15 | <img src="https://i.scdn.co/image/ab67616d0000b27308fa17be7bd6194f38778767" alt="" width="50" /> | Peter Schmalfuss | [🔗](https://open.spotify.com/artist/7mOe6jfxX9EILXET9l5L6H) |
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27308fa17be7bd6194f38778767" alt="" width="50" /> | 15 | 0 | Peter Schmalfuss | [🔗](https://open.spotify.com/artist/7mOe6jfxX9EILXET9l5L6H) |
 
 </details>
+
+
 
 
 ## Top Albums
 
 
-
-
 <details>
 <summary>See all 1 albums</summary>
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 15 | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="" width="50" /> | Frederic Chopin - Waltzes & Nocturnes | 1994-07-01 | [🔗](https://open.spotify.com/album/3USjXpMk5Pga22AZua7vNT) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="" width="50" /> | 15 | 0 | Frederic Chopin - Waltzes & Nocturnes | 1994-07-01 | [🔗](https://open.spotify.com/album/3USjXpMk5Pga22AZua7vNT) |
 
 </details>
+
+
 
 
 ## Genres
 
 
-
-
 <details>
 <summary>See all 1 genres</summary>
 
-| Number of Tracks | Genre |
-|---:|:---|
-| 15 | german classical piano |
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
+| 15 | 0 | german classical piano |
 
 </details>
+
+
 
 
 ## Tracks released under The Music Factory

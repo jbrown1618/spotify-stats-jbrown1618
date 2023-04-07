@@ -3,103 +3,101 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2733620c09ca7ca202e676b783bab67616d0000b2733dc87408b73e227ec72eeab3ab67616d0000b2739daaa54cc50b6359ff1dc7a3ab67616d0000b273f0eb5b09e87f24415266d723" alt="Ballet" width="100" />
 
-[138 songs](tracks.md)
+[138 songs (0 liked)](tracks.md)
 
 ## Top Artists
-
-![Bar chart of top 16 artists](../../images/playlists/ballet/artists.png)
-
-![Comparison of Artist](../../images/playlists/ballet/artists_comparison.png)
 
 
 <details>
 <summary>See all 16 artists</summary>
 
-| Number of Tracks | Art | Artist | 🔗 |
-|---:|:---|:---|:---|
-| 55 | <img src="https://i.scdn.co/image/9a7c31f43e22a95f6d3c57baf4f87a3a9d2b93e0" alt="" width="50" /> | Pyotr Ilyich Tchaikovsky | [🔗](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA) |
-| 43 | <img src="https://i.scdn.co/image/ab6761610000e5eb92e0a1e423bd8590dcd43bda" alt="" width="50" /> | Berliner Philharmoniker | [🔗](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z) |
-| 39 | <img src="https://i.scdn.co/image/49da328b0629313b2c452bf35d8c50d013274f5b" alt="" width="50" /> | Igor Stravinsky | [🔗](https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE) |
-| 39 | <img src="https://i.scdn.co/image/b5b05560a51b368cca8b3420e4e3536586720aa8" alt="" width="50" /> | Barry Wordsworth | [🔗](https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN) |
-| 39 | <img src="https://i.scdn.co/image/ab6761610000e5ebb72368972071bd5422a86268" alt="" width="50" /> | Orchestra Victoria | [🔗](https://open.spotify.com/artist/1bnC6eJzCumTgAB7tG1118) |
-| 39 | <img src="https://i.scdn.co/image/c12a6d385c87030706a0f36dd8798deb299c87a4" alt="" width="50" /> | Léo Delibes | [🔗](https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT) |
-| 31 | <img src="https://i.scdn.co/image/ab6761610000e5ebf113c063e071771545263b9a" alt="" width="50" /> | London Symphony Orchestra | [🔗](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) |
-| 31 | <img src="https://i.scdn.co/image/8680bc690ee5747b08f6a9a7566f000cce6e220b" alt="" width="50" /> | André Previn | [🔗](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) |
-| 24 | <img src="https://i.scdn.co/image/3460fd826c1cc058c4c4134e6c695e00dcf89fa6" alt="" width="50" /> | Sir Simon Rattle | [🔗](https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp) |
-| 19 | <img src="https://i.scdn.co/image/ab6761610000e5ebf67fde1740e91a88445d5bdd" alt="" width="50" /> | Herbert von Karajan | [🔗](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) |
-| 18 | <img src="https://i.scdn.co/image/ab6761610000e5eb0065f11220ca4bb030bffb72" alt="" width="50" /> | Mariinsky Orchestra | [🔗](https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6) |
-| 18 | <img src="https://i.scdn.co/image/ab6761610000e5eb85c25fffeaf7a209268e9372" alt="" width="50" /> | Valery Gergiev | [🔗](https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2) |
-| 7 | <img src="https://i.scdn.co/image/ab67616d0000b2733620c09ca7ca202e676b783b" alt="" width="50" /> | Orchestre de l’Opéra national de Paris | [🔗](https://open.spotify.com/artist/6qe7dVv9gojPhhrZDL1TUS) |
-| 7 | <img src="https://i.scdn.co/image/f4b67441af1209f35f44684e0e7e623da5550f4f" alt="" width="50" /> | Myung-Whun Chung | [🔗](https://open.spotify.com/artist/4hdiwtmc6OEFFxpSlwwmby) |
-| 5 | <img src="https://i.scdn.co/image/592ddf9d4d2154cd3256c6e69171d5371fca8f0c" alt="" width="50" /> | Béla Bartók | [🔗](https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb68a5073a017fac8434535e8a" alt="" width="50" /> | Libera | [🔗](https://open.spotify.com/artist/235C4ktJ2aGIyqaBlXyg7e) |
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/9a7c31f43e22a95f6d3c57baf4f87a3a9d2b93e0" alt="" width="50" /> | 55 | 0 | Pyotr Ilyich Tchaikovsky | [🔗](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb92e0a1e423bd8590dcd43bda" alt="" width="50" /> | 43 | 0 | Berliner Philharmoniker | [🔗](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z) |
+| <img src="https://i.scdn.co/image/49da328b0629313b2c452bf35d8c50d013274f5b" alt="" width="50" /> | 39 | 0 | Igor Stravinsky | [🔗](https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE) |
+| <img src="https://i.scdn.co/image/b5b05560a51b368cca8b3420e4e3536586720aa8" alt="" width="50" /> | 39 | 0 | Barry Wordsworth | [🔗](https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb72368972071bd5422a86268" alt="" width="50" /> | 39 | 0 | Orchestra Victoria | [🔗](https://open.spotify.com/artist/1bnC6eJzCumTgAB7tG1118) |
+| <img src="https://i.scdn.co/image/c12a6d385c87030706a0f36dd8798deb299c87a4" alt="" width="50" /> | 39 | 0 | Léo Delibes | [🔗](https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf113c063e071771545263b9a" alt="" width="50" /> | 31 | 0 | London Symphony Orchestra | [🔗](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) |
+| <img src="https://i.scdn.co/image/8680bc690ee5747b08f6a9a7566f000cce6e220b" alt="" width="50" /> | 31 | 0 | André Previn | [🔗](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) |
+| <img src="https://i.scdn.co/image/3460fd826c1cc058c4c4134e6c695e00dcf89fa6" alt="" width="50" /> | 24 | 0 | Sir Simon Rattle | [🔗](https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf67fde1740e91a88445d5bdd" alt="" width="50" /> | 19 | 0 | Herbert von Karajan | [🔗](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0065f11220ca4bb030bffb72" alt="" width="50" /> | 18 | 0 | Mariinsky Orchestra | [🔗](https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb85c25fffeaf7a209268e9372" alt="" width="50" /> | 18 | 0 | Valery Gergiev | [🔗](https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733620c09ca7ca202e676b783b" alt="" width="50" /> | 7 | 0 | Orchestre de l’Opéra national de Paris | [🔗](https://open.spotify.com/artist/6qe7dVv9gojPhhrZDL1TUS) |
+| <img src="https://i.scdn.co/image/f4b67441af1209f35f44684e0e7e623da5550f4f" alt="" width="50" /> | 7 | 0 | Myung-Whun Chung | [🔗](https://open.spotify.com/artist/4hdiwtmc6OEFFxpSlwwmby) |
+| <img src="https://i.scdn.co/image/592ddf9d4d2154cd3256c6e69171d5371fca8f0c" alt="" width="50" /> | 5 | 0 | Béla Bartók | [🔗](https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb68a5073a017fac8434535e8a" alt="" width="50" /> | 1 | 0 | Libera | [🔗](https://open.spotify.com/artist/235C4ktJ2aGIyqaBlXyg7e) |
 
 </details>
 
 
-## Top Albums
+![Bar chart of top 16 artists](../../images/playlists/ballet/artists.png)
 
-![Bar chart of top 6 albums](../../images/playlists/ballet/albums.png)
+![Comparison of Artist](../../images/playlists/ballet/artists_comparison.png)
+
+## Top Albums
 
 
 <details>
 <summary>See all 6 albums</summary>
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 39 | <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="" width="50" /> | Coppélia | 2018-07-06 | [🔗](https://open.spotify.com/album/7jKT8NC2XfAs9RFKsrGz2p) |
-| 31 | <img src="https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da" alt="" width="50" /> | Tchaikovsky: Swan Lake | 1976 | [🔗](https://open.spotify.com/album/7dVA06E7AP7P7VzPyNxQVO) |
-| 24 | <img src="https://i.scdn.co/image/ab67616d0000b273f1972145094112a1268035f1" alt="" width="50" /> | Tchaikovsky: The Nutcracker | 2010-10-11 | [🔗](https://open.spotify.com/album/54Awn36ryf55PkZyOR4iwQ) |
-| 19 | <img src="https://i.scdn.co/image/ab67616d0000b273f0eb5b09e87f24415266d723" alt="" width="50" /> | Stravinsky: The Rite of Spring / Bartók: Concerto for Orchestra | 2007-01-01 | [🔗](https://open.spotify.com/album/317b74rpNBO2uhaJFyMaxJ) |
-| 18 | <img src="https://i.scdn.co/image/ab67616d0000b2736d425516ed4317947a4f48af" alt="" width="50" /> | Stravinsky: Petrushka, Jeu de cartes | 2018-10-19 | [🔗](https://open.spotify.com/album/19fQbFNjlfXgBAFqftKzWA) |
-| 7 | <img src="https://i.scdn.co/image/ab67616d0000b2733620c09ca7ca202e676b783b" alt="" width="50" /> | Stravinsky: The Firebird (Ballet Suite) | 2009-01-01 | [🔗](https://open.spotify.com/album/2q1xMRl4AcA7rI8GfGnmvD) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="" width="50" /> | 39 | 0 | Coppélia | 2018-07-06 | [🔗](https://open.spotify.com/album/7jKT8NC2XfAs9RFKsrGz2p) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da" alt="" width="50" /> | 31 | 0 | Tchaikovsky: Swan Lake | 1976 | [🔗](https://open.spotify.com/album/7dVA06E7AP7P7VzPyNxQVO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f1972145094112a1268035f1" alt="" width="50" /> | 24 | 0 | Tchaikovsky: The Nutcracker | 2010-10-11 | [🔗](https://open.spotify.com/album/54Awn36ryf55PkZyOR4iwQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f0eb5b09e87f24415266d723" alt="" width="50" /> | 19 | 0 | Stravinsky: The Rite of Spring / Bartók: Concerto for Orchestra | 2007-01-01 | [🔗](https://open.spotify.com/album/317b74rpNBO2uhaJFyMaxJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736d425516ed4317947a4f48af" alt="" width="50" /> | 18 | 0 | Stravinsky: Petrushka, Jeu de cartes | 2018-10-19 | [🔗](https://open.spotify.com/album/19fQbFNjlfXgBAFqftKzWA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733620c09ca7ca202e676b783b" alt="" width="50" /> | 7 | 0 | Stravinsky: The Firebird (Ballet Suite) | 2009-01-01 | [🔗](https://open.spotify.com/album/2q1xMRl4AcA7rI8GfGnmvD) |
 
 </details>
 
 
-## Top Record Labels
+![Bar chart of top 6 albums](../../images/playlists/ballet/albums.png)
 
-![Bar chart of top 4 record labels](../../images/playlists/ballet/labels.png)
+## Top Record Labels
 
 
 <details>
 <summary>See all 4 labels</summary>
 
-| Number of Tracks | Label |
-|---:|:---|
-| 55 | [Warner Classics](../../labels/warner_classics.md) |
-| 39 | [Australian Broadcasting Corp (ABC)](../../labels/australian_broadcasting_corp__abc_.md) |
-| 26 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_.md) |
-| 18 | [Mariinsky](../../labels/mariinsky.md) |
+| Tracks | 💚 | Label |
+|---:|---:|:---|
+| 55 | 0 | [Warner Classics](../../labels/warner_classics.md) |
+| 39 | 0 | [Australian Broadcasting Corp (ABC)](../../labels/australian_broadcasting_corp__abc_.md) |
+| 26 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_.md) |
+| 18 | 0 | [Mariinsky](../../labels/mariinsky.md) |
 
 </details>
 
 
-## Genres
+![Bar chart of top 4 record labels](../../images/playlists/ballet/labels.png)
 
-![Bar chart of top 8 genres](../../images/playlists/ballet/genres.png)
+## Genres
 
 
 <details>
 <summary>See all 8 genres</summary>
 
-| Number of Tracks | Genre |
-|---:|:---|
-| 138 | classical |
-| 94 | late romantic era |
-| 55 | russian romanticism |
-| 44 | neoclassicism |
-| 44 | early modern classical |
-| 39 | russian modern classical |
-| 39 | french romanticism |
-| 39 | french opera |
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
+| 138 | 0 | classical |
+| 94 | 0 | late romantic era |
+| 55 | 0 | russian romanticism |
+| 44 | 0 | neoclassicism |
+| 44 | 0 | early modern classical |
+| 39 | 0 | russian modern classical |
+| 39 | 0 | french romanticism |
+| 39 | 0 | french opera |
 
 </details>
 
 
-## Years
+![Bar chart of top 8 genres](../../images/playlists/ballet/genres.png)
 
-![Bar chart of number of songs by year](../../images/playlists/ballet/years.png)
+## Years
 
 
 <details>
@@ -115,6 +113,8 @@
 
 </details>
 
+
+![Bar chart of number of songs by year](../../images/playlists/ballet/years.png)
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|

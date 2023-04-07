@@ -13,33 +13,33 @@
 | 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2738cab1c75d2271af37c3e2db9ab67616d0000b273d2ef237da7f94762997c2083ab67616d0000b273e9cd59d664f597061a513038ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="" width="50" /> | [Recent Comebacks](../playlists/recent_comebacks/overview.md) |
 ## Top Albums
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2734a8b951ff5979dc187340b1d" alt="" width="50" /> | RED MOON | 2018-07-16 | [🔗](https://open.spotify.com/album/6GhELYbXRo1LOqRPOCsQrF) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273a6ea41f7103f07588c18bbdb" alt="" width="50" /> | Pink Funky | 2015-06-19 | [🔗](https://open.spotify.com/album/5Fy5PyBWqMNK7xvXO9Q32f) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b27338fc902e1d368df7fc0d77a3" alt="" width="50" /> | Melting | 2016-02-26 | [🔗](https://open.spotify.com/album/11hjJntrvmauDoga4Krr0U) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b27322f0e32bfb91476f0ad96656" alt="" width="50" /> | MIC ON | 2022-10-11 | [🔗](https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d650d0d98caf3f54b842a0b" alt="" width="50" /> | reality in BLACK | 2019-11-14 | [🔗](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736847aa7310791dcd66f16a5e" alt="" width="50" /> | Yellow Flower | 2018-03-07 | [🔗](https://open.spotify.com/album/4G9qMxS9c4W5PPNdPrTaLn) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738612b3a74fefaf72ddc92d08" alt="" width="50" /> | White Wind | 2019-03-14 | [🔗](https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ae843591bcdace9489c86fb0" alt="" width="50" /> | WAW | 2021-06-02 | [🔗](https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273520ea0d948ced66d1c1764e2" alt="" width="50" /> | WANNA BE MYSELF | 2020-09-10 | [🔗](https://open.spotify.com/album/0n62copUsWrST9M6AsYfZI) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731cc469da4da1bccfa16867be" alt="" width="50" /> | TRAVEL | 2020-11-03 | [🔗](https://open.spotify.com/album/3xje7wSW2xwQx2GNJ5cfNu) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737709b0a8ba9059fc46fefcb2" alt="" width="50" /> | Purple | 2017-06-22 | [🔗](https://open.spotify.com/album/7lqVInQc3l7SbnbZa2cpFJ) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737752724657197df65e7c82f9" alt="" width="50" /> | Piano Man | 2014-11-21 | [🔗](https://open.spotify.com/album/1kdURRaOTpDCQqsVIU5CiT) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273733b6abfa76a28b999feb572" alt="" width="50" /> | MEMORY | 2016-11-07 | [🔗](https://open.spotify.com/album/3Q34hV5fBbMpRpADmlptr7) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27367f8236540d6f145e2f0baa1" alt="" width="50" /> | Hello | 2014-06-18 | [🔗](https://open.spotify.com/album/3Z9cZon6ukg4rvGYu7i4NA) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b4fd0ba98f675df97c5748b1" alt="" width="50" /> | Dingga | 2020-10-20 | [🔗](https://open.spotify.com/album/4xzsBcZaK04c8IE5iVyMNK) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b1f57af57a103eb28110c9d8" alt="" width="50" /> | BLUE;S | 2018-11-29 | [🔗](https://open.spotify.com/album/59QELOU685J1AMB2paryAx) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2734a8b951ff5979dc187340b1d" alt="" width="50" /> | 2 | 2 | RED MOON | 2018-07-16 | [🔗](https://open.spotify.com/album/6GhELYbXRo1LOqRPOCsQrF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a6ea41f7103f07588c18bbdb" alt="" width="50" /> | 2 | 2 | Pink Funky | 2015-06-19 | [🔗](https://open.spotify.com/album/5Fy5PyBWqMNK7xvXO9Q32f) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27322f0e32bfb91476f0ad96656" alt="" width="50" /> | 2 | 1 | MIC ON | 2022-10-11 | [🔗](https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27338fc902e1d368df7fc0d77a3" alt="" width="50" /> | 2 | 0 | Melting | 2016-02-26 | [🔗](https://open.spotify.com/album/11hjJntrvmauDoga4Krr0U) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d650d0d98caf3f54b842a0b" alt="" width="50" /> | 1 | 1 | reality in BLACK | 2019-11-14 | [🔗](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736847aa7310791dcd66f16a5e" alt="" width="50" /> | 1 | 1 | Yellow Flower | 2018-03-07 | [🔗](https://open.spotify.com/album/4G9qMxS9c4W5PPNdPrTaLn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738612b3a74fefaf72ddc92d08" alt="" width="50" /> | 1 | 1 | White Wind | 2019-03-14 | [🔗](https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ae843591bcdace9489c86fb0" alt="" width="50" /> | 1 | 1 | WAW | 2021-06-02 | [🔗](https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731cc469da4da1bccfa16867be" alt="" width="50" /> | 1 | 1 | TRAVEL | 2020-11-03 | [🔗](https://open.spotify.com/album/3xje7wSW2xwQx2GNJ5cfNu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737709b0a8ba9059fc46fefcb2" alt="" width="50" /> | 1 | 1 | Purple | 2017-06-22 | [🔗](https://open.spotify.com/album/7lqVInQc3l7SbnbZa2cpFJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737752724657197df65e7c82f9" alt="" width="50" /> | 1 | 1 | Piano Man | 2014-11-21 | [🔗](https://open.spotify.com/album/1kdURRaOTpDCQqsVIU5CiT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273733b6abfa76a28b999feb572" alt="" width="50" /> | 1 | 1 | MEMORY | 2016-11-07 | [🔗](https://open.spotify.com/album/3Q34hV5fBbMpRpADmlptr7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27367f8236540d6f145e2f0baa1" alt="" width="50" /> | 1 | 1 | Hello | 2014-06-18 | [🔗](https://open.spotify.com/album/3Z9cZon6ukg4rvGYu7i4NA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b4fd0ba98f675df97c5748b1" alt="" width="50" /> | 1 | 1 | Dingga | 2020-10-20 | [🔗](https://open.spotify.com/album/4xzsBcZaK04c8IE5iVyMNK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273520ea0d948ced66d1c1764e2" alt="" width="50" /> | 1 | 0 | WANNA BE MYSELF | 2020-09-10 | [🔗](https://open.spotify.com/album/0n62copUsWrST9M6AsYfZI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b1f57af57a103eb28110c9d8" alt="" width="50" /> | 1 | 0 | BLUE;S | 2018-11-29 | [🔗](https://open.spotify.com/album/59QELOU685J1AMB2paryAx) |
 
 ## Top Record Labels
 
-| Number of Tracks | Label |
-|---:|:---|
-| 12 | [RBW Inc.](../labels/rbw_inc_.md) |
-| 7 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
-| 2 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
-| 1 | RADCOMM |
+| Tracks | 💚 | Label |
+|---:|---:|:---|
+| 12 | 9 | [RBW Inc.](../labels/rbw_inc_.md) |
+| 7 | 5 | [Stone Music Entertainment](../labels/stone_music_entertainment.md) |
+| 2 | 0 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
+| 1 | 1 | RADCOMM |
 
 ## Genres
 

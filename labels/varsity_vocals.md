@@ -7,120 +7,120 @@ Appears as:
 
 ## Top Artists
 
-![Bar chart of top 30 artists](../images/labels/varsity_vocals/artists.png)
-
 
 <details>
 <summary>See all 56 artists</summary>
 
-| Number of Tracks | Art | Artist | 🔗 |
-|---:|:---|:---|:---|
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9452a4d9e815116c87a62bc" alt="" width="50" /> | Tufts Beelzebubs | [🔗](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) |
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8c4a9d4a5f8004ad4d0195aa" alt="" width="50" /> | The Nor'easters | [🔗](https://open.spotify.com/artist/1aLfVgwt8eBrpvHcutWmqe) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d31148f43345a656ba8ae76" alt="" width="50" /> | The Dartmouth Aires | [🔗](https://open.spotify.com/artist/71Cez1b1NqsxIn5u8XNiQD) |
-| 2 | <img src="nan" alt="" width="50" /> | Deke Sharon | [🔗](https://open.spotify.com/artist/6eWNb9yuroBpPcQ4sOkL1e) |
-| 2 | <img src="nan" alt="" width="50" /> | Don Gooding | [🔗](https://open.spotify.com/artist/66iv9KzffeiANddjYouG6U) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb78999d4b6fb0847081e2f479" alt="" width="50" /> | SoCal VoCals | [🔗](https://open.spotify.com/artist/5L30XpwHG77eWCZtelTns9) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb2d08d9641afbcd0d13f58127" alt="" width="50" /> | The Pitchforks | [🔗](https://open.spotify.com/artist/5IPABE7EhPLvUVsgM3dlZ8) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb8be60bf944b4dfa165ed2995" alt="" width="50" /> | University Of Delaware Vocal Point | [🔗](https://open.spotify.com/artist/4nrhXBXu7FnxWeSbB21bfk) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb71d410aa92b2950f9d59e2bc" alt="" width="50" /> | University of Rochester Midnight Ramblers | [🔗](https://open.spotify.com/artist/2Tv49uvEsNJXUpuFL7HuKu) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273fde41e3d8cc4859202436340" alt="" width="50" /> | Acappology | [🔗](https://open.spotify.com/artist/21v1APtcWJHRmeKdBRVbYs) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2736636b2b1728fb4848f73ff9c" alt="" width="50" /> | Tufts sQ! | [🔗](https://open.spotify.com/artist/21QIHECpmN2KwhpVhIWHpT) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb24e0bff37a949b7de92aa4eb" alt="" width="50" /> | The MIT Logarhythms | [🔗](https://open.spotify.com/artist/1jz5HCLwsDkpBYz80n9wbR) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273c2efff2353592d5820407e14" alt="" width="50" /> | Bill Hare | [🔗](https://open.spotify.com/artist/10WhKnqdsfpYWDgZhjrday) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273583e74176372c85d698af382" alt="" width="50" /> | The Virginia Sil'hooettes | [🔗](https://open.spotify.com/artist/0LKgClZwZKGhM5BkCzjfMX) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27354cb8621ada914cc67f69a41" alt="" width="50" /> | Awaken A Cappella | [🔗](https://open.spotify.com/artist/7zjm9GiXJPq0z3bKETWl1N) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc42cfb7142fafbbc60fa4491" alt="" width="50" /> | Pitches & Notes | [🔗](https://open.spotify.com/artist/7l6eX8dYXjmQnfF04Sr4Vh) |
-| 1 | <img src="nan" alt="" width="50" /> | Delia Darney | [🔗](https://open.spotify.com/artist/7ikvHdyyUnB92bHTgFcctU) |
-| 1 | <img src="nan" alt="" width="50" /> | Florida State University All-Night Yahtzee | [🔗](https://open.spotify.com/artist/7hpsmZ7DZukPPg1dR2wqAy) |
-| 1 | <img src="nan" alt="" width="50" /> | University of Wisconsin-Madison Fundamentally Sound | [🔗](https://open.spotify.com/artist/7f7ezoLEjOp1K0qDSosU80) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb21e49fe089486042eea96c11" alt="" width="50" /> | Off The Beat | [🔗](https://open.spotify.com/artist/7aCUqnLkFEQd2FPL6RK1tW) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1918aa487034f94f448691f8" alt="" width="50" /> | UGA Noteworthy | [🔗](https://open.spotify.com/artist/6MyHz1OaVtj1w2y6JTu2u5) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb015d6c512c7389428467d6fe" alt="" width="50" /> | BYU Vocal Point | [🔗](https://open.spotify.com/artist/5zhxxb24WP6q6rbLHAn2UQ) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb22e5cea0be00de88a4269bb8" alt="" width="50" /> | The Clef Hangers | [🔗](https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb978dc646062743efa22b7409" alt="" width="50" /> | The Statesmen | [🔗](https://open.spotify.com/artist/5m9J0qjRMcetcTxN535NBZ) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9f0ec2e6469f7552d8a7ea63" alt="" width="50" /> | University of Rochester YellowJackets | [🔗](https://open.spotify.com/artist/5PdBpsZXvnEbbTe1589fMO) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733ffa98af2aa15cb4212e6a85" alt="" width="50" /> | The Back Row | [🔗](https://open.spotify.com/artist/5GaN9YyrJyPmJd6dALWhQh) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfc619796228fea88e4373aca" alt="" width="50" /> | The Harmonics | [🔗](https://open.spotify.com/artist/528Rcthd9JqtIrlbrGKNsG) |
-| 1 | <img src="nan" alt="" width="50" /> | Kat Dunbar Linker | [🔗](https://open.spotify.com/artist/512QZ1TM6L4uXmWCVOKHtV) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739a9a592561eabf00f0a8ee4d" alt="" width="50" /> | Varsity Vocals | [🔗](https://open.spotify.com/artist/4bQp9Lm7LgRMLtqEsH3Bqf) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb847c22c5a7d4683b66759a9e" alt="" width="50" /> | The Harvard-Radcliffe Veritones | [🔗](https://open.spotify.com/artist/4Zjdnr698SzQDAPMx4oxy0) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27355cb82b820bf54a6ed13a080" alt="" width="50" /> | Brandeis VoiceMale | [🔗](https://open.spotify.com/artist/4DsnXPBijq5tMq5zAEfF1L) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb935384f680f653b00bc04c26" alt="" width="50" /> | Voices in Your Head | [🔗](https://open.spotify.com/artist/44v8JgDySt9tkgfV3AWxBJ) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27363d448b5773d975d66974ce0" alt="" width="50" /> | Decadence | [🔗](https://open.spotify.com/artist/3uBUg8TtKXz6m3wY5aXa9I) |
-| 1 | <img src="nan" alt="" width="50" /> | Gabe Hendifar | [🔗](https://open.spotify.com/artist/3YIBM4yvZHT4lRQa14eHQh) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf3504a2a1d55d7defa6cb2bc" alt="" width="50" /> | Hullabahoos | [🔗](https://open.spotify.com/artist/3S1DEHnGNfWmamdZEyLs8I) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebfdafe8faacce33ba647bb2ca" alt="" width="50" /> | Eight Beat Measure | [🔗](https://open.spotify.com/artist/3My1YRLewqqDXME2OkBpdZ) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb949d918aab8261c4a15d3ab3" alt="" width="50" /> | The Doo Wop Shop | [🔗](https://open.spotify.com/artist/3BKvJisNneE6cOuLuBHGpC) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebf96beef384557563963fb7ef" alt="" width="50" /> | The Vassar Devils | [🔗](https://open.spotify.com/artist/31EncJhuSBcAIsZGA3G1GK) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737d920cc55d75078e9dbcc809" alt="" width="50" /> | Elizabeth Wright | [🔗](https://open.spotify.com/artist/2tQ7EzEpu1KFpseMdHGSzL) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273bc621518f25ee489a8d8be58" alt="" width="50" /> | Low Key | [🔗](https://open.spotify.com/artist/2bFVGrmfB6A9ljMkunWcXC) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../artists/sara_bareilles.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd55a2b176b231382b54f5e33" alt="" width="50" /> | Penn Masala | [🔗](https://open.spotify.com/artist/2MhJb1ljKttJewuYZTpXxr) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb205fd3a3b91de152e22a7078" alt="" width="50" /> | Mixed Emotions | [🔗](https://open.spotify.com/artist/2BoHcRUfryDNxa9HQxXSpr) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6d2ff3db79aa33c9be0f2630" alt="" width="50" /> | Upper Structure | [🔗](https://open.spotify.com/artist/1tlKq97YGAGBavozMVeddE) |
-| 1 | <img src="nan" alt="" width="50" /> | University of Michigan G-Men | [🔗](https://open.spotify.com/artist/1jANAnjCBrwxiT4c33eeNc) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb68021119cbab353e2278d4a3" alt="" width="50" /> | The Loreleis | [🔗](https://open.spotify.com/artist/1fqMjreaczGwFmdmG6AvJs) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb6d4806745c7f345bd59fd90b" alt="" width="50" /> | Tufts Jackson Jills | [🔗](https://open.spotify.com/artist/1dUJZ0lbobmanl4W14h0a2) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d4dd4d97a69b96de84ba61a" alt="" width="50" /> | BYU Noteworthy | [🔗](https://open.spotify.com/artist/1ZknN7FbjjjMTmdU42OEeX) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27326f8d98a82475c320a41a919" alt="" width="50" /> | Academical Village People | [🔗](https://open.spotify.com/artist/1Vjug1h4HXCeplbouQEbV3) |
-| 1 | <img src="nan" alt="" width="50" /> | Erika Petty | [🔗](https://open.spotify.com/artist/15YH0MYEIRY7AmrrwfVO4W) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb44b7da1ed96c2af6f91602c2" alt="" width="50" /> | The Virginia Gentlemen | [🔗](https://open.spotify.com/artist/0steWfkS4hwaErh84SlHMW) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8473502784cc95117c269f23" alt="" width="50" /> | The Bostonians | [🔗](https://open.spotify.com/artist/0gW6hG0g7pVNbHgvmYwHDl) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb4c275a91813c432ce13b5fbc" alt="" width="50" /> | New Dominions | [🔗](https://open.spotify.com/artist/0PzFyYSC4Y7JarVyByrJPc) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb075181955f5ee2a8606b9a95" alt="" width="50" /> | The Buffalo Chips | [🔗](https://open.spotify.com/artist/0IAZ8PiZ0KqdMd191HDJ8t) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0f047d0539e01d8b6c71087" alt="" width="50" /> | N'Harmonics | [🔗](https://open.spotify.com/artist/02WQpZmto5LiTgoorLhpLK) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb79df49f258dae5247ad5d5cb" alt="" width="50" /> | On The Rocks | [🔗](https://open.spotify.com/artist/00IjdWQ46sSBP4gZYObAMx) |
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd9452a4d9e815116c87a62bc" alt="" width="50" /> | 3 | 0 | Tufts Beelzebubs | [🔗](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8c4a9d4a5f8004ad4d0195aa" alt="" width="50" /> | 3 | 0 | The Nor'easters | [🔗](https://open.spotify.com/artist/1aLfVgwt8eBrpvHcutWmqe) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3d31148f43345a656ba8ae76" alt="" width="50" /> | 2 | 0 | The Dartmouth Aires | [🔗](https://open.spotify.com/artist/71Cez1b1NqsxIn5u8XNiQD) |
+| <img src="nan" alt="" width="50" /> | 2 | 0 | Deke Sharon | [🔗](https://open.spotify.com/artist/6eWNb9yuroBpPcQ4sOkL1e) |
+| <img src="nan" alt="" width="50" /> | 2 | 0 | Don Gooding | [🔗](https://open.spotify.com/artist/66iv9KzffeiANddjYouG6U) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb78999d4b6fb0847081e2f479" alt="" width="50" /> | 2 | 0 | SoCal VoCals | [🔗](https://open.spotify.com/artist/5L30XpwHG77eWCZtelTns9) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2d08d9641afbcd0d13f58127" alt="" width="50" /> | 2 | 0 | The Pitchforks | [🔗](https://open.spotify.com/artist/5IPABE7EhPLvUVsgM3dlZ8) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8be60bf944b4dfa165ed2995" alt="" width="50" /> | 2 | 0 | University Of Delaware Vocal Point | [🔗](https://open.spotify.com/artist/4nrhXBXu7FnxWeSbB21bfk) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb71d410aa92b2950f9d59e2bc" alt="" width="50" /> | 2 | 0 | University of Rochester Midnight Ramblers | [🔗](https://open.spotify.com/artist/2Tv49uvEsNJXUpuFL7HuKu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fde41e3d8cc4859202436340" alt="" width="50" /> | 2 | 0 | Acappology | [🔗](https://open.spotify.com/artist/21v1APtcWJHRmeKdBRVbYs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736636b2b1728fb4848f73ff9c" alt="" width="50" /> | 2 | 0 | Tufts sQ! | [🔗](https://open.spotify.com/artist/21QIHECpmN2KwhpVhIWHpT) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb24e0bff37a949b7de92aa4eb" alt="" width="50" /> | 2 | 0 | The MIT Logarhythms | [🔗](https://open.spotify.com/artist/1jz5HCLwsDkpBYz80n9wbR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c2efff2353592d5820407e14" alt="" width="50" /> | 2 | 0 | Bill Hare | [🔗](https://open.spotify.com/artist/10WhKnqdsfpYWDgZhjrday) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273583e74176372c85d698af382" alt="" width="50" /> | 2 | 0 | The Virginia Sil'hooettes | [🔗](https://open.spotify.com/artist/0LKgClZwZKGhM5BkCzjfMX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354cb8621ada914cc67f69a41" alt="" width="50" /> | 1 | 0 | Awaken A Cappella | [🔗](https://open.spotify.com/artist/7zjm9GiXJPq0z3bKETWl1N) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc42cfb7142fafbbc60fa4491" alt="" width="50" /> | 1 | 0 | Pitches & Notes | [🔗](https://open.spotify.com/artist/7l6eX8dYXjmQnfF04Sr4Vh) |
+| <img src="nan" alt="" width="50" /> | 1 | 0 | Delia Darney | [🔗](https://open.spotify.com/artist/7ikvHdyyUnB92bHTgFcctU) |
+| <img src="nan" alt="" width="50" /> | 1 | 0 | Florida State University All-Night Yahtzee | [🔗](https://open.spotify.com/artist/7hpsmZ7DZukPPg1dR2wqAy) |
+| <img src="nan" alt="" width="50" /> | 1 | 0 | University of Wisconsin-Madison Fundamentally Sound | [🔗](https://open.spotify.com/artist/7f7ezoLEjOp1K0qDSosU80) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb21e49fe089486042eea96c11" alt="" width="50" /> | 1 | 0 | Off The Beat | [🔗](https://open.spotify.com/artist/7aCUqnLkFEQd2FPL6RK1tW) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1918aa487034f94f448691f8" alt="" width="50" /> | 1 | 0 | UGA Noteworthy | [🔗](https://open.spotify.com/artist/6MyHz1OaVtj1w2y6JTu2u5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb015d6c512c7389428467d6fe" alt="" width="50" /> | 1 | 0 | BYU Vocal Point | [🔗](https://open.spotify.com/artist/5zhxxb24WP6q6rbLHAn2UQ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb22e5cea0be00de88a4269bb8" alt="" width="50" /> | 1 | 0 | The Clef Hangers | [🔗](https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb978dc646062743efa22b7409" alt="" width="50" /> | 1 | 0 | The Statesmen | [🔗](https://open.spotify.com/artist/5m9J0qjRMcetcTxN535NBZ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9f0ec2e6469f7552d8a7ea63" alt="" width="50" /> | 1 | 0 | University of Rochester YellowJackets | [🔗](https://open.spotify.com/artist/5PdBpsZXvnEbbTe1589fMO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733ffa98af2aa15cb4212e6a85" alt="" width="50" /> | 1 | 0 | The Back Row | [🔗](https://open.spotify.com/artist/5GaN9YyrJyPmJd6dALWhQh) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebfc619796228fea88e4373aca" alt="" width="50" /> | 1 | 0 | The Harmonics | [🔗](https://open.spotify.com/artist/528Rcthd9JqtIrlbrGKNsG) |
+| <img src="nan" alt="" width="50" /> | 1 | 0 | Kat Dunbar Linker | [🔗](https://open.spotify.com/artist/512QZ1TM6L4uXmWCVOKHtV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739a9a592561eabf00f0a8ee4d" alt="" width="50" /> | 1 | 0 | Varsity Vocals | [🔗](https://open.spotify.com/artist/4bQp9Lm7LgRMLtqEsH3Bqf) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb847c22c5a7d4683b66759a9e" alt="" width="50" /> | 1 | 0 | The Harvard-Radcliffe Veritones | [🔗](https://open.spotify.com/artist/4Zjdnr698SzQDAPMx4oxy0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27355cb82b820bf54a6ed13a080" alt="" width="50" /> | 1 | 0 | Brandeis VoiceMale | [🔗](https://open.spotify.com/artist/4DsnXPBijq5tMq5zAEfF1L) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb935384f680f653b00bc04c26" alt="" width="50" /> | 1 | 0 | Voices in Your Head | [🔗](https://open.spotify.com/artist/44v8JgDySt9tkgfV3AWxBJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27363d448b5773d975d66974ce0" alt="" width="50" /> | 1 | 0 | Decadence | [🔗](https://open.spotify.com/artist/3uBUg8TtKXz6m3wY5aXa9I) |
+| <img src="nan" alt="" width="50" /> | 1 | 0 | Gabe Hendifar | [🔗](https://open.spotify.com/artist/3YIBM4yvZHT4lRQa14eHQh) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf3504a2a1d55d7defa6cb2bc" alt="" width="50" /> | 1 | 0 | Hullabahoos | [🔗](https://open.spotify.com/artist/3S1DEHnGNfWmamdZEyLs8I) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebfdafe8faacce33ba647bb2ca" alt="" width="50" /> | 1 | 0 | Eight Beat Measure | [🔗](https://open.spotify.com/artist/3My1YRLewqqDXME2OkBpdZ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb949d918aab8261c4a15d3ab3" alt="" width="50" /> | 1 | 0 | The Doo Wop Shop | [🔗](https://open.spotify.com/artist/3BKvJisNneE6cOuLuBHGpC) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf96beef384557563963fb7ef" alt="" width="50" /> | 1 | 0 | The Vassar Devils | [🔗](https://open.spotify.com/artist/31EncJhuSBcAIsZGA3G1GK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737d920cc55d75078e9dbcc809" alt="" width="50" /> | 1 | 0 | Elizabeth Wright | [🔗](https://open.spotify.com/artist/2tQ7EzEpu1KFpseMdHGSzL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bc621518f25ee489a8d8be58" alt="" width="50" /> | 1 | 0 | Low Key | [🔗](https://open.spotify.com/artist/2bFVGrmfB6A9ljMkunWcXC) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 1 | 0 | [Sara Bareilles](../artists/sara_bareilles.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd55a2b176b231382b54f5e33" alt="" width="50" /> | 1 | 0 | Penn Masala | [🔗](https://open.spotify.com/artist/2MhJb1ljKttJewuYZTpXxr) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb205fd3a3b91de152e22a7078" alt="" width="50" /> | 1 | 0 | Mixed Emotions | [🔗](https://open.spotify.com/artist/2BoHcRUfryDNxa9HQxXSpr) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6d2ff3db79aa33c9be0f2630" alt="" width="50" /> | 1 | 0 | Upper Structure | [🔗](https://open.spotify.com/artist/1tlKq97YGAGBavozMVeddE) |
+| <img src="nan" alt="" width="50" /> | 1 | 0 | University of Michigan G-Men | [🔗](https://open.spotify.com/artist/1jANAnjCBrwxiT4c33eeNc) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb68021119cbab353e2278d4a3" alt="" width="50" /> | 1 | 0 | The Loreleis | [🔗](https://open.spotify.com/artist/1fqMjreaczGwFmdmG6AvJs) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6d4806745c7f345bd59fd90b" alt="" width="50" /> | 1 | 0 | Tufts Jackson Jills | [🔗](https://open.spotify.com/artist/1dUJZ0lbobmanl4W14h0a2) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4d4dd4d97a69b96de84ba61a" alt="" width="50" /> | 1 | 0 | BYU Noteworthy | [🔗](https://open.spotify.com/artist/1ZknN7FbjjjMTmdU42OEeX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27326f8d98a82475c320a41a919" alt="" width="50" /> | 1 | 0 | Academical Village People | [🔗](https://open.spotify.com/artist/1Vjug1h4HXCeplbouQEbV3) |
+| <img src="nan" alt="" width="50" /> | 1 | 0 | Erika Petty | [🔗](https://open.spotify.com/artist/15YH0MYEIRY7AmrrwfVO4W) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb44b7da1ed96c2af6f91602c2" alt="" width="50" /> | 1 | 0 | The Virginia Gentlemen | [🔗](https://open.spotify.com/artist/0steWfkS4hwaErh84SlHMW) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8473502784cc95117c269f23" alt="" width="50" /> | 1 | 0 | The Bostonians | [🔗](https://open.spotify.com/artist/0gW6hG0g7pVNbHgvmYwHDl) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4c275a91813c432ce13b5fbc" alt="" width="50" /> | 1 | 0 | New Dominions | [🔗](https://open.spotify.com/artist/0PzFyYSC4Y7JarVyByrJPc) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb075181955f5ee2a8606b9a95" alt="" width="50" /> | 1 | 0 | The Buffalo Chips | [🔗](https://open.spotify.com/artist/0IAZ8PiZ0KqdMd191HDJ8t) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb0f047d0539e01d8b6c71087" alt="" width="50" /> | 1 | 0 | N'Harmonics | [🔗](https://open.spotify.com/artist/02WQpZmto5LiTgoorLhpLK) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb79df49f258dae5247ad5d5cb" alt="" width="50" /> | 1 | 0 | On The Rocks | [🔗](https://open.spotify.com/artist/00IjdWQ46sSBP4gZYObAMx) |
 
 </details>
 
 
-## Top Albums
+![Bar chart of top 30 artists](../images/labels/varsity_vocals/artists.png)
 
-![Bar chart of top 15 albums](../images/labels/varsity_vocals/albums.png)
+## Top Albums
 
 
 <details>
 <summary>See all 15 albums</summary>
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 9 | <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="" width="50" /> | BOCA 2015: Best Of College A Cappella | 2014-12-19 | [🔗](https://open.spotify.com/album/0gyhBvJs1GiI31cMMmKLnK) |
-| 6 | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="" width="50" /> | BOCA 2013: Best of College A Cappella | 2016 | [🔗](https://open.spotify.com/album/6Pqey2mc4EWSfYNH3bifbO) |
-| 6 | <img src="https://i.scdn.co/image/ab67616d0000b273ea7720f8e0ae5132dbd20303" alt="" width="50" /> | BOCA 2010: Best Of College A Cappella | 2011-02-15 | [🔗](https://open.spotify.com/album/3HSd3voAxPxS50UrfInBVJ) |
-| 6 | <img src="https://i.scdn.co/image/ab67616d0000b2734b3c2c076ef820f59ba15aa0" alt="" width="50" /> | BOCA 2009: Best Of College A Cappella | 2011-02-15 | [🔗](https://open.spotify.com/album/50WaSkL4pVvz9Crsca7oNV) |
-| 6 | <img src="https://i.scdn.co/image/ab67616d0000b27315a14fc8ff338e698d645406" alt="" width="50" /> | BOCA 2008: Best Of College A Cappella | 2011-02-15 | [🔗](https://open.spotify.com/album/4Z0ju0i47UZ2Y4icq2f3wZ) |
-| 5 | <img src="https://i.scdn.co/image/ab67616d0000b2737b67b0ad83e8adff4608e918" alt="" width="50" /> | BOCA 2014: Best Of College A Cappella | 2014-01-31 | [🔗](https://open.spotify.com/album/7rZoAMtoZ8s5mLIlUTWgVT) |
-| 4 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="" width="50" /> | BOCA 2012: Best Of College A Cappella | 2012-01-01 | [🔗](https://open.spotify.com/album/26eCHp86K2xLQj0B7Cr8he) |
-| 4 | <img src="https://i.scdn.co/image/ab67616d0000b273da81ceb610e54852e16f0e82" alt="" width="50" /> | BOCA 2011: Best Of College A Cappella | 2011-01-11 | [🔗](https://open.spotify.com/album/27d96rqnXRtmrGBGHJzPBh) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273a271cb19e4bbf852072f0271" alt="" width="50" /> | BOCA 2021: Best of College A Cappella | 2021-02-06 | [🔗](https://open.spotify.com/album/1eKkeTIlePsRpKkQre78tT) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b2735f80e04f0ea87267cc80ec46" alt="" width="50" /> | BOCA 2018: Best of College A Cappella | 2018 | [🔗](https://open.spotify.com/album/4F7k4viXqEAIlrB5rbAPbF) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b2732c9bde1126c992a7140f4976" alt="" width="50" /> | BOCA 2016: Best Of College A Cappella | 2015-12-15 | [🔗](https://open.spotify.com/album/2AOr4esohQurJGXklhRH1a) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273acd107057c2284c39f1c3b27" alt="" width="50" /> | Best of BOCA: The First 20 Years | 2014-04-15 | [🔗](https://open.spotify.com/album/5bcLIouxn2oBiGvf4vvO6u) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736c863f73a8ec70e519fbc808" alt="" width="50" /> | BOCA 2020: Best of College A Cappella | 2020-01-08 | [🔗](https://open.spotify.com/album/3c4vODZeeDk38CVmjbUERt) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27375e1cccb63989b4aa6a22cbc" alt="" width="50" /> | BOCA 2006: Best Of College A Cappella | 2006-01-01 | [🔗](https://open.spotify.com/album/3AeoTNhXFgBM7CuODGFelQ) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273074aa2a16488cba06eade483" alt="" width="50" /> | BOCA 2004: Best Of College A Cappella | 2004-01-01 | [🔗](https://open.spotify.com/album/5qrIP0zXoDQUSZ9l1ZaECQ) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="" width="50" /> | 9 | 0 | BOCA 2015: Best Of College A Cappella | 2014-12-19 | [🔗](https://open.spotify.com/album/0gyhBvJs1GiI31cMMmKLnK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="" width="50" /> | 6 | 0 | BOCA 2013: Best of College A Cappella | 2016 | [🔗](https://open.spotify.com/album/6Pqey2mc4EWSfYNH3bifbO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea7720f8e0ae5132dbd20303" alt="" width="50" /> | 6 | 0 | BOCA 2010: Best Of College A Cappella | 2011-02-15 | [🔗](https://open.spotify.com/album/3HSd3voAxPxS50UrfInBVJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b3c2c076ef820f59ba15aa0" alt="" width="50" /> | 6 | 0 | BOCA 2009: Best Of College A Cappella | 2011-02-15 | [🔗](https://open.spotify.com/album/50WaSkL4pVvz9Crsca7oNV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27315a14fc8ff338e698d645406" alt="" width="50" /> | 6 | 0 | BOCA 2008: Best Of College A Cappella | 2011-02-15 | [🔗](https://open.spotify.com/album/4Z0ju0i47UZ2Y4icq2f3wZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737b67b0ad83e8adff4608e918" alt="" width="50" /> | 5 | 0 | BOCA 2014: Best Of College A Cappella | 2014-01-31 | [🔗](https://open.spotify.com/album/7rZoAMtoZ8s5mLIlUTWgVT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="" width="50" /> | 4 | 0 | BOCA 2012: Best Of College A Cappella | 2012-01-01 | [🔗](https://open.spotify.com/album/26eCHp86K2xLQj0B7Cr8he) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da81ceb610e54852e16f0e82" alt="" width="50" /> | 4 | 0 | BOCA 2011: Best Of College A Cappella | 2011-01-11 | [🔗](https://open.spotify.com/album/27d96rqnXRtmrGBGHJzPBh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a271cb19e4bbf852072f0271" alt="" width="50" /> | 3 | 0 | BOCA 2021: Best of College A Cappella | 2021-02-06 | [🔗](https://open.spotify.com/album/1eKkeTIlePsRpKkQre78tT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f80e04f0ea87267cc80ec46" alt="" width="50" /> | 3 | 0 | BOCA 2018: Best of College A Cappella | 2018 | [🔗](https://open.spotify.com/album/4F7k4viXqEAIlrB5rbAPbF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732c9bde1126c992a7140f4976" alt="" width="50" /> | 3 | 0 | BOCA 2016: Best Of College A Cappella | 2015-12-15 | [🔗](https://open.spotify.com/album/2AOr4esohQurJGXklhRH1a) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273acd107057c2284c39f1c3b27" alt="" width="50" /> | 1 | 0 | Best of BOCA: The First 20 Years | 2014-04-15 | [🔗](https://open.spotify.com/album/5bcLIouxn2oBiGvf4vvO6u) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c863f73a8ec70e519fbc808" alt="" width="50" /> | 1 | 0 | BOCA 2020: Best of College A Cappella | 2020-01-08 | [🔗](https://open.spotify.com/album/3c4vODZeeDk38CVmjbUERt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27375e1cccb63989b4aa6a22cbc" alt="" width="50" /> | 1 | 0 | BOCA 2006: Best Of College A Cappella | 2006-01-01 | [🔗](https://open.spotify.com/album/3AeoTNhXFgBM7CuODGFelQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273074aa2a16488cba06eade483" alt="" width="50" /> | 1 | 0 | BOCA 2004: Best Of College A Cappella | 2004-01-01 | [🔗](https://open.spotify.com/album/5qrIP0zXoDQUSZ9l1ZaECQ) |
 
 </details>
 
 
-## Genres
+![Bar chart of top 15 albums](../images/labels/varsity_vocals/albums.png)
 
-![Bar chart of top 4 genres](../images/labels/varsity_vocals/genres.png)
+## Genres
 
 
 <details>
 <summary>See all 4 genres</summary>
 
-| Number of Tracks | Genre |
-|---:|:---|
-| 44 | [a cappella](../genres/a_cappella.md) |
-| 36 | college a cappella |
-| 2 | christian a cappella |
-| 1 | lds youth |
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
+| 44 | 0 | [a cappella](../genres/a_cappella.md) |
+| 36 | 0 | college a cappella |
+| 2 | 0 | christian a cappella |
+| 1 | 0 | lds youth |
 
 </details>
 
+
+![Bar chart of top 4 genres](../images/labels/varsity_vocals/genres.png)
 
 ## Tracks released under Varsity Vocals
 

@@ -12,27 +12,27 @@
 | 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | [K-Pop 101](../playlists/k_pop_101/overview.md) |
 ## Top Albums
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b2735e64c5b1565cac58c05f3c0d" alt="" width="50" /> | Bambi - The 3rd Mini Album | 2021-03-30 | [🔗](https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b27365d11e2eb2034dbc6297ec86" alt="" width="50" /> | BAEKHYUN | 2021-01-20 | [🔗](https://open.spotify.com/album/1jV1UooTpZ7c90umcENmOC) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | Dream | 2016-01-07 | [🔗](https://open.spotify.com/album/7ciJtZ2tYXhKsndQ7bf7Vw) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273107e55b2842afce628d050e2" alt="" width="50" /> | Doom at Your Service (Original Television Soundtrack) Pt. 3 | 2021-05-31 | [🔗](https://open.spotify.com/album/2fy01jwC0GrnBGQ4Crcnve) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a280844e6f3397b0632ff64f" alt="" width="50" /> | Delight - The 2nd Mini Album | 2020-05-25 | [🔗](https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738c0903b4b02840c57f103db4" alt="" width="50" /> | City Lights - The 1st Mini Album | 2019-07-10 | [🔗](https://open.spotify.com/album/6AeMj5CMeTXRGhmUuv0LH3) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="" width="50" /> | Amusement Park | 2020-12-21 | [🔗](https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2735e64c5b1565cac58c05f3c0d" alt="" width="50" /> | 3 | 2 | Bambi - The 3rd Mini Album | 2021-03-30 | [🔗](https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27365d11e2eb2034dbc6297ec86" alt="" width="50" /> | 2 | 2 | BAEKHYUN | 2021-01-20 | [🔗](https://open.spotify.com/album/1jV1UooTpZ7c90umcENmOC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | 1 | 1 | Dream | 2016-01-07 | [🔗](https://open.spotify.com/album/7ciJtZ2tYXhKsndQ7bf7Vw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273107e55b2842afce628d050e2" alt="" width="50" /> | 1 | 1 | Doom at Your Service (Original Television Soundtrack) Pt. 3 | 2021-05-31 | [🔗](https://open.spotify.com/album/2fy01jwC0GrnBGQ4Crcnve) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a280844e6f3397b0632ff64f" alt="" width="50" /> | 1 | 1 | Delight - The 2nd Mini Album | 2020-05-25 | [🔗](https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738c0903b4b02840c57f103db4" alt="" width="50" /> | 1 | 1 | City Lights - The 1st Mini Album | 2019-07-10 | [🔗](https://open.spotify.com/album/6AeMj5CMeTXRGhmUuv0LH3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="" width="50" /> | 1 | 1 | Amusement Park | 2020-12-21 | [🔗](https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ) |
 
 ## Top Record Labels
 
-| Number of Tracks | Label |
-|---:|:---|
-| 7 | [SM Entertainment](../labels/sm_entertainment.md) |
-| 2 | avex trax |
-| 1 | 스튜디오앤뉴 |
-| 1 | 뮤직앤뉴 |
-| 1 | MYSTIC ENTERTAINMENT |
-| 1 | [JYP Entertainment](../labels/jyp_entertainment.md) |
-| 1 | ChoongangICS |
+| Tracks | 💚 | Label |
+|---:|---:|:---|
+| 7 | 6 | [SM Entertainment](../labels/sm_entertainment.md) |
+| 2 | 2 | avex trax |
+| 1 | 1 | 스튜디오앤뉴 |
+| 1 | 1 | 뮤직앤뉴 |
+| 1 | 1 | MYSTIC ENTERTAINMENT |
+| 1 | 1 | [JYP Entertainment](../labels/jyp_entertainment.md) |
+| 1 | 1 | ChoongangICS |
 
 ## Genres
 

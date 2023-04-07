@@ -7,63 +7,63 @@ Appears as:
 
 ## Top Artists
 
-![Bar chart of top 12 artists](../images/labels/verve__adult_contemporary__mc/artists.png)
-
 
 <details>
 <summary>See all 12 artists</summary>
 
-| Number of Tracks | Art | Artist | 🔗 |
-|---:|:---|:---|:---|
-| 7 | <img src="https://i.scdn.co/image/8342768be08c1c9bf4af1d4584a103bcb3042704" alt="" width="50" /> | Colm Wilkinson | [🔗](https://open.spotify.com/artist/4hKV8PcRBaHZqBJjSn8OJE) |
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebb464513265be8765dddc19bb" alt="" width="50" /> | Frances Ruffelle | [🔗](https://open.spotify.com/artist/5uSeMCBhe3DiROdFrwaXkw) |
-| 3 | <img src="nan" alt="" width="50" /> | Terrence Mann | [🔗](https://open.spotify.com/artist/5uBIsYz9WatgoViLG6pVj2) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b27391802cd59c40ec47424e2635" alt="" width="50" /> | Judy Kuhn | [🔗](https://open.spotify.com/artist/7tHd518aPjJYUgyv9bidBz) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273f78cfced363cf0e870f0e9ce" alt="" width="50" /> | Michael Maguire | [🔗](https://open.spotify.com/artist/6QjRwce37TfXfjx81KqQ7N) |
-| 2 | <img src="nan" alt="" width="50" /> | Robert Billig | [🔗](https://open.spotify.com/artist/3Ybg9gi5V2x6i8OsLc9M7p) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273505642d91330f9b873c3e576" alt="" width="50" /> | David Bryant | [🔗](https://open.spotify.com/artist/2yPfp367ZwywK1lbGg00b8) |
-| 2 | <img src="nan" alt="" width="50" /> | Randy Graff | [🔗](https://open.spotify.com/artist/2iRiwwxcJb6fXCxO5jt1cz) |
-| 1 | <img src="nan" alt="" width="50" /> | Jesse Corti | [🔗](https://open.spotify.com/artist/53vhGhGRoi9ARM7kr3jrz5) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731a43f0bd7cf9c917edd8398a" alt="" width="50" /> | Donna Vivino | [🔗](https://open.spotify.com/artist/4IDNKwIch36V0UvtfUQF9k) |
-| 1 | <img src="nan" alt="" width="50" /> | Braden Danner | [🔗](https://open.spotify.com/artist/0n5FRSY5ldzVwzb6Tq9Ya3) |
-| 1 | <img src="https://i.scdn.co/image/df5bb0e7652e77a8c259f269564ec4ee1eccd717" alt="" width="50" /> | Cindy Benson | [🔗](https://open.spotify.com/artist/0OIRFXSbEOgnGZXXccjvgt) |
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/8342768be08c1c9bf4af1d4584a103bcb3042704" alt="" width="50" /> | 7 | 0 | Colm Wilkinson | [🔗](https://open.spotify.com/artist/4hKV8PcRBaHZqBJjSn8OJE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb464513265be8765dddc19bb" alt="" width="50" /> | 3 | 0 | Frances Ruffelle | [🔗](https://open.spotify.com/artist/5uSeMCBhe3DiROdFrwaXkw) |
+| <img src="nan" alt="" width="50" /> | 3 | 0 | Terrence Mann | [🔗](https://open.spotify.com/artist/5uBIsYz9WatgoViLG6pVj2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27391802cd59c40ec47424e2635" alt="" width="50" /> | 2 | 0 | Judy Kuhn | [🔗](https://open.spotify.com/artist/7tHd518aPjJYUgyv9bidBz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f78cfced363cf0e870f0e9ce" alt="" width="50" /> | 2 | 0 | Michael Maguire | [🔗](https://open.spotify.com/artist/6QjRwce37TfXfjx81KqQ7N) |
+| <img src="nan" alt="" width="50" /> | 2 | 0 | Robert Billig | [🔗](https://open.spotify.com/artist/3Ybg9gi5V2x6i8OsLc9M7p) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273505642d91330f9b873c3e576" alt="" width="50" /> | 2 | 0 | David Bryant | [🔗](https://open.spotify.com/artist/2yPfp367ZwywK1lbGg00b8) |
+| <img src="nan" alt="" width="50" /> | 2 | 0 | Randy Graff | [🔗](https://open.spotify.com/artist/2iRiwwxcJb6fXCxO5jt1cz) |
+| <img src="nan" alt="" width="50" /> | 1 | 0 | Jesse Corti | [🔗](https://open.spotify.com/artist/53vhGhGRoi9ARM7kr3jrz5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731a43f0bd7cf9c917edd8398a" alt="" width="50" /> | 1 | 0 | Donna Vivino | [🔗](https://open.spotify.com/artist/4IDNKwIch36V0UvtfUQF9k) |
+| <img src="nan" alt="" width="50" /> | 1 | 0 | Braden Danner | [🔗](https://open.spotify.com/artist/0n5FRSY5ldzVwzb6Tq9Ya3) |
+| <img src="https://i.scdn.co/image/df5bb0e7652e77a8c259f269564ec4ee1eccd717" alt="" width="50" /> | 1 | 0 | Cindy Benson | [🔗](https://open.spotify.com/artist/0OIRFXSbEOgnGZXXccjvgt) |
 
 </details>
 
 
+![Bar chart of top 12 artists](../images/labels/verve__adult_contemporary__mc/artists.png)
+
 ## Top Albums
-
-
 
 
 <details>
 <summary>See all 1 albums</summary>
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 20 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | Les Misérables (Original Broadway Cast Recording) | 1987-05-11 | [🔗](https://open.spotify.com/album/3jbKDx0zB1QoJQTw8i1AvD) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | 20 | 0 | Les Misérables (Original Broadway Cast Recording) | 1987-05-11 | [🔗](https://open.spotify.com/album/3jbKDx0zB1QoJQTw8i1AvD) |
 
 </details>
 
 
-## Genres
 
-![Bar chart of top 5 genres](../images/labels/verve__adult_contemporary__mc/genres.png)
+
+## Genres
 
 
 <details>
 <summary>See all 5 genres</summary>
 
-| Number of Tracks | Genre |
-|---:|:---|
-| 11 | [show tunes](../genres/show_tunes.md) |
-| 9 | [hollywood](../genres/hollywood.md) |
-| 5 | west end |
-| 4 | [broadway](../genres/broadway.md) |
-| 2 | movie tunes |
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
+| 11 | 0 | [show tunes](../genres/show_tunes.md) |
+| 9 | 0 | [hollywood](../genres/hollywood.md) |
+| 5 | 0 | west end |
+| 4 | 0 | [broadway](../genres/broadway.md) |
+| 2 | 0 | movie tunes |
 
 </details>
 
+
+![Bar chart of top 5 genres](../images/labels/verve__adult_contemporary__mc/genres.png)
 
 ## Tracks released under Verve (Adult Contemporary) MC
 

@@ -7,58 +7,58 @@ Appears as:
 
 ## Top Artists
 
-![Bar chart of top 3 artists](../images/labels/hybe/artists.png)
-
 
 <details>
 <summary>See all 3 artists</summary>
 
-| Number of Tracks | Art | Artist | 🔗 |
-|---:|:---|:---|:---|
-| 10 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f97c0f27aa7ae7f8351e47a" alt="" width="50" /> | Becky G | [🔗](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | j-hope | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | 10 | 6 | [BTS](../artists/bts.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7f97c0f27aa7ae7f8351e47a" alt="" width="50" /> | 1 | 1 | Becky G | [🔗](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | 1 | 1 | j-hope | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
 
 </details>
 
 
-## Top Albums
+![Bar chart of top 3 artists](../images/labels/hybe/artists.png)
 
-![Bar chart of top 7 albums](../images/labels/hybe/albums.png)
+## Top Albums
 
 
 <details>
 <summary>See all 7 albums</summary>
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | Love Yourself 承 'Her' | 2017-09-18 | [🔗](https://open.spotify.com/album/2FTS6a6DLXMNp8flyA0HGO) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2738f31818d30fdb7f44fd57713" alt="" width="50" /> | Dark & Wild | 2014-08-20 | [🔗](https://open.spotify.com/album/7FxxU3EP37uMsZf8FilkDR) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b27349a0f2ca62742d289da81509" alt="" width="50" /> | 2 Cool 4 Skool | 2013-06-12 | [🔗](https://open.spotify.com/album/26z5WolFltYgVMuuJ3c0Am) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273bd375b430c3abeceb8b5d8da" alt="" width="50" /> | You Never Walk Alone | 2017-02-13 | [🔗](https://open.spotify.com/album/7LF4N7lvyDhrPBuCJ1rplJ) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738ac442a54c68aad8f9b93f51" alt="" width="50" /> | The Most Beautiful Moment in Life Pt.2 | 2015-11-30 | [🔗](https://open.spotify.com/album/4frjaGAtuBmm8CPuYPY4oG) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273819e2d9468a6792735c0ec77" alt="" width="50" /> | Chicken Noodle Soup (feat. Becky G) | 2019-09-27 | [🔗](https://open.spotify.com/album/76IRLp7YzBVLKsat6Ro9ae) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ed656680374294d5217193fa" alt="" width="50" /> | Butter | 2021-05-21 | [🔗](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | 3 | 2 | Love Yourself 承 'Her' | 2017-09-18 | [🔗](https://open.spotify.com/album/2FTS6a6DLXMNp8flyA0HGO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738f31818d30fdb7f44fd57713" alt="" width="50" /> | 2 | 1 | Dark & Wild | 2014-08-20 | [🔗](https://open.spotify.com/album/7FxxU3EP37uMsZf8FilkDR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27349a0f2ca62742d289da81509" alt="" width="50" /> | 2 | 0 | 2 Cool 4 Skool | 2013-06-12 | [🔗](https://open.spotify.com/album/26z5WolFltYgVMuuJ3c0Am) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bd375b430c3abeceb8b5d8da" alt="" width="50" /> | 1 | 1 | You Never Walk Alone | 2017-02-13 | [🔗](https://open.spotify.com/album/7LF4N7lvyDhrPBuCJ1rplJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738ac442a54c68aad8f9b93f51" alt="" width="50" /> | 1 | 1 | The Most Beautiful Moment in Life Pt.2 | 2015-11-30 | [🔗](https://open.spotify.com/album/4frjaGAtuBmm8CPuYPY4oG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273819e2d9468a6792735c0ec77" alt="" width="50" /> | 1 | 1 | Chicken Noodle Soup (feat. Becky G) | 2019-09-27 | [🔗](https://open.spotify.com/album/76IRLp7YzBVLKsat6Ro9ae) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ed656680374294d5217193fa" alt="" width="50" /> | 1 | 1 | Butter | 2021-05-21 | [🔗](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) |
 
 </details>
 
 
-## Genres
+![Bar chart of top 7 albums](../images/labels/hybe/albums.png)
 
-![Bar chart of top 3 genres](../images/labels/hybe/genres.png)
+## Genres
 
 
 <details>
 <summary>See all 3 genres</summary>
 
-| Number of Tracks | Genre |
-|---:|:---|
-| 11 | [k-pop](../genres/k_pop.md) |
-| 10 | [k-pop boy group](../genres/k_pop_boy_group.md) |
-| 1 | k-rap |
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
+| 11 | 7 | [k-pop](../genres/k_pop.md) |
+| 10 | 6 | [k-pop boy group](../genres/k_pop_boy_group.md) |
+| 1 | 1 | k-rap |
 
 </details>
 
+
+![Bar chart of top 3 genres](../images/labels/hybe/genres.png)
 
 ## Tracks released under HYBE
 

@@ -10,30 +10,30 @@
 | 25 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | [Pop](../playlists/pop/overview.md) |
 ## Top Albums
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 5 | <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | My Everything (Deluxe) | 2014-08-25 | [🔗](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) |
-| 4 | <img src="https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8" alt="" width="50" /> | thank u, next | 2019-02-08 | [🔗](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) |
-| 4 | <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="" width="50" /> | Dangerous Woman | 2016-05-20 | [🔗](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605" alt="" width="50" /> | Positions | 2020-10-30 | [🔗](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2734bb9f35da9ff34b1e2314d8e" alt="" width="50" /> | Yours Truly | 2013-01-01 | [🔗](https://open.spotify.com/album/5xSvNPstcxHtR4ap2vvN8A) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394" alt="" width="50" /> | Sweetener | 2018-08-17 | [🔗](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732ca010dcf3863a07611d8b4f" alt="" width="50" /> | boyfriend | 2019-08-02 | [🔗](https://open.spotify.com/album/3zVB99XMdbP9HTVNg0GJwV) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732babb9dbd8f5146112f1bf86" alt="" width="50" /> | Stuck with U | 2020-05-08 | [🔗](https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | Focus | 2015-10-30 | [🔗](https://open.spotify.com/album/3IGM1sXYke2UGII2DORrof) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | Chromatica | 2020-05-29 | [🔗](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273c891137d2513ecd496e9152e" alt="" width="50" /> | Charlie's Angels (Original Motion Picture Soundtrack) | 2019-11-01 | [🔗](https://open.spotify.com/album/4NBuascXb3uK0mFUYuJ63f) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | 5 | 4 | My Everything (Deluxe) | 2014-08-25 | [🔗](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="" width="50" /> | 4 | 3 | Dangerous Woman | 2016-05-20 | [🔗](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8" alt="" width="50" /> | 4 | 2 | thank u, next | 2019-02-08 | [🔗](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605" alt="" width="50" /> | 3 | 1 | Positions | 2020-10-30 | [🔗](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734bb9f35da9ff34b1e2314d8e" alt="" width="50" /> | 2 | 2 | Yours Truly | 2013-01-01 | [🔗](https://open.spotify.com/album/5xSvNPstcxHtR4ap2vvN8A) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394" alt="" width="50" /> | 2 | 2 | Sweetener | 2018-08-17 | [🔗](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732babb9dbd8f5146112f1bf86" alt="" width="50" /> | 1 | 1 | Stuck with U | 2020-05-08 | [🔗](https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 1 | 1 | Focus | 2015-10-30 | [🔗](https://open.spotify.com/album/3IGM1sXYke2UGII2DORrof) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ca010dcf3863a07611d8b4f" alt="" width="50" /> | 1 | 0 | boyfriend | 2019-08-02 | [🔗](https://open.spotify.com/album/3zVB99XMdbP9HTVNg0GJwV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | 1 | 0 | Chromatica | 2020-05-29 | [🔗](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c891137d2513ecd496e9152e" alt="" width="50" /> | 1 | 0 | Charlie's Angels (Original Motion Picture Soundtrack) | 2019-11-01 | [🔗](https://open.spotify.com/album/4NBuascXb3uK0mFUYuJ63f) |
 
 ## Top Record Labels
 
-| Number of Tracks | Label |
-|---:|:---|
-| 12 | [Universal Music LLC](../labels/universal_music_llc.md) |
-| 10 | [Republic Records](../labels/republic_records.md) |
-| 1 | Silver Cloud |
-| 1 | [Interscope Records](../labels/interscope_records.md) |
-| 1 | Charlie's Angels |
-| 1 | Ariana Grande & Justin Bieber "Stuck With U"- Charity |
+| Tracks | 💚 | Label |
+|---:|---:|:---|
+| 12 | 10 | [Universal Music LLC](../labels/universal_music_llc.md) |
+| 10 | 5 | [Republic Records](../labels/republic_records.md) |
+| 1 | 1 | Ariana Grande & Justin Bieber "Stuck With U"- Charity |
+| 1 | 0 | Silver Cloud |
+| 1 | 0 | [Interscope Records](../labels/interscope_records.md) |
+| 1 | 0 | Charlie's Angels |
 
 ## Genres
 

@@ -7,53 +7,53 @@ Appears as:
 
 ## Top Artists
 
-![Bar chart of top 3 artists](../images/labels/mariinsky/artists.png)
-
 
 <details>
 <summary>See all 3 artists</summary>
 
-| Number of Tracks | Art | Artist | 🔗 |
-|---:|:---|:---|:---|
-| 18 | <img src="https://i.scdn.co/image/49da328b0629313b2c452bf35d8c50d013274f5b" alt="" width="50" /> | Igor Stravinsky | [🔗](https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE) |
-| 18 | <img src="https://i.scdn.co/image/ab6761610000e5eb0065f11220ca4bb030bffb72" alt="" width="50" /> | Mariinsky Orchestra | [🔗](https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6) |
-| 18 | <img src="https://i.scdn.co/image/ab6761610000e5eb85c25fffeaf7a209268e9372" alt="" width="50" /> | Valery Gergiev | [🔗](https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2) |
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/49da328b0629313b2c452bf35d8c50d013274f5b" alt="" width="50" /> | 18 | 0 | Igor Stravinsky | [🔗](https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0065f11220ca4bb030bffb72" alt="" width="50" /> | 18 | 0 | Mariinsky Orchestra | [🔗](https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb85c25fffeaf7a209268e9372" alt="" width="50" /> | 18 | 0 | Valery Gergiev | [🔗](https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2) |
 
 </details>
 
 
+![Bar chart of top 3 artists](../images/labels/mariinsky/artists.png)
+
 ## Top Albums
-
-
 
 
 <details>
 <summary>See all 1 albums</summary>
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 18 | <img src="https://i.scdn.co/image/ab67616d0000b2736d425516ed4317947a4f48af" alt="" width="50" /> | Stravinsky: Petrushka, Jeu de cartes | 2018-10-19 | [🔗](https://open.spotify.com/album/19fQbFNjlfXgBAFqftKzWA) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2736d425516ed4317947a4f48af" alt="" width="50" /> | 18 | 0 | Stravinsky: Petrushka, Jeu de cartes | 2018-10-19 | [🔗](https://open.spotify.com/album/19fQbFNjlfXgBAFqftKzWA) |
 
 </details>
 
 
-## Genres
 
-![Bar chart of top 4 genres](../images/labels/mariinsky/genres.png)
+
+## Genres
 
 
 <details>
 <summary>See all 4 genres</summary>
 
-| Number of Tracks | Genre |
-|---:|:---|
-| 18 | russian modern classical |
-| 18 | neoclassicism |
-| 18 | early modern classical |
-| 18 | classical |
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
+| 18 | 0 | russian modern classical |
+| 18 | 0 | neoclassicism |
+| 18 | 0 | early modern classical |
+| 18 | 0 | classical |
 
 </details>
 
+
+![Bar chart of top 4 genres](../images/labels/mariinsky/genres.png)
 
 ## Tracks released under Mariinsky
 

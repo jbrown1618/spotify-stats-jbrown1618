@@ -4,106 +4,122 @@
 
 ## Top Artists
 
-![Bar chart of top 19 artists](../images/genres/pop_rock/artists.png)
-
-![Comparison of Artist](../images/genres/pop_rock/artists_comparison.png)
-
 
 <details>
 <summary>See all 19 artists</summary>
 
-| Number of Tracks | Art | Artist | 🔗 |
-|---:|:---|:---|:---|
-| 59 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../artists/sara_bareilles.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb8457f57bc526c37bd804b924" alt="" width="50" /> | KT Tunstall | [🔗](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) |
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | Jason Mraz | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebf01bf904b446e4a043acb867" alt="" width="50" /> | The Script | [🔗](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9bbbc124c9f0f75af892d97d" alt="" width="50" /> | Christina Perri | [🔗](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) |
-| 1 | <img src="https://i.scdn.co/image/ab6772690000c46c44408083dac26a782655baf3" alt="" width="50" /> | Alanis Morissette | [🔗](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9bc0756eb16b241111bbc72b" alt="" width="50" /> | Colbie Caillat | [🔗](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eba4111dde02328708f5180b54" alt="" width="50" /> | Sheppard | [🔗](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb46416642da7b30327821d26e" alt="" width="50" /> | A Great Big World | [🔗](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1202580c944efb0b9c14dfd0" alt="" width="50" /> | The Black Crowes | [🔗](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1687995a9c0172c195049cb1" alt="" width="50" /> | Gavin DeGraw | [🔗](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7ef3783488fcf0dab0708970" alt="" width="50" /> | Fitz and The Tantrums | [🔗](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb1a7d0845c3b7e2f130264957" alt="" width="50" /> | The Smashing Pumpkins | [🔗](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe93b88b6103a78ede975ebbe" alt="" width="50" /> | Snow Patrol | [🔗](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9e0ca4a2881766ad646d449d" alt="" width="50" /> | Eagle-Eye Cherry | [🔗](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0168ba8148c07c2cdeb7d067" alt="" width="50" /> | a-ha | [🔗](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | Christina Aguilera | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eba9add5f319d70026d4f3b8a1" alt="" width="50" /> | Rixton | [🔗](https://open.spotify.com/artist/0kkxsdcaWmWU2yWAqclDh4) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0b549f4ea1ab50fbae9e4a4b" alt="" width="50" /> | Neon Trees | [🔗](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) |
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 59 | 41 | [Sara Bareilles](../artists/sara_bareilles.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | 3 | 2 | Jason Mraz | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8457f57bc526c37bd804b924" alt="" width="50" /> | 3 | 1 | KT Tunstall | [🔗](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf01bf904b446e4a043acb867" alt="" width="50" /> | 2 | 2 | The Script | [🔗](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) |
+| <img src="https://i.scdn.co/image/ab6772690000c46c44408083dac26a782655baf3" alt="" width="50" /> | 1 | 1 | Alanis Morissette | [🔗](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9bc0756eb16b241111bbc72b" alt="" width="50" /> | 1 | 1 | Colbie Caillat | [🔗](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba4111dde02328708f5180b54" alt="" width="50" /> | 1 | 1 | Sheppard | [🔗](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb46416642da7b30327821d26e" alt="" width="50" /> | 1 | 1 | A Great Big World | [🔗](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1202580c944efb0b9c14dfd0" alt="" width="50" /> | 1 | 1 | The Black Crowes | [🔗](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7ef3783488fcf0dab0708970" alt="" width="50" /> | 1 | 1 | Fitz and The Tantrums | [🔗](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0168ba8148c07c2cdeb7d067" alt="" width="50" /> | 1 | 1 | a-ha | [🔗](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | 1 | 1 | Christina Aguilera | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba9add5f319d70026d4f3b8a1" alt="" width="50" /> | 1 | 1 | Rixton | [🔗](https://open.spotify.com/artist/0kkxsdcaWmWU2yWAqclDh4) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0b549f4ea1ab50fbae9e4a4b" alt="" width="50" /> | 1 | 1 | Neon Trees | [🔗](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9bbbc124c9f0f75af892d97d" alt="" width="50" /> | 1 | 0 | Christina Perri | [🔗](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1687995a9c0172c195049cb1" alt="" width="50" /> | 1 | 0 | Gavin DeGraw | [🔗](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1a7d0845c3b7e2f130264957" alt="" width="50" /> | 1 | 0 | The Smashing Pumpkins | [🔗](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe93b88b6103a78ede975ebbe" alt="" width="50" /> | 1 | 0 | Snow Patrol | [🔗](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9e0ca4a2881766ad646d449d" alt="" width="50" /> | 1 | 0 | Eagle-Eye Cherry | [🔗](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) |
 
 </details>
 
-## Top Albums
 
-![Bar chart of top 23 albums](../images/genres/pop_rock/albums.png)
+![Bar chart of top 19 artists](../images/genres/pop_rock/artists.png)
+
+![Comparison of Artist](../images/genres/pop_rock/artists_comparison.png)
+## Top Albums
 
 
 <details>
 <summary>See all 23 albums</summary>
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 13 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | Kaleidoscope Heart | 2010-09-07 | [🔗](https://open.spotify.com/album/627ukPRwYxyBREHxBq0vGJ) |
-| 12 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | The Blessed Unrest | 2013-07-16 | [🔗](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) |
-| 12 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Little Voice | 2007-07-03 | [🔗](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) |
-| 10 | <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | Amidst the Chaos (Bonus Version) | 2019-05-10 | [🔗](https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm) |
-| 6 | <img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="" width="50" /> | What's Inside: Songs from Waitress | 2015-11-06 | [🔗](https://open.spotify.com/album/1s6codM2ZAB008t9GTyaEk) |
-| 5 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | Once Upon Another Time | 2012-05-22 | [🔗](https://open.spotify.com/album/1PrqYZJRzGNf8AsSOraxnZ) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273183730e8038fa632b2c227da" alt="" width="50" /> | Eye To The Telescope | 2005-01-01 | [🔗](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2730f2e51f7121539e221c51161" alt="" width="50" /> | We Sing. We Dance. We Steal Things. | 2008-05-12 | [🔗](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | The Script | 2008-07-14 | [🔗](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27326a2f5224465a369f8abbf88" alt="" width="50" /> | lovestrong. | 2011-05-10 | [🔗](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a4d2cb95d3ea17f773db23ee" alt="" width="50" /> | Shake Your Money Maker | 1990-02-13 | [🔗](https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6c0376235e5aa44e59d2c2" alt="" width="50" /> | Picture Show | 2012-01-01 | [🔗](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="" width="50" /> | Mellon Collie And The Infinite Sadness (Deluxe Edition) | 1995 | [🔗](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="" width="50" /> | Let The Road | 2014-01-01 | [🔗](https://open.spotify.com/album/02ae5i5UAoFrt2peVox9Xd) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27392c885317fbe4bfa680109b4" alt="" width="50" /> | Jagged Little Pill | 1995-06-09 | [🔗](https://open.spotify.com/album/09AwlP99cHfKVNKv4FC8VW) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273554488d0c51967b1654d8ce5" alt="" width="50" /> | Is There Anybody Out There? | 2014-01-20 | [🔗](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53" alt="" width="50" /> | Hunting High and Low | 1985-06-01 | [🔗](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734d991176cbf36bd168e00a0a" alt="" width="50" /> | Fitz and The Tantrums (Deluxe Edition) | 2017-07-24 | [🔗](https://open.spotify.com/album/4eoIRaV8z8v2LaXQSWy2LC) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f" alt="" width="50" /> | Eyes Open | 2006-01-01 | [🔗](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273aacc6949864aa4c1073d3060" alt="" width="50" /> | Desireless | 1998-07-13 | [🔗](https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27309ec47c2a2173e984d8461e9" alt="" width="50" /> | Chariot - Stripped | 2004-07-26 | [🔗](https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="" width="50" /> | Brave Enough: Live at the Variety Playhouse | 2013-10-22 | [🔗](https://open.spotify.com/album/7L4ZgnQqEhCEsV9GnMeXtE) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734b20e4a8e06f19bcd51a5406" alt="" width="50" /> | Bombs Away | 2015-03-10 | [🔗](https://open.spotify.com/album/2Yi29VOccHCwktsZNqtxbt) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | 13 | 10 | Kaleidoscope Heart | 2010-09-07 | [🔗](https://open.spotify.com/album/627ukPRwYxyBREHxBq0vGJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | 12 | 11 | The Blessed Unrest | 2013-07-16 | [🔗](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | 12 | 8 | Little Voice | 2007-07-03 | [🔗](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | 10 | 6 | Amidst the Chaos (Bonus Version) | 2019-05-10 | [🔗](https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="" width="50" /> | 6 | 1 | What's Inside: Songs from Waitress | 2015-11-06 | [🔗](https://open.spotify.com/album/1s6codM2ZAB008t9GTyaEk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | 5 | 5 | Once Upon Another Time | 2012-05-22 | [🔗](https://open.spotify.com/album/1PrqYZJRzGNf8AsSOraxnZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273183730e8038fa632b2c227da" alt="" width="50" /> | 3 | 1 | Eye To The Telescope | 2005-01-01 | [🔗](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730f2e51f7121539e221c51161" alt="" width="50" /> | 2 | 2 | We Sing. We Dance. We Steal Things. | 2008-05-12 | [🔗](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | 2 | 2 | The Script | 2008-07-14 | [🔗](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a4d2cb95d3ea17f773db23ee" alt="" width="50" /> | 1 | 1 | Shake Your Money Maker | 1990-02-13 | [🔗](https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734a6c0376235e5aa44e59d2c2" alt="" width="50" /> | 1 | 1 | Picture Show | 2012-01-01 | [🔗](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="" width="50" /> | 1 | 1 | Let The Road | 2014-01-01 | [🔗](https://open.spotify.com/album/02ae5i5UAoFrt2peVox9Xd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27392c885317fbe4bfa680109b4" alt="" width="50" /> | 1 | 1 | Jagged Little Pill | 1995-06-09 | [🔗](https://open.spotify.com/album/09AwlP99cHfKVNKv4FC8VW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273554488d0c51967b1654d8ce5" alt="" width="50" /> | 1 | 1 | Is There Anybody Out There? | 2014-01-20 | [🔗](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53" alt="" width="50" /> | 1 | 1 | Hunting High and Low | 1985-06-01 | [🔗](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734d991176cbf36bd168e00a0a" alt="" width="50" /> | 1 | 1 | Fitz and The Tantrums (Deluxe Edition) | 2017-07-24 | [🔗](https://open.spotify.com/album/4eoIRaV8z8v2LaXQSWy2LC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b20e4a8e06f19bcd51a5406" alt="" width="50" /> | 1 | 1 | Bombs Away | 2015-03-10 | [🔗](https://open.spotify.com/album/2Yi29VOccHCwktsZNqtxbt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27326a2f5224465a369f8abbf88" alt="" width="50" /> | 1 | 0 | lovestrong. | 2011-05-10 | [🔗](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="" width="50" /> | 1 | 0 | Mellon Collie And The Infinite Sadness (Deluxe Edition) | 1995 | [🔗](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f" alt="" width="50" /> | 1 | 0 | Eyes Open | 2006-01-01 | [🔗](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aacc6949864aa4c1073d3060" alt="" width="50" /> | 1 | 0 | Desireless | 1998-07-13 | [🔗](https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27309ec47c2a2173e984d8461e9" alt="" width="50" /> | 1 | 0 | Chariot - Stripped | 2004-07-26 | [🔗](https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="" width="50" /> | 1 | 0 | Brave Enough: Live at the Variety Playhouse | 2013-10-22 | [🔗](https://open.spotify.com/album/7L4ZgnQqEhCEsV9GnMeXtE) |
 
 </details>
 
 
-## Top Record Labels
+![Bar chart of top 23 albums](../images/genres/pop_rock/albums.png)
 
-![Bar chart of top 17 record labels](../images/genres/pop_rock/labels.png)
+## Top Record Labels
 
 
 <details>
 <summary>See all 17 labels</summary>
 
-| Number of Tracks | Label |
-|---:|:---|
-| 62 | [Epic](../labels/epic.md) |
-| 4 | [Virgin Records](../labels/virgin_records.md) |
-| 3 | Relentless |
-| 3 | [Atlantic Records](../labels/atlantic_records.md) |
-| 2 | Phonogenic |
-| 2 | ATG |
-| 1 | Work |
-| 1 | Silent Records |
-| 1 | [Rhino](../labels/rhino.md) |
-| 1 | [Polydor Records](../labels/polydor_records.md) |
-| 1 | Mercury Records |
-| 1 | Maverick |
-| 1 | J Records |
-| 1 | Giant Little Man |
-| 1 | Elektra (NEK) |
-| 1 | [Decca (UMO)](../labels/decca__umo_.md) |
-| 1 | American Recordings Catalog P&D |
+| Tracks | 💚 | Label |
+|---:|---:|:---|
+| 62 | 44 | [Epic](../labels/epic.md) |
+| 4 | 1 | [Virgin Records](../labels/virgin_records.md) |
+| 3 | 2 | [Atlantic Records](../labels/atlantic_records.md) |
+| 3 | 1 | Relentless |
+| 2 | 2 | Phonogenic |
+| 2 | 2 | ATG |
+| 1 | 1 | Silent Records |
+| 1 | 1 | [Rhino](../labels/rhino.md) |
+| 1 | 1 | Mercury Records |
+| 1 | 1 | Maverick |
+| 1 | 1 | Giant Little Man |
+| 1 | 1 | Elektra (NEK) |
+| 1 | 1 | [Decca (UMO)](../labels/decca__umo_.md) |
+| 1 | 1 | American Recordings Catalog P&D |
+| 1 | 0 | Work |
+| 1 | 0 | [Polydor Records](../labels/polydor_records.md) |
+| 1 | 0 | J Records |
 
 </details>
 
 
+![Bar chart of top 17 record labels](../images/genres/pop_rock/labels.png)
+
+## Years
+
+![Bar chart of number of songs by year](../images/genres/pop_rock/years.png)
+
+| 10 newest albums | 10 oldest albums |
+|:---|:---|
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="Amidst the Chaos (Bonus Version)" width="50" /> <span style="padding-left:10px;">Amidst the Chaos (Bonus Version) (2019-05-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53" alt="Hunting High and Low" width="50" /> <span style="padding-left:10px;">Hunting High and Low (1985-06-01)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734d991176cbf36bd168e00a0a" alt="Fitz and The Tantrums (Deluxe Edition)" width="50" /> <span style="padding-left:10px;">Fitz and The Tantrums (Deluxe Edition) (2017-07-24)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a4d2cb95d3ea17f773db23ee" alt="Shake Your Money Maker" width="50" /> <span style="padding-left:10px;">Shake Your Money Maker (1990-02-13)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="What's Inside: Songs from Waitress" width="50" /> <span style="padding-left:10px;">What's Inside: Songs from Waitress (2015-11-06)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="Mellon Collie And The Infinite Sadness (Deluxe Edition)" width="50" /> <span style="padding-left:10px;">Mellon Collie And The Infinite Sadness (Deluxe Edition) (1995)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734b20e4a8e06f19bcd51a5406" alt="Bombs Away" width="50" /> <span style="padding-left:10px;">Bombs Away (2015-03-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27392c885317fbe4bfa680109b4" alt="Jagged Little Pill" width="50" /> <span style="padding-left:10px;">Jagged Little Pill (1995-06-09)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273554488d0c51967b1654d8ce5" alt="Is There Anybody Out There?" width="50" /> <span style="padding-left:10px;">Is There Anybody Out There? (2014-01-20)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273aacc6949864aa4c1073d3060" alt="Desireless" width="50" /> <span style="padding-left:10px;">Desireless (1998-07-13)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="Let The Road" width="50" /> <span style="padding-left:10px;">Let The Road (2014-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27309ec47c2a2173e984d8461e9" alt="Chariot - Stripped" width="50" /> <span style="padding-left:10px;">Chariot - Stripped (2004-07-26)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="Brave Enough: Live at the Variety Playhouse" width="50" /> <span style="padding-left:10px;">Brave Enough: Live at the Variety Playhouse (2013-10-22)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273183730e8038fa632b2c227da" alt="Eye To The Telescope" width="50" /> <span style="padding-left:10px;">Eye To The Telescope (2005-01-01)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> <span style="padding-left:10px;">The Blessed Unrest (2013-07-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f" alt="Eyes Open" width="50" /> <span style="padding-left:10px;">Eyes Open (2006-01-01)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> <span style="padding-left:10px;">Once Upon Another Time (2012-05-22)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> <span style="padding-left:10px;">Little Voice (2007-07-03)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734a6c0376235e5aa44e59d2c2" alt="Picture Show" width="50" /> <span style="padding-left:10px;">Picture Show (2012-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2730f2e51f7121539e221c51161" alt="We Sing. We Dance. We Steal Things." width="50" /> <span style="padding-left:10px;">We Sing. We Dance. We Steal Things. (2008-05-12)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |

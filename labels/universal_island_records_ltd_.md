@@ -8,56 +8,56 @@ Appears as:
 ## Top Artists
 
 
-
-
 <details>
 <summary>See all 2 artists</summary>
 
-| Number of Tracks | Art | Artist | 🔗 |
-|---:|:---|:---|:---|
-| 15 | <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | [Florence + The Machine](../artists/florence___the_machine.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c" alt="" width="50" /> | Amy Winehouse | [🔗](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) |
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | 15 | 14 | [Florence + The Machine](../artists/florence___the_machine.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c" alt="" width="50" /> | 3 | 2 | Amy Winehouse | [🔗](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) |
 
 </details>
 
 
-## Top Albums
 
-![Bar chart of top 5 albums](../images/labels/universal_island_records_ltd_/albums.png)
+
+## Top Albums
 
 
 <details>
 <summary>See all 5 albums</summary>
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 6 | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | Lungs | 2009-01-01 | [🔗](https://open.spotify.com/album/2KAK58PimXHF4lSoKO3RxA) |
-| 6 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Ceremonials (Deluxe Edition) | 2011-01-01 | [🔗](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | How Big, How Blue, How Beautiful | 2015-06-01 | [🔗](https://open.spotify.com/album/2btszoya78vyT8fwelmVnz) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2738f52f321140e4a76ea720c52" alt="" width="50" /> | Back To Black | 2006-10-27 | [🔗](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27376ffb5b5ab045d22c81235c1" alt="" width="50" /> | Back To Black (Deluxe Edition) | 2006 | [🔗](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | 6 | 6 | Lungs | 2009-01-01 | [🔗](https://open.spotify.com/album/2KAK58PimXHF4lSoKO3RxA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | 6 | 6 | Ceremonials (Deluxe Edition) | 2011-01-01 | [🔗](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | 3 | 2 | How Big, How Blue, How Beautiful | 2015-06-01 | [🔗](https://open.spotify.com/album/2btszoya78vyT8fwelmVnz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738f52f321140e4a76ea720c52" alt="" width="50" /> | 2 | 2 | Back To Black | 2006-10-27 | [🔗](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27376ffb5b5ab045d22c81235c1" alt="" width="50" /> | 1 | 0 | Back To Black (Deluxe Edition) | 2006 | [🔗](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) |
 
 </details>
 
 
-## Genres
+![Bar chart of top 5 albums](../images/labels/universal_island_records_ltd_/albums.png)
 
-![Bar chart of top 5 genres](../images/labels/universal_island_records_ltd_/genres.png)
+## Genres
 
 
 <details>
 <summary>See all 5 genres</summary>
 
-| Number of Tracks | Genre |
-|---:|:---|
-| 15 | uk alternative pop |
-| 15 | [pop](../genres/pop.md) |
-| 15 | baroque pop |
-| 3 | neo soul |
-| 3 | british soul |
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
+| 15 | 14 | uk alternative pop |
+| 15 | 14 | [pop](../genres/pop.md) |
+| 15 | 14 | baroque pop |
+| 3 | 2 | neo soul |
+| 3 | 2 | british soul |
 
 </details>
 
+
+![Bar chart of top 5 genres](../images/labels/universal_island_records_ltd_/genres.png)
 
 ## Tracks released under Universal-Island Records Ltd.
 

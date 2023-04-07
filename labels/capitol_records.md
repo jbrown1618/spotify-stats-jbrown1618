@@ -9,95 +9,95 @@ Appears as:
 
 ## Top Artists
 
-![Bar chart of top 13 artists](../images/labels/capitol_records/artists.png)
-
 
 <details>
 <summary>See all 13 artists</summary>
 
-| Number of Tracks | Art | Artist | 🔗 |
-|---:|:---|:---|:---|
-| 6 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc9dcb7e4a97b4552e1224d6" alt="" width="50" /> | Katy Perry | [🔗](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) |
-| 3 | <img src="https://i.scdn.co/image/9a03437da395d999755edacccc24779a97254b89" alt="" width="50" /> | Aslyn | [🔗](https://open.spotify.com/artist/6seR0G84QQq1NIW844E7Qq) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8167bcebaf508dc6c3459b1" alt="" width="50" /> | Maggie Rogers | [🔗](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
-| 2 | <img src="https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411" alt="" width="50" /> | Frank Sinatra | [🔗](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb2be5d8fd3746a70e9637a665" alt="" width="50" /> | Nat King Cole | [🔗](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a398209a4ef3360dce2dec4" alt="" width="50" /> | Snoop Dogg | [🔗](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb92ce1e218cb7b48386efe3d8" alt="" width="50" /> | 5 Seconds of Summer | [🔗](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8d69367047a24d20b0323ff7" alt="" width="50" /> | SuperM | [🔗](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebe86f788af4e127154da1257f" alt="" width="50" /> | Bonnie Raitt | [🔗](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | [BTS](../artists/bts.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebeccc1cde8e9fdcf1c9289897" alt="" width="50" /> | Niall Horan | [🔗](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA | [🔗](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) |
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebdc9dcb7e4a97b4552e1224d6" alt="" width="50" /> | 6 | 5 | Katy Perry | [🔗](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) |
+| <img src="https://i.scdn.co/image/9a03437da395d999755edacccc24779a97254b89" alt="" width="50" /> | 3 | 1 | Aslyn | [🔗](https://open.spotify.com/artist/6seR0G84QQq1NIW844E7Qq) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc8167bcebaf508dc6c3459b1" alt="" width="50" /> | 2 | 2 | Maggie Rogers | [🔗](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | 2 | 1 | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
+| <img src="https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411" alt="" width="50" /> | 2 | 0 | Frank Sinatra | [🔗](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2be5d8fd3746a70e9637a665" alt="" width="50" /> | 1 | 1 | Nat King Cole | [🔗](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9a398209a4ef3360dce2dec4" alt="" width="50" /> | 1 | 1 | Snoop Dogg | [🔗](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb92ce1e218cb7b48386efe3d8" alt="" width="50" /> | 1 | 1 | 5 Seconds of Summer | [🔗](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8d69367047a24d20b0323ff7" alt="" width="50" /> | 1 | 1 | SuperM | [🔗](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | 1 | 1 | [BTS](../artists/bts.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebeccc1cde8e9fdcf1c9289897" alt="" width="50" /> | 1 | 1 | Niall Horan | [🔗](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | 1 | 1 | SUGA | [🔗](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe86f788af4e127154da1257f" alt="" width="50" /> | 1 | 0 | Bonnie Raitt | [🔗](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) |
 
 </details>
 
 
-## Top Albums
+![Bar chart of top 13 artists](../images/labels/capitol_records/artists.png)
 
-![Bar chart of top 15 albums](../images/labels/capitol_records/albums.png)
+## Top Albums
 
 
 <details>
 <summary>See all 15 albums</summary>
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 4 | <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | Teenage Dream | 2010-01-01 | [🔗](https://open.spotify.com/album/3BoUxfC7YhxNq3TpOfnRif) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b2730e402844f1b6be3102d339f2" alt="" width="50" /> | Lemon Love | 2005-01-01 | [🔗](https://open.spotify.com/album/5YToJrWwzdA6W2NxxDoteE) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27341aa6776dc15fbd71a2b4557" alt="" width="50" /> | Youngblood (Deluxe) | 2018-06-15 | [🔗](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701" alt="" width="50" /> | The Nat King Cole Story | 1991-01-01 | [🔗](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273937af329667311f4b2831616" alt="" width="50" /> | Teenage Dream: The Complete Confection | 2012-03-12 | [🔗](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2730fdfb62956211c999c39a5a3" alt="" width="50" /> | Surrender | 2022-07-29 | [🔗](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273724a0cb04dbc89d9dd6ee06d" alt="" width="50" /> | Super One -The 1st Album | 2020-09-25 | [🔗](https://open.spotify.com/album/10fdwvVIpa0raPkZUTILAt) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="" width="50" /> | Songs For Swingin' Lovers! (Remastered) | 1956-03 | [🔗](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | SUGA's Interlude | 2019-12-06 | [🔗](https://open.spotify.com/album/0JfaSjTaej3QB27ofjnbQV) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731bd04431e42ed2105ea3534a" alt="" width="50" /> | Put A Little Love On Me | 2019-12-06 | [🔗](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b53a4da797ba5472d3330b69" alt="" width="50" /> | One Of The Boys | 2008-06-17 | [🔗](https://open.spotify.com/album/5c6MKfLcLB17DlJlFtVmyc) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737636e1c9e67eaafc9f49aefd" alt="" width="50" /> | Manic | 2020-01-17 | [🔗](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a1113af3a19a41dc8eec534e" alt="" width="50" /> | Luck Of The Draw | 1991-01-01 | [🔗](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d658a02ba8931985bdc4e0da" alt="" width="50" /> | Heard It In A Past Life | 2019-01-18 | [🔗](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="" width="50" /> | Come Fly With Me (Remastered) | 1958 | [🔗](https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | 4 | 3 | Teenage Dream | 2010-01-01 | [🔗](https://open.spotify.com/album/3BoUxfC7YhxNq3TpOfnRif) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730e402844f1b6be3102d339f2" alt="" width="50" /> | 3 | 1 | Lemon Love | 2005-01-01 | [🔗](https://open.spotify.com/album/5YToJrWwzdA6W2NxxDoteE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27341aa6776dc15fbd71a2b4557" alt="" width="50" /> | 1 | 1 | Youngblood (Deluxe) | 2018-06-15 | [🔗](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701" alt="" width="50" /> | 1 | 1 | The Nat King Cole Story | 1991-01-01 | [🔗](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273937af329667311f4b2831616" alt="" width="50" /> | 1 | 1 | Teenage Dream: The Complete Confection | 2012-03-12 | [🔗](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730fdfb62956211c999c39a5a3" alt="" width="50" /> | 1 | 1 | Surrender | 2022-07-29 | [🔗](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273724a0cb04dbc89d9dd6ee06d" alt="" width="50" /> | 1 | 1 | Super One -The 1st Album | 2020-09-25 | [🔗](https://open.spotify.com/album/10fdwvVIpa0raPkZUTILAt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | 1 | 1 | SUGA's Interlude | 2019-12-06 | [🔗](https://open.spotify.com/album/0JfaSjTaej3QB27ofjnbQV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731bd04431e42ed2105ea3534a" alt="" width="50" /> | 1 | 1 | Put A Little Love On Me | 2019-12-06 | [🔗](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b53a4da797ba5472d3330b69" alt="" width="50" /> | 1 | 1 | One Of The Boys | 2008-06-17 | [🔗](https://open.spotify.com/album/5c6MKfLcLB17DlJlFtVmyc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d658a02ba8931985bdc4e0da" alt="" width="50" /> | 1 | 1 | Heard It In A Past Life | 2019-01-18 | [🔗](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="" width="50" /> | 1 | 0 | Songs For Swingin' Lovers! (Remastered) | 1956-03 | [🔗](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737636e1c9e67eaafc9f49aefd" alt="" width="50" /> | 1 | 0 | Manic | 2020-01-17 | [🔗](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1113af3a19a41dc8eec534e" alt="" width="50" /> | 1 | 0 | Luck Of The Draw | 1991-01-01 | [🔗](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="" width="50" /> | 1 | 0 | Come Fly With Me (Remastered) | 1958 | [🔗](https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE) |
 
 </details>
 
 
-## Genres
+![Bar chart of top 15 albums](../images/labels/capitol_records/albums.png)
 
-![Bar chart of top 22 genres](../images/labels/capitol_records/genres.png)
+## Genres
 
 
 <details>
 <summary>See all 22 genres</summary>
 
-| Number of Tracks | Genre |
-|---:|:---|
-| 12 | [pop](../genres/pop.md) |
-| 10 | [dance pop](../genres/dance_pop.md) |
-| 3 | [adult standards](../genres/adult_standards.md) |
-| 3 | [acoustic pop](../genres/acoustic_pop.md) |
-| 2 | [post-teen pop](../genres/post_teen_pop.md) |
-| 2 | lounge |
-| 2 | indie poptimism |
-| 2 | indie pop |
-| 2 | etherpop |
-| 2 | [electropop](../genres/electropop.md) |
-| 2 | easy listening |
-| 1 | [singer-songwriter](../genres/singer_songwriter.md) |
-| 1 | roots rock |
-| 1 | [mellow gold](../genres/mellow_gold.md) |
-| 1 | [lilith](../genres/lilith.md) |
-| 1 | [k-pop](../genres/k_pop.md) |
-| 1 | [folk rock](../genres/folk_rock.md) |
-| 1 | folk |
-| 1 | electric blues |
-| 1 | country rock |
-| 1 | [classic rock](../genres/classic_rock.md) |
-| 1 | boy band |
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
+| 12 | 10 | [pop](../genres/pop.md) |
+| 10 | 8 | [dance pop](../genres/dance_pop.md) |
+| 3 | 1 | [adult standards](../genres/adult_standards.md) |
+| 3 | 1 | [acoustic pop](../genres/acoustic_pop.md) |
+| 2 | 2 | [post-teen pop](../genres/post_teen_pop.md) |
+| 2 | 2 | indie pop |
+| 2 | 1 | indie poptimism |
+| 2 | 1 | etherpop |
+| 2 | 1 | [electropop](../genres/electropop.md) |
+| 2 | 0 | lounge |
+| 2 | 0 | easy listening |
+| 1 | 1 | [k-pop](../genres/k_pop.md) |
+| 1 | 1 | boy band |
+| 1 | 0 | [singer-songwriter](../genres/singer_songwriter.md) |
+| 1 | 0 | roots rock |
+| 1 | 0 | [mellow gold](../genres/mellow_gold.md) |
+| 1 | 0 | [lilith](../genres/lilith.md) |
+| 1 | 0 | [folk rock](../genres/folk_rock.md) |
+| 1 | 0 | folk |
+| 1 | 0 | electric blues |
+| 1 | 0 | country rock |
+| 1 | 0 | [classic rock](../genres/classic_rock.md) |
 
 </details>
 
+
+![Bar chart of top 22 genres](../images/labels/capitol_records/genres.png)
 
 ## Tracks released under Capitol Records
 

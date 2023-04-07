@@ -7,52 +7,52 @@ Appears as:
 
 ## Top Artists
 
-![Bar chart of top 3 artists](../images/labels/warner_classics_uk/artists.png)
-
 
 <details>
 <summary>See all 3 artists</summary>
 
-| Number of Tracks | Art | Artist | 🔗 |
-|---:|:---|:---|:---|
-| 16 | <img src="https://i.scdn.co/image/ab6761610000e5eb92e0a1e423bd8590dcd43bda" alt="" width="50" /> | Berliner Philharmoniker | [🔗](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z) |
-| 16 | <img src="https://i.scdn.co/image/d5c6af18beb1411ab49c2976647e0d370bf66a88" alt="" width="50" /> | Johannes Brahms | [🔗](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq) |
-| 16 | <img src="https://i.scdn.co/image/3460fd826c1cc058c4c4134e6c695e00dcf89fa6" alt="" width="50" /> | Sir Simon Rattle | [🔗](https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp) |
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb92e0a1e423bd8590dcd43bda" alt="" width="50" /> | 16 | 0 | Berliner Philharmoniker | [🔗](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z) |
+| <img src="https://i.scdn.co/image/d5c6af18beb1411ab49c2976647e0d370bf66a88" alt="" width="50" /> | 16 | 0 | Johannes Brahms | [🔗](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq) |
+| <img src="https://i.scdn.co/image/3460fd826c1cc058c4c4134e6c695e00dcf89fa6" alt="" width="50" /> | 16 | 0 | Sir Simon Rattle | [🔗](https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp) |
 
 </details>
 
 
+![Bar chart of top 3 artists](../images/labels/warner_classics_uk/artists.png)
+
 ## Top Albums
-
-
 
 
 <details>
 <summary>See all 1 albums</summary>
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 16 | <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="" width="50" /> | Brahms: The Symphonies | 2009-09-07 | [🔗](https://open.spotify.com/album/2dL2qDsg6teV1cueLxCRa1) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="" width="50" /> | 16 | 0 | Brahms: The Symphonies | 2009-09-07 | [🔗](https://open.spotify.com/album/2dL2qDsg6teV1cueLxCRa1) |
 
 </details>
 
 
-## Genres
 
-![Bar chart of top 3 genres](../images/labels/warner_classics_uk/genres.png)
+
+## Genres
 
 
 <details>
 <summary>See all 3 genres</summary>
 
-| Number of Tracks | Genre |
-|---:|:---|
-| 16 | late romantic era |
-| 16 | german romanticism |
-| 16 | classical |
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
+| 16 | 0 | late romantic era |
+| 16 | 0 | german romanticism |
+| 16 | 0 | classical |
 
 </details>
 
+
+![Bar chart of top 3 genres](../images/labels/warner_classics_uk/genres.png)
 
 ## Tracks released under Warner Classics UK
 

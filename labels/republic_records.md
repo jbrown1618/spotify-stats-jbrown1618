@@ -14,140 +14,140 @@ Appears as:
 
 ## Top Artists
 
-![Bar chart of top 18 artists](../images/labels/republic_records/artists.png)
-
 
 <details>
 <summary>See all 18 artists</summary>
 
-| Number of Tracks | Art | Artist | 🔗 |
-|---:|:---|:---|:---|
-| 43 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | [Stray Kids](../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
-| 41 | <img src="https://i.scdn.co/image/ab6761610000e5eb8944c8aec8db82f35980b191" alt="" width="50" /> | [TWICE](../artists/twice.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
-| 31 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | [ITZY](../artists/itzy.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
-| 10 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../artists/ariana_grande.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
-| 8 | <img src="https://i.scdn.co/image/ab6761610000e5eb63329d77582c519154674fd7" alt="" width="50" /> | TOMORROW X TOGETHER | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | Jessie J | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | B.o.B | [🔗](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb727a2ac15afe659be999beba" alt="" width="50" /> | Doja Cat | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb589ffbfcd3d3c9daeaffc36c" alt="" width="50" /> | Social House | [🔗](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl) |
-| 1 | <img src="nan" alt="" width="50" /> | Changbin | [🔗](https://open.spotify.com/artist/5OTVNUu0UHn6ddPyEAi419) |
-| 1 | <img src="nan" alt="" width="50" /> | Bang Chan | [🔗](https://open.spotify.com/artist/4qy7HANJDOZRObts4Z0KSV) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb00a14e06b6bce10b078d754" alt="" width="50" /> | Daddy Yankee | [🔗](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebec1cd67f4c17468f335206eb" alt="" width="50" /> | Luis Fonsi | [🔗](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebd3a1193ab04e0fb2b297e619" alt="" width="50" /> | Conan Gray | [🔗](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb894ef9fa437b0389c5567cc" alt="" width="50" /> | Post Malone | [🔗](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | Justin Bieber | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb5f9e28219c169fd4b9e8379" alt="" width="50" /> | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb854b6139b96beb6dbc398e06" alt="" width="50" /> | Ellie Goulding | [🔗](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) |
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | 43 | 22 | [Stray Kids](../artists/stray_kids.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8944c8aec8db82f35980b191" alt="" width="50" /> | 41 | 30 | [TWICE](../artists/twice.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | 31 | 18 | [ITZY](../artists/itzy.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | 10 | 5 | [Ariana Grande](../artists/ariana_grande.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb63329d77582c519154674fd7" alt="" width="50" /> | 8 | 5 | TOMORROW X TOGETHER | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | 2 | 2 | Jessie J | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | 1 | 1 | B.o.B | [🔗](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) |
+| <img src="nan" alt="" width="50" /> | 1 | 1 | Changbin | [🔗](https://open.spotify.com/artist/5OTVNUu0UHn6ddPyEAi419) |
+| <img src="nan" alt="" width="50" /> | 1 | 1 | Bang Chan | [🔗](https://open.spotify.com/artist/4qy7HANJDOZRObts4Z0KSV) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb00a14e06b6bce10b078d754" alt="" width="50" /> | 1 | 1 | Daddy Yankee | [🔗](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebec1cd67f4c17468f335206eb" alt="" width="50" /> | 1 | 1 | Luis Fonsi | [🔗](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd3a1193ab04e0fb2b297e619" alt="" width="50" /> | 1 | 1 | Conan Gray | [🔗](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | 1 | 1 | Justin Bieber | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb5f9e28219c169fd4b9e8379" alt="" width="50" /> | 1 | 1 | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb854b6139b96beb6dbc398e06" alt="" width="50" /> | 1 | 1 | Ellie Goulding | [🔗](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb727a2ac15afe659be999beba" alt="" width="50" /> | 1 | 0 | Doja Cat | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb589ffbfcd3d3c9daeaffc36c" alt="" width="50" /> | 1 | 0 | Social House | [🔗](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb894ef9fa437b0389c5567cc" alt="" width="50" /> | 1 | 0 | Post Malone | [🔗](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) |
 
 </details>
 
 
-## Top Albums
+![Bar chart of top 18 artists](../images/labels/republic_records/artists.png)
 
-![Bar chart of top 30 albums](../images/labels/republic_records/albums.png)
+## Top Albums
 
 
 <details>
 <summary>See all 58 albums</summary>
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 10 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | SKZ-REPLAY | 2022-12-21 | [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) |
-| 8 | <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | Formula of Love: O+T=<3 | 2021-11-12 | [🔗](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) |
-| 7 | <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | READY TO BE | 2023-03-10 | [🔗](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) |
-| 6 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | NOEASY | 2021-08-23 | [🔗](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) |
-| 6 | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | CRAZY IN LOVE | 2021-09-24 | [🔗](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) |
-| 6 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | CHECKMATE | 2022-07-15 | [🔗](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) |
-| 5 | <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | ODDINARY | 2022-03-18 | [🔗](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) |
-| 5 | <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="" width="50" /> | GUESS WHO | 2021-04-30 | [🔗](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) |
-| 4 | <img src="https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8" alt="" width="50" /> | thank u, next | 2019-02-08 | [🔗](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) |
-| 4 | <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="" width="50" /> | Not Shy (English Ver.) | 2021-01-22 | [🔗](https://open.spotify.com/album/0hoNwSKuuOeT9eAxopgMdm) |
-| 4 | <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | Not Shy | 2020-08-17 | [🔗](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) |
-| 4 | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | MAXIDENT | 2022-10-07 | [🔗](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) |
-| 4 | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | Christmas EveL | 2021-11-29 | [🔗](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) |
-| 4 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | CHESHIRE | 2022-11-30 | [🔗](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | The Chaos Chapter: FREEZE | 2021-05-31 | [🔗](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="" width="50" /> | Taste of Love | 2021-06-11 | [🔗](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605" alt="" width="50" /> | Positions | 2020-10-30 | [🔗](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273fad8c4176e8df7173479f959" alt="" width="50" /> | GO LIVE | 2020-06-17 | [🔗](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b2736570fd05bcff5edcb16e617d" alt="" width="50" /> | Eyes Wide Open | 2020-10-26 | [🔗](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | BETWEEN 1&2 | 2022-08-26 | [🔗](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2739900b995cd1a81c35c574ab0" alt="" width="50" /> | Who You Are (Platinum Edition) | 2011-01-01 | [🔗](https://open.spotify.com/album/3ga4adzUpLaS2LDcoqfs2r) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2736034eda385497f614778f457" alt="" width="50" /> | Twicetagram | 2017-10-30 | [🔗](https://open.spotify.com/album/3hJXmK5gWN9P6jtZL0Lr2y) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394" alt="" width="50" /> | Sweetener | 2018-08-17 | [🔗](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b27340d7efd2594a2b6bda60ea18" alt="" width="50" /> | Summer Nights | 2018-07-09 | [🔗](https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2739f560e8c1cda870ef4eadb43" alt="" width="50" /> | SKZ2020 | 2020-03-18 | [🔗](https://open.spotify.com/album/6QIWJVJPPgAA5c4aIb1zCA) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273703093f86fd5c8bd79500610" alt="" width="50" /> | IN LIFE | 2020-09-14 | [🔗](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b27349b81808fcdaeeb55bef59d1" alt="" width="50" /> | Feel Special | 2019-09-23 | [🔗](https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738c6cdb00ed42b1d6315f0bc1" alt="" width="50" /> | minisode1 : Blue Hour | 2020-10-26 | [🔗](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27313ac5d67675999ba7b9c4f21" alt="" width="50" /> | minisode 2: Thursday's Child | 2022-05-09 | [🔗](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732ca010dcf3863a07611d8b4f" alt="" width="50" /> | boyfriend | 2019-08-02 | [🔗](https://open.spotify.com/album/3zVB99XMdbP9HTVNg0GJwV) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273140ba24506e300382e08e6ec" alt="" width="50" /> | YES or YES | 2018-11-05 | [🔗](https://open.spotify.com/album/25VunQEW0x2W6ALND2Mh4g) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273387444ab2fc1f08dfe7915ab" alt="" width="50" /> | Twicecoaster: Lane 1 | 2016-10-24 | [🔗](https://open.spotify.com/album/5zQhaDNbiXHRqd8Y51I4vy) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ce17f432c79c5e45ce88688f" alt="" width="50" /> | The Story Begins | 2015-10-20 | [🔗](https://open.spotify.com/album/72WWZVAx6GtSbEeGESwDLo) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b85b1b3fae4244c686929af5" alt="" width="50" /> | The Dream Chapter: ETERNITY | 2020-05-18 | [🔗](https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735137378ed49327e5dec7406f" alt="" width="50" /> | The Chaos Chapter: FIGHT OR ESCAPE | 2021-08-17 | [🔗](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739d64e2f339a0a9ea967b308e" alt="" width="50" /> | Step Out of Clé (English Ver.) | 2020-01-24 | [🔗](https://open.spotify.com/album/2BBeNPEEevRiYISKYEnGvc) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d07e49e3e5a8e79903713354" alt="" width="50" /> | SIGNAL | 2017-05-15 | [🔗](https://open.spotify.com/album/28PwDunFAR71toOCTYRvkf) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739e9e3a1adcc32090690fd0b6" alt="" width="50" /> | Page Two | 2016-04-25 | [🔗](https://open.spotify.com/album/6q2oUEqL9uzVXHCeKoA8JV) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb" alt="" width="50" /> | Motley Crew | 2021-07-09 | [🔗](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273560f17af6665e85575021bae" alt="" width="50" /> | Mixtape : Time Out | 2022-08-01 | [🔗](https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b97341ef9657dd8f4ab794dc" alt="" width="50" /> | Mixtape | 2018-01-08 | [🔗](https://open.spotify.com/album/1kTzTL0iOIE2IAGw83yY4O) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f0d00e054e9a9cb2e86cdf72" alt="" width="50" /> | Merry & Happy | 2017-12-11 | [🔗](https://open.spotify.com/album/0R7pj4tnmcoUulrZGPo6nw) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731e2f86e459a48cfb891bd70d" alt="" width="50" /> | MORE & MORE (English Version) | 2020-08-21 | [🔗](https://open.spotify.com/album/4AXNnQf2SkyY8d4FQaBKo5) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27324869424ae632466b839a8a8" alt="" width="50" /> | MORE & MORE | 2020-06-01 | [🔗](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27388e3cda6d29b2552d4d6bc43" alt="" width="50" /> | Kid Krow | 2020-03-20 | [🔗](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273212e7fb3309718d9d4132095" alt="" width="50" /> | In the morning (English Ver.) | 2021-05-14 | [🔗](https://open.spotify.com/album/1VbG3CJlf1cSVDibgiM3GM) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273fc620c06721e90a534cc5dab" alt="" width="50" /> | IT'z ME | 2020-03-09 | [🔗](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27309f2f03627bf9c7b719a35ff" alt="" width="50" /> | I am WHO | 2018-08-06 | [🔗](https://open.spotify.com/album/2SACeVKmkXeAXHqLDdTU9N) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f6ace3e8860779591c193414" alt="" width="50" /> | I am NOT | 2018-03-26 | [🔗](https://open.spotify.com/album/6xP5hGAHaLArPqF07UYVJL) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273844a4b52739db3287bd429f8" alt="" width="50" /> | I CAN'T STOP ME (English Version) | 2020-11-30 | [🔗](https://open.spotify.com/album/2KGNQmq4gpzmdaIcAgJdVe) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="" width="50" /> | Fifty Shades Freed (Original Motion Picture Soundtrack) | 2018-02-09 | [🔗](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | FANCY YOU | 2019-04-22 | [🔗](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a6a335d613d151c626895a83" alt="" width="50" /> | Despacito Feat. Justin Bieber (Remix) | 2017-04-17 | [🔗](https://open.spotify.com/album/3Gq2Dme9nesdgoqNNlcN8O) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273869bb5c720b743357fd402bd" alt="" width="50" /> | Clé 2 : Yellow Wood | 2019-06-19 | [🔗](https://open.spotify.com/album/7a3luOh8mK0q8YsRkNUjrU) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273cbb25c0de45e6a6ded073802" alt="" width="50" /> | Clé 1 : MIROH | 2019-03-25 | [🔗](https://open.spotify.com/album/3s6RbqkTprnGwKpoUSYL00) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b84603bfcc9665f8353982fd" alt="" width="50" /> | Cat & Dog (English Version) | 2019-05-03 | [🔗](https://open.spotify.com/album/4uJ120PsfiWOC7aV5FqGkU) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738ae9084b7cfa8281932d9cb9" alt="" width="50" /> | CRY FOR ME | 2020-12-18 | [🔗](https://open.spotify.com/album/2aRAPmBCEdo9pWimsI5l87) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="" width="50" /> | After Hours | 2020-03-20 | [🔗](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | 10 | 7 | SKZ-REPLAY | 2022-12-21 | [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | 8 | 6 | Formula of Love: O+T=<3 | 2021-11-12 | [🔗](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | 7 | 5 | READY TO BE | 2023-03-10 | [🔗](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | 6 | 4 | NOEASY | 2021-08-23 | [🔗](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | 6 | 4 | CRAZY IN LOVE | 2021-09-24 | [🔗](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | 6 | 4 | CHECKMATE | 2022-07-15 | [🔗](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="" width="50" /> | 5 | 4 | GUESS WHO | 2021-04-30 | [🔗](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | 5 | 3 | ODDINARY | 2022-03-18 | [🔗](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | 4 | 3 | Not Shy | 2020-08-17 | [🔗](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8" alt="" width="50" /> | 4 | 2 | thank u, next | 2019-02-08 | [🔗](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | 4 | 2 | MAXIDENT | 2022-10-07 | [🔗](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | 4 | 2 | CHESHIRE | 2022-11-30 | [🔗](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | 4 | 1 | Christmas EveL | 2021-11-29 | [🔗](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="" width="50" /> | 4 | 0 | Not Shy (English Ver.) | 2021-01-22 | [🔗](https://open.spotify.com/album/0hoNwSKuuOeT9eAxopgMdm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | 3 | 3 | The Chaos Chapter: FREEZE | 2021-05-31 | [🔗](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="" width="50" /> | 3 | 3 | Taste of Love | 2021-06-11 | [🔗](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736570fd05bcff5edcb16e617d" alt="" width="50" /> | 3 | 2 | Eyes Wide Open | 2020-10-26 | [🔗](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | 3 | 2 | BETWEEN 1&2 | 2022-08-26 | [🔗](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605" alt="" width="50" /> | 3 | 1 | Positions | 2020-10-30 | [🔗](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fad8c4176e8df7173479f959" alt="" width="50" /> | 3 | 1 | GO LIVE | 2020-06-17 | [🔗](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739900b995cd1a81c35c574ab0" alt="" width="50" /> | 2 | 2 | Who You Are (Platinum Edition) | 2011-01-01 | [🔗](https://open.spotify.com/album/3ga4adzUpLaS2LDcoqfs2r) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736034eda385497f614778f457" alt="" width="50" /> | 2 | 2 | Twicetagram | 2017-10-30 | [🔗](https://open.spotify.com/album/3hJXmK5gWN9P6jtZL0Lr2y) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394" alt="" width="50" /> | 2 | 2 | Sweetener | 2018-08-17 | [🔗](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273703093f86fd5c8bd79500610" alt="" width="50" /> | 2 | 2 | IN LIFE | 2020-09-14 | [🔗](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27340d7efd2594a2b6bda60ea18" alt="" width="50" /> | 2 | 1 | Summer Nights | 2018-07-09 | [🔗](https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27349b81808fcdaeeb55bef59d1" alt="" width="50" /> | 2 | 1 | Feel Special | 2019-09-23 | [🔗](https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739f560e8c1cda870ef4eadb43" alt="" width="50" /> | 2 | 0 | SKZ2020 | 2020-03-18 | [🔗](https://open.spotify.com/album/6QIWJVJPPgAA5c4aIb1zCA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27313ac5d67675999ba7b9c4f21" alt="" width="50" /> | 1 | 1 | minisode 2: Thursday's Child | 2022-05-09 | [🔗](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273140ba24506e300382e08e6ec" alt="" width="50" /> | 1 | 1 | YES or YES | 2018-11-05 | [🔗](https://open.spotify.com/album/25VunQEW0x2W6ALND2Mh4g) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273387444ab2fc1f08dfe7915ab" alt="" width="50" /> | 1 | 1 | Twicecoaster: Lane 1 | 2016-10-24 | [🔗](https://open.spotify.com/album/5zQhaDNbiXHRqd8Y51I4vy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ce17f432c79c5e45ce88688f" alt="" width="50" /> | 1 | 1 | The Story Begins | 2015-10-20 | [🔗](https://open.spotify.com/album/72WWZVAx6GtSbEeGESwDLo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735137378ed49327e5dec7406f" alt="" width="50" /> | 1 | 1 | The Chaos Chapter: FIGHT OR ESCAPE | 2021-08-17 | [🔗](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d07e49e3e5a8e79903713354" alt="" width="50" /> | 1 | 1 | SIGNAL | 2017-05-15 | [🔗](https://open.spotify.com/album/28PwDunFAR71toOCTYRvkf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e9e3a1adcc32090690fd0b6" alt="" width="50" /> | 1 | 1 | Page Two | 2016-04-25 | [🔗](https://open.spotify.com/album/6q2oUEqL9uzVXHCeKoA8JV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f0d00e054e9a9cb2e86cdf72" alt="" width="50" /> | 1 | 1 | Merry & Happy | 2017-12-11 | [🔗](https://open.spotify.com/album/0R7pj4tnmcoUulrZGPo6nw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27388e3cda6d29b2552d4d6bc43" alt="" width="50" /> | 1 | 1 | Kid Krow | 2020-03-20 | [🔗](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fc620c06721e90a534cc5dab" alt="" width="50" /> | 1 | 1 | IT'z ME | 2020-03-09 | [🔗](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="" width="50" /> | 1 | 1 | Fifty Shades Freed (Original Motion Picture Soundtrack) | 2018-02-09 | [🔗](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 1 | 1 | FANCY YOU | 2019-04-22 | [🔗](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a6a335d613d151c626895a83" alt="" width="50" /> | 1 | 1 | Despacito Feat. Justin Bieber (Remix) | 2017-04-17 | [🔗](https://open.spotify.com/album/3Gq2Dme9nesdgoqNNlcN8O) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273869bb5c720b743357fd402bd" alt="" width="50" /> | 1 | 1 | Clé 2 : Yellow Wood | 2019-06-19 | [🔗](https://open.spotify.com/album/7a3luOh8mK0q8YsRkNUjrU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cbb25c0de45e6a6ded073802" alt="" width="50" /> | 1 | 1 | Clé 1 : MIROH | 2019-03-25 | [🔗](https://open.spotify.com/album/3s6RbqkTprnGwKpoUSYL00) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738ae9084b7cfa8281932d9cb9" alt="" width="50" /> | 1 | 1 | CRY FOR ME | 2020-12-18 | [🔗](https://open.spotify.com/album/2aRAPmBCEdo9pWimsI5l87) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="" width="50" /> | 1 | 1 | After Hours | 2020-03-20 | [🔗](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738c6cdb00ed42b1d6315f0bc1" alt="" width="50" /> | 1 | 0 | minisode1 : Blue Hour | 2020-10-26 | [🔗](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ca010dcf3863a07611d8b4f" alt="" width="50" /> | 1 | 0 | boyfriend | 2019-08-02 | [🔗](https://open.spotify.com/album/3zVB99XMdbP9HTVNg0GJwV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b85b1b3fae4244c686929af5" alt="" width="50" /> | 1 | 0 | The Dream Chapter: ETERNITY | 2020-05-18 | [🔗](https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d64e2f339a0a9ea967b308e" alt="" width="50" /> | 1 | 0 | Step Out of Clé (English Ver.) | 2020-01-24 | [🔗](https://open.spotify.com/album/2BBeNPEEevRiYISKYEnGvc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb" alt="" width="50" /> | 1 | 0 | Motley Crew | 2021-07-09 | [🔗](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273560f17af6665e85575021bae" alt="" width="50" /> | 1 | 0 | Mixtape : Time Out | 2022-08-01 | [🔗](https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b97341ef9657dd8f4ab794dc" alt="" width="50" /> | 1 | 0 | Mixtape | 2018-01-08 | [🔗](https://open.spotify.com/album/1kTzTL0iOIE2IAGw83yY4O) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731e2f86e459a48cfb891bd70d" alt="" width="50" /> | 1 | 0 | MORE & MORE (English Version) | 2020-08-21 | [🔗](https://open.spotify.com/album/4AXNnQf2SkyY8d4FQaBKo5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27324869424ae632466b839a8a8" alt="" width="50" /> | 1 | 0 | MORE & MORE | 2020-06-01 | [🔗](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273212e7fb3309718d9d4132095" alt="" width="50" /> | 1 | 0 | In the morning (English Ver.) | 2021-05-14 | [🔗](https://open.spotify.com/album/1VbG3CJlf1cSVDibgiM3GM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27309f2f03627bf9c7b719a35ff" alt="" width="50" /> | 1 | 0 | I am WHO | 2018-08-06 | [🔗](https://open.spotify.com/album/2SACeVKmkXeAXHqLDdTU9N) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6ace3e8860779591c193414" alt="" width="50" /> | 1 | 0 | I am NOT | 2018-03-26 | [🔗](https://open.spotify.com/album/6xP5hGAHaLArPqF07UYVJL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273844a4b52739db3287bd429f8" alt="" width="50" /> | 1 | 0 | I CAN'T STOP ME (English Version) | 2020-11-30 | [🔗](https://open.spotify.com/album/2KGNQmq4gpzmdaIcAgJdVe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b84603bfcc9665f8353982fd" alt="" width="50" /> | 1 | 0 | Cat & Dog (English Version) | 2019-05-03 | [🔗](https://open.spotify.com/album/4uJ120PsfiWOC7aV5FqGkU) |
 
 </details>
 
 
-## Genres
+![Bar chart of top 30 albums](../images/labels/republic_records/albums.png)
 
-![Bar chart of top 19 genres](../images/labels/republic_records/genres.png)
+## Genres
 
 
 <details>
 <summary>See all 19 genres</summary>
 
-| Number of Tracks | Genre |
-|---:|:---|
-| 92 | [k-pop](../genres/k_pop.md) |
-| 72 | [k-pop girl group](../genres/k_pop_girl_group.md) |
-| 51 | [k-pop boy group](../genres/k_pop_boy_group.md) |
-| 15 | [pop](../genres/pop.md) |
-| 13 | [dance pop](../genres/dance_pop.md) |
-| 2 | [post-teen pop](../genres/post_teen_pop.md) |
-| 2 | pop rap |
-| 1 | uk pop |
-| 1 | rap |
-| 1 | puerto rican pop |
-| 1 | metropopolis |
-| 1 | melodic rap |
-| 1 | latin pop |
-| 1 | indietronica |
-| 1 | edm |
-| 1 | dfw rap |
-| 1 | canadian pop |
-| 1 | canadian contemporary r&b |
-| 1 | bedroom pop |
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
+| 92 | 57 | [k-pop](../genres/k_pop.md) |
+| 72 | 48 | [k-pop girl group](../genres/k_pop_girl_group.md) |
+| 51 | 27 | [k-pop boy group](../genres/k_pop_boy_group.md) |
+| 15 | 10 | [pop](../genres/pop.md) |
+| 13 | 8 | [dance pop](../genres/dance_pop.md) |
+| 2 | 2 | [post-teen pop](../genres/post_teen_pop.md) |
+| 2 | 2 | pop rap |
+| 1 | 1 | uk pop |
+| 1 | 1 | puerto rican pop |
+| 1 | 1 | metropopolis |
+| 1 | 1 | latin pop |
+| 1 | 1 | indietronica |
+| 1 | 1 | edm |
+| 1 | 1 | canadian pop |
+| 1 | 1 | canadian contemporary r&b |
+| 1 | 1 | bedroom pop |
+| 1 | 0 | rap |
+| 1 | 0 | melodic rap |
+| 1 | 0 | dfw rap |
 
 </details>
 
+
+![Bar chart of top 19 genres](../images/labels/republic_records/genres.png)
 
 ## Tracks released under Republic Records
 

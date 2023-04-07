@@ -7,53 +7,53 @@ Appears as:
 
 ## Top Artists
 
-![Bar chart of top 3 artists](../images/labels/australian_broadcasting_corp__abc_/artists.png)
-
 
 <details>
 <summary>See all 3 artists</summary>
 
-| Number of Tracks | Art | Artist | 🔗 |
-|---:|:---|:---|:---|
-| 39 | <img src="https://i.scdn.co/image/b5b05560a51b368cca8b3420e4e3536586720aa8" alt="" width="50" /> | Barry Wordsworth | [🔗](https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN) |
-| 39 | <img src="https://i.scdn.co/image/ab6761610000e5ebb72368972071bd5422a86268" alt="" width="50" /> | Orchestra Victoria | [🔗](https://open.spotify.com/artist/1bnC6eJzCumTgAB7tG1118) |
-| 39 | <img src="https://i.scdn.co/image/c12a6d385c87030706a0f36dd8798deb299c87a4" alt="" width="50" /> | Léo Delibes | [🔗](https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT) |
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/b5b05560a51b368cca8b3420e4e3536586720aa8" alt="" width="50" /> | 39 | 0 | Barry Wordsworth | [🔗](https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb72368972071bd5422a86268" alt="" width="50" /> | 39 | 0 | Orchestra Victoria | [🔗](https://open.spotify.com/artist/1bnC6eJzCumTgAB7tG1118) |
+| <img src="https://i.scdn.co/image/c12a6d385c87030706a0f36dd8798deb299c87a4" alt="" width="50" /> | 39 | 0 | Léo Delibes | [🔗](https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT) |
 
 </details>
 
 
+![Bar chart of top 3 artists](../images/labels/australian_broadcasting_corp__abc_/artists.png)
+
 ## Top Albums
-
-
 
 
 <details>
 <summary>See all 1 albums</summary>
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 39 | <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="" width="50" /> | Coppélia | 2018-07-06 | [🔗](https://open.spotify.com/album/7jKT8NC2XfAs9RFKsrGz2p) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="" width="50" /> | 39 | 0 | Coppélia | 2018-07-06 | [🔗](https://open.spotify.com/album/7jKT8NC2XfAs9RFKsrGz2p) |
 
 </details>
 
 
-## Genres
 
-![Bar chart of top 4 genres](../images/labels/australian_broadcasting_corp__abc_/genres.png)
+
+## Genres
 
 
 <details>
 <summary>See all 4 genres</summary>
 
-| Number of Tracks | Genre |
-|---:|:---|
-| 39 | late romantic era |
-| 39 | french romanticism |
-| 39 | french opera |
-| 39 | classical |
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
+| 39 | 0 | late romantic era |
+| 39 | 0 | french romanticism |
+| 39 | 0 | french opera |
+| 39 | 0 | classical |
 
 </details>
 
+
+![Bar chart of top 4 genres](../images/labels/australian_broadcasting_corp__abc_/genres.png)
 
 ## Tracks released under Australian Broadcasting Corp (ABC)
 

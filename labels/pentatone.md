@@ -9,52 +9,52 @@ Appears as:
 ## Top Artists
 
 
-
-
 <details>
 <summary>See all 2 artists</summary>
 
-| Number of Tracks | Art | Artist | 🔗 |
-|---:|:---|:---|:---|
-| 21 | <img src="https://i.scdn.co/image/db022999443da6f89e250086329d98b17399b346" alt="" width="50" /> | Ludwig van Beethoven | [🔗](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS) |
-| 21 | <img src="https://i.scdn.co/image/da227efdc2e4be12443dcb5fa1ceb257fd1baf6a" alt="" width="50" /> | Mari Kodama | [🔗](https://open.spotify.com/artist/0s0wG03kPyu7MXERfcuxim) |
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/db022999443da6f89e250086329d98b17399b346" alt="" width="50" /> | 21 | 0 | Ludwig van Beethoven | [🔗](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS) |
+| <img src="https://i.scdn.co/image/da227efdc2e4be12443dcb5fa1ceb257fd1baf6a" alt="" width="50" /> | 21 | 0 | Mari Kodama | [🔗](https://open.spotify.com/artist/0s0wG03kPyu7MXERfcuxim) |
 
 </details>
+
+
 
 
 ## Top Albums
 
 
-
-
 <details>
 <summary>See all 2 albums</summary>
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 12 | <img src="https://i.scdn.co/image/ab67616d0000b2732266fb9b5484a5dc280e5bff" alt="" width="50" /> | Beethoven: Piano Sonatas Nos. 1-3 | 2008-01-01 | [🔗](https://open.spotify.com/album/5CjMjZJnjdHHgwAVkqrvXq) |
-| 9 | <img src="https://i.scdn.co/image/ab67616d0000b2730b9ae3f056fa16819bc9dd48" alt="" width="50" /> | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | 2012-03-06 | [🔗](https://open.spotify.com/album/478l1JdqbqDzcmmgrqw2zu) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2732266fb9b5484a5dc280e5bff" alt="" width="50" /> | 12 | 0 | Beethoven: Piano Sonatas Nos. 1-3 | 2008-01-01 | [🔗](https://open.spotify.com/album/5CjMjZJnjdHHgwAVkqrvXq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730b9ae3f056fa16819bc9dd48" alt="" width="50" /> | 9 | 0 | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | 2012-03-06 | [🔗](https://open.spotify.com/album/478l1JdqbqDzcmmgrqw2zu) |
 
 </details>
 
 
-## Genres
 
-![Bar chart of top 4 genres](../images/labels/pentatone/genres.png)
+
+## Genres
 
 
 <details>
 <summary>See all 4 genres</summary>
 
-| Number of Tracks | Genre |
-|---:|:---|
-| 21 | german romanticism |
-| 21 | early romantic era |
-| 21 | classical era |
-| 21 | classical |
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
+| 21 | 0 | german romanticism |
+| 21 | 0 | early romantic era |
+| 21 | 0 | classical era |
+| 21 | 0 | classical |
 
 </details>
 
+
+![Bar chart of top 4 genres](../images/labels/pentatone/genres.png)
 
 ## Tracks released under PENTATONE
 

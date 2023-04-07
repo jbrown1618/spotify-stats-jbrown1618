@@ -12,22 +12,22 @@
 | 2 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732d73b1bb77cee09f0278be04ab67616d0000b2736f50b3400595b123a916e0dcab67616d0000b2739ab215825eb77076b1b4b387ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | [Karaoke](../playlists/karaoke/overview.md) |
 ## Top Albums
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="" width="50" /> | Call Me Irresponsible | 2007-04-30 | [🔗](https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273b732a522a686bb304a5d3fdf" alt="" width="50" /> | Michael Bublé | 2003 | [🔗](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="" width="50" /> | It's Time | 2005-02-08 | [🔗](https://open.spotify.com/album/457fktVFXVwjQTl9wOLlfg) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="" width="50" /> | Crazy Love | 2009-10-06 | [🔗](https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735f3f20826d44c30a017fd68e" alt="" width="50" /> | love (Deluxe Edition) | 2018-11-16 | [🔗](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="" width="50" /> | Nobody but Me | 2016-10-21 | [🔗](https://open.spotify.com/album/5wN1OizIFEHDUkRwzIK3wL) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27311ee8f400df1c708db8fa471" alt="" width="50" /> | Come Fly with Me | 2004-03-30 | [🔗](https://open.spotify.com/album/0UhvDeKmtgegXeELEVgGRh) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="" width="50" /> | 3 | 1 | Call Me Irresponsible | 2007-04-30 | [🔗](https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="" width="50" /> | 2 | 2 | It's Time | 2005-02-08 | [🔗](https://open.spotify.com/album/457fktVFXVwjQTl9wOLlfg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b732a522a686bb304a5d3fdf" alt="" width="50" /> | 2 | 1 | Michael Bublé | 2003 | [🔗](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="" width="50" /> | 2 | 1 | Crazy Love | 2009-10-06 | [🔗](https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f3f20826d44c30a017fd68e" alt="" width="50" /> | 1 | 0 | love (Deluxe Edition) | 2018-11-16 | [🔗](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="" width="50" /> | 1 | 0 | Nobody but Me | 2016-10-21 | [🔗](https://open.spotify.com/album/5wN1OizIFEHDUkRwzIK3wL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27311ee8f400df1c708db8fa471" alt="" width="50" /> | 1 | 0 | Come Fly with Me | 2004-03-30 | [🔗](https://open.spotify.com/album/0UhvDeKmtgegXeELEVgGRh) |
 
 ## Top Record Labels
 
-| Number of Tracks | Label |
-|---:|:---|
-| 12 | [Reprise](../labels/reprise.md) |
-| 10 | [143](../labels/143.md) |
+| Tracks | 💚 | Label |
+|---:|---:|:---|
+| 12 | 5 | [Reprise](../labels/reprise.md) |
+| 10 | 5 | [143](../labels/143.md) |
 
 ## Genres
 

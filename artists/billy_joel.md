@@ -13,27 +13,27 @@
 | 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27303668e3f13559554eca8ccc6ab67616d0000b2730eb56329734f9400c1639359ab67616d0000b27314ed51ab46ef0765182bb8a0ab67616d0000b273987a1825341694ec9bc62457" alt="" width="50" /> | [Tarps](../playlists/tarps/overview.md) |
 ## Top Albums
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 7 | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | The Stranger | 1977-09-29 | [🔗](https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="" width="50" /> | Storm Front | 1989-10-17 | [🔗](https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="" width="50" /> | River Of Dreams | 1993-08-10 | [🔗](https://open.spotify.com/album/4HPnwQJAEvTY910q4RNeOu) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | Piano Man | 1973-11-09 | [🔗](https://open.spotify.com/album/77ErLrVvYETIlQJHAwhfIH) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="" width="50" /> | An Innocent Man | 1983-08-08 | [🔗](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="" width="50" /> | 52nd Street | 1978-10-13 | [🔗](https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d1731f2c0e1c2c8957f35c76" alt="" width="50" /> | Turnstiles | 1976-05-19 | [🔗](https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273e5e5f24cf490dfc7041eafc3" alt="" width="50" /> | The Nylon Curtain | 1982-06-23 | [🔗](https://open.spotify.com/album/50bajZpetfL5T0iRCOR74J) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273800f95060baebdd6aea0f4b9" alt="" width="50" /> | The Bridge | 1986-07-28 | [🔗](https://open.spotify.com/album/2fRxSC6FtiAkhEDVZr2seH) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="" width="50" /> | Good Vibrations | 1993 | [🔗](https://open.spotify.com/album/10IUKCLZPs9onPwXfQVxfv) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27322d5199692d318c28d6c7d9b" alt="" width="50" /> | Glass Houses | 1980-03-12 | [🔗](https://open.spotify.com/album/5sztejERqpktXEdemlUvU5) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273431daec5815fd0255437b43b" alt="" width="50" /> | Cold Spring Harbor | 1971-11-01 | [🔗](https://open.spotify.com/album/274rMlKrr22086ohmwAJZA) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | 7 | 6 | The Stranger | 1977-09-29 | [🔗](https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | 2 | 2 | Piano Man | 1973-11-09 | [🔗](https://open.spotify.com/album/77ErLrVvYETIlQJHAwhfIH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="" width="50" /> | 2 | 2 | An Innocent Man | 1983-08-08 | [🔗](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="" width="50" /> | 2 | 1 | Storm Front | 1989-10-17 | [🔗](https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="" width="50" /> | 2 | 1 | River Of Dreams | 1993-08-10 | [🔗](https://open.spotify.com/album/4HPnwQJAEvTY910q4RNeOu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="" width="50" /> | 2 | 1 | 52nd Street | 1978-10-13 | [🔗](https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1731f2c0e1c2c8957f35c76" alt="" width="50" /> | 1 | 1 | Turnstiles | 1976-05-19 | [🔗](https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273800f95060baebdd6aea0f4b9" alt="" width="50" /> | 1 | 1 | The Bridge | 1986-07-28 | [🔗](https://open.spotify.com/album/2fRxSC6FtiAkhEDVZr2seH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e5e5f24cf490dfc7041eafc3" alt="" width="50" /> | 1 | 0 | The Nylon Curtain | 1982-06-23 | [🔗](https://open.spotify.com/album/50bajZpetfL5T0iRCOR74J) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="" width="50" /> | 1 | 0 | Good Vibrations | 1993 | [🔗](https://open.spotify.com/album/10IUKCLZPs9onPwXfQVxfv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27322d5199692d318c28d6c7d9b" alt="" width="50" /> | 1 | 0 | Glass Houses | 1980-03-12 | [🔗](https://open.spotify.com/album/5sztejERqpktXEdemlUvU5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273431daec5815fd0255437b43b" alt="" width="50" /> | 1 | 0 | Cold Spring Harbor | 1971-11-01 | [🔗](https://open.spotify.com/album/274rMlKrr22086ohmwAJZA) |
 
 ## Top Record Labels
 
-| Number of Tracks | Label |
-|---:|:---|
-| 22 | [Columbia](../labels/columbia.md) |
-| 1 | RCA Victor |
+| Tracks | 💚 | Label |
+|---:|---:|:---|
+| 22 | 15 | [Columbia](../labels/columbia.md) |
+| 1 | 0 | RCA Victor |
 
 ## Genres
 

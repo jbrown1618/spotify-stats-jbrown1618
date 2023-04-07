@@ -9,107 +9,107 @@ Appears as:
 
 ## Top Artists
 
-![Bar chart of top 11 artists](../images/labels/rhino/artists.png)
-
 
 <details>
 <summary>See all 11 artists</summary>
 
-| Number of Tracks | Art | Artist | 🔗 |
-|---:|:---|:---|:---|
-| 8 | <img src="https://i.scdn.co/image/68cfb061951dbd44c95422a54cb70baec0722ca3" alt="" width="50" /> | Joni Mitchell | [🔗](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) |
-| 4 | <img src="https://i.scdn.co/image/ab6761610000e5eb249d55f2d68a44637905c57e" alt="" width="50" /> | Fleetwood Mac | [🔗](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebeaca358712b3fe4ed9814640" alt="" width="50" /> | Prince | [🔗](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) |
-| 2 | <img src="https://i.scdn.co/image/5931700f9515dd6587230130beb615e0549e47dc" alt="" width="50" /> | Black Sabbath | [🔗](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5ebbdef7f178c9cf2e8d50cb9b9" alt="" width="50" /> | The Monkees | [🔗](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb0767e116a2307495e37cd7fb" alt="" width="50" /> | Eagles | [🔗](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb23a7b4c49d285729a974d6dd" alt="" width="50" /> | Deep Purple | [🔗](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273743ebb11200358b5c050f542" alt="" width="50" /> | Harry Chapin | [🔗](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebbab088e2157b02848dfcbc1e" alt="" width="50" /> | Chicago | [🔗](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) |
-| 1 | <img src="https://i.scdn.co/image/ab6772690000c46cb8af37ba12c1ad7ebcc63c25" alt="" width="50" /> | Frankie Valli | [🔗](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb0168ba8148c07c2cdeb7d067" alt="" width="50" /> | a-ha | [🔗](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) |
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/68cfb061951dbd44c95422a54cb70baec0722ca3" alt="" width="50" /> | 8 | 6 | Joni Mitchell | [🔗](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb249d55f2d68a44637905c57e" alt="" width="50" /> | 4 | 0 | Fleetwood Mac | [🔗](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebeaca358712b3fe4ed9814640" alt="" width="50" /> | 2 | 1 | Prince | [🔗](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) |
+| <img src="https://i.scdn.co/image/5931700f9515dd6587230130beb615e0549e47dc" alt="" width="50" /> | 2 | 1 | Black Sabbath | [🔗](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebbdef7f178c9cf2e8d50cb9b9" alt="" width="50" /> | 2 | 1 | The Monkees | [🔗](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0767e116a2307495e37cd7fb" alt="" width="50" /> | 2 | 1 | Eagles | [🔗](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273743ebb11200358b5c050f542" alt="" width="50" /> | 1 | 1 | Harry Chapin | [🔗](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebbab088e2157b02848dfcbc1e" alt="" width="50" /> | 1 | 1 | Chicago | [🔗](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) |
+| <img src="https://i.scdn.co/image/ab6772690000c46cb8af37ba12c1ad7ebcc63c25" alt="" width="50" /> | 1 | 1 | Frankie Valli | [🔗](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0168ba8148c07c2cdeb7d067" alt="" width="50" /> | 1 | 1 | a-ha | [🔗](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb607e7523c28dd40288a08df4" alt="" width="50" /> | 1 | 0 | Deep Purple | [🔗](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) |
 
 </details>
 
 
-## Top Albums
+![Bar chart of top 11 artists](../images/labels/rhino/artists.png)
 
-![Bar chart of top 18 albums](../images/labels/rhino/albums.png)
+## Top Albums
 
 
 <details>
 <summary>See all 18 albums</summary>
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273b4844a368bd9679f1db5a4fb" alt="" width="50" /> | Song to a Seagull | 1968-03-01 | [🔗](https://open.spotify.com/album/6rg3WTvmv68Vd6tgR0yS0E) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="" width="50" /> | Rumours (Super Deluxe) | 1977-02-04 | [🔗](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273e9f77be85457110ebf304da7" alt="" width="50" /> | Blue | 1971-06-22 | [🔗](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273d52bfb90ee8dfeda8378b99b" alt="" width="50" /> | Purple Rain | 1984-06-25 | [🔗](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273315994fdfb86d9bcb40337ba" alt="" width="50" /> | Verities & Balderdash | 1974 | [🔗](https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737a2a55eaab314c41d8f6e512" alt="" width="50" /> | Tusk (2015 Remaster) | 1979-10-12 | [🔗](https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b96c21e15c091eb98a6c88a4" alt="" width="50" /> | The Very Best of Frankie Valli & The 4 Seasons | 2003-01-14 | [🔗](https://open.spotify.com/album/0NUEQILaBzavnzcMEs4buZ) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27343f594be3179178ce058786f" alt="" width="50" /> | The Ultimate Collection | 2017-02-03 | [🔗](https://open.spotify.com/album/6TcPqftScGmR0aEgIb43Vv) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27376448e93fcf0b2298744ba97" alt="" width="50" /> | The Birds, The Bees, & The Monkees | 1968-04-22 | [🔗](https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d5fccf9ce08b6a1e7d12a222" alt="" width="50" /> | Paranoid (Remaster) | 1970-09-18 | [🔗](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273360a1ae790aa71a0aac4983e" alt="" width="50" /> | More of The Monkees (Deluxe Edition) | 1967-01-09 | [🔗](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273bc9b44e950d5440ff65ea926" alt="" width="50" /> | Machine Head | 1972-03-25 | [🔗](https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2730058fcf8f649ae1b05f6c163" alt="" width="50" /> | Ladies of the Canyon | 1970-03-01 | [🔗](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53" alt="" width="50" /> | Hunting High and Low | 1985-06-01 | [🔗](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734637341b9f507521afa9a778" alt="" width="50" /> | Hotel California (2013 Remaster) | 1976-12-08 | [🔗](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732d73b1bb77cee09f0278be04" alt="" width="50" /> | Desperado (2013 Remaster) | 1973 | [🔗](https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273909f0333c8c1a821a7eea703" alt="" width="50" /> | Court and Spark | 1974-01-17 | [🔗](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2730ac413b28547dbc45412a3ce" alt="" width="50" /> | Chicago IX: Chicago's Greatest Hits | 1975-11-10 | [🔗](https://open.spotify.com/album/5qWGV0fd7hpdptJYI4G9Dd) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273b4844a368bd9679f1db5a4fb" alt="" width="50" /> | 3 | 2 | Song to a Seagull | 1968-03-01 | [🔗](https://open.spotify.com/album/6rg3WTvmv68Vd6tgR0yS0E) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9f77be85457110ebf304da7" alt="" width="50" /> | 3 | 2 | Blue | 1971-06-22 | [🔗](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="" width="50" /> | 3 | 0 | Rumours (Super Deluxe) | 1977-02-04 | [🔗](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d52bfb90ee8dfeda8378b99b" alt="" width="50" /> | 2 | 1 | Purple Rain | 1984-06-25 | [🔗](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273315994fdfb86d9bcb40337ba" alt="" width="50" /> | 1 | 1 | Verities & Balderdash | 1974 | [🔗](https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b96c21e15c091eb98a6c88a4" alt="" width="50" /> | 1 | 1 | The Very Best of Frankie Valli & The 4 Seasons | 2003-01-14 | [🔗](https://open.spotify.com/album/0NUEQILaBzavnzcMEs4buZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27343f594be3179178ce058786f" alt="" width="50" /> | 1 | 1 | The Ultimate Collection | 2017-02-03 | [🔗](https://open.spotify.com/album/6TcPqftScGmR0aEgIb43Vv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273360a1ae790aa71a0aac4983e" alt="" width="50" /> | 1 | 1 | More of The Monkees (Deluxe Edition) | 1967-01-09 | [🔗](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730058fcf8f649ae1b05f6c163" alt="" width="50" /> | 1 | 1 | Ladies of the Canyon | 1970-03-01 | [🔗](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53" alt="" width="50" /> | 1 | 1 | Hunting High and Low | 1985-06-01 | [🔗](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732d73b1bb77cee09f0278be04" alt="" width="50" /> | 1 | 1 | Desperado (2013 Remaster) | 1973 | [🔗](https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273909f0333c8c1a821a7eea703" alt="" width="50" /> | 1 | 1 | Court and Spark | 1974-01-17 | [🔗](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730ac413b28547dbc45412a3ce" alt="" width="50" /> | 1 | 1 | Chicago IX: Chicago's Greatest Hits | 1975-11-10 | [🔗](https://open.spotify.com/album/5qWGV0fd7hpdptJYI4G9Dd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737a2a55eaab314c41d8f6e512" alt="" width="50" /> | 1 | 0 | Tusk (2015 Remaster) | 1979-10-12 | [🔗](https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27376448e93fcf0b2298744ba97" alt="" width="50" /> | 1 | 0 | The Birds, The Bees, & The Monkees | 1968-04-22 | [🔗](https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5fccf9ce08b6a1e7d12a222" alt="" width="50" /> | 1 | 0 | Paranoid (Remaster) | 1970-09-18 | [🔗](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bc9b44e950d5440ff65ea926" alt="" width="50" /> | 1 | 0 | Machine Head | 1972-03-25 | [🔗](https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734637341b9f507521afa9a778" alt="" width="50" /> | 1 | 0 | Hotel California (2013 Remaster) | 1976-12-08 | [🔗](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) |
 
 </details>
 
 
-## Genres
+![Bar chart of top 18 albums](../images/labels/rhino/albums.png)
 
-![Bar chart of top 30 genres](../images/labels/rhino/genres.png)
+## Genres
 
 
 <details>
 <summary>See all 33 genres</summary>
 
-| Number of Tracks | Genre |
-|---:|:---|
-| 14 | [folk rock](../genres/folk_rock.md) |
-| 13 | [classic rock](../genres/classic_rock.md) |
-| 12 | [soft rock](../genres/soft_rock.md) |
-| 11 | [rock](../genres/rock.md) |
-| 10 | album rock |
-| 9 | [singer-songwriter](../genres/singer_songwriter.md) |
-| 9 | folk |
-| 8 | canadian singer-songwriter |
-| 7 | yacht rock |
-| 7 | [mellow gold](../genres/mellow_gold.md) |
-| 5 | country rock |
-| 3 | metal |
-| 3 | hard rock |
-| 3 | bubblegum pop |
-| 2 | uk doom metal |
-| 2 | synth funk |
-| 2 | sunshine pop |
-| 2 | stoner rock |
-| 2 | minneapolis sound |
-| 2 | heartland rock |
-| 2 | funk rock |
-| 2 | funk |
-| 2 | birmingham metal |
-| 2 | beatlesque |
-| 2 | [adult standards](../genres/adult_standards.md) |
-| 1 | synthpop |
-| 1 | [pop rock](../genres/pop_rock.md) |
-| 1 | permanent wave |
-| 1 | new wave pop |
-| 1 | new wave |
-| 1 | new romantic |
-| 1 | disco |
-| 1 | blues rock |
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
+| 14 | 10 | [folk rock](../genres/folk_rock.md) |
+| 13 | 5 | [classic rock](../genres/classic_rock.md) |
+| 12 | 6 | [soft rock](../genres/soft_rock.md) |
+| 11 | 3 | [rock](../genres/rock.md) |
+| 10 | 3 | album rock |
+| 9 | 7 | [singer-songwriter](../genres/singer_songwriter.md) |
+| 9 | 7 | folk |
+| 8 | 6 | canadian singer-songwriter |
+| 7 | 5 | [mellow gold](../genres/mellow_gold.md) |
+| 7 | 2 | yacht rock |
+| 5 | 3 | country rock |
+| 3 | 2 | bubblegum pop |
+| 3 | 1 | metal |
+| 3 | 1 | hard rock |
+| 2 | 2 | [adult standards](../genres/adult_standards.md) |
+| 2 | 1 | uk doom metal |
+| 2 | 1 | synth funk |
+| 2 | 1 | sunshine pop |
+| 2 | 1 | stoner rock |
+| 2 | 1 | minneapolis sound |
+| 2 | 1 | heartland rock |
+| 2 | 1 | funk rock |
+| 2 | 1 | funk |
+| 2 | 1 | birmingham metal |
+| 2 | 1 | beatlesque |
+| 1 | 1 | synthpop |
+| 1 | 1 | [pop rock](../genres/pop_rock.md) |
+| 1 | 1 | permanent wave |
+| 1 | 1 | new wave pop |
+| 1 | 1 | new wave |
+| 1 | 1 | new romantic |
+| 1 | 1 | disco |
+| 1 | 0 | blues rock |
 
 </details>
 
+
+![Bar chart of top 30 genres](../images/labels/rhino/genres.png)
 
 ## Tracks released under Rhino
 

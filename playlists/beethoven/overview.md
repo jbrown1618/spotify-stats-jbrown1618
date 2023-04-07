@@ -3,92 +3,90 @@
 
 <img src="https://i.scdn.co/image/ab67616d0000b273c18e2114a3a3ef543635197a" alt="Beethoven" width="100" />
 
-[166 songs](tracks.md)
+[166 songs (0 liked)](tracks.md)
 
 ## Top Artists
-
-![Bar chart of top 11 artists](../../images/playlists/beethoven/artists.png)
-
-![Comparison of Artist](../../images/playlists/beethoven/artists_comparison.png)
 
 
 <details>
 <summary>See all 11 artists</summary>
 
-| Number of Tracks | Art | Artist | 🔗 |
-|---:|:---|:---|:---|
-| 166 | <img src="https://i.scdn.co/image/db022999443da6f89e250086329d98b17399b346" alt="" width="50" /> | Ludwig van Beethoven | [🔗](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS) |
-| 103 | <img src="https://i.scdn.co/image/ab6761610000e5eba5a4a932f73faefc19b4e24f" alt="" width="50" /> | Vladimir Ashkenazy | [🔗](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) |
-| 42 | <img src="https://i.scdn.co/image/ab6761610000e5eb92e0a1e423bd8590dcd43bda" alt="" width="50" /> | Berliner Philharmoniker | [🔗](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z) |
-| 42 | <img src="https://i.scdn.co/image/ab6761610000e5ebf67fde1740e91a88445d5bdd" alt="" width="50" /> | Herbert von Karajan | [🔗](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) |
-| 21 | <img src="https://i.scdn.co/image/da227efdc2e4be12443dcb5fa1ceb257fd1baf6a" alt="" width="50" /> | Mari Kodama | [🔗](https://open.spotify.com/artist/0s0wG03kPyu7MXERfcuxim) |
-| 1 | <img src="https://i.scdn.co/image/7edeefee1e00dc240f153b601cf735baba09a17a" alt="" width="50" /> | José van Dam | [🔗](https://open.spotify.com/artist/5qNUHMEhszyeXNYMn4sswd) |
-| 1 | <img src="https://i.scdn.co/image/e403106a45cbd0e2ca51e4d1b18b9a587f9177be" alt="" width="50" /> | Wiener Singverein | [🔗](https://open.spotify.com/artist/35QSympF887CO8h5eZHme2) |
-| 1 | <img src="https://i.scdn.co/image/a97382fc1e98c5a755daf70d7a9355f673811707" alt="" width="50" /> | Vinson Cole | [🔗](https://open.spotify.com/artist/2j6cP3f3TxyHzcKdWYSm6h) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27322070c61a7616392f04f070f" alt="" width="50" /> | Agnes Baltsa | [🔗](https://open.spotify.com/artist/2amF56vDuTTbZJQsqUgbuC) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27322070c61a7616392f04f070f" alt="" width="50" /> | Janet Perry | [🔗](https://open.spotify.com/artist/1bV3KjOPs1AI3OolJiYogN) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ad42862ef7e02b09abe20699" alt="" width="50" /> | Helmut Froschauer | [🔗](https://open.spotify.com/artist/172Encqfd2ZhWAleNg1gbO) |
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/db022999443da6f89e250086329d98b17399b346" alt="" width="50" /> | 166 | 0 | Ludwig van Beethoven | [🔗](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba5a4a932f73faefc19b4e24f" alt="" width="50" /> | 103 | 0 | Vladimir Ashkenazy | [🔗](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb92e0a1e423bd8590dcd43bda" alt="" width="50" /> | 42 | 0 | Berliner Philharmoniker | [🔗](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf67fde1740e91a88445d5bdd" alt="" width="50" /> | 42 | 0 | Herbert von Karajan | [🔗](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) |
+| <img src="https://i.scdn.co/image/da227efdc2e4be12443dcb5fa1ceb257fd1baf6a" alt="" width="50" /> | 21 | 0 | Mari Kodama | [🔗](https://open.spotify.com/artist/0s0wG03kPyu7MXERfcuxim) |
+| <img src="https://i.scdn.co/image/7edeefee1e00dc240f153b601cf735baba09a17a" alt="" width="50" /> | 1 | 0 | José van Dam | [🔗](https://open.spotify.com/artist/5qNUHMEhszyeXNYMn4sswd) |
+| <img src="https://i.scdn.co/image/e403106a45cbd0e2ca51e4d1b18b9a587f9177be" alt="" width="50" /> | 1 | 0 | Wiener Singverein | [🔗](https://open.spotify.com/artist/35QSympF887CO8h5eZHme2) |
+| <img src="https://i.scdn.co/image/a97382fc1e98c5a755daf70d7a9355f673811707" alt="" width="50" /> | 1 | 0 | Vinson Cole | [🔗](https://open.spotify.com/artist/2j6cP3f3TxyHzcKdWYSm6h) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27322070c61a7616392f04f070f" alt="" width="50" /> | 1 | 0 | Agnes Baltsa | [🔗](https://open.spotify.com/artist/2amF56vDuTTbZJQsqUgbuC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27322070c61a7616392f04f070f" alt="" width="50" /> | 1 | 0 | Janet Perry | [🔗](https://open.spotify.com/artist/1bV3KjOPs1AI3OolJiYogN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ad42862ef7e02b09abe20699" alt="" width="50" /> | 1 | 0 | Helmut Froschauer | [🔗](https://open.spotify.com/artist/172Encqfd2ZhWAleNg1gbO) |
 
 </details>
 
 
-## Top Albums
+![Bar chart of top 11 artists](../../images/playlists/beethoven/artists.png)
 
-![Bar chart of top 5 albums](../../images/playlists/beethoven/albums.png)
+![Comparison of Artist](../../images/playlists/beethoven/artists_comparison.png)
+
+## Top Albums
 
 
 <details>
 <summary>See all 5 albums</summary>
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 94 | <img src="https://i.scdn.co/image/ab67616d0000b273c18e2114a3a3ef543635197a" alt="" width="50" /> | Beethoven: The Piano Sonatas | 1995-01-01 | [🔗](https://open.spotify.com/album/7xbsSOswKgms1fUFuwKArz) |
-| 42 | <img src="https://i.scdn.co/image/ab67616d0000b27370426e24663b43f11ebd9c24" alt="" width="50" /> | Beethoven: 9 Symphonies; Overtures | 1993-01-01 | [🔗](https://open.spotify.com/album/2DQTNTznsteIZciZdyeWdj) |
-| 12 | <img src="https://i.scdn.co/image/ab67616d0000b2732266fb9b5484a5dc280e5bff" alt="" width="50" /> | Beethoven: Piano Sonatas Nos. 1-3 | 2008-01-01 | [🔗](https://open.spotify.com/album/5CjMjZJnjdHHgwAVkqrvXq) |
-| 9 | <img src="https://i.scdn.co/image/ab67616d0000b2730b9ae3f056fa16819bc9dd48" alt="" width="50" /> | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | 2012-03-06 | [🔗](https://open.spotify.com/album/478l1JdqbqDzcmmgrqw2zu) |
-| 9 | <img src="https://i.scdn.co/image/ab67616d0000b2731500f9a293f0106619f16a7d" alt="" width="50" /> | Beethoven: Piano Sonatas "Moonlight"; "Appassionata"; "Pathétique" | 1983-01-01 | [🔗](https://open.spotify.com/album/0RCfE1YhkdrjnM3kXT3YLl) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273c18e2114a3a3ef543635197a" alt="" width="50" /> | 94 | 0 | Beethoven: The Piano Sonatas | 1995-01-01 | [🔗](https://open.spotify.com/album/7xbsSOswKgms1fUFuwKArz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27370426e24663b43f11ebd9c24" alt="" width="50" /> | 42 | 0 | Beethoven: 9 Symphonies; Overtures | 1993-01-01 | [🔗](https://open.spotify.com/album/2DQTNTznsteIZciZdyeWdj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732266fb9b5484a5dc280e5bff" alt="" width="50" /> | 12 | 0 | Beethoven: Piano Sonatas Nos. 1-3 | 2008-01-01 | [🔗](https://open.spotify.com/album/5CjMjZJnjdHHgwAVkqrvXq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730b9ae3f056fa16819bc9dd48" alt="" width="50" /> | 9 | 0 | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | 2012-03-06 | [🔗](https://open.spotify.com/album/478l1JdqbqDzcmmgrqw2zu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731500f9a293f0106619f16a7d" alt="" width="50" /> | 9 | 0 | Beethoven: Piano Sonatas "Moonlight"; "Appassionata"; "Pathétique" | 1983-01-01 | [🔗](https://open.spotify.com/album/0RCfE1YhkdrjnM3kXT3YLl) |
 
 </details>
 
 
-## Top Record Labels
+![Bar chart of top 5 albums](../../images/playlists/beethoven/albums.png)
 
-![Bar chart of top 3 record labels](../../images/playlists/beethoven/labels.png)
+## Top Record Labels
 
 
 <details>
 <summary>See all 3 labels</summary>
 
-| Number of Tracks | Label |
-|---:|:---|
-| 103 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_.md) |
-| 42 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_.md) |
-| 21 | [PENTATONE](../../labels/pentatone.md) |
+| Tracks | 💚 | Label |
+|---:|---:|:---|
+| 103 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_.md) |
+| 42 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_.md) |
+| 21 | 0 | [PENTATONE](../../labels/pentatone.md) |
 
 </details>
 
 
-## Genres
+![Bar chart of top 3 record labels](../../images/playlists/beethoven/labels.png)
 
-![Bar chart of top 4 genres](../../images/playlists/beethoven/genres.png)
+## Genres
 
 
 <details>
 <summary>See all 4 genres</summary>
 
-| Number of Tracks | Genre |
-|---:|:---|
-| 166 | german romanticism |
-| 166 | early romantic era |
-| 166 | classical era |
-| 166 | classical |
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
+| 166 | 0 | german romanticism |
+| 166 | 0 | early romantic era |
+| 166 | 0 | classical era |
+| 166 | 0 | classical |
 
 </details>
 
 
-## Years
+![Bar chart of top 4 genres](../../images/playlists/beethoven/genres.png)
 
-![Bar chart of number of songs by year](../../images/playlists/beethoven/years.png)
+## Years
 
 
 <details>
@@ -104,6 +102,8 @@
 
 </details>
 
+
+![Bar chart of number of songs by year](../../images/playlists/beethoven/years.png)
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|

@@ -8,65 +8,65 @@ Appears as:
 
 ## Top Artists
 
-![Bar chart of top 7 artists](../images/labels/sony_classical/artists.png)
-
 
 <details>
 <summary>See all 7 artists</summary>
 
-| Number of Tracks | Art | Artist | 🔗 |
-|---:|:---|:---|:---|
-| 36 | <img src="https://i.scdn.co/image/a2ec08fe69ecec2748fbc764aede8f1b03ae8f88" alt="" width="50" /> | Johann Sebastian Bach | [🔗](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408) |
-| 36 | <img src="https://i.scdn.co/image/ab6761610000e5ebfb0fcd51414e7bbe85e00b6f" alt="" width="50" /> | Yo-Yo Ma | [🔗](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) |
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4536d632bb182e3f82baaaf" alt="" width="50" /> | The King's Singers | [🔗](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27327167af8c348634b70c8a6d4" alt="" width="50" /> | Mike Love | [🔗](https://open.spotify.com/artist/5gr5OoQ4aQdJ3CqOr9v7Bt) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a6fd8ebc62d68a372d51516" alt="" width="50" /> | Andrew Lloyd Webber | [🔗](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG) |
-| 1 | <img src="https://i.scdn.co/image/a832eaa4d4ff006a419610c2c5d37140efa00225" alt="" width="50" /> | Brian Wilson | [🔗](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj) |
-| 1 | <img src="https://i.scdn.co/image/a1cac87495158db597c9faa75279cc3e30067c83" alt="" width="50" /> | Josquin des Prez | [🔗](https://open.spotify.com/artist/31f23hmZawdqgp0sECAzE8) |
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/a2ec08fe69ecec2748fbc764aede8f1b03ae8f88" alt="" width="50" /> | 36 | 0 | Johann Sebastian Bach | [🔗](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebfb0fcd51414e7bbe85e00b6f" alt="" width="50" /> | 36 | 0 | Yo-Yo Ma | [🔗](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe4536d632bb182e3f82baaaf" alt="" width="50" /> | 3 | 0 | The King's Singers | [🔗](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27327167af8c348634b70c8a6d4" alt="" width="50" /> | 1 | 0 | Mike Love | [🔗](https://open.spotify.com/artist/5gr5OoQ4aQdJ3CqOr9v7Bt) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5a6fd8ebc62d68a372d51516" alt="" width="50" /> | 1 | 0 | Andrew Lloyd Webber | [🔗](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG) |
+| <img src="https://i.scdn.co/image/a832eaa4d4ff006a419610c2c5d37140efa00225" alt="" width="50" /> | 1 | 0 | Brian Wilson | [🔗](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj) |
+| <img src="https://i.scdn.co/image/a1cac87495158db597c9faa75279cc3e30067c83" alt="" width="50" /> | 1 | 0 | Josquin des Prez | [🔗](https://open.spotify.com/artist/31f23hmZawdqgp0sECAzE8) |
 
 </details>
 
 
+![Bar chart of top 7 artists](../images/labels/sony_classical/artists.png)
+
 ## Top Albums
-
-
 
 
 <details>
 <summary>See all 2 albums</summary>
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|---:|:---|
-| 36 | <img src="https://i.scdn.co/image/ab67616d0000b273261feb89ee859b598bd34a97" alt="" width="50" /> | Bach: Unaccompanied Cello Suites (Remastered) | 1983 | [🔗](https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="" width="50" /> | Cappella | 2013 | [🔗](https://open.spotify.com/album/3n6JxpdWnHkazMCQxKK5qI) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273261feb89ee859b598bd34a97" alt="" width="50" /> | 36 | 0 | Bach: Unaccompanied Cello Suites (Remastered) | 1983 | [🔗](https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="" width="50" /> | 3 | 0 | Cappella | 2013 | [🔗](https://open.spotify.com/album/3n6JxpdWnHkazMCQxKK5qI) |
 
 </details>
 
 
-## Genres
 
-![Bar chart of top 11 genres](../images/labels/sony_classical/genres.png)
+
+## Genres
 
 
 <details>
 <summary>See all 11 genres</summary>
 
-| Number of Tracks | Genre |
-|---:|:---|
-| 37 | early music |
-| 37 | classical |
-| 36 | german baroque |
-| 36 | baroque |
-| 1 | west end |
-| 1 | sunshine pop |
-| 1 | [show tunes](../genres/show_tunes.md) |
-| 1 | renaissance |
-| 1 | franco-flemish school |
-| 1 | [broadway](../genres/broadway.md) |
-| 1 | baroque pop |
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
+| 37 | 0 | early music |
+| 37 | 0 | classical |
+| 36 | 0 | german baroque |
+| 36 | 0 | baroque |
+| 1 | 0 | west end |
+| 1 | 0 | sunshine pop |
+| 1 | 0 | [show tunes](../genres/show_tunes.md) |
+| 1 | 0 | renaissance |
+| 1 | 0 | franco-flemish school |
+| 1 | 0 | [broadway](../genres/broadway.md) |
+| 1 | 0 | baroque pop |
 
 </details>
 
+
+![Bar chart of top 11 genres](../images/labels/sony_classical/genres.png)
 
 ## Tracks released under Sony Classical
 

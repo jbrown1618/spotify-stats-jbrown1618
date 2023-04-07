@@ -8,51 +8,51 @@ Appears as:
 ## Top Artists
 
 
-
-
 <details>
 <summary>See all 2 artists</summary>
 
-| Number of Tracks | Art | Artist | 🔗 |
-|---:|:---|:---|:---|
-| 24 | <img src="https://i.scdn.co/image/1b640748181bdba8cc37a0a6ee5148c27b374d4e" alt="" width="50" /> | Eldar Nebolsin | [🔗](https://open.spotify.com/artist/45ts2AJTWlzJ9JrQlCGxpX) |
-| 24 | <img src="https://i.scdn.co/image/463e3c5c3e814761532f554913cf2af456bcba59" alt="" width="50" /> | Sergei Rachmaninoff | [🔗](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51) |
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/1b640748181bdba8cc37a0a6ee5148c27b374d4e" alt="" width="50" /> | 24 | 0 | Eldar Nebolsin | [🔗](https://open.spotify.com/artist/45ts2AJTWlzJ9JrQlCGxpX) |
+| <img src="https://i.scdn.co/image/463e3c5c3e814761532f554913cf2af456bcba59" alt="" width="50" /> | 24 | 0 | Sergei Rachmaninoff | [🔗](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51) |
 
 </details>
+
+
 
 
 ## Top Albums
 
 
-
-
 <details>
 <summary>See all 1 albums</summary>
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 24 | <img src="https://i.scdn.co/image/ab67616d0000b2732d2154810a4e4472b4cc199e" alt="" width="50" /> | Rachmaninov: Preludes for Piano (Complete) | 2007-05-29 | [🔗](https://open.spotify.com/album/1vlnwUAidj7bEmRhsq4zTv) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2732d2154810a4e4472b4cc199e" alt="" width="50" /> | 24 | 0 | Rachmaninov: Preludes for Piano (Complete) | 2007-05-29 | [🔗](https://open.spotify.com/album/1vlnwUAidj7bEmRhsq4zTv) |
 
 </details>
 
 
-## Genres
 
-![Bar chart of top 4 genres](../images/labels/naxos/genres.png)
+
+## Genres
 
 
 <details>
 <summary>See all 4 genres</summary>
 
-| Number of Tracks | Genre |
-|---:|:---|
-| 24 | ukrainian classical |
-| 24 | russian romanticism |
-| 24 | post-romantic era |
-| 24 | classical |
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
+| 24 | 0 | ukrainian classical |
+| 24 | 0 | russian romanticism |
+| 24 | 0 | post-romantic era |
+| 24 | 0 | classical |
 
 </details>
 
+
+![Bar chart of top 4 genres](../images/labels/naxos/genres.png)
 
 ## Tracks released under Naxos
 

@@ -7,65 +7,65 @@ Appears as:
 
 ## Top Artists
 
-![Bar chart of top 8 artists](../images/labels/a_cappella_records/artists.png)
-
 
 <details>
 <summary>See all 8 artists</summary>
 
-| Number of Tracks | Art | Artist | 🔗 |
-|---:|:---|:---|:---|
-| 14 | <img src="https://i.scdn.co/image/ab6761610000e5eb3a9c5b798300322d4bc698f0" alt="" width="50" /> | Tar Heel Voices | [🔗](https://open.spotify.com/artist/1apO6pJsV1nwuF2K8sEsDo) |
-| 6 | <img src="https://i.scdn.co/image/ab6761610000e5eb616fc063b23c40fc8a91d885" alt="" width="50" /> | Pitch Slapped | [🔗](https://open.spotify.com/artist/7EH7jldX62OIsU1yU1SWE7) |
-| 5 | <img src="https://i.scdn.co/image/ab6761610000e5eb935384f680f653b00bc04c26" alt="" width="50" /> | Voices in Your Head | [🔗](https://open.spotify.com/artist/44v8JgDySt9tkgfV3AWxBJ) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb68021119cbab353e2278d4a3" alt="" width="50" /> | The Loreleis | [🔗](https://open.spotify.com/artist/1fqMjreaczGwFmdmG6AvJs) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb8c4a9d4a5f8004ad4d0195aa" alt="" width="50" /> | The Nor'easters | [🔗](https://open.spotify.com/artist/1aLfVgwt8eBrpvHcutWmqe) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8cb389217e22c8ecb1846122" alt="" width="50" /> | Vanderbilt Melodores | [🔗](https://open.spotify.com/artist/7HkF8fT7TZlrQsjSgWUEXN) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb22e5cea0be00de88a4269bb8" alt="" width="50" /> | The Clef Hangers | [🔗](https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb28d2d9a97a89d4721c2917b2" alt="" width="50" /> | UNC Achordants | [🔗](https://open.spotify.com/artist/1TzZMeOCs4TMYtzgohPMAr) |
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3a9c5b798300322d4bc698f0" alt="" width="50" /> | 14 | 0 | Tar Heel Voices | [🔗](https://open.spotify.com/artist/1apO6pJsV1nwuF2K8sEsDo) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb616fc063b23c40fc8a91d885" alt="" width="50" /> | 6 | 0 | Pitch Slapped | [🔗](https://open.spotify.com/artist/7EH7jldX62OIsU1yU1SWE7) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb935384f680f653b00bc04c26" alt="" width="50" /> | 5 | 0 | Voices in Your Head | [🔗](https://open.spotify.com/artist/44v8JgDySt9tkgfV3AWxBJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb68021119cbab353e2278d4a3" alt="" width="50" /> | 2 | 0 | The Loreleis | [🔗](https://open.spotify.com/artist/1fqMjreaczGwFmdmG6AvJs) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8c4a9d4a5f8004ad4d0195aa" alt="" width="50" /> | 2 | 0 | The Nor'easters | [🔗](https://open.spotify.com/artist/1aLfVgwt8eBrpvHcutWmqe) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8cb389217e22c8ecb1846122" alt="" width="50" /> | 1 | 0 | Vanderbilt Melodores | [🔗](https://open.spotify.com/artist/7HkF8fT7TZlrQsjSgWUEXN) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb22e5cea0be00de88a4269bb8" alt="" width="50" /> | 1 | 0 | The Clef Hangers | [🔗](https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb28d2d9a97a89d4721c2917b2" alt="" width="50" /> | 1 | 0 | UNC Achordants | [🔗](https://open.spotify.com/artist/1TzZMeOCs4TMYtzgohPMAr) |
 
 </details>
 
 
-## Top Albums
+![Bar chart of top 8 artists](../images/labels/a_cappella_records/artists.png)
 
-![Bar chart of top 11 albums](../images/labels/a_cappella_records/albums.png)
+## Top Albums
 
 
 <details>
 <summary>See all 11 albums</summary>
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 8 | <img src="https://i.scdn.co/image/ab67616d0000b273987a99b436a78299e8dcb7dd" alt="" width="50" /> | Quarter Past | 2014-11-18 | [🔗](https://open.spotify.com/album/1pScBPjmT5w3s0BTgkdgJy) |
-| 6 | <img src="https://i.scdn.co/image/ab67616d0000b27371a67f8f5158f054b136bd8a" alt="" width="50" /> | Keepin' it Low Key | 2013-01-18 | [🔗](https://open.spotify.com/album/4EmdqB8w7gEONRX5QLypQZ) |
-| 5 | <img src="https://i.scdn.co/image/ab67616d0000b27381514ee26162b9fed3c39be7" alt="" width="50" /> | Pitch Slapped - EP | 2011-04-08 | [🔗](https://open.spotify.com/album/5I08qbUSg8f48kenQs7Tg6) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273b7d3410c326df5c5af0179f6" alt="" width="50" /> | Songs for Padded Rooms | 2011-05-21 | [🔗](https://open.spotify.com/album/0h3bmbpSuD01ha1k52E1uz) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2734b16fad8fb09cff04b362139" alt="" width="50" /> | III | 2012-04-12 | [🔗](https://open.spotify.com/album/3iFvXj07Frbs54rK9CzCIo) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2735a1783df13795d2db2599c7e" alt="" width="50" /> | I Used to Live Alone | 2011-05-21 | [🔗](https://open.spotify.com/album/0AmRRsaQVm5noeAB6LF8yA) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273ee681b6eddc77fd366693a84" alt="" width="50" /> | A Kick & A Wallop | 2012-03-24 | [🔗](https://open.spotify.com/album/5wnXtRvlemaPLxZFTpWtix) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273707302925a3cb0f9dbcc23f8" alt="" width="50" /> | House Rules | 2011-04-26 | [🔗](https://open.spotify.com/album/1fHxE6WZL6ouusBW4h9nE4) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b6506a5b3e8f6bf816cbc118" alt="" width="50" /> | High Stakes Old Maid | 2016 | [🔗](https://open.spotify.com/album/6sg9WsK06H588Y5VOmwj37) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734c29cb8d443b45f43e78e9f5" alt="" width="50" /> | Encore | 2013-05-03 | [🔗](https://open.spotify.com/album/1AN2Vv5PecNjJEmzys8Gru) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b412efc7cf36157f45463837" alt="" width="50" /> | Disturbia | 2010-11-22 | [🔗](https://open.spotify.com/album/3ypmasyBX16BmWt52owYaN) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273987a99b436a78299e8dcb7dd" alt="" width="50" /> | 8 | 0 | Quarter Past | 2014-11-18 | [🔗](https://open.spotify.com/album/1pScBPjmT5w3s0BTgkdgJy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27371a67f8f5158f054b136bd8a" alt="" width="50" /> | 6 | 0 | Keepin' it Low Key | 2013-01-18 | [🔗](https://open.spotify.com/album/4EmdqB8w7gEONRX5QLypQZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381514ee26162b9fed3c39be7" alt="" width="50" /> | 5 | 0 | Pitch Slapped - EP | 2011-04-08 | [🔗](https://open.spotify.com/album/5I08qbUSg8f48kenQs7Tg6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b7d3410c326df5c5af0179f6" alt="" width="50" /> | 3 | 0 | Songs for Padded Rooms | 2011-05-21 | [🔗](https://open.spotify.com/album/0h3bmbpSuD01ha1k52E1uz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b16fad8fb09cff04b362139" alt="" width="50" /> | 2 | 0 | III | 2012-04-12 | [🔗](https://open.spotify.com/album/3iFvXj07Frbs54rK9CzCIo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735a1783df13795d2db2599c7e" alt="" width="50" /> | 2 | 0 | I Used to Live Alone | 2011-05-21 | [🔗](https://open.spotify.com/album/0AmRRsaQVm5noeAB6LF8yA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ee681b6eddc77fd366693a84" alt="" width="50" /> | 2 | 0 | A Kick & A Wallop | 2012-03-24 | [🔗](https://open.spotify.com/album/5wnXtRvlemaPLxZFTpWtix) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273707302925a3cb0f9dbcc23f8" alt="" width="50" /> | 1 | 0 | House Rules | 2011-04-26 | [🔗](https://open.spotify.com/album/1fHxE6WZL6ouusBW4h9nE4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b6506a5b3e8f6bf816cbc118" alt="" width="50" /> | 1 | 0 | High Stakes Old Maid | 2016 | [🔗](https://open.spotify.com/album/6sg9WsK06H588Y5VOmwj37) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734c29cb8d443b45f43e78e9f5" alt="" width="50" /> | 1 | 0 | Encore | 2013-05-03 | [🔗](https://open.spotify.com/album/1AN2Vv5PecNjJEmzys8Gru) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b412efc7cf36157f45463837" alt="" width="50" /> | 1 | 0 | Disturbia | 2010-11-22 | [🔗](https://open.spotify.com/album/3ypmasyBX16BmWt52owYaN) |
 
 </details>
 
 
+![Bar chart of top 11 albums](../images/labels/a_cappella_records/albums.png)
+
 ## Genres
-
-
 
 
 <details>
 <summary>See all 2 genres</summary>
 
-| Number of Tracks | Genre |
-|---:|:---|
-| 32 | [a cappella](../genres/a_cappella.md) |
-| 29 | college a cappella |
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
+| 32 | 0 | [a cappella](../genres/a_cappella.md) |
+| 29 | 0 | college a cappella |
 
 </details>
+
+
 
 
 ## Tracks released under A Cappella Records

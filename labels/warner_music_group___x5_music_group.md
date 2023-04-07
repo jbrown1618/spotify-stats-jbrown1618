@@ -7,69 +7,70 @@ Appears as:
 
 ## Top Artists
 
-![Bar chart of top 19 artists](../images/labels/warner_music_group___x5_music_group/artists.png)
-
 
 <details>
 <summary>See all 19 artists</summary>
 
-| Number of Tracks | Art | Artist | 🔗 |
-|---:|:---|:---|:---|
-| 20 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fa9108c6dadb8c3ec21da88" alt="" width="50" /> | Wolfgang Amadeus Mozart | [🔗](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS) |
-| 12 | <img src="https://i.scdn.co/image/1dc8f4430bbf39a814e3413892c020122215924f" alt="" width="50" /> | Carmen Piazzini | [🔗](https://open.spotify.com/artist/6aQUOvrKLOquCAvIGdIwTx) |
-| 4 | <img src="https://i.scdn.co/image/ab67616d0000b273a3096c4f027435226cdfd8e1" alt="" width="50" /> | Mikhail Gantvarg | [🔗](https://open.spotify.com/artist/1SCRjxxRnRFsoctLKXIoZx) |
-| 4 | <img src="https://i.scdn.co/image/ab67616d0000b273a3096c4f027435226cdfd8e1" alt="" width="50" /> | The St. Petersburg Soloists | [🔗](https://open.spotify.com/artist/11K9yxwc8iVyEh0ya9v9XY) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2735bc527148c3774b330624505" alt="" width="50" /> | Elisabeth Sombart | [🔗](https://open.spotify.com/artist/6pp4xqAWH1oHFQX0kJtVvO) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2730c88531f06fd93f8e965dd97" alt="" width="50" /> | Roberte Mamou | [🔗](https://open.spotify.com/artist/6DsbdauTI2Fn2NN4B1EIUN) |
-| 2 | <img src="https://i.scdn.co/image/7360142a8274b7d0487de1d1e4b176e6fc34c112" alt="" width="50" /> | Berliner Symphoniker | [🔗](https://open.spotify.com/artist/5pF76lplGIvEFGb8lI48hA) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273f478f283072a58db18a306b2" alt="" width="50" /> | Gerard Oskamp | [🔗](https://open.spotify.com/artist/4TWzdKT6XMuddLAoj6PgXi) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273156753578c852f7b694408db" alt="" width="50" /> | Munich Youth Orchestra | [🔗](https://open.spotify.com/artist/3jgBofW8eFrbtrsSbLy8Br) |
-| 2 | <img src="nan" alt="" width="50" /> | Jordi Mora | [🔗](https://open.spotify.com/artist/0bE9Z0z4cxaixqTRU2O5BA) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273e72e9d3ec09b350c5d0531a0" alt="" width="50" /> | Axel Gillison | [🔗](https://open.spotify.com/artist/05ukT24TP30K50Blikom8z) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737e642d5abb467a88d79bc1ec" alt="" width="50" /> | Mostar Symphony Orchestra | [🔗](https://open.spotify.com/artist/70i7O3jytAajMDs0nV0Zbk) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb68060bb8c0b22952f9013901" alt="" width="50" /> | London Philharmonic Orchestra | [🔗](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) |
-| 1 | <img src="https://i.scdn.co/image/965d539c15af1d86ec4875f05ec21d32414c3e64" alt="" width="50" /> | Gabriel Fauré | [🔗](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO) |
-| 1 | <img src="https://i.scdn.co/image/280739f001dfa6cbd0c865f151b4ebd2270d8cdf" alt="" width="50" /> | David Parry | [🔗](https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD) |
-| 1 | <img src="nan" alt="" width="50" /> | Vestischen Chamber Orchestra | [🔗](https://open.spotify.com/artist/1m3ycS5catGCiLB0J5eKDG) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737e642d5abb467a88d79bc1ec" alt="" width="50" /> | Ilmar Lapinsch | [🔗](https://open.spotify.com/artist/0dI3iXIxXjAtMkzZCsOVEg) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738dd4042adcca6717a808428b" alt="" width="50" /> | Ratko Delorko | [🔗](https://open.spotify.com/artist/0E1sM06TDvSpGqNQBx8FV0) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273732b6fb281de1f71f1f5f325" alt="" width="50" /> | Gints Berzins | [🔗](https://open.spotify.com/artist/0CqCB3JQz4h9k3qk74ihWT) |
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7fa9108c6dadb8c3ec21da88" alt="" width="50" /> | 20 | 0 | Wolfgang Amadeus Mozart | [🔗](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS) |
+| <img src="https://i.scdn.co/image/1dc8f4430bbf39a814e3413892c020122215924f" alt="" width="50" /> | 12 | 0 | Carmen Piazzini | [🔗](https://open.spotify.com/artist/6aQUOvrKLOquCAvIGdIwTx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a3096c4f027435226cdfd8e1" alt="" width="50" /> | 4 | 0 | Mikhail Gantvarg | [🔗](https://open.spotify.com/artist/1SCRjxxRnRFsoctLKXIoZx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a3096c4f027435226cdfd8e1" alt="" width="50" /> | 4 | 0 | The St. Petersburg Soloists | [🔗](https://open.spotify.com/artist/11K9yxwc8iVyEh0ya9v9XY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735bc527148c3774b330624505" alt="" width="50" /> | 2 | 0 | Elisabeth Sombart | [🔗](https://open.spotify.com/artist/6pp4xqAWH1oHFQX0kJtVvO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730c88531f06fd93f8e965dd97" alt="" width="50" /> | 2 | 0 | Roberte Mamou | [🔗](https://open.spotify.com/artist/6DsbdauTI2Fn2NN4B1EIUN) |
+| <img src="https://i.scdn.co/image/7360142a8274b7d0487de1d1e4b176e6fc34c112" alt="" width="50" /> | 2 | 0 | Berliner Symphoniker | [🔗](https://open.spotify.com/artist/5pF76lplGIvEFGb8lI48hA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f478f283072a58db18a306b2" alt="" width="50" /> | 2 | 0 | Gerard Oskamp | [🔗](https://open.spotify.com/artist/4TWzdKT6XMuddLAoj6PgXi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273156753578c852f7b694408db" alt="" width="50" /> | 2 | 0 | Munich Youth Orchestra | [🔗](https://open.spotify.com/artist/3jgBofW8eFrbtrsSbLy8Br) |
+| <img src="nan" alt="" width="50" /> | 2 | 0 | Jordi Mora | [🔗](https://open.spotify.com/artist/0bE9Z0z4cxaixqTRU2O5BA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e72e9d3ec09b350c5d0531a0" alt="" width="50" /> | 2 | 0 | Axel Gillison | [🔗](https://open.spotify.com/artist/05ukT24TP30K50Blikom8z) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737e642d5abb467a88d79bc1ec" alt="" width="50" /> | 1 | 0 | Mostar Symphony Orchestra | [🔗](https://open.spotify.com/artist/70i7O3jytAajMDs0nV0Zbk) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb68060bb8c0b22952f9013901" alt="" width="50" /> | 1 | 0 | London Philharmonic Orchestra | [🔗](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) |
+| <img src="https://i.scdn.co/image/965d539c15af1d86ec4875f05ec21d32414c3e64" alt="" width="50" /> | 1 | 0 | Gabriel Fauré | [🔗](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO) |
+| <img src="https://i.scdn.co/image/280739f001dfa6cbd0c865f151b4ebd2270d8cdf" alt="" width="50" /> | 1 | 0 | David Parry | [🔗](https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD) |
+| <img src="nan" alt="" width="50" /> | 1 | 0 | Vestischen Chamber Orchestra | [🔗](https://open.spotify.com/artist/1m3ycS5catGCiLB0J5eKDG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737e642d5abb467a88d79bc1ec" alt="" width="50" /> | 1 | 0 | Ilmar Lapinsch | [🔗](https://open.spotify.com/artist/0dI3iXIxXjAtMkzZCsOVEg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737035d110c981d96a16ee5150" alt="" width="50" /> | 1 | 0 | Ratko Delorko | [🔗](https://open.spotify.com/artist/0E1sM06TDvSpGqNQBx8FV0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273732b6fb281de1f71f1f5f325" alt="" width="50" /> | 1 | 0 | Gints Berzins | [🔗](https://open.spotify.com/artist/0CqCB3JQz4h9k3qk74ihWT) |
 
 </details>
 
 
+![Bar chart of top 19 artists](../images/labels/warner_music_group___x5_music_group/artists.png)
+
 ## Top Albums
-
-
 
 
 <details>
 <summary>See all 2 albums</summary>
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 20 | <img src="https://i.scdn.co/image/ab67616d0000b273a78d6aa51909744b78778902" alt="" width="50" /> | Mozart Piano Pieces | 2020-10-13 | [🔗](https://open.spotify.com/album/3AYEvo7R1gY4O5xJuMwy3U) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27376a42530f861aa187f3ac1c2" alt="" width="50" /> | Fauré Pavane | 2020-05-30 | [🔗](https://open.spotify.com/album/0FaQ2LW8NNG3YXYJXFikJF) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273a78d6aa51909744b78778902" alt="" width="50" /> | 20 | 0 | Mozart Piano Pieces | 2020-10-13 | [🔗](https://open.spotify.com/album/3AYEvo7R1gY4O5xJuMwy3U) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27376a42530f861aa187f3ac1c2" alt="" width="50" /> | 1 | 0 | Fauré Pavane | 2020-05-30 | [🔗](https://open.spotify.com/album/0FaQ2LW8NNG3YXYJXFikJF) |
 
 </details>
+
+
 
 
 ## Genres
 
-![Bar chart of top 3 genres](../images/labels/warner_music_group___x5_music_group/genres.png)
-
 
 <details>
-<summary>See all 3 genres</summary>
+<summary>See all 4 genres</summary>
 
-| Number of Tracks | Genre |
-|---:|:---|
-| 21 | classical |
-| 20 | classical era |
-| 1 | post-romantic era |
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
+| 21 | 0 | classical |
+| 20 | 0 | lullaby |
+| 20 | 0 | classical era |
+| 1 | 0 | post-romantic era |
 
 </details>
 
+
+![Bar chart of top 4 genres](../images/labels/warner_music_group___x5_music_group/genres.png)
 
 ## Tracks released under Warner Music Group - X5 Music Group
 

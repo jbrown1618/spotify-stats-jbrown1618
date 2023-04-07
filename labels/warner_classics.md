@@ -7,82 +7,83 @@ Appears as:
 
 ## Top Artists
 
-![Bar chart of top 16 artists](../images/labels/warner_classics/artists.png)
-
 
 <details>
 <summary>See all 16 artists</summary>
 
-| Number of Tracks | Art | Artist | 🔗 |
-|---:|:---|:---|:---|
-| 55 | <img src="https://i.scdn.co/image/9a7c31f43e22a95f6d3c57baf4f87a3a9d2b93e0" alt="" width="50" /> | Pyotr Ilyich Tchaikovsky | [🔗](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA) |
-| 31 | <img src="https://i.scdn.co/image/ab6761610000e5ebf113c063e071771545263b9a" alt="" width="50" /> | London Symphony Orchestra | [🔗](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) |
-| 31 | <img src="https://i.scdn.co/image/8680bc690ee5747b08f6a9a7566f000cce6e220b" alt="" width="50" /> | André Previn | [🔗](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) |
-| 24 | <img src="https://i.scdn.co/image/ab6761610000e5eb92e0a1e423bd8590dcd43bda" alt="" width="50" /> | Berliner Philharmoniker | [🔗](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z) |
-| 24 | <img src="https://i.scdn.co/image/3460fd826c1cc058c4c4134e6c695e00dcf89fa6" alt="" width="50" /> | Sir Simon Rattle | [🔗](https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp) |
-| 16 | <img src="https://i.scdn.co/image/0a9d5ec941fbc045b93f26370c18b8bf0a659708" alt="" width="50" /> | Sarah Chang | [🔗](https://open.spotify.com/artist/5duxfFAQVkDT9g261fKlMP) |
-| 16 | <img src="https://i.scdn.co/image/ab6761610000e5ebae79cc231c0bde53d5ed1f5b" alt="" width="50" /> | Orpheus Chamber Orchestra | [🔗](https://open.spotify.com/artist/35pZsti1RSA5Zv98jAm8kX) |
-| 16 | <img src="https://i.scdn.co/image/9785700bae86f991f78183076861c7342a4bcf90" alt="" width="50" /> | Antonio Vivaldi | [🔗](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR) |
-| 4 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4536d632bb182e3f82baaaf" alt="" width="50" /> | The King's Singers | [🔗](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) |
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8b13e554131116bf311f242" alt="" width="50" /> | Academy of St. Martin in the Fields | [🔗](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF) |
-| 3 | <img src="https://i.scdn.co/image/addf4464734979a85ef71a61c421f23a6bc143ae" alt="" width="50" /> | Sir Neville Marriner | [🔗](https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9) |
-| 3 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fa9108c6dadb8c3ec21da88" alt="" width="50" /> | Wolfgang Amadeus Mozart | [🔗](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS) |
-| 1 | <img src="nan" alt="" width="50" /> | Andrew Busher | [🔗](https://open.spotify.com/artist/3Zbnq9cbmHkNBzUrfTe2Vb) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb68a5073a017fac8434535e8a" alt="" width="50" /> | Libera | [🔗](https://open.spotify.com/artist/235C4ktJ2aGIyqaBlXyg7e) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebc63e900506fdff4b6177f920" alt="" width="50" /> | The Swingle Singers | [🔗](https://open.spotify.com/artist/1ZlFYysRdc6YaUH5FkxPl8) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ce3e7c9e1c38c0edbe1528c" alt="" width="50" /> | Traditional | [🔗](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf) |
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/9a7c31f43e22a95f6d3c57baf4f87a3a9d2b93e0" alt="" width="50" /> | 55 | 0 | Pyotr Ilyich Tchaikovsky | [🔗](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf113c063e071771545263b9a" alt="" width="50" /> | 31 | 0 | London Symphony Orchestra | [🔗](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) |
+| <img src="https://i.scdn.co/image/8680bc690ee5747b08f6a9a7566f000cce6e220b" alt="" width="50" /> | 31 | 0 | André Previn | [🔗](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb92e0a1e423bd8590dcd43bda" alt="" width="50" /> | 24 | 0 | Berliner Philharmoniker | [🔗](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z) |
+| <img src="https://i.scdn.co/image/3460fd826c1cc058c4c4134e6c695e00dcf89fa6" alt="" width="50" /> | 24 | 0 | Sir Simon Rattle | [🔗](https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp) |
+| <img src="https://i.scdn.co/image/0a9d5ec941fbc045b93f26370c18b8bf0a659708" alt="" width="50" /> | 16 | 0 | Sarah Chang | [🔗](https://open.spotify.com/artist/5duxfFAQVkDT9g261fKlMP) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebae79cc231c0bde53d5ed1f5b" alt="" width="50" /> | 16 | 0 | Orpheus Chamber Orchestra | [🔗](https://open.spotify.com/artist/35pZsti1RSA5Zv98jAm8kX) |
+| <img src="https://i.scdn.co/image/9785700bae86f991f78183076861c7342a4bcf90" alt="" width="50" /> | 16 | 0 | Antonio Vivaldi | [🔗](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe4536d632bb182e3f82baaaf" alt="" width="50" /> | 4 | 0 | The King's Singers | [🔗](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc8b13e554131116bf311f242" alt="" width="50" /> | 3 | 0 | Academy of St. Martin in the Fields | [🔗](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF) |
+| <img src="https://i.scdn.co/image/addf4464734979a85ef71a61c421f23a6bc143ae" alt="" width="50" /> | 3 | 0 | Sir Neville Marriner | [🔗](https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7fa9108c6dadb8c3ec21da88" alt="" width="50" /> | 3 | 0 | Wolfgang Amadeus Mozart | [🔗](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS) |
+| <img src="nan" alt="" width="50" /> | 1 | 0 | Andrew Busher | [🔗](https://open.spotify.com/artist/3Zbnq9cbmHkNBzUrfTe2Vb) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb68a5073a017fac8434535e8a" alt="" width="50" /> | 1 | 0 | Libera | [🔗](https://open.spotify.com/artist/235C4ktJ2aGIyqaBlXyg7e) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc63e900506fdff4b6177f920" alt="" width="50" /> | 1 | 0 | The Swingle Singers | [🔗](https://open.spotify.com/artist/1ZlFYysRdc6YaUH5FkxPl8) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8ce3e7c9e1c38c0edbe1528c" alt="" width="50" /> | 1 | 0 | Traditional | [🔗](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf) |
 
 </details>
 
 
-## Top Albums
+![Bar chart of top 16 artists](../images/labels/warner_classics/artists.png)
 
-![Bar chart of top 6 albums](../images/labels/warner_classics/albums.png)
+## Top Albums
 
 
 <details>
 <summary>See all 6 albums</summary>
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 31 | <img src="https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da" alt="" width="50" /> | Tchaikovsky: Swan Lake | 1976 | [🔗](https://open.spotify.com/album/7dVA06E7AP7P7VzPyNxQVO) |
-| 24 | <img src="https://i.scdn.co/image/ab67616d0000b273f1972145094112a1268035f1" alt="" width="50" /> | Tchaikovsky: The Nutcracker | 2010-10-11 | [🔗](https://open.spotify.com/album/54Awn36ryf55PkZyOR4iwQ) |
-| 16 | <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="" width="50" /> | Vivaldi: The Four Seasons. | 2007-10-01 | [🔗](https://open.spotify.com/album/4YpaKMCcb65yOoee75UUOh) |
-| 4 | <img src="https://i.scdn.co/image/ab67616d0000b273efbc193171a2f99fe94911c6" alt="" width="50" /> | Folk Songs Of The British Isles | 1993-07-24 | [🔗](https://open.spotify.com/album/7eFKaVzp6K60oBnB2kTjwV) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b27350f0e9f3fe510cfe42f5f2d9" alt="" width="50" /> | Mozart: Eine Kleine Nachtmusik etc. | 1986 | [🔗](https://open.spotify.com/album/5YCuibCDJrkVcS3UOAYqr9) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273fa70f75821d8ef6496b3ff64" alt="" width="50" /> | Around the World - A Folk Song Collection | 1991-02-01 | [🔗](https://open.spotify.com/album/2YLEK2g3iwuhW4vp02XRnn) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da" alt="" width="50" /> | 31 | 0 | Tchaikovsky: Swan Lake | 1976 | [🔗](https://open.spotify.com/album/7dVA06E7AP7P7VzPyNxQVO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f1972145094112a1268035f1" alt="" width="50" /> | 24 | 0 | Tchaikovsky: The Nutcracker | 2010-10-11 | [🔗](https://open.spotify.com/album/54Awn36ryf55PkZyOR4iwQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="" width="50" /> | 16 | 0 | Vivaldi: The Four Seasons. | 2007-10-01 | [🔗](https://open.spotify.com/album/4YpaKMCcb65yOoee75UUOh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273efbc193171a2f99fe94911c6" alt="" width="50" /> | 4 | 0 | Folk Songs Of The British Isles | 1993-07-24 | [🔗](https://open.spotify.com/album/7eFKaVzp6K60oBnB2kTjwV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350f0e9f3fe510cfe42f5f2d9" alt="" width="50" /> | 3 | 0 | Mozart: Eine Kleine Nachtmusik etc. | 1986 | [🔗](https://open.spotify.com/album/5YCuibCDJrkVcS3UOAYqr9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa70f75821d8ef6496b3ff64" alt="" width="50" /> | 1 | 0 | Around the World - A Folk Song Collection | 1991-02-01 | [🔗](https://open.spotify.com/album/2YLEK2g3iwuhW4vp02XRnn) |
 
 </details>
 
+
+![Bar chart of top 6 albums](../images/labels/warner_classics/albums.png)
 
 ## Genres
 
-![Bar chart of top 15 genres](../images/labels/warner_classics/genres.png)
-
 
 <details>
-<summary>See all 15 genres</summary>
+<summary>See all 16 genres</summary>
 
-| Number of Tracks | Genre |
-|---:|:---|
-| 74 | classical |
-| 55 | russian romanticism |
-| 55 | late romantic era |
-| 16 | italian baroque |
-| 16 | early music |
-| 16 | baroque |
-| 5 | puirt-a-beul |
-| 4 | vocal ensemble |
-| 4 | polyphony |
-| 4 | choral |
-| 4 | cambridge choir |
-| 4 | british choir |
-| 4 | [a cappella](../genres/a_cappella.md) |
-| 3 | classical era |
-| 1 | sleep |
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
+| 74 | 0 | classical |
+| 55 | 0 | russian romanticism |
+| 55 | 0 | late romantic era |
+| 16 | 0 | italian baroque |
+| 16 | 0 | early music |
+| 16 | 0 | baroque |
+| 5 | 0 | puirt-a-beul |
+| 4 | 0 | vocal ensemble |
+| 4 | 0 | polyphony |
+| 4 | 0 | choral |
+| 4 | 0 | cambridge choir |
+| 4 | 0 | british choir |
+| 4 | 0 | [a cappella](../genres/a_cappella.md) |
+| 3 | 0 | lullaby |
+| 3 | 0 | classical era |
+| 1 | 0 | sleep |
 
 </details>
 
+
+![Bar chart of top 16 genres](../images/labels/warner_classics/genres.png)
 
 ## Tracks released under Warner Classics
 

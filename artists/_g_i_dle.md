@@ -14,31 +14,31 @@
 | 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | [K-Pop 101](../playlists/k_pop_101/overview.md) |
 ## Top Albums
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 7 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | I NEVER DIE | 2022-03-14 | [🔗](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) |
-| 5 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | I love | 2022-10-17 | [🔗](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) |
-| 4 | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | I trust | 2020-04-06 | [🔗](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) |
-| 4 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | I burn | 2021-01-11 | [🔗](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="" width="50" /> | I am | 2018-05-02 | [🔗](https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27358870b3abb0ff43e5948c912" alt="" width="50" /> | i'M THE TREND | 2020-07-07 | [🔗](https://open.spotify.com/album/03TbZLPSRsHWX11umzK4qf) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6" alt="" width="50" /> | Uh-Oh | 2019-06-26 | [🔗](https://open.spotify.com/album/3PzrNuMGWGpp8WOfrmpkaU) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737158ec602fe6e8165cae6091" alt="" width="50" /> | THE BADDEST | 2020-08-27 | [🔗](https://open.spotify.com/album/7C8nskYbHG7N0LDrNVvt7x) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d1241debb8543af8322a7d6a" alt="" width="50" /> | POP/STARS | 2018-11-03 | [🔗](https://open.spotify.com/album/0UnBZ8laFgLUq5Ty5vbikQ) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734ff1d54536f86d8f9c912efa" alt="" width="50" /> | LATATA (English Ver.) | 2020-05-15 | [🔗](https://open.spotify.com/album/0tM1Pr6hTKBNJEyLSft1Fs) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="" width="50" /> | I made | 2019-02-26 | [🔗](https://open.spotify.com/album/479xGDGrqMXN8YLmJMEoTG) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273cdfed2bbb2b83cccff253f54" alt="" width="50" /> | HWAA | 2021-01-27 | [🔗](https://open.spotify.com/album/1M1d5bzsGhY2JOVD2AU29G) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ace0e90dab0e51a4aec4f50a" alt="" width="50" /> | HANN (Alone) | 2018-08-14 | [🔗](https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736080e2389dee3e57f00ccc69" alt="" width="50" /> | DUMDi DUMDi | 2020-08-03 | [🔗](https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="" width="50" /> | ALL OUT | 2020-11-06 | [🔗](https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | 7 | 7 | I NEVER DIE | 2022-03-14 | [🔗](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | 5 | 4 | I love | 2022-10-17 | [🔗](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | 4 | 2 | I burn | 2021-01-11 | [🔗](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | 4 | 1 | I trust | 2020-04-06 | [🔗](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="" width="50" /> | 3 | 1 | I am | 2018-05-02 | [🔗](https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6" alt="" width="50" /> | 1 | 1 | Uh-Oh | 2019-06-26 | [🔗](https://open.spotify.com/album/3PzrNuMGWGpp8WOfrmpkaU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737158ec602fe6e8165cae6091" alt="" width="50" /> | 1 | 1 | THE BADDEST | 2020-08-27 | [🔗](https://open.spotify.com/album/7C8nskYbHG7N0LDrNVvt7x) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1241debb8543af8322a7d6a" alt="" width="50" /> | 1 | 1 | POP/STARS | 2018-11-03 | [🔗](https://open.spotify.com/album/0UnBZ8laFgLUq5Ty5vbikQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="" width="50" /> | 1 | 1 | I made | 2019-02-26 | [🔗](https://open.spotify.com/album/479xGDGrqMXN8YLmJMEoTG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ace0e90dab0e51a4aec4f50a" alt="" width="50" /> | 1 | 1 | HANN (Alone) | 2018-08-14 | [🔗](https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736080e2389dee3e57f00ccc69" alt="" width="50" /> | 1 | 1 | DUMDi DUMDi | 2020-08-03 | [🔗](https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="" width="50" /> | 1 | 1 | ALL OUT | 2020-11-06 | [🔗](https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27358870b3abb0ff43e5948c912" alt="" width="50" /> | 1 | 0 | i'M THE TREND | 2020-07-07 | [🔗](https://open.spotify.com/album/03TbZLPSRsHWX11umzK4qf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ff1d54536f86d8f9c912efa" alt="" width="50" /> | 1 | 0 | LATATA (English Ver.) | 2020-05-15 | [🔗](https://open.spotify.com/album/0tM1Pr6hTKBNJEyLSft1Fs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cdfed2bbb2b83cccff253f54" alt="" width="50" /> | 1 | 0 | HWAA | 2021-01-27 | [🔗](https://open.spotify.com/album/1M1d5bzsGhY2JOVD2AU29G) |
 
 ## Top Record Labels
 
-| Number of Tracks | Label |
-|---:|:---|
-| 17 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md) |
-| 13 | [Universal Music LLC](../labels/universal_music_llc.md) |
-| 3 | Riot Games |
+| Tracks | 💚 | Label |
+|---:|---:|:---|
+| 17 | 14 | [CUBE ENTERTAINMENT](../labels/cube_entertainment.md) |
+| 13 | 5 | [Universal Music LLC](../labels/universal_music_llc.md) |
+| 3 | 3 | Riot Games |
 
 ## Genres
 

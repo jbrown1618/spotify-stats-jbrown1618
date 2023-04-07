@@ -8,49 +8,49 @@ Appears as:
 ## Top Artists
 
 
-
-
 <details>
 <summary>See all 2 artists</summary>
 
-| Number of Tracks | Art | Artist | 🔗 |
-|---:|:---|:---|:---|
-| 21 | <img src="https://i.scdn.co/image/ab6772690000c46c153adede0a024fd3679af738" alt="" width="50" /> | David Benoit | [🔗](https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu) |
-| 1 | <img src="https://i.scdn.co/image/6e6382aacddd7daad02fe915b77644798884c9e5" alt="" width="50" /> | Randy Waldman | [🔗](https://open.spotify.com/artist/4DoFQoqKcSPw8CSzyh7trt) |
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6772690000c46c153adede0a024fd3679af738" alt="" width="50" /> | 21 | 0 | David Benoit | [🔗](https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu) |
+| <img src="https://i.scdn.co/image/6e6382aacddd7daad02fe915b77644798884c9e5" alt="" width="50" /> | 1 | 0 | Randy Waldman | [🔗](https://open.spotify.com/artist/4DoFQoqKcSPw8CSzyh7trt) |
 
 </details>
 
 
-## Top Albums
 
-![Bar chart of top 3 albums](../images/labels/grp/albums.png)
+
+## Top Albums
 
 
 <details>
 <summary>See all 3 albums</summary>
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 10 | <img src="https://i.scdn.co/image/ab67616d0000b2731c4b46aeb1f53dcffa9b0d96" alt="" width="50" /> | Inner Motion | 1990-01-01 | [🔗](https://open.spotify.com/album/6azX9ZDZzVLjpQy6ytifne) |
-| 10 | <img src="https://i.scdn.co/image/ab67616d0000b2737d0ee28b2184f96650755916" alt="" width="50" /> | Freedom At Midnight | 1987-01-01 | [🔗](https://open.spotify.com/album/404TYwH2T33GbA9LdIT9fR) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733f67419e4e296d96256cc3f5" alt="" width="50" /> | Every Step Of The Way | 1987 | [🔗](https://open.spotify.com/album/50HH21YU6PDn8XZXYGxWkg) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c4b46aeb1f53dcffa9b0d96" alt="" width="50" /> | 10 | 0 | Inner Motion | 1990-01-01 | [🔗](https://open.spotify.com/album/6azX9ZDZzVLjpQy6ytifne) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737d0ee28b2184f96650755916" alt="" width="50" /> | 10 | 0 | Freedom At Midnight | 1987-01-01 | [🔗](https://open.spotify.com/album/404TYwH2T33GbA9LdIT9fR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733f67419e4e296d96256cc3f5" alt="" width="50" /> | 1 | 0 | Every Step Of The Way | 1987 | [🔗](https://open.spotify.com/album/50HH21YU6PDn8XZXYGxWkg) |
 
 </details>
 
 
+![Bar chart of top 3 albums](../images/labels/grp/albums.png)
+
 ## Genres
-
-
 
 
 <details>
 <summary>See all 1 genres</summary>
 
-| Number of Tracks | Genre |
-|---:|:---|
-| 21 | smooth jazz |
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
+| 21 | 0 | smooth jazz |
 
 </details>
+
+
 
 
 ## Tracks released under GRP

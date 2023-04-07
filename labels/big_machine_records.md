@@ -8,52 +8,52 @@ Appears as:
 ## Top Artists
 
 
-
-
 <details>
 <summary>See all 1 artists</summary>
 
-| Number of Tracks | Art | Artist | 🔗 |
-|---:|:---|:---|:---|
-| 29 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | [Taylor Swift](../artists/taylor_swift.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | 29 | 19 | [Taylor Swift](../artists/taylor_swift.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 
 </details>
 
 
-## Top Albums
 
-![Bar chart of top 7 albums](../images/labels/big_machine_records/albums.png)
+
+## Top Albums
 
 
 <details>
 <summary>See all 7 albums</summary>
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 10 | <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | reputation | 2017-11-10 | [🔗](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) |
-| 8 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="" width="50" /> | 1989 | 2014-10-27 | [🔗](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) |
-| 4 | <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | Red | 2012-10-22 | [🔗](https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | Fearless | 2008-11-11 | [🔗](https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273e11a75a2f2ff39cec788a015" alt="" width="50" /> | Speak Now | 2010-10-25 | [🔗](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732f8c0fd72a80a93f8c53b96c" alt="" width="50" /> | Taylor Swift | 2006-10-24 | [🔗](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a7613d346501b828b56a0bc3" alt="" width="50" /> | Red (Deluxe Edition) | 2012-10-22 | [🔗](https://open.spotify.com/album/1KlU96Hw9nlvqpBPlSqcTV) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | 10 | 9 | reputation | 2017-11-10 | [🔗](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="" width="50" /> | 8 | 7 | 1989 | 2014-10-27 | [🔗](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | 4 | 2 | Red | 2012-10-22 | [🔗](https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | 3 | 0 | Fearless | 2008-11-11 | [🔗](https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e11a75a2f2ff39cec788a015" alt="" width="50" /> | 2 | 0 | Speak Now | 2010-10-25 | [🔗](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a7613d346501b828b56a0bc3" alt="" width="50" /> | 1 | 1 | Red (Deluxe Edition) | 2012-10-22 | [🔗](https://open.spotify.com/album/1KlU96Hw9nlvqpBPlSqcTV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f8c0fd72a80a93f8c53b96c" alt="" width="50" /> | 1 | 0 | Taylor Swift | 2006-10-24 | [🔗](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) |
 
 </details>
 
 
+![Bar chart of top 7 albums](../images/labels/big_machine_records/albums.png)
+
 ## Genres
-
-
 
 
 <details>
 <summary>See all 1 genres</summary>
 
-| Number of Tracks | Genre |
-|---:|:---|
-| 29 | [pop](../genres/pop.md) |
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
+| 29 | 19 | [pop](../genres/pop.md) |
 
 </details>
+
+
 
 
 ## Tracks released under Big Machine Records

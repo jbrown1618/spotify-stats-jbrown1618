@@ -7,26 +7,26 @@
 ## Featured on Playlists
 | Number of Tracks | Art | Playlist |
 |---:|:---|:---|
-| 17 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273028c3bb4b81ee71dd73d1596ab67616d0000b27392c885317fbe4bfa680109b4ab67616d0000b273d0ec2db731952a7efabc6397ab67616d0000b273f6749fd9a1027b244f061e87" alt="" width="50" /> | [Indie/Alternative](../playlists/indie_alternative/overview.md) |
+| 17 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732a038d3bf875d23e4aeaa84eab67616d0000b2737a4781629469bb83356cd318ab67616d0000b27398d4c378a8c78e84bfcf7743ab67616d0000b273f6749fd9a1027b244f061e87" alt="" width="50" /> | [Alt-Pop](../playlists/alt_pop/overview.md) |
 | 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732d73b1bb77cee09f0278be04ab67616d0000b2736f50b3400595b123a916e0dcab67616d0000b2739ab215825eb77076b1b4b387ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | [Karaoke](../playlists/karaoke/overview.md) |
 | 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27303668e3f13559554eca8ccc6ab67616d0000b2730eb56329734f9400c1639359ab67616d0000b27314ed51ab46ef0765182bb8a0ab67616d0000b273987a1825341694ec9bc62457" alt="" width="50" /> | [Tarps](../playlists/tarps/overview.md) |
 ## Top Albums
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 6 | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | Lungs | 2009-01-01 | [🔗](https://open.spotify.com/album/2KAK58PimXHF4lSoKO3RxA) |
-| 6 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Ceremonials (Deluxe Edition) | 2011-01-01 | [🔗](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | How Big, How Blue, How Beautiful | 2015-06-01 | [🔗](https://open.spotify.com/album/2btszoya78vyT8fwelmVnz) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d36d0f06096fa07f18b8e8a2" alt="" width="50" /> | High As Hope | 2018-06-29 | [🔗](https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735fd9e21618182df7d70b2186" alt="" width="50" /> | Dance Fever | 2022-05-13 | [🔗](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | 6 | 6 | Lungs | 2009-01-01 | [🔗](https://open.spotify.com/album/2KAK58PimXHF4lSoKO3RxA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | 6 | 6 | Ceremonials (Deluxe Edition) | 2011-01-01 | [🔗](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | 3 | 2 | How Big, How Blue, How Beautiful | 2015-06-01 | [🔗](https://open.spotify.com/album/2btszoya78vyT8fwelmVnz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735fd9e21618182df7d70b2186" alt="" width="50" /> | 1 | 1 | Dance Fever | 2022-05-13 | [🔗](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d36d0f06096fa07f18b8e8a2" alt="" width="50" /> | 1 | 0 | High As Hope | 2018-06-29 | [🔗](https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA) |
 
 ## Top Record Labels
 
-| Number of Tracks | Label |
-|---:|:---|
-| 15 | [Universal-Island Records Ltd.](../labels/universal_island_records_ltd_.md) |
-| 1 | [Polydor Records](../labels/polydor_records.md) |
-| 1 | EMI |
+| Tracks | 💚 | Label |
+|---:|---:|:---|
+| 15 | 14 | [Universal-Island Records Ltd.](../labels/universal_island_records_ltd_.md) |
+| 1 | 1 | [Polydor Records](../labels/polydor_records.md) |
+| 1 | 0 | EMI |
 
 ## Genres
 

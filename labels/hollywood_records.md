@@ -8,62 +8,62 @@ Appears as:
 ## Top Artists
 
 
-
-
 <details>
 <summary>See all 2 artists</summary>
 
-| Number of Tracks | Art | Artist | 🔗 |
-|---:|:---|:---|:---|
-| 14 | <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | [Queen](../artists/queen.md) | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
-| 2 | <img src="https://i.scdn.co/image/ab6761610000e5eb6659b1cb61936bd7bcb229a2" alt="" width="50" /> | Demi Lovato | [🔗](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) |
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | 14 | 11 | [Queen](../artists/queen.md) | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6659b1cb61936bd7bcb229a2" alt="" width="50" /> | 2 | 1 | Demi Lovato | [🔗](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) |
 
 </details>
 
 
-## Top Albums
 
-![Bar chart of top 10 albums](../images/labels/hollywood_records/albums.png)
+
+## Top Albums
 
 
 <details>
 <summary>See all 10 albums</summary>
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b2737bf7ee0ed15bef2699900a6b" alt="" width="50" /> | The Game | 1980-06-27 | [🔗](https://open.spotify.com/album/1h0j80HhdzIMsUGUFiVkqa) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b27346493b86589030cc39ce1bf2" alt="" width="50" /> | News Of The World | 1977-10-28 | [🔗](https://open.spotify.com/album/3TKTjR4E3LAMfRsPeRsNhT) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2735e5bfba76defb59b3acf6c47" alt="" width="50" /> | Jazz | 1978-11-10 | [🔗](https://open.spotify.com/album/5X3rA8To5GDOeIWdQyMEcE) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b27395ca1a6d0a8ec540e876cdf2" alt="" width="50" /> | A Night At The Opera | 1975-11-21 | [🔗](https://open.spotify.com/album/3KCJzwKOdBxDu6TKaFPqM9) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b27369c47467a7964a67d6dbcf14" alt="" width="50" /> | A Day At The Races | 1976-12-10 | [🔗](https://open.spotify.com/album/3f45rzbU4dYQBTV9v5RFBB) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27398a0577da5896bcc66521861" alt="" width="50" /> | The Works | 1984-02-27 | [🔗](https://open.spotify.com/album/0FbnXAGmgmWBmNthZSgm43) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739bf8e3a3c31986c1c0536532" alt="" width="50" /> | Sheer Heart Attack | 1974-11-08 | [🔗](https://open.spotify.com/album/4yO8TpSaJtUKkkjmsA4VXf) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27350dcdcb73b5bbff6d3136131" alt="" width="50" /> | Innuendo | 1991-02-04 | [🔗](https://open.spotify.com/album/5yAM3CcaXF6DPRJW3oL6Ya) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273aadb13ae608f6af20528409b" alt="" width="50" /> | Demi | 2013-01-01 | [🔗](https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273ed164cf1c10f028e8f528784" alt="" width="50" /> | Confident | 2015-01-01 | [🔗](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2737bf7ee0ed15bef2699900a6b" alt="" width="50" /> | 3 | 3 | The Game | 1980-06-27 | [🔗](https://open.spotify.com/album/1h0j80HhdzIMsUGUFiVkqa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27346493b86589030cc39ce1bf2" alt="" width="50" /> | 2 | 2 | News Of The World | 1977-10-28 | [🔗](https://open.spotify.com/album/3TKTjR4E3LAMfRsPeRsNhT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735e5bfba76defb59b3acf6c47" alt="" width="50" /> | 2 | 2 | Jazz | 1978-11-10 | [🔗](https://open.spotify.com/album/5X3rA8To5GDOeIWdQyMEcE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27395ca1a6d0a8ec540e876cdf2" alt="" width="50" /> | 2 | 2 | A Night At The Opera | 1975-11-21 | [🔗](https://open.spotify.com/album/3KCJzwKOdBxDu6TKaFPqM9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27369c47467a7964a67d6dbcf14" alt="" width="50" /> | 2 | 1 | A Day At The Races | 1976-12-10 | [🔗](https://open.spotify.com/album/3f45rzbU4dYQBTV9v5RFBB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739bf8e3a3c31986c1c0536532" alt="" width="50" /> | 1 | 1 | Sheer Heart Attack | 1974-11-08 | [🔗](https://open.spotify.com/album/4yO8TpSaJtUKkkjmsA4VXf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ed164cf1c10f028e8f528784" alt="" width="50" /> | 1 | 1 | Confident | 2015-01-01 | [🔗](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27398a0577da5896bcc66521861" alt="" width="50" /> | 1 | 0 | The Works | 1984-02-27 | [🔗](https://open.spotify.com/album/0FbnXAGmgmWBmNthZSgm43) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350dcdcb73b5bbff6d3136131" alt="" width="50" /> | 1 | 0 | Innuendo | 1991-02-04 | [🔗](https://open.spotify.com/album/5yAM3CcaXF6DPRJW3oL6Ya) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aadb13ae608f6af20528409b" alt="" width="50" /> | 1 | 0 | Demi | 2013-01-01 | [🔗](https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5) |
 
 </details>
 
 
-## Genres
+![Bar chart of top 10 albums](../images/labels/hollywood_records/albums.png)
 
-![Bar chart of top 6 genres](../images/labels/hollywood_records/genres.png)
+## Genres
 
 
 <details>
 <summary>See all 6 genres</summary>
 
-| Number of Tracks | Genre |
-|---:|:---|
-| 14 | [rock](../genres/rock.md) |
-| 14 | glam rock |
-| 14 | [classic rock](../genres/classic_rock.md) |
-| 2 | [post-teen pop](../genres/post_teen_pop.md) |
-| 2 | [pop](../genres/pop.md) |
-| 2 | [dance pop](../genres/dance_pop.md) |
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
+| 14 | 11 | [rock](../genres/rock.md) |
+| 14 | 11 | glam rock |
+| 14 | 11 | [classic rock](../genres/classic_rock.md) |
+| 2 | 1 | [post-teen pop](../genres/post_teen_pop.md) |
+| 2 | 1 | [pop](../genres/pop.md) |
+| 2 | 1 | [dance pop](../genres/dance_pop.md) |
 
 </details>
 
+
+![Bar chart of top 6 genres](../images/labels/hollywood_records/genres.png)
 
 ## Tracks released under Hollywood Records
 

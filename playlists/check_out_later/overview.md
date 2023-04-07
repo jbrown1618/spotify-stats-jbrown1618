@@ -1,181 +1,147 @@
 # Check Out Later
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d0000b27305f89e348fddab49cf572dd9ab67616d0000b27307528d3f9c29d81f289454fcab67616d0000b2735ebe326ae21f70a7330398f8ab67616d0000b273d0e950fe2053cf719140d682" alt="Check Out Later" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d0000b27313f2466b83507515291acce4ab67616d0000b2736898a982ff3c6049ba52586cab67616d0000b273bff049a2215c768b6432499fab67616d0000b273c2220e622cd370a4237727f8" alt="Check Out Later" width="100" />
 
-[7 songs](tracks.md)
+[4 songs (0 liked)](tracks.md)
 
 ## Top Artists
 
-![Bar chart of top 7 artists](../../images/playlists/check_out_later/artists.png)
-
-
-
 
 <details>
-<summary>See all 7 artists</summary>
+<summary>See all 5 artists</summary>
 
-| Number of Tracks | Art | Artist | 🔗 |
-|---:|:---|:---|:---|
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb39720ff6218e58ce147490dc" alt="" width="50" /> | WOODZ | [🔗](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb97f9f67e7af9fdf5337c1ff0" alt="" width="50" /> | BABYMETAL | [🔗](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="" width="50" /> | [TAEYEON](../../artists/taeyeon.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb5d7e6f087811f89d7c8f0706" alt="" width="50" /> | Apink | [🔗](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | PENTAGON | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99713cdd2a68b0db306aad6" alt="" width="50" /> | TAEMIN | [🔗](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) |
-| 1 | <img src="https://i.scdn.co/image/ab6761610000e5eb771aebd54ce149b97c0bb971" alt="" width="50" /> | THE BOYZ | [🔗](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) |
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcaea403b29f6a09260b6a18a" alt="" width="50" /> | 2 | 0 | The Strokes | [🔗](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe94c521bbe0604a5fcd4f8bf" alt="" width="50" /> | 1 | 0 | Agust D | [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | 1 | 0 | [IU](../../artists/iu.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf5b31977f8ca5a5d9c9d776e" alt="" width="50" /> | 1 | 0 | Eric Nam | [🔗](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc65d144f4f352b3cba7b13ea" alt="" width="50" /> | 1 | 0 | [WENDY](../../artists/wendy.md) | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 
 </details>
+
+
+![Bar chart of top 5 artists](../../images/playlists/check_out_later/artists.png)
+
 
 
 ## Top Albums
 
-![Bar chart of top 7 albums](../../images/playlists/check_out_later/albums.png)
-
 
 <details>
-<summary>See all 7 albums</summary>
+<summary>See all 4 albums</summary>
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27307528d3f9c29d81f289454fc" alt="" width="50" /> | SELF | 2023-04-05 | [🔗](https://open.spotify.com/album/7gx8kFPhTKuAIWfUS8i72Z) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273b87c0d76ed9c7b1654b390d0" alt="" width="50" /> | Purpose - The 2nd Album | 2019-10-28 | [🔗](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27305f89e348fddab49cf572dd9" alt="" width="50" /> | Never Gonna Dance Again : Act 2 - The 3rd Album | 2020-11-09 | [🔗](https://open.spotify.com/album/3xgFGYUOVxGp7pZywdf7AC) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="" width="50" /> | METAL RESISTANCE | 2016-04-01 | [🔗](https://open.spotify.com/album/2vIRdYffs93ca7L0Eh4mTm) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d0e950fe2053cf719140d682" alt="" width="50" /> | LULLABY | 2021-08-27 | [🔗](https://open.spotify.com/album/7knAHnDVbgtX05qgU0ZcgT) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="" width="50" /> | IN:VITE U | 2022-01-24 | [🔗](https://open.spotify.com/album/5vxZM8rFJiNvjtAThYnwek) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735ebe326ae21f70a7330398f8" alt="" width="50" /> | Drink It | 2021-07-11 | [🔗](https://open.spotify.com/album/6gstlIojQWTAcrsRqBQxLR) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273c2220e622cd370a4237727f8" alt="" width="50" /> | 1 | 0 | 봄인가 봐 Spring Love - SM STATION | 2016-03-04 | [🔗](https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bff049a2215c768b6432499f" alt="" width="50" /> | 1 | 0 | People, Pt. 2 (feat. IU) | 2023-04-07 | [🔗](https://open.spotify.com/album/1l12B55qdesQorPcQLJDRo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" alt="" width="50" /> | 1 | 0 | Is This It | 2001-07-30 | [🔗](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736898a982ff3c6049ba52586c" alt="" width="50" /> | 1 | 0 | First Impressions Of Earth | 2006-01-03 | [🔗](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) |
 
 </details>
 
+
+![Bar chart of top 4 albums](../../images/playlists/check_out_later/albums.png)
 
 ## Top Record Labels
 
-![Bar chart of top 7 record labels](../../images/playlists/check_out_later/labels.png)
-
 
 <details>
-<summary>See all 7 labels</summary>
+<summary>See all 3 labels</summary>
 
-| Number of Tracks | Label |
-|---:|:---|
-| 2 | [SM Entertainment](../../labels/sm_entertainment.md) |
-| 1 | [Stone Music Entertainment](../../labels/stone_music_entertainment.md) |
-| 1 | Klap |
-| 1 | IST ENTERTAINMENT |
-| 1 | [Genie Music Corporation](../../labels/genie_music_corporation.md) |
-| 1 | Cooking Vinyl Limited |
-| 1 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment.md) |
+| Tracks | 💚 | Label |
+|---:|---:|:---|
+| 2 | 0 | [RCA Records Label](../../labels/rca_records_label.md) |
+| 1 | 0 | [SM Entertainment](../../labels/sm_entertainment.md) |
+| 1 | 0 | [BIGHIT MUSIC](../../labels/bighit_music.md) |
 
 </details>
 
+
+![Bar chart of top 3 record labels](../../images/playlists/check_out_later/labels.png)
 
 ## Genres
 
-![Bar chart of top 9 genres](../../images/playlists/check_out_later/genres.png)
-
 
 <details>
-<summary>See all 9 genres</summary>
+<summary>See all 8 genres</summary>
 
-| Number of Tracks | Genre |
-|---:|:---|
-| 6 | [k-pop](../../genres/k_pop.md) |
-| 2 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
-| 1 | [pop](../../genres/pop.md) |
-| 1 | korean r&b |
-| 1 | kawaii metal |
-| 1 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
-| 1 | j-metal |
-| 1 | idol rock |
-| 1 | comic metal |
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
+| 2 | 0 | [rock](../../genres/rock.md) |
+| 2 | 0 | permanent wave |
+| 2 | 0 | modern rock |
+| 2 | 0 | garage rock |
+| 2 | 0 | alternative rock |
+| 1 | 0 | [korean pop](../../genres/korean_pop.md) |
+| 1 | 0 | k-rap |
+| 1 | 0 | [k-pop](../../genres/k_pop.md) |
 
 </details>
 
 
+![Bar chart of top 8 genres](../../images/playlists/check_out_later/genres.png)
+
 ## Years
+
+
 
 ![Bar chart of number of songs by year](../../images/playlists/check_out_later/years.png)
 
-
-
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27307528d3f9c29d81f289454fc" alt="SELF" width="50" /> <span style="padding-left:10px;">SELF (2023-04-05)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> <span style="padding-left:10px;">METAL RESISTANCE (2016-04-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="IN:VITE U" width="50" /> <span style="padding-left:10px;">IN:VITE U (2022-01-24)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b87c0d76ed9c7b1654b390d0" alt="Purpose - The 2nd Album" width="50" /> <span style="padding-left:10px;">Purpose - The 2nd Album (2019-10-28)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d0e950fe2053cf719140d682" alt="LULLABY" width="50" /> <span style="padding-left:10px;">LULLABY (2021-08-27)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27305f89e348fddab49cf572dd9" alt="Never Gonna Dance Again : Act 2 - The 3rd Album" width="50" /> <span style="padding-left:10px;">Never Gonna Dance Again : Act 2 - The 3rd Album (2020-11-09)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2735ebe326ae21f70a7330398f8" alt="Drink It" width="50" /> <span style="padding-left:10px;">Drink It (2021-07-11)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2735ebe326ae21f70a7330398f8" alt="Drink It" width="50" /> <span style="padding-left:10px;">Drink It (2021-07-11)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27305f89e348fddab49cf572dd9" alt="Never Gonna Dance Again : Act 2 - The 3rd Album" width="50" /> <span style="padding-left:10px;">Never Gonna Dance Again : Act 2 - The 3rd Album (2020-11-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d0e950fe2053cf719140d682" alt="LULLABY" width="50" /> <span style="padding-left:10px;">LULLABY (2021-08-27)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b87c0d76ed9c7b1654b390d0" alt="Purpose - The 2nd Album" width="50" /> <span style="padding-left:10px;">Purpose - The 2nd Album (2019-10-28)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="IN:VITE U" width="50" /> <span style="padding-left:10px;">IN:VITE U (2022-01-24)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> <span style="padding-left:10px;">METAL RESISTANCE (2016-04-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27307528d3f9c29d81f289454fc" alt="SELF" width="50" /> <span style="padding-left:10px;">SELF (2023-04-05)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273bff049a2215c768b6432499f" alt="People, Pt. 2 (feat. IU)" width="50" /> <span style="padding-left:10px;">People, Pt. 2 (feat. IU) (2023-04-07)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" alt="Is This It" width="50" /> <span style="padding-left:10px;">Is This It (2001-07-30)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c2220e622cd370a4237727f8" alt="봄인가 봐 Spring Love - SM STATION" width="50" /> <span style="padding-left:10px;">봄인가 봐 Spring Love - SM STATION (2016-03-04)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736898a982ff3c6049ba52586c" alt="First Impressions Of Earth" width="50" /> <span style="padding-left:10px;">First Impressions Of Earth (2006-01-03)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736898a982ff3c6049ba52586c" alt="First Impressions Of Earth" width="50" /> <span style="padding-left:10px;">First Impressions Of Earth (2006-01-03)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c2220e622cd370a4237727f8" alt="봄인가 봐 Spring Love - SM STATION" width="50" /> <span style="padding-left:10px;">봄인가 봐 Spring Love - SM STATION (2016-03-04)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" alt="Is This It" width="50" /> <span style="padding-left:10px;">Is This It (2001-07-30)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273bff049a2215c768b6432499f" alt="People, Pt. 2 (feat. IU)" width="50" /> <span style="padding-left:10px;">People, Pt. 2 (feat. IU) (2023-04-07)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| D N D (0.789) | Awadama Fever (0.211) |
-| Drink It (0.709) | Heaven (0.59) |
-| The Game (0.664) | Gravity (0.597) |
-| LULLABY (0.627) | LULLABY (0.627) |
-| Gravity (0.597) | The Game (0.664) |
-| Heaven (0.59) | Drink It (0.709) |
-| Awadama Fever (0.211) | D N D (0.789) |
+| People, Pt. 2 (feat. IU) (0.729) | Last Nite (0.624) |
+| 봄인가 봐 Spring Love (0.68) | You Only Live Once (0.63) |
+| You Only Live Once (0.63) | 봄인가 봐 Spring Love (0.68) |
+| Last Nite (0.624) | People, Pt. 2 (feat. IU) (0.729) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| Awadama Fever (0.981) | Gravity (0.515) |
-| Drink It (0.946) | LULLABY (0.662) |
-| The Game (0.833) | D N D (0.799) |
-| Heaven (0.824) | Heaven (0.824) |
-| D N D (0.799) | The Game (0.833) |
-| LULLABY (0.662) | Drink It (0.946) |
-| Gravity (0.515) | Awadama Fever (0.981) |
+| You Only Live Once (0.908) | 봄인가 봐 Spring Love (0.391) |
+| Last Nite (0.899) | People, Pt. 2 (feat. IU) (0.574) |
+| People, Pt. 2 (feat. IU) (0.574) | Last Nite (0.899) |
+| 봄인가 봐 Spring Love (0.391) | You Only Live Once (0.908) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| Awadama Fever (0.182) | Gravity (0.0382) |
-| LULLABY (0.128) | D N D (0.0445) |
-| Drink It (0.105) | The Game (0.05) |
-| Heaven (0.0705) | Heaven (0.0705) |
-| The Game (0.05) | Drink It (0.105) |
-| D N D (0.0445) | LULLABY (0.128) |
-| Gravity (0.0382) | Awadama Fever (0.182) |
+| People, Pt. 2 (feat. IU) (0.0589) | Last Nite (0.0296) |
+| 봄인가 봐 Spring Love (0.0357) | You Only Live Once (0.0326) |
+| You Only Live Once (0.0326) | 봄인가 봐 Spring Love (0.0357) |
+| Last Nite (0.0296) | People, Pt. 2 (feat. IU) (0.0589) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| D N D (0.417) | Awadama Fever (0.000405) |
-| LULLABY (0.339) | The Game (0.0268) |
-| Drink It (0.0933) | Heaven (0.0467) |
-| Gravity (0.0898) | Gravity (0.0898) |
-| Heaven (0.0467) | Drink It (0.0933) |
-| The Game (0.0268) | LULLABY (0.339) |
-| Awadama Fever (0.000405) | D N D (0.417) |
+| 봄인가 봐 Spring Love (0.723) | Last Nite (0.0221) |
+| People, Pt. 2 (feat. IU) (0.391) | You Only Live Once (0.0238) |
+| You Only Live Once (0.0238) | People, Pt. 2 (feat. IU) (0.391) |
+| Last Nite (0.0221) | 봄인가 봐 Spring Love (0.723) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Awadama Fever (0.555) | D N D (0.0) |
-| The Game (1.43e-05) | Heaven (0.0) |
-| Gravity (1.27e-06) | LULLABY (0.0) |
-| Drink It (0.0) | Drink It (0.0) |
-| LULLABY (0.0) | Gravity (1.27e-06) |
-| Heaven (0.0) | The Game (1.43e-05) |
-| D N D (0.0) | Awadama Fever (0.555) |
+| You Only Live Once (0.592) | People, Pt. 2 (feat. IU) (0.0) |
+| Last Nite (0.000137) | 봄인가 봐 Spring Love (0.0) |
+| 봄인가 봐 Spring Love (0.0) | Last Nite (0.000137) |
+| People, Pt. 2 (feat. IU) (0.0) | You Only Live Once (0.592) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| Heaven (0.468) | The Game (0.0955) |
-| Awadama Fever (0.316) | Gravity (0.111) |
-| Drink It (0.296) | D N D (0.129) |
-| LULLABY (0.166) | LULLABY (0.166) |
-| D N D (0.129) | Drink It (0.296) |
-| Gravity (0.111) | Awadama Fever (0.316) |
-| The Game (0.0955) | Heaven (0.468) |
+| People, Pt. 2 (feat. IU) (0.319) | Last Nite (0.0975) |
+| You Only Live Once (0.116) | 봄인가 봐 Spring Love (0.107) |
+| 봄인가 봐 Spring Love (0.107) | You Only Live Once (0.116) |
+| Last Nite (0.0975) | People, Pt. 2 (feat. IU) (0.319) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| D N D (0.765) | Gravity (0.142) |
-| The Game (0.632) | Awadama Fever (0.307) |
-| Drink It (0.563) | LULLABY (0.308) |
-| Heaven (0.527) | Heaven (0.527) |
-| LULLABY (0.308) | Drink It (0.563) |
-| Awadama Fever (0.307) | The Game (0.632) |
-| Gravity (0.142) | D N D (0.765) |
+| You Only Live Once (0.968) | 봄인가 봐 Spring Love (0.419) |
+| Last Nite (0.79) | People, Pt. 2 (feat. IU) (0.438) |
+| People, Pt. 2 (feat. IU) (0.438) | Last Nite (0.79) |
+| 봄인가 봐 Spring Love (0.419) | You Only Live Once (0.968) |

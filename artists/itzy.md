@@ -15,32 +15,32 @@
 | 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | [Sharon RPD](../playlists/sharon_rpd/overview.md) |
 ## Top Albums
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 6 | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | CRAZY IN LOVE | 2021-09-24 | [🔗](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) |
-| 6 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | CHECKMATE | 2022-07-15 | [🔗](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) |
-| 5 | <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="" width="50" /> | GUESS WHO | 2021-04-30 | [🔗](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) |
-| 4 | <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="" width="50" /> | Not Shy (English Ver.) | 2021-01-22 | [🔗](https://open.spotify.com/album/0hoNwSKuuOeT9eAxopgMdm) |
-| 4 | <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | Not Shy | 2020-08-17 | [🔗](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) |
-| 4 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | CHESHIRE | 2022-11-30 | [🔗](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b2735a34da2654db7f75cee1d080" alt="" width="50" /> | IT'z ICY | 2019-07-29 | [🔗](https://open.spotify.com/album/2y2Nuvvw5xNDYOunTSsgf1) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273aecb87fd2574ad79b05cc024" alt="" width="50" /> | Voltage | 2022-03-23 | [🔗](https://open.spotify.com/album/3MXVqfk9VG3B757nLlow0D) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733091980300243c26b0404b76" alt="" width="50" /> | Street Dance Girls Fighter(SGF) Special | 2022-01-04 | [🔗](https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273212e7fb3309718d9d4132095" alt="" width="50" /> | In the morning (English Ver.) | 2021-05-14 | [🔗](https://open.spotify.com/album/1VbG3CJlf1cSVDibgiM3GM) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273fc620c06721e90a534cc5dab" alt="" width="50" /> | IT'z ME | 2020-03-09 | [🔗](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2730e31e2a3b1516e79fbfe7486" alt="" width="50" /> | IT'z Different | 2019-02-12 | [🔗](https://open.spotify.com/album/0fUJLlrsG1MpTHr3MxPN9C) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2732c960195315acacaaabf1271" alt="" width="50" /> | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) | 2022-07-29 | [🔗](https://open.spotify.com/album/6nHECY2OnWXVmd4QjGhJEm) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2733ab556e89033a67954311bb9" alt="" width="50" /> | Blah Blah Blah | 2022-09-21 | [🔗](https://open.spotify.com/album/0KaoPehrtwhjQfae6XMd7B) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | 6 | 4 | CRAZY IN LOVE | 2021-09-24 | [🔗](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | 6 | 4 | CHECKMATE | 2022-07-15 | [🔗](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="" width="50" /> | 5 | 4 | GUESS WHO | 2021-04-30 | [🔗](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | 4 | 3 | Not Shy | 2020-08-17 | [🔗](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | 4 | 2 | CHESHIRE | 2022-11-30 | [🔗](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="" width="50" /> | 4 | 0 | Not Shy (English Ver.) | 2021-01-22 | [🔗](https://open.spotify.com/album/0hoNwSKuuOeT9eAxopgMdm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735a34da2654db7f75cee1d080" alt="" width="50" /> | 2 | 1 | IT'z ICY | 2019-07-29 | [🔗](https://open.spotify.com/album/2y2Nuvvw5xNDYOunTSsgf1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aecb87fd2574ad79b05cc024" alt="" width="50" /> | 1 | 1 | Voltage | 2022-03-23 | [🔗](https://open.spotify.com/album/3MXVqfk9VG3B757nLlow0D) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733091980300243c26b0404b76" alt="" width="50" /> | 1 | 1 | Street Dance Girls Fighter(SGF) Special | 2022-01-04 | [🔗](https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fc620c06721e90a534cc5dab" alt="" width="50" /> | 1 | 1 | IT'z ME | 2020-03-09 | [🔗](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730e31e2a3b1516e79fbfe7486" alt="" width="50" /> | 1 | 1 | IT'z Different | 2019-02-12 | [🔗](https://open.spotify.com/album/0fUJLlrsG1MpTHr3MxPN9C) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733ab556e89033a67954311bb9" alt="" width="50" /> | 1 | 1 | Blah Blah Blah | 2022-09-21 | [🔗](https://open.spotify.com/album/0KaoPehrtwhjQfae6XMd7B) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273212e7fb3309718d9d4132095" alt="" width="50" /> | 1 | 0 | In the morning (English Ver.) | 2021-05-14 | [🔗](https://open.spotify.com/album/1VbG3CJlf1cSVDibgiM3GM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732c960195315acacaaabf1271" alt="" width="50" /> | 1 | 0 | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) | 2022-07-29 | [🔗](https://open.spotify.com/album/6nHECY2OnWXVmd4QjGhJEm) |
 
 ## Top Record Labels
 
-| Number of Tracks | Label |
-|---:|:---|
-| 31 | [Republic Records](../labels/republic_records.md) |
-| 3 | [JYP Entertainment](../labels/jyp_entertainment.md) |
-| 2 | WM Japan |
-| 1 | [Warner Records](../labels/warner_records.md) |
-| 1 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
+| Tracks | 💚 | Label |
+|---:|---:|:---|
+| 31 | 18 | [Republic Records](../labels/republic_records.md) |
+| 3 | 2 | [JYP Entertainment](../labels/jyp_entertainment.md) |
+| 2 | 2 | WM Japan |
+| 1 | 1 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
+| 1 | 0 | [Warner Records](../labels/warner_records.md) |
 
 ## Genres
 

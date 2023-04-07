@@ -8,50 +8,50 @@ Appears as:
 ## Top Artists
 
 
-
-
 <details>
 <summary>See all 2 artists</summary>
 
-| Number of Tracks | Art | Artist | 🔗 |
-|---:|:---|:---|:---|
-| 20 | <img src="https://i.scdn.co/image/54c4049a6258f1d526aa8b421ac31332add3db98" alt="" width="50" /> | Martin Jones | [🔗](https://open.spotify.com/artist/1VzJXXVXsYbEK773GWSoND) |
-| 20 | <img src="https://i.scdn.co/image/5e1155c852578ddf5d2cfea94ccb3a8a65efa882" alt="" width="50" /> | Claude Debussy | [🔗](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP) |
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/54c4049a6258f1d526aa8b421ac31332add3db98" alt="" width="50" /> | 20 | 0 | Martin Jones | [🔗](https://open.spotify.com/artist/1VzJXXVXsYbEK773GWSoND) |
+| <img src="https://i.scdn.co/image/5e1155c852578ddf5d2cfea94ccb3a8a65efa882" alt="" width="50" /> | 20 | 0 | Claude Debussy | [🔗](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP) |
 
 </details>
+
+
 
 
 ## Top Albums
 
 
-
-
 <details>
 <summary>See all 1 albums</summary>
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|---:|:---|
-| 20 | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="" width="50" /> | Debussy: Clair De Lune and Other Piano Favourites | 1994 | [🔗](https://open.spotify.com/album/4O5tv6jrLH80bmll46xEEe) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="" width="50" /> | 20 | 0 | Debussy: Clair De Lune and Other Piano Favourites | 1994 | [🔗](https://open.spotify.com/album/4O5tv6jrLH80bmll46xEEe) |
 
 </details>
 
 
-## Genres
 
-![Bar chart of top 3 genres](../images/labels/nimbus_records/genres.png)
+
+## Genres
 
 
 <details>
 <summary>See all 3 genres</summary>
 
-| Number of Tracks | Genre |
-|---:|:---|
-| 20 | post-romantic era |
-| 20 | impressionism |
-| 20 | classical |
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
+| 20 | 0 | post-romantic era |
+| 20 | 0 | impressionism |
+| 20 | 0 | classical |
 
 </details>
 
+
+![Bar chart of top 3 genres](../images/labels/nimbus_records/genres.png)
 
 ## Tracks released under Nimbus Records
 

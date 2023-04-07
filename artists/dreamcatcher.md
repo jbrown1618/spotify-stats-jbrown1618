@@ -12,25 +12,25 @@
 | 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | [K-Pop 101](../playlists/k_pop_101/overview.md) |
 ## Top Albums
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 4 | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="" width="50" /> | 1st Album [Dystopia : The Tree of Language] | 2020-02-18 | [🔗](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="" width="50" /> | [Apocalypse : Save us] | 2022-04-12 | [🔗](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b273dd525e34b35a55ca3763e28d" alt="" width="50" /> | Raid of Dream | 2019-09-18 | [🔗](https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737c0618723e2fca9e617eec34" alt="" width="50" /> | [Summer Holiday] | 2021-07-30 | [🔗](https://open.spotify.com/album/1JOpx5eL6Rb3vRC9epERQD) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27393dc875f5465891061acef62" alt="" width="50" /> | [REASON] | 2023-01-13 | [🔗](https://open.spotify.com/album/0VZzJkiIK51ygHS5n1qRnZ) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2731e998666727247d231c75cf8" alt="" width="50" /> | [Dystopia : Road to Utopia] | 2021-01-26 | [🔗](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273c7d075ac409f015413350f6d" alt="" width="50" /> | [Apocalypse : Follow us] | 2022-10-11 | [🔗](https://open.spotify.com/album/7MQXcfzHmWjQAAIFhdy1mY) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2735497178d3e5f7cd1f88f9be8" alt="" width="50" /> | The End of Nightmare | 2019-02-13 | [🔗](https://open.spotify.com/album/02YL02Pjk6moxi5iuYsIPC) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="" width="50" /> | 4 | 4 | 1st Album [Dystopia : The Tree of Language] | 2020-02-18 | [🔗](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="" width="50" /> | 3 | 2 | [Apocalypse : Save us] | 2022-04-12 | [🔗](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dd525e34b35a55ca3763e28d" alt="" width="50" /> | 2 | 2 | Raid of Dream | 2019-09-18 | [🔗](https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737c0618723e2fca9e617eec34" alt="" width="50" /> | 1 | 1 | [Summer Holiday] | 2021-07-30 | [🔗](https://open.spotify.com/album/1JOpx5eL6Rb3vRC9epERQD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731e998666727247d231c75cf8" alt="" width="50" /> | 1 | 1 | [Dystopia : Road to Utopia] | 2021-01-26 | [🔗](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c7d075ac409f015413350f6d" alt="" width="50" /> | 1 | 1 | [Apocalypse : Follow us] | 2022-10-11 | [🔗](https://open.spotify.com/album/7MQXcfzHmWjQAAIFhdy1mY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27393dc875f5465891061acef62" alt="" width="50" /> | 1 | 0 | [REASON] | 2023-01-13 | [🔗](https://open.spotify.com/album/0VZzJkiIK51ygHS5n1qRnZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735497178d3e5f7cd1f88f9be8" alt="" width="50" /> | 1 | 0 | The End of Nightmare | 2019-02-13 | [🔗](https://open.spotify.com/album/02YL02Pjk6moxi5iuYsIPC) |
 
 ## Top Record Labels
 
-| Number of Tracks | Label |
-|---:|:---|
-| 10 | [DREAMCATCHER COMPANY](../labels/dreamcatcher_company.md) |
-| 2 | ㈜ 드림캐쳐컴퍼니 |
-| 1 | 드림캐쳐컴퍼니 |
-| 1 | ㈜ 드림캐쳐 컴퍼니 |
+| Tracks | 💚 | Label |
+|---:|---:|:---|
+| 10 | 8 | [DREAMCATCHER COMPANY](../labels/dreamcatcher_company.md) |
+| 2 | 2 | ㈜ 드림캐쳐컴퍼니 |
+| 1 | 1 | 드림캐쳐컴퍼니 |
+| 1 | 0 | ㈜ 드림캐쳐 컴퍼니 |
 
 ## Genres
 

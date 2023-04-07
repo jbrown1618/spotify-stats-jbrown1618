@@ -13,22 +13,22 @@
 | 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | [Sharon RPD](../playlists/sharon_rpd/overview.md) |
 ## Top Albums
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 6 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 28 Reasons - The 1st Mini Album | 2022-10-04 | [🔗](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27388cdde41f2552db78b94e957" alt="" width="50" /> | Wow Thing | 2018-09-28 | [🔗](https://open.spotify.com/album/3xEPyp7h78uULpDPuKvokH) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2737c10cbde96d84578e7694009" alt="" width="50" /> | School Rapper FINAL | 2017-04-01 | [🔗](https://open.spotify.com/album/1HlNyrcRkCbpi87jz6rY7y) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273294c757e724cc58bbbd29287" alt="" width="50" /> | SELFISH | 2018-05-23 | [🔗](https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b27386468c650757ef3eb49ba6d3" alt="" width="50" /> | Doll - SM STATION | 2017-10-27 | [🔗](https://open.spotify.com/album/6YHteiOLrZ7gfQEqq2TeRM) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | 2022 Winter SMTOWN : SMCU PALACE | 2022-12-26 | [🔗](https://open.spotify.com/album/1HwnXJfZx8N8qDfzwUbxcw) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 6 | 3 | 28 Reasons - The 1st Mini Album | 2022-10-04 | [🔗](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27388cdde41f2552db78b94e957" alt="" width="50" /> | 1 | 1 | Wow Thing | 2018-09-28 | [🔗](https://open.spotify.com/album/3xEPyp7h78uULpDPuKvokH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737c10cbde96d84578e7694009" alt="" width="50" /> | 1 | 0 | School Rapper FINAL | 2017-04-01 | [🔗](https://open.spotify.com/album/1HlNyrcRkCbpi87jz6rY7y) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273294c757e724cc58bbbd29287" alt="" width="50" /> | 1 | 0 | SELFISH | 2018-05-23 | [🔗](https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27386468c650757ef3eb49ba6d3" alt="" width="50" /> | 1 | 0 | Doll - SM STATION | 2017-10-27 | [🔗](https://open.spotify.com/album/6YHteiOLrZ7gfQEqq2TeRM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | 1 | 0 | 2022 Winter SMTOWN : SMCU PALACE | 2022-12-26 | [🔗](https://open.spotify.com/album/1HwnXJfZx8N8qDfzwUbxcw) |
 
 ## Top Record Labels
 
-| Number of Tracks | Label |
-|---:|:---|
-| 9 | [SM Entertainment](../labels/sm_entertainment.md) |
-| 1 | [RBW Inc.](../labels/rbw_inc_.md) |
-| 1 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
+| Tracks | 💚 | Label |
+|---:|---:|:---|
+| 9 | 4 | [SM Entertainment](../labels/sm_entertainment.md) |
+| 1 | 0 | [RBW Inc.](../labels/rbw_inc_.md) |
+| 1 | 0 | [Genie Music Corporation](../labels/genie_music_corporation.md) |
 
 ## Genres
 

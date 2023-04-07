@@ -8,30 +8,30 @@
 | Number of Tracks | Art | Playlist |
 |---:|:---|:---|
 | 18 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273022b4010e20659300f42c375ab67616d0000b2730e402844f1b6be3102d339f2ab67616d0000b2733378545422c5257483f6230eab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | [Singer-Songwriter](../playlists/singer_songwriter/overview.md) |
-| 17 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273028c3bb4b81ee71dd73d1596ab67616d0000b27392c885317fbe4bfa680109b4ab67616d0000b273d0ec2db731952a7efabc6397ab67616d0000b273f6749fd9a1027b244f061e87" alt="" width="50" /> | [Indie/Alternative](../playlists/indie_alternative/overview.md) |
+| 17 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732a038d3bf875d23e4aeaa84eab67616d0000b2737a4781629469bb83356cd318ab67616d0000b27398d4c378a8c78e84bfcf7743ab67616d0000b273f6749fd9a1027b244f061e87" alt="" width="50" /> | [Alt-Pop](../playlists/alt_pop/overview.md) |
 | 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | [Pop](../playlists/pop/overview.md) |
 ## Top Albums
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 6 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Born To Die | 2012-01-30 | [🔗](https://open.spotify.com/album/4X8hAqIWpQyQks2yRhyqs4) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="" width="50" /> | Ultraviolence (Deluxe) | 2014-01-01 | [🔗](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) |
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="" width="50" /> | Norman Fucking Rockwell! | 2019-08-30 | [🔗](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) |
-| 2 | <img src="https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190" alt="" width="50" /> | Lust For Life | 2017-07-21 | [🔗](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2" alt="" width="50" /> | Young And Beautiful | 2013-01-01 | [🔗](https://open.spotify.com/album/1D92WOHWUI2AGQCCdplcXL) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a" alt="" width="50" /> | Paradise | 2012-11-09 | [🔗](https://open.spotify.com/album/1JnjcAIKQ9TSJFVFierTB8) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Midnights | 2022-10-21 | [🔗](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a" alt="" width="50" /> | Honeymoon | 2015-09-18 | [🔗](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) |
-| 1 | <img src="https://i.scdn.co/image/ab67616d0000b273c891137d2513ecd496e9152e" alt="" width="50" /> | Charlie's Angels (Original Motion Picture Soundtrack) | 2019-11-01 | [🔗](https://open.spotify.com/album/4NBuascXb3uK0mFUYuJ63f) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | 6 | 6 | Born To Die | 2012-01-30 | [🔗](https://open.spotify.com/album/4X8hAqIWpQyQks2yRhyqs4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="" width="50" /> | 3 | 1 | Ultraviolence (Deluxe) | 2014-01-01 | [🔗](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="" width="50" /> | 3 | 0 | Norman Fucking Rockwell! | 2019-08-30 | [🔗](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190" alt="" width="50" /> | 2 | 1 | Lust For Life | 2017-07-21 | [🔗](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a" alt="" width="50" /> | 1 | 1 | Paradise | 2012-11-09 | [🔗](https://open.spotify.com/album/1JnjcAIKQ9TSJFVFierTB8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | 1 | 1 | Midnights | 2022-10-21 | [🔗](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2" alt="" width="50" /> | 1 | 0 | Young And Beautiful | 2013-01-01 | [🔗](https://open.spotify.com/album/1D92WOHWUI2AGQCCdplcXL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a" alt="" width="50" /> | 1 | 0 | Honeymoon | 2015-09-18 | [🔗](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c891137d2513ecd496e9152e" alt="" width="50" /> | 1 | 0 | Charlie's Angels (Original Motion Picture Soundtrack) | 2019-11-01 | [🔗](https://open.spotify.com/album/4NBuascXb3uK0mFUYuJ63f) |
 
 ## Top Record Labels
 
-| Number of Tracks | Label |
-|---:|:---|
-| 17 | [Polydor Records](../labels/polydor_records.md) |
-| 1 | [Taylor Swift](../labels/taylor_swift.md) |
-| 1 | Silver Cloud |
-| 1 | Charlie's Angels |
+| Tracks | 💚 | Label |
+|---:|---:|:---|
+| 17 | 9 | [Polydor Records](../labels/polydor_records.md) |
+| 1 | 1 | [Taylor Swift](../labels/taylor_swift.md) |
+| 1 | 0 | Silver Cloud |
+| 1 | 0 | Charlie's Angels |
 
 ## Genres
 

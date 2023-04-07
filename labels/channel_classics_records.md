@@ -8,48 +8,48 @@ Appears as:
 ## Top Artists
 
 
-
-
 <details>
 <summary>See all 2 artists</summary>
 
-| Number of Tracks | Art | Artist | 🔗 |
-|---:|:---|:---|:---|
-| 12 | <img src="https://i.scdn.co/image/e9a9521ffd11cf06717c699acc48c32ec6ac7d21" alt="" width="50" /> | Joseph Haydn | [🔗](https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6) |
-| 12 | <img src="https://i.scdn.co/image/ab67616d0000b273f1e24654c624c58911f179b5" alt="" width="50" /> | The Amsterdam String Quartet | [🔗](https://open.spotify.com/artist/0kbgyaL9g2Eba79p2jiYlN) |
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/e9a9521ffd11cf06717c699acc48c32ec6ac7d21" alt="" width="50" /> | 12 | 0 | Joseph Haydn | [🔗](https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f1e24654c624c58911f179b5" alt="" width="50" /> | 12 | 0 | The Amsterdam String Quartet | [🔗](https://open.spotify.com/artist/0kbgyaL9g2Eba79p2jiYlN) |
 
 </details>
+
+
 
 
 ## Top Albums
 
 
-
-
 <details>
 <summary>See all 1 albums</summary>
 
-| Number of Tracks | Art | Album | Release Date | 🔗 |
-|---:|:---|:---|:---|:---|
-| 12 | <img src="https://i.scdn.co/image/ab67616d0000b2737368d9506efe9c2d556d9e98" alt="" width="50" /> | Haydn: String Quartets | 2008-01-01 | [🔗](https://open.spotify.com/album/1rNGG2I3AKJy9FWqUiitkc) |
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2737368d9506efe9c2d556d9e98" alt="" width="50" /> | 12 | 0 | Haydn: String Quartets | 2008-01-01 | [🔗](https://open.spotify.com/album/1rNGG2I3AKJy9FWqUiitkc) |
 
 </details>
+
+
 
 
 ## Genres
 
 
-
-
 <details>
 <summary>See all 2 genres</summary>
 
-| Number of Tracks | Genre |
-|---:|:---|
-| 12 | classical era |
-| 12 | classical |
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
+| 12 | 0 | classical era |
+| 12 | 0 | classical |
 
 </details>
+
+
 
 
 ## Tracks released under Channel Classics Records
