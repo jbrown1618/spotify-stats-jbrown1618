@@ -1,6 +1,6 @@
 # dance pop
 
-[242 songs](dance_pop_tracks.md)
+[244 songs](dance_pop_tracks.md)
 
 ## Top Artists
 
@@ -54,6 +54,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeccc1cde8e9fdcf1c9289897" alt="" width="50" /> | 2 | 2 | Niall Horan | [🔗](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | 2 | 2 | SUGA | [🔗](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | 2 | 1 | Chris Brown | [🔗](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb292575f7d081016e04dff9ee" alt="" width="50" /> | 2 | 1 | The Pussycat Dolls | [🔗](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) |
 | <img src="https://i.scdn.co/image/ab6772690000c46ca3ebb27ba9a55044f32af6e1" alt="" width="50" /> | 2 | 1 | Silk Sonic | [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | 2 | 1 | Juicy J | [🔗](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | 2 | 1 | Young Thug | [🔗](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) |
@@ -78,7 +79,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | 1 | 1 | Hwa Sa | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebad53e714cc3481bd069bfc93" alt="" width="50" /> | 1 | 1 | Wyclef Jean | [🔗](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) |
 | <img src="https://i.scdn.co/image/cdc8cf94774db4f0066ca1f90eb3fda45955a420" alt="" width="50" /> | 1 | 1 | Freshlyground | [🔗](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb292575f7d081016e04dff9ee" alt="" width="50" /> | 1 | 1 | The Pussycat Dolls | [🔗](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe32a61d17ecbe732a99d6d92" alt="" width="50" /> | 1 | 1 | 24kGoldn | [🔗](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c" alt="" width="50" /> | 1 | 1 | Amy Winehouse | [🔗](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf271138f95fbe8188d909d50" alt="" width="50" /> | 1 | 1 | Kesha | [🔗](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) |
@@ -235,7 +235,7 @@
 
 
 <details>
-<summary>See all 78 labels</summary>
+<summary>See all 80 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -247,8 +247,8 @@
 | 15 | 12 | [Epic](../labels/epic.md) |
 | 13 | 11 | [Universal Music LLC](../labels/universal_music_llc.md) |
 | 13 | 8 | [Republic Records](../labels/republic_records.md) |
+| 13 | 8 | [Interscope Records](../labels/interscope_records.md) |
 | 12 | 10 | [Syco Music](../labels/syco_music.md) |
-| 12 | 8 | [Interscope Records](../labels/interscope_records.md) |
 | 10 | 8 | [Capitol Records](../labels/capitol_records.md) |
 | 8 | 8 | Monkey Puzzle Records |
 | 7 | 4 | [Polydor Records](../labels/polydor_records.md) |
@@ -305,12 +305,14 @@
 | 1 | 0 | Silent Records IGA |
 | 1 | 0 | Shawn Mendes LP4-5 PS |
 | 1 | 0 | Selena Gomez PS |
+| 1 | 0 | Pussycat Dolls |
 | 1 | 0 | Parlophone UK |
 | 1 | 0 | Fueled By Ramen |
 | 1 | 0 | Epic Amsterdam |
 | 1 | 0 | Def Soul |
 | 1 | 0 | Decaydance |
 | 1 | 0 | DJ Snake Music Productions Limited |
+| 1 | 0 | Collipark |
 | 1 | 0 | Chris Brown Entertainment |
 | 1 | 0 | Charlie's Angels |
 | 1 | 0 | Bad Boy |
@@ -416,8 +418,8 @@
 | Hold Up (0.521) | Yeah! (feat. Lil Jon & Ludacris) (0.0388) |
 | (I Got That) Boom Boom (feat. Ying Yang Twins) (0.508) | Good Thing (with Kehlani) (0.0409) |
 | Sour Candy (with BLACKPINK) (0.489) | SUGA's Interlude (0.0425) |
-| In the Name of Love (0.454) | Believe (0.0509) |
-| Focus (0.444) | SexyBack (feat. Timbaland) (0.0519) |
+| In the Name of Love (0.454) | Crank That (Soulja Boy) (0.0468) |
+| Focus (0.444) | Believe (0.0509) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|

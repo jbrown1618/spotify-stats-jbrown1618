@@ -1,6 +1,6 @@
 # Interscope Records
 
-69 songs
+70 songs
 
 Appears as:
 - YG Entertainment/Interscope Records (20 tracks)
@@ -13,6 +13,7 @@ Appears as:
 - Bad Boy / Interscope (2 tracks)
 - Kid Ina Korner / Interscope (2 tracks)
 - Mosley / Interscope (2 tracks)
+- Collipark / Interscope (1 tracks)
 - Fantasy Soul/Interscope Records (1 tracks)
 - Friends Keep Secrets/Def Jam Recordings/Interscope Records (1 tracks)
 - Interscope Records (1 tracks)
@@ -22,7 +23,7 @@ Appears as:
 
 
 <details>
-<summary>See all 27 artists</summary>
+<summary>See all 28 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -52,18 +53,19 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb59f8cfc8e71dcaf8c6ec4bde" alt="" width="50" /> | 1 | 1 | Jimin | [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2657bcafcb300d90816523f" alt="" width="50" /> | 1 | 1 | Kehlani | [🔗](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba5205abffd84341e5bace828" alt="" width="50" /> | 1 | 1 | Selena Gomez | [🔗](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba0b85051b7e8ea8c9739a87e" alt="" width="50" /> | 1 | 0 | Soulja Boy | [🔗](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | 1 | 0 | [Ariana Grande](../artists/ariana_grande.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 
 </details>
 
 
-![Bar chart of top 27 artists](../images/labels/interscope_records/artists.png)
+![Bar chart of top 28 artists](../images/labels/interscope_records/artists.png)
 
 ## Top Albums
 
 
 <details>
-<summary>See all 34 albums</summary>
+<summary>See all 35 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -98,6 +100,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="" width="50" /> | 1 | 1 | Evolve | 2017-06-23 | [🔗](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fddc804f96cdd6a7de9bcc09" alt="" width="50" /> | 1 | 1 | DUMB DUMB | 2021-08-02 | [🔗](https://open.spotify.com/album/24sFioeGsPtxa5fD6VzL8b) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd" alt="" width="50" /> | 1 | 1 | Born This Way | 2011-01-01 | [🔗](https://open.spotify.com/album/2KkMVsxymoNR7hRmBcMttd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6a328ced07af494400584b" alt="" width="50" /> | 1 | 0 | souljaboytellem.com | 2007-01-01 | [🔗](https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273969438a8091085c2472a0766" alt="" width="50" /> | 1 | 0 | Til It Happens To You | 2015-09-18 | [🔗](https://open.spotify.com/album/00qjYaNSNpQCZHhCpAlH60) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1" alt="" width="50" /> | 1 | 0 | Joanne (Deluxe) | 2016-10-21 | [🔗](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318" alt="" width="50" /> | 1 | 0 | Guitar Songs | 2022-07-21 | [🔗](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) |
@@ -111,7 +114,7 @@ Appears as:
 
 
 <details>
-<summary>See all 22 genres</summary>
+<summary>See all 28 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -119,10 +122,10 @@ Appears as:
 | 31 | 26 | [k-pop](../genres/k_pop.md) |
 | 23 | 19 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 | 22 | 16 | [art pop](../genres/art_pop.md) |
-| 12 | 8 | [dance pop](../genres/dance_pop.md) |
+| 13 | 8 | [dance pop](../genres/dance_pop.md) |
 | 11 | 9 | [electropop](../genres/electropop.md) |
+| 3 | 2 | pop rap |
 | 2 | 2 | [rock](../genres/rock.md) |
-| 2 | 2 | pop rap |
 | 2 | 2 | piano rock |
 | 2 | 2 | modern rock |
 | 1 | 1 | tropical house |
@@ -137,11 +140,17 @@ Appears as:
 | 1 | 1 | edm |
 | 1 | 1 | complextro |
 | 1 | 1 | canadian pop |
+| 1 | 0 | trap |
+| 1 | 0 | southern hip hop |
+| 1 | 0 | rap |
+| 1 | 0 | dirty south rap |
+| 1 | 0 | chicago bop |
+| 1 | 0 | atl hip hop |
 
 </details>
 
 
-![Bar chart of top 22 genres](../images/labels/interscope_records/genres.png)
+![Bar chart of top 28 genres](../images/labels/interscope_records/genres.png)
 
 ## Tracks released under Interscope Records
 
@@ -214,5 +223,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2736564f1d8386a6993b4d5d759" alt="" width="50" /> | Mushroom Chocolate (with 6LACK) | LUCID | QUIN, 6LACK | [Fantasy Soul/Interscope Records](interscope_records.md) | 💚 | [🔗](https://open.spotify.com/track/6DEhBd4RGr8MbSAtSNNtai) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f" alt="" width="50" /> | Gone | R | ROSÉ | [Interscope Records](interscope_records.md), [YG Entertainment](yg_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f" alt="" width="50" /> | On The Ground | R | ROSÉ | [Interscope Records](interscope_records.md), [YG Entertainment](yg_entertainment.md) | 💚 | [🔗](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6a328ced07af494400584b" alt="" width="50" /> | Crank That (Soulja Boy) | souljaboytellem.com | Soulja Boy | [Collipark / Interscope](interscope_records.md) | | [🔗](https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f7994d33de90ec347aa477c3" alt="" width="50" /> | VIBE (feat. Jimin of BTS) | VIBE (feat. Jimin of BTS) | TAEYANG, Jimin | [THEBLACKLABEL/Interscope Records](interscope_records.md) | 💚 | [🔗](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c824820b3a74839b91b4036a" alt="" width="50" /> | Good Thing (with Kehlani) | Good Thing (with Kehlani) | Zedd, Kehlani | [Interscope Records](interscope_records.md) | 💚 | [🔗](https://open.spotify.com/track/5aUSEPNd3m5xliFK4pn5mU) |

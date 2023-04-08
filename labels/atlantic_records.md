@@ -1,9 +1,9 @@
 # Atlantic Records
 
-78 songs
+79 songs
 
 Appears as:
-- Atlantic Records (68 tracks)
+- Atlantic Records (69 tracks)
 - Aftermath Entertainment/Atlantic (2 tracks)
 - Atlantic Records/ATG (2 tracks)
 - Atlantic/KSR (2 tracks)
@@ -15,7 +15,7 @@ Appears as:
 
 
 <details>
-<summary>See all 44 artists</summary>
+<summary>See all 49 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -40,6 +40,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8c7085cb6bc26d51b510656c" alt="" width="50" /> | 2 | 1 | Jasmine Cephas-Jones | [🔗](https://open.spotify.com/artist/4H3e5t5utgPvj6Nsuda5QF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496" alt="" width="50" /> | 2 | 1 | Anderson .Paak | [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb576cb43281160e345f728b71" alt="" width="50" /> | 2 | 1 | Charli XCX | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4bdf6db5203f2a0e44002620" alt="" width="50" /> | 2 | 0 | Wiz Khalifa | [🔗](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9bc0756eb16b241111bbc72b" alt="" width="50" /> | 1 | 1 | Colbie Caillat | [🔗](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb90a228bbe264818694c54834" alt="" width="50" /> | 1 | 1 | Ally Brooke | [🔗](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410" alt="" width="50" /> | 1 | 1 | Clean Bandit | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
@@ -53,15 +54,19 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46a8b2fd0f5b0a0d7e5f3f8a" alt="" width="50" /> | 1 | 1 | Straight No Chaser | [🔗](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2822fcd3337b030199b3861a" alt="" width="50" /> | 1 | 1 | Pink Sweat$ | [🔗](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bebfdee4c4cfea3473a51ab" alt="" width="50" /> | 1 | 1 | Megan Thee Stallion | [🔗](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd9dde4a54073dbd58fb91c7d" alt="" width="50" /> | 1 | 0 | Ty Dolla $ign | [🔗](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9bbbc124c9f0f75af892d97d" alt="" width="50" /> | 1 | 0 | Christina Perri | [🔗](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc4b4e69e26eb1367eb8b796" alt="" width="50" /> | 1 | 0 | Jon Rua | [🔗](https://open.spotify.com/artist/69NsP4MC1JbfvKMwpx2oy8) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc63aded6f4bf4d06d1377106" alt="" width="50" /> | 1 | 0 | Lil Wayne | [🔗](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb920dc1f617550de8388f368e" alt="" width="50" /> | 1 | 0 | Imagine Dragons | [🔗](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6581cd61841a546e8ba1dc1f" alt="" width="50" /> | 1 | 0 | Logic | [🔗](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Thayne Jasperson | [🔗](https://open.spotify.com/artist/4lSm9vkdpKSs1O8nKflRaB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba5d79c36c464a18b9d0d5d79" alt="" width="50" /> | 1 | 0 | AleXa | [🔗](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a39389bb6dd8fd79c0fff3a2" alt="" width="50" /> | 1 | 0 | American Song Contest | [🔗](https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Ephraim Sykes | [🔗](https://open.spotify.com/artist/3brilvMAN6ILRUMvaqJWdG) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2e61ab05b365a172d51b5568" alt="" width="50" /> | 1 | 0 | X Ambassadors | [🔗](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb27c55a5e9ed2a41c01589fae" alt="" width="50" /> | 1 | 0 | Tiësto | [🔗](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c77218620de388c559ba5bbb" alt="" width="50" /> | 1 | 0 | Ariana DeBose | [🔗](https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4bdf6db5203f2a0e44002620" alt="" width="50" /> | 1 | 0 | Wiz Khalifa | [🔗](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Sasha Hutchings | [🔗](https://open.spotify.com/artist/0Pg2rEmiZEnmxw4eQwtvsR) |
 
 </details>
@@ -73,7 +78,7 @@ Appears as:
 
 
 <details>
-<summary>See all 26 albums</summary>
+<summary>See all 27 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -99,6 +104,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273b817e721691aff3d67f26c04" alt="" width="50" /> | 1 | 1 | About Damn Time | 2022-04-14 | [🔗](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27326a2f5224465a369f8abbf88" alt="" width="50" /> | 1 | 0 | lovestrong. | 2011-05-10 | [🔗](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a13e33d4a6ef59d51603a6c" alt="" width="50" /> | 1 | 0 | Wonderland (From “American Song Contest”) | 2022-03-21 | [🔗](https://open.spotify.com/album/1KxiHSk6DOOL1C24ijw9m0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737d8dfcfd507069d7f2062caf" alt="" width="50" /> | 1 | 0 | Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors) | 2016-06-24 | [🔗](https://open.spotify.com/album/704GHNtZhEe9TBgleCNNGv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734e5df11b17b2727da2b718d8" alt="" width="50" /> | 1 | 0 | See You Again (feat. Charlie Puth) | 2015 | [🔗](https://open.spotify.com/album/5FXIqS1XqbpfOKNoi5VUwS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27379ffc01d8bc8312192cacfc0" alt="" width="50" /> | 1 | 0 | Love's Train | 2022-02-14 | [🔗](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb" alt="" width="50" /> | 1 | 0 | Led Zeppelin III (Remaster) | 1970 | [🔗](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) |
@@ -107,13 +113,13 @@ Appears as:
 </details>
 
 
-![Bar chart of top 26 albums](../images/labels/atlantic_records/albums.png)
+![Bar chart of top 27 albums](../images/labels/atlantic_records/albums.png)
 
 ## Genres
 
 
 <details>
-<summary>See all 50 genres</summary>
+<summary>See all 51 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -123,10 +129,11 @@ Appears as:
 | 20 | 16 | [dance pop](../genres/dance_pop.md) |
 | 16 | 2 | [broadway](../genres/broadway.md) |
 | 10 | 2 | vocal jazz |
-| 3 | 2 | rap |
+| 4 | 2 | rap |
 | 3 | 2 | [post-teen pop](../genres/post_teen_pop.md) |
 | 3 | 2 | [pop rock](../genres/pop_rock.md) |
 | 3 | 2 | [neo mellow](../genres/neo_mellow.md) |
+| 3 | 1 | pop rap |
 | 3 | 0 | [rock](../genres/rock.md) |
 | 3 | 0 | hard rock |
 | 3 | 0 | [classic rock](../genres/classic_rock.md) |
@@ -140,9 +147,10 @@ Appears as:
 | 2 | 2 | escape room |
 | 2 | 2 | [acoustic pop](../genres/acoustic_pop.md) |
 | 2 | 1 | viral pop |
-| 2 | 1 | pop rap |
 | 2 | 1 | pop dance |
 | 2 | 1 | edm |
+| 2 | 0 | trap |
+| 2 | 0 | hip hop |
 | 2 | 0 | alternative hip hop |
 | 1 | 1 | uk pop |
 | 1 | 1 | uk funky |
@@ -156,14 +164,13 @@ Appears as:
 | 1 | 1 | [art pop](../genres/art_pop.md) |
 | 1 | 1 | [adult standards](../genres/adult_standards.md) |
 | 1 | 1 | [a cappella](../genres/a_cappella.md) |
-| 1 | 0 | trap |
 | 1 | 0 | trance |
 | 1 | 0 | southern hip hop |
 | 1 | 0 | slap house |
 | 1 | 0 | pittsburgh rap |
+| 1 | 0 | new orleans rap |
 | 1 | 0 | [k-pop](../genres/k_pop.md) |
 | 1 | 0 | house |
-| 1 | 0 | hip hop |
 | 1 | 0 | dutch edm |
 | 1 | 0 | brostep |
 | 1 | 0 | big room |
@@ -224,6 +231,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | Wait for It | Hamilton (Original Broadway Cast Recording) | [Leslie Odom Jr.](../artists/leslie_odom_jr_.md), [Original Broadway Cast of Hamilton](../artists/original_broadway_cast_of_hamilton.md) | [Atlantic Records](atlantic_records.md) | 💚 | [🔗](https://open.spotify.com/track/7EqpEBPOohgk7NnKvBGFWo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | Washington on Your Side | Hamilton (Original Broadway Cast Recording) | [Leslie Odom Jr.](../artists/leslie_odom_jr_.md), [Daveed Diggs](../artists/daveed_diggs.md), [Okieriete Onaodowan](../artists/okieriete_onaodowan.md), [Original Broadway Cast of Hamilton](../artists/original_broadway_cast_of_hamilton.md) | [Atlantic Records](atlantic_records.md) | | [🔗](https://open.spotify.com/track/1WHNqqRWhJVZIdCScFKtl5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | Your Obedient Servant | Hamilton (Original Broadway Cast Recording) | [Leslie Odom Jr.](../artists/leslie_odom_jr_.md), [Lin-Manuel Miranda](../artists/lin_manuel_miranda.md), [Original Broadway Cast of Hamilton](../artists/original_broadway_cast_of_hamilton.md) | [Atlantic Records](atlantic_records.md) | | [🔗](https://open.spotify.com/track/6SHI6STEW51cQkAXBRpLNj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737d8dfcfd507069d7f2062caf" alt="" width="50" /> | Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors) | Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors) | Lil Wayne, Wiz Khalifa, Imagine Dragons, X Ambassadors, Logic, Ty Dolla $ign | [Atlantic Records](atlantic_records.md) | | [🔗](https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | Aaron Burr, Sir | Hamilton (Original Broadway Cast Recording) | [Lin-Manuel Miranda](../artists/lin_manuel_miranda.md), [Leslie Odom Jr.](../artists/leslie_odom_jr_.md), [Daveed Diggs](../artists/daveed_diggs.md), [Okieriete Onaodowan](../artists/okieriete_onaodowan.md), [Anthony Ramos](../artists/anthony_ramos.md) | [Atlantic Records](atlantic_records.md) | | [🔗](https://open.spotify.com/track/6dr7ekfhlbquvsVY8D7gyk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | Hurricane | Hamilton (Original Broadway Cast Recording) | [Lin-Manuel Miranda](../artists/lin_manuel_miranda.md), [Original Broadway Cast of Hamilton](../artists/original_broadway_cast_of_hamilton.md) | [Atlantic Records](atlantic_records.md) | | [🔗](https://open.spotify.com/track/16sNPUamj4vnA7uQLozRpU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | Meet Me Inside | Hamilton (Original Broadway Cast Recording) | [Lin-Manuel Miranda](../artists/lin_manuel_miranda.md), [Leslie Odom Jr.](../artists/leslie_odom_jr_.md), Christopher Jackson, [Original Broadway Cast of Hamilton](../artists/original_broadway_cast_of_hamilton.md), [Anthony Ramos](../artists/anthony_ramos.md) | [Atlantic Records](atlantic_records.md) | | [🔗](https://open.spotify.com/track/6p7jXaTJdpzGWnOJoK2jYr) |

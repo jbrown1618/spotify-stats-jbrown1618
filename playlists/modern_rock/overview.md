@@ -1,7 +1,7 @@
-# Alt-Rock
+# Modern Rock
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d0000b273028c3bb4b81ee71dd73d1596ab67616d0000b2735675e83f707f1d7271e5cf8aab67616d0000b2737948eec521c67e76cafe30a0ab67616d0000b273c985bcc18dd81da80839e5a9" alt="Alt-Rock" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d0000b273028c3bb4b81ee71dd73d1596ab67616d0000b2735675e83f707f1d7271e5cf8aab67616d0000b2737948eec521c67e76cafe30a0ab67616d0000b273c985bcc18dd81da80839e5a9" alt="Modern Rock" width="100" />
 
 [72 songs (57 liked)](tracks.md)
 
@@ -48,9 +48,9 @@
 </details>
 
 
-![Bar chart of top 30 artists](../../images/playlists/alt_rock/artists.png)
+![Bar chart of top 30 artists](../../images/playlists/modern_rock/artists.png)
 
-![Comparison of Artist](../../images/playlists/alt_rock/artists_comparison.png)
+![Comparison of Artist](../../images/playlists/modern_rock/artists_comparison.png)
 
 ## Top Albums
 
@@ -112,7 +112,7 @@
 </details>
 
 
-![Bar chart of top 30 albums](../../images/playlists/alt_rock/albums.png)
+![Bar chart of top 30 albums](../../images/playlists/modern_rock/albums.png)
 
 ## Top Record Labels
 
@@ -162,7 +162,7 @@
 </details>
 
 
-![Bar chart of top 30 record labels](../../images/playlists/alt_rock/labels.png)
+![Bar chart of top 30 record labels](../../images/playlists/modern_rock/labels.png)
 
 ## Genres
 
@@ -257,13 +257,13 @@
 </details>
 
 
-![Bar chart of top 30 genres](../../images/playlists/alt_rock/genres.png)
+![Bar chart of top 30 genres](../../images/playlists/modern_rock/genres.png)
 
 ## Years
 
 
 
-![Bar chart of number of songs by year](../../images/playlists/alt_rock/years.png)
+![Bar chart of number of songs by year](../../images/playlists/modern_rock/years.png)
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|

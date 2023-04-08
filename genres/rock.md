@@ -1,6 +1,6 @@
 # rock
 
-[159 songs](rock_tracks.md)
+[157 songs](rock_tracks.md)
 
 ## Top Artists
 
@@ -18,8 +18,8 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb249d55f2d68a44637905c57e" alt="" width="50" /> | 6 | 2 | Fleetwood Mac | [🔗](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) |
 | <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | 5 | 5 | Simon & Garfunkel | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | 5 | 4 | Muse | [🔗](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebcaea403b29f6a09260b6a18a" alt="" width="50" /> | 5 | 2 | The Strokes | [🔗](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | 4 | 2 | Van Morrison | [🔗](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcaea403b29f6a09260b6a18a" alt="" width="50" /> | 3 | 2 | The Strokes | [🔗](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe848dfb35ea4969099662dfd" alt="" width="50" /> | 3 | 1 | Journey | [🔗](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) |
 | <img src="https://i.scdn.co/image/207803ce008388d3427a685254f9de6a8f61dc2e" alt="" width="50" /> | 3 | 0 | Led Zeppelin | [🔗](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb920dc1f617550de8388f368e" alt="" width="50" /> | 2 | 2 | Imagine Dragons | [🔗](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) |
@@ -60,7 +60,7 @@
 
 
 <details>
-<summary>See top 100 albums</summary>
+<summary>See all 100 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -93,7 +93,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="" width="50" /> | 2 | 1 | 52nd Street | 1978-10-13 | [🔗](https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="" width="50" /> | 2 | 0 | Tapestry | 1971 | [🔗](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="" width="50" /> | 2 | 0 | Led Zeppelin IV (Deluxe Edition) | 1971-11-08 | [🔗](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" alt="" width="50" /> | 2 | 0 | Is This It | 2001-07-30 | [🔗](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="" width="50" /> | 2 | 0 | Good Vibrations | 1993 | [🔗](https://open.spotify.com/album/10IUKCLZPs9onPwXfQVxfv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27351729fae66d02122c4951153" alt="" width="50" /> | 1 | 1 | Young The Giant (Special Edition) | 2011 | [🔗](https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273608a63ad5b18e99da94a3f73" alt="" width="50" /> | 1 | 1 | With The Beatles (Remastered) | 1963-11-22 | [🔗](https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr) |
@@ -156,14 +155,15 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273bc9b44e950d5440ff65ea926" alt="" width="50" /> | 1 | 0 | Machine Head | 1972-03-25 | [🔗](https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731be40e44db112e123e5e8b51" alt="" width="50" /> | 1 | 0 | Leftoverture (Expanded Edition) | 1976 | [🔗](https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb" alt="" width="50" /> | 1 | 0 | Led Zeppelin III (Remaster) | 1970 | [🔗](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" alt="" width="50" /> | 1 | 0 | Is This It | 2001-07-30 | [🔗](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27350dcdcb73b5bbff6d3136131" alt="" width="50" /> | 1 | 0 | Innuendo | 1991-02-04 | [🔗](https://open.spotify.com/album/5yAM3CcaXF6DPRJW3oL6Ya) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734637341b9f507521afa9a778" alt="" width="50" /> | 1 | 0 | Hotel California (2013 Remaster) | 1976-12-08 | [🔗](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27309880a7b8636c5a0615dc0c8" alt="" width="50" /> | 1 | 0 | Graceland (25th Anniversary Deluxe Edition) | 1986-08-12 | [🔗](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27322d5199692d318c28d6c7d9b" alt="" width="50" /> | 1 | 0 | Glass Houses | 1980-03-12 | [🔗](https://open.spotify.com/album/5sztejERqpktXEdemlUvU5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736898a982ff3c6049ba52586c" alt="" width="50" /> | 1 | 0 | First Impressions Of Earth | 2006-01-03 | [🔗](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f" alt="" width="50" /> | 1 | 0 | Eyes Open | 2006-01-01 | [🔗](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5653f9038e42efad2f8a266" alt="" width="50" /> | 1 | 0 | Escape (Bonus Track Version) | 1981 | [🔗](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737e8045e318486885fe243817" alt="" width="50" /> | 1 | 0 | Departure | 1980 | [🔗](https://open.spotify.com/album/2OyVtIEp7O7a6o82DF4Ba5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273431daec5815fd0255437b43b" alt="" width="50" /> | 1 | 0 | Cold Spring Harbor | 1971-11-01 | [🔗](https://open.spotify.com/album/274rMlKrr22086ohmwAJZA) |
 
 </details>
 
@@ -185,9 +185,9 @@
 | 14 | 11 | [Hollywood Records](../labels/hollywood_records.md) |
 | 11 | 3 | [Rhino](../labels/rhino.md) |
 | 8 | 3 | [Legacy](../labels/legacy.md) |
-| 5 | 2 | [RCA Records Label](../labels/rca_records_label.md) |
 | 4 | 1 | [Epic](../labels/epic.md) |
 | 3 | 3 | Geffen |
+| 3 | 2 | [RCA Records Label](../labels/rca_records_label.md) |
 | 3 | 2 | [Polydor Records](../labels/polydor_records.md) |
 | 3 | 0 | [Atlantic Records](../labels/atlantic_records.md) |
 | 2 | 2 | [UMC (Universal Music Catalogue)](../labels/umc__universal_music_catalogue_.md) |
@@ -295,12 +295,12 @@
 | Weird Fishes/ Arpeggi (0.756) | Believer (0.0) |
 | Reptilia (0.713) | Killer Queen (0.0) |
 | Street Spirit (Fade Out) (0.694) | And So It Goes (0.0) |
-| You Only Live Once (0.592) | Crazy Little Thing Called Love (0.0) |
-| 1979 - Remastered 2012 (0.583) | Ride (0.0) |
-| Smoke on the Water (0.581) | Everybody Talks (0.0) |
-| There, There (0.52) | Only the Good Die Young (0.0) |
-| All I Need (0.428) | Yesterday - Remastered 2009 (0.0) |
-| Pyramid Song (0.427) | We Didn't Start the Fire (0.0) |
+| 1979 - Remastered 2012 (0.583) | Crazy Little Thing Called Love (0.0) |
+| Smoke on the Water (0.581) | Ride (0.0) |
+| There, There (0.52) | Everybody Talks (0.0) |
+| All I Need (0.428) | Only the Good Die Young (0.0) |
+| Pyramid Song (0.427) | Yesterday - Remastered 2009 (0.0) |
+| Come Together - Remastered 2009 (0.248) | We Didn't Start the Fire (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -317,13 +317,13 @@
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| You Only Live Once (0.968) | Everything In Its Right Place (0.0629) |
-| 1979 - Remastered 2012 (0.964) | Pyramid Song (0.0686) |
-| I'm a Believer - 2006 Remaster (0.962) | Hurt (0.0826) |
-| Hard To Handle (0.961) | All I Need (0.0997) |
-| Cecilia (0.954) | Creep (0.104) |
-| (I Can't Get No) Satisfaction - Mono Version (0.931) | The Show Must Go On (0.109) |
-| Brown Eyed Girl (0.908) | No Surprises (0.118) |
-| All My Loving - Remastered 2009 (0.9) | Street Spirit (Fade Out) (0.131) |
-| Movin' Out (Anthony's Song) (0.895) | Fake Plastic Trees (0.135) |
-| We Didn't Start the Fire (0.895) | Come Sail Away (0.141) |
+| 1979 - Remastered 2012 (0.964) | Everything In Its Right Place (0.0629) |
+| I'm a Believer - 2006 Remaster (0.962) | Pyramid Song (0.0686) |
+| Hard To Handle (0.961) | Hurt (0.0826) |
+| Cecilia (0.954) | All I Need (0.0997) |
+| (I Can't Get No) Satisfaction - Mono Version (0.931) | Creep (0.104) |
+| Brown Eyed Girl (0.908) | The Show Must Go On (0.109) |
+| All My Loving - Remastered 2009 (0.9) | No Surprises (0.118) |
+| Movin' Out (Anthony's Song) (0.895) | Street Spirit (Fade Out) (0.131) |
+| We Didn't Start the Fire (0.895) | Fake Plastic Trees (0.135) |
+| Walk This Way (0.894) | Come Sail Away (0.141) |

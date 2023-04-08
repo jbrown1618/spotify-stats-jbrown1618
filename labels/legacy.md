@@ -1,11 +1,12 @@
 # Legacy
 
-15 songs
+16 songs
 
 Appears as:
 - Columbia/Legacy (6 tracks)
 - Epic/Legacy (4 tracks)
 - Ode/Epic/Legacy (2 tracks)
+- J Records/Legacy (1 tracks)
 - Legacy/Columbia (1 tracks)
 - RCA/Legacy (1 tracks)
 - Volcano/Legacy (1 tracks)
@@ -14,7 +15,7 @@ Appears as:
 
 
 <details>
-<summary>See all 9 artists</summary>
+<summary>See all 10 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -27,17 +28,18 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb152cf48cf9541c7061570857" alt="" width="50" /> | 1 | 0 | Johnny Cash | [🔗](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a93e273380982dff84c0d7c" alt="" width="50" /> | 1 | 0 | Elvis Presley | [🔗](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) |
 | <img src="https://i.scdn.co/image/da30acd2c9d0f32f5f5a2d69f32c2d30335466b5" alt="" width="50" /> | 1 | 0 | Survivor | [🔗](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7b31aba081ef084510cde4e3" alt="" width="50" /> | 1 | 0 | Busta Rhymes | [🔗](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) |
 
 </details>
 
 
-![Bar chart of top 9 artists](../images/labels/legacy/artists.png)
+![Bar chart of top 10 artists](../images/labels/legacy/artists.png)
 
 ## Top Albums
 
 
 <details>
-<summary>See all 12 albums</summary>
+<summary>See all 13 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -50,6 +52,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2737ea560d522ef653c268d79c9" alt="" width="50" /> | 1 | 0 | Time Further Out | 1961 | [🔗](https://open.spotify.com/album/0eMXd1VtCXCkuGWn9JjRDT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f4a2ccbe20d6d52f16816812" alt="" width="50" /> | 1 | 0 | Rocky IV | 1985 | [🔗](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731be40e44db112e123e5e8b51" alt="" width="50" /> | 1 | 0 | Leftoverture (Expanded Edition) | 1976 | [🔗](https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273075418a1fafdfd7a455941dd" alt="" width="50" /> | 1 | 0 | Genesis | 2001-11-07 | [🔗](https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737e8045e318486885fe243817" alt="" width="50" /> | 1 | 0 | Departure | 1980 | [🔗](https://open.spotify.com/album/2OyVtIEp7O7a6o82DF4Ba5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f96cefb0197694ad440c3314" alt="" width="50" /> | 1 | 0 | Blue Hawaii | 1961-10-20 | [🔗](https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a04593b7c149dc7b725683e" alt="" width="50" /> | 1 | 0 | At Folsom Prison | 1968-05-01 | [🔗](https://open.spotify.com/album/4TJIdlY9hGSSTO1kUs1neh) |
@@ -57,13 +60,13 @@ Appears as:
 </details>
 
 
-![Bar chart of top 12 albums](../images/labels/legacy/albums.png)
+![Bar chart of top 13 albums](../images/labels/legacy/albums.png)
 
 ## Genres
 
 
 <details>
-<summary>See all 26 genres</summary>
+<summary>See all 32 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -91,18 +94,25 @@ Appears as:
 | 1 | 1 | roots rock |
 | 1 | 0 | rockabilly |
 | 1 | 0 | rock-and-roll |
+| 1 | 0 | rap |
+| 1 | 0 | pop rap |
 | 1 | 0 | outlaw country |
+| 1 | 0 | hip pop |
+| 1 | 0 | hip hop |
+| 1 | 0 | hardcore hip hop |
+| 1 | 0 | east coast hip hop |
 | 1 | 0 | arkansas country |
 
 </details>
 
 
-![Bar chart of top 26 genres](../images/labels/legacy/genres.png)
+![Bar chart of top 30 genres](../images/labels/legacy/genres.png)
 
 ## Tracks released under Legacy
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273075418a1fafdfd7a455941dd" alt="" width="50" /> | Break Ya Neck | Genesis | Busta Rhymes | [J Records/Legacy](legacy.md) | | [🔗](https://open.spotify.com/track/7gKgd0P3dAAePiSQQBqrlf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="" width="50" /> | I Feel the Earth Move | Tapestry | Carole King | Ode, [Epic](epic.md), [Legacy](legacy.md) | | [🔗](https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="" width="50" /> | So Far Away | Tapestry | Carole King | Ode, [Epic](epic.md), [Legacy](legacy.md) | | [🔗](https://open.spotify.com/track/4HHge4zAyIw3pkrtFzmwCl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f96cefb0197694ad440c3314" alt="" width="50" /> | Can't Help Falling in Love | Blue Hawaii | Elvis Presley | [Legacy](legacy.md), [RCA Records Label](rca_records_label.md) | | [🔗](https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC) |
