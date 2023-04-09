@@ -270,7 +270,7 @@ None
 | Song of the Lonely Mountain | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 52 |
 | Misty Mountains | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Tim Foust | 0 | 0 | 36 |
 | Misty Mountains | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 52 |
-| I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 50 |
+| I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 49 |
 | I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 52 |
 | Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Hank Green | 0 | 0 | 33 |
 | Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 52 |
@@ -288,8 +288,10 @@ None
 | You Raise Me Up - A Cappella | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 52 |
 | Lullaby | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 52 |
 | Over the Rainbow | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 52 |
-| Gotta Go | Gotta Go | CHUNG HA | 0 | 0 | 63 |
+| Gotta Go | Gotta Go | CHUNG HA | 0 | 0 | 62 |
 | Yours | Jirisan (Original Television Soundtrack) Pt. 4 | JIN | 1 | 0 | 71 |
+| Nothing Else Matters | Metallica | Metallica | 1 | 2 | 84 |
+| Enter Sandman | Metallica | Metallica | 2 | 2 | 84 |
 | The Sound of Silence | The Sound of Silence | Tim Foust | 0 | 0 | 36 |
 | The Sound of Silence | The Sound of Silence | Peter Hollens | 0 | 0 | 52 |
 | Carey | Blue | Joni Mitchell | 0 | 1 | 56 |
@@ -307,7 +309,7 @@ None
 | No More Dream | 2 Cool 4 Skool | BTS | 0 | 0 | 91 |
 | Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 53 |
 | Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 86 |
-| PLAY | PLAY | CHUNG HA | 0 | 0 | 63 |
+| PLAY | PLAY | CHUNG HA | 0 | 0 | 62 |
 | PLAY | PLAY | CHANGMO | 0 | 0 | 59 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 62 |
 | Libertango | Weather To Fly | The Swingle Singers | 0 | 0 | 29 |
@@ -331,9 +333,7 @@ None
 | Toxic | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 29 |
 | Demons | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 29 |
 | Cry Me a River | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 29 |
-| Don't Stop Believin' | BOCA 2008: Best Of College A Cappella | The Clef Hangers | 0 | 0 | 25 |
 | Come Sail Away | BOCA 2008: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 32 |
-| Africa | House Rules | The Clef Hangers | 0 | 0 | 25 |
 | Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 87 |
 | Les Miserables Medley | Peter Hollens | Evynne Hollens | 0 | 0 | 41 |
 | Les Miserables Medley | Peter Hollens | Peter Hollens | 0 | 0 | 52 |
@@ -358,17 +358,16 @@ None
 | I'd Like To | I Used to Live Alone | Voices in Your Head | 0 | 0 | 29 |
 | Home | I Used to Live Alone | Voices in Your Head | 0 | 0 | 29 |
 | Butter | Butter | BTS | 1 | 0 | 91 |
-| Let It Go | Fixate | The Clef Hangers | 0 | 0 | 25 |
 | Djadja | Djadja | Aya Nakamura | 0 | 0 | 74 |
-| Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 54 |
-| Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 55 |
+| Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 53 |
+| Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 56 |
 | Jackie Onassis | Jackie Onassis | Sammy Rae & The Friends | 0 | 0 | 56 |
 | Good Old Fashioned Lover Boy | A Day At The Races | Queen | 0 | 0 | 86 |
 | Somebody To Love | A Day At The Races | Queen | 0 | 0 | 86 |
 | Now (feat. Hwa Sa) | PSY 9th | PSY | 0 | 2 | 66 |
 | Now (feat. Hwa Sa) | PSY 9th | Hwa Sa | 0 | 2 | 64 |
 | Happier (feat. Crush) | PSY 9th | PSY | 0 | 2 | 66 |
-| Happier (feat. Crush) | PSY 9th | Crush | 0 | 2 | 67 |
+| Happier (feat. Crush) | PSY 9th | Crush | 0 | 2 | 66 |
 | Prelude No.1 in C Major | Spotlight on Bach | The Swingle Singers | 0 | 0 | 29 |
 | You're My Best Friend | A Night At The Opera | Queen | 0 | 0 | 86 |
 | Bohemian Rhapsody | A Night At The Opera | Queen | 0 | 0 | 86 |
@@ -380,7 +379,6 @@ None
 | Abracadabra | Sound G. | Brown Eyed Girls | 0 | 0 | 44 |
 | Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 68 |
 | Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 69 |
-| Some Nights | The Mallard | The Clef Hangers | 0 | 0 | 25 |
 | 醒不来的梦 | 醒不来的梦 | 拾贰 | 0 | 0 | 28 |
 | Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 53 |
 | Saw It Coming | Saw It Coming | Sammy Rae & The Friends | 0 | 0 | 56 |
@@ -398,7 +396,7 @@ None
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 1 | 0 | 80 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 87 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 45 |
-| Snapping | Flourishing | CHUNG HA | 0 | 0 | 63 |
+| Snapping | Flourishing | CHUNG HA | 0 | 0 | 62 |
 | 행복 (Happiness) | The 1st Single '행복(Happiness)' | Red Velvet | 0 | 0 | 74 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 82 |
 | Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 57 |

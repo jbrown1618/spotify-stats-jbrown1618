@@ -130,7 +130,7 @@ Appears as:
 
 
 <details>
-<summary>See all 26 genres</summary>
+<summary>See all 27 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -154,6 +154,7 @@ Appears as:
 | 1 | 0 | jazz blues |
 | 1 | 0 | funk |
 | 1 | 0 | [folk rock](../genres/folk_rock.md) |
+| 1 | 0 | electric blues |
 | 1 | 0 | country rock |
 | 1 | 0 | classic uk pop |
 | 1 | 0 | bubblegum pop |
@@ -164,7 +165,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 26 genres](../images/labels/walt_disney_records/genres.png)
+![Bar chart of top 27 genres](../images/labels/walt_disney_records/genres.png)
 
 ## Tracks released under Walt Disney Records
 

@@ -120,7 +120,7 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 29 | 9 | [adult standards](../../genres/adult_standards.md) |
-| 28 | 9 | lounge |
+| 23 | 9 | lounge |
 | 21 | 0 | smooth jazz |
 | 12 | 5 | jazz pop |
 | 12 | 5 | canadian pop |

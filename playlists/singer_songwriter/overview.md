@@ -38,7 +38,7 @@
 | <img src="https://i.scdn.co/image/ab6772690000c46c50e750d1aed632c37a450ffb" alt="" width="50" /> | 1 | 1 | Duffy | [🔗](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb778483686ae247c1906f02fb" alt="" width="50" /> | 1 | 1 | Birdy | [🔗](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9236c8060febc7d7fc7ea8c4" alt="" width="50" /> | 1 | 0 | Rachael Yamagata | [🔗](https://open.spotify.com/artist/7w0qj2HiAPIeUcoPogvOZ6) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb596dcf281eb1b225dad3496e" alt="" width="50" /> | 1 | 0 | Emily King | [🔗](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb790083a6083fbf749114dcbb" alt="" width="50" /> | 1 | 0 | Emily King | [🔗](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe062176ee3682ca24d6fddd7" alt="" width="50" /> | 1 | 0 | Feist | [🔗](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1d8a4653fd6d0725521725bb" alt="" width="50" /> | 1 | 0 | James Smith | [🔗](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba688abfbbed1037befa47232" alt="" width="50" /> | 1 | 0 | HAIM | [🔗](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) |
@@ -230,7 +230,7 @@
 | 6 | 2 | glam rock |
 | 5 | 3 | deep indie singer-songwriter |
 | 3 | 1 | viral pop |
-| 2 | 1 | neo soul |
+| 3 | 1 | neo soul |
 | 2 | 1 | indy indie |
 | 2 | 1 | indiecoustica |
 | 2 | 0 | chamber pop |

@@ -300,12 +300,12 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 181 | 181 | [k-pop](../../genres/k_pop.md) |
+| 182 | 182 | [k-pop](../../genres/k_pop.md) |
 | 86 | 86 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 49 | 49 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
 | 11 | 11 | [pop](../../genres/pop.md) |
 | 9 | 9 | anime |
-| 7 | 7 | [korean pop](../../genres/korean_pop.md) |
+| 6 | 6 | [korean pop](../../genres/korean_pop.md) |
 | 5 | 5 | korean r&b |
 | 1 | 1 | korean talent show |
 | 1 | 1 | korean ost |

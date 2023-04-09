@@ -40,7 +40,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd66f1e0c883f319443d68c45" alt="" width="50" /> | 1 | 0 | Lil Nas X | [🔗](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) |
 | <img src="https://i.scdn.co/image/a3823abbd476fa00cdf95a9f5cbbe09d2f96add2" alt="" width="50" /> | 1 | 0 | Jamie Foxx | [🔗](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb292575f7d081016e04dff9ee" alt="" width="50" /> | 1 | 0 | The Pussycat Dolls | [🔗](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb91db14ab76facb2443c17b7b" alt="" width="50" /> | 1 | 0 | Linkin Park | [🔗](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb811da3b2e7c9e5a9c1a6c4f7" alt="" width="50" /> | 1 | 0 | Linkin Park | [🔗](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb31072db9da0311ecfabe96bf" alt="" width="50" /> | 1 | 0 | Khalid | [🔗](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba0b85051b7e8ea8c9739a87e" alt="" width="50" /> | 1 | 0 | Soulja Boy | [🔗](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb41e4a3b8c1d45a9e49b6de21" alt="" width="50" /> | 1 | 0 | Marshmello | [🔗](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) |
@@ -158,7 +158,7 @@
 
 
 <details>
-<summary>See all 35 genres</summary>
+<summary>See all 34 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -183,7 +183,6 @@
 | 1 | 1 | old school hip hop |
 | 1 | 1 | old school atlanta hip hop |
 | 1 | 1 | north carolina hip hop |
-| 1 | 1 | hip house |
 | 1 | 1 | electro |
 | 1 | 1 | crunk |
 | 1 | 1 | australian hip hop |
