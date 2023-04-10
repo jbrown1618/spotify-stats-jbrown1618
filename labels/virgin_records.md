@@ -55,7 +55,7 @@ Appears as:
 |---:|---:|:---|
 | 10 | 5 | [neo mellow](../genres/neo_mellow.md) |
 | 10 | 5 | [lilith](../genres/lilith.md) |
-| 10 | 5 | [acoustic pop](../genres/acoustic_pop.md) |
+| 7 | 4 | [acoustic pop](../genres/acoustic_pop.md) |
 | 4 | 1 | [pop rock](../genres/pop_rock.md) |
 | 3 | 1 | scottish singer-songwriter |
 | 1 | 1 | uk pop |

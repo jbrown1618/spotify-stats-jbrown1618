@@ -120,7 +120,7 @@ Appears as:
 
 
 <details>
-<summary>See all 19 genres</summary>
+<summary>See all 20 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -136,6 +136,7 @@ Appears as:
 | 1 | 1 | metropopolis |
 | 1 | 1 | latin pop |
 | 1 | 1 | indietronica |
+| 1 | 1 | [electropop](../genres/electropop.md) |
 | 1 | 1 | edm |
 | 1 | 1 | canadian pop |
 | 1 | 1 | canadian contemporary r&b |
@@ -147,7 +148,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 19 genres](../images/labels/republic_records/genres.png)
+![Bar chart of top 20 genres](../images/labels/republic_records/genres.png)
 
 ## Tracks released under Republic Records
 

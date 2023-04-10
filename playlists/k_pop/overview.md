@@ -60,7 +60,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | 6 | 6 | PENTAGON | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb80584436e5726afb70cee7f8" alt="" width="50" /> | 6 | 5 | LOONA | [🔗](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | 6 | 5 | j-hope | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe94c521bbe0604a5fcd4f8bf" alt="" width="50" /> | 6 | 4 | Agust D | [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb365158d123c641da282b2433" alt="" width="50" /> | 6 | 4 | Agust D | [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5045a0e0d423ce29d6b14ebd" alt="" width="50" /> | 6 | 4 | TREASURE | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd90aa536055fe9806b3960e6" alt="" width="50" /> | 6 | 3 | GOT7 | [🔗](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb24b5185226d5b7c6aa91db5a" alt="" width="50" /> | 6 | 3 | PSY | [🔗](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) |
@@ -361,7 +361,7 @@
 | 389 | 297 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 238 | 165 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
 | 58 | 46 | [pop](../../genres/pop.md) |
-| 40 | 30 | [korean pop](../../genres/korean_pop.md) |
+| 47 | 37 | [korean pop](../../genres/korean_pop.md) |
 | 38 | 31 | korean r&b |
 | 28 | 17 | k-rap |
 | 22 | 19 | anime |
@@ -375,12 +375,12 @@
 | 2 | 2 | uk pop |
 | 2 | 2 | j-division |
 | 2 | 1 | [post-teen pop](../../genres/post_teen_pop.md) |
-| 2 | 1 | [electropop](../../genres/electropop.md) |
 | 2 | 1 | chinese idol pop |
 | 1 | 1 | viral pop |
 | 1 | 1 | korean trap |
 | 1 | 1 | indie poptimism |
 | 1 | 1 | etherpop |
+| 1 | 1 | [electropop](../../genres/electropop.md) |
 | 1 | 1 | danish pop |
 | 1 | 1 | chill r&b |
 | 1 | 1 | [art pop](../../genres/art_pop.md) |

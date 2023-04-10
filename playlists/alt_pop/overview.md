@@ -52,7 +52,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb245e3a1c6500880fbd051dbd" alt="" width="50" /> | 1 | 1 | Will Jordan | [🔗](https://open.spotify.com/artist/3Is3ehDoBlnTKQtCHdEvpd) |
 | <img src="nan" alt="" width="50" /> | 1 | 1 | Tommy Raps | [🔗](https://open.spotify.com/artist/2jDVhHiltj9mEWoIGdBg3z) |
 | <img src="https://i.scdn.co/image/713664fded8bdd28ed84f4b2054815af92999b9c" alt="" width="50" /> | 1 | 1 | Gotye | [🔗](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb67fb419eefffd6cfd5e3a26e" alt="" width="50" /> | 1 | 1 | Anne-Marie | [🔗](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb67013e289b84440ce3d1c88e" alt="" width="50" /> | 1 | 1 | Anne-Marie | [🔗](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb65b7b48eeac1b113c75f2295" alt="" width="50" /> | 1 | 1 | YB | [🔗](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0f623ae3b66b6a1277c235ae" alt="" width="50" /> | 1 | 1 | Zara Larsson | [🔗](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7926088433d79485da5e1734" alt="" width="50" /> | 1 | 1 | Mabel | [🔗](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) |
@@ -226,7 +226,7 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 69 | 56 | [pop](../../genres/pop.md) |
-| 33 | 22 | [electropop](../../genres/electropop.md) |
+| 34 | 23 | [electropop](../../genres/electropop.md) |
 | 33 | 22 | [art pop](../../genres/art_pop.md) |
 | 18 | 15 | baroque pop |
 | 17 | 15 | uk alternative pop |

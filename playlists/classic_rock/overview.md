@@ -160,7 +160,7 @@
 
 
 <details>
-<summary>See all 41 genres</summary>
+<summary>See all 40 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -179,14 +179,13 @@
 | 9 | 8 | blues rock |
 | 9 | 6 | [folk rock](../../genres/folk_rock.md) |
 | 9 | 4 | yacht rock |
-| 6 | 4 | country rock |
 | 5 | 3 | heartland rock |
 | 4 | 3 | symphonic rock |
 | 4 | 3 | progressive rock |
+| 4 | 3 | country rock |
 | 4 | 1 | metal |
 | 3 | 2 | [singer-songwriter](../../genres/singer_songwriter.md) |
 | 3 | 2 | roots rock |
-| 3 | 2 | folk |
 | 2 | 1 | uk doom metal |
 | 2 | 1 | synth funk |
 | 2 | 1 | sunshine pop |

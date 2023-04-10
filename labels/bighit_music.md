@@ -15,7 +15,7 @@ Appears as:
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | 32 | 23 | [BTS](../artists/bts.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe94c521bbe0604a5fcd4f8bf" alt="" width="50" /> | 6 | 4 | Agust D | [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb365158d123c641da282b2433" alt="" width="50" /> | 6 | 4 | Agust D | [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | 5 | 4 | j-hope | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb59f8cfc8e71dcaf8c6ec4bde" alt="" width="50" /> | 2 | 1 | Jimin | [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5fb007a707c0ec3a7c1726af" alt="" width="50" /> | 2 | 0 | Steve Aoki | [🔗](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) |

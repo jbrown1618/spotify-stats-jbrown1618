@@ -56,7 +56,7 @@ Appears as:
 
 
 <details>
-<summary>See all 10 genres</summary>
+<summary>See all 11 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -67,6 +67,7 @@ Appears as:
 | 5 | 3 | quiet storm |
 | 5 | 2 | classic soul |
 | 4 | 1 | memphis soul |
+| 3 | 2 | lounge |
 | 1 | 1 | [soft rock](../genres/soft_rock.md) |
 | 1 | 1 | [mellow gold](../genres/mellow_gold.md) |
 | 1 | 1 | disco |
@@ -74,7 +75,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 10 genres](../images/labels/motown/genres.png)
+![Bar chart of top 11 genres](../images/labels/motown/genres.png)
 
 ## Tracks released under MOTOWN
 

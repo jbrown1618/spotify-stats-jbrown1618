@@ -309,7 +309,7 @@
 
 
 <details>
-<summary>See all 98 genres</summary>
+<summary>See all 97 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -409,7 +409,6 @@
 | 1 | 0 | [electropop](../../genres/electropop.md) |
 | 1 | 0 | chiptune |
 | 1 | 0 | chinese r&b |
-| 1 | 0 | alt z |
 | 1 | 0 | afro soul |
 
 </details>

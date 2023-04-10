@@ -237,7 +237,6 @@
 | 3 | 2 | british soul |
 | 3 | 2 | atl hip hop |
 | 3 | 1 | [post-teen pop](../../genres/post_teen_pop.md) |
-| 3 | 1 | folk |
 | 2 | 2 | soul |
 | 2 | 2 | motown |
 | 2 | 2 | funk |
@@ -251,6 +250,7 @@
 | 2 | 1 | permanent wave |
 | 2 | 1 | modern folk rock |
 | 2 | 1 | [lilith](../../genres/lilith.md) |
+| 2 | 1 | folk |
 | 2 | 1 | chicago rap |
 | 2 | 1 | barbadian pop |
 | 2 | 0 | rockabilly |

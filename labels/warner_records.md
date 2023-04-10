@@ -113,15 +113,15 @@ Appears as:
 
 
 <details>
-<summary>See all 47 genres</summary>
+<summary>See all 46 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 22 | 16 | [pop](../genres/pop.md) |
 | 22 | 15 | [dance pop](../genres/dance_pop.md) |
-| 16 | 10 | [electropop](../genres/electropop.md) |
 | 16 | 8 | [rock](../genres/rock.md) |
 | 13 | 8 | nz pop |
+| 13 | 8 | [electropop](../genres/electropop.md) |
 | 13 | 8 | bergen indie |
 | 11 | 4 | [classic rock](../genres/classic_rock.md) |
 | 10 | 6 | uk pop |
@@ -151,7 +151,6 @@ Appears as:
 | 2 | 1 | funk rock |
 | 2 | 1 | funk |
 | 2 | 1 | [folk rock](../genres/folk_rock.md) |
-| 2 | 1 | folk |
 | 2 | 1 | birmingham metal |
 | 1 | 1 | trap |
 | 1 | 1 | southern hip hop |

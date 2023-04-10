@@ -299,7 +299,6 @@ None
 | A Case of You | Blue | Joni Mitchell | 1 | 1 | 56 |
 | La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 42 |
 | Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 42 |
-| Golden Hour | Golden Hour - SM STATION : NCT LAB | MARK | 0 | 0 | 49 |
 | Manwa Laage | BOCA 2015: Best Of College A Cappella | Penn Masala | 0 | 0 | 35 |
 | Eine kleine Nachtmusik | BOCA 2015: Best Of College A Cappella | BYU Vocal Point | 0 | 0 | 47 |
 | Counting Stars | BOCA 2015: Best Of College A Cappella | The Nor'easters | 0 | 0 | 33 |
@@ -333,7 +332,9 @@ None
 | Toxic | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 29 |
 | Demons | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 29 |
 | Cry Me a River | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 29 |
+| Don't Stop Believin' | BOCA 2008: Best Of College A Cappella | The Clef Hangers | 0 | 0 | 25 |
 | Come Sail Away | BOCA 2008: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 32 |
+| Africa | House Rules | The Clef Hangers | 0 | 0 | 25 |
 | Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 87 |
 | Les Miserables Medley | Peter Hollens | Evynne Hollens | 0 | 0 | 41 |
 | Les Miserables Medley | Peter Hollens | Peter Hollens | 0 | 0 | 52 |
@@ -358,6 +359,7 @@ None
 | I'd Like To | I Used to Live Alone | Voices in Your Head | 0 | 0 | 29 |
 | Home | I Used to Live Alone | Voices in Your Head | 0 | 0 | 29 |
 | Butter | Butter | BTS | 1 | 0 | 91 |
+| Let It Go | Fixate | The Clef Hangers | 0 | 0 | 25 |
 | Djadja | Djadja | Aya Nakamura | 0 | 0 | 74 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 53 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 56 |
@@ -371,14 +373,13 @@ None
 | Prelude No.1 in C Major | Spotlight on Bach | The Swingle Singers | 0 | 0 | 29 |
 | You're My Best Friend | A Night At The Opera | Queen | 0 | 0 | 86 |
 | Bohemian Rhapsody | A Night At The Opera | Queen | 0 | 0 | 86 |
-| People, Pt. 2 (feat. IU) | People, Pt. 2 (feat. IU) | IU | 0 | 0 | 72 |
-| People, Pt. 2 (feat. IU) | People, Pt. 2 (feat. IU) | Agust D | 0 | 0 | 70 |
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | P!nk | 0 | 0 | 84 |
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | Nate Ruess | 0 | 0 | 66 |
 | Rollin' | Rollin' | Brave Girls | 1 | 0 | 52 |
 | Abracadabra | Sound G. | Brown Eyed Girls | 0 | 0 | 44 |
 | Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 68 |
 | Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 69 |
+| Some Nights | The Mallard | The Clef Hangers | 0 | 0 | 25 |
 | 醒不来的梦 | 醒不来的梦 | 拾贰 | 0 | 0 | 28 |
 | Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 53 |
 | Saw It Coming | Saw It Coming | Sammy Rae & The Friends | 0 | 0 | 56 |

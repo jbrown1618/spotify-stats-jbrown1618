@@ -98,7 +98,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb767815f4876969e8f888f0db" alt="" width="50" /> | 4 | 4 | The Rose | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
 | <img src="https://i.scdn.co/image/15b7ee7550ed4472700d573803ff90f2967f84d1" alt="" width="50" /> | 4 | 4 | A Fine Frenzy | [🔗](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0b4c8d0a415cab50e033129" alt="" width="50" /> | 4 | 4 | Solar | [🔗](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe94c521bbe0604a5fcd4f8bf" alt="" width="50" /> | 4 | 4 | Agust D | [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb365158d123c641da282b2433" alt="" width="50" /> | 4 | 4 | Agust D | [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc1dc943555dfa1ee2a107e5" alt="" width="50" /> | 4 | 4 | K/DA | [🔗](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb597a4257d0022e2ac837fa7d" alt="" width="50" /> | 4 | 4 | BIGBANG | [🔗](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d998e7541724c918777b8ca" alt="" width="50" /> | 4 | 4 | League of Legends | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
@@ -358,22 +358,22 @@
 | 378 | 378 | [pop](../../genres/pop.md) |
 | 299 | 299 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
 | 165 | 165 | [k-pop boy group](../../genres/k_pop_boy_group.md) |
-| 162 | 162 | [dance pop](../../genres/dance_pop.md) |
+| 161 | 161 | [dance pop](../../genres/dance_pop.md) |
 | 107 | 107 | [rock](../../genres/rock.md) |
 | 78 | 78 | [classic rock](../../genres/classic_rock.md) |
 | 59 | 59 | [neo mellow](../../genres/neo_mellow.md) |
 | 59 | 59 | [lilith](../../genres/lilith.md) |
-| 56 | 56 | [acoustic pop](../../genres/acoustic_pop.md) |
+| 55 | 55 | [acoustic pop](../../genres/acoustic_pop.md) |
 | 54 | 54 | [pop rock](../../genres/pop_rock.md) |
 | 43 | 43 | [hollywood](../../genres/hollywood.md) |
 | 42 | 42 | [mellow gold](../../genres/mellow_gold.md) |
 | 38 | 38 | [post-teen pop](../../genres/post_teen_pop.md) |
-| 34 | 34 | [electropop](../../genres/electropop.md) |
+| 38 | 38 | [korean pop](../../genres/korean_pop.md) |
+| 37 | 37 | [electropop](../../genres/electropop.md) |
 | 34 | 34 | [art pop](../../genres/art_pop.md) |
 | 33 | 33 | [folk rock](../../genres/folk_rock.md) |
 | 32 | 32 | [soft rock](../../genres/soft_rock.md) |
 | 32 | 32 | korean r&b |
-| 31 | 31 | [korean pop](../../genres/korean_pop.md) |
 | 30 | 30 | british invasion |
 | 28 | 28 | psychedelic rock |
 | 27 | 27 | [r&b](../../genres/r_b.md) |
@@ -402,19 +402,19 @@
 | 15 | 15 | baroque pop |
 | 14 | 14 | oxford indie |
 | 14 | 14 | neo soul |
-| 14 | 14 | folk |
 | 13 | 13 | glam rock |
 | 13 | 13 | canadian pop |
 | 13 | 13 | barbadian pop |
 | 12 | 12 | soul |
 | 12 | 12 | nz pop |
 | 12 | 12 | korean ost |
+| 12 | 12 | folk |
 | 12 | 12 | australian pop |
 | 12 | 12 | atl hip hop |
+| 11 | 11 | lounge |
 | 11 | 11 | indie rock |
 | 11 | 11 | edm |
 | 9 | 9 | tropical house |
-| 9 | 9 | lounge |
 | 9 | 9 | escape room |
 | 9 | 9 | bergen indie |
 | 8 | 8 | viral pop |
@@ -452,8 +452,8 @@
 | 5 | 5 | indietronica |
 | 5 | 5 | indie poptimism |
 | 5 | 5 | girl group |
-| 5 | 5 | country rock |
 | 5 | 5 | anti-folk |
+| 5 | 5 | afrofuturism |
 
 </details>
 

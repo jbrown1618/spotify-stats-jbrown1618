@@ -90,7 +90,7 @@ Appears as:
 
 
 <details>
-<summary>See all 39 genres</summary>
+<summary>See all 40 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -104,6 +104,7 @@ Appears as:
 | 5 | 3 | uk pop |
 | 5 | 2 | indietronica |
 | 4 | 2 | metropopolis |
+| 4 | 2 | [electropop](../genres/electropop.md) |
 | 4 | 0 | [hollywood](../genres/hollywood.md) |
 | 3 | 2 | [rock](../genres/rock.md) |
 | 2 | 2 | psychedelic rock |

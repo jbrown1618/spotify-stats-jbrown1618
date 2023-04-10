@@ -82,7 +82,7 @@ Appears as:
 | 8 | 6 | canadian singer-songwriter |
 | 7 | 5 | [mellow gold](../genres/mellow_gold.md) |
 | 7 | 2 | yacht rock |
-| 5 | 3 | country rock |
+| 3 | 2 | country rock |
 | 3 | 2 | bubblegum pop |
 | 3 | 1 | metal |
 | 3 | 1 | hard rock |

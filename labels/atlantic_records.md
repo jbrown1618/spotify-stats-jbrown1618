@@ -126,8 +126,8 @@ Appears as:
 | 44 | 3 | [show tunes](../genres/show_tunes.md) |
 | 41 | 2 | [hollywood](../genres/hollywood.md) |
 | 22 | 19 | [pop](../genres/pop.md) |
+| 22 | 2 | [broadway](../genres/broadway.md) |
 | 20 | 16 | [dance pop](../genres/dance_pop.md) |
-| 16 | 2 | [broadway](../genres/broadway.md) |
 | 10 | 2 | vocal jazz |
 | 4 | 2 | rap |
 | 3 | 2 | [post-teen pop](../genres/post_teen_pop.md) |

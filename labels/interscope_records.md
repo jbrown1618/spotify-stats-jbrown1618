@@ -123,7 +123,7 @@ Appears as:
 | 23 | 19 | [k-pop girl group](../genres/k_pop_girl_group.md) |
 | 22 | 16 | [art pop](../genres/art_pop.md) |
 | 13 | 8 | [dance pop](../genres/dance_pop.md) |
-| 11 | 9 | [electropop](../genres/electropop.md) |
+| 12 | 10 | [electropop](../genres/electropop.md) |
 | 3 | 2 | pop rap |
 | 2 | 2 | [rock](../genres/rock.md) |
 | 2 | 2 | piano rock |

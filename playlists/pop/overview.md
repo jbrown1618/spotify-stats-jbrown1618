@@ -358,11 +358,11 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 317 | 235 | [pop](../../genres/pop.md) |
-| 188 | 135 | [dance pop](../../genres/dance_pop.md) |
+| 187 | 134 | [dance pop](../../genres/dance_pop.md) |
 | 44 | 35 | [post-teen pop](../../genres/post_teen_pop.md) |
+| 33 | 25 | [electropop](../../genres/electropop.md) |
 | 30 | 24 | [art pop](../../genres/art_pop.md) |
 | 29 | 18 | uk pop |
-| 27 | 22 | [electropop](../../genres/electropop.md) |
 | 23 | 19 | urban contemporary |
 | 21 | 18 | pop rap |
 | 18 | 10 | edm |

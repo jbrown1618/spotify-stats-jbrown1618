@@ -129,7 +129,7 @@
 |---:|---:|:---|
 | 89 | 3 | [show tunes](../../genres/show_tunes.md) |
 | 60 | 3 | [hollywood](../../genres/hollywood.md) |
-| 52 | 2 | [broadway](../../genres/broadway.md) |
+| 58 | 2 | [broadway](../../genres/broadway.md) |
 | 37 | 0 | west end |
 | 10 | 2 | vocal jazz |
 | 7 | 1 | [pop](../../genres/pop.md) |

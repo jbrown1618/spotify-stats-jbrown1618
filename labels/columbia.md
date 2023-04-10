@@ -158,7 +158,7 @@ Appears as:
 | 22 | 15 | piano rock |
 | 20 | 10 | [dance pop](../genres/dance_pop.md) |
 | 19 | 10 | [r&b](../genres/r_b.md) |
-| 7 | 6 | folk |
+| 6 | 5 | folk |
 | 6 | 3 | hard rock |
 | 5 | 5 | melancholia |
 | 5 | 3 | pop soul |

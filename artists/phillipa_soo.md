@@ -22,6 +22,7 @@
 
 ## Genres
 
+- [broadway](../genres/broadway.md)
 - [hollywood](../genres/hollywood.md)
 - [show tunes](../genres/show_tunes.md)
 

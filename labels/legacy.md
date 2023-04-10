@@ -78,7 +78,6 @@ Appears as:
 | 5 | 2 | album rock |
 | 3 | 1 | [singer-songwriter](../genres/singer_songwriter.md) |
 | 3 | 1 | [folk rock](../genres/folk_rock.md) |
-| 3 | 1 | folk |
 | 3 | 0 | jazz quartet |
 | 3 | 0 | jazz |
 | 3 | 0 | bebop |
@@ -89,6 +88,7 @@ Appears as:
 | 2 | 1 | [pop](../genres/pop.md) |
 | 2 | 1 | heartland rock |
 | 2 | 1 | art rock |
+| 2 | 0 | folk |
 | 2 | 0 | brill building pop |
 | 2 | 0 | [adult standards](../genres/adult_standards.md) |
 | 1 | 1 | roots rock |
